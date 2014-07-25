@@ -3,18 +3,18 @@ P="Parole"; V="Vocabolario"; B="Base"; VB="$V-$B.txt"; VT="${V:l}.txt"
 FBU="https://www.googleapis.com/freebase/v1/mqlread/?lang=%2Flang%2Fit&query="
 VBU="http://materialefossati.altervista.org/download/${V}${B}Linkato.doc"
 WZU="http://it.wiktionary.org/w/index.php?action=raw&title="
-WRU="http://api.wordreference.com/12bee/iten/"
-TCU="http://www.treccani.it/$V/"
+WRU="http://api.wordreference.com/12bee/json/iten"
+TCU="http://www.treccani.it/${V:l}"
 rm -f $VT; mkdir $P
 curl $VBU | textutil -stdin -stdout -convert txt > $VB
 cat $VB | egrep -v '\\|’|\.$' | tr ' ' '\n' | egrep '^[A-Z]' > $P.txt
 for p in `cat $P.txt`; do
     p=${p:l}; PT="$P/$p.txt"
     Q=`urlenc -t "[{ \"name\": null, \"name~=\": \"$p\" }]"`
-    curl "$FBU$Q" | egrep -io ".*name.*" >> $PT
-    curl "$WRU$p" | egrep -io "W2\'>[^<>]+" >> $PT
-    curl "$TCU$p" | egrep -io "m>[^<>]{3,}</e" >> $PT
-    curl "$WZU$p" | egrep -io "^(#|:)?\*[^\*{:]+[^{:]+" >> $PT
+    curl "$FBU$Q" | egrep -io '.*name.*' >> $PT
+    curl "$TCU/$p/" | egrep -io 'm>[^<>]{3,}</e' >> $PT
+    curl "$WZU$p" | egrep -io '^(#|:)?\*[^\*{:]+[^{:]+' >> $PT
+    curl "$WRU/$p/" | egrep -io '"[^"]*'"(( $p)|($p ))"'[^"]*"' >> $PT
 done
 for f in $P/*; do
     echo "${f##*/}" >> $VT
