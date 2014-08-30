@@ -1,28 +1,28 @@
-#! /bin/sh
+#!/bin/bash
 
 export DICT="vocabolario.txt" SOL="soluzione.txt" TEMP="temporaneo.txt" HINTS="indizi.txt"
 
 function search {
  for arg in $*; do
-  if [ $(gawk -v RS="\n\n" 'END{print NR}' $DICT) -gt 1 ]; then
-   gawk -v arg="$arg" -v RS="\n\n" -v ORS="\n\n" '{if ($0~arg) print $0}' $DICT > $SOL
+  if [ $(awk -v RS="" 'END{print NR}' $DICT) -gt 1 ]; then
+   awk -v arg="$arg" -v RS="" -v ORS="\n\n" '{if ($0~arg) print $0}' $DICT > $SOL
    cp $SOL $TEMP; DICT="$TEMP"
   fi
  done
 }
 function hints {
  for arg in $*; do
-  gawk -v txt="$arg.txt" -v RS="\n\n" '{if ($0~txt) print $0}' $DICT >> $HINTS
+  awk -v txt="$arg.txt" -v RS="" '{if ($0~txt) print $0}' $DICT >> $HINTS
  done
 }
 function solve {
- gawk -v arg="$1" -v RS="\n\n" '{sub(/\.txt/,"");if ($0~arg) print $1}' $HINTS
+ awk -v arg="$1" -v RS="" '{sub(/\.txt/,"");if ($0~arg) print $1}' $HINTS
 }
 function output {
-OUT="$OUT $(gawk -v RS="\n\n" '{sub(/\.txt/,"");print $1}' $1)"
+OUT="$OUT $(awk -v RS="" '{sub(/\.txt/,"");print $1}' $1)"
 }
 
-argv=`echo $* | gawk '{print tolower($0)}'`
+argv=`echo $* | awk '{print tolower($0)}'`
 hints $argv
 search $argv
 if [ -s "$SOL" ]; then
@@ -44,5 +44,5 @@ if [ -n "$TEST" ]; then
   fi
  done
 fi
-rm $HINTS $TEMP $SOL
+rm $SOL $TEMP $HINTS
 
