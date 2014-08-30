@@ -1,9 +1,9 @@
-#!/bin/bash
+#!/bin/zsh
 
 export DICT="vocabolario.txt" SOL="soluzione.txt" TEMP="temporaneo.txt" HINTS="indizi.txt"
 
 function search {
- for arg in $*; do
+ for arg in ${=*}; do
   if [ $(awk -v RS="" 'END{print NR}' $DICT) -gt 1 ]; then
    awk -v arg="$arg" -v RS="" -v ORS="\n\n" '{if ($0~arg) print $0}' $DICT > $SOL
    cp $SOL $TEMP; DICT="$TEMP"
@@ -11,7 +11,7 @@ function search {
  done
 }
 function hints {
- for arg in $*; do
+ for arg in ${=*}; do
   awk -v txt="$arg.txt" -v RS="" '{if ($0~txt) print $0}' $DICT >> $HINTS
  done
 }
@@ -22,12 +22,12 @@ function output {
 OUT="$OUT $(awk -v RS="" '{sub(/\.txt/,"");print $1}' $1)"
 }
 
-argv=`echo $* | awk '{print tolower($0)}'`
+argv=${*:l}
 hints $argv
 search $argv
 if [ -s "$SOL" ]; then
  output $SOL
- echo "$OUT"
+ echo ${OUT:1}
 else
  TEST="1"
  for arg in "$argv"; do
@@ -40,7 +40,7 @@ fi
 if [ -n "$TEST" ]; then
  for arg in "$OUT"; do
   if [ "$(echo $(solve $arg))" == "$argv" ]; then
-   echo "$arg"
+   echo ${arg:1}
   fi
  done
 fi
