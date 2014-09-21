@@ -25,7 +25,7 @@ CLI
 
 
 
-``function ghigliottina { curl -s dardo82.homepc.it/cgi-bin/ghigliottina/ghigliottina.cgi\?indizi=${*// /+}|grep -o '<p>.*</p>'|sed -E 's/<\/?p>//g'; }``
+``ghigliottina () { curl -s dardo82.homepc.it/cgi-bin/ghigliottina/ghigliottina.cgi\?indizi=${*// /+}|grep -o '<p>.*</p>'|sed -E 's/<\/?p>//g'; }``
 
 
 Definisce la funzione.
