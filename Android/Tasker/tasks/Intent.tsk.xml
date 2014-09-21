@@ -1,0 +1,24 @@
+<TaskerData sr="" dvi="1" tv="4.4u3m">
+	<Task sr="task2">
+		<cdate>1397311422363</cdate>
+		<edate>1409841174842</edate>
+		<id>2</id>
+		<nme>Intent</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="6">
+			<code>877</code>
+			<Str sr="arg0" ve="3">primavera.arduino.intent.action.SEND_DATA</Str>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3">application/octet-stream</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3">primavera.arduino.intent.extra.DATA:42</Str>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hl_aaa_ext_glasses</nme>
+		</Img>
+	</Task>
+</TaskerData>

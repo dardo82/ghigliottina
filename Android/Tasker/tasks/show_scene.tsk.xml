@@ -1,0 +1,22 @@
+<TaskerData sr="" dvi="1" tv="4.4u3m">
+	<Task sr="task12">
+		<cdate>1411257574952</cdate>
+		<edate>1411259825694</edate>
+		<id>12</id>
+		<nme>show-scene</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="6">
+			<code>47</code>
+			<Str sr="arg0" ve="3">ghigliottina</Str>
+			<Int sr="arg1" val="6"/>
+			<Int sr="arg2" val="100"/>
+			<Int sr="arg3" val="100"/>
+			<Int sr="arg4" val="0"/>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="1"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hl_aaa_ext_rocket</nme>
+		</Img>
+	</Task>
+</TaskerData>

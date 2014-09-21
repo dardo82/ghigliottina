@@ -1,0 +1,77 @@
+<TaskerData sr="" dvi="1" tv="4.4u3m">
+	<Task sr="task11">
+		<cdate>1409840933028</cdate>
+		<edate>1409841212945</edate>
+		<id>11</id>
+		<nme>Echo</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="6">
+			<code>4123</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<Action>Arresto</Action>
+					<Action-type>java.lang.String</Action-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Ready</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<com.yourcompany.yourapp.extra.STRING_MESSAGE>Ready</com.yourcompany.yourapp.extra.STRING_MESSAGE>
+					<com.yourcompany.yourapp.extra.STRING_MESSAGE-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_MESSAGE-type>
+					<com.yourcompany.yourcondition.extra.INT_VERSION_CODE>42</com.yourcompany.yourcondition.extra.INT_VERSION_CODE>
+					<com.yourcompany.yourcondition.extra.INT_VERSION_CODE-type>java.lang.Integer</com.yourcompany.yourcondition.extra.INT_VERSION_CODE-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.RSen.OpenMic.Pheonix.Donate</Str>
+			<Str sr="arg2" ve="3">Open Mic +</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="6">
+			<code>903</code>
+			<Str sr="arg0" ve="3">Echo</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="15"/>
+		</Action>
+		<Action sr="act2" ve="6">
+			<code>559</code>
+			<Str sr="arg0" ve="3">%VOICE</Str>
+			<Str sr="arg1" ve="3">default:default</Str>
+			<Int sr="arg2" val="3"/>
+			<Int sr="arg3" val="5"/>
+			<Int sr="arg4" val="5"/>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%VOICE</lhs>
+					<op>12</op>
+					<rhs></rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act3" ve="6">
+			<code>4123</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<Action>Inizio</Action>
+					<Action-type>java.lang.String</Action-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Ready</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<com.yourcompany.yourapp.extra.STRING_MESSAGE>Ready</com.yourcompany.yourapp.extra.STRING_MESSAGE>
+					<com.yourcompany.yourapp.extra.STRING_MESSAGE-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_MESSAGE-type>
+					<com.yourcompany.yourcondition.extra.INT_VERSION_CODE>42</com.yourcompany.yourcondition.extra.INT_VERSION_CODE>
+					<com.yourcompany.yourcondition.extra.INT_VERSION_CODE-type>java.lang.Integer</com.yourcompany.yourcondition.extra.INT_VERSION_CODE-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.RSen.OpenMic.Pheonix.Donate</Str>
+			<Str sr="arg2" ve="3">Open Mic +</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hl_device_access_mic</nme>
+		</Img>
+	</Task>
+</TaskerData>

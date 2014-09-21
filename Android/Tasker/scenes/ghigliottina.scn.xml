@@ -1,0 +1,99 @@
+<TaskerData sr="" dvi="1" tv="4.4u3m">
+	<dmetric>1200.0,1824.0</dmetric>
+	<Scene sr="sceneghigliottina">
+		<cdate>1411257345477</cdate>
+		<edate>1411259885427</edate>
+		<heightLand>-1</heightLand>
+		<heightPort>1024</heightPort>
+		<nme>ghigliottina</nme>
+		<widthLand>-1</widthLand>
+		<widthPort>768</widthPort>
+		<ButtonElement sr="elements0" ve="3">
+			<clickTask>10</clickTask>
+			<flags>4</flags>
+			<geom>256,128,256,256,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Widget-Button</Str>
+			<Str sr="arg1" ve="3">SCRIVI</Str>
+			<Int sr="arg2" val="24"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="2"/>
+			<Img sr="arg7" ve="2">
+				<nme>hl_aaa_conv_a</nme>
+			</Img>
+		</ButtonElement>
+		<ButtonElement sr="elements1" ve="3">
+			<clickTask>13</clickTask>
+			<flags>4</flags>
+			<geom>256,640,256,256,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Voice-Button</Str>
+			<Str sr="arg1" ve="3">PARLA</Str>
+			<Int sr="arg2" val="24"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="2"/>
+			<Img sr="arg7" ve="2">
+				<nme>hl_device_access_mic</nme>
+			</Img>
+		</ButtonElement>
+		<TextElement sr="elements2" ve="3">
+			<flags>4</flags>
+			<geom>256,384,256,256,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Title-Text</Str>
+			<Str sr="arg1" ve="3">ghigliottina</Str>
+			<Int sr="arg2" val="24"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+		</TextElement>
+		<PropertiesElement sr="props">
+			<Int sr="arg0" val="1"/>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3">#33FFFFFF</Str>
+			<Int sr="arg3" val="0"/>
+			<Str sr="arg4" ve="3">ghigliottina</Str>
+			<Str sr="arg5" ve="3"/>
+			<Img sr="arg6" ve="2"/>
+			<Str sr="arg7" ve="3"/>
+		</PropertiesElement>
+	</Scene>
+	<Task sr="task10">
+		<cdate>1411257442816</cdate>
+		<edate>1411257442816</edate>
+		<id>10</id>
+		<pri>12</pri>
+		<Action sr="act0" ve="6">
+			<code>130</code>
+			<Str sr="arg0" ve="3">ghigliottina-widget-offline</Str>
+			<Int sr="arg1">
+				<var>%priority</var>
+			</Int>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task13">
+		<cdate>1411258175515</cdate>
+		<edate>1411258175515</edate>
+		<id>13</id>
+		<pri>12</pri>
+		<Action sr="act0" ve="6">
+			<code>130</code>
+			<Str sr="arg0" ve="3">ghigliottina-voice-offline</Str>
+			<Int sr="arg1">
+				<var>%priority</var>
+			</Int>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>
