@@ -1,5 +1,4 @@
 acqua.txt
-acqua.txt
 "acqua"
 "acqua"
 "massa d'acqua"
@@ -387,7 +386,6 @@ M>Acqua alle corde</E
 M>alle funi</E
 
 alcuno.txt
-alcuno.txt
 "alcuno, alcun"
 M>*alicunum</E
 M>aliqu</E
@@ -413,7 +411,6 @@ M>che protestasse</E
 M>non v’è pericolo alcuno</E
 M>Alcuno Non l’amerà quant’io l’amai</E
 
-alto.txt
 alto.txt
 "a collo alto"
 "ad alto impiego di capitale"
@@ -541,7 +538,6 @@ alto.txt
 * spagnolo
 
 altro.txt
-altro.txt
 "affatto, tutt'altro"
 "allora che altro c'è di nuovo"
 "altro"
@@ -657,7 +653,6 @@ altro.txt
 *[[diverso]]
 *[[dell'altro mondo]], [[d'altra parte]],[[l'altro mondo]],[[se non altro]], [[senz'altro]], [[tra l'altro]], [[tutt'altro]]
 
-amico.txt
 amico.txt
 "(essere) amico con"
 "amico"
@@ -804,7 +799,6 @@ M>avere un’amichetta</E
 M>farsi l’amichetta</E
 M>amichevolmente</E
 
-amore.txt
 amore.txt
 "amore"
 "amore"
@@ -1098,7 +1092,6 @@ M>questi amorazzi sporchi e infami</E
 M>Con novelli amorazzi ognor s’impegola</E
 
 andare.txt
-andare.txt
 "(andare) su tutte le furie"
 "a lungo andare"
 "al momento di andare in stampa"
@@ -1227,7 +1220,6 @@ andare.txt
 *''a lungo andare''
 *Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 92
 
-anno.txt
 anno.txt
 "all'anno"
 "anno"
@@ -1467,7 +1459,6 @@ M>grande anno</E
 M>platonico</E
 
 aprire.txt
-aprire.txt
 "aprire"
 "aprire"
 "aprire"
@@ -1660,7 +1651,6 @@ M>sulla destra</E
 M>a sinistra</E
 M>a destra</E
 
-aria.txt
 aria.txt
 "(essere) nell'aria"
 "ad aria calda"
@@ -1968,7 +1958,6 @@ M>Di tal strida e furore è l’aria pieno</E
 M>oggi in ufficio tira un’ariaccia</E
 
 avere.txt
-avere.txt
 "(avere) in pugno"
 "(avere) un chiodo fisso in testa"
 "(avere) una fifa blu, una paura del diavolo"
@@ -2082,7 +2071,6 @@ avere.txt
 *latino
 *inglese
 
-bello.txt
 bello.txt
 "bello"
 "bello"
@@ -2427,7 +2415,6 @@ M>bello</E
 M>bene</E
 
 bisognare.txt
-bisognare.txt
 "bisognare"
 *[[bisogno]], [[abbisognare]]
 M>ógna</E
@@ -2469,7 +2456,6 @@ M>non bisogna fare il passo più lungo della gamba</E
 M>più che non bisogna</E
 M>di seccature ne abbiamo più che non bisogna</E
 
-buono.txt
 buono.txt
 "abbastanza buono"
 "abbastanza buono"
@@ -2580,7 +2566,6 @@ buono.txt
 *''alla buona''
 *''buono a nulla''
 
-capire.txt
 capire.txt
 "calcolare; capire"
 "capire"
@@ -2700,7 +2685,6 @@ M>si capisce che ne rispondo io</E
 M>ti rimborserò tutte le spese</E
 M>si capisce</E
 
-casa.txt
 casa.txt
 "a casa"
 "a casa con"
@@ -3059,7 +3043,6 @@ M>squillo</E
 M>di appuntamenti</E
 
 caso.txt
-caso.txt
 "a caso"
 "brutto caso"
 "brutto caso di"
@@ -3362,7 +3345,6 @@ M>è stato un casetto curioso</E
 M>a conto di ciò mi piace riportare un casetto</E
 
 cercare.txt
-cercare.txt
 "Andarsela a cercare"
 "bastone per cercare l'acqua"
 "cercare"
@@ -3484,7 +3466,6 @@ M>frati cercanti</E
 M>i cercanti</E
 
 certo.txt
-certo.txt
 "a un certo punto..."
 "assolutamente certo, senza ombra di dubbio"
 "certo"
@@ -3535,7 +3516,6 @@ certo.txt
 #*'' è una situazione 
 *[[certamente]]
 
-chiamare.txt
 chiamare.txt
 "chiamare"
 "chiamare"
@@ -3678,7 +3658,6 @@ M>chiamarsi fuori</E
 M>ho intuito che si tratta di un affare poco serio e mi chiamo fuori</E
 
 chiedere.txt
-chiedere.txt
 "chiedere"
 "chiedere"
 "chiedere"
@@ -3801,12 +3780,10 @@ M>Così mi chiese questi per maestro A guerir de la sua superba febbre</E
 M>bisogna informare il chiedente che manca un attestato</E
 
 città.txt
-città.txt
 *[[cittadella]], [[cittadino]], [[cittadinanza]], [[città-regione]] 
 *[[civico]], [[civile]]
 *italiano
 
-cominciare.txt
 cominciare.txt
 "cominciare"
 "cominciare"
@@ -3886,7 +3863,6 @@ M>al cominciar del giorno</E
 M>sul cominciar dell’estate</E
 M>sia fornita La ben comincia impresa</E
 
-conoscere.txt
 conoscere.txt
 "aver avuto modo di conoscere"
 "conoscere"
@@ -4077,7 +4053,6 @@ M>mi conosco dalla parte del torto</E
 M>si conobbe obbligato</E
 M>si è conosciuto colpevole</E
 
-cosa.txt
 cosa.txt
 "a cosa devo il piacere?"
 "avere una cosa in comune"
@@ -4390,7 +4365,6 @@ M>Cosa nostra</E
 M>Cupola</E
 
 credere.txt
-credere.txt
 "a mio credere"
 "aver ragione di credere che"
 "c'è motivo di credere"
@@ -4531,7 +4505,6 @@ M>secondo il mio c</E
 M>oltre ogni c</E
 
 dare.txt
-dare.txt
 "ai nervi, sui nervi (dare)"
 "aprire la porta a, dare il via"
 "cedere a qcn.; dare la precedenza a qcn.; lasciare il passo a qcn.; arrendersi a qcn."
@@ -4639,7 +4612,6 @@ dare.txt
 *italiano
 *inglese
 
-dire.txt
 dire.txt
 "a dire la verità"
 "avere molto da dire su"
@@ -5019,7 +4991,6 @@ M>il d</E
 M>in rima</E
 
 diverso.txt
-diverso.txt
 "diverso"
 "diverso"
 "diverso"
@@ -5097,7 +5068,6 @@ M>se puoi aiutarmi</E
 M>bene</E
 M>diversamente farò da solo</E
 
-donna.txt
 donna.txt
 "barista (donna)"
 "bella donna del sud Usa"
@@ -5309,7 +5279,6 @@ M>donnina allegra</E
 M>donnino</E
 
 dovere.txt
-dovere.txt
 "a dovere"
 "adempimento del dovere"
 "chi di dovere"
@@ -5393,7 +5362,6 @@ dovere.txt
 *  (obbligo morale) [[a dovere]], [[chi di dovere]]
 *[[come si deve]]
 
-entrare.txt
 entrare.txt
 "entrare"
 "entrare"
@@ -5608,7 +5576,6 @@ m>la settimana entrante</e
 m>è un uomo entrante</e
 
 essere.txt
-essere.txt
 "(essere fuori) mano"
 "(essere fuori) mano"
 "(essere) addolorato"
@@ -5852,7 +5819,6 @@ essere.txt
 *[[non essere]], [[benessere]]
 *[[ci sono!]], [[come sarebbe a dire?]], [[come se niente fosse]], [[così sia]], [[esserci]], [[essere lì lì per]], [[fosse pure]], [[fu]] (nel senso p.es. "il fu Mattia Pascal"), [[or sono]], [[sarà]] ("il cielo è arancione!" "sarà, ma io..."), [[sia pure]]
 
-fatto.txt
 fatto.txt
 "a fatto compiuto"
 "a parte il fatto che"
@@ -5971,7 +5937,6 @@ fatto.txt
 *''detto fatto''
 *'' così fatto''
 
-figlio.txt
 figlio.txt
 "aspettare un figlio"
 "candidato supportato dal suo stato; figlio prediletto"
@@ -6115,7 +6080,6 @@ M>Figli della Sacra Famiglia</E
 M>Figli della lupa</E
 M>padre</E
 
-forza.txt
 forza.txt
 "a doppia forza"
 "a forza di"
@@ -6586,7 +6550,6 @@ m>sei una f</e
 m>è una f</e
 
 gente.txt
-gente.txt
 "agli occhi della gente"
 "bella gente"
 "campagna portata avanti dalla gente comune"
@@ -6638,7 +6601,6 @@ gente.txt
 *''chi ascolta troppa 
 *proverbi
 
-giorno.txt
 giorno.txt
 "a quest'ora del giorno"
 "al giorno d'oggi"
@@ -7020,7 +6982,6 @@ M>venire a g</E
 M>mettere a g</E
 
 giovane.txt
-giovane.txt
 "abbigliamento giovane"
 "giovane"
 "giovane"
@@ -7171,7 +7132,6 @@ M>di bottega</E
 M>di banco</E
 M>questi giovincelli che si danno tante arie!</E
 
-grande.txt
 grande.txt
 "(essere) sulle spine, in grande agitazione"
 "a grande richiesta"
@@ -7565,7 +7525,6 @@ M>m’importa grandemente</E
 M>la notizia mi ha grandemente addolorato</E
 
 guardare.txt
-guardare.txt
 "a ben guardare"
 "abbassare lo sguardo, guardare verso il basso"
 "alzare lo sguardo, guardare verso l'alto"
@@ -7815,7 +7774,6 @@ M>un grand’avello</E
 M>ov’io vidi una scritta Che dicea:</E
 M>Anastasio papa guardo</E
 
-guerra.txt
 guerra.txt
 "andare in guerra"
 "arte della guerra"
@@ -8109,7 +8067,6 @@ M>tra queste deplorabili guerricciole con sé e con gli altri</E
 M>aveva varcata la puerizia</E
 
 italiano.txt
-italiano.txt
 " come in Italiano o Francese"
 "italiano"
 "italiano"
@@ -8172,7 +8129,6 @@ M>pensare</E
 M>sentire</E
 M>agire italianamente</E
 
-lasciare.txt
 lasciare.txt
 "abbandonare, lasciare"
 "cedere a qcn.; dare la precedenza a qcn.; lasciare il passo a qcn.; arrendersi a qcn."
@@ -8569,7 +8525,6 @@ M>ogni lasciata è persa</E
 M>ogni lasciato è perso</E
 M>lasciatura</E
 
-lavoro.txt
 lavoro.txt
 "abbigliamento da lavoro"
 "abiti da lavoro"
@@ -9003,7 +8958,6 @@ M>virtuale</E
 M>molto interessante questa commedia: un lavorone!</E
 
 loro.txt
-loro.txt
 "a loro"
 "a loro piacimento"
 "a loro spese"
@@ -9093,7 +9047,6 @@ M>càmpano del loro</E
 M>hanno speso tutto il loro per far studiare il figlio</E
 
 lungo.txt
-lungo.txt
 "a lungo"
 "a lungo andare"
 "a lungo termine"
@@ -9323,7 +9276,6 @@ lungo.txt
 * (di discorso, scritto) [[conciso]], [[sintetico]], [[stringato]]
 *[[lungamente]]
 
-mano.txt
 mano.txt
 "(essere fuori) mano"
 "(essere fuori) mano"
@@ -9879,7 +9831,6 @@ M>sostenuta</E
 M>rigida</E
 
 meglio.txt
-meglio.txt
 "aggiustata alla meglio"
 "al meglio"
 "al meglio delle tue capacità"
@@ -10223,7 +10174,6 @@ M>si dovette provvedere alla m</E
 M>sono tempi magri</E
 M>e si tira avanti alla meglio</E
 
-mettere.txt
 mettere.txt
 "accreditare, mettere su (un conto)"
 "così da mettere in luce"
@@ -11009,7 +10959,6 @@ M>siamo ben messi ora!</E
 M>stare freschi</E
 
 mio.txt
-mio.txt
 "a mio avviso"
 "a mio credere"
 "al mio volere"
@@ -11206,7 +11155,6 @@ m>è un&rsquo;opera in cui non c&rsquo;è nulla di mio</e
 m>per quanto indagassero</e
 m>non hanno potuto scoprire nulla di mio</e
 
-modo.txt
 modo.txt
 "a modo tuo"
 "a ogni modo"
@@ -11693,7 +11641,6 @@ M>ammodino</E
 M>ammodo</E
 
 molto.txt
-molto.txt
 "a pensar male si fa peccato, ma molto spesso ci si azzecca"
 "a strisce molto fini"
 "a strisce molto fini"
@@ -12058,7 +12005,6 @@ M>ma molto</E
 M>Quella</E
 M>che giva ’ntorno era più molta</E
 
-momento.txt
 momento.txt
 "aiutare in un momento di difficoltà"
 "aiuto nel momento del bisogno"
@@ -12484,7 +12430,6 @@ M>questo è un momentaccio per gli affari</E
 M>ha certi momentacci che lo rendono proprio insopportabile</E
 
 mondo.txt
-mondo.txt
 "mondo degli imbrattacarte; scribacchini\"
 "alla fine del mondo"
 "altro mondo"
@@ -12611,7 +12556,6 @@ mondo.txt
 *''venire al mondo''
 *Devoto/Oli,''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p.1299
 
-morire.txt
 morire.txt
 "annoiato da morire"
 "avere voglia di fare qcs, morire dalla voglia di fare qcs"
@@ -12950,7 +12894,6 @@ M>suono</E
 M>canto morente in lontananza</E
 
 nessuno.txt
-nessuno.txt
 "casa di nessuno"
 "nessuno"
 "nessuno"
@@ -13034,7 +12977,6 @@ M>qualcuno</E
 M>è diventato qualcuno</E
 M>crede d’esser qualcuno</E
 
-nome.txt
 nome.txt
 "a nome di qc"
 "a qualunque nome"
@@ -13365,7 +13307,6 @@ M>di ugual nome</E
 M>omonime</E
 
 nostro.txt
-nostro.txt
 "come nostro ospite"
 "fino al nostro prossimo incontro"
 "grazie per essere stato nostro ospite"
@@ -13503,7 +13444,6 @@ M>spendiamo del n</E
 M>sta dalla n</E
 M>tutti abbiamo le n</E
 
-notte.txt
 notte.txt
 "abbigliamento da notte femminile"
 "articolo da notte femminile"
@@ -13755,7 +13695,6 @@ M>legare a notte</E
 M>legatura a giorno</E
 M>nottataccia</E
 
-nuovo.txt
 nuovo.txt
 "allora che altro c'è di nuovo"
 "ancora, di nuovo"
@@ -14142,7 +14081,6 @@ M>tentare nuovamente la fortuna</E
 M>dopo il fallimento si è nuovamente ripreso</E
 M>parlandosi pochi dì sono del paese o mondo novamente trovato dai marinari portoghesi</E
 
-occhio.txt
 occhio.txt
 "A occhio e croce"
 "a occhio nudo"
@@ -14918,7 +14856,6 @@ M>eye</E
 M>fare gli occhiacci</E
 
 ogni.txt
-ogni.txt
 "a carnevale ogni scherzo vale"
 "a ogni buon conto"
 "a ogni buon conto"
@@ -15116,7 +15053,6 @@ M>ci sono dieci concorrenti per o</E
 M>posto</E
 
 ora.txt
-ora.txt
 "a che ora"
 "a che ora"
 "a che ora combiniamo?"
@@ -15386,7 +15322,6 @@ m>Risonava la selva intorno intorno Soavemente all&rsquo;ora mattutina</e
 m>la fresca ora godendo</e
 m>Scherza con l&rsquo;ora incerta Di lauri un bosco</e
 
-padre.txt
 padre.txt
 "da buon padre"
 "da parte del padre"
@@ -15566,7 +15501,6 @@ M>oscritti</E
 M>patrato</E
 
 paese.txt
-paese.txt
 "banca di paese"
 "è un paese libero"
 "emporio di paese"
@@ -15706,7 +15640,6 @@ M>tornare al paesello</E
 M>paesaccio</E
 
 parere.txt
-parere.txt
 "non parere vero"
 "parere"
 "parere"
@@ -15732,7 +15665,6 @@ parere.txt
 *[[giudizio]], [[avviso]], [[opinione]]
 *[[sembrare]]
 
-parlare.txt
 parlare.txt
 "alzare la voce, parlare ad alta voce"
 "borbottare, parlare in modo confuso"
@@ -15853,7 +15785,6 @@ parlare.txt
 * ''parlare come un libro stampato''
 * ''parla come mangi!''
 
-parola.txt
 parola.txt
 "ad una parola"
 "avere l'ultima parola"
@@ -16494,7 +16425,6 @@ M>Questi in sua prima età fu dato a l&#8217;arte</E
 M>Da vender parolette</E
 M>anzi menzogne</E
 
-parte.txt
 parte.txt
 "(essere) parte in causa"
 "a parte"
@@ -17267,7 +17197,6 @@ M>parte che lo scolare questo diceva</E
 M>la misera donna piagneva continuo</E
 
 passare.txt
-passare.txt
 "(far) passare"
 "cercare, setacciare, passare al setaccio"
 "far passare"
@@ -17809,7 +17738,6 @@ M>passer par les armes</E
 M>qualche cosa sotto silenzio</E
 
 pensare.txt
-pensare.txt
 "basti pensare che ..."
 "come verrebbe da pensare"
 "dimenticatelo; non ci pensare neanche!"
@@ -18001,7 +17929,6 @@ M>a caso pensato</E
 M>il pensante e il pensato</E
 
 piccolo.txt
-piccolo.txt
 "aver battuto la testa da piccolo"
 "bambino piccolo"
 "bambino piccolo"
@@ -18074,7 +18001,6 @@ piccolo.txt
 *'' in piccolo''
 *'' nel proprio piccolo''
 
-poco.txt
 poco.txt
 "a poco a poco"
 "poco a poco"
@@ -18520,7 +18446,6 @@ M>ne guadagna un po&#8217; pochini</E
 M>quella ragazza è così pochina!</E
 
 portare.txt
-portare.txt
 "(portare qcn) alla follia"
 "atto di portare via a forza, contro la volontà"
 "avere indosso; portare"
@@ -18943,7 +18868,6 @@ M>per gli anni che ha</E
 M>portarsi male</E
 
 potere.txt
-potere.txt
 "abusare del suo potere"
 "abuso di potere"
 "al potere"
@@ -19129,7 +19053,6 @@ potere.txt
 *''(sostantivo)'' quarto potere, quinto potere, [[potere esecutivo]], [[potere temporale]], [[potere spirituale]]
 *Enciclopedia [http
 
-povero.txt
 povero.txt
 "cibo povero"
 "essere povero"
@@ -19363,7 +19286,6 @@ M>la casa è arredata poveramente</E
 M>concetti articolati poveramente</E
 M>un tema svolto troppo poveramente</E
 
-prendere.txt
 prendere.txt
 "acquistare velocità, guadagnare velocità, prendere velocità"
 "adottare delle misure, prendere provvedimenti"
@@ -19960,7 +19882,6 @@ M>che gli ha preso?</E
 M>che gli è preso?</E
 
 primo.txt
-primo.txt
 "http://api.wordreference.com/12bee/json/iten/primo/"
 #*''il primo ottobre 1963 nascevano in Italia  i tre anni della scuola media unica''
 *[[originario]], [[iniziale]], [[passato]], [[antico]], [[primitivo]], [[primario]], [[anteriore]], [[antecedente]]
@@ -20294,7 +20215,6 @@ m>occupare uno dei primissimi posti in graduatoria</e
 m>&egrave; stato fra i primissimi a portare aiuto</e
 
 proprio.txt
-proprio.txt
 "a proprio agio"
 "a proprio agio"
 "a proprio agio"
@@ -20610,7 +20530,6 @@ M>Ma Orïente</E
 M>se proprio dir vuole</E
 
 punto.txt
-punto.txt
 "a questo punto"
 "a questo punto"
 "a tal punto che, tanto che, talmente che"
@@ -20738,7 +20657,6 @@ punto.txt
 *spagnolo
 
 qualche.txt
-qualche.txt
 "avere qualche santo in paradiso"
 "da qualche parte"
 "da qualche parte"
@@ -20832,7 +20750,6 @@ M>qualchecosina</E
 M>circa</E
 M>Eran qualche otto leghe cavalcate</E
 
-quale.txt
 quale.txt
 "a quale prezzo"
 "buco dal quale spiare"
@@ -21025,7 +20942,6 @@ M>il buono accoglitor del quale</E
 M>Dïascoride dico</E
 
 quanto.txt
-quanto.txt
 "a proposito di, riguardo a, per quanto riguarda, per quanto concerne"
 "a quanto pare"
 "all'apparenza, a quanto sembra"
@@ -21098,7 +21014,6 @@ quanto.txt
 *[[quantico]], [[quantile]], [[quantistico]],[[quantificazione]]
 *[[in quanto]], [[quantità]], [[quantizzare]] ,[[quantunque]]
 
-quello.txt
 quello.txt
 "a causa di quello"
 "a quello"
@@ -21300,7 +21215,6 @@ M>in quello che</E
 M>Grifon gagliardo duo ne piglia in quella Che ’l ponte si levò per lor sciagura</E
 
 questo.txt
-questo.txt
 "a causa di questo"
 "a parte questo"
 "a questo proposito"
@@ -21487,7 +21401,6 @@ M>in questa che</E
 M>in questa che chiudeva la porta</E
 M>si accorse d’aver lasciato la chiave dentro casa</E
 
-ragione.txt
 ragione.txt
 "a lume di ragione"
 "a maggior ragione"
@@ -21894,7 +21807,6 @@ M>denominazione sociale</E
 M>sociale</E
 
 ricordare.txt
-ricordare.txt
 "far ricordare"
 "far ricordare"
 "incapace di ricordare"
@@ -21983,7 +21895,6 @@ m>al Machiavelli dispiacque di non essere stato ricordato come poeta dall&rsquo;
 m>ti ricordiamo spesso nei nostri discorsi</e
 m>vi ricorderò nelle mie preghiere</e
 
-rimanere.txt
 rimanere.txt
 "impelagarsi con qc, rimanere invischiato con qc, restare incastrato con qc"
 "lo stare insieme; il rimanere uniti"
@@ -22147,7 +22058,6 @@ M>fu applaudito dai pochi ascoltatori rimasti</E
 M>continuò a chiacchierare coi rimasti</E
 M>quasi tutto il rimaso degli scampati cristiani da lui a man salva fur presi</E
 
-rispondere.txt
 rispondere.txt
 "dover rispondere di"
 "in business correspondence: La prego di rispondere"
@@ -22405,7 +22315,6 @@ M>al bisogno</E
 M>fate adunque che alle vostre bellezze l&#8217;opere sien rispondenti</E
 
 sapere.txt
-sapere.txt
 "arrivare a sapere"
 "arrivare a sapere"
 "come faccio a sapere...?"
@@ -22479,7 +22388,6 @@ sapere.txt
 * [http
 
 sembrare.txt
-sembrare.txt
 "assomigliare a qualcuno, sembrare qualcuno"
 "fare sembrare magro"
 "non sembrare"
@@ -22527,7 +22435,6 @@ M>paiamo</E
 M>paiono</E
 M>parere</E
 
-sentire.txt
 sentire.txt
 "far sentire benvenuto"
 "far sentire come a casa propria"
@@ -23033,7 +22940,6 @@ M>quest&#8217;uomo sente del briccone</E
 M>frate Alberto conobbe incontanente che costei sentìa dello scemo</E
 
 sera.txt
-sera.txt
 "abito da sera"
 "abito da sera"
 "abito da sera"
@@ -23128,7 +23034,6 @@ M>nella s. dell&#8217;umane cose</E
 M>Ultima s.</E
 M>Questi non vide mai l&#8217;ultima s.</E
 
-signore.txt
 signore.txt
 "con il Signore"
 "da gran signore"
@@ -23268,7 +23173,6 @@ M>ma questa è una signora torta!</E
 M>una casa di cavalieri</E
 M> di gran signoroni</E
 
-solo.txt
 solo.txt
 "a un solo binario"
 "anche solo per"
@@ -23582,7 +23486,6 @@ M> posta Sola soletta</E
 M> inverso noi riguarda</E
 M>Qui vengo a soggiornar tutta soletta</E
 
-stare.txt
 stare.txt
 "aspettare; fermarsi; stare attaccato; stare in attesa"
 "ci può stare"
@@ -24238,7 +24141,6 @@ M>non se ne stavano di provocarli</E
 M> con visacci e con grida di scherno</E
 
 stato.txt
-stato.txt
 "(essere) in uno stato di torpore, di apatia"
 "(essere) in uno stato febbrile"
 "aiuto di stato"
@@ -24377,7 +24279,6 @@ M>blefarostato</E
 M>craniostato</E
 M>aerostato.</E
 
-stesso.txt
 stesso.txt
 "abbandonare a se stesso"
 "abbandonato a se stesso"
@@ -24563,7 +24464,6 @@ M>è lo stesso stessissimo</E
 M>Crescerà sì tua vaghezza</E
 M> Che nel fior di giovinezza Parrai Venere stessissima</E
 
-storia.txt
 storia.txt
 "basato su una storia vera"
 "Che fa storia a sé"
@@ -24811,7 +24711,6 @@ M>per avvisar da presso un&#8217;altra istoria</E
 M> Che di dietro a Micòl mi biancheggiava</E
 M>D&#8217;una pietosa istoria e di devote Figure la sua stanza era dipinta</E
 
-strada.txt
 strada.txt
 "a metà strada"
 "accostarsi al lato della strada"
@@ -25217,7 +25116,6 @@ m>graticcia</e
 m>ben presto vide aprirsi una straducola a mancina</e
 
 suo.txt
-suo.txt
 "a ciascuno il suo"
 "A ognuno il suo"
 "a suo modo"
@@ -25349,7 +25247,6 @@ M>avendo il suo investito in uno anello</E
 M>non c&#8217;è nulla di suo</E
 M>in quel libro non c&#8217;è quasi nulla di suo</E
 
-tale.txt
 tale.txt
 "a tale scopo"
 "in quanto tale"
@@ -25554,7 +25451,6 @@ M> taluno</E
 M> talvolta</E
 M>tale</E
 
-tanto.txt
 tanto.txt
 "a tal punto che, tanto che, talmente che"
 "coraggioso tanto da"
@@ -26031,7 +25927,6 @@ M>non me n&#8217;importa</E
 M> non me ne voglio occupare</E
 M> né t. né quanto.</E
 
-tempo.txt
 tempo.txt
 "a causa del tempo"
 "a quel tempo"
@@ -26911,7 +26806,6 @@ M> a far t. dal 1&#176; gennaio</E
 M>il Tempo</E
 
 tenere.txt
-tenere.txt
 "(tenere) conto di"
 "(tenere) conto di"
 "(tenere) in alta considerazione"
@@ -27403,7 +27297,6 @@ M>tenuto</E
 M>ten.</E
 
 testa.txt
-testa.txt
 "(avere) un chiodo fisso in testa"
 "a doppia testa"
 "a doppia testa"
@@ -27516,7 +27409,6 @@ testa.txt
 *latino
 *spagnolo
 
-tornare.txt
 tornare.txt
 "far tornare insieme, riconciliare"
 "il tornare sui propri passi"
@@ -27801,7 +27693,6 @@ M> la ben tornata</E
 M>dare il ben tornato a uno</E
 
 troppo.txt
-troppo.txt
 "a chi troppo, a chi niente"
 "adoperarsi troppo"
 "allegro ma non troppo"
@@ -28013,7 +27904,6 @@ M>da capo</E
 M> presa una gran pietra</E
 M> con troppi maggior colpi che prima fieramente cominciò a percuoter la porta</E
 
-trovare.txt
 trovare.txt
 "andare a trovare"
 "andare a trovare"
@@ -28375,7 +28265,6 @@ M>sono sicuro che ci troveremo d&#8217;accordo anche su questo punto</E
 M>non mi trovo d&#8217;accordo con te.</E
 
 tuo.txt
-tuo.txt
 "a modo tuo"
 "a tuo agio"
 "a tuo favore"
@@ -28493,7 +28382,6 @@ M> fa delle tue cose</E
 M> e quell&#8217;odicina è tuissima</E
 M> quello che vuoi</E
 
-tutto.txt
 tutto.txt
 "a più non posso; a tutto spiano; a tutta birra"
 "a tenere le fila di tutto"
@@ -28879,7 +28767,6 @@ M>armato di t. punto</E
 M>Tutt’a un tratto</E
 
 ultimo.txt
-ultimo.txt
 "all'ultimo"
 "all'ultimo minuto"
 "all'ultimo minuto"
@@ -29141,7 +29028,6 @@ M>tu sei non l’ultimo</E
 M> ma l’ultimissimo ad avere diritto di parlare</E
 M>ultimissime</E
 
-uomo.txt
 uomo.txt
 "a misura d'uomo"
 "abominevole uomo delle nevi"
@@ -29490,7 +29376,6 @@ M>che è uno umo a star con femine?</E
 M>uo-</E
 
 uscire.txt
-uscire.txt
 "andare a pranzo, andare a mangiare, uscire per pranzo"
 "emettere, far uscire"
 "far uscire"
@@ -29809,7 +29694,6 @@ M>l’uscito</E
 M> gli usciti</E
 
 vecchio.txt
-vecchio.txt
 "cavallo vecchio e stanco"
 "del vecchio mondo"
 "di vecchio stampo"
@@ -30009,7 +29893,6 @@ M>&laquo;Nunc dimittis&raquo; mormorando seco, Come disse nel tempio il buon vec
 M>Luca </E
 M>vecchioni </E
 
-vedere.txt
 vedere.txt
 "a ben vedere"
 "a ben vedere"
@@ -30397,7 +30280,6 @@ M> Che</E
 M> per veder</E
 M> non vedente diventa</E
 
-venire.txt
 venire.txt
 "anni a venire"
 "che fa venire i brividi"
@@ -30931,7 +30813,6 @@ M>l’ultimo venuto</E
 M>ben venuto!</E
 
 vero.txt
-vero.txt
 "A onor del vero"
 "accettare come vero"
 "accettare come vero"
@@ -31194,7 +31075,6 @@ M>davvero</E
 M>o vero</E
 M>ovvero</E
 
-vita.txt
 vita.txt
 "a miglior vita"
 "a vita"
@@ -31652,7 +31532,6 @@ M>è una vitaccia da cani</E
 M> la mia</E
 
 vivere.txt
-vivere.txt
 "andare a vivere in un posto"
 "far vivere"
 "fare per vivere"
@@ -31905,7 +31784,6 @@ M>la spesa del v. è notevolmente cresciuta</E
 M>vivente Romolo</E
 M>vivente ancora il padre</E
 
-voce.txt
 voce.txt
 "a bassa voce, sottovoce"
 "a portata di orecchio, a portata di voce"
@@ -32268,7 +32146,6 @@ M> avrebbe cucinato</E
 M>un vocino sottile sottile</E
 
 volere.txt
-volere.txt
 "al mio volere"
 "desiderare, volere moltissimo"
 "incapace di intendere e di volere"
@@ -32344,7 +32221,6 @@ volere.txt
 *''(acconsentire)'' [[vietare]], [[disvolere]]
 * [[volontà]]
 
-volta.txt
 volta.txt
 "a loro volta"
 "a mia volta"
@@ -32453,7 +32329,6 @@ volta.txt
 *italiano
 *lombardo
 
-vostro.txt
 vostro.txt
 "a vostro agio"
 "a vostro favore"
