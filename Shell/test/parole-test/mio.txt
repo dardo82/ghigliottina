@@ -1,0 +1,196 @@
+mio.txt
+"a mio avviso"
+"a mio credere"
+"al mio volere"
+"amico mio"
+"amore mio"
+"Che fa al caso mio"
+"Dio mio!"
+"il mio amore"
+"il mio stesso problema"
+"il pericolo è il mio mestiere"
+"il piacere è tutto mio"
+"mio"
+"mio"
+"mio caro"
+"mio dio"
+"mio signore"
+"non fare il mio nome"
+"piccolo mio"
+"sangue del mio sangue"
+"santo cielo!, oddio!, Dio mio!"
+"si deve passare sul mio cadavere"
+"si deve passare sul mio cadavere!"
+"un mio amico"
+"vecchio mio"
+"vecchio mio"
+"vecchio, vecchio mio"
+#*''Questo è il '''mio''' giocattolo''
+#*''Questo è il '''mio''' disegno''
+#*''Quello è il '''mio''' gruppo''
+*italiano
+m>mihi</e
+m>tuo</e
+m>suo</e
+m>egli</e
+m>ella</e
+m>miei</e
+m>mia</e
+m>mie</e
+m>mia</e
+m>miei</e
+m>mie</e
+m>le terre mia</e
+m>mie</e
+m>mio</e
+m>mia</e
+m>il mi&rsquo; amico</e
+m>la mi&rsquo; mamma</e
+m>i mi&rsquo; figlioli</e
+m>sarei sentita da fratelmo</e
+m>se io t&rsquo;aprissi</e
+m>mogliema nol mi crederà</e
+m>mio</e
+m>mio</e
+m>la mia casa</e
+m>i miei vestiti</e
+m>questa penna è mia</e
+m>questa casa è mia</e
+m>ritorno al mio posto</e
+m>il mio corpo</e
+m>la mia anima</e
+m>il mio cuore</e
+m>il mio braccio</e
+m>le mie orecchie</e
+m>la mia vista</e
+m>il mio udito</e
+m>la mia volontà</e
+m>i miei pensieri</e
+m>i miei sentimenti</e
+m>le mie preferenze</e
+m>le mie speranze</e
+m>i miei ricordi</e
+m>i miei dubbî</e
+m>i miei sospiri</e
+m>scritto di mia mano</e
+m>di mio pugno</e
+m>ti do la mia parola</e
+m>te lo giuro sul mio onore</e
+m>devo attendere al mio lavoro</e
+m>ho anch&rsquo;io le mie preoccupazioni</e
+m>il mio ultimo libro</e
+m>hai ricevuto la mia lettera?</e
+m>non ascoltò le mie parole</e
+m>è rimasto turbato ai miei rimproveri</e
+m>udì il mio fischio</e
+m>non esegue volentieri i miei ordini</e
+m>mio padre</e
+m>mia zia</e
+m>i miei fratelli</e
+m>la mia famiglia</e
+m>i miei genitori</e
+m>parenti</e
+m>cugini</e
+m>nonni</e
+m>antenati</e
+m>la mia patria</e
+m>il mio paese</e
+m>i miei monti</e
+m>un mio amico</e
+m>i miei nemici</e
+m>i miei compagni di scuola</e
+m>la mia segretaria</e
+m>miei impiegati</e
+m>i miei superiori</e
+m>il mio maestro</e
+m>i miei scolari</e
+m>un mio socio</e
+m>i miei fornitori</e
+m>i miei clienti</e
+m>il mio sarto</e
+m>il mio medico</e
+m>il mio avvocato</e
+m>il mio buon Mario</e
+m>il mio caro discepolo</e
+m>la mia bambina sta poco bene</e
+m>ci verrò con la mia Giulia</e
+m>piccola mia</e
+m>che stai dicendo?</e
+m>sentite</e
+m>mio buon uomo</e
+m>datemi retta</e
+m>dormo bene solo nel mio letto</e
+m>dopo mangiato</e
+m>ho bisogno della mia sigaretta</e
+m>non potrei fare a meno del mio caffè tutte le mattine</e
+m>l&rsquo;ha fatto per amor mio</e
+m>conservalo per mio ricordo</e
+m>venne alla mia partenza</e
+m>al mio arrivo</e
+m>il mio distacco</e
+m>il mio ritorno</e
+m>amo la mia casa</e
+m>me ne torno a casa mia</e
+m>presi la mia roba e me n&rsquo;andai</e
+m>questa è roba mia!</e
+m>è mio amico da molti anni</e
+m>è amico mio</e
+m>perciò trattalo bene</e
+m>ci sono andato con mio figlio</e
+m>è figlio mio e debbo preoccuparmi della sua salute</e
+m>è stata la rovina mia</e
+m>la mia rovina</e
+m>faccio a modo mio</e
+m>faccio a mio modo</e
+m>preghi per l&rsquo;anima mia</e
+m>è la luce degli occhi miei</e
+m>anima mia!</e
+m>tesoro mio!</e
+m>ascoltatemi</e
+m>ragazzi miei</e
+m>babbo mio!</e
+m>mamma mia!</e
+m>Dio mio!</e
+m>caro mio</e
+m>caro il mio</e
+m>ci vuol altro</e
+m>caro mio</e
+m>per riuscire</e
+m>caro il mio uomo</e
+m>queste sono faccende che riguardano me</e
+m>mio caro</e
+m>i suoi calcoli sono meno precisi dei miei</e
+m>voi mettete la vostra quota e io la mia</e
+m>i miei</e
+m>vado a trovare i miei</e
+m>ho ricevuto notizie dai miei</e
+m>quando riceverai questa mia</e
+m>lettera</e
+m>ho diritto anch&rsquo;io di dire la mia</e
+m>dite la vostra che ho detto la mia</e
+m>novella</e
+m>sta</e
+m>tiene dalla mia</e
+m>non ho nessuno dalla mia</e
+m>purtroppo</e
+m>ho avuto anch&rsquo;io le mie</e
+m>da giovane</e
+m>le mie le ho fatte</e
+m>il mio</e
+m>mi hanno rubato tutto il mio</e
+m>chiedo soltanto il mio</e
+m>non voglio rimetterci del mio</e
+m>ciò che spendo</e
+m>lo spendo del mio</e
+m>se gli ho regalato qualcosa</e
+m>gli ho regalato del mio</e
+m>mi contento del mio</e
+m>tuo</e
+m>non facciamo ora questioni di mio e di tuo</e
+m>in quei tempi</e
+m>non esisteva né mio né tuo</e
+m>qui ormai non c&rsquo;è rimasto nulla di mio</e
+m>vorrei mettere qualche cosa di mio nell&rsquo;articolo</e
+m>è un&rsquo;opera in cui non c&rsquo;è nulla di mio</e
+m>per quanto indagassero</e
+m>non hanno potuto scoprire nulla di mio</e

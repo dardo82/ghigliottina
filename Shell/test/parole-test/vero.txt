@@ -1,0 +1,262 @@
+vero.txt
+"A onor del vero"
+"accettare come vero"
+"accettare come vero"
+"accettare come vero"
+"amico vero"
+"basato sui fatti - vero"
+"che sembra vero"
+"Dal vero"
+"dimostrarsi vero"
+"disegno dal vero"
+"falso, non vero"
+"il vero McCoy"
+"incredibile ma vero"
+"italiano vero"
+"magari fosse vero"
+"nel vero senso della parola"
+"non dire il vero"
+"non è vero?, vero?"
+"non parere vero"
+"non vero"
+"nulla di più vero"
+"prendere per vero"
+"suonare vero"
+"Tanto è vero che"
+"troppo bello per essere vero"
+"un vero e proprio pacco"
+"un vero vulcano"
+"vero"
+"vero"
+"vero"
+"vero"
+"vero"
+"vero amore"
+"vero e proprio"
+"vero e proprio"
+"vero o falso"
+"vero peccato"
+"vero per metà"
+"vero problema"
+"vero significato"
+"vero uomo"
+#* ''è stato un '''vero''' successo'';
+#* ''sei stato un '''vero''' amico!''
+#* ''questo è '''vero''' miele italiano'';
+#* ''io sono il '''vero''' re!''
+#* ''ciò dimostra che l'affermazione '''vera''' è la prima''
+#* ''ha detto il '''vero''''';
+#* ''i valori della logica booleana sono '''vero''' e falso'';
+*[[reale]], [[effettivo]], [[veritiero]], [[sicuro]], [[certo]], [[attendibile]], [[credibile]]
+*''(di problema, risposta)'' [[giusto]], [[preciso]], [[esatto]], [[proprio]]
+*''(di prodotti)'' [[genuino]], [[puro]], [[autentico]]
+*''(di rapporto, persona, sentimento)'' [[valido]], [[sincero]], [[schietto]], [[immediato]], [[leale]], [[spontaneo]], [[intenso]], [[profondo]], [[sentito]]
+*''(sostantivo)'' [[verità]], [[realtà]], [[fatto]]
+*[[falso]], [[doppio]], [[bugiardo]], [[finto]], [[ipocrita]], [[ingannevole]], [[inattendibile]], [[inventato]], [[fallace]]
+*''(di problema, risposta)'' [[sbagliato]], [[impreciso]], [[inesatto]], [[erroneo]]
+*''(di rapporto, persona, sentimento)'' [[insincero]], [[menzognero]]
+*  [[sleale]], [[alterato]], [[sofisticato]],  [[negativo]]
+*''(sostantivo)'' [[falsità]], [[bugia]], [[insincerità]], [[menzogna]]
+*[[verificabile]]
+*[[fedele]], [[legittimo]], [[positivo]]
+#* ''xe na storia '''vera'''''
+#* ''gò dito el '''vero'''''
+#* ''no 'l xe bòn '''da vero'''!''
+#* ''el ło gà visto '''dal vero'''''
+#* ''para fora el '''vero'''!''
+#* ''gò tólto na '''vera'''''
+#* ''vałà che te sì '''vero'''!''
+*italiano
+*veneto
+*spagnolo
+*esperanto
+M>rus</E
+M>rum</E
+M>falso</E
+M>presunto</E
+M>immaginario</E
+M>Cristo</E
+M> v. Dio e v. uomo</E
+M>padre v.</E
+M>madre v.</E
+M>patrigno</E
+M>matrigna</E
+M>il v. autore</E
+M>il v. padrone è lui</E
+M>fittizio</E
+M>apparente</E
+M>tacere la v. ragione</E
+M>il v. motivo di qualche cosa</E
+M>Fu v. gloria?</E
+M>Vera la schiuma e vero il mar diresti</E
+M>una finestra</E
+M>una scena che pare v.</E
+M>è qui il v. nodo della questione</E
+M>la v. strada per giungere a un risultato è questa</E
+M>chiamare le cose col loro v. nome</E
+M>una storia v.</E
+M>racconto v.</E
+M>notizia v.</E
+M>sono cose v.</E
+M>parole v.</E
+M>una sentenza v.</E
+M>un proverbio v.</E
+M>tenere per vera una cosa</E
+M>tenere per vero che</E
+M>dunque è v.!</E
+M>è v. sì!</E
+M>nulla di più vero!</E
+M>è incredibile ma vero</E
+M>è v. ciò che ho sentito dire?</E
+M>come</E
+M> se è vero?</E
+M> ma certo che è vero!</E
+M>è v. o non è vero che ...?</E
+M>è v. o non è v. che lo sapevi anche tu?</E
+M>vero?</E
+M>dunque lo sapevi anche tu</E
+M> vero?</E
+M>non è vero?</E
+M>sei stato tu</E
+M> non è v.?</E
+M>ti piacerebbe</E
+M> non è vero?</E
+M>nevvero?</E
+M>verissimo</E
+M>tu non fosti sì ver testimonio Là</E
+M>assai volte miseramente pianse</E
+M>il non avere</E
+M>al v. sogno del marito voluto dar fede</E
+M>oro v.</E
+M>perle v.</E
+M>v. seta</E
+M>v. lana</E
+M>è v. Chianti</E
+M>è v. affetto</E
+M>v. amore</E
+M>aveva una v. antipatia per lui</E
+M>è pentimento v.</E
+M> il suo?</E
+M>esempio di v. carità cristiana</E
+M>di v. cuore</E
+M>questa è v. sapienza</E
+M>è una v. ingiustizia</E
+M>una v. prepotenza</E
+M>una v. indecenza</E
+M>una v. vergogna</E
+M>abbandonarlo sarebbe un v. tradimento</E
+M>proprio</E
+M>questa è una v. e propria calunnia!</E
+M>è un v. artista</E
+M>un v. genio</E
+M>un poeta v.</E
+M>è stato un v. gentiluomo</E
+M>si è comportato da v. amico</E
+M>fu per lui un v. padre</E
+M>è un v. briccone</E
+M>una v. canaglia</E
+M>un mascalzone v. e proprio</E
+M>è v. com’è v. il sole</E
+M>com’è v. Dio</E
+M>com’è v. che io sono qui</E
+M>stavolta me la paga cara</E
+M> com’è vero Iddio!</E
+M>fosse vero!</E
+M>notizia</E
+M>fosse vera!</E
+M>non mi par vero</E
+M>non mi pare il v.</E
+M>non mi par vero</E
+M>non mi parrebbe vero di fare una cosa</E
+M>non sarà mai vero che</E
+M>è vero che</E
+M>vero è che</E
+M>è bensì vero che</E
+M>tanto vero</E
+M>tant’è vero</E
+M>che</E
+M>non aveva ancora ricevuto la notizia</E
+M> tant’è vero che andò al lavoro come tutti i giorni</E
+M>altezza v. di un astro</E
+M>distanza zenitale v.</E
+M>Sole v.</E
+M>Sole fittizio</E
+M>Sole medio</E
+M>meridiano v.</E
+M>corretto</E
+M>vero</E
+M>dimostrabile</E
+M>semantico</E
+M>sintattico</E
+M>ver</E
+M>la ricerca</E
+M>la cognizione</E
+M>la conquista del v.</E
+M>il trionfo del v.</E
+M>la luce del v.</E
+M>per amore del v.</E
+M>in omaggio al v.</E
+M>s’io al vero son timido amico</E
+M> Temo di perder viver tra coloro</E
+M>All’apparir del vero</E
+M> Tu</E
+M> misera</E
+M> cadesti</E
+M>il sommo V.</E
+M>il supremo V.</E
+M>verità</E
+M>i supremi v.</E
+M>gli ascosi v.</E
+M>i reconditi veri</E
+M>credere</E
+M>conoscere</E
+M>scoprire il v.</E
+M>la verità</E
+M>essere nel v.</E
+M>distinguere il v. dal falso</E
+M>dire</E
+M>dichiarare</E
+M>testimoniare il v.</E
+M>se lo dice lui</E
+M> qualcosa di vero ci dev’essere</E
+M>non c’è nulla di vero</E
+M>non c’è neanche una parola di vero in ciò che dice</E
+M>dire il v.</E
+M>se la memoria</E
+M>se gli occhi mi dicono il v.</E
+M>i sogni spesso dicono il v.</E
+M>le carte mi hanno detto il v.</E
+M>dire il v.</E
+M>bilancia</E
+M>orologio</E
+M>termometro</E
+M>barometro che dice</E
+M>non dice il vero</E
+M>tenersi</E
+M>attenersi al v.</E
+M>studiare</E
+M>copiare</E
+M>rendere il v.</E
+M>disegnare</E
+M>dipingere</E
+M>ritrarre dal v.</E
+M>statua</E
+M>ritratto grande al vero</E
+M>grande il vero</E
+M>grande al naturale</E
+M>più piccolo</E
+M>più grande del vero</E
+M>salvo il v.</E
+M>e valga il v.</E
+M>a dire il v.</E
+M>a voler dire il v.</E
+M>per dire il v.</E
+M>a dir v.</E
+M>per v. dire</E
+M>per vero</E
+M>in vero</E
+M>invero</E
+M>da vero</E
+M>davvero</E
+M>o vero</E
+M>ovvero</E

@@ -1,0 +1,783 @@
+mettere.txt
+"accreditare, mettere su (un conto)"
+"così da mettere in luce"
+"distendere, mettere disteso"
+"far partire, avviare, mettere in moto"
+"inchiodare qc, mettere qc con le spalle al muro"
+"infilarsi in, intrufolarsi in, ficcare il naso in, mettere il becco in"
+"licenziare qc, mettere qc alla porta, dare il benservito a qc"
+"mettere"
+"mettere"
+"mettere"
+"mettere"
+"mettere"
+"supporre, ammettere"
+"mettere"
+"mettere"
+"mettere, replace: mettersi"
+"mettere, replace: mettersi"
+"mettere, replace: mettersi"
+"mettere"
+"mettere, replace: mettersi"
+"mettere  repentaglio"
+"mettere (nel sacchetto)"
+"mettere a bagno"
+"mettere a bando"
+"mettere a confronto"
+"mettere a dimora"
+"mettere a disposizione"
+"mettere a dormire"
+"mettere a dura prova"
+"mettere a ferro e fuoco"
+"mettere a frutto"
+"mettere a fuoco"
+"mettere a fuoco"
+"mettere a fuoco"
+"mettere a letto"
+"mettere a letto"
+"mettere a letto"
+"mettere a letto"
+"mettere a nudo"
+"mettere a nudo"
+"mettere a nudo"
+"mettere a panino"
+"mettere a piombo"
+"mettere a posto"
+"mettere a posto"
+"mettere a profitto"
+"mettere a punto"
+"mettere a repentaglio"
+"mettere a repentaglio"
+"mettere a repentaglio"
+"mettere a repentaglio"
+"mettere a repentaglio"
+"mettere a repentaglio"
+"mettere a repentaglio"
+"mettere a rischio"
+"mettere a rischio la propria vita"
+"mettere a segno"
+"mettere a tacere"
+"mettere a tappeto"
+"mettere a terra"
+"mettere a terra"
+"mettere a terra"
+"mettere addosso qc"
+"mettere ai voti"
+"mettere al bando"
+"mettere al bando i cattivi pensieri"
+"mettere al centro"
+"mettere al corrente"
+"mettere al corrente"
+"mettere al guinzaglio"
+"mettere al mondo"
+"mettere al posto giusto"
+"mettere al riparo"
+"mettere al rogo"
+"mettere al sacco"
+"mettere al servizio di"
+"mettere al sicuro"
+"mettere al sicuro"
+"mettere al tappeto"
+"mettere all'asta"
+"mettere all'asta"
+"mettere alla barra"
+"mettere alla gogna"
+"mettere alla porta"
+"mettere alla prova"
+"mettere alla prova per"
+"mettere alla prova qualcuno"
+"mettere alle corde"
+"mettere alle strette"
+"mettere alle strette qualcuno"
+"mettere assieme"
+"mettere assieme"
+"mettere avanti"
+"mettere avanti"
+"mettere benzina"
+"mettere bocca su tutto"
+"mettere condizioni"
+"mettere d'accordo"
+"mettere d'accordo"
+"mettere da parte"
+"mettere dei paletti"
+*[[appoggiare]], [[collocare]], [[porre]], [[disporre]], [[riporre]], [[sistemare]], [[situare]], [[posizionare]], [[adagiare]], [[posare]]
+*[[ficcare]], [[conficcare]], [[introdurre]], [[inserire]]
+*[[infilare]], [[indossare]], [[vestire]], [[portare]], [[calzare]]
+* ''(semi, piante)'' [[piantare]]
+*''((sentimento, emozione)'' [[dare]], [[trasmettere]], [[provocare]], [[suscitare]], [[infondere]], [[destare]], [[incutere]]
+*[[applicare]], [[attaccare]], [[appendere]], [[installare]], [[impiantare]]
+* ''(in un periodo, in un gruppo)'' [[includere]]
+*''(tempo, impegno, denaro)'' [[dedicare]], [[impiegare]], [[occupare]], [[spendere]]
+*[[imporre]]
+* ''(germoglio)'' [[produrre]], [[emettere]]
+*[[immaginare]], [[ammettere]], [[supporre]]
+* ''(una firma)'' [[aggiungere]], [[apporre]]
+*[[togliere]], [[rimuovere]], [[levare]], [[asportare]]
+*[[estrarre]], [[disinserire]]
+*[[rimettere]], [[smettere]], [[sottomettere]]
+*[[messa]]
+*''mettere su''
+M>mettésti</E
+M>méssi</E
+M>mésse</E
+M>méssero</E
+M>mésso</E
+M>porre</E
+M>collocare</E
+M>posare</E
+M>introdurre</E
+M>ficcare</E
+M>attaccare</E
+M>versare</E
+M>m. in</E
+M>dentro</E
+M>sopra</E
+M>sotto</E
+M>accanto</E
+M>davanti</E
+M>dietro</E
+M>m. il tappeto in terra</E
+M>i vestiti nell’armadio</E
+M>i libri nello zaino</E
+M>m. i piatti</E
+M>le posate</E
+M>le vivande in tavola</E
+M>m. in tavola</E
+M>m. le merci in magazzino</E
+M>le casse in deposito</E
+M>la vettura in rimessa</E
+M>un’imbarcazione in mare</E
+M>m. le botti sul carro</E
+M>m. la legna nel caminetto</E
+M>m. i panni in lavatrice</E
+M>m. i fagioli in pentola</E
+M>la carne sulla griglia</E
+M>la minestra sul fuoco</E
+M>m. l’acqua nel bicchiere</E
+M>lo zucchero nel caffè</E
+M>il vino in bottiglia</E
+M>m. il cappello in testa</E
+M>m. i bastoni fra le ruote</E
+M>m. al sole</E
+M>all’aria</E
+M>m. in ombra</E
+M>m. i panni ad asciugare</E
+M>m. il latte a bollire</E
+M>guarda dove metti i piedi</E
+M>gli mise una mano sulla spalla</E
+M>mettersi una mano sulla coscienza</E
+M>m. la chiave nella toppa</E
+M>m. un chiodo nel muro</E
+M>una lama nella fessura</E
+M>uno spillone nel cappello</E
+M>con un abile colpo di stecca ha messo la pallina nella buca</E
+M>m. in rete il pallone</E
+M>m. il grembiule</E
+M>le scarpe</E
+M>il berretto al bambino</E
+M>mettersi le scarpe</E
+M>le calze</E
+M>il vestito</E
+M>i guanti</E
+M>il soprabito</E
+M>mettersi</E
+M>mettersi indosso</E
+M>la maglia pesante</E
+M>mettersi una camicia nuova</E
+M>la cravatta a farfalla</E
+M>mettersi un anello al dito</E
+M>mettersi un fiore all’occhiello</E
+M>sapersi mettere</E
+M>una toppa ai calzoni</E
+M>i soprattacchi alle scarpe</E
+M>mettersi un cerotto</E
+M>il francobollo a una lettera</E
+M>le corde al violino</E
+M>mettersi gli occhiali</E
+M>la maschera</E
+M>i ferri</E
+M>la cavezza</E
+M>le briglie al cavallo</E
+M>le manette ai polsi</E
+M>le catene a un prigioniero</E
+M>le corna</E
+M>un quadro alla parete</E
+M>le tende alle finestre</E
+M>un avviso</E
+M>un manifesto</E
+M>in casa il gas</E
+M>il telefono</E
+M>il termosifone</E
+M>uno scaldabagno</E
+M>metti anche questo nel pacco</E
+M>chi più ne ha più ne metta</E
+M>eccetera eccetera</E
+M>e via dicendo</E
+M>e così via</E
+M>hai messo troppe idee</E
+M>troppe citazioni</E
+M>vorrei m</E
+M>nel contratto anche questa clausola</E
+M>ho messo alcune note in margine</E
+M>il titolo all’opera</E
+M>la firma su un documento</E
+M>metti qui il nome e cognome</E
+M>l’indirizzo sulla busta</E
+M>la data alla lettera</E
+M>qui ci metterei un aggettivo</E
+M>una virgola</E
+M>una parentesi</E
+M>metti uno zero dopo il sette</E
+M>in conto</E
+M>pace</E
+M>discordia</E
+M>scandali</E
+M>metter bene</E
+M>male fra due persone</E
+M>è un tonico che mette forza</E
+M>quelle parole gli misero coraggio</E
+M>è un pensiero che mette i brividi</E
+M>orrore</E
+M>ribrezzo</E
+M>paura</E
+M>soggezione</E
+M>timore</E
+M>in testa</E
+M>in mente una cosa a qualcuno</E
+M>mettersi qualcosa in testa</E
+M>mettiti bene in testa ciò che ti dico</E
+M>mettiti in testa che io non me ne voglio più occupare</E
+M>s’è messo in testa che io ce l’abbia con lui</E
+M>se si mette in testa d’andarci</E
+M>ci va</E
+M>non te le mettere in testa certe idee</E
+M>il bambino nella culla</E
+M>i bambini a letto</E
+M>a dormire</E
+M>a dormire una pratica</E
+M>le sentinelle all’ingresso</E
+M>la cavalleria alla retroguardia</E
+M>qualcuno in prigione</E
+M>un ospite al posto d’onore</E
+M>l’albergo è pieno e non saprei dove mettervi</E
+M>un figlio in collegio</E
+M>i figli a scuola</E
+M>al mestiere</E
+M>al lavoro</E
+M>a bottega</E
+M>qualcuno a un ufficio</E
+M>a un posto</E
+M>sul trono</E
+M>qualcuno in mezzo</E
+M>mettersi in mezzo fra due persone</E
+M>mettersi</E
+M>esser messo in mezzo</E
+M>mettere</E
+M>mettersi di mezzo</E
+M>qualcuno alle costole d’un altro</E
+M>mettersi alle costole di qualcuno</E
+M>qualcuno sulla via giusta</E
+M>lo mise a lavare i piatti</E
+M>a zappare la terra</E
+M>ha messo il figlio a dirigere l’azienda</E
+M>alla direzione dell’azienda</E
+M>l’asino a girare la macina</E
+M>i cani a tirare la slitta</E
+M>mettersi in un luogo</E
+M>s’è messo in casa mia e non se ne vuole più andare</E
+M>mettersi in un angolo</E
+M>mettersi accanto al fuoco</E
+M>mettersi a tavola</E
+M>mettersi a letto</E
+M>andare a letto</E
+M>mettiti lì e non ti muovere</E
+M>mettersi accanto</E
+M>dietro</E
+M>davanti</E
+M>ai lati</E
+M>non ti mettere sempre tra i piedi!</E
+M>non saper dove mettersi</E
+M>mettersi in abito da sera</E
+M>in costume</E
+M>in maschera</E
+M>mettersi in ghingheri</E
+M>mettersi in vestaglia</E
+M>in pigiama</E
+M>in maniche di camicia</E
+M>mettersi in lutto</E
+M>mettersi in comunicazione</E
+M>in contatto</E
+M>in relazione con qualcuno</E
+M>mettersi in società con qualcuno</E
+M>mettersi al servizio</E
+M>alle dipendenze di qualcuno</E
+M>mettersi con qualcuno</E
+M>con qualcuna</E
+M>mettersi insieme</E
+M>mettersi con i più forti</E
+M>mettersi con qualcuno più forte</E
+M>più debole</E
+M>Mettersi per una strada</E
+M>si misero per un sentiero che attraversava il bosco</E
+M>mettersi per una via pericolosa</E
+M>per</E
+M> su</E
+M>una strada sbagliata</E
+M>mettersi in cammino</E
+M>mettersi in via</E
+M>mettersi in un luogo</E
+M>per un luogo</E
+M>mettersi in mare col cattivo tempo</E
+M>noi ci mettemmo per un bosco Che da neun sentiero era segnato</E
+M>Quante fïate sol</E
+M>pien di sospetto</E
+M>Per luoghi ombrosi e foschi mi son messo</E
+M>mettersi in un’impresa</E
+M>mettersi alla ventura</E
+M>mettersi in un pericolo</E
+M>in un rischio</E
+M>mettersi nei guai</E
+M>nei pasticci</E
+M>mettersi a leggere</E
+M>a scrivere</E
+M>a giocare</E
+M>a cucire</E
+M>mettersi a gridare</E
+M>a ridere</E
+M>a piangere</E
+M>si misero tranquillamente a discorrere</E
+M>mi misi con pazienza a studiare la situazione</E
+M>si mise a cercarlo</E
+M>a seguirlo</E
+M>s’è messo a vendere elettrodomestici</E
+M>a fare l’assicuratore</E
+M>il treno si mise a correre</E
+M>il motore s’è messo a fare i capricci</E
+M>s’è messo a piovere</E
+M>a nevicare</E
+M>mettersi all’opera</E
+M>mettersi a un lavoro</E
+M>mettersi in cerca di qualcuno</E
+M>di qualche cosa</E
+M>d’impiego</E
+M>di fortuna</E
+M>mettersi di buona voglia</E
+M>di lena</E
+M>di buzzo buono</E
+M>mettercisi</E
+M>mettercela</E
+M>ce l’ho messa tutta</E
+M>credimi!</E
+M>pare che ci si sia messo</E
+M>finalmente</E
+M>quando ci si mette</E
+M>riesce sempre</E
+M>se mi ci metto io</E
+M>non mi ci metto neanche</E
+M>in piedi</E
+M>ritto</E
+M>disteso</E
+M>obliquo</E
+M>inclinato</E
+M>mettersi a sedere</E
+M>mettersi seduto</E
+M>mettersi sdraiato</E
+M>mettersi in ginocchio</E
+M>mettersi in guardia</E
+M>sulla difesa</E
+M>sulla difensiva</E
+M>i numeri in colonna</E
+M>i soldati</E
+M>in fila</E
+M>per due</E
+M>per quattro</E
+M>mettersi in fila</E
+M>un compito in bella</E
+M>in pulito</E
+M>in musica un testo</E
+M>in versi</E
+M>in rima</E
+M>in latino</E
+M>in francese</E
+M>in ordine</E
+M>in sesto</E
+M>in assetto</E
+M>in disordine</E
+M>sottosopra</E
+M>a soqquadro</E
+M>in subbuglio</E
+M>a rumore un paese</E
+M>qualcuno al sicuro</E
+M>al coperto</E
+M>una famiglia alla fame</E
+M>sulla strada</E
+M>sul lastrico</E
+M>un cavallo al passo</E
+M>al trotto</E
+M>al galoppo</E
+M>qualcuno sotto accusa</E
+M>sotto processo</E
+M>agli arresti</E
+M>in catene</E
+M>ai ferri</E
+M>alla tortura</E
+M>fuori combattimento</E
+M>in pensione</E
+M>a riposo</E
+M>in allestimento</E
+M>in costruzione</E
+M>il malato a dieta</E
+M>una bestia a fieno</E
+M>un prigioniero a pane e acqua</E
+M>un terreno a coltura</E
+M>un campo a grano</E
+M>un poggio a olivi</E
+M>qualcuno in pensiero</E
+M>in ansia</E
+M>in apprensione</E
+M>m. di buonumore</E
+M>di malumore qualcuno</E
+M>la sua presenza mi ha messo di buonumore</E
+M>di malumore</E
+M>in una brutta situazione</E
+M>nei guai qualcuno</E
+M>qualcuno sull’avviso</E
+M>in sospetto</E
+M>m’hai messo in imbarazzo con la tua domanda</E
+M>la testa</E
+M>il cervello a partito</E
+M>mettere</E
+M>mettersi il cuore in pace</E
+M>e io in vece vi dico chiaro e tondo che il cuore in pace non lo metterò mai</E
+M>qualcuno in onore</E
+M>in discredito</E
+M>in pericolo</E
+M>in burla</E
+M>in ridicolo</E
+M>in uso</E
+M>in dimenticanza</E
+M>in oblìo</E
+M>mettersi in salvo</E
+M>mettersi comodo</E
+M>a proprio agio</E
+M>mettersi in soggezione</E
+M>mettersi in regola con i pagamenti</E
+M>mettersi in pensione</E
+M>a riposo</E
+M>mettersi in ferie</E
+M>in malattia</E
+M>in maternità</E
+M>abbiamo messo un tanto per ciascuno</E
+M>io ci metto i soldi e lui il lavoro</E
+M>s’è risparmiato qualcosa sul preventivo perché una parte del materiale l’abbiamo messa noi</E
+M>se mettiamo ognuno cento euro</E
+M>potremo fargli un bel regalo</E
+M>un capitale a frutto</E
+M>i proprî risparmî in un’impresa</E
+M>ha messo tutti i suoi averi nell’industria</E
+M>mise cento euro sul rosso</E
+M>io metto due cip</E
+M>metto cento euro contro dieci che non ci riuscirai</E
+M>ci ha messo tre giorni per la riparazione</E
+M>fra andare e tornare ci metterò due ore buone</E
+M>da Roma a Napoli il treno ci mette circa due ore</E
+M>quanto ci metti</E
+M>a vestirti!</E
+M>se continua a fare il prepotente</E
+M>ci metto poco io a sistemarlo come si merita</E
+M>con la sua faccia tosta</E
+M>non ci metterebbe nulla a negare la verità</E
+M>ci ha messo tutta la sua buona volontà</E
+M>il suo zelo</E
+M>la sua diligenza</E
+M>tutto sé stesso per riuscire</E
+M>dovresti m</E
+M>più impegno nel tuo lavoro</E
+M>metti un po’ d’attenzione in ciò che fai</E
+M>fatiche e spese che si mettono nei buoni studi per essere onorati dagli altri</E
+M>era un uomo non solo da consigliare</E
+M>ma da metter l’opera sua</E
+M>quando si trattasse di sollevar poverelli</E
+M>mettici un po’ più di sentimento quando suoni</E
+M>la stufa</E
+M>il ventilatore</E
+M>la seconda</E
+M>la terza</E
+M>una tassa</E
+M>un tributo</E
+M>un dazio</E
+M>una multa</E
+M>una taglia</E
+M>un divieto</E
+M>il governo ha messo per legge che</E
+M>ostacoli</E
+M>difficoltà</E
+M>riparo</E
+M>rimedio a qualche cosa</E
+M>un freno agli abusi</E
+M>un limite alle spese</E
+M>alla propria ambizione</E
+M>mette tutta la propria gloria nel trionfare sui più deboli</E
+M>hanno messo tutta la loro felicità in quel figliolo</E
+M>metti il caso che io non mi svegli in tempo</E
+M>mettiamo che abbia detto il vero</E
+M>il ritardo sia</E
+M>mettiamo</E
+M>di tre ore</E
+M>il pollo ve lo metto dieci euro</E
+M>quanto mi mette al metro questa tela?</E
+M>se li prende tutti e tre glieli metto poco</E
+M>le radici</E
+M>le gemme</E
+M>le foglie</E
+M>metter radici</E
+M>le penne</E
+M>le ali</E
+M>le corna</E
+M>i denti</E
+M>i peli</E
+M>la barba</E
+M>i baffi.</E
+M>metter senno</E
+M>cervello</E
+M>giudizio</E
+M>metter superbia</E
+M>mettersi qualcuno contro</E
+M>mettersi contro qualcuno</E
+M>Metter dentro</E
+M>Metter fuori</E
+M>metter fuori le bandiere</E
+M>i quadri degli scrutinî</E
+M>fuori le piante</E
+M>fuori il naso</E
+M>stava tappato in casa</E
+M>con tanto di catenaccio</E
+M>e non metteva fuori nemmeno il naso</E
+M>metti fuori le mani dalle tasche</E
+M>fuori i soldi</E
+M>ha messo fuori alcune calunnie sul suo conto</E
+M>Metter giù</E
+M>metti giù quel pacco</E
+M>giù la cornetta del telefono</E
+M>giù le carte</E
+M>mettete giù le mani</E
+M>mettersi giù</E
+M>innanzi</E
+M>insieme</E
+M>insieme una compagnia</E
+M>un esercito</E
+M>insieme i maschi e le femmine</E
+M>insieme i soldi occorrenti</E
+M>un piccolo patrimonio</E
+M>un discreto gruzzolo</E
+M>insieme qualche idea</E
+M>pochi appunti</E
+M>un articolo</E
+M>metter sotto</E
+M>metter su</E
+M>Metter via</E
+M>a parte</E
+M>da parte</E
+M>in disparte</E
+M>Ben m’accorsi ch’elli era da ciel messo</E
+M>un grido</E
+M>un urlo</E
+M>un lamento</E
+M>mise un profondo sospiro</E
+M>i domestici indignati misero degli strilli da doverli udire al Ponte Nuovo</E
+M>avere</E
+M>i mandorli hanno messo presto quest’anno</E
+M>pare che il grano metta bene</E
+M>bene</E
+M>male</E
+M>per ora</E
+M>la faccenda mette bene</E
+M>Male per voi</E
+M>che bene per noi mette!</E
+M>le cose si mettono male</E
+M>il tempo</E
+M>mette al bello</E
+M>al brutto</E
+M>al buono</E
+M>al cattivo</E
+M>vent’anni che non andava a letto una sola volta senza prima guardare il cielo per vedere come si mettesse</E
+M>l’Aniene mette nel Tevere</E
+M>ogni fossato che mettea in Arno</E
+M>parea un fiume</E
+M>la via che mette alla piazza</E
+M>al ponte</E
+M>alla chiesa</E
+M>s’affacciava alle volte a un’altana</E
+M>a cui mettea il suo studio</E
+M>metter foce</E
+M>metter capo a un luogo</E
+M>metter conto</E
+M>credo che metta conto rischiare</E
+M>non mette conto andarci</E
+M>non mette conto che vi disturbiate</E
+M>a nuovo</E
+M>in armi</E
+M>in esecuzione</E
+M>agli archivî</E
+M>mettre aux archives</E
+M>agli atti</E
+M>al bando</E
+M>a cimento</E
+M>al corrente</E
+M>a confronto</E
+M>a paragone</E
+M>mettere</E
+M>vuoi m</E
+M>la mia fuoriserie con quel macinino!</E
+M>vorresti m</E
+M>le generazioni attuali con quelle di un tempo!</E
+M>non vorrai metterti con me!</E
+M>a disposizione</E
+M>a ferro e a fuoco</E
+M>a fuoco</E
+M>all’indice</E
+M>al mondo</E
+M>a morte</E
+M>al muro</E
+M>a nudo</E
+M>alla porta</E
+M>mettre à la porte</E
+M>a posto qualcuno</E
+M>le cose a posto</E
+M>mettersi a posto</E
+M>a profitto</E
+M>a profitto il proprio ingegno</E
+M> la propria abilità</E
+M>le nozioni apprese</E
+M>l’esperienza fatta</E
+M>alla prova</E
+M>a dura prova</E
+M>a punto un motore</E
+M>un dispositivo</E
+M>un congegno</E
+M>a punto una questione</E
+M>mettre au point</E
+M>qualcuno al punto di dover fare una cosa</E
+M>di fare uno sproposito</E
+M>di commettere una grossa sciocchezza</E
+M>di mentire</E
+M>a repentaglio</E
+M>a sacco</E
+M>a segno una cosa</E
+M>una persona</E
+M>qualcuno alle strette</E
+M>a terra</E
+M>ai voti</E
+M>a zero</E
+M>azzeramento</E
+M>in altezza</E
+M>messa in altezza</E
+M>in atto</E
+M>in atto un proposito</E
+M>una minaccia</E
+M>in azione un meccanismo</E
+M>in azione</E
+M>in campo</E
+M>in cantiere</E
+M>in carta</E
+M>per scritto</E
+M>iscritto</E
+M>nero su bianco</E
+M>in chiaro</E
+M>in circolazione</E
+M>in condizione</E
+M>l’ho messo in condizione di poter fare da sé</E
+M>una macchina in condizione di funzionare</E
+M>mettersi in condizione di riuscire</E
+M>di poter esser aiutato</E
+M>mettere</E
+M>mettersi in grado di fare una cosa</E
+M>in crisi</E
+M>in croce</E
+M>in dubbio</E
+M>in forse</E
+M>in forse</E
+M>mettere</E
+M>mettersi in evidenza</E
+M>in fuga</E
+M>in rotta</E
+M>in giro</E
+M>in guardia</E
+M>in libertà</E
+M>mettersi in libertà</E
+M>in linea</E
+M>in linea</E
+M>in luce</E
+M>in chiara luce</E
+M>in buona</E
+M>cattiva luce</E
+M>in mostra</E
+M>mettersi in mostra</E
+M>in moto</E
+M>mettersi in moto</E
+M>mettere</E
+M>mettersi in marcia</E
+M>nella necessità di fare una cosa</E
+M>in non cale</E
+M>in onda</E
+M>in opera</E
+M>mettre en oeuvre</E
+M>in palio</E
+M>mettere</E
+M>mettersi in pari</E
+M>in piazza</E
+M>in pratica</E
+M>in prova un oggetto</E
+M>in rapporto</E
+M>in relazione due fatti</E
+M>in rilievo</E
+M>in sacco</E
+M>nel sacco qualcuno</E
+M>in scena</E
+M>in stazione</E
+M>a tacere</E
+M>in valore</E
+M>mettre en valeur</E
+M>in vendita</E
+M>in commercio</E
+M>all’asta</E
+M>all’incanto</E
+M>in vista</E
+M>metter d’accordo</E
+M>mettersi d’accordo con qualcuno</E
+M>fine</E
+M>metter fine a una conversazione</E
+M>a una contesa</E
+M>a una situazione insostenibile</E
+M>metter fine alla propria vita</E
+M>male</E
+M>una questione sul tappeto</E
+M>qualcuno con le spalle al muro</E
+M>metter bocca in un discorso</E
+M>i bimbi non devono metter bocca nei discorsi dei grandi</E
+M>metter mano a qualche cosa</E
+M>mano alla spada</E
+M>alla penna</E
+M>metter mano a un lavoro</E
+M>le mani in una faccenda</E
+M>le mani sui soldi</E
+M>sugli averi altrui</E
+M>le mani addosso a qualcuno</E
+M>non mi metta le mani addosso!</E
+M>metter le mani avanti</E
+M>mettersi nelle mani di qualcuno</E
+M>il naso</E
+M>dappertutto</E
+M>nelle faccende altrui</E
+M>ficcare il naso</E
+M>gli occhi addosso a una persona</E
+M>a una cosa</E
+M>Metter piede in un luogo</E
+M>in questa casa non metterò più piede</E
+M>un piede in fallo</E
+M>il piede sul collo a qualcuno</E
+M>mettersi qualcuno sotto i piedi</E
+M>fatto e messo lì</E
+M>essere ben messo</E
+M>siamo ben messi ora!</E
+M>stare freschi</E

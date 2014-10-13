@@ -1,0 +1,78 @@
+cominciare.txt
+"cominciare"
+"cominciare"
+"cominciare a"
+"cominciare a capire prima degli altri"
+"cominciare a lavorare sodo"
+"cominciare a muoversi"
+"cominciare a suonare"
+"cominciare bene; decollare (di progetto)"
+"cominciare col piede sbagliato"
+"cominciare con"
+"cominciare con"
+"cominciare con successo; con sicurezza"
+"cominciare con, iniziare con"
+"cominciare da zero"
+"cominciare dal niente"
+"cominciare una dieta"
+"cominciare una nuova vita"
+"cominciare, iniziare"
+"cominciare, iniziare, avviarsi"
+"cominciare; avviare un progetto con qcn."
+"cominciare; iniziare a"
+"dare inizio a qualcosa; cominciare un nuovo lavoro"
+"iniziare, cominciare"
+"muoversi; cominciare a darsi da fare"
+"muoversi; cominciare a darsi da fare"
+"prendere il via; cominciare"
+"rendere possibile qualcosa, far cominciare qualcosa di nuovo"
+"tanto per cominciare"
+*[[intraprendere]], [[iniziare]]
+*[[comenzare]]
+M>*cominitiare</E
+M>com</E
+M>cum</E
+M>initiare</E
+M>io comìncio</E
+M>una lettera</E
+M>un lavoro a maglia</E
+M>la lettura di un libro</E
+M>una nuova cura</E
+M>cominciò il discorso con un saluto</E
+M>rivolgendo un saluto</E
+M>ai presenti</E
+M>a scrivere</E
+M>a leggere</E
+M>a imparare</E
+M>a muoversi</E
+M>a contare dall’1</E
+M>dal 100</E
+M>cominciamo a leggere dal terzo capitolo</E
+M>cominciò a dire</E
+M>cominciò col dire</E
+M>cominciare</E
+M>comincio ora a capire</E
+M>il bambino ha cominciato a fare i primi passi</E
+M>le rose hanno cominciato a fiorire</E
+M>egli cominciò così</E
+M>Io cominciai: «Poeta che mi guidi ...»</E
+M>tutto sta nel c</E
+M>comincia!</E
+M>cominciamo?</E
+M>cominciamo daccapo?</E
+M>chi ben comincia è alla metà dell’opera</E
+M>essere</E
+M>è cominciato l’inverno</E
+M>sono cominciati i lavori dei campi</E
+M>l’anno è cominciato bene</E
+M>lo spettacolo è già cominciato</E
+M>cominciato a piovere</E
+M>il 2° capitolo comincia a pag</E
+M>27.</E
+M>il podere comincia qui</E
+M>da questo punto comincia la zona bonificata</E
+M>al cominciare</E
+M>sul cominciare</E
+M>al cominciar del giorno</E
+M>sul cominciar dell’estate</E
+M>sia fornita La ben comincia impresa</E

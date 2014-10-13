@@ -1,0 +1,25 @@
+parere.txt
+"non parere vero"
+"parere"
+"parere"
+"parere"
+"parere"
+"parere favorevole"
+"parere legale"
+"promozione a pieni voti, parere entusiasta"
+#* ''la mamma pareva molto stanca''
+#* ''mi pare di averti già visto''
+*[[giudizio]], [[avviso]], [[opinione]]
+*[[sembrare]]
+"non parere vero"
+"parere"
+"parere"
+"parere"
+"parere"
+"parere favorevole"
+"parere legale"
+"promozione a pieni voti, parere entusiasta"
+#* ''la mamma pareva molto stanca''
+#* ''mi pare di averti già visto''
+*[[giudizio]], [[avviso]], [[opinione]]
+*[[sembrare]]

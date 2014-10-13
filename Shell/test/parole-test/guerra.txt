@@ -1,0 +1,291 @@
+guerra.txt
+"andare in guerra"
+"arte della guerra"
+"atto di guerra"
+"bottino di guerra"
+"campo di prigionieri di guerra"
+"canzone di guerra"
+"cavallo da guerra"
+"cavallo da guerra"
+"combattere una guerra"
+"consiglio di guerra"
+"consiglio di guerra"
+"contrario alla guerra"
+"corrispondente di guerra"
+"criminale di guerra"
+"crimine di guerra"
+"crimini di guerra"
+"croce di guerra"
+"croce di guerra al valore aeronautico"
+"danza di guerra"
+"dei cent'anni (guerra)"
+"del cavallo di guerra"
+"del periodo di guerra"
+"devastato dalla guerra"
+"dichiarare guerra"
+"dichiarare guerra"
+"dichiarazione di guerra"
+"dio della guerra"
+"dopo la guerra"
+"economia di guerra"
+"entrare in guerra"
+"fare guerra"
+"fare la guerra"
+"fare la guerra"
+"fate l'amore non la guerra"
+"figlio di guerra"
+"fondo di guerra"
+"fulmine di guerra"
+"giochi di guerra"
+"gioco di guerra"
+"grido di guerra"
+"grido di guerra"
+"grido di guerra"
+"guerra"
+"guerra"
+"guerra"
+"guerra aerea"
+"guerra aerea"
+"guerra anfibia"
+"guerra aperta"
+"guerra aperta"
+"guerra aperta"
+"guerra atomica"
+"guerra atomica"
+"guerra batteriologica"
+"guerra biologica"
+"guerra biologica"
+"guerra calda"
+"guerra calda; conflitto armato"
+"guerra chimica"
+"guerra civile"
+"guerra convenzionale"
+"guerra convenzionale"
+"guerra costituzionale"
+"guerra d'indipendenza"
+"guerra dei prezzi"
+"guerra di campanile"
+"guerra di classe"
+"guerra di gang"
+"guerra di gang"
+"guerra di logoramento"
+"guerra di nervi"
+"guerra di parole"
+"guerra di terra"
+"guerra di trincea"
+"guerra di Troia"
+"guerra di Troia"
+"guerra economica"
+"guerra fra poveri"
+"guerra fredda"
+"Guerra Fredda"
+"guerra globale"
+"guerra limitata"
+"guerra mondiale"
+"guerra navale"
+"guerra non dichiarata"
+"guerra popolare"
+"guerra preventiva"
+"guerra psicologica"
+"guerra psicologica"
+"guerra religiosa"
+"guerra simulata"
+"Riferito ai primi tempi della seconda guerra mondiale, in cui non si combatteva."
+"guerra sottomarina"
+"guerra totale"
+"guerra totale"
+"guerra totale; globale"
+"in assetto di guerra"
+"in guerra"
+"in guerra con"
+"in tempo di guerra"
+"incrociatore da guerra"
+#*''la [[w
+#*''il governo ha promesso che si impegnerà in una '''guerra''' contro il fumo di [[tabacco]]''
+* lotta armata, [[lotta]], [[ostilità]], [[conflitto]], [[contesa]], [[belligeranza]]
+*[[battaglia]], [[scontro]], [[campagna]], [[spedizione]], [[confronto]]
+* [[lotta]]
+*''(commerciale, dei prezzi ecc.)'' [[concorrenza]]
+*[[pace]]
+*[[anteguerra]], [[dopoguerra]], [[guerrafondaio]], [[guerraiolo]], [[guerraiuolo]], [[guerreggevole]], [[guerreggiante]], [[guerreggiare]], [[guerreggiato]], [[guerreggiatore]], [[guerrero]], [[guerresco]], [[guerriare]], [[guerriere]], [[guerriero]], [[guerriglia]], [[guerrigliero]], [[guerriglioso]]
+*'' se vuoi la [[pace]]  preparati alla 
+*italiano
+*napoletano
+*siciliano
+*spagnolo
+M>werra</E
+M>dichiarazione di g</E
+M>stato di g</E
+M>stato di g</E
+M>stato di pericolo pubblico</E
+M>stato d’assedio</E
+M>dichiarare</E
+M>intimare</E
+M>bandire</E
+M>la g</E
+M>provocare</E
+M>cominciare</E
+M>intraprendere una g</E
+M>muovere g</E
+M>portare la g</E
+M>a uno stato</E
+M>fare la g</E
+M>giocare alla g</E
+M>fare una g</E
+M>aveva fatto la g</E
+M>di Libia</E
+M>aveva fatto la g</E
+M>in Etiopia</E
+M>essere</E
+M>entrare in g</E
+M>andare in g</E
+M>tornare dalla g</E
+M>condurre</E
+M>guidare</E
+M>dirigere la g</E
+M>finire</E
+M>vincere</E
+M>perdere la g</E
+M>lo scoppio</E
+M>l’inizio</E
+M>il termine d’una g</E
+M>a g</E
+M>finita</E
+M>in tempo di g</E
+M>in caso di g</E
+M>caso di g</E
+M>essere in assetto di g</E
+M>sul piede di g</E
+M>le rovine</E
+M>le devastazioni</E
+M>gli orrori della g</E
+M>restrizioni di g</E
+M>prigionieri di g</E
+M>macchine</E
+M>munizioni</E
+M>navi</E
+M>aeroplani da g</E
+M>trombe di g</E
+M>il campo</E
+M>la sede</E
+M>il teatro</E
+M>lo scacchiere della g</E
+M>l’arte della g</E
+M>scuole di g</E
+M>uomo di g</E
+M>grido di g</E
+M>nome di g</E
+M>legislazione</E
+M>legge di g</E
+M>le leggi della g</E
+M>diritto penale</E
+M>diritto processuale penale</E
+M>militare di g</E
+M>consiglio</E
+M>tribunale di g</E
+M>zona di g</E
+M>zona di operazioni</E
+M>danni di g</E
+M>indennità di g</E
+M>riparazioni di g</E
+M>economia di g</E
+M>profitti</E
+M>sopraprofitti di g</E
+M>imposte di guerra</E
+M>di conquista</E
+M>di liberazione</E
+M>di religione</E
+M>santa</E
+M>all’oppressore</E
+M>all’invasore</E
+M>g. preventiva</E
+M>preventive war</E
+M>umanitaria</E
+M>atomica</E
+M>nucleare</E
+M>batteriologica</E
+M>biologica</E
+M>chimica</E
+M>geofisica</E
+M>elettronica</E
+M>offensiva</E
+M>difensiva</E
+M>di movimento</E
+M>di posizione</E
+M>terrestre</E
+M>navale</E
+M>marittima</E
+M>aerea</E
+M>partigiana</E
+M>accanita</E
+M>crudele</E
+M>tremenda</E
+M>sanguinosa</E
+M>micidiale</E
+M>a coltello</E
+M>all’ultimo sangue</E
+M>aperta</E
+M>a fondo</E
+M>lampo</E
+M>totale</E
+M>mondiale</E
+M>mondiale</E
+M>Grande g</E
+M>mondiale</E
+M>di giganti</E
+M>dei Cent’anni</E
+M>dei Trent’anni</E
+M>russo</E
+M>giapponese</E
+M>sannitiche</E
+M>mitridatiche</E
+M>napoleoniche</E
+M>civile</E
+M>cittadina</E
+M>intestina</E
+M>interna</E
+M>civile</E
+M>fredda</E
+M>cold war</E
+M>calda</E
+M>dei nervi</E
+M>psicologica</E
+M>doganale</E
+M>di tariffe</E
+M>commerciale</E
+M>del vino</E
+M>del merluzzo</E
+M>or più fiera si fa l’orrenda g</E
+M>guerre fra partiti</E
+M>una delle solite g</E
+M>fra letterati</E
+M>tra suocera e nuora</E
+M>tra commercianti in concorrenza</E
+M>perché dunque</E
+M>potrei dirvi</E
+M>vi siete voi impegnato in un ministero che v’impone di stare in g</E
+M>con le passioni del secolo?</E
+M>a colpi di spillo</E
+M>di ingiurie</E
+M>di calunnie</E
+M>di reciproche accuse</E
+M>fare</E
+M>muovere g</E
+M>alle superstizioni</E
+M>ai pregiudizî</E
+M>partire in g</E
+M>contro qualcuno</E
+M>qualche cosa</E
+M>la g</E
+M>dei venti</E
+M>degli elementi</E
+M>Vidi in un punto sol i venti e ’l mare Con sì crucciosa fronte a g</E
+M>insieme</E
+M>In quanta g</E
+M>di pensier mi pone</E
+M>la g</E
+M>delle passioni</E
+M>e io sol uno M’apparecchiava a sostener la guerra Sì del cammino e sì de la pietate</E
+M>guerricciuòla</E
+M>tra queste deplorabili guerricciole con sé e con gli altri</E
+M>aveva varcata la puerizia</E

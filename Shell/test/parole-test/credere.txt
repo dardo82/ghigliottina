@@ -1,0 +1,139 @@
+credere.txt
+"a mio credere"
+"aver ragione di credere che"
+"c'è motivo di credere"
+"che si può credere"
+"credere"
+"credere"
+"credere"
+"credere"
+"credere"
+"credere"
+"credere, replace: credersi"
+"credere, replace: crederci"
+"credere, replace: crederci"
+"credere in qlcs"
+"credere a"
+"credere a qcn"
+"credere a tutto"
+"credere ciecamente a\/in"
+"credere in"
+"credere in Dio"
+"credere sulla parola"
+"da non credere"
+"difficile da credere"
+"essere difficile da credere"
+"essere portato a credere"
+"far credere"
+"far credere"
+"far credere"
+"far credere a qualcuno"
+"non credere ai propri occhi"
+"non poterci credere"
+"portare qualcuno a credere"
+"propenso a credere"
+"provare per credere"
+"ragion di credere"
+"rifiutarsi di credere"
+"tener fede a; credere"
+#*'''''Credo''' di poterlo fare''
+#*''Io ti '''credo'''...''
+*prestare fede, essere certo, essere sicuro, essere convinto, avere fiducia, [[confidare]], [[fidarsi]],[[contare]]
+*avere fede, praticare una religione
+*ritenere vero
+* [[immaginare]], [[supporre]]
+*ritenere opportuno, ritenere giusto
+* [[pensare]], [[stimare]], [[reputare]]
+*[[dubitare]], [[diffidare]], essere scettico
+*[[credersi]], [[stare del credere]]
+M>avere</E
+M>a qualcuno</E
+M>Se non mi credi</E
+M>pon mente a la spiga</E
+M>Ch’ogn’erba si conosce per lo seme</E
+M>ai giornali</E
+M>ai ciarlatani</E
+M>sulla parola</E
+M>non c</E
+M>ai proprî occhi</E
+M>è inutile che io parli</E
+M>tanto non sono creduto</E
+M>quand’uno per bugiardo è conosciuto</E
+M>anche se dice il ver non è creduto</E
+M>a qualche cosa</E
+M>crede a tutto ciò che gli si dice</E
+M>non bisogna c</E
+M>alle chiacchiere</E
+M>può darsi che sia così</E
+M>ma io non ci credo</E
+M>crede tutto ciò che gli dicono</E
+M>far c</E
+M>dare a c</E
+M>una cosa a qualcuno</E
+M>e lui l’ha creduta?</E
+M>credo io!</E
+M>lo credo bene!</E
+M>lo credereste?</E
+M>chi lo crederebbe?</E
+M>chi l’avrebbe creduto?</E
+M>non voglio crederci</E
+M>non posso crederlo</E
+M>credi</E
+M>credete</E
+M>credimi</E
+M>credetemi</E
+M>credi</E
+M>credete a me</E
+M>Con voi sono stato lieto Dalla partenza</E
+M> e molto Vi sono grato</E
+M> credetemi</E
+M> Per l’ottima compagnia</E
+M>credo che arriveremo in tempo</E
+M>credevo di non alzarmi più dal letto</E
+M>voglio c</E
+M>che egli si sia ravveduto</E
+M>credevo di vincere</E
+M>non puoi c</E
+M>quanto mi dispiaccia</E
+M>non mi credevo d’offenderti</E
+M>Sì ch’io mi credo omai che monti e piagge E fiumi e selve sappian di che tempre Sia la mia vita</E
+M>la cosa</E
+M>credo</E
+M>è andata così</E
+M>credo</E
+M>non credo</E
+M>agli spiriti alle fate</E
+M>nelle streghe</E
+M>alla iettatura</E
+M>non vuol c</E
+M>ai miracoli</E
+M>c. in Dio</E
+M>non c</E
+M>in Dio</E
+M>nel paradiso</E
+M>nell’inferno</E
+M>nella resurrezione della carne</E
+M>è un cinico che non crede in nulla</E
+M>non crede neanche nel pan cotto</E
+M>nell’acqua fresca</E
+M>è un uomo che non crede</E
+M>nel progresso</E
+M>io non credo ai medici né alle medicine</E
+M>non credeva a una guerra imminente</E
+M>non credo alla sua colpevolezza</E
+M>ho creduto bene di non rispondere</E
+M>fa’ come credi meglio</E
+M>ho sempre fatto quello che ho creduto</E
+M>lo credo capace di tutto</E
+M>ti credevo una persona onesta</E
+M>credi autentico il manoscritto?</E
+M>credimi tuo aff.mo</E
+M>mi creda suo dev</E
+M>si crede un campione</E
+M>un grand’uomo</E
+M>chi ti credi di essere?</E
+M>Credano il petto inerme Gli augelli al vento</E
+M>tu a questi stessi pur allora non crederesti un fiorino senza testimoni</E
+M>a mio c</E
+M>secondo il mio c</E
+M>oltre ogni c</E

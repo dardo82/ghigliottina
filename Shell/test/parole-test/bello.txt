@@ -1,0 +1,342 @@
+bello.txt
+"bello"
+"bello"
+"bello"
+"bello"
+"bello"
+"bello"
+"ciò che è bello"
+"bello"
+"bello"
+"bello come il sole"
+"bello come un quadro"
+"bello da vedere"
+"bello da vedere"
+"Bello di mamma"
+"bello e impossibile"
+"bello scrivere"
+"bello spettacolo"
+"che bello!"
+"che fai di bello?"
+"ciao bello"
+"di bell'aspetto, bello"
+"di bell'aspetto, bello, carino"
+"fare il bello ed il cattivo tempo"
+"il bello"
+"il bello deve ancora venire"
+"il gioco è bello quando dura poco"
+"il mondo è bello perché è vario"
+"lo scherzo e' bello quando dura poco"
+"molto bello"
+"non è bello ciò che è bello ma è bello ciò che piace"
+"non un bello spettacolo, non un granché"
+"ogni scarafaggio sembra bello a sua madre"
+"Ogni scarrafon'è bello a mammà soja"
+"reso bello"
+"troppo bello per essere vero"
+#*''Oggi il tempo è '''bello'''.''
+#*''domani riprenderà il bello?''
+*[[stupendo]], [[splendido]], [[magnifico]], [[incantevole]], [[avvenente]], [[affascinante]], [[attraente]], [[seducente]], [[appariscente]], [[notevole]], [[vistoso]], [[piacente]], [[aggraziato]], [[grazioso]], [[carino]], [[piacevole]], [[gradevole]], [[delizioso]], [[ameno]], [[leggiadro]], [[elegante]], [[armonioso]], [[equilibrato]], ben fatto, [[benfatto]],[[proporzionato]], ben proporzionato, [[armonico]], [[scultoreo]]
+*[[buono]], [[generoso]], [[nobile]], [[dignitoso]], [[illustre]], [[glorioso]]
+*(di tempo, cielo) [[luminoso]], [[soleggiato]], [[limpido]], [[chiaro]], [[sereno]], [[mite]], [[temperato]], [[calmo]]
+*[[grandioso]], [[grande]], [[ingente]], [[abbondante]], [[imponente]], [[sontuoso]], [[pregevole]], [[mirabile]], [[cospicuo]]
+*(solo singolare) [[bellezza]], [[armonia]], [[fascino]], [[eleganza]], [[grazia]]
+*(di patrimonio, cifra e simili)  [[grande]] 
+*[[brutto]], [[sgradevole]], [[orrendo]], [[orrido]], [[orribile]], [[mostruoso]]
+*(di persona)[[cattivo]], [[meschino]], [[misero]], [[triste]], [[vile]], [[ignobile]], [[abietto]], [[squallido]], [[repellente]], [[sgraziato]], [[goffo]], [[deforme]], [[racchio]]
+*[[piccolo]], [[scarso]], [[lieve]], [[modesto]]
+*''(di cosa)'' [[disarmonico]], [[sproporzionato]], [[squilibrato]], 
+*''(di tempo)''  [[nuvoloso]], [[nuvolo]]
+*[[bruttezza]], [[disarmonia]]
+*[[maltempo]]
+*[[bellezza]], [[belletto]],[[bellimbusto]], [[bellino]], [[belloccio]], [[bellona]], [[bellore]], [[bellosguardo]], [[bellospirito]], [[bellumore]], [[belluria]], [[bel paese]], [[belpaese]],[[beltà]],
+*[[ammirevole]], [[positivo]], [[efficace]]
+*'' bel bello''
+*italiano
+*latino
+M>llus</E
+M>lus</E
+M>duenos</E
+M>bonus</E
+M>bèl</E
+M>bèi</E
+M>bèllo</E
+M>bègli</E
+M>bèlli</E
+M>quella cosa dice l’uomo essere bella cui le parti debitamente si rispondono</E
+M>per che de la loro armonia resulta piacimento</E
+M>non è b</E
+M>quel che è b</E
+M>ma è b</E
+M>quel che piace</E
+M>un bel bambino</E
+M>una b</E
+M>donna</E
+M>un bell’uomo</E
+M>un bel corpo</E
+M>membra</E
+M>bei capelli</E
+M>una b</E
+M>bocca</E
+M>dei bellissimi occhi</E
+M>ha una b</E
+M>voce</E
+M>gli fece un bel sorriso</E
+M>dormi</E
+M>bello mio</E
+M>non piangere</E
+M>mio</E
+M>sarebbe ora che tu mettessi giudizio</E
+M>il bel sesso</E
+M>il bel mondo</E
+M>far b</E
+M>farsi b</E
+M>crescendo</E
+M>s’è fatta più bella</E
+M>è stata un’ora a farsi bella davanti allo specchio</E
+M>fare il b</E
+M>farsi b</E
+M>d’una cosa</E
+M>farsi b</E
+M>della roba altrui</E
+M>farsi b</E
+M>del sol di luglio</E
+M>un bel cavallo</E
+M>un bel gatto d’angora</E
+M>un bel vitello</E
+M>una bella mucca</E
+M>un bel palazzo</E
+M>una b</E
+M>automobile</E
+M>una b</E
+M>terrazza</E
+M>dei bellissimi fiori</E
+M>un bel tramonto</E
+M>una b</E
+M>città</E
+M>il bel paese Ch’Appennin parte</E
+M>e ’l mar circonda e l’Alpe</E
+M>la villa sorge in una b</E
+M>posizione</E
+M>di quassù si gode una b</E
+M>vista</E
+M>copia</E
+M>la bella</E
+M>minuta</E
+M>brutta copia</E
+M>una b</E
+M>statua</E
+M>musica</E
+M>una b</E
+M>commedia</E
+M>scritto in b</E
+M>stile</E
+M>esempî di b</E
+M>scrivere</E
+M>arti</E
+M>lettere</E
+M>beaux arts</E
+M>belles lettres</E
+M>ha fatto un bel discorso</E
+M>è un bell’oratore</E
+M>è un bel corridore</E
+M>un bel pugile</E
+M>ha un bell’ingegno</E
+M>spirito</E
+M>Bel tempo</E
+M>darsi bel tempo</E
+M>una b</E
+M>giornata</E
+M>un bel cielo</E
+M>bel sole</E
+M>un bel chiaro di luna</E
+M>bel mare</E
+M>è stata una b</E
+M>gita</E
+M>faremo un bel viaggio</E
+M>ho voglia di fare un bel bagno</E
+M>è stato davvero un bello spettacolo</E
+M>begli anni quelli!</E
+M>ai suoi bei tempi</E
+M>trascorrere bei giorni</E
+M>bei momenti</E
+M>fare la b</E
+M>vita</E
+M>darsi alla b</E
+M>vita</E
+M>bellavita</E
+M>nutre bei sentimenti</E
+M>ha una bell’anima</E
+M>ha reso la sua bell’anima a Dio</E
+M>è stato un bel pensiero</E
+M>con b</E
+M>maniere</E
+M>è stato un bel gesto</E
+M>ha compiuto un bell’atto</E
+M>tutti que’ bei proponimenti di prudenza e di pazienza andarono in fumo</E
+M>un bel morir tutta la vita onora</E
+M>gli ha dato una b</E
+M>risposta</E
+M>un bel tacer non fu mai scritto</E
+M>buono</E
+M>avere una b</E
+M>cera</E
+M>ottenere un bel voto</E
+M>raggiungere un bel risultato</E
+M>fare una b</E
+M>riuscita</E
+M>avere un bel posto in classifica</E
+M>è stata una b</E
+M>idea</E
+M>farsi una b</E
+M>fama</E
+M>un bel nome</E
+M>giovane di b</E
+M>speranze</E
+M>trovare</E
+M>perdere una b</E
+M>occasione</E
+M>fare un bell’acquisto</E
+M>un bel guadagno</E
+M>ho trovato un bel posto in treno</E
+M>ha guadagnato una b</E
+M>sommetta</E
+M>ha fatto un bel progresso</E
+M>ci fece sopra una b</E
+M>dormita</E
+M>s’è mangiato una b</E
+M>porzione di carne</E
+M>è caduta una b</E
+M>nevicata</E
+M>c’è ancora un bel pezzo di strada</E
+M>150 km all’ora sono una b</E
+M>velocità</E
+M>ha una b</E
+M>età</E
+M>ci vuole un bel coraggio</E
+M>bel coraggio</E
+M>pigliarsela con un povero vecchio!</E
+M>si prese un bello spavento</E
+M>gli diede un bel bacio</E
+M>un bel calcio</E
+M>un bel ceffone</E
+M>è stato un bel colpo</E
+M>che b</E
+M>macchia sui pantaloni!</E
+M>s’è preso una b</E
+M>bronchite</E
+M>ha ricevuto una b</E
+M>botta</E
+M>abbiamo avuto una b</E
+M>perdita</E
+M>che bel pezzo di figliola!</E
+M>è davvero un bell’impostore</E
+M>un bel mascalzone</E
+M>un bello sfacciato</E
+M>è stato un bel cretino a indebitarsi in quel modo!</E
+M>pulito</E
+M>tondo</E
+M>grasso</E
+M>nel bel mezzo del discorso</E
+M>non gli darò un bel niente</E
+M>fare una cosa a b</E
+M>posta</E
+M>a b</E
+M>studio</E
+M>un bel giorno se n’accorgerà</E
+M>gli scriveremo di bel nuovo</E
+M>un bel sì</E
+M>un bel no</E
+M>avere un bel dire</E
+M>un bel fare</E
+M>hanno un bel dire costoro</E
+M>ma nessuno li ascolta</E
+M>avremo un bel darci da fare</E
+M>non otterremo nulla</E
+M>era bell’e partito</E
+M>è bell’e andato</E
+M>bell’e finito</E
+M>bell’e morto</E
+M>bell’e buono</E
+M>è oro bell’e buono</E
+M>è un insulto bell’e buono</E
+M>le sue sono calunnie bell’e buone</E
+M>roba mi offri!</E
+M>ci ha fatto proprio una b</E
+M>parte</E
+M>hai una b</E
+M>faccia tosta</E
+M>dirne</E
+M>contarne</E
+M>saperne delle b</E
+M>ne dice sempre delle b</E
+M>ne ho sentite delle belle sul suo conto</E
+M>farne delle b</E
+M>l’ho fatta bella!</E
+M>fare la b</E
+M>l’ha detta bella</E
+M>questa è b</E
+M>oh bella!</E
+M>il gusto</E
+M>il sentimento</E
+M>il culto del b</E
+M>il b</E
+M>nell’arte</E
+M>speriamo che domani torni il bello</E
+M>non</E
+M>ciò che fai</E
+M>ti pare b</E
+M>comportarti così?</E
+M>che bello!</E
+M>cento</E
+M> dugento</E
+M> trecento</E
+M> di più</E
+M> di più</E
+M> una ressa</E
+M> una strafila</E
+M> una calca: che bello</E
+M> che ballo!</E
+M>che cosa leggi di b</E
+M>che stai facendo di b</E
+M>che cosa mi dici di b</E
+M>è bello</E
+M>donna è bello</E
+M>il b</E
+M>è che...</E
+M>il b</E
+M>è che egli ci credette</E
+M>sul più b</E
+M>sul più b</E
+M>del sogno mi svegliai</E
+M>la pellicola si ruppe proprio sul più b</E
+M>dell’azione</E
+M>sul più b</E
+M>mi accorsi ch’eravamo rimasti senza benzina</E
+M>ora viene il b</E
+M>Ci volle del b</E
+M>e del buono</E
+M>ci volle del b</E
+M>e del buono a convincerlo</E
+M>ogni tanto pozze</E
+M>da volerci del buono e del b</E
+M>a levarne i piedi</E
+M>non che le scarpe</E
+M>bel bello</E
+M>per una di queste stradicciole</E
+M>tornava bel bello dalla passeggiata verso casa</E
+M>don Abbondio</E
+M>alla bell’e meglio</E
+M>ci siamo arrangiati alla bell’e meglio</E
+M>gran bello</E
+M>ha dei gran begli occhi</E
+M>fu una gran bell’idea</E
+M>questo sì che è davvero un gran bel regalo</E
+M>proprio bella non la direi</E
+M>ma è bellina</E
+M>bellóna</E
+M>Ariannuccia</E
+M>vaguccia</E
+M>belluccia</E
+M>bello</E
+M>bene</E

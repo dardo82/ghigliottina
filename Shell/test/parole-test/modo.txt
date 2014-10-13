@@ -1,0 +1,484 @@
+modo.txt
+"a modo tuo"
+"a ogni modo"
+"a suo modo"
+"a tuo modo di vedere"
+"a tuo modo di vedere"
+"ad ogni modo"
+"ad ogni modo"
+"ad ogni modo"
+"ad ogni modo..."
+"al modo di"
+"allo stesso modo"
+"allo stesso modo"
+"allungarsi in modo esagerato"
+"assolto in modo virtuale"
+"aver avuto modo di conoscere"
+"avere nel campo visivo e seguire in modo automatico un obiettivo"
+"borbottare, parlare in modo confuso"
+"che accoglie in malo modo"
+"che parla in modo osceno"
+"comportarsi in modo arrogante"
+"comportarsi in modo violento contro"
+"Comportarsi male, in modo inappropriato"
+"conoscere il modo"
+"conservare in modo esagerato"
+"conservare in modo sproporzionato"
+"decisamente, violentemente, in modo veemente"
+"descritto in modo vivido"
+"di modo che"
+"dire come, dire in quale modo"
+"fare in modo che"
+"fare una cosa in modo eccellente"
+"gentilmente, generosamente, in modo disponibile"
+"grosso modo"
+"il modo"
+"il modo in cui pensi, come pensi"
+"il modo in cui sei, come sei"
+"il modo in cui sono le cose"
+"il modo in cui ti senti, come ti senti"
+"il modo in cui vanno le cose"
+"il modo sbagliato"
+"il peggior modo"
+"in che modo"
+"in che modo"
+"in che modo"
+"in modo accessibile"
+"in modo accigliato"
+"in modo accusatorio"
+"in modo affidabile"
+"in modo allettante"
+"in modo anormale"
+"in modo approfondito"
+"in modo arbitrario"
+"in modo arrogante"
+"in modo associato"
+"in modo attendibile"
+"in modo attento"
+"in modo automatico"
+"in modo belligerante"
+"in modo bizzarro"
+"in modo casuale"
+"in modo casuale, in modo improvviso, in modo brusco"
+"in modo che"
+"in modo chiarificatorio"
+"in modo civile, civilmente"
+"in modo comico"
+"in modo commovente"
+"in modo competente"
+"in modo conciso"
+"in modo condiscendente"
+"in modo contemplativo"
+"in modo continuo"
+"in modo contradditorio"
+"in modo convenzionale"
+"in modo corrispondente"
+"in modo costante"
+"in modo credibile"
+"in modo da"
+"in modo da"
+"in modo da"
+"in modo depressivo"
+"in modo diretto"
+"in modo diretto"
+"in modo discontinuo"
+"in modo disgustoso"
+"in modo distratto"
+"in modo diverso"
+"in modo diverso"
+"in modo divertente"
+"in modo divertente"
+"in modo divertente"
+"in modo eccentrico"
+"in modo effervescente"
+"in modo elaborato"
+"in modo eloquente"
+"in modo entusiastico"
+"in modo equo"
+"in modo esaltato, fuori misura"
+"in modo esasperante"
+"in modo esauriente"
+"in modo esclusivo"
+*[[maniera]]
+*''a modo mio'' 
+*[[manera]] ''f''
+*italiano
+M>dus</E
+M>maniera</E
+M>di camminare</E
+M>di vestire</E
+M>di pensare</E
+M>di parlare</E
+M>di scrivere</E
+M>di pronunciare una parola</E
+M>di governo</E
+M>modi di acquisto della proprietà</E
+M>modi di estinzione delle obbligazioni</E
+M>ha un garbato modo di esporre</E
+M>ha un m</E
+M>di ragionare tutto suo</E
+M>ha un m</E
+M>di guardare che non mi piace</E
+M>parlava in m</E
+M>buffo</E
+M>si comporta in m</E
+M>strano</E
+M>l’argomento è trattato in m</E
+M>originale</E
+M>gli accennò in m</E
+M>vago alla questione</E
+M>ha agito al m</E
+M>solito</E
+M>mordendo correvan di quel modo Che ’l porco quando del porcil si schiude</E
+M>di essere</E
+M>di fare</E
+M>ha uno strano m</E
+M>di fare</E
+M>di vedere</E
+M>ognuno ha il suo m</E
+M>di vedere</E
+M>a mio m</E
+M>di vedere</E
+M>che m</E
+M>di rispondere è il tuo?</E
+M>che m</E
+M>di fare è codesto?</E
+M>è questo il m</E
+M>di discutere?</E
+M>non è questo il m</E
+M>di entrare</E
+M>non è questo il m</E
+M>di trattare</E
+M>di fare</E
+M>che m</E
+M>sono questi?</E
+M>ma guarda che modi!</E
+M>mi piace il modo!</E
+M>In un certo m</E
+M>ti esprimi in un certo m</E
+M>s’aggirava</E
+M>guardava in un certo m</E
+M>certo</E
+M>me lo disse in un modo .</E
+M>Avverbio di modo</E
+M>di maniera</E
+M>mente</E
+M>in modo</E
+M>certamente</E
+M>severamente</E
+M>in m</E
+M>evidente</E
+M>in m</E
+M>generico</E
+M>in singolar m</E
+M>evidentemente</E
+M>genericamente</E
+M>singolarmente</E
+M>Complemento di modo o maniera</E
+M>con</E
+M>agì con molta prudenza</E
+M>lavorava in silenzio</E
+M>molto prudentemente</E
+M>silenziosamente</E
+M>venne di corsa</E
+M>venne correndo</E
+M>maniera</E
+M>al m</E
+M>antico</E
+M>al m</E
+M>dei Francesi</E
+M>vestire al m</E
+M>dei montanari</E
+M>A modo di</E
+M>per m</E
+M>un cerchio di fiori a m</E
+M>di corona</E
+M>una cordicella a m</E
+M>di cintura</E
+M>la donna</E
+M>per m</E
+M>di diporto se n’andò alla piccola casetta di Federigo</E
+M>mo’</E
+M>questo misero modo Tegnon l’anime triste di coloro Che visser sanza ’nfamia e sanza lodo</E
+M>nobiltà</E
+M>gentilezza</E
+M>ruvidezza di modi</E
+M>garbati</E
+M>cortesi</E
+M> schietti</E
+M>arditi</E
+M>burberi</E
+M>bruschi</E
+M>villani</E
+M>leziosi</E
+M>cerimoniosi</E
+M>glielo fece intendere con bei m</E
+M>con bel m</E
+M>lo accolse</E
+M>lo trattò</E
+M>lo scacciò in malo m</E
+M>s’è comportato in malo modo</E
+M>C’è modo e modo</E
+M>a mio</E
+M>tuo</E
+M>suo m</E
+M>di vedere</E
+M>di pensare</E
+M>di ragionare</E
+M>lasciami fare a m</E
+M>mio</E
+M>vuol fare tutto a m</E
+M>suo</E
+M>non puoi pretendere che tutti facciano a m</E
+M>tuo</E
+M>fate pure a m</E
+M>vostro</E
+M>date retta a me</E
+M>fate a m</E
+M>mio</E
+M>mezzo</E
+M>via</E
+M>espediente</E
+M>scegliere un m</E
+M>idoneo</E
+M>conveniente</E
+M>il m</E
+M>migliore</E
+M>peggiore</E
+M>agire nei m</E
+M>consentiti dalla legge</E
+M>intendersi circa il m</E
+M>della consegna</E
+M>è un m</E
+M>come un altro per farsi rispettare</E
+M>in che m</E
+M>pensi di arrivarci?</E
+M>non vedo m. di uscirne</E
+M>in qualche m</E
+M>si provvederà</E
+M>in un m</E
+M>o nell’altro</E
+M>dovrà pur finire un giorno</E
+M>ci sarà pure un m</E
+M>per farlo stare a dovere</E
+M>vedi tu il m</E
+M>di farla finita</E
+M>ho cercato tutti i m</E
+M>per convincerlo</E
+M>trovar m</E
+M>il m</E
+M>di fare una cosa</E
+M>cercano d’arrangiarsi in mille m</E
+M>ci sono cento m</E
+M>diversi per ottenerlo</E
+M>a chi vuole</E
+M>non mancan modi</E
+M>se modo veduto avesse</E
+M>volentieri</E
+M>fuggita si sarebbe dal padre</E
+M>non ho ancora avuto m</E
+M>di parlargli</E
+M>dammi m</E
+M>di farlo e lo farò</E
+M>esserci m</E
+M>avere m</E
+M>non c’è m</E
+M>di convincerlo</E
+M>di farsi intendere da lui</E
+M>non ci fu m</E
+M>di ottenere altro</E
+M>quando avrai m</E
+M>di scrivergli</E
+M>salutalo da parte mia</E
+M>Modo di dire</E
+M>è un suo caratteristico m</E
+M>di dire</E
+M>lingua assai ricca di coloriti m</E
+M>di dire</E
+M>modo</E
+M>toscani</E
+M>lombardi</E
+M>sono m</E
+M>ormai disusati</E
+M>improprio</E
+M>errato</E
+M>efficaci</E
+M>familiare</E
+M>popolare</E
+M>volgare</E
+M>triviale</E
+M>basso</E
+M>avverbiale</E
+M>locuzione avverbiale</E
+M>proverbiale</E
+M>è un m</E
+M>di dire</E
+M>per m</E
+M>di dire</E
+M>ho detto così per m</E
+M>di dire</E
+M>allora</E
+M>per m</E
+M>di dire</E
+M> io dovrei ammazzarmi per fare un piacere a lui?</E
+M>a ogni m</E
+M>dobbiamo riuscire a ogni m</E
+M>bisognerà a ogni m</E
+M>farlo cedere</E
+M>in ogni m</E
+M>a ogni m.</E
+M> hai torto</E
+M>decidi come credi: a ogni m.</E
+M> fammelo sapere</E
+M>non spero di poter riuscire</E
+M> a ogni m</E
+M>proverò</E
+M>A un m</E
+M>d’un m</E
+M>Intra due cibi</E
+M>distanti e moventi D’un modo</E
+M>eran tutti vestiti d’un m</E
+M>sono tutti imbroglioni a un modo</E
+M>In certo m</E
+M>in certo qual m</E
+M>in certo m</E
+M>hai ragione anche tu</E
+M>in certo m</E
+M>è vero</E
+M>in certo qual m</E
+M>le sue parole volevano dir questo</E
+M>In nessun m</E
+M>non ce la può fare in nessun m</E
+M>non voglio in nessun m</E
+M>sentirne parlare</E
+M>In tutti i m</E
+M>tentava in tutti i m</E
+M>di scolparsi</E
+M>dev’essere così</E
+M> in tutti i m</E
+M>in tutti i m.</E
+M> fammelo sapere</E
+M>In che m</E
+M>in qual m</E
+M>per che m</E
+M>non so proprio in che m</E
+M>sia successo</E
+M>I0 non so chi tu se’ né per che modo Venuto se’ qua giù</E
+M>In questo m</E
+M>a quel m</E
+M>le cose stanno in questo m</E
+M>lei è fatta a quel m</E
+M>e non c’è nulla da fare</E
+M>a quel m</E
+M>trattarlo a quel m</E
+M>con un naso a quel m</E
+M>è veramente buffo</E
+M>rimasto solo a quel m</E
+M>che cosa poteva fare?</E
+M>In m</E
+M>che</E
+M>in m</E
+M>di m</E
+M>che</E
+M>dimodoché</E
+M>sicché</E
+M>cosicché</E
+M>procura di fare in m</E
+M>che nessuno se ne accorga</E
+M>farò in m</E
+M>da contentarti</E
+M>proprio in quei giorni io ero assente</E
+M>di m</E
+M>che non ne seppi nulla</E
+M>In tal m</E
+M>che</E
+M>per tal m</E
+M>che</E
+M>ne rimase in tal m</E
+M>addolorato che si ammalò</E
+M>in m</E
+M>in m</E
+M>che</E
+M>per m</E
+M>che</E
+M>era lacero in m</E
+M>da far pietà</E
+M>La fama andò di questo in m</E
+M>fuore</E
+M>Che ne fu in tutta l’isola che dire</E
+M>gli affari sono imbrogliati per m</E
+M>che non ci si capisce nulla</E
+M>modus</E
+M>sono cose che passano il m</E
+M>il m</E
+M>e la misura</E
+M>a tempo e m</E
+M>porre modo</E
+M>assai gli fu favorevole la fortuna</E
+M> se egli avesse saputo por m</E
+M>alle felicità sue</E
+M>oltre m</E
+M>oltremodo</E
+M>sopra m</E
+M>la qual cosa</E
+M> non che fosse discara a Giove</E
+M> anzi piacevagli sopra m</E
+M>fuor di m</E
+M>è fuor di m</E
+M>spropositato</E
+M>si rese fuor di m</E
+M>ridicolo</E
+M>senza m</E
+M>uomo materiale e grosso senza m</E
+M>a modo</E
+M>una ragazza a m</E
+M>fare le cose a m</E
+M>modino</E
+M>a modino</E
+M>ammodino</E
+M>modus</E
+M>modi</E
+M>modificazioni</E
+M>Modi del sillogismo</E
+M>finiti</E
+M>infiniti</E
+M>forme nominali del verbo</E
+M>i due m</E
+M>della musica moderna</E
+M>maggiore</E
+M>minore</E
+M>greci</E
+M>gregoriani</E
+M>ritmici</E
+M>maxima</E
+M>longa</E
+M>brevis</E
+M>maggiore perfetto</E
+M>maxima</E
+M>longae</E
+M>maggiore imperfetto</E
+M>maxima</E
+M>longae</E
+M>minore perfetto</E
+M>longa</E
+M>breves</E
+M>minore imperfetto</E
+M>longa</E
+M>breves</E
+M>il canarino cantava</E
+M>variando i suoi m</E
+M>con una voce liquida e forte</E
+M>i m</E
+M>della poesia greca</E
+M>della poesia eolica</E
+M>Una parola in tutte era e un modo</E
+M>normali di una corda vibrante</E
+M>primo m</E
+M>normale</E
+M>di oscillazione di una cavità risonante</E
+M>di un’onda</E
+M>ha certi modini delicati!</E
+M>con quei suoi modini ci ha imbrogliato tutti</E
+M>a modino</E
+M>ammodino</E
+M>ammodo</E

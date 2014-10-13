@@ -1,0 +1,246 @@
+storia.txt
+"basato su una storia vera"
+"Che fa storia a sé"
+"che storia è questa?"
+"è la stessa vecchia storia, è la solita storia"
+"i grandi della storia"
+"il resto è storia"
+"intera storia"
+"la solita vecchia storia"
+"la stessa storia"
+"la storia"
+"La storia siamo noi"
+"momento storico importante, pietra miliare nella storia"
+"morale della storia"
+"non c'è storia"
+"passare alla storia"
+"prima storia"
+"questa è un'altra storia"
+"raccontare una bella storia"
+"raccontare una storia"
+"seconda storia"
+"storia"
+"storia"
+"storia"
+"storia"
+"storia"
+"storia, storie"
+"storia, storie"
+"storia a fumetti"
+"storia antica"
+"storia commovente"
+"storia d'amore"
+"storia d'amore"
+"storia d'amore"
+"storia della parola"
+"storia della stampa"
+"storia delle idee"
+"storia di fantasmi"
+"storia di interesse umano"
+"storia di vita"
+"storia di vita"
+"storia folcloristica"
+"storia misteriosa"
+"storia morale"
+"storia naturale"
+"storia naturale"
+"storia nella storia"
+"storia passata"
+"storia personale"
+"storia personale"
+"storia personale"
+"storia popolare"
+"storia precedente"
+"storia probabile"
+"storia sporca"
+"storia strappalacrime"
+"teoria della storia"
+"tutta la storia"
+"tutta la storia, l'intera storia"
+"un altro paio di maniche rispetto a qcs, tutta un'altra cosa rispetto a qcs, un'altra storia rispett"
+"un'altra storia"
+"vantare secoli di storia"
+"vecchia storia"
+*[[antichità]], [[passato]]
+*[[fatti]], [[vicende]], [[avvenimenti]], [[episodi]], [[accaduto]], corso degli eventi
+* verità dei fatti, [[realtà]]
+*[[avventura]], [[peripezie]], [[gesta]]
+*''(di fatti, avvenimenti)'' [[narrazione]], [[cronaca]], [[esposizione]], [[resoconto]]
+*''(di film)'' [[trama]]
+*[[racconto]], [[favola]], [[fiaba]], [[novella]]
+*''(specialmente plurale)'' [[scusa]], [[pretesto]], [[bugia]], [[fandonia]], [[invenzione]]
+*[[preistoria]], [[protostoria]], [[metastoria]]
+*italiano
+M>historia</E
+M>vid-</E
+M>storia</E
+M>cronaca</E
+M>il padre della s.</E
+M>la musa della s.</E
+M>passare alla s.</E
+M>questa tua frase passerà alla s.!</E
+M>fatti che attendono il giudizio della s.</E
+M>essere degno della s.</E
+M>la tradizionale divisione della s. in antica</E
+M>medievale</E
+M>moderna</E
+M>contemporanea</E
+M>universale</E
+M>s. patria</E
+M>s. orientale</E
+M>greca</E
+M>romana</E
+M>s. inglese</E
+M>francese</E
+M>s. d&#8217;Italia</E
+M>s. degli Stati Uniti d&#8217;America</E
+M>s. sacra</E
+M>s. profana</E
+M>s. della Rivoluzione francese</E
+M>del Risorgimento italiano</E
+M>la s. della società feudale</E
+M>delle Crociate</E
+M>se avessimo la s. delle antiche leggi de&#8217; popoli</E
+M> avremmo la s. de&#8217; fatti antichi delle nazioni</E
+M>lezione di s.</E
+M>cattedra di s. e filosofia nei licei</E
+M>esame di s.</E
+M>laurearsi in s. moderna</E
+M>testo di s. per la scuola media</E
+M>S. d&#8217;Europa</E
+M>S. d&#8217;Italia dalla caduta dell&#8217;Impero Romano all&#8217;età moderna</E
+M>S. della Repubblica di Venezia</E
+M>ho letto la s. del Cantù</E
+M>del Botta</E
+M>la s. del Michelet</E
+M>le s. di Tucidide</E
+M>di Livio</E
+M>o Italiani</E
+M> io vi esorto alle storie</E
+M>s. della civiltà</E
+M>della cultura</E
+M>s. della letteratura</E
+M>s. della grammatica e della lingua italiana</E
+M>s. dell&#8217;arte</E
+M>s. della pittura</E
+M>dell&#8217;architettura</E
+M>s. della filosofia</E
+M>s. delle scienze</E
+M>s. della medicina</E
+M>della fisica</E
+M>della chimica</E
+M>s. delle scienze economiche</E
+M>del diritto</E
+M>del diritto romano</E
+M>s. del cristianesimo</E
+M>della Chiesa</E
+M>s. dell&#8217;arte militare</E
+M>s. della moneta</E
+M>s. della moda</E
+M>s. della storiografia</E
+M>S. quantitativa</E
+M>S. della mentalità</E
+M>evénementielle</E
+M>Storia di vita</E
+M>Storia naturale</E
+M>Storia Naturale</E
+M>Naturalis Historia</E
+M>storiografia</E
+M>la s. moderna si può far cominciare con la scoperta dell&#8217;America</E
+M>un avvenimento d&#8217;importanza fondamentale nella s. d&#8217;Italia</E
+M>al mondo oggi da questo Luogo incomincia la novella storia</E
+M>i principî</E
+M>le idee</E
+M>le necessità che dominano</E
+M>determinano</E
+M>governano la s.</E
+M>la s. è maestra di vita</E
+M>filosofia della s.</E
+M>invenzione</E
+M>Del romanzo storico e</E
+M> in genere</E
+M> de&#8217; componimenti misti di s. e d&#8217;invenzione</E
+M>s. romanzata</E
+M>questa è s.!</E
+M>ti voglio raccontare la s. della mia vita</E
+M>la s. della sua giovinezza è molto interessante</E
+M>tutta la sua esistenza è una s. di dolori e delusioni</E
+M>è una s. penosa che ricordo con dolore</E
+M>è stata una s. divertente</E
+M> e vale la pena di raccontarvela</E
+M>è una lunga s.</E
+M>una s. poco pulita</E
+M>una s. sporca</E
+M>come intentamente ascolta e nota La lunga istoria de le pene mie</E
+M>cominciatasi dal capo gli contò la s. infin la fine</E
+M>vorrei dimenticare questa s.</E
+M>il momento più divertente di tutta la s. fu quando ...</E
+M>e intanto mi tocca andar con lui! in quel castello! Oh che storia! che storia! che storia!</E
+M>la cosa</E
+M> come sentirete</E
+M> ha una sua storia</E
+M>s. di una grandezza).</E
+M>senza storia</E
+M>una vita triste e senza storia</E
+M>non avere</E
+M>più</E
+M>storia</E
+M>dopo il primo gol la partita non ha più avuto s.</E
+M>il film</E
+M> dopo l&#8217;inizio</E
+M> non ha storia</E
+M>la s. dei paladini di Francia</E
+M>ho letto una s. incredibile</E
+M>questa è la breve s. del nostro amore</E
+M>mi racconti una s.?</E
+M>la nonna ci narrava spesso la s. di Pollicino</E
+M>è la s. di un burattino di legno</E
+M>questa è un&#8217;altra s.</E
+M>è tutt&#8217;altra s.</E
+M>sempre</E
+M>la solita s.</E
+M>è la solita s.</E
+M> anche oggi hanno litigato</E
+M>questa s. deve finire</E
+M>questa s. non può più andare avanti</E
+M>è una s. di soldi</E
+M>d&#8217;interessi</E
+M>non sono più amici per una s. di donne</E
+M>quello che dici è solo una s.</E
+M> chi vuoi che ci creda?</E
+M>sono storie</E
+M>sono tutte s.</E
+M>racconta un sacco di storie</E
+M>le cose stanno così</E
+M> altro che storie!</E
+M>non sono storie</E
+M> queste!</E
+M>storie!</E
+M>non facciamo storie</E
+M> dimmi sì o no</E
+M>mangia la minestra</E
+M> senza</E
+M>fare</E
+M>tante storie!</E
+M>vorrei evitare storie</E
+M>mi dispiacerebbe che per causa mia sorgessero delle storie in famiglia</E
+M>so che nel corso del lavoro ci sono state diverse s.</E
+M>che cosa sono</E
+M> ora</E
+M> queste storie?</E
+M>quando deve partire</E
+M> per fare i bagagli è una s. che non ti dico!</E
+M>per scusarsi con noi ha montato tutta una storia</E
+M>che s. è questa?</E
+M>avere una s.</E
+M>con qualcuno</E
+M>ha una s. con un ragazzo straniero</E
+M>hanno avuto una lunghissima storia</E
+M> poi si sono lasciati</E
+M>ha avuto anche lui le sue storie</E
+M>pittore di storie</E
+M>la parete è affrescata con storie del Vecchio Testamento</E
+M> con la s. della Croce</E
+M>per avvisar da presso un&#8217;altra istoria</E
+M> Che di dietro a Micòl mi biancheggiava</E
+M>D&#8217;una pietosa istoria e di devote Figure la sua stanza era dipinta</E

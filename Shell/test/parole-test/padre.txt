@@ -1,0 +1,177 @@
+padre.txt
+"da buon padre"
+"da parte del padre"
+"del padre"
+"del padre"
+"fare da padre"
+"Figlio unigenito del Padre"
+"il Padre"
+"il Padre delle Bugie"
+"nostro padre"
+"orfano di padre"
+"padre"
+"padre"
+"padre"
+"padre"
+"padre"
+"father, padre"
+"padre adottivo"
+"padre della costituzione"
+"padre della patria"
+"padre fondatore"
+"Padre Fondatore"
+"Padre Nostro"
+"Padre nostro"
+"Padre Nostro"
+"Padre santo"
+"padre-padrone"
+"padre autoritario"
+"padre, figlio e spirito santo"
+"santo padre"
+"Santo Padre"
+"Santo Padre (Papa)"
+"Seguire le orme del padre"
+"tale padre tale figlio, tale madre tale figlia"
+"uomo casa e famiglia; padre di famiglia"
+#* ''
+#* ''
+#* ''oggi sono diventato 
+#* ''questo [[cane]] è un bastardino, ma suo 
+#* ''[[W
+*[[papà]], [[babbo]]
+*[[padrino]], [[patrigno]]
+*[[madre]], [[famiglia]], [[genitore]], [[suocero]]
+*italiano
+M>pater</E
+M>tris</E
+M>essere</E
+M>diventare p</E
+M>di molti figli</E
+M>un p</E
+M>affettuoso</E
+M>esemplare</E
+M>severo</E
+M>indulgente</E
+M>essere un buon p</E
+M>un cattivo p</E
+M>amore di padre</E
+M>loro</E
+M>mio</E
+M>tuo</E
+M>nostro</E
+M>vostro p</E
+M>il loro p</E
+M>il nostro caro padre</E
+M>papà</E
+M>babbo</E
+M>di famiglia</E
+M>pater familias</E
+M>diligenza del buon p</E
+M>di famiglia</E
+M>adottivo</E
+M>putativo</E
+M>san Giuseppe p</E
+M>putativo di Gesù</E
+M>ragazza madre</E
+M>ragazzo p</E
+M>nobile</E
+M>madre nobile</E
+M>per parte di p</E
+M>siamo cugini per parte di p</E
+M>rendere p</E
+M>lo ha reso p</E
+M>di un bellissimo bambino</E
+M>tramandare di p</E
+M>in figlio</E
+M>la pagella deve essere firmata dal p</E
+M>o da chi ne fa le veci</E
+M>onora il p</E
+M>e la madre</E
+M>il p</E
+M>dei cuccioli è un pastore maremmano</E
+M>In picciol corso mi parieno stanchi Lo p</E
+M>e&#8217; figli</E
+M>è stato un p</E
+M>per lui</E
+M>ha fatto da p</E
+M>al nipote orfano</E
+M>in lui ha trovato un p</E
+M>è stato più un p</E
+M>che un fratello per me</E
+M>trattava i suoi studenti come un padre</E
+M>spirituale</E
+M>al tempo dei nostri p</E
+M>le virtù dei p</E
+M>seguire l&#8217;esempio dei p</E
+M>E voi</E
+M>palme e cipressi ...</E
+M>Proteggete i miei padri</E
+M>il p</E
+M>Romolo</E
+M>il p</E
+M>Enea</E
+M>il primo p</E
+M>il p</E
+M>Mosè</E
+M>il p</E
+M>Abramo</E
+M>Giove</E
+M>degli dèi e degli uomini</E
+M>Dio p</E
+M>onnipotente</E
+M>il P</E
+M>eterno</E
+M>il Padreterno</E
+M>nostro che sei nei cieli</E
+M>Padre nostro</E
+M>nel nome del P</E
+M>del Figlio e dello Spirito Santo</E
+M>O dolce p.</E
+M>volgiti</E
+M>e rimira Com&#8217;io rimango sol</E
+M>se non restai</E
+M>della patria</E
+M>Vittorio Emanuele II</E
+M>della patria</E
+M>il padre Mio e de li altri miei miglior che mai Rime d&#8217;amor usar dolci</E
+M>leggiadre</E
+M>Eschilo</E
+M>il p. della tragedia greca</E
+M>il p</E
+M>Dante</E
+M>Enrico Fermi è stato il p</E
+M>della fisica nucleare</E
+M>Padri Pellegrini</E
+M>Pilgrim Fathers</E
+M>l&#8217;ozio è il p</E
+M>di tutti i vizî</E
+M>figlio</E
+M>Cristoforo</E
+M>i p</E
+M>francescani</E
+M>provinciale</E
+M>priore</E
+M>guardiano</E
+M>spirituale</E
+M>immediati</E
+M>missionarî</E
+M>reverendo p</E
+M>mi ascolti</E
+M> p.; vorrei confessarmi</E
+M>padre</E
+M>Padri della dottrina cristiana</E
+M>Padri della fede</E
+M>Società del S</E
+M>Cuore</E
+M>Società della fede di Gesù</E
+M>il Santo P</E
+M>il beatissimo P</E
+M>Padri del deserto</E
+M>santi Padri</E
+M>i p</E
+M>di un concilio</E
+M>il padre serafico</E
+M>Padri della Chiesa</E
+M>padri apostolici</E
+M>oscritti</E
+M>patrato</E

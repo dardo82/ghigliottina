@@ -1,0 +1,531 @@
+venire.txt
+"anni a venire"
+"che fa venire i brividi"
+"che fa venire l'acquolina"
+"continuare a venire"
+"essere coinvolto in qcs, venire coinvolto in qcs"
+"fa venire il latte ai gomiti"
+"far venire alla mente"
+"far venire dei dubbi"
+"far venire i brividi a qn"
+"far venire i brividi a qn"
+"far venire i nervi"
+"far venire il diabete"
+"far venire il latte alle ginocchia"
+"fare venire in mente, suonare familiare"
+"farsi venire l'acquolina"
+"il bello deve ancora venire"
+"mondo a venire"
+"non farsi venire strane idee"
+"non farsi venire strane idee in testa."
+"non venire mai meno"
+"procedere, venire (bene\/male)"
+"tempo a venire"
+"tempo a venire, futuro"
+"venire"
+"venire"
+"venire"
+"venire"
+"venire"
+"venire"
+"venire"
+"venire a capo"
+"venire a conoscenza"
+"venire a conoscenza di"
+"venire a conoscenza di"
+"venire a contatto"
+"venire a galla"
+"venire a mancare"
+"venire a patti"
+"venire a più miti consigli"
+"venire a prendere"
+"venire a prendere"
+"venire a sapere"
+"venire a sapere"
+"venire a sapere"
+"venire a sapere che"
+"venire a sapere di"
+"venire a sapere di, sentire parlare di, sentire di"
+"venire al dunque"
+"venire al mondo"
+"venire al primo posto"
+"venire al punto"
+"venire al sodo, andare al sodo"
+"venire alla luce"
+"venire alla luce"
+"venire alla luce"
+"venire alla mente"
+"venire alla ribalta"
+"venire alle mani"
+"venire alle prese"
+"venire assieme"
+"venire avanti"
+"venire dalla gavetta"
+"provenire dai livelli più bassi di una carriera"
+"venire dalla luna"
+"venire dentro a fiotti (folla)"
+"venire dopo"
+"venire dopo"
+"venire in aiuto"
+"venire in essere"
+"venire in mente"
+"venire in mente"
+"venire in mente"
+"venire in mente a qcn"
+"venire in possesso di"
+"venire in soccorso"
+"venire in soccorso a qualcuno"
+"venire incontro"
+"venire incontro ad un desiderio"
+"venire incontro ad una necessità"
+"venire incontro alle esigenze"
+"venire informato"
+"venire lasciati"
+"venire licenziato"
+"venire meno"
+"venire meno a"
+"venire naturale scegliere"
+"venire per ultimo"
+"venire riconosciuti (nei propri diritti etc.)"
+"venire rimborsati"
+"venire sonno"
+"venire su"
+"venire via da"
+#* '''''vengo''' costì'', '''''venne''' da me'';
+#* ''mi è '''venuto''' il problema!''
+#* ''non mi '''viene''' l'espressione''
+#* ''aspetta... non mi '''viene''' la parola...''
+#* ''non me ne '''viene''' niente''
+#* ''io ci sto, ma cosa me ne '''viene'''?''
+#* ''se non ti copri, ti '''verrà''' un accidente!''
+#* ''se continui a lavorare lì, ti '''viene''' un tumore''
+#* ''non riuscivo a 
+#* ''il quadro '''viene''' appeso'', ''il libro '''verrà''' letto'', ecc.
+*''( verbo ausiliare per il passivo)'' [[essere]]
+*''(dirigersi verso qualcuno o qualcosa)'' [[arrivare]], [[giungere]], [[sopraggiungere]], [[manifestarsi]], [[arrivare]], [[procedere]], [[avvicinarsi]], [[appressarsi]], [[approssimarsi]]
+*''(di data)'' [[ricorrere]], [[cadere]]
+*''(sovvenire di un ricordo)'' [[sovvenire]]
+*''(essere di retribuzione)'' [[tornare]] 
+*''(manifestarsi di una malattia)'' [[colpire]],  [[prendersi]], [[beccarsi]]
+*''(di fatto, fenomeno, eccetera)''  [[arrivare]],[[sopraggiungere]], [[manifestarsi]], [[accadere]], [[capitare]], [[presentarsi]], [[comparire]], [[ricorrere]], [[cadere]]
+*''(origine))'' [[provenire]], [[derivare]], [[discendere]]
+*''(di calcolo, gioco, eccetera)'' [[riuscire]], [[risultare]], avere esito, [[ottenere]]
+*''(di cosa)'' [[staccarsi]], [[cedere]]
+* [[rinvenire]], [[andirivieni]], [[convenire]]
+*[[antivenire]], [[avvenire]], [[avvento]], [[circonvenire]], [[divenire]], [[evento]], [[intervenire]], [[inventare]], [[inventario]], [[prevenire]], [[provenire]], [[rinvenire]], [[sopravvenire]], [[sovvenire]], [[ventura]], [[venuto]]
+* [[venir]]
+* '''''venir''' meno''
+* '''''venire''' a mancare'' 
+* '''''venir''' meno a qualcosa''
+* ''come '''viene''', '''viene''''' 
+* ''
+* ''
+* ''va e '''viene'''(e si mantiene)'' 
+* ''
+* ''
+* '''''venir''' fuori'' 
+*# uscire da una brutta situazione, o liberarsi da un problema
+*# ''il risultare da un particolare processo''
+* '''''venirsene''' fuori'' 
+* ''ben '''venga''' (qualcuno)'' 
+*italiano
+*latino
+M>nire</E
+M>vèngo</E
+M>vègno</E
+M>vièni</E
+M>viène</E
+M>vène</E
+M>veniamo</E
+M>vegnamo</E
+M>venite</E
+M>vèngono</E
+M>vègnono</E
+M>vènga</E
+M>vègna</E
+M>veniamo</E
+M>vegnamo</E
+M>veniate</E
+M>vegnate</E
+M>vèngano</E
+M>vègnano</E
+M>vièni</E
+M>venite</E
+M>verrò</E
+M>verrèi</E
+M>vénni</E
+M>venisti</E
+M>vénnero</E
+M>venìro</E
+M>veniènte</E
+M>vegnènte</E
+M>venuto</E
+M>essere</E
+M>andare</E
+M>venire</E
+M>andare a scuola</E
+M>venire a casa</E
+M>vengo!</E
+M>sono venuto per dirti addio</E
+M>perché ci avete fatti v. qui?</E
+M>verrò questo pomeriggio a casa tua</E
+M>nel tuo ufficio</E
+M>sono venuta in taxi</E
+M>vieni con me</E
+M>venite a cena da noi</E
+M>con noi</E
+M>questa sera?</E
+M>con che mezzo siete venuti?</E
+M>veniva lentamente verso di me</E
+M>zitto</E
+M> che viene qualcuno!</E
+M>Ed ecco verso noi venir per nave Un vecchio</E
+M> bianco per antico pelo</E
+M>Chi è questa che ven</E
+M> ch’ogn’om la mira ...?</E
+M>è venuto mio fratello da te stamani?</E
+M>mentre stava arrampicandosi sull’albero</E
+M> venne il contadino</E
+M>vieni qui un momento!</E
+M>venite dentro</E
+M> che fa freddo</E
+M>vieni fuori</E
+M> se hai coraggio!</E
+M>ti verrò incontro alla fermata dell’autobus</E
+M>gli venne vicino un tale</E
+M>mi veniva dietro</E
+M>venire fuori con</E
+M>mi vieni fuori con certi discorsi!</E
+M>viene sempre fuori con qualcuna delle sue</E
+M>una nave che viene di lontano</E
+M>attenzione</E
+M> che viene il treno</E
+M>è già venuta la posta?</E
+M>il vento caldo che viene dal deserto</E
+M>speriamo che venga un po’ di brezza</E
+M>viene freddo dalla finestra</E
+M>una musica che viene di lontano</E
+M>m’è venuto alle orecchie che</E
+M>speriamo che il fatto non venga alle orecchie del direttore</E
+M>veniva un ottimo odore dalla cucina</E
+M>venire</E
+M>di tutti un poco vien del caprino</E
+M>cameriere</E
+M> viene questa bistecca?</E
+M>quando venne in tavola il dolce</E
+M> i bambini batterono le mani</E
+M>è un vino che viene direttamente dal Portogallo</E
+M>viene dalla Turchia questo tappeto?</E
+M>moda che viene da Parigi</E
+M>idee che vengono d’oltralpe</E
+M>far v.</E
+M>far v. un boccale di birra</E
+M>sono mobili che ho fatto v. direttamente dalla Brianza</E
+M>far v. una carrozza</E
+M>far v. un medico</E
+M>un tecnico</E
+M>un operaio</E
+M>un ispettore</E
+M>da dove viene l’acqua</E
+M>l’energia elettrica?</E
+M>l’acqua viene abbondante</E
+M>è una lettera</E
+M>un pacco</E
+M>che mi viene dalla famiglia</E
+M>il dono mi è gradito perché viene da te</E
+M>accetto volentieri tutto ciò che mi viene da voi</E
+M>proprio da lui mi viene il rimprovero!</E
+M>guarda da che pulpito viene la predica!</E
+M>venire fuori</E
+M>venire</E
+M>se viene</E
+M>fuori</E
+M>l’asso la presa è mia</E
+M>se viene il 43</E
+M> ho vinto</E
+M>venire giù</E
+M>il paracadute veniva giù piano piano</E
+M>veniva giù una pioggerellina fitta fitta</E
+M>andare</E
+M>gente che va</E
+M> gente che viene</E
+M>chi va e chi viene</E
+M>un continuo andare e v. di gente</E
+M>movimento di va e vieni</E
+M>il va e vieni della spola</E
+M>E vanne e vien</E
+M> come alla riva l’onde</E
+M>andare</E
+M>v. a dritta</E
+M>a sinistra</E
+M>v. al vento</E
+M>all’orza</E
+M>v. alla poggia</E
+M>orzare</E
+M>poggiare</E
+M>v. all’aria</E
+M>seggendo in piuma</E
+M> In fama non si vien né sotto coltre</E
+M>cavalcando avanti</E
+M>vennero ad un fiume</E
+M>v. a tanto che</E
+M>per paura di questo lupo vènnono a tanto</E
+M> che niuno era ardito d’uscire fuori della terra</E
+M>Fior. di s. Franc.</E
+M>andare</E
+M>v. a galla</E
+M>v. alla superficie</E
+M>veniva lentamente verso casa</E
+M>veniva da ogni parte gente ad ascoltarlo</E
+M>venirsene</E
+M>venirne</E
+M>se ne veniva piano piano</E
+M>lemme lemme</E
+M>non avevo nulla da fare lì</E
+M> e così me ne venni quasi subito</E
+M>Alda la bella ne venne a Orlando</E
+M>E così ragionando ne veniro Dove videro il ponte e la riviera</E
+M>ma venne la grandine e rovinò il raccolto</E
+M>ora viene il bello!</E
+M>non tutto il male viene per nuocere</E
+M>la morte vien quando uno meno se l’aspetta</E
+M>poi venne la guerra</E
+M>venne la Riforma</E
+M>venne Napoleone</E
+M>gli venne in sogno l’immagine del fratello morto</E
+M>gli erano venute le lacrime agli occhi</E
+M>ma che ti viene in mente?</E
+M>mi è venuta una bella idea</E
+M>mi è venuto un dubbio</E
+M>un sospetto</E
+M>gli venne il desiderio</E
+M>gli venne la voglia di fare</E
+M>gli è venuta la tosse</E
+M>la febbre</E
+M>l’influenza</E
+M>la scarlattina</E
+M>ti venga un accidente!</E
+M>gli venga un canchero</E
+M>il malanno</E
+M>ti venga!</E
+M>gli venga!</E
+M>vi venisse!</E
+M>far v.</E
+M>far v. la nausea</E
+M>il vomito</E
+M>i brividi</E
+M>la pelle d’oca</E
+M>con i suoi discorsi mi ha fatto v. il malumore</E
+M>V. al mondo</E
+M>venire</E
+M>quando poi vengono i figli</E
+M> cominciano le preoccupazioni</E
+M>malediceva il momento in cui era venuto al mondo</E
+M>sono climi in cui il grano non viene</E
+M>mi pare che il ragazzo</E
+M>il vitello</E
+M>il pesco</E
+M>venga su bene</E
+M>viene su come un fiore</E
+M>è venuta su selvatica e capricciosa</E
+M>queste piante vengono su stentate</E
+M>viene da ottima famiglia</E
+M>viene da un’ottima scuola</E
+M>viene dalla diplomazia</E
+M>è un ufficiale venuto dalla gavetta</E
+M>tutti i suoi disturbi vengono dalla cattiva circolazione</E
+M>è una parola che viene dal greco</E
+M>da che ti viene tanta sicurezza?</E
+M>da dove viene la tua superbia?</E
+M>come è venuto il disegno</E
+M>il vestito</E
+M>l’arrosto?</E
+M>ti piace come è venuta la fotografia?</E
+M>il problema non mi viene</E
+M>venire bene</E
+M>male</E
+M>storto</E
+M>troppo largo</E
+M>troppo stretto</E
+M>come viene</E
+M>come viene viene</E
+M>lavora</E
+M>suona</E
+M>parla come viene viene</E
+M>se il calcolo è esatto</E
+M> dovrebbe venire 75</E
+M>ho fatto la somma</E
+M>la moltiplicazione</E
+M>la divisione</E
+M>e mi viene 240</E
+M>quest’olio le viene otto euro il litro</E
+M>se il maglione lo prendo di buon cachemire</E
+M> mi viene</E
+M>mi viene a costare</E
+M>diverse centinaia di euro in più</E
+M>venne finalmente il gran giorno</E
+M>è venuto il momento di agire</E
+M>quando viene il giorno</E
+M>la sera</E
+M>appena viene il freddo accendiamo la stufa</E
+M>quando verrà il tuo turno</E
+M>non è ancora venuta la mia ora</E
+M>appena viene l’occasione</E
+M>quest’anno il Natale viene di giovedì</E
+M>la Pasqua</E
+M> quest’anno</E
+M> viene di marzo</E
+M>il 31 marzo</E
+M>giorno verrà</E
+M>tempo verrà</E
+M>Tempo verrà ancor forse Ch’a l’usato soggiorno Torni la fera bella e mansüeta</E
+M>Giorno verrà</E
+M> tornerà il giorno</E
+M> in cui Redivivi omai gl’Itali staranno In campo audaci</E
+M>Verrà un giorno</E
+M>v. prima</E
+M>v. dopo</E
+M>il lampo viene prima del tuono</E
+M>dopo la pioggia viene il bel tempo</E
+M>che viene</E
+M>il mese che viene</E
+M>lunedì che viene</E
+M>quel dì tutto e la notte che venne</E
+M> Sopra quel mostro in mezzo il mar mi tenne</E
+M>a venire</E
+M>nei secoli a venire</E
+M>di là da venire</E
+M>cose di là da v.</E
+M>la mia promozione è purtroppo ancora di là da venire</E
+M>Venire a</E
+M>verrò a trovarti</E
+M>ero venuto a prenderti</E
+M>è venuto nessuno a cercarmi?</E
+M>e a questi marmi Venne spesso Vittorio ad ispirarsi</E
+M>ma che mi vieni a raccontare?</E
+M>non vorrai v. a insegnare a me!</E
+M>ma che mi racconti?</E
+M>non vorrai insegnare a me!</E
+M>guai se la cosa si venisse a sapere!</E
+M>v. a conoscenza di qualche cosa</E
+M>v. a maturazione</E
+M>sostenendo questo</E
+M> viene a dire che la colpa è mia</E
+M>se i nostri genitori sono cugini</E
+M> noi veniamo a essere secondi cugini</E
+M>sposando sua sorella</E
+M> verrei a essergli cognato</E
+M>vennero poi a discutere di</E
+M>veniamo ora all’argomento principale</E
+M>verremo anche a questo</E
+M>v. al fatto</E
+M>alla conclusione</E
+M>al dunque</E
+M>all’ergo</E
+M>v. alle strette</E
+M>or dunque</E
+M> signor Salviati</E
+M> vegnano</E
+M> come si dice</E
+M> alle strette</E
+M> ch’ogni parola che si spende in altro mi par gettata via</E
+M>v. a patti</E
+M>a un accomodamento</E
+M>a una transazione</E
+M>v. a parole</E
+M>v. a contesa</E
+M>v. ai ferri corti</E
+M>v. alle mani</E
+M>alle prese</E
+M>v. a battaglia</E
+M>v. al sangue</E
+M>dopo una lunga tencione Verranno al sangue</E
+M>v. a noia</E
+M>v. alla luce</E
+M>v. a morte</E
+M>v. a capo di qualche cosa</E
+M>v. a proposito</E
+M>a pennello</E
+M>Venire da</E
+M>veniva da casa</E
+M>è il treno che viene da Milano</E
+M>il rumore veniva da lontano</E
+M>veniva proprio dall’avere spedito un telegramma</E
+M>veniva dall’avere assistito a un grave incidente</E
+M>mi viene da</E
+M>mi viene da ridere</E
+M>mi veniva da piangere</E
+M>mi viene da tossire</E
+M>a vedere tutto quel sudiciume</E
+M> viene da vomitare</E
+M>v. in ufficio</E
+M>v. in odio</E
+M>in antipatia</E
+M>in uggia a qualcuno</E
+M>v. in grazia di qualcuno</E
+M>v. in fama</E
+M>v. in possesso di una cosa</E
+M>v. in chiaro di qualche cosa</E
+M>V. con le buone</E
+M>con le cattive</E
+M>venire</E
+M>venire via</E
+M>il tappo è calcato troppo e non vuol v.</E
+M>fissalo meglio quel chiodo</E
+M> se no viene via</E
+M>lo so</E
+M> ma in questo momento non mi viene</E
+M>facendo le parti</E
+M> ci viene soltanto un euro a testa</E
+M>ti vengono ancora trenta euro</E
+M>venire meno</E
+M>avvenire</E
+M>tu hai molto a lodare Idio che quel caso ti venne che tu cadesti né potesti poi in casa rientrare</E
+M>se viene che un giorno tu ci ripensi</E
+M>di qui viene che spesso</E
+M>divenire</E
+M>venirsene</E
+M>essere</E
+M>viene</E
+M>veniva</E
+M>verrà</E
+M>venga</E
+M>venisse lodato da tutti</E
+M>era</E
+M>sarà</E
+M>sia</E
+M>fosse lodato</E
+M>è stato lodato</E
+M>era stato lodato</E
+M>Venire fatto</E
+M>venire detto di</E
+M>che</E
+M>mi venne fatto di scoprire una sua lettera</E
+M>gli venne fatto di guardare giù nella strada proprio mentre lui stava passando</E
+M>sul momento</E
+M> mi venne detto che non potevo accettare</E
+M>venir fatto di</E
+M>se mi vien fatto di convincerlo</E
+M> sono a posto</E
+M>tu dimorerai qui meco infino a tanto che fatto mi verrà di potertene sicuramente mandare a Roma</E
+M>venire fatto</E
+M>cercò molte volte il padre di dargli donna</E
+M> né mai gli era venuto fatto</E
+M>venire</E
+M>fatto</E
+M>le venne di guardare in giù</E
+M>così andando si venne scontrato in que’ due suoi compagni</E
+M>mi veniva narrando che</E
+M>veniva tessendo le sue lodi</E
+M>mi vengo sempre più persuadendo che</E
+M>Qual la faretra empiea de’ freschi fiori</E
+M> Poi sovra il letto la venia versando</E
+M>E novellando vien del suo buon tempo</E
+M>all’alba del giorno veniente</E
+M>attendere i venienti</E
+M>farsi incontro ai venienti</E
+M>porgere il saluto ai nuovi venuti</E
+M>parlare col primo venuto</E
+M>non sono certo il primo venuto</E
+M>l’ultimo venuto</E
+M>ben venuto!</E

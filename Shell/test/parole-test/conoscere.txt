@@ -1,0 +1,189 @@
+conoscere.txt
+"aver avuto modo di conoscere"
+"conoscere"
+"conoscere"
+"conoscere"
+"conoscere"
+"riconoscere"
+"conoscere"
+"conoscere bene qualcuno"
+"conoscere di persona"
+"conoscere i dettagli"
+"conoscere il modo"
+"conoscere la realtà dei fatti"
+"conoscere la strada"
+"conoscere pienamente"
+"conoscere qualcosa completamente"
+"conoscere qualcuno"
+"conoscere qualcuno di persona"
+"conoscere, fare la conoscenza di"
+"conoscere; avere conoscenza"
+"conoscere; avere conoscenza di"
+"far conoscere"
+"non sembrar conoscere soste"
+"piacere di conoscere"
+#*''Non 
+*[[sapere]], [[provare]], [[sperimentare]]
+*[[ignorare]] 
+*[[conoscenza]],[[conoscersi]],[[conoscibile]],[[conoscimento]],[[conoscitivo]], [[conoscitore]], [[disconoscere]], [[riconoscere]]
+*'''''conosco''' i miei polli''
+M>cognosc</E
+M>nosc</E
+M>io conósco</E
+M>tu conósci</E
+M>conóbbi</E
+M>conoscésti</E
+M>conosciuto</E
+M>il bambino è già in età di c</E
+M>è entrato in agonia e non conosce più</E
+M>si conoscono molte specie di pietre preziose</E
+M>non conosco altre vie d’uscita</E
+M>la verità</E
+M>le cause di un fatto</E
+M>i proprî doveri</E
+M>il presente</E
+M>il passato</E
+M>il futuro</E
+M>il significato di un vocabolo</E
+M>conosco il suo carattere</E
+M>il suo modo di pensare</E
+M>la sua calligrafia</E
+M>del triangolo dato si conosce solo il lato maggiore</E
+M>non si conosce ancora l’entità del danno</E
+M>vorrei c</E
+M>i motivi del suo rifiuto</E
+M>ho già conosciuto i particolari della disgrazia</E
+M>domani si conosceranno i nomi dei vincitori</E
+M>l’arte</E
+M>il mestiere</E
+M>una lingua</E
+M>una scienza</E
+M>la storia antica</E
+M>la matematica</E
+M>il gioco degli scacchi</E
+M>conosco già la questione</E
+M>conosco questa commedia</E
+M>quel romanzo</E
+M>conosci bene la strada?</E
+M>Avere conosciuto</E
+M>è gente che ha conosciuto la fame</E
+M>la prigione</E
+M>ho conosciuto anch’io il dolore</E
+M>la solitudine</E
+M>l’angoscia dell’attesa</E
+M>una nazione che ha conosciuto periodi di grande splendore</E
+M>non ha mai conosciuto l’amore</E
+M>conosco bene il sapore di quella medicina</E
+M>il mondo</E
+M>è una regione in cui non si conosce l’inverno</E
+M>conosco poco la motocicletta e non mi fido di guidarla</E
+M>è pericoloso montare un cavallo che non si conosce bene</E
+M>il vero dal falso</E
+M>il buono dal cattivo</E
+M>la mia bambina conosce già i colori</E
+M>le lettere dell’alfabeto</E
+M>nelle disgrazie si conoscono i veri amici</E
+M>si conosce facilmente lo stile di Leonardo</E
+M>io i vini li conosco al sapore</E
+M>per</E
+M>s’incontravano sulla via mendichi laceri e macilenti invecchiati nel mestiere</E
+M>fra i quali molti si conoscevano per forestieri</E
+M>al paragone si conosce l’oro</E
+M>la volpe si conosce alla coda</E
+M>è un gran medico chi conosce il suo male</E
+M>l’ho conosciuto dalla voce</E
+M>lo conoscerai facilmente alla foggia del vestito</E
+M>il cane conosce il padrone</E
+M>ti conosco</E
+M>mascherina!</E
+M>di lontano Conobbi il tremolar de la marina</E
+M>lo conosco di vista</E
+M>dalle fotografie</E
+M>dai giornali</E
+M>per</E
+M>fama</E
+M>per lettera</E
+M>di persona</E
+M>appena</E
+M>superficialmente</E
+M>alla lontana</E
+M>di saluto</E
+M>ci siamo conosciuti per caso</E
+M>si conobbero in treno</E
+M>lo conosco bene</E
+M>a fondo</E
+M>intimamente</E
+M>conosco i miei studenti</E
+M>i miei dipendenti</E
+M>i proprî polli</E
+M>ora ti conosco!</E
+M>non lo conosco</E
+M>conoscersi</E
+M>io mi conosco</E
+M>e so che a un suo sgarbo reagirei violentemente</E
+M>conosci te stesso</E
+M>nosce te ipsum</E
+M>conosci un buon medico</E
+M>un bravo meccanico?</E
+M>il colpevole</E
+M>l’autore di un quadro</E
+M>il direttore di un giornale</E
+M>conosco bene il farmacista</E
+M>ci conosciamo da bambini</E
+M>conosci Goethe?</E
+M>possibile che tu non conosca Pirandello?</E
+M>nessuno conosce meglio di lui i musicisti del ’700.</E
+M>Far c</E
+M>qualcuno</E
+M>mi ha fatto c</E
+M>suo fratello</E
+M>avrei piacere di conoscerlo</E
+M>molto lieto di conoscerla</E
+M>felicissimo d’averla conosciuta</E
+M>darsi a c</E
+M>farsi c</E
+M>farsi c</E
+M>qualcuno per</E
+M>lo conosco per un galantuomo</E
+M>tutti lo conoscono per un bugiardo</E
+M>farsi c</E
+M>per</E
+M>si è fatto c</E
+M>per un vero impostore</E
+M>è una fanciulla</E
+M>non ha ancora conosciuto l’uomo</E
+M>una donna</E
+M>Genesi</E
+M>Luca</E
+M>Matteo</E
+M>riconoscere</E
+M>conosco di essermi ingannato</E
+M>il primo passo al far bene è di c</E
+M>di aver fatto male</E
+M>conosco quanto mi ero illuso</E
+M>non conosco padroni</E
+M>non conosce</E
+M>mezzi termini</E
+M>non vuol c</E
+M>ragioni</E
+M>in affari non si conoscono amici</E
+M>non conosce pietà</E
+M>misericordia</E
+M>gratitudine</E
+M>non c</E
+M>riposo</E
+M>tregua</E
+M>soste</E
+M>non aveva mai conosciuto un po’ d’affetto</E
+M>le sue labbra non conoscevano il sorriso</E
+M>non c</E
+M>altro che il gioco</E
+M>i divertimenti</E
+M>lo studio</E
+M>non conosco altri che voi</E
+M>avere</E
+M>di una causa</E
+M>di una controversia</E
+M>mi conosco dalla parte del torto</E
+M>si conobbe obbligato</E
+M>si è conosciuto colpevole</E

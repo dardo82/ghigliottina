@@ -1,0 +1,190 @@
+pensare.txt
+"basti pensare che ..."
+"come verrebbe da pensare"
+"dimenticatelo; non ci pensare neanche!"
+"il minimo che si possa pensare"
+"indurre a pensare"
+"mi venne fatto di pensare che"
+"modo di pensare"
+"non ci pensare neanche"
+"pensare"
+"pensare"
+"pensare"
+"pensare"
+"pensare"
+"pensare"
+"pensare"
+"pensare"
+"pensare a"
+"pensare a"
+"pensare a"
+"pensare a"
+"pensare a"
+"pensare a voce alta"
+"pensare a voce alta"
+"pensare bene a, riflettere bene su"
+"pensare bene di"
+"pensare bene di qualcuno o qualcosa"
+"pensare che sia il caso di"
+"pensare che sia opportuno fare qualcosa"
+"pensare con chiarezza"
+"pensare così"
+"pensare di essersi liberati di qualcuno"
+"pensare fuori dagli schemi"
+"pensare fuori dal comune, pensare in modo creativo"
+"pensare il meglio di"
+"pensare molto di"
+"pensare niente di"
+"pensare per il meglio"
+"pensare positivo"
+"pensare positivo, in modo positivo"
+"pensare razionalmente"
+"pensare seriamente a qcs"
+"pensare troppo a"
+"riflettere se, pensare a"
+"scoprire o pensare qcs."
+"si potrebbe pensare"
+#*''Quel film mi ha fatto pensare''
+#*''Pensavo a quanto ci siamo divertiti l'estate scorsa''
+#*''Per fortuna c'è lui che pensa a tutto!''
+#*''Pensa che bello se vincessimo alla lotteria!''
+#* ''Pensami''
+#*''Penso che non sia giusto!'', ''penso che tu debba andarci''
+#* ''Egli pensò di ucciderla''
+*[[ricordare]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1499
+M>pensare</E
+M>pend</E
+M>pesare</E
+M>io pènso</E
+M>avere</E
+M>penso</E
+M>dunque sono</E
+M>cogito</E
+M>ergo sum</E
+M>nell&#8217;atto stesso del p</E
+M>la relazione fra l&#8217;essere e il pensare</E
+M>un libro</E
+M>un discorso</E
+M>un film che fa p</E
+M>è un uomo che pensa</E
+M>che sa p</E
+M>pensa e ripensa</E
+M>gli venne in mente come fare</E
+M>lasciami p</E
+M>fino a domani</E
+M>meglio pensarci due volte</E
+M>senza pensarci due volte</E
+M>ci voglio p</E
+M>devo ancora pensarci</E
+M>far p</E
+M> dare da p</E
+M>è un caso nuovo</E
+M>è una situazione che fa p</E
+M>che dà</E
+M>poco</E
+M> parecchio</E
+M> ecc.</E
+M> da pensare</E
+M>pensa</E
+M>pensate</E
+M>e io</E
+M>pensa!</E
+M>ero convinto del contrario</E
+M>a qualcuno</E
+M>a qualcosa</E
+M>a una persona con affetto</E
+M>desiderio</E
+M>rimpianto</E
+M>a una cosa con timore</E
+M>con orrore</E
+M>con raccapriccio</E
+M>con rammarico</E
+M>ogni volta che ci penso</E
+M>mi sento gelare il sangue</E
+M>più ci penso e più sono contento della decisione presa</E
+M>penso sempre alle ore liete trascorse insieme</E
+M>penso sempre agli anni della mia giovinezza</E
+M>non pensiamoci più</E
+M>quando sei di cattivo umore pensa alle vacanze che si avvicinano</E
+M>pensiamo alle difficoltà a cui si va incontro</E
+M>dobbiamo pensarci in tempo</E
+M>finché c&#8217;è tempo</E
+M>bisogna pensarci prima per non pentirsi poi</E
+M>sta pensando a dar vita a nuove imprese</E
+M>stavo pensando a lui come possibile socio</E
+M>è lui che pensa alla famiglia</E
+M>ci pensi tu alla spesa?</E
+M>non ti preoccupare</E
+M>penserò io a tutto</E
+M>per</E
+M>è lui che di solito pensa per tutti</E
+M>ognuno pensi per sé</E
+M>la gente aveva ben altro a cui p.</E
+M> in quell&#8217;ultimo scorcio di Evo antico</E
+M> che non la poesia!</E
+M>pensa ai fatti tuoi</E
+M>pensa alla salute!</E
+M>convensi Che</E
+M>A me ritorni e di me stesso pensi</E
+M>non sento mai bene se non tanto quanto io il veggio o di lui penso</E
+M>pensare di</E
+M>bene</E
+M>male di una persona</E
+M>bene</E
+M>male</E
+M>penso di te ogni bene possibile</E
+M>bene</E
+M>gli dissi tutto il male</E
+M>tutto il bene</E
+M>che pensavo di lui</E
+M>tu che ne pensi?</E
+M>ti penso</E
+M>penso a te</E
+M>ti penso sempre qui con me</E
+M>lo penso ancora ragazzo</E
+M>vi penso con grande simpatia</E
+M>Pensa il dì che a Tulna ei venne Di Crimilde nel conspetto</E
+M>immaginare</E
+M>possiamo p</E
+M>il cerchio come un poligono con numero infinito di piccoli lati</E
+M>ti lascio p</E
+M>la mia gioia</E
+M>il mio dispiacere</E
+M>la mia sorpresa</E
+M>pensa se non ci sarà già andato lui!</E
+M>pensa un numero</E
+M>ho pensato una cosa importante</E
+M>che pensi?</E
+M>pensa il male che hai fatto</E
+M>vorrei sapere come la pensa</E
+M>non è affatto vero ciò che pensi</E
+M>non l&#8217;avrei mai pensato</E
+M>chi l&#8217;avrebbe pensato?</E
+M>ero lontano dal p</E
+M>una cosa simile</E
+M>una ne fa e cento ne pensa</E
+M>a me non è dato preannunciare quello che gli uomini siano per fare e pensare verso di te</E
+M>pensava di vendere la casa e trasferirsi altrove</E
+M>non pensavo di farti dispiacere</E
+M>penso io ad avvertire gli amici</E
+M>penso che sia meglio così</E
+M>penso che abbia agito con la migliore intenzione</E
+M>Ond&#8217;io per lo tuo me&#8217; penso e discerno Che tu mi segui</E
+M>pensa quanti sacrifici i tuoi genitori hanno fatto per te</E
+M>penso che sarà uno spettacolo divertentissimo</E
+M>pensa quale sia stata la nostra gioia!</E
+M>pensa che soddisfazione per me!</E
+M>I0 penso talvolta che vita</E
+M>che vita sarebbe la mia</E
+M>Se già la Signora vestita di nulla non fosse per via</E
+M>bisognava p</E
+M>prima se fosse o no conveniente</E
+M>chi ti pensi di essere?</E
+M>non mi pensavo mai di riuscire così facilmente</E
+M>si pensa furbo</E
+M> i troveranno a mal partito quando meno se lo pensano</E
+M>uno scritto</E
+M>un libro pensato</E
+M>a caso pensato</E
+M>il pensante e il pensato</E

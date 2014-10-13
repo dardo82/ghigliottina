@@ -1,0 +1,385 @@
+nuovo.txt
+"allora che altro c'è di nuovo"
+"ancora, di nuovo"
+"anno nuovo"
+"anno nuovo"
+"chiedere di nuovo"
+"come nuovo"
+"come nuovo"
+"come nuovo"
+"come nuovo"
+"come nuovo, mai usato, in perfette condizioni"
+"completamente nuovo"
+"Cos'altro c'è di nuovo?"
+"cos'altro c'è di nuovo?"
+"cosa c'è di nuovo?"
+"dare inizio a qualcosa; cominciare un nuovo lavoro"
+"dare una seconda occhiata, esaminare di nuovo"
+"dare una seconda occhiata, esaminare di nuovo"
+"di nuovo"
+"di nuovo"
+"di nuovo"
+"di nuovo"
+"di nuovo a casa"
+"dire di nuovo"
+"essere nuovo"
+"far girare di nuovo"
+"fare di nuovo"
+"fare i bagagli di nuovo"
+"giocare, suonare, di nuovo"
+"grazie di nuovo"
+"iniziare di nuovo"
+"istituire di nuovo"
+"mai di nuovo"
+"messa a nuovo"
+"mondo nuovo"
+"niente di nuovo"
+"niente di nuovo"
+"niente di nuovo sotto il sole"
+"non di nuovo"
+"non essere nuovo a"
+"non nuovo"
+"nuovo"
+"nuovo"
+"nuovo"
+"nuovo"
+"nuovo"
+"nuovo"
+"nuovo"
+"nuovo affare"
+"nuovo arrivato"
+"nuovo arrivato"
+"nuovo arrivato"
+"nuovo arrivo"
+"nuovo aspetto"
+"nuovo corso"
+"nuovo di fabbrica"
+"nuovo di pacca"
+"nuovo di zecca"
+"nuovo direttore"
+"nuovo direttore"
+"nuovo in"
+"nuovo inizio"
+"nuovo inizio"
+"nuovo nato"
+"nuovo numero"
+"nuovo partecipante"
+"nuovo partecipante"
+"nuovo pensiero"
+"nuovo pianeta"
+"nuovo processo"
+"nuovo ricco"
+"nuovo significato"
+"nuovo significato"
+"nuovo sistema"
+"nuovo stile"
+"Nuovo Testamento"
+"Nuovo Testamento"
+"nuovo utente"
+"nuovo utente"
+"nuovo venuto"
+"paura del nuovo"
+"provare di nuovo"
+"raccontare di nuovo"
+"registrare di nuovo"
+"rendere possibile qualcosa, far cominciare qualcosa di nuovo"
+"ricreare (creare di nuovo)"
+"rimarcare (marcare di nuovo)"
+"rimesso a nuovo"
+"rimettere a nuovo"
+"ripetere di nuovo"
+"riportare a nuovo"
+"servire di nuovo"
+"stabilire di nuovo"
+"stringere di nuovo"
+"termine nuovo"
+"un nuovo inizio"
+"versare di nuovo"
+*''(di cosa)'' [[recente]], [[ultimo]], [[attuale]], appena fatto, appena uscito, appena arrivato, [[moderno]]
+*mai usato, [[intatto]], [[fiammante]], [[vergine]]
+*[[sconosciuto]], mai visto, [[ignoto]]
+*[[inconsueto]], [[insolito]], [[inatteso]], [[strano]], [[inusitato]], [[inedito]], [[singolare]], [[particolare]], [[originale]], [[innovativo]], [[rivoluzionario]], [[straordinario]]
+*''(di anno, attività, eccetera)'' [[imminente]], [[prossimo]]
+*[[modificato]], [[cambiato]], [[migliorato]], [[aggiornato]], [[rinnovato]]
+*[[altro]], [[diverso]], [[secondo]], [[successivo]], [[ulteriore]]
+*[[fresco]], [[novello]], [[giovane]]
+*[[rifatto]] 
+*[[novità]], [[innovazione]]
+*''(di cosa)'' [[vecchio]], [[passato]], [[superato]], [[sorpassato]], [[antico]], [[datato]], [[scontato]], [[arretrato]], [[antiquato]]
+*[[usato]], [[consumato]], [[logoro]]
+*[[conosciuto]], [[noto]]
+*[[normale]], [[tradizionale]], [[classico]]
+* [[immutato]]
+*[[esperto]], [[veterano]]
+*[[nuovamente]]
+*''anno 
+*''
+*''rimesso a 
+M>vus</E
+M>vecchio</E
+M>antico</E
+M>recente</E
+M>attuale</E
+M>moderno</E
+M>il Nuovo Testamento</E
+M>Vecchio</E
+M>Antico Testamento</E
+M>il n</E
+M>mondo</E
+M>mondo antico</E
+M>il nuovissimo mondo</E
+M>stelle nuove</E
+M>novae</E
+M>l’inaugurazione del n</E
+M>ponte</E
+M>le n</E
+M>costruzioni in periferia</E
+M>case di n</E
+M>costruzione</E
+M>i quartieri n</E
+M>della città</E
+M>la città n</E
+M>un’automobile n</E
+M>un televisore nuovo</E
+M>usato</E
+M>commercio di libri n</E
+M>e usati</E
+M>indossare il vestito n</E
+M>un orologio n</E
+M>bada che se mi rompi il computer lo paghi per n</E
+M>sono due anni che abbiamo queste poltrone e sono</E
+M>sembrano</E
+M>ancora n</E
+M>vendesi motocicletta come nuova</E
+M>una cravatta n</E
+M>una n</E
+M>cravatta</E
+M>un’auto n</E
+M>una n</E
+M>auto</E
+M>nuovo nuovo</E
+M>di fabbrica</E
+M>fiammante</E
+M>di zecca</E
+M>patate n</E
+M>novelle</E
+M>il grano n</E
+M>le cipolline n</E
+M>tra poco ci saranno i pomodori n</E
+M>assaggiare un bicchiere di vino n</E
+M>una bottiglia di olio nuovo</E
+M>la n</E
+M>covata</E
+M>i n</E
+M>pulcini</E
+M>Novo augelletto due o tre</E
+M>aspetta</E
+M>le n</E
+M>generazioni</E
+M>le n</E
+M>leve</E
+M>la n</E
+M>età</E
+M>tutta l’età mia nova Passai contento</E
+M>il n</E
+M>giorno</E
+M>l’anno n</E
+M>l’anno n</E
+M>il n</E
+M>giorno</E
+M>ci rivedremo ormai l’anno n</E
+M>i lavori cominceranno con l’anno nuovo</E
+M>la luna n</E
+M>le n</E
+M>conquiste della scienza</E
+M>introduzione di n</E
+M>tecniche</E
+M>di metodi n</E
+M>le n</E
+M>imprese aeronautiche e spaziali</E
+M>istituzioni n</E
+M>leggi</E
+M>concezioni</E
+M>idee</E
+M>attenersi alle n</E
+M>disposizioni</E
+M>vocaboli</E
+M>termini n</E
+M>il vecchio e il n</E
+M>regime</E
+M>uno spettacolo n</E
+M>un n</E
+M>film</E
+M>una n</E
+M>trasmissione</E
+M>per queste scene</E
+M>per i nostri schermi</E
+M>per questa città</E
+M>per l’Italia</E
+M>si cercano n</E
+M>volti per la televisione</E
+M>nelle liste elettorali ho notato molti nomi n</E
+M>alla festa c’erano tante facce nuove</E
+M>il suo viso mi riesce n</E
+M>è un nome che non mi è n</E
+M>il fatto mi giunge n</E
+M>questo particolare mi è del tutto n</E
+M>m’è sì nuovo e sì strano che voi per amore amiate</E
+M>che quasi un miracol mi pare</E
+M>Allor lassai la nova fantasia</E
+M>altro</E
+M>dare un n</E
+M>indirizzo all’economia nazionale</E
+M>introdurre n</E
+M>usanze</E
+M>costumi</E
+M>il libro sarà ripubblicato in una n</E
+M>veste tipografica</E
+M>è un modo veramente n</E
+M>di affrontare la situazione</E
+M>non ha saputo presentare argomenti n</E
+M>per me è una sensazione n</E
+M>essere assetato di n</E
+M>esperienze</E
+M>la n</E
+M>pittura</E
+M>la n</E
+M>poesia</E
+M>il dolce stil nuovo</E
+M>novo</E
+M>Ma dì s’io veggio qui colui che fore Trasse le nove rime</E
+M>creare n</E
+M>forme di linguaggio artistico</E
+M>di espressione</E
+M> uno scrittore</E
+M>un artista n</E
+M>la n</E
+M>Italia</E
+M>lottare per fondare una società n</E
+M>una n</E
+M>umanità</E
+M>non si può cambiare l’assetto sociale se non si può fare assegnamento su uomini nuovi</E
+M>iniziare una n</E
+M>vita</E
+M>una n</E
+M>vita</E
+M>sentiva palpitarle in seno quella n</E
+M>vita</E
+M>tra breve</E
+M>una n</E
+M>vita avrebbe allietato la famiglia</E
+M>anno n</E
+M>vita n</E
+M>aprire n</E
+M>sbocchi al commercio</E
+M>la fabbrica ha bisogno di n</E
+M>operai</E
+M>non fa che comprare n</E
+M>quadri</E
+M>tappeti</E
+M>ci saranno n</E
+M>nomine</E
+M>mi giungono sempre n</E
+M>lagnanze</E
+M>il malato ha avuto una n</E
+M>crisi</E
+M>passare a n</E
+M>nozze</E
+M>scegliersi un n</E
+M>mestiere</E
+M>come ti trovi nella n</E
+M>casa?</E
+M>la n</E
+M>frontiera</E
+M>la n</E
+M>sinistra</E
+M>la n</E
+M>camorra organizzata</E
+M>l’arca di colui che nuovo Olimpo Alzò in Roma a’ Celesti</E
+M>Castelnuovo</E
+M>Borgonovo</E
+M>la Nuova Scozia</E
+M>i n</E
+M>cardinali</E
+M>i n</E
+M>funzionarî del ministero</E
+M>le n</E
+M>reclute</E
+M>i n</E
+M>ricchi</E
+M>La gente nuova e i sùbiti guadagni</E
+M>i n</E
+M>venuti</E
+M>il n</E
+M>inquilino</E
+M>uomo n</E
+M>homo novus</E
+M>è stata nominata la n. direttrice</E
+M>è venuto un n</E
+M>supplente</E
+M>vi presento il mio n</E
+M>segretario</E
+M>la costituzione del n</E
+M>consiglio d’amministrazione</E
+M>la formazione del n</E
+M>governo</E
+M>novello</E
+M>lo ritengono</E
+M>si crede</E
+M>si vanta di essere un n</E
+M>Leonardo</E
+M>un n</E
+M>Einstein</E
+M>s’è voluto spingere</E
+M>Ulisse</E
+M>oltre i confini vietati</E
+M>nuovo del mondo</E
+M>inesperto delle passioncelle che muovono gli uomini</E
+M>essere n</E
+M>di un luogo</E
+M>di un ambiente</E
+M>essere n</E
+M>a un’arte</E
+M>a un mestiere</E
+M>del mestiere</E
+M>mostrarsi</E
+M>farsi n</E
+M>di una cosa</E
+M>il cercatore andò per riscotere la metà ch’era dovuta al convento;</E
+M>ma colui se ne fece nuovo affatto</E
+M>il n</E
+M>non lo attira</E
+M>essere amante</E
+M>nemico del n</E
+M>mostrarsi incerto tra il vecchio e il n</E
+M>non ha detto nulla di n</E
+M>che c’è di n</E
+M>nulla di n</E
+M>sotto il sole</E
+M>commercio del n</E
+M>e dell’usato</E
+M>Di nuovo</E
+M>vestire</E
+M>vestirsi di n</E
+M>Oh! Valentino vestito di nuovo</E
+M>Come le bacche dei biancospini!</E
+M>piove di n</E
+M>ci sei caduto di n</E
+M>di bel nuovo</E
+M>il nostro cielo</E
+M> il nostro sole</E
+M> il mondo di bel nuovo vedrai</E
+M>Orfeo</E
+M>di nuovo</E
+M>A nuovo</E
+M>mettere</E
+M>rimettere a n</E
+M>quella cura l’ha rimesso a nuovo</E
+M>registrazione a n</E
+M>nuovìssimo</E
+M>novìssimo</E
+M>novaménte</E
+M>esaminare nuovamente la questione</E
+M>tentare nuovamente la fortuna</E
+M>dopo il fallimento si è nuovamente ripreso</E
+M>parlandosi pochi dì sono del paese o mondo novamente trovato dai marinari portoghesi</E

@@ -1,0 +1,503 @@
+sentire.txt
+"far sentire benvenuto"
+"far sentire come a casa propria"
+"far sentire male qualcuno"
+"far sentire meglio qualcuno"
+"far sentire qualcuno colpevole"
+"fare sentire la propria voce"
+"farsi sentire"
+"mi faccio sentire io"
+"non c'è peggior sordo di chi non vuol sentire"
+"non farsi mai sentire"
+"non farsi più sentire"
+"non sentire niente"
+"sentire"
+"sentire"
+"sentire"
+"sentire"
+"sentire"
+"sentire, replace: sentirsi"
+"sentire, replace: sentirsi"
+"sentire"
+"sentire con la pancia"
+"sentire delle forti emozioni"
+"sentire emotivamente"
+"sentire freddo"
+"sentire il peso di"
+"sentire il polso"
+"sentire l'odore"
+"sentire la mancanza"
+"sentire le voci"
+"sentire molto la mancanza di qualcuno"
+"sentire odore"
+"sentire parlare di qcs.; scoprire qcs."
+"sentire profondamente"
+"sentire puzza di bruciato"
+"sentire rimorso"
+"sentire tristezza"
+"sentire; ascoltare"
+"stammi a sentire"
+"venire a sapere di, sentire parlare di, sentire di"
+#*'''''Hai sentito''' quel verso spaventoso?''
+#*''Non '''senti''' questa puzza?''
+#*'''''Senti''' che buono''
+#*'''''Senti''' quanto è liscio?''
+#*'''''Ho sentito''' che ora hai una ragazza''
+*[[avvertire]]
+*''(salute)'' [[stare]] 
+*[[risentire]], [[sentita]], [[sentirsi]]
+M>ntire</E
+M>io sènto</E
+M>la facoltà di s.</E
+M>gli animali vivono e sentono</E
+M>s. un suono</E
+M>un rumore</E
+M>s. un sapore</E
+M>s. il sapore d&#8217;un cibo</E
+M>d&#8217;un frutto</E
+M>s. un odore</E
+M>s. l&#8217;odore d&#8217;un fiore</E
+M>dell&#8217;incenso</E
+M>non senti questo puzzo di bruciato?</E
+M>O bella Musa</E
+M> ove sei tu? Non sento Spirar l&#8217;ambrosia</E
+M> indizio del tuo Nume</E
+M>s. un colpo</E
+M>un urto</E
+M>continua pure</E
+M>poi sentirai che botte!</E
+M>quando sentì la frusta</E
+M>il cavallo si mise al trotto</E
+M>il caldo si fa s. oggi!</E
+M>s. i sapori</E
+M>gli odori</E
+M>non s. i sapori</E
+M>gli odori</E
+M>sentire</E
+M>sentirci</E
+M>sentir bene</E
+M>male</E
+M>sentirci poco</E
+M>non sentire</E
+M>non sentirci</E
+M>un cavallo che non sente la frusta</E
+M>è testardo</E
+M>ma il bastone lo sente!</E
+M>senti che fresco stasera!</E
+M>senti quant&#8217;è buono questo pane</E
+M>senti che buon odore d&#8217;arrosto</E
+M>senti questo profumo com&#8217;è delicato</E
+M>senti la morbidezza di questa lana</E
+M>senti se ti piace</E
+M>senti se è giusta di sale la minestra</E
+M>vuoi s. questo vino</E
+M> se ti pare che sappia d&#8217;aceto?</E
+M>senti se il bimbo scotta</E
+M>se ha la febbre</E
+M>s. il polso</E
+M>s. il cuore</E
+M>volevo s. se dormivi.</E
+M>al bicchiere Materno</E
+M> ognuno ne sentiva un dito</E
+M>vuoi s. uno di questi fichi?</E
+M>s. al sapore</E
+M>al suono</E
+M>al tatto</E
+M>s. all&#8217;odore</E
+M>al fiuto</E
+M>io gli imbroglioni li sento all&#8217;odore</E
+M>udire</E
+M>ascoltare</E
+M>s. il rumore del treno in arrivo</E
+M>ho sentito una gran confusione</E
+M>senti questo strano rumore?</E
+M>non ho sentito nulla</E
+M>quando dorme</E
+M> non sente neanche le cannonate</E
+M>non hai sentito il campanello?</E
+M>Sentesi un grato mormorio dell&#8217;onde</E
+M> Che fan duo freschi e lucidi ruscelli</E
+M>si sentì uno scalpiccìo giù nella strada</E
+M>ho sentito dei passi nel corridoio</E
+M>far s. il ritmo</E
+M>far s. l&#8217;accento d&#8217;una parola</E
+M>Pianger senti&#8217; fra &#8217;l sonno i miei figliuoli Ch&#8217;eran con meco</E
+M> e dimandar del pane</E
+M>sentii squillare il telefono</E
+M>sentir qualcuno gridare</E
+M>sentir gridare</E
+M>mi sentii chiamare</E
+M>sento venir gente</E
+M>sento gente</E
+M>s. arrivare il treno</E
+M>in quella casa ci si sente</E
+M>ti sento ma non capisco</E
+M>grida più forte</E
+M> che non sento</E
+M>non ti sento</E
+M>non sento le tue parole</E
+M>non sento ciò che dici</E
+M>non posso s. quella sua voce sgradevole</E
+M>li sentivo mormorare in disparte</E
+M>era tanto che non sentivo parlare il mio dialetto</E
+M>l&#8217;ho sentito che diceva ...</E
+M>l&#8217;ho sentito cantare</E
+M>che cantava</E
+M>bisogna s. come risponde!</E
+M>bisognava s. le meraviglie che raccontava!</E
+M>mi fa male a s.</E
+M>sono cose che non posso s.</E
+M>non senti?</E
+M>non hai sentito quel che t&#8217;ho detto?</E
+M>tu sentissi!</E
+M>mi par di sentirlo!</E
+M>a sentir lui</E
+M> non c&#8217;è chi lo superi</E
+M>farsi s.</E
+M>insomma</E
+M> mi vuoi s. davvero!</E
+M>ora mi sentirà!</E
+M>sentirai la mamma</E
+M> ora!</E
+M>ora sì che lo sentiremo!</E
+M>sentirete</E
+M> quando saprà tutto!</E
+M>m&#8217;ha da sentire la signora Perpetua</E
+M>non ti far più s.!</E
+M>gridare</E
+M>piangere</E
+M>non ti far più s. a piangere!</E
+M>che sento!</E
+M>che mi tocca s.!</E
+M>sente nascere l&#8217;erba</E
+M>la gramigna</E
+M>ci senti bene?</E
+M>ci sente poco</E
+M>non ci sente</E
+M>non ci sente affatto</E
+M>Non veder</E
+M>non sentir m&#8217;è gran ventura</E
+M>da quest&#8217;orecchio ci sento meno</E
+M>non ci sente da quell&#8217;orecchio</E
+M>non ci sento da quest&#8217;orecchio</E
+M>non c&#8217;è peggior sordo di chi non vuol sentire</E
+M>ne ho già sentito parlare dai giornali</E
+M>ho sentito una brutta notizia</E
+M>hai sentito la novità?</E
+M>a quel che sento</E
+M>a quel che si sente dire ...</E
+M>ne ho sentite delle belle sul tuo conto</E
+M>se ne sentono di tutti i colori</E
+M>s&#8217;è mai sentita una cosa simile?</E
+M>apprendere</E
+M>udire</E
+M>sento dalla tua ultima</E
+M>lettera</E
+M>che sei stato poco bene</E
+M>avere</E
+M>O tuo parlar m&#8217;inganna</E
+M> o el mi tenta ... ché</E
+M> parlandomi tosco</E
+M> Par che del buon Gherardo nulla senta</E
+M>non è bello stare a s. dietro gli usci</E
+M>se l&#8217;argomento non t&#8217;interessa</E
+M> nessuno ti dice di stare qui a s.</E
+M>vuoi sentir questa?</E
+M>vuoi sentirne una nuova?</E
+M>è meglio s. tutte e due le campane</E
+M>lei sa che noi altre monache</E
+M> ci piace di sentir le storie per minuto</E
+M>s. le lezioni</E
+M>s. un comizio</E
+M>una conferenza</E
+M>una predica</E
+M>s. una trasmissione alla radio</E
+M>sentir messa</E
+M>s. un concerto</E
+M>andare a s</E
+M>un&#8217;opera</E
+M>una commedia</E
+M>s. la lezione al bambino</E
+M>gli hai sentito la poesia?</E
+M>mamma</E
+M> mi vuoi s. la poesia?</E
+M>sentiamo di che si tratta</E
+M>sentiamo!</E
+M>sentiamo</E
+M> dunque!</E
+M>sentiamo</E
+M> allora!</E
+M>suvvia</E
+M> sentiamo!</E
+M>sentite ora ciò ch&#8217;è successo</E
+M>sta&#8217; a s. quel che m&#8217;è capitato</E
+M>senti</E
+M> senti un momento</E
+M> non te n&#8217;andare!</E
+M>ehi</E
+M> senti tu!</E
+M>sentite voi!</E
+M>ma senti che baccano!</E
+M>senti un po&#8217; che discorsi!</E
+M>senti!</E
+M>sentite!</E
+M>senti senti!</E
+M>e dovrei andarci di mezzo io?</E
+M>ma senti!</E
+M> e quell&#8217;eroe saresti tu?</E
+M>sentitelo lì</E
+M>mi stava a s. a bocca aperta</E
+M>parla</E
+M>recita</E
+M>canta</E
+M> suona</E
+M>con tanta grazia</E
+M> che è un piacere sentirlo</E
+M>stammi a s.</E
+M>mi stai a s.?</E
+M>lui sente solamente la mamma</E
+M>sente soltanto il proprio interesse</E
+M>non sente consigli</E
+M>non sente ragione</E
+M>vorrei s. il tuo parere</E
+M>sarebbe bene s. che cosa ne pensa lui</E
+M>voglio s. prima il mio avvocato</E
+M>hai provato a s. un bravo meccanico?</E
+M>non posso far nulla</E
+M> se non ho sentito anche il mio socio</E
+M>va&#8217; un po&#8217; a s. cosa vuole</E
+M>ho mandato a s. come sta</E
+M>vado a s. se è pronto</E
+M>vuoi s. da lui se ha bisogno di nulla?</E
+M>&#171;Sai se è in casa?&#187; &#171;No</E
+M>ora vado a sentire&#187;</E
+M>sento un gran mal di capo</E
+M>un bruciore allo stomaco</E
+M>un prurito alla schiena</E
+M>sento un bisogno urgente</E
+M>sento</E
+M>mi sento</E
+M>un dolore al fianco</E
+M>mi sento prudere il naso</E
+M>mi sentivo la febbre addosso</E
+M>si sentiva venir l&#8217;acquolina in bocca</E
+M>si sentì toccare la spalla da qualcuno</E
+M>senti male se premo qui?</E
+M>s. il solletico</E
+M>chi ben dorme non sente le pulci</E
+M>sentendosi pungere</E
+M> s&#8217;alzò di scatto</E
+M>sentiva la lama penetrargli nella carne</E
+M>cavallo che sente il freno</E
+M>che sente il morso</E
+M>s. caldo</E
+M>freddo</E
+M>s. sonno</E
+M>s. fame</E
+M>sete</E
+M>comincio a s. un po&#8217; d&#8217;appetito</E
+M>sentirsi affamato</E
+M>sentirsi sazio</E
+M>s. un po&#8217; di stanchezza</E
+M>di malessere</E
+M>si sentiva piegare le ginocchia dalla debolezza</E
+M>gli uomini hanno gli anni che sentono</E
+M>le donne quelli che dimostrano</E
+M>sentirsi bene</E
+M>male</E
+M>oggi mi sento meglio</E
+M>mi sento discretamente</E
+M>mi sento così così</E
+M>mi sento forte</E
+M>debole</E
+M>sfinito</E
+M>sentirsi svenire</E
+M>sentirsi venir meno</E
+M>sentirsi riavere</E
+M>sentirsi prossimo alla fine</E
+M>sentirsi morire</E
+M>sentirsi rinascere</E
+M>sentirsi risuscitare</E
+M>non sentire</E
+M>non sentirsi un arto</E
+M>son così stanco</E
+M>che non</E
+M>sento più le gambe</E
+M>sentirsi</E
+M>questi si sente</E
+M> è preso per ladro</E
+M>s. piacere per qualche cosa</E
+M>sentirsi allargare il cuore</E
+M>sentirsi un nodo in gola</E
+M>mi sento addosso la tremarella</E
+M>sentirsi cascare le braccia</E
+M>sentirsi mancare la terra sotto i piedi</E
+M>si sentiva tutta rimescolar dentro</E
+M>mi sentivo ribollire dallo sdegno</E
+M>mi sentivo struggere dal desiderio di rivederla</E
+M>sentirsi a proprio agio</E
+M>a disagio</E
+M>sentirsi</E
+M>come</E
+M>un pesce fuor d&#8217;acqua</E
+M>ti senti in vena oggi?</E
+M>sentirsi sollevato</E
+M>rinato</E
+M>qui mi sento sicuro</E
+M>si sentì turbato da quelle parole</E
+M>pur senza sentirci particolarmente attirati l&#8217;uno dall&#8217;altro</E
+M> eravamo avvicinati dalle due lingue in comune</E
+M> e dal fatto</E
+M> assai sensibile in quelle circostanze</E
+M> di essere i soli due mediterranei</E
+M>sentirsi commosso</E
+M>offeso</E
+M>mi sento vicino a te</E
+M> a voi</E
+M>oggi mi sento un altro</E
+M>Seguitando il mio canto con quel suono Di cui le Piche misere sentiro Lo colpo tal</E
+M> che disperar perdono</E
+M>ho seguito la cura senza sentirne però alcun beneficio</E
+M>sente molto la fatica</E
+M>sente il minimo cambiamento di temperatura</E
+M>si vede che sente il tempo</E
+M>senti la primavera?</E
+M>anche gli animali sentono il tempo</E
+M>piante che sentono l&#8217;umido</E
+M>la siccità</E
+M>quest&#8217;auto sente ormai la vecchiaia</E
+M>gli anni</E
+M>or veggio e sento Che per aver salute ebbi tormento</E
+M>si sentiva addosso gli sguardi di tutti</E
+M>non mi vuol più bene</E
+M> lo sento</E
+M>sentiva che c&#8217;era una sorda ostilità contro di lui</E
+M>sento che non c&#8217;è più speranza</E
+M>si sentì perduto</E
+M>sentivo che qualcosa doveva succedere</E
+M>sento che la fine non è lontana</E
+M>il pericolo era imminente</E
+M> e lo sentivo</E
+M>io lo sento uguale a me</E
+M> lo sento diverso</E
+M>l&#8217;angoscia de le genti Che son qua giù</E
+M>nel viso mi dipigne Quella pietà che tu per tema senti</E
+M>sentendo Gualtieri conte d&#8217;Anguersa gentile e savio uomo</E
+M>non senti la bellezza del suo gesto?</E
+M>nelle sue parole si sente l&#8217;uomo onesto</E
+M>è una risposta in cui si sente tutta la fierezza del suo carattere</E
+M>si sente in questi versi la potenza dell&#8217;ispirazione</E
+M>opera in cui si sente la solida preparazione dottrinale dell&#8217;autore</E
+M>Sento gli avversi Numi</E
+M> e le secrete Cure che al viver tuo furon tempesta</E
+M>non ve lo sentite in cuore</E
+M> che v&#8217;opprime</E
+M> che v&#8217;agita</E
+M> che non vi lascia stare ...?</E
+M>ne sento</E
+M>non ne sento la necessità</E
+M>ne sento molto la mancanza</E
+M>la lontananza</E
+M>sento di volergli ancora bene</E
+M>sento di non poterla odiare</E
+M>sento il dovere di dirti che ...</E
+M>io mi sento la coscienza a posto</E
+M>mi sento obbligato a lui</E
+M>non devi sentirti in obbligo con me</E
+M>verso di me</E
+M>mi sento in debito verso di te</E
+M>sentirsi dalla parte del torto</E
+M>sentirsi in colpa</E
+M>colpevole</E
+M>sentirsi in grado</E
+M>sentirsi capace di</E
+M>sentirsi disposto a fare qualche cosa</E
+M>sentirsi</E
+M>non mi sento di salire fin lassù</E
+M>mi sento di poter riuscire</E
+M>non mi sento di affrontarlo</E
+M>non mi sento di dirglielo</E
+M>non mi sento di fare altre rinunce</E
+M>ti senti di farmi questo favore?</E
+M>ti prometto di farlo se mi sentirò</E
+M>sentirsela</E
+M>te la sentiresti di mangiare tutta questa bistecca?</E
+M>non me la sento di ingannarlo</E
+M>s. affetto</E
+M>amore</E
+M>gratitudine</E
+M>riconoscenza per qualcuno</E
+M>S&#8217;amor non è</E
+M> che dunque è quel ch&#8217;io sento?</E
+M>sento molta simpatia per lui</E
+M>sente molta ammirazione per te</E
+M>sento una gran pena per quel povero ragazzo</E
+M>s. pietà</E
+M>compassione</E
+M>s. odio</E
+M>invidia</E
+M>rancore</E
+M>non senti rimorso per ciò che hai fatto?</E
+M>sento un vivissimo desiderio d&#8217;incontrarmi con lui</E
+M>sentivo un certo timore di affrontare la situazione</E
+M>s. ripugnanza</E
+M>ribrezzo</E
+M>disgusto</E
+M>orrore</E
+M>s. vocazione</E
+M>inclinazione per qualche cosa</E
+M>s. molto</E
+M>poco</E
+M>fortemente</E
+M>profondamente la vocazione per il volontariato</E
+M>cominciò a s. qualcosa per lei</E
+M>non senti proprio niente per me?</E
+M>io dico ciò che sento</E
+M>scrive come sente</E
+M>non ti so esprimere ciò che sento in questo momento</E
+M>so io quello che mi sentivo dentro in quei giorni</E
+M>è un ragazzo che sente molto</E
+M>è un egoista che non sente nulla</E
+M>Sentir</E
+M> riprese</E
+M> e meditar ...</E
+M>s. il ritmo</E
+M>s. la musica</E
+M>la poesia</E
+M>la bellezza della natura</E
+M>s. il bello</E
+M>s. rettamente</E
+M>nobilmente</E
+M>Natura umana</E
+M> or come</E
+M> ... Se polve ed ombra sei</E
+M>tant&#8217;alto senti?</E
+M>io le cose le dico come le sento</E
+M>secondo il mio modo di s.</E
+M> i fatti stanno così</E
+M>io la sento diversamente</E
+M>s. altamente</E
+M>s. modestamente di sé</E
+M>s. poco</E
+M>non s. nulla</E
+M>io ho da più persone inteso che tu se&#8217; savissimo e nelle cose di Dio senti molto avanti</E
+M>il s.</E
+M>nobiltà</E
+M>delicatezza</E
+M>squisitezza del s.</E
+M>uomo di retto</E
+M>d&#8217;alto</E
+M>di nobile s.</E
+M>la diversità del s.</E
+M>Tu dubbi</E
+M>e hai voler che si ricerna In sì aperta e &#8217;n sì distesa lingua Lo dicer mio</E
+M> ch&#8217;al tuo sentir si sterna</E
+M>avere</E
+M>s. di</E
+M>s. di muffa</E
+M>Così sente talor di reo letame L&#8217;erba gradita alle frugali mense</E
+M>tra le mani che sentian di lauro E di busso</E
+M>sapere di</E
+M>questa salsa sente un po&#8217; d&#8217;acido.</E
+M>quest&#8217;uomo sente del briccone</E
+M>frate Alberto conobbe incontanente che costei sentìa dello scemo</E

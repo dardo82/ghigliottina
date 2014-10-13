@@ -1,0 +1,184 @@
+stesso.txt
+"abbandonare a se stesso"
+"abbandonato a se stesso"
+"alla stesso grado, allo stesso livello"
+"allo stesso grado"
+"allo stesso grado"
+"allo stesso livello"
+"allo stesso modo"
+"allo stesso modo"
+"allo stesso momento"
+"allo stesso tempo"
+"allo stesso tempo di"
+"bastare a se stesso"
+"Chi è causa del suo mal pianga se stesso"
+"chiuso in sé stesso"
+"cinquanta punti messi a segno dallo stesso battitore in un periodo"
+"cinquanta punti messi a segno dallo stesso battitore in un periodo"
+"con lo stesso punto di vista"
+"con tutto me stesso"
+"da se stesso"
+"dai il meglio di te stesso"
+"della stessa natura, dello stesso tipo"
+"di per sé stesso"
+"è lo stesso per me"
+"è rimasto se stesso, è sempre se stesso, è rimasto com'era una volta"
+"esattamente lo stesso"
+"essere dello stesso"
+"essere dello stesso ordine"
+"essere te stesso"
+"essere tutto preso da se stesso"
+"fa lo stesso"
+"fa lo stesso"
+"fiducia in se stesso"
+"fiducia in se stesso"
+"fiducioso in se stesso"
+"fine a se stesso"
+"grazie lo stesso"
+"idem!, uguale!, lo stesso!"
+"il mio stesso problema"
+"il viaggiare insieme a qualcuno per lo stesso tragitto"
+"impiegare se stesso"
+"in pace con sé stesso"
+"investire su se stesso"
+"io stesso"
+"lasciato a se stesso"
+"lei stesso"
+"lo stesso"
+"lo stesso"
+"lo stesso dicasi per"
+"lui stesso"
+"lui stesso"
+"mantenere lo stesso livello"
+"me stesso"
+"mettercela tutta in, dare tutto se stesso in, impegnarsi al massimo in"
+"metterci tutto se stesso"
+"nello stesso istante"
+"nello stesso modo"
+"nello stesso modo, allo stesso modo, alla stessa maniera"
+"nello stesso momento"
+"nello stesso momento in cui"
+"non posso dire lo stesso di me"
+"non può stare in due posti nello stesso momento"
+"o... o...; per me è lo stesso"
+"oggi stesso"
+"per me è lo stesso"
+"per te stesso"
+"perdere la fiducia in te stesso"
+"piegato su sé stesso"
+"più o meno lo stesso"
+"praticamente lo stesso"
+"presente a se stesso"
+"proprio lo stesso"
+"quasi lo stesso"
+"quasi lo stesso"
+"ripetere a se stesso"
+"ripetutamente in successive generazioni dello stesso ceppo"
+"sé stesso"
+"sé stesso"
+"secondo giudizio per uno stesso reato"
+"stare nello stesso posto"
+"stesso"
+"stesso"
+"stesso"
+"stesso, replace: lo stesso"
+"sullo stesso livello"
+"sullo stesso piano"
+"sullo stesso piano"
+"te stesso"
+"tu stesso"
+"vedere le cose allo stesso modo"
+"vergognati di te stesso"
+*(1) [[solito]], [[uguale]], [[pari]]
+*[[comunque]], [[come]]
+M>iste </E
+M>pse</E
+M>istum </E
+M>psum</E
+M>medesimo</E
+M>darò l&#8217;incarico alla s. agenzia dell&#8217;anno scorso</E
+M>ci incontriamo quasi tutte le sere</E
+M> perché frequentiamo lo s. circolo</E
+M>vorrei lo s. posto di ieri</E
+M>ha ripetuto il discorso con le s. parole</E
+M>siamo allo s. punto di prima</E
+M>io scorsi Per quattro visi il mio aspetto s.</E
+M>al tempo s.</E
+M>nel parlare è molto ricercato e al tempo s. spontaneo</E
+M>è sempre la s. storia</E
+M>mi ha ripetuto cento volte lo s. discorso</E
+M>medesimo</E
+M>è la stessa e medesima cosa</E
+M>due vasi della s. forma</E
+M>era con alcuni compagni della sua s. età</E
+M>le due malattie si presentano con gli s. sintomi</E
+M>ho trovato scarpe e borsetta dello s. colore</E
+M>hanno pressappoco lo s. peso</E
+M>è sempre lo s. con tutti</E
+M>non è più lo s. di una volta</E
+M>è sempre lo s.</E
+M>su di lui non si può contare</E
+M> è sempre lo stesso</E
+M>è sempre lo s. distratto</E
+M>lo stesso cafone</E
+M>ipse</E
+M>l&#8217;ho visto con i miei s. occhi</E
+M>la vecchiaia s.</E
+M>per sé stessa</E
+M>di per sé stessa</E
+M>è un male</E
+M>gli avversarî s.</E
+M>gli s. avversarî</E
+M>hanno riconosciuto il suo valore</E
+M>il ministro s. gli ha scritto per congratularsi con lui</E
+M>anche</E
+M>il colore e il taglio s. del vestito sono di pessimo gusto</E
+M>per rendere valido il contratto occorre che il contratto s. sia firmato da ambedue i contraenti.</E
+M>verrò io s.</E
+M>io s. non ne sapevo nulla</E
+M>me lo ha detto lui stesso</E
+M>stessi</E
+M>egli</E
+M>quegli</E
+M>questi</E
+M>Così disse &#8217;l maestro; ed elli stessi Mi volse</E
+M>ne parlerò con lui s.</E
+M>lo chiedo a voi stessi</E
+M>non amo parlare di me s.</E
+M>fai male a ritirarti così in te s.</E
+M>lo hanno fatto con sacrificio di sé s.</E
+M>non può che prendersela con sé s.</E
+M>seco stesso</E
+M>quella donna era la gentilezza s.</E
+M>la bontà s.</E
+M>un uomo che è la prudenza stessa.</E
+M>è lo stesso</E
+M>guarda</E
+M> mi pare lo s. (quello s.</E
+M>di prima</E
+M>lo s.</E
+M>quello s.</E
+M>venga o non venga per noi è lo s.</E
+M>fa lo s.</E
+M>il discorso sembra mutato</E
+M> ma viene a dire lo s.</E
+M>è lo s.</E
+M>per me è lo s.</E
+M>la stessa</E
+M>fa come ti pare</E
+M> per me è la s.</E
+M>essere</E
+M>tornare</E
+M>alle stesse</E
+M>siamo sempre alle stesse.</E
+M>ti darò la risposta oggi s.</E
+M>possiamo farlo qui stesso</E
+M>lo stesso</E
+M>anche se non ne hai voglia</E
+M> devi studiare lo stesso</E
+M>piove</E
+M> ma verrò lo stesso</E
+M>è la stessissima cosa</E
+M>è lo stesso stessissimo</E
+M>Crescerà sì tua vaghezza</E
+M> Che nel fior di giovinezza Parrai Venere stessissima</E

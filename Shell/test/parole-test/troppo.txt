@@ -1,0 +1,211 @@
+troppo.txt
+"a chi troppo, a chi niente"
+"adoperarsi troppo"
+"allegro ma non troppo"
+"allegro ma non troppo"
+"andarci piano con qc, prendere qc con le molle, non calcare troppo la mano con qc"
+"apprezzamento troppo alto"
+"avere troppo"
+"bere troppo"
+"caricare troppo"
+"che beve troppo"
+"chi troppo vuole nulla stringe"
+"chiedere troppo"
+"chiedere troppo"
+"colmare troppo"
+"crescere troppo"
+"crescere troppo"
+"cresciuto troppo"
+"cucinare troppo"
+"cucinato troppo"
+"cuocere troppo"
+"da troppo tempo ormai"
+"darsi troppo da fare"
+"dormire troppo"
+"dormire troppo a lungo"
+"enfatizzare troppo"
+"essere troppo coinvolto"
+"essere troppo gentile"
+"fare troppo"
+"il troppo stroppia"
+"in modo troppo zelante"
+"l'essere troppo indulgenti"
+"lavorare troppo"
+"moderato ma non troppo"
+"non è mai troppo tardi"
+"non è troppo presto, non è certo presto"
+"non prendesela troppo"
+"pagare troppo"
+"pagare troppo caro"
+"parlare troppo"
+"pensare troppo a"
+"persona che vizia troppo"
+"problema del bere  troppo"
+"produrre troppo"
+"prolungare troppo una visita"
+"protestare troppo"
+"quasi troppo tardi"
+"rendere troppo semplice"
+"riempire troppo"
+"riempire troppo"
+"scrivere troppo"
+"sforzarsi troppo"
+"sottolineare troppo"
+"spendere troppo"
+"spendere troppo"
+"stare troppo a lungo"
+"tendere troppo"
+"tirare troppo"
+"troppo"
+"troppo"
+"troppo"
+"troppo"
+"troppo"
+"troppo alto"
+"troppo ansioso"
+"troppo ansioso"
+"troppo ansioso di piacere"
+"troppo bello per essere vero"
+"troppo ben nutrito"
+"troppo buono"
+"troppo buono"
+"troppo caro"
+"troppo coltivato"
+"troppo concimato"
+"troppo confidente"
+"troppo coraggioso"
+"troppo cotto"
+"troppo fiducioso"
+"troppo frenetico"
+"troppo generale"
+"troppo grande"
+"troppo grande"
+"troppo grande"
+"troppo grande"
+"troppo impaziente"
+"troppo influenzato"
+"troppo lungo"
+"troppo maturo"
+"troppo presto"
+"troppo sostenuto"
+"troppo tardi"
+"troppo vecchio"
+"troppo zelante"
+"un po' troppo"
+"un po’ troppo"
+"valutare troppo"
+"valutato troppo"
+"vestirsi troppo"
+"vestita troppo formalmente"
+"vestita troppo pittorescamente"
+"vestito troppo elaboratamente"
+#*'' non mettere troppa carne al fuoco''
+*fuor di misura, oltre la misura, più del dovuto, [[esagerato]], [[eccessivo]], [[sovrabbondante]], [[superfluo]], [[eccedente]], [[esuberante]], [[esorbitante]]
+*[[eccessivamente]], [[oltremisura]], [[smisuratamente]], a dismisura, [[smodatamente]], [[smoderatamente]], a oltranza, [[oltremodo]], [[sfrenatamente]]
+*[[assai]], [[molto]]
+*[[esagerazione]], quantità esagerata, [[sovrabbondanza]]
+*[[eccesso]], [[abbondanza]], [[sovrabbondanza]], [[esagerazione]], [[dismisura]], [[eccedenza]], [[esuberanza]]
+*[[scarso]], [[mancante]], [[carente]], [[limitato]], [[insufficiente]]
+*[[insufficientemente]], [[scarsamente]], [[limitatamente]]
+*'' il 
+M>trop</E
+M>ho mangiato t.</E
+M>tu parli t.</E
+M>non ti strapazzare t.</E
+M>ti fidi t. di lui</E
+M>mi pare che costi troppo.</E
+M>cerca di non fare t. tardi</E
+M>ti lasci incantare t. facilmente</E
+M>chi t. in alto sal</E
+M> cade sovente precipitevolissimevolmente</E
+M>anche</E
+M>lo sai anche t. bene</E
+M>lo sai bene</E
+M> anche troppo</E
+M>non si può mangiare</E
+M> è t. crudo</E
+M>sei stato t. scortese con lui</E
+M>non bisogna essere t. creduli con certa gente!</E
+M>t. buono!</E
+M>t. gentile!</E
+M>sarei t. sciocco a dargli retta</E
+M>costa t. più che non valga</E
+M>spendi t. per quello che guadagni</E
+M>perché</E
+M>per</E
+M>corri t. perché io possa tenerti dietro</E
+M>il cammino è t. lungo da potersi fare tutto in un giorno</E
+M>è ancora t. debole per potersi alzare</E
+M>è t. furbo per non accettare</E
+M>don Gonzalo aveva ... troppo gran cose in testa</E
+M> per darsi tanto pensiero de&#8217; fatti di Renzo</E
+M>pur troppo</E
+M>molto</E
+M>assai</E
+M>sapete t. bene che così non può andare</E
+M>non ci sarebbe t. da stupirsi</E
+M>t. giusto!</E
+M>sarebbe t. bello!</E
+M>molto</E
+M>assai</E
+M>malizioso son io troppo</E
+M> Quand&#8217;io procuro a&#8217; mia</E
+M>ai miei</E
+M>maggior trestizia</E
+M>il cuoco</E
+M>... minuzzatolo e messevi di buone spezie assai</E
+M> ne fece un manicaretto t. buono</E
+M>non t.</E
+M>non mi sento t. bene</E
+M>se fossi in te</E
+M> non ne sarei t. sicuro</E
+M>c&#8217;è andato</E
+M> sì</E
+M> ma non t. volentieri</E
+M>Ti sei divertito?</E
+M>Non troppo</E
+M>allegro</E
+M>non troppo.</E
+M>hai messo troppa roba qui dentro</E
+M>non vorrei recarle troppo disturbo</E
+M>ha deciso con troppa precipitazione</E
+M>troppa grazia!</E
+M>t. grazia</E
+M> sant&#8217;Antonio!</E
+M>questa minestra è troppa per me!</E
+M>questo è troppo!</E
+M>non esco</E
+M> ho troppe cose da fare ancora</E
+M>ci sono troppe difficoltà</E
+M>le difficoltà da superare sono troppe</E
+M>di grattacapi ne ho avuti fin troppi</E
+M>c&#8217;è troppa gente</E
+M>andiamocene</E
+M>sono troppi quelli che vorrebbero guadagnare altrettanto!</E
+M>hai speso t.</E
+M>hai ancora t. da imparare</E
+M>mi pare di aver detto anche troppo</E
+M>sarebbe pretendere t. se ti chiedessi di lasciarmi in pace?</E
+M>Cesare fui e son Iustinïano</E
+M> Che</E
+M> per voler del primo amor ch&#8217;i&#8217; sento</E
+M> D&#8217;entro le leggi trassi il t. e &#8217;l vano</E
+M>il t. stroppia</E
+M>l&#8217;assai basta e il t. guasta</E
+M>tanto è il t. quanto il t. poco</E
+M>il t. e il poco guasta il gioco</E
+M>troppi la pensano come te</E
+M>siamo in troppi</E
+M> qui.</E
+M>de trop</E
+M>di troppo</E
+M>qui</E
+M> uno di noi due è di t.</E
+M>temo che questo sia di t. per te</E
+M>ho paura di aver detto qualche parola di troppo</E
+M>sua moglie è troppa superba</E
+M>l&#8217;altra</E
+M>vuol troppa D&#8217;arte e d&#8217;ingegno avanti che diserri</E
+M>da capo</E
+M> presa una gran pietra</E
+M> con troppi maggior colpi che prima fieramente cominciò a percuoter la porta</E

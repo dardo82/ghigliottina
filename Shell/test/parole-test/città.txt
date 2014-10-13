@@ -1,0 +1,4 @@
+città.txt
+*[[cittadella]], [[cittadino]], [[cittadinanza]], [[città-regione]] 
+*[[civico]], [[civile]]
+*italiano

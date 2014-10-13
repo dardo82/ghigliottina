@@ -1,0 +1,391 @@
+grande.txt
+"(essere) sulle spine, in grande agitazione"
+"a grande richiesta"
+"abbastanza grande"
+"abbraccione, grande abbraccio"
+"Alla grande"
+"alquanto grande, considerevole"
+"avere grande successo"
+"città più grande"
+"con grande attenzione"
+"con grande preoccupazione"
+"con grande scompiglio, confuso, disordinato"
+"di grande effetto"
+"di grande importanza"
+"di grande richiamo popolare"
+"di grande valore"
+"di taglia grande"
+"di taglia più grande"
+"diventare più grande"
+"essere grande"
+"estremamente grande; tremendo"
+"fare le cose in grande"
+"formato grande"
+"godere di grande apprezzamento"
+"grande"
+"grande"
+"grande"
+"grande"
+"grande"
+"grande"
+"grande"
+"grandezza, ciò che è grande"
+"grande"
+"grande"
+"grande abbondanza"
+"grande aiuto"
+"grande albero"
+"grande amico"
+"grande ammiraglio"
+"grande anima"
+"grande anno"
+"grande assente"
+"Grande Barriera Corallina"
+"grande caciara festosa"
+"Grande Capo"
+"grande capo"
+"grande cesto"
+"grande città"
+"grande così"
+"grande crisi"
+"grande dispiego di forze"
+"grande distribuzione"
+"grande distribuzione"
+"grande dorsale"
+"grande e grosso"
+"grande eccitazione"
+"grande edificio"
+"grande epoca; epoca d'oro"
+"grande fame"
+"grande famiglia"
+"grande fermento"
+"grande folla"
+"grande fratello"
+"grande gatto"
+"grande idea"
+"grande inquisitore"
+"grande magazzino"
+"grande magazzino; emporio"
+"grande onore"
+"grande opera"
+"grande passo"
+"grande potenza"
+"grande quantità"
+"grande quantità"
+"grande quantità"
+"grande quantità"
+"grande quantità di"
+"grande quantità di"
+"grande quanto la città"
+"Grande Raccordo Anulare"
+"grande realtà internazionale"
+"grande riguardo per qc, grande stima di qc, molta stima di qc"
+"grande rinuncia"
+"grande rispetto"
+"grande rispetto per"
+"grande russo"
+"grande sala da ballo"
+"grande schermo"
+"grande sigillo; sigillo ufficiale"
+"grande slam"
+"grande soddisfazione"
+"grande squalo bianco"
+"grande stima; considerazione"
+"grande stupore"
+"grande successo"
+"grande tazza"
+"grande valore"
+"grande valore"
+"grande vecchio"
+"grande veliero"
+"grande, importante"
+"grande\/grandioso"
+#* ''ho una casa molto 
+#* ''ho un terreno 
+*'' (di persona)'' [[robusto]], [[massiccio]], [[corpulento]]  
+* (che supera la dimensione ordinaria) [[grosso]] [[alto]]
+* (che ha una determinata grandezza) [[vasto]]
+*''(di persona)'' [[piccolo]], [[minuto]], [[esile]], [[mingherlino]] 
+*[[grandemente]], [[grandato]]
+*italiano
+*francese
+*spagnolo
+M>grandis</E
+M>con grand’impegno</E
+M>una grand’emozione</E
+M>gran</E
+M>un gran fuoco</E
+M>una gran pazienza</E
+M>un gran spavento</E
+M>una gran zazzera</E
+M>buono</E
+M>santo</E
+M>un gran dolore</E
+M>un grande dolore</E
+M>un dolore grande</E
+M>un grand’uomo</E
+M>un uomo grande</E
+M>giusto</E
+M>ordinario</E
+M>piccolo</E
+M>un gran monte</E
+M>un gran lago</E
+M>una grande città</E
+M>una grande superficie</E
+M>dei gran possedimenti</E
+M>Vidi genti a la riva d’un gran fiume</E
+M>un grandissimo palazzo</E
+M>un gran salone</E
+M>due grandi casse</E
+M>un grande abisso</E
+M>tra me e voi c’è un grande abisso</E
+M>un gran cane</E
+M>un gran somaro</E
+M>piedi grandi</E
+M>mani assai grandi</E
+M>una gran barba</E
+M>due grandi occhi neri</E
+M>una gran testa</E
+M>avere gli occhi più grandi del ventre</E
+M>di gran passo</E
+M>dare grande sviluppo</E
+M>in grande stile</E
+M>un uomo grande</E
+M>un uomo grande e grosso</E
+M>un giovanottone grande e robusto</E
+M>era grande come un gigante</E
+M>grande di statura</E
+M>grande della persona</E
+M>Chi è quel grande che non par che curi Lo ’ncendio</E
+M>come ti sei fatto grande!</E
+M>da grande voglio fare l’aviatore</E
+M>sono cose che capirai quando sarai più grande</E
+M>letture</E
+M>spettacoli</E
+M>divertimenti per grandi</E
+M>parla</E
+M>ragiona</E
+M>si comporta come un grande</E
+M>sono i grandi che debbono dare il buon esempio</E
+M>grandi</E
+M>la camerata dei grandi</E
+M>delle grandi</E
+M>lungo</E
+M>al popol tutto Favola fui gran tempo</E
+M>le notti eran grandi e ella nolle poteva dormir tutte</E
+M>fece una gran pausa</E
+M>fare una gran passeggiata</E
+M>un gran viaggio</E
+M>avanzare a grandi</E
+M>a grandissime giornate</E
+M>un gran numero di spettatori</E
+M>gran parte dei presenti</E
+M>c’era gran folla</E
+M>possedere un gran patrimonio</E
+M>lasciare gran debiti</E
+M>gran fama di sé</E
+M>fare un grande incasso</E
+M>grandi guadagni</E
+M>ha fatto una gran scorpacciata di fichi</E
+M>se ne dice un gran bene</E
+M>un gran male</E
+M>se ne fece un gran dire</E
+M>un gran parlare</E
+M>s’è fatto un gran ridere</E
+M>si sentiva un gran correre</E
+M>ci vogliono di gran quattrini</E
+M>s’è sciupato di gran roba</E
+M>Agnese specialmente faceva di gran chiacchiere con la padrona</E
+M>Grande Armata</E
+M>gran guardia</E
+M>grande unità</E
+M>un gran pranzo</E
+M>un gran ballo</E
+M>un gran ricevimento</E
+M>gran veglione mascherato</E
+M>avere grand’ingegno</E
+M>una gran mente</E
+M>del gran talento</E
+M>è capace di grandi sentimenti</E
+M>ha un gran cuore</E
+M>gran rumore</E
+M>gran confusione</E
+M>gran silenzio</E
+M>una gran luce</E
+M>un grand’urlo</E
+M>accogliere con grandi applausi</E
+M>con gran fischi</E
+M>gridare a gran voce</E
+M>scoppiare in un gran pianto</E
+M>esser di grande aiuto</E
+M>essere in gran faccende</E
+M>avrei una gran voglia di dirgliene quattro</E
+M>avere gran fame</E
+M>gran sete</E
+M>gran sonno</E
+M>con gran piacere</E
+M>con gran zelo</E
+M>con gran rabbia</E
+M>gli voleva un gran bene</E
+M>ci vuole una gran pazienza</E
+M>andare</E
+M>fuggire di gran carriera</E
+M>si scatenò un gran temporale</E
+M>tirava un gran vento</E
+M>grand’inverno</E
+M>grand’estate</E
+M>spighe</E
+M>Le quai soglion servar sotto i suoi tetti Nel più gran verno</E
+M>incontrare grandi ostacoli</E
+M>essere in un grand’impiccio</E
+M>stare in gran pensiero</E
+M>provare un gran dolore</E
+M>un grande spavento</E
+M>sarebbe un gran peccato</E
+M>ho subìto un grande danno</E
+M>è stata per noi una gran perdita</E
+M>si deve fare una gran salita</E
+M>una grande invenzione</E
+M>le grandi scoperte geografiche</E
+M>Canto l’armi pietose e ’ l capitano Che ’ l gran sepolcro liberò di Cristo</E
+M>grande strategia</E
+M>grande industria</E
+M>una grande azienda</E
+M>grande emporio</E
+M>grandi magazzini</E
+M>il gran giorno</E
+M>il gran dì</E
+M>arrivò alfine il gran giorno</E
+M>La vesta ch’al gran dì sarà sì chiara</E
+M>un grande poema</E
+M>i più grandi monumenti dell’antichità</E
+M>G. guerra</E
+M>gran cosa</E
+M>gran che</E
+M>quel quadro è veramente una gran cosa</E
+M>si crede un gran che</E
+M>lo spettacolo non m’è parso gran cosa</E
+M>questa minestra non è un gran che</E
+M>un gran poeta</E
+M>un grande poeta</E
+M>un grande pittore</E
+M>un gran capitano</E
+M>un gran medico</E
+M>un grand’attore</E
+M>fu uno degli uomini più grandi del suo tempo</E
+M>il grande Augusto</E
+M>il grande Leonardo</E
+M>la grande Caterina di Russia</E
+M>un gran popolo</E
+M>una grande nazione</E
+M>una grande potenza</E
+M>le grandi potenze</E
+M>Donna</E
+M>se’ tanto grande e tanto vali</E
+M>Dio solo è grande</E
+M>Dio è grande</E
+M>gran Dio!</E
+M>Dio grande!</E
+M>un grand’uomo</E
+M>un gran maestro</E
+M>far grande</E
+M>fece grande il suo nome</E
+M>la sua famiglia</E
+M>Alessandro il Grande</E
+M>Federico il Grande</E
+M>Magno</E
+M>seguire l’esempio dei grandi</E
+M>riferire le parole di un grande</E
+M>i grandi sdegnano le miserie umane</E
+M>quel grande</E
+M>Che temprando lo scettro a’ regnatori</E
+M>Gli allor ne sfronda</E
+M>un gran personaggio</E
+M>una gran dama</E
+M>persona di grande casato</E
+M>il gran mondo</E
+M>gran ciambellano</E
+M>gran cancelliere</E
+M>gran siniscalco</E
+M>gran maestro</E
+M>cavaliere di gran croce</E
+M>gran croce</E
+M>grand’ammiraglio</E
+M>i grandi della terra</E
+M>inchinarsi ai grandi</E
+M>non tutti i grandi del mondo si servono dei doni di Dio a gloria sua</E
+M>e in vantaggio del prossimo</E
+M>fare il grande</E
+M>i quattro grandi</E
+M>the big four</E
+M>i tre grandi</E
+M>the big three</E
+M>i grandi</E
+M>per l’operazioni de’ cittadini grandi e popolani grassi</E
+M>Grande di Spagna</E
+M>un grand’imbroglione</E
+M>un gran giocatore</E
+M>un gran ladro</E
+M>un gran bugiardo</E
+M>un gran minchione</E
+M>è un gran chiacchierone</E
+M>sei proprio una gran bestia</E
+M>è una gran bellezza</E
+M>non c’è che dire</E
+M>è un gran brav’uomo</E
+M>è una gran bella signora</E
+M>ha una gran bella voce</E
+M>è stata una gran brutta sorpresa</E
+M>sei un gran ragazzaccio</E
+M>un gran golosone</E
+M>si prepara un gran tempaccio</E
+M>una «m» grande</E
+M>una «i» grande</E
+M>nel salotto grande</E
+M>messa grande</E
+M>messa piana</E
+M>spedizioni a grande velocità</E
+M>muscolo grande dentato</E
+M>muscolo grande obliquo</E
+M>nervo grande petroso</E
+M>Grandi Russi</E
+M>il Gran San Bernardo</E
+M>il Grande Oceano</E
+M>il Canal Grande</E
+M>Gran Bretagna</E
+M>il Gran Sasso</E
+M>grande</E
+M>quanto è grande la sala?</E
+M>non so quanto sia grande la distanza</E
+M>la mia esperienza è più grande della tua</E
+M>un tappeto grande 20 m</E
+M>spettacolo che ha del grande</E
+M>il grande nell’arte</E
+M>In grande</E
+M>eseguire</E
+M>riprodurre in grande</E
+M>comprare</E
+M>negoziare</E
+M>commerciare</E
+M>coltivare in grande</E
+M>ritratto</E
+M>disegno</E
+M>modello in grande</E
+M>guardare le cose in grande</E
+M>Alla grande</E
+M>vivere alla g</E
+M>per le nozze della figlia hanno voluto fare le cose alla g.</E
+M>vincere alla g</E
+M>era contento. La vita gli stava andando alla grande. Era un manager efficiente</E
+M>più grande</E
+M>grandissimo</E
+M>maggiore</E
+M>massimo</E
+M>subito dopo lui</E
+M>venivano i fanciulli più grandini</E
+M>fare il grandone</E
+M>la grandona</E
+M>apprezzare</E
+M>stimare grandemente</E
+M>m’importa grandemente</E
+M>la notizia mi ha grandemente addolorato</E

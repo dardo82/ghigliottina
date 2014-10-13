@@ -1,0 +1,431 @@
+lavoro.txt
+"abbigliamento da lavoro"
+"abiti da lavoro"
+"accettare un lavoro"
+"al lavoro"
+"al lavoro"
+"al lavoro"
+"ambiente di lavoro"
+"andamento del lavoro"
+"aspettativa dal lavoro"
+"assegnare un lavoro"
+"assegnazione di lavoro"
+"assente dal lavoro"
+"assicurazione contro gli infortuni sul lavoro"
+"attrezzi di lavoro"
+"avere un lavoro"
+"banco da lavoro"
+"ben fatto, bel lavoro"
+"borsino di lavoro"
+"brutto lavoro"
+"buon lavoro, bel lavoro, ottimo lavoro"
+"calze da lavoro"
+"cambiare posto o lavoro"
+"camminare senza meta in cerca di cibo e lavoro"
+"campo di lavoro"
+"campo di lavoro (per detenuti)"
+"campo di lavoro forzato"
+"cantiere di lavoro"
+"carico di lavoro"
+"carico di lavoro"
+"carico di lavoro"
+"cavallo da lavoro"
+"cena di lavoro"
+"cestino da lavoro"
+"cestino da lavoro"
+"collega di lavoro"
+"come lavoro extra"
+"compagno di lavoro"
+"complimenti per il lavoro svolto"
+"con poco lavoro"
+"conservare; mantenere un lavoro"
+"consulente del lavoro"
+"continuare un lavoro lasciato a metà"
+"contratto collettivo di lavoro"
+"contratto di lavoro"
+"contratto di lavoro"
+"costi del lavoro"
+"costi del lavoro"
+"costo del lavoro indiretto"
+"dar lavoro"
+"dare inizio a qualcosa; cominciare un nuovo lavoro"
+"dare lavoro; fornire un lavoro a qcn."
+"datore di lavoro"
+"datore di lavoro"
+"datore di lavoro"
+"divida da lavoro"
+"divisione del lavoro"
+"documenti di lavoro"
+"durante il lavoro"
+"duro (di lavoro)"
+"eccedere nel lavoro"
+"eccesso di lavoro"
+"esperienza di lavoro"
+"etica del lavoro"
+"fare domanda per un lavoro"
+"fare il lavoro"
+"fare il lavoro sporco"
+"farsi esperienza in qcs, apprendere le basi di un lavoro"
+"Festa del Lavoro"
+"finire il lavoro di un altro"
+"flusso di lavoro"
+"formazione sul posto di lavoro"
+"forza lavoro"
+"forza lavoro"
+"forza lavoro"
+"forza lavoro"
+"forza lavoro"
+"forza lavoro"
+"funzione lavoro"
+"garanzia del posto di lavoro"
+"giornale di annunci di lavoro"
+"grazie a un lavoro di generazioni"
+"grazie e buon lavoro"
+"gruppo di lavoro"
+"gruppo di lavoro agricolo"
+"igiene sul lavoro"
+"impegni sul lavoro"
+"in arretrato con il lavoro"
+"incarico di lavoro"
+"indumento da lavoro"
+"ipotesi di lavoro"
+"lavoro"
+"lavoro"
+"lavoro"
+"lavoro"
+"frutto del lavoro, opera"
+"lavoro"
+"lavoro"
+"lavoro"
+"lavoro"
+"lavoro a basso costo"
+"lavoro a commessa"
+#* ''[[svuotare]] la [[cantina]] sarà un [[duro]] '''lavoro'''''
+#* ''ho [[pulito]] l'[[auto]], guarda che [[bel]] '''lavoro'''
+#* ''se mi [[licenziano]] troverò un nuovo '''lavoro'''''
+#* ''anche se ero in [[ferie]] sono andato al '''lavoro''' a [[trovare]] i [[colleghi]]
+* (''sostantivo'') dal [[latino]] ''[[labor]]''
+* (''voce verbale'') dal [[latino]] ''[[labōrare]]'', che deriva da ''[[labor]]'' ossia "[[fatica]]"
+* [[attività]], [[compito]], [[impegno]], [[faccenda]], [[operazione]], [[responsabilità]], [[incarico]], [[funzione]], [[mansione]]
+*[[occupazione]], [[professione]], [[impiego]], [[mestiere]], [[servizio]], [[prestazione]]
+* [[opera]], elaborazione; opera d’arte
+*[[prodotto]], [[oggetto]], [[articolo]], [[manufatto]], [[risultato]]
+*(di agenti atmosferici, acque) [[azione]], [[lavorio]]
+*(solo singolare) classe lavoratrice, [[lavoratori]]
+*[[produzione]]
+*[[riposo]], [[pigrizia]], [[inattività]], [[ozio]]
+*[[hobby]], [[passatempo]], [[divertimento]], [[svago]], [[festa]]
+*[[disoccupazione]], [[pensione]]
+*[[lavorare]], [[lavoratore]], [[telelavoro]]
+:*[[emiliano]] [[lavôr]]
+:*[[pugliese]] [[fatig]]
+:*[[romagnolo]] [[lavurir]]
+*Enciclopedia [http
+M>il l</E
+M>dell’uomo</E
+M>dei buoi</E
+M>di un cavallo</E
+M>di una macchina</E
+M> del computer</E
+M>muscolare</E
+M>il l</E
+M>manuale</E
+M>il l</E
+M>intellettuale</E
+M>i frutti del l</E
+M>la gioia</E
+M>la soddisfazione del l</E
+M>essere abile</E
+M>inabile al l</E
+M>amare il l</E
+M>per sé stesso</E
+M>l’Italia è una Repubblica democratica</E
+M>fondata sul l</E
+M>incominciare</E
+M>intraprendere</E
+M>abbandonare</E
+M>smettere</E
+M>riprendere</E
+M>terminare un l</E
+M>assumersi un l</E
+M>dei l</E
+M>mettersi</E
+M>essere al l</E
+M>(mi alzo ogni mattina alle 6</E
+M> e alle 7 sono già al l</E
+M>dedicarsi</E
+M>consacrarsi al l</E
+M>a un l</E
+M>essere attaccato al proprio l</E
+M>essere avanti</E
+M>indietro</E
+M>a buon punto col l</E
+M>avere un monte</E
+M> un mare</E
+M> di l</E
+M>arretrato</E
+M>opera</E
+M>ricostruzione che richiede molti anni di l</E
+M>è un’invenzione che è costata lunghissimi anni di l</E
+M>essere pieno</E
+M>carico</E
+M>sovraccarico di l.</E
+M>avere poco</E
+M>molto l</E
+M>un l</E
+M>piacevole</E
+M>ingrato</E
+M>facile</E
+M>difficile</E
+M>faticoso</E
+M>pesante</E
+M>continuo</E
+M>un l</E
+M>di pazienza</E
+M>di precisione</E
+M>di responsabilità</E
+M>di mano</E
+M>di braccia</E
+M>di forza</E
+M>di mente</E
+M>d’intelligenza</E
+M>di concetto</E
+M>meccanico</E
+M>umile</E
+M>servile</E
+M>di scalpello</E
+M>di muratura</E
+M>il l</E
+M>dei campi</E
+M>il l</E
+M>delle fabbriche</E
+M>delle officine</E
+M> delle ditte</E
+M> delle aziende</E
+M>femminili</E
+M>d’ago</E
+M>di cucito</E
+M>di ricamo</E
+M>a maglia</E
+M>domestici</E
+M>individuale</E
+M>collettivo</E
+M>di squadra</E
+M>d’équipe</E
+M>lavoro a squadre</E
+M>di gruppo</E
+M>utile</E
+M>inutile</E
+M>produttivo</E
+M>improduttivo</E
+M>idraulici</E
+M>di arginatura</E
+M>di bonifica</E
+M>di difesa</E
+M>i l</E
+M>del porto</E
+M>pubblici</E
+M>l. di mina</E
+M>l. in terra</E
+M>dare inizio ai l</E
+M>per l’apertura di una galleria</E
+M>strada chiusa al traffico per lavori in corso</E
+M>sospendere</E
+M>abbandonare i lavori</E
+M>durante il l</E
+M>non voglio essere disturbato</E
+M>andare al l</E
+M>essere al l</E
+M>uscire dal l</E
+M>tornare</E
+M>venire via dal l</E
+M>abbandonare il l</E
+M>essere assente dal lavoro</E
+M>ipotesi di lavoro</E
+M>working hypothesis</E
+M>working idea</E
+M>vivere del</E
+M>con il</E
+M>proprio l</E
+M>non ha altra fonte di reddito che il proprio l</E
+M>chiedere</E
+M>cercare</E
+M>trovare l</E
+M>avere</E
+M>non avere lavoro</E
+M>un l</E
+M>incidente</E
+M>infortunio sul l</E
+M>essere</E
+M>restare senza l</E
+M>perdere il l</E
+M>procurare</E
+M>promettere</E
+M>offrire un l</E
+M>dare l</E
+M>a qualcuno</E
+M>domanda di l</E
+M>datore di l</E
+M>offerta di l</E
+M>prestatore di l</E
+M>domanda di l</E
+M>offerta</E
+M>mercato del l</E
+M>autonomo</E
+M>subordinato</E
+M>dipendente</E
+M>l. parasubordinato</E
+M>a giornata</E
+M>a cottimo</E
+M>a ore</E
+M>l. a tempo pieno</E
+M>a tempo parziale</E
+M>a mezzo-tempo</E
+M>l. full time</E
+M>part time</E
+M>fisso</E
+M>continuativo</E
+M>l. temporaneo</E
+M> occasionale</E
+M> a termine</E
+M> saltuario</E
+M>precario</E
+M>l. atipico</E
+M>a progetto</E
+M>socialmente utile</E
+M>di pubblica utilità</E
+M>l. a distanza</E
+M>l. interinale</E
+M>in affitto</E
+M>l. a chiamata</E
+M>intermittente</E
+M>a domicilio</E
+M>notturno</E
+M>straordinario</E
+M>lo straordinario</E
+M>secondo l</E
+M>avere un doppio l</E
+M>minorile</E
+M>nero</E
+M>travail noir</E
+M>Schwarzarbeit</E
+M>sommerso</E
+M>alienato</E
+M>l’organizzazione del l</E
+M>divisione del l</E
+M>il fattore l</E
+M>salariato</E
+M>il costo del l</E
+M>contratto di l</E
+M>rapporto di l</E
+M>contratto collettivo di l</E
+M>mobilità del l</E
+M>controversie</E
+M>individuali</E
+M>collettive</E
+M>del l</E
+M>diritto del l</E
+M>legislazione</E
+M>codice</E
+M>magistratura del l</E
+M>giudice del l</E
+M>Camera del l</E
+M>medicina del l</E
+M>Cavaliere del l</E
+M>Carta del l</E
+M>la lotta tra capitale e lavoro</E
+M>festa del l</E
+M>forza</E
+M>lavoro</E
+M>prendere parte ai l</E
+M>della giuria</E
+M>l’inizio dei l</E
+M>della Commissione</E
+M>la Camera ha ripreso i suoi l</E
+M>la ripresa dei l</E
+M>parlamentari</E
+M>i l</E
+M>preparatorî nell’elaborazione di una legge</E
+M>aereo</E
+M>forzati</E
+M>case di l</E
+M>campi di l</E
+M>lavoro</E
+M>giorno di l</E
+M>stanza</E
+M>tavolo</E
+M>tavolino da l</E
+M>posto</E
+M>luogo di l</E
+M>legname da l</E
+M>ferri da l</E
+M>bestie da l</E
+M>essere una bestia</E
+M>un animale</E
+M>un bue</E
+M>da l</E
+M>riprendere in mano</E
+M>posare il l</E
+M>alzare la testa dal l</E
+M>portare a termine il l</E
+M>lasciare il l</E
+M>incompiuto</E
+M>a metà</E
+M>è così stanco che s’addormenta spesso sul l</E
+M>consegnare il l</E
+M>a l</E
+M>finito</E
+M>pubblici</E
+M>la sarta ha riportato il l</E
+M>consegnare</E
+M>ritirare un l</E
+M>esposizione degli ultimi l</E
+M>un pregevole autore di l</E
+M>drammatici</E
+M>un l</E
+M>in legno</E
+M>in pietra</E
+M>in muratura</E
+M>un l</E
+M>d’intarsio</E
+M>di mosaico</E
+M>di cesello</E
+M>un bel l</E
+M>hai fatto un ottimo l</E
+M>un l</E
+M>perfetto</E
+M>di squisita fattura</E
+M>mediocre</E
+M>rozzo</E
+M>grossolano</E
+M>tirato via</E
+M>resistente</E
+M>di lunga durata</E
+M>è un l</E
+M>originale</E
+M>d’ispirazione</E
+M>di erudizione</E
+M>di compilazione</E
+M>sono l</E
+M>che non mi piacciono troppo</E
+M>m’hai fatto davvero un bel lavoro!</E
+M>il l</E
+M>delle acque</E
+M>dei venti</E
+M>il lento l</E
+M>dei secoli</E
+M>di una forza</E
+M>elementare</E
+M>della forza</E
+M>delle forze</E
+M>del campo</E
+M>elettrico</E
+M>delle forze del campo elettrico</E
+M>motore</E
+M>resistente</E
+M>di attrito</E
+M>lavoro</E
+M>quantità di calore</E
+M>elementare</E
+M>virtuale</E
+M>molto interessante questa commedia: un lavorone!</E

@@ -1,0 +1,364 @@
+molto.txt
+"a pensar male si fa peccato, ma molto spesso ci si azzecca"
+"a strisce molto fini"
+"a strisce molto fini"
+"ancora per molto tempo."
+"avere molto a che fare con"
+"avere molto da dire su"
+"avere molto da fare"
+"averne ancora per molto"
+"bere molto"
+"bevanda molto alcolica"
+"bevanda molto forte"
+"che consuma molto"
+"che dura da molto tempo"
+"che parla molto e fa poco"
+"che porta via molto tempo"
+"che viaggia molto"
+"con molto entusiasmo"
+"con molto fogliame"
+"con molto sforzo"
+"con poco si può fare molto"
+"consumare molto"
+"consumare molto di"
+"da molto tempo"
+"donna molto bella"
+"e molto di più"
+"eccitarsi; agitarsi molto per qcs."
+"essere molto affezionato"
+"essere molto capace"
+"essere molto qcs."
+"essere un posto molto ambito"
+"fa molto natale"
+"fare molto di"
+"fare molto esercizio fisico"
+"grilletto molto sensibile"
+"guardare molto attentamente"
+"largamente, molto"
+"lasciare molto a desiderare"
+"mi piace molto l'idea"
+"molto"
+"molto"
+"molto"
+"molto"
+"molto"
+"molto"
+"molto"
+"molto a desiderare"
+"molto acclamato"
+"molto adatto"
+"molto affollato"
+"molto al di sopra"
+"molto altro ancora"
+"molto amato"
+"molto amato, molto caro"
+"molto ammirato"
+"molto animato"
+"molto attivo"
+"molto avanti"
+"molto bello"
+"molto ben documentato, molto ben preparato, molto competente"
+"molto bene"
+"molto bene"
+"molto bravo"
+"molto brutto"
+"molto caldo"
+"molto carico"
+"molto carino"
+"molto contento"
+"molto corto"
+"molto corto"
+"molto da dire"
+"molto da dire a proposito"
+"molto da fare"
+"molto da fare"
+"molto da fare con, un sacco da fare con, un mucchio da fare con"
+"molto da vicino"
+"molto debole"
+"molto di moda"
+"molto diffuso"
+"molto diffuso"
+"molto discusso"
+"molto diverso da"
+"molto esperto, molto competente, molto capace"
+"molto felice"
+"molto forte, potente"
+"molto gioioso"
+"molto grande"
+"molto grande,tremendo"
+"molto grande,tremendo"
+"molto improbabile"
+"molto improbabile"
+"molto in basso"
+"molto intensamente"
+"molto intenso"
+"molto intenso"
+"molto larga"
+"molto letto"
+"molto lodato"
+"molto lontano"
+"molto lontano"
+"molto lontano"
+#*''ci sono '''molti''' libri sullo scaffale''
+#* ''mi [[piace]] '''molto''' questo [[film]]''
+#* ''fa '''molto''' [[freddo]]''
+#*'' c'è molto di falso in quello che affermi''
+* [[tanto]], [[numeroso]], [[parecchio]], [[grande]], [[abbondante]], [[forte]], [[intenso]],[[grandemente]], [[assai]], [[alquanto]], [[notevolmente]],[[ oltremodo]], [[abbondantemente]]
+*[[poco]], a malapena, a stento, brevemente, per poco
+M>ltus</E
+M>ltum</E
+M>poco</E
+M>è avanzato m</E
+M>pane</E
+M>abbiamo raccolto m</E
+M>grano</E
+M>è caduta m</E
+M>neve</E
+M>fumo e poco arrosto</E
+M>persone</E
+M>insetti</E
+M>difficoltà</E
+M>ha guadagnato m</E
+M>soldi</E
+M>ha m</E
+M>difetti</E
+M>te l’ho detto m</E
+M>volte</E
+M>per m</E
+M>anni!</E
+M>c’era m</E
+M>gente</E
+M>non c’è m</E
+M>pubblico</E
+M>tirava m</E
+M>vento</E
+M>qui fa m</E
+M>caldo</E
+M>lo ha curato con m</E
+M>amore</E
+M>occorre far m</E
+M>attenzione</E
+M>gli voglio m</E
+M>bene</E
+M>grande</E
+M>procedeva con m</E
+M>fretta</E
+M>ha m</E
+M>volontà</E
+M>uomo di m</E
+M>ingegno</E
+M>gli fu di m</E
+M>aiuto</E
+M>ne ho avuto m</E
+M>piacere</E
+M>casa arredata con m</E
+M>gusto</E
+M>ci vuole m</E
+M>pazienza</E
+M>lungo</E
+M>da m</E
+M>distanza</E
+M>per m</E
+M>tempo</E
+M>dopo m</E
+M>cercare</E
+M>affannarsi</E
+M>aspettare</E
+M>indugiare</E
+M>gridare</E
+M>già m</E
+M>notte andata n’era</E
+M>il guadagno non è m</E
+M>ma mi accontento</E
+M>Questa gente che preme a noi è molta</E
+M>molti sono i chiamati</E
+M>ma pochi gli eletti</E
+M>Matteo</E
+M>troppo</E
+M>troppi</E
+M>dieci euro al metro mi pare che siano molti</E
+M>trent’anni</E
+M>d’età</E
+M>sono molti per chi deve ancora cominciare</E
+M>credono che sia facile</E
+M>vorrebbero essere al suo posto</E
+M>furono m</E
+M>a opporsi</E
+M>siamo in molti a volerlo</E
+M>altri</E
+M>altri m</E
+M>I0 dico d’Aristotile e di Plato E di molt’altri</E
+M>molti di noi</E
+M>molti di loro</E
+M>molti fra i presenti</E
+M>sono molte a volerlo</E
+M>molte di noi</E
+M>tempo</E
+M>spazio</E
+M>denaro</E
+M>è m</E
+M>che non ho sue notizie</E
+M>non mi tratterrò m</E
+M>è da m</E
+M>che sei qui?</E
+M>or non è m</E
+M>non andò m</E
+M>né m</E
+M>andò che</E
+M>da Firenze a Prato non c’è m</E
+M>c’è m</E
+M>da qui alla piazza?</E
+M>ci corre m</E
+M>ci corre</E
+M>dall’uno all’altro</E
+M>ho speso m</E
+M>l’hai pagato m</E
+M>non possiede m</E
+M>mangia m</E
+M>beve m</E
+M>non ci vuol m</E
+M>a capire</E
+M>Molto egli oprò co ’l senno e con la mano</E
+M>c’è m</E
+M>da dire sul suo conto</E
+M>non ha saputo dirmi m</E
+M>sull’argomento</E
+M>ti sembra m</E
+M>ciò che hai fatto?</E
+M>è un uomo che sa m</E
+M>che legge m</E
+M>nel suo libro c’è m</E
+M>di buono</E
+M>per quante ricerche abbia fatto</E
+M>non ho trovato molto</E
+M>è già m</E
+M>se riuscirò a convincerlo</E
+M>a dir m</E
+M>ci saranno due chilometri</E
+M>a far m</E
+M>ne ricaverà un centinaio di euro</E
+M>da molto</E
+M>da poco</E
+M>dappoco</E
+M>tra gli uomini valorosi e da molto</E
+M>egli è per certo un de’ più</E
+M>tener da m</E
+M>credersi da m</E
+M>essere da m</E
+M>il vescovo</E
+M>come uomo che era da m</E
+M>si levò</E
+M>e andò verso costoro</E
+M>assai</E
+M>ho dovuto girare m</E
+M>prima di trovarlo</E
+M>abbiamo riso m</E
+M>mi piace m</E
+M>l’ho m</E
+M>gradito</E
+M>ci penso m</E
+M>è un libro m</E
+M>letto</E
+M>un’opera m</E
+M>ammirata</E
+M>è m</E
+M>giù di salute</E
+M>sei m</E
+M>in collera?</E
+M>sono stato m</E
+M>in pena</E
+M>in pensiero</E
+M>in ansia</E
+M>migliore</E
+M>maggiore</E
+M>superiore</E
+M>peggiore</E
+M>minore</E
+M>inferiore</E
+M>migliore di m</E
+M>maggiore di m</E
+M>più</E
+M>meno</E
+M>più bello</E
+M>più ricco</E
+M>meno bello</E
+M>meno ricco</E
+M>oggi sto m</E
+M>meglio</E
+M>prima</E
+M>dopo</E
+M>avanti</E
+M>indietro</E
+M>càpiti m</E
+M>a proposito</E
+M>mi alzo m</E
+M>di buon’ora</E
+M>buono</E
+M>grande</E
+M>bello</E
+M>brutto</E
+M>sei m</E
+M>strano</E
+M>sono m</E
+M>dolente</E
+M>devi stare m</E
+M>attento</E
+M>il m</E
+M>reverendo padre</E
+M>bene</E
+M>male</E
+M>brevemente</E
+M>volentieri</E
+M>è m</E
+M>signore</E
+M>è molto mamma</E
+M>Salvestro Brunelleschi</E
+M>piacevolissimo uomo</E
+M>diede cena a una brigata</E
+M>ho dormito m</E
+M>mi è m</E
+M>piaciuto</E
+M>l’umana specie inferma giacque Giù per secoli molti in grande errore</E
+M>Una lonza leggiera e presta molto</E
+M>è attraente m</E
+M>è pignola molto</E
+M>m’importa m</E
+M>ne so m</E
+M>io!</E
+M>non sei stato m</E
+M>gentile con lui</E
+M>non hai m</E
+M>fantasia</E
+M>a dire il vero</E
+M>non studia m</E
+M>sai bene che non ho m</E
+M>pazienza io!</E
+M>poco</E
+M>poco o molto</E
+M>molto o poco</E
+M>o poco o m</E
+M>qualche cosa è stato fatto</E
+M>o poco che sia</E
+M>un certo guadagno c’è</E
+M>né molto né poco</E
+M>ben si guardasse che a niuna cosa</E
+M>rispondesse né poco né m</E
+M>questo non c’entra né poco né m</E
+M>non ci tengo né m</E
+M>né poco</E
+M>è molta bella</E
+M>sono molte noiose</E
+M>di molto</E
+M>dimolto</E
+M>molto</E
+M>c’era dimolta folla</E
+M>ne so dimolto!</E
+M>moltissimo</E
+M>dopo molti e molti tentativi</E
+M>vicino Sorge un cipresso</E
+M>già molt’anni e molti In onor de la Dea serbato e colto</E
+M>mi raccomando molto molto</E
+M>m’è piaciuto molto</E
+M>ma molto</E
+M>Quella</E
+M>che giva ’ntorno era più molta</E

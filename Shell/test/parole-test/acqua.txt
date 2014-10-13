@@ -1,0 +1,386 @@
+acqua.txt
+"acqua"
+"acqua"
+"massa d'acqua"
+"acqua"
+"acqua a monte"
+"acqua alcalina"
+"acqua alimento"
+"acqua alla gola"
+"acqua alta"
+"acqua bassa"
+"acqua bollente"
+"acqua brillante\/tonica"
+"acqua calda"
+"acqua calda e fredda"
+"acqua cheta"
+"acqua cheta ..."
+"acqua corrente"
+"acqua dei piatti"
+"acqua del pozzo"
+"acqua della vita"
+"acqua di Colonia"
+"acqua di Colonia"
+"acqua di colonia"
+"acqua di cottura"
+"acqua di fiori d'arancio"
+"acqua di mare"
+"acqua di rose"
+"acqua di rubinetto"
+"acqua di sentina"
+"acqua distillata"
+"acqua dolce"
+"acqua dolce"
+"acqua dura"
+"acqua e sapone"
+"acqua e sapone"
+"acqua fredda"
+"acqua fresca"
+"acqua fresca"
+"acqua frizzante, acqua gassata"
+"acqua gasata"
+"acqua gassata"
+"acqua gassata"
+"acqua ghiacciata"
+"acqua ghiacciata"
+"acqua in bocca"
+"acqua marina"
+"acqua minerale"
+"acqua morbida, acqua dolce"
+"acqua povera di calcare"
+"acqua mossa"
+"acqua naturale"
+"acqua ossigenata"
+"acqua passata"
+"acqua per bambini che allevia il dolore di stomaco"
+"acqua per il bucato"
+"acqua pesante"
+"acqua piovana"
+"acqua potabile"
+"acqua precipitabile"
+"acqua profonda; grosse difficoltà"
+"acqua regia"
+"acqua salata"
+"acqua salata"
+"acqua salata"
+"acqua santa"
+"acqua sorgiva"
+"acqua sporca"
+"acqua stagnante"
+"acqua stagnante"
+"acqua tonica"
+"acqua tonica"
+"acqua-ammoniaca"
+"affogare in un bicchier d'acqua"
+"all'acqua di rose"
+"alleggerire la nave gettando il carico in acqua"
+"bacino d'acqua poco profonda"
+"bagno d'acqua"
+"basso livello dell'acqua"
+"bastone per cercare l'acqua"
+"bere acqua"
+"biscia d'acqua"
+"borsa dell'acqua calda"
+"brocca per l'acqua"
+"buco nell'acqua"
+"camera dell'acqua"
+"canale d'acqua"
+"canale d'acqua per il mulino"
+"canale d'acqua per il mulino"
+"capsula piena d'acqua"
+"caraffa per l'acqua"
+"castagna d'acqua"
+"che porta l'acqua"
+"ciclo dell'acqua"
+"come acqua"
+"come due gocce d'acqua"
+"come un pesce fuor d'acqua"
+"con acqua fredda"
+"conduttura principale dell'acqua"
+"conservazione dell'acqua"
+"contatore per acqua"
+"coperto d'acqua"
+"corso d'acqua"
+#* '''''acqua''' [[potabile]]''
+#* '''''acqua''' distillata''
+#* ''gli elementi fondamentali sono
+#* ''[[Cancro]], [[Scorpione]] e [[Pesci]] sono i [[segni]] d'acqua''
+#* ''abbiam preso tanta '''acqua'''''
+#* ''la [[classe]] non è '''acqua''''', ''il [[sangue]] non è '''acqua'''''
+#* '''''acqua''' di colonia''
+#* ''l''''acqua''' di Roma'', ''le '''acque''' del Veneto''
+#* ''la nostra [[squadra]] gareggia in '''acqua''' 4''
+#* ''numero d''''acqua'''''
+*[[H2O]]
+*[[mare]], [[oceano]], [[fiume]]
+*[[pioggia]], [[temporale]], [[acquazzone]], [[diluvio]], [[precipitazione]], [[rovescio]]
+*[[umore]]
+*[[limpidezza]], [[luminosità]], [[trasparenza]], [[lucentezza]], [[riflesso]]
+*[[acqua-aria]], [[acquacedrata]], [[acquaciclo]], [[acquacotta]], [[acquaforte]], [[acquafortista]], [[acquafragio]], [[acquagenico]], [[acquagym]], [[acquaio]],[[acquaiolo]], [[acquamanile]], [[acquamarina]], [[acquametria]], [[acquanauta]], [[acquapendente]], [[acquaplanista]], [[acquaplano]], [[acquaragia]], [[acquare]],[[acquarello]] , [[acquario]], [[acquariofilia]], [[acquariofilo]], [[acquariologia]],   [[acquasanta]], [[acquasantiera]], [[acquascivolo]], [[acquascooter]], [[acquastrino]], [[acquata]], [[acqua-terra]], [[acquaticità]], [[acquatico]], [[acquatile]], [[acquatinta]], [[acquavite]], [[acquazzone]], [[acquedotto]], [[acquemoto]], [[acqueo]],   [[acquitrino]], [[acquoso]], 
+*''
+*''
+*''
+*'' trasparente come l'
+:* [[gallo]]
+#* ''un fiaa d'
+#* ''è scià l'
+* ''pestà l'
+*[[iacqua]], [[jacqua]]
+*[[acquazzina]], [[acquazzuni]], [[acquignu]], [[gioggi]]
+*italiano
+*lombardo
+*siciliano
+M>aqua</E
+M>pura</E
+M>distillata</E
+M>naturali</E
+M>meteoriche</E
+M>piovana</E
+M>litosferiche</E
+M>dilavanti</E
+M>selvagge</E
+M>incanalate</E
+M>fluviali</E
+M>lacustri</E
+M>palustri</E
+M>continentali</E
+M>marine</E
+M>oceaniche</E
+M>freatiche</E
+M>di falda</E
+M>artesiane</E
+M>salienti</E
+M>fossili</E
+M>giovanili</E
+M>acque di sorgenti</E
+M>di vena</E
+M>termali</E
+M>passare le a</E
+M>minerali</E
+M>a. minerali medicamentose</E
+M> a. minerali da tavola</E
+M>solfate</E
+M>ferruginose</E
+M>salsoiodiche</E
+M>dolce</E
+M>salata</E
+M>acida</E
+M>neutra</E
+M>alcalina</E
+M>dolce</E
+M>molle</E
+M>dura</E
+M>durissima</E
+M>potabile</E
+M>non potabile</E
+M>chiare</E
+M>vive</E
+M>a. di scolo</E
+M>nere</E
+M>luride</E
+M>di rifiuto</E
+M>reflue</E
+M>industriali</E
+M>limpida</E
+M>chiara</E
+M>torbida</E
+M>sporca</E
+M>inquinata</E
+M>puro</E
+M>chiaro</E
+M>limpido</E
+M>trasparente come l’a</E
+M>fredda</E
+M>calda</E
+M>bollente</E
+M>bere un bicchiere d’a</E
+M>attingere a</E
+M>dal pozzo</E
+M>bagnare d’a</E
+M>lavare</E
+M>sciacquare in più acque</E
+M>giochi d’a</E
+M>santa</E
+M>benedetta</E
+M>l’a</E
+M>veniva giù a dirotto</E
+M>a orci</E
+M>a catinelle</E
+M>a secchie</E
+M>rovescio d’a</E
+M>scroscio d’a</E
+M>prender l’a</E
+M>Grandine grossa</E
+M>tinta e neve Per l’aere tenebroso si riversa</E
+M>la ruga della gente che è stata all’a</E
+M>e al sole per farsi la roba</E
+M>cielo a pecorelle</E
+M>a catinelle</E
+M>sott’a</E
+M>fame e sotto neve pane</E
+M>corso d’a</E
+M>stagnante</E
+M>morta</E
+M>a piè del Casentino Traversa un’a</E
+M>c’ha nome l’Archiano</E
+M>il filo dell’a</E
+M>contr’acqua</E
+M>una barchetta di pescatore</E
+M>che veniva adagio</E
+M>contr’a</E
+M>stanca</E
+M>buttarsi in a</E
+M>andare per a</E
+M>per ciò che da indi in là si va per a</E
+M>andare</E
+M>stare sott’a</E
+M>a fior d’a</E
+M>pelo dell’a</E
+M>specchio d’a</E
+M>linee d’a</E
+M>le a</E
+M>di un fiume</E
+M>di un lago</E
+M>del mare</E
+M>essere</E
+M>trovarsi</E
+M>navigare in cattive a</E
+M>Per correr migliori a</E
+M>alza le vele Omai la navicella del mio ingegno</E
+M>acque</E
+M>la flotta si è ancorata nelle a</E
+M>di Genova</E
+M>territoriali</E
+M>alte</E
+M>basse</E
+M>sesse</E
+M>alta</E
+M>pubbliche</E
+M>private</E
+M>regime delle a</E
+M>magistrato delle a</E
+M>acqua</E
+M>acqua Acetosa</E
+M>Alessandrina</E
+M>Claudia</E
+M>Felice</E
+M>Marcia</E
+M>Paola</E
+M>Vergine</E
+M>acqua</E
+M>del cocomero</E
+M>del cetriolo</E
+M>versamento d’a</E
+M>nel peritoneo</E
+M>acque</E
+M>perdita</E
+M>rottura</E
+M>delle a</E
+M>borsa delle a</E
+M>di malva</E
+M>d’orzo</E
+M>di tiglio</E
+M>di riso</E
+M>albuminosa</E
+M>borica</E
+M>celeste</E
+M>coobata</E
+M>vegetominerale</E
+M>di cloro</E
+M>di seltz</E
+M>distillate</E
+M>aromatiche</E
+M>di anice</E
+M>di arancio</E
+M>di menta</E
+M>idrolati</E
+M>lanfa</E
+M>nanfa</E
+M>acqualanfa</E
+M>acquananfa</E
+M>di Colonia</E
+M>cosmetica</E
+M>ossigenata</E
+M>madre</E
+M>pesante</E
+M>ammoniacale</E
+M>ragia</E
+M>regia</E
+M>di Javelle</E
+M>di Labarraque</E
+M>tofana</E
+M>forte</E
+M>tinta</E
+M>acqua</E
+M>del diamante</E
+M>di prima a</E
+M>di a</E
+M>purissima</E
+M>della più bell’a</E
+M>è un briccone della più bell’a</E
+M>di seconda</E
+M>di terza a</E
+M>della perla</E
+M>acqua</E
+M>fuoco</E
+M>acqua</E
+M>fuoco</E
+M>fochino</E
+M>fochetto</E
+M>cheta</E
+M>l’a</E
+M>cheta rovina i ponti</E
+M>in bocca!</E
+M>passata non macina più</E
+M>affogare in un bicchier d’a</E
+M>somigliarsi come due gocce d’a.</E
+M>andare in a</E
+M>il sangue m’è andato in a</E
+M>dallo spavento</E
+M>è come bere un bicchier d’a</E
+M>pestare l’a</E
+M>nel mortaio</E
+M>essere</E
+M>trovarsi</E
+M>con l’a</E
+M>alla gola</E
+M>aver l’a</E
+M>alla gola</E
+M>essere come un pesce fuor d’a</E
+M>fare a.</E
+M>la nave fa a</E
+M>da ogni parte</E
+M>fare a</E
+M>fare a</E
+M>spandere a</E
+M>fare un buco nell’a</E
+M>far venire</E
+M>sentirsi venir l’a</E
+M>in bocca</E
+M>acquolina</E
+M>friggere con l’a</E
+M>il sangue non è a</E
+M>la classe non è a.</E
+M>intorbidare le a</E
+M>l’a</E
+M>va al mare</E
+M>portar a</E
+M>al mare</E
+M>lavorare sott’a</E
+M>mettere a</E
+M>nel vino</E
+M>gettare a</E
+M>sul fuoco</E
+M>ogni a</E
+M>va alla china</E
+M>lasciare che l’a</E
+M>vada alla sua china</E
+M>lasciar correre l’a</E
+M>alla sua china</E
+M>stare</E
+M> mettere</E
+M> a pane e a.</E
+M>tirare l’a</E
+M>al proprio mulino</E
+M>Acqua alle corde</E
+M>alle funi</E

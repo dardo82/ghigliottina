@@ -1,0 +1,305 @@
+aria.txt
+"(essere) nell'aria"
+"ad aria calda"
+"all'aperto, all'aria aperta"
+"all'aria aperta"
+"all'aria aperta"
+"all'aria aperta"
+"all'aria aperta"
+"all'aria aperta"
+"all'aria aperta"
+"all'aria aperta"
+"all'aria aperta"
+"all'aria aperta"
+"aria"
+"aria"
+"aria"
+"aria assente"
+"aria calda; aria fritta"
+"aria compressa"
+"aria condizionata"
+"aria di casa"
+"aria di festa"
+"aria di libertà"
+"aria di mare"
+"aria fritta"
+"aria leggera"
+"aria liquida"
+"aria musicale"
+"aria nuova"
+"aria pesante"
+"aria secca"
+"aria-aria"
+"aria-superficie"
+"aria-terra"
+"auto ad aria compressa"
+"boccata d'aria"
+"bolla d'aria"
+"bombola d'aria compressa"
+"buttare per aria"
+"buttare qc all'aria"
+"cadere a gambe all'aria"
+"cambiare aria"
+"camera d'aria"
+"camera d'aria"
+"camera d'aria"
+"campare d'aria"
+"campato in aria"
+"capovolto, gambe all'aria"
+"capovolto; gambe all'aria"
+"carabina ad aria compressa"
+"castello in aria"
+"cavalleria dell'aria"
+"cella d'aria"
+"che respira aria"
+"chiusa d'aria"
+"clacson ad aria"
+"colpo d'aria"
+"compressore ad aria"
+"con aria di sfida"
+"con propulsione ad aria"
+"condotto d'aria"
+"condotto dell'aria"
+"corrente d'aria"
+"corrente d'aria"
+"corrente d'aria"
+"corrente d'aria"
+"corrente d'aria"
+"corrente d'aria calda"
+"d'aria"
+"dare aria alla bocca"
+"dell'aria umida"
+"della pressione d'aria"
+"di corrente d'aria calda"
+"di riscaldamento ad aria"
+"dispositivo d'aria condizionata"
+"embolia d'aria"
+"esporre qualcosa all'aria"
+"fare un castello per aria"
+"filtro dell'aria"
+"filtro dell'aria"
+"flusso d'aria"
+"freno ad aria compressa"
+"fucile ad aria compressa"
+"galleggiare in aria"
+"impianto per riscaldamento ad aria calda"
+"in disordine, all'aria, nei guai"
+"in linea d'aria"
+"in linea d'aria"
+"iniezione d'aria"
+"l'aria"
+"lama d'aria"
+"lanciare in aria una moneta"
+"leggero come l'aria"
+"linea d'aria"
+"massa d'aria"
+"media altezza, mezz'aria"
+"mettere l'aria condizionata"
+"modellare ad aria"
+"modellare ad aria"
+"modellato ad aria"
+"motore ad aria compressa"
+#* '''''aria''' pura, limpida''
+#* '''''aria''' aperta''
+#* ''cambiare l''''aria'''''
+#* ''non tira '''aria''' buona''
+#* ''ha un''''aria''' mite''
+#* ''un<nowiki>'</nowiki>'''aria''' della Traviata''
+#* '''''arie''' alte'', '''''arie''' basse''
+#* ''ora d<nowiki>'</nowiki>'''aria'''''
+#* ''segni d''''aria'''''
+#* ''via tutti, '''aria'''!''
+*[[atmosfera]], [[etere]]; [[clima]]
+*[[vento]], [[brezza]]
+*(nei motori a scoppio) [[starter]]
+*''Aria d'importanza diploma d'ignoranza''
+* ''colpo d’aria''
+*proverbi
+M>aëra</E
+M>aer aëris</E
+M>atmosferica</E
+M>compressa</E
+M>liquida</E
+M>pura</E
+M>sana</E
+M>buona</E
+M>aperta</E
+M>libera</E
+M>corrotta</E
+M>inquinata</E
+M>viziata</E
+M>cattiva</E
+M>malsana</E
+M>chiusa</E
+M>condizionata</E
+M>stagnante</E
+M>manca l’a</E
+M>in questa stanza</E
+M>rinnovare l’a</E
+M>dare a</E
+M>a un ambiente</E
+M>servitù d’a</E
+M>dare a</E
+M>a un vestito</E
+M>filo d’a</E
+M>c’era appena un filo d’a</E
+M>non c’è un filo d’a</E
+M>corrente d’a</E
+M>corrente</E
+M>riscontro</E
+M>c’è troppa corrente</E
+M>d’a</E
+M>qui</E
+M>non stare alla corrente d’a</E
+M>se sei sudato</E
+M>colpo d’a</E
+M>avere paura dell’a</E
+M>vivere</E
+M>stare all’a</E
+M>aperta</E
+M>prendere una boccata d’a</E
+M>ora d’a.</E
+M>campare d’a</E
+M>vivere d’a</E
+M>che non lo sappia neppure l’a</E
+M>noi ce n’andavamo via subito</E
+M>tutti insieme</E
+M>di nascosto</E
+M>lontano</E
+M>in luogo che né anche l’a</E
+M>non l’avrebbe saputo</E
+M>aria!</E
+M>vendere a</E
+M>fritta</E
+M>artica</E
+M>intermedia</E
+M>temperata</E
+M>tropicale</E
+M>subtropicale</E
+M>equatoriale</E
+M>fine</E
+M>leggera</E
+M>grave</E
+M>pesante</E
+M>calda</E
+M>tiepida</E
+M>fredda</E
+M>gelata</E
+M>c’è a</E
+M>di temporale</E
+M>stasera</E
+M>sul lago</E
+M>c’era a</E
+M>di burrasca</E
+M>di tempesta</E
+M>di mare</E
+M>di montagna</E
+M>mutare</E
+M>cambiare a</E
+M>qui non è</E
+M>non spira</E
+M>non tira</E
+M>buona per lui</E
+M>noi siamo amici del convento: e io ci sono stato in certi momenti che fuori non era troppo buon’a</E
+M>per me</E
+M>non mi pare sia a</E
+M>l’a</E
+M>s’era fatta pesante nel gruppo dei presenti</E
+M>e tutti si sentivano a disagio</E
+M>era felice di sentirsi di nuovo immerso nell’a</E
+M>avvolto dall’a</E
+M>di Parigi</E
+M>sollevarsi in a</E
+M>sparare in a</E
+M>guardare in a</E
+M>a mezz’a</E
+M>parole</E
+M>discorsi a mezz’a</E
+M>maresciallo dell’A</E
+M>le forze di terra</E
+M>di mare e dell’aria</E
+M>a.-a</E
+M>a.-terra</E
+M>terra-a</E
+M>camminare col naso in a</E
+M>stare</E
+M>mettersi</E
+M>sdraiarsi a pancia all’a</E
+M>mandare a pancia all’a.</E
+M>mandare all’a</E
+M>andare all’a</E
+M>buttare all’a.</E
+M>solo i cenci</E
+M>gli stracci</E
+M>vanno all’a</E
+M>fare</E
+M>fabbricare castelli in a</E
+M>c’è qualcosa in a</E
+M>per a</E
+M>è ancora in a</E
+M>discorsi</E
+M>parole campate in a</E
+M>parlare all’a</E
+M>capire</E
+M>intendere le cose per a</E
+M>a volo</E
+M>aperta</E
+M>plein</E
+M>air</E
+M>avere un’a</E
+M>mite</E
+M>benigna</E
+M>semplice</E
+M>burbera</E
+M>preoccupata</E
+M>melensa</E
+M>ironica</E
+M>stava là con una cert’aria!</E
+M>cos’è quest’a</E
+M>da funerale?</E
+M>a. di viso</E
+M>a. di testa</E
+M>dipinse a fresco</E
+M>una sant’Eufemia con bella e graziosa a</E
+M>di viso</E
+M>Avere l’a</E
+M>tuo zio ha l’a</E
+M>di un colonnello a riposo</E
+M>aveva l’a</E
+M>di aspettare qualcuno</E
+M>ha l’a</E
+M>di voler piovere</E
+M>ha l’a</E
+M>di un galantuomo</E
+M>di un buon figliuolo</E
+M>prendere</E
+M>darsi un’a</E
+M>si dà l’a</E
+M>di un grande artista</E
+M>darsi delle a</E
+M>prendere delle a</E
+M>intonò alcune strofette</E
+M>sull’a</E
+M>degli stornelli fiorentini</E
+M>suite</E
+M>recitativo</E
+M>di bravura</E
+M>Arie</E
+M>basse</E
+M>alte</E
+M>mezz’aria</E
+M>tirata d’a</E
+M>aria</E
+M>aria</E
+M>comando dell’a</E
+M>starter</E
+M>tirare l’a</E
+M>marciare con l’a</E
+M>tirata</E
+M>alcalina</E
+M>comburente</E
+M>infiammabile</E
+M>fossile</E
+M>aër</E
+M>Di tal strida e furore è l’aria pieno</E
+M>oggi in ufficio tira un’ariaccia</E
