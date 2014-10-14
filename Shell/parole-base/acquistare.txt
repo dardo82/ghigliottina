@@ -1,0 +1,93 @@
+acquistare.txt
+"acquistare"
+"acquistare"
+"acquistare"
+"acquistare da"
+"acquistare forza; rafforzarsi"
+"acquistare grossi quantitativi"
+"acquistare punti in un gioco"
+"acquistare una partecipazione"
+"acquistare velocità, guadagnare velocità, prendere velocità"
+"acquistare vigore"
+"età in cui è permesso acquistare alcolici"
+*[[comprare]], [[comperare]], [[acquisire]], [[procurarsi]], [[guadagnare]], [[ottenere]], [[impossessarsi]], [[procacciarsi]], [[impadronirsi]], [[prelevare]]
+*[[conseguire]], [[prendere]], [[raccogliere]]
+*[[migliorare]], [[progredire]], [[avanzare]], fare progressi, [[ingrandirsi]], [[espandersi]]
+*[[vendere]], [[cedere]]
+*[[peggiorare]], [[regredire]]
+*[[acquistartsi]], [[riacquistare]], [[acquistatore]]
+M>*acquis</E
+M> tare</E
+M>acquisitus</E
+M>acquir</E
+M>un fondo</E
+M>un oggetto</E
+M>un titolo</E
+M>un brevetto</E
+M>ricchezze acquistate con le proprie fatiche</E
+M>E qual è quei che volontieri acquista</E
+M>un orologio</E
+M>un cavallo</E
+M>una casa</E
+M>una tenuta</E
+M>due biglietti della lotteria</E
+M>all’ingrosso</E
+M>al minuto</E
+M>per poco prezzo</E
+M>a credito</E
+M>a contanti</E
+M>a rate, on-line, su Internet</E
+M>questi dominii</E
+M>acquistonsi o con le armi d’altri o con le proprie</E
+M>o per fortuna o per virtù</E
+M>Pampalona fu acquistata Dopo molte battaglie e molti omèi</E
+M>un certo benessere</E
+M>fama</E
+M>esperienza</E
+M>forza</E
+M>agilità</E
+M>pratica</E
+M>cognizione delle cose</E
+M>la stima</E
+M>la fiducia di qualcuno</E
+M>merito presso Dio</E
+M>un po’ di colorito</E
+M>qualche chilo di peso</E
+M>l’ombra che</E
+M>per sua difesa</E
+M>La gente con ingegno e arte acquista</E
+M>l’incendio acquistava sempre più vigore</E
+M>acquistarsi</E
+M>acquistarsi la benevolenza di qualcuno</E
+M>il favore del popolo</E
+M>il credito altrui</E
+M>acquistare biasimo</E
+M>acquistarsi cattiva fama</E
+M>D’ogne malizia</E
+M>ch’odio in cielo acquista</E
+M>Ingiuria è ’l fine</E
+M>terreno</E
+M>nella campagna elettorale egli acquistava sempre più terreno</E
+M>l’idea va acquistando terreno</E
+M>tempo</E
+M>altezza</E
+M>spazio</E
+M>in salute</E
+M>in bellezza</E
+M>con questa cura ho acquistato assai</E
+M>ha gran disposizione per il violino e acquista di giorno in giorno</E
+M>De’ remi facemmo ali al folle volo</E
+M>Sempre acquistando dal lato mancino</E
+M>Tanto</E
+M>salendo inverso l’erta</E
+M>acquista</E
+M>Che vede dove aperta era la grotta</E
+M>le sue opere gli acquistarono gran fama</E
+M>questo ti acquista merito agli occhi miei</E
+M>gli odori acquistano grazia alle pietanze</E
+M>il suon de’ miei gravi sospiri Ch’aquistan fede a la penosa vita</E
+M>roba bene</E
+M>male acquistata</E
+M>territorî</E
+M>sudditi acquistati</E
+M>parente acquistato</E

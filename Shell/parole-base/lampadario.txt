@@ -1,0 +1,9 @@
+lampadario.txt
+"lampadario"
+M>un l</E
+M>di ferro battuto</E
+M>di bronzo</E
+M>di ottone</E
+M>di legno intagliato</E
+M>un l</E
+M>a gocce</E

@@ -1,0 +1,14 @@
+pattinaggio.txt
+"di pattinaggio da ghiaccio"
+"pattinaggio"
+"pattinaggio a rotelle"
+"pattinaggio artistico"
+"pattinaggio su ghiaccio"
+"pattini per pattinaggio artistico"
+"pista da pattinaggio"
+"rivista su ghiaccio (pattinaggio artistico)"
+M>patinage</E
+M>patiner</E
+M>su ghiaccio</E
+M>p. di velocità</E
+M>p. artistico</E

@@ -1,0 +1,39 @@
+risorsa.txt
+"risorsa"
+"risorsa"
+"risorsa"
+"ultima risorsa"
+*[[ mezzo]], [[espediente]], [[accorgimento]], [[stratagemma]], [[rimedio]], [[possibilità]], [[ripiego]]
+*(di persona) [[qualità]], [[dote]], [[capacità]]
+*''(per fronteggiare un bisogno)''  [[potenzialità]], [[possibilità]],
+*''(intellettuale e simili)'' [[facoltà]]
+*[[svantaggio]], [[danno]], [[perdita]]
+M>ressource</E
+M>resurg</E
+M>economiche</E
+M>intellettuali</E
+M>risorse dell&#8217;ingegno</E
+M>della fantasia</E
+M>dell&#8217;immaginazione</E
+M>dell&#8217;esperienza</E
+M>del mestiere</E
+M>scarse</E
+M>abbondanti</E
+M>improvvise</E
+M>inaspettate</E
+M>naturali</E
+M>non naturali</E
+M>alimentari</E
+M>energetiche</E
+M>idriche</E
+M>minerarie</E
+M>trofiche</E
+M>risorse</E
+M>non gli rimane più alcuna r</E
+M>tutte le sue r</E
+M>consistono in quella piccola rendita</E
+M>è uomo pieno di risorse</E
+M>di molte r</E
+M>di infinite r</E
+M>è privo di risorse</E
+M>senza risorse</E

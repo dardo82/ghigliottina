@@ -1,0 +1,40 @@
+insegnante.txt
+"corpo insegnante"
+"corpo insegnante di un college"
+"insegnante"
+"insegnante"
+"insegnante abilitato"
+"insegnante assistente"
+"insegnante che va casa degli alunni malati"
+"insegnante d'arte"
+"insegnante di ruolo"
+"insegnante di sostegno"
+"insegnante madrelingua"
+"insegnante privato"
+"insegnante privato"
+"insegnante unico"
+"l'Insegnante"
+*[[docente]], [[professore]],[[maestro]] (elementare), [[pedagogo]], [[educatore]],[[precettore]], [[istitutore]], [[ istruttore]] 
+*[[alunno]], [[allievo]], [[studente]], [[scolaro]], [[discente]], [[discepolo]]
+*[[insegnare]], [[insegnamento]], [[insegnabile]], [[insegnativo]], [[insegnatore]]
+*italiano
+m>insegnare</e
+m>è un ottimo</e
+m>un&rsquo;ottima i</e
+m>la categoria degli insegnanti</e
+m> segno errori con la matita rossoblù svuotato d&rsquo;ogni passione pedagogica</e
+m> solo per dimostrarmi che sto facendo il mio dovere di i.</e
+m>elementare</e
+m>di scuola elementare</e
+m>medio</e
+m>di scuola media</e
+m>insegnante</e
+m>di educazione fisica</e
+m>di lettere</e
+m>di disegno</e
+m>privato</e
+m>il corpo i</e
+m>il personale i</e
+m>personale non i</e
+m>personale docente</e
+m>non docente</e

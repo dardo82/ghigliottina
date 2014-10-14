@@ -1,0 +1,13 @@
+etichetta.txt
+"con etichetta"
+"etichetta"
+"etichetta"
+"etichetta del bagaglio"
+"etichetta rossa"
+"etichetta sull'orecchio"
+"etichetta, targhetta autoadesiva"
+#*''C'era un '''etichetta''' sul barattolo''
+#*''L''''etichetta''' impone che si lascino passare prima le signore''
+*[[cartellino]], [[targhetta]], [[fascetta]], [[marchio]], [[adesivo]], [[marca]]
+*[[cerimoniale]], [[norma]], [[regola]], [[formalità]], [[consuetudine]]
+*[[correttezza]], [[garbo]], [[galateo]], buona educazione.

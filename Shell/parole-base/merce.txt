@@ -1,0 +1,72 @@
+merce.txt
+"accettare la consegna di una merce"
+"beni di contrabbando, merce di contrabbando"
+"consegna merce"
+"merce"
+"merce"
+"merce di scambio"
+"merce fuori moda"
+"merce in conto vendita"
+"merce in visione"
+"merce invendibile"
+"merce scaduta"
+"piazzare una merce sul mercato"
+"possesso di merce rubata"
+"reso merce"
+"ricevere merce rubata"
+"riconsegna merce"
+"physical object, trade, commerce"
+"physical object, trade, commerce"
+"svendita di merce danneggiata da un incendio"
+*[[bene]], [[prodotto]], [[articolo]], [[genere]], [[derrata]], [[mercanzia]] 
+*[[mercenario]]
+M>merx mercis</E
+M>buona</E
+M>pregiata</E
+M>cattiva</E
+M>scadente</E
+M>conservabile</E
+M>deperibile</E
+M>in perfetto stato di conservazione</E
+M>avariata</E
+M>nazionali</E
+M>estere</E
+M>di provenienza illecita</E
+M>di contrabbando</E
+M>un carico</E
+M>un lotto di m</E
+M>imballare</E
+M>spedire una m</E
+M>sequestrare una m</E
+M>luogo di provenienza di una merce</E
+M>di domanda</E
+M>di offerta</E
+M>di lusso</E
+M>povera</E
+M>leggera</E
+M>pesante</E
+M>flottante</E
+M>viaggiante</E
+M>generale</E
+M>a dogana</E
+M>a licenza</E
+M>ufficio merci</E
+M>borsa merci</E
+M>treno merci</E
+M>un merci</E
+M>vagone merci</E
+M>aereo m</E
+M>scalo m</E
+M>M.-moneta</E
+M>moneta</E
+M>lavoro</E
+M>sopraffina</E
+M>non è una m</E
+M>non sono m</E
+M>non è m</E
+M>comune</E
+M>qual segue lui</E
+M>com’el comanda</E
+M>Discerner puoi che buone merce carca</E
+M>Ella carca di ricca m</E
+M>onesta</E

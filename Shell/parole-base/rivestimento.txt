@@ -1,0 +1,46 @@
+rivestimento.txt
+"assicella per rivestimento di ambienti esterni"
+"materiale morbido per rivestimento"
+"mettere un rivestimento"
+"rivestimento"
+"rivestimento"
+"rivestimento a pannelli"
+"rivestimento a pannelli"
+"rivestimento extra"
+"rivestimento in legno"
+"rivestimento in rame"
+"rivestimento per pavimenti"
+"rivestimento protettivo"
+M>di strutture edilizie</E
+M>di opere stradali</E
+M>di pareti</E
+M>di strade</E
+M>di gallerie</E
+M>in ceramica di bagni e cucine</E
+M>della carrozzeria di autovetture</E
+M> dell&#8217;interno di aerei</E
+M>di vetture ferroviarie</E
+M>dei sedili</E
+M>dell&#8217;abitacolo</E
+M>inclusione</E
+M>interno</E
+M>esterno</E
+M>lapidei</E
+M>ceramici</E
+M>metallici</E
+M>plastici</E
+M>bituminosi</E
+M>termoisolanti</E
+M>fonoassorbenti</E
+M>impermeabilizzanti</E
+M>anticorrosivi</E
+M>del fasciame esterno</E
+M>dei ponti</E
+M>delle paratie</E
+M>ceroso</E
+M>peloso</E
+M>Tessuti di r</E
+M>tessuti di protezione</E
+M>tegumentali</E
+M>epitelî di r</E
+M> mezzo r</E

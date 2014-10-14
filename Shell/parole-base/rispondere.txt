@@ -1,0 +1,255 @@
+rispondere.txt
+"dover rispondere di"
+"in business correspondence: La prego di rispondere"
+"in business correspondence: Vi preghiamo di rispondere"
+"non rispondere delle proprie azioni"
+"rendere conto a qcn, rispondere a qcn"
+"rispondere"
+"rispondere"
+"rispondere"
+"rispondere"
+"rispondere"
+"rispondere a"
+"rispondere a"
+"rispondere a"
+"rispondere a"
+"rispondere a qualcuno"
+"rispondere a un terapia"
+"rispondere ad un invito"
+"rispondere ai requisiti"
+"rispondere di"
+"rispondere di"
+"rispondere in malo modo"
+"rispondere in negativo"
+"rispondere o superare le aspettative"
+"rispondere per le rime"
+"rispondere sì, rispondere di sì"
+"veloce a rispondere"
+#*'''''Rispose''' che non ne voleva sapere''
+* ''(a domanda, lettera, eccetera)'' dare risposta, [[replicare]]
+*''(a discorso, offesa, eccetera)'' [[ribattere]], [[controbattere]], [[reagire]], [[contestare]], [[obiettare]], [[confutare]]
+M>respond</E
+M>spond</E
+M>io rispóndo</E
+M>rispósi</E
+M>rispuòsi</E
+M>rispondésti</E
+M>rispóse</E
+M>rispuòse</E
+M>rispósto</E
+M>avere</E
+M>a voce</E
+M>per scritto</E
+M>per posta</E
+M>per lettera</E
+M>per e-mail</E
+M>con un telegramma</E
+M> con un sms</E
+M> tramite</E
+M>a mezzo di</E
+M>un intermediario</E
+M>asciutto asciutto</E
+M>secco secco</E
+M>brevemente</E
+M>evasivamente</E
+M>freddamente</E
+M>con</E
+M>due righe</E
+M>con</E
+M>due parole</E
+M>gli chiesi dove stava andando ma non mi rispose</E
+M>appena ricevuta la tua lettera ti ho risposto subito</E
+M>il domandare è lecito</E
+M>il r</E
+M>è cortesia</E
+M>essere incerto</E
+M>titubante</E
+M>deciso nel r</E
+M>al telefono</E
+M>al citofono</E
+M>a una domanda</E
+M>a un&#8217;interrogazione</E
+M>a un&#8217;interpellanza</E
+M>a una lettera</E
+M>a un invito</E
+M>a una sfida</E
+M>bene</E
+M>male</E
+M>a tono</E
+M>a proposito</E
+M>a sproposito</E
+M>positivamente</E
+M>negativamente</E
+M>con criterio</E
+M>con buone</E
+M>cattive ragioni</E
+M>con solide argomentazioni</E
+M>con un rifiuto</E
+M>con parole aspre</E
+M>con ingiurie</E
+M>con un esempio</E
+M>con un sì</E
+M>con un no</E
+M>ribattendo</E
+M>confutando</E
+M>chiarendo</E
+M>spiegando</E
+M>accettando</E
+M>gli risposi che non ero disposto ad aiutarlo</E
+M>mi ha risposto di stare tranquillo</E
+M>rispondi che non sono in casa</E
+M>di sì</E
+M>di no</E
+M>che sì</E
+M>che no</E
+M>del sì</E
+M>del no</E
+M>ciascuno rispose del no</E
+M>è un mese che gli ho scritto e ancora non ha risposto</E
+M>il candidato ha risposto bene</E
+M>male</E
+M>molto</E
+M>poco</E
+M>a tutte le domande</E
+M>a tutto</E
+M>&#171;Stasera non posso&#187; rispose Giovanni</E
+M>che cosa ti ha risposto?</E
+M>proprio questo mi ha risposto</E
+M>un sì</E
+M>un no</E
+M>due righe</E
+M>due parole</E
+M>E ella avrebbe a me forse resposto Qualche santa parola sospirando</E
+M>un&#8217;insolenza</E
+M>una villania</E
+M>non r</E
+M>nulla</E
+M>non r</E
+M>una parola</E
+M>una sillaba</E
+M>non r</E
+M>verbo</E
+M>mi ha risposto picche</E
+M>mi fu risposto che non dovevo immischiarmi in queste cose</E
+M>gli è stato risposto che deve aspettare ancora un po&#8217;</E
+M>Così pregò &#8217;l poeta e sì risposto Poco dinanzi a noi ne fu</E
+M>a questi argomenti c&#8217;è poco da r</E
+M>mi fu facile rispondergli che aveva preso un granchio</E
+M>non mi abbasso a r</E
+M>a simili accuse</E
+M>per le rime</E
+M>risposte per le rime</E
+M>rispondere male</E
+M>di traverso</E
+M>abìtuati a non r</E
+M>ai superiori</E
+M>bisogna sentire come risponde alla mamma!</E
+M>con la voglia ingorda Venìa per traboccarlo giù ne l&#8217;onda</E
+M>Non pensando trovar chi gli risponda</E
+M>di ciò che faccio non devo r</E
+M>che a Dio e a me stesso</E
+M>delle sue malefatte dovrà r</E
+M>in tribunale</E
+M>risponderai tu dell&#8217;incidente occorso a mio fratello</E
+M>i genitori sono tenuti a r</E
+M>dei danni provocati dai figli in minore età</E
+M>se mi provocano non rispondo più di me stesso</E
+M>delle mie azioni</E
+M>mandate pure con noi vostro figlio</E
+M>ne rispondo io</E
+M>io la bicicletta te la presto</E
+M>ma ne rispondi tu personalmente</E
+M>la ditta non risponde dei ritardi nella consegna della merce</E
+M>farò quel che mi ordinate ma non rispondo delle conseguenze</E
+M>l&#8217;amministrazione non risponde degli oggetti non dati in consegna alla direzione</E
+M>alla messa</E
+M>al rosario</E
+M>la seguente canzone da Pampinea</E
+M>rispondendo l&#8217;altre</E
+M>fu cantata</E
+M>mi rispose con un&#8217;occhiataccia</E
+M>con una scrollata di spalle</E
+M>con uno schiaffo</E
+M>con un ghigno</E
+M>con un sorriso</E
+M>col silenzio</E
+M>mi rispose strizzandomi l&#8217;occhio</E
+M>gli risposi indicandogli la porta</E
+M>al saluto</E
+M>a un segnale</E
+M>al fuoco</E
+M>all&#8217;attacco nemico</E
+M>alla guerra con la guerra</E
+M>ha risposto con un passante incrociato</E
+M>a una carta</E
+M>al compagno</E
+M>a colore</E
+M>a picche</E
+M>a quadri</E
+M>a bastoni</E
+M>a denari</E
+M>al lampo rispose il tuono</E
+M>ai colpi di fucile rispose l&#8217;urlo della folla atterrita</E
+M>S&#8217;ode a destra uno squillo di tromba; A sinistra risponde uno squillo</E
+M>risponde Al pianto il canto Delle cicale</E
+M>da le aurate volte A lei l&#8217;impietosita Eco rispose</E
+M>Bireno chiama; e al nome di Bireno Rispondean gli antri che pietà n&#8217;avieno</E
+M>quando ti si chiama devi r</E
+M>suonammo il campanello e ci rispose un uomo</E
+M>una voce d&#8217;uomo</E
+M>al nome di</E
+M>avere nome</E
+M>chiamarsi</E
+M>chi di voi risponde al nome di Giovanni Rossi?</E
+M>a una preghiera</E
+M>a una supplica</E
+M>all&#8217;appello della patria</E
+M>gli arti non rispondevano più agli stimoli nervosi</E
+M>da vecchi la memoria non risponde più molto bene</E
+M>la vettura non rispondeva più al freno</E
+M>allo sterzo</E
+M>il freno</E
+M>lo sterzo non risponde più</E
+M>il motore non risponde come dovrebbe</E
+M>la nave risponde bene</E
+M>male</E
+M>non risponde</E
+M>al timone</E
+M>amplificatore elettrico che risponde bene</E
+M>Alessandro</E
+M>messo s&#8217;era in prestare a baroni sopra castella e altre loro entrate</E
+M>le quali da gran vantaggio bene gli rispondeano</E
+M>una serie di portici cui risponde</E
+M>dalla parte opposta della piazza</E
+M>un&#8217;altra serie</E
+M>parti che si rispondono simmetricamente tra di loro</E
+M>le sue vanterie non rispondono al suo effettivo valore</E
+M>le mie parole forse non rispondono a ciò che voglio dire</E
+M>questi provvedimenti non rispondono al bisogno</E
+M>alle esigenze</E
+M>ai desiderî della popolazione</E
+M>l&#8217;esito non rispose alle speranze</E
+M>alle aspettative</E
+M>questa via risponde in piazza Venezia</E
+M>un salotto</E
+M>che rispondeva nel cortile</E
+M>questa porta</E
+M>finestra risponde sul giardino</E
+M>sulla spiaggia</E
+M>Io me ne stava alla finestra che risponde al prato</E
+M>ho delle fitte al petto che mi rispondono alla schiena</E
+M>dietro la schiena</E
+M>quand&#8217;egli</E
+M>me non rispondente</E
+M>disse</E
+M>i tori</E
+M>con alte voci muggendo ti chiameranno per le rispondenti selve</E
+M>dicemo bello lo canto</E
+M>quando le voci di quello</E
+M>secondo debito de l&#8217;arte</E
+M>sono intra sé rispondenti</E
+M>discorsi non rispondenti alla verità</E
+M>alla realtà dei fatti</E
+M>quest&#8217;oggetto non è più rispondente all&#8217;uso</E
+M>al bisogno</E
+M>fate adunque che alle vostre bellezze l&#8217;opere sien rispondenti</E

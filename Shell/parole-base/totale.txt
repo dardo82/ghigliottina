@@ -1,0 +1,92 @@
+totale.txt
+"a profondità totale"
+"a sua totale discrezione"
+"accordo totale"
+"ad apertura totale"
+"astinenza totale"
+"attenzione totale"
+"con impegno totale"
+"confusione completa e totale"
+"consenso totale"
+"costo totale"
+"da fallimento totale"
+"dare completa totale soddisfazione (di cibo o bevande)"
+"dedizione totale"
+"depravazione totale"
+"di lunghezza totale"
+"di un impegno totale"
+"distruzione totale"
+"eclissi totale"
+"effetto totale"
+"fallimento totale"
+"fare il totale"
+"funzione totale"
+"guerra totale"
+"guerra totale"
+"guerra totale; globale"
+"immersione totale"
+"impegno totale"
+"in totale"
+"in totale autonomia"
+"in tutto, in totale"
+"lunghezza totale"
+"memoria totale"
+"offrire la totale disponibilità"
+"pagamento del totale"
+"soddisfazione totale"
+"storno totale"
+"sul totale"
+"totale"
+"totale"
+"totale"
+"totale complessivo"
+"totale parziale"
+"totale, completa oscurità"
+"vittoria totale"
+*[[intero]], [[completo]], [[pieno]], [[compiuto]], [[generale]], [[universale]], [[assoluto]], [[incondizionato]]
+*[[globale]], [[complessivo]], [[onnicomprensivo]]
+*somma complessiva, [[somma]], [[risultato]], [[complesso]]
+*[[incompleto]], [[incompiuto]], [[limitato]], [[parziale]]
+*[[frazionario]], [[frazionato]]
+*[[parte]], [[porzione]], [[frazione]]
+*[[totalmente]]
+*'' in totale''
+M>totalis</E
+M>totus</E
+M>total</E
+M>parziale</E
+M>grandi sconti fino ad esaurimento t. della merce</E
+M>proporsi il t. annientamento della resistenza nemica</E
+M>le spese t.</E
+M>il conto t.</E
+M>la somma t.</E
+M>eclissi t.</E
+M>eclissi parziale</E
+M>velo t.</E
+M>volva</E
+M>campo t.</E
+M>inquadratura t.</E
+M>teatro t.</E
+M>Totaltheater</E
+M>segmentazione t.</E
+M>quantità di moto t.</E
+M>energia cinetica t.</E
+M>energia t.</E
+M>carica t.</E
+M>somma</E
+M>il t. è 128.450</E
+M>mi pare che questo t. sia sbagliato</E
+M>t. parziale</E
+M>subtotale</E
+M>t. generale</E
+M>il t. delle spese</E
+M>delle perdite</E
+M> dei ricavi</E
+M> è considerevole</E
+M>t. cromatico</E
+M>in totale</E
+M>in t. avremo speso tremila euro.</E
+M>Avea creduto il miser Polinesso Totalmente il delitto suo coprire</E
+M>è un caso totalmente diverso</E
+M>mi sembra totalmente rimbecillito</E
+M>io sono totalmente estraneo alla questione</E

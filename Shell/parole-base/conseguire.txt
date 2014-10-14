@@ -1,0 +1,37 @@
+conseguire.txt
+"conseguire"
+"conseguire"
+"conseguire di"
+"conseguire di più"
+"conseguire la laurea triennale"
+"conseguire un accordo"
+*[[ottenere]], [[raggiungere]], [[conquistare]], [[realizzare]], [[guadagnare]], [[acquisire]], [[derivare]], [[discendere]], [[aggiudicare]]
+*[[risultare]], [[derivare]], [[dipendere]], [[nascere]], [[sorgere]], [[discendere]], [[scaturire]], [[derivare]]
+*[[perdere]], [[fallire]], [[mancare]] 
+*[[conseguente]],[[conseguenza]], [[conseguibile]], [[conseguimento]]
+*[[seguire]], [[perseguire]] 
+M>cons</E
+M>qui</E
+M>con</E
+M>sequi</E
+M>io conséguo</E
+M>un fine</E
+M>un premio</E
+M>una vittoria</E
+M>la laurea</E
+M>la promozione</E
+M>la gloria</E
+M>la felicità</E
+M>un desiderio</E
+M>un disegno</E
+M>un proposito</E
+M>la tua dimanda non ti verrà conseguita per nessun modo</E
+M>essere</E
+M>ne conseguirono guerre</E
+M>devastazioni e stragi</E
+M>da queste premesse consegue che voi avete torto</E
+M>cominciò ad essere amica della tirannide</E
+M>per un poco di utilità che gliene conseguiva</E
+M>per c</E
+M>la nostra Storia</E
+M>conseguendo da quella parte è Santa Maria Maggiore</E

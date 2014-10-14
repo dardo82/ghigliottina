@@ -1,0 +1,8 @@
+parafulmine.txt
+"parafulmine"
+M>para</E
+M>fulmine</E
+M>ad asta</E
+M>spandenti</E
+M>a gabbia di Faraday</E
+M>fare da parafulmine</E

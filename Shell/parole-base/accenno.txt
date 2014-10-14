@@ -1,0 +1,26 @@
+accenno.txt
+"accenno"
+"accenno"
+"accenno"
+"fare un accenno"
+#* dare un 
+#* ho fornito solo un 
+*[[cenno]], [[avvertimento]], [[allusione]],  [[indizio]], [[traccia]], [[suggerimento]]
+M>si limitò a fare qualche rapido a</E
+M>alla questione</E
+M>nella sua lettera non c’è il minimo a</E
+M>a difficoltà economiche</E
+M>la risposta contiene solo un velato a</E
+M>alle sue dimissioni</E
+M>l’a</E
+M>di un valzer sul pianoforte</E
+M>l’a</E
+M>d’un passo di danza</E
+M>non c’è</E
+M>per ora</E
+M>alcun a</E
+M>che la situazione possa migliorare</E
+M>scorsi sul suo volto un a</E
+M>d’irritazione</E
+M>aveva sulle labbra appena un a</E
+M>di rossetto</E

@@ -1,0 +1,8 @@
+incollare.txt
+"incollare"
+"incollare"
+"incollare a"
+"incollare qcs"
+"incollare qualcosa a"
+#*'''''Ho incollato''' sul diario una foto di quando ero piccolo''
+*[[attaccare]]

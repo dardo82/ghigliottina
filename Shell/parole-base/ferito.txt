@@ -1,0 +1,22 @@
+ferito.txt
+"ferito"
+"ferito"
+"ferito"
+"ferito al cervello"
+"garibaldi fu ferito"
+"orgoglio ferito"
+#*''Garibaldi fu 
+*[[contuso]], [[sfregiato]], [[colpito]], [[percosso]], [[pesto]], [[leso]], [[tagliato]], [[accoltellato]], [[pugnalato]], [[forato]], [[punto]], [[lacerato]], [[piagato]], [[trafitto]], [[squarciato]], [[graffiato]], [[scalfito]], [[scorticato]]
+*[[curato]], [[medicato]], [[rimarginato]], [[sanato]], [[cicatrizzato]], [[illeso]]
+*[[malato]]
+M>ferire</E
+M>rimanere f</E
+M>essere f</E
+M>leggermente</E
+M>gravemente</E
+M>i f</E
+M>gravi</E
+M>i f</E
+M>di guerra</E
+M>perdite in morti e feriti</E
+M>nello scontro si sono avuti parecchi feriti</E

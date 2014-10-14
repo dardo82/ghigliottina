@@ -1,0 +1,38 @@
+residuo.txt
+"credito residuo"
+"residuo"
+"residuo"
+"residuo fisso"
+"residuo non speso"
+*[[rimanente]]
+*[[rimanenza]]
+M>residuus</E
+M>residere</E
+M>sedere</E
+M>somma</E
+M>quantità r</E
+M>debiti</E
+M>crediti r</E
+M>alterazioni patologiche residue</E
+M>un r</E
+M>di cassa</E
+M>c&#8217;è un r</E
+M>di vino nel fiasco</E
+M>un r</E
+M>di pudore</E
+M>di onestà</E
+M>l&#8217;analisi è stata compiuta senza alcun r</E
+M>inorganico</E
+M>insolubile</E
+M>della distillazione</E
+M>fisso</E
+M>secco</E
+M>fisso a 180 &#176;C</E
+M>residui di fitofarmaci negli alimenti vegetali</E
+M>di una funzione analitica</E
+M>residui di bilancio</E
+M>attivi</E
+M>passivi</E
+M>derivazione</E
+M>metodo dei r</E
+M>A + B</E

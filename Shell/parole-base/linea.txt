@@ -1,0 +1,463 @@
+linea.txt
+"(mil.) prima linea"
+"a doppia linea"
+"attenuazione di linea"
+"avere una linea eccezionale"
+"commutatore di linea"
+"dare una linea politica"
+"della linea spartitraffico"
+"di linea laterale"
+"di pattini in linea"
+"elaborazione fuori linea"
+"essere d'accordo in linea generale"
+"fare attenzione alla linea"
+"firmare sulla linea tratteggiata"
+"firmare sulla linea tratteggiata"
+"fuori linea"
+"gestore di linea telefonica"
+"in linea"
+"in linea"
+"in linea"
+"in linea capitale"
+"in linea con"
+"in linea d'aria"
+"in linea d'aria"
+"in linea di massima"
+"in linea di principio"
+"in linea diretta"
+"in linea interessi"
+"in linea retta"
+"in una linea"
+"integrale di linea"
+"interruzione di linea"
+"la linea"
+"linea"
+"linea"
+"linea"
+"linea"
+"linea"
+"linea"
+"linea"
+"linea"
+"linea"
+"linea"
+"linea"
+"linea"
+"linea"
+"linea"
+"linea"
+"linea"
+"linea abbigliamento"
+"linea aerea"
+"linea aerea"
+"linea aerea"
+"linea arretrata"
+"linea base"
+"linea blu"
+"linea centrale"
+"linea chiave"
+"linea costiera"
+"linea d'aria"
+"linea d'autobus"
+"linea d'azione"
+"linea d'orizzonte sul mare"
+"linea dei tiri liberi"
+"linea del cambiamento di data"
+"linea del cambiamento di data"
+"Linea del cambiamento di data, linea internazionale del cambio di data"
+"linea del cavo"
+"linea del ciclo"
+"linea del ghiaccio"
+"linea del luogo"
+"linea del partito"
+"linea del partito"
+"linea del tempo"
+"linea dell'orizzonte"
+"linea della luce"
+"linea della morte"
+"linea della vita"
+"linea della vita"
+"linea delle ciglia"
+"linea dello sguardo"
+"linea di abbigliamento per bambini"
+"linea di alta tensione"
+"linea di attacco"
+"linea di battaglia"
+"linea di caduta"
+"linea di carico"
+"linea di colore"
+"linea di colore"
+"linea di comando"
+"linea di combattimento"
+"linea di comunicazione"
+"linea di comunicazione terrestre"
+"linea di condotta"
+"linea di condotta"
+"linea di confine"
+"linea di confine"
+"linea di costa"
+"linea di credito"
+"linea di credito"
+"linea di demarcazione"
+#* ''Traccia una '''linea''' AB''
+#* ''Restare in '''linea'''''
+#* ''Li c'è una '''linea''' di alghe''
+#* ''I soldati si disposero in '''linea'''''
+*[[tratto]], [[retta]], [[curva]], [[parabola]], [[segmento]]; [[tracciato]], [[solco]]
+* (segno grafico) [[riga]]
+*(su una superficie) [[traccia]]
+*(di separazione, demarcazione, eccetera) [[confine]], [[limite]], [[bordo]], [[margine]], [[delimitazione]], [[demarcazione]], [[allineamento]]
+*(di febbre) [[grado]]
+*(nel lato della moda) [[modello]], [[taglio]], [[foggia]], [[stampo]]
+*(di persone, animali o cose) [[serie]], [[fila]], [[successione]], [[sfilza]], [[sequela]]
+*(di prodotti) [[assortimento]], [[gamma]], [[scelta]]
+*(di testo) [[riga]]
+*(di strada, proiettile, eccetera) [[direzione]], [[traiettoria]], [[direttrice]]
+* (di trasporti) [[binario]], tratto di ferrovia; percorso marittimo; percorso aereo; [[rotta]], [[percorso]], [[andamento]], [[cammino]], [[itinerario]], [[strada]], [[tragitto]], [[verso]], [[iter]](telecomunicazioni) [[collegamento]], [[contatto]]
+*(nell’organizzazione aziendale) [[catena]]
+*(nei legami di parentela) [[ramo]], [[discendenza]], [[parentela]]
+*[[allineare]], [[delineare]], [[guardialinee]], [[lineamento]], [[lineare]], [[capolinea]]  
+*''linea di credito''
+M>linea</E
+M>linum</E
+M>luogo</E
+M>luogo geometrico</E
+M>retta</E
+M>curva</E
+M>orizzontale</E
+M>verticale</E
+M>obliqua</E
+M>Distanza in linea d’aria</E
+M>linee d’acqua</E
+M>d’immersione</E
+M>di galleggiamento</E
+M>di carico</E
+M>di bordo libero</E
+M>di una matrice</E
+M>spezzata</E
+M>spezzata</E
+M>poligonale</E
+M>di terra</E
+M>linea di displuvio</E
+M>linee di livello</E
+M>linee di massima pendenza</E
+M>tracciare</E
+M>tirare</E
+M>segnare una l</E
+M>tracciare una serie di l</E
+M>parallele</E
+M>grossa</E
+M>sottile</E
+M>tratteggiata</E
+M>punteggiata</E
+M>una l</E
+M>rossa</E
+M>verde</E
+M>azzurra</E
+M>riga</E
+M>lineetta</E
+M>linee</E
+M>linea</E
+M>ha poche l</E
+M>di febbre</E
+M>la temperatura gli è aumentata di 3 o 4 linee</E
+M>di fede</E
+M>linee della mano</E
+M>della vita</E
+M>del cuore</E
+M>della fortuna</E
+M>linea alba</E
+M>aspra</E
+M>primitiva</E
+M>lattea</E
+M>mammaria</E
+M>linee</E
+M>architettoniche</E
+M>semplicità</E
+M>armonia</E
+M>purezza di linee</E
+M>la l</E
+M>severa di un monumento</E
+M>di una statua</E
+M>volto di grande purezza di linee</E
+M>la l</E
+M>nobile del suo viso</E
+M>le l</E
+M>del corpo</E
+M>la l</E
+M>dei fianchi</E
+M>delle anche</E
+M>conservare la l</E
+M>di un edificio</E
+M>conservare</E
+M>mantenere la l</E
+M>perdere la linea</E
+M>mantello di l</E
+M>perfetta</E
+M>abito</E
+M>tailleur di l</E
+M>classica</E
+M>di l</E
+M>giovanile</E
+M>di l</E
+M>sportiva</E
+M>ad anfora</E
+M>a botte</E
+M>piatta</E
+M>svasata</E
+M>carrozzeria di l</E
+M>slanciata</E
+M>di l</E
+M>italiana</E
+M>profumo di l</E
+M>maschile</E
+M>disegnare a grandi l</E
+M>rappresentare</E
+M>descrivere</E
+M>esporre a grandi l</E
+M>nelle l</E
+M>generali</E
+M>essenziali</E
+M>ideare</E
+M>fissare le l</E
+M>essenziali di un’opera</E
+M>di un romanzo</E
+M>di uno studio</E
+M>le l</E
+M>programmatiche di un partito</E
+M>limite</E
+M>di confine</E
+M>di separazione</E
+M>di demarcazione</E
+M>di sblocco</E
+M>del cambiamento di data</E
+M>di data</E
+M>doganale</E
+M>Linea Alessandrina</E
+M>laterale</E
+M>di fondo</E
+M>mediana</E
+M>perimetrali</E
+M>dei tre metri e dei nove metri</E
+M>di fuori gioco</E
+M>di partenza</E
+M>d’arrivo</E
+M>la l</E
+M>d’una strada</E
+M>d’un fiume</E
+M>avanzare in l</E
+M>retta</E
+M>obliqua</E
+M>diagonale</E
+M>procedere per l</E
+M>parallele</E
+M>seguire la l</E
+M>di marcia</E
+M>di mira</E
+M>di tiro</E
+M>di condotta</E
+M>seguire</E
+M>scegliere</E
+M>fissare una l</E
+M>di condotta</E
+M>adottare</E
+M>seguire una certa l</E
+M>deviare dalla l</E
+M>retta</E
+M>adottare una l</E
+M>di difesa</E
+M>concordare una comune l</E
+M>d’azione</E
+M>la l</E
+M>De Gasperi</E
+M>la l</E
+M>Bre</E
+M>nev</E
+M>la l</E
+M>Einaudi</E
+M>determinare</E
+M>modificare la propria l</E
+M>politica</E
+M>adottare una l</E
+M>dura</E
+M>una l</E
+M>morbida</E
+M>una l</E
+M>di rinnovamento</E
+M>di trasformazione</E
+M>d’asse</E
+M>d’alberi</E
+M>laterale</E
+M>linea</E
+M>d’offesa</E
+M>essere in l</E
+M>tenere il braccio</E
+M>il ferro in linea</E
+M>essere</E
+M>stare</E
+M>mettersi in l</E
+M>di una forza navale</E
+M>linea</E
+M>di fronte</E
+M>di fila</E
+M>di bolina</E
+M>di battaglia</E
+M>essere in l</E
+M>essere in l</E
+M>con le direttive del partito</E
+M>con la politica economica del governo</E
+M>essere in l</E
+M>con i proprî principî</E
+M>essere in linea</E
+M>colonne</E
+M>traverse</E
+M>aperta</E
+M>di prodotti</E
+M>di prodotti di cosmesi</E
+M>una nuova l</E
+M>di bellezza</E
+M>catena</E
+M>di montaggio</E
+M>di difesa</E
+M>difensiva</E
+M>Maginot</E
+M>Sigfrido</E
+M>del vallo Atlantico</E
+M>gotica</E
+M>di arroccamento</E
+M>di operazione</E
+M>Manovra per l</E
+M>interne</E
+M>disporre un’armata su tre l</E
+M>prima l</E
+M>di riserva</E
+M>la l</E
+M>del fuoco</E
+M>calda</E
+M>essere in prima l</E
+M>passare in seconda l</E
+M>fronte</E
+M>mettere in l</E
+M>trovarsi in l</E
+M>attraversare le l</E
+M>nemiche</E
+M>fanteria di l</E
+M>su tutta la l</E
+M>fuoco</E
+M>vittoria</E
+M>sconfitta</E
+M>disfatta su tutta la l</E
+M>sconfitta su tutta la l</E
+M>fiasco su tutta la l</E
+M>nave di l</E
+M>nave da battaglia</E
+M>linee</E
+M>d’attacco</E
+M>mediana</E
+M>di difesa</E
+M>prima</E
+M>seconda</E
+M>terza l</E
+M>Linee di comunicazione</E
+M>marittime</E
+M>di navigazione</E
+M>postale</E
+M>da passeggeri</E
+M>da carico</E
+M>intercontinentali</E
+M>le l</E
+M>dell’Adriatico</E
+M>del Tirreno</E
+M>le l</E
+M>della Laguna</E
+M>lacustri</E
+M>aeree</E
+M>ferroviarie</E
+M>automobilistiche</E
+M>tranviarie</E
+M>di filobus</E
+M>servizio di linea</E
+M>piroscafo</E
+M>unità</E
+M>aereo</E
+M>apparecchio di l</E
+M>navigazione di l</E
+M>linea</E
+M>la l</E
+M>Roma</E
+M>Milano</E
+M>la l</E
+M>adriatica</E
+M>la Roma</E
+M>Milano</E
+M>i treni hanno avuto ritardo per lavori lungo la l</E
+M>inaugurazione d’una nuova l</E
+M>riattamento della l</E
+M>guardiano</E
+M>sorvegliante della l</E
+M>elettrica aerea</E
+M>elettrica sotterranea</E
+M>aerea di contatto</E
+M>di alimentazione</E
+M>ad alta tensione</E
+M>telegrafica</E
+M>telefonica</E
+M>essere in linea</E
+M>trovare la l</E
+M>libera</E
+M>occupata</E
+M>restare in linea</E
+M>interruzione nella l</E
+M>è caduta la linea</E
+M>calda</E
+M>hot line</E
+M>rossa</E
+M>telefono rosso</E
+M>linea di trasmissione dati</E
+M>linea di ritardo</E
+M>in linea</E
+M>fuori linea</E
+M>operazioni in linea</E
+M>trattamento dati fuori linea</E
+M>line</E
+M>off-line</E
+M>retta</E
+M>diretta</E
+M>laterale</E
+M>collaterale</E
+M>paterna</E
+M>maschile</E
+M>materna</E
+M>femminile</E
+M>ascendente</E
+M>discendente</E
+M>pura</E
+M>di un conto</E
+M>prima</E
+M>seconda</E
+M>di un conto</E
+M>linee di credito</E
+M>nostre linee</E
+M>sue</E
+M>loro linee</E
+M>loro linee</E
+M>nostre linee</E
+M>in linea di</E
+M>in l</E
+M>di principio</E
+M>in l</E
+M>di massima</E
+M>in l</E
+M>di massima possiamo dirci d’accordo</E
+M>in l</E
+M>di diritto</E
+M>in l</E
+M>di fatto</E
+M>de iure</E
+M>de facto</E
+M>in l</E
+M>generale</E
+M>in l</E
+M>teorica</E
+M>ligne</E
+M>line</E

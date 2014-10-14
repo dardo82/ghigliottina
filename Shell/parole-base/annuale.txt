@@ -1,0 +1,26 @@
+annuale.txt
+"annuale"
+"annuale"
+"bibliografia annuale"
+"contratto annuale"
+"incontro annuale"
+"lista annuale delle 500 maggiori società statunitensi"
+"periodo annuale"
+"rendiconto annuale"
+"ricorrenza annuale"
+"vacanza annuale"
+*[[annuo]]
+*[[annovale]]
+M>annualis</E
+M>annus</E
+M>ricorrenza</E
+M>festività annuale</E
+M>corso a</E
+M>affitto a</E
+M>essere assunto con contratto a</E
+M>pianta a</E
+M>annua</E
+M>l’a</E
+M>della fondazione di Roma</E
+M>annovale</E
+M>il contratto va rinnovato annualmente</E

@@ -1,0 +1,46 @@
+regionale.txt
+"regionale"
+"regionale"
+"regionale"
+"scuola regionale"
+*[[regione]], [[regionalmente]]
+M>regionalis</E
+M>regio</E
+M>onis</E
+M>autonomia r</E
+M>l’ordinamento r</E
+M>italiano</E
+M>governo</E
+M>consiglio</E
+M>giunta r</E
+M>leggi</E
+M> provvedimenti r</E
+M>assessori</E
+M>consiglieri</E
+M>dipendenti r</E
+M>diritto r</E
+M>concorsi r</E
+M>gare</E
+M>campionati r</E
+M>l’ordinamento r</E
+M>augusteo dell’Impero romano</E
+M>geografia r</E
+M>fenomeni climatici r</E
+M>fauna</E
+M>flora r</E
+M>nazionale</E
+M>badare troppo agli interessi r</E
+M>accento r</E
+M>pronuncia</E
+M>inflessione r</E
+M>uso linguistico r</E
+M>varietà r</E
+M>di una lingua</E
+M>italiano</E
+M>tedesco r</E
+M>letteratura r</E
+M>accordi r</E
+M>convenzione r</E
+M>europea</E
+M>studiare regionalmente un fenomeno</E
+M>usanze regionalmente diverse</E

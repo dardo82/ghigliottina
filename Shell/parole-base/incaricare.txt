@@ -1,0 +1,17 @@
+incaricare.txt
+"incaricare"
+"incaricare qn di fare qc"
+"incaricare qn di fare qc"
+"incaricare qn di fare qc"
+"incaricare qualcuno di"
+*[[incaricarsi]], [[incaricato]],[[incarico]]
+*[[caricare]]
+M>caricare</E
+M>io incàrico</E
+M>tu incàrichi</E
+M>Amerigo fu incaricato forte da’ suoi d’infedeltà</E
+M>incaricato d’eresia</E
+M>mi ha incaricato di recarle questa lettera</E
+M>lo incaricarono di varie missioni diplomatiche</E
+M>me ne incarico io</E
+M>non te ne incaricare!</E

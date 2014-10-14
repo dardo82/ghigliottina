@@ -1,0 +1,3 @@
+cancellatura.txt
+"cancellatura"
+M>uno scritto pieno di cancellature</E

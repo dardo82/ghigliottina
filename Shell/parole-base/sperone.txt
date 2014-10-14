@@ -1,0 +1,9 @@
+sperone.txt
+"sperone"
+"sperone"
+"sperone"
+"sperone"
+"sperone"
+#* ''il [[cowboy]] spronò il cavallo con gli '''speroni'''''
+*[[sprone]]
+*[[speronare]]

@@ -1,0 +1,17 @@
+cronometro.txt
+"cronometro"
+"cronometro"
+"cronometro elettronico; sincronizzatore elettronico"
+"di cronometro"
+"fermare il cronometro"
+M>chronomètre</E
+M>chrono</E
+M>mètre</E
+M>orologio</E
+M>da marina</E
+M>meccanico</E
+M>contasecondi</E
+M>elettronico</E
+M>corsa a c</E
+M>contro il c</E
+M>tappa a c</E

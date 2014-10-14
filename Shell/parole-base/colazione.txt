@@ -1,0 +1,33 @@
+colazione.txt
+"colazione"
+"colazione"
+"colazione a letto"
+"colazione continentale"
+"fare la prima colazione"
+"ora di colazione"
+"preparare la prima colazione"
+"prima colazione"
+"prima colazione"
+"sala da colazione"
+"set da colazione"
+"tavolo da colazione"
+#*'''colazione di lavoro'''
+*[[prima colazione]]
+*[[pranzo]], [[cena]]
+M>collatio</E
+M>onis</E
+M>far colazione</E
+M>a caffè e latte</E
+M>all’inglese</E
+M>alla forchetta</E
+M>in forchetta</E
+M>seconda c</E
+M>prima c</E
+M>invitare a c</E
+M>una lauta c</E
+M>di lavoro</E
+M>l’ora di c</E
+M>prima di c</E
+M>dopo c</E
+M>ordinare la c</E
+M>al sacco</E

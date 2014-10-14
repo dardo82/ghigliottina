@@ -1,0 +1,40 @@
+inesperto.txt
+"giovane inesperto"
+"in modo inesperto"
+"inesperto"
+"inesperto"
+"inesperto in"
+*[[esperto]] 
+*[[inesperienza]]
+M>inexpertus</E
+M>expertus</E
+M>essere i</E
+M>del mare</E
+M>della montagna</E
+M>delle fatiche della guerra</E
+M>della politica</E
+M>essere i</E
+M>della vita</E
+M>del mondo</E
+M>degli uomini</E
+M>indelibata</E
+M>intera Il garzoncel, come i</E
+M>amante, La sua vita ingannevole vagheggia</E
+M>un giovane</E
+M>una ragazza inesperti</E
+M>maestro</E
+M>chirurgo</E
+M>meccanico</E
+M>pilota</E
+M>autista</E
+M>cuoco i</E
+M>ancora i</E
+M>un ladro i</E
+M>dipingeva con mano inesperta</E
+M>Guerra mortale</E
+M>eterna</E
+M>o fato indegno</E
+M>Teco il prode guerreggia</E
+M>Di cedere inesperto</E
+M>maneggiare inespertamente un’arma</E
+M>uno strumento</E

@@ -1,0 +1,32 @@
+odiare.txt
+"odiare"
+#*''Alcuna gente '''odia''' chi è diverso''
+#*'''''Odio''' il suo modo di fare!''
+#*'''''Odio''' dovertelo dire, ma non ti hanno preso.''
+*[[detestare]], [[aborrire]]
+M>io òdio</E
+M>una persona</E
+M>il nemico</E
+M>non odio nessuno</E
+M>a morte</E
+M>Noi troppo odiammo e sofferimmo</E
+M>farsi o</E
+M>erano amici e ora si odiano</E
+M>si odiano profondamente</E
+M>con tutto il cuore</E
+M>con tutta l’anima</E
+M>odiarsi</E
+M>odiare sé stesso</E
+M>ho sempre odiato gli ipocriti</E
+M>il male</E
+M>le chiacchiere inutili</E
+M>le polemiche</E
+M>le formalità</E
+M>la retorica</E
+M>odio questo ufficio</E
+M> ella odiava trovarsi fuori dalla sua casa</E
+M> in un mondo sconosciuto e ostile</E
+M>certi uccelli odiano la luce</E
+M>l’odiato nemico</E
+M>l’odiato rivale</E
+M>vorrei bruciare questi odiati libri</E

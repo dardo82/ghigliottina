@@ -1,0 +1,61 @@
+collegio.txt
+"collegio"
+"collegio"
+"collegio"
+"collegio"
+"Collegio degli Avvocati"
+"collegio degli elettori (USA)"
+"collegio elettorale"
+"collegio notarile"
+"collegio sindacale"
+#*'''''collegio''' cardinalizio'', '''''collegio''' sindacale'', '''''collegio''' docenti''
+#* '''collegio''' elettorale
+#*''ha messo il figlio in '''collegio'''''
+*(di professionisti) [[ordine]], [[albo]], [[magistratura]]
+*(nel Medioevo) [[corporazione]], [[associazione]]
+*[[convitto]], [[seminario]], istituto scolastico
+* circoscrizione elettorale.
+*''(insieme di persone accomunate da scopo)'' [[consiglio]] 
+*[[collegiale]]
+M>collegium</E
+M>collega</E
+M>degli avvocati</E
+M>dei medici</E
+M>degli ingegneri</E
+M>i collegi</E
+M>dei fornai</E
+M>dei tessitori</E
+M>degli àuguri</E
+M>dei pontefici</E
+M>dei mercanti</E
+M>dei fabbri</E
+M>accademico</E
+M>dei professori</E
+M>dei docenti</E
+M>dei probiviri</E
+M>arbitrale</E
+M>dei cardinali</E
+M>Sacro C</E
+M>episcopale</E
+M>maschile</E
+M>femminile</E
+M>educandato</E
+M>professore</E
+M>rettore di un c</E
+M>mettere</E
+M>chiudere in c</E
+M>vivere</E
+M>stare in c</E
+M>uscire dal c</E
+M>militare</E
+M>ecclesiastici</E
+M>pontificio</E
+M>grandioso</E
+M>luminoso</E
+M>costruire un c</E
+M>le stanze del collegio</E
+M>era schierato tutto il c</E
+M>militare in alta uniforme</E
+M>o Tosco</E
+M>ch’al collegio De l’ipocriti tristi se’ venuto</E
+M>elettorale</E

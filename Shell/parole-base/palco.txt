@@ -1,0 +1,54 @@
+palco.txt
+"a tutto palco"
+"fare un'altra uscita sul palco per ricevere gli applausi o per ringraziare il pubblico"
+"lontano dal palco"
+"non sul palco"
+"palco"
+"palco"
+"posto in un palco"
+"tenda del palco"
+*[[palcoscenico]]
+*italiano
+M>balk</E
+M>balco</E
+M>chi</E
+M>morto</E
+M>a tetto</E
+M>due lumi a mano</E
+M>pendenti da due pertiche attaccate alla trave del p</E
+M>vi spandevano una mezza luce</E
+M>ponte</E
+M>impalcatura</E
+M>montare</E
+M>smontare un p</E
+M>hanno montato il p</E
+M>per il comizio</E
+M>per lo spettacolo all&#8217;aperto</E
+M>è stato eretto un p</E
+M>per le autorità</E
+M>di giustizia</E
+M>palco</E
+M>palcoscenico</E
+M>palchetti</E
+M>di primo</E
+M>di secondo</E
+M>di terzo ordine</E
+M>di proscenio</E
+M>palco di comando</E
+M>ponte di comando</E
+M>plancia</E
+M>di salita</E
+M>si vede dai p</E
+M>fronzuti d&#8217;un grand&#8217;albero uscire da ogni parte gli uccelli che ci s&#8217;erano riparati</E
+M>corna a palchi</E
+M>palchi</E
+M>asta</E
+M>daga</E
+M>pugnali</E
+M>forcuti</E
+M>treppunte</E
+M>ramosi</E
+M>palmati</E
+M>a palchi</E
+M>disporre</E
+M>sistemare la frutta a palchi</E

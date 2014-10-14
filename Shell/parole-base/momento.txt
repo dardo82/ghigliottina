@@ -1,0 +1,423 @@
+momento.txt
+"aiutare in un momento di difficoltà"
+"aiuto nel momento del bisogno"
+"al momento"
+"al momento attuale"
+"al momento di"
+"al momento di andare in stampa"
+"al momento giusto"
+"al momento opportuno"
+"al momento opportuno"
+"al momento presente"
+"all'ultimo momento"
+"all'ultimo momento, appena in tempo"
+"allo stesso momento"
+"amico nel momento del bisogno"
+"aspetta un momento"
+"aspettare un momento"
+"attraversare (un momento; etc.)"
+"brutto momento"
+"buon punto, buon momento"
+"conservazione del momento angolare"
+"da quel momento in poi"
+"da questo momento"
+"da questo momento"
+"da questo momento in poi"
+"dall'inizio; dal primo momento"
+"fare un discorso con; parlare un momento con"
+"fare un errore in un momento critico"
+"farti passare un brutto momento"
+"fino a quel momento"
+"fino a questo momento"
+"fino al momento"
+"impulso del momento"
+"in nessun momento"
+"in qualsiasi momento"
+"in qualsiasi momento"
+"in qualsiasi momento"
+"in qualsiasi momento"
+"in qualsiasi momento"
+"in qualsiasi momento"
+"in qualunque momento"
+"in quel momento"
+"in quel momento"
+"in questo momento"
+"in un altro momento"
+"in un secondo momento"
+"l'attraversare (un momento; etc.)"
+"l'ultimo momento"
+"moda del momento"
+"momento"
+"momento"
+"vale in locuzioni del tipo da questo momento, fino a questo momento"
+"momento"
+"momento"
+"momento"
+"momento"
+"momento"
+"momento"
+"momento angolare"
+"momento angolare orbitale"
+"momento appropriato"
+"momento brevissimo"
+"momento critico"
+"momento critico"
+"momento critico"
+"momento cruciale"
+"momento d'inerzia"
+"momento d'oro"
+"momento decisivo"
+"momento della verità"
+"momento di confronto"
+"momento di difficoltà"
+"momento di follia"
+"momento di gloria"
+"momento di incontro"
+"momento di relax"
+"momento di riflessione"
+"momento di sosta"
+"momento divertente"
+"momento flettente"
+"momento giusto"
+"momento magnetico"
+"momento migliore non potevi trovarlo"
+"momento morto"
+"momento più basso"
+"momento saliente"
+"momento saliente"
+"momento significativo"
+"momento storico importante, pietra miliare nella storia"
+"momento supremo"
+"momento topico"
+"nel momento del bisogno"
+"nel momento in cui"
+"nello stesso momento"
+"nello stesso momento in cui"
+"non c'è un momento da perdere"
+"non essere il momento"
+"non può stare in due posti nello stesso momento"
+"ogni momento"
+"passare un brutto momento"
+"per il momento"
+"per un momento"
+"questo momento"
+*[[attimo]], [[istante]], [[secondo]], [[minuto]]; [[lampo]], batter d'occhio, [[baleno]] 
+*[[circostanza]], [[occasione]], [[situazione]], [[congiuntura]] 
+*''sul momento''
+*''per il momento''
+*italiano
+*spagnolo
+M>momentum</E
+M>movere</E
+M>momentum temp</E
+M>ris</E
+M>fammi felice per un m</E
+M>di tempo</E
+M>trova un m</E
+M>di tempo per me</E
+M>non ho mai un m</E
+M>di tempo</E
+M>istante</E
+M>attimo</E
+M>non c’è un m</E
+M>da perdere</E
+M>non ebbe un m</E
+M>di esitazione</E
+M>ero lì lì per scattare</E
+M>ma fu un m</E
+M>e mi ripresi subito</E
+M>basta a volte un solo m</E
+M>di distrazione per far succedere l’irreparabile</E
+M>vederlo e piombargli addosso fu un m</E
+M>queste parole così chiare acquietarono in un m</E
+M>il padre Cristoforo</E
+M>attimo</E
+M>istante</E
+M>momento</E
+M>vi fu un m</E
+M>in cui temetti che tutto fosse perduto</E
+M>mi guardò fisso per qualche m</E
+M>dopo un m</E
+M>di silenzio</E
+M>proseguì</E
+M>ogni m</E
+M>che passa</E
+M>il pericolo si fa più serio</E
+M>prestami un m</E
+M>la penna</E
+M>è stato qui un m</E
+M>non mi dà pace un m</E
+M>abbi un m</E
+M>di pazienza!</E
+M>vorrei parlarti un m</E
+M>vado un m</E
+M>a telefonare</E
+M>un momento!</E
+M>un m</E
+M>da chi avete avuto l’ordine?</E
+M>un m</E
+M>fammi vedere che cos’hai messo nella borsa!</E
+M>un m.!</E
+M>dammi le prove di quello che hai detto</E
+M>un m</E
+M>vengo subito</E
+M>da quel m</E
+M>in poi non ha più fiatato</E
+M>fino a quel m</E
+M>non me n’ero accorto</E
+M>primo</E
+M>ultimo</E
+M>in un primo m</E
+M>rimasi sbalordito</E
+M>sul primo m</E
+M>fa un’impressione strana</E
+M>nei primi m</E
+M>dopo svegliati</E
+M>si stenta a riprendere contatto con la realtà</E
+M>l’avevo capito fin dal primo m</E
+M>l’ho tenuto d’occhio dal primo all’ultimo m</E
+M>all’ultimo m</E
+M>arriva sempre all’ultimo m</E
+M>ha conservato fino all’ultimo m</E
+M>la sua prontezza di spirito</E
+M>gli ultimi m</E
+M>dal m</E
+M>che</E
+M>dal m</E
+M>che</E
+M>dal m</E
+M>in cui</E
+M>l’ho saputo</E
+M> non l’ho più dimenticato</E
+M>poiché</E
+M>dato che</E
+M> visto che</E
+M>dal m</E
+M>che per te va bene così</E
+M>non mi oppongo</E
+M>dal m</E
+M>che non t’interessa</E
+M>è inutile che tu ci vada</E
+M>in questo m</E
+M>fino a questo m</E
+M>fin da questo m</E
+M>per il m</E
+M>per il m</E
+M>non posso dirti altro</E
+M>per il m</E
+M>siamo sprovvisti della merce richiesta</E
+M>del m</E
+M>la moda del m</E
+M>sono i gusti</E
+M>le manie del m</E
+M>le difficoltà</E
+M>le necessità del m</E
+M>è una impressione del m</E
+M>sbolliti gli entusiasmi del m</E
+M>si potrà ragionare</E
+M>è l’uomo</E
+M>la donna</E
+M>il cantante</E
+M>l’artista del m</E
+M>l’invenzione</E
+M>il ritrovato del m</E
+M>nel m</E
+M>che</E
+M>nello stesso m</E
+M>che</E
+M>in quello stesso m</E
+M>arrivò proprio nel m</E
+M>che</E
+M>in cui</E
+M>stavo per uscire</E
+M>in quello stesso m</E
+M>la luce si spense</E
+M>in un m</E
+M>è un lavoro che si fa in un m</E
+M>mi vesto in un m</E
+M>questa pasta cuoce in un momento</E
+M>Sul momento</E
+M>lo voglio sapere subito</E
+M>sul m</E
+M>obbediscimi</E
+M>sul m</E
+M>sul m</E
+M>ha sapore amaro</E
+M>ma poi lascia la bocca dolce</E
+M>sul m</E
+M>non ci pensai</E
+M>era così cambiato che</E
+M>sul m</E
+M>non lo riconobbi</E
+M>Al momento</E
+M>al m</E
+M>non seppi che cosa rispondere</E
+M>al m</E
+M>di uscire</E
+M>mi sono ricordato che non avevo preso le chiavi</E
+M>al m</E
+M>della resa dei conti si è tirato indietro</E
+M>Ogni momento</E
+M>a ogni m</E
+M>tutti i momenti</E
+M>possibile che tu mi debba interrompere ogni momento?</E
+M>Di momento in momento</E
+M>da un momento all’altro</E
+M>l’attendiamo di m</E
+M>in m</E
+M>sta molto male</E
+M>e potrebbe morire da un m</E
+M>all’altro</E
+M>ha cambiato idea da un m</E
+M>all’altro</E
+M>è partito da un m</E
+M>all’altro</E
+M>senza dir nulla a nessuno</E
+M>A momenti</E
+M>dovrebbe essere qui a momenti</E
+M>a momenti ho finito</E
+M>a momenti andavo sotto l’autobus</E
+M>a momenti gli davo uno schiaffo</E
+M>ero così felice che a momenti l’abbracciavo</E
+M>a momenti fa proprio scappare la pazienza</E
+M>a momenti sembra che non abbia la testa a posto</E
+M>a momenti è un compagno delizioso</E
+M>a momenti è insopportabile</E
+M>andare a momenti</E
+M>è un uomo che va a momenti</E
+M>non ci si può fidare di lui</E
+M>va troppo a momenti</E
+M>il m</E
+M>è solenne</E
+M>è giunto il gran m</E
+M>benedico il m</E
+M>in cui l’ho conosciuto</E
+M>abbiamo passato insieme m</E
+M>felici</E
+M>è stato un m</E
+M>terribile</E
+M>non vedere il m</E
+M>non vedere l’ora</E
+M>non vedeva il m</E
+M>d’incontrarlo</E
+M>non vedo il m</E
+M>di averti con me</E
+M>è un guaio che non ci voleva</E
+M>in un m</E
+M>come questo</E
+M>in altri m</E
+M>avrei potuto aiutarti</E
+M>arrivi in un brutto m</E
+M>è un m</E
+M>disperato</E
+M>è un m</E
+M>critico per tutti</E
+M>opportuno</E
+M>adatto</E
+M>favorevole</E
+M>aspettare</E
+M>cogliere il m</E
+M>opportuno</E
+M>non è questo il m</E
+M>adatto</E
+M>per parlare</E
+M>è venuto il m</E
+M>di decidere</E
+M>quando sarà il m</E
+M>vedremo</E
+M>scusami</E
+M>l’ho detto in un m</E
+M>di rabbia</E
+M>in un m</E
+M>di sconforto ha tentato il suicidio</E
+M>finalmente un m</E
+M>di buonumore!</E
+M>ho bisogno di un m</E
+M>di riflessione</E
+M>nei suoi m</E
+M>migliori è un piacevolissimo conversatore</E
+M>avere buoni</E
+M>cattivi m</E
+M>il sonetto è stato scritto in un m</E
+M>di grazia</E
+M>in questo quadro il pittore ha avuto un m</E
+M>felice</E
+M>magico</E
+M>musicale</E
+M>tempo</E
+M>Momenti musicali</E
+M>poco</E
+M>un attimo</E
+M>un attimino</E
+M>fatti un m</E
+M>più in là</E
+M>il vestito dovrebbe essere un m</E
+M>più lungo</E
+M>la manica andrebbe scorciata un m</E
+M>il riso mi piace un m</E
+M>meno cotto</E
+M>Ma con la donna non fu di momento</E
+M>di momento</E
+M>di grande</E
+M>di molto m</E
+M>di piccolo</E
+M>di poco</E
+M>di nessun m</E
+M>un’opera di grande m</E
+M>un libretto di nessun m</E
+M>i magistrati</E
+M>da’ quali le cose di maggiore m</E
+M>non senza il parere suo si deliberavano</E
+M>era uomo di molto m</E
+M>nella città</E
+M>psicologico</E
+M>moment psychologique</E
+M>psychologischer Moment</E
+M>momentum</E
+M>un m</E
+M>di peso</E
+M>in un momento</E
+M>m. lineare</E
+M>linear momentum</E
+M>quantità di moto</E
+M>impulso</E
+M>momento</E
+M>polare</E
+M>di una forza</E
+M>rispetto a un punto</E
+M>momento</E
+M>assiale</E
+M>scalare</E
+M>di una forza rispetto a una retta orientata</E
+M>momento di una coppia di forze</E
+M>d’inerzia</E
+M>della quantità di moto</E
+M>angolare</E
+M>angular momentum</E
+M>di spin</E
+M>orbitale</E
+M>angolare totale</E
+M>motore</E
+M>resistente</E
+M>aerodinamico</E
+M>di imbardata</E
+M>di cabrata</E
+M>di picchiata</E
+M>di rollata</E
+M>elettrico</E
+M>di dipolo elettrico</E
+M>dipolo elettrico</E
+M>magnetico</E
+M>di dipolo magnetico</E
+M>dipolo magnetico</E
+M>flettente</E
+M>torcente</E
+M>resistente</E
+M>di trasporto</E
+M>momento</E
+M>aspetta un momentino</E
+M>fermati un momentino</E
+M>esco un momentino</E
+M>fatti un momentino più in là</E
+M>questo è un momentaccio per gli affari</E
+M>ha certi momentacci che lo rendono proprio insopportabile</E

@@ -1,0 +1,33 @@
+indeciso.txt
+"(essere) indeciso"
+"essere indeciso"
+"indeciso"
+"indeciso"
+"indeciso, insicuro"
+*[[incerto]], [[dubbioso]], [[insicuro]], [[perplesso]], [[esitante]], [[titubante]], [[irresoluto]]
+* ''(di tempo)'' [[instabile]], [[variabile]]
+*''(di problema, questione)'' [[irrisolto]], [[aperto]], in sospeso
+*[[certo]]
+* [[deciso]]
+* [[indecisione]],  [[decidere]]
+M>deciso</E
+M>indécis</E
+M>la questione è rimasta i</E
+M>fino agli ultimi minuti</E
+M>l’esito della partita era indeciso</E
+M>è un carattere i</E
+M>si mostrò i</E
+M>sul da farsi</E
+M>sono ancora i</E
+M>se accettare o no</E
+M>alla nostra proposta</E
+M>rimase indeciso</E
+M>una risposta i</E
+M>con voce i</E
+M>sguardo i</E
+M>espressione i</E
+M>i suoi passi erano indecisi</E
+M>il tempo si mantiene i</E
+M>un disegno</E
+M>una figura dai tratti i</E
+M>dai contorni i</E

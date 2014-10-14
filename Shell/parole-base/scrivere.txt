@@ -1,0 +1,187 @@
+scrivere.txt
+"bello scrivere"
+"blocco per scrivere"
+"carta per scrivere"
+"inchiostro per scrivere"
+"macchina da scrivere"
+"macchina da scrivere"
+"macchina da scrivere elettronica"
+"macchina per scrivere elettrica"
+"materiale per scrivere"
+"nastro per macchina da scrivere"
+"non c'è niente di cui scrivere a casa, non è niente di sensazionale"
+"per non saper né leggere né scrivere"
+"scrivere"
+"scrivere"
+"scrivere"
+"scrivere"
+"scrivere a"
+"scrivere a lungo"
+"scrivere a macchina"
+"scrivere a macchina senza guardare i tasti"
+"scrivere a macchina usando solo l'indice e guardando la tastiera"
+"scrivere a matita"
+"scrivere con doppia spaziatura"
+"scrivere con doppia spaziatura"
+"scrivere cronache"
+"Scrivere di getto"
+"scrivere due righe"
+"scrivere due righe a qualcuno"
+"scrivere in bozza"
+"scrivere in maiuscolo"
+"scrivere in maiuscolo"
+"scrivere in maiuscolo"
+"scrivere in modo elaborato"
+"scrivere in modo fine"
+"scrivere in qualità di"
+"scrivere nero su bianco"
+"scrivere poesie"
+"scrivere scorrettamente"
+"scrivere troppo"
+"scrivere una bozza"
+"scrivere una lettera"
+"scrivere una ricetta"
+"scrivere uno spartito"
+"scrivere, buttare giù"
+"set per scrivere"
+"spazio per scrivere"
+"un capitolo ancora tutto da scrivere"
+* [[vergare]], [[stilare]], [[annotare]], [[segnare]], [[stendere]], [[compilare]], [[redigere]], [[stilare]]
+*[[iscrivere]],[[prescrivere]], [[sottoscrivere]], [[soprascrivere]], [[dattiloscrivere]]
+*[[scrittura]], [[scrivano]]
+*italiano
+M>scr</E
+M>scrissi</E
+M>scrivésti</E
+M>scritto</E
+M>s. con lo stilo su una tavoletta cerata</E
+M>s. col gesso sulla lavagna</E
+M>s. una parola sulla sabbia</E
+M>scrisse col dito alcune lettere sui vetri appannati</E
+M>s. delle note su uno spartito musicale</E
+M>s. una lettera</E
+M>un biglietto</E
+M>un promemoria</E
+M>sapere</E
+M>non sapere s.</E
+M>insegnare</E
+M>imparare a s.</E
+M>saper leggere e s.</E
+M>s. sotto dettatura</E
+M>s. a mano</E
+M>s. a macchina</E
+M>macchina per</E
+M> da</E
+M> s.</E
+M>margherita</E
+M>s. in caratteri stampatelli</E
+M>in stampatello</E
+M>s. in caratteri maiuscoli</E
+M>minuscoli</E
+M>s. in caratteri latini</E
+M>gotici</E
+M>arabi</E
+M>greci</E
+M>gli Assiri scrivevano in caratteri cuneiformi</E
+M>s. rapidamente</E
+M>lentamente</E
+M>stentatamente</E
+M>s. in bella calligrafia</E
+M>s. con ordine</E
+M>s. in modo chiaro</E
+M>confuso</E
+M>illeggibile</E
+M>s. bene</E
+M>male</E
+M>s. qualcosa di propria mano</E
+M>di proprio pugno.</E
+M>&#171;scuola&#187; si scrive con la &#171;c&#187;</E
+M> non con la &#171;q&#187;</E
+M>come si scrive questo termine greco?</E
+M>non riesco a s. il vostro nome: è troppo ostico.</E
+M>s. la data su un documento</E
+M>sul cancello avevano scritto &#171;Vietato l&#8217;ingresso&#187;</E
+M>andavano scrivendo sui muri frasi inneggianti alla rivoluzione</E
+M>seguo le lezioni scrivendo qualche appunto</E
+M>quel che è scritto</E
+M> è scritto</E
+M>questa me la scrivo</E
+M>ha scritto ciò che gli dettava il cuore</E
+M>s. le lodi di un amico</E
+M>scrisse tutto il suo dolore per la perdita del padre</E
+M>s. concisamente</E
+M>stringatamente</E
+M>con sobrietà</E
+M>s. prolissamente</E
+M>sciattamente</E
+M>s. con stile garbato</E
+M>elegante</E
+M>ricercato</E
+M>s. in punta di penna</E
+M>s. conciso</E
+M>stringato</E
+M>prolisso</E
+M>sciatto.</E
+M>s. il testamento</E
+M>s. una domanda</E
+M>una supplica</E
+M>chi scrive</E
+M>chi scrive conosce bene il problema</E
+M>il notaio aprirà la busta solo alla presenza di chi scrive</E
+M>s. un romanzo</E
+M>una novella</E
+M>una poesia</E
+M>una commedia</E
+M>s. in versi</E
+M>in prosa</E
+M>s. in un giornale</E
+M>su una rivista</E
+M>s. di politica</E
+M>di musica</E
+M>d&#8217;arte</E
+M> tutti scrivevano del mare e delle sue tremende avventure</E
+M> tutti usavano parole meravigliose come bastinaggio e bompresso</E
+M> tutti conoscevano la geografia più lontana</E
+M>s. per il teatro</E
+M>per le scene</E
+M>O fortunato</E
+M> che ... Trovasti ... chi di te sì alto scrisse</E
+M>su&#8217; lor tronchi Atlante Di Ruggiero scrivea gli avi e le imprese</E
+M>s. in latino</E
+M>in tedesco</E
+M>in francese</E
+M>ha scritto l&#8217;articolo in inglese</E
+M>ha deciso di mettersi a s.</E
+M>ha lasciato il lavoro per s.</E
+M>scrive da anni con discreto successo.</E
+M>s. una lettera</E
+M>una cartolina</E
+M>s. due righe</E
+M>poche parole</E
+M>s. due parole di ringraziamento</E
+M>ti scrivo due righe per informarti sui fatti più recenti</E
+M>è un mese che non scrivo a mia sorella</E
+M>scrivigli pure a nome mio</E
+M>gli ho scritto di venire subito</E
+M>carta da s.</E
+M>carta da lettere.</E
+M>come scrisse il Petrarca</E
+M> cosa bella mortal passa e non dura</E
+M>l&#8217;autore dell&#8217;editoriale scrive che presto ci sarà una crisi di governo.</E
+M>scrissi quelle parole in fondo al mio cuore</E
+M>O mente che scrivesti ciò ch&#8217;io vidi</E
+M> Qui si parrà la tua nobilitate</E
+M>s. una partita</E
+M>s. il dare e l&#8217;avere</E
+M>di tratto in tratto</E
+M>per via de&#8217; loro cannocchiali</E
+M> si avvedevano di qualche stella o pianeta</E
+M> ... e subito lo scrivevano tra le loro masserizie</E
+M>s. a lode</E
+M>a colpa</E
+M>quegli</E
+M>che tu farai poi non saranno scritti a tua dannazione</E
+M>Cammillo ... comandò che si scrivesse tre eserciti</E
+M>Per tutto &#8217;l regno fa scriver Marsilio Gente a piedi e a cavallo</E
+M> e trista e buona</E
+M>cavallo che scrive</E

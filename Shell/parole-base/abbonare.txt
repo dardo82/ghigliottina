@@ -1,0 +1,6 @@
+abbonare.txt
+"abbonare"
+"abbonare, replace: abbonarsi"
+"abbonare, replace: abbonarsi"
+*[[abbonarsi]]
+*[[abbuonare]]

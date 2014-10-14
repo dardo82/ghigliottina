@@ -1,0 +1,38 @@
+reprimere.txt
+"bloccare, reprimere, frenare"
+"reprimere"
+"reprimere"
+M>reprim</E
+M>prem</E
+M>reprèssi</E
+M>reprimésti</E
+M>reprèsso</E
+M>represse a stento un grido di dolore</E
+M>le lacrime</E
+M>non poté r</E
+M>un moto di stizza</E
+M>un fremito d&#8217;orrore</E
+M>il riso</E
+M>la collera</E
+M>la rabbia</E
+M>l&#8217;ira</E
+M>lo sdegno</E
+M>l&#8217;irritazione</E
+M>la passione</E
+M>la gelosia</E
+M>l&#8217;impeto</E
+M>l&#8217;istinto naturale</E
+M>scusami se ti ho offeso</E
+M>non ho saputo reprimermi</E
+M>la iattanza</E
+M>la presunzione altrui</E
+M>la marchesana di Monferrato</E
+M>reprime il folle amore del re di Francia</E
+M>una sollevazione</E
+M>un tumulto</E
+M>una congiura</E
+M>una ribellione</E
+M>i moti liberali furono repressi sanguinosamente</E
+M>è meglio prevenire che r</E
+M>la polizia è riuscita a r</E
+M>l&#8217;agitazione</E

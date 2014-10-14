@@ -1,0 +1,301 @@
+taglio.txt
+"a doppio taglio"
+"a doppio taglio"
+"a taglio dorato"
+"a\/di taglio completo"
+"arma a doppio taglio"
+"cannello da taglio"
+"colpire di taglio"
+"corso di taglio e cucito"
+"darci un taglio"
+"deformazione di taglio"
+"del taglio dei fili"
+"di taglio"
+"di taglio alto (es. slip bikini di taglio alto)"
+"fare un taglio"
+"fresco di taglio"
+"modulo di taglio"
+"olio da taglio"
+"petto (taglio di macelleria)"
+"piano di taglio"
+"pizza al taglio"
+"sega per taglio trasversale"
+"sforzo di taglio"
+"smetterla, finirla, darci un taglio, chiudere, mettere la parola fine"
+"smetterla, finirla, darci un taglio, chiudere, mettere la parola fine"
+"spada a doppio taglio"
+"taglio"
+"taglio"
+"taglio"
+"taglio"
+"taglio"
+"taglio"
+"taglio"
+"taglio"
+"taglio"
+"taglio a spazzola"
+"taglio al plasma"
+"taglio aperto"
+"taglio cesareo"
+"taglio cesareo"
+"taglio dei prezzi"
+"taglio del legno"
+"taglio del metallo"
+"taglio del nastro"
+"taglio del vetro"
+"taglio della linea"
+"taglio di brillante"
+"taglio di capelli"
+"taglio di diamante rettangolare"
+"taglio di gemme e pietre preziose"
+"taglio smeraldo"
+"taglio trasversale"
+"zona di taglio"
+#*''se non smetti di parlare ti 
+*[[spaccatura]], [[spacco]], [[apertura]], [[fessura]], [[lacerazione]], [[squarcio]], [[fenditura]]
+*[[accorciamento]]
+*''(di parte del corpo)'' [[troncamento]], [[recisione]], [[amputazione]], [[mutilazione]]; [[ferita]], [[graffio]];
+*''(su un oggetto)'' [[incisione]], [[tacca]]
+*''( di rami, fieno, grano)'' [[potatura]], [[falciatura]], [[mietitura]]
+*''( di scritti, discorsi)'' [[cancellazione]], [[eliminazione]], [[soppressione]], [[abolizione]]; [[abbreviazione]], [[diminuzione]], [[riduzione]], [[condensazione]], [[compendio]]
+*''(di un abito)''  [[fattura]]  
+*''(di abiti, capelli)'' [[stile]], [[linea]], [[foggia]], [[moda]]
+*''(di oggetti)'' [[ grandezza,]] [[misura]], [[dimensione]], [[formato]], [[quantità]], [[metratura]]
+*''(di tessuto)'' [[ritaglio]], [[scampolo]]
+*''(di alimento)'' [[parte]], [[pezzo]], [[fetta]], [[porzione]], [[dose]], [[trancio]]
+*''( di lama, coltello)'' [[affilatura]], [[filo]], [[tempra]], [[tagliente]]
+*''(sulla pelle)''   [[cicatrice]], 
+*''(su stoffe)'' [[strappo]], [[squarcio]]
+*[[tagliare]]
+*[[taglione]]
+*''al taglio''
+* Devoto/Oli,'' Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 2099
+M>t. dei capelli</E
+M>t. normale</E
+M> corto</E
+M> scalato</E
+M> a caschetto</E
+M> con la sfumatura alta</E
+M>bassa</E
+M>t. della barba</E
+M>t. dell&#8217;erba</E
+M>erba da taglio</E
+M>il t. del fieno</E
+M>t. di fili metallici</E
+M> di lamiere</E
+M> di laminati plastici</E
+M>t. dei rami</E
+M>delle fronde di una pianta</E
+M> t. di una siepe</E
+M>attrezzi</E
+M> strumenti da taglio</E
+M>armi da taglio</E
+M>armi da punta e da taglio</E
+M>vendere a taglio</E
+M>pizza a t.</E
+M> cocomeri a t.</E
+M>t. netto</E
+M>staccare</E
+M> recidere con un t. netto</E
+M>dare un t. netto a una questione</E
+M>dare un t. netto a una relazione</E
+M>dare un t.</E
+M>basta così</E
+M> diamo un t. alla discussione</E
+M>alle chiacchiere</E
+M>dài</E
+M>dacci un t.!</E
+M>la ragione e il torto non si dividon mai con un t. così netto</E
+M> che ogni parte abbia soltanto dell&#8217;una o dell&#8217;altro</E
+M>condannare al t. della testa</E
+M>delle mani</E
+M>si è reso necessario il t. della gamba</E
+M>t. di McBurney</E
+M>t. cesareo</E
+M>t. delle carte</E
+M>t. delle cedole</E
+M>t. di un istmo</E
+M>tagliata</E
+M> abbattuta</E
+M>t. a becco di flauto</E
+M>t. a zeppa</E
+M>a schiena d&#8217;asino</E
+M>t. a chierica di monaco</E
+M>a testa di monaco</E
+M>T. delle pietre</E
+M>stereotomia</E
+M>pietre da taglio. T. delle pietre preziose</E
+M>t. a brillante</E
+M> t. a cabochon</E
+M>prendere le misure per il t. della giacca</E
+M>maestro di t.</E
+M> scuola di taglio</E
+M>di t. e cucito</E
+M>di t. e confezione</E
+M>avere un buon taglio.</E
+M>t. del negativo</E
+M>t. dolce</E
+M>taille-douce</E
+M>al t. di</E
+M>al t. di 96 per libbra</E
+M>sforzo di t.</E
+M>sforzo di trazione</E
+M>sollecitata a taglio</E
+M>onda di t.</E
+M>onda rotazionale</E
+M>t. dei metalli</E
+M>frequenza di taglio</E
+M>taglio dei biglietti</E
+M>di banca</E
+M>cambio dei biglietti</E
+M>questo discorso</E
+M>articolo</E
+M> rapporto</E
+M> racconto</E
+M> film</E
+M>è troppo lungo</E
+M> è necessario qualche t.</E
+M>col t. di qualche scena</E
+M> la commedia diventerà più agile</E
+M>quel film</E
+M> con i t. imposti dalla censura</E
+M> ha perso gran parte del suo valore artistico.</E
+M>una tovaglia piena di tagli</E
+M>c&#8217;era nella tela un lungo t. obliquo.</E
+M>un t. netto</E
+M> preciso</E
+M> diritto</E
+M> storto</E
+M> sfrangiato</E
+M>un t. superficiale</E
+M> profondo</E
+M>taglio</E
+M>ferita da t.</E
+M>fasciarsi</E
+M> disinfettare</E
+M> medicarsi un t.</E
+M>aveva un profondo t. al ginocchio.</E
+M>la &#171;l&#187;</E
+M>col t.</E
+M>dell&#8217;alfabeto polacco</E
+M>il &#171;la&#187;</E
+M>sopra il rigo ha un t. in testa</E
+M> il &#171;mi&#187;</E
+M>ha due t. in collo e uno in testa.</E
+M>taglio</E
+M>articolo di t.</E
+M>t. alto</E
+M>t. medio</E
+M>t. basso</E
+M>un t. di stoffa inglese per vestito da uomo</E
+M>è rimasto ancora un t. di seta sufficiente per una camicetta.</E
+M>t. nazionale</E
+M>carne scelta</E
+M>carne comune</E
+M>un t. nel filetto</E
+M> un buon t. per il lesso.</E
+M>Un t. di birra</E
+M>taglio</E
+M>tagliare</E
+M>sarto</E
+M> sarta che ha un bel t.</E
+M> un t. originale</E
+M>un completo di t. classico</E
+M> una giacca di t. sportivo</E
+M>è un soprabito di t. antiquato</E
+M>mettendosi una sua casacca d&#8217;un t. che aveva qualche cosa del militare</E
+M>un mobile del Settecento di t. molto elegante</E
+M>una ragazza di bel t.</E
+M> un uomo di t. robusto</E
+M>un libro di storia di t. divulgativo</E
+M>un romanzo di t. sociologico</E
+M>un discorso di t. politico</E
+M>moralistico.</E
+M>t. delle vele</E
+M>t. dei caratteri</E
+M>caratteri di t. fine</E
+M>di t. grosso</E
+M>t. d&#8217;inquadratura</E
+M>i t. di una serie di banconote</E
+M> di un&#8217;emissione di Buoni del Tesoro</E
+M>biglietti di banca</E
+M> titoli di stato</E
+M>azionarî</E
+M> obbligazioni di piccolo t.</E
+M>di grosso taglio.</E
+M>coltello con t. affilato</E
+M> sottile</E
+M> aguzzo</E
+M> vivo</E
+M> ottuso</E
+M> smussato</E
+M>lama a un t.</E
+M> lametta a due t.</E
+M>guastare</E
+M> rovinare</E
+M> far perdere il t.</E
+M>questo rasoio ha perso il t.</E
+M> non ha più taglio</E
+M>dare</E
+M> ridare</E
+M> rifare il t. a una lama</E
+M> alle forbici</E
+M> alla scure</E
+M>ferire di t.</E
+M>colpire di punta e di taglio</E
+M>arma a doppio t.</E
+M>prendere il coltello per il t.</E
+M>mettere al t. della spada</E
+M>t. superiore</E
+M>testa</E
+M> t. inferiore</E
+M>piede</E
+M>t. anteriore</E
+M>davanti</E
+M>concavo</E
+M>gola</E
+M>libri</E
+M> volumi con t. raffilati</E
+M> con t. dorati</E
+M> marmorizzati</E
+M> cesellati</E
+M>falso t.</E
+M>mettere in t.</E
+M> di t.</E
+M> per t.</E
+M>disporre i libri di t.</E
+M>que&#8217; ruspi ... li contò</E
+M> penò alquanto a metterli di nuovo per t.</E
+M> e a tenerli lì tutti</E
+M> ché ogni momento facevan pancia</E
+M> e sgusciavano dalle sue dite inesperte</E
+M>mettere i mattoni per t.</E
+M>per coltello</E
+M>tenere</E
+M> usare i remi di t.</E
+M>vele di taglio</E
+M>Cadere</E
+M> venire in t.</E
+M>è un proverbio che viene proprio in t.</E
+M>io l&#8217;ho preso</E
+M> perché mi veniva in t.; e dico dove</E
+M> per non farmi bello della roba altrui</E
+M>venire a taglio</E
+M>se io averò il tempo</E
+M> io ne predicherò domenica mattina; e se io non avesse il tempo</E
+M> un altro dì che mi venga a t.</E
+M>colpire la palla di t.</E
+M>dare il t.</E
+M>l&#8217;effetto</E
+M>alla palla.</E
+M>Taglio dei vini</E
+M>vino da taglio</E
+M>eroina con taglio di stricnina</E
+M> di codeina</E
+M>tossicodipendenti che muoiono per i t. con sostanze pericolose</E
+M>sporche</E
+M>frazione</E
+M>t. laterali</E
+M>accordatura</E
+M>presa di taglio</E
+M>atout</E

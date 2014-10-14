@@ -1,0 +1,52 @@
+periferia.txt
+"alla periferia"
+"periferia"
+"quartiere residenziale in periferia"
+#*''La 
+*(zona esterna ad una città) [[sobborgo]]
+*[[periferico]]
+M>peripher</E
+M>i raggi dai vari punti della p</E
+M>di una ruota vanno tutti a riunirsi nel di lei centro</E
+M>la p</E
+M>di un continente</E
+M>di una regione</E
+M>di un&#8217;isola</E
+M>di una catena montuosa</E
+M>disporre i tavoli</E
+M>le sedie</E
+M>alla p</E
+M>del salone</E
+M>la p</E
+M>del circo</E
+M>di un&#8217;arena</E
+M>di un anfiteatro</E
+M>il progressivo ampliamento dell&#8217;area urbana verso la p</E
+M>una zona di p</E
+M>le case</E
+M>le strade</E
+M>i negozî della p</E
+M>la p</E
+M>di Milano</E
+M>di Vienna</E
+M>di New York</E
+M>abitare in p</E
+M>recarsi in p</E
+M>trasferirsi in p</E
+M>la p</E
+M>operaia</E
+M>la p</E
+M>residenziale</E
+M>è una p</E
+M>mal collegata con il centro</E
+M>di periferia</E
+M>una stazioncina di p</E
+M>le solite case di p</E
+M>un cinema di periferia</E
+M>il sangue affluisce dal cuore alla p</E
+M>del corpo</E
+M>stimoli che dalla p</E
+M>convergono ai centri nervosi</E
+M>periferico</E
+M>i voti</E
+M>gli umori della p</E

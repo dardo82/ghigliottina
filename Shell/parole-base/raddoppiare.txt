@@ -1,0 +1,48 @@
+raddoppiare.txt
+"raddoppiare"
+"raddoppiare"
+#* ''Il nuovo progetto mira a raddoppiare la superficie del parco''
+#* ''In seguito alle nuove disposizioni è raddoppiato il lavoro degli uffici pubblici''
+* ''(moltiplicare per due)'' [[duplicare]]
+* (''nel significato iperbolico'') [[accrescere]]
+* ''(linguistica)'' [[geminare]]
+* [[dimezzare]]
+*[[raddoppiamento]], [[raddoppio]], [[raddoppiarsi]]
+M>doppio</E
+M>io raddóppio</E
+M>un numero</E
+M>un segmento</E
+M>una superficie</E
+M>il vantaggio</E
+M>il distacco</E
+M>gli è stato raddoppiato lo stipendio</E
+M>in pochi anni ha raddoppiato il suo capitale</E
+M>le sue rendite</E
+M>gli hanno raddoppiato la pena</E
+M>la scommessa</E
+M>la posta</E
+M>Lascia o raddoppia</E
+M>una consonante</E
+M>la preposizione</E
+M>raddoppia la consonante iniziale della parola seguente</E
+M>la marcatura</E
+M>la nostra squadra ha raddoppiato</E
+M>il lavoro</E
+M>lo studio</E
+M>gli sforzi</E
+M>l&#8217;attenzione</E
+M>i colpi</E
+M>le botte</E
+M>le gentilezze</E
+M>i rimproveri</E
+M>il passo</E
+M>i passi</E
+M>essere</E
+M>il reddito annuo è quasi raddoppiato</E
+M>l&#8217;impeto della pioggia raddoppia</E
+M>Gronda il sangue; raddoppia il ferir</E
+M>avere</E
+M>non tutti i cavalli imparano a raddoppiare</E
+M>con raddoppiata lena</E
+M>foglio</E
+M>tovagliolo raddoppiato</E

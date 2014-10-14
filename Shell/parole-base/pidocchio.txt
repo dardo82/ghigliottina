@@ -1,0 +1,47 @@
+pidocchio.txt
+"pidocchio"
+"pidocchio"
+"pidocchio delle piante"
+*[[pidocchioso]]
+M>ped</E
+M>lus</E
+M>ped</E
+M>clus</E
+M>pedis</E
+M>ped</E
+M>lus</E
+M>Pediculus humanus</E
+M>Pediculus humanus capitis</E
+M>Pediculus humanus corporis</E
+M>del pube</E
+M>Phthirus pubis</E
+M>piattone</E
+M>piattola</E
+M>erba da pidocchi</E
+M>pidocchiara</E
+M>erba per i pidocchi</E
+M>pidocchiaia</E
+M>è un p</E
+M>rifatto</E
+M>delle api</E
+M>Braula caeca</E
+M>della carpa</E
+M>Argulus foliaceus</E
+M>del melo</E
+M>Eriosoma lanigerum</E
+M>dell’olivo</E
+M>nero</E
+M>Liothrips oleae</E
+M>fleotripide dell’olivo</E
+M>dei pipistrelli</E
+M>pollino</E
+M>Menopon gallinae</E
+M>delle rose</E
+M>gorgoglione</E
+M>virgola</E
+M>Lepidosaphes pinnaeformis</E
+M>P. di mare</E
+M>peòcio</E
+M>piòcio</E
+M>Mytilus galloprovincialis</E
+M>cozza</E

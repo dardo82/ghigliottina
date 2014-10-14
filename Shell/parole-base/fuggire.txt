@@ -1,0 +1,90 @@
+fuggire.txt
+"aiutare a fuggire, aiutare a scappare"
+"andarsene da; fuggire da"
+"fuggire"
+"fuggire"
+"sfuggire, evitare"
+"fuggire con"
+"fuggire con qcs"
+"fuggire; andarsene"
+"fuggire; evitare una punizione"
+"precipitarsi fuori; fuggire; scappare"
+"scappare attraverso qcs, fuggire attraverso qcs"
+"volare via, fuggire, scappare"
+#*''il rapinatore è riuscito a fuggire''
+*[[scappare]], [[correre]]
+*[[sfuggire]], [[fuggita]]
+M>fug</E
+M>fuggo</E
+M>fuggi</E
+M>fugge</E
+M>fuggiamo</E
+M>fuggite</E
+M>fùggono</E
+M>fugga</E
+M>fùggia</E
+M>fuggiamo</E
+M>fuggiate</E
+M>fùggano</E
+M>essere</E
+M>dalle mani dei nemici</E
+M>alle guardie</E
+M>su per i monti</E
+M>verso il mare</E
+M>in un’isola sperduta</E
+M>all’impazzata</E
+M>come il vento</E
+M>fuggì via come se avesse i cani dietro</E
+M>all’appressarsi dell’invasore</E
+M>i cittadini fuggirono per la montagna</E
+M>f. su una barca</E
+M>scappare</E
+M>dal carcere</E
+M>di prigione</E
+M>da un campo di concentramento</E
+M>il canarino è fuggito dalla gabbia</E
+M>a vent’anni fuggì di casa e non vi fece più ritorno</E
+M>non volle ascoltarmi e fuggì via</E
+M>lo spettacolo era così noioso che sono fuggito dopo il primo atto</E
+M>si mise a f</E
+M>per i campi come un fulmine</E
+M>aspettami</E
+M>non fuggire!</E
+M>Ansimando fuggìa la vaporiera</E
+M>a scappa e fuggi</E
+M>E già per li splendori antelucani</E
+M>Le tenebre fuggian da tutti lati</E
+M>Voce dal sen fuggita più richiamar non vale</E
+M>mi è fuggito di mente ciò che dovevo fare</E
+M>sfuggire</E
+M>uscire</E
+M>quando Bacco trionfa il pensier fugge</E
+M>diventò smorto come se la vita fosse fuggita dal suo volto</E
+M>le fuggì l’animo e vinta cadde sopra il battuto della torre</E
+M>come fugge il tempo!</E
+M>La vita fugge e non s’arresta una ora</E
+M>Fuggono i giorni lieti Lieti di bella età</E
+M>Quali Fiamminghi</E
+M>Fanno lo schermo perché ’l mar si fuggia</E
+M>Così le Grazie si fuggìan tremando</E
+M>un pericolo</E
+M>la fatica</E
+M>le tentazioni</E
+M>anche la Speme</E
+M>Ultima Dea</E
+M>fugge i sepolcri</E
+M>il tempo</E
+M>sfuggire</E
+M>i cattivi compagni</E
+M>è fuggito da tutti</E
+M>uno come il demonio</E
+M>come la peste</E
+M>fólgore</E
+M>fuggendo il proprio sito</E
+M>Non corse come tu ch’ad esso riedi</E
+M>appena veggio Il vel fuggente biancheggiar fra’ mirti</E
+M>tutti l’ultimo sospiro Mandano i petti alla fuggente luce</E
+M>cogliere l’attimo fuggente</E
+M>rincorrere i fuggenti</E
+M>Fuggono i Franchi allora a freno sciolto</E
+M>E misto il vincitor va tra’ fuggenti</E

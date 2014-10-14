@@ -1,0 +1,44 @@
+determinare.txt
+"determinare"
+"determinare"
+"determinare"
+"determinare"
+"determinare il prezzo"
+"determinare una data"
+"stabilire, determinare prezzi di vendita"
+* [[specificare]], [[precisare]]
+*[[determinarsi]]
+M>determinare</E
+M>term</E
+M>nus</E
+M>io detèrmino</E
+M>i confini di un podere</E
+M>le rispettive zone d’influenza</E
+M>il tempo</E
+M>il luogo della riunione</E
+M>il prezzo di una merce</E
+M>le modalità del pagamento</E
+M>una distanza</E
+M>l’estensione di un terreno</E
+M>la posizione geografica di una località</E
+M>il valore di un’espressione</E
+M>il volume di un solido</E
+M>l’azotemia</E
+M>la glicemia</E
+M>il significato di un vocabolo</E
+M>le proprietà di un corpo</E
+M>un concetto</E
+M>un animale</E
+M>una pianta</E
+M>il voto di sfiducia della maggioranza determina la caduta del governo</E
+M>l’alluvione determinò il crollo di parecchi edifici</E
+M>fatti che determinano un fenomeno</E
+M>una situazione</E
+M>determinarsi</E
+M>bisogna fare ogni tentativo per impedire il determinarsi di una crisi di governo</E
+M>venuta meno anche quella speranza</E
+M>si determinò in tutti uno stato di profondo scoraggiamento</E
+M>le difficoltà sopraggiunte lo hanno determinato a desistere dal tentativo</E
+M>ci siamo determinati ad accogliere le proposte della maggioranza</E
+M>abbiamo determinato di ricorrere in appello</E
+M>fu determinato dal consiglio che si desse inizio ai lavori</E

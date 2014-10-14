@@ -1,0 +1,28 @@
+giovanotto.txt
+"giovanotto"
+"giovanotto"
+*[[giovane]]
+*[[vecchio]]
+*[[giovanottata]]
+*Devoto/Oli,''Il dizioanario della lingua italiana'' edizione cartacea 2000-2001, p. 913
+M>giovane</E
+M>giovine</E
+M>è un g</E
+M>in gamba</E
+M>crescendo</E
+M>s’è fatto un bel giovanotto</E
+M>giovanòtta</E
+M>una bella giovanotta</E
+M>ha preferito restare g</E
+M>è ancora giovanotto</E
+M>mozzo</E
+M>marinaio</E
+M>di 1</E
+M>di 2</E
+M>di macchina</E
+M>di cucina</E
+M>pasticciere</E
+M>di cambusa</E
+M>è diventato un bel giovanottone</E
+M>giovinottino</E
+M>giovinottèllo</E

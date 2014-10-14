@@ -1,0 +1,58 @@
+assai.txt
+"assai"
+"grazie assai"
+*[[molto]], [[tanto]], [[parecchio]]
+*[[abbastanza]], [[sufficientemente]]
+*[[scarsamente]], [[insufficientemente]]
+*italiano
+*napoletano
+*siciliano
+M>ad satis</E
+M>Non pianger più</E
+M>non m’hai tu pianto a</E
+M>chi per la patria muor</E
+M>vissuto è a.</E
+M>Donna Caritea</E
+M>averne a</E
+M>di qualcuno</E
+M>di qualcosa</E
+M>molto</E
+M>è già a</E
+M>quello che ho fatto per voi</E
+M>assai da quello</E
+M>Che ti parve sì mesto e sì nefasto</E
+M>È peggiorato il viver nostro</E
+M>assai assai</E
+M>assaissimo</E
+M>buono</E
+M>bello</E
+M>prima</E
+M>meno</E
+M>più</E
+M>è bello a</E
+M>va male a</E
+M>sapere</E
+M>importare</E
+M>m’importa a</E
+M>di quello che fate!</E
+M>so a</E
+M>di ciò che vuole!</E
+M>vien uno con un pane in tasca</E
+M>so a</E
+M>dov’è andato a prenderlo</E
+M>gente</E
+M>ricchezze</E
+M>disgrazie</E
+M>terre e città si edificarono</E
+M>il poco e l’a</E
+M>i pochi e gli assai</E
+M>fare come i boni mercanti</E
+M>li quali per guadagnare l’a</E
+M>avventurano il poco</E
+M>ma non l’a</E
+M>per guadagnar il poco</E
+M>D’assai</E
+M>io credo che voi v’inganniate d’a</E
+M>un signore</E
+M>una dama d’a</E
+M>me ne son consigliato con un bibliofilo d’assai</E

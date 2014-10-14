@@ -1,0 +1,13 @@
+autista.txt
+"autista"
+"autista"
+"autista"
+"autista d'autobus"
+"autista di pullman"
+"co-autista"
+"fare da autista"
+"drive around fare da autista a somebody"
+"macchina a noleggio con autista"
+#*''su ogni autobus c'è cartello che avverte di non disturbare l''''autista'''''
+*[[guidatore]], [[conducente]]
+*[[autistico]]

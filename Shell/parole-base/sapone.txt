@@ -1,0 +1,62 @@
+sapone.txt
+"acqua e sapone"
+"acqua e sapone"
+"bolla di sapone"
+"sapone"
+"sapone alla glicerina"
+"sapone da bagno"
+"sapone da barba"
+"sapone di glicerina, sapone alla glicerina"
+"sapone di Marsiglia"
+"sapone in polvere"
+"sapone intimo"
+"sapone liquido"
+"sapone liquido"
+"sapone per il bucato"
+"schiuma di sapone"
+"senza sapone"
+"tavoletta di sapone"
+* (per il [[bucato]] , per le stoviglie) [[detersivo]],  [[detergente]] 
+* (sapone da toletta) [[saponetta]] 
+*[[albero del sapone]], [[bolla di sapone]]
+*italiano
+M>sapo -</E
+M>nis</E
+M>s. liquidi</E
+M>granulati</E
+M>salatura</E
+M>granatura</E
+M>liquidazione</E
+M>saponi d&#8217;impasto</E
+M>saponi agli acidi grassi</E
+M>s. comuni</E
+M>s. di Marsiglia</E
+M>s. molli</E
+M>s. marmorizzato</E
+M>s. giallo resinato</E
+M>s. verde</E
+M>S. metallici</E
+M>S. da toeletta</E
+M>s. alla lavanda</E
+M>al bergamotto</E
+M>s. da barba</E
+M>s. da bagno</E
+M>S. medicinali</E
+M>s. allo zolfo</E
+M>s. non sapone</E
+M>syndet</E
+M>sìndet</E
+M>syn</E
+M>thetic</E
+M>det</E
+M>ergent</E
+M>saponetta</E
+M>lavare</E
+M>lavarsi con il s.</E
+M>con acqua e s.</E
+M>una ragazza acqua e s.</E
+M>bolla di s.</E
+M>perdere il ranno e il s.</E
+M>dare del s. a qualcuno</E
+M>Malattie da sapone</E
+M>s. di resina</E

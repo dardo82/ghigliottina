@@ -1,0 +1,18 @@
+tritare.txt
+"tritare"
+M>tritare</E
+M>tritus</E
+M>ter</E
+M>t. la carne</E
+M>la cipolla</E
+M>la verdura</E
+M>t. la paglia</E
+M>t. il foraggio per il bestiame</E
+M>abbiamo tritato gli avversari</E
+M>L&#8217;altro</E
+M> ch&#8217;appresso me la rena trita</E
+M> È Tegghiaio Aldobrandi</E
+M>carne</E
+M>verdura</E
+M>paglia tritata</E
+M>un tritato di cipolle</E

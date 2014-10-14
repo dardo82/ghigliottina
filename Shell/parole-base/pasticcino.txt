@@ -1,0 +1,7 @@
+pasticcino.txt
+"pasticcino"
+M>pasticcio</E
+M>pasta</E
+M>pasticcini alla crema</E
+M>al cioccolato</E
+M>assortiti</E

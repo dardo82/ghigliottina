@@ -1,0 +1,26 @@
+sveglio.txt
+"completamente sveglio"
+"di mente acuta, sveglio"
+"essere sveglio"
+"mezzo sveglio"
+"occhio acuto, sveglio"
+"sembrare sveglio"
+"sveglio"
+"sveglio"
+"sveglio (di mente)"
+"sveglio comeun grillo"
+"sveglio, intraprendente"
+"tenere sveglio"
+*[[desto]]
+*[[addormentato]], [[assonnato]], [[assopito]]
+*[[risveglio]]
+M>svegliare</E
+M>è s. o sta dormendo?</E
+M>sei già sveglia?</E
+M>l&#8217;operazione gli è stata fatta da sveglio</E
+M>è un ragazzo s.</E
+M>ha un&#8217;intelligenza</E
+M>una mente sveglia</E
+M>ha solo quindici anni</E
+M> ma è s. come una volpe</E
+M>una donnina sveglia</E

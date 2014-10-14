@@ -1,0 +1,42 @@
+schietto.txt
+"discorso franco; schietto"
+"schietto"
+"schietto"
+"schietto, critico, che non scende a compromessi"
+"schietto, sincero"
+#* ''animo schietto, modi schietti''
+*''(di vino, sostanza)'' [[puro]], [[semplice]], [[naturale]], [[genuino]], [[autentico]], [[incontaminato]], [[intatto]], non mescolato
+* [[chiaro]],[[sobrio]], [[lineare]]
+*[[sottile]], [[affusolato]] 
+*''(di vino, sostanza)'' [[contaminato]], [[inquinato]], [[impuro]], [[mescolato]]
+*[[schiettamente]]
+* (leale) [[schietezza]]
+M>sliht</E
+M>schlecht</E
+M>argento</E
+M>oro s.</E
+M>vino s.</E
+M>cibi</E
+M>alimenti s.</E
+M>colore s.</E
+M>parlare un italiano s.</E
+M>esprimersi in fiorentino</E
+M>in milanese s.</E
+M>frutta s.</E
+M>una bestia sana e s.</E
+M>Non rami s.</E
+M> ma nodosi e &#8217;nvolti</E
+M>I cipressi che a Bólgheri alti e schietti Van da San Guido in duplice filar</E
+M>Diti s. soavi</E
+M>Di persona era grande</E
+M> magro e s.</E
+M>parole s.</E
+M>amicizia s.</E
+M>è una persona molto s.</E
+M>voglio farti un discorso s.</E
+M>modi s.</E
+M>parlare schietto</E
+M>a dirla schietta</E
+M>a dirvela schietta</E
+M>avere una pronuncia schiettamente veneziana</E
+M>ditemi schiettamente ciò che ne pensate.</E

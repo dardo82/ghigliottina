@@ -1,0 +1,49 @@
+immobile.txt
+"bene immobile"
+"immobile"
+"immobile"
+"immobile di lusso"
+"immobile in vendita"
+"immobile industriale"
+"immobile locato"
+"peso immobile e costante"
+* [[fisso]], [[stabile]], [[statico]], [[saldo]], [[attaccato]], [[bloccato]], [[fermato]], [[saldato]], [[assicurato]], [[ancorato]], [[immodificabile]], [[immutabile]], [[immoto]], [[inerte]], [[inamovibile]]
+*[[fermo]], [[calmo]]
+* [[statico]],  [[fisso]], [[inerte]], [[fissato]], [[stabile]]
+*bene immobile, [[edificio]], [[costruzione]], [[palazzo]], [[casa]], [[appartamento]], [[proprietà]], [[possedimento]], [[terra]], [[terreno]], [[fondo]], [[latifondo]]
+*[[mobile,]] [[spostabile]], [[instabile]], [[malfermo]], [[vacillante]], [[traballante]], [[dinamico]]
+*''(fermo)''  [[trasportabile]], [[asportabile]], [[rimovibile]], [[trasferibile]] 
+*bene mobile, bene patrimoniale
+*italiano
+*inglese
+M>immob</E
+M>lis</E
+M>mob</E
+M>lis</E
+M>stava i</E
+M>ad ascoltare</E
+M>la barca era i</E
+M>in mezzo al lago</E
+M>immobile</E
+M>Dato il mortal sospiro</E
+M>Stette la spoglia</E
+M> quante volte ho pensato</E
+M> da bambino</E
+M> che mi sarebbe piaciuto essere morto</E
+M> freddo</E
+M> i.</E
+M> con gli occhi bene aperti?</E
+M>la mente mia</E
+M>tutta sospesa</E
+M>Mirava fissa</E
+M>e attenta</E
+M>bene i</E
+M>immobile</E
+M>comprare</E
+M>vendere un i</E
+M>essere proprietario di immobili</E
+M>imposta sugli incrementi di valore degli i</E
+M>la sera io non posso che</E
+M>star solo</E
+M>con me</E
+M>seduto immobilmente</E

@@ -1,0 +1,111 @@
+aereo.txt
+"addestramento aereo"
+"aereo"
+"aereo"
+"aereo"
+"aereo"
+"aereo a noleggio"
+"aereo a razzo"
+"aereo ad ali fisse"
+"aereo cisterna"
+"aereo cisterna"
+"aereo da carico"
+"aereo della marina"
+"aereo passeggeri"
+"aereo per trasporto merci"
+"aereo privato"
+"aereo spia"
+"andare in aereo; volare"
+"attacco aereo"
+"avere mal d'aereo"
+"biglietto aereo"
+"bombardamento aereo"
+"borsa da aereo"
+"carico aereo"
+"comando aereo"
+"combattimento aereo"
+"combattimento aereo"
+"con l'aereo"
+"controllo aereo"
+"controllo del traffico aereo"
+"decollato (aereo)"
+"direttore del traffico aereo"
+"diritto aereo"
+"espresso aereo"
+"gioco aereo"
+"il settore del trasporto aereo"
+"incidente aereo"
+"medico che fa le visite spostandosi in aereo o in elicottero"
+"miglio aereo"
+"motore dell'aereo"
+"per espresso aereo"
+"più pesante dell'aria (aereo)"
+"ponte aereo"
+"ponte aereo"
+"radar aereo"
+"raid aereo"
+"ruota davanti dell'aereo"
+"salvataggio aereo\/marino"
+"scalo aereo"
+"scendere in picchiata (aereo)"
+"servizio aereo"
+"sistema aereo"
+"sopralluogo aereo"
+"spazio aereo"
+"traffico aereo"
+"trasporto aereo"
+"viaggiare in aereo"
+"viaggio aereo"
+#*''spazio '''aereo'''''
+#*''ripresa '''aerea'''''
+*''(che vive o fluttua in aria)'' [[gassoso]], [[aeriforme]]
+*''(leggero, delicato)'' [[etereo]], [[leggero]], [[impalpabile]]
+*''(riferito all'aeronautica)'' [[aeronautico]]
+*''(medicina)'' [[respiratorio]]
+*''(veivolo)'' [[aeroplano]], [[aeromobile]], [[velivolo]]
+*''(che vive o fluttua in aria)'' [[terrestre]]
+*''(composto di aria)'' [[solido]]
+*''(leggero, delicato)'' [[pesante]], [[fondato]]
+M>ris</E
+M>corpo a</E
+M>aeree gru</E
+M>voli a</E
+M>linea a</E
+M>di contatto</E
+M>Nella convalle fra gli a</E
+M>poggi</E
+M>da un poggio aereo</E
+M>Vedea nel pian discorrere La caccia affaccendata</E
+M>ti miro dall’a</E
+M>loggia Che t’alzò Benedetto da Maiano</E
+M>danze</E
+M>discorsi a</E
+M>speculazioni aeree</E
+M>epigeo</E
+M>fusti</E
+M>rami a</E
+M>radici a</E
+M>Ficus</E
+M>Malta a</E
+M>Prospettiva a</E
+M>squadra</E
+M>flotta a</E
+M>l’arma a</E
+M>linea</E
+M>posta a</E
+M>compagnia a</E
+M>traffico</E
+M>servizio a</E
+M>per via a</E
+M>fotografia</E
+M>veduta a</E
+M>difesa a</E
+M>prendere l’a</E
+M>l’a</E
+M>si alzò in volo</E
+M>a. civili</E
+M>militari</E
+M>da turismo</E
+M>un a</E
+M>di linea</E
+M>antenna</E

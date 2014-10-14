@@ -1,0 +1,32 @@
+umorismo.txt
+"con senso dell'umorismo"
+"privo di senso dell'umorismo"
+"risvegliare il tuo umorismo"
+"umorismo"
+"umorismo"
+"umorismo macabro"
+"umorismo macabro"
+"umorismo sarcastico"
+*[[senso dell'umorismo]] 
+M>umore</E
+M>humour</E
+M>uno scrittore</E
+M> un regista</E
+M> un disegnatore ricco</E
+M>povero di u.</E
+M>avere</E
+M>non avere il senso dell’u.</E
+M> mancare di u.</E
+M>un film</E
+M> un disegno</E
+M> un fumetto pieno</E
+M>privo di u.</E
+M>l’u. di Boccaccio</E
+M> di Dickens</E
+M> di Zavattini</E
+M>l’u. dei film di R. Benigni</E
+M> di C. Verdone</E
+M>u. grafico</E
+M>fare dell’u.</E
+M>siamo in una situazione drammatica</E
+M> e non mi sembra il caso di fare dell’umorismo.</E

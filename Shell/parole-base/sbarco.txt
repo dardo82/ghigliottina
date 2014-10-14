@@ -1,0 +1,20 @@
+sbarco.txt
+"mezzo da sbarco"
+"reparto da sbarco"
+"sbarco"
+"sbarco"
+*[http
+M>-chi</E
+M>lo s. dei feriti</E
+M>le operazioni di s.</E
+M>lo s. del carbone</E
+M>delle casse</E
+M>scarico</E
+M>lo s. in Normandia decise le sorti della seconda guerra mondiale</E
+M>mezzi di s.</E
+M>da s.</E
+M>reparti</E
+M>truppe di</E
+M>testa di s.</E
+M>dopo lo s. il comandante ha voluto scrivere le sue memorie.</E
+M>ponti di s.</E

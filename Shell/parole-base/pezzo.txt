@@ -1,0 +1,211 @@
+pezzo.txt
+"avere un pezzo di; avere un (con sostantivi non uncountable)"
+"essere sul pezzo"
+"grosso pezzo"
+"l'intero pezzo"
+"ogni pezzo"
+"pezzo"
+"pezzo"
+"pezzo"
+"pezzo"
+"pezzo"
+"pezzo"
+"pezzo a pezzo"
+"pezzo d'epoca"
+"pezzo da museo"
+"pezzo degli scacchi in legno"
+"pezzo di carne"
+"pezzo di carta"
+"pezzo di cuoio"
+"pezzo di informazione"
+"pezzo di legno"
+"pezzo di metallo di riserva in una fonderia"
+"pezzo di pane"
+"pezzo di pane"
+"pezzo di pane inzuppato"
+"pezzo di terra"
+"pezzo di terreno"
+"pezzo dopo pezzo"
+"pezzo dopo pezzo"
+"pezzo forte"
+"pezzo forte"
+"pezzo grosso"
+"pezzo musicale"
+"pezzo musicale"
+"pezzo per pezzo"
+"pezzo per pezzo"
+"pezzo principale"
+"pezzo tagliato"
+"pezzo unico"
+"pezzo, saggio, passo"
+"prezzo al pezzo"
+"retribuzione a pezzo"
+"serventi al pezzo"
+"un pezzo"
+"una brava persona; un pezzo di pane"
+#*''Dev'essere un '''pezzo''' di uno dei suoi giocattoli
+#*''Ogni giocatore ha 16 '''pezzi''', di 6 tipi diversi''
+* ''(parte di qualcosa)''  [[pezza]]
+*''(botanica)'' dal [[latino]] ''[[pĭcea]]''
+*[[parte]], [[frammento]], [[scheggia]], [[ritaglio]], [[scampolo]], [[resto]], [[avanzo]], [[brandello]], [[coccio]]
+*(di alimento) [[fetta]], [[morso]], [[boccone]], [[tozzo]]
+*(di una serie, una categoria) [[elemento]], [[esemplare]]
+*(di terreno) [[appezzamento]]
+*(di giornale) [[articolo]]
+*(di opera musicale o letteraria) [[brano]], [[passo]], [[passaggio]]
+*[[intero]]
+*[[pezza]]
+*''pezzo da novanta''
+M>pezza</E
+M>un p</E
+M>di legno</E
+M>di ferro</E
+M>di marmo</E
+M>di vetro</E
+M>essere un p</E
+M>di legno</E
+M>essere un p</E
+M>di marmo</E
+M>di ghiaccio</E
+M>un p</E
+M>di stoffa</E
+M>di cartone</E
+M>un p</E
+M>di carta</E
+M>un p</E
+M>di pane</E
+M>un p</E
+M>di roccia s&#8217;è staccato dalla montagna</E
+M>è caduto un p</E
+M>dell&#8217;intonaco</E
+M>s&#8217;è mangiato un bel p</E
+M>di torta</E
+M>di formaggio</E
+M>andare</E
+M>mandare in pezzi</E
+M>fare in due</E
+M>tre</E
+M>quattro</E
+M>mille pezzi</E
+M>fare ridurre qualcuno a pezzi</E
+M>cascare</E
+M>cadere a pezzi</E
+M>antichi palazzi che ormai cadono a pezzi</E
+M>cadere</E
+M>essere</E
+M>sentirsi a pezzi</E
+M>a pezzi e</E
+M>bocconi</E
+M>fare un lavoro</E
+M>pagare</E
+M>mangiare a pezzi e a bocconi</E
+M>smontare un congegno</E
+M>una macchina pezzo per pezzo</E
+M>i p</E
+M>di ricambio di un motore</E
+M>rimontare i p</E
+M>di un armadio</E
+M>un p</E
+M>pronto per il montaggio</E
+M> hanno un magazzino di vecchie componenti</E
+M> come i garagisti che rimettono in sesto le automobili d&#8217;epoca</E
+M> usando i p. buoni di quelle inviate allo sfasciacarrozze</E
+M>anatomico</E
+M>attrezzo</E
+M>meccanismo fatto d&#8217;un p</E
+M>d&#8217;un solo p</E
+M>stare</E
+M>camminare d&#8217;un p</E
+M>tutto d&#8217;un p</E
+M>uomo tutto d&#8217;un p</E
+M>un completo femminile a due p</E
+M>costume da bagno in due p</E
+M>un due pezzi</E
+M>il p</E
+M>inferiore del bikini</E
+M>è un prodotto che viene venduto a 3 euro al p</E
+M>torrone da 5 euro al p</E
+M>un servizio di piatti da 39 pezzi</E
+M>i p</E
+M>di una collezione</E
+M>un p</E
+M>da 2</E
+M>da 50 euro</E
+M>un p</E
+M>da 20 franchi</E
+M>da 8 gulden</E
+M>da 10 scudi</E
+M>campione</E
+M>sagoma</E
+M>un p</E
+M>d&#8217;artiglieria</E
+M>una batteria da tre</E
+M>da sei p</E
+M>pezzo</E
+M>base</E
+M>capo pezzo</E
+M>pezzo da novanta</E
+M>pedine</E
+M>minori</E
+M>maggiori</E
+M>raro</E
+M>da museo</E
+M>la mia automobile ormai è un p</E
+M>da museo</E
+M>forte</E
+M>duro</E
+M>un p</E
+M>d&#8217;uomo</E
+M>un bel p</E
+M>di ragazza</E
+M>di giovanotto</E
+M>un p</E
+M>grosso</E
+M>d&#8217;asino</E
+M>d&#8217;imbecille</E
+M>d&#8217;ignorante</E
+M>di merda!</E
+M>si vedeva un p</E
+M>di cielo azzurro dalla finestra</E
+M>un p</E
+M>del giardino rimaneva sempre in ombra</E
+M>un p</E
+M>di terreno coltivato a girasoli</E
+M>litigare per la proprietà di un piccolo p</E
+M>di terra</E
+M>abbiamo fatto un p</E
+M>di strada insieme</E
+M>un bel p</E
+M>un buon p</E
+M>ho dovuto fare un bel p</E
+M>di cammino a piedi</E
+M>se prendi l&#8217;autobus puoi risparmiarti un buon p</E
+M>di strada sotto il sole</E
+M>per un buon p</E
+M>la costa sale con un pendio lento e continuo</E
+M>recitare un p</E
+M>dell&#8217;Orlando Furioso</E
+M>cantare un p</E
+M>d&#8217;opera</E
+M>il p</E
+M>migliore del balletto è il finale</E
+M>forte</E
+M>di bravura</E
+M>fare</E
+M>scrivere un p</E
+M>preparare un p</E
+M>di attualità</E
+M>di cronaca nera</E
+M>un p</E
+M>un bel p</E
+M>è partito da un p</E
+M>da un p</E
+M>in qua</E
+M>da un p</E
+M>a questa parte</E
+M>è un bel p</E
+M>che aspetto</E
+M>rientrammo in casa un p</E
+M>dopo il tramonto</E
+M>due povere donne non potevano aver l&#8217;obbligo di mantenere un fannullone</E
+M>un pezzaccio da galera</E

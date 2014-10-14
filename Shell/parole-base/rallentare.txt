@@ -1,0 +1,50 @@
+rallentare.txt
+"rallentare"
+"rallentare"
+"rallentare"
+"rallentare gradualmente"
+"rallentare; andare piano"
+"rallentare; andare piano"
+"ridurre il ritmo, rallentare"
+"trattenere qc, fermare qc, rallentare qc, ostacolare qc"
+M>lento</E
+M>io rallènto</E
+M>il passo</E
+M>la marcia</E
+M>il moto</E
+M>la velocità</E
+M>l&#8217;automobile rallentò la sua corsa</E
+M>Come a corrier tra via</E
+M>se &#8217;l cibo manca</E
+M>Conven per forza r</E
+M>il corso</E
+M>il tempo</E
+M>il gioco</E
+M>rallenta un po&#8217;</E
+M>non riesco a tenerti dietro</E
+M>è buona norma di prudenza</E
+M>per chi guida</E
+M>agli incroci</E
+M>entrando in stazione</E
+M>il treno rallenta progressivamente</E
+M>essere</E
+M>mi pare che la velocità sia rallentata</E
+M>il suo passo si rallentò</E
+M>nelle ultime battute</E
+M>il tempo rallenta</E
+M>allentare</E
+M>le redini</E
+M>il freno</E
+M>Fia d&#8217;uopo ancor che da le lunghe cure T&#8217;allevii alquanto</E
+M>Il teso per gran tempo arco rallenti</E
+M>la disciplina</E
+M>la vigilanza</E
+M>lo studio</E
+M>la burocrazia</E
+M> il potere degli uffici blocca o quantomeno rallenta ogni decisione</E
+M> ogni innovazione</E
+M> alla fine ogni attività</E
+M>il suo fervore nello studio si è un po&#8217; rallentato</E
+M>le visite</E
+M>gli inviti</E
+M>diradare</E

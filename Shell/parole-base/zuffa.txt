@@ -1,0 +1,32 @@
+zuffa.txt
+"zuffa"
+"zuffa"
+*[[battaglia]], [[combattimento]], [[mischia]]. [[scontro]], [[scaramuccia]], [[colluttazione]], [[lite]], [[baruffa]], [[rissa]],[[tafferuglio]]
+*[[rissa]]
+M>zupfa</E
+M>acciuffarsi</E
+M>mischia</E
+M>cominciare</E
+M>rinnovare la z.</E
+M>entrare</E
+M>cacciarsi</E
+M>gettarsi nella z.</E
+M>la z. ebbe inizio</E
+M>nacque da un banale litigio</E
+M>il diverbio si trasformò in una z.</E
+M>corse all’ala destra dove più ardeva la z.</E
+M>Dunque</E
+M> codardo</E
+M> il capitan tuo vedi In z. co’ nemici e solo il lassi?</E
+M>z. campali</E
+M> chiamate ne’ nostri tempi con vocabolo francioso</E
+M> giornate</E
+M>z. tra cani e gatti</E
+M>le padrone si affannavano a sedare la z. tra i loro cani</E
+M>z. letterarie</E
+M>politiche</E
+M>ideologiche</E
+M>fare zuffa con qualcosa</E
+M>una muffa</E
+M> Per l’alito di giù che vi s’appasta</E
+M> Che con li occhi e col naso facea zuffa</E

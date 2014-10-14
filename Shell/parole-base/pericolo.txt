@@ -1,0 +1,102 @@
+pericolo.txt
+"essere in pericolo"
+"fonte di pericolo"
+"fuori pericolo"
+"fuori pericolo"
+"fuori pericolo"
+"fuori pericolo"
+"gettarsi a terra (per evitare un pericolo)"
+"il pericolo è il mio mestiere"
+"il pericolo è passato"
+"in pericolo"
+"in pericolo"
+"in pericolo"
+"in pericolo"
+"in pericolo"
+"in pericolo"
+"in pericolo d'estinzione"
+"in pericolo di"
+"in pericolo di vita"
+"incurante del pericolo"
+"mettere in pericolo"
+"mettere in pericolo"
+"mettere la propria vita a repentaglio, esporsi al pericolo"
+"non c'è pericolo"
+"non fuori pericolo"
+"pericolo"
+"pericolo"
+"persona pericolosa"
+"pericolo d'incendio"
+"pericolo d'incendio"
+"pericolo giallo"
+"pericolo nascosto"
+"pericolo per la salute"
+"pericolo per la sicurezza dello Stato"
+"segnale di pericolo"
+"segno di pericolo"
+#* ''Attento, sei in '''pericolo'''!''
+*[[rischio]], [[azzardo]], [[repentaglio]], [[minaccia]], [[emergenza]], [[frangente]]
+* [[incognita]], [[insidia]]
+*[[sicurezza]], [[salvezza]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001. Le Monnier, p. 1508
+*AA.VV., ''Dizionario etimologico'', edizione 2004, ristampa 2008, RusconiLibri, p. 744
+M>peric</E
+M>lum</E
+M>essere</E
+M>trovarsi in p</E
+M>correre p</E
+M>un serio p</E
+M>ci minaccia</E
+M>ci sovrasta</E
+M>affrontare il p</E
+M>esporsi al p</E
+M>schivare</E
+M>scongiurare un p</E
+M>sottrarsi a un p</E
+M>scampare un p</E
+M>da un p</E
+M>salvarsi da un p</E
+M>visto il p</E
+M>se la diede a gambe</E
+M>c&#8217;è p. di epidemia</E
+M>a quei tempi c&#8217;era spesso p. di sommosse</E
+M>c&#8217;è p. di perdersi in mezzo a tutta questa gente</E
+M>p. di morte o p. di vita</E
+M>p. della vita</E
+M>essere in grave p. di morte</E
+M>essere in grave p. di vita</E
+M>reati di pericolo</E
+M>p. pubblico</E
+M>p. dell&#8217;anima e dello scandalo</E
+M>in caso di p</E
+M>in caso di p</E
+M>avvertimi immediatamente</E
+M>a mio</E
+M>tuo</E
+M>suo</E
+M>rischio e p</E
+M>se vuoi partire</E
+M>lo fai a tuo rischio e p</E
+M>essere fuori p</E
+M>ormai è fuori p</E
+M>i medici lo hanno dichiarato fuori pericolo</E
+M>Pericolo!</E
+M>Attenzione</E
+M>pericolo!</E
+M>i p. del mondo</E
+M>la vita d&#8217;oggi è piena di pericoli</E
+M>affrontare i p. del mare</E
+M>della foresta</E
+M>qui non ci sono p. per i bambini</E
+M>quell&#8217;individuo è un vero p. per la società</E
+M>p. pubblico</E
+M>p. pubblico numero uno</E
+M>nemico pubblico numero uno</E
+M>p. giallo</E
+M>hai quel maledetto gusto d&#8217;andare a cercare i p</E
+M>quando c&#8217;è tanto sentiero!</E
+M>Segnale di pericolo</E
+M>non c&#8217;è p. che faccia quel che gli si dice</E
+M>non c&#8217;è p. che mi offra mai qualche cosa</E
+M>non c&#8217;è p</E
+M>&#171;Non dimenticare la tua promessa&#187; &#171;Non c&#8217;è pericolo&#187;</E

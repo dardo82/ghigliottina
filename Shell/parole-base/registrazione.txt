@@ -1,0 +1,61 @@
+registrazione.txt
+"brevetto in corso di registrazione"
+"diritti di registrazione"
+"piastra di registrazione"
+"registrazione"
+"registrazione"
+"registrazione"
+"registrazione del diritto d'autore"
+"registrazione magnetica"
+"registrazione sonora"
+"registrazione su nastro"
+"registrazione su nastro"
+"strumenti di registrazione"
+"studio di registrazione"
+"tassa di registrazione, tassa di iscrizione"
+*[[rilevazione]], [[visualizzazione]]
+*[[annotazione]], [[catalogazione]], [[inventario]], [[censimento]], [[immatricolazione]]
+*(di suono) [[riproduzione]], [[incisione]]
+*[[differita]]
+*[[cancellazione]], [[eliminazione]]
+*[[diretta]]
+M>contabili</E
+M>commerciali</E
+M>di un pagamento</E
+M>di una partita in avere</E
+M>delle operazioni di carico e scarico di magazzino</E
+M>anagrafiche</E
+M>amministrative</E
+M>delle nascite</E
+M>delle morti</E
+M>di un matrimonio</E
+M>di un automezzo</E
+M>di un aeromobile</E
+M>di un decreto ministeriale presso la Corte dei conti</E
+M>di un atto</E
+M>di un contratto</E
+M>istantanea</E
+M>continua</E
+M>scritta</E
+M>grafica</E
+M>fotografica</E
+M>ottica</E
+M>magnetica</E
+M>fonografica</E
+M>di un discorso</E
+M>di una canzone</E
+M>radiofonica</E
+M>cinematografica</E
+M>televisiva</E
+M>sala</E
+M>studio</E
+M>locali</E
+M>cabina di registrazione</E
+M>essere</E
+M>andare in registrazione</E
+M>video</E
+M>video</E
+M>magnetica</E
+M>di un orologio a pendolo</E
+M>delle punterie del motore</E
+M>dei freni di un automezzo</E

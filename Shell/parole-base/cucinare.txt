@@ -1,0 +1,28 @@
+cucinare.txt
+"cucinare"
+"cucinare"
+"cucinare per breve tempo (precotto)"
+"cucinare troppo"
+"olio per cucinare"
+#*'''''Cucinare''' un arrosto non è difficile''
+#*''Sto '''cucinando'''!''
+#*''Ho '''cucinato''' l'articolo''
+*[[preparare]], [[cuocere]], [[imbandire]]
+*fare da mangiare
+M>*cocinare</E
+M>coquinare</E
+M>la carne</E
+M>il pesce</E
+M>il pranzo</E
+M>la cena</E
+M>stava cucinando</E
+M>quando sono entrato</E
+M>sapere</E
+M>non saper c</E
+M>mia madre cucina benissimo</E
+M>questi sono i concetti da esporre</E
+M>cucinali ora tu come sai</E
+M>un articolo</E
+M>chissà come mi cucineranno i miei esaminatori!</E
+M>bene</E
+M>per le feste</E

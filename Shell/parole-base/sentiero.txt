@@ -1,0 +1,35 @@
+sentiero.txt
+"sentiero"
+"sentiero"
+"sentiero battuto"
+"sentiero battuto"
+"sentiero conosciuto"
+"sentiero da cavallo"
+"sentiero di discesa"
+"sentiero di montagna"
+"sentiero laterale"
+"sentiero nella foresta"
+"sentiero ripido"
+"sentiero tagliafuoco"
+* [[stradina]], [[viottolo]], [[tratturo]], [[calle]], [[mulattiera]]
+*[[sentieristica]]
+*''essere sul sentiero di guerra'' 
+*italiano
+M>sentier</E
+M>sem</E
+M>passare per un s.</E
+M>c&#8217;è un s. che accorcia il percorso di una buona mezz&#8217;ora</E
+M>per salire al rifugio c&#8217;è un solo s.</E
+M>s. attrezzato</E
+M>se tu sai</E
+M> più astuto</E
+M> I cupi sentier trova Colà dove nel muto Aere il destin de&#8217; popoli si cova</E
+M>l&#8217;avviò</E
+M> pei floridi Sentier della speranza</E
+M> Ai campi eterni</E
+M>mettersi</E
+M>essere sul s. di guerra</E
+M>s. luminoso</E
+M>s. di discesa</E
+M>s. radio</E
+M>canaletto</E

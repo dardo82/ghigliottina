@@ -1,0 +1,81 @@
+tenda.txt
+"asta della tenda"
+"dietro la tenda"
+"dormire in tenda"
+"mettere su la tenda"
+"montare una tenda"
+"paletto da tenda"
+"stare in tenda"
+"tenda"
+"tenda"
+"tenda"
+"tenda"
+"tenda, tende"
+"tenda a pacchetto"
+"tenda a parete"
+"tenda avvolgibile"
+"tenda da campeggio"
+"tenda da doccia"
+"tenda da sole"
+"tenda del circo"
+"tenda del palco"
+"tenda di circo"
+"tenda di tela"
+"tenda per finestra"
+*[[cortina]], [[velo]]
+*[[tendaggio]], [[tendale]]
+* [[attendarsi]]
+*Enciclopedia [http
+M>tenda</E
+M>tend</E
+M>la statua</E
+M> in attesa dell&#8217;inaugurazione</E
+M> era ricoperta da una t.</E
+M>sul palco del teatro all&#8217;aperto era stata tesa una grande t.</E
+M>t. da sole per spiaggia</E
+M>tende di cotone</E
+M> di lino</E
+M> di canapa</E
+M>tendine</E
+M>chiudere un passaggio</E
+M>rivestire la porta d&#8217;ingresso con una pesante t. di velluto</E
+M>t. alla veneziana</E
+M>t. arricciate</E
+M>a festoni</E
+M>a rullo</E
+M>a pannelli</E
+M>a strisce verticali</E
+M>tende da doccia</E
+M>da vasca</E
+M>aprire</E
+M>alzare</E
+M>scostare la t.</E
+M>le t.</E
+M>chiudere</E
+M>abbassare</E
+M>tirare la t.</E
+M>le tende.</E
+M>tendone</E
+M>Ponte tenda</E
+M>navi a ponte t.</E
+M>t. quadrate</E
+M>rettangolari</E
+M>coniche</E
+M>canadesi</E
+M>t. militari</E
+M>t. da campo</E
+M>da campeggio</E
+M>t. per alpinismo</E
+M>t. a doppio tetto</E
+M> t. isotermiche</E
+M>alzare</E
+M>montare la t.</E
+M>piantare le t.</E
+M>piantare le t. in un luogo</E
+M>a casa di qualcuno</E
+M>levare le t.</E
+M>tendone</E
+M>la t. del circo</E
+M>teatro tenda</E
+M>copertura a tenda</E
+M>t. a ossigeno</E

@@ -1,0 +1,37 @@
+dialogo.txt
+"dialogo"
+"dialogo"
+"dialogo"
+*[[conversazione]], [[colloquio]], [[discussione]], [[chiacchierata]]
+*[[monologo]], [[soliloquio]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 617
+M>dial</E
+M>gus</E
+M>ghi</E
+M>prendere parte al d</E
+M>ebbero un d</E
+M>animato</E
+M>ho udito alcune battute del d</E
+M>fra i due</E
+M>fare un d</E
+M>con sé stesso</E
+M>con i proprî pensieri</E
+M>il d</E
+M>fra Oriente e Occidente</E
+M>aprire un d</E
+M>fra partiti contrapposti</E
+M>mio padre non accetta il d</E
+M>tra noi manca il d</E
+M>ognuno resta della sua opinione</E
+M>il d</E
+M>del primo atto è molto fiacco</E
+M>fare uso frequente</E
+M>sobrio</E
+M>del d</E
+M>drammatico</E
+M>diretto</E
+M>narrato</E
+M>i d</E
+M>di Platone</E
+M>di Giordano Bruno</E
+M>sopra i due massimi sistemi del mondo</E

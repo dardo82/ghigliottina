@@ -1,0 +1,243 @@
+vivo.txt
+"http://api.wordreference.com/12bee/json/iten/vivo/"
+#* [[rimarrà]] per [[sempre]] 
+#* un dolore 
+#* è di color verde 
+*[[vivente]], [[vitale]]
+*[[vivace]], [[attivo]], [[dinamico]], [[operoso]], [[energico]], [[vigoroso]]
+*(solo singolare) parte viva, [[essenza]]
+*[[morto]]
+*[[pigro]]
+*[[ravvivare]]
+*''a fuoco vivo''
+*''più morto che 
+*''mangiarselo 
+*''non c'era un anima '''viva'''''
+*''farsi 
+*''a '''viva''' voce''
+*''calce '''viva'''''
+*italiano
+*esperanto
+*spagnolo
+M>vus</E
+M>morto</E
+M>quando l’ambulanza l’ha raccolto era ancora v.</E
+M> è morto durante il trasporto all’ospedale</E
+M>la polizia ha l’ordine di catturare i due feroci assassini vivi o morti</E
+M>i nati v. dello scorso anno</E
+M>essere ancora v. e vegeto</E
+M>v. e verde</E
+M>ardere</E
+M>bruciare</E
+M>seppellire</E
+M>crocifiggere v. qualcuno</E
+M>catturare v. un lupo</E
+M>un falco</E
+M>una vasca per conservare v. le trote pescate</E
+M>anguille</E
+M>aragoste v.</E
+M>ancora v.</E
+M>pesce v.!</E
+M>piante v.</E
+M>alberi v.</E
+M>siepe v.</E
+M>siepe morta</E
+M>organi v.</E
+M>tessuti v.</E
+M>cellule v.</E
+M>essere più morto che v.</E
+M>quando è scesa dall’auto</E
+M> dopo l’incidente</E
+M> era più morta che v.</E
+M> anche se illesa</E
+M>anima v.</E
+M>non esserci</E
+M>non vedersi anima v.</E
+M>sono entrato</E
+M> ma in casa non c’era anima v.</E
+M>non ho incontrato anima v. per tutta la strada</E
+M>farsi v.</E
+M>da allora non si è fatto più v.</E
+M> né con me né con gli altri amici</E
+M>mi farò v. presto</E
+M> per lettera o per telefono</E
+M>gli scriverò due righe</E
+M>tanto per farmi vivo</E
+M>il tuo amico v. non è stato mai: è troppo vile ed egoista</E
+M>Questi sciaurati</E
+M>che mai non fur vivi</E
+M>resterà a lungo v. nel cuore di tutti coloro che l’hanno conosciuto</E
+M>un fatto che resta v. nella memoria di tutti noi</E
+M>un giovane v. ed estroverso</E
+M>un bambino v.</E
+M> anche troppo v.</E
+M>un uomo molto colto e v.</E
+M>una persona d’ingegno v. e versatile</E
+M>vivace</E
+M>Fuoco v.</E
+M>fiamma v.</E
+M>il fuoco si fa più v.</E
+M>il vento ha reso più v. le fiamme</E
+M>ravvivare</E
+M>Vestita di color di fiamma viva</E
+M>cuocere alla</E
+M>sulla v. fiamma</E
+M>luce v.</E
+M>un lampo vivissimo di luce</E
+M>un v. bagliore</E
+M>colori v.</E
+M>dipingere a v. colori</E
+M>rosso v.</E
+M>giallo v.</E
+M>Suono</E
+M>rumore v.</E
+M>il rumore si sta facendo più vivo</E
+M>Acqua v.</E
+M>L’erbe e ’ fior</E
+M> l’acqua v. chiara e ghiaccia</E
+M>Smontaro alquanti galeotti in terra Per riportarne e legna et acqua v.</E
+M>aria</E
+M>brezza v.</E
+M>all’aria v.</E
+M> rinvenne</E
+M>spirava una v. brezza</E
+M>vivace</E
+M>una conversazione v. e piacevole</E
+M>ne fece una v. descrizione</E
+M>una v. rappresentazione d’ambiente</E
+M>uno stile v. ed efficace</E
+M>una v. esecuzione di un pezzo musicale</E
+M>vivo</E
+M>vivace</E
+M>un ritratto v.</E
+M>v. e parlante</E
+M>una discussione v.</E
+M>troppo v.</E
+M>c’è stata</E
+M> tra quei due critici</E
+M> una v. polemica</E
+M>la conflittualità tra i due partiti si fa sempre più v.</E
+M>era una guerra</E
+M> anzi cinque guerre</E
+M> coperte</E
+M>gentili</E
+M>fino a un certo segno</E
+M>ma vive e senza tregua</E
+M>v. compassione</E
+M>v. commozione</E
+M>v. fiducia</E
+M>v. desiderio</E
+M>con v. sollecitudine</E
+M>gradisca i miei più v. rallegramenti</E
+M>con v. ringraziamenti</E
+M>v. augurî</E
+M>vivissimi</E
+M>di v. cuore</E
+M>sentire v. necessità</E
+M>v. bisogno di qualche cosa</E
+M>usanze</E
+M>tradizioni v.</E
+M>non più v.</E
+M>lingue v.</E
+M>lingue morte</E
+M>uso v. di una lingua</E
+M>uso antiquato</E
+M>arcaico</E
+M>letterario</E
+M>forme</E
+M>parole</E
+M>voci</E
+M>espressioni</E
+M>locuzioni v.</E
+M>Stime vive</E
+M>scorte vive</E
+M>stime morte</E
+M>scorte morte</E
+M>Viva voce</E
+M>non gli scriverò</E
+M> glielo dirò a v. voce</E
+M>cose apprese dalla v. voce dell’insegnante</E
+M>voce v.</E
+M>Come a color che troppo reverenti Dinanzi a suo maggior parlando sono</E
+M> Che non traggon la voce viva ai denti</E
+M>Argento v.</E
+M>Calce v.</E
+M>calce spenta</E
+M>idrata</E
+M>forza v.</E
+M>energia cinetica</E
+M>teorema delle forze v.</E
+M>le forze v. della nazione</E
+M>v. forza</E
+M>per</E
+M>viva forza</E
+M>viva</E
+M>lo trascinarono via a v. forza</E
+M>ch’andar per viva Forza mi convenia dove morte era</E
+M>palla v.</E
+M>Carne v.</E
+M>incidere</E
+M>penetrare fino alla carne v.</E
+M>Tempra di ferro il suo tagliar non schiva</E
+M> Che non vada a trovar la carne v.</E
+M>Roccia v.</E
+M>una caverna scavata nella roccia v.</E
+M>la zappa ha incontrato la roccia v.</E
+M>pietra v.</E
+M>sasso v.</E
+M>era un fiumicello il quale d’una delle valli ... cadeva giù per balzi di pietra v.</E
+M>e v’ha sedili e sponde Di v. sasso</E
+M>Angolo</E
+M>canto</E
+M>spigolo v.</E
+M>opera v.</E
+M>carena</E
+M>opera morta</E
+M>costo v.</E
+M>spesa v.</E
+M>tributo</E
+M>provento v.</E
+M>prezzo v.</E
+M>Morti li morti e i vivi parean vivi</E
+M>toglieano i vivi All’etere maligno ed alle fere I miserandi avanzi</E
+M>morto</E
+M>pregare per i vivi e per i morti</E
+M>riessere</E
+M>tornare tra i v.</E
+M>i morti</E
+M> dopo la battaglia</E
+M> erano più dei v.</E
+M>cose che avvengono tra i vivi</E
+M>donazione tra vivi</E
+M>inter vivos</E
+M>donazione causa mortis</E
+M>il v. della carne</E
+M>ferire</E
+M>pungere nel vivo</E
+M>sul vivo</E
+M>entrare nel vivo di una questione</E
+M>v. della colonna</E
+M>fusto</E
+M>tronco</E
+M>v. di culatta</E
+M> v. di volata</E
+M>al vivo</E
+M>descrivere</E
+M>ritrarre al v.</E
+M>al v.</E
+M>al v. della pagina</E
+M>al v. della giustezza</E
+M>trasmissione al</E
+M>dal vivo</E
+M>programma dal vivo</E
+M>in diretta</E
+M>dal vivo</E
+M>una vicenda</E
+M>una scena</E
+M>un’immagine ripresa dal v.</E
+M>descrivere</E
+M>rappresentare</E
+M>ritrarre vivamente un ambiente</E
+M>una scena</E
+M>protestare vivamente</E
+M>rallegrarsi vivamente con qualcuno</E

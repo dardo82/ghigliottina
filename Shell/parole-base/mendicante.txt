@@ -1,0 +1,15 @@
+mendicante.txt
+"mendicante"
+"mendicante"
+"mendicante"
+*[[povero]], [[accattone]], [[questuante]]
+*Giuseppe Pittano, '' il mio primo dizionario di italiano illustrato'', edizione 1995, p. 322, DeAgostini
+M>mendicare</E
+M>ordini m</E
+M>frati m</E
+M>un m</E
+M>cieco</E
+M>una vecchia m</E
+M>vietato l’ingresso ai m</E
+M>povero</E
+M>accattone</E

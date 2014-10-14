@@ -1,0 +1,244 @@
+articolo.txt
+"articolo"
+"articolo"
+"articolo"
+"articolo"
+"articolo"
+"articolo civetta"
+"articolo civetta"
+"articolo d'abbigliamento"
+"articolo da notte femminile"
+"articolo di cronaca"
+"articolo di giornale"
+"articolo di giornale"
+"articolo economico"
+"articolo in promozione"
+"articolo per articolo"
+"articolo più importante"
+"articolo principale"
+"articolo standard"
+"articolo unico"
+"articolo, scritto"
+"in articolo di"
+"l'articolo"
+"titolo di un articolo"
+#*''Questo è un articolo molto richiesto''
+#*''l'articolo 3 della legge...''
+M>artic</E
+M>lus</E
+M>artus</E
+M>definito</E
+M>determinativo</E
+M>indefinito</E
+M>indeterminativo</E
+M>partitivo</E
+M>di + il</E
+M>del</E
+M>dello</E
+M>della</E
+M>l’a</E
+M>1° della Costituzione</E
+M>l’a</E
+M>comma 3° (anche a</E
+M>l’a</E
+M>773 del codice civile</E
+M>di bilancio</E
+M>di fede</E
+M>quello che dice il medico è per lui a</E
+M>di fede</E
+M>scrivere</E
+M>pubblicare</E
+M>leggere un a</E
+M>di cronaca</E
+M>di attualità</E
+M>un a</E
+M>di economia</E
+M>di scienza</E
+M>di letteratura</E
+M>di fondo</E
+M>article de fond</E
+M>editoriale</E
+M>editoriale</E
+M>editorial</E
+M>di spalla</E
+M>di taglio</E
+M>pezzo</E
+M>di colore</E
+M>articoli</E
+M>articoli da viaggio</E
+M>articoli sportivi</E
+M>un negozio di articoli da toletta</E
+M>è un a</E
+M>che va molto</E
+M>articoli di esportazione</E
+M>ma sai che sei un bell’articolo!</E
+M>in a</E
+M>di morte</E
+M>in articulo mortis</E
+M>ille</E
+M>illa</E
+M>illud</E
+M>ipsum</E
+M>ipsam</E
+M>der</E
+M>die</E
+M>das</E
+M>the</E
+M>A. determinativo</E
+M>gli</E
+M>il-i</E
+M>lo-gli</E
+M>gli</E
+M>gl’</E
+M>l’altro</E
+M>l’inchiostro</E
+M>l’uomo</E
+M>gli altri</E
+M>gl’inchiostri</E
+M>gli uomini</E
+M>gli gliommeri</E
+M>gli gnocchi</E
+M>gli sci</E
+M>lo zoccolo</E
+M>lo zotico</E
+M>ps-</E
+M>pn-</E
+M>lo specchio</E
+M>lo strano</E
+M>gli sbagli</E
+M>gli sfratti</E
+M>lo pseudonimo</E
+M>lo pneumotorace</E
+M>lo bdellio</E
+M>lo xenofobo</E
+M>gli dei</E
+M>per lo più</E
+M>per lo meno</E
+M>Lo giorno se n’andava</E
+M>il ballo</E
+M>il rosso</E
+M>i balli</E
+M>i rossi</E
+M>il plettro</E
+M>il grande</E
+M>i plettri</E
+M>i grandi</E
+M>l’iodio</E
+M>il iodio</E
+M>lo iodio</E
+M>l’Yemen</E
+M>il Yemen</E
+M>lo Yemen</E
+M>gli</E
+M>gli iatagan</E
+M>gli Iugoslavi</E
+M>lo pneumatico</E
+M>gli pneumatici</E
+M>il pneumatico</E
+M>i pneumatici</E
+M>il Heine</E
+M>lo Heine</E
+M>l’Heine</E
+M>l’anima</E
+M>l’uva</E
+M>le anime</E
+M>l’anime</E
+M>le uve</E
+M>l’uve</E
+M>la iena</E
+M>le uova</E
+M>dal</E
+M>da il</E
+M>nel</E
+M>in il</E
+M>il lieto giorno</E
+M>i bei dipinti</E
+M>le lunghe e tormentate notti</E
+M>tutto il giorno</E
+M>tutt’e due gli occhi</E
+M>ambedue gli ostacoli</E
+M>aver fame</E
+M>aver sete</E
+M>perder tempo</E
+M>non aprir bocca</E
+M>carta canta e villan dorme</E
+M>mio padre</E
+M>tua madre</E
+M>suo fratello</E
+M>mia moglie</E
+M>loro</E
+M>proprio</E
+M>i miei fratelli</E
+M>le sue nipoti</E
+M>il loro padre</E
+M>il proprio figlio</E
+M>la Giovanna</E
+M>la Giovanna d’Arco</E
+M>il Carlo</E
+M>il Giuseppe Rossi</E
+M>il Rossi</E
+M>il Brambilla</E
+M>il Chiabrera</E
+M>il Cattaneo</E
+M>il Petrarca</E
+M>il Boccaccio</E
+M>Petrarca</E
+M>Boccaccio</E
+M>Colombo</E
+M>Mazzini</E
+M>Garibaldi</E
+M>Verdi</E
+M>Puccini</E
+M>Virgilio</E
+M>Dante</E
+M>Tiziano</E
+M>la Duse</E
+M>la Deledda</E
+M>Candia</E
+M>Capri</E
+M>Cipro</E
+M>Corfù</E
+M>Creta</E
+M>Malta</E
+M>Rodi</E
+M>l’Aia</E
+M>l’Aquila</E
+M>La Spezia</E
+M>l’Avana</E
+M>il Cairo</E
+M>la Mecca</E
+M>la Roma</E
+M>il Napoli</E
+M>il Torino</E
+M>tutta Europa</E
+M>la repubblica di Francia</E
+M>recarsi in Toscana</E
+M>nel</E
+M>partì il giorno seguente</E
+M>nacque l’anno 1818</E
+M>la mattina</E
+M>la sera</E
+M>l’estate</E
+M>guadagna 1500 euro il mese</E
+M>A. indeterminativo</E
+M>uno</E
+M>un libro</E
+M>un cristallo</E
+M>uno spigolo</E
+M>uno gnomo</E
+M>un amico</E
+M>un uscio</E
+M>una</E
+M>una casa</E
+M>una spazzola</E
+M>un’isola</E
+M>un’amica</E
+M>un uomo</E
+M>un uovo</E
+M>un iato</E
+M>uno iato</E
+M>un iugoslavo</E
+M>uno iugoslavo</E
+M>una</E
+M>una iena</E
+M>una uosa</E

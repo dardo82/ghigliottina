@@ -1,0 +1,250 @@
+notte.txt
+"abbigliamento da notte femminile"
+"articolo da notte femminile"
+"avventura di una notte"
+"azione furtiva commessa di notte"
+"bella di notte (botanica)"
+"berretto da notte"
+"berretto da notte"
+"biancheria per la notte"
+"biancheria per la notte"
+"blu notte"
+"blu notte"
+"buio della notte"
+"buona notte"
+"camicia da notte"
+"camicia da notte"
+"camicia da notte"
+"camicia da notte"
+"camicia da notte"
+"camicia da notte"
+"camicia da notte"
+"della dodicesima notte"
+"di notte"
+"di notte"
+"di notte"
+"di notte"
+"direttore del turno di notte"
+"durante la notte"
+"favola della buona notte"
+"festa danzante di tutta la notte; rave"
+"fin dalla notte dei tempi"
+"fiore che fiorisce di notte"
+"giorno e notte"
+"guerriero della notte"
+"ieri notte, ieri sera"
+"in piena notte, a notte fonda"
+"l'intera notte, tutta la notte"
+"la notte porta consiglio"
+"la sua origine si perde nella notte dei tempi"
+"lampada da notte"
+"lavoro di notte"
+"Le mille e una notte"
+"nel cuore della notte"
+"nella notte"
+"notte"
+"notte"
+"notte"
+"notte alta"
+"notte bianca"
+"notte brava"
+"notte da lupi"
+"notte della prima"
+"notte di capodanno"
+"notte e giorno"
+"notte in bianco"
+"notte inoltrata"
+"ogni notte"
+"passare la notte a"
+"per tutta la notte"
+"per tutta la notte"
+"per tutta la notte"
+"per tutta la notte"
+"quella notte"
+"restare tutta la notte, fermarsi per la notte"
+"scuro come la notte"
+"Si sta facendo notte"
+"signora della notte"
+"soggiorno di una notte"
+"superare la notte"
+"turno di notte"
+"turno di notte"
+"turno di notte"
+"tutta la notte"
+"tutta la notte"
+"vaso da notte"
+"vaso da notte"
+*[[nottata]], ore notturne, tarda serata
+*[[giorno]], [[giornata]], ore diurne
+*[[metronotte]], [[nottambulo]], [[nottetempo]]
+*''giorno e notte''
+*''peggio che andar di notte''
+M>nox noctis</E
+M>giorno</E
+M>le n</E
+M>si allungano</E
+M>si accorciano</E
+M>all’equatore la n</E
+M>dura 1</E
+M>ore</E
+M>ai poli sei mesi</E
+M>d’inverno le n</E
+M>sono più lunghe dei giorni</E
+M>la n</E
+M>dal 29 al 30</E
+M>tra il 29 e il 30</E
+M>la n</E
+M>sul 30</E
+M>la n</E
+M>del 30</E
+M>il 30 n</E
+M>la n</E
+M>di Natale</E
+M>la n</E
+M>di san Silvestro</E
+M>la n</E
+M>di san Bartolomeo</E
+M>la n</E
+M>dei cristalli</E
+M>Reichskristallnacht</E
+M>Reichspogromnacht</E
+M>l’una</E
+M>le due di</E
+M>della</E
+M>un’ora</E
+M>due ore di n</E
+M>ultime della n</E
+M>ultimissime della n</E
+M>di n</E
+M>di prima n</E
+M>a n</E
+M>inoltrata</E
+M>a n</E
+M>tarda</E
+M>in piena n</E
+M>la n</E
+M>mi tornano le solite idee</E
+M>la n</E
+M>prima</E
+M>la n</E
+M>dopo</E
+M>tutta la n</E
+M>questa n</E
+M>stanotte</E
+M>ieri n</E
+M>ieri l’altro n</E
+M>domani n</E
+M>giorno e n</E
+M>fredda</E
+M>piovosa</E
+M>umida</E
+M>serena</E
+M>stellata</E
+M>Dolce e chiara è la n</E
+M>e senza vento</E
+M>placida</E
+M>tranquilla</E
+M>inquieta</E
+M>d’inferno</E
+M>una n</E
+M>d’amore</E
+M>passare una n</E
+M>insonne</E
+M>bianca</E
+M>in bianco</E
+M>passare una n</E
+M>agitata</E
+M>buona n</E
+M>buonanotte!</E
+M>felice n</E
+M>lascialo fare ciò che vuole</E
+M>e buona n</E
+M>buona n</E
+M>al secchio</E
+M>augurare</E
+M>dare la buona n</E
+M>avere</E
+M>dare la buona n</E
+M>la mala n</E
+M>fare di giorno n</E
+M>fare di n</E
+M>giorno</E
+M>prendere</E
+M>scambiare il giorno per la n</E
+M>fare il turno di n</E
+M>fare la n</E
+M>essere di n</E
+M> uno che fa la n. misura le giornate da un’alba all’altra</E
+M>la prima n</E
+M>di nozze</E
+M>la prima n</E
+M>diritto di prima n</E
+M>ius primae noctis</E
+M>da notte</E
+M>camicia</E
+M>berretto</E
+M>vaso da notte</E
+M>fitta</E
+M>fonda</E
+M>scura</E
+M>nel cuore della n</E
+M>sono appena le sedici ed è già n</E
+M>viene</E
+M>cade la n</E
+M>si fa n</E
+M>s’è fatta</E
+M>fatto</E
+M>a n</E
+M>fatta</E
+M>sul far della n</E
+M>innanzi n</E
+M>A poco a poco s’annunciò la notte Sulla serenità canavesana</E
+M>sopravvenne la n</E
+M>fummo sorpresi dalla n</E
+M>cominciammo a parlare e ci si fece n</E
+M>in un baleno</E
+M>ci corre quanto dal giorno alla n</E
+M>peggio che andar di n</E
+M>di n</E
+M>tutti i gatti sono bigi</E
+M>al buio tutti i gatti son bigi</E
+M>ombre che vagano nella notte</E
+M>Stendon le nubi un tenebroso velo</E
+M>E la n</E
+M>più sempre si diffonde</E
+M>la n</E
+M>dei sotterranei</E
+M>delle miniere</E
+M>nella galleria era n</E
+M>fonda</E
+M>la profonda notte Che sempre nera fa la valle inferna</E
+M>l’eterna n</E
+M>la tetra n</E
+M>la lunga n</E
+M>la divina ira di Palla Al cacciator col cenno onnipossente Avvinse i lumi di perpetua n</E
+M>negra n</E
+M>le coperse gli occhi</E
+M>cadde all’indietro</E
+M>e svenne</E
+M>tenebre</E
+M>la n</E
+M>della barbarie</E
+M>la cosiddetta n</E
+M>del medioevo</E
+M>la n</E
+M>dell’ignoto</E
+M>la n</E
+M>del nulla</E
+M>la n</E
+M>dell’oblio</E
+M>vicende che si perdono nella n</E
+M>dei tempi</E
+M>la n</E
+M>eterna</E
+M>la n</E
+M>senza fine</E
+M>Effetto notte</E
+M>Legatura a notte</E
+M>legare a notte</E
+M>legatura a giorno</E
+M>nottataccia</E

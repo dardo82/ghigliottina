@@ -1,0 +1,14 @@
+adriatico.txt
+"adriatico"
+"relativo all'Adriatico"
+"Adriatico"
+*Dal 
+M>Hadriat</E
+M>cus</E
+M>Adriat</E
+M>cus</E
+M>la riviera a</E
+M>le coste a</E
+M>i porti adriatici</E
+M>razza a</E
+M>dinarica</E

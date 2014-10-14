@@ -1,0 +1,61 @@
+bastone.txt
+"bastone"
+"bastone"
+"bastone da passeggio"
+"bastone da passeggio"
+"bastone di Arlecchino"
+"bastone di giullare"
+"bastone pastorale"
+"bastone per bloccare ruote"
+"bastone per cercare l'acqua"
+*[[legno]], [[pertica]]; ''(per colpire)'' [[randello]], [[clava]], [[mazza]], [[manganello]], [[batacchio]] ''(per bacchiare)'', [[batocchio]] ''(di cieco)'' 
+*''(segno di comando, di autorità)''[[scettro]],[[bacchetta]], [[verga]] 
+*'' (sport)'' [[mazza]] (per colpire la palla); ''(nelle corse a staffetta)'' [[testimone]]
+*[[basto]], [[bastonabile]], [[bastonare]], [[bastonata]], [[bastonatura]], [[controbastone]], [[capobastone]] 
+* [[batacchio]], [[controfiletto]],  [[cotissa]]
+M>*basto</E
+M>onis</E
+M>da passeggio</E
+M>da montagna</E
+M>canna</E
+M>mazza</E
+M>animato</E
+M>alpino</E
+M>essere il b</E
+M>della vecchiaia</E
+M>mettere i b</E
+M>fra le ruote</E
+M>non temere il b</E
+M>il b</E
+M>e la carota</E
+M>di comando</E
+M>ogni soldato ha nel suo sacco il b</E
+M>di maresciallo</E
+M>tenere il b</E
+M>del</E
+M>comando</E
+M>di comando</E
+M>mazza</E
+M>Bastoni</E
+M>bastoncini</E
+M>da sci</E
+M>scherma col b</E
+M>pilota</E
+M>di fiocco</E
+M>bastoncino</E
+M>tondino</E
+M>astragalo</E
+M>toro</E
+M>di Giacobbe</E
+M>baculus Iacob</E
+M>bâton de Jacob</E
+M>Genesi</E
+M>Carattere</E
+M> bastone</E
+M>bastoni</E
+M>l’asso</E
+M>il due di bastoni</E
+M>l’asso di bastoni</E
+M>accennare coppe e dare</E
+M>tirare</E
+M> bastoni</E

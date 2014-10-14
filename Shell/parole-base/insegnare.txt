@@ -1,0 +1,141 @@
+insegnare.txt
+"insegnamento, insegnare"
+"insegnamento, insegnare"
+"insegnare"
+"insegnare"
+"insegnare"
+"insegnare a qualcuno come si fa qualcosa"
+"insegnare a qualcuno le basi dell'inglese"
+"insegnare una lezione"
+#* ''Il professor Cagnizzi '''insegna''' lettere al liceo Manzoni''
+#* ''Non '''insegna''' per soldi, ma per passione''
+#* ''Ragazzacci!! Se vi prendo, v''''insegno''' io [che cosa succede] a strappare l'erba!'' 
+*[[insegnante]], [[insegnamento]], [[rinsegnare]]
+M>*ins</E
+M>gnare</E
+M>signum</E
+M>io inségno</E
+M>noi insegniamo</E
+M>voi insegnate</E
+M>insegniamo</E
+M>insegniate</E
+M>le verità della fede</E
+M>un gioco</E
+M>le regole</E
+M>le astuzie di un gioco</E
+M>l’uso delle armi</E
+M>il modo di montare e smontare un apparecchio</E
+M>mio fratello mi ha insegnato qualche parola di francese</E
+M>la mamma gli insegnava le arie d’opera</E
+M>m’insegni l’aria di questa canzone?</E
+M>a vivere nel mondo</E
+M>a comportarsi in società</E
+M>a ragionare</E
+M>a riflettere</E
+M>a nuotare</E
+M>a ballare</E
+M>a cucire</E
+M>a filare</E
+M>a tessere</E
+M>a cucinare</E
+M>a camminare</E
+M>al cavallo a saltare gli ostacoli</E
+M>al cane a star ritto sulle zampe di dietro</E
+M>al pappagallo a dire qualche parola</E
+M>come</E
+M>La cara e buona imagine paterna Di voi quando</E
+M>M’insegnavate come l’uom s’etterna</E
+M>insegnami tu come debbo fare</E
+M>la buona educazione</E
+M>le buone maniere</E
+M>il male</E
+M>la malizia</E
+M>a rispettare le leggi</E
+M>a osservare i regolamenti</E
+M>a ubbidire</E
+M>a disubbidire</E
+M>a fumare</E
+M>a rubare</E
+M>a dire bugie</E
+M>a risponderemale</E
+M>non ti hanno insegnato che bisogna salutare?</E
+M>imparare</E
+M>l’asino ci insegna a essere pazienti</E
+M>libri</E
+M>spettacoli che non insegnano nulla</E
+M>che insegnano il male</E
+M>la sintassi insegna a coordinare le parole nel discorso</E
+M>la vita insegna molte cose</E
+M>la storia</E
+M>l’esperienza insegna</E
+M>questo ti insegnerà a rispettare le regole</E
+M>a essere più furbo un’altra volta</E
+M>chi t’ha insegnato</E
+M>chi t’ha insegnato a entrare senza bussare?</E
+M>chi t’ha insegnato l’educazione?</E
+M>gli</E
+M>vi insegnerò io</E
+M>gli insegnerò io come si trattacon le persone perbene!</E
+M>vi insegno io a molestare i passanti!</E
+M>lei m’insegna</E
+M>come tu m’insegni</E
+M>in certi casi</E
+M>lei m’insegna</E
+M>è meglio tacere</E
+M>nella natura</E
+M>come tu m’insegni</E
+M>nulla si crea e nulla si distrugge</E
+M>poter i</E
+M>è un uomo che potrebbe insegnarci</E
+M>molte cose</E
+M>sono cose che potrei benissimo i</E
+M>io a te</E
+M>glielo potrebbe i</E
+M>un bambino</E
+M>a leggere</E
+M>a scrivere</E
+M>a suonare uno strumento</E
+M>una lingua</E
+M>materie letterarie</E
+M>latino</E
+M>filosofia</E
+M>storia</E
+M>chimica</E
+M>diritto</E
+M>patologia generale</E
+M>disegno</E
+M>meccanica</E
+M>la grammatica</E
+M>il catechismo</E
+M>la pittura</E
+M>la musica</E
+M>il canto</E
+M>la danza</E
+M>un mestiere</E
+M>la lavorazione del marmo</E
+M>della ceramica</E
+M>al liceo</E
+M>nella scuola media</E
+M>alle elementari</E
+M>essere capace</E
+M>incapace di i</E
+M>il tuo metodo d’i</E
+M>è sbagliato</E
+M>dar lezione</E
+M>ha la mania d’i</E
+M>a tutti</E
+M>vuol sempre i</E
+M>agli altri</E
+M>macchine per i</E
+M>se c’è più d’un varco</E
+M>Quel ne ’nsegnate che men erto cala</E
+M>la strada a un forestiero</E
+M>mi saprebbe i</E
+M>un’officina di riparazioni qui vicino?</E
+M>t’insegnerò io un buon medico</E
+M>un bravo meccanico</E
+M>la persona più adatta per questo lavoro</E
+M>una persona</E
+M>un segreto</E
+M>mandarono alle lor terre maestri</E
+M>che la gioventù sopra ciò instruissero ed insegnassero</E

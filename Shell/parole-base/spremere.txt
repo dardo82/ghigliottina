@@ -1,0 +1,36 @@
+spremere.txt
+"spremere"
+"spremere"
+"spremere"
+"spremere, replace: spremersi"
+"spremere le meningi"
+"strizzare, spremere"
+*[[schiacciare]], [[pressare]], [[strizzare]], [[torchiare]], [[pigiare]]
+* [[spremiagrumi]],  [[spremiarance]],  [[spremitore]],  [[spremitura]], [[spremuta]]
+M>*expr</E
+M>expr</E
+M>s. un’arancia</E
+M>un limone</E
+M>s. le olive</E
+M>s. i panni lavati</E
+M>s. un foruncolo</E
+M>s. il succo di un limone</E
+M>s. l’olio dalle olive</E
+M>s. le lacrime</E
+M>uno spettacolo così pietoso da s. le lacrime</E
+M>s. il sugo di una cosa</E
+M>spremersi il cervello</E
+M>le meningi</E
+M>s. soldi a qualcuno</E
+M>da qualcuno</E
+M>ha già spremuto bene i genitori</E
+M> e ora sta cercando di s. i nonni</E
+M>le tasse spremono al massimo i lavoratori dipendenti</E
+M>s. un impiegato</E
+M>un dipendente</E
+M>con tanta festa</E
+M> con tanta letizia</E
+M> che non si può spremere colla lingua</E
+M>arance spremute</E
+M>la sansa è costituita dalle olive spremute</E
+M>gettar via come un limone spremuto</E

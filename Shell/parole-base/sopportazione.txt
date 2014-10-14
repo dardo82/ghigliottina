@@ -1,0 +1,17 @@
+sopportazione.txt
+"resistenza, sopportazione"
+"sopportazione"
+M>sopportare</E
+M>supportatio -onis</E
+M>la s. di tante sventure ha incupito il suo carattere</E
+M>ha dimostrato una grande s.</E
+M>ha un grande spirito di s.</E
+M>anche la mia s. ha dei limiti!</E
+M>ascoltare</E
+M>guardare qualcuno</E
+M>qualcosa con sopportazione</E
+M>Con sopportazione</E
+M>con vostra s.</E
+M> vi dirò ...</E
+M>con s. di tutti e due</E
+M> devo dire che la colpa è soltanto vostra!</E

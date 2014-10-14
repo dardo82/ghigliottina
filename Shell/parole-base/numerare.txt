@@ -1,0 +1,34 @@
+numerare.txt
+"numerare"
+"numerare le pagine"
+*[[contare]]
+*italiano
+*latino
+M>numerare</E
+M>num</E
+M>rus</E
+M>io nùmero</E
+M>Né giugneriesi</E
+M>numerando</E
+M>al venti</E
+M>cose che non si possono n</E
+M>enumerare</E
+M>si potevano numerare</E
+M>forse tante altre specie</E
+M>non dico di creature</E
+M>ma solamente di animali</E
+M>le pagine di un libro</E
+M>di un diario</E
+M>i capitoli di un trattato</E
+M>i volumi di una biblioteca</E
+M>vi fu numerata per questo</E
+M>la somma di 40.000 franchi</E
+M>contare</E
+M>gli numerava i minuti di libertà</E
+M>i bocconi di pane</E
+M>ho numerato minuto per minuto queste ultime ore che io ho passato vicino a lei</E
+M>Numera i giorni e i mesi Che restano per finire</E
+M>non è da loro reputato degno d’esser numerato fra gli uomini</E
+M>due amici soltanto</E
+M>dei tanti che numeravo</E
+M>avevano avuto il coraggio di venirmi a salutare</E

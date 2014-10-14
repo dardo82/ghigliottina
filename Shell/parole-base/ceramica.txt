@@ -1,0 +1,20 @@
+ceramica.txt
+"ceramica"
+"lavorato a mano (di ceramica)"
+"lavorato a mano (di ceramica)"
+"oggetti in ceramica"
+"pezzi di ceramica"
+"tecnologia della ceramica"
+"utensili di ceramica"
+*Enciclopedia [http
+M>laterizî</E
+M>terrecotte</E
+M>maioliche</E
+M>terraglie</E
+M>grès</E
+M>porcellane</E
+M>un vaso di ceramica</E
+M>esposizione di c</E
+M>antiche</E
+M>tecniche</E
+M>nucleari</E

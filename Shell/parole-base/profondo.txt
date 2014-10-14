@@ -1,0 +1,261 @@
+profondo.txt
+"addormentato in un sonno profondo"
+"analisi del profondo"
+"bacio profondo"
+"basso profondo"
+"diventare più profondo"
+"il mare profondo"
+"il profondo blu"
+"mare poco profondo"
+"messaggio più profondo"
+"nel profondo"
+"nel profondo"
+"nel profondo"
+"nel profondo (del cuore)"
+"nel profondo di"
+"non profondo"
+"pensiero profondo"
+"profondo"
+"profondo"
+"profondo"
+"profondo"
+"profondo"
+"profondo"
+"profondo"
+"profondo , sincero"
+"profondo del cuore"
+"profondo desiderio"
+"profondo sud; contadino del Texas"
+"respiro profondo"
+"sonno profondo"
+"spazio profondo"
+#* ''in questo punto il [[mare]] è molto 
+#* ''un [[tunnel]] 
+#* '' in questo [[punto]] il [[mare]] è 
+#* ''il [[tunnel]] è 
+#* ''le [[pareti]] erano di un bel [[blu]] 
+#* ''aveva una [[voce]] '''profonda'''''
+#* ''ha una '''profonda''' [[conoscenza]] di questo [[argomento]]''
+#* ''un [[pensiero]] 
+#* ''la [[capanna]] era situata nel 
+*[[acuto]], [[penetrante]],
+*[[fondo]], [[basso]], [[cavo]], [[infossato]], [[avvallato]], [[depresso]]
+*[[intrinseco]]
+*''(di suono, voce)'' [[forte]], [[grave]], [[cupo]], [[cavernoso]]
+*[[fondo]], [[profondità]]
+*[[alto]], [[elevato]], [[sopraelevato]]
+*[[esterno]], [[esteriore]]
+*''(di suono)'' [[squillante]]
+*[[superficie]], [[esteriorità]]
+*[[approfondire]], [[profondamente]], [[profondità]], [[profondamento]]
+M>prof</E
+M>ndus</E
+M>pro</E
+M>fundus</E
+M>profundum</E
+M>un lago p</E
+M>un tratto p</E
+M>del fiume</E
+M>il p</E
+M>oceano</E
+M>stai attento</E
+M>qui l&#8217;acqua è p</E
+M>un pozzo p</E
+M>un p</E
+M>abisso</E
+M>una p</E
+M>voragine</E
+M>una valle p</E
+M>un fossato p</E
+M>una buca profonda</E
+M>una p</E
+M>galleria</E
+M>un&#8217;insenatura p</E
+M>cassetto p</E
+M>Quasi de la montagna alla radice Entra sotterra una p</E
+M>grotta</E
+M>un pozzo p</E
+M>30 m</E
+M>in quel punto il mare è molto p</E
+M>nei punti dove il fiume è meno p</E
+M>i cassetti devono esser p</E
+M>50 cm circa</E
+M>erosioni</E
+M>avere p</E
+M>radici</E
+M>mettere p</E
+M>radici</E
+M>una p</E
+M>intaccatura</E
+M>li p</E
+M>fori Ond&#8217;uscì &#8217;l sangue</E
+M>una p</E
+M>ferita</E
+M>ferita p</E
+M>iniezione p</E
+M>rughe p</E
+M>occhi p</E
+M>sguardo p</E
+M>superficiale</E
+M>organi p</E
+M>nervi p</E
+M>vasi p</E
+M>aponeurosi palmare superficiale e profonda</E
+M>sensibilità p</E
+M>Caccianli i ciel per non esser men belli</E
+M>Né lo p</E
+M>inferno li riceve</E
+M>Mia bile</E
+M>dal profondo Petto rompendo</E
+M>getta Impetuosa gli argini</E
+M>il cuore p</E
+M>Quando giugne per gli occhi al cor profondo L&#8217;imagin donna</E
+M>ogni altra indi si parte</E
+M>questa</E
+M>Che dal p</E
+M>cor lagrime versa</E
+M>È poesia</E
+M>I dolci affanni</E
+M>i teneri Moti del cor p</E
+M>la p</E
+M>Spagna</E
+M>nella più p</E
+M>Asia</E
+M>profondo Sud</E
+M>deep South</E
+M>fare un p</E
+M>inchino</E
+M>una p</E
+M>reverenza</E
+M>fece un p</E
+M>sospiro</E
+M>respiro p</E
+M>parlava con voce p</E
+M>e cavernosa</E
+M>basso p</E
+M>suono p</E
+M>azzurro p</E
+M>rosso</E
+M>un velluto d&#8217;un bel violetto p</E
+M>nella stanza regnava un buio p</E
+M>le tenebre erano p</E
+M>si svegliò nella più p</E
+M>oscurità</E
+M>Uscendo fuor de la p</E
+M>notte Che sempre nera fa la valle inferna</E
+M>notte p</E
+M>era immerso in un sonno p</E
+M>cadde in un sonno p</E
+M>un p</E
+M>letargo</E
+M>coma p</E
+M>la sua ignoranza è davvero p</E
+M>giace in p</E
+M>oblio</E
+M>profondissima quiete Io nel pensier mi fingo</E
+M>regnava ovunque un p</E
+M>silenzio</E
+M>avere un p</E
+M>sentimento religioso</E
+M>essere animato da p</E
+M>zelo</E
+M>servire con p</E
+M>umiltà</E
+M>nutrire un amore p</E
+M>un p</E
+M>odio per qualcuno</E
+M>espressioni di p</E
+M>stima</E
+M>di p</E
+M>rispetto</E
+M>di devozione p</E
+M>Segno d&#8217;immensa invidia E di pietà p</E
+M>lo guardava con p</E
+M>disprezzo</E
+M>ne sentì p</E
+M>dolore</E
+M>era oppresso da una p</E
+M>malinconia</E
+M>tutto questo mi dà p</E
+M>amarezza</E
+M>è con p</E
+M>rammarico che debbo dirvi</E
+M>il fatto ha suscitato p</E
+M>impressione in tutti</E
+M>una p</E
+M>commozione s&#8217;impadronì di noi</E
+M>ne ho p</E
+M>convinzione</E
+M>ha un p</E
+M>interesse per questi studî</E
+M>superficiale</E
+M>ha una mente p</E
+M>è un p</E
+M>filosofo</E
+M>un p</E
+M>teologo</E
+M>essere p</E
+M>in una scienza</E
+M>in una disciplina</E
+M>è un p</E
+M>conoscitore della materia</E
+M>del cuore umano</E
+M>degli uomini</E
+M>ha una p</E
+M>conoscenza dell&#8217;argomento</E
+M>un monaco</E
+M>d&#8217;aguto ingegno e di p</E
+M>scienza</E
+M>ha una cultura vasta ma poco p</E
+M>ha fatto p</E
+M>studî sull&#8217;argomento</E
+M>era immerso in p</E
+M>pensieri</E
+M>in p</E
+M>meditazione</E
+M>penetrare il p</E
+M>significato di un concetto</E
+M>le cause p</E
+M>di un fatto</E
+M>le p</E
+M>ragioni di una scelta</E
+M>verità p</E
+M>parlava con accenti di p</E
+M>verità</E
+M>una massima</E
+M>una sentenza p</E
+M>un discorso molto profondo</E
+M>un uomo p</E
+M>mi chiedo allora: sei superficiale o profondo?</E
+M>quanto sei p</E
+M>oggi!</E
+M>sei troppo p</E
+M>per me</E
+M>Giunse lo spirto al suo principio cose</E
+M>Ch&#8217;io non lo &#8217;ntesi</E
+M>sì parlò profondo</E
+M>nel p</E
+M>del mare</E
+M>il p</E
+M>dell&#8217;inferno</E
+M>dell&#8217;abisso</E
+M>della voragine</E
+M>in profondo</E
+M>la pianta ha messo radici in profondo</E
+M>Ed ecco del p</E
+M>de la testa Volse a me li occhi un&#8217;ombra e guardò fiso</E
+M>dal p</E
+M>del petto</E
+M>delle viscere</E
+M>nel p</E
+M>del cuore</E
+M>dell&#8217;anima</E
+M>nel suo p</E
+M>la voce Che viene dalle cose e dal profondo</E
+M>il p</E
+M>psicologia del p</E
+M>Tiefenpsychologie</E
+M>Struttura p</E
+M>deep structure</E
+M>profondo</E
+M>struttura superficiale</E

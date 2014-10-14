@@ -1,0 +1,48 @@
+istituire.txt
+"istituire"
+"istituire di nuovo"
+"istituire un premio"
+"istituire un procedimento legale"
+*[[istituto]], [[istitutore]], [[istitutrice]]
+M>institu</E
+M>statu</E
+M>io istitüisco</E
+M>tu istitüisci</E
+M>una consuetudine</E
+M>una norma</E
+M>una festa</E
+M>una cerimonia annuale</E
+M>un organo politico</E
+M>una commissione</E
+M>un tribunale</E
+M>un ordine religioso</E
+M>una biblioteca</E
+M>un’accademia</E
+M>un ospedale</E
+M>una scuola</E
+M>una cattedra universitaria</E
+M>un nuovo corpo militare</E
+M>un premio</E
+M>una borsa di studio</E
+M>colle quali cose e con altri segni ed effetti terribili</E
+M>instituì di spaventare i mortali di tempo in tempo</E
+M>qualcuno erede</E
+M>un paragone</E
+M>un confronto</E
+M>un parallelo</E
+M>un rapporto tra due fatti</E
+M>un’equazione</E
+M>instituire</E
+M>aiutarlo a ben instituire i suoi figliuoli</E
+M>avendo instituite di tanti buoni costumi quelle barbare genti</E
+M>instituire</E
+M>alla conoscenza delle lettere</E
+M>nei principî del diritto</E
+M>institüito</E
+M>instituto</E
+M>un regno</E
+M>una città bene istituita</E
+M>erede istituito</E
+M>l’istituito</E
+M>erede sostituito</E
+M>fedecommissario</E

@@ -1,0 +1,47 @@
+abbondanza.txt
+"abbondanza"
+"abbondanza di"
+"abbondanza o carestia"
+"abbondanza relativa"
+"con abbondanza"
+"grande abbondanza"
+"il paese dell'abbondanza"
+"in abbondanza"
+"in abbondanza"
+"in abbondanza"
+"in abbondanza"
+"in abbondanza"
+"terra dell'abbondanza"
+*gran quantità; [[dovizia]], [[profusione]], [[copiosità]], [[copia]], [[eccesso]], [[eccedenza]], [[marea]], [[quantità]], [[larghezza]], [[ridondanza]], [[profluvio]]
+*[[insufficienza]], [[scarsità]]
+M>abundantia</E
+M>abundare</E
+M>di mezzi</E
+M>quest’anno c’è stata grande a</E
+M>di uva</E
+M>raccontare con a</E
+M>di particolari</E
+M>nuotare</E
+M>affogare</E
+M>sguazzare nell’a</E
+M>carestia</E
+M>fu un’annata di a</E
+M>evviva l’a</E
+M>ora che viene un po’ d’a</E
+M>godiamola in santa pace</E
+M>con a</E
+M>di cuore</E
+M>ex abundantia cordis</E
+M>parlava con a</E
+M>di cuore</E
+M>in abbondanza</E
+M>corno dell’a</E
+M>ufficiali</E
+M>signori dell’a</E
+M>abbondanza</E
+M>isotopica</E
+M>relativa isotopica</E
+M>un’a</E
+M>le abbondanza</E
+M>il melo</E
+M>le mele abbondanza</E

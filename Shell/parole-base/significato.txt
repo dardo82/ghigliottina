@@ -1,0 +1,56 @@
+significato.txt
+"afferrare il senso; il significato"
+"afferrare il significato di, intuire il significato di"
+"con doppia canna; avente doppio significato"
+"con significato"
+"doppio significato"
+"livelli di significato"
+"nuovo significato"
+"nuovo significato"
+"parole senza significato"
+"perdere di significato"
+"perdere significato; smettere di esistere"
+"pieno di significato"
+"senza significato"
+"senza significato, incomprensibile"
+"senza significato, incomprensibile"
+"significante e significato"
+"significato"
+"significato"
+"significato centrale"
+"significato corretto"
+"significato implicito"
+"significato letterale"
+"significato nascosto"
+"significato reale"
+"significato riconosciuto"
+"significato simbolico"
+"vero significato"
+#* il 
+#* ''uno sguardo privo di 
+#* ''il 
+#* ''ha dato a quel piccolo gesto un enorme 
+*[[senso]], [[valore]]
+*[[filosofia]], [[semantica]], [[semiotica]], [[significante]], [[significare]], [[significativo]]
+*Enciclopedia [http
+M>significatus -us</E
+M>significare</E
+M>non sapere il s. di una parola</E
+M>vorrei conoscere il preciso s. di questo termine tecnico</E
+M>è un fannullone</E
+M> nel più ampio s. della parola</E
+M>la voce &#171;cane&#187; ha un s. proprio e varî s. figurati</E
+M>&#171;chiedere&#187; e &#171;domandare&#187; possono avere sfumature di s. diverse</E
+M>il s. di un simbolo di chimica</E
+M>di una sigla</E
+M>di una segnalazione stradale</E
+M>questo è un discorso privo di significato</E
+M>sono parole senza significato</E
+M>quello che dici non ha alcun significato</E
+M>significante</E
+M>non riesco a capire che significato abbia il suo improvviso voltafaccia nei miei riguardi</E
+M>la sua assenza alla riunione ha un chiaro s. di protesta</E
+M>in questo momento</E
+M> ottenere l&#8217;incarico ha per me un grande s.</E
+M>una legge</E
+M>una riforma di notevole s. sociale e politico</E

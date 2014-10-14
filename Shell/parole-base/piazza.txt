@@ -1,0 +1,190 @@
+piazza.txt
+"andare in piazza"
+"assegno fuori piazza"
+"fare piazza pulita"
+"festa in piazza"
+"la piazza del mercato"
+"letto ad una piazza e mezza"
+"manifestazioni di piazza"
+"mettere in piazza qualcosa"
+"piazza"
+"piazza"
+"piazza"
+"piazza"
+"piazza a circolazione rotatoria"
+"piazza d'armi"
+"piazza del campo"
+"piazza del mercato"
+"piazza pulita"
+"pubblica piazza"
+"scendere in piazza"
+"sulla piazza del mercato"
+#*''C'è un panettiere in 
+*[[piazzale]], [[spiazzo]], [[largo]], [[slargo]]
+*(commercio) [[mercato]]
+*[[spazio]], [[sito]], [[vano]], [[posto]],  [[ambiente]], [[locale]] 
+*''(in teatri, cinematografi ecc.)'' [[sedile]], [[poltrona]] 
+*''(di un'aula scolastica)'' [[banco]] 
+*''(di lavoro)'' [[ufficio]], [[impiego]], [[occupazione]],[[lavoro]],[[ carica]],[[mansione]] 
+*''(geografico)'' [[luogo]], [[località]], [[sito]] 
+*''(di un oggetto)'' [[posizione]] 
+*''(di pronto soccorso ecc.)'' [[centro]] 
+*''(di pilotaggio, di guida ecc.)'' [[ cabina]] 
+*[[piazzare]], [[piazzista]]
+*''fare piazza pulita''
+M>plat</E
+M>plat</E
+M>p. del mercato</E
+M>p. delle Erbe</E
+M>piazza</E
+M>p. del Duomo</E
+M>p. del Comune</E
+M>del Municipio</E
+M>p. del Tribunale</E
+M>p. della Borsa</E
+M>p. del Teatro</E
+M>P. San Pietro</E
+M>P. del Popolo</E
+M>P. San Marco</E
+M>P. del Santo</E
+M>P. della Signoria</E
+M>P. della Scala</E
+M>p. Mazzini</E
+M>p. della Repubblica</E
+M>p. del Plebiscito</E
+M>p. delle Cinque giornate</E
+M>p. di Spagna</E
+M>P. del Gesù</E
+M>P. degli Affari</E
+M>P. Affari</E
+M>vettura di</E
+M>da piazza</E
+M>vetturino di</E
+M>da p</E
+M>non parlare così forte</E
+M> non sei in p</E
+M>urlavano come se fossero in p</E
+M>modi</E
+M>maniere</E
+M>gesti</E
+M>contegno da p</E
+M>scendere in piazza</E
+M>nella p</E
+M>sulla p</E
+M>manifestazioni</E
+M>dimostrazioni di piazza</E
+M>mettere in piazza</E
+M>era un discorso confidenziale</E
+M> non era il caso di metterlo in p</E
+M>sono faccende private</E
+M> che non vanno messe</E
+M>portate</E
+M>in p</E
+M>mettersi in p</E
+M>perché mettersi in p.</E
+M> e far gridare il suo nome</E
+M> con quella cattura addosso</E
+M>uno mulo</E
+M> traendo calci in Mercato vecchio</E
+M> fa fuggire tutta la p</E
+M>parlare alla p</E
+M>gli applausi</E
+M>i clamori</E
+M>le proteste della p</E
+M>si temono le reazioni della p</E
+M>eccitare</E
+M>scatenare la p. con discorsi facinorosi</E
+M>fare ricorso alla p</E
+M>tastare il polso alla p</E
+M>dazio</E
+M>gabella della p</E
+M>piazza</E
+M>corso</E
+M>valuta di p</E
+M>giudici della p</E
+M>mastro di p</E
+M>capi di p</E
+M>la mercatura chiama piazza tutto il corpo de&#8217; negozianti in una città</E
+M> forse dal luogo dove e&#8217; si ragunano</E
+M>la p. di Milano</E
+M>di Napoli</E
+M>di Macerata</E
+M>di Pontremoli</E
+M>le p. dell&#8217;Umbria</E
+M>del Ferrarese</E
+M>seguire gli usi di piazza</E
+M>della p</E
+M>merce acquistata</E
+M>contrattata</E
+M>consegnata su piazza</E
+M> fuori piazza</E
+M>al prezzo di piazza</E
+M>è una p. dove si vende</E
+M>si compra</E
+M>bene</E
+M>battere una p</E
+M>farsi una p</E
+M>essere bene introdotto in una p</E
+M>avere credito nelle p. di una regione</E
+M>il meglio che offre la p</E
+M>che si trovi sulla p</E
+M>bisogna contentarsi di quello che offre la p</E
+M>la p. non offre di meglio</E
+M>di più</E
+M>rovinare la p. a qualcuno</E
+M>effetti</E
+M>assegni su piazza</E
+M>fuori piazza</E
+M>p. bancabile</E
+M>p. calcolata</E
+M>p. calcolatrice</E
+M>p. intermediaria</E
+M>fare</E
+M>farsi</E
+M>una piazza</E
+M>una compagnia di filodrammatici che si esibisce nelle p. di provincia</E
+M>una p. molto esigente</E
+M>lavorarsi la p</E
+M>p. dei tori</E
+M>plaza de toros</E
+M>p. d&#8217;armi</E
+M>place d&#8217;armes</E
+M>campo marzio</E
+M>campo di Marte</E
+M>essere</E
+M>sembrare una p</E
+M>d&#8217;armi</E
+M>un cortile</E
+M>una palestra</E
+M>un salone</E
+M>una cucina</E
+M>un letto matrimoniale che pareva una p</E
+M>d&#8217;armi</E
+M>forte</E
+M>di guerra</E
+M>di confine</E
+M>di frontiera</E
+M>marittima</E
+M>fare piazza</E
+M>gli altri</E
+M>avevano intanto lavorato a fare e rifare un po&#8217; di piazza</E
+M>fare p</E
+M>pulita</E
+M>il direttore andava dicendo che bisognava fare p</E
+M>pulita di tutti gli assenteisti</E
+M>era stata preparata una gran quantità di panini imbottiti e pizzette</E
+M> ma i ragazzi hanno fatto p</E
+M>pulita di ogni cosa</E
+M>piazza</E
+M>essere in p</E
+M>andare in p</E
+M>letto a una p</E
+M>a una p</E
+M>e mezzo</E
+M>a due p</E
+M>piazze d&#8217;onore</E
+M>piazzarsi</E
+M>piazzamento</E
+M>seggi</E
+M>sedili</E
+M>piazzuòla</E

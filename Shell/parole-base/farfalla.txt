@@ -1,0 +1,47 @@
+farfalla.txt
+"che si apre verso l'alto, a farfalla"
+"che si apre verso l'alto; a farfalla"
+"cravatta a farfalla"
+"farfalla"
+"farfalla"
+"oggetto a forma di farfalla"
+"farfalla"
+"farfalla"
+"farfalla licanide"
+"farfalla tigre"
+"pesce farfalla"
+"valvola a farfalla"
+"valvola a farfalla"
+"valvola a farfalla aperta"
+*[[abito-farfalla]], [[farfallamento]], [[farfaleggiare]], [[farfallino]], [[farfallista]], [[farfallone]] 
+*[[animale]],[[insetto]]
+*italiano
+M>diurne</E
+M>crepuscolari</E
+M>notturne</E
+M>correre dietro alle f</E
+M>prendere le f</E
+M>nella rete</E
+M>girare come la f</E
+M>intorno al lume</E
+M>le f</E
+M>dei bachi da seta</E
+M>da bruco è diventato f</E
+M>noi siam vermi Nati a formar l’angelica f</E
+M>Nodo a f</E
+M>cravatta a f</E
+M>à papillon</E
+M>farfalla</E
+M>Valvola a f</E
+M>Nuoto a farfalla</E
+M>Navigare a farfalla</E
+M>circuito a f</E
+M>farfalla</E
+M>Ago a f.</E
+M>butterfly</E
+M>effetto f.</E
+M>caos deterministico</E
+M>Farfalla del miele</E
+M>Galleria mellonella</E
+M>Farfalle di mare</E
+M>Pesce farfalla</E

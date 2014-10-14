@@ -1,0 +1,66 @@
+cintura.txt
+"cintura"
+"cintura"
+"cintura"
+"cintura bianca"
+"cintura blu"
+"cintura di castità"
+"cintura di judo"
+"cintura di salvataggio"
+"cintura di sicurezza"
+"cintura di sicurezza"
+"cintura di sicurezza"
+"cintura marrone"
+"cintura nera"
+"cintura nera"
+"cintura pelvica"
+"cintura porta attrezzi"
+"cintura portasoldi"
+"dalla cintura blu"
+"mettere la cintura"
+"sotto la cintura"
+*[[cinturone]], [[correggia]], [[fascia]], [[fusciacca]], [[striscia]] 
+*''(dei pantaloni)'' [[cinghia]]
+M>cinct</E
+M>cing</E
+M>allacciare</E
+M>slacciare</E
+M>affibbiare la cintura</E
+M>la gonna mi è un po’ larga di cintura</E
+M>sopra</E
+M>sotto la c</E
+M>il bambino gli arrivava quasi alla c</E
+M>essere stretto</E
+M>largo di cintura</E
+M>di castità</E
+M>di sicurezza</E
+M>di salvataggio</E
+M>fu necessario il far mettere le quattro c</E
+M>alle colonne</E
+M>acciò non facessero altro movimento</E
+M>cembra</E
+M>di forzamento</E
+M>corona di forzamento</E
+M>corazzata</E
+M>il fiume fa un ampio giro formando quasi una c</E
+M>intorno alla città</E
+M>la sua circunferenza</E
+M>Sarebbe al sol troppo larga c</E
+M>veste le rive d’una molle c</E
+M>di canne</E
+M>una località della c</E
+M>milanese</E
+M>i paesini della c</E
+M>fiorentina</E
+M>di fuoco del Pacifico</E
+M>a rovescio</E
+M>in agilità</E
+M>a bilico</E
+M>bianca</E
+M>nera</E
+M>cinto</E
+M>cingolo</E
+M>scapolare</E
+M>pelvica</E
+M>cinture di Van Allen</E
+M>fasce di Van Allen</E

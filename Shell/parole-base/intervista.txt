@@ -1,0 +1,17 @@
+intervista.txt
+"intervista"
+"intervista"
+"intervista in profondità; storie di vita"
+*[[colloquio]], [[incontro]], [[abboccamento]], [[conversazione]], [[selezione]], [[esame]]
+*[[intervista-ritratto]]
+M>interview</E
+M>entrevue</E
+M>s’entrevoir</E
+M>intravedersi</E
+M>fare un’i</E
+M>chiedere</E
+M>concedere un’i</E
+M>giornalistica</E
+M>radiofonica</E
+M>televisiva</E
+M>individuale</E

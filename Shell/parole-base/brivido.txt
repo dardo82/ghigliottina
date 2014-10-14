@@ -1,0 +1,37 @@
+brivido.txt
+"brivido"
+"brivido"
+"brivido di paura"
+"brivido di piacere"
+"cercare il brivido"
+"un brivido mi corre lungo la schiena"
+"vivere sull'orlo del brivido"
+*[[tremito]], [[tremore]], [[tremolio]], [[sussulto]], [[palpito]], [[fremito]]
+*[[emozione]], [[eccitazione]], [[impressione]], [[turbamento]], [[sbigottimento]], [[orrore]], [[terrore]], [[suspense]]
+*[[freddezza]], [[distacco]], [[calma]], [[impassibilità]]
+*[[brividante]]
+M>termico</E
+M>febbrile</E
+M>psichico</E
+M>sentire</E
+M>provare un b</E
+M>fu scosso da un b</E
+M>improvviso</E
+M>sentì un b</E
+M>scorrergli nelle ossa</E
+M>avere i b</E
+M>per il freddo</E
+M>per la paura</E
+M>essere preso dai b</E
+M>della febbre</E
+M>un racconto che fa venire i b</E
+M>mi vengono i b</E
+M>al solo pensarci</E
+M>l’idea di affrontare quel pericolo mi dava i b</E
+M>sentire un b</E
+M>di piacere</E
+M>provare il b</E
+M>della velocità</E
+M>film</E
+M>racconti</E
+M>romanzi del brivido</E

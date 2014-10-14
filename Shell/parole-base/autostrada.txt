@@ -1,0 +1,22 @@
+autostrada.txt
+"albergo d'autostrada"
+"albergo d'autostrada"
+"autostrada"
+"autostrada a corsie separate"
+"autostrada a pedaggio"
+"autostrada a pedaggio"
+"autostrada interstatale"
+*[[autostradale]], [[autostrada del mare]]
+*Devoto/Oli, '' il dizionario della lingua italiana'', Le Monnier, edizione cartacea 2000-2001, p. 187
+M>auto</E
+M>strada</E
+M>libera</E
+M>a pedaggio</E
+M>prendere l’a</E
+M>viaggiare in a.</E
+M>traffico bloccato sull’a. del Sole</E
+M> E una radio borbotta duecento morti Sull’a.</E
+M> il record della Pasquetta</E
+M>a. informatica</E
+M>information highway</E
+M>autostrade elettroniche</E

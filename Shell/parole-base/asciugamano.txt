@@ -1,0 +1,15 @@
+asciugamano.txt
+"asciugamano"
+"asciugamano da viso"
+"asciugamano di carta"
+"asciugamano di spugna"
+"asciugamano per il viso"
+*[[mano]]
+M>asciugare</E
+M>mano</E
+M>per le mani</E
+M>per il viso</E
+M>da bagno</E
+M>asciugamani di carta</E
+M>automatico a rullo</E
+M>automatico ad aria calda</E

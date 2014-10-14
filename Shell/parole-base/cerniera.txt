@@ -1,0 +1,17 @@
+cerniera.txt
+"cerniera"
+"cerniera"
+"cerniera"
+"cerniera a lampo"
+"chiudere con cerniera lampo"
+#* ''cerniera lampo'' denominazione impropria di [[chiusura lampo]]
+M>charnière</E
+M>*cardinaria</E
+M>cardo</E
+M>nis</E
+M>cilindrica</E
+M>sferica</E
+M>Cerniera lampo</E
+M>chiusura lampo</E
+M>anticlinale</E
+M>sinclinale</E

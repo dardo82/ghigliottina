@@ -1,0 +1,126 @@
+tubo.txt
+"a forma di tubo"
+"a tubo unico"
+"avvolgitore per tubo da giardino"
+"non avere un tubo da fare"
+"non funziona un tubo"
+"sifone per bloccare l'uscita del grasso dal tubo di scappamento"
+"tubo"
+"tubo"
+"tubo a gomito"
+"tubo a raggi catodici"
+"tubo a vuoto"
+"tubo al neon"
+"tubo aspirante"
+"tubo bomba"
+"tubo capillare"
+"tubo catodico"
+"tubo d'alimentazione"
+"tubo d'aspirazione"
+"tubo d'aspirazione"
+"tubo del freno"
+"tubo del radiatore"
+"tubo della televisione"
+"tubo della televisione"
+"tubo di adescamento"
+"tubo di livello"
+"tubo di scappamento"
+"tubo di scappamento, tubo di scarico"
+"tubo di scarico"
+"tubo di scarico"
+"tubo di scarico"
+"tubo di spedizione"
+"tubo fluorescente"
+"tubo fotomoltiplicatore"
+"tubo innocenti"
+"tubo interno"
+"tubo neurale"
+"tubo per perforamento"
+"tubo pilota"
+"tubo; conduttura del gas"
+*[[tubatura]], [[dotto]], [[condotto]], [[conduttura]], [[serpentina]], [[sifone]], [[canna]], [[cannello]], [[doccione]], [[sonda]], [[sondino]]
+*''(per costruzioni)'' [[cilindro]]
+*'' (anatomia)''  [[canale]], [[condotto]], [[dotto]]
+*'' non capire un tubo''
+*''non vedere un tubo''
+*[[tubino]]
+M>tubus</E
+M>t. di ghisa</E
+M>di cemento</E
+M>di piombo</E
+M>di plastica</E
+M>di gomma</E
+M>tubi a S</E
+M>a U</E
+M>i t. delle condutture dell&#8217;acqua</E
+M>del gas</E
+M>i t. del termosifone</E
+M>il t. di vetro</E
+M>scartoccio</E
+M>dei lumi a petrolio</E
+M>t. di gomma per travasare il vino.</E
+M>non capire un t.</E
+M>non sapere un t.</E
+M>non me n&#8217;importa un t.</E
+M>cavolo</E
+M>tubi di vetro</E
+M>t. al neon</E
+M>t. fluorescenti</E
+M>t. di scappamento</E
+M>di scarico</E
+M>t. esplosivo</E
+M>spezzone</E
+M>t. anima</E
+M>anima</E
+M>t. di lancio</E
+M>t. lanciasiluri</E
+M>lanciasiluri</E
+M>t. di cubia</E
+M>t. dell&#8217;albero portaelica</E
+M>t. di fumo</E
+M>di fiamma</E
+M>t. d&#8217;acqua</E
+M>t. tirante</E
+M>t. di stufa volante</E
+M>autoreattore</E
+M>t. forma</E
+M>t. sonda</E
+M>t. sonoro</E
+M>t. acustico</E
+M>t. di Braun</E
+M>t. di Clusius</E
+M>t. convertitore d&#8217;immagini</E
+M>t. di Coolidge</E
+M>Röntgen</E
+M>t. di Crookes</E
+M>t. elettronico</E
+M>ampolla</E
+M>tubi a vuoto</E
+M>tubi a gas</E
+M>ionici</E
+M>t. fotoelettronico</E
+M>t. di Geissler</E
+M>di Plücker</E
+M>t. a onda viaggiante</E
+M>t. di Pitot</E
+M>t. a raggi catodici</E
+M>t. catodico</E
+M>t. oscillografici</E
+M>t. a scarica</E
+M>t. termoelettronico</E
+M>t. termoionico</E
+M>t. di Venturi</E
+M>venturimetro</E
+M>t. a vuoto</E
+M>t. di flusso</E
+M>t. di forza</E
+M>t. di corrente</E
+M>amplificatore a tre t.</E
+M>circuito con due t. in controfase</E
+M>Tubi da colore</E
+M>t. cribroso</E
+M>t. laticifero</E
+M>t. digerente</E
+M>tubo digestivo</E
+M>t. midollare</E
+M>neurale</E

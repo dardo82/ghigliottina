@@ -1,0 +1,32 @@
+segnalare.txt
+"segnalare"
+"segnalare"
+"segnalare"
+"segnalare, replace: segnalarsi"
+"segnalare a un veicolo di fermarsi"
+* (con segnali ottici o acustici) [[indicare]], [[mostrare]]
+*(di strumento, persona) [[comunicare]], [[avvertire]], [[avvisare]], [[annunciare]], [[trasmettere]]
+*[[segnalarsi]]
+M>segnale</E
+M>signaler</E
+M>s. con avvisi la chiusura della strada</E
+M>la sirena dell&#8217;allarme segnala i tentativi di furto</E
+M>la spia luminosa si accende per s. che la benzina scarseggia</E
+M>i conducenti dei veicoli devono s. in tempo ogni cambiamento di direzione</E
+M>la nave ha già segnalato con le luci</E
+M>dalla torre di controllo segnalano a intervalli</E
+M>le agenzie di stampa segnalano nuovi arrivi di profughi</E
+M>il servizio meteorologico segnala forti perturbazioni atmosferiche in arrivo</E
+M>ci hanno segnalato che l&#8217;ingresso del tunnel è bloccato da una frana</E
+M>il ministero della Salute ha segnalato alcuni casi di epatite</E
+M>per questo lavoro mi hanno segnalato un giovane molto promettente</E
+M>segnalo alla tua generosità un caso drammatico</E
+M> per il quale ci serve il tuo aiuto</E
+M>raccomandare</E
+M>il candidato è stato segnalato da personaggi molto influenti</E
+M>il premio letterario ha segnalato un giovane scrittore molto valido</E
+M>l&#8217;interpretazione di quel ruolo l&#8217;ha segnalata come ottima attrice comica</E
+M>doveva essere un crostaceo con organi luminosi. Ma l&#8217;impressione era quella di una presenza umana</E
+M> un ricordo persistente che segnalava una vita non completamente svanita</E
+M>un regista che si è segnalato soprattutto mettendo in scena Pirandello</E
+M>molti ricercatori italiani che operano all&#8217;estero si segnalano nel campo della ricerca scientifica.</E

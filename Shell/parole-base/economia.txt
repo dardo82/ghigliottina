@@ -1,0 +1,149 @@
+economia.txt
+"economia"
+"economia"
+"economia"
+"economia"
+"economia"
+"economia agraria"
+"economia agricola"
+"economia aziendale"
+"economia capitalista"
+"economia classica"
+"economia di guerra"
+"economia di mercato"
+"economia diversificata"
+"economia domestica"
+"economia in espansione"
+"economia in espansione"
+"economia industriale"
+"economia locale"
+"economia mista"
+"economia mondiale"
+"economia nazionale"
+"economia nazionale"
+"economia pianificata"
+"economia politica"
+"economia prospera"
+"economia rurale"
+"economia solida"
+"economia teorica"
+"economia urbana"
+"ex ante; in base ai cambiamenti previsti nell'economia"
+"ex post; in base al comportamento passato dell'economia"
+"facoltà di economia"
+"fare economia"
+"in economia"
+"in economia"
+"laurea in economia dei beni culturali e della comunicazione"
+"laurea in economia e commercio"
+"laurea in economia e legislazione per le aziende"
+"lavorazioni in economia"
+"specialista di economia domestica"
+#*'''economia aziendale'''
+#*'''economia politica'''
+* attività economica, sistema economico, sistema produttivo; [[amministrazione]], [[gestione]]
+*scienza economica
+*(di discorso, opera) [[struttura]], [[ordine]], [[proporzione]], [[architettura]], [[impostazione]]
+* [[prodigalità]], [[sperpero]]
+* [[taccagneria]] 
+* ''lavoro in '''economia'''''
+* '''''economie''' fino all'osso''
+*[[economato]], [[econometria]], [[economico]], [[economista]], [[economizzare]], [[economo]], [[macroeconomia]], [[microeconomia]]
+*[[agricoltura]], [[allevamento]], [[pesca]], [[estrazione mineraria]], [[industria]], [[artigianato]], [[commercio]], [[banca]], [[assicurazione]], [[finanza]], [[turismo]], [[fisco]], [[commercialista]], [[contabilità]], [[ragioneria]]
+*Enciclopedia [http
+M>oeconom</E
+M>économie</E
+M>economico</E
+M>economista</E
+M>economizzare</E
+M>économique</E
+M>économiste</E
+M>économiser</E
+M>saggia e</E
+M>principio economico</E
+M>attività economica</E
+M>comportarsi economicamente</E
+M>domestica</E
+M>vivere con la massima e</E
+M>spendere senza e</E
+M>fare economia</E
+M>gestione in economia</E
+M>provvedere a un’opera in economia</E
+M>lavoro a economia</E
+M>lavoro a tempo</E
+M>retribuzione a economia</E
+M>Economie fino all’osso</E
+M>perdere</E
+M>investire le proprie e</E
+M>vivere delle proprie economie</E
+M>economie</E
+M>di scala</E
+M>interne</E
+M>esterne</E
+M>la digressione</E
+M>un po’ troppo lunga</E
+M>nuoce all’e</E
+M>del discorso</E
+M>è un elemento importantissimo nell’e</E
+M>generale del suo pensiero</E
+M>d’una lingua</E
+M>linguistica</E
+M>siciliana</E
+M>italiana</E
+M>europea</E
+M>mondiale</E
+M>agraria</E
+M>industriale</E
+M>e. passiva</E
+M>distruttiva</E
+M>e. attiva</E
+M>conservativa</E
+M>produttiva</E
+M>e. curtense</E
+M>curtis</E
+M>e. naturale</E
+M>e. monetaria</E
+M>e. cittadina</E
+M>e. nazionale</E
+M>chiusa</E
+M>internazionale</E
+M>aperta</E
+M>e. sommersa</E
+M>e. informale</E
+M>individualistiche</E
+M>liberali</E
+M>liberiste</E
+M>di mercato</E
+M>e. collettiviste</E
+M>e. socialiste</E
+M>socializzate</E
+M>nazionalizzate</E
+M>e. pianificate</E
+M>e. controllate</E
+M>dirette</E
+M>di intervento</E
+M>programmate</E
+M>programmatiche</E
+M>e. mista</E
+M>e. globale</E
+M>nuova e.</E
+M>new economy</E
+M>old economy</E
+M>e. di guerra</E
+M>Ministero dell’E. e delle Finanze</E
+M>politica</E
+M>mercantilista</E
+M>classica</E
+M>neoclassica</E
+M>marginalista</E
+M>del benessere</E
+M>paretiana</E
+M>keynesiana</E
+M>della produzione</E
+M>pubblica</E
+M>generale</E
+M>aziendale</E
+M>privata</E
+M>pura</E
+M>teorica</E
+M>applicata</E

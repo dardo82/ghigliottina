@@ -1,0 +1,46 @@
+condanna.txt
+"condanna"
+"condanna"
+"condanna a morte"
+"condanna a morte"
+"condanna al risarcimento danni"
+"processo e condanna"
+"sentenza, condanna"
+M>leggere una c</E
+M>emettere</E
+M>pronunciare una c</E
+M>ascoltare la propria c</E
+M>sentenza di condanna</E
+M>hai firmato la tua c</E
+M>giusta</E
+M>ingiusta</E
+M>mite</E
+M>severa</E
+M>grave</E
+M>avere</E
+M>scontare</E
+M>subire una c</E
+M>alla reclusione</E
+M>ai lavori forzati</E
+M>all’ergastolo</E
+M>a morte</E
+M>capitale</E
+M>al risarcimento dei danni</E
+M>i terroristi hanno deciso la c</E
+M>a morte dell’uomo politico sequestrato</E
+M>rimase immobile davanti al preside ad ascoltare la propria condanna</E
+M>tutti i giorni costretto a fare per dodici ore questo lavoro</E
+M>è una bella c.!</E
+M>non può rassegnarsi alla c. di avere un figlio drogato</E
+M>temeva</E
+M>e giustamente</E
+M>che quella radiografia confermasse la sua c</E
+M>la sua c</E
+M>a morire</E
+M>la sua definitiva condanna</E
+M>col suo comportamento si è attirato la c</E
+M>di tutti</E
+M>un giudizio che equivale a una dura c</E
+M>morale</E
+M>la c</E
+M>delle cinque proposizioni di Giansenio</E

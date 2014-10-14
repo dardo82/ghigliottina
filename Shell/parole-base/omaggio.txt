@@ -1,0 +1,79 @@
+omaggio.txt
+"biglietto gratuito, biglietto omaggio"
+"biglietto omaggio"
+"buono omaggio"
+"Negli spettacoli sportivi, il rain check è un biglietto omaggio per la partita successiva distribuito in caso di sospensione dell'evento (es. causa maltempo)."
+"buono regalo, buono omaggio"
+"copia omaggio"
+"copia omaggio"
+"fare omaggio a"
+"in omaggio a"
+"in omaggio, in premio"
+"omaggio"
+"omaggio"
+"omaggio"
+"dato in omaggio"
+"omaggio della casa"
+"omaggio, tributo"
+"ottenere qcs in omaggio, ricevere qcs in omaggio"
+"rendere omaggio"
+"rendere omaggio"
+"rendere omaggio a"
+"rendere omaggio a"
+#* ''rendiamo 
+#* ''le porgo i miei '''omaggi'''''
+#* ''le lasciamo un piccolo 
+#* ''questo quadro è uno splendido 
+*''(di pacco, confezione)'' [[regalo]]
+*[[ossequio]], atto di ossequio, atto di riverenza, [[onore]], [[lode]]
+*[[regalo]], [[dono]], [[presente]], [[offerta]]
+* [[venerazione]],  [[devozione]] 
+*[[offesa]], [[oltraggio]]
+M>homage</E
+M>hommage</E
+M>homme</E
+M>homo</E
+M>nis</E
+M>fare</E
+M>rendere</E
+M>prestare</E
+M>tributare omaggio a qualcuno</E
+M>fare atto di omaggio</E
+M>di doveroso omaggio</E
+M>la cantante ha ricevuto gli o</E
+M>di tutti i suoi ammiratori</E
+M>gradisca i miei umili</E
+M>i miei devoti</E
+M>i miei rispettosi o</E
+M>le presento</E
+M>le porgo</E
+M>i miei o</E
+M>omaggi!</E
+M>l’ammirazione di cui è circondata è un o</E
+M>alla sua bellezza</E
+M>il giudizio favorevole della critica è un o</E
+M>alle sue alte capacità</E
+M>faccio o</E
+M>alla tua intelligenza</E
+M>in o</E
+M>alla scienza</E
+M>in o</E
+M>al vero</E
+M>alla verità</E
+M>offrire</E
+M>mandare</E
+M>ricevere un o</E
+M>gradire l’o</E
+M>floreale</E
+M>ha ricevuto in omaggio una bottiglia di profumo</E
+M>copie d’omaggio</E
+M>in o</E
+M>per o</E
+M>dell’autore</E
+M>dell’editore</E
+M>saranno offerti o</E
+M>a tutti gli acquirenti</E
+M>omaggio della ditta</E
+M>confezione omaggio</E
+M>buono omaggio</E
+M>prodotto omaggio</E

@@ -1,0 +1,315 @@
+posizione.txt
+"a mezzo cane (posizione di sicura del grilletto)"
+"cambiare idea; atteggiamento; posizione"
+"cambiare posizione"
+"cambiare posizione"
+"che occupa un'alta posizione"
+"copertura di una posizione corta"
+"determinazione della posizione di una nave senza l'ausilio delle stelle"
+"fari di posizione, luci di posizione"
+"fermo; nella sua posizione"
+"fuori posizione"
+"godere di una posizione di tutto rispetto"
+"hot corner (posizione del terzo uomo-base; baseball)"
+"in posizione"
+"in posizione di vantaggio"
+"in posizione eretta"
+"in posizione inferiore"
+"in posizione pericolosa"
+"indicatore di posizione"
+"luce di posizione"
+"mettere qualcuno in una posizione scomoda"
+"mettersi in lizza per una posizione"
+"perdita della posizione sociale"
+"posizione"
+"posizione"
+"posizione"
+"posizione"
+"posizione"
+"posizione apicale"
+"posizione aziendale"
+"posizione centrale"
+"posizione contributiva"
+"posizione decimale"
+"posizione del loto"
+"posizione del missionario"
+"posizione di attesa"
+"posizione di preminenza"
+"posizione di rilievo"
+"posizione di riposo"
+"posizione di vantaggio"
+"posizione fetale"
+"posizione frontale"
+"posizione in parcheggio"
+"posizione intermedia"
+"posizione lavorativa"
+"posizione militare"
+"posizione minoritaria"
+"posizione neutrale"
+"posizione organizzativa"
+"posizione più alta (in una classifica)"
+"posizione preferita"
+"posizione privilegiata"
+"posizione ricoperta"
+"posizione sbagliata"
+"posizione seduta"
+"posizione sociale"
+"posizione stabile"
+"posizione standard"
+"posizione ufficiale"
+"prendere posizione"
+"prendere posizione contro"
+"prendere posizione su"
+"presa di posizione"
+"presa di posizione ufficiale"
+"prete in alta posizione"
+"prima posizione"
+"quinta posizione"
+"rendita di posizione"
+"ricollocare in diversa posizione"
+"seconda posizione"
+"stabilire la posizione"
+"stare davanti a qcn.; stare in prima posizione"
+"stare in posizione eretta"
+"terza posizione"
+"trovarsi in una posizione favorevole"
+"ufficio; posizione dell'arciprete"
+"uscire da una posizione difficile"
+*[[ubicazione]], [[collocazione]], [[posto]], [[punto]], [[luogo]], [[sito]], [[situazione]]  
+*[[posizionale]], [[posizionamento]], [[posizionare]]
+m>positio</e
+m>onis</e
+m>pon</e
+m>pos</e
+m>tus</e
+m>la p</e
+m>della Terra rispetto al Sole</e
+m>della Luna rispetto alla Terra</e
+m>la p</e
+m>geografica di un&rsquo;isola</e
+m>la p</e
+m>dell&rsquo;Italia nel Mediterraneo</e
+m>del Messico nell&rsquo;America Settentrionale</e
+m>di una nave</e
+m>di un aeromobile</e
+m>punto</e
+m>segnalare</e
+m>trasmettere la propria p</e
+m>fanali</e
+m>luci</e
+m>di p</e
+m>triangolo di p</e
+m>in quella p</e
+m>il quadro riceve poca luce</e
+m>la visuale cambia a seconda della p</e
+m>dello spettatore</e
+m>la p</e
+m>dei giocatori</e
+m>in campo</e
+m>ognuno mantenga la propria p</e
+m>nella fila</e
+m>intervocalica di una consonante</e
+m>consonante in p</e
+m>iniziale</e
+m>finale di parola</e
+m>lunga per posizione</e
+m>positione long</e
+m>lunga per natura</e
+m>in p</e
+m>debole</e
+m>positura</e
+m>superiore</e
+m>inferiore</e
+m>il vantaggio di p</e
+m>compensa la perdita di un pedone</e
+m>corridore in seconda p</e
+m>a met&agrave; corsa</e
+m>essere</e
+m>trovarsi in una buona p</e
+m>nelle prime p</e
+m>nelle ultime p</e
+m>essere nelle p</e
+m>di testa</e
+m>di coda</e
+m>la casa si trova in una p</e
+m>centrale</e
+m>la villa &egrave; sorta in p</e
+m>elevata sul colle</e
+m>la cittadina occupa una splendida p</e
+m>nel golfo</e
+m>&egrave; una p</e
+m>ideale per costruire</e
+m>una bella</e
+m>un&rsquo;ottima p</e
+m>una p</e
+m>amena</e
+m>incantevole</e
+m>panoramica</e
+m>una p. isolata</e
+m>una p</e
+m>infelice</e
+m>rendita di p</e
+m>una p</e
+m>forte</e
+m>fortificata</e
+m>debole</e
+m>indifesa</e
+m>una p</e
+m>imprendibile</e
+m>avanzate</e
+m>arretrate</e
+m>strategiche</e
+m>d&rsquo;importanza strategica</e
+m>tenere</e
+m>difendere la p</e
+m>attaccare le p</e
+m>nemiche</e
+m>occupare</e
+m>conquistare una p</e
+m>perdere una p</e
+m>scacciare il nemico dalle sue p</e
+m>ritirarsi sulle p</e
+m>di partenza</e
+m>ripiegare sulle p</e
+m>prestabilite</e
+m>di resistenza</e
+m>Guerra di posizione</e
+m>guerra di movimento</e
+m>tenere</e
+m>mantenere le p</e
+m>sistemare un oggetto in p</e
+m>orizzontale</e
+m>verticale</e
+m>obliqua</e
+m>tenere una pertica in p</e
+m>di equilibrio</e
+m>l&rsquo;arma &egrave; in p</e
+m>di sparo</e
+m>di sicura</e
+m>positura</e
+m>stare in una p</e
+m>comoda</e
+m>scomoda</e
+m>assumere una p</e
+m>pi&ugrave; rilassata</e
+m>prona</e
+m>supina</e
+m>cambiare p</e
+m>rimanere immobile in una p</e
+m>provocante</e
+m>sconveniente</e
+m>supina</e
+m>seduta</e
+m> semiseduta</e
+m>prona</e
+m>ginecologica</e
+m>sul fianco</e
+m>occipito</e
+m>iliaca</e
+m>anteriore</e
+m>sinistra</e
+m>la p</e
+m>del cavaliere a cavallo</e
+m>la p</e
+m>del corpo nei var&icirc; stili di nuoto</e
+m>la p</e
+m>di attenti</e
+m>di riposo</e
+m>mettersi nella p</e
+m>di sparo</e
+m>la p</e
+m>del braccio</e
+m>del piede nella danza</e
+m>la p</e
+m>della mano sulla tastiera del pianoforte</e
+m>corretta</e
+m>giusta</e
+m>regolare</e
+m>sbagliata</e
+m>falsa</e
+m>irregolare</e
+m>prendere posizione sulla palla</e
+m>diteggiatura</e
+m>accordo in p. stretta</e
+m>in p</e
+m>lata</e
+m>accordo in prima</e
+m>seconda</e
+m>terza p</e
+m>melodica</e
+m>esaminare</e
+m>stabilire la p</e
+m>giuridica</e
+m>amministrativa di un impiegato</e
+m>la p</e
+m>scolastica di un allievo</e
+m>ufficiale in p</e
+m>di servizio ausiliario</e
+m>in p</e
+m>ausiliaria</e
+m>organica</e
+m>di armamento</e
+m>di disponibilit&agrave;</e
+m>di riserva</e
+m>ufficio posizioni</e
+m>dei camb&icirc;</e
+m>avere una solida p</e
+m>una p</e
+m>invidiabile</e
+m>ha fatto di tutto per migliorare la sua p</e
+m>raggiungere</e
+m>occupare una p</e
+m>di potere</e
+m>essere in una p</e
+m>di comando</e
+m>&egrave; troppo giovane e deve ancora farsi una p</e
+m>ha gi&agrave;</e
+m>non ha ancora</e
+m>una posizione</e
+m>essere in una p</e
+m>delicata</e
+m>difficile</e
+m>critica</e
+m>insostenibile</e
+m>essere nella p</e
+m>di fare qualche cosa</e
+m>chiarire la propria p</e
+m>politica</e
+m>difendere le proprie p</e
+m>ideologiche</e
+m>restare sulle proprie p</e
+m>prendere posizione</e
+m>presa di posizione</e
+m>non si conosce ancora la p</e
+m>dei sindacati sul nuovo progetto di riforme</e
+m>la p</e
+m>del partito &egrave; stata resa nota dal suo segretario politico</e
+m>il primo ministro ha illustrato la p</e
+m>del suo paese sulla questione mediorientale</e
+m>a p</e
+m>di un problema</e
+m>di un quesito</e
+m>di una domanda</e
+m>facendo la p</e
+m>si ottiene un&rsquo;equazione di grado inferiore</e
+m>astronomia di p</e
+m>astronomia posizionale</e
+m>astrometria</e
+m>astronomica di un astro</e
+m>apparente di un astro</e
+m>animali</e
+m>piante di incerta p</e
+m>sistematica</e
+m> effetto di p</e
+m>p. di memoria</e
+m>celle</e
+m>di perforazione</e
+m>geometria di p</e
+m>metodo della falsa p</e
+m>di un punto materiale</e
+m>di un sistema</e
+m>gradi di libert&agrave;</e
+m>coordinate generalizzate</e
+m>vincolo di p</e
+m>vincolo olonomo</e
+m>sociale</e

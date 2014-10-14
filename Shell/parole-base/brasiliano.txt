@@ -1,0 +1,9 @@
+brasiliano.txt
+"brasiliano"
+"brasiliano"
+#*''la nazionale brasiliana è campione del mondo di calcio''
+M>Brasil</E
+M>il popolo b</E
+M>l’arte</E
+M>la letteratura b</E
+M>il folclore b</E

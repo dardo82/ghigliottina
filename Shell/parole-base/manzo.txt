@@ -1,0 +1,25 @@
+manzo.txt
+"brodo di manzo"
+"carne di manzo in scatola"
+"costata di manzo arrosto"
+"filetto di manzo"
+"manzo"
+"manzo alla griglia"
+"manzo alla Stroganoff"
+"manzo alla stroganoff"
+"manzo alla Wellington"
+"stufato di manzo"
+"stufato di manzo"
+#*'' mi dia due chili di '''manzo'''''
+M>vitello</E
+M>bue</E
+M>bove</E
+M>vitellone</E
+M>un pezzo</E
+M>un chilo di m</E
+M>lesso</E
+M>brodo di m</E
+M>bistecca di manzo</E
+M>Pesce manzo</E
+M>pesce bove</E
+M>capopiatto</E

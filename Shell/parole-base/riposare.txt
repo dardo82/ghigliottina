@@ -1,0 +1,116 @@
+riposare.txt
+"lasciar riposare"
+"riposare"
+"riposare"
+"riposare"
+"riposare"
+"riposare"
+"riposare in"
+"riposare in pace"
+"riposare su"
+"riposare sugli allori"
+*tornare a posare
+*[[rilassarsi]], [[distendersi]], [[ristorarsi]]
+*(di vento, dolore) [[calmarsi]], [[placarsi]]
+*(di liquido) [[quietarsi]], [[sedimentarsi]]
+*(una parte del corpo) far riposare, [[ritemprare]]
+*[[stressare]]
+*(di vento, dolore) [[aumentare]]
+*(una parte del corpo) [[stancare]]
+*[[riposante]], [[riposarsi]], [[riposata]], [[riposato]], [[riposo]]
+M>posare</E
+M>repausare</E
+M>pausare</E
+M>io ripòso</E
+M>avere</E
+M>essere</E
+M>riposò la valigia a terra</E
+M>riposò la tazza sul piattino</E
+M>riposai il capo sul guanciale</E
+M>l&#8217;uccello si riposa sullo stesso ramo</E
+M>Come la luce rapida Piove di cosa in cosa</E
+M>E i color vari suscita Dovunque si riposa</E
+M>riposarsi nella speranza di riuscire in un&#8217;impresa</E
+M>Signor</E
+M>fidando</E
+M>al tuo paterno seno L&#8217;anima mia ricorre</E
+M> e si riposa In un affetto che non è terreno</E
+M>Angelica sembianza In voi</E
+M>donna</E
+M>riposa</E
+M>la sua affermazione riposa su basi sicure</E
+M>queste teorie riposano su un fondamento di certezza</E
+M>gli altri dì non credere che noi riposiamo</E
+M>riposarsi</E
+M>Quante &#8217;l villan ch&#8217;al poggio si riposa</E
+M>Vede lucciole giù per la vallea</E
+M>riposarsi da un lavoro</E
+M>da un viaggio</E
+M>riposarsi un istante</E
+M>un&#8217;ora</E
+M>dopo cena mi riposo un po&#8217; e poi mi rimetto a studiare</E
+M>far r</E
+M>i cavalli</E
+M>sta riposando sul divano</E
+M>sulla poltrona</E
+M>sul prato</E
+M>sugli allori</E
+M>ha vinto il concorso</E
+M>ma non è uomo da r</E
+M>sugli allori</E
+M>ora è il momento non di r</E
+M>sugli allori</E
+M>ma di sfruttare il successo</E
+M>con tutti questi rumori la notte non si può r</E
+M>buongiorno</E
+M>ha riposato bene?</E
+M>il nostro amico riposa certamente nella pace del Signore</E
+M>riposino in pace</E
+M>così sia</E
+M>requiescant in pace</E
+M>amen</E
+M>le sue ceneri riposano in questo mausoleo</E
+M>la terra dove riposano le ossa dei nostri avi</E
+M>qui riposa</E
+M>la vista</E
+M>in mezzo al verde dei prati</E
+M>riposa</E
+M>si riposa</E
+M>i suoi occhi affaticati dalla lettura si riposavano nell&#8217;ampio paesaggio</E
+M>la mente si riposa dallo studio</E
+M>dalle meditazioni</E
+M>dai pensieri assillanti</E
+M>Deh</E
+M>se riposi mai vostra semenza</E
+M>non aveva giammai</E
+M>Italia</E
+M>provato stato tanto desiderabile quanto era quello nel quale sicuramente si riposava l&#8217;anno</E
+M>1490</E
+M>dopo la burrasca il mare riposava sotto la luna</E
+M>la quale</E
+M>poi che riposata fu</E
+M>questo campo bisogna che riposi almeno per un anno</E
+M>far r</E
+M>l&#8217;olio</E
+M>il vino</E
+M>far r</E
+M>la pasta per la pizza</E
+M>per la torta</E
+M>l&#8217;occhio</E
+M>la vista</E
+M>un braccio</E
+M>una gamba</E
+M>riposarsi gli occhi</E
+M>la vista</E
+M>l&#8217;animo dalle emozioni</E
+M>la mente dopo un lungo studio</E
+M>la villeggiatura quest&#8217;anno mi ha riposato abbastanza</E
+M>quest&#8217;ora di sonno dopo pranzo mi riposa molto</E
+M>Dio lo riposi!</E
+M>il suo cervel</E
+M>Dio lo riposi</E
+M>A questa roba è morto e sotterrato</E
+M>una vacanza veramente riposante</E
+M>spettacolo</E
+M>conversazione</E
+M>lettura riposante</E

@@ -1,0 +1,35 @@
+appartenere.txt
+"appartenere"
+"appartenere"
+"appartenere a"
+"appartenere a"
+*[[appartenente]], [[appartenenza]], [[appartenuto]]
+M>appert</E
+M>nere</E
+M>pert</E
+M>nere</E
+M>pars partis</E
+M>tenere</E
+M>essere</E
+M>avere</E
+M>questo computer mi appartiene</E
+M>appartiene a me</E
+M>quel castello era</E
+M>aveva</E
+M>già appartenuto per più d’un secolo ai suoi avi</E
+M>appartiene a una famiglia di industriali</E
+M>il cetriolo appartiene alla famiglia delle cucurbitacee</E
+M>a che distretto appartieni?</E
+M>alla borghesia</E
+M>alla classe dirigente</E
+M>Settignano appartiene al comune di Firenze</E
+M>la Corsica appartiene alla Francia</E
+M>la penisola araba appartiene all’Asia</E
+M>il Canton Ticino appartiene linguisticamente all’Italia</E
+M>appartiene alla polizia indagare</E
+M>d’indagare</E
+M>la decisione appartiene al ministro</E
+M>non t’occupare di cose che non t’appartengono</E
+M>ho fatto quanto s’appartiene a un buon cittadino</E
+M>i membri appartenenti all’associazione</E
+M>tutti gli appartenenti alla famiglia</E

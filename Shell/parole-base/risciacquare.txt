@@ -1,0 +1,18 @@
+risciacquare.txt
+"risciacquare"
+"risciacquare"
+"sciacquare, risciacquare"
+M>sciacquare</E
+M>io risciàcquo</E
+M>il bucato</E
+M>i bicchieri</E
+M>i piatti</E
+M>le posate</E
+M>i panni in Arno</E
+M>Promessi Sposi</E
+M>sciacquare</E
+M>prima di metterci il vino</E
+M>risciacqua bene i fiaschi</E
+M>risciacquarsi i denti</E
+M>la bocca</E
+M>il viso</E

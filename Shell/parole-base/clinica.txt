@@ -1,0 +1,44 @@
+clinica.txt
+"cartella clinica"
+"clinica"
+"clinica"
+"clinica ambulatoriale"
+"clinica gratuita"
+"clinica gratuita"
+"clinica privata"
+"clinica universitaria"
+"diagnosi clinica"
+"clinical diagnosis"
+"medicina clinica"
+"clinical medicine"
+"patologia clinica"
+"clinical pathology"
+"prova clinica \"
+"psicologia clinica"
+"clinical psychology"
+M>clinico</E
+M>clin</E
+M>medica</E
+M>pediatrica</E
+M>dermosifilopatica</E
+M>neurologica e psichiatrica</E
+M>chirurgica</E
+M>oculistica</E
+M>otorinolaringoiatrica</E
+M>ostetrico</E
+M>ginecologica</E
+M>tisiologica</E
+M>delle malattie tropicali</E
+M>ortopedica e traumatologica</E
+M>urologica</E
+M>odontoiatrica</E
+M>ospedale</E
+M>ginecologica</E
+M>chirurgica</E
+M>ortopedica</E
+M>farsi ricoverare in c</E
+M>per alcune analisi</E
+M>dei cani</E
+M>delle bambole</E
+M>dell’accendino e della pipa</E
+M>della scarpa</E

@@ -1,0 +1,5 @@
+autoscuola.txt
+"autoscuola"
+*[[scuolaguida]]
+M>auto</E
+M>scuola</E

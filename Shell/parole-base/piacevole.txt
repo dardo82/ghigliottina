@@ -1,0 +1,59 @@
+piacevole.txt
+"http://api.wordreference.com/12bee/json/iten/piacevole/"
+*''(di evento, conversazione)'' [[gradevole]], [[delizioso]], [[amabile]], [[soddisfacente]], [[interessante]]
+*''(di opera, spettacolo)'' [[divertente]], [[simpatico]], [[spassoso]], [[gustoso]]
+*''(di persona)'' [[attraente]], [[affascinante]], [[seducente]], [[incantevole]], [[bello]], [[carino]], [[grazioso]], [[dolce]],   [[simpatico]],   [[caro]]
+*''(di evento, conversazione)'' [[spiacevole]], [[sgradevole]], [[sgradito]] [[insoddisfacente]]
+*''(di opera, spettacolo)'' [[noioso]], [[antipatico]], [[fastidioso]]
+*''(di persona)''[[brutto]], [[disgustoso]]
+*[[piacevolmente]], [[piacevolezza]]
+*Giuseppe Pittano, ''Il mio primo dizionario illustrato'', edizione 1995, DeAgostini p. 403
+M>plac</E
+M>lis</E
+M>placere</E
+M>un sapore</E
+M>un profumo p</E
+M>c&#8217;era una p</E
+M>vista sul mare</E
+M>aveva una voce p</E
+M>e suadente</E
+M>è p</E
+M>questo venticello</E
+M>un tempo p</E
+M>una stagione p</E
+M>un p</E
+M>racconto</E
+M>un&#8217;operetta molto p</E
+M>un p</E
+M>film</E
+M>siamo stati in p</E
+M>compagnia</E
+M>abbiamo passato una p</E
+M>serata</E
+M>è stata una cenetta davvero p</E
+M>un p</E
+M>compagno di viaggio</E
+M>un conversatore p</E
+M>e divertente</E
+M>piacente</E
+M>una ragazza</E
+M>una donna piacevole</E
+M>essere</E
+M>mettere in un p</E
+M>stato d&#8217;animo</E
+M>è una sensazione veramente p</E
+M>restare in p</E
+M>attesa</E
+M>fu colpito da p</E
+M>meraviglia</E
+M>non è affatto p</E
+M>starsene qui al freddo ad aspettarlo</E
+M>in tanto fu la fortuna p</E
+M>alla beffa</E
+M>che</E
+M>mentre Calandrino per lo fiume ne venne e poi per la città</E
+M>niuna persona gli fece motto</E
+M>sovente era ripreso da&#8217; suoi che fosse troppo mite e p</E
+M>verso i suoi sudditi</E
+M>conversare piacevolmente</E
+M>essere piacevolmente sorpreso</E

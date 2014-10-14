@@ -1,0 +1,169 @@
+viaggio.txt
+"andare in viaggio"
+"andare in viaggio"
+"borsa da viaggio"
+"buon viaggio"
+"buon viaggio"
+"compagno di viaggio"
+"di un viaggio insieme a qualcuno"
+"diario di viaggio"
+"essere in viaggio"
+"fare buon viaggio"
+"fare un viaggio"
+"fare un viaggio"
+"fare un viaggio"
+"fare un viaggio"
+"fine del viaggio"
+"in rotta, in viaggio"
+"in viaggio"
+"in viaggio"
+"in viaggio"
+"in viaggio"
+"in viaggio (turista)"
+"in viaggio per"
+"in viaggio verso"
+"in viaggio verso"
+"itinerario di viaggio"
+"letteratura di viaggio"
+"malessere da viaggio"
+"mettersi in viaggio; essere per strada"
+"organizzazione del viaggio"
+"partire; mettersi in viaggio"
+"primo viaggio"
+"programma di viaggio"
+"sacca da viaggio, valigia"
+"scrittore di viaggio"
+"spese di viaggio"
+"taccuino di viaggio"
+"titolo di viaggio"
+"un viaggio piacevole"
+"viaggio"
+"viaggio"
+"viaggio a sorpresa"
+"viaggio aereo"
+"viaggio che facevano i nobili inglesi nell'800 per tutta Europa"
+"viaggio della libertà"
+"viaggio della speranza"
+"viaggio della speranza"
+"viaggio di andata e ritorno"
+"viaggio di linea"
+"viaggio di nozze"
+"viaggio di piacere"
+"viaggio di sola andata"
+"viaggio in auto"
+"viaggio in treno"
+"viaggio intorno al mondo"
+"viaggio oceanico"
+"viaggio organizzato"
+"viaggio per mare"
+"viaggio per mare"
+"viaggio su Marte"
+"viaggio sulla Luna"
+"viaggio transatlantico"
+#* fare un 
+*[[strada]], [[via]], [[percorso]], [[itinerario]], [[tragitto]], [[cammino]]; [[passeggiata]], [[giro]], [[gita]], [[escursione]], [[spedizione]], [[esplorazione]], [[vacanza]], [[trasferta]]
+*[[pellegrinaggio]], [[peregrinazione]], [[vagabondaggio]]; [[navigazione]], [[crociera]], [[traversata]], [[rotta]], [[volo]], [[trasvolata]]
+*(nel gergo giovanile) [[evasione]], [[distrazione]], [[sballo]]
+*[[fermata]], [[sosta]], [[permanenza]]
+*[[viaggiare]]
+*''amare la vicina è un gran [[vantaggio]], si vede spesso e non si fa 
+*''ultimo, estremo 
+M>viatge</E
+M>veiage</E
+M>viat</E
+M>cum</E
+M>via</E
+M>un v. d’una settimana</E
+M>di quindici giorni</E
+M>di poche ore</E
+M>fare un v. in treno</E
+M>in nave</E
+M>in aereo</E
+M>in pullman</E
+M>in automobile</E
+M>in carrozza</E
+M>in diligenza</E
+M>a cavallo</E
+M>compiere un v. per terra</E
+M>per mare</E
+M>per aria</E
+M>v. terrestre</E
+M>marittimo</E
+M>aereo</E
+M>v. di piacere</E
+M>v. turistico</E
+M>v. d’istruzione</E
+M>v. d’affari</E
+M>v. di nozze</E
+M>intraprendere un lungo v.</E
+M>mettersi</E
+M>essere in v.</E
+M>interrompere</E
+M>proseguire il v.</E
+M>tornare da un v.</E
+M>il principio</E
+M>il termine del v.</E
+M>a metà del v.</E
+M>v. di andata</E
+M>di ritorno</E
+M>di andata e ritorno</E
+M>fare un v. in Oriente</E
+M>durante l’ultimo suo v. in America</E
+M>il v. di Orazio da Roma a Brindisi</E
+M>essere in v. per le Antille</E
+M>v. interplanetarî</E
+M>il v. dalla Terra alla Luna</E
+M>il v. di Dante attraverso i tre regni</E
+M>il v. di Enea nell’oltretomba</E
+M>buon v.!</E
+M>felice v.!</E
+M>fa’</E
+M>faccia</E
+M>fate buon v.!</E
+M>hai fatto buon v.?</E
+M>hai avuto un buon v.?</E
+M>buon v.</E
+M>se riusciamo</E
+M> bene</E
+M> se no buon v.!</E
+M>agenzia di viaggi</E
+M>abito</E
+M>soprabito</E
+M>borsa da v.</E
+M>provviste per il v.</E
+M>cestino da v.</E
+M>compagni di v.</E
+M>affrontare le fatiche</E
+M>i disagi del v.</E
+M>libro</E
+M>descrizione</E
+M>relazione di viaggi</E
+M>v. sentimentale</E
+M>andare da casa mia in ufficio è un vero viaggio!</E
+M>il v. alla Mecca</E
+M>il v. al Santo Sepolcro</E
+M>diceva che ei faceva il viaggio alla casa del nespolo come quelli che hanno fatto il voto alla Madonna dell’Ognina</E
+M>L’ultimo</E
+M>l’estremo v.</E
+M>il v. senza ritorno</E
+M>navigazione</E
+M>v. di circumnavigazione</E
+M>di esplorazione</E
+M>di istruzione</E
+M>essere in viaggio</E
+M>fare viaggio</E
+M>per portare su tutte le valigie dovrò fare tre v.</E
+M>è un grosso trasloco</E
+M> e ci vorranno due v.</E
+M>fare un v. a vuoto</E
+M>fare un v. a vuoto</E
+M>fare un v. e due servizî</E
+M>L’astro più caro a Venere ... Appare</E
+M> e il suo vïaggio Orna col lume dell’eterno raggio</E
+M>A te convien tenere altro v.</E
+M>Il mover de le frondi e di verzure ... Fatto le avea con subite paure Trovar di qua di là strani v.</E
+M>trip</E
+M>riguardo al tempo impiegatovi</E
+M> avrebbe potuto parere un viaggetto</E
+M>è tanto che desidero fare un viaggetto</E
+M>è stato un viaggiaccio</E

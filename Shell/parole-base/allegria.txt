@@ -1,0 +1,38 @@
+allegria.txt
+"allegria"
+"allegria"
+"buonumore; allegria"
+"con allegria"
+"con allegria"
+#* ''Sprizza '''allegria''' da tutti i [[pori]]''.
+#* '''''Allegria''', amici telespettatori!'' (Forma di saluto del famoso presentatore Mike Bongiorno).
+#* '''''Allegria'''! '''Allegria'''! Dove ci sono i cocci ci son feste'' (Verga)
+*[[felicità]], [[gioia]], [[contentezza]], [[vitalità]], [[brio]], [[letizia]], [[buonumore]], [[spensieratezza]], [[ilarità]], [[festosità]], [[baldoria]], [[esultanza]], [[gaudio]]
+*''(di suoni, colori, luci)'' [[vivacità]]
+*[[tristezza]], [[scontentezza]], [[depressione]]
+*[[infelicità]]
+*[[allegrezza]], [[allegro]], [[feste]]
+*Giuseppe Pittano, '' il mio primo dizionario di italiano illustrato'', edizione 1995, DeAgostini pagina 21
+M>allegrezza</E
+M>essere</E
+M>stare in a</E
+M>vivere in a</E
+M>spontanea</E
+M>sguaiata</E
+M>simulata</E
+M>l’a</E
+M>è contagiosa</E
+M>festa</E
+M>spettacolo che mette</E
+M>che comunica a</E
+M>l’a</E
+M>non tardò a diffondersi tra i commensali</E
+M>fare a</E
+M>fare a</E
+M>a qualcuno</E
+M>allegria! allegria!</E
+M>Allegria! allegria! Dove ci sono i cocci ci son feste</E
+M>un’a</E
+M>di luci</E
+M>di colori</E
+M>di suoni</E

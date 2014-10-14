@@ -1,0 +1,29 @@
+vincitore.txt
+"saltare sul carro, saltare sul carro del vincitore"
+"vincitore"
+"vincitore"
+"vincitore a pari merito"
+"vincitore della medaglia"
+"vincitore di medaglia"
+"vincitore di un premio"
+"vincitore di un premio, vincitore del premio"
+"vincitore morale"
+M>-trice</E
+M>la guerra</E
+M>la battaglia si concluse senza vincitori né vinti</E
+M>il v. di un torneo</E
+M>di un campionato</E
+M>di un incontro di pugilato</E
+M>la v. di un concorso di bellezza</E
+M>i v. e le v. di un concorso pubblico</E
+M>Ivi spiegò le glorïose spoglie La bella vincitrice</E
+M>A rapirvi al muto inferno</E
+M> Vecchi padri</E
+M>Egli è disceso; ... Il terror dell’inimico</E
+M>Il promesso Vincitor</E
+M>essere dichiarato v.</E
+M>rimanere</E
+M>riuscire v.</E
+M>l’esercito v.</E
+M>il concorrente v.</E
+M>la squadra vincitrice del campionato di calcio.</E

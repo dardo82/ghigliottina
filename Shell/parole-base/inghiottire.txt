@@ -1,0 +1,36 @@
+inghiottire.txt
+"inghiottire"
+"inghiottire"
+"inghiottire tutto d'un fiato"
+"trangugiare, inghiottire"
+#* ''inghiottire una pastiglia''
+#* ''inghiottì per la tensione''
+#* ''fu inghiottito dal buio''
+*[[ingerire]], [[deglutire]], [[ingurgitare]]
+*[[inghiottimento]]
+M>inglutire</E
+M>glutire</E
+M>gluttire</E
+M>io inghiótto</E
+M>tu inghiótti</E
+M>inghiottisco</E
+M>inghiottisci</E
+M>deglutire</E
+M>ha inghiottito una ciliegia intera</E
+M>la saliva</E
+M>ho mal di gola e ho difficoltà a i</E
+M>il serpente inghiottì la sua preda</E
+M>un boccone amaro</E
+M>un rospo</E
+M>quante ne ho dovute i</E
+M>questa davvero non la voglio i</E
+M>avrebbe voluto rispondergli</E
+M>ma preferì i</E
+M>e tacere</E
+M>fu inghiottito da una voragine</E
+M>scomparve inghiottito dalla nebbia</E
+M>la nave fu inghiottita dalle onde</E
+M>un vasello snelletto e leggero</E
+M>Tanto che l’acqua nulla ne ’nghiottiva</E
+M>è stata una speculazione sbagliata</E
+M>che gli ha inghiottito tutti i suoi capitali</E

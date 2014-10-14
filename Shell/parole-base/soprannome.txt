@@ -1,0 +1,52 @@
+soprannome.txt
+"dare un soprannome"
+"soprannome"
+*[[epiteto]], [[nomignolo]]
+*[[nome]]
+M>sopra-</E
+M>nome</E
+M>supernomen</E
+M>cognome</E
+M>Mia donna venne a me di val di Pado</E
+M> E quindi il sopranome tuo si feo</E
+M>Alighieri</E
+M>Alighiera</E
+M>gli era de&#8217; Grimaldi caduto il sopranome e solamente messere Erminio Avarizia era da tutti chiamato</E
+M>si chiama Renzo Grassi</E
+M> ma tutti lo conoscono con il s. di Morino</E
+M>è svelto di mano</E
+M> e infatti per s. lo chiamano il Gatto</E
+M>il letterato fiorentino Giovanni Mazzuoli</E
+M> più noto col suo s. di Padre Stradino.</E
+M>il Rosso</E
+M>la Bionda</E
+M>il Moro</E
+M>il Morino</E
+M>il Barbarossa</E
+M>il Lungo</E
+M>il Magro</E
+M>il Guercio</E
+M>lo Storpio</E
+M>lo Sciancato</E
+M>lo Sfregiato</E
+M>il Gatto</E
+M>la Volpe</E
+M>il Mangia</E
+M>il Trinca</E
+M>Testa di ferro</E
+M>la Romanina</E
+M>la Toscanina</E
+M>il Marsigliese</E
+M>Senzaterra</E
+M>cognomina</E
+M>Cicero</E
+M>Naso</E
+M>Flaccus</E
+M>Verres</E
+M>Borboni</E
+M>Nasini</E
+M>Fabbri</E
+M>Bevilacqua</E
+M>Leoni</E
+M>Passerini</E
+M>Meloni</E

@@ -1,0 +1,20 @@
+sperare.txt
+"continuare a sperare"
+"lo sperare nell'impossibile"
+"non sperare in qcs., non aspettarsi qcs."
+"non sperare in qcs., non aspettarsi qcs."
+"non sperare in qcs.; non aspettarsi qcs."
+"sperare"
+"sperare"
+"sperare ardentemente"
+"sperare che"
+"sperare che"
+"sperare e pregare"
+"sperare in"
+"sperare in"
+"sperare nell'impossibile"
+"sperare per il meglio"
+*avere fiducia, [[desiderare]], [[sognare]], [[augurarsi]], [[auspicare]], [[illudersi]], [[fantasticare]]
+*[[fidare]], [[confidare]], [[contare]], fare assegnamento, [[promettere]], [[ripromettersi]]
+*[[disperare]], [[sconfortarsi]], [[scoraggiarsi]], [[sfiduciarsi]], perdersi d’animo
+*[[despair]], [[desperate]]

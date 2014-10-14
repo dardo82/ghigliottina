@@ -1,0 +1,34 @@
+insultare.txt
+"insultare"
+"insultare qcn in tutti i modi possibili"
+"parlare male, dire parolacce, insultare"
+#*''Dare dello scribacchino a un grande scrittore può voler dire '''insultar'''lo pesantemente''
+*[[ingiuriare]], [[oltraggiare]], [[vilipendere]], [[vituperare]], [[offendere]]
+*[[elogiare]], [[encomiare]], [[lodare]]
+*italiano
+*latino
+M>insultare</E
+M>saltare</E
+M>un collega</E
+M>un pubblico funzionario</E
+M>lasciarsi</E
+M>farsi impunemente i</E
+M>la memoria di un grande</E
+M>l’onore della patria</E
+M>della bandiera</E
+M>la religione</E
+M>avere</E
+M>ai vinti</E
+M>ai caduti</E
+M>avresti veduto</E
+M>altri impetuosamente i</E
+M>agl’inimici</E
+M>Alle incolpate ceneri Nessuno insulterà</E
+M>se pia la terra</E
+M>sacre le reliquie renda Dall’insultar de’ nembi</E
+M>avere</E
+M>Tempo forse verrà ch’alle ruine Delle italiche moli Insultino gli armenti</E
+M>parole insultanti</E
+M>lettera insultante</E
+M>maniere insultanti</E
+M>un contegno insultante</E

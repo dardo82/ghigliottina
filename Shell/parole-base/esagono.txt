@@ -1,0 +1,9 @@
+esagono.txt
+"esagono"
+:* en [[hexagon]]
+M>hexag</E
+M>num</E
+M>regolare</E
+M>esagonale</E
+M>costruzione a pianta esagona</E
+M>anello benzenico</E

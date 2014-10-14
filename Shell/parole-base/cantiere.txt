@@ -1,0 +1,32 @@
+cantiere.txt
+"avere in cantiere"
+"cantiere"
+"cantiere"
+"cantiere di lavoro"
+"cantiere di scavo"
+"cantiere nautico"
+"cantiere navale"
+"capo cantiere"
+"fermo cantiere"
+"franco cantiere"
+"in cantiere"
+"mettere in cantiere"
+*[[darsena]], bacino di carenaggio, [[arsenale]], [[scalo]]
+*[[deposito]], [[fabbrica]]
+*''avere in cantiere''
+*'' mettere in cantiere''
+M>canth</E
+M>rius</E
+M>iere</E
+M>chantier</E
+M>i c</E
+M>che sostentano immediatamente il tetto</E
+M>navale</E
+M>essere in c</E
+M>mettere in c</E
+M>avere in c</E
+M>aeronautici</E
+M>stabilimenti di costruzioni aeronautiche</E
+M>Cantieri</E
+M>scuola</E
+M>di abbattimento</E

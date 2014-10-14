@@ -1,0 +1,22 @@
+cinematografico.txt
+"ambiente cinematografico"
+"attore cinematografico"
+"cinematografico"
+"hard-boiled (genere cinematografico)"
+"hard-boiled (genere cinematografico)"
+"produttore cinematografico"
+"set cinematografico"
+"soggetto cinematografico"
+"studio cinematografico"
+"successo cinematografico"
+M>apparecchio c</E
+M>macchina c</E
+M>attore</E
+M>regista c</E
+M>spettacolo c</E
+M>rappresentazione c</E
+M>fatti inauditi</E
+M>fantastici</E
+M>direi c</E
+M>stile c</E
+M>uno stile narrativo che tende a riprodurre quasi cinematograficamente la realtà</E

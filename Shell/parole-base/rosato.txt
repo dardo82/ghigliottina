@@ -1,0 +1,30 @@
+rosato.txt
+"rosato"
+"rosato"
+"rosato"
+"vino rosato"
+"vino rosato"
+M>acqua r</E
+M>niuna altra acqua che o rosata o di fior d&#8217;aranci</E
+M>aceto</E
+M>sciroppo</E
+M>zucchero r</E
+M>miele rosato</E
+M>colore r</E
+M>labbra r</E
+M>Dolci parole di r</E
+M>labbro</E
+M>guance r</E
+M>geranio r</E
+M>rosa</E
+M>vino r</E
+M>rosato</E
+M>rosatello</E
+M>rosé</E
+M>uve r</E
+M>panno r</E
+M>rosato</E
+M>era vestito d&#8217;un rosato di grana</E
+M>Pasqua r</E
+M>Pasqua rosa</E
+M>di rose</E

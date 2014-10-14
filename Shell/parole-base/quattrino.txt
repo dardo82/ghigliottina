@@ -1,0 +1,37 @@
+quattrino.txt
+"essere senza il becco di un quattrino"
+"senza un quattrino"
+#* ''non ho un '''quattrino'''''
+* [[quattro]],  [[quattrinaio]]
+M>quattro</E
+M>di rame</E
+M>di mistura</E
+M>fiorentini</E
+M>veneti</E
+M>papali</E
+M>a quattrino a quattrino si fa il fiorino</E
+M>ballare sopra un q</E
+M>non avere un q</E
+M>da far cantare il cieco</E
+M>centesimo</E
+M>soldo</E
+M>sarà pagato fino all’ultimo q</E
+M>restare senza un q</E
+M>senza il becco d’un q</E
+M>un bel giorno constatò che non gli rimaneva il becco d’un q.</E
+M>non stimare un q</E
+M>un q</E
+M>bacato</E
+M>un q</E
+M>marcio</E
+M>non ha un q</E
+M>di giudizio</E
+M>guadagnare quattrini a palate</E
+M>non pensa che a far quattrini</E
+M>come state a quattrini?</E
+M>mi costa fior di quattrini</E
+M>ha i q</E
+M>da buttar via</E
+M>quattrini e santità</E
+M>metà della metà</E
+M>quadrato</E

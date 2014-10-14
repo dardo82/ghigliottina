@@ -1,0 +1,12 @@
+abbeverare.txt
+"abbeverare"
+*[[dissetare]]
+*[[abbeveratoio]], [[abbeverata]]
+M>abb</E
+M>rare</E
+M>io abbévero</E
+M>i cavalli</E
+M>i buoi</E
+M>le pecore</E
+M>i cavalli si abbeveravano alla fontana</E
+M>abbeverarsi alle fonti del sapere</E

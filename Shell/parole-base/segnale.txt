@@ -1,0 +1,177 @@
+segnale.txt
+"dare il segnale"
+"limitata ricezione del segnale"
+"segnale"
+"segnale"
+"segnale"
+"segnale"
+"segnale acustico"
+"segnale audio"
+"segnale con suono di tromba"
+"segnale d'allarme"
+"segnale di avanzamento"
+"segnale di avvertimento"
+"segnale di avviso, di attenzione"
+"segnale di comunicazione con monitor o stampante"
+"segnale di errore"
+"segnale di errore"
+"segnale di libero"
+"segnale di pericolo"
+"segnale di richiesta di aiuto"
+"segnale di richiesta di aiuto"
+"segnale di ritorno"
+"segnale diretto"
+"segnale in uscita"
+"segnale manuale"
+"segnale orario"
+"segnale radar"
+"segnale radio"
+"segnale radio"
+"segnale radio"
+"segnale riflesso"
+"segnale stradale"
+"segnale video"
+*[[avviso]], [[segnalazione]], [[segno]], [[gesto]], [[cenno]], [[richiamo]]
+*(stradale) [[indicazione]], [[insegna]], [[cartello]]
+*(di strumento) [[indicatore]]
+*[[indizio]], [[segno]], [[sintomo]], [[spia]], [[avvisaglia]]
+*[[segnalamento]], [[segnalare]], [[segnalatore]], [[segnalazione]], [[segnaletica]], [[segnaletico]], [[segno]]
+M>signale</E
+M>signalis</E
+M>signum</E
+M>dare</E
+M>attendere</E
+M>aspettare</E
+M>vedere</E
+M>sentire</E
+M>ricevere il s.</E
+M>il comandante diede il s. della battaglia</E
+M>il s. d&#8217;attacco</E
+M>il capostazione fischiò per dare il s. della partenza</E
+M>al s. convenuto si mossero tutti insieme</E
+M>fare segnali con razzi</E
+M>con fumate</E
+M>con fuochi</E
+M>con le braccia</E
+M>con le bandiere</E
+M>agitando un panno</E
+M>s. radioelettrici</E
+M>segnali di soccorso</E
+M>s. acustici e luminosi</E
+M>s. di tromba</E
+M>s. d&#8217;allarme</E
+M>di cessato allarme</E
+M>s. orario</E
+M>s. d&#8217;inizio</E
+M>s. d&#8217;intervallo</E
+M>s. di linea libera</E
+M>di linea occupata</E
+M>s. notturni</E
+M>diurni</E
+M>s. fissi</E
+M>mobili</E
+M>a un certo punto</E
+M> un s. avvertiva che la strada era interrotta per frana</E
+M>omesso collocamento di segnali</E
+M>s. geodetico</E
+M>s. aeroportuali visivi</E
+M>s. ferroviarî</E
+M>s. dei treni</E
+M>s. della linea e delle stazioni</E
+M>s. per le manovre con locomotiva</E
+M>s. sussidiarî</E
+M>s. accessorî</E
+M>s. d&#8217;allarme</E
+M>freno d&#8217;emergenza</E
+M>s. marittimi</E
+M>ottici</E
+M>luminosi</E
+M>non luminosi</E
+M>sonori</E
+M>s. fissi</E
+M>galleggianti</E
+M>segnalamento marittimo</E
+M>s. laterali</E
+M>s. di pericolo isolato</E
+M>s. di acque sicure</E
+M>speciali</E
+M>s. di presagio</E
+M>s. navali</E
+M>s. notturni di navigazione</E
+M>s. notturni di posizione</E
+M>s. di manovra</E
+M>s. di pericolo</E
+M>s. di salvataggio</E
+M>s. di lontananza</E
+M>S. stradali</E
+M>s. verticali</E
+M>s. di pericolo</E
+M>s. di prescrizione</E
+M>s. di precedenza</E
+M>s. di divieto</E
+M>s. di obbligo</E
+M>s. di indicazione</E
+M>s. di preavviso</E
+M>s. di direzione</E
+M>s. di conferma</E
+M>s. di identificazione strade</E
+M>progressive distanziometriche</E
+M>s. di itinerario</E
+M>s. di località e localizzazione</E
+M>s. di nome strada</E
+M>s. turistici e di territorio</E
+M>s. che danno informazioni necessarie per la guida dei veicoli</E
+M>s. che indicano installazioni e servizî</E
+M>segnaletica orizzontale</E
+M>tutto nel viso cambiato</E
+M>eziandio se parola non avesse detta</E
+M> diede assai manifesto segnale ciò esser vero che Ambruogiuolo diceva</E
+M>un caro fanciullo</E
+M> vispo</E
+M> per dire il vero</E
+M> più del bisogno</E
+M> ma che</E
+M> a tutti i s.</E
+M> mostra di voler riuscire un galantuomo</E
+M>segno</E
+M>diede loro uno s.</E
+M> per lo quale e&#8217; non potessono essere offesi da persona</E
+M>Fior. di s. Franc.</E
+M>segnacarte</E
+M>s. nervosi</E
+M>chimici</E
+M>ormonali</E
+M>s. acustici</E
+M>tattili</E
+M>termici</E
+M>visivi</E
+M>luminosi</E
+M>s. d&#8217;entrata</E
+M>s. d&#8217;uscita</E
+M>s. a bassa frequenza</E
+M>s. a radiofrequenza</E
+M>s. modulato</E
+M>s. audio</E
+M>s. video</E
+M>s. impulsivo</E
+M>s. sinusoidale</E
+M>s. a gradino</E
+M>s. a dente di sega</E
+M>generatore di segnali</E
+M>s. di cadenza</E
+M>s. di scatto</E
+M>s. biologici</E
+M>s. sonori</E
+M>acustici</E
+M>s. luminosi</E
+M>ottici</E
+M>s. radio</E
+M>radiosegnali</E
+M>comando</E
+M>stimolo</E
+M>s. elettrici</E
+M>s. analogici</E
+M>s. digitale</E
+M>s. d&#8217;immagine</E
+M>s. di sincronismo</E
+M>s. sincronizzante</E

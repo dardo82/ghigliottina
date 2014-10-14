@@ -1,0 +1,35 @@
+locomotiva.txt
+"caldaia (locomotiva)"
+"elemento di locomotiva"
+"gru per locomotiva"
+"locomotiva"
+"locomotiva"
+"locomotiva a vapore"
+*[[treno]], [[vagone]], [[rotaia]], [[stazione]]
+*''essere una locomotiva''
+M>locomotive</E
+M>locomotive</E
+M>locomotif</E
+M>loco</E
+M>locus</E
+M>motivus</E
+M>faculté locomotive</E
+M>a vapore</E
+M>Diesel</E
+M>elettriche</E
+M>Diesel</E
+M>elettriche</E
+M>a turbina</E
+M>da manovra</E
+M>da treni</E
+M>per treni merci</E
+M>per treni viaggiatori</E
+M>locomotori</E
+M>locomotrici</E
+M>elettromotrici</E
+M>locomotiva</E
+M>tender</E
+M>carro scorta</E
+M>macchina locomotiva</E
+M>sbuffare</E
+M>ansimare come una locomotiva</E

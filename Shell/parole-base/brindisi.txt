@@ -1,0 +1,21 @@
+brindisi.txt
+"brindisi"
+"brindisi"
+"brindisi"
+"facciamo un brindisi"
+"fare un brindisi"
+"proporre un brindisi"
+*[[brindare]]
+M>bring dir’s</E
+M>brindis</E
+M>fare</E
+M>proporre un b</E
+M>un b</E
+M>agli sposi!</E
+M>si fecero parecchi b</E
+M>in onore degli ospiti</E
+M>pronunciare</E
+M>improvvisare un b</E
+M>alla fine del pranzo il padrone di casa ha recitato un b. spiritoso</E
+M>poetico</E
+M>declamare un brindisi</E

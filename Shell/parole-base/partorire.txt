@@ -1,0 +1,36 @@
+partorire.txt
+"l'atto di dare alla luce; di partorire"
+"partorire"
+"partorire"
+#* ''ha '''partorito''' un bel maschietto''
+#* ''oggi la giumenta deve 
+*[[partorimento]]
+* [[doglie]], [[nascituro]],  [[neonato]],  [[ostetrico]], [[parto]],  [[puerpera]]
+M>parturire</E
+M>par</E
+M>partus</E
+M>io partorisco</E
+M>tu partorisci</E
+M>un bel bambino</E
+M>un maschio</E
+M>una femmina</E
+M>due gemelli</E
+M>sta per p</E
+M>ha già partorito</E
+M>al tempo giusto</E
+M>avanti tempo</E
+M>ha partorito senza difficoltà</E
+M>la vacca ha partorito stanotte un grosso vitellino</E
+M>la montagna ha partorito un topo</E
+M>il parto della montagna</E
+M>l&#8217;invecchiata scorza a tale è giunta</E
+M>Che partorir non può così sovente</E
+M>Come prima solea</E
+M>nuove radici</E
+M>non fa che p</E
+M>un romanzo dopo l&#8217;altro</E
+M>è tutto il giorno che sta meditando: vediamo che cosa partorirà la sua mente</E
+M>la violenza partorisce altra violenza</E
+M>Ed ecco piangere e cantar s&#8217;udìe</E
+M>per modo Tal</E
+M>che diletto e doglia parturìe</E

@@ -1,0 +1,54 @@
+lenzuolo.txt
+"avvolgere in un lenzuolo"
+"bianco come un lenzuolo"
+"lenzuolo"
+"lenzuolo"
+"lenzuolo funebre"
+"lenzuolo su misura"
+*[[telo]]
+*[[cuscino]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1145
+M>linte</E
+M>lum</E
+M>linteum</E
+M>linteus</E
+M>le lenzuola</E
+M>a uno</E
+M>a due</E
+M>a tre teli</E
+M>da una piazza</E
+M>da due piazze</E
+M>da una piazza e mezza</E
+M>il l</E
+M>di sopra</E
+M>il l</E
+M>di sotto</E
+M>un paio</E
+M>due paia di lenzuola</E
+M>di tela</E
+M>di lino</E
+M>di cotone</E
+M>di canapa</E
+M>fino</E
+M>ruvido</E
+M>grossolano</E
+M>cambiare</E
+M>stendere</E
+M>rincalzare</E
+M>rimboccare le l</E
+M>rimboccatura del l</E
+M>cacciarsi</E
+M>ficcarsi sotto le l</E
+M>funebre</E
+M>mortuario</E
+M>covare</E
+M>consumare le l</E
+M>è meglio consumare le scarpe che le l</E
+M>il caldo dei l</E
+M>non fa bollir la pentola</E
+M>fazzoletto</E
+M>foglio</E
+M>giornale</E
+M>manifesto grande come un l</E
+M>un candido l</E
+M>copriva la campagna</E

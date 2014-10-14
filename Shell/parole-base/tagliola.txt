@@ -1,0 +1,10 @@
+tagliola.txt
+"tagliola"
+M>mettere la t.</E
+M>prendere con la t. una volpe</E
+M> un coniglio selvatico</E
+M> i merli</E
+M>t. a tavoletta</E
+M>t. a uova</E
+M>t. a palo</E
+M>t. a molla</E

@@ -1,0 +1,32 @@
+rassegnare.txt
+"rassegnare"
+"rassegnare"
+"rassegnare le dimissioni"
+*[[arrendersi]], [[cedere]], [[adattarsi]], [[farsi una ragione]], [[mettersi il cuore in pace]]
+*[[esistere]], [[opporsi]], [[reagire]]
+*[[rassegnarsi]], [[rassegnato]], [[rassegnazione]]
+M>resignare</E
+M>signare</E
+M>io rasségno</E
+M>O maledetto</E
+M>abominando ordigno</E
+M>All&#8217;inferno</E
+M>onde uscisti</E
+M>io ti rassigno</E
+M>un mandato</E
+M>una carica</E
+M>proprie</E
+M>dimissioni</E
+M>dissi dunque al ministro</E
+M>di richiedere per mezzo suo di rassegnarmi al re</E
+M>semplicemente per inchinarmegli</E
+M>proferta</E
+M>che mai non si stingue Del libro che &#8217;l preterito rassegna</E
+M>non sono d&#8217;accordo</E
+M>ma mi rassegno alle decisioni della maggioranza</E
+M>dovrà rassegnarsi a fare il pendolare</E
+M>bisogna rassegnarsi al destino</E
+M>per quanto mi sforzi</E
+M>non riesco a rassegnarmi</E
+M>non c&#8217;è altro da fare che rassegnarsi</E
+M>hai visto come ha fatto presto a rassegnarsi dopo quella disgrazia?</E

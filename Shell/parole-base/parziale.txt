@@ -1,0 +1,53 @@
+parziale.txt
+"a mia parziale discolpa"
+"derivata parziale"
+"differenziale parziale"
+"eclisse parziale"
+"equazione differenziale parziale"
+"immobilità parziale"
+"in modo parziale"
+"lavoro a tempo parziale"
+"ordinamento parziale"
+"paralisi parziale"
+"parziale"
+"parziale"
+"parziale"
+"parziale, prevenuto"
+"parziale, prevenuto, tendenzioso"
+"pressione parziale"
+"risultato parziale"
+"somma parziale"
+"totale parziale"
+"vuoto parziale"
+*[[totale]]
+*[[imparziale]], [[neutrale]], [[equo]], [[equanime]], [[giusto]]
+M>partialis</E
+M>pars partis</E
+M>totale</E
+M>un&#8217;eclissi p</E
+M>di sole</E
+M>di luna</E
+M>risultati p</E
+M>delle elezioni</E
+M>delle partite di campionato</E
+M>apportare p</E
+M>modifiche a un progetto</E
+M>sommare alla fine i prodotti parziali</E
+M>infiorescenze p</E
+M>frutti p</E
+M>velo p</E
+M>insieme p</E
+M>sottoinsieme</E
+M>derivata p</E
+M>essere</E
+M>mostrarsi p</E
+M>giudice</E
+M>arbitro</E
+M>professore</E
+M>esaminatore parziale</E
+M>giudizio</E
+M>verdetto p</E
+M>una critica p</E
+M>e malevola</E
+M>lavoro eseguito solo parzialmente</E
+M>giudicare parzialmente</E

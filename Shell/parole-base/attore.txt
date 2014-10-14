@@ -1,0 +1,43 @@
+attore.txt
+"aspirante attore"
+"attore"
+"attore"
+"attore"
+"attore"
+"attore"
+"attore cinematografico"
+"attore comparsa"
+"attore generico"
+"attore non protagonista"
+"baby attore"
+"cattivo attore"
+"essere l'attore principale"
+"primo attore"
+"primo attore"
+"studiare una parte per sostituire l'attore"
+*italiano
+M>trice</E
+M>actor</E
+M>oris</E
+M>convenuto</E
+M>la parte attrice</E
+M>domanda attrice</E
+M>di prosa</E
+M>tragico</E
+M>comico</E
+M>drammatico</E
+M>di varietà</E
+M>gli a</E
+M>della radio</E
+M>della televisione</E
+M>del cinema</E
+M>primo a</E
+M>attor giovane</E
+M>attrice giovane</E
+M>che attore!</E
+M>personaggio</E
+M>attante</E
+M>essere a</E
+M>di un’avventura</E
+M>avvenimenti gravi di cui siamo stati non spettatori ma attori</E
+M>un attoruccio di provincia</E

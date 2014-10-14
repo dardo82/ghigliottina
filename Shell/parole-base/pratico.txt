@@ -1,0 +1,130 @@
+pratico.txt
+"addestramento pratico"
+"che pratico!, quanto è pratico!"
+"con esperienza, pratico di"
+"essere pratico"
+"essere pratico di"
+"in modo pratico"
+"in ogni senso pratico"
+"manuale pratico"
+"manuale pratico"
+"non essere pratico di"
+"non pratico"
+"non pratico di"
+"pragmatico, pratico, realistico"
+"pratico"
+"pratico"
+"pratico"
+"pratico di"
+"pratico, esperto"
+"pratico, esperto"
+"pratico, fattibile"
+"pratico, realista"
+"senso pratico"
+"test pratico"
+*[[concreto]], [[effettivo]], [[reale]], [[tangibile]]
+*[[ utile]], [[efficace]], [[semplice]], [[facile]], [[comodo]], [[ adatto]], [[adeguato]], [[idoneo]]
+*'' (di persona)'' [[abile]], [[capace]], [[esperto]], [[padrone]], [[preparato]], [[competente]], [[ferrato]], [[versato]], [[affidabile]], [[provetto]], [[valente]], [[efficiente]]
+*''(di insegnamento, sistema ecc.)''  [[operativo]], [[empirico]], [[sperimentale]]
+*''(di consiglio,progetto ecc.)'' [[attuabile]], [[realizzabile]]
+*''(di un oggetto d’uso, di un sistema)''  [[razionale]],  [[funzionale]], [[maneggevole]],  
+*''(di persona,mentalità ecc.)'' [[realista]],  [[positivista]], [[positivo]], [[pragmatico]], [[calcolatore]] 
+*[[teorico]], [[astratto]]
+*[[inutile]], [[inefficace]], [[difficile]], [[complicato]]
+*''(di persona)'' [[inabile]], [[incapace]], [[inesperto]], [[impreparato]]
+*''(di un oggetto d’uso, di un sistema)'' [[scomodo]], [[inutile]]
+*''(di persona,mentalità ecc.)'' [[idelista]], [[sognatore]]
+*''(in un’arte, in una professione e sim.)'' [[incapace]], [[incompetente]]
+*[[pratica]], [[praticare]], [[praticismo]], [[praticità]]
+M>pract</E
+M>cus</E
+M>chi</E
+M>teorico</E
+M>esperimento p</E
+M>esercizio p</E
+M>un problema p</E
+M>corso</E
+M>metodo</E
+M>insegnamento p</E
+M>guida teorico</E
+M>pratica</E
+M>fare delle considerazioni pratiche</E
+M>non è capace di organizzarsi nella vita p</E
+M>avere bisogno di un aiuto p.</E
+M>aiuto morale</E
+M>avere delle capacità</E
+M>delle attitudini p</E
+M>avere molto</E
+M>poco</E
+M>senso p</E
+M>all&#8217;atto p</E
+M>il progetto era interessante</E
+M>ma all&#8217;atto p</E
+M>si è rivelato irrealizzabile</E
+M>mi aveva promesso un aiuto</E
+M>ma all&#8217;atto p</E
+M>ho dovuto fare tutto da solo</E
+M>filosofia p</E
+M>filosofia della pratica</E
+M>ragione p</E
+M>ragione pura p</E
+M>ragione pura teoretica</E
+M>essere p</E
+M>di un mestiere</E
+M>di una professione</E
+M>di una tecnica</E
+M>un commercialista p</E
+M>di questioni fiscali</E
+M>aveva difficoltà a farsi capire</E
+M>perché poco p</E
+M>della lingua del luogo</E
+M>mi rivolgerò al mio meccanico</E
+M>che è p</E
+M>di motori di questo tipo</E
+M>non sono p</E
+M>di certe faccende</E
+M>dicono che sia un buon medico</E
+M>ma non è p</E
+M>di malattie dell&#8217;infanzia</E
+M>lascia fare a chi è più p</E
+M>di te</E
+M>pratica</E
+M>è ancora poco p</E
+M>della città</E
+M>fatti guidare da lui</E
+M> è molto p</E
+M>della zona</E
+M>essere p</E
+M>del mondo</E
+M>delle cose del mondo</E
+M>essere p</E
+M>della vita</E
+M>aveva una certa ruga fra le ciglia</E
+M>qualcosa negli occhi</E
+M>che a lui</E
+M>vecchio e p</E
+M>del mondo</E
+M>non andava punto a genio</E
+M>essere un uomo p</E
+M>una donna p</E
+M>una persona p</E
+M>era una donna molto bella e p. che odiava gli sbandamenti</E
+M>ha avuto un&#8217;idea molto p</E
+M>mi ha aiutato con dei suggerimenti p</E
+M>bisogna organizzare questo lavoro secondo un sistema più p</E
+M>cercare una soluzione p</E
+M>fare una proposta p</E
+M>di p</E
+M>attuazione</E
+M>un congegno</E
+M>un meccanismo p</E
+M>un aspirapolvere p</E
+M>e maneggevole</E
+M>le macchine semplici sono sempre le più pratiche</E
+M>un impermeabile p</E
+M>e leggero</E
+M>una chiusura lampo semplice e p</E
+M>un ombrello pieghevole molto p</E
+M>da portare nella borsetta</E
+M>Sistema p</E
+M>sistema assoluto</E

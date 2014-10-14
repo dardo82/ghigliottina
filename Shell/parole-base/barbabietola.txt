@@ -1,0 +1,16 @@
+barbabietola.txt
+"barbabietola"
+"zucchero di barbabietola"
+#* ''
+M>herba b</E
+M>barba</E
+M>Beta vulgaris</E
+M>da zucchero</E
+M>da distilleria</E
+M>semizuccherine</E
+M>da foraggio</E
+M>da orto</E
+M>rosse</E
+M>biete da costa</E
+M>biete</E
+M>bietole</E

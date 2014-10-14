@@ -1,0 +1,16 @@
+recita.txt
+"recita"
+"recital"
+M>di un dramma</E
+M>di una poesia</E
+M>questa sera assisteremo alla r</E
+M>di una commedia del Goldoni</E
+M>prima</E
+M>ultima r</E
+M>della stagione</E
+M>la compagnia terrà due r</E
+M>al giorno</E
+M>di beneficenza</E
+M>fuori abbonamento</E
+M>commedia</E
+M>sei un istrione: basta con questa recita!</E

@@ -1,0 +1,8 @@
+accendisigaro.txt
+"Traduzione di accendisigaro/ non trovata.\nNo translation was found for accendisigaro/."
+M>accendere</E
+M>sigaro</E
+M>pietrina</E
+M>a gas</E
+M>accendino</E
+M>piezoelettrico</E

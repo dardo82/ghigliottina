@@ -1,0 +1,15 @@
+impreciso.txt
+"impreciso"
+"in modo impreciso"
+*[[imprecisato]], [[indefinito]], [[indeterminato]], [[vago]], [[generico]], [[approssimativo]], [[approssimato]]
+* [[inaccurato]], [[vago]]
+*[[preciso]], [[precisato]], [[definito]], [[certo]]
+*[[imprecisabile]], [[imprecisato]],[[imprecisione]]
+M>preciso</E
+M>dati i</E
+M>locuzione i</E
+M>una definizione i</E
+M>formulazione i</E
+M>d’un concetto</E
+M>tradurre imprecisamente un termine</E
+M>formulare imprecisamente una domanda</E

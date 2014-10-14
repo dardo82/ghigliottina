@@ -1,0 +1,33 @@
+stufa.txt
+"relativo a tassa di due scellini che si pagava per ogni stufa o camino posseduti"
+"stufa"
+"stufa a cherosene"
+"stufa a gas"
+"stufa a legna"
+"stufa a petrolio"
+"stufa elettrica"
+"stufa per essiccazione"
+"stufa; scaldabagno a gas"
+"tassa di due scellini che si pagava per ogni stufa o camino posseduti"
+M>stufare</E
+M>stufe a combustibile solido</E
+M>s. catalitiche</E
+M>catalitica</E
+M>s. a combustibile liquido</E
+M>s. a gas</E
+M>s. a convezione</E
+M>s. a irraggiamento</E
+M>a raggi infrarossi</E
+M>s. elettriche</E
+M>resistenze</E
+M>termoconvettori</E
+M>radiatori elettrici</E
+M>termoradiatori</E
+M>s. Franklin</E
+M>e in una s. messolo</E
+M> tanto lo stropicciò e con acqua calda lavò</E
+M> che in lui ritornò lo smarrito calore</E
+M>serra calda</E
+M>s. per cordami</E
+M>s. per legnami</E
+M>s. di Nerone</E

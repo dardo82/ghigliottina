@@ -1,0 +1,31 @@
+accelerare.txt
+"accelerare"
+"accelerare"
+"accelerare il passo"
+"accelerare una pratica"
+"accelerare, facilitare"
+"aumentare il ritmo, accelerare"
+*''(la marcia, il passo eccetera)'' [[sveltire]], [[affrettare]]
+*'' (spec. una pratica,una soluzione)''[[sollecitare]], [[velocizzare]], [[incalzare]], [[premere]]
+*''(in automobile)'' [[dare gas]] 
+*[[accelerativo]]
+*''(la marcia, il passo ecc.)''[[decelerare]],  [[rallentare]] 
+*'' (specialmente una pratica,una soluzione)'' [[ritardare]], [[frenare]], [[rimandare]]
+*''(in automobile)'' [[rallentare]], [[decelerare]], [[frenare]]
+*[[affrettare]]
+M>accelerare</E
+M>celer</E
+M>io accèlero</E
+M>il passo</E
+M>il moto</E
+M>lo svolgimento di una pratica</E
+M>avere</E
+M>il movimento degli stantuffi accelerava</E
+M>si accelerava</E
+M>gradatamente</E
+M>accelera!</E
+M>l’autista accelerò per evitare l’investimento</E
+M>il treno accelerava a poco a poco</E
+M>andiamo</E
+M>accelera</E
+M>non t’addormentare!</E

@@ -1,0 +1,46 @@
+impiego.txt
+"ad alto impiego di capitale"
+"impiego"
+"impiego"
+"impiego nella pubblica amministrazione"
+"impiego provvisorio"
+"porre fine all'impiego"
+#*''Ho trovato un '''impiego''' come operaio''
+* [[uso]], [[utilizzazione]], [[utilizzo]]
+* ''(di denaro)'' [[spesa]], [[investimento]] 
+*[[lavoro]], [[mestiere]], [[occupazione]], [[posto]]
+M>ghi</E
+M>fare buon i</E
+M>del denaro</E
+M>della ricchezza</E
+M>utile del tempo</E
+M>d’uno strumento</E
+M>l’i</E
+M>del linoleum nella pavimentazione d’un ambiente</E
+M>l’i</E
+M>della mano d’opera avventizia nei lavori pubblici</E
+M>l’i</E
+M>straordinario delle forze militari per gli aiuti ai terremotati</E
+M>l’i</E
+M>dell’aviazione per rilevamenti topografici</E
+M>d’un capitale</E
+M>investimento</E
+M>operazioni d’i</E
+M>saggio d’i</E
+M>saggio di raccolta</E
+M>avere un i</E
+M>essere senza i</E
+M>chiedere</E
+M>ottenere un i</E
+M>aspirare</E
+M>concorrere a un i</E
+M>perdere</E
+M>lasciare l’i</E
+M>promettere</E
+M>dare</E
+M>procurare un i</E
+M>privato</E
+M>pubblico</E
+M>pieno i</E
+M>full employment</E
+M>piena occupazione</E

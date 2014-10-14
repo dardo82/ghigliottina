@@ -1,0 +1,19 @@
+parrucchiere.txt
+"parrucchiere"
+* [[barbiere]]
+* De Agostini, '' [http
+* La Rizzoli Larousse, ''[http
+M>perruquier</E
+M>perruque</E
+M>o che natura A te il nodrisca</E
+M>o che da ignota fronte Il più famoso parrucchier lo tolga E l&#8217;adatti al tuo capo</E
+M>p. per signora</E
+M>per uomo</E
+M>barbiere</E
+M>p. uomo-donna</E
+M>bottega</E
+M>negozio</E
+M>salone di p</E
+M>andare dal p</E
+M> lascia andare i tuoi capelli come stanno</E
+M>e la natura li renderà più belli assai di quant&#8217;arte mai volesse porci il tuo parrucchiere</E

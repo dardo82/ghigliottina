@@ -1,0 +1,16 @@
+aeroporto.txt
+"aeroporto"
+"aeroporto di decollo"
+#*''dovete presentarvi in aeroporto almeno un'ora e mezza prima della partenza''
+*[[scalo]] aereo  
+*[[aero-]]
+*italiano
+M>aero</E
+M>porto</E
+M>civile</E
+M>militare</E
+M>l’a</E
+M>di Fiumicino</E
+M>di Orly</E
+M>idroscali</E
+M>eliporti</E

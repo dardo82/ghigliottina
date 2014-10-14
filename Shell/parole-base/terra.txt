@@ -1,0 +1,420 @@
+terra.txt
+"(nel baseball) palla che viene lanciata per terra"
+"a terra"
+"a terra"
+"a terra"
+"a un palmo da terra"
+"ai margini della terra"
+"allevamento su terra in affitto"
+"appartamento a piano terra con accesso a un giardino"
+"appezzamento di terra"
+"appezzamento di terra"
+"appezzamento di terra"
+"appezzamento di terra recintato"
+"aria-terra"
+"barriera di terra contro un incendio"
+"battere i piedi a terra"
+"battere i piedi per terra"
+"cadere a terra"
+"campo da tennis in terra battuta"
+"Cercare per mare e per terra"
+"che tocca terra"
+"cielo e terra"
+"cimitero con tombe per terra"
+"circumnavigare la terra"
+"collegamento di terra"
+"collegare a terra"
+"collegare a terra"
+"coltivazione su terra in affitto"
+"combattimento a terra"
+"con i piedi per terra"
+"con le spalle a terra"
+"concessione di terra"
+"concessione di terra demaniale"
+"conduttore di terra"
+"coprire con strato protettivo i fiori in terra"
+"cumulo di terra sopra una tana di talpa"
+"dalla faccia (della terra)"
+"della terra di mezzo"
+"elevazione di terra"
+"elevazione; altezza da terra"
+"esercito di terra"
+"far mancare la terra da sotto i piedi"
+"fare terra bruciata"
+"fazzoletto di terra"
+"feccia della terra"
+"filo di messa a terra"
+"filo di messa a terra"
+"forza di terra"
+"forze di terra"
+"forze di terra"
+"gettarsi a terra (per evitare un pericolo)"
+"gioco in cui si disegna uno schema per terra e ci si salta dentro a passi alterni"
+"giornata per la Terra"
+"guerra di terra"
+"hostess di terra"
+"i cieli e la terra"
+"i confini della terra"
+"i quattro angoli della terra"
+"il sale della terra..."
+"impianto di messa a terra"
+"in tutto il mondo, nel mondo intero, sulla faccia della Terra"
+"incendio che brucia a terra e non in superficie"
+"la Terra"
+"la terra"
+"la Terra Promessa"
+"la terra trema"
+"lampada da terra"
+"linea di terra"
+"linea immaginaria sulla superficie della terra che traccia un'altra linea immaginaria tra il centro"
+"lingua di terra"
+"lumaca di terra"
+"macchina movimento terra"
+"madre terra"
+"madre terra"
+"maglia di terra"
+"maglia di terra"
+"metalli in terra alcalina"
+"mettere a terra"
+"mettere a terra"
+"mettere a terra"
+"movimento della terra"
+"nato dalla terra; mortale"
+"nel baseball; fare un out colpendo tirando la palla a terra"
+"non stare né in cielo né in terra"
+"operazioni militari di terra"
+"orbitare intorno alla Terra"
+"pancia a terra"
+"paradiso in terra"
+"per movimento della terra"
+"per terra"
+"per terra"
+"per terra"
+"per via terra"
+"percorso via terra"
+"personale di terra"
+"personale di terra"
+"pezzo di terra"
+"pianeta Terra"
+"piano terra"
+"piano terra rialzato"
+"pieno di terra"
+#* ''vivere su questa 
+#* ''...aveva le mani sporche di terra...''
+#* ''la nave è giunta a terra''
+#* ''lavorare la terra''
+#* ''la mia terra''
+#* ''presa di terra''
+#* segni di '''Terra'''
+*[[globo]] [[terrestre]], [[orbe]] [[terracqueo]] ; [[mondo]]
+*[[suolo]], [[terreno]]
+*[[terraferma]]
+*[[regione]], [[territorio]]
+*[[humus]], [[terriccio]] ; [[terreno]], [[fondo]],[[ appezzamento]]
+*[[argilla]], [[creta]]
+*[[mare]]
+*[[terraferma]], [[terrapieno]]
+* ''avere i piedi per terra'', essere concreto
+* ''avere il morale a terra'', essere triste
+* [[Terra]]
+*italiano
+M>rra</E
+M>terrestre</E
+M>polare</E
+M>geoide</E
+M>barisfera</E
+M>nucleo</E
+M>nucleo interno</E
+M>nucleo esterno</E
+M>mantello</E
+M>mesosfera</E
+M>mantello superiore</E
+M>astenosfera</E
+M>litosfera</E
+M>crosta terrestre</E
+M>atmosfera</E
+M>deriva dei continenti</E
+M>zolle</E
+M>placche</E
+M>eone fanerozoico</E
+M>la T. gira intorno al Sole e intorno al proprio asse</E
+M>la superficie</E
+M>la faccia</E
+M>il centro della T.</E
+M>gli abitanti della T.</E
+M>della terra.</E
+M>In principio</E
+M> Dio creò il cielo e la t.</E
+M>Genesi</E
+M>sia fatta la tua volontà</E
+M> come in cielo così in t.</E
+M>Padre nostro</E
+M>gloria a Dio nell&#8217;alto dei cieli</E
+M> e pace in t. agli uomini di buona volontà</E
+M>Gloria</E
+M>ascendere dalla t. al cielo</E
+M>le reliquie Della t. e del ciel traveste il tempo</E
+M>ci corre quanto dal cielo alla t.</E
+M>cose che non stanno</E
+M>che non si sono mai viste</E
+M>udite</E
+M>né in cielo né in t.</E
+M>terra-cielo</E
+M>terra</E
+M>siamo esuli</E
+M>siamo pellegrini su questa t.</E
+M>non ha nessun altro che me sulla t.</E
+M>finché siamo sulla t.</E
+M>su questa t.</E
+M>Così percossa</E
+M> attonita La t. al nunzio sta</E
+M>tutta la t.</E
+M>t. emerse</E
+M>t. alte</E
+M>basse</E
+M>le t. polari</E
+M>t. ferma</E
+M>terraferma</E
+M>un istmo</E
+M>una lingua di terra</E
+M>scienze della t.</E
+M>della T.</E
+M>dalle infinite Ossa che in terra e in mar semina morte</E
+M>l&#8217;ho cercato per mare e per t.</E
+M>vento</E
+M>brezza di t.</E
+M>che soffia da t.</E
+M>le forze</E
+M>di t.</E
+M>del mare e dell&#8217;aria</E
+M>Laudi del cielo</E
+M> del mare</E
+M> della t. e degli eroi</E
+M>viaggerete per mare o per t.?</E
+M>spedizione via t. e via mare</E
+M>loda il mare e tienti alla t.</E
+M>sbarcare a t.</E
+M>scendere a t.</E
+M>metter piede a t.</E
+M>toccare t.</E
+M>prendere</E
+M>pigliare t.</E
+M>sono giunto quando il piroscafo</E
+M>l&#8217;aereo</E
+M>era già partito</E
+M> e così sono rimasto a terra.</E
+M>Amore di t. lontana</E
+M> Per voi tutto il core mi duol</E
+M>t. selvagge</E
+M>inospitali.</E
+M>la t. natale</E
+M>la mia</E
+M>la tua t.</E
+M>Tu non altro che il canto avrai del figlio</E
+M> O materna mia t.</E
+M>in t. italiana</E
+M>in t. straniera</E
+M>&#171;&#8211; E quella riva lì</E
+M> è bergamasca?</E
+M>Terra di san Marco&#187;</E
+M>t. promessa</E
+M>santa</E
+M>Terrasanta</E
+M>in terra di ciechi</E
+M> beato chi ha un occhio</E
+M>chi ha un occhio è signore</E
+M>t. bruciata</E
+M>terra di nessuno</E
+M>T. matta</E
+M>t. matte</E
+M>t. ballerina</E
+M>suolo</E
+M>a fior di terra</E
+M>raso terra</E
+M>saltare a t.</E
+M>alzarsi</E
+M>sollevarsi da t.</E
+M>si aprì</E
+M>si spalancò la t.</E
+M>gli mancò la t. sotto i piedi</E
+M>si sentì mancare la t. sotto i piedi</E
+M>gli parve che gli mancasse la t. sotto i piedi</E
+M>un metro</E
+M>due metri sotto t.</E
+M>le condutture</E
+M>i cavi che corrono sotto t.</E
+M>nascondere</E
+M>seppellire</E
+M>esser messo sotto t.</E
+M>avere una gomma a t.</E
+M>terra terra</E
+M>volare terra terra</E
+M>andare</E
+M>navigare terra terra</E
+M>uno studente</E
+M>una ragazza</E
+M>un libro</E
+M>un discorso</E
+M>un componimento terra terra.</E
+M>terra-terra</E
+M>terra-aria</E
+M>il terra-terra</E
+M>sedersi</E
+M>stare seduto in t.</E
+M>sdraiarsi in t.</E
+M>per t.</E
+M>dormire sulla nuda t.</E
+M>rotolarsi in t.</E
+M>per t.</E
+M>mettere un ginocchio a t.</E
+M>cascare in t.</E
+M>andare per t.</E
+M>per le terre</E
+M>inciampò e finì per t. lungo disteso</E
+M>buttare un oggetto in t.</E
+M>raccattarlo da t.</E
+M>la bottiglia gli cadde in t. senza rompersi</E
+M>tutto il contenuto della tazza si rovesciò per t.</E
+M>guardare in t.</E
+M>stare con gli occhi</E
+M>con lo sguardo fisso in terra</E
+M>gettare</E
+M>prostrare</E
+M>a terra</E
+M>in terra</E
+M>Chi sei tu che sostenti A me questo vetusto Pondo</E
+M> e l&#8217;animo tenti Prostrarmi a terra?</E
+M>mettere qualcuno a t.</E
+M>la malattia</E
+M>la crisi finanziaria mi ha messo a t.</E
+M>in t.</E
+M>rimanere a t.</E
+M>essere a t.</E
+M>in t.</E
+M>messa a t.</E
+M>terra</E
+M>potenziale di t.</E
+M>impianto di t.</E
+M>impianto di messa a t.</E
+M>prese di t.</E
+M>dispersori</E
+M>spandenti</E
+M>collettore di t.</E
+M>conduttori di terra</E
+M>fili di terra</E
+M>un sacco di t.</E
+M>un pugno di t.</E
+M>essere sporco di t.</E
+M>l&#8217;uomo è fatto di t.</E
+M>Color terra</E
+M>terra</E
+M>decoro</E
+M>color</E
+M>terra</E
+M>scavare</E
+M>smuovere la t.</E
+M>affondare i pali nella t.</E
+M>nel terreno</E
+M>movimenti di terra</E
+M>opere in terra</E
+M>opere d&#8217;arte</E
+M>spinta delle t.</E
+M>meccanica delle t.</E
+M>t. rosse</E
+M>t. brune</E
+M>terra fine</E
+M>scheletro</E
+M>terreno agrario</E
+M>questa t.</E
+M> che si rompe</E
+M> si semina</E
+M> e che è fruttifera</E
+M> è una parte</E
+M> e ben sottile</E
+M> della superficie del globo</E
+M>la t. dei campi</E
+M>un ettaro</E
+M>una zolla di t.</E
+M>t. di piano</E
+M>di pianura</E
+M>di collina</E
+M>di poggio</E
+M>t. coltivata</E
+M>incolta</E
+M>t. incolte</E
+M>t. lavorata</E
+M>fertile</E
+M>sterile</E
+M>produttiva</E
+M>improduttiva</E
+M>t. vergine</E
+M>t. grassa</E
+M>magra</E
+M>t. stanca</E
+M>sfruttata</E
+M>lavorare</E
+M>arare</E
+M>zappare la t.</E
+M>i frutti della terra.</E
+M>t. argillosa</E
+M>calcarea</E
+M>t. bruna</E
+M>t. grigia</E
+M>podsòl</E
+M>t. nera</E
+M>ernozëm</E
+M>t. rossa</E
+M>lavoratori della t.</E
+M>ritorno alla t.</E
+M>la t. ricevuta in eredità dai suoi avi</E
+M>ha un po&#8217; di t. al sole</E
+M>signore</E
+M>padrone di vaste t.</E
+M>le sue t. si estendono a perdita d&#8217;occhio.</E
+M>Quell&#8217;anima gentil fu così presta</E
+M> Sol per lo dolce suon de la sua t.</E
+M>Di fare al cittadin suo quivi festa</E
+M>avuta la licenzia d&#8217;andare alquanto fuor della t.</E
+M>a diporto</E
+M>tutti andavano armati</E
+M> quando uscivano della t.</E
+M>come s&#8217;eglino andassero a combattere</E
+M>Fior. di s. Franc.</E
+M>niuna cosa è tanto degna di uno ottimo principe ... che lo edificare di nuovo terre dove gli uomini si possino</E
+M> per commodità della difesa o della cultura</E
+M> ridurre</E
+M>Cinqueterre</E
+M>t. coloranti</E
+M>t. bolare</E
+M>t. gialla</E
+M>t. di Siena</E
+M>t. d&#8217;ombra</E
+M>t. di Kassel</E
+M>t. verde di Verona</E
+M>celadonite</E
+M>T. decoloranti</E
+M>t. da sbianca</E
+M>t. di Spagna</E
+M>T. da follone</E
+M>follonica</E
+M>T. di Santorino</E
+M>T. di Vicenza</E
+M>t. di infusorî</E
+M>t. da fonderia</E
+M>t. di Francia</E
+M>t. magre</E
+M>semigrasse</E
+M>grasse</E
+M>t. sigillata</E
+M>Terra cattù</E
+M>catù</E
+M>t. giapponica</E
+M>iaponica</E
+M>del Giappone</E
+M>t. di Pegù</E
+M>catecù</E
+M>Acacia catechu</E
+M>t. rare</E
+M>metalli</E
+M>elementi delle t. rare</E
+M>linea di terra</E

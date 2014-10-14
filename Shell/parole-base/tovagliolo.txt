@@ -1,0 +1,16 @@
+tovagliolo.txt
+"tovagliolo"
+#* ''siamo rimasti senza i '''tovaglioli''' di carta, dammene uno di stoffa'' 
+* [[fazzoletto]], [[salvietta]]
+* [[portatovagliolo]]
+* [[tovaglia]], [[tovagliato]]
+M>t. di stoffa</E
+M> di lino</E
+M> di cotone</E
+M>di carta</E
+M>piegare</E
+M> spiegare il t.</E
+M>allacciarsi il t. intorno al collo</E
+M>mise il piatto in un t</E
+M> e preso questo per le quattro cocche</E
+M> disse alla sua bambinetta maggiore: &#171;piglia qui&#187;</E

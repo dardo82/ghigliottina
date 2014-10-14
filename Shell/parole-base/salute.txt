@@ -1,0 +1,182 @@
+salute.txt
+"alla tua salute"
+"alla tua; alla vostra salute"
+"alla tua; alla vostra salute"
+"buona salute"
+"cagionevole di salute"
+"cattiva salute"
+"certificato di buona salute"
+"di, in cattiva salute"
+"godere di buona salute"
+"in buona salute"
+"in buona salute"
+"in buona salute"
+"in salute"
+"in salute"
+"in salute e in malattia"
+"inconveniente di salute"
+"la salute pubblica"
+"maglietta della salute"
+"migliorare (di salute)"
+"minaccia per la salute"
+"minaccia per la tua salute"
+"ministero della salute"
+"motivi di salute"
+"non in buona salute"
+"per la tua salute"
+"pericolo per la salute"
+"rischioso per la salute, pericoloso per la salute"
+"ritratto della salute"
+"salute"
+"salute"
+"salute"
+"salute"
+"salute cagionevole"
+"salute di ferro"
+"salute emotiva"
+"salute mentale"
+"salute robusta"
+"salute!"
+"salute!"
+"spegnersi, deperire, perdere la salute, perdere le forze"
+"stato di salute"
+"tutela della salute"
+*[[condizione]] , condizione fisica,[[stato]], stato fisico
+*(buona salute) buona condizione, [[sanità]], [[forza]], [[robustezza]], [[vigore]], [[vitalità]], [[benessere]], [[floridezza]], [[prosperità]], [[rigoglio]]
+* a noi, [[cincin]], [[evviva]], [[salve]]
+* (formula di augurio nei brindisi) [[prosit]]
+*''(dell'anima)'' [[salvezza]], [[salvazione]], [[redenzione]]
+*''(formula di saluto)'' [[salve]], [[ciao]], [[buongiorno]], [[buonasera]]
+*(formula di saluto) 
+* (esclamazione di meraviglia) [[perbacco]], [[accidenti]], [[accipicchia]]
+*[[malattia]], [[indisposizione]], [[disturbo]],[[acciacco]],[[infermità]]
+*''Chi ha la salute è ricco e non lo sa.'' 
+M>salus -</E
+M>tis</E
+M>salvus</E
+M>s. pubblica</E
+M>s. patria</E
+M>s. della patria</E
+M>della nazione</E
+M>in forse è la civil s.</E
+M>Comitato di s. pubblica</E
+M>Vede perfettamente onne salute Chi la mia donna tra le donne vede</E
+M>la s. dell&#8217;anima</E
+M> la s. eterna</E
+M>Esercito della salute</E
+M>Armée du salut</E
+M>si mise a cantare sottovoce ... una canzonetta da esercito della salute</E
+M>Di quella umìle Italia fia salute Per cui morì la vergine Cammilla</E
+M>la nostra s.</E
+M> la comune s.</E
+M>la s.</E
+M>la salutifera incarnazione.</E
+M>s. fisica</E
+M>s. mentale</E
+M> psichica</E
+M>essere in s.</E
+M>in buona s.</E
+M>essere in buone</E
+M>cattive condizioni di s.</E
+M>godere un&#8217;ottima</E
+M>un&#8217;eccellente s.</E
+M>una s. perfetta</E
+M>avere</E
+M>non avere s.</E
+M>avere una s. di ferro</E
+M>ha s. da vendere</E
+M>è pieno di s.</E
+M>è il ritratto della s.</E
+M>ha i colori della s.</E
+M>scoppiare di s.</E
+M>sprizzare s. da tutti i pori</E
+M>conservarsi in s.</E
+M>perdere</E
+M>riacquistare</E
+M>recuperare la s.</E
+M>ristabilirsi</E
+M>tornare in s.</E
+M>rimetterci la s.</E
+M>porterò a termine il lavoro</E
+M> a costo di rimetterci la salute!</E
+M>utile</E
+M>dannoso</E
+M>nocivo alla s.</E
+M>fare bene</E
+M>fare male alla s.</E
+M>ti fa male alla s.</E
+M>Dio ti dia</E
+M>ti conservi la s.</E
+M>Quando c&#8217;è la s. c&#8217;è tutto</E
+M>Il professor Papotti</E
+M>Pensa alla s.!</E
+M>Se hai cara la s.</E
+M> se ti è cara la s.</E
+M>se hai cara la s.</E
+M>se ti è cara la s.</E
+M> non farti più vedere da queste parti!</E
+M>ti pesa la s.?</E
+M>ti puzza la s.?</E
+M>gli puzza la s.</E
+M>salute!</E
+M>s. e felicità!</E
+M>s. e figli maschi!</E
+M>Salute!</E
+M>salve!</E
+M>alla tua s.!</E
+M>alla s. degli sposi!</E
+M>alla s.!</E
+M>bere</E
+M>brindare alla s. di qualcuno</E
+M>Hai mangiato tutti quei cioccolatini da solo? Salute!</E
+M>Ha speso più di centomila euro per regalarle quel gioiello</E
+M>Salute!</E
+M>Sei arrivato a piedi dalla stazione in dieci minuti? Salute!</E
+M>il mese passato in campagna è stato tutta s. per i bambini</E
+M>fa molto nuoto</E
+M> ed è tutta s.</E
+M>l&#8217;alimentazione naturale è s. per l&#8217;organismo</E
+M>casa di salute</E
+M>maison de santé</E
+M>casa di cura</E
+M>biscotti della s.</E
+M>maglietta della s.</E
+M>Tassa sulla s.</E
+M> ministero della Salute</E
+M>della Sanità</E
+M>diritto alla s.</E
+M>la sua s.</E
+M>il suo stato di s.</E
+M>migliora</E
+M>peggiora</E
+M>è in buone</E
+M>in cattive</E
+M>in ottime condizioni di s.</E
+M>essere delicato di s.</E
+M>avere poca s.</E
+M>avere una s. cagionevole</E
+M>essere cagionevole di salute.</E
+M>avere cura della propria s.</E
+M>informarsi della s. di una persona</E
+M>come va la s.?</E
+M>come stai in s.?</E
+M>la sua s. mi preoccupa</E
+M>siamo tutti in ansia</E
+M>per la tua s.</E
+M>la sua s. ne ha molto sofferto</E
+M>chiedere un congedo</E
+M>ottenere un&#8217;aspettativa</E
+M>dimettersi per motivi</E
+M>per ragioni di salute.</E
+M>dar salute</E
+M>salutem dicere</E
+M>darsi salute</E
+M>Passa per via adorna</E
+M> e sì gentile Ch&#8217;abassa orgoglio a cui dona salute</E
+M>Al signor di Giudea</E
+M>dice lo scritto</E
+M>Invia salute il capitan d&#8217;Egitto</E
+M>saluta</E
+M>salute</E
+M>ne le sue salute abitava la mia beatitudine</E
+M>Rendendo l&#8217;uno all&#8217;altro le salute Che scrivendosi insieme eran taciute</E

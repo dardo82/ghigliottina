@@ -1,0 +1,58 @@
+lavorazione.txt
+"abilità nella lavorazione"
+"bolla di lavorazione di mano d'opera"
+"da lavorazione a freddo"
+"in conto lavorazione"
+"in lavorazione"
+"lavorazione"
+"lavorazione a mano"
+"lavorazione del legno"
+"lavorazione dell'oro"
+"lavorazione di salsicce"
+"lavorazione generi alimentari"
+"maestria nella lavorazione"
+"materiale in conto lavorazione"
+"piano di lavorazione"
+"scarti di lavorazione"
+"tecniche di lavorazione"
+"tempi di lavorazione"
+M>lavorare</E
+M>laboratio</E
+M>onis</E
+M>la l</E
+M>del metallo</E
+M>del legname</E
+M>della lana</E
+M>del cuoio</E
+M>del marmo</E
+M>le varie fasi della l</E
+M>delle fibre tessili</E
+M>metodo</E
+M>sistema di l</E
+M>di maglieria</E
+M>a mano</E
+M>a macchina</E
+M>è una l</E
+M>perfetta</E
+M>difettosa</E
+M>scadente</E
+M>il materiale è buono</E
+M>ma la l</E
+M>non mi soddisfa</E
+M>si garantisce una l</E
+M>accurata</E
+M>iniziare la l</E
+M>attendere alla l</E
+M>sospendere la l</E
+M>di un film</E
+M>essere in l</E
+M>avere in l</E
+M>il suo vestito è in l</E
+M>e sarà pronto per la prova entro la prossima settimana</E
+M>abbiamo in l</E
+M>una serie di documentarî televisivi sulle pitture murali</E
+M>con asportazione di truciolo</E
+M>senza asportazione di truciolo</E
+M>fluente</E
+M>a catena</E
+M>in serie</E

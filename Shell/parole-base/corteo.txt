@@ -1,0 +1,30 @@
+corteo.txt
+"corteo"
+"corteo"
+"corteo"
+"corteo funebre"
+*[[accompagnamento]], [[seguito]]
+*[[manifestazione]], [[sfilata]], [[processione]]
+* [[corte]], [[corteggio]]
+*[[marcia]] 
+*''(di veicoli)'' [[fila]], [[processione]]
+M>corte</E
+M>nuziale</E
+M>funebre</E
+M>mesto c</E
+M>un c</E
+M>di alpini</E
+M>di reduci</E
+M>un c</E
+M>di studenti</E
+M>di disoccupati</E
+M>di scioperanti</E
+M>formare un c</E
+M>andare in c</E
+M>sfilare in c</E
+M>autorizzare</E
+M>vietare</E
+M>sciogliere un c</E
+M>mettersi alla testa di un c</E
+M>il c</E
+M>si snodava per le vie della città</E

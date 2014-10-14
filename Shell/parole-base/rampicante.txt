@@ -1,0 +1,14 @@
+rampicante.txt
+"coperto da rampicante"
+"pianta rampicante"
+"pianta rampicante"
+"pianta rampicante"
+"rampicante"
+"rampicante"
+"rosa rampicante"
+M>rampicare</E
+M>pianta r</E
+M>una r</E
+M>un r</E
+M>liana</E
+M>scansorio</E

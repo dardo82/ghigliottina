@@ -1,0 +1,57 @@
+provocare.txt
+"iniziare, provocare, suscitare"
+"provocare"
+"provocare"
+"provocare"
+"provocare danni"
+"provocare danni"
+"provocare disagio"
+"provocare dolore"
+"provocare infiammazione"
+"provocare le allucinazioni"
+"provocare repulsione, avversione"
+"provocare soffrenza emotiva"
+"provocare un shock"
+"provocare, scatenare"
+"provocare, suscitare"
+"suscitare, provocare, causare"
+#* ''
+#* ''
+* [[ produrre]]
+*[[bloccare]] 
+*italiano
+M>provocare</E
+M>pro</E
+M>vocare</E
+M>io pròvoco</E
+M>tu pròvochi</E
+M>qualcuno all&#8217;odio</E
+M>alla ribellione</E
+M>siete stati voi a provocarmi!</E
+M>io l&#8217;ho picchiato</E
+M>ma lui mi aveva provocato</E
+M>durante la manifestazione i dimostranti hanno più volte provocato le forze dell&#8217;ordine</E
+M>bada</E
+M>non mi provocare!</E
+M>ha un modo di camminare che provoca</E
+M>si diverte a p</E
+M>gli uomini</E
+M>artificialmente la caduta della neve per aprire le piste da sci</E
+M>il vento ha provocato gravi danni</E
+M>l&#8217;incidente è stato provocato dall&#8217;eccessiva velocità</E
+M>le nuove misure fiscali provocarono grande scontento fra la popolazione</E
+M>la collera</E
+M>l&#8217;invidia</E
+M>l&#8217;ostilità</E
+M>il risentimento</E
+M>un tafferuglio</E
+M>una guerra</E
+M>il vomito</E
+M>uno starnuto</E
+M>la tosse</E
+M>il prurito</E
+M>la malattia gli provoca terribili dolori</E
+M>la sua presenza mi provocava un certo disagio</E
+M>un decreto</E
+M>un ordine</E
+M>reazione provocata</E

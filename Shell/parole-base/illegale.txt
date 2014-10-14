@@ -1,0 +1,22 @@
+illegale.txt
+"copiatura illegale"
+"detenzione illegale"
+"detenzione illegale, possesso illegale"
+"dono illegale, illecito"
+"dono illegale, illecito"
+"essere illegale"
+"illegale"
+"illegale, disonesto"
+"lotteria illegale quotidiana"
+"prodotto illegale"
+"riproduzione illegale"
+"tribunale clandestino, tribunale illegale"
+"utilizzo illegale di informazioni riservate"
+*[[vietato]], [[illecito]], [[illegittimo]], [[irregolare]], [[arbitrario]]
+* [[legale]], [[permesso]], [[lecito]], [[regolare]]
+M>legale</E
+M>comportamenti i</E
+M>ricorrere a mezzi illegali</E
+M>procedere</E
+M>agire</E
+M>ottenere illegalmente</E

@@ -1,0 +1,181 @@
+linguaggio.txt
+"andare a dormire; linguaggio infantile"
+"arti del linguaggio"
+"cavallo nel linguaggio infantile"
+"chi parla con proprietà di linguaggio"
+"fare un'assenza ingiustificata (dal linguaggio militare; Absent WithOut Leave; grave reato)"
+"fare un'assenza ingiustificata (dal linguaggio militare; Absent WithOut Leave; grave reato)"
+"linguaggio"
+"linguaggio"
+"linguaggio"
+"linguaggio algoritmico"
+"linguaggio ambiguo"
+"linguaggio antico"
+"linguaggio artificiale"
+"linguaggio assemblatore"
+"linguaggio blasfemo"
+"linguaggio colloquiale"
+"linguaggio colorito"
+"linguaggio colorito"
+"linguaggio con termini psicologici"
+"linguaggio dei bambini"
+"linguaggio dei sapori"
+"linguaggio dei segni"
+"linguaggio dei sordomuti"
+"linguaggio del computer"
+"linguaggio del corpo"
+"linguaggio del corpo"
+"linguaggio della psicologia"
+"linguaggio di basso livello"
+"linguaggio di programmazione"
+"linguaggio di programmazione"
+"linguaggio di programmazione"
+"linguaggio di programmazione Pascal"
+"linguaggio figurato"
+"linguaggio formale"
+"linguaggio formale di alto livello (IT)"
+"linguaggio gestuale"
+"linguaggio giuridico"
+"linguaggio incomprensibile"
+"linguaggio indecente"
+"linguaggio informale"
+"linguaggio informatico"
+"linguaggio irriverente"
+"linguaggio moderno"
+"linguaggio oggetto"
+"linguaggio osceno"
+"linguaggio poetico"
+"linguaggio profano"
+"linguaggio psicologico"
+"linguaggio retorico"
+"linguaggio scurrile"
+"linguaggio scurrile"
+"linguaggio segreto"
+"linguaggio simbolico"
+"linguaggio simbolico, figurativo"
+"linguaggio tecnico"
+"linguaggio volgare"
+"proprietà di linguaggio"
+"studio del linguaggio"
+"usare il linguaggio"
+*[[lingua]], [[idioma]], [[codice]]
+*[[parlata]], modo d’esprimersi, [[espressione]], [[lessico]], [[vocabolario]], [[terminologia]], [[fraseologia]], [[dialetto]], [[gergo]], [[slang]], [[argot]]
+*(di un autore) modo di scrivere
+* [[eloquenza]], [[oratoria]], [[parlantina]], [[loquacità]], [[facondia]]
+*[[metalinguaggio]]
+M>lingua</E
+M>parlare con proprietà di l</E
+M>Questi è Nembrotto per lo cui mal coto Pur un l</E
+M>nel mondo non s’usa</E
+M>D’una terra son tutti:</E
+M>un linguaggio Parlan tutti</E
+M>il problema dell’origine del l</E
+M>articolato</E
+M>orale</E
+M>verbale</E
+M>parlato</E
+M>l’apprendimento</E
+M>lo sviluppo del l</E
+M>disturbi</E
+M>difetti del l</E
+M>la localizzazione dei centri del l</E
+M>delle aree del l</E
+M>l’individuazione dei processi del l</E
+M>Filosofia del l</E
+M>psicologia del l</E
+M>gesticolatorio</E
+M>gestuale</E
+M>mimico</E
+M>dei sordomuti</E
+M>degli occhi</E
+M>dei cenni</E
+M>dei fiori</E
+M>il l</E
+M>della musica</E
+M>il l</E
+M>delle arti figurative</E
+M>il l. cinematografico</E
+M>il l</E
+M>delle termiti</E
+M>delle api</E
+M>delle formiche</E
+M>il l</E
+M>degli uccelli</E
+M>dei pesci</E
+M>il l</E
+M>delle cose</E
+M>dei fatti</E
+M>il l</E
+M>del vento</E
+M>degli alberi</E
+M>della natura</E
+M>il l</E
+M>degli antichi monumenti</E
+M>raffinato</E
+M>volgare</E
+M>triviale</E
+M>affettivo</E
+M>dialettico</E
+M>convenzionale</E
+M>infantile</E
+M>il l</E
+M>di Dante</E
+M>di Ariosto</E
+M>di D’Annunzio</E
+M>poetico</E
+M>letterario</E
+M>filosofico</E
+M>tecnico</E
+M>scientifico</E
+M>militare</E
+M>marinaresco</E
+M>burocratico</E
+M>giornalistico</E
+M>pubblicitario</E
+M>il l</E
+M>dei medici</E
+M>degli avvocati</E
+M>i l</E
+M>settoriali</E
+M>speciali</E
+M>specialistici</E
+M>il l</E
+M>comune</E
+M>quotidiano</E
+M>familiare</E
+M>popolare</E
+M>nobiltà</E
+M>semplicità di l</E
+M>tenere</E
+M>usare un l</E
+M>dignitoso</E
+M>franco</E
+M>severo</E
+M>insultante</E
+M>sconveniente</E
+M>gli parlò con l</E
+M>paterno</E
+M>che razza di l</E
+M>è questo?</E
+M>ti consiglio di cambiare linguaggio</E
+M>parlare il l</E
+M>del cuore</E
+M>dei sentimenti</E
+M>della ragione</E
+M>naturale</E
+M>artificiali</E
+M>simbolici</E
+M>formalizzati</E
+M>di programmazione</E
+M>macchina</E
+M>simbolico</E
+M>evoluto</E
+M>di livello elevato</E
+M>compilatori</E
+M>assemblatori</E
+M>interpreti</E
+M>codice</E
+M>sorgente</E
+M>oggetto</E
+M>programmi sorgente</E
+M>programmi oggetto</E

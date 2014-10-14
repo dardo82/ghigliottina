@@ -1,0 +1,27 @@
+assoluzione.txt
+"assoluzione"
+"assoluzione"
+"assoluzione"
+"assoluzione (dopo la confessione)"
+M>absolutio</E
+M>onis</E
+M>absolv</E
+M>sentenza</E
+M>verdetto di a</E
+M>formula di a</E
+M>per non aver commesso il fatto</E
+M>perché il fatto non sussiste</E
+M>non costituisce reato</E
+M>con formula piena</E
+M>per insufficienza di prove</E
+M>con formula dubitativa</E
+M>chiedere l’a</E
+M>di un imputato</E
+M>da ogni imputazione</E
+M>sacramentale</E
+M>dare</E
+M>impartire</E
+M>negare</E
+M>ricevere l’a</E
+M>in articulo mortis</E
+M>al tumulo</E

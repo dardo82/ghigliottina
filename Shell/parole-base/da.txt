@@ -1,0 +1,287 @@
+da.txt
+"(di costume da bagno) slip intero"
+"(travolgere) da un'ondata"
+"a fare da cornice"
+"a partire da"
+"a più non posso, da scoppiare"
+"a prescindere da"
+"a prescindere da"
+"a prescindere da"
+"a prescindere da"
+"a un palmo da terra"
+"a un pelo da"
+"abbandonare, allontanarsi da"
+"abbigliamento da lavoro"
+"abbigliamento da notte femminile"
+"abiti da lavoro"
+"abito da cerimonia"
+"abito da cocktail"
+"abito da cocktail"
+"abito da sera"
+"abito da sera"
+"abito da sera"
+"abito da sera"
+"abito da sposa"
+"bridal gown"
+"accessori per armi da fuoco"
+"acciaio da bonifica"
+"acquistare da"
+"adattato da"
+"adapted from"
+"aereo da carico"
+"affascinato da"
+"affetto da mal d'auto"
+"affetto da malformazione della lingua, da anchiloglossa"
+"affetto da problemi psichici"
+"aforisma da cioccolatino"
+"agire da bullo"
+"agire da bullo"
+"agire da tutor"
+"agire da tutor"
+"aiutato da"
+"albero da frutta"
+"albero da frutto"
+"albero da ombra"
+"album da disegno"
+"alla larga da"
+"allevamento di animali da pelliccia"
+"allontanarsi da"
+"allontanarsi da"
+"allontanarsi da"
+"altezze da vertigini"
+"alzarsi da"
+"alzato da letto"
+"amo da pesca"
+"analgesico da banco"
+"andarsene da; fuggire da"
+"anello da naso"
+"anello da naso"
+"anello da piede"
+"animale da latte"
+"dairy animal"
+"animale da soma"
+"animali da cortile"
+"annoiato da morire"
+"antenna televisiva da interni a due punte"
+"argento da conio"
+"arie da"
+"arma da fuoco"
+"arma da fuoco"
+"arma da fuoco"
+"arma da fuoco"
+"arma da fuoco"
+"arma da fuoco"
+"arma da fuoco a carica frontale"
+"armadietto da parete"
+"armi da fianco"
+"arredamento per sala da pranzo"
+"articoli da regalo"
+"articoli da toilette"
+"articolo da notte femminile"
+"artiglieria da campo"
+"ascia da combattimento"
+"asciugamano da viso"
+"ascoltare da dietro la porta"
+"asse da stiro"
+"assentarsi da"
+"assente da"
+"assorbito da"
+"assorto da"
+"assuefazione da nicotina"
+"assuefazione da oppio"
+"astenersi da"
+"astenersi da"
+"atteggiarsi da"
+"atto a pulire le armi da fuoco"
+"attrezzatura da pesca"
+"attrezzatura da snorkelling, attrezzatura subacquea"
+"attrezzi da cucina"
+"attrezzi da pesca"
+"attrezzo da giardino"
+"auto da turismo"
+"aver battuto la testa da piccolo"
+"aver ripreso da"
+"avere altro da fare"
+#*''La lettera portata '''dal''' postino è stata portata via '''dal''' vento.''
+#* ''il rumore proveniva '''da''' sopra.''
+#* ''Dormi ''da'' me, stanotte!''
+#* '' New York è molto lontano '''da''' Milano.''
+#* '' Era '''da''' tanto che non ti vedevo.''
+#* ''Parto '''da''' Milano per Ancona''
+*[[dal]],  [[dallo]],  [[dalla]],  [[dai]],  [[dagli]],  [[dalle]]
+*''vedere e non toccare è una cosa 
+*italiano
+* calabrese
+* portoghese
+* serbo
+* tataro
+m>de ab</e
+m>dal</e
+m>dallo</e
+m>dalla</e
+m>dai</e
+m>da&rsquo;</e
+m>dagli</e
+m>dalle</e
+m>davvero</e
+m>da tutti</e
+m>da ttutti</e
+m>da&rsquo;</e
+m>dai</e
+m>d&rsquo;ora in poi</e
+m>partire da casa</e
+m>arrivare da Venezia</e
+m>uscire dall&rsquo;ufficio</e
+m>scendere dall&rsquo;albero</e
+m>cadere dalla padella nella brace</e
+m>buttarsi dal trampolino</e
+m>ricominciare da</e
+m>dal</e
+m>principio</e
+m>vedere il mare dalla finestra</e
+m>guardare dall&rsquo;alto in basso</e
+m>apprendere dai giornali</e
+m>ricevere un favore da un amico</e
+m>il petrolio si estrae dal sottosuolo</e
+m>quanto grano ricavi dal podere?</e
+m>non dipende da me</e
+m>discende da nobile famiglia</e
+m>il Po nasce dal Monviso</e
+m>molti mali vengono dall&rsquo;abuso dell&rsquo;alcol</e
+m>Leonardo da Vinci</e
+m>Mino da Fiesole</e
+m>Guido da Montefeltro</e
+m>staccare dalla parete</e
+m>scampare da un pericolo</e
+m>chiamare da lontano</e
+m>sparire dalla circolazione</e
+m>esentare da un obbligo</e
+m>liberare dalla prigionia</e
+m>preservare da malanni</e
+m>distinguere il vero dal falso</e
+m>essere lontano dalla meta</e
+m>trovarsi a venti chilometri dal confine</e
+m>essere diverso dagli altri</e
+m>lontano dal</e
+m>credere</e
+m>volere</e
+m>contrariamente</e
+m>diversamente da</e
+m>son qui già da stamattina</e
+m>è dalle 10 che aspetto</e
+m>da allora cominciarono tutti i nostri guai</e
+m>l&rsquo;hanno trasferito da Genova a Palermo</e
+m>è stato promosso da tenente a capitano</e
+m>passare dalla seconda alla terza liceo</e
+m>contare da 1 a 100</e
+m>il medico riceve dalle 9 alle 11</e
+m>da commesso a padrone di negozio</e
+m>potrà avere da 30 a 35 anni</e
+m>ci saranno stati da ottanta a novantamila spettatori</e
+m>verrò oggi stesso da te</e
+m>devo andare dal sarto</e
+m>scendo dal tabaccaio</e
+m>passare</e
+m>è tanto grasso che non passa dalla porta</e
+m>sono stato dall&rsquo;avvocato</e
+m>ti attendo dal meccanico</e
+m>mi servo dal droghiere qui di fronte</e
+m>frequenta l&rsquo;asilo dalle suore</e
+m>sarò a cena da mio zio</e
+m>da noi non c&rsquo;è quest&rsquo;uso</e
+m>lato</e
+m>parte</e
+m>la cornice è scrostata da un lato</e
+m>la stoffa è da una parte grigia</e
+m>dall&rsquo;altra verde</e
+m>da ogni parte del paese si vede il castello</e
+m>abito anch&rsquo;io da quelle parti</e
+m>vado da quelle parti</e
+m>proviene da quelle parti</e
+m>è stato rimproverato dal preside</e
+m>negozio saccheggiato dai ladri</e
+m>una quercia abbattuta dal fulmine</e
+m>siamo stati sorpresi dall&rsquo;inaspettata notizia</e
+m>ammalarsi dal dispiacere</e
+m>tremare dal freddo</e
+m>gridare dal dolore</e
+m>l&rsquo;ho giudicato dalle sue parole</e
+m>l&rsquo;ho riconosciuto dalla voce</e
+m>alla voce</e
+m>un vecchio dai capelli bianchi</e
+m>una casa dalla facciata rosa</e
+m>cieco da un occhio</e
+m>sordo da un orecchio</e
+m>cavallo da corsa</e
+m>cappello da prete</e
+m>abito da passeggio</e
+m>veste da camera</e
+m>vino da pasto</e
+m>fazzoletti da naso</e
+m>sala da ballo</e
+m>festa da ballo</e
+m>messa da requiem</e
+m>biglietto da visita</e
+m>festa di ballo</e
+m>macchina da scrivere</e
+m>da cucire</e
+m>ago da materassi</e
+m>macchina per scrivere</e
+m>per cucire</e
+m>ago per materassi</e
+m>azione da galantuomo</e
+m>gesto da villano</e
+m>non è da me commettere simili azioni</e
+m>da me</e
+m>da te</e
+m>lo farò da me</e
+m>è meglio che ci vada da sé</e
+m>far vita da cani</e
+m>menar bòtte da orbi</e
+m>godersela da principe</e
+m>vivere da povera gente</e
+m>comportarsi da mascalzone</e
+m>ti ho trattato da amico</e
+m>ha risposto da persona di spirito</e
+m>funge da amministratore</e
+m>fa da presidente</e
+m>gli ha fatto da padre</e
+m>da vecchi si è più prudenti che da giovani</e
+m>da piccolo era un vero terremoto</e
+m>da segretario non guadagnava molto</e
+m>dammi un libro da leggere</e
+m>non hanno da mangiare</e
+m>Forse s&rsquo;avess&rsquo;io l&rsquo;ale Da volar</e
+m>u le nubi</e
+m>facevano un rumore tale da sbalordire</e
+m>non ho niente da fare</e
+m>guadagna tanto da vivere</e
+m>non c&rsquo;è tempo da perdere</e
+m>far da mangiare</e
+m>negozio da affittare</e
+m>uomo da ammirare</e
+m>c&rsquo;è da essere investiti</e
+m>da farsi investire</e
+m>con questo traffico</e
+m>c&rsquo;è da diventar matti</e
+m>avere da</e
+m>ho da fare</e
+m>ho molto da scrivere</e
+m>ho da correre subito alla stazione</e
+m>da parte</e
+m>da lato</e
+m>dallato</e
+m>da canto</e
+m>daccanto</e
+m>da vicino</e
+m>davvicino</e
+m>da lontano</e
+m>da presso</e
+m>dappresso</e
+m>da per tutto</e
+m>dappertutto</e
+m>dabbene</e
+m>dappiù</e
+m>da più</e
+m>dammeno</e
+m>da meno</e

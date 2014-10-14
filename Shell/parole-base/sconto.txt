@@ -1,0 +1,36 @@
+sconto.txt
+"applicare uno sconto"
+"buono sconto"
+"fare uno sconto"
+"farsi fare lo sconto"
+"sconto"
+"sconto"
+"sconto"
+"sconto bancario"
+"sconto di effetti"
+"sconto per contanti"
+"tasso di sconto"
+"tasso ufficiale di sconto"
+#*'' sono stato fregato, 
+*[[riduzione]], [[ribasso]], [[detrazione]]
+*[[scontista]], [[scontare]]
+M>a sconto</E
+M>le invio la somma di tremila euro a s. del mio debito</E
+M>a sconto</E
+M>devi accettare con rassegnazione le attuali sofferenze</E
+M> a s. delle tue intemperanze trascorse</E
+M>le cederò la merce con lo s. del 10 per cento</E
+M>le sarei grato se mi accordasse qualche s.</E
+M>non potrò farle che un piccolo sconto</E
+M>s. di cassa</E
+M>diritto di sconto</E
+M>scontatore</E
+M>scontante</E
+M>scontatario</E
+M>scontista</E
+M>s. di una cambiale</E
+M>saggio</E
+M>tasso di s.</E
+M>sconto</E
+M>s. semplice</E
+M>s. composto</E

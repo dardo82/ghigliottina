@@ -1,0 +1,31 @@
+convegno.txt
+"congresso, convegno"
+"convegno"
+"intervenire a un convegno"
+"mostra convegno"
+M>*convenium</E
+M>convenire</E
+M>andare</E
+M>intervenire</E
+M>partecipare</E
+M>invitare</E
+M>mancare a un c</E
+M>darsi c</E
+M>in un luogo</E
+M>organizzare un c. di artisti</E
+M>di studî</E
+M>convegno</E
+M>un c. di linguisti</E
+M>di fisici</E
+M>d’affari</E
+M>amoroso</E
+M>appuntamento</E
+M>incontro</E
+M>sala di c</E
+M>degli ufficiali</E
+M>la sua casa è stata per molti anni il c</E
+M> di illustri ingegni</E
+M>quel caffè era l’abituale c</E
+M>degli intellettuali</E
+M>«Dimmi ’l perché» diss’io</E
+M>«per tal convegno»</E

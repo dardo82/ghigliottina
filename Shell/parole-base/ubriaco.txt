@@ -1,0 +1,44 @@
+ubriaco.txt
+"completamente ubriaco"
+"completamente ubriaco"
+"completamente ubriaco"
+"completamente ubriaco"
+"essere ubriaco"
+"essere ubriaco"
+"mezzo ubriaco"
+"non ubriaco, sobrio"
+"ubriaco"
+"ubriaco"
+"ubriaco"
+"ubriaco fradicio"
+"ubriaco fradicio"
+"ubriaco fradicio"
+"ubriaco fradicio"
+"ubriaco fradicio"
+"ubriaco fradicio"
+#* ''Ma sei '''ubriaco'''?''
+#* ''Lui è '''ubriaco''' di fatica in seguito a quel pesante lavoro''
+#* ''essere 
+#*''Era seduto al tavolo un '''ubriaco'''''
+*[[ebro]], [[brillo]], [[alticcio]]
+* [[ubriacone]], [[ubbriacone]], [[ubriacatura]], [[ubbriacatura]]
+* [[briaco]], [[ebbriaco]], [[ebriaco]], [[ubbriaco]]
+M>ebriacus</E
+M>ebrius</E
+M> chi</E
+M>è tornato a casa u.</E
+M>u. fradicio</E
+M>tutte le sere è u.</E
+M>doveva essere u. per parlare</E
+M>per comportarsi</E
+M>in quel modo</E
+M>sei u.?</E
+M>nella strada c’era un u.</E
+M>gli u. si reggono in piedi con difficoltà.</E
+M>è u. di quella donna</E
+M>era u. di gioia</E
+M>di stanchezza</E
+M>ero come u. per tutte quelle grida</E
+M> per tutta quella confusione</E
+M> per tutte quelle luci</E
+M>Maiale u.</E

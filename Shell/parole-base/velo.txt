@@ -1,0 +1,18 @@
+velo.txt
+"il velo"
+"sollevare il velo"
+"sotto il velo"
+"stendere un velo"
+"stendere un velo pietoso"
+"togliere il velo"
+"velo"
+"velo"
+"velo"
+"velo"
+"velo al collo"
+"velo di segretezza"
+"velo nuziale"
+"zucchero a velo"
+"zucchero a velo"
+*[[drappo]], [[pellicola]], [[velatura]], [[strato]], [[patina]]
+*[[cortina]], [[velario]]

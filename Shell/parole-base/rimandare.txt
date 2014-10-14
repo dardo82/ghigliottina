@@ -1,0 +1,61 @@
+rimandare.txt
+"rimandare"
+"rimandare"
+"rimandare"
+"rimandare"
+"rimandare"
+"rimandare a"
+"rimandare al mittente"
+"rimandare una scadenza"
+"rimandare, differire"
+#*''sono stato '''rimandato''' all'esame''
+*(''mandare di nuovo'') [[rinviare]], [[differire]]
+*(''far ritornare'') [[rispedire]], [[restituire]]
+*(''bocciare'') [[fare]] [[riferimento]]
+*[[rimandato]], [[rimando]]
+*[[mandare]]
+M>mandare</E
+M>se questi dolci ti piacciono</E
+M>te ne rimanderò</E
+M>lo rimanderò a passare le vacanze in Inghilterra come l&#8217;anno scorso</E
+M>ti prego di rimandarmi l&#8217;ombrello</E
+M>il libro che t&#8217;ho prestato</E
+M>indietro</E
+M>gli ha rimandato il regalo</E
+M>senza neppure aprire il pacco</E
+M>rimandò in cucina l&#8217;arrosto perché non era ben cotto</E
+M>rimandarle giù</E
+M>stavo per dirgliene una grossa</E
+M>ma l&#8217;ho rimandata giù</E
+M>la polizia lo ha rimandato al paese d&#8217;origine</E
+M>il preside lo ha rimandato a casa poiché si sentiva poco bene</E
+M>dopo aver sentito le sue spiegazioni il direttore lo rimandò in ufficio</E
+M>tutti gli imputati sono stati rimandati assolti</E
+M>qualcuno sano e salvo</E
+M>in pace</E
+M>soddisfatto</E
+M>umiliato</E
+M>il padrone ha promesso di rimandarlo alle sei</E
+M>la partenza</E
+M>una visita</E
+M>un appuntamento</E
+M>un colloquio</E
+M>a causa del maltempo la partita è stata rimandata a data da destinarsi</E
+M>la recita</E
+M>dovette essere rimandata</E
+M>al ministero lo rimandarono da un ufficio a un altro</E
+M>il lettore a un&#8217;altra opera</E
+M>a un&#8217;altra pagina</E
+M>a un altro capitolo</E
+M>un alunno</E
+M>un candidato</E
+M>in italiano</E
+M>in matematica</E
+M>in due materie</E
+M>di riparazione</E
+M>fissare la nuova data per le partite</E
+M>per le visite</E
+M>rimandate</E
+M>gli alunni</E
+M>i candidati rimandati</E
+M>i rimandati</E

@@ -1,0 +1,26 @@
+bolla.txt
+"bolla"
+"bolla"
+"bolla"
+"bolla"
+"bolla"
+"sigillo o documento con la bolla"
+"bolla d'aria"
+"bolla di lavorazione di mano d'opera"
+"bolla di reso"
+"bolla di sapone"
+"bolla di spedizione"
+"bolla doganale"
+"bolla papale"
+"bolla speculativa"
+"bolla, vescichetta"
+"in bolla"
+"mettere in bolla"
+#*''è finito tutto in una bolla di sapone!''
+#*''bolla imperiale, bolla papale''
+#*''bolla di accompagnamento merce''
+*[[vescica]], [[vescicola]], [[livella]]
+*[[sigillo]]
+*lettera papale, lettera episcopale, lettera vescovile
+*(per consegna o pagamento di merci) [[ricevuta]], [[fattura]], [[contromarca]], [[bolletta]], [[polizza]]
+:*old english

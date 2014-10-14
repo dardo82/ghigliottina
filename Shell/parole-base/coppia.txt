@@ -1,0 +1,77 @@
+coppia.txt
+"affinità di coppia"
+"ballo in coppia"
+"convertitore di coppia"
+"coppia"
+"coppia"
+"coppia"
+"coppia"
+"coppia"
+"coppia corrispondente"
+"coppia di elettroni"
+"coppia di fatto"
+"coppia di inserti per tubi"
+"coppia di serraggio"
+"coppia di sposi"
+"coppia di sposi"
+"coppia innamorata"
+"coppia motrice"
+"coppia ordinata"
+"coppia solitaria, doppietto solitario"
+"doppia coppia"
+"far coppia con"
+"fare coppia con"
+"in coppia"
+"in coppia con"
+"in coppia con"
+"mettersi in coppia"
+"relazione di coppia"
+"torsione di coppia"
+"unione di fatto, coppia di fatto, convivenza"
+"uscire con; fare coppia fissa con"
+"uscire con; fare coppia fissa con"
+*[[ paio]], [[pariglia]], [[duo]]
+M>copula</E
+M>una c</E
+M>di ballerini</E
+M>una c</E
+M>di buoi</E
+M>di cavalli</E
+M>di canarini</E
+M>una c</E
+M>di uova</E
+M>una c</E
+M>di candelieri</E
+M>fare c</E
+M>con qualcuno</E
+M>in coppia</E
+M>a coppie</E
+M>essere</E
+M>formare una bella c</E
+M>i problemi della c</E
+M>la crisi della c</E
+M>nella società moderna</E
+M>c. di fatto</E
+M>unione di fatto</E
+M>c. aperta</E
+M>gara a coppie</E
+M>voga di coppia</E
+M>di re</E
+M>doppia c</E
+M>voltaica</E
+M>cinematica</E
+M>semplice</E
+M>inferiore</E
+M>prismatica</E
+M>rotoidale</E
+M>elicoidale</E
+M>superiore</E
+M>di particelle</E
+M>di vettori</E
+M>braccio della c</E
+M>di braccio nullo</E
+M>degenere</E
+M>motrice</E
+M>resistente</E
+M>è una stradina tranquilla e fuori mano</E
+M>frequentata dalle coppiette</E

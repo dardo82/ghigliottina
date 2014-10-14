@@ -1,0 +1,34 @@
+trapano.txt
+"foro da trapano"
+"punta per trapano"
+"trapano"
+"trapano a mano"
+"trapano a mano"
+"trapano a rotazione"
+"trapano ad aria compressa"
+"trapano con punta di diamante"
+"trapano elettrico"
+* [[trapanare]]
+M>trepanum</E
+M>trépan</E
+M>trapano</E
+M>trapassare</E
+M>traforare</E
+M>punte da t.</E
+M>t. a mano</E
+M>t. elettrici</E
+M>t. ad aria compressa</E
+M>t. ad acqua in pressione</E
+M>t. verticali</E
+M>t. a colonna</E
+M>t. da banco</E
+M>t. radiale</E
+M>t. orizzontali</E
+M>t. a scintillamento</E
+M>t. a ultrasuoni</E
+M>t. a laser</E
+M>manipolo</E
+M>testina</E
+M>t. a turbina</E
+M>turbo-trapano</E
+M>t. indolore</E

@@ -1,0 +1,59 @@
+riservato.txt
+"accesso riservato"
+"essere a conoscenza di (qc di riservato)"
+"ingresso riservato"
+"non riservato"
+"partita di consolazione, gioco riservato a chi è stato eliminato"
+"reticente, riservato, chiuso"
+"riservato"
+"riservato"
+"riservato"
+"spazio riservato"
+*[[riservatamente]]
+M>riservare</E
+M>posti r</E
+M>posto r</E
+M>agli invalidi</E
+M>ai mutilati</E
+M>alle autorità</E
+M>palco</E
+M>tavolo r</E
+M>altare r</E
+M>sala</E
+M>vettura</E
+M>zona di spiaggia r</E
+M>caccia r</E
+M>proprietà letteraria r</E
+M>dominio</E
+M>censura r</E
+M>non r</E
+M>lettera r</E
+M>stampa</E
+M>edizione</E
+M>notizia r</E
+M>riservatissima</E
+M>informazioni r</E
+M>avute in via assolutamente r</E
+M>film</E
+M>spettacolo r</E
+M>agli adulti</E
+M>prognosi r</E
+M>uomo r</E
+M>essere r</E
+M>nel parlare</E
+M>nel confidarsi</E
+M>è sempre r</E
+M>con gli estranei</E
+M>è r</E
+M>con tutti</E
+M>carattere</E
+M>contegno</E
+M>comportamento r</E
+M>tenersi</E
+M>stare riservato</E
+M>riservata</E
+M>risparmiata</E
+M>risparmiato</E
+M>incisione a taglio r</E
+M>risparmiato</E
+M>incisione in rilievo</E

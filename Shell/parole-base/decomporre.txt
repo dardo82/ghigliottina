@@ -1,0 +1,10 @@
+decomporre.txt
+"decomporre"
+"decomporre, replace: decomporsi"
+M>comporre</E
+M>decompos</E
+M>tus</E
+M>porre</E
+M>i cadaveri si decompongono</E
+M>sostanze chimiche decomposte</E
+M>carogne di animali già decomposte</E

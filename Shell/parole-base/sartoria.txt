@@ -1,0 +1,18 @@
+sartoria.txt
+"alta sartoria"
+"sartoria"
+"sartoria"
+"sartoria"
+*[[atelier]]
+* alta moda, [[moda]]
+*[[sarto]]
+M>lavorare in una s.</E
+M>aprire</E
+M>mettere su una s.</E
+M>una grande s. romana</E
+M>milanese</E
+M>parigina</E
+M>s. militare</E
+M>s. ecclesiastica</E
+M>s. teatrale</E
+M>le creazioni della s. italiana sono apprezzate in tutto il mondo.</E

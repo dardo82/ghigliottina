@@ -1,0 +1,21 @@
+irrigazione.txt
+"canale di irrigazione"
+"irrigazione"
+M>irrigatio</E
+M>onis</E
+M>terreno con buona i</E
+M>con i</E
+M>abbondante</E
+M>insufficiente</E
+M>canale d’i</E
+M>fosso d’i</E
+M>sistema d’i</E
+M>umettante</E
+M>fertilizzante</E
+M>dilavante</E
+M>termiche</E
+M>per scorrimento</E
+M>per infiltrazione</E
+M>per sommersione</E
+M>per aspersione</E
+M>vaginali</E

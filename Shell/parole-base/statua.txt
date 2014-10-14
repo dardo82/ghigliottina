@@ -1,0 +1,62 @@
+statua.txt
+"statua"
+"statua da giardino"
+"Statua della Libertà"
+"statua di cera"
+*[[figura]], [[scultura]], [[simulacro]], [[monumento]]
+*[[busto]]
+*italiano
+M>statua</E
+M>statu</E
+M>s. di marmo</E
+M>di pietra</E
+M>di bronzo</E
+M>di legno</E
+M>di gesso</E
+M>di cera</E
+M>s. d&#8217;avorio</E
+M>d&#8217;oro</E
+M>criselefantina</E
+M>modellare</E
+M>scolpire una s.</E
+M>fondere una s.</E
+M>una s. di Michelangelo</E
+M>del Canova</E
+M>di Manzù</E
+M>una s. di Gesù</E
+M>della Madonna</E
+M>una s. di Giove</E
+M>di Minerva</E
+M>della Medusa</E
+M>la s. della Fortuna</E
+M>la s. della Libertà nel porto di New York</E
+M>monumento</E
+M>la s. di un condottiero</E
+M>di un grande statista</E
+M>la s. di Mazzini</E
+M>del Cavour</E
+M>s. equestre</E
+M>erigere</E
+M>innalzare una s.</E
+M>inaugurare</E
+M>scoprire una s.</E
+M>buttar giù</E
+M>abbattere</E
+M>atterrare una statua</E
+M>il piedistallo</E
+M>la base della s.</E
+M>villa</E
+M>scalinata ricca di statue</E
+M>le s. della fontana</E
+M>della chiesa</E
+M>di un parco della rimembranza</E
+M>del cimitero</E
+M>sembrava una s.</E
+M>stava immobile e silenziosa come una s.</E
+M>quella donna è una s.</E
+M>una vera statua</E
+M>una statuetta etrusca</E
+M>una statuina cinese</E
+M>statuine di marmo</E
+M>di gesso</E
+M>gioco delle belle statuine</E

@@ -1,0 +1,20 @@
+consistere.txt
+"consistere"
+"consistere di"
+"consistere di"
+"consistere di"
+"consistere in"
+"consistere in"
+M>consist</E
+M>con</E
+M>sist</E
+M>essere</E
+M>la mia colazione consiste di latte e biscotti</E
+M>il nostro patrimonio consiste in pochi ettari di terra</E
+M>il suo passatempo consiste nel coltivare i fiori</E
+M>non so proprio in che cosa consista la sua bravura</E
+M>terre</E
+M>che</E
+M>verso il polo meridionale consistono</E
+M>consistono pertinaci nelle loro nequizie</E
+M>artificio consistente in una trasposizione di parole</E

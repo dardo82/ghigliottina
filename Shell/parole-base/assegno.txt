@@ -1,0 +1,72 @@
+assegno.txt
+"assegno"
+"assegno"
+"assegno a vuoto"
+"assegno bancario"
+"assegno bancario"
+"assegno circolare"
+"assegno dello stipendio"
+"assegno di cassa"
+"assegno di maternità"
+"assegno estinto"
+"assegno familiare"
+"assegno fuori piazza"
+"assegno garantito"
+"assegno in bianco"
+"assegno in bianco"
+"assegno respinto"
+"assegno sociale"
+"emettere un assegno"
+"incassare un assegno"
+"intestare un assegno"
+"intestare un assegno a qcn"
+"matrice dell'assegno"
+"staccare un assegno"
+"un assegno a saldo"
+"versare l'assegno"
+*[[assegnazione]], [[rendita]], [[sussidio]], [[denaro]], [[provvigione]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione caratcea 2000-2001,Le Monnier,p. 158
+M>passare</E
+M>corrispondere al figlio un a</E
+M>mensile</E
+M>alimentare</E
+M>familiari</E
+M>di studio</E
+M> di ricerca</E
+M>presalario</E
+M>vitalizio</E
+M>emettere</E
+M>riscuotere</E
+M>girare un assegno</E
+M>gli a. vengono emessi per circolare indisturbati nel mondo</E
+M> sono come gettoni di presenza</E
+M>bancario</E
+M>chèque</E
+M>trattario</E
+M>traente</E
+M>libretto di assegni</E
+M>non trasferibile</E
+M>da accreditare</E
+M>barrato</E
+M>incrociato</E
+M>in bianco</E
+M>a vuoto</E
+M>postdatato</E
+M>a copertura garantita</E
+M>certificato</E
+M>a taglio limitato</E
+M>vademecum</E
+M>turistico</E
+M>per viaggiatori</E
+M>traveller’s check</E
+M>circolare</E
+M>postale</E
+M>all’ordine</E
+M>localizzato</E
+M>di postagiro</E
+M>ferroviario</E
+M>Assegno titoli</E
+M>spedire</E
+M>spedizione contro a</E
+M>gravare di assegno</E
+M>carta di assegno</E

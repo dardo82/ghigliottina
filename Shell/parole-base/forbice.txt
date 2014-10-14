@@ -1,0 +1,36 @@
+forbice.txt
+"forbice"
+#* es. domanda e offerta.
+#* ''Il serpente ha la lingua a '''forbice'''''
+*italiano
+M>rfex -f</E
+M>cis</E
+M>le forbici</E
+M>un paio di forbici</E
+M>branche</E
+M>da toletta</E
+M>da parrucchiere</E
+M>da sarto</E
+M>da cartolaio</E
+M>da giardiniere</E
+M>da chirurgo</E
+M>adoperare le f</E
+M>lavorare di forbici</E
+M>le f</E
+M>della censura</E
+M>colpo di f</E
+M>fatto con le f</E
+M>ha una lingua che taglia come le f</E
+M>guai a cadere sotto le sue forbici!</E
+M>fare le f</E
+M>gangheggiare</E
+M>batter la mano</E
+M>tenaglie</E
+M>forbici</E
+M>forbice</E
+M>sforbiciata</E
+M>salita con doppia corda a forbice</E
+M>con doppia corda a corde parallele</E
+M>assicurazione a forbice</E
+M>forbice dei prezzi</E
+M>andamento a forbice</E

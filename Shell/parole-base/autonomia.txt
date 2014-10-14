@@ -1,0 +1,40 @@
+autonomia.txt
+"autonomia"
+"in totale autonomia"
+*[[indipendenza]], [[libertà]], [[autosufficienza]], [[autarchia]]
+*[[dipendenza]], [[subordinazione]], [[sottomissione]], [[soggezione]], [[autogoverno]]
+*[[autonomo]]
+M>normativa</E
+M>finanziaria</E
+M>di bilancio</E
+M>di gestione</E
+M>locale</E
+M>locali</E
+M>sindacale</E
+M>collettiva</E
+M>autodisciplina collettiva</E
+M>operaia</E
+M>della classe operaia</E
+M>autonomia</E
+M>l’area dell’a</E
+M>i collettivi</E
+M>i comitati dell’autonomia</E
+M>avere</E
+M>godere</E
+M>raggiungere</E
+M>perdere la propria a</E
+M>rivendicare</E
+M>difendere la propria a</E
+M>economica</E
+M>in casa nostra</E
+M>tutti godono di una loro a</E
+M>sono geloso della mia autonomia</E
+M>etica</E
+M>autonomia</E
+M>logistica</E
+M>di una nave</E
+M>di un sommergibile</E
+M>di volo</E
+M>di tempo</E
+M>di distanza</E
+M>di un veliero</E

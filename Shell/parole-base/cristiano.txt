@@ -1,0 +1,68 @@
+cristiano.txt
+"buon cristiano"
+"compagno cristiano"
+"cristiano"
+"cristiano"
+"cristiano"
+"cristiano"
+"Cristiano"
+"Cristiano"
+"cristiano congregazionalista"
+"cristiano ortodosso"
+"Cristiano Ortodosso"
+"cristiano ortodosso"
+"cristiano praticante"
+"cristiano riconvertito"
+"non Cristiano"
+"non Cristiano"
+"post cristiano"
+"rendere cristiano"
+*italiano
+M>Christianus</E
+M>religione</E
+M>fede c</E
+M>èra c</E
+M>èra volgare</E
+M>i popoli c</E
+M>Riedono stanchi i cavalier c</E
+M>morale c</E
+M>dottrina c</E
+M>vita</E
+M>morte c.</E
+M>condotta c</E
+M>carità cristiana</E
+M>la civiltà c</E
+M>arte</E
+M>letteratura cristiana</E
+M>Associazione c</E
+M>dei lavoratori italiani</E
+M>Democrazia Cristiana</E
+M>le persecuzioni contro i c</E
+M>E ne l’antico vostro Batisteo Insieme fui cristiano e Cacciaguida</E
+M>dichiararsi c</E
+M>essere un vero c</E
+M>un buon c</E
+M>un cattivo c</E
+M>sentirsi profondamente cristiano</E
+M>non cristiano</E
+M>Segretariato per i non c</E
+M>uomo</E
+M>non è questo il modo di trattare un c</E
+M>è un povero c</E
+M>anche lui</E
+M>è un buon c</E
+M>cibo da cristiani</E
+M>finalmente potei dormire in un letto da cristiano</E
+M>parrà facilmente strano il vedere</E
+M>terra e terra senza un c</E
+M>vogliam noi rubare il mestiere al boia? assassinare un c</E
+M>faccia da c</E
+M>atto da c</E
+M>comportarsi da c</E
+M>Non credo che nel mondo sia cristiana Sì piena di biltate e di valore</E
+M>cristianìssimo</E
+M>Re Cristianissimo</E
+M>vivere</E
+M>morire cristianamente</E
+M>comportarsi cristianamente</E
+M>trattare cristianamente</E

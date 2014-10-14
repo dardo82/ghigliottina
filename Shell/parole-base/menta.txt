@@ -1,0 +1,43 @@
+menta.txt
+"caramella gusto menta"
+"essenza di menta"
+"foglie di menta"
+"gusto di menta"
+"latte e menta"
+"liquore alla menta"
+"menta"
+"menta"
+"bibita al sapore di menta"
+"Menta piperita"
+"menta pulegio"
+"salsa di menta"
+*[[sciroppo]], [[bibita]]
+M>nta</E
+M>ntha</E
+M>Mentha</E
+M>d’acqua</E
+M>Mentha aquatica</E
+M>puleggio</E
+M>pulegium</E
+M>romana</E
+M>spicata</E
+M>piperita</E
+M>Mentha aquatica</E
+M>spicata</E
+M>essenza di m</E
+M>una bibita di m</E
+M>alla m</E
+M>sciroppo di m</E
+M>pasticche</E
+M>caramelle di m</E
+M>alla m</E
+M>al sapore di menta</E
+M>dissetarsi con un bicchiere di m</E
+M>con una m</E
+M>fredda</E
+M>succhiare una m</E
+M>acquistare due etti di mente</E
+M>glaciale</E
+M>selvatica</E
+M>Pulicaria dysenterica</E
+M>mentastro</E

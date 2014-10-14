@@ -1,0 +1,60 @@
+preda.txt
+"in preda a"
+"in preda a furia omicida"
+"in preda ad una frenesia omicida"
+"in preda al panico"
+"in preda al panico"
+"in preda al terrore"
+"in preda alle vertigini"
+"preda"
+"preda"
+"preda"
+"preda, bersaglio facile"
+"predatori, animali da preda"
+"puntare la preda"
+* [[bottino]],[[spoglie]]  (spec. di guerra), [[refurtiva]] (spec. di una [[rapina]]) 
+* [[balia]], [[potere]], [[pugno]], [[mano]]
+*italiano
+M>praeda</E
+M>bottino</E
+M>dividersi la p</E
+M>fare p</E
+M>i rapinatori hanno abbandonato la p. lungo la strada</E
+M>una ricca p</E
+M>una nave carica di p</E
+M>p. di guerra</E
+M>le p. conquistate ai nemici</E
+M>p. belliche</E
+M>diritto di preda</E
+M>p. marittime</E
+M>Tribunale</E
+M>Corte delle p</E
+M>Lasso</E
+M> ben so che dolorose prede Di noi fa quella ch&#8217;a null&#8217;uom perdona</E
+M>È risorto: or come a morte La sua p. fu ritolta?</E
+M>l&#8217;idea che ella fosse una p. facile e non pericolosa gli accese il sangue d&#8217;una cupa fiamma</E
+M>l&#8217;aquila afferrò la p. con gli artigli</E
+M>il leone puntava la p</E
+M>uccello da preda</E
+M>i cacciatori hanno fatto razzia di p. molto ricercate</E
+M>è tornato col carniere ricco di preda</E
+M>dare</E
+M>darsi in p. a una persona</E
+M>a una cosa</E
+M>essere in p. a qualcosa</E
+M>la foresta era in p. alle fiamme</E
+M>la barca era in p. alle onde</E
+M>essere in p. all&#8217;alcol</E
+M>alla droga</E
+M>essere in p. di qualcuno</E
+M>essere in p. alla disperazione</E
+M>alla sfiducia</E
+M>allo sgomento</E
+M>alla depressione</E
+M>al panico</E
+M>al rimorso</E
+M>essere</E
+M>cadere p. di qualcosa</E
+M>qualcuno</E
+M>cadde p. di un&#8217;allucinazione</E
+M>di un terribile male</E

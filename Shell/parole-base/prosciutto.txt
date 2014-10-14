@@ -1,0 +1,39 @@
+prosciutto.txt
+"avere gli occhi foderati di prosciutto"
+"garretto di prosciutto"
+"panino al prosciutto"
+"prosciutto"
+"prosciutto cotto"
+"prosciutto crudo"
+"uova e prosciutto"
+*[[prosciuttare]]
+*[[salame]], [[culatello]], [[affettatrice]], [[pane]], [[melone]], [[tagliere]], [[grasso]], [[pepe]], [[osso]], [[burro]], [[involtino]], [[tartina]], [[iberico]],   [[colesterolo]],  [[culatello]], [[filetto]], [[mortadella]], [[soppressata]]
+*italiano
+M>asciutto</E
+M>tipici</E
+M>nostrani</E
+M>di montagna</E
+M>p. cotto</E
+M>p. affumicato</E
+M>p. brasato</E
+M>p. al marsala</E
+M>p. di cinghiale</E
+M>p. di capriolo</E
+M>p. grasso</E
+M>magro</E
+M>l&#8217;osso</E
+M>la cotenna del p</E
+M>mangiare pane e p</E
+M>antipasto di fichi e p</E
+M>di p. e melone</E
+M>frittata col p</E
+M>piselli col prosciutto</E
+M>avere le orecchie foderate di p</E
+M>avere gli occhi foderati di p</E
+M>levarsi</E
+M>cavarsi</E
+M>la sete col p</E
+M>manica a prosciutto</E
+M>prosciutto</E
+M>le signore portavano i p.: quelle maniche enormi all&#8217;omero</E
+M> e che andavano via via affinando verso il polso</E

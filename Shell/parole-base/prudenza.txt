@@ -1,0 +1,30 @@
+prudenza.txt
+"con prudenza"
+"la prudenza innanzitutto!"
+"la prudenza non è mai troppa"
+"prudenza"
+"prudenza"
+*[[saggezza]], [[cautela]], [[calma]], [[accortezza]], [[giudizio]], [[previdenza]], [[oculatezza]], [[senno]], [[ponderatezza]], [[lungimiranza]], [[circospezione]], [[attenzione]], [[precauzione]]
+*[[imprudenza]], [[avventatezza]], [[sventatezza]], [[sconsideratezza]], [[leggerezza]], [[precipitazione]] 
+M>prudentia</E
+M>prudens</E
+M>entis</E
+M>avere p</E
+M>agire con p</E
+M>bisogna usare p</E
+M>il timore induce alla p</E
+M>consigliare la p</E
+M>guidate con p</E
+M>ti raccomando!</E
+M>la p</E
+M>non è mai troppa</E
+M>sono oggetti pericolosi che vanno maneggiati con estrema p</E
+M>per p</E
+M>preferì tacere</E
+M>per p</E
+M>ha preso l&#8217;abitudine di girare armato la notte</E
+M>segnale di p</E
+M>segnale di pericolo</E
+M>da la p</E
+M>vegnono li buoni consigli</E
+M>li quali conducono sé e altri a buono fine ne le umane cose e operazioni</E

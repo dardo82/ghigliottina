@@ -1,0 +1,26 @@
+adulto.txt
+"adulto"
+"adulto"
+"adulto"
+"adulto consenziente"
+"pannolone da adulto"
+*italiano
+*ido
+*portoghese
+*spagnolo
+M>adultus</E
+M>adolesc</E
+M>uomo a</E
+M>donna a</E
+M>i bambini e gli a</E
+M>riservato agli adulti</E
+M>l’età a</E
+M>forme a</E
+M>faccia a</E
+M>essere a</E
+M>in un’arte</E
+M>in una scienza</E
+M>mostra uno stile già adulto</E
+M>è adulto</E
+M>Par</E
+M>A li occhi di ciascuno il cui ingegno Ne la fiamma d’amor non è adulto</E

@@ -1,0 +1,19 @@
+saccheggiare.txt
+"saccheggiare"
+"saccheggiare"
+"saccheggiare"
+*[[distruggere]], [[devastare]], [[predare]], [[depredare]], [[razziare]]
+M>sacco</E
+M>io sacchéggio</E
+M>s. una città</E
+M>i nemici in fuga saccheggiarono tutte le case del villaggio</E
+M>i pirati assalirono la nave e la saccheggiarono.</E
+M>s. una banca</E
+M>una gioielleria</E
+M>per mangiare saccheggiavano con arditi colpi di mano le masserie che incontravano lungo il cammino</E
+M>per le feste di Natale i negozî di telefonia sono stati letteralmente saccheggiati</E
+M>le nevi ... saccheggiano i seminati</E
+M>amministratori disonesti che saccheggiano i fondi della società</E
+M>s. teorie altrui</E
+M>s. un libro</E
+M>un autore</E

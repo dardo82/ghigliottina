@@ -1,0 +1,34 @@
+studioso.txt
+"di studioso"
+"laborioso, operoso, studioso"
+"pensatore, studioso"
+"studioso"
+"studioso"
+"studioso di"
+"studioso di fossili"
+"studioso di scienze naturali"
+"studioso di scienze naturali"
+"studioso in scienze sociali"
+*[[diligente]]
+*[[studio]], [[studiosamente]]
+M>studiosus</E
+M>studium</E
+M>un ragazzo s.</E
+M>un allievo intelligente ma poco s.</E
+M>quest&#8217;anno dovete cercare di essere più studiosi</E
+M>un insigne s.</E
+M>le opinioni</E
+M>i pareri degli s.</E
+M>una s. di linguistica</E
+M>di semiotica</E
+M>di astrofisica</E
+M>di bioetica</E
+M>essere s. del bene altrui</E
+M>un ragazzo s. di apprendere</E
+M>Con cagne magre</E
+M> studïose e conte</E
+M>con s. sollecitudine</E
+M>s&#8217;accorse l&#8217;abate aver mangiate fave secche le quali egli studiosamente e di nascosto portate v&#8217;aveva</E
+M>la lor grassezza</E
+M>è molto più naturale che non è quella de&#8217; porci o d&#8217;altro animale che studiosamente s&#8217;ingrassi</E
+M>il re ... cominciò a fare studiosamente provvedimenti grandissimi di danari</E

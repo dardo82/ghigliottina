@@ -1,0 +1,26 @@
+trincea.txt
+"guerra di trincea"
+"trincea"
+"trincea"
+"trincea"
+"trincea"
+"trincea di media altezza"
+*[[trinceramento]], [[fossa]], linea trincerata
+*[[difesa]], [[sbarramento]], [[steccato]], [[argine]], [[barricata]], [[terrapieno]]
+* [[scavo]]
+*'' essere in trincea''
+*''guerra di trincea''
+M>tranchée</E
+M>trancher</E
+M>scavare una t.</E
+M>fortificare</E
+M>fortificarsi con trincee</E
+M>Impon che sian le tende indi munite E di fosse profonde e di trinciere</E
+M>guerra di t.</E
+M>guerra di posizione</E
+M>in trincea</E
+M>al fronte</E
+M>febbre delle t.</E
+M>febbre quintana</E
+M>fra rapine e violenze siamo un po&#8217; tutti in t.</E
+M>ci si sente tutti in trincea.</E

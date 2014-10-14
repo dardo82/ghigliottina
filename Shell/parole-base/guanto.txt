@@ -1,0 +1,75 @@
+guanto.txt
+"calzare come un guanto"
+"guanto"
+"guanto"
+"guanto da baseball"
+"guanto da baseball"
+"guanto di pelle di capretto"
+"guanto di protezione"
+"guanto di velluto"
+"lanciare il guanto di sfida"
+*[[guantato]]
+*''calzare come un guanto''
+M>want</E
+M>guantoni</E
+M>manopole</E
+M>mùffole</E
+M>un paio di guanti</E
+M>mettersi</E
+M>infilare</E
+M>calzare i g</E
+M>portare i g</E
+M>levarsi i g</E
+M>togliersi un g</E
+M>essere</E
+M>andare in guanti</E
+M>servire in guanti</E
+M>guanti di pelle</E
+M>di cinghiale</E
+M>di capretto</E
+M>di camoscio</E
+M>guanti di lana</E
+M>di seta</E
+M>di filo</E
+M>di pizzo</E
+M>foderati</E
+M>sfoderati</E
+M>imbottiti</E
+M>sportivi</E
+M>eleganti</E
+M>lunghi</E
+M>mezzi g</E
+M>mezziguanti</E
+M>guanti di gomma</E
+M>di plastica</E
+M>guanto chirurgico</E
+M> da chirurgo</E
+M>guanti d’amianto</E
+M>liturgici</E
+M>guanti da sci</E
+M>guanti da scherma</E
+M>guanti da boxe</E
+M>da pugilato</E
+M>guantóni</E
+M>guanti da baseball</E
+M>guanti da hockey su ghiaccio</E
+M>pelle morbida come un g</E
+M>calzare come un g</E
+M>trattare uno con i g</E
+M>con mano di ferro e g</E
+M>di velluto</E
+M>in g</E
+M>gialli</E
+M>ladro in g</E
+M>gialli</E
+M>gettare il g</E
+M>raccogliere il g</E
+M>Guanto d’armi</E
+M>manichino</E
+M>dorso</E
+M>dita</E
+M>prova del guanto di paraffina</E
+M>Guanto di Parigi</E
+M>guanto</E
+M>incrociare i guantoni</E
+M>appendere i guantoni</E

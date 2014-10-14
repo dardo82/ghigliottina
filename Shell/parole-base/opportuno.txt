@@ -1,0 +1,49 @@
+opportuno.txt
+"al momento opportuno"
+"al momento opportuno"
+"essere conveniente\/opportuno"
+"non considerare opportuno"
+"non ritenere opportuno"
+"opportuno"
+"pensare che sia opportuno fare qualcosa"
+"ritenere opportuno"
+* [[adatto]], [[appropriato]], [[consigliabile]], [[giusto]]
+* [[inopportuno]], [[sbagliato]]
+* [[opportunamente]], [[opportunismo]], [[opportunità]]
+M>opportunus</E
+M>portus</E
+M>fissare il tempo e il luogo o</E
+M>per un colloquio</E
+M>servirsi dei mezzi più o</E
+M>praticare le cure o</E
+M>al caso</E
+M>accamparsi in terreno o</E
+M>svolgere le o</E
+M>indagini</E
+M>prendere gli o</E
+M>accordi</E
+M>le istruzioni saranno comunicate al momento o</E
+M>non è stata una mossa molto o</E
+M>farò ciò che torna più opportuno</E
+M>sarà o</E
+M>non parlarne per ora</E
+M>trovò più o</E
+M>mantenere il silenzio</E
+M>abbiamo creduto o</E
+M>rinviare la seduta</E
+M>non m’è parso o</E
+M>dirglielo</E
+M>ritieni o</E
+M>avvertirlo?</E
+M>inopportuno</E
+M>importuno</E
+M>Quando poi d’età carco Il bisogno lo stringe</E
+M>Chiede o</E
+M>e parco Con fronte liberal che l’alma pinge</E
+M>non sei stato o</E
+M>a svegliarmi a quest’ora</E
+M>un visitatore poco opportuno</E
+M>provvedere opportunamente</E
+M>giungi molto opportunamente</E
+M>un’osservazione fatta opportunamente</E
+M>i termini per la consegna dovrebbero essere opportunamente rinviati</E

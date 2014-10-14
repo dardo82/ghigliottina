@@ -1,0 +1,77 @@
+lago.txt
+"bacino di lago"
+"fronte del lago"
+"la Signora del Lago"
+"lago"
+"lago"
+"lago artificiale"
+"Lago Ciad"
+"lago d'acqua dolce"
+"lago glaciale"
+"lago salato"
+"lago secco"
+"riva del lago"
+"trota di lago"
+#* ''il 
+#* ''il lavandino rotto ha formato un 
+*specchio d’acqua, [[bacino]]
+*[[pozza]], [[gora]]
+* [[allagamento]], [[allagare]], [[dilagare]], [[circumlacuale]],  [[girolago]],  [[lacustre]],  [[laguna]], [[lungolago]]
+* [[acqua]], [[baia]], [[barca]], [[diga]], [[emissario]], [[fiume]], [[fondale]], [[golfo]], [[immissario]], [[insenatura]], [[livello]], [[pescare]], [[pesce]], [[ramo]], [[seno]], [[torrente]]
+*[[lago]]
+*italiano
+*spagnolo
+M>lacus</E
+M>ghi</E
+M>il l</E
+M>di Garda</E
+M>il l</E
+M>Trasimeno</E
+M>le acque</E
+M>il bacino</E
+M>lo specchio</E
+M>le sponde del l</E
+M>pesci di l</E
+M>fauna</E
+M>flora dei laghi</E
+M>aperti</E
+M>chiusi</E
+M>permanenti</E
+M>temporanei</E
+M>carsici</E
+M>costieri</E
+M>craterici</E
+M>vulcanici</E
+M>di falda acquifera</E
+M>di ghiacciaio</E
+M>glaciali</E
+M>di escavazione glaciale</E
+M>meteorici</E
+M>di sbarramento</E
+M>morenici</E
+M>vulcanici</E
+M>tettonici</E
+M>artificiale</E
+M>di lava</E
+M>la regione dei l</E
+M>andare ai l</E
+M>villeggiare ai l</E
+M>il Mediterraneo fu un grande l</E
+M>romano</E
+M>Napoleone voleva fare del Mediterraneo un l</E
+M>francese</E
+M>ha rovesciato un catino d’acqua e ha fatto un l</E
+M>in terra</E
+M>per le abbondanti piogge</E
+M>la strada si era trasformata in un l</E
+M>il cadavere giaceva in un l</E
+M>di sangue</E
+M>ero in un l</E
+M>di sudore</E
+M>sanguigni</E
+M>cisterna</E
+M>cerebellare</E
+M>linfatico</E
+M>Lago del cuore</E
+M>Allor fu la paura un poco queta Che nel l</E
+M>del cor m’era durata</E

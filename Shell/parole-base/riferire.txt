@@ -1,0 +1,4 @@
+riferire.txt
+"http://api.wordreference.com/12bee/json/iten/riferire/"
+* [[raccontare]], [[dire]],  [[ascrivere]], [[attribuire]]
+*[[riferibile]], [[riferimento]]

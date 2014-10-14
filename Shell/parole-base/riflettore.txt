@@ -1,0 +1,18 @@
+riflettore.txt
+"riflettore"
+"riflettore parabolico"
+*[[faro]], [[luce]], [[proiettore]], [[lampada]]
+M>riflettere</E
+M>réflecteur</E
+M>per palcoscenico</E
+M>per teatri di posa</E
+M>per riprese cinematografiche</E
+M>televisive</E
+M>per illuminazione notturna</E
+M>accendere</E
+M>spegnere il r</E
+M>i riflettori</E
+M>telescopio catottrico</E
+M>a r</E
+M>riflettore</E
+M>schermo riflettore</E

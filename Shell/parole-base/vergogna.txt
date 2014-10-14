@@ -1,0 +1,79 @@
+vergogna.txt
+"che vergogna!"
+"è una vergogna che, è un peccato che"
+"gettare vergogna"
+"gettare vergogna"
+"non aver vergogna"
+"provare vergogna"
+"senza vergogna"
+"si vergogna"
+"sprofondare dalla vergogna"
+"vergogna"
+"vergogna"
+"vergogna"
+"vergogna"
+#*''che '''vergogna'''!''
+#*''sei la '''vergogna''' di questa famiglia!''
+*''(per un comportamento)'' [[imbarazzo]], [[disagio]], [[timore]];[[ confusione]], [[turbamento]], [[pentimento]], [[mortificazionbe]]
+*[[pudore]], [[timidezza]],[[timore]], [[riserbo]], [[verecondia]], [[modestia]], [[soggezione]]; [[rossore]]
+*''(per una situazione, un evento, eccetera)'' [[disonore]], [[infamia]], [[ignominia]], [[onta]], [[scorno]],[[macchia]], [[turpitudine]], [[abiezione]], [[scandalo]]; [[immoralità]], [[oscenità]], [[sconcezza]], [[nefandezza]]
+*''(per un comportamento)'' [[sicurezza]], [[impassibilità]], [[imperturbabilità]], faccia tosta
+*[[sfacciataggine]], [[sfrontatezza]], [[spudoratezza]], [[impertinenza]], [[impudenza]]
+*''(per una situazione, un evento, eccetera)'' [[onore]], [[dignità]]
+*[[vergognoso]], [[vergognarsi]]
+M>verec</E
+M>ndia</E
+M>sentire</E
+M>avere</E
+M>provare v. di qualche cosa</E
+M>avrei v. di comportarmi vigliaccamente come ha fatto lui</E
+M>non hai v. delle bugie che hai detto?</E
+M>aveva sempre nascosto</E
+M> per v.</E
+M> il suo passato</E
+M>non hai v. di andare in giro così</E
+M>mezza nuda</E
+M>vestito come un pezzente</E
+M>gente che non ha</E
+M>che non sente v.</E
+M>non avere v.</E
+M>non bisogna avere v. di chiedere ciò a cui si ha diritto</E
+M>il bambino sa tante poesie</E
+M> ma ha v. di recitarle quando c’è qualche estraneo</E
+M>si vergogna</E
+M>si fece avanti pieno di v.</E
+M>arrossire di v.</E
+M>per la v.</E
+M>essere rosso di v.</E
+M>E di trista v. si dipinse</E
+M>la donna</E
+M> che assai onesta persona era</E
+M> udendo così dire al marito</E
+M> tutta di v. arrossò</E
+M>Tutto avvampato di v. in faccia</E
+M>meglio la morte che la v.</E
+M>cose che fanno v.</E
+M>che tornano a v. di chi le fa</E
+M>povertà non fa v.</E
+M>rimanere in v.</E
+M>tornare a v.</E
+M>li falli d’Edippo</E
+M>paiono rimanere in v. del figlio</E
+M>vergogna!</E
+M>che vergogna!</E
+M>rispondere così ai genitori</E
+M> vergogna!</E
+M>è una v. quello che hai fatto</E
+M>che v. questa sporcizia per le strade!</E
+M>è una vera v.</E
+M> questo disservizio postale</E
+M>quando è necessario</E
+M> non è v. chiedere un favore</E
+M>quel ragazzo è la v. di tutta la famiglia</E
+M>le vergogne</E
+M>pudenda</E
+M>andava in giro per casa mezzo nudo</E
+M>mezza nuda</E
+M> senza neanche curarsi di nascondere le vergogne</E
+M>vergognétte</E
+M>vergogna</E

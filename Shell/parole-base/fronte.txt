@@ -1,0 +1,210 @@
+fronte.txt
+"a fronte di"
+"aggrottare la fronte"
+"dalla fronte gialla"
+"dalla fronte nera"
+"davanti a , di fronte a"
+"di fronte"
+"di fronte"
+"di fronte"
+"di fronte"
+"di fronte"
+"di fronte a"
+"di fronte a"
+"di fronte a"
+"di fronte a, alle prese con"
+"di fronte ad esso, alle prese con esso"
+"di fronte all'opinione pubblica"
+"di fronte alla morte"
+"dritto di fronte a"
+"esattamente di fronte"
+"essere di fronte"
+"far fronte"
+"far fronte a qcs."
+"fare fronte comune"
+"fronte"
+"fronte"
+"fronte"
+"fronte"
+"fronte"
+"fronte"
+"fronte atmosferico"
+"fronte compatto"
+"fronte del lago"
+"fronte del porto"
+"fronte di battaglia"
+"fronte freddo"
+"fronte meteorologico"
+"fronte per"
+"fronte politico"
+"fronte popolare"
+"fronte popolare"
+"fronte su"
+"fronte, fronte di battaglia"
+"guadagnato col sudore della fronte"
+"il davanti, il fronte"
+"mettere di fronte al fatto compiuto"
+"mettersi di fronte a"
+"non indietreggiare di fronte a"
+"prima linea, linea del fronte"
+"proprio di fronte"
+"proprio di fronte"
+"spianare la fronte"
+"trascinare (in tribunale; di fronte organo costituzionale)"
+"uno di fronte all'altro"
+"uno di fronte all'altro"
+*[[testa]]
+*''(di edificio) [[davanti]], [[facciata]]
+*''(militare)'' prima linea, linea del fuoco, zona di combattimento
+*[[didietro]], [[retro]]
+*''(militare)'' [[retrovie]], [[retroguardia]]
+*''a '''fronte''' alta''
+M>ns fr</E
+M>ntis</E
+M>una f</E
+M>alta</E
+M>bassa</E
+M>ampia</E
+M>spaziosa</E
+M>rugosa</E
+M>olimpica</E
+M>capelli cadenti sulla f</E
+M>baciare in f</E
+M>il sudore gl’imperlava la fronte</E
+M>Candida benda il f</E
+M>orna e colora</E
+M>turbata</E
+M>umile</E
+M>altera</E
+M>superba</E
+M>limpida</E
+M>aperta</E
+M>con lieta f</E
+M>con f</E
+M>serena</E
+M>Rispuos’io lui con vergognosa f</E
+M>gli si legge in f</E
+M>la bugia</E
+M>con che f</E
+M>potrei presentarmi a lui?</E
+M>abbassare</E
+M>chinare la f</E
+M>stare a f</E
+M>bassa</E
+M>tenere alta la f</E
+M>andare a f</E
+M>alta</E
+M>Mestier li fu d’aver sicura f</E
+M>sfrontato</E
+M>Con tanta f</E
+M>or gli tornava inante</E
+M>Ma pur coprendo sotto un’altra f. Van lor pensieri invidïosi e grami</E
+M>Una fera m’apparve da man destra</E
+M>Con f</E
+M>umana</E
+M>un palazzo con f</E
+M>porticata</E
+M>il f</E
+M>la f</E
+M>la f</E
+M>del tacco</E
+M>posizione di fronte</E
+M>in riga</E
+M>per due di fronte</E
+M>per tre di fronte</E
+M>fronte a destr</E
+M>fronte a sinistr</E
+M>fianco destr</E
+M>fianco sinistr</E
+M>rovesciamento di f</E
+M>dietro front</E
+M>fare dietro front</E
+M>linea di fronte</E
+M>principale</E
+M>secondario</E
+M>d’accerchiamento</E
+M>andare</E
+M>mandare al f</E
+M>tornare dal f</E
+M>il f</E
+M>occidentale</E
+M>orientale</E
+M>avanzare</E
+M>far retrocedere il f</E
+M>ferita riportata al f</E
+M>sul f.</E
+M>combattere</E
+M>impegnarsi</E
+M>essere impegnato su due f</E
+M>democratico</E
+M>nazionale</E
+M>patriottico</E
+M>del lavoro</E
+M>popolare</E
+M>fare</E
+M>costituire un f</E
+M>unico</E
+M>fare f</E
+M>comune</E
+M>il f</E
+M>interno</E
+M>fare fronte al nemico</E
+M>all’avversario</E
+M>fare f</E
+M>a una spesa</E
+M>fare f</E
+M>a un impegno</E
+M>fare f</E
+M>a un bisogno</E
+M>a un’evenienza</E
+M>tenere f</E
+M>Se ’l nome tuo nel mondo tegna f</E
+M>la f</E
+M>il f</E
+M>sgomberare la f</E
+M>a fronte</E
+M>traduzione italiana con testo a f</E
+M>tenere a f</E
+M>mettere a f</E
+M>due testimoni</E
+M>nessuno gli può stare a f</E
+M>a fronte a fronte</E
+M>i due avversarî stavano a fronte</E
+M>fronte</E
+M>Di fronte</E
+M>la casa posta di f</E
+M>alle scuole</E
+M>la parete di f</E
+M>me lo son trovato di f</E
+M>quando meno ne l’aspettavo</E
+M>fotografare</E
+M>ritrarre di f</E
+M>di f</E
+M>tremare</E
+M>fuggire</E
+M>essere impavido di f</E
+M>al nemico</E
+M>di f</E
+M>a un pericolo</E
+M>di f</E
+M>a tali ragioni dovette cedere</E
+M>rimase allibito di f</E
+M>a tanta audacia</E
+M>a fronte di</E
+M>a f</E
+M>di tanta tracotanza il mio silenzio era eloquente</E
+M>il compenso che ne ho avuto è troppo scarso a f</E
+M>della fatica che m’è costata</E
+M>In fronte</E
+M>in f</E
+M>al libro</E
+M>in f</E
+M>al giornale</E
+M>la fronte</E
+M>d’onda</E
+M>superficie d’onda</E
+M>di abbattimento</E
+M>superficie frontale</E
+M>fronte</E
+M>caldo</E
+M>freddo</E

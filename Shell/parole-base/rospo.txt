@@ -1,0 +1,44 @@
+rospo.txt
+"coda di rospo"
+"fuori il rospo!"
+"ingoiare il rospo"
+"rospo"
+"rospo"
+"rospo"
+"sputa il rospo!"
+"sputa il rospo!"
+"sputare il rospo"
+*[[coda di rospo]]
+*italiano
+M>Bufo</E
+M>comune</E
+M>Bufo bufo</E
+M>smeraldino</E
+M>Bufo viridis</E
+M>cornuto</E
+M>Ceratophrys dorsata</E
+M>del Suridan</E
+M>rana dorsigera</E
+M>Pipa</E
+M>rospo</E
+M>àlite</E
+M>ostetrico</E
+M>Pesce r</E
+M>rospo</E
+M>Lophius piscatorius</E
+M>Lophius budegassa</E
+M>pescatrice</E
+M>rana pescatrice.</E
+M>mal del r</E
+M>Ingoiare</E
+M>mandare giù un r</E
+M>il r</E
+M>è brutta come un r</E
+M>è proprio un r</E
+M>quella ragazza</E
+M>ha sposato quel r</E
+M>solo per i quattrini</E
+M>quel r</E
+M>del marito non vuole vedere nessuno</E
+M>il nuovo direttore è un vero r</E
+M>invecchiando è diventata un po&#8217; rospo</E

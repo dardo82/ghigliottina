@@ -1,0 +1,61 @@
+provvedere.txt
+"provvedere"
+"provvedere"
+"provvedere"
+"provvedere, replace: provvedersi"
+"provvedere a"
+"provvedere a qcn"
+"provvedere specificamente"
+#* al necessario per la scuola
+*[[fornire]], [[procurare]], [[preparare]]
+*[[privare]]
+M>prov</E
+M>pro</E
+M>vedere</E
+M>provvederò</E
+M>provvederèi</E
+M>i savi strolagi providdero che s&#8217;elli non stesse anni diece che non vedesse il sole</E
+M>che perderebbe lo vedere</E
+M>Novellino</E
+M>supplire a&#8217; bisogni d&#8217;alcune spese che non possono esser provvedute</E
+M>una città di viveri</E
+M>di strade asfaltate</E
+M>di rete metropolitana</E
+M>un appartamento di impianti igienici</E
+M>elettrici</E
+M>un esercito di munizioni</E
+M>provvedersi di vestiario</E
+M>di carburante</E
+M>provvedersi dell&#8217;occorrente per la caccia</E
+M>per la pesca</E
+M>provvediamoci per tempo della documentazione necessaria</E
+M>provvedersi di tutte le precauzioni</E
+M>i genitori devono p</E
+M>il necessario ai</E
+M>per i</E
+M>figli</E
+M>provvedetevi un po&#8217; di legna per quest&#8217;inverno</E
+M>alcuni</E
+M>venivan levati di terra</E
+M>rianimati</E
+M>ricoverati e provveduti per qualche tempo</E
+M>avere</E
+M>al mantenimento della famiglia</E
+M>con sollecitudine alle esigenze dei cittadini</E
+M>all&#8217;andamento di un&#8217;azienda</E
+M>al pericoloso dilagare dell&#8217;epidemia</E
+M>provvedi che tutto sia pronto per domani</E
+M>andate pure</E
+M>provvederò io a pagare il conto</E
+M>a chiudere casa</E
+M>non preoccupatevi</E
+M>ho già provveduto io a tutto</E
+M>cerca di p</E
+M>finché sei in tempo</E
+M>vai pure</E
+M>provvedo io</E
+M>ora che tutto è pronto</E
+M>sta a te provvedere</E
+M>Dio vede e provvede</E
+M>provedènte</E
+M>provvidente</E

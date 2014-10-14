@@ -1,0 +1,255 @@
+centrale.txt
+"amministrazione centrale"
+"balsa (albero dell'America centrale)"
+"banca centrale"
+"banca centrale"
+"banca centrale federale"
+"banconota emessa da una banca centrale"
+"centrale"
+"centrale"
+"centrale"
+"centrale"
+"centrale"
+"centrale"
+"centrale"
+"centrale"
+"tennis: campo centrale"
+"centrale atomica"
+"centrale del latte"
+"centrale di energia eolica"
+"centrale elettrica"
+"centrale elettrica"
+"centrale elettrica"
+"centrale elettrica"
+"centrale elettrica a carbone"
+"centrale energetica"
+"centrale idroelettrica"
+"centrale operativa"
+"centrale telefonica"
+"città centrale"
+"computer centrale"
+"corpo centrale"
+"Do centrale"
+"essere centrale"
+"idrovolante a scafo centrale"
+"impianto centrale"
+"l'idea centrale"
+"latte della centrale"
+"linea centrale"
+"nocciolo di qcs, punto centrale di qcs"
+"ora Centrale"
+"parte centrale"
+"parte centrale"
+"parte centrale"
+"parte centrale"
+"parte centrale"
+"parte centrale"
+"posizione centrale"
+"posta centrale"
+"processore centrale (informatica)"
+"rotaia centrale"
+"sezione centrale"
+"significato centrale"
+"sistema nervoso centrale"
+"staff centrale"
+"stazione centrale"
+"struttura che forma la parte centrale di una diga"
+"teatro con palcoscenico centrale arena"
+"teatro con palcoscenico centrale arena"
+"tendenza centrale"
+"teorema del limite centrale"
+"ufficio centrale"
+"ufficio centrale"
+"unità d'elaborazione centrale"
+#*''Sono nel banco '''centrale'''''
+#*''L'italia non possiede alcuna '''centrale''' atomica''
+*[[eco-centrale]], [[centralmente]]
+M>centralis</E
+M>centrum</E
+M>sede</E
+M>officina</E
+M>punto</E
+M>parte</E
+M>idea</E
+M>problema centrale</E
+M>Italia c</E
+M>Europa c</E
+M>Asia c</E
+M>Alpi centrali</E
+M>strada</E
+M>abitazione c</E
+M>il negozio è abbastanza c</E
+M>stazione c</E
+M>autonomo</E
+M>riscaldamento centrale</E
+M>sistema nervoso c</E
+M>sistema nervoso periferico</E
+M>placentazione c</E
+M>assile</E
+M>vocali c</E
+M>campo c</E
+M>forza c</E
+M>moto c</E
+M>governo c</E
+M>il potere c</E
+M>comitato c</E
+M>sede c</E
+M>la c</E
+M>di polizia</E
+M>una c</E
+M>d’informazioni</E
+M>una c</E
+M>di spionaggio</E
+M>d’ascolto</E
+M>elettrica</E
+M>idroelettriche</E
+M>termoelettriche</E
+M>geotermoelettriche</E
+M>nucleotermoelettriche</E
+M>elettronucleari</E
+M>aeroelettriche</E
+M>eoliche</E
+M>elioelettriche</E
+M>cimoelettriche</E
+M>talassoelettriche</E
+M>cimomotrici</E
+M>mareomotrici</E
+M>termica</E
+M>nucleare</E
+M>telefonica</E
+M>telefoniche urbane</E
+M>telefoniche interurbane</E
+M>telegrafica</E
+M>del latte</E
+M>di tiro</E
+M>di tiro</E
+M>di lancio</E
+M>d’incendio</E
+M>di bilanciamento</E
+"amministrazione centrale"
+"balsa (albero dell'America centrale)"
+"banca centrale"
+"banca centrale"
+"banca centrale federale"
+"banconota emessa da una banca centrale"
+"centrale"
+"centrale"
+"centrale"
+"centrale"
+"centrale"
+"centrale"
+"centrale"
+"centrale"
+"tennis: campo centrale"
+"centrale atomica"
+"centrale del latte"
+"centrale di energia eolica"
+"centrale elettrica"
+"centrale elettrica"
+"centrale elettrica"
+"centrale elettrica"
+"centrale elettrica a carbone"
+"centrale energetica"
+"centrale idroelettrica"
+"centrale operativa"
+"centrale telefonica"
+"città centrale"
+"computer centrale"
+"corpo centrale"
+"Do centrale"
+"essere centrale"
+"idrovolante a scafo centrale"
+"impianto centrale"
+"l'idea centrale"
+"latte della centrale"
+"linea centrale"
+"nocciolo di qcs, punto centrale di qcs"
+"ora Centrale"
+"parte centrale"
+"parte centrale"
+"parte centrale"
+"parte centrale"
+"parte centrale"
+"parte centrale"
+"posizione centrale"
+"posta centrale"
+"processore centrale (informatica)"
+"rotaia centrale"
+"sezione centrale"
+"significato centrale"
+"sistema nervoso centrale"
+"staff centrale"
+"stazione centrale"
+"struttura che forma la parte centrale di una diga"
+"teatro con palcoscenico centrale arena"
+"teatro con palcoscenico centrale arena"
+"tendenza centrale"
+"teorema del limite centrale"
+"ufficio centrale"
+"ufficio centrale"
+"unità d'elaborazione centrale"
+#*''Sono nel banco '''centrale'''''
+#*''L'italia non possiede alcuna '''centrale''' atomica''
+*[[eco-centrale]], [[centralmente]]
+M>centralis</E
+M>centrum</E
+M>sede</E
+M>officina</E
+M>punto</E
+M>parte</E
+M>idea</E
+M>problema centrale</E
+M>Italia c</E
+M>Europa c</E
+M>Asia c</E
+M>Alpi centrali</E
+M>strada</E
+M>abitazione c</E
+M>il negozio è abbastanza c</E
+M>stazione c</E
+M>autonomo</E
+M>riscaldamento centrale</E
+M>sistema nervoso c</E
+M>sistema nervoso periferico</E
+M>placentazione c</E
+M>assile</E
+M>vocali c</E
+M>campo c</E
+M>forza c</E
+M>moto c</E
+M>governo c</E
+M>il potere c</E
+M>comitato c</E
+M>sede c</E
+M>la c</E
+M>di polizia</E
+M>una c</E
+M>d’informazioni</E
+M>una c</E
+M>di spionaggio</E
+M>d’ascolto</E
+M>elettrica</E
+M>idroelettriche</E
+M>termoelettriche</E
+M>geotermoelettriche</E
+M>nucleotermoelettriche</E
+M>elettronucleari</E
+M>aeroelettriche</E
+M>eoliche</E
+M>elioelettriche</E
+M>cimoelettriche</E
+M>talassoelettriche</E
+M>cimomotrici</E
+M>mareomotrici</E
+M>termica</E
+M>nucleare</E
+M>telefonica</E
+M>telefoniche urbane</E
+M>telefoniche interurbane</E
+M>telegrafica</E
+M>del latte</E
+M>di tiro</E
+M>di tiro</E
+M>di lancio</E
+M>d’incendio</E
+M>di bilanciamento</E

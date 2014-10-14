@@ -1,0 +1,34 @@
+mutande.txt
+"giocarsi le mutande"
+"in mutande"
+"mutande"
+"mutande da donna"
+"paio di mutande"
+"rimanere in mutande"
+M>mutandae</E
+M>mutare</E
+M>vestes</E
+M>boxer</E
+M>culottes</E
+M>tanga</E
+M>un paio di m</E
+M>da uomo</E
+M>da donna</E
+M>corte</E
+M>lunghe</E
+M>di seta</E
+M>di cotone</E
+M>di nailon</E
+M>di flanella</E
+M>di lana</E
+M>di maglia</E
+M>essere senza camicia né m</E
+M>non avere né camicia né m</E
+M>restare</E
+M>rimanere in m</E
+M>mutandine da bagno</E
+M>costume</E
+M>costumino</E
+M>i mutandoni delle nostre nonne</E
+M>mutanda</E
+M>mutandina</E

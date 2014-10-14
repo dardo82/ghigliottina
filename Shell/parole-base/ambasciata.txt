@@ -1,0 +1,35 @@
+ambasciata.txt
+"ambasciata"
+"ambasciata"
+"ambasciata"
+*[[ambasceria]]
+*[[comunicazione]]
+*[[delegazione]]
+*[[legazione]]
+*[[messaggio]]
+*[[missione diplomatica]]
+*[[rappresentanza]]
+*[[ambasciatore]]
+*[[ammasciata]]
+*[[mbasciata]]
+*[[mmasciata]]
+*[[ambasciaturi]]
+*[[edificiu]]
+*[[missaggiu]]
+M>ambaissada</E
+M>ambactia</E
+M>l’a</E
+M>di Francia</E
+M>andare</E
+M>recarsi</E
+M>ricorrere all’a</E
+M>era intervenuta quasi tutta l’a</E
+M>d’Inghilterra</E
+M>solenne</E
+M>mi dica</E
+M>se i feciali</E
+M>chiedevan licenza d’esporre l’a</E
+M>mandare</E
+M>fare</E
+M>portare</E
+M>ricevere un’ambasciata</E

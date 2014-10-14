@@ -1,0 +1,92 @@
+piena.txt
+"a piena pagina"
+"avere la botte piena e la moglie ubriaca"
+"camera piena"
+"capsula piena d'acqua"
+"con piena funzionalità, con tutte le funzioni"
+"di luna piena"
+"in piena (di fiume)"
+"in piena attività"
+"in piena faccia"
+"in piena fioritura"
+"in piena fioritura"
+"in piena notte, a notte fonda"
+"in piena vista"
+"in piena vista"
+"livello di piena"
+"luna piena"
+"non si può avere la botte piena e la moglie ubriaca"
+"parola piena"
+"persona vivace, persona piena di vita, persona irrequieta"
+"piena"
+"piena"
+"piena attività"
+"piena autorità"
+"piena crescita"
+"piena di marea"
+"piena estate"
+"piena forza"
+"piena occupazione"
+"piena potenza"
+"piena primaverile"
+"prima luna piena dopo la mietitura"
+"stanza piena di fumo"
+#*''fiume in 
+*''(di corso d’acqua)'' [[fiumana]], [[alluvione]], [[inondazione]], [[straripamento]]
+*''(di suoni, luci, colori)'' [[abbondanza]], [[sovrabbondanza]], [[profusione]]
+*''(di corso d'acqua)'' [[magra]], [[secca]]
+*  
+*italiano
+*lettone
+*lombardo
+M>pieno</E
+M>ordinaria</E
+M>straordinaria</E
+M>eccezionale</E
+M>fase crescente</E
+M>di colmo</E
+M>decrescente di una p</E
+M>diagramma di piena</E
+M>fiume</E
+M>torrente in piena</E
+M>la fertilità dell&#8217;Egitto è dovuta alle inondazioni del Nilo nei periodi delle p</E
+M>l&#8217;alluvione di Firenze provocata dalla p</E
+M>dell&#8217;Arno nel novembre 1966</E
+M>case travolte dalla p</E
+M>la p.</E
+M>abbattuti gli argini</E
+M>ha invaso centinaia di ettari di campi coltivati</E
+M>piena di mare</E
+M>pronti alla partenza si aspettò l&#8217;ora della p</E
+M>del latte</E
+M>nel corso della nottata le era venuta la cosiddetta p</E
+M>del latte: ecco perché</E
+M>non riusciva a star quieta e si lamentava</E
+M>povera bestia!</E
+M>che p</E
+M>ieri sera a teatro!</E
+M>c&#8217;è stata una p</E
+M>straordinaria al suo ultimo concerto</E
+M>una discoteca in cui c&#8217;è sempre una gran p</E
+M>Renzo</E
+M>questa volta</E
+M>si trovava nel forte del tumulto</E
+M>non già portatovi dalla p.</E
+M>ma cacciatovisi deliberatamente</E
+M>una p</E
+M>di luci</E
+M>di colori</E
+M>di suoni</E
+M>non riuscire a soffocare la p</E
+M>dei sentimenti</E
+M>degli affetti</E
+M>dell&#8217;ira</E
+M>versare la p</E
+M>dell&#8217;amarezza</E
+M>del dolore</E
+M>nel cuore di un amico</E
+M>è grande La p</E
+M>del piacer che in sen gli abbonda</E
+M>questa è la prima volta che le apro il mio cuore: come reprimere la p</E
+M>de&#8217; pensieri?</E
+M>pieno</E

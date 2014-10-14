@@ -1,0 +1,46 @@
+lei.txt
+"a lei, le"
+"a lei"
+"di lei"
+"lei"
+"lei"
+"lei"
+"lei è"
+"lei è"
+"lei è una dura"
+"lei farà"
+"lei ha, lei farebbe"
+"lei no?"
+"lei stesso"
+#* ''
+m>llaei</e
+m>illa</e
+m>illi</e
+m>cui</e
+m>*illui</e
+m>ella</e
+m>lui</e
+m>parlane a lei</e
+m>beata lei</e
+m>non sembra più lei</e
+m>La pioggia cadde e a&rsquo; fossati venne Di lei ciò che la terra non sofferse</e
+m>voi</e
+m>ella</e
+m>verrò io stesso da lei</e
+m>faccia lei</e
+m>se la cosa avesse a decidersi a ciarle</e
+m>lei ci metterebbe in sacco</e
+m>la farò avvertire</e
+m>debbo dirle</e
+m>mi dica</e
+m>venga pure avanti</e
+m>lei è troppo buono</e
+m>signore</e
+m>dare del lei</e
+m>dar di lei</e
+m>a qualcuno</e
+m>loro</e
+m>lor signori</e
+m>ma lor signori son troppo giusti</e
+m>troppo ragionevoli</e
+m>voi</e

@@ -1,0 +1,100 @@
+voglia.txt
+"a voglia"
+"aver proprio voglia di"
+"aver solo voglia di piangere"
+"aver voglia di"
+"avere voglia"
+"avere voglia di"
+"avere voglia di"
+"avere voglia di fare qcs, morire dalla voglia di fare qcs"
+"avere voglia di fare qualcosa"
+"avere voglia di qcs, morire dalla voglia di qcs"
+"avere voglia di, sentirsela di"
+"Che dir si voglia"
+"di mala voglia"
+"hai voglia a"
+"hai voglia di"
+"hai voglia di fare una passeggiata?"
+"mi viene voglia di"
+"morendo dalla voglia di fare qcs"
+"morendo dalla voglia di qcs"
+"morire dalla voglia"
+"morire dalla voglia di"
+"morire dalla voglia di"
+"non avere voglia di lavorare"
+"non averne la benché minima voglia"
+"voglia"
+"voglia"
+"voglia"
+"voglia"
+"voglia di"
+"voglia di vivere"
+"voglia il cielo che"
+"voglia matta di"
+"voglia sulla pelle"
+*[[desiderio]], [[brama]], [[aspirazione]]
+*[[capriccio]], [[ghiribizzo]], [[sfizio]]
+*[[volontà]], [[disposizione]], [[intenzione]]
+*''di buona voglia''
+*''di mala voglia''
+M>volere</E
+M>doglia</E
+M>dolere</E
+M>vaglia</E
+M>valere</E
+M>volere</E
+M>volontà</E
+M>Perché recalcitrate a quella voglia A cui non puote il fin mai esser mozzo</E
+M>volontà</E
+M>un ragazzo che ha</E
+M>non ha v. di studiare</E
+M>volontà</E
+M>lavorare</E
+M>studiare di buona</E
+M>di cattiva v.</E
+M>sentirsi di buona</E
+M>di mala v.</E
+M>stare di buona v.</E
+M>fare qualche cosa contro v.</E
+M>controvoglia</E
+M>a sua v.</E
+M>buona voglia</E
+M>il cicognin che leva l’ala Per voglia di volare</E
+M>E se mia v. in ciò fusse compita</E
+M>Ancor m’avria tra’ suoi bei colli foschi Sorga</E
+M>basta spesso una v.</E
+M> per non lasciar ben avere un uomo</E
+M>ha natura sì malvagia e ria</E
+M> Che mai non empie la bramosa voglia</E
+M> E dopo ’l pasto ha più fame che pria</E
+M>Or ecco ch’una donna ha in man le chiavi D’ogni tua v.</E
+M>avrei v. di fare una passeggiata</E
+M>di bere un bicchier d’acqua</E
+M>di mangiare un bel piatto di spaghetti</E
+M>a sentirlo mi viene v. di ridere</E
+M>il prosciutto mette v. di bere</E
+M>quello che tu mi dici di lui mi fa crescer la v. di conoscerlo</E
+M>non ho v. di scherzare</E
+M>non mi sento la v. di parlare</E
+M>mi ha invitato a giocare con lui</E
+M> ma io non ne ho v.</E
+M>morire dalla v. di qualche cosa</E
+M>cavarsi</E
+M>levarsi la v. di qualche cosa</E
+M>restare con la v. in corpo</E
+M>un ragazzo pieno di voglie</E
+M>Ché voler ciò udire è bassa v.</E
+M>I’ fui colui che la Ghisolabella Condussi a far la v. del marchese</E
+M>la costrinse con la forza a cedere</E
+M>a sottomettersi</E
+M>alle proprie v.</E
+M>recare alle tue v. una donna più selvatica di Penelope?</E
+M>le è venuta la v. di fichi</E
+M> proprio fuori stagione</E
+M>me ne dia una v.</E
+M> di parmigiano</E
+M> ho già mangiato troppo</E
+M>una v. di grappa la prendo anch’io</E
+M>ha una voglia di fragola sulla guancia destra</E
+M>non ci pensare</E
+M> sennò il figlio lo farai con la voglia</E

@@ -1,0 +1,138 @@
+banco.txt
+"analgesico da banco"
+"banco"
+"banco"
+"banco"
+"banco"
+"banco"
+"banco"
+"banco da lavoro"
+"banco degli imputati"
+"banco dei testimoni"
+"banco dei testimoni"
+"banco della giuria"
+"banco di coralli"
+"banco di memoria"
+"banco di mutuo soccorso"
+"banco di nuvole"
+"banco di pesci"
+"banco di prova, banco prova"
+"banco di sabbia"
+"banco frigo"
+"banco gelati"
+"banco ottico"
+"banco prova"
+"compagno di banco"
+"cuscinetto di banco"
+"da banco (med)"
+"del banco dei testimoni"
+"far saltare il banco"
+"farmaco da banco"
+"medicinali da banco"
+"pack; banco di ghiaccio"
+"ricevere gli ammiratori; tenere banco"
+#*''banco di [[scuola]]''
+#* ''banco di [[chiesa]]''
+#*''banco dei [[Deputati]] o [[Senatori]]'', ''banco della [[Presidenza]]''
+#*''banco di [[sabbia]]'', ''banco di [[corallo]]''
+#*''prodotti da banco''
+*''(di scuola, degli imputati)'' [[sedile]], [[panca]], [[cassapanca]], [[scanno]], [[seggio]]
+*''(da falegname, di tipografia, di sartoria)'' [[tavolo]], [[tavolone]], [[bancone]]
+*[[banca]], istituto di credito, [[monte]], [[cassa]]
+*[[ammasso]], [[massa]], [[mucchio]], [[cumulo]], [[accumulo]], [[ammassamento]], [[lastra]], [[lastrone]]
+*[[sottobanco]]
+* [[banco corallino]], [[banco degli accusati]], [[banco degli imputati]], [[banco del lotto]], [[banco di comando]], [[banco di pegni]], [[banco di prova]], [[banco di tipografia]], [[banco frigo]], [[da banco]]
+*''scaldare il '''banco'''''
+*''tenere '''banco'''''
+*''sotto '''banco'''''
+*''banco del lotto''
+*italiano
+*spagnolo
+M>bank</E
+M>chi</E
+M>degli imputati</E
+M>dei rematori</E
+M>di scuola</E
+M>di chiesa</E
+M>il b</E
+M>della presidenza</E
+M>il b</E
+M>del governo</E
+M>i b</E
+M>dei deputati</E
+M>dei senatori</E
+M>i b</E
+M>di destra</E
+M>di centro</E
+M>di sinistra</E
+M>applausi</E
+M>grida di protesta da tutti i banchi</E
+M>sedere a b</E
+M>montare</E
+M>salire in b</E
+M>tenere b</E
+M>console di b</E
+M>notaio di b</E
+M>andare al b</E
+M>ora di b</E
+M>bancone</E
+M>di vendita</E
+M>stare al b</E
+M>giovane di b</E
+M>roba di sotto b</E
+M>di sotto il b</E
+M>passare una cosa a uno di sotto b</E
+M>sotto b</E
+M>prodotti da b.</E
+M>pubblico</E
+M>il b</E
+M>del pesce</E
+M>dell’erbivendolo</E
+M>il b</E
+M>dell’Ente comunale di consumo</E
+M>banco</E
+M>il b</E
+M>del tornio</E
+M>di prova</E
+M>di manovra</E
+M>micrometrico</E
+M>ottico</E
+M>macchina a b</E
+M>ottico</E
+M>stare in b</E
+M>andare al b</E
+M>banco modello</E
+M>tecnica economica d’impresa</E
+M>pubblici</E
+M>di S</E
+M>Giorgio</E
+M>di Sant’Ambrogio</E
+M>di Santo Spirito</E
+M>Banco di Sardegna</E
+M>Banco di Sicilia</E
+M>banco</E
+M>Banchi</E
+M>di giro</E
+M>di deposito e giro</E
+M>moneta di banco</E
+M>del lotto</E
+M>banco</E
+M>lotto</E
+M>avere</E
+M>tenere</E
+M>cedere</E
+M>perdere il b.</E
+M>banco</E
+M>il b</E
+M>vince</E
+M>il b</E
+M>paga</E
+M>far saltare il b</E
+M>corallino</E
+M>perlifero</E
+M>di sabbia</E
+M>di ghiaia</E
+M>di ghiaccio</E
+M>di nebbia</E
+M>di acciughe</E
+M>a banco</E

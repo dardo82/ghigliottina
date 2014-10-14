@@ -1,0 +1,7 @@
+elettricista.txt
+"elettricista"
+*[[radioelettricista]]
+*[[elettricità]], [[elettrotecnica]], [[elettronica]], [[elettromeccanica]]
+m>di cantiere</e
+m>di bordo</e
+m>di scena</e

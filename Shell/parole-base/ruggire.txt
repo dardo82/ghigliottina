@@ -1,0 +1,43 @@
+ruggire.txt
+"ruggire"
+"ruggire"
+"ruggire"
+* ''(del cinghiale)'' [[rugghiare]]
+* ''(dell'orso)'' [[rugliare]]
+* ''(del cervo)''  [[bramire]]
+*''(del cane)''  [[latrare]] 
+* (''di fenomeno naturale - mare'') [[muggire]],  [[rugliare]]
+* (''di fenomeno naturale - tuono'') [[brontolare]]
+* (''manifestare un sentimento'') [[vibrare]], [[palpitare]], [[fremere]] 
+*[[tacere]], [[sussurrare]], [[bisbigliare]]
+* (''dell'uomo'') [[mormorare]]
+*[[rugghiare]] 
+M>rug</E
+M>io ruggisco</E
+M>tu ruggisci</E
+M>egli ruggisce</E
+M>rugge</E
+M>noi ruggiamo</E
+M>voi ruggite</E
+M>essi ruggiscono</E
+M>rùggono</E
+M>avere</E
+M>il leone si fermò ruggendo paurosamente</E
+M>il leopardo</E
+M>la pantera</E
+M>il cinghiale gli si avventò contro ruggendo</E
+M>si dibatteva e ruggiva</E
+M>come una belva</E
+M>non parlava</E
+M>ruggiva</E
+M>ruggendo gli intimò</E
+M>&#171;Fuori di qui!&#187;</E
+M>ruggì alcune parole di minaccia</E
+M>il vento</E
+M>il mare</E
+M>la tempesta</E
+M>il fiume in piena ruggiva minacciosamente</E
+M>il fuoco si propagava</E
+M>le fiamme divamparono</E
+M>ruggendo</E
+M>Quello spirto guerrier ch&#8217;entro mi rugge</E

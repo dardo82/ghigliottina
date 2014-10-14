@@ -1,0 +1,21 @@
+bolletta.txt
+"bolletta"
+"bolletta"
+"bolletta scaduta"
+"pagare la bolletta"
+*[[caro-bolletta]]
+M>doganale</E
+M>del lotto</E
+M>del gas</E
+M>della luce</E
+M>dell’acqua</E
+M>dell’entrata</E
+M>dell’uscita</E
+M>del passo</E
+M>della ritratta</E
+M>del benefizio</E
+M>spezzare la b</E
+M>dei viandanti</E
+M>bolletta</E
+M>Essere</E
+M>trovarsi in b</E

@@ -1,0 +1,14 @@
+amnistia.txt
+"amnistia"
+*[[grazia]], [[condono]], [[perdono]], [[remissione]], 
+*[[indulto]]
+M>propria</E
+M>impropria</E
+M>concedere l’a</E
+M>decreto di a</E
+M>applicare l’a</E
+M>il decreto di a</E
+M>a un imputato</E
+M>a un condannato</E
+M>a un reato</E
+M>a una categoria di reati</E

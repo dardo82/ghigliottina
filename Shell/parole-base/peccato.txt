@@ -1,0 +1,145 @@
+peccato.txt
+"a pensar male si fa peccato, ma molto spesso ci si azzecca"
+"che peccato"
+"che peccato!"
+"come il peccato"
+"commettere peccato"
+"commettere peccato"
+"è un peccato che"
+"è un peccato che"
+"è un peccato che..."
+"è una vergogna che, è un peccato che"
+"peccato"
+"peccato"
+"peccato"
+"peccato"
+"peccato che"
+"peccato che tu te ne vada, mi spiace che tu te ne vada"
+"peccato grave"
+"peccato imperdonabile"
+"peccato imperdonabile"
+"peccato minore"
+"peccato mortale"
+"peccato mortale"
+"peccato originale"
+"si dice il peccato, non il peccatore"
+"vero peccato"
+"vivere nel peccato"
+#*''Toccarsi è '''peccato'''!''
+*[[colpa]], [[errore]] [[fallo]], [[mancanza]], [[sbaglio]], [[male]],  
+*[[peccatore]]
+*[[bene]], [[virtù]]
+*''Al medico, al confessore e all'avvocato, bisogna dire ogni '''peccato'''.''
+*''
+M>peccatum</E
+M>peccare</E
+M>Genesi</E
+M>originale</E
+M>Rom</E
+M>Cor</E
+M>originale</E
+M>peccatum originale</E
+M>attuale</E
+M>abituale</E
+M>originale</E
+M>attuale</E
+M>veniale</E
+M>mortale</E
+M>di commissione</E
+M>di omissione</E
+M>di pensiero</E
+M>di opere</E
+M>di desiderio</E
+M>carnale</E
+M>della carne</E
+M>contro natura</E
+M>vizio</E
+M>capitale</E
+M>fare</E
+M>commettere p</E
+M>cadere in p</E
+M>vivere in p</E
+M>in stato di p</E
+M>cogliere qualcuno in p</E
+M>non è p</E
+M>tornare indietro</E
+M>pentirsi d&#8217;una promessa fatta alla Madonna?</E
+M>sentire il rimorso del p</E
+M>pentirsi di un p</E
+M>espiare</E
+M>scontare un p</E
+M>assolvere da un p</E
+M>uscire di p</E
+M>Orribil furon li peccati miei; Ma la bontà infinita ha sì gran braccia</E
+M>Che prende ciò che si rivolge a lei</E
+M>piangere per i proprî p</E
+M>fare penitenza dei proprî p</E
+M>lavarsi dei p</E
+M>rimettere i p</E
+M>fare qualcosa in sconto dei proprî peccati</E
+M>L&#8217;Agnel di Dio che le peccata tolle</E
+M>chi è senza p</E
+M>scagli la prima pietra</E
+M>Giovanni</E
+M>qui sine peccato est vestrum</E
+M>primus in illam lapidem mittat</E
+M>confessato è mezzo perdonato</E
+M>dire il p</E
+M>e non il peccatore</E
+M>fare il p</E
+M>e la penitenza</E
+M>chi ha fatto il p</E
+M>faccia la penitenza</E
+M>non averci né colpa né p</E
+M>esser</E
+M>brutto come il p</E
+M>una cugina ce l&#8217;ho</E
+M>ma brutta come il p</E
+M>vivere nel p</E
+M>volete che vostra figlia non si mariti? Volete lasciarla nel peccato</E
+M>donna del p</E
+M>figlio del p</E
+M>della colpa</E
+M>dell&#8217;amore</E
+M>Ché &#8217;l furor de lassù</E
+M>gente ritrosa</E
+M>Vincerne d&#8217;intelletto</E
+M>Peccato è nostro</E
+M>e non natural cosa</E
+M>acciò che in parte per me s&#8217;amendi il p</E
+M>della fortuna</E
+M>lo punzecchiavano per la negligenza del vestiario e il disordine sullo scrittoio</E
+M>ch&#8217;erano i suoi soli peccati</E
+M>peccato</E
+M>peccati</E
+M>di gioventù</E
+M>di lingua</E
+M>di stile</E
+M>spero ch&#8217;Ella</E
+M>mi avrà perdonato i miei p</E
+M>mortali di lingua inglese</E
+M>essere</E
+M>dorme così bene che sarebbe un p</E
+M>un vero p</E
+M>svegliarlo</E
+M>è p</E
+M>sprecare il denaro</E
+M>è un p</E
+M>fare del bene a certa gente</E
+M>essere</E
+M>sua sorella è molto carina</E
+M>che abbia le gambe storte</E
+M>la festa era bella</E
+M>p. quella pioggia improvvisa</E
+M>pensare che potevi vincere tu: peccato!</E
+M>avere peccato di</E
+M>prendere peccato di</E
+M>che</E
+M>Poi madonna l&#8217;ha visto</E
+M>Megli&#8217;è ch&#8217;eo mora in quisto: Forse n&#8217;avrà peccato</E
+M>Non hai peccato Del meschin che more?</E
+M>pecà</E
+M>avere peccato di qualcuno</E
+M>fare peccato</E
+M>s&#8217;è pentito de&#8217; suoi peccatacci</E
+M>e vuol mutar vita</E

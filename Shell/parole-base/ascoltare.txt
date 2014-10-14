@@ -1,0 +1,55 @@
+ascoltare.txt
+"ascoltare"
+"ascoltare"
+"ascoltare"
+"ascoltare a"
+"ascoltare da dietro la porta"
+"ascoltare fino alla fine"
+"ascoltare il discorso di qc fino alla fine"
+"ascoltare; prestare orecchio"
+"ascoltare; prestare orecchio a"
+"farsi ascoltare"
+"farsi ascoltare"
+"impossibilitato ad ascoltare per il tanto chiasso"
+"non ascoltare"
+"sentire; ascoltare"
+"udire senza ascoltare"
+* (di soppiatto) [[origliare]]
+*(una conferenza, la messa ecc.) [[ seguire]],[[ partecipare]] 
+*(un consiglio, un suggerimento) [[ dare]] [[ ascolto]], [[ obbedire]] 
+* (una richiesta, una preghiera) [[ accogliere]]
+*[[ respingere]], [[rifiutare]]
+*[[ascolto]]
+*''Sii sollecito nell'ascoltare; tardo nel consigliare.''
+M>*asc</E
+M>ltare</E
+M>ausc</E
+M>ltare</E
+M>io ascólto</E
+M>un discorso</E
+M>una predica</E
+M>una lezione</E
+M>la messa</E
+M>stammi ad a</E
+M>tutti stavano ad ascoltarlo a bocca aperta</E
+M>ascoltarsi</E
+M>ascoltare sé stesso</E
+M>preferisco a</E
+M>che parlare</E
+M>parla poco ma ascolta con attenzione</E
+M>Attento si fermò com’uom ch’ascolta</E
+M>ascolta! ti debbo parlare seriamente</E
+M>ascoltate! cos’è questo baccano?</E
+M>ascoltami: ora noi torniamo subito a terra</E
+M> tu sbarcherai e non ti staccherai più dalla riva</E
+M>ascolta ciò che ti dico e ti troverai bene</E
+M>in famiglia</E
+M>è poco ascoltato</E
+M>la voce della coscienza</E
+M>è un benedetto ragazzo che non vuole a</E
+M>nessuno</E
+M>la sua preghiera è stata ascoltata</E
+M>auscultare</E
+M>con gran meraviglia degli</E
+M>delle</E
+M>ascoltanti</E

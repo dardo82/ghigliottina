@@ -1,0 +1,32 @@
+pistola.txt
+"calcio di pistola"
+"che gira con la pistola"
+"colpo di pistola"
+"estrarre la pistola"
+"estrarre una pistola"
+"montato su pistola"
+"pistola"
+"pistola"
+"pistola"
+"pistola"
+"pistola a caldo"
+"pistola a spruzzo"
+"pistola ad acqua"
+"pistola ad aria compressa"
+"pistola automatica"
+"pistola automatica"
+"pistola caricata a salve"
+"pistola dello starter"
+"pistola di grosso calibro"
+"pistola sparachiodi"
+"puntare la pistola su"
+"una pistola a tamburo"
+#*''pistola di fissaggio''
+* [[pistolero]]
+* [[fucile]], [[sparo]]
+*italiano
+*spagnolo
+M>epìstola</E
+M>Biancofiore piegò la scritta pistola</E
+M>l&#8217;antico volgarizzamento delle p</E
+M>d&#8217;Ovidio citato dalla Crusca</E

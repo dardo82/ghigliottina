@@ -1,0 +1,43 @@
+spostamento.txt
+"pressione di spostamento"
+"spostamento"
+"spostamento"
+"spostamento di carico"
+"spostamento lungo"
+M>lo s. provvisorio di una fermata d&#8217;autobus</E
+M>un impiego in cui si è soggetti a continui s. di sede</E
+M>la ricognizione aerea ha segnalato consistenti s. di truppe nemiche</E
+M>l&#8217;esplosione ha causato un forte s. d&#8217;aria</E
+M>s. di accento</E
+M>s. di orario</E
+M>di turni di lavoro</E
+M>di abitudini</E
+M>s. vettoriale</E
+M>spostamento</E
+M>di un punto</E
+M>s. infinitesimo</E
+M>s. elementare</E
+M>s. finito</E
+M>S. di un sistema</E
+M>S. virtuale</E
+M>s. reversibile</E
+M>s. irreversibile</E
+M>S. rigido di un sistema</E
+M>s. traslatorio</E
+M>s. rotatorio</E
+M>s. elicoidale</E
+M>s. regolare</E
+M>s. infinitesimo</E
+M>s. radioattivo</E
+M>s. elettrico</E
+M>induzione dielettrica</E
+M>displacement</E
+M>corrente di spostamento</E
+M>s. delle righe spettrali</E
+M>s. verso il rosso</E
+M>rotazione</E
+M>mutazione</E
+M>consonantica</E
+M>Lautverschiebung</E
+M>dislocamento</E
+M>scoccamento</E

@@ -1,0 +1,335 @@
+legge.txt
+"a norma di legge"
+"a norma di legge"
+"aggirare la legge"
+"agli occhi della legge"
+"ai sensi della legge"
+"assenza di legge"
+"bozza di legge"
+"braccio della legge"
+"chi legge la mano"
+"chi legge nel pensiero"
+"città in cui l'ufficio postale è presente per legge"
+"codice di legge"
+"codice di legge"
+"contro la legge"
+"corpo della legge"
+"davanti alla legge"
+"decreto legge"
+"di legge per l'assistenza ai poveri"
+"disegno di legge"
+"facoltà di legge"
+"garanzia a norma di legge"
+"garanzie di legge"
+"in nome della legge"
+"in violazione di legge"
+"infrangere la legge"
+"la legge"
+"la Legge"
+"la legge della giungla"
+"la Legge Ebraica"
+"la Legge Mosaica"
+"la legge prevede"
+"la nuova proposta di legge e' all'esame della Camera"
+"laurea in legge"
+"legge"
+"legge"
+"legge"
+"legge"
+"legge"
+"legge basica; fondamentale"
+"legge civile"
+"legge cosinusoidale"
+"legge costitutiva"
+"legge costituzionale"
+"legge dei gas"
+"legge dei gas perfetti"
+"legge dei grandi numeri"
+"legge del moto"
+"legge del più forte"
+"legge delega"
+"legge dell'inverso del quadrato della distanza"
+"legge della giungla"
+"legge della natura"
+"legge della natura"
+"legge di compensazione"
+"legge di conservazione dell'energia"
+"legge di gravità"
+"legge di Mosè"
+"legge ecclesiastica"
+"legge edilizia"
+"legge finanziaria"
+"legge fondiaria"
+"legge islamica"
+"legge locale"
+"legge locale"
+"legge locale"
+"legge marziale"
+"legge: di guerra"
+"legge militare"
+"legge mosaica"
+"legge n."
+"legge naturale"
+"legge non scritta"
+"legge ordinaria"
+"legge penale"
+"legge per l'assistenza ai poveri"
+"legge prescritta dalla Corte Suprema di uno stato"
+"legge quadro"
+"legge scritta"
+"legge statutaria"
+"legge stralcio"
+"legge transitoria"
+"legge sui minimi salariali"
+"legge sulla casa"
+"legge sulla circolazione"
+"legge sulla compensazione"
+"legge sulla prescrizione"
+"legge sulla privacy"
+"legge sulle pratiche scorrette"
+"legge universale"
+"legge urbanistica"
+"limiti di legge"
+"lungo braccio della legge"
+"nel rispetto della legge"
+"obblighi di legge"
+"obbligo di legge"
+"onere di legge"
+"osservante della legge"
+"per legge"
+"previsto dalla legge"
+"prima legge della termodinamica"
+"prima stesura di una legge"
+"processo nelle dovute forme di legge"
+#*legge della [[domanda]] e dell'[[offerta]]
+* ordinamento giudiziario, ambito legale, [[legalità]], [[legittimità]]
+*[[legislazione]], [[regolamento]], [[statuto]], [[codice]], [[decreto]], [[normativa]], [[ordine]], [[bando]], [[editto]], progetto di legge, [[provvedimento]], [[disposizione]], [[direttiva]]
+*[[diritto]], scienza del diritto, scienza giuridica, [[giurisprudenza]]
+*[[giustizia]], [[autorità]], [[potere]], [[facoltà]]
+*[[ norma]], [[regola]], [[canone]], [[ precetto]], [[prescrizione]], [[direttiva]] 
+*''(del diritto canonico)'' [[canone]] 
+*''(di uno stato)'' [[legislazione]],[[ ordinamento]], [[giurisprudenza]]
+*[[norma]], [[regola]], [[consuetudine]], [[tradizione]], [[uso]], [[prassi]], [[precetto]]
+*''(di un settore)'' [[normativa]], [[regolamento]], [[disposizione]]
+*''(come disciplina di studio)'' [[diritto]], [[giurisprudenza]] 
+*''(facoltà universitaria)'' [[giurisprudenza]] 
+*''(autorità giudiziaria)'' [[ giustizia]], [[magistratura]], 
+*[[legislatura]], [[legislatore]], [[legiferare]], [[fuorilegge]]
+*''dettar legge''
+* ''se non sei [[re]], non far la '''legge''' nuova e lascia tutto come si trova''
+*''spirito della legge''
+*''sono più i [[caso|casi]] che le '''leggi'''
+*''dura '''lex''', sed '''lex'''''
+*''fatta la '''legge''', trovato l'[[inganno]]''
+* ''la [[necessità]] non ha '''legge'''''
+* '''''legge''' del [[taglione]]''
+* '''''legge''' [[w
+*italiano
+M>lex l</E
+M>gis</E
+M>scritta</E
+M>positiva</E
+M>legge</E
+M>naturale</E
+M>morale</E
+M>divina</E
+M>umana</E
+M>in tanta afflizione e miseria della nostra città era la reverenda auttorità delle leggi</E
+M>così divine come umane</E
+M>quasi caduta</E
+M>di Mosè</E
+M>mosaica</E
+M>tavole della l</E
+M>dieci comandamenti</E
+M>decalogo</E
+M>la legge</E
+M>antica</E
+M>nuova</E
+M>la l</E
+M>antica</E
+M>la vecchia l</E
+M>la nuova l</E
+M>la quale usura non sol fu dannata da Aristotele</E
+M>ma proibita ancora nella nuova l</E
+M>e nella vecchia</E
+M>la l</E
+M>di Maometto</E
+M>la l</E
+M>del Corano</E
+M>formali</E
+M>leggi</E
+M>Le l</E
+M>son</E
+M>ma chi pon mano ad esse?</E
+M>Purg</E
+M>speciali</E
+M>generali</E
+M>costituzionali</E
+M>ordinarie</E
+M>rafforzata</E
+M>finanziaria</E
+M>eccezionali</E
+M>regionali</E
+M>provinciali</E
+M>civile</E
+M>militare</E
+M>ecclesiastica</E
+M>agraria</E
+M>fiscale</E
+M>elettorale</E
+M>sanitarie</E
+M>penali</E
+M>leggi di polizia</E
+M>di pubblica sicurezza</E
+M>marziale</E
+M>la l</E
+M>salica</E
+M>la l</E
+M>delle guarentigie</E
+M>decreto l</E
+M>delega</E
+M>delegata</E
+M>ponte</E
+M>quadro</E
+M>cornice</E
+M>stralcio</E
+M>promulgare</E
+M>proporre</E
+M>approvare</E
+M>discutere</E
+M>votare</E
+M>modificare</E
+M>abolire</E
+M>abrogare</E
+M>interpretare</E
+M>applicare una l</E
+M>presentare un disegno</E
+M>una proposta di l</E
+M>alla Camera</E
+M>al Senato</E
+M>stabilire per l</E
+M>con l</E
+M>convertire un decreto in l</E
+M>osservare</E
+M>rispettare</E
+M>eseguire</E
+M>far eseguire</E
+M>violare</E
+M>eludere la l</E
+M>mite</E
+M>severa</E
+M>giusta</E
+M>iniqua</E
+M>provvida</E
+M>barbara</E
+M>mostruosa</E
+M>draconiana</E
+M>raccolta di leggi</E
+M>il testo</E
+M>gli articoli della l</E
+M>lo spirito della l</E
+M>lettera della l</E
+M>procedere a norma</E
+M>ai termini</E
+M>a termini</E
+M>di legge</E
+M>fatta la l</E
+M>trovato l’inganno</E
+M>la l</E
+M>francese</E
+M>la l</E
+M>inglese</E
+M>la l</E
+M>degli Stati Uniti</E
+M>dello stato</E
+M>obbedire alla l</E
+M>conoscere la l</E
+M>tutti sono uguali davanti alla legge</E
+M>studiare legge</E
+M>laurea in legge</E
+M>dottore in legge</E
+M>giurisprudenza</E
+M>uomo di legge</E
+M>di leggi</E
+M>in nome della l</E
+M>il braccio della l</E
+M>rimanere nella l</E
+M>esser fuori della l</E
+M>un fuori l</E
+M>i fuori l</E
+M>senza legge</E
+M>dopo lui verrà di più laida opra Di ver ponente un pastor sanza legge</E
+M>Et è questo del seme</E
+M>Per più dolor</E
+M>del popol senza l</E
+M>aver forza di legge fra le parti</E
+M>far legge</E
+M>l’uso spesso fa l</E
+M>Parigi fa l</E
+M>in fatto di moda</E
+M>farsi una l</E
+M>di una cosa</E
+M>mi son fatto una l</E
+M>di aiutare chiunque ricorre a me</E
+M>dare</E
+M>dettar legge</E
+M>il tuo desiderio è l</E
+M>per me</E
+M>non vuol ricevere legge che da sé stesso</E
+M>non avere</E
+M>non conoscere legge</E
+M>il bisogno non ha l</E
+M>la fame non conosce legge</E
+M>le l</E
+M>della grammatica</E
+M>della sintassi</E
+M>metriche</E
+M>le l</E
+M>della pittura</E
+M>della prospettiva</E
+M>dell’armonia</E
+M>conoscere le l</E
+M>del gioco</E
+M>regole</E
+M>osservare le l</E
+M>della moda</E
+M>le l</E
+M>dell’onore</E
+M>dell’amicizia</E
+M>attenersi alle l</E
+M>della buona educazione</E
+M>alle norme</E
+M>ai principî</E
+M>la l</E
+M>del taglione</E
+M>la l</E
+M>del contrappasso</E
+M>le l</E
+M>della malavita</E
+M>la l</E
+M>del silenzio</E
+M>la l</E
+M>della giungla</E
+M>naturali</E
+M>di natura</E
+M>fisiche</E
+M>chimiche</E
+M>economiche</E
+M>biologiche</E
+M>legge</E
+M>secondo una certa legge</E
+M>probabilistica</E
+M>della caduta dei gravi</E
+M>empiriche</E
+M>universali</E
+M>principio</E
+M>il principio</E
+M>legge</E
+M>di conservazione dell’energia</E
+M>legge</E
+M>la l</E
+M>della gravitazione universale</E
+M>di Newton</E
+M>la l</E
+M>di Proust</E
+M>delle proporzioni definite e costanti</E

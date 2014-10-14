@@ -1,0 +1,63 @@
+vigore.txt
+"acquistare vigore"
+"con vigore"
+"entrare in vigore"
+"essere in vigore"
+"essere in vigore"
+"in pieno vigore"
+"in vigore"
+"in vigore"
+"in vigore"
+"in vigore"
+"in vigore a partire da"
+"in vigore alla data"
+"messa in vigore"
+"perdere vigore"
+"vigore"
+"vigore"
+"vigore fisico"
+"vigore ibrido (eterosi)"
+"vigore muscolare"
+* [[forza]], [[robustezza]], [[vigoria]], "[[pienezza]]"
+* (di stile, prosa) [[efficacia]], [[validità]], [[valore]]
+*(di un essere vivente) [[vitalità]], [[efficienza]], [[risolutezza]]
+*''(di un essere vivente)''  [[fiacchezza]], [[spossatezza]], [[debolezza]], [[fragilità]], [[gracilità]], [[delicatezza]] 
+*[[vigorosità]], [[vigoroso]]
+M>vigor -oris</E
+M>vig</E
+M>un uomo ancora nel pieno del suo v</E
+M>dopo la pioggia le piante hanno ripreso v</E
+M>il concime dà v. al terreno</E
+M>il v. della giovinezza</E
+M>è ormai anziano</E
+M> ma ha il v. di un giovane</E
+M>perdere v</E
+M>riprendere</E
+M>acquistare v</E
+M>dopo la malattia non ha più il v. di prima</E
+M>cibo</E
+M>bevanda che dà vigore</E
+M>un cane da caccia</E
+M>un cavallo da corsa nel pieno del suo v</E
+M>questa azalea ha ormai perso il v</E
+M>sta riprendendo vigore</E
+M>il v. della mente</E
+M>dell’ingegno</E
+M>essere nel pieno v. delle proprie forze creative</E
+M>protestare</E
+M>reagire con v</E
+M>il v. stilistico di uno scrittore</E
+M>il v. di un’esecuzione musicale</E
+M>Quelle pietose rime ... Ebben tanto vigor nel mio conspetto Che ratto a questa penna la man porsi</E
+M>il v. di un colore</E
+M>di una tinta</E
+M>Sofronia</E
+M> per consentimento degl’iddii e per vigor delle leggi umane ... è mia</E
+M>entrare</E
+M>andare</E
+M>essere</E
+M>rimanere in vigore</E
+M>una legge che non è più in v</E
+M>il regolamento in v. non consente</E
+M>le norme in v. vietano</E
+M>la disposizione andrà in v. con l’inizio dell’anno venturo</E

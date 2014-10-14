@@ -1,0 +1,138 @@
+strumento.txt
+"guastarsi (di uno strumento)"
+"strumento"
+"strumento"
+"strumento"
+"strumento a fiato"
+"strumento a fiato"
+"strumento a fiato (di legno)"
+"strumento a percussione"
+"strumento chirurgico, ferro chirurgico"
+"strumento di autorizzazione ad agire in qualità di curatore testamentario"
+"strumento di cultura"
+"strumento di lavoro"
+"strumento di precisione"
+"strumento di tortura"
+"strumento di tortura con cui veniva schiacciati i pollici, vite a galletto"
+"strumento elettronico per pesca d'altura"
+"strumento giuridico"
+"strumento meccanico che può essere anche azionato manualmente"
+"strumento medico"
+"strumento musicale"
+"strumento musicale a fiato (flauto, oboe, clarinetto e fagotto)"
+"strumento ottico"
+"strumento per arare"
+"strumento per arare"
+"strumento per lucidare"
+"strumento per suonare"
+"strumento preciso"
+"strumento tagliente"
+"strumento, apparecchio elettronico"
+"strumento, arnese"
+"timbro della voce o di uno strumento musicale"
+*[[arnese]],[[attrezzo]]
+*[[strumentale]], [[strumentalismo]], [[strumentalità]], [[strumentalizzare]], [[strumentare]], [[strumentario]],[[strumentazione]], [[strumentista]]
+M>instrum</E
+M>ntum</E
+M>instru</E
+M>procurarsi</E
+M>acquistare gli s. di lavoro</E
+M>s. rurali</E
+M>agricoli</E
+M>gli s. dell&#8217;artigiano</E
+M>gli antichi s. di tortura</E
+M>s. chirurgici</E
+M>s. ottici</E
+M>elettrici</E
+M>chimici</E
+M>s. di osservazione</E
+M>rilevatori</E
+M>segnalatori</E
+M>s. di misurazione</E
+M>s. di misura</E
+M>s. di valutazione</E
+M>s. di misurazione diretta</E
+M>s. di misurazione indiretta</E
+M>s. tarati</E
+M>s. integratori</E
+M>s. registratori</E
+M>s. a lettura diretta</E
+M>a lettura indiretta</E
+M>s. analogici</E
+M>s. digitali</E
+M>a indicazione numerica</E
+M>S. portatili</E
+M>s. da pannello</E
+M>da quadro</E
+M>s. da laboratorio</E
+M>s. campione</E
+M>s. elettrochimici</E
+M>elettrotermici</E
+M>elettrostatici</E
+M>termoelettrici</E
+M>elettroottici</E
+M>s. elettromagnetici</E
+M>s. a bobina mobile</E
+M>s. elettrodinamici</E
+M>s. a campo rotante</E
+M>a induzione</E
+M>s. a ferro mobile</E
+M>s. a vibrazione</E
+M>S. elettronici</E
+M>s. multipli</E
+M>multimetri</E
+M>analizzatori universali</E
+M>tester</E
+M>S. ottici</E
+M>s. per la visione</E
+M>s. per la formazione di immagini reali</E
+M>s. per misurazioni ottiche</E
+M>s. ottici di misurazione</E
+M>s. di bordo</E
+M>s. nautici</E
+M>S. musicali</E
+M>strumenti</E
+M>un violinista che conosce tutti i segreti del suo s.</E
+M>una composizione per voci e strumenti</E
+M>accordare gli s.</E
+M>non vi potrei mai divisare</E
+M>chenti e quanti sieno i dolci suoni d&#8217;infiniti strumenti e i canti</E
+M>fu caro a le feroci genti L&#8217;altero suon de&#8217; bellici instrumenti</E
+M>s. a corda</E
+M>s. ad arco</E
+M>archi</E
+M>s. a pizzico</E
+M>a corde pizzicate</E
+M>s. a fiato</E
+M>legni</E
+M>ottoni</E
+M>s. a percussione</E
+M>s. aerofoni</E
+M>cordofoni</E
+M>idiofoni</E
+M>membranofoni</E
+M>Strumento di pace</E
+M>instrumentum pacis</E
+M>pace</E
+M>fare della penna uno s. di lotta</E
+M>sfruttò la sua gloria militare come s. di potere</E
+M>non voglio essere s. dell&#8217;ambizione altrui</E
+M>si rifiutò di essere s. delle sue manovre</E
+M>ciò che per gli altri sarebbe stata la maggior difficoltà</E
+M> era s. per lui</E
+M>s. urbanistici</E
+M>complemento di s.</E
+M>complemento di mezzo</E
+M>istrumento</E
+M>s. di cessione</E
+M>di vendita</E
+M>fare</E
+M>rogare</E
+M>stipulare uno s.</E
+M>egli</E
+M> essendo notaio</E
+M> avea grandissima vergogna quando uno de&#8217; suoi strumenti</E
+M> come che pochi ne facesse</E
+M> fosse altro che falso trovato</E
+M>S. confessionato</E
+M>guarentigiato</E

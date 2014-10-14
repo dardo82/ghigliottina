@@ -1,0 +1,55 @@
+ginocchio.txt
+"cadere in ginocchio"
+"ginocchio"
+"ginocchio"
+"giuntura del ginocchio, articolazione del ginocchio"
+"in ginocchio"
+"in ginocchio"
+"mettere in ginocchio"
+"osso del ginocchio"
+"piegare il ginocchio"
+"riflesso del ginocchio"
+"sbucciarsi il ginocchio"
+#* ''hai un buco nel 
+*[[inginocchiare]], [[inginocchiatoio]], [[ginocchiata]]
+* ''far venire il latte alle '''ginocchia'''''
+* ''gettarsi alle '''ginocchia''' di qualcuno''
+* ''mettere in '''ginocchio''' qualcuno
+* ''piegare le '''ginocchia''' davanti a qualcuno''
+M>gen</E
+M>lum</E
+M>gen</E
+M>lum</E
+M>genu</E
+M>chi</E
+M>le ginòcchia</E
+M>si sentì simile a un dio il centrattacco vittorioso</E
+M> mentre tornava</E
+M> coi g. sanguinanti e le scarpe squarciate</E
+M> alla testa d’un esercito di compagni inebriati</E
+M>piegare</E
+M>flettere un g</E
+M>le ginocchia</E
+M>sentirsi piegare le g</E
+M>piegare le g</E
+M>in ginocchio</E
+M>stare in g</E
+M>mettersi in g</E
+M>buttarsi in g</E
+M>mettere in g</E
+M>cadere</E
+M>gettarsi alle g</E
+M>di qualcuno</E
+M>l’avvenire giace sulle g</E
+M>di Giove</E
+M>fa venire il latte alle g</E
+M>hai i g</E
+M>tutti consunti</E
+M>mettere una toppa</E
+M>un rinforzo al ginocchio</E
+M>piegare</E
+M>curvare a g</E
+M>formare un g</E
+M>garretto</E
+M>trave a ginocchio</E
+M>a gomito</E

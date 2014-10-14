@@ -1,0 +1,108 @@
+pagina.txt
+"a piena pagina"
+"da prima pagina"
+"dietro la pagina"
+"è tempo di voltare pagina"
+"finire in prima pagina, conquistarsi l'onore delle cronache"
+"foto a tutta pagina"
+"impostazione pagina"
+"nella pagina accanto"
+"nota a piè di pagina"
+"nota a piè di pagina"
+"pagina"
+"pagina"
+"pagina"
+"contenuto di una pagina"
+"pagina"
+"pagina"
+"pagina"
+"pagina"
+"pagina"
+"pagina"
+"pagina del copyright"
+"pagina dello sport"
+"pagina di riepilogo"
+"pagina in allestimento"
+"pagina modello"
+"pagina precedente"
+"pagina seguente"
+"pagina standard"
+"prima pagina"
+"prima pagina"
+"prima pagina (giornale)"
+"prima pagina del giornale"
+"scorrere una pagina"
+"sull'altro lato della pagina"
+"titolo a tutta pagina"
+"ultima pagina"
+"voltar pagina, cambiare vita"
+*[[foglio]], [[facciata]], [[faccia]], [[carta]], [[stampato]]
+*(tipografia) [[lamina]]
+*[[impaginare]]
+*''andare in pagina''
+*italiano
+*latino
+M>pag</E
+M>pag</E
+M>pang</E
+M>un libro di 300 p</E
+M>numerare le p</E
+M>un foglio scritto su tutte e due le p</E
+M>facciate</E
+M>vedi a pagina</E
+M>pag</E
+M>vedi le pagine</E
+M>pagg</E
+M>12-13</E
+M>note a piè di pagina</E
+M>andare a capo pagina</E
+M>capo pagina</E
+M>sfogliare le p</E
+M>di un libro</E
+M>di una rivista</E
+M>di un album</E
+M>scorrere le p</E
+M>un libro che si legge con piacere dalla prima p</E
+M>all&#8217;ultima</E
+M>andare in p</E
+M>Pagine bianche</E
+M>pagina</E
+M>foglio</E
+M>di rispetto</E
+M>prima p</E
+M>terza p</E
+M>quarta p</E
+M>fuori pagina</E
+M>fuoripagina</E
+M>Pagine gialle</E
+M>a questo libro mancano due p</E
+M>strappare le p</E
+M>di un quaderno</E
+M>voltare pagina</E
+M>devo studiare trenta p</E
+M>di storia</E
+M>pagine e pagine in cui lo stesso concetto viene ripreso cento volte</E
+M>le sacre p</E
+M>il romanzo ha pagine di grande efficacia</E
+M>le più belle p</E
+M>di Italo Calvino</E
+M>una raccolta di p</E
+M>scelte</E
+M>è una p</E
+M>suggestiva</E
+M>una p</E
+M>eroica del Risorgimento</E
+M>sarebbe (per dirla con un&#8217;eleganza moderna) una bella p</E
+M>nella storia della famiglia</E
+M>scrivere una bella p</E
+M>una p</E
+M>indimenticabile</E
+M>una p</E
+M>immortale</E
+M>mettere in p</E
+M>impaginare</E
+M>p. web</E
+M>aprire una p. web</E
+M>attingere informazioni da una p. web</E
+M>superiore</E
+M>inferiore</E

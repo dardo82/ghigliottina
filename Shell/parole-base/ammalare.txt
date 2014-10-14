@@ -1,0 +1,9 @@
+ammalare.txt
+"ammalare, replace: ammalarsi"
+"far ammalare"
+*[[ammalarsi]], [[ammalato]]
+M>mia madre ammalò verso dicembre</E
+M>tutte le pecore ammalarono</E
+M>m’ammalai alla fine dell’inverno</E
+M>s’ammalarono tutti uno dopo l’altro</E
+M>una persona infetta ammala le altre</E

@@ -1,0 +1,41 @@
+partita.txt
+"a partita finita"
+"aprire la partita iva"
+"bel gioco, bella partita"
+"capo partita"
+"contabilità a partita doppia"
+"contabilità a partita doppia"
+"dare il via a una partita di baseball"
+"del baseball: stare dentro tutta la partita"
+"essere della partita"
+"numero di partita iva"
+"partita"
+"partita"
+"partita"
+"partita"
+"partita a baseball"
+"partita a tre palle"
+"partita amichevole"
+"partita aperta"
+"partita catastale"
+"partita di calcio"
+"partita di calcio"
+"partita di consolazione, gioco riservato a chi è stato eliminato"
+"partita di coppa ad eliminazione"
+"partita di football"
+"partita di ritorno"
+"partita di spareggio"
+"partita doppia"
+"partita IVA"
+"partita iva (p.i.)"
+"partita persa in partenza"
+"partita semplice"
+"partita serrata, partita combattuta, partita equlibrata"
+"partita tavolare"
+"telecronaca della partita"
+*[[quantitativo]], [[quantità]], [[stock]], [[lotto]], [[blocco]]
+*''(contabilità)'' [[conto]], [[registrazione]], [[conteggio]], [[computo]]
+*''(di porta, finestra, mobile)'' [[anta]], [[battente]]
+*[[competizione]], [[incontro]], [[match]], [[gara]], [[sfida]], [[scommessa]], [[cimento]], [[gioco]]
+*''saldare una partita''
+*Enciclopedia [http

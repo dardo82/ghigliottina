@@ -1,0 +1,39 @@
+colorare.txt
+"colorare"
+"colorare"
+"colorare di giallo"
+"colorare di viola"
+"libro da colorare"
+"libro da colorare"
+*[[colorire]]
+*[[colorabile]], [[colorante]], [[colorarsi]], [[colorato]], [[coloratura]], [[colorazione]]
+*[[colore]]
+M>col</E
+M>rare</E
+M>io colóro</E
+M>un quadro</E
+M>le varie parti di un disegno</E
+M>di giallo</E
+M>di verde</E
+M>c. in giallo</E
+M>in verde</E
+M>c. a tempera</E
+M>a olio</E
+M>c. con il pennarello</E
+M>lo strazio e ’l grande scempio Che fece l’Arbia colorata in rosso</E
+M>la luce colora gli oggetti</E
+M>colorarsi</E
+M>al contatto di un acido</E
+M>la cartina al tornasole si colora di rosso</E
+M>Ma la vita mortal</E
+M>poi che la bella Giovinezza sparì</E
+M>non si colora D’altra luce giammai</E
+M>né d’altra aurora</E
+M>colorarsi di giallo</E
+M>qui la faccenda si colora di giallo</E
+M>una scarna faccia simpatica</E
+M>mobile</E
+M>pronta a colorarsi e a scolorarsi</E
+M>le frasi</E
+M>saper c</E
+M>bene una menzogna</E

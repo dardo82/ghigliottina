@@ -1,0 +1,56 @@
+sistemare.txt
+"risolvere, sistemare"
+"sistemare"
+"sistemare"
+"sistemare"
+"sistemare"
+"sistemare"
+"sistemare"
+"sistemare"
+"sistemare"
+"sistemare in anticipo"
+"sistemare pagamento anticipato"
+"sistemare per classe"
+"sistemare per famiglia"
+"sistemare qc"
+"sistemare qualcosa"
+"sistemare una faccenda"
+"sistemare; predisporre"
+* mettere in ordine, [[ordinare]], [[organizzare]], [[strutturare]], [[assestare]], [[mettere]], [[collocare]], [[disporre]], [[posizionare]], [[piazzare]]
+*[[aggiustare]], [[accomodare]], [[riparare]], [[migliorare]], [[perfezionare]], [[rifinire]], [[regolare]]
+*[[disordinare]], [[disfare]], [[sconvolgere]], [[stravolgere]]
+*[[rompere]], [[spaccare]], [[spezzare]], [[distruggere]], [[rovinare]]
+*[[sistemarsi]]
+M>io sistèmo</E
+M>s. uno stato</E
+M>un&#8217;amministrazione pubblica</E
+M>s. la casa</E
+M>i mobili</E
+M>i quadri</E
+M>s. le carte</E
+M>gli appunti</E
+M>le schede</E
+M>s. una lite</E
+M>una vertenza</E
+M>è una questione che va sistemata</E
+M>prima o poi</E
+M> le cose si sistemeranno</E
+M>non ho ancora trovato da s. convenientemente la famiglia</E
+M>per ora mi sono sistemato presso la famiglia di mio zio</E
+M>non appena ci saremo sistemati</E
+M> inviteremo gli amici</E
+M>il direttore ha sistemato nell&#8217;azienda tutti i suoi parenti</E
+M>in una situazione economica così critica è difficile s. tanti giovani disoccupati</E
+M>è un bravo ragazzo</E
+M> e si è sistemato molto bene</E
+M>è laureato da tre anni e non riesce ancora a sistemarsi</E
+M>aveva quattro figlie e le ha sistemate tutte e quattro</E
+M>è una bella ragazza e troverà facilmente da sistemarsi</E
+M>si è sistemato con una brava ragazza</E
+M>ora ti sistemo io!</E
+M>se lo viene a sapere suo padre</E
+M> lo sistema come si merita!</E
+M>una specie di mammiferi non ancora sistemata</E
+M>un ambiente ben sistemato</E
+M>una vertenza sistemata con piena soddisfazione di entrambe le parti</E
+M>una ragazza ben sistemata</E

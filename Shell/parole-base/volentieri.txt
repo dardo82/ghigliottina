@@ -1,0 +1,43 @@
+volentieri.txt
+"fare volentieri"
+"mal volentieri"
+"mal volentieri, con difficoltà"
+"spesso e volentieri"
+"volentieri"
+"volentieri"
+#* ''Ti aiuterò '''volentieri'''''
+M>volentiers</E
+M>voluntarie</E
+M>volontà</E
+M>volontario</E
+M>studiare</E
+M>lavorare v.</E
+M>ce ne occuperemo v.</E
+M>stanno v. insieme</E
+M>ascolto v. la musica classica</E
+M>ci verrei v. ma non posso</E
+M>accetto v. il vostro invito</E
+M>e non è cosa Che sì volentier pensi</E
+M> e sì sovente</E
+M>Mi puoi dare una mano?</E
+M>Volentieri</E
+M>la reina</E
+M> verso la Fiammetta rivolta</E
+M> che ella seguitasse le comandò; la quale tutta lieta rispose che volentieri</E
+M>ammaina</E
+M>fila</E
+M>ala volentieri</E
+M>molto</E
+M>assai v.</E
+M>ben v.</E
+M>malvolentieri</E
+M>ti ospiterò ben v.</E
+M>spesso e v.</E
+M>volentieri</E
+M>spesso</E
+M>viene spesso e v. a farci visita</E
+M>è un filo spesso e v. si rompe</E
+M>in quel punto della strada capitano spesso e v. incidenti</E
+M>volentierissimo</E
+M>vi aiuterò volentierissimo</E
+M>accetto volentierissimo</E

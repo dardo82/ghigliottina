@@ -1,0 +1,68 @@
+zuppa.txt
+"se non è zuppa è pan bagnato"
+"zuppa"
+"zuppa"
+"zuppa"
+"zuppa alla panna"
+"zuppa di carne in umido"
+"zuppa di miso"
+"zuppa di molluschi e latte"
+"zuppa di patate"
+"zuppa di pesce"
+"zuppa di pollo"
+"zuppa di pomodoro"
+"zuppa di tartaruga"
+"zuppa di verdure"
+"zuppa inglese"
+* [[minestrone]], [[brodetto]], [[pancotto]], [[minestra]]
+*''(minestra costituita da un brodo...)''  [[pappa]], [[broda]], [[brodaglia]], [[sbobba]]
+*''(miscela di cose eterogenee che danno idea di disordine)''  [[insalata]], [[macedonia]],   [[accozzaglia]], [[farragine]],   [[mescolanza]], [[minestrone]]
+*''(discorso noioso)''    [[lagna]] [[tiritera]], [[rottura]], [[menata]], [[rottura di scatole]], [[scocciatura]]
+* [[zuppa di verdura]], [[zuppa di fagioli]], [[zuppa di pesce]], [[zuppa inglese]]
+*''Se non è 
+*''Chi vuol far l'altrui mestiere, fa la 
+*italiano
+M>*suppa</E
+M>zuppare</E
+M>z. di verdure</E
+M>z. di legumi</E
+M>z. certosina</E
+M>z. contadina</E
+M>alla paesana</E
+M>z. di fagioli</E
+M>di piselli</E
+M>di fave</E
+M>di ceci</E
+M>di lenticchie</E
+M>z. alla pavese</E
+M>z. di vongole</E
+M>z. di cozze alla marinara</E
+M>zuppa di pesce</E
+M>boiabessa</E
+M>brodetto</E
+M>buridda</E
+M>cacciucco</E
+M>qual pane hai</E
+M> tal z. avrai</E
+M>chi vuol far l’altrui mestiere</E
+M> fa la z. nel paniere</E
+M>se non è z.</E
+M> è pan bagnato</E
+M>è pan molle</E
+M>Z. inglese</E
+M>invece di distinguere i fatti reali da quelli immaginarî</E
+M> ha fatto tutta una z.</E
+M>che z.</E
+M> quell’articolo</E
+M>quella conferenza</E
+M>questa commedia</E
+M> né uscio né finestra sbarrata salvava dalla z. sonora di liti</E
+M> pranzi</E
+M> sciacquoni</E
+M> feste</E
+M> lutti e insonnie altrui</E
+M>Fare la z.</E
+M>fare la z. nel brodo</E
+M>nel latte</E
+M>nel vino</E
+M>nel marsala</E

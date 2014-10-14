@@ -1,0 +1,15 @@
+sbriciolare.txt
+"frantumarsi, sbriciolare, replace: frantumarsi, sbriciolarsi"
+"sbriciolare"
+"sbriciolare"
+M>briciola</E
+M>io sbrìciolo</E
+M>s. il pane</E
+M>i biscotti</E
+M>un dolce</E
+M> prendo una scatola di biscotti da uno scaffale</E
+M> la strappo a pezzi per aprirla; estraggo un paio di frollini che mi si sbriciolano tra le dita</E
+M>l&#8217;esplosione ha sbriciolato la parete</E
+M>era un fuoco d&#8217;inferno</E
+M> una grandine di palle di piombo che ... screpolava i muri e sbriciolava i tegoli</E
+M>avete sbriciolato tutta la tovaglia.</E

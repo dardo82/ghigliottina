@@ -1,0 +1,40 @@
+marrone.txt
+"cintura marrone"
+"colore grigio marrone"
+"dalla pelle marrone"
+"di colore marrone"
+"di colore marrone e nero"
+"di colore marrone giallastri"
+"di colore nero marrone"
+"marrone"
+"marrone"
+"marrone"
+"di color marrone"
+"marrone"
+"marrone"
+"marrone ambrato"
+"marrone antico"
+"marrone cacao"
+"marrone caffé"
+"marrone castagno"
+"marrone che dà sul grigio"
+"marrone chiaro"
+"marrone chiaro"
+"marrone cioccolato"
+"marrone cuoio"
+"marrone dorato"
+"marrone rossiccio"
+"marrone scuro"
+"marrone scuro"
+"marrone-grigio"
+"marrone\/giallo"
+"nero e marrone"
+"topo marrone scuro di ponte"
+#*''Luigi ha una camicia marrone'' 
+* col significato di castagno
+* col significato di errore
+* col significato di cavallo
+*[[castano]], [[bruno]], color caffè, color cioccolata
+*guida di montagna 
+*animale da tiro 
+*[[colore]]

@@ -1,0 +1,11 @@
+pedale.txt
+"freno a pedale"
+"pedale"
+"pedale"
+"pedale"
+"pedale"
+"pedale"
+"pedale"
+"pedale d'avviamento"
+"pedale del freno"
+"pompa a pedale"

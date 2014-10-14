@@ -1,0 +1,180 @@
+informazione.txt
+"contro informazione"
+"dritta; informazione privilegiata"
+"informazione"
+"informazione"
+"informazione"
+"informazione certa"
+"informazione effettiva"
+"informazione generalmente nota"
+"macchina dell'informazione"
+"mancanza di informazione"
+"media dell'informazione"
+"media dell'informazione"
+"organo di informazione"
+"per completezza di informazione"
+"pezzo di informazione"
+"ricevere una informazione"
+"scienza dell'informazione"
+"teoria dell'informazione"
+"unità di informazione"
+*[[mala-informazione]], [[disinformazione]]
+*[[notizia]], [[dato]], [[notificazione]], [[avviso]], [[indicazione]], [[rapporto]], [[relazione]], [[ragguaglio]]
+*[[chiarimento]], [[spiegazione]], [[delucidazione]]
+*[[stampa]], [[giornalismo]], mass media, trasmissione di notizie; [[cultura]], [[insegnamento]], [[preparazione]]
+*[[disinformazione]], [[ignoranza]], [[silenzio]]
+M>informare</E
+M>informatio</E
+M>onis</E
+M>altrimenti è disposta la terra nel principio de la primavera a ricevere in sé la i</E
+M>de l’erbe e de li fiori</E
+M>e altrimenti lo verno</E
+M>per una più esauriente i</E
+M>sull’argomento si vedano i volumi</E
+M>libertà d’informazione</E
+M>dare</E
+M>chiedere</E
+M>ricevere un’i</E
+M>l’i</E
+M>era esatta</E
+M>si è rivelata inesatta</E
+M>assumere</E
+M>dare informazioni</E
+M>per informazioni rivolgersi alla segreteria</E
+M>giornale che dispone di un ottimo servizio d’informazioni</E
+M>chiedere</E
+M>fornire i</E
+M>riservate sulla capacità professionale</E
+M>sulla moralità di una persona</E
+M>Ufficio d’informazioni</E
+M>ufficio informazioni</E
+M>Agenzia d’informazioni</E
+M>I. militare</E
+M>servizio di i</E
+M>militari</E
+M>Servizî informazioni</E
+M>servizî informazioni di sicurezza</E
+M>diplomatica</E
+M>informazione</E
+M>avviso</E
+M>di garanzia</E
+M>i. monodimensionali</E
+M>Pulse Position Modulation</E
+M>i. bidimensionali</E
+M>procedimento di analisi</E
+M>pixel</E
+M>procedimento di sintesi</E
+M>informazione</E
+M>messaggio</E
+M>audio</E
+M>sonoro</E
+M>video</E
+M>visivo</E
+M>genetica</E
+M>unità d’i</E
+M>bit</E
+M>I. al secondo</E
+M>megainformazione al secondo</E
+M>istruzione al secondo</E
+M>megaistruzione al secondo.</E
+M>Teoria dell’i</E
+"name": "Teoria dell'informazione"
+"name": "Informazione"
+"name": "Architettura dell'informazione"
+"name": "Informazione di Fisher"
+"name": "L'informazione"
+"name": "Era dell'informazione"
+"name": "Informazione. Il nuovo linguaggio della scienza"
+"name": "Gioco a informazione completa"
+"name": "Scandalo dell'Informazione"
+"name": "Filosofia dell'informazione"
+"name": "Agenzia europea per la sicurezza delle reti e dell'informazione"
+"name": "Trattamento dell'informazione"
+"name": "Informazione parziale linearizzata"
+"name": "Societ\u00e0 dell'informazione"
+"name": "Comitato esecutivo per i servizi di informazione e sicurezza"
+"name": "Paradosso dell'informazione del buco nero"
+"name": "L'informazione"
+"name": "Controllo dell'informazione"
+"name": "L'informazione"
+"name": "L'informazione"
+"name": "Controllo dell'informazione"
+"name": "Tecnologie dell'informazione e della comunicazione"
+"name": "Criterio di informazione Bayesiano"
+"name": "Unit\u00e0 di informazione"
+"name": "Informazione mutua"
+"name": "Informazione mutua puntuale"
+"name": "Dipartimento di informazione pubblica"
+"name": "Sistema d'informazione del mercato interno"
+"name": "Direttiva relativa al riutilizzo dell'informazione del settore pubblico"
+"name": "Informazione mutua quantistica"
+"name": "Istituto di scienza e tecnologie dell'informazione"
+"name": "Autorit\u00e0 di Informazione Finanziaria"
+"name": "Primetime Emmy Award al miglior programma di informazione"
+"name": "International Emmy Award al miglior programma d'informazione"
+"name": "Daytime Emmy Award al miglior talk show d'informazione"
+"name": "Centro d'Informazione sulla pena di morte"
+"name": "Istituto per l'Architettura dell'Informazione"
+"name": "TCA Award al miglior programma di informazione e notizie"
+"name": "Gemini Award alla miglior regia in un programma o serie di informazione"
+"name": "NAACP Image Award alla miglior serie o speciale di cronaca o informazione"
+"name": "NAACP Image Award alla miglior serie di informazione, news e talk show"
+"name": "Gemini Award alla miglior sceneggiatura in un programma o serie d'informazione"
+"name": "Gemini Award alla miglior fotografia in un programma o serie di informazione"
+"name": "Gemini Award al miglior montaggio in un programma o serie di informazione"
+"name": "NAACP Image Award alla miglior serie o speciale di informazione, news e talk show"
+"name": "Canadian Screen Award al miglior speciale di informazione"
+"name": "NAACP Image Award al miglior speciale di informazione, news e talk show"
+"name": "Canadian Screen Award alla miglior serie di informazione giornalistica"
+"name": "Canadian Screen Award al miglior segmento di informazione giornalistica"
+"name": "Canadian Screen Award al miglior programma di informazione giornalistica"
+"name": "Canadian Screen Award al miglior conduttore o intervistatore in un programma o serie di informazione giornalistica"
+"name": "Canadian Screen Award alla miglior regia in un programma o serie di informazione giornalistica"
+"name": "Canadian Screen Award al miglior sonoro in un programma o serie documentaristici/di informazione o di lifestyle"
+"name": "Canadian Screen Award al miglior montaggio in un programma o serie di informazione"
+"name": "Gemini Award alla miglior serie di cronaca e informazione"
+"name": "Gemini Award alla miglior serie di informazione leggera"
+"name": "Gemini Award al miglior segmento di produzione dell'informazione"
+"name": "Gemini Award alla miglior regia in un programma o serie di cronaca e informazione"
+"name": "Gemini Award al miglior sonoro in un programma o serie di informazione o documentaristici"
+"name": "Gemini Award al miglior segmento di cronaca e informazione"
+"name": "Gemini Award al miglior conduttore o intervistatore in un programma o serie di cronaca e informazione"
+"name": "Gemini Award al miglior conduttore o intervistatore in un programma o serie di cronaca e informazione, talk show, lifestyle o interesse generale"
+"name": "Gemini Award al miglior conduttore o intervistatore in un programma o serie talk show o di informazione generale"
+"name": "Gemini Award alla miglior fotografia in un programma o serie di informazione o documentaristici"
+"name": "Gemini Award alla miglior regia in un programma o serie di informazione o documentaristici"
+"name": "Gemini Award alla miglior sceneggiatura in un programma o serie di informazione o documentari"
+"name": "Gemini Award al miglior montaggio in un programma o serie di informazione o documentaristici"
+"name": "Gemini Award al miglior conduttore in un programma o serie di informazione leggera, variet\u00e0 o arti performative"
+"name": "ALMA Award al miglior programma di informazione nazionale"
+"name": "ALMA Award al miglior conduttore in un programma di informazione nazionale"
+"name": "ASTRA Award al miglior programma di informazione"
+"name": "ASTRA Award alla miglior produzione locale di informazione e documentari"
+"name": "Scienza dell'informazione"
+"name": "Primetime Emmy Award all'eccezionale risultato individuale nella programmazione  di informazione \u2013 Regia"
+"name": "Primetime Emmy Award all'eccezionale risultato nella programmazione di informazione"
+"name": "Primetime Emmy Award all'eccezionale risultato individuale nella programmazione di informazione \u2013 Sceneggiatura"
+"name": "Daytime Emmy Award all'informazione sullo spettacolo"
+"name": "Primetime Emmy Award all'eccezionale risultato nella programmazione per bambini \u2013 Informazione o programmi dal vero"
+"name": "News \u0026amp; Documentary Emmy Award all'eccezionale programmazione di informazione o culturale \u2013 Segmenti"
+"name": "News \u0026amp; Documentary Emmy Award all'eccezionale programmazione di informazione o culturale \u2013 Programmi"
+"name": "Indian Television Academy Award al miglior presentatore \u2013 Show di informazione o attualit\u00e0"
+"name": "Primetime Emmy Award al miglior speciale di informazione"
+"name": "Primetime Emmy Award all'eccezionale risultato individuale nella programmazione di informazione"
+"name": "Primetime Emmy Award all'eccezionale risultato nella programmazione nel campo dell'informazione"
+"name": "Daytime Emmy Award alle migliori serie o speciali di informazione o educativi per bambini"
+"name": "Daytime Emmy Award alla miglior serie d'informazione per bambini"
+"name": "News \u0026amp; Documentary Emmy Award all'eccezionale programmazione di informazione, culturale o storica"
+"name": "Academy of Country Music Award alla testata di informazione dell'anno"
+"name": "Primetime Emmy Award alla miglior performance nella programmazione di informazione"
+"name": "Primetime Emmy Award alla migliore sceneggiatura nella programmazione di informazione"
+"name": "Primetime Emmy Award all'eccezionale risultato individuale nella programmazione di informazione \u2013 Fotografia"
+"name": "Primetime Emmy Award all'eccezionale risultato individuale nella programmazione di informazione \u2013 Sonoro"
+"name": "Primetime Emmy Award all'eccezionale risultato individuale nella programmazione di informazione \u2013 Montaggio"
+"name": "Daytime Emmy Award al miglior speciale di informazione per bambini"
+"name": "Primetime Emmy Award all'eccezionale risultato nella programmazione di informazione  \u2013  Esecuzione"
+"name": "Indian Telly Award al miglior format show su un canale di informazione"
+"name": "Daytime Emmy Award alla miglior programmazione di informazione o educativa \u2013 Forma breve"
+"name": "Daytime Emmy Award al miglior speciale di informazione o educativo per bambini \u2013 Forma breve"
+"name": "Daytime Emmy Award al miglior speciale di informazione o educativo per bambini"
+"name": "Daytime Emmy Award alla miglior serie di informazione o educativa per bambini"

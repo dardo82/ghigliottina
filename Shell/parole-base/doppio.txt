@@ -1,0 +1,234 @@
+doppio.txt
+"a disco doppio"
+"a doppio effetto"
+"a doppio fondo"
+"a doppio petto"
+"a doppio servizio"
+"a doppio strato"
+"a doppio taglio"
+"a doppio taglio"
+"a doppio uso, bivalente"
+"arma a doppio taglio"
+"bi-blocco, doppio blocco"
+"comunicazione a doppio senso"
+"con doppia canna; avente doppio significato"
+"doppio"
+"doppio"
+"doppio"
+"doppio"
+"doppio"
+"doppio (canottaggio)"
+"doppio concerto"
+"doppio fallo"
+"doppio fondo"
+"doppio incontro"
+"doppio legame"
+"doppio letto"
+"doppio mento"
+"doppio misto"
+"doppio senso"
+"doppio significato"
+"doppio spazio"
+"doppio specchio"
+"doppio strato"
+"doppio vincolo"
+"duplex, doppio"
+"fare il doppio gioco"
+"giacca a doppio petto"
+"il doppio o niente"
+"il doppio o niente"
+"inganno, doppio gioco"
+"lavorare il doppio"
+"panino doppio"
+"panna liquida; doppio misto (tennis)"
+"parola o espressione a doppio senso"
+"parole o espressioni a doppio senso"
+"più del doppio"
+" o doppio)"
+"ricompensa adeguata; la morte paga doppio"
+"salto doppio"
+"spada a doppio taglio"
+"spia che fa il doppio gioco"
+"strada a doppio senso di marcia"
+"test in doppio cieco"
+"vederci doppio"
+"vedere doppio"
+*[[raddoppiato]], [[doppiato]]
+*[[duplice]], [[duplicato]]
+*[[dimezzato]]
+*[[semplice]], [[scempio]] 
+*''(di copia, esemplare ecc.)'' [[unico]] 
+*''(nel tennis)'' [[singolare]] 
+*[[raddoppio]]
+*''fare il doppio gioco''
+M>plus</E
+M>duo</E
+M>ricevere d</E
+M>paga</E
+M>fare d</E
+M>fatica</E
+M>avere d</E
+M>razione</E
+M>prendere d</E
+M>dose</E
+M>un caffè d</E
+M>un d</E
+M>whisky</E
+M>assumere un numero d</E
+M>di operai</E
+M>stoffa a d</E
+M>altezza</E
+M>numero d</E
+M>fascicolo d</E
+M>doppio litro</E
+M>doppio centimetro</E
+M>il d</E
+M>gli hanno promesso il d</E
+M>di stipendio</E
+M>tu pesi il d</E
+M>di me</E
+M>è un affare che rende il d</E
+M>del capitale impiegato</E
+M>il d</E
+M>di un numero</E
+M>il d</E
+M>di una grandezza</E
+M>20 è il d</E
+M>di 10</E
+M>il segmento AB è il d</E
+M>del segmento CD</E
+M>a due</E
+M>a tre</E
+M>a cento</E
+M>a mille doppî</E
+M>avevo ragione io</E
+M>a mille doppî</E
+M>quello che</E
+M>nel terzo luogo</E
+M>m’accresce la meraviglia a cento doppi è che voi non v’accorgiate che</E
+M>vedere d</E
+M>vederci d</E
+M>scempio</E
+M>suola</E
+M>tessuto d</E
+M>fucile a d</E
+M>canna</E
+M>cucire a filo d</E
+M>legato a filo d</E
+M>avere un d</E
+M>incarico</E
+M>duplice</E
+M>ricevere un d</E
+M>stipendio</E
+M>stipendio d</E
+M>cassetto</E
+M>baule a d</E
+M>fondo</E
+M>giacca a d</E
+M>petto</E
+M>cappotto</E
+M>soprabito a d</E
+M>petto</E
+M>un d</E
+M>petto</E
+M>treno a d</E
+M>trazione</E
+M>diodo</E
+M>triodo</E
+M>due</E
+M>sei</E
+M>mento</E
+M>senso</E
+M>doppio</E
+M>porta</E
+M>finestra</E
+M>serratura</E
+M>cancello</E
+M>trave</E
+M>morale</E
+M>è per me una d</E
+M>preoccupazione</E
+M>avere un d</E
+M>dolore</E
+M>consonanti d</E
+M>le doppie</E
+M>a tre</E
+M>a ttré</E
+M>consonanti geminate</E
+M>sud di</E
+M>sud ddi</E
+M>consonanti lunghe</E
+M>su di</E
+M>su ddi</E
+M>freddo</E
+M>fréddo</E
+M>consonanti d</E
+M>chiudere a d</E
+M>chiave</E
+M>commettere un d</E
+M>errore</E
+M>diesis</E
+M>bemolle</E
+M>punto</E
+M>due punti</E
+M>fare un d</E
+M>viaggio</E
+M>chiudere a d</E
+M>giro</E
+M>a d</E
+M>mandata</E
+M>suonare a doppio</E
+M>a doppie campane</E
+M>fare il d</E
+M>gioco</E
+M>tenere il piede in due staffe</E
+M>avere una d</E
+M>vita</E
+M>tinta</E
+M>chiaro</E
+M>fiore d</E
+M>pieno</E
+M>contratto a d</E
+M>facoltà</E
+M>a d</E
+M>opzione</E
+M>a d</E
+M>premio</E
+M>stellage</E
+M>stellaggio</E
+M>lettura</E
+M>frase d</E
+M>giuochi a premî</E
+M>giù ò chi àpremi</E
+M>l’astro fatidico</E
+M>la strofa ti dico</E
+M>di rose t’ornerò</E
+M>dirò se tornerò</E
+M>punto d</E
+M>colpo d</E
+M>metodo in</E
+M>cieco</E
+M>double blind</E
+M>croce</E
+M>fondo</E
+M>partita d</E
+M>passo d</E
+M>scacco d</E
+M>sonetto d</E
+M>stelle d</E
+M>verità</E
+M>doppione</E
+M>giocare</E
+M>vincere il d</E
+M>l’incontro di d</E
+M>è stato sospeso per l’oscurità</E
+M>maschile</E
+M>femminile</E
+M>misto</E
+M>è un uomo d</E
+M>ti sono doppiamente grato</E
+M>si sentiva doppiamente colpevole</E
+M>si considerava doppiamente sconfitto</E
+M>ingannato</E
+M>agire</E
+M>parlare doppiamente</E

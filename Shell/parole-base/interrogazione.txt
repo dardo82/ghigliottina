@@ -1,0 +1,39 @@
+interrogazione.txt
+"interrogazione"
+"interrogazione"
+"interrogazione a sorpresa"
+"interrogazione parlamentare"
+*[[domanda]], [[richiesta]], [[quesito]], [[inchiesta]], [[intervista]], [[consulto]]
+*[[interpellanza]]
+*(nel linguaggio scolastico) [[esame]], [[quiz]]
+*[[risposta]], [[replica]]
+*[[interrogare]]
+M>interrogatio</E
+M>onis</E
+M>fare un’i</E
+M>rivolgere alcune i</E
+M>rispondere alle i</E
+M>stringere con le i</E
+M>insistere nell’i</E
+M>procedere nell’i</E
+M>dei testimoni</E
+M>parlamentare</E
+M>consiliare</E
+M>interpellanza</E
+M>proposizione interrogativa</E
+M>retorica</E
+M>proposizione interrogativa retorica</E
+M>figura d’i</E
+M>l’i</E
+M>di matematica</E
+M>di storia</E
+M>alla lavagna</E
+M>un’i</E
+M>breve</E
+M>lunga</E
+M>fare un’i</E
+M>accurata</E
+M>approfondita</E
+M>l’i</E
+M>è andata bene</E
+M>male</E

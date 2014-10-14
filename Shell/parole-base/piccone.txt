@@ -1,0 +1,11 @@
+piccone.txt
+"il piccone"
+"piccone"
+"piccone"
+M>a zappa</E
+M>a doppia punta</E
+M>pneumatico</E
+M>picconatrice</E
+M>dare il primo colpo di p</E
+M>demolire a colpi di piccone</E
+M>p. demolitore</E

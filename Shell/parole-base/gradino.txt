@@ -1,0 +1,22 @@
+gradino.txt
+"fare attenzione al gradino"
+"gradino"
+"gradino più alto del podio"
+M>grado</E
+M>pedata</E
+M>alzata</E
+M>i g</E
+M>del trono</E
+M>dell’altare</E
+M>scalino</E
+M>i g</E
+M>della scala sociale</E
+M>il primo g</E
+M>salire</E
+M>scendere un g</E
+M>coltivazione a gradini</E
+M>sottomarino</E
+M>costiero</E
+M>di confluenza</E
+M>valli sospese</E
+M>di selezione</E

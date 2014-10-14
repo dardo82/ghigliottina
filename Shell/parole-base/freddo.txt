@@ -1,0 +1,469 @@
+freddo.txt
+"a freddo\/a caldo"
+"a sangue freddo"
+"a sangue freddo"
+"acciaio freddo"
+"annullare; sospendere una gara per il freddo"
+"avere freddo"
+"avere freddo"
+"ben freddo"
+"caffè freddo"
+"caldo-freddo (terapia)"
+"Calma e sangue freddo"
+"catodo freddo"
+"con sangue freddo"
+"da lavorazione a freddo"
+"dal sangue freddo"
+"dolce freddo"
+"essere freddo"
+"fa un freddo cane"
+"fare un freddo cane"
+"far molto freddo"
+"freddo"
+"freddo"
+"freddo"
+"freddo"
+"freddo"
+"freddo"
+"freddo"
+"freddo come il ghiaccio"
+"freddo come la pietra"
+"freddo estremo"
+"freddo gelido"
+"freddo glaciale, freddo come il ghiaccio"
+"freddo glaciale, freddo come il ghiaccio"
+"freddo intenso"
+"freddo polare"
+"freddo pungente"
+"fronte freddo"
+"fuori al freddo"
+"impacco freddo"
+"improvvisa ondata di freddo"
+"in modo freddo"
+"luogo freddo"
+"ondata di freddo"
+"ondata di freddo"
+"partenza a freddo"
+"periodo di freddo intenso"
+"personaggio che rappresenta il ghiaccio, il freddo, l'inverno"
+"piatto freddo"
+"prendere freddo"
+"raffreddare in un bagno freddo"
+"resistente al freddo"
+"sangue freddo"
+"sangue freddo"
+"sangue freddo"
+"sangue freddo"
+"self-possession Usually: avere sangue freddo"
+"scioperare per il freddo (di operai)"
+"sensibile al freddo"
+"sentire freddo"
+"stampa a freddo"
+"tagliolo a freddo"
+"tè freddo"
+"tempo freddo"
+"tempo rigido, freddo"
+"terapia del freddo"
+"terribilmente freddo"
+"trafilato a freddo"
+"un freddo boia"
+"vento freddo"
+#*''L'acqua del bagno è '''fredda'''''.
+#*''Io bevo del latte '''freddo'''''.
+#*''Quell'uomo è proprio '''freddo'''
+*[[gelato]], [[gelido]], [[ghiacciato]], [[invernale]], [[polare]], [[glaciale]], [[artico]]
+* (di alimento) [[crudo]]
+*[[razionale]], [[impassibile]], [[imperturbabile]]
+*''(di animo, temperamento ecc.)''   [[di ghiaccio]]
+* ''(di mente eccetera)'' [[lucido]]
+*[[gelo]], stagione fredda, [[inverno]], [[rigore]], [[fresco]], [[frescura]]
+*[[caldo]],[[caloroso]], [[bollente]], [[infuocato]], [[ardente]]
+*[[irrazionale]]
+*[[estate]], [[calura]], [[canicola]]
+*[[freddare]], [[freddamente]], [[semifreddo]], [[infreddolito]]
+*'' animali a sangue freddo''
+*''a freddo''
+M>dus</E
+M>*fr</E
+M>dus</E
+M>dus</E
+M>avere le mani f</E
+M>i piedi f</E
+M>il naso f</E
+M>la fronte gli si bagnò di un sudore f</E
+M>sudare freddo</E
+M>era ormai f</E
+M>cadavere</E
+M>lavarsi con l’acqua f</E
+M>fare una doccia f</E
+M>le sue parole sono state per me una doccia f</E
+M>Sei ne la terra fredda</E
+M>Sei ne la terra negra</E
+M>come il ghiaccio</E
+M>come il marmo</E
+M>caffè f</E
+M>latte f</E
+M>questo brodo è f</E
+M>piatti f</E
+M>cena f</E
+M>tavola f</E
+M>buffet f</E
+M>una casa umida e f</E
+M>stanza f</E
+M>teatro f.</E
+M>aria f</E
+M>venti f</E
+M>stagione f</E
+M>giornata f</E
+M>annata molto f</E
+M>clima freddo</E
+M>terra f</E
+M>fauna fossile f</E
+M>stelle f</E
+M>spalla f</E
+M>spalla incavigliata</E
+M>Sangue f</E
+M>animali a sangue f</E
+M>avere sangue f</E
+M>mostrare</E
+M>rivelare sangue f</E
+M>nel pericolo</E
+M>dare prova di sangue f</E
+M>è di un sangue f</E
+M>straordinario</E
+M>parlare</E
+M>agire</E
+M>sparare a sangue freddo</E
+M>la f</E
+M>ragione</E
+M>a mente f</E
+M>temperamento f</E
+M>e calcolatore</E
+M>ha un cuore f</E
+M>e insensibile</E
+M>accoglienza f</E
+M>discorso</E
+M>conversazione f</E
+M>la sua lettera mi è parsa piuttosto fredda</E
+M>è un uomo f</E
+M>è una pappa f</E
+M>ragionatore f</E
+M>e acuto</E
+M>una donna f</E
+M>le sue parole ci lasciarono f.</E
+M>mostrarsi f</E
+M>con qualcuno</E
+M>per eccitare chiunque di loro andasse f</E
+M>nel lavoro</E
+M>portando entro la notte Quattro tuoi lustri</E
+M>e obblio f</E
+M>li fascia</E
+M>disegno f</E
+M>pittura f</E
+M>musica f</E
+M>è stata un’esecuzione assai f</E
+M>toni</E
+M>colori f</E
+M>guerra f</E
+M>cold war</E
+M>darne una calda e una f</E
+M>chi la vuol calda e chi la vuol f</E
+M>ascesso f</E
+M>nodulo tiroideo f</E
+M>il f</E
+M>degli spazî siderali</E
+M>generatore di f</E
+M>impianto frigorifero</E
+M>industria del f</E
+M>oggi fa f</E
+M>brrr</E
+M>che f</E
+M>i rigori del f</E
+M>asciutto</E
+M>umido</E
+M>ripararsi</E
+M>guardarsi dal f</E
+M>chiudi</E
+M>che viene f</E
+M>un f</E
+M>acuto</E
+M>gelido</E
+M>glaciale</E
+M>rigido</E
+M>pungente</E
+M>un f</E
+M>cane</E
+M>Dio manda il f</E
+M>secondo i panni</E
+M>è arrivato il f</E
+M>coi</E
+M>primi f</E
+M>avere</E
+M>sentire f</E
+M>sentire f</E
+M>alla schiena</E
+M>alle gambe</E
+M>certo</E
+M> un f. come quello di stanotte io non l’ho mai sentito</E
+M>ho un gran f</E
+M>addosso</E
+M>era intirizzito dal f</E
+M>m’ha preso il freddo</E
+M>Racconti che fanno venire f</E
+M>che mettono il f</E
+M>addosso</E
+M>non mi fa né caldo né f</E
+M>a freddo</E
+M>è un dolce che si prepara tutto a f</E
+M>lavorare il ferro a f</E
+M>frangere le olive a f</E
+M>operare a f</E
+M>fare una cosa a f</E
+M>l’ha ucciso a f</E
+M>insultarsi a f</E
+M>comporre</E
+M>scrivere a f</E
+M>essere in f</E
+M>con la Gemmina erano in f.</E
+M>erano sempre state in f.</E
+M>da quando lei s’era sposata</E
+M>senti che freddolino!</E
+M>mi ha accolto assai freddamente</E
+M>agire</E
+M>procedere freddamente</E
+M>l’uccise freddamente</E
+M>gli attentatori hanno sparato freddamente attraverso la folla</E
+"a freddo\/a caldo"
+"a sangue freddo"
+"a sangue freddo"
+"acciaio freddo"
+"annullare; sospendere una gara per il freddo"
+"avere freddo"
+"avere freddo"
+"ben freddo"
+"caffè freddo"
+"caldo-freddo (terapia)"
+"Calma e sangue freddo"
+"catodo freddo"
+"con sangue freddo"
+"da lavorazione a freddo"
+"dal sangue freddo"
+"dolce freddo"
+"essere freddo"
+"fa un freddo cane"
+"fare un freddo cane"
+"far molto freddo"
+"freddo"
+"freddo"
+"freddo"
+"freddo"
+"freddo"
+"freddo"
+"freddo"
+"freddo come il ghiaccio"
+"freddo come la pietra"
+"freddo estremo"
+"freddo gelido"
+"freddo glaciale, freddo come il ghiaccio"
+"freddo glaciale, freddo come il ghiaccio"
+"freddo intenso"
+"freddo polare"
+"freddo pungente"
+"fronte freddo"
+"fuori al freddo"
+"impacco freddo"
+"improvvisa ondata di freddo"
+"in modo freddo"
+"luogo freddo"
+"ondata di freddo"
+"ondata di freddo"
+"partenza a freddo"
+"periodo di freddo intenso"
+"personaggio che rappresenta il ghiaccio, il freddo, l'inverno"
+"piatto freddo"
+"prendere freddo"
+"raffreddare in un bagno freddo"
+"resistente al freddo"
+"sangue freddo"
+"sangue freddo"
+"sangue freddo"
+"sangue freddo"
+"self-possession Usually: avere sangue freddo"
+"scioperare per il freddo (di operai)"
+"sensibile al freddo"
+"sentire freddo"
+"stampa a freddo"
+"tagliolo a freddo"
+"tè freddo"
+"tempo freddo"
+"tempo rigido, freddo"
+"terapia del freddo"
+"terribilmente freddo"
+"trafilato a freddo"
+"un freddo boia"
+"vento freddo"
+#*''L'acqua del bagno è '''fredda'''''.
+#*''Io bevo del latte '''freddo'''''.
+#*''Quell'uomo è proprio '''freddo'''
+*[[gelato]], [[gelido]], [[ghiacciato]], [[invernale]], [[polare]], [[glaciale]], [[artico]]
+* (di alimento) [[crudo]]
+*[[razionale]], [[impassibile]], [[imperturbabile]]
+*''(di animo, temperamento ecc.)''   [[di ghiaccio]]
+* ''(di mente eccetera)'' [[lucido]]
+*[[gelo]], stagione fredda, [[inverno]], [[rigore]], [[fresco]], [[frescura]]
+*[[caldo]],[[caloroso]], [[bollente]], [[infuocato]], [[ardente]]
+*[[irrazionale]]
+*[[estate]], [[calura]], [[canicola]]
+*[[freddare]], [[freddamente]], [[semifreddo]], [[infreddolito]]
+*'' animali a sangue freddo''
+*''a freddo''
+M>dus</E
+M>*fr</E
+M>dus</E
+M>dus</E
+M>avere le mani f</E
+M>i piedi f</E
+M>il naso f</E
+M>la fronte gli si bagnò di un sudore f</E
+M>sudare freddo</E
+M>era ormai f</E
+M>cadavere</E
+M>lavarsi con l’acqua f</E
+M>fare una doccia f</E
+M>le sue parole sono state per me una doccia f</E
+M>Sei ne la terra fredda</E
+M>Sei ne la terra negra</E
+M>come il ghiaccio</E
+M>come il marmo</E
+M>caffè f</E
+M>latte f</E
+M>questo brodo è f</E
+M>piatti f</E
+M>cena f</E
+M>tavola f</E
+M>buffet f</E
+M>una casa umida e f</E
+M>stanza f</E
+M>teatro f.</E
+M>aria f</E
+M>venti f</E
+M>stagione f</E
+M>giornata f</E
+M>annata molto f</E
+M>clima freddo</E
+M>terra f</E
+M>fauna fossile f</E
+M>stelle f</E
+M>spalla f</E
+M>spalla incavigliata</E
+M>Sangue f</E
+M>animali a sangue f</E
+M>avere sangue f</E
+M>mostrare</E
+M>rivelare sangue f</E
+M>nel pericolo</E
+M>dare prova di sangue f</E
+M>è di un sangue f</E
+M>straordinario</E
+M>parlare</E
+M>agire</E
+M>sparare a sangue freddo</E
+M>la f</E
+M>ragione</E
+M>a mente f</E
+M>temperamento f</E
+M>e calcolatore</E
+M>ha un cuore f</E
+M>e insensibile</E
+M>accoglienza f</E
+M>discorso</E
+M>conversazione f</E
+M>la sua lettera mi è parsa piuttosto fredda</E
+M>è un uomo f</E
+M>è una pappa f</E
+M>ragionatore f</E
+M>e acuto</E
+M>una donna f</E
+M>le sue parole ci lasciarono f.</E
+M>mostrarsi f</E
+M>con qualcuno</E
+M>per eccitare chiunque di loro andasse f</E
+M>nel lavoro</E
+M>portando entro la notte Quattro tuoi lustri</E
+M>e obblio f</E
+M>li fascia</E
+M>disegno f</E
+M>pittura f</E
+M>musica f</E
+M>è stata un’esecuzione assai f</E
+M>toni</E
+M>colori f</E
+M>guerra f</E
+M>cold war</E
+M>darne una calda e una f</E
+M>chi la vuol calda e chi la vuol f</E
+M>ascesso f</E
+M>nodulo tiroideo f</E
+M>il f</E
+M>degli spazî siderali</E
+M>generatore di f</E
+M>impianto frigorifero</E
+M>industria del f</E
+M>oggi fa f</E
+M>brrr</E
+M>che f</E
+M>i rigori del f</E
+M>asciutto</E
+M>umido</E
+M>ripararsi</E
+M>guardarsi dal f</E
+M>chiudi</E
+M>che viene f</E
+M>un f</E
+M>acuto</E
+M>gelido</E
+M>glaciale</E
+M>rigido</E
+M>pungente</E
+M>un f</E
+M>cane</E
+M>Dio manda il f</E
+M>secondo i panni</E
+M>è arrivato il f</E
+M>coi</E
+M>primi f</E
+M>avere</E
+M>sentire f</E
+M>sentire f</E
+M>alla schiena</E
+M>alle gambe</E
+M>certo</E
+M> un f. come quello di stanotte io non l’ho mai sentito</E
+M>ho un gran f</E
+M>addosso</E
+M>era intirizzito dal f</E
+M>m’ha preso il freddo</E
+M>Racconti che fanno venire f</E
+M>che mettono il f</E
+M>addosso</E
+M>non mi fa né caldo né f</E
+M>a freddo</E
+M>è un dolce che si prepara tutto a f</E
+M>lavorare il ferro a f</E
+M>frangere le olive a f</E
+M>operare a f</E
+M>fare una cosa a f</E
+M>l’ha ucciso a f</E
+M>insultarsi a f</E
+M>comporre</E
+M>scrivere a f</E
+M>essere in f</E
+M>con la Gemmina erano in f.</E
+M>erano sempre state in f.</E
+M>da quando lei s’era sposata</E
+M>senti che freddolino!</E
+M>mi ha accolto assai freddamente</E
+M>agire</E
+M>procedere freddamente</E
+M>l’uccise freddamente</E
+M>gli attentatori hanno sparato freddamente attraverso la folla</E

@@ -1,0 +1,35 @@
+superfluo.txt
+"superfluo"
+"superfluo"
+#* ''fare un commento 
+#* ''distinguere il 
+*[[inutile]]
+*''Chi compra il '''superfluo''', presto vende il necessario.''
+*italiano
+*spagnolo
+M>superfluus</E
+M>superflu</E
+M>super-</E
+M>flu</E
+M>ornamenti s.</E
+M>una stanza piena di oggetti s.</E
+M>abolire le spese s.</E
+M>tutti questi complimenti mi sembrano s.</E
+M>evitiamo i discorsi s.</E
+M>la fama dello studioso rende s. ogni presentazione</E
+M>il s.</E
+M>togliere</E
+M>eliminare il s.</E
+M>fare a meno del s.</E
+M>saper distinguere il s. dall&#8217;essenziale</E
+M>il s.</E
+M> cosa molto necessaria</E
+M>le superflu</E
+M> chose très nécessaire</E
+M>Le mondain</E
+M>inutile</E
+M>aggiunte</E
+M>ripetizioni s.</E
+M>le tue raccomandazioni sono s.</E
+M>ogni commento è s.</E
+M>mi pare s. tornare sull&#8217;argomento</E

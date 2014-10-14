@@ -1,0 +1,24 @@
+calunnia.txt
+"calunnia"
+*[[diffamazione]], [[maldicenza]], [[denigrazione]], [[discredito]], [[insinuazione]], 
+*[[elogio]], [[lode]], [[esaltazione]]
+*[[calunnioso]],[[calunniare]] 
+* [[diffamatorio]], [[denigratorio]]
+*italiano
+*siciliano
+M>calumnia</E
+M>inventare</E
+M>spargere</E
+M>diffondere calunnie sul conto di qualcuno</E
+M>riferire una c</E
+M>difendersi da una c</E
+M>querela</E
+M>denuncia per c</E
+M>inventore</E
+M>artefice</E
+M>fabbro di calunnie</E
+M>La c</E
+M>è un venticello</E
+M>Barbiere di Siviglia</E
+M>è una c</E
+M>son tutte calunnie</E

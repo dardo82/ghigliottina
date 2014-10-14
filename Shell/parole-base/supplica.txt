@@ -1,0 +1,23 @@
+supplica.txt
+"colui che supplica"
+"supplica"
+"supplica"
+"supplica"
+"supplication"
+"supplica, invocazione"
+#*''rivolgere una supplica ai giudici''
+*[[preghiera]], [[domanda]]
+M>supplicare</E
+M>alzando le mani</E
+M> in atto insieme di comando e di supplica</E
+M>ascoltare</E
+M>esaudire</E
+M>respingere le s. dei vinti</E
+M>dei reietti</E
+M>cedere</E
+M>arrendersi alle s. di un infelice</E
+M>recitare la s. alla Madonna di Pompei</E
+M>stendere</E
+M>mandare</E
+M>presentare una s.</E
+M>inoltrare una s. di grazia al capo dello stato</E

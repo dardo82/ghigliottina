@@ -1,0 +1,126 @@
+problema.txt
+"affrontare un problema"
+"all'interno del problema"
+"è sorto un problema"
+"il mio stesso problema"
+"il nocciolo del problema"
+"il problema è rientrato"
+"il problema non si pone (porsi)"
+"il problema si riduce a"
+"il problema sorge..."
+"non c'è problema"
+"non molto importante, non un gran problema"
+"porsi il problema di"
+"problema"
+"problema"
+"problema"
+"problema"
+"problema al contorno"
+"problema arduo"
+"problema del bere  troppo"
+"problema della casa"
+"problema improvviso"
+"problema in questione"
+"problema lineare"
+"problema mente corpo"
+"problema razziale"
+"problema spinoso"
+"problema strutturale"
+"problema tecnico"
+"qual è il problema?"
+"soluzione di un problema"
+"vero problema"
+* [[quesito]], [[questione]] 
+*[[problematica]], [[problematico]], [[problematizzare]]
+*[[problematica]],[[problematico]]
+*italiano
+*portoghese
+*spagnolo
+M>problema</E
+M>tis</E
+M>i dati</E
+M>i termini di un p</E
+M>formulare</E
+M> proporre un p</E
+M>impostare</E
+M>risolvere un p</E
+M>lo svolgimento</E
+M>la risoluzione</E
+M>di un p</E
+M>la risposta a un p</E
+M>di facile</E
+M>di difficile soluzione</E
+M>determinati</E
+M>indeterminati</E
+M>impossibili</E
+M>algebrici</E
+M>di primo grado</E
+M>di secondo grado</E
+M>trascendenti</E
+M>risoluzione analitica</E
+M>risoluzione sintetica</E
+M>risolubili con riga e compasso</E
+M>classici</E
+M>della trisezione dell&#8217;angolo</E
+M>della duplicazione del cubo</E
+M>di Delo</E
+M>della rettificazione della circonferenza</E
+M>della quadratura del cerchio</E
+M>insolubili</E
+M>impossibili</E
+M>aperti</E
+M>funzionali</E
+M>topologici</E
+M>dei sette ponti di Königsberg</E
+M>dei quattro colori</E
+M>Insegnamento della matematica per problemi</E
+M>di fisica</E
+M>di statistica</E
+M>di meccanica razionale</E
+M>di prospettiva</E
+M>architettonico</E
+M>dei due corpi</E
+M>dei tre corpi</E
+M>filosofico</E
+M>storico</E
+M>filologico</E
+M>etimologico</E
+M>un p</E
+M>di scacchi</E
+M> di dama</E
+M>di bridge</E
+M>centrale</E
+M>tutti abbiamo i nostri p</E
+M>spostarsi con questo traffico è un vero p</E
+M>attraversare la strada ghiacciata è sempre un p</E
+M>oggi viaggiare non costituisce più un p</E
+M>è un p</E
+M>serio</E
+M>non è un p</E
+M>economici</E
+M>sociali</E
+M>razziali</E
+M>il p</E
+M>degli alloggi</E
+M>della droga</E
+M>dell&#8217;immigrazione</E
+M>avere dei p</E
+M>personali</E
+M>familiari</E
+M>psicologici</E
+M>sessuali</E
+M>non c&#8217;è p</E
+M>verrò con te</E
+M> non c&#8217;è p</E
+M>decidete voi se volete uscire o stare in casa</E
+M> per me non c&#8217;è p</E
+M>&#171;È troppo presto se ci vediamo alle 8?&#187; &#171;Non c&#8217;è problema&#187;</E
+M>Amleto</E
+M>essere</E
+M> o non essere: questo è il problema</E
+M>quell&#8217;uomo è un p</E
+M>per tutti</E
+M>gli adolescenti sono un p.</E
+M> non si sa mai come prenderli</E
+M>quel figlio è sempre stato un p</E
+M>per i genitori</E

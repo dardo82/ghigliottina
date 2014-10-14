@@ -1,0 +1,47 @@
+prato.txt
+"erba del prato"
+"hockey su prato"
+"l'annaffiare il prato"
+"microto di prato"
+"prato"
+"prato artificiale"
+"prato da croquet"
+"tennis su prato"
+"verde prato"
+"verde prato"
+*[[campo]]  
+*[[pratolina]], [[prataiolo]], [[prateria]], [[prativo]]
+M>pratum</E
+M>le prata</E
+M>le pràtora</E
+M>prateria</E
+M>falciati</E
+M>pascoli</E
+M>naturale</E
+M>artificiale</E
+M>monofitico</E
+M>oligofitico</E
+M>polifitico</E
+M>annuali</E
+M>pluriennali</E
+M>stabili</E
+M>permanenti</E
+M>campo</E
+M>giardino</E
+M>i bambini giocavano tranquillamente sul p</E
+M>la villa è circondata da un grande p</E
+M>ci siamo stesi sul p</E
+M>a prendere il sole</E
+M>un p</E
+M>pieno di fiori</E
+M>pràtora</E
+M>Le lodolette cantan su le pràtora Di San Rossore</E
+M>verde p</E
+M>all&#8217;inglese</E
+M>il p</E
+M>di un campo di calcio</E
+M>di rugby</E
+M>hockey su prato</E
+M>pelouse</E
+M>gli operai</E
+M>facevano la siesta dormendo saporitamente sul pratello accanto alla chiesa</E

@@ -1,0 +1,18 @@
+lotteria.txt
+"lotteria"
+"lotteria illegale quotidiana"
+"partecipare a una lotteria"
+#* ''alla '''lotteria''' abbiamo vinto un [[prosciutto]]''
+*[[lotto]], [[pesca]], [[riffa]], [[tombola]]
+* [[lotteria istantanea]], [[lotteria nazionale]]
+* [[sorteggio]], [[estrazione]]
+* [[pesca di beneficienza]], [[pesca miracolosa]]
+*''vincere alla lotteria'' 
+*italiano
+M>nazionali</E
+M>di beneficenza</E
+M>commerciali</E
+M>vendere i biglietti della l</E
+M>comprare un biglietto della l</E
+M>vincere alla l</E
+M>vincere la l</E

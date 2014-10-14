@@ -1,0 +1,35 @@
+stimolo.txt
+"stimolo"
+"stimolo"
+*italiano
+M>stim</E
+M>lus</E
+M>instigare</E
+M>Gli andò facendo la persona rossa Con un stimulo aguzzo</E
+M>vassi a la via sua ... Se di bisogno stimolo il trafigge</E
+M>agire sotto lo s.</E
+M>sotto gli s.</E
+M>della passione</E
+M> della gelosia</E
+M> del risentimento</E
+M>sentiva nel cuore gli acuti s. del rimorso</E
+M>questo premio ti sia di s. a ben operare</E
+M>è un ragazzo diligente</E
+M> non ha bisogno di stimoli</E
+M>sentiva gli s. della fame</E
+M>dei sensi</E
+M>della carne</E
+M>non riesce a orinare sebbene ne abbia lo s.</E
+M>io credo che egli sia nato per mio grandissimo s.</E
+M>s. fisico</E
+M>s. chimico</E
+M>s. farmacologico</E
+M>s. biologico</E
+M>valore di soglia</E
+M>relazione stimolo-risposta</E
+M>S-R</E
+M>riflesso condizionato</E
+M>s. condizionato</E
+M>s. incondizionato</E
+M>teorie</E
+M>modelli stimolo-risposta</E

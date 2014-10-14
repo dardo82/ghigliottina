@@ -1,0 +1,37 @@
+cliente.txt
+"anagrafica cliente"
+"assistenza al cliente"
+"cliente"
+"cliente"
+"cliente"
+"cliente affezionato"
+"cliente esigente"
+"gentile cliente"
+"metodo di vendita con cui si impone un prodotto a un cliente"
+"oneri a carico del cliente"
+"potenziale cliente"
+"su specifiche del cliente"
+#*[[cinema]], [[teatro]]
+#*[[medico]], [[commercialista]]
+*[[compratore]], [[acquirente]], [[consumatore]], [[frequentatore]], [[habitué]], [[avventore]]
+*[[venditore]], [[negoziante]], [[bottegaio]], [[fornitore]]
+*[[baby cliente]]
+*[[clientela]]
+M>cliens</E
+M>nentis</E
+M>patrono</E
+M>dispongo io della mia volontà e non sono c</E
+M>di nessuno</E
+M>l’avvocato sta parlando con un cliente</E
+M> portafoglio clienti</E
+M>i c</E
+M>del macellaio</E
+M>servire i c</E
+M>le c.</E
+M>un c. affezionato</E
+M>mi trattano con riguardo perché sono cliente</E
+M>buon c.</E
+M>buona c</E
+M>cattivo c</E
+M>cattiva c.</E
+M>il c. ha sempre ragione</E

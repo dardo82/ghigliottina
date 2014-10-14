@@ -1,0 +1,36 @@
+mela.txt
+"albero di mela cotogna"
+"buccia di mela"
+"mela"
+"mela"
+"color verde mela"
+"mela cannella"
+"mela che matura intorno al giorno di San Giovanni"
+"mela cotogna"
+"mela cotta"
+"mela selvatica"
+"mela verde"
+"una mela al giorno toglie il medico di torno"
+"verde mela"
+#* ''[[mela cotogna|'''mela''' cotogna]]'', ''[[mela appiola|'''mela''' appiola]]'', ''[[mela granata|'''mela''' granata]];
+*[[camomilla]], di mela [[cotta]], [[marmellata]], [[melacotogna]], [[melagrana]], [[melarancia]], [[melare]], [[melata]], [[melone]]
+* ''una 
+* ''
+*''bianco  e rosso come una mela''
+*italiano
+M>lum</E
+M>malum</E
+M>pomo</E
+M>viso tondo</E
+M>fresco</E
+M>bianco e rosso come una mela</E
+M>cotogna</E
+M>cotogna</E
+M>granata</E
+M>prender le m</E
+M>dar le m</E
+M>mela di culaccio</E
+M>La Grande Mela</E
+M>the Big Apple</E
+M>the Great Apple</E
+M>Apple</E

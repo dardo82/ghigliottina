@@ -1,0 +1,148 @@
+rumore.txt
+"far rumore"
+"fare rumore"
+"fare rumore"
+"fare rumore"
+"fare rumore"
+"fare un rumore acuto"
+"fare un rumore metallico"
+"fattore rumore"
+"fattore rumore"
+"gran rumore"
+"mappatura del rumore"
+"microfono a cancellazione rumore"
+"molto rumore per nulla"
+"non fare rumore"
+"riduttore di rumore"
+"rumore"
+"rumore assordante"
+"rumore bianco, rumore casuale con energia costante"
+"rumore di fondo"
+"rumore forte"
+"rumore forte e continuo"
+"rumore metallico"
+"rumore sordo"
+"tanto rumore"
+"tonfo, rumore sordo"
+"un oggetto che fa rumore"
+#*''il '''rumore''' del vento e della pioggia''
+#*''il '''rumore''' di un motore''
+#*''quella tal vicenda fece molto '''rumore'''''
+#*''molto '''rumore''' per nulla''
+#*''si ritirò lontano dai '''rumori''' del mondo''
+*[[confusione]], [[fracasso]], [[frastuono]], [[strepito]], [[chiasso]], [[baccano]], [[trambusto]], [[fragore]], [[cagnara]][[schiamazzo]], [[tumulto]], [[baraonda]], [[tocco]]
+*(di acqua) [[gocciare]], [[sgocciolamento]], [[sgocciolio]], [[stillicidio]], [[gorgoglio]], [[sciabordio]], [[sciacquio]]
+*(di passi) [[calpestio]], [[scalpiccio]], [[stropiccio]], [[sfregamento]], [[strofinio]], [[stridore]], [[scricchiolio]], [[cigolio]]
+*(di tessuto) [[fruscio]], [[sfregamento]], [[strofinio]]
+*(di voci) [[mormorio]], [[sussurrio]], [[brontolio]], [[bisbiglio]], [[borbottamento]], [[borbottio]], [[brusio]], [[parlottio]], [[fremito]], [[respiro]], [[sospiro]], [[sussurro]], [[soffio]], [[grido]], [[ululato]], [[vocio]], [[strillo]]
+*(di fuoco) [[sfrigolio]], [[crepitio]], [[scoppiettio]]
+*(di foglie) [[fruscio]], [[fremito]], [[mormorio]]
+*(di armi) [[colpo]], [[sparo]], [[scoppio]], [[boato]], [[rombo]], [[deflagrazione]], [[detonazione]]
+*(di urto, crollo) [[tonfo]], [[schianto]], [[cozzo]], [[rovinio]]
+*(di vento, fenomeni naturali) [[frullo]], [[sibilo]], [[fischio]]
+*(nella teoria della comunicazione) [[interferenza]], [[disturbo]]
+*[[rumoroso]]
+*[[suono]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001,Le Monnier, p. 1810
+M>rumor</E
+M>ris</E
+M>il mondo finì di fare ogni moto e ogni romore sensibile</E
+M>suono</E
+M>il r</E
+M>di un bottone che cade</E
+M>il r</E
+M>della pioggia</E
+M>della cascata</E
+M>del torrente</E
+M>delle onde che si frangono sulla riva</E
+M>del tuono</E
+M>non esitò a internarsi sempre più nel bosco</E
+M>dietro all&#8217;amico rumore</E
+M>il r</E
+M>dei passi</E
+M>dei battimani</E
+M>di uno schiaffo</E
+M>il r</E
+M>degli zoccoli</E
+M>delle ruote sull&#8217;acciottolato</E
+M>il r</E
+M>della carrozza</E
+M>del motore</E
+M>del treno</E
+M>il r</E
+M>delle macchine</E
+M>dell&#8217;officina</E
+M>del traffico cittadino</E
+M>i r</E
+M>m&#8217;impediscono di dormire</E
+M>vorrei una casa lontana da ogni rumore</E
+M>peto</E
+M>fare un r</E
+M>un rumorino</E
+M>impercettibile</E
+M>lieve</E
+M>sordo</E
+M>confuso</E
+M>cupo</E
+M>grave</E
+M>acuto</E
+M>insistente</E
+M>la porta si chiuse con un secco r</E
+M>il r</E
+M>sottile e stridente della lima</E
+M>il r</E
+M>cadenzato dei magli</E
+M>il r</E
+M>assordante delle motociclette</E
+M>il r</E
+M>fastidioso</E
+M>molesto di una radio a pieno volume</E
+M>molesti</E
+M>non fate r</E
+M>abbassate la voce: c&#8217;è il bambino che dorme</E
+M>I fanciulli gridando Su la piazzuola in frotta</E
+M>E qua e là saltando</E
+M>Fanno un lieto romore</E
+M>dalla piazza saliva il r</E
+M>della folla tumultuante</E
+M>Vidi Aci e Galatea</E
+M>che &#8217;n grembo gli era</E
+M>E Polifemo farne gran romori</E
+M>quando il romore contro al re si levò nella terra</E
+M>mettere a r</E
+M>un luogo</E
+M>mettersi a r</E
+M>questi uomini e queste bestie si mettono a romore</E
+M>menar r</E
+M>di qualche cosa</E
+M>tanto andò il romore di vicino in vicino</E
+M>che egli pervenne infino a&#8217; parenti della donna</E
+M>Ma precorsa è la fama apportatrice De&#8217; veraci rumori e de&#8217; bugiardi</E
+M>Non è il mondan romore altro ch&#8217;un fiato Di vento</E
+M>una scoperta che ha fatto r</E
+M>il libro ha destato gran r</E
+M>nell&#8217;ambiente letterario</E
+M>per quel grave scandalo c&#8217;è stato molto r</E
+M>in tutto il paese</E
+M>è un fatto che ha messo a rumore tutta la città</E
+M>suono</E
+M>decibel</E
+M>ambientale</E
+M>di fondo</E
+M>bianco</E
+M>colorato</E
+M>di fondo</E
+M>elettrico</E
+M>radioelettrico</E
+M>elettromagnetico</E
+M>rapporto segnale</E
+M>cifra</E
+M>fattore</E
+M>di r</E
+M>galattico</E
+M>solare</E
+M>bronco</E
+M>polmonari</E
+M>secchi</E
+M>umidi</E
+M>cardiaci</E

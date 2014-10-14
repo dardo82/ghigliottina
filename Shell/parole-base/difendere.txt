@@ -1,0 +1,82 @@
+difendere.txt
+"difendere"
+"difendere"
+"difendere"
+"difendere, replace: difendersi"
+"difendere, replace: difendersi"
+"difendere, replace: difendersi"
+"difendere con le mura"
+"difendere i propri diritti"
+*[[custodire]], [[proteggere]], [[sostenere]]
+*[[offendere]]
+*[[difenditore]], [[difensiva]], [[difensivo]], [[difensore]], [[difesa]], [[difendibile]], [[difendersi]]
+M>defend</E
+M>de-</E
+M>fend</E
+M>offendere</E
+M>infensus</E
+M>difési</E
+M>difendésti</E
+M>diféso</E
+M>la patria dai nemici</E
+M>l’igiene ci difende dalle malattie</E
+M>la fortezza difendeva la città da eventuali assalti</E
+M>cercava di difendersi il viso dai ripetuti colpi dell’avversario</E
+M>ti difenderò io contro ogni calunnia</E
+M>difendo la mia vita</E
+M>la mia reputazione</E
+M>il mio onore</E
+M>questo muro ci difenderà contro il vento</E
+M>la lana ci difende dal freddo</E
+M>le mamme difendono sempre i figli</E
+M>debbo d</E
+M>il mio operato</E
+M>alcuni giornali gli hanno mosso aspre critiche</E
+M>altri lo hanno difeso</E
+M>una dottrina</E
+M>una tesi</E
+M>le proprie opinioni</E
+M>a spada tratta</E
+M>l’avvocato lo ha difeso debolmente</E
+M>abilmente</E
+M>con valide ragioni</E
+M>difendersi dal gelo</E
+M>dal caldo</E
+M>dal vento</E
+M>dai nemici interni ed esterni</E
+M>non ci si difende da queste benedette mosche</E
+M>i soldati si difesero da prodi</E
+M>se ti assaltano</E
+M>difenditi</E
+M>il pugile</E
+M>all’estremo delle forze</E
+M>si difendeva sempre più debolmente</E
+M>E così da la calca si difende</E
+M>l’imputato s’è difeso da sé</E
+M>difendersi dalle critiche</E
+M>dalle calunnie</E
+M>non ha saputo difendersi contro le accuse mossegli</E
+M>difendersi con forza</E
+M>con dignità</E
+M>agli esami mi sono difeso</E
+M>non è un guidatore esperto</E
+M>ma si difende</E
+M>Come va la salute?</E
+M>Mi difendo</E
+M>difendersi bene</E
+M>male</E
+M>dagli anni</E
+M>sì che ’l viso abbrusciato non difese La conoscenza süa al mio ’ntelletto</E
+M>il re di Francia avea difeso</E
+M>sotto pena del cuore</E
+M>che niuno torneasse</E
+M>Novellino</E
+M>I0 te ’l difenderò</E
+M>colui rispose</E
+M>Un culto monticel dal lato manco Le difende il calor del mezzo giorno</E
+M>una casa difesa dai venti</E
+M>contro i venti</E
+M>dal freddo</E
+M>dall’umidità</E
+M>un castello ben difeso</E
+M>città naturalmente difesa</E

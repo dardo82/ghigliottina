@@ -1,0 +1,52 @@
+staffa.txt
+"bicchiere della staffa"
+"bicchiere della staffa"
+"staffa"
+"staffa"
+*[[staffale]], [[staffare]]
+M>*staffa</E
+M>staffili</E
+M>panca</E
+M>arco</E
+M>occhio</E
+M>staffile</E
+M>reggere la s.</E
+M>allungare</E
+M>accorciare le s.</E
+M>infilare</E
+M>tenere i piedi nelle s.</E
+M>levare il piede dalla s.</E
+M>alzarsi sulle s.</E
+M>essere con il piede nella s.</E
+M>bere</E
+M>offrire il bicchiere della s.</E
+M>stirrup-cup</E
+M>perdere le s.</E
+M>tenere il piede in due s.</E
+M>sottopiede</E
+M>pantaloni</E
+M>calzoni a staffa</E
+M>con la s.</E
+M>s. davanti</E
+M>fiffi</E
+M>S. della vanga</E
+M>balestra a mano e s.</E
+M>a crocco e s.</E
+M>Ognun di loro ... Sta col piè nella staffa Della balestra</E
+M>staffone</E
+M>reggitoi</E
+M>penzoli</E
+M>brida</E
+M>staffa</E
+M>scarpa</E
+M>fermacarri</E
+M>Staffe montapali</E
+M>a staffa</E
+M>giara a s.</E
+M>vaso con becco a s.</E
+M>muscolo della s.</E
+M>s. di sostegno</E
+M>s. di trazione</E
+M>Bendaggio a staffa</E
+M>reticolato</E
+M>staffa</E

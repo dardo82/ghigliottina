@@ -1,0 +1,61 @@
+svolgere.txt
+"finire; completare; svolgere"
+"il finire; completare; lo svolgere"
+"svolgere"
+"svolgere"
+"svolgere"
+"svolgere, replace: svolgersi"
+"svolgere compiti"
+"svolgere il ruolo di"
+"svolgere indagini"
+"svolgere un compito"
+"svolgere, evolvere, replace: svolgere, evolversi"
+* ''(gomitolo, corda, eccetera)'' [[srotolare]], [[sciogliere]], [[spiegare]], [[distendere]], [[aprire]], [[dipanare]], [[sgrovigliare]]
+* ''(programma)'' [[eseguire]], [[realizzare]]
+*''(lavoro, compito)'' [[esercitare]]
+*[[avvolgere]], [[arrotolare]], [[piegare]], [[ripiegare]]
+*[[svolgersi]]
+M>volgere</E
+M>volvere</E
+M>volgere</E
+M>s. un gomitolo</E
+M>il filo di un gomitolo</E
+M>di una matassa</E
+M>s. la pezza</E
+M>il nastro</E
+M>la pellicola cinematografica</E
+M>s. un rotolo di papiro</E
+M>s. un involto</E
+M>un pacco</E
+M>un cartoccio</E
+M>svolgersi</E
+M>a mano a mano che la pellicola si svolge dalla bobina</E
+M>La vista che si svolve all&#8217;occhio intento</E
+M>E s&#8217;io mi svolvo dal tenace visco</E
+M>Dalle squarciate nuvole Si svolge il sol cadente</E
+M>s. un&#8217;idea</E
+M>una tesi</E
+M>un argomento</E
+M>non so come s. il tema d&#8217;italiano</E
+M>s. un&#8217;interpellanza</E
+M>un&#8217;interrogazione</E
+M>s. un&#8217;attività</E
+M>un programma</E
+M>s. un incarico</E
+M>un compito delicato</E
+M>s. un piano di guerra</E
+M>lo ringraziarono dell&#8217;azione da lui svolta nell&#8217;interesse comune.</E
+M>ecco come si sono svolti i fatti</E
+M>la vita in provincia si svolgeva tranquilla e monotona</E
+M>la scorsa settimana si è svolta l&#8217;annuale fiera del libro</E
+M>l&#8217;azione dei &#171;Malavoglia&#187;</E
+M>si svolge ad Aci Trezza</E
+M> un piccolo centro di pescatori della Sicilia</E
+M>la scena si svolge a Parigi sul finire del 19&#176; secolo</E
+M>Poi</E
+M> quasi maggior forza indi la svolva</E
+M> Conven ch&#8217;altra via segua</E
+M>ma anche da questo</E
+M> Bortolo seppe svolgerlo ogni volta</E
+M> con ragioni troppo facili a indovinarsi</E
+M>temi svolti</E

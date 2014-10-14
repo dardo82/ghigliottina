@@ -1,0 +1,151 @@
+scena.txt
+"a scena aperta"
+"andare in scena"
+"assistente di scena (teatro)"
+"cambio di scena"
+"colpo di scena"
+"Colpo di scena"
+"costume di scena"
+"direttore di scena"
+"entrare in scena"
+"fare scena"
+"in scena"
+"in scena"
+"in scena"
+"irrompere sulla scena"
+"lasciare la scena"
+"lasciare la scena di"
+"luci di scena"
+"messa in scena"
+"mettere in scena"
+"mettere in scena uno spettacolo"
+"musica di scena"
+"per far scena"
+"Rubare la scena"
+"rubare la scena, monopolizzare l'attenzione"
+"scena"
+"scena"
+"scena"
+"scena"
+"scena"
+"scena dell'azione"
+"scena dionisiaca"
+"scena retrospettiva"
+"sulla scena"
+"sulla scena"
+#*''a teatro è importante saper modificare bene la 
+*[[palcoscenico]], [[palco]], [[teatro]]
+*[[scenario]], [[sfondo]], [[fondo]], [[fondale]], [[cornice]], [[quinta]], [[scenografia]]
+*(di vita) [[scenario]], [[spettacolo]], [[vista]], [[veduta]], [[visuale]], [[paesaggio]], [[panorama]], [[quadro]]
+*[[scenata]], [[retroscena]]
+*''ritirarsi dalla 
+*''fare 
+*''far scena muta''
+*''agire dietro le scene''
+#* ''la
+#* ''hoo perdüü l'ültima 
+#* ''te gh'evet de vedè che 
+* (''cena'') [[disnà]]
+* (''cena'') [[scenà]], [[scenon]], [[puscena]]
+* (''scena'') [[scenada]]
+*italiano
+*lombardo
+M>scaena</E
+M>l&#8217;attore ha recitato la sua battuta rimanendo su un lato della sc.</E
+M>in fondo alla sc. c&#8217;era un fondale che rappresentava il mare</E
+M>sc. vuota</E
+M>sc. piena</E
+M>l&#8217;orchestra ha suonato il preludio dell&#8217;opera a sc. vuota</E
+M>fuori scena</E
+M>un fuoriscena</E
+M>sc. multipla</E
+M>sc. aperta</E
+M>applausi a sc. aperta</E
+M>essere di scena</E
+M>Signori</E
+M> chi è di scena!</E
+M>entrare in sc.</E
+M>qui è entrato in sc. un nuovo azionista</E
+M>a questo punto del piano entra in sc. il finto poliziotto</E
+M>potrebbero entrare in sc. fattori imprevisti</E
+M>calcare le sc.</E
+M>darsi alle sc.</E
+M>muoversi bene sulla sc.</E
+M>avere scena</E
+M>avere presenza di sc.</E
+M>non avere sc.</E
+M>ritirarsi dalle sc.</E
+M>uscire di sc.</E
+M>uscire</E
+M>scomparire dalla sc. politica</E
+M>letteraria</E
+M>uscire</E
+M>scomparire dalla sc. del mondo</E
+M>mettere in sc.</E
+M>una commedia</E
+M>un&#8217;opera lirica</E
+M>una rivista musicale</E
+M>andare in sc.</E
+M>la prossima settimana andrà in sc.</E
+M>andremo in sc. con</E
+M>&#171;Gli spettri&#187;</E
+M>di Ibsen</E
+M>le sc.</E
+M>una compagnia di varietà</E
+M> reduce dalle sc. di Parigi</E
+M>la commedia in cartellone è una novità per le nostre sc.</E
+M>Direttore di scena</E
+M>Servi di scena</E
+M>Musiche di scena</E
+M>Regolatore di scena</E
+M>di palcoscenico</E
+M>la sc. rappresenta un interno borghese del primo Novecento</E
+M>la sc. era un tipico campiello di Venezia</E
+M>è un atto unico ma con molti cambiamenti di scena</E
+M>alla direzione della casa editrice c&#8217;è stato un imprevisto cambiamento di sc.</E
+M>cambiamento di sc. a vista</E
+M>dietroscena</E
+M>retroscena</E
+M>fotografo di sc.</E
+M>fare scena</E
+M>fare scena</E
+M>per fare sc. vanta sempre presunti titoli nobiliari</E
+M>ogni volta si mette a fare sc. nominando le sue amicizie altolocate</E
+M>pur di fare sc. si veste in modo stravagante</E
+M>durante l&#8217;esame si è messo a piangere</E
+M> ma solo per fare scena</E
+M>fare scene</E
+M>andiamo</E
+M> contròllati</E
+M> non fare scene!</E
+M>detesto queste sc. in pubblico</E
+M>Sc. muta</E
+M>fare sc. muta</E
+M>scena!</E
+M>una sc. d&#8217;amore</E
+M>di guerra</E
+M>una sc. drammatica</E
+M>comica</E
+M>impressionante</E
+M>commovente</E
+M>movimentata</E
+M>la sc. della riconciliazione tra i protagonisti</E
+M>la sc. dell&#8217;addio</E
+M>sc. madre</E
+M>mi ha fatto una sc. madre per una sciocchezza</E
+M>Colpo di sc.</E
+M>la prima sc. del terzo atto</E
+M>atto III</E
+M> scena I</E
+M>la sc. iniziale</E
+M>la sc. finale del secondo atto</E
+M>che splendida sc. si ammira da questa finestra</E
+M>la premiazione è stata una sc. molto commovente</E
+M>assistere a una sc. di sangue</E
+M>non dimenticherò mai quella sc. terrificante</E
+M>il quadro rappresenta una sc. campestre</E
+M>la parete era occupata da un affresco con una sc. mitologica</E
+M>una scultura di Rodin raffigurante una sc. erotica</E
+M>allor che s&#8217;apre Al guardo giovanil questa infelice Scena del mondo</E
+M>sc. primaria</E
+M>sketch</E

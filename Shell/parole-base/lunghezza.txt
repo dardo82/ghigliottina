@@ -1,0 +1,127 @@
+lunghezza.txt
+"con la stessa lunghezza"
+"di lunghezza totale"
+"di metà lunghezza"
+"essere sulla stessa lunghezza d'onda"
+"in lunghezza"
+"in tutta la lunghezza"
+"lunghezza"
+"lunghezza"
+"lunghezza"
+"lunghezza"
+"lunghezza"
+"lunghezza (in piedi)"
+"lunghezza d'onda"
+"lunghezza del piede"
+"lunghezza e larghezza"
+"lunghezza totale"
+"mezza lunghezza"
+"misura per lunghezza d'onda"
+"per tutta la lunghezza della nave"
+"per tutta la lunghezza di"
+"zoom, obiettivo a lunghezza focale variabile"
+#*''in Italia nell'ultimo secolo la lunghezza della vita è raddoppiata''
+#* ''vincere per una lunghezza''
+M>lungo</E
+M>larghezza</E
+M>larghezza</E
+M>altezza</E
+M>di un lato del triangolo</E
+M>del perimetro di un poligono</E
+M>del raggio terrestre</E
+M>della circonferenza di un cerchio</E
+M>dell’equatore</E
+M>distanza</E
+M>caratteristica di una corrente</E
+M>distanza</E
+M>focale</E
+M>d’onda</E
+M>la l</E
+M>d’un filo</E
+M>di un nastro</E
+M>d’una fune</E
+M>di un’asta</E
+M>d’un bastone</E
+M>d’una catena</E
+M>d’una lama</E
+M>di un palo</E
+M>di una trave</E
+M>altezza</E
+M>segare un’asse nel senso della l</E
+M>il palo si spezzò in tutta la sua l</E
+M>una pertica di tre metri di l</E
+M>una corda di l</E
+M>sufficiente</E
+M>un chiodo di media l</E
+M>la l</E
+M>di una strada</E
+M>di una galleria</E
+M>di un fiume</E
+M>di un ponte</E
+M>di un campo</E
+M>di un edificio</E
+M>di un tavolo</E
+M>d’un veicolo</E
+M>di un’onda</E
+M>di una nave</E
+M>al galleggiamento</E
+M>fra le perpendicolari</E
+M>fuori tutto</E
+M>lunghezza</E
+M>altezza</E
+M>delle braccia</E
+M>delle gambe</E
+M>della mano</E
+M>del piede</E
+M>delle dita</E
+M>del volto</E
+M>del collo</E
+M>del naso</E
+M>dei capelli</E
+M>la l</E
+M>di un soprabito</E
+M>della giacca</E
+M>dei calzoni</E
+M>della gonna</E
+M>della camicia</E
+M>delle maniche</E
+M>abito di giusta l</E
+M>giusto di l</E
+M>maniche di l</E
+M>eccessiva</E
+M>la l</E
+M>di un cane</E
+M>di un serpente</E
+M>una balena di 25 metri di l</E
+M>il primo classificato ha vinto</E
+M>ha battuto il secondo</E
+M>per una l</E
+M>per mezza l</E
+M>per due</E
+M>tre l</E
+M>come arredatore si lascia indietro tutti di molte l</E
+M>di un romanzo</E
+M>di un poema</E
+M>di una lettera</E
+M>di un film</E
+M>di uno spettacolo</E
+M>di un discorso</E
+M>di una discussione</E
+M>la l</E
+M>d’un viaggio</E
+M>d’una passeggiata</E
+M>una conferenza di stucchevole l</E
+M>la l</E
+M>del giorno e della notte</E
+M>la l</E
+M>media della vita</E
+M>la l</E
+M>del naso di Pinocchio</E
+M>la l</E
+M>della seduta mi aveva stancato</E
+M>data la l</E
+M>del cammino</E
+M>dovremmo avviarci all’alba per poter arrivare prima di sera</E
+M>di una vocale</E
+M>di una sillaba</E
+M>false maglie</E

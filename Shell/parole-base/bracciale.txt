@@ -1,0 +1,13 @@
+bracciale.txt
+"bracciale"
+"braccialetto"
+"bracciale"
+"bracciale"
+M>braccio</E
+M>brachiale</E
+M>alla moderna</E
+M>a bracciale</E
+M>il b</E
+M>internazionale della Croce Rossa</E
+M>il b. del servizio d’ordine</E
+M>da arciere</E

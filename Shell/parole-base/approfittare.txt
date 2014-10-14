@@ -1,0 +1,29 @@
+approfittare.txt
+"approfittare"
+"approfittare, replace: approfittarsi"
+"approfittare, replace: approfittarsene"
+"approfittare della gentilezza di"
+"approfittare di"
+"approfittare di"
+"approfittare di"
+"approfittare di"
+"approfittare di"
+"non approfittare, replace: non approfittarsene"
+"trarre vantaggio, approfittare"
+#*'' devo 
+#*''non si deve 
+*[[sfruttare]], [[avvalersi]], [[servirsi]], [[giovarsi]], [[utilizzare]], [[usare]]
+*[[approfittatore]]
+M>avere</E
+M>di una buona occasione</E
+M>delle circostanze</E
+M>il malcapitato approfittò della confusione per svignarsela</E
+M>i ladri approfittarono dell’assenza dei proprietarî per penetrare nella villa</E
+M>approfitterò di questo giorno di vacanza per riposarmi un po’.</E
+M>delle lezioni</E
+M>degli insegnamenti ricevuti</E
+M>profittare</E
+M>approfittarsi del denaro</E
+M>della buona fede</E
+M>dell’ignoranza altrui</E
+M>a. di una donna</E

@@ -1,0 +1,214 @@
+pronto.txt
+"Bell'e pronto"
+"cassetta di pronto soccorso"
+"essere pronto"
+"essere pronto"
+"essere pronto"
+"essere pronto per"
+"essere pronto, preparato"
+"non essere pronto"
+"posto di pronto soccorso"
+"posto di pronto soccorso"
+"pronto"
+"pronto"
+"pronto"
+"pronto"
+"pronto"
+"pronto a"
+"pronto a"
+"pronto a"
+"pronto a intervenire"
+"pronto a perdonare"
+"pronto a ricevere compagnia"
+"pronto a tutto"
+"pronto al combattimento"
+"pronto all'uso"
+"pronto contro termini"
+"pronto da indossare"
+"pronto da presentare"
+"pronto in tavola"
+"pronto per"
+"pronto per"
+"pronto per"
+"pronto per essere proiettato"
+"pronto per l'azione"
+"pronto per la consegna"
+"pronto per la vendita"
+"pronto per qcs"
+"pronto soccorso"
+"pronto, volonteroso e capace"
+"pronto; preparato per fare qcs."
+"quasi pronto"
+"sei pronto per il grande passo?"
+"sempre pronto"
+"squadra di pronto intervento"
+"tenersi pronto"
+"tenersi pronto"
+"tutto pronto"
+"tutto pronto per"
+#* ''la cena è '''pronta''''', ''sono '''pronto''' per andare al cinema''
+#* '''''pronto''', chi parla?'' 
+* [[propenso]], [[veloce]], [[rapido]], [[svelto]], [[agile]], [[immantinente]]
+* [[indolente]], [[indeciso]], [[contrario]], [[pigro]], [[impreparato]], [[incompleto]], [[lento]]
+*[[prontezza]]
+* [[veloce]], [[rapido]], [[svelto]], [[indeciso]], [[pigro]]
+M>mptus</E
+M>prom</E
+M>è p</E
+M>la stanza?</E
+M>se vuoi coricarti</E
+M>il letto è p</E
+M>è p</E
+M>il pranzo?</E
+M>mettiamoci a tavola</E
+M>che la cena è quasi p</E
+M>il suo caffè è p</E
+M>signore!</E
+M>posto di p</E
+M>soccorso</E
+M>Pronto soccorso</E
+M>moda p</E
+M>l&#8217;apparecchio è già p</E
+M>per l&#8217;uso</E
+M>tutto è p</E
+M>per la partenza</E
+M>la nave è p</E
+M>a salpare</E
+M>tutto era ormai p</E
+M>per le nozze</E
+M>essere p</E
+M>stare per</E
+M>esser lì lì per</E
+M>l&#8217;aereo era p</E
+M>a decollare</E
+M>al decollo</E
+M>Avere pronta una cosa</E
+M>se ne hai bisogno</E
+M>ho io p</E
+M>il rimedio</E
+M>ha sempre la risposta p</E
+M>ha sempre pronta qualche scusa</E
+M>li hai p</E
+M>i soldi?</E
+M>sono pochi</E
+M>ma li voglio pronti</E
+M>pagare a pronti contanti</E
+M>a pronti</E
+M>pagare a pronta cassa</E
+M>pagamento a pronti</E
+M>se vuoi che usciamo</E
+M>io sono p</E
+M>il chirurgo</E
+M>il malato</E
+M>è p</E
+M>per l&#8217;intervento</E
+M>i soldati erano p. a combattere</E
+M>per il combattimento</E
+M>i paracadutisti erano p. per il lancio</E
+M>sarò p</E
+M>fra mezz&#8217;ora</E
+M>sii p</E
+M>per le dieci</E
+M>tenetevi pronti</E
+M>pronti a far fuoco!</E
+M>pronto!</E
+M>pronti!</E
+M>via!</E
+M>pronto?</E
+M>pronto!</E
+M>era già p</E
+M>per colpirlo</E
+M>ma io gli fermai la mano</E
+M>ero p</E
+M>a rinunciare</E
+M>saresti p</E
+M>a metterlo per iscritto?</E
+M>sono p</E
+M>anche a giurarlo</E
+M>è ormai deciso e p</E
+M>a tutto</E
+M>era p</E
+M>a seguirlo in capo al mondo</E
+M>era p</E
+M>al sacrificio</E
+M>a dare la vita per la causa</E
+M>Lo spirto è p</E
+M>ma la carne è stanca</E
+M>Spiritus quidem promptus est</E
+M>caro autem</E
+M>vero</E
+M>infirma</E
+M>essere p</E
+M>al riso</E
+M>al buonumore</E
+M>all&#8217;ottimismo</E
+M>al perdono</E
+M>è sempre p</E
+M>a ficcare il naso negli affari degli altri</E
+M>essere p</E
+M>all&#8217;ira</E
+M>allo sdegno</E
+M>alla vendetta</E
+M>a dire male di tutti</E
+M>a menare le mani</E
+M>maestro</E
+M>or mi concedi Ch&#8217;i&#8217; sappia quali sono</E
+M>e qual costume Le fa di trapassar parer sì pronte</E
+M>accorse p</E
+M>alla sua chiamata</E
+M>essere p</E
+M>agli ordini</E
+M>eccomi p</E
+M>al suo servizio</E
+M>a servirla</E
+M>gesso</E
+M>cemento a p</E
+M>presa</E
+M>augurî di p</E
+M>guarigione</E
+M>agiva con p</E
+M>risoluzione</E
+M>ebbe p</E
+M>intuizione del pericolo</E
+M>avere i riflessi p</E
+M>ingegno p</E
+M>intelligenza p</E
+M>ha una memoria prontissima</E
+M>esigo una p</E
+M>risposta</E
+M>risposta p</E
+M>ha sempre la risposta pronta!</E
+M>consegna dei lavori</E
+M>l&#8217;ubbidienza dev&#8217;essere p</E
+M>con un&#8217;azione p</E
+M>e decisa</E
+M>metter p</E
+M>rimedio</E
+M>riparo a qualche cosa</E
+M>è sempre p</E
+M>nell&#8217;azione</E
+M>nelle decisioni</E
+M>il bisogno e &#8217;l tempo chiede Pronta man</E
+M>pensier fermo</E
+M>animo audace</E
+M>è sempre p</E
+M>a criticare</E
+M>hai la lingua p</E
+M>tu!</E
+M>svernante</E
+M>in pronto</E
+M>avere</E
+M>essere</E
+M>tenere in p</E
+M>pronto</E
+M>tengo in p</E
+M>i denari occorrenti</E
+M>non posso aver le risposte così in p</E
+M>aveva anche in p</E
+M>e a un bisogno sapeva citare a memoria tutti i passi della Gerusalemme Liberata</E
+M>come della Conquistata</E
+M>che possono far testo in materia di cavalleria</E
+M>rispondere</E
+M>accorrere</E
+M>soccorrere prontamente</E
+M>prese prontamente la sua decisione</E

@@ -1,0 +1,32 @@
+boia.txt
+"boia"
+"boia"
+"boia"
+"un freddo boia"
+"un male boia"
+"vacca boia"
+#* ''ho una [[sete]] '''boia'''''
+*[[carnefice]], [[aguzzino]], [[torturatore]] 
+*italiano
+M>boia</E
+M>boia</E
+M>boiae</E
+M>arum</E
+M>fare il b</E
+M>il mestiere del b</E
+M>l’arte</E
+M>la professione del b</E
+M>consegnare il condannato nelle mani del b</E
+M>faccia da b</E
+M>essere il b</E
+M>di qualcuno</E
+M>fare il b</E
+M>con qualcuno</E
+M>non voglio aver a che fare con quel b</E
+M>del suo socio</E
+M>d’un mondo ladro!</E
+M>padrone b</E
+M>avaraccio b</E
+M>tempo b</E
+M>faceva un freddo boia</E
+M>boiàccia</E

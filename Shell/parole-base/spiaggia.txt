@@ -1,0 +1,56 @@
+spiaggia.txt
+"borsa da spiaggia"
+"essere all'ultima spiaggia"
+"lettino da spiaggia"
+"pallone da spiaggia"
+"spiaggia"
+"spiaggia"
+"spiaggia protetta"
+"sulla spiaggia"
+"tipo da spiaggia"
+"ultima spiaggia"
+"vestiti da spiaggia"
+#*''se costruiamo un castello di sabbia sulla spiaggia, dopo qualche giorno lo troveremo appianato e livellato, e infine scomparirà''     
+*[[costa]], [[litorale]], [[riva]], [[arenile]]; [[lido]], [[bagnasciuga]], [[battigia]]
+*''ultima spiaggia''
+*italiano
+M>piaggia</E
+M>-ge</E
+M>S. a lido</E
+M>s. a delta</E
+M>s. stretta</E
+M>ampia</E
+M>s. bassa</E
+M>le ampie s. oceaniche</E
+M>le s. dell&#8217;Adriatico</E
+M>del Tirreno</E
+M>delegazione di s.</E
+M>comando di s.</E
+M>le s. del litorale adriatico</E
+M>le s. della Versilia</E
+M>una s. elegante</E
+M>ben frequentata</E
+M>esclusiva</E
+M>familiare</E
+M>una s. affollata</E
+M>tranquilla</E
+M>appartata</E
+M>s. libera</E
+M>andare alla s.</E
+M>stare sulla s.</E
+M>scendere in spiaggia</E
+M>starsene tutto il giorno in spiaggia</E
+M>costume</E
+M>cappello</E
+M>borsa da spiaggia</E
+M>vita di spiaggia</E
+M>facevano assieme anche vita di spiaggia</E
+M>tipo da spiaggia</E
+M>ultima s.</E
+M>per molti lavoratori stranieri il nostro paese è l&#8217;ultima s.</E
+M>essere</E
+M>trovarsi all&#8217;ultima spiaggia</E
+M>L&#8217;ultima spiaggia</E
+M>On the beach</E
+M>dispiega Candido rivo il puro seno ... E preme in fuga l&#8217;odorate spiagge</E
+M>una suggestiva spiaggetta tra gli scogli</E

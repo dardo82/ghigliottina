@@ -1,0 +1,48 @@
+pulizia.txt
+"fare pulizia di corruzione etc."
+"pulizia"
+"pulizia"
+"pulizia del pavimento"
+"pulizia del tappeto"
+"pulizia profonda, pulizia di fino"
+"pulizia tubazioni"
+"squadra di pulizia"
+#*''donna di pulizia''
+*[[nitidezza]], [[lindore]], [[lucentezza]], [[lustro]], [[candore]], [[mondezza]], [[purità]], [[lavata]], [[pulitura]], [[ripulitura]], [[depurazione]], [[depuramento]]
+*[[sporcizia]] 
+*[[pulita]], [[pulire]], [[pulitore]], [[pulito]], [[pulizia etnica]]
+*italiano
+M>la p</E
+M>della casa</E
+M>della città</E
+M>la p</E
+M>della persona</E
+M>personale</E
+M>curare</E
+M>trascurare la p</E
+M>il rispetto della p</E
+M>l&#8217;amore per la p</E
+M>una persona di grande p</E
+M>morale</E
+M>fare la p</E
+M>le p</E
+M>di casa</E
+M>essere incaricato delle p</E
+M>gli addetti alle p</E
+M>l&#8217;uomo</E
+M>la donna delle p</E
+M>fare le p</E
+M>pasquali</E
+M>fare pulizia di qualche cosa</E
+M>i bambini hanno fatto p</E
+M>della torta!</E
+M>fare pulizia</E
+M>in quegli uffici bisognerebbe fare p</E
+M>un po&#8217; di pulizia</E
+M>una buona p.</E
+M>p. etnica</E
+M>alla fiamma</E
+M>saper profittare di tutto</E
+M>con buona grazia</E
+M>con pulizia</E
+M>con un poco di disinvoltura</E

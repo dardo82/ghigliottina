@@ -1,0 +1,29 @@
+falce.txt
+"falce"
+"falce e martello"
+*[[roncola]], [[falcetto]]
+*italiano
+M>falx falcis</E
+M>per cereali</E
+M>messoria</E
+M>per foraggi</E
+M>fienaia</E
+M>fiamminga</E
+M>il grano è alla f</E
+M>vicino alla f</E
+M>mettere la f</E
+M>nel campo altrui</E
+M>giugno</E
+M>la f</E
+M>in pugno</E
+M>falce e martello</E
+M>O f</E
+M>di luna calante</E
+M>Che brilli su l’acque deserte</E
+M>o f</E
+M>d’argento</E
+M>cerebrale</E
+M>grande f</E
+M>cerebellare</E
+M>piccola f</E
+M>falciuòlo</E

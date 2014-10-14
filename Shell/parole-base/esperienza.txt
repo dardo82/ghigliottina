@@ -1,0 +1,143 @@
+esperienza.txt
+"accumulare esperienza"
+"aver maturato una lunga esperienza"
+"avere esperienza"
+"avere esperienza"
+"con esperienza"
+"con esperienza"
+"con esperienza in"
+"con esperienza, pratico di"
+"esperienza"
+"esperienza"
+"esperienza"
+"esperienza è spesso usata al plur. (E' una persona cui piace fare esperienze sempre nuove)"
+"esperienza"
+"esperienza coloniale"
+"esperienza di lavoro"
+"esperienza difficile"
+"esperienza maturata"
+"esperienza mistica"
+"esperienza passata"
+"esperienza precedente"
+"esperienza sul campo"
+"esperienza traumatica"
+"fare esperienza"
+"fare esperienza"
+"farsi esperienza in qcs, apprendere le basi di un lavoro"
+"imparare per esperienza"
+"mancare di esperienza"
+"maturare esperienza"
+"per esperienza, dall'esperienza"
+"per mia esperienza, dalla mia esperienza"
+"sapere per esperienza"
+"vantare esperienza"
+*[[esperimento]], [[sperimentazione]], [[esame]], [[test]], [[esercizio]], [[conoscenza]], [[consapevolezza]], [[saggezza]], [[maturità]], [[competenza]], [[pratica]], [[capacità]], [[abilità]], [[accortezza]], [[perizia]], [[abitudine]], [[uso]], [[rodaggio]]
+*[[prova]], [[tentativo]], [[saggio]]
+*[[fatto]], [[vicenda]], [[situazione]], [[evento]], [[episodio]], [[momento]], [[avventura]]
+*[[inesperienza]], [[ignoranza]], [[inconsapevolezza]], [[immaturità]], [[incompetenza]], [[incapacità]],  [[imperizia]] 
+*[[esperienziale]]
+*[[esperire]],[[esperto]], [[empiria]], [[empirismo]], [[empirico]], [[empiricità]]
+M>experientia</E
+M>experiri</E
+M>avere</E
+M>non avere e</E
+M>di una cosa</E
+M>acquistare e</E
+M>della vita</E
+M>del mondo</E
+M>degli uomini</E
+M>dell’animo umano</E
+M>Non vogliate negar l’esperïenza</E
+M>Di retro al sol</E
+M>del mondo sanza gente</E
+M>I secoli d’ignoranza medesimi</E
+M>servono d’istruzione e di sperienza ai secoli illuminati</E
+M>imparare</E
+M>intendere</E
+M>sapere</E
+M>conoscere</E
+M>parlare per e</E
+M>si vede per esperienza ne’ nostri tempi quelli principi avere fatto gran cose che della fede hanno tenuto poco conto</E
+M>fare esperienza</E
+M>di qualche cosa</E
+M>ne ho fatto io stesso dolorosa esperienza</E
+M>verità confermata dall’e</E
+M>opinione fondata sull’e</E
+M>giudicare al lume dell’e</E
+M>esterna</E
+M>interna</E
+M>comune</E
+M>scientifica</E
+M>metodica</E
+M>religiosa</E
+M>persona di molta</E
+M>di poca e</E
+M>è un vecchio ricco</E
+M>pieno</E
+M>d’e</E
+M>giovane senza e</E
+M>privo d’e</E
+M>i frutti dell’e</E
+M>l’e</E
+M>dimostra che</E
+M>artistiche</E
+M>estetiche</E
+M>intellettuali</E
+M>letterarie</E
+M>politiche</E
+M>bramoso</E
+M>assetato di sempre nuove e</E
+M>ogni pagina che scrive è per lui una nuova esperienza</E
+M>raccontare le proprie e</E
+M>di guerra</E
+M>di vita sul mare</E
+M>una donna che ha fatto</E
+M>che ha avuto</E
+M>le sue e</E
+M>prematrimoniali</E
+M>esperienze di fisica</E
+M>di chimica</E
+M>esperienze di laboratorio</E
+M>critica</E
+M>fannogli fare la sperienza da ritrovarlo</E
+M>con galle di gengiovo e con vernaccia</E
+M>tentare un’e</E
+M>su una persona</E
+M>una cosa</E
+"name": "Punti esperienza"
+"name": "Esperienza"
+"name": "L'esperienza"
+"name": "Curva di esperienza"
+"name": "Esperienza di E\u00f6tv\u00f6s"
+"name": "Vecchi senza esperienza"
+"name": "Canti d'innocenza, canti d'esperienza"
+"name": "Canti d'innocenza, canti d'esperienza"
+"name": "Canti d'innocenza, canti d'esperienza"
+"name": "Innocenza esperienza"
+"name": "Canti d'innocenza, canti d'esperienza"
+"name": "Canti d'innocenza, canti d'esperienza"
+"name": "Canti d'innocenza, canti d'esperienza"
+"name": "Canti d'innocenza, canti d'esperienza"
+"name": "L'esperienza"
+"name": "L'esperienza"
+"name": "Vecchi senza esperienza"
+"name": "Vecchi senza esperienza"
+"name": "Innocenza esperienza"
+"name": "Innocenza esperienza"
+"name": "Innocenza esperienza"
+"name": "Innocenza esperienza"
+"name": "Innocenza esperienza"
+"name": "Innocenza esperienza"
+"name": "Esperienza religiosa (Experiencia religiosa)"
+"name": "Esperienza religiosa (Experiencia religiosa) (remix)"
+"name": "L'esperienza"
+"name": "L'esperienza"
+"name": "L'esperienza"
+"name": "L'esperienza"
+"name": "Esperienza religiosa (Experiencia religiosa) (remix)"
+"name": "Vecchi senza esperienza"
+"name": "L'esperienza dell'amore"
+"name": "L'esperienza dell'amore (alternative version)"
+"name": "L'esperienza dell'amore"
+"name": "L'esperienza dell'amore (alternative version)"
+"name": "La politica dell'esperienza"

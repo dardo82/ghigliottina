@@ -1,0 +1,89 @@
+commercio.txt
+"agente di commercio"
+"camera di commercio"
+"camera di commercio per giovani professionisti"
+"commercio"
+"commercio basato su condizioni di reciprocità"
+"commercio basato su condizioni di reprocità"
+"commercio di calzetteria"
+"commercio di cavalli"
+"commercio di diamanti"
+"commercio di schiavi"
+"commercio di spezie"
+"commercio equo"
+"commercio equo"
+"commercio estero"
+"commercio legname"
+"commercio mercantile"
+"commercio multilaterale"
+"commercio reciproco"
+"il mondo del commercio"
+"in commercio"
+"istituto per il commercio"
+"laurea in economia e commercio"
+"mettere in commercio"
+"Ministero del commercio"
+"ministero del commercio estero"
+"non in commercio"
+"rappresentante di commercio"
+"relativo a commercio, scambio di cavalli"
+#*''quel balordo è dedito al commercio di stupefacenti''
+*[[compravendita]], [[vendita]], [[traffico]], [[scambio]], [[negoziazione]], [[import-export]], [[mercato]], [[smercio]]
+*[[commerciare]]
+*''fuori commercio''
+*''la pubblicità è l'anima del commercio''
+M>commercium</E
+M>con</E
+M>merx mercis</E
+M>esercitare il c.</E
+M>darsi al c.</E
+M>essere in</E
+M>nel</E
+M>ritirarsi dal c.</E
+M>essere in c.</E
+M>fuori c.</E
+M>mettere in c.</E
+M>esemplare fuori c.</E
+M>trattato di c.</E
+M>camera di c.</E
+M>c. internazionale</E
+M>interstatale</E
+M>c. con l’estero</E
+M>c. interno</E
+M>domestico</E
+M>c. all’ingrosso</E
+M>c. al minuto</E
+M>al dettaglio</E
+M>c. ambulante</E
+M>c. a termine</E
+M>c. elettronico</E
+M>e-commerce</E
+M>c. equo e solidale</E
+M>equocommercio</E
+M>c. della frutta</E
+M>della verdura</E
+M>c. dei tessuti</E
+M>c. delle armi</E
+M>traffico d’armi</E
+M>c. della</E
+M> valuta</E
+M>fare commercio di una cosa</E
+M>fare c</E
+M>delle cose sacre</E
+M>fare c</E
+M>della propria coscienza</E
+M>far c</E
+M>di sé</E
+M>della propria persona</E
+M>del proprio corpo</E
+M>prescrisse al bibliotecario che mantenesse commercio con gli uomini più dotti d’Europa</E
+M>epistolare</E
+M>il c</E
+M>con gli altri uomini</E
+M>con i nostri simili</E
+M>Che intollerabil noia Gli ozi</E
+M>i c</E
+M>usati</E
+M>col nemico</E
+M>intesa</E
+M>carnale</E

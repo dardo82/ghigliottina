@@ -1,0 +1,52 @@
+immediato.txt
+"a impatto immediato"
+"Con effetto immediato"
+"essere un successo immediato"
+"giudizio immediato"
+"immediato"
+"immediato futuro"
+"immediato futuro"
+"in un futuro immediato"
+"riferimento immediato"
+"scopo immediato"
+*[[pronto]], [[veloce]], [[rapido]], [[istantaneo]], [[fulmineo]], [[sollecito]], [[tempestivo]], [[solerte]], [[subitaneo]]
+*[[diretto]], senza interposizioni
+*[[naturale]], [[spontaneo]], [[fresco]], [[vivace]]
+*[[istintivo]], [[impulsivo]], [[irrazionale]]
+*[[lento]], [[tardo]], [[ritardato]]
+*[[indiretto]], [[mediato]]
+*[[ricercato]], [[artificiale]]
+*[[controllato]], [[razionale]]
+*[[immediatamente]], [[immediatezza]]
+*[[subito]], [[rapido]]
+M>immediatus</E
+M>mediatus</E
+M>causa i</E
+M>effetti i</E
+M>nelle i</E
+M>vicinanze</E
+M>gli i</E
+M>successori</E
+M>il suo superiore i</E
+M>essere alle i</E
+M>dipendenze</E
+M>stare a contatto immediato</E
+M>guarigione i</E
+M>pagamento i</E
+M>le nuove disposizioni entrano in vigore con decorrenza immediata</E
+M>inferenza immediata</E
+M>per l’immediato</E
+M>per l’i</E
+M>il governo non intende fare dichiarazioni</E
+M>provvedere all’i</E
+M>guardare</E
+M>non guardare oltre l’orizzonte dell’immediato</E
+M>idee immediatamente congiunte</E
+M>seguire</E
+M>procedere</E
+M>dipendere immediatamente</E
+M>immediatamente prima</E
+M>dopo</E
+M>ebbe un attimo di smarrimento ma si riprese immediatamente</E
+M>se ne vada immediatamente!</E
+M>mi comprese immediatamente</E

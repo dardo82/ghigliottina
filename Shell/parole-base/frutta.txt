@@ -1,0 +1,75 @@
+frutta.txt
+"acidi della frutta"
+"albero da frutta"
+"bancarella di frutta"
+"bar che vende succhi di frutta freschi"
+"caramella alla frutta"
+"cesta di frutta"
+"cocktail di frutta"
+"confezionamento della frutta"
+"conserva di frutta"
+"conserva di frutta"
+"contenitore per frutta; barattolo"
+"essere alla frutta"
+"frutta"
+"frutta"
+"frutta a guscio"
+"frutta e verdura"
+"frutta e verdura"
+"frutta essiccata"
+"frutta fresca"
+"frutta sciroppata"
+"frutta secca"
+"gelatina alla frutta ricoperta di zucchero"
+"gelatine di frutta"
+"gusto di gelato con pezzettini di frutta fresca, secca o candita"
+"insalata di frutta"
+"moscerino della frutta"
+"piatto da frutta"
+"pipistrello della frutta"
+"polpa della frutta"
+"raccolta della frutta"
+"ripieno di frutta secca"
+"rum con succo di frutta"
+"salsa di spezie e frutta"
+"sapore di frutta"
+"succo di frutta"
+"torta alla frutta; panfrutto"
+"torta di frutta"
+#*''per dimagrire bisogna mangiare 
+#*''oggi prendo solamente primo e 
+*[[fruttaiolo]], [[fruttame]], [[frutteria]], [[fruttiera]], [[frutto]]
+* [[gelatina]], [[marmellata]]
+*''
+*''albero da 
+*''essere alla 
+*''arrivare alla 
+M>fructa</E
+M>fructum</E
+M>fructus</E
+M>pomum</E
+M>alberi da frutta</E
+M>da frutto</E
+M>matura</E
+M>acerba</E
+M>di stagione</E
+M>un piatto di frutta</E
+M>fresca</E
+M>secca</E
+M>selvatica</E
+M>di siepe</E
+M>f. nostrana</E
+M>f. esotica</E
+M>candita</E
+M>sciroppata</E
+M>in composta</E
+M>marmellata di frutta</E
+M>gelatina di frutta</E
+M>zucchero di frutta</E
+M>fruttosio</E
+M>levulosio</E
+M>succhi di frutta</E
+M>eteri di frutta</E
+M>frutta</E
+M>frutta</E
+M>frutte</E

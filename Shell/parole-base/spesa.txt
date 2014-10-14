@@ -1,0 +1,169 @@
+spesa.txt
+"accollarsi la spesa"
+"andare a far la spesa"
+"borsa della spesa"
+"busta della spesa"
+"capacità di spesa"
+"capitolo di spesa"
+"facoltà di spesa"
+"fare la spesa"
+"fare la spesa"
+"fare un preventivo di spesa"
+"giustificativo di spesa"
+"lista della spesa"
+"massimale di spesa"
+"poca spesa, tanta resa"
+"somma spesa"
+"spesa"
+"spesa"
+"spesa fissa"
+"spesa in conto capitale"
+"spesa non rimborsabile"
+"spesa per acquisto"
+"voce di spesa"
+#* ''la 
+#* ''la madre andò a far la 
+*denaro speso, [[importo]], [[somma]], [[costo]], [[prezzo]], [[quota]], [[versamento]], [[rata]], [[canone]], [[parcella]], [[onorario]], [[ pagamento]],[[ esborso]],[[ uscita]];[[compera]], [[acquisto]], [[shopping]] 
+*[[vendita]], [[smercio]], [[utile]], [[guadagno]], [[ricavo]], [[profitto]], [[entrata]], [[introito]], 
+*Enciclopedia [http
+M>exp</E
+M>nsa</E
+M>pecunia</E
+M>exp</E
+M>ndere</E
+M>fare</E
+M>affrontare</E
+M>sostenere una s.</E
+M>una forte s.</E
+M>una s. imprevista</E
+M>una piccola s.</E
+M>è stata un&#8217;ottima</E
+M>una pessima s.</E
+M>una s. inutile</E
+M>riuscire ad avere qualcosa senza s.</E
+M>con poca s.</E
+M>ultimamente ho avuto delle forti s.</E
+M>deve far fronte a ingenti s.</E
+M>bisogna limitare le s.</E
+M>rovinarsi con le s.</E
+M>lanciarsi nelle s.</E
+M>fare s. folli</E
+M>s. pazze</E
+M>badare</E
+M>stare attento alle s.</E
+M>regolarsi nelle s.</E
+M>non guardare</E
+M>non badare a spese</E
+M>costo</E
+M>prezzo</E
+M>importo</E
+M>quant&#8217;è la s.?</E
+M>la s. è minima</E
+M>modesta</E
+M>molto contenuta</E
+M>alta</E
+M>la s. sarà di cinquantamila euro</E
+M>la s. del restauro si aggira sul mezzo milione di euro</E
+M>la s. va divisa in parti uguali</E
+M>La s. è maggiore del ricavo</E
+M>la s. non vale l&#8217;impresa</E
+M>è più la s. che l&#8217;impresa</E
+M>la s. per il vitto</E
+M>per l&#8217;affitto</E
+M> per l&#8217;iscrizione all&#8217;università</E
+M>spese d&#8217;acquisto</E
+M>di manutenzione</E
+M>di assistenza</E
+M>spese postali</E
+M>di spedizione</E
+M>di trasporto</E
+M>spedizione con consegna a domicilio franco di spesa</E
+M>di spese</E
+M>spese di pubblicità</E
+M>di propaganda</E
+M>spese di rappresentanza</E
+M>spese di viaggio</E
+M>di vitto e alloggio</E
+M>di soggiorno</E
+M>minute s.</E
+M>s. minute</E
+M>chiedere</E
+M>concedere il rimborso delle s.</E
+M>stare sulle s.</E
+M>lavorare per le s.</E
+M>farsi buone s.</E
+M>fare le buone s. a qualcuno</E
+M>ho altro a pensare che de&#8217; tuoi sollazzi</E
+M> e di farti le buone s.</E
+M>a spese</E
+M>alle s.</E
+M>i lavori saranno fatti a s. del proprietario</E
+M>a nostre spese</E
+M>viaggiare a proprie s.</E
+M>a s. della ditta</E
+M>i plebei ... dovevano servire a&#8217; signori a loro spese nelle guerre</E
+M>imparare a proprie s.</E
+M>ho imparato a mie s. a guardarmi dai falsi amici</E
+M>Ché conven ch&#8217;altri impare a le sue spese</E
+M>Ben è felice quel</E
+M> donne mie care</E
+M> Ch&#8217;essere accorto all&#8217;altrui spese impare</E
+M>ottenere</E
+M>riuscire</E
+M>a spese di qualcuno</E
+M>riuscire a spese della propria dignità</E
+M>avere successo a spese della propria tranquillità</E
+M>fare le s. di qualcosa</E
+M>è lui che ha fatto le spese della serata</E
+M>vado in centro a fare alcune s.</E
+M>esco a fare spese</E
+M>con quel cappotto preso in liquidazione hai fatto una buona s.</E
+M>hai fatto una pessima s.</E
+M> quel quadro non ha nessun valore</E
+M>s. proletaria</E
+M>esproprio proletario</E
+M>andare a fare la s.</E
+M>uscire per la s.</E
+M>fare la s. nei negozî vicini a casa</E
+M>al mercato</E
+M>al supermercato</E
+M>la borsa della s.</E
+M>per la s.</E
+M>mettere la s. in macchina</E
+M>farsi mandare</E
+M>portare</E
+M> la s. a casa</E
+M>operai che ricevevano come compenso una mercede in denaro e</E
+M> in più</E
+M> la spesa</E
+M>spese d&#8217;impianto</E
+M>d&#8217;esercizio</E
+M>s. generali</E
+M>fisse</E
+M>s. speciali</E
+M>variabili</E
+M>s. pubblica</E
+M>s. ordinarie</E
+M>s. straordinarie</E
+M>s. obbligatorie</E
+M>facoltative</E
+M>s. fisse</E
+M>variabili</E
+M>aumento</E
+M>diminuzione</E
+M>controllo della s. pubblica</E
+M>S. marginale</E
+M>s. necessarie</E
+M>s. utili</E
+M>s. voluttuarie</E
+M>s. condominiali</E
+M>s. di recapito</E
+M>s. di protesto</E
+M>con s.</E
+M>senza spese</E
+M>s. giudiziali</E
+M>processuali</E
+M>condannare alle s. la parte soccombente</E
+M>l&#8217;imputato</E
+M>altra s. mi strigne Tanto ch&#8217;a questa non posso esser largo</E
+M>la necessità gli costrigneva a tenere sempre guardate con grandissima s. tante isole e tante terre marittime</E

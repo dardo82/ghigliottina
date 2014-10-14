@@ -1,0 +1,28 @@
+vassoio.txt
+"vassoio"
+"vassoio"
+"contenuto di un vassoio"
+"vassoio"
+"vassoio da formaggio"
+"vassoio da tavolo"
+"vassoio da tè"
+"vassoio del tè"
+"vassoio portaoggetti"
+M>miss</E
+M>rium</E
+M>mitt</E
+M>vas</E
+M>un v. di peltro</E
+M>d’argento</E
+M>di rame argentato</E
+M>di maiolica</E
+M>di porcellana</E
+M>mettere l’arrosto</E
+M>il fritto sul v.</E
+M>passare col v. tra gli invitati per offrire i pasticcini</E
+M>il vermut</E
+M>v. per guanti</E
+M>v. per la posta</E
+M>sparviere</E
+M>vassóia</E
+M>capistèo</E

@@ -1,0 +1,292 @@
+famiglia.txt
+"alloggio in famiglia"
+"altare di famiglia"
+"avere una famiglia alle spalle"
+"Bibbia di famiglia"
+"capo famiglia"
+"casa famiglia"
+"certificato di famiglia"
+"cimelio di famiglia"
+"cognome di famiglia"
+"con la tua famiglia"
+"confezione famiglia"
+"corridore delle strade (Geococcyx californianus, uccello della famiglia dei cuculidi)"
+"della famiglia"
+"della famiglia"
+"della famiglia d'origine"
+"di buona famiglia"
+"di madre di famiglia, direttrice"
+"diritto di famiglia"
+"essere legato alla famiglia"
+"famiglia"
+"famiglia"
+"famiglia"
+"famiglia"
+"famiglia affidataria"
+"famiglia allargata"
+"famiglia benestante"
+"famiglia del giglio"
+"famiglia del nucleo"
+"famiglia della senape"
+"famiglia di cani"
+"famiglia di curve"
+"famiglia di fatto"
+"famiglia di separati"
+"famiglia felice"
+"famiglia paterna"
+"famiglia umana"
+"far parte della famiglia"
+"festa di famiglia"
+"gentilissima famiglia"
+"gioielli di famiglia"
+"grande famiglia"
+"grandezza della famiglia"
+"i panni sporchi si lavano in famiglia"
+"il ruolo della famiglia"
+"incontro di famiglia"
+"lutto in famiglia"
+"medico di famiglia"
+"membro della famiglia"
+"mettere su famiglia"
+"nato in una famiglia nobile o comunque di elevato ceto sociale"
+"podere di famiglia"
+"prima famiglia"
+"problemi di famiglia"
+"sistemare per famiglia"
+"stile di famiglia"
+"una grande famiglia felice"
+"uomo casa e famiglia; padre di famiglia"
+"vivere in famiglia"
+*''(individui legati da rapporto di parentela)'' [[parentado]], [[parenti]], [[congiunti]] 
+*''(l'insieme di tutte le persone dello stesso sangue)'' [[casata]], [[stirpe]], [[dinastia]], [[origine]]
+*[[consultorio familiare]]
+*Devoto/Oli, ''Il dizionario della lingua italiana '', edizione cartacea 2000-2001, Le Monnier, p. 785
+m>fam</e
+m>lia</e
+m>fam</e
+m>lus</e
+m>una f</e
+m>di foche</e
+m>di rondini</e
+m>nucleare</e
+m>elementare</e
+m>ristretta</e
+m>nucleare</e
+m>estesa</e
+m>f. allargata</e
+m>patriarcale</e
+m>patriarca</e
+m>grande</e
+m>monogamica</e
+m>poligamica</e
+m>poliginica</e
+m>poliandrica</e
+m>sociologia della f</e
+m>trasformazioni</e
+m>crisi della f</e
+m>la f</e
+m>rurale</e
+m>contadina</e
+m>urbana</e
+m>operaia</e
+m>borghese</e
+m>terapia della f</e
+m>terapia familiare</e
+m>more uxorio</e
+m>di fatto</e
+m>legittima</e
+m>una f</e
+m>numerosa</e
+m>povera</e
+m>agiata</e
+m>farsi una f</e
+m>mettere su famiglia</e
+m>avere famiglia</e
+m>ho famiglia</e
+m>tengo famiglia</e
+m>essere senza famiglia</e
+m>mantenere la f</e
+m>provvedere alla f</e
+m>essere carico di famiglia</e
+m>avere una grossa f</e
+m>sulle spalle</e
+m>legami</e
+m>vincoli</e
+m>interessi</e
+m>impegni</e
+m>doveri</e
+m>cure</e
+m>pensieri di famiglia</e
+m>le gioie</e
+m>gli affetti</e
+m>i pesi</e
+m>gli oneri</e
+m>le preoccupazioni della f</e
+m>festa</e
+m>lutto di famiglia</e
+m>governo della f</e
+m>chi vuol bella f</e
+m>cominci dalla figlia</e
+m>Sacra f</e
+m>la &laquo;Sacra F.&raquo; di Michelangelo</e
+m>ecco il sor Antonio che arriva con tutta la sua sacra famiglia</e
+m>padre di f</e
+m>madre di f</e
+m>figlio di f</e
+m>una povera</e
+m>un&rsquo;ottima</e
+m>madre di f</e
+m>un buon figlio di f</e
+m>figlio di f</e
+m>finch&eacute; &egrave; figlio di f</e
+m>non ha certo voglia di cercare lavoro</e
+m>diritto di f</e
+m>capo f</e
+m>consiglio di f</e
+m>il pap&agrave; e la mamma hanno tenuto consiglio di f</e
+m>e hanno deciso di limitare l&rsquo;invito a poche persone</e
+m>consiglio di f</e
+m>stato di f</e
+m>richiedere</e
+m>rilasciare</e
+m>presentare lo stato di f</e
+m>foglio di f</e
+m>imposta di f</e
+m>colonica</e
+m>il risparmio delle famiglie</e
+m>vivere</e
+m>stare in f</e
+m>allontanarsi dalla f</e
+m>tornare in f</e
+m>vita di f</e
+m>un uomo tutto f</e
+m>essere di f</e
+m>sentirsi in f</e
+m>come in f</e
+m>siamo</e
+m>eravamo</e
+m>una f</e
+m>come una f</e
+m>educare un figlio in f</e
+m>trattare le cose in f</e
+m>i panni sporchi vanno lavati in f</e
+m>un&rsquo;antica</e
+m>un&rsquo;illustre f</e
+m>essere di f</e
+m>nobile</e
+m>patrizia</e
+m>essere di buona f</e
+m>una f</e
+m>decaduta</e
+m>l&rsquo;origine</e
+m>la discendenza d&rsquo;una f</e
+m>le tradizioni</e
+m>le glorie della f</e
+m>la f</e
+m>si continua</e
+m>si dirama</e
+m>s&rsquo;estingue</e
+m>fattezze</e
+m>fisionomia di f</e
+m>aria</e
+m>tipo</e
+m>stampo di f</e
+m>virt&ugrave;</e
+m>viz&icirc; di f</e
+m>c&agrave;pita nelle migliori f</e
+m>reale</e
+m>imperiale</e
+m>ducale</e
+m>patto di f</e
+m>d&rsquo;arte</e
+m>teneva costui</e
+m>s&igrave; come nobile uomo e ricco</e
+m>molta f</e
+m>e cani</e
+m>le mancie che si dovranno lasciare alla f</e
+m>de&rsquo; miei ospiti</e
+m>morto lui</e
+m>il nuovo padrone</e
+m>dando lo sfratto a tutta la f</e
+m>e facendo brigata nuova</e
+m>aveva per&ograve; ritenuto quel servitore</e
+m>la f</e
+m>d&rsquo;un cardinale</e
+m>pontificia</e
+m>la f</e
+m>del giudice</e
+m>del rettore</e
+m>del bargello</e
+m>vino da f</e
+m>roba da f</e
+m>tipo f</e
+m>v&rsquo;ho dimostrato</e
+m>che questo non sia vin da f</e
+m>confezione famiglia</e
+m>formato famiglia</e
+m>tipo famiglia</e
+m>zephiro torna</e
+m>e &rsquo; l bel tempo rimena</e
+m>E i fiori e l&rsquo;erbe</e
+m>sua dolce f</e
+m>Vidi &rsquo;l maestro di color che sanno Seder tra filosofica f</e
+m>Dal &lsquo;voi&rsquo; che prima a Roma s&rsquo;offerie</e
+m>In che la sua f</e
+m>men persevra</e
+m>la f</e
+m>italiana</e
+m>anglosassone</e
+m>europea</e
+m>la f</e
+m>umana</e
+m>la f</e
+m>piemontese</e
+m>la f</e
+m>romagnola</e
+m>la f</e
+m>modenese</e
+m>colonia</e
+m>scrittori</e
+m>poeti</e
+m>artisti d&rsquo;una stessa f</e
+m>di scrittori</e
+m>la f</e
+m>dei francescani</e
+m>dei benedettini</e
+m>i fondatori delle quattro celebri f</e
+m>mendicanti</e
+m>ove pi&ugrave; il Sole Per me alla terra non fecondi questa Bella d&rsquo;erbe famiglia e d&rsquo;animali</e
+m>cosca</e
+m>linguistica</e
+m>di vocaboli</e
+m>di sinonimi</e
+m>di codici</e
+m>verde</e
+m>rosa</e
+m>gialla</e
+m>la f</e
+m>degli archi</e
+m>dei legni</e
+m>degli ottoni</e
+m>delle percussioni</e
+m>aceae</e
+m>idae</e
+m>acee</e
+m>idi</e
+m>composite</e
+m>ombrellifere</e
+m>palme</e
+m>dei graniti</e
+m>famiglia</e
+m>radioattiva</e
+m>famiglia di caratteri</e
+m>la f</e
+m>dei caratteri bodoniani</e
+m>del carattere latino antico</e
+m>dei caratteri a bastone</e
+m>la f</e
+m>delle coniche</e
+m>la f</e
+m>delle curve rettificabili</e
+m>la f</e
+m>delle funzioni integrabili</e

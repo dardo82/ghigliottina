@@ -1,0 +1,343 @@
+cuore.txt
+"a cuore aperto"
+"a forma di cuore"
+"affare di cuore"
+"al cuore di"
+"al cuore non si comanda"
+"amico del cuore"
+"amico del cuore"
+"amico del cuore"
+"aprire il proprio cuore"
+"arrivare al cuore"
+"attacco di cuore"
+"avere a cuore"
+"avere il cuore a pezzi"
+"battito di cuore"
+"buon cuore"
+"cardiopatia; mal di cuore"
+"che ha il cuore libero"
+"che scalda il cuore"
+"che tocca le corde del cuore"
+"col cuore infranto"
+"col cuore spezzato"
+"Con il cuore in mano"
+"con tutto il cuore"
+"con tutto il cuore"
+"con tutto il cuore; disperatamente"
+"cuore"
+"cuore"
+"parte del torace dove sta il cuore"
+"cuore"
+"cuore"
+"cuore"
+"oggetto a forma di cuore"
+"cuore"
+"cuore aperto (con generosità)"
+"cuore artificiale"
+"cuore artificiale"
+"cuore che batte"
+"cuore d'oro"
+"cuore di palma"
+"cuore di pietra"
+"cuore di pietra"
+"cuore di qcs"
+"cuore duro; insensibile"
+"cuore fegato"
+"cuore gelido"
+"cuore generoso"
+"Cuore in gola"
+"cuore in pena"
+"cuore infranto, cuore spezzato"
+"cuore pesante"
+"cuore sensibile"
+"cuore solitario"
+"cuore spezzato"
+"dal cuore"
+"dal cuore duro, crudele"
+"dal cuore duro, crudele"
+"dal cuore gelido"
+"debole di cuore"
+"di buon cuore"
+"di buon cuore"
+"di buon cuore, bonario"
+"di buon cuore, bonario"
+"di cuore"
+"di cuore"
+"di cuore caldo"
+"di tutto cuore, sincero"
+"durezza di cuore"
+"ferire al cuore"
+"fitta al cuore"
+"generoso, che fa bene al cuore"
+"gran cuore"
+"gran cuore"
+"grazie di cuore"
+"il cuore"
+"in fondo al suo cuore"
+"in modo insensibile, senza cuore"
+"intervento a cuore aperto"
+"lontano dagli occhi lontano dal cuore"
+"metterci il cuore"
+"mettersi il cuore in pace"
+"mi piange il cuore"
+"mi si stringe il cuore"
+"nel cuore"
+"nel cuore della notte"
+"nel cuore di"
+"nel profondo (del cuore)"
+"parte sinistra del cuore"
+"portare nel cuore"
+"prendere a cuore"
+"prendersi a cuore"
+"problemi di cuore"
+"profondo del cuore"
+"puro di cuore"
+"risata di cuore"
+"soffio al cuore"
+"spero di cuore di poterla incontrare"
+"stare a cuore"
+"stretta al cuore"
+"ti porto nel cuore"
+"ti spezza il cuore"
+"toccare il tuo cuore"
+"trapianto di cuore"
+#* ''battito del'' '''''cuore'''''
+#* ''malattia al'' '''''cuore''''' 
+#* ''stringersi qualcuno sul'' '''''cuore'''''
+#* ''giurando, portò la mano al'' '''''cuore'''''
+#* ''persona di'' '''''cuore''''', [[persona]] [[buona]] d'[[animo]], [[generosa]]
+#* ''a'' '''''cuore''''' ''aperto'', con tutta [[sincerità]]
+#* ''toccare il'' '''''cuore''''', [[commuoversi]], [[intenerirsi]] 
+#* ''avere il'' '''''cuore''''' ''di ghiaccio'', non lasciarsi [[intenerire]]
+#* ''mettersi il'' '''''cuore''''' ''in pace'', [[arrendersi]], [[rassegnarsi]]
+#* ''avvertire un tuffo al'' '''''cuore''''', provare un'[[intensa]] e [[inaspettata]] [[emozione]]
+#* ''anello a'' '''''cuore'''''
+#*il [[w
+#* ''il'' '''''cuore''''' ''dell'estate'', nel [[pieno]] di questa [[stagione]]
+#* ''avere un'' '''''cuore''''' ''di leone'', essere molto [[coraggioso]]
+#* ''non avere il'' '''''cuore''''' ''di fare qualcosa'', non avere il [[coraggio]] di fare qualcosa
+#* ''dare'' '''''cuore''''', [[incoraggiare]]
+#* ''asso di'' '''''cuori'''''
+#*dare il '''cuore''', fare di tutto per qualcosa
+#* ''avere in'' '''''cuore''''' ''di fare una cosa'', avere desiderio di fare una cosa
+#* '''''cuore''''' ''solitario'', [[persona]] che non ha un [[compagno]] di [[vita]]
+#* '''''cuore''''' ''semplice'', [[animo]] [[innocente]], [[ingenuo]]
+#* '''''cuore''''' ''artificiale'', [[ingegno]] sostituente del cuore
+* muscolo cardiaco
+*[[affetto]], [[amore]]; [[coraggio]], [[ardimento]]
+*(di oggetto, alimento, città) [[nucleo]], [[centro]], [[nocciolo]], [[sostanza]], [[essenza]], parte vitale
+*[[paura]], [[viltà]]
+*(di oggetto, alimento, città)  parte esterna, [[superficie]], [[periferia]]
+*[[batticuore]]
+*'' cuore del legno''
+*''al 
+*italiano
+M>mucrone</E
+M>atrî</E
+M>orecchiette</E
+M>ventricoli</E
+M>orifizio atrioventricolare</E
+M>ciclo cardiaco</E
+M>presistole</E
+M>diastole</E
+M>sistole</E
+M>perisistole</E
+M>i palpiti</E
+M>le pulsazioni del c</E
+M>il sangue affluisce al c</E
+M>senti come mi batte forte il c</E
+M>mi batteva il c</E
+M>il c</E
+M>mi batteva forte</E
+M>il c</E
+M>ha cessato di battere</E
+M>avere il c</E
+M>sano</E
+M>forte</E
+M>malato</E
+M>soffrire di cuore</E
+M>destro</E
+M>sinistro</E
+M>polmonare acuto</E
+M>polmonare cronico</E
+M>di vitello</E
+M>d’agnello</E
+M>cuocere il c</E
+M>in padella con un po’ di salvia</E
+M>si portò la mano al c</E
+M>stringersi</E
+M>serrarsi al c</E
+M>qualcuno</E
+M>artificiale</E
+M>elettronico</E
+M>pace</E
+M>maker</E
+M>sopra l’altare erano appesi c</E
+M>d’argento e altri ex</E
+M>voto</E
+M>asso</E
+M>fante</E
+M>regina di cuori</E
+M>avere il c</E
+M>tenero</E
+M>sensibile</E
+M>ardente</E
+M>compassionevole</E
+M>generoso</E
+M>duro</E
+M>insensibile</E
+M>feroce</E
+M>crudele</E
+M>di pietra</E
+M>di sasso</E
+M>di macigno</E
+M>di ghiaccio</E
+M>di tigre</E
+M>di belva</E
+M>uomo di c</E
+M>di buon c</E
+M>persona senza c</E
+M>avere c</E
+M>avere il c</E
+M>lieto</E
+M>avere il c. triste</E
+M>toccare il c</E
+M>spezzare</E
+M>strappare il c</E
+M>sentirsi schiantare il c</E
+M>avere una spina nel c</E
+M>mangiarsi</E
+M>rodersi il c</E
+M>sentire un tuffo al c</E
+M>stare col c</E
+M>in pena</E
+M>occhio non vede</E
+M>non duole</E
+M>Era già l’ora che volge il desio Ai navicanti e ’ntenerisce il core</E
+M>aprire il c</E
+M>parlare col c</E
+M>col c</E
+M>in mano</E
+M>fare una cosa col c</E
+M>con tutto il c</E
+M>tenere in c</E
+M>sgorgare</E
+M>venire dal c</E
+M>arrivare</E
+M>scendere al c</E
+M>ascoltare la voce del c</E
+M>il cuor mi dice che ci rivedremo presto</E
+M>avere il c</E
+M>sulle labbra</E
+M>con abbondanza di c</E
+M>gioire</E
+M>piangere in cuor proprio</E
+M>Molti han giustizia in cuore</E
+M>e tardi scocca</E
+M>Né più nel cor mi parlerà lo spirto Delle vergini Muse e dell’amore</E
+M>i grandi pensamenti nascono dal c</E
+M>e dal c</E
+M>nascono eziandio i grandi errori</E
+M>affetto</E
+M>sentimento</E
+M>Che pensieri soavi</E
+M>Che speranze</E
+M>che cori</E
+M>o Silvia mia!</E
+M>affari di c</E
+M>pene di c</E
+M>l’amico del c</E
+M>la donna del c</E
+M>il c. non invecchia mai</E
+M>lontano dagli occhi</E
+M>lontano dal cuore</E
+M>il c</E
+M>di un padre</E
+M>di una madre</E
+M>dare</E
+M>donare il c</E
+M>rubare il c</E
+M>a qualcuno</E
+M>guadagnare il c</E
+M>di qualcuno</E
+M>cuor mio!</E
+M>Sacro Cuore</E
+M>la festa del Sacro Cuore</E
+M>la chiesa del Sacro Cuore</E
+M>avere a c</E
+M>prendersi a c</E
+M>una cosa</E
+M>essere</E
+M>stare a c</E
+M>avere in c</E
+M>di fare una cosa</E
+M>di cuore</E
+M>accettare di c</E
+M>Oh di che cuor con voi mi resterei</E
+M>Guardando io rispondeva</E
+M>oh di che cuore!</E
+M>ridere di c</E
+M>offrire di c</E
+M>ringraziare di tutto c</E
+M>semplicità di c</E
+M>mettersi il c</E
+M>in pace</E
+M>Iddio gli ha toccato il c</E
+M>coraggio</E
+M>prendere c</E
+M>fare c</E
+M>farsi c</E
+M>perdersi di c</E
+M>mi manca il c</E
+M>avere</E
+M>di fare una cosa</E
+M>se ti dà il c</E
+M>di farlo</E
+M>non mi dà</E
+M>non mi basta</E
+M>non mi regge il c</E
+M>né dielle il core Di sprezzar la dimanda</E
+M>e il mesto addio Rinacerbir col niego</E
+M>sentirsi allargare il c</E
+M>in alto i cuori!</E
+M>avere</E
+M>essere un c</E
+M>di leone</E
+M>avere</E
+M>essere un cuor di coniglio</E
+M>di pecora</E
+M>di pulcino</E
+M>don Abbondio</E
+M>il lettore se n’è già avveduto</E
+M>non era nato con un cuor di leone</E
+M>Riccardo Cuor di Leone</E
+M>la squadra ha vinto per il suo gran c</E
+M>il nostro campione ha corso oggi con grande cuore</E
+M>ragione</E
+M>farsi guidare dal c</E
+M>più che dalla ragione</E
+M>dalla ragione più che dal c</E
+M>il c</E
+M>ha le sue ragioni che la ragione non conosce</E
+M>il c</E
+M>della città</E
+M>nel c</E
+M>della notte</E
+M>dell’inverno</E
+M>dell’estate</E
+M>il c</E
+M>del carciofo</E
+M>della lattuga</E
+M>in cuore</E
+M>del legno</E
+M>durame</E
+M>mal del c</E
+M>stellato</E
+M>cretto centrale</E
+M>Cuore di Carlo</E
+M>cuore di Maria</E
+M>Dicentra spectabilis</E
+M>cuore di mare</E
+M>Cardium</E
+M>cuore duro</E
+M>hard core</E

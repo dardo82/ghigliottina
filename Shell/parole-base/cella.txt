@@ -1,0 +1,19 @@
+cella.txt
+"cella"
+"cella"
+"cella"
+"cella animale"
+"cella combustibile"
+"cella d'aria"
+"cella di prigione"
+"cella di sicurezza"
+"cella frigorifera"
+"cella imbottita"
+"cella mortuaria"
+"cella standard"
+"cella tumorale"
+"cella voltaica"
+"compagno di cella"
+"compagno di cella in prigione"
+*[[prigione]]
+*[[celliere]]

@@ -1,0 +1,82 @@
+colpire.txt
+"attaccare; colpire qcs."
+"atto di colpire"
+"bussare su qcs, colpire qcs"
+"cercare di colpire"
+"cercare di colpire qualcuno"
+"colpire"
+"colpire"
+"colpire"
+"colpire alla testa"
+"colpire alle spalle"
+"colpire alle spalle"
+"colpire coi pugni"
+"colpire con forza"
+"colpire con forza"
+"colpire con la testa del martello"
+"colpire con un randello"
+"colpire con una mazza"
+"colpire con una mazza"
+"colpire con una palla da baseball"
+"colpire con violenza"
+"colpire dentro"
+"colpire di taglio"
+"colpire forte"
+"colpire forte"
+"colpire forte"
+"colpire la palla"
+"colpire la palla"
+"colpire nel segno"
+"colpire qualcuno"
+"colpire ripetutamente"
+"colpire ripetutamente"
+"colpire ripetutamente"
+"colpire ripetutamente"
+"colpire violentemente"
+"colpire violentemente"
+"colpire violentemente"
+"colpire, abbattere"
+"colpire, battere"
+"picchiare, percuotere, colpire"
+#*''L''''ha colpito''' con un calcio''
+#*'''''Hai colpito''' un povero ragazzo che passava di lì.''
+#*''La sua bravura mi '''ha colpito'''''
+*[[battere]], [[percuotere]], [[ferire]], [[danneggiare]], [[ledere]], [[punire]], [[penalizzare]] 
+*''(un bersaglio)'' [[prendere]], [[azzeccare]], [[imbroccare]]
+*[[fallire]], [[mancare]], [[sbagliare]]  
+M>io colpisco</E
+M>tu colpisci</E
+M>con la spada</E
+M>con un bastone</E
+M>con un pugno</E
+M>fu colpito in fronte da un sasso</E
+M>la tegola l’ha colpito sulla testa</E
+M>una palla nemica lo colpì al cuore</E
+M>non c</E
+M>il bersaglio</E
+M>il pallone di piede</E
+M>di testa</E
+M>al volo</E
+M>nel segno</E
+M>dove càpita</E
+M>le loro calunnie miravano a c</E
+M>soprattutto i dirigenti dell’istituto</E
+M>la loro onoratezza</E
+M>ricorrevano a ogni mezzo per c</E
+M>i loro avversarî politici</E
+M>il suo comportamento mi colpisce profondamente</E
+M>essere colpito nei proprî affetti più cari</E
+M>uno con un’allusione</E
+M>con un discorso</E
+M>uno nel vivo</E
+M>quella frase l’ha colpito nel vivo</E
+M>toccato nel vivo</E
+M>l’imposta colpisce soprattutto i piccoli proprietarî</E
+M>i profitti di guerra furono colpiti da una forte imposta</E
+M>provvedimento che colpisce soprattutto il contrabbando</E
+M>i contrabbandieri</E
+M>il governo oppressore colpiva duramente chiunque fosse sospetto di cospirazione</E
+M>rimase colpito dalla stranezza del racconto</E
+M>mi colpì profondamente la notizia della sua morte</E
+M>fui colpito da tanta audacia</E
+M>egli stesso fu subito colpito dal suono della parola che gli era uscita di bocca</E

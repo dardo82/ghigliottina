@@ -1,0 +1,18 @@
+cassetto.txt
+"cassetto"
+"cassetto"
+"meccanica, cassetto di distribuzione"
+"cassetto della cassa"
+"sogno nel cassetto"
+"tipico del ripostiglio, cassetto in disordine"
+M>cassa</E
+M>cassetta</E
+M>far dormire i lavori</E
+M>le pratiche</E
+M>nel c</E
+M>avere un romanzo</E
+M>un articolo</E
+M>un progetto</E
+M>nel c</E
+M>i sogni nel c</E
+M>di distribuzione</E

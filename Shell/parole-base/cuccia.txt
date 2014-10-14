@@ -1,0 +1,6 @@
+cuccia.txt
+"cuccia"
+"cuccia"
+*''a cuccia!''
+*italiano
+*napoletano

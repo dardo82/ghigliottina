@@ -1,0 +1,15 @@
+progressista.txt
+"conservatore progressista"
+"progressista"
+M>conservatore</E
+M>reazionario</E
+M>partito p</E
+M>governo p</E
+M>un intellettuale</E
+M>un artista p</E
+M>idee</E
+M>tendenze progressiste</E
+M>essere un p</E
+M>convinto</E
+M>un p</E
+M>radicale</E

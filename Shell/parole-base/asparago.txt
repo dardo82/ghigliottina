@@ -1,0 +1,10 @@
+asparago.txt
+"asparago"
+*[[asparagio]]
+M>aspar</E
+M>gus</E
+M>gio</E
+M>Asparagus officinalis</E
+M>Asparagus</E
+M>selvatico</E
+M>Asparagus acutifolius</E

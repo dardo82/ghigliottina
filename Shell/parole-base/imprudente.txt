@@ -1,0 +1,25 @@
+imprudente.txt
+"imprudente"
+"malconsigliato, imprudente, sconsiderato"
+*[[incosciente]], [[irresponsabile]], [[sconsiderato]], [[irriflessivo]], [[imprevidente]], [[pazzo]], [[folle]]
+*[[incauto]], [[avventato]], [[audace]]
+*[[prudente]], [[giudizioso]], [[riflessivo]], [[accorto]]
+*[[calmo]], [[tranquillo]]
+*[[imprudentemente]], [[imprudenza]]
+M>imprudens</E
+M>entis</E
+M>prudens</E
+M>sei i</E
+M>a maneggiare così quell’arma</E
+M>siamo stati i</E
+M>a imbarcarci col mare così grosso</E
+M>sei un</E
+M>una</E
+M>imprudente</E
+M>passo</E
+M>risoluzione</E
+M>consiglio</E
+M>decisione i</E
+M>parole imprudenti</E
+M>toccare imprudentemente un argomento delicato</E
+M>effettuare imprudentemente un sorpasso in curva</E

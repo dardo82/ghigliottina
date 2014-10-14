@@ -1,0 +1,127 @@
+lista.txt
+"a piè di lista"
+"capo lista"
+"della lista bianca"
+"entrare in lista"
+"la prima cosa da fare sulla lista"
+"lista"
+"lista"
+"lista"
+"lista"
+"lista annuale delle 500 maggiori società statunitensi"
+"lista attiva"
+"lista bianca"
+"lista civica"
+"lista d'attesa"
+"lista d'onore"
+"lista degli esami universitari sostenuti"
+"lista degli interventi"
+"lista degli studenti più meritevoli"
+"lista dei componenti"
+"lista dei contribuenti"
+"lista dei giurati"
+"lista dei passeggeri di un volo"
+"lista della spesa"
+"lista delle bevande"
+"lista delle vivande"
+"lista di"
+"lista di collocamento"
+"lista di controllo"
+"lista di cose che si richiedono"
+"lista di cose da fare"
+"lista di distribuzione"
+"lista di libri"
+"lista di nozze"
+"lista di parole"
+"lista di proscrizione"
+"lista di sottoscrizione"
+"lista di trasferimento"
+"lista elettorale"
+"lista movimenti"
+"lista nera"
+"lista nera"
+"lista nozze"
+"lista passeggeri"
+"lista ristretta"
+"lista; catalogo"
+"mettere in lista"
+"rappresentante di lista"
+"relativo ad una lista ristretta"
+*[[striscia]], [[fascia]]; ''(di legno)'' [[stecca]], [[bastone]], [[listello]], [[bacchetta]], [[doga]]; ''(di metallo)'' [[barra]];'' (di stoffa)'' [[fettuccia]], [[nastro]] 
+*[[nota]], [[elenco]], [[enumerazione]], [[ catalogo]]
+M>sta</E
+M>il laticlavio romano era una tunica orlata di una l</E
+M>di porpora</E
+M>una borsa fatta di liste di pelle cucite insieme</E
+M>il piano del tavolino è intarsiato lungo l’orlo con sottili l</E
+M>di legno</E
+M>capelli</E
+M>De’ quai cadeva al petto doppia l</E
+M>molti manifesti vengono stampati fra due l</E
+M>orizzontali</E
+M>lista</E
+M>liste di carderia</E
+M>lista dei ministri</E
+M>liste di proscrizione</E
+M>la l</E
+M>degli invitati</E
+M>la l</E
+M>delle vivande</E
+M>dei cibi</E
+M>la l</E
+M>dei vini</E
+M>l. della spesa</E
+M>presentare la l</E
+M>delle spese</E
+M>nota</E
+M>distinta</E
+M>dei prezzi</E
+M>listino</E
+M>l. di nozze</E
+M>lista delle parole</E
+M>liste di frequenza</E
+M>liste di parole in ordine di frequenza decrescente</E
+M>una l</E
+M>breve</E
+M>corta</E
+M>lunga</E
+M>interminabile</E
+M>fare</E
+M>compilare una l</E
+M>mettere nella l</E
+M>è anche lui nella l</E
+M>essere nella l</E
+M>degli spiantati</E
+M>lista</E
+M>essere</E
+M>mettere a capo l</E
+M>essere il capo l</E
+M>a piè di l</E
+M>rimborso di spese a piè di l</E
+M>elettorali</E
+M>lista dei candidati</E
+M>civica</E
+M>rappresentante di lista</E
+M>scrutinio di lista</E
+M> l. unica</E
+M>l. civetta</E
+M>navale</E
+M>di carico</E
+M>Liste di leva</E
+M>di trasferimento</E
+M>settimanali</E
+M>Lista d’attesa</E
+M>mettere</E
+M>mettersi in lista d’attesa</E
+M>nera</E
+M>essere</E
+M>mettere nella l</E
+M>nera</E
+M>libro nero</E
+M>nera</E
+M>nere</E
+M>bianche</E
+M>civile</E
+M>civil list</E
+M>liste civile</E
+M>dotazione della corona</E

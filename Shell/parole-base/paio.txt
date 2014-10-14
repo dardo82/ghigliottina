@@ -1,0 +1,91 @@
+paio.txt
+"imparare un paio di cose"
+"paio"
+"paio"
+"paio"
+"paio di forbici"
+"paio di mutande"
+"paio di occhiali"
+"paio di pantaloni"
+"paio di pantaloni"
+"paio di pinze"
+"paio di pinzette"
+"un altro paio di maniche"
+"un altro paio di maniche rispetto a qcs, tutta un'altra cosa rispetto a qcs, un'altra storia rispett"
+"un paio di"
+#*''un paio di scarpe''
+*[[coppia]]
+*[[pari]]
+*[[coppia]]
+M>paria</E
+M>par paris</E
+M>paia</E
+M>paio</E
+M>le pàia</E
+M>coppia</E
+M>un p</E
+M>di baffi</E
+M> di gambe</E
+M>di orecchi</E
+M>il primo</E
+M>il secondo p</E
+M>di nervi cranici</E
+M>un p</E
+M>di scarpe</E
+M>di guanti</E
+M>di calze</E
+M>di orecchini</E
+M>un p</E
+M>di forbici</E
+M>di tenaglie</E
+M>di molle</E
+M>di pinzette</E
+M>un p</E
+M>di calzoni</E
+M>di mutande</E
+M>di bretelle</E
+M>un p</E
+M>di occhiali</E
+M>un p</E
+M>di buoi</E
+M> di cavalli</E
+M>di muli</E
+M>comprare un p</E
+M>di polli</E
+M>un p</E
+M>di poliziotti</E
+M>di impiegati</E
+M>di infermieri</E
+M>essere un p</E
+M>essere una coppia e un paio</E
+M>sono un bel p</E
+M>di furfanti</E
+M>tra tutti e due fanno il p</E
+M>fare il p</E
+M>fare un bel p</E
+M>un p</E
+M>di bicchieri di vino</E
+M>un p</E
+M>di bottiglie</E
+M>un p</E
+M>di chili</E
+M>di litri</E
+M>un p</E
+M>di metri</E
+M>di chilometri</E
+M>un p</E
+M>di minuti</E
+M>di ore</E
+M>di giorni</E
+M>di mesi</E
+M>dare</E
+M>prendere un bel p</E
+M>di schiaffi</E
+M> di ceffoni</E
+M>un p</E
+M>di biglietti da cinque euro</E
+M>Paio di nozze</E
+M>nozze</E
+M>si scontrarono in una brigata di belle giovani donne e ornate</E
+M>che da un p</E
+M>di nozze venieno</E

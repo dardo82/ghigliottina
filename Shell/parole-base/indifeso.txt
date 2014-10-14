@@ -1,0 +1,24 @@
+indifeso.txt
+"essere indifeso"
+"indifeso"
+"indifeso"
+"indifeso, vulnerabile"
+"l'essere indifeso"
+"lasciare indifeso"
+*[[disarmato]], [[incustodito]], [[scoperto]], [[attaccabile]], [[sguarnito]]
+*[[fragile]]
+*[[difeso]], [[protetto]], [[custodito]], [[riparato]], [[fortificato]]
+*[[difendere]],[[indifendibile]], [[fragile]]
+M>difeso</E
+M>difendere</E
+M>indefensus</E
+M>città i</E
+M>una posizione i</E
+M>un settore i</E
+M>del fronte</E
+M>popolazioni i</E
+M>un ragazzo i</E
+M>essere i</E
+M>contro il diffondersi del malcostume</E
+M>contro i pericoli del mondo</E
+M>contro le tentazioni</E

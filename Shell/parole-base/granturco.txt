@@ -1,0 +1,10 @@
+granturco.txt
+"focaccia di granturco"
+"granturco, mais"
+"mais, granturco, granoturco"
+*[[mais]]
+* [[popcorn]]
+*[[granoturco]]
+M>grano</E
+M>turco</E
+M>mais</E

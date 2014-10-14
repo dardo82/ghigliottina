@@ -1,0 +1,92 @@
+richiedere.txt
+"richiedere"
+"richiedere"
+"richiedere"
+"richiedere"
+"richiedere"
+"richiedere"
+"richiedere è usato quasi esclusivamente al passivo"
+"richiedere attenzione"
+"richiedere in anticipo"
+"richiedere in anticipo; prenotare"
+"richiedere l'aiuto di qualcuno"
+"richiedere un deposito"
+"richiedere un pagamento"
+*[[chiedere]], [[domandare]],  [[volere]], [[esigere]],  [[necessitare]], [[volerci]]
+*[[richiedente]], [[richiesta]], [[richiesto]]
+*[[chiedere]]
+M>requaer</E
+M>requir</E
+M>quaer</E
+M>chiedere</E
+M>richièsto</E
+M>richèsto</E
+M>debbo richiederti il solito favore</E
+M>gli ho chiesto e richiesto come si chiamasse</E
+M> ma non mi ha risposto</E
+M>richiese al fidanzato le lettere che gli aveva scritto</E
+M>gli ho richiesto più volte i soldi che gli ho prestato</E
+M>ma inutilmente</E
+M>ha richiesto al padre la sua parte di eredità</E
+M>chiedere</E
+M>aiuto</E
+M>soccorso</E
+M>conforto a qualcuno</E
+M>il parere</E
+M>l&#8217;opinione</E
+M>il consiglio di qualcuno</E
+M>un documento all&#8217;anagrafe</E
+M>il passaporto</E
+M>un certificato</E
+M>era venuto a r</E
+M>la sua protezione</E
+M>richiese che gli fosse affidata quella missione</E
+M>gli richiese dove fosse stato</E
+M>gli richiesi di aiutarmi</E
+M>che mi aiutasse</E
+M>poeta</E
+M> io ti richeggio Per quello Dio che tu non conoscesti</E
+M>Che tu mi meni là dov&#8217;or dicesti</E
+M>chiedere</E
+M>molti clienti richiedono questo tipo di stoffa</E
+M>essere richiesto</E
+M>articolo</E
+M>genere assai richiesto</E
+M>medico</E
+M>avvocato</E
+M>meccanico</E
+M>operaio molto richiesto</E
+M>qualcuno di un piacere</E
+M>di un servigio</E
+M>di un consiglio</E
+M>essere richiesto di un consiglio</E
+M>sono stato richiesto di testimoniare a suo favore</E
+M>se donna del ciel ti move e regge</E
+M>Bastisi ben che per lei mi richegge</E
+M>senza alcuna persona richiedere</E
+M>pazientemente la sua povertà comportava</E
+M>richiedo la massima obbedienza</E
+M>il comandante richiedeva dai suoi soldati soprattutto la disciplina</E
+M>è un insegnante che richiede troppo dagli alunni</E
+M>ho presentato i documenti richiesti</E
+M>per l&#8217;ammissione all&#8217;accademia si richiedono i seguenti requisiti</E
+M>per il ritiro del documento è richiesta la presenza dell&#8217;interessato</E
+M>il buon senso</E
+M>la giustizia richiede</E
+M>l&#8217;arte richiede lungo esercizio</E
+M>è un lavoro che richiede tempo e fatica</E
+M>se la necessità lo richiede</E
+M> sono pronto a sacrificarmi</E
+M>le circostanze richiedono cautela e prudenza</E
+M>osservare il contegno richiesto dalla dignità del luogo</E
+M>è un malato che richiede continua assistenza</E
+M>la vite richiede un terreno soleggiato</E
+M>sono apparecchi molto delicati</E
+M> che richiedono molta cura</E
+M>accusata la donna</E
+M>la fece richiedere</E
+M>Giotto comparì</E
+M>e fa richieder lui</E
+M>addomandando fiorini dua della dipintura</E
+M>la richiedente fa noto che</E
+M>la risposta sarà comunicata al richiedente con lettera raccomandata</E

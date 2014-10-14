@@ -1,0 +1,23 @@
+profumare.txt
+"profumare"
+"profumare"
+*[[profumarsi]]
+*[[profumato]]
+*[[profumo]]
+M>la biancheria</E
+M>la camicetta</E
+M>la giacca</E
+M>il fazzoletto</E
+M>profumarsi le mani</E
+M>i polsi</E
+M>i capelli</E
+M>come t&#8217;ha profumato il barbiere!</E
+M>le stanze</E
+M>la casa</E
+M>si profuma troppo</E
+M>profumarsi di violetta</E
+M>di lavanda</E
+M>avere</E
+M>senti come profuma l&#8217;aria</E
+M>come profumano questi fiori!</E
+M>profumava tutta di gelsomino</E

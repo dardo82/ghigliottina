@@ -1,0 +1,5 @@
+domattina.txt
+"domattina"
+M>domani</E
+M>dimani</E
+M>mattina</E

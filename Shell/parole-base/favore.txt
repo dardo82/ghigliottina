@@ -1,0 +1,129 @@
+favore.txt
+"a favore"
+"a favore"
+"a favore di"
+"a favore di"
+"a favore di, in aiuto di"
+"a favore di, nell'interesse di"
+"a tuo favore"
+"a tuo favore"
+"a vostro favore"
+"con vento a favore"
+"deporre a favore di"
+"essere in favore di"
+"fammi il favore di"
+"favore"
+"favore"
+"favore speciale"
+"gioca a tuo favore!"
+"godere del favore di"
+"in favore di"
+"intervenire in favore di"
+"intervento in favore di"
+"per favore"
+"per favore"
+"per favore potresti…?"
+"per favore rispondete"
+"perorare una causa a favore di qn"
+"pronunciarsi a favore di"
+"pronunciarsi in favore"
+"silenzio per favore"
+"sostegno per, appoggio in favore di, tifo per"
+"spezzare una lancia in favore di qualcuno"
+"testimoniare a favore di"
+"trattamento di favore"
+"volgere a favore"
+"votare a favore"
+#*''essere nel 
+#* ''votare [[a favore]] di...''
+#* ''Un'entrata di favore''
+#* ''Un biglietto [[di favore]]''
+*[[gentilezza]], [[cortesia]], [[simpatia]], [[approvazione]], [[aiuto]], [[beneficio]]
+*[[favoreggiamento]], [[favoreggiare]], [[favorevole]], [[favorire]], [[favorita]], [[favorito]]
+*Palazzi - Folena, Dizionario della limgua italiana, Loescher 1992
+M>favor</E
+M>oris</E
+M>favere</E
+M>il f</E
+M>dei superiori</E
+M>degli elettori</E
+M>del clero</E
+M>cercare il f</E
+M>del pubblico</E
+M>il f</E
+M>popolare</E
+M>conciliarsi</E
+M>guadagnarsi</E
+M>meritarsi</E
+M>godere</E
+M>perdere il f</E
+M>di qualcuno</E
+M>ottenere</E
+M>trovare</E
+M>incontrare f</E
+M>avere molto</E
+M>poco</E
+M>scarso f</E
+M>col f</E
+M>di qualcuno</E
+M>col f</E
+M>degli dei</E
+M>col f</E
+M>del governo</E
+M>col f</E
+M>del vento</E
+M>della corrente</E
+M>della notte</E
+M>dell’oscurità</E
+M>col f</E
+M>della fortuna</E
+M>fare</E
+M>chiedere un f</E
+M>avrei bisogno di un f</E
+M>da te</E
+M>fammi il f</E
+M>di levarti di torno</E
+M>ma mi faccia il favore!</E
+M>piacere</E
+M>concedere i proprî f</E
+M>godere i f. di qualcuno</E
+M>di favore</E
+M>prezzo di f</E
+M>biglietto di f</E
+M>entrata di f</E
+M>firma di f.</E
+M>cambiale di f</E
+M>lettera di f</E
+M>per favore</E
+M>diritto non ne avete ma ve lo farò ugualmente per f</E
+M>non ne parlare con nessuno</E
+M>te lo chiedo per f</E
+M>per f</E
+M>non avrebbe un fiammifero?</E
+M>per f</E
+M>mi fa passare?</E
+M>per f</E
+M>sa dirmi qual è l’autobus per la stazione?</E
+M>due caffè</E
+M>per f</E
+M>smettila</E
+M>per favore!</E
+M>in favore di</E
+M>a favore di</E
+M>stanziare</E
+M>versare una somma a f</E
+M>di qualcuno</E
+M>lotteria a f</E
+M>della Croce Rossa</E
+M>parlare</E
+M>votare a f</E
+M>in f</E
+M>di una proposta</E
+M>discorsi</E
+M>voti a f</E
+M>in f</E
+M>la legge è tutta in nostro f</E
+M>testimoni a f</E
+M>e testimoni a carico dell’imputato</E
+M>testimoni a f</E
+M>a carico</E

@@ -1,0 +1,9 @@
+pollame.txt
+"allevamento di pollame"
+"carne bianca, pollame"
+"malattia del pollame"
+"pollame"
+"pollame libero"
+M>l&#8217;allevamento</E
+M>la vendita</E
+M>il commercio del pollame</E

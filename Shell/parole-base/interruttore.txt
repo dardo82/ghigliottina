@@ -1,0 +1,51 @@
+interruttore.txt
+"interruttore"
+"interruttore a bascula"
+"interruttore a galleggiante"
+"interruttore a pulsante"
+"interruttore automatico"
+"interruttore automatico"
+"interruttore di azionamento"
+"interruttore di emergenza"
+"interruttore di fine corsa"
+"interruttore di flusso"
+"interruttore DIP"
+"interruttore elettrico"
+"interruttore generale"
+"interruttore on-off"
+"interruttore per porta"
+"interruttore; commutatore elettrico"
+"interruttore\/commutatore elettronico"
+*[[interrompere]]
+*[[interruzione]]
+M>interruptor</E
+M>oris</E
+M>trice</E
+M>un i</E
+M>noioso</E
+M>girare</E
+M>spingere</E
+M>premere</E
+M>aprire</E
+M>chiudere</E
+M>accendere</E
+M>spegnere</E
+M> l’interruttore; far scattare l’i. della luce è uno dei residui atti di potenza e di libertà rimasti all’uomo</E
+M>sezionatori</E
+M>contattori</E
+M>ruttori</E
+M>disgiuntori</E
+M>a leva</E
+M>a pera</E
+M>a cursore</E
+M>a pulsante</E
+M>basculante</E
+M>rotativo</E
+M>unipolare</E
+M>bipolare</E
+M>tripolare</E
+M>ad acqua</E
+M>in olio</E
+M>in aria</E
+M>automatico</E
+M>differenziale</E

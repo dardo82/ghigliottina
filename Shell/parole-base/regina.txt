@@ -1,0 +1,78 @@
+regina.txt
+"ape regina"
+"compleanno della Regina"
+"consigliere della regina"
+"avvocato che supporta la regina"
+"croce della Regina Vittoria"
+"regina"
+"che è regina"
+"regina"
+"regina"
+"regina"
+"regina"
+"regina"
+"Regina Anna"
+"regina del gossip, stella del gossip"
+"regina madre"
+*[[sovrana]], [[regnante]] 
+M>reg</E
+M>rex regis</E
+M>il re e la r</E
+M>in Inghilterra</E
+M>quando regnava la r</E
+M>Vittoria</E
+M>la r</E
+M>madre</E
+M>la r</E
+M>reggente</E
+M>la r</E
+M>del Cielo</E
+M>la r</E
+M>de l&#8217;etterno pianto</E
+M>ancor Citera Del golfo intorno non sedea regina</E
+M>pare una r</E
+M>è una vera r</E
+M>ha un portamento di</E
+M>da r</E
+M>la rispettano tutti come una r</E
+M>è lei la r</E
+M>della festa</E
+M>vuol esser trattata come una r</E
+M>si dà certe arie da regina!</E
+M>la r</E
+M>dell&#8217;Adriatico</E
+M>la rosa è la r</E
+M>dei fiori</E
+M>la carità è la r</E
+M>delle virtù</E
+M>la fanteria era detta la r</E
+M>delle battaglie</E
+M>la r</E
+M>delle api</E
+M>delle vespe</E
+M>delle formiche</E
+M>delle termiti</E
+M>donna</E
+M>muovere la r</E
+M>scacco alla r</E
+M>dama</E
+M>donna</E
+M>giocare la r</E
+M>di picche</E
+M>di denari</E
+M>pesce regina</E
+M>carpa</E
+M>Labrus</E
+M>regolo</E
+M>Uva r</E
+M>Claudia</E
+M>Erba della r</E
+M>Cannella r</E
+M>cannella vera</E
+M>dei prati</E
+M>olmaria</E
+M>miss</E
+M>eleggere la reginetta del veglione</E
+M>del carnevale</E
+M>reginelle</E
+M>reginette</E

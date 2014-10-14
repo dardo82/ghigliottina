@@ -1,0 +1,145 @@
+malattia.txt
+"certificato di fine malattia"
+"che causa una malattia"
+"contagio di una malattia"
+"contrarre (una malattia)"
+"in salute e in malattia"
+"malattia"
+"malattia"
+"malattia"
+"malattia allergica"
+"malattia animale"
+"malattia batterica"
+"malattia cronica"
+"malattia da movimento"
+"malattia degenerativa"
+"malattia degli occhi"
+"malattia del luppolo"
+"malattia del pollame"
+"malattia del sangue"
+"malattia del sonno"
+"malattia dell'olmo"
+"malattia dell'urina a sciroppo d'acero"
+"malattia della pelle"
+"malattia della pelle"
+"malattia delle piante"
+"malattia dermatologica"
+"malattia di Addison"
+"malattia di Chagas"
+"malattia di David"
+"malattia di Newcastle"
+"malattia epidemica"
+"malattia ereditaria"
+"malattia gastrointestinale"
+"malattia genetica"
+"malattia grave"
+"malattia incurabile"
+"malattia infettiva"
+"malattia mentale"
+"malattia mentale"
+"malattia mentale"
+"malattia mortale"
+"malattia nervosa"
+"malattia neurologica"
+"malattia organica"
+"malattia polmonare"
+"malattia professionale"
+"malattia rara"
+"malattia renale"
+"malattia respiratoria"
+"malattia respiratoria"
+"malattia reumatica"
+"malattia sociale"
+"malattia terminale"
+"malattia venerea"
+"malattia venerea"
+"malattia venerea"
+"malattia virale"
+"malattia virale"
+"malattia virale"
+"origine di una malattia"
+"paga dei giorni di malattia"
+"periodo (anche di malattia)"
+"persona che soffre di malattia mentale"
+"plasmopara viticola (malattia delle piante)"
+"riprendersi (da una malattia)"
+*[[infermità]], [[morbo]]
+*[[vizio]], [[mania]]
+*[[quarta malattia]], [[quinta malattia]], [[sesta malattia]]
+*[[medicinale]]
+*''fare una '''malattia''' per qualcosa o per qualcuno''
+M>cenestesi</E
+M>malattia</E
+M>omeostatici</E
+M>stato patologico</E
+M>prendersi</E
+M>buscarsi una m</E
+M>curare</E
+M>combattere</E
+M>vincere la m</E
+M>guarire da una m</E
+M>la m</E
+M>si manifesta</E
+M>raggiunge l’acme</E
+M>si risolve</E
+M>essere assente</E
+M>in congedo</E
+M>in aspettativa per m</E
+M>grave</E
+M>incurabile</E
+M>mortale</E
+M>la m</E
+M>del secolo</E
+M>infettive</E
+M>parassitarie</E
+M>acute</E
+M>croniche</E
+M>acquisite</E
+M>ereditarie</E
+M>congenite</E
+M>connatali</E
+M>terminale</E
+M>della pelle</E
+M>degli occhi</E
+M>del sistema nervoso</E
+M>dell’apparato digerente</E
+M>mentali</E
+M>del lavoro</E
+M>professionali</E
+M>del sonno</E
+M>azzurra</E
+M>morbo blu</E
+M>degli anatomisti</E
+M>dei palombari</E
+M>emolitica del neonato</E
+M>dei tre giorni</E
+M>febbre dei pappataci</E
+M>morbo</E
+M>di Basedow</E
+M>morbo</E
+M>di Hodgkin</E
+M>di Bornholm</E
+M>di Newcastle</E
+M>dello Haff</E
+M>di Christmas</E
+M>quarta m</E
+M>quinta m</E
+M>sesta m</E
+M>diplomatica</E
+M>dissimulata</E
+M>m. simulata</E
+M>le malattie del vino</E
+M>del legno</E
+M>del marmo</E
+M>dello spirito</E
+M>la gelosia e l’invidia sono due brutte malattie</E
+M>fare</E
+M> farne</E
+M> farsi una m</E
+M>per qualcosa</E
+M>lui l’ha lasciata</E
+M>e lei ci ha fatto una malattia</E
+M>puoi anche non</E
+M>enire: non crederai che ci faccia una malattia!</E
+M>ti prego</E
+M>non farne una malattia</E

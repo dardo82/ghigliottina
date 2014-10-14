@@ -1,0 +1,81 @@
+orlo.txt
+"fare l'orlo"
+"fare l'orlo"
+"fino all'orlo, colmo"
+"orlo"
+"orlo"
+"orlo arrotolato"
+"orlo frastagliato"
+"riempire fino all'orlo"
+"riempito fino all'orlo"
+"sull'orlo"
+"sull'orlo"
+"sull'orlo dell'abisso"
+"sull'orlo di"
+"sull'orlo di"
+"sull'orlo di qualcosa"
+"vivere sull'orlo del brivido"
+*[[ bordo]], [[margine]], [[labbro]], [[ciglio]], [[estremità]], [[ estremo]], [[limite]] 
+*'' (di vestito, tovaglia ecc.)'' [[orlatura]],[[ bordo]],[[ bordatura]], [[lembo]]; ''(spec. decorativo)'' [[bordura]], [[balza]], [[profilo]], [[filetto]],  [[cimosa]], [[vivagno]]
+*[[orlatura]], [[orlare]]
+* [[confine]]
+M>lus</E
+M>l’o</E
+M>di un tavolino</E
+M>l’o</E
+M>del tetto</E
+M>l’o</E
+M>della riva</E
+M>di un fosso</E
+M>l’o</E
+M>del vestito</E
+M>l’o</E
+M>di un piatto</E
+M>di una scodella</E
+M>riempire un bicchiere fino all’o</E
+M>gonna con l’o</E
+M>sfilacciato</E
+M>foglia a o</E
+M>seghettati</E
+M>dentellati</E
+M>la fiera pessima si stava Su l’o</E
+M>ch’è di pietra e ’l sabbion serra</E
+M>Così a l’egro fanciul porgiamo aspersi Di soavi licor gli o</E
+M>del vaso</E
+M>essere sull’o</E
+M>del precipizio</E
+M>dell’abisso</E
+M>essere sull’o</E
+M>della fossa</E
+M>essere sull’o</E
+M>del fallimento</E
+M>della disperazione</E
+M>della pazzia</E
+M>quello spirito ch’attende</E
+M>Pria che si penta</E
+M>l’o</E
+M>de la vita</E
+M>cinta</E
+M>Orlo di presa</E
+M>collarino</E
+M>gola d’estrazione</E
+M>fare l’o</E
+M>alla gonna</E
+M>alla camicia</E
+M>ai fazzoletti</E
+M>alle lenzuola</E
+M>a giorno</E
+M>frullato</E
+M>arrotolato</E
+M>l’o</E
+M>della borsa</E
+M>l’o</E
+M>della lamiera</E
+M>giacchettino di lana con o</E
+M>di velluto verde</E
+M>coperta con o</E
+M>di frangia</E
+M>un tavolino di noce con o</E
+M>d’acero</E
+M>piatti con o</E
+M>dorato</E

@@ -1,0 +1,25 @@
+tentazione.txt
+"tentazione"
+"tentazione"
+"tentazione"
+*[[seduzione]], [[lusinga]],[[adescamento]], [[allettamento]], [[istigazione]], [[corruzione]]
+*[[resistenza]], [[opposizione]], [[avversione]]
+*[[correttezza]], [[moralità]]
+*[[tentare]], [[tentatore]]
+*italiano
+M>temptatio -onis</E
+M>temptare</E
+M>t. di Gesù Cristo</E
+M>le t. di s. Antonio nel deserto</E
+M>le t. di Budda</E
+M>di Zarathustra</E
+M>di Maometto</E
+M>non ci indurre in t.</E
+M>Padre nostro</E
+M>vincere una t.</E
+M>resistere</E
+M>cedere alle t.</E
+M>ho avuto la t. di dargli un ceffone</E
+M>non ho resistito alla t. del gelato</E
+M>un piatto di spaghetti alla carbonara: era una t. per me!</E
+M> nel periodo dei saldi ci sono troppe t. nei negozî.</E

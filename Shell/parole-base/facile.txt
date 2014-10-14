@@ -1,0 +1,142 @@
+facile.txt
+"avere la battuta facile"
+"avere vita facile"
+"avversario facile"
+"bersaglio facile"
+"colui che ha il grilletto facile"
+"dal grilletto facile"
+"denaro facile"
+"essere facile"
+"estremamente facile"
+"facile"
+"facile"
+"facile"
+"facile da capire"
+"facile da capire"
+"facile fa capire"
+"facile presa"
+"facile scappatoia"
+"facile vittoria"
+"facile, semplice, superficiale"
+"facile"
+"facile, spontaneo, naturale"
+"gioco pulito; facile bersaglio"
+"la via più facile"
+"modo più facile"
+"niente di più facile!"
+"non deve essere stato facile"
+"non è facile"
+"non facile"
+"più facile a dirsi che a farsi"
+"preda, bersaglio facile"
+"ragazza facile"
+"rendere facile"
+"rendere facile"
+"vittoria facile"
+#*''un lavoretto facile facile''
+*[[semplice]], [[comodo]], [[agevole]]
+*[[fattibile]], [[realizzabile]], [[eseguibile]]
+*(di scritto, discorso, eccetera) [[chiaro]], [[comprensibile]], [[accessibile]], [[scorrevole]],[[divulgativo]],  [[semplice]], [[scorrevole]], [[piano]]
+*(di nozione) [[elementare]], [[rudimentale]]; [[ovvio]], [[banale]]
+*(di persona) [[disposto]], [[predisposto]], [[incline]], [[propenso]], [[pronto]]
+*[[affabile]], [[disponibile]]; [[arrendevole]], [[docile]], [[comprensivo]], [[tollerante]], [[indulgente]], [[accomodante]], [[condiscendente]], [[compiacente]], [[conciliante]]
+*( di facili costumi) poco serio, [[scostumato]], [[leggero]], [[frivolo]], [[disponibile]]
+*[[scomodo]], [[difficile]], [[complicato]], [[complesso]], [[impegnativo]], [[difficoltoso]], [[problematico]], [[delicato]], [[duro]], [[faticoso]], [[pesante]], [[gravoso]], [[infattibile]], [[irrealizzabile]], [[arduo]], * [[impossibile]], [[improbabile]], [[verosimile]]
+*''(di scritto, discorso ecc.)''  [[oscuro]],  [[incomprensibile]]  
+*''(di persona, carattere ecc.)''  [[intrattabile]], [[duro]], [[inflessibile]]
+*''(all'ira, alla malinconia ecc.)'' [[avverso]], [[ostile]]
+* ''(di costumi)''[[onesto]], [[morigerato]], [[casto]], [[pudico]]
+M>fac</E
+M>lis</E
+M>fac</E
+M>un lavoro</E
+M>un mestiere f</E
+M>tema</E
+M>argomento f</E
+M>una f</E
+M>manovra</E
+M>una strada f</E
+M>un f</E
+M>percorso</E
+M>una f</E
+M>salita</E
+M>come bere un uovo</E
+M>una domanda f</E
+M>un libro f</E
+M>articolo di f</E
+M>smercio</E
+M>gente di f</E
+M>contentatura</E
+M>a contentarsi</E
+M>lavoro di f</E
+M>esecuzione</E
+M>a eseguirsi</E
+M>versi di f</E
+M>intendimento</E
+M>a intendersi</E
+M>nel f</E
+M>sta il difficile</E
+M>è f</E
+M>salire</E
+M>discendere</E
+M>è f</E
+M>sbagliare</E
+M>è f</E
+M>a dirsi</E
+M>che</E
+M>è f</E
+M>che oggi piova</E
+M>è f</E
+M>che mi trattenga in ufficio fino a tardi</E
+M>preda</E
+M>esser f</E
+M>preda dell’ira</E
+M>dell’alcol</E
+M>della passione</E
+M>stile f</E
+M>un giudizio un po’ f</E
+M>mai con loro</E
+M>seguì la fortuna se non f</E
+M>e seconda</E
+M>forme che facile Bisso seconda</E
+M>Pose la teglia su l’ardente brace Col f</E
+M>olio</E
+M>oratore</E
+M>scrittore f</E
+M>parola f</E
+M>ingegno f</E
+M>avere la mano f</E
+M>uomo f</E
+M>l’uno è tenuto</E
+M>duro</E
+M>l’altro f</E
+M>indole</E
+M>natura f</E
+M>essere f</E
+M>alle promesse</E
+M>alla collera</E
+M>donna f</E
+M>donna di f</E
+M>costumi</E
+M>avere la parola f</E
+M>avere la risposta f</E
+M>la penna f</E
+M>avere la battuta f</E
+M>il riso</E
+M>il sorriso f</E
+M>il pianto</E
+M>le lacrime f</E
+M>avere il grilletto</E
+M>lo schiaffo f</E
+M>produttore dall’assegno f</E
+M>un vigile dalla multa f</E
+M>bevitori dal bicchiere f</E
+M>una domanda facilina facilina</E
+M>si capisce</E
+M>si deduce facilmente</E
+M>la casa è posta in collina</E
+M>ma ci si arriva facilmente</E
+M>facilmente ci rivedremo domani stesso</E
+M>facile</E
+M>ci si arriva facile</E
+M>facile che ritorno stasera stessa</E

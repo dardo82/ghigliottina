@@ -1,0 +1,7 @@
+ambulatorio.txt
+"ambulatorio"
+"ambulatorio"
+"ambulatorio"
+"ambulatorio privato"
+#*''ambulatorio veterinario''
+*[[deambulatorio]], [[poliambulatorio]]

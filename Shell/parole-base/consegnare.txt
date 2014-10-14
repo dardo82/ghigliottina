@@ -1,0 +1,38 @@
+consegnare.txt
+"consegnare"
+"consegnare, replace: consegnarsi"
+"consegnare"
+"consegnare qcs, cedere qcs"
+#* ''ti viene '''consegnato''' questo premio''
+#* ''devi 
+#* ''ci dovete 
+*[[dare]], [[assegnare]], [[affidare]], dare in custodia, [[depositare]], [[recapitare]], [[rimettere]]
+*[[prendere]], [[accettare]], [[ricevere]], [[ritirare]]
+*[[consegnarsi]]
+*[[consegnato]]
+M>consignare</E
+M>signum</E
+M>con</E
+M>io conségno</E
+M>i proprî beni a un amministratore</E
+M>la chiave la consegno a te</E
+M>ti consegno questi documenti</E
+M>i pensieri</E
+M>le proprie intenzioni alla carta</E
+M>alla memoria</E
+M>all’immortalità</E
+M>l’hanno consegnato ai carabinieri</E
+M>il ladro è stato consegnato alla giustizia</E
+M>consegnarsi alla polizia</E
+M>alle autorità civili</E
+M>non potendo più rimanere nascosto</E
+M>il latitante si consegnò agli agenti</E
+M>il lavoro dev’essere consegnato entro domani</E
+M>consegna il denaro a lui personalmente</E
+M>se hanno una coltellata da c</E
+M>a uno</E
+M>lo vanno ad aspettar fuori</E
+M>gli consegnò una pedata negli stinchi</E
+M>la truppa</E
+M>i soldati consegnati</E
+M>fare l’appello dei consegnati</E

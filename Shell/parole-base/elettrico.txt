@@ -1,0 +1,95 @@
+elettrico.txt
+"a gas elettrico"
+"arco elettrico"
+"assorbimento elettrico"
+"attrezzo elettrico"
+"attuatore elettrico semplice"
+"azionamento elettrico"
+"bio-elettrico"
+"blu elettrico (colore)"
+"calore elettrico"
+"campo elettrico"
+"campo elettrico"
+"cavo elettrico"
+"cavo elettrico"
+"circuito elettrico"
+"contatore elettrico"
+"contatore elettrico"
+"diesel-elettrico"
+"dispositivo elettrico"
+"elettrico"
+"elettrico"
+"elettrico a benzina"
+"filo di tensione, filo elettrico, cavo elettrico"
+"filo elettrico"
+"fornello elettrico"
+"forno ad arco elettrico"
+"forno elettrico ad arco"
+"generatore elettrico"
+"impianto elettrico"
+"intensità di campo elettrico"
+"interruttore elettrico"
+"interruttore; commutatore elettrico"
+"motore elettrico"
+"organo elettrico"
+"orologio a motore elettrico"
+"potenziale elettrico"
+"progettista elettrico"
+"quadro elettrico"
+"rasoio elettrico"
+"rasoio elettrico"
+"riscaldamento elettrico"
+"spessore del filo elettrico"
+"tagliacapelli, rasoio elettrico per capelli"
+"trapano elettrico"
+"trasformatore elettrico"
+"treno elettrico"
+"treno elettrico"
+"tritaghiaccio elettrico"
+"veicolo elettrico - a metano"
+"vento elettrico"
+#*'''componente elettrico'''
+#*'''circuito elettrico'''
+*'''ingegneria elettrica'''
+*di [[elettricità]]; a energia elettrica, a elettricità
+*[[elettricismo]], [[idroelettrico]]
+* [[elettrauto]], [[elettricista]], [[elettricità]], [[elettricamente]], [[elettrificare]], [[elettrizzare]], [[elettro]], [[elettro-]], [[elettromagnetismo]], [[elettronica]]
+M>electricus</E
+M>electrum</E
+M>corrente</E
+M>forza</E
+M>carica</E
+M>energia e</E
+M>luce</E
+M>illuminazione</E
+M>trazione e</E
+M>riscaldamento e</E
+M>treno</E
+M>tram</E
+M>autobus e.</E
+M>forno e</E
+M>impianto e</E
+M>scintilla</E
+M>scarica e</E
+M>campo e</E
+M>scossa e</E
+M>filo</E
+M>conduttore e</E
+M>campanello e</E
+M>orologio e</E
+M>motore con avviamento e</E
+M>chitarra e</E
+M>basso e</E
+M>pianoforte e</E
+M>sedia e</E
+M>organi e</E
+M>gimnoto e</E
+M>anguilla e</E
+M>elettroforo</E
+M>è una ragazza e</E
+M>un capufficio e</E
+M>ha un temperamento elettrico</E
+M>Blu elettrico</E
+M>gli elettrici</E
+M>corpo elettricamente neutro</E
+M>dispositivo azionato elettricamente</E

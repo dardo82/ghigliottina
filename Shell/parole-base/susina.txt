@@ -1,0 +1,7 @@
+susina.txt
+"susina"
+#*'''''susina''' amolo''
+*''(impropriamente)'' [[prugna]]
+*[[ciliegia-susina]], [[slivoviz]], [[susino]]
+M>prugna</E
+M>slivoviz</E

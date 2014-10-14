@@ -1,0 +1,4 @@
+polpastrello.txt
+"polpastrello"
+*italiano
+*inglese

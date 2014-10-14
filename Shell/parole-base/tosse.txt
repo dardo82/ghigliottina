@@ -1,0 +1,32 @@
+tosse.txt
+"colpo di tosse"
+"farmaco per la tosse"
+"pasticche per la tosse"
+"sciroppi per la tosse"
+"sciroppo per la tosse"
+"tosse"
+"tosse secca"
+"tosse spasmodica"
+*[[colpo]] di tosse , [[tossire]]
+M>ssis</E
+M>t. produttiva</E
+M>grassa</E
+M>matura</E
+M>t. secca</E
+M>colpo di tosse</E
+M>accesso di tosse</E
+M>t. accessionale</E
+M>t. spasmodica</E
+M> t. emetizzante</E
+M>insulto di tosse</E
+M>nodo di tosse</E
+M>avere la t.</E
+M>mi è venuta la t.</E
+M> un po&#8217; di t.</E
+M>t. asinina</E
+M>canina</E
+M>convulsa</E
+M>convulsiva</E
+M>pertosse</E
+M>una tossetta stizzosa</E
+M> fastidiosa</E

@@ -1,0 +1,214 @@
+massa.txt
+"abbigliamento di massa"
+"armi di distruzione di massa"
+"attacco di massa"
+"azione di massa"
+"collegare a massa"
+"comunicazione di massa"
+"conservazione della massa"
+"cultura di massa"
+"delirio di massa"
+"della massa popolare"
+"distruzione di massa"
+"energia di massa"
+"equazione di massa"
+"in massa"
+"in massa"
+"in massa"
+"in massa, in blocco"
+"incontro di massa"
+"indice di massa corporea"
+"la massa della gente"
+"massa"
+"massa"
+"massa"
+"massa"
+"massa"
+"massa"
+"massa (di capelli)"
+"massa atomica"
+"massa critica"
+"massa d'acqua"
+"massa d'aria"
+"massa gravitazionale"
+"massa indistinta"
+"massa inerziale"
+"massa magra"
+"massa minore"
+"massa molecolare"
+"massa muscolare"
+"massa ridotta"
+"mercato di massa"
+"mezzi di comunicazione di massa via radio"
+"movimento di massa"
+"negativo a massa"
+"numero di massa"
+"omicidio di massa"
+"produzione di massa"
+"produzione in massa"
+"rapporto di massa"
+"spettro di massa"
+"spettrometria di massa"
+"spettrometro di massa"
+"spettroscopia di massa"
+"sterminio di massa"
+"suicidio di massa"
+"una massa di"
+"unità di massa"
+"vendere in massa"
+#*una massa di '''sassi'''''
+#* ''colle lastre gli hanno trovato una 
+*[[quantità]], [[blocco]], [[insieme]], [[complesso]], [[raggruppamento]], [[agglomerato]], [[aggregato]]
+* grande quantità, [[abbondanza]],[[profusione]], [[caterva]], [[mucchio]], [[ammasso]], [[cumulo]], [[congerie]], [[catasta]]
+* insieme di persone, popolo, [[collettività]]
+*''(elettricità)'' [[terra]]
+*singolo elemento, singolo, minoranza
+*[[penuria]], [[carenza]], [[deficienza]], [[scarsità]], [[scarsezza]], [[povertà]], [[mancanza]]
+*''(sociologia)'' [[individuo]], [[singolo]], [[élite]] 
+* [[ammassare]],  [[massiccio]],  [[massico]],  [[massivo]]
+* [[materia]]
+*''collegamento  a massa''
+*''in massa''
+*italiano
+*finlandese
+*portoghese
+M>massa</E
+M>Lett</E
+M>ai Romani</E
+M>Enchiridium ad Laurentium</E
+M>massa peccati</E
+M>una m</E
+M>informe di creta</E
+M>di terra</E
+M>di fango</E
+M>una m</E
+M>di marmo</E
+M>una m</E
+M>di metallo</E
+M>il corpo umano non è soltanto una m</E
+M>di carne e d’ossa</E
+M>cercò di sostenere l’urto opponendosi con tutta la m</E
+M>del suo corpo</E
+M>il paese fu investito da una m</E
+M>di lava</E
+M>masse di neve</E
+M>di sabbia</E
+M>di terra franate dalle montagne</E
+M>le m</E
+M>liquide che la marea spinge nell’estuario del fiume</E
+M>di nubi avvolgevano la cima della montagna</E
+M>massa d’aria</E
+M>il liquido si coagula in masse</E
+M>masserelle</E
+M>più dense</E
+M>cerebrale</E
+M>sanguigna</E
+M>comune</E
+M>pollinica</E
+M>fondamentale</E
+M>schiuma di mare</E
+M>sepiolite</E
+M>la massaia</E
+M>impasta la m</E
+M>con robuste braccia</E
+M>E la pasta si fa tenera e fine</E
+M>ha portato con sé una m</E
+M>di vestiti</E
+M>di cianfrusaglie</E
+M>ha fatto una m</E
+M>di errori</E
+M>di spropositi</E
+M>c’è una m</E
+M>di lavoro che mi attende</E
+M>rido della felicità delle «masse»</E
+M>perché il mio piccolo cervello non concepisce una «massa» felice composta d’individui non felici</E
+M>c’era nella piazza una m</E
+M>di gente</E
+M>fare m</E
+M>davanti</E
+M>intorno a qualche cosa</E
+M>in massa</E
+M>furono condannati in m</E
+M>esecuzioni in m</E
+M>leva in m</E
+M>sono una m</E
+M>di birbanti</E
+M>di sfruttatori</E
+M>di mascalzoni</E
+M>masse di soldati</E
+M>di fanteria</E
+M>di carri armati</E
+M>comparse</E
+M>figuranti</E
+M>un film ricco di scene di massa</E
+M>corale</E
+M>orchestrale</E
+M>delle comparse</E
+M>élite</E
+M>società di massa</E
+M>fenomeni di massa</E
+M>psicologia della m</E
+M>delle m</E
+M>delle folle</E
+M>La psychologie des foules</E
+M>di massa</E
+M>turismo di m.</E
+M>movimenti di m.</E
+M>partiti di massa</E
+M>mezzi di comunicazione di m</E
+M>cultura di m</E
+M>di un corpo</E
+M>inerziale</E
+M>gravitazionale</E
+M>centro di m</E
+M>baricentro</E
+M>specifica</E
+M>volumica</E
+M>densità</E
+M>densità assoluta</E
+M>m. molecolare</E
+M>relativistica</E
+M>di quiete</E
+M>di riposo</E
+M>trasversale</E
+M>longitudinale</E
+M>invariante</E
+M>m. efficace</E
+M>m. efficace reticolare</E
+M>m. efficace elettromagnetica</E
+M>atomica</E
+M>unità di m</E
+M>atomica</E
+M>numero di m</E
+M>critica</E
+M>mancante</E
+M>missing mass</E
+M>materia oscura</E
+M>elettrica</E
+M>carica elettrica</E
+M>magnetica</E
+M>polo magnetico</E
+M>terra</E
+M>eseguire il collegamento a massa</E
+M>eseguire la messa a terra</E
+M>collegamento a m.</E
+M>andare a m.</E
+M>masse di un edificio</E
+M>architettura di masse</E
+M>serrata</E
+M>continua</E
+M>organica</E
+M>slegata</E
+M>incoerente</E
+M>circolante</E
+M>monetaria</E
+M>titoli</E
+M>attiva</E
+M>passiva</E
+M>ereditaria</E
+M>campione</E
+M>universo</E
+M>popolazione</E
+M>vestiario</E
+M>rancio</E
+M>fare massa</E

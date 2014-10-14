@@ -1,0 +1,25 @@
+ricostruire.txt
+"ricostruire"
+"ricostruire"
+"ricostruire"
+"ricostruire"
+"ricostruire la frase"
+"ricostruire un battistrada"
+*[[riedificare]], [[rifabbricare]], [[rimettere in piedi]], [[ricomporre]]
+*[[distruggere]], [[abbattere]], [[demolire]] 
+* [[ricostruttore]],  [[ricostruzione]]
+M>costruire</E
+M>reconstru</E
+M>costruire</E
+M>il teatro distrutto dall&#8217;incendio fu ricostruito l&#8217;anno seguente</E
+M>i pneumatici</E
+M>un periodo mal congegnato</E
+M>il giudice con i pochi elementi a disposizione poté r</E
+M>il delitto</E
+M>con le informazioni avute cercò di r</E
+M>nella sua mente la scena</E
+M>un testo letterario</E
+M>una fase protostorica</E
+M>una forma comune non documentata</E
+M>lingua ricostruita</E
+M>forme ricostruite</E

@@ -1,0 +1,40 @@
+compagno.txt
+"coinquilino, compagno d'appartamento"
+"compagno"
+"compagno"
+"compagno"
+"compagno americano"
+"compagno cristiano"
+"compagno d'armi"
+"compagno di banco"
+"compagno di cella"
+"compagno di cella in prigione"
+"compagno di classe"
+"compagno di giochi"
+"compagno di gioco"
+"compagno di lavoro"
+"compagno di letto"
+"compagno di merende"
+"compagno di Robin Hood"
+"compagno di scuola"
+"compagno di scuola"
+"compagno di squadra"
+"compagno di squadra"
+"compagno di stanza"
+"compagno di stanza"
+"compagno di studi"
+"compagno di viaggio"
+"compagno di vita"
+"compagno eccellente"
+"compagno oscuro"
+"dotarsi di un compagno"
+"essere compagno di"
+"passaggio di palla a un compagno nel rugby"
+#* ''Fummo '''compagni''' di viaggio''
+#* ''Quando andavo a scuola eravamo '''compagni''' di classe''
+#* ''Venne Francesca con il suo '''compagno'''''
+#* ''i '''compagni''' hanno fatto un comizio''
+*[[amico]],  [[collega]], [[camerata]], [[commilitone]],[[complice]], [[compare]], [[consorte]], [[coniuge]], [[convivente]], [[amante]], [[partner]], [[fidanzato]]
+*'' (commercio)'' [[socio]]
+* [[amicizia]], [[scuola]], [[sinistra]]
+*Devoto/Oli, '' Il dizionario della lingua italian'', edizione cartacea 2000-2001, Le Monnier, p. 465

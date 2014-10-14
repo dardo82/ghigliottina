@@ -1,0 +1,158 @@
+secolo.txt
+"da un sacco di tempo, da un'eternità, da un secolo"
+"di secolo in secolo"
+"fine secolo"
+"metà del diciannovesimo secolo"
+"metà del ventesimo secolo"
+"quarto di secolo"
+"secolo"
+"secolo"
+"un secolo fa"
+"ventesimo secolo"
+#*''il secolo dell'illuminismo''
+*(storico) [[epoca]], [[età]], [[periodo]], [[era]], [[evo]]
+*[[eternità]]
+*[[mondo]], [[mondanità]], vita mondana, vita terrena, vita mortale
+*[[attimo]] [[istante]], [[momento]]
+* vita religiosa, mondo ultraterreno, vita eterna.
+*[[trasecolare]]
+*[[tempo]]
+M>saec</E
+M>lum</E
+M>un s. prima</E
+M>due s. dopo</E
+M>a cinque s. di distanza</E
+M>quasi un s.</E
+M>più di un s.</E
+M>mezzo s. di storia</E
+M>di attività</E
+M>un&#8217;istituzione culturale che ha già un s. di vita</E
+M>un regno durato oltre quattro secoli</E
+M>nel 2069 si compirà il primo s. dallo sbarco dell&#8217;uomo sulla Luna</E
+M>è un s. che ti aspetto</E
+M>ci mette sempre un s. a prepararsi</E
+M>sarà un s. che non vado a cena fuori</E
+M>non lo vedo da secoli</E
+M>ti auguro di campare mille secoli!</E
+M>sec.</E
+M>il 4&#176;</E
+M>IV sec. a. C.</E
+M>prima di Cristo</E
+M>il sec. 6&#176;</E
+M>VI d. C.</E
+M>dalla nascita di Cristo</E
+M>il sec. 13&#176;</E
+M>XIII</E
+M>d. C.</E
+M>è vissuto tra il 18&#176; e il 19&#176; secolo</E
+M>il sec. 20&#176;</E
+M>periodo</E
+M>il s. delle grandi scoperte geografiche</E
+M>il s. d&#8217;oro dell&#8217;arte musiva</E
+M>il s. dei trasvolatori atlantici</E
+M>il s. di Pericle</E
+M>il s. di Augusto</E
+M>il s. dei lumi</E
+M>il s. del progresso</E
+M>della rivoluzione industriale</E
+M>il s. della bomba atomica</E
+M>un s. di grande splendore artistico</E
+M>i s. bui della dominazione straniera</E
+M>s. barbari</E
+M>di decadenza</E
+M>le idee di questo s.</E
+M>i costumi</E
+M>la moda dell&#8217;altro s.</E
+M>del s. scorso</E
+M>roba dell&#8217;altro s.</E
+M>d&#8217;altri secoli</E
+M>è un uomo del s. scorso</E
+M>così voleva la moda del s.</E
+M>le grandi invenzioni del s.</E
+M>il processo</E
+M>lo scandalo</E
+M>il matrimonio</E
+M>l&#8217;avvenimento</E
+M>la rapina</E
+M>la scoperta del s.</E
+M>il male</E
+M>la peste</E
+M>del s.</E
+M>il truffatore</E
+M>l&#8217;assassino del s.</E
+M>è stata la diva del s.</E
+M>l&#8217;uomo del s.</E
+M>è un figlio del s.</E
+M>età</E
+M>In cotal guisa già l&#8217;antiche genti Si crede esser godute al secol d&#8217;oro</E
+M>il s. d&#8217;argento</E
+M>di ferro</E
+M>saeculum aureum</E
+M>argenteum</E
+M>ferreum</E
+M>per secoli</E
+M>per molti s.</E
+M>per lunga serie di secoli</E
+M>nei s. passati</E
+M>nei s. avvenire</E
+M>fatti il cui ricordo si perde nella lontananza</E
+M>nel buio</E
+M>nella notte dei s.</E
+M>al principio dei s.</E
+M>nei s.</E
+M>nei s. dei s.</E
+M>per tutti i s. dei s.</E
+M>in saecula</E
+M>in saecula saeculorum</E
+M>per omnia saecula saeculorum</E
+M>fino alla consumazione dei s.</E
+M>in consummatione saeculi</E
+M>ad consummationem saeculi</E
+M>saeculum</E
+M>Matteo</E
+M>un s. ignorante</E
+M>vile</E
+M>inetto</E
+M> ricchezza né onore Con frode o con viltà Il secol venditore Mercar non mi vedrà</E
+M>In rimprovèro del secol selvaggio</E
+M>La dolce vista del bel viso adorno</E
+M> Che me mantene</E
+M> e &#8217;l secol nostro onora</E
+M>passare</E
+M>uscire di questo s.</E
+M>la tua mirabile donna è partita di questo s.</E
+M>s. futuro</E
+M>s. immortale</E
+M>s. nuovo</E
+M>grande s.</E
+M>di Silvïo il parente</E
+M>Corruttibile ancora</E
+M> ad immortale Secolo andò</E
+M> e fu sensibilmente</E
+M>saeculum</E
+M>Matteo</E
+M>Marco</E
+M>Luca</E
+M>Matteo</E
+M>Marco</E
+M>Luca</E
+M>disprezzare le vanità</E
+M>le ambizioni del s.</E
+M>abbandonare</E
+M>fuggire il s.</E
+M>ritirarsi dal s.</E
+M>rinunciare al s.</E
+M>tornare nel s.</E
+M>mondo</E
+M>Al secolo</E
+M>frate Agostino</E
+M> al secolo Giuseppe Rossi</E
+M>l&#8217;attrice Francesca Bertini</E
+M> al secolo Elena Seracini Vitiello</E
+M>lo scrittore Alberto Moravia</E
+M> al secolo Alberto Pincherle</E
+M>secoletto</E
+M>secoletto miterino</E
+M>Satira I</E
+M>questo secoletto miterino Ha converso in sassate il berlingozzo</E
+M>la descrizione che facea Salvador Rosa de la letteratura seicentistica torna a pennello a quella di questo secoletto miterino.</E

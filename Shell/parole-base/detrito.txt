@@ -1,0 +1,27 @@
+detrito.txt
+"detrito"
+"detrito"
+M>detritum</E
+M>deter</E
+M>ter</E
+M>glaciali</E
+M>fluviali</E
+M>minuti</E
+M>grossolani</E
+M>detriti di fondovalle</E
+M>di versante</E
+M>di falda</E
+M>d. spaziali</E
+M>detriti di stoviglie rotte</E
+M>detriti d’ossa</E
+M>di legno</E
+M>di foglie secche</E
+M>lasciavano</E
+M>ritirandosi</E
+M>un letto d’alghe secche</E
+M>di sugheri</E
+M>d’ogni sorta di detriti</E
+M>la letteratura come gergo</E
+M>riecheggiato</E
+M>sui d</E
+M>di altre letterature ed esperienze</E

@@ -1,0 +1,11 @@
+pullman.txt
+"autista di pullman"
+"garage (per pullman)"
+"noleggio di pullman"
+"pullman"
+*[[autopullman]]
+M>pùlman</E
+M>autopullman</E
+M>autobus</E
+M>autocorriera</E
+M>una vettura pullman</E

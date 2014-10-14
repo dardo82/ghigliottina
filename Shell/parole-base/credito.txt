@@ -1,0 +1,128 @@
+credito.txt
+"accesso al credito"
+"agenzia di credito"
+"assicurazione sul credito"
+"banca di credito agrario"
+"banca di credito federale"
+"banca di credito finanziario"
+"banca di credito fondiario"
+"carta di credito"
+"comprare a credito"
+"comprare a credito"
+"conto di credito"
+"conto di credito"
+"cooperativa di credito"
+"credito"
+"credito"
+"credito"
+"credito a rate"
+"credito agevolato"
+"credito al consumo"
+"credito all'esportazione"
+"credito commerciale"
+"credito finanziario"
+"credito fiscale"
+"credito fiscale"
+"credito formativo"
+"credito libero"
+"credito per cassa"
+"credito per gli investimenti"
+"credito residuo"
+"credito rotativo"
+"credito sul vostro conto"
+"dare credito"
+"dare credito a"
+"dilazionare un credito"
+"far credito a qc"
+"gestione del credito"
+"interessi a credito"
+"istituto di credito"
+"istituto di credito fondiario"
+"iva a credito"
+"lettera di credito"
+"limite del credito"
+"linea di credito"
+"linea di credito"
+"non facciamo credito qui"
+"nota di credito"
+"pagare con la carta di credito"
+"qui non si fa credito"
+"somma a credito"
+"titolo di credito"
+"valuta del credito"
+"vantare un credito"
+*[[fiducia]]
+*[[stima]], [[prestigio]], [[reputazione]], [[considerazione]], [[nome]]
+*[[sfiducia]]
+* cattiva reputazione, cattiva fama 
+*[[discredito]]
+:*''Assai ha, chi ha buon credito.''
+M>cred</E
+M>tum</E
+M>cred</E
+M>avere c.</E
+M>trovare c.</E
+M>dar c.</E
+M>negare c.</E
+M>meritare</E
+M>avere c.</E
+M>le sue parole non hanno c.</E
+M>la notizia merita ogni credito</E
+M>riscuotere c.</E
+M>perdere c.</E
+M>levare il c. a qualcuno</E
+M>sono arrivati a dire che il gran cancelliere è un vecchio rimbambito</E
+M> per levargli il c.</E
+M> e comandar loro soli</E
+M>fare credito a qualcuno</E
+M>è un negozio che gode grande c.</E
+M>prodotti che acquistano credito</E
+M> è un industriale che ha molto credito.</E
+M>credit</E
+M>avere un numero sufficiente di crediti per aspirare a una borsa di studio</E
+M>c. scolastici</E
+M>c. formativi</E
+M>aprire un c. a qualcuno</E
+M>c. in bianco</E
+M>dare qualcosa a c.</E
+M>prendere</E
+M> comprare</E
+M> vendere a c.</E
+M>in contanti</E
+M>fare credito</E
+M>non si fa c. a nessuno</E
+M>non trova più nessuno che gli faccia credito</E
+M>c. mercantile</E
+M>di fornitura</E
+M>c. d’esercizio</E
+M>c. d’investimento</E
+M>c. all’esportazione</E
+M>c. ipotecario</E
+M>c. a medio termine</E
+M>c. di corriere</E
+M>c. ferroviario</E
+M>c. privato</E
+M>pubblico</E
+M>mobiliare</E
+M>immobiliare</E
+M>industriale</E
+M>fondiario</E
+M>edilizio</E
+M>agrario</E
+M>avere un c</E
+M>essere</E
+M>rimanere in c</E
+M>esigere</E
+M>riscuotere un c</E
+M>avere molti c</E
+M>riscuotere i c</E
+M>scaduti</E
+M>carta di credito</E
+M>credit card</E
+M>Certificato di c</E
+M>Istituto di c</E
+M>banca</E
+M>Lettera di c</E
+M>Linea di c</E
+M>Partita di c</E
+M>Titolo di c</E

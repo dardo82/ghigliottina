@@ -1,0 +1,33 @@
+conquista.txt
+"conquista"
+"conquista"
+"conquista"
+"conquista"
+"la Conquista"
+"presa del potere, conquista del potere"
+*[[occupazione]], [[presa]], [[espugnazione]]
+M>conquistare</E
+M>conquête</E
+M>le c</E
+M>di Napoleone</E
+M>avanzare di c</E
+M>in c</E
+M>effimere</E
+M>durevoli</E
+M>sete</E
+M>smania</E
+M>ambizione di conquiste</E
+M>paese di c</E
+M>la c</E
+M>del potere</E
+M>delle ricchezze</E
+M>della libertà</E
+M>perdette in poco tempo tutte le sue c</E
+M>le c</E
+M>della scienza</E
+M>della tecnica</E
+M>le grandi c</E
+M>dell’umanità</E
+M>fare una c</E
+M>mi vantava le sue c</E
+M>mi ha presentato la sua nuova conquista</E

@@ -1,0 +1,34 @@
+congelare.txt
+"congelare"
+"congelare"
+"congelare, replace: congelarsi"
+*''((un liquido o un gas)'' [[solidificare]]
+*''(alimenti)''[[surgelare]]
+*''(una persona o parti del corpo)'' [[assiderare]]
+*''(un progetto, un’impresa e simili)''[[bloccare]], [[sospendere]] 
+*[[scongelare]], [[decongelare]]
+*[[congelamento]], [[congelarsi]], [[congelato]], [[congelatore]], [[congelazione]], [[surgelare]]
+M>congelare</E
+M>gelu</E
+M>io congèlo</E
+M>l’acqua</E
+M>un terreno</E
+M>lo stupore aveva tanto mai allungato e congelato quelle faccie da togliere loro ogni umana sensibilità</E
+M>la riforma è stata congelata</E
+M>un credito</E
+M>il cambio dell’euro</E
+M>i posti di lavoro</E
+M>proposte avanzate dagli imprenditori di c</E
+M>la scala mobile</E
+M>il pozzo</E
+M>l’olio si è congelato nella bottiglia</E
+M>l’acqua</E
+M>alla pressione di un’atmosfera</E
+M>congela a</E
+M>la viva vena dell’elegante parlare si condensò e congelò</E
+M>gli si sono congelate le dita dei piedi</E
+M>a star fermo qui dentro</E
+M>mi sono tutto congelato</E
+M>carne congelata</E
+M>arto congelato</E
+M>pozzo congelato</E

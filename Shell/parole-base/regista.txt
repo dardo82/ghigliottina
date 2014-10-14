@@ -1,0 +1,21 @@
+regista.txt
+"regista"
+"regista"
+#*''[[w
+* direttore artistico
+M>regìa</E
+M>régisseur</E
+M>fare il r</E
+M>teatrale</E
+M>cinematografico</E
+M>televisivo</E
+M>radiofonico</E
+M>chi è il r</E
+M>di questo dramma?</E
+M>di quel film?</E
+M>aiuto regista</E
+M>è un r</E
+M>abilissimo</E
+M>ha manovrato il dibattito congressuale in modo da evitare scontri e fratture</E
+M>la manovra sui tassi di sconto ha avuto per r</E
+M>il Governatore in persona</E

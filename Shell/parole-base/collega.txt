@@ -1,0 +1,20 @@
+collega.txt
+"collega"
+"Note: in Italian “un collega” is anyone who works in the same field as another, even if the two do not actually work together. In English “colleagues” work together for the same establishment."
+"collega di lavoro"
+#*''sono andato in montagna con un mio collega di banca''
+*compagno di lavoro, [[collaboratore]], [[socio]]
+*[[collegare]], [[collegio]]
+M>collega</E
+M>con</E
+M>legare</E
+M>ghi</E
+M>un c</E
+M>nell’insegnamento</E
+M>una c</E
+M>d’ufficio</E
+M>onorevoli c</E
+M>colui che degno C</E
+M>fu a mantener la barca Di Pietro</E
+M>uno de’ più stretti ed intimi c</E
+M>di scelleratezze che avesse l’innominato</E

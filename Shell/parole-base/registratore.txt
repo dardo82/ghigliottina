@@ -1,0 +1,53 @@
+registratore.txt
+"apparecchio registratore"
+"audio registratore"
+"registratore"
+"registratore"
+"registratore di cassa"
+"registratore"
+"registratore a cassette"
+"registratore di cassa"
+"registratore di cassa"
+"registratore di volo"
+*[[registrare]]
+M>trice</E
+M>il carico e lo scarico di magazzino non tornano:</E
+M>ci deve essere un errore del r</E
+M>gli scrittori naturalisti si dichiaravano semplici r</E
+M>della realtà</E
+M>strumento</E
+M>apparecchio r</E
+M>misuratore e r</E
+M>macchina registratrice</E
+M>registratore di cassa</E
+M>di volo</E
+M>dei dati di volo</E
+M>scatola nera</E
+M>registratore</E
+M>a cassetta</E
+M>a bobina</E
+M>r. a disco</E
+M>r. digitale</E
+M>Mp3</E
+M>grafo</E
+M>anemografo</E
+M>cardiografo</E
+M>sismografo</E
+M>istantanei</E
+M>continui</E
+M>scriventi</E
+M>grafici</E
+M>a disco</E
+M>ad archetto</E
+M>a ponte</E
+M>a servomotore</E
+M>numerici</E
+M>elettronici</E
+M>fotografici</E
+M>ottici</E
+M>magnetici</E
+M>a due coordinate</E
+M>x-y</E
+M>plotter</E
+M>registro</E
+M>classificatore</E

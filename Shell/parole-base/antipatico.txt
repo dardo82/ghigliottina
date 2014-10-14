@@ -1,0 +1,21 @@
+antipatico.txt
+"antipatico"
+"antipatico"
+"antipatico"
+"stare antipatico"
+*[[spiacevole]],[[sgradevole]],[[odioso]],[[rude]]
+*[[simpatico]]
+*[[antipatia]],[[antipaticamente]]
+*italiano
+M>quanto</E
+M>sei a</E
+M>modi</E
+M>discorsi</E
+M>antipatici</E
+M>quell’a</E
+M>di tuo cugino</E
+M>non la posso soffrire</E
+M>quell’antipatica!</E
+M>è a</E
+M>dovere star qui ad aspettare</E
+M>se ne stava antipaticamente appartato dagli altri ospiti</E

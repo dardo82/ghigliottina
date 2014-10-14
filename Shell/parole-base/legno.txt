@@ -1,0 +1,209 @@
+legno.txt
+"arte di intagliare il legno"
+"asse di legno"
+"assi di legno"
+"azienda arboricola da legno"
+"blocchetto di legno, carattere in legno"
+"blocco di legno"
+"carie del legno"
+"casa di legno"
+"casetta di legno"
+"cavallo di legno"
+"copertura di legno"
+"cornice di legno"
+"cucchiaio di legno"
+"cuneo di legno"
+"del blocco di legno"
+"dell'intagliatore del legno"
+"detergente per il legno"
+"di legno"
+"di legno"
+"di legno di noce"
+"di legno di pino"
+"di legno massiccio"
+"di legno pitch pine"
+"fibra di legno"
+"gamba di legno"
+"in legno"
+"in legno e in muratura"
+"in pannelli di legno"
+"incisione su legno"
+"incisione su legno"
+"intaglio del legno"
+"lana di legno"
+"lavorazione del legno"
+"lavoro in legno"
+"legno"
+"legno"
+"legno"
+"pezzo di legno"
+"legno, replace: legni"
+"legno"
+"nave con scafo in legno"
+"legno d'olivo"
+"legno di balsa"
+"legno di betulla"
+"legno di cedro"
+"legno di ciliegio"
+"legno di ciliegio"
+"legno di frassino"
+"legno di quercia"
+"legno di salice"
+"legno di sandalo"
+"legno dolce"
+"legno laccato"
+"legno laminato"
+"legno massello"
+"legno massiccio"
+"legno massiccio"
+"legno metallico"
+"legno tamburato"
+"marciume del legno"
+"modello in legno"
+"olio di legno"
+"olio di legno"
+"olio di legno di sandalo, olio di sandalo"
+"palo di legno"
+"pannelli di legno"
+"pannello di legno"
+"pannello in legno"
+"pasta di legno"
+"pavimento con assi di legno"
+"pavimento di legno"
+"pavimento di legno"
+"pezzi di legno trasportati dalla corrente"
+"pezzo degli scacchi in legno"
+"pezzo di legno"
+"relativo all'olio di legno"
+"rivestimento in legno"
+"strumento a fiato (di legno)"
+"struttura gioco in legno da arrampicata"
+"tagliato, rifilato a mano (di legno)"
+"taglio del legno"
+"tappezzare di pannelli di legno"
+"tetto di legno"
+"trave di legno"
+"trucioli di legno"
+"truciolo metallico o di legno"
+"nella lavorazione dei metalli o legno"
+"vite per legno"
+"zoccolo di legno"
+#* ''mo' ti 
+*[[legname]]
+* [[legnaia]], [[legname]], [[legnoso]], [[ligneo]], [[legnare]]
+* [[legna]], [[legnata]], [[xilografia]]
+*''Ogni legno ha il suo tarlo.''
+M>gnum</E
+M>primario</E
+M>secondario</E
+M>omoxilo</E
+M>eteroxilo</E
+M>primaverile</E
+M>estivo</E
+M>da ferita</E
+M>legno da ardere</E
+M>legna</E
+M>legno da costruzione</E
+M>da lavoro</E
+M>legname</E
+M>da succhi</E
+M>segare</E
+M>lavorare</E
+M>piallare il l</E
+M>l’arte</E
+M>la tecnologia del l</E
+M>di rovere</E
+M>di noce</E
+M>di cipresso</E
+M>di frassino</E
+M>d’abete</E
+M>esotico</E
+M>nostrale</E
+M>fresco</E
+M>verde</E
+M>asciutto</E
+M>stagionato</E
+M>liscio</E
+M>nodoso</E
+M>fibroso</E
+M>venato</E
+M>dolce</E
+M>forte</E
+M>che si lavora bene</E
+M>che si lavora male</E
+M>che brucia bene</E
+M>che non brucia</E
+M>ferro</E
+M>speciali</E
+M>migliorato</E
+M>bachelizzato</E
+M>lamellare</E
+M>stratificato</E
+M>compensato</E
+M>legno</E
+M>truciolato</E
+M>paniforte</E
+M>una tavola</E
+M>un’asse</E
+M>un bastone di l</E
+M>mobile</E
+M>impiantito</E
+M>statua di l</E
+M>scultura</E
+M>incisione in l</E
+M>cavallino di l</E
+M>un pirata con una gamba di legno</E
+M>questa carne è dura come il l</E
+M>testa di l</E
+M>Re Travicello</E
+M>Le teste di legno Fan sempre del chiasso</E
+M>metti un altro l</E
+M>sul fuoco</E
+M>lo picchiò con un l</E
+M>nodoso</E
+M>il l</E
+M>della croce</E
+M>ogni l</E
+M>ha il suo tarlo</E
+M>amaranto</E
+M>d’anice</E
+M>giallo</E
+M>Chlorophora tinctoria</E
+M>nefritico</E
+M>porpora</E
+M>quassio</E
+M>rosso</E
+M>santo</E
+M>benedetto</E
+M>lignum vitae</E
+M>serpentino</E
+M>sughero</E
+M>pasta di legno</E
+M>olio di legno di Cina</E
+M>lana di legno</E
+M>Legno è più sù che fu morso da Eva</E
+M>da guerra</E
+M>da trasporto</E
+M>mercantile</E
+M>s’imbarcò sopra un l</E
+M>inglese</E
+M>io sono stato l</E
+M>sanza vela e sanza governo</E
+M>comperò un grandissimo l</E
+M>e quello tutto</E
+M>di suoi denari</E
+M> caricò di varie mercatantìe</E
+M>imbarcazione</E
+M>a due cavalli</E
+M>a quattro ruote</E
+M>coperto</E
+M>scoperto</E
+M>signorile</E
+M>padronale</E
+M>salire sul legno</E
+M>silografia</E
+M>legni</E
+M>legni</E
+M>Legno rosato</E
+M>carie rossa</E
+M>di monte</E

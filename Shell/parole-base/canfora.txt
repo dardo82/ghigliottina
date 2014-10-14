@@ -1,0 +1,8 @@
+canfora.txt
+"canfora"
+M>camphora</E
+M>naturale</E
+M>sintetica</E
+M>Olio di c</E
+M>di mirto</E
+M>mirtolo</E

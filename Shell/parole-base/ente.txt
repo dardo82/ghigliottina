@@ -1,0 +1,48 @@
+ente.txt
+"agenzia governativa, ente governativo, autorità governativa"
+"ente"
+"ente"
+"ente"
+"ente di beneficenza"
+"ente finanziario"
+"ente gestore"
+"ente lirico"
+"ente pubblico"
+"ente pubblico territoriale"
+"ente radiofonico britannico"
+*[[essente]]
+*[[entelecheia]], [[entelechia]]
+*[[-ente]]
+M>ens entis</E
+M>esse</E
+M>reale</E
+M>finito</E
+M>creato</E
+M>immaginario</E
+M>ideale</E
+M>di ragione</E
+M>infinito</E
+M>supremo</E
+M>essere</E
+M>ente</E
+M>geometrici</E
+M>fisico</E
+M>ente</E
+M>di natura</E
+M>persona giuridica</E
+M>pubblici</E
+M>centrali</E
+M>statali</E
+M>territoriali</E
+M>parastatali</E
+M>locali</E
+M>autonomi</E
+M>privati</E
+M>culturali</E
+M>assistenziali</E
+M>previdenziali</E
+M>sportivi</E
+M>ecclesiastici</E
+M>morale</E
+M>inutili</E
+M>economici</E

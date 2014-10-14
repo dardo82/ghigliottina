@@ -1,0 +1,50 @@
+razzo.txt
+"a propulsione a razzo"
+"aereo a razzo"
+"come un razzo"
+"granata a razzo"
+"lanciare con un razzo"
+"macchina razzo"
+"motore a razzo"
+"partire a razzo"
+"propulsione a razzo"
+"razzo"
+"razzo"
+"razzo impulsore"
+"uomo razzo"
+M>radius</E
+M>accendere</E
+M>tirare</E
+M>far partire un r</E
+M>batterie di razzi</E
+M>partire a razzo</E
+M>fuggì via come un r</E
+M>i corridori</E
+M>al segnale di partenza</E
+M>scattarono come razzi</E
+M>di segnalazione</E
+M>da segnale</E
+M>illuminante</E
+M>proiettile illuminante</E
+M>grandinifugo</E
+M>propulsore a r</E
+M>motore a r</E
+M>endoreattore</E
+M>chimico</E
+M>elettrostatico</E
+M>fotonico</E
+M>missile</E
+M>razzo</E
+M>missile</E
+M>proiettili razzo</E
+M>bombe razzo</E
+M>katju</E
+M>bazooka</E
+M>Panzerfaust</E
+M>raggio</E
+M>De gli occhi de la mia donna si move Un lume</E
+M>E de&#8217; suoi razzi sovra &#8217;l meo cor piove Tanta paura che mi fa tremare</E
+M>su la catasta formata dai r</E
+M>delle ruote</E
+M>dagli sportelli</E
+M>dai sedili</E

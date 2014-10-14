@@ -1,0 +1,51 @@
+frazione.txt
+"frazione"
+"frazione"
+"frazione"
+"frazione ai minimi termini"
+"frazione continua"
+"frazione decimale"
+"frazione molare"
+#*''Cicognola è una 
+*[[parte]], [[porzione]], [[pezzo]], [[frammento]], [[sezione]], [[divisione]], [[suddivisione]]
+* tempo brevissimo, [[attimo]]
+*[[borgata]], [[borgo]], [[paese]]
+*[[intero]], [[tutto]], [[totalità]]
+*[[eternità]]
+M>fractio</E
+M>onis</E
+M>fractus</E
+M>frang</E
+M>di un legno o di un altro solido</E
+M>la f</E
+M>del pane</E
+M>dell’ostia</E
+M>il noleggio della bicicletta costa 5 euro per ogni ora o f</E
+M>di ora</E
+M>è stato battuto all’arrivo per una f</E
+M>di secondo</E
+M>una esigua f</E
+M>dell’assemblea ha dato voto contrario</E
+M>un partito politico suddiviso in troppe f</E
+M>e correnti</E
+M>di tappa</E
+M>semitappa</E
+M>termini della f</E
+M>numeratore</E
+M>denominatore</E
+M>m/n</E
+M>propria</E
+M>impropria</E
+M>apparente</E
+M>decimale</E
+M>algebrica</E
+M>A/B</E
+M>ridotta ai minimi termini</E
+M>f. generatrice</E
+M>periodo</E
+M>antiperiodo</E
+M>frazioni</E
+M>volatili</E
+M>altobollenti</E
+M>frazione</E
+M>di comune</E

@@ -1,0 +1,54 @@
+guadagno.txt
+"controllo automatico del guadagno"
+"diminuzione di guadagno"
+"guadagno"
+"guadagno"
+"guadagno"
+"guadagno corrente"
+"guadagno personale"
+"guadagno sporco"
+"mancato guadagno"
+"margine di guadagno"
+"percentuale di ritorno, di guadagno"
+*[[profitto]], [[utile]], [[acquisto]], [[ricavo]], [[interesse]], [[introito]], [[reddito]], [[prodotto]], [[frutto]], [[beneficio]], [[stipendio]], [[salario]], [[paga]], [[retribuzione]], [[compenso]], [[giornata]], [[onorario]]
+*[[perdita]], [[spesa]]
+*[[guadagnare]]
+M>cercare il g</E
+M>curarsi solo del g</E
+M>La gente nuova e i sùbiti g</E
+M>la turba al vil g</E
+M>intesa</E
+M>dare</E
+M>mettere a guadagno</E
+M>femmina da guadagno</E
+M>lauti</E
+M>grassi</E
+M>ricchi</E
+M>un g</E
+M>misero</E
+M>povero</E
+M>magro</E
+M>meschino</E
+M>onesti</E
+M>disonesti</E
+M>il g</E
+M>del venditore</E
+M>del mediatore</E
+M>dell’operaio</E
+M>dell’impiegato</E
+M>i g</E
+M>di un professionista</E
+M>i g</E
+M>aumentano</E
+M>diminuiscono</E
+M>è più lo scapito del g</E
+M>bestie da guadagno</E
+M>ecco il g</E
+M>che ho avuto a fidarmi di lui</E
+M>ho fatto un bel g</E
+M>a uscire con questo tempaccio</E
+M>primario</E
+M>secondario</E
+M>amplificazione</E
+M>gain</E
+M>di un’antenna</E

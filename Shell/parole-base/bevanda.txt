@@ -1,0 +1,38 @@
+bevanda.txt
+"bevanda"
+"bevanda alcolica"
+"bevanda alcolica a base di zabaione"
+"bevanda alcolica che si dice curi la sbornia"
+"bevanda alle erbe"
+"bevanda allo zenzero; fermentata e effervescente"
+"bevanda analcolica"
+"bevanda analcolica"
+"bevanda effervescente, bevanda gassata"
+"bevanda energetica"
+"bevanda fredda di gin aromatizzato e addolcito"
+"bevanda gassata"
+"bevanda gassata"
+"bevanda magica"
+"bevanda molto alcolica"
+"bevanda molto forte"
+"bevanda ottenuta mescolando birra chiara e birra scura"
+"bicchiere di highball (bevanda con seltz)"
+"con bevanda fredda di gin aromatizzato e addolcito"
+*[[ bibita]], [[drink]]
+M>bevere</E
+M>vivanda</E
+M>ci hanno offerto cibi squisiti ed eccellenti b</E
+M>gradirei una b. fresca</E
+M>mi son dovuto sorbire una b</E
+M>di pessimo sapore</E
+M>il vino è una b</E
+M>sana</E
+M>a patto di non abusarne</E
+M>sacre</E
+M>purificatrici</E
+M>magiche</E
+M>fermentate</E
+M>alcolica</E
+M>spiritosa</E
+M>analcolica</E
+M>pozione</E

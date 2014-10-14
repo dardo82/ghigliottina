@@ -1,0 +1,52 @@
+pomodoro.txt
+"concentrato di pomodoro"
+"concentrato di pomodoro"
+"panino con bacon lattuga e pomodoro"
+"passata di pomodoro"
+"pomodoro"
+"pomodoro"
+"frutto del pomodoro"
+"pomodoro da insalata"
+"rosso di pomodoro"
+"salsa di pomodoro"
+"succo di pomodoro"
+"zuppa di pomodoro"
+*(di colore) [[rosso]]
+*''(come salsa)'' [[sugo]]
+* [[pomidoro]]
+M>pomo d&#8217;oro</E
+M>pomodòri</E
+M>pomidòro</E
+M>pomidòri</E
+M>Lycopersicon esculentum</E
+M>Solanum lycopersicum</E
+M>olio di semi di pomodoro</E
+M>pomodori da tavola</E
+M>da sugo</E
+M>per conserva</E
+M>verdi</E
+M>insalata di pomodori</E
+M>ripieni</E
+M>al forno</E
+M>al riso</E
+M>al gratin</E
+M>pelati</E
+M>sugo</E
+M>salsa</E
+M>conserva</E
+M>concentrato di pomodoro</E
+M>pappa col p</E
+M>al pomodoro</E
+M>pasta</E
+M>spaghetti</E
+M>fettuccine al p</E
+M>al burro e p</E
+M>polpette al pomodoro</E
+M>rosso</E
+M>in faccia</E
+M>come un pomodoro</E
+M>arboreo</E
+M>Cyphomandra betacea</E
+M>albero del pomodoro</E
+M>di mare</E
+M>Actinia equina</E

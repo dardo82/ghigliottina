@@ -1,0 +1,79 @@
+tavolo.txt
+"bilancia da tavolo"
+"giocatore di tennis da tavolo, giocatore di ping pong"
+"gioco da tavolo"
+"giro di tavolo"
+"lampada da tavolo"
+"prendere il tavolo"
+"set di tavolo e sedie da pranzo"
+"sotto il tavolo"
+"tappetino da tavolo"
+"tavolo"
+"tavolo a piedistallo"
+"tavolo ad angolo"
+"tavolo da biliardo"
+"tavolo da cocktail"
+"tavolo da colazione"
+"tavolo da conferenze"
+"tavolo da cucina"
+"tavolo da disegno"
+"tavolo da disegno"
+"tavolo da gioco"
+"tavolo da gioco"
+"tavolo da gioco"
+"tavolo da lavoro"
+"tavolo da pranzo"
+"tavolo da pranzo"
+"tavolo da pranzo"
+"tavolo del consiglio"
+"tavolo della roulette"
+"tavolo di lavoro"
+"tavolo estraibile"
+"tavolo luminoso"
+"tavolo negoziale"
+"tavolo operatorio"
+"tavolo pieghevole"
+"tavolo verde"
+"tavolo; in una conferenza o banchetto; dove siedono le persone più importanti"
+"telefono da tavolo"
+"tennis da tavolo"
+"tennis da tavolo, ping pong"
+"vassoio da tavolo"
+*italiano
+M>tavola</E
+M>tavola</E
+M>un prezioso t. del Cinquecento</E
+M>comprare un t. nuovo per il tinello</E
+M>prenotare un t. per otto al ristorante</E
+M>t. di</E
+M>da cucina</E
+M>t. da lavoro</E
+M>da stiro</E
+M>t. operatorio</E
+M>t. anatomico</E
+M>t. da gioco</E
+M>t. verde</E
+M>un t. rotondo da poker</E
+M>il t. della roulette</E
+M>lanciare i dadi sul t.</E
+M>rovinarsi al t. verde</E
+M>tavola</E
+M>mettere le carte in tavola</E
+M>tavola reale</E
+M>tavolino per gli scacchi</E
+M> per la dama</E
+M> per il domino</E
+M>t. da ping-pong</E
+M>tennis da tavolo</E
+M>T. da disegno</E
+M>Tavolo di comando</E
+M>di manovra</E
+M>T. di commutazione</E
+M>t. di montaggio</E
+M>moviola</E
+M>t. verticale per trucchi</E
+M>t. di mediazione</E
+M>t. della giustizia</E
+M>t. delle regole</E
+M>il t. si farà tra una settimana</E
+M>sedersi al t.</E

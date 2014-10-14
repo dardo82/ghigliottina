@@ -1,0 +1,48 @@
+ripulire.txt
+"ripulire"
+"ripulire"
+"ripulire"
+"ripulire"
+"ripulire, replace: ripulirsi"
+#* ''i ladri hanno '''ripulito''' l'intera banca''
+#* devi ''ripulire'' la tua stanza''
+M>pulire</E
+M>io ripulisco</E
+M>tu ripulisci</E
+M>una stanza</E
+M>un mobile</E
+M>le scale</E
+M>la facciata di una casa</E
+M>le scarpe infangate</E
+M>un vestito impolverato</E
+M>il cappello macchiato</E
+M>una strada dal fango</E
+M>dalla neve</E
+M>il campo dai sassi</E
+M>dalle erbacce</E
+M>dai rovi</E
+M>dai cespugli</E
+M>il tetto</E
+M>un tubo</E
+M>una conduttura</E
+M>i ladri gli hanno ripulito la casa</E
+M>uno</E
+M>la tavola</E
+M>tutto quello che c&#8217;è</E
+M>in tavola</E
+M>la città dai malviventi</E
+M>dagli amministratori disonesti</E
+M>vado un momento in camera a ripulirmi</E
+M>appena torna a casa</E
+M> sta mezz&#8217;ora a ripulirsi</E
+M>da quando ha cominciato a guadagnare</E
+M>si è tutto ripulito</E
+M>un albero</E
+M>un lavoro di cucito</E
+M>i costumi</E
+M>le maniere</E
+M>una lingua dalle parole straniere</E
+M>uno scritto</E
+M>un abbozzo</E
+M>trovò la casa tutta ripulita</E
+M>la domenica va a passeggio così ripulito che nessuno lo riconoscerebbe</E

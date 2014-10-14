@@ -1,0 +1,56 @@
+apparecchio.txt
+"apparecchio"
+"apparecchio"
+"apparecchio"
+"apparecchio a foro stenopeico"
+"apparecchio a transistor"
+"apparecchio acustico"
+"apparecchio d'illuminazione a parete"
+"apparecchio per i denti"
+"apparecchio per riscaldamento a gas"
+"apparecchio registratore"
+"apparecchio telefonico"
+"batteria per apparecchio acustico"
+"con apparecchio per riscaldamento a gas"
+"strumento, apparecchio elettronico"
+#*'' oggi 
+*[[apparato]], [[strumento]], [[macchina]], [[congegno]], [[dispositivo]], [[marchingegno]], [[attrezzo]]
+* [[congegno]],  [[preparazione]], [[allestimento]], [[preparativo]] , [[apprestamento]]
+*[[apparecchiatura]], [[apparecchiamento]]
+M>apparecchiare</E
+M>appareil</E
+M>fare l’a</E
+M>per una spedizione</E
+M>fra Cristoforo vide quell’a</E
+M>ne indovinò il motivo</E
+M>di guerra</E
+M>bellico</E
+M>lo re Carlo</E
+M>fece grande a</E
+M>per passare in Sicilia</E
+M>Era pronto l’a</E
+M>Ed il re balzò in arcioni</E
+M>telefonico</E
+M>radio</E
+M>radioricevitore</E
+M>fotografico</E
+M>di refrigerazione</E
+M>di misurazione</E
+M>di perforazione</E
+M>sonda</E
+M>del binario</E
+M>velivolo</E
+M>aereo</E
+M>aeroplano</E
+M>da trasporto</E
+M>da caccia</E
+M>da ricognizione</E
+M>da bombardamento</E
+M>l’a</E
+M>si alzò in volo</E
+M>apparecchiatura</E
+M>gessato</E
+M>bendaggio gessato</E
+M>protesico</E
+M>ortopedico</E
+M>apparecchio</E

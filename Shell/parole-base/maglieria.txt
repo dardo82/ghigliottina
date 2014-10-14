@@ -1,0 +1,9 @@
+maglieria.txt
+"macchina per maglieria"
+"maglieria"
+"maglieria"
+"maglieria"
+M>negozio di maglierie</E
+M>macchine</E
+M>telai per maglieria</E
+M>piombi</E

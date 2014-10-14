@@ -1,0 +1,257 @@
+saltare.txt
+"corda per saltare"
+"far saltare"
+"far saltare il banco"
+"saltare"
+"saltare"
+"saltare"
+"saltare"
+"saltare"
+"saltare"
+"saltare"
+"saltare a bordo"
+"saltare a conclusioni affrettate"
+"saltare addosso"
+"saltare agli occhi"
+"saltare al di là di qualcosa, saltare oltre qualcosa"
+"saltare dappertutto"
+"saltare dentro"
+"saltare dentro"
+"saltare di palo in frasca"
+"saltare di qua e di là"
+"saltare fuori"
+"saltare fuori"
+"saltare fuori"
+"saltare giù"
+"saltare i pasti"
+"saltare il fosso"
+"saltare in padella"
+"saltare in padella"
+"saltare in piedi"
+"saltare intorno"
+"saltare la corda"
+"saltare la mosca al naso"
+"saltare la palla"
+"saltare oltre"
+"saltare oltre"
+"saltare su"
+"saltare su una gamba sola"
+"saltare sul carro, saltare sul carro del vincitore"
+"saltare un ballo"
+"saltare un ostacolo con la bici"
+"scavalcare con un salto qualcosa, saltare via qualcosa"
+#*''"Non guardare giù" mi disse '''saltando'''''
+#*'''''Saltammo''' sul letto''
+#*'''''Saltiamo''' da pagina 30 a pagina 35''
+#*''Mi '''è saltato''' via un bottone''
+#*'''''É saltato''' il salvavita''
+#*'''''Saltai''' la pozzanghera''
+#*''Ieri '''ha saltato''' la scuola''
+#*''Il terzo capitolo era irrilevante quindi l''''ho saltato'''''
+#*'''''Saltare''' la pasta in padella''
+*italiano
+*latino
+M>saltare</E
+M>salire</E
+M>saltum</E
+M>avere</E
+M>smise di urlare e s. e si raggomitolò sul letto</E
+M>s. a piè pari</E
+M>a piedi giunti</E
+M>s. a piè pari</E
+M>s. sul</E
+M>con il</E
+M>piede destro</E
+M>sul</E
+M>con il</E
+M>piede sinistro</E
+M>s. su un piede solo</E
+M>s. con la corda</E
+M>s. dalla gioia</E
+M>dall&#8217;allegria</E
+M>dalla felicità</E
+M>si mantiene in forma saltando ogni mattina per mezz&#8217;ora</E
+M>un atleta che salta con stile impeccabile</E
+M>ha saltato un metro</E
+M>riesce a s. due metri e dieci</E
+M>nel Campionato del Mondo del 1991 lo statunitense Mike Powell ha stabilito un nuovo record</E
+M>saltando metri 8</E
+M>95.</E
+M>sono andati a s. in giardino</E
+M>sul prato</E
+M>tuo figlio ha saltato tutto il pomeriggio</E
+M> e non è ancora stanco</E
+M>smetti di s.</E
+M> fai tremare il pavimento</E
+M>I fanciulli gridando Su la piazzuola in frotta</E
+M> E qua e là saltando</E
+M> Fanno un lieto romore</E
+M>essere</E
+M>s. giù</E
+M>dalla sedia</E
+M>dal tavolo</E
+M>salta giù da quel muretto!</E
+M>s. nell&#8217;acqua</E
+M>s. dal trampolino</E
+M>mi sono svegliato tardi e sono saltato giù dal letto</E
+M>s. oltre il fosso</E
+M>di là dalla siepe</E
+M>s. in barca</E
+M>s. sulla riva</E
+M>sulla banchina</E
+M>è saltato a terra prima che il treno si fermasse</E
+M>sono saltato sull&#8217;autobus in corsa</E
+M>s. a cavallo</E
+M>s. in sella</E
+M>s. addosso a qualcuno</E
+M>voglia di lavorar</E
+M> saltami addosso</E
+M>s. al collo di qualcuno</E
+M>far s. qualcuno</E
+M>lo hanno preso di forza e lo hanno fatto s. dalla finestra</E
+M>con il nuovo direttore ha trovato chi lo fa saltare.</E
+M>essere</E
+M>avere</E
+M>c&#8217;era uno scoiattolo che saltava sul prato</E
+M>il gatto è saltato sul tavolo con un balzo improvviso</E
+M>la trota è saltata dall&#8217;acqua</E
+M>il cavallo ha saltato bene</E
+M>male</E
+M>s. come un capriolo</E
+M>come un camoscio</E
+M>come un canguro</E
+M>come un grillo</E
+M>come una cavalletta.</E
+M>essere</E
+M>sbattendo la porta</E
+M> ha fatto s. un pezzo dell&#8217;intonaco</E
+M>mi è saltata una scheggia sul viso</E
+M>la palla di rimbalzo è saltata sul tetto.</E
+M>il tappo della bottiglia è saltato all&#8217;improvviso con un gran botto</E
+M>sono saltati</E
+M>sono saltati via</E
+M>alcuni bulloni</E
+M>alcune viti</E
+M>nello sforzo</E
+M> mi è saltato un bottone dalla camicia</E
+M>è saltata la molla</E
+M>è saltata la molla dell&#8217;orologio</E
+M>s. in aria</E
+M>per aria</E
+M>la centrale è saltata in aria per un attentato</E
+M>l&#8217;intero palazzo è saltato in aria per una fuga di gas</E
+M>la nave</E
+M> colpita da un siluro</E
+M> saltò in aria</E
+M>fare</E
+M>è saltata la polveriera</E
+M>far s. una galleria</E
+M>prima di ritirarsi i nemici hanno fatto s. il ponte</E
+M>i terroristi hanno tentato di far s. il treno.</E
+M>far s. la serratura</E
+M>farsi s. le cervella</E
+M>è saltata la valvola</E
+M>far s. il banco</E
+M>il banco è saltato</E
+M>far s. i nervi a qualcuno</E
+M>mi ha fatto s. i nervi</E
+M>mi sono saltati i nervi</E
+M>alla prima occasione faranno saltare il presidente</E
+M>fare</E
+M>in seguito all&#8217;inchiesta il sottosegretario è saltato</E
+M>far saltare il governo</E
+M>il governo sta per saltare</E
+M>lo sciopero dei treni ha fatto s. la riunione del consiglio d&#8217;amministrazione</E
+M>la riunione è saltata in seguito allo sciopero dei treni</E
+M>essere</E
+M>Saltar fuori</E
+M>è saltato fuori quando meno me l&#8217;aspettavo</E
+M>i rapitori sono saltati fuori da un cespuglio e l&#8217;hanno assalito</E
+M>da dove salti fuori tu?</E
+M>sono saltati fuori dei lontani parenti che pretendono una parte dell&#8217;eredità</E
+M>saltar fuori con una nuova proposta</E
+M>durante la riunione è saltato fuori con le sue solite sciocchezze</E
+M>saltar su a dire</E
+M>a fare</E
+M>come al solito è saltato su a dire che mi sbagliavo</E
+M>saltare fuori</E
+M>non trovo più la penna</E
+M> ma prima o poi salterà fuori</E
+M>se non saltano fuori i miei occhiali</E
+M> non posso lavorare</E
+M>fare</E
+M>fai s. fuori quello che hai preso</E
+M> prima che perda la pazienza!</E
+M>quella somma mi serve</E
+M> e bisognerà farla saltar fuori da qualche parte.</E
+M>S. agli occhi</E
+M>la sproporzione salta subito agli occhi</E
+M>la sua malafede salta agli occhi</E
+M>salta all&#8217;occhio</E
+M>di chiunque.</E
+M>S. la mosca al naso</E
+M>se gli salta la mosca al naso sono guai</E
+M>gli è saltata la mosca al naso e se ne è andato sbattendo la porta.</E
+M>S. in bestia</E
+M>andare</E
+M>montare in bestia</E
+M>S. in mente</E
+M>per la mente</E
+M>s. in testa</E
+M>per la testa</E
+M>ma che idee ti saltano in mente?</E
+M>che ti salta in mente ora?</E
+M>che ti salta?</E
+M>gli è saltata la voglia</E
+M>gli è saltato il capriccio</E
+M>l&#8217;estro</E
+M>gli è saltato il ticchio</E
+M>il grillo</E
+M>di comprare un cane di razza.</E
+M>essere</E
+M>saltiamo direttamente all&#8217;ultima questione</E
+M>s. dal mi al la</E
+M>da una nota all&#8217;altra</E
+M>s. da un&#8217;idea all&#8217;altra</E
+M>da un concetto a un altro</E
+M>d&#8217;un pensiero in altro saltando</E
+M> ... s&#8217;addormentò</E
+M>s. di palo in frasca</E
+M>avere</E
+M>per mezzo degli alberi e de le sepi si vedevano fiere bellissime e snelle allegramente s. e scherzare con varî giochi</E
+M>s. una siepe</E
+M>un muretto</E
+M>s. il fosso</E
+M>s. l&#8217;ostacolo</E
+M>ha saltato un avversario e ha tirato in porta</E
+M>s. la barra</E
+M>o mangiar questa minestra o saltar questa finestra</E
+M>montare</E
+M>broccoletti saltati in padella.</E
+M>leggendo hai saltato una riga</E
+M>scrivendo al computer ho saltato due parole</E
+M>nel compilare l&#8217;elenco hai saltato alcuni nomi</E
+M>un brano della versione di latino era troppo difficile e l&#8217;ho saltato</E
+M>salta i particolari</E
+M>i preamboli</E
+M>e vieni al dunque!</E
+M>raccontando la trama del film hai saltato un particolare importante</E
+M>s. una difficoltà</E
+M>s. una lezione</E
+M>s. i pasti</E
+M>il pranzo</E
+M>la cena</E
+M>s. un punto</E
+M> una maglia</E
+M>s. una persona</E
+M>sperava di essere nominato cavaliere</E
+M> ma l&#8217;hanno saltato</E
+M>aspetta ancora che gli assegnino una casa</E
+M> ma lo saltano sempre.</E
+M>s. una classe</E
+M>passo saltato</E
+M>passo strisciato</E
+M>ballo saltato</E
+M>danza saltata</E
+M>andatura saltata</E
+M>lana saltata</E

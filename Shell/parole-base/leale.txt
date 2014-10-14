@@ -1,0 +1,41 @@
+leale.txt
+"accordo leale"
+"fedele, leale"
+"fedele, leale"
+"gioco leale; correttezza"
+"in maniera onesta, leale"
+"in modo leale"
+"in modo onesto, leale"
+"l'opposizione leale"
+"leale"
+"leale"
+"leale; in pieno"
+"opposizione leale"
+"sportivo; leale"
+*[[lealista]]
+M>leial</E
+M>loyal</E
+M>legalis</E
+M>uomo</E
+M>amico</E
+M>avversario l</E
+M>avere animo</E
+M>carattere l</E
+M>un concorrente l</E
+M>uomo di nazione infima ma di chiara fede e leal mercatante</E
+M>dichiarazione</E
+M>promessa</E
+M>concorrenza l</E
+M>uno scontro</E
+M>una lotta</E
+M>un combattimento l</E
+M>modi</E
+M>maniere l</E
+M>comportamento poco leale</E
+M>moneta l</E
+M>misura l</E
+M>dichiarare lealmente la propria opposizione</E
+M>combattere</E
+M>giocare lealmente</E
+M>servire lealmente una causa</E
+M>agire lealmente</E

@@ -1,0 +1,40 @@
+gelato.txt
+"cono gelato"
+"di cono (gelato)"
+"di gelato"
+"gelato"
+"gelato"
+"gelato"
+"gelato affogato"
+"gelato al (gusto (di))..."
+"gelato al cocco"
+"gelato alla crema"
+"gelato con panna montata"
+"gelato confezionato"
+"gelato erogato dalla macchina automatica"
+"gelato fritto"
+"gelato misto, coppa gelato"
+"gelato sfuso"
+"gelato sundae (gelato americano)"
+"gelato; reso solido dal gelo"
+"gusto del gelato"
+"gusto di gelato con pezzettini di frutta fresca, secca o candita"
+"latte gelato"
+"macchina del gelato"
+"paletta per gelato"
+*[[ghiacciato]]
+*italiano
+M>gelare</E
+M>gelatiera</E
+M>sorbettiera</E
+M>di crema</E
+M>di cioccolata</E
+M>di vaniglia</E
+M>di fragola</E
+M>di limone</E
+M>di castagna</E
+M>di cocco</E
+M>un cono</E
+M>una coppa di g</E
+M>da passeggio</E
+M>di campagna</E

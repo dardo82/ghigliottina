@@ -1,0 +1,36 @@
+fontana.txt
+"fontana"
+*(2) [[fonte]]
+*(2) [[sorgente]]
+*[[fontanazzo]], [[fontanella]], [[fontaniere]], [[fontanile]], 
+*[[fonte]]
+*italiano
+M>fontana</E
+M>aqua</E
+M>fontanus</E
+M>tra chiare f</E
+M>e verdi prati</E
+M>una f</E
+M>d’acqua freddissima</E
+M>tra Rialto E le f</E
+M>di Brenta e di Piava</E
+M>quel</E
+M>ch’è sempre d’ogni mal fontana</E
+M>quella degli accenti è f</E
+M>di errori a chi ben non vi guarda</E
+M>intra ’mortali</E
+M>Se’ di speranza f</E
+M>vivace</E
+M>a getto</E
+M>a schizzo</E
+M>bere alla f</E
+M>la f</E
+M>di Trevi</E
+M>i suoi occhi sono diventati una f</E
+M>di lacrime</E
+M>il sangue sgorgava a fontana dalla ferita</E
+M>intermittente</E
+M>ardenti</E
+M>naturali</E
+M>di lava</E
+M>di Erone</E

@@ -1,0 +1,31 @@
+vescovo.txt
+"vescovo"
+"vescovo titolare in partibus"
+*[[arcivescovo]], [[metropolita]], [[patriarca]],[[pastore]]
+*[[papa]]
+*[[prete]]
+*italiano
+M>pus</E
+M>essere nominato</E
+M>ordinato v.</E
+M>la consacrazione dei nuovi v.</E
+M>il v. di Torino</E
+M>di Milano</E
+M>il v. di Roma</E
+M>v. diocesani</E
+M>v. suffraganei</E
+M>v. coadiutori</E
+M>v. titolari</E
+M>v. suburbicarî</E
+M>v. castrense</E
+M>ordinario militare</E
+M>v. conte</E
+M>prìncipi v.</E
+M>v. elettori</E
+M>Guerra dei v.</E
+M>rosso vescovo</E
+M>Dasyatis violacea</E
+M>Pteromylaeus bovinus</E
+M>nottola</E
+M>Milyobatis aquila</E
+M>miliobate</E

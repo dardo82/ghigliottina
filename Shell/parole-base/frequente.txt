@@ -1,0 +1,48 @@
+frequente.txt
+"di frequente"
+"essere frequente"
+"frequente"
+"frequente"
+"in modo frequente"
+"non frequente"
+#*''É un fenomeno molto '''frequente''' nella stagione invernale''
+*[[ripetuto]]
+M>frequens</E
+M>entis</E
+M>visite</E
+M>assenze f</E
+M>cambiamenti di umore</E
+M>un f</E
+M>intercalare</E
+M>in montagna le piogge sono f</E
+M>gli autobus</E
+M>le corse degli autobus</E
+M>sono poco f</E
+M>in questa zona della città</E
+M>sono casi purtroppo f</E
+M>si sono verificati f</E
+M>incidenti ferroviarî in questo periodo</E
+M>polso f</E
+M>respiro frequente</E
+M>di frequente</E
+M>è un fenomeno che si ripete di frequente</E
+M>raro</E
+M>rado</E
+M>i visitatori sono abbastanza f</E
+M>le vipere non sono più tanto f</E
+M>in questi boschi</E
+M>gli avvisi segnalatori sono f</E
+M>lungo la strada</E
+M>in questo paese</E
+M>le trattorie non sono molto f</E
+M>Questo sicuro e gaudïoso regno</E
+M>in gente antica ed in novella</E
+M>città allora molto ricca e molto f</E
+M>Lui</E
+M>le frequenti Sale</E
+M>e le piazze romorose</E
+M>e gli orti</E
+M>Tengon la notte e il giorno</E
+M>sono fatti che si ripetono frequentemente</E
+M>troppo frequentemente</E
+M>ho dovuto frequentemente rimproverarlo per questo</E

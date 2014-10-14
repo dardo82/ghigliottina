@@ -1,0 +1,102 @@
+dito.txt
+"dito"
+"dito"
+"dito a martello"
+"dito indice"
+"dito medio"
+"dito piccolo"
+"dito piccolo"
+"girare il dito nella piaga"
+"Ho toccato il cielo con un dito..."
+"indicare con un dito"
+"insaccarsi un dito"
+"legarsela al dito"
+"muovere un dito"
+"non alzare un dito"
+"pungere qc sul vivo, mettere il dito nella piaga"
+"punta del dito"
+"puntare il dito"
+"puntare il dito contro"
+"puntare il dito contro"
+"puntare il dito contro"
+#* '''''dito''' pollice'', '''''dito''' [[indice]]'', '''''dito''' [[medio]]'', '''''dito''' [[anulare]]'', '''''dito''' [[mignolo]]''
+#* '''''dito''' alluce'', ''mi fanno male le '''dita''' del piede''
+#* ''alzare il '''dito''''', ''indicare col '''dito'''''
+#* ''mostrare il '''dito''''', ''fare il '''dito'''''
+#* ''tirar fuori il '''dito''''', ''esporre il '''dito'''''
+#* ''le '''dita''' del gatto''
+#* ''questi guanti ormai hanno le '''dita''' corte''
+#* ''lascia due '''dita''' per l'orlo'', ''versami un '''dito''' di vino''
+#* ''nell'antica Roma il '''dito''' corrispondeva a circa 1,85cm''
+* [[ditale]]
+* ''toccare il cielo con un '''dito'''''
+* ''mettere il '''dito''' nella piaga''
+* ''non muovere un '''dito'''''
+* ''puntare il '''dito''' contro''
+* ''mordersi le '''dita'''''
+* ''gli dai un '''dito''' e si prende tutto il braccio''
+* ''tra moglie e marito non mettere il '''dito'''''
+*(volgare) ''di lingua e di dito l'uomo non è mai finito''
+*italiano
+M>tus</E
+M>le dita</E
+M>i diti</E
+M>pollice</E
+M>indice</E
+M>medio</E
+M>anulare</E
+M>mignolo</E
+M>alluce</E
+M>dito grosso</E
+M>pollice</E
+M>III falange</E
+M>falange</E
+M>falangina</E
+M>falangetta</E
+M>dito</E
+M>di retro a me</E
+M>drizzando ’l dito</E
+M>Una gridò</E
+M>alzando il d</E
+M>colla morte scherza</E
+M>mostrare</E
+M>minacciare col d</E
+M>mostrare a dito</E
+M>toccare il cielo con un d</E
+M>darsi il</E
+M>del</E
+M>nell’occhio</E
+M>mettere il d</E
+M>sulla piaga</E
+M>non muovere un d</E
+M>in favore di qualcuno</E
+M>non poter alzare neppure un d</E
+M>puntare il d</E
+M>contro qualcuno</E
+M>si contano sulle d</E
+M>della mano</E
+M>avere sulla punta delle d</E
+M>leccarsi le d</E
+M>mordersi le d</E
+M>legarsela al d</E
+M>il d</E
+M>di Dio</E
+M>guanti con le d</E
+M>lunghe</E
+M>strette</E
+M>guanti senza dita</E
+M>un d</E
+M>di guanto</E
+M>un d</E
+M>di gomma</E
+M>dito d’apostolo</E
+M>le Cinque dita</E
+M>il Dito di Dio</E
+M>versarsi nel bicchiere un d</E
+M>due dita</E
+M>diti</E
+M>di vino</E
+M>accorciare la gonna di due dita</E
+M>essere a un d</E
+M>regola delle tre dita</E
+M>regola della mano</E

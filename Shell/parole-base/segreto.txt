@@ -1,0 +1,119 @@
+segreto.txt
+"a porte chiuse, in segreto"
+"agente segreto"
+"agente segreto"
+"agente segreto"
+"al segreto"
+"clandestinamente, nascostamente, in segreto"
+"codice segreto"
+"dire a qualcuno un segreto"
+"diritto al segreto professionale"
+"far passare qualcosa sotto silenzio, tenere segreto qualcosa"
+"giardino segreto"
+"il segreto di un successo"
+"in segreto"
+"lasciarsi sfuggire un segreto"
+"linguaggio segreto"
+"luogo segreto"
+"mantenuto segreto"
+"nome segreto"
+"non segreto"
+"ordine segreto"
+"oscuro segreto"
+"passaggio segreto"
+"piano segreto"
+"piano segreto"
+"rivelare un segreto"
+"segreto"
+"segreto"
+"segreto"
+"segreto"
+"segreto commerciale"
+"segreto di Pulcinella"
+"segreto conosciuto da tutti"
+"segreto di stato"
+"segreto oscuro"
+"segreto professionale"
+"servizio segreto militare"
+"silenzio, è un segreto, acqua in bocca!"
+"tenere segreto"
+"tenere segreto"
+"tenuto segreto"
+#* ''quello è di sicuro un fatto '''segreto''', non dirlo a nessuno''
+#* ''ciò che ti ho detto è un '''segreto'''''
+#* ''quello è un famoso '''segreto''' della magia nera''
+* ''(aggettivo)'' derivante dal [[latino]] ''[[secretum]]'', participio passato del verbo ''[[secernere]]'' che significa [[separare]], verbo composto a sua volta da ''[[se]]'', che sta per ''[[sé]]'' e ''[[cernere]]'' [[distinguere]], [[setacciare]]
+* ''(sostantivo)'' [[latino]] ''[[secretum]]'', sostantivo dell'aggettivo ''[[secretus]]'', nel significato di segreto
+* (di luogo, passaggio e simili) [[appartato]], [[nascosto]], [[appartato]], [[celato]], [[sconosciuto]], [[ignoto]] 
+*(di risorsa, qualità) [[insospettato]], [[insospettabile]], [[imprevisto]], [[imprevedibile]],
+*(di sentimento, speranza ecc.) [[intimo]],[[profondo]], [[recondito]],[[riposto]], [[inconfessato]],[[interiore]]
+*(di organizzazione, società ecc.)[[clandestino]]
+*(di archivio, documentazione ecc.)  [[inaccessibile]],
+*(fatto la cui conoscenza non si deve sapere)[[riservato]],  top secret,
+* (di persona) [[discreto]],[[fidato]], [[affidabile]], [[intimo]],[[personale]]
+*(conoscenza misteriosa) [[occulto]], [[mistero]], [[imperscrutabile]]
+* (professionale) [[riserbo]],[[vincolo]],  
+* [[confidenza]] 
+* [[mistero]], [[arcano]], [[enigma]]  
+* (del successo, del mestiere) [[espediente]], [[metodo]],[[sistema]] 
+*[[palese]], [[esteriore]], [[visibile]], [[evidente]], [[evidente]],[[manifesto]], [[noto]], [[conosciuto]], [[pubblico]], [[accessibile]],[[disponibile]], [[indiscreto]], [[inaffidabile]], [[pettegolo]],[[chiacchierone]]
+*Enciclopedia [http
+"a porte chiuse, in segreto"
+"agente segreto"
+"agente segreto"
+"agente segreto"
+"al segreto"
+"clandestinamente, nascostamente, in segreto"
+"codice segreto"
+"dire a qualcuno un segreto"
+"diritto al segreto professionale"
+"far passare qualcosa sotto silenzio, tenere segreto qualcosa"
+"giardino segreto"
+"il segreto di un successo"
+"in segreto"
+"lasciarsi sfuggire un segreto"
+"linguaggio segreto"
+"luogo segreto"
+"mantenuto segreto"
+"nome segreto"
+"non segreto"
+"ordine segreto"
+"oscuro segreto"
+"passaggio segreto"
+"piano segreto"
+"piano segreto"
+"rivelare un segreto"
+"segreto"
+"segreto"
+"segreto"
+"segreto"
+"segreto commerciale"
+"segreto di Pulcinella"
+"segreto conosciuto da tutti"
+"segreto di stato"
+"segreto oscuro"
+"segreto professionale"
+"servizio segreto militare"
+"silenzio, è un segreto, acqua in bocca!"
+"tenere segreto"
+"tenere segreto"
+"tenuto segreto"
+#* ''quello è di sicuro un fatto '''segreto''', non dirlo a nessuno''
+#* ''ciò che ti ho detto è un '''segreto'''''
+#* ''quello è un famoso '''segreto''' della magia nera''
+* ''(aggettivo)'' derivante dal [[latino]] ''[[secretum]]'', participio passato del verbo ''[[secernere]]'' che significa [[separare]], verbo composto a sua volta da ''[[se]]'', che sta per ''[[sé]]'' e ''[[cernere]]'' [[distinguere]], [[setacciare]]
+* ''(sostantivo)'' [[latino]] ''[[secretum]]'', sostantivo dell'aggettivo ''[[secretus]]'', nel significato di segreto
+* (di luogo, passaggio e simili) [[appartato]], [[nascosto]], [[appartato]], [[celato]], [[sconosciuto]], [[ignoto]] 
+*(di risorsa, qualità) [[insospettato]], [[insospettabile]], [[imprevisto]], [[imprevedibile]],
+*(di sentimento, speranza ecc.) [[intimo]],[[profondo]], [[recondito]],[[riposto]], [[inconfessato]],[[interiore]]
+*(di organizzazione, società ecc.)[[clandestino]]
+*(di archivio, documentazione ecc.)  [[inaccessibile]],
+*(fatto la cui conoscenza non si deve sapere)[[riservato]],  top secret,
+* (di persona) [[discreto]],[[fidato]], [[affidabile]], [[intimo]],[[personale]]
+*(conoscenza misteriosa) [[occulto]], [[mistero]], [[imperscrutabile]]
+* (professionale) [[riserbo]],[[vincolo]],  
+* [[confidenza]] 
+* [[mistero]], [[arcano]], [[enigma]]  
+* (del successo, del mestiere) [[espediente]], [[metodo]],[[sistema]] 
+*[[palese]], [[esteriore]], [[visibile]], [[evidente]], [[evidente]],[[manifesto]], [[noto]], [[conosciuto]], [[pubblico]], [[accessibile]],[[disponibile]], [[indiscreto]], [[inaffidabile]], [[pettegolo]],[[chiacchierone]]
+*Enciclopedia [http

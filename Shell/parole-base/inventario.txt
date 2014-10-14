@@ -1,0 +1,58 @@
+inventario.txt
+"fare un inventario"
+"inventario"
+"inventario"
+"inventario di interessi"
+"inventario di personalità"
+M>inventarium</E
+M>inventus</E
+M>invenire</E
+M>fare</E
+M>rilevare l’i</E
+M>operazioni di inventario</E
+M>accettazione dell’eredità con beneficio d’i</E
+M>con beneficio d’i</E
+M>accettare</E
+M>con beneficio d’i</E
+M>ci credo</E
+M>ma con beneficio d’inventario</E
+M>dei libri</E
+M>delle stampe di una biblioteca</E
+M>delle merci di un magazzino</E
+M>dei mobili di un ufficio</E
+M>degli oggetti e attrezzi di una nave</E
+M>giornale nautico</E
+M>compilare</E
+M>fare</E
+M>l’inventario</E
+M>iniziale</E
+M>finale</E
+M>di gestione</E
+M>di liquidazione</E
+M>fallimentare</E
+M>generale</E
+M>parziale</E
+M>analitico</E
+M>sintetico</E
+M>Libro degli i</E
+M>topografico delle opere</E
+M>dei manoscritti</E
+M>catalogo</E
+M>redigere un i</E
+M>completo del patrimonio lessicale di una lingua</E
+M>mediante spogli elettronici</E
+M>l’i</E
+M>dei fonemi italiani</E
+M>dei tipi sintagmatici latini</E
+M>fare l’i</E
+M>delle risorse turistiche di una regione</E
+M>elenco</E
+M>lista</E
+M>enumerazione</E
+M>mi ha fatto l’i</E
+M>di tutti i suoi meriti</E
+M>dei suoi antenati</E
+M>delle sue avventure e disavventure</E
+M>in questo romanzo</E
+M>la descrizione dei luoghi è spesso soltanto un arido i</E
+M>privo di rilievo e di colore</E

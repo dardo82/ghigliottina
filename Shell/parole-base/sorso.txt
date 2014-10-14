@@ -1,0 +1,25 @@
+sorso.txt
+"bere in un solo sorso"
+"sorso"
+M>*sorpsus</E
+M>sorptus</E
+M>sorb</E
+M>un s. d&#8217;acqua</E
+M>di vino</E
+M>bere a lunghi</E
+M>grandi</E
+M>piccoli s.</E
+M>bere qualcosa in un s.</E
+M>lui</E
+M> una bottiglia di birra se la beve in un sorso</E
+M>a sorso a sorso</E
+M>si gustò il suo cognac a s. a s.</E
+M>beveva il brodo a s. a s.</E
+M> sovrappensiero</E
+M>a s. a s. s&#8217;è scolata tutta la bottiglia</E
+M>volle assaporare la vendetta a s. a sorso</E
+M>versami ancora un s. di vino</E
+M>finché non prendo un s. di caffè non mi riesce di svegliarmi.</E
+M>in tinello non trovò che Gustavo il quale a sorsellini beveva il suo caffè</E
+M>Checché ne dicano i signori stranieri</E
+M> dove vengono i loro poeti ... ad accattare un sorsellino d&#8217;amore?</E

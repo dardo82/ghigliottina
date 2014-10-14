@@ -1,0 +1,23 @@
+istruttore.txt
+"giudice istruttore"
+"istruttore"
+"istruttore"
+"istruttore di batteria; primo batterista"
+"istruttore di esercitazioni"
+"istruttore di guida"
+"sergente istruttore"
+*[[insegnante]], [[maestro]], [[istitutore]], [[guida]], [[allenatore]], [[trainer]]
+*[[allievo]], [[alunno]], [[scolaro]], [[studente]]
+*[[istruire]]
+M>trice</E
+M>instructor</E
+M>oris</E
+M>affidare i figli a un istruttore</E
+M>i. di scherma</E
+M> di nuoto</E
+M>i. di volo</E
+M>istruire</E
+M>giudice i</E
+M>istruttore</E
+M>degli atti</E
+M>uditore</E

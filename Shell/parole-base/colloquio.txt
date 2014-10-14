@@ -1,0 +1,32 @@
+colloquio.txt
+"a colloquio, a rapporto"
+"avere un colloquio con"
+"colloquio"
+"colloquio"
+*[[dialogo]], [[abboccamento]] ''(se importante e riservato)''
+*[[preesame]]
+M>colloquium</E
+M>coll</E
+M>qui</E
+M>con</E
+M>loqui</E
+M>cercare</E
+M>chiedere</E
+M>avere</E
+M>ottenere un c</E
+M>concedere</E
+M>rifiutare un c</E
+M>essere</E
+M>stare</E
+M>venire a c</E
+M>un c</E
+M>segreto</E
+M>un amichevole c</E
+M>amoroso</E
+M>essere in intimo c</E
+M>A l’ombra de’ pioppi risveglia Li usignoli e i c</E
+M>d’amore</E
+M>dialogo</E
+M>concione</E
+M>arringo</E
+M>parlamento</E

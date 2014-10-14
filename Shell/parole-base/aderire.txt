@@ -1,0 +1,26 @@
+aderire.txt
+"http://api.wordreference.com/12bee/json/iten/aderire/"
+#* ''ora fate 
+#* '''''ho aderito''' ai verdi''
+*[[combaciare]], [[incollarsi]]
+M>adhaerere</E
+M>haerere</E
+M>io aderisco</E
+M>tu aderisci</E
+M>avere</E
+M>la gonna le aderiva perfettamente al corpo</E
+M>il copertone</E
+M>gonfiato</E
+M>aderisce ermeticamente al cerchione</E
+M>per il sudore</E
+M>i capelli gli aderivano alla nuca</E
+M>a un’opinione</E
+M>al giudizio della maggioranza</E
+M>a un’iniziativa</E
+M>a un partito</E
+M>a una manifestazione</E
+M>a un’azione di protesta</E
+M>tutte le organizzazioni sindacali hanno aderito allo sciopero</E
+M>a una richiesta</E
+M>a un invito</E
+M>al desiderio espresso da qualcuno</E

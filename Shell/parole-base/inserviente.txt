@@ -1,0 +1,12 @@
+inserviente.txt
+"assistente ospedaliero, inserviente ospedaliero"
+"inserviente"
+*''(religione)'' [[ministrante]], [[ministro]]
+M>inserviens</E
+M>entis</E
+M>inservire</E
+M>ministro</E
+"name": "Charlot inserviente di banca"
+"name": "Inserviente"
+"name": "Inserviente"
+"name": "Inserviente Lavand"

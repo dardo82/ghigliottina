@@ -1,0 +1,21 @@
+includere.txt
+"includere"
+"includere"
+"includere in"
+"includere tra, annoverare tra"
+"trattare, comprendere, includere"
+#*''Il prezzo '''include''' colazione e cena ma non pranzo''
+M>includ</E
+M>claud</E
+M>accludere</E
+M>accludere</E
+M>ti includo nella lettera la ricevuta</E
+M>una clausola in un contratto</E
+M>nella commissione</E
+M>nella giuria</E
+M>nella lista dei candidati</E
+M>dei vincitori</E
+M>tra i soci</E
+M>tra i premiati</E
+M>le sue parole includono un tacito biasimo</E
+M>il verbo «camminare» include in sé l’idea del movimento</E

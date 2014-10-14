@@ -1,0 +1,22 @@
+marino.txt
+"animale marino"
+"cavalluccio marino"
+"elefante marino"
+"fondo marino"
+"fondo marino"
+"leone marino"
+"lupo marino"
+"marino"
+"miglio marino"
+"mostro marino"
+"orco marino europeo"
+"paesaggio marino"
+"sale marino"
+"salvataggio aereo\/marino"
+"uccello marino"
+#*''la balena è un mammifero marino'' 
+*[[sottomarino]]
+*[[mare]], [[marina]]
+* [[marinero]]
+*italiano
+*spagnolo

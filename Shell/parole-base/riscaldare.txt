@@ -1,0 +1,53 @@
+riscaldare.txt
+"cuocere o riscaldare nel forno a microonde"
+"relativo all'azione di riscaldare"
+"riscaldare"
+"riscaldare"
+"riscaldare"
+"riscaldare, replace: riscaldarsi"
+* ''minestra '''riscaldata''''' 
+* ''le minestre '''riscaldate''' non sono mai buone'' 
+* [[riscaldamento]]
+* [[riscaldarsi]]
+M>scaldare</E
+M>i raggi del sole riscaldavano l&#8217;aria rinfrescata dalla notte</E
+M>appoggiò le mani sul termosifone per riscaldarle</E
+M>la minestra</E
+M>il brodo</E
+M>il caffè</E
+M>il lesso</E
+M>l&#8217;arrosto</E
+M>si mise a correre</E
+M>a battere i piedi per riscaldarsi</E
+M>si riscaldò con un buon bicchiere di vino</E
+M>i giocatori si stanno riscaldando prima di scendere in campo</E
+M>con tutti questi giorni di sole l&#8217;aria si sta riscaldando</E
+M>aspetta che la minestra si sia riscaldata</E
+M>da ieri è cominciato a riscaldare</E
+M>scaldare</E
+M>l&#8217;acqua per il bagno</E
+M>riscaldarsi al fuoco del caminetto</E
+M>una stanza con la stufa</E
+M>la casa col termosifone</E
+M>le macchine</E
+M>i salumi riscaldano l&#8217;intestino</E
+M>riscaldano</E
+M>si è riscaldato mangiando cibi pesanti</E
+M>la vista di quella donna gli riscaldava il sangue</E
+M>con i suoi discorsi gli ha riscaldato la testa</E
+M>la fantasia</E
+M>l&#8217;immaginazione</E
+M>qualcuno</E
+M>pure io ce l&#8217;ho riscaldato</E
+M>riscaldarsi nel sostenere un&#8217;idea</E
+M>una proposta</E
+M>riscaldarsi in un discorso</E
+M>in una discussione</E
+M>quando segue le partite di calcio si riscalda sempre</E
+M>gli si è riscaldata la testa a furia di vedere film violenti</E
+M>quando sente parlare di politica gli si riscalda il sangue</E
+M>la discussione</E
+M>la conversazione comincia a riscaldarsi</E
+M>Di che contra me stesso or mi riscaldo</E
+M>ma non si riscaldi tanto</E
+M>non è proprio il caso di riscaldarsi così!</E

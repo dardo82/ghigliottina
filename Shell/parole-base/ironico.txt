@@ -1,0 +1,24 @@
+ironico.txt
+"farsi acchiappare (nel senso di sposarsi; ironico)"
+"ironico"
+"che fa ironia, che ha uno stile ironico"
+"manicomio (ironico)"
+*[[ironia]], [[ironicamente]]
+M>iron</E
+M>cus</E
+M>frasi</E
+M>parole i</E
+M>parlare con tono i</E
+M>un sorriso</E
+M>un saluto i</E
+M>lodi i</E
+M>un applauso i</E
+M>guardare con espressione ironica</E
+M>sei ironico oggi!</E
+M>uno spirito</E
+M>uno scrittore</E
+M>un oratore i</E
+M>lo guardava tra ironica e affettuosa</E
+M>parlare</E
+M>rispondere ironicamente</E
+M>continuava a fissarlo sorridendo ironicamente</E

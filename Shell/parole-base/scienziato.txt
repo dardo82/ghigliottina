@@ -1,0 +1,12 @@
+scienziato.txt
+"scienziato"
+"scienziato in fisica"
+"scienziato politico"
+#*'''scienziato pazzo'''
+*uomo di scienza, [[studioso]], [[sapiente]], [[dotto]], [[erudito]], [[luminare]]
+M>a comparazion di lui e degli altri uomini sc.</E
+M>Alberto ... divenne molto scienziato</E
+M>trallascia ogni morale e sc. allegoria</E
+M>uno sc. famoso</E
+M>hanno dato il premio Nobel per la medicina a una sc. italiana</E
+M>un congresso di scienziati di tutto il mondo</E

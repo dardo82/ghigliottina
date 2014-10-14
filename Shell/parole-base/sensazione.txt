@@ -1,0 +1,67 @@
+sensazione.txt
+"avere il presentimento che, avere la sensazione che"
+"avere una sensazione"
+"bella sensazione"
+"brutta sensazione"
+"cattiva sensazione"
+"sensazione"
+"sensazione"
+"sensazione"
+"sensazione, replace: sensazioni"
+"sensazione\"
+"sensazione"
+"sensazione di euforia"
+"sensazione di formicolio"
+"sensazione di sollievo"
+"sensazione olfattiva"
+"sensazione olfattiva"
+"strana sensazione"
+#*''mangiare lentamente può moderare l'appetito, perché il cervello impiega dieci minuti per registrare la sensazione di sazietà''
+*(fisiologica) [[senso]], [[percezione]]
+*(fisiologica) [[certezza]], [[sicurezza]], [[convinzione]], [[persuasione]]
+M>sensatio -onis</E
+M>sensus -us</E
+M>s. tattile</E
+M>visiva</E
+M>auditiva</E
+M>olfattiva</E
+M>gustativa</E
+M>s. esterne</E
+M>interne</E
+M>s. cinestesiche</E
+M>cenestesiche</E
+M>associazione di sensazioni</E
+M>i dati delle s.</E
+M>il carattere soggettivo delle s.</E
+M>s. piacevole</E
+M>spiacevole</E
+M>di piacere</E
+M>di dolore</E
+M>di voluttà</E
+M>provare una s. di freddo</E
+M>era una s. strana</E
+M>come se qualche cosa di viscido passasse sulle sue mani.</E
+M>provare una s. di benessere</E
+M>di disagio</E
+M>di vuoto</E
+M>di solitudine</E
+M>senso</E
+M>sentimento</E
+M>era una s. deliziosa</E
+M>come di una gran pace</E
+M>gente nauseata di tutto e perennemente in cerca di s. nuove</E
+M>ho avuto la s. di cadere</E
+M>ho una vaga s. che le cose si mettano male</E
+M>fare sensazione</E
+M>è una notizia che farà s.</E
+M>gran s.</E
+M>molta s.</E
+M>il fatto ha suscitato immensa s. nella popolazione</E
+M>a sensazione</E
+M>romanzo</E
+M>film</E
+M>dramma</E
+M>numero di circo a s.</E
+M>s. sonora</E
+M>s. luminosa</E
+M>fon</E

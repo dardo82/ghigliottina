@@ -1,0 +1,65 @@
+domandare.txt
+"domandare"
+"domandare"
+"domandare qc a qn"
+"domandare qc a qn"
+*''(per sapere qualcosa)'' [[chiedere]], [[interpellare]], [[cercare]]
+*''(per avere qualcosa)'' [[richiedere]], [[reclamare]], [[pretendere]], [[sollecitare]], [[esigere]]
+*''(di una persona)'' [[cercare]], [[chiamare]]
+*[[rispondere]], [[concedere]], [[accordare]], [[trovare]]
+*[[domandarsi]]
+*[[domanda]]
+M>demandare</E
+M>domandagli come si chiama</E
+M>che cosa vuole</E
+M>perché non è venuto prima</E
+M>se gli occorre qualcosa</E
+M>l’ora</E
+M>il prezzo di un oggetto</E
+M>a me lo domandi?</E
+M>è lecito</E
+M>e rispondere è cortesia</E
+M>non domandare all’oste se ha buon vino</E
+M>domandane altri</E
+M>dire</E
+M>io domando e dico se si debba essere trattati così!</E
+M>e me lo domandi?</E
+M>non me lo domandare neanche!</E
+M>c’è bisogno di domandarlo?</E
+M>se accetto l’invito? Ma non si domanda neppure!</E
+M>domandarsi</E
+M>si domandava perché mai aveva accettato</E
+M>mi domando se faccio bene a restare</E
+M>mi domando se non sia il caso di sospendere la cura</E
+M>ti sei mai domandato perché ci tiene tanto a quel posto?</E
+M>non vi domandate come ho fatto a essere già qui?</E
+M>chiedere</E
+M>un modulo</E
+M>un po’ d’acqua</E
+M>una sigaretta</E
+M>una somma in prestito</E
+M>l’elemosina</E
+M>Pianger senti’ fra ’l sonno i miei figliuoli Ch’eran con meco</E
+M>e dimandar del pane</E
+M>scusa</E
+M>perdono</E
+M>pietà</E
+M>ragione</E
+M>consiglio</E
+M>notizie di qualcuno</E
+M>la parola</E
+M>un determinato prezzo</E
+M>compenso</E
+M>quanto t’ha domandato per quell’appartamento?</E
+M>il sarto domanda troppo per farmi il vestito</E
+M>giudizialmente</E
+M>donna</E
+M>ch’è di quelle che streghe sono da voi domandate</E
+M>chiamarsi</E
+M>aver nome</E
+M>come si domanda questo rione?</E
+M>avere</E
+M>di qualcuno</E
+M>c’è un signore al telefono che domanda di lei</E
+M>mio padre mi domanda spesso di te</E
+M>se qualcuno mi domanda</E

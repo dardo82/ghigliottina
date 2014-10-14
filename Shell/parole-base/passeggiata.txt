@@ -1,0 +1,46 @@
+passeggiata.txt
+"andare a fare una passeggiata"
+"escursione, passeggiata"
+"fare una passeggiata"
+"hai voglia di fare una passeggiata?"
+"passeggiata"
+"passeggiata"
+"passeggiata"
+"passeggiata naturalistica"
+"passeggiata nello spazio"
+"passeggiata salutare"
+"passeggiata spaziale"
+"una passeggiata"
+"una passeggiata"
+#*''non sarà una passeggiata!'' - non sarà semplice!
+*[[camminata]], [[giro]], quattro passi, [[gita]], [[scampagnata]], [[scarpinata]], [[escursione]]
+*[[corsa]]
+*[[passeggiare]]
+M>fare una p</E
+M>una lunga p</E
+M>uscire per una breve p</E
+M>ha l&#8217;abitudine di fare ogni giorno una p</E
+M>nel parco</E
+M>è una p</E
+M>è stata</E
+M>sarà</E
+M>una p</E
+M>militare</E
+M>promenade militaire</E
+M>fare una p. in bicicletta</E
+M>in macchina</E
+M>in carrozzella</E
+M>a cavallo</E
+M>la p</E
+M>del lungolago</E
+M>la p</E
+M>del Lungarno</E
+M>del Lungotevere</E
+M>archeologica</E
+M>Parco di Porta Capena</E
+M>ponte di p</E
+M>passeggiata</E
+M>passeggiate</E
+M>aleatoria</E
+M>casuale</E
+M>random walk</E

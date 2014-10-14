@@ -1,0 +1,178 @@
+rimettere.txt
+"rimettere"
+"rimettere"
+"rimettere"
+"rimettere"
+"rimettere"
+"rimettere a nuovo"
+"rimettere a posto"
+"rimettere a posto"
+"rimettere a posto"
+"rimettere in piedi"
+"Rimettere in sesto"
+"rimettere in uso"
+"rimettere insieme"
+"Rimettere mano"
+"rimettere, vomitare"
+* mettere nuovamente, [[riportare]], [[ridisporre]]
+*(denaro o valori) [[trasferire]], [[trasmettere]], [[rilasciare]], [[recapitare]]
+*(un incarico, un compito) [[assegnare]], [[demandare]], [[affidare]], [[trasmettere]]
+* (una colpa) [[condonare]], [[perdonare]], [[scusare]], [[assolvere]], [[abbuonare]]
+*(ad altra data) [[rimandare]], [[rinviare]], [[differire]], [[posticipare]]
+*[[riprodurre]], [[mettere]]
+*(di piante) [[germogliare]]
+* [[rigettare]], [[vomitare]], dare di stomaco
+*(un indumento) [[indossare]], [[vestire]], [[mettere]], [[infilare]]
+*(1) [[consegnare]], [[inviare]]
+*[[rimettitura]], [[rimetterci]],[[rimettersi]],[[rimettitore]], [[rimettitura]]
+*[[rimessa]], [[rimesso]],  [[mettere]]
+M>rem</E
+M>mettere</E
+M>mettere</E
+M>qualcuno in prigione</E
+M>in piedi</E
+M>i soldi nel portafoglio</E
+M>i vestiti nell&#8217;armadio</E
+M>gli occhiali nell&#8217;astuccio</E
+M>gli abiti invernali</E
+M>il cappello</E
+M>rimettersi il cappotto</E
+M>la giacca</E
+M>il cappello</E
+M>gli occhiali</E
+M>la pentola sul fuoco</E
+M>in moto il motore</E
+M>in libertà un detenuto</E
+M>in ordine la casa</E
+M>una stanza</E
+M>a posto i libri</E
+M>a nuovo un vestito vecchio</E
+M>a sesto</E
+M>in sesto un edificio</E
+M>un&#8217;azienda dissestata</E
+M>il bilancio familiare</E
+M>a posto</E
+M>in sesto lo stomaco</E
+M>lo stomaco</E
+M>un brodo caldo mi rimetterà a posto lo stomaco</E
+M>lei sa che questo</E
+M>le rimette sempre lo stomaco</E
+M>insieme due persone</E
+M>rimettersi insieme</E
+M>in vendita un prodotto</E
+M>in discussione un progetto</E
+M>all&#8217;ordine del giorno una proposta di delibera</E
+M>in pari il bilancio</E
+M>i conti</E
+M>in pari il lavoro</E
+M>rimettersi in pari con il lavoro</E
+M>con lo studio</E
+M>piede in un luogo</E
+M>non ci rimetterò più piede</E
+M>in questa casa!</E
+M>mano a qualcosa</E
+M>ha deciso di r</E
+M>mano a quel quadro lasciato a mezzo</E
+M>rimettersi da una malattia</E
+M>rimettersi in salute</E
+M>in forze</E
+M>rimettersi</E
+M>con le cure e il riposo in poco tempo si rimetterà</E
+M>rimettersi da uno spavento</E
+M>da una grave crisi</E
+M>rimettersi al bello</E
+M>speriamo che il tempo si rimetta</E
+M>al brutto</E
+M>rimettersi a dormire</E
+M>a lavorare</E
+M>al lavoro</E
+M>a piangere</E
+M>l&#8217;orologio</E
+M>la sveglia</E
+M>i germogli</E
+M>i polloni</E
+M>avere</E
+M>rimettere</E
+M>il susino sta rimettendo</E
+M>ha rimesso</E
+M>il sonno perduto</E
+M>il tempo perduto</E
+M>le ore perse</E
+M>i buoi</E
+M>il gregge</E
+M>le macchine agricole</E
+M>l&#8217;auto</E
+M>il furgoncino</E
+M>gli autobus</E
+M>le starne sono andate a rimettersi nel costone opposto</E
+M>la palla</E
+M>un giocatore più bravo nel r</E
+M>che nel battere</E
+M>il pallone</E
+M>rimettere</E
+M>a un compagno</E
+M>al portiere</E
+M>nel terreno di gara</E
+M>rinviare dal fondo</E
+M>lateralmente</E
+M>convenne che costui rimettesse ciò che mai aveva acquistato</E
+M>rigettare</E
+M>vomitare</E
+M>il cibo</E
+M>rimettere</E
+M>alla fine ha rimesso e si è sentito un po&#8217; meglio</E
+M>le barbare nationi</E
+M>soleano al tuo venerando nome</E
+M>Italia</E
+M>ogni superbia</E
+M>ogni ira</E
+M>e tremare</E
+M>un plico al destinatario</E
+M>a un cliente la merce ordinata</E
+M>a qualcuno una somma di denaro</E
+M>l&#8217;intimazione fu rimessa nelle sue mani</E
+M>si stabilì di r</E
+M>la discussione alla seduta successiva</E
+M>rimisero ad altro tempo la decisione</E
+M>rimetto a te ogni decisione in merito</E
+M>preferisco r</E
+M>a voi la scelta</E
+M>nelle mani d&#8217;Aldobrandino si rimisero</E
+M>dunque</E
+M>se non sapete le cose</E
+M>abbiate pazienza</E
+M>e rimettetevi a chi le sa</E
+M>mi rimetto a lei</E
+M>alla sua discrezione</E
+M>al suo giudizio</E
+M>rimettersi al caso</E
+M>alla sorte</E
+M>una causa penale ad altro giudice per legittimo sospetto</E
+M>una causa civile al giudice competente</E
+M>un caso alla Corte costituzionale</E
+M>al Ministro</E
+M>la pena</E
+M>la colpa</E
+M>i peccati</E
+M>un debito</E
+M>rimetti a noi i nostri debiti come noi li rimettiamo ai nostri debitori</E
+M>avere</E
+M>la febbre rimette periodicamente</E
+M>rimetterci</E
+M>fatti tutti i conti ci ho rimesso cinquecento euro</E
+M>se non ci guadagna</E
+M>neppure ci rimette</E
+M>quant&#8217;è vero Dio che ci rimetto</E
+M>a furia di correre ci ho rimesso un paio di scarpe</E
+M>rimetterci un occhio della testa</E
+M>rimetterci la pelle</E
+M>la vita</E
+M>il fiato</E
+M>la salute</E
+M>ci rimette del suo</E
+M>rimetterci di</E
+M>reputazione</E
+M>mi farà certo questo favore: che ci rimette?</E
+M>che ci rimetterebbe a rispondere con più cortesia?</E
+M>remissus</E
+M>E così furo in libertà remissi Quei re: che gliel concesse il paladino</E

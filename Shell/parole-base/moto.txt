@@ -1,0 +1,56 @@
+moto.txt
+"andare a fare un giro in bicicletta o in moto"
+"con moto circolare"
+"conservazione della quantità di moto"
+"far partire, avviare, mettere in moto"
+"in moto"
+"legge del moto"
+"mettere in moto"
+"mettere in moto"
+"mettere in moto"
+"mettere in moto"
+"mettere in moto"
+"mettere in moto"
+"mettersi in moto"
+"mettersi in moto"
+"moto"
+"motocicletta"
+"motorcycle, motorbike"
+"moto"
+"moto"
+"moto"
+"moto"
+"moto armonico"
+"moto browniano"
+"moto d'acqua"
+"water motor"
+"moto di grossa cilindrata"
+"high-powered motorbike, high-performance motorbike"
+"moto interiore"
+"moto ondulatorio"
+"moto periodico"
+"moto perpetuo"
+"moto proprio"
+"moto turistica"
+"studio del moto"
+#*''Mi sono comprato una  nuova moto d'acqua''
+#*''Il '''moto''' gravitazionale nello spazio''
+*[[movimento]], [[spostamento]]
+*(del corpo) [[movimento]], [[gesto]], [[azione]], [[atto]], [[mossa]]; attività fisica, esercizio fisico, [[ginnastica]], [[sport]]
+*[[scatto]]
+*[[sommossa]], [[tumulto]], [[agitazione]], [[insurrezione]], [[sedizione]]
+*[[motocicletta]], [[motoretta]]
+*[[immobilità]], [[quiete]], [[stasi]]
+*[[fare moto]], [[mettere in moto]], [[moto popolare]], [[quantità di moto]]
+*''mettere in moto''
+M>motore</E
+M>motociclo</E
+M>motogeneratore</E
+M>motolancia</E
+M>mototrasporto</E
+M>motoveicolo</E
+M>motoaratura</E
+M>mototrazione</E
+M>motonautica</E
+M>motonave</E
+M>motocisterna</E

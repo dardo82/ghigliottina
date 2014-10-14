@@ -1,0 +1,43 @@
+garantire.txt
+"garantire"
+"garantire"
+"garantire"
+"garantire"
+"garantire, replace: garantirsi"
+"garantire al consumatore la massima qualità"
+"garantire i tempi di consegna"
+"garantire la presenza"
+"garantire la qualità"
+"garantire la sicurezza delle nostre città"
+"garantire per qc"
+"garantire per qualcuno"
+"garantire risultati, tempi e costi"
+*[[tutelare]], [[proteggere]], [[assicurare]]
+M>garantir</E
+M>guarentire</E
+M>io garantisco</E
+M>tu garantisci</E
+M>il rimborso di un credito con ipoteca</E
+M>per il debitore principale</E
+M>garantirsi</E
+M>per garantirmi da</E
+M>contro</E
+M>ogni possibile fraintendimento</E
+M> gli ho scritto una lunga lettera</E
+M>un orologio</E
+M>un’automobile</E
+M>il televisore è garantito per sei mesi</E
+M>firmare un trattato che garantisca la pace tra i due paesi</E
+M>l’esercizio delle libertà democratiche è garantito dalla Costituzione</E
+M>superando brillantemente il concorso</E
+M> si è garantito un posto fisso</E
+M>da un inganno</E
+M>da un’offesa</E
+M>il diritto d’asilo garantiva chi si fosse rifugiato in un luogo sacro dalla vendetta privata e anche dall’azione della giustizia</E
+M>ti garantisco che le cose stanno proprio così</E
+M>mi ha garantito di avere lui la somma necessaria</E
+M>un guadagno</E
+M>la perfetta esecuzione di un lavoro</E
+M>e chi mi garantisce che poi egli approvi il mio operato?</E
+M>il medico mi ha garantito la guarigione in poche settimane</E
+M>un trattamento che garantisce la ricrescita dei capelli</E

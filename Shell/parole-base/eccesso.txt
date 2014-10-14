@@ -1,0 +1,64 @@
+eccesso.txt
+"all'eccesso"
+"eccesso"
+"eccesso"
+"eccesso di burocrazia"
+"eccesso di lavoro"
+"eccesso di popolazione"
+"eccesso nel bere"
+"fornire con eccesso"
+"in eccesso"
+"in eccesso"
+"pagare in eccesso"
+"produrre in eccesso"
+#*''le calorie in eccesso, da qualunque cibo provengano, possono essere trasformate in grassi corporei'' 
+*[[abbondanza]], [[sovrabbondanza]], [[enormità]], [[sproporzione]], [[ismisura]], [[eccedenza]], [[esuberanza]]
+*(''di comportamento'') [[esagerazione]], [[sfrenatezza]], [[smoderatezza]], [[sregolatezza]], [[intemperanza]]
+*(''abbondanza'') [[insufficienza]], [[mancanza]], [[difetto]], [[scarsità]]
+*(''di comportamento'') [[moderazione]], [[equilibrio]], [[regolatezza]]
+*[[eccessivo]]
+*''all’eccesso''
+M>excessus</E
+M>exced</E
+M>di peso</E
+M>di cibo</E
+M>di bontà</E
+M>di prudenza</E
+M>di fatica</E
+M>ha rifatto tutto il lavoro per e</E
+M>di zelo</E
+M>se ha sbagliato</E
+M>è per e</E
+M>di generosità</E
+M>elevare contravvenzione per e</E
+M>di velocità</E
+M>di diritto</E
+M>di potere</E
+M>di difesa</E
+M>e. di domanda</E
+M>di offerta</E
+M>geodetico</E
+M>sferico</E
+M>spingere una cosa all’e</E
+M>le morti crebbero</E
+M>a un tal e</E
+M>con un salto così subitaneo</E
+M>che non ci fu chi non ne vedesse la causa</E
+M>o l’occasione</E
+M>nella processione medesima</E
+M>eccessi</E
+M>gli e</E
+M>producono sempre una reazione</E
+M>gli e</E
+M>sono dannosi alla salute</E
+M>andare agli e</E
+M>prorompere</E
+M>dare in eccessi</E
+M>è stata la disperazione che l’ha spinto a questo e</E
+M>Per eccesso</E
+M>per difetto</E
+M>è meglio peccare per e</E
+M>che per difetto</E
+M>approssimazione per e</E
+M>all’eccesso</E
+M>è un ragazzo pauroso all’eccesso</E

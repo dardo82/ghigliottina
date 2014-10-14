@@ -1,0 +1,16 @@
+scalpello.txt
+"scalpello"
+"scalpello per metalli"
+M>scalpellum</E
+M>scalprum</E
+M>scalp</E
+M>s. da falegname</E
+M>sgorbia</E
+M>s. pneumatico</E
+M>arte dello s.</E
+M>un valente</E
+M>un abile s.</E
+M>monili cui gemmano Effigïati Dei</E
+M> Inclito studio di s. achei</E
+M>scalpellum</E
+M>bisturi.</E

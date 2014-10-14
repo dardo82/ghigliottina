@@ -1,0 +1,36 @@
+trama.txt
+"a trama larga"
+"trama"
+"trama"
+"trama"
+"trama leggera"
+* [[ordito]], [[intreccio]], [[intrigo]]
+*[[tramare]]
+M>trama</E
+M>filo di trama</E
+M>un tessuto</E
+M>una stoffa a t. larga</E
+M>a t. rada</E
+M>fitta</E
+M>fare</E
+M> ordire una t.</E
+M>sventare le t. dell&#8217;avversario</E
+M>t. politiche</E
+M> trame di corte</E
+M>credete voi che non gli si sarebbe scemato punto l&#8217;ardire</E
+M> quando avesse saputo che le sue t. eran note fuori di qui ...?</E
+M>la t. di un romanzo</E
+M>di una commedia</E
+M>un film con una t. molto esile</E
+M>una t. semplice</E
+M>complicata</E
+M>ricca di episodî</E
+M>costruire t. di gioco insidiose</E
+M>bloccare</E
+M>spezzare</E
+M>annullare le t. degli avversarî</E
+M>t. connettivale</E
+M>t. vascolare</E
+M>t. polmonare</E
+M>carne</E
+M>t. delle lamelle</E

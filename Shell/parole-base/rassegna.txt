@@ -1,0 +1,45 @@
+rassegna.txt
+"la rassegna iridata"
+"passare in rassegna"
+"rassegna"
+"rassegna"
+"rassegna cinematografica"
+"rassegna gastronomica"
+"rassegna retrospettiva"
+"rassegna sindacale"
+"rassegna stampa"
+*[[resoconto]]
+*[[esposizione]], [[mostra]], [[festival]], [[fiera]] 
+M>delle forze armate</E
+M>il capo dello stato ha passato in r. le truppe</E
+M>fare la r</E
+M>passare in r</E
+M>il capitano farà la r</E
+M>dei fucili della compagnia</E
+M>dopo il rancio verrà fatta la r</E
+M>dei consegnati</E
+M>fare la r</E
+M>degli impiegati di un ufficio</E
+M>i giovani seduti al caffè passavano in r</E
+M>le ragazze del paese</E
+M>essere</E
+M>andare sotto rassegna</E
+M>mi ha fatto una lunga r</E
+M>delle cause del suo fallimento</E
+M>nel suo libro ha passato in r</E
+M>la maggior parte dei poeti contemporanei</E
+M>il suo discorso è stato un&#8217;acuta r</E
+M>dei problemi politici più attuali</E
+M>hai letto la mia r</E
+M>di storia greca?</E
+M>l&#8217;ultimo fascicolo della rivista contiene un&#8217;eccellente r</E
+M>dei più recenti studî danteschi</E
+M>rassegna stampa</E
+M>della letteratura italiana</E
+M>La Rassegna d&#8217;Italia</E
+M>Rassegna di filosofia</E
+M>storica del Risorgimento</E
+M>una r</E
+M>di moda</E
+M>di prodotti tessili</E
+M>delle novità nel settore elettrodomestici</E

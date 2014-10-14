@@ -1,0 +1,59 @@
+record.txt
+"a tempo di record"
+"in record time"
+"battere il record"
+"break the record"
+"battere il record"
+"record-breaking"
+"detentore del record mondiale"
+"world-record holder"
+"detentore di un record"
+"record holder"
+"numeri da record"
+"record numbers"
+"record"
+"record"
+"record"
+"che rappresenta un record"
+"record"
+"record di velocità"
+"speed record"
+"stabilire il record"
+"record setting"
+"tempo record"
+"record time"
+"track record"
+"track record"
+#* ''[[risultato]] 
+#* ''[[nevicata]] 
+#* ''
+#* ''[[battere]] il 
+#* ''[[nevicata]] 
+#* ''détenir un 
+#* ''battre un 
+* [[exploit]]
+#* ''I can't [[find]] this 
+#* ''I have no 
+#* ''there are 
+#* ''this is the latest 
+#* ''I '''recorded''' every [[word]] she said'' - ho registrato ogni [[parola]] che ha detto''
+#* ''to 
+#* ''the band '''recorded''' their first [[music]] [[album]]'' - il [[gruppo]] ha registrato il suo primo [[disco]]
+#* ''many [[history]] [[books]] 
+#* ''many [[aspects]] of the [[ancient]] [[gallic]] [[costumes]] '''has been recorded''' by Julius Caesar'' - molti [[aspetti]] degli [[antichi]] [[costumi]] [[gallici]] sono stati tramandati da Giulio Cesare 
+*italiano
+* francese
+* inglese
+M>record</E
+M>rèkood</E
+M>record</E
+M>primato</E
+M>battere il r</E
+M>r. d&#8217;altezza</E
+M>r. di velocità ancora imbattuto</E
+M>a tempo di r</E
+M>un tempo r</E
+M>produzione r</E
+M>cifra record</E
+M>logico</E
+M>fisico</E

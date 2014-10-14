@@ -1,0 +1,80 @@
+pollo.txt
+"brodo di pollo"
+"con carne di pollo"
+"fegato di pollo"
+"fusi di pollo"
+"giocare a poker col pollo"
+"insalata di pollo"
+"petto di pollo"
+"pollo"
+"pollo"
+"pollo alla cacciatora"
+"pollo alla diavola"
+"pollo allevato all'aperto"
+"pollo con le patate"
+"pollo conservato"
+"pollo da friggere"
+"pollo da spennare"
+"pollo novello"
+"pollo novello"
+"pollo ruspante"
+"zampa di pollo"
+"zuppa di pollo"
+#*''Il mio vicino di casa è un 
+* ''(animale da cortile)'' [[galletto]],  [[gallina]],  [[gallo]]
+* ''(persona stupida)'' [[allocco]],  [[boccalone]],  [[scemo]],  [[stupido]]
+* [[pollaio]], [[pollame]],[[polleria]],  [[pollivendolo]]
+* '' (nel senso di ragazzotta bella e di facile abbordaggio)'' [[pollastra]]  
+* ''conoscere, curare i propri '''polli'''''
+* ''far ridere i '''polli'''''
+* ''che 
+* ''
+M>llus</E
+M>Gallus gallus</E
+M>Gallus</E
+M>orecchioni</E
+M>impiantare un allevamento di polli</E
+M>p. di batteria</E
+M>p. ruspante</E
+M>i p. razzolano sull&#8217;aia</E
+M>tirare il collo a un p</E
+M>spennare</E
+M>disossare</E
+M>cuocere un p</E
+M>p. lesso</E
+M>arrosto</E
+M>fritto dorato</E
+M>alla cacciatora</E
+M>alla romana</E
+M>alla diavola</E
+M>p. ripieno</E
+M>farcito</E
+M>brodo di p</E
+M>petto</E
+M>cosce di p</E
+M>un&#8217;ala di p</E
+M>le rigaglie del p</E
+M>risotto con fegatini di pollo</E
+M>andare a letto con i p</E
+M>come i p</E
+M>alzarsi con i p</E
+M>far ridere i p</E
+M>sono cose che fanno ridere i p</E
+M>conoscere i proprî p</E
+M>fare il p</E
+M>sei stato un p. a farti imbrogliare così</E
+M>ha trovato un p. che la mantiene</E
+M>lasciarsi spennare come un p</E
+M>P. novello</E
+M>era ... uno scrittore</E
+M> diciamo</E
+M>appena uscito dal bozzolo: meglio ancora</E
+M>un p. novello</E
+M>P. d&#8217;India</E
+M>gallina faraona</E
+M>gallina</E
+M>gallo d&#8217;India</E
+M>India</E
+M>P. sultano</E
+M>Porphyrio porphyrio</E
+M>gallinella d&#8217;acqua</E

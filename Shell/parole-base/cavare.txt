@@ -1,0 +1,65 @@
+cavare.txt
+"cavare"
+"cavare"
+"ricavare, ottenere"
+"cavare, replace: cavarsi"
+"cavare, replace: cavarsi"
+"cavare sangue"
+"Cavare un ragno dal buco"
+"non cavare un ragno dal buco"
+"tirare fuori dai guai, cavare d'impaccio, dare una mano a qcn"
+*[[cavamento]]
+M>cavare</E
+M>cavus</E
+M>levare</E
+M>cavarsi il cappello</E
+M>la castagna dal fuoco con la zampa del gatto</E
+M>le penne</E
+M>le penne maestre</E
+M>non cavarne i piedi</E
+M>da qualche affare</E
+M>situazione imbrogliata</E
+M>cavarsi la fame</E
+M>la sete</E
+M>cavarsi una voglia</E
+M>gli mise davanti una zuppiera piena di fagioli perché se ne cavasse la voglia</E
+M>cavarsi la camicia</E
+M>gli si potrebbe c</E
+M>la camicia</E
+M>si caverebbe la camicia</E
+M>un dente</E
+M>le mani di tasca</E
+M>dal portafoglio cento euro</E
+M>le parole di bocca</E
+M>potreste darmi la corda che non mi cavereste nulla di bocca</E
+M>m’hai cavato le parole di bocca</E
+M>bisogna cavargli le parole di bocca con le tenaglie</E
+M>ti caverei il cuore</E
+M>gli occhi</E
+M>cavarsi gli occhi</E
+M>una spina dal cuore a qualcuno</E
+M>le lacrime</E
+M>il cuore</E
+M>l’anima</E
+M>parlava con accento così accorato che cavava il cuore</E
+M>non c</E
+M>un ragno dal buco</E
+M>sangue da una rapa</E
+M>dal muro</E
+M>ho lavorato un mese a questo modello e non ci caverò neanche le spese</E
+M>quanto vino cavano dal vigneto?</E
+M>da quel benedetto ragazzo non si caverà mai nulla di buono</E
+M>da questa esperienza non ho cavato niente di utile</E
+M>cava tu ora le conclusioni del mio discorso</E
+M>c. fuori da un impiccio</E
+M>da un guaio</E
+M>c. d’impaccio</E
+M>cavarsela</E
+M>ha avuto una polmonite e se l’è cavata per miracolo</E
+M>ho sostenuto l’esame e spero di essermela cavata</E
+M>il francese non lo conosco perfettamente</E
+M>per farmi capire</E
+M>me la cavo</E
+M>cavarsi una voglia</E
+M>la fame</E
+M>la sete</E

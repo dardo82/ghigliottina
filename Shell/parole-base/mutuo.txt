@@ -1,0 +1,21 @@
+mutuo.txt
+"accendere un mutuo"
+"banco di mutuo soccorso"
+"madonna del mutuo soccorso"
+"mutuo"
+"mutuo"
+"mutuo accordo"
+"mutuo bancario"
+"mutuo garantito"
+"mutuo indicizzato"
+"mutuo ipotecario"
+"mutuo soccorso"
+"mutuo soccorso"
+"rata del mutuo"
+"sistema di mutuo soccorso tra compagni di una squadra"
+"società di mutuo soccorso"
+#*''stipularono un mutuo accordo''
+*[[scambievole]], [[reciproco]], [[vicendevole]], [[comune]]
+*(diritto) [[prestito]], prestito a interessi.
+*(reciproco) [[unilaterale]]
+:*[[mutual]], [[loan]] (long-term)

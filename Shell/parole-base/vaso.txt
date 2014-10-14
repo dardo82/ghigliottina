@@ -1,0 +1,121 @@
+vaso.txt
+"cagare fuori dal vaso"
+"conservato in vaso"
+"cresciuto in vaso"
+"di vaso sanguigno"
+"il vaso di Pandora"
+"pezzi di vaso"
+"pianta da vaso"
+"pianta in vaso"
+"piantare in un vaso"
+"piantato in vaso"
+"porta vaso"
+"vaso"
+"vaso"
+"vaso da farmacia"
+"vaso da fiori"
+"vaso da fiori per davanzale"
+"vaso da notte"
+"vaso da notte"
+"vaso di fiori"
+"vaso di fiori"
+"vaso di peltro"
+"vaso di terracotta"
+"vaso per fiori"
+"vaso per pesci"
+"vaso sanguigno"
+*[[sottovaso]], [[svasare]],[[travasare]], [[vasaio]], [[vasellame]],  [[vaso da notte]],  [[vaso sanguigno]], [[vasocostrittore]],  [[vasodilatatore]]
+M>vasum</E
+M>vasus</E
+M>vas vasis</E
+M>vasa -orum</E
+M>le vasa</E
+M>v. di ceramica</E
+M>di porcellana</E
+M>di terracotta</E
+M>d’argilla</E
+M>di vetro</E
+M>di cristallo</E
+M>di marmo</E
+M>d’alabastro</E
+M>di rame</E
+M>di bronzo</E
+M>d’argento</E
+M>v. ornamentali</E
+M>un v. cinese</E
+M>giapponese</E
+M>riempire</E
+M>vuotare un v.</E
+M>v. pieno fino all’orlo</E
+M>v. traboccante</E
+M>mettere i fiori in un vaso</E
+M> la goccia che fa traboccare il vaso</E
+M>v. fittili</E
+M>v. di ceramica</E
+M>v. etruschi di bucchero</E
+M>egizî</E
+M>fenici</E
+M>greci</E
+M>romani</E
+M>di vetro</E
+M>v. di metallo</E
+M>v. di rame</E
+M>di bronzo</E
+M>d’argento</E
+M>d’oro</E
+M>i bellissimi v. corinzî</E
+M>la celebre produzione di vasi di Samo</E
+M>portare vasi a Samo</E
+M>vaso di Pandora</E
+M>v. da fiori</E
+M>vaso</E
+M>portafiori</E
+M>vaso</E
+M>vasetto lacrimale</E
+M>prezïosi Vasi accogliean le lagrime votive</E
+M>vasi di cantina</E
+M>v. vinarî</E
+M>v. da notte</E
+M>vaso</E
+M>v. sacri</E
+M>principio dei v. comunicanti</E
+M>intercomunicanti</E
+M>vaso all’inglese</E
+M>a sedile</E
+M>tazza</E
+M>water-closet</E
+M>water</E
+M>gabinetti alla turca</E
+M>vaso di Dewar</E
+M>Vaso d’espansione</E
+M>Lì precedeva al benedetto vaso</E
+M> Trescando alzato</E
+M> l’umile salmista</E
+M>O buono Appollo</E
+M> a l’ultimo lavoro Fammi del tuo valor sì fatto vaso</E
+M> Come dimandi a dar l’amato alloro</E
+M>che di’ tu</E
+M> Gan di Maganza</E
+M> Che se’ d’ogni scïenza e virtù vaso?</E
+M>Colui che fu de tutti i vizii il vaso</E
+M>Rispose ...</E
+M>v. d’elezione</E
+M>il teatro non era illuminato che da due povere fiamme ad olio</E
+M> le quali spargevano un pallido albore per tutta la vastità del vaso</E
+M>v. sanguiferi</E
+M>v. linfatici</E
+M>v. uriniferi</E
+M>v. aerei</E
+M>trachea</E
+M>vaso</E
+M>v. chiusi</E
+M>v. aperti</E
+M>tracheidi</E
+M>trachee anulate</E
+M>spiralate</E
+M>reticolate</E
+M>punteggiature</E
+M>punteggiati</E
+M>trachee scalariformi</E
+M>v. laticifero</E
+M>tubo laticifero</E

@@ -1,0 +1,234 @@
+gioco.txt
+"http://api.wordreference.com/12bee/json/iten/gioco/"
+* [[passatempo]], [[divertimento]], [[spasso]], [[svago]], [[diporto]], [[ricreazione]], [[sollazzo]], [[distrazione]], [[sport]]
+* [[partita]]
+*[[fuorigioco]], [[giocata]], [[giocatore]], [[giocoliere]]
+*[[giocare]]
+M>cus</E
+M>chi</E
+M>infantili</E
+M>giochi all’aperto</E
+M>giochi di società</E
+M>di sala</E
+M>enigmistici</E
+M>giochi matematici</E
+M>giochi di prestigio</E
+M>di bussolotti</E
+M>di mano</E
+M>di parole</E
+M>jeu de mots</E
+M>fare un g</E
+M>prendere parte al g</E
+M>essere compagni di gioco</E
+M>alternare il g</E
+M>e lo studio</E
+M>non pensa che al g</E
+M>non è</E
+M>un g</E
+M>da ragazzi</E
+M>mi pare un g</E
+M>Pareva facile giuoco Mutare in nulla lo spazio Che m’era aperto</E
+M>ogni bel g</E
+M>dura poco</E
+M>sport</E
+M>il g</E
+M>del calcio</E
+M>del baseball</E
+M>del golf</E
+M>del tennis</E
+M>Campo di gioco</E
+M>campo di g</E
+M>pesante</E
+M>allentato</E
+M>fuori gioco</E
+M>Vidi a lor giochi quivi e a lor canti Ridere una bellezza</E
+M>ludus</E
+M>pubblici</E
+M>funebri</E
+M>olimpici</E
+M>pitici</E
+M>istmici</E
+M>circensi</E
+M>scenici</E
+M>gioco di Marte</E
+M>olimpici</E
+M>gioco</E
+M>sport</E
+M>posta del g</E
+M>di carte</E
+M>d’azzardo</E
+M>da tavolo</E
+M>da tavola</E
+M>board game</E
+M>di simulazione</E
+M>di guerra</E
+M>war games</E
+M>g. di ruolo</E
+M>il g</E
+M>della tombola</E
+M>il g</E
+M>del lotto</E
+M>del totocalcio</E
+M>gioco di borsa</E
+M>teoria dei giochi</E
+M>a somma nulla</E
+M>permessi</E
+M>proibiti</E
+M>proibiti</E
+M>vincere</E
+M>guadagnare</E
+M>perdere al g</E
+M>barare al g</E
+M>essere fortunato</E
+M>sfortunato al g</E
+M>avere il vizio</E
+M>la passione del g</E
+M>essere posseduto dal demone del g</E
+M>rovinarsi al g</E
+M>casa di</E
+M>casino di gioco</E
+M>tener gioco</E
+M>Mettere in gioco</E
+M>mettere una cosa in g</E
+M>mise in g</E
+M>tutte le proprie risorse</E
+M>ha messo in g</E
+M>il proprio onore</E
+M>la propria rispettabilità</E
+M>essere in g.</E
+M> è in g</E
+M>il suo onore</E
+M>la sua vita</E
+M>aumentare</E
+M>raddoppiare la posta in g</E
+M>la posta in g</E
+M>la posta in g</E
+M>è alta</E
+M>e vale la pena di tentare</E
+M>l’oste</E
+M>vedendo che il gioco andava in lungo</E
+M>s’era accostato a Renzo</E
+M>è un g</E
+M>che può finir male</E
+M>son curioso di vedere come finisce il gioco</E
+M>alla fine del g</E
+M>si vedrà alla fine del g</E
+M>chi ha ragione</E
+M>il bello del g</E
+M>entrare in g</E
+M>qui entrano in g</E
+M>diversi fattori</E
+M>entra in g</E
+M>l’astuzia</E
+M>l’interesse</E
+M>non sono g</E
+M>da farsi</E
+M>questi!</E
+M>farsi</E
+M>prendersi</E
+M>pigliarsi g</E
+M>di uno</E
+M>mettere</E
+M>volgere tutto in g</E
+M>mettere</E
+M>prendere</E
+M>in g</E
+M>una persona</E
+M>Son dal volgo deriso e messo in gioco</E
+M>da tutti</E
+M>era preso in giuoco</E
+M>essere il g</E
+M>di qualcuno</E
+M>vivo</E
+M>morto</E
+M>è stato tutto un g</E
+M>scenico</E
+M>gioco di guerra navale</E
+M>di mano</E
+M>di villano</E
+M>al principio</E
+M>alla fine del g</E
+M>a metà gioco</E
+M>game</E
+M>conoscere il g</E
+M>chi sa il g</E
+M>non l’insegni</E
+M>fare un g</E
+M>calcolato</E
+M>prudente</E
+M>audace</E
+M>rischioso</E
+M>avere un g</E
+M>leggero</E
+M>pesante</E
+M>pericoloso</E
+M>gioco di testa</E
+M>gioco di volo</E
+M>gioco di gambe</E
+M>è tempo di cambiare gioco</E
+M>vincere</E
+M>perdere il g</E
+M>raddoppiare il g</E
+M>fare un g</E
+M>forte</E
+M>il g</E
+M>non vale la candela</E
+M>acquistare un g</E
+M>di scacchi</E
+M>un g</E
+M>di carte</E
+M>ha rotto un pezzo del gioco</E
+M>gioco di vele</E
+M>di tende</E
+M>di bandiere</E
+M>avere g</E
+M>a cuori</E
+M>a picche</E
+M>avere buon g</E
+M>hai buon g</E
+M>su di me</E
+M>perché sai che non posso reagire</E
+M>nascondere</E
+M>coprire</E
+M>dissimulare il proprio g</E
+M>scoprire</E
+M>rivelare il proprio g</E
+M>intuire</E
+M>scoprire</E
+M>guastare</E
+M>rovinare</E
+M>mandare all’aria il g</E
+M>fare il g</E
+M>di qualcuno</E
+M>fare gioco</E
+M>allora</E
+M>quei soldi m’avrebbero fatto g</E
+M>all’occasione tutto fa g</E
+M>fare buon viso a cattivo g</E
+M>fare il doppio g</E
+M>il g</E
+M>dello stantuffo</E
+M>il g</E
+M>di una chiave nella serratura</E
+M>il g</E
+M>degli ingranaggi</E
+M>il g</E
+M>delle articolazioni</E
+M>sotto la pelle il gioco de’ muscoli era così palese che faceva quasi pena</E
+M>il g</E
+M>delle forze che agitano il mondo</E
+M>il g</E
+M>delle correnti di partito</E
+M>dei gruppi di potere</E
+M>il g. delle alleanze</E
+M>di lavorazione</E
+M>lasciare un po’ di g</E
+M>al perno</E
+M>la leva del cambio ha troppo gioco</E
+M>un g</E
+M>d’ombre</E
+M>d’ombre e di luci</E
+M>giochi di luce</E
+M>giochi d’acqua</E
+M>è un giochetto per me</E
+M>m’ha fatto un giochetto che non m’aspettavo da lui</E

@@ -1,0 +1,31 @@
+suscitare.txt
+"evocare, suscitare, destare"
+"iniziare, provocare, suscitare"
+"provocare, suscitare"
+"suscitare"
+"suscitare rispetto"
+"suscitare, provocare, causare"
+#* ''la [[notizia]] '''suscitò''' [[interesse]]''
+M>suscitare</E
+M>sus</E
+M>sub</E
+M>citare</E
+M>ciere</E
+M>io sùscito</E
+M>molti luoghi depresse</E
+M> molti ricolmò suscitando i monti e le colline</E
+M>Il Dio che atterra e suscita</E
+M> Che affanna e che consola</E
+M>Ne&#8217; prieghi fatti a Dio per suscitarla</E
+M>la luce rapida Piove di cosa in cosa</E
+M> E i color vari suscita Dovunque si riposa</E
+M>s. il riso</E
+M>gli applausi</E
+M>un coro di proteste</E
+M>s. uno scandalo</E
+M>Inutile muovere la macchina dei burocrati, s. inchieste ... e, forse, un processo</E
+M>s. passioni</E
+M>s. l&#8217;ira</E
+M>l&#8217;indignazione</E
+M>s. la rivolta</E
+M>una guerra</E

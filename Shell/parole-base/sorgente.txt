@@ -1,0 +1,81 @@
+sorgente.txt
+"fonte o sorgente dalle proprietà curative"
+"fonte, sorgente"
+"sorgente"
+"sorgente"
+"sorgente calda"
+"sorgente d'acqua minerale"
+"sorgente di acqua bollente"
+"sorgente di acqua calda"
+"sorgente di un fiume"
+"sorgente puntiforme"
+"sorgente termale"
+"sorgente termale"
+"sorgente termale"
+*[[fonte]],acqua sorgiva, [[getto]],[[zampillo]], [[vena]], [[falda]], [[polla]], [[fontanile]], [[sorgiva]]
+*''(acqua)'' [[sbocco]], [[foce]], [[delta]], [[estuario]]
+M>sorgere</E
+M>bere</E
+M>lavarsi</E
+M>rinfrescarsi a una s.</E
+M>una fresca s. di montagna</E
+M>una zona ricca di sorgenti</E
+M>le s. del Tevere</E
+M>dell&#8217;Arno</E
+M>acqua di sorgente</E
+M>s. perenne</E
+M>s. semiperenne</E
+M>s. temporanea</E
+M>intermittente</E
+M>irregolare</E
+M>effimera</E
+M>s. artesiana</E
+M>falda artesiana</E
+M>s. di emergenza</E
+M>s. di contatto</E
+M>s. di sbarramento</E
+M>s. di fessura</E
+M>s. carsica</E
+M>s. termale</E
+M>s. termominerale</E
+M>s. sotterranea</E
+M>s. subacquea</E
+M>s. sottomarina</E
+M>sublacustre</E
+M>subfluviale</E
+M>subalveale</E
+M>la guerra può essere soltanto s. di sventure</E
+M>la ricchezza è spesso s. di preoccupazioni</E
+M>spese vane o stolte</E
+M> sorgente di molti mali e fisici e politici</E
+M>per risolvere la questione</E
+M> bisogna risalire alla sua sorgente</E
+M>s. di radiazioni</E
+M>di energia raggiante</E
+M>s. di luce</E
+M>s. di elettroni</E
+M>s. di onde elastiche</E
+M>s. sonora</E
+M>s. di energia</E
+M>i combustibili solidi e liquidi sono fra le principali s. di energia</E
+M>un bacino idrico è una s. di energia</E
+M>generatore</E
+M>un alternatore è una s. di energia elettrica</E
+M>una corrente elettrica è la s. di un campo magnetico</E
+M>s. scalare</E
+M>di rango 0</E
+M>vettoriale</E
+M>di rango 1</E
+M>tensoriale di rango 2</E
+M>tensoriale di rango 3</E
+M>polo</E
+M>sorgente</E
+M>intensità</E
+M>portata della s.</E
+M>s. positiva</E
+M>s. propriamente detta</E
+M>s. negativa</E
+M>pozzo</E
+M>codice s.</E
+M>sorgente</E
+M>codice oggetto</E

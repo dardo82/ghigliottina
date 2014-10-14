@@ -1,0 +1,55 @@
+commento.txt
+"commento"
+"commento a caldo"
+"commento arguto"
+"commento brusco"
+"commento di gioco"
+"commento graffiante"
+"commento gratuito"
+"commento improvvisato"
+"commento insolente"
+"commento scritto"
+"commento spiritoso"
+"commento spontaneo"
+"commento storico"
+"commento su"
+"commento su"
+"commento tagliente"
+*[[esposizione]], [[spiegazione]], [[interpretazione]], [[esegesi]]
+*[[note]], apparato di note, [[annotazione]], [[chiose]], [[glosse]], [[postille]]
+M>commentum</E
+M>commentus</E
+M>comminisci</E
+M>commentari</E
+M>esplicativo</E
+M>critico</E
+M>filologico</E
+M>ampio</E
+M>erudito</E
+M>fare il c</E
+M>di un autore</E
+M>di un sonetto</E
+M>a una dottrina</E
+M>al codice</E
+M>Averoìs</E
+M>che ’l gran comento feo</E
+M>il c</E
+M>del Boccaccio alla Commedia</E
+M>il c</E
+M>di questo verso non mi persuade</E
+M>il c</E
+M>di una partita di calcio</E
+M>degli spettacoli della settimana</E
+M>ai fatti del giorno</E
+M>parlato</E
+M>musicale</E
+M>le dichiarazioni del ministro hanno suscitato varî c</E
+M>fare un c</E
+M>poco riguardoso</E
+M>i soliti c</E
+M>degli sfaccendati</E
+M>figurarsi i c</E
+M>della gente;</E
+M>sei sempre tu a far commenti</E
+M>l’ordine è questo e non c’è bisogno di commenti</E
+M>non facciamo commenti!</E

@@ -1,0 +1,17 @@
+drogare.txt
+"drogare"
+"drogare"
+"drogare"
+"drogare"
+"eccitare; stimolare; drogare (un atleta; un cavallo)"
+*[[aromatizzare]]
+M>io drògo</E
+M>tu dròghi</E
+M>una pietanza</E
+M>il vino</E
+M>una bevanda</E
+M>un atleta</E
+M>un corridore</E
+M>un cavallo da corsa</E
+M>i giovani con utopie politiche</E
+M>drogarsi</E

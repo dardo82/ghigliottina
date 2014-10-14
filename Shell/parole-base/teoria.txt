@@ -1,0 +1,98 @@
+teoria.txt
+"avere una teoria"
+"dalla teoria alla pratica"
+"della costruzione della teoria"
+"high-order (teoria fisica)"
+"in teoria"
+"in teoria"
+"teoria"
+"teoria"
+"teoria"
+"teoria"
+"teoria cellulare"
+"teoria cinetica"
+"teoria cinetica dei gas"
+"teoria degli insiemi"
+"teoria dei campi"
+"teoria dei campi unificata"
+"teoria dei giochi"
+"teoria dei giochi"
+"teoria dei giochi"
+"teoria dei gruppi"
+"teoria dei numeri"
+"teoria dei tipi"
+"teoria del big bang"
+"teoria del Big Bang"
+"teoria del capitale"
+"teoria del continuo"
+"teoria del dominio"
+"teoria del management"
+"teoria dell'atomo"
+"teoria dell'attività"
+"teoria dell'azione"
+"teoria dell'evoluzione"
+"teoria dell'informazione"
+"teoria della biforcazione"
+"teoria della conoscenza"
+"teoria della probabilità"
+"teoria della probabilità"
+"teoria della relatività"
+"teoria della relatività generale"
+"teoria della storia"
+"teoria delle comunicazioni"
+"teoria dello sviluppo"
+"teoria di Galois"
+"teoria elettronica"
+"teoria germinale"
+"teoria musicale"
+"teoria ondulatoria"
+"teoria politica"
+"teoria probabilistica"
+"teoria psicoanalitica"
+"teoria quantistica"
+"teoria quantistica dei campi"
+"teoria sul fatto di fornire un servizio lungo una coda d'attesa"
+"teoria sul valore"
+"teoria unificata"
+*[[dottrina]], [[sistema]]
+*[[pratica]]
+*[[teoretico]], [[teorico]], [[teorizzare]]
+M>theor</E
+M>la t. della relatività</E
+M>le t. correnti delle particelle elementari</E
+M>la t. darwiniana dell&#8217;evoluzione delle specie</E
+M>la t. marxiana dell&#8217;accumulazione capitalistica</E
+M>la t. psicanalitica</E
+M>le t. dell&#8217;apprendimento</E
+M>la t. della visione</E
+M>modelli</E
+M>la t. cinetica dei gas si basa su un modello del gas ideale</E
+M>il modello di equilibrio economico ipotizzato dalle teorie marginaliste</E
+M>esperimento</E
+M>le conferme sperimentali della t. del big bang</E
+M>le applicazioni tecniche della t. dei circuiti elettrici</E
+M>la t. kantiana della conoscenza</E
+M>la t. empiristica del significato</E
+M>speculazione</E
+M>T. generale dello Spirito come atto puro</E
+M>t. ipotetico-deduttiva</E
+M>assiomi</E
+M>t. dei numeri</E
+M>t. degli insiemi</E
+M>t. dei gruppi</E
+M>t. delle funzioni</E
+M>t. delle grandezze</E
+M>t. dei giochi</E
+M>la t. dei sistemi</E
+M>la t. degli scacchi</E
+M>la t. del contrappunto</E
+M>ipotesi</E
+M>pratica</E
+M>in teoria le cose dovevano andare così</E
+M> ma in pratica sono andate molto diversamente</E
+M>le tue t. non mi convincono.</E
+M>il ministro entrò</E
+M> seguito dalla solita t. di funzionarî</E
+M>una t. di formiche</E
+M>passavano lunghe t. di cavalli carichi di frumento</E
+M>carbonai ... sopra lunghe t. di muli che camminano a uno a uno</E

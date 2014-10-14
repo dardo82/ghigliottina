@@ -1,0 +1,11 @@
+negoziante.txt
+"negoziante"
+"negoziante"
+*[[commerciante]], [[esercente]], [[commerciante]], [[venditore]], [[rivenditore]], [[bottegaio]]
+M>negoziare</E
+M>di stoffe</E
+M>di agrumi</E
+M>piccolo</E
+M>grosso n</E
+M>all’ingrosso</E
+M>al dettaglio</E

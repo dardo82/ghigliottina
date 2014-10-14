@@ -1,0 +1,467 @@
+su.txt
+"fissarsi di + verbo, su + sostantivo\"
+"fissarsi di + verbo, su + sostantivo\"
+"fissarsi di + verbo, su + sostantivo\"
+"(andare) su tutte le furie"
+"(essere) d'accordo su"
+"(montare) su tutte le furie"
+"(su prima, seconda o terza base)"
+"accordarsi su"
+"accordarsi su"
+"accreditare, mettere su (un conto)"
+"acquisire informazioni su"
+"addebitare su"
+"aggiustarsi su"
+"agire su"
+"alleggerire la pressione su"
+"relieve the pressure on"
+"allentare la pressione su"
+"allentare la pressione su qualcuno"
+"allevamento su terra in affitto"
+"allungarsi su"
+"alzare; tirare su"
+"alzarsi su qcs."
+"andare su e giù con agitazione"
+"andare su tutte le furie"
+"andare su tutte le furie"
+"appartamento su due piani"
+"applicarsi su qualcosa"
+"appoggiare su"
+"appoggiarsi su qualcosa"
+"appoggiarsi su qualcuno"
+"aprire gli occhi su qualcosa"
+"aprire una finestra su"
+"arzigogolare su"
+"arzigogolare su"
+"assicurazione su danni alla proprietà"
+"property damage insurance"
+"avere dubbi su, nutrire dubbi su"
+"avere effetti su"
+"avere influenza su qcn."
+"avere influenza su qcn."
+"avere informazioni su"
+"avere la meglio su"
+"avere la meglio su"
+"avere la meglio su"
+"avere la meglio su qcn."
+"avere la meglio su qcn."
+"avere la meglio; prevalere su"
+"avere molto da dire su"
+"avere potere su"
+"avere un brutto effetto su qcn"
+"avere un'influenza su qcs, avere un influsso su qcs"
+"avvitare su"
+"avvolgere (su bobina, rocchetto, mulinello)"
+"basare su"
+"basarsi su"
+"basarsi su"
+"basarsi su"
+"basarsi su"
+"basarsi su"
+"basato su"
+"basato su"
+"basato su"
+"basato su"
+"basato su leggi"
+"basato su osservazione dati"
+"basato su probabilità"
+"basato su una storia vera"
+"basato su; fondato su"
+"battere su"
+"battere su"
+"battere su"
+"battere su"
+"battere su (un tema)"
+"brutto presentimento su"
+"bussare su qcs, colpire qcs"
+"buttarla su ridere"
+"buttarsi su"
+"buttarsi su"
+"buttarsi su qualcosa o su qualcuno"
+"cadere su"
+"cadere su"
+"cadere su"
+"cadere su un fianco, rovesciarsi"
+"causare distruzioni su"
+"chiedere su qc"
+"chiudere un occhio su"
+"chiudere un occhio su"
+"chiudere un occhio su qcs"
+"coltivazione su terra in affitto"
+"commento su"
+"commento su"
+"commercio basato su condizioni di reciprocità"
+"commercio basato su condizioni di reprocità"
+"commettere violenza su"
+"competizione di spelling a eliminazione su errore"
+"con un occhio su, con un occhio rivolto a"
+"concentrare l'attenzione su"
+"concentrare su"
+"concentrare su"
+"concentrarsi su"
+"concentrarsi su"
+"concentrarsi su"
+#*''Guarda '''su'''!''
+#*''Faceva freddo e si mise '''su''' un maglione''
+#*'''''Su''', cosa aspetti?''
+#*''Il libro è '''sul''' tavolo''
+#*''Salì '''sul''' tavolo''
+#*''Mi è piaciuta la tua relazione '''sull''''utilità del progetto Wiki''
+#*''Vale '''sui''' cento milioni''
+#*''Si è fatto fare un abito '''su''' misura''
+*[[sopra]]
+*[[giù]]
+*[[tirare su]], [[venire su]], [[sul]], [[sullo]], [[sulla]], [[sui]], [[sugli]], [[sulle]], [[sul punto di]], [[credere sulla parola]], [[stare sulle sue]]
+M>sum</E
+M>sopra</E
+M>sul</E
+M>sulla</E
+M>sullo</E
+M>sui</E
+M>su&#8217;</E
+M>sugli</E
+M>sulle</E
+M>su &#8217;l</E
+M>su la</E
+M>su lo</E
+M>su i</E
+M>su gli</E
+M>su le</E
+M>s&#8217;</E
+M>s&#8217;un sacco di stoppa</E
+M>Orl. Fur</E
+M>su &#8217;n</E
+M>sur</E
+M>sun</E
+M>su in</E
+M>su di</E
+M>sulla</E
+M>suddetto</E
+M>su tela</E
+M>su ttéla</E
+M>su&#8217;</E
+M>sui</E
+M>sopra</E
+M>vedi quella bottiglia che è sulla tavola?</E
+M>metti questo vaso sul davanzale</E
+M>la statua poggia su un piedistallo</E
+M>sopra</E
+M>stare seduto su una panchina</E
+M>sulla sponda del letto</E
+M>siede la terra dove nata fui Su la marina dove &#8217;l Po discende</E
+M>gli uccelli si posano sui rami</E
+M>stendersi sul divano</E
+M>sdraiarsi sull&#8217;erba</E
+M>reggersi sulla corda</E
+M>librarsi sulle ali</E
+M>mettere un&#8217;ipoteca sulla casa</E
+M>mettere una pietra sul passato</E
+M>essere</E
+M>stare sulle spine</E
+M>tenere qualcuno sulla corda</E
+M>sopra</E
+M>il lampadario pende sopra il tavolo</E
+M>sul tavolo</E
+M>il rosone che si apre sopra il portale maggiore</E
+M>sul portale</E
+M>a cinquecento metri sul</E
+M>sopra il</E
+M>livello del mare</E
+M>la pioggia picchiettava sul tetto</E
+M>sui vetri</E
+M>una bomba cadde sulla polveriera e la fece esplodere</E
+M>il falco si gettò a picco sui pulcini</E
+M>scagliarsi</E
+M>piombare sulla preda</E
+M>si gettarono in quattro sul malcapitato</E
+M>la finestra guarda sul lago</E
+M>sulla piazza</E
+M>sul giardino</E
+M>le ombre calano rapidamente sulle vie</E
+M>la benedizione di Dio scenda su voi</E
+M>piovere sul bagnato</E
+M>capitare come il cacio sui maccheroni</E
+M>sopra</E
+M>verso</E
+M>contro</E
+M>il nemico puntava sulla capitale</E
+M>la marcia su Roma</E
+M>su Berlino</E
+M>sparare sulla folla</E
+M>bere sull&#8217;arrosto</E
+M>sopra</E
+M>una città sul mare</E
+M>un ridente paesino sulle rive del lago</E
+M>sopra</E
+M>sopra</E
+M>vegliare su</E
+M>piangere su</E
+M>accampare diritti su</E
+M>fare assegnamento su</E
+M>fondarsi</E
+M>basarsi su</E
+M>avere delle idee</E
+M>delle intenzioni su qualcuno</E
+M>qualcosa</E
+M>giocare su un numero</E
+M>su una carta</E
+M>puntare sul rosso</E
+M>sul nero</E
+M>giurare su</E
+M>prestito su pegno</E
+M>su garanzia</E
+M>ti credo</E
+M>ti faccio credito sulla parola</E
+M>sopra</E
+M>rivalersi su altri</E
+M>sopra</E
+M>sopra</E
+M>discutere su una questione della massima importanza</E
+M>trattato sulla natura</E
+M>sulle sensazioni</E
+M>sopra</E
+M>allargare il dominio sulle regioni vicine</E
+M>avere</E
+M>non avere autorità sui dipendenti</E
+M>dipinto su tela</E
+M>su tavola</E
+M>disegno su cartone</E
+M>ricamo su seta</E
+M>lavoro eseguito su ordinazione</E
+M>su commissione</E
+M>scarpe</E
+M>vestiti su misura</E
+M>documento rilasciato su richiesta dell&#8217;interessato</E
+M>reato perseguibile su querela di parte</E
+M>per richiesta</E
+M>a querela</E
+M>in seguito a ...</E
+M>sull&#8217;esempio di</E
+M>si è dedicato alla pittura sull&#8217;esempio</E
+M>seguendo l&#8217;esempio</E
+M>del padre</E
+M>vocabolo formato sull&#8217;esempio della corrispondente voce inglese</E
+M>la tappa è stata vinta in volata dal corridore Y su Z</E
+M>trionfare su</E
+M>riportare vittoria su</E
+M>su due piedi</E
+M>sul momento</E
+M>sul serio</E
+M>su questo andare</E
+M>stare</E
+M>stare sull&#8217;avviso</E
+M>stare sulle sue</E
+M>stare sull&#8217;àncora</E
+M>essere</E
+M>essere sul punto di fare qualcosa</E
+M>essere sul punto di partire</E
+M>sul partire</E
+M>era sul punto di rinunciare</E
+M>sopra</E
+M>sul mattino</E
+M>sul mezzogiorno</E
+M>sull&#8217;imbrunire</E
+M>sul tramonto</E
+M>sulla mezzanotte</E
+M>arriverò sul tardi</E
+M>sul far del giorno</E
+M>sul far della sera</E
+M>sul calar del sole</E
+M>Su l&#8217;ora prima il dì sesto d&#8217;aprile</E
+M>io son veramente colui che quello uomo uccisi istamane in sul dì</E
+M>la notte sul martedì</E
+M>sul sabato</E
+M>sopra</E
+M>la notte del martedì</E
+M>la notte del sabato</E
+M>sopra</E
+M>la spesa si aggira sugli ottomila euro</E
+M>mi occorrerebbe una damigiana</E
+M>che contenga</E
+M>sui trenta litri</E
+M>una ragazza sui sedici anni</E
+M>una donna sui quaranta</E
+M>un uomo sulla sessantina</E
+M>di su</E
+M>di sulla collina si domina tutto il golfo</E
+M>spiccò il volo di sulla cima</E
+M>di su la cima</E
+M>leva via il fiasco di sulla tavola</E
+M>in su</E
+M>Un carro</E
+M> in su due rote</E
+M>d&#8217;in su</E
+M>D&#8217;in su la vetta della torre antica</E
+M> Passero solitario</E
+M> alla campagna Cantando vai finché non more il giorno</E
+M>se n&#8217;andò in su la taverna</E
+M>Guardando l&#8217;ombre che giacean per terra</E
+M> Tornate già in su l&#8217;usato pianto</E
+M>Qual io la vidi in su l&#8217;età fiorita</E
+M>in sul mezzodì</E
+M>in sul far del giorno</E
+M>in sul desinare</E
+M>in sull&#8217;ora del tramonto</E
+M>La donzelletta vien dalla campagna</E
+M> In sul calar del sole</E
+M>essere in su qualche cosa</E
+M>comandò che ogn&#8217;uomo fosse in sul ballare</E
+M>hai messo su la pentola?</E
+M>sopra</E
+M>è su la mamma?</E
+M>vado su a vedere</E
+M>faccio un salto su in ufficio</E
+M>sono stato su ora</E
+M>vado su di sopra</E
+M>una mensola con su un vaso di fiori</E
+M>vai su tu?</E
+M>aspetta</E
+M> monto su io</E
+M>avviatevi su voi intanto</E
+M>io vi seguo tra poco</E
+M>mandami su Mario</E
+M>sopra</E
+M>i prezzi tendono ad andar su</E
+M>il prezzo è ancora troppo su per me</E
+M>venir su</E
+M>tirare su</E
+M>venir su</E
+M>vieni su subito</E
+M> che devo parlarti</E
+M>mi vengono ancora su i peperoni che ho mangiato a pranzo</E
+M>il bambino</E
+M>il cucciolo</E
+M>il ciliegio</E
+M>il grano vien su bene</E
+M>è venuto su dal nulla</E
+M>tirare su</E
+M>lo tirarono su con una fune</E
+M>tirar su i figli</E
+M>tirarsi su</E
+M>non riusciva ad alzarsi su</E
+M>a rizzarsi su</E
+M>sta&#8217; su!</E
+M>venire</E
+M>tornare su a galla</E
+M>saltò su a dire</E
+M>saltò su tutta inviperita</E
+M>su su</E
+M>si vedeva su su nel cielo un aeroplano</E
+M> piccolo come un insetto</E
+M>si alzò su su per la fune</E
+M>don Abbondio</E
+M> arrampicandosi alla sella</E
+M> sorretto dall&#8217;aiutante</E
+M> su</E
+M> su</E
+M> su</E
+M> è a cavallo</E
+M>mi illustrò le glorie della sua famiglia cominciando da suo nonno per risalire su su fino ai più lontani antenati</E
+M>più su</E
+M>l&#8217;aquilone saliva più su</E
+M> più su</E
+M> sempre più su</E
+M>il segretario sta più su</E
+M>ha l&#8217;ufficio più su</E
+M> al terzo piano</E
+M>sta più su</E
+M> abita più su</E
+M>io il quadro lo appenderei un poco più su</E
+M>mettere su</E
+M>metti su l&#8217;acqua per la pasta</E
+M>mettere su casa</E
+M>mettere su famiglia</E
+M>metter su bottega</E
+M>metter su un ambulatorio</E
+M>uno studio d&#8217;avvocato</E
+M>una casa messa su bene</E
+M>un appartamento</E
+M> uno studio messo su con gusto</E
+M>mettere su una festa</E
+M>mettere su superbia</E
+M>c&#8217;è qualcuno che lo mette su contro di me</E
+M>giù</E
+M>sopra</E
+M>sotto</E
+M>resti giù o vieni su?</E
+M>il cibo m&#8217;è rimasto in gola e non mi va né su né giù</E
+M>questa poi non mi va né su né giù</E
+M>andare</E
+M>passeggiare</E
+M>correre su e giù</E
+M>su e giù</E
+M>visitatori diligenti col ritmico su e giù del capo verificano se tutto quel che c&#8217;è scritto nella guida corrisponde alla realtà</E
+M>su per giù</E
+M>suppergiù</E
+M>poco su poco giù</E
+M>qui su</E
+M>lì su</E
+M>costì su</E
+M>qua su</E
+M>là su</E
+M>costà su</E
+M>lo vedi meglio se lo guardi da su</E
+M>vengo di</E
+M>proprio adesso</E
+M>il di su</E
+M>O qual che se&#8217; che &#8217;l di sù tien di sotto</E
+M> Anima trista come pal commessa</E
+M>in su</E
+M>guardare in su</E
+M>guardare di sotto in su</E
+M>venivano in su verso di noi</E
+M>Da la cintola in su tutto &#8217;l vedrai</E
+M>gli è stata affidata la rappresentanza nella zona della Campania da Napoli in su</E
+M>in su e in giù</E
+M>su e giù</E
+M>correva in su e in giù tutto affannato</E
+M>in su</E
+M>il taschino lo farei un poco più in su</E
+M>non ti pare che il fregio sia troppo in su?</E
+M>da due in su</E
+M>da 20 in su</E
+M>i giovani dai 18 anni in su</E
+M>le altezze dai 500 metri in su</E
+M>prezzi da cento euro in su</E
+M>all&#8217;insù</E
+M>dall&#8217;insù</E
+M>per insù</E
+M>su per</E
+M>andare su per la montagna</E
+M>l&#8217;ho incontrato su per le scale</E
+M>il ladro si arrampicò su per il muro</E
+M> coraggio!</E
+M> via</E
+M> calmatevi!</E
+M> ragazzi</E
+M> andiamo!</E
+M> sbrìgati!</E
+M> svégliati</E
+M> pigrone!</E
+M>parla</E
+M> su!</E
+M> dite</E
+M> che c&#8217;è?</E
+M>dilla</E
+M> su</E
+M> la poesia!</E
+M>su su</E
+M> smettila!</E
+M> su!</E
+M> che si fa tardi</E
+M>sopra</E
+M>su di me</E
+M>su di lui</E
+M>su di voi</E
+M>prendo tutta la responsabilità su di me</E
+M>su di una terrazza</E
+M>sopra</E
+M>gli</E
+M>attenta a non montargli su</E
+M>voglio pensarci su</E
+M>roba da riderci su</E
+M>suvvi</E
+M>una porta con suvvi una lapide</E
+M>succitato</E
+M>suddetto</E
+M>sullodato</E

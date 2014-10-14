@@ -1,0 +1,13 @@
+rateale.txt
+"rateale"
+"sistema di acquisto rateale"
+M>pagamento</E
+M>versamento r</E
+M>acquisto</E
+M>vendita r</E
+M>sistema r</E
+M>di vendita</E
+M>scadenza r</E
+M>vendere</E
+M>acquistare</E
+M>pagare ratealmente</E

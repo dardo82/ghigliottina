@@ -1,0 +1,49 @@
+notevole.txt
+"fare un notevole sforzo"
+"limite notevole"
+"notevole"
+"notevole esperto, esperto principale"
+"prezzo notevole"
+"sforzo notevole"
+*[[considerevole]], [[rilevante]]
+*[[notevolmente]]
+M>ci sono</E
+M>non ci sono state</E
+M>novità n</E
+M>fare un resoconto degli avvenimenti più n</E
+M>della settimana</E
+M>città ricca di n</E
+M>monumenti</E
+M>l’opera non presenta difetti veramente n</E
+M>notabile</E
+M>un campanile di n</E
+M>altezza</E
+M>un teatro di n</E
+M>capienza</E
+M>un uomo di statura n</E
+M>di peso n</E
+M>di n</E
+M>forza</E
+M>un giovane di n</E
+M>intelligenza</E
+M> d’intelligenza n</E
+M>reperti di n</E
+M>valore archeologico</E
+M>acquistare</E
+M>avere n</E
+M>esperienza</E
+M>subire un danno n</E
+M>avere n</E
+M>possibilità finanziarie</E
+M>fu autore di opere n</E
+M>un poeta</E
+M>un disegnatore</E
+M>un violinista</E
+M>un pugile veramente n</E
+M>un uomo</E
+M>una donna n</E
+M>prodotti n</E
+M>una famiglia notevolmente agiata</E
+M>il livello del fiume è notevolmente salito</E
+M>l’ho trovato notevolmente cresciuto</E
+M>dimagrito</E

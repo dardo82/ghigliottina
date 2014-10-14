@@ -1,0 +1,8 @@
+timoniere.txt
+"timoniere"
+M>essere un provetto</E
+M>un bravo</E
+M>un cattivo t.</E
+M>t. di manovra</E
+M>T. automatico</E
+M>giropilota.</E

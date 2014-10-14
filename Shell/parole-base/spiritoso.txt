@@ -1,0 +1,28 @@
+spiritoso.txt
+"commento spiritoso"
+"faceto, scherzoso, spiritoso"
+"spiritoso"
+"spiritoso"
+"spiritoso"
+"spiritoso, divertente"
+* piacevole, [[divertente]], [[scherzoso]], spassoso, allegro, [[brillante]], [[vivace]], [[brioso]], [[frizzante]], [[comico]], [[buffo]], [[umoristico]], [[piccante]], [[fine]], [[sottile]], [[faceto]], [[arguto]]
+*(ironico) [[stupido]], [[sciocco]], [[insulso]]
+*[[noioso]], [[pesante]]
+* [[insulso]]
+M>alcolico</E
+M>bevande s.</E
+M>un liquore limitatamente spiritoso</E
+M>essere s.</E
+M>molto s.</E
+M>è un conversatore piacevole e s.</E
+M>risposta</E
+M>battuta s.</E
+M>un film s. e divertente</E
+M>come sei s.!</E
+M>che battuta s.!</E
+M>non fare lo s.!</E
+M>ma guarda che spiritosa!</E
+M>con spirito</E
+M>che spiritosone!</E
+M>rispondere spiritosamente</E
+M>intrattenere spiritosamente il pubblico</E

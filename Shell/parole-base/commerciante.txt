@@ -1,0 +1,27 @@
+commerciante.txt
+"commerciante"
+"commerciante al dettaglio"
+"commerciante al dettaglio"
+"commerciante all'ingrosso"
+"commerciante ambulante"
+"commerciante di pelli"
+"commerciante di schiavi"
+M>commerçant</E
+M>commercer</E
+M>imprenditore commerciale</E
+M>i c</E
+M>all’ingrosso</E
+M>i c</E
+M>al minuto</E
+M>fare il c</E
+M>un c</E
+M>di tessuti</E
+M>di oggetti preziosi</E
+M>un c</E
+M>in vini</E
+M>in agrumi</E
+M>un grosso c</E
+M>egli girò per diverse città c</E
+M>da noi dette le scale del Levante</E
+M>i regni della c</E
+M>e guerreggiante Venezia</E

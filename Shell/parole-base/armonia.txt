@@ -1,0 +1,78 @@
+armonia.txt
+"agire in armonia"
+"armonia"
+"armonia"
+"armonia"
+"armonia"
+"armonia secondaria"
+"essere in armonia con"
+"in armonia"
+"in armonia"
+"in armonia"
+"in armonia con"
+"in armonia con"
+#* ''come viene ad orecchia dolce '''armonia''' da organo'' (Dante)
+#* ''Né da te, dolce amico, udrò più il verso e la mesta '''armonia''' che lo governa'' (Foscolo)
+#* '''''armonia''' dei colori''
+M>harmon</E
+M>come viene ad orecchia Dolce a</E
+M>da organo</E
+M>Passero solitario</E
+M>alla campagna Cantando vai finché non muore il giorno; Ed erra l’a</E
+M>per questa valle</E
+M>un’a</E
+M>soave</E
+M>celeste</E
+M>delicata</E
+M>flebile</E
+M>lo studio dell’a</E
+M>lezioni</E
+M>trattato di a</E
+M>le leggi dell’armonia</E
+M>modo</E
+M>scala</E
+M>dorica</E
+M>frigia</E
+M>dello stile</E
+M>del periodo</E
+M>l’a</E
+M>d’una strofa</E
+M>Né da te</E
+M> dolce amico</E
+M> udró più il verso E la mesta a</E
+M>che lo governa</E
+M>imitativa</E
+M>Ger</E
+M>Lib</E
+M>Purg</E
+M>Par</E
+M>l’a</E
+M>dell’universo</E
+M>cosmica</E
+M>l’a</E
+M>del corpo umano</E
+M>prestabilita</E
+M>monadi</E
+M>di linee</E
+M>di forme</E
+M>di colori</E
+M>cromatica</E
+M>di pensiero e di azione</E
+M>dei fatti con le parole</E
+M>in a</E
+M>con</E
+M>agire in a</E
+M>con i proprî principî</E
+M>prendere provvedimenti in a</E
+M>con le disposizioni generali</E
+M>evangelica</E
+M>essere</E
+M>stare</E
+M>vivere in a</E
+M>in buona a</E
+M>tra suocera e nuora non c’è</E
+M> non regna</E
+M> buon’a.</E
+M>turbare l’a</E
+M>di una famiglia</E
+M>di un gruppo d’amici</E

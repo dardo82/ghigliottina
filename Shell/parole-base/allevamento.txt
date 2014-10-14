@@ -1,0 +1,48 @@
+allevamento.txt
+"allevamento"
+"allevamento"
+"allevamento"
+"allevamento all'aperto, allevamento libero"
+"allevamento di animali da pelliccia"
+"allevamento di bestiame"
+"allevamento di bestiame"
+"allevamento di cavalli di razza"
+"allevamento di pecore"
+"allevamento di pecore"
+"allevamento di pecore"
+"allevamento di pesci"
+"allevamento di pesci"
+"allevamento di pollame"
+"allevamento su terra in affitto"
+"allevamento, allevare"
+"busta di allevamento"
+"fattoria per l'allevamento di bestiame"
+"fattoria per l'allevamento di polli"
+"grosso allevamento di pecore"
+"ranch per l'allevamento dei polli"
+"ranch per l'allevamento di bestiame"
+#*'' ho visitato un allevamento di galline'' 
+*(di piante) [[coltura]], [[coltivazione]]
+*[[alimentazione]], [[nutrizione]], [[crescita]]
+m>norme per l&rsquo;a</e
+m>dei bambini</e
+m>l&rsquo;a</e
+m>dei polli</e
+m>degli ovini</e
+m>dei suini</e
+m>dei bachi da seta</e
+m>in batteria</e
+m>polli di allevamento</e
+m>polli ruspanti</e
+m>della selvaggina</e
+m>vegetale</e
+m>genetica agraria</e
+m>avere un a</e
+m>di polli</e
+m>di conigli</e
+m>un a</e
+m>di cincillà</e
+m>di volpi argentate</e
+m>francese</e
+m>italiano</e
+m>corsa di a</e

@@ -1,0 +1,32 @@
+anticipare.txt
+"anticipare"
+"anticipare"
+"anticipare"
+"anticipare"
+"anticipare"
+#*''l'aereo anticipa di un'ora''
+M>anticipare</E
+M>ante</E
+M>cap</E
+M>io antìcipo</E
+M>ho dovuto a</E
+M>la partenza</E
+M>anticipò la data del matrimonio</E
+M>ho anticipato l’appuntamento a domani</E
+M>quest’anno gli esami saranno anticipati di una settimana</E
+M>oggi il treno anticipa</E
+M>la fermata dell’autobus è stata temporaneamente anticipata all’inizio della via</E
+M>il motore</E
+M>l’accensione</E
+M>il salario</E
+M>lo stipendio</E
+M>gli anticipò un terzo del dovuto</E
+M>una notizia</E
+M>alcuni particolari di un racconto</E
+M>ti anticipo che oggi il direttore non verrà</E
+M>non anticipiamo le conclusioni!</E
+M>saggi giovanili ancora imperfetti</E
+M>ma che anticipano felicemente temi e motivi delle opere della maturità</E
+M>una teoria innovatrice che anticipava i tempi</E
+M>un avversario</E
+M>banca anticipante</E

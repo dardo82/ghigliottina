@@ -1,0 +1,35 @@
+impiccare.txt
+"impiccare"
+"impiccare"
+"impiccare"
+*mandare alla forca, [[uccidere]], [[giustiziare]], [[strangolare]], [[strozzare]], [[soffocare]]
+*[[impiccagione]], [[impiccato]], [[impiccarsi]]
+*[[cappio]], [[forca]]
+M>*pikk</E
+M>picco</E
+M>picca</E
+M>appiccare</E
+M>io impicco</E
+M>tu impicchi</E
+M>alla forca</E
+M>a un albero</E
+M>fu condannato a morte e impiccato</E
+M>per la gola</E
+M>alla</E
+M>nella croce</E
+M>Se t’ha smentito</E
+M>impiccal per la gola</E
+M>neanche a impiccarlo</E
+M>neanche se l’impiccassero</E
+M>mastro</E
+M>maestro Impicca</E
+M>impiccarsi</E
+M>s’è impiccato a una trave di casa</E
+M>s’impicchi!</E
+M>vada a impiccarsi!</E
+M>chi è che ha impiccato lassù quel prosciutto?</E
+M>lo trovarono impiccato a un albero</E
+M>una fila d’impiccati</E
+M>stare</E
+M>sentirsi impiccato</E
+M>forca</E

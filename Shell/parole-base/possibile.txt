@@ -1,0 +1,153 @@
+possibile.txt
+"al più presto possibile"
+"cos'è possibile"
+"essere possibile"
+"fare tutto il possibile"
+"fare tutto il possibile"
+"fare tutto il possibile"
+"fare tutto il possibile per"
+"fare tutto il possibile; fare qualsiasi cosa"
+"fare tutto il possibile; non arrendersi"
+"girare il timone il più possibile verso una direzione"
+"il maggior numero possibile"
+"il meno possibile"
+"il più possibile"
+"il più velocemente possibile"
+"il possibile"
+"il prima possibile"
+"il regno del possibile"
+"l'arte del possibile"
+"nei limiti del possibile"
+"nel miglior modo possibile"
+"nel più breve tempo possibile"
+"non è possibile"
+"non possibile, impossibile"
+"più lontano possibile"
+"più velocemente possibile"
+"possibile"
+"possibile"
+"possibile"
+"possibile"
+"possibile"
+"possibile alternativa"
+"prima possibile"
+"probabile, possibile"
+"rendere possibile"
+"rendere possibile qualcosa, far cominciare qualcosa di nuovo"
+"renderlo possibile"
+"scelta possibile"
+"se possibile"
+"umanamente possibile"
+*''(che può essere, esistere, accadere)'' [[probabile]], [[eventuale]], [[avverabile]], [[pensabile]], [[immaginabile]], [[concepibile]], [[credibile]], [[verosimile]], [[accettabile]], [[ammissibile]], [[ipotizzabile]], [[supponibile]], [[ragionevole]], [[attendibile]], [[plausibile]]
+*[[fattibile]], [[realizzabile]], [[attuabile]], [[eseguibile]], [[effettuabile]], [[adempibile]]
+*''(che può essere, esistere, accadere)'' [[impossibile]], [[improbabile]], [[impensabile]]
+*''(fattibile)'' [[infattibile]], [[irrealizzabile]]
+*[[possibilmente]], [[possibilismo]], [[possibilità]]
+M>possib</E
+M>lis</E
+M>posse</E
+M>le cose p</E
+M>fatti</E
+M>eventi p</E
+M>bisogna pensare alle p</E
+M>conseguenze</E
+M>considera i p</E
+M>rischi</E
+M>nessuna speranza è p</E
+M>a questo punto; a questo mondo tutto è p</E
+M>è ancora p</E
+M>il suo ritorno</E
+M>ritieni p</E
+M>la nostra vittoria?</E
+M>è p</E
+M>che piova</E
+M>è p</E
+M>che non si faccia più vedere</E
+M>non è p</E
+M>che ancora non lo sappia;</E
+M>vorrei dell&#8217;acqua</E
+M>se possibile</E
+M>possibile?</E
+M>è mai possibile?</E
+M>ti pare p</E
+M>una cosa simile?</E
+M>&#171;Pensi che lo sappia?&#187; &#171;Possibile&#187;.</E
+M>non è p</E
+M>che</E
+M>non è p</E
+M>che le cose stiano così</E
+M>non è p</E
+M>che siate tanto ingenui</E
+M>non è p</E
+M>che sia stato lui a parlare</E
+M>non è p</E
+M>se non è p</E
+M>lasciamo perdere</E
+M>ho fatto quanto era umanamente p</E
+M>rendere p</E
+M>qualche cosa</E
+M>il suo intervento ha reso p</E
+M>la soluzione del caso</E
+M>è p</E
+M>si può</E
+M>è p. essere così crudeli?</E
+M>è p</E
+M>dire di più?</E
+M>non è p</E
+M>questa carne è così dura che non è p</E
+M>masticarla</E
+M>non è p</E
+M>uscire con questa pioggia</E
+M>mi è p</E
+M>non mi è p</E
+M>verrò</E
+M>se mi sarà p</E
+M>non mi è p</E
+M>aiutarvi</E
+M>non gli è stato p</E
+M>telefonarci prima</E
+M>correva quanto gli era p</E
+M>non ci è stato assolutamente p</E
+M>venirvi a prendere</E
+M>le cose p</E
+M>a farsi</E
+M>a dirsi</E
+M>comportatevi nel miglior modo p</E
+M>ha lavorato con la maggior attenzione p</E
+M>cerca di tornare il più presto p</E
+M>più presto che sia p</E
+M>telefonami prima possibile</E
+M>ogni</E
+M>qualsiasi</E
+M>tutto</E
+M>ha compiuto ogni p</E
+M>sforzo</E
+M>ogni sforzo p</E
+M>ci è preclusa ogni p</E
+M>via d&#8217;uscita</E
+M>qualsiasi soluzione p</E
+M>mi va bene</E
+M>ha fatto tutti i mestieri possibili</E
+M>a sopportare</E
+M>a tollerare</E
+M>ad accettare</E
+M>in tutto il paese non c&#8217;è una trattoria p</E
+M>finalmente un albergo possibile!</E
+M>si era subito esercitato il calcolo</E
+M>degli &#171;uomini possibili&#187; da parte delle ragazze</E
+M>intelletto p</E
+M>intellectus possibilis</E
+M>la sfera</E
+M>i limiti del possibile</E
+M>fare il p</E
+M>tutto il</E
+M>proprio</E
+M>tentare il p</E
+M>e l&#8217;impossibile</E
+M>possibilìssimo</E
+M>è possibilissimo che accetti</E
+M>è possibilissimo che sia come dici tu</E
+M>&#171;Verrai alla festa?&#187; &#171;Possibilissimo&#187;.</E
+M>possibilmente</E
+M>ti telefonerò domani</E
+M>bisogna presentarsi possibilmente in abito da sera</E

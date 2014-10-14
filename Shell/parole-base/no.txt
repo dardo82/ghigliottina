@@ -1,0 +1,254 @@
+no.txt
+"Anzi che no"
+"rather than not"
+"Note"
+"aprire gli occhi a q.no"
+"Note"
+"assolutamente no"
+"absolutely no"
+"Note"
+"assolutamente no"
+"absolutely not"
+"Note"
+"avere una giornata no, avere una giornataccia"
+"Note"
+"avere una giornata no, avere una giornataccia"
+"Note"
+"battere q.no di poco, sconfiggere q.no di poco"
+"nose out"
+"Note"
+"che ... o no"
+"whether ... or not"
+"Note"
+"che io sappia, no."
+"Not that I know of"
+"Note"
+"colui che dice no"
+"someone who says 'no'"
+"Note"
+"coro di critiche, coro di no, ampia opposizione, ampia contrarietà"
+"Note"
+"no\"
+"say 'no'"
+"Note"
+"dire di no"
+"say no"
+"Note"
+"dire no a"
+"say no to"
+"Note"
+"giornata no!"
+"Note"
+"i sì e i no"
+"Note"
+"lei no?"
+"Note"
+"nemmeno per sogno, assolutamente no"
+"not on your life"
+"Note"
+"no"
+"Note"
+"no"
+"or not?"
+"Note"
+"no"
+"no "
+"Note"
+"no"
+"no"
+"Note"
+"no"
+"Note"
+"no"
+"no, no way"
+"Note"
+"no ball (cricket)"
+"no ball"
+"Note"
+"no ball (cricket)"
+"no-ball"
+"Note"
+"no di certo"
+"certainly not"
+"Note"
+"no picnic"
+"no picnic"
+"Note"
+"no signora"
+"no ma'am"
+"Note"
+"no-hit (baseball)"
+"no-hit"
+"Note"
+"no' arcaico"
+"Note"
+"o no"
+"or not"
+"Note"
+"perché no"
+"why not"
+"Note"
+"perché no?"
+"why-not"
+"Note"
+"perché no?"
+"why not?"
+"Note"
+"perché se no"
+"Note"
+"rappresentare q.no"
+"Note"
+"se no"
+"if not"
+"Note"
+"se... o no, se… o meno"
+"whether or not"
+"Note"
+"se... oppure no"
+"whether or no"
+"Note"
+"sì o no"
+"yes-no"
+"Note"
+"sì-no"
+"Note"
+"tu no?"
+"Note"
+"voti favorevoli e contrari, sì e no"
+"Note"
+#*''vorrei tanto farlo... '''No!'''''
+*per nulla, niente affatto
+*(in frasi interrogative) è vero?
+* [[rifiuto]], risposta negativa
+*voto contrario, voto a sfavore
+*[[negativo]], [[sfavorevole]], [[ostile]]
+*''(congiunzione)'' [[sì]]
+* [[yes]]
+*italiano
+*catalano
+*ceco
+*finlandese
+*inglese
+*siciliano
+*spagnolo
+*veneto
+m>&laquo;Sei stato alla posta?&raquo; &laquo;No</e
+m>ci vado domani&raquo;</e
+m>proprio no</e
+m>certamente no</e
+m>no di certo</e
+m>no davvero</e
+m>oh no!</e
+m>no e poi no!</e
+m>grazie!</e
+m>forse sì</e
+m>forse no</e
+m>forse che sì</e
+m>forse che no</e
+m>più sì che no</e
+m>più no che sì</e
+m>dire di no</e
+m>rispondere di no</e
+m>accennare</e
+m>far cenno di no</e
+m>dire</e
+m>rispondere</e
+m>accennare</e
+m>far cenno che no</e
+m>far di no con la testa</e
+m>devi dirmi o di sì o di no</e
+m>devi dirmi o sì o no</e
+m>non dire di no</e
+m>non poter dire di no</e
+m>non dico di no</e
+m>l&rsquo;impresa è difficile</e
+m>non dico di no</e
+m>ma devi tentare!</e
+m>non saper dire di no</e
+m>è una persona che non sa mai dire di no</e
+m>pare di no</e
+m>direi di no</e
+m>speriamo di no</e
+m>non dirmi niente!</e
+m>ma no</e
+m>non si tratta di questo!</e
+m>ma no</e
+m>non posso crederci!</e
+m>ma no!</e
+m>questo no</e
+m>non lo devi dire!</e
+m>entrai</e
+m>anzi</e
+m>non entrai nemmeno: rimasi sulla soglia</e
+m>non ci credo</e
+m>no!</e
+m>no che non ci credo</e
+m>sei d&rsquo;accordo o no?</e
+m>volete finirla</e
+m>sì o no?</e
+m>dimmi se ti fa piacere o no</e
+m>che faccia apposta o no</e
+m>il risultato è lo stesso</e
+m>bello o no</e
+m>a me piace</e
+m>chi studia</e
+m>chi no</e
+m>lavorano? chi sì</e
+m>chi no</e
+m>devi prenderne uno sì e uno no</e
+m>ci vado un giorno sì e uno no</e
+m>anzi che no</e
+m>anzichenò</e
+m>è grassoccio anzichenò</e
+m>come no!</e
+m>e perché no?</e
+m>&laquo;Posso venire con voi?&raquo; &laquo;Come no!&raquo;</e
+m>&laquo;Papà</e
+m>me lo compri il motorino?&raquo; &laquo;Come no!&raquo;</e
+m>&laquo;Ti andrebbe una gita in barca?&raquo; &laquo;E perché no?&raquo;</e
+m>se no</e
+m>sennò</e
+m>se vuoi venire</e
+m>vieni</e
+m>se no fa come ti pare</e
+m>se mi piace</e
+m>lo compro</e
+m>se no</e
+m>altrimenti no</e
+m>speriamo che il tempo cambi</e
+m>se no</e
+m>non mi venire più davanti</e
+m>se no</e
+m>neh!</e
+m>nevvero</e
+m>ne sei convinto anche tu</e
+m>no?</e
+m>te l&rsquo;ho già detto</e
+m>no?</e
+m>di stare tranquillo</e
+m>non</e
+m>Pallida no</e
+m>ma più che neve bianca</e
+m>Pietosa no</e
+m>ma spettatrice almeno</e
+m>sempre no</e
+m>ma abbastanza spesso</e
+m>&laquo;È stata difficile la prova?&raquo; &laquo;Difficile no</e
+m>ma impegnativa&raquo;</e
+m>Che sì e no nel capo mi tenciona</e
+m>se è no per te</e
+m>è no anche per me</e
+m>essere tra il sì e il no</e
+m>ha risposto un sì che era un no</e
+m>mi è molto dispiaciuto il loro no</e
+m>s&rsquo;è avuto un bel no</e
+m>un no chiaro e netto</e
+m>un no chiaro e tondo</e
+m>decidersi per il no</e
+m>bisogna risolversi per il sì o per il no</e
+m>nel referendum i no sono stati più numerosi dei sì</e
+m>per me</e
+m>è stata una domenica no</e
+m>incappare in una giornata</e
+m>in una serata no</e
+m>è stata decisamente una partita no per la nostra nazionale</e

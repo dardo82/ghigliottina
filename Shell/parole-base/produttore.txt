@@ -1,0 +1,36 @@
+produttore.txt
+"produttore"
+"produttore"
+"produttore cinematografico"
+"produttore di analcolici"
+"produttore di latte"
+"produttore di vino"
+"produttore televisivo"
+*[[coproduttore]]
+M>-trice</E
+M>productus</E
+M>produc</E
+M>l&#8217;ingegno è degli esegeti</E
+M> il genio dei p</E
+M>un&#8217;attività produttrice di ricchezza</E
+M>nazione produttrice di grandi artisti</E
+M>la causa produttrice del male</E
+M>consumatore</E
+M>la merce è venduta direttamente dal p. al consumatore</E
+M>p. locali</E
+M>stranieri</E
+M>i grandi</E
+M>i piccoli p</E
+M>p. di vini</E
+M>di tessuti</E
+M>di medicinali</E
+M>di cosmetici</E
+M>di prodotti agricoli</E
+M>i paesi p. di caffè</E
+M>di cotone</E
+M>paesi p</E
+M>la società</E
+M>la ditta produttrice</E
+M>p. esecutivo</E
+M>delegato di produzione</E
+M>stallone</E

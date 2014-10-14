@@ -1,0 +1,30 @@
+tatto.txt
+"avere tatto"
+"con tatto"
+"morbido al tatto"
+"piacevole al tatto"
+"pieno di tatto"
+"privo di tatto"
+"senso del tatto"
+"tatto"
+"tatto"
+*[[tattile]]
+M>tactus -us</E
+M>tang</E
+M>tactus</E
+M>tact</E
+M>meccanorecettori</E
+M>corpuscoli del Pacini</E
+M>al tatto</E
+M>riconoscere al t.</E
+M>morbido</E
+M>duro</E
+M>liscio</E
+M>ruvido al tatto</E
+M>bisogna dargli la notizia con t.</E
+M>è una persona piena di t.</E
+M>che non ha t.</E
+M>è stata un&#8217;allusione priva di t.</E
+M>gli ha ricordato</E
+M> con molto t.</E
+M> le promesse di un tempo</E

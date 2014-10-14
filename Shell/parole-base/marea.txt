@@ -1,0 +1,79 @@
+marea.txt
+"alta marea"
+"bacino di marea"
+"bassa marea"
+"bassa marea"
+"bassa marea"
+"bassa marea"
+"corrente di marea"
+"della marea"
+"di alta marea"
+"dispositivo di misurazione della marea"
+"essere in balia della marea"
+"flusso della marea"
+"flusso di marea"
+"grafico di marea"
+"livello di bassa marea"
+"marea"
+"marea"
+"marea crescente"
+"marea di plenilunio"
+"marea in ritiro"
+"marea nera"
+"marea oceanica"
+"onda di marea"
+"onda di marea"
+"onda di marea"
+"piena di marea"
+"pozza di marea"
+"pozza di marea"
+"segno di marea"
+"variazione di marea, intervallo di marea"
+M>flusso</E
+M>riflusso</E
+M>alta m</E
+M>bassa m</E
+M>ampiezza della m</E
+M>età della m</E
+M>Ellissoide di m</E
+M>grandi m</E
+M>piccole m</E
+M>Corrente di marea</E
+M>Centrale di marea</E
+M>centrale mareomotrice</E
+M>Porto di m</E
+M>la mattina la m</E
+M>ricopre tutta la spiaggia</E
+M>fluviale</E
+M>m. lacustre</E
+M>atmosferica</E
+M>terrestre</E
+M>con l’alluvione</E
+M>una m</E
+M>di fango aveva invaso le vie della città</E
+M>il paese fu coperto da una m</E
+M>di lava</E
+M>nera</E
+M>marée noire</E
+M>una m</E
+M>di bisonti spaventati correva nella prateria</E
+M>una m</E
+M>di gente si riversò nella piazza</E
+M>aspettiamo</E
+M>prima di uscire dallo stadio</E
+M>che sfolli tutta la m</E
+M>degli spettatori</E
+M>montante</E
+M>la m</E
+M>montante della contestazione giovanile</E
+M>la m</E
+M>montante della pornografia</E
+M>si prevede una m</E
+M>di partecipanti a questo concorso</E
+M>ho una m</E
+M>di pratiche da evadere</E
+M>abbonati che intasano il numero verde con una m. di reclami</E
+M>sconvolto da una m</E
+M>confusa di pensieri e di vergogna</E
+M>questo mio corpo</E
+M>percorso Da maree di sensazioni che salgono e discendono</E

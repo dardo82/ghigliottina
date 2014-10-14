@@ -1,0 +1,15 @@
+carrozzeria.txt
+"carrozzeria"
+"carrozzeria"
+"carrozzeria"
+"carrozzeria"
+*[[carrozziere]], [[carenatura]], [[fusoliera]]
+M>portante</E
+M>aperta</E
+M>chiusa</E
+M>trasformabile</E
+M>di serie</E
+M>fuoriserie</E
+M>una c</E
+M>aerodinamica</E
+M>che carrozzeria!</E

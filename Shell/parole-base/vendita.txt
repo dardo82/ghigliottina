@@ -1,0 +1,147 @@
+vendita.txt
+"(essere) in vendita"
+"accordo di vendita"
+"agente di vendita"
+"agente di vendita"
+"agenzia di vendita"
+"articoli in vendita"
+"atto di vendita"
+"bancone di vendita"
+"canale di vendita"
+"coltura per la vendita immediata"
+"commesso, addetto alla vendita"
+"condizioni di vendita"
+"fare una vendita"
+"formato di vendita"
+"forza di vendita"
+"immobile in vendita"
+"in conto vendita"
+"in vendita"
+"in vendita; vendesi"
+"merce in conto vendita"
+"merci in vendita"
+"merci in vendita"
+"metodo di vendita con cui si impone un prodotto a un cliente"
+"mettere in vendita"
+"offrire in vendita"
+"mettere in vendita"
+"opzione di vendita"
+"post vendita"
+"prezzo di vendita"
+"prezzo di vendita"
+"pronto per la vendita"
+"punto vendita"
+"società di e-commerce che ha anche dei punti vendita reali"
+"stabilire, determinare prezzi di vendita"
+"tecnica di vendita attraverso la persuasione"
+"tecniche di vendita"
+"tentata vendita"
+"vendita"
+"vendita"
+"vendita"
+"vendita a distanza"
+"vendita all'asta"
+"vendita allo scoperto"
+"vendita ambulante"
+"vendita coatta (o forzata)"
+"vendita con il carretto"
+"vendita con riserva di proprietà"
+"vendita di beneficenza"
+"vendita di beneficenza"
+"vendita di libri per corrispondenza"
+"vendita di oggetti usati (di solito si svolge in un garage)"
+"vendita per contanti"
+"vendita porta a porta"
+"vendita promozionale"
+"vendita sottocosto"
+"volume di vendita"
+*(di bene, diritto, ecc.) [[trasferimento]], [[cessione,]] [[alienazione]]
+*(di prodotti) [[commercio]], [[traffico]], [[compravendita]], [[distribuzione]], [[liquidazione]], [[svendita]]
+*[[negozio]], [[bottega]], [[spaccio]], [[smercio]], [[rivendita]], [[esercizio]]
+* (di bene, diritto, eccetera) [[compera]], [[acquisto]], [[spesa]]
+*[[compravendita]]
+M>vendere</E
+M>vend</E
+M>tus</E
+M>vend</E
+M>con il ricavo della v. della fattoria ho comprato una casa in città</E
+M>dopo la v. dell’azienda</E
+M> ho ripreso la libera professione</E
+M>costo di vendita</E
+M>prezzo di vendita</E
+M>politica di vendita</E
+M>permesso</E
+M>licenza di v.</E
+M>v. all’ingrosso</E
+M>al minuto</E
+M>al dettaglio</E
+M>v. in</E
+M>per</E
+M>contanti</E
+M>a rate</E
+M>a pagamento dilazionato</E
+M>a credito</E
+M>v. per corrispondenza</E
+M>v. porta a porta</E
+M>v. promozionale</E
+M>v. a peso</E
+M>a misura</E
+M>a taglio</E
+M>la v. dei biglietti della lotteria si chiuderà alla mezzanotte del 5 gennaio</E
+M>mettere in v.</E
+M>essere in v.</E
+M>la merce esposta non è in v.</E
+M>casa</E
+M>terreno in v.</E
+M>sono articoli che si trovano in v. dappertutto</E
+M>v. di un giocatore</E
+M>contratto di vendita</E
+M>compravendita</E
+M>vendita</E
+M>stipulare</E
+M>rogare</E
+M>registrare una v.</E
+M>l’atto di vendita di un immobile</E
+M>v. a prova</E
+M>v. allo scoperto</E
+M>v. con incanto</E
+M>v. con riserva di proprietà</E
+M>v. con patto di riscatto</E
+M>v. di cosa altrui</E
+M>v. di cosa futura</E
+M>v. su campione</E
+M>v. su documenti</E
+M>v. giudiziale</E
+M>forzata</E
+M>v. fallimentare</E
+M>v. all’asta</E
+M>all’incanto</E
+M>v. di cariche pubbliche</E
+M>di uffici</E
+M>di benefici</E
+M>v. di cose sacre</E
+M>v. delle indulgenze</E
+M>presidente alle v.</E
+M>ufficiale delle v.</E
+M>c’è poca v.</E
+M>molta v.</E
+M>una grande v.</E
+M>la v. aumenta</E
+M>cresce</E
+M>diminuisce</E
+M>Punto di v.</E
+M>punto-vendita</E
+M>rivendita</E
+M>aprire</E
+M>cedere</E
+M>rilevare una v.</E
+M>v. di sali e tabacchi</E
+M>di legna e carbone</E
+M>di vini e liquori</E
+M>gli hanno chiuso la v. per infrazioni annonarie</E
+M>aprire</E
+M>denunciare</E
+M>scoprire una v.</E
+M>c’era in quel tempo</E
+M> qui da noi</E
+M> una v. carbonara</E

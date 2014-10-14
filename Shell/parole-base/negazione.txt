@@ -1,0 +1,47 @@
+negazione.txt
+"doppia negazione"
+"negazione"
+"negazione"
+"negazione"
+"negazione"
+*[[rifiuto]], [[opposizione]], [[ritrattazione]], [[smentita]], [[diniego]], [[sconfessione]], [[protesta]], [[disconoscimento]]
+*[[affermazione]], [[asserzione]], [[conferma]]
+*[[negazionismo]]
+M>negatio</E
+M>onis</E
+M>affermazione</E
+M>una n</E
+M>recisa</E
+M>timida</E
+M>ostinata</E
+M>la n</E
+M>di una verità</E
+M>di un fatto</E
+M>di un concetto</E
+M>la n</E
+M>dell’evidenza</E
+M>assoluta</E
+M>relativa</E
+M>A non è B</E
+M>A è non</E
+M>non</E
+M>A è B</E
+M>della negazione</E
+M>di una proposizione</E
+M>la n</E
+M>del verbo si ha con l’aggiunta di un avverbio negativo</E
+M>non</E
+M>nessuno</E
+M>niente affatto</E
+M>incostante</E
+M>doppia n</E
+M>della propria superbia</E
+M>di sé</E
+M>ma questa è la n</E
+M>di ogni giustizia</E
+M>una politica che è la n</E
+M>degli interessi nazionali</E
+M>le tue parole sono la n</E
+M>del buon senso</E
+M>La n</E
+M>di Dio eretta a sistema di governo</E

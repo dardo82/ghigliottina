@@ -1,0 +1,20 @@
+repubblicano.txt
+"democratico repubblicano"
+"repubblicano"
+M>paese</E
+M>stato repubblicano</E
+M>governo</E
+M>esercito r</E
+M>magistratura repubblicana</E
+M>movimento r</E
+M>gruppi r</E
+M>ideali r</E
+M>partito r</E
+M>Partito r</E
+M>italiano</E
+M>Partito r</E
+M>un r</E
+M>convinto</E
+M>la partecipazione dei r</E
+M>al governo</E
+M>Passero r</E

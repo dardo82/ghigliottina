@@ -1,0 +1,111 @@
+visita.txt
+"bigliettino da visita"
+"biglietto da visita"
+"far visita"
+"far visita"
+"far visita"
+"fare un salto da, fare una visita a"
+"fare una breve visita"
+"fare una visita"
+"fare una visita improvvisata"
+"fare una visita improvvisata a"
+"fare visita"
+"fare visita a"
+"fare visita a qualcuno"
+"fare visita a qualcuno"
+"giorno di visita"
+"giorno in cui le università accolgono potenziali studenti per una visita"
+"in occasione della visita di"
+"marcare visita"
+"passare (a far visita)"
+"passare a far visita"
+"portabiglietti da visita"
+"prolungare troppo una visita"
+"visita"
+"visita"
+"visita"
+"visita"
+"visita completa; giro completo"
+"visita di controllo"
+"visita di leva"
+"visita guidata"
+"visita medica"
+"visita turistica"
+*[[colloquio]], [[conversazione]], [[intrattenimento]], [[ricevimento]]
+*[[accertamento]], [[controllo]], [[ispezione]]
+*''(lett.)'' [[visitazione]]; [[scappata]], [[capatina]] 
+*[[visitandina]],[[visiteo]]
+*italiano
+*francese
+M>far visita a qualcuno</E
+M>a un amico</E
+M>a un parente</E
+M>a una famiglia di amici</E
+M>restituire la v.</E
+M>far v.</E
+M>una v. a un malato</E
+M>v. di cortesia</E
+M>di dovere</E
+M>di congedo</E
+M>v. di condoglianze</E
+M>avere</E
+M>ricevere una v.</E
+M>molte visite</E
+M>biglietto</E
+M>polizza</E
+M>carta</E
+M>da visita</E
+M>di visita</E
+M>lascio polizze di v. a’ miei conoscenti</E
+M>era una vera processione di carrozze</E
+M> di amici</E
+M> di servitori in livrea</E
+M> che lasciavano ... una carta di visita</E
+M> delle quali il portinaio ogni sera recava un vassoio tutto pieno in anticamera</E
+M>è la visita della Madonna a s. Elisabetta</E
+M>c’è una v. per te</E
+M>non riesco a liberarmi dalle visite</E
+M>v. di corpo</E
+M>v. di quadrato</E
+M>V. medica</E
+M>visita</E
+M>il medico mi ha fatto una v. accurata</E
+M>scrupolosa</E
+M>v. di controllo</E
+M>passare visita</E
+M>la v.</E
+M>v. di leva</E
+M>marcare v.</E
+M>v. del medico fiscale</E
+M>v. fiscale</E
+M>v. sanitaria</E
+M>la v. del Santo Sepolcro</E
+M>la v. delle sette chiese</E
+M>la v. del centro storico di Bologna</E
+M>la v. di un museo</E
+M>di una galleria</E
+M>di una esposizione campionaria</E
+M>di una fiera</E
+M>v. guidata</E
+M>il capo del governo giungerà nella nostra città in v. ufficiale</E
+M>la v. dell’ispettore scolastico è stata breve</E
+M>v. di stato</E
+M>v. ufficiale</E
+M>v. di lavoro</E
+M>v. in incognito</E
+M>v. doganale</E
+M>v. delle navi mercantili</E
+M>v. in mare</E
+M>diritto di v.</E
+M>v. alberata</E
+M>v. di classifica</E
+M>di classificazione</E
+M>certificato di visita</E
+M>Carrozza visita linee</E
+M>carro oscillometrico</E
+M>v. ecclesiastica</E
+M>v. pastorale</E
+M>diocesana</E
+M>v. canonica</E
+M>v. ad limina</E
+M>v. apostolica</E

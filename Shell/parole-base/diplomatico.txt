@@ -1,0 +1,54 @@
+diplomatico.txt
+"corpo diplomatico"
+"diplomatico"
+"diplomatico"
+"diplomatico"
+"chi fa parte del corpo diplomatico"
+"diplomatico"
+"diplomatico di carriera"
+"funzionario diplomatico"
+"incidente diplomatico"
+"servizio diplomatico"
+M>diploma</E
+M>diplomatique</E
+M>scienza d</E
+M>diplomatica</E
+M>archivio d</E
+M>codice d</E
+M>critica d</E
+M>metodo d</E
+M>edizione d</E
+M>Minuscola d</E
+M>corpo d</E
+M>agente</E
+M>rappresentante d</E
+M>una missione d</E
+M>atti</E
+M>documenti d</E
+M>iniziare la carriera d</E
+M>riprendere</E
+M>rompere le relazioni d</E
+M>nota d</E
+M>seguire le normali vie d</E
+M>i consueti canali d</E
+M>lingue d</E
+M>contenzioso d</E
+M> immunità d</E
+M>valigia d</E
+M>incidente d</E
+M>malattia d</E
+M>Diritto d</E
+M>linguaggio d</E
+M>fare uso di</E
+M>ricorrere alle</E
+M>arti d</E
+M>è un uomo molto diplomatico</E
+M>è un abile d</E
+M>via</E
+M>non fare il d</E
+M>si spera di poter risolvere diplomaticamente la vertenza</E
+M>rispondere diplomaticamente</E
+M>condurre diplomaticamente un affare</E
+M>una discussione</E
+M>non diede una risposta diretta</E
+M>ma si accontentò di sorridere diplomaticamente</E

@@ -1,0 +1,36 @@
+olivo.txt
+"legno d'olivo"
+"olivo"
+"olivo"
+"legno di olivo"
+"ramo d'olivo"
+*italiano
+M>selvatico</E
+M>oleastro</E
+M>Olea europaea</E
+M>sylvestris</E
+M>coltivato</E
+M>domestico</E
+M>Olea europaea</E
+M>europaea</E
+M>olive</E
+M>piantare</E
+M>potare gli o</E
+M>un poggio coperto di olivi</E
+M>i fratelli olivi Che fan di santità pallidi i clivi</E
+M>portare</E
+M>offrire un ramoscello d’o</E
+M>olivo</E
+M>come a messagger che porta ulivo</E
+M>la benedizione dell’o</E
+M>degli o</E
+M>la domenica</E
+M>la festa dell’olivo</E
+M>l’o</E
+M>benedetto</E
+M>Monte degli Olivi</E
+M>Monte Oliveto</E
+M>orto degli o</E
+M>un tavolo</E
+M>una cassapanca</E
+M> un parquet di olivo</E

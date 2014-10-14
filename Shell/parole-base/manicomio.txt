@@ -1,0 +1,22 @@
+manicomio.txt
+"luogo dove regna il caos, manicomio"
+"manicomio"
+"manicomio"
+"manicomio"
+"manicomio (ironico)"
+M>comio</E
+M>ospedale psichiatrico</E
+M>ricoverare</E
+M>chiudere</E
+M>internare in m</E
+M>andare</E
+M>finire al m</E
+M>se continua così</E
+M>finisco al m</E
+M>finiamo tutti al m</E
+M>mandare al m</E
+M>criminale</E
+M>giudiziario</E
+M>ospedale psichiatrico giudiziario</E
+M>roba da manicomio</E
+M>è un m</E

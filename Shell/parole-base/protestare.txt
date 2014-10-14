@@ -1,0 +1,44 @@
+protestare.txt
+"protestare"
+"protestare"
+"protestare"
+"protestare contro"
+"protestare contro"
+"protestare troppo"
+"protestare una cambiale"
+"protestare violentemente"
+#*'' protestare contro la violenza''
+*[[reclamare]], [[lamentarsi]], [[lagnarsi]], [[replicare]], [[opporsi]], [[ribellarsi]], [[disapprovare]], [[contestare]], [[reagire]], [[dissentire]], [[insorgere]]
+*''(una situazione)'' [[dichiarare]], [[attestare]], [[assicurare]], [[notificare]], [[asserire]]
+*[[protesta]], [[protestante]], [[protestarsi]], [[protestatario]], [[protestatore]], [[protesto]]
+M>protestari</E
+M>pro</E
+M>testari</E
+M>io protèsto</E
+M>stima</E
+M>amicizia</E
+M>gratitudine verso qualcuno</E
+M>la propria innocenza</E
+M>la propria buona fede</E
+M>la propria solidarietà</E
+M>protestava di non saperne nulla</E
+M>che non ne sapeva nulla</E
+M>p. di essere totalmente all&#8217;oscuro della cosa</E
+M>protestarsi innocente</E
+M>ignaro di tutto</E
+M>protestarsi devoto ammiratore</E
+M>fedele servitore</E
+M>una cambiale</E
+M>un attore</E
+M>un&#8217;attrice</E
+M>un cantante</E
+M>avere</E
+M>contro un provvedimento</E
+M>contro un sopruso</E
+M>contro un&#8217;ingiustizia</E
+M>per il riconoscimento di un diritto</E
+M>organizzare un corteo per p</E
+M>contro il governo</E
+M>la fabbrica ha indetto uno sciopero per p</E
+M>contro i licenziamenti</E
+M>scendere in piazza a protestare</E

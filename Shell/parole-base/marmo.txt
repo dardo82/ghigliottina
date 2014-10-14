@@ -1,0 +1,81 @@
+marmo.txt
+"cava di marmo"
+"essere duri come il marmo"
+"marmo"
+"marmo"
+"oggetto di marmo"
+* (geologia) [[calcare]]  
+* (manufatto in marmo) [[scultura]],[[lapide]], [[tomba]]
+*italiano
+M>marmor</E
+M>ris</E
+M>calcare saccaroide</E
+M>m. monocromi</E
+M>m. policromi</E
+M>venati</E
+M>listati</E
+M>screziati</E
+M>fioriti</E
+M>dendritici</E
+M>marmi di Carrara</E
+M>statuario</E
+M>bianco ordinario</E
+M>bianco chiaro</E
+M>bardiglio</E
+M>atracio</E
+M>belga</E
+M>docimitico</E
+M>sinnadico</E
+M>pario</E
+M>pentelico</E
+M>tebaico</E
+M>leucostitto</E
+M>ruiniforme</E
+M>fantastico</E
+M>una cava di marmo</E
+M>grezzo</E
+M>lavorato</E
+M>levigato</E
+M>scolpire</E
+M>intagliare</E
+M>lavorare il m</E
+M>statua</E
+M>pavimento</E
+M>pareti</E
+M>colonna di m</E
+M>un blocco</E
+M>una lastra</E
+M>un masso di marmo</E
+M>artificiale</E
+M>una raccolta di marmi</E
+M>un m</E
+M>greco di squisita fattura</E
+M>il m</E
+M>sulla tomba</E
+M>recava solo le date di nascita e di morte</E
+M>e a questi marmi Venne spesso Vittorio ad ispirarsi</E
+M>la facciata della chiesa è ricoperta di m</E
+M>policromi</E
+M>Marmi</E
+M>I marmi</E
+M>il m</E
+M>del cassettone</E
+M>del comodino</E
+M>il m</E
+M>del tavolo di cucina</E
+M>il m</E
+M>del pittore</E
+M>del farmacista</E
+M>il m</E
+M>del bancone del bar</E
+M>«Questo per il marmo» disse</E
+M>posando i due soldi di mancia sopra il banco</E
+M>duro</E
+M>freddo come</E
+M>faccia</E
+M>cuore di m</E
+M>essere di m</E
+M>avere le mani di m</E
+M>diventare di m</E
+M>essere scolpito</E
+M>inciso nel m</E

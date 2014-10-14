@@ -1,0 +1,191 @@
+classe.txt
+"capo classe"
+"carrozza di seconda classe"
+"che classe fa?"
+"classe"
+"classe"
+"classe"
+"classe"
+"classe"
+"classe"
+"classe abbiente"
+"classe agiata"
+"classe alta"
+"classe contadina"
+"classe d'età"
+"classe dei lavoratori"
+"classe del"
+"classe di corso di studi"
+"classe di equivalenza"
+"Classe di ferro"
+"classe di funzioni"
+"classe di lingue"
+"classe di parole"
+"classe dirigente"
+"classe dominante"
+"classe economica"
+"classe economica o turistica"
+"classe elevata, ceto elevato"
+"classe elevata, ceto elevato"
+"classe inferiore"
+"classe inferiore"
+"classe lavoratrice"
+"classe media"
+"classe medio-alta"
+"classe operaia"
+"classe operaia"
+"classe sociale"
+"classe sociale"
+"classe turistica"
+"classe umile"
+"classe, aula scolastica"
+"compagna di classe"
+"compagno di classe"
+"compito in classe"
+"conflitto di classe"
+"conflitto di classe"
+"coscienza di classe"
+"della classe meno abbiente"
+"della classe operaia"
+"della classe operaia"
+"della classe operaia"
+"di classe"
+"di prima classe"
+"di seconda classe"
+"distinzione di classe"
+"dotato di coscienza di classe"
+"elenco degli allievi di una classe"
+"fare il primo della classe"
+"guerra di classe"
+"incontro di classe"
+"la classe non è acqua"
+"la classe operaia"
+"the working class, the working classes"
+"lotta di classe"
+"membro della classe lavoratrice"
+"nome della classe"
+"numero di classe"
+"prezzi classe economica"
+"prima classe; prima qualità"
+"primo della classe"
+"rappresentante di classe"
+"seconda classe"
+"seconda classe"
+"sistemare per classe"
+"tariffa per una classe"
+"terza classe"
+"terza classe"
+"tocco di classe"
+*[[fuoriclasse]]
+*[[ceto]]
+*''(di soldati)'' [[leva]] 
+*[[ceto]]
+M>classis</E
+M>sociale</E
+M>classe</E
+M>degli imprenditori</E
+M>della nobiltà terriera</E
+M>dei lavoratori</E
+M>casta</E
+M>ordine</E
+M>corporazione</E
+M>classe</E
+M>ceto</E
+M>dirigente</E
+M>politica</E
+M>classe</E
+M>proprietaria</E
+M>proletaria</E
+M>operaia</E
+M>coscienza di c</E
+M>lotta di c</E
+M>dominante</E
+M>egemone</E
+M>subalterne</E
+M>ceto</E
+M>strato</E
+M>classi medie</E
+M>media</E
+M>middle class</E
+M>matrimoniali</E
+M>classi di età</E
+M>tipo</E
+M>ordine</E
+M>divisione</E
+M>phylum</E
+M>ordine</E
+M>spettrale</E
+M>insieme</E
+M>aggregato</E
+M>collezione</E
+M>sistema</E
+M>la c</E
+M>degli automorfismi interni di un gruppo</E
+M>la c</E
+M>delle cubiche sghembe dello spazio ordinario</E
+M>classe</E
+M>curva di classe 1</E
+M>di classe 2</E
+M>superficie di classe 1</E
+M>la c</E
+M>di lettere</E
+M>la c</E
+M>di scienze morali e storiche</E
+M>categoria</E
+M>di automobili</E
+M>d’imbarcazioni</E
+M>chiamata</E
+M>richiamo</E
+M>congedo di una c</E
+M>appartenere alla c. del 1921</E
+M> del 1930</E
+M>frequentare la prima</E
+M>la seconda c</E
+M>essere promosso alla c</E
+M>successiva</E
+M>ripetere la classe</E
+M>aggiunte</E
+M>collaterali</E
+M>classi pilota</E
+M>sperimentali</E
+M>maschile</E
+M>femminile</E
+M>mista</E
+M>una c</E
+M>attenta</E
+M>una c</E
+M>di fannulloni</E
+M>entrare in c</E
+M>una c</E
+M>spaziosa</E
+M>viaggiare in prima</E
+M>in seconda c</E
+M>le carrozze di seconda c</E
+M>erano affollatissime</E
+M>viaggiare in prima</E
+M>biglietto di seconda</E
+M>le vecchie vetture di terza c</E
+M>una cabina di seconda c</E
+M>viaggiare in c</E
+M>turistica</E
+M>la c</E
+M>dei paganti</E
+M>di classe</E
+M>di gran c</E
+M>un pittore</E
+M>un avvocato</E
+M>un corridore di c</E
+M>una donna di c</E
+M>un abito di c</E
+M>un liquore di gran c</E
+M>di prima c</E
+M>un chirurgo di prima c</E
+M>un mascalzone di prima c</E
+M>fuori classe</E
+M>un giocatore che ha classe</E
+M>ha mostrato oggi tutta la sua c</E
+M>atleta di c</E
+M>internazionale</E
+M>Le poppe volgerà u’ son le prore</E
+M>Sì che la c</E
+M>correrà diretta</E

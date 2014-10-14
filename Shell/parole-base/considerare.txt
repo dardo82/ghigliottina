@@ -1,0 +1,66 @@
+considerare.txt
+"considerare"
+"considerare"
+"considerare"
+"considerare"
+"considerare come"
+"considerare con particolare affetto"
+"considerare importante"
+"considerare le circostanze"
+"considerare obbligatorio"
+"considerare razionale"
+"considerare un fallimento"
+"non considerare opportuno"
+"prevedere, considerare"
+"rifiutarsi di considerare"
+"senza considerare"
+#*''considerare i vantaggi e gli svantaggi di un'offerta''
+#*''considerare qualcuno come un amico''
+#*'' l'insegnate lo considera molto''
+#*''la normativa non considera questa eventualità''
+* [[studiare]], [[esaminare]], [[vagliare]], [[valutare]], [[ponderare]], [[reputare]], [[ritenere]]; [[giudicare]],  [[apprezzare]], [[stimare]],  [[prevedere]], [[contemplare]].
+*[[disprezzare]]
+*[[considerarsi]]
+M>considerare</E
+M>sidus</E
+M>ris</E
+M>con</E
+M>io consìdero</E
+M>i rischi</E
+M>i pericoli di un’impresa</E
+M>a considerar bene tutto</E
+M>la proposta mi pare vantaggiosa</E
+M>Considerate la vostra semenza</E
+M>Fatti non foste a viver come bruti</E
+M>considerando al presente tempo e alla condizione dell’umana vita</E
+M>bisogna c</E
+M>la cosa dal lato umano</E
+M>sono due fatti che non si possono c</E
+M>separatamente</E
+M>consideriamo solo la prima parte del problema</E
+M>lo considerò attentamente da capo a piedi</E
+M>considera che ci vorrà del tempo</E
+M>tu non consideri quanto sia facile sbagliare</E
+M>senza c</E
+M>le spese accessorie</E
+M>bisogna c</E
+M>le sue precarie condizioni di salute</E
+M>considera anche i miei sacrifici</E
+M>considera bene prima di rispondere!</E
+M>io vado perdendo i giorni intieri nel c</E
+M>sono ragazzi e non considerano</E
+M>molto</E
+M>poco una persona</E
+M>è assai considerato dai superiori</E
+M>fra i colleghi</E
+M>lo considero quanto una ciabatta</E
+M>qui nessuno mi considera</E
+M>ti ho sempre considerato amico</E
+M>mi considera come un fratello</E
+M>lo considero un mascalzone</E
+M>puoi considerarti fortunato</E
+M>mi considero libero da ogni impegno</E
+M>la legge non considera quest’eventualità</E
+M>il codice considera anche il caso che</E
+M>considerato che</E
+M>tutto considerato</E

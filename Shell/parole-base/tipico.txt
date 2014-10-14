@@ -1,0 +1,18 @@
+tipico.txt
+"caso tipico"
+"esempio tipico"
+"risotto tipico degli Stati Uniti meridionali"
+"tipico"
+"tipico"
+"tipico del carattere di qcn."
+"tipico del ripostiglio, cassetto in disordine"
+"tipico della vetreria, lavoro di vetreria"
+"tipico di"
+"tipico di qualcuno"
+*[[caratteristico]]
+*[[classico]]
+*[[locale]]
+*[[peculiare]]
+*[[atipico]]
+*[[tipicità]]
+*[[tipo]]

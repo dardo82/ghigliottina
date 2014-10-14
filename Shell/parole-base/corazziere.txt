@@ -1,0 +1,6 @@
+corazziere.txt
+"Traduzione di corazziere/ non trovata.\nNo translation was found for corazziere/."
+M>corazza</E
+M>è alto come un c</E
+M>è un vero c</E
+M>guarda che pezzo di corazziere</E

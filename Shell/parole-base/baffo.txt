@@ -1,0 +1,38 @@
+baffo.txt
+"baffo"
+"baffo"
+"sbaffo, frego di colore"
+"baffo"
+"gli fa un baffo"
+*[[ mustacchio]] ''(folto e lungo)'' 
+*''(di inchiostro, di rossetto ecc.)'' [[sbaffo]], [[macchia]], [[ sgorbio]]
+*italiano
+M>baffi</E
+M>folti</E
+M>radi</E
+M>arricciati</E
+M>corti</E
+M>lunghi</E
+M>a spazzola</E
+M>baffi all’americana</E
+M>baffi alla Guglielmo II</E
+M>a manubrio</E
+M>un bel paio di baffi</E
+M>il b</E
+M>sinistro</E
+M>il b</E
+M>destro</E
+M>coi baffi</E
+M>una cena coi baffi</E
+M>un’occasione coi baffi</E
+M>cosa da leccarsi i baffi</E
+M>leccarsi i b</E
+M>ridere</E
+M>ridersela sotto i baffi</E
+M>guarda che baffi ti sei fatto con quel sugo</E
+M>ha fatto un b</E
+M>con l’inchiostro sul quaderno</E
+M>sbaffo</E
+M>Mi fa un b</E
+M>Baffo di gatto</E
+M>catwhisker</E

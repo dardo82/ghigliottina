@@ -1,0 +1,177 @@
+contro.txt
+"accanirsi contro"
+"accanirsi contro qcn."
+"aizzare un cane contro"
+"andare contro"
+"andare contro"
+"andare contro"
+"andare contro"
+"andare contro"
+"assicurazione contro gli errori professionali"
+"assicurazione contro gli infortuni"
+"assicurazione contro gli infortuni sul lavoro"
+"assicurazione contro i sinistri"
+"assicurazione contro il furto"
+"assicurazione contro l'incendio"
+"assicurazione contro le collisioni"
+"assicurazione contro le inondazioni"
+"assicurazione contro le malattie"
+"attaccare; scagliarsi contro qcn"
+"atto di portare via a forza, contro la volontà"
+"avanzare contro"
+"avere prove che possono essere usate contro qcn."
+"avere prove che possono essere usate contro qcn."
+"barriera di terra contro un incendio"
+"bestemmiare contro"
+"bloccare contro la parete"
+"campagna contro"
+"che si ritorce contro"
+"combattere contro"
+"combattere contro i mulini a vento"
+"combattimento cani contro orso"
+"competere con, rivaleggiare contro"
+"complottare contro qualcuno"
+"comportarsi in modo violento contro"
+"contro"
+"contro"
+"contro"
+"contro"
+"contro"
+"contro"
+"contro copertina"
+"contro corrente"
+"contro il tempo"
+"contro il tempo"
+"contro informazione"
+"contro la legge"
+"contro la sua volontà"
+"contro la tua volontà"
+"contro natura"
+"contro vento"
+"corsa contro il tempo"
+"crimine contro l'umanità"
+"dare battaglia contro"
+"decidere contro"
+"decretare contro"
+"dimostrare, manifestare contro"
+"essere contro"
+"essere prevenuto contro, avere un pregiudizio su"
+"far comunella; allearsi contro qcn."
+"gettare contro"
+"giocare contro"
+"giocare contro"
+"gridare contro"
+"gridare contro"
+"i pro e i contro"
+"imprecare contro"
+"in guardia contro"
+"inciampare su, sbattere il piede contro"
+"infierire contro qualcuno"
+"informazioni contro"
+"inveire contro"
+"inveire contro"
+"lavoro contro"
+"lotta contro il tempo"
+"lotta contro qc"
+"lottare contro"
+"lottare contro"
+"lottare contro"
+"lottare contro i mulini a vento"
+"lottare contro il tempo"
+"marciare contro"
+"mettere una persona contro l'altra"
+"mettere uno contro l'altro"
+"mettersi al riparo da qcs, premunirsi contro qcs"
+"militare contro"
+"montare un'accusa contro"
+"muro contro muro"
+"natura contro educazione"
+"non avere prove contro qcn"
+"non avere prove contro qcn"
+"nuotare contro corrente"
+"per contro"
+"per ritorsione contro"
+"pesare contro"
+"portare contro"
+"pregiudizio contro"
+"premere la testa contro"
+"prendere in contro piede"
+"prendere posizione contro"
+"prestito pronti contro termine"
+"pro e contro"
+*[[verso]], [[addosso]]
+*di fronte, [[davanti]], in faccia
+* in cambio di
+*in opposizione, a sfavore, a svantaggio
+*[[controaccusa]], [[controaliseo]], [[controanalisi]], [[controassegno]], [[controazione]], [[controbattere]], [[controbatteria]], [[controbattitore]],[[controbattuta]], [[controbelvedere]], [[controbilanciare]], [[controboccaporto]], [[contro-bogey]]
+*''il pro e il contro''
+*''Chi ha torto fa clamore 
+M>ntra</E
+M>il nemico</E
+M>tutti</E
+M>al nemico</E
+M>di me</E
+M>di lui</E
+M>mi venne c</E
+M>tutti gli sono c</E
+M>di c</E
+M>indicato</E
+M>notato</E
+M>segnato di c</E
+M>per c</E
+M>i Romani cambatterono c</E
+M>i Cartaginesi</E
+M>essere c</E
+M>mettersi c</E
+M>fare c</E
+M>dare c</E
+M>tenere c</E
+M>votare c</E
+M>agire c</E
+M>la volontà del padre</E
+M>scommettere dieci c</E
+M>uno</E
+M>lavorare c</E
+M>voglia</E
+M>controvoglia</E
+M>natura</E
+M>Milan c</E
+M>Juventus</E
+M>sentenza in causa Rossoni c</E
+M>Bianchini</E
+M>odio</E
+M>animosità c</E
+M>qualcuno</E
+M>battere c</E
+M>il muro</E
+M>un albero</E
+M>urtare c</E
+M>lo spigolo del tavolo</E
+M>marciare c</E
+M>il nemico</E
+M>rivoltarsi c</E
+M>qualcuno</E
+M>farsi scudo della propria coscienza c</E
+M>le calunnie</E
+M>gli puntò la pistola c</E
+M>il petto</E
+M>Poscia che Costantin l’aquila volse Contr’al corso del ciel</E
+M>navigare c</E
+M>vento</E
+M>controvento</E
+M>andare c</E
+M>corrente</E
+M>i due avversarî erano in piedi l’uno c</E
+M>l’altro</E
+M>era voltato c</E
+M>il muro</E
+M>il suo profilo si disegnava netto c</E
+M>il vano della finestra</E
+M>pagamento</E
+M>ricevuta</E
+M>assegno</E
+M>il pro e il c</E
+M>pesare</E
+M>valutare il pro e il contro</E
+M>parata di contro</E
+M>controverso</E

@@ -1,0 +1,23 @@
+fiuto.txt
+"fiuto"
+"fiuto"
+"fiuto per gli affari"
+"scoprire col fiuto, scovare"
+#* avere 
+*[[odorato]]
+M>il cane al primo f</E
+M>scovò la lepre</E
+M>tabacco da f</E
+M>da naso</E
+M>riconoscere al f</E
+M>ha un f</E
+M>finissimo</E
+M>uomo che ha buon f</E
+M>negli affari</E
+M>conoscere</E
+M>giudicare al f</E
+M>io la gente onesta la conosco al f</E
+M>giudicò al f</E
+M>che era un briccone</E
+M>abbiamo avuto qualche f</E
+M>questa mattina</E

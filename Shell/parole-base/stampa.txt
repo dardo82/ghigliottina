@@ -1,0 +1,267 @@
+stampa.txt
+"a mezzo stampa"
+"addetto stampa"
+"addetto ufficio stampa"
+"agente di stampa\/pubblicitario"
+"agenzia di stampa"
+"agenzia di stampa internazionale"
+"agenzia di stampa\/pubblicitaria"
+"al momento di andare in stampa"
+"andare in stampa"
+"angolo stampa"
+"area stampa"
+"attrezzature per la stampa"
+"carattere di stampa"
+"carta da stampa"
+"coda di stampa"
+"comunicato stampa"
+"comunicato stampa"
+"comunicato stampa"
+"conferenza stampa"
+"copia a stampa"
+"dignità di stampa"
+"disponibile per la stampa"
+"equipe di stampa"
+"errore di stampa"
+"Fleet Street; stampa londinese"
+"grafica e stampa"
+"il Quarto Potere (la stampa)"
+"in corso di stampa"
+"inchiostro di stampa"
+"la stampa"
+"la stampa"
+"la stampa"
+"la stampa in\/di"
+"lanciare una stampa"
+"fare una stampata"
+"libertà di stampa"
+"macchine per la stampa"
+"materiale da stampa"
+"matrice di stampa"
+"non per la stampa"
+"non per la stampa"
+"nuova stampa"
+"ora di andare in stampa"
+" della stampa"
+"organi di stampa"
+"presentazione alla stampa"
+"quarto potere; stampa"
+"rassegna stampa"
+"responsabile ufficio stampa"
+"sala stampa"
+"sala stampa"
+"sala stampa"
+"sala stampa"
+"soggetto a stampa"
+"stampa"
+"stampa"
+"documento stampato"
+"stampa"
+"stampa"
+"atto di stampare"
+"stampa"
+"stampa"
+"stampa"
+"stampa fotografica"
+"stampa"
+"stampa a"
+"stampa a colori"
+"stampa a colori"
+"stampa a colori"
+"stampa a colori"
+"stampa a contatto"
+"stampa a contatto"
+"stampa a freddo"
+"stampa a mano"
+"stampa al computer"
+"stampa dal computer"
+"stampa di lavori commerciali"
+"stampa di lavori commerciali"
+"stampa di libri"
+"stampa in offset"
+"stampa in rilievo"
+"stampa libera"
+"stampa litografica offset"
+"stampa pubblicitaria inviata per posta"
+"stampa rosa"
+"stampa su carta"
+"stampa su carta ad annerimento diretto"
+"stampa su cotone"
+"stampa supplementare"
+"storia della stampa"
+"tenere una conferenza stampa"
+"tribuna della stampa"
+"ufficio stampa"
+*[[grafica]], arte grafica, arte tipografica
+*[[riproduzione]], [[disegno]], [[illustrazione]], [[incisione]], [[litografia]]
+*[[impressione]], [[stampatura]]
+* ''( su tessuti)'' [[stampaggio]] 
+*[[manoscritto]]
+*[[stampare]]
+*''dare alla stampa''
+M>l&#8217;invenzione</E
+M>l&#8217;arte</E
+M>la storia della s.</E
+M>s. tipografica</E
+M>anastatica</E
+M>calcografica</E
+M>a rotocalco</E
+M>s. litografica</E
+M>in offset</E
+M>s. serigrafica</E
+M>iniziare</E
+M>avviare</E
+M>interrompere</E
+M>terminare la s. di un libro</E
+M>andare in s.</E
+M>essere in corso di s.</E
+M>dare alla s.</E
+M>alle s.</E
+M>un testo</E
+M>attendere alla s.</E
+M>curare la s. di un&#8217;opera</E
+M>opera già uscita dalle s.</E
+M>caratteri da s.</E
+M>carta da s.</E
+M>inchiostri da s.</E
+M>prove</E
+M>bozze di s.</E
+M>foglio di s.</E
+M>bianca</E
+M>volta</E
+M>segnatura</E
+M>errori di s.</E
+M>opere a s.</E
+M>opere manoscritte</E
+M>buona</E
+M>cattiva s.</E
+M>una s. perfetta</E
+M>s. illeggibile</E
+M>s. stanca</E
+M>nuovo fior di stampa</E
+M>a fior di conio</E
+M>s. raccomandate</E
+M>cassetta per stampe</E
+M>affrancatura ridotta per stampe</E
+M>sulla busta del fascicolo c&#8217;è scritto &#171;stampe&#187;</E
+M>diffusione per mezzo della s.</E
+M>libertà di s.</E
+M>legislazione</E
+M>leggi sulla s.</E
+M>reati di s.</E
+M>reati col mezzo della s.</E
+M>ufficio s.</E
+M>ufficio s. e propaganda</E
+M>s. quotidiana</E
+M>s. periodica</E
+M>s. non periodica</E
+M>la s. cittadina</E
+M>locale</E
+M>la s. estera</E
+M>rassegna stampa</E
+M>s. ufficiale</E
+M>s. ufficiosa</E
+M>s. di partito</E
+M>s. indipendente</E
+M>s. d&#8217;informazione</E
+M>s. riservata</E
+M>s. cattolica</E
+M>s. d&#8217;opposizione</E
+M>s. rivoluzionaria</E
+M>s. clandestina</E
+M>stampa a catena</E
+M>catena</E
+M>avere una buona</E
+M>cattiva s.</E
+M>bonne presse</E
+M>mauvaise presse</E
+M>un nuovo direttore che non ha</E
+M>non gode buona stampa</E
+M>di buona stampa</E
+M>invitare</E
+M>convocare la s.</E
+M>la tribuna della s.</E
+M>tribuna stampa</E
+M>tribune stampa</E
+M>il tavolo della s.</E
+M>per la s.</E
+M>sala della s.</E
+M>sala stampa</E
+M>associazione</E
+M>circolo della s.</E
+M>ballo</E
+M>veglione della stampa</E
+M>le opinioni della s.</E
+M>le proteste</E
+M>le polemiche della s.</E
+M>uno sciopero della s.</E
+M>conferenza stampa</E
+M>conferenze stampa</E
+M>comunicato stampa</E
+M>comunicati stampa</E
+M>addetto stampa</E
+M>addetti stampa</E
+M>xilografia</E
+M>calcografia</E
+M>litografia</E
+M>serigrafia</E
+M>s. di un&#8217;incisione</E
+M>di un&#8217;acquaforte</E
+M>incorniciare una s.</E
+M>una collezione di stampe dell&#8217;Ottocento</E
+M>stampe in bianco e nero</E
+M>a colori</E
+M>s. popolari</E
+M>gabinetto dei disegni e delle s.</E
+M>s. delle carte</E
+M>da parati</E
+M>da regalo</E
+M>del cuoio</E
+M>stampaggio</E
+M>di materiali</E
+M>di oggetti di metallo</E
+M>di plastica</E
+M>s. di monete</E
+M>conio</E
+M>s. dei tessuti</E
+M>s. diretta</E
+M>s. indiretta</E
+M>s. per corrosione</E
+M>s. per riserva</E
+M>S. a mano</E
+M>s. a quadro</E
+M>alla lionese</E
+M>quadri</E
+M>s. a rullo</E
+M>s. a spruzzo</E
+M>per aerografia</E
+M>Macchine da s.</E
+M>torchio tipografico</E
+M>torchio calcografico</E
+M>torchio litografico</E
+M>piano-cilindrica</E
+M>macchina cilindrica a rotazione</E
+M>rotativa</E
+M>roto-offset</E
+M>rotativa rotocalco</E
+M>s. di una fotografia</E
+M>di una pellicola</E
+M>di una diapositiva</E
+M>s. in bianco e nero</E
+M>a colori</E
+M>s. a ingrandimento</E
+M>di questa istantanea mi faccia 4 s. in formato cartolina.</E
+M>stampo</E
+M>Natura il fece</E
+M> e poi roppe la s.</E
+M>tenendosi per certo che sia piuttosto possibile di rifarlo</E
+M>del tutto in una nuova stampa ... che di emendarlo</E
+M>quel brav&#8217;uomo aveva lasciato un figliuolo di s. ben diversa</E
+M>Così dicea</E
+M> segnato de la stampa</E
+M> Nel suo aspetto</E
+M> di quel dritto zelo Che misuratamente in core avvampa</E
+M>Vergine</E
+M> que&#8217; belli occhi Che vider tristi la spietata stampa Ne&#8217; dolci membri del tuo caro figlio</E
+M> Volgi al mio dubio stato</E
+M>stampo</E

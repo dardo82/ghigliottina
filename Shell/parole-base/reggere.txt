@@ -1,0 +1,168 @@
+reggere.txt
+"continuare; durare; resistere; stare saldo; reggere"
+"reggere"
+"sorreggere, sostenere"
+"reggere"
+"reggere"
+"reggere"
+"reggere, replace: reggersi"
+"reggere, replace: reggersi"
+"reggere, replace: reggersi"
+"reggere il gioco"
+"reggere il moccolo"
+"reggere le fila"
+"reggere lo sguardo"
+"reggere meglio"
+"sostenere, reggere"
+*[[sorreggere]], [[sostenere]], [[tenere]], [[puntellare]], [[supportare]]
+*[[sopportare]], [[accettare]], [[resistere]], [[tollerare]]
+*[[controllare]], [[portare]], [[guidare]]
+*[[dirigere]], [[comandare]], [[amministrare]], [[condurre]], [[governare]]
+*[[durare]], [[mantenere]], [[continuare]], [[perseverare]], [[ resistere]], [[sopportare]]
+*  [[guidare]], [[dirigere]], [[resistere]], [[durare]]
+*[[abbandonare]], [[lasciare]]
+*[[mollare]], [[desistere]]
+*[[reggente]], [[reggersi]], [[reggicalze]], [[reggimento]], [[reggipetto]], [[reggiseno]], [[regime]]
+*[[correggere]], [[sorreggere]],[[portare]], [[tenere]], [[sopportare]],  [[prendere]] 
+M>io règgo</E
+M>tu règgi</E
+M>rèssi</E
+M>reggésti</E
+M>rètto</E
+M>la mamma reggeva il bambino per le braccia</E
+M>règgilo</E
+M>non vedi che sta per svenire?</E
+M>sono così stanco che le gambe non mi reggono più</E
+M>il vecchio sarebbe scivolato se il figlio non lo avesse retto</E
+M>quell&#8217;armadio</E
+M>se non lo reggi</E
+M>ti cascherà addosso</E
+M>lasciami pure</E
+M>mi reggo in piedi da solo</E
+M>è ancora convalescente e non si regge bene sulle gambe</E
+M>fece qualche passo</E
+M>ma poi non riuscì a reggersi e si lasciò cadere a terra</E
+M>reggersi sui trampoli</E
+M>è un edificio</E
+M>un terrapieno che si regge bene</E
+M>questa scuola</E
+M>questa ditta si regge a mala pena</E
+M>un discorso</E
+M>un periodo</E
+M>un dramma che non si regge</E
+M>che si regge discretamente</E
+M>spesso i disonesti si reggono tra loro</E
+M>la donna reggeva una brocca sulla testa</E
+M>questo chiodino non può r</E
+M>il peso del quadro</E
+M>la lastra di ghiaccio è troppo sottile per r</E
+M>dei pattinatori</E
+M>ho le dita così intirizzite che non riesco a r</E
+M>la penna in mano</E
+M>non so nuotare</E
+M>riesco appena a reggermi a galla</E
+M>reggersi in acqua</E
+M>in aria</E
+M>sulle ali</E
+M>un marinaio reggeva la scaletta su cui salivano i passeggeri del battello</E
+M>reggi questo capo della corda</E
+M>io terrò l&#8217;altro</E
+M>reggersi la pancia</E
+M>dalle risa</E
+M>reggimi un istante il pacco</E
+M>mentre apro la porta</E
+M>il lume</E
+M>il candeliere</E
+M>il moccolo a qualcuno</E
+M>una diga reggeva l&#8217;impeto delle onde</E
+M>se non lo reggevano in tempo</E
+M>l&#8217;avrebbe ammazzato di botte</E
+M>l&#8217;anima</E
+M>il fiato</E
+M>coi denti</E
+M>reggersi</E
+M>nell&#8217;udire tali discorsi non riuscii a reggermi e gli dissi quel che pensavo di lui</E
+M>l&#8217;acqua</E
+M>il peso</E
+M>la ferma</E
+M>il mare</E
+M>il vino</E
+M>l&#8217;alcol</E
+M>la scommessa</E
+M>lo scherzo</E
+M>come fai a r</E
+M>un collega così antipatico?</E
+M>non riesco proprio a r</E
+M>questo modo di vivere</E
+M>il cavallo</E
+M>il calesse</E
+M>il freno</E
+M>ora che tu reggi il freno di cotesta gentile e gloriosa città</E
+M>i primi passi di un bambino</E
+M>i primi passi di un giovane negli studî</E
+M>nella carriera</E
+M>questi sono i principî che finora hanno retto la mia vita</E
+M>uno stabilimento</E
+M>una bottega</E
+M>uno stato</E
+M>una provincia</E
+M>un comune</E
+M>chiamato a r</E
+M>le sorti</E
+M>le fortune d&#8217;Italia</E
+M>il pontefice regge la Chiesa in nome di Cristo</E
+M>il ministero lo ha mandato a r</E
+M>l&#8217;Ufficio del Registro di Palermo</E
+M>questa stazione dei carabinieri è retta da un brigadiere</E
+M>con mano ferma</E
+M>abilmente</E
+M>a lungo</E
+M>con impegno e passione</E
+M>ogni paese libero ha il diritto di reggersi con le proprie leggi</E
+M>nazioni che si reggono a monarchia</E
+M>a repubblica</E
+M>la proposizione infinitiva è retta dal verbo</E
+M>dire</E
+M>della principale</E
+M>un verbo che regge l&#8217;accusativo</E
+M>il dativo</E
+M>una congiunzione che regge il congiuntivo</E
+M>un verbo che regge l&#8217;accusativo con l&#8217;infinito</E
+M>avere</E
+M>la sottile corazza non resse al colpo</E
+M>i nostri soldati hanno retto a lungo all&#8217;attacco dei nemici</E
+M>ai tormenti</E
+M>alle torture</E
+M>alla fame</E
+M>alla sete</E
+M>alla fatica</E
+M>alcuni animali non reggono al freddo</E
+M>i fiori tropicali reggono male ai nostri climi</E
+M>le pirofile reggono bene al fuoco</E
+M>reggono la fiamma</E
+M>il calore</E
+M>è un prodotto che regge alla concorrenza</E
+M>il tuo ragionamento non regge a un attento esame</E
+M>l&#8217;ultimo suo romanzo non regge al confronto con i precedenti</E
+M>non poteva più r</E
+M>dall&#8217;ira</E
+M>dalla rabbia</E
+M>dalla fame</E
+M>dalla sete</E
+M>con quel capufficio</E
+M>in quell&#8217;ambiente</E
+M> io non ci reggo più</E
+M>non mi regge l&#8217;animo di sentirlo lamentare in continuazione</E
+M>il principe (non ci regge il cuore di dargli in questo momento il titolo di padre) non rispose direttamente</E
+M>è un formaggio che regge per molti giorni</E
+M>la legatura che hai fatto al baule non regge</E
+M>la vista</E
+M>la testa</E
+M>la memoria non gli regge</E
+M>la tua obiezione non regge</E
+M>il paragone</E
+M>l&#8217;accusa</E
+M>l&#8217;ipotesi</E
+M>il ragionamento</E
+M>la dimostrazione non regge</E
+M>speriamo che questo sereno regga per qualche giorno</E

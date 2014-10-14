@@ -1,0 +1,12 @@
+diseredare.txt
+"Traduzione di diseredare/ non trovata.\nNo translation was found for diseredare/."
+*[[diseredato]]
+*[[eredità]]
+*italiano
+M>erede</E
+M>dis</E
+M>io di</E
+M>erèdo</E
+M>il padre lo minaccia spesso di farlo d</E
+M>per indegnità</E
+M>un nipote scapestrato</E

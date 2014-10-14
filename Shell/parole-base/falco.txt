@@ -1,0 +1,60 @@
+falco.txt
+"con la vista d'aquila, con l'occhio di falco"
+"da falco, come un falco"
+"falco"
+"hawk, falcon"
+"falco"
+"falco dalla coda rossa"
+"falco dallo stinco duro, deciso"
+"falco delle praterie"
+"prairie falcon"
+"falco pecchiaiolo"
+"falco pecchiaiolo"
+"falco pellegrino"
+"peregrine falcon"
+"falco pescatore"
+"falco pescatore"
+"occhio di falco"
+*''Una passera non diventa 
+*''vista da falco''
+M>falco</E
+M>onis</E
+M>chi</E
+M>Falco</E
+M>falcone</E
+M>reale</E
+M>pellegrino</E
+M>Falco peregrinus</E
+M>sacro</E
+M>Falco cherrug</E
+M>lanario</E
+M>Falco biarmicus</E
+M>della regina</E
+M>Falco eleonorae</E
+M>cuculo</E
+M>Falco vespertinus</E
+M>grillaio</E
+M>Falco naumanni</E
+M>giocoliere</E
+M>Terathopius ecaudatus</E
+M>pecchiaiolo</E
+M>Pernis apivorus</E
+M>pescatore</E
+M>aquilastro</E
+M>Pandion haliaetus</E
+M>aquilino</E
+M>bianco</E
+M>molinaro</E
+M>pigargo</E
+M>calzato</E
+M>marino</E
+M>di palude</E
+M>rossiccio</E
+M>spagnolo</E
+M>nero</E
+M>un f</E
+M>occhi di f</E
+M>falchi</E
+M>hawks</E
+M>colombe</E
+M>doves</E

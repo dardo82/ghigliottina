@@ -1,0 +1,20 @@
+arsenale.txt
+"arsenale"
+"arsenale"
+"arsenale"
+* [[darsena]]
+* [[armamentario]], [[attrezzatura]], [[attrezzi]]
+* ''(deposito di esplosivi)'' [[santabarbara]]
+* ''(cantieri navali militari)'' [[arzanà]]
+M>arzanà</E
+M>darsena</E
+M>r a</E
+M>ha portato un a</E
+M>di roba</E
+M>quella stanza è un vero arsenale!</E
+M>si compiaceva di fare qualche citazione</E
+M>che egli traeva dall’a</E
+M>di quella sua antiquata erudizione</E
+M>sapeva a meraviglia</E
+M>tutto il vecchio a</E
+M>dei dogmi e de le superstizioni</E

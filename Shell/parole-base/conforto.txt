@@ -1,0 +1,47 @@
+conforto.txt
+"conforto"
+"dare conforto"
+"parola di conforto"
+"parole di conforto"
+"trovare conforto"
+*[[sostegno]], [[incoraggiamento]], [[comodità]], [[agio]]
+*[[sconforto]]
+M>confortare</E
+M>comfort</E
+M>confort</E
+M>dare</E
+M>recare c</E
+M>ricevere c</E
+M>provare</E
+M>trovare c</E
+M>niente può dargli c</E
+M>nel suo grande dolore</E
+M>trovava c</E
+M>solo nella fede</E
+M>le sue parole mi erano di gran c</E
+M>avere bisogno di c</E
+M>i figli sono il c</E
+M>della sua vecchiaia</E
+M>il pensiero della casa lontana era il mio unico c</E
+M>non c’è c</E
+M>per lui</E
+M>era conforto Questo suon</E
+M>mi rimembra</E
+M>alle mie notti</E
+M>i c</E
+M>gli estremi c</E
+M>della religione</E
+M>i c</E
+M>religiosi</E
+M>i c</E
+M>degli amici l’hanno persuaso a continuare nell’impresa</E
+M>O Buondelmonte</E
+M>quanto mal fuggisti Le nozze süe per li altrui c</E
+M>A c</E
+M>di una tesi</E
+M>di un’opinione</E
+M>un bicchierino d’amaro è un buon c</E
+M>per lo stomaco</E
+M>viveri di conforto</E
+M>viveri ordinarî</E
+M>albergo fornito di tutti i conforti</E

@@ -1,0 +1,34 @@
+scommessa.txt
+"fai la tua scommessa"
+"fare una scommessa"
+"fare una scommessa"
+"fare una scommessa"
+"fare una scommessa"
+"perdere una scommessa"
+"scommessa"
+"scommessa"
+"scommessa"
+"posta, somma scommessa"
+"scommessa"
+#* '' hai perso la 
+*[[patto]], [[impegno]], [[accordo]], [[intesa]]
+*''(nel gioco d'azzardo, nelle corse di cavalli ecc.)'' somma in gioco, somma in palio, [[posta]], [[puntata]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p.&nbsp;1878
+M>scommesso</E
+M>scommettere</E
+M>fare una s.</E
+M>vincere</E
+M>perdere una s.</E
+M>fare una cosa per scommessa</E
+M>per s.</E
+M> ha bevuto d&#8217;un fiato un&#8217;intera bottiglia di vino</E
+M>reggersi</E
+M>stare in piedi per s.</E
+M>fare una s. sull&#8217;esito di un incontro di pugilato</E
+M>ha dissipato un patrimonio con le s. sulle corse dei cavalli</E
+M>un locale in cui si fanno</E
+M>si accettano</E
+M>s. clandestine</E
+M>una s. troppo forte</E
+M>le s. più alte sono sui favoriti</E
+M>finire il lavoro entro due settimane è proprio una scommessa</E

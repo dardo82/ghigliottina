@@ -1,0 +1,13 @@
+destro.txt
+"braccio destro"
+"destro"
+"destro"
+"destro"
+"colpo inferto col pugno destro"
+"destro"
+"il braccio destro"
+"lato destro"
+"mezzo destro"
+"occhio destro"
+*[[sinistro]]
+M>destro</E

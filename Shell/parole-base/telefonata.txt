@@ -1,0 +1,17 @@
+telefonata.txt
+"fare una telefonata"
+"passare una telefonata"
+"prezzo della telefonata"
+"telefonata"
+"telefonata a carico del destinatario"
+"telefonata interurbana"
+M>fare</E
+M>ricevere una t.</E
+M>t. urbana</E
+M>interurbana</E
+M>in ultimo anche un incontro fugace è interminabile</E
+M> anche una t. lunga</E
+M> anche una breve</E
+M> anche un minuto</E
+M> un secondo</E
+M>una t. anonima</E

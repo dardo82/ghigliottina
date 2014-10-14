@@ -1,0 +1,64 @@
+turismo.txt
+"auto da turismo"
+"centro del turismo"
+"industria del turismo"
+"istituto tecnico per il turismo"
+"turismo"
+"turismo"
+"veicolo da turismo"
+#*''[[w
+*[[escursionismo]], [[viaggio]], [[gita]], attività turistica.
+*[[agriturismo]],[[cicloturismo]] ,[[turismo sostenibile]]
+*Enciclopedia [http
+M>tourisme</E
+M>tourism</E
+M>tour</E
+M>l’importanza assunta dal t. in Italia</E
+M>nel mondo</E
+M>nel settore dell’economia di consumo</E
+M>la recente espansione del t. di massa</E
+M>t. individuale</E
+M>collettivo</E
+M>organizzato</E
+M>t. scolastico</E
+M>giovanile</E
+M>della terza età</E
+M>t. programmato</E
+M>t. rurale</E
+M>ministero del t. e dello spettacolo</E
+M>Ente Nazionale Italiano per il T.</E
+M>ENIT</E
+M>t. e industria alberghiera</E
+M>agenzie</E
+M>uffici</E
+M>enti</E
+M>pubblici</E
+M>di t.</E
+M>del t.</E
+M>aspetti e problemi economici</E
+M>sociali</E
+M>strutturali</E
+M>organici del t.</E
+M>studî</E
+M>ricerche sul t.</E
+M>rilevazione statistica dei dati relativi al t.</E
+M>statistica del turismo</E
+M>l’aumento del t.</E
+M>nazionale</E
+M>interno</E
+M>internazionale</E
+M>estero</E
+M>in Italia nell’ultimo anno</E
+M>l’apporto dato dal t. estero al riequilibrio della bilancia dei pagamenti di uno stato</E
+M>t. sessuale</E
+M>Autovetture</E
+M>pullman turismo speciale</E
+M>gran turismo</E
+M>G.T.</E
+M>una gran t.</E
+M>un lussuoso t. speciale</E
+M>Vettura da t.</E
+M>turismo</E
+M>t. di serie</E
+M>t. speciale</E
+M>gran t.</E

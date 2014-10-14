@@ -1,0 +1,53 @@
+proseguire.txt
+"andare avanti; proseguire; continuare"
+"andare dritto; proseguire dritto"
+"continuare con, proseguire con"
+"proseguire"
+"proseguire"
+"proseguire gli studi"
+"proseguire oltre"
+"proseguire senza posa"
+*(un’attività, un’opera) [[continuare]], far progressi, portare avanti
+*(nel movimento) andare avanti, passare oltre, [[avanzare]], [[procedere]], [[seguitare]]
+*(in un proposito, in un’attività) [[insistere]], [[persistere]], [[perseverare]]
+* [[seguitare]],  [[avanzare]], [[riprendere]]
+*(un’attività, un’opera) [[interrompere]], [[sospendere]]
+*(nel movimento) [[retrocedere]], [[indietreggiare]], [[arretrare]]
+*[[smettere]], [[cessare]],  [[desistere]],[[fermarsi]], [[arrestarsi]]
+*[[prosecutore]], [[prosecuzione]], [[proseguimento]]
+M>pros</E
+M>qui</E
+M>pro-</E
+M>sequi</E
+M>io proséguo</E
+M>p. il viaggio</E
+M>il cammino</E
+M>proseguendo la solinga via</E
+M>p. la lettura</E
+M>il discorso</E
+M>la discussione</E
+M>p. un lavoro</E
+M>p. le ricerche</E
+M>avere</E
+M>essere</E
+M>p. nel lavoro</E
+M>negli studî</E
+M>in un&#8217;impresa</E
+M>proseguì per la sua strada senza voltarsi</E
+M>proseguì a parlare</E
+M>proseguì dicendo</E
+M>le proteste del pubblico impedirono all&#8217;oratore di p</E
+M>fece una breve pausa e poi proseguì</E
+M>prosegui! proseguiamo!</E
+M>la bufera non permetteva alle guide di p</E
+M>appena riparato il guasto</E
+M> i viaggiatori potranno p</E
+M>questo treno non prosegue</E
+M> muore qui</E
+M>prosegue questa strada o è interrotta?</E
+M>l&#8217;aliscafo ha proseguito</E
+M>è proseguito</E
+M>per Napoli</E
+M>il treno proseguirà verso Roma</E
+M>i disordini proseguono</E
+M>le indagini proseguono senza sosta</E

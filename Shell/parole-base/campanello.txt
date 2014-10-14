@@ -1,0 +1,23 @@
+campanello.txt
+"campanello"
+"campanello"
+"campanello d'allarme"
+"pulsante del campanello"
+"trillo del campanello"
+M>campana</E
+M>il c</E
+M>della messa</E
+M>del presidente del tribunale</E
+M>arrivati alla porta</E
+M>il conduttore tirò il c</E
+M>comandare</E
+M>essere servito a suon di c</E
+M>campanelli</E
+M>carillon</E
+M>Glockenspiel</E
+M>elettrico</E
+M>d’allarme</E
+M>pesce</E
+M>muscolo</E
+M>muscolo posteriore</E
+M>piccione</E

@@ -1,0 +1,27 @@
+sostituire.txt
+"http://api.wordreference.com/12bee/json/iten/sostituire/"
+*[[cambiare]], [[rimpiazzare]]
+*[[sostituiente]], [[sostituibile]], [[sostituirsi]], [[sostituto]], [[sostituzione]]
+M>substitu</E
+M>sub</E
+M>statu</E
+M>io sostitüisco</E
+M>tu sostitüisci</E
+M>s. un giocatore con una riserva</E
+M>s. truppe fresche a quelle già stanche e provate</E
+M>s. un nuovo contratto a quello scaduto</E
+M>la violenza si era sostituita alla legge</E
+M>la scuola non può sostituirsi alla famiglia nell&#8217;educazione dei figli</E
+M>ha cercato di sostituirsi ad altro candidato nell&#8217;esame scritto ed è stato denunciato</E
+M>la direzione pensa di s. il vecchio personale con elementi più giovani e attivi</E
+M>il console onorario è stato sostituito con un funzionario di carriera</E
+M>era un ottimo contabile</E
+M> e non è facile sostituirlo</E
+M>ho sostituito i freni normali con dei freni più potenti</E
+M>ho intenzione di s. la mia macchina con una più comoda e veloce</E
+M>i copertoni sono logori e presto dovrò sostituirli</E
+M>hanno sostituito il quadro originale con un&#8217;imitazione</E
+M>questa frase va sostituita con una un po&#8217; meno dura e offensiva</E
+M>non posso prendere le ferie in luglio perché devo s. un collega malato</E
+M>non c&#8217;è niente che possa s. il latte nell&#8217;alimentazione dei bambini</E
+M>l&#8217;affetto della madre non può essere sostituito da nessun altro affetto.</E

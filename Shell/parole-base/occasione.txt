@@ -1,0 +1,143 @@
+occasione.txt
+"alla prima occasione"
+"buttare via un'occasione"
+"cogliere l'occasione"
+"cogliere l'occasione"
+"cogliere l'occasione"
+"d'occasione"
+"gradita occasione"
+"in occasione della visita di"
+"in occasione di"
+"in qualche altra occasione"
+"in qualunque occasione"
+"in quell'occasione"
+"in questa occasione"
+"in una occasione"
+"non mancherà occasione"
+"occasione"
+"occasione"
+"occasione"
+"occasione"
+"occasione d'oro"
+"occasione di festa"
+"occasione formale"
+"ogni occasione è buona"
+"per questa occasione"
+"perdere l'occasione"
+"perdere un'occasione importante"
+"prezzo d'occasione"
+"questa occasione"
+"sfruttare un'occasione"
+*[[avvenimento]], [[circostanza]], [[evenienza]] 
+*[[opportunità]], [[possibilità]], [[destro]] 
+*[[affare]] 
+*[[motivo]], [[pretesto]], [[origine]], [[cagione]], [[movente]]
+*[[conseguenza]], [[effetto]], [[risultato]] 
+*[[occasionale]],[[occasionalismo]], [[occasionare]]
+M>occasio</E
+M>onis</E
+M>occasum</E
+M>occid</E
+M>cagione</E
+M>gran destino è il mio</E
+M>che le cose a proposito mi vengan sempre in mente un momento dopo l’o</E
+M>è una buona o</E
+M>un’o</E
+M>straordinaria</E
+M>un’o</E
+M>veramente insperata</E
+M>un’o</E
+M>unica</E
+M>a chi ha buona volontà le o</E
+M>non mancano</E
+M>non mi mancherà o</E
+M>di contraccambiarti</E
+M>se hai o</E
+M>di vederlo</E
+M>salutalo da parte mia</E
+M>nel mio viaggio ho avuto o</E
+M>d’imparare tante cose</E
+M>ha avuto ottime o</E
+M>di matrimonio e se l’è lasciate sfuggire</E
+M>a buon rendere in altra o</E
+M>alla prima o</E
+M>ha minacciato di vendicarsi alla prima o</E
+M>all’o</E
+M>è un uomo tranquillo ma all’o</E
+M>sa farsi rispettare</E
+M>con l’o</E
+M>con l’o</E
+M>vedi se puoi mettere una buona parola in mio favore</E
+M>cogliere</E
+M>afferrare</E
+M>sfruttare l’o</E
+M>ho afferrato l’o</E
+M>al volo</E
+M>approfitto di quest’o</E
+M>per farti i miei migliori augurî</E
+M>cercare</E
+M>attendere</E
+M>spiare l’o</E
+M>ho già tutto pronto e non aspetto altro che l’o</E
+M>hai perso un’ottima o</E
+M>se viene</E
+M>se si offre</E
+M>se si dà</E
+M>se si presenta l’occasione</E
+M>l’o</E
+M>fa l’uomo ladro</E
+M>oggetti d’o</E
+M>mobili</E
+M>libri d’o</E
+M>un acquisto d’o</E
+M>comprare qualcosa d’o</E
+M>occasione</E
+M>occasioni</E
+M>è un’o</E
+M>una vera occasione</E
+M>cercare occasioni di lite</E
+M>dare occasione a lagnanze</E
+M>l’arrivo del nuovo governatore fu l’o</E
+M>della rivolta</E
+M>la sua disobbedienza mi offrì</E
+M>mi porse</E
+M>l’o</E
+M>di punirlo</E
+M>causa occasionale</E
+M>serva affezionata e fedele</E
+M>che sapeva ubbidire e comandare</E
+M>secondo l’o</E
+M>regolarsi</E
+M>comportarsi secondo le o</E
+M>un abito adatto a tutte le o</E
+M>potremo parlarne in un’altra o</E
+M>riprenderemo l’argomento alla prossima occasione</E
+M>Grandi o</E
+M>indossò il vestito delle grandi o</E
+M>la tavola era imbandita come nelle grandi o</E
+M>beve</E
+M>fuma</E
+M>solo nelle grandi o</E
+M>In occasione di</E
+M>mi è stato regalato in o</E
+M>del mio compleanno</E
+M>gli preparano grandi accoglienze in o</E
+M>per l’o</E
+M>della sua venuta</E
+M>nella fausta o</E
+M>delle nozze</E
+M>in o</E
+M>della sua elezione</E
+M>il presidente ha concesso un’ampia amnistia</E
+M>per l’o</E
+M>s’è fatto bello per l’o</E
+M>per l’o</E
+M>la chiesa è stata parata a festa</E
+M>d’occasione</E
+M>versi d’o</E
+M>un sonetto d’o</E
+M>discorsi</E
+M>frasi</E
+M>complimenti d’o</E
+M>occasionissima</E
+M>occasionissima vendesi appartamento</E

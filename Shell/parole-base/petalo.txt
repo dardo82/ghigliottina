@@ -1,0 +1,5 @@
+petalo.txt
+"petalo"
+"petalo del fiore"
+M>pet</E
+M>lum</E

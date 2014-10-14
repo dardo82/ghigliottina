@@ -1,0 +1,130 @@
+procedere.txt
+"andare avanti; fare progressi; procedere"
+"modo di procedere"
+"non luogo a procedere"
+"non procedere con"
+"procedere"
+"procedere"
+"procedere"
+"procedere"
+"procedere"
+"procedere"
+"procedere"
+"procedere a"
+"procedere ad un arresto"
+"procedere al meglio"
+"procedere con ordine"
+"procedere costeggiando"
+"procedere faticosamente"
+"procedere legalmente"
+"procedere lentamente"
+"procedere lentamente, trascinarsi"
+"procedere per punti"
+"procedere per tentativi"
+"procedere scivolando"
+"procedere, venire (bene\/male)"
+* [[andare]] [[avanti]],[[muoversi]], [[avanzare]], [[proseguire]], [[camminare]], [[marciare]], [[inoltrarsi]], [[incedere]]
+*''(a una votazione, a uno spoglio)'' dare inizio, [[iniziare]],[[cominciare]],[[effettuare]], [[svolgere]]
+*[[derivare]], [[provenire]], [[discendere]], [[seguire]]
+*[[fermarsi]], [[arrestarsi]], [[bloccarsi]]
+*''a una votazione, a uno spoglio)''[[concludere]], portare a termine 
+*[[procedibile]], [[procedimento]], [[procedura]], [[processione]], [[processo]]
+*''procedere contro qualcuno''
+M>proced</E
+M>pro</E
+M>ced</E
+M>procedètti</E
+M>procedéi</E
+M>procèssi</E
+M>procedésti</E
+M>proceduto</E
+M>procèsso</E
+M>avere</E
+M>essere</E
+M>essere</E
+M>lentamente</E
+M>di buon passo</E
+M>a testa alta</E
+M>a capo chino</E
+M>cauto</E
+M>silenzioso</E
+M>a tentoni</E
+M>barcollando</E
+M>procedevano di pari passo</E
+M>a lento passo Procedea l&#8217;ordinanza</E
+M>proseguire</E
+M>ci rifiutammo di p</E
+M>oltre</E
+M>essere</E
+M>nel tempo</E
+M> negli anni</E
+M>nella strada intrapresa</E
+M>il p</E
+M>del tempo</E
+M>con il p</E
+M>degli anni tutto si modifica</E
+M>avere</E
+M>nel discorso</E
+M>nella ricerca</E
+M>nella trattazione</E
+M>nelle indagini</E
+M>nell&#8217;esame</E
+M>negli studî</E
+M>nel lavoro</E
+M>nel ragionamento</E
+M>procediamo con ordine</E
+M>per induzione</E
+M>per esclusione</E
+M>per assurdo</E
+M>la ricerca procede speditamente</E
+M>essere</E
+M>come procede il lavoro?</E
+M>le ricerche procedono con lentezza</E
+M>l&#8217;indagine procede a rilento</E
+M>tutto procede a meraviglia</E
+M>gli affari procedono a gonfie vele</E
+M>andate voi e Siro a trovare maestro Callimaco</E
+M> e gli dite che la cosa è proceduta bene</E
+M>parendogli che &#8217;l suo consiglio fosse stato buono e procedesse</E
+M>avere</E
+M>le leggi con cui la natura procede nelle sue operazioni</E
+M>in certe dimostrazioni geometriche si procede per assurdo</E
+M>avere</E
+M>non mi piace il suo modo di p</E
+M>fiaccamente</E
+M>con decisione</E
+M>con lealtà</E
+M>con l&#8217;astuzia</E
+M>con l&#8217;inganno</E
+M>in questa situazione bisogna p</E
+M>con grande cautela</E
+M>solo più tardi</E
+M>sentì la responsabilità del suo incosciente procedere</E
+M>avere</E
+M>a qualche cosa</E
+M>all&#8217;appello</E
+M>all&#8217;esame dei capi d&#8217;accusa</E
+M>all&#8217;escussione dei testi</E
+M>alla votazione</E
+M>al sequestro dei beni</E
+M>al fermo</E
+M>all&#8217;arresto di un delinquente</E
+M>contro qualcuno</E
+M>procedere</E
+M>si procederà contro i trasgressori nei termini di legge</E
+M>non doversi p</E
+M>non luogo a p</E
+M>autorizzazione a p</E
+M>essere</E
+M>S&#8217;el fu sì bel com&#8217;elli è ora brutto</E
+M> E contra &#8217;l suo fattore alzò le ciglia</E
+M> Ben dee da lui procedere ogne lutto</E
+M>da dove procede tanta meraviglia?</E
+M>la sua titubanza procede da timidezza</E
+M>procede dal Padre e dal Figlio</E
+M>procede dal Padre</E
+M>un moto procedente all&#8217;infinito</E
+M>disordine procedente da incuria</E
+M>da cattiva volontà</E
+M>sciocche lamentanze son queste</E
+M>e da poca considerazion procedenti</E

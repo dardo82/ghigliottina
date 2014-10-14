@@ -1,0 +1,174 @@
+aperto.txt
+"a cielo aperto"
+"a cielo aperto"
+"a circuito aperto"
+"a circuito aperto"
+"a cuore aperto"
+"a viso aperto"
+"all'aperto"
+"all'aperto"
+"all'aperto"
+"all'aperto"
+"all'aperto"
+"all'aperto"
+"all'aperto"
+"all'aperto"
+"all'aperto"
+"all'aperto"
+"all'aperto"
+"all'aperto"
+"all'aperto (anche fig)"
+"all'aperto, all'aria aperta"
+"allevamento all'aperto, allevamento libero"
+"aperto"
+"aperto"
+"aperto"
+"aperto"
+"aperto a"
+"aperto a nuove idee"
+"aperto a tutti"
+"aperto a tutti"
+"aperto agli attacchi"
+"aperto al pubblico"
+"aperto al pubblico"
+"aperto alle critiche"
+"aperto alle domande"
+"aperto di mente"
+"attività all'aperto"
+"bar all'aperto"
+"come un libro aperto"
+"completamente aperto"
+"completamente aperto"
+"conto aperto"
+"cuore aperto (con generosità)"
+"essere aperto a"
+"fondo aperto"
+"fondo comune di investimento aperto"
+"forum aperto"
+"gabinetto all'aperto"
+"galleria a cielo aperto"
+"garden party; ricevimento all'aperto"
+"in mare aperto"
+"individuo dedito alle attività all'aperto"
+"intervento a cielo aperto"
+"intervento a cuore aperto"
+"lavoro all'aperto"
+"libro aperto"
+"mare aperto"
+"mercato all'aperto"
+"mercato aperto"
+"mercato aperto"
+"negozio aperto dalle 7 alle 23"
+"nel mare aperto"
+"operazioni di mercato aperto"
+"ordine aperto"
+"pollo allevato all'aperto"
+"raduno all'aperto"
+"scaffale aperto"
+"sistema aperto"
+"spazio aperto"
+"spazio aperto"
+"spazio aperto"
+"sport all'aperto"
+"taglio aperto"
+"teatro all'aperto"
+"teatro all'aperto"
+"teatro all'aperto"
+"teatro all'aperto"
+"trivellazione in mare aperto"
+#*''Davanti a me si estendeva un ampio spazio '''aperto'''.''
+#*''Questa è tuttora un problema '''aperto'''.''
+#*''Adoro le persone di carattere '''aperto'''.''
+#*''Spero che vi rendiate conto che questo equivale a un''''aperta''' dichiarazione di guerra.''
+#*''"Doccia" ha la "o" '''aperta''' o chiusa?''
+#*''"Par-co" è composto da due sillabe
+#*agli edifici colla apertura delle porte di smalto diverso dalla costruzione o dal campo; 
+#* alle porte colle bande aperte;
+#* ai compassi, le forbici, gli elmi;
+#* alle melegrane spaccate;
+#* alle ali degli uccelli che si allontanano dal corpo;
+#* al libro schiuso
+*''(di questione, problema)''[[irrisolto]], [[insoluto]], [[pendente]]
+*''(di questione, problema)''[[chiuso]], [[concluso]], [[definito]], [[risolto]]
+*[[riaperto]], [[all'aperto]]
+M>aprire</E
+M>rtus</E
+M>aperire</E
+M>uscio a</E
+M>finestra a</E
+M>il negozio rimane a</E
+M>fino all’una</E
+M>sulla scrivania c’era un libro a</E
+M>restare</E
+M>rimanere a bocca a</E
+M>stare a occhi a</E
+M>tenere gli occhi a</E
+M>accogliere</E
+M>ricevere a braccia a</E
+M>lettera a</E
+M>vocale a</E
+M>sillaba a</E
+M>circuito a</E
+M>città a</E
+M>mercato a</E
+M>recensione a</E
+M>concorso a</E
+M>a tutti</E
+M>la seduta è a</E
+M>dibattito ancora a</E
+M>è una questione sempre a</E
+M>successione a</E
+M>conto a</E
+M>gara a</E
+M>partita ancora a</E
+M>trovarsi in a</E
+M>campagna</E
+M>combattere in campo aperto</E
+M>spiaggia a</E
+M>rada a</E
+M>porto a</E
+M>porto a</E
+M>a libeccio</E
+M>luogo a</E
+M>fronte a</E
+M>dormire all’aria a</E
+M>all’aperto</E
+M>mangiare</E
+M>dormire all’a.</E
+M>uno spettacolo all’aperto</E
+M>un’a</E
+M>dichiarazione</E
+M>professione a</E
+M>di umiltà</E
+M>guerra a</E
+M>carattere a</E
+M>a cuore a</E
+M>a viso a</E
+M>parlare a viso a</E
+M>Ma fu’ io solo</E
+M>Colui che la difesi a viso a</E
+M>faccia a</E
+M>parlare aperto</E
+M>essere a</E
+M>alle novità</E
+M>alle innovazioni</E
+M>essere a</E
+M>al dialogo</E
+M>a trattative</E
+M>a proposte di collaborazione; intelligenza a</E
+M>mentalità a</E
+M>fila a</E
+M>schiera a</E
+M>plotone a</E
+M>in linea aperta</E
+M>cambio</E
+M>vaso a.</E
+M>trachea</E
+M>del davanti</E
+M>del di dietro</E
+M>curva</E
+M>superficie a</E
+M>dire</E
+M>parlare</E
+M>confessare apertamente</E
+M>dichiarare apertamente</E

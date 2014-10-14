@@ -1,0 +1,66 @@
+contrasto.txt
+"a basso contrasto (luce)"
+"azione di contrasto"
+"contrariamente, in contrasto a"
+"contrasto"
+"contrasto"
+"contrasto"
+"contrasto di colore"
+"contrasto di fase"
+"contrasto di fase"
+"controllo del contrasto"
+"essere in contrasto con"
+"in contrasto"
+"in contrasto"
+"mettere in rilievo per contrasto"
+M>trovare</E
+M>incontrare c</E
+M>in qualche cosa</E
+M>Rivolger le sue forze ove contrasto Men duro trovi alfin si riconsiglia</E
+M>finitela coi c</E
+M>appianare un c</E
+M>i soliti c</E
+M>tra marito e moglie</E
+M>fiero</E
+M>accanito</E
+M>vivo</E
+M>aperto c</E
+M>fra parenti</E
+M>venire a contrasto</E
+M>con la destra man che ’l pugnal tiene</E
+M>Che trasse anch’egli in quel c</E
+M>fuore</E
+M>Tenta ferir Ruggier</E
+M>scontro</E
+M>navale</E
+M>aeronavale</E
+M>c. d’interessi</E
+M>d’ambizioni</E
+M>d’idee</E
+M>d’opinioni</E
+M>essere</E
+M>mettere in c</E
+M>un’idea in c</E
+M>con un’altra</E
+M>opinioni in c</E
+M>Senza c</E
+M>senza c</E
+M>il migliore è lui</E
+M>idea di contrasto</E
+M>di tinte</E
+M>di colori</E
+M>di suoni</E
+M>un c</E
+M>di luci e d’ombre</E
+M>mettere a c</E
+M>essere a c</E
+M>restare a contrasto</E
+M>carta contrasto</E
+M>carta dura</E
+M>regolatore</E
+M>comando di contrasto</E
+M>Mezzi di contrasto</E
+M>mezzi di c</E
+M>trasparenti</E
+M>mezzi di c</E
+M>opachi</E

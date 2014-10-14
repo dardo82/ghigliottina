@@ -1,0 +1,78 @@
+lampada.txt
+"(di lampada) montata sul lunotto posteriore"
+"genio della lampada"
+"lampada"
+"lampada a gas"
+"lampada a incandescenza"
+"lampada a incasso"
+"lampada a olio"
+"lampada a olio"
+"lampada a raggi infrarossi"
+"lampada a scarica"
+"lampada a stelo"
+"lampada ad arco"
+"lampada ai vapori di sodio"
+"lampada al mercurio"
+"lampada da lettura"
+"lampada da muro"
+"lampada da notte"
+"lampada da tavolo"
+"lampada da terra"
+"lampada elettrica"
+"lampada fluorescente"
+"lampada portatile"
+"lampada solare"
+"lampada trappola"
+* [[lampadina]], [[lampadario]], [[portalampada]]
+*Enciclopedia [http
+M>lampas</E
+M>dis</E
+M>lamp</E
+M>a fiamma</E
+M>candele</E
+M>torce</E
+M>fiaccole</E
+M>elettriche</E
+M>a filamento</E
+M>a incandescenza</E
+M>a vapori di alogeni</E
+M>lampo</E
+M>ad arco</E
+M>a conduzione gassosa</E
+M>elettroluminescenti</E
+M>fluorescenti</E
+M>tubi fluorescenti</E
+M>a raggi ultravioletti</E
+M>l. di Wood</E
+M>a lampo di luce elettronico</E
+M>lume</E
+M>lucerna</E
+M>lanterna</E
+M>candeliere</E
+M>a petrolio</E
+M>elettrica</E
+M>da tavolo</E
+M>da parete</E
+M>da soffitto</E
+M>portatile</E
+M>tascabile</E
+M>eucaristica</E
+M>votiva</E
+M>grisoumetrica</E
+M>per transilluminazione</E
+M>endoscopiche</E
+M>scialitica</E
+M>senza ombre</E
+M>frontale</E
+M>Festa delle l</E
+M>dei lumi</E
+M>a spirito</E
+M>a petrolio</E
+M>lampada da saldatore</E
+M>a benzina</E
+M>bruciatore</E
+M>tubo termoelettronico</E
+M>oscillatrice</E
+M>radioricevitore a tre lampade</E
+M>di Aladino</E
+M>Mille e una notte</E

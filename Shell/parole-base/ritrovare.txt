@@ -1,0 +1,103 @@
+ritrovare.txt
+"ritrovare"
+"ritrovare"
+"ritrovare"
+"ritrovare, replace: ritrovarsi"
+"ritrovare, replace: ritrovarsi"
+"ritrovare, replace: ritrovarsi"
+"ritrovare la selvaggina"
+"ritrovare la traccia (di cane)"
+*(2) [[recuperare]]
+*(3) [[reincontrare]]
+*[[ritrovabile]]
+*[[ritrovarsi]]
+*[[ritrovamento]]
+*[[ritrovato]]
+*[[ritrovatore]]
+*[[ritrovo]]
+M>trovare</E
+M>io ritròvo</E
+M>ho lasciato un&#8217;altra volta la borsa in treno</E
+M>speriamo di ritrovarla</E
+M>come la volta scorsa</E
+M>se la ritrovo a origliare</E
+M>quella ficcanaso</E
+M>la sistemo io!</E
+M>trovare</E
+M>non riusciva a r</E
+M>la strada</E
+M>l&#8217;uscita</E
+M>i soccorritori li hanno ritrovati ancora in vita</E
+M>un bambino perdutosi nella calca</E
+M>un figlio scomparso</E
+M>un amico ritenuto morto</E
+M>un vecchio compagno di scuola</E
+M>il cane smarrito</E
+M>un canarino volato via</E
+M>le chiavi di casa</E
+M>gli occhiali</E
+M>il portafoglio</E
+M>la patente di guida</E
+M>finalmente ritrovò il bambino in una strada del centro</E
+M>sono riuscita a r</E
+M>l&#8217;anello di brillanti</E
+M>era sotto un tappeto</E
+M>alla fine la lettera fu ritrovata nel cestino della carta straccia</E
+M>la strada</E
+M>il cammino</E
+M>le orme della selvaggina</E
+M>il filo del discorso</E
+M>la salute</E
+M>le forze</E
+M>l&#8217;energia</E
+M>la forma</E
+M>la serenità</E
+M>la fiducia nella vita</E
+M>la fede</E
+M>la pace</E
+M>la calma</E
+M>il buonumore</E
+M>la soluzione di un problema scientifico</E
+M>nuove tecniche di produzione</E
+M>una nuova terapia dell&#8217;artrite</E
+M>un nuovo rimedio farmacologico</E
+M>non ce lo ritrovo davvero</E
+M>in quel ritratto</E
+M>un regista come lui</E
+M>in quel filmetto di cassetta</E
+M>non lo ritrovo proprio</E
+M>un disegno</E
+M>le linee di un disegno</E
+M>battendola forte</E
+M>l&#8217;andava le costure ritrovando</E
+M>ritrovarsi</E
+M>s&#8217;è ritrovato sul conto un addebito che non sa spiegarsi</E
+M>mi son ritrovato addosso una cimice</E
+M>e non so come me la sia presa</E
+M>con quella miseria che si ritrova</E
+M>non può certo scialare</E
+M>con quel sonno che mi ritrovavo</E
+M>mi toccò alzarmi e uscire di corsa</E
+M>hai anche il coraggio di fare il bellimbusto</E
+M>con la faccia che ti ritrovi!</E
+M>desidero ritrovarmi ancora con lui</E
+M>fugge di ritrovarsi con quella e di rivederla</E
+M>se io senza indugio non mi ritruovo seco per certo io me ne credo morire</E
+M>separandosi</E
+M>decisero di ritrovarsi tutti a cena</E
+M>si ritrovarono dopo molto tempo</E
+M>la sera ci si ritrova al circolo</E
+M>gli piacerebbe ritrovarsi giovane e spensierato come allora!</E
+M>non vorrei ritrovarmi ancora in quelle condizioni!</E
+M>Mi ritrovai per una selva oscura</E
+M>dopo un lungo giro si ritrovò nello stesso punto dal quale era partito</E
+M>dopo tanta fatica dovevo ritrovarmi a questo punto!</E
+M>se continui così finirai per ritrovarti male</E
+M>Ritrovarcisi</E
+M>pur mancando dalla città da molti anni ci si ritrovava facilmente</E
+M>in mezzo a tutti questi conti non mi ci ritrovo proprio</E
+M>lui nella vita militare ci si ritrova bene</E
+M>fra quei maleducati</E
+M>io non mi ci ritrovo.</E
+M>È arzillo e gaio</E
+M>Par che dal giubilo Non si ritrovi</E

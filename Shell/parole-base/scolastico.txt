@@ -1,0 +1,44 @@
+scolastico.txt
+"anno scolastico"
+"assistente socio-sanitario scolastico"
+"ballo formale di fine anno scolastico"
+"ballo scolastico"
+"calendario scolastico"
+"comitato scolastico"
+"consiglio scolastico"
+"debito scolastico (formativo)"
+"dirigente scolastico"
+"distretto scolastico"
+"edificio scolastico"
+"edificio scolastico"
+"grado della scuola, grado scolastico"
+"inserimento scolastico"
+"istituto scolastico"
+"materiale scolastico"
+"obbligo scolastico"
+"orario scolastico"
+"ottimo (giudizio scolastico)"
+"percorso scolastico"
+"periodo scolastico"
+"plesso scolastico"
+"polo scolastico"
+"precario scolastico"
+"registro scolastico"
+"scolastico"
+"scolastico"
+"scolastico"
+"scolastico"
+"filosofo scolastico"
+"scolastico"
+"sovraintendente scolastico"
+"supervisore scolastico"
+#* ''a [[settembre]] inizia il [[nuovo]] [[anno]] '''scolastico'''''
+#* ''il mio inglese è fermo ad un livello '''scolastico'''''
+#* ''Luigi è uno scolastico dei Gesuiti''
+*''(nel significati collegati alla filosofia scolastica)'' dal [[latino]] ''[[scholasticus]]''
+*''(negli altri significati)'' dal [[greco]] ''[[σχολαστικός]]'', derivato di ''[[σχολή]]''
+*[[scolasticamente]]
+*[[scolastica]]
+*[[scolasticamente]]
+*[[scolasticismo]]
+*[[scuola]]

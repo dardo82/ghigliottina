@@ -1,0 +1,84 @@
+discussione.txt
+"discussione"
+"discussione"
+"discussione"
+"discussione accesa"
+"discussione aperta"
+"discussione congiunta"
+"discussione della tesi"
+"discussione impari"
+"discussione insignificante"
+"discussione unilaterale"
+"discutere, portare avanti una discussione"
+"gruppo di discussione (anche in internet)"
+"in discussione"
+"in discussione"
+"in discussione"
+"intavolare una discussione"
+"la discussione si è arenata"
+"luogo di discussione"
+"mettere in discussione"
+"mettere in discussione"
+"mettere in discussione qualcosa"
+"mettersi in discussione"
+"non in discussione"
+"oggetto di discussione"
+"senza discussione"
+#* ''la 
+#* ''la 
+*[[dibattito]], scambio di vedute, [[confronto]], scambio di idee; [[controversia]], [[polemica]], [[diatriba]], [[questione]], [[contesa]], [[disputa]], [[disquisizione]], [[dissertazione]], [[trattazione]]
+*[[dialogo]], [[colloquio]],[[discorso]] 
+*[[esame]], [[analisi]] 
+*[[litigio]], [[lite]], [[battibecco]], [[alterco]], [[diverbio]], [[contrasto]]
+*[[dibattimento]]
+*[[accordo]], [[consenso]], [[intesa]]
+M>discussio</E
+M>onis</E
+M>iniziare</E
+M>aprire</E
+M>intavolare</E
+M>suscitare</E
+M>rinviare</E
+M>chiudere una d</E
+M>intervenire nella d</E
+M>fare una d</E
+M>intorno</E
+M>sopra un argomento</E
+M>di un progetto di legge</E
+M>mettere</E
+M>andare in d</E
+M>fatto</E
+M>argomento in d</E
+M>letteraria</E
+M>scientifica</E
+M>accademica</E
+M>una d</E
+M>amichevole</E
+M>pacata</E
+M>vivace</E
+M>animata</E
+M>appassionata</E
+M>tempestosa</E
+M>inutile</E
+M>infruttuosa</E
+M>della tesi di laurea</E
+M>d. della causa</E
+M>d. finale</E
+M>ebbero una violenta d</E
+M>per motivi d’interesse</E
+M>ad evitare discussioni</E
+M>qui c’è scritto esattamente tutto quello che dovete fare</E
+M>ho pagato quanto mi chiedeva</E
+M>ho firmato il contratto</E
+M>ho accettato l’offerta</E
+M>senza discussioni</E
+M>non facciamo discussioni!</E
+M>mettere in discussione</E
+M>non metto in d</E
+M>la sua buona fede</E
+M>la perfetta onestà del suo operato</E
+M>nel prossimo consiglio metteremo in d. il tuo progetto</E
+M>essere fuori discussione</E
+M>la sua responsabilità è ormai fuori d</E
+M>è fuori d</E
+M>che in tutto questo io non c’entro</E

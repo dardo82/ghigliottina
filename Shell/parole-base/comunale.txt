@@ -1,0 +1,18 @@
+comunale.txt
+"amministratore comunale"
+"banditore comunale"
+"comunale"
+"consigliere comunale"
+"consiglio comunale"
+"consiglio comunale"
+"consiglio comunale"
+"farmacia comunale"
+"messo comunale"
+"piscina comunale"
+"scuola comunale"
+"segretario comunale"
+"ufficio comunale"
+*[[municipale]]
+*[[comunanza]], [[comunardo]]
+*[[provinciale]], [[regionale]], [[nazionale]], [[internazionale]], [[continentale]], [[universale]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 474

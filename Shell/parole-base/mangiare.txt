@@ -1,0 +1,67 @@
+mangiare.txt
+"andare a pranzo, andare a mangiare, uscire per pranzo"
+"astenersi dal mangiare"
+"buono da mangiare"
+"cibo da mangiare con le dita; cibo da cocktail"
+"dar da mangiare erba"
+"divorare; mangiare con avidità"
+"far mangiare la polvere a qn"
+"finire di mangiare, finire tutto il pasto"
+"finito di mangiare, mangiato completamente"
+"il mangiare senza moderazione"
+"mangiare"
+"atto del mangiare"
+"mangiare"
+"mangiare"
+"mangiare"
+"mangiare"
+"mangiare"
+"mangiare"
+"mangiare a casa"
+"mangiare a proprio piacimento"
+"mangiare a sazietà"
+"mangiare al ristorante"
+"mangiare all'interno"
+"mangiare avidamente"
+"mangiare avidamente"
+"mangiare bene"
+"mangiare bene"
+"mangiare come un maiale"
+"mangiare da cani"
+"mangiare di fretta"
+"mangiare di tutto"
+"mangiare fuori"
+"mangiare il pesce"
+"mangiare in bianco"
+"mangiare pietanze scondite"
+"mangiare in modo esagerato"
+"mangiare in modo smoderato"
+"mangiare in terrazza"
+"mangiare la foglia"
+"mangiare la polvere"
+"mangiare le unghie"
+"mangiare pane e volpe"
+"mangiare senza moderazione"
+"mangiare smoderatamente"
+"mangiare voracemente"
+"mangiare voracemente, con gusto"
+"mangiare; consumare"
+"scavare trincee; mangiare con avidità"
+"ti voglio mangiare"
+"vivere per mangiare"
+#*''mangiare lentamente può moderare l'appetito, perché il cervello impiega dieci minuti per registrare la sensazione di sazietà''
+#*''devi mangiare il cavallo''
+*[[sfamarsi]], [[saziarsi]], [[sostentarsi]], [[rifocillarsi]]
+*[[assaggiare]], [[assaporare]], [[gustare]]
+*[[pranzare]], [[cenare]], [[pasteggiare]]
+*[[mangiucchiare]]
+*[[divorare]], [[inghiottire]], [[ingurgitare]]
+*''(di metalli)'' [[corrodere]], [[consumare]], [[logorare]], [[intaccare]], [[erodere]]
+*''(di denaro)'' [[sperperare]], [[dissipare]], [[dilapidare]], [[distruggere]]
+*''(negli scacchi, dama)'' [[prendere]], [[catturare]]
+*[[consumare]],   [[gustare]],  [[cibare]], [[alimentare]]
+*[[cibo]], [[pasto]], [[pietanza]], [[vivanda]]
+*[[mangiarsi]]
+* [[bere]]
+*''mangiare la foglia''
+*Devoto/Oli,''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1211

@@ -1,0 +1,40 @@
+pilastro.txt
+"pilastro"
+"pilastro"
+"pilastro"
+"pilastro"
+*[[colonna]], [[pilone]], [[piedritto]], [[pila]]
+*[[piliere]]
+* [[cardine]], [[base]], [[fulcro]]
+*[[pilastrata]], [[pilastrico]]
+*[[colonna]], [[parasta]], [[fondazione]], [[trave]]
+M>pila</E
+M>pilaster</E
+M>tri</E
+M>p. quadrangolare</E
+M> ottagonale</E
+M> cruciforme</E
+M>p. marmoreo</E
+M>p. monolitico</E
+M> a blocchi</E
+M>p. a fascio o polistilo</E
+M>piliere</E
+M>parasta</E
+M>P. cerchiato</E
+M>P. a fungo</E
+M>A pilastro</E
+M>femore a p</E
+M>essere il p. di un azienda</E
+M> di un’istituzione</E
+M> di un partito</E
+M> di una squadra</E
+M>le famiglie sono i p. della società</E
+M>la religione cristiana ha come suo fondamentale p. l’insegnamento evangelico</E
+M>p. tettonico</E
+M>pilastri del palato</E
+M>pilastri del diaframma</E
+M>pilastri del cuore</E
+M>p. anteriori</E
+M>posteriori del fornice</E
+M>trigono</E
+M>cerebrale</E

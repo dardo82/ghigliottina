@@ -1,0 +1,93 @@
+disco.txt
+"a disco doppio"
+"a forma di disco"
+"disco"
+"disco"
+"discotheque"
+"disco"
+"lancio del disco"
+"disco di gomma"
+"disco floreale"
+"disco intervertebrale"
+"disco intervertebrale"
+"disco long play, LP, vinile"
+"disco magnetico"
+"disco multiplo"
+"disco music"
+"disco music"
+"disco ottico"
+"disco solare"
+"disco volante"
+"ernia al disco"
+"freni a disco"
+"freno a disco"
+"freno a disco"
+"frizione a disco"
+"memoria del disco"
+"retro di un disco"
+"retro di un disco, parte B"
+"ruota a disco"
+"sistema disco"
+"sistema operativo su disco"
+"unità disco"
+*[[piatto]], [[ruota]], [[piastra]], [[anello]]; [[cerchio]], [[tondo]]
+*''(musica)'' [[microsolco]], [[long playing]], LP, 33 giri, 45 giri
+*''(informatica)''[[dischetto]], [[floppy disk]], [[compact disc]], [[CD]]
+*italiano
+*portoghese
+*spagnolo
+M>discus</E
+M>chi</E
+M>si è classificato primo nel disco</E
+M>disco sul ghiaccio</E
+M>dischi di segnalazione</E
+M>orario</E
+M>zona disco</E
+M>combinatore</E
+M>magnetico</E
+M>discpack</E
+M>unità a dischi magnetici</E
+M>d. rigido</E
+M>hard disk</E
+M>dischetti</E
+M>floppy disk</E
+M>CD ROM</E
+M>chiavetta</E
+M>cromatico</E
+M>di Newton</E
+M>a solco normale</E
+M>a microsolco</E
+M>dischi a lettura ottica</E
+M>compact disc</E
+M>incidere un d</E
+M>dischi di musica classica</E
+M>di musica leggera</E
+M>di musica jazz</E
+M>cambiare disco</E
+M>ripetere il solito d</E
+M>aperto</E
+M>chiuso</E
+M>il treno è fermo al d</E
+M>rosso</E
+M>verde</E
+M>patena</E
+M>intervertebrale</E
+M>ernia del disco</E
+M>germinativo</E
+M>germinale</E
+M>facciali</E
+M>del bulbo</E
+M>girello</E
+M>del capolino</E
+M>nettarifero</E
+M>il d</E
+M>del Sole</E
+M>della Luna</E
+M>nucleo</E
+M>dischetto</E
+M>Dischi volanti</E
+M>un dischetto di cartone</E
+M>dischetto del rigore</E
+M>dischetto</E
+M>tiro dal dischetto</E
+M>dischetto</E

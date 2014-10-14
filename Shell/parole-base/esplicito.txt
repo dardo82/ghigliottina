@@ -1,0 +1,25 @@
+esplicito.txt
+"esplicito"
+"esplicito"
+#*''parlare in modo esplicito''
+*[[chiaro]], [[lampante]], [[espresso]], [[preciso]], non sottinteso, senza sottintesi, [[dichiarato]], [[perspicuo]], [[evidente]], [[manifesto]], [[diretto]]
+*[[implicito]], [[vago]], [[ambiguo]], [[sottinteso]], [[allusivo]]
+M>explic</E
+M>tus</E
+M>explicare</E
+M>parole e</E
+M>dichiarazione</E
+M>promessa</E
+M>condizione e</E
+M>ordine e</E
+M>con l’e</E
+M>consenso</E
+M>desidero una risposta e</E
+M>gli parlò in modo esplicito</E
+M>proposizioni e</E
+M>di forma e</E
+M>implicite</E
+M>dire</E
+M>manifestare esplicitamente il proprio punto di vista</E
+M>dichiarare esplicitamente il proprio dissenso</E
+M>il sindacato aveva condannato esplicitamente la politica governativa</E

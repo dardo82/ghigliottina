@@ -1,0 +1,18 @@
+abortire.txt
+"abbandonare, abortire"
+"abortire"
+"abortire"
+M>abortire</E
+M>abortus</E
+M>io abortisco</E
+M>tu abortisci</E
+M>avere</E
+M>in seguito a una caduta</E
+M>manovre</E
+M>pratiche per fare a</E
+M>la mucca ha abortito</E
+M>essere</E
+M>i frutti del pesco sono abortiti per il gran gelo</E
+M>l’impresa abortì</E
+M>il tentativo è miseramente abortito</E
+M>un’iniziativa abortita</E

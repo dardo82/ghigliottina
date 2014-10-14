@@ -1,0 +1,81 @@
+acciaio.txt
+"acciaio"
+"acciaio"
+"acciaio ad alta velocità"
+"acciaio al carbonio"
+"acciaio al cromo-vanadio"
+"acciaio al nichel"
+"acciaio al nichelio"
+"acciaio al vanadio"
+"acciaio brunito"
+"acciaio con alta percentuale di carbon fossile"
+"acciaio cromato"
+"acciaio da bonifica"
+"acciaio dolce"
+"acciaio freddo"
+"acciaio fuso"
+"acciaio inossidabile"
+"acciaio inossidabile"
+"acciaio inossidabile austenitico"
+"acciaio inox"
+"acciaio legato"
+"acciaio per utensili"
+"acciaio zincato a caldo"
+"barra d'acciaio"
+"cavallo d'acciaio"
+"costruzione d'acciaio"
+"grigio acciaio"
+"in acciaio fuso"
+"incisione su acciaio"
+"industria dell'acciaio, siderurgia"
+"lamiera d'acciaio"
+"lana d'acciaio"
+"lastra d'acciaio"
+"natiche d'acciaio"
+"nervi d'acciaio"
+"nervi di acciaio"
+"placcare in acciaio"
+"polmone d'acciaio"
+"recinto di rete a maglie in acciaio"
+"rete di acciaio zincata ferro per reti etc."
+"struttura d'acciaio"
+"tutto di acciaio"
+"uomo d'acciaio"
+#*''Verso il 1870, in Europa, il ferro veniva sostituito dall'acciaio''
+* [[acciaieria]]
+* [[ferro]], [[siderurgia]], [[altoforno]], [[metalmeccanico]]
+*''d'acciaio''
+*Enciclopedia [http
+M>ferrum</E
+M>aciarium</E
+M>acies</E
+M>chalybs</E
+M>la detta corona si dà in Milano</E
+M>ed è di fino acciaio forbito a spada</E
+M>una superficie piana</E
+M>pulitissima come uno specchio e di materia dura come l’acciaio</E
+M>su suola</E
+M>acciai al solo carbonio</E
+M>acciai speciali</E
+M>inossidabile</E
+M>grigio acciaio</E
+M>azzurro</E
+M>blu acciaio</E
+M>duro</E
+M>resistente come l’a</E
+M>sguardo freddo e penetrante come una lama d’a</E
+M>d’acciaio</E
+M>essere d’a</E
+M>essere fatto d’a</E
+M>mascelle</E
+M>petti d’a</E
+M>Il poeta è un grande artiere</E
+M>Che al mestiere Fece i muscoli d’a</E
+M>avere nervi d’a</E
+M>una volontà d’a</E
+M>occhi d’a</E
+M>, sguardo d’a</E
+M>Patto d’a</E
+M>acciaro</E
+M>fatto con la pietra e con l’acciaio che seco portato avea un poco di fuoco</E
+M>il suo torchietto accese</E

@@ -1,0 +1,37 @@
+inseguimento.txt
+"all'inseguimento"
+"all'inseguimento di"
+"inseguimento"
+"inseguimento"
+"inseguimento ravvicinato"
+"l'inseguimento, la caccia"
+"ricerca; inseguimento inutile"
+"stazione d'inseguimento"
+"sulle tracce di, all'inseguimento di, alla ricerca di"
+*[[pedinamento]], [[caccia]], [[ricerca]], [[tallonamento]], [[corsa]]
+*[[fuga]], [[arresto]], [[cattura]]
+* [[inseguire]], [[inseguitore]]
+M>l’i</E
+M>di un ladro</E
+M>l’i</E
+M>della lepre da parte dei cani; l’i</E
+M>del nemico in ritirata</E
+M>darsi</E
+M>gettarsi</E
+M>lanciarsi all’i</E
+M>la nostra flotta si lanciò all’i</E
+M>di quella nemica</E
+M>i bombardieri riuscirono a sfuggire all’i</E
+M>degli apparecchi da caccia</E
+M>cessare l’i</E
+M>dall’inseguimento</E
+M>gara ad i</E
+M>inseguimento</E
+M>individuale</E
+M>a coppie</E
+M>a squadre</E
+M>curva d’i</E
+M>curva di fuga</E
+M>curva di caccia</E
+M>curva del cane</E
+M>dispositivi ad i</E

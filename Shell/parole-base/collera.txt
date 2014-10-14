@@ -1,0 +1,31 @@
+collera.txt
+"(essere) in collera"
+"(essere) in collera"
+"che stimola la collera"
+"collera"
+"collera"
+"in collera"
+"in collera"
+"montare in collera"
+"offesa, collera, luna storta"
+"rabbia, collera, ira"
+"stato di collera"
+#* ''la '''collera''' del mare''
+*[[rabbia]], [[ira]], [[irritazione]], [[sdegno]], [[risentimento]], [[rancore]], [[indignazione]], [[stizza]]
+* [[furore]]
+*[[calma]], [[tranquillità]], [[serenità]]
+*[[self-control]]
+M>chol</E
+M>andare</E
+M>montare in c</E
+M>con uno</E
+M>contro uno</E
+M>essere in c</E
+M>con qualcuno</E
+M>sfogare</E
+M>reprimere la c</E
+M>non saper trattenere la collera</E
+M>la c</E
+M>del vento</E
+M>del mare</E
+M>degli elementi naturali</E

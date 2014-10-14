@@ -1,0 +1,71 @@
+posteriore.txt
+"(di lampada) montata sul lunotto posteriore"
+"adesivo per il paraurti posteriore"
+"automobile con portellone posteriore, automobile a tre\/cinque porte"
+"cortile posteriore"
+"cortile posteriore"
+"estremità posteriore"
+"giardino posteriore"
+"giardino posteriore"
+"luce posteriore"
+"luce posteriore, fanalino di coda"
+"mezzo militare a trazione posteriore"
+"nella parte posteriore"
+"parte posteriore"
+"parte posteriore"
+"parte posteriore"
+"parte posteriore"
+"parte posteriore"
+"parte posteriore"
+"portellone posteriore"
+"posteriore"
+"posteriore"
+"posteriore"
+"posteriore alla morte"
+"quarto posteriore"
+"rotore posteriore"
+"sedere; posteriore; deretano"
+"sedile posteriore"
+"sponda posteriore"
+"tasca posteriore"
+"tergicristallo posteriore"
+"zampa posteriore"
+"zona posteriore"
+*di [[dietro]], [[retrostante]], [[seguente]], [[successivo]], [[ulteriore]] 
+*[[didietro]], [[natiche]], [[terga]]
+*[[antecedente]], [[anteriore]], [[precedente]], [[davanti]], [[frontale]] 
+*[[posteriormente]], [[posteriorità]], [[postero]], [[postero-]], [[post-]]
+M>posterior</E
+M>oris</E
+M>post</E
+M>rus</E
+M>la parte p. della nave</E
+M>la tasca p</E
+M>dei pantaloni</E
+M>la parte</E
+M>il treno</E
+M>del cavallo</E
+M>del cane</E
+M>gli arti p</E
+M>del cavallo</E
+M>i p</E
+M>prendere posto nei sedili p</E
+M>dell&#8217;autobus</E
+M>le parti p</E
+M>il posteriore</E
+M>articolazione p</E
+M>vocali p</E
+M>gli avvenimenti p</E
+M>gli scritti p</E
+M>l&#8217;azione è p</E
+M>rispetto a quella della proposizione reggente</E
+M>narrazioni p</E
+M>anni p</E
+M>il codice è p</E
+M>di un anno alla morte dell&#8217;autore</E
+M>i poeti p</E
+M>a Dante</E
+M>i pittori p</E
+M>a Raffaello</E
+M>il giardino è situato posteriormente alla casa</E
+M>la situazione verrà analizzata posteriormente</E

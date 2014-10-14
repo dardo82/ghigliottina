@@ -1,0 +1,50 @@
+affondare.txt
+"affondare"
+"affondare"
+"affondare"
+#* '''''affondare''' un' iniziativa''
+#* '''''affondare''' i piedi nel fango''
+#* '''''affondare''' i denti nella carne''
+#* '''''affondava''' il viso nel guanciale bagnato di lacrime'' (Verga)
+#* ''mi disse parlando rado e '''affondandomi''' ad ogni parola un solco nell' anima'' (Fucini)
+#* '''''affondare''' nelle sabbie mobili''
+#* ''il progetto è '''[[affondato]]'''''
+*[[sommergere]], [[immergere]], [[inabissare]], fare naufragare
+*(un coltello)[[spingere]], [[piantare]], [[conficcare]]
+*(specialmente di imbarcazioni) andare a fondo, [[scomparire]], [[sprofondare]], [[affogare]], [[annegare]], [[naufragare]], [[tuffarsi]], [[inabissarsi]]
+* ''(un’imbarcazione)'' [[colare a picco]],
+*''(l'ancora)'' [[calare]]
+*(di terreno) [[abbassarsi]]
+* portare a galla, [[salvare]], [[soccorrere]], [[ripescare]]
+*[[togliere]],[[estrarre]]
+*(specialmente di imbarcazioni) [[galleggiare]], [[riaffiorare]], [[emergere]]
+M>affundare</E
+M>fundus</E
+M>io affóndo</E
+M>una nave</E
+M>un’ancora</E
+M>un galleggiante</E
+M>l’aratro nel terreno</E
+M>i piedi nel fango</E
+M>le radici nella terra</E
+M>affondò avidamente i denti nella carne</E
+M>affondava il viso nel guanciale bagnato di lacrime</E
+M>una buca</E
+M>un fossato</E
+M>mi disse parlando rado e affondandomi ad ogni parola un solco nell’anima</E
+M>essere</E
+M>la nave affondò in pochi minuti</E
+M>i piedi affondavano nella neve</E
+M>in questo fango ci si affonda</E
+M>anche i più onesti affondarono in quel marasma</E
+M>molti sono affondati nei peggiori vizî</E
+M>l’aratro s’affondava nella terra</E
+M>la barchetta s’affondò lentamente</E
+M>teneva le mani affondate nelle tasche</E
+M>dormiva con la faccia affondata nel cuscino</E
+M>parlava adagio</E
+M>affondato in una grande poltrona di pelle</E
+M>una chiesetta quasi affondata nella valle</E
+M>strade e stradette</E
+M>ogni tanto affondate</E
+M>sepolte tra due muri</E

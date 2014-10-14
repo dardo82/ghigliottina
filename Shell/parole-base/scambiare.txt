@@ -1,0 +1,57 @@
+scambiare.txt
+"fare una breve chiacchierata, scambiare due chiacchiere, scambiare due parole"
+"scambiare"
+"scambiare"
+"scambiare, replace: scambiarsi"
+"scambiare il posto con"
+"scambiare impressioni"
+"scambiare pensieri"
+"scambiare per denaro"
+"scambiare quattro parole"
+"scambiare una cosa per un'altra"
+*[[sbagliare]], [[confondere]], [[equivocare]], [[errare]]
+*[[cambiare]], [[invertire]], [[sostituire]], [[spostare]], [[commutare]]
+*dare in cambio, fare il cambio, [[barattare]], [[permutare]]
+*[[commerciare]]
+*[[dire]], [[comunicare]]
+*[[riconoscere]], [[identificare]], [[individuare]], [[ravvisare]]
+*[[mantenere]], [[conservare]], [[confermare]]
+*[[scambiarsi]], [[scambiato]], [[scambiatore]], [[scambievole]],[[scambio]], [[scambista]]
+*[[cambiare]]
+*''scambiare due chiacchere''
+* Giuseppe Pittano, ''Il mio primo dizionario illustrato'' , edizione 1995, DeAgostini, Novara  
+M>cambiare</E
+M>io scàmbio</E
+M>ti avevo scambiato per tuo fratello</E
+M>i due gemelli sono così somiglianti che si scambiano facilmente l&#8217;uno con l&#8217;altro</E
+M>sta&#8217; attento a non s. il sale per lo zucchero</E
+M>ieri sera al ristorante mi hanno scambiato l&#8217;impermeabile</E
+M>è meglio che porti con me la cartella: non vorrei che al guardaroba qualcuno me la scambiasse</E
+M>s. le carte in mano</E
+M>tra mano</E
+M>cambiare</E
+M>vorrei s. la mia villa di campagna con un appartamento in città</E
+M>ha scambiato la sua vecchia automobile con un ciclomotore nuovo.</E
+M>s. una parola</E
+M>due parole</E
+M>due chiacchiere con qualcuno</E
+M>vieni a trovarmi</E
+M> è tanto che non scambiamo due parole.</E
+M>cambiare</E
+M>per favore</E
+M> mi può s. questo biglietto da cento euro?</E
+M>scambiarsi gli auguri per il nuovo anno</E
+M>scambiarsi i regali</E
+M>scambiarsi sguardi</E
+M>occhiate</E
+M>insulti</E
+M>confidenze</E
+M>insolenze</E
+M>s. i prigionieri</E
+M>scambiamoci il posto</E
+M>di posto</E
+M>scambiarsi il cavaliere</E
+M>la dama</E
+M>il compagno</E
+M>la compagna</E
+M>sistemi che si scambiano azioni elettromagnetiche.</E

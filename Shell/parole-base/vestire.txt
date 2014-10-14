@@ -1,0 +1,121 @@
+vestire.txt
+"modo di vestire"
+"vestire"
+"vestire"
+"vestire"
+"vestire a festa"
+"vestire alla marinara"
+"vestire in modo informale"
+"vestire splendidamente"
+#*'' è sempre trasandato nel vestire''
+#*''il cavaliere, prima della sfida all'ultimo sangue, vestì la corazza'' 
+#*''non veste mai di nero''
+*[[coprire]], [[abbigliare]], [[agghindare]], [[ammantare]], [[infagottare]]
+*''(cosa)'' [[portare]], [[avere]], [[cingere]]
+*''(capo d’abbigliamento)'' [[indossare]], [[mettere]], [[infilare]], [[calzare]], [[abbigliare]]
+*''(di indumento)'' [[adattarsi]], [[stare]] [[a]] [[pennello]], stare [[bene]] [[indosso]], cadere bene.
+*[[vestiario]],[[abbigliamento]], [[veste]]
+*[[svestire]]
+*[[vestirsi]], [[vestito]], [[vestimento]]
+M>vestis</E
+M>io vèsto</E
+M>v. il bambino</E
+M>v. i ragazzi con gli abiti della festa</E
+M>v. la bambola</E
+M>altri ti veste La serica zimarra</E
+M>v. gli ignudi</E
+M>era tutto stracciato e dovettero vestirlo da capo a piedi</E
+M>con il suo magro stipendio deve v. la moglie e cinque figlioli</E
+M>l’hanno raccolto orfano e per anni l’hanno nutrito e vestito</E
+M>la veste una sarta molto brava</E
+M>è una sartoria che veste la migliore società della capitale</E
+M>vestirsi</E
+M>si stava vestendo</E
+M>vèstiti</E
+M> non girare per casa così mezzo nudo</E
+M>quanto ci mette a vestirsi?</E
+M>hai dieci anni</E
+M> e non sai ancora vestirti da solo?</E
+M>mi vesto subito</E
+M> e vengo con te</E
+M>dovrei uscire</E
+M> ma mi secca vestirmi</E
+M>devo ancora vestirmi</E
+M> e gli ospiti arriveranno tra poco</E
+M>vestirsi con abiti pesanti</E
+M>vestirsi da estate</E
+M>da inverno</E
+M>vestirsi di cotone</E
+M>di lana</E
+M>vestirsi in divisa</E
+M>in borghese</E
+M>in costume</E
+M>in maschera</E
+M>da maschera</E
+M>vestirsi di rosso</E
+M>d’azzurro</E
+M>si veste dal migliore sarto</E
+M>nella sartoria più fine della città</E
+M>v. l’armatura</E
+M>la corazza</E
+M>v. abiti di raso</E
+M>di seta</E
+M>di velluto</E
+M>vestiva poveri panni</E
+M>veste sempre colori molto chiari</E
+M>Vestonsi le corazze</E
+M>v. l’abito talare</E
+M>l’abito religioso</E
+M>il saio</E
+M>v. la divisa militare</E
+M>v. la livrea</E
+M>v. la toga</E
+M>vestiva di nero</E
+M>vestiva a lutto</E
+M>veste sempre di grigio</E
+M>di nero</E
+M>di solito veste in maniera bizzarra</E
+M>veste alla moda</E
+M>veste bene</E
+M>male</E
+M>si veste con molto gusto</E
+M>non sa vestire</E
+M>vestirsi</E
+M>guarda come ti veste</E
+M>ti veste bene</E
+M>questa giacca!</E
+M>è una taglia d’abito che veste troppo</E
+M>v. un fiasco di paglia</E
+M>v. gli altari</E
+M>Ovunque vola</E
+M> veste la campagna Di rose</E
+M> gigli</E
+M> violette e fiori</E
+M>l’edera che veste il muro</E
+M>Lieta dell’aër tuo veste la Luna Di luce limpidissima i tuoi colli</E
+M>v. di forma sonante concetti comuni</E
+M>tu che ardisci in terra Vestir d’eterna giovinezza il marmo</E
+M>gli anni de la età matura onesta Che i vizi spoglia</E
+M> e vertù veste e onore</E
+M>Padre ... tu ne vestisti Queste misere carni</E
+M> e tu le spoglia</E
+M>il Figlio di Dio vestì umana carne</E
+M>in primavera i prati si vestono di fiori</E
+M>la natura si veste di vivaci colori</E
+M>stampata dal piè sacro e divino</E
+M> D’erbe e di fior l’arena si vestissi</E
+M>Quivi sto io con quei che le tre sante Virtù non si vestiro</E
+M>Qui tutta umile e qui la vidi altera ...; Or vestirsi onestate</E
+M> or leggiadria</E
+M>spende molto nel v.</E
+M>per il v.</E
+M>ciò che guadagna gli basta appena per il mangiare e il vestire</E
+M>un v. semplice</E
+M>ricercato</E
+M>vestir semplice eletto</E
+M>donna in un v. schietto</E
+M>il cavalliero Ch’avea di fiori il bel vestir trapunto</E
+M>li feci i varii ornamenti diporre e in una simiglianza i suo vestiri ridussi</E
+M>Ella si va</E
+M> sentendosi laudare</E
+M> Benignamente d’umiltà vestuta</E

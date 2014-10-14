@@ -1,0 +1,22 @@
+acconto.txt
+"acconto"
+"acconto e saldo"
+"acconto in contanti"
+"acconto provvigioni"
+"ritenuta d'acconto"
+"versare un acconto"
+#* ''Riscuotere un '''acconto''', pagare un '''acconto'''''.
+*[[caparra]], [[anticipo]], [[rata]], [[pegno]] 
+M>a conto</E
+M>saldo</E
+M>avere</E
+M>dare</E
+M>versare una somma in a</E
+M>chiedere</E
+M>ricevere</E
+M>dare un a</E
+M>sullo stipendio</E
+M>sul compenso pattuito</E
+M>ritenuta d’acconto</E
+M>prendi questi due schiaffi come a</E
+M>poi ti darò il resto</E

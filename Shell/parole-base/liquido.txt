@@ -1,0 +1,131 @@
+liquido.txt
+"azoto liquido"
+"combustibile liquido"
+"cristallo liquido"
+"cromatografia gas-liquido (GLC)"
+"denaro liquido; contanti (fam.)"
+"elio liquido"
+"estratto liquido"
+"fertilizzante liquido"
+"fuoco liquido"
+"fuoriuscita di liquido"
+"gas liquido"
+"il volume lasciato in cima a un contenitore riempito di liquido"
+"liquido"
+"liquido"
+"liquido"
+"liquido altamente combustibile"
+"liquido amniotico"
+"liquido amniotico"
+"liquido cerebrospinale"
+"liquido dei freni"
+"liquido detergente"
+"liquido inebriante"
+"liquido organico"
+"liquido seminale"
+"oro liquido"
+"ossigeno liquido"
+"punto (temperatura) in cui un liquido cola"
+"rendere liquido"
+"sapone liquido"
+"sapone liquido"
+"saturare (di liquido)"
+"vetro liquido"
+*[[fluido]]
+*[[scorrevole]]
+* ''(di alimento, bevanda)'' [[allungato]]
+*''(di somma, obbligazione)'' non controverso
+*(di denaro) [[contante]], [[soldi]], [[moneta]], [[liquidità]], [[fondi]]
+*[[solido]]
+*[[viscoso]]
+*[[gassoso]], [[gas]]
+M>liqu</E
+M>dus</E
+M>liquere</E
+M>solido</E
+M>aeriforme</E
+M>stato l</E
+M>il mercurio è un metallo allo stato liquido</E
+M>corpo l</E
+M>sostanza l</E
+M>un composto l</E
+M>gas l</E
+M>gas liquefatto</E
+M>L’elemento l</E
+M>le vie l</E
+M>solido</E
+M>aeriforme</E
+M>gassoso</E
+M>in pasta</E
+M>in polvere</E
+M>colla l</E
+M>gomma l</E
+M>cera l</E
+M>sapone liquido</E
+M>la minestra è troppo l</E
+M>un sugo piuttosto l</E
+M>una calcina poco liquida</E
+M>l’acqua è un l</E
+M>i l</E
+M>sono praticamente incomprimibili</E
+M>le leggi dei l</E
+M>la dinamica dei l</E
+M>misure di capacità per liquidi</E
+M>un l</E
+M>chiaro</E
+M>torbido</E
+M>nerastro</E
+M>denso</E
+M>acquoso</E
+M>oleoso</E
+M>amniotico</E
+M>cefalorachidiano</E
+M>cerebrospinale</E
+M>perfetto</E
+M>ideale</E
+M>newtoniano</E
+M>non newtoniani</E
+M>plastici</E
+M>dilatanti</E
+M>reopectici</E
+M>tixotropici</E
+M>pesanti</E
+M>cristallino</E
+M>cristallo l.</E
+M>liquido mesomorfico</E
+M>a liquido</E
+M>ammortizzatori a l</E
+M>idraulici</E
+M>termometri a l</E
+M>un l</E
+M>fonte</E
+M>Che mormorando cade giù dal monte</E
+M>Assetata discese Verso un l</E
+M>rivo</E
+M>fendendo il l</E
+M>sereno</E
+M>Quando per l’etra liquido si volve</E
+M>il flutto Polveroso de’ Noti</E
+M>un l</E
+M>sottile Foco che m’arde a la più algente bruma</E
+M>il canarino cantava nella sua gabbia variando i suoi modi con una voce l</E
+M>e forte</E
+M>non essendoci</E
+M>in tutta la filosofia</E
+M>cosa più chiara</E
+M>più l</E
+M>di questa</E
+M>obbligazione l</E
+M>conto</E
+M>credito</E
+M>debito l</E
+M>Denaro l</E
+M>avere disponibilità di liquido</E
+M>non avere più liquido</E
+M>Disponibilità l</E
+M>attività più</E
+M>meno l</E
+M>liquidità</E
+M>consonanti l</E
+M>liquide</E
+M>sonanti</E

@@ -1,0 +1,94 @@
+labbro.txt
+"labbro"
+"labbro"
+"labbro, replace: labbra"
+"labbro leporino"
+"labbro spaccato"
+#* ''il '''labbro''' [[inferiore]] è più [[tondeggiante]] di quello [[superiore]]''
+#* ''[[nonostante]] avessimo molto [[insistito]] le sue '''labbra''' rimasero [[mute]]
+*[[labbro leporino]]
+* ''[[pendere]] dalle '''labbra''' di qualcuno''
+M>labrum</E
+M>le labbra</E
+M>labbri</E
+M>labbra sottili</E
+M>grosse</E
+M>sporgenti</E
+M>tumide</E
+M>carnose</E
+M>pallide</E
+M>rosse</E
+M>labbra di corallo</E
+M>avere il l</E
+M>cascante</E
+M>penzolante</E
+M>leporino</E
+M>labbra di tapiro</E
+M>aprire</E
+M>chiudere</E
+M>stringere</E
+M>serrare le l</E
+M>inumidirsi</E
+M>bagnarsi le l</E
+M>leccarsi le l</E
+M>un manicaretto da leccarsi le l</E
+M>increspar le l</E
+M>a un sorriso</E
+M>arricciare le l</E
+M>mordersi le l</E
+M>labbro</E
+M>labbra</E
+M>accostare le l</E
+M>al bicchiere</E
+M>alla tazza</E
+M>portare il cibo alle l</E
+M>rimanere a l</E
+M>asciutte</E
+M>a bocca asciutta</E
+M>non ho mai sentito una bugia dalle sue l</E
+M>dal suo l</E
+M>non uscì mai un lamento</E
+M>una parola offensiva</E
+M>a quel fare di don Rodrigo</E
+M>si sentì subito venir sulle l</E
+M>più parole del bisogno</E
+M>il suo l</E
+M>non ha mai proferito una bestemmia</E
+M>morire col nome di una persona sulle l</E
+M>quello che ha in cuore ha sulle l</E
+M>labbra</E
+M>pendere dalle l</E
+M>di uno</E
+M>avere un nome sulle l</E
+M>sulla punta della lingua</E
+M>a quella vista</E
+M>le parole che stava per dire gli morirono sulle l</E
+M>quella parola gli bruciava le l</E
+M>A fior di labbro</E
+M>di labbra</E
+M>elogi</E
+M>complimenti</E
+M>scuse a fior di labbro</E
+M>fece un risolino a fior di labbro</E
+M>labrum</E
+M>labium</E
+M>piccole</E
+M>grandi l</E
+M>del blastoporo</E
+M>blastoporale</E
+M>archenteron</E
+M>intestino primitivo</E
+M>i l</E
+M>d’una ferita</E
+M>il l</E
+M>dell’acetabolo</E
+M>il l</E
+M>di un vaso</E
+M>di una tazza</E
+M>labbro</E
+M>Labbro di Venere</E
+M>cardo dei lanaioli</E
+M>Labbri d’asino</E
+M>labbretti</E
+M>labbrini</E
+M>labbruzzi</E

@@ -1,0 +1,5 @@
+calzatura.txt
+"calzatura"
+* [[calzaturiere]], [[calzaturificio]]
+*Enciclopedia [http
+M>negozio di calzature</E

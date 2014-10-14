@@ -1,0 +1,27 @@
+palpebra.txt
+"palpebra"
+* [[blefaro]], [[blefaroplastica]], [[blefarostato]]
+M>palp</E
+M>bra</E
+M>palp</E
+M>bra</E
+M>palpare</E
+M>palpitare</E
+M>superiore</E
+M>inferiore</E
+M>alzare</E
+M>abbassare</E
+M>aprire</E
+M>chiudere le p</E
+M>battere</E
+M>sbattere</E
+M>le p</E
+M>sentirsi le p</E
+M>pesanti</E
+M>sentirsi calare le palpebre</E
+M>la palpebra</E
+M>non battere</E
+M>non muovere palpebra</E
+M>ciglio</E
+M>terza p</E
+M>membrana nittitante</E

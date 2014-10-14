@@ -1,0 +1,24 @@
+rivoluzionario.txt
+"rivoluzionario"
+"rivoluzionario"
+"rivoluzionario"
+*[[ contestatario]], [[sovversivo]] 
+M>lotte</E
+M>guerre r</E
+M>movimenti</E
+M>moti</E
+M>atti r</E
+M>governo r</E
+M>tribunale r</E
+M>uomini r</E
+M>partito r</E
+M>idee rivoluzionarie</E
+M>una riunione di rivoluzionarî</E
+M>in tutte le sue manifestazioni è un agitato</E
+M>un rivoluzionario</E
+M>l’età dei comuni è un’età r</E
+M>un’idea</E
+M>una teoria</E
+M>una scoperta r</E
+M>un quadro</E
+M>un libro r</E

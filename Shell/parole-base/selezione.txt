@@ -1,0 +1,58 @@
+selezione.txt
+"bando di selezione"
+"norme di selezione"
+"selezione"
+"selezione"
+"selezione artificiale"
+"selezione dei giurati"
+"selezione di vini"
+"selezione naturale"
+"selezione naturale, sopravvivenza del più adatto"
+"selezione sessuale"
+"sistema di selezione"
+*[[scelta]], [[preferenza]], [[separazione]], [[divisione]], [[distinzione]], [[spoglio]], [[valutazione]], [[vaglio]], [[discriminazione]]
+* (di oggetti) [[assortimento]]
+*(di persone) [[rosa]]
+*(di opere, brani) [[raccolta]], [[antologia]], [[florilegio]]
+* [[cernita]]  
+*(di testi ) [[rassegna]],  
+*[[preselezione]],[[selettivo]], [[selezionare]], [[selezionistico]], [[teleselezione]]
+M>selectio -onis</E
+M>selectus</E
+M>selig</E
+M>se-</E
+M>leg</E
+M>fare</E
+M>operare una selezione</E
+M>s. di animali</E
+M>di piante</E
+M>s. delle sementi</E
+M>s. professionale</E
+M>s. nazionale di atleti</E
+M>accordi di selezione</E
+M>s. naturale</E
+M>Sull&#8217;origine delle specie</E
+M>lotta per l&#8217;esistenza</E
+M>s. sessuale</E
+M>evoluzione</E
+M>s. direzionale</E
+M>s. divergente</E
+M>disruptiva</E
+M>s. stabilizzante</E
+M>coefficiente di s.</E
+M>sessuale</E
+M>s. artificiale</E
+M>s. di romanzi</E
+M>s. di articoli</E
+M>s. di dischi</E
+M>di canzoni</E
+M>di musiche da film</E
+M>regola di s.</E
+M>s. automatica</E
+M>s. manuale</E
+M>s. a toni</E
+M>s. passante</E
+M>Organi di s.</E
+M>di scelta</E
+M>S. fotografica</E
+M>s. cromatica</E

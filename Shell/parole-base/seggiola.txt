@@ -1,0 +1,12 @@
+seggiola.txt
+"seggiola"
+#*''prendi una 
+* [[sedia]]
+*  
+M>sedia</E
+M>s. di legno</E
+M>di plastica</E
+M>le s. di cucina</E
+M>del salotto</E
+M>una s. a braccioli</E
+M>la Madonna della s.</E

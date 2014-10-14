@@ -1,0 +1,34 @@
+faticoso.txt
+"faticoso"
+"faticoso"
+"faticoso, estenuante, affaticante"
+"faticoso, estenuante, affaticante"
+"faticoso, stancante"
+"faticoso, stancante"
+"lavoro duro; faticoso"
+"lavoro faticoso"
+*[[gravoso]], [[pesante]], [[duro]], [[difficile]], [[improbo]]
+*[[leggero]], [[lieve]], [[agevole]]
+*[[faticosamente]]
+*[[fatica]]
+M>lavoro</E
+M>studio f</E
+M>occupazione f</E
+M>una f</E
+M>salita</E
+M>una giornata f</E
+M>man veloce Che percorrea la f</E
+M>tela</E
+M>era andata a lavare la biancheria della famiglia f</E
+M>a’ f</E
+M>naviganti</E
+M>sovrapone L’arme a le membra f</E
+M>intorno</E
+M>Disteso in terra f</E
+M>e lasso</E
+M>in terra Offre alla f</E
+M>anima umana un cielo</E
+M>sollevare faticosamente un carico</E
+M>camminare</E
+M>salire faticosamente</E
+M>aveva la lingua impedita e parlava faticosamente</E

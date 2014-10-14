@@ -1,0 +1,35 @@
+fetta.txt
+"fetta"
+"fetta"
+"fetta di pane"
+"fetta di pane spalmata di burro all'aglio e scaldata"
+"fetta di torta"
+#*''ho mangiato una bella fetta di panettone''
+#*''Investì in [[borsa]] una grossa fetta dei suoi averi''
+*(di cibo) [[pezzo]], [[trancio]]
+M>*offitta</E
+M>offa</E
+M>una f</E
+M>di pane</E
+M>di carne</E
+M>di prosciutto</E
+M>di polenta</E
+M>fare</E
+M>tagliare a fette</E
+M>minacciava di tagliare tutti a fette</E
+M>una f</E
+M>di terra</E
+M>di campo</E
+M>dalla finestrella riusciva a vedere una f</E
+M>appena di cielo</E
+M>era sicuro che una grossa f</E
+M>di guadagno sarebbe spettata anche a lui</E
+M>i dirigenti sono due o tre soltanto</E
+M>e una bella f. di torta toccherà certamente a ciascuno di loro</E
+M>una larga f</E
+M>dell’opinione pubblica</E
+M>pezza</E
+M>scamone</E
+M>straculo</E
+M>Fette</E
+M>le fette</E

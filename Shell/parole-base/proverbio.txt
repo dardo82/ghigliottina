@@ -1,0 +1,25 @@
+proverbio.txt
+"proverbio"
+*[[adagio]], [[detto]], [[sentenza]], [[motto]], [[massima]], [[apoftegma]]
+* [[proverbiale]], [[proverbiare]], [[proverbioso]], [[proverbista]]
+M>proverbium</E
+M>verbum</E
+M>un antico</E
+M>un saggio p</E
+M>i p</E
+M>sono espressione della saggezza popolare</E
+M>popolari toscani</E
+M>siciliani</E
+M>napoletani</E
+M>romaneschi</E
+M>cinesi</E
+M>agricoli</E
+M>meteorologici</E
+M>Libro dei p</E
+M>Proverbî</E
+M>Liber proverbiorum</E
+M>andare</E
+M>passare</E
+M>venire in proverbio</E
+M>diventare proverbiale</E
+M>l&#8217;astuzia di Ulisse è passata in proverbio</E

@@ -1,0 +1,69 @@
+industriale.txt
+"archeologia industriale"
+"arte industriale"
+"associazione industriale"
+"caldaia industriale"
+"chimica industriale"
+"colosso industriale"
+"complesso industriale"
+"design industriale"
+"designer industriale"
+"economia industriale"
+"immobile industriale"
+"impianto industriale"
+"impianto industriale"
+"impianto industriale"
+"industriale"
+"industriale"
+"industriale"
+"ingegnere industriale"
+"ingegneria industriale"
+"manufatto industriale"
+"parco industriale"
+"piano industriale"
+"portare su scala industriale"
+"proprietà industriale"
+"psicologia industriale"
+"rivoluzione industriale"
+"scuola industriale"
+"strumentazione industriale"
+"zona industriale"
+*[[industria]], [[industralismo]], [[industrializzare]]
+M>il settore i</E
+M>dell’economia</E
+M>stabilimento i</E
+M>attività i</E
+M>produzione i</E
+M>prodotti i</E
+M>progresso</E
+M>sviluppo</E
+M>espansione i</E
+M>rivoluzione i</E
+M>crisi i</E
+M>istituto tecnico i</E
+M>disegno industriale</E
+M>credito i</E
+M>mobiliare</E
+M>Diritto i</E
+M>chimica i</E
+M>edilizia</E
+M>architettura i</E
+M>elettronica industriale</E
+M>centro</E
+M>zona</E
+M>regione</E
+M>città</E
+M>nazione</E
+M> paese industriale</E
+M>Corrente i</E
+M>Piante i</E
+M>In quantità i</E
+M>su scala i</E
+M>una fornitura su scala industriale</E
+M>un ricco i</E
+M>gli i</E
+M>cotonieri</E
+M>un paese industrialmente ricco</E
+M>povero</E
+M>organizzare industrialmente un paese</E
+M>una sostanza chimica ottenuta industrialmente</E

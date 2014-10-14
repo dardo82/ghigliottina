@@ -1,0 +1,149 @@
+sede.txt
+"fuori sede"
+"in altra sede"
+"in questa sede"
+"in sede"
+"in sede di"
+"la Santa Sede"
+"non essere la sede adatta"
+"presso la vostra sede"
+"santa sede"
+"sede"
+"sede"
+"sede"
+"sede"
+"sede"
+"sede"
+"sede alta"
+"sede arbitrale"
+"sede aziendale"
+"sede competente"
+"sede contrattuale"
+"sede del governo"
+"sede del municipio"
+"sede del parlamento"
+"sede del potere"
+"sede del prelato"
+"sede di corporazione; municipale"
+"sede giudiziaria"
+"sede legale"
+"sede locale"
+"sede principale"
+"sede staccata"
+"sede universitaria"
+"Strada di Londra dove hanno sede i giornali"
+#*'' il [[w
+*[[residenza]], [[domicilio]], [[dimora]] 
+*''(di un'istituzione)'' [[edificio]]
+*''(distaccata di azienda, ditta ecc.)'' [[filiale]], [[succursale]], [[agenzia]], [[dipendenza]]
+*''( un partito)'' [[sezione]]
+*[[ambiente]], [[luogo]], [[circostanza]], [[momento]]  
+M>sedes</E
+M>sed</E
+M>Santa Sede</E
+M>Sede Apostolica</E
+M>Sede papale</E
+M>vacanza della s. apostolica</E
+M>s. vacante</E
+M>s. vacante</E
+M>sedia</E
+M>Par.</E
+M>a la sedia che fu già benigna Più a&#8217; poveri giusti</E
+M>ufficio</E
+M>agenzia che ha s. a Roma</E
+M>prendere s. in una città del nord</E
+M>porre</E
+M>stabilire</E
+M>trasferire la propria s.</E
+M>cambiare s.</E
+M>popoli che emigrano in cerca di nuove sedi</E
+M>s. umane</E
+M>s. sparse</E
+M>isolate</E
+M>s. unite</E
+M>agglomerate</E
+M>Sotto barbaro piede Rintronerà quella solinga sede</E
+M>la s. celeste</E
+M>la s. superna</E
+M>Donna che lieta col Principio nostro Ti stai ... Assisa in alta e glorïosa sede</E
+M>sede</E
+M>la s. del governo</E
+M>dell&#8217;ambasciata</E
+M>dell&#8217;università</E
+M>la capitale dell&#8217;Olanda è Amsterdam</E
+M> ma la s. del governo è L&#8217;Aia</E
+M>ma il governo ha s. all&#8217;Aia</E
+M>s. vescovile</E
+M>arcivescovile</E
+M>Pisa è s. di tribunale</E
+M>la s. del prefetto</E
+M>del municipio</E
+M>Montecitorio è la s. della Camera dei deputati</E
+M>il Senato ha s. a Palazzo Madama</E
+M>le s. dei partiti sono tutte nel centro della città</E
+M>la s. principale dell&#8217;azienda è stata progettata da un famoso architetto</E
+M>recarsi alla s. del giornale</E
+M>l&#8217;azienda ha bisogno di una s. più ampia</E
+M>s. sociale</E
+M>s. centrale</E
+M>s. periferiche</E
+M>s. amministrativa</E
+M>s. legale</E
+M>s. effettiva</E
+M>sede</E
+M>è arrivata una circolare dalla s. centrale</E
+M>si rivolga direttamente alla nostra s. di Milano</E
+M>quest&#8217;anno il nostro liceo sarà s. d&#8217;esami</E
+M>la scuola media del quartiere è stata scelta come s. del seggio elettorale</E
+M>Venezia è s. tradizionale del festival del cinema</E
+M>s. di prima nomina</E
+M>raggiungere la s.</E
+M>chiedere il trasferimento ad altra s.</E
+M>elenco delle s. libere</E
+M>delle s. vacanti</E
+M>delle s. scoperte</E
+M>grandi e piccole s.</E
+M>indennità di s. disagiata</E
+M>in questo momento il capo divisione non è in s.</E
+M>è fuori sede</E
+M>sede</E
+M>fuori sede</E
+M>fuorisede</E
+M>non mi pare questa la s. adatta per ...</E
+M>se ne riparlerà</E
+M>ne discuteremo in altra s.</E
+M>in separata s.</E
+M>danni da liquidarsi in separata s.</E
+M>in s. extragiudiziale</E
+M>ne parleremo poi in separata s.</E
+M>ritirarsi in separata s.</E
+M>in s. di giudizio</E
+M>in s. d&#8217;esami</E
+M>in s. di revisione</E
+M>in s. di liquidazione</E
+M>in s. di bilancio</E
+M>in s. deliberante</E
+M>in s. referente</E
+M>in s. redigente</E
+M>anticamente si pensava che il cervello fosse la s. dell&#8217;intelligenza</E
+M> e il cuore la sede degli affetti</E
+M>Là ne la bella Italia</E
+M> ov&#8217;è la sede Del valor vero e de la vera fede</E
+M>la s. dell&#8217;infezione è nell&#8217;apparato digerente</E
+M>il calcolo ha s. nel fegato</E
+M>diagnosi di sede</E
+M>diagnosi di s. di un tumore</E
+M>la s. dell&#8217;accento</E
+M>una parola con accento in prima</E
+M>in seconda</E
+M>in terza sede</E
+M>le sillabe che</E
+M> nel verso endecasillabo</E
+M> sono sedi d&#8217;accento</E
+M>il quadro rubato è stato recuperato ed è tornato nella s. originaria</E
+M>la s. della bietta</E
+M>posizionare il perno nella sua sede</E
+M>la testa del femore è uscita dalla sua s.</E
+M>il capo articolare si è spostato dalla sua sede</E
+M>S. stradale</E
+M>s. tranviaria</E

@@ -1,0 +1,11 @@
+sor.txt
+"http://api.wordreference.com/12bee/json/iten/sor/"
+M>per</E
+M>sormontare</E
+M>sorprendere</E
+M>sorvolare</E
+M>sorvegliare</E
+M>non piaccia a Dio</E
+M> nostro sire</E
+M> che sì malvagia cotta stea sor me</E
+M>Novellino</E

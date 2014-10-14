@@ -1,0 +1,12 @@
+solido.txt
+"http://api.wordreference.com/12bee/json/iten/solido/"
+*[[duro]], [[compatto]], [[sodo]]
+*(di persona, fisico) [[forte]], [[robusto]], [[massiccio]], [[tarchiato]]
+*[[affidabile]], [[attendibile]], [[credibile]]
+*(di rapporto) [[profondo]], [[radicato]], [[sentito]]
+* [[immobile]]
+*[[debole]], [[delicato]], [[fragile]], [[molle]]
+*[[inaffidabile]], [[misero]]
+*(di rapporto) [[superficiale]], [[vuoto]]
+*[[semisolido]], [[in solido]], [[solidare]],[[solidità]],[[solidamente]], [[solidismo]], [[solidale]], 
+* [[liquido]], [[gassoso]],  [[gas]]

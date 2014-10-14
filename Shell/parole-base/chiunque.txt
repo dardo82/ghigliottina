@@ -1,0 +1,11 @@
+chiunque.txt
+"chiunque"
+M>qui</E
+M>unquam</E
+M>sarebbe capace di far questo</E
+M>ha intelletto</E
+M>ti pregia e loda</E
+M>venga</E
+M>io non sono in casa</E
+M>di voi sia stato</E
+M>di voi sia stata</E

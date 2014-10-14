@@ -1,0 +1,34 @@
+guai.txt
+"(essere) nei guai, nei pasticci"
+"A caccia di guai"
+"causare guai"
+"ficcarsi nei guai"
+"fonte di guai"
+"fuori dai guai"
+"guai"
+"guai a chi gli tocca..."
+"guai a chi me lo tocca"
+"guai a rinunciare"
+"guai a voi"
+"guai terribili"
+"in disordine, all'aria, nei guai"
+"nei guai"
+"nei guai"
+"nei guai"
+"nei guai"
+"nei guai"
+"nei guai"
+"tirare fuori dai guai, cavare d'impaccio, dare una mano a qcn"
+M>guaio</E
+M>a voi</E
+M>anime prave!</E
+M>ai vinti</E
+M>a te</E
+M>se parli</E
+M>chi disubbidisce</E
+M>guai!</E
+M>a parlargli di questa faccenda</E
+M>guai a toccarlo</E
+M>guai se tutti la pensassero come te!</E
+M>guai s’io dovessi prender la mia debolezza per misura del dovere altrui</E
+M>ahimè</E

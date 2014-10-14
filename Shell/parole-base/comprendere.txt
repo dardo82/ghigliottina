@@ -1,0 +1,57 @@
+comprendere.txt
+"comprendere"
+"comprendere"
+"comprendere, replace: comprendersi"
+"comprendere qualcuno"
+"farsi un'idea su qcs, comprendere qcs"
+"trattare, comprendere, includere"
+#*''La matematica '''comprende''' aritmetica, geometria e statistica''
+#*''Ti aiuterò solo se pagato. '''Comprendi?''' Voglio soldi!''
+*[[contenere]], [[raccogliere]], [[abbracciare]], [[incorporare]], [[capire]]
+*[[eccettuare]], [[escludere]]
+*[[comprendimento]]
+*[[includere]]
+M>comprehend</E
+M>comprend</E
+M>con</E
+M>pre</E
+M>prendere</E
+M>Luce e amor d’un cerchio lui comprende</E
+M>genere di uccelli che comprende varie specie</E
+M>l’appartamento comprende cinque stanze</E
+M>è un vocabolo che comprende parecchi significati</E
+M>tra i promossi sono compreso anch’io</E
+M>ti comprenderò fra gli invitati</E
+M>la retta comprende vitto e alloggio</E
+M>nel conto è compreso tutto</E
+M>la proprietà comprende anche il giardino adiacente</E
+M>nel calcolo vanno compresi gli interessi</E
+M>per dilettanze o ver per doglie</E
+M>Che alcuna virtù nostra comprenda</E
+M>comprendo finalmente perché i conti non tornavano</E
+M>non riesco a c</E
+M>che cosa sia accaduto</E
+M>sono cose che tu non puoi ancora c</E
+M>non comprende di averlo offeso</E
+M>far c</E
+M>l’importanza</E
+M>la gravità di qualche cosa</E
+M>ho letto tutto ma non ho compreso nulla</E
+M>spero che tu abbia compreso</E
+M>cerca di comprendere</E
+M>i ragazzi bisogna saperli c</E
+M>come ti comprendo!</E
+M>cerca di comprendermi</E
+M>capire</E
+M>capire</E
+M>comprendo la tua esitazione</E
+M>non riesco a c</E
+M>il suo strano contegno</E
+M>chi giudica deve saper c</E
+M>ti comprendo</E
+M>perché anch’io avrei fatto lo stesso</E
+M>due amici che si comprendono a meraviglia</E
+M>si compresero al primo sguardo</E
+M>quella vista lo comprese di orrore</E
+M>comprendersi d’amore per una persona</E
+M>esser compreso</E

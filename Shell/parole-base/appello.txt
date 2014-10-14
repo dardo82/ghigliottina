@@ -1,0 +1,74 @@
+appello.txt
+"appello"
+"appello"
+"appello"
+"corte d'appello"
+"corte d'appello"
+"corte d'appello"
+"corte d'appello"
+"corte d'appello circoscrizionale"
+"d'appello"
+"fare appello"
+"fare appello a"
+"fare appello a"
+"fare appello a, chiamare a raccolta"
+"fare l'appello"
+"fare l'appello"
+"fervido appello"
+"lanciare un appello"
+"mandare in appello"
+"senza appello"
+*''(di più persone)'' chiamata per nome; [[invito]], [[chiamata]], convocazione
+*''(di esami, particolarmente all’università)'' [[tornata]]
+*[[richiamo]], [[sollecitazione]]
+*''fare appello''
+M>appellare</E
+M>appel</E
+M>fare l’a</E
+M>dei caduti</E
+M>rispondere</E
+M>mancare</E
+M>presentarsi</E
+M>non presentarsi all’a</E
+M>mancare all’a</E
+M>votazione per a</E
+M>nominale</E
+M>suonare l’appello</E
+M>primo</E
+M>secondo appello</E
+M>alle urne</E
+M>al Paese</E
+M>fare a</E
+M>alla carità del prossimo</E
+M>rivolgere un a</E
+M>alla generosità dei benefattori</E
+M>accorrere</E
+M>rispondere all’a</E
+M>della patria in pericolo</E
+M>si udì un disperato grido d’appello</E
+M> faccio a. alla tua comprensione.</E
+M>firmare un a. contro la pena di morte</E
+M>l’a. degli animalisti ha avuto successo</E
+M>fare a. alle proprie forze</E
+M>alle proprie risorse interiori</E
+M>civile</E
+M>penale</E
+M>principale</E
+M>incidentale</E
+M>interporre</E
+M>proporre a</E
+M>ricorrere in a</E
+M>respingere l’a</E
+M>diritto d’a</E
+M>procedimento d’a</E
+M>sentenza d’a</E
+M>al popolo</E
+M>Corte d’a</E
+M>presidente</E
+M>consigliere di Corte d’a</E
+M>consigliere d’appello</E
+M>non esserci a</E
+M>non c’è a</E
+M>contro le decisioni della presidenza</E
+M>contro la morte non c’è a</E
+M>senz’a</E

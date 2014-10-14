@@ -1,0 +1,257 @@
+orecchio.txt
+"a portata d'orecchio"
+"a portata di orecchio, a portata di voce"
+"a portata di orecchio, a portata di voce"
+"ad orecchio"
+"ascoltare; prestare orecchio"
+"ascoltare; prestare orecchio a"
+"avere orecchio"
+"avere orecchio"
+"avere orecchio per"
+"colui che non ha orecchio musicale"
+"etichetta sull'orecchio"
+"fare orecchio da mercante"
+"lobo dell'orecchio"
+"lobo dell'orecchio"
+"non a portata d'orecchio"
+"non a portata d'orecchio"
+"orecchio"
+"orecchio"
+"orecchio"
+"orecchio (per la musica)"
+"orecchio assoluto"
+"orecchio di topo (erba officinale)"
+"orecchio esterno"
+"orecchio esterno"
+"orecchio interno"
+"orecchio medio"
+"orecchio per"
+"orecchio per la musica"
+"percepito con l'orecchio"
+"piercing all'orecchio"
+"suonare ad orecchio"
+"tendere l'orecchio"
+"terzo orecchio"
+#*''nel gioco del telefono senza fili, il primo giocatore deve bisbigliare una certa frase nell'orecchio del compagno''
+*[[orecchia]], [[orecchiare]], [[orecchietta]], [[orecchino]], [[orecchione]], [[orecchiuto]]
+*''fare 
+*italiano
+M>orecchia</E
+M>esterno</E
+M>medio</E
+M>interno</E
+M>orecchio</E
+M>orecchia</E
+M>orecchia</E
+M>orecchio</E
+M>il padiglione</E
+M>il timpano</E
+M>gli ossicini dell’o</E
+M>l’o</E
+M>destro</E
+M>sinistro</E
+M>i buchi degli o</E
+M>avere mal d’orecchi</E
+M>sentire un ronzio negli o</E
+M>sentirsi fischiare gli o</E
+M>parlare all’o</E
+M>dire una parolina in un o</E
+M>confidare in un o</E
+M>sussurrare</E
+M>bisbigliare all’o</E
+M>mormorare in un o</E
+M>assordare</E
+M>stordire gli o</E
+M>colpi che rintronano gli o</E
+M>negli o</E
+M>urla che lacerano gli o</E
+M>Il duro capitan</E
+M>qualor tra l’armi</E
+M>Sgangherando le labbra</E
+M>innalza un grido Lacerator di ben costrutti o</E
+M>tapparsi</E
+M>turarsi gli o</E
+M>l’ho sentito con i miei o</E
+M>ho ancora negli o</E
+M>la sua voce</E
+M>quel grido</E
+M>quell’invocazione</E
+M>mi risuonano ancora all’o</E
+M>le sue parole</E
+M>quante volte avrebbe voluto sentir davvero la voce di colei</E
+M>qualunque cosa avesse potuto minacciare</E
+M>piuttosto che aver sempre nell’intimo dell’orecchio mentale il susurro fantastico di quella stessa voce</E
+M>venire</E
+M>giungere</E
+M>arrivare agli o</E
+M>avere sentore</E
+M>agli o</E
+M>della Gostanza pervenne Martuccio Gomito esser vivo</E
+M>un giorno o l’altro il fatto potrebbe arrivare agli o</E
+M>del direttore</E
+M>è cosa che non giunge nuova al mio o</E
+M>ai miei o</E
+M>qui anche i muri hanno orecchi</E
+M>avere il cotone negli o</E
+M>avere gli o</E
+M>foderati</E
+M>di prosciutto</E
+M>hanno orecchi e non odono</E
+M>Salmi</E
+M>aures habent et non audient</E
+M>Geremia</E
+M>Ezechiele</E
+M>chi ha orecchi da</E
+M>per</E
+M>intendere</E
+M>intenda</E
+M>chi ha orecchi intenda</E
+M>Matteo</E
+M>Marco</E
+M>Luca</E
+M>qui habet aures audiendi audiat</E
+M>si quis habet</E
+M>Marco</E
+M>chi ha orecchie intenda</E
+M>chi ha denaro spenda</E
+M>porgere</E
+M>prestare</E
+M>porre orecchio</E
+M>Porgea gli o</E
+M>al suon della tua voce</E
+M>piegare l’o</E
+M>gli o</E
+M>amici or piega</E
+M>Giovin signore</E
+M>al mio cantar gli o</E
+M>aprire gli o</E
+M>Apri li o</E
+M>al mio annunzio</E
+M>e odi</E
+M>tendere l’o</E
+M>stare in orecchi</E
+M>stare con gli o</E
+M>all’erta</E
+M>da quel tempo in qua ella sta in orecchi come la lepre</E
+M>cominciò a stare in orecchi</E
+M>per sentire se il chirurgo arrivava</E
+M>essere tutt’orecchi</E
+M>di’ pure</E
+M>sono tutt’orecchi</E
+M>fare orecchio</E
+M>gli o</E
+M>a qualche cosa</E
+M>da quest’o</E
+M>non ci sente</E
+M>fare orecchi</E
+M>orecchie</E
+M>fare orecchio</E
+M>da mercante</E
+M>di mercante</E
+M>gli entra da un o</E
+M>e gli esce dall’altro</E
+M>puoi dirmelo senza timore</E
+M>perché a me le cose mi entrano da un orecchio e mi escono dall’altro</E
+M>non avere orecchi</E
+M>è un servitore che non ha orecchi</E
+M>mettere una pulce in un o</E
+M>avere gli o</E
+M>buoni</E
+M>avere buon o</E
+M>avere o</E
+M>essere di o</E
+M>fine</E
+M>essere duro d’orecchi</E
+M>d’orecchio</E
+M>porgere o</E
+M>benigno</E
+M>prestare o</E
+M>paziente</E
+M>ciò che tu dici giunge gradito al mio o</E
+M>è un nome che suona caro al nostro o</E
+M>parolacce</E
+M>bestemmie</E
+M>discorsi volgari che offendono l’o</E
+M>casti</E
+M>puri</E
+M>innocenti</E
+M>avere un o</E
+M>fine</E
+M>squisito</E
+M>grossolano</E
+M>rozzo</E
+M>educato a sentire e gustare la bellezza dei versi</E
+M>della musica</E
+M>suoni grati all’o</E
+M>incontro di vocali</E
+M>di consonanti che spiace all’o</E
+M>c’è qualcosa in questo verso che disturba l’o</E
+M>musica che strazia gli orecchi</E
+M>musicale</E
+M>orecchio</E
+M>avere</E
+M>non avere orecchio</E
+M>esercitare</E
+M>educare l’orecchio</E
+M>Cantare</E
+M>suonare a orecchio</E
+M>ripetere a o</E
+M>O. assoluto</E
+M>o. relativo</E
+M>o. assoluto</E
+M>il lobo dell’o</E
+M>avere gli o</E
+M>grandi</E
+M>a sventola</E
+M>con gli o</E
+M>rossi</E
+M>blu per il freddo</E
+M>puliti</E
+M>sporchi</E
+M>dare a qualcuno una tirata d’orecchi</E
+M>prese il ragazzino per un o</E
+M>e lo mise alla porta</E
+M>gli addentò</E
+M>gli morse un o</E
+M>traforamento</E
+M>taglio degli o</E
+M>mettere la mano all’o</E
+M>fare con la mano ala all’o</E
+M>calcarsi il berretto sugli o</E
+M>diventò rosso fino agli o</E
+M>ha una bocca larga fino agli o</E
+M>aprire la bocca fino agli o</E
+M>fare un sorriso largo fino agli o</E
+M>acuti</E
+M>aguzzi</E
+M>ritti</E
+M>pendenti</E
+M>drizzare gli o</E
+M>lunghi</E
+M>orecchie lunghe</E
+M>avere gli o</E
+M>lunghi</E
+M>andarsene con gli o</E
+M>bassi</E
+M>orecchietta</E
+M>versoio</E
+M>artificiale</E
+M>normale</E
+M>assoluto</E
+M>orecchio</E
+M>orecchia</E
+M>d’asino</E
+M>di lepre</E
+M>di lupo</E
+M>di gatto</E
+M>di olivo</E
+M>Clitocybe olearia</E
+M>Pleurotus olearius</E
+M>di topo</E
+M>di Giuda</E
+M>Auricularia auricula</E
+M>judae</E
+M>d’orso</E
+M>Primula auricula</E
+M>di Dionisio</E
+M>di Dionigi</E

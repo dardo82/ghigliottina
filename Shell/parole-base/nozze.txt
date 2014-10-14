@@ -1,0 +1,112 @@
+nozze.txt
+"Andare\/andarci a nozze"
+"fare le nozze coi fichi secchi"
+"fresco di nozze"
+"giorno delle nozze"
+"lista di nozze"
+"lista nozze"
+"nozze"
+"nozze d'argento"
+"nozze d'oro"
+"nozze di diamante"
+"nozze di diamante"
+"pranzo di nozze"
+"precedente le nozze"
+"prima delle nozze"
+"prima delle nozze"
+"regalo di nozze"
+"testimone di nozze"
+"viaggio di nozze"
+#*le 
+#* le 
+*[[matrimonio]], [[sposalizio]]
+*[[festa]]
+* Devoto/Oli, '' Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1368
+M>ptiae</E
+M>arum</E
+M>nub</E
+M>nubes</E
+M>nox n</E
+M>ctis</E
+M>matrimonio</E
+M>fissare la data delle n</E
+M>andare a n</E
+M>celebrare le n</E
+M>solenni</E
+M>splendide</E
+M>sontuose</E
+M>semplici</E
+M>modeste</E
+M>fauste n</E
+M>convolare a giuste n</E
+M>consumare le n</E
+M>consumare il matrimonio</E
+M>le n</E
+M>di Cana</E
+M>Le n</E
+M>di Figaro</E
+M>Le mariage de Figaro</E
+M>vestito</E
+M>abito di n</E
+M>invitare</E
+M>essere invitato a n</E
+M>festeggiare le n</E
+M>regali di n</E
+M>lista di n</E
+M>liste de mariage</E
+M>banchetto</E
+M>pranzo</E
+M>rinfresco</E
+M>ricevimento di n</E
+M>sonetto</E
+M>versi per n</E
+M>viaggio di n</E
+M>prime n</E
+M>seconde n</E
+M>sposarsi in prime n</E
+M>in seconde n</E
+M>passare a seconde n</E
+M>i figli di prime</E
+M>di seconde n</E
+M>di primo</E
+M>di secondo letto</E
+M>d’argento</E
+M>d’oro</E
+M>di diamante</E
+M>fare n</E
+M>così cavalcando</E
+M>non avendo spazio di far n</E
+M>per ciò che temevano d’esser seguitati</E
+M>alcuna volta l’un l’altro basciava</E
+M>menatosela a casa</E
+M>fece le n</E
+M>e ci ebbe a morir suso</E
+M>tante volte gnele</E
+M>gliene</E
+M>fece</E
+M>andare a n</E
+M>non sapete che i soldati è il loro mestiere di prender le fortezze? Non cercan altro;</E
+M>per loro</E
+M>dare un assalto è come andare a n</E
+M>invitare a n</E
+M>fare le n</E
+M>coi funghi</E
+M>coi fichi secchi</E
+M>Lett</E
+M>agli Efesini</E
+M>Viri</E
+M>diligite uxores vestras</E
+M>sicut et Christus dilexit ecclesiam</E
+M>sante n</E
+M>mistiche n</E
+M>celesti</E
+M>le vergini chiuse in casta cella Che Dio con alte n</E
+M>a sé marita</E
+M>a quelle pure Nozze aspirar più non poss’io</E
+M>legata D’un altro nodo</E
+M>le mistiche n</E
+M>di san Francesco con la povertà</E
+M>delle piante</E
+M>sponsalia plantarum</E
+M>Sponsalia plantarum</E
+M>Praeludia sponsaliarum plantarum</E

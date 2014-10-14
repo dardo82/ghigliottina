@@ -1,0 +1,91 @@
+prestare.txt
+"ascoltare; prestare orecchio"
+"ascoltare; prestare orecchio a"
+"far prestare giuramento"
+"non prestare attenzione"
+"non prestare attenzione"
+"non prestare attenzione a"
+"prestare"
+"prestare"
+"prestare aiuto a qualcuno"
+"prestare ascolto"
+"prestare ascolto a qualcuno"
+"prestare assistenza"
+"prestare assistenza a"
+"prestare attenzione"
+"prestare attenzione"
+"prestare attenzione a"
+"prestare attenzione a"
+"prestare attenzione alle minuzie"
+"prestare cure mediche"
+"prestare fede a"
+"prestare giuramento"
+"prestare il fianco a"
+"prestare il proprio consenso"
+"prestare molta attenzione"
+"prestare particolare attenzione"
+"prestare qc a qn"
+"prestare qualcosa a"
+"prestare servizio"
+"prestare servizio come barbiere"
+"prestare troppa attenzione"
+*[[prestanome]], [[prestante]], [[prestarsi]], [[prestasoldi]], [[prestatore]], [[prestavoce]], [[prestazione]], [[prestito]]
+*italiano
+*spagnolo
+M>praestare</E
+M>prae</E
+M>stare</E
+M>un libro a qualcuno</E
+M>per piacere</E
+M>prestami la penna</E
+M>puoi prestarmi la macchina per qualche ora?</E
+M>prestami cento euro</E
+M>te li restituisco domani</E
+M>a titolo gratuito</E
+M>a interesse</E
+M>a usura</E
+M>al dodici</E
+M>al venti</E
+M>per cento</E
+M>su pegno</E
+M>sopra ipoteca</E
+M>a cambiale</E
+M>sulla parola</E
+M>orecchio a qualcuno</E
+M>alle parole di qualcuno</E
+M>attenzione</E
+M>la dovuta obbedienza</E
+M>prestar fede</E
+M>p. il fianco alle critiche</E
+M>agli attacchi</E
+M>aiuto</E
+M>soccorso</E
+M>delle cure</E
+M>l&#8217;opera</E
+M>prestatore d&#8217;opera</E
+M>servizio</E
+M>una mano</E
+M>giuramento</E
+M>culto</E
+M>reverenza</E
+M>omaggio</E
+M>E presta a&#8217; miei sospir&#8217; sì largo volo</E
+M>Che sempre si ridica Come tu m&#8217;eri amica</E
+M>messer Torello</E
+M>rispose</E
+M>che senza fallo quello che egli comandava farebbe</E
+M> dove tempo gli fosse prestato</E
+M>è una persona che si presta sempre quando qualcuno ha bisogno</E
+M>le autorità si sono prestate per il buon esito dell&#8217;iniziativa</E
+M>il professore si è gentilmente prestato a fare da cicerone</E
+M>O divina virtù</E
+M>se mi ti presti Tanto</E
+M>non intendo prestarmi a simili compromessi</E
+M>il suo fisico non si presta più a certe fatiche</E
+M>l&#8217;appartamento non si presta a stabilirvi un ufficio</E
+M>è un materiale che si presta bene a questo tipo di lavorazione</E
+M>la frase si presta a diverse interpretazioni</E
+M>il suo contegno si presta a molte critiche</E
+M>con grand&#8217;usura ridomandereste ora il prestato</E
+M>per supplire alla legge comune che non dava loro</E
+M>alcun mezzo di ricuperare il prestato</E

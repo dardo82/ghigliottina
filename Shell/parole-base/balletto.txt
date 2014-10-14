@@ -1,0 +1,18 @@
+balletto.txt
+"balletto"
+"balletto"
+"balletto"
+"balletto moderno"
+"musica da balletto"
+"suite balletto"
+M>ballo</E
+M>vogliamo fare un b</E
+M>insieme?</E
+M>fece un b</E
+M>dalla gioia</E
+M>in un b</E
+M>in quattro b</E
+M>il b</E
+M>dell’Opéra di Parigi</E
+M>balletti rosa</E
+M>balletti verdi</E

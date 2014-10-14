@@ -1,0 +1,49 @@
+durata.txt
+"assoggettato a prove di durata"
+"breve durata"
+"conservazione, durata"
+"di breve durata"
+"di breve durata"
+"di durata costante"
+"di lunga durata"
+"durata"
+"durata dell'esposizione"
+"durata della memoria"
+"durata della vita"
+"durata di un contratto"
+"durata di un incarico"
+"durata illimitata"
+"durata temporale"
+"durata vitale"
+"durata, durevolezza"
+"fama di breve durata"
+"la durata"
+"lunga durata"
+"lunga durata"
+"memoria di breve durata"
+"per la durata"
+"per la durata di"
+M>la d</E
+M>dell’eclissi</E
+M>la d</E
+M>della traiettoria di un proiettile</E
+M>per tutta la d</E
+M>del viaggio</E
+M>stagionale</E
+M>di lunga d</E
+M>una stoffa</E
+M>un abito di durata</E
+M>di breve d</E
+M>prove di d</E
+M>mola</E
+M>mòla</E
+M>molla</E
+M>mòlla</E
+M>mettre</E
+M>mètr</E
+M>maître</E
+M>mèetr</E
+M>reale</E
+M>pura</E
+M>durata</E
+M>contratto di d</E

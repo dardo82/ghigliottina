@@ -1,0 +1,34 @@
+rasare.txt
+"radere, rasare"
+"rasare"
+M>raso</E
+M>radere</E
+M>farsi r</E
+M>i capelli</E
+M>la testa</E
+M>rasare</E
+M>farsi rasare</E
+M>farsi r</E
+M>la barba</E
+M>rasarsi</E
+M>i baffi</E
+M> i peli superflui</E
+M>ha fatto r</E
+M>il pelo al suo cane</E
+M>ha fatto r</E
+M>il suo cane</E
+M>la peluria di una pelle</E
+M>un feltro</E
+M>le siepi</E
+M>l&#8217;erba di un prato</E
+M>uno staio di grano</E
+M>una misura di semi abbrustoliti</E
+M>un boccale di birra</E
+M>gli aeroplani gli avevano rasato la casetta</E
+M>le cannonate le stalle</E
+M>raso</E
+M>aveva la barba mal rasata</E
+M>quell&#8217;uomo è sempre accuratamente rasato</E
+M>punto rasato</E
+M>punto calza</E
+M>teste rasate</E

@@ -1,0 +1,109 @@
+gatto.txt
+"cane e gatto"
+"coda di gatto"
+"come cane e gatto"
+"come cane e gatto"
+"cucciolo di gatto, gattino"
+"essere come cane e gatto"
+"gatto"
+"gatto a nove code"
+"gatto con gli stivali"
+"gatto della giungla"
+"gatto delle nevi"
+"gatto domestico"
+"gatto domestico"
+"gatto maschio"
+"gatto nero"
+"gatto persiano"
+"gatto persiano"
+"gatto randagio"
+"gatto selvatico"
+"gatto siamese"
+"gatto soriano, gatto tigrato"
+"gatto tigrato"
+"gatto tigrato"
+"giocare come il gatto col topo"
+"grande gatto"
+"il gatto con gli stivali"
+"il miagolio del gatto"
+"occhio di gatto"
+"pelo di gatto"
+"pesce gatto"
+"pesce gatto"
+"quando il gatto non c'è i topi ballano"
+"sportellino su una porta che permette al gatto di entrare e uscire"
+#* ''
+#* ''quell'atleta è un 
+*[[micio]], [[felino]]
+*[[gattara]], [[sgattaiolare]], [[occhio di gatto]], [[gattaiola]], [[gatta]], [[gattonare]]
+*[[felino]]. [[animale]]
+*''essere in quattro '''gatti'''''
+*''essere come cane e '''gatto'''''
+*''non dire '''gatto''' se non ce l'hai nel sacco''
+*''quando il '''gatto''' non c'è i topi ballano''
+*''tanto va la '''gatta''' al lardo che ci lascia lo zampino''
+*'''''gatta''' ci cova''
+*''la '''gatta''' frettolosa fa i gattini ciechi''
+*''fare come il '''gatto''' che si morde la coda''
+*''camminare a '''[[gattoni]]''''' (o a [[carponi]] o '''[[gattonare]]''')
+*''fare la '''gatta''' morta''
+*''è un '''gatto''' di piombo''
+*''sciopero a '''gatto''' selvaggio''
+*''quando il '''gatto''' si liscia le orecchie, aspettati acqua da riempir le secchie''
+*Enciclopedia [http
+M>cattus</E
+M>Felis</E
+M>domestico</E
+M>soriano</E
+M>siamese</E
+M>persiano</E
+M>d’Angora</E
+M>essere agile</E
+M>muoversi</E
+M>saltare come un g</E
+M>sornione</E
+M>infido</E
+M>ladro come un gatto</E
+M>vederci al buio come i g</E
+M>giocare con qualcuno come il g</E
+M>col topo</E
+M>essere come cane e gatto</E
+M>vivere come cani e gatti</E
+M>c’erano quattro g</E
+M>avere sette vite come un g</E
+M>quando il g</E
+M>la gatta</E
+M>manca i topi ballano</E
+M>Felis</E
+M>viverrino</E
+M>Felis viverrina</E
+M>del Bengala</E
+M>bengalensis</E
+M>dorato</E
+M>aurata</E
+M>selvatico</E
+M>silvestris</E
+M>delle Pampas</E
+M>colocolo</E
+M>delle steppe</E
+M>manul</E
+M>africano</E
+M>nigripes</E
+M>gatti</E
+M>gattuccio</E
+M>gatta</E
+M>Pesce gatto</E
+M>Ictalurus nebulosus</E
+M>Uccello gatto</E
+M>Dumetella carolinensis</E
+M>pioppo bianco</E
+M>berta</E
+M>battipalo</E
+M>Gatto a nove code</E
+M>Gatto delle nevi</E
+M>Buco del g</E
+M>A barba di gatto</E
+M>Sciopero a g</E
+M>selvaggio</E
+M>wildcat strike</E
+M>fare i gattini</E

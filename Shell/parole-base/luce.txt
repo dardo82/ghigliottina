@@ -1,0 +1,445 @@
+luce.txt
+"a basso contrasto (luce)"
+"accendere la luce"
+"alla luce del fatto che"
+"alla luce del giorno"
+"alla luce di"
+"alla luce di questo"
+"alla velocità della luce"
+"alla velocità della luce"
+"angelo di luce"
+"anno luce"
+"avere luce intorno"
+"Brillare di luce propria"
+"brillare di luce tremula"
+"c velocità della luce"
+"cattiva luce"
+"che emette luce"
+"con luce a gas"
+"così da mettere in luce"
+"dare alla luce"
+"dare alla luce"
+"dare la luce a"
+"dare luce"
+"dato alla luce; partorito"
+"devio luce"
+"di luce di fiaccole"
+"emettere luce"
+"far luce"
+"far luce su qualcosa"
+"fare luce"
+"fare luce"
+"fare luce su"
+"fare luce su"
+"fare luce su qualcosa"
+"fonte di luce"
+"gettare luce"
+"gettare luce su"
+"gettare nuova luce"
+"giochi di luce"
+"gioco di luce"
+"i figli della luce"
+"l'atto di dare alla luce; di partorire"
+"la Luce del Mondo"
+"la luce fantastica"
+"linea della luce"
+"luce"
+"luce"
+"luce"
+"luce"
+"luce"
+"luce"
+"luce"
+"luce (verde)"
+"luce a incandescenza"
+"luce abbagliante"
+"luce abbagliante"
+"luce accecante"
+"luce accecante"
+"luce accecante, abbagliante"
+"luce al neon"
+"luce bianca"
+"luce brillante"
+"luce coerente"
+"luce dei freni"
+"luce del focolare"
+"luce del giorno"
+"luce del giorno"
+"luce del giorno"
+"luce del giorno"
+"luce del pianerottolo"
+"luce dell'amore"
+"luce dello stop"
+"luce di atterraggio"
+"luce di cortesia"
+"luce di emergenza"
+"luce di posizione"
+"luce di retromarcia"
+"luce diffusa"
+"luce disponibile"
+"luce elettrica"
+"luce falsa"
+"luce flash"
+"luce fluorescente"
+"luce fosforescente"
+"luce fredda"
+"luce gialla"
+"luce guida"
+"luce incidente"
+"luce intensa"
+"luce interiore"
+"luce intermittente"
+"luce laterale"
+"luce libera di passaggio"
+"luce notturna"
+"luce posteriore"
+"luce posteriore, fanalino di coda"
+"luce progressiva"
+"luce riflessa"
+"luce rossa"
+"luce scarsa"
+"luce solare"
+#*''La '''luce''' passa attraverso le finestre''
+#*''Questa [[stanza]] ha bisogno di un po' più di '''luce'''.''
+*[[luminosità]], [[chiarore]], [[raggio]], [[bagliore]], [[vano]], [[apertura]]
+*[[oscurità]], [[buio]], [[tenebre]], [[notte]] 
+*[[anno luce]]
+M>x l</E
+M>cis</E
+M>*louk</E
+M>roká</E
+M>loys</E
+M>liuhath</E
+M>Licht</E
+M>sorgente di l</E
+M>diretta</E
+M>fascio di luce</E
+M>diffusa</E
+M>riflessa</E
+M>rifratta</E
+M>le stelle brillano di l</E
+M>propria</E
+M>i pianeti di l</E
+M>riflessa</E
+M>il riverbero della l</E
+M>naturale</E
+M>artificiale</E
+M>solare</E
+M>diurna</E
+M>del giorno</E
+M>dell’alba</E
+M>crepuscolare</E
+M>meridiana</E
+M>della luna</E
+M>delle stelle</E
+M>corpuscolare</E
+M>ondulatoria</E
+M>teoria elettromagnetica della l</E
+M>quanti di l</E
+M>fotoni</E
+M>teoria quantistica della l</E
+M>principio della costanza della velocità della l</E
+M>velocità della l</E
+M>anno</E
+M>luce</E
+M>equazione della l</E
+M>tempo di luce</E
+M>una l</E
+M>vivissima</E
+M>una gran l</E
+M>abbagliante</E
+M>che accieca</E
+M>accecante</E
+M>viva</E
+M>forte</E
+M>fulgida</E
+M>splendida</E
+M>sfavillante</E
+M>sfolgorante</E
+M>purissima</E
+M>moderata</E
+M>debole</E
+M>tenue</E
+M>fioca</E
+M>pallida</E
+M>languida</E
+M>scarsa</E
+M>incerta</E
+M>attenuata</E
+M>smorzata</E
+M>velata</E
+M>temperata</E
+M>uniforme</E
+M>uniformemente diffusa</E
+M>uguale</E
+M>dolce</E
+M>tranquilla</E
+M>stabile</E
+M>tremula</E
+M>scintillante</E
+M>continua</E
+M>intermittente</E
+M>un raggio</E
+M>una striscia di l</E
+M>un filo</E
+M>una lama di l</E
+M>un getto</E
+M>un guizzo</E
+M>un lampo</E
+M>uno sprazzo</E
+M>un’onda</E
+M>un fiume</E
+M>un torrente</E
+M>un mare di luce</E
+M>bianca</E
+M>gialla</E
+M>rossa</E
+M>verde</E
+M>azzurra</E
+M>livida</E
+M>fosforescente</E
+M>monocromatica</E
+M>pura</E
+M>policromatica</E
+M>coerente</E
+M>elettronica</E
+M>nera</E
+M>di Wood</E
+M>filtro di Wood</E
+M>fredda</E
+M>positiva</E
+M>negativa</E
+M>cinerea</E
+M>zodiacale</E
+M>la l</E
+M>appare</E
+M>spunta</E
+M>sorge</E
+M>s’accende</E
+M>brilla</E
+M>splende</E
+M>sfavilla</E
+M>aumenta</E
+M>cresce</E
+M>si spande</E
+M>si diffonde</E
+M>s’indebolisce</E
+M>si attenua</E
+M>illanguidisce</E
+M>si spegne</E
+M>muore</E
+M>dà l</E
+M>manda l</E
+M>sparge</E
+M>spande</E
+M>diffonde luce</E
+M>c’è poca</E
+M>molta</E
+M>troppa</E
+M>in questa stanza</E
+M>le scale prendono</E
+M>ricevono</E
+M>da un lucernario</E
+M>occhi sensibili alla l</E
+M>che non sopportano la l</E
+M>troppo viva</E
+M>non vedere più la l</E
+M>essere in piena l</E
+M>essere in mezza l</E
+M>essere nel giusto</E
+M>nel vero punto di l</E
+M>essere</E
+M>trovarsi</E
+M>esser messo in buona l</E
+M>in cattiva l</E
+M>in l</E
+M>falsa</E
+M>mettere una persona</E
+M>un fatto</E
+M>un avvenimento</E
+M>in buona</E
+M>cattiva l</E
+M>mettere</E
+M>mostrare</E
+M>presentare nella sua vera</E
+M>giusta l</E
+M>mettere in piena l</E
+M>gettare l</E
+M>sinistra su qualcuno</E
+M>su qualche cosa</E
+M>Effetti di luce</E
+M>scherzi</E
+M>giochi di luce</E
+M>effetti di luce</E
+M>lucentezza</E
+M>splendore</E
+M>chiarore</E
+M>i suoi occhi avevano una l</E
+M>strana</E
+M>brillante che ha una bella luce</E
+M>una stanza piena di l</E
+M>una stanza senza l</E
+M>che non ha l</E
+M>lasciate che la l</E
+M>entri nelle vostre case</E
+M>i bambini</E
+M>le piante</E
+M>hanno bisogno di l</E
+M>sole</E
+M>il sorgere della l</E
+M>tre luci e tre notti Durar gli afflitti amici e i dolorosi Parenti a ricercar le tiepid’ossa</E
+M>la medesma luce</E
+M>Si pone a caminar</E
+M>tutti l’ultimo sospiro Mandano i petti alla fuggente l</E
+M>temo del cor che mi si parte</E
+M>E veggio presso il fin de la mia l</E
+M>dare alla l</E
+M>venire alla l</E
+M>vedere la l</E
+M>aprire gli occhi alla l</E
+M>chiudere gli occhi alla l</E
+M>dare in l</E
+M>venire alla l</E
+M>vedere la l</E
+M>venire in l</E
+M>alla l</E
+M>tornare in l</E
+M>alla l</E
+M>rimettere in l</E
+M>restituire alla luce</E
+M>è chiaro come la l</E
+M>del sole</E
+M>negare la l</E
+M>del sole</E
+M>del giorno</E
+M>agire alla l</E
+M>del sole</E
+M>esaminare una questione alla l</E
+M>dei fatti</E
+M>fare l</E
+M>gettare l</E
+M>su qualche cosa</E
+M>la l</E
+M>della fede</E
+M>della verità</E
+M>della scienza</E
+M>diffondere la l</E
+M>della civiltà</E
+M>del progresso</E
+M>cercare la l</E
+M>tendere alla l</E
+M>negare la l</E
+M>odiare la l</E
+M>questi sono frutti che si debbono alla l</E
+M>di questo secolo</E
+M>gli angeli della l</E
+M>i figli della l</E
+M>gli uomini vollero piuttosto le tenebre che la l</E
+M>Vangelo di Giovanni</E
+M>La ginestra</E
+M>la l</E
+M>della speranza</E
+M>risplendere di vivissima l</E
+M>brillare di fulgida l</E
+M>il sole è la l</E
+M>del mondo</E
+M>le l</E
+M>del cielo</E
+M>le notturne l</E
+M>quante fole Creommi nel pensier l’aspetto vostro</E
+M>E delle luci a voi compagne</E
+M>le l</E
+M>delle strade</E
+M>dei negozî</E
+M>le l</E
+M>della ribalta</E
+M>sotto il riverbero delle l</E
+M>al chiarore di mille l</E
+M>a un tratto si accesero tutte le l</E
+M>azzurrate</E
+M>oscurate</E
+M>accendere</E
+M>spegnere</E
+M>chiudere la l</E
+M>l’impianto della l</E
+M>è andata via</E
+M>è tornata la l</E
+M>pagare la bolletta della l</E
+M>punti luce</E
+M>bianca</E
+M>rossa</E
+M>verde</E
+M>la l</E
+M>rossa</E
+M>la l</E
+M>verde</E
+M>il rosso</E
+M>il verde</E
+M>luci di perimetro</E
+M>luce d’ostacolo</E
+M>Cinema</E
+M>locale a l</E
+M>rossa</E
+M>a l</E
+M>rosse</E
+M>film</E
+M>pellicola</E
+M>show a l</E
+M>rosse</E
+M>luci di posizione</E
+M>la prima l</E
+M>la verace l</E
+M>la l</E
+M>eterna</E
+M>la l</E
+M>perpetua</E
+M>Quest’è la l</E
+M>de la gran Costanza</E
+M>Ecco Anna d’Aragon</E
+M>luce del Vasto</E
+M>degli occhi miei</E
+M>della mia vita</E
+M>Luce degli occhi miei chi mi t’asconde?</E
+M>degli occhi</E
+M>degli occhi</E
+M>perdere</E
+M>riacquistare la l</E
+M>degli occhi</E
+M>esser privo della l</E
+M>degli occhi</E
+M>amare</E
+M>esser caro come la l</E
+M>degli occhi</E
+M>la l</E
+M>Noi veggiam</E
+M>come quei c’ha mala luce</E
+M>Le cose</E
+M>che ne son lontano</E
+M>le l</E
+M>triste</E
+M>sole Son le mie l</E
+M>In me volgeva sue l</E
+M>beate</E
+M>Morrò contento Del mio destino omai</E
+M>né più mi dolgo Ch’aprii le l</E
+M>al dì</E
+M>torte Da ogni obietto diseguale a loro</E
+M>luci</E
+M>vedute</E
+M>prospetti</E
+M>armadio a una</E
+M>più luci</E
+M>specchio a due l</E
+M>luce</E
+M>di una porta</E
+M>di una finestra</E
+M>di un’arcata</E
+M>un ponte a tre l</E
+M>di interasse</E
+M>netta</E
+M>teorica</E
+M>bocca</E
+M>di distribuzione</E
+M>di lavaggio</E
+M>di scarico</E
+M>di stampa</E

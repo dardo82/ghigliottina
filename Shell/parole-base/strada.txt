@@ -1,0 +1,403 @@
+strada.txt
+"a metà strada"
+"accostarsi al lato della strada"
+"acrobata di strada"
+"al margine della strada"
+"andare lontano; fare strada"
+"appianare la strada, spianare la strada"
+"aprire la strada"
+"aprire la strada"
+"aprire la strada a"
+"aprire la strada a"
+"aprire la strada a"
+"aprire la strada a qualcosa"
+"arrivare lontano; fare strada (fig.)"
+"artista di strada"
+"azione da pirata della strada"
+"azione da pirata della strada"
+"azione da pirata della strada"
+"cantante di strada"
+"che apre la strada"
+"ciglio della strada"
+"codice della strada"
+"conoscere la strada"
+"donna di strada"
+"efficiente su strada"
+"essere fuori strada"
+"far strada"
+"far strada"
+"fare strada"
+"fare tutta la strada fino a un luogo"
+"farne di strada"
+"farsi strada"
+"farsi strada"
+"farsi strada"
+"farsi strada"
+"farsi strada a forza"
+"farsi strada attraverso"
+"fuori strada"
+"fuori strada"
+"fuori strada"
+"fuori strada"
+"fuori tema; fuori strada"
+"gente di strada"
+"guidare fuori strada"
+"il far strada"
+"il far strada"
+"in mezzo alla strada"
+"indicare la strada"
+"indicare la strada"
+"l'uomo della strada"
+"l'uomo della strada"
+"la propria strada"
+"la Strada"
+"la strada è ancora lunga"
+"la strada è in discesa"
+"la strada inizia a salire"
+"la strada tracciata"
+"lastricare una strada"
+"liberare la strada"
+"lungo la strada"
+"lungo tutta la strada per"
+"margine della strada"
+"messa su strada"
+"metà strada"
+"mettersi in viaggio; essere per strada"
+"mostrare la strada"
+"motocicletta o bicicletta da strada"
+"nome della strada"
+"non segue la strada maestra"
+"non segue la strada maestra"
+"per strada"
+"pirata della strada"
+"pirata della strada"
+"pirata della strada, guidatore spericolato"
+"portare qualcuno fuori strada, sviare qualcuno"
+"portare sulla cattiva strada"
+"prendere una cattiva strada"
+"proprio dall'altro lato della strada"
+"prova su strada"
+"qualsiasi strada"
+"ragazzo di strada"
+"rissa di strada"
+"spianare la strada"
+"strada"
+"strada"
+"strada"
+"strada"
+"strada"
+"strada a doppio senso di marcia"
+"strada a pedaggio"
+"strada a scorrimento veloce"
+"strada a velocità controllata dai radar"
+"strada alternativa"
+"strada aperta"
+"strada carrabile"
+"strada carraia"
+"strada commerciale"
+"strada con diritto di precedenza"
+"strada curva"
+"strada del fieno"
+"strada del ritorno"
+*[[via]], [[carreggiata]], [[carrozzabile]]; via di comunicazione
+*[[percorso]], [[tragitto]], [[cammino]], [[itinerario]]
+*[[sentiero]], [[vicolo]], [[calle]], [[viottolo]], [[viale]], [[corso]], [[superstrada]], [[autostrada]]
+* [[passaggio]], [[varco]], [[apertura]], [[solco]]
+* [[direzione]] 
+*[[stradare]],[[strada verde]], [[tv di strada]],[[cibo di strada]], [[cucina di strada]], [[stradiere]], [[battistrada]], [[autostrada]], [[instradare]], [[stradale]], [[stradario]], [[superstrada]]
+*''(operaio)'' [[stradino]]
+*Devoto/Oli, '' Il dizionario della lingua italiana'' edizione cartacea, 2000-2001, Le Monnier, p. 2058
+*AA.VV., '' Dizionario etimologico'',edizione 2004, ristampa 2008,Rusconi libri p.960 
+m>strata</e
+m>via</e
+m>stratus</e
+m>stern</e
+m>s. pedonale</e
+m>via</e
+m>la s. che porta dal cancello alla villa</e
+m>piste</e
+m>sentieri</e
+m>tratturi</e
+m>s. pubbliche</e
+m>private</e
+m>s. principali</e
+m>secondarie</e
+m>s. di piccola</e
+m>di media</e
+m>di grande importanza</e
+m>s. statali</e
+m>nazionali</e
+m>s. regionali</e
+m>s. provinciali</e
+m>s. comunali</e
+m>Azienda Autonoma delle S.</e
+m>s. militari</e
+m>s. rotabile</e
+m>carrozzabile</e
+m>s. ordinaria</e
+m>autostrada</e
+m>ferrovie</e
+m>s. ferrata</e
+m>strada di ferro</e
+m>trasporti su strada</e
+m>trasporti per ferrovia</e
+m>su rotaia</e
+m>s. camionabile</e
+m>s. carovaniera</e
+m>s. mulattiera</e
+m>s. maestra</e
+m>s. regia</e
+m>via</e
+m>corrente</e
+m>s. urbane</e
+m>di città</e
+m>s. extraurbane</e
+m>s. di campagna</e
+m>s. di montagna</e
+m>s. periferiche</e
+m>s. vicinali</e
+m>s. di circonvallazione</e
+m>s. panoramica</e
+m>s. urbane</e
+m>arterie</e
+m>di traffico</e
+m>s. di scorrimento veloce</e
+m>s. residenziali</e
+m>s. di transito</e
+m>radiali</e
+m>di penetrazione</e
+m>anulari</e
+m>interne</e
+m>s. coperta</e
+m>strada</e
+m>via</e
+m>via</e
+m>Strada Maggiore</e
+m>Strada Nuova</e
+m>Via Appia</e
+m>Via Emilia</e
+m>Via Salaria</e
+m>fare</e
+m>costruire</e
+m>aprire una s.</e
+m>la manutenzione d&rsquo;una s.</e
+m>delle s.</e
+m>il fondo</e
+m>la massicciata della s.</e
+m>s. a carreggiata unica</e
+m>s. a doppia carreggiata</e
+m>s. a due</e
+m>a tre corsie</e
+m>s. multicorsia</e
+m>s. sterrata</e
+m>lastricata</e
+m>selciata</e
+m>asfaltata</e
+m>la mezzeria</e
+m>i lati</e
+m>i marciapiedi</e
+m>il ciglio della s.</e
+m>all&rsquo;angolo</e
+m>alla curva della s.</e
+m>la facciata</e
+m>le finestre che danno sulla s.</e
+m>sulla via</e
+m>s. diritta</e
+m>s. tutta svolte</e
+m>piena di svolte</e
+m>s. piana</e
+m>pianeggiante</e
+m>s. che sale</e
+m>in salita</e
+m>che scende</e
+m>in discesa</e
+m>s. ripida</e
+m>s. comoda</e
+m>scomoda</e
+m>buona</e
+m>a fondo buono</e
+m>cattiva</e
+m>pessima</e
+m>ben tenuta</e
+m>mal tenuta</e
+m>s. polverosa</e
+m>bagnata</e
+m>fangosa</e
+m>piena di buche</e
+m>s. ombrosa</e
+m>s. frequentata</e
+m>battuta</e
+m>s. solitaria</e
+m>deserta</e
+m>una s. fuori</e
+m>mano</e
+m>la s. che unisce un paese all&rsquo;altro</e
+m>che porta</e
+m>conduce a ...</e
+m>che mette</e
+m>che sbocca in ...</e
+m>tutte le s. conducono</e
+m>portano</e
+m>a Roma</e
+m>la circolazione</e
+m>il traffico su strada</e
+m>automezzi per la circolazione fuori strada</e
+m>prezzo su strada</e
+m>prezzo chiavi in mano</e
+m>corse ciclistiche su strada</e
+m>corse in pista</e
+m>gare di ciclocross</e
+m>trovare</e
+m>incontrare qualcuno per la s.</e
+m>mettersi la s. tra le gambe</e
+m>attraversare la s.</e
+m>tagliare la s.</e
+m>andare</e
+m>uscire fuori strada</e
+m>vettura che tiene bene la s.</e
+m>con buona tenuta di strada</e
+m>codice della s.</e
+m>l&rsquo;uomo della s.</e
+m>è tutto il giorno per la s.</e
+m>per le s.</e
+m>ragazzi cresciuti</e
+m>vissuti in strada</e
+m>donna</e
+m>donnaccia di strada</e
+m>prendere</e
+m>raccogliere dalla s.</e
+m>ha adottato quel ragazzo raccogliendolo dalla s.</e
+m>l&rsquo;ha presa dalla s. e se l&rsquo;è sposata</e
+m>un attore di cinema preso dalla s.</e
+m>parolacce</e
+m>bestemmie da s.</e
+m>darsi alla s.</e
+m>buttarsi alla s.</e
+m>brigante</e
+m>ladro</e
+m>assassino di s.</e
+m>essere in mezzo a una s.</e
+m>mettere sulla s.</e
+m>in mezzo a una s.</e
+m>essere</e
+m>mettere sul lastrico</e
+m>strada</e
+m>fotografi della s.</e
+m>virus di s.</e
+m>conoscere</e
+m>sapere</e
+m>indicare</e
+m>mostrare</e
+m>insegnare la s.</e
+m>essere incerto della</e
+m>sulla</e
+m>che s. fai?</e
+m>possiamo fare la s. insieme</e
+m>ho fatto la s. in meno di un&rsquo;ora</e
+m>essere a metà s.</e
+m>fermarsi a mezza</e
+m>a metà</e
+m>ci siamo fermati per s. a mangiare un boccone</e
+m>lo chiamai ma egli seguitò la sua s. senza darmi retta</e
+m>non ha aperto bocca per tutta la s.</e
+m>strada facendo</e
+m>mi racconterai tutto strada facendo.</e
+m>la s. è lunga</e
+m>c&rsquo;è ancora tanta s. da fare</e
+m>c&rsquo;è molta s. fin là</e
+m>ci saranno tre o quattro chilometri di s.</e
+m>c&rsquo;è un&rsquo;ora di s.</e
+m>un giorno di s.</e
+m>un corridore</e
+m>un ciclista</e
+m>un cavallo</e
+m>un treno che divora la s.</e
+m>si sono separati</e
+m>divisi</e
+m>e hanno preso s. diverse</e
+m>le nostre s. divergevano</e
+m> quella di mio padre e la mia</e
+m>mettersi</e
+m>incamminarsi per una s.</e
+m>prendere</e
+m>pigliare</e
+m>seguire</e
+m>tenere una s.</e
+m>imboccare la s. giusta</e
+m>la s. migliore</e
+m>sbagliare</e
+m>cambiare s.</e
+m>andare per la propria s.</e
+m>essere sulla buona s.</e
+m>sulla s. sbagliata</e
+m>su una cattiva s.</e
+m>se vuoi arrivare presto</e
+m>se vuoi riuscire</e
+m>la s. è quella</e
+m>non c&rsquo;è altra s.</e
+m>mettere</e
+m>rimettere sulla s. giusta</e
+m>sulla buona s.</e
+m>essere</e
+m>andare</e
+m>mettere</e
+m>far andare fuori</e
+m>cercare</e
+m>trovare la propria s.</e
+m>seguire la s. dell&rsquo;onore</e
+m>mettersi per la s. del vizio</e
+m>del delitto</e
+m>del disonore</e
+m>la s. del cielo</e
+m>del paradiso</e
+m>dell&rsquo;inferno</e
+m>Così qua giù si gode</e
+m> E la s. del ciel si trova aperta</e
+m>fare poca</e
+m>molta s.</e
+m>di questo passo</e
+m>non faremo molta s.</e
+m>con la sua indolenza</e
+m>non farà molta s. nella vita</e
+m>è un bravo giovane</e
+m>che farà certo molta s.</e
+m>ne ha fatta di strada da allora!</e
+m>continua pure così</e
+m> che farai strada!</e
+m>tentò tutte le s.</e
+m>si vide chiuse tutte le s.</e
+m>ogni s.</e
+m>hanno appena immaginato un disegno</e
+m> che il conte duca te l&rsquo;ha già indovinato</e
+m> con quella sua testa</e
+m> con quelle sue s. coperte</e
+m>farsi</e
+m>aprirsi una s. nel bosco</e
+m>nella neve</e
+m>nel ghiaccio</e
+m>una selva così fitta che bisognava aprirsi la s. con la scure</e
+m>farsi strada tra la folla</e
+m>nella ressa</e
+m>fare s. a qualcuno</e
+m>fare</e
+m>aprire la s. a qualcuno</e
+m>fare</e
+m>aprire la s. a un&rsquo;invenzione</e
+m>a una scoperta</e
+m>a determinati studî</e
+m>trovare la s. fatta</e
+m>farsi strada da solo</e
+m>farsi strada</e
+m>è un giovane che ha saputo farsi s.</e
+m>la verità si fa s. da sé</e
+m>da quai lidi Prendeste a frequentar l&rsquo;umide s.?</e
+m>la s. del Sole</e
+m>la s. della Luna</e
+m>le s. degli astri</e
+m>fare la s. a una vite</e
+m>il rigagnolo ha trovato una nuova s. attraverso il campo</e
+m>per salvare i paesi minacciati dall&rsquo;eruzione si tenta</e
+m> con esplosioni e sbarramenti</e
+m> di aprire una nuova s. alla lava</e
+m>graticcia</e
+m>ben presto vide aprirsi una straducola a mancina</e

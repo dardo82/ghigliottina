@@ -1,0 +1,69 @@
+mensa.txt
+"indennità di mensa"
+"mensa"
+"mensa aziendale"
+"mensa per i poveri"
+#*'' quando lavoro mangio sempre nella mensa aziendale''
+*[[tavola]]
+*'' (in collegi, conventi e sim.)'' [[refettorio]] 
+M>mensa</E
+M>mettersi</E
+M>sedere</E
+M>essere a m</E
+M>levarsi da mensa</E
+M>imbandire la m</E
+M>mensa imbandita</E
+M>tavola</E
+M>la m</E
+M>ingombra Di povere vivande</E
+M>mettere la m</E
+M>le m</E
+M>levare la m</E
+M>le m</E
+M>al levar delle m</E
+M>al levar delle m</E
+M>ci furono i brindisi</E
+M>della fortuna</E
+M>ricca</E
+M>sontuosa</E
+M>abbondante</E
+M>ben fornita</E
+M>una m</E
+M>povera</E
+M>frugale</E
+M>sedere a una parca mensa</E
+M>prima della m</E
+M>durante la m</E
+M>dopo la m</E
+M>la m</E
+M>era rallegrata da lieti suoni</E
+M>separazione di letto e di m</E
+M>fare m</E
+M>insieme</E
+M>far m</E
+M>comune</E
+M>prime m</E
+M>seconde m</E
+M>impose dunque messer Geri a uno de’ suoi famigliari che per un fiasco andasse del vin di Cisti e di quello un mezzo bicchier per uomo desse alle prime m</E
+M>prima m</E
+M>seconda m</E
+M>eucaristica</E
+M>di Cristo</E
+M>sacra m</E
+M>degli angeli</E
+M>accostarsi alla m</E
+M>eucaristica</E
+M>oh beati quelli pochi che seggiono a quella m</E
+M>dove lo pane de li angeli si manduca</E
+M>di Venere</E
+M>basterà conducerla alla m</E
+M>di Venere una volta la settimana</E
+M>ufficiali</E
+M>sottufficiali</E
+M>aziendale</E
+M>dei ferrovieri</E
+M>comunale</E
+M>andare alla m</E
+M>mangiare alla mensa</E
+M>vescovile</E
+M>ponderaria</E

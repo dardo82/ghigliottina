@@ -1,0 +1,32 @@
+ricambiare.txt
+"ricambiare"
+"ricambiare"
+"ricambiare il saluto"
+"ricambiare uno sguardo."
+M>cambiare</E
+M>io ricàmbio</E
+M>si è insudiciato il vestito nuovo</E
+M>e ha dovuto ricambiarsi</E
+M>essere</E
+M>avere</E
+M>il tempo ricambia</E
+M>è ricambiato</E
+M>cambiare</E
+M>ho dovuto r</E
+M>alcuni pezzi del motore</E
+M>la merce</E
+M>una volta acquistata</E
+M>non si ricambia</E
+M>ricòrdati di r</E
+M>i suoi augurî</E
+M>la gentilezza</E
+M>il favore</E
+M>l&#8217;amicizia</E
+M>l&#8217;affetto</E
+M>una visita</E
+M>un invito</E
+M>ricambierò le sue offese come meritano</E
+M>ricambiarsi gli augurî</E
+M>scambiarsi</E
+M>un complimento</E
+M>il saluto</E

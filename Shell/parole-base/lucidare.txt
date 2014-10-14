@@ -1,0 +1,17 @@
+lucidare.txt
+"lucidare"
+"lucidare"
+"lucidare un metallo"
+"strumento per lucidare"
+"tampone per lucidare"
+"tampone per lucidare"
+M>lucidare</E
+M>luc</E
+M>dus</E
+M>io lùcido</E
+M>i pavimenti</E
+M>le scarpe</E
+M>un metallo</E
+M>i mobili</E
+M>lustrare</E
+M>prodotti lucidanti</E

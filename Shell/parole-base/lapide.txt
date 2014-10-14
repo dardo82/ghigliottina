@@ -1,0 +1,14 @@
+lapide.txt
+"lapide"
+"lapide"
+"lapide funeraria"
+"lapide funeraria"
+"placchetta sulla lapide"
+m>lapis</e
+m>dis</e
+m>sepolcrale</e
+m>funebre</e
+m>mettere</e
+m>inaugurare</e
+m>scoprire una lapide</e
+m>lapida</e

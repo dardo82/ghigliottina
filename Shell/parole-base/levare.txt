@@ -1,0 +1,270 @@
+levare.txt
+"in battere e levare"
+"in levare"
+"levare"
+"levare"
+"alzare, sollevare"
+"levare, replace: levarsi"
+"levare, replace: levarsi"
+"levare il cappello, fare tanto di cappello"
+"levare le tende"
+"levare, togliere, improvvisare"
+*[[innalzare]], [[tirare su]],[[ ergere]], [[ergersi]] 
+*[[togliere]], [[rimuovere]], [[portar via]], [[spostare]], [[estarre]], [[cavare]], [[abolire]], [[sollevare]] [[sollevarsi]], [[rizzarsi]], [[ sorgere]], [[spuntare]], [[svegliarsi]], [[destarsi]], [[ togliersi]], [[farsi da parte]] , [[muovere]] , [[alzare]] 
+*[[abbassare]], [[calare]], [[tirare giù]], [[mettere]], [[porre]], [[collocare]], [[introdurre]], [[infilare]], [[abbassarsi]], [[chinarsi]], [[calare]], [[tramontare]], [[coricarsi]], [[andare a letto]], [[avvicinarsi]]
+*[[allevare]], [[leva]], [[levacapsule]], [[levachiodi]],[[levanoccioli]], [[Levante]], [[levante]], [[levapunti]], [[levarsi]], [[levata]], [[levatartaro]], [[levato]], [[levatrice]], [[levatura]],[[rilevare]], [[prelevare]]
+*[[eccettuare]]
+M>vare</E
+M>vis</E
+M>io lèvo</E
+M>alzare</E
+M>le mani</E
+M>le braccia</E
+M>gli occhi</E
+M>il capo</E
+M>un dito</E
+M>non avere la forza</E
+M>non essere capace di l</E
+M>un dito</E
+M>il bollore</E
+M>levar fiamma</E
+M>di peso</E
+M>un uomo così robusto che può l</E
+M>un sacco d’un quintale</E
+M>chi lo leva un baule così pesante?</E
+M>lamenti</E
+M>un grido</E
+M>una protesta</E
+M>levar protesto</E
+M>il pensiero a Dio</E
+M>in alto la mente</E
+M>Levommi il mio penser in parte ov’era Quella ch’io cerco</E
+M>e non ritrovo in terra</E
+M>Voi mi levate sì</E
+M>ch’i’ son più ch’io</E
+M>al cielo</E
+M>grido</E
+M>levar grido di sé</E
+M>levar rumore</E
+M>le gambe</E
+M>levarsi in piedi</E
+M>levarsi da tavola</E
+M>levarsi a parlare</E
+M>levare</E
+M>E però leva sù; vinci l’ambascia</E
+M>levarsi</E
+M>levarsi tardi</E
+M>levarsi di cattivo umore</E
+M>alzarsi</E
+M>levarsi contro qualcuno</E
+M>levarsi a rumore</E
+M>levarsi in armi</E
+M>levarsi in difesa di qualcuno</E
+M>levarsi a</E
+M>in volo</E
+M>levarsi sopra le miserie</E
+M>sopra le bassezze umane</E
+M>O somma luce che tanto ti levi Da’ concetti mortali</E
+M>non lontano dal mare si levano alcune colline</E
+M>in mezzo al paese si leva un’antica torre</E
+M>Sia buono il pane</E
+M>sia ben levato</E
+M>il sole si leva alle 4</E
+M>si levò a un tratto una sottile brezza</E
+M>l’ancora</E
+M>levare</E
+M>levarsi</E
+M>i remi</E
+M>leva remi!</E
+M>fare leva remi</E
+M>stare a leva remi</E
+M>leva</E
+M>leva!</E
+M>a leva leva</E
+M>scaricare un galleggiante a leva leva</E
+M>una lepre</E
+M>una pernice</E
+M>aggiungere</E
+M>mettere</E
+M>cavare</E
+M>la posta</E
+M>un ingombro</E
+M>un quadro dalla parete</E
+M>le coperte dal letto</E
+M>una tassa</E
+M>un divieto</E
+M>una proibizione</E
+M>levo a ognuno di voi gli ordini scellerati che avete da me</E
+M>leva di lì quelle carte</E
+M>ho levato le macchie con la benzina</E
+M>gli levò dalle mani il bastone</E
+M>non c’è da l</E
+M>una virgola</E
+M>non c’è nulla da aggiungere né da l</E
+M>levarsi la giacca</E
+M>i calzoni</E
+M>le scarpe</E
+M>i guanti</E
+M>levarsi il cappello</E
+M>la maschera</E
+M>smascherare</E
+M>levarsi la barba</E
+M>farsi la barba</E
+M>levarsi i baffi</E
+M> il pizzo</E
+M>la pelle</E
+M>botte da l</E
+M>la pelle</E
+M>il pelo</E
+M>due scapaccioni non te li leva nessuno</E
+M>l’assedio</E
+M>il campo</E
+M>le tende</E
+M>levare le tende</E
+M>cartello</E
+M>un dente</E
+M>la spada dal fodero</E
+M>un chiodo dal muro</E
+M>la chiave dalla toppa</E
+M>le parti</E
+M>una somma dal totale</E
+M>dall’incasso complessivo vanno levate le spese</E
+M>se si levano tre o quattro</E
+M>gli altri valgono assai poco</E
+M>dovettero levarlo a forza di là</E
+M>ha levato il figlio dalla scuola</E
+M>dal</E
+M>collegio</E
+M>dagli studî</E
+M>dal mestiere</E
+M>da lavorare</E
+M>soffre tanto che sarebbe meglio che Dio lo levasse</E
+M>levarsi d’attorno</E
+M>di torno qualcuno</E
+M>levarsi da un luogo</E
+M>lèvati di qui</E
+M>levatevi di torno</E
+M>lèvati dai piedi</E
+M>dagli stivali</E
+M>d’impicci qualcuno</E
+M>di bisogno</E
+M>d’affanni</E
+M>d’errore</E
+M>dagli impicci</E
+M>dall’errore</E
+M>togliere</E
+M>liberare</E
+M>leva via tutta questa cartaccia</E
+M>levò fuori dal cassetto un piccolo involto</E
+M>d’addosso un peso</E
+M>levarsi di dosso un indumento</E
+M>non gli riesce di levarsi d’addosso quella febbriciattola</E
+M>Levar di sotto</E
+M>m’ha levato di sotto una firma compromettente</E
+M>Levare di mezzo</E
+M>leva di mezzo quella scala</E
+M>di mezzo una lite</E
+M>la causa di un male</E
+M>una fonte di contrasti</E
+M>di scandali</E
+M>di mezzo un intrigante</E
+M>un fannullone</E
+M>temevano che potesse far la spia e lo levarono di mezzo</E
+M>Levare la fame</E
+M>la sete</E
+M>levarsi la fame</E
+M>la sete</E
+M>il latte</E
+M>una voglia</E
+M>finalmente ho potuto levarmi la voglia delle fragole</E
+M>con due buone legnate gli levarono la voglia di ripetere lo scherzo</E
+M>un capriccio</E
+M>levarsi un gusto</E
+M>il ruzzo</E
+M>un vizio</E
+M>un’idea dalla testa</E
+M>dalla mente</E
+M>dal cervello</E
+M>a qualcuno</E
+M>levarsi dal cuore</E
+M>non riesce a levarsi dal cuore quella ragazza</E
+M>il pan di bocca a qualcuno</E
+M>levarsi il pane</E
+M>il boccone</E
+M>di bocca</E
+M>si leva il pane di bocca per darlo agli affamati</E
+M>di bocca un segreto</E
+M>levar di bocca</E
+M>non</E
+M>i riesce a levargli nulla di bocca</E
+M>cavare</E
+M>m’hai levato la parola di bocca</E
+M>di mano le botte</E
+M>le leverebbe di mano a un santo</E
+M>il fiato</E
+M>una salita</E
+M>un fetore che leva il fiato</E
+M>un periodo così lungo da l</E
+M>il fiato</E
+M>le mani da una faccenda</E
+M>da un lavoro</E
+M>i piedi</E
+M>le gambe da qualche impiccio</E
+M>mi sono impegnato in questo malaugurato affare e non so come levarne i piedi</E
+M>la messa</E
+M>il disturbo</E
+M>l’incomodo</E
+M>il saluto</E
+M>il rispetto a qualcuno</E
+M>l’onore</E
+M>il credito</E
+M>sono arrivati a dire che il gran cancelliere è un vecchio rimbambito</E
+M>per levargli il credito</E
+M>di possesso</E
+M>di sentimento</E
+M>levar volta</E
+M>barra</E
+M>con nave</E
+M>mandò a’ Genovesi</E
+M>che con loro navilio</E
+M>dovessero l</E
+M>i detti cardinali e prelati da Nizza</E
+M>e conducergli per mare a Roma</E
+M>nessun m’è fatto oltraggio</E
+M>Se quei che leva quando e cui li piace</E
+M>Più volte m’ha negato esto passaggio</E
+M>L. gente</E
+M>soldati</E
+M>le tavole</E
+M>le mense</E
+M>come levate furon le tavole</E
+M>così comandò che la Lauretta una danza prendesse</E
+M>dal sacro fonte</E
+M>Giannotto il levò del sacro fonte e nominollo Giovanni</E
+M>Carlo dal salutifero lavacro Con cerimonie debite levolla</E
+M>la pianta di un luogo</E
+M>quel falso pezzente che s’era inoltrato a quel modo nella povera casetta</E
+M>non era altro che il Griso</E
+M>il quale veniva per levarne a occhio la pianta</E
+M>il l</E
+M>del Sole</E
+M>della Luna</E
+M>al levar del sole eravamo già in cammino</E
+M>apparente</E
+M>astronomico</E
+M>cosmico</E
+M>acronittico</E
+M>eliaco</E
+M>levata eliaca</E
+M>tempo</E
+M>movimento</E
+M>unità in levare</E
+M>in battere</E
+M>già son levati Tutt’i coperchi</E
+M>e nessun guardia face</E
+M>restare levato ad aspettare qualcuno</E
+M>alzato</E
+M>fuggire a gambe levate</E
+M>l’alte torri o le più levate cime degli alberi</E
+M>levato quel difetto del bere</E
+M>è un gran brav’uomo</E

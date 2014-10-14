@@ -1,0 +1,50 @@
+iscrizione.txt
+"costo iscrizione"
+"iscrizione"
+"iscrizione"
+"iscrizione"
+"iscrizione aperta"
+"modulo di iscrizione"
+"tassa d'iscrizione"
+"tassa di registrazione, tassa di iscrizione"
+* [[registrazione]], [[ammissione]], [[inclusione]], [[immatricolazione]]
+*[[cartello]], [[scritta]], [[dicitura]], [[legenda]], [[stampigliatura]]
+*[[incisione]], [[epigrafe]], [[epitaffio]], [[necrologio]]
+*[[cancellazione]], [[eliminazione]], [[espulsione]], [[radiazione]]
+*[[iscrivere]], [[iscriversi]]
+M>inscriptio</E
+M>onis</E
+M>inscrib</E
+M>marmorea</E
+M>lapidaria</E
+M>bronzea</E
+M>onoraria</E
+M>sepolcrale</E
+M>funebre</E
+M>antiche</E
+M>leggere</E
+M>decifrare un’i</E
+M>bilingue</E
+M>raccolta di iscrizioni</E
+M>inscrizione</E
+M>inscriptio</E
+M>alle scuole elementari</E
+M>all’università</E
+M>a un circolo</E
+M>a una società</E
+M>a un partito</E
+M>fare</E
+M>chiedere</E
+M>ottenere</E
+M>avere l’i</E
+M>certificato d’i</E
+M>tassa d’i</E
+M>di un’impresa</E
+M>di un motoveicolo</E
+M>della nave</E
+M>dell’ipoteca</E
+M>a ruolo delle imposte</E
+M>della causa a ruolo</E
+M>inscrizione</E
+M>di un poligono in una circonferenza</E
+M>di un veicolo in curva</E

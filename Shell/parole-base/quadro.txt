@@ -1,0 +1,56 @@
+quadro.txt
+"accordo quadro"
+"bello come un quadro"
+"centimetro quadro"
+"centimetro quadro, centimetro quadrato"
+"chilometro quadro, chilometro quadrato"
+"contratto quadro"
+"cornice di quadro"
+"crosta - quadro"
+"dipingere un quadro"
+"il grande quadro"
+"il quadro, la figura, l'immagine"
+"legge quadro"
+"millimetro quadro, millimetro quadrato"
+"quadro"
+"quadro"
+"quadro"
+"quadro"
+"quadro"
+"quadro"
+"quadro"
+"quadro"
+"quadro"
+"quadro"
+"quadro"
+"quadro (dirigente)"
+"quadro acrilico"
+"quadro clinico"
+"quadro con fiori"
+"quadro decorativo"
+"quadro degli strumenti"
+"quadro della situazione"
+"quadro di comando"
+"quadro di connessione (elettr.)"
+"quadro di riferimento"
+"quadro elettrico"
+"quadro istituzionale e normativo"
+"quadro mentale"
+"quadro salvavita"
+"quadro svedese"
+"un quadro più ampio"
+#* [[unità]] di [[misura]] lineari elevate al quadrato
+#* detto di persona [[ponderato|ponderata]] e [[raziocinante]]
+#* tabellone che nelle scuole si appende alle pareti come [[sussidio]] [[visivo]]
+#* il [[personale]] di una [[azienda]] che ha [[mansione|mansioni]] tecniche ed organizzative ad elevati livelli di [[responsabilità]]
+*[[quadrato]]
+*[[squadrato]]
+*''(di spalle)'' [[quadrato]], [[largo]], [[robusto]]
+*[[dipinto]], [[tela]], [[tavola]], [[olio]], [[acquerello]], [[tempra]], [[guazzo]], [[scena]], [[immagine]], [[spettacolo]]
+*''(di una situazione)'' [[rappresentazione]], [[descrizione]], [[illustrazione]]
+*''(politico,economico ecc.)'' [[situazione]], [[condizione]], [[panorama]]
+*''(superficie quadrata)'' [[quadrato]], [[riquadro]]
+*[[schema]], [[tabella]], [[prospetto]], [[specchietto]]
+*[[quadro di comando]], [[pannello]], [[console]] 
+*[[spiovente]]
+*[[riquadrare]]

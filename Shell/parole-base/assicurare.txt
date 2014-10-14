@@ -1,0 +1,60 @@
+assicurare.txt
+"assicurare"
+"assicurare"
+"assicurare"
+"assicurare, replace: assicurarsi"
+"assicurare, replace: assicurarsi"
+"assicurare, replace: assicurarsi"
+"assicurare a"
+"assicurare alla giustizia"
+"assicurare il pagamento"
+"assicurare il successo"
+"assicurare, assicurare, replace: assicurare, assicurarsi"
+* [[garantire]],  [[procurare]], [[rendere]] [[sicuro]],  [[legare]], [[fissare]]
+*[[assicurabile]], [[assicurarsi]], [[assicurata]], [[assicurativo]], [[assicurato]], [[assicuratore]], [[assicurazione]],  [[rassicurare]]
+M>*assecurare</E
+M>securus</E
+M>questa clausola del contratto ci assicura da qualsiasi sorpresa</E
+M>una classe qualunque non protegge un individuo</E
+M>non lo assicura</E
+M>che fino a un certo segno</E
+M>l’avvenire ai proprî figli</E
+M>il buon esito di un’impresa</E
+M>la pace sembrava ormai assicurata</E
+M>assicurarsi un impiego</E
+M>uno stipendio</E
+M>una vecchiaia serena</E
+M>una porta</E
+M>una finestra</E
+M>una scala al muro</E
+M>una nave ai suoi ormeggi</E
+M>la corda</E
+M>assicurarsi</E
+M>prima d’iniziare la discesa</E
+M>assicurò la fune a un grosso masso</E
+M>qualcuno alla giustizia</E
+M>i due rapinatori sono stati assicurati alla giustizia</E
+M>lo assicurai che suo figlio stava bene</E
+M>ti assicuro che non mi è accaduto nulla</E
+M>assicurò ai compagni di non avere nulla in contrario</E
+M>mi assicurò che sarebbe tornato presto</E
+M>assicura di non conoscerlo</E
+M>voglio assicurarmi che tutto proceda regolarmente</E
+M>si assicurò di aver chiuso la porta</E
+M>assicurati della veridicità della notizia</E
+M>aveva assicurato la casa per centomila euro</E
+M>una vettura contro il furto</E
+M>assicurarsi sulla vita</E
+M>una lettera</E
+M>un plico</E
+M>Leva la testa e fa che t’assicuri</E
+M>in cotal guisa</E
+M>Ch’io n’agghiacciava</E
+M>e ancor non m’assicuro</E
+M>Dolente</E
+M>lasso</E
+M>già non m’as</E
+M>ecuro</E
+M>Ché tu m’assali</E
+M>Amore</E
+M>e mi combatti</E

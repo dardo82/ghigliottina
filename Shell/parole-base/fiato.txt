@@ -1,0 +1,139 @@
+fiato.txt
+"banda di strumenti a fiato"
+"bere d'un fiato"
+"col fiato sospeso"
+"con il fiato sospeso"
+"essere senza fiato"
+"farsi il fiato"
+"fiato"
+"fiato"
+"fiato"
+"fiato corto"
+"fiato sprecato"
+"fiato, respiro"
+"gli strumenti a fiato"
+"inghiottire tutto d'un fiato"
+"manca il fiato"
+"prendere fiato"
+"prendere un po' di fiato; di aria"
+"restare senza fiato"
+"riprendere fiato"
+"riprendi fiato"
+"risparmia il fiato"
+"rompere il fiato"
+"senza fiato"
+"senza fiato"
+"senza fiato"
+"senza fiato"
+"spezzare il fiato"
+"strumento a fiato"
+"strumento a fiato"
+"strumento a fiato (di legno)"
+"strumento musicale a fiato (flauto, oboe, clarinetto e fagotto)"
+"tirare il fiato"
+"trattieni il fiato"
+#* avere 
+#* avere il 
+#* riprendere 
+#* sentirsi mancare il 
+#* dar 
+*[[respiro]], [[alito]], [[sospiro]]
+*(di aria) [[soffio]], [[sbuffo]]
+*[[allenamento]], [[resistenza]]
+*[[soffocazione]], mancanza di respiro, [[asfissia]]
+*[[mozzafiato]], [[affiatarsi]], [[fiatare]]
+*''fare il fiato''  incrementare  la propria resistenza alla fatica; 
+*''avere il fiato grosso''
+*''tutto d'un fiato''
+*''sprecare il fiato''
+M>flatus</E
+M>flare</E
+M>avere il f</E
+M>buono</E
+M>cattivo</E
+M>che sa di vino</E
+M>di sigaro</E
+M>gli puzza il f</E
+M>scaldare</E
+M>appannare col f</E
+M>mandare l’ultimo f</E
+M>trattenere il f</E
+M>un vento</E
+M>un fetore che mozza il f</E
+M>una salita che mozza il f</E
+M>grosso</E
+M>corto</E
+M>restare senza f</E
+M>sentirsi mancare il f</E
+M>il meschino girava di stanza in stanza</E
+M>pallido</E
+M>senza f</E
+M>pigliare</E
+M>ripigliare f</E
+M>non aver f</E
+M>in corpo</E
+M>sprecare</E
+M>buttare via il f</E
+M>risparmiare il f</E
+M>finché mi regge il f</E
+M>finché avrò f</E
+M>finché avrò f</E
+M>in corpo</E
+M>finché c’è f</E
+M>finché c’è vita</E
+M>c’è speranza</E
+M>Strumenti a fiato</E
+M>da fiato</E
+M>fiati</E
+M>Dare fiato alle trombe</E
+M>in un f</E
+M>arrivò in un f</E
+M>in cima alle scale</E
+M>d’un f</E
+M>pronunciò quelle parole tutte d’un f</E
+M>bevve tutto il bicchiere d’un f</E
+M>libro che si legge</E
+M>si fa leggere</E
+M>d’un f</E
+M>ha dormito dodici ore d’un f</E
+M>gridare</E
+M>urlare</E
+M>a perdita di fiato</E
+M>avere</E
+M>non avere f</E
+M>essere in f</E
+M>fare il f</E
+M>ci vuol ben altro f</E
+M>per quel lavoro!</E
+M>scrittore che non ha f</E
+M>che ha il f</E
+M>corto</E
+M>Poscia che ’l foco alquanto ebbe rugghiato Al modo suo</E
+M>l’aguta punta mosse Di qua</E
+M>di là</E
+M>e poi diè cotal f</E
+M>Lo nostro scender conviene esser tardo</E
+M>Sì che s’ausi un poco in prima il senso Al tristo f</E
+M>da ciascuna pianta e ciascun fiore Usciva un f</E
+M>di soave odore</E
+M>i pestiferi f</E
+M>delle paludi</E
+M>Così quel f</E
+M>li spiriti mali Di qua</E
+M>di là</E
+M>di giù</E
+M>di sù li mena</E
+M>Del lito occidental si move un f</E
+M>E di zefiro bei f</E
+M>lucenti Accompagnano il dì</E
+M>ben potrebbe rimanere qualche f</E
+M>di virtù di questi tali</E
+M>non valere un f</E
+M>vin battezzato non vale un fiato</E
+M>l’aria è cattiva perché ci sono troppi f</E
+M>in questa stanza</E
+M>500 f</E
+M>tra uomini e donne</E
+M>piccoli e grandi</E
+M>ce l’ha fatta</E
+M>ma è arrivato con un fiatone!</E

@@ -1,0 +1,38 @@
+antico.txt
+"antico"
+"antico"
+"antico"
+"antico, replace: antichi"
+"bronzo antico"
+"francese antico"
+"gallese antico"
+"il più antico"
+"il più antico"
+"inglese antico"
+"libro antico per metà in pelle di vitello"
+"linguaggio antico"
+"marrone antico"
+"mondo antico"
+"norvegese antico (lingua)"
+"oggetto antico"
+"oro antico"
+"ottone antico"
+"rosa antico"
+"rosso antico"
+"tedesco del nord antico"
+"tessuto antico"
+"verde antico"
+"vetro antico"
+*[[preistorico]], [[primitivo]], [[remoto]], [[originario]], [[arcaico]]
+*[[vecchio]], [[annoso]], [[vetusto]], [[superato]], [[sorpassato]], [[antiquato]]
+*''(di amicizia, passione)'' di vecchia data, [[abituale]], [[consueto]]
+*[[antenati]], [[avi]]
+*[[moderno]], [[modernità]]
+*[[giovane]], [[nuovo]], [[attuale]], [[odierno]], [[recente]]
+*[[anticamente]]
+M>ant</E
+M>cus</E
+M>cus</E
+M>anteriore</E
+M>muscolo scaleno a</E
+M>muscolo scaleno anteriore</E

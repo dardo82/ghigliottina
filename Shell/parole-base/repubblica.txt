@@ -1,0 +1,86 @@
+repubblica.txt
+"Pakistan Repubblica musulmana"
+"presidenza della repubblica"
+"procura della repubblica"
+"procuratore della repubblica"
+"repubblica"
+"repubblica"
+"stato repubblicano"
+"repubblica"
+"repubblica"
+"Repubblica Ceca"
+"Repubblica del Ciad"
+"Repubblica del Nicaragua"
+"Repubblica del Paraguay"
+"repubblica delle banane"
+"Repubblica delle Filippine"
+"Repubblica di Palau"
+"Repubblica di Panama"
+"repubblica marinara"
+"repubblica popolare"
+"Repubblica portoghese"
+#*'''repubblica presidenziale'''
+#*'''repubblica semipresidenziale'''
+#*'''repubblica parlamentare'''
+#*'''repubblica direttoriale'''
+#*'''repubblica socialista'''
+*italiano
+M>respublica</E
+M>res publica</E
+M>la R</E
+M>romana</E
+M>di Roma</E
+M>le r</E
+M>oligarchiche della Grecia</E
+M>le R</E
+M>marinare italiane</E
+M>la R</E
+M>di Cromwell</E
+M>democratiche</E
+M>aristocratiche</E
+M>unitarie</E
+M>la R</E
+M>italiana</E
+M>francese</E
+M>federali</E
+M>la R</E
+M>federale tedesca</E
+M>la R</E
+M>elvetica</E
+M>parlamentare</E
+M>presidenziale</E
+M>popolare</E
+M>la R</E
+M>popolare d&#8217;Albania</E
+M>la R</E
+M>popolare cinese</E
+M>la R</E
+M>popolare del Congo</E
+M>partigiane</E
+M>la R</E
+M>partigiana della Val d&#8217;Ossola</E
+M>di Montefiorino</E
+M>Sociale Italiana</E
+M>di Salò</E
+M>conciliare</E
+M>Prima R</E
+M>Seconda R</E
+M> delle banane</E
+M>la r</E
+M>di Aristotele</E
+M>di Platone</E
+M>di Cicerone</E
+M>Della</E
+M>repubblica</E
+M>città</E
+M>dei ragazzi</E
+M>la r</E
+M>letteraria</E
+M>delle lettere</E
+M>respublica litteraria</E
+M>litterarum</E
+M>cristiana</E
+M>Respublica Christiana</E
+M>che r</E
+M>in quella casa!</E
+M>quell&#8217;ufficio è proprio una r.: tutti fanno il comodo loro</E

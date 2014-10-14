@@ -1,0 +1,48 @@
+carcere.txt
+"carcere"
+"carcere"
+"carcere"
+"carcere duro"
+"carcere preventivo"
+#* ''ho scontato la mia pena nel peggior '''carcere''' del paese''
+#* ''per quanto commesso gli fu dato il '''carcere''' a vita''
+*[[prigione]], [[galera]], [[penitenziario]], [[casa circondariale]], [[stabilimento carcerario]]
+* ''(per lavori forzati)''[[bagno penale]]
+*'' (per minori)'' [[riformatorio]], [[casa di correzione]]
+*[[detenzione]], [[prigionia]]
+*[[carcerare]], [[carcerario]], [[carcerato]], [[carcerazione]], [[carceriere]], [[incarcerare]]
+M>carcer</E
+M>ris</E
+M>prigione</E
+M>mettere</E
+M>andare in c</E
+M>scontare una pena in c</E
+M>uscire di</E
+M>dal carcere</E
+M>la carcere</E
+M>formando così della c</E
+M>medesima o del volontario esilio una parte di pena</E
+M>le carceri</E
+M>giudiziarie</E
+M>c. mandamentali</E
+M>c. di massima sicurezza</E
+M>Eremo delle c</E
+M>corporeo</E
+M>dell’anima</E
+M>cieco c</E
+M>cieco</E
+M>Inf</E
+M>Purg</E
+M>condannare a tre anni di c</E
+M>avere fatto</E
+M>scontato</E
+M>sei mesi di c</E
+M>preventivo</E
+M>carcerazione</E
+M>custodia</E
+M>preventiva</E
+M>a vita</E
+M>duro</E
+M>durissimo</E
+M>duro</E
+M>durissimo</E

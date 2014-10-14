@@ -1,0 +1,38 @@
+spessore.txt
+"personaggio di spessore"
+"riferito a pelle per rilegature, rasata per raggiungere uno spessore uniforme"
+"senza spessore"
+"spessore"
+"spessore"
+"spessore del filo elettrico"
+*[[grossezza]], [[larghezza]], [[grandezza]], [[altezza]], [[mole]], [[profondità]]
+*[[sottigliezza]], [[leggerezza]]
+M>spesso</E
+M>épaisseur</E
+M>épais</E
+M>espesseur</E
+M>espes</E
+M>spissus</E
+M>lo s. di una tavola</E
+M>di una lastra di marmo</E
+M>di una piastra di ferro</E
+M>un cartone di 6 mm di s.</E
+M>una lamiera dello s. di 2/10 di mm</E
+M>lo s. di un muro</E
+M>di una parete</E
+M>di una porta</E
+M>s. di uno strato geologico</E
+M>mattoni disposti in s.</E
+M>i raggi gamma attraversano notevoli s. di piombo</E
+M>uno s. di legno</E
+M>di cartone</E
+M>spessori per macchine da stampa</E
+M>inserire</E
+M>disporre uno s. fra due superfici piane</E
+M>prove di spessore</E
+M>una personalità di notevole s.</E
+M>uno scienziato di grande s. umano</E
+M>il romanzo ha anche un certo s. sociale</E
+M>categoria che ha acquistato recentemente un ulteriore s. culturale</E
+M>parole</E
+M>espressioni di forte s. semantico</E

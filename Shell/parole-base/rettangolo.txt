@@ -1,0 +1,23 @@
+rettangolo.txt
+"rettangolo"
+"rettangolo"
+"rettangolo"
+#*''trapezio '''rettangolo'''''
+* [[rettangolare]]
+M>rectang</E
+M>lus</E
+M>rectiang</E
+M>lus</E
+M>rectus</E
+M>ang</E
+M>lus</E
+M>triangolo r</E
+M>trapezio r</E
+M>parallelepipedo r</E
+M>quadrato</E
+M>rettangolo</E
+M>quadrato</E
+M>dressage</E
+M>rettangolo</E
+M>di gioco</E
+M>di dispersione</E

@@ -1,0 +1,13 @@
+sarta.txt
+"sarta"
+"sarta"
+*[[modista]], [[stilista]]
+M>sarto</E
+M>fare la s.</E
+M>lavorare da s.</E
+M>come s.</E
+M>andare dalla s.</E
+M>la s. sta provando un vestito.</E
+M>una grande s.</E
+M>una famosa s. di Parigi</E
+M>sfilata dei nuovi modelli di una s. romana.</E

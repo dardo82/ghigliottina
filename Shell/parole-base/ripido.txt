@@ -1,0 +1,14 @@
+ripido.txt
+"irto; ripido"
+"pendio ripido; diminuzione, calo"
+"ripido"
+"sentiero ripido"
+M>rapido</E
+M>ripa</E
+M>monte</E
+M>pendio</E
+M>sentiero r</E
+M>per arrivare al castello bisognava percorrere una salita molto r</E
+M>da un lato della strada si ergeva una r</E
+M>scarpata</E
+M>una costa che scende ripidamente</E

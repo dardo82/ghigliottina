@@ -1,0 +1,58 @@
+pavimento.txt
+"asse del pavimento"
+"ceratura del pavimento"
+"che copre tutto il pavimento"
+"fare segni (sul pavimento)"
+"lucidatura del pavimento"
+"pavimento"
+"pavimento con assi di legno"
+"pavimento con listelli"
+"pavimento di legno"
+"pavimento di legno"
+"pavimento di mattonelle"
+"pavimento laminato"
+"pulizia del pavimento"
+"tappeto da pavimento"
+#* il [[rivestimento]] che copre tale superficie
+#* nelle piazze e nelle strade
+*(di strade) [[rivestimento]], [[pavimentazione]], [[selciato]], [[lastricato]], [[acciottolato]], [[ammattonato]], [[macadam]]
+*(di case) [[impiantito]], [[parquet]], [[tavolato]], [[assito]]
+* (di mezzi di trasporto) [[pianale]]
+* [[pavimentale]], [[pavimentare]], [[pavimentato]], [[pavimentatore]], [[pavimentazione]], [[pavimentista]] 
+M>pavimentum</E
+M>pavire</E
+M>pavimentazione</E
+M>il p</E
+M>della stanza</E
+M>del salotto</E
+M>del corridoio</E
+M>della cantina</E
+M>del garage</E
+M>di legno</E
+M>di marmo</E
+M>di marmette di cemento</E
+M>di graniglia</E
+M>di pietrini di cemento</E
+M>di marmettoni</E
+M>di piastrelle</E
+M>di mattoni</E
+M>ammattonato</E
+M>accoltellato</E
+M>in teli</E
+M>alla veneziana</E
+M>bullettonato</E
+M>a mosaico</E
+M>battuto di cemento</E
+M>fare</E
+M>riparare il p</E
+M>pulire</E
+M>spazzare</E
+M>lavare</E
+M>lucidare i p</E
+M>mettersi ginocchioni sul p</E
+M>Non sempre</E
+M>sassi sepolcrali a&#8217; templi Fean pavimento</E
+M>pianale</E
+M>abissale</E
+M>della bocca</E
+M>pelvico</E

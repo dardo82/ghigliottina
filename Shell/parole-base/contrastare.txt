@@ -1,0 +1,47 @@
+contrastare.txt
+"contrastare"
+"contrastare"
+"contrastare, replace: contrastarsi"
+"contrastare con"
+*(un progetto, un’attività) [[ostacolare]], [[bloccare]], [[impedire]], [[osteggiare]], [[avversare]]
+*(un’affermazione, una tesi) [[negare]], [[contestare]], [[contraddire]], [[contrariare]]
+*[[contendere]], [[disputare]], [[lottare]], [[combattere]]
+*[[opporsi]], [[discordare]], [[dissentire]]
+*[[litigare]], [[discutere]]
+*(un progetto, un’attività) [[facilitare]], [[aiutare]], [[favorire]], [[agevolare]]
+*(un’affermazione, una tesi) [[approvare]], [[accettare]]
+*[[contrastarsi]], [[contrastamento]]
+M>contrastare</E
+M>contra</E
+M>stare</E
+M>avere</E
+M>Rade volte adiven ch’a l’alte imprese Fortuna ingiurïosa non contrasti</E
+M>con</E
+M>è inutile c</E
+M>con chi vuole sempre aver ragione</E
+M>stanno contrastando per cose da nulla</E
+M>smettete di c</E
+M>sarà come tu dici</E
+M>non contrasto</E
+M>i fatti contrastano con le nostre previsioni</E
+M>i nostri punti di vista contrastano</E
+M>il blu contrasta col marrone</E
+M>con la morte</E
+M>col male</E
+M>con l’umano Valor forse contrasta il fato invano</E
+M>il premio</E
+M>una gioia</E
+M>la riuscita di un’impresa a qualcuno</E
+M>nessuno mi può c</E
+M>i miei diritti</E
+M>perché mi contrasti in tutti i miei piani?</E
+M>un’opinione</E
+M>il passo ai nemici</E
+M>il vento</E
+M>contrastarsi una cosa</E
+M>contrastarsi una posizione</E
+M>un impiego</E
+M>una ragazza</E
+M>i bambini si contrastavano le caramelle.</E
+M>opinioni</E
+M>colori contrastanti</E

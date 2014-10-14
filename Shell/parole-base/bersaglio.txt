@@ -1,0 +1,47 @@
+bersaglio.txt
+"bersaglio"
+"bersaglio"
+"bersaglio facile"
+"bersaglio per il gioco delle freccette"
+"centro del bersaglio"
+"fallire il bersaglio"
+"fuoco diretto sul bersaglio"
+"gioco pulito; facile bersaglio"
+"mancare il bersaglio"
+"preda, bersaglio facile"
+"tirare oltre il bersaglio"
+#*sparò al 
+#* ''Tirò il pallone e prese il '''bersaglio'''''
+* [[obiettivo]], [[mira]]
+*[[bersagliare]], [[bersagliere]], [[bersaglieresco]], [[reggibersaglio]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 239
+M>bersail</E
+M>fisso</E
+M>mobile</E
+M>tirare</E
+M>esercitarsi al b</E
+M>tiro al b</E
+M>colpire</E
+M>mancare il b</E
+M>aereo</E
+M>valido</E
+M>grosso</E
+M>mirare al b</E
+M>grosso</E
+M>colpire il b</E
+M>grosso</E
+M>essere un b</E
+M>fisso</E
+M>colpire</E
+M>raggiungere il b</E
+M>andare a b.</E
+M>la vecchia targa stradale divenne il b</E
+M>dei teppisti</E
+M>essere il b</E
+M>di qualcuno</E
+M>esser il b</E
+M>della fortuna</E
+M>delle male lingue</E
+M>prendere qualcuno a b</E
+M>farlo b</E
+M>dei propri scherzi</E

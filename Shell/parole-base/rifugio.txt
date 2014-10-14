@@ -1,0 +1,70 @@
+rifugio.txt
+"Bene rifugio"
+"canoa; rifugio sotterraneo"
+"casino di caccia; rifugio per cacciatori"
+"cercare rifugio"
+"nascondiglio; rifugio"
+"porto di rifugio"
+"porto, rifugio"
+"rifugio"
+"rifugio"
+"rifugio antiaereo"
+"rifugio antibomba"
+"rifugio contro pioggia radioattiva"
+"rifugio montano"
+"rifugio sicuro"
+"trovare rifugio"
+"trovare rifugio"
+#* si recarono precipitosamente nel 
+*[[ricovero]], [[difesa]], [[asilo]] 
+*''(luogo)''[[riparo]]
+*italiano
+M>refugium</E
+M>refug</E
+M>cercare</E
+M>trovare rifugio</E
+M>dare</E
+M>offrire r</E
+M>porto di r</E
+M>di ridosso</E
+M>di ricovero</E
+M>zona</E
+M>distretto</E
+M>territorio</E
+M>stazione di r</E
+M>rifugio</E
+M>beni di r</E
+M>beni rifugio</E
+M>Lo primo tuo refugio e &#8217;l primo ostello Sarà la cortesia del gran Lombardo</E
+M>questo è un r</E
+M>tranquillo</E
+M>il convento è un r</E
+M>contro i pericoli del mondo</E
+M>ha trovato nella preghiera un sicuro r</E
+M>contro le tentazioni</E
+M>Morte</E
+M>è non duol</E
+M>ma refugio</E
+M> i libri non sono</E
+M> e non debbono essere</E
+M> rifugio</E
+M> evasione dalla vita; ma strumento per guardare più a fondo la vita</E
+M> mezzo per vivere di più</E
+M>è lui il nostro r</E
+M>dei peccatori</E
+M>R. alpino</E
+M>i r</E
+M>del Club alpino italiano</E
+M>militari</E
+M>ricovero</E
+M>antiaereo</E
+M>antiatomico</E
+M>contro l&#8217;offesa atomica</E
+M>contro i bombardamenti terrestri</E
+M>navali</E
+M>in calcestruzzo</E
+M>in cemento armato</E
+M>corazzato</E
+M>trincea antischegge</E
+M>scendere al r</E
+M>nel rifugio</E

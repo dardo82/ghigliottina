@@ -1,0 +1,60 @@
+privo.txt
+"lingotto di metallo dorato; privo di valore"
+"privo"
+"privo di"
+"privo di"
+"privo di"
+"privo di"
+"privo di ceneri"
+"privo di collegamento"
+"privo di conservanti"
+"privo di contenuto"
+"privo di discernimento"
+"privo di mezzi"
+"privo di ogni fondamento"
+"privo di senso dell'umorismo"
+"privo di sporcizia"
+"privo di stimoli"
+"privo di tatto"
+"privo, mancante"
+"privo, mancante di"
+#* privo di sensi
+* [[mancante]]
+* [[privare]],  [[privazione]]
+M>privus</E
+M>un appartamento p</E
+M>di riscaldamento</E
+M>la stanza è p</E
+M>di luce</E
+M>un albergo p</E
+M>di qualsiasi comodità</E
+M>invalidi p</E
+M>della vista</E
+M>dell&#8217;udito</E
+M>rimanere</E
+M>restare privo di</E
+M>restare senza</E
+M>famiglie rimaste p</E
+M>di un tetto</E
+M>ragazzi che nel terremoto sono rimasti p</E
+M>dei genitori</E
+M>da più di un mese sono p</E
+M>di sue notizie</E
+M>un uomo p</E
+M>di personalità</E
+M>di principî morali</E
+M>è uno strozzino assolutamente p</E
+M>di scrupoli</E
+M>il tuo è un ragionamento p</E
+M>di senso</E
+M>sono dicerie p</E
+M>di fondamento</E
+M>di sensi</E
+M>cadde a terra p</E
+M>di sensi</E
+M>con le sue risposte si è rivelato non p</E
+M>di buon senso</E
+M>è un uomo non p</E
+M>d&#8217;intraprendenza</E
+M>un barbaro che non era p</E
+M>d&#8217;ingegno</E

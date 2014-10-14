@@ -1,0 +1,36 @@
+dedicare.txt
+"dedicare"
+"dedicare"
+"dedicare"
+"dedicare a"
+"dedicare la propria vita"
+"dedicare qualcosa a"
+*[[intitolare]]
+*[[dedicarsi]]
+M>dedicare</E
+M>dicare</E
+M>dic</E
+M>io dèdico</E
+M>tu dèdichi</E
+M>una chiesa alla Madonna</E
+M>cappella dedicata a sant’Antonio</E
+M>un monumento ai caduti</E
+M>il teatro è dedicato a G</E
+M>Verdi</E
+M>una scuola</E
+M>una via</E
+M>una piazza</E
+M>dedicò il suo primo libro alla memoria del maestro</E
+M>Poemi conviviali</E
+M>del Pascoli sono dedicati ad Adolfo De Bosis</E
+M>il proprio tempo agli studî</E
+M>dedicò tutta la sua vita all’assistenza sociale</E
+M>i giornali hanno dedicato molto spazio alla vicenda</E
+M>tutta la prima parte del volume è dedicata alla fauna europea</E
+M>dedicarsi al servizio di Dio</E
+M>all’assistenza dei poveri</E
+M>dedicarsi alla famiglia</E
+M>all’insegnamento</E
+M>dedicarsi al giardinaggio</E
+M>alla raccolta dei francobolli</E
+M>allo sport</E

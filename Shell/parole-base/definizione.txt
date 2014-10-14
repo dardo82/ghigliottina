@@ -1,0 +1,55 @@
+definizione.txt
+"definizione"
+"definizione"
+"definizione"
+"definizione opposta"
+"in via di definizione"
+*''(di parola)'' [[spiegazione]]
+*''(di questione, controversia ecc.)'' [[risoluzione]], [[conclusione]], [[composizione]], [[appianamento]] 
+* [[definire]], [[definitivo]], [[definito]], [[indefinito]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p.588 
+M>definitio</E
+M>onis</E
+M>d. di un confine</E
+M>dei limiti di competenza di due organi amministrativi</E
+M>dei termini di una questione</E
+M>dare</E
+M>formulare una d</E
+M>è spesso difficile dare la d</E
+M>di un ente astratto</E
+M>di un sentimento</E
+M>di che cos’è un colore</E
+M>una d</E
+M>esatta</E
+M>inesatta</E
+M>incompleta</E
+M>chiara</E
+M>oscura</E
+M>equivoca</E
+M>per definizione</E
+M>per antonomasia</E
+M>ha trovato finalmente la serenità</E
+M>la vera serenità</E
+M>la serenità per d</E
+M>avevo un compagno che stava sempre chino sui libri</E
+M>era proprio lo sgobbone per definizione</E
+M>reale</E
+M>nominale</E
+M>descrizione</E
+M>per genere prossimo e differenza specifica</E
+M>per astrazione</E
+M>costruttiva</E
+M>operativa</E
+M>implicita</E
+M>nominale</E
+M>metalinguistica</E
+M>metalinguaggio</E
+M>dogmatica</E
+M>di un dogma</E
+M>formale</E
+M>relazione di d</E
+M>operativa</E
+M>risoluzione</E
+M>obiettivo</E
+M>macchina fotografica ad alta definizione</E
+M>amministrativa di una controversia</E

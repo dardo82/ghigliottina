@@ -1,0 +1,22 @@
+gabbiano.txt
+"dal becco di gabbiano"
+"gabbiano"
+"gabbiano comune"
+"gabbiano di scogliera"
+"gabbiano glauco"
+"gabbiano piombino"
+"gabbiano reale"
+"mugnaiaccio (tipo di gabbiano)"
+"piccolo gabbiano"
+#* ''
+M>gavia</E
+M>gabbianello</E
+M>L. minutus</E
+M>comune</E
+M>L. ridibundus</E
+M>reale</E
+M>L. argentatus</E
+M>corallino</E
+M>L. melanocephalus</E
+M>tridattilo</E
+M>Rissa tridactyla</E

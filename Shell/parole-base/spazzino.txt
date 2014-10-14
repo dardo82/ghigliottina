@@ -1,0 +1,10 @@
+spazzino.txt
+"spazzino"
+"spazzino, netturbino"
+"spazzino; netturbino"
+"spazzino; netturbino"
+M>spazzare</E
+M>-ino</E
+M>netturbino</E
+M>operatore ecologico</E
+M>spazzaturaio</E

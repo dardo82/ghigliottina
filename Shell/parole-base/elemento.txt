@@ -1,0 +1,120 @@
+elemento.txt
+"elemento"
+"elemento"
+"elemento"
+"elemento"
+"elemento"
+"elemento"
+"elemento"
+"elemento chimico"
+"elemento chimico della serie dei lantanidi"
+"elemento chimico niobium"
+"elemento di forza"
+"elemento di locomotiva"
+"elemento di moda"
+"elemento di regolazione"
+"elemento di sorpresa"
+"elemento grafico"
+"elemento logico"
+"elemento maggiore"
+"elemento metallico"
+"elemento negativo"
+"elemento nevralgico"
+"elemento precursore"
+"elemento radioattivo"
+"elemento riscaldante"
+"elemento zero"
+#* ''gli '''elementi''' di un mobile sono le ante, i cassetti, eccetera''
+#* ''per i filosofi greci esistevano quattro '''elementi'''
+#* '''elemento''' naturalistico
+#* ''il piatto di lasagne è costituito di '''elementi''' ed ingredienti''
+*[[sostanza]], [[entità]], [[principio]] 
+* [[elementare]], [[elementismo]]
+* [[componente]],  [[entità]],  [[ingrediente]],  [[parte]],  [[porzione]],  [[unità]]
+*italiano
+*spagnolo
+M>elementum</E
+M>elementi</E
+M>il liquido e</E
+M>l’infido e</E
+M>il mobile e</E
+M>il vorace e</E
+M>i pesci vivono nell’acqua che è il loro e</E
+M>essere</E
+M>trovarsi</E
+M>sentirsi nel proprio e</E
+M>essere</E
+M>sentirsi fuori del proprio elemento</E
+M>la furia degli e</E
+M>lo scatenarsi degli e</E
+M>quinto e</E
+M>quinto e</E
+M>l’amore è per l’uomo il quinto e</E
+M>isotopia</E
+M>sistema periodico degli e</E
+M>gli e</E
+M>architettonici di un edificio</E
+M>gli e</E
+M>di una pila</E
+M>gli e</E
+M>di un termosifone</E
+M>scomporre un meccanismo</E
+M>un congegno nei suoi elementi</E
+M>vocalico</E
+M>consonantico</E
+M>radicale</E
+M>sintattico</E
+M>grammaticale</E
+M>scomporre una proposizione</E
+M>un periodo nei suoi e</E
+M>compositivo</E
+M>primo</E
+M>secondo e</E
+M>di una parola composta</E
+M>elemento</E
+M>lungo</E
+M>breve</E
+M>ancipite</E
+M>complementare</E
+M>patrimoniale</E
+M>del capitale</E
+M>di costo</E
+M>di ricavo</E
+M>gli e</E
+M>di un gruppo</E
+M>di un anello</E
+M>di un corpo</E
+M>d’arco</E
+M>di superficie</E
+M>di volume</E
+M>elementi di giudizio</E
+M>elementi della conoscenza</E
+M>la persuasione è uno degli e</E
+M>della certezza</E
+M>hai in mano tutti gli e</E
+M>per capire</E
+M>per sfruttare</E
+M>la situazione</E
+M>la sua buona fede è già un e</E
+M>positivo a suo favore</E
+M>elementi di simmetria</E
+M>pacifici</E
+M>sovversivi</E
+M>quel ragazzo è uno dei migliori e</E
+M>della scuola</E
+M>il nuovo contabile mi è parso un ottimo elemento</E
+M>nel quartiere girano elementi poco raccomandabili</E
+M>che elemento!</E
+M>elementi di calcolo</E
+M>di algebra</E
+M>di chimica</E
+M>di musica</E
+M>di pittura</E
+M>di stilistica e metrica</E
+M>di grammatica</E
+M>insegnare</E
+M>ricevere</E
+M>studiare</E
+M>sapere</E
+M>ignorare i primi elementi</E
+M>elementale</E

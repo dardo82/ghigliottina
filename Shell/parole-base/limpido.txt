@@ -1,0 +1,37 @@
+limpido.txt
+"limpido"
+"limpido"
+"limpido"
+"sguardo limpido"
+M>limp</E
+M>dus</E
+M>acqua</E
+M>aria l</E
+M>un cielo l</E
+M>una notte l</E
+M>piena di stelle</E
+M>diamante</E
+M>cristallo l</E
+M>Ad una fonte l</E
+M>et amena</E
+M>veste la Luna Di luce limpidissima i tuoi colli</E
+M>voce l</E
+M>note l</E
+M>suono l</E
+M>Al limpidissimo suon de l’argento</E
+M>occhio</E
+M>sguardo l</E
+M>mente l</E
+M>provare una gioia l</E
+M>anima l</E
+M>prosa l</E
+M>stile l</E
+M>ragionamento l</E
+M>dimostrazione l</E
+M>vena</E
+M>l’acqua scorreva limpidamente</E
+M>il canto dell’usignolo si espandeva limpidamente nell’aria</E
+M>esprimere limpidamente il proprio pensiero</E
+M>guardare limpidamente negli occhi</E
+M>fare le cose</E
+M>agire limpidamente</E

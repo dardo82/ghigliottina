@@ -1,0 +1,19 @@
+collana.txt
+"collana"
+"collana"
+"collana di libri"
+#*''Una 
+*''<small>(serie di testi)</small>'' [[corona]]
+*''<small>(serie di libri)</small>'' [[collezione]]
+M>una c. d’oro</E
+M> di perle</E
+M>di granati</E
+M>di coralli</E
+M>di pietre dure</E
+M>le c</E
+M>di fiori delle fanciulle della Polinesia</E
+M>una c</E
+M>di sonetti</E
+M>di scrittori classici</E
+M>di romanzi</E
+M>storica</E

@@ -1,0 +1,5 @@
+centroamericano.txt
+"Traduzione di centroamericano/ non trovata.\nNo translation was found for centroamericano/."
+M>paesi</E
+M>stati c</E
+M>popolazioni indigene centroamericane</E

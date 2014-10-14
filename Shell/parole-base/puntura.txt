@@ -1,0 +1,48 @@
+puntura.txt
+"foro di puntura"
+"puntura"
+"puntura"
+"puntura di ago"
+"puntura di spillo"
+"puntura lombare"
+"puntura lombare"
+M>punctura</E
+M>pung</E
+M>punctus</E
+M>la p</E
+M>di un ago</E
+M>di uno spillo</E
+M>di uno spino</E
+M>una p</E
+M>di vespa</E
+M>di zanzara</E
+M>amniotica</E
+M>amniocentesi</E
+M>esplorativa</E
+M>evacuativa</E
+M>lombare</E
+M>sottooccipitale</E
+M>sternale</E
+M>iniezione</E
+M>fare una p</E
+M>farsi le p</E
+M>endovenosa</E
+M>ricostituente</E
+M>sentire delle p</E
+M>ai fianchi</E
+M>alle reni</E
+M>alla nuca</E
+M>nello scostarmi la coperta dal petto una p</E
+M>dolorosa alla spalla mi fa ricordare la ferita</E
+M>si prese una p</E
+M>di cui in pochi giorni morì</E
+M>punture di scherno</E
+M>di derisione</E
+M>con maligne p</E
+M>volle umiliare la vanità del suo avversario</E
+M>sentì come una p</E
+M>trafiggergli l&#8217;anima</E
+M>provare le p</E
+M>del rimorso</E
+M>molte volte si ripiagne Per la p</E
+M>de la rimembranza</E

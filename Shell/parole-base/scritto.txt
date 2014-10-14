@@ -1,0 +1,118 @@
+scritto.txt
+"articolo, scritto"
+"ben scritto"
+"commento scritto"
+"contratto scritto"
+"diritto positivo scritto di origine legislativa"
+"documento scritto"
+"è scritto"
+"è scritto che"
+"esame scritto"
+"in corsivo, scritto a mano"
+"non stare scritto da nessuna parte che"
+"scritto"
+"scritto"
+"scritto"
+"scritto"
+"scritto"
+"scritto a macchina"
+"scritto a mano"
+"scritto a mano"
+"scritto con doppia spaziatura"
+"scritto con la matita"
+"scritto con la matita"
+"scritto pretenzioso"
+"test scritto"
+#*''ho scritto alla mia fidanzata'' 
+*[[scrittoio]], [[scrittore]], [[scrittura]]
+M>scrivere</E
+M>scr</E
+M>ptus</E
+M>scr</E
+M>ptum</E
+M>caratteri s.</E
+M>stampati</E
+M>caratteri s. a mano</E
+M>a macchina</E
+M>s. con chiarezza</E
+M>in modo confuso</E
+M>indecifrabile</E
+M>scritto</E
+M>qui vedo qualcosa di s.</E
+M> ma non riesco a leggerlo</E
+M>dare un ordine s.</E
+M>prendere un impegno s.</E
+M>non sempre le leggi s. coincidono con i principî del diritto naturale</E
+M>lingua s.</E
+M>fonti s.</E
+M>foglio s.</E
+M>ci sono alcune righe s.</E
+M> altre rimaste in bianco.</E
+M>punto s.</E
+M>orale</E
+M>esame</E
+M>compito s.</E
+M>lo s. è andato male</E
+M> ma mi sono salvato con l&#8217;orale</E
+M>ho avuto cinque allo s. e sei all&#8217;orale</E
+M>domani ho lo s. di latino</E
+M>nominale</E
+M>era s. che dovesse finire così</E
+M>è s.</E
+M>era scritto</E
+M>è s.</E
+M>sta s.</E
+M>è s. nel Vangelo che ...</E
+M>come sta s. nel codice</E
+M>e dove sta scritto che a rimetterci debba essere proprio io?</E
+M>il suo ricordo resterà s. nel nostro cuore</E
+M>la colpa l&#8217;aveva s. in fronte</E
+M>Se a ciascun l&#8217;interno affanno Si leggesse in fronte scritto</E
+M> Quanti mai che invidia fanno Ci farebbero pietà!</E
+M>non mi ha mandato neppure una riga di scritto</E
+M>lo s. è sempre più impegnativo delle parole</E
+M>per s.</E
+M>per iscritto</E
+M>a voce</E
+M>rispondere</E
+M>trattare</E
+M>comunicare per s.</E
+M>impegnarsi per s.</E
+M>mettere per s.</E
+M>Da poppa stava il celestial nocchiero</E
+M> Tal che parea beato per iscripto</E
+M>Tal che faria beato pur descripto</E
+M>in scritto</E
+M>in iscritto</E
+M>mettere in s.</E
+M>ella gli avea giurato e a bocca e in scritto</E
+M> Che mai non saria ad altri</E
+M> ch&#8217;a lui</E
+M> sposa</E
+M>uno s. che si legge male</E
+M>uno s. chiaro</E
+M>confuso</E
+M>illeggibile</E
+M>lo stampato lo sapeva leggere</E
+M> mettendoci il suo tempo: lo s. è un altro par di maniche</E
+M>uno s. anonimo</E
+M>firmato</E
+M>uno s. cifrato</E
+M>per favore</E
+M> rileggimi il testo dello scritto</E
+M>inviare</E
+M>ricevere</E
+M>recapitare uno s.</E
+M>ho ricevuto un suo s. spedito un mese fa.</E
+M>gli s. in volgare di Dante</E
+M>gli s. minori del Verga</E
+M>s. postumi</E
+M>editi</E
+M>inediti</E
+M>l&#8217;edizione nazionale degli s. del Mazzini</E
+M>s. polemici</E
+M>satirici</E
+M>apologetici</E
+M>licenziosi</E
+M>pornografici</E
+M>scritti d&#8217;occasione</E

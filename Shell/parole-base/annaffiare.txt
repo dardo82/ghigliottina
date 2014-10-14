@@ -1,0 +1,16 @@
+annaffiare.txt
+"annaffiare, innaffiare"
+"annaffiare, innaffiare"
+"bagnare; annaffiare con pompa da giardino"
+"l'annaffiare il prato"
+"pompa per annaffiare"
+* [[innaffiare]]
+M>*inafflare</E
+M>flare</E
+M>io annàffio</E
+M>annaffiatoio</E
+M>i fiori</E
+M>l’orto</E
+M>le strade</E
+M>una pioggerella che ha annaffiato i seminati</E
+M>il vino</E

@@ -1,0 +1,251 @@
+tavola.txt
+"addobbi per la tavola"
+"apparecchiare la tavola"
+"biancheria da tavola"
+"cucchiaio da tavola"
+"cucchiaio da tavola"
+"cucchiaio da tavola (quantità)"
+"in tavola"
+"la Tavola"
+"mettersi a tavola"
+"portare in tavola"
+"posti a tavola"
+"pronto in tavola"
+"sale da tavola"
+"sedersi a tavola"
+"servire a tavola"
+"servizio (posate) da tavola"
+"servizio (posate) da tavola"
+"stoviglie da tavola"
+"tavola"
+"tavola"
+"tavola"
+"tavola"
+"tavola a vela"
+"tavola calda"
+"tavola calda"
+"tavola da disegno su cavalletti"
+"tavola da surf"
+"tavola dei professori nei refettori dei college"
+"tavola del signore"
+"tavola di mortalità"
+"tavola di sopravvivenza"
+"tavola per formaggi"
+"tavola periodica"
+"tavola periodica"
+"tavola pitagorica"
+"tavola portatile con clip"
+"tavola rotonda"
+"trionfo da tavola"
+"vino da tavola"
+#*''tutti i miei libri erano appoggiati sopra la '''tavola'''''
+#*''una '''tavola''' da dodici coperti''
+#*''servire a '''tavola'''''
+#*''"tutti a '''tavola''', il pranzo è servito!"''
+#*''una '''tavola''' imbandita risveglia sempre l'appetito''
+#* ''amare la buona '''tavola'''''
+#* ''i piaceri della '''tavola'''''
+#* ''tutti i suoi mobili erano stati fatti con '''tavole''' di ciliegio''
+#*''le '''tavole''' della legge''
+*[[tavolare]]
+*[[sedia]], [[apparecchiare]]
+*''il mare è una '''tavola'''''
+*'''''tavola''' rotonda''
+*''mettere le carte in '''tavola'''''
+*''cambiare le carte in tavola''
+*''fare tabula rasa''
+M>tab</E
+M>segare</E
+M>piallare una t.</E
+M>accatastare le t.</E
+M>chiudere un’apertura con tre t. inchiodate</E
+M>t. di salvezza</E
+M>calcare le t. del palcoscenico</E
+M>t. di legno</E
+M>di metallo</E
+M>di materiali plastici</E
+M>di marmo</E
+M>di pietra</E
+M>t. rettangolare</E
+M>quadrata</E
+M>tonda</E
+M>ovale</E
+M>t. allungabile</E
+M>ribaltabile</E
+M>a ribalta</E
+M>ripiegabile</E
+M>piedi</E
+M>gambe</E
+M>t. fissa da parete</E
+M>t. estraibile</E
+M>t. da pranzo</E
+M>per mangiare</E
+M>la t. di cucina</E
+M>una t. da cucina</E
+M>t. da lavoro</E
+M>t. da disegno</E
+M>t. operatoria</E
+M>anatomica</E
+M>t. da gioco</E
+M>mettere le carte in tavola</E
+M>t. reale</E
+M>tric-trac</E
+M>tavolo</E
+M>tavolo</E
+M>apparecchiare</E
+M>sparecchiare la t.</E
+M>portare</E
+M>servire</E
+M>in t.</E
+M>il pranzo è in t.</E
+M>tenere t. imbandita</E
+M>t. aperta</E
+M>mettere</E
+M>tenere t.</E
+M>levare le t.</E
+M>andare</E
+M>mettersi</E
+M>sedersi</E
+M>essere</E
+M>stare a t.</E
+M>dicono che essere in tredici a t. porti sfortuna</E
+M> tutte le rivoluzioni cominciano per strada e finiscono a t.</E
+M>chiamare a t.</E
+M>a tavola!</E
+M>biancheria da t.</E
+M>servizî da t.</E
+M>a t. non s’invecchia</E
+M>chi canta a t. e fischia a letto</E
+M> è matto perfetto</E
+M>mettere a t.</E
+M>ha quattro figli</E
+M>otto persone</E
+M> da mettere a t. tutti i giorni</E
+M>fare qualcosa a t.</E
+M>leggere il giornale a t. non è educato</E
+M>ne parleremo a t. stasera</E
+M> tutti insieme. T. calda</E
+M>t. fredda</E
+M>fare servizio di t. calda</E
+M>di sola t. fredda</E
+M>di t. calda e fredda</E
+M>sulla nave c’è il ristorante e anche la t. calda</E
+M>un bar con annessa t. fredda</E
+M>cenare rapidamente a una t. calda</E
+M>T. rotonda</E
+M>roonde table</E
+M>Brut</E
+M>Geste des Bretons</E
+M>i cavalieri della T. rotonda</E
+M>il ciclo epico-cavalleresco</E
+M>i romanzi della T. rotonda</E
+M>t. rotonda</E
+M>round table</E
+M>organizzare una t. rotonda</E
+M>sulla situazione politica</E
+M>sulla crisi energetica</E
+M>sulla poesia dialettale</E
+M>fare il moderatore della t. rotonda</E
+M>una t. rotonda di altissimo livello</E
+M> ricca di interesse</E
+M>mal riuscita</E
+M>che avrem noi a fare altro se non ... andare alle t. de’ cambiatori</E
+M> le quali sapete che stanno sempre cariche di grossi e di fiorini ...?</E
+M>tavola</E
+M>tola de mar</E
+M>tabula maris</E
+M>t. da lavare</E
+M>da bucato</E
+M>t. da stiro</E
+M>t. per spianare la pasta</E
+M>spianatoia</E
+M>t. nera</E
+M>lavagna</E
+M>t. armonica</E
+M>piano armonico</E
+M>t. dealbate</E
+M>le leggi delle XII t.</E
+M>la t. di bronzo del Polcèvera</E
+M>la t. bantina</E
+M>la t. clesiana</E
+M>le t. iguvine</E
+M>eugubine</E
+M>le t. della legge</E
+M>t. cerata</E
+M>tabula cerata</E
+M>tavola</E
+M>t. rasa</E
+M>t. iliache</E
+M>Dipinto su tavola</E
+M>tavola</E
+M>una preziosa t. bizantina</E
+M>una bella t. del Masaccio</E
+M>pavese</E
+M>targone</E
+M>tavolaccio</E
+M>t. di aspettazione</E
+M>lamina</E
+M>t. di arricchimento</E
+M>t. a scosse</E
+M>t. a nastro</E
+M>t. rotante</E
+M>t. nera</E
+M>t. piana</E
+M>T. a vela</E
+M>windsurf</E
+M>t. dei ghiacciai</E
+M>t. dei deserti</E
+M>t. terminali</E
+M>t. superiore</E
+M>t. inferiore</E
+M>t. in testo</E
+M>t. fuori testo</E
+M>un’edizione di lusso con 50 t. fuori testo</E
+M>in bianco e nero</E
+M>a colori</E
+M>tav.</E
+M>tavv.</E
+M>v. tav. XVII.</E
+M>grafico</E
+M>prospetto</E
+M>quadro</E
+M>specchio</E
+M>tabella</E
+M>t. sinottiche</E
+M>di storia</E
+M>di geologia</E
+M>della sistematica zoologica</E
+M>t. statistiche</E
+M>t. di natalità</E
+M>di mortalità</E
+M>di sopravvivenza</E
+M>t. dei delitti e dei quozienti di criminalità</E
+M>t. periodica degli elementi</E
+M>sistema periodico degli elementi</E
+M>t. delle affinità</E
+M>affinità</E
+M>t. delle interdipendenze settoriali</E
+M>t. nautica</E
+M>t. di marea</E
+M>t. di tiro</E
+M>t. di getto</E
+M>di tiro</E
+M>t. numeriche</E
+M>t. dei numeri primi</E
+M>t. dei logaritmi</E
+M>t. trigonometriche</E
+M>t. pitagorica</E
+M>t. di verità</E
+M>tabella di verità</E
+M>definizione</E
+M>t. di verità</E
+M>tavole di verità</E
+M>t. di proscrizione</E
+M>t. delle materie</E
+M>indice</E
+M>t. testamentarie</E
+M>t. di fondazione di un istituto</E
+M>t. amalfitana</E
+M>t. alfabetica delle cancellerie giudiziarie</E
+M>t. censuaria</E
+M>la t. valdese</E

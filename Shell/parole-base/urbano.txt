@@ -1,0 +1,50 @@
+urbano.txt
+"arredo urbano"
+"centro urbano"
+"centro urbano"
+"ciclo urbano"
+"complesso urbano"
+"complesso urbano di edilizia residenziale"
+"degrado urbano"
+"distretto urbano"
+"distretto urbano"
+"insediamento urbano"
+"risanamento urbano"
+"sviluppo urbano"
+"tessuto urbano"
+"urbano"
+"urbano"
+"vigile urbano"
+*[[cittadino]], [[comunale]], [[civico]]
+*[[rurale]], [[extraurbano]]
+*[[maleducato]], [[incivile]]
+*[[urbanamente]]
+M>urbanus</E
+M>urbs urbis</E
+M>un centro rurale che sta assumendo una fisionomia u.</E
+M>la cerchia muraria u.</E
+M>agglomerato</E
+M> centro u.</E
+M>rispettare il tessuto u. di una città medievale.</E
+M>la viabilità u.</E
+M> strade u.</E
+M> trasporti pubblici u.</E
+M>rete telefonica u.</E
+M>telefonata u.</E
+M>il servizio u. di ritiro dei rifiuti solidi</E
+M> la nettezza u.</E
+M>vigili u.</E
+M>guerriglia u.</E
+M>leggende u.</E
+M>metropolitane</E
+M>pretore u.</E
+M>coorti u.</E
+M>cerca di essere più u.</E
+M> se ti riesce</E
+M>credevo di avere a che fare con persone u.</E
+M>modi u.</E
+M> una risposta u.</E
+M> comportamento u.</E
+M>trattare</E
+M> rispondere urbanamente</E
+M>non potresti comportarti più urbanamente?</E

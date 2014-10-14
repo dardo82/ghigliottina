@@ -1,0 +1,37 @@
+adatto.txt
+"adatto"
+"adatto a"
+"adatto a"
+"adatto a"
+"adatto a"
+"adatto a"
+"adatto a"
+"adatto ad un re"
+"adatto allo scopo"
+"adatto per"
+"essere adatto"
+"essere adatto"
+"essere adatto"
+"essere adatto"
+"in un posto adatto"
+"molto adatto"
+"non adatto a qualcuno"
+"non più adatto all'uso"
+"ritenere adatto"
+"ritenere adatto a"
+"selezione naturale, sopravvivenza del più adatto"
+*[[idoneo]], [[opportuno]], [[adeguato]], [[appropriato]], [[atto]], [[confacente]], [[conforme]], [[apposito]], [[giusto]], [[ad hoc]]
+*[[inadatto]], [[inadeguato]], [[inopportuno]], [[inidoneo]], [[disdicevole]]
+M>adaptus</E
+M>aptus</E
+M>abito a</E
+M>alla circostanza</E
+M>servirsi di mezzi a</E
+M>non mi sembra ch’egli sia la persona più a</E
+M>trova un lavoro a</E
+M>per lui</E
+M>un film adatto ai bambini</E
+M>non è a</E
+M>agli</E
+M>per gli</E
+M>studî</E

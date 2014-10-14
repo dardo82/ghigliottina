@@ -1,0 +1,233 @@
+potenza.txt
+"10 alla centesima potenza"
+"all'ennesima potenza"
+"amplificatore di potenza"
+"con potenza"
+"di alta potenza"
+"elevazione a potenza"
+"energia residua, potenza residua"
+"fattore di potenza"
+"generatore di potenza"
+"grande potenza"
+"mancanza di potenza"
+"misuratore di potenza"
+"perdere potenza"
+"piena potenza"
+"potenza"
+"potenza"
+"potenza"
+"potenza"
+"potenza"
+"potenza"
+"potenza"
+"potenza"
+"potenza aerea"
+"potenza al focolare"
+"potenza al freno"
+"potenza bellica"
+"potenza del pensiero"
+"potenza della mente"
+"potenza di calcolo"
+"potenza fiscale"
+"potenza idraulica"
+"potenza jet"
+"potenza marittima"
+"potenza mondiale"
+"potenza motrice"
+"potenza muscolare"
+"potenza navale"
+"potenza nominale"
+"serie di potenza"
+"stato di potenza"
+"variatore di potenza"
+#* <math>2^3=8</math>, dove 2 è la base, 3 è l'esponente e 2 moltiplicato per se stesso 3 volte (<math>2*2*2</math>) da appunto 8
+*[[autorevolezza]], [[influenza]], [[forza]]
+*[[superpotenza]]
+*[[impotenza]] 
+*italiano
+M>potentia</E
+M>potens</E
+M>entis</E
+M>così</E
+M>la potenza corrispondesse alla buona volontà</E
+M>avere potenza di</E
+M>Temer si dee di sole quelle cose C&#8217;hanno potenza di fare altrui male</E
+M>di Dio</E
+M>divina</E
+M>onnipotenza</E
+M>ha molta p</E
+M>all&#8217;interno della ditta</E
+M>come segretario comunale esercitava una notevole p</E
+M>in città</E
+M>la p</E
+M>politica</E
+M>militare</E
+M>economica di una nazione</E
+M>la p</E
+M>dell&#8217;antica Roma</E
+M>la p</E
+M>di un partito</E
+M>la p</E
+M>del clero</E
+M>della classe dominante</E
+M>di una banca</E
+M>di un complesso industriale</E
+M>la p</E
+M>di un atleta</E
+M>dei suoi muscoli</E
+M>un atleta di grande p</E
+M>la p</E
+M>del pugno fu tale da stordirmi</E
+M>la p</E
+M>di un toro</E
+M>di un cavallo</E
+M>sessuale</E
+M>virile</E
+M>categoria di potenza</E
+M>ha una gran p</E
+M>di voce</E
+M>la p</E
+M>del vento</E
+M>delle onde</E
+M>la p</E
+M>del mare in tempesta</E
+M>la p</E
+M>dell&#8217;urto fece ondeggiare la nave</E
+M>d&#8217;ingegno</E
+M> d&#8217;immaginazione</E
+M>ha scritto pagine di grande p</E
+M>fantastica</E
+M> un&#8217;opera pittorica di grande p. cromatica</E
+M>di ragionamento</E
+M>di argomentazione</E
+M>un rimedio di grande p</E
+M>la p</E
+M>di un veleno</E
+M>di un&#8217;arma</E
+M>di un esplosivo</E
+M>di fuoco</E
+M>la p</E
+M>dell&#8217;oro</E
+M>del denaro</E
+M>la p</E
+M>dell&#8217;amore</E
+M>delle passioni</E
+M>lo spirito mio</E
+M>D&#8217;antico amor sentì la gran potenza</E
+M>tu mostri di non conoscere la potenza della moda</E
+M>tener ferme e unite tutte le potenze dell&#8217;animo</E
+M>la p</E
+M>della parola</E
+M> dell&#8217;arte</E
+M>lo fece tacere con la sola p</E
+M>dello sguardo</E
+M> ho fede nella p</E
+M>della verità</E
+M>le p</E
+M>cosmiche</E
+M>celesti</E
+M>le p</E
+M>della natura</E
+M>sembrava posseduto da un&#8217;oscura p</E
+M>l&#8217;alta</E
+M>la somma p</E
+M>la divina p</E
+M>infernali</E
+M>le p</E
+M>delle tenebre</E
+M>le p</E
+M>angeliche</E
+M>potestà</E
+M>le p</E
+M>ecclesiastiche</E
+M> militari</E
+M>le alte p</E
+M>dello Stato</E
+M>era divenuto un alto impiegato</E
+M>un personaggio (allora si diceva &#171;una potenza&#187;)</E
+M>belligeranti</E
+M>neutrali</E
+M>straniere</E
+M>nemiche</E
+M>avversarie</E
+M>la p</E
+M>occupante</E
+M>Grandi p</E
+M>potenza</E
+M>atto</E
+M>potenza</E
+M>le potenzie dell&#8217;anima</E
+M>cioè la memoria</E
+M>l&#8217;intelletto e la volontà</E
+M>la p</E
+M>conoscitiva</E
+M>intellettiva</E
+M>razionale</E
+M> concupiscibile</E
+M>irascibile</E
+M>in potenza</E
+M>l&#8217;anima è atto primo del corpo fisico organico avente vita in p</E
+M>nel seme è già la pianta in p</E
+M>è ancora rozzo ma possiede in p</E
+M>molte buone qualità</E
+M>è un grand&#8217;uomo</E
+M>ma solo in potenza</E
+M>Ogni gentil costume</E
+M>Ogni potenza ascosa La tua voce amorosa In me desta e ravviva</E
+M>in potenza</E
+M>in being</E
+M>motori di grandissima p.</E
+M>di scarsa p.</E
+M>meccanica</E
+M>elettrica</E
+M> termica</E
+M>di un motore</E
+M>di una locomotiva</E
+M>di un trasformatore</E
+M>rapporto peso</E
+M>potenza</E
+M>resistenza</E
+M>convergenza</E
+M>potere diottrico</E
+M>luminosa</E
+M>flusso luminoso</E
+M>elettrica</E
+M>istantanea</E
+M>attiva</E
+M>reattiva</E
+M>apparente</E
+M>fattore di potenza</E
+M>amplificatore di potenza</E
+M>d&#8217;uscita</E
+M> reattore di potenza</E
+M>reattore di ricerca</E
+M>p. di calcolo</E
+M>di uno strato</E
+M>di una serie di strati</E
+M>di un filone</E
+M>massima</E
+M>media</E
+M>elevare</E
+M>innalzare</E
+M>un numero alla seconda p</E
+M>al quadrato</E
+M>la terza p</E
+M>cubo</E
+M>di 7 è 343</E
+M>calcolare le p</E
+M>del binomio</E
+M>base</E
+M>b esponente</E
+M>all&#8217;ennesima p</E
+M>sei un imbecille all&#8217;ennesima p</E
+M>quel ragazzo è la malignità elevata all&#8217;ennesima potenza</E
+M>di un insieme</E
+M>transfinito</E
+M>del numerabile</E
+M>del continuo</E
+M>insieme p</E
+M>insieme delle parti</E
+M>di un punto P</E
+M>tau</E
+M>croce di sant&#8217;Antonio</E
+M>pazienza</E

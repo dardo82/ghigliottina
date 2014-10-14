@@ -1,0 +1,84 @@
+appena.txt
+"all'ultimo momento, appena in tempo"
+"appena"
+"appena"
+"appena"
+"appena"
+"appena\"
+"appena abbozzato"
+"appena colto"
+"appena creato"
+"appena cucinato"
+"appena fatto"
+"appena fatto"
+"appena in tempo"
+"appena in tempo"
+"appena nato"
+"appena nato"
+"appena prima"
+"appena pubblicato"
+"appena sbarbato"
+"appena sfornato"
+"appena stampato; appena uscito; sensazionale"
+"appena sufficiente"
+"appena udibile"
+"appena un po'"
+"appena uscito"
+"avere appena compiuto gli anni"
+"essere\/appena stato"
+"interiez. rivolta a chi ha appena criticato un'altra persona"
+"muoversi appena"
+"muoversi appena"
+"non appena"
+"non appena"
+"recentemente, appena"
+"respirare appena"
+"vedere appena"
+#* ''il sole è 
+#* ''riusciva 
+*a stento, a fatica, faticosamente, stentatamente 
+* soltanto, non di più, solamente, solo, un poco
+*[[subito]]
+* da poco, da pochissimo
+* subito dopo che
+*[[quando]], [[qualora]], tutte le volte che
+*[[mica]], [[quasi]]
+M>ci si vedeva a</E
+M>riuscirono a entrare a</E
+M>i primi della fila</E
+M>Solo il Re pescatore Ha una giusta misura</E
+M> Gli altri hanno a. un’anima E la paura Di perderla</E
+M>dammene a</E
+M>un bicchiere</E
+M>ne voglio appena appena un dito</E
+M>alzò a</E
+M>la testa</E
+M>sono a</E
+M>le nove</E
+M>il sole si era a</E
+M>levato sull’orizzonte</E
+M>mi sono a</E
+M>svegliato</E
+M>che</E
+M>quando</E
+M>aveva a</E
+M>finito di cenare che</E
+M>quando</E
+M>squillò il telefono</E
+M>furono rientrati</E
+M>rientrati</E
+M>cominciò a piovere</E
+M>arriverai</E
+M>arrivi</E
+M>arrivato</E
+M>telefonami</E
+M>non a</E
+M>ho finito</E
+M>non a</E
+M>finito</E
+M>me ne vado</E
+M>a noi ti vieta Il vero appena è giunto</E
+M>O caro immaginar</E
+M>che</E
+M>non a</E
+M>che</E

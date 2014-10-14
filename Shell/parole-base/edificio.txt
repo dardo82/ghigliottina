@@ -1,0 +1,45 @@
+edificio.txt
+"altissimo (edificio)"
+"costruzione; edificio"
+"edificio"
+"edificio"
+"edificio annesso"
+"edificio del comune"
+"edificio imperiale"
+"edificio scolastico"
+"edificio scolastico"
+"grande edificio"
+*[[ costruzione]], [[fabbricato]], [[stabile]], [[immobile]]; [[abitazione]], [[casa]], [[palazzo]], [[castello]]
+* [[edifizio]]
+*italiano
+*spagnolo
+M>aedificium</E
+M>aedes</E
+M>fac</E
+M>edifici di pietra</E
+M>di mattoni</E
+M>una città ricca di sontuosi e</E
+M>progettare un e</E
+M>attendere alla costruzione di un edificio</E
+M>di abitazione</E
+M>sacro</E
+M>monumentale</E
+M>scolastico</E
+M>ferroviario</E
+M>ospedaliero</E
+M>pubblici</E
+M>questo è lo soprano edificio del mondo</E
+M>la donna che nel dificio del corpo abita</E
+M>cioè l’anima</E
+M>tutto l’e</E
+M>delle sue speranze è crollato</E
+M>l’e</E
+M>delle sue argomentazioni aveva basi debolissime</E
+M>di cartapesta</E
+M>sociale</E
+M>l’e</E
+M>della difesa</E
+M>l’e</E
+M>dell’accusa</E
+M>ha scalzato con prove convincenti tutto l’e</E
+M>dell’avversario</E

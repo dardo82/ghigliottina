@@ -1,0 +1,29 @@
+fascista.txt
+"fascista"
+"fascista"
+"fascista"
+*[[camicia]] [[nera]]
+*[[fascismo]], [[fascistizzare]], [[neofascista]]
+*[[quadrumviro]]
+M>fascio</E
+M>un f</E
+M>della prima ora</E
+M>un f</E
+M>antemarcia</E
+M>un f</E
+M>convinto</E
+M>un fervente f</E
+M>una f</E
+M>fanatica</E
+M>il Partito Nazionale F</E
+M>regime</E
+M>periodo</E
+M>governo f</E
+M>i movimenti f</E
+M>in Europa</E
+M>propagandare</E
+M>usare metodi f</E
+M>èra f</E
+M>15 giugno 1938</E
+M>anno XVI E</E
+M>dell’Era Fascista</E

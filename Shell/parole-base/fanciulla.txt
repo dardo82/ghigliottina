@@ -1,0 +1,5 @@
+fanciulla.txt
+"cognome da fanciulla"
+"fanciulla"
+"fanciulla"
+M>fanciullo</E

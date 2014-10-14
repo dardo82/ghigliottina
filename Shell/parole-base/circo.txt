@@ -1,0 +1,33 @@
+circo.txt
+"artista di circo"
+"circo"
+"circo"
+"circo"
+"circo"
+"circo a tre piste"
+"spettacolo di mostri (al circo)"
+"tenda del circo"
+"tenda di circo"
+"tendone del circo"
+*''è un fenomeno da circo''
+M>circus</E
+M>chi</E
+M>arena</E
+M>equestre</E
+M>circo</E
+M>il direttore del c</E
+M>è arrivato il c</E
+M>in città</E
+M>il c</E
+M>ha levato le tende</E
+M>era fuggito uno dei leoni appartenenti al circo</E
+M>glaciale</E
+M>di monte</E
+M>di valle</E
+M>lago di c</E
+M>ghiacciaio di circo</E
+M>di raccolta</E
+M>alimentare</E
+M>bacino collettore</E
+M>lunare</E
+M>crateri</E

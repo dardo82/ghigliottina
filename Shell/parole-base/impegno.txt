@@ -1,0 +1,68 @@
+impegno.txt
+"con impegno totale"
+"conversare senza impegno"
+"di un impegno totale"
+"impegno"
+"impegno"
+"impegno"
+"impegno"
+"impegno civile"
+"impegno di debito"
+"impegno di pagamento"
+"impegno economico"
+"impegno finanziario"
+"impegno imprevisto"
+"impegno improvviso"
+"impegno pregresso"
+"impegno sociale"
+"impegno totale"
+"lavorare con impegno a qc."
+"liberarsi da un impegno"
+"per impegno"
+"Senza impegno"
+#*''Ti sei preso un '''impegno''' e devi mantenerlo''
+#*''Martedì non posso, ho un '''impegno'''''
+#*''Lavorava con '''impegno'''''
+#*''Quello è un libro di '''impegno''' sociale''
+*[[obbligo]], [[dovere]], [[responsabilità]], [[peso]], [[carico]], [[onere]]; [[promessa]], [[legame]], [[vincolo]]; [[appuntamento]], [[incontro]]
+*[[lavoro]], [[occupazione]], [[affare]], [[faccenda]], [[incarico]], [[incombenza]], [[mansione]], [[ufficio]], [[commissione]]
+*[[serietà]], [[dedizione]], [[diligenza]], [[cura]], [[ardore]], [[fervore]], [[sollecitudine]], [[premura]], [[zelo]], [[solerzia]], [[alacrità]], [[giudizio]]
+*partecipazione alla politica, interesse ideologico
+*''(serietà)'' [[noncuranza]], [[negligenza]], [[svogliatezza]]
+*''(partecipazione)'' [[disinteresse]], [[indifferenza]]
+M>assumere</E
+M>prendere</E
+M>contrarre un i</E
+M>avere un i</E
+M>degli i</E
+M>ho dovuto rifiutare l’invito perché avevo già un precedente i</E
+M>spero di venire da te domani</E
+M>ma avrei già un mezzo i</E
+M>essere libero da impegni</E
+M>sciogliersi</E
+M>liberarsi da un i</E
+M>senza impegno</E
+M>gli apparecchi si provano anche a domicilio</E
+M>senza i</E
+M>da parte del cliente</E
+M>soddisfare gli</E
+M>agli i</E
+M>presi</E
+M>mantenere</E
+M>assolvere un i</E
+M>far fronte</E
+M>mancare a un impegno</E
+M>impegni a vista</E
+M>impegni</E
+M>studiare</E
+M>lavorare</E
+M>scrivere con i</E
+M>mettersi con i</E
+M>a una ricerca</E
+M>giocare</E
+M>lottare con i</E
+M>un affare d’i</E
+M>politico</E
+M>impegno</E
+M>di potenza</E
+M>potenza impegnata</E

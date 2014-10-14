@@ -1,0 +1,7 @@
+centralino.txt
+"centralino"
+"centralino automatico"
+"centralino interno"
+"centralino telefonico"
+"centralino telefonico"
+M>centrale</E

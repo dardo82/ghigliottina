@@ -1,0 +1,37 @@
+cervo.txt
+"carne di cervo"
+"cervo"
+"cervo dalla coda bianca"
+"cervo dalla coda bianca"
+"cervo dalla coda nera"
+"cervo dalle grandi orecchie"
+"cervo mulo"
+"cervo mulo"
+"cervo rosso"
+"cervo selvatico"
+"corno ramificato di cervo"
+"femmina di coniglio, femmina di cervo, femmina di volpe"
+*[[cervo volante]]
+*italiano
+M>rvus</E
+M>rva</E
+M>Cervus</E
+M>Cervus elaphus</E
+M>nobile</E
+M>americani</E
+M>andino</E
+M>ippocamelo bisulco</E
+M>indiano</E
+M>pomellato</E
+M>cital</E
+M>Axis</E
+M>giapponese</E
+M>sika</E
+M>porcino</E
+M>ielafo</E
+M>chi è asino e c</E
+M>esser si crede</E
+M>al saltar della fossa se n’avvede</E
+M>cane agli sguardi e c</E
+M>al core!</E
+M>corrente</E

@@ -1,0 +1,17 @@
+cimice.txt
+"cimice"
+"cimice"
+M>mex</E
+M>cis</E
+M>Cimex</E
+M>Cimex lectularius</E
+M>Cimex rotundatus</E
+M>dei campi</E
+M>selvatica</E
+M>acuminata</E
+M>rossa del cotone</E
+M>nero</E
+M>azzurra dei cavoli</E
+M>della vite</E
+M>microspia</E
+M>Una turba crudel di cimicioni</E

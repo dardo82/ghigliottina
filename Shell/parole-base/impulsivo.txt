@@ -1,0 +1,33 @@
+impulsivo.txt
+"acquisto impulsivo, acquisto d'impulso"
+"collerico, irascibile, impulsivo"
+"collerico; irascibile; impulsivo"
+"dal sangue caldo, impulsivo"
+"impulsivo"
+"impulsivo"
+"impulsivo"
+*[[impulsivamente]], [[impulsività]]
+M>impulsivus</E
+M>impell</E
+M>impulsus</E
+M>è un ragazzo i</E
+M>un tipo i</E
+M>ha un carattere i</E
+M>è un i</E
+M>un’impulsiva</E
+M>atto i</E
+M>moto i</E
+M>atto i</E
+M>comportamento i</E
+M>grandezza i</E
+M>a carattere i</E
+M>moto i</E
+M>intervallo eccezionale</E
+M>Meccanica i</E
+M>di percossa</E
+M>percosse</E
+M>sinusoidale</E
+M>segnale i</E
+M>regime impulsivo</E
+M>agire</E
+M>reagire impulsivamente</E

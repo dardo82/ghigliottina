@@ -1,0 +1,6 @@
+persino.txt
+"persino"
+"persino dopo"
+M>per</E
+M>sino</E
+M>perfino</E

@@ -1,0 +1,166 @@
+catena.txt
+"a catena"
+"alla catena"
+"catena"
+"catena"
+"catena"
+"catena"
+"catena"
+"catena alberghiera"
+"catena alimentare"
+"catena aperta (chimica)"
+"catena d'oro"
+"catena da orologio"
+"catena dell'ancora"
+"catena della bicicletta"
+"catena della bicicletta"
+"catena della distribuzione"
+"catena di ancora"
+"catena di comando"
+"catena di distribuzione"
+"catena di fast food"
+"catena di montaggio"
+"catena di montaggio"
+"catena di monti"
+"catena di negozi di elettronica nell'America del Nord"
+"catena di Sant'Antonio"
+"catena di sicurezza"
+"catena infinita"
+"catena insulare"
+"catena laterale"
+"catena montuosa"
+"catena montuosa"
+"con comando a catena"
+"effetto a catena"
+"fabbrica con catena di montaggio"
+"fare una catena"
+"negozio aderente ad una catena"
+"protezione della catena"
+"reazione a catena"
+"spezzare la catena"
+"tirare la catena"
+"trasmissione a catena"
+*italiano
+*latino
+M>cat</E
+M>la c</E
+M>dell’ancora</E
+M>la c</E
+M>del cane</E
+M>la c</E
+M>dello schiavo</E
+M>del prigioniero</E
+M>del camino</E
+M>del paiolo</E
+M>la c</E
+M>della cassetta di scarico</E
+M>tirare la c</E
+M>dell’uscio</E
+M>catene da neve</E
+M>catenine</E
+M>catenelle</E
+M>dell’orologio</E
+M>un medaglione pendente da una ricca c</E
+M>d’oro</E
+M>uomini</E
+M>vestiti di velluto</E
+M>un de’ quali avea due c</E
+M>d’oro lucente al collo</E
+M>togliesi di fronte una catena Vaga di perle</E
+M>c. ad anelli</E
+M>ad anelli con traversino</E
+M>catene Galle</E
+M>per biciclette</E
+M>per motocicli</E
+M>in catena</E
+M>in catene</E
+M>tenere</E
+M>essere</E
+M>stare in catena</E
+M>in catene</E
+M>tenere alla c</E
+M>è un cagnaccio pericoloso e va tenuto alla c</E
+M>pazzo</E
+M>matto da catena</E
+M>il matrimonio è una c</E
+M>tenere uno a c</E
+M>alla c</E
+M>avere la c</E
+M>al collo</E
+M>uscire di catena</E
+M>di catene</E
+M>sciogliere la c</E
+M>spezzare le c</E
+M>rodere</E
+M>mordere la c</E
+M>Perché taccia il rumor di mia catena</E
+M>Di lagrime</E
+M>di speme e d’amor vivo</E
+M>di fatti</E
+M>d’avvenimenti</E
+M>di guai</E
+M>di sventure</E
+M>una preoccupante c</E
+M>di delitti</E
+M>fare la c</E
+M>di conduttori</E
+M>di montaggio</E
+M>radar</E
+M>aperta</E
+M>chiusa</E
+M>cinematica</E
+M>di sonetti</E
+M>logistica</E
+M>Numero di catena</E
+M>di monti</E
+M>di montagne</E
+M>a catena</E
+M>negozî a c</E
+M>supermercati a c</E
+M>cinematografi a c</E
+M>stampa a c</E
+M>possedere una c</E
+M>di negozî</E
+M>di cinematografi; essere proprietario d’una c</E
+M>di grandi alberghi</E
+M>controllare una c</E
+M>di giornali</E
+M>Società a c.</E
+M>Rima a c</E
+M>rima incatenata</E
+M>Lettere a catena</E
+M>catena di s</E
+M>Antonio</E
+M>catena della felicità</E
+M>a catena</E
+M>tamponamenti a c</E
+M>sull’autostrada</E
+M>furti</E
+M>rapine</E
+M>fallimenti</E
+M>scioperi a catena</E
+M>reazione a c</E
+M>causare</E
+M>provocare</E
+M>suscitare</E
+M>innescare</E
+M>scatenare una reazione a c</E
+M>ordito</E
+M>tirante</E
+M>ganglionare</E
+M>gangliare</E
+M>degli ossicini</E
+M>metaboliche</E
+M>respiratoria</E
+M>aperta</E
+M>ramificata</E
+M>laterale</E
+M>chiusa</E
+M>policiclica</E
+M>eterociclica</E
+M>alimentare</E
+M>trofica</E
+M>di pascolo</E
+M>di detrito</E
+M>parlata</E
+M>chain</E

@@ -1,0 +1,11 @@
+trattore.txt
+"del rimorchio del trattore"
+"del trattore"
+"rimorchio del trattore"
+"trattore"
+"trattore"
+"trattore"
+"trattore"
+"trattore a cingoli"
+* [[trattrice]], veicolo agricolo
+*[[ristoratore]], [[oste]], [[locandiere]], [[taverniere]]

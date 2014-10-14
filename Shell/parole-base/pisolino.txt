@@ -1,0 +1,11 @@
+pisolino.txt
+"pisolare, sonnecchiare, fare un pisolino"
+"pisolino"
+"pisolino, sonnellino"
+"sonnellino; pisolino"
+M>pisolo</E
+M>il p</E
+M>pomeridiano</E
+M>fare</E
+M>schiacciare un p</E
+M>concedersi un pisolino</E

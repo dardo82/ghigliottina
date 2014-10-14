@@ -1,0 +1,49 @@
+seduta.txt
+"breve riunione, breve seduta"
+"coordinare la seduta"
+"dirigere la seduta"
+"essere in seduta"
+"in seduta"
+"in seduta pubblica"
+"posizione seduta"
+"seduta"
+"seduta"
+"seduta"
+"seduta spiritica"
+"seduta stante"
+"seduta stante"
+M>sedere</E
+M>votare per alzata e seduta</E
+M>sedile</E
+M>s. in paglia</E
+M>in tessuto</E
+M>poltroncina con s. e schienale in cuoio.</E
+M>le s. della Camera dei deputati</E
+M>del Senato</E
+M>è stata indetta una nuova s. del Consiglio comunale</E
+M>il consigliere è in s.</E
+M>s. pubblica</E
+M>segreta</E
+M>ordinaria</E
+M>straordinaria</E
+M>aprire</E
+M>chiudere</E
+M>sospendere</E
+M>togliere</E
+M>levare</E
+M>rimandare</E
+M>rinviare la s.</E
+M>s. fiume</E
+M>s. del tribunale</E
+M>s. di laurea</E
+M>s. spiritica</E
+M>s. stante</E
+M>fu licenziato s. stante</E
+M>hanno deciso</E
+M> s. stante</E
+M> di partire</E
+M>avere una s. con il dentista</E
+M>con lo psicanalista</E
+M>gli hanno prescritto una decina di sedute di fisioterapia</E
+M>ho avuto una lunga s. dal commercialista per compilare la denuncia dei redditi</E
+M>gli ha fatto un bellissimo ritratto in sole tre sedute</E

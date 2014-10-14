@@ -1,0 +1,18 @@
+astenere.txt
+"astenere, replace: astenersi"
+M>abstinere</E
+M>abs</E
+M>tenere</E
+M>tenere</E
+M>chi la scure Asterrà pio dalle devote frondi</E
+M>astenersi dal cibo</E
+M>dal bere</E
+M>dal sesso, dal pronunciare un giudizio</E
+M>dovresti astenerti dal dire quelle cose!</E
+M> nel dubbio astieniti!</E
+M>in dubiis abstine</E
+M>astenersi dal voto</E
+M>astenersi</E
+M>i parlamentari astenuti sono una minoranza</E
+M>votanti 20</E
+M>astenuti 8</E

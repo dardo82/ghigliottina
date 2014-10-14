@@ -1,0 +1,33 @@
+facciata.txt
+"facciata"
+"facciata"
+"facciata"
+"facciata della casa"
+"facciata di un negozio"
+"facciata rocciosa"
+M>la f</E
+M>di una villa monumentale</E
+M>di una chiesa</E
+M>la f</E
+M>di San Pietro</E
+M>del Quirinale</E
+M>di Palazzo Vecchio</E
+M>la f</E
+M>della scuola guarda sulla piazza</E
+M>rintonacare</E
+M>ridipingere la f</E
+M>una f</E
+M>barocca</E
+M>una f</E
+M>riccamente decorata di marmi policromi</E
+M>la casa sulla strada costiera con l’intonaco sgretolato ha la f. a oriente esposta a sole e sale</E
+M>la f</E
+M>anteriore</E
+M>la f</E
+M>posteriore</E
+M>le due f</E
+M>laterali dell’edificio</E
+M>giudicare dalla facciata</E
+M>una lettera di due f</E
+M>e mezzo</E
+M>a facciata 17</E

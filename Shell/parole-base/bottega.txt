@@ -1,0 +1,60 @@
+bottega.txt
+"bottega"
+"bottega"
+"bottega"
+"bottega del fabbro"
+"garzone di bottega"
+"interessi di bottega"
+* [[bottegaio]] 
+* ''Essere casa e '''bottega'''''
+* ''Andare a '''bottega'''''
+* ''chiudere '''bottega'''''
+* ''avere la '''bottega''' aperta''
+M>apoth</E
+M>di merciaio</E
+M>di fornaio</E
+M>di ferramenta</E
+M>di ebanista</E
+M>di fabbro ferraio</E
+M>di barbiere</E
+M>negozio</E
+M>di bottega</E
+M>è una replica di b</E
+M>una Madonna della b</E
+M>di Bellini</E
+M> è un lavoro di bottega.</E
+M>andare a b</E
+M>aprire</E
+M>chiudere la b</E
+M>stare di b</E
+M>essere a uscio e b</E
+M>essere tutto casa e b</E
+M>mettere il figliolo a b</E
+M>saper stare a b</E
+M>fondi</E
+M>scarti di b</E
+M>avere la b</E
+M>aperta</E
+M>aprire</E
+M>mettere su b</E
+M>avviare</E
+M>mandare avanti la b</E
+M>chiudere</E
+M>serrare b</E
+M>abbiamo chiacchierato abbastanza</E
+M>sarà l’ora di chiudere b</E
+M>se non mi lasciano fare a modo mio</E
+M>chiudo b</E
+M>e me ne vado</E
+M>è tutta una b</E
+M>fare b</E
+M>di qualche cosa</E
+M>per tutti gli altri</E
+M>era manifesta impostura</E
+M>cabala ordita per far bottega</E
+M>sul pubblico spavento</E
+M>a vento</E
+M>di luogo in luogo sorgevano tavolati e tettoie</E
+M>e botteghe a vento</E
+M>sotto le quali vendevansi carni di montone</E
+M>Segni di bottega</E

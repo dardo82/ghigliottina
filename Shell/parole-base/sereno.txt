@@ -1,0 +1,77 @@
+sereno.txt
+"a ciel sereno"
+"cielo sereno"
+"dormire sereno"
+"essere un fulmine a ciel sereno."
+"fulmine a ciel sereno"
+"fulmine a ciel sereno"
+"sereno"
+"sereno"
+"sereno"
+"cielo sereno"
+"sereno"
+"tempo sereno"
+"tempo soleggiato, tempo sereno"
+#* ''mi sento molto '''serena'''''
+#* ''oggi il cielo è 
+#* ''oggi c'è 
+#* ''per domani è previsto 
+*[[chiaro]], [[limpido]], [[azzurro]], [[trasparente]], [[luminoso]], [[brillante]], [[pulito]], [[puro]], [[sgombro]], [[nitido]], [[terso]]
+*[[giusto]], [[equilibrato]], [[controllato]], [[obiettivo]], [[imparziale]], [[spassionato]], [[equo]]
+* cielo sereno, bel tempo
+*[[nuvoloso]], [[coperto]], [[nebbioso]], [[rannuvolato]]
+*[[ ingiusto]], [[squilibrato]], [[soggettivo]], [[parziale]]
+*[[nuvolo]], brutto tempo, [[tempaccio]], [[pioggia]]
+*[[serenare]], [[rasserenare]], [[serenamente]], [[serenità]]
+*''un fulmine a ciel '''sereno'''''
+M>serenus</E
+M>cielo s.</E
+M>giornata</E
+M>notte s.</E
+M>a ciel s.</E
+M>dormire al ciel s.</E
+M>un fulmine a ciel s.</E
+M>il fallimento di una ditta così ben avviata è stato per tutti un fulmine a ciel sereno</E
+M>turbato</E
+M>animo s.</E
+M>coscienza</E
+M>mente s.</E
+M>una letizia</E
+M>una gioia s.</E
+M>viso</E
+M>sguardo s.</E
+M>avere un aspetto s.</E
+M>una bellezza s.</E
+M>conservare un atteggiamento s. anche di fronte alla morte</E
+M>una vita s.</E
+M>avere un&#8217;esistenza s.</E
+M>abbiamo passato una vacanza s.</E
+M>ricordiamo le s. giornate trascorse insieme a voi</E
+M>un giudizio s.</E
+M>una valutazione s. dei fatti</E
+M>guarda che bel s.</E
+M> stasera</E
+M>Torna azzurro il s.</E
+M> e tornan l&#8217;ombre Giù da&#8217; colli e da&#8217; tetti</E
+M>Quale per li seren tranquilli e puri Discorre ad ora ad or sùbito foco</E
+M>come ne&#8217; lucidi s. sono le stelle ornamento del cielo</E
+M>col pensiero Quasi a&#8217; sereni dell&#8217;Olimpo alzossi</E
+M>al sereno</E
+M>sotto le stelle</E
+M>dormire</E
+M>passare la notte al s.</E
+M>alla serena</E
+M>era diventato di pratica di banchettare alla serena per tutta la città</E
+M>lo scolare andando per la corte</E
+M> sé esercitava per riscaldarsi</E
+M> né aveva dove porsi a sedere né dove fuggire il s.</E
+M>sarebbe stato poco efficace aiuto contro il rigore del s.</E
+M>Quindici stelle che ... Lo cielo avvivan di tanto sereno Che soperchia de l&#8217;aere ogne compage</E
+M>Dal bel seren de le tranquille ciglia Sfavillavan sì le mie due stelle fide</E
+M>Pietra s.</E
+M>serenìssimo</E
+M>guardare serenamente all&#8217;avvenire</E
+M>l&#8217;imputato attendeva serenamente il verdetto</E
+M>vivere serenamente</E
+M>giudicare</E
+M>valutare serenamente</E

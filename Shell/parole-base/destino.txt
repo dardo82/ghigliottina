@@ -1,0 +1,32 @@
+destino.txt
+"affidarsi al destino"
+"come vuole il destino"
+"destino"
+"destino"
+"gioco del destino"
+"quando si dice il destino..."
+"segno del destino"
+*[[sorte]], [[fatalità]], [[necessità]], [[futuro]]
+*[[destinazione]], [[destinatario]], [[predestinare]]
+M>subire il d</E
+M>rassegnarsi al d</E
+M>seguire il proprio d</E
+M>predire il d</E
+M>leggere nel libro del d</E
+M>avere un brutto destino</E
+M>è destino</E
+M>era destino</E
+M>perché prendersela? si vede che era destino!</E
+M>era d</E
+M>che non dovessero più incontrarsi</E
+M>è d</E
+M>che io ci debba sempre rimettere</E
+M>essere perseguitato dal d</E
+M>prendersela col d</E
+M>non si può sfuggire al destino</E
+M>i d</E
+M>della patria</E
+M>dell’umanità</E
+M>l’impiegato attendeva di conoscere il suo d</E
+M>la nave ha raggiunto il proprio d</E
+M>merce spedita franco destino</E

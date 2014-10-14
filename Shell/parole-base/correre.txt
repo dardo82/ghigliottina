@@ -1,0 +1,207 @@
+correre.txt
+"andare a correre"
+"andare di fretta; correre"
+"camminare in fretta, correre"
+"correre"
+"correre"
+"correre"
+"fluire, scorrere"
+"correre"
+"percorrere"
+"correre"
+"correre"
+"correre"
+"correre"
+"intercorrere"
+"correre"
+"correre"
+"correre"
+"passare, trascorrere"
+"correre"
+"correre ai ripari"
+"correre alle conclusioni"
+"correre da"
+"correre dietro"
+"correre dietro a qn"
+"correre dietro a qn"
+"correre dietro alle ragazze"
+"correre il rischio"
+"correre il rischio di"
+"correre in cerchio"
+"correre lungo"
+"correre parallelamente a"
+"correre per"
+"correre per"
+"correre per; attraverso"
+"correre più veloce"
+"correre qua e là"
+"correre tra le basi"
+"correre un rischio"
+"correre un rischio"
+"correre veloce"
+"correre velocemente"
+"correre velocemente per breve distanza"
+"correre via"
+"lasciar correre"
+#* '''''Corse''' via dalla paura.''
+#* '''''Corri''' troppo leggendo.''
+#* ''Quel pilota '''''corre''' per la Renault.''
+#* '''''Corro''' al telefono!''
+#* '''''Correva''' l'anno 1945''
+#* '''''Corrono''' molte voci a proposito''
+#* ''Il fiume '''corre''' giù per al valle.''
+#* ''Il tempo '''corre'''!''
+#* ''La lira '''ha avuto corso''' fino al 1999.''
+#* '''''Ho corso''' i 100 metri in 12 secondi!''
+#* '''''Corre''' il rischio di essere bocciato.''
+* [[affrettarsi]], [[precipitarsi]], [[accorrere]], [[gareggiare]] 
+*[[corrimento]], [[concorrere]], [[ricorrere]],[[rincorrere]], [[precorrere]]
+* [[accelerare]], [[corsa]], [[fretta]], [[veloce]]
+* ''Correre il mondo''
+* ''Correre il mare''
+* ''Correre ai ripari'' o ''correre ai rimedi''
+* ''Correre sangue''
+M>córsi</E
+M>corrésti</E
+M>córso</E
+M>essere</E
+M>avere</E
+M>ho dovuto c</E
+M>per non perdere il treno</E
+M>ho corso troppo e sono tutto sudato</E
+M>ho cercato di raggiungerlo</E
+M>ma lui correva più forte di me</E
+M>il cavallo correva nella pianura</E
+M>il cane correva dietro al gatto</E
+M>come il vento</E
+M>come il fulmine</E
+M>a rotta di collo</E
+M>a precipizio</E
+M>dietro a qualcuno</E
+M>dietro alle donne</E
+M>una volta corre il cane</E
+M>una volta la lepre</E
+M>la squadra che corre per la casa Bianchi</E
+M>ricordi i nomi degli assi che hanno corso nell’ultimo circuito di Monza</E
+M>dei cavalli che correranno ad Agnano</E
+M>fare a c</E
+M>fare a chi corre di più</E
+M>si fa buio</E
+M>bisogna ch’io corra al convento</E
+M>corri a prendermi delle sigarette</E
+M>sono corso a chiamare l’idraulico</E
+M>appena ricevuta la tua telefonata sono corso subito da te</E
+M>al capezzale di un malato</E
+M>tutti corrono a vedere quel film</E
+M>appena saputo ch’era arrivata</E
+M>è corso a salutarla</E
+M>a una cosa</E
+M>i pesci corrono all’amo</E
+M>le mosche corrono al miele</E
+M>corre troppo quando recita</E
+M>leggi più adagio</E
+M>non c</E
+M>tu corri troppo!</E
+M>l’automobile correva sulla strada asfaltata</E
+M>come corre questo treno!</E
+M>di bolina</E
+M>di controbordo</E
+M>a fortuna</E
+M>sull’ancora</E
+M>ai ripari</E
+M>ai rimedî</E
+M>la mano gli corse al coltello</E
+M>alla tasca</E
+M>al portafoglio</E
+M>l’occhio mi corse subito allo specchio</E
+M>il mio pensiero corse subito alla mamma</E
+M>corsi subito col pensiero</E
+M>dissi le prime parole che mi corsero sulle labbra</E
+M>E tanto buono ardire al cor mi corse</E
+M>la via corre piana fino al lago</E
+M>la linea ferroviaria corre lungo la strada</E
+M>sotto il cornicione corre un fregio di stucco</E
+M>dall’una all’altra di quelle terre</E
+M>dall’alture alla riva</E
+M>da un poggio all’altro</E
+M>correvano</E
+M>e corrono tuttavia</E
+M>strade e stradette</E
+M>più o men ripide</E
+M>o piane</E
+M>corrono fra la città e le sue colline zone di pianura più o meno vaste</E
+M>il fiume corre tortuoso fra le rive</E
+M>il sudore gli correva giù per la faccia</E
+M>il sangue che corre nelle vene</E
+M>nacque una rissa e corse sangue</E
+M>un brivido mi corse per le ossa</E
+M>i periodi corrono poco</E
+M>è un discorso che non corre</E
+M>non s’ammazza certo di lavoro</E
+M>tanto sa che lo stipendio gli corre lo stesso</E
+M>gli interessi corrono dal primo gennaio</E
+M>lasciar correre</E
+M>lasciamo c</E
+M>per questa volta</E
+M>i giorni</E
+M>gli anni corrono</E
+M>come corre il tempo!</E
+M>correva l’anno 1300</E
+M>con gli anni</E
+M>coi tempi che corrono</E
+M>corsero lunghi mesi prima che desse notizia di sé</E
+M>dalla villa al lago corrono circa 500 metri</E
+M>c’è corso poco che non cadesse in mare</E
+M>correrci</E
+M>ci corre da me a lui</E
+M>tra le nostre opinioni ci corre un abisso</E
+M>tra me e te</E
+M>corrono tre anni</E
+M>sono corsi avvenimenti importanti in questi ultimi tempi</E
+M>mi corre l’obbligo di avvertirti</E
+M>erano corse tra loro promesse di matrimonio</E
+M>corsero pugni</E
+M>ingiurie</E
+M>minacce</E
+M>Corsero a un tratto</E
+M>con stupor de’ tigli</E
+M>Tra lor parole grandi più di loro</E
+M>tra marito e moglie non corrono più buoni rapporti</E
+M>non corre certo buon sangue tra quei due!</E
+M>corrono brutte voci sul suo conto</E
+M>il discorso cadde sulle opinioni che correvano là in fatto di religione</E
+M>corre voce che</E
+M>tra i ragazzi d’oggi corrono curiose abitudini</E
+M>è una moneta che non corre più</E
+M>Felice te</E
+M>che il regno ampio dei venti</E
+M>Ippolito</E
+M>ai tuoi verdi anni correvi</E
+M>chino sul volante della sua rossa macchina che correva l’antica strada romana</E
+M>il mare</E
+M>correr pericolo</E
+M>un rischio</E
+M>la cavallina</E
+M>i barbari corsero gran parte d’Italia</E
+M>battuta</E
+M>spogliata</E
+M>lacera</E
+M>corsa</E
+M>il giro d’Italia</E
+M>i 100</E
+M>i 200 metri</E
+M>giostra</E
+M>palio</E
+M>Poi si rivolse</E
+M>e parve di coloro Che corrono a Verona il drappo verde</E
+M>lancia</E
+M>non v’era un miglior per correr lancia</E
+M>in questa zuffa</E
+M>la velocità della carriera non serviva</E
+M>come nel c</E
+M>la lancia</E
+M>ad accrescere impeto ai colpi</E
+M>sangue</E
+M>Sangue corrono i campi e sangue i fiumi</E
+M>vollero morir col ferro in mano</E
+M>E avanti a lor correa sangue il piano</E

@@ -1,0 +1,257 @@
+seguire.txt
+"a seguire"
+"avere nel campo visivo e seguire in modo automatico un obiettivo"
+"comando a una formazione in marcia di allinearsi e seguire una guida in testa alla formazione stessa"
+"deve seguire"
+"esaminare a fondo; seguire accuratamente"
+"fare un corso, seguire un corso"
+"seguire"
+"seguire"
+"continuare, proseguire"
+"seguire"
+"seguire"
+"seguire"
+"seguire"
+"seguire"
+"seguire a ruota"
+"seguire come conseguenza"
+"seguire di nascosto"
+"seguire i passi di"
+"seguire il consiglio"
+"seguire il filo"
+"seguire il leader"
+"seguire l'esempio di"
+"seguire l'esempio di qualcuno"
+"seguire la corrente"
+"seguire la gente"
+"seguire la guida di"
+"Seguire la moda"
+"seguire la regola"
+"Seguire le orme del padre"
+"seguire le orme di qualcuno"
+"seguire le regole"
+"seguire le tracce di"
+"seguire un ciclo"
+"seguire un consiglio"
+"seguire un corso"
+"seguire una fede"
+"seguire una politica di"
+"seguire una procedura"
+"tracking degli uragani; seguire il percorso degli uragani"
+*andare dietro, [[accompagnare]], [[scortare]], [[inseguire]], [[rincorrere]], [[pedinare]], [[tallonare]], [[accodarsi]],
+* [[andare dietro]], [[tener dietro]]
+* procedere lungo, andare nella direzione, andare nel verso
+*(con lo sguardo, l’attenzione, la partecipazione, eccetera) [[ascoltare]], far attenzione, dar retta, [[badare]]; [[assistere]]; [[capire]], [[comprendere]]
+* venire dopo
+*[[continuare]], [[proseguire]]
+*[[nascere]], [[derivare]], [[conseguire]], venire di conseguenza
+*venire prima, [[precedere]], [[antecedere]]
+*[[proseguire]],[[inseguire]],[[perseguire]],[[seguimento]], [[perseguire]] , [[seguitore]]
+M>qui</E
+M>io séguo</E
+M>seguisco</E
+M>seguisci</E
+M>seguìi</E
+M>seguètti</E
+M>seguisti</E
+M>il mio cane mi segue sempre come un&#8217;ombra</E
+M>va&#8217; pure avanti</E
+M> ti seguo</E
+M>s. a ruota</E
+M>seguitemi</E
+M> vi faccio strada io</E
+M>s. la guida</E
+M>s. il caposquadra</E
+M>durante la visita al castello il custode ci ha seguiti in ogni sala</E
+M>mi segue sempre dappertutto</E
+M> come un&#8217;ombra</E
+M>come la mia ombra</E
+M>gli ho raccomandato di seguirmi a distanza</E
+M>intanto puoi avviarti</E
+M> ti seguirò fra qualche minuto</E
+M>ho provato a seguirli</E
+M> ma avevano troppo vantaggio su di me</E
+M> e li ho persi di vista</E
+M>ha avuto l&#8217;incarico di seguirlo di nascosto</E
+M> per vedere dove andava</E
+M>il ricercato si è accorto di essere seguito da un agente</E
+M> e ha fatto perdere le proprie tracce</E
+M>non aveva il coraggio di dichiararsi</E
+M> ma la seguiva ogni sera fino a casa</E
+M>far seguire qualcuno</E
+M>la polizia lo ha fatto s. e ha così scoperto un covo di terroristi</E
+M>nel timore di un rapimento</E
+M> fa s. il figlio da due gorilla</E
+M>Quanto è più dolce ... Seguir le fere fugitive in caccia ... E spiar lor covil</E
+M>i prigionieri incatenati seguivano il carro del trionfatore</E
+M>una immensa folla seguiva il feretro</E
+M>il cacciatore si mosse e il cane lo seguì</E
+M>una lunga fila di macchine seguiva il convoglio</E
+M>chi mi ama mi segua</E
+M>se io dessi le dimissioni</E
+M> tu mi seguiresti?</E
+M>dopo pochi mesi la moglie lo seguì nella tomba</E
+M>Vaticano e l&#8217;altre parti elette Di Roma che son state cimitero A la milizia che Pietro seguette</E
+M>accompagnare</E
+M>dovunque vado</E
+M> mi segue sempre</E
+M>mi ha pregato di seguirlo nel suo ufficio</E
+M>gli agenti lo hanno invitato a seguirli in questura per accertamenti</E
+M>alla famiglia non è stato concesso di seguirlo nell&#8217;esilio</E
+M>il ricordo di mio padre mi segue dappertutto</E
+M>quel pensiero ossessivo lo seguiva sempre</E
+M>segui sempre il sentiero e in pochi minuti arriverai al mare</E
+M>per non sbagliare</E
+M> segui la pista ciclabile</E
+M>s. la via giusta</E
+M>la rotta ordinaria</E
+M>s. la corrente</E
+M>s. la corrente</E
+M>s. i passi</E
+M>le orme di qualcuno</E
+M>seguendo le orme sulla sabbia hanno capito che si era diretto al mare</E
+M>ci accordammo sulla linea da s.</E
+M>la polizia segue attualmente una nuova pista per scoprire l&#8217;assassino</E
+M>proviamo a s. questa traccia per risolvere il problema</E
+M>nella loro ricerca hanno seguito questo criterio</E
+M>per non smarrirsi seguì sempre la luce del faro</E
+M>s. le indicazioni</E
+M>le istruzioni avute</E
+M>s. le proprie inclinazioni</E
+M>i proprî impulsi</E
+M>la propria vocazione</E
+M>non devi s. il destino così passivamente</E
+M>se tu segui tua stella</E
+M> Non puoi fallire a glorïoso porto</E
+M>s. la propria sorte</E
+M>s. la sorte di qualcuno</E
+M>s. un maestro</E
+M>le idee</E
+M>le dottrine di un maestro</E
+M>s. Platone</E
+M>Cartesio</E
+M>Marx</E
+M>s. l&#8217;esistenzialismo</E
+M>s. i movimenti ecologisti</E
+M>sono molti a s. le sue idee</E
+M>s. le prescrizioni del medico</E
+M>s. un consiglio</E
+M>i consigli</E
+M>s. la moda</E
+M>s. le manie</E
+M>le infatuazioni del momento</E
+M>s. l&#8217;esempio degli adulti</E
+M>il bambino seguiva in tutto il fratello più grande</E
+M>s. la maniera di un pittore</E
+M>s. lo stile di uno scrittore</E
+M>s. un sistema</E
+M>un metodo</E
+M>una norma</E
+M>uno stile di vita</E
+M>una linea di comportamento</E
+M>s. un piano prestabilito</E
+M>s. una cura</E
+M>s. una dieta</E
+M>s. la giustizia</E
+M>Fatti non foste a viver come bruti</E
+M> Ma per seguir virtute e conoscenza</E
+M>lo seguì a lungo con lo sguardo</E
+M>seguiva da lontano tutti i suoi movimenti</E
+M>continuava a seguirlo con la coda dell&#8217;occhio</E
+M>s. con l&#8217;occhio le righe</E
+M>lo scritto</E
+M>s. lo spartito</E
+M>s. la composizione del testo sullo schermo del computer</E
+M>s. i proprî pensieri</E
+M>le proprie fantasie</E
+M>i proprî sogni</E
+M>s. la spiegazione</E
+M>la dimostrazione</E
+M>ho seguito con molto interesse la sua relazione</E
+M>il pubblico ha seguito distrattamente gli ultimi interventi degli oratori</E
+M>non so se hai seguito il mio ragionamento</E
+M>mi segui?</E
+M>mi seguite?</E
+M>è inutile che io continui a parlare</E
+M> se nessuno mi segue</E
+M>è un allievo che segue</E
+M>un docente che segue i suoi allievi</E
+M>un medico che segue i suoi pazienti</E
+M>s. sui giornali i fatti della politica</E
+M>segue con attenzione tutte le novità librarie</E
+M>un gruppo di ricercatori che segue i progressi della scienza</E
+M>hai seguito gli sviluppi della crisi?</E
+M>segui sempre l&#8217;articolo di fondo?</E
+M>segue assiduamente tutte le puntate del telefilm</E
+M>ho smesso di s. il programma del sabato sera</E
+M>s. il calcio</E
+M> il tennis</E
+M> in molti seguono il teatro</E
+M>s. un ciclo di conferenze</E
+M>un corso di lezioni</E
+M>un seminario</E
+M>nell&#8217;ordinamento naturale dei numeri interi</E
+M> il 5 segue il 4</E
+M>a ‹ b</E
+M>la calma che di solito segue la tempesta</E
+M>la fine della guerra fu seguita da un lungo periodo di pace</E
+M>l&#8217;intervento chirurgico fu seguito da una veloce ripresa</E
+M>essere</E
+M>quindi il marito Ultimo segua</E
+M>nella legione romana venivano per primi i principi</E
+M> seguivano gli astati e poi i triarî</E
+M>s. nel grado</E
+M>nella gerarchia</E
+M>O voi che siete in piccioletta barca ... seguiti Dietro al mio legno</E
+M>siete seguiti</E
+M>secuti estis</E
+M>all&#8217;ultimo capitolo segue la conclusione</E
+M>l&#8217;ultimo capitolo è seguito da una conclusione</E
+M>al maestoso Adagio segue un vivace Finale</E
+M>segue un lungo elenco di nomi</E
+M>segue la descrizione particolareggiata</E
+M>segue la firma</E
+M>seguono</E
+M>in ordine alfabetico</E
+M>in ordine d&#8217;importanza</E
+M>sulla lapide c&#8217;era scritto quanto segue ...</E
+M>disse ciò che segue ...</E
+M>con quel che segue</E
+M>&#171;tanto va la gatta al lardo&#187;</E
+M> con quel che segue</E
+M>l&#8217;articolo segue a pagina 12</E
+M>segue</E
+M>continua</E
+M>al calare del sipario seguì un lungo applauso</E
+M>seguì un silenzio imbarazzante</E
+M>i fatti che seguirono sono noti a tutti</E
+M>è più facile immaginare che descrivere quello che seguì</E
+M>ne è seguita una lite furiosa</E
+M>ne seguì una guerra lunga e disastrosa</E
+M>spero che non seguano complicazioni</E
+M>dal postulato delle parallele segue che la somma degli angoli di un triangolo è un angolo piatto</E
+M>da questa equazione segue che il valore di x è 5</E
+M>segua che vuole</E
+M>segua che può</E
+M>ne segue che o lo compro subito o non lo compro più</E
+M>se io vi guerisco</E
+M> che merito me ne seguirà?</E
+M>descriverrò particularmente</E
+M> insino al 1434</E
+M> solo le cose seguite drento alla città</E
+M>di questo caso</E
+M> ch&#8217;è seguito per tua cagion</E
+M>ei seguette</E
+M> Come suol seguitar per alcun caso</E
+M> Che l&#8217;un nomar un altro convenette</E
+M>lo stesso segue me</E
+M>quantunque</E
+M> per s. il comandamento fattole dal marito</E
+M> tacesse</E
+M>una gente impera e l&#8217;altra langue</E
+M> Seguendo lo giudicio di costei</E
+M> seguendo il parlar</E
+M> cinge il mio lato Con la pietosa mano</E
+M>Giacque stordita la donzella alquanto</E
+M> Come io vi seguirò ne l&#8217;altro canto</E
+M>Esponete per ordine il seguìto De la vostra ambasciata</E

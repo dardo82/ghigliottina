@@ -1,0 +1,40 @@
+miracoloso.txt
+"miracoloso"
+"miracoloso"
+"miracoloso"
+"fatto miracoloso"
+#* ''era un profeta 
+#* ''ecco la fonte '''miracolosa''' scaturita dove dormì il santo''
+#* ''questa cura è davvero '''miracolosa'''''
+#* ''è un medico 
+*[[fantastico]], [[incredibile]], [[portentoso]], [[prodigioso]], [[inspiegabile]], [[instancabile]], [[fenomenale]]
+*[[miracolosamente]]
+*Giuseppe Pittano, ''Il mio primo dizionario di italiano illustrato'', edizione 1995, p.329, DeAgostini
+M>miraculosus</E
+M>santo m</E
+M>immagine</E
+M>reliquia m</E
+M>le m</E
+M>acque di Lourdes</E
+M>la m</E
+M>virtù di sant’Antonio</E
+M>luogo m</E
+M>un chirurgo m</E
+M>una sarta</E
+M>una rammagliatrice m</E
+M>medicina</E
+M>rimedio</E
+M>preparato</E
+M>cura m</E
+M>un elisir m</E
+M>il suo intervento fu miracoloso</E
+M>guarigione</E
+M>conversione m</E
+M>stimmate m</E
+M>si salvò in modo miracoloso</E
+M>risultati m</E
+M>l’altissima fama del m</E
+M>senno di Salamone</E
+M>quanto sei miracoloso!</E
+M>guarì miracolosamente</E
+M>rimase miracolosamente incolume</E

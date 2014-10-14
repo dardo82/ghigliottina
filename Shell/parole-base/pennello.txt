@@ -1,0 +1,17 @@
+pennello.txt
+"a pennello"
+"a pennello asciutto"
+"calzare a pennello"
+"il pennello, la spazzola"
+"pennello"
+"pennello da barba"
+#* ''per [[pitturare]] hai [[bisogno]] dei '''pennelli'''''
+#* ''in questo [[quadro]] si riconosce il '''pennello''' di Picasso''
+#* ''Valerio è un buon 
+* (''per il significato 5'') [[repellente]], [[sperone]]
+* (''per il significato 6'') [[nappa]]
+* [[pennellare]], [[pennellessa]]
+* (''per i significati 9, 10, 11'') [[penello]]
+* ''a '''pennello'''''
+* ''tuffo a '''pennello'''''
+*italiano

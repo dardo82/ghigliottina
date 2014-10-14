@@ -1,0 +1,55 @@
+fioritura.txt
+"a fioritura notturna"
+"fioritura"
+"fioritura"
+"fioritura"
+"fioritura di primavera"
+"fioritura di primavera"
+"fioritura; abbellimento musicale"
+"in piena fioritura"
+"in piena fioritura"
+"periodo di fioritura"
+"periodo di massima fioritura"
+"tarda fioritura"
+#*''la fioritura delle mele''
+*[[fiorire]], [[fiore]]
+M>la f</E
+M>dei peschi</E
+M>dei mandorli</E
+M>la f</E
+M>della mimosa</E
+M>la f</E
+M>di un’azalea</E
+M>sono belli i prati durante la f</E
+M>una f</E
+M>scarsa</E
+M>abbondante</E
+M>una meravigliosa fioritura</E
+M>del fitoplancton</E
+M>algale</E
+M>flos aquae</E
+M>nella Firenze di Lorenzo il Magnifico ci fu una vera f</E
+M>di poeti e di artisti</E
+M>una f</E
+M>di opere di pensiero</E
+M>di iniziative culturali</E
+M>stilistiche</E
+M>una prosa piena</E
+M>ricca di fioriture</E
+M>spogliato delle f</E
+M>il fatto si riduce essenzialnente a questo</E
+M>stile fiorito</E
+M>contrappunto fiorito</E
+M>una f</E
+M>sul viso</E
+M>una parete macchiata qua e là da una f</E
+M>di macchie giallastre</E
+M>da fioriture di salsedine</E
+M>un libro ancora in buono stato ma con qualche f</E
+M>di umidità</E
+M>fiore</E
+M>la f</E
+M>del vino</E
+M>dell’aceto</E
+M>togliere la f</E
+M>del vino</E

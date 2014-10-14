@@ -1,0 +1,24 @@
+convento.txt
+"convento"
+"convento di clausura"
+"convento di suore"
+"quello che passa il convento"
+*[[monastero]]
+*[[conventuale]]
+M>conventus</E
+M>convenire</E
+M>monastero</E
+M>il c</E
+M>dei Cappuccini</E
+M>il c</E
+M>di san Francesco</E
+M>entrare in c</E
+M>in un c</E
+M>mangiare quel che passa il c</E
+M>il c</E
+M>non passa altro</E
+M>il padre guardiano riunì tutto il convento</E
+M>conventus</E
+M>Non disse Cristo al suo primo c</E
+M>«Andate</E
+M>e predicate al mondo ciance»</E

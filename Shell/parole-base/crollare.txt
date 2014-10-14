@@ -1,0 +1,37 @@
+crollare.txt
+"cedere; crollare"
+"crollare"
+"crollare"
+"crollare"
+"crollare"
+"crollare"
+"scuotere, scrollare"
+"crollare, cadere"
+"far crollare"
+"sprofondare, crollare"
+#* ''le Borse devono 
+*[[cadere]], [[precipitare]], [[sprofondare]], [[franare]], [[rovinare]], [[abbattersi]], [[piombare]], [[schiantarsi]]
+*(di persona) [[arrendersi]], [[cedere]], [[piegarsi]]
+*[[alzarsi]], [[sorgere]]
+*(di persona) [[resistere]]
+M>io cròllo</E
+M>Sta come torre ferma</E
+M>che non crolla Già mai la cima per soffiar di venti</E
+M>il capo</E
+M>la testa</E
+M>le spalle</E
+M>come lavato fosse</E
+M>crollasse la fune e essi il tirerebber suso</E
+M>crollarsi</E
+M>Lo maggior corno de la fiamma antica Cominciò a crollarsi mormorando</E
+M>Ed erba o foglia non si crolla al vento</E
+M>Soffia il vento</E
+M>crolla la rama</E
+M>essere</E
+M>è crollato il suo orgoglio</E
+M>la sua sicurezza è crollata</E
+M>tutte le nostre speranze sono crollate</E
+M>alla terza ripresa il pugile avversario è crollato</E
+M>resistette alla fatica finché poté</E
+M>ma alla fine crollò</E
+M>subire un crollo</E

@@ -1,0 +1,38 @@
+impicciare.txt
+"impicciare"
+"impicciare, replace: impicciarsi di"
+#* ''(
+M>empeechier</E
+M>impedicare</E
+M>io impìccio</E
+M>impacciare</E
+M>leva dal tavolo tutte queste carte che m’impicciano</E
+M>la strada</E
+M>il passaggio</E
+M>proprio oggi</E
+M>la sua venuta m’impiccia</E
+M>va’ di là a giocare</E
+M>che qui impicci</E
+M>potrebbe anche dare una mano</E
+M>in questi momenti</E
+M>invece di venir tra’ piedi a piangere e a i</E
+M>la faccenda sarebbe andata liscia</E
+M>se non fosse venuto lui a impicciare</E
+M>impicciarsi</E
+M>si è impicciato in questioni che non gli competono</E
+M>in affari delicati</E
+M> non t’impicciare dei fatti</E
+M>degli affari</E
+M>miei</E
+M>di che t’impicci</E
+M>tu?</E
+M>impìcciati dei fatti tuoi</E
+M>impicciarsi con qualcuno</E
+M>mai impicciarsi con certi uomini!</E
+M>impacciato</E
+M>l’accoglienza fredda e impicciata di don Abbondio</E
+M>essere</E
+M>i suoi affari sono impicciati</E
+M>è una questione piuttosto impicciata</E
+M>oggi sono assai impicciato</E
+M>avrò tutta la giornata impicciata</E

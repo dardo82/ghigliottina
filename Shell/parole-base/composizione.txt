@@ -1,0 +1,87 @@
+composizione.txt
+"composizione"
+"composizione"
+"composizione chimica"
+"composizione di fiori"
+"composizione di versi"
+"composizione floreale"
+"composizione tipografica"
+"riga di composizione"
+*''(modo in cui una cosa è composta)'' [[disposizione]], [[organizzazione]], [[ordinamento]], [[assetto]] 
+*''(il comporre)'' [[disposizione]], [[costruzione]], [[sistemazione]]
+*''(di testo scritto)'' [[compilazione]], [[redazione]], [[elaborazione]]
+*''(di contrasto,lite eccetera)'' [[accordo]], [[conciliazione]], [[pacificazione]], [[appianamento]]
+M>compositio</E
+M>onis</E
+M>compon</E
+M>iniziare la c</E
+M>di un mosaico</E
+M>attendere alla c</E
+M>di un poema</E
+M>di una sinfonia</E
+M>tinta ottenuta con una sapiente c</E
+M>di colori</E
+M>l’armonia risulta dalla c</E
+M>di varî suoni</E
+M>studiare c</E
+M>insegnare c</E
+M>architettonica</E
+M>urbanistica</E
+M>non si conosce ancora la c</E
+M>della giuria</E
+M>la c</E
+M>dello sciroppo è descritta sull’etichetta</E
+M>chimica</E
+M>la c</E
+M>dell’acido solforico</E
+M>questa bibita è una c</E
+M>di diversi ingredienti</E
+M>musicale</E
+M>per canto e pianoforte</E
+M>drammatica</E
+M>poetica</E
+M>mi ha letto una sua breve c</E
+M>in versi</E
+M>ha dipinto una c</E
+M>allegorica</E
+M>a mano</E
+M>a macchina</E
+M>continua</E
+M>al chilometro</E
+M>interlineare</E
+M>interlineata</E
+M>non interlineata</E
+M>piena</E
+M>lardellata</E
+M>parallela</E
+M>conservare la c</E
+M>per una prossima ristampa</E
+M>verbale</E
+M>tacere</E
+M>sottacere</E
+M>trasmettere</E
+M>radiotrasmettere</E
+M>nominale</E
+M>capostazione</E
+M>ferrovia</E
+M>francobollo</E
+M>ossobuco</E
+M>consocio</E
+M>controprova</E
+M>decimetro</E
+M>frutticoltore</E
+M>schiaccianoci</E
+M>trinciaforaggi</E
+M>rapporto di c</E
+M>di parte al tutto</E
+M>di una lite</E
+M>di una contravvenzione</E
+M>amichevole</E
+M>onorevole</E
+M>vantaggiosa</E
+M>di vettori</E
+M>di movimenti</E
+M>legge di c</E
+M>composizione</E
+M>binaria</E
+M>ternaria</E

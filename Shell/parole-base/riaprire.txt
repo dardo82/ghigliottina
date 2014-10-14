@@ -1,0 +1,45 @@
+riaprire.txt
+"riaprire"
+"riaprire"
+"riaprire i battenti"
+"riaprire i giochi"
+M>aprire</E
+M>aprire</E
+M>la porta</E
+M>la finestra</E
+M>le imposte</E
+M>una cassa</E
+M>un cassetto</E
+M>l&#8217;armadio</E
+M>il rubinetto dell&#8217;acqua</E
+M>gli occhi</E
+M>la bocca</E
+M>la piaga</E
+M>la ferita</E
+M>le scuole</E
+M>una via</E
+M>un ponte</E
+M>i giardini pubblici</E
+M>il museo civico</E
+M>un ristorante</E
+M>un&#8217;agenzia</E
+M>bottega</E
+M>la Camera</E
+M>il Senato</E
+M>il tribunale</E
+M>gli uffici postali</E
+M>la banca</E
+M>il teatro</E
+M>le iscrizioni a un corso</E
+M>a una gara</E
+M>il dibattito</E
+M>il presidente interruppe la seduta e la riaprì due ore dopo</E
+M>riaperta la discussione</E
+M>chiese la parola uno degli intervenuti</E
+M>un&#8217;inchiesta</E
+M>un&#8217;istruzione penale</E
+M>l&#8217;uscio si riaprì silenziosamente</E
+M>domani si riaprono le scuole</E
+M>le iscrizioni si riapriranno il 20 giugno</E
+M>avere</E
+M>il cinema è chiuso per restauro e riaprirà all&#8217;inizio del mese prossimo</E

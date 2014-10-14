@@ -1,0 +1,20 @@
+semina.txt
+"Chi semina vento raccoglie tempesta"
+"chi semina zizzania"
+"pianta da semina"
+"piante da semina"
+"semina"
+"operazione di seminare"
+"semina"
+"stagione in cui si semina"
+M>seminagione</E
+M>la s. del grano</E
+M>dell&#8217;orzo</E
+M>dell&#8217;avena</E
+M>i contadini sono nei campi per la s.</E
+M>s. a spaglio</E
+M>alla volata</E
+M>s. a dimora</E
+M>s. in semenzaio</E
+M>s. meccanica</E
+M>per la s. il tempo è spesso piovoso</E

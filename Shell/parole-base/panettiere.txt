@@ -1,0 +1,3 @@
+panettiere.txt
+"panettiere"
+M>fornaio</E

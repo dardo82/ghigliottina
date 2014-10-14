@@ -1,0 +1,7 @@
+bracciante.txt
+"bracciante"
+"bracciante agricolo"
+"bracciante agricolo"
+"bracciante agricolo"
+"bracciante agricolo"
+M>agricolo</E

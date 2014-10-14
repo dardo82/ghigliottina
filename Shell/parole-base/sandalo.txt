@@ -1,0 +1,9 @@
+sandalo.txt
+"legno di sandalo"
+"olio di legno di sandalo, olio di sandalo"
+"sandalo"
+"sandalo"
+"legno di sandalo"
+"sandalo"
+"sandalo"
+*italiano

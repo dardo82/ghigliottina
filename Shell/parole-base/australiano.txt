@@ -1,0 +1,10 @@
+australiano.txt
+"australiano"
+"australiano"
+"terrier australiano"
+#*''il continente australiano si trova a sud dell'equatore''
+M>popolazioni</E
+M>lingue a</E
+M>flora</E
+M>fauna a</E
+M>regno floristico a</E

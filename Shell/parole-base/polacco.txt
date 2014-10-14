@@ -1,0 +1,19 @@
+polacco.txt
+"polacco"
+"polacco"
+"cittadino, nativo polacco"
+"polacco"
+M>polak</E
+M>pole</E
+M>chi</E
+M>la storia</E
+M>la letteratura p</E
+M>le danze p</E
+M>i profughi p</E
+M>gli Ebrei p</E
+M>legioni p</E
+M>corridoio p</E
+M>la lingua p</E
+M>il polacco</E
+M>il papa p.</E
+M>coniglio p</E

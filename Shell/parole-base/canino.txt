@@ -1,0 +1,24 @@
+canino.txt
+"canino"
+"canino"
+"cimurro canino"
+"dente canino"
+#* ''mostra '''canina'''''
+*[[dente]]
+M>caninus</E
+M>urla c</E
+M>un latrare canino</E
+M>tosse c</E
+M>cavallina</E
+M>asinina</E
+M>fame c</E
+M>Denti c</E
+M>bozza canina</E
+M>ho un c</E
+M>che mi fa male</E
+M>Muscolo c</E
+M>Rosa c</E
+M>rosa di macchia</E
+M>Cerbero</E
+M>fiera crudele e diversa</E
+M>Con tre gole caninamente latra</E

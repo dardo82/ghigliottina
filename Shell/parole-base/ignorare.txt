@@ -1,0 +1,29 @@
+ignorare.txt
+"evitare, ignorare"
+"ignorare"
+"ignorare"
+"ignorare, trascurare, tralasciare"
+#* ''Pur avendo visto Carlo, lo ignorò completamente''
+*''(persone, esigenze ecc.)'' [[trascurare]], [[misconoscere]]
+*''(spec. problemi)'' [[tralasciare]], [[evitare]], [[eludere]], [[minimizzare]]
+* [[sapere]], [[conoscere]] 
+*[[ignorante]], [[ignoranza]], [[ignorato]]
+*[[non]] [[sapere]],  [[non]] [[prestare]] [[attenzione]]
+*italiano
+M>ignorare</E
+M>ignarus</E
+M>ignotus</E
+M>io ignòro</E
+M>le cause di un fatto</E
+M>ignoravo che tu fossi</E
+M>che tu eri</E
+M>indisposto</E
+M>ignoravamo di essere controllati</E
+M>è meglio i</E
+M>certe cose</E
+M>non puoi i</E
+M>la gravità della tua situazione</E
+M>sono fatti che nessuno dovrebbe ignorare</E
+M>venne anche lui alla festa ma tutti lo ignorarono</E
+M>ignorò la mia domanda</E
+M>ignoro peso</E

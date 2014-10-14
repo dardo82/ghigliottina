@@ -1,0 +1,7 @@
+dama.txt
+"dama"
+"dama"
+"dama di carità"
+"pedina della dama"
+*italiano
+*portoghese

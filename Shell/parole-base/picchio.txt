@@ -1,0 +1,10 @@
+picchio.txt
+"picchio"
+"picchio pileato"
+"picchio testarossa"
+"picchio velloso"
+"picchio vellutato"
+"picchio ventregiallo"
+"picchio verde"
+*[[picchio cenerino]],[[picchio muraiolo]],[[picchio muratore]], [[picchio rosso]], [[picchio tridattilo]], [[picchio verde]]
+*[[picchiare]]

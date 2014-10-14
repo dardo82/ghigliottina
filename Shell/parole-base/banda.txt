@@ -1,0 +1,52 @@
+banda.txt
+"a banda larga"
+"a doppia banda"
+"banda"
+"banda"
+"banda"
+"banda"
+"banda"
+"banda"
+"banda"
+"banda"
+"banda"
+"banda (di frequenza)"
+"banda cittadina"
+"banda di assorbimento"
+"banda di frequenza"
+"banda di ottoni"
+"banda di picchiatori; teppisti"
+"banda di protezione"
+"banda di strumenti a fiato"
+"banda di trasmissione"
+"banda elastica"
+"banda jazz"
+"banda larga"
+"banda magnetica"
+"banda militare"
+"banda radiofonica non in uso"
+"banda stagnata"
+"banda vocale"
+"connessione a banda larga"
+"filtro passa banda"
+"larghezza di banda"
+"passa banda"
+"ufficiale al comando di una banda militare"
+"una banda di criminali"
+#*''La banda della Magliana''
+#*''La banda dei quattro''
+#*''La banda FM in Italia va dagli 87,5 ai 108 MHz.''
+*[[parte]], [[lato]]
+*(di una rete da pesca) [[bordo]]
+*(di porta) [[battente]]
+*(di sonatori) [[orchestra]], [[fanfara]], [[complesso]], [[band]], 
+*(di stoffa)[[insegna]],[[drappo]], [[bandiera]],[[vessillo]],[[striscia]], [[lista]], [[guarnizione]],[[pezzo]] [[stendardo]], [[gonfalone]] 
+*(di ladri, di rapinatori) organizzazione criminale, [[gang]], [[accozzaglia]], [[masnada]], [[cricca]]
+*(di lamiera) [[latta]]
+*[[banda larga]], [[bandato]]
+*''banda magnetica''
+*italiano
+*catalano
+*lingala
+*spagnolo
+*portoghese

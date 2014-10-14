@@ -1,0 +1,168 @@
+sicurezza.txt
+"a sicurezza intrinseca"
+"accordo di sicurezza"
+"addetto alla sicurezza"
+"agente di sicurezza"
+"allacciarsi le cinture di sicurezza"
+"attrezzatura di sicurezza"
+"autorizzazione di sicurezza"
+"camera di sicurezza"
+"cassetta di sicurezza"
+"catena di sicurezza"
+"cella di sicurezza"
+"cintura di sicurezza"
+"cintura di sicurezza"
+"cintura di sicurezza"
+"coefficiente di sicurezza"
+"cominciare con successo; con sicurezza"
+"con poca sicurezza"
+"con sicurezza"
+"con sicurezza"
+"consiglio di sicurezza"
+"Consiglio di sicurezza"
+"Consiglio di sicurezza delle Nazioni Unite"
+"corda di sicurezza"
+"dado di sicurezza"
+"dare sicurezza"
+"deposito di sicurezza"
+"fattore di sicurezza"
+"garantire la sicurezza delle nostre città"
+"infondere sicurezza"
+"intervalli di sicurezza"
+"investire questioni di sicurezza"
+"lucchetto di sicurezza"
+"mettere in sicurezza"
+"misura di sicurezza"
+"misure di sicurezza straordinarie"
+"norme per la sicurezza degli impianti"
+"parametri di sicurezza"
+"per sicurezza."
+"pericolo per la sicurezza dello Stato"
+"prigione di massima sicurezza"
+"procedure di sicurezza"
+"relativo alla sicurezza della pace"
+"responsabile della sicurezza"
+"rete di sicurezza"
+"rondella di sicurezza"
+"scala di sicurezza"
+"scarpe di sicurezza"
+"servizi di sicurezza"
+"sicurezza"
+"sicurezza"
+"sicurezza"
+"sicurezza collettiva"
+"sicurezza di sé"
+"sicurezza intrinseca"
+"sicurezza materiale"
+"sicurezza materiale"
+"sicurezza preventiva"
+"sicurezza stradale"
+"sicurezza sul lavoro"
+"sistema di sicurezza"
+"termostato di sicurezza"
+"test sulla sicurezza del gas"
+"uscita di sicurezza"
+"uscita di sicurezza"
+"valvola di sicurezza"
+"valvola di sicurezza"
+"vetro temprato di sicurezza"
+"violazione alla sicurezza"
+"zona di sicurezza"
+*[[certezza]], [[fiducia]], [[convincimento]], [[persuasione]], [[tranquillità]], [[convinzione]]
+*[[bravura]], [[abilità]], [[capacità]], [[esperienza]], [[pratica]], [[competenza]], [[padronanza]], [[maestria]], [[perizia]] 
+*[[attendibilità]], [[garanzia]], [[assicurazione]], [[affidabilità]]
+*[[difesa]], [[protezione]], [[riparo]], [[tutela]], [[salvaguardia]], [[incolumità]], [[prudenza]], [[cautela]], [[precauzione]]
+*''(di modi, di giudizi)'' [[decisione]], [[risolutezza]]
+* ''(in un lavoro, in un'attività)''    [[destrezza]],   
+*[[insicurezza]], [[incertezza]], [[indecisione]], [[dubbio]]
+*[[incapacità]], [[inesperienza]], [[incompetenza]]
+*[[pericolo]], [[minaccia]], [[rischio]], [[imprudenza]]
+*[[pericolosità]], [[rischiosità]]
+*''(di modi, di giudizi)''  [[irresolutezza]], [[titubanza]], [[timore]]   
+* ''(in un lavoro, in un'attività)''  [[imperizia]], [[inabilità]]
+*[[sicuro]], [[sicurtà]], [[P.S.]] 
+*[[attendibilità]],  [[fiducia]], [[disinvoltura]]
+*''misure di sicurezza''
+M>garantire la s. dei viaggiatori</E
+M>i pirati insidiavano la s. del mare</E
+M>promuovere una campagna pubblicitaria per la s. sulle strade</E
+M>il ponte</E
+M> così costruito</E
+M> non dà garanzia di sicurezza</E
+M>per maggiore s. ho portato con me i medicinali che potrebbero occorrermi</E
+M> installare programmi antivirus per la s. informatica</E
+M>s. pubblica</E
+M>Pubblica s.</E
+M>Polizia di stato</E
+M>legge di Pubblica s.</E
+M>s. collettiva</E
+M>internazionale</E
+M>s. sociale</E
+M>social security</E
+M>servizî di sicurezza</E
+M>servizî di informazione e di sicurezza</E
+M>servizî segreti</E
+M>Comitato di s. generale</E
+M>Consiglio di sicurezza</E
+M>s. attiva</E
+M>s. passiva</E
+M>di sicurezza</E
+M>camera di s.</E
+M>certificato di s.</E
+M>distanza di s.</E
+M>limite di s.</E
+M>margine di s.</E
+M>misure di s.</E
+M>rotta di s.</E
+M>servizio di s.</E
+M>margine di s.</E
+M>sicurezza</E
+M>coefficiente di s.</E
+M>carico di s.</E
+M>grado di s.</E
+M>carta di s.</E
+M>cassetta di s.</E
+M>chiusura di s.</E
+M>cintura di s.</E
+M>fiammiferi di s.</E
+M>amorfi</E
+M>svedesi</E
+M>fondo di s.</E
+M>interruttore di s.</E
+M>relè di s.</E
+M>di s.</E
+M>spine</E
+M>prese di s.</E
+M>impianto di illuminazione di s.</E
+M>lampade di s.</E
+M>rasoio di s.</E
+M>serratura di s.</E
+M>serratura di s. a leve</E
+M>serratura di s. yale</E
+M>serratura di s. elettrica</E
+M>spillo di s.</E
+M>da balia</E
+M>porta di s.</E
+M>uscita di s.</E
+M>valvola di s.</E
+M>vetro di s.</E
+M>zona di s.</E
+M>congegno di s.</E
+M>esplosivi di s.</E
+M>distanza di s.</E
+M>dispositivo di s.</E
+M>manovra di s.</E
+M>sicurezza</E
+M>fare s.</E
+M>vedo che guidi ormai con s.</E
+M>ha acquistato notevole s. nel lancio del giavellotto</E
+M>disegno eseguito con s. di tratto</E
+M>legge e traduce il greco con molta s.</E
+M>ha risposto con grande s. a tutte le domande</E
+M>l&#8217;indagine va condotta con s. di metodo</E
+M>come fai ad avere tanta s.?</E
+M>la sua eccessiva s. mi innervosisce</E
+M>la s. delle informazioni</E
+M>delle notizie</E
+M>delle prove</E
+M>mi sono rivolto a te nella s. che mi avresti aiutato</E

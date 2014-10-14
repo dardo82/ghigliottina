@@ -1,0 +1,17 @@
+bersagliere.txt
+"Traduzione di bersagliere/ non trovata.\nNo translation was found for bersagliere/."
+*[[bersaglierismo]]
+M>bersaglio</E
+M>una compagnia di bersaglieri</E
+M>la fanfara</E
+M>l’inno dei b</E
+M>camminare</E
+M>avanzare</E
+M>procedere a passo di b.</E
+M>alla bersagliera</E
+M>affrontare un’impresa alla bersagliera</E
+M>giocare</E
+M>alla bersagliera</E
+M>cappello alla bersagliera</E
+M>corsa alla bersagliera</E
+M>caccia alla bersagliera</E

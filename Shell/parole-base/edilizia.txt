@@ -1,0 +1,35 @@
+edilizia.txt
+"complesso urbano di edilizia residenziale"
+"copertura (edilizia)"
+"costruzione edilizia"
+"edile, relativo all'edilizia"
+"edilizia"
+"edilizia popolare"
+"ingegneria edilizia"
+"legge edilizia"
+"licenza edilizia"
+"locazione edilizia"
+"mettere la copertura (edilizia)"
+"ristrutturazione edilizia"
+"speculazione edilizia"
+*tecnica della costruzione; [[costruzioni]], [[fabbricati]], [[abitazioni]]
+*[[edile]], [[edilizio]]
+M>edilizio</E
+M>urbanistica</E
+M>lo sviluppo</E
+M>la crisi dell’e</E
+M>residenziale</E
+M>civile</E
+M>rurale</E
+M>urbana</E
+M>industriale</E
+M>alberghiera</E
+M>pubblica</E
+M>ospedaliera</E
+M>scolastica</E
+M>universitaria</E
+M>sportiva</E
+M>per il culto</E
+M>economica</E
+M>popolare</E
+M>sovvenzionata</E

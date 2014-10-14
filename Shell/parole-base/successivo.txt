@@ -1,0 +1,26 @@
+successivo.txt
+"giorno seguente, successivo"
+"nel periodo successivo, nel periodo seguente"
+"periodo successivo"
+"successivo"
+"successivo a"
+*[[dopo]]
+*[[precedente]], [[antecedente]], [[anteriore]], [[prima]]
+*[[succedere]], [[successione]], [[successivamente]], [[successo]], [[successore]]
+*[[prossimo]], [[seguente]], [[consecutivo]]
+M>successivus</E
+M>succed</E
+M>successum</E
+M>nei giorni immediatamente s. al primo del mese</E
+M>il giorno s.</E
+M>i mesi s.</E
+M>l&#8217;anno s.</E
+M>se perdiamo questo volo</E
+M> potremo prendere quello s.</E
+M>l&#8217;effetto è s. alla causa</E
+M>è obbligatorio annullare il biglietto prima della fermata s. alla salita sull&#8217;autobus</E
+M>successore.</E
+M>ora decidiamo le questioni più urgenti</E
+M> successivamente penseremo alle altre</E
+M>le difficoltà vanno affrontate successivamente</E
+M> per ordine d&#8217;importanza</E

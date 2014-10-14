@@ -1,0 +1,74 @@
+legame.txt
+"connessione, legame, vincolo"
+"doppio legame"
+"energia di legame"
+"forte legame"
+"legame"
+"legame"
+"legame"
+"legame"
+"legame affettivo"
+"legame chimico"
+"legame covalente"
+"legame di fedeltà"
+"legame famigliare"
+"legame idrogeno"
+"legame peptide"
+"legame storico"
+"legame tra ex alunni"
+"legame, relazione, vincolo"
+"non avere nessun legame con"
+"senza vincolo, senza legame"
+"storico legame"
+"triplo legame"
+*[[legaccio]] [[corda]], [[catena]]
+*(tra più elementi) [[nodo]], [[rapporto]], [[nesso]], [[collegamento]], [[concatenamento]], [[connessione]], [[congiunzione]], [[giunta]]
+*[[libertà]], [[indipendenza]], [[autonomia]]
+*[[legame chimico]], [[legame covalente]], [[legame dativo]], [[legame idrogeno]], [[legame ionico]]
+M>ligamen</E
+M>ligare</E
+M>sciogliersi</E
+M>liberare dai legami</E
+M>vincolo</E
+M>il l</E
+M>dell’amicizia</E
+M>i l</E
+M>di parentela</E
+M>di sangue</E
+M>del sangue</E
+M>stretto</E
+M>intimo</E
+M> bastava un fischio e il cane era di nuovo vicino a lui</E
+M> un’altra misura del l.</E
+M> un suono piuttosto che un laccio intorno al collo</E
+M>contrarre</E
+M>sciogliersi da un l</E
+M>avere un l</E
+M>sentimentale</E
+M>un l</E
+M>amoroso</E
+M>avere un l</E
+M>con un uomo</E
+M>con una donna</E
+M>troncare un lungo legame</E
+M>avere troppi legami</E
+M>tra due</E
+M>più fatti</E
+M>il l</E
+M>delle idee</E
+M>delle parole</E
+M>una serie di episodî staccati</E
+M>che non hanno alcun l</E
+M>tra loro</E
+M>chimico</E
+M>eteropolare</E
+M>ionico</E
+M>elettrostatico</E
+M>omopolare</E
+M>covalente</E
+M>idrogeno</E
+M>di coordinazione</E
+M>polare</E
+M>dativo</E
+M>energia di l</E
+M>teoria del doppio l</E

@@ -1,0 +1,140 @@
+notizia.txt
+"cattiva notizia"
+"comunicare una notizia"
+"cronaca della notizia"
+"la grande notizia"
+"notizia"
+"notizia"
+"notizia breve"
+"notizia da copertina"
+"notizia di cronaca"
+"notizia di reato"
+"notizia flash"
+"una notizia"
+*(di persona o avvenimento recente) [[comunicato]], [[annuncio]], [[novità]], [[nuova]], ultima, voce, [[comunicazione]]
+*(del passato) [[indicazione]], [[segnalazione]], [[relazione]], [[cenno]], [[ragguaglio]], [[nozione]]
+*[[concetto]], [[idea]], [[ragguaglio]], [[aggiornamento]],  
+M>notitia</E
+M>notus</E
+M>avere</E
+M>non avere notizia di qualche cosa</E
+M>per tua</E
+M>per vostra n</E
+M>a mia</E
+M>a sua</E
+M>a nostra n</E
+M>venire</E
+M>pervenire in</E
+M>alla n</E
+M>di qualcuno</E
+M>essere in notizia</E
+M>venire in</E
+M>a notizia</E
+M>notizia di reato</E
+M>notitia criminis</E
+M>mai mentre in Alessandria dimorò</E
+M>con alcuno notizia prese</E
+M>da Dario in fuori</E
+M>un’antica civiltà</E
+M>di cui si hanno abbondanti n</E
+M>di cui si hanno scarse n</E
+M>di cui non resta che qualche vaga n</E
+M>qualche n</E
+M>frammentaria</E
+M>di cui s’è persa ogni n</E
+M>raccogliere</E
+M>pubblicare notizie su una scoperta geografica</E
+M>sulle vicende di una dinastia</E
+M>desunte dagli antichi monumenti</E
+M>dalle tradizioni popolari</E
+M>pubblicare una n</E
+M>impartire</E
+M>possedere</E
+M>alcune n</E
+M>elementari di grammatica</E
+M>di chimica</E
+M>di disegno</E
+M>di enologia</E
+M>nozione</E
+M>là onde vegna lo ’ntelletto De le prime n</E
+M>omo non sape</E
+M>al nostro cortegian conviensi</E
+M>della pittura aver notizia</E
+M>sprovveduto delle necessarie n</E
+M>di lingua</E
+M>istoria</E
+M>eccetera</E
+M>dare</E
+M>mandare proprie n</E
+M>dare notizie di sé</E
+M>degli amici</E
+M>del proprio lavoro</E
+M>ricevere notizie dai genitori</E
+M>dai figli lontani</E
+M>fammi avere presto tue n</E
+M>non ci lasciate senza vostre n</E
+M>è molto tempo che non ho più sue n</E
+M>che non dà più sue n</E
+M>n. di sé</E
+M>da quando è partito non si sono avute più sue n</E
+M>non si è avuta più notizia di lui</E
+M>dare</E
+M>comunicare</E
+M>ricevere una n</E
+M>è confermata la n</E
+M>del nostro prossimo trasferimento di sede</E
+M>una bella</E
+M>una brutta n</E
+M>una n</E
+M>lieta</E
+M>triste</E
+M>ricevere una n</E
+M>inattesa</E
+M>un telegramma gli portò la dolorosa n</E
+M>bella n</E
+M>mi dai!</E
+M>pubblicare</E
+M>trasmettere una n</E
+M>ultime n</E
+M>notizie dall’interno</E
+M>dall’estero</E
+M>una n</E
+M> di agenzia</E
+M>recenti</E
+M>ormai vecchie</E
+M>vere</E
+M>false</E
+M>buone n</E
+M>tristi</E
+M>funeste</E
+M>ufficiali</E
+M>ufficiose</E
+M>una n</E
+M>sensazionale</E
+M>leggere le n</E
+M>di prima pagina</E
+M>le n</E
+M>di cronaca</E
+M>ascoltare le n</E
+M>del mattino</E
+M>divulgare</E
+M>lasciar trapelare una n</E
+M>segreta</E
+M>pubblicazione</E
+M>diffusione di n</E
+M>false</E
+M>esagerate</E
+M>tendenziose</E
+M>correva la n</E
+M>che</E
+M>dare notizia di qualche cosa</E
+M>fare notizia</E
+M>Notizie ai soci</E
+M>Notizie sull’attività del Centro</E
+M>Notizie sul congresso</E
+M>Notizie sugli scavi</E
+M>Notizie statistiche sulle importazioni ed esportazioni</E
+M>nota</E
+M>storica</E
+M>filologica</E
+M>critica</E

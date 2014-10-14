@@ -1,0 +1,205 @@
+pianta.txt
+"bloomeria crocea (pianta erbacea perenne)"
+"bloomeria crocea (pianta erbacea perenne)"
+"cineraria marittima (pianta)"
+"della pianta del tabacco"
+"essere assunto in pianta stabile"
+"in pianta"
+"inventarsi una cosa di sana pianta"
+"parte di pianta"
+"personale in pianta stabile"
+"pianta"
+"pianta"
+"pianta"
+"pianta"
+"pianta acquatica"
+"pianta acquatica"
+"pianta adatta alla vita nel deserto"
+"pianta alimentare"
+"pianta che fiorisce tardi"
+"pianta cimata"
+"pianta cobra"
+"pianta d'alloro"
+"pianta d'appartamento"
+"pianta da giardino"
+"pianta da semina"
+"pianta da travasare"
+"pianta da vaso"
+"pianta del patchouli"
+"pianta del pepe"
+"pianta del piede"
+"pianta del tè"
+"pianta delle Ericacee"
+"pianta di cacao"
+"pianta di caffè"
+"pianta di cotone"
+"pianta di fagiolo"
+"pianta di prugne"
+"pianta fertilizzante"
+"pianta grassa"
+"pianta in fiore; pianta fiorita"
+"pianta in vaso"
+"pianta orchidacea"
+"pianta ospite"
+"pianta perenne"
+"pianta potata"
+"pianta rampicante"
+"pianta rampicante"
+"pianta rampicante"
+"pianta stabile"
+"pianta topografica"
+"pianta vascolare"
+"pianta velenosa"
+"progetto; pianta della casa"
+"proiezione in pianta"
+"seme di pianta"
+"tipo di pianta"
+"verbena (pianta medicinale)"
+*''(di un territorio)'' carta topografica,[[ mappa]], [[proiezione]] geografica 
+*italiano
+*piemontese
+M>planta</E
+M>planus</E
+M>plantare</E
+M>piantare</E
+M>albero</E
+M>eucarioti</E
+M>procarioti</E
+M>p. annue</E
+M>perenni</E
+M>sempreverdi</E
+M>inferiori</E
+M>superiori</E
+M>cormofite</E
+M>tallofite</E
+M>vascolari</E
+M>tracheofite</E
+M>erbacee</E
+M>arbustive</E
+M>arbustacee</E
+M>legnose</E
+M>d&#8217;alto</E
+M>di basso fusto</E
+M>grasse</E
+M>brevidiurne</E
+M>longidiurne</E
+M>carnivore</E
+M>parassite</E
+M>acidofile</E
+M>basifile</E
+M>eliofile</E
+M>sciafile</E
+M>acquatiche</E
+M>lacustri</E
+M>esotiche</E
+M>tropicali</E
+M>avventizie</E
+M>cosmopolite</E
+M>endemiche</E
+M>orticole</E
+M>foraggere</E
+M>officinali</E
+M>medicinali</E
+M>ornamentali</E
+M>una p</E
+M>di fico</E
+M>di limoni</E
+M>una p</E
+M>di rose</E
+M>di azalea</E
+M>le p</E
+M>del bosco</E
+M>piante da giardino</E
+M>da terrazza</E
+M>da appartamento</E
+M>piante in terra</E
+M>in vaso</E
+M>Tu fior de la mia pianta Percossa e inaridita</E
+M>le nostre figliuole</E
+M>si staccano dalla p</E
+M>se alcuna p</E
+M>era rimasta degli antichi padri della repubblica</E
+M>O pianta di buon seme Al suolo</E
+M>al cielo amica</E
+M>giovane p</E
+M>tenera p.</E
+M>pianticella</E
+M>la p</E
+M>dell&#8217;avarizia non dà frutti</E
+M>mala p</E
+M>la mala p</E
+M>delle fazioni politiche</E
+M>degli odî e delle lotte civili</E
+M>della tirannide</E
+M>estirpare</E
+M>sradicare la mala p</E
+M>della corruzione</E
+M>Io fui radice de la mala pianta Che la terra cristiana tutta aduggia</E
+M>Sì che buon frutto rado se ne schianta</E
+M>mi fanno male le p</E
+M>le p</E
+M>dei piedi</E
+M>era tutto fradicio dalla testa alla p</E
+M>dei piedi</E
+M>dalla testa ai piedi</E
+M>scarpe a p</E
+M>larga</E
+M>stretta</E
+M>appuntita</E
+M>Su per que&#8217; poggi seguendo le piante Delle fiere selvagge</E
+M>vedeva un miserello amante Di dolor carco</E
+M>Seguir della nemica sua le p</E
+M>dell&#8217;appartamento n</E
+M>scala A</E
+M>longitudinale</E
+M>centrale</E
+M>a pettine</E
+M>panottica</E
+M>stellare</E
+M>palazzo a p</E
+M>quadrata</E
+M>castello</E
+M>torre a p</E
+M>poligonale</E
+M>chiesa con pianta a croce latina</E
+M>a croce greca</E
+M>quel falso pezzente che s&#8217;era inoltrato a quel modo nella povera casetta</E
+M>non era altro che il Griso</E
+M>il quale veniva per levarne a occhio la p</E
+M>fare la p</E
+M>della classe</E
+M>rilevare</E
+M>tracciare la p</E
+M>di un luogo</E
+M>consultare</E
+M>orientarsi con</E
+M>la p</E
+M>della città</E
+M>a scacchiera</E
+M>radiocentrica</E
+M>monumentale</E
+M>non ricordo bene la p</E
+M>della zona</E
+M>in pianta</E
+M>in pianta organica</E
+M>in pianta stabile</E
+M>assumere</E
+M>essere assunto</E
+M>entrare</E
+M>essere in p</E
+M>stabile</E
+M>Di pianta</E
+M>io non mi so dare ad intendere che tutta una specie di animali si possa perdere di p</E
+M>a fare di p</E
+M>si spende meno e meglio</E
+M>a rappezzare si spende di più e peggio</E
+M>fermò il cavallo di p</E
+M>e chiese con malgarbo ove abitasse il reverendo cappellano di Fratta</E
+M>di sana pianta</E
+M>si dovette abbattere il muro di sana p</E
+M>il lavoro è mal riuscito e dovrò rifarlo di sana p</E
+M>un compito d&#8217;italiano copiato di sana p</E
+M>da un libro di temi svolti</E
+M>è una cosa inventata di sana pianta</E
+M>una piantina di basilico</E
+M>nella guida della regione sono incluse diverse piantine dei luoghi da visitare</E

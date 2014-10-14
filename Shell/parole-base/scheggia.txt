@@ -1,0 +1,24 @@
+scheggia.txt
+"scheggia"
+"scheggia"
+"scheggia impazzita"
+*[[pezzo]], [[pezzetto]], [[pezzettino]], [[frammento]], [[scaglia]], [[rantume]], [[particella]], [[briciola]]
+*[[intero]], [[tutto]]
+M>sch</E
+M>dia</E
+M>-ge</E
+M>una s. d&#8217;osso</E
+M>una s. d&#8217;onice</E
+M>si è tagliato con una s. di vetro</E
+M>durante l&#8217;ultima guerra è stato ferito da una s. di granata</E
+M>mi è entrata una s. in un dito e non riesco a levarla</E
+M>s. litica</E
+M>la tua nuova moto è una vera scheggia</E
+M>S. impazzita</E
+M>proseguendo la solinga via</E
+M> Tra le schegge e tra &#8217; rocchi de lo scoglio</E
+M> Lo piè sanza la man non si spedia</E
+M>il resto è schegge e macigni</E
+M> erte ripide</E
+M> senza strada e nude</E
+M> meno qualche cespuglio</E

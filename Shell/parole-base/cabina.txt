@@ -1,0 +1,48 @@
+cabina.txt
+"cabina"
+"cabina"
+"cabina"
+"cabina armadio"
+"cabina automatica per fotografie istantanee"
+"cabina di blocco"
+"cabina di funivia"
+"cabina di lancio"
+"cabina di manovra"
+"cabina di pilotaggio"
+"cabina di proiezione"
+"cabina di segnalazione"
+"cabina doccia"
+"cabina elettorale"
+"cabina elettorale"
+"cabina elettorale"
+"cabina elettrica"
+"cabina telefonica"
+"cabina telefonica"
+"cabina telefonica"
+#* ''scusate, non sto bene, mi ritiro in 
+#* ''
+#* ''
+* (negli aerei, nei treni, eccetera) [[vano]], [[abitacolo]], [[cameretta]]
+*( in piscina) [[spogliatoio]]
+* (di stabilimento balneare)  [[capanno]]
+*[[cabinista]], [[cabinato]], [[cabineria]], [[cabiniere]],  [[telecabina]]
+M>cabine</E
+M>cabin</E
+M>cabine</E
+M>camerino</E
+M>di guida</E
+M>di manovra</E
+M>di guardia</E
+M>stagna in pressione</E
+M>pressurizzata</E
+M>telefonica</E
+M>dell’ascensore</E
+M>elettorale</E
+M>di manovra</E
+M>di blocco</E
+M>di proiezione</E
+M>di regia</E
+M>elettrica</E
+M>di trasformazione</E
+M>di sezionamento</E
+M>di smistamento</E

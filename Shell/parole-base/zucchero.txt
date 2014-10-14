@@ -1,0 +1,110 @@
+zucchero.txt
+"bastoncino di zucchero"
+"bastoncino di zucchero candito"
+"bustina di zucchero"
+"canna da zucchero"
+"canna da zucchero"
+"gelatina alla frutta ricoperta di zucchero"
+"gelatina ricoperta di zucchero o cioccolato"
+"pan di zucchero"
+"pillola ricoperta di zucchero"
+"scaldare con zucchero e aromi"
+"spolverare di zucchero, cospargere di zucchero"
+"zolletta di zucchero"
+"zucchero"
+"zucchero a velo"
+"zucchero a velo"
+"zucchero d'acero"
+"zucchero di barbabietola"
+"zucchero di canna"
+"zucchero di canna"
+"zucchero di grano"
+"zucchero filato"
+"zucchero filato"
+"zucchero in grani"
+"zucchero raffinato"
+"zucchero raffinato"
+"zucchero semolato"
+#*''lo zucchero è composto esclusivamente da carboidrati''
+*[[zuccheroso]], [[zuccherare]], [[zuccheriere]]
+*Enciclopedia [http
+M>sukkar</E
+M>Saccharum officinarum</E
+M>Beta vulgaris</E
+M>vulgaris</E
+M>altissima</E
+M>da zucchero</E
+M>defecazione</E
+M>z. di fabbrica</E
+M>z. bianco</E
+M>zucchero</E
+M>z. bianco raffinato</E
+M>z. raffinato</E
+M>z. cristallino</E
+M>affinato</E
+M>z. raffinato</E
+M>semolato</E
+M>z. in polvere</E
+M>in grani</E
+M>a quadretti</E
+M>in pezzi</E
+M>in zolle</E
+M>in pani</E
+M>cappello a pan di z.</E
+M>z. a velo</E
+M>impalpabile</E
+M>z. vanigliato</E
+M>z. pilato</E
+M>z. filato</E
+M>z. bruciato</E
+M>colore di z.</E
+M>z. d’orzo</E
+M>z. liquido</E
+M>z. dei contadini</E
+M>un cucchiaio</E
+M>un cucchiaino di z.</E
+M>prendere il caffè</E
+M>il tè con molto</E
+M>poco z.</E
+M>senza zucchero</E
+M>Carta da zucchero</E
+M>color</E
+M>carta da z.</E
+M>camicetta</E
+M>pantaloni carta da zucchero</E
+M>avere lo z.</E
+M>gli z.</E
+M>nelle urine</E
+M>glicidi</E
+M>glucidi</E
+M>idrati di carbonio</E
+M>carboidrati</E
+M>monosî</E
+M>monosaccaridi</E
+M>zuccheri semplici</E
+M>oligosaccaridi</E
+M>polisaccaridi</E
+M>poliosî superiori</E
+M>Z. di frutta</E
+M>fruttosio</E
+M>z. di latte</E
+M>lattosio</E
+M>z. d’uva</E
+M>d’amido</E
+M>glicosio</E
+M>z. di legno</E
+M>xilosio</E
+M>z. di piombo</E
+M>z. di bismuto</E
+M>dolce come lo z.</E
+M>assaggia questa pesca</E
+M>questo vino</E
+M>è dolce come lo z.</E
+M>è uno z.</E
+M>un vero zucchero</E
+M>zuccherino</E
+M>queste difficoltà sono uno z. in confronto a quelle che ci aspettano</E
+M>la madre è severa ma il padre è un vero z.</E
+M>una pasta di z.</E
+M>il giorno dopo era diventato tutto z. e miele</E
+M>Le sue parole eran zucchero e mèle</E

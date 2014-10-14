@@ -1,0 +1,439 @@
+meno.txt
+"a meno che"
+"a meno che"
+"a meno che"
+"a meno di"
+"che tu ci creda o meno"
+"cifra meno significativa"
+"della classe meno abbiente"
+"fare a meno di"
+"fare a meno di"
+"fare a meno di qualcosa"
+"fare senza; fare a meno"
+"giorno più, giorno meno"
+"giovani e meno giovani"
+"il cedere; il venir meno"
+"il meno possibile"
+"in meno"
+"insabbiare una questione, farla apparire meno problematica"
+"men che meno"
+"meno"
+"meno"
+"meno"
+"meno"
+"meno"
+"meno"
+"meno"
+"meno abbiente"
+"meno abbiente"
+"meno avanzato"
+"meno del minimo (finanz.)"
+"meno del minimo (finanz.)"
+"meno della metà"
+"meno di"
+"meno di"
+"meno di"
+"meno di"
+"meno di tutti"
+"meno di un'ora"
+"meno lo vedo e meglio è"
+"meno male"
+"meno male che"
+"meno male!"
+"meno sviluppato"
+"meno un quarto"
+"meno un quarto"
+"né più né meno"
+"niente più e niente meno"
+"non essere da meno"
+"non meno"
+"non meno di"
+"non poter fare a meno di"
+"non poterne fregar di meno"
+"non potersene fregare di meno"
+"non se ne può fare a meno"
+"non venire mai meno"
+"o quanto meno"
+"parlare del più e del meno"
+"per lo meno"
+"più o meno"
+"più o meno dieci"
+"più o meno lo stesso"
+"più o meno una dozzina, all'incirca una dozzina"
+"poter fare a meno di"
+"quando meno te lo aspetti"
+"quasi, poco meno di"
+"rendere meno allarmante"
+"se... o no, se… o meno"
+"segno meno"
+"sempre meno"
+"tanto meno"
+"tanto meno"
+"venir meno a una promessa, rimangiarsi una promessa, non mantenere una promessa"
+"venire meno"
+"venire meno a"
+*in minor quantità, in misura minore, in minor grado
+*[[eccetto]], [[tranne]], [[fuorché]], [[salvo]]
+*[[minore]], [[inferiore]]
+*quantità minore, quantità inferiore, il minimo
+*[[più]], in maggiore quantità, in misura maggiore
+* quantità maggiore, quantità superiore.
+*[[a meno che]], [[meno male]], [[più o meno]]
+*''parlare del più e del meno''
+*italiano
+*bretone
+*finlandese
+*slovacco
+*swahili
+M>nus</E
+M>minor</E
+M>parvus</E
+M>poco</E
+M>più</E
+M>vorrei spendere m</E
+M>il medico mi ha ordinato di lavorare m</E
+M>a quest’ora le strade sono m</E
+M>affollate</E
+M>l’aria si è fatta m</E
+M>fredda</E
+M>da qualche tempo ci vediamo m</E
+M>spesso</E
+M>dovresti vestirti m</E
+M>vistosamente</E
+M>il mio disegno è m</E
+M>originale del tuo</E
+M>oggi fa m</E
+M>caldo di ieri</E
+M>stanotte ho dormito m</E
+M>bene del solito</E
+M>per fortuna ho aspettato m</E
+M>di quanto temevo</E
+M>il m</E
+M>intelligente</E
+M>il m</E
+M>male possibile</E
+M>men</E
+M>Caccianli i ciel per non esser men belli</E
+M>men che mai</E
+M>in meno di un’ora</E
+M>in men che non si dica</E
+M>poco</E
+M>molto</E
+M>assai</E
+M>tanto meno</E
+M>più</E
+M>si può essere più o m</E
+M>tranquilli</E
+M>decideremo secondo che l’affare sia più o m</E
+M>vantaggioso</E
+M>non m’importa che sia più o m</E
+M>grande</E
+M>chi più chi m</E
+M>tutti hanno contribuito alle spese</E
+M>fanno tutti così</E
+M>più o m</E
+M>rimane ancora un quintale di farina</E
+M>poco più poco m</E
+M>poco m</E
+M>se non è un litro</E
+M>è poco m</E
+M>se non è malafede la sua</E
+M>è poco m</E
+M>che non</E
+M>poco m</E
+M>che non ci scontravamo</E
+M>Tanto m</E
+M>molto m</E
+M>se non ne hai colpa tu</E
+M>tanto m</E
+M>non l’ho fatto per tanti anni</E
+M>tanto m</E
+M>lo farei ora</E
+M>se non hanno creduto a me</E
+M>molto m</E
+M>crederanno a lui</E
+M>ancora m</E
+M>ancora</E
+M>non l’ho voluto prima</E
+M>e ora lo vorrei ancora meno</E
+M>men che meno</E
+M>meno che mai</E
+M>ritirarmi non voglio</E
+M>e dichiararmi vinto men che meno</E
+M>non mi sono mai abbassato davanti a lui</E
+M>e ora m</E
+M>che mai</E
+M>quando m</E
+M>ci si pensa</E
+M>quando m</E
+M>te l’aspetti</E
+M>quando uno m</E
+M>lo vorrebbe</E
+M>meno</E
+M>sappimi dire se accetti o m</E
+M>secondo che ci siano o m</E
+M>complicazioni</E
+M>meno</E
+M>discutere sulla legalità o m</E
+M>di un provvedimento</E
+M>non</E
+M>men che</E
+M>è stato men che educato con me</E
+M>la tua venuta è men che utile</E
+M>la sua condotta è men che onesta</E
+M>avendo ella ad esse men saviamente più volte gli orecchi porti</E
+M>che niente</E
+M>meno di niente</E
+M>in rapporto al lavoro che svolge</E
+M>il suo compenso è m</E
+M>che niente</E
+M>ricòrdati che qui dentro tu conti m</E
+M>di niente!</E
+M>meno</E
+M>segno meno</E
+M>segno del meno</E
+M>tredici meno otto è uguale a cinque</E
+M>tredici meno otto uguale cinque</E
+M>sono due chili m</E
+M>un etto</E
+M>sono le nove m</E
+M>cinque</E
+M>minuti</E
+M>Differenza in m</E
+M>nella busta ci dovevano essere 300 euro e invece ho trovato una differenza in m</E
+M>0 euro</E
+M>una differenza di 20 euro in m</E
+M>ho trovato 20 euro in m</E
+M>questo mese ho riscosso 70 euro in m</E
+M>rispetto al mese scorso</E
+M>70 euro m</E
+M>del mese scorso</E
+M>ho pesato la carne e mi sono accorto che il macellaio mi ha dato 50 grammi in m</E
+M>di meno</E
+M>a causa del maltempo</E
+M>il Torino ha giocato una partita in meno</E
+M>più</E
+M>il pranzo era fissato per 25 persone</E
+M>ma uno più uno m</E
+M>non cambia</E
+M>il prezzo segnato è veramente di 82 euro</E
+M>ma non staremo a discutere per dieci centesimi più dieci centesimi m</E
+M>con tutto il vino che abbiamo bevuto</E
+M>bicchiere più bicchiere m</E
+M>non può farci né bene né male</E
+M>il termometro segna m</E
+M> quattro</E
+M>erano tutti presenti</E
+M>lui</E
+M>due o tre che sono in ritardo</E
+M>gli altri sono già arrivati tutti</E
+M>ho pensato io a tutto</E
+M> che a ritirare i bagagli</E
+M>sei m</E
+M>sei m</E
+M>sette m</E
+M>ho avuto sette m</E
+M>nella versione di greco</E
+M>vorrei una camicia di m</E
+M>prezzo</E
+M>io ci metterei m</E
+M>tempo</E
+M>è meglio farlo più tardi</E
+M>con m</E
+M>fretta</E
+M>iersera c’era m</E
+M>gente</E
+M>ha m</E
+M>scrupoli di noi</E
+M>cerca di fare m</E
+M>errori</E
+M>chiacchiere!</E
+M>storie!</E
+M>io penso che la spesa sarebbe m</E
+M>Sanz’esso fora la vergogna meno</E
+M>denaro</E
+M>io guadagno m</E
+M>di te</E
+M>questo mese ci hanno dato m</E
+M>di m</E
+M>prezzo</E
+M>vendere</E
+M>acquistare per m</E
+M>potrà valere 300 euro o anche m</E
+M>credo che si possa trovare anche per m</E
+M>tempo</E
+M>per finire il lavoro ci vorrà m</E
+M>di un mese</E
+M>sarà tutto pronto in m</E
+M>di una settimana</E
+M>ho aspettato m</E
+M>di quanto pensassi</E
+M>in m</E
+M>di un’ora</E
+M>in m</E
+M>di otto giorni</E
+M>in m</E
+M>d’un baleno</E
+M>in men che non si dica</E
+M>dovresti mangiare m</E
+M>io mi contenterei di m</E
+M>di molto m</E
+M>di così non gli possiamo dare</E
+M>quest’anno il podere ha reso m</E
+M>dell’anno scorso</E
+M>vorrei spendere il m</E
+M>possibile</E
+M>date le circostanze</E
+M>questo è il m</E
+M>che si possa fare</E
+M>con la sua distrazione</E
+M>questo è il m</E
+M>che gli poteva capitare</E
+M>il m</E
+M>male</E
+M>il m</E
+M>peggio</E
+M>questo è il m</E
+M>: aspetta di sentire il resto</E
+M>il più</E
+M>ciò che abbiamo fatto è ancora il m</E
+M>resta da fare il più</E
+M>ora che hai saputo il più</E
+M>puoi indovinare il m</E
+M>il più conosce il m</E
+M>mi ha dato del fannullone: il più conosce il m</E
+M>discorrere del più e del m</E
+M>dal più al m</E
+M>più o meno</E
+M>dal più al m</E
+M>potrà costare duecento euro</E
+M>Come dal suo maggiore è vinto il meno</E
+M>i meno</E
+M>gli oppositori per fortuna sono i m</E
+M>i più tirano i m</E
+M>Di meno</E
+M>meno</E
+M>aiutandosi l’un l’altro si fatica di m</E
+M>bisogna parlare di m</E
+M>e pensare di più</E
+M>mi hai dato una carta di m</E
+M>se avessi vent’anni di m</E
+M>uno di m</E
+M>se n’è voluto andare? benissimo</E
+M>uno di meno!</E
+M>in meno</E
+M>noi siamo in meno</E
+M>in meno</E
+M>Né più né m</E
+M>dovevi rispondere di no</E
+M>né più né m</E
+M>parla né più né m</E
+M>come se fosse lui il capo</E
+M>ti sei comportato né più né m</E
+M>come un mascalzone</E
+M>male</E
+M>sono tutti salvi? m</E
+M>male!</E
+M>«Alla fine hanno deciso di darci una gratifica» «M</E
+M>male!»</E
+M>avendola consigliata</E
+M>per il m</E
+M>male</E
+M>di non palesar nulla</E
+M>e di starsene quieta</E
+M>male che è andata così!</E
+M>male che ce ne siamo accorti in tempo!</E
+M>Quanto m</E
+M>almeno</E
+M>perlomeno</E
+M>potremmo andare al cinema o</E
+M>quanto m</E
+M>fare una passeggiata</E
+M>Senza m</E
+M>verrò senza m</E
+M>«Ci sarai anche tu?» «Senza meno»</E
+M>A m</E
+M>che</E
+M>a m</E
+M>non lo farò</E
+M>a m</E
+M>che non mi preghi</E
+M>a m</E
+M>d’essere pregato</E
+M>temo che tutto sia perduto</E
+M>a m</E
+M>che non s’intervenga immediatamente</E
+M>dev’essere così</E
+M>a m</E
+M>che non me lo sia sognato</E
+M>nessuno oserebbe tentarlo</E
+M>a m</E
+M>d’essere pazzo</E
+M>almeno</E
+M>nemmeno</E
+M>nientemeno</E
+M>nientedimeno</E
+M>nondimeno</E
+M>nulladimeno</E
+M>perlomeno</E
+M>Essere da m</E
+M>non sono certo da m</E
+M>di lui</E
+M>fa ogni sforzo per non essere da m</E
+M>dei suoi colleghi</E
+M>versò dieci euro anche lui per non essere da m</E
+M>degli altri</E
+M>è sempre stata una ragazza forte, Irene, questa volta non sarà da meno</E
+M>mostrarsi da m</E
+M>non è certo da m</E
+M>dei suoi degni compagni</E
+M>Fare a m</E
+M>di qualcuno</E
+M>di qualche cosa</E
+M>ho dovuto fare a m</E
+M>di tante cose nella vita</E
+M>per questa settimana bisognerà fare a m</E
+M>della macchina</E
+M>se ti fa male</E
+M>fa’ a m</E
+M>di fumare</E
+M>se non puoi bere il vino</E
+M> fanne a m.</E
+M>ne farei assai volentieri a meno</E
+M>non potei fare a m</E
+M>di dirglielo</E
+M>se non ci vuoi andare</E
+M>fa’ di m</E
+M>se il vino non ti piace</E
+M>fa’ di m</E
+M>di berlo</E
+M>quantunque gli piacesse molto d’andar per le bocche degli uomini</E
+M>n’avrebbe</E
+M>in quella congiuntura</E
+M>fatto volontieri di m</E
+M>potevi far di m</E
+M>di provocarlo</E
+M>Venire m</E
+M>gli vennero m</E
+M>le forze</E
+M>all’ultimo momento</E
+M>gli venne m</E
+M>il coraggio</E
+M>venire m</E
+M>ai patti</E
+M>all’attesa</E
+M>alle promesse</E
+M>alla parola data</E
+M>ci è venuto m</E
+M>il suo aiuto</E
+M>venir m</E
+M>a sé stesso</E
+M>venire m</E
+M>a quella notizia</E
+M>venne m</E
+M>venire m</E
+M>per fame</E
+M>per la stanchezza</E
+M>Mentre che l’uno spirto questo disse</E
+M>L’altro piangea; sì che di pietade I0 venni men così com’io morisse</E
+M>I0 sentia dentr’al cor già venir meno Gli spirti che da voi ricevon vita</E

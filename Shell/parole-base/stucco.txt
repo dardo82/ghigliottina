@@ -1,0 +1,5 @@
+stucco.txt
+"coltello da stucco"
+"stucco"
+"plaster, stucco"
+"stucco"

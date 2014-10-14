@@ -1,0 +1,212 @@
+trattare.txt
+"maltrattare; trattare male"
+"rinfacciare; trattare qcn. male per qcs. Fatta in passato"
+"trattare"
+"trattare"
+"trattare"
+"trattare"
+"trattare"
+"trattare, replace: trattarsi"
+"trattare coi guanti"
+"trattare con distacco"
+"trattare con i guanti"
+"trattare con indifferenza"
+"trattare con indulgenza"
+"trattare con qcn"
+"trattare di"
+"trattare di politica"
+"trattare duramente qualcuno"
+"trattare malamente"
+"trattare male"
+"trattare male qualcuno"
+"trattare qc come un cane"
+"trattare qcn come una pezza da piedi, trattare qcn a pesci in faccia"
+"idiomatica: maltrattare"
+"trattare qn come un cane"
+"trattare malissimo qn"
+"trattare separatamente"
+"trattare, comprendere, includere"
+* (un problema, un argomento) [[esporre]], [[illustrare]], [[approfondire]], [[sviluppare]], [[studiare]], [[analizzare]], [[esaminare]], [[svolgere]], [[scrivere]], [[sviscerare]]
+*(un prezzo, un accordo) [[contrattare]], [[negoziare]], [[patteggiare]], [[mercanteggiare]], [[concludere]], portare a termine
+*(di argomento) [[parlare]], [[discutere]], [[dissertare]], [[discorrere]], [[ragionare]], [[occuparsi]]
+*''(la pace,la resa e simili)'' [[pattuire]], [[concordare]]
+*''(qualcuno, con qualcuno)'' [[frequentare]], [[praticare]], [[immischiarsi]], [[mescolarsi]]
+*(una persona) [[considerare]], [[stimare]], [[giudicare]], [[ritenere]], [[reputare]]; [[comportarsi]], [[agire]], [[procedere]]
+*(una persona, un animale, eccetera) [[accogliere]], [[ospitare]], [[ricevere]], [[alloggiare]]
+*(un tessuto, un liquido) [[lavorare]], [[manipolare]], [[elaborare]], [[maneggiare]], [[truccare]], [[falsificare]], [[sofisticare]], [[adulterare]]
+*(di prodotto, settore) [[interessarsi]], [[occupare]], lavorare nel ramo
+*(un problema, un argomento)[[tralasciare]], [[dimenticare]], [[ignorare]], [[trascurare]]
+*(una persona, un animale, eccetera) [[cacciare]], [[allontanare]]
+* (di prodotto, settore) [[disinteressarsi]] 
+*[[trattabile]], [[trattamento]], [[trattarsi]], [[trattativa]], [[trattato]], [[trattazione]]
+* [[maneggiare]], [[contrattare]], [[commerciare]], [[occuparsi]],  [[lavorare]],  discutere, negoziare,  [[riguardare]]
+M>tractare</E
+M>tractus</E
+M>trah</E
+M>t. bene</E
+M>male</E
+M>da maestro</E
+M>da principiante</E
+M>la penna</E
+M>i pennelli</E
+M>lo scalpello</E
+M>il bisturi</E
+M>sapere</E
+M>non sapere t. le armi</E
+M>un&#8217;arma</E
+M>t. un articolo</E
+M>un prodotto</E
+M>un negoziante</E
+M>un rappresentante</E
+M>che tratta solo prodotti di marca</E
+M>che non tratta articoli scadenti</E
+M>t. un&#8217;attività</E
+M>t. mercatura</E
+M>t. il cambio</E
+M>L&#8217;uno e l&#8217;altro di lor che ne&#8217; divini Ufficii già trattò pio ministero</E
+M>Trattando l&#8217;aere con l&#8217;etterne penne</E
+M>trattando con man suo</E
+M>chiome bionde</E
+M>Mirasi Iole con la destra imbelle Per ischerno trattar l&#8217;arme omicide</E
+M>t. termicamente gli acciai</E
+M>t. il ferro a caldo</E
+M>il rame col bulino</E
+M>t. una soluzione con un reattivo</E
+M>t. le pelli</E
+M>il cuoio</E
+M>il tabacco</E
+M>t. il vino</E
+M>t. una ferita con antisettici</E
+M>t. una frattura con ingessatura</E
+M>con bendaggio</E
+M>t. i tumori chirurgicamente</E
+M>radiologicamente</E
+M>con farmaci</E
+M>t. la pelle con creme idratanti e nutrienti</E
+M>t. i capelli con principî vegetali</E
+M>t. una questione</E
+M>è un soggetto interessante da t.</E
+M>t. sommariamente</E
+M>ampiamente</E
+M>esaurientemente un tema</E
+M>avere</E
+M>Ma per trattar del ben ch&#8217;i&#8217; vi trovai</E
+M> Dirò de l&#8217;altre cose ch&#8217;i&#8217; v&#8217;ho scorte</E
+M>è un problema di cui ho già trattato</E
+M>l&#8217;opera tratta delle condizioni economiche dell&#8217;Europa dopo la prima guerra mondiale</E
+M>di che cosa tratta il romanzo</E
+M> la commedia</E
+M> il film?</E
+M>l&#8217;avvocato ha trattato la mia causa con molta abilità</E
+M>soleva essere il lor mestiere ... in trattar paci ... o trattar matrimonii</E
+M> parentadi e amistà</E
+M>perché e&#8217; potesse t. con più reputazione la pace con il Re</E
+M> lo feciono oratore per il popolo fiorentino</E
+M>t. la tregua</E
+M> la resa</E
+M>t. un affare</E
+M>t. la cessione di un&#8217;azienda</E
+M> la fusione di due società</E
+M>t. della pace</E
+M>della resa</E
+M>è bene che lei tratti direttamente col proprietario</E
+M>se queste sono le condizioni</E
+M> è inutile t.</E
+M>tratterò con lui personalmente</E
+M>è un uomo con cui non si può t.</E
+M>intrattabile</E
+M>la richiesta è di centomila euro</E
+M> ma possiamo t.</E
+M>si può trattare</E
+M>t. qualcuno con gentilezza</E
+M> cortesemente</E
+M> affabilmente</E
+M>con riguardo</E
+M> umanamente</E
+M>con familiarità</E
+M>lì sono trattato da tutti come un amico</E
+M> come uno di famiglia</E
+M>vuole essere trattato con i guanti</E
+M>altrimenti si offende</E
+M>lo trattano come un estraneo</E
+M>t. male</E
+M> con durezza</E
+M>l&#8217;hanno trattato come un cane</E
+M>tratta tutti dall&#8217;alto in basso</E
+M>bisogna trattarlo come si merita</E
+M> quel mascalzone!</E
+M>non è questo il modo di t. gli ospiti!</E
+M>perché devo esser trattato così?</E
+M>t. qualcuno da ladro</E
+M>da imbroglione</E
+M>di ladro</E
+M>d&#8217;imbroglione</E
+M>i cani</E
+M> se si tengono</E
+M> vanno trattati bene</E
+M>trattano quel gatto meglio di un figlio</E
+M>non posso vedere t. male le bestie</E
+M>sono piante delicate</E
+M> vanno trattate con cura</E
+M>se la tratti così</E
+M> quella macchina</E
+M> ti durerà poco</E
+M>è una pelliccia molto delicata</E
+M> va trattata con riguardo</E
+M>t. bene</E
+M>male i proprî clienti</E
+M>in quell&#8217;albergo</E
+M>in quel ristorante</E
+M>su quella nave</E
+M>si è trattati benissimo</E
+M>lo trattate troppo bene quel ragazzo</E
+M> finirete col viziarlo</E
+M>t. un ospite a pasticcini</E
+M>a vin santo</E
+M>trattarsi da signore</E
+M>da principe</E
+M>si tratta bene</E
+M> il signorino!</E
+M>in quel negozio mi hanno sempre trattato bene</E
+M>quel meccanico</E
+M>quel dentista</E
+M>mi ha trattato proprio male</E
+M> come prezzo e come lavoro</E
+M> e non ci torno più</E
+M>t. qualcuno</E
+M>t. con qualcuno</E
+M>io l&#8217;ho trattato personalmente</E
+M> e garantisco che è una persona onesta</E
+M>non trattare con persone che non conosci!</E
+M>non tratto certa gente</E
+M> io!</E
+M>trattarsi di ...</E
+M>si tratta di ...</E
+M>vi dirò subito di che cosa si tratta</E
+M>posso sapere anch&#8217;io di che si tratta?</E
+M>devi pensarci tu</E
+M> perché è del tuo avvenire che si tratta</E
+M>non si tratta soltanto di te</E
+M> ma di tutti noi</E
+M>si tratta di stabilire chi è che deve pagare</E
+M>non si tratta di ora ma di molti anni fa</E
+M>io penso che si è trattato soltanto di uno scherzo</E
+M>pare che si tratti di un delitto</E
+M>il danno è forte</E
+M> si tratta di oltre duemila euro</E
+M>è malato?</E
+M> si tratterà di cosa da poco</E
+M> spero</E
+M>si tratta della dignità</E
+M>della vita</E
+M>quando si tratta della pelle</E
+M> ...</E
+M> se non si tratta che di questo</E
+M> ci vado io</E
+M>una lozione trattante</E
+M>vedersi ben trattato</E
+M>materiali</E
+M>prodotti</E
+M>tessuti trattati</E
+M>lenti trattate</E
+M>obiettivi trattati</E

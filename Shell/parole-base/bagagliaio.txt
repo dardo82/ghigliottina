@@ -1,0 +1,9 @@
+bagagliaio.txt
+"bagagliaio"
+"portabagagli, bagagliaio"
+M>vano bagagli</E
+M>vano portabagagli</E
+M>il b</E
+M>di un’autovettura</E
+M>di un’autocorriera</E
+M>deposito bagagli</E

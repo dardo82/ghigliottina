@@ -1,0 +1,40 @@
+mietere.txt
+"mietere"
+"mietere"
+"mietere"
+"mietere"
+#*''il colera ha mietuto molte vite''
+#*''
+#*''
+*[[abbattere]], [[uccidere]]
+M>io mièto</E
+M>mietiamo</E
+M>mieteva</E
+M>mietuto</E
+M>il grano</E
+M>l’orzo</E
+M>a terra</E
+M>a collo</E
+M>è tempo di m</E
+M>non abbiamo ancora mietuto</E
+M>falciare</E
+M>mieta Lappole e stecchi co la falce adunca</E
+M>la morte miete gli umili e i grandi</E
+M>l’epidemia ha mietuto innumerevoli vittime</E
+M>quanti Colla spada ne miete il valoroso</E
+M>ricchezze</E
+M>gloria</E
+M>onori</E
+M>soddisfazioni</E
+M>Di mia semente cotal paglia mieto</E
+M>Lett</E
+M>ai Galati</E
+M>Prov</E
+M>c’è chi semina e chi miete</E
+M>Giovanni</E
+M>l’altrui campo</E
+M>Matteo</E
+M>Luca</E
+M>chi semina in lacrime mieterà in gioia</E
+M>Psalmi</E
+M>chi non semina non miete</E

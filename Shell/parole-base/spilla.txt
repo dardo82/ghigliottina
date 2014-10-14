@@ -1,0 +1,19 @@
+spilla.txt
+"spilla"
+"spilla"
+"spilla da balia"
+"spilla da mettere sul bavero della giacca"
+"spilla, punto metallico"
+M>spina</E
+M>spillo</E
+M>spilla di sicurezza</E
+M>da balia</E
+M>una s. di brillanti e smeraldi</E
+M>di argento e pietre dure</E
+M>di corallo</E
+M>di tartaruga</E
+M>di metallo smaltato</E
+M>spilla da cravatta</E
+M>spilla da cappello</E
+M>spillo</E
+M>spillone</E

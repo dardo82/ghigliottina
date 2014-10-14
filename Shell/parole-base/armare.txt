@@ -1,0 +1,37 @@
+armare.txt
+"armare"
+"armare"
+"armare"
+"armare"
+"armare, replace: armarsi"
+"permesso di armare navi per predare navi mercantili nemiche"
+M>armare</E
+M>arma</E
+M>orum</E
+M>le truppe</E
+M>di fucile</E
+M>di baionetta</E
+M>contro qualcuno</E
+M>una piazzaforte</E
+M>la mano degli assassini</E
+M>la gelosia gli armò la mano</E
+M>la Germania stava armando</E
+M>i nemici si armano</E
+M>armarsi d’una pistola</E
+M>armarsi di un bastone</E
+M>di un sasso</E
+M>di un forcone</E
+M>si armò di tutti i suoi attestati di benemerenza e si presentò al direttore</E
+M>giunse armato di tutto l’occorrente</E
+M>armarsi di rassegnazione</E
+M>di coraggio</E
+M>di buona volontà</E
+M>di pazienza</E
+M>Armiamoci e partite</E
+M>un cavaliere</E
+M>un’arma</E
+M>un bastimento</E
+M>a brigantino</E
+M>a goletta</E
+M>i remi</E
+M>una volta</E

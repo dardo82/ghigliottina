@@ -1,0 +1,85 @@
+sinistra.txt
+"a destra e a sinistra"
+"a sinistra"
+"a sinistra"
+"a sinistra"
+"a sinistra"
+"a sinistra del centro"
+"ala sinistra"
+"alla sinistra"
+"di sinistra"
+"di sinistra"
+"estrema sinistra"
+"giocatore di sinistra"
+"la Sinistra"
+"lato alla sinistra"
+"mano sinistra"
+"parte sinistra del cuore"
+"persona di sinistra"
+"più a sinistra"
+"politica di sinistra"
+"radicale estrema destra estrema sinistra"
+"riva sinistra"
+"sinistra"
+"mano sinistra, lato sinistro di qc"
+"sinistra"
+"parlamento: partiti che stanno a sinistra"
+"sinistra"
+"sinistra"
+"correnti, movimenti di sinistra"
+"sulla sinistra"
+*[[destra]]
+*[[sinistrese]], [[sinistro]], [[sinistrorso]]
+*italiano
+*portoghese
+M>sinistro</E
+M>destra</E
+M>sinistra</E
+M>scrive bene anche con la sinistra</E
+M>alla mia s.</E
+M>alla tua s.</E
+M>andare</E
+M>girare</E
+M>prendere a s.</E
+M>arrivato al ponte</E
+M> voltò</E
+M> senza esitare</E
+M> a s.</E
+M>trovarsi a s.</E
+M>alla s.</E
+M>dalla s.</E
+M>sulla s.</E
+M>guardare</E
+M>guardarsi a destra e s.</E
+M>la s. di una fila</E
+M>di uno schieramento militare</E
+M>fronte a sinistr</E
+M>attenti a sinistr</E
+M>tenere la s.</E
+M>discendere da s.</E
+M>dalla s.</E
+M>guida a s.</E
+M>dritta</E
+M>l&#8217;àncora di s.</E
+M>a sinistra!</E
+M>la s. di un fiume</E
+M>la s. dello scudo</E
+M>i rappresentanti</E
+M>i voti della s.</E
+M>una s. moderata</E
+M>l&#8217;estrema s.</E
+M>le forze di s.</E
+M>i giornali</E
+M>la stampa di s.</E
+M>intellettuali di s.</E
+M>essere di s.</E
+M>l&#8217;unione delle s.</E
+M>le s. hanno votato contro il rinvio delle elezioni</E
+M>s. storica</E
+M>destra storica</E
+M>nuova s.</E
+M>s. extraparlamentare</E
+M>s. storica</E
+M>la s. democristiana</E
+M>i democristiani di s.</E
+M>la s. hegeliana</E

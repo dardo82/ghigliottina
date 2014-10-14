@@ -1,0 +1,39 @@
+giovinezza.txt
+"eterna giovinezza"
+"Fonte della Giovinezza"
+"giovinezza"
+"giovinezza"
+"seconda giovinezza"
+#*''Quant'è bella [[giovinezza]], che si fugge tuttavia!'' (Lorenzo De' Medici) 
+*[[gioventù]], [[adolescenza]]
+*[[maturità]], [[vecchiaia]], [[anzianità]], [[senilità]]
+M>giovine</E
+M>giovane</E
+M>vecchiezza</E
+M>durante la g</E
+M>nella mia prima g</E
+M>giovanezza è colmo della natural vita</E
+M>il vigore della g</E
+M>il fiore della g</E
+M>perdere la g</E
+M>indarno mi dorrò d’avere la mia giovanezza perduta</E
+M>Giovane son</E
+M>ma si consuma e perde La giovanezza mia come vecchiezza</E
+M>Seconda g</E
+M>bisogna essere indulgente con lui</E
+M>in considerazione della sua giovinezza</E
+M>la g</E
+M>del cavallo si conosce dai denti</E
+M>la g</E
+M>di un popolo</E
+M>di un’arte</E
+M>stadio di g</E
+M>non ha conosciuto la g</E
+M>agli anni miei Anche negaro i fati La giovanezza</E
+M>possedere</E
+M>ritrovare la g</E
+M>della mente</E
+M>del cuore</E
+M>ha conservato intatta fino alla più tarda età la g</E
+M>dello spirito</E
+M>e tu che ardisci in terra Vestir d’eterna giovinezza il marmo</E

@@ -1,0 +1,14 @@
+rifugiarsi.txt
+"rifugiarsi in"
+M>io mi rifùgio</E
+M>la pioggia mi costrinse a rifugiarmi sotto un albero</E
+M>rifugiarsi in una caverna</E
+M>in una capanna</E
+M>al coperto</E
+M>molti antifascisti</E
+M>per sfuggire all&#8217;arresto</E
+M>si rifugiarono in Francia</E
+M>per evitare quel seccatore si rifugiò in un caffè</E
+M>dopo la morte del figlio si è rifugiato nei suoi studî</E
+M>rifugiarsi nella meditazione</E
+M>nella preghiera</E

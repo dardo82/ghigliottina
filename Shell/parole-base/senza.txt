@@ -1,0 +1,341 @@
+senza.txt
+"a pelo (senza sella)"
+"accesso senza fili"
+"al verde, senza una lira"
+"all'infuori di \/ privi di \/ senza"
+"amore senza età"
+"andare a zonzo senza una meta"
+"andare piano; senza fretta"
+"andarsene all'inglese; senza salutare"
+"appartamento in palazzo senza ascensore"
+"asciugare senza stirare"
+"asserire (senza prove)"
+"assolutamente certo, senza ombra di dubbio"
+"atterraggio senza visibilità"
+"bruciare senza fiamma"
+"cabriolet (macchina senza tetto)"
+"camminare senza meta in cerca di cibo e lavoro"
+"campo da golf senza buche usato per esercitarsi"
+"canto senza parole"
+"carrozza senza cavalli; detto spec. delle prime automobili"
+"chi beneficia di un'attività collettiva senza parteciparvi attivamente"
+"chiacchierare senza sosta"
+"collegamento senza fili"
+"combustione senza fiamma"
+"comunicazione senza fili"
+"con o senza di te"
+"conversare senza impegno"
+"cosa che procede senza problemi"
+"determinazione della posizione di una nave senza l'ausilio delle stelle"
+"dormire assieme al proprio promesso senza svestirsi"
+"dormire senza sognare"
+"entrare senza essere invitato; intromettersi; ficcare il naso"
+"entrare senza pagare, entrare senza invito"
+"essere senza fiato"
+"essere senza il becco di un quattrino"
+"essere senza senso"
+"essere senza soldi"
+"essere senza speranza"
+"fare cenno di tacere senza parlare"
+"fare qcs. in maniera meccanica; senza interesse"
+"fare senza"
+"fare senza; fare a meno"
+"farmaco senza obbligo di ricetta"
+"finestra senza panorama"
+"guardare le merci senza comprare"
+"i senza tetto"
+"il mangiare senza moderazione"
+"immersioni libere; senza scafandro"
+"in cerchio, senza arrivare da nessuna parte"
+"in modo impotente, inutilmente, senza poter intervenire"
+"in modo insensibile, senza cuore"
+"inaudito, senza precedenti"
+"incivile e senza cultura"
+"indisputabilmente, senza contestazioni"
+"indugiare superficialmente nella politica senza prendere decisioni"
+"insignificante (senza contenuto)"
+"internet senza fili"
+"l'atto di arrivare in un posto senza avvisare"
+"lasciare senza respiro"
+"locale senza polvere"
+"lotta dura senza paura"
+"mangiare senza moderazione"
+"ministro senza portafoglio"
+"mondo senza fine"
+"mondo senza fine"
+"non c'è due senza tre"
+"non c'è pane senza pena"
+"non c'è rosa senza spine"
+"non c'è sesso senza amore"
+"non senza importanza"
+"non senza interesse"
+"non so come farei senza di te"
+"nuoto subacqueo senza attrezzature"
+"palazzo senza ascensore"
+"parlamentare senza incarico"
+"parlare senza dire"
+"parole senza significato"
+"persona senza Dio"
+"presentarsi senza invito"
+"proseguire senza posa"
+"punto di accesso senza fili"
+"restare senza fiato"
+"rilegatura senza cuciture"
+"rimanere senza parole"
+"scrivere a macchina senza guardare i tasti"
+"senza"
+"indica assenza o privazione"
+"senza"
+"senza è seguito da un inf. o da un \"
+"senza acqua"
+"senza acqua"
+"senza agitazione"
+"senza alcun riguardo a"
+"senza allusioni"
+"senza alternative"
+"senza alternative"
+"senza amici"
+"senza amore"
+"senza appello"
+"senza aria"
+"senza arrivare da nessuna parte"
+"senza assistenza"
+"senza attenzione"
+#*''parli '''senza''' riflettere ''
+#*''sono '''senza''' soldi''
+*privo di, privato di, mancante di, sprovvisto di, spoglio di, sfornito di, con l’esclusione di, a parte, escludendo, in assenza di, in mancanza di
+* [[con]], fornito di, [[incluso]], [[includendo]], [[comprendendo]]
+*[[non senza]], [[senza dubbio]], [[senz'altro]], [[senza indugio]], [[senza sosta]], [[senza che]]
+M>abs</E
+M>nti</E
+M>asensa</E
+M>insenza</E
+M>sanza</E
+M>sono s. un soldo</E
+M>è rimasto s. impiego</E
+M>gente s. nome</E
+M>s. casa</E
+M>s. lavoro</E
+M>essere</E
+M>rimanere s. lavoro</E
+M>gente</E
+M>operai</E
+M>laureati s. lavoro</E
+M>essere un s. lavoro</E
+M>sono dei s. lavoro</E
+M>il problema dei s. lavoro</E
+M>restare s. fiato</E
+M>s. parole</E
+M>accettò l&#8217;offerta s. il minimo sospetto</E
+M>senz&#8217;ombra di sospetto</E
+M>era ormai s. speranza</E
+M>s. alcuna speranza</E
+M>s. nessuna speranza</E
+M>s. affatto speranza</E
+M>è un giovane timido</E
+M> s. amici</E
+M>un povero orfano</E
+M> s. padre e s. madre</E
+M>s. di me</E
+M>di te</E
+M>di noi</E
+M>s. di questo</E
+M>s. di ciò</E
+M>con</E
+M>è una camicia che si può portare con o s. cravatta</E
+M>caffè con zucchero o senza?</E
+M>senza</E
+M>con</E
+M>devo mangiare tutto s. sale</E
+M>le finestre erano s. vetri</E
+M>nonostante il freddo</E
+M> era s. cappotto</E
+M>s. cappello</E
+M>s. giacca</E
+M>un cane s. coda</E
+M>leggo benissimo s. occhiali</E
+M>è stato operato s. anestesia</E
+M>mangiava s. voglia</E
+M>l&#8217;ho fatto s. l&#8217;aiuto di nessuno</E
+M>lo lasciai s. rimpianto</E
+M>cosa farei s. di te</E
+M>s. il tuo consiglio?</E
+M>essere</E
+M>rimanere s. qualche cosa</E
+M>fare s. una cosa</E
+M>stare s. una cosa</E
+M>sono ormai s. voce</E
+M>siamo rimasti s. benzina</E
+M>temo che questa volta dovremo far s. il suo aiuto</E
+M>per dare tutto agli altri</E
+M> è rimasto s. lui</E
+M>prendi pure tu l&#8217;ombrello</E
+M> io posso farne s.</E
+M>posso uscire anche s.</E
+M>ero così abituato alla compagnia del cane</E
+M> che ora mi sarà difficile star senza</E
+M>vivere senza</E
+M>due senza</E
+M>quattro senza</E
+M>due con</E
+M>quattro con</E
+M>non c&#8217;è due s. tre</E
+M>mettiti lì buono</E
+M> s. piangere</E
+M>mi sono rigirato tutta la notte</E
+M> s. poter chiudere occhio</E
+M>ha fatto sempre il comodo suo s. guardare in faccia a nessuno</E
+M>posso entrare al cinema s. pagare</E
+M>parli s. riflettere</E
+M>se n&#8217;andò s. salutare nessuno</E
+M>chi t&#8217;ha insegnato a entrare s. chiedere il permesso?</E
+M>s. dir nulla</E
+M>s. aggiunger altro</E
+M>s. far parola</E
+M>s. dir motto</E
+M>s. proferir verbo</E
+M>s. batter ciglio</E
+M>s. colpo ferire</E
+M>baccalà s. bagnare</E
+M>il popol tuo solicito risponde Sanza chiamare</E
+M>che</E
+M>fui condannato s. che potessi</E
+M>s. poter</E
+M>dire le mie ragioni</E
+M>l&#8217;ha indovinato da sé</E
+M> s. che nessuno gliel&#8217;abbia suggerito</E
+M>c&#8217;è andato s. che io lo sapessi</E
+M>non passa giorno s. che succedano guai</E
+M>cercherò di accontentarti</E
+M> ma s. impegno</E
+M>si può avere s. spesa</E
+M>s. alcuna spesa</E
+M>s. una lagrima</E
+M>s. un grido</E
+M>s. dire che</E
+M>s. contare che ...</E
+M>doveva sapere che c&#8217;era pericolo</E
+M> s. dire che io stesso l&#8217;avevo avvertito</E
+M>gli sono sempre stato amico</E
+M> s. contare che l&#8217;ho anche aiutato materialmente assai spesso</E
+M>che</E
+M>è stato trattato come un cane</E
+M> s. dire</E
+M>s. ricordare</E
+M>s. contare</E
+M>gli insulti e le percosse ricevute</E
+M>la spesa per l&#8217;albergo è di 150 euro al giorno</E
+M> s. contare</E
+M>s. calcolare</E
+M>s. includere nel conto</E
+M>le mance</E
+M>dire</E
+M>contare</E
+M>... egli aveva de&#8217; fiorini più millantanove</E
+M> senza quegli che egli aveva a dare altrui</E
+M>contare</E
+M>includere</E
+M>senza</E
+M>mi devi già cento euro</E
+M> s. questi che ti dò ora</E
+M>la fattura dell&#8217;abito è di 230 euro</E
+M> s. le fodere e i bottoni</E
+M>fare</E
+M>s. tanti discorsi</E
+M>s. tanti preamboli</E
+M>insomma</E
+M> s. tanti discorsi</E
+M> il fatto è questo ...</E
+M>cerca di concludere</E
+M> s. tanti preamboli!</E
+M>s. tante storie!</E
+M>s. cerimonie</E
+M>s. complimenti</E
+M>s. tanti complimenti</E
+M>un mondo s. pace</E
+M>guai</E
+M>dolori s. numero</E
+M>un ragazzo s. giudizio</E
+M>un mercante s. scrupoli</E
+M>un alberguccio s. pretese</E
+M>fatiche</E
+M>faticare</E
+M>s. frutto</E
+M>s. profitto</E
+M>s. pro</E
+M>patimenti</E
+M>patire</E
+M>s. fine</E
+M>un tiranno s. pietà</E
+M>furono sterminati s. pietà</E
+M>una giovane s. malizia</E
+M>ha agito s. malizia</E
+M>s. posa</E
+M>s. riposo</E
+M>s. tregua</E
+M>s. modo</E
+M>uomo molto ricco e savio ... ma avarissimo senza modo</E
+M>s. indugio</E
+M>s. paragone</E
+M>s. confronto</E
+M>s. possibilità di confronto</E
+M>s. dubbio</E
+M>s. forse</E
+M>s. fallo</E
+M>il colpevole è lui</E
+M> s. dubbio</E
+M>ci vedremo domani</E
+M> allora</E
+M> s. fallo</E
+M>gente</E
+M>s. cuore</E
+M>restare</E
+M>s. fiato</E
+M>telefono</E
+M>s. fili</E
+M>colpire</E
+M>s. misericordia</E
+M>fare i conti</E
+M>s. l&#8217;oste</E
+M>un artista</E
+M>un atleta</E
+M>s. pari</E
+M>ministro</E
+M>ministero</E
+M>s. portafoglio</E
+M>un fatto</E
+M>s. precedenti</E
+M>gente</E
+M>s. timor di Dio</E
+M>vicolo</E
+M>s. uscita</E
+M>senz&#8217;altro</E
+M>s. dubbio</E
+M>s. fallo</E
+M>è così senz&#8217;altro</E
+M>per domani sarà fatto senz&#8217;altro</E
+M> te lo prometto</E
+M>fare</E
+M>dire</E
+M>aggiungere</E
+M>tacque senz&#8217;altro</E
+M>se n&#8217;andò senz&#8217;altro</E
+M>senza più</E
+M>ci sarò anch&#8217;io</E
+M> s. più</E
+M>s. meno</E
+M>e senza più càvati il cappotto e manda la palla</E
+M>ebbero una figliuola senza più</E
+M> che fu questa Bianca Maria</E
+M>non senza</E
+M>con</E
+M>lasciò quella terra non s. rimpianto</E
+M>riuscì a salvarlo non s. suo grave pericolo</E
+M>lo lasciò partire</E
+M> non s. prima avergli fatte molte raccomandazioni</E
+M>senza</E
+M>lo tennero in cella tre giorni</E
+M> s. mangiare né bere</E
+M>è uno strozzino</E
+M> s. pietà né riguardo per nessuno</E
+M>s. pietà o riguardo</E

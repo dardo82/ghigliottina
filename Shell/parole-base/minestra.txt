@@ -1,0 +1,52 @@
+minestra.txt
+"ciotola della minestra"
+"ciotola di minestra"
+"cucchiaio da minestra"
+"minestra"
+"minestra"
+"minestra"
+"minestra di lettere"
+"minestra di verdure"
+*[[pasta]], pasta asciutta, pasta in brodo
+*[[ministro]]
+*''è sempre la stessa minestra''
+M>di verdura</E
+M>vegetale</E
+M>col battuto</E
+M>di semolino</E
+M>d’orzo</E
+M>di pasta e ceci</E
+M>di pasta e fagioli</E
+M>in brodo</E
+M>asciutta</E
+M>che hai mangiato oggi per m</E
+M>io la m</E
+M>non la mangio mai</E
+M>prendo solo il secondo piatto e la frutta</E
+M>minestre</E
+M>cuocere</E
+M>portare in tavola</E
+M>scodellare la m</E
+M>distribuire la m</E
+M>ai poveri</E
+M>non si può mangiare neanche un cucchiaio di m</E
+M>in pace!</E
+M>lo invitai a mangiare una m</E
+M>con noi</E
+M>lavorare per la m</E
+M>perdere la m</E
+M>è sempre la stessa m</E
+M>è una m</E
+M>che non mi va</E
+M>se è così</E
+M>allora è tutt’altra m</E
+M>trovare la m</E
+M>bell’e scodellata</E
+M>può farsi la m</E
+M>come gli piace</E
+M>è una m</E
+M>fredda</E
+M>una pappa fredda</E
+M>riscaldata</E
+M>o mangiar questa m</E
+M>o saltar questa finestra</E

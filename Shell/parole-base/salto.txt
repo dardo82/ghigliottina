@@ -1,0 +1,43 @@
+salto.txt
+"ampio salto"
+"di salto con l'asta"
+"faccio un salto da te"
+"fare un salto"
+"fare un salto a"
+"fare un salto da qcn, andare a trovare qcn"
+"fare un salto da, fare una visita a"
+"fare un salto nel buio"
+"salto"
+"salto"
+"salto a ostacoli"
+"salto col paracadute"
+"salto con gli sci"
+"salto con il paracadute"
+"salto con l'asta"
+"salto con l'asta"
+"salto con l'elastico, bungee jumping"
+"salto dell'innamorato"
+"salto doppio"
+"salto improvviso"
+"salto in alto"
+"salto in lungo"
+"salto mortale"
+"salto mortale"
+"salto quantico"
+"scavalcare con un salto qualcosa, saltare via qualcosa"
+"spaniel inglese da salto"
+"triplo salto"
+#*''Superò l'ostacolo con un '''salto'''.''
+#*''Scese dal treno con un '''salto'''.''
+#*''Sono i campioni nazionali di '''salto''' in alto.''
+#*''Nel pomeriggio farò un '''salto''' in centro''
+*[[balzo]], [[lancio]], [[slancio]], [[scatto]], [[sprint]], [[rimbalzo]], [[falcata]], [[capitombolo]], [[capriola]], [[piroetta]], [[scavalcamento]]
+*[[sussulto]], [[sobbalzo]], [[guizzo]], [[brivido]], [[tremito]]
+*(di quota, temperatura) [[differenza]], [[distacco]], [[scarto]], [[dislivello]], [[intervallo]], [[abisso]], [[sproporzione]]; rapido passaggio, [[cambiamento]], [[sbalzo]]; [[miglioramento]], [[progresso]], [[superamento]]; [[crollo]], improvviso calo; [[impennata]], [[rincaro]], [[esplosione]], [[boom]]
+* brevissimo tempo, attimo, [[istante]], [[secondo]], [[minuto]]
+*''(del cavallo al galoppo)'' [[scatto]],  [[falcata]]
+*[[scappata]], [[corsa]]; [[visitina]], [[capatina]], [[visita]], [[capata]] 
+*''(cambiamento, aumento improvviso, vistoso)''  [[variazione]]; 
+*[[salio]], [[exsulto]], [[insulto]]
+*italiano
+*latino

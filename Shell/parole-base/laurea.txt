@@ -1,0 +1,74 @@
+laurea.txt
+"anello commemorativo della laurea al college o all'università"
+"cerimonia di laurea o diploma"
+"certificato di laurea"
+"commissione di laurea"
+"conseguire la laurea triennale"
+"corso di laurea"
+"di specializzazione (post diploma o post laurea)"
+"diploma di laurea"
+"dottorato di ricerca, specializzazione post-laurea"
+"post-laurea"
+"esame finale per la laurea (gergo degli studenti)"
+"laurea"
+"laurea (breve)"
+"laurea breve"
+"laurea conseguita presso"
+"laurea di primo grado"
+"laurea di primo grado"
+"laurea di primo grado in infermieristica"
+"laurea di primo livello"
+"laurea di secondo grado: MA"
+"laurea in architettura"
+"laurea in arte e scienze dello spettacolo"
+"laurea in economia dei beni culturali e della comunicazione"
+"laurea in economia e commercio"
+"laurea in economia e legislazione per le aziende"
+"laurea in ingegneria informatica"
+"laurea in ingegneria informatica con indirizzo automazione"
+"laurea in legge"
+"laurea in lettere"
+"laurea in lingue"
+"laurea in scienza"
+"laurea magistrale in giurisprudenza"
+"laurea quadriennale in fisica"
+"laurea specialistica"
+"laurea triennale"
+"post laurea"
+"post laurea"
+"studente dopo la laurea"
+"tesi di laurea"
+"voto di laurea"
+* [[laureare]], [[laurearsi]], [[laureato]]
+*italiano
+M>corona</E
+M>laurea</E
+M>levatasi la l</E
+M>di capo</E
+M>in testa ad Emilia la pose</E
+M>carche di ostili exuvie</E
+M>vittoriosi voti</E
+M>e l</E
+M>trionfali</E
+M>conferire</E
+M>conseguire</E
+M>prendere la l</E
+M>avere la l</E
+M>in medicina e chirurgia</E
+M>in lettere</E
+M>in legge</E
+M>l. breve</E
+M>diploma universitario</E
+M>l. di primo livello</E
+M> triennale</E
+M>l. di secondo livello</E
+M>specialistica</E
+M>magistrale</E
+M>tesi</E
+M>esame</E
+M>dissertazione di l</E
+M>dare</E
+M>discutere</E
+M>sostenere la laurea</E
+M>laurea honoris causa</E
+M>laurea ad honorem</E

@@ -1,0 +1,17 @@
+costoso.txt
+"caro, costoso"
+"costoso"
+"costoso"
+"essere costoso"
+"poco costoso"
+#*''Quel computer è molto '''costoso'''.''
+*[[economico]]
+*''(di bene, prodotto ecc.)''[[caro]], [[salato]], [[pepato]], [[dispendioso]]
+*''(di bene, prodotto ecc.)'' [[economico]], [[a]] [[buon]] [[mercato]], [[conveniente]]
+*[[gravoso]] 
+M>un lavoro c</E
+M>merce c</E
+M>un c</E
+M>viaggio</E
+M>una produzione</E
+M>una gestione molto costosa</E

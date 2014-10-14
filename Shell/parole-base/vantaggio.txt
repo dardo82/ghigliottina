@@ -1,0 +1,104 @@
+vantaggio.txt
+"a tuo vantaggio"
+"a tutto vantaggio di"
+"a vantaggio"
+"accusare falsamente qualcuno di razzismo a proprio vantaggio"
+"andare a proprio vantaggio"
+"avere il vantaggio di"
+"con vantaggio"
+"dare un vantaggio a qcn, fare il gioco di qcn"
+"essere sempre in vantaggio sugli altri"
+"in posizione di vantaggio"
+"in vantaggio"
+"in vantaggio"
+"ottenere il vantaggio di"
+"portarsi in vantaggio"
+"posizione di vantaggio"
+"sfruttare (i sentimenti, le paure di qn) (a proprio vantaggio)"
+"trarne il massimo vantaggio"
+"trarre il massimo vantaggio da"
+"trarre vantaggio da"
+"trarre vantaggio da"
+"trarre vantaggio, approfittare"
+"vantaggio"
+"vantaggio"
+"vantaggio"
+"vantaggio (tennis)"
+"vantaggio acquisito all'inizio di una gara"
+"vantaggio meccanico"
+"vantaggio per"
+"vantaggio personale"
+* [[beneficio]], [[miglioramento]],  [[profitto]], [[guadagno]] 
+* [[svantaggio]]
+*[[vantaggiosamente]]
+M>avantage</E
+M>abante</E
+M>antaggio</E
+M>sono due atleti di uguale livello</E
+M> ma lui ha sull’altro il v. della statura più alta</E
+M>ha su di me il v. di una memoria di ferro</E
+M>di fronte agli altri aspiranti ha il v. di una lunga pratica d’ufficio</E
+M>è un grande v. quello di conoscere le lingue straniere</E
+M>questi sono i v. dell’età</E
+M>i v. di essere il direttore</E
+M>i v. e gli svantaggi di essere scapolo</E
+M>i rapinatori avevano ormai una ventina di chilometri</E
+M>più di un quarto d’ora</E
+M>di v. sui loro inseguitori</E
+M>è arrivato per primo al traguardo con un v. di un minuto</E
+M>con un minuto di v.</E
+M>sul gruppo</E
+M>la squadra capolista ha un v. di cinque punti sulla seconda in classifica</E
+M>dare cinquanta metri</E
+M>dare trenta secondi di v.</E
+M>gara</E
+M>corsa</E
+M>a vantaggi</E
+M>handicap</E
+M>dare</E
+M>accordare 2</E
+M> 10 punti di v. all’avversario</E
+M>v. di un pedone</E
+M>v. di una torre</E
+M>v. di posizione</E
+M>v. del tratto</E
+M>regola del v.</E
+M>v. alla battuta</E
+M>v. alla rimessa</E
+M>v. pari</E
+M>v. nazionale</E
+M>abitando all’ultimo piano</E
+M> si ha più caldo e freddo</E
+M> ma in compenso c’è il v.</E
+M>si ha il v.</E
+M>di una bella vista</E
+M>puoi arrivare in ufficio all’ora che vuoi</E
+M> e questo è certo un bel v.</E
+M>ricavare</E
+M>trarre v. da qualche cosa</E
+M>ho provato a cambiare tipo di cura</E
+M> ma non ci trovo nessun v.</E
+M>è un posto che dà</E
+M> che offre molti v.</E
+M>il contratto è tutto a tuo v.</E
+M>la differenza di prezzo va tutta a v. del concessionario</E
+M>complemento di vantaggio</E
+M>dativo di comodo</E
+M>pagando in contanti</E
+M> si ha il v. del cinque per cento</E
+M>il macellaio mi ha dato questa fetta di carne per v.</E
+M>di vantaggio</E
+M>di vantaggio</E
+M>ne ho presi cinquanta grammi di v.</E
+M>ho accettato quello che mi ha voluto dare</E
+M> senza chiedergli altro di vantaggio</E
+M>non era buono essemplio al mondo che li suoi pari andassino per loro vivere cercando le cose di vantaggio</E
+M>di gran v.</E
+M>una saettia comperarono e quella segretamente armarono di gran v.</E
+M>v. meccanico</E
+M>vantaggio</E
+M>potenza</E
+M>resistenza</E
+M>balestre</E
+M>piega</E
+M>lunghezza</E

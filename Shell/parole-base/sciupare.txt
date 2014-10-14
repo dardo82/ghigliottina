@@ -1,0 +1,48 @@
+sciupare.txt
+"sciupare"
+"sciupare"
+"sciupare, replace: sciuparsi"
+"sciupare, guastare"
+#* ''hai sciupato il libro che ti avevo prestato''.
+#* ''sciupi tutto il tempo dormendo''
+*[[rovinare]], [[danneggiare]], [[maltrattare]], [[rompere]], [[strappare]], [[sbrindellare]], [[lacerare]], [[sdrucire]], [[spiegazzare]], [[sgualcire]], [[gualcire]], [[ammaccare]], [[deformare]], [[sformare]], [[guastare]]
+*[[sprecare]], [[sperperare]], [[scialacquare]], [[dissipare]], [[dilapidare]]
+*[[aggiustare]], [[riparare]], [[conservare]], [[salvaguardare]], [[risparmiare]], [[economizzare]]
+*[[sciuparsi]], [[sciupato]]
+M>*exsipare</E
+M>dissipare</E
+M>sc. un vestito</E
+M>sc. la copertina di un quaderno</E
+M>ti raccomando di non sc. i libri che ti ho prestato</E
+M>il temporale ha sciupato i fiori e molte piante del giardino</E
+M>quel contrattempo ha sciupato la festa</E
+M> l&#8217;atmosfera gioiosa della serata</E
+M>la continua ingerenza dei rispettivi genitori rischia di sc. il loro rapporto familiare</E
+M>si è intromesso lui e ha sciupato tutto</E
+M>a lavorare sempre con questo ritmo ti sciuperai la salute</E
+M>mi sono sciupata la vista per l&#8217;abitudine di leggere in penombra</E
+M>sciuparsi l&#8217;appetito</E
+M>sciuparsi il pranzo</E
+M>la cena</E
+M>mi sciupavo il cervello su uno schema di Società astratta</E
+M>sc. tempo e denaro</E
+M>sc. la carta</E
+M>sc. il proprio ingegno</E
+M>sc. un&#8217;ispirazione</E
+M>un soggetto</E
+M>un tema</E
+M>sc. una occasione</E
+M>sc. la fatica</E
+M>il fiato</E
+M>sc. il denaro</E
+M>il proprio patrimonio</E
+M>Né un soldo sciupò mai per tentar l&#8217;ambo</E
+M>in questa casa si sciupa troppa corrente elettrica</E
+M>è un peccato sc. l&#8217;acqua</E
+M>gli indumenti delicati vanno lavati con acqua fredda</E
+M> altrimenti si sciupano</E
+M>i mobili al sole si sciupano</E
+M>si è molto sciupato in questi ultimi tempi</E
+M>a studiare due ore al giorno ti sciuperai!</E
+M>tuo zio si è proprio sciupato a regalarti un disco</E
+M>sprecarsi</E

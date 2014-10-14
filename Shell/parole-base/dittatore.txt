@@ -1,0 +1,6 @@
+dittatore.txt
+"dittatore"
+"dittatore"
+*[[tiranno]],[[despota]], [[autocrate]] 
+*[[democratico]], [[liberale]], [[mite]], [[tollerante]]
+* [[dittatoriale]],  [[dittatorio]],  [[dittatura]]

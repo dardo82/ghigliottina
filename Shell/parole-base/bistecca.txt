@@ -1,0 +1,22 @@
+bistecca.txt
+"bistecca"
+"bistecca di filetto"
+"bistecca di lombo"
+#*''una bistecca contiene grassi  e proteine''
+*fetta di carne, [[fettina]], [[cotoletta]], [[braciola]], [[paillard]], [[filetto]], [[costoletta]], [[costata]]
+M>beefsteak</E
+M>beef</E
+M>steak</E
+M>una b</E
+M>di vitello</E
+M>di maiale</E
+M>di cavallo</E
+M>disossata</E
+M>ai ferri</E
+M>sui ferri</E
+M>alla fiorentina</E
+M>alla Bismarck</E
+M>filetto alla Bismarck</E
+M>bistecca</E
+M>braciola</E
+M>costoletta</E

@@ -1,0 +1,82 @@
+permettere.txt
+"autorizzare, permettere"
+"che non ci si può permettere"
+"non permettere"
+"non poterselo permettere"
+"permettere"
+"permettere, replace: permettersi"
+"permettere, replace: permettersi"
+"permettere a qualcuno di fare qualcosa"
+"permettere di avere"
+"più di quanto ci si possa permettere"
+"potersi permettere di pagare"
+*[[autorizzare]], [[consentire]], [[acconsentire]], [[concedere]], [[ammettere]], [[accordare]], [[sopportare]], [[tollerare]], [[accondiscendere]]
+*[[impedire]], [[vietare]], [[proibire]], [[ostacolare]]
+*[[permettersi]]
+M>permitt</E
+M>per</E
+M>mitt</E
+M>mettere</E
+M>mettere</E
+M>verrò al cinema se mio padre me lo permetterà</E
+M>il direttore non permette che usciamo nelle ore d&#8217;ufficio</E
+M>le autorità comunali non hanno permesso che si tenesse la manifestazione</E
+M>l&#8217;ufficiale permise ai soldati una sosta di poche ore</E
+M>permette</E
+M>vorrei parlarle</E
+M>permette una domanda?</E
+M>permette una parola?</E
+M>permette questo ballo?</E
+M>permettetemi di presentarmi</E
+M>permesso</E
+M>permettersi</E
+M>non posso permettermi di abitare in un appartamento così caro</E
+M>cambiare macchina è un lusso che adesso non ci possiamo permettere</E
+M>non si permetterebbe mai di giudicare le scelte degli altri</E
+M>mi permetto di farle osservare che ciò che lei afferma non è esatto</E
+M>si è permesso delle espressioni poco simpatiche sul mio conto</E
+M>non permetterti mai più di parlarmi in questo modo!</E
+M>permettersi delle confidenze</E
+M>delle libertà con una donna</E
+M>come ti permetti di frugare nel mio cassetto?</E
+M>come ti permetti?</E
+M>come vi permettete?</E
+M>non mi permetterei mai!</E
+M>la debolezza non gli permette di alzarsi dal letto</E
+M>la sua coscienza non gli permette di fare del male a nessuno</E
+M>la strada è così stretta che permette il passaggio a una sola persona alla volta</E
+M>ci rimetteremo in cammino tra un&#8217;ora</E
+M>se il tempo ce lo permetterà</E
+M>tempo permettendo</E
+M>il mare mosso non ci ha permesso di prendere il largo</E
+M>Dio talvolta permette il male nel mondo</E
+M>e tu permetti che ti si maltratti così?</E
+M>non poter p</E
+M>che</E
+M>non posso p</E
+M>che tu parli con questo tono a tua madre!</E
+M>non posso p</E
+M>che tu mi faccia un regalo così costoso!</E
+M>dalla casuale declinazione de&#8217; suoi atomi Epicuro permette il mondo alla discrezione del caso</E
+M>fantasmi di sembianze eccellentissime e soprumane</E
+M>ai quali</E
+M>permise in grandissima parte il governo e la potestà delle genti:</E
+M>e furono chiamati Giustizia</E
+M> Virtù</E
+M> Gloria</E
+M> Amor patrio e con altri sì fatti nomi</E
+M>Te permettente</E
+M>i diece eletti andranno Con la donzella a l&#8217;onorata impresa</E
+M>un contegno permesso</E
+M>non permesso</E
+M>manifestazioni non permesse</E
+M>è permesso</E
+M>non è permesso</E
+M>fare</E
+M>dire qualche cosa</E
+M>è permesso?</E
+M>permesso?</E
+M>chiedere</E
+M>domandare permesso</E
+M>stato permesso</E
+M>livello permesso</E

@@ -1,0 +1,24 @@
+telegrafico.txt
+"operatore telegrafico"
+"polo telegrafico"
+"telegrafico"
+M>-ci</E
+M>servizio t.</E
+M>linea t.</E
+M>cavi t. sottomarini</E
+M>codice t.</E
+M>ufficio t.</E
+M>messaggio</E
+M>dispaccio</E
+M>ordine t.</E
+M>sigle t.</E
+M>versamento</E
+M>ordine t.</E
+M>cambio t.</E
+M>vaglia t.</E
+M>Stile t.</E
+M>una lettera</E
+M>una risposta</E
+M>una comunicazione t.</E
+M>avvertire telegraficamente</E
+M>ho riunito i colleghi e ho dato loro telegraficamente le ultime notizie.</E

@@ -1,0 +1,34 @@
+contentare.txt
+"contentare"
+"contentare, replace: contentarsi"
+M>cont</E
+M>ntare</E
+M>contentus</E
+M>io contènto</E
+M>cercherò di contentarti</E
+M>in questo non ti posso c</E
+M>nessuno</E
+M>niente riesce a contentarlo</E
+M>gli occhi</E
+M>la vista</E
+M>il pubblico</E
+M>i clienti</E
+M>le tue risposte non mi hanno contentato</E
+M>le voglie</E
+M>i capricci di qualcuno</E
+M>Contentarsi</E
+M>contentarsi del giusto</E
+M>dell’onesto</E
+M>si contenta di poco</E
+M>con poco</E
+M>contèntati per ora di vederlo</E
+M>puoi dormire qui</E
+M>se ti contenti</E
+M>bisogna contentarsi</E
+M>contentiamoci!</E
+M>chi si contenta gode</E
+M>ora</E
+M>disse Tonio</E
+M>si contenti di mettere un po’ di nero sul bianco</E
+M>accontentare</E
+M>contentare</E

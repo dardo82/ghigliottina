@@ -1,0 +1,102 @@
+storico.txt
+"Associazione per la difesa della natura e  salvaguardia di posti di interesse artistico e storico"
+"centro storico"
+"centro storico"
+"commento storico"
+"documento storico"
+"evento storico"
+"falso storico"
+"gruppo storico"
+"legame storico"
+"marchio storico"
+"massimo storico"
+"materialismo storico"
+"metodo storico"
+"momento storico importante, pietra miliare nella storia"
+"romanzo storico"
+"storico"
+"storico"
+"storico"
+"storico"
+"storico legame"
+"storico ordini"
+"storico prodotti"
+#* ''quest'[[anfora]] è un importante [[reperto]] 
+#* ''[[romanzo]] 
+#* ''quello che è accaduto è un [[evento]] 
+#*''[[w
+*[[preistorico]]
+*[[storia]], [[storico dell'arte]], [[storico di cultura]], [[storico-culturale]], [[storico dei media]], [[storico della letteratura]]
+*italiano
+M>histor</E
+M>cus</E
+M>nemesi s.</E
+M>opera</E
+M>narrazione s.</E
+M>studî s.</E
+M>ricerche s.</E
+M>trattazione s.</E
+M>notizie s.</E
+M>cenni s.</E
+M>letture s.</E
+M>metodo s.</E
+M>scuola s.</E
+M>materialismo s.</E
+M>Istituto s.</E
+M>Istituto italiano per gli studî s.</E
+M>Rivista s. italiana</E
+M>Studî storico-religiosi</E
+M>realtà s.</E
+M>processo s.</E
+M>sviluppo s. di un fenomeno</E
+M>avere</E
+M>non avere</E
+M>senso storico</E
+M>serie storiche</E
+M>presente s.</E
+M>narrativo</E
+M>infinito s.</E
+M>narrativo</E
+M>descrittivo</E
+M>un quartiere</E
+M>un monumento</E
+M>un edificio s.</E
+M>il centro s. della città</E
+M>la destra</E
+M>la sinistra s.</E
+M>capo</E
+M>leader s.</E
+M>blocco s.</E
+M>fatto</E
+M>avvenimento s.</E
+M>personaggio s.</E
+M>dati s.</E
+M>romanzo</E
+M>dramma</E
+M>film s.</E
+M>pittura s.</E
+M>è s. che</E
+M>è storico!</E
+M>storico!</E
+M>vi dico che oggi è arrivato in orario: storico!</E
+M>è un fatto d&#8217;importanza s.</E
+M>oggi ho preso una s. decisione</E
+M>abbiamo avuto uno scontro s.</E
+M>è stata una giornata veramente storica</E
+M>compromesso s.</E
+M>l&#8217;inflazione ha raggiunto il massimo s.</E
+M>nuovo minimo s. del dollaro</E
+M>critica s.</E
+M>psicologia s.</E
+M>diacronico</E
+M>dizionario s.</E
+M>grammatica s.</E
+M>linguistica storica</E
+M>valore s.</E
+M>gli s. greci</E
+M>romani</E
+M>secondo le opinioni di uno s. contemporaneo</E
+M>il vero de&#8217; poeti è in certo modo più vero del vero degli storici</E
+M>un giudizio storicamente poco fondato</E
+M>i fatti sono storicamente accertati</E
+M>un personaggio storicamente esistito</E

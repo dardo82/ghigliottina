@@ -1,0 +1,32 @@
+diminuire.txt
+"assottigliarsi, diminuire gradualmente"
+"decrescere, diminuire"
+"diminuire"
+"diminuire"
+"diminuire i prezzi"
+"diminuire velocemente"
+"diminuire, ridurre"
+"diminuire, ridurre, abbattere"
+"far diminuire"
+"non accennare a diminuire"
+#*''diminuire il costo della vita''
+*[[attenuare]],[[calare]], [[attenuarsi]], [[ridurre]], [[calare]], [[abbassare]]
+*[[aumentare]]
+*[[diminuendo]], [[diminuibile]], [[diminuito]], [[diminutivo]], [[diminutore]], [[diminuzione]]
+M>deminu</E
+M>minu</E
+M>io diminüisco</E
+M>tu diminüisci</E
+M>le spese</E
+M>i prezzi</E
+M>lo stipendio</E
+M>le ore di lavoro</E
+M>la distanza</E
+M>le proprie esigenze</E
+M>essere</E
+M>di peso</E
+M>di pregio</E
+M>di valore</E
+M>è diminuito il numero degli abbonati</E
+M>le entrate continuano a d</E
+M>diminuiscono le probabilità</E

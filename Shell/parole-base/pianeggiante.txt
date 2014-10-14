@@ -1,0 +1,8 @@
+pianeggiante.txt
+"linea pianeggiante"
+"pianeggiante"
+"terreno pianeggiante"
+"territorio pianeggiante"
+M>pianeggiare</E
+M>un appezzamento di terreno p</E
+M>da qui fino a casa la strada è pianeggiante</E

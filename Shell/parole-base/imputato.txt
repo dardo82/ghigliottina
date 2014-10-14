@@ -1,0 +1,9 @@
+imputato.txt
+"imputato"
+"imputato"
+"imputato"
+*[[coimputato]]
+M>imputare</E
+M>arrestare</E
+M>assolvere un i</E
+M>assumere la difesa degli imputati</E

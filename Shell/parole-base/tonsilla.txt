@@ -1,0 +1,13 @@
+tonsilla.txt
+"tonsilla"
+*Enciclopedia [http
+M>tonsillae -arum</E
+M>t. palatina</E
+M>amigdala</E
+M>t. faringea</E
+M>terza t.</E
+M>t. linguale</E
+M>t. tubariche</E
+M>t. laringea</E
+M>t. addominale</E
+M>t. cerebellare</E

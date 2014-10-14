@@ -1,0 +1,19 @@
+considerevole.txt
+"alquanto grande, considerevole"
+"considerevole"
+"considerevole"
+"considerevole"
+"numero considerevole"
+"numero considerevole"
+"somma considerevole"
+"somma considerevole"
+#*''quasi tutti i cibi e le bevande contengono calorie, con la considerevole eccezione dell'acqua''
+*[[importante]], [[rilevante]], [[notevole]], [[consistente]], [[apprezzabile]], [[significativo]],  [[ragguardevole]]
+*[[irrilevante]], [[trascurabile]], [[inconsistente]], [[insignificante]]
+M>recare un c</E
+M>aiuto</E
+M>un contributo c</E
+M>è una somma c</E
+M>subire un danno</E
+M>una perdita considerevole</E
+M>il costo della vita è considerevolmente aumentato</E

@@ -1,0 +1,45 @@
+assemblea.txt
+"assemblea"
+"assemblea"
+"assemblea"
+"assemblea collettiva"
+"assemblea consultiva"
+"assemblea degli azionisti"
+"assemblea dei soci"
+"assemblea di condominio"
+"assemblea esecutiva"
+"assemblea federale"
+"assemblea generale"
+"assemblea giudiziaria"
+"assemblea legislativa"
+"assemblea legislativa"
+"assemblea legislativa"
+"assemblea nazionale"
+"assemblea nazionale"
+"assemblea plenaria"
+"assemblea telefonica"
+"camera bassa dell'assemblea legislativa della virginia"
+"camera bassa dell'assemblea legislativa di vari stati"
+"camera bassa; assemblea legislativa"
+"verbale di assemblea"
+*[[parlamento]], [[congresso]], [[dieta]]
+M>assemblée</E
+M>assembler</E
+M>degli studenti</E
+M>degli operai di una fabbrica</E
+M>dei soci</E
+M>degli azionisti</E
+M>dei condomini</E
+M>parlamentare</E
+M>regionale</E
+M>generale</E
+M>ordinaria</E
+M>straordinaria</E
+M>indire</E
+M>convocare un’a</E
+M>sciogliere l’assemblea</E
+M>nazionale</E
+M>legislativa</E
+M>parlamentare</E
+M>costituente</E
+M>regionale siciliana</E

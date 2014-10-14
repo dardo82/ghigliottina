@@ -1,0 +1,58 @@
+provincia.txt
+"della cittadina di provincia"
+"della provincia"
+"provincial"
+"in provincia di"
+"mentalità di provincia"
+"provincia"
+"provincia"
+"provincia"
+*[[contea]]
+*italiano
+*siciliano
+M>provincia</E
+M>cie</E
+M>Ahi serva Italia</E
+M>di dolore ostello</E
+M>Non donna di provincie</E
+M>ma bordello!</E
+M>il territorio italiano è diviso in numerose province</E
+M>le p</E
+M>del Lazio</E
+M>della Toscana</E
+M>grande</E
+M>piccola</E
+M>che comprende pochi</E
+M>molti comuni</E
+M>città capoluogo di provincia</E
+M>il presidente della P</E
+M>essere impiegato alla P</E
+M>palazzo della P</E
+M>andare alla Provincia</E
+M>venire dalla p</E
+M>abitare in p</E
+M>ritirarsi a vivere in p</E
+M>la monotonia</E
+M>la tranquillità della p</E
+M>la grazia o il tedio a morte del vivere in provincia</E
+M>di provincia</E
+M>città</E
+M>gente di p</E
+M>vita di p</E
+M>un giornale di provincia</E
+M>ecclesiastica</E
+M>comprovinciali</E
+M>suffraganee</E
+M>biologica</E
+M>minerogenica</E
+M>petrografica</E
+M>magmatica</E
+M>metamorfica</E
+M>sedimentaria</E
+M>atlantica</E
+M>mediterranea</E
+M>pacifica</E
+M>le scienze</E
+M>mi paiono una p</E
+M>di letteratura</E
+M>interamente diversa dalle belle lettere</E

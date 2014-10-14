@@ -1,0 +1,89 @@
+insalata.txt
+"cespo di insalata"
+"condire un'insalata con una salsa"
+"forchetta da insalata"
+"insalata"
+"insalata"
+"insalata"
+"insalata caprese"
+"insalata"
+"insalata capricciosa"
+"insalata dello chef"
+"insalata di cavolo"
+"insalata di cavolo, carote, cipolle e maionese"
+"insalata di cereali"
+"insalata di frutta"
+"insalata di mare"
+"insalata di pasta"
+"insalata di pollo"
+"insalata mista"
+"insalata mista"
+"insalata mista con salsa"
+"insalata russa"
+"insalata verde"
+"patate in insalata"
+"piatto di insalata"
+"piatto di insalata"
+"pomodori da insalata"
+"pomodoro da insalata"
+#* ''Alcuni animali si cibano di '''insalata'''''
+#* ''Ha mangiato un''''insalata''' russa''
+*[[verdura]] 
+* [[aceto]], [[condire]], [[olio]], [[sale]]
+M>di lattuga</E
+M>di radicchio</E
+M>di cetrioli</E
+M>di pomodori</E
+M>di campo</E
+M>campagnola</E
+M>contadina</E
+M>mista</E
+M>verde</E
+M>ben salata</E
+M>poco aceto e bene oliata</E
+M>e da un pazzo rivoltata</E
+M>un cesto d’i</E
+M>i. cappuccina</E
+M>ricciolina</E
+M>cogliere</E
+M>pulire</E
+M>lavare</E
+M>preparare</E
+M>condire</E
+M>mescolare l’insalata</E
+M>di pollo</E
+M>di riso</E
+M> di mare</E
+M>i. greca</E
+M>russa</E
+M>all’italiana</E
+M>in insalata</E
+M>zucchine</E
+M>fagiolini</E
+M>patate in i</E
+M>carne lessa in insalata</E
+M>di frutta</E
+M>macedonia</E
+M>il suo discorso è stato tutto un’i</E
+M>fare un’i</E
+M>di qualche cosa</E
+M>Mangiarsi qualcuno in i</E
+M>me lo mangio in i</E
+M>se lo mangerebbe in i</E
+M>insalatina a taglio</E
+M>molte volte aveva disiderato d’avere cotali insalatuzze d’erbucce</E
+M>quel locale offre un ricco menu di insalatone</E
+"name": "Insalata"
+"name": "Insalata di patate"
+"name": "Insalata di pollo"
+"name": "Insalata israeliana"
+"name": "La gonna e l'insalata"
+"name": "Insalata 'e mare"
+"name": "Insalata russa"
+"name": "Condimenti insalata"
+"name": "Centrifughe per insalata"
+"name": "Insalata russa"
+"name": "Insalata di arance"
+"name": "Insalata 'e mare"
+"name": "La gonna e l'insalata"
+"name": "La gonna e l'insalata"

@@ -1,0 +1,49 @@
+disturbare.txt
+"disturbare"
+"disturbare l'ordine pubblico"
+"disturbare, interrompere, imbarazzare"
+"disturbare, seccare"
+"disturbare, seccare"
+"disturbare, seccare"
+"disturbare; imporre la propria presenza"
+"disturbare; imporre la propria presenza"
+"infastidire; disturbare"
+"non disturbare"
+"non si doveva disturbare"
+"non ti dovevi disturbare"
+*(1) [[dare]] [[fastidio]], dare [[noia]], [[dispiacere]], [[importunare]]
+*(2) [[sconvolgere]]
+*[[disturbarsi]]
+*[[disturbato]]
+*[[disturbatore]]
+*[[disturbo]]
+M>disturbare</E
+M>dis</E
+M>turbare</E
+M>le lezioni</E
+M>lo spettacolo</E
+M>una cerimonia religiosa</E
+M>una riunione</E
+M>la pubblica quiete con schiamazzi notturni</E
+M>il dottore ha una visita e non può essere disturbato per nessun motivo</E
+M>quando scrivo non voglio essere disturbato</E
+M>scusi se la vengo a d</E
+M>disturbo?</E
+M>se non ti disturbo</E
+M>vorrei accompagnarti</E
+M>ti disturba il rumore della macchina da scrivere?</E
+M>il dondolio della barca mi disturba</E
+M>il viaggio in aereo mi ha disturbato</E
+M>turbare</E
+M>ci vuol così poco a d</E
+M>uno stato felice!</E
+M>stanotte la trasmissione radio è stata molto disturbata dal temporale</E
+M>con un sibilo continuo i notiziarî di una radio clandestina</E
+M>una rete televisiva disturbata da emittenti private</E
+M>disturbarsi</E
+M>s’è voluto disturbare a venir di persona</E
+M>grazie</E
+M>non si disturbi</E
+M>state comodi</E
+M>non vi disturbate</E
+M>perché ti sei voluto disturbare?</E

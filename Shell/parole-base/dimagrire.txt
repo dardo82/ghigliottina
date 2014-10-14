@@ -1,0 +1,18 @@
+dimagrire.txt
+"dimagrire"
+"dimagrire"
+"dimagrire, diventare magro"
+*[[assottigliarsi]], [[alleggerirsi]], [[emaciarsi]]
+*[[snellire]], [[smagrire]]
+*[[appesantirsi]], [[impinguarsi]]
+*[[ingrassare]], [[aumentare]]
+*[[dimagrimento]]
+M>magro</E
+M>io dimagrisco</E
+M>tu dimagrisci</E
+M>essere</E
+M>continuava a d</E
+M>sempre più</E
+M>sei molto dimagrito</E
+M>dimagrare</E
+M>ti trovo un po’ dimagrito</E

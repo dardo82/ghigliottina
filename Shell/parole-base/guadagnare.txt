@@ -1,0 +1,87 @@
+guadagnare.txt
+"acquistare velocità, guadagnare velocità, prendere velocità"
+"guadagnare"
+"guadagnare"
+"guadagnare"
+"guadagnare"
+"guadagnare"
+"guadagnare con difficoltà"
+"guadagnare del denaro"
+"guadagnare distanza su"
+"guadagnare per"
+"guadagnare popolarità"
+"guadagnare punti"
+"guadagnare quattro soldi"
+"guadagnare molto poco"
+"guadagnare sufficientemente per sopravvivere"
+"guadagnare tempo"
+"guadagnare tempo"
+"guadagnare terreno su, accorciare le distanze su"
+"guadagnare terreno; fare progressi"
+"guadagnare un sacco"
+"guadagnare\/vincere facilmente"
+#* ''ho guadagnato un lauto stipendio''
+#* ''si è guadagnato a fatica il primo posto''
+*[[guadagnabile]]
+M>*waidanjan</E
+M>io guadagno</E
+M>noi guadagniamo</E
+M>voi guadagnate</E
+M>guadagniamo</E
+M>guadagniate</E
+M>ottocento euro al mese</E
+M>venti euro a lezione</E
+M>il tre per cento su ogni affare concluso</E
+M>di mille euro che incasso</E
+M>ne guadagno trecento</E
+M>con accorte speculazioni ha guadagnato fior di quattrini</E
+M>guadagnavo appena di che vivere</E
+M>bene</E
+M>guadagnare</E
+M>lui sì che guadagna</E
+M>è un negozio che guadagna</E
+M>guadagnare</E
+M>guadagnarsi la vita</E
+M>da vivere</E
+M>il pane</E
+M>guadagnarsi il pane col sudore della fronte</E
+M>ora che è grande</E
+M>bisogna che pensi a g</E
+M>a star zitto ci guadagna</E
+M>a star zitti ci si guadagna</E
+M>se dai retta a me ci guadagnerai sempre</E
+M>credi di guadagnarci qualcosa a fare l’intransigente?</E
+M>è tutto guadagnato</E
+M>è tanto di guadagnato</E
+M>io il lavoro lo posso fare anche da solo</E
+M>ma se tu mi aiuti</E
+M>tanto di guadagnato per tutti e due</E
+M>cambia di posto ai mobili di camera tua e vedrai che l’insieme ci guadagna</E
+M>in una luce migliore</E
+M>il quadro ci guadagnerebbe</E
+M>non è bella</E
+M>ma con il trucco ci guadagna</E
+M>ha guadagnato un bel premio e moltissime lodi</E
+M>guadagnarsi la stima dei dirigenti</E
+M>si guadagnò sul campo una medaglia al valore</E
+M>quel che ho lo tengo caro</E
+M>perché me lo sono guadagnato</E
+M>al gioco</E
+M>alle corse</E
+M>gagner</E
+M>una partita</E
+M>una scommessa</E
+M>un terno al lotto</E
+M>s’è guadagnato un solenne cicchetto</E
+M>tieni la finestra aperta e poi vedi che bel raffreddore ti guadagni</E
+M>ecco quel che si guadagna a fare del bene agli ingrati</E
+M>una persona</E
+M>l’animo</E
+M>l’affetto</E
+M>la simpatia di qualcuno</E
+M>tempo</E
+M>terreno</E
+M>il porto</E
+M>la cima d’un monte</E
+M>il vento</E
+M>il sopravvento</E

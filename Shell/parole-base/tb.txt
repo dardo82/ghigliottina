@@ -1,0 +1,2 @@
+tb.txt
+"http://api.wordreference.com/12bee/json/iten/tb/"

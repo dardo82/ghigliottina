@@ -1,0 +1,32 @@
+parco.txt
+"parco"
+"parco"
+"parco a tema"
+"parco auto"
+"parco cittadino"
+"parco dei cervi"
+"parco dei divertimenti"
+"parco di divertimenti"
+"parco divertimenti"
+"parco eolico"
+"parco giochi"
+"parco industriale"
+"parco macchinari"
+"parco macchine"
+"parco mezzi"
+"parco monumentale"
+"parco naturale"
+"parco nazionale"
+"parco pubblico"
+"parco safari"
+*[[equilibrato]], [[misurato]], [[moderato]], [[controllato]], [[sobrio]], [[regolato]], [[contenuto]], [[frugale]], [[morigerato]]
+* [[temperante]],[[economo]],  [[parsimonioso]]
+*''(di abitazione, area urbana)'' [[giardino]]
+*[[riserva]], territorio protetto, [[oasi]], area  protetta
+* ''(per materiali, manufatti)'' [[deposito]], [[rimessa]]
+*''(per animali)'' [[recinto]], [[stabbio]], [[addiaccio]]
+*[[parcheggio]], [[autoparco]]
+*[[sregolato]], [[sfrenato]], [[eccessivo]]
+*[[parcamente]], [[parco buoi]] 
+*[[villa]] 
+*italiano

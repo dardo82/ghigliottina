@@ -1,0 +1,30 @@
+spiga.txt
+"spiga"
+"spiga di grano"
+M>s. composta</E
+M>spiga</E
+M>una s.</E
+M>pannocchia</E
+M>di granturco</E
+M>una s. d&#8217;orzo</E
+M>d&#8217;avena</E
+M>il grano ha già messo le s.</E
+M>a giugno le s. biondeggiano sui campi</E
+M>separare la paglia dalle s.</E
+M>cogliere una s.</E
+M>s. piena</E
+M>vuota</E
+M>granita</E
+M>magra</E
+M>matura</E
+M>una s. non fa manna</E
+M>Se non mi credi</E
+M> pon mente a la spiga</E
+M> Ch&#8217;ogn&#8217;erba si conosce per lo seme</E
+M>a spiga</E
+M>tessuto a s.</E
+M>a spina di pesce</E
+M>pavimento a s.</E
+M>remolino</E
+M>ritrosa</E
+M>spada romana</E

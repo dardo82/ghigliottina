@@ -1,0 +1,92 @@
+soddisfare.txt
+"andare incontro al target, soddisfare il target"
+"soddisfare"
+"soddisfare"
+"soddisfare"
+"soddisfare i requisiti"
+"soddisfare i requisiti di qualità"
+"soddisfare le aspettative"
+"soddisfare un desiderio"
+"soddisfare una necessità"
+#* ''Il nuovo commesso non '''soddisfa''' del tutto i clienti'';
+#* ''Questa cena ha '''soddisfatto''' i miei parenti''
+#* ''Il pane non '''soddisfa''' il mio stomaco'';
+#* ''Le ipotesi del teorema di Pitagora '''sono soddisfatte''' da ogni triangolo che abbia un angolo di 90°'';
+#* ''La somma di numeri naturali '''soddisfa''' la proprietà commutativa'';
+#* ''La nonna '''soddisfaceva''' a tutti i suoi desideri''
+#* '''''soddisfare''' a una particolare condizione''
+*[[adempiere]], [[ottemperare]], [[assolvere]]
+*''(un debito)'' [[saldare]], [[estinguere]], [[pagare]], [[rimborsare]], [[risarcire]]
+*''(un desiderio)'' [[appagare]], [[esaudire]]
+* [[accontentare]], [[piacere]], [[garbare]]
+*[[contentare]], [[dare soddisfazione]], [[piacere]], [[essere gradito]], [[andare a genio]], [[compiere]], [[eseguire]], [[osservare]]
+*[[scontentare]], [[irritare]], [[contrariare]], [[deludere]], [[rifiutare]], [[negare]]
+*[[satisfare]], [[sodisfare]]
+M>satisfac</E
+M>satis</E
+M>fac</E
+M>io soddisfàccio</E
+M>soddisfò</E
+M>soddisfo</E
+M>tu soddisfài</E
+M>soddisfi</E
+M>egli soddisfà</E
+M>soddisfa</E
+M>soddisface</E
+M>noi soddisfacciamo</E
+M>soddisfiamo</E
+M>voi soddisfate</E
+M>essi soddisfanno</E
+M>soddìsfano</E
+M>egli soddisfàccia</E
+M>soddisfi</E
+M>noi soddisfacciamo</E
+M>voi soddisfacciate</E
+M>essi soddisfàcciano</E
+M>soddìsfino</E
+M>fare</E
+M>avere</E
+M>s. il pubblico</E
+M>i lettori</E
+M>gli utenti</E
+M>è un ristorante</E
+M>un barbiere</E
+M>un calzolaio che non soddisfa i clienti</E
+M>s. un capriccio</E
+M>un desiderio</E
+M>s. un bisogno</E
+M>una necessità</E
+M>nella produzione si deve cercare di s. i gusti e le esigenze dei consumatori</E
+M>non fu poi la mancanza di denaro che mi rendesse difficile di soddisfare il mio vizio</E
+M>s. una donna</E
+M>s. al pubblico più raffinato</E
+M>è un giornale che non soddisfa alla massa dei lettori</E
+M>s. al gusto della clientela</E
+M>s. a una richiesta</E
+M>a una preghiera</E
+M>s. alla propria ambizione</E
+M>l&#8217;uomo abbisogna di molte cose</E
+M> a le quali uno solo satisfare non può</E
+M>qui l&#8217;esperienza non mi manca</E
+M> da soddisfare alla tua domanda</E
+M>non è uno che si soddisfi facilmente</E
+M>s. un debito</E
+M>s. i creditori</E
+M>ai creditori</E
+M>s. i proprî impegni</E
+M>ai proprî impegni</E
+M>s. agli obblighi di leva</E
+M>s. un&#8217;offesa</E
+M>a un&#8217;offesa</E
+M>s. le colpe</E
+M>i peccati commessi</E
+M>E qui convien ch&#8217;io questo peso porti Per lei</E
+M>tanto che a Dio si sodisfaccia</E
+M>Io vo&#8217; saper se l&#8217;uom può sodisfarvi Ai voti manchi sì con altri beni</E
+M>s. a una premessa</E
+M>a un principio</E
+M>s. a una condizione</E
+M>un numero è soluzione di un&#8217;equazione se soddisfa l&#8217;equazione stessa</E
+M>la moltiplicazione fra numeri soddisfa la proprietà commutativa</E
+M>si può applicare un teorema quando sono soddisfatte le ipotesi</E
+M>una formula è soddisfatta</E

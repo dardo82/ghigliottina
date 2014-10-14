@@ -1,0 +1,53 @@
+pascolo.txt
+"erba da pascolo"
+"erba da pascolo"
+"pascolo"
+"pascolo"
+"pascolo"
+"pascolo naturale"
+"pascolo per pecore"
+"portare al pascolo"
+* [[prato]]
+* [[pascolare]]
+* [[armenti]], [[bestiame]], [[brucare]], [[erba]], [[gregge]], [[mandria]], [[montagna]], [[pastore]], [[pastorizia]], [[ruminare]], [[transumanza]]
+* ''ampi '''pascoli''''' 
+* '''''pascoli''' d'altura'' 
+M>pascuum</E
+M>pasc</E
+M>permanente</E
+M>temporaneo</E
+M>ricco</E
+M>povero</E
+M>magro</E
+M>grasso</E
+M>zona ricca di fertili p</E
+M>i verdi p</E
+M>dell&#8217;Engadina</E
+M>mettere</E
+M>tenere</E
+M>lasciare un terreno a pascolo</E
+M>quest&#8217;anno il p</E
+M>è stato abbondante</E
+M>scarso</E
+M>il trifoglio è un buon pascolo</E
+M>portare le greggi al p</E
+M>le mucche sono al pascolo</E
+M>diritto di pascolo</E
+M>usi civici</E
+M>abusivo</E
+M>letture che sono un buon p</E
+M>per la mente</E
+M>dare p</E
+M>all&#8217;ambizione</E
+M>ai sospetti</E
+M>i ricchi vogliono</E
+M>nel tempo stesso che danno pascolo al ventre</E
+M>dar pascolo all&#8217;ambizione</E
+M>egli aveva cercato nella donna il p</E
+M>della immaginazione artistica</E
+M>dare in p</E
+M>al pubblico</E
+M>ai curiosi</E
+M>alla maldicenza</E
+M>dare in pasto</E
+M>è un&#8217;amministrazione disordinata in cui persone di pochi scrupoli trovano abbondante p</E

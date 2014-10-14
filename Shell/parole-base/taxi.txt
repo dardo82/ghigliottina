@@ -1,0 +1,13 @@
+taxi.txt
+"affittabile; libero (es: taxi)"
+"chiamare un taxi con un cenno, fare cenno a un taxi"
+"hail a taxi"
+"corsa in taxi"
+"taxi ride"
+"prendere il taxi"
+"take a taxi"
+"prezzo della corsa in taxi"
+"stazione dei taxi"
+"taxi stand"
+"taxi"
+"taxi"

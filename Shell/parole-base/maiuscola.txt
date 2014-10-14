@@ -1,0 +1,5 @@
+maiuscola.txt
+"lettera maiuscola"
+"lettera maiuscola"
+"maiuscola"
+"relativo alla lettera maiuscola"

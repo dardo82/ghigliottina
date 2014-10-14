@@ -1,0 +1,71 @@
+magazzino.txt
+"a magazzino"
+"capienza di magazzino"
+"contabilità di magazzino"
+"depositare in un magazzino"
+"di magazzino frigorifero"
+"documento di magazzino"
+"essere in magazzino"
+"fondo di magazzino"
+"grande magazzino"
+"grande magazzino; emporio"
+"in magazzino"
+"magazzino, magazzeno"
+"magazzino, magazzeno"
+"magazzino, magazzeno"
+"magazzino doganale"
+"magazzino generi alimentari"
+"magazzino popolare"
+"magazzino principale"
+"materiale a magazzino"
+"merci di magazzino"
+"mettere in magazzino"
+"movimento di magazzino"
+"negozio, magazzino economico"
+"unità di magazzino"
+* [[deposito]] 
+*[[scorte]], [[stock]], [[giacenza]], [[rimanenza]]
+*(specialmente plurale) [[supermercato]], [[rivendita]], [[emporio]], [[spaccio]]
+*[[magazziniere]]
+M>makh</E
+M>zin</E
+M>makhzan</E
+M>khazana</E
+M>magasin</E
+M>magazine</E
+M>di grano</E
+M>di fieno</E
+M>di ferramenta</E
+M>il m</E
+M>dell’arsenale</E
+M>della biblioteca</E
+M>avere il m</E
+M>pieno</E
+M>colmo</E
+M>vuoto</E
+M>vuotare</E
+M>rifornire il m</E
+M>magazzino</E
+M>dei</E
+M>viveri</E
+M>magazzini di deposito</E
+M>generali</E
+M>doganali</E
+M>militari</E
+M>roccia m</E
+M>ha un m</E
+M>di attrezzi sparsi qua e là per la casa</E
+M>essere un m</E
+M>di erudizione</E
+M>grande m</E
+M>i m</E
+M>della Rinascente</E
+M>i m</E
+M>Coin</E
+M>Upim</E
+M>fare acquisti ai grandi magazzini</E
+M>intercambiabile</E
+M>linotype</E
+M>magazines</E
+M>toscano</E
+M>italiano</E

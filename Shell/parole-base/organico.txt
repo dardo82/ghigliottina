@@ -1,0 +1,85 @@
+organico.txt
+"chimico organico"
+"fertilizzante organico"
+"liquido organico"
+"organico"
+"organico"
+"organico"
+"organico"
+"tessuto organico"
+*''(corporeo)'' [[fisico]]
+*''(personale)'' [[staff]]
+*''(biologico)'' [[inorganico]]
+*[[organicamente]], [[organicità]], [[organismo]], [[organicare]]
+*[[organo]]
+M>organ</E
+M>cus</E
+M>regno o</E
+M>regno inorganico</E
+M>minerale</E
+M>la vita o</E
+M>tessuti organici</E
+M>Sostanze o</E
+M>sostanze inorganiche</E
+M>composti o</E
+M>Chimica o</E
+M>funzioni o</E
+M>struttura o</E
+M>malattia o</E
+M>sintomo o</E
+M>funzionale</E
+M>soffio o</E
+M>soffio funzionale</E
+M>vizio</E
+M>difetto o</E
+M>disfunzione o</E
+M>deperimento o</E
+M>sindrome o</E
+M>disturbo o</E
+M>introdurre mutamenti o</E
+M>riforme o</E
+M>leggi o</E
+M>Architettura o</E
+M>Composizione o</E
+M>del capitale</E
+M>un complesso o</E
+M>di leggi</E
+M>un tutto o</E
+M>un’opera o</E
+M>un libro</E
+M>un trattato o</E
+M>fare un lavoro o</E
+M>preparare un piano o</E
+M>disporre in modo o</E
+M>dare una sistemazione o</E
+M>alla materia</E
+M>ruolo o</E
+M>organico</E
+M>sinfonico</E
+M>cameristico</E
+M>vocale</E
+M>strumentale</E
+M>completare l’o</E
+M>di un reparto</E
+M>organici di pace</E
+M>di guerra</E
+M>pianta o</E
+M>intellettuale o</E
+M>a un gruppo</E
+M>a una classe sociale</E
+M>comparativi o</E
+M>sintetici</E
+M>più</E
+M>migliore</E
+M>peggiore</E
+M>maggiore</E
+M>minore</E
+M>melior</E
+M>peior</E
+M>maior</E
+M>minor</E
+M>arte o</E
+M>concepire</E
+M>trattare</E
+M>sistemare organicamente la materia di un’opera</E
+M>un piano di lavori concepito e predisposto organicamente</E

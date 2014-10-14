@@ -1,0 +1,13 @@
+scappamento.txt
+"scappamento"
+"sifone per bloccare l'uscita del grasso dal tubo di scappamento"
+"tubo di scappamento"
+"tubo di scappamento, tubo di scarico"
+M>scarico</E
+M>collettore di scarico</E
+M>tubo di s.</E
+M>silenziatore</E
+M>marmitta di s.</E
+M>Colonna di s.</E
+M>s. nodale</E
+M>sistole da scappamento</E

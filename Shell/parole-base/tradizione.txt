@@ -1,0 +1,43 @@
+tradizione.txt
+"antica tradizione"
+"come da tradizione"
+"nel rispetto della tradizione"
+"rottura con la tradizione"
+"Solco della tradizione"
+"tradizione"
+"tradizione"
+"tradizione orale"
+*[[memoria]], [[folclore]]; [[passato]]
+*[[storia]], [[leggenda]], [[mito]], [[saga]], [[ciclo]]
+*[[novità]], [[innovazione]], [[cambiamento]]
+*[[tradizionale]],  [[tradizionalmente]],[[tradizionalismo]], [[tradizionalista]], [[tradizionalistico]]
+M>traditio -onis</E
+M>trad</E
+M>traditio</E
+M>t. orale</E
+M>scritta</E
+M>t. orale</E
+M>storia orale</E
+M>t. diretta</E
+M>indiretta</E
+M>è antica t. che gli Etruschi siano venuti in Italia dall&#8217;Asia Minore</E
+M>nel secondo libro delle sue</E
+M>Storie</E
+M>Erodoto raccoglie le t. greco-egiziane intorno all&#8217;Egitto</E
+M>una pia t. vuole che proprio qui sia sbarcato s. Paolo</E
+M>era t. dei Greci eroicizzare i morti in battaglia</E
+M>la cerimonia si è svolta secondo la t. paesana</E
+M>l&#8217;onestà negli affari è t. nella mia famiglia</E
+M>seguire la t.</E
+M>attenersi alla t.</E
+M>rompere la t.</E
+M>una persona attaccata</E
+M>ligia alla t.</E
+M>alle t.</E
+M>studio delle t. popolari</E
+M>ormai lo fa da tanti anni</E
+M> per t.</E
+M> di riunire gli amici a casa sua per l&#8217;ultimo dell&#8217;anno</E
+M>t. diretta</E
+M>t. indiretta</E
+M>nell&#8217;opinione del mondo e nella relazion degli storici rimase poi sempre incerta l&#8217;innocenza e la t. del Cardinale</E

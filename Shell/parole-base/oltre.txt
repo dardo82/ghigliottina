@@ -1,0 +1,126 @@
+oltre.txt
+"anche oltre"
+"Andare oltre"
+"andare oltre il limite di velocità"
+"andare oltre; eccedere"
+"ben oltre il necessario"
+"dietro l'oltre"
+"guardare oltre"
+"oltre"
+"oltre"
+"oltre"
+"oltre"
+"oltre"
+"oltre a"
+"oltre a"
+"oltre a"
+"oltre a"
+"oltre a"
+"oltre a tutto ciò"
+"oltre al danno le beffe"
+"oltre al danno, anche la beffa"
+"oltre che"
+"oltre che"
+"oltre il limite"
+"oltre il Mississippi"
+"oltre la ragione"
+"oltre limite"
+"oltre misura"
+"oltre ogni aspettativa"
+"oltre ogni immaginazione"
+"oltre ogni sospetto"
+"passare oltre"
+"più avanti, oltre, in seguito"
+"proseguire oltre"
+"protettivo oltre misura"
+"saltare al di là di qualcosa, saltare oltre qualcosa"
+"saltare oltre"
+"saltare oltre"
+"tirare oltre"
+"tirare oltre il bersaglio"
+"vendere o prenotare oltre misura"
+#*oltre la siepe
+*[[avanti]], [[davanti]], [[più]], [[tardi]],  più, [[sopra]]
+*[[oltre-]]
+*(1) [[al di là]] [[di#Italian|di]]
+*(2) [[più]] [[di#Italian|di]]
+*(3) [[in#Italian|in]] [[aggiunta]], [[anche]], [[pure]]
+*(4) [[eccetto]], [[tranne]]
+M>ltra</E
+M>andare</E
+M>venire</E
+M>proseguire o</E
+M>aveva fretta e passò o</E
+M>senza fermarsi</E
+M>andando o</E
+M>più o</E
+M>nella lettura</E
+M>il libro cominciò a interessarmi</E
+M>se continui così</E
+M>non andrai molto o</E
+M>temo d’essere andato troppo o</E
+M>non voglio abusare o</E
+M>della vostra pazienza</E
+M>ho deciso di non aspettare o</E
+M>non ti affaticare o</E
+M>tanto è inutile</E
+M>l’opera di ricostruzione durerà vent’anni e o</E
+M>essere o</E
+M>molto o</E
+M>negli anni</E
+M>il fiume</E
+M>il mare</E
+M>il confine</E
+M>il Po</E
+M>lanciare un sasso o</E
+M>il muro</E
+M>il pallone è andato a finire o</E
+M>la linea di fondo</E
+M>Mincio</E
+M>Appennino</E
+M>Manica</E
+M>cortina</E
+M>il giusto</E
+M>la possibilità</E
+M>il limite</E
+M>è presuntuoso o</E
+M>ogni limite</E
+M>abbiamo resistito o</E
+M>ogni speranza</E
+M>ogni dire</E
+M>ogni credere</E
+M>la difension d’i senni umani</E
+M>da o</E
+M>un mese</E
+M>per o</E
+M>un secolo</E
+M>sino o</E
+M>il 1870</E
+M>morì o</E
+M>i novanta</E
+M>ormai dev’essere o</E
+M>la cinquantina</E
+M>città con o</E
+M>un milione di abitanti</E
+M>è lontano o</E
+M>due miglia</E
+M>a quello che già vi ho detto</E
+M>c’è un’altra cosa che dovete sapere</E
+M>gli dànno circa ottocento euro al mese</E
+M>il vitto e l’alloggio</E
+M>a essere ignorante è anche villano</E
+M>che</E
+M>oltreché</E
+M>utile è anche dilettevole</E
+M>a questo</E
+M>a ciò</E
+M>oltracciò</E
+M>di ciò</E
+M>di che</E
+M>oltrediché</E
+M>oltre di ciò</E
+M>costoro eran generalmente de’ più abbietti e ribaldi soggetti del loro tempo</E
+M>a questo</E
+M>non c’è altro</E
+M>a noi</E
+M>nessun altro lo sa</E

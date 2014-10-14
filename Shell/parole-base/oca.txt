@@ -1,0 +1,25 @@
+oca.txt
+"al passo dell'oca"
+"caccia all'oca selvatica"
+"carne d'oca"
+"collo d'oca, perno di rotazione del boma"
+"dell'oca lombardella"
+"fegato d'oca"
+"gioco dell'oca"
+"i brividi, la pelle d'oca"
+"mamma oca"
+"oca"
+"oca"
+"oca delle nevi, oca polare"
+"oca grigia"
+"oca lombardella"
+"oca selvatica"
+"oca zamperosee"
+"pelle d'oca"
+"penna d'oca"
+"persona stupida (un'oca giuliva)"
+#* ''
+*[[papera]]
+*[[uccello]]
+*italiano
+*spagnolo

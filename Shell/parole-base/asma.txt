@@ -1,0 +1,17 @@
+asma.txt
+"asma"
+"asma bronchiale"
+*[[asmatico]]
+#* ''el '''asma'''''
+#* ''la pinche '''asma'''''
+*italiano
+*catalano
+*portoghese
+*spagnolo
+M>asthma</E
+M>bronchiale</E
+M>asma</E
+M>estrinseco</E
+M>intrinseco</E
+M>cardiaco</E
+M>isterico</E

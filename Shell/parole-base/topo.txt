@@ -1,0 +1,33 @@
+topo.txt
+"a coda di topo"
+"coda di topo"
+"fare la fine del topo"
+"giocare come il gatto col topo"
+"orecchio di topo (erba officinale)"
+"relativo al topo di campagna"
+"simile a topo"
+"tana del topo"
+"topo"
+"topo d'acqua"
+"topo d'acqua"
+"topo d'appartamento"
+"topo di biblioteca"
+"topo di campagna"
+"topo di campagna"
+"topo di città"
+"topo di fogna"
+"topo grosso"
+"topo marrone scuro di ponte"
+*(di colore) [[grigio]]
+*[[sorcio]], [[ratto]]
+*(dei vetrai) [[grisatoio]]
+* [[roditore]],[[nido]], [[formaggio]], [[gatto]], [[tana]], [[trappola]]
+*''gatto timido fa il topo coraggioso''
+*''topo di biblioteca''
+*[[topo#Italiano|topo]]
+*italiano
+*spagnolo
+M>topografìa</E
+M> topònimo</E
+M>cronòtopo</E
+M> isòtopo</E

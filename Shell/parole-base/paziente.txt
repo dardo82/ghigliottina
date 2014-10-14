@@ -1,0 +1,121 @@
+paziente.txt
+"essere paziente"
+"paziente"
+"paziente"
+"paziente"
+"paziente ambulatoriale"
+"paziente ambulatoriale"
+"paziente di"
+"paziente interno"
+"uomo paziente"
+"di persona paziente"
+*[[buono]], [[calmo]], [[sereno]], [[tranquillo]], [[mite]], [[mansueto]], [[docile]], [[remissivo]], [[arrendevole]], [[condiscendente]], [[tollerante]], [[clemente]], [[indulgente]], [[rassegnato]], [[stoico]]
+*[[preciso]], [[diligente]], [[attento]], [[meticoloso]], [[scrupoloso]], [[minuzioso]]
+* [[ammalato]], [[malato]], [[sofferente]], [[ricoverato]], [[degente]], [[mutuato]]
+*[[impaziente]], [[insofferente]], [[nervoso]]
+*[[impreciso]], [[negligente]], [[trascurato]], [[trasandato]]
+M>patiens</E
+M>entis</E
+M>pati</E
+M>è un uomo assai p</E
+M>un maestro p</E
+M>con gli alunni</E
+M>essere p</E
+M>nelle avversità</E
+M>l&#8217;asino e il bue sono animali p</E
+M>cerca di essere p</E
+M>con lui</E
+M>non ti inquietare così</E
+M>sii paziente!</E
+M>un lavoratore p</E
+M>un p</E
+M>ricercatore</E
+M>tu co &#8217;l lento Giro de&#8217; pazienti occhi rispondi</E
+M>studî p</E
+M>ricerche p</E
+M>dopo p</E
+M>indagini</E
+M>ha bisogno di lunghe e p</E
+M>cure</E
+M>il p</E
+M>è peggiorato</E
+M>è una p</E
+M>operata di appendicite</E
+M>visitare</E
+M> medicare i p</E
+M>è un p</E
+M>che osserva scrupolosamente la dieta</E
+M>un bravo dottore</E
+M> che ha molti pazienti</E
+M>agente</E
+M>quanto l&#8217;agente più al p</E
+M>sé unisce</E
+M>tanto più forte è però la passione</E
+M>le cose agenti sono più delle p</E
+M>perfette</E
+M>casi che distinguono il p</E
+M>dall&#8217;agente</E
+M>affrontare pazientemente i mali</E
+M>il dolore</E
+M>aspettai pazientemente che avesse terminato di parlare</E
+M>sopportare pazientemente le persone moleste</E
+"essere paziente"
+"paziente"
+"paziente"
+"paziente"
+"paziente ambulatoriale"
+"paziente ambulatoriale"
+"paziente di"
+"paziente interno"
+"uomo paziente"
+"di persona paziente"
+*[[buono]], [[calmo]], [[sereno]], [[tranquillo]], [[mite]], [[mansueto]], [[docile]], [[remissivo]], [[arrendevole]], [[condiscendente]], [[tollerante]], [[clemente]], [[indulgente]], [[rassegnato]], [[stoico]]
+*[[preciso]], [[diligente]], [[attento]], [[meticoloso]], [[scrupoloso]], [[minuzioso]]
+* [[ammalato]], [[malato]], [[sofferente]], [[ricoverato]], [[degente]], [[mutuato]]
+*[[impaziente]], [[insofferente]], [[nervoso]]
+*[[impreciso]], [[negligente]], [[trascurato]], [[trasandato]]
+M>patiens</E
+M>entis</E
+M>pati</E
+M>è un uomo assai p</E
+M>un maestro p</E
+M>con gli alunni</E
+M>essere p</E
+M>nelle avversità</E
+M>l&#8217;asino e il bue sono animali p</E
+M>cerca di essere p</E
+M>con lui</E
+M>non ti inquietare così</E
+M>sii paziente!</E
+M>un lavoratore p</E
+M>un p</E
+M>ricercatore</E
+M>tu co &#8217;l lento Giro de&#8217; pazienti occhi rispondi</E
+M>studî p</E
+M>ricerche p</E
+M>dopo p</E
+M>indagini</E
+M>ha bisogno di lunghe e p</E
+M>cure</E
+M>il p</E
+M>è peggiorato</E
+M>è una p</E
+M>operata di appendicite</E
+M>visitare</E
+M> medicare i p</E
+M>è un p</E
+M>che osserva scrupolosamente la dieta</E
+M>un bravo dottore</E
+M> che ha molti pazienti</E
+M>agente</E
+M>quanto l&#8217;agente più al p</E
+M>sé unisce</E
+M>tanto più forte è però la passione</E
+M>le cose agenti sono più delle p</E
+M>perfette</E
+M>casi che distinguono il p</E
+M>dall&#8217;agente</E
+M>affrontare pazientemente i mali</E
+M>il dolore</E
+M>aspettai pazientemente che avesse terminato di parlare</E
+M>sopportare pazientemente le persone moleste</E

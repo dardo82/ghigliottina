@@ -1,0 +1,45 @@
+protesta.txt
+"agitazione sindacale, protesta sindacale, azione sindacale"
+"che protesta"
+"protestant"
+"che protesta"
+"grida di protesta"
+"marciare in segno di protesta"
+"protesta"
+"protesta"
+"protesta non violenta"
+"protesta pacifica"
+"uno che protesta"
+*[[lamentela]], [[lagnanza]], [[opposizione]], [[ribellione]], [[disapprovazione]], [[malcontento]], [[reazione]], [[dissenso]], [[rimostranza]]; [[reclamo]], [[querela]], [[ricorso]]
+*[[manifestazione]], [[contestazione]], [[sciopero]]
+*[[protestare]]
+*italiano
+*spagnolo
+M>fare proteste di stima</E
+M>di ammirazione</E
+M>di fedeltà</E
+M>ampie p</E
+M>di amicizia</E
+M>di gratitudine</E
+M>continuava a fare grandi p</E
+M>di innocenza</E
+M>elevare</E
+M>presentare una p</E
+M>inviare una lettera di p</E
+M>indire uno sciopero</E
+M>una manifestazione di p</E
+M>scendere in piazza per una p</E
+M>non violenta</E
+M>i movimenti di p</E
+M>la p</E
+M>dei giovani contro le istituzioni</E
+M>la p</E
+M>giovanile</E
+M>hanno scioperato per p</E
+M>contro le decisioni del preside</E
+M>alcuni deputati hanno abbandonato l&#8217;aula in segno di protesta</E
+M>una p</E
+M>muta</E
+M>silenziosa</E
+M>passiva</E
+M>nota di p</E

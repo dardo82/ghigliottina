@@ -1,0 +1,108 @@
+infelice.txt
+"il più infelice"
+"infelice"
+"infelice"
+"infelice"
+"sventurato, infelice, sfortunato"
+*[[sventurato]], [[disperato]], [[misero]], [[povero]]
+*[[handicappato]], [[disgraziato]], [[brutto]]
+*[[triste]], [[scontento]], [[sfortunato]], [[addolorato]], [[malinconico]], [[sconsolato]], [[abbattuto]], [[depresso]], [[sconfortato]], [[afflitto]], [[affranto]], [[tribolato]]
+* [[sventurato]], [[contrario]], [[sfavorevole]]
+*[[negativo]], [[inopportuno]], [[sconveniente]], [[doloroso]], [[disastroso]], [[infausto]]
+*[[scadente]], [[difettoso]], mal riuscito
+*[[beato]]
+*[[sano]], [[bello]]
+*[[felice]], [[allegro]], [[sereno]], [[gioioso]], [[lieto]], [[soddisfatto]]
+*[[fortunato]], [[favorevole]]
+*[[positivo]], [[opportuno]], [[conveniente]]
+*ben fatto, [[riuscito]]
+* [[infelicità]],  [[infelicemente]]
+M>infelix</E
+M>icis</E
+M>felix</E
+M>essere</E
+M>sentirsi i</E
+M>un uomo</E
+M>una donna i</E
+M>anima</E
+M>cuore</E
+M>spirito i</E
+M>bambino i</E
+M>madre</E
+M>padre i</E
+M>amanti i</E
+M>amante i</E
+M>sventurato</E
+M>disgraziato</E
+M>avere</E
+M>mostrare pietà per gli i</E
+M>povero i</E
+M>stava l’i.</E
+M> immoto</E
+M>colpito dal proiettile</E
+M>l’i</E
+M>cadde senza una parola</E
+M>è un i</E
+M>non è altro che un i</E
+M>in seguito a quell’incidente restò i</E
+M>per tutta la vita</E
+M>avere avuto una vita i</E
+M>un’infanzia i</E
+M>un’i</E
+M>sorte</E
+M>essere in i</E
+M>stato</E
+M>un amore i</E
+M>nell’i</E
+M>esilio</E
+M>eventi i</E
+M>tempi i</E
+M>esito</E
+M>risultato i</E
+M>le i</E
+M>condizioni dell’economia di una nazione</E
+M>impresa</E
+M>guerra i</E
+M>un tentativo i</E
+M>fu un matrimonio i</E
+M>idea</E
+M>scelta</E
+M>decisione i</E
+M>essere stato i</E
+M>nella scelta</E
+M>nella decisione</E
+M>il suo gesto fu veramente i</E
+M>disse una frase i</E
+M>uscì con una battuta</E
+M>con una trovata i</E
+M>sei stato veramente i</E
+M>con quella frase</E
+M>locuzione i</E
+M>ha un fisico i</E
+M>versi i</E
+M>quadro</E
+M>disegno</E
+M>lavoro i</E
+M>una traduzione i</E
+M>in questi versi</E
+M>in questo disegno</E
+M>in questa versione</E
+M>il poeta</E
+M>il pittore</E
+M>il traduttore è stato i</E
+M>poco felice</E
+M>una casa</E
+M>un locale i</E
+M>ambienti i</E
+M>buono</E
+M>fortunato</E
+M>favorevole</E
+M>avere un carattere</E
+M>un temperamento i</E
+M>regione con clima i</E
+M>il paese sorge in posizione i</E
+M>la casa ha un’esposizione infelice</E
+M>vivere infelicemente</E
+M>il tentativo si concluse infelicemente</E
+M>intervenendo infelicemente</E
+M>ha complicato le cose</E

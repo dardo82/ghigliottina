@@ -1,0 +1,31 @@
+marinaio.txt
+"cappello da marinaio"
+"come marinaio semplice"
+"farsi marinaio; imbarcarsi"
+"giacca da marinaio"
+"giaccone da marinaio"
+"marinaio"
+"marinaio scelto"
+"marinaio semplice"
+"promessa da marinaio"
+*[[marittimo]] 
+*[[navigatore]], uomo di mare
+:*''promessa da marinaio''
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1223
+M>marina</E
+M>autorizzato</E
+M>autisti</E
+M>telefonisti</E
+M>servizio antincendio</E
+M>servizî logistici</E
+M>fare il m</E
+M>essere un bravo</E
+M>un esperto</E
+M>un provetto m</E
+M>il buon m</E
+M>si conosce al cattivo tempo</E
+M>promessa</E
+M>giuramento</E
+M>di marinaio</E
+M>d’acqua dolce</E
+M>marinaro</E

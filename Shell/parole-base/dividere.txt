@@ -1,0 +1,102 @@
+dividere.txt
+"dividere"
+"dividere"
+"dividere"
+"dividere"
+"dividere"
+"dividere"
+"dividere a metà"
+"dividere con"
+"dividere in"
+"dividere in"
+"dividere in due"
+"dividere in gruppi"
+"dividere in quarti"
+"dividere in triangoli"
+"dividere l'appartamento"
+"dividere la stessa stanza"
+"dividere per"
+"dividere una stanza, un appartamento con qualcuno"
+"dividere, distribuire"
+"dividere, spartire"
+"ripartire, dividere"
+"tagliare a pezzi, dividere"
+*[[scomporre]], [[suddividere]], [[tagliare]], [[spartire]]  
+*[[condividere]], [[suddividere]]
+M>divid</E
+M>divi</E
+M>dividésti</E
+M>divi</E
+M>un foglio in due</E
+M>una mela in quattro spicchi</E
+M>una parola in sillabe</E
+M>è pericoloso d</E
+M>le proprie forze</E
+M>un plotone in due squadre</E
+M>il popolo romano era stato diviso per centurie</E
+M>per curie e tribù</E
+M>l’un de’ cigli un colpo avea diviso</E
+M>le mele acerbe dalle mature</E
+M>sono tanto amici che solo la morte potrà dividerli</E
+M>due litiganti</E
+M>una questione</E
+M>le famiglie</E
+M>gli animi</E
+M>le fazioni dividevano il popolo</E
+M>il metodo politico di d</E
+M>per regnare</E
+M>E quest’odio che mai non avvicina Il popolo lombardo all’alemanno</E
+M>Giova a chi regna dividendo</E
+M>il foglio con una linea</E
+M>un terreno in lotti</E
+M>una regione in province</E
+M>un libro in capitoli</E
+M>un poema in canti</E
+M>una tragedia in cinque atti</E
+M>un film in due tempi</E
+M>macchina a d</E
+M>non è possibile d</E
+M>con un taglio netto il torto dalla ragione</E
+M>un muricciolo divide i due campi</E
+M>il Mediterraneo divide l’Europa dall’Africa</E
+M>un lungo intervallo di tempo divide i due fatti</E
+M>d. 180 per 4</E
+M>imparare a d</E
+M>non saper dividere</E
+M>9 divide esattamente</E
+M>dividersi</E
+M>35 si divide per 7 e per 5.</E
+M>il patrimonio tra i figli</E
+M>le sostanze tra gli eredi</E
+M>il guadagno</E
+M>gli utili tra i soci</E
+M>l’affetto</E
+M>il cuore</E
+M>l’uva</E
+M>il grano</E
+M>dividersi</E
+M>dividersi il premio</E
+M>una somma</E
+M>ci siamo divisi il lavoro</E
+M>dividersi un’eredità</E
+M>il patrimonio</E
+M>qualcosa con qualcuno</E
+M>ha diviso il dolce con la sorellina</E
+M>non avere nulla da d</E
+M>con qualcuno</E
+M>le gioie</E
+M>i dolori di qualcuno</E
+M>mi divisi con vero dolore dai genitori</E
+M>dopo la morte del padre i fratelli si sono divisi</E
+M>l’armata si divise su tre fronti</E
+M>l’acqua del ruscello si divide in più rivoli</E
+M>i cittadini si divisero in varie fazioni</E
+M>le opinioni si divisero</E
+M>Ma Gregorio da lui poi si divise</E
+M>non so come fare a dividermi tra la casa e l’ufficio</E
+M>il metro si divide in decimetri</E
+M>centimetri</E
+M>la circonferenza si divide in 360 gradi</E
+M>l’anno si divide in dodici mesi</E
+M>i corpi si dividono in solidi</E
+M>liquidi e gassosi</E

@@ -1,0 +1,21 @@
+finestrino.txt
+"finestrino"
+"posto al finestrino"
+*[[finestra]]
+M>finestra</E
+M>finestrina</E
+M>il f</E
+M>della dispensa</E
+M>della cantina</E
+M>il f</E
+M>della latrina</E
+M>i f</E
+M>del treno</E
+M>delle autovetture</E
+M>dell’autobus</E
+M> alzare</E
+M> abbassare</E
+M> chiudere</E
+M> aprire i finestrini.</E
+M>portellino</E
+M>oblò</E

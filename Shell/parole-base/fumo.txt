@@ -1,0 +1,123 @@
+fumo.txt
+"andare in fumo"
+"andare in fumo"
+"color fumo"
+"del fumo del tabacco"
+"di punto in bianco (relativo ad abitudini quali droga, fumo, alcohol, etc.)"
+"divieto di fumo"
+"fumo"
+"fumo"
+"fumo"
+"fumo"
+"fumo"
+"fumo di sigaretta"
+"fumo negli occhi"
+"fumo passivo"
+"gettare fumo negli occhi"
+"il grande fumo"
+"nero fumo"
+"nuvoletta di fumo"
+"nuvolone di fumo"
+"pennacchio di fumo"
+"sbuffo di fumo"
+"senza fumo"
+"stanare col fumo"
+"stanza piena di fumo"
+"storcersi; andare in fumo"
+"tabacco da fumo"
+"tutto fumo"
+"tutto fumo niente arrosto"
+"vendere fumo"
+"venditore di fumo"
+#* ''ho indossato una [[giacca]] color '''fumo'''''
+#* ''finalmente ho perso il [[vizio]] del '''fumo'''''
+#* ''[[ho comprato]] un [[chilo]] di '''fumo'''''
+*''(aggettivo)'' [[scuro]]
+*''(sostantivo)''[[vapore]], [[esalazione]], [[miasma]]
+*[[fumacchio]], [[fumaggine]], [[fumaiolo]], [[fumaiuolo]], [[fumana]], [[fumante]], [[fumare]],  [[fumario]], [[fumeria]], [[fumetto]], [[fumogeno]], [[fumoso]], [[fumo di Londra]], [[fumo interstellare]], [[fumo passivo]], [[fumeggiare]]
+*[[fummo]]
+*''andare in '''fumo'''''
+*'''''fumo''' negli occhi''
+M>mus</E
+M>il f</E
+M>del carbone</E
+M>della candela</E
+M>della lampada a petrolio</E
+M>della paglia bruciata</E
+M>di un incendio</E
+M>il f</E
+M>dell’incenso</E
+M>il f</E
+M>del camino</E
+M>di una ciminiera</E
+M>denso</E
+M>acre</E
+M>una nuvola</E
+M>una colonna</E
+M>un filo di f</E
+M>la morte è un paravento di f. fra i vivi e gli altri</E
+M>fare</E
+M>mandare f</E
+M>una stufa che fa f</E
+M>legna umida che fa molto fumo</E
+M>prendere</E
+M>sapere di f</E
+M>essere come il f</E
+M>negli occhi</E
+M>Depurazione dei f</E
+M>gabella del f</E
+M>gabella dei f</E
+M>focatico</E
+M>fumatico</E
+M>color fumo</E
+M>grigio fumo</E
+M>nero fumo</E
+M>fumo di Londra</E
+M>un paio di calze grigio fumo</E
+M>un vestito fumo di Londra</E
+M>aspirare il f</E
+M>le dà noia il f</E
+M>hai riempito la stanza di fumo</E
+M>tabacco da fumo</E
+M>tabacco da fiuto</E
+M>il troppo f</E
+M>ti fa male</E
+M>ha dovuto rinunciare al fumo</E
+M>fumacchio</E
+M>fumaiolo</E
+M>il f</E
+M>della locomotiva</E
+M>della pentola</E
+M>i f</E
+M>della palude</E
+M>d’una solfatara</E
+M>Se ’l fummo del pantan nol ti nasconde</E
+M>interstellare</E
+M>è tutto f</E
+M>molto f</E
+M>e poco</E
+M>niente</E
+M>arrosto</E
+M>vendere f</E
+M>venditore di f</E
+M>Sono proprio venditori di f. questi esperti della salute! Ma se nemmeno il raffreddore riuscite a debellare!</E
+M>mandare in f</E
+M>questo ostacolo imprevisto manda in f</E
+M>tutti i nostri progetti</E
+M>ha mandato in f</E
+M>l’intero suo patrimonio</E
+M>andare in f</E
+M>le nostre speranze sono andate in f</E
+M>ricchezze che vanno in fumo</E
+M>un uomo pieno di fumo</E
+M>i f</E
+M>del vino</E
+M>gli sono montati alla testa i f</E
+M>del vino</E
+M>dell’alcol</E
+M>i f</E
+M>dell’ira</E
+M>della vanità</E
+M>dell’ambizione</E
+M>qui non si sente f</E
+M>alcuno di simil cosa</E

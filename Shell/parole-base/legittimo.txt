@@ -1,0 +1,57 @@
+legittimo.txt
+"erede legittimo"
+"governo legittimo"
+"legittimo"
+"legittimo"
+"legittimo impedimento"
+"legittimo possesso"
+"legittimo sospetto"
+*conforme alla legge, [[legale]], [[costituzionale]], [[valido]], [[regolare]]
+*[[permesso]], [[concesso]], [[consentito]], [[accettato]], [[approvato]], [[autorizzato]]
+*[[giusto]], [[ragionevole]], [[lecito]], [[giustificato]], [[motivato]], [[comprensibile]], [[plausibile]]
+*[[doveroso]], [[dovuto]], [[spettante]]
+*[[illegitimo]], [[illegale]]
+*[[vietato]], [[proibito]]
+*[[ingiusto]], [[irragionevole]], [[illecito]], [[immotivato]]
+*[[legittimamente]]
+*[[legittima]]
+M>legit</E
+M>mus</E
+M>lex legis</E
+M>avrebbero essi cercata quella via irregolare</E
+M>se la l</E
+M>non fosse loro stata chiusa?</E
+M>autorità</E
+M>sovrano l</E
+M>rappresentante</E
+M>matrimonio l</E
+M>moglie</E
+M>prole l</E
+M>figlio l</E
+M>filiazione l</E
+M>possesso</E
+M>possessore l</E
+M>erede l</E
+M>successore l</E
+M>successione l</E
+M>parte</E
+M>porzione l</E
+M>difesa</E
+M>uso l</E
+M>di un vocabolo</E
+M>di una locuzione</E
+M>conseguenze l</E
+M>supposizione l</E
+M>dubbio l</E
+M>suspicione</E
+M>desiderio</E
+M>vanto</E
+M>orgoglio l</E
+M>è l</E
+M>supporre</E
+M>olio</E
+M>vino legittimo</E
+M>aspirare legittimamente a un’eredità</E
+M>essere uniti legittimamente in matrimonio</E
+M>essere legittimamente orgoglioso dei risultati ottenuti</E
+M>avanzare legittimamente dei dubbî</E

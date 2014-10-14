@@ -1,0 +1,9 @@
+bastimento.txt
+"bastimento"
+"bastimento"
+"carico di un bastimento"
+* Devoto/Oli,'' Il dizionario della lingua italiana, edizione cartacea 2000-2001, Le Monnier, pagina 223
+M>È arrivato un b</E
+M>carico di</E
+M>c’è ancora un b</E
+M>di scarpe in magazzino</E

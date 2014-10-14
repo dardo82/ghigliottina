@@ -1,0 +1,4 @@
+stento.txt
+"a stento"
+"farcela a stento"
+"stento"

@@ -1,0 +1,105 @@
+silenzio.txt
+"cadere in silenzio"
+"comprare il silenzio"
+"cono di silenzio"
+"far passare qualcosa sotto silenzio, tenere segreto qualcosa"
+"fare silenzio"
+"in silenzio"
+"in silenzio"
+"prezzo del silenzio"
+"restare in silenzio"
+"restare in silenzio"
+"ridurre al silenzio"
+"ridurre al silenzio"
+"ridurre al silenzio"
+"rimanere in silenzio"
+"silenzio"
+"silenzio"
+"silenzio"
+"silenzio"
+"silenzio"
+"silenzio"
+"silenzio assenso"
+"silenzio d'oro"
+"silenzio notturno"
+"silenzio per favore"
+"silenzio, è un segreto, acqua in bocca!"
+"silenzio!"
+"via! Silenzio!"
+"zitto!, silenzio!"
+* assenza di rumori, [[silenziosità]]
+*[[calma]], [[serenità]], [[tranquillità]], [[pace]], [[riposo]], [[quiete]]
+*[[mutismo]], [[segretezza]], [[incomunicabilità]]
+*[[silenziare]], [[silenzioso]], [[silenziatore]], [[silenziamento]], [[silentario]]
+*[[rumore]], [[chiasso]], [[frastuono]], [[fracasso]], [[baccano]], [[strepito]]
+*''fare silenzio''
+*''La parola è d'argento, il silenzio è d'oro.''
+*Devoto/Oli,''Il dizionario della lingua italiana'', edizione 2000-2001, Le Monnier, p. 1945-1946 
+*AA.VV., ''Dizionario etimologico'', edizione 2004, ristampa 2008, RusconiLibri p. 917
+M>silentium</E
+M>silens -entis</E
+M>sil</E
+M>il s. della notte</E
+M>nella vecchia casa abbandonata regnava un profondo s.</E
+M>un s. di morte</E
+M>un s. di tomba</E
+M>il s. fu rotto improvvisamente da un urlo</E
+M>qui c’è un gran s.</E
+M> si può lavorare in pace</E
+M>è possibile avere un po’ di s.</E
+M> in questa casa?</E
+M>all’orror de’ notturni Silenzj si spandea lungo ne’ campi Di falangi un tumulto</E
+M>sovrumani Silenzi</E
+M> e profondissima quïete Io nel pensier mi fingo</E
+M>Il divino del pian s. verde</E
+M>zona del s.</E
+M>durante il s. è proibito parlare</E
+M> anche sottovoce</E
+M>sono stati puniti perché chiacchieravano dopo che era suonato il silenzio</E
+M>s. fuori ordinanza</E
+M>zona di silenzio</E
+M>zona d’ombra</E
+M>stare</E
+M>rimanere in silenzio</E
+M>ascoltare in s.</E
+M>soffrire in s.</E
+M>amare in s.</E
+M>sopportare in s. un’ingiustizia</E
+M>fare silenzio</E
+M>fate s.!</E
+M>silenzio!</E
+M>ci fu un breve</E
+M>un lungo s.</E
+M>un s. imbarazzante</E
+M>glaciale</E
+M>rompere il s.</E
+M>ridurre</E
+M>costringere al s. un avversario</E
+M>l’interlocutore</E
+M>ridurre</E
+M>costringere al s. un pezzo di artiglieria</E
+M>una batteria</E
+M>una mitragliatrice</E
+M>un forte</E
+M>s. sacro</E
+M>obbligo del s.</E
+M>dispensare dal s.</E
+M>scusa il mio s.</E
+M>il mio lungo s. ti avrà stupito</E
+M>il suo inspiegabile s. ci preoccupa</E
+M>vi raccomando il più assoluto s. in merito a quanto vi ho detto</E
+M>i parenti del sequestrato hanno chiesto il s. della stampa</E
+M>il silenzio stampa</E
+M>passare sotto silenzio</E
+M>è un fatto molto grave</E
+M>che non si può passare sotto silenzio</E
+M>avvolgere un avvenimento nel s.</E
+M>congiura del s.</E
+M>cadere nel s.</E
+M>vivere nel s.</E
+M>s.-rifiuto della Pubblica Amministrazione</E
+M>s.-rigetto</E
+M>silenzio-assenso</E
+M>silenzioassenso</E
+M>s. radar e radio</E
+M>Chiesa del s.</E

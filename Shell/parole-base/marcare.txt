@@ -1,0 +1,53 @@
+marcare.txt
+"marcare"
+"marcare"
+"marcare"
+"marcare"
+"marcare"
+"marcare a uomo"
+"marcare i confini"
+"marcare il passo"
+"marcare il territorio"
+"marcare male"
+"marcare stretto"
+"marcare visita"
+"rimarcare (marcare di nuovo)"
+#*''marcare un giocatore di rugby''
+*[[contrassegnare]], [[firmare]], [[timbrare]], [[bollare]], [[siglare]]
+*[[evidenziare]], mettere in risalto, [[sottolineare]], [[calcare]]
+*''(mettere in risalto)''[[attenuare]], [[velare]]
+*''marcare visita''
+:* to [[label]]
+:* en [[stress]]
+M>marca</E
+M>marquer</E
+M>io marco</E
+M>tu marchi</E
+M>l’argenteria</E
+M>la biancheria</E
+M>i libri</E
+M>le pecore</E
+M>i pesi</E
+M>le misure</E
+M>Ci rinveniamo a m</E
+M>la terra Con questo corpo Che ora troppo ci pesa</E
+M>la forza di Cesare marcò dell’impronta di Roma</E
+M>la fusione degli elementi liguri</E
+M>iberi</E
+M>umbri</E
+M>un goal</E
+M>segnare un goal</E
+M>su rigore</E
+M>i punti</E
+M>i tempi</E
+M>visita</E
+M>marcatura</E
+M>le linee di un disegno</E
+M>i contorni</E
+M>la voce</E
+M>le forme</E
+M>i colori</E
+M>a uomo</E
+M>a zona</E
+M>giocatore che ha il compito di m</E
+M>il centravanti</E

@@ -1,0 +1,54 @@
+geografia.txt
+"geografia"
+"geografia"
+"geografia astronomica"
+"geografia del territorio"
+"geografia economica"
+"geografia fisica"
+"geografia politica"
+"geografia umana"
+"geografia vegetale"
+#*'''geografia astronomica'''
+*[[geopolitica]], [[geoeconomia]]
+*italiano
+*spagnolo
+M>geograph</E
+M>regionale</E
+M>corografia</E
+M>generale</E
+M>fisica</E
+M>geomorfologia</E
+M>idrografia</E
+M>climatologia</E
+M>biologica</E
+M>fitogeografia</E
+M>zoogeografia</E
+M>umana</E
+M>antropogeografia</E
+M>della popolazione</E
+M>delle sedi</E
+M>urbana</E
+M>politica</E
+M>culturale</E
+M>delle religioni</E
+M>del turismo</E
+M>sociale</E
+M>economica</E
+M>agraria</E
+M>commerciale</E
+M>industriale</E
+M>dei trasporti e delle vie di comunicazione</E
+M>applicata</E
+M>nuova g</E
+M>quantitativa</E
+M>cattedra di g</E
+M>insegnare</E
+M>studiare la g</E
+M>testo di g</E
+M>per le scuole medie</E
+M>conoscere</E
+M>non conoscere la g</E
+M>linguistica</E
+M>geolinguistica</E
+M>la g</E
+M>elettorale del paese è notevolmente cambiata negli ultimi anni</E

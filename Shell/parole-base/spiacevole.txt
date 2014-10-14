@@ -1,0 +1,26 @@
+spiacevole.txt
+"accettare o dimenticare qcs. di spiacevole"
+"evitare qcs. di spiacevole"
+"fare qcs. di spiacevole che si era promesso"
+"fare qcs. di spiacevole che si era promesso"
+"in una situazione spiacevole"
+"preparare qn a (qc di spiacevole)"
+"spiacevole"
+"spiacevole"
+"spiacevole individuo"
+*[[sgradito]], [[sgradevole]], [[fastidioso]], [[increscioso]], [[antipatico]], [[seccante]], [[molesto]], [[odioso]], [[insopportabile]], [[duro]], [[amaro]], [[gravoso]], [[urtante]]
+*[[gradito]], [[simpatico]], [[piacente]]
+M>notizie s.</E
+M>una sorpresa s.</E
+M>un caso</E
+M>un incidente</E
+M>un equivoco s.</E
+M>una compagnia s.</E
+M>un incarico</E
+M>un compito spiacevole</E
+M>Margherita</E
+M> bella tra tutte l&#8217;altre</E
+M> ... ma sopra ogni altra bizzarra</E
+M> s. e ritrosa</E
+M>una situazione spiacevolmente imbarazzante</E
+M>questa notizia mi ha spiacevolmente sorpreso</E

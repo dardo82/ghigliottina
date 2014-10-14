@@ -1,0 +1,38 @@
+abbondante.txt
+"abbondante"
+"abbondante"
+"abbondante"
+"friggendo in olio abbondante"
+"friggere in abbondante olio"
+"friggere in olio abbondante"
+"fritto in olio abbondante"
+"grasso abbondante per fritti"
+"pasto abbondante"
+"pasto abbondante"
+"raccolto eccezionalmente abbondante"
+*[[copioso]], [[esuberante]], [[nutrito]], [[generoso]], [[lauto]], [[ampio]]
+*[[largo]], [[traboccante]], [[esorbitante]]
+*[[ricco]], [[dovizioso]], ben fornito, [[pieno]], [[ridondante]]
+*[[scarso]], [[insufficiente]], [[mancante]], [[povero]]
+*[[imitato]], [[misurato]], [[moderato]]
+*[[esiguo]]
+*[[sovrabbondante]]
+* [[abondante]]
+M>abbondare</E
+M>scarso</E
+M>un raccolto a</E
+M>porzione a</E
+M>Oh a</E
+M>grazia ond’io presunsi Ficcar lo viso per la luce etterna</E
+M>il peso è a</E
+M>assegnare un voto un po’ a</E
+M>una giacca piuttosto a</E
+M>una signora a</E
+M>di forme</E
+M>magazzini a</E
+M>di viveri</E
+M>nazione a</E
+M>di vivaci ingegni</E
+M>In un piano fruttifero e abondante</E
+M>è stato abbondantemente compensato</E
+M>una dispensa abbondantemente fornita</E

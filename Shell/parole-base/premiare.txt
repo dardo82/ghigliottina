@@ -1,0 +1,28 @@
+premiare.txt
+"premiare"
+M>praemiare</E
+M>praemium</E
+M>io prèmio</E
+M>gli atleti vincitori delle gare</E
+M>con la medaglia d&#8217;oro</E
+M>con una coppa</E
+M>la squadra vincitrice del campionato</E
+M>gli scolari migliori con un viaggio in Grecia</E
+M>gli scrittori</E
+M>gli artisti</E
+M>i libri</E
+M>le opere</E
+M>i quadri</E
+M>che hanno vinto il concorso</E
+M>p. un film per la sceneggiatura</E
+M>per la regia</E
+M>il cavallo vincente</E
+M>il valore</E
+M>il coraggio di qualcuno</E
+M>qualcuno per il suo valore</E
+M>per il coraggio dimostrato</E
+M>i meriti</E
+M>l&#8217;onestà</E
+M>la fedeltà di qualcuno</E
+M>ci consola la speranza che i buoni saranno premiati nell&#8217;altra vita</E
+M>ha dovuto attendere molto ma alla fine la sua attesa è stata premiata</E

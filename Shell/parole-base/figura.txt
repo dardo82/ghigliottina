@@ -1,0 +1,213 @@
+figura.txt
+"a figura intera"
+"a tutta figura (riferito a ritratto)"
+"brutta figura"
+"che figura ci faccio?"
+"dalla figura nera"
+"essere una figura di secondo piano"
+"far fare una figura di merda"
+"fare bella figura"
+"fare brutta figura"
+"fare brutta figura"
+"fare una brutta figura"
+"fare una figura di merda"
+"fare una porca figura"
+"figura"
+"figura"
+"figura"
+"figura"
+"figura"
+"figura"
+"figura"
+"figura"
+"figura d'interferenza"
+"figura di danza"
+"figura di merda"
+"figura dominante"
+"figura geometrica"
+"figura leggendaria"
+"figura materna"
+"figura paterna"
+"figura piana"
+"figura professionale"
+"figura pubblica"
+"figura retorica"
+"foto a figura intera"
+"il quadro, la figura, l'immagine"
+"oggi in figura domani sepoltura"
+"vatti a nascondere (dopo una brutta figura)"
+#*figure araldiche (partizioni, pezze onorevoli, pezze ordinarie)
+#*figure naturali (animali, piante, astri, elementi della natura)
+#*figure artificiali (oggetti creati dall'uomo)
+#*figure chimeriche o fantastiche (esseri creati dall'immaginazione umana ma non esistenti in natura)
+* [[sagoma]], [[forma]], [[aspetto]], [[configurazione]]
+*''(di una persona)'' [[corpo]], [[aspetto]], [[conformazione]], [[corporatura]], [[fattezze]], [[fisico]] 
+* [[immagine]], [[illustrazione]], [[disegno]], [[effigie]] 
+* [[apparenza]], [[mostra]]
+*[[controfigura]]
+*italiano
+*occitano
+* spagnolo
+* portoghese
+* napoletano
+m>figura</e
+m>fing</e
+m>lo circulo che ha f</e
+m>d&rsquo;uovo</e
+m>prender corso e f</e
+m>di fiume</e
+m>un monumento in f</e
+m>di piramide</e
+m>un attore in f</e
+m>di centauro</e
+m>una bizzarra f</e
+m>cambiare</e
+m>conservare</e
+m>perdere la propria figura</e
+m>ogni f</e
+m>d&rsquo;uomo che vi apparisse</e
+m>rattristava lo sguardo e il pensiero</e
+m>una f</e
+m>snella</e
+m>tozza</e
+m>goffa</e
+m>è una bella f</e
+m>d&rsquo;uomo</e
+m>con la f</e
+m>che ha si direbbe un montanaro</e
+m>una cara</e
+m>mesta</e
+m>dolce</e
+m>simpatica f</e
+m>la sinistra f</e
+m>di quel gaglioffo</e
+m>figure</e
+m>figura</e
+m>destra</e
+m>sinistra</e
+m>mettere in f</e
+m>piana</e
+m>solida</e
+m>uguali</e
+m>simili</e
+m>simmetriche</e
+m>di diffrazione</e
+m>d&rsquo;interferenza</e
+m>asse di f</e
+m>asse di precessione</e
+m>libro con molte f</e
+m>nel testo</e
+m>tavole</e
+m>figure a colori</e
+m>figure in legno</e
+m>in rame</e
+m>in marmo</e
+m>in gesso</e
+m>in terracotta</e
+m>in litografia</e
+m>la f</e
+m>rappresenta un banchetto</e
+m>una battaglia</e
+m>un santo</e
+m>araldiche</e
+m>naturali</e
+m>artificiali</e
+m>chimeriche</e
+m>mezze f</e
+m>al naturale</e
+m>mezza f</e
+m>mezza f</e
+m>terzine</e
+m>paesaggio con figure</e
+m>invertibili</e
+m>reversibili</e
+m>impossibili</e
+m>una f</e
+m>mitica</e
+m>quasi leggendaria</e
+m>una f</e
+m>di primo piano del Risorgimento italiano</e
+m>la f</e
+m>di don Abbondio nei Promessi Sposi</e
+m>punto figura</e
+m>punto stuoia</e
+m>obbligatorie</e
+m>libere</e
+m>acrobatica</e
+m>acrobazia</e
+m>breve</e
+m>semibreve</e
+m>minima</e
+m>semiminima</e
+m>croma</e
+m>semicroma</e
+m>biscroma</e
+m>semibiscroma</e
+m>specie</e
+m>tipo</e
+m>norma che contempla varie f</e
+m>di reato</e
+m>la f</e
+m>del docente nella scuola media superiore</e
+m>la f</e
+m>dell&rsquo;operatore culturale nella società d&rsquo;oggi</e
+m>col formarsi delle prime compagnie d&rsquo;attori nasce anche la f</e
+m>dell&rsquo;impresario teatrale</e
+m>il serpente è tradizionalmente f</e
+m>del demonio</e
+m>la colomba è f</e
+m>dello Spirito Santo</e
+m>in Dante</e
+m>il veltro è f</e
+m>di discussa interpretazione</e
+m>figura</e
+m>retorica</e
+m>di parola</e
+m>di concetto</e
+m>di pensiero</e
+m>grammaticali</e
+m>di costrutto</e
+m>etimologica</e
+m>ci sta per f</e
+m>e non per altro</e
+m>mettersi un fiore all&rsquo;occhiello per f</e
+m>di figura</e
+m>un vestito</e
+m>un arredamento</e
+m>un soprammobile</e
+m>una decorazione di f</e
+m>fare figura</e
+m>fare la propria f</e
+m>una signora che</e
+m>in società</e
+m>fa la propria f</e
+m>una pelliccia non più nuovissima</e
+m>ma che fa ancora la propria</e
+m>la sua</e
+m>fare buona</e
+m>bella f</e
+m>fare brutta</e
+m>cattiva f</e
+m>una f</e
+m>barbina</e
+m>una magra f</e
+m>una f</e
+m>veramente penosa</e
+m>fare la f</e
+m>fare la f</e
+m>dello sciocco</e
+m>dell&rsquo;imbecille</e
+m>dell&rsquo;avaro</e
+m>del pitocco</e
+m>hai fatto la f</e
+m>del bifolco!</e
+m>che figura!</e
+m>una f</e
+m>che non vi dico!</e
+m>ti lascio immaginare la f</e
+m>che ha fatto</e
+m>bella f</e
+m>hai fatto proprio una bella figura!</e
+m>hai fatto una figurona</e
+m>un figurone</e
+m>fece una figuraccia da vergognarsene</e

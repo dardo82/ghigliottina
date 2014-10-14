@@ -1,0 +1,111 @@
+liberare.txt
+"fare spazio, liberare spazio"
+"gentile ospite le ricordiamo di liberare la camera"
+"liberare"
+"liberare"
+"liberare"
+"liberare"
+"liberare"
+"liberare, replace: liberarsi"
+"liberare da"
+"liberare da"
+"liberare dalla congestione del traffico"
+"liberare la fantasia"
+"liberare la propria creatività"
+"liberare la strada"
+"liberare qc da un obbligo"
+"liberare qualcuno da una promessa"
+"liberare qualcuno di qualcosa"
+"liberare qualcuno di un peso"
+"liberare scavando"
+"liberare su cauzione"
+"liberare, lasciare libero"
+*[[rilasciare]],  [[lasciare]] [[libero]], [[sgomberare]]
+*[[liberarsi]], [[liberativo]], [[liberatore]], [[liberazione]], [[libero]] 
+M>liberare</E
+M>liber</E
+M>io lìbero</E
+M>gli schiavi</E
+M>un prigioniero</E
+M>il paese dai nemici</E
+M>un sequestrato dalle mani dei banditi</E
+M>il popolo dalla schiavitù</E
+M>dall’oppressione</E
+M>dalla tirannide</E
+M>l’uccellino dalla gabbia</E
+M>Cristo liberò le anime dei patriarchi dal limbo</E
+M>un appartamento</E
+M>la stanza</E
+M>l’animo dal timore</E
+M>la mente dall’errore</E
+M>dai pregiudizî</E
+M>i popoli dalla paura</E
+M>la città dal contagio</E
+M>un paese dalla fame</E
+M>da una malattia</E
+M>da una condanna</E
+M>da fastidî</E
+M>dai debiti</E
+M>in due modi si può l</E
+M>uno dal male</E
+M>o con cavarnelo quando v’è egli caduto</E
+M>o con preservarnelo</E
+M>Dio ci liberi da certa gente!</E
+M>Dio ne scampi e liberi!</E
+M>Dio liberi!</E
+M>dovesse andar male</E
+M>siamo tutti rovinati</E
+M>il prigioniero dai ceppi</E
+M>il cane dal guinzaglio</E
+M>l’asino dalla cavezza</E
+M>la mano dalla stretta</E
+M>da un vincolo</E
+M>da un’obbligazione</E
+M>da un impegno</E
+M>dalla parola data</E
+M>da una spesa</E
+M>dal pagamento di un’imposta</E
+M>liberarsi da una soggezione</E
+M>dalle catene</E
+M>da una incomoda posizione</E
+M>da un pericolo</E
+M>liberarsi da un grave difetto</E
+M>dalla superstizione</E
+M>dal rimorso</E
+M>non vedo l’ora di liberarmi da questo incarico</E
+M>liberarsi dagli avversarî</E
+M>liberarsi degli avversarî</E
+M>liberarsi di qualcuno</E
+M>finalmente mi son liberato di quel seccatore!</E
+M>liberarsi di un peso</E
+M>di un impaccio</E
+M>liberarsi degli abiti</E
+M>il campo dalle erbacce</E
+M>la casa dai topi</E
+M>seguì una notte di tiepida pioggia che liberò la primavera</E
+M>una ruota</E
+M>l’intestino</E
+M>lo stomaco</E
+M>liberarsi</E
+M>l’ancora</E
+M>una catena</E
+M>un cavo</E
+M>da un sequestro</E
+M>la casa da un’ipoteca</E
+M>un fondo dalla servitù</E
+M>una stanza</E
+M>un appartamento</E
+M>questo corridoio libera tutti i vani dell’appartamento</E
+M>un’azione</E
+M>un titolo di credito</E
+M>interamente liberati</E
+M>uno scritto alle stampe</E
+M>la reazione ha liberato ossigeno</E
+M>nella reazione si libera ossigeno</E
+M>energia</E
+M>fattore liberante</E
+M>fattore di liberazione</E
+M>releasing factor</E
+M>essere</E
+M>sentirsi liberato</E
+M>prigionieri liberati</E

@@ -1,0 +1,145 @@
+leggere.txt
+"armi leggere"
+"farsi leggere il futuro"
+"il leggere"
+"leggere"
+"leggere"
+"leggere"
+"leggere"
+"leggere"
+"leggere"
+"leggere a mente"
+"leggere ad alta voce"
+"leggere con attenzione"
+"leggere dentro un'immagine"
+"leggere e rileggere"
+"leggere facilmente"
+"leggere fino alla fine"
+"leggere gratuitamente"
+"leggere i dati"
+"leggere in controluce"
+"leggere in modo sbagliato"
+"leggere le foglie di tè"
+"leggere nel pensiero..."
+"leggere per errori"
+"leggere sul volto"
+"leggere tra le righe"
+"leggere un copione"
+"leggere; studiare"
+"leggere; studiare; piacere"
+"per non saper né leggere né scrivere"
+#*'''''Ho letto''' in una pubblicità che al supermercato facevano gli sconti.''
+#*''Gli '''ho letto''' negli occhi tristezza e malinconia.''
+*''(con poco impegno)'' [[leggiucchiare]], [[dare]] [[una]] [[scorsa]] 
+* [[decifrare]], [[dedicarsi alla lettura]]
+* [[intuire]], [[scoprire]]
+*[[rileggere]]
+*[[lettura]], [[libro]], [[lettore]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1141
+M>io lèggo</E
+M>tu lèggi</E
+M>lèssi</E
+M>leggésti</E
+M>lètto</E
+M>imparare</E
+M>insegnare a l</E
+M>non sa ancora l</E
+M>e scrivere</E
+M>un manoscritto antico</E
+M>in silenzio</E
+M>a bassa voce</E
+M>a voce alta</E
+M>forte</E
+M>piano</E
+M>adagio</E
+M>in fretta</E
+M>leggimi qualcosa</E
+M>non leggere così in fretta</E
+M>tu leggi molto male</E
+M>speditamente</E
+M>stentatamente</E
+M>con sentimento</E
+M>scrittura difficile a leggersi</E
+M>s’è fatto buio e non riesco più a l</E
+M>dare per letto</E
+M>io non ci leggo nulla</E
+M>che ci leggi tu qui?</E
+M>tra le righe</E
+M>chi non sa l</E
+M>la sua scrittura è un asino di</E
+M>per</E
+M>natura</E
+M>i ciechi leggono con le dita</E
+M>un libro</E
+M>una lettera</E
+M>una poesia</E
+M>il giornale</E
+M>è un romanzo piacevole a leggersi</E
+M>una lingua</E
+M>legge correntemente il tedesco</E
+M>Dante</E
+M>Manzoni</E
+M>Omero nell’originale</E
+M>è uno scrittore molto letto</E
+M>si fa l</E
+M>si lascia leggere</E
+M>ho avuto finalmente il piacere di leggerti</E
+M>ho il piacere di leggervi</E
+M>al piacere di leggervi</E
+M>au plaisir de vous lire</E
+M>per svago</E
+M>per istruzione</E
+M>per ammazzare il tempo</E
+M>mi piace l</E
+M>la sera leggo sempre prima di addormentarmi</E
+M>è una persona che ha letto molto</E
+M>ho letto nel giornale che il concerto è stato rinviato</E
+M>hai letto del nuovo sistema di tassazione?</E
+M>Quando leggemmo il disïato riso Esser basciato da cotanto amante</E
+M>si legge</E
+M>di lui si legge che aveva una prodigiosa memoria</E
+M>Ell’è Semiramìs</E
+M>di cui si legge Che succedette a Nino e fu sua sposa</E
+M>alcuni commentatori leggono erroneamente questo verso</E
+M>il codice laurenziano legge questo passo diversamente dal codice vaticano</E
+M>Maestro Taddeo leggendo a’ suoi scolari in medicina</E
+M>trovò che</E
+M>Novellino</E
+M>a Genova ancora sono invitato a legger l’etica e la poetica d’Aristotele</E
+M>nel libro del futuro</E
+M>nel futuro</E
+M>nel libro del destino</E
+M>le carte</E
+M>la mano</E
+M>la vita a qualcuno</E
+M>ti leggo negli occhi la bugia</E
+M>gli si leggeva nel viso la gioia</E
+M>la paura</E
+M>l’invidia</E
+M>leggersi in viso</E
+M>negli occhi</E
+M>in fronte</E
+M>negli atti d’alegrezza spenti Di fuor si legge com’io dentro avampi</E
+M>Se a ciascun l’interno affanno Si leggesse in fronte scritto</E
+M>nel cuore</E
+M>nell’anima</E
+M>nella coscienza di qualcuno</E
+M>il pensiero</E
+M>i numeri romani</E
+M>i numeri arabi</E
+M>una formula chimica</E
+M>la musica</E
+M>non ha ancora imparato a l</E
+M>la musica</E
+M>debbo l</E
+M>non so eseguire a memoria</E
+M>a prima vista</E
+M>una carta geografica</E
+M>topografica</E
+M>un disegno tecnico</E
+M>un quadro</E
+M>un diagramma</E
+M>una radiografia</E
+M>uno strumento di misura</E
+M>i suoni</E
+M>registrare</E

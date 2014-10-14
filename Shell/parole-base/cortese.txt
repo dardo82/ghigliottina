@@ -1,0 +1,52 @@
+cortese.txt
+"Alla cortese attenzione"
+"alla cortese attenzione di"
+"amore cortese"
+"ben educato, cortese"
+"cortese"
+"cortese"
+"cortese"
+"Cortese"
+"cortese signora"
+"inviare qualcosa alla cortese attenzione di"
+*[[garbato]], [[educato]], [[gentile]], [[cordiale]], [[squisito]], [[premuroso]], [[disponibile]], [[attento]], [[affabile]], [[rispettoso]], [[ossequioso]]
+*[[cavalleresco]], [[nobile]], [[galante]], [[cerimonioso]]
+*[[sgarbato]], [[maleducato]], [[scortese]], [[sgradevole]], [[villano]], [[insolente]]
+*[[cortesemente]]
+M>corte</E
+M>cortes</E
+M>corteis</E
+M>courtois</E
+M>non meno era di c</E
+M>costumi che di bellezze ornata</E
+M>Poesia c</E
+M>amor c</E
+M>Armi c</E
+M>combattimento</E
+M>polemica ad armi cortesi</E
+M>persona molto c</E
+M>è c</E
+M>con tutti</E
+M>sei stato poco c</E
+M>verso di lui</E
+M>parole</E
+M>modi c</E
+M>un’accoglienza c</E
+M>un c</E
+M>invito</E
+M>si prega di rispondere con c</E
+M>sollecitudine</E
+M>essere c</E
+M>di consiglio</E
+M>d’aiuto</E
+M>l’urna del vecchio Cui già di calma era c</E
+M>e d’ombre</E
+M>Natura</E
+M>un giorno oh quanto Verso me più c</E
+M>vestimento c</E
+M>nella sua scollatura</E
+M>di Liguria</E
+M>domandare</E
+M>rispondere</E
+M>trattare cortesemente</E
+M>lo pregò cortesemente di andarsene</E

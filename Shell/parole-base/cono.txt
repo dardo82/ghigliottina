@@ -1,0 +1,50 @@
+cono.txt
+"cono"
+"cono"
+"cono"
+"cono di ceneri"
+"cono di silenzio"
+"cono gelato"
+"di cono (gelato)"
+"ingranaggio a cono"
+#*''il volume del 
+#*''
+*''(forma geometrica)''[[conico]]
+M>conus</E
+M>Tronco di c</E
+M>indefinito</E
+M>asse</E
+M>vertice del c</E
+M>finito</E
+M>cono</E
+M>cappello a c</E
+M>gelato</E
+M>cono</E
+M>dell’altoparlante</E
+M>vegetativo</E
+M>apice vegetativo</E
+M>gemmario</E
+M>d’àncora</E
+M>arterioso</E
+M>durale</E
+M>faringeo</E
+M>timpanico</E
+M>midollare</E
+M>retinici</E
+M>bastoncelli</E
+M>vulcanico</E
+M>di ceneri</E
+M>di scorie</E
+M>di pomici</E
+M>avventizio</E
+M>conoide di deiezione</E
+M>d’ombra</E
+M>di dispersione</E
+M>rosa di tiro</E
+M>di ritiro</E
+M>di pulegge</E
+M>di frizione</E
+M>d’utensile</E
+M>a smeriglio</E
+M>Conus</E
+M>Conus mediterraneus</E

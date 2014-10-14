@@ -1,0 +1,20 @@
+shampoo.txt
+"shampoo"
+"shampoo"
+"shampoo"
+"il lavare la testa con lo shampoo"
+"shampoo"
+M>shampoo</E
+M>ämpùu</E
+M>shampoo</E
+M>mpn</E
+M>àmpo</E
+M>sciampo</E
+M>shampooing</E
+M>fare</E
+M>farsi</E
+M>farsi fare uno shampoo</E
+M>Sh. liquido</E
+M> in gel</E
+M> sh. in polvere</E
+M>sh. secco</E

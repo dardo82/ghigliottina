@@ -1,0 +1,20 @@
+scoraggiare.txt
+"scoraggiare"
+"scoraggiare"
+"scoraggiare, replace: scoraggiarsi"
+"scoraggiare qualcuno"
+"scoraggiare qualcuno"
+*[[sconfortare]], [[scorare]], [[abbattere]], [[fiaccare]], [[deprimere]], [[demoralizzare]], [[sgomentare]], [[avvilire]], [[umiliare]], [[addolorare]], [[angosciare]], [[affliggere]], [[prostrare]], [[costernare]]
+* [[demoralizzare]]
+*(togliere il coraggio) [[disanimare]]
+*[[scoraggiarsi]]
+M>coraggio</E
+M>io scoràggio</E
+M>tutte queste contrarietà hanno finito per scoraggiarmi</E
+M>l&#8217;esito negativo dell&#8217;esame lo ha molto scoraggiato</E
+M>non devi scoraggiarti</E
+M>è uno che non si scoraggia facilmente</E
+M>il cambiamento di regime scoraggia qualsiasi investimento in quei paesi</E
+M>ha ottenuto dei risultati scoraggianti</E
+M>è scoraggiante assistere a questo diffondersi della violenza</E
+M>si sentiva stanco e scoraggiato</E

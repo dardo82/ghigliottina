@@ -1,0 +1,15 @@
+aiuola.txt
+"aiuola"
+#* ''Ma questa umile '''aiuola''' ove si piange e s' odia ... t' era in dispetto'' (Carducci)
+*[[aiola]]
+*[[aioletta]]
+m>are</e
+m>area</e
+m>all&rsquo;italiana</e
+m>alla francese</e
+m>all&rsquo;inglese</e
+m>L&rsquo;aiuola che ci fa tanto feroci</e
+m>Tutta m&rsquo;apparve da&rsquo; colli alle foci</e
+m>Ma questa umile aiuola Ove si piange e s&rsquo;odia</e
+m>T&rsquo;era in dispetto</e
+m>aiolétta</e

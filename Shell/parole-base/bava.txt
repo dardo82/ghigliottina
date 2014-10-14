@@ -1,0 +1,19 @@
+bava.txt
+"avere la bava alla bocca"
+"avere la bava alla bocca, avere la schiuma alla bocca"
+"bava"
+"bava"
+"bava di vento"
+"bava di vento"
+*[[imbavare]], [[sbavare]] [[sbavatura]] [[bavoso]]
+M>*baba</E
+M>fare la b</E
+M>avere la b</E
+M>alla bocca</E
+M>far venire la b</E
+M>con la b</E
+M>alla bocca</E
+M>avere</E
+M>far venire le b</E
+M>alla bocca</E
+M>di vento</E

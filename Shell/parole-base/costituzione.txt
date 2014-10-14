@@ -1,0 +1,61 @@
+costituzione.txt
+"costituzione"
+"costituzione"
+"costituzione"
+"costituzione"
+"costituzione in mora"
+"costituzione in sindacato"
+"costituzione scritta"
+"padre della costituzione"
+*[[composizione]], [[struttura]],  [[fondazione]], [[creazione]]
+*[[costituente]], [[costituire]], [[costituito]],[[costitutivo]],[[costituzionale]], [[costituzionalismo]]
+M>constitutio</E
+M>onis</E
+M>constitu</E
+M>la c</E
+M>di una società</E
+M>di una cooperativa</E
+M>di uno stato</E
+M>di un governo</E
+M>d’un ordine religioso</E
+M>modificare la c</E
+M>di una giuria</E
+M>di un consiglio d’amministrazione</E
+M>dal principio de la c</E
+M>di Roma</E
+M>della dote</E
+M>di una rendita</E
+M>la c</E
+M>dei pianeti</E
+M>dell’organismo animale</E
+M>delle piante</E
+M>geologica</E
+M>morfologica</E
+M>tettonica</E
+M>formula di c</E
+M>di struttura</E
+M>persona di sana</E
+M>robusta</E
+M>forte</E
+M>debole</E
+M>gracile c</E
+M>sto bene</E
+M>quanto permette la natura della mia c</E
+M>rigide</E
+M>flessibili</E
+M>carta</E
+M>statuto</E
+M>emanare</E
+M>osservare</E
+M>violare</E
+M>tradire la costituzione</E
+M>imperiali</E
+M> regie</E
+M>i decreti e le c</E
+M>del concilio di Trento</E
+M>apostoliche</E
+M>pontificie</E
+M>religiose</E
+M>in giudizio</E
+M>la c</E
+M>di un ricercato</E

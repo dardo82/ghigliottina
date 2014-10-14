@@ -1,0 +1,10 @@
+termosifone.txt
+"riscaldamento da termosifone"
+"termosifone"
+M>thermosiphon</E
+M>thermo-</E
+M>siphon</E
+M>appartamento con t.</E
+M>senza t.</E
+M>il t. della mia camera è freddo</E
+M>circolazione a t.</E

@@ -1,0 +1,31 @@
+imbottire.txt
+"imbottire"
+"imbottire"
+"imbottire"
+"imbottire"
+*[[riempire]], [[farcire]]
+*[[imbottirsi]], [[imbottito]], [[imbottitura]]
+M>botte</E
+M>io imbottisco</E
+M>tu imbottisci</E
+M>un cuscino</E
+M>un coltrone</E
+M>un materasso</E
+M>un panino</E
+M>il cervello</E
+M>di qualcuno</E
+M>a qualcuno</E
+M> con</E
+M> pregiudizî.</E
+M>imbottirsi</E
+M>bisogna imbottirsi prima di uscire nella neve</E
+M>imbottirsi di biscotti</E
+M> prima di partire si è imbottito di antibiotici</E
+M>imbottirsi la testa di nozioni inutili</E
+M>lui pensa solo a i</E
+M>il portafoglio</E
+M>sedia</E
+M>poltrona imbottita</E
+M>panino imbottito</E
+M>avere il portafoglio sempre bene imbottito</E
+M> essere imbottito</E

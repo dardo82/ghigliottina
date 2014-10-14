@@ -1,0 +1,31 @@
+attrezzatura.txt
+"attrezzatura"
+"attrezzatura artistica"
+"attrezzatura da pesca"
+"attrezzatura da snorkelling, attrezzatura subacquea"
+"attrezzatura di bordo"
+"attrezzatura di controllo"
+"attrezzatura di salvataggio"
+"attrezzatura di sicurezza"
+"attrezzatura fotografica"
+"attrezzatura meccanica"
+"attrezzatura militare"
+"attrezzatura sportiva"
+"dotare dell'attrezzatura"
+"dotato di attrezzatura"
+*[[attrezzare]]
+M>di un laboratorio</E
+M>di una nave</E
+M>l’a</E
+M>di una palestra</E
+M>di un teatro</E
+M>di un ospedale</E
+M>di un gabinetto dentistico</E
+M>professionale</E
+M>un’a</E
+M>completa</E
+M>rudimentale</E
+M>avere una buona a</E
+M>fotografica</E
+M>a nave</E
+M>a brigantino</E

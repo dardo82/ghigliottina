@@ -1,0 +1,23 @@
+avena.txt
+"avena"
+"avena selvatica"
+"biscotto d'avena"
+"dell'avena matta"
+"farina d'avena"
+"fiocchi d'avena"
+"fiocchi d'avena"
+M>Avena sativa</E
+M>biada</E
+M>farina d’a</E
+M>minestra d’a</E
+M>pappe d’a</E
+M>fiocchi d’avena</E
+M>altissima</E
+M>Arrhenatherum elatius</E
+M>bionda</E
+M>Trisetum flavescens</E
+M>un chiaro suon ch’a lei ne vien</E
+M>Che sembra ed è di pastorali accenti Misto e di boscareccie inculte a</E
+M>Non te</E
+M>Cadore</E
+M>io canto su l’arcade a.</E

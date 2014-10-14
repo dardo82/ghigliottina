@@ -1,0 +1,18 @@
+incantevole.txt
+"incantevole"
+*[[bellissimo]], [[affascinante]], [[stupendo]], [[piacevole]], [[ammirevole]], [[mirabile]], [[delizioso]], [[seducente]], [[magico]], [[ammaliante]], [[soave]]
+*[[magnifico]], [[meraviglioso]],  [[stupendo]], [[favoloso]], [[bello]]
+*[[brutto]], [[spiacevole]], [[orribile]], [[orrendo]], [[disgustoso]]
+*[[incantevolmente]]
+*[[incantare]]. [[incanto]]
+M>spettacolo</E
+M>luogo</E
+M>vista</E
+M>paesaggio i</E
+M>ha un sorriso i</E
+M>una creatura i</E
+M>una ragazza davvero incantevole</E
+M>sorridere</E
+M>parlare</E
+M>suonare</E
+M>danzare incantevolmente</E

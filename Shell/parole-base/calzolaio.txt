@@ -1,0 +1,6 @@
+calzolaio.txt
+"calzolaio"
+*[[ciabattino]]
+M>calceolarius</E
+M>calceus</E
+M>torace da calzolaio</E

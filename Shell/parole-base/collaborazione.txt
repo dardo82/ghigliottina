@@ -1,0 +1,30 @@
+collaborazione.txt
+"collaborazione"
+"collaborazione occasionale"
+"collaborazione professionale"
+"cooperazione, collaborazione"
+"grazie alla gentile collaborazione.."
+"grazie per la collaborazione"
+"in collaborazione"
+"in collaborazione"
+"in collaborazione con"
+"proficua collaborazione"
+*[[aiuto]], [[assistenza]], [[contributo]]
+*[[collaborativo]]
+m>assidua</e
+m>frequente c</e
+m>intelligente</e
+m>saggia</e
+m>modesta</e
+m>un giornale</e
+m>firmata</e
+m>anonima</e
+m>saltuaria</e
+m> occasionale</e
+m>prestare la propria c</e
+m>bene</e
+m>male retribuita</e
+m>spese di c</e
+m>contratto di collaborazione</e
+m>Non collaborazione</e
+m>triangolare</e

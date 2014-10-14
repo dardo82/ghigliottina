@@ -1,0 +1,57 @@
+tabella.txt
+"tabella"
+"tabella"
+"tabella"
+"tabella dei colori"
+"tabella del sonno"
+"tabella del volume"
+"tabella delle calorie"
+"tabella delle maree"
+"tabella di allenamento"
+"tabella di conversione"
+"tabella di marcia"
+"tabella salariale"
+#*''la 
+*[[specchietto]], [[specchio]], [[prospetto]], [[schema]], [[tavola]], [[quadro]], [[tabellone]]
+*[[indice]], [[elenco]], [[registro]], [[catalogo]], [[tariffario]]
+M>tabella</E
+M>tab</E
+M>t. cerate</E
+M>t. di defissione</E
+M>il nome delle strade</E
+M> un tempo</E
+M> era scritto su tabelle di legno</E
+M>accanto alla porta di ogni stanza c&#8217;è una t. con l&#8217;indicazione dell&#8217;ufficio</E
+M>affiggere l&#8217;ordine del giorno</E
+M> l&#8217;elenco degli ammessi al concorso</E
+M> la lista dei prezzi</E
+M>nell&#8217;apposita tabella.</E
+M>libro tabellare</E
+M>la t. con l&#8217;orario delle lezioni</E
+M>t. dei prezzi</E
+M>il giornale riporta una t. con le nuove aliquote</E
+M>nell&#8217;allegata t. A</E
+M>t. dei pesi e misure</E
+M>t. di conversione</E
+M>t. a doppia entrata</E
+M>matrice</E
+M>tabella di verità</E
+M>tavola di verità</E
+M>t. di marcia</E
+M>t. oraria</E
+M>essere in anticipo</E
+M> essere in ritardo rispetto alla t. di marcia</E
+M>Udienze di tabella</E
+M>tabella</E
+M>T. dei giorni liturgici</E
+M>t. di armamento</E
+M>di equipaggiamento</E
+M>di una nave</E
+M>t. normale</E
+M>t. di guerra</E
+M>t. di deviazione</E
+M>della bussola</E
+M>t. finlandese</E
+M>t. internazionale</E
+M>lo strepito delle t. che indicano l&#8217;ora nel silenzio del Venerdì Santo</E
+M>sonare le t. dietro a qualcuno</E

@@ -1,0 +1,34 @@
+materasso.txt
+"materasso"
+"materasso"
+"materasso di paglia"
+"materasso di piume"
+M>di lana</E
+M>di piuma</E
+M>di crine vegetale</E
+M>di crine animale</E
+M> in lattice</E
+M>a molle</E
+M>di gommapiuma</E
+M> ad acqua</E
+M> m. ortopedico</E
+M>alzare</E
+M>rivoltare</E
+M>sprimacciare</E
+M> battere il m</E
+M>rifare il m</E
+M>alternativo</E
+M>alternante</E
+M>pneumatici</E
+M>gonfiabili</E
+M>materassini</E
+M>servire di</E
+M>fare da m</E
+M>a qualcuno</E
+M>a qualche cosa</E
+M>squadra m.</E
+M>cuscino</E
+M>materassino da campo</E
+M>da campeggio</E
+M>materassino pneumatico</E
+M>da spiaggia</E

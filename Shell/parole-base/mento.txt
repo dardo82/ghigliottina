@@ -1,0 +1,54 @@
+mento.txt
+"dal mento nero"
+"doppio mento"
+"laccio del cappello che passa sotto il mento"
+"mento"
+#* ''mi sono tagliato il 
+*''(sostantivo)''dal [[latino]] ''[[mentum]]''
+* ''(voce verbale)''si veda [[mentire]]
+* [[doppio mento]]
+*italiano
+M>mentum</E
+M>punto mentoniero</E
+M>largo</E
+M>tondo</E
+M>aguzzo</E
+M>sporgente</E
+M>la fossetta del m</E
+M>l’ha colpito dritto sul m.</E
+M> un colpo solo</E
+M> un’esecuzione</E
+M> tra gli ululati selvaggi della platea</E
+M>volitivo</E
+M>doppio m</E
+M>ha appena pochi peli sul m</E
+M>l’onor del m</E
+M>stare col m</E
+M>appoggiato a una mano</E
+M>col m</E
+M>fra le mani</E
+M>stare col m</E
+M>in fuori</E
+M>col m</E
+M>in su</E
+M>levare alto il m</E
+M>il m</E
+M>del cavallo</E
+M>del cane</E
+M>il m</E
+M>peloso della capra</E
+M>Cerbero vostro</E
+M>se ben vi ricorda</E
+M>Ne porta ancor pelato il mento e ’l gozzo</E
+M>posizione m</E
+M>anteriore destra</E
+M>sinistra</E
+M>posizione m</E
+M>posteriore destra</E
+M>sinistra</E
+M>diametro m</E
+M>bregmatico</E
+M>diametro m</E
+M>frontale</E
+M>diametro m</E
+M>sopranasale</E

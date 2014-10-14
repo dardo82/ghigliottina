@@ -1,0 +1,109 @@
+cultura.txt
+"centro di cultura"
+"cultura"
+"cultura"
+"cultura"
+"cultura della bellezza"
+"cultura della droga"
+"cultura della seta"
+"cultura di massa"
+"cultura fisica"
+"cultura generale"
+"cultura letteraria"
+"cultura libresca"
+"cultura materiale"
+"cultura pop"
+"di cultura libresca"
+"farsi una cultura"
+"fenomeno di cultura"
+"i luoghi della cultura"
+"incivile e senza cultura"
+"senza cultura"
+"strumento di cultura"
+"test di cultura generale"
+"un po' di cultura"
+"uomo di cultura"
+#*''l'essere umano possiede anche la cultura, cioè il risultato di quello che possiamo chiamare evoluzione culturale, il retaggio che noi consegneremo ad altri uomini''
+*[[sapere]], [[conoscenza]], [[erudizione]], [[dottrina]], [[educazione]],  [[formazione]], [[civiltà]], [[civilizzazione]], [[costumi]], [[istruzione]], [[tradizioni]]
+*[[ignoranza]]
+*italiano
+* spagnolo
+M>cultura</E
+M>col</E
+M>cultus</E
+M>Kultur</E
+M>formarsi una c</E
+M>avere</E
+M>possedere una discreta c</E
+M>uomo di grande</E
+M>di media</E
+M>di scarsa c</E
+M>gli uomini di cultura</E
+M>l’alta c</E
+M>il mondo della c</E
+M>avere c</E
+M>letteraria</E
+M>musicale</E
+M>artistica</E
+M>possedere una ricca c</E
+M>storica</E
+M>filosofica</E
+M>classica</E
+M>formarsi</E
+M>avere una c</E
+M>generale</E
+M>ampliare la propria cultura</E
+M>diffondere la c</E
+M>nel popolo</E
+M>nelle masse</E
+M>di massa</E
+M>contadina</E
+M>urbana</E
+M>industriale</E
+M>la c</E
+M>scritta</E
+M>la c</E
+M>orale</E
+M>le due c</E
+M>la c</E
+M>italiana del Quattrocento</E
+M>la c</E
+M>illuministica</E
+M>dell’illuminismo</E
+M>la storia della c</E
+M>di un popolo</E
+M>primitive</E
+M>evolute</E
+M>la c</E
+M>delle popolazioni indigene dell’Australia</E
+M>la c</E
+M>degli Incas</E
+M>c. materiale</E
+M>c. della vita</E
+M>c. della morte</E
+M>c. del lavoro</E
+M>c. della povertà</E
+M>c. dell’assenteismo</E
+M>c. della pace</E
+M>della solidarietà</E
+M>dell’altruismo</E
+M>del dialogo</E
+M>c. del profitto</E
+M>della tangente</E
+M>della mafia</E
+M>c. ecologica</E
+M>ambientale</E
+M>c. del turismo</E
+M>c. di governo</E
+M>c. dell’accoglienza</E
+M>c. ideologica</E
+M>c. materiale</E
+M>c. comportamentale.</E
+M>coltura</E
+M>vestigi di cultura per la campagna</E
+M>partendosene per andare alle proprie abitazioni e culture i contadini</E
+M>fisica</E
+M>di religione gentile era</E
+M>e alla c</E
+M>degli idoli massimamente dato</E
+M>coltura</E

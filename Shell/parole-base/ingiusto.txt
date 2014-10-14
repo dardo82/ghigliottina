@@ -1,0 +1,50 @@
+ingiusto.txt
+"essere ingiusto"
+"ingiusto"
+"ingiusto"
+"ingiusto rispetto"
+"trattamento ingiusto"
+*(1) [[scorretto]], [[sbagliato]]
+*(2) [[ingiustificato]], [[immeritato]]
+*(3) [[iniquo]], non equo
+*[[giusto]]
+*[[ingiustamente]]
+*[[ingiustizia]]
+M>iniustus</E
+M>iustus</E
+M>un giudice</E
+M>un arbitro i</E
+M>un tiranno i</E
+M>e crudele</E
+M>un sistema fiscale i</E
+M>un padre i</E
+M>con i figli</E
+M>un insegnante i</E
+M>con gli alunni</E
+M>L’animo mio</E
+M>Ingiusto fece me contra me giusto</E
+M>sei i</E
+M>se pensi così di lui</E
+M>non essere i</E
+M>il destino è stato i</E
+M>con me</E
+M>soffrire per una sorte ingiusta</E
+M>alla fine</E
+M>i giusti saranno premiati e gli ingiusti puniti</E
+M>una sentenza</E
+M>una condanna i</E
+M>un’i</E
+M>discriminazione</E
+M>un provvedimento i</E
+M>un rimprovero i</E
+M>un sospetto i</E
+M>una i</E
+M>punizione</E
+M>sono i</E
+M>lagnanze</E
+M>essere capaci di distinguere il giusto dall’ingiusto</E
+M>sono stato trattato ingiustamente</E
+M>giudicare</E
+M>sentenziare ingiustamente</E
+M>essere ingiustamente accusato</E
+M>punito</E

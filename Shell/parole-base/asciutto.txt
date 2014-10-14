@@ -1,0 +1,70 @@
+asciutto.txt
+"a pennello asciutto"
+"asciutto"
+"asciutto"
+"asciutto"
+"asciutto"
+"asciutto"
+"luogo asciutto"
+"asciutto come polvere"
+"asciutto come polvere"
+"essere asciutto"
+"immagazzinamento all'asciutto"
+"letto asciutto"
+*[[prosciugato]], [[asciugato]], [[secco]], [[arido]], [[inaridito]], [[riarso]]
+*''(prosciugato)'' [[bagnato]], [[umido]], [[grondante]], [[inondato]], [[madido]]
+M>exsuctus</E
+M>exs</E
+M>umido</E
+M>bagnato</E
+M>terreno</E
+M>luogo a</E
+M>coltivazione a</E
+M>irrigua</E
+M>clima a</E
+M>tempo a</E
+M>vento a</E
+M>marzo a</E
+M>e april bagnato</E
+M>beato il villan che ha seminato</E
+M>parto a</E
+M>pasta a</E
+M>pastasciutta</E
+M>paste asciutte</E
+M>i panni sono già asciutti</E
+M>lasciare il fiasco a</E
+M>a occhi a</E
+M>a ciglio a</E
+M>a viso a</E
+M>a piedi a</E
+M>Passava Stige con le piante a</E
+M>a bocca a.</E
+M>a denti a</E
+M>avere</E
+M>sentirsi la bocca a</E
+M>la gola a</E
+M>secca</E
+M>restare a bocca a</E
+M>mangiare asciutto</E
+M>pane a</E
+M>vino a</E
+M>pastoso</E
+M>uomo a</E
+M>tipo a</E
+M>cercate di quel dottore alto</E
+M>pelato</E
+M>balia a</E
+M>essere a</E
+M>di quattrini</E
+M>aver le tasche a</E
+M>gli rispose con un no a</E
+M>mi ha risposto asciutto</E
+M>asciutto asciutto</E
+M>è una persona di modi a</E
+M>una persona a</E
+M>camminare sull’a</E
+M>sono piante che vogliono l’a</E
+M>essere</E
+M>restare</E
+M>rimanere all’a</E
+M>mi rispose molto asciuttamente</E

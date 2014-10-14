@@ -1,0 +1,42 @@
+mendicare.txt
+"mendicare"
+"mendicare"
+#*''mendicava qualche spicciolo''
+#* ''mendico un po' di affetto''
+#* ''l'hanno costretto a mendicare''
+M>mend</E
+M>care</E
+M>mend</E
+M>cus</E
+M>io méndico</E
+M>tu méndichi</E
+M>io mendìco</E
+M>avere</E
+M>andare mendicando</E
+M>essere costretto a m</E
+M>per vivere</E
+M>povera gente che si vergognava di m</E
+M>per le parti quasi tutte a le quali questa lingua si stende</E
+M>peregrino</E
+M>quasi mendicando</E
+M>sono andato</E
+M>il pane</E
+M>la vita</E
+M>Mendicando sua vita a frusto a frusto</E
+M>è duro essere costretti per la prima volta a m. la vita</E
+M>un incarico</E
+M>una promozione</E
+M>lodi</E
+M>favori</E
+M>riconoscimenti</E
+M>benemerenze</E
+M>aiuti materiali</E
+M>morali</E
+M>un po’ d’amore</E
+M>un sorriso</E
+M>uno sguardo</E
+M>un po’ di conforto</E
+M>una parola gentile</E
+M>un pretesto</E
+M>magre scuse</E
+M>giustificazioni</E

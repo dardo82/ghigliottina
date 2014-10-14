@@ -1,0 +1,50 @@
+pareggiare.txt
+"pareggiare"
+"pareggiare"
+"pareggiare"
+"pareggiare"
+"pareggiare"
+"pareggiare, replace: pareggiarsi"
+"pareggiare, replace: pareggiarsi"
+"pareggiare i conti"
+"pareggiare i conti con qcn."
+"pareggiare i conti con qcn."
+"pareggiare il punteggio"
+"pareggiare zero a zero"
+"pareggiare; ripagare qcn. con la stessa moneta"
+"uguagliare, uniformare, pareggiare"
+*[[uguagliare]]
+*[[pareggiarsi]]
+M>io paréggio</E
+M>un terreno</E
+M>le erbe del prato</E
+M>le gambe di una sedia</E
+M>i capelli</E
+M>una frangia</E
+M>i pesi sui due piatti di una bilancia</E
+M>un carico</E
+M>le entrate con le uscite</E
+M>un conto</E
+M>un bilancio</E
+M>le condizioni sociali di una popolazione</E
+M>la morte pareggia poveri e ricchi</E
+M>una scuola privata</E
+M>religiosa</E
+M>comunale</E
+M>confondere insieme e p</E
+M>i letterati e gli artisti</E
+M>acqua</E
+M>così bianca e netta Che par ch&#8217;a neve pareggiar si deggia</E
+M>nessuno è ancora riuscito a pareggiarlo</E
+M>m&#8217;apparve</E
+M>Un lume per lo mar venir sì ratto</E
+M>Che &#8217;l muover suo nessun volar pareggia</E
+M>stimolati</E
+M>dall&#8217;ambizione di pareggiarsi agli Dei</E
+M>le loro forze si pareggiano</E
+M>un incontro</E
+M>una partita</E
+M>le due squadre hanno pareggiato</E
+M>la Fiorentina ha pareggiato col Milan per 2 a 2</E
+M>ha pareggiato per il Napoli il centravanti</E
+M>il Napoli ha pareggiato al 30&#176; minuto del secondo tempo</E

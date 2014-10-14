@@ -1,0 +1,16 @@
+tizio.txt
+"tizio"
+"Tizio, Caio e Sempronio"
+"uomo, tizio"
+"uomo, tizio"
+*[[tipo]], [[individuo]], [[personaggio]], [[soggetto]]
+M>Titius</E
+M>Caio</E
+M>Sempronio</E
+M>c&#8217;è un t.</E
+M>una tizia</E
+M>che vuole parlarti</E
+M>finalmente</E
+M> lui sarebbe sempre stato l&#8217;imperatore</E
+M> fosse duca di Mantova Tizio o Sempronio</E
+M>non permetterò che un t. qualsiasi venga a giudicare il mio operato.</E

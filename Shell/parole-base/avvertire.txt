@@ -1,0 +1,37 @@
+avvertire.txt
+"avvertire"
+"avvertire"
+"avvertire"
+"avvertire fastidio"
+"avvertire qn di (non)"
+"avvertire qualcuno di non"
+"avvisare; avvertire"
+#*'''''Avvertili''' di fare attenzione''
+#*'''''Avverto''' un odore fastidioso''
+*[[percepire]], [[sentire]], [[accorgersi]], [[intuire]], [[captare]], [[scoprire]], [[osservare]], [[capire]], [[intendere]], [[sospettare]], [[presentire]], [[riscontrare]], [[registrare]]
+*[[avvisare]], [[informare]], mettere al corrente, dare notizia, [[comunicare]], [[dire]], fare sapere, [[annunciare]], rendere noto, [[segnalare]], [[notificare]], [[preavvisare]]
+*non percepire
+*non avvisare, tenere all’oscuro
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 193
+M>advert</E
+M>io avvèrto</E
+M>avvertisco</E
+M>un dolore al fianco</E
+M>la stanchezza</E
+M>il disagio</E
+M>un odore</E
+M>un rumore strano</E
+M>avvertì che qualche cosa di nuovo stava per accadere</E
+M>non avevo avvertito ch’era passata l’ora</E
+M>la bellezza di un quadro</E
+M>l’importanza di un fatto</E
+M>avvertite quanto sto per dirvi</E
+M>avverti che non è giusto ciò che fai</E
+M>mi avvertì che il treno stava per arrivare</E
+M>nessuno mi aveva avvertito del suo ritorno</E
+M>il suo istinto lo avvertì che era giunto il momento di agire</E
+M>di un pericolo</E
+M>ti avverto di non fidartene</E
+M>un cartello avvertiva di stare attenti al cane</E
+M>vi avverto che non sono disposto a tollerare ingiustizie</E
+M>avvertilo che avrà che fare con me</E

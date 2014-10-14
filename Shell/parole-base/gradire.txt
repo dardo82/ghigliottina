@@ -1,0 +1,42 @@
+gradire.txt
+"gradire"
+"gradire"
+"gradire essere informati"
+"gustare, godere, gradire"
+"non gradire"
+M>*gratire</E
+M>gratus</E
+M>io gradisco</E
+M> tu gradisci</E
+M>un regalo</E
+M>una visita</E
+M>una notizia</E
+M>ho gradito molto il tuo invito</E
+M>ha mostrato di non g</E
+M>le vostre cortesie</E
+M>Or ti piaccia gradir la sua venuta</E
+M>non lo gradisco in casa mia</E
+M>non gradisco vederlo in casa mia</E
+M>non gradisco che frequenti casa nostra</E
+M>sono scherzi che non gradisco</E
+M>gradite i miei rispetti</E
+M>gradisca</E
+M>voglia g</E
+M>si degni g</E
+M>i segni della mia riconoscenza</E
+M>l’espressione dei miei sentimenti</E
+M>della mia devozione</E
+M>gradisci una fetta di dolce?</E
+M>gradisca</E
+M>voglia g</E
+M>accetterò per g</E
+M>gradirei un bicchiere d’acqua</E
+M>gradirei di sapere</E
+M>di sentire</E
+M>gradiremmo che glielo dicessi tu</E
+M>se permetti</E
+M>gradirei farti una domanda</E
+M>gradirei sapere chi vi ha dato quest’ordine</E
+M>avere</E
+M>le gradirebbe una tazza di caffè?</E
+M>non mi gradisce affatto che tu vada in giro a quest’ora</E

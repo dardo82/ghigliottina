@@ -1,0 +1,8 @@
+tergicristallo.txt
+"tergicristallo"
+"tergicristallo posteriore"
+M>tergere</E
+M>cristallo</E
+M>meccanismo</E
+M>dispositivo t.</E
+M>mi si sono rotti i due tergicristalli</E

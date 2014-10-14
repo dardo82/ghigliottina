@@ -1,0 +1,19 @@
+benefico.txt
+"benefico"
+"benefico"
+M>benef</E
+M>cus</E
+M>bene</E
+M>ficus</E
+M>persona b</E
+M>ente</E
+M>istituto benefico</E
+M>atto b</E
+M>parole b</E
+M>rimedio b</E
+M>pioggia benefica</E
+M>beneficentìssimo</E
+M>beneficentior</E
+M>beneficentissimus</E
+M>beneficiens</E
+M>beneficus</E

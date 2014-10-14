@@ -1,0 +1,15 @@
+riacquistare.txt
+"riacquistare"
+"riacquistare"
+M>acquistare</E
+M>una fortezza</E
+M>una posizione strategica</E
+M>la salute</E
+M>le forze</E
+M>la vista</E
+M>la libertà</E
+M>è riuscito a r</E
+M>quasi tutte le proprietà che un tempo appartenevano ai nonni</E
+M>il senso della realtà</E
+M>la fede</E
+M>la fiducia nei proprî simili</E

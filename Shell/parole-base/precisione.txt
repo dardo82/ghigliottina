@@ -1,0 +1,58 @@
+precisione.txt
+"bilancia di precisione"
+"bilancia di precisione"
+"bombardamento di precisione, mirato"
+"con precisione"
+"con precisione"
+"definire con precisione"
+"doppia precisione"
+"meccanica di precisione"
+"per la precisione"
+"precisione"
+"precisione matematica"
+"smerigliatura di precisione"
+"strumento di precisione"
+"telecamera di precisione"
+"utensile di precisione"
+*[[esattezza]], [[accuratezza]], [[attenzione]], [[diligenza]], [[cura]], [[scrupolo]], [[scrupolosità]], [[rigore]], [[meticolosità]], [[puntualità]]
+*[[perfezione]], [[correttezza]],[[scrupolosità]], [[ordine]],  [[pignoleria]]
+*[[imprecisione]], [[inesattezza]], [[approssimazione]]
+* [[confusione]], [[trascuratezza]], [[negligenza]], [[sciatteria]]
+M>praecisio</E
+M>onis</E
+M>praecid</E
+M>condurre una ricerca</E
+M>eseguire un compito con molta</E
+M>poca</E
+M>un lavoro di grande p</E
+M>amare la p</E
+M>tenere alla p</E
+M>scrivere</E
+M>parlare</E
+M>esprimersi con p</E
+M>non so con p</E
+M>a che ora parte l&#8217;aereo</E
+M>per la p</E
+M>per la p</E
+M>sono il primo nella fila</E
+M>la p</E
+M>di un orologio</E
+M>di un congegno</E
+M>di un&#8217;esperienza</E
+M>di una lavorazione</E
+M>di una misura</E
+M>errore relativo</E
+M>accuratezza</E
+M>misura di lunghezza con una p</E
+M>assoluta</E
+M>di ± 0</E
+M>1 mm</E
+M>misura con una p</E
+M>relativa</E
+M>di ± 1%</E
+M>di precisione</E
+M>meccanica di p</E
+M>strumento di p</E
+M>di un&#8217;arma da fuoco</E
+M>in gittata</E
+M>in direzione</E

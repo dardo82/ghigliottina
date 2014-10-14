@@ -1,0 +1,4 @@
+frutteto.txt
+"frutteto"
+M>frutto</E
+M>fructetum</E

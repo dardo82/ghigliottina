@@ -1,0 +1,16 @@
+tonnellata.txt
+"tonnellata"
+"tonnellata americana"
+"tonnellata metrica"
+*[[megagrammo]]
+* [[tonnellaggio]]
+M>tonelada</E
+M>tonel</E
+M>tonn</E
+M>una t. di carbone</E
+M>la portata di questa vettura è di 25 tonnellate. Tonnellata-chilometro</E
+M>t. di stazza</E
+M>t. di peso</E
+M>t. di dislocamento</E
+M>t. di portata lorda</E
+M>t. di nolo</E

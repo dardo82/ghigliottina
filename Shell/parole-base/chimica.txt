@@ -1,0 +1,65 @@
+chimica.txt
+"analisi chimica"
+"attrazione chimica"
+"catena aperta (chimica)"
+"chimica"
+"chimica"
+"chimica analitica"
+"chimica applicata"
+"chimica aziendale"
+"chimica dei colloidi"
+"chimica fisica"
+"chimica fisiologica"
+"chimica industriale"
+"chimica inorganica"
+"chimica nucleare"
+"chimica organica"
+"chimica teorica"
+"composizione chimica"
+"equazione chimica"
+"fame chimica"
+"guerra chimica"
+"ingegneria chimica"
+"negatività chimica"
+"plastica chimica"
+"prodotto di chimica organica"
+"reazione chimica"
+"soluzione chimica"
+#*'''chimica generale'''
+#*'''chimica inorganica'''
+#*'''chimica fisica'''
+#*'''industria chimica'''
+#*'''ingegneria chimica'''
+* [[chimica organica]],  [[chimica-fisica]],  [[biochimica]], [[chimica farmaceutica]], [[chimica industriale]], [[chimica dei materiali]], [[petrolchimica]], [[farmacia]], [[chimica verde]], [[chimica fine]], [[fitochimica]]
+*[[chimico]]
+*Enciclopedia [http
+* Nicola Zingarelli, ''Vocabolario della lingua italiana'', Zanichelli, 1970, p. 326
+* L. Pauling, ''General Chemistry'', Dover Publications Inc., New York, 1988, p. 1
+M>chimico</E
+M>generale</E
+M>inorganica</E
+M>organica</E
+M>analitica</E
+M>biologica</E
+M>biochimica</E
+M>fisica</E
+M>industriale</E
+M>macromolecolare</E
+M>nucleare</E
+M>pura</E
+M>applicata</E
+M>agraria</E
+M>clinica</E
+M>farmaceutica</E
+M>fisiologica</E
+M>forense</E
+M>merceologica</E
+M>patologica</E
+M>terapeutica</E
+M>cattedra di ch</E
+M>insegnare</E
+M>studiare la ch</E
+M>sostenere l’esame di ch</E
+M>durante l’ora di ch</E
+M>testo di ch</E
+M>per i licei</E

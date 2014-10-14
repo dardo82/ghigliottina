@@ -1,0 +1,24 @@
+osteria.txt
+"osteria"
+* [[trattoria]],  [[locanda]]
+M>cammina</E
+M> cammina</E
+M> cammina</E
+M> alla fine sul far della sera arrivarono stanchi morti all’o. del Gambero Rosso</E
+M>un’o</E
+M>fuori porta</E
+M>un’o</E
+M>di campagna</E
+M>frequentare l’o</E
+M>stare tutto il giorno all’o</E
+M>in quell’o</E
+M>si beve e si gioca a carte</E
+M> la piccola o.</E
+M> senza insegna</E
+M> senza nome ... col suo pergolato</E
+M> coi suoi tavoli di marmo</E
+M> coi suoi cespugli di ortensie fiorite</E
+M>fermarsi alla prima o</E
+M>Gioco delle o</E
+M>Osteria!</E
+M>ostia!</E

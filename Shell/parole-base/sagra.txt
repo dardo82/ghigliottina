@@ -1,0 +1,27 @@
+sagra.txt
+"sagra"
+"sagra"
+"sagra paesana"
+#* ''la '''sagra''' della [[salsiccia]]''
+#* ''i [[concorsi]] di [[bellezza]] sono la '''sagra''' del [[cattivo gusto]]''
+* (''definizioni 1, 2, 3, 4, 5) da sagro antica variante di [[sacro]]
+*festa patronale, [[festività]], [[solennità]], [[rito]]
+*[[festa popolare]] 
+* (''definizioni 1, 2, 3, 4, 5) [[sacra]]
+M>sagro</E
+M>sacro</E
+M>sacre</E
+M>La sacra di Enrico quinto</E
+M>Giambi ed epodi</E
+M>Sagra della primavera</E
+M>per le strade c&#8217;era aria di festa</E
+M>di s. paesana.</E
+M>la s. dell&#8217;uva</E
+M>del vino</E
+M>del pesce</E
+M>la s. del carciofo a Ladispoli.</E
+M>un arredamento che è la s. del cattivo gusto</E
+M>fatti e vicende della vita cittadina che costituiscono la s. del malcostume e della corruzione.</E
+M>l&#8217;ispirazione che è necessaria per la solenne sagra della Patria</E
+M>la s. dei Mille.</E
+M>Sagra musicale umbra</E

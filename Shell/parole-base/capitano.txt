@@ -1,0 +1,42 @@
+capitano.txt
+"capitano"
+"capitano"
+"capitano"
+"capitano d'industria"
+"capitano di corvetta"
+"capitano di lungo corso"
+"capitano di polizia"
+"capitano di porto"
+"capitano di porto"
+"Sono cose che capitano"
+*[[comandante]], [[capo]], [[condottiero]] 
+*[[capitanare]], [[capitaneria]]
+*[[comandante]]
+M>*capitanus</E
+M>capitaneus</E
+M>caput</E
+M>tis</E
+M>Canto l’armi pietose e ’l capitano Che ’l gran sepolcro liberò di Cristo</E
+M>marittimo</E
+M>comandante</E
+M>marittimo di grande cabotaggio</E
+M>marittimo di lungo corso</E
+M>d’armamento</E
+M>di corvetta</E
+M>di fregata</E
+M>di vascello</E
+M>di porto</E
+M>il c</E
+M>dei congiurati</E
+M>il c</E
+M>di una banda di malfattori</E
+M>d’industria</E
+M>caposquadra</E
+M>delle Chiavi</E
+M>di giustizia</E
+M>del golfo</E
+M>del popolo</E
+M>reggenti</E
+M>di ventura</E
+M>condottieri</E
+M>capitaneus</E

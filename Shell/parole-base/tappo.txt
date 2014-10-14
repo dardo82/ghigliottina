@@ -1,0 +1,51 @@
+tappo.txt
+"a prova di bambino (sicuro per i bambini, es: tappo di detersivo)"
+"Sapere di tappo"
+"tappo"
+"tappo"
+"tappo a corona"
+"tappo a vite\/tappo a corona"
+"tappo del radiatore"
+"tappo della vasca"
+"tappo di protezione"
+"tappo di riempimento"
+"tappo di sughero"
+"tappo dosatore"
+"tappo per bottiglie"
+"tappo per le orecchie"
+"tappo serbatoio"
+"tappo superiore"
+#* ''questa [[bottiglia]] ha ancora il '''tappo'''''
+*[[sughero]], [[turacciolo]],[[zaffo]]
+*[[tappare]]
+*Enciclopedia [http
+M>tappo</E
+M>mettere</E
+M>togliere il t. a una bottiglia</E
+M>a un fiasco di vino</E
+M>sapere di tappo</E
+M>a una boccetta di profumo</E
+M>di un medicinale</E
+M>a una botte</E
+M>riempire a tappo</E
+M>t. metallici a corona</E
+M>a leva</E
+M>a vite</E
+M>a strappo</E
+M>il t. di una vasca</E
+M>di un lavandino</E
+M>t. di cerume</E
+M>quell&#8217;uomo</E
+M>quella ragazza</E
+M>è un tappo</E
+M>che cos&#8217;ha da protestare</E
+M> quel tappo?</E
+M>T. del radiatore</E
+M>T. fusibile</E
+M>T. di cubia</E
+M>T. di volata</E
+M>T. falsa spoletta</E
+M>T. porta innesco</E
+M>T. per foro di colata</E
+M>tappo-luce</E
+M>t. vitellino</E

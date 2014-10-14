@@ -1,0 +1,88 @@
+proposta.txt
+"avanzare la proposta di"
+"fare una proposta"
+"fare una proposta"
+"fare una proposta"
+"fare una proposta"
+"fare una proposta"
+"fare una proposta"
+"fare una proposta"
+"fare una proposta"
+"la nuova proposta di legge e' all'esame della Camera"
+"proposta"
+"proposta di matrimonio"
+"proposta di matrimonio"
+"proposta finale"
+"proposta indecente"
+"proposta vincente"
+*[[suggerimento]], [[consiglio]], [[idea]], [[parere]], [[presentazione]]
+*disegno di legge, [[mozione]], [[progetto]], [[intenzione]]
+*(di prezzo) [[offerta]]
+*[[invito]], [[avance]]
+*[[proposta di legge]]
+*[[proporre]]
+*[[oferta]]
+*italiano
+*portoghese
+M>proposto</E
+M>proporre</E
+M>fare</E
+M>avanzare una p</E
+M>insistere in una p</E
+M>accettare</E
+M>respingere</E
+M>rifiutare una p</E
+M>una buona</E
+M>una cattiva p</E
+M>una p</E
+M>seria</E
+M>interessante</E
+M>ragionevole</E
+M>conciliante</E
+M>accomodante</E
+M>conveniente</E
+M>inaccettabile</E
+M>assurda</E
+M>ridicola</E
+M>offensiva</E
+M>la p</E
+M>è troppo vaga: vi inviterei a presentare p</E
+M>più concrete</E
+M>più precise</E
+M>è stato avanzato di grado su p</E
+M>del direttore</E
+M>gli è stata fatta la p</E
+M>di un trasferimento</E
+M>d&#8217;impiego</E
+M>di vendita</E
+M>d&#8217;acquisto</E
+M>d&#8217;affitto</E
+M>di matrimonio</E
+M>ha già avuto molte proposte</E
+M>fare delle p</E
+M>di pace</E
+M>d&#8217;accordo</E
+M>di costituire una società</E
+M>di contratto</E
+M>contrattuale</E
+M>invito a contrarre</E
+M>irrevocabile</E
+M>fate la vostra p</E
+M>e vedrò se mi conviene</E
+M>mi faccia una p</E
+M>di legge</E
+M>presentare</E
+M>discutere</E
+M>approvare</E
+M>respingere una p</E
+M>di legge</E
+M>proporre</E
+M>il ragionare di sì fatta materia pareva a alcuna delle donne che male a lor si convenisse</E
+M>e pregavanlo che mutasse la p</E
+M>già detta</E
+M>lettera di proposta</E
+M>lettera di risposta</E
+M>sonetti di proposta</E
+M>pani della p</E
+M>pani della proposizione</E
+M>qual è quei che disvuol ciò che volle E per novi pensier cangia proposta</E

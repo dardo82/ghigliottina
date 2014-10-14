@@ -1,0 +1,41 @@
+disegnare.txt
+"disegnare"
+"disegnare"
+"disegnare"
+"disegnare a carboncino"
+"disegnare un ritratto"
+* [[tracciare]], [[delineare]], [[raffigurare]], [[schizzare]], [[tratteggiare]]
+* ''(nella mente)'' [[progettare]]
+*''(una situazione, un personaggio ecc.)'' [[dipingere]], [[tratteggiare]], [[delineare]], [[esporre]], [[rappresentare]]
+*[[disegno]], [[disegnatore]], [[ridisegnare]]
+*[[dipingere]]
+M>des</E
+M>gnare</E
+M>signum</E
+M>io diségno</E
+M>un fiore</E
+M>un cavallo</E
+M> un paesaggio</E
+M>i contorni di una figura</E
+M>un cerchio</E
+M>un triangolo</E
+M>imparare a d</E
+M>saper d</E
+M>bene</E
+M>male</E
+M>con finezza</E
+M>danze</E
+M>le carole che lenta disegna</E
+M>mi disegnò brevemente come intendeva formare la nuova squadra</E
+M>una grande impresa finanziaria</E
+M>un libro</E
+M>un dramma</E
+M>un racconto</E
+M> design</E
+M>un impianto industriale</E
+M>disegnava di fare l’aviatore da grande</E
+M>disegnatole il luogo dove sotterrato l’aveano</E
+M>le disse</E
+M>Raffaello Girolami disegnato g0nfaloniere</E
+M>un quadro</E
+M>un paesaggio ben disegnato</E

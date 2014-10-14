@@ -1,0 +1,19 @@
+aspro.txt
+"aspro"
+"aspro"
+"aspro"
+"aspro"
+"aspro"
+#* ''un terreno '''aspro'''''
+*''(ruvido)'' dal [[latino]] ''[[asper]]''
+*''(moneta)'' dal [[greco]] bizantino ''[[ἄσπρος]]'' che deriva dal [[latino]] ''asper (nummus)'' cioè "moneta di conio recente" 
+*(di sapore) [[acido]], [[acre]], [[acerbo]], [[brusco]], [[forte]], [[amaro]], [[immaturo]], [[asprigno]]
+*(di odore) [[pungente]], [[penetrante]], [[irritante]]
+*(di suono) [[acuto]], [[stridulo]], [[stridente]]
+*(di superficie) [[ruvido]], [[irregolare]], [[ispido]], [[rugoso]], [[irto]], [[scabro]]
+*''(clima rigido)'' [[freddo]]
+*(di sapore)[[dolce]], [[amabile]]
+*(di odore) [[gradevole]]
+*(di suono) [[armonioso]], [[melodioso]], [[soave]]
+*(di superficie) [[liscio]], [[levigato]]
+*[[aspramente]]

@@ -1,0 +1,21 @@
+terrorismo.txt
+"la pista del terrorismo"
+"terrorismo"
+"terrorismo psicologico"
+*[[antiterrorismo]]
+*[[mister terrorismo]]
+*[[terrore]], [[terrorista]], [[terroristico]]
+*italiano
+*spagnolo
+M>terrorisme</E
+M>il fenomeno del t.</E
+M>t. di estrema sinistra</E
+M>destra</E
+M>collusione del t. con la criminalità comune</E
+M>l&#8217;organizzazione</E
+M>le centrali</E
+M>le basi del t. nazionale</E
+M>internazionale</E
+M>disciplina giuridica del t.</E
+M>t. culturale</E
+M> t. psicologico</E

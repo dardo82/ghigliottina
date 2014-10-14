@@ -1,0 +1,52 @@
+impegnare.txt
+"impegnare"
+"impegnare"
+"impegnare"
+"impegnare, replace: impegnarsi"
+"impegnare, replace: impegnarsi"
+* [[vincolare]],  [[prendere]], [[assorbire]],  [[intraprendere]], [[iniziare]]
+*[[impegnarsi]], [[impegnato]], [[impegno]]
+M>io impégno</E
+M>noi impegniamo</E
+M>voi impegnate</E
+M>impegniamo</E
+M>impegniate</E
+M>un anello</E
+M>un orologio</E
+M>un braccialetto</E
+M>ha impegnato tutti i suoi gioielli</E
+M>ha impegnato anche la camicia</E
+M>la fede</E
+M>la parola</E
+M>mi sono impegnato a terminare il lavoro entro il mese</E
+M>s’è impegnato ad aiutarmi</E
+M>impegnarsi di fare</E
+M>di ottenere</E
+M>impegnarsi in qualche cosa</E
+M>impegnarsi nella lotta</E
+M>impegnarsi a fondo</E
+M>impegnarsi in un combattimento</E
+M>in una lite</E
+M>in un cimento</E
+M>impegnarsi col nemico</E
+M>con l’avversario</E
+M>combattimento</E
+M>una corsia</E
+M>un posteggio</E
+M>una ragazza</E
+M>una dama</E
+M>un ballo</E
+M>un tassista</E
+M>un’auto pubblica</E
+M>un operaio</E
+M>una stanza</E
+M>è un lavoro che impegna venti operai</E
+M>la stesura di questo saggio mi ha impegnato per più d’un mese</E
+M>è una ricerca che m’impegna per molte ore al giorno</E
+M>una divisione</E
+M>una brigata</E
+M>l’avversario</E
+M>l’amicizia impegna a soccorrere gli amici</E
+M>la sua professione lo impegna a spostarsi continuamente</E
+M>impigliarsi</E
+M>impegnarsi nel canale del parto</E

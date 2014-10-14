@@ -1,0 +1,78 @@
+biglietto.txt
+"biglietto"
+"biglietto"
+"biglietto"
+"biglietto"
+"biglietto aereo"
+"biglietto da visita"
+"biglietto del parcheggio"
+"biglietto del treno"
+"biglietto di andata"
+"biglietto di andata e ritorno"
+"biglietto di andata e ritorno"
+"biglietto di andata e ritorno"
+"biglietto di auguri"
+"biglietto di banca"
+"biglietto di compleanno"
+"biglietto di ingresso"
+"biglietto di S.Valentino"
+"biglietto di sola andata"
+"biglietto di sola andata"
+"biglietto di stato britannico"
+"biglietto gratuito"
+"biglietto gratuito, biglietto omaggio"
+"biglietto intero"
+"biglietto omaggio"
+"biglietto per il traghetto"
+"biglietto ridotto"
+"biglietto turistico"
+"biglietto; banconota da cento dollari"
+"colui che acquista il biglietto"
+"due film con un solo biglietto"
+"ecco il biglietto"
+"grazie del biglietto"
+"mandare un biglietto"
+"munire di biglietto"
+"passeggeri muniti di biglietto"
+"perforare un biglietto"
+"persona munita di biglietto"
+#* ''Ho un '''biglietto''' per il concerto di stasera''
+*''(ricevuta)''[[bigliettaio]], [[biglietteria]]
+* [[biglietto elettronico]]
+M>billet</E
+M>bullette</E
+M>bulla</E
+M>d’augurî</E
+M>amoroso</E
+M>galante</E
+M>avvertire con un b</E
+M>mandare un b</E
+M>a mano</E
+M>passare di nascosto un b</E
+M>a qualcuno</E
+M>bigliettino</E
+M>da visita</E
+M>di visita</E
+M>postale</E
+M>del treno</E
+M>ferroviario</E
+M>d’ingresso</E
+M>d’invito</E
+M>di banca</E
+M>di stato</E
+M>un b</E
+M>da cinque</E
+M>da venti</E
+M>da cento</E
+M>euro</E
+M>convertibili</E
+M>inconvertibili</E
+M>a corso forzoso</E
+M>di nomina</E
+M>regio b</E
+M>d’alloggio</E
+M>di cartulario</E
+M>cartulario</E
+M>plinto</E
+M>lo pagò con un bel bigliettone da cinquecento euro</E
+M>mi costa parecchi bigliettoni</E

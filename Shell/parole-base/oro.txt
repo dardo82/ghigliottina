@@ -1,0 +1,351 @@
+oro.txt
+"a peso d'oro"
+"albo d'oro, libro d'oro"
+"anni d'oro, begli anni"
+"banconota d'oro"
+"catena d'oro"
+"cercare l'oro"
+"cercatore d'oro"
+"cercatore d'oro"
+"certificato di proprietà di una quantità d'oro"
+"color giallo oro"
+"color giallo oro"
+"color oro"
+"color oro verde"
+"color verde oro"
+"colorato-oro"
+"con polvere d'oro"
+"con una palla d'oro (orecchini, etc.)"
+"corona d'oro"
+"corsa all'oro"
+"cuore d'oro"
+"d'oro"
+"d'oro"
+"da cercatore d'oro"
+"dai capelli d'oro"
+"dalle ali d'oro"
+"dente d'oro"
+"di foglia d'oro"
+"di foglia d'oro"
+"di oro lucido"
+"di stella d'oro"
+"doppia imposizione; doppia aquila (moneta d'oro del valore di venti dollari)"
+"epoca d'oro"
+"epoca d'oro di, età dell'oro di"
+"estrazione dell'oro"
+"età d'oro"
+"febbre dell'oro"
+"foglia d'oro"
+"foglia d'oro"
+"gallina dalle uova d'oro"
+"gallone d'oro"
+"giallo oro"
+"giallo-oro"
+"grande epoca; epoca d'oro"
+"il cercare l'oro"
+"l'età dell'oro"
+"l'oro di napoli"
+"laminato oro \/ oro laminato"
+"lavorazione dell'oro"
+"Leone d'oro"
+"libro d'oro"
+"lingotti d'oro o argento"
+"lingotto d'oro"
+"manco a pagarlo a peso d'oro"
+"medaglia d'oro"
+"minatore che cerca l'oro"
+"miniera d'oro"
+"miniera d'oro"
+"momento d'oro"
+"moneta d'oro"
+"moneta d'oro"
+"non è tutto oro quel che luccica"
+"nozze d'oro"
+"numero d'oro"
+"obbligazione pagabile in oro"
+"occasione d'oro"
+"orda d'oro"
+"orlato d'oro"
+"oro"
+"oro"
+"oro"
+"oro"
+"oro"
+"di color oro"
+"oro antico"
+"oro bianco"
+"oro giallo"
+"oro liquido"
+"oro nero"
+"oro rosso"
+"oro verde"
+"pentola d'oro"
+"pepita d'oro"
+"peso d'oro"
+"placcato oro"
+"polvere d'oro"
+"prendere per oro colato"
+"relativo a doratura elettrolitica o vasellame in oro"
+"relativo a miniera d'oro"
+"relativo alla corsa dell'oro"
+"rosa d'oro"
+"rosso oro"
+"scapolo d'oro"
+"scarabeo d'oro"
+"setacciare l'oro"
+"silenzio d'oro"
+"sogni d'oro"
+"stampato in oro"
+"stella d'oro"
+"vale tanto oro quanto pesa"
+"vasellame d'oro"
+"vello d'oro"
+#* ''evidenziatore '''oro''''', ''biondo '''oro''''';
+#* ''decorazione '''oro''''', ''arazzo '''oro''''';
+#* ''franchi '''oro''''', ''sterline '''oro''''', e così via;
+#* '''''oro''' nativo'', '''''oro''' in [[grani]]'';
+#* '''''oro''' [[grezzo]]'', '''''oro''' [[lavorato]]'', '''''oro''' [[massiccio]]'', '''''oro''' [[battuto]]'', '''''oro''' [[filato]]'', '''''oro''' [[placcato]]'';
+#* ''[[oro azzurro]]''
+#* ''[[oro basso]]'', ''[[oro di bassa lega]]''
+#* ''[[oro bianco]]''
+#* ''[[oro di Napoli]]''
+#* ''[[oro doublé]]''
+#* ''[[oro fino]]'', ''[[oro di coppella]]'', ''[[oro zecchino]]''
+#* ''[[oro foglia morta]]''
+#* ''[[oro giallo]]''
+#* ''[[oro grigio]]''
+#* ''[[oro in libretto]]''
+#* ''[[oro inglese bianco]]''
+#* ''[[oro roseo]]''
+#* ''[[oro verde acqua]]''
+#* ''[[oro in conchiglia]]''
+#* ''[[oro liquido]]''
+#* ''quotazione dell''''oro''''';
+#* ''[[oro carta]]''
+#* ''[[oro moneta]]''
+#* ''l''''oro''' non passa mai di moda'';
+#* ''[[oro di Bologna]]'', ''[[oro falso]]'', ''[[oro matto]]''
+#* ''[[oro musivo]]''
+#* ''[[oro degli sciocchi]]''
+#* ''[[oro bianco]]''
+#* ''[[oro nero]]''
+#* ''[[oro verde]]''
+#* ''[[navigare nell'oro]]'', ''[[nuotare nell'oro]]'', e così via
+#* ''[[schiavo dell'oro]]''
+#* ''ha vinto l''''oro''' nel salto triplo'';
+#* ''quello che ha detto è '''oro''' per me'';
+#* ''non prendere per '''oro''' colato quello che trovi scritto su Wikizionario e sugli altri progetti Wikimedia'';
+* [[dorato]], [[doratura]], [[orafo]], [[orefice]]
+* [[indorato]], [[orata]]
+* [[aurato]], [[aurico]], [[auroso]]
+* [[aureo]], [[aureola]], [[aurico]], [[aurifero]], [[auro]], [[carato]], [[pepita]], [[zecchino]]
+* [[aurato]], [[aurora]]
+* [[oratore]], [[orazione]]
+* [[auro]], [[or]]
+:*''Tutto è fumo e vento, fuorché l'oro e l'argento.''
+:*''non è tutto '''oro''' ciò che luccica''
+:*''vale tanto '''oro''' quanto pesa''
+:*''nemmeno per tutto l''''oro''' del mondo''
+:*''non voler far qualcosa per tutto l'
+:*''pagare qualcosa a peso d'
+:*''aver trovato la gallina dalle uova d'
+:*''il mattino ha l''''oro''' in bocca''
+:*''tempi d'
+:*''età dell'
+:*''corsa all'
+:*''la parola è d'argento, il silenzio è d'
+:*''prendere qualcosa per 
+*[[limone]]
+*[[giallo]]
+* italiano
+* spagnolo
+m>aurum</e
+m>aurifere</e
+m>nativo</e
+m>in grani</e
+m>in pepite</e
+m>in pagliuzze</e
+m>in polvere</e
+m>grezzo</e
+m>lavorato</e
+m>massiccio</e
+m>in verghe</e
+m>in lingotti</e
+m>in gettoni</e
+m>verghe</e
+m>lingotti</e
+m>gettoni d&rsquo;o</e
+m>battuto</e
+m>filato</e
+m>doublé</e
+m>placcato</e
+m>in fogli</e
+m>in foglia</e
+m>in libretti</e
+m>liquido</e
+m>precipitato</e
+m>in conchiglia</e
+m>colloidale</e
+m>il titolo dell&rsquo;o</e
+m>24 carati</e
+m>purissimo</e
+m>o. di 18</e
+m>di 14</e
+m>di 12 carati</e
+m>a 750/1000</e
+m>fino</e
+m>zecchino</e
+m>di zecchino</e
+m>di coppella</e
+m>basso</e
+m>di bassa lega</e
+m>di Napoli</e
+m>verde acqua</e
+m>foglia morta</e
+m>roseo</e
+m>inglese bianco</e
+m>bianco</e
+m>grigio</e
+m>azzurro</e
+m>falso</e
+m>matto</e
+m>similoro</e
+m>princisbecco</e
+m>di Bologna</e
+m>matto</e
+m>vermiculite</e
+m>D&rsquo;oro</e
+m>in oro</e
+m>gioielli</e
+m>anello</e
+m>braccialetto</e
+m>orecchini</e
+m>catenine d&rsquo;o</e
+m>orologio d&rsquo;o</e
+m>occhiali con montatura in o</e
+m>occhiali d&rsquo;o</e
+m>medaglia d&rsquo;o</e
+m>l&rsquo;oro</e
+m>l&rsquo;Italia ha conquistato l&rsquo;oro nella gara di salto in alto</e
+m>stendardo intessuto d&rsquo;o</e
+m>pianeta ricamata in o</e
+m>vitello d&rsquo;o</e
+m>bue d&rsquo;o</e
+m>toson d&rsquo;o</e
+m>vello d&rsquo;o</e
+m>sterlina oro</e
+m>lira oro</e
+m>pagare in o</e
+m>carta</e
+m>merce</e
+m>moneta</e
+m>paramonetario</e
+m>sterilizzato</e
+m>punto dell&rsquo;o</e
+m>punto metallico</e
+m>clausola oro</e
+m>D&rsquo;oro in oro</e
+m>scudi d&rsquo;o</e
+m>in o</e
+m>fiorini d&rsquo;o</e
+m>in o</e
+m>gli ori</e
+m>s&rsquo;è messa indosso tutti gli o</e
+m>che possiede</e
+m>gli o</e
+m>di una casa principesca</e
+m>gli o</e
+m>di una chiesa</e
+m> di un museo</e
+m>ori</e
+m>la sete dell&rsquo;o</e
+m>la potenza dell&rsquo;o</e
+m>non tutto si può comprare con l&rsquo;o</e
+m>sprezzando i folli orgogli e l&rsquo;o</e
+m>nuota nell&rsquo;o</e
+m>con il commercio</e
+m>s&rsquo;è fatto d&rsquo;oro</e
+m>d&rsquo;oro</e
+m>è un uomo</e
+m>un amico d&rsquo;o</e
+m>ha una moglie</e
+m>un marito d&rsquo;o</e
+m>ha un carattere d&rsquo;o</e
+m>aveva un cuore d&rsquo;o</e
+m>le tue sono parole d&rsquo;o</e
+m>mi hai dato un consiglio d&rsquo;o</e
+m>è un affare d&rsquo;o</e
+m>una miniera d&rsquo;o</e
+m>d&rsquo;oro</e
+m>lo scandalo</e
+m>delle carceri d&rsquo;o</e
+m>penna d&rsquo;o</e
+m>forchetta d&rsquo;o</e
+m>bacchetta d&rsquo;o</e
+m>albo d&rsquo;o</e
+m>secolo d&rsquo;o</e
+m>nozze d&rsquo;o</e
+m>sogni d&rsquo;o</e
+m>età dell&rsquo;o</e
+m>dell&rsquo;oro</e
+m>d&rsquo;oro</e
+m>età aurea</e
+m>bolla d&rsquo;o</e
+m>libro d&rsquo;o</e
+m>Numero d&rsquo;o</e
+m>aureo</e
+m>Regola d&rsquo;o</e
+m>Matteo</e
+m>Luca</e
+m>Conca d&rsquo;o</e
+m>vendere</e
+m>comprare</e
+m>pagare a peso d&rsquo;oro</e
+m>vale tanto o</e
+m>quanto pesa</e
+m>vale cent&rsquo;ori</e
+m>non è tutto o</e
+m>quello che luce</e
+m>che luccica</e
+m>prendere qualche cosa per o</e
+m>colato</e
+m>non lo farei</e
+m>darei</e
+m>per tutto l&rsquo;o</e
+m>del mondo</e
+m>incidere in lettere d&rsquo;o</e
+m>a caratteri d&rsquo;o</e
+m>al paragone si conosce l&rsquo;o</e
+m>le ore del mattino hanno l&rsquo;o</e
+m>in bocca</e
+m>la sabbia d&rsquo;o</e
+m>della Costa Azzurra</e
+m>moscon d&rsquo;o</e
+m>Cetonia aurata</e
+m>Ca&rsquo; d&rsquo;oro</e
+m>chioma</e
+m>trecce</e
+m>riccioli d&rsquo;o</e
+m>Erano i capei d&rsquo;o</e
+m>a l&rsquo;aura sparsi</e
+m>Crin d&rsquo;o</e
+m>crespo</e
+m>giallo oro</e
+m>biondo oro</e
+m>francese</e
+m>oreide</e
+m>musivo</e
+m>giallo di stagno</e
+m>porporina</e
+m>potabile</e
+m>potabile di Helvetius</e
+m>potabile dei poveri</e
+m>di gatto</e
+m>Katzengold</e
+m>grafico</e
+m>fulminante</e
+m>esplosivo</e
+m>auridiamina</e
+m>nero</e
+m>bianco</e
+m>verde</e

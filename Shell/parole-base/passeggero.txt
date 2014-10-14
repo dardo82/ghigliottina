@@ -1,0 +1,69 @@
+passeggero.txt
+"airbag passeggero"
+"chilometro\/passeggero"
+"passeggero"
+"passeggero"
+"passeggero, transitorio"
+M>passaggio</E
+M>passager</E
+M>un temporale p</E
+M>nuvole p</E
+M>disturbi</E
+M>malesseri p</E
+M>un capriccio p</E
+M>gioie p</E
+M>stabile</E
+M>permanente</E
+M>base navale p</E
+M>passeggera</E
+M>corda</E
+M>messaggera</E
+M>il misero si giacque</E
+M>su la via spargendo Al passeggiere inutile lamento</E
+M>Né passeggier solingo oda il sospiro Che dal tumulo a noi manda Natura</E
+M>Dialogo di un venditore d&#8217;almanacchi e di un passeggere</E
+M>Operette morali</E
+M>viaggiatore</E
+M>l&#8217;imbarco</E
+M>lo sbarco dei p</E
+M>egli è sempre stato un clandestino</E
+M> per tutto questo tempo non avendo fatto altro che il passeggero abusivo nelle stive</E
+M>nave</E
+M>per</E
+M>passeggeri</E
+M>nave da carico</E
+M>è guardiano E passeggiero a questa riva imposto Caròn demonio</E
+"airbag passeggero"
+"chilometro\/passeggero"
+"passeggero"
+"passeggero"
+"passeggero, transitorio"
+M>passaggio</E
+M>passager</E
+M>un temporale p</E
+M>nuvole p</E
+M>disturbi</E
+M>malesseri p</E
+M>un capriccio p</E
+M>gioie p</E
+M>stabile</E
+M>permanente</E
+M>base navale p</E
+M>passeggera</E
+M>corda</E
+M>messaggera</E
+M>il misero si giacque</E
+M>su la via spargendo Al passeggiere inutile lamento</E
+M>Né passeggier solingo oda il sospiro Che dal tumulo a noi manda Natura</E
+M>Dialogo di un venditore d&#8217;almanacchi e di un passeggere</E
+M>Operette morali</E
+M>viaggiatore</E
+M>l&#8217;imbarco</E
+M>lo sbarco dei p</E
+M>egli è sempre stato un clandestino</E
+M> per tutto questo tempo non avendo fatto altro che il passeggero abusivo nelle stive</E
+M>nave</E
+M>per</E
+M>passeggeri</E
+M>nave da carico</E
+M>è guardiano E passeggiero a questa riva imposto Caròn demonio</E

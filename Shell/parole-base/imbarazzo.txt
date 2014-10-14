@@ -1,0 +1,41 @@
+imbarazzo.txt
+"(essere) in imbarazzo"
+"che imbarazzante!, quanto è imbarazzante!, che imbarazzo!"
+"imbarazzo"
+"imbarazzo"
+"in difficoltà, in imbarazzo"
+"mettere in imbarazzo"
+"persona in imbarazzo; in difficoltà"
+*[[ingombro]], [[intralcio]], [[impedimento]], [[impaccio]], [[ostacolo]], [[intoppo]], [[incaglio]]
+*[[fastidio]], [[seccatura]], [[molestia]]
+*[[disagio]], [[confusione]], [[turbamento]], [[ritegno]], [[remora]]; [[insicurezza]], [[incertezza]], [[perplessità]], [[titubanza]]
+*[[impiccio]], [[disturbo]], [[briga]], 
+*''(di stomaco)'' [[appasentimento]]
+*[[aiuto]], [[facilitazione]]
+*[[noncuranza]], [[disinvoltura]]
+*[[sicurezza]], [[certezza]].
+* [[scioltezza]], [[spigliatezza]], [[decisione]] 
+*[[imbarazzare]], [[imbarazzato]]
+*[[difficoltà]]
+M>embarazo</E
+M>essere d’i</E
+M>dare</E
+M>creare</E
+M>provocare i</E
+M>tutta questa gente intorno mi è più d’i</E
+M>che d’aiuto</E
+M>di stomaco</E
+M>gastrico</E
+M>essere</E
+M>trovarsi in i</E
+M>in un serio i</E
+M>mettere in</E
+M>nell’i</E
+M>uscire</E
+M>togliere</E
+M>levare d’i</E
+M>non hai che l’i</E
+M>della scelta</E
+M>la tua domanda mi mette in un bell’i</E
+M>le sue parole crearono un visibile i</E
+M>fra i presenti</E

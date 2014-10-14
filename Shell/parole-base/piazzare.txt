@@ -1,0 +1,27 @@
+piazzare.txt
+"piazzare"
+"piazzare"
+"piazzare una merce sul mercato"
+#*'''''Piazzò''' la sua pedina in una casella nera''
+:*[[collocare]]
+:*[[piazzarsi]]
+M>placer</E
+M>place</E
+M>piazza</E
+M>piazza</E
+M>gli artiglieri avevano piazzato i cannoni sulla collina</E
+M>gli operatori stavano piazzando gli apparecchi d&#8217;illuminazione per la ripresa</E
+M> in un angolo vicino alla grande finestra aveva piazzato anche una vecchia poltrona di pelle</E
+M>un pugno</E
+M>un colpo</E
+M>colpo ben piazzato</E
+M>non è riuscito a p</E
+M>la sua merce</E
+M>si è piazzato con l&#8217;automobile davanti all&#8217;ingresso e ha bloccato l&#8217;uscita</E
+M>si sono piazzati in casa mia da una settimana e non c&#8217;è verso di smuoverli</E
+M>dopo tanti sacrifici è riuscito a piazzarsi in modo proprio soddisfacente</E
+M>ormai ti sei piazzato dove volevi</E
+M>si è piazzato secondo</E
+M>nel concorso</E
+M>si è piazzato tra i primi</E
+M>non è riuscito neanche a piazzarsi</E

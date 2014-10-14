@@ -1,0 +1,47 @@
+ricovero.txt
+"ricovero"
+"ricovero"
+#* ''i viandanti cercavano 
+#* ''abbiamo trovato un 
+#* ''il 
+* [[ricoverare]]
+*italiano
+M>provvedere al r</E
+M>d&#8217;un malato</E
+M>d&#8217;un ferito</E
+M>in clinica</E
+M>in sanatorio</E
+M>in un ospizio</E
+M>foglio di r</E
+M>per l&#8217;improvviso aggravamento del malato</E
+M>si è reso necessario il suo r</E
+M>d&#8217;urgenza in ospedale</E
+M>istituto</E
+M>casa di r</E
+M>ricovero</E
+M>cercare</E
+M>chiedere</E
+M>dare</E
+M>offrire r</E
+M>trovammo r</E
+M>dalla bufera</E
+M>dalla tormenta</E
+M>in una grotta</E
+M>in una capanna abbandonata</E
+M>cercare un r</E
+M>dove passare la notte</E
+M>mi sono procurato un ottimo r</E
+M>improvvisato</E
+M>e noi</E
+M>lasciando le donne nel loro r.</E
+M> torneremo al palazzotto di costui</E
+M>per vecchi</E
+M>per persone anziane</E
+M>casa di riposo</E
+M>di mendicità</E
+M>rifugio</E
+M>per aeromobili</E
+M>aviorimessa</E
+M>in roccia</E
+M>in cemento armato</E
+M>per sommergibili</E

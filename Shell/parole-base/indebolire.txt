@@ -1,0 +1,28 @@
+indebolire.txt
+"indebolire"
+"indebolire"
+"indebolire qualcuno"
+#* ''la malattia '''indeboliva''' i bisonti''
+#* ''il fiume in piena '''indebolirà''' il ponte''
+#* ''con questa arroganza '''indebolisci''' la tua posizione''
+*[[indebolimento]]
+M>io indebolisco</E
+M>tu indebolisci</E
+M>la malattia l’ha molto indebolito</E
+M>la vecchiaia indebolisce la memoria</E
+M>i. la resistenza nemica</E
+M>aperture troppo ampie che indeboliscono il muro</E
+M>le tinte</E
+M>una fotografia</E
+M>essere</E
+M>la resistenza nemica indeboliva</E
+M>s’indeboliva</E
+M>ogni giorno di più</E
+M>indebolirsi per malattia</E
+M>per i digiuni</E
+M>per l’età</E
+M>sentirsi indebolito dagli anni</E
+M>è indebolito di mente</E
+M>volontà</E
+M>energia indebolita</E
+M>nazione indebolita</E

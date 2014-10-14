@@ -1,0 +1,96 @@
+nucleare.txt
+"bomba nucleare"
+"chimica nucleare"
+"energia nucleare"
+"energia nucleare"
+"esplosivo nucleare"
+"fisica nucleare"
+"fisico nucleare"
+"fissione nucleare"
+"forza nucleare"
+"fusione nucleare"
+"fusione nucleare"
+"ingegnere nucleare"
+"nucleare"
+"nucleare"
+"nucleare"
+"nucleare"
+"energia nucleare"
+"radiazione nucleare"
+"reattore nucleare"
+"reazione nucleare"
+"risonanza magnetica nucleare"
+"sottomarino nucleare"
+#*'''fisica nucleare'''
+#*'''energia nucleare'''
+#*'''ingegneria nucleare'''
+*[[nuclearista]], [[nuclearizzare]], [[nucleo]], [[denuclearizzare]]
+M>la struttura n</E
+M>membrana n</E
+M>pori n</E
+M>succo n</E
+M>cariolinfa</E
+M>divisione n</E
+M>amitosi</E
+M>mitosi</E
+M>cariocinesi</E
+M>ittero n</E
+M>famiglia n</E
+M>nuclear family</E
+M>costituenti n</E
+M>della frase</E
+M>frase n</E
+M>Fisica n</E
+M>radionuclidi</E
+M>radioisotopi</E
+M>fissione</E
+M>fusione</E
+M>forze n</E
+M>chimica n</E
+M>reazioni n</E
+M>trasmutazioni</E
+M>fisica</E
+M>chimica n</E
+M>Energia n</E
+M>navi</E
+M>sommergibili a propulsione n</E
+M>Combustibile n</E
+M>reazione n</E
+M>a catena</E
+M>Impianti n</E
+M>reattori</E
+M>pile</E
+M>centrali nucleotermoelettriche</E
+M>elettronucleari</E
+M>centrali nucleari</E
+M>Tecnologie n</E
+M>armi n</E
+M>carica n</E
+M>esplosione n</E
+M>radiazione n</E
+M>iniziale</E
+M>radiazione n</E
+M>residua</E
+M>cariche</E
+M>bombe</E
+M>a fissione</E
+M>atomiche</E
+M>esplosivi n</E
+M>cariche</E
+M>bombe</E
+M>a fusione</E
+M>termonucleari</E
+M>a idrogeno</E
+M>a fissione-fusione-fissione</E
+M>cariche</E
+M>bombe</E
+M>a neutroni</E
+M>atomiche</E
+M>guerra n</E
+M>potenze n</E
+M>potenziale n</E
+M>deterrente n</E
+M>dissuasione n</E
+M>esperimenti n</E
+M>Medicina n</E
+M>il nucleare</E

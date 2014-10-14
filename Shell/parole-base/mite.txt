@@ -1,0 +1,59 @@
+mite.txt
+"mite"
+"mite"
+"mite"
+"mite"
+"mite"
+"tempo più mite"
+#*''quest'anno è stato un gennaio mite''
+* [[dolce]], [[buono]], [[bonario]], [[benevolo]], [[calmo]], [[placido]],[[tranquillo]], [[pacato]], [[umano]], [[paziente]], [[tollerante]], [[indulgente]], [[clemente]]
+*''(di animale)'' [[docile]], [[mansueto]], [[tranquillo]]
+*''(di clima) [[temperato]], [[tollerabile]], [[tiepido]]
+*''(di pena)'' [[leggero]], non grave
+*[[crudele]], [[aggressivo]], [[spietato]], [[duro]], [[inclemente]], [[intollerante]]
+*''(di animale)''[[selvaggio]], [[selvatico]], [[brado]]
+*[[adozione mite]]
+M>mitis</E
+M>mézzo</E
+M>un uomo m</E
+M>giudice m</E
+M>mostrarsi m</E
+M>con i vinti</E
+M>animo</E
+M>cuore</E
+M>carattere mite</E
+M>il consiglio di disciplina è stato m</E
+M>con lui</E
+M>il m</E
+M>agnello</E
+M>la m</E
+M>colomba</E
+M>parole m</E
+M>sentimenti m</E
+M>T’amo</E
+M>o pio bove</E
+M>e mite un sentimento Di vigore e di pace al cor m’infondi</E
+M>aspetto</E
+M>sguardo</E
+M>espressione m</E
+M>giudizio m</E
+M>condanna</E
+M>punizione</E
+M>sentenza m</E
+M>venire</E
+M>ridurre a più m</E
+M>consigli</E
+M>aspro</E
+M>rigido</E
+M>aria</E
+M>clima</E
+M>stagione m</E
+M>l’inverno è</E
+M>stato eccezionalmente mite</E
+M>declivio</E
+M>pendenza</E
+M>richieste</E
+M>pretese m</E
+M>prezzi m</E
+M>giudicare mitemente</E
+M>comportarsi mitemente con i vinti</E

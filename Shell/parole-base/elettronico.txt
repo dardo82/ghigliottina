@@ -1,0 +1,69 @@
+elettronico.txt
+"archivio elettronico"
+"circuito elettronico"
+"codificatore elettronico"
+"collaudo elettronico"
+"congegno elettronico"
+"contametri elettronico"
+"contatore elettronico"
+"controllo elettronico"
+"controllo elettronico"
+"cronometro elettronico; sincronizzatore elettronico"
+"elaboratore elettronico"
+"elaboratore elettronico"
+"elettronico"
+"elettronico"
+"flash elettronico"
+"foglio di calcolo elettronico"
+"gas elettronico"
+"gioco elettronico"
+"ingegnere elettronico"
+"interruttore\/commutatore elettronico"
+"invito elettronico"
+"micrografo elettronico"
+"microscopio elettronico"
+"microscopio elettronico a trasmissione"
+"occhio elettronico"
+"organo elettronico"
+"orologio elettronico"
+"perito elettronico"
+"proiettore elettronico"
+"riscaldamento elettronico"
+"risonanza di spin elettronico"
+"segretario elettronico personale"
+"spin elettronico"
+"strumento elettronico per pesca d'altura"
+"strumento, apparecchio elettronico"
+"trasferimento elettronico"
+"trasporto elettronico"
+#*'''configurazione elettronica'''
+#*'''componente elettronico'''
+#*'''circuito elettronico'''
+#*'''musica elettronica'''
+*[[elettronicamente]], [[denaro elettronico]], [[occhio elettronico]], [[biglietto elettronico]], [[naso elettronico]], [[gobbo elettronico]], [[pagamento elettronico]], [[voto elettronico]], [[inchiostro elettronico]]
+*[[elettronica]] , [[posta elettronica certificata]]
+M>carica e</E
+M>dispositivo</E
+M>congegno</E
+M>circuito e</E
+M>apparecchio e</E
+M>sistema e</E
+M>Tubo e</E
+M>calcolatore</E
+M>elaboratore e</E
+M>organo e</E
+M>elaborazione</E
+M>analisi e</E
+M>calcolo e</E
+M>procedimenti e</E
+M>ingegneria e</E
+M>ingegnere e</E
+M>perito e</E
+M>Musica e</E
+M>organi e</E
+M>sintetizzatori e.</E
+M>Guerra e</E
+M>un apparecchio che funziona elettronicamente</E
+M>elaborare</E
+M>analizzare</E
+M>calcolare elettronicamente</E

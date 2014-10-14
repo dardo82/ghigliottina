@@ -1,0 +1,57 @@
+uscio.txt
+"uscio"
+#*''era seduto davanti all''''uscio'''''
+#*''afferrò l''''uscio''' e si fece con esso scudo degli oggetti che gli venivano tirati''
+*''mettere qualcuno all'''uscio'''''
+M>stium</E
+M>stium</E
+M>os oris</E
+M>porta</E
+M>l’u. di casa</E
+M>l’u. davanti</E
+M> di dietro</E
+M>l’u. della bottega</E
+M>l’u. di camera</E
+M> di cucina</E
+M> di salotto</E
+M>l’u. della cantina</E
+M> della soffitta</E
+M>chiudere</E
+M> aprire l’u.</E
+M>serrerai ben l’u. da via e quello da mezza scala e quello della camera</E
+M>passare per l’u.</E
+M>affacciarsi all’u.</E
+M>farsi sull’u.</E
+M>L’artigiano a mirar l’umido cielo</E
+M> Con l’opra in man</E
+M> cantando</E
+M> Fassi in su l’uscio</E
+M>mettersi sull’u.</E
+M> stare sull’u.</E
+M>Sta il cacciator fischiando Su l’u. a rimirar Tra le rossastre nubi Stormi d’uccelli neri</E
+M>aperta la via per gli occhi al core</E
+M> Che di lagrime son fatti u. e varco</E
+M>u. a vetri</E
+M>u. a un battente</E
+M> a due battenti</E
+M>fermare l’u. col paletto</E
+M> sprangare l’u.</E
+M>sbattere l’u.</E
+M>accostare l’u.</E
+M>la serratura</E
+M> la chiave dell’u.</E
+M>prendere</E
+M> infilare l’u.</E
+M>uscio</E
+M>porta</E
+M>essere a uscio e bottega</E
+M>avere il male</E
+M>il malanno</E
+M>e l’u. addosso</E
+M>il peggio passo è quello dell’u.</E
+M>essere</E
+M> trovarsi fra l’u. e il muro</E
+M>meglio un morto in casa che un Pisano all’uscio</E
+M>un usciaccio intarlato e sconnesso</E
+M> era rabbattuto</E
+M> senza chiave né catenaccio</E

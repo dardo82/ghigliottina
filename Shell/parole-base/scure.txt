@@ -1,0 +1,25 @@
+scure.txt
+"abbattere a colpi di scure"
+"ascia, scure"
+"la scure"
+"scure"
+"scure"
+"scure"
+*[[mannaia]], [[ascia]], [[accetta]],[[bipenne]]
+* [[accetta]] 
+M>sec</E
+M>ris</E
+M>secare</E
+M>s. d&#8217;armi</E
+M>lavorare di s.</E
+M>abbattere un albero a colpi di s.</E
+M>dirozzare un tronco con la scure</E
+M>colpo di s.</E
+M>è fatto con la s.</E
+M>pare tagliato con la s.</E
+M>con l&#8217;accetta</E
+M>darsi la s. sui piedi</E
+M>la zappa</E
+M>la s. della legge</E
+M>la s. del fisco</E
+M>la s. della legge finanziaria si è abbattuta sui lavoratori autonomi</E

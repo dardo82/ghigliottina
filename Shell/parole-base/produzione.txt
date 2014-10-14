@@ -1,0 +1,122 @@
+produzione.txt
+"assistente alla produzione"
+"avvio alla produzione"
+"capacità produttiva, produzione"
+"controllo di produzione"
+"direttore di produzione"
+"fattore di produzione"
+"fattoria per la produzione del latte"
+"fattoria per la produzione del latte"
+"fermo produzione"
+"impianto di produzione elettrica"
+"in produzione"
+"in produzione"
+"lotto di produzione"
+"mettere in produzione"
+"mezzo di produzione"
+"officina di produzione"
+"produzione"
+"produzione"
+"produzione"
+"produzione"
+"produzione"
+"produzione alimentare"
+"produzione artistica"
+"produzione calzaturiera"
+"produzione cinematografica"
+"produzione del volume"
+"produzione di clorofilla"
+"produzione di coppie"
+"produzione di cristalli"
+"produzione di latte"
+"produzione di libri"
+"produzione di massa"
+"produzione di prosa"
+"produzione di stampe"
+"produzione in massa"
+"produzione letteraria"
+"produzione non necessaria"
+"produzione non richiesta"
+"produzione pilota"
+"sistema di controllo produzione"
+"sistema di fabbricazione, sistema di produzione"
+"sito di produzione"
+"zona di produzione"
+*[[formazione]], [[generazione]], [[creazione]], [[procreazione]], [[riproduzione]]
+*[[costruzione]], [[fabbricazione]], [[fattura]], [[confezione]], [[elaborazione]]
+*[[ prodotti]], [[frutti]]
+*''(di letterato, artista)'' [[opera]], [[lavoro]], [[spettacolo]], [[realizzazione]], [[presentazione]], [[esibizione]]
+*''(di film, spettacoli)'' [[finanziatori]], organizzazione produttiva.
+*[[post-produzione]]
+*[[produrre]], [[produttivo]]
+M>produrre</E
+M>productio -onis</E
+M>terreno adatto alla p. di caffè</E
+M>la reazione si svolge con p. di calore</E
+M>la p. della clorofilla</E
+M>dell&#8217;emoglobina</E
+M>la p. di opere dell&#8217;ingegno</E
+M>p. di effetti non voluti</E
+M>p. di norme giuridiche</E
+M>p. giuridica</E
+M>secrezione</E
+M>elaborazione</E
+M>proliferazione</E
+M>la p. della saliva</E
+M>della bile</E
+M>p. di tessuto cicatriziale</E
+M>di tessuto di granulazione</E
+M>la p. del ferro</E
+M>dell&#8217;alluminio</E
+M>la p. del grano</E
+M>delle olive</E
+M>del granturco</E
+M>delle barbabietole</E
+M>p. di latticinî</E
+M>la p. dell&#8217;energia elettrica</E
+M>la meccanizzazione della p. agraria</E
+M>vini di p. locale</E
+M>liquori di p. nazionale</E
+M>aumentare</E
+M>incrementare</E
+M>diminuire la p</E
+M>p. in serie</E
+M>in massa</E
+M>impianti a p. continua</E
+M>metodi</E
+M>sistemi di p</E
+M>il processo di p</E
+M>produttivo</E
+M>costi di p</E
+M>fattore</E
+M>mezzo</E
+M>agente di p</E
+M>funzione della p</E
+M>unità di p</E
+M>rapporti di produzione</E
+M>la p. agrumaria italiana</E
+M>quest&#8217;anno la p. olearia è stata scarsa</E
+M>i vecchi sistemi di fabbricazione davano una p. scadente</E
+M>la p. letteraria</E
+M>poetica</E
+M>pittorica</E
+M>scientifica</E
+M>musicale</E
+M>drammatica</E
+M>cinematografica</E
+M>la p. manzoniana anteriore alla conversione</E
+M>la p. dannunziana</E
+M>production</E
+M>production</E
+M>per domani sera è annunciata una nuova p</E
+M>una p. RAI</E
+M>le più significative p. del cinema francese degli anni Trenta</E
+M>rassegna delle più importanti p. televisive nel settore documentario</E
+M>la p. ovina</E
+M>suina dell&#8217;annata</E
+M>p. ossee</E
+M>p. sottolinguale</E
+M>i nèi che altro sono se non ... false p. della cute?</E
+M>p. di documenti</E
+M>p. di testimoni a discolpa</E
+M>P. libera</E

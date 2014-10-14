@@ -1,0 +1,11 @@
+liceo.txt
+"liceo"
+"liceo"
+"sede di liceo"
+"liceo"
+"liceo artistico"
+"liceo classico"
+"liceo o scuola privata (in Inghilterra)"
+"liceo paritario"
+"liceo scientifico"
+*[[liceale]]

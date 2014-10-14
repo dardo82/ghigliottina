@@ -1,0 +1,358 @@
+non.txt
+"(non) torcere un capello a qn"
+"a caval donato non si guarda in bocca"
+"a più non posso"
+"a più non posso"
+"a più non posso, a tutta birra"
+"a più non posso, da scoppiare"
+"a più non posso; a tutto spiano; a tutta birra"
+"adesso non esageriamo!"
+"al cuore non si comanda"
+"al peggio non c'è mai fine"
+"al peggio non c'è mai fine!"
+"allegro ma non troppo"
+"allegro ma non troppo"
+"Ambasciator non porta pena"
+"ammesso e non concesso"
+"anche se non è obbligatorio"
+"andarci piano con qc, prendere qc con le molle, non calcare troppo la mano con qc"
+"anteprima non annunciata"
+"assente, assenteista, che non si fa mai vedere, che non partecipa mai"
+"attore non protagonista"
+"avere il pane ma non i denti"
+"avere un pezzo di; avere un (con sostantivi non uncountable)"
+"averne abbastanza di qc, essere stufo di qc, non poterne più di qc"
+"averne abbastanza di, essere stufo di, non poterne più di"
+"averne abbastanza, essere stufo, non poterne più"
+"avvertire qn di (non)"
+"avvertire qualcuno di non"
+"azienda con impiegati non iscritti al sindacato"
+"banda radiofonica non in uso"
+"bibita non alcolica"
+"non-alcoholic beverage"
+"boh; non ho idea"
+"C'è qualcosa che non quadra"
+"cadere; non riuscire"
+"Cagare qualcuno\/non cagare qualcuno"
+"can che abbaia non morde"
+"certo non so che"
+"che disapprova, che non è d'accordo"
+"che non ammette eccezioni"
+"che non beve liquori"
+"che non cambia"
+"che non ci si può permettere"
+"che non collabora"
+"che non diventi un abitudine però!"
+"che non diventi un vizio!!"
+"che non dorme mai"
+"che non esita"
+"che non ha prezzo"
+"che non ha successo"
+"che non ispira"
+"che non lascia la presa (animale)"
+"che non lascia la presa (animale)"
+"che non necessita di ricetta medica"
+"che non pensa"
+"che non richiede stiratura"
+"che non si lamenta"
+"che non taglia"
+"che non vale niente"
+"che non vale niente"
+"che non vale una cicca"
+"chi dorme non piglia pesci"
+"chi ha tempo non aspetti tempo"
+"Chi nasce quadrato non muore tondo"
+"chi non muore si rivede!"
+"chi non risica non rosica"
+"chiesa non conformista"
+"ciò non toglie"
+"this doesn't change the fact that, nonetheless, the fact remains"
+"colui che non ha orecchio musicale"
+"come non detto"
+"come non so cosa"
+"comunicazione non verbale"
+"nonverbal communication"
+"con modi non raffinati"
+"conto non pagato, insoluto"
+"convenire di non essere d'accordo"
+"corsi universitari per studenti non iscritti all'università"
+"cosa fare\/non fare"
+"da non confondersi"
+"da non credere"
+"da non spostare, da non muovere"
+"che non si può spostare"
+"da quanto tempo che non ci sentiamo!"
+"del maiale non si butta niente"
+"deputato in Parlamento che non fa parte del governo"
+"di più non si può"
+"dichiarare non colpevole"
+"dichiarato non colpevole"
+"dimenticatelo; non ci pensare neanche!"
+"donna single, donna nubile, donna non sposata"
+"dove non batte il sole"
+"essere non allineato"
+"essere non visibile"
+"essere scarso in ortografia, non essere bravo in ortografia"
+"estraneo a, non pertinente a"
+"fagiolo verde (che si mangia quando non è ancora maturo)"
+"fallire, non riscuotere successo"
+"falso, non vero"
+"far finta di non sapere"
+"far male a, non andar bene con"
+"far passare qcs come non importante, sviare l'attenzione"
+"fare tutto il possibile; non arrendersi"
+"fasullo, falso, guasto, non funzionante"
+"fate l'amore non la guerra"
+"fino a che morte non ci separi"
+#*'''''Non''' conosco il tailandese.''
+#*'''''Non''' ne avevi due, di cellulari?''
+#*'''''Non''' appena gli disse che '''non''' c'era nessuno e che '''non''' ne sapeva niente, quello iniziò ad urlare.''
+#*'''''Non''' lo fare!''
+*[[non allineamento]], [[non allineato]], [[non belligerante]], [[non belligeranza]], [[non che]], [[non credente]], [[non docente ]], [[non è che]], [[non essere]], [[non fumatore]],  [[ non aggressione]], [[ se non]], [[non-stop]]
+*''Un cuor [[magnanimo]] vuol [[sempre]] il [[bene]], [[anche]] se il [[premio]]  mai 
+*''vedere e 
+*italiano
+*francese
+*friulano
+*latino
+*usbeco
+m>non</e
+m>essere</e
+m>non essere</e
+m>andare - non andare</e
+m>piove</e
+m>non piove</e
+m>intelligente</e
+m>non intelligente</e
+m>non io</e
+m>tutti</e
+m>non tutti</e
+m>non</e
+m>nol</e
+m>no &rsquo;l</e
+m>nol posso negar</e
+m>donna</e
+m>e nol nego</e
+m>Nol concede il mestissimo rito</e
+m>non voglio</e
+m>non acconsentì</e
+m>lo pregò di non andarsene</e
+m>gli dissi che non sarei venuto</e
+m>non</e
+m>non lo faccio</e
+m>non ci vado</e
+m>non te lo dico</e
+m>non ti muovere</e
+m>non vi disturbate</e
+m>non muoverti</e
+m>non disturbatevi</e
+m>non c&rsquo;è alcun dubbio</e
+m>non ce ne sono più</e
+m>non c&rsquo;era nessuno</e
+m>non c&rsquo;è niente di nuovo</e
+m>affatto</e
+m>punto</e
+m>mica</e
+m>non ci credo affatto</e
+m>non ci vado mica</e
+m>non ci vedo un&rsquo;acca</e
+m>non m&rsquo;importa un fico</e
+m>già</e
+m>non</e
+m>Maraviglia di mie bellezze tenere Non prender già</e
+m>Fede è sustanza di cose sperate E argomento de le non parventi</e
+m>la popolazione non residente</e
+m>per motivi non specificati</e
+m>in un giorno non precisato</e
+m>imprecisato</e
+m>un intervento non motivato</e
+m>immotivato</e
+m>i presenti e i non presenti</e
+m>i non addetti ai lavori</e
+m>concorso per non laureati</e
+m>posti per non fumatori</e
+m>non sono ammessi i non militari</e
+m>è Carlo</e
+m>non Giovanni che mi ha telefonato</e
+m>è ottimo</e
+m>non buono soltanto</e
+m>sarà bello</e
+m>ma non simpatico</e
+m>loro</e
+m>non tu</e
+m>dovranno pentirsene</e
+m>non domani</e
+m>stasera!</e
+m>non</e
+m>in lui non acume d&rsquo;intuito</e
+m>non finezza di giudizio</e
+m>non decoro di forma</e
+m>non pioggia</e
+m>non grando</e
+m>non neve</e
+m>Non rugiada</e
+m>non brina più su cade Che la scaletta di tre gradi breve</e
+m>non è intelligente</e
+m>ma è studioso</e
+m>non è bello</e
+m>ma neanche brutto</e
+m>Non fronda verde</e
+m>ma di color fosco; Non rami schietti</e
+m>ma nodosi e &rsquo;nvolti: Non pomi v&rsquo;eran</e
+m>ma stecchi con tosco</e
+m>venga o non venga</e
+m>voglia o non voglia</e
+m>ci crediate o non ci crediate</e
+m>venga o no</e
+m>voglia o no</e
+m>maestro o non maestro</e
+m>in questo campo è un ignorante</e
+m>non hai detto che partivi stasera?</e
+m>chi non gli avrebbe creduto?</e
+m>non te ne senti forse capace?</e
+m>forse che non te ne senti capace?</e
+m>&laquo;non è lei</e
+m>il padre Cristoforo di Pescarenico?&raquo; &laquo;Per l&rsquo;appunto&raquo;</e
+m>non è vero?</e
+m>non lo vedi?</e
+m>mi domando se non sia il caso di squagliarcela!</e
+m>mancare poco che</e
+m>finché</e
+m>è mancato poco che non precipitasse</e
+m>t&rsquo;ho atteso finché non hanno chiuso il negozio</e
+m>si è comportato molto meglio di quanto tu non creda</e
+m>per poco</e
+m>a meno che</e
+m>salvo che</e
+m>eccetto che</e
+m>per poco non ci riuscivo</e
+m>dovrò rinunciare all&rsquo;acquisto</e
+m>a meno che non mi faccia un prezzo speciale</e
+m>E temo che non sia già sì smarrito</e
+m>Ch&rsquo;io mi sia tardi al soccorso levata</e
+m>Né possa ella negar che non lo prenda</e
+m>che</e
+m>timeo ne</e
+m>che</e
+m>la fante</e
+m>udendo ciò che detto l&rsquo;era</e
+m>temette forte non l&rsquo;avessero uccisa</e
+m>a quest&rsquo;uomo</e
+m>non maestro per me</e
+m>ma piuttosto padre</e
+m>io sarò sempre riconoscente</e
+m>Ahi serva Italia</e
+m>di dolore ostello</e
+m>Non donna di provincie</e
+m>ma bordello!</e
+m>il nostro Abbondio</e
+m>non nobile</e
+m>non ricco</e
+m>coraggioso ancor meno</e
+m>non</e
+m>sarà impresa non facile</e
+m>il danno è stato non indifferente</e
+m>s&rsquo;è rivelato non indegno del suo grado</e
+m>non ultimo</e
+m>non pochi</e
+m>non tutti</e
+m>non uno</e
+m>ho faticato non poco</e
+m>è un ragazzo non molto</e
+m>non bene educato</e
+m>non del tutto</e
+m>non completamente</e
+m>non proprio</e
+m>non esattamente di quel colore</e
+m>non altrimenti che</e
+m>non senza fatica</e
+m>che è</e
+m>che non è</e
+m>che è</e
+m>che non è</e
+m>mi ritrovai disteso per terra</e
+m>in men che non si dica</e
+m>non c&rsquo;è di che</e
+m>non che</e
+m>non che io goda della sua disavventura</e
+m>ma dico che sarà per lui una lezione salutare</e
+m>non che</e
+m>non già che</e
+m>non io</e
+m>non già ch&rsquo;io speri</e
+m>Al pensier ti ricorro</e
+m>non cale</e
+m>mettere</e
+m>tenere in non cale</e
+m>non di manco</e
+m>non di meno</e
+m>non per tanto</e
+m>se non</e
+m>che altro potevo fare se non questo?</e
+m>se non che</e
+m>non</e
+m>a abbracciare il corsero</e
+m>e il simigliante appresso fecer le donne</e
+m>così le non parenti come le parenti</e
+m>nonconformismo</e
+m>nonconformista</e
+m>nonconformistico</e
+m>noncurante</e
+m>noncuranza</e
+m>nonsenso</e
+m>nonpossa</e
+m>non</e
+m>Vocabolario</e
+m>non ente</e
+m>non essere</e
+m>non io</e
+m>patto di</e
+m>non aggressione</e
+m>politica di</e
+m>non allineamento</e
+m>popoli</e
+m>governi</e
+m>non allineati</e
+m>non archimedeo</e
+m>non belligerante</e
+m>non belligeranza</e
+m>non capacitivo</e
+m>non collaborazione</e
+m>non combattente</e
+m>non conformità</e
+m>principio di</e
+m>non contraddizione</e
+m>i non credenti</e
+m>i non cristiani</e
+m>non deambulante</e
+m>non disgiunzione</e
+m>non disseminazione</e
+m>nucleare</e
+m>personale</e
+m>non docente</e
+m>non insegnante</e
+m>non euclideo</e
+m>non figurativo</e
+m>non finito</e
+m>non impegnato</e
+m>non induttivo</e
+m>non ingerenza</e
+m>non intervento</e
+m>non lineare</e
+m>non menzione</e
+m>non metallo</e
+m>non newtoniano</e
+m>non reattivo</e
+m>non residente</e
+m>non resistivo</e
+m>non tessuto</e
+m>non udente</e
+m>sordo</e
+m>non uso</e
+m>non vedente</e
+m>cieco</e
+m>personale</e
+m>non viaggiante</e
+m>non violenza</e
+m>non violento</e
+m>non volere</e

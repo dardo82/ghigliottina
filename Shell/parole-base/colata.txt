@@ -1,0 +1,14 @@
+colata.txt
+"colata"
+"colata"
+"colata continua"
+"colata di bronzo"
+M>caldaia di c</E
+M>siviera</E
+M>in caduta</E
+M>in sorgente</E
+M>continua</E
+M>sotto vuoto</E
+M>lavica</E
+M>di fango</E
+M>di pietra</E

@@ -1,0 +1,37 @@
+quindici.txt
+"numero 15 (quindici)"
+"ogni quindici giorni"
+"quindici"
+"quindici"
+"uso ellittico: il numero quindici"
+"rugby a quindici"
+*[[quindicesimo]], [[quindicina]]
+*[[quattordici]], [[sedici]]
+*[[numero]]
+M>cim</E
+M>quinque</E
+M>decem</E
+M>una ragazza di q</E
+M>anni</E
+M>il treno arriva alle ore 15</E
+M>alle quindici</E
+M>in punto</E
+M>oggi a q</E
+M>giorni</E
+M>puntare sul q</E
+M>partiremo per le vacanze il q</E
+M>di luglio</E
+M>per andare in centro devi prendere il q</E
+M>giorno</E
+M>autobus</E
+M>tram</E
+M>nel q</E
+M>nel ’15</E
+M>il q</E
+M>il q</E
+M>azzurro</E
+M>Gioco del q.</E
+M>governo dei q</E
+M>tribunale dei q</E
+M>il capitolo q</E
+M>Luigi q</E

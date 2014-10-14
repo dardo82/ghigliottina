@@ -1,0 +1,148 @@
+risposta.txt
+"allegato di risposta"
+"atto di risposta"
+"Botta e risposta"
+"brusco (comportamento, risposta)"
+"cartolina con risposta pagata"
+"dare una risposta"
+"di risposta"
+"di risposta"
+"dichiarazione in risposta"
+"in risposta"
+"in risposta"
+"in risposta"
+"in risposta a"
+"in risposta alla Sua domanda"
+"ottenere una risposta; una reazione da qcn.; di solito arrabbiata o ironica"
+"ottenere; avere una risposta"
+"per tutta risposta"
+"pronta risposta"
+"ricevere una risposta irritata da qcn"
+"risposta"
+"risposta"
+"risposta"
+"risposta a"
+"risposta ad effetto"
+"risposta automatica"
+"risposta breve"
+"risposta completa"
+"risposta condizionata"
+"risposta immediata"
+"risposta negativa"
+"risposta secca"
+"risposta verbale"
+"scatto alla risposta"
+"senza risposta"
+"tempo di risposta"
+"trovare la risposta"
+*[[ replica]]
+* [[domanda]]
+* [[responsivo]]
+*''Una dolce '''risposta''' accheta l'ira.''
+M>risposto</E
+M>rispondere</E
+M>dare</E
+M>fornire</E
+M>rendere</E
+M>una r</E
+M>la r</E
+M>dare la r</E
+M>a voce</E
+M>per iscritto</E
+M>per telefono</E
+M>per posta elettronica</E
+M>con un&#8217;e-mail</E
+M>ricevere la r</E
+M>chiedere</E
+M>esigere</E
+M>attendere</E
+M>sollecitare la r</E
+M>cercare</E
+M>studiare una r</E
+M>se ne andò senza aspettare risposta</E
+M>lasciò tutte le mie domande senza risposta</E
+M>questa non è una r</E
+M>bussammo alla porta ma non ricevemmo risposta</E
+M>la sua r</E
+M>fu che non intendeva partecipare alla riunione</E
+M>esatta</E
+M>calzante</E
+M>esauriente</E
+M>soddisfacente</E
+M>laconica</E
+M>sibillina</E
+M>gentile</E
+M>impertinente</E
+M>sgarbata</E
+M>secca</E
+M>la r</E
+M>non era facile</E
+M>la mia r</E
+M>è negativa</E
+M>a una domanda</E
+M>a una interrogazione</E
+M>a un invito</E
+M>a una preghiera</E
+M>a una supplica</E
+M>a un segnale</E
+M>e questa ti sembra una r</E
+M>da dare al tuo insegnante?</E
+M>dà certe r</E
+M>alla mamma!</E
+M>Lettera di r</E
+M>risposta</E
+M>non ho ancora avuto</E
+M>ricevuto r</E
+M>alla mia lettera</E
+M>mandami la r</E
+M>per sms</E
+M>la sua r</E
+M>deve essere andata smarrita</E
+M>lettera</E
+M>telegramma con r</E
+M>pagata</E
+M>sonetto di r</E
+M>sonetto di proposta</E
+M>risposte per le rime</E
+M>in r</E
+M>per r</E
+M>in r</E
+M>al tuo quesito ti dirò che</E
+M>per tutta r</E
+M>per tutta r</E
+M>si alzò e se ne andò senza pronunciare verbo</E
+M>a una critica</E
+M>a un&#8217;osservazione ingiusta</E
+M>a un&#8217;insinuazione</E
+M>a un insulto</E
+M>a un&#8217;offesa</E
+M>a un dispetto</E
+M>a un pugno</E
+M>all&#8217;attacco</E
+M>al tiro del nemico</E
+M>flessibile</E
+M>graduata</E
+M>flexible response</E
+M>semplici</E
+M>di filo</E
+M>composte</E
+M>di finta</E
+M>botta e risposta</E
+M>fare a botta e r</E
+M>è stato tutto una botta e r</E
+M>quel confronto</E
+M>la r</E
+M>del paziente alla terapia d&#8217;urto è stata positiva</E
+M>reale</E
+M>tonale</E
+M>di un apparecchio</E
+M>di un dispositivo</E
+M>di un motore</E
+M>ai comandi</E
+M>di un trasduttore</E
+M>di un microfono a carbone</E
+M>in frequenza</E
+M>lineare</E
+M>premî</E
+M>una rispostina che non convince</E
+M>dà certe rispostine ai genitori!</E

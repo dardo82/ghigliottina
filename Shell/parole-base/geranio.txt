@@ -1,0 +1,10 @@
+geranio.txt
+"geranio"
+M>Geranium</E
+M>geranion</E
+M>Geranium robertianum</E
+M>sanguineum</E
+M>olio di g</E
+M>muschiato</E
+M>erba moscata</E
+M>Erodium moschatum</E

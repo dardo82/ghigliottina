@@ -1,0 +1,24 @@
+funzionamento.txt
+"di semplice funzionamento"
+"funzionamento"
+"funzionamento logico"
+"in perfetto funzionamento"
+"mal funzionamento"
+"modalità di funzionamento"
+"principio di funzionamento"
+#*''il funzionamento di un'apparecchiatura''
+*[[funzione]], [[meccanismo]], [[andamento]]
+M>il f</E
+M>di una macchina</E
+M>di un ufficio</E
+M>spiegare il f</E
+M>di un congegno</E
+M>cattivo</E
+M>buon f</E
+M>di un’azienda</E
+M>mal f. di un meccanismo</E
+M>di un’industria</E
+M>malfunzionamento</E
+M>stime di f</E
+M>bilanci di f</E
+M>debiti di f</E

@@ -1,0 +1,34 @@
+corredo.txt
+"a corredo"
+"a corredo"
+"cassa da corredo"
+"corredo"
+"corredo"
+"corredo"
+"corredo da sposa"
+"corredo da sposa"
+"corredo funerario"
+"corredo genetico"
+M>da sposa</E
+M>nuziale</E
+M>per neonato</E
+M>funebre</E
+M>il c</E
+M>di banchi</E
+M>lavagne</E
+M>cattedre</E
+M>sussidî didattici</E
+M>occorrenti per la scuola</E
+M>kit</E
+M>testo con ampio c</E
+M>di note</E
+M>bibliografico</E
+M>persona fornita di ricco c</E
+M>di erudizione</E
+M>di cognizioni</E
+M>avere un notevole c</E
+M>di virtù</E
+M>di vizî</E
+M>cromosomico</E
+M>cavalieri novelli di Cicilia fecero per amor di lui un gran c</E
+M>Novellino</E

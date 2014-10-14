@@ -1,0 +1,19 @@
+applaudire.txt
+"applaudire"
+*[[acclamare]], [[approvare]]
+*[[applaudito]], [[applauso]]
+M>applaud</E
+M>plaud</E
+M>io applàudo</E
+M>applaudisco</E
+M>tu applàudi</E
+M>applaudisci</E
+M>avere</E
+M>alla sua proposta tutti applaudirono</E
+M>il pubblico applaudì ripetutamente il discorso</E
+M>l’oratore</E
+M>la cantante</E
+M>fu applaudito da tutti per il suo coraggio</E
+M>tutti applaudirono la sua idea</E
+M>alla sua idea</E
+M>l’effetto della nave sin qui mostra di applaudere all’opinion nostra</E

@@ -1,0 +1,35 @@
+disteso.txt
+"distendere, mettere disteso"
+"disteso"
+"disteso"
+"essere disteso su"
+"lungo disteso"
+"stare disteso"
+"stare disteso"
+M>distendere</E
+M>braccia d</E
+M>lungo i fianchi</E
+M>con la mano d</E
+M>se ne stava d</E
+M>sul letto</E
+M>lungo</E
+M>con un pugno lo fece cadere lungo d</E
+M>a terra</E
+M>distendere</E
+M>capelli d</E
+M>vela d</E
+M>vento d</E
+M>vento teso</E
+M>esercito d</E
+M>trotto d</E
+M>trotto serrato</E
+M>canzone d</E
+M>cantare a voce d</E
+M>dittongo d</E
+M>dittongo discendente</E
+M>per disteso</E
+M>per esteso</E
+M>raccontare un fatto per d</E
+M>mi lesse la lettera per disteso</E
+M>discutere distesamente del progetto</E
+M>mi espose distesamente i fatti</E

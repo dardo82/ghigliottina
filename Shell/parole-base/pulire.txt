@@ -1,0 +1,56 @@
+pulire.txt
+"atto a pulire le armi da fuoco"
+"pulire"
+"pulire"
+"pulire"
+"pulire a secco"
+"pulire al vapore"
+"pulire con aspirapolvere"
+"pulire con bastoncino cotonato"
+"pulire con una spugna"
+"pulire internamente"
+"pulire la fedina penale"
+"pulire la finestra"
+"pulire strofinando"
+"pulire, pulizie"
+*[[lavare]], [[lucidare]], [[lustrare]], [[mondare]], [[nettare]], [[rassettare]], [[riordinare]], [[ripulire]], [[smacchiare]], [[spazzare]], [[spolverare]]
+*[[sporcare]], [[insozzare]], [[macchiare]]
+*[[pulirsi]], [[pulisciorecchi]], [[puliscipenne]], [[puliscipiedi]],[[pulisciscarpe]], [[pulita]], [[pulito]], [[pulizia]], [[ripulire]]
+M>polire</E
+M>io pulisco</E
+M>tu pulisci</E
+M>la strada</E
+M>la piazza</E
+M>forti raffiche di vento pulivano le vie</E
+M>il pavimento con la scopa</E
+M>con l&#8217;aspirapolvere</E
+M>il tavolo</E
+M>la scrivania</E
+M>il cassettone</E
+M>gli abiti</E
+M>le scarpe</E
+M>la penna</E
+M>i pennelli</E
+M>i vetri</E
+M>una lastra di marmo</E
+M>una ferita</E
+M>sta tutto il giorno a pulire</E
+M>pulirsi</E
+M>pulirsi la faccia</E
+M>le mani</E
+M>pulirsi la bocca</E
+M>pulirsi il naso</E
+M>pulirsi dalla polvere</E
+M>salgo un momento in casa a pulirmi le scarpe</E
+M>pulirsi le scarpe prima d&#8217;entrare in casa</E
+M>un campo</E
+M> un&#8217;aiuola dalle erbacce</E
+M>il giardino dalle foglie secche</E
+M>l&#8217;insalata</E
+M>il pesce</E
+M>il piatto</E
+M>le tasche</E
+M>il portafoglio a qualcuno</E
+M>pulirlo</E
+M>polire</E
+M>uno scritto</E

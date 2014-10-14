@@ -1,0 +1,41 @@
+dettaglio.txt
+"ad un prezzo al dettaglio"
+"al dettaglio"
+"attenzione al dettaglio"
+"commerciante al dettaglio"
+"commerciante al dettaglio"
+"cura del dettaglio"
+"dettaglio"
+"dettaglio"
+"dettaglio insignificante"
+"dettaglio secondario"
+"grado di dettaglio"
+"in dettaglio"
+"livello di dettaglio"
+"più in dettaglio"
+"programmare in dettaglio"
+"rivendita al dettaglio"
+"senza dover spiegare le cose nel dettaglio"
+"vendere al dettaglio"
+"vendere al dettaglio"
+*[[particolarità]], [[particolare]], [[minuzia]], [[quisquilia]]
+*[[al dettaglio]]
+* [[retail]]
+M>détail</E
+M>détailler</E
+M>esporre tutti i d</E
+M>di un fatto</E
+M>un fatto in tutti i d</E
+M>entrare nei d</E
+M>i d</E
+M>di un quadro</E
+M>di una facciata</E
+M>di un’opera d’arte</E
+M>in dettaglio</E
+M>esporre</E
+M>narrare</E
+M>esaminare in dettaglio</E
+M>Vendere</E
+M>vendita al d</E
+M>all’ingrosso</E
+M>al dettaglio</E

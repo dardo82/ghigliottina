@@ -1,0 +1,33 @@
+addormentare.txt
+"addormentare"
+"addormentare"
+"addormentare, replace: addormentarsi"
+"addormentare, replace: addormentarsi"
+"addormentare, replace: addormentarsi"
+"far addormentare"
+#* ''ho fatto 
+#* ''hanno '''addormentato''' il cavallo''
+#* ''col tuo discorso hai '''addormentato''' tutti''
+#* ''oggi '''addormenteranno''' il cane, così non soffrirà più''
+M>*addormentare</E
+M>dormire</E
+M>dormentare</E
+M>io addorménto</E
+M>il bambino</E
+M>libro che addormenta i lettori</E
+M>ha una voce così monotona che addormenta</E
+M>mi hanno addormentato prima dell’operazione</E
+M>la parte</E
+M>un dolore</E
+M>l’ozio addormenta lo spirito</E
+M>m’addormentai verso l’alba</E
+M>addormentarsi nel Signore</E
+M>nella pace del Signore</E
+M>nel bacio del Signore</E
+M>addormentarsi sopra una cosa</E
+M>copiami questa lettera</E
+M>ma senz’addormentartici</E
+M>mi s’è addormentata la gamba</E
+M>lo trovai già addormentato</E
+M>il paese pareva addormentato</E
+M>La bella addormentata nel bosco</E

@@ -1,0 +1,27 @@
+denuncia.txt
+"denuncia, denunzia"
+"denunciation, condemnation"
+"denuncia, denunzia"
+"denuncia di scomparsa"
+"denuncia eccessiva"
+"obbligo di denuncia"
+*[[denunzia]]
+*italiano
+*spagnolo
+M>denunciare</E
+M>denunziare</E
+M>-ce</E
+M>-zie</E
+M>sporgere</E
+M>presentare</E
+M>inoltrare una denuncia</E
+M>di una nascita</E
+M>di un decesso</E
+M>sanitaria</E
+M>amministrativa</E
+M>dei redditi</E
+M>dichiarazione dei redditi</E
+M>nunciatio</E
+M>di danno temuto</E
+M>di nuove opere</E
+M>d. di un contratto collettivo</E

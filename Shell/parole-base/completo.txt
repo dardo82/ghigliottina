@@ -1,0 +1,102 @@
+completo.txt
+"a ciclo completo"
+"a personale completo"
+"a\/di taglio completo"
+"al gran completo"
+"assoluto, completo"
+"aver fatto il giro completo"
+"avere completo successo"
+"circuito completo"
+"completo"
+"completo"
+"completo"
+"completo"
+"completo"
+"completo"
+"completo"
+"completo a metà"
+"completo a righe"
+"completo da sera"
+"completo fallimento"
+"completo pantalone"
+"completo per donna composto da due maglie"
+"completo, esauriente"
+"completo, puntiglioso"
+"giacca da completo"
+"in modo non completo, incompletamente (raro)"
+"nome completo"
+"pacchetto completo"
+"pasto completo"
+"permesso completo"
+"spartito completo"
+"sviluppo completo"
+"tutto; completo"
+"visita completa; giro completo"
+*[[intero]], [[integro]], [[integrale]], [[compiuto]], [[finito]], [[ultimato]], [[minuzioso]], [[particolareggiato]], [[esauriente]]
+*[[compiuto]],  [[pieno]]
+*''(di persona)'' [[provetto]]
+*(di cinema, teatro, albergo) [[pieno]], [[colmo]], interamente occupato
+*[[incompleto]], [[incompiuto]], [[mancante]], [[frammentario]]
+*[[completamente]]
+*[[vuoto]]
+M>completus</E
+M>complere</E
+M>complet</E
+M>elenco c</E
+M>dei partecipanti</E
+M>catalogo c</E
+M>dei manoscritti</E
+M>possedere una serie c</E
+M>di francobolli</E
+M>opere c</E
+M>di un autore</E
+M>opera c</E
+M>essere in c</E
+M>miseria</E
+M>giacere in c</E
+M>abbandono</E
+M>fu un c</E
+M>successo</E
+M>un c</E
+M>trionfo</E
+M>avere una visione completa</E
+M>essere al c</E
+M>au complet</E
+M>l’autobus era al c</E
+M>il teatro è al c</E
+M>è c</E
+M>era completo</E
+M>il consiglio d’amministrazione al c</E
+M>la banda al c</E
+M>al gran c.</E
+M>au grand complet</E
+M>completo</E
+M>c’era il c</E
+M>ieri sera a teatro</E
+M>la sala della riunione è grande</E
+M>eppure abbiamo fatto il completo</E
+M>un artista</E
+M>un attore c</E
+M>corridore c</E
+M>ora sei c</E
+M>non ti mancava che questo per essere c</E
+M>fiore c</E
+M>polinomio c</E
+M>tutte</E
+M>un c</E
+M>da uomo</E
+M>indossava un c</E
+M>grigio di taglio perfetto</E
+M>twin set</E
+M>romeo e giulietta</E
+M>un c</E
+M>da tennis</E
+M>un c</E
+M>da sci</E
+M>un c</E
+M>da sub</E
+M>un c</E
+M>da toletta</E
+M>da scrittoio</E
+M>una famiglia completamente rovinata</E
+M>è completamente falso ciò che tu dici</E

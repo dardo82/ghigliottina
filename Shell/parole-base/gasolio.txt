@@ -1,0 +1,10 @@
+gasolio.txt
+"gasolio"
+"gasolio con tenore di zolfo"
+#* ''Fare rifornimento di 
+* [[nafta]]
+* [[benzina]], [[petrolio]], [[carburante]], [[idrocarburo]], [[raffinazione]]
+M>gasoil</E
+M>gas</E
+M>oil</E
+M>nafta</E

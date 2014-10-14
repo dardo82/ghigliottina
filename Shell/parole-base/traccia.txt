@@ -1,0 +1,96 @@
+traccia.txt
+"lasciare la propria traccia"
+"linea immaginaria sulla superficie della terra che traccia un'altra linea immaginaria tra il centro"
+"non lasciar traccia"
+"non lasciare traccia"
+"perdere traccia di qualcosa"
+"ritrovare la traccia (di cane)"
+"senza traccia"
+"tenere traccia di"
+"traccia"
+"traccia"
+"traccia"
+"traccia"
+"traccia"
+"traccia"
+"traccia"
+* [[impronta]], [[orma]], [[solco]], [[segno]], [[pesta]], [[scia]] 
+*''(di un disegno, di un discorso)'' [[abbozzo]], [[schema]], [[canovaccio]]
+*''(di un supporto di registrazione)'' [[pista magnetica]]
+* [[vestigio]]
+*[[rintracciare]]
+*[[tracciare]]
+M>le t. del carro sul terreno</E
+M> degli sci sulla neve</E
+M>la t. dell&#8217;aratro</E
+M>fumiga la traccia Del ferro aperta alle seminagioni</E
+M>fare la t.</E
+M> aprire una t. nella neve</E
+M>la lumaca lascia la sua t. sui muri</E
+M>il proiettile disegnò una t. luminosa nell&#8217;aria</E
+M>seguire le t. di qualcuno</E
+M>cercare la t.</E
+M>le t. della lepre</E
+M> del cinghiale</E
+M> di un branco di starne</E
+M>t. fresca</E
+M> svanita</E
+M> falsa</E
+M> di corsa</E
+M>di fuga</E
+M> vecchia</E
+M> recente</E
+M> fredda</E
+M>t. a occhio</E
+M>t. a naso</E
+M>essere sulla t.</E
+M>seguire</E
+M> segnare</E
+M> perdere</E
+M> ritrovare la t.</E
+M>le tracce</E
+M>la polizia è sulle t. dell&#8217;assassino</E
+M>hanno seguito a lungo una falsa t.</E
+M>andare in traccia</E
+M> mettersi sulle t.</E
+M>rintracciare</E
+M>c&#8217;erano tracce di sangue</E
+M>sulla parete rimangono ancora tracce di affreschi</E
+M>non ne resta traccia</E
+M>nella sua voce non c&#8217;era t. d&#8217;irritazione</E
+M>sostanza in tracce</E
+M>nel paese si vedevano ancora le t. del passaggio dell&#8217;esercito nemico</E
+M>le t. rimaste nella lingua italiana della dominazione longobarda</E
+M>aveva evidenti nel viso le t. della sbornia della sera prima</E
+M>i patimenti avevano lasciato profonde t. nel suo volto</E
+M>nel suo spirito</E
+M>è una città ormai decaduta ma che conserva ancora alcune t. dell&#8217;antica grandezza</E
+M>t. mnesica</E
+M>mnestica</E
+M>è scomparso</E
+M>se n&#8217;è andato dal paese</E
+M>ha lasciato la famiglia</E
+M>senza lasciar traccia di sé.</E
+M>graffito</E
+M>gettare giù la t. di un discorso</E
+M> di una relazione</E
+M>farsi la t. di un articolo.</E
+M>Onde la t. vostra è fuor di strada</E
+M>All&#8217;incalzante scalpito Della zampa</E
+M> che caccia Polve</E
+M> e sassi in sua t.</E
+M>perdere la t.</E
+M>Onde &#8217;l vago desir perde la t.</E
+M>Del</E
+M>dal</E
+M>vecchio ponte guardavam la traccia Che venìa verso noi da l&#8217;altra banda</E
+M>t. di una retta</E
+M>t. di un piano</E
+M>t. di una matrice quadrata</E
+M>t. fogliare</E
+M>T. sonora</E
+M>t. magnetica</E
+M>pista magnetica</E
+M>impianto sotto traccia</E
+M>t. di una particella</E
+M>t. oscillografica</E

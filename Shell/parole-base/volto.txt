@@ -1,0 +1,53 @@
+volto.txt
+"a volto scoperto"
+"col volto da bambino"
+"con un solo volto"
+"dal volto da bambino"
+"dal volto scuro"
+"dal volto tetro"
+"incorniciare il volto"
+"leggere sul volto"
+"tratto (del volto)"
+"volto"
+"volto"
+"volto"
+"volto"
+"volto, replace: volto a"
+"volto che non denota alcuna emozione"
+"volto scuro"
+"volto televisivo"
+"volto verso"
+"volto verso"
+#* elmi, usati sia come figure araldiche che come ornamenti esteriori dello [[scudo]], e posti a tre quarti di [[profilo]] sia a [[destra]] che a [[sinistra]]
+#* al crescente quando ha i corni rivolti verso il [[fianco]] destro dello scudo, posizione che non si blasona
+*(viso umano) [[faccia]], [[viso]]
+*italiano
+M>ltus</E
+M>viso</E
+M>faccia</E
+M>avere un bel v.</E
+M>essere triste</E
+M>acceso in volto</E
+M>pon mente per le strade</E
+M> sul fare della sera</E
+M> i v. d’omini e donne quando è cattivo tempo: quanta grazia e dolcezza si vede in loro</E
+M>e avea sul volto Il pallor della morte e la speranza</E
+M> sono qui e nessuno mi conosce</E
+M> sono un v. anonimo in questa moltitudine di v. anonimi</E
+M> sono qui come potrei essere altrove</E
+M>un v. nuovo</E
+M>volti nuovi</E
+M>Volto Santo</E
+M>Santo Volto</E
+M>il v. della terra</E
+M>Dal duro v. de la terra il sole Non tollea ancora il velo oscuro et atro</E
+M>il v. della natura</E
+M>della realtà</E
+M>la maggior vita degli animi inchiude maggiore efficacia di amor proprio</E
+M> dovunque esso s’inclini</E
+M> e sotto qualunque v. si manifesti</E
+M>e come</E
+M>franse L’uniforme creato in mille v.</E
+M>v. mutevole d’aria e di colli</E
+M>scoprire il vero v. di una persona</E
+M>socialismo dal v. umano</E

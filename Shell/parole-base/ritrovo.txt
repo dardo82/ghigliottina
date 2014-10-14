@@ -1,0 +1,24 @@
+ritrovo.txt
+"luogo di ritrovo di coppiette"
+"posto di ritrovo"
+"ritrovo"
+"ritrovo"
+*[[ritrovo notturno]]
+M>far r</E
+M>in un luogo</E
+M>scelsero come luogo di r</E
+M>una vecchia casa disabitata</E
+M>quel bar è un r</E
+M>di fannulloni</E
+M>la polizia fece irruzione nel r</E
+M>dei ladri</E
+M>delle spie</E
+M>dei congiurati</E
+M>il nostro r</E
+M>serale è il caffè all&#8217;angolo; fece il giro di tutti i r</E
+M>notturni della città</E
+M>simpatico</E
+M>affollato</E
+M>frequentato</E
+M>mondano</E
+M>di lusso</E

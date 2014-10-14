@@ -1,0 +1,26 @@
+panna.txt
+"bigné alla panna"
+"gelato con panna montata"
+"latte col 50% di panna"
+"mettere in panna"
+"mettersi in panna"
+"mezza panna"
+"panna"
+"panna"
+"panna"
+"panna acida"
+"panna cotta"
+"panna cotta"
+"panna da cucina"
+"panna grassa"
+"panna liquida"
+"panna liquida; doppio misto (tennis)"
+"panna montata"
+"salsa alla panna"
+"tè alla panna"
+"zuppa alla panna"
+#*''per dimagrire non bisogna mangiare panna''
+* [[pannare]]
+*italiano
+*polacco
+*finlandese

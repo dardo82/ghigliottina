@@ -1,0 +1,16 @@
+salvagente.txt
+"giubbotto salvagente"
+"salvagente"
+"salvagente"
+"salvagente"
+"zattera salvagente"
+M>salvare</E
+M>gente</E
+M>i salvagenti</E
+M>cintura di salvataggio</E
+M>s. individuali</E
+M>s. da lancio</E
+M>s. collettivi</E
+M>zattere di salvataggio</E
+M>giubbotto</E
+M>ciambella salvagente.</E

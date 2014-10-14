@@ -1,0 +1,179 @@
+carne.txt
+"battuto di carne"
+"brodo di carne"
+"c'è molta carne al fuoco"
+"carne"
+"carne"
+"carne"
+"carne"
+"carne"
+"carne arrosto"
+"carne bianca, pollame"
+"carne coriacea"
+"carne cotta"
+"carne d'oca"
+"Carne da cannone"
+"carne da macello"
+"carne di bovino"
+"carne di cervo"
+"carne di fagiano"
+"carne di maiale"
+"carne di maiale"
+"carne di manzo in scatola"
+"carne di montone o pecora"
+"carne di prima scelta"
+"carne di salsiccia"
+"carne di vitello"
+"carne e ossa"
+"carne fredda"
+"carne in scatola"
+"carne in scatola"
+"carne macinata"
+"carne macinata"
+"carne mortale"
+"carne per cani"
+"carne per il pranzo"
+"carne putrefatta"
+"carne rossa"
+"carne tritata"
+"carne tritata"
+"carne umana"
+"carne viva"
+"color carne"
+"color carne"
+"coltello da carne"
+"con carne di pollo"
+"della carne"
+"fatto di carne"
+"i piaceri della carne"
+"imballatore per la carne"
+"in carne"
+"in carne e ossa"
+"la carne"
+"la carne è debole"
+"la Parola si è fatta Carne"
+"lo spirito è forte, ma la carne è debole"
+"mercato della carne"
+"mettere su carne; ingrassare"
+"mettere troppa carne al fuoco"
+"né carne né pesce"
+"non essere né carne né pesce"
+"offerta di carne"
+"pasticcio di carne"
+"pasticcio di carne"
+"pasticcio di carne"
+"pasticcio di carne e rognone"
+"pasticcio di carne e verdure o di spezzatino e pasta"
+"pasticcio di carne lessa"
+"pasticcio di carne ricoperto di purè"
+"pezzo di carne"
+"piatto con carne e riso"
+"piatto con carne e riso"
+"polpettone di carne"
+"riso con carne o pesce"
+"riso con carne o pesce"
+"ristorante di carne alla griglia"
+"sugo di carne"
+"zuppa di carne in umido"
+#*''per dimagrire non bisogna mangiare carne grassa e derivati''
+*[[tritacarne]]
+*[[carne]]
+*italiano
+*romeno
+*spagnolo
+M>caro carnis</E
+M>avere poca</E
+M>molta c</E
+M>addosso</E
+M>essere in c</E
+M>essere bene in c</E
+M>fare c</E
+M>rimettersi</E
+M>tornare in c</E
+M>viva</E
+M>il ferro gli penetrò nella c</E
+M>viva</E
+M>sode</E
+M>fresche</E
+M>bianchissime</E
+M>in c. e ossa</E
+M>essere di c</E
+M>e ossa</E
+M>la propria c</E
+M>amore della propria c</E
+M>della propria c</E
+M>battezzata</E
+M>trafficante</E
+M>venditore di c</E
+M>umana</E
+M>da lavoro</E
+M>io ne conosco uno di questi splendidi esemplari di c</E
+M>da lavoro</E
+M>venduta</E
+M>da macello</E
+M>da cannone</E
+M>mandare al fronte come c</E
+M>da macello</E
+M>considerare c</E
+M>da cannone</E
+M>Napoleone fu amatissimo dalla Francia</E
+M>ed oggetto</E
+M>di culto ai soldati</E
+M>che egli chiamò carne da cannone</E
+M>e trattò come tali</E
+M>la resurrezione della c</E
+M>il verbo si è fatto c</E
+M>lo spirito è pronto ma la c</E
+M>è debole</E
+M>la mortificazione della carne</E
+M>le tentazioni della c</E
+M>peccati di c</E
+M>Chi nel diletto de la c</E
+M>involto S’affaticava</E
+M>anima</E
+M>mente</E
+M>spirito</E
+M>non abita in me</E
+M>cioè nella mia c</E
+M>il bene</E
+M>ai Romani</E
+M>con la mente servo la legge di Dio</E
+M>con la c</E
+M>quella del peccato</E
+M>ai Galati</E
+M>carne</E
+M>di bue</E
+M>di maiale</E
+M>di pollo</E
+M>bovina</E
+M>ovina</E
+M>caprina</E
+M>suina</E
+M>equina</E
+M>c. bianche</E
+M>rosse</E
+M>nere</E
+M>in scatola</E
+M>affumicata</E
+M>congelata</E
+M>surgelata</E
+M>refrigerata</E
+M>Estratto di c.</E
+M>trovare c</E
+M>per i proprî denti</E
+M>non è c</E
+M>per i tuoi denti</E
+M>pane</E
+M>carne</E
+M>mettere troppa c</E
+M>al fuoco</E
+M>non essere né c</E
+M>né pesce</E
+M>un vestito color c.</E
+M>una camicetta rosa carne</E
+M>può appena muoversi</E
+M>con tutta quella carnaccia che ha addosso</E
+M>carnaccia tigliosa</E
+M>sei una gran carnaccia</E
+M>lo conosco</E
+M>è una carnaccia!</E

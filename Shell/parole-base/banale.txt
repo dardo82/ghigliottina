@@ -1,0 +1,38 @@
+banale.txt
+"anonimo, indistinto, sciatto, banale"
+"banale"
+"banale"
+"banale, ordinario"
+"espressione banale"
+"mondano, banale"
+"osservazione banale"
+"questione banale, questione futile"
+*[[comune]], [[ordinario]], [[normale]], [[mediocre]], [[andante]], [[solito]], [[usuale]], [[consueto]], [[convenzionale]], [[corrente]], [[insulso]], [[insignificante]], [[insipido]], [[piatto]], [[scialbo]], [[dozzinale]], [[pedestre]], [[ovvio]], [[scontato]], [[trito]], [[ritrito]], [[risaputo]], [[abusato]], [[triviale]], [[pacchiano]], [[plebeo]], [[grossolano]]
+*[[originale]], [[particolare]], [[singolare]], [[tipico]], [[caratteristico]], [[insolito]], [[nuovo]], [[inconsueto]], [[straordinario]], [[raro]]
+M>banal</E
+M>ban</E
+M>discorso</E
+M>frase</E
+M>complimento b</E
+M>giudizî b</E
+M>un romanzo</E
+M>una commedia</E
+M>un film b</E
+M>con un b</E
+M>pretesto</E
+M>fare</E
+M>condurre una vita b</E
+M>un’esistenza b</E
+M>parole</E
+M>locuzioni b</E
+M>un b</E
+M>procedimento</E
+M>per un b</E
+M>incidente</E
+M>ha rischiato di rimanere cieco</E
+M>soluzione b</E
+M>il mulino</E
+M>banale</E
+M>del feudatario</E
+M>l’autorità banale</E
+M>esprimersi banalmente</E

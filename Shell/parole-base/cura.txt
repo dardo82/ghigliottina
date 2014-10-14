@@ -1,0 +1,170 @@
+cura.txt
+"a cura di"
+"abbi cura di te"
+"arte della cura"
+"arti della cura"
+"aver cura"
+"avere cura"
+"avere cura di qualcuno"
+"casa di cura"
+"chi si prende cura di"
+"chi si prende cura di"
+"con cura"
+"cura"
+"cura"
+"cura"
+"cura"
+"cura"
+"cura"
+"cura"
+"diritto: curatela"
+"cura amorevole"
+"cura amorevole"
+"cura canalare"
+"cura da cavallo."
+"cura dei piedi"
+"cura dei piedi"
+"cura del bambino"
+"cura del dettaglio"
+"cura dell'uva"
+"cura delle malattie mentali"
+"cura medica"
+"cura medica"
+"cura naturale"
+"cura pastorale"
+"cura per tutto"
+"cura preventiva"
+"custodire con cura"
+"in cura presso"
+"istituto di cura"
+"libertà di cura"
+"luogo di cura"
+"luogo di cura o soggiorno in montagna"
+"luogo di cura; stazione climatica"
+"non prendersi cura di"
+"prendersi cura"
+"prendersi cura di"
+"prendersi cura di qualcuno"
+"sala di cura"
+"scelto con cura"
+"terapia del tumore, cura del cancro"
+*[[impegno]], [[interessamento]], [[attenzione]], [[riguardo]], [[considerazione]], [[affetto]], [[amore]], [[dedizione]], [[sollecitudine]], [[premura]]
+*''(di figli, bambini)'' [[protezione]], [[tutela]], [[custodia]], [[sorveglianza]]
+*''(della casa, dei beni)'' [[amministrazione]], [[controllo]], [[guida]], [[direzione]], [[gestione]]
+*[[serietà]], [[precisione]], [[esattezza]], [[accuratezza]], [[diligenza]], [[zelo]], [[solerzia]], [[creanza]]
+*[[terapia]], [[trattamento]], [[rimedio]]
+*[[disimpegno]], [[disinteresse]], [[indifferenza]], [[disattenzione]], [[trascuratezza]]
+*[[egoismo]]
+*[[curare]]
+*''prendersi cura''
+M>dedicare ogni c</E
+M>alla famiglia</E
+M>all’educazione dei figli</E
+M>ai proprî interessi</E
+M>avere c</E
+M>prendersi c</E
+M>di qualcuno</E
+M>di qualche cosa</E
+M>avere c</E
+M>della propria persona</E
+M>dei proprî oggetti</E
+M>avere c</E
+M>del bestiame</E
+M>dei fiori</E
+M>dell’orto</E
+M>non darsi c</E
+M>di nulla</E
+M>parentali</E
+M>colturali</E
+M>al sole</E
+M>ad aria</E
+M>a fuoco diretto</E
+M>conservare</E
+M>custodire con c</E
+M>aversi c</E
+M>pazienti</E
+M>assidue</E
+M>affettuose</E
+M>materne</E
+M>filiali</E
+M>raddoppiare le c</E
+M>affidare i figli alle c</E
+M>di un buon maestro</E
+M>porre c</E
+M>in qualche cosa</E
+M>lavoro fatto con molta c</E
+M>indagare con la massima cura</E
+M>la c</E
+M>della casa</E
+M>le c</E
+M>dello stato</E
+M>le gravi c</E
+M>del suo ufficio</E
+M>a cura di</E
+M>per cura di</E
+M>nuova edizione a c</E
+M>la somma è stata raccolta a c</E
+M>del Comitato</E
+M>l’unica sua c</E
+M>è la famiglia</E
+M>non ha altra c</E
+M>che lo sport</E
+M>il gioco</E
+M>lo studio</E
+M>terapia</E
+M>la c</E
+M>dei tumori</E
+M>delle affezioni polmonari</E
+M>delle nefropatie</E
+M>dimagrante</E
+M>provare un nuovo metodo di c</E
+M>prescrivere</E
+M>adottare una c</E
+M>fare una c</E
+M>sottoporre</E
+M>sottoporsi a una c</E
+M>seguire scrupolosamente la c</E
+M>tutte le c</E
+M>sono state vane</E
+M>una c</E
+M>efficace</E
+M>miracolosa</E
+M>preventiva</E
+M>profilassi</E
+M>casa di cura</E
+M>località di cura</E
+M>imposta di cura</E
+M>di soggiorno</E
+M>fare la c</E
+M>del chinino</E
+M>del cortisone</E
+M>degli antibiotici</E
+M>la c</E
+M>delle acque</E
+M>avere un malato in cura</E
+M>affidarsi alle c</E
+M>di un valente internista</E
+M>essere in cura</E
+M>sotto cura</E
+M>curatela</E
+M>la c</E
+M>di un fallimento</E
+M>la c</E
+M>degli affari</E
+M>dell’azienda</E
+M>del patrimonio</E
+M>cura d’anime</E
+M>cura</E
+M>avere una c</E
+M>vasta</E
+M>numerosa</E
+M>quella</E
+M>a destra saliva verso il monte</E
+M>e menava alla c</E
+M>essere oppresso da gravi c</E
+M>avere l’animo sgombro da cure</E
+M>Sento gli avversi Numi</E
+M>e le secrete Cure che al viver tuo furon tempesta</E
+M>Il dissidio</E
+M>o mortal</E
+M>de le tue cure</E

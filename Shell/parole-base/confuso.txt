@@ -1,0 +1,51 @@
+confuso.txt
+"(essere) agitato, confuso"
+"(essere) confuso, perplesso"
+"agitato, eccitato, confuso"
+"borbottare, parlare in modo confuso"
+"con grande scompiglio, confuso, disordinato"
+"confuso"
+"confuso"
+"confuso"
+"confuso, alterato"
+"confuso, perplesso"
+"confuso; incasinato"
+"essere disorientato, confuso"
+"non va confuso con"
+"pasticciato, confuso"
+"rendere confuso"
+*[[disordinato]], [[caotico]], [[ammassato]], [[mescolato]], [[sconnesso]], [[disorganico]]
+*''(di discorso, idee)'' poco chiaro, [[ambiguo]], [[incoerente]], [[incomprensibile]]
+*''(di immagine, suono)'' [[vago]], [[incerto]], [[indistinto]], [[impreciso]], [[indeterminato]], [[informe]]
+* [[sconclusionato]], [[scombinato]] 
+*''(di persona)''  [[disorientato]], [[smarrito]], [[turbato]], [[emozionato]], [[scosso]] 
+*[[ordinato]], [[organico]], [[organizzato]]
+*''(di discorso, idee)'' [[chiaro]], [[coerente]], [[comprensibile]]
+*''(di immagine, suono)'' [[distinto]], [[netto]]
+* [[disciplinato]], [[preciso]], [[sistematico]], [[metodico]]
+*''(di persona)'' [[lucido]], [[tranquillo]]
+*[[confusamente]], [[confusionale]], [[confusione]]
+:* [[confused]],  [[muddled]] (of speech etc),  [[embarrassed]],  [[hazy]] (of memory etc)
+M>confondere</E
+M>confusus</E
+M>confund</E
+M>un mucchio c</E
+M>di oggetti di ogni specie</E
+M>sperava di passare inosservato</E
+M>c. com’era in mezzo alla folla</E
+M>fare un discorso c</E
+M>avere le idee c</E
+M>la mente c</E
+M>ho dei ricordi molto c</E
+M>si udiva un mormorio c</E
+M>in confuso</E
+M>l’ho veduto in c</E
+M>da lontano</E
+M>mi ricordo qualche cosa in confuso</E
+M>sorpreso a frugare nel cassetto</E
+M>restò lì c</E
+M>e senza parola</E
+M>rispose confusetto il dottore</E
+M>ninnoli e statuine confusamente ammassati sugli scaffali</E
+M>nella sua mente si affollavano confusamente i ricordi</E
+M>rivedo confusamente il suo viso</E

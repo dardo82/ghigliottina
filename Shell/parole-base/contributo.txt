@@ -1,0 +1,30 @@
+contributo.txt
+"ampio contributo"
+"contributo"
+"contributo"
+"contributo"
+"contributo alla campagna"
+"contributo associativo"
+"contributo federale"
+"contributo in conto capitale"
+"contributo pubblico"
+*[[concorso]], [[apporto]], [[aiuto]], [[partecipazione]] 
+*[[contribuzione]], [[quota]], [[parte]], [[ versamento]]
+M>contributum</E
+M>contribu</E
+M>in denaro</E
+M>in lavoro</E
+M>di sangue</E
+M>dare</E
+M>offrire</E
+M>recare il proprio contributo</E
+M>per la manutenzione delle fognature</E
+M>di utenza stradale</E
+M>speciali di cura</E
+M>contributi di miglioria</E
+M>contributo di miglioria</E
+M>consorziali</E
+M>previdenziale</E
+M>unificati</E
+M>c. etico</E
+M>di solidarietà</E

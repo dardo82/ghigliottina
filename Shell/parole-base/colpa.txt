@@ -1,0 +1,108 @@
+colpa.txt
+"ammettere la colpa, ammettere la colpevolezza"
+"colpa"
+"colpa"
+"colpa"
+"concorso di colpa"
+"congedo per colpa"
+"dare la colpa"
+"dare la colpa a"
+"dare la colpa a"
+"dare la colpa a"
+"dare la colpa di qualcosa a qualcuno"
+"gettare la colpa"
+"imputare colpa a qn"
+"macchiarsi di una colpa"
+"non è colpa mia"
+"per colpa mia"
+"prendere la colpa"
+"prendersi la colpa"
+"sensi di colpa"
+"senso di colpa"
+"sentirsi in colpa"
+"senza colpa"
+*[[responsabilità]], [[fallo]], [[errore]], [[sbaglio]], [[mancanza]], [[torto]]
+*'' (perseguibile giudizialmente)'' [[reato]], [[crimine]], [[delitto]],[[ misfatto]] 
+*[[merito]]
+*[[colpare]], [[senso di colpa]]
+M>lpa</E
+M>grave</E
+M>leggera</E
+M>imperdonabile</E
+M>scusabile</E
+M>commettere una c</E
+M>macchiarsi di una c</E
+M>cadere</E
+M>essere in c</E
+M>sentirsi</E
+M>chiamarsi in c</E
+M>confessare una c</E
+M>perdonare una c</E
+M>lavare una c</E
+M>col sangue</E
+M>piangere</E
+M>scontare</E
+M>espiare una c</E
+M>esagerare le proprie c</E
+M>aggravare</E
+M>attenuare la propria c</E
+M>tentando di mentire</E
+M>non ha fatto che aggravare la sua c</E
+M>attribuire</E
+M>ascrivere</E
+M>imputare a c</E
+M>essere senza colpa</E
+M>essere esente da colpe</E
+M>piangere per le c</E
+M>degli altri</E
+M>soffrire per le c</E
+M>altrui</E
+M>senso</E
+M>sentimento di colpa</E
+M>complesso di colpa</E
+M>sono arrivato in ritardo e con un gran senso di c. per la loro lunga attesa</E
+M>Per la dannosa c</E
+M>de la gola</E
+M>Come tu vedi</E
+M>a la pioggia mi fiacco</E
+M>confessare le proprie c</E
+M>pentirsi delle c</E
+M>commesse</E
+M>la c</E
+M>originale</E
+M>indulgenza</E
+M>perdono di c</E
+M>e pena</E
+M>avere la c</E
+M>tutta la c</E
+M>di un incidente</E
+M>non ho c</E
+M>non è c</E
+M>mia</E
+M>se tu capisci le cose a rovescio</E
+M>è tutta c</E
+M>della tua distrazione</E
+M>è c</E
+M>tua se i figli sono cresciuti viziati</E
+M>non avere né c</E
+M>né peccato in un’azione</E
+M>prendersi la c</E
+M>per sé</E
+M>addossarsi una c</E
+M>dare la c</E
+M>a qualcuno</E
+M>rovesciare la c</E
+M>addosso a un altro</E
+M>che c</E
+M>ci ha la gatta se la massaia è matta?</E
+M>colpa</E
+M>lieve</E
+M>in astratto</E
+M>lievissima</E
+M>cosciente</E
+M>con previsione</E
+M>incosciente</E
+M>senza previsione</E
+M>commerciale</E
+M>nautica</E
+M>tecnica</E

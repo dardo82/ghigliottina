@@ -1,0 +1,21 @@
+superbia.txt
+"superbia"
+"superbia"
+*[[orgoglio]], [[ambizione]] 
+M>superbia</E
+M>superbus</E
+M>tratta tutti con s.</E
+M>guardare</E
+M>rispondere con s.</E
+M>peccare di s.</E
+M>essere gonfio di s.</E
+M>montare</E
+M>salire</E
+M>in s.</E
+M>mettere su s.</E
+M>gonfiarsi di s.</E
+M>ha troppa s. addosso!</E
+M>sia detto senza s.</E
+M>la s. è figlia dell&#8217;ignoranza</E
+M>la s. andò a cavallo e tornò a piedi</E
+M>peccato di s.</E

@@ -1,0 +1,19 @@
+arrostire.txt
+"arrostire"
+"arrostire, replace: arrostirsi"
+*[[cuocere]], [[rosolare]], [[abbrustolire]], [[tostare]], [[gratinare]]
+*[[bruciare]], [[inaridire]], [[seccare]]
+M>hraustjan</E
+M>rösten</E
+M>roast</E
+M>io arrostisco</E
+M>tu arrostisci</E
+M>arrosto morto</E
+M>il pesce</E
+M>le castagne</E
+M>il pane</E
+M>il freddo arrostisce le piante</E
+M>arrostire</E
+M>arrostirsi</E
+M>al sole</E
+M>le arrostite</E

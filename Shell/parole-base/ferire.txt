@@ -1,0 +1,65 @@
+ferire.txt
+"ferire"
+"ferire"
+"ferire al cuore"
+"ferire di spada"
+"nuocere; ferire fisicamente o nei sentimenti"
+#*''ferire una donna al braccio''
+*[[offendere]], [[addolorare]]
+*[[ferirsi]], [[ferita]], [[ferito]], [[feritoia]], [[feritore]]
+*''chi di spada ferisce, di spada perisce''
+M>fer</E
+M>io ferisco</E
+M>tu ferisci</E
+M>egli ferisce</E
+M>fière</E
+M>fère</E
+M>di coltello</E
+M>di pugnale</E
+M>di spada</E
+M>con un sasso</E
+M>con un pugno</E
+M>con una fucilata</E
+M>con due colpi di rivoltella</E
+M>nella testa</E
+M>in un braccio</E
+M>alle gambe</E
+M>leggermente</E
+M>gravemente</E
+M>a morte</E
+M>chi di spada</E
+M>di coltello</E
+M>ferisce</E
+M>di spada</E
+M>di coltello</E
+M>perisce</E
+M>fère</E
+M>père</E
+M>Gronda il sangue; raddoppia il ferir</E
+M>s’è ferito con un temperino</E
+M>è caduto e s’è ferito a un ginocchio</E
+M>qualcuno nell’onore</E
+M>nell’amor proprio</E
+M>l’onore</E
+M>l’amor proprio di qualcuno</E
+M>le sue parole mi hanno ferito</E
+M>il cuore di una persona</E
+M>Entro quel cor</E
+M>che i begli occhi feriro</E
+M>ferì ’l carro di tutta sua forza</E
+M>l’orecchio</E
+M>un lungo grido</E
+M>Un alto duol l’orecchie gli ferìa</E
+M>l’occhio</E
+M>la vista</E
+M>una luce così intensa che feriva gli occhi</E
+M>e intanto il guardo Steso nell’aria aprica Mi fere il Sol</E
+M>colpi</E
+M>percosse</E
+M>Ferìa maggior percosse il Re Gradasso</E
+M>senza colpo ferire</E
+M>ferir torneamento</E
+M>qui comunemente feriva la sua intenzione</E
+M>a un fine</E
+M>San Giorgio con l’asta ferente</E
+M>feruto</E

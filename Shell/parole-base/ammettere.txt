@@ -1,0 +1,43 @@
+ammettere.txt
+"ammettere"
+"ammettere"
+"ammettere"
+"ammettere a"
+"ammettere la colpa, ammettere la colpevolezza"
+"ammettere uno sbaglio"
+"guardare in faccia; ammettere"
+"negare qcs a se stessi, non voler ammettere qcs"
+"non ammettere la verità"
+"rifiutarsi di ammettere"
+#*'''''Ammettiamo''' che tu abbia torto, non sarebbe un rischio enorme per me aiutarti?''
+#*''Sei stato tu, '''ammmetti'''lo!''
+M>adm</E
+M>mettere</E
+M>alla propria presenza</E
+M>alla presenza del comandante</E
+M> a. il pubblico a un’udienza</E
+M>in collegio</E
+M>agli esami</E
+M>al liceo</E
+M>è stato ammesso a frequentare il corso d’informatica</E
+M>in un’associazione</E
+M>in un’accademia</E
+M>in un istituto di cura</E
+M>di ricovero</E
+M>non a</E
+M>ragioni</E
+M>non a</E
+M>discussioni</E
+M>è ammesso il contraddittorio</E
+M>il proprio errore</E
+M>di aver torto</E
+M>in giudizio le proprie responsabilità</E
+M>la buona fede dell’avversario</E
+M>ammetto che sia così</E
+M>ammettiamo ch’egli accetti</E
+M>anche ammesso che tu abbia ragione</E
+M>ammesso e non concesso</E
+M>dato e non concesso</E
+M> mi dispiace che il mio vaso di orchidee le arriverà per il suo funerale ammesso e concesso che riescano a riconoscerla nelle macerie</E
+M>espressioni non ammesse nel buon uso linguistico</E
+M>tutti gli ammessi alle prove orali</E

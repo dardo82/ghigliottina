@@ -1,0 +1,57 @@
+scafo.txt
+"idrovolante a scafo centrale"
+"locazione a scafo nudo"
+"scafo"
+"scafo"
+*[[motoscafo]]
+M>opera viva</E
+M>carena</E
+M>opera morta.</E
+M>parte dritta</E
+M>parte sinistra</E
+M>parte prodiera</E
+M>parte poppiera</E
+M>prua</E
+M>poppa</E
+M>parte maestra</E
+M>fianchi</E
+M>ponte principale</E
+M>coperta</E
+M>murate</E
+M>masconi</E
+M>dritto di prua</E
+M>anche</E
+M>giardinetti</E
+M>specchio</E
+M>volta</E
+M>dritto di poppa</E
+M>fondo</E
+M>ginocchi</E
+M>stive</E
+M>locale apparato motore</E
+M>gavoni</E
+M>cale</E
+M>depositi</E
+M>cisterne</E
+M>paratie</E
+M>ponti</E
+M>ponte superiore</E
+M>principale</E
+M>di coperta</E
+M>secondo ponte</E
+M>s. a catamarano</E
+M>s. a cuscino d&#8217;aria</E
+M>hovercraft</E
+M>s. semidislocante</E
+M>s. ad effetto superficie</E
+M>s. ad ali</E
+M>aliscafo</E
+M>s. idroplano</E
+M>s. idroscivolante</E
+M>Doppio s.</E
+M>navi a doppio scafo</E
+M>metaniere</E
+M>petroliere</E
+M>nolo a scafo</E
+M>nolo a s. nudo</E
+M>a scafo</E

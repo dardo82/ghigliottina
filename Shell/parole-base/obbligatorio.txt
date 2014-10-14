@@ -1,0 +1,35 @@
+obbligatorio.txt
+"anche se non è obbligatorio"
+"considerare obbligatorio"
+"non obbligatorio"
+"obbligatorio"
+"obbligatorio"
+"servizio militare obbligatorio"
+*[[cogente]], [[imperativo]], [[obbligato]]
+*[[facoltativo]]
+*[[obbligatoriamente]]
+*[[obbligato]], [[obbligo]]
+*italiano
+*inglese
+M>obligatorius</E
+M>obligare</E
+M>facoltativo</E
+M>libero</E
+M>istruzione o</E
+M>servizio militare o</E
+M>vaccinazione o</E
+M>studî</E
+M>corsi</E
+M>esami o</E
+M>lezioni</E
+M>materie o</E
+M>fermata o</E
+M>senso o</E
+M>per la validità dell’atto è o</E
+M>la presenza di due testimoni</E
+M>spese o</E
+M>dello stato</E
+M>negozio o</E
+M>scrittura obbligatoria</E
+M>per evitare il pericolo di epidemie</E
+M>la vaccinazione è stata estesa obbligatoriamente a tutta la popolazione</E

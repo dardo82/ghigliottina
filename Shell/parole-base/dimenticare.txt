@@ -1,0 +1,50 @@
+dimenticare.txt
+"accettare o dimenticare qcs. di spiacevole"
+"dimenticare"
+"dimenticare"
+"dimenticare"
+"dimenticare"
+"dimenticare, replace: dimenticarsi"
+"far dimenticare qualcosa"
+"far dimenticare qualcosa"
+"non dimenticare mai"
+*[[dimenticabile]], [[dimenticanza]], [[dimenticarsi]]
+M>dementicare</E
+M>mens mentis</E
+M>io diméntico</E
+M>tu diméntichi</E
+M>il passato</E
+M>il nome di una persona</E
+M>l’indirizzo</E
+M>il numero telefonico</E
+M>un appuntamento</E
+M>non dimenticate quanto vi dico</E
+M>una persona</E
+M>il marito la dimentica spesso</E
+M>è dimenticato da tutti</E
+M>la scuola</E
+M>i proprî doveri</E
+M>dimentica quello che t’ho detto</E
+M>ho sofferto molto per colpa sua</E
+M>ma ho dimenticato tutto</E
+M>le offese</E
+M>le ingiurie</E
+M>sono stato ingiusto con te</E
+M>dimentica</E
+M>ti prego</E
+M>dimenticarsi</E
+M>mi son dimenticato il libro</E
+M>mi son dimenticata la lezione</E
+M>ho dimenticato il libro</E
+M>ho dimenticato la lezione</E
+M>mi son dimenticato del libro</E
+M>mi son dimenticato della lezione</E
+M>ho dimenticato</E
+M>mi son dimenticato</E
+M>di scrivergli</E
+M>dimenticavo</E
+M>mi dimenticavo</E
+M>di dirti un altro particolare</E
+M>ho veduto la inamorata vaccarella</E
+M>stanca gittarsi a la riva di alcun fiume</E
+M>dimenticata di pascere</E

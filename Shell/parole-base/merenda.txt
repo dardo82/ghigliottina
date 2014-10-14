@@ -1,0 +1,39 @@
+merenda.txt
+"entrarci come i cavoli a merenda"
+"merenda"
+"spuntino del pomeriggio; merenda"
+*[[spuntino]], [[stuzzichino]], [[tè]],  [[picnic]]
+*[[merendero]]
+*''entrarci come il cavolo a merenda''
+*italiano
+M>mer</E
+M>nda</E
+M>merere</E
+M>fare m</E
+M>all’ora di m</E
+M>preparare</E
+M>serbare</E
+M>comprare qualche cosa per m</E
+M>che hai mangiato per m</E
+M>a merenda</E
+M>andare a far m</E
+M>in campagna</E
+M>fare m</E
+M>sul prato</E
+M>avendo ragionato d’una m</E
+M>che in quello orto a animo riposato intendevan di fare</E
+M>che cos’hai oggi per m</E
+M>la m</E
+M>si fa nell’intervallo</E
+M>il cestino della m</E
+M>dare la m</E
+M>ai bambini</E
+M>ho dimenticato a casa la m</E
+M>non avevo appetito e la m</E
+M>è rimasta lì</E
+M>ha diviso la m</E
+M>col compagno di banco</E
+M>c’entra</E
+M>ci sta</E
+M>ci ha che fare</E
+M>come i cavoli a merenda</E

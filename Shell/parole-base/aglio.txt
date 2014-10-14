@@ -1,0 +1,33 @@
+aglio.txt
+"aglio"
+"burro all'aglio"
+"dal sapore d'aglio"
+"essenza d'aglio"
+"fetta di pane spalmata di burro all'aglio e scaldata"
+"maionese all'aglio"
+"miscela di aglio seccato e sale"
+"polvere di aglio"
+"senape all'aglio"
+"spicchio d'aglio"
+M>allium</E
+M>Allium</E
+M>Allium sativum</E
+M>testa</E
+M>capo d’aglio</E
+M>spicchi d’aglio</E
+M>una corona</E
+M>una treccia</E
+M>una resta d’aglio</E
+M>d’agli</E
+M>spaghetti conditi con aglio e olio</E
+M>puzzare d’aglio</E
+M>acquatico</E
+M>Butomus umbellatus</E
+M>bianco</E
+M>Allium neapolitanum</E
+M>orsino</E
+M>Allium ursinum</E
+M>romano</E
+M>Allium scorodoprasum</E
+M>ungherese</E
+M>Allium schoenoprasum</E

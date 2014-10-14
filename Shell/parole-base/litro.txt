@@ -1,0 +1,35 @@
+litro.txt
+"litro"
+"litro"
+"quantità pari ad un litro"
+*[[ettolitro]]
+*[[metro]], [[chilo]]
+*italiano
+*portoghese
+m>litre</e
+m>litron</e
+m>litra</e
+m>decalitro</e
+m>ettolitro</e
+m>chilolitro</e
+m>decilitro</e
+m>centilitro</e
+m>mezzo l</e
+m>un quarto di l</e
+m>tre quarti di litro</e
+m>bere un l</e
+m>con gli amici</e
+m>ci porti un l</e
+m>di bianco</e
+m>un l</e
+m>bianco</e
+m>rosso</e
+m>un l</e
+m>di quello buono</e
+m>doppio l</e
+m>mezzo l</e
+m>quarto</e
+m>quinto di litro</e
+m>essere al volante di una due litri</e
+m>la gara delle ottavo di litro</e
+m>il campionato delle trequarti di litro</e

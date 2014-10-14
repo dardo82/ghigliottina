@@ -1,0 +1,14 @@
+truffare.txt
+"Fregare, truffare, imbrogliare"
+"truffare"
+"truffare"
+M>truffa</E
+M>trufer</E
+M>trufar</E
+M>gente che vive truffando</E
+M>ha tentato di truffarmi</E
+M>gli truffò cento euro</E
+M>lo truffò di cento euro</E
+M>siamo stati truffati</E
+M>è rimasto truffato.</E
+M>Truffarsi di uno</E

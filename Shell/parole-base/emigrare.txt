@@ -1,0 +1,12 @@
+emigrare.txt
+"emigrare"
+"emigrare"
+*[[migrare]], [[espatriare]]
+*[[immigrare]]
+*[[emigrante]], [[emigrato]], [[emigrazione]]
+M>emigrare</E
+M>migrare</E
+M>essere</E
+M>avere</E
+M>è emigrato dall’Italia in America</E
+M>migrare</E

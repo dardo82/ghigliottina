@@ -1,0 +1,79 @@
+distribuzione.txt
+"catena della distribuzione"
+"catena di distribuzione"
+"in cars: chains (catene) are no longer used and therefore the term would more likely be “cinghia\/cinta di distribuzione”"
+"curva di distribuzione"
+"distribuzione"
+"distribuzione"
+"distribuzione"
+"distribuzione"
+"distribuzione binomiale"
+"distribuzione con parsimonia"
+"distribuzione del chi quadrato"
+"distribuzione dell'energia"
+"distribuzione della probabilità"
+"distribuzione delle ore lavorative"
+"distribuzione delle quote"
+"distribuzione di frequenza"
+"distribuzione equa"
+"distribuzione esponenziale"
+"distribuzione gamma"
+"distribuzione geografica"
+"distribuzione normale"
+"distribuzione per età"
+"distribuzione uniforme dell'energia"
+"emissione, distribuzione"
+"funzione di distribuzione"
+"funzione di distribuzione cumulativa"
+"grafico di distribuzione del carico"
+"grande distribuzione"
+"grande distribuzione"
+"lista di distribuzione"
+"reimmissione nei circuiti di distribuzione, redistribuzione"
+*[[erogazione]], [[assegnazione]]
+*[[redistribuzione]]
+:*  
+M>distributio</E
+M>onis</E
+M>di viveri</E
+M>di pacchi dono</E
+M>la d</E
+M>della posta</E
+M>la d</E
+M>del latte ai rivenditori</E
+M>dei giornali e periodici alle edicole</E
+M>dell’acqua potabile</E
+M>del gas</E
+M>dell’energia elettrica</E
+M>rete di d</E
+M>costi di d</E
+M>in esclusiva</E
+M>canali di d</E
+M>rete di d</E
+M>grande d</E
+M>tradizionale</E
+M>cinematografica</E
+M>la d</E
+M>ha imposto il taglio di alcune scene del film</E
+M>uniforme d’un peso</E
+M>d’un carico</E
+M>delle masse rotanti</E
+M>delle velocità in un fluido</E
+M>isobarica</E
+M>di una variabile aleatoria</E
+M>d. di frequenza</E
+M>di probabilità</E
+M>funzione di d</E
+M>distribuzione</E
+M>di Gauss</E
+M>gaussiana</E
+M>albero di d</E
+M>del reddito</E
+M>distribuzione</E
+M>teoria classica della d</E
+M>teoria neoclassica</E
+M>marginalista della d</E
+M>delle imposte</E
+M>reale</E
+M>personale</E
+M>della vegetazione</E

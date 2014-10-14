@@ -1,0 +1,83 @@
+manovra.txt
+"ampi spazi di manovra"
+"area di manovra"
+"cabina di manovra"
+"manovra"
+"manovra"
+"manovra"
+"manovra"
+"manovra"
+"manovra bis"
+"manovra correttiva"
+"manovra finanziaria"
+"margine d'azione, di manovra"
+"margine di manovra"
+"organi di manovra"
+"sconfiggere con una manovra"
+#*''il governo ha dato il via alla manovra''
+* (sostantivo) dal [[francese]] ''[[manoeuvre]]'', che risale al latino medievale ''[[manuopera]]''
+* (voce verbale) 
+*[[movimento]], [[spostamento]]
+M>manoeuvre</E
+M>manuopera</E
+M>un apparecchio che richiede una m</E
+M>difficile</E
+M>faticosa</E
+M>gli uomini addetti alla m</E
+M>dei pezzi d’artiglieria</E
+M>la m</E
+M>del timone</E
+M>delle ancore</E
+M>delle vele</E
+M>delle valvole</E
+M>delle porte stagne</E
+M>tutti gli uomini ai loro posti di m</E
+M>di forza</E
+M>addetto alla m. degli scambî</E
+M>dei segnali</E
+M>manovre a distanza</E
+M>banco</E
+M>tavolo di manovra</E
+M>apparato centrale di manovra</E
+M>manovre di attracco</E
+M>di ormeggio</E
+M>la nave fece manovra per uscire dal porto</E
+M>camera di manovra</E
+M>libertà di m</E
+M>in volo</E
+M>al suolo</E
+M>di scampo</E
+M>scontrata</E
+M>la strada è stretta</E
+M> bisogna fare manovra</E
+M>dovette fare molte m</E
+M>per posteggiare</E
+M>strategica</E
+M>tattica</E
+M>offensiva</E
+M>frontale</E
+M>di accerchiamento</E
+M>di avvolgimento</E
+M>in ritirata</E
+M>le grandi manovre</E
+M>Manovre coi quadri</E
+M>di corda</E
+M>manovra di Lasègue</E
+M>del taxis</E
+M>metodo di Kocher</E
+M>Kòkkër</E
+M>è tutta una m</E
+M>per farti parlare</E
+M>non mi presto a simili m</E
+M>stata una falsa m</E
+M>elettorale</E
+M>parlamentare</E
+M>manovre di corridoio</E
+M>fiscale</E
+M>monetaria</E
+M>congiunturali</E
+M>del tasso di sconto</E
+M>cavo</E
+M>dormienti</E
+M>correnti</E
+M>volanti</E

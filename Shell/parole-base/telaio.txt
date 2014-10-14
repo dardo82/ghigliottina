@@ -1,0 +1,54 @@
+telaio.txt
+"antenna a telaio"
+"nel telaio, nella struttura"
+"telaio"
+"telaio"
+"telaio"
+"telaio di prova"
+"telaio per finestre"
+"telaio principale"
+#*'''telaio a mano'''
+*macchina tessile
+*di autoveicolo) [[châssis]]
+M>telarium</E
+M>tela</E
+M>ordito</E
+M>trama</E
+M>t. a mano</E
+M>t. meccanico</E
+M>t. automatico</E
+M>t. senza navetta</E
+M>t. per maglieria</E
+M>gli organi</E
+M>le parti del t.</E
+M>lavorare</E
+M>tessere al t.</E
+M>stare al telaio.</E
+M>sorreggendo il corpo svuotato di vita sentì</E
+M> attraverso la stoffa</E
+M> lo scarno t. delle ossa</E
+M>T. da ricamo</E
+M>t. svizzero</E
+M>t. portaforma</E
+M>forma</E
+M>t. monotype</E
+M>t. serigrafico</E
+M>setaccio</E
+M>forma</E
+M>t. da cucitura</E
+M>t. semplice</E
+M>t. multiplo</E
+M> a una</E
+M> due</E
+M> tre</E
+M>campate</E
+M>t. degli autocarri</E
+M>châssis</E
+M>t. del timone</E
+M>t. di poppa</E
+M>T. a lame multiple</E
+M>multilame</E
+M>antenna a telaio</E
+M>t. aperiodici</E
+M>t. risonanti</E
+M>telaietto per diapositive</E

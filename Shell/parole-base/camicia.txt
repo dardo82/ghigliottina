@@ -1,0 +1,87 @@
+camicia.txt
+"camicia"
+"camicia"
+"camicia"
+"camicia a maniche corte"
+"camicia a scacchi"
+"camicia button-down"
+"camicia da notte"
+"camicia da notte"
+"camicia da notte"
+"camicia da notte"
+"camicia da notte"
+"camicia da notte"
+"camicia da notte"
+"camicia di forza"
+"camicia di forza"
+"camicia nera"
+"camicia sportiva"
+"camicia sportiva"
+"Culo e camicia"
+"gemello da camicia"
+"in collusione con; in combutta con; culo e camicia"
+"in manica di camicia"
+"in maniche di camicia"
+"lembo della camicia"
+"manica di camicia"
+"mettersi la camicia"
+"nato con la camicia"
+"nato con la camicia"
+"ridurre in camicia"
+"sparato (della camicia)"
+"uova in camicia"
+*[[camice]], [[camiceria]], [[camicetta]], [[camiciaio]], [[camiciola]],[[scamiciato]]
+*''nascere con la camicia'' (anticamente ''nascere vestito'')
+*''sudare sette camicie''
+M>cam</E
+M>sia</E
+M>cam</E
+M>cie</E
+M>da uomo</E
+M>da donna</E
+M>sportiva</E
+M>alla Robespierre</E
+M>da notte</E
+M>in maniche di c</E
+M>ridursi in c</E
+M>; essere senza c</E
+M>non aver c</E
+M>addosso</E
+M>essere come la c</E
+M>di Meo</E
+M>farla più lunga della c</E
+M>di Meo</E
+M>la c</E
+M>di Nesso</E
+M>sudare sette c</E
+M>essere nato con la c</E
+M>giocarsi anche la c</E
+M>venderebbe la c</E
+M>darebbe via anche la c</E
+M>essersi levato con la c</E
+M>a rovescio</E
+M>trarre il filo della c</E
+M>a qualcuno</E
+M>tu m’hai con la piacevolezza tua tratto il filo della camiscia</E
+M>uovo in c</E
+M>la c</E
+M>rossa dei garibaldini</E
+M>la c</E
+M>nera dei fascisti</E
+M>rosse</E
+M>azzurre</E
+M>brune</E
+M>nere</E
+M>di maglia</E
+M>di forza</E
+M>di fuoco</E
+M>della vela</E
+M>fascia</E
+M>dell’altoforno</E
+M>del fumaiolo</E
+M>dell’albero dell’elica</E
+M>del cannone</E
+M>d’acqua</E
+M>d’aria</E
+M>del cilindro</E
+M>di vapore</E

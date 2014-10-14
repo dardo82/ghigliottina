@@ -1,0 +1,42 @@
+eccezione.txt
+"ad eccezione del fatto che"
+"ad eccezione di"
+"con un'eccezione"
+"eccezione"
+"eccezione"
+"eccezione"
+"eccezione alla regola"
+"fare una eccezione"
+"senza eccezione"
+*[[anomalia]], [[esclusione]], [[limitazione]]
+*[[particolarità]], [[singolarità]], [[anomalia]]
+*[[regola]], [[normalità]], [[norma]] 
+*[[eccezionale]]
+*[[eccetto]], [[critica]], [[deroga]], [[obiezione]], [[riserva]]
+M>exceptio</E
+M>onis</E
+M>excip</E
+M>exceptus</E
+M>fare un’e</E
+M>fare e</E
+M>costituire un’e</E
+M>senza e</E
+M>ho provveduto a tutti</E
+M>senza e</E
+M>ogni regola ha la sua e</E
+M>l’e</E
+M>conferma la regola</E
+M>d’e</E
+M>attore</E
+M>cantante d’e</E
+M>sarà eseguito un numero d’e</E
+M>ad e</E
+M>sono tutti d’accordo ad e</E
+M>di pochissimi</E
+M>eccezion fatta per</E
+M>non tollero eccezioni</E
+M>gli hanno mosso molte e</E
+M>opporre eccezioni</E
+M>superiore ad ogni e</E
+M>questioni</E
+M>di legittimità costituzionale</E

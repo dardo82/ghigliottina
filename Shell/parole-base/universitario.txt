@@ -1,0 +1,34 @@
+universitario.txt
+"assistente universitario"
+"giornale universitario"
+"istituto per formazione professionale para universitario"
+"lettore universitario"
+"libretto universitario"
+"Master universitario"
+"Master universitario"
+"pensionato universitario"
+"polo universitario"
+"riconoscimento universitario"
+"studente universitario"
+"studente universitario del primo anno"
+"universitario"
+"universitario"
+M>la riforma u.</E
+M>insegnamento u.</E
+M> cattedra u.</E
+M>studî</E
+M> corsi u.</E
+M>professore u.</E
+M> professoressa u.</E
+M> docenti u.</E
+M> ricercatori u.</E
+M>studente u.</E
+M> studentessa u.</E
+M>un convegno di universitarî</E
+M> un u. di grande valore</E
+M> un&#8217;u. straniera</E
+M>un gruppo sportivo di universitarî</E
+M> un collegio per universitarie</E
+M>sedi u.</E
+M>edilizia u.</E
+M>mensa universitaria.</E

@@ -1,0 +1,100 @@
+promettere.txt
+"Dare la parola\/promettere"
+"promettere"
+"promettere"
+"promettere, replace: promettersi"
+"promettere bene"
+"promettere di pagare"
+"promettere in matrimonio"
+"promettere qc a qn"
+#*'''''Ti prometto''' che non lo dirò mai a nessuno''
+#*''Oggi '''promette''' pioggia...''
+M>prom</E
+M>pro</E
+M>mettere</E
+M>un premio</E
+M>un regalo</E
+M>una ricompensa</E
+M>gli ho promesso il mio appoggio</E
+M>m&#8217;ha promesso aiuto</E
+M>il suo aiuto</E
+M>non ti posso p</E
+M>nulla</E
+M>promettimi di star buono</E
+M>di comportarti bene</E
+M>mi ha promesso di mettersi a studiare</E
+M>ti prometto di tornare presto</E
+M>promettimi che mi condurrai con te</E
+M>mi prometti che non lo farai più?</E
+M>te lo prometto</E
+M>lo prometto</E
+M>prometto</E
+M>è un uomo facile a promettere</E
+M>è un tipo che promette</E
+M>ma non c&#8217;è da fidarsi</E
+M>promettere è facile</E
+M>difficile è mantenere</E
+M>mari e monti</E
+M>Roma e toma</E
+M>mirabilia</E
+M>la fatica promette il premio</E
+M>e la perseveranza lo porge</E
+M>ti prometto che non avrai più un soldo da me</E
+M>aspettino la giustizia di Dio</E
+M>la quale per molti segni promette loro male</E
+M>gli ho promesso due scapaccioni</E
+M>e non la smette con i capricci</E
+M>te le ho già promesse</E
+M>: ora le prendi!</E
+M>pensaci bene</E
+M>prima di p</E
+M>ho promesso e intendo mantenere</E
+M>cercherò di terminare il lavoro per domani ma non ti posso p</E
+M>nulla</E
+M>una ragazza in moglie</E
+M>in matrimonio</E
+M>promettersi in sposa</E
+M>in moglie</E
+M>promettersi</E
+M>promettersi amore eterno</E
+M>Chiamando in testimonio il gran Maumette</E
+M>Ciò che detto ha</E
+M>tutto osservar promette</E
+M>Però che &#8217;n vista ella si mostra umìle Promettendomi pace ne l&#8217;aspetto</E
+M>è un ragazzo</E
+M>un giovane che promette bene</E
+M>che promette</E
+M>che non promette molto</E
+M>che promette poco di buono</E
+M>ha un ingegno</E
+M>un&#8217;intelligenza che promette molto</E
+M>l&#8217;inizio</E
+M>l&#8217;affare</E
+M>l&#8217;impresa</E
+M>il lavoro promette bene</E
+M>la campagna promette abbondante raccolto</E
+M>quest&#8217;anno gli olivi promettono meglio dell&#8217;anno scorso</E
+M>il suo aspetto non prometteva nulla di allegro</E
+M>il tempo promette bene oggi</E
+M>promette male</E
+M>promette tempesta</E
+M>è un cielo che non promette nulla di buono</E
+M>oggi promette d&#8217;essere una bellissima</E
+M>una brutta</E
+M>una pessima giornata</E
+M>promette bene!</E
+M>Le nate a delirar vite mortali</E
+M>Più deste all&#8217;Arti e men tremanti al grido Che le promette a morte</E
+M>li occhi miei</E
+M>Rivolsersi a la luce che promessa Tanto s&#8217;avea</E
+M>a Dio qualche cosa</E
+M>promettersi a Dio</E
+M>ripromettere</E
+M>non mi prometto molto da lui</E
+M>s&#8217;era promesso grandi guadagni da quell&#8217;impresa</E
+M>vi prometto che la cosa sta proprio così come dico io</E
+M>un giovane</E
+M>un ingegno</E
+M>un affare promettente</E
+M>le colture sono ben promettenti quest&#8217;anno</E
+M>promittente</E

@@ -1,0 +1,56 @@
+giocatore.txt
+"ala (giocatore)"
+"giocatore"
+"giocatore"
+"giocatore"
+"giocatore accanito"
+"giocatore d'azzardo"
+"giocatore di basket"
+"giocatore di biliardo"
+"giocatore di calcio"
+"giocatore di football americano"
+"giocatore di golf"
+"giocatore di hockey"
+"giocatore di mano"
+"giocatore di sinistra"
+"giocatore di tennis da tavolo, giocatore di ping pong"
+"giocatore fuori campo"
+"giocatore in panchina"
+"giocatore smarcato"
+"giocatore sostituto di un base runner"
+"golfista, giocatore di golf"
+"tabellino dei tiri, dei punti, etc, di ciascun giocatore"
+*[[giuocatore]]
+M>trice</E
+M>tóra</E
+M>giocare</E
+M>giuocare</E
+M>l’osteria era piena di giocatori</E
+M>il bridge si gioca comunemente fra quattro giocatori</E
+M>essere un g</E
+M>di bocce</E
+M>di biliardo</E
+M>di briscola</E
+M>di scopone</E
+M>di scacchi</E
+M>di borsa</E
+M>di bussolotti</E
+M>buono</E
+M>cattivo</E
+M>ottimo</E
+M>pessimo g</E
+M>è un g</E
+M>audace</E
+M>temerario</E
+M>scorretto</E
+M>prendo parte al gioco</E
+M>vi avverto</E
+M>non sono una gran giocatrice</E
+M>accanito</E
+M>giucatore e mettitore di malvagi dadi era solenne</E
+M>i g</E
+M>di calcio</E
+M>di rugby</E
+M>di disco sul ghiaccio</E
+M>di pallacanestro</E
+M>entrano in campo i giocatori</E

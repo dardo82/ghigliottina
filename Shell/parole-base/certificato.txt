@@ -1,0 +1,53 @@
+certificato.txt
+"certificato"
+"certificato"
+"certificato anagrafico"
+"certificato azionario"
+"certificato azionario"
+"certificato carichi pendenti"
+"certificato d'origine"
+"certificato di assicurazione"
+"certificato di buona conoscenza"
+"certificato di buona salute"
+"certificato di conformità"
+"certificato di deposito"
+"certificato di esistenza in vita"
+"certificato di famiglia"
+"certificato di fine malattia"
+"certificato di frequenza, attestato di frequenza, attestato di partecipazione"
+"certificato di imposte"
+"certificato di laurea"
+"certificato di morte"
+"certificato di nascita"
+"certificato di proprietà di una quantità d'oro"
+"certificato medico"
+"certificato ufficiale"
+"contabile (certificato)"
+"estratto di certificato di proprietà"
+*''(dichiarazione scritta)'' [[attestato]], [[attestazione]]. [[dichiarazione]], [[documento]] 
+*''(di deposito, di credito ecc.)'' [[titolo]]
+*[[certificazione]], [[certificato digitale]]
+*Enciclopedia [http
+M>certificat</E
+M>certificatum</E
+M>certificare</E
+M>del medico</E
+M>medico</E
+M>del sindaco</E
+M>del ministero</E
+M>dell’Ufficio delle imposte</E
+M>del Comune</E
+M>chiedere</E
+M>rilasciare</E
+M>allegare un c</E
+M>di nascita</E
+M>di cittadinanza</E
+M>di residenza</E
+M>di studî</E
+M>di sana e robusta costituzione fisica</E
+M>c. di buona condotta</E
+M>di origine</E
+M>penale</E
+M>di lavoro</E
+M>tecnico</E
+M>d’oro e d’argento</E

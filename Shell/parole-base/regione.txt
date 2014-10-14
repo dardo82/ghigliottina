@@ -1,0 +1,77 @@
+regione.txt
+"in ogni regione"
+"Provenza (regione francese)"
+"regione"
+"regione"
+"regione agricola"
+"regione arida"
+"regione critica"
+"regione della ionosfera"
+"regione desertica"
+"regione lombare"
+"regione più alta della ionosfera"
+"regione remota"
+"tempo medio degli USA nella regione delle Montagne Rocciose"
+*[[territorio]], [[zona]], [[area]], [[superficie]]
+* Ente territoriale, [[dipartimento]], [[compartimento]]
+*[[macroregione]]
+*Enciclopedia [http
+M>regio</E
+M>onis</E
+M>reg</E
+M>naturale</E
+M>alpina</E
+M>balcanica</E
+M>danubiana</E
+M>tropicale</E
+M>monsonica</E
+M>delle tundre</E
+M>funzionale</E
+M>le r</E
+M>settentrionali</E
+M>dell&#8217;Europa</E
+M>le r</E
+M>centrali</E
+M>dell&#8217;Asia</E
+M>le r</E
+M>lunari</E
+M>le alte r</E
+M>dell&#8217;atmosfera</E
+M>le r</E
+M>celesti</E
+M>del cielo</E
+M>le costellazioni delle r</E
+M>boreali</E
+M>le r</E
+M>italiane</E
+M>a statuto normale</E
+M>a statuto speciale</E
+M>la regione Lombardia</E
+M>Sardegna</E
+M>le funzioni della r</E
+M>il consiglio</E
+M>la giunta</E
+M>il presidente della regione</E
+M>i dipendenti della r</E
+M>un funzionario della r</E
+M>Liguria</E
+M>il palazzo della r</E
+M>andare</E
+M>recarsi alla regione</E
+M>militare</E
+M>aerea</E
+M>le r</E
+M>di Roma imperiale</E
+M>della Roma papale</E
+M>pontificia</E
+M>della nuca</E
+M>ascellare</E
+M>glutea</E
+M>femorale</E
+M>di linearità</E
+M>paleartica</E
+M>neartica</E
+M>neotropicale</E
+M>etiopica</E
+M>orientale</E
+M>australiana</E

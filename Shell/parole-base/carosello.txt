@@ -1,0 +1,13 @@
+carosello.txt
+"carosello"
+"carosello"
+"carosello"
+"carosello"
+M>carusiello</E
+M>storico</E
+M>giostra</E
+M>carrousel</E
+M>Carosello</E
+M>d’idee</E
+M>d’immagini</E
+M>tranviario</E

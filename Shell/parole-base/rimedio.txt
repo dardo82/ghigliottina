@@ -1,0 +1,49 @@
+rimedio.txt
+"cercare di porre rimedio a"
+"il rimedio è peggiore del male"
+"panacea, rimedio universale"
+"rimedio"
+"rimedio"
+"rimedio per tutti i mali"
+*[[medicina]], [[terapia]], [[panacea]], [[toccasana]]
+M>remedium</E
+M>mederi</E
+M>il chinino è un r</E
+M>contro la malaria</E
+M>per il raffreddore non c&#8217;è nessun r</E
+M>specifico</E
+M>il r</E
+M>che ti ci vuole è un po&#8217; di riposo</E
+M>tentare tutti i r</E
+M>possibili</E
+M>efficace</E
+M>opportuno</E
+M>pronto</E
+M>sicuro</E
+M>risolutivo</E
+M>generale</E
+M>locale</E
+M>empirico</E
+M>eroico</E
+M>altro rimedio non avea &#8217;l mio core Contra i fastidi onde la vita è piena</E
+M>al quale ardore</E
+M>mi dà il cuore di trovare assai dolce e piacevole rimedio</E
+M>non saprei consigliarvi r</E
+M>più sicuro per la vostra preoccupazione</E
+M>bisogna porre</E
+M>mettere</E
+M>assolutamente r</E
+M>a questa situazione</E
+M>quando le scarpe sono strette</E
+M>non c&#8217;è r</E
+M>la sua pigrizia è proprio senza rimedio</E
+M>un r</E
+M>peggiore del male</E
+M>a tutto c&#8217;è r</E
+M>fuorché alla morte</E
+M>a mali estremi</E
+M>estremi rimedî</E
+M>dove non c&#8217;è r</E
+M>il pianto è vano</E
+M>impugnazione</E
+M>penale</E

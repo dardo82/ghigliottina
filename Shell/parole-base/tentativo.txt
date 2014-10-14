@@ -1,0 +1,32 @@
+tentativo.txt
+"fare un altro tentativo"
+"fare un tentativo"
+"fare un tentativo"
+"fare un tentativo"
+"fare un tentativo"
+"fare un tentativo"
+"fare un tentativo, provarci in qcs"
+"il tentativo operato"
+"provare a fare qcs, fare un tentativo con qcs"
+"provare; fare un tentativo"
+"provare; fare un tentativo"
+"tentativo"
+"tentativo disperato"
+"tentativo fallito"
+"tentato suicidio, tentativo di suicidio"
+"un altro tentativo"
+"un altro tentativo"
+"un altro tentativo"
+"un tentativo"
+"vano tentativo"
+*[[prova]], [[esperimento]], [[sforzo]], [[manovra]]
+*[[tentare]]
+M>fece un vano t. di fuga</E
+M>ogni t. di resistenza fu inutile</E
+M>tutti i t. sono stati vani</E
+M>ha fatto un timido t. d&#8217;insistere</E
+M>non sono certo di riuscire</E
+M> tuttavia farò un t.</E
+M>è riuscito nella prova al secondo tentativo</E
+M>t. di delitto</E
+M>risolvere per tentativi un problema</E

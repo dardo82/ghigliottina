@@ -1,0 +1,72 @@
+sinistro.txt
+"fuoricampo sinistro"
+"lato sinistro"
+"lato sinistro"
+"liquidazione del sinistro"
+"mezzo sinistro"
+"piede sinistro"
+"sinistro"
+"che sta sul lato sinistro"
+"sinistro"
+"sinistro"
+"sinistro"
+"sinistro"
+"colpo tirato con il sinistro"
+"sinistro"
+"calcio: tiro di sinistro"
+"sul lato sinistro"
+*(2) [[tetro]], [[losco]], [[cattivo]]
+*(1) [[destro]]
+*(1) [[incidente]]
+*[[sinistra]]
+*[[sinistrare]]
+*[[sinistrato]]
+*[[sinistrogiro]]
+*[[sinistroide]]
+*[[sinistrorso]]
+*[[sinistrosità]]
+M>sin</E
+M>ster -tra -trum</E
+M>sinistra</E
+M>l&#8217;occhio s.</E
+M>il braccio s.</E
+M>il piede s.</E
+M>la spalla s.</E
+M>fianco sinistr</E
+M>il lato s. della strada</E
+M>Del mar Tirreno a la s. riva</E
+M>fu messo fuori combattimento da un preciso s. allo stomaco</E
+M>tirare di sinistro</E
+M>i sinistri</E
+M>destro</E
+M>levogiro</E
+M>sinistrorso</E
+M>destrogiro</E
+M>destrorso</E
+M>regola della mano sinistra</E
+M>presagi s.</E
+M>tempi s.</E
+M>un uomo s.</E
+M>una luce s.</E
+M>gli pareva d&#8217;aver negli occhi que&#8217; s. tocchi a martello</E
+M>la sua vita povera di eventi si arricchisce di un fasto s.</E
+M> egli ha la sensazione di essere al centro di una trama poderosa di infamie mirabili</E
+M>un&#8217;occhiata</E
+M>una risata s.</E
+M>sguardo s.</E
+M>un s. figuro</E
+M>accertare le responsabilità di un s.</E
+M>s. ferroviario</E
+M>s. stradale</E
+M>s. aereo</E
+M>s. marittimo</E
+M>in caso di sinistro</E
+M> la società assicuratrice risponde ...</E
+M>s. maggiore</E
+M>s. minore</E
+M>la beffa si concluse sinistramente</E
+M>ridere sinistramente</E
+M>guardare qualcuno sinistramente</E
+M>il passo di due alti carabinieri risuonò sinistramente sul lastrico del Corso</E
+M>sinistramente sì l&#8217;altro percosse</E
+M> Che la spalla e la schiena insieme roppe</E

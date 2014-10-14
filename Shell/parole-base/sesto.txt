@@ -1,0 +1,15 @@
+sesto.txt
+"arco a sesto acuto"
+"Rimettere in sesto"
+"sesto"
+"sesto"
+"sesto"
+"classificato al sesto posto"
+"sesto"
+"sesto"
+"sesto senso"
+#* ''arco a tutto sesto''
+#* ''arco a sesto acuto''
+#*'' ... non è in sesto''
+#* ''rimettersi in sesto''
+*[[primo]], [[secondo]], [[terzo]], [[quarto]], [[quinto]]

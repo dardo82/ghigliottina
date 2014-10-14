@@ -1,0 +1,92 @@
+responsabile.txt
+"direttore responsabile"
+"essere il responsabile di\/per"
+"essere responsabile"
+"essere responsabile di"
+"essere responsabile di"
+"essere responsabile per\/di"
+"incaricato, responsabile di"
+"Key account (responsabile clienti importanti)"
+"persona responsabile"
+"rendere qualcuno responsabile di qualcosa, dare a qualcuno la responsabilità di qualcosa"
+"responsabile"
+"responsabile"
+"responsabile"
+"responsabile"
+"responsabile"
+"responsabile"
+"responsabile (di un illecito)"
+"responsabile area tecnica"
+"responsabile capo"
+"responsabile commerciale"
+"responsabile comunicazione"
+"responsabile dei fondi"
+"responsabile dei rapporti con i clienti"
+"responsabile del progetto"
+"responsabile del ricevimento"
+"responsabile della sicurezza"
+"responsabile di"
+"responsabile di"
+"responsabile di qualcosa verso qualcuno"
+"responsabile di sala"
+"responsabile finanziario"
+"responsabile tecnico"
+"responsabile ufficio acquisti"
+"responsabile ufficio stampa"
+"responsabile verso"
+"sostituire il responsabile di qcs."
+#* '' è il 
+*[[cosciente]], [[coscienzioso]], [[scrupoloso]] 
+*[[capo]]
+*[[irresponsabile]]
+*[[responsabilità]], [[responsabilizzare]], [[responsabilmente]], [[corresponsabile]]
+M>responsum</E
+M>respond</E
+M>responsable</E
+M>ognuno è r</E
+M>delle proprie azioni</E
+M>degli atti che compie</E
+M>sei tu r</E
+M>la responsabile</E
+M>di quanto è accaduto</E
+M>essere r</E
+M>di fronte alla propria coscienza</E
+M>davanti a Dio</E
+M>verso la società</E
+M>di fronte alla legge</E
+M>i r. sono stati puniti</E
+M>essere r</E
+M>civilmente</E
+M>amministrativamente</E
+M>penalmente</E
+M>di un danno a terzi</E
+M>allo stato</E
+M>di lesioni colpose</E
+M>di un incidente mortale</E
+M>ogni pubblicazione periodica deve avere un direttore o redattore r</E
+M>gerente r</E
+M>il magazziniere è r</E
+M>il r</E
+M>della conservazione e del movimento delle merci</E
+M>il cassiere è r</E
+M>il r</E
+M>delle operazioni di cassa</E
+M>il funzionario r</E
+M>la responsabile</E
+M>del settore culturale</E
+M>della propaganda</E
+M>degli enti locali</E
+M>l&#8217;ufficiale r</E
+M>di navi in disponibilità</E
+M>irresponsabile</E
+M>essere</E
+M>dimostrarsi r</E
+M>comportarsi</E
+M>agire in modo r</E
+M>poco r</E
+M>è un bravo giovane</E
+M>serio e r</E
+M>non puoi pretendere che siano r</E
+M>sono ancora dei ragazzi!</E
+M>agire responsabilmente</E
+M>una decisione assunta responsabilmente</E

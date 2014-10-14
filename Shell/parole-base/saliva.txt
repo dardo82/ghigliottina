@@ -1,0 +1,15 @@
+saliva.txt
+"saliva"
+"saliva"
+*[[bava]]
+*[[sputo]]
+* [[spit]], [[spittle]]
+* [[salivary]],  [[salivate]]
+* [[drool]],  [[sputum]]
+*italiano
+M>sal</E
+M>ghiandole salivari</E
+M>bagnare</E
+M>inumidire con la s.</E
+M>attaccato con la s.</E
+M>attaccato con lo sputo</E

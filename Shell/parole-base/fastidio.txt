@@ -1,0 +1,64 @@
+fastidio.txt
+"avvertire fastidio"
+"dare fastidio a qc, irritare qc"
+"fastidio"
+"fastidio"
+"fastidio"
+"fastidio"
+"piccolo fastidio ricorrente"
+"un gesto di fastidio"
+*[[cruccio]], [[assillo]], [[avversione]], [[noia]], [[disturbo]], [[nausea]], [[disgusto]]
+*[[fastidioso]], [[fastidare]]
+*italiano
+*spagnolo
+M>fastidium</E
+M>fastus</E
+M>taedium</E
+M>dare</E
+M>recare</E
+M>sentire f</E
+M>ti dà f</E
+M>il fumo?</E
+M>mi dà f</E
+M>vedermi sempre davanti quel seccatore</E
+M>chiacchiera</E
+M>si vanta fino a dare f</E
+M>fino al f</E
+M>disse tante cose di questa sua bellezza</E
+M>che fu un f</E
+M>a udire</E
+M> vorrei restare a tenerle compagnia</E
+M> ma</E
+M>accoglie la mia presenza con malcelato f.</E
+M> e pare sollevata quando infine mi decido a congedarmi</E
+M>darsi f</E
+M>non si dia f</E
+M>per me</E
+M>avere</E
+M>pigliare in f</E
+M>una persona</E
+M>una cosa</E
+M>venire in f</E
+M>l’abbondanza genera f</E
+M>negli uomini si rinnovellò quel f</E
+M>delle cose loro che gli aveva travagliati avanti il diluvio</E
+M>sentire f</E
+M>della vita</E
+M>di un genere di vita</E
+M>i f</E
+M>della vecchiaia</E
+M>altro rimedio non avea ’l mio core Contra i fastidi onde la vita è piena</E
+M>figlioli piccoli f</E
+M>piccoli</E
+M>figlioli grandi f</E
+M>grandi</E
+M>avere dei f</E
+M>con qualcuno</E
+M>ha avuto recentemente dei f</E
+M>con la giustizia</E
+M>con il fisco</E
+M>con la finanza</E
+M>non devo bere perché gli alcolici mi danno fastidio al fegato</E
+M>agli ambasciatori di catuno comune fu fatta vergogna e gittato addosso</E
+M>cavalcando per la città</E
+M>vituperoso f</E

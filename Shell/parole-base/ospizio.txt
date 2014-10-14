@@ -1,0 +1,34 @@
+ospizio.txt
+"ospizio"
+"ospizio"
+M>hospitium</E
+M>hospes</E
+M>tis</E
+M>l’o</E
+M>del Gran San Bernardo</E
+M>di Cesare</E
+M>doloroso o</E
+M>quello ospizio Dove sponesti il tuo portato santo</E
+M>della palmosa Delo</E
+M>Ospizio di Latona</E
+M>per anziani</E
+M>finire all’o</E
+M>per fanciulli</E
+M>per i trovatelli</E
+M>di mendicità</E
+M>ospizio</E
+M>casa di riposo</E
+M>di ricovero</E
+M>pensionato</E
+M>istituto</E
+M>soggiorno</E
+M>albergo</E
+M>residence</E
+M>prendere o</E
+M>in un luogo</E
+M>dare o</E
+M>offrire o</E
+M>voi da me dunque amico e fido ospizio</E
+M>Giovini</E
+M>arete</E
+M>avrete</E

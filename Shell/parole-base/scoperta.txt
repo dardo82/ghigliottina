@@ -1,0 +1,60 @@
+scoperta.txt
+"Bella scoperta!"
+"fare una scoperta"
+"scoperta"
+"scoperta"
+"scoperta fortuita"
+"scoperta fruttuosa"
+"tribuna scoperta"
+*''(scientifica, tecnologica)'' [[invenzione]], [[creazione]], [[ritrovato]]
+*''(di persona, cadavere)'' [[ritrovamento]], [[rinvenimento]], [[identificazione]]
+*''((di artista)'' [[rivelazione]], [[promessa]]
+*''(di oggetti)'' [[reperimento]]
+*[[perdita]], [[smarrimento]] 
+* [[ scoprire]], [[scoperto]] 
+M>scoperto</E
+M>scoprire</E
+M>scoperta</E
+M>invenzione</E
+M>la s. di un&#8217;antica città persiana</E
+M>la s. di nuove terre</E
+M>la s. del continente americano</E
+M>l&#8217;epoca delle grandi s. geografiche</E
+M>la s. della gravitazione universale</E
+M>la s. di una nuova fonte energetica</E
+M>di un nuovo giacimento petrolifero</E
+M>la s. di un codice</E
+M>di nuovi testi</E
+M>di un gruppo di papiri</E
+M>una s. di notevole importanza</E
+M>una s. rivoluzionaria nel campo della biologia</E
+M>della medicina</E
+M>lo scienziato ha illustrato in un convegno la sua recente scoperta</E
+M>che s.!</E
+M>grazie della s.!</E
+M>hai fatto proprio una bella s.</E
+M>bella s.!</E
+M>fare la s. dell&#8217;acqua calda</E
+M>la s. di un segreto</E
+M>della verità</E
+M>la s. di una congiura</E
+M>di un complotto</E
+M>di un tentativo di colpo di stato</E
+M>la s. del tradimento del marito l&#8217;ha fatta piombare in una crisi profonda</E
+M>fu per lui la s. di un nuovo modo di vivere</E
+M>la s. in sé di un nuovo sentimento lo turbò</E
+M>la s. della ingratitudine umana lo amareggiò profondamente</E
+M>le impronte digitali lasciate sull&#8217;arma del delitto hanno portato alla s. dell&#8217;assassino</E
+M>la s. di una banda di criminali</E
+M>di un&#8217;organizzazione mafiosa</E
+M>di un covo di terroristi</E
+M>la s. di nuovi talenti in campo musicale</E
+M>la s. di Svevo è in gran parte merito di Joyce</E
+M>fare la s.</E
+M>fatta la scoperta</E
+M>non s&#8217;eran più lasciati vedere</E
+M>servizio di s.</E
+M>segnali di s.</E
+M>Apparecchi di s.</E
+M>s. lontana</E
+M>s. vicina</E

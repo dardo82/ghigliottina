@@ -1,0 +1,41 @@
+cavalcare.txt
+"cavalcare"
+"cavalcare"
+"cavalcare"
+"cavalcare meglio"
+"cavalcare veloce"
+"sport, cavalcare su pony attraverso la campagna"
+#*'''''cavalcò''' il suo possente destriero, diretto in terre ignote''
+#*'''''cavalcando''' l'onda dei moti rivoluzionari, molti riuscirono ad entrare nelle nuove istituzioni anche essendo privi di vere qualifiche'' 
+*''(un cavallo o un altro animale)'' [[montare]]
+*''(di ponti, viadotti ecc.)'' [[attraversare]], [[valicare]], [[superare]] 
+*[[cavalcabile]], [[cavalcante]], [[cavalcareccio]],[[cavalcaresco]], [[cavalcata]], [[cavalcatoio]], [[cavalcatore]], [[cavalcatura]], [[cavalcavia]], [[cavalchereccio]], [[cavalccheresco]], [[cavalchina]], [[cavalciare]], [[cavalierato]], [[cavalier d'Italia]], [[cavaliere]],[[cavalieressa]], [[cavalierino]]  
+*[[cavallo]]
+M>caball</E
+M>care</E
+M>caballus</E
+M>io cavalco</E
+M>tu cavalchi</E
+M>avere</E
+M>imparare a c</E
+M>sapere</E
+M>non saper c</E
+M>aveva cavalcato fino al tramonto</E
+M>a cambiatura</E
+M>a bisdosso</E
+M>all’amazzone</E
+M>chi cavalca la notte</E
+M>convien che posi il giorno</E
+M>la tigre</E
+M>ciascuna provar volle come il mutolo sapeva c</E
+M>i becchi Cavalcan sovra le caprette irsute</E
+M>un albero</E
+M>un ramo</E
+M>una seggiola</E
+M>una strada</E
+M>un luogo</E
+M>cavalcò in Versilia e Lunigiana con ottocento cavalieri e seimila pedoni</E
+M>potrete spargervi per la campagna</E
+M>il paese che vi è innanzi</E
+M>foraggiarlo</E
+M>predarlo</E

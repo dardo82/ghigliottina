@@ -1,0 +1,102 @@
+registrare.txt
+"apparecchiatura per registrare"
+"costituire, registrare"
+"registrare"
+"registrare"
+"registrare"
+"registrare"
+"registrare"
+"registrare"
+"registrare di nuovo"
+"registrare qualcosa a proprio nome"
+"registrare su"
+"registrare un reclamo"
+"registrare un'aggiunta"
+"registrare una porta"
+#*''registrare le morti''
+#*''registrare i nomi degli assenti''
+#*''registrare un aumento di produzione''
+#*''registrare le voci italiane''
+#*''registrare un film''
+#*''registrare i file''
+#*''registrare la pressione atmosferica''
+#*'' registare i freni di un autobus''
+#*''mangiare lentamente può moderare l'appetito, perché il cervello impiega dieci minuti per registrare la sensazione di sazietà''
+*'' ( meccanica)''  [[aggiustare]]
+*''(burocrazia)'' [[catalogare]], [[protocollare]], [[immatricolare]], [[censire]]
+*[[annotare]], [[ricordare]], [[appuntare]], [[riportare]]
+*[[rilevare]], [[segnalare]], [[osservare]]
+*''(su disco, pellicola, eccetera)'' [[incidere]], [[riprodurre]], [[copiare]]; 
+*''(di fenomeno fisico)'' [[memorizzare]], [[rilevare]]
+*''(tecnica)'' [[tarare]], [[regolare]], mettere a punto
+*[[cancellare]], [[depennare]]
+*[[tralasciare]], [[omettere]]
+*[[registrabile]], [[registrato]], [[registratore]], [[registrazione]], [[registrarsi]]
+*[[registro]]
+M>una partita nel dare o nell&#8217;avere</E
+M>un pagamento</E
+M>una riscossione</E
+M>il magazziniere registrò la merce uscita dal magazzino durante la settimana</E
+M>ha l&#8217;abitudine di r</E
+M>nel taccuino gli acquisti fatti nella giornata</E
+M>la nascita</E
+M>il matrimonio</E
+M>la morte di una persona nei registri dello stato civile</E
+M>nei libri parrocchiali</E
+M>un veicolo</E
+M>un aeromobile</E
+M>far r</E
+M>un contratto presso l&#8217;Ufficio del Registro</E
+M>un atto</E
+M>un provvedimento</E
+M>un decreto</E
+M>con riserva un provvedimento del governo</E
+M>ogni giorno registra nel suo diario i suoi pensieri e i suoi sentimenti</E
+M>la cronaca registra un succedersi di rapine</E
+M>la storia registra le grandi imprese</E
+M>ha registrato nella memoria i nomi dei suoi nemici</E
+M>nell&#8217;ultimo decennio si è registrato in Italia un forte calo demografico</E
+M>il traffico è intenso ma finora non si registrano gravi ingorghi sulle autostrade</E
+M>una parola che non è registrata in nessun vocabolario</E
+M>un buon vocabolario deve r</E
+M>con ogni voce</E
+M>i suoi usi e costrutti</E
+M>un dizionario che registra soprattutto termini economici</E
+M>una raccolta concepita per r. i neologismi</E
+M>i sismografi hanno registrato una forte scossa sismica</E
+M>l&#8217;elettrocardiografo</E
+M>l&#8217;elettrocardiogramma</E
+M>non registra alcunché di anormale</E
+M>apparati</E
+M>apparecchi</E
+M>strumenti per r</E
+M>la temperatura</E
+M>l&#8217;umidità dell&#8217;aria</E
+M>la forza del vento</E
+M>la quota</E
+M>su disco fonografico</E
+M>su nastro magnetico</E
+M>una canzone</E
+M>un concerto</E
+M>una conversazione</E
+M>un&#8217;intervista</E
+M>un discorso politico</E
+M>una rappresentazione teatrale</E
+M>uno spettacolo</E
+M>un dibattito</E
+M>un programma televisivo</E
+M>un orologio</E
+M>un organo meccanico</E
+M>le punterie di un motore</E
+M>la frizione</E
+M>i freni di un automezzo</E
+M>un organo</E
+M>nella squadra di calcio nazionale i varî reparti non sono ancora ben registrati</E
+M>bene mobile registrato</E
+M>marchio registrato</E
+M>trasmissione</E
+M>rappresentazione</E
+M>musica</E
+M>conversazione</E
+M>registrata</E
+M>trasmissione in diretta</E

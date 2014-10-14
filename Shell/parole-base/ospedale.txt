@@ -1,0 +1,72 @@
+ospedale.txt
+"corpo degli interni di un ospedale"
+"in ospedale"
+"letto di ospedale"
+"nave ospedale"
+"ospedale"
+"ospedale"
+"ospedale da campo"
+"ospedale da campo"
+"ospedale dei veterani"
+"ospedale di maternità, maternità"
+"ospedale gratuito"
+"ospedale gratuito"
+"ospedale pediatrico"
+"ospedale psichiatrico"
+"ospedale pubblico"
+"ospedale statale"
+"ospedale statale"
+"piccolo ospedale"
+"stanza di ospedale"
+*[[clinica]], [[nosocomio]]
+*[[ospedale da campo]], [[ospedale psichiatrico]], [[ospedaliero]], [[ospedalismo]], [[ospedalità]], [[ospedalizzare]], [[ospedalizzazione]], [[ospite]], [[ostello]]
+*Enciclopedia [http
+* La Rizzoli Larousse, ''[http
+*Devoto/Oli, '' Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1421
+*AA.VV. '' Dizionario etimologico'', edizione 2004, ristampa 2008, RusconiLibri, p. 709
+M>hospitale</E
+M>hospitalis</E
+M>venne a tanta miseria</E
+M>che in uno vile ospedale</E
+M>finì la vita sua</E
+M>soltanto i miserabili allevano i bastardi all’ospedale</E
+M>pubblici</E
+M>privati</E
+M>case di cura</E
+M>cliniche</E
+M>civile</E
+M>militare</E
+M>generali</E
+M>specializzati</E
+M>pediatrico</E
+M>ortopedico</E
+M>oftalmico</E
+M>geriatrico</E
+M>i medici dell’o</E
+M>gli infermieri dell’o</E
+M>le corsie di un o</E
+M>andare</E
+M>essere all’o</E
+M>ricoverare qualcuno all’o</E
+M>entrare in o</E
+M>lasciare l’o</E
+M>uscire dall’o</E
+M>finire all’o</E
+M>mandare qualcuno all’o</E
+M>è un o</E
+M>è un o</E
+M>ambulante</E
+M>ha fatto tre mesi di ospedale</E
+M>infermeria</E
+M>di bordo</E
+M>nave o</E
+M>treno o</E
+M>clinica</E
+M>delle bambole</E
+M>del libro</E
+M>della borsetta</E
+M>ospedaletto da campo</E
+M>Ospedaletto</E
+M>Ospitaletto</E
+M>Ospedale</E
+M>Ospitale</E

@@ -1,0 +1,119 @@
+panno.txt
+"panno"
+"panno"
+"panno, replace: panni"
+"panno in carta"
+*[[tessuto]], [[stoffa]], [[tela]], [[pezza]]
+*[[drappo]], [[coperta]], [[cencio]], [[straccio]], [[strofinaccio]]
+* [[appannare]],  [[spannare]]
+* [[straccio]],  [[strofinaccio]]
+* ''lavare i '''panni''''' 
+* ''non vorrei essere nei suoi '''panni'''!'' 
+* ''mettersi nei '''panni''' di qualcuno 
+* ''indossare i '''panni''' di qualcuno'' 
+* ''lavare i '''panni''' sporchi'' 
+* ''lavare i '''panni''' sporchi in casa'' 
+M>pannus</E
+M>stoffa</E
+M>lana</E
+M>tela</E
+M>cotone</E
+M>un rotolo</E
+M>una pezza di p</E
+M>panno per abiti</E
+M>come buon sartore Che com&#8217;elli ha del p</E
+M>fa la gonna</E
+M>fabbrica</E
+M>mercante di panni</E
+M>lano</E
+M>lino</E
+M>albagio</E
+M>bigello</E
+M>borgonzone</E
+M>monachino</E
+M>pigliare</E
+M>tagliare il p</E
+M>per il suo verso</E
+M>lì c&#8217;è p</E
+M>da tagliare</E
+M>esserci p</E
+M>per fare qualche cosa</E
+M>un cappotto di p</E
+M>pesante</E
+M>una divisa</E
+M>un&#8217;uniforme di p</E
+M>una coperta di p</E
+M>il p</E
+M>verde del biliardo</E
+M>lenci</E
+M>lucidare l&#8217;argenteria con un p</E
+M>morbido</E
+M>passare un p</E
+M>sui mobili</E
+M>da stirare</E
+M>da stiro</E
+M>caldi</E
+M>pannicelli caldi</E
+M>funebre</E
+M>mortuario</E
+M>mettere i p</E
+M>in bucato</E
+M>in lavatrice</E
+M>lavare</E
+M>stirare</E
+M>rammendare i p</E
+M>le donne del paese che andavano a lavare i p. e chiacchieravano come una radio</E
+M> senza mai fermarsi</E
+M>stendere i p</E
+M>al sole</E
+M>sporchi</E
+M>puliti</E
+M>bianco come un p</E
+M>cencio</E
+M>lavato</E
+M>lavare i p</E
+M>sporchi in casa</E
+M>in famiglia</E
+M>leggeri</E
+M>pesanti</E
+M>estivi</E
+M>da mezza stagione</E
+M>riporre i p</E
+M>invernali</E
+M>mettersi i p</E
+M>delle feste</E
+M>non stare più nei proprî panni</E
+M>essere</E
+M>mettersi nei p</E
+M>di qualcuno</E
+M>vestire i p</E
+M>di qualcuno</E
+M>tagliare i p</E
+M>addosso a uno</E
+M>stringere i p</E
+M>addosso a uno</E
+M>capire</E
+M>sapere di che panni uno veste</E
+M>portare i p</E
+M>laceri</E
+M>non essere</E
+M>non sentirsi nei proprî p</E
+M>stare nei proprî p</E
+M>entrare nei p</E
+M>del personaggio</E
+M>Dio manda il freddo secondo i p</E
+M>panni di gamba</E
+M>si spogliò in farsetto e trassesi i p</E
+M>di gamba</E
+M>era cattivo in ogni crimine di lussuria</E
+M>e sempre avea per usanza d&#8217;andare sanza panni di gamba</E
+M>il p</E
+M>del latte bollito</E
+M>panna</E
+M>l&#8217;aceto ha fatto il p</E
+M>appannare</E
+M>panno</E
+M>membrana vitellina</E
+M>dell&#8217;occhio</E
+M>corneale</E
+M>sinoviale</E

@@ -1,0 +1,7 @@
+corazzata.txt
+"corazzata"
+"nave corazzata"
+M>nave</E
+M>corazzata</E
+M>nave da battaglia</E
+M>tascabile</E

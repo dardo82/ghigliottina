@@ -1,0 +1,28 @@
+brigante.txt
+"brigante"
+"brigante"
+"brigante"
+#* ''è un avventuriero, un 
+#* ''quel bambino è proprio un 
+* (bandito) [[furfante]], [[briccone]],  [[masnadiere]]
+* (amante della bella vita) [[avventuriero]], [[donnaiolo]],  [[viveur]]
+* (formaggio sardo) [[brigante sardo]]
+*''a 
+*italiano
+M>briga</E
+M>con sue masnade e con molti b</E
+M>a piè e fanti di volontà si puosono nel borgo</E
+M>la regione era infestata dai b</E
+M>i b</E
+M>avevano dato l’assalto alla diligenza</E
+M>briccone</E
+M>birbante</E
+M>sei un vero b</E
+M>quel b</E
+M>di tuo figlio</E
+M>hai combinato di nuovo una delle tue!</E
+M>è una b. quella ragazza!</E
+M>sei una vera brigante!</E
+M>era questo frate Cipolla</E
+M>il miglior b</E
+M>del mondo</E

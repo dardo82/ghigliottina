@@ -1,0 +1,17 @@
+talento.txt
+"avere talento per, avere stoffa per, essere portato per"
+"avere un talento per"
+"persona di talento"
+"spettacolo di talento"
+"talento"
+"talento"
+"talento"
+"talento letterario"
+"talento musicale"
+"valorizzare un talento"
+#*''ha un vero '''talento''' per la [[musica]]!''
+*[[dote]], [[capacità]], [[attitudine]], [[inclinazione]], [[tendenza]], [[propensione]], [[disposizione]], [[predisposizione]], [[indole]], [[estro]], [[valore]]
+*[[ingegno]], [[genialità]]
+*[[incapacità]], [[inettitudine]]
+*[[fallito]], [[incapace]]
+*[[talentare]]

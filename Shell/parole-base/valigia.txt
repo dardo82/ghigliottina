@@ -1,0 +1,17 @@
+valigia.txt
+"fare la valigia"
+"sacca da viaggio, valigia"
+"valigia"
+"valigia diplomatica"
+*[[valigeria]], [[svaligiare]],[[svaligiatore]]
+*''Fare le '''valigie'''''
+M>valisia</E
+M>-gie</E
+M>fare le v.</E
+M>v. postale</E
+M>corriere</E
+M>v. diplomatica</E
+M>Valigia delle Indie</E
+M>Indian Mail</E
+M>valigette quarantott’ore</E
+M>ventiquattr’ore</E

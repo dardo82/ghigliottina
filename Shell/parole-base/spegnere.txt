@@ -1,0 +1,91 @@
+spegnere.txt
+"spegnere"
+"spegnere"
+"spegnere"
+"spegnere il fuoco"
+"spegnere la luce"
+"spegnere la sete"
+"spegnere lo sguardo"
+"spegnere un incendio"
+*[[accendere]]
+M>exp</E
+M>ex-</E
+M>ping</E
+M>exting</E
+M>extingu</E
+M>io spèngo</E
+M>spéngo</E
+M>tu spègni</E
+M>spégni</E
+M>spèngi</E
+M>spéngi</E
+M>noi spegniamo</E
+M>spengiamo</E
+M>voi spegnéte</E
+M>spengéte</E
+M>spènga</E
+M>spénga</E
+M>spegniamo</E
+M>spengiamo</E
+M>spegniate</E
+M>spengiate</E
+M>io spènsi</E
+M>spénsi</E
+M>tu spegnésti</E
+M>spengésti</E
+M>spènto</E
+M>spénto</E
+M>il vento ha spento il fuoco</E
+M>l&#8217;acqua</E
+M> bollendo</E
+M> ha debordato dal tegame e ha spento la fiamma</E
+M>il fornello</E
+M>il gas</E
+M>i pompieri spensero l&#8217;incendio</E
+M>s. la candela</E
+M>un fiammifero</E
+M>s. la sigaretta</E
+M>il sigaro</E
+M>la pipa</E
+M>spegnersi</E
+M>le fiamme si spegnevano lentamente</E
+M>questo sigaro non tira</E
+M> continua a spegnersi</E
+M>s. la calce</E
+M>s. la farina</E
+M>s. la sete</E
+M>una sete ardente</E
+M>s. la lampada</E
+M>s. la luce</E
+M>s. lo scaldabagno</E
+M>s. la radio</E
+M>il televisore</E
+M>s. il motore dell&#8217;automobile</E
+M>improvvisamente si spensero tutte le luci</E
+M>è mancata la corrente e il forno elettrico si è spento</E
+M>s. un arco voltaico</E
+M>s. oscillazioni</E
+M>vibrazioni</E
+M>accendere</E
+M>s. un conto</E
+M>s. un debito</E
+M>un prestito</E
+M>s. un&#8217;ipoteca</E
+M>il tempo spegne i ricordi</E
+M>le continue polemiche hanno spento l&#8217;entusiasmo iniziale</E
+M>la nebbia spegne tutti i rumori</E
+M>l&#8217;ardore di un tempo si è ormai spento</E
+M>è molto vecchio</E
+M> e la sua intelligenza si spegne giorno per giorno</E
+M>il suo riso si spense subito</E
+M> come troncato da un improvviso pensiero triste</E
+M>S. la vita</E
+M>È Opizzo da Esti</E
+M> il qual per vero Fu spento dal figliastro sù nel mondo</E
+M>si ha a notare che li uomini si debbano o vezzeggiare o spegnere</E
+M>Oh misero colui che in guerra è spento!</E
+M>certo e&#8217; par qui che la natura voglia spegnere la umana spezie</E
+M> come cosa inutile al mondo e guastatrice di tutte le cose create</E
+M>spegnersi</E
+M>la poveretta si va spegnendo lentamente</E
+M>si spense serenamente fra le braccia della figlia</E

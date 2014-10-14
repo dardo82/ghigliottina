@@ -1,0 +1,52 @@
+traduzione.txt
+"curare la traduzione"
+"necessita di traduzione"
+"traduzione"
+"traduzione"
+"traduzione letterale"
+"traduzione libera"
+#* ''abbiamo letto la '''traduzione''' dell'Iliade''
+*[[versione]], [[resa]], [[trasposizione]]
+*(di imputato, detenuto) [[spostamento]], [[trasferimento]]
+M>traductio -onis</E
+M>fare</E
+M>eseguire</E
+M>affidare</E
+M>stampare</E
+M>pubblicare</E
+M>la t. di un poeta</E
+M>di un romanzo dall&#8217;inglese in italiano</E
+M>dal russo in francese</E
+M>esercizî</E
+M>prove di t.</E
+M>versione</E
+M>t. giurata</E
+M>t. simultanea</E
+M>una t. letterale</E
+M>libera</E
+M>a senso</E
+M>una t. fedele</E
+M>infedele</E
+M>una t. è brutta e fedele</E
+M>bella e infedele</E
+M>t. in versi</E
+M>in prosa</E
+M>una buona</E
+M>cattiva</E
+M>ottima</E
+M>pessima</E
+M>traduzione</E
+M>t. automatica</E
+M>è stata pubblicata una nuova t. di Poe</E
+M>vorrei leggere Proust nell&#8217;originale</E
+M>ma so poco il francese e mi devo accontentare della t.</E
+M>conosco Omero solo nelle t. del Monti e di Pindemonte</E
+M>è una t. quasi più bella dell&#8217;originale</E
+M>tradurre</E
+M>non capisco ciò che dici: potresti farmi una t. in parole povere?</E
+M>la t. di un&#8217;idea in un dipinto</E
+M>in una scultura</E
+M>la t. in atto di un progetto</E
+M>uno dei prigionieri</E
+M>durante la t. in un altro carcere</E
+M>è riuscito a fuggire.</E

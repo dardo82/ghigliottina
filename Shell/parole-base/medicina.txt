@@ -1,0 +1,123 @@
+medicina.txt
+"attinente alla medicina forense"
+"dottore in medicina"
+"medicina"
+"medicina"
+"medicina"
+"medicina aeronautica"
+"medicina aerospaziale"
+"medicina ayurvedica"
+"medicina ayurvedica"
+"medicina cinese"
+"medicina clinica"
+"medicina comparativa"
+"medicina del lavoro"
+"medicina dello sport"
+"medicina fisica"
+"medicina generale"
+"medicina generica"
+"medicina interna"
+"medicina legale"
+"medicina legale"
+"medicina legale e delle assicurazioni"
+"medicina militare"
+"medicina miracolosa"
+"medicina miracolosa"
+"medicina olistica"
+"medicina per tutto"
+"medicina popolare"
+"medicina preventiva"
+"medicina psicologica"
+"medicina psicosomatica"
+"medicina sperimentale"
+"medicina tropicale"
+"medicina veterinaria"
+"pratica della medicina"
+"prendere la medicina"
+"prendere la medicina"
+"ramo della medicina"
+"scuola di medicina"
+"studente di medicina"
+"studente di medicina"
+#*''Il [[w
+*scienza medica, scienza della salute; professione medica
+*[[farmaco]], [[medicinale]], [[medicamento]]
+*[[medicinale]]
+*[[farmacia]]
+*italiano
+*latino
+M>medicina</E
+M>ars medicina</E
+M>medicinus</E
+M>med</E
+M>cus</E
+M>lo studio della m</E
+M>trattato di m</E
+M>i progressi</E
+M>le scoperte della medicina</E
+M>interna</E
+M>esterna</E
+M>preventiva</E
+M>veterinaria</E
+M>comparata</E
+M>alternativa</E
+M>costituzionalistica</E
+M>omeopatica</E
+M>psicosomatica</E
+M>operatoria</E
+M> m. fisica</E
+M>aeronautica</E
+M>aviatoria</E
+M>nucleare</E
+M>aerospaziale</E
+M>spaziale</E
+M>tropicale</E
+M>militare</E
+M>scolastica</E
+M>infortunistica</E
+M>del lavoro</E
+M>sportiva</E
+M>dello sport</E
+M>legale</E
+M>giuridica</E
+M>forense</E
+M>sociale</E
+M>pubblica</E
+M>delle assicurazioni</E
+M>tossicologia forense</E
+M>pastorale</E
+M>studente in m</E
+M>laurea</E
+M>laurearsi in m</E
+M>dottore in m</E
+M>iscriversi a m</E
+M>fare il secondo anno di m</E
+M>esercitare m</E
+M>esercizio abusivo della medicina</E
+M>istintiva</E
+M>popolare</E
+M>la giovane cominciò la sua m</E
+M>in brieve</E
+M>l’ebbe condotto a sanità</E
+M>una m</E
+M>efficace</E
+M>prescrivere</E
+M>acquistare una m</E
+M>dare</E
+M>prendere la m</E
+M>una m</E
+M>amara</E
+M>dolce</E
+M>disgustosa</E
+M>per l’indigestione la miglior m</E
+M>è il digiuno</E
+M>dicendo niun’altra m</E
+M>essere contro alle pistilenze migliore né così buona come il fuggir loro davanti</E
+M>Così da quella imagine divina</E
+M>Per farmi chiara la mia corta vista</E
+M>Data mi fu soave m</E
+M>una buona dose di legnate sarebbe una buona m</E
+M>per lui</E
+M>la m</E
+M>è giunta tardi</E
+M>Principiis obsta: sero medicina paratur</E

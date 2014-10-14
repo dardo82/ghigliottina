@@ -1,0 +1,15 @@
+ascensore.txt
+"appartamento in palazzo senza ascensore"
+"ascensore"
+"ascensore di servizio"
+"cancello di ascensore"
+"fossa dell'ascensore"
+"palazzo senza ascensore"
+"vano ascensore"
+*[[ascensore sociale]]
+M>ascenseur</E
+M>ascend</E
+M>ascensum</E
+M>elettrico</E
+M>montacarichi</E
+M>sottomarino</E

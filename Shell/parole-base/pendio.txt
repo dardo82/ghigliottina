@@ -1,0 +1,32 @@
+pendio.txt
+"http://api.wordreference.com/12bee/json/iten/pendio/"
+#* ''L'auto si è fermata sul pendio'' 
+#* ''Non è stato facile arrivare qui a piedi a causa del forte pendio''
+#* ''Dopo la morte del padre si è incamminata sul pendio della disperazione''
+#* ''Il pendio dell'abbandono'' (titolo di una canzone  di Carmen Consoli) 
+* [[declivio]]
+* [[discesa]]
+* [[pendenza]]
+* [[inclinazione]]
+* [[china]]
+* [[erta]]
+* [[salita]]
+* [[piana]]
+* [[pianura]]
+M>la strada è in forte</E
+M>in leggero p</E
+M>perché scorra via l&#8217;acqua bisogna dare al pavimento il necessario pendio</E
+M>salire il</E
+M>per il</E
+M>ripido p</E
+M>della montagna</E
+M>un p</E
+M>erboso</E
+M>ghiaioso</E
+M>di ghiaccio</E
+M>la pista di slalom è sul p</E
+M>occidentale del monte</E
+M>piovente</E
+M> linea di pendio</E
+M>linea di massima pendenza</E
+M>scala di pendio</E

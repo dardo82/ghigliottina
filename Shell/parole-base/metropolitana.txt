@@ -1,0 +1,26 @@
+metropolitana.txt
+"area metropolitana"
+"contea metropolitana"
+"la metropolitana (Br.)"
+"leggenda metropolitana"
+"metropolitana"
+"metropolitana leggera"
+*[[metró]]
+M>ferrovia metropolitana</E
+M>chemin de fer métropolitain</E
+M>le métropolitain</E
+M>le métro</E
+M>terza rotaia</E
+M>l’inaugurazione</E
+M> il completamento della m</E
+M>prendere la m</E
+M>la stazione</E
+M>l’ingresso</E
+M>della stazione</E
+M>della m</E
+M>il biglietto per la m</E
+M>le gallerie della m</E
+M>subway</E
+M>underground</E
+M>Untergrundbahn</E
+M>elevated</E

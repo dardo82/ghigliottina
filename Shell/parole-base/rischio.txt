@@ -1,0 +1,116 @@
+rischio.txt
+"a rischio"
+"a rischio di"
+"andare a rischio"
+"area a rischio"
+"attestato di rischio"
+"azzardo, rischio nascosto"
+"capitale a rischio"
+"capitale di rischio"
+"copertura del rischio"
+"correre il rischio"
+"correre il rischio di"
+"correre un rischio"
+"correre un rischio"
+"gusto del rischio"
+"il rischio c'è"
+"manlevare dal rischio"
+"margine di rischio"
+"mettere a rischio"
+"mettere a rischio la propria vita"
+"premio di rischio"
+"rischio"
+"rischio assegnato"
+"rischio calcolato"
+"rischio del compratore"
+"rischio di cambio"
+"rischio di guerra"
+"rischio morale"
+"rischio professionale"
+"soglia di rischio"
+*[[pericolo]], [[repentaglio]], [[azzardo]], [[sorte]], [[avventura]], [[incognita]], [[cimento]]
+*[[alea]], 
+*[[sicurezza]], [[certezza]], [[prudenza]]
+*[[arrischiare]], [[rischio-paese]]
+M>pericolo</E
+M>la strada è ghiacciata e c&#8217;è il r</E
+M>di scivolare</E
+M>provare non è poi un gran r</E
+M>non comporta gravi r</E
+M>correre il r</E
+M>per colpa tua abbiamo corso il r</E
+M>di perdere il treno</E
+M>calcolato</E
+M>mettere</E
+M>porre a r</E
+M>la propria reputazione</E
+M>la vita</E
+M>una persona cara</E
+M>mettersi</E
+M>esporsi al r</E
+M>andare</E
+M>venire a r</E
+M>boschi inospiti e selvaggi</E
+M>Onde vanno a gran r</E
+M>uomini e arme</E
+M>a rischio di</E
+M>col r</E
+M>è voluto salire sul tetto a r</E
+M>di rompersi l&#8217;osso del collo</E
+M>pericolo</E
+M>affrontare il r</E
+M>di un licenziamento</E
+M>di morte</E
+M>della vita</E
+M>Nasce l&#8217;uomo a fatica</E
+M>Ed è r</E
+M>di morte il nascimento</E
+M>nucleare</E
+M>condizione</E
+M>soggetto a rischio</E
+M>fattore di r</E
+M>paziente a r</E
+M>gravidanza a r</E
+M>gestante</E
+M>feto a r</E
+M>ad alto rischio</E
+M>prevedere i r</E
+M>di un&#8217;operazione</E
+M>di un&#8217;iniziativa</E
+M>di un contratto</E
+M>a rischio</E
+M>a r</E
+M>e pericolo</E
+M>la merce viaggia</E
+M>viene spedita a r</E
+M>e pericolo del committente</E
+M>del destinatario</E
+M>del mittente</E
+M>tecnici</E
+M>di incendio</E
+M>di furto</E
+M>di naufragio</E
+M>commerciali</E
+M>di mercato</E
+M>di variazione della domanda e dell&#8217;offerta</E
+M>dei prezzi</E
+M>assicurabili</E
+M>non assicurabili</E
+M>assunti</E
+M>assicurati</E
+M>esclusi</E
+M>non assicurati</E
+M>assicurare</E
+M>assicurarsi contro il r</E
+M>del furto</E
+M>della grandine</E
+M>marittimo</E
+M>aereo</E
+M>distribuire il r</E
+M>R. d&#8217;insolvenza</E
+M>r. diretto</E
+M>r. indiretto</E
+M>ufficio rischi</E
+M>valutare il r</E
+M>di una nuova produzione</E
+M>fondo rischi</E

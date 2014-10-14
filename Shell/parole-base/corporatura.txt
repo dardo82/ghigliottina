@@ -1,0 +1,11 @@
+corporatura.txt
+"corporatura"
+M>corporatura</E
+M>corpus</E
+M>ris</E
+M>essere di c</E
+M>giusta</E
+M>grande</E
+M>gigantesca</E
+M>un cavallo di c</E
+M>snella</E

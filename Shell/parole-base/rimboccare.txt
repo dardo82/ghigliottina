@@ -1,0 +1,15 @@
+rimboccare.txt
+"relativo all'azione di rimboccare"
+"rimboccare"
+"rimboccare, rincalzare le coperte"
+M>bocca</E
+M>rin</E
+M>io rimbócco</E
+M>tu rimbócchi</E
+M>un sacco</E
+M>il lenzuolo</E
+M>rimbóccati le maniche della camicia e vieni a lavorare</E
+M>rimboccarsi le maniche</E
+M>rimbocco</E
+M>rabboccare</E
+M>avere le maniche rimboccate</E

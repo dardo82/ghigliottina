@@ -1,0 +1,38 @@
+persuadere.txt
+"http://api.wordreference.com/12bee/json/iten/persuadere/"
+* [[convincere]]
+* [[persuadibile]], [[persuasione]], [[persuasiva]], [[persuasivo]], [[persuasore]]
+*Italiano
+*Latino
+M>persuadere</E
+M>per-</E
+M>suadere</E
+M>io persüado</E
+M>persüa</E
+M> persuadésti</E
+M>persüa</E
+M>l&#8217;ho persuaso della esattezza delle mie supposizioni</E
+M>sono sicuro di ciò che dico</E
+M>e nessuno mi persuaderà del contrario</E
+M>lo persuasi che aveva torto</E
+M>lo persuasi che si poteva tentare</E
+M>persuadilo a non fare sciocchezze</E
+M>mi ha persuasa a partire</E
+M>i tuoi ragionamenti non mi persuadono</E
+M>la sua indecisione mi persuase a insistere</E
+M>il doloroso Premio</E
+M>de&#8217; lor vicini arti più miti Persuase a&#8217; Laconi</E
+M>l&#8217;esecuzione ha persuaso anche il pubblico più esigente</E
+M>la sua proposta non ha persuaso nessuno</E
+M>quel tipo ha un modo di fare che non mi persuade</E
+M>la sua faccia non mi persuade affatto</E
+M>mi persuado sempre più della sua buona fede</E
+M>alla fine si persuasero a scappare</E
+M>si persuase di aver sbagliato</E
+M>persuaso</E
+M>non sapersi p</E
+M>non riuscire a persuadersi di qualcosa</E
+M>non riesce ancora a persuadersi della fortuna che gli è capitata</E
+M>ragioni</E
+M> dimostrazioni persuadenti</E
+M>persuasive</E

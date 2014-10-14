@@ -1,0 +1,13 @@
+trasloco.txt
+"trasloco"
+M>chi</E
+M>trasferimento</E
+M>andiamo ad abitare in centro</E
+M>l&#8217;ufficio</E
+M>il laboratorio</E
+M>si sposta nella zona industriale</E
+M>: domani si farà</E
+M>ci sarà</E
+M> il t.</E
+M>ditta</E
+M>agenzia di traslochi</E

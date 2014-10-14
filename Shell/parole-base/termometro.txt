@@ -1,0 +1,36 @@
+termometro.txt
+"termometro"
+"termometro"
+"termometro da forno"
+"termometro di cottura"
+* [[termografo]], [[termometrico]], [[termometria]]
+* [[febbre]], [[temperatura]]
+*italiano
+M>thermomètre</E
+M>Récréation mathématique</E
+M>t. a dilatazione</E
+M>t. clinico</E
+M>termometro</E
+M>mettiti il t.</E
+M>ho l&#8217;impressione che tu abbia la febbre</E
+M>t. a resistenza elettrica</E
+M>t. a variazione di pressione</E
+M>a pressione</E
+M>a tensione di vapore</E
+M>t. digitale</E
+M>t. a liquido</E
+M>t. a mercurio</E
+M>ad alcol</E
+M>a toluene</E
+M>t. a gas</E
+M>t. metallici</E
+M>a bimetallo</E
+M>a termocoppia</E
+M>t. a massima</E
+M>a minima</E
+M>temperatura</E
+M>t. a massima e a minima</E
+M>t. a rovesciamento.</E
+M>la borsa è il t. della situazione economica</E
+M>l&#8217;aumento della delinquenza è spesso il t. di una crisi sociale.</E
+M>t. geologici</E

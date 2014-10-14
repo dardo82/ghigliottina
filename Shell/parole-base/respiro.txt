@@ -1,0 +1,80 @@
+respiro.txt
+"di più ampio respiro"
+"di vasto respiro"
+"esalare l'ultimo respiro"
+"fiato, respiro"
+"lasciare senza respiro"
+"non trattenere il respiro"
+"respiro"
+"respiro"
+"respiro affannoso"
+"respiro affannoso"
+"respiro affannoso"
+"respiro affaticato"
+"respiro profondo"
+"togliere il respiro"
+"togliere il respiro"
+"ultimo respiro"
+"ultimo respiro"
+"ultimo respiro"
+"ultimo respiro"
+#*'' quando vado in città 
+*[[respirazione]], [[fiato]], [[sospiro]], [[alito]], [[soffio]]
+*[[respirare]], [[respirazione]]
+M>si udiva nella stanza il r</E
+M>dell&#8217;ammalato</E
+M>trattenere il r</E
+M>avere il r</E
+M>frequente</E
+M>corto</E
+M>affannoso</E
+M>il suo r</E
+M>divenne di nuovo calmo e regolare</E
+M>si fermò un istante per riprendere</E
+M>ripigliare r</E
+M>fiato</E
+M>in questa stanza chiusa mi manca il r</E
+M>in mezzo a tutta quella folla si sentì mancare il r</E
+M>un&#8217;afa</E
+M>un&#8217;aria umida</E
+M>un puzzo che toglie</E
+M>leva</E
+M>mozza il r</E
+M>il fiato</E
+M>fare</E
+M>emettere un r</E
+M>allargò i polmoni in un profondo r</E
+M>breve</E
+M>lungo</E
+M>largo r</E
+M>ha dato</E
+M>esalato</E
+M>mandato l&#8217;ultimo r</E
+M>lottare</E
+M>combattere</E
+M>resistere fino all&#8217;ultimo r</E
+M>a quella notizia mandò un gran r</E
+M>di soddisfazione</E
+M>un gran r</E
+M>le preoccupazioni non gli lasciano un minuto di r</E
+M>l&#8217;attività di questo ufficio non dà r</E
+M>lavorare senza r</E
+M>quest&#8217;estate voglio prendermi una settimana di r</E
+M>farò quel che mi chiedi</E
+M>ma lasciami qualche giorno di r</E
+M>un po&#8217; di r</E
+M>i creditori non gli danno r</E
+M>di cassa</E
+M>pagamento a r</E
+M>largo</E
+M>ampio r</E
+M>ha messo mano a un&#8217;opera di largo r</E
+M>di più ampio r</E
+M>una lirica</E
+M>un dipinto murale</E
+M>una composizione sinfonica di largo respiro</E
+M>pausa</E
+M>montante</E
+M>quando ci dissero che se n&#8217;era andato</E
+M>tutti facemmo un respirone di sollievo</E
+M>metteva certi respironi larghi e pieni</E

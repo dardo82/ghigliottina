@@ -1,0 +1,6 @@
+ciminiera.txt
+"ciminiera"
+M>cheminée</E
+M>caminata</E
+M>caminus</E
+M>camminata</E

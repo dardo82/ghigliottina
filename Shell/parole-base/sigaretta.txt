@@ -1,0 +1,31 @@
+sigaretta.txt
+"fumo di sigaretta"
+"pausa sigaretta"
+"sigaretta"
+"tiro di sigaretta"
+#*''nella mia generazione è purtroppo facile vedere alle labbra di ragazzi e ragazze una apparentemente trasgressiva '''sigaretta'''''
+#*''mia madre era solita farci mangiare il formaggio tagliandolo in sottili '''sigarette'''''
+*''(rotolino cilindrico contenente tabacco)'' 
+*''(cilindro di cartone per il filo)'' [[spagnoletta]], [[rocchetto]]
+* [[narghilè]], [[pipa]], [[sigaro]], [[tabacco]]
+*italiano
+M>sigaro</E
+M>cigarette</E
+M>accendere</E
+M>fumare</E
+M>fumarsi</E
+M>una s.</E
+M>un pacchetto di sigarette col filtro</E
+M>senza filtro</E
+M>s. italiane</E
+M>estere</E
+M>le prime s. che io fumai non esistono più in commercio</E
+M>il giovane che l&#8217;accompagnava aveva la s. fra le labbra</E
+M>Carta da</E
+M>per</E
+M>sigarette</E
+M>S. di cioccolato</E
+M>s. medicinali</E
+M>s. antiasmatiche</E
+M>una s. di filo forte</E
+M>di filo di seta</E

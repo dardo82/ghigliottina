@@ -1,0 +1,72 @@
+anticipo.txt
+"agire in anticipo"
+"anticipo"
+"anticipo"
+"anticipo"
+"anticipo"
+"anticipo in contanti"
+"anticipo in denaro"
+"calcolare i costi, le spese in anticipo"
+"con congruo anticipo"
+"essere in anticipo"
+"giudicare in anticipo"
+"grazie in anticipo"
+"immaginare con anticipo"
+"in anticipo"
+"in anticipo"
+"in anticipo"
+"in anticipo"
+"in anticipo"
+"in anticipo su"
+"in anticipo sui tempi"
+"in netto anticipo"
+"ordinare in anticipo"
+"organizzare in anticipo"
+"organizzato in anticipo"
+"organizzato in anticipo"
+"pagare in anticipo"
+"pagare in anticipo"
+"pagato in anticipo"
+"pagato in anticipo"
+"pensarci in anticipo"
+"programmare in anticipo"
+"programmare in anticipo"
+"programmato in anticipo"
+"programmato in anticipo"
+"regolato in anticipo"
+"regolazione dell'anticipo, regolazione dell'accensione"
+"richiedere in anticipo"
+"richiedere in anticipo; prenotare"
+"sapere in anticipo"
+"sistemare in anticipo"
+"sistemato in anticipo"
+"sistemato in anticipo"
+#*''È stato deciso l''''anticipo''' del corso di tennis a domani.''
+#*''Ieri, per la prima volta nella mia vita, ero in '''anticipo''' di 10 minuti!''
+#*''Con un '''anticipo''' di soli €15.000 (e modiche rate mensili in seguito) potete comprare questo autentico chalet di metà '800!''
+*[[acconto]], [[caparra]], [[deposito]] 
+*[[posticipo]]
+*[[anticipare]], [[anticipatamente]], [[anticipato]], [[in anticipo]]
+M>anticipazione</E
+M>della partenza</E
+M>di una somma</E
+M>la lezione avrà inizio con un a</E
+M>di 10 minuti</E
+M>è giunto con notevole a</E
+M>sul previsto</E
+M>in anticipo</E
+M>arrivare</E
+M>partire</E
+M>essere in a</E
+M>le ordinazioni si pagano in a</E
+M>promettere</E
+M>dare</E
+M>concedere</E
+M>ottenere</E
+M>ricevere</E
+M>riscuotere un a</E
+M>dell’accensione</E
+M>anticipo</E
+M>battere sull’a</E
+M>giocare di anticipo</E
+M>suonare sull’a</E

@@ -1,0 +1,43 @@
+cambiamento.txt
+"brusco cambiamento di tempo"
+"cambiamento"
+"cambiamento"
+"cambiamento"
+"cambiamento costante"
+"cambiamento d'altitudine"
+"cambiamento d'opinione"
+"cambiamento della personalità"
+"cambiamento dello sviluppo"
+"cambiamento di comportamento"
+"cambiamento di professione"
+"cambiamento evoluzionale"
+"cambiamento graduale"
+"cambiamento improvviso"
+"cambiamento radicale"
+"cambiamento radicale"
+"cambiamento radicale"
+"cambiamento rapido"
+"cambiamento tranquillo"
+"linea del cambiamento di data"
+"linea del cambiamento di data"
+"Linea del cambiamento di data, linea internazionale del cambio di data"
+"processo di cambiamento"
+"rapido cambiamento di opinione"
+"resistenza al cambiamento"
+"subire un cambiamento"
+"subire un cambiamento"
+"tendenza al cambiamento"
+*[[cambio]], [[mutamento]], [[modifica]], [[modificazione]], [[trasformazione]], [[alterazione]], [[variazione]], [[metamorfosi]], [[novità]], [[innovazione]], [[rinnovamento]], [[miglioramento]], [[correzione]], [[evoluzione]], [[riforma]]
+*[[inalterabilità]], [[immutabilità]], [[stabilità]]
+*[[stasi]], [[regresso]], [[involuzione]], [[peggioramento]]
+M>di casa</E
+M>di stagione</E
+M>di temperatura</E
+M>fare un c</E
+M>un gran c</E
+M>di stato d’aggregazione della materia</E
+M>di stato civile</E
+M>di scena</E
+M>di indirizzo politico</E
+M>di mano</E
+M>sociali e culturali</E

@@ -1,0 +1,17 @@
+abbreviare.txt
+"abbreviare"
+"abbreviare"
+M>abbreviare</E
+M>brevis</E
+M>io abbrèvio</E
+M>il cammino</E
+M>un discorso</E
+M>la vita</E
+M>una parola</E
+M>dott</E
+M>dottore</E
+M> prof.</E
+M> professore</E
+M>passando per la nuova strada</E
+M>le distanze si abbreviano</E
+M>una vocale lunga davanti a un’altra vocale si abbrevia</E

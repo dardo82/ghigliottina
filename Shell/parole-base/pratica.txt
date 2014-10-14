@@ -1,0 +1,181 @@
+pratica.txt
+"abilità pratica"
+"abilità pratica"
+"accelerare una pratica"
+"attività pratica"
+"che pratica il fai da te"
+"che pratica la pesca a mosca"
+"chiudere la pratica"
+"conoscenza pratica"
+"conseguenza pratica"
+"dalla teoria alla pratica"
+"esercitazione pratica"
+"far pratica"
+"far pratica"
+"fare pratica"
+"fare pratica"
+"formazione pratica"
+"imparare con la pratica"
+"in pratica"
+"istruire una pratica"
+"lezione pratica"
+"mettere in pratica"
+"mettere qualcosa in pratica"
+"numero di pratica"
+"persona che pratica il windsurf"
+"persona pratica"
+"persona pratica"
+"persona pratica; avveduta"
+"politica pratica"
+"pratica"
+"pratica"
+"pratica"
+"pratica"
+"pratica"
+"pratica abituale"
+"pratica automobilistica"
+"pratica comune"
+"pratica con"
+"pratica della medicina"
+"pratica legale"
+"pratica legale"
+"pratica legale"
+"pratica medica"
+"pratica pedagogica"
+"pratica professionale"
+"pratica sleale"
+"pratica solita"
+"prova pratica"
+"ragione pratica"
+"saggezza pratica"
+"teologia pratica"
+"utilità pratica"
+*[[attività]], [[azione]], [[prassi]]
+*''(in uno studio professionale, ufficio)'' [[esercizio]], [[tirocinio]]
+*''(comportamento abituale)'' [[abitudine]], [[usanza]], [[consuetudine]], [[uso]]
+*''(con persone)'' [[amicizia]], [[familiarità]], [[frequentazione]]
+*''(di materie, processi, tecniche)'' [[conoscenza]], [[cognizione]], [[esperienza]], [[competenza]], [[sicurezza]], [[capacità]], [[abilità]], [[perizia]]
+*[[documento]], [[incartamento]], [[fascicolo]], [[cartella]]
+*[[trattativa]], [[operazione]], [[passo]]
+*[[teoria]], [[astrazione]]
+*''(di materie, processi, tecniche)'' [[ignoranza]], [[inesperienza]], [[incompetenza]] 
+*[[pratico]], [[praticare]]
+M>pratico</E
+M>teoria</E
+M>la p</E
+M>mi ha insegnato più dello studio</E
+M>certe cose s&#8217;imparano solo con la p</E
+M>per ottenere la patente di guida c&#8217;è prima l&#8217;esame di teoria</E
+M> e poi quello di p</E
+M>val più la p</E
+M>che la grammatica</E
+M>altro è la p</E
+M>altro è la grammatica</E
+M>mettere in p</E
+M>prendere p</E
+M>di qualche cosa</E
+M>Filosofia della p</E
+M>la p</E
+M>dell&#8217;usura era largamente diffusa a Firenze nel sec. 13&#176;</E
+M>medica</E
+M>forense</E
+M>fare pratica</E
+M>ha fatto p</E
+M>di avvocato nello studio del padre</E
+M>farà p</E
+M>in un ospedale di provincia</E
+M>sta facendo p</E
+M>come restauratore in uno studio d&#8217;arte</E
+M>avere p</E
+M>di un mestiere</E
+M>di un lavoro</E
+M>avere p</E
+M>di una macchina</E
+M>di uno strumento</E
+M>non ho p</E
+M>ho poca p</E
+M>di questo tipo di motore</E
+M>non ho p</E
+M>di queste faccende</E
+M>ha una buona p</E
+M>nell&#8217;uso della tempera</E
+M>una tela che rivela la grande p</E
+M>del pittore</E
+M>avere p</E
+M>di un luogo</E
+M>di una città</E
+M>di una regione</E
+M>avere p</E
+M>di un autore</E
+M>è p</E
+M>costante delle biblioteche non concedere in prestito i libri rari</E
+M>è p</E
+M>diffusa in molte città festeggiare il santo patrono</E
+M>religiose</E
+M>devote</E
+M>dedicarsi a p. pie</E
+M>a p. di pietà</E
+M>superstiziose</E
+M>magiche</E
+M>occulte</E
+M>illecite</E
+M>innominabili</E
+M>avere p</E
+M>con</E
+M>qualcuno</E
+M>un&#8217;altra cosa parmi che dia e lievi molto la riputazione</E
+M>e questa è la elezion degli amici coi quali si ha da tenere intrinseca p</E
+M>rompere ogni p</E
+M>con una persona</E
+M>con un ambiente</E
+M>mi riteneva uno dei tanti calabresi di buona famiglia che vivono sulle loro terre senza p</E
+M>della società elegante</E
+M>avere buone p</E
+M>cattive p</E
+M>male p</E
+M>qualche rea femina</E
+M>Con la qual arà prima avuto pratica</E
+M>L&#8217;averà così concio per invidia</E
+M>s&#8217;era tenuto una p</E
+M>già cinque anni</E
+M>vettovagliar la città</E
+M>prima che dilatandovisi per isventura il contagio</E
+M>le venisse negato pratica dagli altri paesi</E
+M>i panni della malata che la lavandaia rifiutava di portare al fiume</E
+M>temendo di perdere le altre pratiche</E
+M>libera p</E
+M>dare p</E
+M>negare p</E
+M>prendere p</E
+M>mettersi in p</E
+M>iniziare le p</E
+M>per ottenere una licenza</E
+M>fare le p</E
+M>per il matrimonio</E
+M>per il divorzio</E
+M>per il passaporto</E
+M>per il trasferimento</E
+M>gli è stata affidata una p</E
+M>delicata</E
+M>difficile</E
+M>la p</E
+M>si è insabbiata al ministero</E
+M>aprire</E
+M>aggiornare</E
+M>sbrigare</E
+M>archiviare una pratica</E
+M>si è perduta la p</E
+M>la p</E
+M>è alla firma</E
+M>le p</E
+M>si sono ammucchiate sulla scrivania</E
+M>il gareggiare</E
+M>suppone sempre un raggiro e delle pratiche non letterarie affatto e indegne perciò d&#8217;un vero letterato</E
+M>in pratica</E
+M>in teoria</E
+M>un elettrodomestico che sembra utilissimo</E
+M>ma in p</E
+M>non lo si usa mai</E
+M>pensavo di aver fatto un affare</E
+M>ma in p</E
+M>ci ho rimesso</E

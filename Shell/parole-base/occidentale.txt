@@ -1,0 +1,40 @@
+occidentale.txt
+"abete occidentale"
+"centro occidentale"
+"emisfero occidentale"
+"fuso orario dell'America occidentale"
+"fuso orario dell'America occidentale"
+"germanico occidentale"
+"India Occidentale"
+"occidentale"
+"occidentale"
+"occidentale"
+"occidentale"
+"occidentale"
+"paese occidentale"
+"piranga occidentale"
+"sturnella allodola occidentale"
+"vento occidentale, vento da Ovest"
+#*''[[w
+* [[orientale]],  [[settentrionale]],  [[meridionale]]
+M>occidentalis</E
+M>orientale</E
+M>le regioni o</E
+M>della Francia</E
+M>le province più o</E
+M>i confini o</E
+M>dell’Impero romano</E
+M>la Spagna o</E
+M>le Alpi O</E
+M>il Mediterraneo o</E
+M>venti o</E
+M>emisfero o</E
+M>Indie o</E
+M>oceano o</E
+M>monachesimo o</E
+M>civiltà o</E
+M>Europa o</E
+M>Europa orientale</E
+M>Germania o</E
+M>Germania orientale</E
+M>blocco o</E

@@ -1,0 +1,11 @@
+tuttora.txt
+"tuttora"
+#* ''Un impiegato '''tuttora''' in servizio.''
+M>tutto</E
+M>ora</E
+M>la lapide si vede t. sulla facciata del palazzo</E
+M>credo che sia t. vivo</E
+M>risento t. di quella caduta</E
+M>tuttavia</E
+M>tuttavolta</E
+M>t. che</E

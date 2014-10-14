@@ -1,0 +1,11 @@
+cesto.txt
+"cesto"
+"cesto"
+"cesto da raccolta"
+"cesto dei panni"
+"cesto di fiori"
+"cesto di Mosè"
+"cesto per cani"
+"cesto regalo, cesto di doni"
+"grande cesto"
+* [[cesta]]

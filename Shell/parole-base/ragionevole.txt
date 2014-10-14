@@ -1,0 +1,49 @@
+ragionevole.txt
+"essere ragionevole"
+"essere ragionevole"
+"in modo ragionevole"
+"motivo ragionevole"
+"non ragionevole"
+"non ragionevole"
+"prezzo ragionevole"
+"prezzo ragionevole"
+"ragionevole"
+"ragionevole"
+"ragionevole"
+"ragionevole"
+"sembrare logico, essere ragionevole"
+*[[razionale]], [[assennato]], [[sensato]], [[fondato]], [[congruo]]
+*[[irragionevole]]
+*[[ragionevolmente]]
+*[[ragione]]
+M>ragione</E
+M>évole</E
+M>lodevole</E
+M>notevole</E
+M>rationab</E
+M>lis</E
+M>ratio</E
+M>onis</E
+M>l&#8217;uomo è un animale ragionevole</E
+M>quando parli così non sei r</E
+M>sii r</E
+M>e non pretendere l&#8217;impossibile</E
+M>è stato molto r</E
+M>nelle sue richieste</E
+M>è una domanda r</E
+M>le sue parole mi sono parse r</E
+M>cerca di dire cose più r</E
+M>questa sarebbe la soluzione più r</E
+M>è una proposta r</E
+M>la sua</E
+M>la sua preoccupazione è r</E
+M>sospetti</E
+M>timori ragionevoli</E
+M>le sue pretese sono r</E
+M>se mi fate un prezzo r</E
+M>possiamo trattare l&#8217;acquisto</E
+M>gli ho dato una mancia r</E
+M>il compenso mi pare più che ragionevole</E
+M>ha parlato ragionevolmente</E
+M>si può ragionevolmente supporre che i fatti si siano svolti così</E
+M>il tasso d&#8217;interesse è stato ragionevolmente fissato al 10%.</E

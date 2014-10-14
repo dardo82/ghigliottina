@@ -1,0 +1,463 @@
+mente.txt
+"a mente aperta"
+"a mente fredda"
+"a mente sgombra"
+"aperto di mente"
+"applicare la mente a"
+"aprire la mente a"
+"attività della mente"
+"attraversare la mente"
+"avere facilità di fare qcs. a mente"
+"avere in mente"
+"avere una mente aperta"
+"cibo per la mente"
+"corpo-mente"
+"cosa ti è saltato in mente?"
+"dalla mente aperta"
+"dalla mente aperta"
+"debole di mente"
+"della mente umana"
+"della mente umana"
+"di mente acuta, sveglio"
+"far venire alla mente"
+"fare mente locale"
+"fare venire in mente, suonare familiare"
+"formare immagini nella mente"
+"il potere della mente"
+"imprimere bene (nella mente)"
+"la prima cosa che viene in mente"
+"leggere a mente"
+"lettura della mente"
+"malato di mente"
+"malato di mente"
+"mente"
+"mente"
+"mente"
+"mente"
+"mente aperta"
+"mente avida di sapere"
+"mente chiusa"
+"mente collettiva"
+"mente corpo"
+"mente critica"
+"mente inconsapevole"
+"mente indagatrice"
+"mente malata"
+"mente malata"
+"mente ristretta"
+"mente ristretta"
+"mente ristretta"
+"mente sana"
+"mente sana"
+"mente subcosciente"
+"mente\/corpo"
+"mi ritorni in mente"
+"occhio della mente"
+"passare di mente"
+"per aprire la mente"
+"per aprire la mente"
+"potenza della mente"
+"problema mente corpo"
+"richiamare alla mente"
+"richiamare alla mente"
+"ricordare con la mente"
+"sano di mente"
+"sano di mente"
+"sano di mente, in possesso delle proprie facoltà"
+"scacciare qualcosa dalla mente"
+"studio della mente"
+"sveglio (di mente)"
+"tenere a mente"
+"tenere in mente"
+"tenere in mente, tenere presente"
+"tutto nella mente"
+"venire alla mente"
+"venire in mente"
+"venire in mente"
+"venire in mente"
+"venire in mente a qcn"
+*[[pensiero]], [[testa]]
+*[[intelligenza]],[[ingegno]], [[intelletto]], [[ragione]], [[senno]]; [[fantasia]], [[immaginazione]]
+*[[ingegno]], [[inclinazione]], [[animo]]
+*[[memoria]], [[senno]], [[giudizio]]
+*''tenere a mente''
+*''fare mente locale''
+*italiano
+*francese
+*latino
+M>mens m</E
+M>ntis</E
+M>meminisse</E
+M>nella vita nostra non si dà vòto</E
+M>se non quando la m</E
+M>per qualsivoglia causa intermette l’uso del pensiero</E
+M>affaticare</E
+M>stancare la m</E
+M>riposare la m</E
+M>le fatiche</E
+M>gli svaghi della m</E
+M>a m</E
+M>riposata</E
+M>a m</E
+M>fresca</E
+M>ci penserò domattina a m</E
+M>fresca</E
+M>fresca</E
+M>a m</E
+M>lucida</E
+M>calma</E
+M>serena</E
+M>corpo</E
+M>fisico</E
+M>cuore</E
+M>nel suo corpo infermo la m</E
+M>conservava intatte le sue forze</E
+M>l’educazione della m</E
+M>e l’educazione fisica</E
+M>sana in corpo sano</E
+M>il pane della m</E
+M>avere grandi doti di m</E
+M>e di cuore</E
+M>uomo di gran m</E
+M>e poco cuore</E
+M>cerca di ragionare con la m</E
+M>e non col cuore</E
+M>non sempre il cuore dà retta alla mente</E
+M>la m</E
+M>eterna</E
+M>la m</E
+M>suprema</E
+M>la m</E
+M>infinita</E
+M>la m</E
+M>ch’è da sé perfetta</E
+M>è nella m</E
+M>di Dio</E
+M>il futuro è nella m</E
+M>di Dio</E
+M>era ancora nella m</E
+M>di Dio</E
+M>metafisica della m</E
+M>ontismo</E
+M>problema mente</E
+M>corpo</E
+M>mind</E
+M>body problem</E
+M>dualismo</E
+M>calcolatrice</E
+M>meditativa</E
+M>speculativa</E
+M>filosofica</E
+M>inventiva</E
+M>organizzatrice</E
+M>quadra</E
+M>quadrata</E
+M>bizzarra</E
+M>balzana</E
+M> fantastica</E
+M>stramba</E
+M>gretta</E
+M>meschina</E
+M>volgare</E
+M>nella sua m</E
+M>bislacca la pensa così</E
+M>non ha la m</E
+M>adatta a questo genere di studî</E
+M>aperta</E
+M>lucida</E
+M>acuta</E
+M>geniale</E
+M>agile</E
+M>pronta</E
+M>sottile</E
+M>vivace</E
+M>profonda</E
+M>potente</E
+M>illuminata</E
+M>fervida</E
+M>piccola</E
+M>chiusa</E
+M>sterile</E
+M>torpida</E
+M>limitata</E
+M>ottusa</E
+M>angusta</E
+M>ristretta</E
+M>la sua m</E
+M>non può intendere queste cose</E
+M>ha una m</E
+M>che non arriva a tanto</E
+M>avere una gran m</E
+M>una bella m</E
+M>l’acume</E
+M>la potenza della m</E
+M>angustia</E
+M>ristrettezza di m</E
+M>misteri che la m</E
+M>umana non può penetrare</E
+M>acuire</E
+M>affinare</E
+M>aguzzare</E
+M>illuminare la m</E
+M>aprire le m</E
+M>le tue parole m’hanno finalmente aperto la mente</E
+M>Rivelarsi</E
+M>aprirsi</E
+M>alla m</E
+M>E tutto Olimpo gli s’aprì alla m</E
+M>malattia di m</E
+M>malato di mente</E
+M>malattia mentale</E
+M>stato</E
+M>condizione di m</E
+M>debolezza di m</E
+M>colpire</E
+M>turbare</E
+M>alterare</E
+M>sconvolgere la m</E
+M>aveva la m</E
+M> sconvolta dal dolore</E
+M>questi sospetti sono frutto della sua m</E
+M>malata</E
+M>uscire di m</E
+M>perdere la m</E
+M>essere fuori di m</E
+M>Al tornar de la m</E
+M>che si chiuse Dinanzi a la pietà d’i due cognati</E
+M>infondere nella m</E
+M>dei giovani sani principî</E
+M>dirittura di m</E
+M>retta</E
+M>nobile</E
+M>alta</E
+M>elevata</E
+M>severa</E
+M>libera</E
+M>semplice</E
+M>leggera</E
+M>volubile</E
+M>incostante</E
+M>Arde</E
+M>si turba e rasserena in questi Pensieri della m</E
+M>inebriata</E
+M>parlare con m</E
+M>ispirata</E
+M>avere la m</E
+M>rapita nella contemplazione</E
+M>estasi della m</E
+M>i conflitti della mente</E
+M>esaltare le m</E
+M>dei giovani</E
+M>Le nate a vaneggiar m</E
+M>mortali</E
+M>avere la m</E
+M>ben disposta</E
+M>levarsi dalla m</E
+M>una persona</E
+M>levarsi dalla testa una persona</E
+M>una cosa</E
+M>un’idea</E
+M>una voglia</E
+M>Ahi quanto ne la m</E
+M>mi commossi</E
+M>Quando mi volsi per veder Beatrice</E
+M>per soverchio fuoco nella m</E
+M>concetto</E
+M>poi che intepidì la m</E
+M>irata Nel sangue del nemico e in sé rinvenne</E
+M>coltivare</E
+M>arricchire</E
+M>educare</E
+M>istruire</E
+M>allargare</E
+M>ordinare la m</E
+M>formata</E
+M>matura</E
+M>nutrita di buoni studî</E
+M>inesperta</E
+M>ignara</E
+M>rozza</E
+M>grossolana</E
+M>è una bella m</E
+M>una grande</E
+M>una nobile m</E
+M>una m</E
+M>superiore</E
+M>è una m</E
+M>aperta al vero e al bello</E
+M>è una m</E
+M>esaltata</E
+M>una m</E
+M>bislacca</E
+M>una m</E
+M>meschina</E
+M>le piccole m</E
+M>non possono capire la grandezza di questi episodî</E
+M>direttiva</E
+M>è lui la m</E
+M>direttiva della nostra azienda</E
+M>essere la m</E
+M>di un’impresa</E
+M>di un piano</E
+M>di un’organizzazione</E
+M>braccio</E
+M>il braccio e la m</E
+M>braccio</E
+M>mente</E
+M>le idee</E
+M>i pensieri</E
+M> i concetti della m</E
+M>mi si affollavano nella m</E
+M>mille idee</E
+M>tormentarsi</E
+M>lambiccarsi la m</E
+M>venire in mente</E
+M>guarda un po’ quel che gli viene in m</E
+M>non sa tacere e dice tutto ciò che gli viene in m</E
+M>dissi il primo nome che mi venne in m</E
+M>che mi capitò alla m</E
+M>non t’è venuto in m</E
+M>che potevo essere stato io?</E
+M>ho cercato dappertutto la lettera</E
+M>e non m’è venuto in m</E
+M>di guardare nella cartella</E
+M>dove l’avevo messa</E
+M>a nessuno sarebbe venuto in m</E
+M>un piano così semplice</E
+M>saltare in m</E
+M>passare per la m.</E
+M>frullare per la m</E
+M>balenare alla m</E
+M>ma che cosa ti salta in m</E
+M>adesso?</E
+M>vuoi dirmi i pensieri che ti frullano per la m</E
+M>un brutto sospetto gli balenò alla m</E
+M>a nessuno de’ quali passò per la m</E
+M>che quelle parole fossero dette davvero</E
+M>intorbidare</E
+M>offuscare la m</E
+M>abbuiarsi</E
+M>offuscarsi</E
+M>ottundersi della m</E
+M>avere la m</E
+M>in tumulto</E
+M>avere la m</E
+M>confusa</E
+M>confondere le m</E
+M>applicare la</E
+M>a uno studio</E
+M>sono stanco e non riesco ad applicare la m</E
+M>concentrare la m</E
+M>nella meditazione</E
+M>rivolgere</E
+M>drizzare</E
+M>la m</E
+M>a qualche cosa</E
+M>levare</E
+M>innalzare la m</E
+M>a Dio</E
+M>avere la m</E
+M>essere con la m</E
+M>fissa su un problema</E
+M>essere con la m</E
+M>altrove</E
+M>Porre m</E
+M>a qualche cosa</E
+M>E se ’l mondo là giù ponesse mente Al fondamento che natura pone</E
+M>tu mostri non aver posto m</E
+M>che la vita di quest’universo è un perpetuo circuito di produzione e distruzione</E
+M>mi ponete m</E
+M>se io ho segno alcuno per tutta la persona di battitura</E
+M>Avere m</E
+M>a una cosa</E
+M>debbo avere sempre la m</E
+M>a mille cose</E
+M>dare m</E
+M>a una cosa</E
+M>non devi dar m</E
+M>a tutto ciò che si va dicendo</E
+M>non volli dar m</E
+M>a quelle chiacchiere</E
+M>aprire la m</E
+M>Apri la m</E
+M>a quel ch’io ti paleso</E
+M>fare m</E
+M>locale</E
+M>avevo in m</E
+M>di rivolgermi a un avvocato</E
+M>che cos’hai in m</E
+M>di fare questa sera?</E
+M>mettersi</E
+M>ficcarsi in m</E
+M>una cosa</E
+M>di fare una cosa</E
+M>queste idee</E
+M>questi capricci sarà meglio che te li levi dalla mente</E
+M>intenzione</E
+M>interpretare la legge secondo la m</E
+M>del legislatore</E
+M>manifestare la propria m</E
+M>lasciò scritto nel testamento quella che era la sua m</E
+M>mutare m</E
+M>credo che sia questa la sua m</E
+M>cercare di scoprire la m</E
+M>di qualcuno</E
+M>è difficile conoscere la sua m</E
+M>io scesi Fra i Troiani e gli Achei con questa m</E
+M>a mente di tale articolo di legge</E
+M>memoria</E
+M>tenere a m</E
+M>ritenere in m</E
+M>tieni bene a m</E
+M>ciò che ti dico</E
+M>non riesco a ritenere in m</E
+M>tutte queste regole</E
+M>richiamare</E
+M>rievocare</E
+M>recare</E
+M>ridurre</E
+M>alla m</E
+M>fermare nella m</E
+M>tornare a m</E
+M>in m</E
+M>alla m</E
+M>Tornami a m</E
+M>il dì che la battaglia D’amor sentii la prima volta</E
+M>scappare</E
+M>fuggire</E
+M>uscire di mente</E
+M>lo voglio far subito</E
+M>prima che mi esca di m</E
+M>mi si affollavano alla m</E
+M>mille ricordi</E
+M>O m</E
+M>che scrivesti ciò ch’io vidi</E
+M>a mente</E
+M>a memoria</E
+M>studiare</E
+M>imparare</E
+M>dire</E
+M>ridire</E
+M>ripetere</E
+M>recitare</E
+M>sapere a m</E
+M>suonare a m</E
+M>eseguire un disegno a m</E
+M>a memoria</E
+M>essere vivo</E
+M>morto nella m</E
+M>di qualcuno</E
+M>Già nella m</E
+M>tace Ogni ombra del passato</E
+M>Ché ’n la m</E
+M> m’è fitta</E
+M>e or m’accora</E
+M>La cara e buona imagine paterna Di voi</E
+M>ho sempre scolpite nella m</E
+M>le sue ultime parole</E
+M>sono consigli che non lasciano traccia nella sua m</E
+M>mettersi</E
+M>ficcarsi bene in m</E
+M>la lezione</E
+M> una regola</E
+M>memoria</E

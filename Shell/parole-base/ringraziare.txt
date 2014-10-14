@@ -1,0 +1,56 @@
+ringraziare.txt
+"fare un'altra uscita sul palco per ricevere gli applausi o per ringraziare il pubblico"
+"nel ringraziare per la fiducia accordataci"
+"ringraziare"
+"ringraziare eccessivamente"
+*[[ringraziamento]], [[grazie]]
+M>grazie</E
+M>rin</E
+M>io ringràzio</E
+M>ti ringrazio del</E
+M>per il</E
+M>tuo bellissimo regalo</E
+M>mi ha telefonato per ringraziarmi del favore che gli ho fatto</E
+M>ti ringrazio di</E
+M>per</E
+M>essere venuto subito</E
+M>a voce</E
+M>per scritto</E
+M>con un&#8217;occhiata eloquente</E
+M>ha detto che non vuole essere ringraziata</E
+M>quando lo vedi</E
+M>ringrazialo anche a nome mio</E
+M>vivamente</E
+M>di cuore</E
+M>con tutto il cuore</E
+M> immensamente</E
+M>infinitamente</E
+M>umilmente</E
+M>dentro di sé</E
+M>tacitamente</E
+M>non ringrazio Se non col core a la paterna festa</E
+M>non so davvero chi r</E
+M>delle calunnie che sono state sparse sul mio conto</E
+M>la ringrazio</E
+M>ma domani ho un impegno</E
+M>ti ringrazio</E
+M>ma non fumo</E
+M>non bevo</E
+M>vi ringrazio</E
+M>sarà per un&#8217;altra volta</E
+M>dobbiamo r</E
+M>Dio di averla scampata</E
+M>ringraziando il Signore</E
+M>oggi mi sento meglio</E
+M>Sia ringraziato Dio! finalmente se n&#8217;è andato!</E
+M>Dio ti ringrazio</E
+M> non gli è successo niente di male!</E
+M>bisogna r</E
+M>il caso</E
+M>la sorte</E
+M>che ci ha fatto incontrare</E
+M>ringrazio ancora quel ritardo</E
+M>che mi ha salvato dall&#8217;essere anch&#8217;io un passeggero dell&#8217;aereo precipitato</E
+M>ringrazi la sua età</E
+M>il luogo dove siamo</E
+M>se non la prendo a schiaffi come si meriterebbe!</E

@@ -1,0 +1,15 @@
+immorale.txt
+"immorale"
+*[[morale]]
+*[[immoralismo]], [[immoralità]], [[immoralmente]]
+M>morale</E
+M>immoral</E
+M>uomo</E
+M>gente immorale</E
+M>condotta i</E
+M>atti i</E
+M>esempî</E
+M>letture</E
+M>discorsi immorali</E
+M>comportarsi</E
+M>vivere immoralmente</E

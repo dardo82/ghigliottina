@@ -1,0 +1,23 @@
+precauzione.txt
+"di precauzione"
+"precauzione"
+"precauzione"
+M>praecautio</E
+M>onis</E
+M>praecavere</E
+M>prae</E
+M>cavere</E
+M>précaution</E
+M>operare</E
+M>muoversi</E
+M>avanzare con p</E
+M>comportarsi con p</E
+M>guidare con estrema p</E
+M>trasportare con mille precauzioni un vaso di cristallo</E
+M>adottare le dovute p</E
+M>prendere precauzioni</E
+M>abbiamo agito con ogni possibile p</E
+M>igieniche</E
+M>sanitarie</E
+M>non prese nessuna p</E
+M>contro la peste</E

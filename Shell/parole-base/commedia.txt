@@ -1,0 +1,92 @@
+commedia.txt
+"commedia"
+"commedia"
+"commedia"
+"commedia dark"
+"commedia dell'arte"
+"commedia dell'arte"
+"commedia di natura macabra"
+"commedia di un solo atto"
+"commedia in costume"
+"commedia leggera"
+"commedia musicale"
+"commedia romantica"
+"commedia sofisticata; spesso parodistica"
+"commedia, telefilm comico"
+"la commedia dentro la commedia"
+"La Divina Commedia"
+*[[tragedia]]
+*[[drammaturgia]]
+m>comoedia</e
+m>scrivere una c</e
+m>mettere in scena</e
+m>rappresentare</e
+m>recitare una c</e
+m>leggere una c</e
+m>assistere a una commedia</e
+m>le c</e
+m>di Aristofane</e
+m>di Menandro</e
+m>le c</e
+m>di Plauto</e
+m>di Terenzio</e
+m>le c</e
+m>di Goldoni</e
+m>le c</e
+m>di Molière</e
+m>comico</e
+m>Comedia</e
+m>tragedia</e
+m>la storia della c</e
+m>attraverso i secoli</e
+m>la c</e
+m>classica</e
+m>la c</e
+m>del Rinascimento</e
+m>antica</e
+m>media</e
+m>di mezzo</e
+m>nuova</e
+m>palliata</e
+m>fabula palliata</e
+m>pallio</e
+m>togata</e
+m>fabula togata</e
+m>toga</e
+m>erudita</e
+m>dell&rsquo;arte</e
+m>all&rsquo;improvviso</e
+m>a soggetto</e
+m>di canovaccio</e
+m>buffonesca</e
+m>istrionica</e
+m>di maschere</e
+m>di carattere</e
+m>d&rsquo;intreccio</e
+m>d&rsquo;intrigo</e
+m>lacrimosa</e
+m>comédie larmoyante</e
+m>musicale</e
+m>musical comedy</e
+m>c. musicale</e
+m>sofisticata</e
+m>brillante</e
+m>sentimentale</e
+m>di costume</e
+m>c. all&rsquo;italiana</e
+m>è davvero una c</e
+m>è tutta una c.!</e
+m>recitare la c</e
+m>fare la c</e
+m>uomo</e
+m>personaggio da c</e
+m>finire in c</e
+m>la c</e
+m>finisce in tragedia</e
+m>fare più parti in c</e
+m>avere parte nella c</e
+m>mettere tutto in c</e
+m>dramma</e
+m>tragedia</e
+m>Sangue di Giuda! un giorno o l&rsquo;altro succederà una c</e
+m>succederà!</e

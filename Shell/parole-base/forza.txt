@@ -1,0 +1,468 @@
+forza.txt
+"a doppia forza"
+"a forza di"
+"a forza di"
+"a tutta forza"
+"a tutta forza"
+"a tutta forza"
+"a tutta forza; a gonfie vele"
+"a viva forza"
+"acquistare forza; rafforzarsi"
+"atto di forza"
+"atto di portare via a forza, contro la volontà"
+"avere la forza di"
+"avere poca forza di volontà"
+"camicia di forza"
+"camicia di forza"
+"campo di forza"
+"causa di forza maggiore"
+"che agisce con forza"
+"chi forza un blocco"
+"colpire con forza"
+"colpire con forza"
+"con forza"
+"con forza, con energia"
+"con la forza"
+"con la forza delle armi"
+"costringere con la forza"
+"dare forza"
+"è gioco forza"
+"elemento di forza"
+"far tacere a forza di grida"
+"farsi strada a forza"
+"forza"
+"forza"
+"forza"
+"forza"
+"forza"
+"forza"
+"forza armata"
+"forza armata"
+"forza bruta"
+"forza bruta"
+"forza centrifuga"
+"forza centripeta"
+"forza coercitiva"
+"forza combattente"
+"forza d'animo"
+"forza d'animo"
+"forza d'animo"
+"forza d'occupazione"
+"forza del fuoco"
+"forza del vento, forza eolica"
+"forza dell'abitudine"
+"forza delle armi"
+"forza di atterraggio"
+"forza di Coriolis"
+"forza di gravità"
+"forza di pace"
+"forza di polizia"
+"forza di resistenza"
+"forza di terra"
+"forza di vendita"
+"forza di volontà"
+"forza effettiva"
+"forza elettromotrice"
+"forza eolica"
+"forza fisica"
+"forza fisica"
+"forza fisica"
+"forza frenante"
+"forza irresistibile"
+"Forza Italia"
+"Forza Italia"
+"forza Italia"
+"forza lavoro"
+"forza lavoro"
+"forza lavoro"
+"forza lavoro"
+"forza lavoro"
+"forza lavoro"
+"forza maggiore"
+"forza magnetica"
+"forza mentale"
+"forza militare"
+"forza morale"
+"forza motrice"
+"forza motrice"
+"forza motrice"
+"forza motrice"
+"forza nucleare"
+"forza ostacolante"
+"forza paramilitare"
+"forza principale"
+"forza principale"
+"forza rotatoria"
+"forza trainante"
+"forza trasversale"
+"forza vitale"
+"forza vitale"
+"forza vitale"
+"forza!"
+"forza!, dai!"
+*''(di membra)'' [[robustezza]], [[energia]], [[vigore]], [[sanità]], [[potenza]], [[vitalità]], [[virilità]], [[prestanza]]
+*''(di volontà, carattere, animo)'' [[fermezza]], [[fortezza]], [[coraggio]],[[animo]], [[ risolutezza]], [[tenacia]],[[saldezza]]
+*[[costrizione]], [[vincolo]], [[obbligatorietà]]
+*''(di fenomeno naturale)'' [[potenza]], [[intensità]], [[veemenza]], [[energia]]
+*''(di ingegno,stile eccetera)'' [[vigore]], [[vivacità]], [[verve]], [[brio]]
+*''(di un rimedio)'' [[efficacia]], [[validità]]  
+*''di membra)'' [[debolezza]], [[delicatezza]], [[fragilità]]
+* ''(di animo)'' [[fragilità]], [[pusillanimità]] 
+*''(di ingegno, stile)''  [[debolezza]], [[fiacchezza]]
+*[[forte]], [[forzamento]], [[forzare]], [[forzoso]], [[forzuto]]
+*''La giustizia è la '''forza''' dei re, la furbizia è la forza della donna, l'orgoglio è la forza dei pazzi, la spada è la forza del bandito, l'umiltà è la forza dei saggi, le lacrime sono la forza del bambino, l'amore di un uomo e una donna è la forza del mondo
+*''per forza''
+*''per amore o per forza''
+m>rtia</e
+m>fortis</e
+m>muscolare</e
+m>di un organo</e
+m>mi s&rsquo;indebolisce la f</e
+m>della vista</e
+m>dell&rsquo;udito</e
+m>fisica</e
+m>forza</e
+m>avere f</e
+m>nelle braccia</e
+m>nelle gambe</e
+m>avere la f</e
+m>di un cavallo</e
+m>di un toro</e
+m>erculea</e
+m>bruta</e
+m>fare forza</e
+m>fare f</e
+m>di spalle</e
+m>fare f</e
+m>sui remi</e
+m>su una leva</e
+m>sollevare a f</e
+m>di braccia</e
+m>non ho la f</e
+m>di smuovere questo mobile</e
+m>far entrare a f</e
+m>a viva f</e
+m>battere</e
+m>scagliare con f</e
+m>schiaffo dato con f</e
+m>si gettò su di lui con tutta la f</e
+m>che aveva</e
+m>correre</e
+m>pedalare a tutta f</e
+m>spingere il motore a tutta f</e
+m>mettere le macchine d&rsquo;una nave a tutta f</e
+m>Giochi</e
+m>esercizî di forza</e
+m>le f</e
+m>fare le f</e
+m>Forza!</e
+m>Bella f</e
+m>essere</e
+m>sentirsi in forze</e
+m>nella pienezza delle f</e
+m>essere al limite delle f</e
+m>gli vennero meno</e
+m>gli ritornarono le f</e
+m>perdere</e
+m>sentirsi mancare le f</e
+m>riacquistare le f</e
+m>rimettersi in forze</e
+m>lavoro estenuante che logora le f</e
+m>disperdere le f</e
+m>forze</e
+m>forza</e
+m>di lavoro</e
+m>forza</e
+m>lavoro</e
+m>d&rsquo;urto</e
+m>viva</e
+m>d&rsquo;inerzia</e
+m>assoluta</e
+m>effettiva</e
+m>fittizie</e
+m>inerziali</e
+m>apparenti del moto relativo</e
+m>di trascinamento</e
+m>centrifuga</e
+m>centrifugo</e
+m>composta</e
+m>complementare</e
+m>di Coriolis</e
+m>koriolì</e
+m>f. di gravità</e
+m>parallelogramma delle f</e
+m>risultante</e
+m>risultante</e
+m>equilibrio delle forze</e
+m>campo di forza</e
+m>linee di forza</e
+m>linee di f</e
+m>punti di forza</e
+m>del campo</e
+m>gravitazionale</e
+m>elettrica</e
+m>magnetica</e
+m>interazione</e
+m>gravitazionale</e
+m>debole</e
+m>elettromagnetica</e
+m>forte</e
+m>motrice</e
+m>resistente</e
+m>interne</e
+m>esterne</e
+m>attiva</e
+m>direttamente applicata</e
+m>conservativa</e
+m>conservativo</e
+m>centrale</e
+m>centro della f</e
+m>centripeta</e
+m>di contatto</e
+m>a distanza</e
+m>ripartita</e
+m>nucleari</e
+m>di Lorentz</e
+m>coercitiva</e
+m>campo coercitivo</e
+m>elastica</e
+m>Forze della natura</e
+m>si scatenarono tutte le f</e
+m>della natura</e
+m>orogenetiche</e
+m>vitale</e
+m>del vento</e
+m>la f</e
+m>della corrente</e
+m>la f</e
+m>di un colpo</e
+m>di una percossa</e
+m>la f</e
+m>della passione</e
+m>l&rsquo;unione fa la forza</e
+m>idea</e
+m>forza</e
+m>la f</e
+m>della legge</e
+m>del diritto</e
+m>decreto</e
+m>disposizione</e
+m>provvedimento che ha f</e
+m>di legge</e
+m>la f</e
+m>legale non proteggeva in alcun conto l&rsquo;uomo tranquillo</e
+m>inoffensivo</e
+m>la f</e
+m>della verità</e
+m>della ragione</e
+m>la f</e
+m>dei suoi argomenti</e
+m>la f</e
+m>della tradizione</e
+m>la f</e
+m>dell&rsquo;abitudine</e
+m>la f</e
+m>dell&rsquo;esempio</e
+m>della parola</e
+m>dell&rsquo;eloquenza</e
+m>disposizioni che hanno perso ormai ogni f</e
+m>la f</e
+m>di un rimedio</e
+m>di una medicina</e
+m>d&rsquo;animo</e
+m>morale</e
+m>fortezza</e
+m>forza</e
+m>avere f</e
+m>di volontà</e
+m>la f</e
+m>dell&rsquo;immaginazione</e
+m>della fantasia</e
+m>dell&rsquo;ingegno</e
+m>sostenere con f</e
+m>le proprie ragioni</e
+m>protesto</e
+m>mi oppongo con tutte le mie f</e
+m>avere la f</e
+m>di resistere</e
+m>è un lavoro che supera le mie deboli f</e
+m>le sue f</e
+m>non arrivano a intendere un così arduo concetto</e
+m>dare f</e
+m>farsi f</e
+m>devi farti f</e
+m>fatevi f</e
+m>non ho la f</e
+m>di dirglielo</e
+m>non ebbi la f</e
+m>di assistere a quel triste spettacolo</e
+m>usare la f</e
+m>imporre per f</e
+m>opporre il diritto alla f</e
+m>non c&rsquo;è f</e
+m>che possa distogliermi dal mio proposito</e
+m>contro la f</e
+m>la ragion non vale</e
+m>il nome della libertà</e
+m>il quale f</e
+m>alcuna non doma</e
+m>tempo alcuno non consuma</e
+m>Fare f</e
+m>a qualcuno</e
+m>fare f</e
+m>a sé stesso</e
+m>si fece f</e
+m>per non tradirsi</e
+m>per non lasciar trasparire il proprio dolore</e
+m>per non rispondergli male</e
+m>fare f</e
+m>alla propria coscienza</e
+m>la f</e
+m>delle circostanze</e
+m>la f</e
+m>del destino</e
+m>per f</e
+m>di cose</e
+m>qual f</e
+m>o qual ventura Ti travïò fuor di Campaldino</e
+m>maggiore</e
+m>per cause di f</e
+m>maggiore</e
+m>di forza</e
+m>entrò di f</e
+m>in casa nostra</e
+m>Per forza</e
+m>ci son dovuto andare per f</e
+m>se non lo fai spontaneamente lo devi fare per f.</e
+m>e tu gli hai obbedito?</e
+m>per forza!</e
+m>per amore o per f</e
+m>studiare per f</e
+m>mangiare per f</e
+m>è voluto venire per f</e
+m>con noi</e
+m>con tutti i debiti che ha</e
+m>prima o poi dovrà per f</e
+m>fallire</e
+m>la tettoia era ridotta in tali condizioni</e
+m>che doveva per f</e
+m>crollare un giorno o l&rsquo;altro</e
+m>Esser forza</e
+m>giocoforza</e
+m>fu f</e
+m>acconsentire</e
+m>mi è f</e
+m>seguirti</e
+m>mi è f</e
+m>riconoscere che hai ragione</e
+m>forte</e
+m>un vino di poca</e
+m>di molta f</e
+m>il liquore ha perso la sua f</e
+m>l&rsquo;acquavite col passar del tempo acquista forza</e
+m>di un acido</e
+m>di una base</e
+m>della farina</e
+m>del tabacco</e
+m>vecchia</e
+m>caloria del terreno</e
+m>di vele</e
+m>In forza</e
+m>mare forza</e
+m>di barra</e
+m>di corpo</e
+m>d&rsquo;asta</e
+m>dividere le f</e
+m>del nemico</e
+m>sbaragliare le f</e
+m>avversarie</e
+m>scendere in combattimento con grande schieramento di forze</e
+m>mettere in campo f</e
+m>fresche</e
+m>armate</e
+m>arruolata</e
+m>in congedo</e
+m>incorporata</e
+m>organica</e
+m>tabellare</e
+m>prendere</e
+m>assumere in forza</e
+m>essere in forza</e
+m>mista d&rsquo;impiego</e
+m>bassa f</e
+m>forza</e
+m>dare</e
+m>presentare la f</e
+m>presente</e
+m>assente</e
+m>forza d&rsquo;urto</e
+m>force de frappe</e
+m>forza</e
+m>navale</e
+m>aerea</e
+m>f. aerea tattica</e
+m>pubblica</e
+m>è intervenuta la f</e
+m>aprite</e
+m>è la forza!</e
+m>intervenire in forza</e
+m>in forze</e
+m>schieramento</e
+m>un governo formato con l&rsquo;appoggio di tutte le f. politiche</e
+m>l&rsquo;acutizzarsi del dissidio tra le f</e
+m>in contrasto</e
+m>terza f</e
+m>le f</e
+m>politiche</e
+m>le f</e
+m>sociali</e
+m>le f</e
+m>sindacali</e
+m>le f</e
+m>progressiste</e
+m>le f</e
+m>conservatrici</e
+m>le f</e
+m>più avanzate</e
+m>le f</e
+m>oscure della reazione</e
+m>le f</e
+m>del lavoro</e
+m>le f</e
+m>del male</e
+m>le f</e
+m>dell&rsquo;inferno</e
+m>A forza di</e
+m>si fece strada a f</e
+m>di gomiti</e
+m>di spintoni</e
+m>lo convinsero a f</e
+m>di nerbate</e
+m>a f</e
+m>di pregare</e
+m>qualche cosa si ottiene</e
+m>a f</e
+m>di sentirselo ripetere</e
+m>finalmente l&rsquo;ha capito</e
+m>a furia di</e
+m>In forza di</e
+m>in f</e
+m>dell&rsquo;art</e
+m>4 del regolamento</e
+m>esigere in f</e
+m>del contratto</e
+m>affermare in f</e
+m>di un principio</e
+m>ordinare in f</e
+m>della propria autorità</e
+m>Di prima f</e
+m>de première force</e
+m>uno scultore</e
+m>un avvocato</e
+m>un tennista</e
+m>un imbroglione</e
+m>un furfante</e
+m>di prima forza</e
+m>che forza!</e
+m>sei una f</e
+m>è una f</e

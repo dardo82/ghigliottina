@@ -1,0 +1,49 @@
+sprofondare.txt
+"sprofondare"
+"sprofondare"
+"sprofondare"
+"sprofondare"
+"sprofondare, replace: sprofondarsi"
+"sprofondare, replace: sprofondarsi"
+"sprofondare dalla vergogna"
+"sprofondare, crollare"
+"sprofondare; imbattersi in"
+#*''il peso di quel tir ha  fatto sprofondare il ponte''
+*[[affondare]], [[immergere]], [[sommergere]], [[tuffare]], far cadere, [[scagliare]]
+*''(di strada, tetto)'' [[precipitare]], cadere giù, [[crollare]], [[franare]], [[rovinare]]
+* ''(nella neve)'' [[affondare]]
+*[[inabissarsi]]
+*[[innalzare]], [[elevare]]
+*''(di strada, tetto)'' [[reggere]], [[tenere]]
+*''(nella neve)'' [[salire]], [[alzarsi]], [[affiorare]], [[emergere]] 
+*[[sprofondarsi]]
+M>profondo</E
+M>io sprofóndo</E
+M>essere</E
+M>in questa stanza c&#8217;è pericolo che</E
+M> con il peso dei libri</E
+M> il pavimento sprofondi</E
+M>è sprofondato il solaio</E
+M>la neve ha fatto s. il tetto</E
+M>per la violenta tempesta la piattaforma galleggiante sprofondò sul fondale</E
+M>gli parve che gli si sprofondasse il terreno sotto i piedi.</E
+M>s. nella neve fresca</E
+M>nel fango</E
+M>nella melma</E
+M>nelle sabbie mobili.</E
+M>s. nel sonno</E
+M>nella disperazione.</E
+M>sprofondarsi in un divano</E
+M>in una morbida poltrona.</E
+M>sprofondarsi nello studio</E
+M>nel lavoro</E
+M>nella lettura.</E
+M>per la vergogna</E
+M>per l&#8217;imbarazzo mi sarei sprofondato.</E
+M>Dio sprofondò Lucifero nell&#8217;inferno</E
+M>Sodoma e Gomorra furono sprofondate dalla giustizia divina.</E
+M>stava meditando</E
+M> sprofondato in poltrona</E
+M>teneva le mani sprofondate nelle tasche</E
+M>sei sempre sprofondato in te stesso</E
+M> incapace di partecipare a ciò che ti circonda</E

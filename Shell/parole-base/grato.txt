@@ -1,0 +1,13 @@
+grato.txt
+"essere grato"
+"essere grato a"
+"essere grato per"
+"grato"
+"grato"
+"grato a"
+"grato per"
+"grato per"
+*[[ piacevole]], [[gradevole]], [[simpatico]], [[buono]], [[caro]], [[dolce]], [[amabile]], [[apprezzato]], [[attraente]], [[delizioso]], [[soave]]
+*[[riconoscente]], [[obbligato]], [[deferente]]
+*[[spiacevole]], [[sgradevole]]
+*[[ingrato]], [[irriconoscente]]

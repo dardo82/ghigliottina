@@ -1,0 +1,144 @@
+attaccare.txt
+"abbordare qcn, attaccare discorso con qcn"
+"agganciare; attaccare; collegare"
+"aggiungere, attaccare"
+"andare in offensiva, attaccare per primo"
+"attaccare"
+"attaccare"
+"attaccare"
+"attaccare"
+"attaccare, replace: attaccarsi"
+"attaccare a suonare"
+"attaccare bottone"
+"attaccare briga"
+"attaccare con una raffica di parole"
+"attaccare discorso con qualcuno"
+"attaccare duramente"
+"attaccare i cavalli"
+"attaccare i cavalli"
+"attaccare il cappello"
+"attaccare qc a qc"
+"attaccare qc, assalire qc"
+"attaccare qcs\/qc, assalire qcs\/qc"
+"attaccare qualcuno"
+"attaccare qualcuno"
+"attaccare qualcuno all'improvviso"
+"attaccare violentemente, assalire brutalmente"
+"attaccare violentemente; sparare a zero"
+"attaccare, appiccicare"
+"attaccare, combattere"
+"attaccare; assalire"
+"attaccare; colpire qcs."
+"attaccare; divorare"
+"attaccare; scagliarsi contro qcn"
+"dare addosso; attaccare"
+"scagliarsi contro; attaccare"
+#*'''''Ho attaccato''' un quadro al chiodo nel muro''
+#*''aspetta che mi '''attacco''' alla rete aziendale''
+#*''I nazisti '''attaccarono''' l'esercito inglese'' 
+#*''Il centrosinistra '''ha attaccato''' duramente il premier''
+#*''dài, '''attacca''' con la musica!''
+#*''ci siamo, adesso Mario '''attacca''' con la solita solfa!''
+#*''Carlo mi '''ha attaccato''' il raffreddore''
+* '''''attaccarsi''' al tram'', '''''attaccarsi''' al cazzo'' 
+* '''''attaccati'''!'', ''puoi '''attaccarti'''!'' 
+* '''''attaccare''' la corrente'' 
+* ''avere '''attaccato''' la cornetta'', ''avere '''attaccato''''' (o anche ''avere '''riattaccato''''') 
+m>staccare</e
+m>io attacco</e
+m>tu attacchi</e
+m>un francobollo</e
+m>un manifesto</e
+m>un bottone</e
+m>a. bottone</e
+m>i capi di due funi</e
+m>un quadro</e
+m>il cappello</e
+m>la voglia a un chiodo</e
+m>al muro</e
+m>si levò di tasca il secondo pane</e
+m>e attaccandoci un morso</e
+m>s&rsquo;avviò</e
+m>ha attaccato la scarlattina ai suoi compagni</e
+m>mi hai attaccato il vizio del fumo</e
+m>bisogna guardarsi di non a</e
+m>a questa parola giustizia l&rsquo;idea di qualche cosa di reale</e
+m>colui che a parole suscettive di significato innocente attacca un senso turpe</e
+m>se non è anima sudicia</e
+m>è anima ignobile</e
+m>dare ordine di attaccare</e
+m>discorso con qualcuno</e
+m>a parlare</e
+m>quando attacca</e
+m>nessuno lo ferma più</e
+m>attaccar lite</e
+m>gli operai attaccano il lavoro alle otto</e
+m>attaccano alle otto</e
+m>se attacca a piovere</e
+m>non smette più</e
+m>la volata</e
+m>l&rsquo;allegro</e
+m>i violini attaccano in levare</e
+m>attacca</e
+m>maestro!</e
+m>attacca</e
+m>una fortezza</e
+m>una città</e
+m>i nemici attaccarono</e
+m>attaccarono in massa</e
+m>con forze ingenti</e
+m>una parete</e
+m>il governo</e
+m>un partito</e
+m>gli avversari</e
+m>il fumo attacca i polmoni</e
+m>l&rsquo;alcol attacca il fegato</e
+m>l&rsquo;acido solforico attacca il rame</e
+m>le pagine si sono tutte attaccate</e
+m>il sugo si è attaccato</e
+m>hai lasciato che il risotto si attaccasse!</e
+m>la tosse asinina si attacca facilmente</e
+m>a poco a poco</e
+m>la paura si attaccò anche a lui</e
+m>attaccarsi a un ramo</e
+m>a una fune</e
+m>attaccarsi al fiasco</e
+m>al bicchiere</e
+m>attaccarsi al telefono</e
+m>attaccarsi al campanello</e
+m>attaccarsi al tram</e
+m>attàccati al tram!</e
+m>ti attacchi al tram!</e
+m>attàccati!</e
+m>t&rsquo;attacchi!</e
+m>attaccarsi a un pretesto</e
+m>a un cavillo</e
+m>s&rsquo;è attaccato al peggior partito</e
+m>attaccarsi al collo di qualcuno</e
+m>attaccarsi a qualcuno</e
+m>avere</e
+m>questo cerotto non attacca</e
+m>è una colla che attacca poco</e
+m>queste idee non attaccano</e
+m>non attacca!</e
+m>accennò debolmente una proposta</e
+m>ma vedendo che non attaccava</e
+m>desistette</e
+m>quando essa arrischiava timidamente qualche parola</e
+m>o non attaccava</e
+m>o veniva corrisposta con uno sguardo distratto</e
+m>o sprezzante</e
+m>o severo</e
+m>questa moda attaccherà subito</e
+m>essere</e
+m>essere attaccato alla famiglia</e
+m>a una persona</e
+m>alla vita</e
+m>al denaro</e
+m>essere attaccato alle convenienze</e
+m>ai regolamenti</e
+m>è molto attaccato al dovere</e
+m>star sempre attaccato a qualcuno</e
+m>essere</e
+m>stare attaccato alla gonna</e
+m>alla gonnella della mamma</e

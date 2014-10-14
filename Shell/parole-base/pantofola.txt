@@ -1,0 +1,11 @@
+pantofola.txt
+"pantofola"
+#*''non trovo le mie '''pantofole'''''
+M>pianella</E
+M>pantofole da uomo</E
+M>da donna</E
+M>foderata di lana</E
+M>di pelo</E
+M>stare</E
+M>mettersi in pantofole</E
+M>da quando si è sposato s&#8217;è messo in pantofole</E

@@ -1,0 +1,10 @@
+camposanto.txt
+"camposanto"
+* [[cimitero]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 325
+m>campisanti</e
+m>cimitero</e
+m>portare</e
+m>accompagnare la salma al c</e
+m>mandare</e
+m>far andare uno al c</e

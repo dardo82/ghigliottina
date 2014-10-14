@@ -1,0 +1,77 @@
+cinema.txt
+"andare al cinema"
+"assiduo frequentatore di cinema"
+"cinema"
+"cinema, cinematography"
+"cinema"
+"movie theater, cinema"
+"cinema"
+"cinema, motion picture industry, filmmaking "
+"cinema teatro"
+"cinema theater"
+"cinema verità"
+"tecnica di cinematografia"
+"cinema verite"
+"comparsa (del cinema)"
+"divo del cinema"
+"frequentatore assiduo di cinema"
+"cinemagoer"
+"il cinema"
+"il cinema"
+"il cinema"
+"the cinema"
+"il grande schermo, il mondo del cinema"
+"cinema, film"
+"maschera (di cinema)"
+"maschera (di cinema)"
+"cinema"
+"metraggio (cinema)"
+"cinema"
+"stella del cinema"
+"uscito al cinema"
+"showing in theatres, now at cinemas"
+* [[cinematografo]], [[cinema d'essai]], [[cinemascope]], [[cinemateatro]],[[cinematograficamente]], [[cinematoscopio]], [[cinemitragliatrice]], [[cinemobile]], [[cinefilia]] 
+* [[spettacolo]], [[televisione]], [[teatro]], [[scenografia]]
+* [[movie house]], [[movie theater]]
+M>cinéma</E
+M>cinematografo</E
+M>andare al c</E
+M>un c</E
+M>di prima visione</E
+M> c. parrocchiale</E
+M> c. all’aperto</E
+M>cinematografia</E
+M>il c</E
+M>come decima musa</E
+M>d’autore</E
+M>d’attore</E
+M>storia del cinema</E
+M>l’industria del c</E
+M>i problemi del c</E
+M>la crisi del c</E
+M>il mondo del c</E
+M>il c</E
+M>russo</E
+M>francese</E
+M>polacco</E
+M>il giovane c</E
+M>americano</E
+M>il c. neorealista italiano</E
+M>muto</E
+M>sonoro</E
+M>il c</E
+M>commerciale</E
+M>d’essai</E
+M>d’animazione</E
+M>per ragazzi</E
+M>documentaristico</E
+M>Cinema</E
+M>verità</E
+M>kino</E
+M>pravda</E
+M>Cinema nel cinema</E
+M>la mia vita è stata un c.</E
+M>è un c. continuo</E
+M>questa casa è un vero c.</E
+M>che cinema!</E
+M>un cinemetto parrocchiale</E

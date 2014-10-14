@@ -1,0 +1,305 @@
+fuori.txt
+"(butta) fuori"
+"(essere fuori) mano"
+"(essere fuori) mano"
+"al di fuori"
+"al di fuori del tuo controllo"
+"andare fuori controllo"
+"andare fuori moda"
+"assegno fuori piazza"
+"balzare fuori"
+"balzato fuori"
+"bloccare fuori"
+"buttar fuori"
+"buttar fuori"
+"buttar fuori (da letto)"
+"buttare fuori"
+"buttare fuori"
+"cagare fuori dal vaso"
+"Chiamarsi fuori"
+"chiudere fuori"
+"colare fuori"
+"Collocato fuori posto"
+"dare fuori"
+"Dare fuori di matto"
+"dentro e fuori"
+"dentro e fuori, su e giù"
+"di stagione e fuori stagione"
+"dormire fuori casa"
+"eating: far fuori"
+"elaborazione fuori linea"
+"essere fuori moda"
+"essere fuori squadra"
+"essere fuori squadra"
+"essere fuori strada"
+"essere tagliato fuori"
+"far andare fuori di testa qualcuno"
+"fare fuori; freddare"
+"fuori"
+"fuori"
+"fuori"
+"fuori"
+"fuori al freddo"
+"fuori allenamento"
+"fuori bilancio"
+"fuori bilancio"
+"fuori bordo"
+"fuori bordo"
+"fuori bordo"
+"fuori bordo"
+"fuori bordo"
+"fuori bordo"
+"fuori borsa"
+"fuori budget"
+"fuori busta"
+"fuori campo"
+"fuori campo"
+"fuori casa"
+"fuori casa"
+"fuori catalogo"
+"fuori centro"
+"fuori centro"
+"fuori città"
+"fuori combattimento"
+"fuori concorso"
+"fuori conoscenza"
+"fuori controllo"
+"fuori controllo"
+"fuori controllo"
+"fuori corso"
+"fuori da"
+"fuori da"
+"fuori da"
+"fuori da"
+"fuori da (qualcosa)"
+"fuori da ogni misura"
+"fuori dagli schemi"
+"fuori dai binari"
+"fuori dai denti"
+"fuori dai gangheri"
+"fuori dai guai"
+"fuori dai limiti"
+"fuori dai limiti"
+"fuori dai limiti"
+"fuori dal campo visivo"
+"fuori dal comune"
+"fuori dal comune"
+"fuori dal comune"
+"fuori dal comune"
+"fuori dal giro che conta, fuori dal giro"
+"fuori dal gregge"
+"fuori dal mondo"
+"fuori dal mondo"
+"fuori dal mondo"
+"fuori dal mondo"
+"fuori dal normale"
+"fuori dal nulla"
+"venir fuori dal nulla"
+"fuori dall'ordinario"
+"fuori dalla finestra"
+"fuori dalla nazione"
+"fuori dalla norma"
+"fuori dalla propria portata"
+#*''la chiesa era gremita, dovettero restare '''fuori'''''
+#*''mi hai rotto le scatole, '''fuori''' dalle palle''
+#*''tenersi '''fuori''' dal casino''
+* all’esterno di
+*[[lontano]], [[distante]]
+* all’esterno, [[esternamente]]
+*all’aperto
+*[[lontano]], [[via]]
+*all’interno di
+*[[vicino]], [[in]]
+*[[dentro]], all’interno, [[internamente]]
+*[[vicino]], [[qui]]
+*[[ fuori banca]], [[fuoriclasse]], [[fuoricorso]]
+*''fuori discussione''
+M>ris</E
+M>ras</E
+M>dentro</E
+M>essere</E
+M>stare</E
+M>restare f</E
+M>lasciare f</E
+M>andare</E
+M>scappare</E
+M>cacciare f</E
+M>cacciar f</E
+M>i quattrini</E
+M>c’è f</E
+M>un tale che cerca di te</E
+M>vieni f</E
+M>se hai coraggio!</E
+M>uscir f</E
+M>cavar f</E
+M>estrarre f</E
+M>versare f</E
+M>sono stato f</E
+M>tutto il giorno</E
+M>debbo andar f</E
+M>di nuovo</E
+M>pranzare</E
+M>cenare fuori</E
+M>fuori!</E
+M>di qui!</E
+M>i quattrini!</E
+M>le prove!</E
+M>fuori!</E
+M>l’autore!</E
+M>i secondi!</E
+M>fuori!</E
+M>aspettami di f</E
+M>ho pulito i vetri di dentro e di f</E
+M>andar di f</E
+M>venire di f</E
+M>da f</E
+M>ascoltare il suono delle voci di f</E
+M>gente di f</E
+M>il di f</E
+M>il di f</E
+M>del palazzo</E
+M>guardare</E
+M>osservare dal di f</E
+M>badare al di f</E
+M>spingere</E
+M>sporgere</E
+M>aggettare</E
+M>un balcone che sporge in f</E
+M>di quasi 2 metri</E
+M>tenere il petto in f</E
+M>avere gli occhi</E
+M>i denti in f</E
+M>in f</E
+M>da loro in f</E
+M>non ne conosco altri</E
+M>avere f</E
+M>buttar f</E
+M>chiamarsi f</E
+M>dare f</E
+M>essere f</E
+M>far f</E
+M>lasciare f</E
+M>mettere f</E
+M>mettere f</E
+M>un oggetto</E
+M>metter f</E
+M>una notizia</E
+M>metter f</E
+M>denaro</E
+M>metter f</E
+M>un’idea</E
+M>sputar f</E
+M>sputa f</E
+M>ciò che pensi</E
+M>quel che hai da dire</E
+M>restare</E
+M>rimanere f.</E
+M>tagliare f</E
+M>esser tagliato f</E
+M>essere tagliato fuori dalla lotta per i primi posti</E
+M>dalla corsa alla presidenza</E
+M>tirare f</E
+M>mettere f</E
+M>tirar f</E
+M>la spada</E
+M>il portafoglio</E
+M>venir f</E
+M>venir f</E
+M>saltare</E
+M>scappare f</E
+M>con una trovata</E
+M>con una frase</E
+M>una pretesa</E
+M>una battuta di spirito</E
+M>Fuor fuori</E
+M>fuor fuora</E
+M>passare</E
+M>trapassare</E
+M>ferire fuor fuori</E
+M>ogni sua botta avrebbe potuto passar fuor fuora il nemico</E
+M>fuori che</E
+M>fuor che</E
+M>d’Italia</E
+M>della stanza</E
+M>città</E
+M>cader f</E
+M>dalla</E
+M>tasca</E
+M>da un locale</E
+M> essere f</E
+M>di casa</E
+M>giocare f</E
+M>casa</E
+M>abitare f</E
+M>porta</E
+M>fare una gita f. porta</E
+M>essere</E
+M>andare f</E
+M>strada</E
+M>essere f</E
+M>posto</E
+M>di posto</E
+M>a posto</E
+M>posto</E
+M>fare una cosa f</E
+M>posto</E
+M>intervenire f</E
+M>posto</E
+M>avere il cervello f</E
+M>posto</E
+M>vista</E
+M>della vista</E
+M>mettersi f</E
+M>della legge</E
+M>rimanere fuori dalla logica corporativa</E
+M>vivere f</E
+M>della società</E
+M>del proprio tempo</E
+M>dichiarare f</E
+M>pericolo</E
+M>essere f</E
+M>dell’inverno</E
+M>frutti f</E
+M>stagione</E
+M>lavorare f</E
+M>orario</E
+M>mangiare f</E
+M>pasto</E
+M>dei pasti</E
+M>campo</E
+M>commercio</E
+M>fuor di commercio</E
+M>fuor di dubbio</E
+M>luogo</E
+M>mano</E
+M>fuori di mano</E
+M>essere</E
+M>andare f</E
+M>mano</E
+M>contro mano</E
+M>fuor di modo</E
+M>fuor di misura</E
+M>fuor di proposito</E
+M>esser f</E
+M>di sé</E
+M>andare f</E
+M>tempo</E
+M>agire</E
+M>intervenire f</E
+M>tempo</E
+M>potrei fors’anche</E
+M> con un tentativo fuor di tempo</E
+M> peggiorar la condizione di questa poveretta</E
+M>uso</E
+M>un’espressione f. uso</E
+M>il mio telefono è f. uso</E
+M>f. combattimento</E
+M>concorso</E
+M>giri</E
+M>limite</E
+M>f. pagina</E
+M>quadro</E
+M>f. servizio</E
+M>tempo massimo</E
+M>testo</E
+M>tiro</E

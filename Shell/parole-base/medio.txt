@@ -1,0 +1,337 @@
+medio.txt
+"cammino libero medio"
+"ceto medio"
+"ceto medio-basso"
+"classe medio-alta"
+"costo medio"
+"dito medio"
+"errore quadratico medio"
+"finanziamento, prestito a lungo\/medio perido"
+"libro medio"
+"livello medio del mare"
+"medio"
+"medio"
+"medio"
+"medio corso"
+"Medio Oriente"
+"medio-duro"
+"orecchio medio"
+"peso medio"
+"peso medio leggero"
+"punto medio"
+"punto medio"
+"scarto medio"
+"scarto quadratico medio"
+"scarto quadratico medio"
+"tempo medio degli USA nella regione delle Montagne Rocciose"
+"tempo medio per terminare qualcosa"
+"teorema del valore medio"
+"termine medio"
+"tiro medio"
+"uomo medio"
+"valore medio"
+#*''Si trova nel punto '''medio'''''
+#*''Carlo ha un'intelligenza '''media'''''
+#*''Il diciottenne '''medio''' conosce almeno due lingue''
+*[[centrale]]
+*[[intermedio]]
+*[[media]]
+*italiano
+M>medius</E
+M>mezzo</E
+M>la parte m</E
+M>di un oggetto</E
+M> di un’asse</E
+M>di un bastone</E
+M>il m</E
+M>della lama</E
+M>forte</E
+M>debole</E
+M>persona di m</E
+M>statura</E
+M>di m</E
+M>età</E
+M>di m</E
+M>cultura</E
+M>di cultura m</E
+M>l’evo m</E
+M>il medioevo</E
+M>Medioevo</E
+M>note m</E
+M>ceto m</E
+M>un uomo di m</E
+M>forza</E
+M>procedere a m</E
+M>velocità</E
+M>a velocità m</E
+M>crediti</E
+M>programmi a m</E
+M>termine</E
+M>lungo</E
+M>breve termine</E
+M>l’annata è stata m</E
+M>avere un’intelligenza m</E
+M>il m</E
+M>Adriatico</E
+M>l’Italia m</E
+M>il M</E
+M>Oriente</E
+M>medioatlantico</E
+M>medioevo</E
+M>mediofrontale</E
+M>mediopalatale</E
+M>Dito m</E
+M>il medio</E
+M>lettere m</E
+M>ovario m</E
+M>ovario seminifero</E
+M>pesi m</E
+M>incontro di pugilato dei pesi m</E
+M>il campione mondiale dei medî</E
+M>scuola m</E
+M>scuola m</E
+M>inferiore</E
+M>la Media</E
+M>le Medie</E
+M>scuola secondaria di 1° grado</E
+M>scuola m</E
+M>superiore</E
+M>scuola secondaria di 2° grado</E
+M>licenza m</E
+M>insegnamento m</E
+M>istruzione m</E
+M>insegnanti m</E
+M>Termine m</E
+M>uomini</E
+M>termini medî</E
+M>i medî</E
+M>b = c</E
+M>proporzionale</E
+M>continua</E
+M>principio del m</E
+M>del terzo</E
+M>escluso</E
+M>frequenza</E
+M>media</E
+M>onde medie</E
+M>Diatesi m</E
+M>forma m</E
+M>genere m</E
+M>il medio</E
+M>valore m</E
+M>mediale</E
+M>del verbo</E
+M>bersi un bicchiere d’acqua</E
+M>andarsene a spasso</E
+M>Consonanti m</E
+M>Consonanti di grado m</E
+M>tenue</E
+M>debole</E
+M>forte</E
+M>spelta</E
+M>Voce m</E
+M>vox media</E
+M>fortuna</E
+M>tempestas</E
+M>valetudo</E
+M>medio</E
+M>medio inglese</E
+M>medio</E
+M>tedesco</E
+M>valore</E
+M>Valore m</E
+M>medio</E
+M>età m</E
+M>vita m</E
+M>durata m</E
+M>della vita</E
+M>il reddito m</E
+M>pro capite</E
+M>temperatura m</E
+M>diurna</E
+M>annua</E
+M>prezzo m</E
+M>di una merce</E
+M>valore m</E
+M>dell’età</E
+M>della temperatura</E
+M>medio</E
+M>velocità m</E
+M>di un veicolo durante un percorso</E
+M>giorno m</E
+M>giorno solare m</E
+M>tempo solare m</E
+M>cammino libero m</E
+M>molecolare</E
+M>medio circolante</E
+M>un uomo mediamente intelligente</E
+M>per arrivare al paese in macchina</E
+M>impiego mediamente 50 minuti</E
+"cammino libero medio"
+"ceto medio"
+"ceto medio-basso"
+"classe medio-alta"
+"costo medio"
+"dito medio"
+"errore quadratico medio"
+"finanziamento, prestito a lungo\/medio perido"
+"libro medio"
+"livello medio del mare"
+"medio"
+"medio"
+"medio"
+"medio corso"
+"Medio Oriente"
+"medio-duro"
+"orecchio medio"
+"peso medio"
+"peso medio leggero"
+"punto medio"
+"punto medio"
+"scarto medio"
+"scarto quadratico medio"
+"scarto quadratico medio"
+"tempo medio degli USA nella regione delle Montagne Rocciose"
+"tempo medio per terminare qualcosa"
+"teorema del valore medio"
+"termine medio"
+"tiro medio"
+"uomo medio"
+"valore medio"
+#*''Si trova nel punto '''medio'''''
+#*''Carlo ha un'intelligenza '''media'''''
+#*''Il diciottenne '''medio''' conosce almeno due lingue''
+*[[centrale]]
+*[[intermedio]]
+*[[media]]
+*italiano
+M>medius</E
+M>mezzo</E
+M>la parte m</E
+M>di un oggetto</E
+M> di un’asse</E
+M>di un bastone</E
+M>il m</E
+M>della lama</E
+M>forte</E
+M>debole</E
+M>persona di m</E
+M>statura</E
+M>di m</E
+M>età</E
+M>di m</E
+M>cultura</E
+M>di cultura m</E
+M>l’evo m</E
+M>il medioevo</E
+M>Medioevo</E
+M>note m</E
+M>ceto m</E
+M>un uomo di m</E
+M>forza</E
+M>procedere a m</E
+M>velocità</E
+M>a velocità m</E
+M>crediti</E
+M>programmi a m</E
+M>termine</E
+M>lungo</E
+M>breve termine</E
+M>l’annata è stata m</E
+M>avere un’intelligenza m</E
+M>il m</E
+M>Adriatico</E
+M>l’Italia m</E
+M>il M</E
+M>Oriente</E
+M>medioatlantico</E
+M>medioevo</E
+M>mediofrontale</E
+M>mediopalatale</E
+M>Dito m</E
+M>il medio</E
+M>lettere m</E
+M>ovario m</E
+M>ovario seminifero</E
+M>pesi m</E
+M>incontro di pugilato dei pesi m</E
+M>il campione mondiale dei medî</E
+M>scuola m</E
+M>scuola m</E
+M>inferiore</E
+M>la Media</E
+M>le Medie</E
+M>scuola secondaria di 1° grado</E
+M>scuola m</E
+M>superiore</E
+M>scuola secondaria di 2° grado</E
+M>licenza m</E
+M>insegnamento m</E
+M>istruzione m</E
+M>insegnanti m</E
+M>Termine m</E
+M>uomini</E
+M>termini medî</E
+M>i medî</E
+M>b = c</E
+M>proporzionale</E
+M>continua</E
+M>principio del m</E
+M>del terzo</E
+M>escluso</E
+M>frequenza</E
+M>media</E
+M>onde medie</E
+M>Diatesi m</E
+M>forma m</E
+M>genere m</E
+M>il medio</E
+M>valore m</E
+M>mediale</E
+M>del verbo</E
+M>bersi un bicchiere d’acqua</E
+M>andarsene a spasso</E
+M>Consonanti m</E
+M>Consonanti di grado m</E
+M>tenue</E
+M>debole</E
+M>forte</E
+M>spelta</E
+M>Voce m</E
+M>vox media</E
+M>fortuna</E
+M>tempestas</E
+M>valetudo</E
+M>medio</E
+M>medio inglese</E
+M>medio</E
+M>tedesco</E
+M>valore</E
+M>Valore m</E
+M>medio</E
+M>età m</E
+M>vita m</E
+M>durata m</E
+M>della vita</E
+M>il reddito m</E
+M>pro capite</E
+M>temperatura m</E
+M>diurna</E
+M>annua</E
+M>prezzo m</E
+M>di una merce</E
+M>valore m</E
+M>dell’età</E
+M>della temperatura</E
+M>medio</E
+M>velocità m</E
+M>di un veicolo durante un percorso</E
+M>giorno m</E
+M>giorno solare m</E
+M>tempo solare m</E
+M>cammino libero m</E
+M>molecolare</E
+M>medio circolante</E
+M>un uomo mediamente intelligente</E
+M>per arrivare al paese in macchina</E
+M>impiego mediamente 50 minuti</E

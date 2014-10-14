@@ -1,0 +1,83 @@
+pregare.txt
+"comincia a pregare"
+"pregare"
+"pregare"
+"pregare"
+"pregare per"
+"pregare su"
+"sperare e pregare"
+#* ''
+#*''Ti prego di ascoltarmi''
+*''(rivolgersi a una divinità)'' rivolgersi a Dio,[[invocare]]
+*''(con suppliche)'' [[chiedere]], [[richiedere]], [[domandare]], [[implorare]], [[supplicare]], [[scongiurare]],[[raccomandare]], [[raccomandarsi]]
+*''(con cortesia)'' [[invitare]]
+*[[pregadio]], [[preghiera]],  [[prego]]
+M>cari</E
+M>prex precis</E
+M>io prègo</E
+M>tu prèghi</E
+M>priègo</E
+M>prièghi</E
+M>che</E
+M>perché</E
+M>pregalo che ti aiuti</E
+M>perché ti aiuti</E
+M>mi pregano che</E
+M>perché</E
+M>rimanga con loro</E
+M>che</E
+M>Occhi miei lassi</E
+M>Pregovi siate accorti</E
+M>Ché già vi sfida Amore</E
+M>lo pregò di ascoltarlo</E
+M>di essere paziente</E
+M>qualcuno di un favore</E
+M>di una cortesia</E
+M>la cosa</E
+M>il favore di cui ti ho pregato</E
+M>per</E
+M>per il perdono</E
+M>per la grazia</E
+M>per una persona</E
+M>qualcuno per l&#8217;antica amicizia</E
+M>ti prego per carità</E
+M>per amor mio</E
+M>per quello che hai di più caro al mondo</E
+M>è inutile che preghi</E
+M>non otterrai nulla</E
+M>sono stanco di pregare!</E
+M>farsi pregare</E
+M>via</E
+M>non farti pregare!</E
+M>vuole farsi pregare</E
+M>ma poi dirà di sì</E
+M>non farsi pregare</E
+M>non si è fatto certo pregare per accettare la mancia</E
+M>vi prego di rispondermi al più presto</E
+M>la prego</E
+M>si accomodi</E
+M>l&#8217;ho pregato di aspettarmi in anticamera</E
+M>si prega di non fumare</E
+M>prego</E
+M>Dio</E
+M>la Madonna</E
+M>i Santi</E
+M>Dio che ci liberi dai mali</E
+M>prega Dio che te la mandi buona</E
+M>prega Dio che nessuno si accorga di quello che hai combinato</E
+M>per le anime sante del Purgatorio</E
+M>prega per noi peccatori</E
+M>Ave Maria</E
+M>Se fosse amico il re de l&#8217;universo</E
+M>Noi pregheremmo lui de la tua pace</E
+M>sono stata in chiesa a pregare</E
+M>s&#8217;inginocchiò per pregare</E
+M>pregava in ginocchio</E
+M>a voce alta</E
+M>per i proprî cari</E
+M>per i defunti</E
+M>pregare venia</E
+M>pregare pace da Dio</E
+M>E prego anch&#8217;io nel tuo porto quïete</E
+M>i fedeli preganti</E
+M>dalle canne dell&#8217;organo un tuono d&#8217;argento si spande sull&#8217;infinito murmure dei preganti</E

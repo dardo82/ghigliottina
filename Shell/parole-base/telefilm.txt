@@ -1,0 +1,7 @@
+telefilm.txt
+"commedia, telefilm comico"
+"telefilm"
+"telefilm drammatico"
+M>tele-</E
+M>film</E
+M>film per la televisione.</E

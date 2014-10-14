@@ -1,0 +1,52 @@
+disturbo.txt
+"arrecare disturbo"
+"darsi pena;prendersi il disturbo di"
+"disturbo"
+"disturbo"
+"disturbo"
+"disturbo"
+"disturbo alimentare"
+"disturbo cardiovascolare"
+"disturbo cerebrale"
+"disturbo circolatorio"
+"disturbo del metabolismo"
+"disturbo del metabolismo"
+"disturbo dell'alimentazione"
+"disturbo dell'ordine pubblico"
+"disturbo della personalità"
+"disturbo di personalità multipla"
+"disturbo fobico"
+"disturbo mentale"
+"disturbo mentale"
+"disturbo nervoso"
+"disturbo ormonale"
+"disturbo, seccatura"
+"disturbo, seccatura"
+"prendersi il disturbo di fare qcs"
+"scusarsi per il disturbo arrecato"
+"togliere il disturbo"
+M>della quiete notturna</E
+M>dare</E
+M>recare</E
+M>procurare d</E
+M>prendersi il d</E
+M>non vorrei esserti di d</E
+M>perdoni il d</E
+M>le tolgo il d</E
+M>questo viaggio è per me un grave disturbo</E
+M>azione di disturbo</E
+M>ho qualche d</E
+M>di stomaco</E
+M>patisce spesso di d</E
+M>viscerali</E
+M>dovuti al mal di mare</E
+M>al mal d’aria</E
+M>nervosi</E
+M>psichici</E
+M>mentali</E
+M>rimettersi</E
+M>guarire da un disturbo</E
+M>magnetici</E
+M>disturbo di alimentazione</E
+M>atmosferici</E
+M>industriali</E

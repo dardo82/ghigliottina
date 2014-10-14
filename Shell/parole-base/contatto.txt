@@ -1,0 +1,112 @@
+contatto.txt
+"a stretto contatto"
+"a stretto contatto con"
+"avere un contatto"
+"carta per contatto"
+"contatto"
+"contatto"
+"contatto"
+"contatto"
+"contatto fisico"
+"contatto principale"
+"contatto secondario"
+"da contatto di fili (per far partire un'auto)"
+"dermatite da contatto"
+"entrare in contatto"
+"entrare in contatto"
+"entrare in contatto con"
+"entrare in contatto con"
+"entrare in contatto con"
+"entrare in contatto con"
+"entrare in contatto con qc, mettersi in contatto con qc"
+"essere in contatto"
+"essere in contatto"
+"essere in contatto"
+"essere in contatto"
+"essere in contatto con"
+"essere in contatto fisico"
+"in, a contatto"
+"in, a contatto con"
+"lente a contatto"
+"lente a contatto"
+"lenti a contatto"
+"mancanza di contatto"
+"mettere in contatto"
+"mettersi in contatto"
+"mettersi in contatto con qc, contattare qc, raggiungere qc"
+"non in contatto"
+"persona di contatto"
+"prendere contatto con"
+"sistema di contatto"
+"stampa a contatto"
+"stampa a contatto"
+"tenere il contatto"
+"tenersi in contatto"
+"tenersi in contatto con"
+"tenersi in contatto con"
+"tenersi in contatto con qualcuno"
+"venire a contatto"
+"vivere a stretto contatto"
+#* ''le superfici sono a 
+#* ''ho un 
+#* ''avevo perso i '''contatti''' con Mario''
+*[[vicinanza]], [[accostamento]], [[unione]], [[contiguità]], [[adiacenza]], [[aderenza]], [[adesione]]
+* ''(telefonico, radio)'' [[collegamento]]''
+*[[cortocircuito]]
+*[[distanza]], [[distacco]], [[isolamento]], [[estraneità]] 
+*[[contattare]]
+M>contactus</E
+M>conting</E
+M>contactus</E
+M>il c</E
+M>della sua mano mi dava forza</E
+M>evitare il c</E
+M>col malato</E
+M>stare</E
+M>lavorare</E
+M>mangiare a c</E
+M>di gomito</E
+M>di gomiti</E
+M>con qualcuno</E
+M>il colore si altera al c</E
+M>dell’aria</E
+M>il ferro al c</E
+M>con l’acqua si ossida</E
+M>mettere</E
+M>venire</E
+M>essere</E
+M>trovarsi a contatto</E
+M>venire a contatto</E
+M>col nemico</E
+M>con le forze avversarie</E
+M>mantenere il c</E
+M>perdere il contatto</E
+M>contatto</E
+M>Lenti a contatto</E
+M>nella mia carriera ho avuto contatti con persone di ogni categoria</E
+M>non voglio aver contatti con certa gente</E
+M>gli impiegati che sono a contatto col pubblico</E
+M>prendere contatto con qualcuno</E
+M>presa di contatto</E
+M>mettersi in c</E
+M>telefonico con qualcuno</E
+M>cercare</E
+M>sfuggire i c</E
+M>umani</E
+M>il c</E
+M>umano</E
+M>avere molti c</E
+M>avere contatti</E
+M>carnali</E
+M>area di contatto</E
+M>area di c. parapatrico</E
+M>area di c. simpatrico</E
+M>elettrico</E
+M>organo di contatto</E
+M>contatto</E
+M>c’è un contatto</E
+M>azione di contatto</E
+M>Processo</E
+M>metodo di contatto</E
+M>acido di contatto</E
+M>linguistico</E

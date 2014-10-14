@@ -1,0 +1,11 @@
+situare.txt
+"situare"
+"situare"
+"situare in luogo pubblico"
+M>situare</E
+M>situs -us</E
+M>io sìtuo</E
+M>questo quadro va situato di fronte alla finestra</E
+M>villa situata in cima a una collina</E
+M>i personaggi situati sulla destra del dipinto</E
+M>mobili belli e di valore ma mal situati</E

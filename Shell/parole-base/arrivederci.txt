@@ -1,0 +1,16 @@
+arrivederci.txt
+"arrivederci"
+"arrivederci"
+"arrivederci e grazie!"
+"hasta la vista (arrivederci; addio in sp.)"
+"hasta luego (arrivederci; a presto; addio in sp.)"
+*[[ciao]]
+*[[ a rivederci]]
+M>a stasera</E
+M>a domani</E
+M>a presto</E
+M>stasera</E
+M>ho capito</E
+M>e grazie!</E
+M>un buon arrivederci</E
+M>arrivederla</E

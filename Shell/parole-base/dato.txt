@@ -1,0 +1,66 @@
+dato.txt
+"dato"
+"dato"
+"dato"
+"dato"
+"dato a"
+"dato alla luce; partorito"
+"dato anagrafico"
+"dato che"
+"dato che"
+"dato che"
+"dato che"
+"dato di entrata"
+"Dato di fatto"
+"dato livello, livello prefissato"
+"dato per scontato"
+"è un dato di fatto"
+"non ci è dato sapere"
+"non essere dato di"
+"non ha che da chiedere (e sarà dato)"
+"persona a cui è stato dato un certo tipo di potere"
+"può essere dato"
+#* ''elaborazione '''dati'''''
+*''(di ora, luogo)'' [[stabilito]], [[prestabilito]], [[determinato]], [[preciso]], [[definito]], [[certo]]
+*[[elemento]], [[fatto]], [[nozione]], [[concetto]], [[fondamento]], [[presupposto]]
+* [[estremi]], [[generalità]], nome e cognome.
+* italiano
+* esperanto
+M>dare</E
+M>essere d</E
+M>ai bagordi</E
+M>un uomo d</E
+M>alla vita contemplativa</E
+M>entro un d</E
+M>tempo</E
+M>in d</E
+M>casi</E
+M>della sensazione</E
+M>sperimentali</E
+M>dati di un problema</E
+M>mi mancano i d</E
+M>per giudicarlo</E
+M>abbiamo d</E
+M>sufficienti per condannarlo</E
+M>dati di fatto</E
+M>la sua presenza nel luogo non è un d</E
+M>sufficiente per sospettare di lui</E
+M>questo è un d</E
+M>di fatto di cui bisogna tener conto</E
+M>dati</E
+M>numerici</E
+M>alfabetici</E
+M>alfanumerici</E
+M>banca di dati</E
+M>memorizzazione</E
+M>elaborazione</E
+M>trattamento</E
+M>verifica dei d</E
+M>data</E
+M>dati di tiro</E
+M>statistico</E
+M>somatici</E
+M>In buon dato</E
+M>Portavan pane</E
+M>vin</E
+M>torta in buon d</E

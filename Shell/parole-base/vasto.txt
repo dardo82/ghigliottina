@@ -1,0 +1,13 @@
+vasto.txt
+"di un vasto ambito"
+"di vasto respiro"
+"in modo vasto"
+"non vasto"
+"vasto"
+"vasto raggio"
+"vasto studio"
+"vasto, ampio, esteso"
+#* ''mio zio possiede un '''vasto''' terreno''
+* [[esteso]], [[ampio]], [[spazioso]], [[grande]], [[immenso]], [[smisurato]], [[sconfinato]], [[ricco]], [[abbondante]]
+*[[piccolo]], [[ristretto]], [[limitato]], [[scarso]]
+* [[piccolo]]

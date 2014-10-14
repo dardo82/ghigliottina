@@ -1,0 +1,9 @@
+molo.txt
+"molo"
+"molo, banchina"
+"testata del molo"
+*[[banchina]]
+M>moles</E
+M>guardiani</E
+M>sopraflutto</E
+M>sottoflutto</E

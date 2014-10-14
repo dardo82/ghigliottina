@@ -1,0 +1,13 @@
+dentifricio.txt
+"dentifricio"
+"dentifricio"
+M>dentifricium</E
+M>dens dentis</E
+M>fricare</E
+M>cie</E
+M>crema d</E
+M>pasta d</E
+M>sapone d</E
+M>liquido</E
+M>in polvere</E
+M>un tubetto di dentifricio</E

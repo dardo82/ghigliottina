@@ -1,0 +1,20 @@
+aritmetica.txt
+"aritmetica"
+"aritmetica binaria"
+"aritmetica modulare"
+"lettura, scrittura e aritmetica"
+"media aritmetica"
+"media aritmetica di quadrati di scarti"
+*[[aritmetico]]
+*[[arismetica]], [[arismetrica]]
+M>arithmet</E
+M>arismet</E
+M>ica</E
+M>logistica</E
+M>elementare</E
+M>pratica</E
+M>razionale</E
+M>a. a virgola mobile</E
+M>floating point</E
+M>morale</E
+M>politica</E

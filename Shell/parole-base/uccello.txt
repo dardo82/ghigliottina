@@ -1,0 +1,149 @@
+uccello.txt
+"a gabbia di uccello"
+"ala di uccello"
+"becco d'uccello"
+"beccogrosso vespertino (uccello)"
+"con occhialino (riferito ad uccello)"
+"corridore delle strade (Geococcyx californianus, uccello della famiglia dei cuculidi)"
+"dai fianchi oliva (uccello)"
+"dalla corona grigia (uccello)"
+"dendroica delle palme (uccello)"
+"di nido di uccello"
+"di nido di uccello"
+"l'uccello"
+"l'Uccello del Paradiso"
+"libero come un uccello"
+"nido d'uccello"
+"nitticora (uccello)"
+"Papa della Louisiana (uccello)"
+"penne d'uccello"
+"piccolo d'uccello"
+"piro-piro pettorale (uccello)"
+"prospettiva a volo d'uccello"
+"sparare ad un uccello in volo"
+"succhiami l'uccello"
+"uccello"
+"uccello"
+"uccello acquatico"
+"uccello acquatico"
+"uccello canoro"
+"uccello canoro delle magnolie"
+"uccello che cattura le mosche"
+"uccello del genere sialia"
+"uccello del malaugurio"
+"uccello del paradiso"
+"uccello della guerra"
+"uccello della morte"
+"uccello inabile al volo"
+"uccello incapace di volare"
+"uccello marino"
+"uccello migratore"
+"uccello notturno"
+"uccello notturno"
+"uccello pescatore"
+"uccello phoebe"
+"uccello rapace"
+"uccello raro"
+"uccello sulla mano"
+"uccello-mimo"
+"un tipo di uccello"
+* [[pennuto]], [[volatile]], [[augello]]
+* [[uccellatore]], [[uccelliera]], [[uccelleria]]
+* [[ala]], [[becco]], [[covare]], [[gabbia]], [[nido]], [[pulcino]], [[ramo]], [[uovo]], [[volare]], [[voliera]], [[volo]]
+*[[vertebrato]], [[animale]]
+* ''un '''uccellino''' mi ha detto...'' 
+* ''essere '''uccel''' di bosco'' 
+* '''''uccellaccio''' del malaugurio!'' 
+M>auc</E
+M>llus</E
+M>*avicellus</E
+M>avicella</E
+M>avis</E
+M>uccelli</E
+M>u. acquatici</E
+M>u. rapaci</E
+M>u. rapaci diurni</E
+M>u. rapaci notturni</E
+M>u. trampolieri</E
+M>u. limicoli</E
+M>u. di ripa</E
+M>il volo di un u.</E
+M> di uno stormo di uccelli</E
+M>il canto degli u.</E
+M>verso</E
+M>ascoltare il verso di un u.</E
+M>gli u. per lo più si dimostrano nei moti e nell’aspetto lietissimi</E
+M>Elogio degli uccelli</E
+M>essere vispo</E
+M> lesto come un u.</E
+M>star come l’u. sulla frasca</E
+M>un u. appena uscito dal nido</E
+M>ogni u. ama il suo nido</E
+M>a ogni u. il suo nido è bello</E
+M>andare a caccia di uccelli col fucile</E
+M> con le reti</E
+M>ieri a caccia ho preso una ventina di uccelli</E
+M>una ventina di quaglie</E
+M> di tordi</E
+M>un arrosto di uccelli</E
+M> uccelli in salmì</E
+M> uccelli</E
+M>uccellini</E
+M>allo spiedo</E
+M>polenta con uccelli</E
+M>polenta e uccelli</E
+M>polenta e osei</E
+M>u. da richiamo</E
+M>richiamo</E
+M>u. in gabbia</E
+M>fare come l’u. in gabbia</E
+M> che canta per la rabbia</E
+M>Uccel di bosco</E
+M>u. di</E
+M>del</E
+M>malaugurio</E
+M>non fare</E
+M> non essere l’u. del malaugurio</E
+M>l’u. di Giove</E
+M>io vidi calar l’uccel di Giove Per l’alber giù</E
+M>l’u. di Giunone</E
+M>u. divino</E
+M>come più e più verso noi venne L’uccel divino.</E
+M>a volo d’u.</E
+M>palazzo</E
+M> parco visto a volo d’u.</E
+M>chiesa disegnata a volo d’u.</E
+M>nelle sue lezioni ha svolto la materia a volo d’u.</E
+M>visitare un museo a volo d’u.</E
+M>Uccello indiano</E
+M>del Paradiso</E
+M>Apus</E
+M>nuovo uccellone</E
+M>parendogli che fosse un nuovo uccellone</E
+M> tutto il venne considerando</E
+M>se non fia chi me lo vieti</E
+M> Farò di lui mille uccellacci lieti</E
+M>uccellaccio del malaugurio!</E
+M>uccello</E
+M>uccello</E
+M>u. del paradiso</E
+M> u. gatto</E
+M> u. lira</E
+M> u. mosca</E
+M> u. sarto</E
+M>u. dagli occhiali</E
+M>u. delle tempeste</E
+M>Hydrobates pelagicus</E
+M>Oceanites oceanicus</E
+M>Oceanodroma leucorhoa</E
+M>u. dello zucchero</E
+M>u. di San Pietro</E
+M>procellaria</E
+M>u. di Santa Maria</E
+M>martin pescatore</E
+M>u. ombrellato</E
+M>u. parasole</E
+M>u. toro</E
+M>cefalottero</E
+M>u. serpente</E
+M>u. biscia</E

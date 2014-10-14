@@ -1,0 +1,15 @@
+accampamento.txt
+"accampamento"
+"accampamento"
+M>permanente</E
+M>giornaliero</E
+M>estivo</E
+M>invernale</E
+M>porre</E
+M>mettere</E
+M>levare l’accampamento</E
+M>un a</E
+M>di profughi</E
+M>di zingari</E
+M>campeggio</E
+M>camping</E

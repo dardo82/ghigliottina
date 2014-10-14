@@ -1,0 +1,33 @@
+valutare.txt
+"esaminare, valutare"
+"prendere in considerazione, valutare"
+"valutare"
+"valutare"
+"valutare"
+"valutare"
+"valutare il da farsi"
+"valutare in modo eccessivo"
+"valutare l'importo"
+"valutare la possibilità"
+"valutare troppo"
+#*''valutare il prezzo di un auto usata''
+*[[sottovalutare]]
+M>io valùto</E
+M>io vàluto</E
+M>il terreno è stato valutato oltre</E
+M>sui trecentomila euro</E
+M>l’orefice mi valutò l’anello tremila euro</E
+M>non ha saputo v. abbastanza l’onore che gli è stato fatto</E
+M>tu lo valuti troppo</E
+M>troppo poco</E
+M>quell’uomo</E
+M>occorre v. realisticamente la potenza del nemico</E
+M>la gravità del pericolo</E
+M>il danno fu valutato</E
+M> allora</E
+M> in centinaia di euro</E
+M>si valutava che i nemici avessero in campo duecentomila uomini</E
+M>v. a occhio e croce una distanza</E
+M>valutando gli anticipi ricevuti</E
+M>il suo credito rimane di 75 mila euro</E
+M>bisogna v. ogni più piccolo indizio</E

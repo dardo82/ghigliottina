@@ -1,0 +1,19 @@
+pigiama.txt
+"festa in pigiama"
+"pigiama"
+"pigiama party"
+"pigiama party"
+:* en
+M>pyjamas</E
+M>pajamas</E
+M>y j</E
+M>un p</E
+M>di cotone</E
+M>di flanella</E
+M>di seta</E
+M>un p</E
+M>estivo</E
+M>invernale</E
+M>da spiaggia</E
+M>palazzo</E
+M>party</E

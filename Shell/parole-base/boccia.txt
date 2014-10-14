@@ -1,0 +1,24 @@
+boccia.txt
+"boccia"
+"boccia"
+"boccia, bocce, bocci"
+"boccia per pesci rossi"
+"lanciare una boccia"
+*[[vaso]]
+* [[bolla]], [[sfera]]
+*[[palla]]
+M>bozza</E
+M>fiorentina</E
+M>gioco delle bocce</E
+M>boccino</E
+M>giocare a bocce</E
+M>una partita a bocce</E
+M>di bocce</E
+M>campo di bocce</E
+M>discutere</E
+M>riparlare di qualche cosa a bocce ferme</E
+M>boccio</E
+M>bocciolo</E
+M>come il fiore già rigoglioso sullo stelo cade insieme col fiorellino ancora in b</E
+M>al passar della falce che pareggia tutte l’erbe del prato</E
+M>cose che fanno girar la boccia</E

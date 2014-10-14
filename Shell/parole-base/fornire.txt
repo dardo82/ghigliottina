@@ -1,0 +1,62 @@
+fornire.txt
+"dare lavoro; fornire un lavoro a qcn."
+"fornire"
+"fornire"
+"fornire"
+"fornire alloggio"
+"fornire assistenza"
+"fornire competenze"
+"fornire con eccesso"
+"fornire corrente elettrica"
+"fornire cure mediche"
+"fornire del denaro"
+"fornire dettagli"
+"fornire dettagli a"
+"fornire informazioni"
+"fornire la documentazione"
+"fornire le generalità"
+"fornire le informazioni necessarie"
+"fornire prove"
+"fornire prove"
+"fornire servizio"
+"fornire servizio"
+"fornire una soluzione"
+"fornire una spiegazione"
+"teoria sul fatto di fornire un servizio lungo una coda d'attesa"
+#*'' dopo la separazione dovette fornire gli alimenti alla moglie''
+*[[equipaggiare]], [[attrezzare]], [[munire]], [[corredare]], [[procurare]], [[dare]], [[offrire]], [[provvedere]]
+*[[privare]], [[togliere]], [[negare]]
+*[[fornirsi]], [[fornitore]], [[fornitura]],[[rifornire]] 
+M>fournir</E
+M>fornir</E
+M>*frumjan</E
+M>frummian</E
+M>io fornisco</E
+M>tu fornisci</E
+M>e l’amico fornì la richiesta del romito</E
+M>Novellino</E
+M>la mano</E
+M>quello officio adempie Che non si può fornir per la veduta</E
+M>la promessa</E
+M>La mia favola breve è già compita</E
+M>E fornito il mio tempo a mezzo gli anni</E
+M>s’adopra Di fornir l’opra anzi il chiarir dell’alba</E
+M>materiali</E
+M>armi</E
+M>munizioni</E
+M>argomenti</E
+M>notizie</E
+M>garanzie</E
+M>assicurazioni</E
+M>gli fornii quanto mi aveva richiesto</E
+M>uno di denaro</E
+M>di mezzi di sussistenza</E
+M>la città di viveri</E
+M>la centrale che fornisce di energia elettrica la zona</E
+M>fornirsi dell’occorrente</E
+M>fornirsi di legna per l’inverno</E
+M>la ditta si fornisce direttamente alla fabbrica</E
+M>fornirsi di coraggio</E
+M>di pazienza</E
+M>armarsi</E
+M>munirsi</E

@@ -1,0 +1,75 @@
+restituire.txt
+"da restituire"
+"l'atto di restituire; di ripagare"
+"restituire"
+"restituire"
+"restituire"
+"restituire il maltolto, restituire il mal tolto"
+"restituire un prestito"
+"restituire; ripagare"
+* [[rendere]], [[contraccambiare]], [[rispedire]], [[rimborsare]], [[ridare]],  [[ristorare]], [[ripristinare]]
+*[[restituibile]]. [[restitutore]], [[restituzione]]
+M>restitu</E
+M>statu</E
+M>io restituisco</E
+M>tu restituisci</E
+M>rendere</E
+M>una somma di denaro</E
+M>una macchina</E
+M>una bicicletta</E
+M>un deposito</E
+M>un documento</E
+M>un regalo</E
+M>l&#8217;anello di fidanzamento</E
+M>il maltolto</E
+M>il denaro sottratto</E
+M>la parola</E
+M>rendere</E
+M>le forze</E
+M>la salute</E
+M>il figlio al padre</E
+M>la pace</E
+M>la tranquillità</E
+M>la serenità</E
+M>a un paese la sua libertà</E
+M>l&#8217;antico benessere</E
+M>uno alla famiglia</E
+M>alla vita</E
+M>agli studî</E
+M>un favore</E
+M>un servizio</E
+M>una cortesia</E
+M>uno schiaffo</E
+M>un colpo</E
+M>un insulto</E
+M>la visita</E
+M>il saluto</E
+M>ha restituito tutto quello che aveva mangiato a cena</E
+M>il governo ha restituito la disciplina</E
+M>il rispetto delle leggi nel paese</E
+M>uno nel proprio grado</E
+M>nell&#8217;antica carica</E
+M>nei suoi diritti</E
+M>al proprio grado</E
+M>un testo</E
+M>un dipinto</E
+M>nella forma originaria</E
+M>nell&#8217;antico</E
+M>all&#8217;antico</E
+M>splendore</E
+M>nell&#8217;antica grandezza</E
+M>restituirsi in una città</E
+M>in patria</E
+M>in famiglia</E
+M>dopo circa sei settimane di villeggiatura con mia sorella</E
+M>restituendosi ella in città</E
+M>tornai in Torino con essa</E
+M>restituirsi agli studî</E
+M>alla vita meditativa</E
+M>alla propria professione</E
+M>il cuoio</E
+M>la reale forma di un oggetto</E
+M>registrare la somma restituita</E
+M>materiali restituiti</E
+M>cuoio restituito</E
+M>fibre restituite</E

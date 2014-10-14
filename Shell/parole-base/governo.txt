@@ -1,0 +1,181 @@
+governo.txt
+"al governo"
+"archivi di governo"
+"caduta del governo"
+"cambiare sistema di governo"
+"con sussidio del governo"
+"del governo"
+"del governo mondiale"
+"deputato in Parlamento che non fa parte del governo"
+"detto del governo: dissolvere il parlamento e andare alle elezioni"
+"di proprietà del governo"
+"forma di governo"
+"governo"
+"governo"
+"governo"
+"governo"
+"governo"
+"governo coloniale"
+"governo costituzionale"
+"governo del popolo (frase di A. Lincoln)"
+"governo delle acque"
+"governo di coalizione"
+"governo di ricchi"
+"governo fantoccio"
+"governo fantoccio"
+"governo federale"
+"governo in esilio"
+"governo legittimo"
+"governo militare"
+"governo mondiale"
+"governo ombra"
+"governo fittizio dell'opposizione"
+"governo parlamentare"
+"governo politico"
+"governo provvisorio"
+"governo rappresentativo"
+"governo salvifico"
+"governo totalitario"
+"le redini del governo"
+"Ministro delle Finanze nel governo britannico"
+"organi di governo"
+"palazzo del governo"
+"rappresentante del Governo Britannico"
+"relazione preliminare del governo"
+"sede del governo"
+"seggio del governo"
+"sistema di governo"
+"titoli di stato garantiti dal governo U.S.A."
+"titolo di stato garantito dal governo U.S.A."
+#*'''governo ombra'''
+#*'''governo tecnico'''
+*[[direzione]], [[guida]], [[comando]], [[controllo]], [[conduzione]]
+*[[potere]], [[autorità]]; [[amministrazione]], [[gestione]]; [[direzione]], [[dirigenza]], [[presidenza]]
+*''(istituzione dello stato)'' regime politico, pubblici poteri; potere esecutivo; consiglio dei ministri, [[gabinetto]], [[esecutivo]]
+*''(guida di persone, cose, animali)'' [[assistenza]], [[cura]], [[sorveglianza]]
+*''(di un'impresa, della casa)'' [[gestione]], [[direzione]], [[amministrazione]]  
+*''piove, 
+*[[governatorato]], [[autogoverno]]
+*[[reggenza]]
+M>rnum</E
+M>governare</E
+M>barca</E
+M>Disarmata di vele e di governo</E
+M>Sotto ’l g</E
+M>d’un sol galeoto</E
+M>essendosi gravemente ammalato il capitano</E
+M>il g</E
+M>del veliero fu assunto dal nostromo</E
+M>il g</E
+M>di una macchina</E
+M>di un aeromobile</E
+M>di un veicolo</E
+M>di un popolo</E
+M>di uno stato</E
+M>di un territorio</E
+M>Arrighetto</E
+M>avendo il g</E
+M>dell’isola nelle mani</E
+M>il g</E
+M>di sé stessi</E
+M>il papa ha il g</E
+M>della Chiesa</E
+M>Perché</E
+M>vedendo ove bisogno sia</E
+M>Guida e governo ad ogni schiera dia</E
+M>durante l’assenza della mamma</E
+M>il g</E
+M>della casa era affidato alla zia</E
+M>il g</E
+M>dei figli</E
+M>donna di g</E
+M>il g</E
+M>dei polli</E
+M>dei buoi</E
+M>dei cavalli</E
+M>di campagna</E
+M>lo sterco caprino è un buon g</E
+M>per gli ulivi</E
+M>del vino</E
+M>Liquido di governo</E
+M>olio di g</E
+M>dei forni</E
+M>dei fuochi</E
+M>avere</E
+M>tenere</E
+M>assumere</E
+M>affidare il g</E
+M>stare al g</E
+M>l’arte</E
+M>la scienza del g</E
+M>uomini di g</E
+M>locale</E
+M>fare buon g</E
+M>cattivo g</E
+M>i tristi effetti del mal g</E
+M>forte</E
+M>debole</E
+M>il g</E
+M>italiano</E
+M>polacco</E
+M>costituire</E
+M>formare il g</E
+M>rovesciare</E
+M>far cadere il g</E
+M>una crisi di g</E
+M>le dimissioni del g</E
+M>atti</E
+M>decreti del g</E
+M>il capo del g</E
+M>gli uomini del g</E
+M>prendersela col g</E
+M>ladro!</E
+M>piove</E
+M>governo ladro!</E
+M>il governo Giolitti</E
+M>il governo De Gasperi</E
+M>servire il g</E
+M>mangiare il pane del g</E
+M>Palazzo del g</E
+M>assoluto</E
+M>costituzionale</E
+M>monarchico</E
+M>repubblicano</E
+M>democratico</E
+M>demagogico</E
+M>aristocratico</E
+M>oligarchico</E
+M>totalitario</E
+M>dispotico</E
+M>teocratico</E
+M>militare</E
+M>patriarcale</E
+M>legittimo</E
+M>legale</E
+M>illegittimo</E
+M>rivoluzionario</E
+M>provvisorio</E
+M>fantasma</E
+M>fantoccio</E
+M>ombra</E
+M>shadow cabinet</E
+M>lungo</E
+M>breve</E
+M>durante il g</E
+M>di Cavour</E
+M>g. istituzionale</E
+M>estivo</E
+M>balneare</E
+M>g. tecnico</E
+M>ponte</E
+M>i g</E
+M>governatorati</E
+M>della Russia zarista</E
+M>per mio</E
+M>per vostro g</E
+M>per tua regola e governo</E
+M>fare pessimo g</E
+M>di una città</E
+M>Tu te ne porti di costui l’etterno</E
+M>Per una lagrimetta che ’l mi toglie; Ma io farò de l’altro</E
+M>altro governo!</E

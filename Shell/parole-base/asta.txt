@@ -1,0 +1,102 @@
+asta.txt
+"a mezz'asta"
+"a mezz'asta"
+"all'asta"
+"all'asta"
+"all'asta"
+"all'asta"
+"asta"
+"asta"
+"asta"
+"asta"
+"asta al ribasso"
+"asta della bandiera"
+"asta della tenda"
+"asta flessibile"
+"asta lunga"
+"asta pubblica"
+"comprare all'asta"
+"da saltatore d'asta"
+"di salto con l'asta"
+"fare offerte in un'asta"
+"mettere all'asta"
+"mettere all'asta"
+"prezzo di aggiudicazione (quando il giudice dichiara chiusa l'asta con un colpo di martello)"
+"sala d'asta"
+"saltatore con l'asta"
+"salto con l'asta"
+"salto con l'asta"
+"vendere all'asta"
+"vendere all'asta"
+"vendita all'asta"
+*[[barra]], [[pertica]], [[sbarra]];
+*''(degli occhiali)''  [[stanghetta]] 
+*''(di una lettera alfabetica)'' [[lineetta]], [[linea]], [[tratto]] 
+*[[astilla]],[[astillero]]
+*italiano
+*spagnolo
+*romeno
+M>hasta</E
+M>l’a</E
+M>della bandiera</E
+M>bandiera a mezz’a</E
+M>del tram</E
+M>le a</E
+M>del filobus</E
+M>lancia</E
+M>Rupper l’aste su gli elmi</E
+M>e volar mille E tronchi e scheggie e lucide faville</E
+M>Eccovi</E
+M>figli</E
+M>l’aste</E
+M>ecco le spade</E
+M>Morrete per la nostra libertà</E
+M>arma in asta</E
+M>salto con l’asta</E
+M>stanga</E
+M>della doppietta</E
+M>del fucile</E
+M>aste degli occhiali</E
+M>della penna</E
+M>asticciola</E
+M>asticciuola</E
+M>della stadera</E
+M>di un sistema articolato</E
+M>di comando</E
+M>barra</E
+M>dentata</E
+M>dentiera</E
+M>cremagliera</E
+M>di trazione</E
+M>di manovra</E
+M>di fonte</E
+M>di controfiocco</E
+M>di fiocco</E
+M>di posta</E
+M>della randa</E
+M>le aste</E
+M>di una lettera</E
+M>della p</E
+M>della h</E
+M>superiore</E
+M>ascendente</E
+M>inferiore</E
+M>discendente</E
+M>asta</E
+M>forza d’a.</E
+M>toni</E
+M>sub hasta vend</E
+M>fallimentare</E
+M>vendere</E
+M>mettere all’a</E
+M>comprare</E
+M>acquistare a un’a</E
+M>diritto d’a</E
+M>al ribasso</E
+M>pubblica</E
+M>a. pura</E
+M>competitiva</E
+M>a. marginale</E
+M>regia</E
+M>asfodelo</E
+M>asticella trasversale</E

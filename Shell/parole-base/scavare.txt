@@ -1,0 +1,47 @@
+scavare.txt
+"scavare"
+"scavare"
+"scavare"
+"scavare a fondo"
+"scavare col muso"
+"scavare da sotto"
+"scavare trincee; mangiare con avidità"
+"scavare un solco nel terreno"
+"scavare un solco tra"
+"scavare, conficcare, incidere"
+"scavare, incavare"
+#* ''lo psicologo ha '''scavato''' nel passato dell'assassino''
+*''(idee, storie ecc.)'' [[rintracciare]], [[riscoprire]], [[ripescare]], [[escogitare]], [[trovare]], [[scovare]], [[inventare]]
+* ''
+*''Mario non ha capito che sfidando il capo si sta '''scavando''' la fossa''
+M>excavare</E
+M>cavare</E
+M>s. il terreno per piantarvi un albero</E
+M>la corrente ha scavato la sponda destra del fiume</E
+M>stanno scavando in giardino</E
+M>scavano per la metropolitana</E
+M>s. un fosso</E
+M>una buca</E
+M>un fossato</E
+M>un canale</E
+M>un pozzo</E
+M>una trincea</E
+M>scavarsi la fossa con le proprie mani</E
+M>s. un minerale</E
+M>s. un tesoro</E
+M>s. monete antiche</E
+M>un prezioso vaso etrusco</E
+M>hanno terminato di s. nel foro</E
+M>s. un tronco d&#8217;albero per farne una canoa</E
+M>s. il collo</E
+M>le maniche</E
+M>scava scava</E
+M> la verità è venuta fuori</E
+M>sembra superbo</E
+M> ma se scavi un po&#8217; vedi che è solo timidezza</E
+M>non conviene a nessuno andare a s. questa vecchia storia.</E
+M>rive scavate dall&#8217;acqua del torrente</E
+M>un camminamento scavato nella roccia</E
+M>essere scavato in volto</E
+M>avere il volto scavato</E
+M>occhi scavati</E

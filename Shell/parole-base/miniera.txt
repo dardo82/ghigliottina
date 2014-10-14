@@ -1,0 +1,44 @@
+miniera.txt
+"miniera"
+"miniera"
+"miniera d'argento"
+"miniera d'oro"
+"miniera d'oro"
+"miniera di carbone"
+"miniera di carbone"
+"miniera di carbone"
+"miniera di informazioni"
+"miniera di piombo"
+"miniera di rame"
+"miniera di zolfo"
+"miniera o cava"
+"relativo a miniera d'oro"
+"stanza del tesoro, miniera"
+"struttura in cui è collocato il castelletto di una miniera"
+#*''lui è una 
+*[[minerario]]
+M>minière</E
+M>mine</E
+M>cava</E
+M>pozzo</E
+M>campo</E
+M>di minerali metalliferi</E
+M>di carbon fossile</E
+M>di ferro</E
+M>di zolfo</E
+M>di salgemma</E
+M>di diamanti</E
+M>l’ingresso</E
+M>i pozzi</E
+M>le gallerie di una m</E
+M>esplorare</E
+M>sfruttare una m</E
+M>coltivazione di una m</E
+M>quest’opera è una m</E
+M>di notizie utilissime</E
+M>è un uomo di molto spirito e una m</E
+M>inesauribile di barzellette</E
+M> quella ragazza è una m. d’idee</E
+M>acque povere</E
+M>ricche</E
+M>di miniera</E

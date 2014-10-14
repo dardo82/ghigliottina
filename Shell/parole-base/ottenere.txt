@@ -1,0 +1,102 @@
+ottenere.txt
+"ambire a, sforzarsi di ottenere, lottare per"
+"avere; ottenere pubblicità"
+"cercare di ottenere"
+"che si può ottenere"
+"che spende denaro in un area per ottenere il consenso popolare in vista delle votazioni"
+"far crescere da; ottenere da"
+"macinato, schiacciato fino a ottenere una superficie concava"
+"ottenere"
+"ottenere"
+"ottenere accesso a"
+"ottenere con fatica"
+"ottenere di più"
+"ottenere giustizia"
+"ottenere gratuitamente"
+"ottenere gratuitamente"
+"ottenere i risultati"
+"ottenere il benestare"
+"ottenere il divorzio"
+"ottenere il meglio di"
+"ottenere il meglio di"
+"ottenere il risultato sperato"
+"ottenere il vantaggio di"
+"ottenere l'accesso"
+"ottenere l'accesso a; essere ammesso a"
+"ottenere la parola (alla camera; in una riunione; ecc.)"
+"ottenere le informazioni richieste"
+"ottenere più voti"
+"ottenere profitto"
+"ottenere qcs gratuitamente, ricevere qcs gratuitamente"
+"ottenere qcs in omaggio, ricevere qcs in omaggio"
+"ottenere soddisfazione"
+"ottenere un diploma"
+"ottenere un lavoro"
+"ottenere un prestito"
+"ottenere un'entrata; un reddito"
+"ottenere una reazione da qcn."
+"ottenere una risposta; una reazione da qcn.; di solito arrabbiata o ironica"
+"ottenere una vittoria"
+"ottenere; avere una risposta"
+"periodo di mercato in cui per gli assicurati è difficile ottenere copertura di rischi e i premi sono"
+"usare la propria influenza per ottenere qcs"
+#*'''''Ha ottenuto''' una promozione''
+#*''Spremendo le olive '''si ottiene''' dell'olio''
+*[[ricavare]], [[trarre]]
+M>obtinere</E
+M>tenere</E
+M>tenere</E
+M>un premio</E
+M>la vittoria</E
+M>il diploma</E
+M>la laurea</E
+M>un impiego</E
+M>una cattedra</E
+M>un incarico di fiducia</E
+M>un riconoscimento</E
+M>un permesso</E
+M>una proroga</E
+M>una breve licenza</E
+M>un finanziamento dalla banca</E
+M>giustizia</E
+M>il perdono</E
+M>la grazia</E
+M>una grazia</E
+M>possibile che non si possa o</E
+M>un po’ di silenzio?</E
+M>la mano di una ragazza</E
+M>in sposa</E
+M>in moglie una ragazza</E
+M>non è cosa facile da o</E
+M>non sempre si può o</E
+M>tutto ciò che si vuole</E
+M>spesso si ottiene più con la dolcezza che con la forza</E
+M>ho ottenuto di poter prolungare le ferie di una settimana</E
+M>che</E
+M>che il regolamento sia rispettato</E
+M>chiedi e otterrai</E
+M>chi vuole ottiene</E
+M>qualcosa a qualcuno</E
+M>è stato lui che mi ha ottenuto questo posto</E
+M>gli parlerò io e cercherò di ottenerti uno sconto sul prezzo d’acquisto</E
+M>gli ho scritto più volte ma non ho ottenuto risposta</E
+M>qualche vantaggio sull’avversario</E
+M>l’approvazione</E
+M>il consenso unanime</E
+M>la commedia ha ottenuto grande successo</E
+M>le mie parole non hanno ottenuto l’effetto sperato</E
+M>è una cura con cui si ottengono ottimi risultati</E
+M>ecco ciò che si ottiene a non dare ascolto ai consigli</E
+M>che cosa hai ottenuto con la tua remissività?</E
+M>con la sua cocciutaggine</E
+M>ha ottenuto solo di peggiorare la situazione</E
+M>combinando l’idrogeno con l’ossigeno si ottiene l’acqua</E
+M>la potassa si ottiene dalle ceneri</E
+M>filato ottenuto sinteticamente</E
+M>se sottraggo 9 da 15 ottengo 6</E
+M>con gli incroci si ottengono razze selezionate</E
+M>l’impero</E
+M>il comando</E
+M>riportò più fiere maledizioni e più grave odio da coloro in che egli ottenne maggiore imperio</E
+M>Con questi et altri più efficaci detti Fece Sobrin sì</E
+M>che ’l partito ottenne</E

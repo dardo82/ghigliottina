@@ -1,0 +1,117 @@
+genere.txt
+"albero genere Plantago"
+"di ogni genere"
+"e cose del genere"
+"fienarola, stato del Kentucky, genere di musica country americana"
+"genere"
+"genere"
+"genere"
+"genere"
+"genere"
+"genere"
+"genere, generi"
+"genere di cosa"
+"genere di gioco del Bridge"
+"genere di prosa"
+"genere femminile"
+"genere grammaticale"
+"genere maschile"
+"genere musicale"
+"genere neutro"
+"genere umano"
+"hard-boiled (genere cinematografico)"
+"hard-boiled (genere cinematografico)"
+"il blues (genere musicale)"
+"in genere"
+"niente del genere"
+"niente del genere"
+"ogni genere"
+"qualcosa del genere"
+"uccello del genere sialia"
+#* '''''genere''' alimentare'', '''''generi''' di largo consumo''
+#* in [[italiano]] i '''generi''' dei [[sostantivo|sostantivi]] sono [[maschile]] e [[femminile]]; alcuni [[aggettivo|aggettivi]] sono di '''genere''' [[comune]], cioè si accordano con la stessa [[forma]] al maschile e al femminile, come ad esempio [[piacevole]]
+#* esistono lingue con circa una decina di '''generi''' come le lingue [[bantu]] e lingue completamente senza '''genere''' come le lingue [[ugro-finniche]]
+*[[tipo]], [[varietà]], [[qualità]], [[natura]], [[serie]], [[gamma]], [[sorta]]
+*idea generale, [[categoria]]
+*''(di persone, animali, cose)''  [[tipo]], [[specie]], [[razza]], [[categoria]], [[classe]], [[ordine]] 
+*[[generalità]], [[totalità]], [[insieme]]
+*[[tribunale di genere]],  [[congenere]], [[degenere]], [[generale]],  [[generare]], [[generico]],  [[generoso]]
+*''del genere''
+M>genus</E
+M>ris</E
+M>gign</E
+M>specie</E
+M>prossimo</E
+M>remoto</E
+M>di una curva algebrica</E
+M>aritmetico</E
+M>geometrico</E
+M>superficiale</E
+M>qualità</E
+M>sorta</E
+M>tipo</E
+M>specie</E
+M>è un g</E
+M>di vita che mi piace</E
+M>frequentare persone d’ogni g</E
+M>uno scherzo di cattivo g</E
+M>non è questo il g</E
+M>di spettacolo che fa per me</E
+M>cosa di nuovo g</E
+M>d’un g</E
+M>tutto suo</E
+M>cosa bella</E
+M>buona</E
+M>perfetta nel suo g</E
+M>del g</E
+M>si è parlato di cinema</E
+M>di sport e di altre cose del g</E
+M>del mio</E
+M>tuo</E
+M>nostro</E
+M>è una persona del mio g</E
+M>non è un lavoro del suo genere</E
+M>il g</E
+M>umano</E
+M>la specie umana</E
+M>specie</E
+M>in genere</E
+M>in generale</E
+M>alimentari</E
+M>generi di consumo</E
+M>di prima necessità</E
+M>generi di lusso</E
+M>voluttuarî</E
+M>generi</E
+M>letterarî</E
+M>drammatico</E
+M>narrativo</E
+M>epico</E
+M>didascalico</E
+M>lirico</E
+M>deliberativo</E
+M>giudiziale</E
+M>dimostrativo</E
+M>epidittico</E
+M>g. di linguaggio</E
+M>genera elocutionis</E
+M>g. tenue</E
+M>umile</E
+M>g. medio</E
+M>g. sublime</E
+M>strumentale</E
+M>vocale</E
+M>vocale</E
+M>strumentale</E
+M>teatrale</E
+M>sacro</E
+M>profano</E
+M>identità di genere</E
+M>del verbo</E
+M>transitivo</E
+M>intransitivo</E
+M>Pittura di genere</E
+M>quadro</E
+M>quadretto di g</E
+M>quadro</E
+M>quadretto di g</E

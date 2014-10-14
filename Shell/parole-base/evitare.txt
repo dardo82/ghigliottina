@@ -1,0 +1,62 @@
+evitare.txt
+"difficile da evitare"
+"evadere, evitare"
+"evitare"
+"evitare"
+"evitare"
+"evitare"
+"evitare, replace: evitarsi"
+"evitare di"
+"evitare di"
+"evitare gli eccessi"
+"evitare i propri doveri; oziare"
+"evitare inutili giri di parole"
+"evitare qc a qn"
+"evitare qcs. di spiacevole"
+"evitare qlc."
+"evitare un compito, una domanda, ecc."
+"evitare una responsabilità"
+"evitare una situazione; aggirare una situazione"
+"evitare, ignorare"
+"evitare, respingere"
+"fuggire; evitare una punizione"
+"gettarsi a terra (per evitare un pericolo)"
+"l'evitare i propri doveri; fare lo scansafatiche"
+"rallentamento della crescita economica per evitare inflazione"
+*[[schivare]], [[eludere]], [[ sottrarsi]]
+*[[affrontare]], [[fronteggiare]],  [[incappare]]
+*[[evitazione]]
+M>evitare</E
+M>vitare</E
+M>io èvito</E
+M>evìto</E
+M>noie</E
+M>guai</E
+M>fastidî</E
+M>un ostacolo</E
+M>un incontro spiacevole</E
+M>devi e</E
+M>qualsiasi fatica</E
+M>cerca di e</E
+M>le correnti d’aria</E
+M>gli alcolici</E
+M>i cibi piccanti</E
+M>sarà meglio e</E
+M>discussioni inutili</E
+M>ho solo per un caso evitato uno scontro</E
+M>un investimento</E
+M>una persona</E
+M>gli sguardi di qualcuno</E
+M>i cattivi compagni</E
+M>le cattive compagnie</E
+M>di fumare</E
+M>di bere</E
+M>di sudare</E
+M>vorrei e</E
+M>di fare una brutta figura</E
+M>ho evitato per miracolo di finire sotto le ruote dell’autobus</E
+M>che</E
+M> vorrei evitare che si ripetesse quanto già accaduto</E
+M>ti ho evitato una seccatura</E
+M>èvitami questo dispiacere</E
+M>devi evitarti qualsiasi emozione</E

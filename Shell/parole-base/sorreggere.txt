@@ -1,0 +1,19 @@
+sorreggere.txt
+"sorreggere"
+#* ''è il tronco che '''sorregge''' i rami''
+#* ''mi '''sorregge''' con i suoi consigli''
+*[[reggere]], [[sostenere]], [[puntellare]], [[sollevare]], [[portare]], [[tenere]]
+*[[danneggiare]], [[ostacolare]], [[intralciare]]
+*[[sorreggimento]], [[sorreggersi]]
+M>so-</E
+M>reggere</E
+M>surrig</E
+M>reggere</E
+M>la tettoia è sorretta da quattro pilastri in cemento armato</E
+M>queste due staffe sono troppo leggere per s. la libreria</E
+M>se non mi avesse sorretto il mio amico</E
+M> sarei caduto</E
+M>mi ha sempre sorretto con i suoi consigli</E
+M>mi sorregge la speranza che tutto finisca presto</E
+M>sopportava con pazienza la malattia</E
+M> perché sorretto dalla fede</E

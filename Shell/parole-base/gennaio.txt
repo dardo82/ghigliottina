@@ -1,0 +1,11 @@
+gennaio.txt
+"gennaio"
+"periodo natalizio: 24 dicembre - 6 gennaio"
+#*''il 18 gennaio 1871 Berlino fu proclamata capitale della Germania'' 
+* [[anno]], [[mese]], [[settimana]], [[giorno]], [[febbraio]], [[marzo]], [[aprile]], [[maggio]], [[giugno]], [[luglio]], [[agosto]], [[settembre]], [[ottobre]], [[novembre]], [[dicembre]]
+*''(antico)'' [[gennaro]]
+*Enciclopedia [http
+M>mensis</E
+M>Ianuarius</E
+M>Ienuarius</E
+M>Ianus</E

@@ -1,0 +1,23 @@
+elica.txt
+"a doppia elica"
+"double-helical"
+"doppia elica"
+"elica"
+"elica"
+"elica antibrina"
+"elica di prua"
+"punta a elica"
+*[[elicato]]
+*[[nave]], [[aeroplano]], [[elicottero]]
+M>helix</E
+M>cis</E
+M>rigatura ad e</E
+M>circolare</E
+M>asse dell’e</E
+M>raggio dell’e</E
+M>passo dell’e.</E
+M>trasversale</E
+M>di manovra</E
+M>timone</E
+M>doppia elica</E
+M>elica</E

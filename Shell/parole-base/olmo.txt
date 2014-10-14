@@ -1,0 +1,27 @@
+olmo.txt
+"corteccia dell'olmo"
+"malattia dell'olmo"
+"olmo"
+"olmo"
+"legno dell'olmo"
+*[[olmo siberiano]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier pagina 1389
+M>lmus</E
+M>minore</E
+M>comune</E
+M>campestre</E
+M>Ulmus minor</E
+M>campestris</E
+M>carpinifolia</E
+M>montano</E
+M>riccio</E
+M>Ulmus glabra</E
+M>montana</E
+M>siberiano</E
+M>Ulmus pumilia</E
+M>Olmo della Virginia</E
+M>Celtis occidentalis</E
+M>lasciare</E
+M>rimanere olmo</E
+M>all’olmo</E
+M>andare olmo</E

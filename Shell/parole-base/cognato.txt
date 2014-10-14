@@ -1,0 +1,10 @@
+cognato.txt
+"cognato"
+*italiano
+M>cognatus</E
+M>gnatus</E
+M>natus</E
+M>nasci</E
+M>Cognati petti il vincitor calpesta</E
+M>de’ c</E
+M>e de i dispersi miti Per la selva d’Europa indagatore</E

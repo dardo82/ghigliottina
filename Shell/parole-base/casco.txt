@@ -1,0 +1,7 @@
+casco.txt
+"casco"
+"casco"
+"casco"
+*[[elmo]],  [[elmetto]], [[copricapo]]
+*''(di parrucchiere)'' [[asciugacapelli]]
+*italiano

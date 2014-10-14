@@ -1,0 +1,35 @@
+originario.txt
+"ambiente originario"
+"cognome originario"
+"importo originario"
+"originario"
+"originario"
+"primo, iniziale, originario"
+"tessuto originario"
+* [[antico]],  [[arcaico]], [[autoctono]],  [[fondamentale]],  [[indigeno]],  [[iniziale]],  [[locale]],  [[natale]],  [[natio]], [[nativo]],  [[originale]],  [[oriundo]],  [[primario]],  [[primigenio]],  [[primitivo]],  [[primo]],  [[primordiale]],  [[proveniente]]
+M>originarius</E
+M>origo</E
+M>nis</E
+M>la pianta della patata è o</E
+M>dell’America Meridionale</E
+M>la sua famiglia è o</E
+M>della Val d’Aosta</E
+M>gli abitanti o</E
+M>di una città</E
+M>il paese o</E
+M>di una razza</E
+M>di un genere di animali</E
+M>di una pianta</E
+M>restituire all’o</E
+M>splendore</E
+M>il paese conserva tuttora la disposizione o</E
+M>delle vie</E
+M>derivato</E
+M>secondario</E
+M>la forma o</E
+M>il significato o</E
+M>di un vocabolo</E
+M>modo o</E
+M>di acquisto</E
+M>derivativo</E
+M>originariamente l’edificio aveva un’altra destinazione; la famiglia risiedeva originariamente in Piemonte</E

@@ -1,0 +1,44 @@
+ginnastica.txt
+"fare ginnastica"
+"ginnastica"
+"ginnastica"
+"ginnastica aerobica"
+"ginnastica artistica"
+"ginnastica dolce"
+"ginnastica posturale"
+"manubrio per ginnastica"
+"sbarra (ginnastica)"
+"scarpe da ginnastica"
+"scarpe da ginnastica"
+"scarpe da ginnastica in tela"
+"tuta da ginnastica"
+"tuta da ginnastica"
+"tuta da ginnastica"
+M>ars</E
+M>gymnast</E
+M>educazione fisica</E
+M>motoria</E
+M>naturale</E
+M>metodica ed elementare</E
+M>svedese</E
+M>da camera</E
+M>ritmica</E
+M>ritmica sportiva</E
+M>sportiva</E
+M>artistica</E
+M>attrezzistica</E
+M>medica</E
+M>correttiva</E
+M>aerobica</E
+M>fare g</E
+M>la g</E
+M>devi fare un po’ di g</E
+M>se vuoi mantenere la linea</E
+M>lezioni</E
+M>corso di g</E
+M>andare a g</E
+M>delle dita</E
+M>della mente</E
+M>del pensiero</E
+M>il calcolo a memoria è una buona g</E
+M>per la mente</E

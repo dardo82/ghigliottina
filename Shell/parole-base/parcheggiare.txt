@@ -1,0 +1,22 @@
+parcheggiare.txt
+"parcheggiare"
+"parcheggiare"
+"parcheggiare in doppia fila"
+"parcheggiare in seconda fila"
+M>parco</E
+M>parcare</E
+M>io parchéggio</E
+M>la macchina</E
+M>la moto</E
+M>il furgoncino</E
+M>non sono riuscito a trovare un posto dove poter parcheggiare</E
+M>non riesco a p</E
+M>l&#8217;auto in uno spazio così ristretto</E
+M>guida benino</E
+M>ma ha qualche difficoltà a parcheggiare</E
+M>accettiamo volentieri l&#8217;invito a cena</E
+M>se ci riesce di p</E
+M>i figli dai nonni</E
+M>ho parcheggiato la pratica in un cassetto</E
+M>lasciare l&#8217;auto parcheggiata in zona vietata</E
+M>generazione coccolata dal boom e parcheggiata nella crisi</E

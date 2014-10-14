@@ -1,0 +1,14 @@
+ventilatore.txt
+"ventilatore"
+"ventilatore"
+"ventilatore da soffitto"
+*[[sfiatatoio]], [[aeratore]]
+M>ventilare</E
+M>ventilator</E
+M>v. centrifughi</E
+M>radiali</E
+M>v. assiali</E
+M>soffianti</E
+M>compressore</E
+M>V. polmonare</E
+M>ventilatore</E

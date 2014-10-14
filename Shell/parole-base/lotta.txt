@@ -1,0 +1,136 @@
+lotta.txt
+"controllo del tiro; lotta antincendio"
+"essere in lotta, avere una vertenza aperta con"
+"in conflitto, in lotta"
+"in lotta"
+"in lotta"
+"istigare una lotta"
+"lotta"
+"lotta"
+"lotta"
+"lotta"
+"lotta al fuoco"
+"lotta clandestina"
+"lotta contro il tempo"
+"lotta contro qc"
+"lotta corpo a corpo"
+"lotta di civiltà"
+"lotta di classe"
+"lotta di galli"
+"lotta dura senza paura"
+"lotta libera"
+"lotta per"
+"lotta per"
+"lotta per la sopravvivenza"
+"lotta per la sopravvivenza"
+"lotta per qc"
+"lotta salariale"
+"lotta tra gang"
+"lotta tra la vita e la morte"
+#* c'era una grande 
+#*''la lotta fra batteri e virus ha un'importanza biologica fondamentale'' 
+*[[zuffa]]
+*[[lottare]], [[lottatore]] 
+M>cta</E
+M>greco</E
+M>romana</E
+M>libera</E
+M>giapponese</E
+M>esercizî</E
+M>gare</E
+M>spettacoli di l</E
+M>fare la l</E
+M>alla l</E
+M>vincere</E
+M>perdere la l</E
+M>nella l</E
+M>esercitarsi nella l</E
+M>addestrare il corpo alla l</E
+M>Ruggiero avea destrezza</E
+M>avea grande arte</E
+M>Era alla l</E
+M>esercitato molto</E
+M>E quivi insieme in torneamenti e in lotte Rendon le membra vigorose e dotte</E
+M>educare alla l</E
+M>essere esperto nella lotta</E
+M>gli agenti sostennero una dura l</E
+M>coi malviventi prima di poterli ridurre all’impotenza</E
+M>i due rivali impegnarono una l</E
+M>furibonda</E
+M>venire a l</E
+M>in l</E
+M>liberarsi</E
+M>svincolarsi dall’avversario</E
+M>cedere all’avversario dopo una lunga l</E
+M>viva</E
+M>dura</E
+M>accanita</E
+M>disperata</E
+M>uscire malconcio dalla l</E
+M>segni di l</E
+M>la l</E
+M>del cane col lupo</E
+M>una l</E
+M>fra la tigre e il serpente</E
+M>la l</E
+M>dei gladiatori con le belve nel circo</E
+M>i soldati occuparono le posizioni nemiche dopo una dura l</E
+M>la l</E
+M>fra i due eserciti fu aspra e sanguinosa</E
+M>senza quartiere</E
+M>di giganti</E
+M>la l</E
+M>clandestina</E
+M>la l</E
+M>delle formazioni partigiane</E
+M>armata</E
+M>politiche</E
+M>parlamentari</E
+M>la l</E
+M>dei partiti per la conquista del potere</E
+M>la l</E
+M>delle investiture</E
+M>sociali</E
+M>sindacali</E
+M>la l</E
+M>le l</E
+M>di classe</E
+M>le l</E
+M>per l’abolizione della schiavitù</E
+M>la l</E
+M>per l’autonomia delle minoranze</E
+M>la l</E
+M>per l’emancipazione della donna</E
+M>entrare</E
+M>scendere in lotta</E
+M>ad oltranza</E
+M>senza esclusione di colpi</E
+M>essere in lotta con la famiglia</E
+M>con i parenti</E
+M>con i proprî colleghi</E
+M>la l</E
+M>della nave contro la tempesta</E
+M>dei marinai contro le onde</E
+M>la l</E
+M>contro i tumori</E
+M>contro la droga</E
+M>contro l’alcolismo</E
+M>la l</E
+M>contro l’analfabetismo</E
+M>contro la corruzione</E
+M>contro il malcostume</E
+M>la l</E
+M>contro le tentazioni</E
+M>tra lo spirito e la carne</E
+M>delle passioni</E
+M>degli istinti</E
+M>essere in l</E
+M>con sé stesso</E
+M>due voglie diverse</E
+M>una in l</E
+M>con l’altra</E
+M>Lotta per la vita</E
+M>per l’esistenza</E
+M>struggle for life</E
+M>for existence</E
+M>l. biologica</E

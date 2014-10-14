@@ -1,0 +1,26 @@
+circondare.txt
+"circondare"
+"circondare"
+"circondare"
+"circondare, replace: circondarsi"
+"circondare con siepe"
+"circondare, accerchiare, cingere"
+"circondare; attorniare; racchiudere"
+#*'' 
+*[[accerchiare]], [[cingere]], [[attorniare]],  [[serrare]], [[stringere]], [[assediare]], [[delimitare]], [[contornare]] 
+M>circumd</E
+M>circum</E
+M>dare</E
+M>io circóndo</E
+M>la siepe che circonda l’orto</E
+M>il bel paese Ch’Appennin parte</E
+M>e ’l mar circonda e l’Alpe</E
+M>i soldati circondarono il campo di un fossato</E
+M>gli agenti avevano circondato la casa</E
+M>la maestra era circondata dagli alunni</E
+M>di attenzioni</E
+M>di cure</E
+M>di affetto</E
+M>colmare</E
+M>Circondarsi di</E
+M>circondarsi di collaboratori efficienti</E

@@ -1,0 +1,20 @@
+giuria.txt
+"banco della giuria"
+"giuria"
+"giuria che non riesce a raggiungere un verdetto"
+"giuria del processo"
+"giuria selezionata"
+"premio della giuria popolare"
+"processo con giuria"
+"processo con la giuria"
+*italiano
+*inglese
+M>giurì</E
+M>comporre</E
+M>nominare la g</E
+M>i membri della g</E
+M>la g</E
+M>ha emesso il suo verdetto</E
+M>Giuria dei consumatori</E
+M>panel</E
+M>di consumatori</E

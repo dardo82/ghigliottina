@@ -1,0 +1,11 @@
+assassinio.txt
+"assassinio"
+"assassinio indiretto"
+"atto di violenza; omicidio; assassinio"
+*[[assassinare]], [[assassino]]
+M>commettere un a</E
+M>macchiarsi di un a</E
+M>un brutale a</E
+M>rimasto impunito</E
+M>politico</E
+M>non si è trattato di un’esecuzione ma di un vero e proprio assassinio</E

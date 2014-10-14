@@ -1,0 +1,35 @@
+vitamina.txt
+"complesso della vitamina B"
+"vitamina"
+"vitamina A"
+"vitamina A"
+"vitamina B"
+"vitamina B1"
+"vitamina B12"
+"vitamina B2"
+"vitamina B6"
+"vitamina C"
+"vitamina D"
+"vitamina D3"
+"vitamina E"
+"vitamina H"
+"vitamina K"
+"vitamina K1"
+"vitamina P"
+* [[vitaminico]], [[vitaminizzare]]
+* [[retinolo]], [[tiamina]], [[riboflavina]], [[niacina]], [[piridossina]], [[biotina]], [[cobalamina]], [[tocoferolo]]
+* italiano
+*interlingua
+M>vitamine</E
+M>vitamin</E
+M>vita</E
+M>amine</E
+M>provitamine</E
+M>fattore A liposolubile</E
+M>fattore B idrosolubile</E
+M>Koagulation</E
+M>acido folico</E
+M>acido tioctico</E
+M>tiamina</E
+M>piridossina</E
+M>cobalamina</E

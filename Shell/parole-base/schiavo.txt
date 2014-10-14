@@ -1,0 +1,51 @@
+schiavo.txt
+"lavoro da schiavo"
+"schiavo"
+"schiavo"
+"schiavo"
+"schiavo"
+"schiavo affrancato, schiavo liberato"
+#*''In casa mio il fratello minore è 
+#*''Oramai è 
+*[[servo]], [[prigioniero]]
+M>sclavus</E
+M>slavus</E
+M>nell&#8217;antichità</E
+M> i prigionieri di guerra venivano uccisi o venduti come schiavi</E
+M>Spartaco</E
+M> con qualche migliaio di schiavi male armati</E
+M> tenne in scacco per mesi le legioni romane</E
+M>il commercio</E
+M>il traffico degli s.</E
+M>la tratta degli s.</E
+M>schiave bianche</E
+M>white slaves</E
+M>obbedire come uno s.</E
+M>vita da schiavi</E
+M>un popolo s.</E
+M>una nazione s. della dittatura</E
+M>non voglio essere s. di nessuno</E
+M>è sempre stata s. del padre</E
+M>un sindacato s. di un partito politico</E
+M>giovani s. del consumismo</E
+M>essere s. della droga</E
+M>dell&#8217;alcol</E
+M>del fumo</E
+M>del gioco</E
+M>essere s. delle convenienze sociali</E
+M>è ormai s. delle proprie abitudini</E
+M>persone s. dei loro pregiudizî.</E
+M>asservito</E
+M>grandezza s.</E
+M>libero</E
+M>franco</E
+M>s. di dazio</E
+M>di dogana</E
+M>s. d&#8217;imposta</E
+M>Amici</E
+M> vi sono schiavo</E
+M>s. suo</E
+M>s. vostra</E
+M>schiavo!</E
+M>Sì come neve tra le vive travi Per lo dosso d&#8217;Italia si congela</E
+M> Soffiata e stretta da li venti schiavi</E

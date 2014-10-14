@@ -1,0 +1,23 @@
+ammassare.txt
+"ammassare"
+"ammassare"
+"ammassare, replace: ammassarsi"
+"ammassare"
+"ammassare"
+"ammassare"
+"ammassare"
+"ammassare"
+"far entrare, ammassare (persone)"
+*[[raccogliere]], [[riunire]], [[accumulare]], [[ammucchiare]], [[accatastare]], [[ammonticchiare]], [[affastellare]], [[agglomerare]], [[stipare]]
+*[[disperdere]], [[disseminare]]
+*[[ammassarsi]]
+M>soldati</E
+M>mobili</E
+M>libri</E
+M>ricchezze</E
+M>beni</E
+M>viveri</E
+M>il grano</E
+M>si ammassarono tutti quanti nella piazza</E
+M>siamo troppo ammassati qui dentro</E
+M>grano ammassato</E

@@ -1,0 +1,21 @@
+trattativa.txt
+"trattativa"
+"trattativa con minaccia all'uso della forza"
+"trattativa privata"
+*[[negoziato]], [[contrattazione]], [[negoziazione]], [[mediazione]], [[patteggiamento]], [[mercanteggiamento]], [[approccio]], [[colloquio]], [[maneggio]], [[convenevoli]], [[preliminari]]
+M>essere in trattative per l&#8217;acquisto di una casa</E
+M>per la cessione di un&#8217;azienda</E
+M>una t. lunga</E
+M>laboriosa</E
+M>difficile</E
+M>t. diretta</E
+M>aprire</E
+M>proseguire</E
+M>interrompere una t.</E
+M>le t.</E
+M>le t. sono fallite</E
+M>t. privata</E
+M>t. internazionali</E
+M>t. sindacali</E
+M>economiche</E
+M>politiche</E

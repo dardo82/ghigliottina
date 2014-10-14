@@ -1,0 +1,54 @@
+fibra.txt
+"fibra"
+"fibra"
+"fibra"
+"fibra"
+"fibra al carbonio"
+"fibra di legno"
+"fibra di vetro"
+"fibra grezza"
+"fibra morale"
+"fibra muscolare"
+"fibra muscolare"
+"fibra naturale"
+"fibra naturale"
+"fibra nervosa"
+"fibra nervosa"
+"fibra ottica"
+*[[fibra ottica]], [[fibra sintetica]], [[fibrato]], [[fibrilla]], [[fibrina]], [[fibroadenoma]], [[fibroblasto]], [[fibrocellula]], [[fibrocemento]], [[fibrocita]], [[fibroide]], [[fibroina]], [[fibroma]], [[fibrosarcoma]], [[fibroscopio]], [[fibrosi]], [[fibroso]]
+M>fibra</E
+M>uomo di forte f</E
+M>di f</E
+M>robusta</E
+M>la sua fragile f</E
+M>non ha resistito alla violenza del male</E
+M>legno a f</E
+M>dolce</E
+M>tenace</E
+M>elastica</E
+M>le intime f</E
+M>le più riposte f</E
+M>dell’animo</E
+M>del cuore</E
+M>minerali</E
+M>fibre</E
+M>F. tessili</E
+M>naturali vegetali</E
+M>naturali animali</E
+M>artificiali</E
+M>semisintetiche</E
+M>sintetiche</E
+M>poliamidiche</E
+M>poliestere</E
+M>poliviniliche</E
+M>poliacriliche</E
+M>poliolefiniche</E
+M>cartone fibra</E
+M>fibra vulcanizzata</E
+M>Fibre di vetro</E
+M>ottica</E
+M>ottica a fibre</E
+M>fiber optics</E
+M>endoscopio a fibre ottiche</E
+M>fibroscopio</E
+M>fibroendoscopio</E

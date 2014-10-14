@@ -1,0 +1,37 @@
+telegrafo.txt
+"http://api.wordreference.com/12bee/json/iten/telegrafo/"
+*[[telegrafare]], [[telegrafia]]
+*[[telescrivente]]
+M>tele-</E
+M>-grafo</E
+M>télégraphe</E
+M>la storia del t.</E
+M>l&#8217;invenzione del t.</E
+M>t. ottico</E
+M>acustico</E
+M>t. universale</E
+M>pantelegrafo</E
+M>t. elettrico</E
+M>su filo</E
+M>t. radioelettrico</E
+M>senza fili.</E
+M>t. a braccia</E
+M>punto</E
+M>linea</E
+M>t. costiero</E
+M>t. di macchina</E
+M>l&#8217;invenzione del t.</E
+M>i fili</E
+M>i pali</E
+M>i cavi del t.</E
+M>il manipolatore</E
+M>il ricevitore del t.</E
+M>annunciare</E
+M>comunicare per t.</E
+M>con telegramma</E
+M>t. aereo</E
+M>t. sottomarino</E
+M>subacqueo</E
+M>gli impiegati del t.</E
+M>andare</E
+M>correre al telegrafo.</E

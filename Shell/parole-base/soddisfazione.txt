@@ -1,0 +1,58 @@
+soddisfazione.txt
+"con soddisfazione"
+"con una smorfia di soddisfazione"
+"dare completa totale soddisfazione (di cibo o bevande)"
+"dare soddisfazione"
+"dare soddisfazione"
+"grande soddisfazione"
+"ottenere soddisfazione"
+"per mia soddisfazione"
+"soddisfazione"
+"soddisfazione"
+"soddisfazione eccessiva"
+"soddisfazione totale"
+"stato di soddisfazione"
+#*''Questo mi dà una grande '''soddisfazione'''''
+*[[contentezza]], [[appagamento]], [[compiacimento]], [[compiacenza]], [[gradimento]], [[piacere]], [[benessere]], [[pienezza]], [[completezza]]
+*[[realizzazione]], [[compimento]], [[esecuzione]], [[adempimento]], [[assolvimento]]
+*''(di debito)'' [[pagamento]], [[saldo]], [[rimborso]], [[risarcimento]]; 
+*''(di richiesta)'' [[soddisfacimento]]
+*[[scontento]], [[scontentezza]], [[delusione]], [[amarezza]]
+*[[inadempienza]], [[inadempimento]], [[inosservanza]]
+*[[insoddisfazione]],   
+M>satisfactio -onis</E
+M>satisfac</E
+M>la s. di un desiderio</E
+M>di una necessità</E
+M>delle proprie ambizioni</E
+M>ha dovuto rinunciare alla s. delle sue legittime aspirazioni</E
+M>s. dei bisogni</E
+M>questo albergo non è di mia s.</E
+M>s. di un debito</E
+M>di vecchie pendenze</E
+M>venire a un accordo per la s. dei creditori</E
+M>s. dei proprî doveri</E
+M>dare</E
+M>chiedere</E
+M>ricevere s. di un&#8217;ingiuria</E
+M>di un&#8217;offesa</E
+M>s. internazionale</E
+M>s. sacramentale</E
+M>s. di opere</E
+M>s. dei peccati</E
+M>penitenza</E
+M>s. vicaria</E
+M>ho provato una gran s. nell&#8217;apprendere che è riuscito primo in quel concorso</E
+M>quel giovane pittore ha avuto la s. di essere invitato alla Biennale</E
+M>non gli voglio dare la s. di dichiararmi battuto</E
+M>mi devo prendere la s. di dirgli in faccia quel che penso di lui</E
+M>queste sono s. meschine!</E
+M>dammi</E
+M>lasciami</E
+M> almeno questa soddisfazione!</E
+M>non c&#8217;è s. a giocare con lui</E
+M> è un principiante!</E
+M>non so che s. ci sia a farmi arrabbiare!</E
+M>la vita gli ha dato molte s.</E
+M>i figli danno molti pensieri ma anche molte s.</E
+M>saper suonare bene il piano deve essere una gran soddisfazione</E

@@ -1,0 +1,31 @@
+insolente.txt
+"commento insolente"
+"insolente"
+"persona insolente"
+*[[arrogante]], [[irriverente]], [[impertinente]], [[impudente]]
+*[[insolenza]], [[insolentire]]
+M>ins</E
+M>lens</E
+M>entis</E
+M>solere</E
+M>la nobiltà</E
+M>sicura della sua forza</E
+M>era diventata i</E
+M>vincitori i</E
+M>verso le popolazioni dei territorî occupati</E
+M>soldataglia i</E
+M>un servitore i</E
+M>un monello i</E
+M>lei è un i</E
+M>mi ha bloccato un i. che non ha voluto spostare la macchina in seconda fila</E
+M>tenere un atteggiamento i</E
+M>parlare con tono i</E
+M>ha un modo di fare i</E
+M>mi ha scritto una lettera i</E
+M>dare una risposta insolente</E
+M>sei un insolentaccio!</E
+M>quell’insolentaccia merita proprio una bella lezione</E
+M>guardare</E
+M>interpellare</E
+M>rispondere insolentemente</E
+M>gli voltò insolentemente le spalle</E

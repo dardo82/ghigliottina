@@ -1,0 +1,167 @@
+riuscire.txt
+"brillare, riuscire bene"
+"cadere; non riuscire"
+"non riuscire"
+"non riuscire"
+"non riuscire a togliersi dalla testa"
+"non riuscire a togliersi dalla testa"
+"non riuscire a togliersi di dosso qc"
+"raggiungere qcn.; riuscire a comunicare con qcn."
+"riuscire"
+"riuscire"
+"riuscire"
+"riuscire"
+"riuscire"
+"riuscire a"
+"riuscire a"
+"riuscire a"
+"riuscire a"
+"riuscire a"
+"riuscire a scorgere"
+"riuscire a sentirsi a proprio agio in una nuova situazione"
+"riuscire intollerabile"
+"stentare a, riuscire con difficoltà a"
+*(in un’impresa) avere successo, [[ottenere]], [[conseguire]], [[farcela]], [[spuntarla]], [[vincere]], [[arrivare]]
+*(nel lavoro, nello studio, eccetera) essere capace, essere in grado, essere all’altezza, [[potere]]
+*(di strada, fiume, eccetera) [[sboccare]], [[giungere]], andare a finire, [[pervenire]]
+*uscire di nuovo, [[andarsene]]  
+*[[dimostrarsi]], [[sembrare]], [[apparire]], [[rivelarsi]]
+*avere esito
+*(in un impresa) [[fallire]]
+*(nel lavoro, nello studio, eccetera) essere incapace
+* [[rientrare]], [[rincasare]]
+*[[riuscita]], [[riuscito]], [[uscire]]
+*[[ritornare]]
+M>uscire</E
+M>uscire</E
+M>io rïèsco</E
+M>tu rïèsci</E
+M>essere</E
+M>è entrato in casa di corsa</E
+M>e ne è riuscito quasi subito</E
+M>devi r</E
+M>dopo cena?</E
+M>spero che riesca un po&#8217; di sole nel pomeriggio</E
+M>è riuscito il 29 sulla ruota di Napoli</E
+M>entrare</E
+M>il ladro deve essere entrato dalla porta ma riuscito dalla finestra sul giardino</E
+M>il proiettile</E
+M>penetrato nel petto</E
+M>è riuscito sotto la scapola sinistra</E
+M>E riuscì di dietro un braccio e piue Il brando</E
+M>è una strada che riesce proprio sulla piazza principale del paese</E
+M>il sentiero attraversa il bosco e riesce sul prato dietro l&#8217;albergo</E
+M>Così vid&#8217;io quella masnada fresca Lasciar lo canto</E
+M>e fuggir ver&#8217; la costa</E
+M>Com&#8217;om che va</E
+M>né sa dove rïesca</E
+M>E riusciro in un burrone ascoso Tra monti inaccessibili alle genti</E
+M>dopo un solito giro</E
+M>si riuscì alla strada Marina</E
+M>che allora attraversava lo spazio occupato ora dal giardin pubblico</E
+M>dove si riesce passando di qua?</E
+M>ero curioso di sentire dove volesse r</E
+M>con quel lungo preambolo</E
+M>essendo ciascuno della brigata della sua novella riuscito</E
+M>cominciò a cucire e a aspettare quello a che il fatto dovesse riuscire</E
+M>lo scherzo è riuscito bene</E
+M>la festa è riuscita male</E
+M>un matrimonio mal riuscito</E
+M>l&#8217;operazione è perfettamente riuscita</E
+M>tutti i tentativi riuscirono vani</E
+M>a effetto</E
+M>a buon fine</E
+M>tutti i miei sforzi non sono riusciti a nulla</E
+M>riuscire</E
+M>non riuscire</E
+M>l&#8217;esperimento è riuscito</E
+M>l&#8217;impresa rischia</E
+M>minaccia</E
+M>di non r</E
+M>il tentativo purtroppo non è riuscito</E
+M>l&#8217;azione è stata preparata con tanta cura che non può non riuscire</E
+M>utile</E
+M>efficace</E
+M>dannoso</E
+M>opportuno</E
+M>di molta utilità</E
+M>di grave danno</E
+M>il ritratto è riuscito somigliante</E
+M>la fotografia è riuscita un po&#8217; sfocata</E
+M>il quadro è riuscito una meraviglia</E
+M>tutto sommato</E
+M>è riuscito un ottimo spettacolo</E
+M>non tutte le ciambelle riescono col buco</E
+M>con la buona volontà si riesce sempre</E
+M>ho tentato ogni mezzo pur di r</E
+M>volevo levare il chiodo senza le tenaglie ma non ci sono riuscito</E
+M>devo r</E
+M>a spuntarla</E
+M>stavolta non credo che riuscirà a cavarsela</E
+M>per quanto si dimenasse</E
+M>non riusciva a liberarsi dalla stretta</E
+M>il cavallo non riuscì a saltare l&#8217;ostacolo</E
+M>il cane rincorse la lepre ma non riuscì a raggiungerla</E
+M>non riesco a leggere da questa distanza</E
+M>riesci a capirci qualche cosa?</E
+M>non riesco a studiare col baccano che fate</E
+M>non sono ancora riuscito a incontrarmi con lui</E
+M>è così grosso che non riesce a passare per la porta</E
+M>con le sue chiacchiere</E
+M>è riuscito solo ad annoiarmi</E
+M>riuscì soltanto a coprirsi di ridicolo</E
+M>mi riesce di fare</E
+M>non m&#8217;è riuscito di trovarlo</E
+M>ti è riuscito di convincerlo?</E
+M>non mi riesce di ricordare il suo nome</E
+M>guardate se vi riesce di stare un minuto zitti</E
+M>gli riuscì fatto di essere assegnato proprio lui a quel posto</E
+M>riuscì a ottenerlo</E
+M>mi riesce difficile esprimerlo</E
+M>non mi riesce facile</E
+M>ora</E
+M>fare un preventivo</E
+M>a lui riesce tutto</E
+M>pròvati</E
+M>se ti riesce</E
+M>è riuscito primo</E
+M>secondo</E
+M>è riuscito un ottimo avvocato</E
+M>un artista di valore</E
+M>il segreto per r</E
+M>non tutti riescono nella vita</E
+M>è un giovane che promette bene</E
+M>e riuscirà certamente</E
+M>bene</E
+M>è un giovane versatile</E
+M>e riesce in tutto ciò che fa</E
+M>è sempre riuscito bene nella matematica</E
+M>col tuo estro</E
+M>dovresti r</E
+M>bene</E
+M>nel disegno</E
+M>nella pittura</E
+M>nella musica non riesce proprio</E
+M>quell&#8217;uomo mi è sempre riuscito antipatico</E
+M>ogni sforzo mi riesce penoso</E
+M>le sue insistenze mi riescono moleste</E
+M>ciò che dici mi riesce nuovo</E
+M>il problema mi è riuscito facile</E
+M>è una faccia</E
+M>la sua</E
+M>che riesce subito simpatica</E
+M>la vostra visita mi riesce veramente gradita</E
+M>essere</E
+M>mi riesce di conforto sapere che</E
+M>spero che il lavoro riesca di tuo gradimento</E
+M>un lavoro ben riuscito</E
+M>un&#8217;impresa riuscita</E
+M>un romanzo</E
+M>un film</E
+M>uno spettacolo</E
+M>riuscito</E
+M>un tentativo riuscito</E
+M>una dimostrazione riuscita</E
+M>una festa riuscitissima</E
+M>bello</E
+M>réussi</E

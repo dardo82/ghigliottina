@@ -1,0 +1,25 @@
+palestra.txt
+"andare in palestra"
+"palestra"
+"palestra"
+"palestra"
+#*''fare mesi di  '''palestra''' l'ha trasformato, ora è una massa di muscoli!''
+*[[palestrato]], [[palestrita]], [[megapalestra]], [[palestrale]]
+M>palaestra</E
+M>privata</E
+M>pubblica</E
+M>scolastica</E
+M>prepararsi</E
+M>allenarsi in p</E
+M>andare in palestra</E
+M>di roccia</E
+M>artificiali di arrampicata</E
+M>di ghiaccio</E
+M>gli farebbe bene un po&#8217; di p</E
+M>iscriversi</E
+M>segnarsi in p.</E
+M>cerco di fare ogni giorno almeno un&#8217;ora di palestra</E
+M>la scuola è stata sempre considerata p</E
+M>di vita</E
+M>le assemblee studentesche sono spesso la prima p</E
+M>per il libero dibattito tra i giovani</E

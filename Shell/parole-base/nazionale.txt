@@ -1,0 +1,151 @@
+nazionale.txt
+"a livello nazionale"
+"assemblea nazionale"
+"assemblea nazionale"
+"Associazione nazionale degli operatori in Borsa computerizzata"
+"banca nazionale"
+"bandiera nazionale"
+"chiesa nazionale"
+"cimitero nazionale"
+"codice nazionale"
+"contabilità nazionale"
+"copertura nazionale"
+"costruzione nazionale"
+"crescita nazionale"
+"debito nazionale"
+"economia nazionale"
+"economia nazionale"
+"emergenza nazionale"
+"esecutivo nazionale"
+"festa nazionale"
+"festa nazionale"
+"festa nazionale"
+"festa nazionale"
+"foresta nazionale"
+"guardia nazionale"
+"identità nazionale"
+"in modo nazionale"
+"inno nazionale"
+"Inno Nazionale Americano"
+"Istituto Nazionale Sanitario"
+"la Guardia nazionale"
+"leadership nazionale"
+"letteratura nazionale"
+"lutto nazionale"
+"monumento nazionale"
+"monumento nazionale"
+"movimento nazionale"
+"nazionale"
+"nazionale"
+"nazionale"
+"rappresentativa nazionale"
+"nazionale"
+"sport: atleta della nazionale"
+"nazionale"
+"Nazionale"
+"nazionale maggiore"
+"normativa nazionale"
+"onore nazionale"
+"parco nazionale"
+"prodotto nazionale"
+"prodotto nazionale lordo, PNL"
+"quotidiano nazionale"
+"reddito nazionale"
+"segretario nazionale"
+"servizio sanitario nazionale"
+"servizio sanitario nazionale"
+"sito di interesse nazionale"
+"ufficiale in capo del servizio postale nazionale"
+"vino nazionale"
+#* ''la [[corruzione]] dei nostri [[politici]] è una [[vergogna]] '''nazionale'''''
+#* ''in [[Italia]] quando gioca la '''nazionale''' di [[calcio]] tutto si ferma''
+* della nazione, dello stato, [[statale]]
+*[[estero]]
+*[[connazionale]], [[nazionalismo]]
+M>lingua</E
+M>letteratura n</E
+M>i caratteri n</E
+M>di un popolo</E
+M>stato n</E
+M>il territorio n</E
+M>la bandiera n</E
+M>inno n</E
+M>esercito n</E
+M>milizie n</E
+M>guardia n</E
+M>sentimento n</E
+M>economia n</E
+M>economia politica</E
+M>reddito</E
+M>produzione n</E
+M>estero</E
+M>d’importazione</E
+M>prodotti n</E
+M>liquori n</E
+M>sigarette nazionali</E
+M>festa n</E
+M>avvenimento d’importanza n</E
+M>manifestazione n</E
+M>sciopero n</E
+M>dei metalmeccanici</E
+M>un lutto n</E
+M>mostra</E
+M>esposizione n</E
+M>concorso n</E
+M>federazione n</E
+M>comitato n</E
+M>segreteria n</E
+M>segretario n</E
+M>artista</E
+M>scrittore di fama n</E
+M>edizione n</E
+M>galleria</E
+M>museo n</E
+M>biblioteca n</E
+M>la Nazionale di Roma</E
+M>di Firenze</E
+M>Convitto n</E
+M>Istituto n</E
+M>del dramma antico</E
+M>Ente n</E
+M>per l’energia elettrica</E
+M>Ente n</E
+M>idrocarburi</E
+M>Consiglio n</E
+M>delle ricerche</E
+M>Istituto n</E
+M>delle assicurazioni</E
+M>statale</E
+M>strade n</E
+M>statali</E
+M>percorrere la nazionale</E
+M>la proibizione stessa di sortire da un paese ne aumenta il desiderio ai n</E
+M>di sortirne</E
+M>Campionati n</E
+M>Squadra n</E
+M>far parte della n</E
+M>entrare in n</E
+M>giocare in n</E
+M>la n</E
+M>azzurra</E
+M>olimpica</E
+M>militare</E
+M>nazionale A</E
+M>la nazionale</E
+M>nazionale B</E
+M>cadetta</E
+M>nazionali under 21</E
+M>under 18</E
+M>juniores</E
+M>under 15</E
+M>femminile</E
+M>è un n</E
+M>è stato n</E
+M>è stata n</E
+M>più volte</E
+M>i nostri n</E
+M>sono stati accolti</E
+M> al loro ritorno</E
+M>con grandi festeggiamenti</E
+M>una ditta nazionalmente affermata</E
+M>internazionalmente</E

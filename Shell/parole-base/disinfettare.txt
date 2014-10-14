@@ -1,0 +1,13 @@
+disinfettare.txt
+"disinfettare"
+"disinfettare, replace: disinfettarsi"
+M>désinfecter</E
+M>dés</E
+M>dis-</E
+M>infecter</E
+M>io di</E
+M>infètto</E
+M>una ferita</E
+M>disinfettarsi un graffio</E
+M>disinfèttati subito</E
+M>un ambiente</E

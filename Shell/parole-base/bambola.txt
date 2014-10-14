@@ -1,0 +1,22 @@
+bambola.txt
+"andare in bambola"
+"bambola"
+"bambola"
+"bambola di pezza"
+"bambola, pupa"
+"casa di bambola"
+"casa di bambola"
+"simile a una bambola"
+*[[bambolotto]], [[pupazzo]], [[fantoccio]]
+*''Essere, andare in bambola''
+M>bambino</E
+M>regalare una b</E
+M>giocare con la b</E
+M>negozio di bambole</E
+M>come ha fatto a innamorarsi di quella b</E
+M>senti</E
+M>bambola!</E
+M>che bambola!</E
+M>cotta</E
+M>pigliare una b</E
+M>essere in bambola</E

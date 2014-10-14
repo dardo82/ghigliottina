@@ -1,0 +1,46 @@
+dorsale.txt
+"avere la spina dorsale"
+"con pinna dorsale bianca"
+"dorsale"
+"dorsale"
+"dorsale"
+"ganglio della radice dorsale"
+"grande dorsale"
+"pinna dorsale"
+"radice dorsale"
+"senza spina dorsale"
+"senza spina dorsale"
+"spina dorsale"
+"spina dorsale"
+"spina dorsale"
+*[[testiera]], [[spalliera]]
+M>ventrale</E
+M>colonna d</E
+M>spina d</E
+M>midollo d</E
+M>muscolo grande d</E
+M>nervi d</E
+M>pinne d</E
+M>corda d</E
+M>notocorda</E
+M>parte</E
+M>faccia</E
+M>pagina d</E
+M>crawl d</E
+M>nuoto d</E
+M>dorso</E
+M>salto d</E
+M>cane</E
+M>gatto</E
+M>velari</E
+M>gutturali</E
+M>spalliera</E
+M>testata</E
+M>la d</E
+M>alpina</E
+M>la d</E
+M>appenninica</E
+M>suboceaniche</E
+M>barometrica</E
+M>pesce dorsalmente azzurro</E
+M>la colonna vertebrale è situata dorsalmente al tubo digerente</E

@@ -1,0 +1,19 @@
+portiere.txt
+"portiere"
+"portiere"
+"portiere, portinaio"
+*italiano
+M>portier</E
+M>portarius</E
+M>l&#8217;angelo p</E
+M>Purg</E
+M>Vidi una porta</E
+M>E un portier ch&#8217;ancor non facea motto</E
+M>il p</E
+M>di un ministero</E
+M>il p</E
+M>di una fabbrica</E
+M>d&#8217;albergo</E
+M>di notte</E
+M>notturno</E
+M>elettrico</E

@@ -1,0 +1,30 @@
+giustificazione.txt
+"a giustificazione"
+"giustificazione"
+"giustificazione"
+"giustificazione per fede"
+"giustificazione teorica"
+"scusa, giustificazione"
+"senza giustificazione"
+M>iustificatio </E
+M>onis</E
+M>di una spesa</E
+M>delle assenze</E
+M>addurre prove</E
+M>documenti</E
+M>fatti a propria g.</E
+M>principio di g.</E
+M>dico questo a mia g</E
+M>è un errore che non ammette giustificazioni</E
+M>lettera</E
+M>biglietto di g</E
+M>accettare</E
+M>riconoscere valida una giustificazione</E
+M>presentare le g</E
+M>di una spesa</E
+M>libretto delle g</E
+M>scrivere</E
+M>riempire</E
+M>firmare la g</E
+M>l’alunno non può rientrare in classe senza la g</E
+M>firmata dal padre</E

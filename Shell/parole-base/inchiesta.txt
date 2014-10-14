@@ -1,0 +1,34 @@
+inchiesta.txt
+"campo d'inchiesta"
+"commissione d'inchiesta"
+"commissione d'inchiesta"
+"condurre un'inchiesta"
+"inchiesta"
+"inchiesta"
+"inchiesta"
+"inchiesta giornalistica"
+"missione di inchiesta"
+*[[indagine]], [[sondaggio]], [[interrogatorio]], [[accertamento]] [[referendum]]
+*[[intervista]], [[investigazione]], [[ricerca]]; [[studio]], [[test]], [[questionario]], [[analisi]], [[esame]]
+*[[servizio]]
+*[[maxi-inchiesta]]
+M>inchiedere</E
+M>inchiesto</E
+M>fare</E
+M>svolgere</E
+M>condurre a termine un’i</E
+M>giornalistica</E
+M>dialettale</E
+M>sociologica</E
+M>film inchiesta</E
+M>aprire</E
+M>disporre</E
+M>ordinare un’i</E
+M>procedere a un’i</E
+M>giudiziaria</E
+M>sui sinistri marittimi e aeronautici</E
+M>commissione d’i</E
+M>amministrativa</E
+M>parlamentare</E
+M>della bandiera</E
+M>Molti guerrier si missero all’i</E

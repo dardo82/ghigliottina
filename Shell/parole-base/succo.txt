@@ -1,0 +1,46 @@
+succo.txt
+"il succo della questione"
+"rum con succo di frutta"
+"succo"
+"succo"
+"succo"
+"succo (della questione)"
+"succo d'ananas"
+"succo d'uva"
+"succo di frutta"
+"succo di limetta, succo di lime"
+"succo di mele"
+"succo di pomodoro"
+"succo di pompelmo"
+"succo dolce"
+"succo estratto dai fiori"
+"succo gastrico"
+* [[sugo]], [[spremuta]], [[polpa]]
+* [[succoso]]
+M>succus</E
+M>sucus</E
+M>sug</E
+M>-chi</E
+M>succhi d&#8217;erbe</E
+M>succo di limone</E
+M>d&#8217;arancia</E
+M>d&#8217;uva</E
+M>il s. di pomodoro</E
+M>spremere</E
+M>estrarre il s.</E
+M>succhi di frutta</E
+M>s. vegetali</E
+M>se vai a estrarre il s. di tutta questa chiacchierata ci rimane poco o niente</E
+M>il s. del discorso è questo</E
+M> coraggio</E
+M> veniamo al succo</E
+M>s. duodenale</E
+M>s. enterico</E
+M>s. gastrico</E
+M>s. pancreatico</E
+M>s. digestivi</E
+M>s. cellulare</E
+M>s. nucleare</E
+M>nucleoplasma</E
+M>carioplasma</E
+M>s. d&#8217;erbe</E

@@ -1,0 +1,22 @@
+affermazione.txt
+"affermazione"
+"affermazione esagerata"
+"affermazione esasperata"
+"affermazione generica"
+#*''Ha fatto un''''affermazione''' molto ambigua''
+#*''L''''affermazione''' ''si'' sostituisce a volte intere frasi''
+#*''Questo nostro progetto è di sicura '''affermazione'''.''
+*[[dichiarazione]], [[assicurazione]], [[attestazione]], [[asserzione]], [[testimonianza]]
+*[[successo]], [[vittoria]], [[riuscita]], buon esito, [[conquista]], [[trionfo]]
+* [[asserzione]]
+*[[negazione]], [[diniego]]
+*[[fallimento]], [[insuccesso]], [[sconfitta]]
+M>affirmatio</E
+M>onis</E
+M>con la sua a</E
+M>mi rassicurò</E
+M>dei proprî diritti</E
+M>il suo successo è l’a</E
+M>di capacità fuori dal comune</E
+M>il prodotto ha avuto una buona a</E
+M>elettorale</E

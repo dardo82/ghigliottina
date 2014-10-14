@@ -1,0 +1,232 @@
+suonare.txt
+"attaccare a suonare"
+"cominciare a suonare"
+"far suonare un cd"
+"fare venire in mente, suonare familiare"
+"giocare, suonare, di nuovo"
+"strumento per suonare"
+"suonare"
+"suonare"
+"suonare"
+"suonare"
+"suonare a stormo"
+"suonare ad orecchio"
+"suonare familiare"
+"suonare il clacson"
+"suonare il jazz"
+"suonare il tam-tam"
+"suonare il tamburo"
+"suonare il tamburo"
+"suonare il violino"
+"suonare l'allarme, dare l'allarme"
+"suonare la batteria"
+"suonare la campana"
+"suonare la cornamusa"
+"suonare la musica"
+"suonare la tromba"
+"suonare le campane"
+"suonare mezzanotte"
+"suonare mezzogiorno"
+"suonare subito"
+"suonare una campana"
+"suonare una melodia"
+"suonare una nota sbagliata"
+"suonare vero"
+*[[sonata]], [[sonatore]], [[soneria]]. [[suono]] 
+M>nare</E
+M>nus</E
+M>io suòno</E
+M>-o-</E
+M>-uo-</E
+M>avere</E
+M>le trombe suonarono tutte insieme</E
+M>senti come suona questo violino!</E
+M>è un pianoforte che suona meravigliosamente</E
+M>all&#8217;inizio dell&#8217;Adagio suonano soltanto i violoncelli</E
+M>la trombetta che gli avevo regalato non suonava più</E
+M>questo tasto</E
+M>non suona</E
+M>appena uscita la processione</E
+M> le campane cominciarono a suonare</E
+M>suona il duomo</E
+M>ha già suonato San Francesco</E
+M>s. a stormo</E
+M>a distesa</E
+M>a martello</E
+M>a doppio</E
+M>s. a festa</E
+M>a gloria</E
+M>a morto</E
+M>s. a messa</E
+M>a predica</E
+M>a vespro</E
+M>s. a fuoco</E
+M>s. a parlamento</E
+M>mi sembra che abbia suonato il campanello dell&#8217;uscio</E
+M>ho sentito suonare</E
+M> vado a vedere chi è</E
+M>appena suonò la sveglia</E
+M> saltò giù dal letto</E
+M>sta suonando l&#8217;allarme nell&#8217;appartamento di sopra.</E
+M>senti come suona male questa moneta</E
+M> sembra falsa</E
+M>fece suonare l&#8217;orcio</E
+M> battendolo con le nocche</E
+M>se batti qui</E
+M> sentirai che la parete suona</E
+M>Col pugno li percosse l&#8217;epa croia</E
+M>: Quella sonò come fosse un tamburo</E
+M>quando ei comperano uno vaso di terra o di vetro</E
+M> lo suonano prima</E
+M> per vedere se è buono</E
+M>le sue parole mi suonano ancora nell&#8217;orecchio</E
+M>&#171;Amor che ne la mente mi ragiona&#187; Cominciò elli allor sì dolcemente</E
+M> Che la dolcezza ancor dentro mi suona</E
+M>ove sei</E
+M> che più non odo La tua voce sonar</E
+M>Del bel paese là dove &#8217;l sì suona</E
+M>sembragli udir da tutti i labbri Sonar le glorie sue</E
+M>è un nome</E
+M> il suo</E
+M> che suonerà glorioso nei secoli</E
+M>Dirvi ch&#8217;i&#8217; sia</E
+M> sarìa parlare indarno Ché &#8217;l nome mio ancora molto non suona</E
+M>Di fischi e bussi tutto il bosco suona</E
+M>d&#8217;antichi fatti Certo udisti suonar dell&#8217;Ellesponto I liti</E
+M>Suonò d&#8217;evviva la piazza vicina</E
+M>Sonavan le quiete Stanze</E
+M> e le vie dintorno Al tuo perpetuo canto</E
+M>Pur &#171;Iulio Iulio&#187; suona il gran diserto</E
+M>Suonano i liti un lamentar di lira</E
+M>una parola</E
+M>una sigla</E
+M>un titolo</E
+M>un nome che suona bene</E
+M>un periodo che suona male</E
+M>senti come suona questa frase!</E
+M>Sdegno il verso che suona e che non crea</E
+M>sono parole che suonano male in bocca sua</E
+M>in quel momento</E
+M> la sua osservazione mi suonò stonata</E
+M>s. il piano</E
+M>la tromba</E
+M>il tamburo</E
+M>la chitarra</E
+M>le campane</E
+M>il campanello</E
+M>s. un disco</E
+M>un compact disc</E
+M>un nastro</E
+M>una musicassetta</E
+M>stava suonando il mandolino</E
+M>suonano spesso insieme a quattro mani</E
+M>imparare a s. il violino</E
+M>sa s. l&#8217;arpa molto bene</E
+M>suoni qualche strumento?</E
+M>suona bene</E
+M>male</E
+M>non sa proprio s.</E
+M>suona a orecchio</E
+M>suona con virtuosismo</E
+M>con perfetta tecnica</E
+M>con grande sentimento</E
+M>s. in quartetto</E
+M>in orchestra</E
+M>hai mai suonato in pubblico?</E
+M>si divertono a s. e cantare</E
+M>l&#8217;orchestrina aveva suonato quasi ininterrottamente per tutta la serata.</E
+M>s. un pezzo di musica classica</E
+M>s. una marcia</E
+M>una canzone</E
+M>l&#8217;orchestra suonava una sinfonia</E
+M>l&#8217;orchestrina suonò un tango</E
+M>s. un notturno di Chopin</E
+M>s. il Concerto in re maggiore di Beethoven</E
+M>ti suonerò la &#171;Follia&#187; di Corelli</E
+M>s. Bach</E
+M>Paganini</E
+M>suona già con scioltezza Brahms</E
+M>nei suoi concerti suona per lo più Mozart e Debussy</E
+M>in quel momento suonava l&#8217;inno di Mameli</E
+M>l&#8217;organo suonava l&#8217;&#171;Ave Maria&#187; di Schubert</E
+M>la campana suonava l&#8217;Angelus</E
+M>l&#8217;Avemaria</E
+M>il campanaro è andato a s. l&#8217;Angelus</E
+M>la campana</E
+M>il campanello</E
+M>suonò la fine delle lezioni</E
+M>s. l&#8217;adunata</E
+M>la sveglia</E
+M>la ritirata</E
+M>il silenzio</E
+M>s. a raccolta</E
+M>è un orologio che suona le ore</E
+M>le mezze e i quarti</E
+M>l&#8217;orologio del municipio</E
+M>della torre</E
+M>del campanile</E
+M>suonò le dieci</E
+M>il municipio suonò le dieci</E
+M>essere</E
+M>l&#8217;Angelus suona a mezzogiorno</E
+M>è già suonata la ritirata</E
+M>sta suonando il silenzio</E
+M>le tre stanno suonando in questo momento</E
+M>è già suonato mezzogiorno?</E
+M>sono le sei suonate</E
+M>suona l&#8217;ora</E
+M>è suonata l&#8217;ora</E
+M>quando suonerà l&#8217;ora della riscossa saremo pronti</E
+M>suonerà anche per lui l&#8217;ora!</E
+M>la tua</E
+M>ultima</E
+M>ora è suonata!</E
+M>gli suonò due buoni schiaffi</E
+M>gli ha suonato certi scapaccioni!</E
+M>ogni tanto</E
+M> gliele suona di santa ragione</E
+M>se torno tardi</E
+M> me le suonano</E
+M>lo suonarono a dovere</E
+M>bada che ti suono!</E
+M>alzato il bastone lo incominciò a sonare</E
+M>suonarla a uno</E
+M>suonare uno</E
+M>essere</E
+M>rimanere suonato</E
+M>fare come i pifferi di montagna</E
+M> che andarono per suonare e furono suonati</E
+M>gliele suonerò chiare</E
+M> a quel farabutto!</E
+M>forse sua sentenza è d&#8217;altra guisa Che la voce non suona</E
+M>non credette</E
+M>lei sì fortemente disposta a quello che le parole sue sonavano</E
+M>il quale nome</E
+M>Visigoti</E
+M>non altrimenti nella loro lingua suona</E
+M> che nella nostra Goti occidentali</E
+M>il diritto di contrarre nozze giuste</E
+M> che tanto propiamente suona &#171;connubium&#187;</E
+M>le sue parole suonavano</E
+M>condanna</E
+M>biasimo</E
+M>irrisione</E
+M>scherno</E
+M>una frase che suonava minaccia</E
+M>discorso che suona lode</E
+M>Lo mondo è ben così tutto diserto D&#8217;ogne virtute</E
+M> come tu mi sone</E
+M>sono le otto suonate</E
+M>è mezzanotte suonata</E
+M>ha sessant&#8217;anni suonati</E
+M>avere l&#8217;aria suonata</E
+M>un po&#8217; suonata</E
+M>è suonato</E
+M>un po&#8217; suonato</E
+M>stanotte non ho dormito</E
+M> e ora mi sento tutto suonato</E
+M>ha quasi novant&#8217;anni</E
+M> ed è un po&#8217; suonata</E
+M>un pugile che</E
+M> per aver incassato tanti pugni nella sua carriera</E
+M> è rimasto suonato</E

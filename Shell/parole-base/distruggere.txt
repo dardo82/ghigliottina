@@ -1,0 +1,59 @@
+distruggere.txt
+"distruggere"
+"distruggere"
+"distruggere"
+"distruggere, replace: distruggersi"
+"distruggere (del fuoco)"
+"distruggere (del fuoco)"
+"distruggere completamente"
+"distruggere completamente"
+"distruggere poco a poco"
+*[[smantellare]]
+*''(di persona)'' [[consumarsi]], [[deperire]]
+*''(di persona)'' [[ristabilirsi]] 
+*[[distruggersi]], [[distrutto]], [[distruzione]]
+M>destru</E
+M>stru</E
+M>io distruggo, tu distruggi</E
+M>distrussi</E
+M>distruggésti</E
+M>distrutto</E
+M>i Romani distrussero Cartagine</E
+M>città distrutta da un terremoto</E
+M>bosco distrutto da un incendio</E
+M>la grandine</E
+M>le cavallette hanno distrutto tutto il raccolto</E
+M>la cancrena distrugge i tessuti</E
+M>manoscritti</E
+M>lettere</E
+M>documenti</E
+M>le prove d’un delitto</E
+M>l’epidemia distrusse gran parte della popolazione</E
+M>l’esercito fu distrutto</E
+M>nulla si crea e nulla si distrugge</E
+M>la cera</E
+M>il lardo</E
+M>ha distrutto tutta la mia opera</E
+M>le mie fatiche</E
+M>la felicità</E
+M>le illusioni</E
+M>le speranze</E
+M>l’amore di una persona</E
+M>la pace di una famiglia</E
+M>Se così fosse</E
+M>in voi fora distrutto Libero arbitrio</E
+M>vedi come cotale donna distrugge la persona di costui</E
+M>cieco desir che ’l cor distrugge</E
+M>distruggersi</E
+M>si sta distruggendo!</E
+M>struggersi</E
+M>paese</E
+M>esercito distrutto</E
+M>una famiglia distrutta</E
+M>il suo fisico è ormai distrutto</E
+M>io son distrutto</E
+M>Né schermo alcuno ho dal dolor</E
+M>distrutta mente</E
+M>distrutto core</E
+M>occhi distrutti</E
+M>cera distrutta</E

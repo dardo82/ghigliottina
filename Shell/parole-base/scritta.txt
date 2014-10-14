@@ -1,0 +1,34 @@
+scritta.txt
+"comprensione scritta"
+"comunicazione scritta"
+"costituzione scritta"
+"forma scritta"
+"la parola scritta"
+"legge non scritta"
+"legge scritta"
+"lingua scritta"
+"musica scritta"
+"regola non scritta"
+"richiesta scritta"
+"riproduzione della risata nella lingua scritta (ah ah)"
+"scritta"
+"scritta sul muro (allude al brano biblico; Daniele 5:5):"
+M>scr</E
+M>pta</E
+M>scr</E
+M>ptus</E
+M>scrib</E
+M>non riesco a leggere questa s.</E
+M>i muri erano imbrattati di scritte tracciate con vernice nera</E
+M>sulla porta ci sono delle s. oscene</E
+M>vidi una scritta Che dicea:</E
+M>Anastasio papa guardo</E
+M>s. di compra</E
+M>di vendita</E
+M>per belle s. di lor mano s&#8217;obligarono l&#8217;uno all&#8217;altro</E
+M>per una s. sottoscritta di propria mano</E
+M> promesse ... concedere a Lodovico il principato di Taranto</E
+M>fare la s.</E
+M>fare la s. a qualcosa</E
+M>farei la s. ad abitare in una casa come questa!</E
+M>ci metterei la firma</E

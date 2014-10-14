@@ -1,0 +1,121 @@
+riga.txt
+"cancellato con una riga"
+"mettere in riga"
+"mettersi in riga"
+"riga"
+"riga"
+"riga"
+"riga con il nome dell'autore"
+"riga di 36 pollici"
+"riga di composizione"
+*[[fila]], [[linea]]
+*[[rigaggio]],[[rigare]],[[rigate]]
+M>tirare</E
+M>tracciare una r</E
+M>fare</E
+M>tracciare una r</E
+M>in terra</E
+M>tessuto a r</E
+M>azzurre</E
+M>a r</E
+M>bianche e rosse</E
+M>abito a r</E
+M>orizzontali</E
+M>verticali</E
+M>carta</E
+M>foglio</E
+M>quaderno a righe</E
+M>striscia</E
+M>linea</E
+M>fila</E
+M>in quella guisa che noi talvolta veggiamo</E
+M>tra due oscuri nuvoli trapassando</E
+M> il sole in terra fare una lunga r</E
+M>di luce</E
+M>come i gru van cantando lor lai</E
+M>Faccendo in aere di sé lunga r</E
+M>divisa</E
+M>scriminatura</E
+M>farsi la r</E
+M>portare la r</E
+M>in mezzo</E
+M>da una parte</E
+M>divisa</E
+M>righe</E
+M>linee</E
+M>spettrali</E
+M>spettri di righe</E
+M>righe di Fraunhofer</E
+M>fràunhoofër</E
+M>Riga di mulo</E
+M>mulina</E
+M>zagarella</E
+M>larghe</E
+M>fitte</E
+M>diritte</E
+M>storte</E
+M>la divisione delle parole</E
+M>delle sillabe in fin di riga</E
+M>mi ha regalato il suo ultimo libro con alcune r</E
+M>di dedica</E
+M>gli manderò un biglietto con due r</E
+M>di congratulazioni</E
+M>potevi aggiungere ai fiori almeno una r</E
+M>di accompagnamento</E
+M>in due anni che è lontano</E
+M>non m&#8217;ha scritto mai una r</E
+M>leggere fra le r</E
+M>capire fra le r</E
+M>una r</E
+M>di corpo 6</E
+M>di base</E
+M>di lettura</E
+M>di grande unità</E
+M>bianca</E
+M>forte</E
+M>forzata</E
+M>debole</E
+M>piena</E
+M>rientrata</E
+M>sporgente</E
+M>rotta</E
+M>ladra</E
+M>mozza</E
+M>zoppa</E
+M>di piede</E
+M>r. orfana</E
+M>vedova</E
+M>mezza r</E
+M>mezzariga</E
+M>Didot</E
+M>riga</E
+M>fila</E
+M>la prima</E
+M>l&#8217;ultima r</E
+M>della fila</E
+M>serrare le r</E
+M>mettersi in r</E
+M>ordinare le r</E
+M>rompere le r</E
+M>rompete le r</E
+M>destr&#8217; riga!</E
+M>sinistr&#8217; riga!</E
+M>fissi!</E
+M>stare in r</E
+M>rimettere in r</E
+M>uscire di r</E
+M>mettersi in r</E
+M>con un altro</E
+M>con altri</E
+M>di prima r</E
+M>artisti di prima r</E
+M>è un avvocato di prima r</E
+M>un asino</E
+M>un furfante di prima riga</E
+M>traversa</E
+M>parallela</E
+M>ellittica</E
+M>a T</E
+M>geometria della r</E
+M>di una matrice</E
+M>indice di riga</E

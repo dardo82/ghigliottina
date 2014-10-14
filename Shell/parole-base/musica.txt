@@ -1,0 +1,206 @@
+musica.txt
+"a suon di musica"
+"amante della musica"
+"amante della musica"
+"cambiare musica"
+"carta da musica"
+"comporre musica"
+"compositori di musica popolare"
+"concerto di musica pop"
+"di compositori di musica popolare"
+"festival di musica popolare"
+"fienarola, stato del Kentucky, genere di musica country americana"
+"hard rock (musica)"
+"la musica delle sfere"
+"matto per la musica"
+"mettere in musica"
+"mettere la musica a palla"
+"mettere qualcosa in musica"
+"musica"
+"musica"
+"composizione musicale"
+"musical composition"
+"musica"
+"musica"
+"musica artistica"
+"musica celestiale"
+"musica classica"
+"musica colta"
+"musica country"
+"musica country"
+"musica da balletto"
+"musica da camera"
+"musica da chiesa"
+"musica da concerto"
+"musica da coro"
+"musica da discoteca"
+"musica dance"
+"musica demenziale"
+"musica di accompagnamento"
+"musica di intrattenimento"
+"musical entertainment"
+"musica di scena"
+"musical"
+"musica di sottofondo"
+"musica di sottofondo"
+"musica elettronica"
+"musica etnica"
+"musica funk"
+"musica gospel"
+"musica gospel"
+"musica grunge"
+"musica leggera"
+"musica liturgica"
+"musica militare"
+"musica orchestrata"
+"musica polifonica"
+"musica pop"
+"musica pop"
+"musica pop"
+"musica popolare"
+"musica popolare"
+"musica religiosa"
+"musica rock"
+"musica sacra"
+"musica scritta"
+"musica strumentale"
+"musica vocale"
+"nuova musica"
+"orecchio (per la musica)"
+"orecchio per la musica"
+"musical ear"
+"portato per la musica"
+"musically inclined"
+"questa è musica per le mie orecchie"
+"ritmo della musica"
+"musical rhythm"
+"scuola di musica"
+"scuola di musica"
+"senso per la musica"
+"musical sense"
+"suonare la musica"
+#*''la tua voce è '''musica''' per le mie orecchie'' 
+*arte dei suoni
+*[[composizione]], [[componimento]], [[pezzo]], [[brano]],[[suoni]], [[sonata]], [[sinfonia]], [[concerto]]  
+* [[musicale]], [[musicare]]
+* [[banda]], [[canto]], [[danza]], [[spartito]], [[suono]]
+*''sempre la stessa musica''
+M>mus</E
+M>altezza</E
+M>intensità</E
+M>timbro</E
+M>vocale</E
+M>strumentale</E
+M>tribale</E
+M>amerindia</E
+M>gitana</E
+M>araba</E
+M>jazz</E
+M>corale</E
+M>per orchestra</E
+M>sinfonica</E
+M>da camera</E
+M>per pianoforte</E
+M>per violino</E
+M>per organo</E
+M>per flauto</E
+M>lirica</E
+M>sacra</E
+M>da ballo</E
+M>da film</E
+M>madrigalistica</E
+M>colta</E
+M>leggera</E
+M>rock</E
+M>m. elettronica</E
+M>la m</E
+M>italiana</E
+M>tedesca</E
+M>la m</E
+M>del Settecento</E
+M>classica</E
+M>romantica</E
+M>la m</E
+M>mozartiana</E
+M>verdiana</E
+M>note</E
+M>melodia</E
+M>armonia</E
+M>ritmo</E
+M>melodica</E
+M>armonica</E
+M>ritmica</E
+M>un cultore</E
+M>un appassionato di m</E
+M>ha il genio della m</E
+M>maestro di m</E
+M>insegnante di m</E
+M>professore di m</E
+M>al conservatorio</E
+M>metodo</E
+M>esercizî di musica</E
+M>ha scritto la m</E
+M>di scena per un intermezzo</E
+M>parole di S</E
+M>Cammarano</E
+M>di G</E
+M>Verdi</E
+M>di chi è la m</E
+M>mettere in m</E
+M>commedia</E
+M>opera in m</E
+M>devo dirtelo in m</E
+M>sono state eseguite alcune musiche del Settecento</E
+M>eseguire</E
+M>sentire</E
+M>ascoltare la m</E
+M>questa sera si farà</E
+M>ci sarà</E
+M> un po’ di m</E
+M>ascoltare m. dal vivo</E
+M>domenica</E
+M>in piazza</E
+M>musica!</E
+M>carta da m</E
+M>carta m</E
+M>da m</E
+M>edizioni di m</E
+M>leggere la musica</E
+M>la m</E
+M>del reggimento</E
+M>delle guardie municipali</E
+M>vieni alla finestra</E
+M>che passa la m</E
+M>una scorta d’onore con bandiera e m</E
+M>lo spazio riservato alla m</E
+M>all’orchestra</E
+M>nel teatro moderno</E
+M>ho lasciato la m</E
+M>a casa</E
+M>non sono capace di suonare se non ho la m</E
+M>davanti</E
+M>la sua voce è una m</E
+M>la m</E
+M>notturna dei grilli</E
+M>la carrozza partì di colpo</E
+M>accompagnata da una m</E
+M>di sonagli</E
+M>senti che m</E
+M>questi cani!</E
+M>tutte le notti devo sentire la m</E
+M>del bambino che piange!</E
+M>appena arriveremo in ufficio</E
+M>sentirai che m</E
+M>il direttore!</E
+M>cominciava allora fra il padre e i figliuoli una di quelle m</E
+M>che non finiscono sempre in accordo</E
+M>quando finirà questa m</E
+M>basta</E
+M>è ora di cambiare m</E
+M>è la solita m</E
+M>è sempre la stessa m</E
+M>da quando è arrivato il nuovo amministratore</E
+M>è cambiata la m</E
+M>è cambiata la m</E
+M>ma i suonatori sono sempre gli stessi</E
+M>icóne</E

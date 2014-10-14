@@ -1,0 +1,29 @@
+narrare.txt
+"narrare"
+* [[raccontare]], [[descrivere]]
+*Giuseppe Pittano, ''Il mio primo dizionario di italiano illustrato'', edizione 1995, p. 346, DeAgostini
+M>narrare</E
+M>gnarus</E
+M>raccontare</E
+M>vecchie leggende</E
+M>una storia d’amore</E
+M>bene</E
+M>male</E
+M>con ordine</E
+M>con vivacità</E
+M>con brio</E
+M>gli avvenimenti lieti della propria vita</E
+M>ai posteri Narrar se stesso imprese</E
+M>il libro</E
+M>il film narra le peripezie di due viaggiatori</E
+M>che</E
+M>come</E
+M>si narra che in quel tempo</E
+M>vi narrerò come fece a liberarsi da quella prigione</E
+M>ci ha narrato dei suoi viaggi in Africa</E
+M>le sue ragioni</E
+M>non è mia intenzione qui narrare</E
+M>vuoi tu darmi rimorso dell’averti narrato la mia presente miseria?</E
+M>li cieli narrano la gloria di Dio</E
+M>enarrant</E
+M>io narrante</E

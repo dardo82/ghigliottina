@@ -1,0 +1,67 @@
+bilancio.txt
+"a bilancio zero"
+"bilancio"
+"bilancio"
+"bilancio"
+"bilancio analitico"
+"bilancio azotato"
+"bilancio di verifica"
+"bilancio preventivo"
+"chiudere il bilancio"
+"conto economico, bilancio"
+"di bilancio"
+"fare il bilancio di"
+"fare il bilancio di previsione"
+"fuori bilancio"
+"fuori bilancio"
+"in saldo, in bilancio"
+"iscritto a bilancio"
+"politica di bilancio"
+"voce di bilancio"
+"voci di bilancio"
+*''(termico, dell’energia, della materia)'' [[equilibrio]], [[pareggiamento]]
+*[[bilanciamento]], [[bilanciare]], 
+*[[consuntivo]], [[contabilità]], [[ragioneria]]
+M>preparare</E
+M>impostare</E
+M>presentare</E
+M>controllare</E
+M>verificare</E
+M>discutere</E
+M>votare</E
+M>approvare</E
+M>respingere il b</E
+M>preventivo</E
+M>di previsione</E
+M>consuntivo</E
+M>gestioni fuori b</E
+M>dello stato</E
+M>degli enti locali</E
+M>impresa che ha un b</E
+M>florido</E
+M>il mio magro b</E
+M>non mi permette di andare in villeggiatura</E
+M>spese che gravano eccessivamente sul b</E
+M>familiare</E
+M>partita</E
+M>posta</E
+M>voce di b</E
+M>premio</E
+M>gratifica</E
+M>di b</E
+M>utili di b</E
+M>perdite di b</E
+M>organico</E
+M>anabolismo</E
+M>catabolismo</E
+M>di materia</E
+M>energetico</E
+M>dell’energia</E
+M>termico</E
+M>idrologico</E
+M>della circolazione idrica</E
+M>della popolazione</E
+M>fare il b</E
+M>della propria attività</E
+M>della propria vita</E
+M> del proprio matrimonio</E

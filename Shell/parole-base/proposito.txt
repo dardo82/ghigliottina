@@ -1,0 +1,132 @@
+proposito.txt
+"a proposito"
+"a proposito"
+"a proposito"
+"a proposito di"
+"a proposito di, riguardo a, per quanto riguarda, per quanto concerne"
+"a questo proposito"
+"a tal proposito"
+"con riferimento a, in riferimento a, a proposito di"
+"di proposito"
+"di proposito, apposta, appositamente"
+"fantasticare a proposito di"
+"fare qualcosa di proposito"
+"in proposito"
+"molto da dire a proposito"
+"proposito"
+"proposito"
+"riguardo a, a proposito di, in merito a"
+"saldo proposito"
+"tutto a proposito di"
+#*''il mio proposito, nello scrivere questo saggio, era di..''
+*[[attenzione]], [[scopo]]
+*[[proporre]], [[propositivo]], [[propositore]], [[proposizione]]
+*''di proposito''
+*''a proposito''
+M>propos</E
+M>tum</E
+M>propon</E
+M>formare</E
+M>formulare</E
+M>avere un p</E
+M>distogliere da un p</E
+M>desistere dal p.</E
+M>cambiare p</E
+M>fare p</E
+M>ho fatto p</E
+M>di non rispondere alle sue provocazioni</E
+M>duraturi</E
+M>effimeri</E
+M>santi</E
+M>generosi p</E
+M>chi poteva indovinare il suo atroce p</E
+M>mostrarsi saldo in un p</E
+M>essere costante</E
+M>avere costanza nei p</E
+M>una persona tenace</E
+M>ostinata</E
+M>irremovibile nei suoi p</E
+M>nessuno è riuscito a smuoverlo dal suo ostinato p</E
+M>dimenticare i buoni p</E
+M>buoni p</E
+M>i suoi!</E
+M>che nobili propositi!</E
+M>di proposito</E
+M>di buono</E
+M>di serio p</E
+M>s&#8217;è messo a studiare</E
+M>a lavorare di p</E
+M>questa volta ci si è messo proprio di p</E
+M>non posso credere che tu l&#8217;abbia fatto di p</E
+M>scommetto che l&#8217;ha detto di p</E
+M>per ferirmi</E
+M>uomo</E
+M>donna di p</E
+M>moglie saggia</E
+M>donna di p</E
+M>così giovane d&#8217;anni e matura di senno</E
+M>ero venuto col p</E
+M>di parlartene</E
+M>che propositi hai per il futuro?</E
+M>mi ha parlato dei suoi p. di lavoro</E
+M>la mia risposta non aveva altro p</E
+M>che quello di chiarire la situazione</E
+M>il p</E
+M>della satira è spesso quello di mettere in ridicolo gli uomini politici</E
+M>sì come conforme al nostro p</E
+M>mi piace di raccontarla</E
+M>cambiamo p</E
+M>e passiamo ad altro</E
+M>abbiamo avuto già una discussione su</E
+M>questo p</E
+M>mancano particolari precisi su questo p</E
+M>hai nulla da dire a questo p</E
+M>a questo p</E
+M>ne avrei tante da raccontare!</E
+M>vorrei fare due chiacchiere con te in p</E
+M>a questo p</E
+M>a questo p</E
+M>vorrei osservare che io non sono d&#8217;accordo se non sui punti essenziali</E
+M>a proposito di</E
+M>a p</E
+M>di tuo padre</E
+M>come sta ora?</E
+M>a p</E
+M>dello stipendio</E
+M>quando ce lo daranno?</E
+M>a p</E
+M>di che?</E
+M>a che p</E
+M>a quale p</E
+M>a proposito!</E
+M>a p</E
+M>hai spento il gas?</E
+M>a p</E
+M>dimenticavo di dirti che è arrivata una lettera per te</E
+M>a proposito</E
+M>arrivi a p</E
+M>vieni a p</E
+M>non potevi venire più a p</E
+M>l&#8217;aumento di stipendio è arrivato molto a p</E
+M>non risponde mai a p</E
+M>deve sempre dire la sua</E
+M>a p</E
+M>e a sproposito</E
+M>fare al p</E
+M>ciò che dici fa proprio al mio proposito</E
+M>a proposito</E
+M>ci vorrebbe un esempio</E
+M>una citazione a p</E
+M>si tratta di parole molto a p</E
+M>se c&#8217;è una persona a p</E
+M>questa è lui</E
+M>poco a p</E
+M>male a p</E
+M>fuori di p</E
+M>càpiti poco a p</E
+M>è un discorso</E
+M>il tuo</E
+M>male a p</E
+M>interrompi sempre fuor di p</E
+M>ho pensato che non fosse fuor di p</E
+M>rammentarglielo</E

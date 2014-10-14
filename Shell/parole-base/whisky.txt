@@ -1,0 +1,15 @@
+whisky.txt
+"scotch whisky"
+"scotch whisky"
+"whisky, whiskey"
+"whisky"
+"whisky al malto"
+"whisky al malto"
+"malt whisky"
+"whisky scozzese"
+"scotch whisky"
+"whisky scozzese"
+"whisky, scotch"
+"Scotch whisky"
+*[http
+*[http

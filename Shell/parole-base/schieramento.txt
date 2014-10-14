@@ -1,0 +1,21 @@
+schieramento.txt
+"schieramento"
+"schieramento"
+"schieramento"
+"schieramento di combattimento"
+M>s. tattico</E
+M>strategico</E
+M>offensivo</E
+M>lo s. delle truppe</E
+M>lo s. di un reparto</E
+M>le mutate condizioni consigliarono un nuovo s. delle forze di assalto</E
+M>unità corazzate si sono incuneate nello s. nemico</E
+M>l&#8217;esercito nemico ha rotto in più punti il nostro s.</E
+M>lo s. dei dimostranti si è fatto minaccioso</E
+M>c&#8217;era tutto uno s. di polizia</E
+M> coi cani e le lanterne</E
+M> e i mitra a tracolla</E
+M> e le camionette</E
+M>lo s. laico</E
+M>lo s. dei partiti di sinistra</E
+M>lo s. dei sindacati.</E

@@ -1,0 +1,148 @@
+vendere.txt
+"vendere"
+"vendere"
+"vendere"
+"vendere"
+"vendere al dettaglio"
+"vendere al dettaglio"
+"vendere al mercato nero"
+"vendere al minuto"
+"vendere all'asta"
+"vendere all'asta"
+"vendere all'ingrosso"
+"vendere azioni"
+"vendere cara la pelle"
+"vendere da un posto all'altro"
+"vendere fino ad esaurimento"
+"vendere fumo"
+"vendere in giro"
+"vendere in massa"
+"vendere in perdita, vendere sottocosto"
+"vendere maggiormente"
+"vendere o prenotare oltre misura"
+"vendere prodotti"
+"vendere sottocosto"
+"vendere sottomarca"
+"vendere sottoprezzo"
+"vendere una quota"
+#*'''''Ho venduto''' la mia auto.''
+*''(bene, diritto, eccetera)'' [[alienare]], concludere una vendita
+*mettere in vendita, [[rivendere]], [[liquidare]], [[svendere]], [[distribuire]], [[rifilare]]
+*[[commerciare]], [[trafficare]], [[contrattare]], [[mercanteggiare]]
+*''(bene, diritto, eccetera)'' [[comprare]], [[acquistare]], [[acquisire]]
+*[[tenere]], [[conservare]]
+*[[rivendere]], [[vendersi]]
+M>venum dare</E
+M>venire</E
+M>venum ire</E
+M>comprare</E
+M>acquistare</E
+M>v. la casa</E
+M>un podere</E
+M>vorrei v. questo quadro</E
+M>a chi hai venduto la tua vecchia macchina?</E
+M>per quanto l’hai venduta?</E
+M>sono riuscito a venderla per duemila euro</E
+M>con patto di riserva di proprietà</E
+M>v. con patto di riscatto</E
+M>v. all’asta</E
+M>all’incanto</E
+M>per incanto</E
+M>il mio vicino vende la villa</E
+M> vuoi comprarla?</E
+M>si vende</E
+M>vendesi</E
+M>vendonsi</E
+M>v. carne</E
+M>frutta</E
+M>verdura</E
+M>olio</E
+M>stoffe</E
+M>libri</E
+M>libri che si vendono sulle bancarelle</E
+M>v. un giocatore</E
+M>v. all’ingrosso</E
+M>al minuto</E
+M>al dettaglio</E
+M>v. a peso</E
+M>a misura</E
+M>a numero</E
+M>a pezzo</E
+M>a taglio</E
+M>a quanto si vende?</E
+M>lo vendono a un euro l’etto</E
+M>v. caro</E
+M>a caro prezzo</E
+M>a buon mercato</E
+M>a buon prezzo</E
+M>a basso prezzo</E
+M>v. a prezzo di costo</E
+M>v. sottocosto</E
+M>v. sottoprezzo</E
+M>a perdita</E
+M>qui si vende solo a</E
+M> in</E
+M>per</E
+M>contanti</E
+M> non a credito</E
+M>sta in bottega a v. dalla mattina alla sera</E
+M>è una stagione in cui si vende poco</E
+M>sono articoli che si vendono</E
+M>non si vendono</E
+M>facilmente</E
+M>si tratta di opere scientifiche che si vendono poco</E
+M>è un libro che vende</E
+M>che ha venduto</E
+M>poco</E
+M>vende pellami</E
+M>suo padre vendeva il pesce al mercato</E
+M>v. la propria opera</E
+M>il proprio lavoro</E
+M>v. gli uffici pubblici</E
+M>le cariche ecclesiastiche</E
+M>v. il proprio ingegno</E
+M>la propria arte</E
+M>v. la penna</E
+M>v. il voto</E
+M>v. un segreto</E
+M>v. documenti segreti</E
+M>v. la patria</E
+M>Giuda vendette Cristo per trenta denari</E
+M>v. i proprî compagni di lotta</E
+M>v. l’onore</E
+M>la coscienza</E
+M>vendersi</E
+M>vendersi al nemico</E
+M>s’è venduto anima e corpo al suo protettore</E
+M>v. il proprio corpo</E
+M>vendersi</E
+M>v. la pelle dell’orso prima d’averlo preso</E
+M>saper v. la propria merce</E
+M>questa non me la vendi</E
+M>te la vendo io come l’ho comprata</E
+M>v. cara la vita</E
+M>la pelle</E
+M>s’è venduto fin la camicia</E
+M>ha venduto perfino l’anima</E
+M>ha venduto l’anima al diavolo</E
+M>venderebbe l’anima</E
+M> sua madre</E
+M> pur di</E
+M>Averne</E
+M>essercene da vendere</E
+M>ha salute da v.</E
+M>qui</E
+M> di frutta</E
+M> ce n’è da v.</E
+M>io di pazienza ne ho</E
+M> anche da v.</E
+M> ma non vorrei per questo che</E
+M>tu hai ragione da v.</E
+M> tuttavia</E
+M>v. frottole</E
+M>chiacchiere</E
+M> ciance</E
+M>v. fumo</E
+M>Vendere</E
+M>vendersi per</E
+M>Si vende per Messia Chi nacque Pulcinella</E

@@ -1,0 +1,28 @@
+improvviso.txt
+"acquazzone improvviso"
+"all'improvviso"
+"all'improvviso"
+"apparire all'improvviso"
+"arrivare all'improvviso"
+"attaccare qualcuno all'improvviso"
+"aumento improvviso"
+"cambiamento improvviso"
+"che compare all'improvviso"
+"colpo violento ed improvviso"
+"comparire all'improvviso"
+"dolore improvviso"
+"far cadere all'improvviso"
+"impegno improvviso"
+"improvviso"
+"improvviso, inatteso"
+"impulso improvviso"
+"in modo casuale, in modo improvviso, in modo brusco"
+"movimento spasmodico improvviso"
+"problema improvviso"
+"salto improvviso"
+"scoppio improvviso di qualcosa"
+*[[inaspettato]], [[inatteso]], [[imprevisto]], [[impensato]]
+*[[istantaneo]], [[fulmineo]], [[brusco]], [[repentino]], [[estemporaneo]], [[subitaneo]]
+*[[aspettato]], [[previsto]]
+*[[lento]], [[graduale]]
+*[[all'improvviso]], [[improvvisamente]], [[improvvisare]], [[improvvisato]]

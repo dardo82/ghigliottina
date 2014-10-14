@@ -1,0 +1,42 @@
+innocuo.txt
+"innocuo"
+"harmless, innocuous"
+"rendere innocuo"
+"make innocuous"
+"reso innocuo"
+* non pericoloso, [[inoffensivo]], [[buono]], [[tranquillo]], [[mite]], [[mansueto]], [[docile]], [[pacifico]]
+*[[pericoloso]], [[dannoso]], [[nocivo]],[[cattivo]], [[aggressivo]], [[malefico]]
+*  
+*[[innocuità]]
+M>innocuus</E
+M>nocuus</E
+M>noc</E
+M>una pianta i</E
+M>il prodotto è colorato con sostanze i</E
+M>un farmaco</E
+M>un rimedio i</E
+M>un’arma ormai i</E
+M>animali selvatici ma innocui</E
+M>un demente i</E
+M>minacce i</E
+M>accuse</E
+M>insinuazioni i</E
+M>lascialo gridare</E
+M>è un uomo i</E
+M>un essere</E
+M>un individuo i</E
+M>aggiunse alcune i</E
+M>malignità</E
+M>disse qualche i</E
+M>facezia</E
+M>ci raccontò un’i</E
+M>barzelletta</E
+M>per molti secoli si nutricò e visse inocua l’umana generazione dopo ’l diluvio universale</E
+M>la belva</E
+M>ormai sazia</E
+M>se ne stava innocuamente sdraiata</E
+"name": "Praticamente innocuo"
+"name": "Un desiderio innocuo"
+"name": "Un desiderio innocuo"
+"name": "Un desiderio innocuo"
+"name": "Un desiderio innocuo"

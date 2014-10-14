@@ -1,0 +1,16 @@
+lucchetto.txt
+"http://api.wordreference.com/12bee/json/iten/lucchetto/"
+M>loquet</E
+M>loc</E
+M>loc</E
+M>mettere il l</E
+M>alla porta</E
+M>levare il l</E
+M>aprire</E
+M>chiudere il l</E
+M>la chiave del l</E
+M>mettere il l</E
+M>alla bocca di qualcuno</E
+M>mettersi il l</E
+M>alla bocca</E
+M>CAsco + scoRATO = CARATO</E

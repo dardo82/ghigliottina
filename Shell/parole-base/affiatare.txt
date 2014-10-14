@@ -1,0 +1,11 @@
+affiatare.txt
+"Traduzione di affiatare/ non trovata.\nNo translation was found for affiatare/."
+M>affiatarsi</E
+M>ci affiatammo subito con i nuovi compagni</E
+M>gli scolari si sono bene affiatati col maestro</E
+M>una coppia molto affiatata</E
+M>artisti</E
+M>attori ben affiatati</E
+M>un quartetto perfettamente affiatato</E
+M>giocatori affiatati</E
+M>una squadra affiatata</E

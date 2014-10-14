@@ -1,0 +1,32 @@
+accanto.txt
+"accanto, replace: accanto a"
+"accanto"
+"accanto a"
+"accanto a"
+"accanto a"
+"la ragazza della porta accanto"
+"mettere uno accanto all'altro"
+"nella pagina accanto"
+"passare accanto"
+"passare accanto a qualcosa"
+"porta accanto"
+"porta accanto"
+"proprio qui accanto"
+"rimanere accanto"
+* [[affianco]],  [[vicino]], [[presso]]
+M>aveva a</E
+M>i suoi figlioli</E
+M>io abito qui a</E
+M>A canto agli scudi</E
+M>rasente agli elmetti</E
+M>Udiron le frecce fischiando volar</E
+M>O tu che dormi là su la fiorita Collina tosca</E
+M>e ti sta il padre a canto</E
+M>ero seduto a</E
+M>a lui</E
+M>al negozio</E
+M>alla finestra</E
+M>sta’ a</E
+M>a me</E
+M>stammi accanto</E
+M>gli è sempre accanto</E

@@ -1,0 +1,97 @@
+musicale.txt
+"A carattere musicale"
+"aria musicale"
+"arrangiamento musicale"
+"artista musicale"
+"base musicale"
+"colui che non ha orecchio musicale"
+"commedia musicale"
+"critico musicale"
+"direttore musicale"
+"divisione musicale"
+"dramma musicale"
+"esecuzione musicale"
+"esibizione musicale"
+"evento musicale"
+"festival musicale"
+"fioritura; abbellimento musicale"
+"forma musicale"
+"genere musicale"
+"gruppo musicale"
+"gruppo musicale amatoriale"
+"gruppo musicale che usa attrezzi da cucina"
+"gruppo musicale formato da una sola persona"
+"il blues (genere musicale)"
+"intervallo musicale di due semitoni"
+"intervallo musicale di una semibreve"
+"intervento musicale"
+"leader del gruppo musicale"
+"metrica musicale"
+"musicale"
+"musicale"
+"nota musicale"
+"nota musicale"
+"notazione musicale"
+"notazione musicale"
+"pezzo musicale"
+"pezzo musicale"
+"programma musicale"
+"programma musicale"
+"programma musicale"
+"qualità musicale"
+"rivista musicale"
+"scala musicale"
+"Spettacolo di intrattenimento, drammatico o musicale, interpretato in gruppo leggendo il testo"
+"stanza musicale"
+"stile musicale"
+"strumento musicale"
+"strumento musicale a fiato (flauto, oboe, clarinetto e fagotto)"
+"suono musicale"
+"talento musicale"
+"teatro musicale"
+"tema musicale"
+"tempo musicale"
+"teoria musicale"
+"timbro (musicale)"
+"timbro della voce o di uno strumento musicale"
+*[[armonioso]]
+*Giuseppe Pittano, ''Il primo dizionario di italiano illustrato'' edizione 1995, p. 343, DeAgostini
+M>musicalis</E
+M>mus</E
+M>arte m</E
+M>composizione m</E
+M>discorso</E
+M>tema</E
+M>frase</E
+M>linguaggio m</E
+M>note m</E
+M>notazione m</E
+M>strumenti m</E
+M>esecuzione</E
+M>audizione</E
+M>trattenimento m</E
+M>commedia</E
+M>film m</E
+M>scuola</E
+M>conservatorio</E
+M>liceo m</E
+M>casa editrice m</E
+M>casa m</E
+M>letteratura m</E
+M>rivista</E
+M>rassegna m</E
+M>critica m</E
+M>critico m</E
+M>popolo</E
+M>paese m</E
+M>avere orecchio m</E
+M>essere m</E
+M>voce m</E
+M>versi m</E
+M>una lingua musicale</E
+M>acustica m.</E
+M>suoni m.</E
+M>segnale m.</E
+M>accento m</E
+M>esprimersi musicalmente</E
+M>un film musicalmente ben riuscito</E

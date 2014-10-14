@@ -1,0 +1,17 @@
+ostrica.txt
+"conchiglia d'ostrica"
+"ostrica"
+"ostrica"
+M>strea</E
+M>streum</E
+M>ostr</E
+M>con</E
+M>Ostrea</E
+M>Crassostrea</E
+M>Meleagrina</E
+M>perlifere</E
+M>Ostrea edulis</E
+M>attaccarsi</E
+M>essere attaccato come un&#8217;o</E
+M>allo scoglio</E
+M>esser chiuso come un&#8217;o</E

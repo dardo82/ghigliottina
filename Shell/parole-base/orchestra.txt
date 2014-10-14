@@ -1,0 +1,58 @@
+orchestra.txt
+"accordarsi (di orchestra)"
+"direttore d'orchestra"
+"orchestra leader"
+"dirigere (un'orchestra)"
+"music (orchestra)"
+"orchestra"
+"orchestra"
+"orchestra"
+"teatro: spazio per l'orchestra"
+"orchestra pit"
+"orchestra"
+"orchestra concertistica"
+"orchestra da ballo"
+"orchestra da camera"
+"chamber orchestra"
+"orchestra di liscio"
+"orchestra di strumenti a corda"
+"string orchestra"
+"orchestra sinfonica"
+"symphony orchestra"
+"palchetto per orchestra"
+"relativo all'accordarsi (di orchestra)"
+"spartito d'orchestra"
+"orchestral score"
+*[[suonatori]], [[strumentisti]]
+*[[filarmonica]], [[band]]
+* (nei teatri lirici) golfo mistico
+*italiano
+* inglese
+M>orchestra</E
+M>platea</E
+M>grande o</E
+M>piccola o</E
+M>teatrale</E
+M>sinfonica</E
+M>da camera</E
+M>jazz</E
+M>l’o</E
+M>della Scala</E
+M>di S</E
+M>Cecilia</E
+M>del Maggio musicale fiorentino</E
+M>concerto per violino e o</E
+M>oratorio per 4</E
+M>voci e o</E
+M>suonatore</E
+M>professore d’o</E
+M>direttore d’o.</E
+M>l’o. aveva aperto le danze e adesso la rotonda della birreria era percorsa da un movimento ondulatorio</E
+M>senti che o</E
+M>al piano di sotto!</E
+M>l’aumento dei prezzi ha fatto scatenare un’o</E
+M>di lamentele</E
+M>un’o</E
+M>di colori</E
+M>di immagini</E
+M>di sensazioni</E

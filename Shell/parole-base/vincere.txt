@@ -1,0 +1,155 @@
+vincere.txt
+"finire in testa, finire al comando, vincere"
+"guadagnare\/vincere facilmente"
+"vincere"
+"vincere"
+"vincere"
+"vincere"
+"vincere"
+"vincere"
+"vincere"
+"vincere a mani basse, stravincere"
+"vincere alla grande"
+"vincere con astuzia"
+"vincere con genio"
+"vincere facilmente"
+"vincere il premio"
+"vincere in astuzia"
+"vincere la battaglia"
+"vincere la gara"
+"vincere le elezioni"
+"vincere le elezioni"
+"vincere lo scudetto"
+"vincere per un pelo"
+"vincere qcn a qcs"
+"vincere su"
+"vincere un premio"
+"vincere, sconfiggere, battere"
+*[[superare]], [[sconfiggere]], [[battere]]
+*''(in una guerra, gara, prova)'' [[trionfare]], [[imporsi]]
+*''(un premio)'' [[aggiudicarsi]], [[conseguire]], [[ottenere]], [[meritarsi]], [[guadagnare]]
+* ''(il nemico, l'avversario eccetera)''    [[debellare]], [[sgominare]], [[sbaragliare]], [[schiacciare]], [[annientare]], [[conquistare]], [[espugnare]]
+* riportare vittoria
+*[[perdere]] 
+*''(in una guerra, gara, prova)'' [[soccombere]], [[capitolare]]
+*[[vincersi]], [[vincita]], [[vincente]], [[vincitore]], [[vittoria]]
+*[[pareggiare]]
+M>io vinco</E
+M>tu vinci</E
+M>vinsi</E
+M>vincésti</E
+M>vinto</E
+M>v. il nemico in guerra</E
+M>in battaglia</E
+M>in duello</E
+M>v. il nemico con l’assedio</E
+M>con la fame</E
+M>con l’astuzia</E
+M>v. la battaglia</E
+M>v. la guerra</E
+M>v. uno scontro</E
+M>la battaglia di Canne fu vinta dai Cartaginesi</E
+M>avrebbero affrontato qualunque sacrificio</E
+M>pur di vincere</E
+M>ha vinto tutti gli altri concorrenti</E
+M>v. il concorso</E
+M>la gara</E
+M>la corsa</E
+M>la partita</E
+M>il campionato</E
+M>un incontro di pugilato</E
+M>ha partecipato al concorso e ha vinto il posto di bibliotecario</E
+M>ha vinto il premio Viareggio di letteratura</E
+M>ha vinto la coppa di nuoto</E
+M>la medaglia d’oro alle Olimpiadi</E
+M>v. per quattro a due</E
+M>abbiamo vinto di dieci punti</E
+M>spera</E
+M>è sicuro di v</E
+M>non ha vinto</E
+M> ma si è piazzato bene</E
+M>parve di coloro Che corrono a Verona il drappo verde Per la campagna</E
+M> e parve di costoro Quelli che vince</E
+M> non colui che perde</E
+M>è un giocatore di biliardo eccezionale</E
+M> vince tutti</E
+M>mi ha vinto a briscola</E
+M>a scopone</E
+M>ho vinto la prima mano</E
+M>la partita</E
+M>vinci tu la posta</E
+M>mi ha vinto dieci euro al bridge</E
+M>v. alla lotteria</E
+M>v. un terno al lotto</E
+M>v. la tombola</E
+M>v. la scommessa</E
+M>vince chi arriva per primo a ventuno punti</E
+M>ha puntato sul rosso e ha vinto</E
+M>v. il campo</E
+M>v. la causa</E
+M>una difficile lite giudiziaria</E
+M>si è appellato e ha vinto</E
+M>v. una legge</E
+M>v. un partito</E
+M>la maggioranza vince</E
+M>ha vinto la nostra proposta</E
+M>come spesso accade vinse il partito peggiore</E
+M>fu vinto dalle preghiere dei suoi</E
+M>quelle parole lo vinsero</E
+M>non riesco a v. la sua ostinazione</E
+M>supplicando vinci De l’inimica Dea l’ira e l’orgoglio</E
+M>Per più fïate li occhi ci sospinse Quella lettura</E
+M> e scolorocci il viso</E
+M>Ma solo un punto fu quel che ci vinse</E
+M>Di me vi doglia</E
+M> e vincavi pietate</E
+M>Tra le battaglie</E
+M> Omero</E
+M> nel carme tuo sempre sonanti La calda ora mi vinse</E
+M>lasciarsi vincere dalla passione</E
+M>dall’ira</E
+M>dal risentimento</E
+M>dal sonno</E
+M>v. le difficoltà</E
+M>è riuscita nell’intento</E
+M> vincendo l’opposizione dei suoi genitori</E
+M>l’armonia Vince di mille secoli il silenzio</E
+M>il nuotatore</E
+M>l’imbarcazione</E
+M> non riusciva a v. la corrente del fiume</E
+M>v. la resistenza del mezzo</E
+M>non riuscì a v. la collera</E
+M>il disappunto</E
+M>un senso di disgusto</E
+M>v. la passione</E
+M>l’impulso naturale</E
+M>lo sdegno</E
+M>v. la fame</E
+M>il sonno</E
+M>la paura</E
+M>lo sconforto</E
+M>il dolore</E
+M>vinse il proprio ritegno</E
+M>la sua timidezza</E
+M>v. sé stesso</E
+M>vincersi</E
+M>grandissima gloria v’è aver vinto Manfredi</E
+M> ma molto maggiore è se medesimo vincere</E
+M>non riuscì a vincersi e scoppiò in un pianto dirotto</E
+M>li vinceva tutti in bravura</E
+M>in intelligenza</E
+M>per raffinatezza di gusto</E
+M>come cultura</E
+M>vinceva in bellezza tutte le coetanee</E
+M>lo vinse di cortesia</E
+M>ma vinta è la materia dal lavoro</E
+M>Murmuranti ruscelli e cheti laghi Di limpidezza vincono i cristalli</E
+M>la bella persona Che vince ogni alta lode</E
+M>V. la prova</E
+M>sì che il mulattiere vinse la pruova</E
+M>Non sbigottir</E
+M> ch’io vincerò la prova</E
+M>vincerla</E
+M>prova</E
+M>chi la dura la vince</E
+M>con me non riuscirà a vincerla</E

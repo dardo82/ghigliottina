@@ -1,0 +1,48 @@
+giungere.txt
+"giungere"
+"giungere"
+"giungere"
+"congiungere, unire"
+"giungere a"
+"giungere a"
+"giungere a"
+"giungere a destinazione"
+"giungere a prospettare"
+"giungere ad un accordo"
+"giungere ad un punto"
+"giungere ad un punto morto"
+"giungere ad una conclusione"
+"giungere ad una conclusione"
+"giungere ad una conclusione positiva"
+"giungere ad una decisione"
+"giungere ad una decisione"
+"giungere al capolinea"
+"giungere al limite"
+#* ''La nave '''giunse''' in porto''
+#* '''''Giungere''' le mani''
+*[[raggiungere]]
+*[[giugnere]]
+M>io giungo</E
+M>tu giungi</E
+M>giunsi</E
+M>giungésti</E
+M>giunto</E
+M>Per mensola talvolta una figura Si vede giugner le ginocchia al petto</E
+M>giugnesti Alle redini del cavallo Il morso</E
+M>giungere le mani</E
+M>pur vai Giugnendo legne al foco</E
+M>la politezza non solo è piacevole a risguardare</E
+M>ma giunge anco nobiltà e dignità alle cose vili e sordide per natura</E
+M>spesse volte crudelmente dove la giugnevano la mordevano</E
+M>E sempre corsi</E
+M>e mai non giunsi il fine</E
+M>in sulla testa appunto Fu quel re con un colpo da lui giunto</E
+M>giunto dalle fallaci sue promesse</E
+M>essere</E
+M>finalmente giunsi a casa</E
+M>g. in città</E
+M>sei giunto tardi</E
+M>non è ancora giunto il momento</E
+M>la notizia mi giunge nuova</E
+M>in porto</E
+M>giunse a sostenere il falso</E

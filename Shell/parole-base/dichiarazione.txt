@@ -1,0 +1,79 @@
+dichiarazione.txt
+"con autorità, dichiarazione ufficiale del Pontefice"
+"dichiarazione"
+"dichiarazione"
+"dichiarazione"
+"dichiarazione ad un processo"
+"dichiarazione congiunta"
+"dichiarazione dei redditi"
+"dichiarazione di debito"
+"dichiarazione di esportazione"
+"dichiarazione di fedeltà"
+"dichiarazione di guerra"
+"dichiarazione di intenti"
+"dichiarazione di omosessualità"
+"dichiarazione di principi"
+"dichiarazione giudiziaria"
+"dichiarazione giurata, dichiarazione sotto giuramento"
+"dichiarazione in risposta"
+"dichiarazione iva"
+"dichiarazione liberatoria"
+"dichiarazione negativa"
+"dichiarazione solenne"
+"dichiarazione solenne"
+"dichiarazione sotto giuramento"
+"dichiarazione spontanea"
+"dichiarazione vaga"
+"dichiarazione vaga"
+"falsa dichiarazione"
+"falsa dichiarazione"
+"fare una dichiarazione"
+"regola che ammette come prova solo la dichiarazione del testimone"
+"rilasciare una dichiarazione"
+"understatement, dichiarazione attenuata"
+#*''quell'evasore non aveva fatto la dichiarazione dei redditi''
+*[[comunicazione]], [[affermazione]], [[asserzione]]
+*(dei redditi, delle generalità, eccetera) [[atto]], [[documento]], [[dichiarazione]]
+*(di un fatto giuridico) [[notificazione]], [[promulgazione]]
+*[[annuncio]], [[proclamazione]], [[esposizione]]
+*(di sentimenti) [[confessione]], [[confidenza]], [[ammissione]]
+*''(burocrazia)''  [[certificazione]], [[denuncia]]
+M>declaratio</E
+M>onis</E
+M>fare una d</E
+M>rilasciare una d</E
+M>firmare</E
+M>sottoscrivere una d</E
+M>raccogliere</E
+M>verbalizzare le d</E
+M>dei testimoni</E
+M>fare molte d</E
+M>di stima</E
+M>d’amore</E
+M>amorosa</E
+M>fare una d</E
+M>fare la d</E
+M>d. di matrimonio</E
+M>di principî</E
+M>programmatiche</E
+M>di voto</E
+M>congiunta</E
+M>comune</E
+M>dei diritti dell’uomo</E
+M>di pubblica utilità</E
+M>di guerra</E
+M>dei redditi</E
+M>doganale</E
+M>di alimento</E
+M>la d</E
+M>di morte presunta</E
+M>la d</E
+M>di scienza</E
+M>la d</E
+M>di volontà</E
+M>di neutralità</E
+M>di non belligeranza</E
+M>atout</E
+M>senza atout</E
+M>di un passo oscuro d’un testo antico</E
+M>etimologica di un vocabolo</E

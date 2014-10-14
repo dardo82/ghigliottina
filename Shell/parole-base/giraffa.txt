@@ -1,0 +1,13 @@
+giraffa.txt
+"giraffa"
+"giraffa"
+"la Giraffa"
+*''(cinema, tv)''carrello mobile
+*''collo da giraffa''
+M>zar</E
+M>Giraffa</E
+M>avere un collo di g</E
+M>sembrare</E
+M>essere una g</E
+M>camminare a passi di g</E
+M>Giraffa</E

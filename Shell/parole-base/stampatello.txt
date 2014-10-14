@@ -1,0 +1,13 @@
+stampatello.txt
+"stampatello"
+"stampatello"
+"di scrittura in stampatello"
+M>stampato</E
+M>Carattere s.</E
+M>stampatello</E
+M>s. minuscolo</E
+M>s. maiuscolo</E
+M>stampatello</E
+M>scrivere il titolo in s.</E
+M>si prega di scrivere l&#8217;indirizzo in modo chiaro</E
+M> possibilmente in stampatello.</E

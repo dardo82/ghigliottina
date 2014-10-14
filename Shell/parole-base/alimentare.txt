@@ -1,0 +1,69 @@
+alimentare.txt
+"alimentare, alimentari"
+"alimentare"
+"alimentare"
+"alimentare"
+"alimentare"
+"alimentare le speranze."
+"alimentare una polemica"
+"canale alimentare"
+"catena alimentare"
+"colorante alimentare"
+"derrata alimentare"
+"disturbo alimentare"
+"fabbisogno alimentare"
+"fornitura alimentare"
+"gelatina alimentare"
+"grasso alimentare"
+"il bolo alimentare"
+"industria alimentare"
+"integratore alimentare"
+"intolleranza alimentare"
+"intossicazione alimentare"
+"pianta alimentare"
+"produzione alimentare"
+"regime alimentare"
+#*'''industria alimentare'''
+#*'''ingegneria alimentare'''
+#* '''''alimentare''' un desiderio''
+*[[commestibile]], [[mangiabile]], [[nutriente]], [[nutritivo]]
+*[[nutrire]], [[cibare]], [[sfamare]], [[sostenere]], [[sostentare]]
+* non commestibile
+*[[affamare]]
+*[[alimentazione]]
+*[[alimentarsi]], [[alimentatore]], [[alimento]]
+*[[alimentari]], [[alimentario]], [[alimentarista]]
+"alimentare, alimentari"
+"alimentare"
+"alimentare"
+"alimentare"
+"alimentare"
+"alimentare le speranze."
+"alimentare una polemica"
+"canale alimentare"
+"catena alimentare"
+"colorante alimentare"
+"derrata alimentare"
+"disturbo alimentare"
+"fabbisogno alimentare"
+"fornitura alimentare"
+"gelatina alimentare"
+"grasso alimentare"
+"il bolo alimentare"
+"industria alimentare"
+"integratore alimentare"
+"intolleranza alimentare"
+"intossicazione alimentare"
+"pianta alimentare"
+"produzione alimentare"
+"regime alimentare"
+#*'''industria alimentare'''
+#*'''ingegneria alimentare'''
+#* '''''alimentare''' un desiderio''
+*[[commestibile]], [[mangiabile]], [[nutriente]], [[nutritivo]]
+*[[nutrire]], [[cibare]], [[sfamare]], [[sostenere]], [[sostentare]]
+* non commestibile
+*[[affamare]]
+*[[alimentazione]]
+*[[alimentarsi]], [[alimentatore]], [[alimento]]
+*[[alimentari]], [[alimentario]], [[alimentarista]]

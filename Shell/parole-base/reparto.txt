@@ -1,0 +1,49 @@
+reparto.txt
+"reparto"
+"reparto"
+"reparto"
+"reparto aziendale"
+"reparto calzature"
+"reparto d'avanguardia"
+"reparto da sbarco"
+"reparto delle occasioni"
+"reparto di consegna posta"
+"reparto maternità"
+"reparto oncologico"
+"reparto spedizioni"
+"reparto surgelati"
+"reparto tecnico"
+*[[scompartimento]], [[suddivisione]], [[gruppo]], [[compagnia]]
+M>riparto</E
+M>ripartire</E
+M>riparto</E
+M>piano di riparto</E
+M>piano di reparto)</E
+M>il direttore del r</E
+M>vendite</E
+M>il r</E
+M>pubblicità si trova al primo piano</E
+M>il pubblico affollava il r</E
+M>giocattoli del grande magazzino</E
+M>il r</E
+M>chirurgico dell&#8217;ospedale</E
+M>il capo</E
+M>la capo reparto</E
+M>caporeparto</E
+M>comandare un r</E
+M>presentarsi</E
+M>ritornare al r</E
+M>speciali</E
+M>arditi</E
+M>d&#8217;assalto</E
+M>di sbarco</E
+M>un r</E
+M>di carabinieri ha fatto irruzione nel covo dei banditi</E
+M>esplorativo</E
+M>di attacco</E
+M>di difesa</E
+M>difensivo</E
+M>tramuto</E
+M>basso</E
+M>medio</E
+M>alto</E

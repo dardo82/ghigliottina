@@ -1,0 +1,16 @@
+bandito.txt
+"bandito"
+"bandito"
+"imbandito"
+"bandito"
+"bandito"
+"bandito"
+"bandito; rapinatore"
+*''(persona messa al bando)'' [[fuorilegge]], [[delinquente]], [[brigante]], [[malvivente]], [[gangster]], [[rapinatore]]
+*''(diffuso )'' [[annunziato]]
+*''La giustizia è la forza dei re, la furbizia è la forza della donna, l'orgoglio è la forza dei pazzi, la spada è la forza del '''bandito''', l'umiltà è la forza dei saggi, le lacrime sono la forza del bambino, l'amore di un uomo e una donna è la forza del mondo''
+M>bandire</E
+M>Corte b</E
+M>i b</E
+M>di parte bianca</E
+M>quei ragazzi sono proprio dei banditi!</E

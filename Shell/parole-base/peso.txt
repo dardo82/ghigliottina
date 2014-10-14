@@ -1,0 +1,98 @@
+peso.txt
+"a peso d'oro"
+"avere peso"
+"avere peso"
+"avere peso (cittadini)"
+"avere più peso"
+"controllo del peso"
+"dare il giusto peso"
+"del peso di una libbra"
+"liberare qualcuno di un peso"
+"liberarsi da, liberarsi dal giogo di, liberarsi dal peso di"
+"manco a pagarlo a peso d'oro"
+"mettere su peso"
+"mettere su peso"
+"non dar peso a"
+"non farci caso, non dargli peso, lasciar perdere"
+"perdere peso"
+"perdere peso"
+"perdere peso sudando"
+"perdita di peso"
+"peso"
+"peso"
+"misura del peso"
+"peso"
+"peso"
+"peso"
+"peso"
+"peso"
+"peso"
+"peso"
+"peso"
+"peso a secco"
+"peso a vuoto di un'auto"
+"peso atomico"
+"peso base"
+"peso campione"
+"peso corporeo"
+"peso d'oro"
+"peso eccessivo"
+"peso extra"
+"peso finanziario"
+"peso forma"
+"peso immobile e costante"
+"peso legale"
+"peso leggero"
+"peso lordo"
+"peso lungo"
+"peso massimo"
+"peso massimo leggero"
+"peso medio"
+"peso medio leggero"
+"peso medioleggero"
+"peso molecolare"
+"peso molecolare"
+"peso morto"
+"peso mosca"
+"peso mosca leggero"
+"peso netto"
+"peso piuma"
+"peso piuma"
+"peso sgocciolato"
+"peso specifico"
+"peso welter"
+"peso x"
+"portare un peso"
+"prenderla con leggerezza, non dar peso"
+"pugile peso-piuma"
+"sentire il peso di"
+"sfogarsi, levarsi un peso"
+"sostenere il peso maggiore"
+"Togliersi un peso dallo stomaco"
+"togliersi un peso dallo stomaco parlandone"
+"trascinare via a forza, portare via a forza, portare via di peso"
+"unità di peso"
+"verifica del peso (riferito ai pugili)"
+*[[pesante]]
+*[[pesantezza]], [[gravità]]
+*[[carico]], [[fardello]],[[zavorra]]
+*(luogo in cui si effettuata la pesatura) [[pesa]]
+*[[contrappeso]]
+*[[pesalettere]], [[pesante]], [[pesare]], [[pesata]], [[pesiera]], [[pesista]], [[pesistica]]
+*French
+*[[centavo]] ''m''
+*[[peseta]] ''f''
+*italiano
+*spagnolo
+M>peso</E
+M>péso</E
+M>sum</E
+M>peso</E
+M>pesos</E
+M>p. argentino</E
+M>cileno</E
+M>colombiano</E
+M>cubano</E
+M>dominicano</E
+M>messicano</E
+M>uruguaiano</E

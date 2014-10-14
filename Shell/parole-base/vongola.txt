@@ -1,0 +1,15 @@
+vongola.txt
+"vongola"
+#* ''a [[pranzo]] c'erano gli [[spaghetti]] con le '''vongole'''''
+* [[arsella]]
+* [[vongola verace]]
+M>vòngola</E
+M>conch</E
+M>concha</E
+M>concola</E
+M>Ruditapes decussatus</E
+M>Chamelea gallina</E
+M>spaghetti</E
+M>vermicelli alle vongole</E
+M>Tapes semidecussatus</E
+M>vongola verace</E

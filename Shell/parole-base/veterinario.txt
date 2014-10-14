@@ -1,0 +1,22 @@
+veterinario.txt
+"chirurgo veterinario"
+"fare il veterinario"
+"veterinario"
+"veterinario"
+"del veterinario"
+*[[zooiatra]] 
+*[[dottore]]
+*italiano
+m>veterinarius</e
+m>veterina</e
+m>vetus -t</e
+m>ris</e
+m>arte</e
+m>scienza v.</e
+m>medicina v.</e
+m>veterinaria</e
+m>ricerche v.</e
+m>servizio v.</e
+m>medico v.</e
+m>veterinario</e
+m>veterinaria</e

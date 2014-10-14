@@ -1,0 +1,175 @@
+partire.txt
+"a partire da"
+"andarsene; partire"
+"da contatto di fili (per far partire un'auto)"
+"far partire, avviare, mettere in moto"
+"in vigore a partire da"
+"partire"
+"partire"
+"partire"
+"partire"
+"partire"
+"partire"
+"partire"
+"partire a piedi"
+"partire a razzo"
+"partire da adamo ed eva"
+"partire è un po' morire"
+"partire in quarta"
+"partire in quarta"
+"partire in tutta fretta"
+"partire per"
+"partire per"
+"partire prima del via"
+"partire svantaggiato"
+"partire, allontanarsi da"
+"partire; mettersi in movimento"
+"partire; mettersi in viaggio"
+"prezzi a partire da"
+#*'' devo 
+#* ''il veicolo non parte ''  
+*[[ripartire]]
+M>partire</E
+M>partiri</E
+M>pars partis</E
+M>io parto</E
+M>io partisco</E
+M>tu partisci</E
+M>Venuto m&#8217;è &#8217;l colpo</E
+M>lo cor m&#8217;ha partito</E
+M>il coltello col quale partisce il pane</E
+M>il pane</E
+M>una forma di formaggio</E
+M>il bel paese Ch&#8217;Appenin parte</E
+M>e &#8217;l mar circonda e l&#8217;Alpe</E
+M>Sponda che Arno saluta in suo cammino Partendo la città</E
+M>quando sorge</E
+M>e quando cade il die</E
+M>E quando il sole a mezzo corso il parte</E
+M>Macra</E
+M>che per cammin corto Parte lo Genovese dal Toscano</E
+M>due contendenti</E
+M>una zuffa</E
+M>una rissa</E
+M>Perch&#8217;io parti&#8217; così giunte persone</E
+M>che molta in serbo Vi sia ricchezza non partita</E
+M>ignoro</E
+M>Ecco</E
+M>io parto fra voi quella foresta D&#8217;abeti e pini</E
+M>con</E
+M>verresti in grembo a questo sconsolato A partir seco i dolorosi guai</E
+M>Allor ch&#8217;io partia teco i miei pensieri</E
+M>Con te partisco l&#8217;acqua il pane e il sale</E
+M>egli aveva l&#8217;anello assai caro</E
+M>né mai da sé il partiva</E
+M>venimmo al fine ove si parte Lo secondo giron dal terzo</E
+M>veggendo la donna che i fanciulli da lui partir non si voleano</E
+M>mi pare a proposito che noi per l&#8217;avanti non ci partiam dal fianco l&#8217;una dell&#8217;altra</E
+M>partirsi da questa vita</E
+M>dal mondo</E
+M>partirsi dalla carne</E
+M>dal corpo</E
+M>partirsi dalla giusta via</E
+M>dalla via retta</E
+M>dalla via del bene</E
+M>sai ch&#8217;i&#8217; non mi parto Dal tuo volere</E
+M>essendosi alquanto partito il cavaliere</E
+M>la domandò se bolognese fosse o forestiera</E
+M>partirsi</E
+M>essere</E
+M>ci sono molti modi di arrivare</E
+M> il migliore è non p.</E
+M>da Roma</E
+M>dall&#8217;Italia</E
+M>dalla propria città</E
+M>dal proprio paese</E
+M>per la Sardegna</E
+M>per l&#8217;Inghilterra</E
+M>per il mare</E
+M>per la montagna</E
+M>per il fronte</E
+M>per la guerra</E
+M>soldato</E
+M>in treno</E
+M>col treno</E
+M>in aereo</E
+M>in nave</E
+M>in macchina</E
+M>con un pullman</E
+M>è partito su una moto scintillante</E
+M>in missione</E
+M>per una missione</E
+M>per lavoro</E
+M>per affari</E
+M>per un viaggio di piacere</E
+M>per le vacanze</E
+M>è partito!</E
+M>ha bevuto troppo ed è partito</E
+M>il televisore è partito</E
+M>armiamoci e partite</E
+M>partirsi</E
+M>I0 era già da quell&#8217;ombre partito</E
+M>li ho visti p</E
+M>è giunta l&#8217;ora di p</E
+M>a che ora si parte?</E
+M>mentre stavo per p</E
+M>mi sono accorto che non avevo il biglietto</E
+M>è un po&#8217; morire</E
+M>partir c&#8217;est mourir un peu</E
+M>gli scalatori sono partiti all&#8217;alba</E
+M>sono partito da casa in ritardo</E
+M>sarà meglio p</E
+M>se vogliamo essere a casa prima di sera</E
+M>parte</E
+M>le rondini stanno per p</E
+M>l&#8217;aereo è già partito</E
+M>il prossimo battello parte nel pomeriggio</E
+M>il treno parte dal binario 5</E
+M>il rapido è partito in perfetto orario</E
+M>i bauli partono col mio stesso treno</E
+M>la posta parte fra poche ore</E
+M>essere</E
+M>di corsa</E
+M>è partito come un fulmine</E
+M>a razzo</E
+M>all&#8217;assalto</E
+M>all&#8217;attacco</E
+M>cerchiamo di p</E
+M>insieme</E
+M>liberato dal guinzaglio</E
+M>il cane partì come una freccia</E
+M>il cavallo partì al galoppo</E
+M>bene</E
+M>male</E
+M>i corridori partiranno a cinque minuti di distanza l&#8217;uno dall&#8217;altro</E
+M>è partito con un minuto di svantaggio</E
+M>in quarta</E
+M>oggi la macchina non vuol p</E
+M>stenta a p</E
+M>premere il pulsante che fa p</E
+M>un impianto</E
+M>premette il grilletto e il colpo partì</E
+M>da un presupposto sbagliato</E
+M>partiamo da posizioni troppo diverse</E
+M>io parto dall&#8217;idea che le sue parole siano sincere</E
+M>il lavoro è partito male</E
+M>è ora di p</E
+M>con questa iniziativa</E
+M>a p</E
+M>da oggi</E
+M>a p</E
+M>dal prossimo mese</E
+M>da zero</E
+M>dal nulla</E
+M>un grido partì dalla folla</E
+M>sono parole che partono dal cuore</E
+M>da chi è partito l&#8217;ordine?</E
+M>la proposta è partita da lui</E
+M>dalla piazza partono quattro strade</E
+M>dal chiodo partiva un filo che scendeva fino a terra</E
+M>i nervi che partono dal cervello</E
+M>i raggi che partono dal sole</E
+M>i soldati</E
+M>le truppe partenti per il fronte</E
+M>salutare i partenti</E
+M>i partenti</E

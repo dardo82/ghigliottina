@@ -1,0 +1,45 @@
+orizzontale.txt
+"asse orizzontale"
+"barra orizzontale"
+"linea orizzontale"
+"orizzontale"
+"piano orizzontale"
+"piano orizzontale di proiezione in prospettiva"
+"stabilizzatore orizzontale"
+*[[orizzontalità]], [[orizzontalmente]]
+*[[orizzonte]]
+M>coordinate o</E
+M>coordinate altazimutali</E
+M>piano</E
+M>linea</E
+M>superficie o</E
+M>posizione o</E
+M>stare</E
+M>mettersi</E
+M>in posizione</E
+M>Va una vela piegata</E
+M> e nel silenzio La guida un uomo quasi o.</E
+M>sviluppo o</E
+M>di un edificio</E
+M>righe o</E
+M>verticali</E
+M>chiodo o</E
+M>piano o</E
+M>retta o</E
+M>superficie o</E
+M>tracciare un’o</E
+M>misurare una distanza in orizzontale</E
+M>orizzontale di una matrice</E
+M>riga</E
+M>verticale</E
+M>Orizzontale a destra</E
+M>a sinistra</E
+M>horizontale</E
+M>trasmissione o</E
+M>integrazione o</E
+M>laterale</E
+M>associazioni o</E
+M>verticali</E
+M>collocare</E
+M>disporre orizzontalmente un oggetto</E
+M>linee tracciate orizzontalmente su un foglio</E

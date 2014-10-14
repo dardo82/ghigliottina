@@ -1,0 +1,12 @@
+chirurgo.txt
+"chirurgo"
+"chirurgo plastico"
+"chirurgo veterinario"
+"ferri (del chirurgo)"
+*[[chirurgo robot]], [[chirurgo-robot]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 408
+M>chirurgus</E
+M>ghi</E
+M>medico ch</E
+M>pesce ch</E
+M>pesci chirurgo</E

@@ -1,0 +1,10 @@
+cassettone.txt
+"cassettone"
+"cassettone"
+*[[canterano]], [[comò]]
+*[[solaio]]
+M>cassetto</E
+M>comò</E
+M>canterano</E
+M>lacunare</E
+M>soffitto a cassettoni</E

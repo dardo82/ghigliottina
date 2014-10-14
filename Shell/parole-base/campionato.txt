@@ -1,0 +1,27 @@
+campionato.txt
+"campionato"
+"campionato"
+"campionato di baseball"
+"campionato di baseball (USA)"
+"campionato di pallacanestro"
+"giornata di campionato"
+#*''quest'anno (2012) a Bressanone si è svolto il 
+*[[torneo]], [[competizione]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 325
+* [http
+M>di calcio</E
+M>di tuffi dal trampolino</E
+M>di dattilografia</E
+M>di scacchi</E
+M>di barzellette</E
+M>assoluti</E
+M>maschili</E
+M>femminili</E
+M>professionisti</E
+M>dilettanti</E
+M>iuniores</E
+M>seniores</E
+M>mondiali</E
+M>continentali</E
+M>nazionali</E
+M>provinciali</E

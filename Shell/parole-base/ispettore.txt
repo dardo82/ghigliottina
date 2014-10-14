@@ -1,0 +1,31 @@
+ispettore.txt
+"ispettore"
+"ispettore"
+"ispettore del fisco"
+"ispettore di polizia"
+"ispettore edile"
+"ispettore edile"
+"ispettore generale"
+"vice ispettore"
+*[[sovrintendente]], [[controllore]], [[osservatore]], [[revisore]], [[supervisore]], [[funzionario]]
+*[[ispettorato]], [[ispezione]]
+*[[funzionario]]
+M>trice</E
+M>inspector</E
+M>oris</E
+M>inspectus</E
+M>inspic</E
+M>spec</E
+M>nominare</E
+M>mandare un i</E
+M>ricevere la visita di un i</E
+M>di polizia</E
+M>del lavoro</E
+M>della motorizzazione</E
+M>tecnici centrali</E
+M>tecnici periferici</E
+M>scolastici</E
+M>centrali</E
+M>alle gallerie e opere d’arte</E
+M>generale</E
+M>di produzione</E

@@ -1,0 +1,55 @@
+furto.txt
+"assicurazione contro il furto"
+"furto"
+"furto"
+"furto"
+"furto con scasso"
+"furto di cose di ingente valore"
+"furto di cose di ingente valore"
+"furto in un negozio"
+"polizza furto e incendio"
+"precedenti per furto"
+"prezzo esorbitante; furto"
+"subire un furto"
+#*''è stato assolto dall'accusa di furto''
+*[[ruberia]], [[ladrocinio]]
+*[[furteggiare]], [[furtivo]]
+*[[ladro]], [[scassinatore]], [[taccheggio]]
+M>furtum</E
+M>fur</E
+M>commettere</E
+M>consumare</E
+M>perpetrare un f</E
+M>di gioielli</E
+M>di bestiame</E
+M>di opere d’arte</E
+M>scoprire</E
+M>denunciare un f</E
+M>reo</E
+M>accusato</E
+M>imputato di f</E
+M>ricercato</E
+M>arrestato</E
+M>condannato per f</E
+M>qualificato</E
+M>con scasso</E
+M>d’uso</E
+M>con destrezza</E
+M>borseggio</E
+M>questo film è un f</E
+M>un vero f</E
+M>letterario</E
+M>cinquecento euro per quelle quattro sedie sono</E
+M>mi sembrano</E
+M>un f</E
+M>ma questo è un f</E
+M>legalizzato!</E
+M>nascondere</E
+M>restituire il furto</E
+M>di furto</E
+M>togliere</E
+M>entrare di f</E
+M>li Franceschi</E
+M>tutta Roma presa</E
+M>prendeano di furto Campidoglio di notte</E
+M>furtarèllo</E

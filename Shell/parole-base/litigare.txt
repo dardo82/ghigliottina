@@ -1,0 +1,51 @@
+litigare.txt
+"discutere con qc, litigare con qc, avere un battibecco con qc"
+"litigare"
+"litigare"
+"litigare con"
+"litigare con"
+"litigare con qc, discutere con qc"
+"litigare con qualcuno"
+"litigare con, battibeccare con, avere un battibecco con"
+"litigare per"
+"litigare per"
+"litigare; discutere"
+"persona con la quale si è soliti litigare o scherzare"
+*[[discutere]], [[bisticciare]], attaccar briga, [[rimbeccarsi]], [[contendere]], [[polemizzare]], [[questionare]], [[altercare]]
+*[[lottare]], [[rissare]], [[accapigliarsi]], [[azzuffarsi]]
+*essere d’accordo, andare d’accordo, [[accordarsi]], [[rappacificarsi]]
+* [[leticare]], [[liticare]]
+* [[lite]], [[litigante]], [[litigarsi]], [[litigata]], [[litigio]]
+* [[riottare]]
+M>litigare</E
+M>lis litis</E
+M>io lìtigo</E
+M>tu lìtighi</E
+M>avere</E
+M>per un’eredità contestata</E
+M>fare</E
+M>muovere causa</E
+M>essere in causa</E
+M>litigare con la moglie</E
+M>litiga con tutti</E
+M>stanno sempre lì a litigare</E
+M>a litigarsi</E
+M>smettetela di l</E
+M>non ho voglia di l</E
+M>hai litigato col barbiere?</E
+M>rispose Renzo</E
+M>facendo tuttavia litigar le dita co’ bottoni de’ panni che non s’era ancor potuto levare</E
+M>una cosa a qualcuno</E
+M>contendere</E
+M>disputare</E
+M>gli accattoni di mestiere</E
+M>ridotti a litigar l’elemosina con quelli talvolta da cui in altri giorni l’avevan ricevuta</E
+M>litigarsi qualcosa</E
+M>litigarsi il posto a sedere</E
+M>bambini che si litigano un giocattolo</E
+M>i due cani si litigavano l’osso</E
+M>il fratello e Walter dopo un po’ che lo stavano a sentire ricominciavano a litigarsi per una fondina di pistola o per una ragazza</E
+M>separare</E
+M>dividere</E
+M>rappacificare i litiganti</E
+M>fra due litiganti il terzo gode</E

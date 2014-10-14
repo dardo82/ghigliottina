@@ -1,0 +1,99 @@
+protezione.txt
+"abbigliamento di protezione"
+"banda di protezione"
+"cappuccio di protezione"
+"copertura di protezione"
+"cuffia di protezione"
+"di protezione"
+"di protezione per la testa"
+"guanto di protezione"
+"mettere una protezione"
+"mettersi sotto protezione"
+"offerta di protezione"
+"protezione"
+"protezione"
+"protezione antipolvere"
+"protezione catodica"
+"protezione civile"
+"protezione contro il sole"
+"protezione da lavoro per abiti"
+"protezione dai raggi solari"
+"protezione della catena"
+"protezione familiare"
+"protezione forestale"
+"protezione lampadina"
+"protezione nasale"
+"protezione politica"
+"relativo alla protezione della pace"
+"rete di protezione"
+"sistema di protezione"
+"sotto la protezione di"
+"sotto protezione"
+"tappo di protezione"
+*[[difesa]], [[aiuto]], [[soccorso]], [[sostegno]], [[appoggio]], [[tutela]], [[salvaguardia]]
+*[[copertura]], [[riparo]], [[rifugio]], [[scudo]]
+*''(di artisti, opere)'' [[assistenza]], [[favore]], [[patronato]], [[patrocinio]], [[mecenatismo]]
+*''(di personaggi influenti)'' [[favoritismo]], [[parzialità]], [[favoreggiamento]], [[facilitazione]], [[raccomandazione]], [[spinta]]
+* ''(di personaggi influenti)'' [[sfavore]], [[ostacolo]] 
+M>protectio</E
+M>onis</E
+M>proteg</E
+M>protectus</E
+M>cercare una p</E
+M>dal caldo</E
+M>dal freddo</E
+M>dall&#8217;umidità</E
+M>grata</E
+M>lamiera di p</E
+M>tela incerata sovrapposta per p</E
+M>all&#8217;automobile</E
+M>occhiali da sole per la p</E
+M>della vista</E
+M>sotto la p</E
+M>di queste benefiche stufe e d&#8217;un mantello</E
+M>posso assicurar senza iperbole ch&#8217;io non sono informato de&#8217; rigori dell&#8217;inverno</E
+M>tessuti di p</E
+M>di un impianto</E
+M>di una macchina</E
+M>di un&#8217;apparecchiatura</E
+M>dei metalli</E
+M>catodica</E
+M>protezione delle navi</E
+M>valida</E
+M>efficace</E
+M>debole</E
+M>vana</E
+M>alta</E
+M>potente</E
+M>prendere</E
+M>avere qualcuno sotto la propria p</E
+M>da quando è rimasto senza padre</E
+M>lo zio l&#8217;ha preso sotto la sua p</E
+M>mettersi sotto la p</E
+M>di qualcuno</E
+M>godere la</E
+M>della</E
+M>di qualcuno</E
+M>la p</E
+M>accordata dai prìncipi del Rinascimento ai poeti e agli artisti</E
+M>assume spesso un&#8217;aria di p</E
+M>che disturba</E
+M>si rivolse a noi con un fastidioso tono di p</E
+M>nella voce</E
+M>raccomandazione</E
+M>è andato avanti a forza di protezioni</E
+M>pizzo</E
+M>pagare la protezione</E
+M>del paesaggio</E
+M>della natura</E
+M>dell&#8217;ambiente</E
+M>società per la p</E
+M>degli animali</E
+M>del patrimonio artistico e ambientale</E
+M>civile</E
+M>dipartimento della P</E
+M>civile</E
+M>antiaerea</E
+M>antiatomica</E
+M>diplomatica</E
+M>p. sanitaria</E

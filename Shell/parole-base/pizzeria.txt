@@ -1,0 +1,7 @@
+pizzeria.txt
+"pizzeria"
+"pizzeria, pizza parlor"
+"ristorante pizzeria"
+"pizzeria"
+*[[pizzaiolo]]
+M>ristorante pizzeria</E

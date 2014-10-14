@@ -1,0 +1,16 @@
+allergia.txt
+"allergia"
+"allergia"
+#*''allergia all'alcol''
+*[[allergene]], [[allergico]], [[allergizzare]], [[allergologia]], [[allergologo]], [[anafilassi]]
+*italiano
+*finlandese
+*ungherese
+M>Allergie</E
+M>Energie</E
+M>allergeni</E
+M>avere l’a</E
+M>per</E
+M>verso qualche cosa</E
+M>essere allergico a</E
+M>soffrire di allergie</E

@@ -1,0 +1,321 @@
+valore.txt
+"a valore intero"
+"ardimento, valore"
+"attribuire un valore"
+"aumentare il valore"
+"clausola avente valore di decreto"
+"controllare il valore"
+"croce di guerra al valore aeronautico"
+"dar valore a"
+"dare valore"
+"dare valore a"
+"del valore di mezza corona"
+"di alto valore"
+"di alto valore"
+"di grande valore"
+"di poco valore"
+"di poco valore"
+"di valore"
+"di valore"
+"di valore"
+"di valore"
+"di valore"
+"di valore simile"
+"doppia imposizione; doppia aquila (moneta d'oro del valore di venti dollari)"
+"furto di cose di ingente valore"
+"furto di cose di ingente valore"
+"giudizio di valore"
+"giusto valore"
+"grande valore"
+"grande valore"
+"il valore aggiunto"
+"imposta sul valore aggiunto"
+"lingotto di metallo dorato; privo di valore"
+"per un valore di"
+"per valore"
+"perdere valore"
+"perdere valore"
+"perdere valore"
+"persona di valore ma di brutto carattere"
+"porre un valore su"
+"ricevere il denaro giusto per il valore dell'oggetto venduto"
+"riconoscere il valore"
+"riconoscimento al valore"
+"senza nessun valore"
+"senza valore"
+"senza valore"
+"senza valore"
+"senza valore"
+"senza valore"
+"senza valore"
+"senza valore"
+"stabilire il valore"
+"stimare il valore"
+"stimare il valore"
+"stimare il valore di"
+"tassa del valore aggiunto"
+"teorema del valore medio"
+"teoria sul valore"
+"tribunale per cause di minimo valore"
+"trovare qcs. di valore"
+"valore"
+"valore"
+"valore"
+"valore"
+"valore"
+"valore"
+"valore"
+"valore"
+"valore a pronti"
+"valore aggiunto"
+"valore aggiunto"
+"valore assoluto"
+"valore calorico"
+"valore caratteristico"
+"valore citato"
+"valore contabile"
+"valore corrente"
+"valore dei soldi"
+"valore dei soldi"
+"valore del prestito"
+"valore della parola"
+"valore delle notizie"
+"valore di mercato"
+"valore di riscatto"
+"valore di scambio"
+"valore di verità"
+"valore elevato"
+"valore f"
+"valore inestimabile"
+"valore medio"
+"valore monetario"
+"valore monetario"
+"valore multiplo"
+"valore netto"
+"valore nominale"
+"valore nominale"
+"valore nutritivo"
+"valore previsto"
+"valore sentimentale"
+#*[[persona]] di 
+* (morale, intellettuale, professionale) [[qualità]], [[virtù]], [[merito]], [[bravura]], [[dote]], [[talento]], [[abilità]], [[capacità]], [[esperienza]], [[competenza]], [[preparazione]]
+*(di cosa, condizione, eccetera) [[importanza]], [[pregio]], [[considerazione]], [[rilievo]]
+*[[coraggio]], [[forza]], [[eroismo]], [[audacia]], [[ardimento]], [[fermezza]], [[prodezza]], [[baldanza]]
+*(di un bene) [[equivalente]], [[equivalenza]]
+*(termine commerciale) [[prezzo]], [[costo]], [[corrispondente]]
+*[[bene]], [[ricchezza]]
+*(di documento) [[efficacia]], [[validità]]
+*[[disvalore]]
+*(morale, intellettuale, professionale) [[incapacità]], [[incompetenza]]
+*[[paura]], [[timore]], [[vigliaccheria]], [[viltà]]
+*(di documento) [[inefficacia]], [[nullità]]
+*[[controvalore]], [[valoroso]]
+*[[valere]], [[valorizzare]] 
+* ''Mancò la fortuna, non il '''valore'''''
+M>valor -oris</E
+M>valere</E
+M>un uomo</E
+M> una donna di v.</E
+M>di gran v.</E
+M>nella scienza</E
+M>nell’arte</E
+M>nella politica</E
+M>medico</E
+M>avvocato</E
+M>pittore</E
+M>musicista</E
+M>geografo</E
+M>uomo politico di v.</E
+M>di alto v.</E
+M>gente di molto valore Conobbi che ’n quel limbo 32eran sospesi</E
+M>è un v.</E
+M>un vero valore!</E
+M>virtù</E
+M>In sul paese ch’Adice e Po riga</E
+M> Solea valore e cortesia trovarsi</E
+M>La gentil donna che per suo valore Fu posta da l’altissimo signore Nel ciel de l’umiltate</E
+M> ov’è Maria</E
+M>O buono Appollo</E
+M>a l’ultimo lavoro Fammi del tuo valor sì fatto vaso</E
+M>Divina Commedia</E
+M>Laudato sia ’l tuo nome e ’l tuo valore Da ogne creatura</E
+M>Purg.</E
+M>etterno valore</E
+M>Purg.</E
+M>Par.</E
+M>lo primo e ineffabile Valore</E
+M>Par.</E
+M>virtù</E
+M>Noi sem levati al settimo splendore</E
+M>Che sotto ’l petto del Leone ardente Raggia mo misto giù del suo v.</E
+M>Par.</E
+M>lottare</E
+M>combattere</E
+M>resistere</E
+M>difendersi con v.</E
+M>con grande v.</E
+M>le mirabili prove di v. dei nostri soldati</E
+M>dare prova di eroico v.</E
+M>d’indomito v.</E
+M>ricompense</E
+M>decorazioni al v. militare</E
+M>medaglia d’oro</E
+M>d’argento</E
+M>di bronzo</E
+M>croce al v. militare</E
+M>al v. di marina</E
+M>al v. civile</E
+M>E così smorto</E
+M> d’onne</E
+M>valor voto</E
+M> Vegno a vedervi</E
+M> credendo guerire</E
+M>lei</E
+M> dolce cadente Sopra di te</E
+M> col tuo valor sostieni</E
+M> E al pranzo l’accompagna</E
+M>di più far lamento Valor non mi restò</E
+M>io ti fiammeggio nel caldo d’amore</E
+M>Sì che del viso tuo</E
+M>vinco il v.</E
+M>v. d’uso</E
+M>v. di scambio</E
+M>teoria del v.</E
+M>teoria del v.-lavoro</E
+M>capitale costante</E
+M>capitale variabile</E
+M>plusvalore</E
+M>valore</E
+M>v. di scambio</E
+M>v. commerciale</E
+M>v. di mercato</E
+M>v. venale</E
+M>ragione di scambio</E
+M>prezzo</E
+M>v. aggiunto</E
+M>al costo dei fattori</E
+M>ai prezzi di mercato</E
+M>oggetto di grande v.</E
+M>di scarso v.</E
+M>privo di v.</E
+M>un regalo</E
+M>una pelliccia</E
+M>un lampadario di v.</E
+M>gioiello</E
+M>quadro di inestimabile v.</E
+M>di incalcolabile v.</E
+M>aumentare</E
+M>crescere</E
+M>scemare di v.</E
+M>dare</E
+M>togliere</E
+M>crescere</E
+M>v. a una cosa</E
+M>acquistare una partita di libri per il v. complessivo di ventimila euro</E
+M>v. dichiarato</E
+M>campione senza v.</E
+M>v. nominale</E
+M>v. di mercato</E
+M>v. intrinseco</E
+M>reale</E
+M>v. attuale di un capitale C</E
+M>v. attuale di una rendita</E
+M>debito di v.</E
+M>clausola valore</E
+M>imposta sull’incremento di valore degli immobili</E
+M>imposta sul valore aggiunto</E
+M>Oggetti di valore</E
+M>valori</E
+M>la direzione dell’albergo non risponde dei valori non depositati in cassaforte</E
+M>valori</E
+M>borse valori</E
+M>v. mobiliari</E
+M>Carte valori</E
+M>v. bollati</E
+M>quadro</E
+M>statua</E
+M>ceramica</E
+M>poema</E
+M>sinfonia</E
+M>cimelio di grande v.</E
+M>di grande v. estetico</E
+M>artistico</E
+M>documentario</E
+M>i giovani non possono comprendere interamente il v. della vita</E
+M>non sai quale v. abbiano per me questi ricordi</E
+M>queste fotografie</E
+M>è una scoperta che ha un v. immenso</E
+M>capisci il v. che avrebbe questa notizia se fosse vera?</E
+M>validità</E
+M>efficacia</E
+M>se il documento non è timbrato non ha nessun v.</E
+M>se lui si ostina a negare</E
+M>le tue dichiarazioni non hanno più v. giuridico</E
+M>soltanto la ricevuta ha v. di prova</E
+M>disposizioni che hanno v. di legge</E
+M>mettere in valore</E
+M>mettre en valeur</E
+M>è un riconoscimento che mette in v. i suoi meriti</E
+M>i supremi v. dello spirito</E
+M>tavola dei v.</E
+M>rovesciamento dei v.</E
+M>capovolgimento di tutti i v.</E
+M>giudizio di valore</E
+M>giudizio di realtà</E
+M>filosofia dei v.</E
+M>valore</E
+M>i v. della giustizia</E
+M>della lealtà</E
+M>del bene</E
+M>sistemi di valori</E
+M>valori</E
+M>crisi dei v.</E
+M>v. adattativo</E
+M>fitness</E
+M>v. biologico delle proteine</E
+M>v. di una espressione</E
+M>la formula è valida per qualunque v. delle variabili</E
+M>risolvendo l’equazione si determina il v. dell’incognita</E
+M>a differenti altezze la pressione barometrica assume v. diversi</E
+M>v. di soglia</E
+M>v. assoluto</E
+M>v. di verità</E
+M>v. modale</E
+M>v. normale</E
+M>v. di massima frequenza</E
+M>moda</E
+M>v. mediano</E
+M>v. centrale</E
+M>mediana</E
+M>v. medio</E
+M>valor medio</E
+M>media</E
+M>v. medio aspettato</E
+M>media della distribuzione di probabilità</E
+M>v. nominale</E
+M>punto</E
+M>legatura di valore</E
+M>con valore di</E
+M>avere valore di</E
+M>participio con v. di aggettivo</E
+M>il suo silenzio ha il v. di una rinuncia</E
+M>per me</E
+M> le sue parole hanno</E
+M>acquistano</E
+M>il v. di una promessa</E
+M>specificare il v. di un vocabolo</E
+M>di una locuzione</E
+M>di un segno</E
+M>non ho ben capito il v. della sua risposta</E
+M>in questa frase</E
+M> l’aggettivo acquista un v. particolare</E
+M>valori</E
+M>v. decorativi</E
+M>illustrativi</E
+M>di movimento</E
+M>v. spaziali</E
+M>v. linearistici</E
+M>v. tonali</E
+M>v. luministici</E
+M>v. plastici</E
+M>v. pittorici</E

@@ -1,0 +1,396 @@
+memoria.txt
+"a futura memoria"
+"a memoria"
+"allenamento della memoria"
+"andare a memoria"
+"banco di memoria"
+"buona memoria"
+"che ha buona memoria"
+"dedicato alla memoria di"
+"durata della memoria"
+"esercitare la memoria"
+"giornata della memoria"
+"giorno della memoria"
+"Memorial Day"
+"imparare a memoria"
+"in memoria"
+"in memoria di"
+"in memoria di"
+"mandare a memoria"
+"memoria"
+"memoria"
+"memoria"
+"memoria"
+"memoriale, scritto apologetico"
+"memoria"
+"memoria a breve termine"
+"memoria a cache"
+"memoria a lungo termine"
+"memoria a pila"
+"memoria ad alta velocità"
+"memoria collettiva"
+"memoria corta"
+"memoria cristallizzata"
+"memoria dati"
+"memoria del computer"
+"memoria del computer di sola lettura"
+"memoria del disco"
+"memoria di accesso casuale (RAM)"
+"memoria di breve durata"
+"memoria fotografica"
+"memoria integrativa"
+"memoria magnetica"
+"memoria nascosta"
+"memoria processuale"
+"memoria secondaria"
+"memoria storica"
+"memoria tampone"
+"memoria totale"
+"memoria visiva"
+"non avere memoria di"
+"perdita di memoria"
+"rinfrescare (una nozione nella memoria)"
+"rinfrescarsi la memoria"
+"rintracciare; richiamare (anche alla memoria)"
+"ripescare nella memoria"
+"sapere a memoria"
+"usare la memoria"
+"vuoto di memoria"
+#*''scheda di '''memoria'''''
+*[[mente]], facoltà di ricordare, funzione mnemonica
+*[[ricordo]], [[rappresentazione]], [[immagine]], [[reminiscenza]], [[anamnesi]], [[eco]], [[riecheggiamento]]
+*[[documento]], [[monumento]], [[testimonianza]], [[prova]], [[reperto]], [[resto]], [[traccia]]; racconto fedele, esposizione sistematica, [[memoriale]]
+*[[saggio]], [[trattatello]]
+*[[appunto]], [[nota]], [[annotazione]]
+*[[oblio]], [[dimenticanza]]
+* [[memoriale]]
+*[[evocazione]]
+*''a memoria''
+*''Chi non ha buona '''memoria''', deve avere buone gambe.''
+*''Il rimedio della cattiva '''memoria''' è spesso il pensarci su.''
+*Enciclopedia [http
+M>memoria</E
+M>memor</E
+M>ris</E
+M>sensoriale</E
+M>a breve termine</E
+M>primaria</E
+M>a lungo termine</E
+M>secondaria</E
+M>sensitiva</E
+M>intellettiva</E
+M>affettiva</E
+M>episodica</E
+M>associativa</E
+M>visiva</E
+M>iconica</E
+M>uditiva</E
+M>ecoica</E
+M>locale</E
+M>disturbi della m</E
+M>Falsificazione della m.</E
+M>sviluppare</E
+M>coltivare la m</E
+M>l’arte della m</E
+M>esercitare la m</E
+M>aiutare la m</E
+M>rinforzare</E
+M> rinvigorire</E
+M>stancare</E
+M>riposare la m</E
+M>fare uso della m</E
+M>imprimere</E
+M>fermare</E
+M>fissare</E
+M>stampare</E
+M> scolpire nella m</E
+M> scrivere nella m</E
+M>quelle parole</E
+M>le quali sono scritte ne la mia m</E
+M>richiamare</E
+M>rievocare alla m</E
+M>; cancellare dalla m</E
+M>interrogare la m</E
+M>frugare</E
+M>rovistare</E
+M> rivangare nella m</E
+M>cercare nel fondo della m</E
+M>rischiarare</E
+M>illuminare la m</E
+M>di qualcuno</E
+M>risvegliargli</E
+M>ridestargli</E
+M>rinfrescargli la m</E
+M>fidarsi della m</E
+M>se la mia m</E
+M>non erra</E
+M>se la m</E
+M>non m’inganna</E
+M> non mi tradisce</E
+M>speriamo che la m</E
+M>m’aiuti</E
+M>vivere nella m</E
+M>essere presente alla m</E
+M>restare nella m</E
+M>tornare alla</E
+M>nella</E
+M>cadere</E
+M>esser caduto dalla m</E
+M>uscire di m</E
+M>dalla m</E
+M>avere buona m</E
+M>una m</E
+M>fedele</E
+M>una bella m</E
+M>una m</E
+M>pronta</E
+M>lucida</E
+M>chiara</E
+M>vivace</E
+M>esser dotato di gran m</E
+M>di forte m</E
+M>di una m</E
+M>tenace</E
+M>prodigiosa</E
+M>di una m</E
+M>di ferro</E
+M>avere la m</E
+M>di Pico della Miràndola</E
+M>essere un Pico della Miràndola</E
+M>avere poca</E
+M>cattiva m</E
+M>avere una m</E
+M>debole</E
+M>labile</E
+M>lenta</E
+M>tarda</E
+M>corta</E
+M>essere corto di m</E
+M>avere</E
+M>non avere m</E
+M>essere senza m</E
+M>che memoria!</E
+M>avere m</E
+M>per i nomi</E
+M>per le persone</E
+M>per i luoghi</E
+M>per le fisionomie</E
+M>malattie della m</E
+M>diminuzione</E
+M>perdita della m</E
+M>offuscarsi</E
+M>annebbiarsi</E
+M>oscurarsi della m</E
+M>la m</E
+M>gli serve ancora bene</E
+M>non gli serve più</E
+M>non gli regge</E
+M>lo tradisce</E
+M>non gli dice il vero</E
+M>ritrovare</E
+M>ricuperare</E
+M>riacquistare la m</E
+M>A memoria</E
+M>tenere a m</E
+M>non gli riesce di tenere a m</E
+M>nulla</E
+M>tenere a mente</E
+M>studiare</E
+M>imparare</E
+M>mandare a m</E
+M>ripetere la lezione a m</E
+M>lezione imparata a m</E
+M>studiare a m</E
+M>una poesia</E
+M>un brano musicale</E
+M>sapere a m</E
+M>cose che si sanno a m</E
+M>ormai lo so a m</E
+M>dire</E
+M>recitare</E
+M>ripetere a m</E
+M>suonare a m</E
+M>disegnare</E
+M>dipingere</E
+M>eseguire un ritratto a m</E
+M>memoria</E
+M>ricordo</E
+M>non ho m</E
+M>di ciò che dici</E
+M>dell’episodio m’è rimasta soltanto una pallida m</E
+M>ho una m</E
+M>confusa della sua fisionomia</E
+M>serbare dolce</E
+M>cara</E
+M>gradita</E
+M>amara</E
+M>dolorosa m</E
+M>Da’ be’ rami scendea (Dolce ne la memoria) Una pioggia di fior’ sovra ’l suo grembo</E
+M>la m</E
+M>di quei momenti è ancora viva in me</E
+M>la m</E
+M>della sua colpa non l’abbandona mai</E
+M>lo segue dappertutto</E
+M>lo perseguita continuamente</E
+M>consegnare</E
+M>affidare</E
+M>tramandare alla m</E
+M>dei posteri</E
+M>fatto degno di m</E
+M>d’eterna</E
+M>d’immortale</E
+M>d’imperitura m</E
+M>assunzione di testimoni a futura m</E
+M>A m</E
+M>d’uomo</E
+M>una cosa simile non s’era mai vista</E
+M>a m</E
+M>d’uomo</E
+M>a m</E
+M>nostra</E
+M>a m</E
+M>dei nostri padri</E
+M>letteratura della m</E
+M>di quei tempi s’è persa</E
+M>s’è spenta</E
+M>ormai ogni m</E
+M>de l’opra anco non langue</E
+M>è scomparso lasciando ottima</E
+M>grata</E
+M>onorata m</E
+M>di sé</E
+M>ricordo</E
+M>mio zio</E
+M>di buona</E
+M>di felice m</E
+M>la buon’anima</E
+M>di santa m</E
+M>uomo d’illustre</E
+M>di gloriosa</E
+M>di venerabile m</E
+M>d’infausta</E
+M>di esecrata m</E
+M>benedetta sia sempre la m</E
+M>di lei</E
+M>la sua m</E
+M>non morrà</E
+M>dal mio cuore non si cancellerà mai la sua m</E
+M>onorare</E
+M>eternare</E
+M>perpetuare la m</E
+M>di un grande</E
+M>ravvivare</E
+M>risollevare</E
+M>confortare</E
+M>la m</E
+M>di qualcuno</E
+M>E se di voi alcun nel mondo riede</E
+M> Conforti la m</E
+M>mia</E
+M>che giace Ancor del colpo che ’nvidia le diede</E
+M>calunniare</E
+M>maledire</E
+M>profanare la m</E
+M>di uno</E
+M>offesa alla m</E
+M>di un defunto</E
+M>storica</E
+M>collettiva</E
+M>Armi e sostanze t’invadeano ed are E patria e</E
+M>tranne la memoria</E
+M>tutto</E
+M>alla m</E
+M>alla m</E
+M>di mia madre</E
+M>alla m</E
+M>dell’insigne maestro</E
+M>medaglia alla m</E
+M>in m</E
+M>per m</E
+M>erigere un monumento in m</E
+M>dei Caduti</E
+M>in m</E
+M>del fausto avvenimento fu scoperta una lapide</E
+M>a perpetua m</E
+M>ad perpetuam rei memoriam</E
+M>cipressi e cedri</E
+M>Perenne verde protendean su l’urne Per m</E
+M>perenne</E
+M>per m</E
+M>me lo son segnato per m</E
+M>nel mio taccuino</E
+M>fare un nodo per m</E
+M>nel fazzoletto</E
+M>pro memoria</E
+M>prendere m</E
+M>di qualche cosa</E
+M>consegnare una m. alla Commissione istruzione del Senato</E
+M>fare m</E
+M>di qualcuno</E
+M>di un avvenimento</E
+M>fatto di cui non si conserva alcuna m</E
+M>le care m</E
+M>d’infanzia</E
+M>il ritorno in quei luoghi ridestava in me dolorose m</E
+M>patrie</E
+M>avite</E
+M>il culto</E
+M>la religione delle m</E
+M>vivere di memorie</E
+M>narrare</E
+M>scrivere</E
+M>dettare le proprie m</E
+M>libro di memorie</E
+M>stampare</E
+M>pubblicare le proprie m</E
+M>le «Memorie» di Lorenzo Da Ponte</E
+M>Memorie del Risorgimento</E
+M>museo ricco di preziose m</E
+M>Roma conserva infinite m</E
+M>dell’antica grandezza</E
+M>ricordo</E
+M>quest’orologio è una cara m</E
+M>di mio padre</E
+M>dovette vendere all’asta tutte le m</E
+M>di famiglia</E
+M>i cittadini riconoscenti questa m</E
+M>posero</E
+M>commemorazione</E
+M>leggere</E
+M>pubblicare</E
+M>stampare una dotta m</E
+M>Memorie dei Lincei</E
+M>Atti e memorie della Deputazione di storia patria</E
+M>è caduto all’indietro e ha battuto la memoria</E
+M>immunitaria</E
+M>cellule della m</E
+M>immunitaria</E
+M>m. cellulare</E
+M>a schede perforate</E
+M>a nastri</E
+M>a dischi magnetici</E
+M>bit</E
+M>byte</E
+M>registri</E
+M>posizioni di m</E
+M>indirizzi di m</E
+M>centrale</E
+M>di lavoro</E
+M>ausiliarie</E
+M>periferiche</E
+M>di massa</E
+M>ad accesso casuale</E
+M>diretto</E
+M>RAM</E
+M>random access memory</E
+M>ad accesso sequenziale</E
+M>permanente</E
+M>ROM</E
+M>read only memory</E
+M>permanente programmabile</E
+M>PROM</E
+M>di transito</E
+M>tampone</E
+M>virtuale</E
+M>della lavatrice</E
+M>degli ascensori automatici</E

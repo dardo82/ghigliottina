@@ -1,0 +1,31 @@
+zoo.txt
+"giardino zoologico, zoo"
+"zoological garden"
+"zoo"
+"giardino zoologico"
+"zoo"
+*giardino [[zoologico]]
+* [[zoo-]]
+*[[jardin zoologique]]
+*[[zoológico]]
+* [[djurpark]]
+* [[Tiergarten]], [[Tierpark]]
+*Devoto, Avviamento alla etimologia italiana, Le Monnier
+*[[
+M>zoocecidio</E
+M>zoofilia</E
+M>zoologo</E
+M>zootecnia</E
+M>dermatozoo</E
+M>entozoo</E
+M>protozoo</E
+M>antozoi</E
+M>briozoi</E
+M>echinozoi</E
+M>mesozoi</E
+M>-zoon</E
+M>-zoa</E
+M>Diplozoon</E
+M>Bryozoa</E
+M>Echinozoa</E
+M>Mycetozoa</E

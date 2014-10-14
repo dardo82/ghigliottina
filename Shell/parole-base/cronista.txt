@@ -1,0 +1,17 @@
+cronista.txt
+"cronista"
+"cronista"
+"cronista principiante"
+M>cronaca</E
+M>ista</E
+M>i c</E
+M>del Trecento</E
+M>teatrale</E
+M>giudiziario</E
+M>sportivo</E
+M>mondano</E
+M>capo</E
+M>della radio</E
+M>della televisione</E
+M>radiocronista</E
+M>telecronista</E

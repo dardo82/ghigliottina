@@ -1,0 +1,127 @@
+legale.txt
+"accordo legale"
+"accordo legale"
+"assistente legale"
+"assistenza legale"
+"autorità legale"
+"autorità legale"
+"autorizzazione legale"
+"avvocato (Brit); procuratore legale"
+"azione legale"
+"causa, azione legale"
+"centro di consulenza legale"
+"consulente legale della Corona"
+"consulenza legale"
+"contratto legale"
+"decisione legale"
+"dipartimento legale"
+"diritto legale"
+"documento legale"
+"documento legale"
+"esercitare la professione legale\/forense"
+"esperto legale"
+"etica legale"
+"fiduciario legale"
+"forma legale"
+"intervento legale"
+"istituire un procedimento legale"
+"legale"
+"legale"
+"legale di un'impresa"
+"legale rappresentante"
+"legale, prescritto"
+"medicina legale"
+"medicina legale"
+"medicina legale e delle assicurazioni"
+"medico legale"
+"medico legale"
+"moneta (a corso legale)"
+"moneta legale"
+"numero legale"
+"ora legale"
+"ordine legale"
+"parere legale"
+"parte legale"
+"patrocinio legale gratuito"
+"patteggiare, contrattare un accordo in una causa legale"
+"perizia legale"
+"permesso legale"
+"peso legale"
+"potere legale"
+"pratica legale"
+"pratica legale"
+"pratica legale"
+"precedente legale"
+"professione legale"
+"rappresentante legale"
+"rendere legale"
+"riserva legale"
+"sede legale"
+"separazione legale"
+"sistema legale"
+"società di patrocinio legale gratuito"
+"sotto tutela legale (minore)"
+"stabilire la validità legale"
+"studio legale"
+"studio legale"
+"studio legale"
+"tutela legale"
+#*''oggi è entrata in vigore l'ora legale''
+* conforme alla legge, [[giuridico]], [[costituzionale]], [[giudiziario]]
+*[[legittimo]], [[lecito]], [[giusto]], [[corretto]], [[regolamentare]], [[regolare]], [[valido]], [[permesso]], [[concesso]], [[consentito]], [[ammesso]]
+* [[avvocato]], [[avvocatessa]], [[procuratore]], [[notaio]], [[giurista]], [[giureconsulto]]
+*[[illegale]]
+*[[illegittimo]], [[illecito]], [[vietato]], [[proibito]]
+*[[legalismo]],[[legalità]], [[legalitario]], [[legalizzare]], [[legalmente]]
+*''carta legale''
+M>legalis</E
+M>lex legis</E
+M>studî l</E
+M>scienze l</E
+M>giuridiche</E
+M>una questione l</E
+M>discussione</E
+M>divergenza</E
+M>controversia in materia l</E
+M>considerare un problema sotto l’aspetto l</E
+M>documento valido a tutti gli effetti l</E
+M>studio l</E
+M>consulente l</E
+M>prestare consulenza l</E
+M>ufficio l</E
+M>medicina l</E
+M>chimica l</E
+M>forense</E
+M>ipoteca l</E
+M>poteri l</E
+M>atto che ha validità</E
+M>valore l</E
+M>carta l</E
+M>prove l</E
+M>mezzi l</E
+M>armi l</E
+M>armi</E
+M>vie l</E
+M>adire</E
+M>esperire</E
+M>tentare le vie l</E
+M>procedere per vie l</E
+M>promuovere</E
+M>intentare un’azione l</E
+M>assassinio l</E
+M>legale</E
+M>legittimo</E
+M>interesse l</E
+M>numero l</E
+M>ora l</E
+M>Corso l</E
+M>moneta l</E
+M>Popolazione residente</E
+M>legale</E
+M>paese l</E
+M>consultare il proprio l</E
+M>mettere la faccenda nelle mani di un legale</E
+M>esaminare legalmente una questione</E
+M>un problema</E
+M>agire</E
+M>procedere legalmente</E

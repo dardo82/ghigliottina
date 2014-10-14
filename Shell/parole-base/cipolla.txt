@@ -1,0 +1,38 @@
+cipolla.txt
+"appassire la cipolla"
+"cipolla"
+"cipolla"
+"cipolla d'inverno"
+"cipolla secca"
+"salsa di cipolla"
+"vestirsi a cipolla"
+#* ''hai ancora quella vecchia 
+* [[cipollotto]], [[erba cipollina]]
+M>cep</E
+M>lla</E
+M>cepa</E
+M>Allium cepa</E
+M>Cipolla d’inverno</E
+M>cipolletta</E
+M>Allium fistulosum</E
+M>Allium cepa</E
+M>una resta di cipolle</E
+M>frittata</E
+M>battuto</E
+M>zuppa di cipolle</E
+M>velo di cipolla</E
+M>sottile come un velo di cipolla</E
+M>la c</E
+M>del giglio</E
+M>del tulipano</E
+M>marina</E
+M>scilla</E
+M>che ora fa la tua cipolla?</E
+M>Mal della c</E
+M>cipollatura</E
+M>Cipolla</E
+M>pesce cipolla</E
+M>Cepola rubescens</E
+M>di mare</E
+M>Anomia ephippium</E
+M>cipollaccio col fiocco</E

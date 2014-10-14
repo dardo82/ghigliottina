@@ -1,0 +1,57 @@
+interrogare.txt
+"interrogare"
+"interrogare"
+"interrogare"
+"interrogare uno studente"
+"interrogare, sondare"
+#*''Gli investigatori lo '''hanno interrogato ''' tutta la mattina''
+#*''La maestra '''ha interrogato''' Pierino in matematica''
+* [[porre sotto interrogatorio]],  [[interpellare]]
+*[[rispondere]], [[replicare]]
+* [[interrogatorio]],  [[interrogazione]]
+M>interrogare</E
+M>inter</E
+M>rogare</E
+M>io intèrrogo</E
+M>tu intèrroghi</E
+M>non parlare quando non sei interrogato</E
+M>uno sulle sue intenzioni</E
+M>sopra i fatti avvenuti</E
+M>intorno alle cause dell’assenza</E
+M>Interrogollo poi de la cagione Di quella festa</E
+M>uno se acconsente</E
+M>lo interrogai da chi l’avesse saputo</E
+M>perché avesse rifiutato</E
+M>come avrebbe fatto</E
+M>chiedere</E
+M>domandare</E
+M>la legge</E
+M>i documenti</E
+M>i codici</E
+M>la tradizione</E
+M>la storia</E
+M>l’esperienza</E
+M>il proprio cuore</E
+M>la propria coscienza</E
+M>con gli occhi</E
+M>con lo sguardo</E
+M>l’imputato</E
+M>la parte</E
+M>i testimoni</E
+M>lo studente in storia</E
+M>in geografia</E
+M>in latino</E
+M>la commissione non può i</E
+M>più di un candidato per volta</E
+M>con calma</E
+M>con bonomia</E
+M>è un professore che non sa i</E
+M>Socrate insegnava interrogando</E
+M>il governo sulle pensioni di invalidità</E
+M>l’oracolo</E
+M>un augure</E
+M>il magistrato interrogante</E
+M>rispondere all’interrogante</E
+M>confondere l’interrogato con troppe</E
+M>con insidiose domande</E
+M>l’interrogato si chiuse in un assoluto mutismo</E

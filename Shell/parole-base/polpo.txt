@@ -1,0 +1,9 @@
+polpo.txt
+"polpo"
+#* ''
+* [[polipo]]
+M>lpus</E
+M>lypus</E
+M>pulpa</E
+M>Octopus vulgaris</E
+M>polipétto</E

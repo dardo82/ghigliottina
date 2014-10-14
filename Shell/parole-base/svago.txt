@@ -1,0 +1,18 @@
+svago.txt
+"luogo di svago"
+"momenti di svago"
+"svago"
+"svago"
+"svago"
+*[[divertimento]], [[distrazione]], [[passatempo]], [[diversivo]], [[distensione]], [[ricreazione]], [[spasso]],[[sollievo]]
+*[[lavoro]], [[studio]]
+M>svagare</E
+M>-ghi</E
+M>smetti di lavorare e prenditi un po&#8217; di svago</E
+M>queste ore di svago mi hanno fatto bene.</E
+M>il suo s. preferito è la lettura</E
+M>suonare il violino per me è uno s.</E
+M>una cittadina priva di svaghi per i giovani</E
+M>un uomo</E
+M> almeno</E
+M> ha lo s. della caccia ... Ma una donna!</E

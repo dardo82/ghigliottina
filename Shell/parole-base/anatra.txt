@@ -1,0 +1,22 @@
+anatra.txt
+"anatra"
+"anatra fischiatrice"
+"anatra gialla maggiore"
+"anatra grigia"
+"anatra mandarina"
+"anatra nera americana"
+"anatra selvatica"
+"anatra sposa"
+"caccia all'anatra"
+"uovo di anatra"
+*[[anitra]]
+*[[uccello]]
+M>anas</E
+M>tis</E
+M>tis</E
+M>selvatica</E
+M>germano reale</E
+M>Anas platyrhynchos</E
+M>domestica</E
+M>parere un’a</E
+M>camminare come un’a</E

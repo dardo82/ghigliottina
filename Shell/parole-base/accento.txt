@@ -1,0 +1,175 @@
+accento.txt
+"accento"
+"accento"
+"accento"
+"accento acuto"
+"accento grave"
+"accento principale"
+"accento straniero"
+"porre l'accento"
+#* ''
+#* ''ha messo l'
+#* ''
+* [[accentare]],  [[accentato]],  [[accentatura]],  [[accentazione]]
+* [[sillaba]],  [[segnaccento]]
+* [[Wikizionario
+M>accentus</E
+M>cantus</E
+M>tonico</E
+M>di parola</E
+M>ritmico</E
+M>metrico</E
+M>di frase</E
+M>sintattico</E
+M>porre l’a</E
+M>su una questione</E
+M>su un aspetto di un problema</E
+M>dinamico</E
+M>intensivo</E
+M>espiratorio</E
+M>musicale</E
+M>cromatico</E
+M>tonico</E
+M>forte</E
+M>debole</E
+M>principale</E
+M>secondarî</E
+M>ascendente</E
+M>discendente</E
+M>ascendente</E
+M>discendente</E
+M>metrico</E
+M>ritmico</E
+M>dinamico</E
+M>grafico</E
+M>segnaccento</E
+M>fonico</E
+M>mettere</E
+M>segnare l’a</E
+M>acuto</E
+M>grave</E
+M>circonflesso</E
+M>parlare con a</E
+M>nasale</E
+M>con a</E
+M>straniero</E
+M>ho capito dall’a</E
+M>che era un genovese</E
+M>parlare con a</E
+M>di sdegno</E
+M>di pietà</E
+M>con a</E
+M>umile</E
+M>supplichevole</E
+M>Parole di dolore</E
+M>accenti d’ira</E
+M>Armonïosi accenti Dal tuo labbro volavano</E
+M>soleva ogni lontano accento Del labbro tuo</E
+M>ch’a me giungesse</E
+M>il volto Scolorarmi</E
+M>a. d’intensità</E
+M>arrivò</E
+M>caffè</E
+M>lìbro</E
+M>versaménto</E
+M>sìmile</E
+M>barìtono</E
+M>fàbbricano</E
+M>lìberatene</E
+M>figliuòlo</E
+M>paréte</E
+M>filìolu</E
+M>parìete</E
+M>-àcolo</E
+M>-àggine</E
+M>-ìgine</E
+M>-èdine</E
+M>-ùdine</E
+M>-ésimo</E
+M>-ónzolo</E
+M>-ùcolo</E
+M>segnàcolo</E
+M>goffàggine</E
+M>scaturìgine</E
+M>salsèdine</E
+M>attitùdine</E
+M>umanésimo</E
+M>medicónzolo</E
+M>poetùcolo</E
+M>-àbile</E
+M>-ìbile</E
+M>-àstico</E
+M>ìstico</E
+M>àtico</E
+M>-èsimo</E
+M>-évole</E
+M>-ógnolo</E
+M>-ico</E
+M>amàbile</E
+M>leggìbile</E
+M>scolàstico</E
+M>turìstico</E
+M>linfàtico</E
+M>ventèsimo</E
+M>onorévole</E
+M>giallógnolo</E
+M>tìsico</E
+M>-ìssimo</E
+M>-èrrimo</E
+M>-imo</E
+M>durìssimo</E
+M>aspèrrimo</E
+M>òttimo</E
+M>-ano</E
+M>-ino</E
+M>-ono</E
+M>-ero</E
+M>-imo</E
+M>lòdano</E
+M>lòdino</E
+M>lodàrono</E
+M>lodàssero</E
+M>lodàssimo</E
+M>a. grafico</E
+M>acuto</E
+M>fémmina</E
+M>córrere</E
+M>grave</E
+M>sèdia</E
+M>mòbile</E
+M>Vocabolario</E
+M>perchè</E
+M>perché</E
+M>caffè</E
+M>carità</E
+M>virtù</E
+M>chiù</E
+M>piè</E
+M>più</E
+M>può</E
+M>ciò</E
+M>già</E
+M>giù</E
+M>qui</E
+M>qua</E
+M>bàlia</E
+M>balìa</E
+M>pèsca</E
+M>pésca</E
+M>scòrsi</E
+M>scórsi</E
+M>dànno</E
+M>danno</E
+M>Vocabolario</E
+M>abate</E
+M>abéte</E
+M>varo</E
+M>vàrio</E
+M>paura</E
+M>càuto</E
+M>lupo</E
+M>làpis</E
+M>mèta</E
+M>méta</E
+M>vòto</E
+M>vóto</E

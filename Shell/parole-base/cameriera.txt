@@ -1,0 +1,5 @@
+cameriera.txt
+"cameriera"
+"cameriera d'albergo"
+M>cameriere</E
+M>al piano</E

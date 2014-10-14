@@ -1,0 +1,15 @@
+cometa.txt
+"cometa"
+"stella cometa"
+"testa della cometa"
+*italiano
+*spagnolo
+*occitano
+M>cometes</E
+M>cometa</E
+M>stella cometa</E
+M>nucleo</E
+M>chioma</E
+M>testa</E
+M>coda</E
+M>carassio dorato</E

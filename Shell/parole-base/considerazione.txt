@@ -1,0 +1,92 @@
+considerazione.txt
+"(tenere) in alta considerazione"
+"(tenere) in considerazione"
+"(tenere) in considerazione"
+"attenta considerazione"
+"avere considerazione per"
+"considerazione"
+"considerazione"
+"considerazione iniziale"
+"dare considerazione"
+"dopo considerazione"
+"grande stima; considerazione"
+"in considerazione"
+"in considerazione"
+"in considerazione"
+"in considerazione a"
+"in considerazione di"
+"in considerazione di"
+"in considerazione di"
+"in considerazione di ciò"
+"la scelta è stata fatta tenendo in considerazione..."
+"mostrare considerazione per"
+"non tenere in sufficiente considerazione"
+"per una considerazione"
+"prendere in considerazione"
+"prendere in considerazione, valutare"
+"prendere qc in considerazione"
+"prendere qc in considerazione"
+"relativo alla considerazione di fallimento"
+"senza considerazione"
+"senza considerazione"
+"senza considerazione per"
+"tenere in considerazione"
+"tenere in considerazione"
+"tenere in considerazione che"
+"tenuto in gran considerazione"
+#* ''ti '''considero''' competente in questo campo''
+#* ''prendo in '''considerazione''' il fatto che tu sia competente''
+*attenta valutazione, esame scrupoloso, [[analisi]]
+*[[stima]], [[reputazione]], [[apprezzamento]], [[credito]], [[riguardo]], [[rispetto]]
+*[[prudenza]], [[cautela]], [[accortezza]], [[avvedutezza]]
+*[[riflessione]], [[notazione]], [[osservazione]], [[commento]],[[opinione]]
+* [[attenzione]], [[riflessione]], [[nota]]
+*[[discredito]], [[disprezzo]]
+*[[imprudenza]], [[sconsideratezza]], [[avventatezza]] 
+* [[considerare]], [[considerabile]]
+M>consideratio</E
+M>onis</E
+M>decidere</E
+M>deliberare dopo lunga</E
+M>seria</E
+M>matura considerazione</E
+M>prendere in c</E
+M>bisogna prendere in c</E
+M>tutte le circostanze del fatto</E
+M>ho preso in c</E
+M>la tua offerta</E
+M>la Camera dei deputati ha deciso di prendere in c</E
+M>la proposta di legge parlamentare</E
+M>fece alcune c</E
+M>sull’accaduto</E
+M>brevi c</E
+M>filosofiche</E
+M>morali</E
+M>spicciole</E
+M>procedere con poca c</E
+M>cosa fatta senza c</E
+M>bisogna tenere in c</E
+M>anche la difficoltà dell’impresa</E
+M>fatto che non merita c</E
+M>in c</E
+M>in c</E
+M>dei recenti avvenimenti</E
+M>merita un premio</E
+M>anche in c</E
+M>della sua buona volontà</E
+M>avere</E
+M>non avere considerazione</E
+M>non ha nessuna c</E
+M>per me</E
+M>per le mie fatiche</E
+M>per i miei sacrifici</E
+M>avere</E
+M>tenere in c</E
+M>essere in c</E
+M>essere in grande c</E
+M>godere di molta c</E
+M>persona</E
+M>cosa degna di c</E
+M>è tenuto in c</E
+M>di santo</E
+M>di persona onestissima</E

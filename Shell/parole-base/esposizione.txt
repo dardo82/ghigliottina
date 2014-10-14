@@ -1,0 +1,80 @@
+esposizione.txt
+"capacità di esposizione"
+"contenitore per esposizione in vetro"
+"doppia esposizione"
+"durata dell'esposizione"
+"esposizione"
+"esposizione"
+"esposizione"
+"esposizione"
+"esposizione"
+"esposizione"
+"esposizione di fiori"
+"esposizione di macchine usate"
+"esposizione eccessiva"
+"inelegante, grossolano nell'esposizione orale"
+#*'' dal 1° maggio al 31 ottobre 2015 Milano ospiterà l'esposizione universale dal titolo "Nutrire il pianeta, energie per la vita"
+*[[racconto]], [[narrazione]], [[descrizione]], [[affermazione]], [[enunciazione]], [[dimostrazione]], [[testimonianza]], [[relazione]], [[rapporto]], [[resoconto]], [[spiegazione]], [[illustrazione]], [[interpretazione]], [[divulgazione]], [[ragguaglio]], [[dichiarazione]]
+*[[posizione]], [[collocazione]], [[orientamento]], [[ubicazione]]
+*''(banca)'' [[debito]], [[deficit]]
+*''(banca)'' [[credito]]
+*[[pavesata]], [[infiorata]], [[mostra]], [[negozio]], [[esporre]], [[esposto]]
+M>expositio</E
+M>onis</E
+M>expon</E
+M>expos</E
+M>tus</E
+M>fare un’e</E
+M>dei fatti</E
+M>delle circostanze</E
+M>dei proprî concetti</E
+M>di una scienza</E
+M>di una dottrina</E
+M>di un passo d’autore</E
+M>chiara</E
+M>lucida</E
+M>breve</E
+M>sommaria</E
+M>fedele</E
+M>leggere un’e</E
+M>degli avvenimenti</E
+M>invenzione</E
+M>elocuzione</E
+M>finanziaria</E
+M>economico-finanziaria</E
+M>sviluppo</E
+M>ripresa</E
+M>della bandiera</E
+M>del Ss</E
+M>Sacramento</E
+M>delle reliquie</E
+M>del neonato</E
+M>del cadavere</E
+M>sepoltura per e</E
+M>ai raggi del sole</E
+M>i rischi di una prolungata e</E
+M>ai raggi X</E
+M>tempo di e</E
+M>tempo di posa</E
+M>sovraesposizione</E
+M>sottoesposizione</E
+M>a mezzogiorno</E
+M>a levante</E
+M>a ponente</E
+M>a mezzanotte</E
+M>di un ambiente</E
+M>casa con buona esposizione</E
+M>fare</E
+M>organizzare un’e</E
+M>partecipare a un’e</E
+M>di quadri</E
+M>di statue</E
+M>di arte decorativa</E
+M>industriale</E
+M>di prodotti agricoli</E
+M>di prodotti artigianali</E
+M>universale</E
+M>palazzo dell’e</E
+M>andare all’esposizione</E
+M>debitoria</E
+M>bancaria</E

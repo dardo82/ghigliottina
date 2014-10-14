@@ -1,0 +1,16 @@
+collant.txt
+"calze collant"
+"calze collant di nylon"
+"collant"
+M>collant</E
+M>kolã</E
+M>coller</E
+M>kollànt</E
+M>portare</E
+M>indossare il collant</E
+M>una scatola di collant</E
+M>di collants</E
+M>collant da 20</E
+M> 30 denari</E
+M>den</E
+M>collant lavorato</E

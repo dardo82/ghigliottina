@@ -1,0 +1,26 @@
+sorveglianza.txt
+"agente di sorveglianza"
+"controllo di sorveglianza"
+"di sorveglianza"
+"gruppo di sorveglianza"
+"servizi di sorveglianza con cane"
+"sistema in cui le persone rispettano le regole senza supervisione o sorveglianza"
+"sorveglianza"
+"sorveglianza"
+"sotto sorveglianza"
+"sotto stretta sorveglianza"
+*[[sorvegliare]]
+M>sorvegliare</E
+M>surveillance</E
+M>avere compiti</E
+M>funzioni di s.</E
+M>essere addetto alla s.</E
+M>esercitare una rigida s.</E
+M>la s. notturna viene svolta da guardie giurate</E
+M>sfuggire alla s. del guardiano</E
+M>eludere la s. del portiere</E
+M>magistrato di s.</E
+M>s. speciale della pubblica sicurezza</E
+M>sorvegliati speciali</E
+M>dovendo partire</E
+M> ho affidato la s. della casa alla governante</E

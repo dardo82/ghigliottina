@@ -1,0 +1,110 @@
+rigido.txt
+"corpo rigido"
+"diventare più rigido, inasprirsi"
+"duro, rigido"
+"inamidato; rigido"
+"inflessibile, rigido, intransigente"
+"inflessibile, rigido, intransigente"
+"inverno rigido"
+"irrigidito, rigido, congelato, ghiacciato"
+"non rigido"
+"pino rigido"
+"rigido"
+"rigido"
+"rigido"
+"tempo rigido, freddo"
+#* una rigida sbarra di ferro
+#*tolta l'ingessatura mi è rimasta la gamba rigida 
+#*  era 
+#* è un inverno 
+#* un insegnante rigido
+*(di materiali) [[duro]], [[resistente]], [[incurvabile]], [[indeformabile]], [[inflessibile]]
+*(di arti o muscoli) [[irrigidito]], [[legato]], [[inarticolato]], [[stecchito]], [[paralizzato]], [[intirizzito]]
+*(di materiali) [[pieghevole]], [[elastico]], [[flessibile]]
+*(di arti o muscoli) [[articolato]], [[snodato]]
+*[[rigidezza]], [[rigidità]], [[irrigidirsi]]
+M>rig</E
+M>dus</E
+M>rig</E
+M>un bastone r</E
+M>una sbarretta</E
+M>una riga di metallo</E
+M>di materiali plastici</E
+M>rigida</E
+M>corpo r</E
+M>sistema r</E
+M>moto r</E
+M>corpo r</E
+M>a flessione</E
+M>a torsione</E
+M>disco r.</E
+M>hard disk</E
+M>megabyte</E
+M>disco flessibile</E
+M>floppy disk</E
+M>disco fisso</E
+M>comportamento r</E
+M>giaceva disteso e r</E
+M>come un cadavere</E
+M>aveva un braccio r.</E
+M>teneva le dita r</E
+M>sul volante</E
+M>ho le membra r</E
+M>irrigidite</E
+M>per il freddo</E
+M>il caporale stava r</E
+M>sull&#8217;attenti</E
+M>febbraio è stato molto r</E
+M>nel più r</E
+M>inverno</E
+M>i giorni sono miti</E
+M>ma le notti sono molto r</E
+M>clima r</E
+M>stagione r</E
+M>senti che aria r</E
+M>fra le r</E
+M>alpi</E
+M>i suoi lineamenti r</E
+M>non esprimevano la minima emozione</E
+M>il soldano in presenzia di molti con r</E
+M>viso a Ambruogiuol comandò</E
+M>Facea sovente pe&#8217; boschi soggiorno</E
+M>Inculto sempre e r</E
+M>in aspetto</E
+M>è un uomo r</E
+M>di costumi r</E
+M>di r</E
+M>principî morali</E
+M>giudice</E
+M>professore</E
+M>educatore r</E
+M>un r</E
+M>censore</E
+M>difensore della costituzione</E
+M>della libertà</E
+M>sei troppo r</E
+M>con i tuoi dipendenti</E
+M>una donna r</E
+M>lei dura ancor si mostra a Lauro</E
+M>Rigida più che a Roma già Lucrezia</E
+M>una r</E
+M>giustizia</E
+M>disciplina r</E
+M>pena</E
+M>ha avuto un&#8217;educazione eccessivamente r</E
+M>norme r</E
+M>di vita</E
+M>regola religiosa molto r</E
+M>una r</E
+M>applicazione dei regolamenti</E
+M>costituzione r</E
+M>costituzione flessibile</E
+M>domanda r</E
+M>offerta r</E
+M>educare rigidamente i giovani</E
+M>procedere</E
+M>giudicare rigidamente</E
+M>una disciplina troppo rigidamente intesa e attuata</E
+M>seguire</E
+M>far osservare</E
+M>rigidamente le disposizioni superiori</E

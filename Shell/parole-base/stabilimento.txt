@@ -1,0 +1,58 @@
+stabilimento.txt
+"imbottigliato presso lo stabilimento di"
+"officina, stabilimento"
+"stabilimento"
+"stabilimento"
+"stabilimento balneare"
+"stabilimento manifatturiero"
+*[[fabbrica]], [[industria]], [[officina, manifattura, laboratorio, opificio
+* ''(ospedaliero, balneare, eccetera)'' [[fabbricati]], [[complesso]], [[impianto]], [[attrezzature]], [[edificio]]
+* ''(di una data, un appuntamento, eccetera)'' [[determinazione]], [[fissazione]], [[decisione]], [[consolidamento]]
+*''(in un territorio)'' [[insediamento]], presa di possesso.
+*[[stabilire]]
+M>stabilire</E
+M>établissement</E
+M>stabilimentum</E
+M>s. di una colonia</E
+M>tendere allo s. di una pace durevole</E
+M>lottare per lo s. di un nuovo ordine sociale</E
+M>se anche il lusso fosse stato cagione del deperimento della repubblica</E
+M> e dello s. del principato</E
+M> ciò ...</E
+M>s. di patti</E
+M>di condizioni</E
+M>di accordi</E
+M>s. della propria dimora in un luogo</E
+M>stabilimento</E
+M>convenzioni</E
+M>clausole di s.</E
+M>diritto di s.</E
+M>S. balneare</E
+M>s. termale</E
+M>s. idroterapico</E
+M>S. carcerario</E
+M>s. di custodia preventiva</E
+M>s. di pena ordinario</E
+M>speciale</E
+M>S. industriale</E
+M>s. siderurgico</E
+M>s. tipografico</E
+M>s. chimico-farmaceutico</E
+M>s. tessile</E
+M>s. per la produzione di ...</E
+M>s. per la lavorazione di ...</E
+M>s. per lo sfruttamento di ...</E
+M>acciaieria</E
+M>caseificio</E
+M>cotonificio</E
+M>lanificio</E
+M>oleificio</E
+M>s. militari</E
+M>établissements</E
+M>settlements</E
+M>S. britannici dello Stretto</E
+M>S. francesi dell’India</E
+M>S. pubblico</E
+M>établissement public</E
+M>stabilimento del porto</E
+M>établissement du port</E

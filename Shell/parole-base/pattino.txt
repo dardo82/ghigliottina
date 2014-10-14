@@ -1,0 +1,20 @@
+pattino.txt
+"di pattino da ghiaccio"
+"pattino"
+"pattino"
+"pattino"
+"pattino d'atterraggio"
+"pattino da ghiaccio"
+"pattino da hockey"
+M>patin</E
+M>patte</E
+M>pattinare</E
+M>p. in linea</E
+M> roller</E
+M>da neve</E
+M>patin à neige</E
+M>patin</E
+M>di coda</E
+M>di estremità</E
+M>dell&#8217;ala</E
+M>centrale</E

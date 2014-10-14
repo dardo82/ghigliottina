@@ -1,0 +1,9 @@
+spalare.txt
+"spalare"
+*[[togliere]], [[levare]], [[ripulire]]
+*[[mettere]], [[aggiungere]]
+M>pala</E
+M>s. la terra</E
+M>la sabbia</E
+M>s. la neve</E
+M>s. i remi</E

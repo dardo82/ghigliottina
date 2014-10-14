@@ -1,0 +1,23 @@
+cartella.txt
+"cartella"
+"cartella"
+"cartella"
+"cartella"
+"cartella clinica"
+"cartella da scuola"
+"cartella fondiaria"
+"directory, cartella, sottodirectory, sottocartella"
+M>carta</E
+M>della tombola</E
+M>della lotteria</E
+M>delle tasse</E
+M>c. pazze</E
+M>l’articolo dev’essere contenuto in dieci c</E
+M>dattiloscritte</E
+M>biografica</E
+M>biografica</E
+M>clinica</E
+M>fondiaria</E
+M>obbligazioni di credito fondiario</E
+M>di rendita</E
+M>cartagloria</E

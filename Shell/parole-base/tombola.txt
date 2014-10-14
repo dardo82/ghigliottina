@@ -1,0 +1,8 @@
+tombola.txt
+"tombola"
+"tombola, bingo"
+"tombola"
+"occorrente per la tombola"
+"game piece for tombola"
+"tombola"
+*[[tombolare]]

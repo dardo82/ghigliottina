@@ -1,0 +1,56 @@
+veduta.txt
+"a ragion veduta"
+"a ragion veduta"
+"larghezza di veduta"
+"veduta"
+"veduta"
+"veduta aerea"
+* [[vista]], [[panorama]], [[immagine]], [[quadro]], [[disegno]], [[fotografia]], [[riproduzione]] 
+M>vedere</E
+M>veduto</E
+M>lo so di veduta</E
+M>per veduta</E
+M>lo posso affermare di veduta</E
+M>testimone di veduta</E
+M>a prima v.</E
+M>a prima vista</E
+M>togliere</E
+M>impedire la v.</E
+M>ma tutto il coraggio gli mancò quando fu in veduta della porta</E
+M>Oh abbondante grazia ond’io presunsi Ficcar lo viso per la luce etterna</E
+M> Tanto che la v. vi consunsi!</E
+M>Poi volò fuor de la v. mia</E
+M> Sì ch’a mirarlo indarno m’affatico</E
+M>di quassù c’è</E
+M>si ha</E
+M>si gode</E
+M>una bella v.</E
+M>il piazzale ha una stupenda v. sul lago</E
+M>villa con magnifica veduta</E
+M>vista</E
+M>veduta</E
+M>prospetto</E
+M>v. diretta</E
+M>v. obliqua</E
+M>v. laterale</E
+M>luce</E
+M>pittore di vedute</E
+M>ho acquistato alcune cartoline con veduta della città</E
+M>alcune v. della città</E
+M>v. panoramica di Firenze</E
+M>ho visto da un antiquario una vecchia v. a colori della via Appia</E
+M>raccolta di vedute</E
+M>v. a volo d’uccello</E
+M>v. prospettica</E
+M>sono concetti troppo ardui</E
+M> che superano la mia v.</E
+M>Or tu chi se’</E
+M> che vuo’ sedere a scranna</E
+M> Per giudicar di lungi mille miglia Con la v. corta d’una spanna?</E
+M>uomo di ampie v.</E
+M>di v. meschine</E
+M>avere larghe v.</E
+M>larghezza di vedute</E
+M>la sua azione è d’ostacolo alle mie v.</E
+M>avere delle v. su qualcuno</E
+M>vue</E

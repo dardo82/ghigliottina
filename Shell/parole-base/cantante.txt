@@ -1,0 +1,30 @@
+cantante.txt
+"cantante"
+"cantante blues"
+"cantante del coro"
+"cantante di strada"
+"cantante folk"
+"cantante jazz"
+"cantante lirica"
+"cantante popolare"
+"cantante professionista"
+"cantante rock"
+"in tournee (cantante)"
+"leader, cantante"
+*[[canzonettista]], [[cantautore]], [[vocalist]], [[corista]]
+*italiano
+*spagnolo
+M>cantare</E
+M>i c</E
+M>dell’Opera</E
+M>un buon c</E
+M>un’ottima c</E
+M>i c</E
+M>della televisione</E
+M>un c</E
+M>una c</E
+M>di musica leggera</E
+M>basso c</E
+M>cantare</E
+M>elica c</E
+M>fiamma c</E

@@ -1,0 +1,157 @@
+area.txt
+"area"
+"area"
+"area"
+"area"
+"surface area"
+"area"
+"area"
+"area"
+"area a rischio"
+"risk area"
+"area associativa"
+"association area"
+"area attrezzata"
+"park area"
+"area censuaria"
+"area circostante"
+"surrounding area"
+"area costiera"
+"coastal area"
+"area di attesa per aeroplani"
+"holding area"
+"area di bassa pressione"
+"area of low pressure"
+"area di drenaggio"
+"drainage area"
+"area di gioco"
+"playing area"
+"area di gioco"
+"area for playing"
+"area di impatto"
+"impact area"
+"area di manovra"
+"manoeuvre area"
+"area di meta"
+"area di porta"
+"goal area"
+"area di rigore"
+"penalty area"
+"area di riqualificazione"
+"redevelopment area"
+"area di ristoro"
+"area di ristoro e intrattenimento"
+"area di servizio"
+"service area"
+"area di sosta"
+"parking area"
+"area di studio"
+"study area"
+"area disastrata"
+"disaster area"
+"area esterna al campo"
+"area beyond the field"
+"area fabbricabile"
+"area gelata"
+"area metropolitana"
+"metropolitan area"
+"area naturalistica"
+"naturalistic area"
+"area netta"
+"net area"
+"area petrolifera"
+"area professionale"
+"area protetta"
+"protected area"
+"area remota"
+"area selvaggia"
+"area selvatica"
+"wilderness area"
+"area sinistrata"
+"area soggetta ad allagamenti"
+"area sosta caravan"
+"area speciale, zona speciale"
+"special area"
+"area stampa"
+"area svantaggiata"
+"depressed area"
+"area urbanizzata"
+"built-up area"
+"area vuota"
+"blank area"
+"canone di locazione di area edificabile"
+"canone di locazione di area edificabile"
+"che spende denaro in un area per ottenere il consenso popolare in vista delle votazioni"
+"equiareale, di area uguale"
+"equal-area"
+"gol da fuori area"
+"grafico ad area"
+"area graph"
+"nell'area di, nella zona di"
+"in the area of"
+"nell'area, nella zona, nelle vicinanze, nei paraggi"
+"in the area"
+"per via area"
+"piccola area"
+"small area"
+"responsabile area tecnica"
+"technical area manager"
+"stazione in un'area remota"
+"vasta area verde"
+"large green area"
+"zona, area di controllo"
+"testing area"
+*[[zona]], [[territorio]], [[superficie]], [[superficie]], [[località]]
+*italiano
+*inglese
+M>area</E
+M>nell’area prospiciente alla villa</E
+M>fabbricabile</E
+M>pubblica</E
+M>di servizio</E
+M>di parcheggio</E
+M>sismica</E
+M>vulcanica</E
+M>ciclonica</E
+M>anticiclonica</E
+M>di distribuzione</E
+M>areale</E
+M>linguistica</E
+M>culturale</E
+M>zona</E
+M>depressa</E
+M>monetaria</E
+M>della sterlina</E
+M>del dollaro</E
+M>a. dell’euro</E
+M>zona</E
+M>di libero scambio</E
+M>di mercato</E
+M>commerciale</E
+M>di consumo</E
+M>metodo delle a</E
+M>di rigore</E
+M>di porta</E
+M>di calcio d’angolo</E
+M>di meta</E
+M>di tiro libero</E
+M>zona</E
+M>molli</E
+M>corticale</E
+M>germinativa</E
+M>disco germinativo</E
+M>pellucida</E
+M>opaca</E
+M>del triangolo</E
+M>del quadrato</E
+M>trovare</E
+M>calcolare l’a</E
+M>di un poligono</E
+M>della base</E
+M>laterale</E
+M>terreni incolti che si estendono per un’a</E
+M>di parecchi chilometri quadrati</E
+M>i partiti dell’a</E
+M>di maggioranza</E
+M>l’a. di centrosinistra</E
+M>democratica</E

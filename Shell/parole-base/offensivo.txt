@@ -1,0 +1,34 @@
+offensivo.txt
+"fanatico religioso appartenente ad una setta (offensivo)"
+"muso giallo (offensivo)"
+"offensivo"
+"offensivo"
+"offensivo, ingiurioso"
+"termine offensivo inglese per gli africani e gli asiatici"
+"termine offensivo per messicani"
+"termine offensivo per persone di origine italiana"
+"termine offensivo per un bianco"
+#*''Il suo modo di fare è '''offensivo''' nei miei confronti!''
+*[[ingiurioso]], [[oltraggioso]]
+*[[difensivo]]
+M>offensus</E
+M>off</E
+M>ndere</E
+M>parole</E
+M>maniere o</E
+M>atti</E
+M>modi o</E
+M>il suo atteggiamento è stato o</E
+M>nei riguardi di tutti</E
+M>è una proposta o</E
+M>per la mia dignità</E
+M>difensivo</E
+M>armi o</E
+M>guerra o</E
+M>lega</E
+M>alleanza o</E
+M>manovra o</E
+M>intraprendere un’azione o</E
+M>rispondere</E
+M>parlare offensivamente</E
+M>gli ha offensivamente rinfacciato i suoi errori</E

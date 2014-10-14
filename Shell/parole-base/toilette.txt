@@ -1,0 +1,42 @@
+toilette.txt
+"andare alla toilette, andare al bagno"
+"articoli da toilette"
+"eau de toilette"
+"eau de toilette"
+"fare la toilette"
+"fare toilette"
+"toilette"
+"toilette"
+"toilette"
+"toilette per signore"
+"toilette per uomini"
+M>toilette</E
+M>tualèt</E
+M>toile</E
+M>toilettes</E
+M>tualèts</E
+M>sedersi alla toilette</E
+M>andare alla t.</E
+M>dov&#8217;è la t.</E
+M> per favore?</E
+M>carta da t.</E
+M>impiegare molto tempo a fare toilette.</E
+M>da toilette</E
+M>sapone da t.</E
+M>acqua da t.</E
+M>eau de toilette</E
+M>pettini</E
+M> spazzole da t.</E
+M>davanti al finestrino della camera</E
+M> al quale era uso appendere lo specchietto da toilette</E
+M> si rase ...</E
+M>nei palchi le signore sfoggiavano splendide toilettes</E
+M>una t. da sera</E
+M> da cerimonia</E
+M>indossava una t. di velluto</E
+M> scollatissima.</E
+M>toelètta</E
+M>tolétta</E
+M> toelètte</E
+M>telétta</E
+M>tavolétta</E

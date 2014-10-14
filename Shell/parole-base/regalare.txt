@@ -1,0 +1,38 @@
+regalare.txt
+"fare un regalo; regalare"
+"regalare"
+"regalare qc a qn"
+"regalare qc a qn"
+#*''quel gol è '''regalato'''!''
+#*''hai '''regalato''' ai nostri avversari un'opportunità unica''
+* [[cedere]], [[dare]], [[donare]], [[lasciare]]
+* [[regalo]]
+M>regalar</E
+M>libri</E
+M>fiori</E
+M>dolci</E
+M>che cosa ti hanno regalato per il tuo compleanno?</E
+M>ogni tanto regala alla figlia sposata un vestito</E
+M>qualche centinaio di euro per le sue spese personali</E
+M>ci regali una sua visita</E
+M>una sua conferenza</E
+M>una parola gentile</E
+M>uno sguardo pietoso</E
+M>gli regalò quattro calci</E
+M>un bello schiaffo</E
+M>a un cavalier d&#8217;onore</E
+M>non sarebbe mai bastato l&#8217;animo di r</E
+M>a un galantuomo una signorina che aveva dato un tal saggio di sé</E
+M>gli ho regalato gli interessi del debito</E
+M>e non è contento</E
+M>mi creda</E
+M>questa stoffa non gliela vendo</E
+M>gliela regalo</E
+M>regalarsi una cosa</E
+M>mi voglio r</E
+M>un bel cappotto foderato di pelliccia</E
+M>qualche giorno di vacanza</E
+M>con intenzione di regalar generosamente don Abbondio</E
+M>regalavano il suo bambino di vestitini e di balocchi</E
+M>qualcuno</E
+M>roba regalata</E

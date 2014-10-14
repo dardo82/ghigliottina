@@ -1,0 +1,35 @@
+metro.txt
+"metro"
+"metropolitana"
+"metro, subway"
+"metro"
+"metro"
+"parametro, criterio"
+"metro"
+"metro"
+"metropolitana"
+"metro, subway"
+"metro a nastro"
+"metro campione"
+"metro cubo"
+"metro di paragone"
+"metro lineare"
+"metro quadrato"
+*(''unità di misura'') dal [[latino]] ''[[metrum]]'' che deriva dal  [[greco]] ''[[μέτρον]]'' cioè "[[misura]]"
+*[[decimetro]], [[centimetro]], [[millimetro]]
+*italiano
+*esperanto
+*inglese
+M>perimetro</E
+M>ipermetro</E
+M>barometro</E
+M>cronometro</E
+M>termometro</E
+M>metro</E
+M>trimetro</E
+M>pentametro</E
+M>esametro</E
+M>polimetro</E
+M>decametro</E
+M>decimetro</E
+M>metro</E

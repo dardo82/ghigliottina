@@ -1,0 +1,19 @@
+alluvione.txt
+"alluvione"
+"alluvione"
+"alluvione, inondazione"
+#*''un’alluvione di parole''
+*[[allagamento]],[[inondazione]], [[straripamento]]
+*[[prosciugamento]], [[ritiro]], [[deflusso]]
+*[[alluvionale]],[[alluvionato]]
+M>alluvio</E
+M>onis</E
+M>allu</E
+M>vaganti</E
+M>lanca</E
+M>c’è un’a</E
+M>di romanzacci sul mercato librario</E
+M>per un certo periodo c’è stata un’a. di telenovele</E
+M>gli rovesciò addosso un’a</E
+M>di parolacce</E
+M>d’insulti</E

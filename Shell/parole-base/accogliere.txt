@@ -1,0 +1,49 @@
+accogliere.txt
+"accogliere"
+"accogliere"
+"accogliere"
+"accogliere a braccia spalancate"
+"accogliere con entusiasmo"
+"accogliere con fischi"
+"accogliere gli applausi, fare un inchino"
+"accogliere la richiesta"
+"non ritenere di poter accogliere"
+#*''Si dovrà 
+#*''E' vietato 
+*[[ospitare]], [[ricevere]]
+M>accollĭgĕre</E
+M>coll</E
+M>cogliere</E
+M>gli ospiti</E
+M>gli amici</E
+M>affettuosamente</E
+M>con gioia</E
+M>con dimostrazioni d’affetto</E
+M>fu accolto in quella casa come un figlio</E
+M>il nuovo venuto fu accolto con scarso entusiasmo</E
+M>qualcuno come signore</E
+M>come capo</E
+M>per signore</E
+M>per capo</E
+M>il direttore lo accolse con molta freddezza</E
+M>alla sua entrata in scena</E
+M>l’attore fu accolto dal pubblico con grandi applausi</E
+M>come ha accolto la notizia?</E
+M>accolsero la proposta con vera gioia</E
+M>una richiesta con molte riserve</E
+M>un’idea</E
+M>un consiglio</E
+M>un suggerimento</E
+M>una tesi</E
+M>una preghiera</E
+M>la sua richiesta non è stata accolta</E
+M>il natio Borgo t’accoglie lieta madre e sposa</E
+M>un ospizio che accoglie tutti i senzatetto</E
+M>un teatro che può a</E
+M>tremila spettatori</E
+M>preziosi Vasi accogliean le lagrime votive</E
+M>Non morì già</E
+M>ché sue virtuti accolse Tutte in quel punto e in guardia al cor le mise</E
+M>Tosto sotto i suoi duci ogn’uom s’accoglie</E
+M>accogliersi a qualcuno</E
+M>Lo buon maestro a me tutto s’accolse</E

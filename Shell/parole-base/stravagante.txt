@@ -1,0 +1,28 @@
+stravagante.txt
+"personaggio eccentrico, tipo stravagante"
+"stravagante"
+"tipo originale, tipo stravagante"
+*[[strano]], [[bizzarro]], [[eccentrico]], [[strambo]],[[strampalato]], [[bislacco]]
+*[[originale]], [[straordinario]], [[particolare]], [[singolare]], [[curioso]], fuori del comune
+*[[ragionevole]], [[equilibrato]], [[semplice]]
+*[[normale]], [[regolare]], [[comune]]
+M>extravagans</E
+M>-antis</E
+M>rime s.</E
+M>pagine s.</E
+M>che mai può avere di s. costei</E
+M> che non sia comune all&#8217;altre donne?</E
+M>che persona s.!</E
+M>gli artisti sono tutti un po&#8217; s.</E
+M>è uno s.</E
+M>le piace fare la s.</E
+M>avere un carattere s.</E
+M>un cervello s.</E
+M>discorsi</E
+M>modi s.</E
+M>che idea s. t&#8217;è venuta!</E
+M>un tempo</E
+M>una stagione s.</E
+M>parlare</E
+M>vestirsi</E
+M>comportarsi stravagantemente</E

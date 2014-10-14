@@ -1,0 +1,134 @@
+offerta.txt
+"accettare la tua offerta di"
+"far salire un'offerta"
+"fare offerta di pagamento"
+"fare un'offerta"
+"fare un'offerta"
+"fare un'offerta"
+"fare un'offerta"
+"fare un'offerta"
+"fare un'offerta"
+"fare un'offerta al rialzo"
+"fare una offerta"
+"fare una offerta per"
+"fare una super offerta"
+"fare una super offerta"
+"garanzia di offerta"
+"imperdibile offerta"
+"incontro tra domanda ed offerta"
+"ingegneria di offerta"
+"la nostra miglior offerta"
+"modalità di offerta"
+"offerta"
+"offerta"
+"offerta"
+"offerta"
+"offerta commerciale"
+"offerta culturale"
+"offerta cumulabile"
+"offerta di carne"
+"offerta di difesa"
+"offerta di lancio, offerta lancio"
+"offerta di lavoro"
+"offerta di pace"
+"offerta di protezione"
+"offerta di riconciliazione"
+"offerta diversificata"
+"offerta economica"
+"offerta fittizia"
+"offerta formativa"
+"offerta immobiliare"
+"offerta imperdibile"
+"offerta libera"
+"offerta maggiore, offerta più alta"
+"offerta mirata"
+"offerta non cumulabile con altre promozioni"
+"offerta non rifiutabile"
+"offerta produttiva"
+"offerta speciale"
+"offerta tecnica"
+"offerta televisiva"
+"offerta turistica"
+"offerta una tantum, offerta irripetibile"
+"prezzo d'offerta"
+"prezzo d'offerta"
+"prezzo d'offerta"
+"rilanciare l'offerta"
+"scarsa offerta"
+"studiare un offerta"
+"super offerta"
+"ultima offerta"
+*[[donazione]], [[dono]], [[contributo]], [[oblazione]]; [[carità]], [[elemosina]], [[obolo]]
+*[[proposta]], [[profferta]], [[invito]]
+* merce a disposizione
+*[[domanda]]
+*[[offerta pubblica di acquisto]]
+M>offerto</E
+M>offrire</E
+M>di denaro</E
+M>di aiuto</E
+M>spontanea</E
+M>fare o</E
+M>di qualche cosa</E
+M>fare un’o</E
+M>fare o</E
+M>di sé</E
+M>della propria persona</E
+M>offerte per i poveri</E
+M>per i terremotati</E
+M>accettare</E
+M>gradire</E
+M>rifiutare un’offerta</E
+M>offerta a Dio del sacrificio di Cristo</E
+M>dell’Ostia</E
+M>d’un sacrificio</E
+M>della vittima alle divinità</E
+M>dare</E
+M>inviare un’o</E
+M>raccogliere le o</E
+M>le o</E
+M>vanno indirizzate a</E
+M>modesta</E
+M>povera</E
+M> meschina</E
+M>ricca</E
+M>generosa</E
+M>votiva</E
+M>cassetta delle o</E
+M>per le o</E
+M>offerte</E
+M>oblata</E
+M>mi faccia un’o</E
+M>tenersi basso nell’o</E
+M>mi ha fatto un’o</E
+M>irrisoria</E
+M>chi fa un’altra o</E
+M>la prima o</E
+M>è stata di 500 euro</E
+M>legate</E
+M>domanda</E
+M>d’impiego</E
+M>di lavoro</E
+M>proposta</E
+M>di contratto</E
+M>l’o</E
+M>supera la domanda</E
+M>legge della domanda e dell’o</E
+M>offerta di lancio</E
+M>offerta di prova</E
+M>offerta regalo</E
+M>offerta speciale</E
+M>oggi i pomodori pelati sono</E
+M>venduti</E
+M>in o</E
+M>speciale</E
+M>shampoo in o</E
+M>regalo</E
+M>la nuova cipria è in o</E
+M>di lancio</E
+M>reale</E
+M>al pubblico</E
+M>di un contratto alla generalità</E
+M>promessa</E
+M>al pubblico</E
+M>pubblica di acquisto</E

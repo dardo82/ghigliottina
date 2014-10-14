@@ -1,0 +1,32 @@
+affidare.txt
+"affidare"
+"affidare a"
+"affidare a"
+"affidare in gestione"
+"affidare qc a"
+"affidare un contratto"
+#* '''''affidare''' un incarico a qualcuno''
+#* ''la vostra intelligenza mi affida
+#* ''chi mi '''affida''' da questa razza di uomini tanto da me diversa?'' (Foscolo)
+*[[dare]], [[consegnare]], [[assegnare]], [[incaricare]], [[commissionare]], [[commettere]], [[trasmettere]], [[delegare]], [[deputare]]
+*[[raccomandare]] 
+*[[togliere]], [[revocare]] 
+*[[affidabile]], [[affidamento]], [[affidarsi]], [[affidatario]], [[affidato]], [[affido]]
+M>affidare</E
+M>fidus</E
+M>a qualcuno un deposito</E
+M>un segreto</E
+M>la difesa dell’imputato</E
+M>un negozio</E
+M>le trattative</E
+M>ho affidato i figli a un buon maestro</E
+M>ti affido questi documenti</E
+M>a. a Dio</E
+M>a. ai medici</E
+M>a. alla provvidenza</E
+M>mi affido alla tua comprensione</E
+M>a. solo alla memoria</E
+M>la vostra intelligenza mi affida</E
+M>s’ella mi spaventa</E
+M>Amor m’affida</E
+M>chi mi affida da questa razza di uomini tanto da me diversa?</E

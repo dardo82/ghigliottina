@@ -1,0 +1,33 @@
+accadere.txt
+"accadere"
+"accadere a qc"
+"accadere regolarmente"
+"che deve essere\/accadere"
+"in procinto di accadere"
+"sta per accadere"
+"meritarsi qcs. che sta per accadere"
+"stare per accadere"
+#*''... accadevano in particolari momenti.''
+#*''Ti accade perché non ragioni.''
+*[[avvenire]], [[capitare]], [[succedere]]
+* [[accadimento]],  [[cadere]]
+M>cadere</E
+M>accid</E
+M>cadere</E
+M>essere</E
+M>che è accaduto?</E
+M>ti è accaduta qualche disgrazia?</E
+M>mi è accaduta una cosa incredibile</E
+M>mi accade spesso di perdere il treno</E
+M>cose che accadono</E
+M>capitare</E
+M>se mai ti accade di venire da queste parti</E
+M>ricordati di venirmi a trovare</E
+M>non accade troppo spesso di avere una fortuna così a portata di mano</E
+M>a un galantuomo</E
+M>il qual badi a sé</E
+M>e stia ne’ suoi panni</E
+M>non accadon mai brutti incontri</E
+M>Dentro a Valenza o dentro a Barcellona Per qualche giorno avea pensato porsi</E
+M>Fin che accadesse alcuna nave buona Che per Levante apparecchiasse a sciorsi</E
+M>accadere</E

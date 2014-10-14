@@ -1,0 +1,60 @@
+volontario.txt
+"offrirsi volontario"
+"omicidio volontario"
+"pompiere volontario"
+"volontario"
+"volontario"
+"volontario"
+"volontario; spontaneo"
+#* ''È stato accusato di omicidio '''volontario'''.''
+#* ''È un soldato '''volontario'''.''
+#* ''Ecco la ricevuta della sua donazione '''volontaria'''.''
+#* ''Ecco arrivare un '''volontario''' della protezione civile.''
+*[[intenzionale]], [[voluto]], [[scelto]], [[calcolato]], [[deliberato]]
+* ''(che viene fatto con volontà)''   [[premeditato]]
+* ''(a discrezione di chi agisce)'' [[libero]], [[spontaneo]]
+*[[involontario]], [[imposto]]
+* ''(che viene fatto con volontà)'' [[accidentale]], [[automatico]], [[casuale]], [[fortuito]],  [[meccanico]]
+* ''(che viene fatto con volontà
+* ''(a discrezione di chi agisce)'' [[costretto]], [[forzato]],  [[obbligato]]
+* [[volontariamente]], [[volontarismo]], [[volontaristico]], 
+*italiano
+M>voluntarius</E
+M>voluntas</E
+M>-atis</E
+M>un moto v. dell’anima</E
+M>una rinuncia v.</E
+M>un atto v. di sottomissione</E
+M>recarsi in v. esilio</E
+M>adesione v. a una iniziativa</E
+M>arruolamento v.</E
+M>muscoli v.</E
+M>muscoli striati</E
+M>esule v.</E
+M>servizio v.</E
+M>milizia v.</E
+M>truppe v.</E
+M>assistente v.</E
+M>assistentato v.</E
+M>un v.</E
+M>una v.</E
+M>della Croce Rossa</E
+M>di un’organizzazione assistenziale</E
+M>il prezioso aiuto prestato dai v. alle popolazioni terremotate</E
+M>v. del sangue</E
+M>datore</E
+M>donatore di sangue</E
+M>volontario</E
+M>un v.</E
+M>una v.</E
+M>i v. della guerra di liberazione</E
+M>una legione</E
+M>un esercito</E
+M>un battaglione di volontarî</E
+M>arruolamento di volontarî</E
+M>v. di truppa in servizio permanente</E
+M>Volontarî di truppa in ferma breve</E
+M>volontarî</E
+M>arruolarsi volontariamente</E
+M>rinunciò volontariamente a ogni suo privilegio</E
+M>andare volontariamente in esilio</E

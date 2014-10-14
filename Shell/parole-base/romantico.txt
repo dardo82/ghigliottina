@@ -1,0 +1,48 @@
+romantico.txt
+"fare il romantico"
+"poco romantico"
+"poeta romantico"
+"rapporto romantico"
+"romantico"
+"romantico"
+M>romantic</E
+M>romanz</E
+M>romant</E
+M>scrittore</E
+M>filosofo</E
+M>artista</E
+M>poeta r</E
+M>un r</E
+M>una romantica</E
+M>le polemiche fra classicisti e romantici</E
+M>le teorie</E
+M>il gusto dei r</E
+M>i movimenti r</E
+M>le correnti r</E
+M>del primo Ottocento</E
+M>letteratura</E
+M> pedagogia</E
+M>storiografia r</E
+M>pensiero</E
+M>gusto</E
+M>stile r</E
+M>le teorie r</E
+M>sull&#8217;arte</E
+M>sulla politica</E
+M>versi</E
+M>racconti</E
+M>quadri romantici</E
+M>giovane r</E
+M>ragazza molto r</E
+M>ha la testa piena di sogni</E
+M>pensieri r</E
+M>si nutre di idee</E
+M>fantasie r</E
+M>lago</E
+M>viale</E
+M>paesaggio r</E
+M>gita</E
+M>passeggiata r</E
+M>un r</E
+M>incontro</E
+M>interpretare romanticamente il paesaggio</E

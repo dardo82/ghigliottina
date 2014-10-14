@@ -1,0 +1,27 @@
+dispari.txt
+"anni dispari"
+"dispari"
+"dispari"
+"numeri dispari"
+"numero dispari"
+"pari e dispari"
+"pari o dispari"
+M>dispar</E
+M>ris</E
+M>dis</E
+M>par</E
+M>numeri d</E
+M>i giorni d</E
+M>della settimana</E
+M>i mesi d</E
+M>di numero</E
+M>puntare sul d</E
+M>pari e dispari</E
+M>essere d</E
+M>d’età</E
+M>di condizione</E
+M>persona d</E
+M>al suo ufficio</E
+M>al cómpito affidatole</E
+M>cori a voci d</E
+M>a voci ineguali</E

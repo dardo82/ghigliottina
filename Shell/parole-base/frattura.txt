@@ -1,0 +1,51 @@
+frattura.txt
+"frattura"
+"frattura"
+"frattura composta"
+"riportare la frattura del"
+"riportare la frattura di"
+#*''A seguito dell'[[incidente]] riportò una frattura scomposta alla [[tibia]]''
+#*''La [[faglia]] di San Andrea è una lunga frattura della [[crosta]] terrestre che passa per la California.''
+#* la 
+#*''Il [[w
+* (sostantivo) dal [[latino]] ''[[fractura]]'' che deriva da ''[[fractus]]'' cioè "[[rotto]]"
+* (voce verbale) 
+*[[contrasto]], [[disaccordo]], [[dissenso]], [[divergenza]], [[scisma]]
+*[[continuazione]], [[continuità]]
+*[[accordo]], [[consenso]], [[convergenza]]
+M>fractura</E
+M>fractus</E
+M>frang</E
+M>latente</E
+M>nell’incidente</E
+M>ha riportato la f</E
+M>di tre costole</E
+M>c’è una sospetta f</E
+M>del cranio</E
+M>diretta</E
+M>indiretta</E
+M>multipla</E
+M>completa</E
+M>incompleta</E
+M>patologica</E
+M>spontanea</E
+M>focolaio di f</E
+M>chiusa</E
+M>aperta</E
+M>esposta</E
+M>articolare</E
+M>ridurre una f</E
+M>fibrosa</E
+M>concoide</E
+M>liscia</E
+M>bombe a f</E
+M>prestabilita</E
+M>a frammentazione</E
+M>le continue incomprensioni hanno creato una f</E
+M>tra marito e moglie</E
+M>la divergenza di opinioni potrebbe provocare una f</E
+M>tra i colleghi d’ufficio</E
+M>la discussione sulla legge finanziaria ha determinato gravi f</E
+M>nel governo</E
+M>la nascita di nuove correnti è stata causa di una insanabile f</E
+M>nel partito</E

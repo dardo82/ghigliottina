@@ -1,0 +1,170 @@
+croce.txt
+"a croce"
+"A occhio e croce"
+"croce"
+"croce"
+"croce"
+"cosa, segno a forma di croce"
+"croce"
+"croce"
+"Croce Bianca"
+"croce celtica"
+"croce del calvario"
+"croce della Regina Vittoria"
+"croce di guerra"
+"croce di guerra al valore aeronautico"
+"croce di Malta"
+"croce e delizia"
+"croce latina"
+"croce latina"
+"croce maltese"
+"croce rossa"
+"fare testa o croce"
+"fare testa o croce"
+"fare testa o croce (con una moneta)"
+"fare una croce"
+"mark with crossing lines fare una croce su something"
+"farsi il segno della croce"
+"in croce"
+"la Croce"
+"mettere in croce"
+"mettere in croce"
+"punto croce"
+"ricamare a punto croce"
+"santa croce"
+"segnato con una croce"
+"segno della croce"
+"sparare sulla croce rossa"
+"testa o croce"
+"testa o croce"
+#* ''Gesù Cristo fu messo in '''croce'''''
+#* ''giocare a testa o '''croce'''''
+#* ''la paura dei ragni è la sua '''croce'''''
+#*''le polemiche sono '''croce''' e delizia di ogni manifestazione'' 
+*. insegna cristiana
+*[[emblema]], [[simbolo]], [[distintivo]]
+*[[crocicchio]]
+* ''(delle marionette)'' [[bilancino]]
+* ''(per la pesca del corallo)'' [[ingegno]]
+*''ad ognuno la sua 
+*''essere 
+M>crux cr</E
+M>cis</E
+M>il supplizio della c</E
+M>condannare alla c</E
+M>stendere in c</E
+M>legare</E
+M>inchiodare in c</E
+M>mettere qualcuno in c</E
+M>Gesù confitto in c</E
+M>Gesù morto in c</E
+M>la morte di Gesù sulla c</E
+M>la deposizione dalla c</E
+M>la raffigurazione</E
+M>di Cristo in c</E
+M>per la c</E
+M>di nostro Signore!</E
+M>alla c</E
+M>di Dio!</E
+M>adorare la c</E
+M>abbracciare la c</E
+M>deporre ai piedi della c</E
+M>i proprî dolori</E
+M>tutti hanno la loro c</E
+M>ci mancava quest’altra c</E
+M>quel figlio è una c</E
+M>per i suoi poveri genitori</E
+M>portare la c</E
+M>processionale</E
+M>non si può cantare e portar la c</E
+M>pettorale</E
+M>prendere la c</E
+M>predicare la c</E
+M>gridare</E
+M>bandire la c</E
+M>addosso a qualcuno</E
+M>gridare la crociata addosso a qualcuno</E
+M>contro a’ preti</E
+M>li quali sopra le nostre mogli hanno bandita la c</E
+M>farsi la c</E
+M>farsi il segno della croce</E
+M>crux desperationis</E
+M>loci desperati</E
+M>fare una c</E
+M>un crocione</E
+M>su qualche cosa</E
+M>santacroce</E
+M>crocesanta</E
+M>latina</E
+M>c. greca</E
+M>quadrata</E
+M>monogrammatica</E
+M>c. decussata</E
+M>di sant’Andrea</E
+M>uncinata</E
+M>gammata</E
+M>ansata</E
+M>patriarcale</E
+M>di Lorena</E
+M>di Malta</E
+M>a c</E
+M>latina</E
+M>a c</E
+M>greca</E
+M>aguzzata</E
+M>ancorata</E
+M>biforcata</E
+M>gemellata</E
+M>gigliata</E
+M>merlettata</E
+M>mulinata</E
+M>ondata</E
+M>patente</E
+M>pomettata</E
+M>potenziata</E
+M>decussata</E
+M>di sant’Andrea</E
+M>doppia c</E
+M>di Lorena</E
+M>di Malta</E
+M>di sant’Antonio</E
+M>di san Giacomo</E
+M>c. al merito</E
+M>di guerra</E
+M>di cavaliere del lavoro</E
+M>gran croce</E
+M>cavaliere di gran croce</E
+M>gr. cr.</E
+M>Croce di ferro</E
+M>eisernes Kreuz</E
+M>Rossa</E
+M>Verde</E
+M>Verde</E
+M>Azzurra</E
+M>A croce</E
+M>in croce</E
+M>tenere le braccia in c</E
+M>stare con le braccia in c</E
+M>Disposizione in c</E
+M>a blocco</E
+M>in croce</E
+M>in c</E
+M>di sant’Andrea</E
+M>Punto in c.</E
+M>punto c</E
+M>in croce</E
+M>bracciare in c</E
+M>A occhio e croce</E
+M>stimare</E
+M>giudicare</E
+M>valutare a occhio e croce</E
+M>Testa o croce</E
+M>bilancino</E
+M>ingegno</E
+M>di sant’Andrea</E
+M>scozzese</E
+M>a c</E
+M>di Malta</E
+M>di Malta</E
+M>del Sud</E
+M>del Cigno</E

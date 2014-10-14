@@ -1,0 +1,30 @@
+disoccupazione.txt
+"disoccupazione"
+"indennità di disoccupazione"
+"indennità di disoccupazione"
+"indennità di disoccupazione"
+"prendere il sussidio di disoccupazione"
+"sussidio di disoccupazione"
+"tasso di disoccupazione"
+* [[inoccupazione]]
+* [[occupazione]] 
+* [[disoccupato]]
+M>dis</E
+M>occupazione</E
+M>involontaria</E
+M>volontaria</E
+M>assicurazione contro la d</E
+M>percepire l’indennità di d</E
+M>l’aumento</E
+M>la diminuzione della d</E
+M>tasso di d</E
+M>giovanile</E
+M>lotta contro la d</E
+M>parziale</E
+M>sottoccupazione</E
+M>stagionale</E
+M>cronica</E
+M>di fondo</E
+M>frizionale</E
+M>tecnologica</E
+M>intellettuale</E

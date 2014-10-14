@@ -1,0 +1,32 @@
+castigo.txt
+"castigo"
+"castigo"
+"in castigo"
+#* mettere in 
+#* stare in 
+#* ''
+*italiano
+*spagnolo
+M>ghi</E
+M>dare un c</E
+M>meritare un c</E
+M>leggero</E
+M>aspro</E
+M>severo</E
+M>esemplare</E
+M>efficace</E
+M>salutare</E
+M>corporali</E
+M>è un vero c</E
+M>è un bel c</E
+M>un c</E
+M>di Dio</E
+M>quel ragazzo rompe tutto ciò che tocca</E
+M>è proprio un c</E
+M>di Dio</E
+M>Essere in c</E
+M>a te niente dolce</E
+M>perché sei in c</E
+M>mettere in c</E
+M>stare in c</E
+M>restare in c</E

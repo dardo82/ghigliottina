@@ -1,0 +1,156 @@
+superficie.txt
+"aria-superficie"
+"con superficie in vetro"
+"concimazione in superficie"
+"di superficie"
+"graffiare la superficie"
+"in superficie"
+"in superficie"
+"incendio che brucia a terra e non in superficie"
+"linea immaginaria sulla superficie della terra che traccia un'altra linea immaginaria tra il centro"
+"macinato, schiacciato fino a ottenere una superficie concava"
+"mezzi di superficie"
+"piede quadrato (unità di superficie)"
+"sotto la superficie"
+"sotto la superficie"
+"superficie"
+"superficie"
+"superficie"
+"superficie a lamiere"
+"superficie arabile"
+"superficie calpestabile"
+"superficie commerciale"
+"superficie corporea"
+"superficie edificabile"
+"superficie inferiore"
+"superficie irregolare"
+"superficie levigata, superficie liscia"
+"superficie piatta"
+"superficie ruvida"
+"vicino alla superficie"
+#* la 
+#* la 
+#*la 
+#*la 
+#*a 
+#* la 
+#* la 
+#* la 
+#* la 
+* [[superficiale]], [[superficiario]]
+M>superficies</E
+M>super-</E
+M>facies</E
+M>cie</E
+M>la s. di un oggetto</E
+M>di un frutto</E
+M>la s. del corpo umano</E
+M>di un organo</E
+M>s. esterna</E
+M>s. interna di un vaso</E
+M>di un recipiente</E
+M>la s. di una tavola</E
+M>di una parete</E
+M>di un vetro</E
+M>sulla s. dell&#8217;acqua</E
+M>del suolo</E
+M>marmo a s. liscia</E
+M>levigata</E
+M>s. aspra</E
+M>ruvida</E
+M>scabrosa</E
+M>s. di lavorazione</E
+M>s. specifica</E
+M>s. di troncatura</E
+M>s. di fondo</E
+M>s. primitiva</E
+M>s. piana</E
+M>curva</E
+M>s. limitata</E
+M>illimitata</E
+M>s. di una sfera</E
+M>di un cono</E
+M>di un cilindro</E
+M>s. sferica</E
+M>conica</E
+M>cilindrica</E
+M>s. di un poliedro</E
+M>s. laterale</E
+M>s. totale</E
+M>s. di rotazione</E
+M>di rivoluzione</E
+M>rotonda</E
+M>asse della s.</E
+M>parallelo</E
+M>meridiano</E
+M>s. di traslazione</E
+M>s. algebrica</E
+M>s. trascendente</E
+M>s. differenziabile</E
+M>analitica</E
+M>s. parametrica</E
+M>curva</E
+M>s. razionale</E
+M>quadriche</E
+M>s. rigata</E
+M>s. sviluppabile</E
+M>s. minima</E
+M>s. luogo</E
+M>s. inviluppo</E
+M>s. canale</E
+M>toro</E
+M>s. podaria</E
+M>pedale</E
+M>antipedale</E
+M>s. unilatera</E
+M>nastro di Möbius</E
+M>bilatera</E
+M>s. caratteristica</E
+M>s. equipotenziale</E
+M>di livello</E
+M>s. di livello</E
+M>s. d&#8217;onda</E
+M>Effetti di s.</E
+M>l&#8217;effetto s.</E
+M>Fenomeni di s.</E
+M>s. di griglia</E
+M>s. velica</E
+M>scafo ad effetto superficie</E
+M>s. alare</E
+M>s. portante</E
+M>s. di comando</E
+M>s. di compensazione</E
+M>s. della Terra</E
+M>s. terrestre</E
+M>s. freatica</E
+M>falda acquifera</E
+M>s. coltivata</E
+M>incolta</E
+M>s. territoriale</E
+M>s. improduttiva</E
+M>s. produttiva</E
+M>s. agraria</E
+M>s. forestale</E
+M>diritto di s.</E
+M>proprietà superficiaria</E
+M>la s. del mare</E
+M>di un lago</E
+M>la s. calma</E
+M>tranquilla</E
+M>agitata del mare</E
+M>la s. azzurra del lago</E
+M>unità di s.</E
+M>naviglio di s.</E
+M>coperchio protetto da una s. di smalto</E
+M>il taglio</E
+M>l&#8217;incisione ha intaccato appena la s.</E
+M>la raschiatura non va oltre la s.</E
+M>ferita in s.</E
+M>s. strutturale</E
+M>effetto di s.</E
+M>effetto pellicolare</E
+M>Chimica delle s.</E
+M>fermarsi alla s.</E
+M> penetrare oltre la s. delle cose</E
+M>nei suoi giudizî</E
+M> resta sempre alla s.</E

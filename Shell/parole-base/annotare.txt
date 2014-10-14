@@ -1,0 +1,13 @@
+annotare.txt
+"annotare"
+"annotare"
+M>annotare</E
+M>nota</E
+M>io annòto</E
+M>un fatto importante</E
+M>una data nel taccuino</E
+M>diligentemente le spese</E
+M>a credito</E
+M>un poema</E
+M>una raccolta di leggi</E
+M>notare</E

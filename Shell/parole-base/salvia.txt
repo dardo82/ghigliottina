@@ -1,0 +1,20 @@
+salvia.txt
+"salvia"
+"salvia apiana"
+M>salvia</E
+M>salvus</E
+M>Salvia officinalis</E
+M>salvia</E
+M>Salvia sclarea</E
+M>sclarea</E
+M>scarlea</E
+M>erba moscatella.</E
+M>S. splendens</E
+M>S. fulgens</E
+M>S. grahami</E
+M>Salvia officinalis</E
+M>S. selvatica</E
+M>Salvia</E
+M>Olio essenziale di s.</E
+M>Salvia officinalis</E
+M>Olio essenziale di s. sclarea</E

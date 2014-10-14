@@ -1,0 +1,23 @@
+coraggioso.txt
+"coraggioso"
+"coraggioso tanto da"
+"essere coraggioso"
+"poco coraggioso"
+"troppo coraggioso"
+*[[valoroso]],[[baldo]], [[audace]], [[ardito]], [[ardimentoso]], [[temerario]], [[eroico]], [[spericolato]], [[forte]], [[deciso]], [[fermo]], [[risoluto]]
+*[[sfacciato]] [[sfrontato]], [[spudorato]], [[spavaldo]], [[arrogante]], [[impudente]]
+*[[pauroso]], [[debole]], [[timoroso]], [[indeciso]], [[irresoluto]], [[perplesso]], [[insicuro]], [[titubante]], [[vile]], [[vigliacco]], [[codardo]], [[pusillanime]], [[fifone]]
+*[[timido]], [[riservato]], [[rispettoso]], [[discreto]], [[pudico]]
+*[[coraggiosamente]]
+*[[coraggio]]
+M>uomo</E
+M>soldato</E
+M>ragazzo c</E
+M>è un c</E
+M>una c</E
+M>la fortuna assiste i coraggiosi</E
+M>atto</E
+M>gesto c</E
+M>una c</E
+M>impresa</E
+M>affrontare coraggiosamente un pericolo</E

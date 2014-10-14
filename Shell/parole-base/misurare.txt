@@ -1,0 +1,117 @@
+misurare.txt
+"misurare"
+"misurare"
+"misurare"
+"misurare"
+"misurare"
+"misurare (di abito)"
+"misurare con il calibro"
+"misurare il tempo"
+"misurare la distanza camminando"
+"misurare la febbre"
+"misurare la profondità"
+"misurare la profondità"
+"misurare le parole"
+"misurare le parole"
+*[[pesare]], [[cronometrare]]
+*''(di abito, calzatura)'' [[provare]], [[indossare]]
+*''(le dimensioni di qualcosa)'' [[rilevare]], [[calcolare]] 
+*''(un ceffone e simili)'' [[dare]], [[sferrare]]
+*''(le spese e sim.)'' , [[regolare]], [[frenare]] 
+* [[essere]] [[lungo]], essere [[largo]] 
+*[[misurarsi]], [[misura]], [[misurabile]], [[misurato]], [[misurazione]]
+M>mensurare</E
+M>mensura</E
+M>una lunghezza</E
+M>una distanza</E
+M>una superficie</E
+M>un volume</E
+M>uno spazio</E
+M>la densità</E
+M>la pressione</E
+M>la velocità</E
+M>la temperatura</E
+M>la febbre</E
+M>la lunghezza di una tela</E
+M>di una strada</E
+M>di un fiume</E
+M>l’altezza di un monte</E
+M>la profondità di un precipizio</E
+M>la superficie di un campo</E
+M>lo spessore di una lamiera</E
+M>l’ampiezza di un angolo</E
+M>il consumo della corrente elettrica</E
+M>del gas</E
+M>una tela</E
+M>una strada</E
+M>l’olio</E
+M>il vino</E
+M>un arco</E
+M>una colonna</E
+M>il valore di qualche cosa</E
+M>il peso</E
+M>pesare</E
+M>con il metro</E
+M>a metri</E
+M>con il litro</E
+M>con lo staio</E
+M>a passi</E
+M>contando i passi</E
+M>a braccia</E
+M>a occhio</E
+M>a vista</E
+M>esattamente</E
+M>con approssimazione</E
+M>quante volte ho dovuto m</E
+M>questa strada!</E
+M>misurava innanzi e indietro</E
+M> a passi lunghi</E
+M>quella sala</E
+M>Solo e pensoso i più deserti campi Vo mesurando a passi tardi e lenti</E
+M>hai voluto m</E
+M>il pavimento?</E
+M>se si fa ancora vedere qui</E
+M>gli farò misurar la scala</E
+M>provare</E
+M>il sarto gli stava misurando la giacca</E
+M>questa camicia ha proprio il mio numero e non ho bisogno di misurarla</E
+M>misurarsi un cappello</E
+M>le scarpe</E
+M>i guanti</E
+M>gli misurò un ceffone</E
+M>un sonoro schiaffo</E
+M>due calci</E
+M>un fendente</E
+M>una sciabolata</E
+M>la gravità di una colpa</E
+M>l’entità di un danno</E
+M>le difficoltà di un’opera</E
+M>prima di affrontare il pericolo</E
+M>conviene m</E
+M>le proprie forze</E
+M>la bontà di un’impresa si misura dai suoi risultati</E
+M>ognuno misura gli altri secondo il proprio metro</E
+M>gli uomini non si misurano a canne</E
+M>limitare</E
+M>cerca di m</E
+M>le spese</E
+M>misurarsi nelle spese</E
+M>nel mangiare</E
+M>misurarsi</E
+M>dobbiamo m</E
+M>il nostro tempo</E
+M>le proprie parole</E
+M>è molto suscettibile</E
+M>e con lui bisogna m</E
+M>le parole</E
+M>misurate bene le vostre parole!</E
+M>gli misurano il pane</E
+M>misura perfino il centesimo</E
+M>gli anni del mio marito son troppi se co’ miei si misurano</E
+M>misurarsi in una gara</E
+M>in una competizione</E
+M>Misurarsi con qualcuno</E
+M>non posso misurarmi con te</E
+M>sei troppo più bravo</E
+M>la statua misura in altezza cinque metri</E
+M>il campo misura circa 4000 metri quadrati</E

@@ -1,0 +1,41 @@
+festival.txt
+"festival"
+"festival, fair, fete"
+"festival"
+"festival, competition"
+"festival dell'opera"
+"opera festival"
+"festival di musica popolare"
+"folk-music festival"
+"festival internazionale"
+"international festival"
+"festival jazz"
+"jazz festival"
+"festival musicale"
+"music festival"
+"festival rock"
+"rock festival"
+#*''il festival di Sanremo è il principale festival della canzone italiana''
+*[[rassegna]], [[manifestazione]]; [[competizione]], [[gara]]
+* festa popolare, [[sagra]]
+*[[festivalite]], [[festivaliero]]
+* [[mostra]], [[festa]]
+*italiano
+*inglese
+*ceco
+*croato
+*francese
+*spagnolo
+*serbo
+*turco
+M>festival</E
+M>fèstëvël</E
+M>festival</E
+M>festivàl</E
+M>festivalis</E
+M>della canzone</E
+M>del cinema</E
+M>il f</E
+M>di Sanremo</E
+M>di Cannes</E
+M>scacchistico internazionale</E

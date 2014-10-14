@@ -1,0 +1,20 @@
+bevitore.txt
+"bevitore"
+"bevitore di birra"
+"bevitore occasionale"
+"forte bevitore"
+M>trice</E
+M>tóra</E
+M>bevere</E
+M>bib</E
+M>tor</E
+M>oris</E
+M>c’è stata una lite fra due bevitori</E
+M>è un gran b. di birra</E
+M>è un buon b</E
+M>di vino</E
+M>è una bevitrice di liquori</E
+M>essere parco</E
+M>temperato b</E
+M>non essere un gran b</E
+M>abituale</E

@@ -1,0 +1,309 @@
+tra.txt
+"(essere) tra l'incudine e il martello"
+"FirstTranslation"
+"agire tra"
+"FirstTranslation"
+"agnello tra i lupi"
+"FirstTranslation"
+"appuntamento tra amanti"
+"FirstTranslation"
+"Avere la coda tra le gambe"
+"FirstTranslation"
+"barra di connessione tra due vagoni"
+"FirstTranslation"
+"capitare tra capo e collo"
+"FirstTranslation"
+"cercare tra i rifiuti"
+"FirstTranslation"
+"che partecipa ad una gara tra due macchine"
+"FirstTranslation"
+"chiacchierata tra amici"
+"FirstTranslation"
+"con la testa tra le nuvole"
+"FirstTranslation"
+"confine tra gli stati del Nord e quelli del Sud"
+"FirstTranslation"
+"correre tra le basi"
+"FirstTranslation"
+"decidere tra"
+"FirstTranslation"
+"detto tra noi (o fra noi)"
+"FirstTranslation"
+"detto tra virgolette"
+"FirstTranslation"
+"distanza tra"
+"FirstTranslation"
+"distinguere tra"
+"FirstTranslation"
+"diviso tra"
+"FirstTranslation"
+"dormire tra due guanciali"
+"FirstTranslation"
+"espressione tra parentesi"
+"FirstTranslation"
+"esserci un sottile confine tra"
+"FirstTranslation"
+"essere tra, essere incluso tra, essere annoverato tra"
+"intransitivo"
+"FirstTranslation"
+"far capire qualcosa tra le righe"
+"FirstTranslation"
+"gara tra due sole macchine"
+"FirstTranslation"
+"gare tra due sole macchine"
+"FirstTranslation"
+"in un attimo, tra un attimo"
+"FirstTranslation"
+"in un attimo, tra un attimo"
+"FirstTranslation"
+"includere tra, annoverare tra"
+"transitivo"
+"FirstTranslation"
+"incontro tra domanda ed offerta"
+"FirstTranslation"
+"SecondTranslation"
+"incrocio tra bulldog e terrier"
+"FirstTranslation"
+"intervallo tra i primi due trimestri di scuola"
+"FirstTranslation"
+"intralciare, essere tra i piedi"
+"FirstTranslation"
+"legame tra ex alunni"
+"FirstTranslation"
+"leggere tra le righe"
+"FirstTranslation"
+"linea immaginaria sulla superficie della terra che traccia un'altra linea immaginaria tra il centro"
+"FirstTranslation"
+"ground track"
+"Linea Mason-Dixon, confine tra Pennsylvania e Maryland"
+"FirstTranslation"
+"lotta tra gang"
+"FirstTranslation"
+"lotta tra la vita e la morte"
+"FirstTranslation"
+"luogo della battaglia finale tra le forze del bene e quelle del male (Bibbia)"
+"FirstTranslation"
+"mantenere i contatti tra"
+"FirstTranslation"
+"mettere i bastoni tra le ruote"
+"FirstTranslation"
+"SecondTranslation"
+"ThirdTranslation"
+"non fare confusione tra"
+"FirstTranslation"
+"prendere il pallone tra le mani"
+"FirstTranslation"
+"prestito tra biblioteche"
+"FirstTranslation"
+"rapporto tra pieni e vuoti"
+"FirstTranslation"
+"ricerca tra i consumatori"
+"FirstTranslation"
+"riunione tra amici"
+"FirstTranslation"
+"saggio o stregone tra gli indiani d'America"
+"FirstTranslation"
+"scavare un solco tra"
+"FirstTranslation"
+"sistema di mutuo soccorso tra compagni di una squadra"
+"FirstTranslation"
+"solo tra noi due"
+"FirstTranslation"
+"sondaggio tra i consumatori"
+"FirstTranslation"
+"spazio della citazione tra le due virgolette"
+"FirstTranslation"
+"spazio tra"
+"FirstTranslation"
+"spazio tra i seni"
+"FirstTranslation"
+"tra"
+"FirstTranslation"
+"tra"
+"FirstTranslation"
+"tra"
+"relazione tra persone"
+"FirstTranslation"
+"tra"
+"FirstTranslation"
+"tra"
+"FirstTranslation"
+"tra"
+"FirstTranslation"
+"tra"
+"FirstTranslation"
+"tra cui"
+"FirstTranslation"
+"tra di noi"
+"FirstTranslation"
+"tra gli altri"
+"FirstTranslation"
+"tra i denti"
+"FirstTranslation"
+"tra i due litiganti il terzo gode"
+"FirstTranslation"
+"tra i viventi"
+"FirstTranslation"
+"tra il dire e il fare c'è di mezzo il mare"
+"FirstTranslation"
+"tra il lungo e il corto"
+"FirstTranslation"
+"tra isolati"
+"FirstTranslation"
+"tra l'incudine e il martello"
+"FirstTranslation"
+"tra le altre cose"
+"FirstTranslation"
+"tra le nuvole"
+"FirstTranslation"
+"tra le nuvole"
+"FirstTranslation"
+"tra le righe"
+"FirstTranslation"
+"tra me e te"
+"FirstTranslation"
+"tra mezzogiorno e mezzanotte"
+"FirstTranslation"
+"tra noi"
+"FirstTranslation"
+"tra noi"
+"FirstTranslation"
+"tra noi"
+"FirstTranslation"
+"tra ora ed allora"
+"FirstTranslation"
+"tra parentesi"
+"FirstTranslation"
+"SecondTranslation"
+"tra periodi"
+"FirstTranslation"
+"tra poco"
+"FirstTranslation"
+"tra poco"
+"FirstTranslation"
+"tra poco"
+"FirstTranslation"
+"tra poco"
+"FirstTranslation"
+"tra pollice e indice"
+"FirstTranslation"
+"tra un attimo"
+"FirstTranslation"
+"tra un attimo"
+"FirstTranslation"
+"tra un minuto"
+"FirstTranslation"
+"tra un po'"
+"FirstTranslation"
+"tra un secondo, in un secondo"
+"FirstTranslation"
+"tra, in poco tempo"
+"FirstTranslation"
+"tra, in poco tempo"
+"FirstTranslation"
+"tracciare una parallela tra"
+"FirstTranslation"
+"trafilamenti tra cilindro e pistone"
+"FirstTranslation"
+"trovare il giusto compromesso tra"
+"FirstTranslation"
+#*'''''Tra''' [[Ginevra]] e il [[Gran Sasso]] c'è un tunnel''
+#*'''''Tra''' Ginevra e il Gran Sasso ci sono più di settecento chilometri''
+#*''C'è un accordo '''tra''' Italia e Svizzera per la libera circolazione dei [[neutrini]]''
+#*'''''Tra''' le due e le quattro mi faceva male la pancia dal troppo [[ridere]]''
+#*''Si voterà, al massimo, '''tra''' qualche mese''
+*[[fra]]
+*[[detto tra noi]]
+*[[tra-]]
+*italiano
+*latino
+*inglese
+M>intra</E
+M>un paesetto a mezza strada tra Siena e Firenze</E
+M>tra un palo e l&#8217;altro c&#8217;è una distanza di 10 metri</E
+M>il ruscello scorre tra due sponde erbose</E
+M>passare tra due ali di folla</E
+M>stringere</E
+M> tenere tra le braccia</E
+M>ci incontreremo tra le sei e le otto</E
+M>nell&#8217;intervallo tra il primo e il secondo atto</E
+M>te lo saprò dire tra oggi e domani</E
+M>un raggio usciva di tra le nuvole</E
+M>passare tra difficoltà d&#8217;ogni genere</E
+M>parlare</E
+M> mormorare tra i denti</E
+M>mettere i bastoni tra le ruote</E
+M>dormire tra due guanciali</E
+M>essere tra il sonno e la veglia</E
+M>lottare tra la vita e la morte</E
+M>ondeggiare tra il sì e il no</E
+M>trovarsi tra due fuochi</E
+M> tra Scilla e Cariddi</E
+M> tra l&#8217;incudine e il martello</E
+M>tra loro due c&#8217;è un abisso</E
+M>vediamo chi è più bravo tra voi due</E
+M>La mia sorella</E
+M> che tra bella e buona Non so qual fosse più</E
+M>un colore tra giallo e verde</E
+M>con un tono tra serio e faceto</E
+M>cercare tra gli appunti</E
+M>mescolarsi tra la gente</E
+M>arrivare tra i primi</E
+M>c&#8217;è nessuno tra voi che lo sappia?</E
+M>tra le uova che ho comprate ce n&#8217;erano due guaste</E
+M>sia detto tra noi</E
+M> rimanga tra noi</E
+M>tra di noi</E
+M>il migliore tra i miei studenti</E
+M>scegli tra questi disegni quello che preferisci</E
+M>tra l&#8217;altro</E
+M>tra l&#8217;altro</E
+M> non ero neppure stato avvertito</E
+M>come usa tra gente per bene</E
+M>è opinione diffusa tra gli studiosi</E
+M>intra</E
+M>in fra</E
+M>Egli alto ride al vomero che splende In tra le brune zolle</E
+M>nacque tra loro una discussione</E
+M>c&#8217;era molta amicizia tra me e lui</E
+M>tra voi due c&#8217;è poca somiglianza</E
+M>tra uomini d&#8217;onore basta la parola</E
+M>dicevo tra me e me</E
+M> pensava tra sé e sé</E
+M>tra me</E
+M> tra sé</E
+M>due figure simili</E
+M>differenti</E
+M> tra loro</E
+M>Ch&#8217;i&#8217; temo forte di mancar tra via</E
+M>tra questo</E
+M>lo saprai tra poco</E
+M>tra breve</E
+M> tra non molto</E
+M>te lo consegnerò tra otto giorni</E
+M>tra tutti quanti</E
+M> non siete stati capaci d&#8217;indovinare!</E
+M>tra una cosa e l&#8217;altra</E
+M> il viaggio c&#8217;è costato quasi mille euro</E
+M>tra il lavoro e la casa e altri piccoli impegni</E
+M> non ha mai un momento libero</E
+M>fra</E
+M>tra</E
+M>tra per la paura</E
+M> tra per la debolezza</E
+M> si sentì svenire</E
+M>tra per lo difetto degli oportuni servigi ... e per la forza della pistolenza</E
+M> era tanta nella città la moltitudine di quegli che di dì e di notte morieno</E
+M>tra</E
+M>fra</E
+M>fra</E
+M>fra fratelli</E
+M>tra trent&#8217;anni</E
+M>tral</E
+M> trallo</E
+M> tralla</E
+M> trai</E
+M> tragli</E
+M> tralle</E
+M>tra&#8217;</E
+M>tra i.</E

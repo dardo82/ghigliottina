@@ -1,0 +1,49 @@
+buccia.txt
+"buccia"
+"buccia di mela"
+#* ''la 
+* (''della frutta'') [[scorza]], [[corteccia]], [[crosta]], [[guscio]],
+* (''dei semi'') [[pelle]], [[pellicola]]
+* (''dei fomaggi'') [[crosta]]
+* (''degli insaccati'') [[pellicola]]
+* (''degli animali'') [[pelle]], [[epidermide]]
+* (''aspetto'') [[apparenza]], [[esteriorità]]
+* (''di pianta'') [[corteccia]]
+* ''pelle a 
+* ''
+*italiano
+M>innestare a buccia</E
+M>di mela</E
+M>di pesca</E
+M>di fico</E
+M>d’arancia</E
+M>uva di b</E
+M>grossa</E
+M>fine</E
+M>levar la b</E
+M>mangiare la mela con tutta la b</E
+M>sdrucciolare</E
+M>scivolare su una b</E
+M>di banana</E
+M>la solita b</E
+M>di banana!</E
+M>avere la b</E
+M>dura</E
+M>essere di b</E
+M>dura</E
+M>pelle</E
+M>pensare alla b</E
+M>gli preme la b</E
+M>rischiare</E
+M>rimetterci</E
+M>lasciarci la b</E
+M>salvare</E
+M> riportare a casa la buccia</E
+M>rivedere le b</E
+M>a qualcuno</E
+M>l’uomo è così legato al secolo in cui vive che non può dichiarare l’animo suo senza riveder le buccie anche alla generazione che lo circonda</E
+M>Qual suole il fiammeggiar de le cose unte Muoversi pur su per la strema b</E
+M>buccia buccia</E
+M>Buccia d’arancio</E
+M>Pelle a b</E
+M>d’arancio</E

@@ -1,0 +1,159 @@
+servire.txt
+"coppa per servire il punch"
+"lasciarsi servire"
+"servire"
+"servire"
+"servire"
+"servire, replace: servirsi"
+"servire"
+"servire"
+"servire"
+"servire"
+"servire"
+"servire, replace: servirsi"
+"servire"
+"servire, replace: servirsi"
+"servire"
+"servire"
+"servire a tavola"
+"servire allo scopo"
+"servire allo scopo"
+"servire cibi pronti"
+"servire di nuovo"
+"servire gli interessi di qualcuno"
+"servire la causa"
+*[[soggiacere]], [[sottostare]]
+*''(di domestici) [[lavorare]]
+*''(la patria, la società e simili)'' [[prodigarsi]]
+*''(vivande)  [[portare]]
+*[[giovare]] 
+*''(nel tennis)'' [[battere]] 
+*[[dominare]], [[nuocere]]
+*[[serva]], [[servile]], [[servitore]], [[servitù]], [[servizio]]
+M>servire</E
+M>servus</E
+M>io sèrvo</E
+M>avere</E
+M>essere</E
+M>essere costretto a s. uno spietato tiranno</E
+M>avere</E
+M>s. alle altrui voglie</E
+M>nessuno può s. a due padroni</E
+M>Matteo</E
+M>Luca</E
+M>nemo potest duobus dominis servire</E
+M>vedendosi giunta in forza altrui</E
+M> Morire in prima che servir sostenne</E
+M>L&#8217;altrui voglia era legge per lui</E
+M> ... La sua parte</E
+M> servire e tacer</E
+M>ha servito per dieci anni in una casa signorile.</E
+M>s. in tavola</E
+M>s. la tavola</E
+M>li tre famigliari servirono le tavole</E
+M>s. a tavola</E
+M>servite prima la signora</E
+M>se permette</E
+M> la servirò io</E
+M>far servire il tè</E
+M>il caffè</E
+M>il rinfresco</E
+M>il cameriere gli servì una minestra</E
+M> una granita di caffè</E
+M>servirsi</E
+M>la prego</E
+M> si serva</E
+M>servitevi pure</E
+M> non fate complimenti!</E
+M>è un supermercato molto fornito</E
+M>è un ottimo ristorante</E
+M> ma sono in pochi</E
+M>sono lenti</E
+M> a servire</E
+M>s. al banco</E
+M>la servo subito</E
+M>un momento</E
+M> devo prima s. la signora</E
+M>s. qualcuno di barba e capelli</E
+M>lo servo ormai da dieci anni</E
+M>mi servo di solito dal pescivendolo</E
+M>dal calzolaio</E
+M>qui di fronte</E
+M>s. la patria</E
+M>la nazione</E
+M>s. in artiglieria</E
+M>nei bersaglieri</E
+M>in marina</E
+M>nell&#8217;aeronautica</E
+M>ho servito onorevolmente lo stato per oltre quarant&#8217;anni</E
+M>ha servito con fedeltà ed onore</E
+M>Servir messa</E
+M>s. il Signore</E
+M>servite il Signore in letizia</E
+M>servire</E
+M>serviamo</E
+M>s. una donna</E
+M>s. la propria donna</E
+M>servirla d&#8217;amore</E
+M>mi ricordo già aver veduto quella donna ch&#8217;io serviva verso me turbata</E
+M>il mio piacere consiste in vedermi servita</E
+M>vagheggiata</E
+M>adorata</E
+M>diletto prendano dal servire</E
+M>son qui per servirti</E
+M>per servirla</E
+M>sarà servita</E
+M>in che posso servirla?</E
+M>ora lo servo io</E
+M>l&#8217;ha servito a dovere.</E
+M>to serve</E
+M>servizio</E
+M>la sua buona volontà non è servita da una sufficiente preparazione</E
+M>aveva scelto sei preti ne&#8217; quali una carità viva e perseverante fosse accompagnata e servita da una complessione robusta</E
+M>una linea tranviaria che serve un quartiere assai popolare</E
+M>le zone servite dalla metropolitana.</E
+M>essere</E
+M>avere</E
+M>gli occhi non mi servono bene</E
+M>la memoria non gli serve</E
+M>far servire</E
+M>le vele</E
+M>in panne</E
+M>le serve nulla?</E
+M>mi servirebbe un paio di forbici</E
+M>e questo arnese a che serve?</E
+M>a che serve lamentarsi?</E
+M>non serve ripeterlo cento volte</E
+M> perché</E
+M> tanto</E
+M> nessuno ti ascolta</E
+M>per</E
+M>il martello serve per battere i chiodi</E
+M>la chiave serve ad aprire la porta</E
+M>una tavola che serve di</E
+M>sostegno</E
+M>il viaggio mi è servito di riposo</E
+M>di svago</E
+M>servire di esempio</E
+M>di modello</E
+M>le serva di norma</E
+M>di avviso</E
+M>di ammaestramento</E
+M>fu lui che ci servì da guida</E
+M>da interprete</E
+M>ha un microscopio ma non sa servirsene</E
+M>sarà bene servirsi di un cannocchiale</E
+M>mi servirò di un esempio</E
+M>mi servirò di lui come presentatore</E
+M>sarà bene servirsi di un sensale.</E
+M>essere</E
+M>restare servito</E
+M>restare servito</E
+M>all&#8217;indomani</E
+M> a mezzogiorno</E
+M> restassero serviti di venir da lui</E
+M>sono servito</E
+M>full</E
+M>colore</E
+M>poker servito</E
+M>scala servita</E

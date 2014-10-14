@@ -1,0 +1,10 @@
+abbottonare.txt
+"abbottonare"
+M>io abbottóno</E
+M>a. una federa</E
+M> abbottonare</E
+M>abbottonarsi</E
+M>la giacca</E
+M>i calzoni</E
+M>la camicia</E
+M>abbottónati!</E

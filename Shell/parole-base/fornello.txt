@@ -1,0 +1,21 @@
+fornello.txt
+"fornello"
+"fornello"
+"fornello a gas"
+"fornello da campeggio"
+"fornello da cucina"
+"fornello elettrico"
+"piastra riscaldante; fornello"
+#*''accendi il fornello''
+*[[fornellata]]
+M>forno</E
+M>accendere il f</E
+M>mettere il brodo a bollire sul f</E
+M>a carbone</E
+M>a gas</E
+M>elettrico</E
+M>F. della pipa</E
+M>di mina</E
+M>foro di mina</E
+M>Fornello chimico</E
+M>Fornax</E

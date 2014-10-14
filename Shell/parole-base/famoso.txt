@@ -1,0 +1,47 @@
+famoso.txt
+"di personaggio famoso"
+"diventare famoso"
+"diventare famoso"
+"essere famoso"
+"famoso"
+"famoso a livello mondiale"
+"famoso, conosciuto"
+"famoso, conosciuto"
+"fatto noto, famoso"
+"nome ben conosciuto; detto famoso"
+"noto, famoso"
+"personaggio famoso"
+*[[noto]], [[celebre]]
+*italiano
+* spagnolo
+M>famosus</E
+M>un f</E
+M>scrittore</E
+M>maestro</E
+M>uomo di stato</E
+M>un f</E
+M>ladro</E
+M>mestatore</E
+M>usuraio</E
+M>per virtù</E
+M>per meriti</E
+M>per patriottismo</E
+M>un nome f</E
+M>donna di f</E
+M>bellezza</E
+M>un f</E
+M>episodio</E
+M>sarebbe quello lì il f</E
+M>campione?</E
+M>è questa</E
+M>dunque</E
+M>la f</E
+M>scoperta?</E
+M>ce la daranno</E
+M>finalmente</E
+M>questa f</E
+M>gratifica?</E
+M>si ebbe una f</E
+M>lavata di capo</E
+M>Libello f</E
+M>famosus libellus</E

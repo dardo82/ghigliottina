@@ -1,0 +1,32 @@
+estrarre.txt
+"estrarre"
+"estrarre da"
+"estrarre la pistola"
+"estrarre rapidamente"
+"estrarre una pistola"
+"trarre fuori, estrarre"
+#* ''da quella miniera si [[estrae]] l'oro''
+#* ''
+*tirare fuori, [[togliere]], [[levare]], [[cavare]], [[strappare]], [[sradicare]], [[scavare]], [[estirpare]]
+*[[ottenere]], [[ricavare]], [[trarre]], [[trovare]]
+*''(chimica)'' [[asportare]], [[distillare]], [[spremere]]
+*[[mettere]], [[introdurre]], [[piantare]], [[inserire]], [[impiantare]], [[immettere]]
+*[[estraibile]], [[estratto]], [[estrattivo]]
+M>extrah</E
+M>trah</E
+M>trarre</E
+M>il coltello dal fodero</E
+M>un dente al paziente</E
+M>i metalli</E
+M>lo zolfo dalle miniere</E
+M>il sale dall’acqua del mare</E
+M>lo zucchero dalla barbabietola</E
+M>il succo di un discorso</E
+M>i numeri del lotto</E
+M>della tombola</E
+M>i nomi dall’urna</E
+M>la radice quadrata</E
+M>cubica</E
+M>a sorte</E
+M>estrarre</E
+M>i premî della lotteria</E

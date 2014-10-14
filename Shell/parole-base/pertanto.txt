@@ -1,0 +1,25 @@
+pertanto.txt
+"pertanto"
+*[[ perciò]], per tutto ciò, [[dunque]], appunto per questo, per questo motivo, [[quindi]], di conseguenza
+*[[per tanto]]
+M>per</E
+M>tanto</E
+M>è da molto che non lo vedo</E
+M>non posso dirti niente di lui</E
+M>la merce da lei ordinata non è ancora pronta</E
+M>la riceverà con la prossima spedizione</E
+M>vorrei p</E
+M>chiedervi che</E
+M>gradirei p</E
+M>un breve cenno di risposta</E
+M>non p</E
+M>ciò non p</E
+M>credo sia inutile insistere</E
+M>non p</E
+M>rinnoverò la richiesta</E
+M>sono molto occupato</E
+M>non p</E
+M>accetterò l&#8217;incarico</E
+M>pertanto che</E
+M>pertantoché</E
+M>per tanto che</E

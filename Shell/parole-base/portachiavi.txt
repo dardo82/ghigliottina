@@ -1,0 +1,8 @@
+portachiavi.txt
+"portachiavi"
+"portachiavi ad anello"
+*[[moschettone]]
+*italiano
+*inglese
+M>portare</E
+M>chiave</E

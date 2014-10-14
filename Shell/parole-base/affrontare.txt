@@ -1,0 +1,42 @@
+affrontare.txt
+"affrontare"
+"affrontare"
+"affrontare, replace: affrontarsi"
+"affrontare coraggiosamente una situazione difficile"
+"affrontare la morte"
+"affrontare le conseguenze"
+"affrontare le conseguenze"
+"affrontare lunghi viaggi"
+"affrontare qualcosa"
+"affrontare questa nuova sfida"
+"affrontare un discorso"
+"affrontare un problema"
+"mettercela tutta per fare qcs, sfidare i problemi per fare qcs, affrontare i problemi per fare qcs"
+#* '''''affrontare''' il professore''
+#* '''''affrontare''' un esame''
+*[[assalire]], [[aggredire]], [[combattere]], [[scontrarsi]], [[sfidare]], [[opporsi]]
+*(situazioni incresciose, spese) [[sostenere]], far fronte
+*[[fuggire]], [[sfuggire]], [[evitare]]
+*[[affrontarsi]]
+M>*affrontare</E
+M>frons frontis</E
+M>io affrónto</E
+M>il nemico</E
+M>lo affrontarono sulla strada</E
+M>fu affrontato e ucciso</E
+M>affrontai Giorgio e lo informai d’ogni cosa</E
+M>gli eserciti si affrontarono nella pianura</E
+M>i due avversarî si affrontarono sulla pubblica piazza</E
+M>alla pila dell’acqua benedetta s’affrontarono insieme</E
+M>la morte</E
+M>pericoli</E
+M>rischi</E
+M>patimenti</E
+M>il biasimo</E
+M>il pubblico disprezzo</E
+M>una questione</E
+M>due assi</E
+M>i margini di una ferita chirurgica</E
+M>quando intervien che non s’affronti L’un con l’altro voler, l’amor non dura</E
+M>dopo che le ho parlato di donazione</E
+M>s’è affrontata</E

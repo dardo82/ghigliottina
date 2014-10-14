@@ -1,0 +1,30 @@
+manutenzione.txt
+"capo della manutenzione"
+"contratto di manutenzione"
+"intervento di manutenzione"
+"manutenzione"
+"manutenzione"
+"manutenzione del verde"
+"manutenzione ordinaria"
+"manutenzione programmata e preventiva"
+"manutenzione straordinaria"
+"tecnico della manutenzione"
+*[[conservazione]], [[mantenimento]]
+*[[manutentivo]], [[manutentore]]
+M>manutentio</E
+M>onis</E
+M>manu tenere</E
+M>ordinaria</E
+M>straordinaria</E
+M>di strade</E
+M>di argini</E
+M>di canali</E
+M>di macchinarî</E
+M>di autoveicoli</E
+M>di armi</E
+M>lavori di m</E
+M>l’ascensore è fermo per m.</E
+M>assumere</E
+M>avere la m. di un impianto</E
+M>azione di manutenzione</E
+M>azione di reintegrazione</E

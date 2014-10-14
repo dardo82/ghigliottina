@@ -1,0 +1,60 @@
+tradurre.txt
+"tradurre"
+"tradurre"
+"tradurre"
+"tradurre"
+"tradurre con\/in"
+"tradurre in atto"
+*''(un testo, una frase)'' [[rendere]], [[passare]], [[trasporre]], [[volgarizzare]], [[decifrare]], [[spiegare]], [[interpretare]], [[parafrasare]]
+*''(un imputato, un detenuto)'' [[spostare]], [[portare]], [[trasportare]], [[trasferire]], [[condurre]], [[accompagnare]]
+*[[ritradurre]]
+M>traduc</E
+M>trans</E
+M>duc</E
+M>condurre</E
+M>traduir</E
+M>io traduco</E
+M>tu traduci</E
+M>tradussi</E
+M>traducésti</E
+M>tradótto</E
+M>t. un romanzo</E
+M>un articolo dall&#8217;inglese in italiano</E
+M>un&#8217;opera tradotta in ben dieci lingue</E
+M>il relatore</E
+M>il conferenziere</E
+M>parlava in russo e l&#8217;interprete traduceva simultaneamente in italiano</E
+M>all&#8217;esame mi hanno fatto tradurre</E
+M>oralmente</E
+M>per iscritto</E
+M>in francese un brano di C. Pavese</E
+M>t. un&#8217;espressione</E
+M>un termine tecnico</E
+M>una parola</E
+M>un modo di dire</E
+M>una metafora che non è facile t.</E
+M>t. all&#8217;impronta</E
+M>t. alla lettera</E
+M>letteralmente</E
+M>t. liberamente</E
+M>t. a senso</E
+M>t. dal francese</E
+M>t. Omero</E
+M>Orazio</E
+M> Shakespeare</E
+M>t. in parole chiare</E
+M>in parole povere</E
+M>t. in cifre un affare</E
+M>t. un&#8217;idea nel marmo</E
+M>sulla tela</E
+M>t. in atto un programma</E
+M>un progetto</E
+M>sono il custode delle Carceri di San Michele</E
+M> dov&#8217;ella dev&#8217;essere tradotta</E
+M>t. in carcere</E
+M> t. in questura</E
+M>quale in un momento Da mosso speglio il suo chiaror traduce Riverberata luce</E
+M>Religïon che con diversi riti Le virtù patrie e la pietà congiunta Tradussero per lungo ordine d&#8217;anni</E
+M>un romanzo ben tradotto</E
+M>un&#8217;espressione mal tradotta</E
+M>tra il progetto com&#8217;era in teoria e com&#8217;è tradotto in pratica c&#8217;è una notevole differenza</E

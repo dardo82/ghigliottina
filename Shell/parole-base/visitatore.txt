@@ -1,0 +1,26 @@
+visitatore.txt
+"visitatore"
+"visitatore"
+*[[turista]]
+M>-trice</E
+M>visitator -oris</E
+M>i v.</E
+M> in ospedale</E
+M> sono ammessi solo in certi orarî</E
+M>è ricoverata in clinica</E
+M> ma ha sempre molti v. che le fanno compagnia</E
+M>Assistente sanitaria visitatrice</E
+M>asssistente sanitario</E
+M>Professore visitatore</E
+M>visiting professor</E
+M> V. apostolico</E
+M>i v. degli scavi</E
+M> soprattutto stranieri</E
+M> sono in continuo aumento</E
+M>è vietato ai v. di fotografare gli oggetti esposti nel museo</E
+M>una mostra di pittura</E
+M>un’esposizione</E
+M>una fiera campionaria</E
+M>che ha avuto più di centomila visitatori</E
+M>visitatori delle compere genovesi</E
+M>v. della camera</E

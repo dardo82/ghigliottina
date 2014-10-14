@@ -1,0 +1,21 @@
+assorbente.txt
+"assorbente"
+"assorbente"
+"assorbente igienico"
+"carta assorbente"
+"vaschetta assorbente"
+M>assorbire</E
+M>carta a</E
+M>carta asciugante</E
+M>sostanze</E
+M>polveri a</E
+M>peli a</E
+M>igienico</E
+M>assorbente</E
+M>a. interno</E
+M>potere a</E
+M>potere a</E
+M>acustico</E
+M>isolante acustico</E
+M>metallico</E
+M>getter</E

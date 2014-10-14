@@ -1,0 +1,31 @@
+invito.txt
+"declinare un invito"
+"entrare senza pagare, entrare senza invito"
+"estendere un invito"
+"invito"
+"invito"
+"invito scritto"
+"invito"
+"invito"
+"invito"
+"invito"
+"invito"
+"invito"
+"invito a comparire, mandato di comparizione"
+"invito a costituirsi"
+"invito ad una festa"
+"invito alla lettura"
+"invito alla non-violenza"
+"invito cartaceo"
+"invito elettronico"
+"invito scherzoso ad alzarsi"
+"invito valido per due persone"
+"presentarsi senza invito"
+"rispondere ad un invito"
+#* ''ho ricevuto un 
+#*''t'
+*[[convocazione]], [[chiamata]], [[appello]]
+*[[preghiera]], [[consiglio]]
+*[[richiesta]], [[ordine]], [[esortazione]], [[sollecitazione]], [[ingiunzione]]
+*''(nel poker)'' [[posta]]
+*[[invitare]]

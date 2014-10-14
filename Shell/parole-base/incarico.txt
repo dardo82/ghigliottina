@@ -1,0 +1,66 @@
+incarico.txt
+"assegnare un incarico"
+"assumere l'incarico"
+"avere l'incarico di"
+"durata di un incarico"
+"incarico"
+"incarico"
+"incarico di"
+"incarico di lavoro"
+"incarico di presidente"
+"incarico in qualità di primo ministro"
+"incarico provvisorio"
+"lettera di incarico"
+"parlamentare senza incarico"
+"ricoprire un incarico"
+#* ''lo [[spazzino]] ha l''''incarico''' di [[pulire]] la [[strada]]''
+#* ''mi hanno dato l''''incarico''' di [[consegnare]] questo [[pacco]]''
+#* ''aveva l''''incarico''' di [[vicepreside]]''
+#*''m'incarico io di risolvere la faccenda''
+*[[compito]], [[mansione]], [[incombenza]], [[responsabilità]], [[mandato]], [[commissione]], [[funzione]], [[ufficio]], [[missione]], [[onere]]
+*[[lavoro]], [[posizione]], [[posto]], [[ruolo]], [[carica]]
+*[[rinuncia]], [[dimissione]], [[esonero]], [[defezione]]
+*[[incaricare]]
+* (''sostantivo'') [[incarco]]
+M>chi</E
+M>già lo ’ncarco di là giù mi pesa</E
+M>terreno incarco</E
+M>Nel dì ch’io presi l’amoroso incarco</E
+M>ma ’l vergognoso scorno Non soffrì Apollo e l’oltraggioso incarco</E
+M>dare</E
+M>affidare</E
+M>conferire un i</E
+M>accettare</E
+M>ricevere</E
+M>assumere</E
+M>prendere</E
+M>avere un i</E
+M>rifiutare un i</E
+M>l’i</E
+M>compiere</E
+M>svolgere</E
+M>espletare l’i</E
+M>ricevuto</E
+M>un i</E
+M>delicato</E
+M>di fiducia</E
+M>un i</E
+M>difficile</E
+M>gravoso</E
+M>oneroso</E
+M>avere il doloroso</E
+M>il penoso</E
+M>l’ingrato i</E
+M>fare qualcosa per i</E
+M>d’altri</E
+M>non di propria iniziativa</E
+M>ricoprire un posto per incarico</E
+M>il capo dello stato ha affidato all’onorevole</E
+M>l’i</E
+M>di formare il nuovo governo</E
+M>esplorativo</E
+M>d’insegnamento</E
+M>a tempo indeterminato</E
+M>conferire una cattedra per incarico</E
+M>coprire l’i</E
+M>di storia delle religioni nella facoltà di scienze della formazione</E

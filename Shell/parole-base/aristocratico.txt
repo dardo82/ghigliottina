@@ -1,0 +1,19 @@
+aristocratico.txt
+"aristocratico"
+"aristocratico"
+"aristocratico"
+"aristocratico"
+"giovane aristocratico"
+*[[nobile]]
+*[[aristocraticamente]]
+*[[aristocrazia]]
+M>famiglia a</E
+M>è un a</E
+M>non fare l’a</E
+M>si dà arie di aristocratica</E
+M>ostentare maniere a</E
+M>ambiente a</E
+M>governo a</E
+M>gli a</E
+M>vivere aristocraticamente</E
+M>tenersi aristocraticamente lontani dalla folla</E

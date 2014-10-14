@@ -1,0 +1,50 @@
+disponibile.txt
+"(essere) disponibile"
+"disponibile"
+"disponibile"
+"disponibile"
+"disponibile"
+"disponibile per la stampa"
+"essere disponibile"
+"gentilmente, generosamente, in modo disponibile"
+"luce disponibile"
+"non disponibile"
+"non disponibile"
+"non disponibile"
+"rendere disponibile"
+"rendere disponibile"
+"rendere disponibile a tutti"
+"rendere qualcosa disponibile"
+"rendere qualcosa disponibile a tutti"
+*[[utilizzabile]], [[usabile]], [[servibile]], [[adoperabile]], [[fruibile]], [[godibile]]
+*(di posto) [[vuoto]], [[libero]], non occupato, [[vacante]]
+*(di persona) libero da impegni, [[disimpegnato]], a disposizione, [[disoccupato]]
+*(di carattere, persona) [[aperto]], ben disposto, [[pronto]], [[disposto]], [[sollecito]], [[sensibile]], [[altruista]], [[caritatevole]], [[gentile]]
+*[[indisponibile]],[[inutilizzabile]], [[inservibile]]
+*(di posto) [[occupato]]
+* (di persona) [[impegnato]], [[affaccendato]], [[preso]]
+*(di carattere, persona)[[chiuso]], mal disposto, [[insensibile]], [[egoista]]
+*[[disponimento]]
+M>disporre</E
+M>disponere</E
+M>somme d</E
+M>appartamento d</E
+M>subito</E
+M>non c’erano più posti d</E
+M>ho d</E
+M>ancora pochi euro</E
+M>quota d</E
+M>la disponibile</E
+M>il d. in conto</E
+M>essere</E
+M>mostrarsi</E
+M>rendersi d</E
+M>chiedi alla segretaria se è d</E
+M>per le 10</E
+M>che dovrei dettarle alcune lettere</E
+M>se sei d</E
+M>questa sera</E
+M>ti porto a cena fuori</E
+M>uno studioso che</E
+M>anche se molto occupato</E
+M>è sempre d</E

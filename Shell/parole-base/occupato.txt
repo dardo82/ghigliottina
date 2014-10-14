@@ -1,0 +1,35 @@
+occupato.txt
+"(essere) occupato"
+"(tenere) occupato"
+"avere per le mani; essere occupato"
+"essere occupato"
+"essere occupato da"
+"non occupato"
+"non occupato, non impiegato"
+"occupato"
+"occupato"
+"occupato"
+"tenere occupato"
+#* ''Scusami se non ti ho risposto ma ero occupato''
+*''(di spazio, locale ecc.)'' [[impegnato]]
+*''(di persona)''[[indaffarato]], [[impegnato]], [[affaccendato]] 
+*''(di spazio, locale ecc.)''  [[libero]], [[disponibile]]
+*''(di persona)'' [[disoccupato]], [[inoccupato]] 
+*[[occupare]], [[occupatore]], [[occupazione]]
+M>occupare</E
+M>le stanze dell’albergo sono tutte o.</E
+M>le poltrone delle prime file sono già tutte o.</E
+M>scusi</E
+M>è o. questo posto?</E
+M>è passato finalmente un taxi</E
+M>ma era già o.</E
+M>il telefono è occupato</E
+M>in quel momento ero o. a scrivere una lettera</E
+M>è o. tutto il giorno con il lavoro</E
+M>è sempre occupata intorno ai figli</E
+M>in questo periodo sono molto o.</E
+M>il direttore è o. e non può riceverla</E
+M>in questo momento il dottore è occupato</E
+M>disoccupato</E
+M>l’automazione della produzione industriale ha influito negativamente sul numero degli operai o.</E
+M>sono in aumento gli o. nel terziario</E

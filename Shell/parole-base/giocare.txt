@@ -1,0 +1,234 @@
+giocare.txt
+"andate a giocare (children)"
+"giocare"
+"giocare"
+"giocare"
+"giocare"
+"giocare"
+"giocare un pezzo, una carta"
+"giocare"
+"giocare, replace: giocarsela"
+"giocare a"
+"giocare a bocce"
+"giocare a bowling"
+"giocare a briscola"
+"giocare a carte"
+"giocare a carte scoperte"
+"giocare a chiapparello"
+"giocare a fare Dio"
+"giocare a fare Dio"
+"giocare a fare gli indiani"
+"giocare a fare i grandi"
+"giocare a fare la mamma"
+"giocare a filetto"
+"giocare a golf"
+"giocare a nascondino..."
+"giocare a pallacanestro"
+"giocare a poker col pollo"
+"giocare a rimpiattino"
+"giocare a tutto campo (sport)"
+"giocare al computer"
+"giocare al dottore"
+"giocare al dottore"
+"giocare al ribasso"
+"giocare al ribasso"
+"giocare alla roulette russa"
+"giocare come il gatto col topo"
+"giocare con"
+"giocare con cattiveria"
+"giocare con i sentimenti"
+"giocare con l'acqua"
+"giocare contro"
+"giocare contro"
+"giocare d'azzardo"
+"giocare d'azzardo"
+"giocare dei brutti scherzi"
+"giocare fuori casa"
+"giocare gratis"
+"giocare in casa"
+"giocare l'asso"
+"giocare la schedina"
+"giocare le eliminatorie"
+"giocare le proprie carte"
+"giocare le proprie carte"
+"giocare le proprie carte"
+"giocare lealmente"
+"giocare per"
+"giocare per divertimento"
+"giocare qualcuno sul tempo"
+"giocare rumorosamente"
+"giocare secondo le regole"
+"giocare secondo le regole"
+"giocare su"
+"giocare su (d'azzardo)"
+"giocare sul sicuro"
+"giocare sulla pelle di qualcuno"
+"giocare sulle parole"
+"giocare un brutto tiro"
+"giocare un brutto tiro a qn"
+"giocare un ruolo"
+"giocare violentemente"
+"giocare, suonare, di nuovo"
+"il giocare rumorosamente"
+"oggetto per giocare"
+"quando il gioco si fa duro, i duri cominciano a giocare!"
+"stanza per giocare"
+"tassa che si paga per giocare in un campo da golf"
+"una carta da giocare"
+*[[divertirsi]], [[svagarsi]], [[scherzare]], [[giocherellare]], [[trastullarsi]], [[baloccarsi]]
+*praticare uno sport, fare una partita, [[gareggiare]]
+*''(al lotto, in Borsa, eccetera)'' [[scommettere]], [[puntare]]
+*disputare un incontro
+*''(nei giochi di carte)'' mettere in tavola
+*''(negli scacchi, nella dama)'' [[muovere]]
+*[[scommettere]], [[puntare]], [[arrischiare]]
+*[[lavorare]], [[faticare]], [[stancarsi]]
+*[[giocarsi]], [[rigiocare]]
+*''giocare a carte scoperte''
+*''''giocare un brutto tiro''
+M>care</E
+M>cari</E
+M>io giòco</E
+M>giuòco</E
+M>tu giòchi</E
+M>giuòchi</E
+M>avere</E
+M>i bambini giocano nel giardino</E
+M>a palla</E
+M>a rincorrersi</E
+M>a nascondino</E
+M>a mosca cieca</E
+M>le bambine giocavano alle signore</E
+M>con le bambole</E
+M>col trenino elettrico</E
+M>il gatto gioca col topo</E
+M>sulle parole</E
+M>o che giochiamo?</E
+M>credi forse che io giochi?</E
+M>con la propria vita</E
+M>con la salute</E
+M>alle bocce</E
+M>a tennis</E
+M>a carte</E
+M>a poker</E
+M>alla roulette</E
+M>ai dadi</E
+M>chi andò a dormire e chi a giucare a scacchi</E
+M>alla tombola</E
+M>a tombola</E
+M>al lotto</E
+M>al totocalcio</E
+M>d’azzardo</E
+M>in due</E
+M>in quattro</E
+M>con qualcuno</E
+M>a soldi</E
+M> di soldi</E
+M>g. di molto</E
+M>di poco</E
+M>a carte scoperte</E
+M>a un brutto gioco</E
+M>a un gioco pericoloso</E
+M>a che gioco giochiamo?</E
+M>fortunato</E
+M>chi ha fortuna</E
+M>in amor non giochi a carte</E
+M>gioco io per primo</E
+M>tocca a te g</E
+M>gioca</E
+M>che aspetti?</E
+M>da tempo mi sono accorto che gioca</E
+M>sarebbe un bravo marito</E
+M>se non giocasse</E
+M>gioco</E
+M>bene</E
+M>male</E
+M>in condizioni d’inferiorità</E
+M>in casa</E
+M>fuori casa</E
+M>domenica prossima la Roma gioca con il Napoli</E
+M>una carta</E
+M>l’ultima carta</E
+M>ha giocato tutte le sue carte</E
+M>sapendo bene che giocavano una gran carta</E
+M>ma convinti che non c’era da far altro</E
+M>conclusero di rincarare il pane</E
+M>cuori</E
+M>picche</E
+M>coppe</E
+M>bastoni</E
+M>un carico</E
+M>una briscola</E
+M>l’asso</E
+M>il settebello</E
+M>una pedina</E
+M>una dama</E
+M>un pezzo</E
+M>un ambo</E
+M>un terno</E
+M>ho giocato il 46 ed è uscito il 45</E
+M>grosse somme</E
+M>giochiamoci una bottiglia</E
+M>un caffè</E
+M>una somma</E
+M>su una carta</E
+M>su un numero</E
+M>forte</E
+M>in borsa</E
+M>al rialzo</E
+M>50 euro sul cavallo vincente</E
+M>ci giocherei la testa che questa volta finisce male</E
+M>giocarsi qualche cosa</E
+M>si giocherebbe anche la camicia</E
+M>si giocherebbe l’anima</E
+M>l’osso del collo</E
+M>giocarsi la vita</E
+M>la salute</E
+M>il credito</E
+M>la reputazione</E
+M>s’è giocato fino all’ultimo centesimo</E
+M>finirà col giocarsi tutto il patrimonio</E
+M>s’è giocato una fortuna in speculazioni sbagliate</E
+M>s’è giocato il posto</E
+M>l’impiego</E
+M>la carriera</E
+M>si vedrebbe che quindici anni che io sono stato a studio all’arte dello stato</E
+M>non gli ho né dormiti né giuocati</E
+M>una persona</E
+M>ti ha giocato come ha voluto</E
+M>temo che siamo stati giocati</E
+M>giocarsi qualcuno</E
+M>di bastone</E
+M>di spada</E
+M>d’arco</E
+M>giocava d’arco a gesti rapidi</E
+M>premendo sul pie’ della viola il mento aguzzo</E
+M>di gomiti</E
+M>di calci</E
+M>di pugni</E
+M>quatto quatto sul principio</E
+M>poi giocando di gomita a più non posso</E
+M>s’allontanò da quel luogo</E
+M>di mano</E
+M>di schiena</E
+M>d’ingegno</E
+M>d’astuzia</E
+M>di malizia</E
+M>la serratura non gioca bene</E
+M>questo ingranaggio gioca un po’ troppo</E
+M>essere in gioco</E
+M>qui gioca l’ambizione</E
+M>è l’interesse che gioca</E
+M>far g</E
+M>una cosa</E
+M>far g</E
+M>il cannone</E
+M>le artiglierie contro il nemico</E
+M>hanno fatto g</E
+M>le ricchezze</E
+M>le relazioni</E
+M>di cui dispongono</E
+M>giocare</E
+M>tutte le proprie risorse</E
+M>l’avvocato ha saputo g</E
+M>tutte le sue sottigliezze giuridiche per avere ragione dell’avversario</E

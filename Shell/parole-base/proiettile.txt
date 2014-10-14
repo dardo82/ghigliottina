@@ -1,0 +1,37 @@
+proiettile.txt
+"foro di proiettile"
+"foro di proiettile"
+"proiettile"
+"proiettile"
+M>proiectus</E
+M>proic</E
+M>vulcanici</E
+M>proietti vulcanici</E
+M>proiettile</E
+M>proietto</E
+M>i p</E
+M>del fucile</E
+M>della pistola</E
+M>la parabola</E
+M>la traiettoria d&#8217;un p</E
+M>il sibilo del p</E
+M>si sentivano tutt&#8217;intorno fischiare i p</E
+M>esser colpito</E
+M>ferito da un p</E
+M>perforanti</E
+M>traccianti</E
+M>illuminanti</E
+M>fumogeni</E
+M>nebbiogeni</E
+M>passare</E
+M>lanciare</E
+M>gettarsi</E
+M>scaraventarsi</E
+M>veloce</E
+M>come un p</E
+M>correva così forte che sotto i suoi tacchi ciottoli schizzavano all&#8217;intorno come proiettili</E
+M>cartuccia</E
+M>una pistola col p</E
+M>in canna</E
+M>umani</E
+M>proiettili</E

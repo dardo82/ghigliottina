@@ -1,0 +1,78 @@
+fase.txt
+"angolo di fase"
+"contrasto di fase"
+"contrasto di fase"
+"controllo di fase"
+"costi societari rilevabili solo in fase di chiusura"
+"differenza di fase"
+"fase"
+"fase"
+"fase"
+"fase"
+"fase"
+"fase di raffreddamento"
+"fase finale"
+"fase iniziale"
+"fase negativa"
+"fase preliminare"
+"fase preliminare"
+"fuori fase"
+"in fase"
+"in fase attiva"
+"in fase attuale"
+"in fase di approvazione"
+"in fase di certificazione"
+"in fase di completamento"
+"in fase di elaborazione"
+"in fase di revisione"
+"in fase di studio"
+"in fase esecutiva"
+"la fase preliminare"
+"modulazione di fase"
+"nella fase attiva"
+"nella fase iniziale"
+"nuova fase"
+"ultima fase"
+"velocità di fase"
+*[[momento]], [[condizione]], [[andamento]], [[stato]], [[punto]]
+M>le quattro f</E
+M>lunari</E
+M>le diverse f</E
+M>di un’eruzione vulcanica</E
+M>di aspirazione</E
+M>di compressione</E
+M>il motore è</E
+M>non è in fase</E
+M>oggi non sono in f</E
+M>sono fuori f</E
+M>la nuova f</E
+M>della malattia</E
+M>la f</E
+M>evolutiva di un processo</E
+M>dello sviluppo psicofisico individuale</E
+M>le successive f</E
+M>dei negoziati</E
+M>le alterne f</E
+M>della battaglia</E
+M>le varie f</E
+M>della lavorazione</E
+M>le trattative entrano in una nuova f</E
+M>nella f</E
+M>definitiva</E
+M>il progetto è già entrato nella sua f</E
+M>operativa</E
+M>libidica</E
+M>orale</E
+M>anale</E
+M>fallica</E
+M>genitale</E
+M>fase</E
+M>f. iniziale</E
+M>differenza di f.</E
+M>sfasamento</E
+M>in accordo di fase</E
+M>in anticipo di f</E
+M>in ritardo di f</E
+M>fasi</E
+M>fase</E
+M>cristallina</E

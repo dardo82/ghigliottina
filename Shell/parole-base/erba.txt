@@ -1,0 +1,219 @@
+erba.txt
+"bocce sull'erba"
+"campione in erba"
+"campo da tennis sull'erba"
+"color verde erba"
+"coperto d'erba"
+"dar da mangiare erba"
+"dragontea; erba serpona"
+"erba"
+"erba"
+"erba cipollina"
+"erba da fieno"
+"erba da pascolo"
+"erba da pascolo"
+"erba del prato"
+"erba dell'amore"
+"erba della pampa"
+"erba luisa"
+"erba mazzolina"
+"erba medicinale"
+"erba ornamentale"
+"erba perenne"
+"erba verde"
+"filo d'erba"
+"in erba"
+"orecchio di topo (erba officinale)"
+"per far crescere l'erba"
+"per tagliare l'erba"
+"ricco d'erba"
+"ricoprire d'erba"
+"Rudbeckia laciniata (erba)"
+"tagliare l'erba"
+"terreno coltivato a erba; prateria"
+* ''(al plurale)'' [[verdure]], [[ortaggi]], [[erbaggi]]  
+*[[tagliaerba]], [[tosaerba]]
+*''Campa cavallo che l' '''erba''' cresce.'' 
+*''L' '''erba''' del vicino è sempre più verde.'' 
+*''L' '''erba''' voglio non esiste'' 
+*''Se marzo butta 
+*italiano
+M>rba</E
+M>piante erbacee</E
+M>aromatiche</E
+M>fini</E
+M>fines herbes</E
+M>erbe da pascolo</E
+M>mal’erba</E
+M>malerba</E
+M>un filo d’e</E
+M>non c’è</E
+M>non vi cresce un filo d’e</E
+M>essere in e</E
+M>il grano è ancora in e</E
+M>fagioli in e</E
+M>fagiolini</E
+M>dottore</E
+M>avvocato</E
+M>pittore in e</E
+M>mangiarsi il grano in e</E
+M>far d’ogni e</E
+M>fascio</E
+M>dare l’e</E
+M>trastulla</E
+M>l’e</E
+M>voglio non cresce neanche nel giardino del re</E
+M>la pazienza è una buon’e</E
+M>ma non cresce in tutti gli orti</E
+M>erbose</E
+M>l’e</E
+M>verde dei prati</E
+M>sdraiarsi sull’e</E
+M>tagliare</E
+M>falciare</E
+M>pareggiare l’e</E
+M>fare erba</E
+M>non ci cresce più e</E
+M>vi cresce l’erba</E
+M>erbe</E
+M>Piazza delle E</E
+M>un piatto d’erbe</E
+M>cruda</E
+M>fave cotte</E
+M>si sta mal tutta la notte</E
+M>grass</E
+M>Erba liquida</E
+M>verde erba</E
+M>punto erba</E
+M>punto stelo</E
+M>sulla molle erbetta</E
+M>Ambo le mani in su l’erbetta sparte Soavemente ’l mio maestro pose</E
+M>erbetta</E
+M>erbette</E
+M>erbucce</E
+M>un campo pieno d’erbacce</E
+M>strappare</E
+M>sradicare le erbacce</E
+M>un orto abbandonato</E
+M>pieno di erbaccia</E
+M>erba</E
+M>erba</E
+M>betonica</E
+M>fienarola</E
+M>medica</E
+M>acetina</E
+M>aglina</E
+M>aglio</E
+M>altissima</E
+M>amara</E
+M>astrologa</E
+M>Aristolochia rotunda</E
+M>benedetta</E
+M>bozzolina</E
+M>bruca</E
+M>Scorpiurus muricatus</E
+M>vermiculatus</E
+M>brusca</E
+M>cannella</E
+M>cappona</E
+M>cedrata</E
+M>cicutaria</E
+M>Erodium cicutarium</E
+M>cinicina</E
+M>Geranium robertianum</E
+M>Coriandrum sativum</E
+M>cipressina</E
+M>Euphorbia cyparissias</E
+M>cornacchia</E
+M>Erysimum officinale</E
+M>Sisymbrium</E
+M>cornetta</E
+M>còrsa</E
+M>gnidio</E
+M>dittinella</E
+M>Daphne gnidium</E
+M>croce</E
+M>Cruciata laevipes</E
+M>crocciòla</E
+M>crociona</E
+M>da calli</E
+M>da emorroidi</E
+M>da gatti</E
+M>da porri</E
+M>da spazzola</E
+M>Chrysopogon gryllus</E
+M>dei gatti</E
+M>della Madonna</E
+M>di S</E
+M>Giacomo</E
+M>Senecio jacobaea</E
+M>di S</E
+M>Giovanni</E
+M>di S</E
+M>Pietro</E
+M>divina</E
+M>dorata</E
+M>fava</E
+M>fava grossa</E
+M>e. da calli</E
+M>Sedum telephium</E
+M>favagello</E
+M>fragolina</E
+M>gallina</E
+M>gamberaia</E
+M>gialla</E
+M>giallina</E
+M>ginestrina</E
+M>grassa</E
+M>Sedum</E
+M>gratta</E
+M>lanaria</E
+M>Gypsophila arrostii</E
+M>laurina</E
+M>limona</E
+M>livia</E
+M>lucciola</E
+M>Carex glauca</E
+M>muricata</E
+M>Ophioglossum vulgatum</E
+M>luisa</E
+M>luigia</E
+M>mora</E
+M>paris</E
+M>pennina</E
+M>pepe</E
+M>peperina</E
+M>pepina</E
+M>pesce</E
+M>Salvinia natans</E
+M>pignola</E
+M>Sedum</E
+M>erba grassa</E
+M>puzzolona</E
+M>rena</E
+M>renella</E
+M>Asarum europaeum</E
+M>roberta</E
+M>rota</E
+M>Achillea herba</E
+M>rota</E
+M>santa</E
+M>Santa Barbara</E
+M>barbarea</E
+M>Barbarea vulgaris</E
+M>Santa Maria</E
+M>sega</E
+M>stella</E
+M>Alchemilla vulgaris</E
+M>Plantago coronopus</E
+M>storna</E
+M>Thlaspi arvense</E
+M>strega</E
+M>Stachys palustris</E
+M>licopodio</E
+M>sudanese</E
+M>sorgo gentile</E
+M>Sorghum bicolor</E
+M>ventaglina</E
+M>vescica</E
+M>Utricularia</E

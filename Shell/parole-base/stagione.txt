@@ -1,0 +1,157 @@
+stagione.txt
+"(stagione) della coltivazione"
+"alta stagione"
+"controllo di stagione"
+"della stagione morta"
+"della stagione umida"
+"di stagione"
+"di stagione e fuori stagione"
+"fine stagione"
+"fuori stagione"
+"fuori stagione"
+"fuori stagione"
+"fuori stagione"
+"la stagione"
+"la stagione delle piogge"
+"metà stagione"
+"nella bella stagione"
+"nella debita stagione"
+"per una stagione"
+"stagione"
+"stagione"
+"stagione autunnale"
+"stagione calcistica"
+"stagione concertistica"
+"stagione del raccolto"
+"stagione dell'anno"
+"stagione della caccia"
+"stagione di caccia"
+"stagione di caccia"
+"stagione di crescita"
+"stagione estiva"
+"stagione estiva"
+"stagione fredda"
+"stagione lirica"
+"stagione morta"
+"stagione primaverile"
+"stagione terminale"
+"stagione umida"
+#*''la stagione calda''
+* [[periodo]], [[tempo]], [[fase]], [[ciclo]]
+* periodo favorevole, periodo propizio, tempo propizio
+* (di movimento artistico, della vita) [[anni]], [[periodo]]
+*[[stagionale]],[[stagionalmente]], [[stagionare]], [[stagionatura]]
+*[[primavera]], [[estate]], [[autunno]], [[inverno]]
+*''mezza stagione''
+*Enciclopedia [http
+M>statio -</E
+M>nis</E
+M>stare</E
+M>s. astronomiche</E
+M>primavera</E
+M>estate</E
+M>autunno</E
+M>inverno</E
+M>il succedersi</E
+M>il rinnovarsi</E
+M>la successione</E
+M>il rinnovamento</E
+M>delle s.</E
+M>cambiamento di stagione</E
+M>l&#8217;inizio</E
+M>la fine</E
+M>il termine d&#8217;una s.</E
+M>a s. avanzata</E
+M>inoltrata</E
+M>la nuova s.</E
+M>la s. novella</E
+M>Mai rivestì di tante gemme l&#8217;erba La novella stagion che &#8217;l mondo av</E
+M>iva</E
+M>s. meteorologiche</E
+M>climatiche</E
+M>una s. fredda</E
+M>rigida</E
+M>secca</E
+M>umida</E
+M>piovosa</E
+M>incostante</E
+M>la bella</E
+M>la buona s.</E
+M>la brutta</E
+M>la cattiva s.</E
+M>mezza s.</E
+M>abito</E
+M>vestito</E
+M>soprabito da mezza s.</E
+M>le nuove collezioni d&#8217;alta moda per la s. autunno-inverno</E
+M>la s. delle piogge</E
+M>la s. della semina</E
+M>della raccolta</E
+M>della vendemmia</E
+M>la s. delle ciliegie</E
+M>delle castagne</E
+M>dell&#8217;uva</E
+M>dei fichi</E
+M>la s. dei fiori</E
+M>la s. delle rose</E
+M>dei gigli</E
+M>dei crisantemi</E
+M>la s. degli agnelli</E
+M>dei tordi</E
+M>delle anguille</E
+M>frutta</E
+M>verdura di s.</E
+M>frutto di s.</E
+M>frutta</E
+M>verdura fuori s.</E
+M>frutto fuori s.</E
+M>la s. degli amori</E
+M>la s. dei bagni</E
+M>balneare</E
+M>la s. dei viaggi</E
+M>delle vacanze</E
+M>ogni cosa ha la sua s.</E
+M>non è questa la s.</E
+M>la s. lirica al teatro dell&#8217;Opera</E
+M>la s. di prosa</E
+M>le compagnie che si avvicenderanno nella prossima s. teatrale</E
+M>l&#8217;orchestra è stata scritturata per l&#8217;intera s.</E
+M>comincia la s. dei premî letterarî</E
+M>la s. calcistica</E
+M>ciclistica</E
+M>atletica.</E
+M>credito di s.</E
+M>ho affittato una villa al mare per l&#8217;intera s.</E
+M>per tutta la s.</E
+M>alta s.</E
+M>bassa s.</E
+M>fine stagione</E
+M>siamo a fine s.</E
+M> l&#8217;albergo chiude</E
+M>a fine s. i costumi da bagno non si vendono più</E
+M>saldi</E
+M>sconti di fine s.</E
+M>s. morta</E
+M>morte-saison</E
+M>mi sovvien l&#8217;eterno</E
+M> E le morte s.</E
+M> e la presente E viva</E
+M>Quando de&#8217; miei fiorenti anni fuggiva La stagion prima</E
+M>Godi</E
+M> fanciullo mio; stato soave</E
+M> Stagion lieta è cotesta</E
+M>uditi li divini ufici in abito lugubre</E
+M> quale a sì fatta s. si richiedea</E
+M>Stagion verrà che negli Achei si svegli Desiderio d&#8217;Achille</E
+M> che s. del cuore è questa</E
+M> in cui ci si trova a correre in soccorso di anni dimenticati</E
+M> fingendo di averli sentiti gridare aiuto?</E
+M>Pur lusingato da speranza ardita Soffrii lunga stagion ciò che più spiace</E
+M>Ivi Letizia ... fu madre felice</E
+M> Ahi troppo breve stagione!</E
+M>quattro stagioni</E
+M>armadio quattro s.</E
+M>olio quattro s.</E
+M>pizza quattro s.</E
+M>che stagionaccia!</E
+M>quest&#8217;anno per le vendite è stata una stagionaccia</E

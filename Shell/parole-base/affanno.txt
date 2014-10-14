@@ -1,0 +1,23 @@
+affanno.txt
+"affanno"
+"affanno"
+"con affanno"
+*''Chi muore esce d'affanni, ma tutti si vuol viver cent'anni.''
+M>afan</E
+M>dispnea</E
+M>la salita mi dà l’affanno</E
+M>mi prende facilmente l’a</E
+M>essere oppresso dall’affanno</E
+M>asma</E
+M>essere</E
+M>vivere in a</E
+M>in continui a</E
+M>dare</E
+M>recare a</E
+M>levare</E
+M>uscire d’a</E
+M>prendersi a</E
+M>per qualcuno</E
+M>per qualche cosa</E
+M>l’antica natura onnipossente</E
+M>Che mi fece all’a</E

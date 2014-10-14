@@ -1,0 +1,52 @@
+spiegazione.txt
+"come spiegazione"
+"fornire una spiegazione"
+"necessita di spiegazione"
+"spiegazione"
+"spiegazione"
+"spiegazione esauriente"
+"spiegazione orale"
+*[[chiarimento]], [[soluzione]], [[risoluzione]], [[decifrazione]], [[interpretazione]], [[commento]], [[illustrazione]], [[delucidazione]], [[parafrasi]], [[nota]], [[annotazione]], [[osservazione]], [[chiosa]], [[glossa]], [[postilla]], [[insegnamento]], [[lezione]], [[esposizione]], [[volgarizzazione]], [[esegesi]]
+*[[scusa]], [[giustificazione]], [[motivo]], [[motivazione]], [[ragione]], [[discolpa]]
+*[[indicazione]], [[istruzione]]
+*[[confusione]], [[complicazione]]
+*[[richiesta]], [[domanda]], [[interrogazione]]
+*[[spiegare]]
+M>spiegare</E
+M>explicatio -onis</E
+M>chiedere la s. di ciò che non si è riusciti a capire</E
+M>se non ti è ancora tutto chiaro</E
+M> ti darò un&#8217;ulteriore s.</E
+M>la s. di un indovinello</E
+M>di una sciarada</E
+M>un enigma di difficile spiegazione</E
+M>ascoltare</E
+M>seguire attentamente la s. del maestro</E
+M>del professore</E
+M>s. chiara</E
+M>lucida</E
+M>rigorosa</E
+M>complicata</E
+M>confusa</E
+M>prolissa</E
+M>la s. di una regola grammaticale</E
+M>di un teorema</E
+M>di una teoria scientifica</E
+M>la s. di una terzina dantesca</E
+M>di una parabola evangelica</E
+M>per questo argomento bastano poche parole di spiegazione</E
+M>gli ho dato s. dettagliate sulla strada da percorrere per arrivare fino alla villa</E
+M>nella scatola c&#8217;è un foglietto con la s. del funzionamento dell&#8217;apparecchio</E
+M>non so darmi una s. del suo comportamento</E
+M>non riesco a trovare una s. alla sua violenta reazione</E
+M>la s. da lui fornita non ha convinto nessuno</E
+M>la s. di quanto è accaduto non può essere che questa</E
+M>per fatti come questi non c&#8217;è una s. plausibile</E
+M>chiedere</E
+M>esigere</E
+M>pretendere spiegazione di</E
+M>delle spiegazioni</E
+M>dare</E
+M>ottenere spiegazione</E
+M>Avere una s. con qualcuno</E
+M>venire a una s. con qualcuno</E

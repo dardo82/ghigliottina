@@ -1,0 +1,30 @@
+respirazione.txt
+"respirazione"
+"respirazione artificiale"
+"respirazione bocca a bocca"
+"respirazione bocca a bocca"
+"respirazione con la bocca"
+M>respiratio</E
+M>onis</E
+M>esterna</E
+M>interna</E
+M>l&#8217;atto della r</E
+M>regolare</E
+M>irregolare</E
+M>affannosa</E
+M>agevolare</E
+M>ostacolare</E
+M>impedire la r</E
+M>i movimenti</E
+M>il ritmo della r</E
+M>gli organi della r</E
+M>disturbi della r</E
+M>artificiale</E
+M>artificiale bocca a bocca</E
+M>bocca</E
+M>naso</E
+M>manuale</E
+M>Silvester</E
+M>controllata</E
+M>esercizî di r</E
+M>continua</E

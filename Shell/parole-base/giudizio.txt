@@ -1,0 +1,171 @@
+giudizio.txt
+"a insindacabile giudizio di"
+"a insindacabile giudizio di"
+"atto di citazione (in giudizio)"
+"buon giudizio"
+"citare in giudizio"
+"citare in giudizio"
+"citazione in giudizio"
+"citazione in giudizio"
+"costituirsi in giudizio"
+"dente del giudizio"
+"errore in giudizio"
+"esercitare giudizio"
+"finire alla sbarra, andare in giudizio"
+"formulare un giudizio prematuro"
+"giorno del giudizio"
+"giorno del giudizio"
+"giudizio"
+"giudizio"
+"giudizio"
+"giudizio"
+"giudizio"
+"giudizio finale"
+"giudizio"
+"giudizio abbreviato"
+"giudizio di valore"
+"giudizio direttissimo"
+"giudizio erroneo"
+"giudizio immediato"
+"giudizio personale"
+"giudizio positivo"
+"giudizio sommario"
+"giudizio stolto"
+"giudizio universale"
+"giudizio valutativo"
+"grado di giudizio"
+"il Giudizio"
+"libro del giudizio"
+"ottimo (giudizio scolastico)"
+"rinvio a giudizio"
+"secondo giudizio per uno stesso reato"
+"un giudizio"
+*[[discernimento]], [[senno]], [[opinione]], [[valutazione]], [[parere]], [[concetto]], [[idea]], [[considerevole]],[[considerazione]], [[stima]]
+*[[pregiudizio]]
+*[[iudìcio]], [[iudìzio]], [[iuriggio]], [[sinno]]
+*italiano
+*napoletano
+M>iudicium</E
+M>iudex -d</E
+M>cis</E
+M>g. di fatto</E
+M>g. di merito</E
+M>g. di rito</E
+M>processo</E
+M>g. civile</E
+M>penale</E
+M>g. di cognizione</E
+M>g. di esecuzione</E
+M>g. di primo</E
+M>di secondo grado</E
+M>iniziare</E
+M>intentare</E
+M>promuovere un g.</E
+M>sospendere il g.</E
+M>dire</E
+M>affermare</E
+M>testimoniare in g.</E
+M>difendere in giudizio</E
+M>g. abbreviato</E
+M>g. immediato</E
+M>g. direttissimo</E
+M>per direttissima</E
+M>essere sotto g.</E
+M>citare</E
+M>convenire</E
+M>comparire</E
+M>presentarsi in g.</E
+M>stare in g.</E
+M>g. finale</E
+M>g. universale</E
+M>g. finale</E
+M>il g.</E
+M>il giorno del g.</E
+M>verrà anche per voi il giorno del g.</E
+M>aspettare fino al giorno del g.</E
+M>pare il giorno del g.</E
+M>emettere g. di assoluzione</E
+M>di condanna</E
+M>g. giusto</E
+M>severo</E
+M>inappellabile</E
+M>il g. è parso a tutti troppo grave.</E
+M>ho sbagliato e mi rimetto al tuo g.</E
+M>il g. di Paride</E
+M>Giusto giudicio da le stelle caggia Sovra ’l tuo sangue</E
+M>dare g. favorevole</E
+M>sfavorevole</E
+M>approvare</E
+M>promuovere</E
+M>dichiarare vincitore con g. unanime</E
+M>g. analitici</E
+M>g. d’idoneità</E
+M>g. di non ammissione.</E
+M>G. di Dio</E
+M>ordalie</E
+M>g. analitico</E
+M>sintetico</E
+M>a priori</E
+M>a posteriori</E
+M>g. empirico</E
+M>g. estetico</E
+M>parere</E
+M>opinione</E
+M>avviso</E
+M>difficilmente si può fare giudicio del futuro</E
+M>pronunciare</E
+M>formulare</E
+M>emettere un g.</E
+M>g. precipitoso</E
+M>frettoloso</E
+M>approssimativo</E
+M>sereno</E
+M>obiettivo</E
+M>parziale</E
+M>imparziale</E
+M>spassionato</E
+M>disinteressato</E
+M>preconcetto</E
+M>vorrei sentire il tuo g</E
+M>su questo quadro</E
+M>i g</E
+M>dei critici sono discordi</E
+M>non ho elementi di g</E
+M>sfidare il g</E
+M>della gente</E
+M>a g</E
+M>dei competenti</E
+M>a mio</E
+M>a suo g</E
+M>a g</E
+M>di tutti</E
+M>a g</E
+M>comune</E
+M>universale</E
+M>di valore</E
+M>il g</E
+M>della storia</E
+M>temerario</E
+M>formarsi un buon g</E
+M>un cattivo g</E
+M>un g</E
+M>sbagliato di una persona</E
+M>persona di retto g</E
+M>lascio al tuo g</E
+M>stabilire se convenga o no</E
+M>età del g</E
+M>denti del g</E
+M>con quella bagattella di cattura</E
+M>venir qui</E
+M>proprio in paese</E
+M>in bocca al lupo</E
+M>c’è giudizio?</E
+M>uomo di g</E
+M>senza g</E
+M>ragazzo di poco g</E
+M>ci vuole g</E
+M>abbi più g</E
+M>un’altra volta</E
+M>mettere g</E
+M>spendere con g</E
+M>un certo giudiziaccio glielo dobbiamo pure riconoscere</E

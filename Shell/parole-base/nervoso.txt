@@ -1,0 +1,143 @@
+nervoso.txt
+"avere un esaurimento nervoso"
+"avere un esaurimento nervoso"
+"blocco nervoso"
+"cellula del sistema nervoso"
+"centro nervoso"
+"centro nervoso"
+"collasso nervoso"
+"collasso nervoso"
+"cordone nervoso"
+"disturbo nervoso"
+"esaurimento nervoso"
+"esaurimento nervoso"
+"essere nervoso"
+"impulso nervoso"
+"ipersensibile, eccitabile, nervoso"
+"nervoso"
+"nervoso"
+"relativo ai nervi o al sistema nervoso"
+"nervoso"
+"nervoso"
+"nervoso"
+"nervoso, teso"
+"sistema nervoso"
+"sistema nervoso autonomo"
+"sistema nervoso centrale"
+"sistema nervoso parasimpatico"
+"sistema nervoso periferico"
+"sistema nervoso simpatico"
+"teso, nervoso, irritabile"
+*''(di persona, comportamento)'' [[agitato]], [[inquieto]], [[irrequieto]], [[teso]], [[irritabile]], [[eccitabile]], [[suscettibile]], [[collerico]], [[nevrastenico]], [[isterico]], [[stressato]], [[esaurito]]
+*''(di membra)'' [[snello]], [[scattante]], [[agile]], [[pronto]], [[vigoroso]], [[immediato]]
+*[[irritazione]], [[malumore]], [[rabbia]], [[collera]], [[stizza]]
+*''(di persona, comportamento)'' [[calmo]], [[tranquillo]], [[sereno]]
+*''(di membra)''[[lento]], [[fiacco]]
+*[[nervosamente]], [[nervosità]], [[nervosismo]], [[innervosire]], [[innervosirsi]]
+*[[nervo]]
+M>nervosus</E
+M>nervus</E
+M>sistema n</E
+M>sistema n</E
+M>centrale</E
+M>sistema n</E
+M>periferico</E
+M>sistema nervoso vegetativo</E
+M>sistema neurovegetativo</E
+M>Tessuto n</E
+M>cellule n</E
+M>cellule di nevroglia</E
+M>pirenoforo</E
+M>dendriti</E
+M>assone</E
+M>neurite</E
+M>cilindrasse</E
+M>fibre n</E
+M>guaina mielinica</E
+M>neurilemma</E
+M>alterazioni</E
+M>infiammazioni</E
+M>malformazioni</E
+M>displasie</E
+M>del sistema n</E
+M>irritazione n</E
+M>tensione n</E
+M>malattie n</E
+M>esaurimento n</E
+M>avere uno scatto n</E
+M>degli scatti n</E
+M>avere un tic n</E
+M>essere pieno di tic nervosi</E
+M>è un tipo n</E
+M>un carattere</E
+M>un temperamento n</E
+M>la trovo sempre molto n</E
+M>sei n.</E
+M> oggi</E
+M>ti vedo n</E
+M>ti trovo n</E
+M>mi sento tremendamente n</E
+M>diventa n</E
+M>per un niente</E
+M>quest’attesa mi rende nervoso</E
+M>càlmati un po’</E
+M> mettiti a sedere</E
+M> non essere così n</E
+M>camminava con passi n</E
+M>ad un tratto incominciò a ridere</E
+M> d’un riso n</E
+M>e irrefrenabile</E
+M>calmo</E
+M>tranquillo</E
+M>avere una guida n</E
+M>dipingere con pennellate rapide e n</E
+M>due righe di saluto vergate con una scrittura nervosa</E
+M>una figura n</E
+M>braccia</E
+M>gambe n</E
+M>un collo forte e n</E
+M>mani n</E
+M>dita n</E
+M>tremavano le sue piccole mani n</E
+M>e tormentavano i fascicoli del romanzo</E
+M> il gomitolo</E
+M> il ricamo</E
+M>cominciò a svestirsi con le dita n.</E
+M> per mettersi a letto</E
+M>un cavallo</E
+M>un cane dalle gambe lunghe e nervose</E
+M>è troppo n</E
+M>questa fettina</E
+M>non mi riesce di masticarla</E
+M>le foglie della begonia sono fortemente nervose</E
+M>una prosa n</E
+M>periodi spezzati</E
+M>un disegno n</E
+M>dai contorni n</E
+M>di niuno scrittore prendeva più gusto che di Tacito</E
+M> spesso rileggendolo nella n</E
+M>traduzione di Bernardo Davanzati</E
+M>quello stile n</E
+M>di cui si era perduta la memoria</E
+M>hai il n</E
+M>oggi</E
+M>che non ti si può parlare?</E
+M>smettila</E
+M> che mi fai venire il n</E
+M>con le sue arie di superuomo mi dà un n</E
+M>che non ti dico</E
+M>ogni tanto diceva qualche parolaccia</E
+M> per scaricare il nervoso</E
+M>sei nervosetto oggi</E
+M>o mi pare?</E
+M>che tipo nervosetto</E
+M> la nuova direttrice!</E
+M>parlare</E
+M>gesticolare</E
+M>camminare</E
+M>fumare nervosamente</E
+M>batteva nervosamente</E
+M>con</E
+M>le dita sul tavolo</E
+M>con</E
+M>il piede sul pavimento</E

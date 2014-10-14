@@ -1,0 +1,15 @@
+boxe.txt
+"boxe"
+"guantoni di boxe"
+"uno-due (boxe)"
+"uno-due (boxe)"
+M>boxe</E
+M>bòks</E
+M>box</E
+M>boxing</E
+M>bòxe</E
+M>bòkse</E
+M>campione di b</E
+M>assistere a un incontro di b</E
+M>essere un tifoso della b</E
+M>fare la b</E

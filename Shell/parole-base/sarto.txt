@@ -1,0 +1,22 @@
+sarto.txt
+"sarto"
+*[[stilista]], [[modellista]], [[costumista]], [[figurinista]]
+M>sartor</E
+M>ris</E
+M>sartus</E
+M>sarcire</E
+M>sartore</E
+M>fare il s.</E
+M>s. da uomo</E
+M>da donna</E
+M>forbici</E
+M>ferro</E
+M>da sarto</E
+M>pietra per sarti</E
+M>creatore di moda</E
+M> stilista</E
+M>l&#8217;affermazione dei s. italiani</E
+M>le ultime creazioni dei s. francesi.</E
+M>uccello sarto</E
+M>cucitore</E
+M>Orthotomus</E

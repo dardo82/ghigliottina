@@ -1,0 +1,172 @@
+lettura.txt
+"affaticare gli occhi con la lettura"
+"amante della lettura"
+"cartellone di lettura"
+"chiave di lettura"
+"chiave di lettura"
+"fare una lettura"
+"invito alla lettura"
+"la lettura"
+"lampada da lettura"
+"lettura"
+"lettura"
+"oggetto della lettura"
+"lettura"
+"lettura attenta"
+"lettura attenta"
+"lettura cartografica"
+"lettura come gioco"
+"lettura del contatore"
+"lettura della mano"
+"lettura della mano"
+"lettura della mente"
+"lettura delle labbra"
+"lettura estensiva"
+"lettura godibile"
+"lettura impronte digitali"
+"lettura sistematica"
+"lettura, scrittura e aritmetica"
+"libro di lettura"
+"memoria del computer di sola lettura"
+"occhiali da lettura"
+"prima lettura"
+"sala di lettura"
+"sala di lettura"
+"tenere una conferenza; tenere una lettura"
+"terza lettura"
+"uno che prova la lettura"
+* azione del leggere, esercizio del leggere, modo di leggere
+*[[lezione]], [[discorso]], [[conferenza]]
+*[[decifrazione]]
+*[[interpretazione]], [[commento]], [[comprensione]], [[valutazione]]
+*''(se rapida e distratta)'' [[letta]], [[scorsa]], [[occhiata]]
+*[[leggere]], [[lettore]]
+*''La lettura è come il cibo
+*italiano
+M>lectura</E
+M>leg</E
+M>lectus</E
+M>la l</E
+M>di un manoscritto</E
+M>di un’iscrizione</E
+M>calligrafia</E
+M>parola</E
+M>passo</E
+M>codice di difficile l</E
+M>errore di l</E
+M>erronea l</E
+M>la l</E
+M>di una lettera</E
+M>di un documento</E
+M>di un libro</E
+M>giudicare</E
+M>capire a prima l</E
+M>Per più fïate li occhi ci sospinse Quella l</E
+M>e scolorocci il viso</E
+M>incominciare</E
+M>interrompere</E
+M>terminare la l</E
+M>di un romanzo</E
+M>essere immerso nella l</E
+M>del giornale</E
+M>la l</E
+M>di questo libro giallo mi ha tenuto sveglio per tutta la notte</E
+M>essere assorto nella l</E
+M>la l</E
+M>mi stanca</E
+M>mi affatica gli occhi</E
+M>delle bozze</E
+M>in piombo</E
+M>trascorre giornate intere nella l</E
+M>la l</E
+M>è il mio unico passatempo</E
+M>la l</E
+M>la l</E
+M>di buoni autori</E
+M>arricchisce la mente e contribuisce a formare lo stile</E
+M>sala di lettura</E
+M>gabinetto di lettura</E
+M>libro di piacevole</E
+M>di facile l</E
+M>commedia scritta per la l</E
+M>più che per la recitazione scenica</E
+M>è in l</E
+M>è molto bravo in lettura</E
+M>l’ora di lettura</E
+M>libro di lettura per la 3</E
+M>classe</E
+M>corrente</E
+M>spedita</E
+M>sicura</E
+M>lenta</E
+M>stentata</E
+M>una l</E
+M>attenta</E
+M>frettolosa</E
+M>distratta</E
+M>cursoria</E
+M>verso di dubbia l</E
+M>la mia l</E
+M>non concorda con quella di altre edizioni</E
+M>questa mi sembra la l</E
+M>migliore</E
+M>ordinare la l</E
+M>pubblica di un bando</E
+M>dare lettura</E
+M>fu data</E
+M>della circolare</E
+M>del verbale</E
+M>dare l</E
+M>della sentenza</E
+M>prima</E
+M>seconda l</E
+M>di versi</E
+M>di un atto unico</E
+M>prendere lezioni di lettura</E
+M>utili</E
+M>istruttive</E
+M>noiose</E
+M>frivole</E
+M>sconsigliabili</E
+M>moralmente pericolose</E
+M>prime l</E
+M>graduate</E
+M>amene</E
+M>lezioni</E
+M>ha tenuto una l</E
+M>all’Accademia</E
+M>ci sarà un’interessante l</E
+M>alla radio</E
+M>dantesche</E
+M>Divina Commedia</E
+M>la l</E
+M>di Cino da Pistoia sul Codice di Giustiniano</E
+M>leggere</E
+M>trovandosi ancora alla l</E
+M>delle matematiche nello studio di Pisa</E
+M>dei semplici</E
+M>leggere</E
+M>di un numero</E
+M>di una formula</E
+M>di un dispaccio cifrato</E
+M>di uno spartito musicale</E
+M>di una mappa</E
+M>di una carta geografica</E
+M>di suoni</E
+M>di un disco</E
+M>di una colonna sonora</E
+M>di schede</E
+M>di caratteri magnetici</E
+M>di un ambiente naturale</E
+M>di uno strumento di misura</E
+M>immediata</E
+M>dei contatori</E
+M>a stima</E
+M>esposimetrica</E
+M>a luce riflessa</E
+M>a luce incidente</E
+M>integrata</E
+M>spot</E
+M>semi</E
+M>spot</E
+M>del pensiero</E

@@ -1,0 +1,65 @@
+maschile.txt
+"abbigliamento maschile"
+"abbigliamento maschile"
+"abbigliamento maschile"
+"associazione studentesca maschile"
+"associazione studentesca maschile"
+"cappello maschile"
+"coro maschile"
+"estensione del gametofito maschile"
+"genere maschile"
+"linea maschile"
+"maschile"
+"maschile"
+"maschile"
+"membro maschile"
+"organo maschile"
+"persona di sesso maschile"
+"sciovinismo maschile"
+"sesso maschile"
+"sesso maschile"
+"sotto l'autorità maschile"
+#*''anni fa ero in una classe tutta '''maschile'''''
+*[[mascolino]], [[virile]]
+*[[femminile]]
+M>abbigliamento m</E
+M>abiti</E
+M>indumenti m</E
+M>moda m</E
+M>eleganza maschile</E
+M>femminile</E
+M>il sesso m</E
+M>forme m</E
+M>aspetto</E
+M>voce m</E
+M>linea m</E
+M>la popolazione m</E
+M>avere una clientela esclusivamente</E
+M>prevalentemente m</E
+M>scuola m</E
+M>classi m</E
+M>sezione m</E
+M>gara m</E
+M>torneo m</E
+M>la m</E
+M>il m</E
+M>una donna con voce m</E
+M>ragazze disinvolte e con atteggiamenti maschili</E
+M>caratteri sessuali secondarî m</E
+M>gamete m</E
+M>virile</E
+M>fiore m</E
+M>pianta m</E
+M>genere m</E
+M>il m</E
+M>cesura m</E
+M>cesura pentemimera</E
+M>semiquinaria</E
+M>hemiepes m</E
+M>muoversi</E
+M>camminare</E
+M>comportarsi maschilmente</E
+M>vestire</E
+M>pettinarsi maschilmente</E
+M>c’è chi preferisce dire maschilmente «il laringe»</E
+M>secondo l’uso greco</E

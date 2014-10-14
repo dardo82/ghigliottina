@@ -1,0 +1,37 @@
+cioccolato.txt
+"biscotti con scaglie di cioccolato"
+"budino al cioccolato"
+"caramella al cioccolato"
+"cioccolato"
+"cioccolato al latte"
+"cioccolato dolce"
+"cioccolato fondente"
+"gelatina ricoperta di zucchero o cioccolato"
+"gocce di cioccolato"
+"latte al cioccolato"
+"marrone cioccolato"
+"rivestito di cioccolato"
+"torta al cioccolato"
+#*''per dimagrire non bisogna  mangiare cioccolato''
+* [[cioccolata]]
+* [[cioccolataio]], [[cioccolateria]]
+* [[cacao]]
+M>chocolate</E
+M>chocolatl</E
+M>una tavoletta</E
+M>una stecca di c</E
+M>al latte</E
+M>alle nocciòle</E
+M>alle mandorle</E
+M>al caffè</E
+M>uova di c</E
+M>torta</E
+M>gelato di c</E
+M>al cioccolato</E
+M>fondente</E
+M>amaro</E
+M>in polvere</E
+M>cioccolata</E
+M>di copertura</E
+M>una maglietta color c</E
+M>stando al sole la sua pelle era diventata color cioccolato</E

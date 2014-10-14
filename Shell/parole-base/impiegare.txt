@@ -1,0 +1,47 @@
+impiegare.txt
+"http://api.wordreference.com/12bee/json/iten/impiegare/"
+*[[usare]], [[utilizzare]], [[usufruire]], [[adoperare]], [[servirsi]], [[sfruttare]], [[adottare]], [[avvantaggiarsi]], [[godere]], [[fruire]]
+*[[assumere]], [[occupare]], avere alle dipendenze, dare lavoro
+*[[spendere]], [[investire]]
+*[[trascorrere]], [[occupare]]
+*[[abbandonare]], [[lasciare]], [[trascurare]]
+*[[licenziare]], [[allontanare]], [[estromettere]]
+*[[impiegarsi]]
+M>impl</E
+M>care</E
+M>care</E
+M>io impiègo</E
+M>tu impièghi</E
+M>bene</E
+M>male il proprio tempo</E
+M>perduta ho la fatica</E
+M>la quale ottimamente mi parea avere impiegata</E
+M>utilmente l’ingegno</E
+M>come impiega male i suoi soldi!</E
+M>capitali in una miniera</E
+M>il proprio patrimonio in titoli</E
+M>in beni immobiliari</E
+M>le tenaglie</E
+M>il cacciavite</E
+M>una corda per scendere</E
+M>arrampicarsi impiegando le mani e i piedi</E
+M>olî essenziali impiegati in cosmetica</E
+M>in farmacia</E
+M>metterci</E
+M>ho impiegato un certo tempo per raggiungerlo</E
+M>il tram impiega 45 minuti da un capolinea all’altro</E
+M>la lettera ha impiegato ben 25 giorni per arrivare a destinazione</E
+M>impiegarsi in</E
+M>per qualche cosa</E
+M>fece loro una parlata sulla buona occasione che Dio dava loro e a lui</E
+M>d’impiegarsi una volta in aiuto del prossimo</E
+M>ha impiegato due operai per abbattere il muro</E
+M>è un giovane d’ingegno che potrebbe essere impiegato più utilmente</E
+M>la ditta impiega una numerosa mano d’opera</E
+M>qualcuno</E
+M>ha impiegato suo nipote nell’azienda</E
+M>impiegarsi</E
+M>impiegarsi come contabile</E
+M>impiegarsi in una banca</E
+M>nelle ferrovie</E
+M>essere impiegato</E

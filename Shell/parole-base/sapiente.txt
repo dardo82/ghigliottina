@@ -1,0 +1,51 @@
+sapiente.txt
+"sapiente"
+"sapiente"
+"sapiente"
+*[[ saggio]], [[dotto]], [[erudito]]
+*[[esperto]], [[competente]]
+*[[colto]], [[istruito]], [[preparato]], [[informato]], [[enciclopedico]]], [[edotto]]
+*[[bravo]], [[abile]], [[capace]], [[pratico]]
+*[[intelligente]], [[assennato]], [[consapevole]], [[prudente]], [[ponderato]], [[accorto]], [[avveduto]], [[sagace]], [[oculato]]
+*[[scienziato]], [[studioso]], [[specialista]], [[maestro]], [[professore]], [[conoscitore]], [[luminare]], [[perito]]
+*[[ignorante]], [[incolto]], [[analfabeta]]
+*[[incapace]], [[inesperto]], [[incompetente]], [[inetto]], [[stupido]], [[sciocco]]
+*[[digiuno]]
+*[[inabile]], [[incapace]], [[imperito]], [[maldestro]]
+*[[malaccorto]], [[avventato]], [[scriteriato]]
+*[[asino]], [[somaro]], [[bestia]], [[ciuco]]
+*[[sapientemente]]
+M>sapiens -entis</E
+M>sap</E
+M>un uomo s.</E
+M>molto s.</E
+M>un s. studioso</E
+M>il sapientissimo re Salomone.</E
+M>un grande s.</E
+M>furono interrogati i più famosi s. del regno</E
+M>i sette s. della Grecia antica.</E
+M>cane s.</E
+M>asino s.</E
+M>i cavalli sapienti.</E
+M>è un s. chirurgo</E
+M>un s. amministratore</E
+M>un s. restauratore di mobili antichi.</E
+M>savio</E
+M>consiglio del s.</E
+M>del savio</E
+M>consiglio dei s.</E
+M>dei savî</E
+M>una s. risposta</E
+M>una medicazione s.</E
+M>uno studio profondo e s.</E
+M>tutta l&#8217;operazione è stata condotta con mano s.</E
+M>l&#8217;avvenimento è descritto con arte s.</E
+M>le s. armonie di un musicista.</E
+M>sciocco</E
+M>quant&#8217;è s. questo sugo!</E
+M>formaggio sapiente.</E
+M>per favore</E
+M> non fare il sapientone!</E
+M>governò sapientemente il paese in quel difficile periodo</E
+M>ha condotto molto sapientemente le trattative per il rinnovo del contratto</E
+M>era sapientemente truccata.</E

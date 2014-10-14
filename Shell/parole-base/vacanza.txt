@@ -1,0 +1,91 @@
+vacanza.txt
+"andare in vacanza"
+"andare in vacanza"
+"fare una vacanza"
+"fare vacanza"
+"giorni di permesso, vacanza, pausa"
+"giorno di vacanza"
+"giorno festivo; vacanza"
+"in vacanza"
+"luogo di vacanza"
+"Una vacanza alternativa"
+"vacanza"
+"vacanza"
+"vacanza annuale"
+"vacanza da sogno"
+"vacanza lunga"
+"vacanza scolastica"
+"vacanza studio"
+*''(periodo di sospensione dell'attività di uffici e scuole)'' [[chiusura]], [[festa]], [[riposo]] 
+M>vacantia</E
+M>vacans -antis</E
+M>vacare</E
+M>vacance</E
+M>v. previste</E
+M>v. impreviste</E
+M>v. della Sede Apostolica</E
+M>della Santa Sede</E
+M>v. di una cattedra episcopale</E
+M>dichiarare la v. della cattedra di filosofia morale</E
+M>alla morte del re si ebbe una lunga v. del potere</E
+M>il Papa ... ordinò che ciascuno</E
+M> nelle v. de’ beneficii</E
+M> pagasse una annata alla Camera</E
+M>il 25 aprile è v. in tutte le scuole e gli uffici</E
+M>domani è v.</E
+M>avremo vacanza</E
+M>dare vacanza ai proprî dipendenti</E
+M>agli alunni del proprio istituto</E
+M>alle scuole delle città</E
+M>un giorno</E
+M>due giorni di vacanza</E
+M>una v. di tre giorni</E
+M>nelle scuole elementari un tempo si faceva v.</E
+M>c’era v.</E
+M>non solo la domenica ma anche il giovedì</E
+M>mezza v.</E
+M>le v.</E
+M>v. natalizie</E
+M>di Natale</E
+M>v. pasquali</E
+M>di Pasqua</E
+M>v. estive</E
+M>l’inizio delle v.</E
+M>la fine delle v.</E
+M>i mesi delle v.</E
+M>durante le v.</E
+M>passare le v. al mare</E
+M>in campagna</E
+M>v. intelligenti</E
+M>Detesto il concetto di v. intelligente</E
+M> che recentemente ha avuto gran successo; mi pare presupponga che l’anno sia tutto idiota</E
+M> eccetto quei quaranta giorni</E
+M>quest’anno la Camera dei deputati prenderà le proprie v. il 10 luglio</E
+M>avrei proprio bisogno</E
+M> per rimettermi</E
+M> di qualche giorno di vacanza</E
+M>appena avrò terminato questo lavoro voglio prendermi una breve v.</E
+M>una settimana di v.</E
+M>alla fine del mese me ne vado in v.</E
+M>essere in vacanza</E
+M>dove passerai le vacanze?</E
+M>far vacanza</E
+M>un alunno che fa troppe v.</E
+M>avere</E
+M>mandare il cervello in vacanza</E
+M>così</E
+M> come dopo una lunga v. della memoria</E
+M> si ricordava della promessa fatta a suo padre</E
+M>v. navale</E
+M>generale</E
+M>particolare</E
+M>v. dei pagamenti</E
+M>v. della legalità</E
+M>vacance de la legalité</E
+M>Le populaire</E
+M>vacanza della legge</E
+M>vacatio legis</E
+M>v. atomica</E
+M>v. reticolare</E
+M>lacuna</E
+M>elettronica</E

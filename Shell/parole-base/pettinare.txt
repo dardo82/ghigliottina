@@ -1,0 +1,33 @@
+pettinare.txt
+"pettinare"
+"pettinare"
+"pettinare"
+*[[acconciare]] 
+*[[pettinarsi]], [[pettinata]], [[pettinato]],[[pettinatore]], *[[pettinatrice]], [[pettinatura]], [[pettine]]
+*[[spazzolare]]
+M>pectinare</E
+M>pecten</E
+M>nis</E
+M>io pèttino</E
+M>i capelli al bambino</E
+M>il bambino</E
+M>farsi p</E
+M>lasciarsi p</E
+M>pettinarsi bene</E
+M>male</E
+M> in fretta</E
+M>finisco di pettinarmi e sono pronta</E
+M>il cane</E
+M>il gatto</E
+M>macchina per p</E
+M>la lana</E
+M>la seta</E
+M>la canapa</E
+M>l&#8217;erba</E
+M>il mio parrucchiere sa p</E
+M>molto bene</E
+M>prova a pettinarti con la scriminatura a destra</E
+M>si pettina ancora come usava tanti anni fa</E
+M>se mi capita tra le mani</E
+M>lo pettino io!</E
+M>l&#8217;ho pettinato come meritava</E

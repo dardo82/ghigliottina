@@ -1,0 +1,37 @@
+rifinire.txt
+"rifinire"
+#*''capisci che è un grande liutaio dalla maniacalità o quasi con cui '''rifinisce''' i suoi strumenti''
+#*''sganciami una monetina che le '''ho rifinite'''''
+#*''tu '''rifinisci''' e io segno
+#*''aveva smesso di bere ma alla prima delusione '''è rifinito''' nel tunnel''
+*[[rifinito]]
+*[[rifinitura]]
+M>finire</E
+M>io rifinisco</E
+M>tu rifinisci</E
+M>vedrai che rifinirà il discorso con le solite parole</E
+M>abbiamo già rifinito i soldi</E
+M>un mobile</E
+M>una cornice</E
+M>uno strumento musicale</E
+M>una cartella di pelle</E
+M>un abito</E
+M>una vettura</E
+M>un romanzo</E
+M>una commedia</E
+M>un dipinto</E
+M>ha rifinito quel piccolo patrimonio che aveva ereditato</E
+M>la fatica e le sofferenze gli hanno rifinito le forze</E
+M>il lavoro e le privazioni l&#8217;hanno rifinita</E
+M> quella poveretta</E
+M>è caduto nelle mani di uno strozzino che lo sta rifinendo</E
+M>a forza di lavorare giorno e notte si sta rifinendo</E
+M>rifinirsi con il gioco</E
+M>con speculazioni sbagliate</E
+M>non rifinisce mai di rimproverarmi</E
+M>di brontolare</E
+M>avere</E
+M>ha fatto un certo discorso che non mi rifinisce</E
+M>quel tipo</E
+M> con quella faccia</E
+M> non mi ha mai rifinito</E

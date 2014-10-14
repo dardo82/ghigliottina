@@ -1,0 +1,22 @@
+nutriente.txt
+"nutriente"
+M>nutriens</E
+M>entis</E
+M>nutrire</E
+M>cibi n</E
+M>poco n</E
+M>una dieta</E
+M>una cucina sana e nutriente</E
+M>crema n</E
+M>nutrient</E
+M>fattore nutritivo</E
+M>nutrienti</E
+M>macronutrienti</E
+M>macroelementi</E
+M>micronutrienti</E
+M>microelementi</E
+M>basilica</E
+M>zeppa di una moltitudine attenta</E
+M>assetata di parole n</E
+M>qui la vegetazione ha gli alti e i bassi di un poema in cui l’ispirazione si alterni a fasi di n</E
+M>torpore</E

@@ -1,0 +1,124 @@
+bere.txt
+"a chi voglio darla a bere"
+"bere"
+"bere"
+"bere"
+"bere"
+"bere"
+"vizio del bere"
+"bere a canna"
+"bere a garganella"
+"bere a piccoli sorsi"
+"bere acqua"
+"bere come una spugna"
+"bere con gusto"
+"bere d'un fiato"
+"bere in maniera sconsiderata"
+"bere in un solo sorso"
+"bere liquore"
+"bere molto"
+"bere qcs."
+"bere troppo"
+"eccesso nel bere"
+"essere in confidenza con qcn., bere insieme"
+"Milano da bere"
+"offrire da bere"
+"problema del bere  troppo"
+"semplice come bere un bicchiere d'acqua"
+#* '''''bere''' un bicchiere d'acqua'' 
+#*''ha smesso di '''bere''' da due anni ormai'' 
+*[[dissetarsi]], [[abbeverarsi]], [[brindare]], [[sorseggiare]], [[centellinare]], [[degustare]], [[tracannare]], [[trangugiare]]
+*italiano
+M>io bévo</E
+M>bévvi</E
+M>bevétti</E
+M>bevéi</E
+M>bevesti</E
+M>berrò</E
+M>beverò</E
+M>berrèi</E
+M>beverèi</E
+M>bev</E
+M>acqua</E
+M>vino</E
+M>liquori</E
+M>birra</E
+M>una medicina</E
+M>il veleno</E
+M>un uovo</E
+M>uova da b</E
+M>facile come b</E
+M>un uovo</E
+M>come b</E
+M>un bicchier d’acqua</E
+M>nel bicchiere</E
+M>dal bicchiere</E
+M>al bicchiere</E
+M>nella tazza</E
+M>dalla tazza</E
+M>alla tazza</E
+M>al fiasco</E
+M>alla bottiglia</E
+M>un bicchiere</E
+M>un fiasco</E
+M>a sorsi</E
+M>a centellini</E
+M>a garganella</E
+M>alla salute di qualcuno</E
+M>offrire da b</E
+M>sopra un cibo</E
+M>sopra un dispiacere</E
+M>un dolore</E
+M>via</E
+M>beviamoci sopra!</E
+M>come un otre</E
+M>come una spugna</E
+M>come un lanzo</E
+M>dare da b</E
+M>agli assetati</E
+M>date da b</E
+M>al prete ché il chierico ha sete</E
+M>è un uomo che beve</E
+M>che beve forte</E
+M>non b</E
+M>grazie</E
+M>io non bevo</E
+M>bere</E
+M>è stato sopraffatto da un’onda e ha bevuto</E
+M>o bere o affogare</E
+M>bersi</E
+M>con gli occhi</E
+M>b. fandonie</E
+M>bere grosso</E
+M>berle grosse</E
+M>darla a b</E
+M>Alfio</E
+M>tutto infuriato</E
+M>corse a lagnarsi colla Vespa che gli dava a b</E
+M>di tali bugie</E
+M>il sangue a qualcuno</E
+M>b. al calice dell’amarezza</E
+M>l’amaro calice</E
+M>b. il calice</E
+M>fino alla feccia</E
+M>quei pochi denari che guadagna</E
+M>se li beve tutti</E
+M>si è buscato un soldo</E
+M>è andato subito a berlo all’osteria</E
+M>terreno che non beve la pioggia</E
+M>è un motore che beve molto</E
+M>avidamente le parole di qualcuno</E
+M>da Filone accademico e da Dione stoico bevve tutta la filosofia</E
+M>gli ostacoli</E
+M>le distanze</E
+M>un avversario</E
+M>bevuta</E
+M>darsi al b</E
+M>il b</E
+M>in fretta fa male</E
+M>provvedere al mangiare e al b</E
+M>le Romane antiche</E
+M>per lor bere</E
+M>Contente furon d’acqua</E
+M>quella sera</E
+M>eravamo tutti quanti un po’ bevuti</E

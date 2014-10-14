@@ -1,0 +1,52 @@
+lamento.txt
+"lamento"
+"lamento ad alta voce"
+"lamento per"
+#* ''il 
+#* ''i lamenti dei gatti che si accoppiano''
+#* ''dal violino non sai cavare altro che lamenti''
+#* ''il 
+#* ''il 
+*''(di dolore)'' [[pianto]], [[gemito]], [[piagnucolio]], [[guaito]]
+*''(per un lutto)'' [[compianto]]
+*''(di scontento)'' [[lamentela]], [[lagnanza]], [[recriminazione]], [[reclamo]], [[protesta]], [[rimostranza]], [[rammarico]]
+*''(di scontento)'' [[soddisfazione]], [[approvazione]]
+*[[lamentoso]]
+M>lamentum</E
+M>fare</E
+M>mandare un l</E
+M>emettere lamenti</E
+M>rompere in lamenti</E
+M>levare alti l</E
+M>pietoso</E
+M>straziante</E
+M>cominciò a fare il più doloroso l</E
+M>che mai facesse femina</E
+M>Era preghiera</E
+M>e mi parea lamento</E
+M>compianto</E
+M>corrotto</E
+M>funebre</E
+M>feciono il l</E
+M>vestendosi tutta sua gente in nero</E
+M>Maddalena e l’altre donne Fean lamento sull’Ucciso</E
+M>il l</E
+M>di un cane</E
+M>il flebile l</E
+M>di un violino</E
+M>non si sentono che lamenti sul cattivo funzionamento del servizio</E
+M>essere sordo ai l</E
+M>dei proprî dipendenti</E
+M>ho sentito molti l</E
+M>sul conto tuo</E
+M>sulla tua condotta</E
+M>pianto</E
+M>il l</E
+M>della Vergine</E
+M>il l</E
+M>di Guittone d’Arezzo per la sconfitta di Montaperti</E
+M>Il l</E
+M>d’Arianna</E
+M>Il l</E
+M>di Federico</E
+M>Arlesiana</E

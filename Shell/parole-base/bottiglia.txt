@@ -1,0 +1,58 @@
+bottiglia.txt
+"attaccarsi alla bottiglia"
+"bottiglia"
+"bottiglia"
+"bottiglia di birra"
+"bottiglia di vino"
+"bottiglia Molotov"
+"bottiglia Molotov, molotov"
+"bottiglia Thermos"
+"Collo di bottiglia"
+"cric a bottiglia"
+"la bottiglia"
+"stappare una bottiglia"
+"thermos, bottiglia termica"
+"thermos, bottiglia termica"
+"verde bottiglia"
+"verde vetro, verde bottiglia"
+*[[boccia]], [[bottiglione]], [[fiasco]], [[sifone]]
+M>botilla</E
+M>tic</E
+M>buttis</E
+M>da vino</E
+M>da birra</E
+M>da spumante</E
+M>bordolese</E
+M>renana</E
+M>borgognona</E
+M>sciampagnotta</E
+M>riempire una b</E
+M>d’acqua</E
+M>di vino</E
+M>stappare</E
+M>vuotare una b</E
+M>vino di b</E
+M>in bottiglia</E
+M>verde b</E
+M>una b</E
+M>di barolo</E
+M>una b</E
+M>di anisetta</E
+M>una b</E
+M>di gran marca</E
+M>ci siamo bevuti tre b</E
+M>di spumante</E
+M>bersi una b</E
+M>collo di bottiglia</E
+M>bottleneck</E
+M>incendiaria</E
+M>bottiglia Molotov</E
+M>di lavaggio</E
+M>di Drechsel</E
+M>di Woulfe</E
+M>di Leida</E
+M>di Leyda</E
+M>di Klein</E
+M>otre di Klein</E
+M>una bottiglietta d’acqua</E
+M>di profumo</E

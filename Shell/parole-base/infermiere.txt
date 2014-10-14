@@ -1,0 +1,20 @@
+infermiere.txt
+"infermiere"
+"infermiere"
+"infermiere"
+"Infermiere diplomato"
+"infermiere laureato"
+"infermiere professionale"
+"infermiere specializzato"
+M>i. pediatrico</E
+M> psichiatrico</E
+M> geriatrico</E
+M> di sanità pubblica</E
+M>di area critica</E
+M>i. diplomato</E
+M>i. generico</E
+M>i. specializzato</E
+M>suore i.</E
+M>frati infermieri</E
+M>li ho fatto io da i.</E
+M>è stata per sua sorella un’ottima infermiera.</E

@@ -1,0 +1,95 @@
+diventare.txt
+"alzarsi (di sole); diventare intenso"
+"ammattire; diventare pazzo"
+"cresce fino a diventare"
+"crescere per diventare qcs."
+"dimagrire, diventare magro"
+"diventare"
+"diventare abile"
+"diventare acerbo"
+"diventare blu"
+"diventare buio"
+"diventare cieco"
+"diventare conosciuto"
+"diventare consapevole"
+"diventare consapevole di"
+"diventare consapevole di"
+"diventare di moda"
+"diventare dipendente da"
+"diventare esperto"
+"diventare esperto"
+"diventare famoso"
+"diventare famoso"
+"diventare ghiaccio"
+"diventare grigio"
+"diventare impertinente"
+"diventare indulgenti"
+"diventare influente"
+"diventare insolvente"
+"diventare maggiorenne"
+"diventare maturo"
+"diventare migliore"
+"diventare nullo"
+"diventare pelato"
+"diventare pelato"
+"diventare più alto"
+"diventare più grande"
+"diventare più profondo"
+"diventare più rigido, inasprirsi"
+"diventare polvere"
+"diventare pubblico"
+"diventare pubblico"
+"diventare qualcuno"
+"diventare secco"
+"diventare seri"
+"diventare simile a"
+"diventare stantio, diventare raffermo, andare a male"
+"diventare strano"
+"diventare un membro"
+"diventare un'abitudine"
+"diventare una furia; un forsennato"
+"diventare vedova, vedovo"
+"diventare verde"
+"diventare, voltarsi verso"
+"far diventare matto"
+"fare diventare qualcuno verde dall'invidia"
+"fare la conoscenza; diventare intimi di qcn."
+"impoverirsi, diventare sempre più povero"
+"in procinto di diventare, sul punto di diventare"
+"perdere i capelli, diventare calvo"
+"perdere il gas, sgasarsi, diventare sgasato"
+"prossimo a diventare"
+"studiare per diventare"
+#* '' da uomo è diventato donna''
+*[[divenire]], [[farsi]], [[trasformarsi]]
+M>divenire</E
+M>io divènto</E
+M>essere</E
+M>grande</E
+M>buono</E
+M>cattivo</E
+M>presidente</E
+M>deputato</E
+M>ministro</E
+M>un grande oratore</E
+M>un tiranno</E
+M>com’è diventato vecchio!</E
+M>quando c’è l’interesse</E
+M>le fatiche diventano più sopportabili</E
+M>questo vino è diventato aceto</E
+M>guarda com’è diventato</E
+M>se continui di questo passo</E
+M>non so che cosa diventerai!</E
+M>pallido</E
+M>rosso</E
+M>di tutti i colori</E
+M>se lo toccano</E
+M>diventa una furia</E
+M>farsi</E
+M>di sasso</E
+M>di stucco</E
+M>matto</E
+M>c’è da d</E
+M>matti!</E
+M>mi farete d</E
+M>matto!</E

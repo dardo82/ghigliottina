@@ -1,0 +1,24 @@
+aiutante.txt
+"aiutante"
+"aiutante"
+"militare, aiutante"
+"aiutante di campo"
+"aiutante maggiore"
+"dell'aiutante maggiore"
+*[[aiuto]], [[assistente]], [[collaboratore]], [[coadiutore]], [[secondo]], [[sostituto]], [[vice]]
+M>aiutare</E
+M>avere bisogno di un a</E
+M>servirsi di un a</E
+M>di una a</E
+M>per l’esecuzione di un lavoro</E
+M>di bandiera</E
+M>di battaglia</E
+M>di campo</E
+M>maggiore in prima</E
+M>maggiore in seconda</E
+M>di sanità</E
+M>di volo</E
+M>aiutante</E
+M>di camera</E
+M>addetto di anticamera</E
+M>di studio</E

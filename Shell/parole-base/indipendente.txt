@@ -1,0 +1,69 @@
+indipendente.txt
+"autonomo, indipendente"
+"Comunità Indipendente"
+"essere autonomo, indipendente"
+"essere indipendente"
+"essere indipendente"
+"indipendente"
+"indipendente"
+"indipendente"
+"indipendente"
+"indipendente"
+"indipendente da"
+"nomade; indipendente"
+"scrittore freelance, scrittore indipendente"
+"scuola indipendente"
+"variabile indipendente"
+*[[libero]], [[autonomo]], [[svincolato]], [[incondizionato]]
+*[[autosufficiente]], [[emancipato]]
+*[[separato]], [[diviso]], [[slegato]], [[staccato]], [[avulso]]
+* corridore indipendente
+*[[dipendente]], [[subordinato]], [[assoggettato]], [[condizionato]]
+*[[unito]], [[attaccato]], [[legato]]
+*[[indipendentemente]], [[indipendentismo]], [[indipendenza]]
+*[[imparziale]]
+M>dipendente</E
+M>dipendere</E
+M>lottare per una patria libera</E
+M>unita</E
+M>indipendente</E
+M>ufficio</E
+M>organo</E
+M>istituto i</E
+M>rendersi i</E
+M>dai genitori</E
+M>con la buona volontà è riuscito</E
+M>ancora giovane</E
+M>a farsi una posizione i</E
+M>gli piace essere i</E
+M>preferisce vivere i</E
+M>uno spirito</E
+M>un carattere i</E
+M>seguire una linea di condotta i</E
+M>avere idee</E
+M>opinioni indipendenti</E
+M>Società degli i</E
+M>Teatro degli i</E
+M>setta degli i</E
+M>congregazionalisti</E
+M>gli i</E
+M>di sinistra</E
+M>la sinistra i</E
+M>un quotidiano</E
+M>una testata indipendente</E
+M>corridore i</E
+M>un i</E
+M>i due fatti sono i</E
+M>il buon esito del tentativo è i</E
+M>dalla mia volontà</E
+M>la velocità di certe reazioni chimiche è i</E
+M>dalla pressione</E
+M>proposizione i</E
+M>proposizione dipendente</E
+M>subordinata</E
+M>proposizione i</E
+M>variabile i</E
+M>variabile dipendente</E
+M>funzione</E
+M>i fatti si sono svolti indipendentemente dalla nostra volontà</E
+M>siamo giunti alla stessa conclusione indipendentemente l’uno dall’altro</E

@@ -1,0 +1,11 @@
+edera.txt
+"edera"
+"edera terrestre"
+"edera velenosa"
+*[[ederico]]
+M>Hedera helix</E
+M>terrestre</E
+M>Glechoma hederacea</E
+M>spinosa</E
+M>salsapariglia nostrana</E
+M>Smilax aspera</E

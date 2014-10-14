@@ -1,0 +1,443 @@
+poco.txt
+"a poco a poco"
+"poco a poco"
+"a poco a poco"
+"a poco prezzo"
+"abbastanza poco"
+"affare poco chiaro; poco pulito"
+"anche se di poco"
+"ancora per poco"
+"avere poco da dire"
+"avere poco in comune"
+"avere poco sale in zucca"
+"bacino d'acqua poco profonda"
+"basta poco"
+"battere q.no di poco, sconfiggere q.no di poco"
+"ben poco"
+"c'è mancato poco"
+"c'è poco da dire"
+"c'è poco da fare"
+"che costa poco"
+"che cresce poco"
+"che parla molto e fa poco"
+"ci credo poco."
+"cibo poco sano"
+"con poco lavoro"
+"con poco seno"
+"con poco si può fare molto"
+"contare poco"
+"cosa poco importante"
+"cosa poco importante"
+"costare poco"
+"di poca importanza, poco importante"
+"di poco conto"
+"di poco prezzo"
+"di poco valore"
+"di poco valore"
+"disonesta poco di buono"
+"disonesto poco di buono"
+"distruggere poco a poco"
+"essere una cosa di poco conto"
+"far pagare poco"
+"fare lavori poco pesanti"
+"fra poco"
+"fra poco"
+"gruppo di persone poco influenti"
+"il gioco è bello quando dura poco"
+"imbrogliare dando poco resto"
+"in maniera poco affidabile"
+"in modo poco appariscente"
+"in modo poco stabile"
+"letteratura poco nota"
+"lo scherzo e' bello quando dura poco"
+"mancarci poco"
+"mancare poco"
+"mare poco profondo"
+"molto poco"
+"per poco"
+"poco"
+"poco\"
+" (Non te la prendere per così poco)"
+"poco"
+"poco"
+"poco"
+"poco"
+"poco"
+"poco a poco"
+"poco affidabile"
+"poco alla volta"
+"poco appetitoso"
+"poco attivo"
+"poco buono"
+"poco caritatevole"
+"poco caro"
+"poco ci manca"
+"poco ci mancava"
+"poco come, poco quanto"
+"poco conosciuto"
+"poco coraggioso"
+"poco costoso"
+"poco cotto"
+"poco di buono"
+"poco frequentato"
+"poco importante"
+"poco importante"
+"poco incline"
+"poco innocente"
+"poco intelligente"
+"poco interessante"
+"poco o niente"
+"poco onesto"
+"poco più in là"
+"poco propenso ad accettare"
+"poco radicato"
+"poco raffinato"
+"poco romantico"
+"poco sicuro"
+"poco solido"
+"poco tempo"
+"poco tempo fa"
+"quasi, poco meno di"
+"quel tanto\/poco che basta"
+"questo è poco ma sicuro."
+"rendere poco chiaro"
+"roba da poco"
+#*quel tipo è un poco di buono''
+*(di cose numerabili) [[esiguo]], [[minimo]], [[limitato]], [[modico]], [[rado]]
+*(di cose non numerabili) [[insufficiente]], [[scarso]], [[raro]], [[tenue]], [[piccolo]], [[corto]], [[breve]]
+*(di misura) [[insufficientemente]], [[scarsamente]], [[moderatamente]], [[modicamente]], [[parcamente]], [[esiguamente]]
+*(di tempo) [[brevemente]]
+*[[raramente]]
+* (solo singolare) piccola quantità, poche cose
+* discreta quantità
+*(di cose numerabili) [[numeroso]], [[molto]], [[abbondante]]
+*di cose non numerabili) [[esagerato]], [[eccessivo]], [[frequente]], [[grande]], [[lungo]]
+*(di misura)[[molto]], [[abbondantemente]], [[esageratamente]], [[eccessivamente]]
+*(di tempo)[[lungamente]], a lungo
+*[[spesso]]
+*''a dir poco''
+M>paucus</E
+M>chi</E
+M>molto</E
+M>a pranzo bevo p. vino</E
+M>mi è rimasto p. denaro</E
+M>la verdura va bollita in p. acqua</E
+M>in questo periodo c&#8217;è p. lavoro</E
+M>ha tratto p. giovamento dalla cura</E
+M>è poca cosa</E
+M>a teatro c&#8217;erano p. spettatori</E
+M>ho visto p. gente</E
+M>gli sono rimasti p. capelli</E
+M>hai fatto pochissimi errori</E
+M>mancano p. minuti alla partenza</E
+M>fra p. mesi tutto sarà finito</E
+M>riassumere in p. parole</E
+M>p. parole</E
+M>uomo di p. parole</E
+M>p. discorsi!</E
+M>p. chiacchiere!</E
+M>p. chiacchiere</E
+M> e ditemi a che punto è il lavoro</E
+M>ho p. fiducia in lui</E
+M>sai che io ho p. pazienza</E
+M>lo disse con p. convinzione</E
+M>debole</E
+M>tenue</E
+M>tira p. vento</E
+M>è un cantante che ha p. voce</E
+M>piccolo</E
+M>un oggetto che si può avere con p. spesa</E
+M>ho avuto quest&#8217;orologio a p. prezzo</E
+M>P. favilla gran fiamma seconda</E
+M>quanto p. numero</E
+M>saldate ora dunque quel p. conticino</E
+M>breve</E
+M>corto</E
+M>stretto</E
+M>c&#8217;è ancora p. strada</E
+M>p. cammino</E
+M>in p. tempo</E
+M>in p. spazio</E
+M>qui c&#8217;è p. posto</E
+M>basta p. filo</E
+M>Quell&#8217;altro che ne&#8217; fianchi è così poco</E
+M>ha p. forza</E
+M>p. salute</E
+M>p. memoria</E
+M>ha sempre dimostrato p. volontà</E
+M>mette p. impegno nello studio</E
+M>qui c&#8217;è p. luce</E
+M>nessuno</E
+M>mi sei stato di p. aiuto</E
+M>ne ho davvero p. voglia</E
+M>ormai c&#8217;é p. speranza</E
+M>quest&#8217;anno il raccolto è stato p.</E
+M>il compenso è troppo poco</E
+M>siamo in pochi</E
+M>pochi farebbero altrettanto</E
+M>pochi si presentarono alla chiamata</E
+M> lui e p. altri</E
+M>pochi di noi</E
+M>pochi fra gli spettatori</E
+M>pochi ma buoni</E
+M>pochi e valenti</E
+M>Pr. Sp.</E
+M>poche di voi</E
+M>furono poche quelle che superarono la prova</E
+M>pochi</E
+M>credo che ne abbia pochi</E
+M>deve campare con quei pochi della pensione</E
+M>sono pochi ma sicuri</E
+M>pochi</E
+M> ma subito!</E
+M>pochi</E
+M> maledetti e subito!</E
+M>molti pochi fanno un assai</E
+M>tempo</E
+M>è p. che l&#8217;ho lasciato</E
+M>starà p. a tornare</E
+M>manca p. a mezzogiorno</E
+M>mi fermo p.</E
+M>ho dovuto aspettare p.</E
+M>ogni bel gioco dura p.</E
+M>è arrivato da p.</E
+M>ne avrà ancora per p.</E
+M>di qui a p.</E
+M>torno fra p.</E
+M>arrivederci a fra p.</E
+M>a ogni p.</E
+M>poco fa</E
+M>l&#8217;ho incontrato p. fa</E
+M>è stato qui p. fa</E
+M>di qui alla casa c&#8217;è p.</E
+M>ci corre p.</E
+M>costa p.</E
+M>vale p.</E
+M>ho speso p.</E
+M>si compra per p.</E
+M>c&#8217;è da ricavarne p.</E
+M>un oggetto</E
+M>un regalo di p.</E
+M>un poco</E
+M>un po&#8217;</E
+M>aspetterò ancora un p.</E
+M>pensò un p. prima di rispondere</E
+M>un altro p. e tutto sarebbe stato inutile</E
+M>posso trattenermi qui un p.?</E
+M>vorrei parlare un p. con te</E
+M>si saliva un p. ogni giorno</E
+M>spòstati un p. a destra</E
+M>eravamo andati avanti un buon p.</E
+M>un bel p.</E
+M>versamene un p. alla volta</E
+M>un p. di pane</E
+M>di burro</E
+M>di latte</E
+M>con un p. di buona volontà ce la potresti fare</E
+M>in poco d&#8217;ora</E
+M>oggi ho p. da fare</E
+M>mi resta p. da dire sull&#8217;argomento</E
+M>ne so p.</E
+M>molto p.</E
+M>per quanto p. sappia</E
+M>per p. che sappia</E
+M>ne saprò sempre più di te</E
+M>si contenta di p.</E
+M>non te la prendere per così p.</E
+M>ti pare p.?</E
+M>vi pare p.?</E
+M>scusa</E
+M>scusate se è p.</E
+M>per il suo lavoro pretende oltre diecimila euro</E
+M>e scusate se è p.</E
+M>ho letto tutto l&#8217;articolo</E
+M>ma ci ho trovato molto poco.</E
+M>il p. è meglio del nulla</E
+M>gli basta il p. che possiede</E
+M>ha lasciato al nipote quel p. che aveva</E
+M>è abbastanza utile</E
+M>per quel p. che può servire.</E
+M>non è poco</E
+M>non è p. che l&#8217;abbia scampata</E
+M>non sarà p. se potrà riavere il suo</E
+M>ci vuol p.</E
+M>ci vuol p. a tentare</E
+M>ci vuole poco a chiederglielo</E
+M>ci vuol p. a cadere</E
+M>a rovinarsi</E
+M>a dir p.</E
+M>a far p.</E
+M>ci saranno</E
+M> a dir p.</E
+M> ancora dieci chilometri</E
+M>a far p.</E
+M> ne ricaverà venti o trentamila euro</E
+M>sapere di p.</E
+M>questa frutta sa di p.</E
+M>un romanzo</E
+M>un film</E
+M>una ragazza che sa di poco</E
+M>mancare</E
+M>mancò p. che non imbrogliasse anche noi</E
+M>mancò p. che non finisse sotto il treno</E
+M>al suon de&#8217; detti sì pietosi e casti Poco mancò ch&#8217;io non rimasi in cielo</E
+M> poco men che</E
+M>Orlando si sdegnò con Carlo Magno</E
+M> E p. men che quivi non l&#8217;uccise</E
+M>per</E
+M>poco non ...</E
+M>per p. non ci cascavo anch&#8217;io</E
+M>per p. non mi colpiva in testa</E
+M>or pur mira Che per p. che teco non mi risso!</E
+M>poco poco</E
+M>mi fece una tal rabbia che poco poco lo prendevo a schiaffi</E
+M>per poco</E
+M>tutti stavano taciti e sospesi a ascoltare</E
+M> e il re per p. più che gli altri</E
+M>C&#8217;è poco da</E
+M>c&#8217;è p. da ridere</E
+M>da scherzare</E
+M>da fare lo spiritoso</E
+M>con me c&#8217;è p. da discutere</E
+M>a poco a poco</E
+M>press&#8217;a poco</E
+M>pressappoco</E
+M>da poco</E
+M>un lavoro</E
+M>una faccenda da p.</E
+M>un&#8217;indisposizione da p</E
+M>poco di buono</E
+M>io non me la sono mai detta con le persone poco di buono</E
+M>un poco di buono</E
+M>una poco di buono</E
+M>lui era un poco di buono</E
+M> pare che si facesse mantenere dalle donne</E
+M>mi piace p.</E
+M>stanotte ho dormito p.</E
+M>posso camminare p.</E
+M>esce tanto p</E
+M>il suo aiuto mi è servito p.</E
+M>ci vede p.</E
+M>ci sento p. da quest&#8217;orecchio</E
+M>lo spettacolo dura p.</E
+M>p. importa se lui non c&#8217;è</E
+M>è un uomo p. stimato</E
+M>un vino p. buono</E
+M>una soluzione p. saggia</E
+M>un uomo p. istruito</E
+M>p. educato</E
+M>p. simpatico</E
+M>l&#8217;ambiente è p. igienico</E
+M>il suo ritorno mi pare p. probabile.</E
+M>sto p. bene</E
+M>ci riesco p. facilmente</E
+M>p. male!</E
+M>p. più</E
+M> p. meno</E
+M>p. dopo</E
+M>p. prima</E
+M>poc&#8217;anzi</E
+M>p. lontano di qui</E
+M>p. stante</E
+M>sei un p. strano</E
+M>fatti un p. più in là</E
+M>un po&#8217;</E
+M>po&#8217;</E
+M>quel</E
+M>quel po&#8217; che sa lo deve a me</E
+M>ho mangiato io quel po&#8217; ch&#8217;era rimasto</E
+M>un po&#8217; per uno non fa male a nessuno</E
+M>s&#8217;è parlato un po&#8217; di questo e un po&#8217; di quello</E
+M>mi fermerò un altro po&#8217;</E
+M>ho atteso un po&#8217;</E
+M>un bel po</E
+M>finalmente potrò stare un po&#8217; in pace</E
+M>dammi un po&#8217; d&#8217;acqua</E
+M>metti un po&#8217; d&#8217;olio</E
+M>d&#8217;aceto</E
+M>non ha un po&#8217; d&#8217;educazione</E
+M>dovresti avere un po&#8217; di buon senso</E
+M>ho avuto un po&#8217; di paura</E
+M>c&#8217;è un po&#8217; di posto anche per te</E
+M>non ho mai un po&#8217; di tempo libero</E
+M>cercavo un po&#8217; d&#8217;ombra</E
+M>c&#8217;è un po&#8217; di malumore in giro</E
+M>ho voluto assaggiare d&#8217;ogni cosa un po&#8217;</E
+M>c&#8217;era un po&#8217; di tutto</E
+M>dammene un altro po&#8217;</E
+M>quel po&#8217; di roba che c&#8217;era se la son divisa fra loro</E
+M>si crede chi sa chi per quel po&#8217; di soldi che ha</E
+M>conserva questo po&#8217; di farina ch&#8217;è rimasta</E
+M>per qualche po&#8217; di tempo</E
+M>questo</E
+M>quello</E
+M>quella po&#8217; di roba</E
+M>quei po&#8217; di soldi</E
+M>m&#8217;ha fatto un po&#8217; ridere</E
+M>mi volevo un po&#8217; divertire alle sue spalle</E
+M>sono un po&#8217; in collera con te</E
+M>mi ha fatto stare un po&#8217; in ansia</E
+M>fa un po&#8217; caldo qui dentro</E
+M>mi sento un po&#8217; stanco</E
+M>mi sembri un po&#8217; pallido</E
+M>è un ragazzo un po&#8217; strano</E
+M>un po&#8217; più</E
+M>un po&#8217; meno</E
+M>un po&#8217; meglio</E
+M>un po&#8217; peggio</E
+M>l&#8217;ho fatto un po&#8217; alla svelta</E
+M>temo che abbia preso la faccenda un po&#8217; alla leggera</E
+M>un po&#8217;</E
+M>vedi un po&#8217; tu se ci riesci</E
+M>mi dica un po&#8217; cosa farebbe lei al mio posto</E
+M>vieni un po&#8217; qua</E
+M>dimmi un po&#8217;: chi è che t&#8217;ha insegnato a rispondere così?</E
+M>dica un po&#8217; lei</E
+M>lei!</E
+M>senti un po&#8217; che discorsi mi viene a fare!</E
+M>indovina un po&#8217; che cosa t&#8217;ho portato</E
+M>sentiamo un po&#8217; ciò che vorresti</E
+M>riferiscimi un po&#8217; quello che hai visto</E
+M>poco</E
+M>guarda un poco qui</E
+M>dimmi un poco</E
+M>po&#8217; po&#8217;</E
+M>guarda che po&#8217; po&#8217; di sudiciume!</E
+M>hai sentito che po&#8217; po&#8217; di sfacciataggine?</E
+M>pochissimo</E
+M>molto poco</E
+M>assai poco</E
+M>troppo poco</E
+M>poco poco</E
+M>men che poco</E
+M>poco o nulla</E
+M>poco o punto</E
+M>né molto né p.</E
+M>né punto né p.</E
+M>non poco</E
+M>sono stato non p. in pena per te</E
+M>ho dovuto sudare non poco.</E
+M>hai fatto un danno da poco!</E
+M>rompi pure</E
+M>tanto</E
+M>costa poco la roba oggi</E
+M>e dico poco!</E
+M>poco</E
+M>è poca bella</E
+M>son poche buone</E
+M>questo</E
+M>quello</E
+M>la vuoi un poca di carne?</E
+M>un pochina di carne la mangerò</E
+M>per fare questa poca di spesa ho perso tutto il pomeriggio</E
+M>quei pochi di quattrini che ha</E
+M> deve tenerli di conto.</E
+M>ne ha tanta poca voglia</E
+M>i guadagni son troppi pochi.</E
+M>aspetta un pochino</E
+M>sto un pochino meglio</E
+M>vorrei riposarmi un pochino</E
+M>è un po&#8217; pochino</E
+M> mi pare</E
+M>ne guadagna un po&#8217; pochini</E
+M>quella ragazza è così pochina!</E

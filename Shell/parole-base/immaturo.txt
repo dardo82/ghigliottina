@@ -1,0 +1,29 @@
+immaturo.txt
+"frutto immaturo"
+"immaturo"
+"immaturo"
+"immaturo"
+"immaturo"
+"immaturo"
+"immaturo; acerbo"
+*[[infantile]],  [[acerbo]],  [[prematuro]]
+*[[maturo]]
+*[[immaturamente]], [[immaturità]]
+M>immaturus</E
+M>maturus</E
+M>la questione è ancora i</E
+M>in questo momento</E
+M>ogni tentativo sarebbe i</E
+M>giovane ancora i</E
+M>per questo genere di studî</E
+M>di attività</E
+M>di letture</E
+M>ragazza i</E
+M>età i</E
+M>prematuro</E
+M>l’i</E
+M>fine di un adolescente</E
+M>la questione è stata immaturamente posta sul tappeto</E
+M>il provvedimento è risultato poco efficace perché immaturamente adottato</E
+M>studioso</E
+M>scrittore immaturamente scomparso</E

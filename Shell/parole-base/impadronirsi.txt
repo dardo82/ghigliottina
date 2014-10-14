@@ -1,0 +1,26 @@
+impadronirsi.txt
+"impadronirsi delle cose altrui"
+"impadronirsi di"
+"impadronirsi di qualcosa"
+* [[impossessarsi]]
+M>io m’impadronisco</E
+M>tu t’impadronisci</E
+M>il nemico s’impadronì della fortezza</E
+M>della città</E
+M>gli insorti cercarono d’i</E
+M>dei depositi di viveri</E
+M>impadronirsi del potere</E
+M>s’è impadronito di tutti i miei averi</E
+M>tentò d’impadronirsi della mia bicicletta</E
+M>s’è impadronito delle mie idee</E
+M>dei miei progetti</E
+M>il facchino dell’albergo s’impadronì subito dei miei bagagli</E
+M>impadronirsi d’un argomento</E
+M>di un’arte</E
+M>di una tecnica</E
+M>della materia</E
+M>di una lingua</E
+M>la fortuna</E
+M>l’impadronì</E
+M>colle forze di mare</E
+M>di quasi tutta l’Italia</E

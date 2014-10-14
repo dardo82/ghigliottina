@@ -1,0 +1,24 @@
+inaugurazione.txt
+"cerimonia di inaugurazione"
+"di inaugurazione di una casa"
+"giorno di inaugurazione"
+"inaugurazione"
+"inaugurazione della casa nuova"
+"relativo all'annuncio, all'inaugurazione"
+*[[inaugurare]]
+M>inauguratio </E
+M>onis</E
+M>l’i</E
+M>di un monumento</E
+M>di una scuola</E
+M>di una mostra</E
+M>l’i</E
+M>dell’anno accademico</E
+M>dell’anno giudiziario</E
+M>di un corso di lezioni</E
+M>l’i</E
+M>del nuovo appartamento</E
+M>l’i</E
+M>dei lavori</E
+M>l’i</E
+M>di un nuovo sistema di fabbricazione</E

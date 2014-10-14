@@ -1,0 +1,36 @@
+insensato.txt
+"insensato"
+"insensato"
+#* ''questo [[discorso]] è 
+#* ''guidare a fari spenti di notte è un atto 
+#* ''quell'
+* [[senza]] [[senso]], [[folle]]
+*[[sensato]]
+*[[insensatamente]], [[insensatezza]]
+M>insensatus</E
+M>sensatus</E
+M>era reso i</E
+M>dalla passione</E
+M>dal furore</E
+M>dalla disperazione</E
+M>sei un i</E
+M>a tenere questa velocità</E
+M>operare</E
+M>parlare da insensato</E
+M>un uomo in camicia</E
+M>seduto in terra</E
+M>con le spalle appoggiate a una siepe di gelsomini</E
+M>in un’attitudine d’i</E
+M>darsi a spese i</E
+M>fare discorsi i</E
+M>è stata una risoluzione i</E
+M>la sua</E
+M>O i</E
+M>cura de’ mortali</E
+M>Quanto son difettivi silogismi Quei che ti fanno in basso batter l’ali!</E
+M>Racconto il dolor mio A l’i</E
+M>riva</E
+M>stava immobile</E
+M>fissandomi come insensato</E
+M>parlare</E
+M>agire insensatamente</E

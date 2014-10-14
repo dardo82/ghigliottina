@@ -1,0 +1,66 @@
+agenzia.txt
+"agenzia"
+"agenzia"
+"agenzia"
+"agenzia commerciale"
+"agenzia d'informazioni"
+"agenzia d'intermediazione"
+"agenzia del territorio"
+"agenzia delle entrate"
+"agenzia di collocamento"
+"agenzia di collocamento"
+"agenzia di comunicazione"
+"agenzia di credito"
+"agenzia di investigazioni"
+"agenzia di pompe funebri"
+"agenzia di riscossione"
+"agenzia di scommesse"
+"agenzia di spionaggio"
+"agenzia di stampa"
+"agenzia di stampa internazionale"
+"agenzia di stampa\/pubblicitaria"
+"agenzia di traslochi"
+"agenzia di vendita"
+"agenzia di viaggi"
+"agenzia giornalistica"
+"agenzia governativa, ente governativo, autorità governativa"
+"agenzia immobiliare"
+"agenzia interinale"
+"agenzia investigativa"
+"agenzia pubblicitaria"
+"agenzia scommesse"
+"Agenzia spaziale e aeronautica statunitense"
+"diritto di agenzia"
+"fisco, agenzia delle entrate"
+*[[agenzia per l'impresa]]
+M>di affari</E
+M>immobiliare</E
+M>di distribuzione</E
+M>teatrale</E
+M>marittima</E
+M>Contratto di agenzia</E
+M>agente</E
+M>preponente</E
+M>provvigione</E
+M>di viaggi</E
+M>di recapito</E
+M>pubblicitaria</E
+M>a. d’investigazioni</E
+M>agenzie di stampa</E
+M>d’informazione</E
+M>fotografiche</E
+M>l’a</E
+M>Ansa</E
+M>l’a</E
+M>Reuter</E
+M>l’a</E
+M>United Press</E
+M>d’assicurazioni</E
+M>di banca</E
+M>di città</E
+M>delle imposte</E
+M>a. delle entrate,</E
+M>consolari</E
+M>agency</E
+M>A. spaziale italiana</E
+M>internazionale per l’energia atomica</E

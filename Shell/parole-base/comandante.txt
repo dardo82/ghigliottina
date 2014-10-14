@@ -1,0 +1,39 @@
+comandante.txt
+"comandante"
+"comandante"
+"comandante dei cavalieri"
+"comandante dei vigili del fuoco"
+"comandante di gruppo"
+"comandante di polizia"
+"comandante di squadriglia"
+"comandante di uno stormo"
+"comandante supremo"
+"comandante supremo"
+"ufficiale comandante"
+"vice comandante"
+#*''In caso di [[affondamento]] il 
+*[[capo]], [[condottiero]]
+M>comandare</E
+M>tra noi nessuno è c</E
+M>siamo tutti uguali</E
+M>fare il c</E
+M>il colonnello</E
+M>del 5° reggimento di fanteria</E
+M>il c</E
+M>del posto di blocco</E
+M>il c</E
+M>delle scuole allievi</E
+M>i c</E
+M>delle formazioni partigiane</E
+M>partigiani</E
+M>capitani</E
+M>padroni</E
+M>in seconda</E
+M>primo ufficiale</E
+M>di bandiera</E
+M>del porto</E
+M>di spiaggia</E
+M>militare</E
+M>di nave mercantile</E
+M>di aeromobile civile</E
+M>di aeroporto</E

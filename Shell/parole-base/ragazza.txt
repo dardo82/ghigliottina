@@ -1,0 +1,60 @@
+ragazza.txt
+"bel viso; una ragazza con un viso affascinante"
+"bella ragazza"
+"bella ragazza"
+"bella ragazza"
+"da ragazza"
+"di ragazza"
+"donna; ragazza affascinante"
+"immagine con ragazza"
+"la ragazza della porta accanto"
+"quella ragazza non ci sta - starci"
+"ragazza"
+"ragazza"
+"ragazza"
+"ragazza attraente"
+"ragazza carina"
+"ragazza da marito"
+"ragazza da sogno"
+"ragazza di copertina"
+"ragazza di copertina"
+"ragazza facile"
+"ragazza hawaiana"
+"ragazza madre"
+"ragazza pin-up"
+"ragazza pin-up"
+"ragazza single, ragazza nubile, ragazza non fidanzata"
+"ragazza squillo"
+"una ragazza potabile"
+M>ragazzo</E
+M>ragazzo</E
+M>una r</E
+M>di 15</E
+M>di 20</E
+M>di 25 anni</E
+M>in età da marito</E
+M>una bella r</E
+M>un bel pezzo di r</E
+M>una r</E
+M>intelligente</E
+M>per bene</E
+M>seria</E
+M>poco seria</E
+M>leggera</E
+M>nubile</E
+M>ha quasi 40 anni</E
+M>ma è ancora r</E
+M>qual è il suo cognome da r</E
+M>le si erano presentate varie occasioni</E
+M>ma preferì rimanere r</E
+M>ragazza madre</E
+M>ragazze madri</E
+M>ragazzo</E
+M>la mia r</E
+M>avere la r</E
+M>gli ha scritto la r</E
+M>è uscito con la r.</E
+M>di vita</E
+M>squillo</E
+M>call girl</E
+M>ragazzo</E

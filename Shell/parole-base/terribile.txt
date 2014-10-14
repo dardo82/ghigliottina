@@ -1,0 +1,60 @@
+terribile.txt
+"bambino terribile"
+"qualcosa di terribile"
+"qualcosa di terribile"
+"spaventoso\/terribile"
+"terribile"
+"terribile"
+"terribile"
+*(di sciagura, evento) [[pauroso]], [[spaventoso]], [[tremendo]], [[terrificante]], [[orribile]], [[orrendo]], [[terrorizzante]], [[tragico]], [[drammatico]], [[atroce]]
+*(di persona) [[crudele]], [[spietato]], [[disumano]], [[inumano]], [[feroce]]
+*(specialmente di bambini) [[insopportabile]]
+*[[straordinario]], [[eccezionale]], fuori del comune, [[importante]], [[notevole]], [[rilevante]]
+*(di sciagura, evento) [[piacevole]], [[gradevole]], [[attraente]]
+*(di persona) [[buono]], [[benevolo]], [[bonario]],  [[mite]], [[indulgente]]
+*[[normale]], [[comune]], [[ordinario]]
+*[[terribilmente]], [[terrificante]]
+M>terrib</E
+M>lis</E
+M>terrere</E
+M>un t. mostro</E
+M>visione</E
+M>scena t.</E
+M>una t. bufera</E
+M>infliggere una pena t.</E
+M>t. castighi</E
+M>la vendetta fu t.</E
+M>pronunciò parole t. di minaccia</E
+M>E vidivi entro t. stipa Di serpenti</E
+M>è t. il solo pensarlo.</E
+M>abbiamo trascorso giorni t.</E
+M>fu un momento t.</E
+M>è t. questa incertezza.</E
+M>ecco vicino a lei uscir d&#8217;una macchia folta un lupo grande e t.</E
+M>La terribil sembianza di Medusa</E
+M>il suo viso</E
+M>il suo sguardo era t.</E
+M>lo guardò con occhi t.</E
+M>con t. cipiglio.</E
+M>un nemico t.</E
+M>giudice</E
+M>censore</E
+M>critico t.</E
+M>aveva un padre terribile.</E
+M>ho un t. mal di testa</E
+M>un t. mal di denti</E
+M>faceva un freddo t.</E
+M>dovette sopportare t. fatiche</E
+M>faceva t. sforzi per non cedere</E
+M>pativano una fame t.</E
+M>ho una t. sete</E
+M>ha una forza t.</E
+M>è d&#8217;una logica t.</E
+M>era dotato di t. ingegno.</E
+M>aveva un aspetto terribilmente mostruoso.</E
+M>estremamente</E
+M>straordinariamente</E
+M>soffriva terribilmente</E
+M>è terribilmente noioso</E
+M>mi è terribilmente antipatico</E
+M>terribilmente simpatico</E

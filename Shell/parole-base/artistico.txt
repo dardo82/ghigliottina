@@ -1,0 +1,42 @@
+artistico.txt
+"artistico"
+"Associazione per la difesa della natura e  salvaguardia di posti di interesse artistico e storico"
+"centro artistico"
+"circolo artistico"
+"direttore artistico"
+"disegno artistico"
+"film artistico"
+"istituto artistico"
+"lavoro artistico"
+"lavoro artistico"
+"liceo artistico"
+"pattinaggio artistico"
+"pattinatore artistico"
+"pattini per pattinaggio artistico"
+"percorso artistico"
+"periodo artistico"
+"rivista su ghiaccio (pattinaggio artistico)"
+"salone artistico"
+"temperamento artistico"
+"vetro artistico"
+*[[artisticamente]], [[artisticità]]
+M>arte</E
+M>artista</E
+M>attività a</E
+M>cultura</E
+M>educazione a</E
+M>negli ambienti a</E
+M>della città</E
+M>istruzione a</E
+M>lavori a</E
+M>un’a</E
+M>rilegatura in pelle</E
+M>giudicare del valore a</E
+M>di un quadro</E
+M>di un romanzo</E
+M>di un film</E
+M>commedia povera di valore artistico</E
+M>una sala artisticamente decorata</E
+M>film artisticamente valido</E
+M>debole</E
+M>scadente</E

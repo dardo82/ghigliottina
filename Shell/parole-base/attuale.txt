@@ -1,0 +1,42 @@
+attuale.txt
+"al momento attuale"
+"allo stato attuale"
+"attuale"
+"attuale"
+"attuale, moderno"
+"cassa contenente oggetti e documenti dell'epoca attuale nascosta come testimonianza per epoche futur"
+"in fase attuale"
+"l'epoca attuale"
+"l'ora attuale"
+"luogo attuale"
+"moda attuale"
+"questione attuale"
+M>actualis</E
+M>actus</E
+M>actuel</E
+M>potenziale</E
+M>virtuale</E
+M>possibile</E
+M>esistenza a</E
+M>realtà attuale</E
+M>idealismo a</E
+M>grazia a</E
+M>grazia abituale</E
+M>peccato a</E
+M>peccato originale</E
+M>la situazione a</E
+M>la politica a</E
+M>è un autore</E
+M>un poeta</E
+M>un pensatore</E
+M>un romanzo</E
+M>una teoria</E
+M>ancora attuale</E
+M>periodo a</E
+M>periodo olocenico</E
+M>olocene</E
+M>valore a</E
+M>iniziale</E
+M>finale</E
+M>un lavoratore edile</E
+M>attualmente disoccupato</E

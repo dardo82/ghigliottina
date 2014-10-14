@@ -1,0 +1,35 @@
+serbatoio.txt
+"cisterna, serbatoio"
+"gabinetto a serbatoio d'acqua, water closet"
+"serbatoio"
+"serbatoio"
+"serbatoio"
+"serbatoio a pressione"
+"serbatoio d'acqua"
+"serbatoio del gas"
+"serbatoio di acqua"
+"serbatoio di scarto"
+"serbatoio di stoccaggio"
+"tappo serbatoio"
+"water closet, gabinetto con serbatoio ad acqua"
+*[[contenitore]], [[cisterna]]
+* [[recipiente]] 
+M>il s. del gasolio</E
+M>del cherosene</E
+M>il s. della benzina</E
+M>del carburante</E
+M>il s. dell&#8217;inchiostro</E
+M>serbatoi d&#8217;acqua</E
+M>s. aperti</E
+M>s. interrati</E
+M>s. pensili</E
+M>s. autoclavi</E
+M>s. a cisterna</E
+M>S. per idrocarburi</E
+M>s. a tetto galleggiante</E
+M>s. magmatici</E
+M>Roccia s.</E
+M>s. del chilo</E
+M>s. biologico</E
+M>le fabbriche sono state quasi sempre un sicuro s. di voti per i partiti di sinistra</E
+M>Serbatoio</E

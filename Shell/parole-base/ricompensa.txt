@@ -1,0 +1,39 @@
+ricompensa.txt
+"come ricompensa"
+"come ricompensa per, come premio per"
+"ricompensa"
+"ricompensa adeguata; la morte paga doppio"
+#* ''ricevere una [[lauta]] ricompensa''
+* [[premio]], [[contraccambio]], [[risarcimento]]
+*''ricompensa al valore''
+M>stipendio</E
+M>mercede</E
+M>salario</E
+M>mancia</E
+M>premio</E
+M>compenso</E
+M>dare</E
+M>offrire</E
+M>accettare</E
+M>rifiutare una r</E
+M>buona</E
+M>adeguata</E
+M>degna</E
+M>abbondante</E
+M>meschina</E
+M>scarsa</E
+M>immeritata r</E
+M>dare una r</E
+M>in denaro</E
+M>in natura</E
+M>la migliore r</E
+M>che tu possa darle è un po&#8217; d&#8217;affetto sincero</E
+M>che cosa debbo dargli come r</E
+M>in r</E
+M>per r</E
+M>per tutta r</E
+M>mi ha chiuso la porta in faccia</E
+M>bella r</E
+M>per i miei sacrifici</E
+M>questa è la ricompensa!</E
+M>al valore</E

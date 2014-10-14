@@ -1,0 +1,68 @@
+chiesa.txt
+"andare in chiesa"
+"andare in chiesa, frequentare la chiesa"
+"campana della chiesa"
+"campane di chiesa"
+"cattolico (Chiesa Apostolica Romana)"
+"chiesa"
+"chiesa"
+"chiesa alta"
+"chiesa apostolica"
+"chiesa cittadina"
+"chiesa collegiata"
+"chiesa comunitaria"
+"Chiesa di Inghilterra (anglicana)"
+"chiesa madre"
+"chiesa nazionale"
+"chiesa non conformista"
+"chiesa nuova"
+"Chiesa orientale ortodossa"
+"chiesa riconosciuta"
+"chiesa universale"
+"cimitero di una chiesa"
+"convertito alla chiesa evangelica"
+"essere ricevuto come un cane in chiesa"
+"essere tutto casa e chiesa"
+"la Chiesa"
+"la chiesa"
+"la Chiesa"
+"la chiesa legittima"
+"la chiesa universale"
+"matrimonio in chiesa"
+"membro della chiesa"
+"membro della Chiesa Presbiteriana"
+"musica da chiesa"
+"navata della chiesa"
+"organo della chiesa"
+"uomo di chiesa"
+"uomo di chiesa"
+*[[basilica]], [[cattedrale]], [[duomo]]
+*[[chiesastico]]
+*[[comunità]]
+*[[ministro]]
+*[[campanile]]
+* ''essere come un cane in '''chiesa'''''
+M>eccl</E
+M>sia</E
+M>trionfante</E
+M>la ch</E
+M>dei primi secoli</E
+M>ortodossa</E
+M>episcopale</E
+M>i Padri della Ch</E
+M>storia della Chiesa</E
+M>Stato della Ch</E
+M>Stato Pontificio</E
+M>Ch. del silenzio</E
+M>Libera Ch. in libero Stato</E
+M>le varie c. della medicina accademica</E
+M>andare in ch</E
+M>è uno che non va in ch</E
+M>essere poco</E
+M>molto di ch</E
+M>essere tutto casa e ch</E
+M>consumare le panche delle ch</E
+M>dire in ch</E
+M>sposarsi in ch</E
+M>sposarsi civilmente</E
+M>visita delle sette ch</E

@@ -1,0 +1,20 @@
+cisterna.txt
+"aereo cisterna"
+"aereo cisterna"
+"carro cisterna"
+"cisterna"
+"cisterna, serbatoio"
+"nave cisterna"
+"nave cisterna, nave da carico"
+"vagone cisterna"
+M>cist</E
+M>rna</E
+M>Nave c</E
+M>Vagone c</E
+M>carro c</E
+M>Auto c</E
+M>Aereo c</E
+M>aerocisterna</E
+M>aracnoidali</E
+M>cisterna di Pecquet</E
+M>chilifera</E

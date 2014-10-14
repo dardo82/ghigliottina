@@ -1,0 +1,64 @@
+trionfo.txt
+"arco di trionfo"
+"gran successo; trionfo; bandiere spiegate"
+"in trionfo"
+"trionfo"
+"trionfo"
+"trionfo"
+"trionfo da tavola"
+#*''la [[prima]] di quel film  fu un trionfo''
+*[[vittoria]], [[successo]], [[riuscita]], [[conquista]], [[affermazione]], grande onore, [[esaltazione]], [[onore]], [[celebrazione]], [[gloria]], [[glorificazione]], [[festa]], [[ovazione]], [[tripudio]], [[apoteosi]]
+*[[sconfitta]], [[disfatta]], [[insuccesso]], [[fallimento]],[[fiasco]]
+m>triumphus</e
+m>triumpus</e
+m>decretare</e
+m>concedere</e
+m>ottenere il t.</e
+m>l&rsquo;onore del t.</e
+m>celebrare il t.</e
+m>andare</e
+m>avanzare in t.</e
+m>i t. di Mario</e
+m>di Silla</e
+m>di Cesare</e
+m>di Pompeo.</e
+m>i t. di Napoleone</e
+m>riportare un t. sui nemici</e
+m>sugli avversar&icirc;</e
+m>non &egrave; stata una vittoria ma un vero t.</e
+m>&egrave; stato eletto all&rsquo;unanimit&agrave;: un autentico trionfo!</e
+m>lottare per il t. della giusta causa</e
+m>per il t. della verit&agrave;</e
+m>contro il t. del male</e
+m>il t. dello spirito sulla materia</e
+m>il t. della virt&ugrave;</e
+m>della giustizia</e
+m>dell&rsquo;innocenza</e
+m>il t. della fede</e
+m>benefica Fede ai t. avvezza</e
+m>il t. della vanit&agrave;</e
+m>dell&rsquo;iniquit&agrave;</e
+m>il t. dei beati</e
+m>ecco le schiere Del tr&iuml;unfo di Cristo</e
+m>ogni sua apparizione sulle scene era un t.</e
+m>fin dalla prima rappresentazione</e
+m> l&rsquo;opera ottenne un vero t.</e
+m>i t. del palcoscenico</e
+m>passare di trionfo in trionfo</e
+m>essere portato in trionfo</e
+m>essere accolto in t.</e
+m>I Trionfi</e
+m>Trionfo d&rsquo;Amore</e
+m>T. della Pudicizia</e
+m>Trionfo della morte</e
+m>il t. di Marco Aurelio</e
+m>il t. di Cesare</e
+m>apoteosi</e
+m>T. di Venezia</e
+m>T. del nome di Ges&ugrave;</e
+m>fiorino di Sicilia.</e
+m>tarocco</e
+m>gioco dei tarocchi</e
+m>dei trionfi.</e
+m>Trionfo da tavola</e
+m>dopo ... aver raccomandato ... di far togliere subito dalla tavola il trionfino delle frutta</e

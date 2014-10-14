@@ -1,0 +1,30 @@
+scodella.txt
+"scodella"
+"scodella"
+"scodella"
+"contenuto di una scodella"
+"scodella di riso"
+"scodella per mescolare, terrina, ciotola"
+*''(tazza)'' dal [[latino]] ''[[scutĕlla]]'', diminutivo di ''[[scutra]]'' cioè "[[piatto]], vassoio di legno"
+* ''(forma verbale)''
+*[[ciotola]]
+* piatto fondo, [[fondina]]; [[scodellata]]
+*[[scudella]]
+M>scut</E
+M>lla</E
+M>scutra</E
+M>una s. di ceramica</E
+M>di porcellana</E
+M>di terraglia</E
+M>di metallo</E
+M>devo ancora mettere a tavola le s.</E
+M>il servizio che mi hanno regalato ha 12 piatti piani e 6 s.</E
+M>sul tavolo di cucina trovai la cena nel piatto ricoperto dalla scodella</E
+M>ha mangiato due s. di minestrone</E
+M>è avanzata mezza s. di pasta e fagioli</E
+M>fare le s.</E
+M>ha bevuto una s. di latte</E
+M>A scodella</E
+M>doline a s.</E
+M>Fare scodella con le mani</E
+M>scodella di Galileo</E

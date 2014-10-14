@@ -1,0 +1,4 @@
+perciò.txt
+#* ''non hai mangiato nulla, 
+* [[quindi]]
+* [[per]] [[ciò]]

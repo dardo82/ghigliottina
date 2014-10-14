@@ -1,0 +1,23 @@
+interrogatorio.txt
+"interrogatorio"
+"interrogatorio"
+"interrogatorio"
+"interrogatorio"
+*[[interrogare]]
+M>interrogatorius</E
+M>assumere un tono i</E
+M>il suo fare i</E
+M>mi metteva a disagio</E
+M>inquisitorio</E
+M>interrogativo</E
+M>mi lanciò un’occhiata interrogatoria</E
+M>formale</E
+M>non formale</E
+M>libero</E
+M>fare</E
+M>subire un i</E
+M>sottoporre a un i</E
+M>stringente</E
+M>incalzante</E
+M>verbale d’interrogatorio</E
+M>di terzo grado</E

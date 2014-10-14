@@ -1,0 +1,12 @@
+dentista.txt
+"dentista"
+"sedia del dentista"
+* [[odontoiatra]]
+* [[dentistico]], [[dente]], [[dentiera]]
+* [[ablatore]], [[capsula]], [[carie]], [[gengiva]], [[odontotecnico]], [[ortodontico]],  [[ortodonzia]],  [[otturazione]],  [[placca]], [[tartaro]]
+*''il '''dentista''' è un uomo che mangia con i denti degli altri''
+m>odontoiatra</e
+m>stomatologo</e
+m>medico dentista</e
+m>odontotecnico</e
+m>meccanico dentista</e

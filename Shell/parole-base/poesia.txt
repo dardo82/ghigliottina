@@ -1,0 +1,115 @@
+poesia.txt
+"brutta poesia"
+"della poesia"
+"della poesia"
+"la stella del mattino; il sole (poesia)"
+"poesia"
+"poesia"
+"poesia"
+"poesia epica"
+"poesia erotica"
+"poesia in prosa"
+"poesia lirica"
+"poesia narrativa"
+"poesia popolare"
+"studio della poesia"
+#*''la '''poesia''' rinascimentale''
+#*''la 
+#*''la 
+#*''e tu vorresti vivere in questa '''poesia'''?''
+*''(componimento in versi secondo certe regole)'' [[lirica]]
+*''(carattere suggestivo di qualcosa)'' [[poeticità]]
+* [[prosa]]
+* [[poeta]], [[poetico]], [[poema]], [[poeticità]]
+M>sis</E
+M>poesia</E
+M>prosa</E
+M>p. epica</E
+M>lirica</E
+M>drammatica</E
+M>p. didascalica</E
+M>satirica</E
+M>bucolica</E
+M>pastorale</E
+M>dialettale</E
+M>colta</E
+M>scrivere in p.</E
+M>opera di p.</E
+M>studio della poesia</E
+M>scrivere</E
+M> comporre</E
+M>dettare</E
+M>improvvisare una p.</E
+M>studiare</E
+M>leggere</E
+M>recitare</E
+M>commentare una p.</E
+M>imparare una p. a memoria</E
+M>p. lunga</E
+M>breve</E
+M>bella</E
+M>mediocre</E
+M>brutta</E
+M>le p. del Parini</E
+M>raccolta di poesie</E
+M>Poesie giovanili</E
+M>Poesie d&#8217;amore</E
+M>la p. educa il cuore</E
+M> la p. fa la vita</E
+M> riempie magari certe brutte lacune</E
+M> alle volte anche la fame</E
+M> la sete</E
+M> il sonno</E
+M>la p. di tutti i tempi</E
+M>la p. classica</E
+M>la p. romantica</E
+M>la p. greca</E
+M> latina</E
+M> francese</E
+M> romanza</E
+M> orientale</E
+M>la p. di Omero</E
+M> di Virgilio</E
+M>la p. degli stilnovisti</E
+M> dei petrarchisti</E
+M>la p. simbolista</E
+M> la p. decadente</E
+M> la p. ermetica</E
+M>la p. dell&#8217;episodio di Paolo e Francesca</E
+M>una pagina ricca di p.</E
+M>versi perfetti ma privi di p.</E
+M>un testo scientifico che raggiunge il livello della poesia</E
+M>in questa p. ciò che è assente è proprio la p.</E
+M>in quella semplice cronaca c&#8217;è vera p.</E
+M>di contro ai suoi modesti tentativi poetici in lingua la p. dialettale del Belli è p. autentica; nel grigiore letterario dei suoi tempi sola si stacca</E
+M>altissima</E
+M>la p. del Leopardi</E
+M>per l&#8217;intensità del sentimento</E
+M>più che per la perfezione formale</E
+M>questa è vera p.</E
+M>il suo intervento fu così appassionato da sfiorare la poesia.</E
+M>p. di un&#8217;opera architettonica</E
+M>p. di Raffaello</E
+M>eleganza formale di un quadro che non raggiunge tuttavia la p.</E
+M>sentimento</E
+M>carica emozionale</E
+M>ispirazione che conferisce valore di p. a un brano musicale</E
+M>a una scultura</E
+M>a un film</E
+M>a una danza esotica</E
+M>la p. della natura</E
+M>di un tramonto</E
+M>la p. della vita</E
+M>non c&#8217;è p. nel suo modo di fare</E
+M>non ci trovo poesia in quel matrimonio</E
+M>basta vederla mangiare per perdere tutta la p.</E
+M>poesia</E
+M>la p. di un filo d&#8217;erba</E
+M>la p. delle piccole cose</E
+M>una desolazione che ha una sua p.</E
+M>la p. del quotidiano</E
+M>ma questa è pura p.!</E
+M>è un uomo che vive di p.</E
+M>con la p. non si fa strada nella vita</E
+M>poe</E
+M>iina</E

@@ -1,0 +1,80 @@
+tappeto.txt
+"a tappeto"
+"Battere a tappeto"
+"bombardamento a tappeto"
+"bombardare a tappeto"
+"mettere a tappeto"
+"mettere al tappeto"
+"pulizia del tappeto"
+"ricerca a tappeto"
+"sul tappeto"
+"tappeto"
+"tappeto da bagno"
+"tappeto da pavimento"
+"tappeto davanti al focolare"
+"tappeto di pelle d'orso"
+"tappeto erboso"
+"tappeto in gomma"
+"tappeto magico"
+"tappeto orientale"
+"tappeto rosso"
+*[[guida]], [[stuoia]], [[scendiletto]]
+* ''(da tavolo)'' [[tovaglia]], [[copritavola]]
+*[[tappetare]]
+* [[arazzo]], [[persiano]]
+*italiano
+M>tapete</E
+M>tapetum</E
+M>t. persiani</E
+M>turchi</E
+M>cinesi</E
+M>indiani</E
+M>un prezioso t. persiano del Cinquecento</E
+M>un raffinato t. francese del Settecento</E
+M>collezionare t. antichi</E
+M>i t. rustici sardi</E
+M>abruzzesi</E
+M>romeni</E
+M>messicani</E
+M>peruviani</E
+M>t. da terra</E
+M>da pareti</E
+M>t. da preghiera</E
+M>preghiera</E
+M>t. di fibra di cocco</E
+M>di fibre vegetali resistenti</E
+M>t. di felpa</E
+M>feltrati ad ago</E
+M>tappeti-moquette</E
+M>t. da bagno</E
+M>tappetino</E
+M>cambiare i tappetini dell&#8217;auto</E
+M>andare al t.</E
+M>mandare</E
+M>mettere al t. l&#8217;avversario</E
+M>t. verde</E
+M>rovinarsi al t. verde</E
+M>al tavolo verde</E
+M>mettere</E
+M>porre</E
+M>portare una questione sul t.</E
+M>è una questione</E
+M>un problema</E
+M> che un giorno o l&#8217;altro verrà sul tappeto</E
+M>un tappeto d&#8217;erba</E
+M>il t. erboso di un campo da gioco</E
+M>di calcio</E
+M>di golf</E
+M>un soffice t. di foglie</E
+M>di aghi di pino</E
+M>un t. di fiori. Bombardamento a tappeto</E
+M>interrogatorio a t.</E
+M>indagine a t.</E
+M>t. vegetale</E
+M>t. bituminoso</E
+M>t. mobile</E
+M>scorrevole</E
+M>t. cernitore</E
+M>tapetum</E
+M>t. nero</E
+M>t. lucido</E

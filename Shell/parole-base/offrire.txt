@@ -1,0 +1,99 @@
+offrire.txt
+"avere qualcosa da offrire"
+"fare meglio; superare; offrire un prezzo più alto"
+"offrire"
+"offrire"
+"offrire"
+"offrire"
+"offrire"
+"offrire (relig.)"
+"offrire cittadinanza"
+"offrire cittadinanza"
+"offrire da bere"
+"offrire di più"
+"offrire il fianco"
+"offrire il proprio aiuto"
+"offrire in sacrificio"
+"offrire la totale disponibilità"
+"offrire pranzi e cene"
+"offrire qc a qn"
+"offrire un banchetto"
+"offrire un prezzo"
+*[[regalare]], [[donare]], [[destinare]]; [[dare]], [[concedere]], [[promettere]]
+* mettere a disposizione, [[porgere]], [[proporre]]
+* mettere in vendita, [[vendere]], [[presentare]], [[esporre]]
+*[[pagare]], [[acquistare]]
+*[[fornire]]
+*[[dedicare]], [[consacrare]], [[votare]], [[sacrificare]]
+*[[produrre]]
+*[[profferire]]
+*[[mostrare]]
+*[[offrirsi]]
+M>*offer</E
+M>offerre</E
+M>ferre</E
+M>io òffro</E
+M>offrìi</E
+M>offèrsi</E
+M>offristi</E
+M>offèrto</E
+M>un bicchiere di vino</E
+M>un caffè</E
+M>un aperitivo</E
+M>una sigaretta</E
+M>da mangiare</E
+M>da bere</E
+M>ospitalità</E
+M>mi offrì un passaggio nella sua macchina</E
+M>volle offrirle un po’ di denaro per le piccole spese</E
+M>le offrì il suo aiuto</E
+M>la sua assistenza</E
+M>la sua protezione</E
+M>il proprio amore</E
+M>il cuore</E
+M>il partito gli offre la candidatura per le prossime elezioni</E
+M>la nostra ditta offre ai proprî clienti le sue nuove confezioni</E
+M>offriamo nuovi appartamenti a prezzi convenientissimi</E
+M>un impiego</E
+M>un buon posto</E
+M>una scrittura</E
+M>un vantaggioso contratto</E
+M>mi ha offerto trentamila euro per il terreno</E
+M>il signore offre cento euro:</E
+M>c’è nessuno che offre di più?</E
+M>sacrifici</E
+M>vittime agli dèi</E
+M>Abele offriva a Dio gli agnelli più grassi del suo gregge</E
+M>a Dio le proprie sofferenze</E
+M>i proprî pensieri e affetti</E
+M>la propria volontà</E
+M>il petto alle spade nemiche</E
+M>il fianco a critiche</E
+M>al biasimo</E
+M>alle chiacchiere della gente</E
+M>l’occasione</E
+M>l’opportunità</E
+M>il destro</E
+M>una capanna ci offrì riparo durante il temporale</E
+M>alberi frondosi offrono la loro ombra ai passanti</E
+M>è una posizione panoramica che offre una bellissima vista</E
+M>la proposta offre pochi vantaggi</E
+M>è un contratto che non offre nessuna garanzia</E
+M>film</E
+M>libro</E
+M>paesaggio che non offre nulla d’interessante</E
+M>è un argomento che offre materia di lunga meditazione</E
+M>si offrì di aiutarmi</E
+M>mi offro io di accompagnarti</E
+M>offrirsi per un posto di lavoro</E
+M>offrirsi come cameriera</E
+M>come collaboratore</E
+M>molti si offrono volontarî</E
+M>offrirsi a Dio</E
+M>offrirsi a qualcuno</E
+M>Dinanzi a li occhi mi si fu offerto Chi per lungo silenzio parea fioco</E
+M>un meraviglioso spettacolo si offrì alla nostra vista</E
+M>mi si offre un’ottima occasione</E
+M>rimanendo celibe</E
+M>per aver rifiutati tutti i partiti che le si erano offerti</E
+M>la teoria si offre a molte critiche</E

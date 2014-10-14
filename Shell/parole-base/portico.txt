@@ -1,0 +1,27 @@
+portico.txt
+"portico"
+"portico, cloister, colonnade"
+"portico"
+"portico, porticato"
+"portico, porticato"
+M>port</E
+M>cus</E
+M>porta</E
+M>portus</E
+M>chi</E
+M>i p</E
+M>di Atene</E
+M>il p</E
+M>d&#8217;Ottavia</E
+M>i p</E
+M>di piazza S</E
+M>Marco</E
+M>i p</E
+M>di Bologna</E
+M>di Torino</E
+M>di Padova</E
+M>passeggiare sotto i portici</E
+M>Stoà Poikìle</E
+M>Stoà</E
+M>stoici</E
+M>stoicismo</E

@@ -1,0 +1,41 @@
+singolo.txt
+"azionatore del singolo motore"
+"letto singolo"
+"singolo"
+"singolo"
+"singolo file"
+"spazio singolo"
+"voto singolo"
+M>sing</E
+M>lus -a -um</E
+M>unus</E
+M>la votazione si effettuerà su ogni s. articolo del disegno di legge</E
+M>il Governo risponderà ai s. interpellanti</E
+M>la legge non può prevedere il caso s.</E
+M>i s. casi</E
+M>desidero avere una esposizione minuta dei s. fatti</E
+M>un s. momento della storia del pensiero</E
+M>i singoli</E
+M>darò una risposta valida per tutti</E
+M> non potendo rispondere ai s.</E
+M>sono disposizioni generali</E
+M> che non possono tener conto dell&#8217;interesse del singolo</E
+M>doppio</E
+M>duplice</E
+M>più</E
+M>documento in s. copia</E
+M>uno</E
+M>veicolo a un s. posto</E
+M>singola</E
+M>sola</E
+M>di cambio</E
+M>cabina s.</E
+M>camera s.</E
+M>scompartimento s.</E
+M>cannone s.</E
+M>mitragliera s.</E
+M>lanciasiluri singolo</E
+M>singolare.</E
+M>skiff</E
+M>duplex</E
+M>single</E

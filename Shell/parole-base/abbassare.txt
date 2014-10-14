@@ -1,0 +1,72 @@
+abbassare.txt
+"abbassare"
+"abbassare"
+"abbassare"
+"abbassare"
+"abbassare i fanali"
+"abbassare i prezzi"
+"abbassare i toni"
+"Abbassare il tiro"
+"abbassare il volume"
+"abbassare la guardia"
+"abbassare la testa"
+"abbassare le luci"
+"abbassare lo sguardo, guardare verso il basso"
+"far abbassare"
+#*'''''Abbassai''' lentamente la mano.''
+#*'''''Abbassa''' la testa!''
+#*'''''Abbassa''' la televisione, per favore.''
+#* ''ha cercato di '''abbassarmi''' ai tuoi occhi''
+#* '''''abbassare''' da un punto la perpendicolare a una retta (in un piano)''
+*(cosa) [[calare]], far scendere, spostare verso il basso, [[sbassare]], tirare giù
+*(membra) [[chinare]], dirigere verso il basso 
+*rendere più basso, [[ridurre]], [[diminuire]], [[tagliare]], [[scontare]], [[attenuare]], [[ovattare]],  [[flettere]], [[scemare]]
+*(di bandiera)[[ammainare]], [[piegare]]
+*(suoni, rumori)[[smorzare]]  
+*  (cosa) [[alzare]], far salire, [[innalzare]], [[ergere]]
+* (membra) [[sollevare]]
+*[[accrescere]],  [[aumentare]], [[rincarare]]
+*(bandiera) [[issare]]
+*[[abbassarsi]]
+M>basso</E
+M>un quadro</E
+M>la lampada</E
+M>il muro di una casa</E
+M>l’altezza di una finestra</E
+M>la voce</E
+M>il tono della voce</E
+M>la radio</E
+M>il volume</E
+M>di voce</E
+M>della radio</E
+M>la luce</E
+M>la fiamma del gas</E
+M>a. i prezzi</E
+M>a. di un punto il costo del denaro</E
+M>la moneta</E
+M>i titoli</E
+M>le azioni</E
+M>un primato</E
+M>essere</E
+M>abbassarsi</E
+M>si è abbassato il livello del fiume</E
+M>la febbre gli si è abbassata di due gradi</E
+M>la pressione atmosferica continua ad abbassarsi</E
+M>il capo</E
+M>la testa</E
+M>gli occhi in terra lagrimando abasso</E
+M>si abbassò il cappello sulla fronte e scese le scale di corsa</E
+M>m’ero abbassato per cogliere un fiore</E
+M>le corna</E
+M>le ali</E
+M>le orecchie</E
+M>ha cercato di abbassarmi ai tuoi occhi</E
+M>ecco chi abbasserà la sua superbia</E
+M>si è abbassato a chiedergli scusa</E
+M>non sono abituato ad abbassarmi davanti a nessuno</E
+M>un numero</E
+M>da un punto la perpendicolare a una retta</E
+M>a un piano</E
+M>tenere le tende abbassate</E
+M>armi abbassate</E
+M>diffamate</E

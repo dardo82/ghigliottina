@@ -1,0 +1,38 @@
+ritardare.txt
+"arrestare, ritardare, troncare"
+"ritardare"
+"ritardare"
+M>retardare</E
+M>tardare</E
+M>avere</E
+M>essere</E
+M>tardare</E
+M>a rispondere</E
+M>ad andare in ufficio</E
+M>anche oggi hai ritardato</E
+M> mezz&#8217;ora</E
+M>il treno ha</E
+M>ritardato</E
+M> due ore</E
+M>oggi la posta ritarda</E
+M>l&#8217;orologio</E
+M>la sveglia ritarda</E
+M>va indietro</E
+M>il moto</E
+M>la marcia</E
+M>il cammino</E
+M>una nota</E
+M>un passaggio</E
+M>un processo</E
+M>una reazione</E
+M>la gran folla lo ritardava</E
+M>la nebbia avrà ritardato la corriera</E
+M>scusami se arrivo solo ora</E
+M>mi ha ritardato un seccatore con le sue chiacchiere</E
+M>l&#8217;esecuzione di un progetto</E
+M>la consegna di un lavoro</E
+M>il pagamento di una cambiale</E
+M>la partenza</E
+M>abbiamo ritardato la riunione</E
+M>il pranzo</E
+M>per aspettarti</E

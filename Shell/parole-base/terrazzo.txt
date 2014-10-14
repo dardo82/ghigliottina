@@ -1,0 +1,23 @@
+terrazzo.txt
+"terrazzo"
+"terrazzo"
+"terrazzo"
+"terrazzo"
+"terrazzo floor"
+"terrazzo"
+*[[balcone]], [[terrazza]] 
+*''(per il termine araldico)'' [[terreno]]
+M>*terraceus</E
+M>terra</E
+M>t. a livello</E
+M>terrazza</E
+M>balcone</E
+M>t. alluvionale</E
+M>in situ</E
+M>t. orografico</E
+M>t. fluviale</E
+M>t. lacustri</E
+M>t. glaciali</E
+M>t. costieri</E
+M>marini</E
+M>pavimento alla veneziana</E

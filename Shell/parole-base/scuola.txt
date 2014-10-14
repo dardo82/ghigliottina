@@ -1,0 +1,267 @@
+scuola.txt
+"a scuola"
+"andare a scuola"
+"armadietto di scuola"
+"bambino che frequenta la scuola materna"
+"campo giochi annesso alla scuola"
+"campo scuola"
+"cartella da scuola"
+"che ha finito la scuola"
+"che scuola fa?"
+"chi marina la scuola"
+"compagna di scuola"
+"compagno di scuola"
+"compagno di scuola"
+"cortile della scuola"
+"da scuola secondaria"
+"della scuola secondaria superiore"
+"di scuola statale"
+"educazione elementare (scuola)"
+"fare sega a scuola"
+"frequentare la scuola"
+"giornalino della scuola"
+"giorno di scuola"
+"giorno di scuola"
+"grado della scuola, grado scolastico"
+"grembiule di scuola"
+"indagine sulla scuola"
+"intervallo tra i primi due trimestri di scuola"
+"istruzione in scuola mista"
+"liceo o scuola privata (in Inghilterra)"
+"mandare a scuola"
+"marinare la scuola"
+"nave scuola"
+"nave scuola (persona)"
+"nome della scuola"
+"percorso casa - scuola"
+"piccola scuola rossa"
+"pieni voti (a scuola)"
+"prendere zero a scuola"
+"prendere zero a scuola"
+"preside; direttrice di una scuola"
+"scuola"
+"scuola"
+"scuola"
+"scuola"
+"scuola"
+"scuola alberghiera"
+"scuola aziendale"
+"scuola calamita"
+"scuola commerciale"
+"scuola comunale"
+"scuola comunitaria"
+"scuola corale"
+"scuola coranica"
+"scuola d'arte"
+"scuola d'infanzia"
+"scuola di addestramento"
+"scuola di architettura"
+"scuola di ballo"
+"scuola di biblioteconomia"
+"scuola di comportamento"
+"scuola di equitazione"
+"scuola di filosofia"
+"scuola di giornalismo"
+"scuola di guerra"
+"scuola di ingegneria"
+"scuola di legge"
+"scuola di medicina"
+"scuola di musica"
+"scuola di musica"
+"scuola di pensiero"
+"scuola di recitazione"
+"scuola di seduzione"
+"scuola di specializzazione"
+"scuola di teatro"
+"scuola di teologia"
+"scuola di terra"
+"scuola di tirocinio"
+"scuola distrettuale"
+"scuola diurna"
+"scuola domenicale di religione"
+"scuola elementare"
+"scuola elementare"
+"scuola elementare"
+"scuola elementare (Amer.)"
+"scuola elementare (Amer.)"
+"scuola gratuita"
+"scuola guida"
+"scuola indipendente"
+"scuola industriale"
+"scuola materna"
+"scuola materna"
+"scuola media"
+"scuola media inferiore"
+"scuola media inferiore"
+"scuola media o superiore unificata"
+"scuola media superiore"
+"scuola militare"
+"scuola militare"
+"scuola mista"
+"scuola nautica"
+#*'''scuola dell'obbligo'''
+* [[scolaro]], [[scolastico]]
+* [[educazione]], [[insegnante]], [[maestro]], [[preside]], [[professore]], [[studente]]
+* [[accademia]], [[college]], [[liceo]], [[università]]
+*Devoto/Oli, '' il dizionario della lingua italiana'', edizione cartacea 2000-2001,Le Monnier, p. 1892
+m>sch</e
+m>otium</e
+m>s. materna</e
+m>s. elementare</e
+m>s. primaria</e
+m>s. media</e
+m>secondaria</e
+m>inferiore</e
+m>di primo grado</e
+m>superiore</e
+m>di secondo grado</e
+m>apertura</e
+m>chiusura delle s.</e
+m>riforma della s.</e
+m>maestro di s.</e
+m>compagni di s.</e
+m>gli alunni delle s.</e
+m>i bidelli</e
+m>i custodi delle s.</e
+m>libri per la s.</e
+m>s. pubblica</e
+m>s. privata</e
+m>s. pareggiata</e
+m>s. parificata</e
+m>s. dell&rsquo;obbligo</e
+m>s. a tempo pieno</e
+m>s. serale</e
+m>s. sperimentale</e
+m>s. speciale</e
+m>s. mista</e
+m>s. maschile</e
+m>femminile</e
+m>s. carcerarie</e
+m>s. popolare</e
+m>s. rurale</e
+m>s. reggimentali</e
+m>Scuole Pie</e
+m>fare s.</e
+m>tenere s.</e
+m>frequentare una s.</e
+m>andare a s.</e
+m>marinare la s.</e
+m>mandare i figli a s.</e
+m>oggi c&rsquo;&egrave;</e
+m>non c&rsquo;&egrave; s.</e
+m>giorno di s.</e
+m>giorno di vacanza</e
+m>ha dedicato tutta la sua vita alla s.</e
+m>non impariamo per la s.</e
+m>ma per la vita</e
+m>non scholae sed vitae discimus</e
+m>andare a s. da qualcuno</e
+m>ha ancora bisogno di s.</e
+m>si vede che gli manca la s.</e
+m>due</e
+m>tre ore di s.</e
+m>dopo la s. dovete tornare subito a casa</e
+m>s. d&rsquo;arte</e
+m>s. di danza</e
+m>s. di recitazione</e
+m>di arte drammatica</e
+m>s. di canto</e
+m>s. di musica</e
+m>s. di lingue straniere</e
+m>s. d&rsquo;inglese</e
+m>di francese</e
+m>s. di taglio e cucito</e
+m>s. di cucina</e
+m>s. di giardinaggio</e
+m>s. di equitazione</e
+m>equitazione d&rsquo;alta s.</e
+m>s. di nuoto</e
+m>s. di sci</e
+m>s. guida</e
+m>di guida</e
+m>s. militari</e
+m>s. d&rsquo;addestramento</e
+m>scuola di guerra</e
+m>istituto di guerra marittima</e
+m>scuola di guerra aerea</e
+m>s. apostolica</e
+m>la s. superiore di specializzazione per le telecomunicazioni</e
+m>la s. superiore di giornalismo</e
+m>la S. normale superiore di Pisa</e
+m>Scuola Superiore della Pubblica Amministrazione</e
+m>SSPA</e
+m>s. attiva</e
+m>s. su misura</e
+m>s. del lavoro</e
+m>alla cerimonia saranno presenti tutte le s. della citt&agrave;</e
+m>il preside ha riunito la s. nel cortile e ha tenuto un breve discorso</e
+m>mio figlio ha fatto un viaggio all&rsquo;estero con la scuola</e
+m>una s. moderna</e
+m>soleggiata</e
+m>spaziosa</e
+m>una s. all&rsquo;aperto</e
+m>le s. del centro storico si trovano per lo pi&ugrave; in palazzi antichi</e
+m>costruire una nuova s.</e
+m>una s. di paese</e
+m>di montagna</e
+m>accompagnare i figli a s.</e
+m>gli studenti hanno tenuto un&rsquo;assemblea davanti alla scuola</e
+m>i poeti della s. siciliana</e
+m>un pittore di s. fiamminga</e
+m>di s. impressionista</e
+m>un architetto di s. razionalista</e
+m>i romanzieri di s. russa</e
+m>s. hegeliana</e
+m>s. di Chartres</e
+m>s. esistenzialista</e
+m>s. metodica</e
+m>s. pneumatica</e
+m>s. salernitana</e
+m>s. classica</e
+m>s. dell&rsquo;esegesi</e
+m>s. positiva</e
+m>s. storica</e
+m>s. fisiocratica</e
+m>s. classica</e
+m>s. marginalistica</e
+m>s. geometrica italiana</e
+m>la s. romana di fisica teorica di via Panisperna</e
+m>s. neogrammatica</e
+m>s. di Ginevra</e
+m>s. di Praga</e
+m>s. di Vienna</e
+m>viennese</e
+m>la s. di Raffaello</e
+m>i filosofi di s. crociana</e
+m>Cos&igrave; vid&rsquo;i&rsquo; adunar la bella scola Di quel segnor de l&rsquo;altissimo canto</e
+m>un quadro</e
+m>una statua di s.</e
+m>un&rsquo;opera di s.</e
+m>questo lavoro sa troppo di s.</e
+m>si sente troppo la s.</e
+m> nelle sue composizioni!</e
+m>della s. di ...</e
+m>una tela della s. di Raffaello</e
+m>affresco di s. senese</e
+m>di s. veneta</e
+m>fare scuola</e
+m>&egrave; un biologo che ha fatto s.</e
+m>vedrai che con le sue teorie far&agrave; s.</e
+m>un metodo</e
+m>un&rsquo;idea che far&agrave; s.</e
+m>purtroppo la violenza va facendo scuola</e
+m>la s. della vita</e
+m>dell&rsquo;esperienza</e
+m>la prima s. &egrave; quella dei genitori</e
+m>essere educato alla s. del dovere</e
+m>purtroppo</e
+m> &egrave; cresciuto alla s. del dolore</e
+m>Noi serbati all&rsquo;amor</e
+m> nati alla scola Delle celesti cose</e
+m>quello che ti &egrave; successo ti serva di scuola</e
+m>certe zone di periferia sono scuole di criminalit&agrave; per i giovani</e
+m>arte</e
+m>la S. di s. Rocco</e
+m>la S. Dalmata dei ss. Giorgio e Trifone</e
+m>cantieri-scuola</e
+m>nave scuola</e

@@ -1,0 +1,56 @@
+perdono.txt
+"chiedere perdono"
+"chiedere perdono"
+"chiedere perdono"
+"chiedere perdono"
+"perdono"
+"perdono"
+"perdono"
+#* ''Gli chiese '''perdono'''''
+*[[indulgenza]]
+*[[ comprensione]], [[compatimento]], [[clemenza]]
+*(in formule di cortesia) [[scusa]], [[giustificazione]]
+*[[severità]], [[rigore]], [[vendetta]], [[odio]], [[rancore]]
+* italiano
+* spagnolo  
+M>chiedere</E
+M>domandare p</E
+M>implorare</E
+M>impetrare</E
+M>ottenere il p</E
+M>dare</E
+M>concedere</E
+M>rifiutare il p</E
+M>ti chiedo p</E
+M>del male che ti ho fatto</E
+M>essere degno del p</E
+M>meritevole di perdono</E
+M>sono misfatti che non meritano il p</E
+M>la miglior vendetta è il p</E
+M>si degni di farmi portare un pane</E
+M>perché io possa dire d&#8217;aver goduto la sua carità</E
+M>d&#8217;aver mangiato il suo pane</E
+M>e avuto un segno del suo p</E
+M>pane del p</E
+M>giudiziale</E
+M>legge del p</E
+M>sospensione condizionale della pena</E
+M>condanna condizionale</E
+M>condizionale</E
+M>pregare per il p</E
+M>dei proprî peccati</E
+M>espiare le colpe commesse per ottenere il p</E
+M>divino</E
+M>il p</E
+M>di Assisi</E
+M>Indulgenza della Porziuncola</E
+M>Così li ciechi a cui la roba falla</E
+M>Stanno a&#8217; perdoni a chieder lor bisogna</E
+M>chieggio di nuovo p</E
+M>del mio troppo libero parlare</E
+M>scusi</E
+M> scusate</E
+M>pardon</E
+M>domando p</E
+M>se vi interrompo</E
+M>posso entrare un momento solo?</E

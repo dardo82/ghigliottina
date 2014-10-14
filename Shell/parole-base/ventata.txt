@@ -1,0 +1,9 @@
+ventata.txt
+"ventata"
+"ventata"
+"ventata di aria fresca"
+"ventata di novità"
+M>una v. chiuse violentemente l’uscio</E
+M>appena aprì la finestra</E
+M> una v. fece volare tutti i fogli che erano sulla scrivania</E
+M>una v. di entusiasmo</E

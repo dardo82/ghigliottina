@@ -1,0 +1,204 @@
+nota.txt
+"appuntarsi, prendere nota"
+"cantare una nota sbagliata"
+"che si nota"
+"notably"
+"degno di nota"
+"informazione generalmente nota"
+"letteratura poco nota"
+"nota"
+"appunto, annotazione, chiosa"
+"note, annotation"
+"nota"
+"nota"
+"nota"
+"nota"
+"nota musicale"
+"nota a margine"
+"nota a piè di pagina"
+"annotation"
+"nota a piè di pagina"
+"nota bene"
+"nota bene"
+"Nota Bene"
+"nota bene"
+"nota dell'autore"
+"nota di accredito"
+"nota di colore"
+"nota di consegna"
+"nota di credito"
+"nota di debito"
+"nota di originalità"
+"nota di sdegno"
+"nota dominante"
+"nota in calce"
+"nota informativa"
+"nota integrativa"
+"nota musicale"
+"nota musicale"
+"nota negativa"
+"nota per il traduttore"
+"nota positiva"
+"nota spese"
+"nota verbale"
+"persona nota; nome conosciuto"
+"prendere nota"
+"prendere nota di"
+"prendere una nota"
+"quantità nota"
+"relativo al prendere nota"
+"suonare una nota sbagliata"
+"una cosa degna di nota"
+#*''Mi ha lasciato una '''nota''' sul  cammino  del pellegrinaggio di "[[w
+#*''La '''nota''' spiegava meglio la poesia'' 
+#*''Se non la smetti, ti metto una '''nota'''.''
+#*''Ci sono vari tipi di '''note''', per esempio il quarto, l'ottavo ed il sedicesimo''
+#*''La '''nota''' che precede il Re è il Do.''
+m>sco</e
+m>men</e
+m>fare</e
+m>scrivere</e
+m>apporre una n</e
+m>sul margine</e
+m>in margine</e
+m>a margine</e
+m>contrassegnare con una n</e
+m>segnare con n</e
+m>indelebili</e
+m>tachigrafiche</e
+m>tironiane</e
+m>prendere n</e
+m>di una cosa</e
+m>tenere n</e
+m>di tutto</e
+m>libretto</e
+m>taccuino per note</e
+m>Ch&rsquo;io metta il nome tuo tra l&rsquo;altre note</e
+m>non trovai nulla che fosse degno di nota</e
+m>Ma dimmi</e
+m>de la gente che procede</e
+m>Se tu ne vedi alcun degno di nota</e
+m>le n</e
+m>di un commento</e
+m>storiche</e
+m>filologiche</e
+m>grammaticali</e
+m>linguistiche</e
+m>esplicative</e
+m>illustrative</e
+m>testo con note</e
+m>senza note</e
+m>nota dell&rsquo;Autore</e
+m>nota del Redattore</e
+m>nota del Traduttore</e
+m>dell&rsquo;editore</e
+m>introduttiva</e
+m>filologica</e
+m>critica</e
+m>bibliografiche</e
+m>tipografiche</e
+m>politica</e
+m>rimettere una n</e
+m>al direttore generale</e
+m>al presidente</e
+m>diplomatica</e
+m>informativa</e
+m>nota di qualifica</e
+m>caratteristiche</e
+m>rapporto informativo</e
+m>nota di addebito</e
+m>di accredito</e
+m>di vendita</e
+m>fattura commerciale</e
+m>di copertura</e
+m>di pegno</e
+m>a sentenza</e
+m>di variazione</e
+m>la n</e
+m>del sarto</e
+m>del droghiere</e
+m>del bucato</e
+m>compilare</e
+m>presentare la n</e
+m>delle competenze</e
+m>dei libri di testo</e
+m>della spesa</e
+m>delle spese da fare</e
+m>delle spese sostenute</e
+m>nota spese</e
+m>rigo</e
+m>scritte</e
+m>nel rigo</e
+m>sopra il rigo</e
+m>sotto il rigo</e
+m>una n</e
+m>con il taglio in testa</e
+m>con il taglio in collo</e
+m>in gola</e
+m>conoscere</e
+m>saper leggere le n</e
+m>le sette n</e
+m>della scala diatonica</e
+m>intonare la prima n</e
+m>di una canzone</e
+m>una n</e
+m>stonata o falsa</e
+m>crescente</e
+m>calante</e
+m>mettere in nota</e
+m>Tin tin sonando con s&igrave; dolce nota</e
+m>sol</e
+m>sol</e
+m>breve</e
+m>semibreve</e
+m>minima</e
+m>semiminima</e
+m>croma</e
+m>semicroma</e
+m>biscroma</e
+m>semibiscroma</e
+m>diesis</e
+m>bemolle</e
+m>doppio diesis</e
+m>doppio bemolle</e
+m>puntate</e
+m>alterate</e
+m>diesate</e
+m>bemollizzate</e
+m>naturali</e
+m>legate</e
+m>staccate</e
+m>tenute</e
+m>ritardate</e
+m>tonica</e
+m>dominante</e
+m>sensibile</e
+m>una n</e
+m>falsa</e
+m>stonata</e
+m>trovare la n</e
+m>giusta</e
+m>dire</e
+m>dichiarare a chiare n</e
+m>mettere una n</e
+m>allegra</e
+m>triste</e
+m>portare una n</e
+m>di buonumore</e
+m>obbligata</e
+m>Bruto</e
+m>Fermo gi&agrave; di morir</e
+m>gl&rsquo;inesorandi Numi e l&rsquo;averno accusa</e
+m>E di feroci note Invan la sonnolenta aura percote</e
+m>Or incomincian le dolenti note</e
+m>d&rsquo;infamia</e
+m>di biasimo</e
+m>censoria</e
+m>mettere una n</e
+m>sul registro</e
+m>note</e
+m>determinazioni</e
+m>Note della Chiesa</e
+m>differenziale</e
+m>carattere</e
+m>notar&egrave;lla</e

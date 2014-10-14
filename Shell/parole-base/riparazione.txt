@@ -1,0 +1,39 @@
+riparazione.txt
+"di riparazione"
+"esame di riparazione"
+"in riparazione"
+"riparazione"
+"riparazione"
+"servizio di riparazione"
+M>reparatio</E
+M>onis</E
+M>reparare</E
+M>chiedere</E
+M>ottenere r</E
+M>di un torto</E
+M>di un&#8217;offesa</E
+M>dare</E
+M>concedere r</E
+M>di un&#8217;ingiuria</E
+M>di un&#8217;ingiustizia arrecata</E
+M>esigere un&#8217;equa r</E
+M>del danno subìto</E
+M>del danno</E
+M>del torto</E
+M>pecuniaria</E
+M>degli errori giudiziarî</E
+M>riparazioni di guerra</E
+M>dei danni di guerra</E
+M>esame di r</E
+M>processo riparativo</E
+M>di un paio di scarpe</E
+M>di un pneumatico forato</E
+M> di un televisore</E
+M>di una casa</E
+M>della facciata di una chiesa</E
+M>lavori</E
+M>spese di r</E
+M>una r</E
+M>perfetta</E
+M>buona</E
+M>scadente</E

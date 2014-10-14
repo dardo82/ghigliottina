@@ -1,0 +1,340 @@
+sistema.txt
+"(sistema di ) guida del missile"
+"adottare un sistema"
+"allarme (sistema di allarme)"
+"analista di sistema"
+"battere il sistema"
+"cambiare sistema di governo"
+"cellula del sistema nervoso"
+"credo, sistema di credenze"
+"del sistema aureo, della valuta aurea"
+"dollar cost averaging (sistema di investimento azionario)"
+"il sistema postale"
+"ingegnere di sistema"
+"nuovo sistema"
+"parità aurea; valuta aurea; sistema aureo"
+"sistema"
+"sistema"
+"sistema"
+"sistema"
+"sistema"
+"sistema"
+"sistema"
+"sistema"
+"sistema"
+"sistema a ciclo chiuso"
+"sistema a colori"
+"sistema a liste"
+"sistema ad acqua"
+"sistema aereo"
+"sistema antincendio"
+"sistema aperto"
+"sistema automatico"
+"sistema aziendale"
+"sistema bancario"
+"sistema binario"
+"sistema bipartitico"
+"sistema bonus"
+"sistema chiuso"
+"sistema circolatorio"
+"sistema culturale"
+"sistema d atterraggio strumentale"
+"sistema d'allarme"
+"sistema d'onda"
+"sistema decimale"
+"sistema dei costi"
+"sistema del liberalismo economico"
+"sistema di acquisto rateale"
+"sistema di allarme"
+"sistema di archiviazione"
+"sistema di assorbimento"
+"sistema di bassa pressione"
+"sistema di blocco"
+"sistema di canali"
+"sistema di canali"
+"sistema di carrucole"
+"sistema di circuiti"
+"sistema di comunicazioni"
+"sistema di conoscenze"
+"sistema di contabilità in uscita"
+"sistema di contatto"
+"sistema di controllo"
+"sistema di controllo ed equilibrio di potere in una organizzazione"
+"sistema di controllo produzione"
+"sistema di coordinate"
+"sistema di dati"
+"sistema di fabbricazione, sistema di produzione"
+"sistema di finanziamento"
+"sistema di governo"
+"sistema di mutuo soccorso tra compagni di una squadra"
+"sistema di protezione"
+"sistema di quote"
+"sistema di raffreddamento"
+"sistema di riduzione"
+"sistema di riferimento"
+"sistema di riscaldamento"
+"sistema di riserva"
+"sistema di scrittura"
+"sistema di selezione"
+"sistema di sicurezza"
+"sistema di simmetria"
+"sistema di sopravvivenza"
+"sistema di valori"
+"sistema di valori"
+"sistema di valutazione a punteggio"
+"sistema di verifica"
+"sistema disco"
+"sistema ecologico necessario alla sopravvivenza"
+"sistema economico"
+"sistema economico"
+"sistema eterogeneo"
+"sistema etico"
+"sistema feudale"
+"sistema immunitario"
+"sistema immunitario"
+"sistema in cui le persone rispettano le regole senza supervisione o sorveglianza"
+"sistema integrato"
+"sistema legale"
+"sistema limbico"
+"sistema lineare"
+"sistema linfatico"
+"sistema meritocratico"
+*[[complesso]], [[organismo]], [[struttura]], [[compagine]], [[insieme]], [[organizzazione]] 
+*[[sistemare]], [[sistema-giustizia]]
+M>systema</E
+M>un s. fisico</E
+M>chimico</E
+M>biologico</E
+M>economico</E
+M>s. solare</E
+M>planetario</E
+M>s. galattico</E
+M>s. locale</E
+M>consideriamo il s. costituito da un pendolo semplice</E
+M>da una carica in moto in un campo magnetico</E
+M>s. meccanico</E
+M>ottico</E
+M>elettromagnetico</E
+M>termodinamico</E
+M>s. conservativi</E
+M>forze conservative</E
+M>energia totale del s.</E
+M>s. dissipativi</E
+M>forze dissipative</E
+M>s. materiale</E
+M>punti materiali</E
+M>equazioni cardinali della dinamica dei s.</E
+M>quantità di moto totale del s.</E
+M>momento angolare del s.</E
+M>s. di forze</E
+M>s. rigido</E
+M>deformabile</E
+M>elastico</E
+M>s. olonomo</E
+M>anolonomo</E
+M>a vincoli privi di attrito</E
+M>s. accelerato</E
+M>oscillante</E
+M>s. isolato</E
+M>non isolato</E
+M>s. isolato</E
+M>s. complesso</E
+M>s. condensato</E
+M>s. eterogeneo</E
+M>polifasico</E
+M>s. omogeneo</E
+M>monofasico</E
+M>s. binario</E
+M>ternario</E
+M>s. ossido-riduttivo</E
+M>s. redox</E
+M>apparato</E
+M>s. reticoloistiocitario</E
+M>S. respiratorio</E
+M>s. digerente</E
+M>s. circolatorio</E
+M>s. nervoso</E
+M>centrale</E
+M>periferico</E
+M>neurovegetativo</E
+M>s. cretacico</E
+M>eocenico</E
+M>s. orografico</E
+M>s. di monti</E
+M>s. montuoso</E
+M>s. alpino</E
+M>s. appenninico</E
+M>s. andino</E
+M>s. mediterraneo</E
+M>s. idrografico</E
+M>s. nuvolosi</E
+M>s. frontale</E
+M>fronti</E
+M>s. di pulegge</E
+M>s. articolati</E
+M>s. ottico</E
+M>s. velico</E
+M>prodiero</E
+M>poppiero</E
+M>s. portante</E
+M>velatura principale</E
+M>s. asservito</E
+M>servosistema</E
+M>s. difensivo</E
+M>s. d&#8217;arma</E
+M>s. di difesa di punto</E
+M>s. bancario</E
+M>creditizio</E
+M>S. monetario</E
+M>S. Monetario Europeo</E
+M>SME</E
+M>s. aureo</E
+M>s. argenteo</E
+M>s. metallico</E
+M>s. monometallico</E
+M>s. bimetallico</E
+M>s. a cambio aureo</E
+M>s. cartaceo</E
+M>s. dei prezzi</E
+M>s. di equazioni</E
+M>soluzione di un s.</E
+M>grado di un s.</E
+M>s. lineare</E
+M>omogeneo</E
+M>s. di assiomi</E
+M>s. di curve</E
+M>s. di superfici</E
+M>s. di coordinate</E
+M>s. di riferimento</E
+M>fissare un s. di misurazione</E
+M>s. di unità di misura</E
+M>s. MKS</E
+M>s. CGS</E
+M>s. internazionale</E
+M>s. metrico decimale</E
+M>s. di calcolo</E
+M>s. informativo</E
+M>s. di elaborazione dei dati</E
+M>scienza dei s</E
+M> ingegneria</E
+M>dei s.</E
+M>s. esperti</E
+M>ogni lingua ha un proprio s. morfologico e sintattico</E
+M>il s. fonematico di una lingua</E
+M>gran s. perfetto</E
+M>s. modale</E
+M>s. tonale</E
+M>s. dodecafonico</E
+M>cola</E
+M>s. distico elegiaco</E
+M>s. saffico</E
+M>minore</E
+M>maggiore</E
+M>s. alcaico</E
+M>s. asclepiadeo</E
+M>primo</E
+M>secondo</E
+M>s. di segni</E
+M>di simboli</E
+M>s. di stenografia</E
+M>s. di numerazione</E
+M>il s. alfabetico</E
+M>s. ideografico</E
+M>pittografico</E
+M>il s. centesimale</E
+M>s. sessagesimale</E
+M>s. periodico degli elementi</E
+M>s. di Mendeleev</E
+M>s. cristallini</E
+M>s. sessuale</E
+M>il s. di Aristotele</E
+M>s. hegeliano</E
+M>s. materialistico</E
+M>il s. geometrico euclideo</E
+M>s. ipotetico deduttivo</E
+M>ridurre una serie di teorie a sistema</E
+M>S. morale</E
+M>tuziorismo</E
+M>probabiliorismo</E
+M>equiprobabilismo</E
+M>probabilismo</E
+M>lassismo</E
+M>s. tolemaico</E
+M>s. copernicano</E
+M>s. sociale</E
+M>politico</E
+M>un s. sociale fondato sulla giustizia</E
+M>il s. feudale</E
+M>s. democratico</E
+M>totalitario</E
+M>s. di governo</E
+M>s. rappresentativo</E
+M>s. monocamerale</E
+M>bicamerale</E
+M>il s. costituzionale inglese</E
+M>s. giudiziario</E
+M>carcerario</E
+M>s. produttivo</E
+M>s. scolastico</E
+M>s. elettorale</E
+M>s. diretto</E
+M>indiretto</E
+M>s. maggioritario</E
+M>s. proporzionale</E
+M>s. misto</E
+M>s. economico</E
+M>s. capitalista</E
+M>s. socialista</E
+M>s. di economia mista</E
+M>s. finanziario</E
+M>s. giuridico</E
+M>s. fiscale</E
+M>tributario</E
+M>s. monetario internazionale</E
+M>il sistema</E
+M>le leggi</E
+M>l&#8217;apparato del s.</E
+M>criticare</E
+M>combattere</E
+M>rifiutare</E
+M>accettare il s.</E
+M>ribellarsi</E
+M>adeguarsi al s.</E
+M>integrarsi nel sistema</E
+M>s. costruttivi</E
+M>sistema di illuminazione</E
+M>i moderni s. di riscaldamento</E
+M>di condizionamento dell&#8217;aria</E
+M>sistemi di irrigazione</E
+M>s. a goccia</E
+M>microirrigazione</E
+M>s. a zampillo</E
+M>s. per aspersione</E
+M>a pioggia</E
+M>avere</E
+M>non avere sistema</E
+M>seguire un s. razionale nell&#8217;insegnamento</E
+M>conoscere</E
+M>adottare un s. pratico</E
+M>sicuro</E
+M>infallibile</E
+M>fare le cose con sistema</E
+M>con un certo sistema</E
+M>avere</E
+M>adottare</E
+M>seguire un s. di vita</E
+M>un bel s.</E
+M>un brutto s. di comportamento</E
+M>un s. di quieto vivere</E
+M> ch&#8217;era costato tant&#8217;anni di studio e di pazienza</E
+M>adottare il s. forte</E
+M>che bel s.!</E
+M>non è questo il s.</E
+M>ti par questo il s.?</E
+M>qui bisogna cambiare sistema</E
+M>avere il s.</E
+M>avere per s.</E
+M>di alzarsi presto la mattina</E
+M>fare una cosa per s.</E
+M>tu lo fai per s. di lasciare tutte le luci accese</E
+M>metodo</E

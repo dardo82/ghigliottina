@@ -1,0 +1,25 @@
+agricolo.txt
+"agricolo"
+"agricolo"
+"agricolo"
+"bracciante agricolo"
+"bracciante agricolo"
+"bracciante agricolo"
+"bracciante agricolo"
+"gruppo di lavoro agricolo"
+"lavoratore agricolo"
+"lavoratore agricolo"
+"lavoratore agricolo"
+"lavoratore agricolo"
+"livello agricolo"
+"manager aziendale agricolo"
+"settore agricolo"
+*[[agrario]]
+*[[agricoltore]], [[agricoltura]]
+M>agric</E
+M>lavori a</E
+M>macchine a</E
+M>attrezzi a</E
+M>azienda a</E
+M>popolazioni a</E
+M>agrario</E

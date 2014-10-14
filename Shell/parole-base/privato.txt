@@ -1,0 +1,155 @@
+privato.txt
+"accordo privato"
+"aereo privato"
+"albergo privato"
+"ambito pubblico e privato"
+"ambulatorio privato"
+"avvocato privato"
+"cambiare a privato"
+"capitale privato; partecipazioni azionarie"
+"collocamento privato"
+"complesso residenziale privato"
+"da un privato"
+"detective privato"
+"diritto internazionale privato"
+"diritto privato"
+"in privato"
+"in privato"
+"in privato"
+"insegnante privato"
+"insegnante privato"
+"investigatore privato"
+"investigatore privato"
+"investigatore privato"
+"pilota privato"
+"policlinico privato"
+"privato"
+"privato"
+"privato"
+"privato"
+"privato (del rango, dell'autorità, ecc.)"
+"privato dei vestiti"
+"privato di"
+"privato di"
+"privato di"
+"privato di"
+"reddito privato"
+"settore privato"
+"spogliato; privato di"
+"studio privato"
+"tenuto privato"
+#*'''vita privata'''
+#*'''diritto privato'''
+*[[personale]]
+*[[pubblico]]
+*[[privatamente]], [[privatezza]], [[privatista]], [[privativo]], [[privatizzare]], [[privazione]]
+*[[privare]]
+M>privatus</E
+M>privare</E
+M>privado</E
+M>privatum</E
+M>essere</E
+M>vivere come</E
+M>un p</E
+M>cittadino</E
+M>un cittadino p</E
+M>una persona p</E
+M>agire</E
+M>comportarsi</E
+M>protestare come p</E
+M>cittadino</E
+M>provvedere alle necessità dei p</E
+M>cittadini</E
+M> ritirarsi a vita p</E
+M>curare i proprî p</E
+M>interessi</E
+M>pubblico</E
+M>proprietà p</E
+M>azienda</E
+M>impresa p</E
+M>società formata per iniziativa p</E
+M>con capitale privato</E
+M>un ente p</E
+M>un’organizzazione p</E
+M>statale</E
+M>nazionale</E
+M>comunale</E
+M>scuole p</E
+M>istituti p</E
+M>l’istruzione p</E
+M>l’insegnamento p</E
+M>un’università p</E
+M>ferrovie p</E
+M>linee aeree p</E
+M>la televisione p</E
+M>le emittenti p</E
+M>un insegnante p</E
+M>lezioni p</E
+M>un poliziotto</E
+M>un investigatore privato</E
+M>diritto p</E
+M>privato</E
+M>un professore di privato</E
+M>preparare l’esame di privato</E
+M>scrittura p</E
+M>atto pubblico</E
+M>documento p</E
+M>chiedere</E
+M>concedere</E
+M>accordare un colloquio p</E
+M>udienza p</E
+M>è stato ricevuto in udienza p</E
+M>dal papa</E
+M>la cerimonia si svolse in forma p</E
+M>strettamente privata</E
+M>riordinare la propria corrispondenza p</E
+M>devo parlarti di una questione p</E
+M>queste sono vostre faccende p</E
+M>e a me non interessano</E
+M>nessuno ha diritto di ficcare il naso nella mia vita p</E
+M>sembra trattarsi di una vendetta p</E
+M>per motivi p</E
+M>conversazione privata</E
+M>personale</E
+M>segretario p</E
+M>segretaria p</E
+M>medico p</E
+M>cameriere p</E
+M>anche ai p</E
+M>è consentito muovere causa contro lo stato</E
+M>l’azienda è gestita da un p</E
+M>è un negozio all’ingrosso che non vende a privati</E
+M>privado</E
+M>viva mill’anni don Gasparo Guzman</E
+M> conte d’ Olivares</E
+M> duca di san Lucar</E
+M> gran p</E
+M>del re don Filippo il grande</E
+M> nostro signore!</E
+M>pubblico</E
+M>politico</E
+M>occorre incentivare la produzione</E
+M> nel pubblico e nel p.</E
+M>un uomo di grande carattere</E
+M> che nel politico e nel p. ha sempre dato prove della sua fermezza</E
+M>rifugiarsi nel privato</E
+M>difendere il proprio p.</E
+M>violare il p. di una persona</E
+M>in privato</E
+M>gli parlerò io in p</E
+M>in p</E
+M>ha spesso manifestato la sua avversione al regime</E
+M>davanti a estranei fa la persona seria</E
+M> ma in p</E
+M>ride e scherza molto volentieri</E
+M>madonna Cicogna</E
+M> voi putite</E
+M>per C mila privati</E
+M>vivere privatamente</E
+M>insegnare privatamente</E
+M>studiare privatamente</E
+M>presentarsi privatamente agli esami</E
+M>ha chiesto di essere ricevuto privatamente dal ministro</E
+M>la cerimonia si è svolta privatamente</E
+M>l’ho saputo</E
+M>me l’ha confidato privatamente</E

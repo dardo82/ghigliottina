@@ -1,0 +1,35 @@
+funzionario.txt
+"alto funzionario"
+"funzionario"
+"funzionario addetto alle cerimonie"
+"funzionario amministrativo"
+"funzionario aziendale"
+"funzionario degli Affari Esteri"
+"funzionario dei servizi segreti"
+"funzionario della pubblica amministrazione"
+"funzionario di banca"
+"funzionario di grado inferiore"
+"funzionario di polizia"
+"funzionario di polizia"
+"funzionario diplomatico"
+"funzionario doganale"
+"funzionario imperiale"
+"funzionario prestiti"
+"funzionario pubblico"
+"funzionario sorvegliante le persone in libertà vigilata"
+"funzionario statale"
+"funzionario statale"
+"funzionario statale"
+"funzionario tecnico commerciale"
+*[[impiegato]], [[burocrate]], [[dirigente]], [[quadro]]
+* impiegato d’ordine
+M>fonctionnaire</E
+M>fonction</E
+M>i f</E
+M>di una grande industria</E
+M>di una casa editrice</E
+M>di banca</E
+M>pubblico</E
+M>funzionario</E
+M>di fatto</E
+M>internazionale</E

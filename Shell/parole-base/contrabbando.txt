@@ -1,0 +1,42 @@
+contrabbando.txt
+"beni di contrabbando, merce di contrabbando"
+"contrabbando"
+"contrabbando di sigarette"
+"di contrabbando"
+"di contrabbando"
+"di contrabbando"
+"distillato di contrabbando"
+M>contra</E
+M>bando</E
+M>fare</E
+M>esercitare il c</E
+M>reprimere</E
+M>combattere</E
+M>stroncare il c</E
+M>di sigarette</E
+M>di droga</E
+M>di preziosi</E
+M>di valuta</E
+M>di contrabbando</E
+M>importare</E
+M>esportare</E
+M>far entrare</E
+M>uscire di c</E
+M>merce di c</E
+M>sigarette di c</E
+M>di c</E
+M>pubblicazioni</E
+M>manifestini rivoluzionarî introdotti di c</E
+M>da oltre confine</E
+M>durante gli esami è riuscito a passare di c</E
+M>a un compagno</E
+M>a far entrare di c</E
+M>da fuori</E
+M>la versione di latino</E
+M>di guerra</E
+M>assoluto</E
+M>relativo</E
+M>condizionato</E
+M>elenco di contrabbando</E
+M>sequestrare</E
+M>confiscare il contrabbando</E

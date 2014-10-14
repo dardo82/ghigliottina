@@ -1,0 +1,56 @@
+accidente.txt
+"accidente"
+"accidente"
+"accidente"
+"accidente"
+"accidente"
+"accidente"
+"accidente"
+"accidente"
+"un accidente"
+"un accidente"
+*[[caso]], [[combinazione]]
+*italiano
+*spagnolo
+M>acc</E
+M>dens</E
+M>entis</E
+M>accid</E
+M>gli a</E
+M>della vita</E
+M>el tempo porta accidenti che ti cavano di queste difficultà</E
+M>ringrazio il bell’a</E
+M>che ha dato occasione a una guerra d’ingegni così graziosa</E
+M>per a</E
+M>di mare</E
+M>cerebro</E
+M>vascolare</E
+M>trasfusionali</E
+M>primario</E
+M>gli è preso un a</E
+M>è morto per un a</E
+M>ti venisse</E
+M>gli pigliasse un a</E
+M>augurare</E
+M>mandare un a</E
+M>accidenti!</E
+M>è un vero a</E
+M>corre come un a</E
+M>quell’a</E
+M>di ragazza!</E
+M>non saperne un a</E
+M>non capirci un a</E
+M>non gliene importa un a</E
+M>determinazione flessionale</E
+M>diesis</E
+M>doppio diesis</E
+M>bemolle</E
+M>doppio bemolle</E
+M>accidenti in chiave</E
+M>bequadro</E
+M>accidenti di luce</E
+M>varî degli uccisi</E
+M>del calpestio</E
+M>della polvere sollevata</E
+M>accidentato</E
+M>accidentaccio</E

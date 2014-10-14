@@ -1,0 +1,30 @@
+annodare.txt
+"annodare"
+"annodare"
+"annodare, allacciare"
+M>nodo</E
+M>inn</E
+M>dare</E
+M>io annòdo</E
+M>due nastri</E
+M>due funi</E
+M>due pezzi di spago</E
+M>le scarpe</E
+M>un filo</E
+M>una fune</E
+M>un nastro</E
+M>ho annodato il fazzoletto per ricordarmi ciò che debbo fare</E
+M>ho fatto un nodo al fazzoletto</E
+M>annodarsi la cravatta</E
+M>la matassa s’è tutta annodata</E
+M>amicizie</E
+M> una relazione con qualcuno</E
+M>la trama</E
+M>l’azione</E
+M>l’intreccio di un romanzo</E
+M>una persona</E
+M>se alcuna ascosa Simpatia t’annoda a lei</E
+M>le parole mi si annodavano in bocca</E
+M>balbettando come se le parole gli si annodassero giù per la gola</E
+M>si era messo sulla testa un fazzoletto rosso annodato sotto il mento</E
+M>annodata</E

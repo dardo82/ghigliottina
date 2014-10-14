@@ -1,0 +1,106 @@
+stampare.txt
+"da stampare"
+"stampare"
+"stampare"
+"stampare, replace: stamparsi"
+"stampare a rilievo"
+*[[pubblicare]] (3)
+*[[imprimere]] (2)
+*[[stamparsi]]
+*[[stampa]]
+*[[stampabile]]
+*[[stampaggio]]
+*[[stampante]]
+*[[stampato]]
+*[[stampatore]]
+*[[stampella]]
+*[[stamperia]]
+*[[stampo]]
+*[[ristampa]]
+*[[ristampare]]
+M>*stampjan</E
+M>*stampôn</E
+M>s. un libro</E
+M>un giornale</E
+M>una rivista</E
+M>tirare</E
+M>in 5000 copie</E
+M>in 50.000 copie</E
+M>s. volantini</E
+M>etichette commerciali</E
+M>manifesti</E
+M>biglietti dell&#8217;autobus</E
+M>s. in tipografia</E
+M>tipograficamente</E
+M>a rotocalco</E
+M>in offset</E
+M>in fototipia</E
+M>una casa editrice che stampa solo opere scientifiche</E
+M>cercare un editore disposto a s. una rivista filosofica</E
+M>s. un nuovo quotidiano</E
+M>s. su un giornale notizie false e tendenziose</E
+M>s. le proprie memorie</E
+M>un romanzo</E
+M>un volumetto di poesie</E
+M>stampano tante bugie nei giornali!</E
+M>se si dovesse credere a tutto ciò che si stampa! ...</E
+M>quante ne hanno stampate sul suo conto!</E
+M>s. alla macchia</E
+M>si stampi</E
+M>al torchio</E
+M>un&#8217;incisione su rame</E
+M>una litografia</E
+M>una serigrafia</E
+M>una xilografia</E
+M>s. in 50</E
+M>in 100 esemplari numerati e firmati</E
+M>s. in bianco e nero</E
+M>a colori</E
+M>s. una carta geografica</E
+M>s. banconote</E
+M>s. cento milioni di nuove banconote</E
+M>s. biglietti di banca falsi</E
+M>è sempre lì a chieder soldi: crede forse che li stampi</E
+M> io?</E
+M>non ho mille euro</E
+M> e non posso mica stamparli!</E
+M>s. una fotografia</E
+M>una pellicola</E
+M>s. in bianco e nero</E
+M>a colori</E
+M>s. a ingrandimento.</E
+M>s. un&#8217;impronta</E
+M>le proprie orme</E
+M>sul terreno bagnato</E
+M>sulla sabbia</E
+M>nella neve</E
+M>gli occhi porto per fuggire intenti Ove vestigio uman l&#8217;arena stampi</E
+M>al Massimo Fattore</E
+M> che volle in lui</E
+M>Del creator suo spirito Più vasta orma stampar</E
+M>s. una dicitura</E
+M>un marchio</E
+M>un disegno</E
+M>sul cartone</E
+M>sul cuoio</E
+M>su una lamina metallica</E
+M>su materie plastiche</E
+M>s. il cartone</E
+M>il cuoio</E
+M>la plastica</E
+M>s. pezzi metallici</E
+M>utensili</E
+M>giocattoli di plastica</E
+M>oggetti di vetro</E
+M>s. un circuito elettrico</E
+M>coniare</E
+M>s. medaglie</E
+M>monete.</E
+M>gli diede uno schiaffo da stampargli sulla guancia tutte le cinque dita della mano</E
+M>gli stampò un bel bacio sulla guancia</E
+M>questa è una massima da stamparsi bene in mente</E
+M>ricordi che si stampano profondamente nel cuore</E
+M>s. bugie</E
+M>fandonie</E
+M>diede in una volta tutte le notizie che aveva stampate a una a una</E
+M> in quelle diverse occorrenze</E

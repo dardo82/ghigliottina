@@ -1,0 +1,77 @@
+batteria.txt
+"a batteria"
+"acido della batteria"
+"batteria"
+"batteria"
+"batteria"
+"batteria"
+"batteria"
+"batteria ausiliaria"
+"batteria B"
+"batteria C"
+"batteria da cucina"
+"batteria elettronica"
+"batteria elettronica"
+"batteria leggera"
+"batteria nichel-cadmio"
+"batteria per apparecchio acustico"
+"batteria secondaria"
+"cavi della batteria"
+"istruttore di batteria; primo batterista"
+"rullante della batteria"
+"scatola batteria"
+"suonare la batteria"
+*''(sport)'' [[qualificazione]], [[eliminatoria]] 
+m>batterie</e
+m>battre</e
+m>someggiate</e
+m>autotrainate</e
+m>semoventi</e
+m>aviotrasportate</e
+m>da campagna</e
+m>da montagna</e
+m>pesanti campali</e
+m>pesanti</e
+m>contraeree</e
+m>controcarro</e
+m>scoprire le proprie b</e
+m>scoprire le b</e
+m>dare fuoco alle b</e
+m>ponte di batteria</e
+m>batteria</e
+m>galleggiante</e
+m>di un orologio</e
+m>suoneria</e
+m>di accumulatori</e
+m>di evaporatori</e
+m>di filtri</e
+m>di riscaldamento</e
+m>raffreddamento</e
+m>umidificazione</e
+m>deumidificazione</e
+m>collegamento in batteria</e
+m>collegamento in serie</e
+m>avere la b</e
+m>scarica</e
+m>ricaricare</e
+m>cambiare la b</e
+m>mettere l&rsquo;acqua distillata nella batteria</e
+m>anodica</e
+m>di accensione</e
+m>apparecchio a b.</e
+m>di griglia</e
+m>solare</e
+m>allevamento in b.</e
+m>cucina</e
+m>di cucina</e
+m>una b</e
+m>di domande</e
+m>d&rsquo;argomenti</e
+m>di citazioni</e
+m>d&rsquo;accuse</e
+m>una b</e
+m>di cani</e
+m>si presentò con tutta la b</e
+m>dei suoi figlioli</e
+m>Accompagnamento a b.</e
+m>d&rsquo;accordi</e

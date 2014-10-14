@@ -1,0 +1,48 @@
+artista.txt
+"artista"
+"artista"
+"artista"
+"artista concettuale"
+"artista creativo"
+"artista della fuga"
+"artista di circo"
+"artista di strada"
+"artista in residenza"
+"artista musicale"
+"artista pop\/artista della pop art"
+"modello dell'artista"
+* [[pittore]], [[scultore]],[[ musicista]], [[poeta]], [[scrittore]], [[attore]] 
+* [[arte]], [[artistico]]
+* [[pittore]], [[scultore]]
+*[[arte]] ''m'' e ''f''
+*italiano
+*spagnolo
+m>artista</e
+m>gli a</e
+m>del Rinascimento</e
+m>gli a. della scuola romana</e
+m>lirico</e
+m>di variet&agrave;</e
+m>gli a</e
+m>della radio</e
+m>della televisione</e
+m>i camerini degli a</e
+m>ingresso riservato agli artisti</e
+m>&egrave; un vero a</e
+m>un grande a</e
+m>un a</e
+m>di genio</e
+m>poeta</e
+m>facolt&agrave; degli a</e
+m>facolt&agrave; delle arti</e
+m>ha un&rsquo;anima d&rsquo;a</e
+m>parla</e
+m>scrive</e
+m>suona da a</e
+m>quel chirurgo &egrave; un a</e
+m>ho trovato un falegname che &egrave; un vero a.</e
+m>questo giovane calciatore &egrave; un a. del pallone</e
+m>la cittadinanza</e
+m>ch&rsquo;&egrave; or mista Di Campi</e
+m>di Certaldo e di Fegghine</e
+m>Pura vediesi ne l&rsquo;ultimo artista</e

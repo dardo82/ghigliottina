@@ -1,0 +1,118 @@
+disegno.txt
+"album da disegno"
+"carta da disegno"
+"disegno"
+"disegno"
+"disegno"
+"disegno"
+"disegno"
+"disegno a carboncino"
+"disegno a mano libera"
+"disegno a matita"
+"disegno artistico"
+"disegno dal vero"
+"disegno di legge"
+"disegno esecutivo"
+"disegno esploso"
+"disegno grafico"
+"disegno in scala"
+"disegno meccanico"
+"fare un disegno"
+"fare un disegno"
+"impegnarsi nel disegno"
+"margine di un disegno"
+"matita da disegno"
+"puntina da disegno"
+"puntina da disegno"
+"tavola da disegno su cavalletti"
+"tavoletta da disegno"
+"tavolo da disegno"
+"tavolo da disegno"
+#* ''[[ha]] fatto un '''disegno''' del suo [[papà]]''
+#* ''studia 
+#* ''ha un 
+#* ''questa [[stoffa]] ha un 
+#* ''il 
+#*'''disegno tecnico'''
+#* ''avevano formulato un 
+#* ''la nostra [[esistenza]] è contemplata nel 
+* (''rappresentazione tramite segni'') [[carboncino]], [[pianta]]
+* (''motivo ornamentale'') [[texture]]
+* (''rappresentazione di qualcosa da costruire'') [[progetto]]
+* [[disegno animato]], [[disegno industriale]], [[disegno tecnico]], [[disegno di analisi]], [[disegno di sintesi]]
+*Enciclopedia [http
+M>a matita</E
+M>a penna</E
+M>a tratto</E
+M>a carboncino</E
+M>a pastello</E
+M>dal vero</E
+M>di fantasia</E
+M>in bianco e nero</E
+M>a colori</E
+M>a mano libera</E
+M>geometrico</E
+M>fare</E
+M>abbozzare</E
+M>tracciare un d</E
+M>colorare un d</E
+M>tavolo da disegno</E
+M>carta da disegno</E
+M>arti del d</E
+M>arti figurative</E
+M>tecnico</E
+M>meccanico</E
+M>architettonico</E
+M>industriale</E
+M>industrial</E
+M>design</E
+M>con il calcolatore</E
+M>plotter</E
+M>CAD</E
+M>animati</E
+M>cartoni animati</E
+M>blocchetti a disegni</E
+M>a cartoni</E
+M>animati</E
+M>di un palazzo</E
+M>ho fatto io stesso il d</E
+M>dei mobili</E
+M>i d</E
+M>di Leonardo</E
+M>del Pollaiolo</E
+M>il d</E
+M>di una battaglia</E
+M>di alcuni particolari del quadro</E
+M>esposizione</E
+M>mostra</E
+M>raccolta di disegni</E
+M>una stoffa con bellissimi d</E
+M>originali</E
+M>il d</E
+M>di una carta da parati</E
+M>avere un d</E
+M>chiaro</E
+M>confuso</E
+M>scorretto</E
+M>studiare</E
+M>insegnare il d</E
+M>esercitarsi nei d</E
+M>avere disposizione per il disegno</E
+M>disegno di analisi</E
+M>di sintesi</E
+M>ho già in mente il d</E
+M>del romanzo nelle sue linee essenziali</E
+M>di manovra</E
+M>i d</E
+M>di Dio sono imperscrutabili</E
+M>questi</E
+M>credo</E
+M>sono d</E
+M>inattuabili</E
+M>avevo fatto tanti d</E
+M>su di lui</E
+M>ha dovuto rinunciare al d</E
+M>di darsi al teatro</E
+M>non è nostro d</E
+M>di far la storia della sua vita claustrale</E
+M>di legge</E

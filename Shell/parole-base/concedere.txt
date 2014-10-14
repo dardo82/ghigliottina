@@ -1,0 +1,61 @@
+concedere.txt
+"concedere"
+"concedere"
+"concedere in piccole porzioni"
+"concedere la cittadinanza"
+"concedere la libertà"
+"concedere la libertà"
+"concedere la pensione"
+"concedere le attenuanti"
+"concedere lo status ufficiale"
+"concedere tempo"
+"concedere un ballo"
+"concedere un visto"
+"concedere una promozione"
+"incline a concedere"
+#*''il capo, senza che io glielo chiedessi, mi '''ha concesso''' una gratifica'' 
+*[[concedersi]]
+M>conced</E
+M>con</E
+M>ced</E
+M>io concèssi</E
+M>concedéi</E
+M>concedètti</E
+M>tu concedésti</E
+M>concèsso</E
+M>conceduto</E
+M>accordare</E
+M>il perdono</E
+M>un sussidio</E
+M>un diritto</E
+M>una proroga</E
+M>c. la grazia a un detenuto</E
+M>c. un aumento dello stipendio</E
+M>concedimi un po’ di tempo per riflettere</E
+M>la conferenza avrà luogo nella sala del circolo Verdi gentilmente concessa</E
+M>concedersi un po’ di riposo</E
+M>qualche giorno di svago</E
+M>concedersi</E
+M>si è concessa al suo amante</E
+M>che</E
+M>maestro</E
+M>or mi concedi Ch’i’ sappia quali sono</E
+M>mi ha concesso di rientrare un’ora più tardi</E
+M>concedo di aver torto</E
+M>devi c</E
+M>di avere esagerato</E
+M>ammettere</E
+M>riconoscere</E
+M>concesso</E
+M>anche concesso che lui riceva la lettera</E
+M>sei sicuro che risponderà?</E
+M>ammesso e non concesso</E
+M>dato e non concesso</E
+M>ammesso e non concesso che ti abbia offeso</E
+M>non avevi diritto di reagire così</E
+M>dato e non concesso che nella luna fusse chi di là potesse rimirar la terra</E
+M>avere</E
+M>al fato</E
+M>se tu vivi</E
+M>o misero</E
+M>Se non concedi al fato</E

@@ -1,0 +1,16 @@
+affumicare.txt
+"Traduzione di affumicare/ non trovata.\nNo translation was found for affumicare/."
+M>gare</E
+M>fumus</E
+M>io affùmico</E
+M>tu affùmichi</E
+M>una stanza</E
+M>il fumo delle torce affumicava il soffitto</E
+M>a. la carne</E
+M>a. il salmone</E
+M>un paiolo affumicato</E
+M>cucina affumicata</E
+M>aringhe affumicate</E
+M>lenti</E
+M>vetri</E
+M>occhiali affumicati</E

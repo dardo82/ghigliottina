@@ -1,0 +1,200 @@
+leggero.txt
+"a cuor leggero"
+"cuor leggero"
+"dispositivo leggero"
+"dragone leggero"
+"essere leggero"
+"incrociatore leggero"
+"leggero"
+"leggero"
+"leggero"
+"leggero"
+"leggero"
+"leggero"
+"leggero"
+"leggero"
+"leggero come l'aria"
+"leggero come una piuma"
+"leggero litigio"
+"leggero rimprovero"
+"leggero vento"
+"motore leggero"
+"olio leggero"
+"pasto leggero"
+"pasto leggero nel tardo pomeriggio che sostituisce la cena"
+"peso leggero"
+"peso massimo leggero"
+"peso medio leggero"
+"peso mosca leggero"
+"più leggero"
+"più leggero dell'aria"
+"pranzo leggero"
+"quadriciclo leggero"
+"sonno leggero"
+"stare leggero"
+"stretto, attillato; accoppiamento forzato leggero"
+"supporto leggero"
+"tessuto leggero"
+"tocco leggero"
+"trasporto leggero"
+"trattamento leggero"
+"vento leggero"
+"verso leggero"
+#*'' era un peso 
+*[[lieve]]
+*[[pesante]]
+M>legier</E
+M>*leviarius</E
+M>vis</E
+M>grave</E
+M>pesante</E
+M>un carico l</E
+M>una cassa l</E
+M>un gas più l</E
+M>dell’aria</E
+M>l’olio è più l</E
+M>dell’acqua</E
+M>come una piuma</E
+M>come una foglia</E
+M>indossare panni l</E
+M>un vestito l</E
+M>esser l</E
+M>sei troppo l</E
+M>per una serata così fresca</E
+M>atomi l</E
+M>elementi l</E
+M>isotopi l</E
+M>leghe l</E
+M>truppe l</E
+M>armate alla leggera</E
+M>armatura l</E
+M>cavalleria l</E
+M>pesi l</E
+M>atletica l</E
+M>pesante</E
+M>Legname l</E
+M>Terreno l</E
+M>pesante</E
+M>cibi l</E
+M>alimenti l</E
+M>pane l</E
+M>pasto l</E
+M>aria l</E
+M>un l</E
+M>mal di testa</E
+M>un l</E
+M>rimprovero</E
+M>una l</E
+M>punizione</E
+M>lavoro l</E
+M>salita l</E
+M>studî l</E
+M>letture l</E
+M>argomenti l</E
+M>musica l</E
+M>essere</E
+M>parer l</E
+M>mi parrà l</E
+M>fare questo sacrificio per te</E
+M>Ché ’l velo è ora ben tanto sottile</E
+M>Certo che ’l trapassar dentro è leggero</E
+M>leggier cosa vi fia comprendere il mio disio</E
+M>colpa</E
+M>mancanza l</E
+M>danno</E
+M>impedimento</E
+M>difficoltà</E
+M>febbre l</E
+M>una l</E
+M>bronchite</E
+M>una l</E
+M>indisposizione</E
+M>si è prodotto qualche l</E
+M>ferita</E
+M>i feriti l</E
+M>i malati più leggeri</E
+M>la spesa è l</E
+M>vi è una l</E
+M>differenza</E
+M>vi sarà un l</E
+M>aumento di prezzo</E
+M>prendere una l</E
+M>dose di bicarbonato</E
+M>praticare una l</E
+M>incisione</E
+M>ha un l</E
+M>difetto di pronuncia</E
+M>parlava italiano con l</E
+M>accento straniero</E
+M>dà una voce leggiera leggiera al pescatore</E
+M>una l</E
+M>pioggia</E
+M>un vento l</E
+M>un l</E
+M>urto</E
+M>una l</E
+M>scossa di terremoto</E
+M>sigaretta l</E
+M>purgante l</E
+M>vino l</E
+M>sonno l</E
+M>un l</E
+M>rumore</E
+M>un leggerissimo scalpiccìo</E
+M>pressione del dito</E
+M>della mano</E
+M>del piede</E
+M>uomo di condizione assai leggiere</E
+M>Con un vasello snelletto e leggiero</E
+M>bastimento l</E
+M>naviglio l</E
+M>essere l</E
+M>a quattrini</E
+M>tenersi l</E
+M>di stomaco</E
+M>sentirsi l</E
+M>è molto l</E
+M>quando balla</E
+M>camminare a passi l</E
+M>avere il passo</E
+M>i movimenti l</E
+M>sì come colui che leggerissimo era</E
+M>prese un salto</E
+M>Una lonza leggiera e presta molto</E
+M>avere la mano l</E
+M>avere il tocco l</E
+M>archi l</E
+M>guglie</E
+M>volute leggere</E
+M>uomo l</E
+M>ragazza l</E
+M>donna l</E
+M>Ché nel mondo mutabile e leggiero Costanza è spesso il varïar pensiero</E
+M>cervello l</E
+M>testolina l</E
+M>A cuor l</E
+M>alla leggera</E
+M>tu prendi le cose troppo alla leggera</E
+M>leggero</E
+M>Leggerissimo</E
+M>leggeróna</E
+M>leggerissimo</E
+M>leggiero</E
+M>leggierménte</E
+M>leggieraménte</E
+M>leggeraménte</E
+M>essere leggermente vestito</E
+M>toccare</E
+M>grattare</E
+M>spalmare leggermente</E
+M>rimase leggermente ferito</E
+M>accennare</E
+M>toccare leggermente di una cosa</E
+M>muoversi</E
+M>camminare leggermente</E
+M>parlare</E
+M>agire</E
+M>comportarsi troppo leggermente</E
+M>a questa quistione si può leggiermente rispondere</E
+M>il che leggiermente creduto fu</E
+M>di leggieri</E

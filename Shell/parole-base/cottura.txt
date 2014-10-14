@@ -1,0 +1,29 @@
+cottura.txt
+"acqua di cottura"
+"angolo cottura"
+"cottura"
+"cottura"
+"pentola per cottura a vapore"
+"piano cottura"
+"termometro di cottura"
+*[[cotta]],  
+M>coct</E
+M>coqu</E
+M>coctus</E
+M>la c</E
+M>della carne</E
+M>del pesce</E
+M>del pane</E
+M>dei legumi</E
+M>dei mattoni</E
+M>della calcina</E
+M>del gesso</E
+M>un’ora di c</E
+M>portare a c</E
+M>a giusto grado di c</E
+M>essere</E
+M>venire a c</E
+M>di prima c</E
+M>essere di prima c</E
+M>angolo cottura</E
+M>sobbollitura</E

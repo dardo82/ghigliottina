@@ -1,0 +1,46 @@
+illuminazione.txt
+"apparecchio d'illuminazione a parete"
+"armatura per illuminazione"
+"illuminazione"
+"illuminazione"
+"illuminazione"
+"illuminazione"
+"illuminazione a incandescenza"
+"illuminazione al neon"
+"illuminazione dall'alto"
+"illuminazione decorativa"
+"illuminazione diretta"
+"illuminazione elettrica"
+"illuminazione fluorescente"
+"illuminazione indiretta"
+"illuminazione interiore"
+"illuminazione teatrale"
+"impianto di illuminazione teatrale"
+"pubblica illuminazione"
+"unità di illuminazione"
+*[[luminosità]],[[chiarore]]
+*[[luce]], apparato di luci, [[luminaria]]
+*[[oscuramento]]
+M>illuminatio </E
+M>onis</E
+M>di una sala</E
+M>di un teatro</E
+M>di una pista</E
+M>di una piazza</E
+M>elettrica</E
+M>al neon</E
+M>a gas</E
+M>pubblica</E
+M>scarsa</E
+M>difettosa</E
+M>della costa</E
+M>questa sera ci sarà l’i</E
+M>in onore del santo patrono</E
+M>la sua mente ebbe una improvvisa i</E
+M>per i</E
+M>divina</E
+M>teoria dell’i</E
+M>in interiore homine</E
+M>regulae</E
+M>intensità d’i</E
+M>illuminamento</E

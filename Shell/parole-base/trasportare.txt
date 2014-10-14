@@ -1,0 +1,63 @@
+trasportare.txt
+"borsa per trasportare fotocamere o altri oggetti tecnologici"
+"farsi coinvolgere, farsi trasportare"
+"farsi trasportare, lasciarsi trasportare, farsi prendere, lasciarsi prendere"
+"lasciarsi trasportare fino a, andare alla deriva, scivolare"
+"lasciarsi trasportare, farsi trasportare"
+"portare, trasportare"
+"prendere e trasportare di fretta"
+"trasportare"
+"trasportare (con il camion)"
+"trasportare con un carro"
+"trasportare con una zattera"
+"trasportare in un secchio"
+"trasportare per chiatta"
+"trasportare per pipeline"
+"trasporto, trasportare"
+M>transportare</E
+M>trans-</E
+M>portare</E
+M>io traspòrto</E
+M>t. le truppe al di là del fiume</E
+M>il traghetto ci trasportò all&#8217;altra riva</E
+M>t. a dorso di mulo una batteria oltre il monte</E
+M>t. un mobile da una stanza all&#8217;altra</E
+M>mi aiuterai a t. le valigie dalla stazione a casa</E
+M>t. un ferito all&#8217;ospedale</E
+M> una salma al cimitero</E
+M>t. a braccia</E
+M>a spalla</E
+M>su un carro</E
+M>con un automezzo</E
+M>per ferrovia</E
+M>per mare</E
+M>con una nave</E
+M>per aereo</E
+M>i semi vengono trasportati dal vento</E
+M>la capitale fu trasportata da Firenze a Roma</E
+M>Già m&#8217;avean trasportato i lenti passi Dentro a la selva antica</E
+M>comandato a tutta la sua famiglia che solo il lasciassero per più poter pensare a suo piacere</E
+M> piede innanzi piè se medesimo trasportò pensando infino nella pigneta</E
+M>il poeta ci trasporta in un clima di alta drammaticità</E
+M>trasportarsi col pensiero in luoghi e tempi lontani</E
+M>il fiume in piena trasportava a valle tronchi</E
+M> cespugli e animali morti</E
+M>la corrente li trasportò lontano dalla riva</E
+M>foglie trasportate da turbini di vento</E
+M>farsi t. dalla brezza</E
+M>Sì possente è &#8217;l voler che mi trasporta</E
+M>lasciarsi trasportare</E
+M>si lasciò t. dall&#8217;ira</E
+M>dallo sdegno</E
+M>dal risentimento</E
+M>dalla pietà</E
+M>dalla commozione</E
+M>dalla passione</E
+M>dalla generosità.</E
+M>t. uno o più termini da un membro all&#8217;altro di un&#8217;equazione</E
+M>t. un disegno</E
+M>un testo</E
+M>i poemi di Omero trasportati in versi italiani</E
+M>la persona trasportata</E
+M>il trasportato</E
+M>estendere l&#8217;assicurazione per la responsabilità civile ai trasportati</E

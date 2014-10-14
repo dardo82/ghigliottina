@@ -1,0 +1,42 @@
+tono.txt
+"cadere; calare di tono"
+"che diminuisce; che cala di tono"
+"con tono nasale"
+"controllo del tono"
+"dare il tono"
+"darsi un tono"
+"detto con tono serio"
+"di tono acuto"
+"di tono acuto"
+"diminuendo; calando di tono"
+"impostato a tono alto"
+"in tono"
+"in tono di scusa"
+"in tono sarcastico"
+"in tono scherzoso"
+"moderare il tono"
+"moderato di tono"
+"qualità del tono"
+"tono"
+"tono"
+"tono"
+"tono"
+"tono basso"
+"tono continuo"
+"tono della voce"
+"tono di colore"
+"tono moderato"
+"tono più alto"
+"tono su tono"
+*[[sottotono]]
+*italiano
+M>àtono</E
+M> barìtono</E
+M> parossìtono</E
+M>isòtono</E
+M>tono</E
+M>tono</E
+M>elettròtono</E
+M>elettrotòno</E
+M> oftalmòtono</E
+M>oftalmotòno</E

@@ -1,0 +1,56 @@
+sportello.txt
+"servizi di sportello"
+"sportello"
+"sportello"
+"sportello"
+"sportello"
+"sportello bancario"
+"sportello bancomat (Brit.)"
+"sportello telematico"
+"sportello utenti"
+* (di veicolo) [[portiera]], [[portello]]
+*(di portone) [[porticina]], [[apertura]]
+*[[biglietteria]], [[botteghino]], [[finestrino]], [[guardiola]]
+*[[sportellista]]
+*''sportello automatico''
+M>porta</E
+M>portello</E
+M>lo s. di un soppalco</E
+M>di un ripostiglio</E
+M>un armadio</E
+M>una libreria</E
+M>una madia a due s.</E
+M>a tre s.</E
+M>lo s. blindato delle cassette di sicurezza</E
+M>gli s. a chiusura ermetica di un ambiente pressurizzato; ha lasciato aperto lo s. della gabbia e il canarino è volato via.</E
+M>porta</E
+M>portiera</E
+M>portello</E
+M>gli s. di una vettura ferroviaria</E
+M>di un&#8217;auto</E
+M>di una carrozza</E
+M>di un aereo</E
+M>lo s. di carico di un battello</E
+M>di un autocarro</E
+M>trittico</E
+M>dipinto sportellato</E
+M>sportellista</E
+M>gli s. della banca</E
+M>di un ufficio postale</E
+M>dell&#8217;anagrafe</E
+M>presentarsi allo s.</E
+M>fare la coda davanti allo s. dei conti correnti</E
+M>i certificati elettorali si rilasciano allo s. numero 9</E
+M>servizio</E
+M>servizî di sportello</E
+M>operatore di sportello</E
+M>sportellista.</E
+M>gli s. aprono alle 8 e chiudono alle 13</E
+M>chiudere gli s.</E
+M>s. scuola</E
+M>s. di recupero</E
+M>s. automatico</E
+M>S. bancario</E
+M>nell&#8217;ultimo decennio si è registrato un enorme aumento di s. bancarî.</E
+M>compensazione di sportello</E
+M>sportello</E

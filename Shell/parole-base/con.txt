@@ -1,0 +1,136 @@
+con.txt
+"(essere) amico con"
+"a casa con"
+"a livello con"
+"a noleggio con diritto di riscatto"
+"a proprio agio con"
+"a proprio agio con"
+"a proprio agio con"
+"a stretto contatto con"
+"in very close contact with"
+"a\/con ruote"
+"abbondare con"
+"abbordare qcn, attaccare discorso con qcn"
+"abbracciarsi con passione"
+"accapigliarsi con"
+"acciaio con alta percentuale di carbon fossile"
+"accogliere con entusiasmo"
+"accogliere con fischi"
+"accompagnare con la mano"
+"accompagnarsi con, accompagnarsi a"
+"acconsentire con riluttanza"
+"accoppiare a, associare con"
+"accoppiato con"
+"affaticare gli occhi con la lettura"
+"agire con"
+"agire con"
+"agire con riguardo a"
+"aiutarsi con; fidarsi di"
+"al passo con"
+"Al passo con i tempi..."
+"all'unisono con"
+"alla cui guida, con a capo"
+"allearsi con"
+"allearsi con"
+"amico intimo di, in confidenza con"
+"andarci piano (con qcn.); essere gentili"
+"andarci piano con"
+"andarci piano con"
+"andarci piano con qc, prendere qc con le molle, non calcare troppo la mano con qc"
+"andare a letto con"
+"andare a letto con"
+"andare a letto con"
+"andare a letto con (sessualmente)"
+"Andare a letto con le galline"
+"SecondTranslation"
+"andare a letto con qcn"
+"slang UK: incontro casuale"
+"andare a letto con tutti"
+"andare con"
+"andare con; intonarsi con"
+"andare d'accordo con"
+"andare d'accordo con qcn."
+"andare d'accordo con qcn."
+"andare d'accordo con qcn."
+"andare d'accordo con qcn.; lavorare bene con qcn."
+"andare di pari passo con qcs"
+"andare mano nella mano con"
+"andare su e giù con agitazione"
+"andare via con qc"
+"anello con diamanti"
+"anello con sigillo"
+"animale con corna mozze"
+"annunciare con gran fanfara"
+"appartamento a piano terra con accesso a un giardino"
+"appoggiare a parole qcs, essere d'accordo a parole con qcs"
+"arrampicarsi con difficoltà"
+"arrampicarsi con fatica"
+"arrangiarsi con quello che c'è"
+"arredare con un letto"
+"arrivare ad un accordo con"
+"articoli di successo; che si vendono con rapidità"
+"asciugare con il phon"
+"asciugato con asciugacapelli"
+"aspettare con calma"
+"aspettare qualcosa con calma"
+"assalto con rapina"
+"assegnare in eredità con vincolo inalienabile"
+"associato con, collegato con"
+"attaccare con una raffica di parole"
+"attaccare discorso con qualcuno"
+"attacco (con colpi)"
+"attacco con gas tossici"
+"attento con i soldi"
+"attrezzata con vele quadre"
+"autocaro con piattaforma telescopica"
+"autocarro con scala"
+"automobile con portellone posteriore, automobile a tre\/cinque porte"
+"avanti con gli anni"
+"avanti con gli anni"
+"avanti con gli anni"
+"aver finito con"
+"avercela con"
+"avercela con qc, avere il dente avvelenato con qc"
+"avercela con qualcuno"
+"avere a che fare con"
+"avere familiarità con"
+"to be conversant with"
+"avere familiarità con"
+"avere molto a che fare con"
+"avere pazienza con"
+"avere pazienza con qualcuno"
+"avere rapporti con qcn."
+"avere un colloquio con"
+"avere un colpo di fortuna; farcela con la sola fortuna"
+"avere un conto con"
+#*''Vado a scuola '''con''' Marco''
+#*''Vado a scuola '''con''' l'autobus''
+#*''Vado a scuola '''con''' gioia''
+#*''Portava una maglietta '''con''' un teschio''
+#*'''''Col''' tempo che c'è non si può fare niente''
+#*'''''Con''' tutta la mia buona volontà, non sono riuscito a convincerla'' 
+*[[senza]]
+*[[collo]], [[colla]], [[col]], [[coi]], [[cogli]], [[colle]]
+M>con</E
+M>cum</E
+M>consorte</E
+M>condiscepolo</E
+M>concorrere</E
+M>condensare</E
+M>consors</E
+M>condiscip</E
+M>lus</E
+M>concurr</E
+M>condensare</E
+M>concittadino</E
+M>concentrare</E
+M>condemnare</E
+M>damnare</E
+M>consecrare</E
+M>sacer</E
+M>com</E
+M>commensale</E
+M>combaciare</E
+M>compaesano</E
+M>collaborare</E
+M>corresponsabile</E

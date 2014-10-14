@@ -1,0 +1,71 @@
+antenna.txt
+"antenna"
+"antenna"
+"antenna"
+"antenna"
+"antenna a dipolo"
+"dipole antenna"
+"antenna a telaio"
+"loop antenna"
+"antenna direzionale"
+"directional antenna"
+"antenna mobile"
+"mobile antenna"
+"antenna omnidirezionale"
+"omnidirectional antenna"
+"antenna parabolica"
+"antenna"
+"antenna parabolica"
+"antenna radar"
+"radar antenna"
+"antenna radio"
+"radio antenna"
+"antenna ricevente"
+"receiving antenna"
+"antenna televisiva da interni a due punte"
+"antenna trasmittente"
+"transmitting antenna"
+"commutatore di antenna"
+"antenna switch"
+"configurazione di un'antenna"
+#* '''''antenna''' radiofonica'', '''''antenna''' televisiva'', '''''antenna''' parabolica''
+#* '''''antenna''' [[centralizzato|centralizzata]]''
+#* ''è una delle '''antenne''' più apprezzate''
+*[[antennista]], [[antennale]]
+*''drizzare le '''antenne'''''
+m>antenna</e
+m>carro</e
+m>penna</e
+m>E se il piloto ti drizzò l&rsquo;antenna Oltre l&rsquo;isole egèe</e
+m>il cozzar di mille antenne Ne la sala del banchetto</e
+m>trasmittente</e
+m>ricevente</e
+m>a. ricetrasmittente</e
+m>linea</e
+m>d&rsquo;alimentazione</e
+m>d&rsquo;antenna</e
+m>televisiva</e
+m>direttiva</e
+m>direzionale</e
+m>collettiva</e
+m>centralizzate</e
+m>interna</e
+m>incorporata</e
+m>a. parabolica</e
+m>antenne</e
+m>drizzare</e
+m>rizzare le a</e
+m>essere</e
+m>stare con le a</e
+m>ritte</e
+m>appena sente parlare di un buon affare</e
+m>lui drizza subito le a</e
+m>è un giornalista attentissimo</e
+m>sempre con le a</e
+m>ritte a captare le notizie più interessanti</e
+m>eccola lì</e
+m>quella curiosona</e
+m>con le a</e
+m>ritte per ascoltare i fatti degli altri</e
+m>avere le a</e
+m>sensibili</e

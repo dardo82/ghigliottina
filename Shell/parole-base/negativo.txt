@@ -1,0 +1,108 @@
+negativo.txt
+"atteggiamento negativo"
+"batterio gram-negativo"
+"elemento negativo"
+"gram negativo"
+"impatto negativo"
+"in caso negativo"
+"ione negativo"
+"lato negativo"
+"negativo"
+"negativo"
+"negativo"
+"negativo"
+"negativo"
+"negativo"
+"negativo a massa"
+"pesare in modo negativo"
+"rafforzamento negativo"
+"rinforzo negativo"
+"rispondere in negativo"
+"saldo negativo"
+"segno negativo"
+*[[contrario]], [[sfavorevole]], [[ostile]]
+*[[negativa]]
+*[[negativamente]]
+M>negativus</E
+M>negare</E
+M>affermativo</E
+M>risposta n</E
+M>dare</E
+M>opporre una risposta n</E
+M>essere di parere</E
+M>esprimere un parere</E
+M>restare</E
+M> tenersi sulla n</E
+M>mantenersi negativo</E
+M>particella n</E
+M>avverbî n</E
+M>non</E
+M>proposizione n</E
+M>giudizio n</E
+M>argomento n</E
+M>Teologia n</E
+M>apofatica</E
+M>positivo</E
+M>dare</E
+M>esprimere un giudizio n</E
+M>una critica n</E
+M>una critica esclusivamente n</E
+M>queste sono tutte qualità n</E
+M>per l’attività che dovrà svolgere</E
+M>ha visto soltanto i lati n</E
+M>della faccenda</E
+M>agire in senso n</E
+M>esito</E
+M>risultato n</E
+M>le analisi hanno dato esito n</E
+M>esame radiologico</E
+M>batteriologico</E
+M>sierologico n</E
+M>reazione di Wassermann n</E
+M>Wassermann negativa</E
+M>siero</E
+M>negativo</E
+M>positivo</E
+M>gram</E
+M>negativa</E
+M>catalizzatore n</E
+M>elementi n</E
+M>elettrodo n</E
+M>ione n</E
+M>radicale n</E
+M>radicale acido</E
+M>elettricità n.</E
+M>elettricità resinosa</E
+M>elettricità positiva</E
+M>vitrea</E
+M>cariche elettriche n.</E
+M>positive</E
+M>particelle elementari n.</E
+M>positive</E
+M>positivo</E
+M>negativo</E
+M>numero n</E
+M>positivi</E
+M>verso positivo</E
+M>verso n</E
+M>faccia positiva</E
+M>negativa</E
+M>valori n</E
+M>positivi</E
+M>immagine n</E
+M>la negativa</E
+M>il negativo</E
+M>negative</E
+M>lente n</E
+M>lente divergente</E
+M>aree n</E
+M>strutture n</E
+M>vulcano n</E
+M>negative</E
+M>affermativo</E
+M>rispondere</E
+M>pronunciarsi</E
+M>esprimersi negativamente</E
+M>influenzare</E
+M>condizionare negativamente</E
+M>ha risposto negativamente alle speranze fondate su di lui</E

@@ -1,0 +1,118 @@
+civile.txt
+"abito civile"
+"assicurazione di responsabilità civile"
+"causa civile"
+"cerimonia civile"
+"civile"
+"civile"
+"civile"
+"civile"
+"civile"
+"civile abitazione"
+"codice civile"
+"costituirsi parte civile"
+"disobbedienza civile"
+"disordine civile"
+"genio civile"
+"guerra civile"
+"impegno civile"
+"in modo civile, civilmente"
+"ingegnere civile"
+"ingegnere civile"
+"ingegneria civile"
+"ingegneria civile"
+"intonacato al civile"
+"invalidità civile"
+"invalido civile"
+"legge civile"
+"libertà civile"
+"matrimonio civile"
+"matrimonio civile"
+"ordinamento giurisdizionale civile"
+"protezione civile"
+"servizio civile"
+"società civile, gente comune"
+"stato civile"
+"tribunale civile"
+"tribunale civile"
+"ufficiale di stato civile"
+M>civilis</E
+M>civis</E
+M>diritto c</E
+M>codice c</E
+M>responsabilità c</E
+M>codice di procedura c</E
+M>diritti c</E
+M>stato c</E
+M>Ufficio dello stato c</E
+M>stato c</E
+M>registri dello stato c</E
+M>stato c</E
+M>di una persona</E
+M>morte c</E
+M>virtù civili</E
+M>coraggio c</E
+M>bisogna avere il coraggio c</E
+M>di sostenere le proprie opinioni</E
+M>medaglia al valore civile</E
+M>Guerra c</E
+M>discordia c</E
+M>odio c</E
+M>guerre c</E
+M>educazione c</E
+M>letteratura c</E
+M>poesia c</E
+M>militare</E
+M>religioso</E
+M>ecclesiastico</E
+M>penale</E
+M>le autorità c</E
+M>il potere c</E
+M>uffici c</E
+M>architettura c</E
+M>ingegnere c</E
+M>Genio c</E
+M>abitazioni c</E
+M>case di c</E
+M>abitazione</E
+M>rurali</E
+M>festa</E
+M>solennità c</E
+M>religiosa</E
+M>funerale c</E
+M>matrimonio c</E
+M>valido ai soli effetti c</E
+M>anno c</E
+M>frutti c</E
+M>frutti naturali</E
+M>nella vita c</E
+M>i c</E
+M>intonaco c</E
+M>rustico</E
+M>civile</E
+M>appartenere a famiglia c</E
+M>una persona c</E
+M>ricordatevi che è un galantuomo</E
+M>un giovine c</E
+M>maniere</E
+M>costumi c</E
+M>da persona c</E
+M>abito c</E
+M>civili</E
+M>barbaro</E
+M>primitivo</E
+M>popolo c</E
+M>nazione civilissima</E
+M>condotta</E
+M>azione</E
+M>indegna di uomini c</E
+M>Atene e Lacedemona</E
+M>che fenno L’antiche leggi e furon sì c</E
+M>tutto che al mondo è civile</E
+M>Grande</E
+M>augusto</E
+M>egli è romano ancora</E
+M>il progresso c</E
+M>delle nazioni</E
+M>contribuire al proprio rinnovamento c</E
+M>un popolo che ha dato prova di grande maturità civile</E

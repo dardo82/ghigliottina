@@ -1,0 +1,34 @@
+emergenza.txt
+"comando di emergenza"
+"corsia d'emergenza"
+"d'emergenza"
+"emergenza"
+"emergenza"
+"emergenza nazionale"
+"freno di emergenza"
+"interruttore di emergenza"
+"lampeggiatore d'emergenza"
+"luce di emergenza"
+"operazione di emergenza"
+*[[pericolo]], [[difficoltà]]; [[necessità]]; [[urgenza]]
+*[[emergenziale]], [[emergere]]
+*[[affioramento]], [[sporgenza]], 
+M>e. storiche</E
+M>documentarie</E
+M>la congiuntura de’ tempi e delle e</E
+M>emergency</E
+M>stato di emergenza</E
+M>stato di pericolo pubblico</E
+M>avere un’e.</E
+M>essere</E
+M>trovarsi in una situazione di e</E
+M> intervenire solo in caso di e.</E
+M>formare un governo di e</E
+M>adottare provvedimenti di e</E
+M>cercare un rimedio d’emergenza.</E
+M>Freno</E
+M>dispositivo di e</E
+M>E. umanitaria</E
+M>e. droga</E
+M>e. mafia</E
+M>e. occupazione</E

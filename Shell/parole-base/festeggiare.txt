@@ -1,0 +1,22 @@
+festeggiare.txt
+"festeggiare"
+"festeggiare"
+"festeggiare il Natale"
+*[[festa]], [[festeggiamento]], [[festeggiato]], [[festeggiatore]]
+M>io festéggio</E
+M>una ricorrenza</E
+M>una solennità</E
+M>la vittoria</E
+M>l’onomastico</E
+M>il compleanno di un familiare</E
+M>la promozione all’esame</E
+M>una persona</E
+M>un illustre personaggio</E
+M>gli sposi</E
+M>un amico</E
+M>l’ospite fu molto festeggiato al suo arrivo</E
+M>e preso Filocolo per la mano</E
+M>tornarono a festeggiare</E
+M>brindare all’ospite festeggiato</E
+M>in onore del festeggiato</E
+M>della festeggiata</E

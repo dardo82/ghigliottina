@@ -1,0 +1,4 @@
+sfasciare.txt
+"sfasciare"
+"sfasciare"
+"sfasciare, replace: sfasciarsi"

@@ -1,0 +1,20 @@
+canarino.txt
+"canarino"
+"canarino"
+"giallo canarino"
+"giallo canarino"
+"giallo canarino"
+* (''di colore giallo'') [[giallino]]
+* (''uccello'') [[canario]], [[canaria]]
+* [[canerino]]
+* [[gabbia]], [[mangime]], [[miglio]]
+*''(ornitologia)'' [[uccello]]
+*italiano
+M>Serinus canarius</E
+M>mangiare quanto</E
+M>come un c</E
+M>una maglia color c</E
+M>giallo c.</E
+M>un vestito c</E
+M>guanti canarino</E
+M>guanti canarini</E

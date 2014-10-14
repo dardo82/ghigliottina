@@ -1,0 +1,61 @@
+tennis.txt
+"campo da tennis"
+"tennis court"
+"campo da tennis"
+"tennis court"
+"campo da tennis in terra battuta"
+"tennis"
+"campo da tennis sull'erba"
+"giocatore di tennis da tavolo, giocatore di ping pong"
+"table tennis player"
+"gioco del tennis"
+"tennis play"
+"paddle tennis"
+"paddle tennis"
+"palla corta (tennis)"
+"pallina da tennis"
+"tennis ball"
+"pallina da tennis"
+"tennis ball"
+"panna liquida; doppio misto (tennis)"
+"quaranta pari (tennis)"
+"racchetta da tennis"
+"tennis racket"
+"scarpa da tennis"
+"tennis shoe"
+"scarpe da tennis"
+"tennis shoes"
+"tennis"
+"tennis"
+"tennis da tavolo"
+"table tennis"
+"tennis da tavolo, ping pong"
+"table tennis"
+"tennis su prato"
+"lawn tennis"
+"vantaggio (tennis)"
+M>tennis</E
+M>tènis</E
+M>lawn tennis</E
+M>lawn</E
+M>tennis</E
+M>tenes</E
+M>tenez</E
+M>singolare</E
+M>doppio</E
+M>racchetta</E
+M>set</E
+M>games</E
+M>tie-break</E
+M>giocare a t.</E
+M>una partita di t.</E
+M>campo di</E
+M>tennis</E
+M>l&#8217;albergo ha la piscina e il tennis</E
+M>palle</E
+M> racchetta da t.</E
+M>scarpe da t.</E
+M>T. da tavolo</E
+M>tennis tavolo</E
+M>tennistavolo</E
+M>ping-pong</E

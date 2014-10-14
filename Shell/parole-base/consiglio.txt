@@ -1,0 +1,168 @@
+consiglio.txt
+"amministrazione, consiglio di amministrazione"
+"camera di consiglio"
+"chiedere consiglio"
+"consiglio"
+"consiglio"
+"consiglio"
+"consiglio cittadino"
+"consiglio commerciale"
+"consiglio comunale"
+"consiglio comunale"
+"consiglio comunale"
+"consiglio comunitario"
+"consiglio d'amministrazione"
+"consiglio d'istituto"
+"consiglio dei ministri"
+"Consiglio della Corona"
+"consiglio di amministratori fiduciari"
+"consiglio di amministrazione"
+"consiglio di amministrazione"
+"consiglio di amministrazione locale"
+"consiglio di consulenza"
+"consiglio di contea"
+"consiglio di contea"
+"consiglio di guerra"
+"consiglio di guerra"
+"consiglio di sicurezza"
+"Consiglio di sicurezza"
+"Consiglio di sicurezza delle Nazioni Unite"
+"consiglio di stato"
+"consiglio distrettuale"
+"consiglio ecclesiastico"
+"consiglio esecutivo"
+"consiglio legislativo"
+"consiglio parrocchiale"
+"consiglio pastorale"
+"consiglio scolastico"
+"Consiglio spassionato"
+"consiglio territoriale"
+"consiglio tribù pellirosse"
+"dare consiglio"
+"del consiglio cittadino"
+"dietro consiglio di"
+"gran consiglio"
+"il consiglio"
+"in consiglio"
+"la notte porta consiglio"
+"membri del consiglio di facoltà"
+"membro del consiglio"
+"nel consiglio"
+"ogni consiglio è ben accetto."
+"presidente del consiglio"
+"presidente del consiglio di amministrazione"
+"presidente del consiglio di amministrazione"
+"presidenza del consiglio dei ministri"
+"sala del consiglio"
+"sala di consiglio"
+"seguire il consiglio"
+"seguire un consiglio"
+"tavolo del consiglio"
+"tenere un consiglio"
+#* ''consiglio comunale''
+*[[suggerimento]], [[parere]], [[avvertimento]], [[esortazione]], [[incitamento]], [[deliberazione]], [[scelta]], [[riunione]], [[assemblea]], [[adunanza]] [[collegio]], [[consulta]], [[opinione]], [[punto di vista]], [[ponderazione]], [[proposta]], [[avvertenza]], [[avviso]],  [[consulenza]],                
+*[[ammonimento]], [[ammaestramento]], [[riflessione]], [[meditazione]], [[avvedutezza]], [[senno]], [[consultazione]]
+* ''venire a più miti '''consigli'''''
+M>cons</E
+M>lium</E
+M>consul</E
+M>dare</E
+M>porgere un c</E
+M>chiedere c</E
+M>ascoltare i c</E
+M>dar retta ai c</E
+M>altrui</E
+M>disprezzare i c</E
+M>ricevuti</E
+M>non accetta consigli da nessuno</E
+M>un saggio c</E
+M>autorevole</E
+M>un c</E
+M>spassionato</E
+M>disinteressato</E
+M>un c</E
+M>da amico</E
+M>non richiesto</E
+M>inganno manifesto</E
+M>seguire il c</E
+M>del medico</E
+M>ricorrere al c</E
+M>di un legale</E
+M>per c</E
+M>dietro c</E
+M>di qualcuno</E
+M>prendere c</E
+M>da qualcuno</E
+M>prendere c</E
+M>dalle circostanze</E
+M>dal momento</E
+M>la notte porta consiglio</E
+M>evangelici</E
+M>se vuoi un c</E
+M>tienti alla larga da quella cricca!</E
+M>ti do un c.: non rimettere più piede qui dentro</E
+M>Molti han giustizia in cuore</E
+M>e tardi scocca Per non venir sanza consiglio a l’arco</E
+M>dopo maturo consiglio</E
+M>di vecchia età consiglio</E
+M>persona piena di consiglio</E
+M>priva di consiglio</E
+M>dono del c</E
+M>se pur sorge di morir c</E
+M>prendere c</E
+M>fare</E
+M>formare c</E
+M>bene ogni cosa compresa</E
+M>formò il suo c.</E
+M>mutare c</E
+M>con improvviso c</E
+M>ridurre a miglior c</E
+M>a più miti c</E
+M>veloce</E
+M>pentimento tardo</E
+M>di Dio</E
+M>l’eterno c</E
+M>impenetrabilità del c</E
+M>divino</E
+M>Vergine madre</E
+M>Termine fisso d’etterno c</E
+M>i destinati eventi Move arcano c</E
+M>Certo senza de’ numi alto consiglio Non è</E
+M>fare</E
+M>tenere consiglio</E
+M>sedere a consiglio</E
+M>riunirsi in consiglio</E
+M>di stato</E
+M>superiori</E
+M>superiore della pubblica istruzione</E
+M>nazionale della pubblica istruzione</E
+M>universitario nazionale</E
+M>superiore di sanità</E
+M>superiore della magistratura</E
+M>di presidenza</E
+M>d’istituto</E
+M>di classe</E
+M>di circolo</E
+M>Consiglio dei ministri</E
+M>regionali</E
+M>provinciali</E
+M>comunali</E
+M>d’amministrazione</E
+M>nazionale</E
+M>Gran Consiglio</E
+M>di fabbrica</E
+M>di gestione</E
+M>nazionale delle ricerche</E
+M>C.N.R.</E
+M>nazionale dell’economia e del lavoro</E
+M>CNEL</E
+M>d’Europa</E
+M>di sicurezza</E
+M>sovrano</E
+M>regio</E
+M>Conseil du roi</E
+M>di coscienza</E
+M>Conseil de conscience</E
+M>dei Cinquecento</E
+M>consiglio generale</E
+M>dei Dieci</E

@@ -1,0 +1,46 @@
+officina.txt
+"officina"
+"officina del gas"
+"officina di produzione"
+"officina elettrica"
+"officina meccanica"
+"officina, stabilimento"
+"proprietario di un'officina"
+#* ''ho portato l'auto in '''officina'''''
+*[[fabbrica]], [[stabilimento]], [[opificio]], [[cantiere]]
+* [[fucina]],  [[officinale]]
+M>officina</E
+M>opificina</E
+M>fex</E
+M>opus</E
+M>ris</E
+M>fac</E
+M>meccanica</E
+M>metallurgica</E
+M>elettromeccanica</E
+M>automobilistica</E
+M>ferroviaria</E
+M>aeronautica</E
+M>di elettrauto</E
+M>Officine Galileo</E
+M>aeronavali di Venezia</E
+M>grafiche Arnoldo Mondadori</E
+M>del falegname</E
+M>del vetraio</E
+M>del vasaio</E
+M>tipografica</E
+M>litografica</E
+M>officinale</E
+M>scrittorie</E
+M>teatrale</E
+M>l’o</E
+M>del poeta</E
+M>fucina</E
+M>campale</E
+M>mobile</E
+M>mista</E
+M>nave o</E
+M>Officina carte</E
+M>valori</E
+M>litica</E
+M>loggia</E

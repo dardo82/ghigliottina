@@ -1,0 +1,26 @@
+serva.txt
+"fare i conti della serva"
+"serva"
+"servant, servant girl, maidservant"
+"serva"
+"serva"
+M>serva</E
+M>servo</E
+M>domestica</E
+M> lavoratrice domestica</E
+M> governante</E
+M>collaboratrice familiare</E
+M> colf</E
+M>essere pettegola come una s.</E
+M>sei proprio una s.</E
+M>talvolta mio fratello è curioso come una s.</E
+M>è una vera s.</E
+M>non sono mica il figlio della s.!</E
+M>e chi sono io</E
+M> il figlio della s.?</E
+M>serva padrona</E
+M>Serve di Gesù Cristo</E
+M>Serve di Gesù Cristo della carità</E
+M>Serve di Gesù sacramentato</E
+M>Serve di Maria ministre degli infermi</E
+M>Serve del Sacro Cuore di Gesù e dei poveri</E

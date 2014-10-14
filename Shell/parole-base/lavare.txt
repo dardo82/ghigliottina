@@ -1,0 +1,113 @@
+lavare.txt
+"lavare"
+"lavare"
+"lavare"
+"lavare, replace: lavarsi"
+"lavare i panni sporchi in casa"
+"lavare i panni sporchi in casa propria"
+"lavare i piatti"
+"lavare i piatti"
+"lavare i piatti"
+"lavare i piatti dopo un pasto"
+"lavare i piatti dopo un pasto"
+"lavare il cervello"
+"lavare in acqua calda"
+"lavare via"
+*[[lavamento]]
+M>lavare</E
+M>i panni sporchi</E
+M>la biancheria</E
+M>le lenzuola</E
+M>piatti</E
+M>i bicchieri</E
+M>le posate</E
+M>i pavimenti</E
+M>le scale</E
+M>i vetri</E
+M>l’insalata</E
+M>la frutta</E
+M>la carne</E
+M>il pesce</E
+M>con acqua e sapone</E
+M>con acqua fredda</E
+M>calda</E
+M>con la spugna</E
+M>col detersivo</E
+M>nel lavandino</E
+M>nella vasca</E
+M>ai lavatoi pubblici</E
+M>a mano</E
+M>con la lavatrice</E
+M>con la lavastoviglie</E
+M>in lavatrice</E
+M> in lavastoviglie</E
+M>far l</E
+M>l’auto alla stazione di servizio</E
+M>è venuto giù uno scroscio di pioggia che ha lavato tutte le strade</E
+M>in casa</E
+M>dare a l</E
+M>fuori</E
+M>ho lavato tutta la mattina</E
+M>a secco</E
+M>a umido</E
+M>il bambino</E
+M>il malato</E
+M>una ferita</E
+M>far l</E
+M>il cane</E
+M>la testa</E
+M>i piedini al bambino</E
+M>mi puoi l</E
+M>la schiena?</E
+M>lavarsi le mani</E
+M>la faccia</E
+M>il collo</E
+M>le estremità</E
+M>lavarsi i denti</E
+M>lavarsi la testa</E
+M>i capelli</E
+M>sono sudato e vorrei lavarmi</E
+M>c’è un po’ d’acqua per lavarsi?</E
+M>lavarsi in vasca</E
+M>sotto la doccia</E
+M>fare il bagno</E
+M>fare la doccia</E
+M>lavarsi con acqua fredda</E
+M>calda</E
+M>lavarsi spesso</E
+M>non si lava mai</E
+M>quelle isole estreme Che da Levante il mar Indico lava</E
+M>Quella sinistra riva che si lava Di Rodano poi ch’è misto con Sorga</E
+M>la propria anima col pentimento</E
+M>con una buona confessione</E
+M>dona Battesmo a me ch’ogni mia colpa lave</E
+M>poteva il Signore con una stilla del suo purissimo sangue l</E
+M>i peccati di mille mondi</E
+M>l’onta</E
+M>il disonore</E
+M>un’offesa</E
+M>un affronto nel sangue</E
+M>il capo a qualcuno</E
+M>dare una lavata di capo</E
+M>lavarsene le mani</E
+M>cavatevi d’impaccio come potete: io me ne lavo le mani</E
+M>il capo</E
+M>la testa</E
+M>all’asino</E
+M>chi lava il capo all’asino</E
+M>perde il ranno e il sapone</E
+M>i panni sporchi si lavano in casa</E
+M>una mano lava l’altra e tutt’e due lavano il viso</E
+M>la lana sudicia</E
+M>i tessuti</E
+M>le fibre artificiali</E
+M>le rocce</E
+M>le sabbie aurifere</E
+M>una miscela gassosa</E
+M>stendere la biancheria lavata ad asciugare</E
+M>si presentò ben lavato e profumato</E
+M>essere</E
+M>diventare bianco come un cencio</E
+M>un panno</E
+M>lavato</E
+M>mantello lavato</E

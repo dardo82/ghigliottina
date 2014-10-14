@@ -1,0 +1,57 @@
+congedo.txt
+"andare in congedo"
+"congedo"
+"congedo"
+"congedo"
+"congedo"
+"congedo"
+"congedo con onore"
+"congedo concesso agli accademici ogni sette anni"
+"congedo di maternità"
+"congedo matrimoniale"
+"congedo per colpa"
+"congedo sabbatico"
+"foglio di congedo"
+"frase di congedo"
+"in congedo"
+"militare in congedo illimitato"
+"prendere congedo"
+"prendere congedo"
+M>congiet</E
+M>congé</E
+M>commeatus</E
+M>chiedere c</E
+M>a qualcuno</E
+M>dare c</E
+M>mi ha dato seccamente c</E
+M>prendere c</E
+M>da qualcuno</E
+M>il c</E
+M>dalla famiglia è stato triste</E
+M>visita di c</E
+M>udienza di congedo</E
+M>accordare</E
+M>avere</E
+M>ottenere il congedo</E
+M>illimitato</E
+M>assoluto</E
+M>collocare</E
+M>inviare in c</E
+M>richiamare dal c</E
+M>andare</E
+M>essere in congedo</E
+M>foglio di c</E
+M>presentare il congedo</E
+M>chiedere</E
+M>ottenere</E
+M>accordare un c</E
+M>mettersi in c</E
+M>un c</E
+M>di due mesi</E
+M>due mesi di c</E
+M>per motivi di salute</E
+M>ordinario</E
+M>straordinarî</E
+M>c. parentale</E
+M>Foglio di c</E
+M>commiato</E

@@ -1,0 +1,88 @@
+uva.txt
+"chicco d'uva"
+"cura dell'uva"
+"piluccare uva"
+"raccogliere l'uva"
+"seme d'uva"
+"staccare acini d'uva"
+"succo d'uva"
+"uva"
+"uva bianca"
+"uva californiana"
+"uva da vino"
+"uva passa"
+"uva secca"
+"uva spina"
+"varietà di uva"
+*[[uvaceo]], [[uvaggio]]
+* [[acino]], [[grappolo]], [[vino]], [[vite]]
+*''Vangami nella polvere, incalzami nel fango, io ti darò molta uva''
+* ''chi vuole tutta l'uva non ha buon vino''
+* ''poca uva, molto vino''
+*italiano
+*spagnolo
+m>àcini</e
+m>chicchi</e
+m>raspo</e
+m>un grappolo d&rsquo;u.</e
+m>u. fresca</e
+m>u. acerba</e
+m> matura</e
+m>u. bianca</e
+m> u. nera.</e
+m>un chilo d&rsquo;uva</e
+m> un paniere d&rsquo;uva</e
+m>cogliere l&rsquo;u.</e
+m>fare la cura dell&rsquo;u.</e
+m>u. da tavola</e
+m>da mensa</e
+m>u. da vino</e
+m>pigiare l&rsquo;u.</e
+m>u. pigiata</e
+m>ammostata</e
+m>festa dell&rsquo;u.</e
+m>u. moscata</e
+m> u. regina</e
+m> u. pizzutella</e
+m> u. salamanna</e
+m>salamanna</e
+m>u. di Gerusalemme</e
+m>di Palestina</e
+m>terra promessa</e
+m>u. di Spagna</e
+m>alicante</e
+m>u. tintoria</e
+m>teinturier</e
+m>u. fragola</e
+m>u. americana</e
+m>Vitis labrusca</e
+m>Succo d&rsquo;uva</e
+m>succhi d&rsquo;u. integrali</e
+m>degradati</e
+m>Uva passa</e
+m>u. secca</e
+m>u. passa di Malaga</e
+m>u. sultana</e
+m>sultanina</e
+m>u. di Smirne</e
+m>u. passerina</e
+m>di Corinto</e
+m>uvetta</e
+m>u. marina</e
+m>u. orsina</e
+m>ursina</e
+m>u. d&rsquo;orso</e
+m>Arctostaphylos uva-ursi</e
+m>u. spina</e
+m>u. tamina</e
+m>u. turca</e
+m>fitolacca</e
+m>u. di mare</e
+m>u. di monte</e
+m>vite idea</e
+m>vite d&rsquo;orso</e
+m>mirtillo rosso</e
+m>u. di volpe</e
+m>Paris quadrifolia</e
+m>erba paris</e
+m>erba crociola</e

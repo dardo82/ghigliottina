@@ -1,0 +1,75 @@
+scusa.txt
+"avere una scusa convincente"
+"avere una scusa convincente; che tenga"
+"bella scusa"
+"che si scusa"
+"chiedere scusa"
+"chiedere scusa"
+"chiedere scusa"
+"chiedere scusa"
+"chiedere scusa"
+"come scusa"
+"in tono di scusa"
+"le chiedo scusa"
+"miserevole scusa"
+"ogni scusa è buona"
+"scappatoia, scusa, pretesto"
+"scusa"
+"scusa"
+"scusa"
+"scusa che non regge"
+"scusa che non sta in piedi"
+"scusa, giustificazione"
+"scusa, mi scusi"
+*[[perdono]], [[giustificazione]], [[discolpa]], [[difesa]]
+*[[scusante]], [[attenuante]]
+*[[pretesto]], [[scappatoia]], [[ripiego]], [[rimedio]], [[stratagemma]], [[fandonia]], [[frottola]], [[invenzione]], [[montatura]], [[storia]], [[appiglio]], [[cavillo]]
+*[[colpa]], [[accusa]], [[imputazione]]
+*buona ragione, motivo valido
+*''Scusa non richiesta, accusa manifesta''
+M>fare</E
+M>presentare le proprie s.</E
+M>non c&#8217;è bisogno di scuse</E
+M>biglietto</E
+M>lettera di scusa</E
+M>le faccio le mie s. più sincere</E
+M>più sentite</E
+M>s. valide</E
+M>banali</E
+M>stiracchiate</E
+M>non convincenti</E
+M>ipocrite</E
+M>queste sono solo magre scuse!</E
+M>E s&#8217;io avesse li occhi volti ad essa</E
+M> Qual fora stata al fallo degna s.?</E
+M>s. non richiesta</E
+M>accusa manifesta</E
+M>excusatio</E
+M>domandare s.</E
+M>non venni all&#8217;appuntamento</E
+M> e come se l&#8217;offesa non fosse sufficiente</E
+M> non ti ho neppure telefonato per avvertirti</E
+M> per chiederti s.</E
+M> per dirti che ripartivo</E
+M> per salutarti</E
+M>le chiedo s. di quanto le ho detto</E
+M>non ha avuto l&#8217;umiltà di chiedermi s.</E
+M>chiedo scusa</E
+M>chiedo s.</E
+M> ma dovrei passare</E
+M>domando s.</E
+M> a quale ufficio mi dovrei rivolgere?</E
+M>quel che ha fatto non ammette scuse</E
+M>qui non c&#8217;è s. che valga</E
+M>il suo gesto può trovare una s. soltanto nello stato di disperazione in cui si trova</E
+M>non si accettano scuse</E
+M>chi lo volesse difendere in questo</E
+M> ci sarebbe quella s. così corrente e ricevuta</E
+M> ch&#8217;erano errori del suo tempo</E
+M>ha inventato una s. per non venire</E
+M>con la s. che abita lontano arriva sempre tardi</E
+M>sono tutte scuse per non lavorare</E
+M>avere sempre una s. pronta</E
+M>cercare</E
+M>trovare una s.</E
+M>questa è una s. bella e buona!</E

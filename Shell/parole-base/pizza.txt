@@ -1,0 +1,55 @@
+pizza.txt
+"pizza"
+"pizza"
+"pizza"
+"pizza"
+"pizza"
+"pizza al formaggio"
+"cheese pizza"
+"pizza al taglio"
+"pizza by the slice"
+"pizza da asporto"
+"takeaway pizza, pizza to go"
+"pizza in teglia alta, pizza spessa, pizza alta"
+"deep-dish pizza"
+"pizza pazza"
+"pizza crazy"
+"sei una pizza!"
+#* ''la '''pizza''' è il mio [[piatto]] preferito''
+#*''questo film è una '''pizza'''''
+#* ''questa è la '''pizza''' di [[w
+#* ''durante il [[litigio]] mi ha dato due '''pizze'''''
+*[[focaccia]], [[schiacciata]]
+*''fare a '''pizze'''''
+*italiano
+*francese
+*inglese
+*polacco
+M>bizzo</E
+M>pizzo</E
+M>p. dolce</E
+M>salata</E
+M>p. pasquale</E
+M>di Pasqua</E
+M>p. rustica</E
+M>p. alla napoletana</E
+M>p. napoletana</E
+M>p. margherita</E
+M>p. alla marinara</E
+M>p. marinara</E
+M>p. ai funghi</E
+M>al prosciutto</E
+M>p. capricciosa</E
+M>alle</E
+M>quattro stagioni</E
+M>p. rustica</E
+M>p. pasquale</E
+M>Pizza a taglio</E
+M>a metro</E
+M>Pizza a portar via</E
+M>p. bianca</E
+M>p. rossa</E
+M>si è seduto sul cappello e l&#8217;ha fatto diventare una pizza.</E
+M>quell&#8217;uomo è una vera p.</E
+M>che pizza</E
+M> questo film!</E

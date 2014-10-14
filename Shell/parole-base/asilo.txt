@@ -1,0 +1,33 @@
+asilo.txt
+"asilo"
+"asilo"
+"asilo infantile"
+"asilo nido"
+"asilo politico"
+"centro di accoglienza per bambini, asilo, ludoteca"
+"nell'asilo nido"
+"persona in cerca di asilo politico, richiedente asilo politico"
+"servizio di asilo nido"
+*[[rifugio]], [[riparo]], [[ricovero]], [[alloggio]]; [[accoglienza]], [[protezione]]
+* (per anziani) [[ospizio]], [[ricovero]], casa di riposo
+*scuola materna, [[nido]]
+*''diritto d'
+M>asylum</E
+M>diritto d’a</E
+M>ecclesiastico</E
+M>politico</E
+M>dare</E
+M>cercare</E
+M>offrire</E
+M>trovare a</E
+M>notturno</E
+M>di mendicità</E
+M>per minorenni</E
+M>nido</E
+M>infantile</E
+M>d’infanzia</E
+M>scuola dell’infanzia</E
+M>asilo</E
+M>questo è il grembiulino dell’asilo?</E
+M>Asilo</E
+M>scuola</E

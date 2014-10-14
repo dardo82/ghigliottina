@@ -1,0 +1,45 @@
+manico.txt
+"Avere il manico"
+"Ciurlare nel manico"
+"manico"
+"manico di padella"
+"manico di scopa"
+"manico di scopa"
+#*''dammi il manico della scopa'' 
+*''avere il coltello dalla parte del manico''
+*[[presa]], [[impugnatura]]
+*Giuseppe Pittano, ''Il mio primo dizionario di italiano illustrato'', edizone 1995, p. 308, DeAgostini
+M>*man</E
+M>cum</E
+M>manus</E
+M>chi</E
+M>della valigia</E
+M>del secchio</E
+M>del paniere</E
+M>anfora con due m</E
+M>del martello</E
+M>della vanga</E
+M>della piccozza</E
+M>della scopa</E
+M>dell’ombrello</E
+M>un coltello</E
+M>un ombrello con m</E
+M>d’osso</E
+M>d’avorio intagliato</E
+M>di legno intarsiato</E
+M>impugnatura</E
+M>cassa</E
+M>il difetto sta nel m</E
+M>avere</E
+M>tenere il coltello dalla parte del m</E
+M>girare</E
+M>ciurlare nel m</E
+M>un bel m</E
+M>manico</E
+M>benedire col m</E
+M>della scopa</E
+M>questa è col m</E
+M>prendere la pala per il m</E
+M>a ogni cosa bisogna trovare il m</E
+M>avere m</E
+M>a un lavoro</E

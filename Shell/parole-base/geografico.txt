@@ -1,0 +1,23 @@
+geografico.txt
+"geografico"
+"nord geografico"
+M>geograph</E
+M>cus</E
+M>studî g</E
+M>dizionario g</E
+M>nomi g</E
+M>Società g</E
+M>italiana</E
+M>Istituto g</E
+M>militare</E
+M>carta g</E
+M>non c’è nemmeno sulla carta g</E
+M>essere</E
+M>sembrare una carta g</E
+M>atlante g</E
+M>coordinate g</E
+M>portata g</E
+M>lingua g</E
+M>glossite esfoliativa marginata</E
+M>regioni che fanno parte dell’Italia storicamente e culturalmente</E
+M>se non geograficamente</E

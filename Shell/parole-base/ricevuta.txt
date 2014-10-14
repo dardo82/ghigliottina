@@ -1,0 +1,45 @@
+ricevuta.txt
+"accusare ricevuta"
+"accusare ricevuta di"
+"mettere una firma di ricevuta"
+"per grazia ricevuta"
+"ricevuta"
+"ricevuta bancaria"
+"ricevuta di deposito"
+"ricevuta di pagamento"
+"ricevuta di ritorno"
+"ricevuta doganale"
+"timbrare per ricevuta"
+*[[ricevuto]]
+M>dichiarazione di ricevuta</E
+M>accusare ricevuta</E
+M>di una lettera</E
+M>di una circolare</E
+M>di un pacco</E
+M>di un plico</E
+M>di un vaglia</E
+M>di un versamento</E
+M>compilare</E
+M>scrivere</E
+M>dare</E
+M>rilasciare</E
+M>firmare una r</E
+M>pretendere</E
+M>esigere la r</E
+M>del pagamento effettuato</E
+M>della somma versata</E
+M>la r</E
+M>delle tasse</E
+M>del gas</E
+M>del telefono</E
+M>della luce elettrica</E
+M>d&#8217;una raccomandata</E
+M>d&#8217;un telegramma</E
+M>d&#8217;un vaglia</E
+M>il presente tagliando ha valore di r</E
+M>serve di ricevuta</E
+M>di cassa</E
+M>fiscale</E
+M>di deposito</E
+M>di carico</E
+M>di ritorno</E

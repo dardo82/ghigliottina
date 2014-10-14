@@ -1,0 +1,56 @@
+scientifico.txt
+"approccio scientifico"
+"comitato scientifico"
+"informatore scientifico"
+"informatore scientifico del farmaco"
+"liceo scientifico"
+"metodo scientifico"
+"nome scientifico"
+"progetto scientifico"
+"scientifico"
+"scientifico"
+#*''il furto fu eseguito con una precisione '''scientifica''', nulla oltre il dovuto fu sottratto, tutto fu rimesso in ordine, tant'è che i derubati si accorsero giorni dopo del furto''
+#*'''metodo scientifico'''
+*[[proto-scientifico]], [[scientificamente]]
+*[[scienza]], [[pseudoscientifico]], [[scienziato]]
+*[[umanistico]]
+M>scientif</E
+M>cus</E
+M>scientia</E
+M>benef</E
+M>cus</E
+M>munif</E
+M>cus</E
+M>-ci</E
+M>ricerca sc.</E
+M>rigore sc.</E
+M>opera</E
+M>produzione</E
+M>attività sc.</E
+M>leggi</E
+M>schemi</E
+M>criterî sc.</E
+M>metodi sc.</E
+M>affermazioni</E
+M>ipotesi prive di fondamento sc.</E
+M>di basi sc.</E
+M>fu già nella città di Genova uno sc. cittadino</E
+M>società</E
+M>accademia sc.</E
+M>un convegno sc.</E
+M>un testo</E
+M>un trattato sc.</E
+M>apparecchiature scientifiche</E
+M>umanistico</E
+M>letterario</E
+M>liceo sc.</E
+M>le facoltà sc.</E
+M>materie sc.</E
+M>studî scientifici</E
+M>polizia sc.</E
+M>la scientifica</E
+M>la Scientifica</E
+M>scopone sc.</E
+M>spiegare un fenomeno scientificamente</E
+M>una tesi scientificamente non convincente</E
+M>un lavoro scientificamente valido</E

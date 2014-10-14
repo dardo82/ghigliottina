@@ -1,0 +1,84 @@
+fissare.txt
+"fissare"
+"fissare"
+"fissare"
+"fissare, replace: fissarsi"
+"fissare, replace: fissarsi"
+"fissare a"
+"fissare con lo sguardo"
+"fissare con lo sguardo"
+"fissare con puntine"
+"fissare con puntine"
+"fissare con spilli"
+"fissare con tiranti"
+"fissare con uno sguardo intontito"
+"fissare i dettagli"
+"fissare il prezzo (fare cartello)"
+"fissare il tasso di interesse"
+"fissare l'ora"
+"fissare la data"
+"fissare limiti"
+"fissare lo sguardo"
+"fissare priorità"
+"fissare un albergo"
+"fissare un prezzo"
+"fissare una quantità"
+"fissare, impiantare"
+"guardare qcs, fissare qcs, contemplare qcs"
+"impiantare in; fissare"
+"inserire, fissare"
+"legare, fissare in basso"
+"osservare con insistenza; fissare"
+"stringere, fissare, rafforzare, inasprire"
+#*''ha dovuto fissare la ruota alla bicicletta''
+#*'' 
+*[[piantare]], [[fermare]], [[apprendere]], [[assicurare]], [[fermare]], [[stabilire]] 
+*[[fissarsi]],[[fissabile]], [[fissaggio]], [[fissarsi]], [[fissativo]], [[fissato]], [[fissatore]], [[fissazione]]
+*[[fisso]]
+M>uno sportello</E
+M>un’imposta</E
+M>il coperchio alla cassa con quattro viti</E
+M>la corda al gancio con un forte nodo</E
+M>lacca per f</E
+M>i capelli</E
+M>i colori</E
+M>l’azoto</E
+M>la propria dimora in un luogo</E
+M>fissarsi in un luogo</E
+M>residenza</E
+M>il proprio domicilio</E
+M>in carta</E
+M>su carta le proprie riflessioni</E
+M>impressioni</E
+M>gli occhi</E
+M>lo sguardo su un oggetto</E
+M>un oggetto</E
+M>gli occhi addosso a una persona</E
+M>una persona</E
+M>una cosa</E
+M>ho fissato gli occhi su quel cappellino</E
+M>l’attenzione</E
+M>il pensiero su una cosa</E
+M>fissarsi in mente una cosa</E
+M>il programma di una gita</E
+M>i punti principali</E
+M>i limiti di una questione</E
+M>l’ora</E
+M>il luogo di un appuntamento</E
+M>la data del matrimonio</E
+M>il prezzo</E
+M>il compenso</E
+M>una stanza</E
+M>un palco a teatro</E
+M>fissarsi su un oggetto</E
+M>su un punto</E
+M>ogni tanto si fissa e rimane assente</E
+M>quasi insensibile</E
+M>fissarsi di volere una cosa</E
+M>di riuscire in un’impresa</E
+M>di giungere a uno scopo</E
+M>fissarsi in un’idea</E
+M>si è fissata con le diete</E
+M>si è fissato che tutti lo perseguitino</E
+M>liquido fissante</E
+M>un fissante per capelli</E

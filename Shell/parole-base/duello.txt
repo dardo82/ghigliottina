@@ -1,0 +1,33 @@
+duello.txt
+"duello"
+"duello"
+#* duello [[giudiziario]]
+#* duello [[cavalleresco]]
+#* duello [[rusticano]]
+*[[combattimento]], [[scontro]]
+*[[sfida]]
+*Devoto/Oli.''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier p. 691
+M>duellum</E
+M>bellum</E
+M>duo</E
+M>guerresco</E
+M>giudiziario</E
+M>cavalleresco</E
+M>sfidare a d</E
+M>fare un d</E
+M>battersi in d</E
+M>accettare un d</E
+M>morire in d</E
+M>alla pistola</E
+M>alla sciabola</E
+M>alla spada</E
+M>all’ultimo sangue</E
+M>rusticano</E
+M>aereo</E
+M>diplomatico</E
+M>tra due potenze</E
+M>tra due imprese</E
+M>tra due atleti</E
+M>due squadre</E
+M>verbale</E
+M>oratorio</E

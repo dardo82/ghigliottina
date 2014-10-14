@@ -1,0 +1,33 @@
+occidente.txt
+"occidente"
+*[[ovest]], [[ponente]]
+*[[oriente]]
+*[[occidentale]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1379
+M>occ</E
+M>dens</E
+M>entis</E
+M>sol</E
+M>occ</E
+M>cad</E
+M>ponente</E
+M>ovest</E
+M>navigare verso o</E
+M>da oriente a o</E
+M>Ne la stagion che ’l ciel rapido inchina Verso o</E
+M>Caduto lo splendor che all’occidente Inargentava della notte il velo</E
+M>la Persia è a o</E
+M>dell’India</E
+M>Dalle squarciate nuvole Si svolge il sol cadente</E
+M>dietro il monte</E
+M>imporpora Il trepido o</E
+M>l’o</E
+M>dell’isola</E
+M>l’o</E
+M>europeo</E
+M>dell’Europa</E
+M>l’Impero romano d’O</E
+M>lo scisma d’o</E
+M>grande scisma</E
+M>l’O</E
+M>e su i cubiti ritto Salutò il sole O. e l’Italia</E

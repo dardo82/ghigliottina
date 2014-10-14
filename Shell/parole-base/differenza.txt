@@ -1,0 +1,87 @@
+differenza.txt
+"a differenza di"
+"che differenza c'è?"
+"con una differenza"
+"differenza"
+"differenza"
+"differenza"
+"differenza d'opinioni"
+"differenza di fase"
+"differenza di potenziale"
+"fare la differenza"
+"la stessa differenza"
+"non fa differenza"
+"non fare differenza"
+"non fare differenza"
+"qual è la differenza"
+"qual è la differenza?"
+"vedere la differenza tra"
+#*''tra la Germania e l'Italia non vi è alcuna differenza di fuso orario''
+*[[diversità]], [[disparità]],[[ disuguaglianza]];
+*'' (di idee, opinioni e sim.)'' [[divergenza]], [[discordanza]], [[divario]], [[ distanza]], [[contrasto]]
+*''(di denaro)''[[ avanzo]], [[resto]]; [[rimanenza]],[[rimanente]]
+*[[uguaglianza]], [[identità]], [[somiglianza]],[[ affinità]], [[analogia]], [[conformità]] 
+*[[differenziale]]
+M>differentia</E
+M>diff</E
+M>rens</E
+M>entis</E
+M>piccola</E
+M>poca</E
+M>grande</E
+M>enorme d</E
+M>intrinseca</E
+M>sostanziale</E
+M>di colore</E
+M>di sapore</E
+M>di grado</E
+M>d’età</E
+M>la d</E
+M>è solo di pochi punti</E
+M>tra i due fratelli c’è d</E
+M>di quattro anni</E
+M>fra me e lui c’è grande d</E
+M>bisogna far d</E
+M>tra le parole e i fatti</E
+M>non ci vedo</E
+M>non ci trovo d</E
+M>non fare d</E
+M>fra due persone</E
+M> cose</E
+M>tra i due</E
+M>tra le due offerte</E
+M>c’è una bella d</E
+M>puoi andare o restare</E
+M>per me non c’è</E
+M>non fa</E
+M>differenza</E
+M>a differenza di</E
+M>a d</E
+M>di te</E
+M>io in questi casi riesco a mantenermi calmo</E
+M>il tempo oggi è sereno</E
+M>a d</E
+M>di ieri</E
+M>specifica</E
+M>la d</E
+M>tra 10 e 7 è 3</E
+M>differenza</E
+M>ragione</E
+M>di una progressione aritmetica</E
+M>di fase</E
+M>di potenziale</E
+M>d’immersione</E
+M>media</E
+M>interquartile</E
+M>personale</E
+M>equazione personale</E
+M>nacque una d</E
+M>tra le due famiglie</E
+M>accomodare</E
+M>appianare le d</E
+M>tra gli uomini</E
+M>erano in questi medesimi tempi intra la Chiesa romana e la greca alcune d</E
+M>intervengono spesso differenzie tra un gentilomo e l’altro</E
+M>onde poi nasce il combattere</E
+M>accomodar differenze</E
+M>e proteggere oppressi</E

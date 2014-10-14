@@ -1,0 +1,51 @@
+cancellare.txt
+"cancellare"
+"cancellare"
+"cancellare"
+"cancellare con la gomma"
+"cancellare il testo"
+"cancellare qualcosa"
+"cancellare un debito"
+"cancellare un ordine"
+"cancellare una riunione"
+"cancellare; pioggia radioattiva"
+"gomma (da cancellare)"
+"gomma da cancellare"
+"gomma per cancellare"
+#*'' devi 
+#* '' devi 
+*''(parole, frasi in uno scritto)''[[depennare]], [[cassare]], [[eliminare]], [[togliere]], [[espungere]]
+*''(dalla memoria, dalla mente ecc.)''[[dimenticare]], [[scordare]], [[rimuovere]] 
+*''(appuntamenti,incontri e simili.)''  [[annullare]] 
+*''(parole, frasi in uno scritto)'' [[aggiungere]], [[inserire]], [[mantenere]], [[conservare]]
+*''(dalla memoria, dalla mente ecc.)'' [[ricordare]]
+*''cancellare la lavagna''
+M>cancellare</E
+M>io cancèllo</E
+M>con la gomma</E
+M>con il bianchetto</E
+M>il nome dall’elenco</E
+M>cancellarsi dalla lista dei partecipanti</E
+M>una parola errata</E
+M>un’iscrizione cancellata dal tempo</E
+M>cancellatasi col tempo</E
+M>c. la lavagna</E
+M>l’umidità ha cancellato l’affresco</E
+M>un’ipoteca</E
+M>un’onta</E
+M>col sangue un’offesa</E
+M>dalla memoria</E
+M>nulla potrà c</E
+M>in noi il ricordo di lui</E
+M>un’impressione</E
+M>c. dalla faccia della terra</E
+M>cancellarsi dalla memoria</E
+M>to cancel</E
+M>una visita</E
+M>un colloquio</E
+M> un appuntamento</E
+M> una prenotazione</E
+M>un volo</E
+M>a causa dello sciopero dei piloti</E
+M>sono stati cancellati quasi tutti i voli nazionali</E
+M>chanceler</E

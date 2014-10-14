@@ -1,0 +1,67 @@
+sbattere.txt
+"andare a sbattere"
+"doversi sbattere a fare qcs"
+"inciampare su, sbattere il piede contro"
+"montare, sbattere"
+"non sapere dove andare a sbattere la testa"
+"sbattere"
+"sbattere"
+"sbattere"
+"sbattere"
+"sbattere, replace: sbattersi"
+"sbattere contro"
+"sbattere contro"
+"sbattere contro"
+"sbattere contro"
+"sbattere gli occhi"
+"sbattere le ciglia"
+"sbattere le palpebre"
+"sbattere le palpebre"
+"sbattere qualcuno a terra"
+*[[cacciare]], [[mandare]]
+M>battere</E
+M>s. i piedi</E
+M>le ali</E
+M>s. le palpebre</E
+M>s. i tappeti</E
+M>uscì sbattendo la porta</E
+M>gli sbatté la porta in faccia.</E
+M>s. le uova per la frittata</E
+M>s. la panna.</E
+M>s. il naso contro una colonna</E
+M>non ci crede finché non ci sbatte il naso</E
+M>s. la testa contro il muro</E
+M>non sapere dove s. la testa</E
+M>per la rabbia oggi sbatterei tutto dalla finestra</E
+M>sbatté il libro contro il muro</E
+M>la tempesta ha sbattuto la barca sugli scogli.</E
+M>l&#8217;hanno sbattuto in una sede disagiata</E
+M>per punizione è stato sbattuto in un paesino sperduto</E
+M>non gli danno mai un lavoro fisso: lo sbattono a destra e a sinistra</E
+M> dove c&#8217;è più bisogno</E
+M>s. fuori</E
+M>di casa</E
+M>dalla porta</E
+M>la recente malattia l&#8217;ha molto sbattuta</E
+M>il colore del vestito è bello</E
+M>ma ti sbatte un po&#8217;.</E
+M>farsi sbattere</E
+M>Manfredi figliuolo di Federico si era del regno di Napoli insignorito e aveva assai sbattuta la potenza della Chiesa</E
+M>E senti come &#8217;l cor si sbatte forte Per quel che ciascun spirito ragiona</E
+M>si sbatte tanto per niente</E
+M>sii calmo</E
+M> non sbatterti sempre così!</E
+M>quanto si sbatte quella ragazza!</E
+M>pioveva</E
+M>così ci siamo sbattuti in un cinema</E
+M>mi sono sbattuta fin qua per vederti</E
+M>andare a sbattersi</E
+M>dov&#8217;eri andato a sbatterti?</E
+M>avere</E
+M>ha sbattuto con la macchina contro un muro.</E
+M>si sentivano s. i panni stesi</E
+M>per la forza del vento</E
+M>sbattersene</E
+M>fregarsene</E
+M>fottersene</E
+M>me ne sbatto delle vostre proteste!</E

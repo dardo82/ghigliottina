@@ -1,0 +1,82 @@
+camminare.txt
+"andare a piedi; camminare"
+"andare, camminare, muoversi"
+"camminare"
+"camminare"
+"camminare"
+"camminare a fatica"
+"camminare a lungo"
+"camminare a quattro zampe"
+"camminare avanti"
+"camminare barcollando"
+"camminare con fare predatorio"
+"camminare con passo pesante"
+"camminare con passo stanco"
+"camminare di traverso"
+"camminare in fretta, correre"
+"camminare in punta di piedi"
+"camminare in punta di piedi"
+"camminare senza meta in cerca di cibo e lavoro"
+"camminare stancamente"
+"camminare sul filo del rasoio"
+"camminare trascinando i piedi"
+"camminare trascinando i piedi"
+"camminare trascinandosi"
+"camminare velocemente"
+"camminare verso"
+"camminare, marciare"
+"modo di camminare"
+"zoppicare, camminare zoppicando, trascinarsi zoppicando"
+* [[marciare]],  [[passeggiare]],  [[procedere]]
+M>avere</E
+M>ho camminato tutto il pomeriggio</E
+M>il bambino cammina già da sé</E
+M>non cammina ancora</E
+M>adagio</E
+M>svelto</E
+M>di buon passo</E
+M>a fatica</E
+M>diritto</E
+M>curvo</E
+M>a testa alta</E
+M>per due</E
+M>per quattro</E
+M>in fila indiana</E
+M>avanti e indietro</E
+M>all’indietro</E
+M>carponi</E
+M>in punta di piedi</E
+M>ha un modo di c</E
+M>tutto suo</E
+M>lo riconobbi al c</E
+M>pare un morto che cammini</E
+M>è un ragazzo che cammina</E
+M>cammina!</E
+M>ma chi t’ha chiamato? cammina</E
+M>va!</E
+M>e vuoi avere ragione tu? ma cammina!</E
+M>hai nuotato per sette chilometri? ma va</E
+M>cammina!</E
+M>cammina cammina</E
+M>cammina cammina</E
+M>arrivò alla fine in vista di un paese sconosciuto</E
+M>verso i trenta</E
+M>verso i quaranta</E
+M>l’asinello camminava adagio sotto il peso del basto</E
+M>il treno camminava a cento all’ora</E
+M>Delle stelle remote e de’ pianeti</E
+M>Che nel silenzio camminando vanno</E
+M>l’orologio non cammina più</E
+M>la nuova azienda cammina</E
+M>gli affari camminano bene</E
+M>male</E
+M>gli affari non camminano</E
+M>non ti preoccupare</E
+M>le cose camminano da sé</E
+M>discorso</E
+M>ragionamento che non cammina</E
+M>il lavoro non cammina</E
+M>e però mal cammina Qual si fa danno del ben fare altrui</E
+M>una città tanto smisurata</E
+M>che vi volevan tre giorni per camminarla da un capo all’altro</E
+M>il mondo</E

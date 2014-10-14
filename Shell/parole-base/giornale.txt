@@ -1,0 +1,34 @@
+giornale.txt
+"articolo di giornale"
+"articolo di giornale"
+"carta da giornale"
+"giornale"
+"giornale"
+"giornale"
+"giornale"
+"sede di un giornale"
+"giornale di annunci di lavoro"
+"giornale di bordo"
+"giornale patinato"
+"giornale scandalistico"
+"giornale sportivo"
+"giornale stampato economicamente"
+"giornale universitario"
+"prima pagina (giornale)"
+"prima pagina del giornale"
+"radio giornale"
+"ragazzo che porta il giornale"
+"ritaglio (di giornale)"
+"ritaglio di giornale"
+"testata di giornale"
+"titolo (di giornale)"
+#*''il [[w
+*[[quotidiano]], [[corriere]], [[informatore]], [[bollettino]], [[foglio]]
+*[[radiogiornale]], [[telegiornale]], [[cinegiornale]], [[notiziario]]
+*''(in sede locale)'' [[gazzettino]]
+*[[diario]], [[registro]], libro mastro, [[mastro]]
+*[[telegiornale]]
+* giornale di [[bordo]] 
+*Enciclopedia [http
+*Devoto/Oli, '' Il dizionario della lingua italiana'', edizione cartacea 2000-2001,Le Monnier, p. 911
+*AA.VV.''Dizionario etimologico'',edizione cartacea 2004, ristampa 2008, RusconiLibri, p. 439

@@ -1,0 +1,240 @@
+studio.txt
+"area di studio"
+"attività di studio"
+"borsa di studio"
+"campo di studio"
+"corsi di studio per adulti"
+"corso, programma di studio"
+"corso, programma di studio"
+"dello studio dei tratti psicologici"
+"dello studio del profilo psicologico"
+"dello studio psicometrico"
+"giornate di studio"
+"gruppo di studio"
+"il settore di studio principale"
+"immergersi nello studio"
+"in fase di studio"
+"livello di studio"
+"lo studio si è posto i seguenti obiettivi"
+"materia di studio"
+"metodo di studio"
+"missione di studio"
+"oggetto di studio"
+"per motivi di studio"
+"programma di studio"
+"relativo allo studio dell'esistenza"
+"sala studio"
+"studio"
+"studio"
+"oggetto dello studio"
+"studio"
+"studio, atelier"
+"studio"
+"studio"
+"studio\"
+"studio"
+"studio"
+"studio"
+"locale per lo studio"
+"studio"
+"television studio"
+"studio a distanza"
+"studio approfondito"
+"studio approfondito"
+"studio cinematografico"
+"film studio"
+"studio dei farmaci"
+"studio dei fatti"
+"studio dei fenomeni"
+"studio dei fonemi"
+"studio dei profumi"
+"studio dei tempi"
+"studio del carattere"
+"studio del comportamento deviante"
+"studio del linguaggio"
+"studio del moto"
+"studio della mente"
+"studio della natura"
+"studio della parola"
+"studio della poesia"
+"studio delle lingue straniere"
+"studio delle malattie"
+"studio di architettura"
+"studio di fattibilità"
+"studio di ingegneria"
+"studio di progettazione"
+"design studio"
+"studio di registrazione"
+"recording studio"
+"studio di ricerca"
+"studio di settore"
+"studio fotografico"
+"photography studio"
+"studio introduttivo"
+"studio legale"
+"studio legale"
+"studio legale"
+"studio pilota"
+"studio preliminare"
+"studio preparatorio"
+"studio privato"
+"studio professionale"
+"professional studio"
+"studio su un'azienda"
+"studio televisivo"
+"television studio"
+"titolo di studio"
+"titolo di studio classico e matematico"
+"uno studio medico"
+"vacanza studio"
+"vasto studio"
+*[[applicazione]], [[apprendimento]], [[esercizio]], [[assimilazione]]; [[istruzione]], [[cultura]]
+*''(di argomento)'' [[saggio]], [[scritto]], [[articolo]], [[trattato]]
+*''(nella ricerca)'' [[analisi]], [[indagine]], [[approfondimento]], [[osservazione]]
+*''(in arte)'' lavoro preparatorio, [[preparazione]], [[disegno]], [[progetto]], [[bozzetto]], [[progettazione]]
+*''(in musica)'' [[opera]], [[pezzo]], [[componimento]]
+* ''(di artista)'' [[laboratorio]], [[atelier]], ufficio del professionista
+*''(in teatro, radio, eccetera)'' sala di posa, teatro di posa, [[set]], set televisivo, sala di registrazione
+*''(nel Medioevo)'' [[università]], [[ateneo]]
+*''(lo studiare)'' ,[[educazione]]
+*''(l'oggetto dello studio)'' [[materia]], [[disciplina]], [[indagine]], [[ricerca]], [[analisi]], [[monografia]], [[saggio]], [[trattato]]
+*''(programmazione di qualcosa)'' [[progetto]], [[disegno]], [[bozzetto]], [[schizzo]]
+*''(attività professionale od artistica)'' [[ufficio]], [[ambulatorio]]
+M>studium</E
+M>studere</E
+M>lo s. della matematica</E
+M>della filosofia</E
+M>della musica</E
+M>del canto</E
+M>dedicarsi allo s. delle lingue</E
+M>uno s. lungo</E
+M>assiduo</E
+M>faticoso</E
+M>è questo il suo s. prediletto</E
+M>s&#8217;egli v&#8217;era più a grado lo s. delle leggi che la moglie</E
+M> voi non dovavate pigliarla</E
+M>è un ragazzo un po&#8217; svogliato nello s.</E
+M>con un po&#8217; più di studio</E
+M> vedrai che riuscirai a superare l&#8217;esame</E
+M>in aggiunta alla scuola</E
+M> deve dedicare allo s. almeno tre ore al giorno</E
+M>diritto allo s.</E
+M>borsa di studio</E
+M>s. primarî</E
+M>medî</E
+M>superiori</E
+M>universitarî</E
+M>di perfezionamento</E
+M>di specializzazione</E
+M>fare un corso regolare di studî</E
+M>iniziare</E
+M>abbandonare</E
+M>ultimare gli s.</E
+M>al termine degli s. ha trovato subito un buon impiego</E
+M>provveditore</E
+M>provveditorato agli s.</E
+M>s. scientifici</E
+M>umanistici</E
+M>tecnici</E
+M>uno scienziato</E
+M>un gruppo di ricercatori che si sta perfezionando negli s. di biofisica</E
+M>centro studî</E
+M>uomo di studio</E
+M>essere allo s.</E
+M>essere allo s. di ...</E
+M>la legge fiscale è ancora allo s. del governo</E
+M>della commissione parlamentare</E
+M>il provvedimento di ristrutturazione dell&#8217;azienda è allo s. del consiglio d&#8217;amministrazione</E
+M>del direttore generale</E
+M>la riforma è sempre allo s. presso il comitato tecnico</E
+M> decidetevi</E
+M> non è poi cosa che richieda un lungo studio</E
+M>sta preparando uno s. sugli affreschi etruschi</E
+M>è l&#8217;autore di alcuni s. fondamentali sulla fissione nucleare</E
+M>una raccolta di studî e testi di letteratura italiana</E
+M>Studî in onore di ...</E
+M>Studî di storia medievale</E
+M>gli s. anatomici leonardeschi</E
+M>uno s. di volto femminile di Rembrandt</E
+M>s. dal vero</E
+M>esercizio</E
+M>solfeggio</E
+M>vocalizzo</E
+M>studî per pianoforte</E
+M>per violino</E
+M>per chitarra</E
+M>comporre</E
+M>eseguire uno studio</E
+M>Studî op. 10</E
+M>op. 24</E
+M>Studî trascendentali</E
+M>studium</E
+M>L&#8217;una vegghiava a studio de la culla</E
+M>ella con tutto il suo s. s&#8217;ingegnava di piacergli</E
+M>Renzo ... stette un pezzo senz&#8217;altro pensiero o</E
+M> per dir meglio</E
+M> senz&#8217;altro s.</E
+M> che di viver nascosto</E
+M>poneva ogni suo s. nel compiacerlo</E
+M>a bello s.</E
+M>cercava a bello s. di provocarlo</E
+M>nessuno si abbrucia a bello s.</E
+M> fuorché la fenice</E
+M>a sommo s.</E
+M>a studio</E
+M>per diverse e solitarie strade A s. capitò su una riviera</E
+M>Che studio di ben far grazia rinverda</E
+M>l&#8217;uso delle armi coniuncto con amor di virtù e studio di laude</E
+M>e vedesi ancora ... dua egualmente felicitare con dua diversi studii</E
+M> sendo l&#8217;uno rispettivo e l&#8217;altro impetuoso</E
+M>E quel che &#8217;n altrui pena Tempo si spende ... In qualche bella lode</E
+M> In qualche onesto s. si converta</E
+M>ma quivi A novi studi ti attendea la mensa</E
+M>perché hai le gentili Forme e l&#8217;ingegno docile Vòlto a studj virili?</E
+M>Quando con tanto amore L&#8217;uomo a&#8217; suoi studi intende?</E
+M>t&#8217;aspetta Veder talvolta il mio signor ... destra e manca Porsi nel crine</E
+M> e scompigliar con l&#8217;ugna Lo s. di molt&#8217;ore in un momento</E
+M>Effigïati Dei Inclito s. di scalpelli achei</E
+M>lo s. di Bologna</E
+M>di Firenze</E
+M>le grandi tradizioni scientifiche dello s. pisano</E
+M>Studium Urbis</E
+M>Sapienza</E
+M>i Franzesi ...</E
+M> avendo ... in casa un così nobil s. come è quello di Parigi</E
+M> dove tutto il mondo concorre</E
+M>sta ore e ore chiuso nello s.</E
+M>ho situato il mio s. nella stanza meno rumorosa</E
+M>uno s. con mobili fiorentini del Seicento</E
+M>uno s. in stile fiorentino</E
+M>s. legale</E
+M>notarile</E
+M>commerciale</E
+M>s. di avvocato</E
+M>di notaio</E
+M>di commercialista</E
+M>s. odontoiatrico</E
+M>dentistico</E
+M>di dentista</E
+M>s. di architetto</E
+M>di ingegnere</E
+M>un grande s. legale</E
+M>medico</E
+M>tecnico</E
+M>s. artistico</E
+M>s. di pittore</E
+M>di scultore</E
+M>S. fotografico</E
+M>s. fonografico</E
+M>di registrazione</E
+M>s. radiofonico</E
+M>s. televisivo</E
+M>gli s. della RAI</E
+M>teatro di posa</E
+M>studio</E
+M>ùudiëu</E
+M>i grandi studî di Cinecittà</E
+M>gli studî</E
+M>gli studios</E
+M>ùudiëu</E
+M>di Hollywood</E

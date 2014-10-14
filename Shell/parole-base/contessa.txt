@@ -1,0 +1,9 @@
+contessa.txt
+"contessa"
+M>conte</E
+M>comtesa</E
+M>comtesse</E
+M>comitissa</E
+M>comes</E
+M>tis</E
+M>del vento</E

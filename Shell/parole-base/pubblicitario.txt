@@ -1,0 +1,33 @@
+pubblicitario.txt
+"agente di stampa\/pubblicitario"
+"agente pubblicitario"
+"cartellone pubblicitario"
+"grafico pubblicitario"
+"manifesto pubblicitario"
+"materiale pubblicitario"
+"materiale pubblicitario"
+"messaggio pubblicitario"
+"pettorale pubblicitario"
+"pubblicitario"
+"pubblicitario"
+"scrittore pubblicitario"
+"spazio pubblicitario"
+"spot pubblicitario"
+"volantino pubblicitario"
+*Da ''[[pubblicità]]'', dal 
+M>publicitaire</E
+M>publicité</E
+M>propaganda p</E
+M>annuncio p</E
+M>slogan p</E
+M>manifesto</E
+M>cartellone p</E
+M> insegna p</E
+M>campagna p</E
+M>inserzioni</E
+M>trasmissioni p</E
+M>un breve filmato p</E
+M>un&#8217;agenzia</E
+M>un&#8217;impresa pubblicitaria</E
+M>fotografia p</E
+M>lanciare pubblicitariamente un nuovo prodotto</E

@@ -1,0 +1,95 @@
+incerto.txt
+"apatico, indifferente, incerto"
+"essere incerto"
+"far esitare; rendere incerto"
+"incerto"
+"incerto"
+"incerto"
+"incerto"
+"incerto"
+"incerto"
+"incerto, incerti"
+"incerto, esitante"
+"insicuro, incerto"
+"muoversi con passo incerto"
+"periodo incerto e limitato"
+*''(di notizie, dati ecc.)'' [[dubbio]]
+*''(di risultati, prospettive e simili)'' [[aleatorio]], [[vago]], [[imprevedibile]] 
+*''(di passo, movimento e sim.)'' [[malsicuro]], [[malfermo]], [[vacillante]] 
+* ''(di proposito, progetto ecc.)'' [[vago]], [[indefinito]], [[indeterminato]], [[confuso]]
+*''(di luce)'' [[debole]], [[fioco]], [[flebile]], [[fievole]]   
+*''(di persona)'' [[indeciso]], [[insicuro]], irresoluto, [[dubbioso]], [[esitante]], [[titubante]], [[tentennante]] 
+*[[certo]], [[sicuro]],[[chiaro]], [[prevedibile]] 
+*''(di tempo)'' [[stabile]] 
+*''(di passo, movimento e sim.)'' [[sicuro]], [[fermo]]
+*''(di luce)'' [[nitido]], [[chiaro]], [[limpido]]
+*''(di persona)''  [[deciso]], [[sicuro]], [[risoluto]], [[determinato]]
+*[[indefinito]], [[incertezza]], [[rischio]] 
+M>incertus</E
+M>certus</E
+M>certo</E
+M>mostrarsi</E
+M>apparire</E
+M>sembrare i</E
+M>essere i</E
+M>nel giudizio</E
+M>sono molto i</E
+M>sul da farsi</E
+M>era i</E
+M>se credergli o no</E
+M>mi sento ancora i</E
+M>nella guida dell’automobile</E
+M>fornì notizie molto i</E
+M>vocabolo di etimo i</E
+M>famiglia di i</E
+M>origine</E
+M>libro</E
+M>dipinto di i</E
+M>autore</E
+M>la data della partenza rimane i</E
+M>è i</E
+M>la sua partecipazione alla cerimonia</E
+M>è i</E
+M>se verrò</E
+M>è i</E
+M>che la legge venga approvata</E
+M>non è certo che</E
+M>avanzava con passo i</E
+M>firmò con mano i</E
+M>scrittura</E
+M>caratteri i</E
+M>pronuncia i</E
+M>parlare con voce incerta</E
+M>combatterono a lungo con i</E
+M>esito</E
+M>la partita si sta svolgendo con forze pari</E
+M>e il finale è incerto</E
+M>il lavoro è molto</E
+M>ma il guadagno è incerto</E
+M>il tempo si mantiene incerto</E
+M>D’i</E
+M>voci e di confusi accenti</E
+M>all’i</E
+M>chiarore della lampada che ardeva davanti all’altare</E
+M>opera i</E
+M>opus incertum</E
+M>strutture</E
+M>pavimentazioni ad opera i</E
+M>lasciare il certo per l’i</E
+M>fondarsi sull’incerto</E
+M>ogni mese</E
+M>oltre la paga</E
+M>aveva sempre i suoi i</E
+M>incerti di stola</E
+M>sono gli i</E
+M>della vita</E
+M>gli i</E
+M>del mestiere</E
+M>Dare l’i</E
+M>quotare l’i</E
+M>per certo</E
+M>incerto</E
+M>certo</E
+M>dare</E
+M>quotare il certo per incerto</E
+M>reggersi incertamente sulle gambe</E

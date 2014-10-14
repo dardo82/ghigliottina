@@ -1,0 +1,40 @@
+digerire.txt
+"digerire"
+"digerire"
+"digerire"
+*''(cibo)'' [[elaborare]], [[smaltire]]  
+*''(un concetto, un testo ecc.)'' [[capire]], [[apprendere]],[[ imparare]], [[impadronirsi]] 
+*'' figurato)'' [[accettare]], [[ mandare]] [[giù]] 
+*''(cibo)'' ''restare sullo stomaco''
+*''(fam.; offese, insulti e sim.)'' [[respingere]], [[rifiutare]]
+*[[digerente]], [[digeribile]], [[digestione]], [[digestivo]], [[digesto]]
+M>diger</E
+M>dis</E
+M>ger</E
+M>io digerisco</E
+M>tu digerisci</E
+M>il pranzo</E
+M>la cena</E
+M>vado a fare due passi per digerire</E
+M>bene</E
+M>male</E
+M>lentamente</E
+M>con difficoltà</E
+M>certi cibi non riesco a digerirli</E
+M>digerirebbe anche il ferro</E
+M>la sbornia</E
+M>la bile</E
+M>la rabbia</E
+M>la stizza</E
+M>l’ira</E
+M>è un affronto che non ho ancora digerito</E
+M>questa ingiustizia non la digerisco proprio</E
+M>sono prepotenze che non si possono digerire</E
+M>non riesco a d</E
+M>questo tipo di musica</E
+M>non lo posso davvero digerire</E
+M>questa non la digerisco</E
+M>la sintassi latina non l’ha mai digerita</E
+M>digestione</E
+M>una soluzione proteica</E
+M>far digerire</E

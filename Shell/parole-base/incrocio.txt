@@ -1,0 +1,41 @@
+incrocio.txt
+"incrocio"
+"incrocio"
+"incrocio a raso"
+"incrocio con sottopasso o soprapasso"
+"incrocio di razze"
+"incrocio di razze"
+"incrocio ferroviario"
+"incrocio tra bulldog e terrier"
+*[[crocevia]]
+M>di due pali</E
+M>all’i</E
+M>delle due sbarre</E
+M>dei due cavi</E
+M>delle due navate</E
+M>stradale</E
+M>intersezione</E
+M>un i</E
+M>pericoloso</E
+M>a T</E
+M>a Y, a X</E
+M>multiplo</E
+M>la fermata del tram è dopo il secondo i</E
+M>rallentare a un i</E
+M>è vietato il sorpasso dei veicoli negli incroci</E
+M>dei pali</E
+M>segnare con un tiro all’i</E
+M>dei pali</E
+M>apparecchio d’i</E
+M>binario di i</E
+M>angolo d’i</E
+M>un i</E
+M>tra due razze che ha dato buoni risultati</E
+M>il mulo è un i</E
+M>tra asino e cavalla</E
+M>è un buon cane</E
+M>pur essendo un incrocio</E
+M>contaminazione</E
+M>brina</E
+M>pru</E
+M>bruma</E

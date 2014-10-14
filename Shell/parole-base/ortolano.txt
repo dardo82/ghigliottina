@@ -1,0 +1,18 @@
+ortolano.txt
+"ortolano"
+"ortolano"
+"ortolano"
+"ortolano"
+M>hortulanus</E
+M>fare l’o</E
+M>la bottega dell’ortolano</E
+M>fave ortolane</E
+M>Emberiza hortulana</E
+M>grigio</E
+M>Emberiza caesia</E
+M>d’acqua</E
+M>dei canneti</E
+M>di montagna</E
+M>nivale</E
+M>giallo</E
+M>della Lapponia</E

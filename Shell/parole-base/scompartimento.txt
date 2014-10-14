@@ -1,0 +1,7 @@
+scompartimento.txt
+"scompartimento"
+M>compartimento</E
+M>un armadio a tre s.</E
+M>a tre scomparti</E
+M>s. di prima</E
+M>di seconda classe</E

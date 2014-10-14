@@ -1,0 +1,143 @@
+compagnia.txt
+"cercare compagnia"
+"compagnia"
+"compagnia"
+"compagnia"
+"compagnia"
+"compagnia"
+"compagnia aerea"
+"compagnia del gas"
+"compagnia di assicurazione"
+"compagnia di bandiera"
+"compagnia di canto corale"
+"compagnia di repertorio"
+"compagnia di spedizioni"
+"compagnia marittima"
+"compagnia teatrale"
+"compagnia telefonica"
+"da compagnia"
+"di buona compagnia"
+"di buona compagnia"
+"fare compagnia"
+"grazie per la compagnia"
+"in compagnia"
+"in compagnia"
+"in compagnia di"
+"in compagnia di"
+"piacevole compagnia"
+"pronto a ricevere compagnia"
+"tenere compagnia"
+"tenere compagnia a"
+*[[gruppo]]
+M>amare la c</E
+M>desiderare la c</E
+M>cercare compagnia</E
+M>odiare la c</E
+M>prendere</E
+M>tenere per c</E
+M>per c</E
+M>prese moglie un frate</E
+M>essere in c</E
+M>era in c</E
+M>d’una signora</E
+M>stare in c</E
+M>vennero in c</E
+M>dei loro amici</E
+M>essere in buona</E
+M>in cattiva</E
+M>in piacevole c</E
+M>in dolce c</E
+M>essere in c</E
+M>di sé stesso</E
+M>dei proprî pensieri</E
+M>tenere</E
+M>far c</E
+M>a qualcuno</E
+M>fammi c.</E
+M> mangia un boccone con me</E
+M>ho accettato un bicchiere di vino</E
+M>per compagnia</E
+M>Di compagnia</E
+M>dama</E
+M>damigella di c</E
+M>essere di c</E
+M>andare di c</E
+M>andarono di c</E
+M>infino all’Aquila</E
+M>essere di c</E
+M>servire di c</E
+M>fare c</E
+M>quel cane mi è di c</E
+M>il tic tac dell’orologio mi faceva compagnia</E
+M>non obstante l’amistà e la c</E
+M>che era tra loro</E
+M>far compagnia</E
+M>i Bolognesi feciono c</E
+M>co’ Romagnoli</E
+M>una c</E
+M>di amici</E
+M>una c</E
+M>affiatata</E
+M>piccola</E
+M>grossa</E
+M>magra c</E
+M>la nostra c</E
+M>a poco a poco s’assottigliava</E
+M>fuggire le cattive c</E
+M>frequentare le buone c</E
+M>e c</E
+M>bella</E
+M>ecc</E
+M>venne il principe con grande compagnia</E
+M>del Divino Amore</E
+M>della buona morte</E
+M>della Misericordia</E
+M>Confraternita della Misericordia</E
+M>di Gesù</E
+M>di scaricatori</E
+M>drammatica</E
+M>di prosa</E
+M>di operette</E
+M>una c</E
+M>di riviste</E
+M>nomade</E
+M>stabile</E
+M>le c</E
+M>di provincia</E
+M>una c</E
+M>di second’ordine</E
+M>una c</E
+M>di guitti</E
+M>formare una c</E
+M>sciogliere la c</E
+M>una c</E
+M>di saltimbanchi</E
+M>company</E
+M>società</E
+M>di assicurazione</E
+M>di navigazione</E
+M>le c</E
+M>aeree</E
+M>la c</E
+M>di bandiera</E
+M>privilegiata</E
+M>a carta</E
+M>chartered company</E
+M>concessionaria</E
+M>inglese delle Indie</E
+M>olandese delle Indie Orientali</E
+M>olandese delle Indie Occidentali</E
+M>francese delle Indie Orientali</E
+M>d’Occidente</E
+M>delle Indie</E
+M>Contratto di compagnia</E
+M>compagnie di ventura</E
+M>una c</E
+M>di fanteria</E
+M>del genio</E
+M>fucilieri</E
+M>mortai</E
+M>cannoni</E
+M>di disciplina</E
+M>di sbarco</E
+M>marines</E

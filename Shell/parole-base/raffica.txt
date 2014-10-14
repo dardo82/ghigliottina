@@ -1,0 +1,33 @@
+raffica.txt
+"a raffica"
+"attaccare con una raffica di parole"
+"fuoco a raffica"
+"parlare a raffica"
+"raffica"
+"raffica"
+"raffica"
+"raffica di neve"
+"raffica di vento"
+"raffica di vento, folata di vento, colpo di vento"
+"sparare a raffica"
+*[[folata]], [[ventata]], [[colpo di vento]]
+M>raff</E
+M>colpo di vento</E
+M>folata</E
+M>il vento soffiava a raffiche</E
+M>impetuose scuotevano gli alberi</E
+M>una r</E
+M>di neve</E
+M>di pioggia</E
+M>di grandine</E
+M>una r</E
+M>di mitragliatrice lo abbatté al suolo</E
+M>una r</E
+M>di colpi</E
+M>una r</E
+M>di fucileria</E
+M>una r</E
+M>di pugni</E
+M>di schiaffi</E
+M>lo investì con una r</E
+M>d&#8217;insulti</E

@@ -1,0 +1,102 @@
+conoscenza.txt
+"a conoscenza di"
+"a conoscenza di"
+"a tua conoscenza"
+"acquisire conoscenza"
+"acquisire conoscenza; comprensione di qcs."
+"acquisizione di conoscenza"
+"albero della conoscenza"
+"ampia conoscenza"
+"avere conoscenza di qcs."
+"avere una buona conoscenza di"
+"avere una conoscenza approfondita per"
+"buona conoscenza"
+"certificato di buona conoscenza"
+"conoscenza"
+"conoscenza"
+"conoscenza"
+"conoscenza a priori"
+"conoscenza anteriore"
+"conoscenza approfondita"
+"conoscenza assoluta"
+"conoscenza carnale"
+"conoscenza del mondo"
+"conoscenza enciclopedica"
+"conoscenza enciclopedica"
+"conoscenza imperfetta"
+"conoscenza intima"
+"conoscenza intuitiva"
+"conoscenza pratica"
+"conoscenza precedente"
+"conoscenza profonda"
+"conoscenza specialistica"
+"conoscenza tecnica"
+"conoscere, fare la conoscenza di"
+"conoscere; avere conoscenza"
+"conoscere; avere conoscenza di"
+"espediente narrativo in cui il lettore ha una conoscenza dei fatti superiore ai personaggi narrati"
+"essere a conoscenza di (qc di riservato)"
+"fare la conoscenza di"
+"fare la conoscenza; diventare intimi di qcn."
+"frontiere della conoscenza"
+"fuori conoscenza"
+"per conoscenza"
+"perdere conoscenza"
+"riprendere conoscenza"
+"sono venuta a conoscenza"
+"teoria della conoscenza"
+"trasmettere la conoscenza"
+"vasta conoscenza"
+"vasta conoscenza"
+"venire a conoscenza"
+"venire a conoscenza di"
+"venire a conoscenza di"
+#* ''perdere conoscenza''
+*[[sapere]], [[cultura]], [[erudizione]], [[sapienza]]; [[scienza]], [[dottrina]], [[cognizione]],[[nozione]];[[esperienza]],[[pratica]], [[familiarità]], [[appoggio]], [[protezione]]; [[contatto]], [[relazione]]
+*[[sconosciuto]], [[estraneo]], [[disinformazione]], [[ignoranza]], [[incompetenza]], [[inesperienza]], [[oscurità]]
+*[[conoscente]], [[conoscere]] 
+*[[aderenza]],[[amicizia]],[[amico]], [[ammanicamenti]],  [[apprendimento]], [[capacità]],[[cognizione]], [[competenza]], [[contatti]], [[coscienza]], [[cultura]], [[dato]], [[dimestichezza]], [[dominio]], [[dottrina]], [[entratura]],[[esperienza]], [[familiarità]], [[gnoseologia]], [[istruzione]], [[nozione]], [[padronanza]], [[possesso]], [[pratica]],[[presentazione]],[[principio]], [[processo cognitivo]], [[protezioni]], [[ragionevolezza]], [[rapporto]], [[relazione]], [[sapere]], [[sapienza]], [[scibile]], [[scienza]], [[sensi]]
+*Enciclopedia [http
+M>cognoscentia</E
+M>cognosc</E
+M>sono lieto di fare la vostra c</E
+M>ho fatto c</E
+M>con il direttore</E
+M>dicono e predicono che la perfezione dell’uomo consiste nella c</E
+M>del vero</E
+M>venire a c</E
+M>acquistare c</E
+M>di una cosa</E
+M>non è ancora venuto a c</E
+M>della situazione</E
+M>giungere a c</E
+M>di qualcuno</E
+M>la notizia del fatto non è ancora giunta a sua conoscenza</E
+M>Copia per c.</E
+M>non ha la minima c</E
+M>delle norme della circolazione</E
+M>la nostra c</E
+M>della natura è molto limitata</E
+M>essere a c</E
+M>avere c</E
+M>di una cosa</E
+M>sono a c</E
+M>di tutti i particolari</E
+M>ho perfetta c</E
+M>di ciò che debbo fare</E
+M>il fatto non è a mia c</E
+M>è persona di mia c</E
+M>per c</E
+M>della firma</E
+M>il malato ha perso la c</E
+M>serbare</E
+M>riprendere</E
+M>riacquistare la c</E
+M>tutta morta Fia nostra conoscenza da quel punto Che del futuro fia chiusa la porta</E
+M>teoria della c</E
+M>gnoseologia</E
+M>è una mia vecchia c</E
+M>ha molte c</E
+M>al ministero</E
+M>è una vecchia c</E
+M>della questura</E

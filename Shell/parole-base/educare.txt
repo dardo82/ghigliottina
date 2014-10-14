@@ -1,0 +1,58 @@
+educare.txt
+"educare"
+"educare"
+"educare"
+*[[istruire]], [[formare]], [[insegnare]], [[erudire]], [[guidare]], [[ammaestrare]]
+*[[affinare]], [[dirozzare]], [[raffinare]], [[incivilire]], [[correggere]]
+*[[esercitare]], [[allenare]], [[abituare]], [[assuefare]]
+*[[diseducare]], [[corrompere]]
+*[[rovinare]]
+*[[disabituare]]
+*[[educabile]], [[educanda]], [[educato]],[[rieducare]]
+*[[educatore]], [[educazione]]
+*italiano
+*latino
+M>educare</E
+M>educ</E
+M>duc</E
+M>io èduco</E
+M>tu èduchi</E
+M>edùco</E
+M>i figli</E
+M>la gioventù</E
+M>bene</E
+M>male</E
+M>con precetti</E
+M>con l’esempio</E
+M>il popolo</E
+M>al bene</E
+M>alla virtù</E
+M>al vivere civile</E
+M>all’amor di patria</E
+M>i giovani allo studio</E
+M>alla modestia</E
+M>alla moderatezza</E
+M>i figli nel timor di Dio</E
+M>il cuore</E
+M>la mente</E
+M>gli affetti</E
+M>la volontà</E
+M>l’ingegno</E
+M>la fantasia</E
+M>l’immaginazione</E
+M>il gusto</E
+M>i sensi</E
+M>all’arte</E
+M>al culto della verità</E
+M>della libertà</E
+M>l’orecchio a distinguere i suoni</E
+M>a sentire la musica</E
+M>l’occhio a discernere i colori</E
+M>a intendere la pittura</E
+M>educarsi</E
+M>il corpo alle fatiche</E
+M>il braccio al lavoro</E
+M>i buoi al giogo</E
+M>estrano Il suol nativo</E
+M>e di sua prole ignaro Le meste anime edùca</E
+M>Le fontane versando acque lustrali Amaranti educavano e vï0le</E

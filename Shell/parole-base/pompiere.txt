@@ -1,0 +1,14 @@
+pompiere.txt
+"pompiere"
+"pompiere"
+"pompiere"
+"pompiere volontario"
+"pompiere, vigile del fuoco"
+*[[vigile del fuoco]]
+*italiano
+M>pompier</E
+M>pompe</E
+M>il corpo dei p.</E
+M>la caserma dei p.</E
+M>chiamare i p.</E
+M>si sentiva lontana la sirena dei pompieri</E

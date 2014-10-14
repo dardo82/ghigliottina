@@ -1,0 +1,96 @@
+trasmissione.txt
+"a trasmissione elettrica"
+"banda di trasmissione"
+"canale di trasmissione"
+"che avviene per trasmissione a ingranaggi"
+"cinghia di trasmissione"
+"efficienza della trasmissione"
+"linea di trasmissione"
+"linee di trasmissione pubblica"
+"microscopio elettronico a trasmissione"
+"perdita di trasmissione"
+"torre di trasmissione"
+"trasmissione"
+"trasmissione"
+"trasmissione"
+"trasmissione"
+"trasmissione"
+"trasmissione"
+"trasmissione a catena"
+"trasmissione a distanza"
+"trasmissione a microonde"
+"trasmissione automatica"
+"trasmissione di beni"
+"trasmissione di luce"
+"trasmissione diretta"
+"trasmissione in chiaro"
+"trasmissione in diretta"
+"trasmissione standard"
+"trasmissione televisiva"
+"trasmissione televisiva"
+"trasmissione televisiva"
+"unità di trasmissione"
+*(di oggetti) [[passaggio]]
+*(di malattia) [[infezione]], [[contagio]]
+*(di notizie) [[comunicazione]], [[diffusione]], [[divulgazione]], messa in onda, [[emissione]]; [[programma]], programma radiofonico, programma televisivo
+*[[trasmettere]], [[trasmettente]], [[trasmettitore]]
+*[[spedizione]] 
+M>transmissio -onis</E
+M>transmitt</E
+M>transmissus</E
+M>t. di un bene</E
+M>di una proprietà</E
+M>di un diritto a terzi</E
+M>t. di un’eredità</E
+M>del diritto di accettazione dell’eredità</E
+M>t. dei caratteri ereditarî</E
+M>t. genetica</E
+M>t. per contagio di una malattia</E
+M>di un’infezione</E
+M>t. del pensiero</E
+M>t. verticale</E
+M>t. orizzontale</E
+M>t. dell’energia elettrica in una rete</E
+M>t. del calore</E
+M>t. meccanica</E
+M>organi di t.</E
+M>trasmissione</E
+M>rapporto di t.</E
+M>rendimento della t.</E
+M>t. idraulica</E
+M>t. pneumatica</E
+M>coefficiente</E
+M>fattore</E
+M>di t. di un mezzo</E
+M>coefficiente di trasparenza</E
+M>t. di un messaggio</E
+M>di dati</E
+M>di segnali</E
+M>per telefono</E
+M>per telegrafo</E
+M>per radio</E
+M>t. telefonica</E
+M>telegrafica</E
+M>radio</E
+M>radiotelefonica</E
+M>t. via cavo</E
+M>via satellite</E
+M>la t. è stata bruscamente interrotta</E
+M>inizio</E
+M>fine della t.</E
+M>intercettare</E
+M>decifrare una t. in cifra</E
+M>in codice</E
+M>t. dati</E
+M>essere addetto alle t.</E
+M>reggimento trasmissioni</E
+M>una t. interessante</E
+M>divertente</E
+M>t. serali</E
+M>pomeridiane</E
+M>t. culturali</E
+M>didattiche</E
+M>musicali</E
+M>di varietà</E
+M>ascoltare una t.</E
+M>assistere a una trasmissione</E

@@ -1,0 +1,208 @@
+luna.txt
+"a forma di luna"
+"a mezza luna"
+"abbaiare alla luna"
+"aspettarsi la luna"
+"avere la luna di traverso"
+"avere la luna storta"
+"chiaro di luna"
+"chiaro di luna"
+"Dea della luna"
+"del luna park, relativo al luna park"
+"di luna piena"
+"di pesce luna"
+"falcetto di luna"
+"falcetto di luna"
+"fasi della luna"
+"illuminato dalla luna"
+"la luna"
+"luna"
+"luna"
+"lunazione"
+"luna"
+"luna calante"
+"luna calante"
+"luna crescente"
+"luna di miele"
+"luna gibbosa"
+"luna nuova"
+"luna park"
+"luna piena"
+"luna settembrina"
+"offesa, collera, luna storta"
+"papera, luna"
+"prima luna piena dopo la mietitura"
+"quarto di luna"
+"raggio di luna"
+"sposo in luna di miele"
+"uomo sulla luna"
+"venire dalla luna"
+"viaggio sulla Luna"
+* satellite della Terra
+*mese lunare, [[lunazione]]
+* [[Luna]]
+*italiano
+*spagnolo
+* occitano
+M>librazione</E
+M>rivoluzione siderale</E
+M>mese sidereo</E
+M>rivoluzione sinodica</E
+M>mese sinodico</E
+M>lunare</E
+M>lunazione</E
+M>fasi della l</E
+M>nuova</E
+M>novilunio</E
+M>disco lunare</E
+M>faccia della luna</E
+M>primo quarto</E
+M>piena</E
+M>plenilunio</E
+M>in quintadecima</E
+M>ultimo quarto</E
+M>crescente</E
+M>calante</E
+M>gobba a ponente l</E
+M>crescente</E
+M>gobba a levante l</E
+M>calante</E
+M>gobba</E
+M>falcata</E
+M>corni</E
+M>corna</E
+M>mezza l</E
+M>scema</E
+M>Età della l</E
+M>ha fatto la luna</E
+M>di febbraio</E
+M>di settembre</E
+M>la l</E
+M>sorge</E
+M>si leva</E
+M>tramonta</E
+M>le macchie della l</E
+M>macchie lunari</E
+M>mari</E
+M>continenti</E
+M>monti della l</E
+M>monte della l</E
+M>crateri</E
+M>circhi</E
+M>della l</E
+M>la rotazione</E
+M>la rivoluzione</E
+M>l’orbita della l</E
+M>eclissi di l</E
+M>i raggi della l</E
+M>l’argenteo raggio</E
+M>l’argentea luna</E
+M>l’astro d’argento</E
+M>conquista della l</E
+M>chiaro di l</E
+M>lume di l</E
+M>c’era un bellissimo chiaro di l</E
+M>passeggiate romantiche al chiaro di l</E
+M>chiari di l</E
+M>lumi di l</E
+M>con questi chiari di l</E
+M>non posso permettermi certe spese</E
+M>Cielo della Luna</E
+M>Paradiso</E
+M>artificiali</E
+M>lune</E
+M>luna</E
+M>crescente</E
+M>luna</E
+M>Breve pertugio dentro da la Muda</E
+M>M’avea mostrato per lo suo forame Più lune già</E
+M>sono passate da allora quattro l</E
+M>cambia d’idee a ogni luna</E
+M>Tale</E
+M>balbuziendo ancor</E
+M>digiuna</E
+M>Che poi divora</E
+M>con la lingua sciolta</E
+M>Qualunque cibo per qualunque luna</E
+M>di miele</E
+M>honey moon</E
+M>lune de miel</E
+M>passare</E
+M>trascorrere la l</E
+M>di miele in vacanza</E
+M>dopo tanti anni</E
+M>sembrano ancora in l</E
+M>di miele!</E
+M>andare a Venezia in l</E
+M>di miele</E
+M>Viso</E
+M>faccia</E
+M>faccione di l</E
+M>piena</E
+M>che l</E
+M>piena!</E
+M>è tondo come la l</E
+M>come la l</E
+M>d’agosto</E
+M>è più tondo della l</E
+M>tondo</E
+M>tonto</E
+M>Osteria della l</E
+M>piena</E
+M>Sotto la l</E
+M>tutto l’oro ch’è sotto la l</E
+M>tanti affanni uom mai sotto la luna Non sofferse quant’io</E
+M>Abbaiare alla l</E
+M>la l</E
+M>non cura l’abbaiar dei cani</E
+M>Domandare</E
+M>volere</E
+M>desiderare la l</E
+M>pretendere di pigliare la l</E
+M>nel pozzo</E
+M>mostrare</E
+M>far vedere la l</E
+M>nel pozzo</E
+M>mondo della l</E
+M>essere nella l</E
+M>avere la testa</E
+M>il cervello nella l</E
+M>vivere nel mondo della l</E
+M>è ancora nel mondo della l</E
+M>sei nel mondo della l</E
+M>vieni dalla l</E
+M>dal mondo della l</E
+M>eri ancora nel mondo della l</E
+M>è volubile come la l</E
+M>è allegro o musone secondo le lune</E
+M>lunatico</E
+M>essere</E
+M>andare a lune</E
+M>a quarti di luna</E
+M>essere in</E
+M>buona</E
+M>cattiva l</E
+M>avere la l</E
+M>le l</E
+M>a rovescio</E
+M>di traverso</E
+M>avere la l</E
+M>storta</E
+M>avere le l</E
+M>avere la l</E
+M>cornea</E
+M>caustico lunare</E
+M>Mal di luna</E
+M>licantropia</E
+M>Mal della l</E
+M>luna</E
+M>oftalmia periodica</E
+M>Pesce luna</E
+M>Mola mola</E
+M>pesce mola</E
+M>pesce tamburo</E
+M>Lampris regius</E
+M>rondino</E
+M>pesce castagna</E
+M>Brama raji</E
+M>pietra di luna</E

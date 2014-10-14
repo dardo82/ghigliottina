@@ -1,0 +1,79 @@
+comprare.txt
+"comprare"
+"comprare"
+"comprare a credito"
+"comprare a credito"
+"comprare a termine"
+"comprare all'asta"
+"comprare all'ingrosso"
+"comprare il silenzio"
+"comprare qc"
+"comprare qc a buon mercato"
+"comprare un prodotto finanziario sperando che guadagni"
+"comprare una società per venderne le singole attività"
+"fare incetta, rastrellare, comprare in blocco"
+"comprare tutti i pezzi di un articolo"
+"guardare le merci senza comprare"
+#*'''''ho comprato''' una casa a Milano''
+#*''il ricco malfattore '''comprò''' tutta la giuria al fine di venir assolto dalle terribili accuse che gli erano state rivolte''
+*[[acquistare]]
+*[[vendere]]
+* [[comperare]]
+*Palazzi, Folena, dizionario della lingua italiana, Loescher
+M>comp</E
+M>rare</E
+M>con</E
+M>parare</E
+M>io cómpro</E
+M>cómpero</E
+M>una casa</E
+M>un terreno</E
+M>il pane</E
+M>il vino</E
+M>tre metri di tela</E
+M>al minuto</E
+M>all’ingrosso</E
+M>in bottega</E
+M>in negozio</E
+M>alla cooperativa</E
+M>al mercato</E
+M> all’outlet</E
+M>dal macellaio</E
+M>dal droghiere</E
+M>dal produttore</E
+M>all’asta</E
+M>a credito</E
+M>in contanti</E
+M>di seconda mano</E
+M>a buon prezzo</E
+M>comprar bene</E
+M>a caro prezzo</E
+M>comprar caro</E
+M>comprar male</E
+M>che cosa m’hai comprato?</E
+M>mi comperi queste uova</E
+M>signora</E
+M>il raccolto in erba</E
+M>chi disprezza compra</E
+M>chi biasima vuol comprare</E
+M>e non vendere</E
+M>te la vendo come l’ho comprata</E
+M>i voti</E
+M>le lodi</E
+M>gli onori</E
+M>i giudici</E
+M>i testimoni</E
+M>con regali</E
+M>con promesse</E
+M>con lusinghe</E
+M>col denaro</E
+M>con l’oro</E
+M>tutto si compra</E
+M>l’oro non compra tutto</E
+M>cómpro</E
+M>pane comprato</E
+M>vino</E
+M>olio comprato</E
+M>lodi</E
+M>voti</E
+M>onori comprati</E

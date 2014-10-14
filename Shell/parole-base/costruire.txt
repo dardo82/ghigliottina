@@ -1,0 +1,48 @@
+costruire.txt
+"costruire"
+"costruire"
+"costruire barili"
+"costruire fiducia"
+"costruire il nido"
+"costruire il ponte"
+"costruire l'intelaiatura del muro"
+"costruire sul modello di"
+"costruire un modellino di aeroplano"
+*[[fabbricare]], [[assemblare]]
+*[[costruibile]], [[costruttivo]], [[costruttore]], [[costruzione]], [[decostruire]], [[costruito]]
+M>constru</E
+M>con</E
+M>stru</E
+M>io costrüisco</E
+M>tu costrüisci</E
+M>costrüìi</E
+M>costrussi</E
+M>costrüisti</E
+M>costrüito</E
+M>costrutto</E
+M>un palazzo</E
+M>un ponte</E
+M>un muro</E
+M>un motore</E
+M>hanno costruito</E
+M>si è costruito</E
+M>molto in questa zona</E
+M>un ingegnoso sistema</E
+M>inganni</E
+M>la civile società sopra solide basi</E
+M>da sé la propria vita</E
+M>la propria fortuna</E
+M>è una persona che ha costruito nella sua vita</E
+M>c. sulla sabbia</E
+M>sull’arena</E
+M>un quadrato di 6 cm di lato</E
+M>in un triangolo rettangolo</E
+M>il quadrato costruito sull’ipotenusa è equivalente alla somma dei quadrati costruiti sui due cateti</E
+M>saper c</E
+M>male</E
+M>non saper c</E
+M>un periodo</E
+M>in latino</E
+M>il verbo</E
+M>iubeo</E
+M>si costruisce con l’accusativo e l’infinito</E

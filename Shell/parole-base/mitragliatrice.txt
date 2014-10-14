@@ -1,0 +1,16 @@
+mitragliatrice.txt
+"forma primitiva di mitragliatrice"
+"fuoco di mitragliatrice"
+"mitragliatrice"
+"mitragliatrice"
+"mitragliatrice leggera"
+*[[mitraglia]]
+*''parlare come una mitragliatrice''
+M>mitragliatore</E
+M>pesanti</E
+M>leggere</E
+M>a corto rinculo</E
+M>a sottrazione di gas</E
+M>è una m</E
+M>quando parla</E
+M>parla come una m</E

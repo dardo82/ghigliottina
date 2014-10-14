@@ -1,0 +1,76 @@
+offendere.txt
+"offendere"
+"offendere"
+"offendere"
+"offendere"
+"offendere, replace: offendersi"
+"offendere, replace: offendersi"
+"offendere qualcuno"
+"offendere qualcuno"
+#*''Gli studenti '''offesero''' il professore''
+*[[insultare]], [[ingiuriare]], [[oltraggiare]], [[diffamare]], [[vilipendere]]
+*[[molestare]], [[violare]], [[contravvenire]]
+*[[danneggiare]], [[ledere]], [[nuocere]]
+*[[ferire]]
+*[[elogiare]], [[encomiare]]
+*[[offendersi]],[[offendibile]]
+M>off</E
+M>fend</E
+M>difendere</E
+M>offési</E
+M>offendésti</E
+M>offéso</E
+M>offènso</E
+M>qualcuno nell’onore</E
+M>nella reputazione</E
+M>nella persona</E
+M>nel patrimonio</E
+M>ledere</E
+M>oh creature sciocche</E
+M>Quanta ignoranza è quella che v’offende!</E
+M>con insulti</E
+M>con ingiurie</E
+M>con proposte oscene</E
+M>mi offendi se parli così</E
+M>se pensi questo di me</E
+M>i tuoi sospetti mi hanno gravemente offeso</E
+M>scusa</E
+M>non avevo intenzione di offenderti</E
+M>Dio</E
+M>se continuano a offendersi così</E
+M>la lite finisce a botte</E
+M>l’offenderei se gli dessi la mancia?</E
+M>volevo offrirgli il mio aiuto</E
+M> ma ho avuto timore di offenderlo</E
+M>la giustizia</E
+M> la moralità</E
+M>il buon costume</E
+M>i diritti altrui</E
+M>la tua incredulità offende il mio amor proprio</E
+M>le sue frasi hanno offeso i miei sentimenti più sacri</E
+M>è una moda che offende il buon gusto</E
+M>le sue affermazioni offendono il senso comune</E
+M>puote l’uomo disdicere non offendendo a la veritade</E
+M>quello che</E
+M>più l’offendeva</E
+M>era il cognoscimento della sua infima condizione</E
+M>Enea</E
+M>quantunque offeso Da tante morti il cor funesto avesse</E
+M>Pianta gentil</E
+M>Te non offenda mai caldo né gelo</E
+M>ledere</E
+M>il proiettile ha offeso il polmone</E
+M>l’occhio è stato offeso da una scheggia</E
+M>gli occhi</E
+M>la vista</E
+M>l’orecchio</E
+M>le nari</E
+M>il naso</E
+M>l’olfatto</E
+M>si è offeso delle tue parole</E
+M>si sono offesi per lo scherzo</E
+M>credo che si sia offeso perché non lo abbiamo invitato</E
+M>non ti sarai offeso</E
+M>spero</E
+M>per la mia osservazione</E
+M>non è il caso di offendersi per così poco!</E

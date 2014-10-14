@@ -1,0 +1,134 @@
+tesoro.txt
+"agente speciale del tesoro"
+"amore, tesoro"
+"buono del Tesoro a lungo termine"
+"buono ordinario del Tesoro"
+"caccia al tesoro"
+"caccia al tesoro"
+"cassa del tesoro"
+"chi trova un amico trova un tesoro"
+"del tesoro ritrovato"
+"della stanza del tesoro"
+"fare tesoro dei consigli di"
+"fare tesoro di qualcosa"
+"ministero del tesoro"
+"scrigno del tesoro"
+"segretario del tesoro"
+"stanza del tesoro"
+"stanza del tesoro, miniera"
+"tesoro"
+"tesoro"
+"tesoro"
+"tesoro"
+"tesoro"
+"tesoro nascosto"
+"tesoro pubblico"
+"tesoro trovato"
+#*'' ha un figlio che è un 
+#* ''ciao 
+#*''Sei davvero un tesoro di persona''
+*[[oro]], beni preziosi, [[denaro]], [[soldi]], [[ricchezza]], [[patrimonio]], [[capitale]], [[fortuna]], [[gruzzolo]]
+*patrimonio pubblico, [[fisco]], [[erario]]
+*[[tesoriere]], [[tesoreria]], [[tesaurizzare]]
+*italiano
+*spagnolo
+M>thesaurus</E
+M>accumulare</E
+M>aver accumulato un t.</E
+M>custodire</E
+M>nascondere</E
+M>seppellire un t.</E
+M>il Saladino</E
+M> ... avendo in diverse guerre e in grandissime sue magnificenze speso tutto il suo t.</E
+M>quanto t. volle Nostro Segnore in prima da san Pietro Ch&#8217;ei ponesse le chiavi in sua balìa?</E
+M>ammassare tesori</E
+M>è padrone di t. immensi</E
+M>profondere tesori</E
+M>vale</E
+M>costa un t.</E
+M>in quel periodo di carestia</E
+M> chi aveva un sacco di grano era padrone di un tesoro.</E
+M>l&#8217;articolo 932 del codice civile regola la proprietà del t. scoperto in fondo altrui.</E
+M>il t. della basilica di San Pietro</E
+M>il t. della Santa Casa di Loreto.</E
+M>Caccia al t.</E
+M>organizzare una caccia al t. in casa</E
+M>all&#8217;aperto</E
+M>in giardino</E
+M>in un parco</E
+M>partecipare a una caccia al t. in campagna</E
+M>a piedi</E
+M>in moto</E
+M>in auto</E
+M>t. sacro</E
+M>tesoro</E
+M>il t. di Delfi</E
+M>di Eleusi.</E
+M>tesoro</E
+M>il t. di Atene.</E
+M>t. corazzato</E
+M>camera blindata</E
+M>corazzata</E
+M>sagrestia</E
+M>il t. di una chiesa cattedrale</E
+M>di un santuario</E
+M>il celebre t. ionico di Sifno</E
+M>i tredici t. del santuario panellenico di Olimpia</E
+M>T. pubblico</E
+M>Tesoro</E
+M>Dipartimento del T.</E
+M>Direzione generale del T.</E
+M>Uffici provinciali del T.</E
+M>buoni del T.</E
+M>un funzionario del T.</E
+M>recarsi al Tesoro per la pratica della pensione.</E
+M>T. di guerra</E
+M>i t. del mare</E
+M>i grandi t. nascosti nelle viscere della terra</E
+M>un museo che raccoglie inestimabili t. d&#8217;arte</E
+M>i t. degli Uffizî</E
+M>del Louvre</E
+M>tesori d&#8217;antiquariato.</E
+M>la semplicità e la modestia sono un t. sempre più raro</E
+M>scendano su di noi i t. della grazia divina</E
+M>avere</E
+M>possedere</E
+M>scoprire tesori di ...</E
+M>trovò in se stesso tesori di grazia e di spirito che non sapeva di avere</E
+M>tesoro della Chiesa</E
+M>un buon amico è un vero t.</E
+M>la libertà è il t. più prezioso che abbia un popolo</E
+M>l&#8217;innocenza è un t. che va custodito gelosamente</E
+M>che t. di ragazzo</E
+M>di bambina</E
+M>ha una moglie che è un vero t.</E
+M>che t. di marito!</E
+M>ha una segretaria</E
+M>un collaboratore</E
+M>una governante che è un t.</E
+M>impagabile</E
+M>vale tant&#8217;oro quanto pesa</E
+M>La luce in che rideva il mio t.</E
+M>ciao</E
+M> t.!</E
+M>come stai</E
+M> t.?</E
+M>dimmi</E
+M> t.</E
+M>t. mio!</E
+M>Fare tesoro di qualche cosa</E
+M>cerca di far t. dei miei insegnamenti</E
+M>farò t. dei tuoi consigli</E
+M>Veramente quant&#8217;io del regno santo Ne la mia mente potei far tesoro</E
+M> Sarà ora materia del mio canto</E
+M>thesaurus</E
+M>il &#171;Tesoro&#187; di Brunetto Latini</E
+M>Li livres dou Tresor</E
+M>Tesoretto</E
+M>il t. lessicale di una lingua</E
+M>Tesoro</E
+M>Thesaurus</E
+M>Trésor</E
+M>sei il mio tesoretto</E
+M>non piangere</E
+M> tesoruccio di mamma</E

@@ -1,0 +1,138 @@
+regola.txt
+"avere le carte in regola"
+"avere le carte in regola"
+"avere le carte in regola"
+"di regola"
+"eccezione alla regola"
+"essere in regola con gli esami"
+"essere in regola con i pagamenti"
+"in regola con i pagamenti"
+"la Regola"
+"la regola ha le sue brave eccezioni"
+"mettersi in regola"
+"mettersi in regola con i documenti"
+"regola"
+"regola"
+"regola"
+"regola"
+"regola aurea"
+"regola che ammette come prova solo la dichiarazione del testimone"
+"regola che limita o conclude il dibattimento in un corpo deliberativo"
+"regola del tre"
+"regola di base"
+"regola di derivazione di funzione composta"
+"regola di maggioranza"
+"regola empirica approssimativa"
+"regola ferrea"
+"regola generica; generale"
+"regola non scritta"
+"regola speciale"
+"regola trapezoidale"
+"seguire la regola"
+"strappo alla regola"
+#* ''stabilire, fissare una regola''; ''attenersi a una regola''
+#*''le regole di matematica, di sintassi''
+#*''una buona regola di vita''; ''non aver regole nello spendere, nel bere'';
+#* ''di regola si fa così'' 
+#*''nella tradizione cristiana''; ''la regola benedettina; francescana.''
+#* ''tenere i conti in regola''; ''essere in regola con la legge, con la propria coscienza''
+#* ''le regole della sintassi latina ''
+#* ''regola del tre semplice e tre composto'' 
+*[[controllo]], [[temperanza]]
+*italiano
+M>reg</E
+M>reg</E
+M>fatti che si svolgono secondo una r</E
+M>senza una r</E
+M>fissa</E
+M>stabilire</E
+M>insegnare</E
+M>osservare una r</E
+M>attenersi a una r</E
+M>legge</E
+M>eccezione alla r</E
+M>non c&#8217;è r</E
+M>senza eccezione</E
+M>l&#8217;eccezione conferma la r</E
+M>questo non fa r</E
+M>del tre semplice</E
+M>del tre composto</E
+M>per l&#8217;estrazione di radice</E
+M>di derivazione</E
+M>di integrazione</E
+M>delle tre dita</E
+M>del cavatappi</E
+M>delle fasi</E
+M>d&#8217;oro</E
+M>le r</E
+M>della grammatica</E
+M>della sintassi</E
+M>le r</E
+M>delle concordanze</E
+M>del discorso indiretto</E
+M>regola di diritto</E
+M>regula iuris</E
+M>regole</E
+M>dell&#8217;ottava</E
+M>legge</E
+M>di Allen</E
+M>di Bergmann</E
+M>le r</E
+M>del gioco</E
+M>una cosa fatta secondo le r</E
+M>dell&#8217;arte</E
+M>fatto a regola d&#8217;arte</E
+M>secondo le r</E
+M>con tutte le r</E
+M>una buona r</E
+M>di vita</E
+M>mangiare</E
+M>bere senza r</E
+M>rispondere al saluto è buona r</E
+M>di educazione</E
+M>è r</E
+M>di prudenza</E
+M>tutto questo vi serva di r</E
+M>per vostra r</E
+M>per vostra norma e r</E
+M>tutto era messo in mostra con una certa r</E
+M>oggetti gettati qua e là senza r</E
+M>piova Etterna</E
+M>maladetta</E
+M>fredda e greve; Regola e qualità mai non l&#8217;è nova</E
+M>tavolo delle r.</E
+M>tavolo</E
+M>di regola</E
+M>si prendano alcune carte</E
+M>di r</E
+M>tre</E
+M>in regola</E
+M>tenere i quaderni</E
+M>i conti</E
+M>le carte in r</E
+M>avere le carte in r</E
+M>mettere in r</E
+M>le proprie cose</E
+M>essere</E
+M>mettersi in r</E
+M>con la legge</E
+M>con la propria coscienza</E
+M>con la Chiesa</E
+M>con Dio</E
+M>essere</E
+M>mettersi in r</E
+M>con qualcuno</E
+M>titoli in r</E
+M>in regola</E
+M>la r</E
+M>benedettina</E
+M>di s</E
+M>Agostino</E
+M>francescana</E
+M>la r</E
+M>basiliana</E
+M>carta di regola</E
+M>regole</E
+M>mestruazioni</E
+M>avere le r</E
+M>le proprie regole</E

@@ -1,0 +1,59 @@
+personaggio.txt
+"di personaggio famoso"
+"individuo piccolo e tozzo (dal personaggio di alice nel paese delle meraviglie)"
+"inventare un personaggio"
+"personaggio"
+"personaggio"
+"personaggio"
+"personaggio che rappresenta il ghiaccio, il freddo, l'inverno"
+"personaggio di spessore"
+"personaggio eccentrico, tipo stravagante"
+"personaggio famoso"
+"personaggio femminile"
+"personaggio in vista"
+"personaggio specifico"
+"piccolo e tozzo (dal personaggio di alice nel paese delle meraviglie)"
+"ruolo del personaggio che dà il titolo all'opera"
+* persona importante, [[autorità]], [[personalità]], [[big]], [[boss]], [[notabile]], [[luminare]]
+*''(di romanzo, film)'' [[protagonista]], [[eroe]]
+*[[nullità]]
+M>personnage</E
+M>personne</E
+M>i grandi p</E
+M>della storia</E
+M>della politica</E
+M>dell&#8217;economia</E
+M>un autorevole p</E
+M>della vita culturale e artistica</E
+M>si comportava come se fosse un gran p</E
+M>io mi anniento nel vedermi innanzi a quei grandi p</E
+M>che abbracciavano tutto lo scibile coll&#8217;estensione del loro sapere</E
+M>i p</E
+M>di una tragedia</E
+M>di una commedia</E
+M>un p</E
+M>che non parla</E
+M>i p</E
+M>dell&#8217;Alfieri</E
+M>delle commedie del Goldoni</E
+M>i p</E
+M>di Shakespeare</E
+M>di Molière</E
+M>i caratteri dei p</E
+M>interpretare</E
+M>rappresentare un p</E
+M>difficile</E
+M>complesso</E
+M>i p</E
+M>del Decameron</E
+M>dei Promessi Sposi</E
+M>i p</E
+M>di un film</E
+M> di un originale televisivo</E
+M>Per Siragozza si facevan balli E giochi e personaggi e fuochi e tresche</E
+M>Con torniamenti</E
+M>personaggi e farse</E
+M>Danze e conviti attese a dilettarse</E
+M>che strano p</E
+M>quel tuo amico!</E
+M>a suo modo è anche lei un personaggio</E

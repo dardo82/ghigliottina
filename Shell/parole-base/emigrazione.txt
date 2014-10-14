@@ -1,0 +1,32 @@
+emigrazione.txt
+"emigrazione"
+*[[immigrazione]]
+*[[emigrare]], [[emigrato]]
+M>emigratio</E
+M>onis</E
+M>esterna</E
+M>interna</E
+M>l’e</E
+M>degli italiani negli Stati Uniti</E
+M>l’e</E
+M>dei lavoratori meridionali al nord</E
+M>individuale</E
+M>di massa</E
+M>permanente</E
+M>definitiva</E
+M>temporanea</E
+M>stagionale</E
+M>periodica</E
+M>di capitali</E
+M>esportazioni di capitali</E
+"name": "Emigrazione"
+"name": "Nuova emigrazione"
+"name": "Emigrazione italiana"
+"name": "Grande Emigrazione"
+"name": "Ballata dell'emigrazione"
+"name": "Nuova emigrazione"
+"name": "Ballata dell'emigrazione"
+"name": "Emigrazione irlandese"
+"name": "Nuova emigrazione"
+"name": "Emigrazione cinese"
+"name": "Ufficio centrale per l'emigrazione ebraica"

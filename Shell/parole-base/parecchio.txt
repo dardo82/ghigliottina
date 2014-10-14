@@ -1,0 +1,47 @@
+parecchio.txt
+"parecchio"
+"parecchio"
+*[[alquanto]], assai, a lungo, [[notevolmente]], in misura notevole
+* in gran quantità, in abbondanza, [[alquanto]], [molto]], [[tanto]]
+*(con cose non numerabili) [[alquanto]], in notevole quantità
+*[[scarsamente]], [[poco]], [[nulla]]
+M>*par</E
+M>lus</E
+M>par</E
+M>Salendo su per lo modo parecchio A quel che scende</E
+M>molto</E
+M>ho p</E
+M>cose da fare</E
+M>mi ha dato p</E
+M>fastidi</E
+M>c&#8217;era p</E
+M>gente</E
+M>ci vuole ancora p</E
+M>tempo</E
+M>parecchi</E
+M>parecchi belle e care gioie</E
+M>tirava p</E
+M>vento</E
+M>oggi fa p</E
+M>caldo</E
+M>parecchi lo credono</E
+M>siamo in parecchi a volerlo</E
+M>parecchie di noi erano presenti</E
+M>denaro</E
+M>tempo</E
+M>spazio</E
+M>cammino</E
+M>ho speso p</E
+M>è da p</E
+M>che aspetto</E
+M>c&#8217;è ancora p</E
+M>da qui a casa</E
+M>ha fatto p</E
+M>per me</E
+M>oggi sto p</E
+M>meglio</E
+M>l&#8217;ho trovato p</E
+M>giù in salute</E
+M>sono stato p</E
+M>in ansia</E
+M>mi pare che abbia bevuto parecchino</E

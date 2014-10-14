@@ -1,0 +1,86 @@
+veloce.txt
+"a passo veloce"
+"andare veloce"
+"andatura veloce"
+"andatura veloce (ippica)"
+"cavalcare veloce"
+"con passo veloce"
+"correre più veloce"
+"correre veloce"
+"corsetta veloce"
+"dal passo veloce"
+"discorso veloce"
+"doppiamente veloce"
+"eccessivamente veloce nella guida"
+"fare un bagno veloce, fare una breve nuotata"
+"giro veloce"
+"la via più veloce"
+"linea veloce"
+"molto veloce"
+"neutrone veloce"
+"passo veloce"
+"passo veloce"
+"pasto veloce"
+"più veloce"
+"più veloce del suono"
+"quello veloce"
+"reattore veloce"
+"rendere veloce"
+"strada a scorrimento veloce"
+"veloce"
+"veloce"
+"veloce"
+"veloce"
+"velocemente"
+"veloce a rispondere"
+"veloce come un fulmine, veloce come una saetta"
+#* la Ferrari è la più 
+*(specialmente di persona) [[celere]], [[svelto]], [[rapido]], [[lesto]], [[spedito]]
+*[[attivo]], [[dinamico]], [[efficiente]], [[pronto]], [[scattante]], [[sollecito]], [[solerte]], [[alacre]], [[sveglio]], [[agile]]
+*(specialmente di cosa) [[sciolto]], [[incalzante]], a pieno ritmo, [[vertiginoso]], [[fulmineo]]; [[improvviso]], [[inaspettato]], [[inatteso]], [[repentino]]
+*(specialmente di persona)[[lento]], [[lungo]], [[tardo]]
+*[[inattivo]], [[pigro]], [[indolente]]
+*(specialmente di cosa) [[atteso]], [[previsto]], [[prevedibile]]
+*[[velocemente]], [[velocifero]], [[velocimetro]], [[velocipede]], [[velocista]], [[velocità]], [[velocizzare]]
+*[[sollecito]]
+M>velox -ocis</E
+M>celere</E
+M>rapido</E
+M>un corridore</E
+M>un ciclista v.</E
+M>cavallo</E
+M>cane v.</E
+M>uccelli assai v.</E
+M>navi v.</E
+M>aerei velocissimi</E
+M>un’auto sportiva molto v.</E
+M>strade di scorrimento v.</E
+M>corsia riservata al traffico v.</E
+M>Achille dal piè v.</E
+M>sulle ali v. della fama</E
+M>Porgea gli orecchi al suon della tua voce Ed alla man veloce Che percorrea la faticosa tela</E
+M>v. come il pensiero</E
+M>come il vento</E
+M>come un lampo</E
+M>come il fulmine</E
+M>moto v.</E
+M>corsa</E
+M>volo v.</E
+M>un velocissimo giro di pista</E
+M>il v. trascorrere del tempo</E
+M>come fuggono v. gli anni!</E
+M>fuggì via veloce</E
+M>ingegno</E
+M>mente</E
+M>intelletto v.</E
+M>connessione v. a Internet</E
+M>Internet veloce</E
+M>ad libitum</E
+M>pista</E
+M>circuito v.</E
+M>giocare sul campo v.</E
+M>velocissimo</E
+M>procedere</E
+M>camminare</E
+M>andare velocemente</E
+M>come passa velocemente il tempo!</E

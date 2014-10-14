@@ -1,0 +1,12 @@
+sogliola.txt
+"sogliola"
+M>lea</E
+M>s. comune</E
+M>Solea vulgaris</E
+M>s. turca</E
+M>Solea kleini</E
+M>s. ocellata</E
+M>Solea ocellata</E
+M>s. pelosa</E
+M>Monochirus hispidus</E
+M>motore a s.</E

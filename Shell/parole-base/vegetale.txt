@@ -1,0 +1,23 @@
+vegetale.txt
+"cellula vegetale"
+"di origine vegetale"
+"estratto vegetale"
+"geografia vegetale"
+"olio vegetale"
+"olio vegetale"
+"regno vegetale"
+"regno vegetale"
+"vegetale"
+"vegetale"
+"vegetale"
+"vegetale"
+"vegetale animale"
+"vita vegetale e animale"
+#* ''[[regno vegetale]]''
+#* ''[[olio vegetale]]''; ''[[carbone vegetale]]''
+#* ''dieta vegetale''
+#* ''sta studiando i vegetali''
+#* ''da quel giorno si è ridotto un vegetale''
+*[[pianta]]
+* [[vegetariano]]
+* [[animale]]; [[minerale]] 

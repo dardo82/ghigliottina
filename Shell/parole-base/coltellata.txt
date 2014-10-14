@@ -1,0 +1,13 @@
+coltellata.txt
+"coltellata"
+"coltellata"
+*[[coltello]]
+M>dare</E
+M>tirare</E
+M>ricevere una c</E
+M>colpire con una c</E
+M>fare a</E
+M>alle</E
+M> coltellate</E
+M>quella improvvisa notizia è stata per lui una c</E
+M>peggio d’una coltellata</E

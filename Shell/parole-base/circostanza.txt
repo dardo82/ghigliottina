@@ -1,0 +1,41 @@
+circostanza.txt
+"adatti alla circostanza"
+"circostanza"
+"circostanza"
+"circostanza"
+"circostanza"
+"circostanza comune"
+"circostanza speciale"
+"frase di circostanza"
+"frasi di circostanza"
+"in nessuna circostanza"
+"in qualsiasi circostanza"
+"in questa circostanza"
+"parole di circostanza"
+*''(specialmente plurale)'' [[condizione]], [[situazione]], stato di cose
+*[[congiuntura]], [[momento]], [[contingenza]], [[caso]], [[avvenimento]], [[episodio]], [[fatto]], [[occasione]], [[evenienza]]
+M>circumstantia</E
+M>circumstare</E
+M>nelle circostanze d’Alessandria</E
+M>ella sembrava trarre dalle circostanze e dalle lontananze le linee più belle</E
+M>circostanze di tempo e di luogo</E
+M>per un insieme di circostanze</E
+M>tante circostanze favorevoli al suo disegno infiammavano sempre più la sua passione</E
+M>circostanze di un’eclisse</E
+M>regolarsi secondo le c</E
+M>nelle c</E
+M>presenti</E
+M>lo conobbi in una triste c</E
+M>date le circostanze</E
+M>essere in c</E
+M>difficili</E
+M>in cattive c</E
+M>in brutte c</E
+M>in c</E
+M>critiche</E
+M>si trova anche lui nelle nostre stesse circostanze</E
+M>circostanze del reato</E
+M>attenuanti</E
+M>le attenuanti</E
+M>aggravanti</E
+M>le aggravanti</E

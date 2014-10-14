@@ -1,0 +1,67 @@
+confronto.txt
+"a confronto di"
+"al confronto"
+"campione di confronto"
+"confronto"
+"confronto"
+"confronto"
+"confronto all'americana"
+"confronto diretto"
+"confronto inferiore a"
+"confronto serrato"
+"fare un confronto"
+"generazioni a confronto"
+"in confronto"
+"in confronto a"
+"in confronto a"
+"in confronto a"
+"mettere a confronto"
+"momento di confronto"
+"nel confronto"
+"per confronto"
+"perdere il confronto a centrocampo"
+"stella di confronto"
+"test di convergenza del confronto"
+*[[paragone]], [[paragone]], [[raffronto]], [[comparazione]], [[collazione]], [[competizione]], [[gara]], [[incontro]]
+* [[confrontare]], [[confrontazione]]
+M>fare il c</E
+M>di due oggetti</E
+M>mettere a c</E
+M>le parole coi fatti</E
+M>il c</E
+M>delle impronte digitali è risultato negativo</E
+M>i c</E
+M>sono odiosi</E
+M>senza confronto</E
+M>confronti</E
+M>questo film è senza confronti superiore all’altro</E
+M>non c’è c.!</E
+M>è un campione che non ha confronti</E
+M>che non teme confronti</E
+M>stare a c</E
+M>sostenere il c</E
+M>reggere al c</E
+M>è un pittore che può stare a c</E
+M>coi più illustri maestri dell’arte</E
+M>termine di c</E
+M>a c</E
+M>in c</E
+M>in c</E
+M>a c</E
+M>di lui non vale niente</E
+M>oggi sto meglio in c</E
+M>di ieri</E
+M>a ieri</E
+M>a c</E
+M>mio</E
+M>nostro</E
+M>gli antichi a c</E
+M>nostro si può dire più che mai che furono uomini</E
+M>nei c</E
+M>nei riguardi di</E
+M>si è comportato male nei tuoi confronti</E
+M>Confronto all’americana</E
+M>ricognizione di persona</E
+M>metodo di confronto</E
+M>internazionale</E
+M>diretto</E

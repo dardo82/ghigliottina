@@ -1,0 +1,12 @@
+apprendista.txt
+"apprendista"
+"apprendista"
+"apprendista, tirocinante"
+"fare l'apprendista"
+"lavorare come apprendista"
+M>è un lavoro da apprendisti</E
+M>un colpo da apprendista</E
+M>L’apprendista stregone</E
+M>Der Zauberlehrling</E
+M>L’apprenti sorcier</E
+M>stregone</E

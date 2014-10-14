@@ -1,0 +1,17 @@
+utilizzazione.txt
+"utilizzazione"
+"utilizzazione eccessiva"
+* ''(atto di utilizzare)'' [[impiego]], [[sfruttamento]], [[uso]]
+* ''(uso di informazioni riservate)'' [[segreto di stato]]
+* ''(uso effettivo di un impianto di produzione)'' [[coefficiente]]
+* ''(potenza media espressa da un motore)'' [[arco]], [[coppia]], [[curva]]
+* ''(uso della condizione patologica)'' [[primario]], [[secondario]]
+M>u. dei residui</E
+M>degli scarti di lavorazione</E
+M>u. di un impianto</E
+M>pannelli per l’u. dell’energia solare</E
+M>u. dei segreti di stato</E
+M>coefficiente di u.</E
+M>l’arco di u.</E
+M>curve di u.</E
+M>u. primaria e secondaria del sintomo</E

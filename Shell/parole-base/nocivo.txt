@@ -1,0 +1,21 @@
+nocivo.txt
+"nocivo"
+*[[dannoso]], [[pericoloso]], [[deleterio]], [[malsano]], [[pernicioso]], [[controindicato]], [[controproducente]], [[pregiudizievole]], [[insalubre]]
+* [[nefasto]]
+*[[utile]], [[benefico]]
+*[[innocuo]]
+*[[nocimento]], [[nocività]], [[nuocere]]
+*[[dañino]], [[perjudicial]], [[pernicioso]]
+M>nocivus</E
+M>noc</E
+M>cibi</E
+M>insetti n</E
+M>medicine</E
+M>bevande n</E
+M>abitudini n</E
+M>essere n</E
+M>a qualcuno</E
+M>a qualche cosa</E
+M>mangiare troppo è n</E
+M>alla salute</E
+M>letture che possono influenzare nocivamente lo sviluppo psichico del ragazzo</E

@@ -1,0 +1,18 @@
+temporaneo.txt
+"coadiutore temporaneo"
+"deposito temporaneo"
+"lavoratore temporaneo"
+"lavoro temporaneo"
+"temporaneo"
+#*''uso temporaneo'' ; ''prestito temporaneo''
+*[[momentaneo]], [[provvisorio]], [[precario]], [[transitorio]]
+*[[duraturo]], [[permanente]], [[definitivo]]
+M>temporaneus</E
+M>tempus -p</E
+M>ris</E
+M>ha ottenuto un incarico t.</E
+M>il beneficio è solo t.</E
+M>il malato ha avuto un t. miglioramento</E
+M>è previsto un t. aumento della nuvolosità.</E
+M>si è trovato temporaneamente in difficoltà</E
+M>la fermata del tram è stata temporaneamente spostata.</E

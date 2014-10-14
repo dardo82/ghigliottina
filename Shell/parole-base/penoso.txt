@@ -1,0 +1,35 @@
+penoso.txt
+"penoso"
+"penoso"
+#*''quella famiglia vive in un contesto penoso''
+*''(di vicenda, scena)'' [[triste]], [[doloroso]], [[angoscioso]], [[increscioso]], [[commovente]], [[toccante]], [[pietoso]], [[struggente]], [[patetico]],[[compassionevole]],  [[vergognoso]], [[imbarazzante]]
+*''(di incarico, situazione)'' [[spiacevole]], [[sgradevole]], [[ingrato]], [[fastidioso]], [[molesto]], [[faticoso]], [[difficoltoso]], [[disagevole]], [[disagiato]]
+*''(di vicenda, scena)'' [[allegro]]
+*''(di incarico, situazione)'' [[piacevole]], [[gradevole]], [[gradito]]
+*[[penosità]], [[penosamente]]
+M>sonno</E
+M>sogno p</E
+M>è stato un incubo p</E
+M>è p</E
+M>sentirsi abbandonato da tutti</E
+M>trascorrere una giornata</E
+M>una notte</E
+M>una vita</E
+M>la settimana p</E
+M>lavoro p</E
+M>faceva sforzi p</E
+M>per convincerlo</E
+M>con uno sforzo veramente p</E
+M>riuscì ad alzarsi dal letto</E
+M>seguì un silenzio p</E
+M>ebbi l&#8217;incarico p</E
+M>d&#8217;informarlo della morte di suo padre</E
+M>è stata un&#8217;attesa p</E
+M>hai fatto una figura p</E
+M>ti prego di non farmi più assistere a questi p</E
+M>spettacoli!</E
+M>Felice agnello a la penosa mandra</E
+M>Mi giacqui un tempo</E
+M>il ferito si trascinava penosamente</E
+M>il cavallo dalle costole visibili sul dorso scuoteva penosamente la testa per cacciare le mosche</E
+M>lo spettacolo si è protratto penosamente per alcune ore</E

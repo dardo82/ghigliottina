@@ -1,0 +1,54 @@
+pausa.txt
+"fare una pausa"
+"fare una pausa"
+"fare una pausa per"
+"giorni di permesso, vacanza, pausa"
+"in pausa"
+"mettere in pausa"
+"pausa"
+"pausa caffè"
+"pausa pranzo"
+"pausa pubblicitaria"
+"pausa retribuita"
+"pausa sigaretta"
+"pausa tè"
+"pulsante di pausa"
+"senza pausa"
+"senza pausa"
+"una pausa di riflessione"
+*''(di attività, fenomeno)'' [[fermata]], [[sosta]], [[intervallo]], [[interruzione]], [[riposo]], [[break]], [[sospensione]], [[posa]], [[intermezzo]], [[tregua]]
+* battuta d'arresto
+*[[proseguimento]], [[continuazione]], [[ripresa]], [[continuità]] 
+M>pausa</E
+M>il bastardo di Buovo</E
+M>con la spada senza indugio e pausa Fende ogn&#8217;elmo</E
+M>nelle p</E
+M>della lavorazione del film</E
+M>sono stanco</E
+M>facciamo un momento di p</E
+M>ho lavorato per ore e ore senza mai una p</E
+M>sosta</E
+M>fra il primo e il secondo atto c&#8217;è una p</E
+M>di dieci minuti</E
+M>intervallo</E
+M>pausa di riflessione</E
+M>parlava adagio</E
+M>con molte p</E
+M>fece una lunga p</E
+M>prima di continuare</E
+M>misurare le p</E
+M>dosava le p</E
+M>per ottenere un più sicuro effetto sugli ascoltatori</E
+M>consonante</E
+M>vocale in p</E
+M>d&#8217;una breve</E
+M>d&#8217;una minima</E
+M>d&#8217;un quarto</E
+M>d&#8217;un ottavo</E
+M>i violini hanno una p</E
+M>di due battute</E
+M>segni di p</E
+M>pause</E
+M> pause del cuore</E
+M>piccola p</E
+M>grande p</E

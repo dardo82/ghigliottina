@@ -1,0 +1,5 @@
+foraggio.txt
+"foraggio"
+"nutrito con foraggio"
+M>fourrage</E
+M>feurre</E

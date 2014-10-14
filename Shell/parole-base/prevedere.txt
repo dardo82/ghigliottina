@@ -1,0 +1,43 @@
+prevedere.txt
+"che sa prevedere il tempo"
+"far prevedere"
+"predire, prevedere il futuro"
+"prevedere"
+"prevedere"
+"prevedere di fare qualcosa"
+"prevedere una possibilità"
+"prevedere, considerare"
+*[[supporre]], [[congetturare]], [[presupporre]], [[immaginare]], [[ipotizzare]], [[presumere]]; [[intuire]] 
+*''(il futuro con arti divinatorie)'' [[predire]], [[preannunciare]], [[presagire]], [[profetizzare]], [[pronosticare]]; ''(lett.)'' [[preconiozzare]],  [[vaticinare]], [[divinare]] 
+*[[contemplare]], [[considerare]], ''prendere in considerazione'', [[occuparsi]]
+*[[vedere]] 
+M>praevidere</E
+M>prae</E
+M>videre</E
+M>prevedrò</E
+M>prevederò</E
+M>prevedrèi</E
+M>prevederèi</E
+M>vedere</E
+M>posso già p</E
+M>quello che mi risponderà</E
+M>chi poteva p</E
+M>un simile contrattempo?</E
+M>prevedendo il peggio</E
+M>se ne andò</E
+M>il futuro</E
+M>è difficile p. che cosa accadrà adesso</E
+M>era da p</E
+M>da prevedersi</E
+M>era da p</E
+M>che sarebbe finita così</E
+M>per domani si prevede tempo brutto</E
+M>dopo quello che è successo</E
+M>prevedo che sarà di malumore</E
+M>il regolamento non prevede questo caso</E
+M>il codice italiano prevede il reato di diffamazione</E
+M>preveduto</E
+M>i casi previsti dalla legge</E
+M>il suo intervento non ha avuto l&#8217;effetto previsto</E
+M>tutto si è svolto secondo il previsto</E
+M>è arrivato un&#8217;ora prima del previsto</E

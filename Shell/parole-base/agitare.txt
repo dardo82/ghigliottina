@@ -1,0 +1,50 @@
+agitare.txt
+"agitare"
+"agitare"
+"agitare"
+"agitare, innervosire"
+"agitare, muovere"
+"muovere agitare"
+"muovere agitare"
+* ''(qualcosa)''[[scuotere]], [[scrollare]], [[sbatacchiare]], [[dimenare]], [[dondolare]], [[sventolare]], [[mescolare]], [[rimestare]], [[shakerare]],  [[muovere]]
+*'' (una persona)'' [[innervosire]], [[turbare]], [[impressionare]], [[preoccupare]], [[spaventare]]
+*''(la gente)''[[eccitare]], [[infiammare]], [[istigare]] 
+* ''(idee, programmi )'' [[promuovere]], [[propagandare]]
+*'' (un problema, una questione)'' [[dibattere]], [[discutere]], [[trattare]], [[considerare]]
+*'' (una persona)'' [[tranquillizzare]], [[calmare]], [[placare]], [[rassicurare]] 
+*''(la gente)''[[calmare]], [[placare]]
+*'' (un problema, una questione)'' [[rimuovere]]
+*[[agitabile]]
+*[[dibattere]],  [[commuovere]],  [[turbarsi]]
+M>agitare</E
+M>io àgito</E
+M>una bottiglia</E
+M>il fazzoletto</E
+M>un vecchio mal vissuto</E
+M>agitava in aria un martello</E
+M>una corda</E
+M>le morte foglie Che al ceppo delle quercie agita il vento</E
+M>il popolo</E
+M>le masse</E
+M>i cavalli</E
+M>Agitava i destrieri il grande Ettorre</E
+M>l’animo</E
+M>la fantasia</E
+M>un grande ideale agitava i cuori</E
+M>era agitato da funesti presagi</E
+M>una questione</E
+M>un problema</E
+M>un processo</E
+M>una causa</E
+M>un progetto</E
+M>un’idea</E
+M>un proposito</E
+M>il mare comincia ad agitarsi</E
+M>il malato s’ è agitato tutta la notte nel letto</E
+M>si agitava sulla sedia</E
+M>un sentimento nuovo si agitava nel suo animo</E
+M>non capisco perché ti agiti tanto</E
+M>cerca di essere calmo e non ti agitare</E
+M>l’Italia da circa mezzo secolo si agita</E
+M>si travaglia per divenire un sol popolo e farsi nazione</E
+M>gli operai delle fabbriche cominciarono ad agitarsi</E

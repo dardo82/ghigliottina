@@ -1,0 +1,25 @@
+lamiera.txt
+"di lamiera, di latta"
+"di lamiera, di latta"
+"lamiera"
+"lamiera bugnata"
+"lamiera d'acciaio"
+"lamiera di ferro"
+"lamiera per caldaie"
+"lamiera per pavimentazione"
+"lamiera sagomata"
+"lamiera sottile"
+"lamiera, latta"
+* [[lamina]], [[paratia]] 
+*[[lamierista]]
+* [[chiodo]],  [[bullone]]
+M>Chi senza usbergo e chi senza lamiera</E
+M>Chi senza elmetto si vede venire</E
+M>sottili</E
+M>lamierini</E
+M>medie</E
+M>spesse</E
+M>a caldo</E
+M>a freddo</E
+M>plastificate</E
+M>zincate</E

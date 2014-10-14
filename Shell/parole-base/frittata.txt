@@ -1,0 +1,22 @@
+frittata.txt
+"fare la frittata"
+"frittata"
+"frittata"
+"frittata"
+"frittata al formaggio"
+"rovesciare la frittata, rivoltare la frittata"
+#*''Ho mangiato una bella '''frittata''' di cipolle''
+M>semplice</E
+M>ripiegata</E
+M>arrotolata</E
+M>avvolta</E
+M>ripiena</E
+M>con i carciofi; f</E
+M>di spinaci</E
+M>di asparagi</E
+M>di zucchine; f</E
+M>verde</E
+M>col prosciutto</E
+M>col formaggio</E
+M>fare una f</E
+M>rivoltare la f</E

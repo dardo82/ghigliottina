@@ -1,0 +1,105 @@
+razza.txt
+"allevamento di cavalli di razza"
+"cane di razza"
+"Cavallo di razza"
+"di razza"
+"di razza pura"
+"di razza pura"
+"dobermann pinscher (razza di cane)"
+"field spaniel (razza canina)"
+"incrociato (di razza)"
+"razza"
+"razza"
+"razza"
+"razza"
+"razza afro-americana"
+"razza bianca"
+"razza di cane Terranova"
+"razza mista"
+"razza pura"
+"razza umana"
+"razza umana"
+"razza umana"
+"razza umana"
+"spinone (razza di cane)"
+"una faccia una razza"
+*[[specie]]
+*[[razzatore]], [[razza cappuccia]]
+M>haraz</E
+M>l&#8217;arazz</E
+M>la razz</E
+M>sottospecie</E
+M>geografica</E
+M>ecologica</E
+M>ecotipo</E
+M>cromosomica</E
+M>da carne</E
+M>da lana</E
+M>da latte</E
+M>pura</E
+M>imbastardita</E
+M>in via di estinzione</E
+M>miglioramento della r</E
+M>bestia da razza</E
+M>razzatore</E
+M>riproduttore</E
+M>passare in r</E
+M>animale di r</E
+M>pregiata</E
+M>animale di razza</E
+M>cavallo di razza</E
+M>bianca</E
+M>gialla</E
+M>nera</E
+M>australiana</E
+M>sudanese</E
+M>nilotica</E
+M>mediterranea</E
+M>umane</E
+M>le r</E
+M>inferiori</E
+M>superiori</E
+M>la difesa della r</E
+M>ariana</E
+M>bianca</E
+M>discriminazioni di razza.</E
+M>anche lui è di costituzione debole</E
+M>come tutta la sua r</E
+M>siamo una r</E
+M>di persone perbene</E
+M>uomo di buona</E
+M>di nobile r</E
+M>di r</E
+M>gentiluomo</E
+M>signora</E
+M>donna di r</E
+M>di razza</E
+M>uno scrittore</E
+M>un pugile</E
+M>un corridore di r</E
+M>fare razza</E
+M>i muli non fanno r</E
+M>gli abitanti di quel paese isolato fanno razza solo tra loro</E
+M>è un individuo che fa razza a sé</E
+M>da sé</E
+M>è gente che non fa razza con nessuno</E
+M>mi ha imbandito un pranzo con cibi di ogni razza</E
+M>ma di che r</E
+M>è codesta gente?</E
+M>non voglio più leggere giornali di questa r</E
+M>Cortigiani</E
+M>vil r</E
+M>dannata</E
+M>Rigoletto</E
+M>con che r</E
+M>di persone siamo capitati!</E
+M>non voglio aver niente a che fare con quella r</E
+M>di imbecilli che tu frequenti</E
+M>di vipere</E
+M>che r</E
+M>di sciocchezze stai dicendo?</E
+M>non c&#8217;è da star tranquilli</E
+M>con questa r</E
+M>di stagione!</E
+M>di stupido!</E
+M>di cretino che non sei altro!</E

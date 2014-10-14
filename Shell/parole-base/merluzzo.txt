@@ -1,0 +1,17 @@
+merluzzo.txt
+"fegato di merluzzo"
+"merluzzo"
+"merluzzo"
+"olio di fegato di merluzzo"
+"pesce simile al merluzzo ma di qualità inferiore"
+"pesce, simile al merluzzo, delle coste europee dell'Atlantico"
+*[[stoccafisso]], [[baccalà]]
+M>Gadus morhua</E
+M>olio di fegato di merluzzo</E
+M>nasello</E
+M>imperiale</E
+M>Aulopus filamentosus</E
+M>luccio di mare</E
+M>Sphyraena sphyraena</E
+M>mormoro</E
+M>capelano</E

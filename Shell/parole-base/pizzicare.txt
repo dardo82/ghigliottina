@@ -1,0 +1,45 @@
+pizzicare.txt
+"pizzicare"
+"pizzicare"
+"pizzicare"
+"pizzicare"
+"pizzicare"
+"pizzicare"
+*[[pizzico]]
+*[[pizzicato]]
+M>pinzare</E
+M>io pìzzico</E
+M>tu pìzzichi</E
+M>p. un braccio a qualcuno</E
+M>p. qualcuno a un braccio</E
+M>la gallina pizzicava l&#8217;uva</E
+M>mi ha pizzicato una vespa</E
+M>sono insetti che pizzicano</E
+M>la polizia l&#8217;ha pizzicato mentre tentava di forzare la portiera di una macchina</E
+M>il professore l&#8217;ha pizzicato mentre copiava e gli ha annullato il compito.</E
+M>i carabinieri l&#8217;hanno finalmente pizzicato</E
+M>non perde occasione per pizzicarlo</E
+M>suocera e nuora stanno continuamente a pizzicarsi.</E
+M>come pizzica</E
+M>la pelle</E
+M>questo maglione!</E
+M>questi peperoni pizzicano</E
+M>un formaggio che pizzica molto</E
+M>una bevanda che pizzica</E
+M>il freddo comincia a p.</E
+M>un disinfettante che pizzica</E
+M>da un pezzo era pizzicata da una indiscreta curiosità</E
+M>messami in testa</E
+M>te ne ricordi</E
+M>da quella pettegola della Faustina</E
+M>p. le corde della lira</E
+M>avere</E
+M>mi pizzica la punta del naso</E
+M>sentirsi p. le mani</E
+M>prudere</E
+M>tutti coloro che gli pizzicavan le mani di far qualche bell&#8217;impresa</E
+M>ho letto tanto che mi pizzicano gli occhi</E
+M>mi pizzica la pelle per il freddo.</E
+M>un discorso che pizzica di eresia</E
+M>una prefazione che pizzicasse alquanto del dotto</E
+M>un formaggio pizzicante.</E

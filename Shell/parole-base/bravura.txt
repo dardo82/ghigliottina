@@ -1,0 +1,17 @@
+bravura.txt
+"bravura"
+"bravura"
+"gara di bravura"
+M>saltare</E
+M>battersi</E
+M>menare un colpo con b</E
+M>condurre con b</E
+M>un’impresa</E
+M>eseguire un lavoro con molta b</E
+M>lavoro di b</E
+M>pezzo di b</E
+M>pezzo di b</E
+M>bella b</E
+M>ci vuole una gran bravura!</E
+M>fare una b</E
+M>raccontare le proprie bravure</E

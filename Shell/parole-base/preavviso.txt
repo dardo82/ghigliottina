@@ -1,0 +1,35 @@
+preavviso.txt
+"clausola di preavviso"
+"con breve preavviso"
+"congruo preavviso"
+"dare preavviso"
+"preavviso"
+"preavviso"
+"senza preavviso"
+"senza preavviso"
+M>pre</E
+M>avviso</E
+M>è arrivato</E
+M>se n&#8217;è andato senza p</E
+M>mandare</E
+M>leggere</E
+M>aspettare un p</E
+M>proclamare</E
+M>effettuare uno sciopero senza p</E
+M>ricevere un p</E
+M>di pagamento</E
+M>comunicazioni telefoniche con p</E
+M>segnale di p</E
+M>dare</E
+M>ricevere il p</E
+M>essere in p</E
+M>di licenziamento</E
+M>indennità di p</E
+M>un p</E
+M>di quindici giorni</E
+M>licenziarsi con otto giorni di preavviso</E
+M>si divertiva a vedere</E
+M>per ogni falciata</E
+M>la vibrazione che le erbe cadendo trasmettevano alle vicine</E
+M>come un p</E
+M>di morte</E

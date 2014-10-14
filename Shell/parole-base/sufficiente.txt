@@ -1,0 +1,64 @@
+sufficiente.txt
+"appena sufficiente"
+"essere sufficiente"
+"essere sufficiente"
+"fornitura sufficiente"
+"non essere sufficiente"
+"non tenere in sufficiente considerazione"
+"più che sufficiente"
+"più che sufficiente"
+"più che sufficiente"
+"sufficiente"
+"sufficiente"
+"sufficiente"
+"sufficiente"
+"sufficiente"
+"sufficiente a"
+"sufficiente per"
+*[[adeguato]], [[soddisfacente]], [[bastante]], proporzionato al bisogno
+*[[necessario]], [[indispensabile]], quanto basta
+*[[insufficiente]], [[scarso]], [[poco]]
+*[[superfluo]]
+*[[sufficienza]],[[sufficientemente]]
+*[[abbastanza]], [[occorrente]]
+M>sufficiens -entis</E
+M>suffic</E
+M>sub-</E
+M>fac</E
+M>suffisant</E
+M>per</E
+M>il raccolto quest&#8217;anno è appena s. per il fabbisogno nazionale</E
+M>non è un grande stipendio</E
+M> ma è s. per mantenere la famiglia</E
+M>non ha le capacità s. alle alte responsabilità del suo grado</E
+M>una sala s. a contenere cento persone</E
+M>non trovo parole s. a esprimervi la mia gratitudine</E
+M>la vita è sempre più cara</E
+M> e lo stipendio non è più s.</E
+M>è una pensione familiare</E
+M> ma il vitto è curato e s.</E
+M>più che s.</E
+M>le sue giustificazioni non sono s.</E
+M>aggiungere all&#8217;impasto farina in quantità sufficiente</E
+M>condizione s.</E
+M>principio di ragione s.</E
+M>ha appena il sufficiente per vivere</E
+M>sufficiente</E
+M>menar nol volea</E
+M> non perché egli nol conoscesse bene a ogni servigio sufficiente</E
+M> ma per ciò che egli giucava</E
+M>chiese ... di poter ragionare coll&#8217;abate suo</E
+M> ch&#8217;era uomo sufficiente</E
+M>tratta tutti con un tono s. e irritante</E
+M>non la sopporto</E
+M> quella sua aria s. e sprezzante</E
+M>un individuo altezzoso e s.</E
+M>smettila di fare il s.</E
+M>la sufficiente</E
+M>hai mangiato sufficientemente?</E
+M>un libro</E
+M>un film sufficientemente buono</E
+M>siamo sufficientemente soddisfatti</E
+M>con sufficienza</E
+M>tratta tutti sufficientemente</E
+M>rispondere sufficientemente a una domanda</E

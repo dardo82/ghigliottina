@@ -1,0 +1,50 @@
+freccia.txt
+"a punta di freccia"
+"freccia"
+"freccia"
+"oggetto a forma di freccia"
+"freccia"
+"mettere la freccia"
+*[[indicazione]], [[segnale]]
+*''(di veicolo)'' indicatore di direzione, [[lampeggiatore]]
+*[[frecciata]]
+*italiano
+M>fleche</E
+M>flèche</E
+M>trarre la f</E
+M>dalla faretra</E
+M>aggiustare</E
+M>incoccare la f</E
+M>alla corda dell’arco</E
+M>avvelenate</E
+M>incendiarie</E
+M>avere molte f</E
+M>al proprio arco</E
+M>essere una f</E
+M>nel fianco</E
+M>correre</E
+M>volare</E
+M>lanciarsi</E
+M>come una f</E
+M>le passò accanto rapido come una freccia</E
+M>è molto maligno</E
+M>e non risparmia a nessuno le sue f</E
+M>la f</E
+M>del Parto</E
+M>di direzione</E
+M>mettere la f. prima di svoltare</E
+M>d’atterramento</E
+M>seguire la f.</E
+M>baghetta</E
+M>flèche</E
+M>controranda</E
+M>litoranea</E
+M>saetta</E
+M>di un arco di curva</E
+M>d’inflessione</E
+M>aereo a f</E
+M>a geometria</E
+M>variabile</E
+M>f. del tempo</E
+M>Saetta</E
+M>Sagitta</E

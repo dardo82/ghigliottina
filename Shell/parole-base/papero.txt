@@ -1,0 +1,14 @@
+papero.txt
+"papero"
+*[[uccello]]
+M>camminare a papero</E
+M>a papera</E
+M>buon p</E
+M>e cattiva oca</E
+M>tanto beve l&#8217;oca quanto il p</E
+M>i p</E
+M>menano a bere le oche</E
+M>affidare</E
+M>lasciare</E
+M>dare</E
+M>la lattuga in guardia ai p</E

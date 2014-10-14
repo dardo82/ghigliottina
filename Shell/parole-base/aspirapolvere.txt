@@ -1,0 +1,7 @@
+aspirapolvere.txt
+"aspirapolvere"
+"dare l'aspirapolvere"
+"pulire con aspirapolvere"
+"usare l'aspirapolvere"
+M>aspirare</E
+M>polvere</E

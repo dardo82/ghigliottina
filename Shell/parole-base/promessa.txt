@@ -1,0 +1,101 @@
+promessa.txt
+"che rappresenta una promessa"
+"fare una promessa"
+"la Terra Promessa"
+"liberare qualcuno da una promessa"
+"liberarsi da una promessa, svincolarsi da una promessa"
+"mantenere la promessa"
+"mantenere una promessa"
+"ogni promessa è debito"
+"promessa"
+"promessa"
+"promessa"
+"promessa da marinaio"
+"promessa di matrimonio"
+"promessa irrealizzabile"
+"promessa reciproca"
+"rottura (di una promessa, dei rapporti)"
+"rottura di promessa"
+"terra promessa"
+"terra promessa"
+"terra promessa"
+"Terra Promessa"
+"venir meno a una promessa, rimangiarsi una promessa, non mantenere una promessa"
+#*''Mi hai fatto una '''promessa''', ora mantienila!''
+*[[impegno]], parola data, [[parola]], [[giuramento]], [[accordo]], [[patto]], [[garanzia]], [[assicurazione]], [[fede]], [[voto]], [[vincolo]]
+*''promessa di marinaio''
+M>prom</E
+M>ssa</E
+M>promissa</E
+M>orum</E
+M>promitt</E
+M>verbale</E
+M>a voce</E
+M>scritta</E
+M>precisa</E
+M>esplicita</E
+M>formale</E
+M>solenne</E
+M>una p</E
+M>impegnativa</E
+M>giurata</E
+M>vaghe</E
+M>false</E
+M>fare una p</E
+M>dare una p</E
+M>la p</E
+M>gli fece molte p</E
+M>ho la tua p</E
+M>conto sulla tua p</E
+M>per ora</E
+M>mi ha fatto soltanto belle promesse</E
+M>mi ha chiesto in prestito il libro con la p</E
+M>di restituirmelo quanto prima</E
+M>di pagare</E
+M>di pagamento</E
+M>unilaterale</E
+M>al pubblico</E
+M>di matrimonio</E
+M>bancaria</E
+M>vaglia bancario</E
+M>assegno circolare</E
+M>cambiaria</E
+M>di debito del capitano</E
+M>lusingare con promesse</E
+M>colmare di promesse</E
+M>estorcere una p</E
+M>fidarsi</E
+M>non fidarsi delle p</E
+M>di qualcuno</E
+M>mantenere</E
+M>osservare</E
+M>attenere</E
+M>una p</E
+M> ha mantenuto la p. e ha assegnato in dote a Zilietta un appartamento di due stanze e servizi in un grande edificio periferico dove abitano molti dipendenti della ditta</E
+M>adempiere la p</E
+M>rispettare le p</E
+M>fatte</E
+M>stare</E
+M>esser fedele alle p</E
+M>mancare</E
+M>venir meno alle p</E
+M>di marinaio</E
+M>pentirsi della p</E
+M>fatta</E
+M>ritirare la p</E
+M>sciogliere</E
+M>liberare qualcuno da una p</E
+M>restituire la p</E
+M>Lunga p</E
+M>con l&#8217;attender corto</E
+M>domandò ad Aldobrandino la p</E
+M>ogni p</E
+M>è debito</E
+M>Figli della p</E
+M>figli e annunziatori della p</E
+M>è una p</E
+M>del canto</E
+M>del teatro</E
+M>una giovane p</E
+M>del ciclismo</E
+M>del calcio</E

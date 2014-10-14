@@ -1,0 +1,68 @@
+fama.txt
+"buona reputazione; fama"
+"cattiva fama"
+"con fama"
+"fama"
+"fama"
+"fama di breve durata"
+"fama, celebrità"
+* [[celebrità]], [[notorietà]],  [[reputazione]], [[nome]]
+*[[famigerato]], [[disfamare]], [[infamare]]
+* italiano
+*chickasaw
+* esperanto
+* latino
+M>fama</E
+M>fari</E
+M>corse la f</E
+M>di queste cose per la contrada</E
+M>è f</E
+M>vuole la f</E
+M>che Roma fosse fondata da Romolo e Remo</E
+M>testimone di f</E
+M>conoscere qualcuno di f</E
+M>per f</E
+M>noto di f</E
+M>l’anime che son di f</E
+M>note</E
+M>buona</E
+M>ottima f</E
+M>cattiva</E
+M>pessima</E
+M>brutta</E
+M>trista f</E
+M>dubbia f</E
+M>ha f</E
+M>d’avaro</E
+M>di generoso</E
+M>la f</E
+M>d’una compagnia</E
+M>d’un ritrovo</E
+M>d’una ditta</E
+M>di un’istituzione</E
+M>avere</E
+M>godere</E
+M>acquistare</E
+M>guadagnarsi f</E
+M>salire</E
+M>venire in f</E
+M>seggendo in piuma</E
+M>In fama non si vien</E
+M>né sotto coltre</E
+M>Morte</E
+M>tu mi darai f</E
+M>e riposo</E
+M>uomo di gran f</E
+M>di f</E
+M>europea</E
+M>mondiale</E
+M>imperitura</E
+M>saldissima</E
+M>usurpata</E
+M>immeritata</E
+M>nomina</E
+M>per chiara f</E
+M>oscurare l’altrui f</E
+M>macchiare l’altrui f</E
+M>lavorare per la f</E
+M>c’è chi lavora per fama e chi per fame</E

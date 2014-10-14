@@ -1,0 +1,21 @@
+fiammifero.txt
+"accendere un fiammifero"
+"fiammifero"
+#* ''quel '''fiammifero''' mi serve per [[accendermi]] la [[sigaretta]]''
+*[[fiammiferaio]]
+*[[fiamma]]
+*[[cerino]], [[svedese]], [[minerva]], [[zolfanello]]
+*italiano
+M>flamm</E
+M>fer</E
+M>flamma</E
+M>-fer</E
+M>svedesi</E
+M>amorfi</E
+M>di sicurezza</E
+M>minerva</E
+M>familiari</E
+M>da cucina</E
+M>cerini</E
+M>accendersi</E
+M>prendere fuoco come un f</E

@@ -1,0 +1,54 @@
+petrolio.txt
+"chiazza di petrolio"
+"coke di petrolio"
+"etere di petrolio"
+"fabbisogno di petrolio"
+"gas di petrolio liquefatto"
+"Organizzazione dei paesi esportatori di petrolio"
+"petrolio"
+"petrolio"
+"dal color petrolio, verde-blu"
+"petrolio greggio"
+"petrolio greggio"
+"pozzo di petrolio"
+"produttori di petrolio"
+"puro petrolio"
+"raffinazione del petrolio"
+"raffineria di petrolio"
+"riscaldamento a petrolio"
+"stufa a petrolio"
+* [[oro nero]]
+* [[benzina]], [[gasolio]], [[idrocarburo]], [[cherosene]], [[plastica]]
+*Enciclopedia [http
+*C.A. Sambugar, ''Armonia e stile'' , La Nuova Italia, Firenze, 1966, p. 482
+M>pétrole</E
+M>petroleum</E
+M>petrae oleum</E
+M>p. grezzo</E
+M>p. paraffinici</E
+M>naftenici</E
+M>olio di roccia</E
+M>balsamo di terra</E
+M>olio minerale</E
+M>off-shore</E
+M>raffinerie</E
+M>frazioni</E
+M>topping</E
+M>cracking</E
+M>reforming</E
+M>polimerizzazione</E
+M>alchilazione</E
+M>isomerizzazione</E
+M>P. agricolo</E
+M>P. illuminante</E
+M>petrolio</E
+M>a petrolio</E
+M>illuminazione a p</E
+M>lampade</E
+M>lume a p.</E
+M>cucine</E
+M>fornello a p.</E
+M>che funzionano a p</E
+M>Malattie da p.</E
+M>una cravatta color petrolio</E
+M>una camicetta blu petrolio.</E

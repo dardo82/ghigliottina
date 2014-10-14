@@ -1,0 +1,14 @@
+equipaggio.txt
+"elenco dell'equipaggio"
+"equipaggio"
+"essere membro dell'equipaggio"
+"membri dell'equipaggio"
+"ruolo di equipaggio"
+M>équipage</E
+M>skip</E
+M>schifo</E
+M>a terra</E
+M>gli e</E
+M>di corte</E
+M>un ricco equipaggio</E
+M>di uno strumento</E

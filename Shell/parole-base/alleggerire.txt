@@ -1,0 +1,40 @@
+alleggerire.txt
+"alleggerire"
+"alleggerire"
+"alleggerire la nave gettando il carico in acqua"
+"alleggerire la pressione su"
+"alleggerire un colpo"
+*[[sgravare]], [[diminuire]], [[ridurre]], [[attenuare]], [[allentare]]
+*''(un dolore e sim.)'' [[alleviare]],[[ attenuare]],   
+*'' (una persona da un carico, da un lavoro)''[[sgravare]],[[liberare]]
+*'' (dei vestiti)''[[ svestirsi]], [[spogliarsi]]
+*'' (di un problema, un rimorso e sim.)''[[ sgravarsi]], [[liberarsi]] 
+*[[aggravare]], [[appesantire]], [[caricare]]
+*  caricare, opprimere, oberare ''(non com.)''; [[ appesantirsi]], [[ coprirsi]], [[ caricarsi]], [[assumersi]], [[addossarsi]]
+*[[alleggerirsi]]
+*[[snellire]] 
+M>io alleggerisco</E
+M>tu alleggerisci</E
+M>un carico</E
+M>un peso</E
+M>la fatica</E
+M>non mancavan mai di spandersi nelle vigne</E
+M>per diradar l’uve</E
+M>e a</E
+M>a’ contadini le fatiche della vendemmia</E
+M>un dolore</E
+M>un dispiacere</E
+M>le sue parole alleggerivano la mia sofferenza</E
+M>alleviavano</E
+M>una persona</E
+M>un carro</E
+M>una bestia da soma</E
+M>la nave</E
+M>a. l’automobile delle valigie</E
+M>uno del portafoglio</E
+M>alleggerirsi</E
+M>a. del cappotto</E
+M>a. di un rimorso</E
+M>di una preoccupazione</E
+M>essere</E
+M>sentirsi alleggerito</E

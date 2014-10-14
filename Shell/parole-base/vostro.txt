@@ -1,0 +1,72 @@
+vostro.txt
+"a vostro agio"
+"a vostro favore"
+"accreditare sul vostro conto"
+"credito sul vostro conto"
+"il tuo, il vostro, il loro"
+"il tuo, il vostro, il loro"
+"in vostro possesso"
+"vostro"
+"vostro"
+"vostro"
+"vostro"
+"vostro"
+"ciò che è vostro, ciò che vi riguarda, ciò che è Vostro, ciò che Vi riguarda"
+#*''Questo è il '''vostro''' giocattolo''
+#*''Questo è il '''vostro''' disegno''
+#*''Quello è il '''vostro''' gruppo''
+M>voster -stra -strum</E
+M>vester -stra -strum</E
+M>vos</E
+M>voi</E
+M>tuo</E
+M>pluralis maiestatis</E
+M>la Maestà v.</E
+M>la Santità v.</E
+M>V. Eccellenza</E
+M>V. Signoria</E
+M>V. Eminenza</E
+M>l’Eccellenza V.</E
+M>la Signoria V.</E
+M>nostro</E
+M>il v. appartamento</E
+M>i v. crediti</E
+M>la v. convinzione</E
+M>i v. diritti</E
+M>i v. antenati</E
+M>un v. conoscente</E
+M>i v. impiegati</E
+M>ai v. tempi</E
+M>conosco il v. amore per la libertà</E
+M>il v. ricordo è vivo in tutti noi</E
+M>il v. amico ...</E
+M>il v.</E
+M>il sempre v.</E
+M>il v. per sempre</E
+M>In risposta alla vostra</E
+M>Vostra</E
+M>lettera del</E
+M>Con riferimento al vostro</E
+M>Vostro</E
+M>ordine del</E
+M>vs.</E
+M>Vs.</E
+M>vs/</E
+M>Vs/</E
+M>v. lettera</E
+M>Vs. ordine</E
+M>Vs/ fattura</E
+M>conto Vostro</E
+M>Suo</E
+M>corrispondente Vostro</E
+M>la mia situazione è molto peggiore della vostra</E
+M>i vostri</E
+M> «S’ei fur cacciati</E
+M> ei tornar d’ogne parte</E
+M>Ma i v. non appreser ben quell’arte»</E
+M>sono anch’io dalla v.</E
+M>eccovi il v.</E
+M>se volete spendere</E
+M> spendete del v.</E
+M>questo tema è tutto copiato</E
+M> non c’è nulla di vostro</E

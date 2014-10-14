@@ -1,0 +1,25 @@
+carota.txt
+"carota"
+"carota"
+"carota"
+"carota selvatica"
+"carota selvatica"
+*italiano
+*napoletano
+M>car</E
+M>Daucus carota</E
+M>sativus</E
+M>carota</E
+M>carote in umido</E
+M>in insalata</E
+M>contorno di carote</E
+M>olio di c</E
+M>carota</E
+M>pastinaca</E
+M>Il bastone e la c</E
+M>vendere</E
+M>piantare carote</E
+M>carotaggio</E
+M>un bambino dai capelli c.</E
+M>color carota</E
+M>Pel di carota</E

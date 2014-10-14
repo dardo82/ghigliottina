@@ -1,0 +1,15 @@
+ritornello.txt
+"ritornello"
+"ritornello"
+M>di una canzone</E
+M>di una ballata</E
+M>di un rondò</E
+M>cantare</E
+M>fischiettare un r</E
+M>un r</E
+M>facile</E
+M>orecchiabile</E
+M>ha sempre in bocca il solito r</E
+M>e dàgli con questo r</E
+M>smettila con questo ritornello!</E
+M>refrain</E

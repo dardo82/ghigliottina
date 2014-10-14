@@ -1,0 +1,48 @@
+concorrenza.txt
+"battere la concorrenza"
+"concorrenza"
+"concorrenza accanita"
+"concorrenza imperfetta"
+"concorrenza monopolistica"
+"concorrenza perfetta"
+"concorrenza sleale"
+"garante della concorrenza e del mercato"
+"in concorrenza"
+"in concorrenza"
+"in concorrenza con, in competizione con"
+"libera concorrenza"
+"passare alla concorrenza"
+*[[competizione]], [[gara]], [[lotta]], [[antagonismo]]
+*[[raggiungimento]]
+M>v’era una c</E
+M>di genti alla sua bottega</E
+M>come ad una fiera</E
+M>fare c</E
+M>a qualcuno</E
+M>essere</E
+M>mettersi</E
+M>entrare in c</E
+M>sa di essere il più forte e non teme la c</E
+M>di nessuno</E
+M>la c</E
+M>è l’anima del commercio</E
+M>ha aperto un negozio in c</E
+M>col suo antico socio</E
+M>vogliamo vincere la c</E
+M>di tutti gli altri produttori</E
+M>farsi una c</E
+M>spietata</E
+M>a coltello</E
+M>libera c</E
+M>omogenea</E
+M>eterogenea</E
+M>potenziale</E
+M>nella domanda</E
+M>richiesta</E
+M>nell’offerta</E
+M>sleale</E
+M>di rette</E
+M>di piani</E
+M>il fatto è avvenuto per una c</E
+M>di circostanze</E
+M>concorso</E

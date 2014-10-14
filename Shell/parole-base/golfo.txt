@@ -1,0 +1,21 @@
+golfo.txt
+"corrente del golfo"
+"Corrente del Golfo"
+"golfo"
+"golfo dei poeti"
+"golfo mistico"
+"golfo mistico"
+"i paesi del golfo"
+* [[baia]], [[insenatura]]
+M>il g</E
+M>di Napoli</E
+M>di Genova</E
+M>il Golfo</E
+M>capitano del G</E
+M>corrente del Golfo</E
+M>mistico</E
+M>mystisches Abgrund</E
+M>mentre gli occhi d’Isolda</E
+M>contemplavano l’eroe</E
+M>sorgeva dal Golfo Mistico il motivo fatale</E
+M>il grande e terribile simbolo di amore e di morte</E

@@ -1,0 +1,33 @@
+arrosto.txt
+"arrosto"
+"arrosto"
+"arrosto"
+"carne arrosto"
+"costata di manzo arrosto"
+"tutto fumo niente arrosto"
+*[[arrostito]]
+*''tutto fumo e niente 
+*''fumo d'
+M>arrostire</E
+M>un a</E
+M>di vitella</E
+M>di maiale</E
+M>girato</E
+M>morto</E
+M>annegato</E
+M>fumo d’a</E
+M>più fumo che a</E
+M>molto fumo e poco a</E
+M>fare un a</E
+M>cuocere</E
+M>fare</E
+M>mettere a</E
+M>carne fatta arrosto</E
+M>chi la vuole allesso e chi arrosto</E
+M>carne arrosto</E
+M>pesce arrosto</E
+M>carne arrosta</E
+M>castagne arroste</E
+M>caldarroste</E
+M>un arrostino di tordi</E
+M>arrostini di vitella di latte alla salvia</E

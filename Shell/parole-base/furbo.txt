@@ -1,0 +1,29 @@
+furbo.txt
+"essere più furbo di"
+"farsi furbo"
+"furbo"
+"furbo"
+"furbo come una volpe"
+#*''quel ragazzo è furbo''
+*[[scaltro]], [[astuto]], [[accorto]], [[avveduto]], [[intelligente]], [[acuto]], [[sottile]], [[perspicace]], [[lungimirante]], [[abile]], [[attento]], [[prudente]], [[malizioso]], [[sagace]]
+*[[furbacchione]], [[marpione]], [[imbroglione]], [[birbone]], [[birbante]]
+*[[sincero]], [[schietto]], [[ingenuo]], [[sprovveduto]], [[ottuso]],  [[tonto]], [[sciocco]], [[stolto]]
+*[[furbacchione]],  [[furberia]], [[furbesco]], [[furbizia]]  
+M>un uomo f</E
+M>un commerciante molto f</E
+M>sei stato f</E
+M>ad accorgertene subito!</E
+M>che aria f</E
+M>è una trovata veramente f</E
+M>occhi f</E
+M>non fare tanto il f</E
+M>la f</E
+M>con me!</E
+M>un f</E
+M>matricolato</E
+M>di prim’ordine</E
+M>di tre cotte</E
+M>lingua f</E
+M>sottrarsi furbamente al controllo</E
+M>sorridere</E
+M>ammiccare furbamente</E

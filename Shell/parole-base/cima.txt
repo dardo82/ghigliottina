@@ -1,0 +1,91 @@
+cima.txt
+"arrivare in cima"
+"cima"
+"cima"
+"cima"
+"cima"
+"cima d'albero"
+"cima dell'albero"
+"cima della montagna"
+"cima della penna"
+"con una cima"
+"da cima a fondo"
+"da cima a fondo"
+"il birillo in cima a tutti gli altri (bowling)"
+"il volume lasciato in cima a un contenitore riempito di liquido"
+"in cima"
+"in cima"
+"in cima"
+"in cima"
+"in cima a"
+"in cima a una collina"
+"la cima, la sommità"
+"potare la cima delle piante"
+"stare sulla cima"
+"sulla cima dell'albero"
+*'' da cima a fondo''
+*italiano
+*siciliano
+M>la c</E
+M>del campanile</E
+M>in c</E
+M>alla scala</E
+M>Questo tuo grido farà come vento</E
+M>Che le più alte c</E
+M>più percuote</E
+M>colmo</E
+M>cappello</E
+M>in c</E
+M>alla riva</E
+M>quel vaso è troppo in c</E
+M>alla tavola</E
+M>la c</E
+M>dei capelli</E
+M>averne fino alla c</E
+M>dei capelli</E
+M>cime di rapa</E
+M>broccoli di rapa</E
+M>in c</E
+M>in c</E
+M>da c</E
+M>a fondo</E
+M>hanno perquisito la casa da c</E
+M>a fondo</E
+M>s’è dovuto rifare tutto il lavoro da c</E
+M>a fondo</E
+M>scambiamo per c</E
+M>dell’arte la fotografia</E
+M>Avere</E
+M>mettere qualcuno in c</E
+M>ai proprî pensieri</E
+M>che c</E
+M>d’uomo!</E
+M>quella donna è una c.</E
+M>non è davvero una c</E
+M>però è un uomo onesto</E
+M>Per morto era una cima</E
+M>Ma per vivo era corto</E
+M> dodici anni. Ed era il capo ... Non era una c.</E
+M> ma era grosso</E
+M> forte e coraggioso</E
+M>di galantuomo</E
+M>di birbante</E
+M>di un albero</E
+M>di un ramo</E
+M>funzione di cima</E
+M>Ramificazione a cima</E
+M>multipara</E
+M>bipara</E
+M>unipara</E
+M>monocasio</E
+M>Infiorescenza a cima</E
+M>elicoide</E
+M>bostrice</E
+M>gettare la c</E
+M>a terra</E
+M>prendere la c</E
+M>dare volta alla c</E
+M>dare la c</E
+M>cima di petto</E
+M>cima alla genovese</E
+M>ripiena</E

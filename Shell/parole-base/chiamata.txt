@@ -1,0 +1,57 @@
+chiamata.txt
+"chiamata"
+"chiamata"
+"chiamata"
+"chiamata alla ribalta"
+"chiamata alle armi"
+"chiamata di controllo"
+"chiamata diretta"
+"chiamata in conferenza telefonica"
+"chiamata interurbana"
+"chiamata locale"
+"chiamata militare"
+"chiamata mobile"
+"chiamata telefonica"
+"chiamata urbana"
+"indicativo di chiamata, callsign"
+"tempo di chiamata"
+*[[appello]]
+* [[invito]], [[convocazione]], [[richiamo]], [[richiesta]], [[ordine]], [[leva]], [[mobilitazione]], [[reclutamento]]
+* (per una carica, una funzione, eccetera) [[elezione]], [[nomina]], [[assunzione]]
+*[[allontanamento]], [[congedo]], [[licenziamento]]
+M>dare una ch</E
+M>rispondere a una ch</E
+M>s’era mosso con tanta sollecitudine</E
+M>come a una ch</E
+M>del padre provinciale</E
+M>fare la ch</E
+M>il dottore ha avuto la ch. di un cliente</E
+M>alla ribalta</E
+M>si sono avute tre ch</E
+M>dopo il primo atto</E
+M>alle armi</E
+M>è stata fatta la ch</E
+M>della classe 1961</E
+M>mancanza alla ch</E
+M>personale</E
+M>rispondere alla ch</E
+M>di Dio</E
+M>attendere con rassegnazione il giorno della ch</E
+M>della ch</E
+M>finale</E
+M>telefonica</E
+M>chiamata</E
+M>luminosa</E
+M>Segnale di ch</E
+M>segnale di soccorso</E
+M>di un terzo in causa</E
+M>in garanzia</E
+M>di correo</E
+M>alla successione</E
+M>allo sbocco</E
+M>c. di funzione</E
+M>di routine</E
+M>chiamata</E
+M>invocazione</E
+M>funzione</E
+M>routine</E

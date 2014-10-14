@@ -1,0 +1,51 @@
+cilindro.txt
+"a forma di cilindro"
+"cappello a cilindro"
+"cappello a cilindro"
+"cappello a cilindro"
+"cilindro"
+"cilindro"
+"cilindro"
+"cilindro"
+"cilindro"
+"cilindro principale"
+"testa di cilindro"
+"trafilamenti tra cilindro e pistone"
+#*''il volume del 
+*[[cilindrare]], [[cilindrata]],[[cilndrico]],[[cilindrasse]], [[cilindatrice]], piano-cilindrico, [[cilindroide]], [[monoclindrico]], [[emicilindrico]]
+M>cylindrus</E
+M>circolare</E
+M>indefinito</E
+M>direttrice</E
+M>generatrici</E
+M>finito</E
+M>basi</E
+M>circolare retto</E
+M>cilindro</E
+M>cilindro</E
+M>direttrice</E
+M>quadrico</E
+M>ellittico</E
+M>iperbolico</E
+M>parabolico</E
+M>di pressione</E
+M>cilindri per laminatoio</E
+M>otturatore</E
+M>c. europeo</E
+M>un motore a quattro</E
+M>a sei cilindri</E
+M>Cappello a c</E
+M>cilindro</E
+M>da preghiere</E
+M>ruota</E
+M>mulino da preghiere</E
+M>centrale</E
+M>stele</E
+M>corticale</E
+M>corteccia</E
+M>ialini</E
+M>granulosi</E
+M>cerei</E
+M>epiteliali</E
+M>ematici</E
+M>coniugati</E

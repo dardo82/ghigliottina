@@ -1,0 +1,67 @@
+notturno.txt
+"caccia notturno"
+"guardiano notturno"
+"guardiano notturno"
+"lavoratore notturno"
+"locale notturno"
+"locale notturno"
+"locale notturno"
+"notturno"
+"notturno"
+"notturno"
+"servizio notturno"
+"silenzio notturno"
+"spettacolo allestito in un locale notturno"
+"supplemento notturno"
+"tribunale notturno"
+"uccello notturno"
+"uccello notturno"
+"volo notturno"
+"volo notturno"
+"volo notturno"
+*[[serale]]
+*[[diurno]]
+*[[notte]]
+M>nocturnus</E
+M>nox noctis</E
+M>le ore n</E
+M>quiete</E
+M>silenzio n</E
+M>le tenebre n</E
+M>Quali fioretti dal n</E
+M>gelo Chinati e chiusi</E
+M>Canto n</E
+M>di un pastore errante dell’Asia</E
+M>Canti</E
+M>il riposo n</E
+M>marcia n</E
+M>viaggio n</E
+M>navigazione n</E
+M>asilo n</E
+M>spettacolo n</E
+M>servizio n</E
+M>lavoro n</E
+M>partita n</E
+M>in notturna</E
+M>una notturna</E
+M>paure</E
+M>fantasie</E
+M>visioni n</E
+M>timori</E
+M>incubi n</E
+M>febbri n</E
+M>sudorazione n</E
+M>polluzioni n</E
+M>acqua n</E
+M>un viandante n</E
+M>i soliti clienti n</E
+M>guardiano n</E
+M>guardia n</E
+M>Escon notturni e piani</E
+M>e per lo colle Uniti vanno</E
+M>fiori n</E
+M>farfalle n</E
+M>eteroceri</E
+M>rapaci n</E
+M>i n</E
+M>di Chopin</E

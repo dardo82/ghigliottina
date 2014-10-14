@@ -1,0 +1,89 @@
+situazione.txt
+"(essere) in una situazione spinosa"
+"affrontare coraggiosamente una situazione difficile"
+"Avere il polso della situazione"
+"avere la situazione sotto controllo"
+"calmare la situazione"
+"capire com'è la situazione"
+"capire la situazione"
+"capire la situazione"
+"evitare una situazione; aggirare una situazione"
+"farsi coinvolgere emotivamente in una situazione"
+"in una situazione pericolosa"
+"in una situazione spiacevole"
+"la gravità della situazione"
+"la situazione"
+"mostrarsi all'altezza della situazione"
+"prendere in mano la situazione"
+"quadro della situazione"
+"ribaltare la situazione"
+"ribaltare una situazione, o un'idea"
+"riuscire a sentirsi a proprio agio in una nuova situazione"
+"situazione"
+"situazione"
+"situazione"
+"situazione avversa"
+"situazione complessa"
+"situazione di parità"
+"situazione difficile"
+"situazione difficile"
+"situazione difficile"
+"situazione difficile"
+"situazione difficile"
+"situazione difficile"
+"situazione difficile"
+"situazione difficile, condizione difficile"
+"situazione esistente"
+"situazione finanziaria"
+"situazione imbarazzante"
+"situazione incerta"
+"situazione, condizione"
+*[[posizione]],[[condizione]]
+*[[situazionismo]]
+M>una villetta in una bellissima s.</E
+M>una città sul lago in s. molto favorevole</E
+M>essere</E
+M>trovarsi in una s. favorevole</E
+M>sfavorevole</E
+M>difficile</E
+M>critica</E
+M>brutta</E
+M>pessima</E
+M>la sua s. familiare è molto delicata</E
+M>non mi ero mai trovato in una s. così imbarazzante</E
+M>ma guarda in che s. mi sono cacciato!</E
+M>nella sua s. mi sarei comportato diversamente</E
+M>la s. economica</E
+M>sociale</E
+M>politica di una nazione</E
+M>la s. politica internazionale</E
+M>s. giuridiche soggettive</E
+M>diritti soggettivi</E
+M>s. di abbandono</E
+M>la s. è fluida</E
+M>è preoccupante</E
+M>è tesa</E
+M>si fa di giorno in giorno più grave</E
+M>analizzare</E
+M>studiare la s.</E
+M>la s. va esaminata freddamente</E
+M>ormai la s. è diventata insostenibile</E
+M>avere in mano la s.</E
+M>tenere in pugno</E
+M>sotto controllo</E
+M>la s.</E
+M>perdere il controllo della s.</E
+M>rovesciare la s.</E
+M>fare un quadro della s.</E
+M>fare il punto della</E
+M>sulla</E
+M>essere</E
+M>mostrarsi all&#8217;altezza della s.</E
+M>s. contabile</E
+M>dei conti</E
+M>s. economica</E
+M>s. finanziaria</E
+M>s. amministrativa</E
+M>stato</E
+M>patrimoniale</E
+M>contesto situazionale</E

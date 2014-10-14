@@ -1,0 +1,343 @@
+prova.txt
+"a dura prova"
+"a prova d'urto"
+"a prova di"
+"a prova di bambino (sicuro per i bambini, es: tappo di detersivo)"
+"a prova di bomba"
+"a prova di bomba"
+"a prova di esplosione"
+"a prova di polvere"
+"a prova di spifferi"
+"a prova di vento"
+"addurre prova"
+"alla prova dei fatti"
+"atto di prova"
+"avere la prova"
+"banco di prova, banco prova"
+"banco prova"
+"campo di sperimentazione, terreno di prova"
+"che gusto si prova?"
+"come prova"
+"corsa di prova"
+"cucina di prova"
+"dare prova di qualcosa"
+"di prova"
+"dimostrazione, prova"
+"divieto di prova"
+"essere messo a dura prova"
+"fare una prova"
+"fare una prova"
+"fino a prova contraria"
+"gioco di prova"
+"in prova"
+"in prova"
+"in prova"
+"materiale di prova"
+"metodo di prova"
+"mettere a dura prova"
+"mettere alla prova"
+"mettere alla prova per"
+"mettere alla prova qualcuno"
+"mettere in prova"
+"mettersi alla prova"
+"mettersi alla prova"
+"mettersi alla prova"
+"modello di prova"
+"oggetto di prova"
+"onere della prova"
+"periodo di prova"
+"persona in prova"
+"prova"
+"prova"
+"prova"
+"prova"
+"prova"
+"prova"
+"prova a tempo"
+"prova antincendio"
+"prova clinica \"
+"prova colore"
+"prova corroborante"
+"prova costume"
+"prova cruciale"
+"prova d'abiti"
+"prova del 9"
+"prova del cuoco"
+"prova del nove"
+"prova del palloncino"
+"prova dell'acidità"
+"prova dello slalom"
+"prova di verifica"
+"prova di vocabolario"
+"prova di volo"
+"prova finale"
+"prova generale"
+"prova generale"
+"prova giudiziaria"
+"prova in linea"
+"prova inconfutabile"
+"prova incontrovertibile"
+"prova incriminante"
+"prova indiretta"
+"prova indiscutibile"
+"prova indiziaria"
+"prova inequivocabile"
+"prova inoppugnabile"
+"prova interna"
+"prova legittima"
+"prova matematica"
+"prova orale"
+"prova pratica"
+"prova prima facie"
+"prova primaria"
+"prova professionale, prova attitudinale"
+"prova provata"
+"prova schiacciante"
+"prova secondaria"
+"prova sperimentale"
+"prova standardizzata"
+"prova su strada"
+"prova, test"
+"recinto a prova di coniglio"
+*[[verifica]], [[controllo]], [[accertamento]], [[esame]], [[analisi]], [[test]], [[collaudo]], [[compito]]; [[esperienza]], [[esperimento]]
+*''(di sostanza, materiale)'' [[campione]], [[provino]], [[assaggio]]
+*[[dimostrazione]], [[testimonianza]], [[documento]], [[riscontro]], [[indizio]], [[segno]], [[elemento]], [[riprova]], [[giustificazione]], [[argomento]], [[argomentazione]]
+*[[tirocinio]], [[noviziato]]
+*[[competizione]], [[incontro]], [[match]], [[gara]]
+*[[bozza]]
+* [[disamina]],  [[vaglio]], [[indagine]] 
+M>provare</E
+M>proba</E
+M>fare la p</E
+M>se non ci credi</E
+M>facciamo la p</E
+M>fare la p</E
+M>per verificare la solidità di un oggetto</E
+M>il funzionamento di una macchina</E
+M>sottoporre a una p</E
+M>a una serie di prove</E
+M>mettere qualcuno alla p</E
+M>a prova</E
+M>assumere</E
+M>prendere un lavorante in p</E
+M>periodo di prova</E
+M>prendere</E
+M>dare in prova un oggetto</E
+M>banco di prova</E
+M>mettere in prova un soprabito</E
+M>il vestito è pronto per la p</E
+M>andare dalla sarta per la prima</E
+M>per la seconda</E
+M>per l&#8217;ultima prova</E
+M>le p</E
+M>di una commedia</E
+M>di un&#8217;opera lirica</E
+M>di un concerto</E
+M>di una rivista</E
+M>assistere alle p</E
+M>di un varietà televisivo</E
+M>generale</E
+M>le p</E
+M>di una sfilata in costume</E
+M>prove di una gara automobilistica</E
+M>ufficiali</E
+M>di qualificazione</E
+M>a tutta p</E
+M>è un galantuomo a tutta p</E
+M>lealtà</E
+M>onestà a tutta p</E
+M>a p</E
+M>di bomba</E
+M>cassaforte a p</E
+M>di bomba</E
+M>la nostra è un&#8217;amicizia a p</E
+M>di bomba</E
+M>allarme a p</E
+M>di ladro</E
+M>ha uno stomaco a p</E
+M>di veleno</E
+M>prove di laboratorio</E
+M>prove su modelli</E
+M>su prototipi</E
+M>di omologazione</E
+M>di collaudo</E
+M>prove su strada</E
+M>prove di carico su strutture</E
+M>fisiche e chimiche</E
+M>di carico su modelli</E
+M>di isolamento</E
+M>meccaniche</E
+M>di rendimento</E
+M>di riscaldamento</E
+M>prove di consumo</E
+M>prova di stabilità</E
+M>prove di velocità</E
+M>statiche</E
+M>dinamiche</E
+M>prove di volo</E
+M>prove sui materiali</E
+M>meccaniche</E
+M>provetta</E
+M>provino</E
+M>campione</E
+M>saggio</E
+M>di trazione</E
+M>di compressione</E
+M>di flessione</E
+M>di taglio</E
+M>statiche</E
+M>dinamiche</E
+M>prove di fatica</E
+M>tecnologiche</E
+M>di colabilità</E
+M>di imbutitura</E
+M>di piegamento</E
+M>di saldabilità</E
+M>distruttive</E
+M>non distruttive</E
+M>radiografiche</E
+M>con ultrasuoni</E
+M>Camera di prova</E
+M>del vento</E
+M>locali alla p</E
+M>A p</E
+M>d&#8217;errore</E
+M>Metodo a prova ed errore</E
+M>apprendimento per prova ed errore</E
+M>emogeniche</E
+M>di carico</E
+M>da carico</E
+M>di funzionalità epatica</E
+M>dello sforzo</E
+M>del nove</E
+M>proof</E
+M>di conio</E
+M>di stampa</E
+M>bozza di stampa</E
+M>d&#8217;artista</E
+M>d&#8217;autore</E
+M>di saggio</E
+M>di &#171;stato&#187;</E
+M>prove ante litteram</E
+M>avanti lettera</E
+M>ho fatto spesso la p</E
+M>del suo egoismo</E
+M>il mondo è pieno di tristi</E
+M>e lo so per prova</E
+M>una p</E
+M>non ti costa nulla</E
+M>riuscire alla prima p</E
+M>alla seconda p</E
+M>ha fallito</E
+M>ritentare la prova</E
+M>fare p</E
+M>fare p</E
+M>di andarsene</E
+M>di entrare</E
+M>di uscire</E
+M>con un piè solo aveano da venire gli altri pastori</E
+M>e far prova di levarlo da quella fossa e porvisi lui</E
+M>essere in p</E
+M>L&#8217;alma</E
+M>in p</E
+M>stassi D&#8217;abandonarmi</E
+M>bisogna vederlo alla p</E
+M>alla p</E
+M>dei fatti si è rivelato migliore di quanto pensassi</E
+M>mettere qualcuno alla p</E
+M>a prova</E
+M>mettere a dura p</E
+M>la pazienza</E
+M>la sopportazione</E
+M>la resistenza</E
+M>di una persona</E
+M>superare</E
+M>vincere la p</E
+M>del fuoco</E
+M>quest&#8217;esame sarà per me la p</E
+M>del fuoco</E
+M>alla p</E
+M>si scortica l&#8217;asino</E
+M>essere</E
+M>non essere ammesso alla p</E
+M>d&#8217;esame</E
+M>scritte</E
+M>orali</E
+M>grafiche</E
+M>gli esami iniziano con la p</E
+M>d&#8217;italiano</E
+M>dare buona</E
+M>cattiva p</E
+M>di sé</E
+M>dare p</E
+M>dare p</E
+M>di coraggio</E
+M>di sangue freddo</E
+M>di lealtà</E
+M>mi ha dato una grande p</E
+M>di affetto</E
+M>di amicizia</E
+M>di fiducia</E
+M>è la più bella p</E
+M>d&#8217;amore che tu potessi darmi</E
+M>dare prova di forza</E
+M>fare le prime p</E
+M>in un&#8217;arte</E
+M>in una disciplina</E
+M>il colonnato di piazza S</E
+M>Pietro rappresenta una delle p</E
+M>più felici del Bernini architetto</E
+M>vincere la p</E
+M>del disco</E
+M>del salto in alto</E
+M>grandi p</E
+M>a prova</E
+M>ciascun dentro a pruova si ricorse</E
+M>a prova Vien fuor la femminetta a côr dell&#8217;acqua Della novella piova</E
+M>dovette affrontare amare p</E
+M>era ben lontano dal prevedere quali p</E
+M>lo attendessero</E
+M>è stata una dura p</E
+M>per lui</E
+M>non ha resistito</E
+M>non ha retto alla p</E
+M>delle difficoltà</E
+M>l&#8217;ora della p</E
+M>viene per tutti</E
+M>evidente</E
+M>lampante</E
+M>debole</E
+M>forte</E
+M>decisiva</E
+M>contraria</E
+M>in contrario</E
+M>fino a p</E
+M>contraria</E
+M>fino a p</E
+M>contraria a casa mia posso fare ciò che voglio</E
+M>addurre</E
+M>allegare delle p</E
+M>fornire le p</E
+M>di un&#8217;asserzione</E
+M>le p</E
+M>dell&#8217;esistenza di Dio</E
+M>dell&#8217;immortalità dell&#8217;anima</E
+M>documentale</E
+M>legale</E
+M>testimoniale</E
+M>contraria</E
+M>le p</E
+M>della sua colpevolezza sono inconfutabili</E
+M>non si può accusare una persona senza essere in possesso delle p</E
+M>è un indizio che ha bisogno di p</E
+M>più convincenti</E
+M>imputato assolto &#171;per insufficienza di prove&#187;</E
+M>della paraffina</E
+M>di nobiltà</E
+M>letterale</E
+M>testimoniale</E
+M>prova di fortuna</E
+M>questa è una nuova p</E
+M>della sua doppiezza</E
+M>quest&#8217;errore è una chiara p</E
+M>della sua mancanza di cultura</E

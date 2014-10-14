@@ -1,0 +1,23 @@
+cittadino.txt
+"buon cittadino"
+"centro cittadino"
+"cittadino"
+"cittadino"
+"cittadino"
+"cittadino"
+"cittadino"
+"cittadino del mondo"
+"cittadino naturalizzato"
+"consiglio cittadino"
+"dall'aspetto cittadino"
+"del consiglio cittadino"
+"diritti del cittadino di ogni stato degli USA"
+"libero cittadino"
+"parco cittadino"
+"tribunale cittadino"
+"un non cittadino"
+*di città, [[urbano]], [[civico]], [[comunale]], [[municipale]]
+*(di lotte, guerre) [[intestino]], [[civile]]
+*[[abitante]], [[residente]]
+* di campagna, [[rurale]], [[contadinesco]]
+*''primo cittadino''

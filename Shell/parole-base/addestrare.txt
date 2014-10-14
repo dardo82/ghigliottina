@@ -1,0 +1,22 @@
+addestrare.txt
+"addestrare"
+"addestrare, replace: addestrarsi"
+"consigliare,addestrare"
+"consigliare,addestrare"
+#* '''''addestrarsi''' nell'uso delle armi.''
+#* '''''addestrare''' il cane alla caccia;''
+M>destro</E
+M>io addèstro</E
+M>gli studenti a scrivere in modo corretto; nella composizione scritta</E
+M>i cavalli alla corsa</E
+M>a. un cane per la difesa</E
+M>era stato addestrato, fin da piccolo, da una fierissima governante spagnola, a reprimere ogni genere di emozioni</E
+M>a. a parlare in pubblico</E
+M>a. nel salto</E
+M>a. al</E
+M>per il</E
+M>volo</E
+M>a. nella pratica forense</E
+M>cavallo addestrato</E
+M>essere addestrato alle fatiche</E
+M>un soldato ben addestrato</E

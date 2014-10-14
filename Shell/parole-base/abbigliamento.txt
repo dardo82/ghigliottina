@@ -1,0 +1,42 @@
+abbigliamento.txt
+"abbigliamento"
+"abbigliamento"
+"abbigliamento casual"
+"abbigliamento consono"
+"abbigliamento da lavoro"
+"abbigliamento da notte femminile"
+"abbigliamento di massa"
+"abbigliamento di protezione"
+"abbigliamento di seconda mano, abbigliamento usato"
+"abbigliamento elegante"
+"abbigliamento femminile"
+"abbigliamento femminile"
+"abbigliamento formale"
+"abbigliamento giovane"
+"abbigliamento maschile"
+"abbigliamento maschile"
+"abbigliamento maschile"
+"abbigliamento per bambini"
+"abbigliamento per bambini"
+"abbigliamento per il tempo libero"
+"abbigliamento sportivo"
+"abbigliamento sportivo"
+"abbigliamento unisex"
+"articolo d'abbigliamento"
+"capo di abbigliamento"
+"linea abbigliamento"
+"linea di abbigliamento per bambini"
+"negozio di abbigliamento"
+"negozio di abbigliamento"
+"nuovi arrivi (di abbigliamento)"
+"vestiario, abbigliamento"
+*[[abiti]], [[vestiario]], [[indumenti]], [[guardaroba]]; [[vestito]], [[abito]], capo d’abbigliamento, [[veste]], [[toilette]]
+* modo di vestire, [[look]], [[mise]], [[foggia]], [[tenuta]], [[costume]]
+*[[abbligliare]]
+M>habillement</E
+M>l’a</E
+M>femminile nei secoli</E
+M>l’industria dell’a</E
+M>negozio di a</E
+M>carta dell’a</E
+M>tessera del vestiario</E

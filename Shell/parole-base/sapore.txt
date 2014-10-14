@@ -1,0 +1,84 @@
+sapore.txt
+"avere il sapore di"
+"avere sapore di"
+"buon sapore"
+"buon sapore"
+"buon sapore"
+"buona sapore"
+"dal sapore d'aglio"
+"di buon sapore"
+"forte (di sapore), spesso (gusto)"
+"sapore"
+"sapore"
+"sapore"
+"sapore di"
+"sapore di frutta"
+"sapore piccante"
+*[[gusto]], [[gustosità]], [[sapidità]], [[saporosità]]
+*[[insipidezza]]
+*[[insapore]], [[insaporire]], [[sapere]], [[sapido]], [[saporire]], [[saporito]], [[saporoso]], [[assaporare]]
+* [[amaro]], [[aspro]], [[dolce]], [[salato]]
+M>sapor -</E
+M>ris</E
+M>sap</E
+M>dolce</E
+M>amaro</E
+M>acido</E
+M>salato</E
+M>avere</E
+M>non avere sapore</E
+M>avere molto</E
+M>poco</E
+M>nessun s.</E
+M>essere senza s.</E
+M>avere un buon s.</E
+M>un s. gradevole</E
+M>un cattivo s.</E
+M>s. dolce</E
+M>amaro</E
+M>salato</E
+M>acido</E
+M>aspro</E
+M>soave</E
+M>delicato</E
+M>forte</E
+M>piccante</E
+M>disgustoso</E
+M>nauseante</E
+M>una bevanda di s. dolciastro</E
+M>sostanza di odore e s. caratteristici</E
+M>il s. tipico della banana</E
+M>il caviale ha un s. molto particolare</E
+M>senti che delizioso s. quest&#8217;insalata!</E
+M>giudicare</E
+M>riconoscere una sostanza dal s.</E
+M>dare s. a un cibo</E
+M>sentire il s. di una vivanda</E
+M>far sentire il s. delle legnate</E
+M>del bastone</E
+M>le sue parole avevano un s. amaro</E
+M>questa domanda ha un s. sarcastico</E
+M>sentivo nelle sue frasi un s. di accusa</E
+M>complimenti di s. dolciastro</E
+M>la sua prosa ha un s. arcaico</E
+M>pittura di s. preraffaellita</E
+M>musica di s. romantico.</E
+M>una storiella piena di s.</E
+M>versi senza s.</E
+M>scherzi</E
+M>complimenti privi di s.</E
+M>spettacolo che non ha nessun s.</E
+M>chi lodava il cielo di Monza</E
+M> chi discorreva</E
+M> con gran sapore</E
+M> della gran figura ch&#8217;essa</E
+M>avrebbe fatta là</E
+M>Dar sapore</E
+M>quelle battute danno s. alla commedia</E
+M>qualche pettegolezzo dà s. alla conversazione</E
+M>è l&#8217;imprevisto che dà s. alla vita.</E
+M>sapori</E
+M>odori</E
+M>savore</E
+M>un delizioso saporino</E
+M>senti che saporino!</E

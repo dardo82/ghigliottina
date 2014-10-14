@@ -1,0 +1,4 @@
+inchinarsi.txt
+"inchinarsi a"
+"inchinarsi davanti a"
+"inchinarsi ossequiosamente"

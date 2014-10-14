@@ -1,0 +1,43 @@
+elenco.txt
+"elenco"
+"elenco abbonati telefonici"
+"elenco arretrati"
+"elenco degli allievi di una classe"
+"elenco degli editori"
+"elenco dei dati dell'arrestato"
+"elenco dei dipendenti"
+"elenco dei malati"
+"elenco dei premi"
+"elenco dei sinistri"
+"elenco dell'equipaggio"
+"elenco dell'onore: sopr. studenti che hanno raggiunto notevoli livelli accademici"
+"elenco dell'onore: sopr. studenti che hanno raggiunto notevoli livelli accademici"
+"elenco di"
+"elenco di attività"
+"elenco di canzoni"
+"elenco di nomi"
+"elenco di parole"
+"elenco puntato"
+"elenco telefonico"
+"elenco telefonico"
+"elenco telefonico"
+"elenco telefonico"
+"fare un elenco"
+"numero di, elenco di, gamma di"
+*[[lista]], [[registro]], [[rubrica]], [[catalogo]], [[indice]], [[inventario]], [[nota]]
+*[[elencare]], [[elencazione]]
+M>elenchus</E
+M>chi</E
+M>dei libri di testo</E
+M>delle spese</E
+M>delle offerte</E
+M>dei soci</E
+M>dei candidati</E
+M>dei collaboratori</E
+M>telefonico</E
+M>compilare</E
+M>stendere un e</E
+M>registrare</E
+M>segnare nell’elenco</E
+M>e. dei poveri</E
+M>redarguizione</E

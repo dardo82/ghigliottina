@@ -1,0 +1,55 @@
+avviare.txt
+"avviare"
+"avviare"
+"avviare"
+"avviare, replace: avviarsi"
+"avviare (con la manovella)"
+"avviare una causa"
+"cominciare; avviare un progetto con qcn."
+"far avvicinare qc a, persuadere qc di, avviare qc verso, iniziare qc verso"
+"far partire, avviare, mettere in moto"
+"fare il boot, avviare"
+#*''quel giornalista ha avviato un'inchiesta sulla droga'' 
+#*''
+#*''
+#*''
+#*''
+*[[iniziare]], [[cominciare]]
+*[[avviamento]], [[avviarsi]]
+M>io avvìo</E
+M>le reclute furono avviate ciascuna al proprio reparto</E
+M>l’emigrazione verso nuove terre</E
+M>a un mestiere</E
+M>a un’arte</E
+M>a una professione</E
+M>agli studî</E
+M>avviarsi</E
+M>avviarsi a casa</E
+M>verso la stazione</E
+M>finita la partita</E
+M>il pubblico s’avviò verso l’uscita</E
+M>avviarsi verso una meta ambiziosa</E
+M>verso la propria rovina</E
+M>sarà l’ora di avviarsi</E
+M>io intanto m’avvio</E
+M>il motore stentava ad avviarsi</E
+M>era una borgata molto popolosa</E
+M>che s’avviava a diventare città</E
+M>la minestra s’avvia a bollire</E
+M>pare che il tempo avvii a piovere</E
+M>un lavoro a maglia</E
+M>il fuoco</E
+M>trattative</E
+M>un discorso</E
+M>un’azienda</E
+M>un fiasco</E
+M>una botte</E
+M>il pane</E
+M>una candela</E
+M>eravamo già avviati</E
+M>un giovane bene avviato negli studî</E
+M>nella professione</E
+M>negozio</E
+M>studio</E
+M>commercio bene avviato</E
+M>fuoco avviato</E

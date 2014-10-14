@@ -1,0 +1,151 @@
+oggetto.txt
+", oggetto transizionale"
+"avere oggetto"
+"complemento oggetto"
+"complemento oggetto indiretto"
+"donna oggetto"
+"imposta applicata all'oggetto imponibile alla fonte"
+"in oggetto"
+"linguaggio oggetto"
+"oggetto"
+"oggetto"
+"oggetto"
+"oggetto"
+"oggetto"
+"oggetto"
+"ciò che è esterno al soggetto"
+"oggetto antico"
+"oggetto consegnato"
+"oggetto d'antiquariato"
+"oggetto d'arte"
+"oggetto da collezione"
+"oggetto del contendere"
+"oggetto del desiderio"
+"oggetto della ricerca"
+"oggetto di discussione"
+"oggetto di intervento"
+"oggetto di pettegolezzo"
+"oggetto di prova"
+"oggetto di studio"
+"oggetto di verifica"
+"oggetto metallico"
+"oggetto per giocare"
+"oggetto pesante"
+"oggetto rinvenuto"
+"oggetto ritrovato"
+"oggetto rubato"
+"oggetto tipo"
+"oggetto volante non identificato (UFO)"
+"programma oggetto"
+"ricevere il denaro giusto per il valore dell'oggetto venduto"
+"spazio oggetto"
+"UFO (Oggetto volante non identificato)"
+"un oggetto che fa rumore"
+#*''in televisione il modello femminile prevalente è quello della donna '''oggetto'''''
+#* ''[[vedere]] gli oggetti a una certa distanza''
+#*''oggetto giuridico del [[reato]]''
+#*''oggetto del [[desiderio]]''
+#*''l'oggetto di una [[lettera]]''
+* ''(artigianale,artistico)'' [[opera]], [[manufatto]]
+*[[cosa]], [[roba]], [[arnese]], [[manufatto]], [[utensile]] [[aggeggio]], [[articolo]], [[prodotto]]
+*''(di una conversazione, di un discorso eccetera)'' [[materia]], [[argomento]], [[contenuto]], [[soggetto]], [[tema]]
+*[[bene]]
+*[[complemento oggetto]]
+*[[cosa]]. L'oggetto è qualcosa di tangibile (una bambola in un soffitto  è un oggetto in quanto tale); la cosa possiede ,oltre alla tangibilità,  la qualità di essere in relazione con il soggetto (una bambola nelle mani di una bambina è una cosa) 
+M>obiectum</E
+M>obiectus</E
+M>obic</E
+M>reale</E
+M>immaginario</E
+M>sensibile</E
+M>ideale</E
+M>materiale</E
+M>immateriale</E
+M>l’o</E
+M>della conoscenza</E
+M>del pensiero</E
+M>della coscienza</E
+M>della sensazione</E
+M>delle percezioni</E
+M>la conoscenza</E
+M>la percezione degli o</E
+M>la rappresentazione degli o</E
+M>alla mente</E
+M>conoscibili e o</E
+M>inconoscibili</E
+M>quell’opera fu per molto tempo l’o</E
+M>dei suoi pensieri</E
+M>il lavoro è l’o</E
+M>delle mie preoccupazioni</E
+M>qual è l’o</E
+M>dei tuoi studî</E
+M>delle tue ricerche?</E
+M>essere o</E
+M>di venerazione</E
+M>di amore</E
+M> di pietà</E
+M>d’invidia</E
+M>divenire o</E
+M>di scherno</E
+M>del diritto</E
+M>del negozio giuridico</E
+M>dell’obbligazione</E
+M>l’o</E
+M>costante dei miei desiderî è la serenità</E
+M>avere per o</E
+M>la scoperta della verità</E
+M>la gloria è giudicata il maggior bene che sia concesso ai mortali</E
+M>e il più degno o</E
+M>che questi possano proporre alle cure e alle azioni loro</E
+M>scopo</E
+M>l’o</E
+M>d’una visita</E
+M>d’un viaggio</E
+M>l’o</E
+M>principale dell’articolo è di far conoscere con esattezza la situazione attuale</E
+M>l’o</E
+M>della conversazione</E
+M>d’una conferenza</E
+M>d’un discorso</E
+M>in oggetto</E
+M>tornando al problema in oggetto</E
+M>la luce permette di distinguere i varî o</E
+M>non conosco l’uso di questo o</E
+M>artistici</E
+M>preziosi</E
+M>di lusso</E
+M>oggetti d’abbigliamento</E
+M>aveva le tasche piene di o</E
+M>inutili</E
+M>ufficio degli o</E
+M>smarriti</E
+M>è vietato toccare gli o</E
+M>esposti</E
+M>d’arte</E
+M>objet d’art</E
+M>Kunstgegenstand</E
+M>oggetto</E
+M>oggettistica</E
+M>celeste</E
+M>punto</E
+M>oggetto</E
+M>oggetto</E
+M>immagine</E
+M>spazio</E
+M>oggetti</E
+M>codice oggetto</E
+M>compilatore</E
+M>oggetto</E
+M>complemento oggetto</E
+M>Complemento dell’o</E
+M>interno</E
+M>vivere un’esistenza</E
+M>una vita</E
+M>piena di stenti</E
+M>sognare sogni beati</E
+M>libidico</E
+M>reale</E
+M>parziale</E
+M>esterno</E
+M>interno</E
+M>donna oggetto</E

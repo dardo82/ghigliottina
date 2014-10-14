@@ -1,0 +1,37 @@
+turistico.txt
+"approdo turistico"
+"biglietto turistico"
+"campo di vacanze; villaggio turistico"
+"centro turistico"
+"flusso turistico"
+"istituto statale commerciale e turistico"
+"pacchetto turistico"
+"polo turistico"
+"porto turistico"
+"settore turistico"
+"turistico"
+"ufficio turistico"
+"villaggio turistico"
+* del turismo, di viaggi
+*[[escursionistico]], [[panoramico]]
+*[[tipico]], [[caratteristico]], [[folcloristico]]
+*[[guida turistica]], [[ufficio turistico]],[[villaggio turistico]]
+*[[turismo]], [[turista]]
+M>-ci</E
+M>viaggio t.</E
+M>gita t.</E
+M>organizzazione t.</E
+M>ufficio t.</E
+M>villaggio t.</E
+M>aziende di promozione turistica</E
+M>il movimento t. in Italia durante l’anno santo</E
+M>zona t.</E
+M>prezzo t.</E
+M>menù t.</E
+M>torpedone t.</E
+M>treno t.</E
+M>Classe t.</E
+M>Assegno t.</E
+M>traveller’s cheque</E
+M>località</E
+M>centri turisticamente importanti</E

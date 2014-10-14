@@ -1,0 +1,18 @@
+agricoltura.txt
+"agricoltura"
+"agricoltura di sussistenza"
+"agricoltura estensiva"
+"agricoltura meccanizzata"
+*[[agraria]], [[agronomia]], [[coltivazione]]
+M>agricultura</E
+M>ager agri</E
+M>cultura</E
+M>l’incremento</E
+M>lo sviluppo</E
+M>l’abbandono dell’a</E
+M>l’industrializzazione</E
+M>la meccanizzazione dell’a</E
+M>popolazioni dedite prevalentemente all’a</E
+M>l’a</E
+M>resiste per propria forza a tutte le scosse ed a tutti i disordini politici più che le arti</E
+M>le quali delicatissime facilmente si perdono</E

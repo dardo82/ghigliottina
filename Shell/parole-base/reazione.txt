@@ -1,0 +1,124 @@
+reazione.txt
+"aeroplano a reazione"
+"aeroplano a reazione"
+"avere una reazione eccessiva a"
+"azione e reazione"
+"caccia a reazione"
+"fallo di reazione"
+"forte reazione negativa"
+"mostrare una reazione esagerata"
+"motore a reazione"
+"ottenere una reazione da qcn."
+"ottenere una risposta; una reazione da qcn.; di solito arrabbiata o ironica"
+"propulsione a reazione"
+"propulsore a reazione diretta"
+"reazione"
+"reazione"
+"reazione"
+"reazione a catena"
+"reazione a scoppio ritardato"
+"reazione agli stimoli"
+"reazione chimica"
+"reazione crociata"
+"reazione di fusione"
+"reazione di scambio"
+"reazione eccessiva"
+"reazione emotiva"
+"reazione esagerata"
+"reazione nucleare"
+"reazione ritardata"
+"reazione spontanea e immediata a qcs."
+"tempo di reazione"
+"tempo di reazione"
+*[[reazionarismo]], [[reazionario]], [[reazionare]]
+*[[reagire]], [[reattivo]], [[reattore]], [[azione]]
+M>reagire</E
+M>agire</E
+M>azione</E
+M>l&#8217;affermazione dell&#8217;oratore provocò la viva r</E
+M>degli ascoltatori</E
+M>un sonoro schiaffo fu l&#8217;immediata sua r</E
+M>all&#8217;insulto</E
+M>al sentire quella calunnia ebbe un brusco movimento di r</E
+M>la sua r</E
+M>è stata più blanda di quanto avessi immaginato</E
+M>i gruppi</E
+M>gli ambienti</E
+M>le forze della r</E
+M>la reazione</E
+M>lo scatenarsi della r</E
+M>combattere la r</E
+M>la reazione</E
+M>la Reazione</E
+M>restaurazione</E
+M>irreversibile</E
+M>reversibile</E
+M>omogenea</E
+M>eterogenea</E
+M>esotermica</E
+M>endotermica</E
+M>di sintesi</E
+M>di combinazione</E
+M>di addizione</E
+M>di analisi</E
+M>di dissociazione</E
+M>di decomposizione</E
+M>di metatesi</E
+M>di neutralizzazione</E
+M>di precipitazione</E
+M>di scambio</E
+M>di eterificazione</E
+M>esterificazione</E
+M>diazotazione</E
+M>nitrosazione</E
+M>di trasferimento protonico</E
+M>di trasferimento elettronico</E
+M>di Curtius</E
+M>di Friedel Crafts</E
+M>di Hofmann</E
+M>di Grignard</E
+M>catalitica</E
+M>autocatalitica</E
+M>a catena</E
+M>Meccanismo di reazione</E
+M>Velocità di reazione</E
+M>catalizzatori</E
+M>principio di azione e r</E
+M>principio di r</E
+M>terza legge della dinamica</E
+M>vincolare</E
+M>nucleare</E
+M>a catena</E
+M>di cattura</E
+M>a reazione</E
+M>turbina a r</E
+M>motore</E
+M>propulsore a r</E
+M>controllata</E
+M>libera</E
+M>spontanea</E
+M>positiva</E
+M>diretta</E
+M>negativa</E
+M>indiretta</E
+M>controreazione</E
+M>Tessuto di reazione</E
+M>di r</E
+M>infiammatoria</E
+M>prova</E
+M>febbrile</E
+M>flogistica</E
+M>anafilattica</E
+M>immunitaria</E
+M>di fase acuta</E
+M>miotonica</E
+M>miastenica</E
+M>degenerativa</E
+M>esogena</E
+M>psicogena</E
+M>risposta</E
+M>motorie</E
+M>sensoriali</E
+M>tempo di r</E
+M>del terreno</E
+M>etnica</E

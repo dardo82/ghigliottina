@@ -1,0 +1,56 @@
+obbligare.txt
+"obbligare"
+"obbligare"
+"obbligare a comportarsi in un certo modo"
+"obbligare qn a fare qc"
+#* ''nessuno ti '''obbliga''' a rimanere''
+#* ''quel ragazzo non lo può 
+*[[impegnare]], [[vincolare]]
+*[[costringere]], [[forzare]], [[imporre]]
+*[[disimpegnare]], [[svincolare]], [[esonerare]], [[dispensare]]
+*[[disobbligare]]
+*[[obbligarsi]] 
+M>obligare</E
+M>ligare</E
+M>io òbbligo</E
+M>tu òbblighi</E
+M>io òbligo</E
+M>la legge obbligava i cittadini maschi al servizio militare</E
+M>il contratto che abbiamo sottoscritto ci obbliga tutti e tre alla stessa prestazione</E
+M>il testimone è obbligato dal giuramento a dire tutta la verità</E
+M>la legge obbliga tutti i cittadini</E
+M>obbligarsi a un patto</E
+M>con un patto</E
+M>obbligarsi con giuramento</E
+M>mi obbligo a restituire il libro entro quindici giorni</E
+M>obbligarsi come mallevadore</E
+M>obbligarsi per un altro</E
+M>in nome e per conto di terzi</E
+M>obbligarsi in solido</E
+M>in solidum</E
+M>se un fatto dannoso è imputabile a più persone</E
+M>tutte sono obbligate in solido al risarcimento</E
+M>costringere</E
+M>fu obbligato a dimettersi per lo scandalo</E
+M>non si possono o</E
+M>gli altri a fare e a pensare a modo nostro</E
+M>come pretendi di obbligarlo a rivelare un segreto?</E
+M>da un esame spassionato dei fatti sono stato obbligato a concludere che abbiamo torto noi</E
+M>una noiosa indisposizione l’obbliga a letto</E
+M>è obbligato a letto</E
+M>dandoti un consiglio</E
+M>non intendo obbligarti a seguirlo</E
+M>la coscienza mi obbliga a dirti la verità</E
+M>nessuno ti obbliga al silenzio</E
+M>cento volte mi hanno voluto obbligare a bere qualche cosa</E
+M>o a mangiare</E
+M>e non ho mai voluto farlo</E
+M>obliger</E
+M>tentava di obbligarmi con continui regali</E
+M>ha delle maniere che obbligano</E
+M>non voglio obbligarmi con</E
+M>verso</E
+M>nessuno</E
+M>rivolgendoci a lui ci obbligheremo</E
+M>ha obbligato con ipoteca il podere</E
+M>io t’obligo la mia fede</E

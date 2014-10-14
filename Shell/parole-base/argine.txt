@@ -1,0 +1,28 @@
+argine.txt
+"argine"
+"argine"
+"argine del fiume"
+"argine, fossato"
+"argine, terrapieno"
+"porre un argine"
+#* ''l''''argine''' del fiume ha retto bene''
+#* ''mettere un '''argine''' alla piaga del [[colera]]''
+M>arger -</E
+M>ris</E
+M>agger -</E
+M>ris</E
+M>in froldo</E
+M>maestro</E
+M>in golena</E
+M>trasversali</E
+M>repellenti</E
+M>pennelli</E
+M>un valido a</E
+M>contro le malattie</E
+M>fare a</E
+M>all’impeto della folla</E
+M>mettere un a</E
+M>al dilagare della corruzione</E
+M>aveva saputo misurare la forza del proprio errore</E
+M>senza potervi opporre un a</E
+M>rompere ogni a</E

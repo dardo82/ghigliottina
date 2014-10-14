@@ -1,0 +1,27 @@
+rimorchio.txt
+"a rimorchio"
+"andare a rimorchio di qn"
+"camion con rimorchio"
+"cavo da rimorchio"
+"cavo di rimorchio"
+"del rimorchio del trattore"
+"gancio per rimorchio"
+"rimorchio"
+"rimorchio"
+"rimorchio del trattore"
+M>lunghezza del r</E
+M>fanali di r</E
+M>fanale di r</E
+M>arco di r</E
+M>prendere a rimorchio</E
+M>andare</E
+M>essere a r</E
+M>per trasporto di cose</E
+M>di persone</E
+M>di cose e persone</E
+M>agricoli</E
+M>autotreno</E
+M>motrice con r</E
+M>il r</E
+M>sbandò e si mise di fianco per la strada</E
+M>rimorchietto portabagagli</E

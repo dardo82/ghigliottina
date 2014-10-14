@@ -1,0 +1,300 @@
+mare.txt
+"acqua di mare"
+"alto mare"
+"alto mare"
+"andare a scopare il mare"
+"aria di mare"
+"attraversare il mare"
+"attraverso il mare"
+"attraverso il mare"
+"avere il mal di mare"
+"beccaccia di mare"
+"blu mare"
+"braccio di mare"
+"casa al mare"
+"Cercare per mare e per terra"
+"che ha mal di mare"
+"città sul mare in Sardegna"
+"d'alto mare"
+"d'alto mare"
+"del mare"
+"diavolo di mare (manta)"
+"flusso e riflusso (mare)"
+"frutti di mare"
+"gallinella di mare"
+"gente di mare"
+"il mare"
+"il mare profondo"
+"il naufragar m'è dolce in questo mare"
+"immersioni in alto mare"
+"in alto mare"
+"in mare"
+"in mare aperto"
+"in un mare di lacrime"
+"insalata di mare"
+"inviare per via mare"
+"linea d'orizzonte sul mare"
+"livello del mare"
+"livello medio del mare"
+"lumaca di mare"
+"lupo di mare"
+"mal di mare"
+"mare"
+"mare"
+"mare"
+"mare"
+"mare"
+"mare"
+"mare agitato"
+"mare agitato, mare grosso"
+"mare aperto"
+"mare burrascoso, mare grosso"
+"Mare del Nord"
+"mare grosso"
+"mare in burrasca, mare in tempesta"
+"mare interno"
+"mare mediterraneo"
+"mare mosso"
+"mare nostro"
+"mare nostrum"
+"mare poco profondo"
+"metri sopra il livello del mare"
+"metri sul livello del mare (m.s.l.m.)"
+"mettersi in mare, salpare"
+"moda mare"
+"nel mare"
+"nel mare aperto"
+"orecchia di mare"
+"per mare"
+"pesce di mare"
+"platessa, passera di mare"
+"prendere il mare"
+"pressione atmosferica sul livello del mare"
+"riccio di mare"
+"riva del mare"
+"sabbia di mare"
+"schiuma del mare"
+"scorrere sul mare"
+"sepoltura in mare"
+"serpente di mare"
+"sicuro per stare in mare"
+"specchio di mare"
+"spirito del mare"
+"stella di mare"
+"sul livello del mare"
+"telo mare"
+"tra il dire e il fare c'è di mezzo il mare"
+"trivellazione in mare aperto"
+"trota di mare"
+"un mare di"
+"un mare di"
+"una goccia nel mare"
+"una goccia nel mare"
+"una goccia nel mare"
+"verde mare"
+"verde mare"
+"verso il mare"
+"via mare"
+"viaggio per mare"
+"viaggio per mare"
+#* ''ho un 
+* [[terra]]
+* [[lungomare]], [[ammaraggio]], [[ammarare]],  [[marea]],  [[mareale]],  [[mareggiata]],  [[maremoto]],  [[maremotrice]],  [[maretta]],  [[marina]],  [[marinaio]], [[marinara]],  [[marino]],  [[marittimo]],  [[maroso]],  [[sottomarino]]
+* [[baia]],  [[costa]],  [[fondale]],  [[isola]],  [[naufragare]],  [[nave]],  [[navigare]],  [[oceano]],  [[onda]],  [[rotta]],  [[scoglio]],  [[spiaggia]],  [[tsunami]]
+* ''andare per '''mari''' e monti'' 
+* ''promettere '''mari''' e monti'' 
+* ''
+* ''attenzione a fare il bagno, oggi c'è 
+* ''prendere il 
+* ''quando c'è vento forte è meglio non prendere il 
+* ''col fuoco, con la  donna  e con il 
+*''vento fresco 
+*italiano
+*francese
+*latino
+M>mare</E
+M>terra</E
+M>cielo</E
+M>la montagna si leva a mille metri sul livello del m</E
+M>solcare le ampie distese del m</E
+M>animali che abitano negli abissi</E
+M>nelle profondità del m</E
+M>all’orizzonte</E
+M>l’azzurro del m</E
+M>si confonde con quello del cielo</E
+M>aria</E
+M>vento</E
+M>brezza di m</E
+M>le onde</E
+M>il fragore</E
+M>il muggito del m</E
+M>Infin che ’l mar fu sovra noi richiuso</E
+M>noi siamo come il m</E
+M>che riceve acqua da tutte le parti</E
+M>e la torna a distribuire a tutti i fiumi</E
+M>nuotare</E
+M> tuffarsi nel m</E
+M>caldi</E
+M>temperati</E
+M>polari</E
+M>un braccio di m</E
+M>le insenature del m</E
+M>sulla riva del m</E
+M>alto m</E
+M>le regioni di là dal m</E
+M>oltre m</E
+M>una villa sul m</E
+M>andare al m</E
+M>al m</E
+M>a m</E
+M>Francavilla al M</E
+M>Castellammare</E
+M>mettersi in m</E
+M>andare per m</E
+M>E messi in un vasel</E
+M>ch’ad ogni vento Per mare andasse</E
+M>viaggio di m</E
+M>spedire via m</E
+M>correre il m</E
+M>rompere in m</E
+M>porto di m</E
+M>mal di m</E
+M>gente di m</E
+M>un lupo di m</E
+M>consoli</E
+M>consolato del m</E
+M>forze di m</E
+M>dominio dei m</E
+M>libertà dei mari</E
+M>sposalizio del m</E
+M>calmo</E
+M>mosso</E
+M>agitato</E
+M>in bonaccia</E
+M>d’olio</E
+M>liscio come l’olio</E
+M>come una tavola</E
+M>in burrasca</E
+M>in tempesta</E
+M> feci colazione sul terrazzo</E
+M> davanti a un m. che tremava di vento</E
+M>vivo</E
+M>di vento</E
+M>lungo</E
+M>morto</E
+M>vecchio</E
+M>a montoni</E
+M>a pecorelle</E
+M>stato del m</E
+M>calmo</E
+M>quasi calmo</E
+M>poco mosso</E
+M>mosso</E
+M>molto mosso</E
+M>agitato</E
+M>molto agitato</E
+M>grosso</E
+M>molto grosso</E
+M>tempestoso</E
+M>calmo</E
+M>agitato</E
+M>mare forza</E
+M>mare</E
+M>non siamo usciti con il motoscafo perché c’era un po’ di m</E
+M>incontrare mare</E
+M>tenere</E
+M>reggere il m</E
+M>al mascone</E
+M>al traverso</E
+M>al giardinetto</E
+M>prendere il m</E
+M>al mascone</E
+M>infido</E
+M>mutevole come il mare</E
+M>pesce di m</E
+M>pesce di lago</E
+M>di fiume</E
+M>pescoso</E
+M>frutti di m</E
+M>sale di m</E
+M>marino</E
+M>rondine di m</E
+M>schiuma di m</E
+M>le divinità del m</E
+M>i mostri del mare</E
+M>mari</E
+M>mar</E
+M>Mar dei Caraibi</E
+M>Mar delle Antille</E
+M>Mar Giallo</E
+M>mar Mediterraneo</E
+M>mare Adriatico</E
+M>mar Tirreno</E
+M>mare</E
+M>l’Adriatico</E
+M>il Tirreno</E
+M>marginali</E
+M>periferici</E
+M>interni</E
+M>continentali</E
+M>intercontinentali</E
+M>mediterranei</E
+M>mare</E
+M>Mare Arabico</E
+M>chiusi</E
+M>Mar Caspio</E
+M>Mar Morto</E
+M>i sette m</E
+M>territoriale</E
+M>litorale</E
+M>costiero</E
+M>interni</E
+M>libero</E
+M>alto m</E
+M>Mare di latte</E
+M>Mari di pietre</E
+M>fiumi di pietra</E
+M>pietraie semoventi</E
+M>Mari lunari</E
+M>Mare sporco</E
+M>un m. di sangue</E
+M>un m</E
+M>di sabbia</E
+M>un m</E
+M>d’inchiostro</E
+M>un m</E
+M>di gente</E
+M>loda il m</E
+M>e tienti alla terra</E
+M>l’acqua va al m</E
+M>portare acqua al m</E
+M>una goccia nel m</E
+M>promettere mari e monti</E
+M>cercare per m</E
+M>e per terra</E
+M>gettare a m</E
+M>è un porto di m</E
+M>è un m</E
+M>senza fondo</E
+M>porto</E
+M>si muovono a diversi porti Per lo gran mar de l’essere</E
+M>essere in alto m</E
+M>Stella del m</E
+M>maris stella</E
+M>Di questo tempestoso mare stella</E
+M>Ell’è quel m</E
+M>al qual tutto si move</E
+M>E io mi volsi al mar di tutto ’l senno</E
+M>trovarsi in un m</E
+M>di guai</E
+M>sommergersi nel m</E
+M>dell’oblio</E
+M>sprofondare in un m</E
+M>di tristezza</E
+M> di dolcezza</E
+M>essere avvolto da un m</E
+M>di dubbî</E
+M>mare magno</E
+M>mare magnum</E
+M>Nel mare magno della capitale</E
+M>Ove si cala e s’agita e ribolle Ogni fiumana e del bene e del male</E

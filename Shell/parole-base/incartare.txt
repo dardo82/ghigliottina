@@ -1,0 +1,21 @@
+incartare.txt
+"incartare"
+"incartare, replace: incartarsi"
+"incartare, replace: incartarsi"
+"incartare, avvolgere in carta da regalo"
+M>per favore</E
+M>m’incarti tutto</E
+M>il tramezzino glielo incarto o lo mangia qui?</E
+M>la biancheria stirata con ferro troppo caldo s’incarta</E
+M>avere</E
+M>i bozzoli hanno incartato bene</E
+M>male</E
+M>stavo cambiando la disposizione dei libri</E
+M>ma mi sono incartata e ora non so più cosa fare</E
+M>ha cominciato a parlare</E
+M> ma all’improvviso s’è incartato in una frase difficile e si è bloccato</E
+M>merce incartata</E
+M>incartata bene</E
+M>male</E
+M>alla peggio</E
+M>biancheria incartata</E

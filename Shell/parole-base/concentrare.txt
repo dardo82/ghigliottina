@@ -1,0 +1,26 @@
+concentrare.txt
+"concentrare"
+"concentrare"
+"concentrare l'attenzione su"
+"concentrare su"
+"concentrare su"
+"non concentrare tutte le proprie energie in una cosa sola"
+*[[raccogliere]]
+M>io concèntro</E
+M>il nemico concentrò le truppe nell’assalto alla fortezza</E
+M>il tiro</E
+M>sull’obiettivo</E
+M>i raggi del sole con una lente sulla testa di un fiammifero</E
+M>la gente si concentrò nella piazza</E
+M>le proprie forze</E
+M>i proprî sforzi in un’impresa</E
+M>le idee</E
+M>i pensieri</E
+M>concentrarsi nello studio</E
+M>nel lavoro</E
+M>concentrarsi in un pensiero</E
+M>in un’idea</E
+M>nella preghiera</E
+M>nella meditazione</E
+M>cerca di concentrarti</E
+M>non riesco a concentrarmi</E

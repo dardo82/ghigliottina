@@ -1,0 +1,14 @@
+cesta.txt
+"cesta"
+"cesta"
+"cesta di frutta"
+*[[cesto]], [[canestro]], [[paniere]]
+M>sta</E
+M>abbiamo mangiato una c</E
+M>di fichi</E
+M>a ceste</E
+M>quest’anno si coglieranno ciliege a ceste</E
+M>essere in c</E
+M>andare in cesta</E
+M>cesta</E
+M>cesto</E

@@ -1,0 +1,6 @@
+concetto.txt
+"concetto"
+"concetto"
+"concetto teorico"
+"il concetto principale"
+*[[idea]]

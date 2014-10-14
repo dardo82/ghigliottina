@@ -1,0 +1,62 @@
+ballare.txt
+"ballare"
+"ballare"
+"ballare"
+"ballare"
+"ballare eroticamente"
+"ballare eroticamente"
+"ballare il foxtrot"
+"ballare il tip tap"
+"ballare il tip tap"
+"ballare il valzer"
+"ballare la break dance"
+"ballare la giga"
+"ballare lo shag"
+#* ''questo vestito mi balla addosso''
+#* ''ballare un lento''
+* [[danzare]]
+* [[saltare]], [[saltellare]], [[piroettare]], [[ballonzolare]], [[far quattro salti]], [[agitarsi]], [[dimenarsi]], [[sgambettare]], [[dondolarsi]]
+* [[oscillare]], [[traballare]], [[sobbalzare]], [[essere sballottato]]
+* [[essere largo]]
+* [[essere stabile]], [[essere fisso]]
+* [[stringere]], [[essere stretto]]
+* [[balletto]], [[ballonzolo]], [[ballata]], [[ballerino]], [[ballabile]], [[ballatoio]], [[traballare]]
+M>ballare</E
+M>avere</E
+M>bene</E
+M>male</E
+M>a tempo</E
+M>fuori tempo</E
+M>andare a b</E
+M>sapere</E
+M>non saper b</E
+M>come un orso</E
+M>un tango</E
+M>un valzer</E
+M>il rock and roll</E
+M>ora si balla!</E
+M>dalla gioia</E
+M>dalla contentezza</E
+M>quando manca la gatta</E
+M>quando la gatta non è in paese</E
+M>i topi ballano</E
+M>si mise a b</E
+M>per l’impazienza</E
+M>ballava sulla seggiola</E
+M>far b</E
+M>qualcuno</E
+M>è un direttore che fa b</E
+M>i proprî dipendenti</E
+M>se fosse qui tuo padre</E
+M>vedresti come ti farebbe b</E
+M>questo tavolino balla perché ha una gamba più corta</E
+M>la casa ballava come se ci fosse il terremoto</E
+M>abbiamo ballato molto durante la traversata</E
+M>far b</E
+M>fece b</E
+M>i soldi nella mano</E
+M>far b</E
+M>i quattrini</E
+M>i vestiti</E
+M>le scarpe gli ballano addosso</E
+M>si vedevano quelle povere braccia ballar nelle maniche</E

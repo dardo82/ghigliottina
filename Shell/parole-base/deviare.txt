@@ -1,0 +1,41 @@
+deviare.txt
+"deviare"
+"deviare"
+"deviare"
+"deviare"
+"deviare a destra"
+"deviare da"
+"deviare da"
+"deviare, allontanarsi"
+"deviare, spostare, sviare, dirottare"
+"sviare, deviare"
+*[[svoltare]]
+M>deviare</E
+M>via</E
+M>io devìo</E
+M>avere</E
+M>dalla strada maestra per un viottolo di campagna</E
+M>dalla rotta prestabilita</E
+M>deragliare</E
+M>urtando in un sasso</E
+M>la palla ha deviato verso destra</E
+M>dalla retta via</E
+M>dalle norme</E
+M>dalla consuetudine</E
+M>dalle linee direttive del proprio partito</E
+M>dall’argomento principale</E
+M>tienti al fatto e non d</E
+M>continuamente</E
+M>un treno</E
+M>un tram</E
+M>il traffico</E
+M>un fiume</E
+M>un torrente</E
+M>una corrente</E
+M>in corner</E
+M>in angolo</E
+M>il pallone con un colpo di testa</E
+M>in rete</E
+M>qualcuno dalla via del bene</E
+M>il discorso</E
+M>sviare</E

@@ -1,0 +1,75 @@
+visitare.txt
+"invitare a visitare"
+"viaggiare; visitare"
+"visitare"
+"visitare"
+"visitare"
+"visitare i luoghi d'interesse"
+"visitare i quartieri poveri"
+"visitare luoghi"
+"visitare presso"
+* (una persona) fare visita, andare a trovare
+*(un luogo) [[vedere]], [[recarsi]], [[viaggiare]], [[percorrere]], [[conoscere]]
+*(un paziente, un malato) [[esaminare]], [[controllare]]
+* [[visitatore]]
+M>visitare</E
+M>vis</E
+M>videre</E
+M>visus</E
+M>io vì</E
+M>ito</E
+M>v. un amico</E
+M>una famiglia di conoscenti</E
+M>un parente</E
+M>sono stato a v. una cara amica</E
+M>oggi verrò a visitarti</E
+M>viene spesso a visitarci</E
+M>domani andrò a v. mio zio</E
+M>far visita a qualcuno</E
+M>andare a v. un amico ricoverato in ospedale</E
+M>ha chiesto l’autorizzazione di v. il marito in carcere</E
+M>v. gli infermi</E
+M>v. i carcerati</E
+M>O animal grazïoso e benigno Che visitando vai per l’aere perso Noi che tignemmo il mondo di sanguigno</E
+M>e infino che questo avvenga non vi sia grave visitarmi con lettere</E
+M>non si sente bene</E
+M> e ha chiamato il dottore per farsi v.</E
+M>il primario visita ogni mattina tutti i degenti del suo reparto</E
+M>ogni tanto vado a farmi v.</E
+M> per controllo</E
+M>deve andare a farsi v. dal medico fiscale</E
+M>il dottore visita tutti i giorni feriali</E
+M> dalle 16 alle 20</E
+M>oggi il pediatra non visita</E
+M>uno specialista che visita solo in ospedale</E
+M>in ambulatorio</E
+M>solo su appuntamento</E
+M>credo mi sarebbe venuto fatto</E
+M> se Idio non m’avesse così visitato</E
+M>poverette!</E
+M>disse:</E
+M>Dio vi ha visitate</E
+M>Povera Lucia!</E
+M>v. un paese straniero</E
+M>una zona</E
+M>una città</E
+M>v. un museo</E
+M>una galleria d’arte</E
+M>v. la fiera di Milano</E
+M>il presidente del Consiglio ha visitato il cantiere dell’alta velocità</E
+M>il provveditore agli studî visiterà domani la nuova scuola</E
+M>il vescovo visiterà tutte le parrocchie della diocesi a cominciare da domenica prossima</E
+M>v. il Santo Sepolcro</E
+M>la Terrasanta</E
+M>il santuario di Lourdes</E
+M>nel medioevo</E
+M> visitando quella chiesa si lucrava un’indulgenza</E
+M>v. un’opera</E
+M>un autore</E
+M>v. le biblioteche</E
+M>è conservata più caramente che gli altri componimenti in versi</E
+M> come consta a quelli che visitano i libri</E
+M>i doganieri ci hanno visitato il bagaglio</E
+M>merce visitata e accettata</E
+M>visitata e gradita</E
+M>pesata e visitata</E

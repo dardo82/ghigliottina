@@ -1,0 +1,4 @@
+cardellino.txt
+"cardellino"
+M>cardello</E
+M>Carduelis carduelis</E

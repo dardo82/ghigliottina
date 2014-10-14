@@ -1,0 +1,76 @@
+delicato.txt
+"argomento delicato"
+"colore delicato, colore tenue"
+"delicato"
+"delicato"
+"delicato"
+"delicato"
+"delicato"
+"passaggio delicato"
+#*'' un [[fazzoletto]] 
+#*''è in una situazione delicata''
+*[[leggero]], [[morbido]], [[tenue]], [[soffice]], [[soave]]
+*(di cibo) [[squisito]], [[gustoso]]
+*(di persona, modo di fare) [[fine]], [[leggiadro]], [[aggraziato]], [[gentile]], [[cortese]], [[riguardoso]], [[garbato]]
+*[[fine]],  [[lieve]], [[tenero]]
+*[[indelicato]]
+*(di persona, modo di fare) [[rozzo]], [[grossolano]], [[scortese]], [[sgarbato]]
+*[[ruvido]] 
+*[[delicatamente]]
+M>delicatus</E
+M>deliciae</E
+M>ruvido</E
+M>aspro</E
+M>rozzo</E
+M>grossolano</E
+M>chiassoso</E
+M>forte</E
+M>stoffa</E
+M>pelle</E
+M>carnagione d</E
+M>forme d</E
+M>lineamenti d</E
+M>mani d</E
+M>tinte d</E
+M>cibi d</E
+M>profumo d</E
+M>quest’orologio ha un meccanismo assai d</E
+M>sono colori d</E
+M>che sbiadiscono facilmente</E
+M>è un bambino molto d</E
+M>sì come noi nelle dilicate donne veggiamo</E
+M>salute</E
+M>costituzione d</E
+M>stomaco d</E
+M>nel mangiare</E
+M>nervi d</E
+M>pelle d</E
+M>avere la pelle d</E
+M>essere d</E
+M>di pelle</E
+M>tra le lusinghe d’una società d</E
+M>e corrotta</E
+M>persona d</E
+M>di animo d</E
+M>gesto d</E
+M>pensiero d</E
+M>orecchio d</E
+M>gusto d</E
+M>mano d</E
+M>il poeta fiorentino</E
+M>che sempre è stato di sua natura dilicato</E
+M>e piuttosto collerico che no</E
+M>l’onore è una cosa molto d</E
+M>è una questione d</E
+M>un tasto d</E
+M>trovarsi in una posizione</E
+M>in una situazione d</E
+M>un momento d</E
+M>un disegno delicatissimo</E
+M>che sembra un ricamo</E
+M>Un’isoletta delicata e molle</E
+M>Culte pianure e delicati colli</E
+M>fiore delicatamente profumato</E
+M>colori delicatamente sfumati</E
+M>posare delicatamente un oggetto fragile</E
+M>si è comportato poco delicatamente nei suoi confronti</E

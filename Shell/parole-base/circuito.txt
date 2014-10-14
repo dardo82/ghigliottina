@@ -1,0 +1,92 @@
+circuito.txt
+"a circuito aperto"
+"a circuito aperto"
+"a circuito chiuso"
+"a circuito chiuso"
+"analisi del circuito"
+"circuito"
+"circuito"
+"circuito"
+"circuito"
+"circuito"
+"circuito a ponte"
+"circuito chiuso"
+"circuito completo"
+"circuito derivato"
+"circuito di amplificazione"
+"circuito elettrico"
+"circuito elettronico"
+"circuito equivalente"
+"circuito feedback"
+"circuito giudiziario"
+"circuito integrato"
+"circuito logico"
+"circuito magnetico"
+"circuito OR"
+"circuito ritardante"
+"circuito specializzato"
+"circuito stampato"
+"circuito veno-arterio-cardio-polmonare"
+"corto circuito"
+"relativo al corto circuito"
+"tv a circuito chiuso"
+*''(geometria)'' [[circonferenza]], [[perimetro]], [[cerchio]],  [[confine]], [[recinto]], [[cinta]]
+*''(per gare)'' [[giro]], [[pista]],[[percorso]], [[tracciato]];
+*''(di automobilismo, motociclismo, ciclismo)'' [[gara]], [[corsa]]
+*spazio aperto
+M>circu</E
+M>tus</E
+M>circuire</E
+M>il territorio del comune ha un c</E
+M>di quasi 40 km</E
+M>la città è compresa entro un c</E
+M>di otto miglia</E
+M>in circuito</E
+M>in c</E
+M>tutto quanto L’aere si volge</E
+M>il più del tempo nel piccolo c</E
+M>delle loro camere racchiuse dimorano</E
+M>arsono tutte le case de’ calonaci</E
+M>e tutta la chiesa e circuito</E
+M>mille strane maniere e lunghi c</E
+M>di parole affettate</E
+M>delle Tre valli varesine</E
+M>di Pescara</E
+M>aperto</E
+M>chiuso</E
+M>aeroportuale</E
+M>aeroportuale al suolo</E
+M>aeroportuale in volo</E
+M>d’attesa</E
+M>di traffico</E
+M>chiuso</E
+M>aperto</E
+M>elettrico</E
+M>di una corrente elettrica</E
+M>chiuso</E
+M>aperto</E
+M>elettrico</E
+M>aprire</E
+M>chiudere un c</E
+M>elettronico</E
+M>indotto</E
+M>induttore</E
+M>inducente</E
+M>oscillante</E
+M>risonante</E
+M>stampato</E
+M>magnetico</E
+M>integrato</E
+M>logico</E
+M>ottico</E
+M>guida di luce a fibra ottica</E
+M>commerciale</E
+M>distributivo</E
+M>monetario</E
+M>mondiale</E
+M>continentale</E
+M>regionale</E
+M>nazionale</E
+M>di capitali</E
+M>del credito</E
+M>oceanici</E

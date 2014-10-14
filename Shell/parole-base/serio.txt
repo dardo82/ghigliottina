@@ -1,0 +1,90 @@
+serio.txt
+"davvero; sul serio"
+"detto con tono serio"
+"fare sul serio"
+"get serious"
+"prendere sul serio"
+"take sb seriously, take sth seriously"
+"serio"
+"austere, composed, serious"
+"serio"
+"serious, worrisome"
+"serio"
+"serio"
+"serious"
+"sul serio"
+"sul serio?"
+"seriously?, really?"
+*[[grave]], [[profondo]], [[autorevole]], [[responsabile]], [[affidabile]], [[coscienzioso]], [[posato]], [[riflessivo]], [[sostenuto]], [[compunto]], [[compassato]], [[contegnoso]], [[ponderato]]
+*[[severo]], [[accigliato]], [[preoccupato]], [[pensieroso]], [[triste]], [[cupo]]
+* (di persona, comportamento) [[onesto]], [[morale]], [[corretto]], [[retto]], [[virtuoso]], [[sobrio]], [[costumato]], [[casto]], [[continente]], [[morigerato]], [[temperante]]
+*[[vero]], [[sincero]]
+*(di situazione, evento) [[importante]], [[impegnativo]], [[difficile]], [[difficoltoso]], [[preoccupante]], [[pericoloso]], [[rischioso]], [[arduo]], [[spinoso]]
+*[[composto]], [[assorto]]
+*[[leggero]], [[superficiale]], [[frivolo]], [[irresponsabile]], [[inaffidabile]], [[incosciente]], [[irriflessivo]]
+*[[contento]], [[allegro]], [[gioioso]], [[lieto]], [[gaio]], [[ilare]]
+*(di opera) [[scherzoso]], [[buffo]], [[giocoso]]
+*(di persona, comportamento) [[disonesto]], [[immorale]], [[corrotto]], [[scorretto]], [[vizioso]], [[spudorato]], [[scostumato]], [[intemperante]]
+* [[falso]]
+* (di situazione, evento) [[facile]], [[semplice]], [[sicuro]], [[rassicurante]], [[innocuo]]
+*[[seriamente]], [[serioso]]
+*''sul serio''  
+*[[naprawdę]], [[szczerze]], [[poważnie]], [[bez żartów]]
+*italiano
+*polacco
+*spagnolo
+M>serius</E
+M>essere</E
+M>stare s.</E
+M>come mai ve ne state lì serî serî?</E
+M>diventare</E
+M>farsi s.</E
+M>ha un&#8217;aria s.</E
+M>gli rispose con un tono s.</E
+M>faccia s.</E
+M>viso s.</E
+M>La bambina mi guardava studiandomi con gli occhi s.</E
+M>opera s.</E
+M>buffa.</E
+M>è un uomo s. di cui ti puoi fidare</E
+M>è un giovane s.</E
+M> benvoluto da tutti</E
+M>una ditta s.</E
+M> che dà affidamento</E
+M>conduce una vita s.</E
+M>avere modi s.</E
+M>un comportamento s.</E
+M>è un uomo poco s.</E
+M>non devi frequentarlo</E
+M>riconosco che tua figlia è veramente una ragazza seria</E
+M>studî s.</E
+M>finalmente s&#8217;è scelto un&#8217;occupazione s.</E
+M>mi pare che quel ragazzo abbia s. propositi</E
+M>ho avuto una proposta di lavoro molto s.</E
+M>il matrimonio è una cosa seria</E
+M>affetto s.</E
+M>sentimento s.</E
+M>è un problema s.</E
+M>la situazione si fa più s. di ora in ora</E
+M>non ti nascondo che vai incontro a s. difficoltà</E
+M>è una malattia s.</E
+M>non va presa con leggerezza!</E
+M>è un pericolo s.</E
+M>sono cose serie!</E
+M>parlare</E
+M>dire una cosa tra il s. e il faceto</E
+M>il s. di tutta questa storia è che io ci ho rimesso una bella somma!</E
+M>sul s.</E
+M>parlare</E
+M>fare sul s.</E
+M>prendere sul s. una cosa</E
+M>una persona</E
+M>ha minacciato di andarsene e temo che se ne vada sul s.!</E
+M>&#171;Chi ha fatto questo disegno?&#187; &#8211; &#171;Io&#187;</E
+M>&#171;Sul s.?&#187;</E
+M>&#171;Sul s.!&#187;</E
+M>parlare</E
+M>rispondere seriamente</E
+M>pensaci seriamente!</E
+M>essere seriamente ammalato</E
+M>la situazione è seriamente compromessa</E

@@ -1,0 +1,32 @@
+assediare.txt
+"assediare"
+"assediare"
+*[[accerchiare]]
+*[[asediatore]]
+M>assediare</E
+M>obsidere</E
+M>io assèdio</E
+M>un castello</E
+M>una città</E
+M>una fortezza</E
+M>essere assediati dalle acque</E
+M>dalla neve</E
+M>Renzo</E
+M>che</E
+M>teneva il padrone stesso assediato in una stanza</E
+M>ha tutta l’apparenza d’un oppressore</E
+M>il popolo tumultuante assediava le prigioni</E
+M>i giornalisti assediarono il ministro</E
+M>gli ammiratori assediarono l’attrice all’uscita dal teatro</E
+M>la porta avversaria</E
+M>con domande</E
+M>con proposte</E
+M>con profferte d’amore</E
+M>essere assediato da una folla di ricordi</E
+M>di rimorsi</E
+M>per contrapporre all’immagine del frate che gli assediava la fantasia</E
+M>immagini in tutto diverse</E
+M>le truppe assedianti</E
+M>gli assedianti furono respinti</E
+M>soccorrere la città assediata</E
+M>gli assediati aspettavano rinforzi</E

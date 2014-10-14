@@ -1,0 +1,269 @@
+ora.txt
+"a che ora"
+"a che ora"
+"a che ora combiniamo?"
+"a che ora?"
+"a che ora...?"
+"a qualsiasi ora"
+"a quest'ora"
+"a quest'ora del giorno"
+"adesso - ora - mo'"
+"aggiornato, continuo, ora per ora"
+"cambio dell'ora"
+"che accade ogni mezz'ora"
+"che dura un'ora"
+"d'ora in poi"
+"d'ora innanzi"
+"d'ora innanzi, in seguito"
+"da ora"
+"da ora"
+"da ora in poi"
+"da ora in poi"
+"dell'ora di punta"
+"della prima ora"
+"di ora in ora"
+"dormire sino a tarda ora"
+"è ora che tu lo faccia"
+"era ora!"
+"far vedere i sorci verdi a qcn; far passare un brutto quarto d'ora a qcn."
+"fino ad ora"
+"fino ad ora"
+"fino ad ora"
+"fino ad ora"
+"fiore di un'ora"
+"fissare l'ora"
+"happy hour; ora dell'aperitivo"
+"l'ora attuale"
+"l'ora delle streghe"
+"la tua ora"
+"mai come ora"
+"meno di un'ora"
+"mezz'ora"
+"mezz'ora"
+"mezz'ora dopo le (ora)"
+"mezz'ora dopo le (ora)"
+"miglia all'ora"
+"miglia per ora"
+"non vedere l'ora"
+"non vedere l'ora"
+"non vedo l'ora"
+"non vedo l'ora di vederti"
+"non vedo l'ora di vederti"
+"notizie importanti, notizie fresche, notizie dell'ultim'ora, novità"
+"ogni ora"
+"ogni ora"
+"ora"
+"ora"
+"ora"
+"ora"
+"ora"
+"ora"
+"ora"
+"ora"
+"ora"
+"ora"
+"ora Centrale"
+"USA: fuso orario"
+"ora che"
+"ora come non mai"
+"ora come ora"
+"ora del cocktail"
+"ora del Pacifico"
+"ora del pasto"
+"ora del pranzo"
+"ora del tè"
+"ora dell'Atlantico"
+"fuso orario"
+"Fuso orario di Porto Rico e delle Isole Vergini"
+"ora dell'attacco"
+"ora delle Hawaii"
+"ora di andare"
+"ora di andare a letto"
+"ora di andare in stampa"
+"ora di cena"
+"ora di cena"
+"ora di chiusura"
+"ora di chiusura obbligatoria dei negozi"
+"ora di colazione"
+"ora di coricarsi"
+"ora di Greenwich"
+"ora di pranzo"
+"ora di punta"
+"ora di religione"
+"Ora in cui agli studenti delle scuole pubbliche americane è permesso ricevere insegnamenti della loro religione."
+"ora di supplenza"
+"ora dopo ora"
+"ora dopo ora"
+"ora e per sempre"
+"ora lavorativa"
+"ora legale"
+"ora libera"
+"ora locale"
+"ora locale"
+"ora media di Greenwich, Greenwich Mean Time"
+"ora o mai più"
+"ora o mai più"
+#*'' da oggi è in vigore l'ora legale''
+*[[adesso]], in questo momento, [[attualmente]], [[oggi]], fra breve
+*[[dunque]], [[pertanto]], [[ebbene]], d'altra parte
+*[[momento]], [[occasione]], [[opportunità]], [[tempo]]
+*[[prima]], in passato, [[ieri]], [[domani]], in futuro
+*[[ormai]]
+* [[orario]],  [[orologio]]
+* ''(sostantivo)'' [[minuto]], [[secondo]]
+*''fino ad ora''
+*''fin da ora''
+*''or oroa''
+*''ora come ora''
+#* ''Sa është ora?'' = ''Che ore sono?''
+* [[agora]], [[já]]
+* italiano
+* albanese
+* alto tedesco antico
+* esperanto
+* kapingamarangi
+*latino
+* maori
+* portoghese
+*romeno
+*spagnolo
+* turco
+m>aura</e
+m>pur che l&rsquo;òra un poco Fior bianchi e gialli per le piagge mova</e
+m>Risonava la selva intorno intorno Soavemente all&rsquo;ora mattutina</e
+m>la fresca ora godendo</e
+m>Scherza con l&rsquo;ora incerta Di lauri un bosco</e
+"a che ora"
+"a che ora"
+"a che ora combiniamo?"
+"a che ora?"
+"a che ora...?"
+"a qualsiasi ora"
+"a quest'ora"
+"a quest'ora del giorno"
+"adesso - ora - mo'"
+"aggiornato, continuo, ora per ora"
+"cambio dell'ora"
+"che accade ogni mezz'ora"
+"che dura un'ora"
+"d'ora in poi"
+"d'ora innanzi"
+"d'ora innanzi, in seguito"
+"da ora"
+"da ora"
+"da ora in poi"
+"da ora in poi"
+"dell'ora di punta"
+"della prima ora"
+"di ora in ora"
+"dormire sino a tarda ora"
+"è ora che tu lo faccia"
+"era ora!"
+"far vedere i sorci verdi a qcn; far passare un brutto quarto d'ora a qcn."
+"fino ad ora"
+"fino ad ora"
+"fino ad ora"
+"fino ad ora"
+"fiore di un'ora"
+"fissare l'ora"
+"happy hour; ora dell'aperitivo"
+"l'ora attuale"
+"l'ora delle streghe"
+"la tua ora"
+"mai come ora"
+"meno di un'ora"
+"mezz'ora"
+"mezz'ora"
+"mezz'ora dopo le (ora)"
+"mezz'ora dopo le (ora)"
+"miglia all'ora"
+"miglia per ora"
+"non vedere l'ora"
+"non vedere l'ora"
+"non vedo l'ora"
+"non vedo l'ora di vederti"
+"non vedo l'ora di vederti"
+"notizie importanti, notizie fresche, notizie dell'ultim'ora, novità"
+"ogni ora"
+"ogni ora"
+"ora"
+"ora"
+"ora"
+"ora"
+"ora"
+"ora"
+"ora"
+"ora"
+"ora"
+"ora"
+"ora Centrale"
+"USA: fuso orario"
+"ora che"
+"ora come non mai"
+"ora come ora"
+"ora del cocktail"
+"ora del Pacifico"
+"ora del pasto"
+"ora del pranzo"
+"ora del tè"
+"ora dell'Atlantico"
+"fuso orario"
+"Fuso orario di Porto Rico e delle Isole Vergini"
+"ora dell'attacco"
+"ora delle Hawaii"
+"ora di andare"
+"ora di andare a letto"
+"ora di andare in stampa"
+"ora di cena"
+"ora di cena"
+"ora di chiusura"
+"ora di chiusura obbligatoria dei negozi"
+"ora di colazione"
+"ora di coricarsi"
+"ora di Greenwich"
+"ora di pranzo"
+"ora di punta"
+"ora di religione"
+"Ora in cui agli studenti delle scuole pubbliche americane è permesso ricevere insegnamenti della loro religione."
+"ora di supplenza"
+"ora dopo ora"
+"ora dopo ora"
+"ora e per sempre"
+"ora lavorativa"
+"ora legale"
+"ora libera"
+"ora locale"
+"ora locale"
+"ora media di Greenwich, Greenwich Mean Time"
+"ora o mai più"
+"ora o mai più"
+#*'' da oggi è in vigore l'ora legale''
+*[[adesso]], in questo momento, [[attualmente]], [[oggi]], fra breve
+*[[dunque]], [[pertanto]], [[ebbene]], d'altra parte
+*[[momento]], [[occasione]], [[opportunità]], [[tempo]]
+*[[prima]], in passato, [[ieri]], [[domani]], in futuro
+*[[ormai]]
+* [[orario]],  [[orologio]]
+* ''(sostantivo)'' [[minuto]], [[secondo]]
+*''fino ad ora''
+*''fin da ora''
+*''or oroa''
+*''ora come ora''
+#* ''Sa është ora?'' = ''Che ore sono?''
+* [[agora]], [[já]]
+* italiano
+* albanese
+* alto tedesco antico
+* esperanto
+* kapingamarangi
+*latino
+* maori
+* portoghese
+*romeno
+*spagnolo
+* turco
+m>aura</e
+m>pur che l&rsquo;òra un poco Fior bianchi e gialli per le piagge mova</e
+m>Risonava la selva intorno intorno Soavemente all&rsquo;ora mattutina</e
+m>la fresca ora godendo</e
+m>Scherza con l&rsquo;ora incerta Di lauri un bosco</e

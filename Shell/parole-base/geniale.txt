@@ -1,0 +1,27 @@
+geniale.txt
+"geniale"
+*''(di persona)''[[ingegnoso]], [[acuto]], [[di]] [[talento]], [[intuitivo]], [[pronto]], [[intelligente]], [[perspicace]], [[dotato]]
+* ''(di opera, invenzione ecc.)'' [[ingegnoso]], [[originale]]
+*''(di opera, invenzione ecc.)'' [[banale]], [[insignificante]], [[scialbo]],  [[scontato]]
+*''(di persona)'' [[stupido]], [[tonto]], [[tardo]], [[idiota]], [[mediocre]]  
+M>genialis</E
+M>genius</E
+M>letto g</E
+M>Bagna di pianto i g</E
+M>letti</E
+M>congeniale</E
+M>studî geniali</E
+M>persona</E
+M>aspetto g</E
+M>le g</E
+M>mense</E
+M>artista</E
+M>scrittore</E
+M>inventore g</E
+M>un libro</E
+M>una teoria g</E
+M>idea</E
+M>scoperta</E
+M>realizzazione</E
+M>trovata geniale</E
+M>realizzare genialmente un’invenzione</E

@@ -1,0 +1,57 @@
+insufficiente.txt
+"copertura insufficiente"
+"essere insufficiente"
+"flusso insufficiente"
+"insufficiente"
+"insufficiente"
+"insufficiente in"
+"insufficiente, scarso"
+"quantità insufficiente"
+#*''la scorta di viveri era insufficiente per attraversare il deserto''
+*[[poco]], [[scarso]], [[difettoso]], [[mancante]], [[manchevole]], [[carente]], [[incompleto]],[[incapace]], [[inesperto]], [[inabile]], [[inidoneo]], [[inadeguato]], [[inadatto]], [[inetto]], [[insoddisfacente]]
+*[[sufficiente]], [[adeguato]], [[abbondante]], [[eccedente]], [[bravo]], [[capace]], [[esperto]], [[abile]], [[adeguato]], [[adatto]]
+*[[insufficienza]], [[insufficientemente]]
+M>insufficiens</E
+M>entis</E
+M>sufficiens</E
+M>entis</E
+M>la razione di pane è</E
+M>viveri i</E
+M>per la popolazione</E
+M>paga</E
+M>compenso i</E
+M>le botti mi paiono i</E
+M>fondi</E
+M>riserve</E
+M>capitali i</E
+M>rimedio i</E
+M>spiegazioni</E
+M>argomenti</E
+M>scuse</E
+M>prove i</E
+M>avere i</E
+M>cognizioni di una data materia</E
+M>per</E
+M>il raccolto è i</E
+M>per il</E
+M>per coprire il</E
+M>fabbisogno nazionale</E
+M>il suo stipendio è i</E
+M>per mantenere una famiglia così numerosa</E
+M>le aule sono i</E
+M>a contenere tutta la scolaresca</E
+M>dare un voto i</E
+M>compito</E
+M>versione</E
+M>interrogazione i</E
+M>prendere i</E
+M>un’i</E
+M>nel tema d’italiano</E
+M>è i</E
+M>al proprio ufficio</E
+M>si è dimostrato i</E
+M>a un posto di tanta responsabilità</E
+M>essere insufficientemente ricompensato</E
+M>pagato</E
+M>i varî punti dell’argomento sono stati insufficientemente sviluppati</E
+M>un candidato insufficientemente preparato</E

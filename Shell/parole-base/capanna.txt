@@ -1,0 +1,32 @@
+capanna.txt
+"capanna"
+"capanna di paglia, capanna col tetto di paglia"
+"capanna di tronchi"
+"due cuori e una capanna"
+* [[ricovero]], [[capanno]], [[casupola]], [[baracca]], [[tugurio]], [[catapecchia]], [[abituro]], [[casotto]]
+*(di montagna) [[rifugio]], [[baita]]
+*[[villa]], [[reggia]], [[palazzo]]
+*''Pancia mia fatti '''capanna''''', frase scherzosa di chi [[intenzione|intende]] mangiare [[abbondantemente]] 
+*''Due cuori e una '''capanna''''', [[metafora]] che vede la [[contrapposizione]] dell'[[amore]] alle condizioni economiche
+*italiano
+*latino
+M>capanna</E
+M>i pastori abitano spesso nelle c</E
+M>con i loro greggi</E
+M>tetto a capanna</E
+M>gente che abita in povere capanne</E
+M>due cuori e una c</E
+M>pancia mia</E
+M>ventre mio</E
+M>fatti c</E
+M>capanno</E
+M>cabina</E
+M>dei cacciatori</E
+M>da carbonai</E
+M>Festa delle c</E
+M>festa dei tabernacoli</E
+M>capannina</E
+M>meteorologica</E
+M>fondo di c</E
+M>in loco</E
+M>cappa di quattro noci</E

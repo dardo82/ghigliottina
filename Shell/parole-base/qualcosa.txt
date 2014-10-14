@@ -1,0 +1,154 @@
+qualcosa.txt
+"(fare qualcosa) di nascosto"
+"(qualcosa) di caldissimo"
+"abbandono di qualcosa"
+"abbracciare qualcosa"
+"abituare qualcuno a qualcosa"
+"abusare di qualcosa"
+"accettare qualcosa"
+"affrontare qualcosa"
+"andare pazzo per qualcosa"
+"anelare a qualcosa"
+"appioppare qualcosa a qualcuno"
+"applicarsi su qualcosa"
+"appoggiarsi su qualcosa"
+"aprire gli occhi su qualcosa"
+"aprire la strada a qualcosa"
+"asciugare qualcosa"
+"aspettare qualcosa con calma"
+"aspettarsi di fare qualcosa"
+"attaccarsi a qualcosa"
+"attenersi a qualcosa"
+"attribuire a qualcuno qualcosa"
+"attribuire qualcosa a"
+"avere occhio per qualcosa"
+"avere qualcosa"
+"avere qualcosa da offrire"
+"avere voglia di fare qualcosa"
+"avvicinarsi a qualcosa"
+"avvisare qualcuno di qualcosa"
+"avvisare qualcuno di qualcosa"
+"avvolgere qualcosa con qualcosa"
+"badare a qualcosa"
+"buttarsi in qualcosa, lanciarsi in qualcosa"
+"buttarsi qualcosa dietro le spalle"
+"buttarsi su qualcosa o su qualcuno"
+"C'è qualcosa che non quadra"
+"cancellare qualcosa"
+"cantare le lodi di qualcosa"
+"capire qualcosa"
+"che ha paura di qualcosa"
+"che manca di qualcosa"
+"che va matto per qualcosa"
+"chiave di qualcosa"
+"chiedere a qualcuno di fare qualcosa"
+"chiedere qualcosa"
+"collocare qualcosa ad una certa distanza"
+"completare qualcosa"
+"conoscere qualcosa completamente"
+"consigliare a qualcuno di fare qualcosa"
+"contrario a qualcosa"
+"convincere qualcuno a fare qualcosa"
+"dare importanza a qualcosa"
+"dare in affitto qualcosa"
+"dare inizio a qualcosa; cominciare un nuovo lavoro"
+"dare la colpa di qualcosa a qualcuno"
+"dare prova di qualcosa"
+"dare una spinta a qualcosa, lanciare qualcosa"
+"darsi la pena di fare qualcosa"
+"dedicare qualcosa a"
+"desiderare qualcosa"
+"determinato a fare qualcosa"
+"dichiarare qualcosa nullo"
+"dirigere la propria attenzione su qualcosa"
+"distribuire qualcosa"
+"divulgare qualcosa"
+"documentarsi su qualcosa"
+"dotare di qualcosa"
+"dovere (qualcosa a qualcuno)"
+"dovere qualcosa a"
+"enfatizzare qualcosa"
+"esporre qualcosa a"
+"esporre qualcosa all'aria"
+"esserci quando qualcosa prende il via"
+"essere all'altezza di qualcosa"
+"essere orgoglioso di qualcosa"
+"essere qualcosa"
+"fa qualcosa!"
+"far capire qualcosa tra le righe"
+"far circolare qualcosa"
+"far dimenticare qualcosa"
+"far dimenticare qualcosa"
+"far girare qualcosa"
+"far luce su qualcosa"
+"far passare qualcosa sotto silenzio, tenere segreto qualcosa"
+"Farci caso\/Far caso a qualcosa"
+"fare a meno di qualcosa"
+"fare aprire a qualcuno gli occhi su qualcosa"
+"fare leva su qualcosa"
+"fare luce su qualcosa"
+"fare qualcosa"
+"fare qualcosa"
+"fare qualcosa apposta"
+"fare qualcosa di eccezionale"
+"fare qualcosa di proposito"
+"fare qualcosa in più"
+"fare qualcosa per"
+"fare qualcosa per"
+"fare qualcosa per conto proprio"
+"fare qualcosa per paura"
+"fare qualcosa per se stessi"
+"fare qualcosa ripetitivamente"
+#*''Fa' '''qualcosa'''!''
+#* ''c'è un '''qualcosa''' che mi attira in lei''
+* qualche cosa, una cosa, più cose, alcuna cosa, alcune cose
+*[[alcunché]]
+*[[qualcuno]], [[personalità]]
+*[[niente]], [[nulla]], nessuna cosa, [[nullità]], [[zero]]
+*[[qualche cosa]]
+M>qual</E
+M>che</E
+M>cosa</E
+M>qualche cosa</E
+M>ti manca qualcosa?</E
+M>meglio q</E
+M>che nulla</E
+M>posso fare q</E
+M>per te?</E
+M>da quando è andato via lui</E
+M>è cambiato in questa casa</E
+M>nel suo ragionamento q</E
+M>non ha convinto</E
+M>se ti decidi</E
+M>fammi sapere q</E
+M>ognuno è buono a q</E
+M>hai qualcos’altro da dirmi?</E
+M>C’è q</E
+M>di nuovo oggi nel sole</E
+M>Anzi d’antico</E
+M>di eccezionale</E
+M>di straordinario</E
+M>di bello</E
+M>di brutto</E
+M>di meglio</E
+M>di peggio</E
+M>quello spettacolo fu veramente q</E
+M>di straordinario</E
+M>è q</E
+M>di bello</E
+M>d’incantevole</E
+M>ci ho rimesso q</E
+M>come due o trecento euro</E
+M>deve rispondere alla giustizia di q</E
+M>come venti omicidî</E
+M>meno</E
+M>più</E
+M>lo spettacolo durerà q</E
+M>più di due ore</E
+M>prospetti più o meno estesi</E
+M>ma ricchi sempre e sempre q</E
+M>nuovi</E
+M>qualcuno</E
+M>è diventato q</E
+M>nella sua presunzione</E
+M>si crede qualcosa</E

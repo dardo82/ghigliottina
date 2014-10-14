@@ -1,0 +1,259 @@
+passaggio.txt
+"chiedere un passaggio"
+"dare un passaggio"
+"dare un passaggio a qc"
+"dare un passaggio a qualcuno"
+"dare un passaggio, caricare, far salire qcn"
+"darti un passaggio"
+"di passaggio"
+"diritto di passaggio"
+"diritto di passaggio"
+"il passaggio da un flirt ad un altro"
+"lasciare libero il passaggio."
+"luce libera di passaggio"
+"luogo di passaggio"
+"passaggio"
+"passaggio"
+"passaggio"
+"passaggio"
+"passaggio"
+"passaggio"
+"passaggio"
+"passaggio"
+"passaggio"
+"passaggio"
+"passaggio"
+"passaggio"
+"passaggio a livello"
+"passaggio a livello"
+"passaggio ad una marcia più alta"
+"passaggio del turno"
+"passaggio delicato"
+"passaggio di consegne"
+"passaggio di livello"
+"passaggio di palla a un compagno nel rugby"
+"passaggio di proprietà"
+"passaggio in avanti"
+"passaggio intermedio"
+"passaggio pedonale"
+"passaggio per l'aria"
+"passaggio segreto"
+"passaggio superiore"
+"passaggio, corridoio"
+"prendere un passaggio"
+"proprietà di passaggio"
+"rito di passaggio"
+#*''il '''passaggio''' del gruppo attraverso il bosco''
+#*''a destra trovi il '''passaggio''' per la mensa''
+#*''il '''passaggio''' all'età adulta''
+#*''il negozio è situato in un luogo di '''passaggio'''''
+#*''un '''passaggio''' di uno spot durante la finale di Champions League costa 100000 euro'' 
+#*''leggiamo ora il '''passaggio''' in cui il Manzoni parla della peste a Milano''
+#*''potete notare il '''passaggio''' di Marte nella costellazione del Leone''
+#*''mi dai un '''passaggio''' fino allo stadio?''
+#*'''''passaggio''' di prima'', fatto toccando una sola volta il pallone
+#*''partendo dall'equazione data, dopo alcuni semplici '''passaggi''' otteniamo il quadrato di un binomio''
+*movimento, [[circolazione]], via vai, [[andirivieni]], [[traffico]]
+*''(di città)'' [[transito]]
+*[[apertura]], [[accesso]], [[varco]], [[cammino]], [[uscita]], [[guado]], [[adito]]
+*''(di mare)'' [[canale]], [[stretto]]
+*''(via mare, in nave)'' [[tragitto]], [[traversata]], [[attraversamento]], [[spostamento]], [[trasporto]] [[transito]], [[attraversamento]], [[migrazione]]
+*''(di negozio, attività)'' [[vendita]], [[cessione]], [[trasferimento]], [[alienazione]]
+*''(di film)'' [[proiezione]]
+*''(di cose ad altri)''  [[trasmissione]] 
+*[[flusso]] 
+*''(posto)'' [[passo]], [[via]], [[valico]] 
+*[[sottopassaggio]], [[passeggiata]]
+*''passaggio a nord-ovest''
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1476 
+M>passage</E
+M>passer</E
+M>il p</E
+M>di un ponte</E
+M>del confine</E
+M>il p</E
+M>di un fiume a nuoto</E
+M>il p</E
+M>da un marciapiede all&#8217;altro</E
+M>il p</E
+M>attraverso un bosco</E
+M>il p</E
+M>dell&#8217;equatore</E
+M>il p</E
+M>della Manica</E
+M>dello stretto di Gibilterra</E
+M>il p</E
+M>del Mar Rosso</E
+M>il p</E
+M>della processione</E
+M>del corteo</E
+M>il p</E
+M>del treno sui binarî</E
+M>il p</E
+M>delle navi attraverso un canale</E
+M>uno stretto</E
+M>il p</E
+M>delle truppe continuò per giorni e giorni</E
+M>tutti fecero ala al p</E
+M>dell&#8217;illustre ospite</E
+M>il p</E
+M>del gregge attraverso il sentiero</E
+M>passo</E
+M>il p</E
+M>dei colombacci</E
+M>delle pernici</E
+M>concedere</E
+M>permettere</E
+M>impedire</E
+M>negare il p</E
+M>è vietato il p</E
+M>diritto di passaggio</E
+M>servitù coattiva di passaggio</E
+M>Di passaggio</E
+M>gente di p</E
+M>camere per turisti di p</E
+M>clienti di p</E
+M>luogo</E
+M>strada di p</E
+M>stanza di p</E
+M>terre di p</E
+M>essere</E
+M>trovarsi di p</E
+M>in un luogo</E
+M>siamo tutti di p</E
+M>su questa terra</E
+M>vedere qualcuno di p</E
+M>noterò di p</E
+M>voglio osservare di p</E
+M>che</E
+M>il suo p</E
+M>su questa terra è stato troppo breve</E
+M>passaggio ponte</E
+M>il p</E
+M>dei Crociati in Terra Santa</E
+M>il p</E
+M>d&#8217;oltremare</E
+M>avendo voi</E
+M>promesso di volere andare a morire per Cristo a questo santo p</E
+M>a racquistare la Terra Santa si fece per li cristiani un general p</E
+M>lo &#8217;mperadore donò una grazia a un suo barone</E
+M>che qualunque uomo passasse per sua terra</E
+M>che li togliesse uno danaio di passaggio</E
+M>Novellino</E
+M>chiedere un p</E
+M>posso offrirti un p</E
+M>se vieni subito</E
+M>ti do un p</E
+M>fino a casa</E
+M>essere in testa al secondo p</E
+M>in avanti</E
+M>il p</E
+M>dell&#8217;acqua per il tubo</E
+M>di un liquido attraverso il filtro</E
+M>praticare un&#8217;apertura per il p</E
+M>dell&#8217;aria</E
+M>del fumo</E
+M>il p</E
+M>del sangue nelle vene</E
+M>il p</E
+M>del cibo dall&#8217;esofago nello stomaco</E
+M>il p</E
+M>della corrente per il filo</E
+M>il p</E
+M>dei raggi attraverso l&#8217;obiettivo</E
+M>questa pellicola ha fatto pochi p</E
+M>al meridiano</E
+M>strumento dei passaggi</E
+M>di un pianeta davanti al Sole</E
+M>transito.</E
+M>il p</E
+M>di una sostanza dallo stato liquido a quello di vapore</E
+M>il p</E
+M>di un elemento chimico da una valenza a un&#8217;altra</E
+M>il p</E
+M>dal caldo al freddo</E
+M>dalla notte al giorno</E
+M>il p</E
+M>di una parola da un significato a un altro</E
+M>il p</E
+M>dal ginnasio al liceo</E
+M>di grado</E
+M>di categoria</E
+M>il p</E
+M>da questa all&#8217;altra vita</E
+M>il gran p</E
+M>dal piano al forte</E
+M>da una tonalità all&#8217;altra</E
+M>nota di passaggio</E
+M>riti di passaggio</E
+M>di quadro</E
+M>chiedere il p</E
+M>a un altro ufficio</E
+M>il p</E
+M>di un giocatore a un&#8217;altra squadra</E
+M>di proprietà</E
+M>di ruolo</E
+M>il p</E
+M>da un argomento all&#8217;altro</E
+M>il p</E
+M>da una idea all&#8217;altra è troppo brusco</E
+M>arrivare alla conclusione</E
+M>a una dimostrazione matematica</E
+M>saltando molti passaggi</E
+M>una sintesi chimica che avviene in cinque passaggi</E
+M>brusco</E
+M>graduale</E
+M>verticale</E
+M>laterale</E
+M>contatto</E
+M>tettonico</E
+M>il p</E
+M>della versione di latino al compagno di banco</E
+M>delle consegne al proprio successore</E
+M>in linea</E
+M>in profondità</E
+M>all&#8217;indietro</E
+M>laterale</E
+M>rovesciato</E
+M>di testa</E
+M>raso terra</E
+M>il p</E
+M>dovrebbe essere qui</E
+M>aprire</E
+M>chiudere un p</E
+M>trovare un p</E
+M>sbarrato</E
+M>tutti i p</E
+M>erano sorvegliati da sentinelle</E
+M>un p</E
+M>riparato</E
+M>coperto</E
+M>aprirsi un p</E
+M>nella neve</E
+M>tra le macerie</E
+M>in mezzo alla folla</E
+M>il torrente si aprì un p</E
+M>abbattendo un tratto di argine</E
+M>scoprire un p</E
+M>nella roccia</E
+M>sulla montagna</E
+M>obbligato</E
+M>pedonale</E
+M>Passaggio a livello</E
+M>passaggio chiave</E
+M>di nord</E
+M>est</E
+M>di nord</E
+M>ovest</E
+M>minato</E
+M>passage</E
+M>ho segnato nell&#8217;opera alcuni p</E
+M>interessanti</E
+M>un p</E
+M>facile</E
+M>difficile</E
+M>è un p</E
+M>affidato ai soli violini</E
+M>ripetiamo ancora questo passaggio</E
+M>di bravura</E
+M>prendersi dei p</E

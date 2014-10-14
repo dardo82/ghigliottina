@@ -1,0 +1,8 @@
+brigadiere.txt
+"brigadiere"
+M>brigadier</E
+M>brigade</E
+M>vice</E
+M>brigadiere</E
+M>generale</E
+M>Colonnello b</E

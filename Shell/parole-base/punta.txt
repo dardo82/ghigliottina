@@ -1,0 +1,61 @@
+punta.txt
+"a punta"
+"a punta"
+"a punta"
+"a punta"
+"a punta di diamante"
+"a punta di freccia"
+"camminare in punta di piedi"
+"camminare in punta di piedi"
+"carico di punta"
+"che ha una punta"
+"che punta"
+"che punta a"
+"dell'ora di punta"
+"in punta di piedi"
+"in punta di piedi"
+"la punta dell'ago"
+"marchio di punta"
+"non di punta"
+"non nel periodo di punta"
+"non nel periodo di punta"
+"ora di punta"
+"punta"
+"punta"
+"punta"
+"punta"
+"punta"
+"punta"
+"punta"
+"punta"
+"punta a elica"
+"punta da incisione"
+"punta del coltello"
+"punta del dito"
+"punta del precipizio"
+"punta dell'ago"
+"punta dell'ago"
+"punta di"
+"punta di diamante"
+"punta di lancia"
+"punta di metallo"
+"punta di spillo"
+"punta girevole"
+"punta per trapano"
+"senza punta"
+"trapano con punta di diamante"
+"uomo di punta"
+#*''Questa è la '''punta''' della spada''
+:*come posizione, lato inferiore dello [[scudo]],
+:*[[pezza]] di 2º ordine formata da un [[triangolo]]  la cui base coincide con il [[lato]]  inferiore dello scudo ed il vertice nel centro dello stesso; se il vertice si trova più in alto del centro si ha la ''punta alzata'', se invece è più basso si ha la ''punta abbassata''; se la base coincide con il lato superiore dello scudo si ha la ''[[punta rovesciata]]'',
+:*figura triangolare avente la base su uno dei lati dello [[scudo]] ed il vertice nel centro dello stesso (''punta movente dal lato destro'' e ''punta movente dal lato sinistro'')
+*[[estremità]],  [[capo]], [[spigolo]],
+*''( spuntone di una roccia)'' [[spigolo]] 
+*[[chiodo]]  
+*'' (di sale, di zucchero ecc.)'' [[pizzico]]   
+* ''(di monte)'' [[vetta]], [[cima]], [[sommità]], [[picco]], [[guglia]], [[pinnacolo]]
+*[[abbassato]], [[alzato]], [[rovesciato]], [[movente]]
+*''avere sulla punta della lingua''
+*italiano
+*catalano
+*spagnolo

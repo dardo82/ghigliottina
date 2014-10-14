@@ -1,0 +1,10 @@
+conduttura.txt
+"conduttura"
+"conduttura"
+"conduttura del gas"
+"conduttura del gas"
+"conduttura principale dell'acqua"
+"conduttura sotterranea"
+"tubo; conduttura del gas"
+M>conductus</E
+M>conduc</E

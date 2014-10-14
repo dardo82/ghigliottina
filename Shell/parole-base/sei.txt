@@ -1,0 +1,68 @@
+sei.txt
+"come ti sei trovato?"
+"con chi sei venuto?"
+"dove sei"
+"dove sei?"
+"già che sei in piedi"
+"il modo in cui sei, come sei"
+"le sei in punto"
+"ma ci sei o ci fai?"
+"non ti sei perso niente"
+"quando sei arrivato?"
+"reddito a sei cifre"
+"sei"
+"sei"
+"sei"
+"sei fuori come un balcone."
+"sei pronto per il grande passo?"
+"sei proprio un soggetto!"
+"sei tu?"
+"sei un mito!"
+"sei un portento"
+"sei una merda"
+"sei una pizza!"
+"stipendio a sei cifre"
+"te la sei voluta"
+"ti sei bevuto il cervello?"
+"ti sei fatto il bagno nel profumo?"
+"ti sei spazzolato tutto"
+"Tu sei la cosa più bella che mi sia mai capitata"
+"vedi che alla fine ci sei arrivato?"
+"vediamo di che pasta sei fatto!"
+#*''sei uno stronzo''
+*[[sei giorni]], [[sessennale]]
+*[[cinque]], [[sette]]
+*[[numero]], [[cifra]]
+:*[[novial]]
+*italiano
+*corso
+*basco
+M>sei tazzine da caffè</E
+M>sei rose</E
+M>sei km</E
+M>sei giorni</E
+M>siamo in sei</E
+M>servizio per sei</E
+M>tiro a sei</E
+M>sono già le sei</E
+M>corpo sei</E
+M>il sei giugno</E
+M>è uscito il sei sulla ruota di Napoli</E
+M>il sei di spade</E
+M>di picche</E
+M>ho due sette e tre sei</E
+M>la primiera è mia</E
+M>il sei è voto di sufficienza</E
+M>seino</E
+M>seùccio</E
+M>ottenere appena un seino</E
+M>strappare un seuccio</E
+M>seicento</E
+M>seimila</E
+M>ventisei</E
+M>centosei</E
+M>sesto</E
+M>-seèsimo</E
+M>ventiseèsimo</E
+M>trecentoseèsimo</E
+M>-seièsimo</E

@@ -1,0 +1,773 @@
+occhio.txt
+"A occhio e croce"
+"a occhio nudo"
+"a perdita d'occhio"
+"ad occhio nudo"
+"avere occhio"
+"avere occhio per"
+"avere occhio per qualcosa"
+"avere un occhio di riguardo per"
+"batter d'occhio"
+"batter d'occhio"
+"che accontenta l'occhio"
+"chiudere un occhio"
+"chiudere un occhio"
+"chiudere un occhio su"
+"chiudere un occhio su"
+"chiudere un occhio su qcs"
+"cieco da un occhio"
+"coda dell'occhio"
+"con la vista d'aquila, con l'occhio di falco"
+"con un occhio a"
+"con un occhio per"
+"con un occhio solo"
+"con un occhio su, con un occhio rivolto a"
+"dall'occhio acuto"
+"dall'occhio giallo"
+"dell'occhio"
+"dell'occhio"
+"fagiolo dall'occhio"
+"guardare con occhio critico, esaminare attentamente"
+"in un batter d'occhio"
+"in un batter d'occhio"
+"in un batter d'occhio"
+"l'occhio"
+"nell'occhio del"
+"non vedere di buon occhio"
+"occhio"
+"occhio"
+"occhio"
+"occhio abituato"
+"occhio acuto, sveglio"
+"occhio attento"
+"occhio blu"
+"occhio clinico"
+"occhio composto"
+"occhio del ciclone"
+"occhio della mente"
+"occhio destro"
+"occhio di falco"
+"occhio di gatto"
+"occhio di lince"
+"occhio di riguardo"
+"occhio di tigre"
+"occhio di vetro"
+"occhio elettronico"
+"occhio magico"
+"occhio magico"
+"occhio nero"
+"occhio nudo"
+"occhio nudo"
+"occhio per occhio"
+"occhio per occhio"
+"occhio per occhio"
+"occhio per occhio"
+"occhio per occhio, pan per focaccia"
+"occhio vitreo"
+"pagare qualcosa un occhio della testa"
+"pagare un occhio della testa"
+"pugno nell'occhio"
+"strizzare l'occhio"
+"strizzare l'occhio"
+"strizzata d'occhio"
+"tenere d'occhio"
+"tenere d'occhio"
+"tenere d'occhio"
+"tenere d'occhio"
+"tenere d'occhio"
+"tenere d'occhio"
+"tenere d'occhio"
+"tenere d'occhio qcn, controllare qcn"
+"tenere d'occhio qualcosa"
+"tenere d'occhio qualcosa"
+"Tenere sott'occhio"
+"un occhio della testa"
+"un occhio su"
+#* ''
+#* ''
+#* ''
+#* ''
+* [[adocchiare]], [[occhiaia]], [[occhiaie]], [[occhiale]], [[occhiata]], [[occhio di bue]], [[occhio elettronico]]
+* [[ciglia]], [[cornea]], [[cristallino]], [[iride]], [[lacrima]], [[pupilla]], [[retina]], [[sclera]]
+*[[-occhio]]
+*''a perdita d'occhio''
+* ''
+*''Se 
+* ''
+* ''
+* ''fare l' '''occhiolino''''' 
+* ''chiudere un 
+* ''
+* ''avere mille '''occhi''' e mille orecchi'' 
+* ''darci un 
+* ''essere nell' 
+* ''uccidere qualcuno sotto gli '''occhi''' di qualcun altro(un caro, un parente, un congiunto)'' 
+* ''leggere negli '''occhi''''' 
+* ''
+* ''
+*italiano
+M>lus</E
+M>cornea</E
+M>sclerotica</E
+M>coroide</E
+M>corpo ciliare</E
+M>iride</E
+M>pupilla</E
+M>retina</E
+M>umore acqueo</E
+M>corpo vitreo</E
+M>cristallino</E
+M>o. normale</E
+M>emmetrope</E
+M>fovea</E
+M>macula lutea</E
+M>o. ametropico</E
+M>lenti a contatto</E
+M>corneali</E
+M>occhiali correttivi</E
+M>ocelli</E
+M>macchie oculari</E
+M>composto</E
+M>semplici</E
+M>ommatidî</E
+M>periscopico</E
+M>telescopico</E
+M>parietale</E
+M>pineale</E
+M>mediano</E
+M>l’o</E
+M>destro</E
+M>l’o</E
+M>sinistro</E
+M>la mitologia greca immaginava i ciclopi con un o</E
+M>solo in mezzo alla fronte</E
+M>essere privo</E
+M>orbo</E
+M>cieco di un o</E
+M>esser privo degli o</E
+M>cavare gli o</E
+M>gli caverei gli o</E
+M>si caverebbero gli occhi se potessero</E
+M>spalancare</E
+M>sbarrare</E
+M>sgranare</E
+M>stralunare gli o</E
+M>far tanto d’occhi</E
+M>fregarsi</E
+M>stropicciarsi gli o</E
+M>dove hai gli o</E
+M>non hai gli o</E
+M>avere gli o</E
+M>fuori dell’orbita</E
+M>fuori della testa</E
+M>schizzare fiamme dagli o</E
+M>avere</E
+M>tenere</E
+M>mettere qualche cosa davanti agli o</E
+M>me lo vedo sempre davanti agli o</E
+M>guardarsi negli o</E
+M>guardami negli o</E
+M>evitare gli o</E
+M>d’incontrare gli o</E
+M>di qualcuno</E
+M>battere gli o</E
+M>lo fissava senza batter occhio</E
+M>fare cenno</E
+M>accennare con l’o</E
+M>strizzare l’o</E
+M>belli</E
+M>brutti</E
+M>due o</E
+M>bellissimi</E
+M>un paio d’o</E
+M>magnifici</E
+M>che occhi!</E
+M>grandi</E
+M>piccoli</E
+M>tondi</E
+M>a mandorla</E
+M>Solcata ho fronte</E
+M>incavati intenti</E
+M>chiari</E
+M>scuri</E
+M> neri</E
+M>nerissimi</E
+M>castani</E
+M>azzurri</E
+M>celesti</E
+M>grigi</E
+M>verdi</E
+M>color del cielo</E
+M>color del mare</E
+M>lucenti</E
+M>scintillanti</E
+M>sfavillanti</E
+M>Lucevan li o</E
+M>suoi più che la stella</E
+M>di civetta</E
+M>di barbagianni</E
+M>di bove</E
+M>bovini</E
+M>porcini</E
+M>occhi di gatto</E
+M>lucidi</E
+M>lustri</E
+M>accesi</E
+M>rossi</E
+M>Caron dimonio</E
+M>con occhi di bragia</E
+M>iniettati di sangue</E
+M>abbacinati</E
+M>abbagliati</E
+M>avere gli o</E
+M>stanchi</E
+M>affaticati</E
+M>gonfî</E
+M>velati</E
+M>pesti</E
+M>gli ha fatto un o</E
+M>pesto</E
+M>spenti</E
+M>storti</E
+M>strabici</E
+M>guerci</E
+M>miopi</E
+M>presbiti</E
+M>cisposi.</E
+M>uno spettacolo che appaga</E
+M>soddisfa</E
+M>contenta</E
+M>riposa</E
+M>rallegra l’o</E
+M>fare l’o</E
+M>a qualche cosa</E
+M>anche l’o</E
+M>vuole la sua parte</E
+M>rifarsi l’o</E
+M>rifarsi gli o</E
+M>rifarsi la bocca</E
+M>gli vennero</E
+M>gli spuntarono le lacrime agli o</E
+M>gli si inumidirono gli o</E
+M>gli o</E
+M>gli si velarono di lacrime</E
+M>pregare</E
+M>supplicare con le lacrime agli o</E
+M>asciugarsi gli o</E
+M>gli o</E
+M>non davan lacrime</E
+M>ma portavan segno d’averne sparse tante</E
+M>non ha più o</E
+M>per piangere</E
+M>non ha più</E
+M>non gli sono rimasti</E
+M>che gli o</E
+M>per piangere</E
+M>aprire</E
+M>chiudere</E
+M>aprire gli o</E
+M>aprire gli o</E
+M>alla luce</E
+M>alla vita</E
+M>aprire gli o</E
+M>alla verità</E
+M>al bello</E
+M>aprire gli o</E
+M>a qualcuno</E
+M>sono stato io ad aprirgli gli o</E
+M>i micini hanno aperto gli o</E
+M>apri gli o</E
+M>tenete gli o</E
+M>bene aperti</E
+M>non riuscire a tenere gli o</E
+M>aperti</E
+M>dormire a o</E
+M>aperti</E
+M>sognare a o</E
+M>aperti</E
+M>chiudere gli o</E
+M>chiuse serenamente</E
+M>cristianamente gli o</E
+M>gli si chiudevano gli o</E
+M>non ho chiuso occhio tutta la notte</E
+M>fermato così un poco l’animo a una deliberazione</E
+M>poté finalmente chiuder occhio</E
+M>chiudere gli o</E
+M>a qualcuno</E
+M>chiudere un o</E
+M>doveva chiudere un o</E
+M>mandarla giù</E
+M>e stare zitto</E
+M>chiude volentieri un o</E
+M>e anche tutti e due</E
+M>a o</E
+M>chiusi</E
+M>non sono cose che si possono fare così</E
+M>a o</E
+M>chiusi</E
+M>puoi comprare da lui a o</E
+M>chiusi</E
+M>è un uomo onesto</E
+M>stare con gli o</E
+M>bassi</E
+M>con gli o</E
+M>chinati a terra</E
+M>abbassare gli o</E
+M>non osava alzare gli o</E
+M>alzare gli o</E
+M>dal libro</E
+M>dal lavoro</E
+M>alzare gli o</E
+M>al cielo</E
+M>volgere gli o</E
+M>a qualcuno</E
+M>a qualche cosa</E
+M>volgere gli o</E
+M>altrove</E
+M>a me gli o</E
+M>cadere</E
+M>capitare sotto gli o</E
+M>sott’occhio</E
+M>correre agli o</E
+M>balzare</E
+M>saltare agli o</E
+M>sauter aux yeux</E
+M>cercare con gli o</E
+M>aguzzare gli o</E
+M>lo sguardo</E
+M>la vista</E
+M>piantare</E
+M>ficcare gli o</E
+M>addosso a qualcuno</E
+M>stare continuamente con gli o</E
+M>addosso a qualcuno</E
+M>non levare un momento gli o</E
+M>di dosso a qualcuno</E
+M>non riuscire a staccare gli o</E
+M>lasciare gli o</E
+M>su qualche cosa</E
+M>mettere gli o</E
+M>addosso</E
+M>essere tutt’occhi</E
+M>dopo la malattia è diventato</E
+M>si è ridotto tutt’occhi</E
+M>mangiare</E
+M>divorare con gli o</E
+M>recitare con gli o</E
+M>nei palchi</E
+M>lontano dagli o</E
+M>dei curiosi</E
+M>dei profani</E
+M>da o</E
+M>indiscreti</E
+M>una grande distesa di campi</E
+M>in cui l’o</E
+M>spazia liberamente</E
+M>l’o</E
+M>è attirato</E
+M>rifugge da un dato oggetto</E
+M>afferrare con l’o</E
+M>seguire</E
+M>accompagnare</E
+M>andare dietro</E
+M>tenere dietro</E
+M>con l’o</E
+M>scorrere con l’o</E
+M>posare</E
+M>gettare l’o</E
+M>su qualche cosa</E
+M>correre con l’o</E
+M>a qualche cosa</E
+M>l’o</E
+M>mi corse alle sue mani</E
+M>avere</E
+M>tenere sott’o</E
+M>appena si volta l’o</E
+M>sostenere con o</E
+M>fermo il confronto</E
+M>ascoltare i rimproveri con o</E
+M>impassibile</E
+M>Con o</E
+M>chiaro e con affetto puro</E
+M>guardare</E
+M>spiare</E
+M>sbirciare con la coda dell’o</E
+M>guardare</E
+M>sott’occhio</E
+M>sott’occhi</E
+M>guardare di sottecchi</E
+M>rallentavano il passo</E
+M>e guardavan sott’occhio nella stanza</E
+M>accogliere con o</E
+M>ridenti</E
+M>sorridenti</E
+M>aveva un paio d’o</E
+M>spauriti</E
+M>smarriti</E
+M>spaventati</E
+M>attoniti</E
+M>guardare con o</E
+M>paterni</E
+M>materni</E
+M>fraterni</E
+M>con o</E
+M>benevoli</E
+M>pietosi</E
+M>compassionevoli</E
+M>amorosi</E
+M>amichevoli</E
+M>supplichevoli</E
+M>ansiosi</E
+M> sentì gli o. vivissimi della madre che la fissavano più penetranti e più vividi del solito</E
+M>con o</E
+M>indagatori</E
+M>scrutatori</E
+M>sospettosi</E
+M>gelosi</E
+M>minacciosi</E
+M>invidiosi</E
+M>con o</E
+M>bramosi</E
+M>avidi</E
+M>concupiscenti</E
+M>fare gli o</E
+M>feroci</E
+M>fare l’o</E
+M>pio</E
+M>gli o</E
+M>dolci</E
+M>gli o</E
+M>di triglia</E
+M>gli o</E
+M>di tortora</E
+M>faceva certi occhi!</E
+M>vedere di buon o</E
+M>di mal o</E
+M>di cattivo o</E
+M>buoni</E
+M>cattivi</E
+M>puri</E
+M>innocenti</E
+M>limpidi</E
+M>schietti</E
+M>sinceri</E
+M>lieti</E
+M>tristi</E
+M>mesti</E
+M>falsi</E
+M>bugiardi</E
+M>penetranti</E
+M>intelligenti</E
+M>furbi</E
+M>vivaci</E
+M>smorti</E
+M>grifagni</E
+M>irrequieti</E
+M>torbidi</E
+M>assassini</E
+M>occhi di pesce lesso</E
+M>avere l’o</E
+M>limpido</E
+M>acuto</E
+M>penetrante</E
+M>intelligente</E
+M>vivace</E
+M>Ne li o</E
+M>porta la mia donna Amore</E
+M>la gioia gli traspariva dagli o</E
+M>i suoi o</E
+M>brillavano di felicità</E
+M>col sorriso</E
+M>col pianto negli o</E
+M>aveva ancora il terrore negli o</E
+M>gli balenò negli o</E
+M>un lampo sinistro</E
+M>leggere negli o</E
+M>gli si leggeva negli o</E
+M>la paura</E
+M>gli si legge negli o</E
+M>la bugia</E
+M>la colpa</E
+M>la viltà</E
+M>parlare</E
+M>interrogare</E
+M>rispondere con gli o</E
+M>incenerire con gli o</E
+M>gli o</E
+M>sono la finestra</E
+M> lo specchio</E
+M>dell’anima</E
+M>sotto gli o</E
+M>voglio che tu scriva sotto i miei o</E
+M>cose che avvengono purtroppo sotto i nostri o</E
+M>è stato travolto dalla vettura sotto gli o</E
+M>esterrefatti dei passanti</E
+M>gli ha scambiato la valigia proprio sotto i suoi o</E
+M>lontano dagli o</E
+M>fuori dagli o</E
+M>se vuoi farlo</E
+M>fallo almeno lontano dai miei o</E
+M>lontan dagli o</E
+M>lontan dal cuore</E
+M>fin dove l’o</E
+M>può giungere</E
+M>a perdita d’occhio</E
+M>l’oceano si estende</E
+M>la strada si prolunga a perdita d’o</E
+M>pianure immense a perdita d’o</E
+M>avere l’o</E
+M>fine</E
+M>acuto</E
+M>occhi di lince</E
+M>di falco</E
+M>d’aquila</E
+M>affaticare</E
+M>stancare</E
+M>logorare</E
+M>consumare gli o</E
+M>perdere gli o</E
+M>perdere gli o</E
+M>su un lavoro</E
+M>non avere più occhi</E
+M>non avere né occhi né orecchie</E
+M>è un uomo che non ha né occhi né orecchie</E
+M>a occhio</E
+M>giudicare</E
+M>calcolare a o</E
+M>a o</E
+M>potranno essere circa otto metri</E
+M>a occhio e croce</E
+M>a o</E
+M>nudo</E
+M>al suo o</E
+M>esperto nulla sfugge</E
+M>io ormai ho l’o</E
+M>a queste cose</E
+M>clinico</E
+M>fare l’o</E
+M>a qualche cosa</E
+M>avere</E
+M>non avere occhio</E
+M>non hai o</E
+M>che diamine!</E
+M>questi saranno almeno due chili</E
+M>ci vuole occhio!</E
+M>che occhio!</E
+M>occhio!</E
+M>bada!</E
+M>badate!</E
+M>che sta per arrivare il treno!</E
+M>alle curve!</E
+M>alla penna!</E
+M>guardare con o</E
+M>critico</E
+M>con o</E
+M>spassionato</E
+M>ai suoi o</E
+M>è perfetto</E
+M>se potesse vedersi con gli o</E
+M>miei!</E
+M>gli o</E
+M>del mondo</E
+M>gli o</E
+M>della mente</E
+M>dell’animo</E
+M>sensibili</E
+M>corporali</E
+M>hanno chiusi li o</E
+M>de la ragione</E
+M>Se l’acume</E
+M>io rispondo</E
+M>è già distrutto Della veduta corporal</E
+M>più vivo Dentro mi brilla l’o</E
+M>intellettivo Che terra e cielo abbraccia</E
+M>e suo fa il tutto</E
+M>vedere</E
+M>giudicare con gli o</E
+M>dell’immaginazione</E
+M>del cuore</E
+M>della passione</E
+M>della fede</E
+M>della paura</E
+M>Avere l’o</E
+M>a qualcuno</E
+M>a qualcosa</E
+M>non si può aver sempre l’o</E
+M>a tutto</E
+M>avere un o. di riguardo</E
+M>Tenere d’o</E
+M>non perdere d’occhio</E
+M>Dare nell’o</E
+M>colpire l’o</E
+M>colori che dànno nell’o</E
+M>la cosa mi diede subito nell’o</E
+M>un uomo</E
+M>una donna che non dà nell’o</E
+M>per non dare nell’o</E
+M>Dar d’occhio</E
+M>poté dar d’o</E
+M>per accennare ch’era contento di loro</E
+M>Non credere ai proprî o</E
+M>Non vede che per gli o</E
+M>di lui</E
+M>di lei</E
+M>Per i suoi begli o</E
+M>Avere gli o</E
+M>foderati di prosciutto</E
+M>avere le fette di salame sugli occhi</E
+M>Perdere il lume degli o</E
+M>Gettare</E
+M>dare</E
+M>la polvere</E
+M>il fumo</E
+M>negli o</E
+M>la pace</E
+M>le leggi</E
+M>le riforme Son bagattelle per chetar gli sciocchi</E
+M>E per dar della polvere negli o</E
+M>Fino agli o</E
+M>si sprofondava nel fango fino agli o</E
+M>essere immersi nei debiti</E
+M>nel vizio</E
+M>nel sudiciume</E
+M>fino agli o</E
+M>vengo da Milano</E
+M>sentirete</E
+M>sono proprio stato nel contagio fino agli o</E
+M>avere la pancia fino agli o</E
+M>averne fino agli o</E
+M>fin sopra gli o</E
+M>Essere come il fumo negli o</E
+M>essere un pugno in un o</E
+M>A quattr’o</E
+M>andiamo in salotto</E
+M>devo parlarti a quattr’occhi</E
+M>Colpo d’o</E
+M>capire</E
+M>giudicare a colpo d’o</E
+M>In un batter d’occhi</E
+M>A vista d’occhio</E
+M>questo ragazzo cresce a vista d’o</E
+M>il malato dimagrisce</E
+M>peggiora a vista d’occhio</E
+M>Beati gli o. che ti vedono</E
+M>lasciarci gli o</E
+M>averci lasciato gli o</E
+M>era una splendida collana</E
+M>e lei ci aveva lasciato gli occhi</E
+M>amare qualcuno più che la pupilla degli o</E
+M>cosa</E
+M>persona cara come la luce degli o</E
+M>scommettere un o</E
+M>della testa</E
+M>costa un o</E
+M>ho pagato un o</E
+M>ho speso un o</E
+M>quattro o</E
+M>vedono meglio che due</E
+M>l’o</E
+M>del padrone ingrassa il cavallo</E
+M>avere un o</E
+M>alla gatta e uno alla padella</E
+M>non vede</E
+M>cuore non duole</E
+M>cuore non crede</E
+M>in terra di ciechi chi ha un o</E
+M>è signore</E
+M>beato chi ha un o</E
+M>occhio per occhio</E
+M>dente per dente</E
+M>oculum pro oculo dentem pro dente</E
+M>Esodo</E
+M>Levitico</E
+M>Deuteronomio</E
+M>Matteo</E
+M>Occhi di vetro</E
+M>artificiali</E
+M>artificiale</E
+M>fotometrico normale</E
+M>Gli o</E
+M>della maschera</E
+M>della visiera</E
+M>Occhi del cielo</E
+M>in chiuso loco Vorria celarla ai tanti o</E
+M>del cielo</E
+M>li due o</E
+M>del cielo</E
+M>Occhio di sole</E
+M>Occhi di ladro</E
+M>di pernice</E
+M>di pulce</E
+M>Occhio di mosca</E
+M>diamante</E
+M>l’o</E
+M>del martello</E
+M>dell’accetta</E
+M>del piccone</E
+M>occhi del brodo</E
+M>occhiello</E
+M>occhietto</E
+M>sorgivo</E
+M>Occhio di un ciclone</E
+M>trovarsi nell’occhio del ciclone</E
+M>Occhio magico</E
+M>falso o</E
+M>gemma</E
+M>gli o</E
+M>della patata</E
+M>dormienti</E
+M>innesto a occhio</E
+M>Occhio di canna</E
+M>barbocchio</E
+M>Fagioli dall’o</E
+M>con l’o</E
+M>Occhio di marezzo</E
+M>opàion</E
+M>occhialone</E
+M>Occhio di bigotta</E
+M>Occhio di un cavo</E
+M>gassa</E
+M>Occhio di cubia</E
+M>di prora</E
+M>di bue</E
+M>filare per occhio</E
+M>Occhio del gallone</E
+M>giro di bitta</E
+M>Occhio</E
+M>sbocco</E
+M>del pozzo della catena</E
+M>Occhio di Plimsoll</E
+M>plìmsël</E
+M>Occhio di tonneggio</E
+M>carattere di o</E
+M>grande</E
+M>piccolo</E
+M>di o</E
+M>chiaro</E
+M>nero</E
+M>grasso</E
+M>Occhio di bue</E
+M>occhio di bove</E
+M>occhi di bove</E
+M>Uovo all’o</E
+M>di bue</E
+M>occhio di cubia</E
+M>oeil</E
+M>boeuf</E
+M>Il re dal suo lascivo Occhio di bue Guardava il mondo</E
+M>piccolo al suo piè</E
+M>Occhio di gambero</E
+M>gastrolito</E
+M>Occhi di pavone</E
+M>occhio di pavone</E
+M>occhio di pernice</E
+M>vaiolo dell’olivo</E
+M>Cycloconium oleaginum</E
+M>di pernice</E
+M>pollino</E
+M>di pernice</E
+M>obiettivo a o</E
+M>di pesce</E
+M>fish</E
+M>eye</E
+M>fare gli occhiacci</E

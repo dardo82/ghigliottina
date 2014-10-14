@@ -1,0 +1,16 @@
+scarseggiare.txt
+"scarseggiare"
+M>io scarséggio</E
+M>avere</E
+M>l&#8217;acqua comincia a s.</E
+M>scarseggiavano i viveri</E
+M>le munizioni</E
+M>s. di personale</E
+M>di manodopera</E
+M>s. di denari</E
+M>a denari</E
+M>s. di preparazione tecnica</E
+M>di cultura</E
+M>d&#8217;intelligenza</E
+M>ricusare</E
+M>rifiutare</E

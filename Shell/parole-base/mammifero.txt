@@ -1,0 +1,13 @@
+mammifero.txt
+"mammifero"
+"mammifero"
+"mammifero cetaceo"
+* [[cetaceo]], [[marsupiale]], [[primate]], [[roditore]], [[ruminante]]
+* [[animale]], [[vertebrato]]
+*Enciclopedia [http
+M>mamma</E
+M>fero</E
+M>l’uomo è un m</E
+M>la balena è un animale mammifero</E
+M>mammiferi</E
+M>Mammalia</E

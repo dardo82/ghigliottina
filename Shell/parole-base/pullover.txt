@@ -1,0 +1,15 @@
+pullover.txt
+"fatto a mano (pullover etc.)"
+"fatto a mano (pullover etc.)"
+"pullover"
+"pullover, jumper"
+*[[maglione]], [[golf]]
+*italiano
+*inglese
+M>pull</E
+M>over</E
+M>pul óuvë</E
+M>un p</E
+M>di cachemire</E
+M>mettersi</E
+M>togliersi il pullover</E

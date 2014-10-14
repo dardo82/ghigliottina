@@ -1,0 +1,12 @@
+quintale.txt
+"quintale"
+M>quintal</E
+M>qin</E
+M>centenarium</E
+M>centenarius</E
+M>piccolo</E
+M>grande</E
+M>un quintale e mezzo</E
+M>150 kg</E
+M>12 quintali</E
+M>2 t</E

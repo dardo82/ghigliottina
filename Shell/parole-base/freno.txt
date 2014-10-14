@@ -1,0 +1,118 @@
+freno.txt
+"che tiene a freno, contiene"
+"cilindretto del freno"
+"controllarsi; frenarsi; tenere a freno"
+"freno"
+"freno"
+"freno a disco"
+"freno a disco"
+"freno a mano"
+"freno a mano"
+"freno a pedale"
+"freno a tamburo"
+"freno a tamburo"
+"freno ad aria compressa"
+"freno di emergenza"
+"freno di soccorso"
+"freno di stazionamento"
+"freno idraulico"
+"freno inibitore"
+"ganascia del freno"
+"guarnizione del freno"
+"il controllarsi; il tenersi a freno"
+"leva del freno"
+"mordere il freno"
+"pedale del freno"
+"porre freno"
+"potenza al freno"
+"tener giù; a freno"
+"tenere a freno"
+"tubo del freno"
+* ''(di un cavallo) '' [[morso]]
+*[[frenare]], [[frenaggio]], [[frenata]], [[frenatura]], [[frenulo]]
+*[[desenfrenado]]
+*[[frenar]]
+*italiano
+*spagnolo
+M>frenum</E
+M>frend</E
+M>morso</E
+M>mordere</E
+M>rodere il f</E
+M>a f</E
+M>sciolto</E
+M>a f</E
+M>abbandonato</E
+M>a briglie sciolte</E
+M>A f</E
+M>abbandonato cavalcando</E
+M>Fuggono i Franchi allora a f</E
+M>sciolto</E
+M>il f</E
+M>della carrozza</E
+M>i f</E
+M>della bicicletta</E
+M>dell’automobile</E
+M>del tram</E
+M>del treno</E
+M>a mano</E
+M>a pedale</E
+M>di stazionamento</E
+M>di servizio</E
+M>automatico</E
+M>di emergenza</E
+M>della ruota anteriore</E
+M>della ruota posteriore</E
+M>stringere</E
+M>tirare</E
+M>azionare</E
+M>allentare i f</E
+M>la rottura dei freni</E
+M>meccanici</E
+M>idraulici</E
+M>aerodinamici</E
+M>elettromagnetici</E
+M>meccanici</E
+M>ad attrito secco</E
+M>a ceppo</E
+M>a tamburo</E
+M>a espansione</E
+M>a disco</E
+M>a pàttini</E
+M>a nastro</E
+M>idraulici</E
+M>rotativi</E
+M>alternativi</E
+M>ammortizzatori</E
+M>aerodinamici</E
+M>elettromagnetici</E
+M>a contromarcia</E
+M>controvapore</E
+M>controcorrente</E
+M>il f</E
+M>della legge</E
+M>morali</E
+M>il f</E
+M>della coscienza</E
+M>non c’è f</E
+M>che possa arrestare l’impeto della folla inferocita</E
+M>Voi cui fortuna ha posto in mano il f. De le belle contrade</E
+M>senza f</E
+M>alcuno di rimordimento o di vergogna</E
+M>non c’è f</E
+M>non c’è più f</E
+M>mettere</E
+M>porre un f</E
+M>tenere in f</E
+M>a f</E
+M>stringere i f</E
+M>allentare il f</E
+M>i f</E
+M>allentare il f</E
+M>alle parole</E
+M>alle lacrime</E
+M>al dolore</E
+M>il f</E
+M>dell’arte</E
+M>Ma perché piene son tutte le carte Ordite a questa cantica seconda</E
+M>Non mi lascia più ir lo fren de l’arte</E

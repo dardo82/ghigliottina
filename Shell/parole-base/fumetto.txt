@@ -1,0 +1,26 @@
+fumetto.txt
+"fumetto"
+"fumetto"
+#* ''questo è il mio 
+#* ''
+*[[nuvoletta]]
+*[[fumettaro]], [[fumettista]], [[fumettistica]], [[fumettistico]],
+* [[giornalino]], [[giornaletto]], [[nuvoletta]], [[striscia]], [[vignetta]]
+*Enciclopedia [http
+M>balloon</E
+M>giornali</E
+M>giornalini</E
+M>romanzi a fumetti</E
+M>divertirsi a leggere</E
+M>a guardare i f</E
+M>la moda del f</E
+M>gli appassionati del f</E
+M>il f</E
+M>erotico</E
+M>il f</E
+M>pubblicitario</E
+M>il f</E
+M>educativo</E
+M>questo film è un vero e proprio f</E
+M>più che un romanzo</E
+M> è un fumetto</E

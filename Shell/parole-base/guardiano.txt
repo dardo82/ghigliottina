@@ -1,0 +1,25 @@
+guardiano.txt
+"capo guardiano"
+"guardiano"
+"guardiano antincendio"
+"guardiano del faro"
+"guardiano della Torre di Londra"
+"guardiano notturno"
+"guardiano notturno"
+"spirito guardiano"
+M>guardia</E
+M>guardare</E
+M>gardien</E
+M>gardian</E
+M>d’una villa</E
+M>d’un faro</E
+M>di un pontile</E
+M>di un’imbarcazione</E
+M>d’uno stabilimento</E
+M>d’un magazzino</E
+M>d’una mandria di cavalli</E
+M>notturno</E
+M>idraulico</E
+M>padre g</E
+M>Àncora guardiana</E
+M>Molo guardiano</E

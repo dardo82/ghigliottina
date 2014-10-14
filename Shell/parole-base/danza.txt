@@ -1,0 +1,66 @@
+danza.txt
+"danza"
+"danza a quadriglie"
+"danza classica"
+"danza degli spettri (rito degli indiani di America)"
+"danza del diavolo"
+"danza del fuoco"
+"danza del sombrero (ballo messicano)"
+"danza del ventre"
+"danza del ventre"
+"danza della pioggia"
+"danza di guerra"
+"danza folcloristica"
+"danza folkloristica"
+"danza macabra"
+"danza macabra"
+"danza moderna"
+"danza popolare"
+"danza propiziatoria"
+"danza scozzese"
+"fare la gallina (passi di danza moderna - jazz)"
+"figura di danza"
+"giro di danza"
+"il ballo, la danza"
+"lezioni di danza"
+"maestro di danza"
+"passi di danza"
+"passo di danza"
+"passo di danza"
+"programma di danza"
+"ritmo della danza"
+"tipo di danza"
+"tipo di danza con passi pesanti"
+"tipo di danza folk"
+#* danza [[classica]]
+#* danza [[tribale]]
+#* danza [[popolare]]
+#* danza [[propiziatoria]]
+*[[ballo]], [[balletto]],[[carola]], [[coreografia]]
+*[[coreografia]], [[musica]]
+*Enciclopedia [http
+m>danse</e
+m>danser</e
+m>classica</e
+m>moderna</e
+m>ballo</e
+m>sala di danze</e
+m>aprire le d</e
+m>menare la d</e
+m>campestri</e
+m>la d</e
+m>del ventre</e
+m>una d</e
+m>macabra</e
+m>Bassa d</e
+m>Dioneo preso un liuto e la Fiammetta una viuola</e
+m>cominciarono soavemente una d</e
+m>a sonare</e
+m>di immagini</e
+m>di idee</e
+m>di desiderî</e
+m>la d</e
+m>delle ore</e
+m>La Gioconda</e
+m>delle arterie</e
+m>ilàre</e

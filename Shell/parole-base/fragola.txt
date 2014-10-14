@@ -1,0 +1,28 @@
+fragola.txt
+"fragola"
+"fragola"
+"frutto della fragola"
+* ''(frutto)'' [[fragolino]]
+* '' (pianta)'' [[fragolaccia]]
+*[[mela]], [[pera]], [[pesca]], [[banana]], [[uva]], [[fico]]
+M>*frag</E
+M>fraga</E
+M>fragola</E
+M>comune</E
+M>Fragaria vesca</E
+M>cogliere fragole</E
+M>una coppa di fragole col limone</E
+M>con l’aleatico</E
+M>con la panna</E
+M>marmellata di fragole</E
+M>gelato di fragola</E
+M>secca</E
+M>fragolaccia</E
+M>color f</E
+M>rosso f</E
+M>una camicetta f</E
+M>un foulard di un f</E
+M>smorto</E
+M>Uva fragola</E
+M>Vitis labrusca</E
+M>isabella</E

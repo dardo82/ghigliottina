@@ -1,0 +1,107 @@
+squadra.txt
+"a squadra"
+"compagno di squadra"
+"compagno di squadra"
+"essere fuori squadra"
+"essere fuori squadra"
+"generale di squadra aerea"
+"gioco di squadra"
+"gioco di squadra"
+"gioco di squadra"
+"lavorare come una squadra"
+"lavoro di gruppo, squadra"
+"lavoro di squadra"
+"prima squadra"
+"seconda squadra"
+"sistema di mutuo soccorso tra compagni di una squadra"
+"squadra"
+"squadra"
+"squadra"
+"squadra azzurra"
+"squadra buoncostume"
+"squadra castigamatti"
+"squadra che fa parate militari"
+"squadra delle riserve, seconda squadra"
+"squadra di baseball"
+"squadra di college o università"
+"squadra di pronto intervento"
+"squadra di pulizia"
+"squadra migliore"
+"squadra mobile"
+"squadra specializzata"
+"squadra volante"
+"squadra volante; la volante; la mobile"
+"squadra, squadretta"
+"una squadra di basket"
+#* ''per fare quel disegno sono [[indispensabili]] le '''squadre'''''
+#* ''la 
+#* ''temevano l'arrivo della 
+#* ''quella 
+#* ''giocava a [[calcio]] così bene che era stato [[inserito]] nella 
+*strumento per disegnare
+*[[équipe]], [[staff]], [[organismo]], [[ente]]; [[gruppo]], [[banda]], [[comitiva]]
+* (''gruppo militare'') [[plotone]],  [[brigata]],
+* (''gruppo sportivo'')  [[équipe]]
+* (''gruppo fascista'') [[squadraccia]]
+*''squadra primavera''
+* ''essere fuori (di) 
+* ''in/sopra/sotto 
+*italiano
+M>squadrare</E
+M>s. a 45&#176;</E
+M>s. a 30&#176;</E
+M>s. a 60&#176;</E
+M>s. falsa</E
+M>essere a</E
+M>in squadra</E
+M>essere fuori</E
+M>uscire di s.</E
+M>sopra s.</E
+M>sotto s.</E
+M>s. da falegname</E
+M>s. da muratore</E
+M>s. a T</E
+M>riga a T</E
+M>s. zoppa</E
+M>Squadra</E
+M>Squadra</E
+M>Norma.</E
+M>Due s. de&#8217; cristiani ... al loco Dove sorge l&#8217;incendio accorron pronte</E
+M>a morte Per la patria correan le genti a squadre</E
+M>squadra fucilieri</E
+M>mitraglieri</E
+M>esploratori</E
+M>collegamenti</E
+M>comando</E
+M>una s. di agenti di polizia</E
+M>s. mobile</E
+M>s. del buoncostume</E
+M>squadre d&#8217;azione</E
+M>squadre d&#8217;azione fasciste</E
+M>sport a squadre</E
+M>s. di calcio</E
+M>di rugby</E
+M>di baseball</E
+M>di hockey</E
+M>di pallacanestro</E
+M>di pallavolo</E
+M>gioco di squadra</E
+M>l&#8217;affermazione alle Olimpiadi della s. italiana di atletica leggera</E
+M>la s. di pugili di una grande palestra</E
+M>una s. ciclistica sponsorizzata da una grande industria.</E
+M>una s. di operai</E
+M>di elettricisti</E
+M>di minatori</E
+M>di vigili del fuoco</E
+M>s. di pronto intervento</E
+M>antincendio</E
+M>di soccorso</E
+M>s. rialzo</E
+M>Di filosofi altrove e di poeti Si vede in mezzo un&#8217;onorata s.</E
+M>voi che le fulgenti squadre Del ciel movete</E
+M>s. navale</E
+M>ammiraglio di squadra</E
+M>task forces</E
+M>s. aerea</E
+M>generale di s. aerea</E
+M>squadretta iperbolica</E

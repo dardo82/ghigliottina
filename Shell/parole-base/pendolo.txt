@@ -1,0 +1,5 @@
+pendolo.txt
+"di pendolo"
+"orologio a pendolo"
+"pendolo"
+"pendolo"

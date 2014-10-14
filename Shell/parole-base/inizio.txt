@@ -1,0 +1,106 @@
+inizio.txt
+"all'inizio"
+"all'inizio"
+"all'inizio"
+"all'inizio"
+"all'inizio"
+"avere un inizio"
+"calcio di inizio"
+"capire; spec. dopo un inizio difficile"
+"dal principio; dall'inizio"
+"dall'inizio alla fine"
+"dall'inizio alla fine"
+"dall'inizio alla fine"
+"dall'inizio alla fine, da capo a piedi"
+"dall'inizio alla fine; daccapo"
+"dall'inizio; dal primo momento"
+"dare il colpo d'inizio"
+"dare inizio a qcs."
+"dare inizio a qualcosa; cominciare un nuovo lavoro"
+"giorno per inizio attacco militare"
+"inizio"
+"inizio"
+"inizio della fine"
+"inizio di corsa o battuta di caccia, fermo automatico"
+"inizio e fine"
+"inizio entusiastico; partenza in quarta"
+"inizio lavori"
+"nuovo inizio"
+"nuovo inizio"
+"rappresentare l'inizio"
+"sin dall'inizio"
+"un nuovo inizio"
+"vantaggio acquisito all'inizio di una gara"
+*[[all'inizio]], [[d'inizio]], [[iniziale]]
+M>initium</E
+M>inire</E
+M>ire</E
+M>l’i</E
+M>di un lavoro</E
+M>di un’azione</E
+M>dare inizio</E
+M>dare i</E
+M>alle trattative</E
+M>il suo intervento diede i</E
+M>a un’animata discussione</E
+M>principio</E
+M>l’i</E
+M>della primavera</E
+M>dell’anno scolastico</E
+M>vedere il film dall’i</E
+M>riprendere il racconto dei fatti dall’i</E
+M>all’i</E
+M>dello spettacolo</E
+M>del discorso</E
+M>dell’operazione</E
+M>bisogna troncare il male al suo i</E
+M>all’inizio</E
+M>all’i</E
+M>tutti erano fiduciosi</E
+M>ma poi cominciarono a temere dell’esito</E
+M>avere inizio</E
+M>è da quel giorno</E
+M>da quell’incontro</E
+M>da quella lettera</E
+M>che ebbero inizio le sue disavventure</E
+M>trarre inizio</E
+M>agli inizî</E
+M>gli i</E
+M>del medioevo</E
+M>dell’età moderna</E
+M>agli i</E
+M>dell’estate</E
+M>gli i</E
+M>della letteratura italiana</E
+M>della rivoluzione francese</E
+M>delle lotte sindacali</E
+M>gli i</E
+M>sono sempre difficili</E
+M>l’i</E
+M>della partita non fu brillante</E
+M>vorrei rivedere l’i</E
+M>del film</E
+M>della commedia</E
+M>fammi risentire l’i</E
+M>della registrazione</E
+M>l’i</E
+M>del secondo tempo della sinfonia è solenne e maestoso</E
+M>l’i</E
+M>del sonetto</E
+M>della canzone</E
+M>del poema</E
+M>dell’orazione</E
+M>del dramma</E
+M>l’i</E
+M>della via</E
+M>dell’autostrada</E
+M>della galleria</E
+M>all’i</E
+M>del volume</E
+M>della pagina</E
+M>l’i</E
+M>di un capitolo</E
+M>l’i</E
+M>di una parola</E
+M>l’i</E
+M>di una frase</E

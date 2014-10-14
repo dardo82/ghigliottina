@@ -1,0 +1,6 @@
+portacenere.txt
+"portacenere"
+*[[vasetto]] in cui si deposita la [[cenere]]  e il [[mozzicone]]     della [[sigaretta ]] e del [[sigaro ]]
+M>portare</E
+M>cenere</E
+M>posacenere</E

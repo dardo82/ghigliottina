@@ -1,0 +1,51 @@
+riassumere.txt
+"riassumere"
+"riassumere"
+"riassumere"
+"riassumere, esemplificare"
+#* ''
+#* ''
+#* ''
+* assumere nuovamente, [[riprendere]]
+*[[riepilogare]], [[ricapitolare]], [[sintetizzare]], [[compendiare]]
+*[[licenziare]]
+*[[ampliare]], [[estendere]]
+M>assumere</E
+M>assumere</E
+M>la carica</E
+M>la funzione</E
+M>l&#8217;ufficio</E
+M>l&#8217;incarico</E
+M>il potere</E
+M>il grado</E
+M>rimasta vedova</E
+M>riassunse il solo cognome da ragazza</E
+M>una causa</E
+M>un processo</E
+M>la ditta lo ha riassunto come magazziniere</E
+M>hanno riassunto una parte degli operai licenziati</E
+M>in ruolo</E
+M>in servizio</E
+M>un canto della &#171;Divina Commedia&#187;</E
+M>un capitolo dei &#171;Promessi Sposi&#187;</E
+M>un film</E
+M>la trama di una commedia</E
+M>non è facile r</E
+M>una storia così ingarbugliata</E
+M>concludendo</E
+M>riassumerò i concetti fondamentali della mia conferenza</E
+M>il pensiero di un filosofo</E
+M>una teoria</E
+M>gli avvenimenti degli ultimi mesi</E
+M>lo svolgimento di una seduta parlamentare</E
+M>le fasi di una gara sportiva</E
+M>brevemente</E
+M>concisamente</E
+M>con chiarezza</E
+M>con efficacia</E
+M>in poche parole</E
+M>in una tavola</E
+M>in un quadro</E
+M>in un prospetto</E
+M>gli impiegati riassunti temporaneamente in servizio</E
+M>fatti riassunti in breve</E

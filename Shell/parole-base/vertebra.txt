@@ -1,0 +1,27 @@
+vertebra.txt
+"vertebra"
+"elemento della colonna vertebrale"
+"vertebra"
+*[[vertebrale]], [[vertebrati]]
+*italiano
+*inglese
+M>vert</E
+M>bra</E
+M>vert</E
+M>colonna vertebrale</E
+M>vertebrati</E
+M>centro</E
+M>corpo</E
+M>arco neurale</E
+M>v. anficele</E
+M>v. proceli</E
+M>v. opistoceli</E
+M>cervicali</E
+M>toraciche</E
+M>dorsali</E
+M>lombari</E
+M>sacrali</E
+M>caudali</E
+M>coccigee</E
+M>vertebre a blocco</E
+M>vertebra a cuneo</E

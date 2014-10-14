@@ -1,0 +1,301 @@
+morto.txt
+"ad un punto morto"
+"angolo morto"
+"cassa da morto"
+"Ci poteva scappare il morto"
+"corpo morto"
+"essere morto"
+"giungere ad un punto morto"
+"ha lasciato questo mondo, è morto"
+"Mar Morto"
+"Mar Morto"
+"mezzo morto"
+"mezzo morto"
+"mezzo morto"
+"mezzo morto"
+"mezzo morto di fame"
+"momento morto"
+"morto"
+"morto"
+"morto"
+"morto assiderato"
+"morto di fame"
+"morto di paura"
+"morto di paura, terrorizzato"
+"morto di stanchezza"
+"morto e sepolto"
+"morto e sepolto"
+"morto e sepolto"
+"morto un papa se ne fa un altro"
+"nascita di un bimbo morto"
+"nato morto"
+"non morto"
+"non morto, morto vivente"
+"peso morto"
+"punto d'arresto, punto morto"
+"punto morto"
+"punto morto"
+"punto morto"
+"punto morto"
+"punto morto"
+"punto morto"
+"quasi morto dal ridere"
+"spazio morto"
+"stanco morto"
+"stanco morto"
+"stanco morto"
+"stanco morto"
+"stanco morto"
+"stanco morto"
+"tempi di fermo, periodo morto"
+"tempo morto"
+"uomo morto"
+*[[defunto]],  [[estinto]], [[trapassato]], [[perito]], [[deceduto]]
+*privo di vita, [[esanime]]
+*[[fermo,]] [[immobile]], [[inanimato]], [[spento]], [[improduttivo]], [[sterile]]
+*[[inattivo]], [[inutilizzabile]], [[atrofizzato]]
+*''(burocratico)'' [[fu]]
+*[[cadavere]], [[salma]], corpo esanime, [[corpo]], [[spoglie]], [[resti]]
+*[[vivo]], [[vivente]]
+*''essere stanco morto'' 
+*''fare il morto''
+*italiano
+M>morire</E
+M>rtuus</E
+M>lo trovarono m</E
+M>seppellire i soldati m</E
+M>rimase m</E
+M>sul terreno</E
+M>Gesù m</E
+M>Cristo m</E
+M>la processione del Cristo m</E
+M>Il gemer lungo di persona morta Chiedente la venal prece</E
+M>o m</E
+M>giovinetto</E
+M>Anch’io presto verrò sotto le zolle Là dove dormi</E
+M>a babbo m</E
+M>pagare</E
+M>restituire a babbo m</E
+M>un cane</E
+M>un cavallo m</E
+M>gatta m</E
+M>è meglio un asino vivo che un dottore morto</E
+M>pianta m</E
+M>un ramo m</E
+M>foglie m</E
+M>Dov’era l’ombra</E
+M>or sé la quercia spande Morta</E
+M>né più coi turbini tenzona</E
+M>tessuto m</E
+M>cellule morte</E
+M>E caddi come corpo m</E
+M>cade</E
+M>La faccia tua</E
+M>ch’io lagrimai già morta</E
+M>avere un braccio m</E
+M>una gamba</E
+M>morta</E
+M>essere m</E
+M>di paura</E
+M>di spavento</E
+M>cascare m</E
+M>dal sonno</E
+M>dalla stanchezza</E
+M>essere stanco m</E
+M>esser m</E
+M>di fame</E
+M>di fame</E
+M>di fame e si dà tante arie!</E
+M>non capisco come ha potuto sposare quel m</E
+M>di fame</E
+M>mi preoccupavo soltanto per te</E
+M> per il tuo avvenire</E
+M> ma se vuoi davvero rimanere un m. di fame non ci posso fare nulla</E
+M>un m</E
+M>di sonno</E
+M>quel m</E
+M>di sonno</E
+M>Mezzo m</E
+M>fu trovato</E
+M>lo abbandonarono mezzo m</E
+M>sono mezzo m</E
+M>dalla stanchezza</E
+M>era mezzo m</E
+M>per la paura</E
+M>era più m</E
+M>che vivo</E
+M>lo tirarono fuori più m</E
+M>che vivo</E
+M>nascere m</E
+M>esser</E
+M>nato m</E
+M>sul nascere</E
+M>prima di nascere</E
+M>un’impresa nata m</E
+M>un governo che nasce m</E
+M>accordo m</E
+M>sul nascere</E
+M>prima di nascere</E
+M>nato m</E
+M>sono m</E
+M>sono un uomo m</E
+M>si vede m</E
+M>è un uomo m</E
+M>è un uomo finito</E
+M>fermo</E
+M>o sei m</E
+M>se fai un passo sei m</E
+M>se parli</E
+M>sei un uomo m</E
+M>sei m</E
+M>ti credevo m</E
+M>cader m</E
+M>cascar m</E
+M>cadde m</E
+M>sul colpo</E
+M>restar come m</E
+M>dare qualcuno per m</E
+M>i medici lo danno ormai per m</E
+M>tutti lo davano per m</E
+M>piangere qualcuno per m</E
+M>voler m</E
+M>qualcuno</E
+M>o vivo o m</E
+M>dobbiamo prenderlo</E
+M>trovarlo</E
+M>averlo nelle nostre mani</E
+M>o vivo o m</E
+M>eran tutti smaniosi d’aver nell’unghie l’uccisore</E
+M>o vivo o m</E
+M>vile!</E
+M>tu uccidi un uomo m</E
+M>sarà</E
+M>già m</E
+M>e sepolto</E
+M>e seppellito</E
+M>e sotterrato</E
+M>per me si tratta di questione già m</E
+M>e sepolta</E
+M>il suo cervel</E
+M>Dio lo riposi</E
+M>In tutt’altre faccende affaccendato</E
+M>A questa roba è m</E
+M>e sotterrato</E
+M>esser m</E
+M>alla grazia di Dio</E
+M>E tu che se’ costì</E
+M>anima viva</E
+M>Pàrtiti da cotesti che son m</E
+M>Ma qui la m</E
+M>poesì resurga</E
+M>e mi sovvien l’eterno</E
+M>E le m</E
+M>stagioni</E
+M>stagione m</E
+M>leggi m</E
+M>lingue m</E
+M>vocaboli m</E
+M>un quartiere m</E
+M>una città m</E
+M>una festa morta</E
+M>denaro m</E
+M>capitale m</E
+M>esser lettera m</E
+M>manomorta</E
+M>Ah! d’una gente morta Non si giova la storia</E
+M>tutta morta Fia nostra conoscenza da quel punto Che del futuro fia chiusa la porta</E
+M>peso m</E
+M>tenere la mano m</E
+M>il braccio m</E
+M>a corpo m</E
+M>acqua m</E
+M>Mentre noi corravam la m</E
+M>gora</E
+M>v’attendea lo scuro Tartaro</E
+M>e l’onda m</E
+M>aria m</E
+M>Tosto ch’io usci’ fuor de l’aura morta Che m’avea contristati li occhi e ’l petto</E
+M>s’udiva soltanto il fiotto m</E
+M>e lento frangersi sulle ghiaie del lido</E
+M>mare m</E
+M>mare vecchio</E
+M>angolo m</E
+M>angolo m</E
+M>punto m</E
+M>arrosto m</E
+M>binario m</E
+M>fondo m</E
+M>natura m.</E
+M>palla m</E
+M>pallone m</E
+M>pietra m</E
+M>punto m</E
+M>stime morte</E
+M>scorte morte</E
+M>stime vive</E
+M>scorte vive</E
+M>tempi m</E
+M>di lavorazione</E
+M>tempo m</E
+M>tempo m</E
+M>di un relè</E
+M>tempi m</E
+M>corpo m</E
+M>opera m</E
+M>defunto</E
+M>cadavere</E
+M>nel disastro ci sono stati parecchi m</E
+M>e feriti</E
+M>cassa da m</E
+M>seppellire i m</E
+M>Io fermo per cinque ore sulla piazza Enumerando i m. sulla stele</E
+M> mettendomici Dentro ad honorem ridicolmente</E
+M>suonare a morto</E
+M>messa da morto</E
+M>l’ufficio dei m</E
+M>pregare per i poveri m</E
+M>il culto dei m</E
+M>il giorno</E
+M>la festa dei m</E
+M>i m</E
+M>fave dei m</E
+M>ossi di morto</E
+M>il mondo</E
+M>il regno dei m</E
+M>per poco non ci scappava il m</E
+M>bianco</E
+M>giallo</E
+M>pallido come un m</E
+M>risuscitato</E
+M>pare un m</E
+M>che cammina</E
+M>farebbe resuscitare un m</E
+M>Fare il m</E
+M>il m</E
+M>giace</E
+M>il vivo si dà pace</E
+M>chi muore giace</E
+M>e chi vive si dà pace</E
+M>all’assente e al m</E
+M>non si dee far torto</E
+M>lasciate che i m</E
+M>seppelliscano i loro m</E
+M>Matteo</E
+M>Luca</E
+M>sfinge testa di m</E
+M>Acherontia atropos</E
+M>atropo</E
+M>decima dei m</E
+M>gabella dei m.</E
+M>La terra dei m</E
+M>Le dernier chant du pèlerinage d’Harold</E
+M>giocare col m</E
+M>fare un tressette</E
+M>un poker col morto</E
+M>arrivati</E
+M>trovarono effettivamente</E
+M>in vece del m</E
+M>la buca aperta</E
+M>s’era messo in testa che il babbo e la mamma gli nascondessero «il m</E
+M>e però li tormentava in mille modi</E
+M>parendogli che colla loro avarizia fossero di impedimento alla sua fortuna</E

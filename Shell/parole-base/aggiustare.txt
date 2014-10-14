@@ -1,0 +1,38 @@
+aggiustare.txt
+"aggiustare"
+"aggiustare"
+"aggiustare di sale e pepe"
+*[[raggiustare]], [[aggiustarsi]]
+M>giusto</E
+M>qualcuna macchina</E
+M>un motore</E
+M>un orologio</E
+M>un vestito</E
+M>qualcuno</E
+M>aggiustarlo per le feste</E
+M>t’aggiusto io!</E
+M>ora l’aggiusto io</E
+M>vedrai!</E
+M>aggiustarsi le vesti</E
+M>la cravatta</E
+M>gli occhiali sul naso</E
+M>i capelli</E
+M>s’era aggiustata proprio benino</E
+M>l’oculare di uno strumento ottico alla propria vista</E
+M>il tiro</E
+M>la mira</E
+M>i colpi</E
+M>un calcio</E
+M>un ceffone</E
+M>uno schiaffo a qualcuno</E
+M>i conti</E
+M>una partita commerciale</E
+M>a. una faccenda, una lite, una questione</E
+M>a. un processo</E
+M>per il prezzo</E
+M>ci aggiusteremo facilmente</E
+M>mi aggiusterò io con lui</E
+M>ora</E
+M>cerca di concludere l’affare</E
+M>poi tra noi ci aggiusteremo in qualche modo</E
+M>speravano di aggiustarsi in una grossa cascina e lavorare tutti quanti e star bene</E

@@ -1,0 +1,18 @@
+elmo.txt
+"elmo"
+"elmo medievale"
+*[[casco]], [[copricapo]], [[barbuta]], [[bacinetto]]
+M>hilms</E
+M>cimiero</E
+M>cresta</E
+M>visiera dell’e</E
+M>gladiatorio</E
+M>da torneo</E
+M>e. a chiodo</E
+M>coronato</E
+M>di grado</E
+M>del palombaro</E
+M>protettivo</E
+M>Davies</E
+M>duomo</E
+M>Dolium</E

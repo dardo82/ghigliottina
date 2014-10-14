@@ -1,0 +1,24 @@
+sbloccare.txt
+"sbloccare"
+"sbloccare, replace: sbloccarsi"
+"sbloccare, replace: sbloccarsi"
+"sbloccare, replace: sbloccarsi"
+"sbloccare qcs"
+M>bloccare</E
+M> s-</E
+M>io sblòcco</E
+M>tu sblòcchi</E
+M>i mezzi di soccorso hanno sbloccato la nave immobilizzata dai ghiacci</E
+M>i rimorchiatori erano in azione per s. il porto</E
+M>i vigili non riuscivano a s. il traffico.</E
+M>prima di avviare la macchina bisogna s. il congegno di arresto</E
+M>s. i freni</E
+M>per s. il telefono devi comporre il numero indicato nell&#8217;elenco.</E
+M>s. la produzione olearia</E
+M>s. i prezzi del grano</E
+M>s. gli affitti</E
+M>con molta abilità ha saputo s. la situazione</E
+M>le trattative si sono finalmente sbloccate.</E
+M>dopo anni di terapia è riuscito a sbloccarsi</E
+M>abbiamo parlato a lungo</E
+M>e alla fine si è un po&#8217; sbloccato.</E

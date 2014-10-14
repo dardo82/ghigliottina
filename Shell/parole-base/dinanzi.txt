@@ -1,0 +1,35 @@
+dinanzi.txt
+"dinanzi, dinnanzi"
+"dinanzi, dinnanzi"
+"dinanzi, replace: dinanzi a"
+"portare dinanzi"
+"precedere; presentarsi dinanzi a"
+"prostrarsi dinanzi"
+"timido dinanzi all'obiettivo"
+#* ''il palazzo dinanzi''
+#* ''il mese dinanzi''
+#* ''Le mise il libro proprio dinanzi agli occhi''
+* ''(come aggettivo)''
+* ''(come avverbio)''
+* ''(come aggettivo)''
+* ''(come avverbio)''
+*[[dinanzi a]]
+* [[dianzi]]
+M>de in antea</E
+M>anzi</E
+M>davanti</E
+M>a me</E
+M>a tutti</E
+M>fermarsi d</E
+M>a una vetrina</E
+M>gli mise d</E
+M>un piatto d’insalata</E
+M>dinanzi da li occhi d’i pennuti</E
+M>a noi</E
+M>Dinanzi a me non fuor cose create Se non etterne</E
+M>guardare d</E
+M>Taciti</E
+M>soli</E
+M>sanza compagnia N’andavam l’un dinanzi e l’altro dopo</E
+M>non vi fu egli detto d</E
+M>il palazzo dinanzi</E

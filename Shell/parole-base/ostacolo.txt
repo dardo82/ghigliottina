@@ -1,0 +1,75 @@
+ostacolo.txt
+"(ostacolo) imprevisto"
+"aggirare (l'ostacolo)"
+"essere un ostacolo"
+"la gobba, l'ostacolo"
+"non fermarsi davanti a nessun ostacolo"
+"ostacolo"
+"ostacolo"
+"ostacolo di sabbia"
+"ostacolo inaspettato"
+"saltare un ostacolo con la bici"
+*[[difficoltà]], [[impedimento]], [[contrasto]], [[intralcio]], [[intoppo]], [[freno]], [[blocco]], [[barriera]], [[scoglio]], [[ritardo]], [[inconveniente]], [[contrarietà]], [[opposizione]]
+*[[aiuto]], [[facilitazione]], [[agevolazione]]
+*[[ostacolare]], [[ostacolista]]
+M>obstac</E
+M>lum</E
+M>obstare</E
+M>al cammino</E
+M>all’avanzata</E
+M>al progresso</E
+M>al raggiugimento di uno scopo</E
+M>essere</E
+M>costituire un o</E
+M>essere di o</E
+M>una sporgenza del terreno era di o</E
+M>alla vista</E
+M>la presunzione è un o</E
+M>alla scoperta della verità</E
+M>mio padre è sempre stato un grave o</E
+M>alla realizzazione dei miei progetti</E
+M>un forte o</E
+M>un o</E
+M>insuperabile</E
+M>insormontabile</E
+M>mettere</E
+M>opporre</E
+M>frapporre ostacoli</E
+M>trovare</E
+M>incontrare ostacoli</E
+M>sono sorti o</E
+M>imprevedibili</E
+M>si presentano molti o</E
+M>al buon esito delle trattative</E
+M>affrontare</E
+M>scansare</E
+M>evitare</E
+M>rimuovere</E
+M>togliere</E
+M>abbattere</E
+M>levare di mezzo</E
+M>saltare</E
+M>superare un o</E
+M>il vero amore non conosce ostacoli</E
+M>vede</E
+M>trova</E
+M>ostacoli dappertutto</E
+M>fare ostacolo</E
+M>i dirigenti mi fanno o</E
+M>in tutte le mie iniziative</E
+M>fare ostacoli</E
+M>ho chiesto di entrare</E
+M>ma mi hanno fatto mille ostacoli</E
+M>difficoltà</E
+M>corsa a ostacoli</E
+M>correre i 110 metri ostacoli</E
+M>i 110 ostacoli</E
+M>vincere i 110 metri ostacoli</E
+M>i 400 ostacoli</E
+M>corse ippiche a ostacoli</E
+M>verticale</E
+M>largo</E
+M>muro</E
+M>palizzata</E
+M>croce di sant’Andrea</E
+M>riviera</E

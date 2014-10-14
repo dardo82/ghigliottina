@@ -1,0 +1,21 @@
+massaggio.txt
+"fatti fare un massaggio!"
+"massaggio"
+"massaggio"
+"massaggio facciale"
+"massaggio idroterapico"
+"massaggio svedese"
+"massaggio terapeutico"
+#* ''il [[medico]] compie un '''massaggio''' cardiaco per rianimare un [[paziente]] colto da [[infarto]]''
+*[[frizione]], [[manipolazione]]
+*[[idromassaggio]],[[massaggiare]]
+M>massage</E
+M>masser</E
+M>fare un m</E
+M>sottoporsi a m</E
+M>avere bisogno di un buon m</E
+M>dimagrante</E
+M>manuale</E
+M>elettrico</E
+M>cardiaco</E
+M>cardiaco esterno</E

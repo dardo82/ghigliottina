@@ -1,0 +1,15 @@
+caramella.txt
+"caramella"
+"caramella"
+"caramella"
+"caramella"
+"caramella al cioccolato"
+"caramella alla frutta"
+"caramella con burro"
+"caramella dura"
+"caramella gusto menta"
+M>caramel</E
+M>canna mellis</E
+M>calamellus</E
+M>cal</E
+M>mus</E

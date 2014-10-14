@@ -1,0 +1,276 @@
+verde.txt
+"al verde"
+"al verde"
+"al verde"
+"al verde, senza una lira"
+"alga verde"
+"alga verde blu"
+"blu che dà sul verde"
+"blu verde"
+"blu verde"
+"calcedonio verde"
+"carta verde"
+"color grigio verde"
+"color nero-verde"
+"color oro verde"
+"color verde erba"
+"color verde oro"
+"colorato di verde"
+"colore verde"
+"colore verde"
+"coloro giallo verde"
+"dal dorso verde"
+"dalla pelle verde"
+"della zona verde"
+"di colore verde giallastro"
+"di colore verde smeraldo"
+"diventare verde"
+"erba verde"
+"essere al verde"
+"essere verde"
+"fagiolino verde"
+"fagiolo verde (che si mangia quando non è ancora maturo)"
+"fare diventare qualcuno verde dall'invidia"
+"foglie di cavolo verde"
+"giallo che dà sul verde"
+"grigio verde"
+"grossa mosca dal colore blu metallico verde"
+"immerso nel verde delle colline"
+"insalata verde"
+"Libro Verde"
+"luce (verde)"
+"luce verde del semaforo"
+"manutenzione del verde"
+"mela verde"
+"natura, verde"
+"numero verde"
+"numero verde"
+"omino verde"
+"onda verde"
+"oro verde"
+"pepe verde"
+"picchio verde"
+"pietra verde"
+"pollice verde"
+"polmone verde"
+"rivoluzione verde"
+"salsa verde"
+"serpente verde"
+"spazio verde"
+"strada verde"
+"tartaruga verde"
+"tavolo verde"
+"tè verde"
+"tè verde"
+"terra verde"
+"terra verde"
+"terra verde; glauconite"
+"una tonalità di verde"
+"vasta area verde"
+"verde"
+"verde"
+"verde"
+"verde"
+"verde"
+"verde acqua"
+"verde acqua"
+"verde antico"
+"verde blu"
+"verde bluastro"
+"verde bosco"
+"verde bottiglia"
+"verde che dà moderatamente sul giallo"
+"verde d'invidia"
+"verde giada"
+"verde giallo"
+"verde intenso"
+"verde lime"
+"verde malachite"
+"verde mare"
+"verde mare"
+"verde mela"
+"verde militare; verde scuro"
+"verde muschio"
+"verde muschio"
+"verde oliva"
+"verde oliva"
+"verde oro"
+"verde pallido"
+"verde pisello"
+"verde prato"
+"verde prato"
+"verde rame"
+*[[verdeggiare]]
+*[[colore]]
+* ''l'erba del vicino è sempre più 
+* ''essere al 
+* ''
+* ''
+* ''
+* ''benzina 
+*italiano
+*asturiano
+*spagnolo
+M>dis</E
+M>virere</E
+M>colore v.</E
+M>verde</E
+M>v. chiaro</E
+M>verdechiaro</E
+M>v. scuro</E
+M>verdescuro</E
+M>v. cupo</E
+M>verdecupo</E
+M>v. azzurro</E
+M>v. bruno</E
+M>v. giallo</E
+M>v. grigio</E
+M>grigioverde</E
+M>verdeazzurro</E
+M>verdazzurro</E
+M>v. bandiera</E
+M>v. bottiglia</E
+M>v. malva</E
+M>v. mare</E
+M>v. oliva</E
+M>v. oro</E
+M>v. palude</E
+M>v. penicillina</E
+M>v. pisello</E
+M>v. pistacchio</E
+M>v. ramarro</E
+M>v. reseda</E
+M>v. smeraldo</E
+M>v. sottobosco</E
+M>v. marcio</E
+M>erba v.</E
+M>insalata v.</E
+M>piante v.</E
+M>foglie v.</E
+M>grano v.</E
+M>olive v.</E
+M>uva v. e aspra</E
+M>pesche</E
+M>banane troppo v.</E
+M>ancora v.</E
+M>fagiolini v.</E
+M>legno v.</E
+M>rami v.</E
+M>Come d’un stizzo v. ch’arso sia</E
+M>un prato v.</E
+M>campi v.</E
+M>Il divino del pian silenzio v.</E
+M>un mare terso e v.</E
+M>persiane v.</E
+M>la bandiera italiana è bianca</E
+M> rossa e v.</E
+M>tappeto v.</E
+M>una ragazza bruna con gli occhi verdi</E
+M>si vedeva dalla faccia</E
+M> v. e affilata</E
+M> che era stato malato</E
+M>che era stanco morto</E
+M>era v.</E
+M>in viso</E
+M>in faccia</E
+M>di paura</E
+M>per la rabbia</E
+M>di bile</E
+M>d’invidia</E
+M>Questa sì bella e ben fornita e ricca Magion de’ miei verd’anni</E
+M>Felice te che il regno ampio de’ venti</E
+M> Ippolito</E
+M> a’ tuoi verdi anni correvi!</E
+M>Né mi diceva il cor che l’età verde Sarei dannato a consumare in questo Natio borgo selvaggio</E
+M>Vecchio è d’aspetto e d’anni; ma di forze</E
+M> Come dio</E
+M> vigoroso e v. è sempre</E
+M>lo credevamo ormai morto</E
+M> e invece è ancora vivo e verde</E
+M>Per far sempre mai verdi i miei desiri</E
+M>c’era però anche de’ capi scarichi</E
+M> degli uomini d’una tempra più salda e d’un coraggio più v.</E
+M>bosco v.</E
+M>piante sempre v.</E
+M>potatura v.</E
+M>secca</E
+M>carta v.</E
+M>luce v.</E
+M>si può passare solo con il v.</E
+M>numero v.</E
+M>pelle v.</E
+M>benzina v.</E
+M>Croce v.</E
+M>raggio v.</E
+M>avere il pollice v.</E
+M>zone v.</E
+M>destinare a zona v.</E
+M>a verde</E
+M>un’area già industriale</E
+M>piano v.</E
+M>rivoluzione v.</E
+M>Europa v.</E
+M>sterlina v.</E
+M>valute v.</E
+M>biglietto v.</E
+M>balletti v.</E
+M>balletti rosa</E
+M>il v.</E
+M> nell’abbigliamento</E
+M> è un colore molto impegnativo</E
+M>chi di verde si veste</E
+M> di sua beltà si fida</E
+M>tingere di</E
+M>in verde</E
+M>mangiare una fetta di cocomero fino al verde</E
+M>essere</E
+M>trovarsi</E
+M>restare</E
+M>ridursi al v.</E
+M>abitare nel v.</E
+M>una villa costruita in mezzo al v.</E
+M>ma cipressi e cedri ... Perenne verde protendean su l’urne</E
+M>v. pubblico</E
+M>v. attrezzato</E
+M>v. privato</E
+M>destinare a verde una zona già destinata a insediamenti industriali</E
+M>protezione</E
+M>tutela del verde</E
+M>opere in verde</E
+M>operazioni in verde</E
+M>essere nel v. degli anni</E
+M>Mentre che la speranza ha fior del v.</E
+M>v. cromo</E
+M>v. smeraldo</E
+M>v. cromo misto</E
+M>v. di zinco</E
+M>v. di Schweinfurt</E
+M>v. malachite</E
+M>v. brillante</E
+M>v. solido</E
+M>verde rame</E
+M>v. antico</E
+M>v. del Bracco</E
+M>v. della Roia</E
+M>v. di Polcèvera</E
+M>di Prato</E
+M>di Susa</E
+M>di Varallo</E
+M>v. ranocchia</E
+M>ranocchiaia</E
+M>i Verdi</E
+M>Secchi</E
+M>prasini</E
+M>grün</E
+M>Grün</E
+M>partiti v.</E
+M>dei verdi</E
+M>iniziative</E
+M>manifestazioni v.</E
+M>dei v.</E
+M>l’elettorato v.</E
+M>la lista v.</E
+M>dei v.</E
+M>il gruppo parlamentare v.</E
+M>dei v.</E
+M>accordarsi con i v.</E

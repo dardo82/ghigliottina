@@ -1,0 +1,13 @@
+parroco.txt
+"parroco"
+"parroco anglicano"
+*[[curato]]
+*[[viceparroco]]
+M>parochus</E
+M>par</E
+M>chus</E
+M>parrocchia</E
+M>chi</E
+M>Quasi</E
+M>parroco</E
+M>quasi-parrocchia</E

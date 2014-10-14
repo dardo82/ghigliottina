@@ -1,0 +1,24 @@
+sofferenza.txt
+"sofferenza"
+"sofferenza emotiva"
+"sofferenza fisica"
+*[[afflizione]], [[dispiacere]], [[dolore]], [[male]], [[angoscia]], [[strazio]], [[supplizio]]
+*''(particiolarmente al plurale)'' [[pena]], [[tormento]], [[patimento]], [[tribolazione]], [[travaglio]], 
+*''(afflizione)'' [[consolazione]], [[sollievo]], [[conforto]]
+*[[gioia]], [[piacere]], [[felicità]]
+M>sufferentia</E
+M>suff</E
+M>rens -entis</E
+M>la sua s. mi fa pena</E
+M>non pensate alle s. di quella povera gente?</E
+M>la vita è una gran s.</E
+M>è tutta una sofferenza</E
+M>morì tra le più atroci s.</E
+M>una vita piena di sofferenze</E
+M>parendo tempo a Gualtieri di fare l&#8217;ultima pruova della sofferenza di costei</E
+M>questo è un volere provocare la mia sofferenza</E
+M>in sofferenza</E
+M>sofferenze</E
+M>cambiali</E
+M>tratte in s.</E
+M>il pagamento della seconda rata è in s. da più di un mese</E

@@ -1,0 +1,179 @@
+arma.txt
+"arma"
+"arma"
+"arma a doppio taglio"
+"arma a fuoco"
+"arma a recupero di gas"
+"arma automatica"
+"arma bianca"
+"arma da fuoco"
+"arma da fuoco"
+"arma da fuoco"
+"arma da fuoco"
+"arma da fuoco"
+"arma da fuoco"
+"arma da fuoco a carica frontale"
+"arma del genio"
+"arma impropria"
+"arma letale"
+"carica frontale (per arma da fuoco)"
+"colpito da arma da fuoco"
+"di arma a doppia efficacia"
+"scaricare colpi di arma da fuoco su qualcuno"
+"sotto tiro, sotto minaccia di arma da fuoco"
+* [[fucile]], [[pistola]], [[coltello]]
+* [[esercito]], [[milizia]]
+* [[armacollo]]
+* ''affilare le armi''
+* ''essere alle prime armi''
+* ''presentare le armi''
+* ''venire alle armi''
+* [[insigne]]
+* [[armamento]]
+* italiano
+* latino
+* napoletano
+* siciliano
+* spagnolo
+* turco
+M>arma</E
+M>armi</E
+M>arme</E
+M>bianche</E
+M>da difesa</E
+M>da fuoco</E
+M>portatili</E
+M>portatili individuali</E
+M>portatili collettive</E
+M>artiglieria</E
+M>armi a colpo singolo</E
+M>a ripetizione</E
+M>automatiche</E
+M>pneumatiche</E
+M>proprie</E
+M>improprie</E
+M>armi da botta</E
+M>armi da getto</E
+M>da lancio</E
+M>lanciatoie</E
+M>cortesi</E
+M>strategiche</E
+M>tattiche</E
+M>armi di saturazione</E
+M>subacquee</E
+M>nucleari</E
+M>chimiche</E
+M>batteriologiche</E
+M>Sistema d’arma</E
+M>apprendere l’uso</E
+M>il maneggio delle a</E
+M>impugnare l’a</E
+M>mettere mano all’a</E
+M>affilare le a</E
+M>presentare le a</E
+M>concedere l’onore delle a</E
+M>passare per le a</E
+M>passer par les armes</E
+M>fare</E
+M>mostrare il viso dell’arme</E
+M>in certe donne la lingua è un’a</E
+M>potente</E
+M>servirsi dell’a</E
+M>della maldicenza</E
+M>ricorrere all’a</E
+M>del ridicolo</E
+M>quella cambiale in mano sua era un’a</E
+M>pericolosa contro di me</E
+M>fare uso dell’a</E
+M>dello sciopero</E
+M>dell’a</E
+M>del ricatto</E
+M>il diritto non è sempre un’a</E
+M>bastante</E
+M>a doppio taglio</E
+M>dare un’a</E
+M>in mano a qualcuno</E
+M>levargli l’a</E
+M>di mano</E
+M>spirituali</E
+M>uomo d’arme</E
+M>d’armi</E
+M>io fui uom d’arme</E
+M>e poi fui cordigliero</E
+M>fatto d’armi</E
+M>piazza d’arme</E
+M>d’armi</E
+M>sala d’armi</E
+M>chiamare</E
+M>gridare all’armi</E
+M>gridare all’arme</E
+M>allarme</E
+M>gridare arme</E
+M>Pel campo</E
+M>arme</E
+M>arme risonar s’udia</E
+M>dare all’armi</E
+M>dare l’allarme</E
+M>non passò forse giorno</E
+M>che non si desse all’armi</E
+M>correre all’arme</E
+M>alle armi</E
+M>prendere le a</E
+M>venire</E
+M>ricorrere alle a</E
+M>mettere in armi un paese</E
+M>levarsi in armi</E
+M>stare con l’arme al piede</E
+M>star sulle a</E
+M>deporre</E
+M>posare</E
+M>abbassare</E
+M>rendere</E
+M>le a</E
+M>sospendere le a</E
+M>cantare le a</E
+M>Le donne</E
+M> i cavallier</E
+M> l’arme</E
+M> gli amori</E
+M> Le cortesie</E
+M> l’audaci imprese io canto</E
+M>Canto l’arme pietose e ’l Capitano Che ’l gran sepolcro liberò di Cristo</E
+M>essere alle prime a</E
+M>fare le prime a</E
+M>il mestiere delle a</E
+M>uomo atto alle a</E
+M>compagno d’armi</E
+M>fratello d’armi</E
+M>gente d’armi</E
+M>gendarme</E
+M>chiamare alle a</E
+M>essere sotto le armi</E
+M>la permanenza sotto le a.</E
+M> al tempo delle guerre sannitiche</E
+M> poteva arrivare a venti e anche più anni</E
+M>questi dominii</E
+M>acquistonsi o con le armi d’altri o con le proprie</E
+M>mercenarie</E
+M>ausiliarie</E
+M>leggere</E
+M>Società delle armi</E
+M>arma</E
+M>arma di fanteria</E
+M>di artiglieria</E
+M>del genio</E
+M>dei carabinieri</E
+M>l’a</E
+M>benemerita</E
+M>la benemerita</E
+M>l’arma</E
+M>congedato dall’a</E
+M>un maresciallo dell’a</E
+M>aeronautica</E
+M>azzurra</E
+M>dotte</E
+M>Corpo delle a</E
+M>navali</E
+M>armi</E
+M>arme</E
+M>arma o santo</E

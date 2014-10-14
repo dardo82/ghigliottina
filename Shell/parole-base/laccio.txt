@@ -1,0 +1,41 @@
+laccio.txt
+"laccio"
+"laccio"
+"laccio"
+"laccio del cappello che passa sotto il mento"
+"laccio di scarpa"
+"laccio di scarpa"
+"laccio per tende"
+"prendere con il laccio"
+M>*laqueus</E
+M>laceus</E
+M>lazo</E
+M>mettere il l</E
+M>al collo a qualcuno</E
+M>lazo</E
+M>lasso</E
+M>il l</E
+M>del carnefice</E
+M>non sono degni se non di un pubblico l</E
+M>i l</E
+M>del busto</E
+M>i l</E
+M>della cuffia</E
+M>i l</E
+M>delle scarpe</E
+M>allacciare</E
+M>emostatico</E
+M>Segno del l</E
+M>d’amore</E
+M>i dolci l</E
+M>d’amore</E
+M>Non fien da’ l</E
+M>sciolti Dell’antico sopor l’itale menti</E
+M>Ben io costretto in que’ soavi l</E
+M>tendere un l</E
+M>prendere</E
+M>cogliere al l</E
+M>cadere nel l</E
+M>il Saladino conobbe costui ottimamente esser saputo uscire del l</E
+M>il quale davanti a’ piedi teso gli aveva</E
+M>non che tutte le monache fossero congiurate a tirar la poverina nel l</E

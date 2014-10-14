@@ -1,0 +1,216 @@
+latte.txt
+"animale da latte"
+"avere ancora la bocca sporca di latte"
+"bianco latte"
+"bicchiere di latte"
+"bidone del latte"
+"cartone di latte"
+"centrale del latte"
+"cioccolato al latte"
+"crema di latte"
+"dente da latte"
+"dente da latte"
+"fa venire il latte ai gomiti"
+"far venire il latte alle ginocchia"
+"fattoria per la produzione del latte"
+"fattoria per la produzione del latte"
+"fette di pan carrè bagnate nell’uovo e nel latte e fritte sulla piastra"
+"fiocchi di latte"
+"fratello di latte"
+"intero (di latte)"
+"latte"
+"latte"
+"latte"
+"nome di bevande a base di latte"
+"latte"
+"liquido simile al latte"
+"latte al cioccolato"
+"latte al malto"
+"latte col 50% di panna"
+"latte condensato"
+"latte condensato"
+"latte della centrale"
+"latte detergente"
+"latte di cocco"
+"latte di magnesia"
+"latte di mandorle"
+"latte di tigre"
+"latte e menta"
+"latte e miele"
+"latte fresco"
+"latte gelato"
+"latte in polvere"
+"latte in polvere"
+"latte in polvere"
+"latte in polvere"
+"latte intero"
+"latte macchiato"
+"latte macchiato"
+"latte magro"
+"latte materno"
+"latte materno"
+"latte non pastorizzato"
+"latte pastorizzato"
+"latte scremato"
+"latte scremato"
+"latte scremato in polvere"
+"maialino di latte"
+"mettere il latte"
+"mucca da latte"
+"mucca da latte"
+"mucche da latte"
+"piangere sul latte versato"
+"produttore di latte"
+"produzione di latte"
+"scremare il latte"
+"serpente del latte"
+"siero del latte"
+"terra di latte e miele"
+"zuppa di molluschi e latte"
+#*''per non ingrassare bisogna mangiare fiocchi di latte o latte scremato''
+*''(di colore bianco)''[[latteo]]
+* (''liquido della noce di cocco'') [[latte di cocco]]
+*[[albero del latte]], [[allattamento]], [[allattare]], [[caffelatte]], [[lattaio]], [[lattante]],[[lattare]], [[lattamento]], [[latteo]], [[latteria]], [[latticino]], [[lattiera]], [[lattiginoso]], [[lattonzo]], [[lattonzolo]], [[lattosio]]
+* [[capezzolo]], [[mammella]], [[mungere]], [[vacca]]
+*''far venire il 
+*italiano
+M>lac lactis</E
+M>materno</E
+M>della mamma</E
+M>il l</E
+M>della balia</E
+M>succhiare il l</E
+M>dare il l</E
+M>levare il l</E
+M>nutrire a mezzo l</E
+M>prendere</E
+M>avere un mezzo l</E
+M>la discesa</E
+M>montata</E
+M>la piena</E
+M>colma</E
+M>la tornata del l</E
+M>far andare via</E
+M>mandare indietro il l</E
+M>le si è rimescolato</E
+M>le si è guastato il l</E
+M>sciolto</E
+M>acquoso</E
+M>denso</E
+M>nutriente</E
+M>stanco</E
+M>febbre del l</E
+M>febbre lattea</E
+M>linea del l</E
+M>linea lattea</E
+M>mammaria</E
+M>Denti di</E
+M> da</E
+M>fratelli di l</E
+M>figlio</E
+M>figliolo</E
+M> di l</E
+M>vitello</E
+M>maialino di l</E
+M>ha ancora il l</E
+M>alla bocca</E
+M>gli odora ancora la bocca di l</E
+M>puzza di l</E
+M>far venire il l</E
+M>alle ginocchia</E
+M>a sentirlo parlare</E
+M>fa venire il l</E
+M>alle ginocchia</E
+M>Succhiare col l</E
+M>ha succhiato col l</E
+M>l’amore per la libertà</E
+M>essere stato nutrito dal l</E
+M>delle Muse</E
+M>mare di latte</E
+M>vaccino</E
+M>di mucca</E
+M>latte</E
+M>alimentare</E
+M>latte</E
+M>di pecora</E
+M>di capra</E
+M>di bufala</E
+M>d’asina</E
+M>bere una tazza di l</E
+M>far bollire il l</E
+M>fare la cura del l</E
+M>scremato</E
+M>spannato</E
+M>parzialmente scremato</E
+M>crema del l</E
+M>fiore del l</E
+M>intero</E
+M>caffè e l</E
+M>e miele</E
+M>latte macchiato</E
+M>cioccolato al l</E
+M>il l</E
+M>dei vecchi</E
+M>centrale del l</E
+M>industria del l</E
+M>condensato</E
+M>evaporato</E
+M>fermentato</E
+M>omogeneizzato</E
+M>pastorizzato</E
+M>sterilizzato</E
+M>artificiale</E
+M>formulato</E
+M>maternizzato</E
+M>umanizzato</E
+M>adattato</E
+M>a lunga conservazione</E
+M>in polvere</E
+M>acido</E
+M>avere una pelle bianca come il l</E
+M>lamiera verniciata in bianco latte</E
+M>essere l</E
+M>e rosa</E
+M>e sangue</E
+M>Bianca nieve è il bel collo</E
+M>e ’l petto latte</E
+M>solo un velo Copriva il l</E
+M>delle belle membra</E
+M>il l</E
+M>azzurrino dell’opale è pieno di fuochi nascosti</E
+M>di strega</E
+M>brûlé</E
+M>alla portoghese</E
+M>crème-caramel</E
+M>di gallina</E
+M>sono così attaccati a quel figlio</E
+M>che lo allevano con l</E
+M>di gallina</E
+M>di gallina</E
+M>di vecchia</E
+M>il l</E
+M>dei fichi</E
+M>il l</E
+M>della lattuga</E
+M>di cocco</E
+M>di mandorle</E
+M>di soia</E
+M>di pesce</E
+M>del gozzo</E
+M>di calce</E
+M>di zolfo</E
+M>di bismuto</E
+M>di magnesia</E
+M>di resina</E
+M>di monte</E
+M>detergente</E
+M>di bellezza</E
+M>verginale</E
+M>Albero del l</E
+M>Brosimum galactodendron</E
+M>cera del l</E
+M>di gallina</E
+M>Ornithogalum umbellatum</E
+M>zucchero di l</E
+M>lattosio</E
+M>lattobiosio</E

@@ -1,0 +1,42 @@
+scultura.txt
+"scultura"
+"scultura"
+"scultura di carta"
+"scultura di ghiaccio"
+"scultura di metallo"
+"scultura di vetro"
+"scultura in terracotta"
+#* ''[[w
+#* ''quella 
+* (''arte, tecnica, attività'') [[statuaria]]
+* (''risultato dell'attività'') [[marmo]], [[statua]], [[bronzo]], [[busto]], [[altorilievo]], [[bassorilievo]], [[rilievo]]
+*[[scoltura]]
+*Enciclopedia [http
+M>sculptura</E
+M>sculptus</E
+M>sculp</E
+M>s. in pietra</E
+M>in marmo</E
+M>in avorio</E
+M>s. in legno</E
+M>s. in bronzo</E
+M>in rame</E
+M>s. greca</E
+M>s. ellenistica</E
+M>s. romana</E
+M>s. gotica</E
+M>s. contemporanea</E
+M>le s. delle età preistoriche</E
+M>s. barocca</E
+M>s. neoclassica</E
+M>s. impressionista</E
+M>scuola di s.</E
+M>maestro</E
+M>professore di scultura</E
+M>s. in cera</E
+M>in argilla</E
+M>una s. di Donatello</E
+M>una s. del Trecento</E
+M>un giardino pieno di brutte s. neoclassiche</E
+M>s. rocciosa</E
+M>alveolatura</E

@@ -1,0 +1,204 @@
+sacco.txt
+"a sacco"
+"al sacco"
+"avere un sacco di tempo; moltissimo tempo"
+"cogliere con le mani nel sacco"
+"colto con le mani nel sacco"
+"con le mani nel sacco"
+"Con le pive nel sacco"
+"da un sacco di tempo, da un'eternità, da un secolo"
+"divertirsi un sacco"
+"fa un sacco di storie"
+"filtro a sacco"
+"guadagnare un sacco"
+"messo al sacco"
+"mettere al sacco"
+"moltissimo, un mucchio, un sacco"
+"molto da fare con, un sacco da fare con, un mucchio da fare con"
+"non essere farina del proprio sacco"
+"pranzo al sacco"
+"sacco"
+"sacco"
+"contenuto di un sacco"
+"sacco"
+"sacco"
+"contenitore a forma di sacco"
+"sacco"
+"sacco"
+"sacco"
+"sacco (del pugile)"
+"sacco a pelo"
+"sacco da pugile"
+"sacco di cianfrusaglie"
+"sacco per i soldi"
+"sacco vitellino"
+"un mucchio di problemi, un sacco di problemi"
+"un sacco"
+"un sacco"
+"un sacco"
+"un sacco di"
+"un sacco di"
+"un sacco di"
+"un sacco di gente"
+"un sacco di menzogne"
+"un sacco di soldi"
+"un sacco e una sporta"
+"vuotare il sacco"
+*[[sacca]], [[borsa]], [[zaino]], [[tascapane]], [[bisaccia]]
+*[[saccheggio]], [[razzia]], [[ruberia]], [[scorreria]], [[incursione]], [[spoliazione]]
+*[[sacca]], [[saccheggiare]], [[sacchetto]], [[sacco a pelo]], [[sacco di tempo]], [[saccoccia]] , [[insaccare]]
+* ''buttare il 
+* ''vuotare il 
+*''Due noci in un 
+*''Non è farina del tuo sacco''
+M>saccus</E
+M>sáq</E
+M>-chi</E
+M>le sacca</E
+M>sacco</E
+M>vestimentum</E
+M>la bocca</E
+M>il fondo del s.</E
+M>un s. di grano</E
+M>di farina</E
+M>di fagioli</E
+M>di riso</E
+M>di caffè</E
+M>di carbone</E
+M>riempire</E
+M>chiudere</E
+M>legare</E
+M>cucire</E
+M>sciogliere</E
+M>aprire un s.</E
+M>caricare</E
+M>scaricare i s.</E
+M>tela di</E
+M>sacco</E
+M>ago da sacco</E
+M>carta per sacchi</E
+M>s. postali</E
+M>s. per la corrispondenza</E
+M>pieghi</E
+M>corrispondenza fuori sacco</E
+M>s. plastici</E
+M>corsa nel s.</E
+M>nei s.</E
+M>palio nei s.</E
+M>un s. di stracci</E
+M>un s. d&#8217;ossa</E
+M>vendere come</E
+M>per</E
+M>un sacco d&#8217;ossa</E
+M>a sacco d&#8217;ossa</E
+M>un s. di patate</E
+M>è un s.</E
+M>pare un s.</E
+M>ti sta come un s.</E
+M>a sacco</E
+M>a sacchetto</E
+M>linea a sacco</E
+M>farina del proprio s.</E
+M>ha fatto un bel tema</E
+M> ma non credo che sia tutta farina del suo s.</E
+M>mettere uno nel</E
+M>se la cosa avesse a decidersi a ciarle</E
+M> lei ci metterebbe in sacco</E
+M>Colmare il s.</E
+M>la tua città ch&#8217;è piena D&#8217;invidia sì che già trabocca il sacco</E
+M>L&#8217;avara Babilonia ha colmo il sacco D&#8217;ira di Dio</E
+M> e di vizii empii e rei</E
+M>Vuotare il s.</E
+M>dopo molte insistenze</E
+M> ha finalmente vuotato il s.</E
+M>hanno votato il s. stamattina coloro</E
+M>pensò don Abbondio</E
+M>Reggere</E
+M>tenere</E
+M>il s.</E
+M>Questa marmaglia che con vostro smacco Ruba a man salva</E
+M> e voi tenete il sacco</E
+M>tanto è ladro chi ruba che chi tiene il s.</E
+M>Cogliere</E
+M>essere còlto</E
+M>sorprendere</E
+M>essere sorpreso con le mani nel s.</E
+M>Agire</E
+M>operare</E
+M>fare le cose con la testa nel s.</E
+M>Tornare con le pive nel s.</E
+M>s. vuoto non sta ritto</E
+M>non dire quattro se non l&#8217;hai nel s.</E
+M>chi ha il grano non ha le sacca</E
+M> e chi ha le sacca non ha il grano</E
+M>abbiamo già consumato due s. di farina</E
+M>per l&#8217;inverno ci vorrà almeno un s. di patate.</E
+M>possiede un s. di soldi</E
+M>c&#8217;era un s. di gente per le strade</E
+M>gli ha fatto un s. di domande</E
+M>mi ha raccontato un s. di bugie</E
+M>ha preso un s. di botte</E
+M>gliene ha date</E
+M>dette</E
+M>un s.</E
+M>un s. e una sporta</E
+M>gli vuole un s. di bene.</E
+M>un s.</E
+M>mi piace un sacco. A sacchi</E
+M>a sacca</E
+M>essere vestito di sacco</E
+M>coprirsi di un rude sacco.</E
+M>S. da montagna</E
+M>s. alpino</E
+M>colazione</E
+M>pranzo al s.</E
+M>S. a pelo</E
+M>saccopelo</E
+M>saccoletto</E
+M>s. di piumino</E
+M>saccopiuma</E
+M>s. da bivacco</E
+M>S. di galleggiamento</E
+M>di flottazione</E
+M>S. della polvere</E
+M>punching bag</E
+M>mettere in s.</E
+M>nel s.</E
+M>riempirsi il s.</E
+M>aver pieno il s.</E
+M>La corata pareva</E
+M>e &#8217;l tristo sacco Che merda fa di quel che si trangugia</E
+M>Margutte</E
+M> ch&#8217;avea ancor ben pieno il sacco</E
+M> S&#8217;addormentò come affannato e stracco</E
+M>costava dieci sacchi.</E
+M>far sacco</E
+M>manica.</E
+M>fare il s.</E
+M>Cucitura a sacco</E
+M>muratura a sacco</E
+M>Vela a sacco</E
+M>sacco</E
+M>S. del siluro</E
+M>s. aerei</E
+M>s. auricolare</E
+M>sacculo</E
+M>s. endolinfatico</E
+M>s. golare</E
+M>laringeo</E
+M>s. urinario</E
+M>allantoide</E
+M>s. vitellino</E
+M>s. del tuorlo</E
+M>s. pollinico</E
+M>sacca pollinica</E
+M>s. embrionale</E
+M>il s. di Roma</E
+M>mettere</E
+M>mandare a sacco</E
+M>a s. e ruba</E
+M>dare il s.</E
+M>c&#8217;è qui vicino la casa del vicario di provvisione; andiamo a far giustizia</E
+M> e a dare il s.</E
+M>Sacchi di Carbone</E
+M>Coal Sacks</E

@@ -1,0 +1,60 @@
+salita.txt
+"corsa; gara in salita"
+"gara in salita"
+"in salita"
+"prezzi in salita"
+"salita"
+"salita"
+#*''Che '''salita''' faticosa!''
+#*''Abbiamo un grafico in '''salita'''.''
+#*''secondo la tradizione cristiana la [[Madonna]] è salita al [[w
+*[[scalata]], [[arrampicata]], [[ascesa]], [[ascensione]], [[innalzamento]], [[sollevamento]]
+*[[pendenza]], [[pendio]], [[scarpata]], [[costa]], [[versante]], [[erta]], [[rampa]]
+*''(ascesa)''  [[discesa]], [[abbassamento]]
+*''(pendenza)'' [[china]]
+:*[[magsalita]]
+*italiano
+* tagalog
+M>la s. del monte</E
+M>fare la s. a piedi</E
+M>prepararsi alla s.</E
+M>affrontare la s.</E
+M>la s. è durata un&#8217;ora</E
+M>la s. è stata dura</E
+M>l&#8217;ascensore si è bloccato durante la s.</E
+M>strada</E
+M>terreno in s.</E
+M>andare</E
+M>procedere in s.</E
+M>la s. alle più alte cariche</E
+M>la s. verso la fama</E
+M>gli onori</E
+M>il declino è stato rapido quanto la salita.</E
+M>s. in libera</E
+M>s. in solitaria</E
+M>s. in cordata</E
+M>s. in artificiale</E
+M>s. diretta</E
+M>s. in diagonale</E
+M>s. alle funi</E
+M>alle pertiche</E
+M>arrampicata</E
+M>corsa</E
+M>gara</E
+M>tappa in s.</E
+M>corsa automobilistica in s.</E
+M>all&#8217;inizio</E
+M>alla fine</E
+M>a metà della s.</E
+M>in cima</E
+M>in fondo alla s.</E
+M>dal cancello alla villa c&#8217;è una breve s.</E
+M>una s. leggera</E
+M>ripida</E
+M>dura</E
+M>faticosa</E
+M>Lo sol vi mosterrà</E
+M> che surge omai</E
+M> Prendere il monte a più lieve s.</E
+M>trasformatore in s.</E
+M>tempo di s.</E

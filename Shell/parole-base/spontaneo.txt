@@ -1,0 +1,58 @@
+spontaneo.txt
+"aborto spontaneo"
+"commento spontaneo"
+"facile, spontaneo, naturale"
+"non spontaneo"
+"unspontaneous"
+"spontaneo"
+"spontaneous, frank"
+"spontaneo"
+"spontaneo"
+"spontaneo"
+"volontario; spontaneo"
+M>spontaneus</E
+M>sponte</E
+M>una s. offerta di aiuto</E
+M>un gesto s. di solidarietà</E
+M>la sua adesione è stata s. e disinteressata</E
+M>all&#8217;ospite è stata rivolta una s. manifestazione di simpatia</E
+M>una protesta popolare s.</E
+M>di mia</E
+M>tua</E
+M>s. volontà</E
+M>ha dato le dimissioni di sua s. volontà</E
+M>vengo a testimoniare di mia s. volontà</E
+M> non perché mi abbia costretto qualcuno.</E
+M>un moto s. dell&#8217;animo</E
+M>avere una reazione s.</E
+M>un impeto s. di collera</E
+M>la sua commozione era s.</E
+M>lo accolse con s. cordialità.</E
+M>narrativa</E
+M>prosa</E
+M>poesia s.</E
+M>un&#8217;interpretazione scenica poco s.</E
+M>uno stile che sembra s.</E
+M> ma che è frutto di un lungo studio.</E
+M>una ragazza s. e cordiale</E
+M>l&#8217;ho trovato s.</E
+M> nella sua affettuosa premura</E
+M>non riesco a essere s. con le persone che non conosco.</E
+M>guarigione s.</E
+M>accensione</E
+M>combustione s.</E
+M>moto s.</E
+M>per inerzia</E
+M>piante s.</E
+M>generazione s.</E
+M>automatica</E
+M>variazione s.</E
+M>mutazione</E
+M>movimenti s.</E
+M>autonomi</E
+M>emissione s.</E
+M>emissione stimolata</E
+M>mi offrì spontaneamente il suo aiuto</E
+M>il testimone si è presentato spontaneamente alla polizia</E
+M>il corteo si è sciolto spontaneamente</E
+M>sono piante che crescono spontaneamente nelle zone temperate.</E

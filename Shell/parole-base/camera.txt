@@ -1,0 +1,229 @@
+camera.txt
+"bicicletta da camera"
+"camera"
+"camera"
+"camera"
+"camera"
+"camera"
+"camera a bolle"
+"camera a gas"
+"camera a gas"
+"camera a nebbia"
+"camera alta"
+"camera ardente"
+"camera ardente"
+"Camera Bassa"
+"camera bassa dell'assemblea legislativa della virginia"
+"camera bassa dell'assemblea legislativa di vari stati"
+"camera bassa; assemblea legislativa"
+"camera chiara"
+"camera lucida"
+"camera d'albergo, stanza d'albergo"
+"camera d'aria"
+"camera d'aria"
+"camera d'aria"
+"camera d'essiccazione"
+"camera da letto"
+"camera da letto"
+"camera da letto principale"
+"camera degli ospiti"
+"camera dei comuni"
+"camera dei Comuni"
+"Camera dei Comuni"
+"camera dei deputati"
+"Camera dei deputati irlandese"
+"camera dei giochi"
+"camera dei giurati"
+"camera dei lord"
+"Camera dei Lord"
+"camera dei malati"
+"Camera dei Rappresentanti"
+"camera dell'acqua"
+"camera di collaudo"
+"camera di combustione"
+"camera di combustione"
+"camera di commercio"
+"camera di commercio per giovani professionisti"
+"camera di consiglio"
+"camera di espansione"
+"camera di ionizzazione"
+"camera di ionizzazione"
+"camera di riverberazione"
+"camera di sicurezza"
+"camera doppia"
+"camera imbottita"
+"camera iperbarica"
+"camera legislativa"
+"camera matrimoniale"
+"camera doppia, hotel"
+"camera matrimoniale"
+"camera da letto padronale"
+"camera mortuaria"
+"camera mortuaria"
+"camera mortuaria"
+"camera oscura"
+"camera obscura"
+"camera oscura"
+"camera piena"
+"camera semiprivata"
+"camera singola"
+"camera stagna"
+"camera superiore"
+"candid camera"
+"candid camera"
+"della camera ad acqua"
+"della camera in comune"
+"essere esposto nella camera ardente"
+"gentile ospite le ricordiamo di liberare la camera"
+"la nuova proposta di legge e' all'esame della Camera"
+"musica da camera"
+"opera da camera"
+"orchestra da camera"
+"ottenere la parola (alla camera; in una riunione; ecc.)"
+"piccola camera da letto"
+"porre in una camera"
+"prenotare una camera"
+"Presidente della Camera dei Rappresentanti"
+"servizio in camera"
+"vestaglia da camera"
+"vestaglia, veste da camera"
+"veste da camera"
+* [[stanza]], [[vano]], [[locale]], [[ambiente]], [[sala]]
+*[[associazione]], [[ente]], [[assemblea]], [[consiglio]], [[confederazione]], [[unione]]
+*macchina fotografica, [[cinepresa]]
+*[[anticamera]]
+*italiano
+*inglese
+*francese
+M>cam</E
+M>cam</E
+M>da letto</E
+M>da pranzo</E
+M>da soggiorno</E
+M>un appartamento di tre c</E
+M>e cucina</E
+M>camera</E
+M>stanza</E
+M>d’albergo</E
+M>mobiliata</E
+M>affittare</E
+M>prendere in affitto una c</E
+M>prenotare</E
+M>riservare</E
+M>disdire la c</E
+M>matrimoniale</E
+M>la c</E
+M>degli ospiti</E
+M>fare</E
+M>rifare la c</E
+M>veste da c</E
+M>vestaglia</E
+M>acquistare una c</E
+M>da letto</E
+M>una nuova c</E
+M>da pranzo</E
+M>in stile Ottocento</E
+M>in stile moderno</E
+M>una c</E
+M>in noce</E
+M>in mogano</E
+M>maestro di c</E
+M>valletto di c</E
+M>musica da c</E
+M>servizio di c</E
+M>personale di c</E
+M>oscura</E
+M>di punizione</E
+M>semplice</E
+M>di rigore</E
+M>di sicurezza</E
+M>di sicurezza</E
+M>corazzata</E
+M>blindata</E
+M>sagrestia</E
+M>tesoro</E
+M>caveau</E
+M>d’ordini</E
+M>centrale d’ordini</E
+M>camere a gas</E
+M>cappella</E
+M>ardente</E
+M>mortuaria</E
+M>grande</E
+M>di levante</E
+M>di ponente</E
+M>della morte</E
+M>di accensione</E
+M>d’aria</E
+M>a bolle</E
+M>a scintille</E
+M>di Wilson</E
+M>a espansione</E
+M>a nebbia</E
+M>a canna</E
+M>di combustione</E
+M>di decompressione</E
+M>gas</E
+M>di lancio</E
+M>di mina</E
+M>fornello</E
+M>di piombo</E
+M>rigeneratrici</E
+M>di riposo</E
+M>di riposo del latte</E
+M>di scoppio</E
+M>di scoppio</E
+M>a bossolo</E
+M>a polvere</E
+M>del proietto</E
+M>oscura</E
+M>camera</E
+M>telecamera</E
+M>chiara</E
+M>lucida</E
+M>del dente</E
+M>camere dell’occhio</E
+M>anteriore</E
+M>posteriore</E
+M>di attrizione</E
+M>sala</E
+M>operatoria</E
+M>incubatrice</E
+M>sottostomatica</E
+M>di consiglio</E
+M>procedimento in c</E
+M>di consiglio</E
+M>di consiglio</E
+M>camera</E
+M>regia</E
+M>corso</E
+M>valuta di camera</E
+M>della Sommària</E
+M>dei conti</E
+M>apostolica</E
+M>Camera dominii papae</E
+M>del podestà</E
+M>ardente</E
+M>stellata</E
+M>Star Chamber</E
+M>dei mercanti</E
+M>del lavoro</E
+M>di commercio</E
+M>stanza</E
+M>di compensazione</E
+M>di liquidazione</E
+M>arbitrali</E
+M>alta</E
+M>dei Lord</E
+M>bassa</E
+M>dei Comuni</E
+M>Camere</E
+M>lo scioglimento delle C</E
+M>votazione a C</E
+M>riunite</E
+M>Senato</E
+M>Camera dei deputati</E
+M>Camera</E
+M>i membri della C</E
+M>le riunioni della C</E
+M>l’elezione della nuova C</E

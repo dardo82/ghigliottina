@@ -1,0 +1,18 @@
+autostop.txt
+"autostop"
+"fare l'autostop"
+"viaggiare con autostop"
+*[[fare l'autostop]]
+*[[autostoppista]]
+*[[w
+*[[w
+*[[autostoppeur]]
+*[[faire du stop]]
+*italiano
+*francese
+M>auto</E
+M>stop</E
+M>fare l’a</E
+M>viaggiare con l’autostop</E
+M>fare l’a</E
+M>chiedere l’a</E

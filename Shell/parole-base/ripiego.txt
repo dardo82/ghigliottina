@@ -1,0 +1,21 @@
+ripiego.txt
+"ripiego"
+"ripiego, replace: di ripiego"
+M>ghi</E
+M>cercare</E
+M>trovare un r</E
+M>improvvisato</E
+M>trovato lì per lì</E
+M>insufficiente</E
+M>inadatto</E
+M>pericoloso</E
+M>momentaneo</E
+M>fortunato</E
+M>indovinato</E
+M>si può provare</E
+M>ma è sempre un r</E
+M>è un uomo che vive di ripieghi</E
+M>di ripiego</E
+M>soluzione di r</E
+M>quest&#8217;anno la compagnia è formata con attori di r</E
+M>la squadra ha giocato con una formazione di ripiego</E

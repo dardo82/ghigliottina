@@ -1,0 +1,44 @@
+fallire.txt
+"essere destinato a fallire"
+"fallire"
+"fallire"
+"fallire"
+"fallire il bersaglio"
+"fallire miseramente"
+"fallire nel\/in"
+"fallire, non riscuotere successo"
+"fallire; andare in bancarotta"
+"fallire; andare in bancarotta"
+"fallire; avere la peggio"
+"fare fallinento; fallire"
+"ostacolare i piani di qc, far fallire i piani di qc"
+#*'' 
+*[[fare fiasco]], [[sbagliare]], [[mancare]], [[fare cilecca]]
+*[[riuscire]], [[farcela]], [[andare a segno]]
+*[[fallare]], [[fallabile]], [[fallimentare]], [[fallimento]], [[fallito]], [[fallo]]
+M>fall</E
+M>io fallisco</E
+M>tu fallisci</E
+M>avere</E
+M>Fallir forse non fu di scusa indegno</E
+M>essere</E
+M>alle promesse</E
+M>all’aspettazione</E
+M>all’attesa</E
+M>poi che forse li fallìa la lena</E
+M>tutte le sue speranze sono fallite</E
+M>sforzi destinati a f</E
+M>le trattative sono fallite</E
+M>ha fallito nel suo tentativo di scalare tutti gli ottomila della Terra</E
+M>essere</E
+M>commerciante costretto a f</E
+M>la ditta è fallita</E
+M>è andato fallito per la sua imprevidenza</E
+M>il colpo</E
+M>ha tirato molte volte senza mai f</E
+M>la palla</E
+M>fallirsi</E
+M>un industriale fallito</E
+M>l’albo dei falliti</E
+M>è un fallito</E
+M>dichiararsi fallito</E

@@ -1,0 +1,37 @@
+tartaruga.txt
+"guscio di tartaruga"
+"guscio di tartaruga"
+"tartaruga"
+"tartaruga"
+"tartaruga"
+"tartaruga d'acqua dolce"
+"tartaruga dipinta"
+"tartaruga embricata"
+"tartaruga finta"
+"tartaruga gigante"
+"tartaruga gopher"
+"tartaruga liuto"
+"tartaruga marina"
+"tartaruga marina"
+"tartaruga verde"
+"zuppa di tartaruga"
+*''(persona lenta)'' [[lumaca]]
+*italiano
+M>testuggine</E
+M>scudo</E
+M>piastrone</E
+M>becco</E
+M>t. marina comune</E
+M>Caretta caretta</E
+M>t. verde</E
+M>Chelonia mydas</E
+M>t. liuto</E
+M>dermochelide</E
+M>Dermochelys coriacea</E
+M> affretta il passo: cammini come una t.!</E
+M>questo treno è una t.</E
+M> non si arriva mai.</E
+M>Chelone mydas</E
+M>brodo</E
+M>zuppa di tartaruga.</E
+M>colore t.</E

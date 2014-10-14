@@ -1,0 +1,111 @@
+risolvere.txt
+"caso semplice da risolvere"
+"chi vuole risolvere i problemi del mondo"
+"difficile da risolvere"
+"risolvere"
+"risolvere"
+"risolvere"
+"risolvere, replace: risolversi"
+"risolvere combattendo"
+"risolvere le divergenze"
+"risolvere qcs, mettere a posto qcs"
+"risolvere qualcosa, mettere a posto qualcosa"
+"risolvere un contratto"
+"risolvere, sistemare"
+*''(un problema, un dubbio, eccetera)'' [[chiarire]], [[spiegare]], [[sciogliere]], [[decifrare]]
+*[[decidere]], [[definire]], [[stabilire]], [[deliberare]], [[determinare]]
+*''(un contratto, eccetera)'' [[cancellare]], [[eliminare]], [[estinguere]], [[invalidare]], [[rescindere]], [[annullare]], [[troncare]]
+*''(una lite, eccetera)'' [[dirimere]], [[appianare]], [[stemperare]]
+*''(un solido)'' [[dissolvere]], [[disciogliere]]
+*''(un problema, un dubbio, eccetera)'' lasciare in sospeso
+*[[rinviare]], [[prorogare]]
+*''(un contratto, eccetera)'' [[confermare]]
+*[[risolversi]], [[risolubile]], [[risolutezza]], [[risolutivo]], [[risolutore]], [[risoluzione]], [[risolversi]], [[risolvibile]]
+M>resolv</E
+M>solv</E
+M>io risòlvo</E
+M>risolvéi</E
+M>risolvètti</E
+M>risòlsi</E
+M>risolvésti</E
+M>risolvé</E
+M>risolvètte</E
+M>risòlse</E
+M>risolvérono</E
+M>risolvèttero</E
+M>risòlsero</E
+M>risoluto</E
+M>risòlto</E
+M>un composto nei suoi elementi</E
+M>un corpo nelle sue molecole</E
+M>un numero intero in frazioni</E
+M>strumento ottico che risolve i più minuti dettagli di un oggetto</E
+M>un dubbio</E
+M>una questione</E
+M>una faccenda intricata</E
+M>un affare spinoso</E
+M>una lite</E
+M>la questione si è risolta con soddisfazione di ambedue le parti</E
+M>in un nulla di fatto</E
+M>un indovinello</E
+M>un enigma</E
+M>una sciarada</E
+M>nella costruzione della cupola di S. Maria del Fiore Brunelleschi risolse i problemi statici con un sistema di centine</E
+M>qui risolveremo con una tenda</E
+M>con degli armadî a muro</E
+M>e qui come risolviamo?</E
+M>due o tremila euro risolvono poco</E
+M>non risolvono nulla</E
+M>ha buona volontà ma risolve poco</E
+M>in tutto questo tempo non ha risolto niente</E
+M>un problema</E
+M>un&#8217;equazione</E
+M>un sistema di equazioni</E
+M>un triangolo</E
+M>un contratto</E
+M>non so che r</E
+M>non ha ancora risolto nulla</E
+M>risolvemmo di partire</E
+M>di accogliere la sua proposta</E
+M>di lasciarlo fare</E
+M>mi sono risolto a invitarlo</E
+M>a parlargli</E
+M>a fare ciò che mi ha detto</E
+M>ci risolvemmo di andare a Milano</E
+M>di chiedere un prestito</E
+M>abbiamo discusso anche troppo</E
+M>ora bisogna risolversi</E
+M>risolviti presto</E
+M>chi tosto si risolve</E
+M>tardi si pente</E
+M>non mi so r</E
+M>a dirglielo</E
+M>a denunciarlo</E
+M>che</E
+M>veduto che non marciva</E
+M>mi risolsi che di animale che prima era</E
+M>fosse convertito in pianta</E
+M>Se tosto grazia resolva le schiume Di vostra coscïenza</E
+M>risolversi</E
+M>queste dense nubi si risolveranno presto in un acquazzone</E
+M>la fitta nebbia si veniva risolvendo in una minuta pioggerella</E
+M>mancava poco alla sera</E
+M>e il tempo pareva sempre più vicino a risolversi</E
+M>risolversi in</E
+M>la sua gioia si è risolta in pianto</E
+M>il litigio poteva risolversi in una tragedia</E
+M>è una fanfaronata che si risolverà in nulla</E
+M>temo che la situazione si risolva in un danno per tutti</E
+M>ringraziamo Iddio che tutto si è risolto in bene</E
+M>la faccenda si è risolta a tuo vantaggio</E
+M>a nostro favore</E
+M>danno</E
+M>risolversi</E
+M>l&#8217;ascesso si è risolto da sé</E
+M>la sua polmonite</E
+M>i risolverà in una settimana</E
+M>avere</E
+M>l&#8217;accordo dissonante di 7</E
+M>di dominante risolve sull&#8217;accordo di tonica</E
+M>risolto</E
+M>risoluto</E

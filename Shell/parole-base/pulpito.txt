@@ -1,0 +1,24 @@
+pulpito.txt
+"da che pulpito vien la predica!"
+"il pulpito"
+"pulpito"
+"pulpito"
+"pulpito"
+M>pulp</E
+M>tum</E
+M>un p</E
+M>di legno</E
+M>di pietra</E
+M>di marmo</E
+M>un p</E
+M>artisticamente scolpito; il p</E
+M>di Nicola Pisano nel Duomo di Siena</E
+M>predicare dal pulpito</E
+M>montare</E
+M>salire in p</E
+M>sul p</E
+M>senti un po&#8217; da che p</E
+M>viene la predica!</E
+M>di comando</E
+M>di controllo</E
+M>battagliola</E

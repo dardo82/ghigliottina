@@ -1,0 +1,24 @@
+pomeriggio.txt
+"buon pomeriggio"
+"pasto leggero nel tardo pomeriggio che sostituisce la cena"
+"pomeriggio"
+"questo pomeriggio"
+"questo pomeriggio"
+"spuntino del pomeriggio; merenda"
+*ore pomeridiane, dopo pranzo
+*[[mattino]]
+*[[pomeridiano]]
+*italiano
+M>pomeridiano</E
+M>meriggio</E
+M>le ore del p</E
+M>un caldo p</E
+M>d&#8217;estate</E
+M>nel primo</E
+M>nel tardo p</E
+M>gli appuntamenti</E
+M>gli spettacoli</E
+M>le trasmissioni del p</E
+M>ci vado tutti i p</E
+M>il dottore riceve il p</E
+M>ci vedremo nel p</E

@@ -1,0 +1,73 @@
+fabbricare.txt
+"fabbricare"
+"fabbricare"
+"fabbricare"
+"macchina per fabbricare il pizzo"
+#*'' ha fabbricato un sacco di bugie''
+*[[costruire]], [[fare]], [[produrre]],[[ edificare]], [[confezionare]]
+*[[prefabbricare]], [[fabbricativo]], [[fabbricato]], [[fabbricabile]]
+M>fabricare</E
+M>fabr</E
+M>io fàbbrico</E
+M>tu fàbbrichi</E
+M>case</E
+M>palazzi</E
+M>ville</E
+M>chiese</E
+M>costruire una casa</E
+M>un palazzo</E
+M>una villa</E
+M>edificare</E
+M>innalzare</E
+M>erigere una chiesa</E
+M>cominciare a f</E
+M>smettere di f</E
+M>chiedere</E
+M>negare</E
+M>ottenere</E
+M>il permesso di f</E
+M>è una zona in cui s’è fabbricato molto in questi ultimi anni</E
+M>chi si mette a f</E
+M>sa dove comincia e non dove finisce</E
+M>motori</E
+M>attrezzi agricoli</E
+M>mobili</E
+M>mattoni</E
+M>giocattoli</E
+M>tessuti</E
+M>scarpe</E
+M>valigie</E
+M>saponi</E
+M>detersivi</E
+M>vernici</E
+M>biscotti</E
+M>cioccolatini</E
+M>fabbrica</E
+M>fabbricazione</E
+M>fabbriche</E
+M>mobilificio</E
+M>calzaturificio</E
+M>fuochi d’artificio</E
+M>banconote false</E
+M>fabbricarsi</E
+M>fabbricarsi una scala a pioli</E
+M>s’è fabbricato un ingegnoso carrettino semovente</E
+M>ho pensato di fabbricarmi da me un bel burattino di legno</E
+M>una bambola di cenci</E
+M>dinanzi alla spelonca Fabrica di sua man quasi una siepe</E
+M>il ragazzo era fatto con coscienza</E
+M>come se ne fabbricano ancora ad Aci Trezza</E
+M>gironzare le ore colle ore fabbricando castelli in aria</E
+M>menzogne</E
+M>frodi</E
+M>notizie allarmanti</E
+M>un castello di calunnie fabbricato con arte maligna</E
+M>fabbricarsi da sé la propria fortuna</E
+M>la propria felicità</E
+M>infelicità</E
+M>la volontà è la macchina con cui gli uomini fabbricano il loro avvenire</E
+M>avere</E
+M>un cavallo fabbrica</E
+M>navi fabbricate</E
+M>fabricated</E
+M>murato</E

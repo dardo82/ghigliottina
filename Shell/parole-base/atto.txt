@@ -1,0 +1,90 @@
+atto.txt
+"all'atto della firma"
+"atto"
+"adatto, adeguato"
+"atto"
+"atto"
+"atto"
+"atto con effetto giuridico"
+"atto"
+"atto, atti"
+"atto, atti"
+"atto a pulire le armi da fuoco"
+"atto a pulirsi le mani"
+"atto amministrativo"
+"atto costitutivo"
+"atto d'amore"
+"atto di citazione"
+"atto di citazione (in giudizio)"
+"atto di clemenza"
+"atto di colpire"
+"atto di contrizione"
+"atto di fede"
+"atto di forza"
+"atto di gentilezza"
+"atto di guerra"
+"atto di mancanza di rispetto"
+"atto di matrimonio"
+"atto di nascita"
+"atto di nazionalità di una nave"
+"atto di portare via a forza, contro la volontà"
+"atto di prova"
+"atto di risposta"
+"atto di rubare"
+"atto di vendita"
+"atto di violenza"
+"atto di violenza; omicidio; assassinio"
+"atto dovuto"
+"atto eroico"
+"atto esecutivo"
+"atto ipotecario"
+"atto legislativo"
+"atto notarile"
+"atto notarile"
+"atto notorio"
+"atto o bene depositato presso terzi"
+"atto penale"
+"atto sessuale"
+"atto tre"
+"atto vandalico"
+"atto violento"
+"commedia di un solo atto"
+"dare atto"
+"essere in atto"
+"in atto"
+"in un atto"
+"l'atto del districarsi"
+"l'atto di arrivare in un posto senza avvisare"
+"l'atto di cedere; di dare la precedenza; di lasciare il passo a"
+"l'atto di cessare; di rinunciare"
+"l'atto di dare alla luce; di partorire"
+"l'atto di restituire; di ripagare"
+"l'atto di smettere; di rinunciare"
+"messa in atto"
+"mettere in atto"
+"nell'atto di"
+"notificare un atto"
+"prendere atto"
+"prendere atto di"
+"tradurre in atto"
+"ultimo atto"
+#*''atto al servizio civile''
+#*''ha compiuto un atto di viltà''
+#*''[[w
+#*''Si recò dal [[notaio]] per firmare un atto''
+*''(aggettivo)'' dal [[latino]] ''[[aptus]]''
+*''sostantivo''  dal [[latino]] ''[[actus]]''che deriva da ''[[agĕre]]ì'' cioè "[[spingere]], [[agire]]"
+*[[adatto]], [[idoneo]], [[capace]], [[abile]], [[conveniente]], [[adeguato]], [[appropriato]], [[confacente]]
+*[[azione]], [[gesto]], [[atteggiamento]], [[opera]], [[impresa]], manifestazione di volontà, [[fatto]],   [[operazione]] 
+*[[comportamento]], [[movimento]]
+*[[documento]], [[contratto]], [[accordo]], [[certificato]], [[attestato]], [[scrittura]]; [[dichiarazione]], [[attestazione]], [[dimostrazione]], [[espressione]], [[manifestazione]], [[documentazione]], [[archivio]], [[resoconto]]
+*[[inadatto]], [[inadeguato]], [[sconveniente]], [[disadatto]],  [[inidoneo]], [[inabile]]
+M>etto</E
+M>cerbiatto</E
+M> lupatto</E
+M>buratto</E
+M> mulatto</E
+M>attolo</E
+M>olo</E
+M>giocattolo</E
+M> scoiattolo</E

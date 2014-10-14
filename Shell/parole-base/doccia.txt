@@ -1,0 +1,53 @@
+doccia.txt
+"cabina doccia"
+"ciabatte da doccia"
+"doccia"
+"doccia"
+"locale, cabina con doccia"
+"doccia"
+"doccia"
+"doccia calda"
+"doccia fredda"
+"doccia scozzese"
+"fare la doccia"
+"fare una doccia"
+"farsi la doccia"
+"farsi una doccia"
+"maniglia della doccia o della vasca da bagno"
+"piatto doccia"
+"tenda da doccia"
+*[[tubo]], [[condotto]], [[gronda]], [[grondaia]], [[doccione]]
+* [[doccione]],  [[sdocciare]]
+* [[acqua]],  [[asciugamano]],  [[getto]],  [[rubinetto]],  [[sapone]],  [[shampoo]]
+:* ''subire una [[doccia_fredda|
+:* ''subire una [[doccia_scozzese|
+M>grondaia</E
+M>Non corse mai sì tosto acqua per doccia A volger ruota di molin terragno</E
+M>valliva</E
+M>carsiche</E
+M>ossea</E
+M>esofagea</E
+M>neurale</E
+M>primitiva</E
+M>fare la d</E
+M>farsi una d</E
+M>una bella d</E
+M>fredda</E
+M>tiepida</E
+M>calda</E
+M>scozzese</E
+M>le notizie arrivavano come una d</E
+M>scozzese</E
+M>sottoporre a una d</E
+M>scozzese</E
+M>a pioggia</E
+M>cambiare</E
+M>far riparare la d</E
+M>a telefono</E
+M>fredda</E
+M>quell’informazione è stata per lui una d</E
+M>fredda</E
+M>avere bisogno di una d</E
+M>fredda</E
+M>Inserzione a doccia</E
+M>Lama a doccia</E

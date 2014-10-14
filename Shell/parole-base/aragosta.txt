@@ -1,0 +1,11 @@
+aragosta.txt
+"aragosta"
+M>loc</E
+M>sta</E
+M>a locusta</E
+M>Palinurus vulgaris</E
+M>piastrelle colore a</E
+M>camicetta di un bell’a</E
+M>chiaro</E
+M>quest’anno l’a</E
+M>è di moda</E

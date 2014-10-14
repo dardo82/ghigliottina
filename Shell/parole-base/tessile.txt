@@ -1,0 +1,27 @@
+tessile.txt
+"con molti fili per pollice quadrato (tessile)"
+"ingegneria tessile"
+"tessile"
+"tessile"
+#*'''industria tessile'''
+#*'''ingegneria tessile'''
+* [[tessitore]], operaio tessile
+*[[tessuto]], [[stoffa]]
+M>l&#8217;arte</E
+M>la tecnica t.</E
+M>prodotti t.</E
+M>materiali t.</E
+M>fibre t.</E
+M>naturali</E
+M>animali</E
+M>vegetali</E
+M>artificiali</E
+M>sintetiche</E
+M>piante t.</E
+M>industria t.</E
+M>operai</E
+M>impiegati tessili.</E
+M>la categoria dei t.</E
+M>i t. in agitazione.</E
+M>negozio di tessili</E
+M>mostra del tessile.</E

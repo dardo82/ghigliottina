@@ -1,0 +1,44 @@
+pollice.txt
+"ciucciarsi il pollice"
+"con molti fili per pollice quadrato (tessile)"
+"evviva!; pollice in su; approvazione"
+"fino a un pollice"
+"mezzo pollice"
+"pollice"
+"pollice"
+"pollice in giù, disapprovazione"
+"pollice in giù, disapprovazione"
+"pollice quadrato"
+"pollice verde"
+"quarto di pollice"
+"tra pollice e indice"
+"unghia del pollice"
+*dito grosso, primo dito
+*'' Avere il '''pollice''' verde''
+*italiano
+M>pollex -l</E
+M>cis</E
+M>il dito pollice</E
+M>girare</E
+M>girarsi</E
+M>i p.</E
+M>dare il colpo di p</E
+M>modellare la cera</E
+M>la creta a colpi di pollice</E
+M>avere il p. verde</E
+M>green thumb</E
+M>colpo di p</E
+M>pollice</E
+M>alluce</E
+M>dito grosso</E
+M>inch</E
+M> (un televisore da 26 pollici</E
+M> da 26</E
+M> il p. circolare</E
+M>p. quadrato</E
+M>p. cubo</E
+M>p. d&#8217;acqua</E
+M>p. di mercurio</E
+M>non muoversi</E
+M>non indietreggiare di un pollice</E
+M>arpione</E

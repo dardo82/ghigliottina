@@ -1,0 +1,67 @@
+gabinetto.txt
+"asse del gabinetto"
+"carta da gabinetto"
+"gabinetto"
+"gabinetto"
+"gabinetto"
+"gabinetto a serbatoio d'acqua, water closet"
+"gabinetto all'aperto"
+"gabinetto alla turca"
+"Gabinetto Ombra"
+"gabinetto pubblico"
+"gabinetto pubblico"
+"membro del gabinetto"
+"scopino del gabinetto"
+"tazza del gabinetto"
+"water closet, gabinetto con serbatoio ad acqua"
+*[[capogabinetto]] 
+M>cabinet</E
+M>cabine</E
+M>mentre l’arcivescovo se ne stava a studiare in un g</E
+M>segreto</E
+M>ecco si vide dinanzi agli occhi l’amico</E
+M>fu condotta nel g</E
+M>della principessa</E
+M>per essere</E
+M>sotto la sua direzione</E
+M>pettinata e rivestita</E
+M>stipo</E
+M>di decenza</E
+M>gabinetto</E
+M>andare al g</E
+M>chiudersi nel g</E
+M>da bagno</E
+M>dentistico</E
+M>radiologico</E
+M>oculistico</E
+M>il g</E
+M>dell’avvocato</E
+M>del notaio</E
+M>fotografico</E
+M>studio fotografico</E
+M>formato gabinetto</E
+M>il g</E
+M>di fisica</E
+M>di chimica</E
+M>di scienze naturali</E
+M>di lettura</E
+M>capo di g</E
+M>istanza di g</E
+M>guerra di g</E
+M>ordine di g</E
+M>politica di g</E
+M>Ricasoli</E
+M>Rattazzi</E
+M>Giolitti</E
+M>la formazione di un nuovo g</E
+M>rimpasto del g</E
+M>crisi di g</E
+M>di coalizione</E
+M>d’affari</E
+M>corriere di g</E
+M>consiglio di g.</E
+M>il g</E
+M>di Parigi</E
+M>di Vienna</E
+M>nero</E
+M>cabinet noir</E

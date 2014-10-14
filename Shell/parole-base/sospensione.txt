@@ -1,0 +1,93 @@
+sospensione.txt
+"in sospensione"
+"interruzione, sospensione"
+"ponte a sospensione"
+"sospensione"
+"sospensione"
+"sospensione"
+"sospensione"
+"sospensione"
+"sospensione"
+"sospensione"
+"sospensione"
+"sospensione"
+"sospensione ad aria"
+"tempo di sospensione"
+"tiro in sospensione"
+*[[intervallo]], [[pausa]]
+M>suspensio -onis</E
+M>suspensus</E
+M>suspend</E
+M>lampada a s.</E
+M>sospensione</E
+M>esercizî in s.</E
+M>di s.</E
+M>dalla sospensione.</E
+M>fune di s.</E
+M>complesso delle funi di s.</E
+M>sospensione</E
+M>S. interna</E
+M>trasporto per s.</E
+M>trasporto per saltazione</E
+M>s. grossolane</E
+M>s. colloidali</E
+M>s. di un pendolo</E
+M>punto di s.</E
+M>filo di s.</E
+M>sospensione</E
+M>s. monofilare</E
+M>s. bifilare</E
+M>sospensioni per autoveicoli</E
+M>s. anteriore</E
+M>s. posteriore</E
+M>s. a triangolo oscillante</E
+M>s. a parallelogramma articolato.</E
+M>s. dei lavori</E
+M>di un lavoro</E
+M>proporre la s. della seduta</E
+M>chiedere la s. della gara</E
+M>dell&#8217;incontro</E
+M>riprendere la cura dopo una s. di due giorni</E
+M>s. degli assegni</E
+M>dei pagamenti</E
+M>s. della prestazione</E
+M>s. dell&#8217;atto amministrativo</E
+M>s. condizionale della pena</E
+M>s. del dibattimento</E
+M>s. del processo</E
+M>s. necessaria</E
+M>s. consensuale</E
+M>s. facoltativa</E
+M>s. d&#8217;armi</E
+M>tregua</E
+M>s. del giudizio</E
+M>prima di proseguire</E
+M> fece una breve s.</E
+M> schiarendosi la gola</E
+M>dopo averle fatto più d&#8217;una volta giurare che non fiaterebbe</E
+M> finalmente</E
+M> con molte s.</E
+M> con molti ohimè</E
+M>le raccontò il miserabile caso</E
+M>reticenza</E
+M>aposiopesi</E
+M>punti</E
+M>puntini</E
+M>di sospensione</E
+M>il principe era stato fino allora in una s. molto penosa: a quella notizia</E
+M> respirò</E
+M>s. d&#8217;animo</E
+M>stare con l&#8217;animo sospeso</E
+M>s. dall&#8217;esercizio di una professione</E
+M>di un&#8217;arte</E
+M>s. dall&#8217;esercizio della patria potestà</E
+M>s. dalla qualifica</E
+M>s. cautelare</E
+M>s. dalle lezioni</E
+M>sospensione</E
+M>dare</E
+M>infliggere una s.</E
+M>15 giorni di s.</E
+M>una s. di 15 giorni.</E
+M>s. a divinis</E
+M>s. di classe</E

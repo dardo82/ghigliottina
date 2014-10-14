@@ -1,0 +1,73 @@
+caduta.txt
+"ascesa e caduta"
+"caduta"
+"caduta"
+"caduta"
+"caduta"
+"caduta del governo"
+"caduta dell'uomo"
+"caduta delle foglie"
+"caduta di stile"
+"caduta di un dente"
+"caduta libera"
+"caduta libera"
+"caduta libera"
+"l'ascesa e la caduta"
+"la scelta è caduta su"
+"linea di caduta"
+"rovina, caduta"
+#*'' la caduta dalle scale'' 
+#*''la caduta della giunta comunale''
+*[[capitombolo]], [[ruzzolone]] 
+*[[capitolazione]], [[resa]]; [[rovina]], [[istruzione]]
+*[[aumento]], [[conservazione]]
+*[[ricaduta]]
+M>cadere</E
+M>caduto</E
+M>ha fatto una brutta c</E
+M>dalla bicicletta</E
+M>una c</E
+M>da cavallo</E
+M>dalla scala</E
+M>dal tetto della casa</E
+M>la c</E
+M>delle foglie</E
+M>dei denti</E
+M>dei capelli</E
+M>di un fulmine</E
+M>della pioggia</E
+M>della grandine</E
+M>una c</E
+M>d’acqua</E
+M>cascata</E
+M>la c</E
+M>di un muro</E
+M>corismo</E
+M>cascola</E
+M>la mancanza di viveri affrettò la c</E
+M>della città</E
+M>di una dinastia</E
+M>di una monarchia</E
+M>di un ministero</E
+M>la c</E
+M>dell’Impero romano</E
+M>la c</E
+M>di Napoleone</E
+M>la c</E
+M>della commedia fu clamorosa</E
+M>la c</E
+M>di Adamo ed Eva</E
+M>chiese perdono a Dio delle sue frequenti cadute</E
+M>le ricadute son peggio delle c</E
+M>angolo di c</E
+M>d’acqua</E
+M>naturale</E
+M>totale</E
+M>d’ala</E
+M>c. dei gravi</E
+M>di tensione</E
+M>di potenziale</E
+M>termica</E
+M>Consoli alle c</E
+M>signori delle c</E
+M>Cadute</E

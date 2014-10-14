@@ -1,0 +1,7 @@
+pettirosso.txt
+"pettirosso"
+*[[uccello]]
+M>petto</E
+M>rosso</E
+M>Erithacus rubecola</E
+M>passerotto</E

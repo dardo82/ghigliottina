@@ -1,0 +1,126 @@
+attenzione.txt
+"Alla cortese attenzione"
+"alla cortese attenzione di"
+"attenzione"
+"attenzione al dettaglio"
+"attenzione costante"
+"attenzione diretta a"
+"attenzione discontinua"
+"attenzione materna"
+"attenzione meticolosa"
+"attenzione selettiva"
+"attenzione totale"
+"attirare l'attenzione"
+"attirare l'attenzione"
+"attirare l'attenzione"
+"attirare l'attenzione"
+"attirare l'attenzione di"
+"avere una soglia di attenzione limitata"
+"carpire l'attenzione"
+"centro dell'attenzione"
+"centro dell'attenzione"
+"centro dell'attenzione"
+"che attira attenzione"
+"che attira l'attenzione"
+"che attira l'attenzione"
+"che prende l'attenzione"
+"che presta attenzione"
+"che presta attenzione"
+"completa attenzione"
+"con attenzione"
+"con attenzione"
+"con grande attenzione"
+"concentrare l'attenzione su"
+"curva dell'attenzione"
+"dare attenzione"
+"dirigere la propria attenzione su qualcosa"
+"disordine da deficit dell'attenzione"
+"distogliere l'attenzione"
+"distogliere l'attenzione da"
+"estrema attenzione"
+"far passare qcs come non importante, sviare l'attenzione"
+"fare attenzione"
+"fare attenzione"
+"fare attenzione"
+"fare attenzione a"
+"fare attenzione a"
+"fare attenzione a"
+"fare attenzione al gradino"
+"fare attenzione alla linea"
+"gridare per richiamare l'attenzione"
+"intrattenimento per attirare l'attenzione"
+"inviare qualcosa alla cortese attenzione di"
+"leggere con attenzione"
+"meritare attenzione"
+"non prestare attenzione"
+"non prestare attenzione"
+"non prestare attenzione a"
+"porre grande attenzione a"
+"porre particolare attenzione a"
+"portare all'attenzione di qn"
+"prestare attenzione"
+"prestare attenzione"
+"prestare attenzione a"
+"prestare attenzione a"
+"prestare attenzione alle minuzie"
+"prestare molta attenzione"
+"prestare particolare attenzione"
+"prestare troppa attenzione"
+"richiamare attenzione su qc"
+"richiamare l'attenzione"
+"richiamare l'attenzione di qcn"
+"richiamare l'attenzione su"
+"richiamare l'attenzione su qualcosa"
+"richiedere attenzione"
+"rivolgere la propria attenzione a"
+"rivolgere un'attenzione speciale a"
+"rubare la scena, monopolizzare l'attenzione"
+"segnale di avviso, di attenzione"
+"senza attenzione"
+"senza attenzione"
+"spostare con attenzione"
+"tener viva l'attenzione"
+"tutta la tua attenzione"
+"volgere l'attenzione verso"
+*[[concentrazione]], [[impegno]], [[applicazione]], [[considerazione]], [[interesse]], [[tensione]], [[studio]], [[riflessione]]
+*[[prudenza]], [[cautela]], [[cura]], [[diligenza]]
+*''(nel fare qualcosa)''  [[scrupolosità]], [[precisione]], [[zelo]]
+*  [[accortezza]]
+* ''(al plurale)''[[gentilezza]], [[riguardo]], [[premura]], [[cortesia]]
+*[[disattenzione]],[[ distrazione]], [[sbadataggine]], [[disinteresse]]
+*[[negligenza]], [[trascuratezza]], [[incuria]]
+*[[imprudenza]], [[sventatezza]]
+M>attentio</E
+M>onis</E
+M>attend</E
+M>sensoriale</E
+M>rappresentativa</E
+M>interna</E
+M>intellettuale</E
+M>viva</E
+M>intensa</E
+M>scarsa</E
+M>debole</E
+M>fare</E
+M>prestare a</E
+M>attirare</E
+M>richiamare</E
+M>distrarre</E
+M>sviare l’a</E
+M>destare</E
+M>suscitare l’a</E
+M>di qualcuno</E
+M>mettere a</E
+M>in una cosa</E
+M>psicometria dell’a</E
+M>attenzione!</E
+M>fate a</E
+M>attento</E
+M>attenti</E
+M>usare a qualcuno molte a</E
+M>ricevere mille a</E
+M>vi sono grato delle vostre a</E
+M>non hai nessuna a</E
+M>per tua madre</E
+M>avesse almeno qualche volta un’a</E
+M>per me!</E

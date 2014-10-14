@@ -1,0 +1,46 @@
+favorire.txt
+"andare incontro a qcn, favorire"
+"favorire"
+"favorire"
+"favorire"
+"favorire; aiutare"
+"vuoi favorire?"
+*[[aiutare]], [[appoggiare]],[[privilegiare]], [[sostenere]], [[incoraggiare]], [[promuovere]], [[dare]], [[consegnare]], [[agevolare]]
+*[[favoritismo]], [[favorita]], [[favorito]]
+*[[favore]], [[favorevole]]
+M>io favorisco</E
+M>tu favorisci</E
+M>un giovane di buona volontà</E
+M>le tendenze</E
+M>le inclinazioni</E
+M>di qualcuno</E
+M>un concorrente a danno di un altro</E
+M>un uomo favorito dalla sorte</E
+M>un’impresa</E
+M>una proposta</E
+M>un progetto</E
+M>lo sviluppo di un’industria</E
+M>dei commerci</E
+M>il clima favorisce questo tipo di vegetazione</E
+M>la conformazione della costa favorisce gli approdi</E
+M>le circostanze favorirono quest’interpretazione dei fatti</E
+M>qualcuno di una cosa</E
+M>la natura lo favorì di grande ingegno</E
+M>La preghiamo di favorirci di una sua visita</E
+M>una cosa a qualcuno</E
+M>mi hanno favorito due inviti per il concerto</E
+M>mi favorisci il vino?</E
+M>mi favorisca un attimo la matita</E
+M>favoriscano il biglietto</E
+M>favorisca in sala</E
+M>favorisca alla cassa</E
+M>al banco</E
+M>vuoi</E
+M>vuole favorire?</E
+M>grazie</E
+M>tanto per f</E
+M>tanto per gradire</E
+M>favorisca tacere!</E
+M>favorisca seguirmi al Commissariato!</E
+M>favorisca in questura!</E
+M>favorisca i documenti!</E

@@ -1,0 +1,38 @@
+ricoverare.txt
+"ricoverare"
+"ricoverare"
+"ricoverare, replace: ricoverarsi"
+"ricoverare, replace: ricoverarsi"
+"ricoverare, ospedalizzare"
+* [[ricovero]]
+* [[ricoverato]]
+M>rec</E
+M>rare</E
+M>io ricóvero</E
+M>ricoverò tutto ciò che aver vi doveano interamente</E
+M>Ch&#8217;ei cercasse</E
+M>Del giovin ricovrar l&#8217;onor perduto</E
+M>un malato grave in ospedale</E
+M>un vecchio in una casa di riposo</E
+M>ricoverarsi in una clinica</E
+M>in un ospizio</E
+M>si è fatto r</E
+M>dovrà farsi r</E
+M>in ospedale</E
+M>in clinica</E
+M>sorpreso dalla pioggia</E
+M>si ricoverò in una capanna</E
+M>durante le incursioni aeree molti si ricoveravano nelle cantine</E
+M>molti perseguitati politici</E
+M>durante il fascismo</E
+M>si sono ricoverati in Francia</E
+M>errar vede il suo spirto Fra &#8217;l compianto de&#8217; templi acherontei</E
+M>O ricovrarsi sotto le grandi ale Del perdono d&#8217;Iddio</E
+M>riparare</E
+M>ricoverò in casa e serrossi dentro</E
+M>desideroso di ricoverare anch&#8217;egli nella stessa pace</E
+M>i vecchi</E
+M>i poveri ricoverati</E
+M>un malato grave</E
+M>un ferito ricoverato</E
+M>l&#8217;orario di visita ai ricoverati</E

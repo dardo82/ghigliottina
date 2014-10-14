@@ -1,0 +1,77 @@
+frequenza.txt
+"http://api.wordreference.com/12bee/json/iten/frequenza/"
+#*''la '''frequenza''' degli omicidi è diminuita'' 
+*[[affluenza]] 
+*[[isofrequenza]], [[frequenzimetro]]
+M>frequentia</E
+M>paese umido per la f</E
+M>delle piogge</E
+M>m’infastidisce la f</E
+M>delle sue visite</E
+M>come giustifica la f</E
+M>delle sue assenze?</E
+M>c’è un’impressionante f</E
+M>di incidenti stradali</E
+M>con frequenza</E
+M>andare a teatro con f.</E
+M>con una certa f.</E
+M>con molta</E
+M>con poca f.</E
+M>la f</E
+M>del polso in condizioni normali è di 70-80 pulsazioni al minuto</E
+M>regolare la f</E
+M>delle oscillazioni del pendolo</E
+M>aumentare</E
+M>diminuire la f</E
+M>delle corse di una linea tranviaria</E
+M>episodî che si ripetono con f</E
+M>costante</E
+M>con f</E
+M>irregolare</E
+M>con alta</E
+M>bassa frequenza</E
+M>ho notato un’alta</E
+M>scarsa</E
+M>di bar</E
+M>di negozî d’abbigliamento</E
+M>di cani</E
+M>gatti</E
+M>di vigili urbani</E
+M>in questa città</E
+M>assoluta</E
+M>relativa</E
+M>lista di frequenza</E
+M>indice di frequenza</E
+M>hertz</E
+M>cicli al secondo</E
+M>cicli</E
+M>la f</E
+M>della corrente alternata è 50 Hz</E
+M>tensione elettrica ad alta</E
+M>a bassa f</E
+M>applicare una f</E
+M>di 100 Hz a un amplificatore</E
+M>questa linea attenua eccessivamente le alte f</E
+M>f. infracustiche</E
+M>acustiche</E
+M>ultracustiche</E
+M>alte f</E
+M>basse f</E
+M>audio</E
+M>video</E
+M>media f</E
+M>modulazione di frequenza</E
+M>alle riunioni</E
+M>ai sacramenti</E
+M>la f</E
+M>dei classici</E
+M>dei buoni studî</E
+M>corsi universitarî per cui è obbligatoria la f</E
+M>grande f</E
+M>di curiosi</E
+M>di popolo</E
+M>teatro dove c’è sempre f</E
+M>scarsa f</E
+M>di pubblico</E
+M>la mostra ha registrato un’alta f</E
+M>di visitatori</E

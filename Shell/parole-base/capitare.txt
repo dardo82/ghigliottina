@@ -1,0 +1,50 @@
+capitare.txt
+"capitare"
+"capitare"
+"capitare"
+"Capitare a fagiolo"
+"capitare a qc"
+"capitare a qc"
+"capitare a qc"
+"capitare a qc"
+"Capitare a tiro"
+"capitare di"
+"capitare in casa di qualcuno"
+"capitare per caso"
+"capitare tra capo e collo"
+*[[arrivare]], [[giungere]], [[venire]], [[sopraggiungere]], [[trovarsi]], [[ritrovarsi]]
+*''(di fatto, evento)'' [[accadere]], [[succedere]], [[avvenire]], [[verificarsi]]
+*''(di occasione)'' [[presentarsi]], [[offrirsi]]
+M>*capitare</E
+M>caput</E
+M>tis</E
+M>io càpito</E
+M>essere</E
+M>capitai per fortuna in casa di amici</E
+M>se càpita Carlo</E
+M>fatelo aspettare</E
+M>càpiti a proposito!</E
+M>mi càpita sempre tra i piedi quello scocciatore</E
+M>sei capitato in un brutto momento</E
+M>m’è capitato fra le mani un vecchio libro</E
+M>la lettera capitò malauguratamente in mano a sua moglie</E
+M>Capitare bene</E
+M>male</E
+M>abbiamo scelto una trattoria fuori porta e siamo capitati bene</E
+M>quella povera figlia è capitata male</E
+M>son capitato proprio bene!</E
+M>se mi càpita l’occasione ci vado</E
+M>m’è capitato un ottimo affare</E
+M>senti l’avventura che mi è capitata</E
+M>gli capitò un bel guaio</E
+M>fortune</E
+M>disgrazie che càpitano</E
+M>son cose che càpitano ai vivi</E
+M>m’è capitata bella!</E
+M>tutte a me devono capitare!</E
+M>càpitano tutte a me!</E
+M>fra capo e collo</E
+M>càpita che</E
+M>càpita di</E
+M>capitò che io mi trovassi là</E
+M>mi càpita spesso di dimenticare le chiavi</E

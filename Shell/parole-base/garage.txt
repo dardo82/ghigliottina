@@ -1,0 +1,14 @@
+garage.txt
+"garage"
+"garage, car park"
+"garage"
+"garage, carport"
+"garage (per pullman)"
+"vendita di oggetti usati (di solito si svolge in un garage)"
+"garage sale"
+*[[officina]], [[autorimessa]]
+*italiano
+*francese
+M>garage</E
+M>aràa</E
+M>garer</E

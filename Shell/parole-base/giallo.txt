@@ -1,0 +1,180 @@
+giallo.txt
+"a fiore giallo"
+"allarme giallo"
+"arancio\/giallo"
+"bianco\/giallo"
+"cedro giallo"
+"color giallo oro"
+"color giallo oro"
+"colorare di giallo"
+"coloro giallo verde"
+"dal becco giallo"
+"dal groppone giallo"
+"dal petto giallo"
+"dall'occhio giallo"
+"di colore giallo"
+"di colore ocra giallo"
+"giallo"
+"di colore giallo"
+"giallo"
+"giallo"
+"giallo"
+"il colore giallo"
+"giallo"
+"giallo arancio"
+"giallo brunastro"
+"giallo cadmio"
+"giallo canarino"
+"giallo canarino"
+"giallo canarino"
+"giallo che dà sul verde"
+"giallo cromo"
+"giallo limone"
+"giallo oro"
+"giallo paglierino"
+"giallo pallido"
+"giallo scuro"
+"giallo scuro"
+"giallo zafferano"
+"giallo-oro"
+"giallo, romanzo o film poliziesco"
+"leggermente giallo, giallognolo"
+"marrone\/giallo"
+"muso giallo"
+"muso giallo (offensivo)"
+"nero\/giallo"
+"oro giallo"
+"pericolo giallo"
+"pino giallo"
+"pioppo giallo"
+"rosso\/giallo"
+"thriller; giallo"
+"verde che dà moderatamente sul giallo"
+"verde giallo"
+"verde\/giallo"
+*(di colore)  [[ocra]],  [[paglierino]], [[canarino]], [[zafferano]]
+*(di film, romanzo) [[poliziesco]], [[noir]]
+*(di capelli) [[dorato]], [[biondo]]
+* (di uovo) [[tuorlo]]
+*(film, romanzo) [[thriller]]
+*''(di persona)'' [[smorto]]
+*[[giallista]]
+*[[colore]]
+*[[oro]]
+M>jalne</E
+M>galb</E
+M>nus</E
+M>galbus</E
+M>limone</E
+M>oro</E
+M>dorato</E
+M>zafferano</E
+M>canarino</E
+M>paglierino</E
+M>cromo</E
+M>un g</E
+M>intenso</E
+M>un g</E
+M>carico</E
+M>un g</E
+M>tenue</E
+M>sbiadito</E
+M>smorto</E
+M>tingere in g</E
+M>dipingere</E
+M>verniciare di g</E
+M>il g</E
+M>è di moda quest’anno</E
+M>fiori g</E
+M>foglie g</E
+M>una camicetta g</E
+M>e marrone</E
+M>maglia g</E
+M>in guanti g</E
+M>il merlo dal becco g</E
+M>metallo g</E
+M>oro g</E
+M>oro bianco</E
+M>farina g</E
+M>bandiera g</E
+M>ambra g</E
+M>ocra g</E
+M>terra g</E
+M>aveva una faccia g</E
+M>sparuta</E
+M>era g</E
+M>in viso come un limone</E
+M>diventò g</E
+M>dalla bile</E
+M>era g</E
+M>per l’invidia</E
+M>mal giallo</E
+M>Razza g</E
+M>mongoloide</E
+M>i gialli</E
+M>Febbre g</E
+M>Aedes aegypti</E
+M>Legno g</E
+M>Chlorophora tinctoria</E
+M>Erba g</E
+M>giallina</E
+M>erba guada</E
+M>Pagine g</E
+M>yellow pages</E
+M>Libro</E
+M>romanzo g</E
+M>racconto g</E
+M>dramma g</E
+M>film giallo</E
+M>sto leggendo un g</E
+M>è un divoratore di gialli</E
+M>è in proiezione un g</E
+M>un racconto avventuroso</E
+M>con un pizzico di g</E
+M>siamo in presenza di un g</E
+M>di un vero g</E
+M>sulle prime</E
+M>si era pensato a un delitto</E
+M>ma il g</E
+M>si è presto risolto</E
+M>il g</E
+M>di via Poma</E
+M>il g</E
+M>del mercato rionale</E
+M>il g</E
+M>dell’autostrada</E
+M>Pericolo g</E
+M>gelbe Gefahr</E
+M>Stampa g</E
+M>yellow press</E
+M>Sindacati g</E
+M>corporazioni g</E
+M>syndicat jaune</E
+M>gelbe Gewerkschaft</E
+M>gialli</E
+M>sindacato g</E
+M>il g</E
+M>dell’uovo</E
+M>questo verde è troppo carico</E
+M>aggiungi un po’ di giallo</E
+M>di cadmio</E
+M>brillante</E
+M>di cobalto</E
+M>di cromo</E
+M>di Napoli</E
+M>di antimonio</E
+M>di zinco</E
+M>antracene</E
+M>di alizarina</E
+M>indantrene</E
+M>minerale</E
+M>antico</E
+M>numidicum</E
+M>libycum</E
+M>broccatello di Siena</E
+M>di Segesta</E
+M>di Siena</E
+M>ti piaceva spaccare i ricci appena pescati e mangiarne l’interno giallino in barca</E
+M> sotto il sole</E
+M>gialletti</E
+M>giallo di Napoli</E

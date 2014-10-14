@@ -1,0 +1,44 @@
+carrello.txt
+"carrello"
+"carrello"
+"carrello"
+"carrello"
+"carrello a mano"
+"carrello appendice"
+"carrello d'atterraggio"
+"carrello di servizio"
+"carrello elevatore"
+"carrello elevatore"
+"carrello motore"
+"carrello portante"
+"carrello portavivande"
+"carrello portavivande"
+"carrello, carretto spinto a mano"
+"operatore di carrello elevatore a forca"
+"sollevatori a carrello"
+*[[carrellare]]
+M>carro</E
+M>portavivande</E
+M>bar</E
+M>c. della</E
+M>per la</E
+M> spesa</E
+M>carrelli</E
+M>c. virtuali</E
+M>tenda</E
+M>ferroviario</E
+M>dell’aeroplano</E
+M>normale</E
+M>triciclo</E
+M>di dilatazione</E
+M>elevatore</E
+M>stradale</E
+M>della teleferica</E
+M>vibratore</E
+M>della macchina da scrivere</E
+M>dell’aratro</E
+M>orizzontale</E
+M>laterale</E
+M>verticale</E
+M>aereo</E
+M>a seguire</E

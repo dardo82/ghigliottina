@@ -1,0 +1,37 @@
+omicida.txt
+"frenesia omicida"
+"in preda a furia omicida"
+"in preda ad una frenesia omicida"
+"maniaco omicida"
+"homicidal maniac"
+"omicida"
+"omicida"
+"homicidal, murderous"
+*[[assassino]], [[sicario]], [[uccisore]]
+M>homicida</E
+M>homo</E
+M>cida</E
+M>omicide e ciascun che mal fiere</E
+M>Guastatori e predon</E
+M>tutti tormenta Lo giron primo</E
+M>l’arresto</E
+M>la condanna di un o</E
+M>di una o</E
+M>divenne o</E
+M>per gelosia</E
+M>il rapinatore o</E
+M>simile quell’alma divenne Alla notte dell’uomo o</E
+M>sarà l’o</E
+M>ei di se stesso</E
+M>io sono l’o</E
+M>di suo fratello</E
+M>il ferro</E
+M>il coltello</E
+M>l’arma o</E
+M>Volgonsi tutti gli altri a quella banda Ond’era uscito il calamo o</E
+M>la mano omicida</E
+M>intenzioni o</E
+M>propositi o</E
+M>grida</E
+M>invettive o.</E
+M> la furia o. del serial killer</E

@@ -1,0 +1,28 @@
+sazio.txt
+"sazio"
+"sazio"
+"sazio"
+* (di cibo) [[saziato]], [[sfamato]], [[pieno]], [[ripieno]], [[rimpinzato]], [[ingozzato]], [[satollo]], [[saturo]]
+* (di cibo) [[affamato]], [[digiuno]]
+M>saziare</E
+M>essere</E
+M>sentirsi s.</E
+M>non è mai s.</E
+M>sono s. di carne</E
+M>basta con i dolci</E
+M>ne sono sazio!</E
+M>essere</E
+M>sentirsi s. di divertimenti</E
+M>sono s. di viaggi</E
+M>è un uomo ormai s. della vita</E
+M>Ed al Signor ch&#8217;i&#8217; adoro e ch&#8217;i&#8217; ringrazio</E
+M>Torno stanco di viver</E
+M> non che sazio</E
+M>sono s. della stessa minestra tutti i giorni</E
+M>sono proprio s. delle sue prediche</E
+M>Ben supplico io a te ... Perché mi facci del tuo nome sazio</E
+M>di fargli onore e festa non si potevano veder sazii</E
+M>si sentiva soddisfatto della vita</E
+M> anzi quasi sazio</E
+M>saziato</E
+M>Lo dolce ber che mai non m&#8217;avria sazio</E

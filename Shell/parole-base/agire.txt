@@ -1,0 +1,66 @@
+agire.txt
+"agire"
+"agire"
+"agire"
+"agire bene"
+"agire come"
+"agire con"
+"agire con"
+"agire con riguardo a"
+"agire correttamente"
+"agire correttamente, lealmente"
+"agire da bullo"
+"agire da bullo"
+"agire da tutor"
+"agire da tutor"
+"agire in anticipo"
+"agire in armonia"
+"agire in base a"
+"agire in concerto"
+"agire in gruppo"
+"agire in nome e per conto"
+"agire in qualità di"
+"agire indisturbato"
+"agire nei confronti"
+"agire nel miglior interesse di qcn."
+"agire nell'interesse di"
+"agire onestamente"
+"agire per conto di"
+"agire secondo"
+"agire su"
+"agire tra"
+"libero agire"
+"pensa prima di agire"
+"potere di agire"
+"ritornare a (comportarsi, agire, ecc.)"
+"strumento di autorizzazione ad agire in qualità di curatore testamentario"
+#*'' devi 
+*''(di persona)'' [[fare]]
+*''( di persona)''
+*[[reagire]], [[agibilità]]
+* [[agitare]], [[atto]], [[azione]]
+* ''
+M>agir</E
+M>io agisco</E
+M>tu agisci</E
+M>avere</E
+M>di nascosto</E
+M>di comune accordo</E
+M>è giunto il momento d’a</E
+M>decisero di a</E
+M>senza perder tempo</E
+M>bel modo d’a</E
+M>da sciocco</E
+M>hai agito assai male verso di me</E
+M>il tuo non mi sembra un a</E
+M>corretto</E
+M>non è stato un bell’a</E
+M>il suo!</E
+M>da ieri la compagnia non agisce più</E
+M>il teatro Verdi agirà sino a tutto luglio</E
+M>la molla agisce poco</E
+M>il freno agisce sui cerchioni delle ruote</E
+M>è una sostanza che agisce come calmante sull’organismo</E
+M>le condizioni atmosferiche agiscono spesso</E
+M>favorevolmente o sfavorevolmente</E
+M>sul mio stato d’animo</E

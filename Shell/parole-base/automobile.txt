@@ -1,0 +1,28 @@
+automobile.txt
+"auto ibrida, automobile ibrida, macchina ibrida"
+"automobile"
+"automobile"
+"automobile aziendale"
+"automobile con portellone posteriore, automobile a tre\/cinque porte"
+"automobile decapottabile"
+"automobile di servizio postale"
+"automobile elettrica"
+"berlina (automobile)"
+"corsa in automobile"
+* [[auto]], [[macchina]],[[autovettura]],[[vettura]] 
+* [[autocarro]], [[motocicletta]], [[scooter]]
+*italiano
+M>automobile</E
+M>otomobìl</E
+M>auto</E
+M>mob</E
+M>lis</E
+M>autovettura</E
+M>andare</E
+M>viaggiare in a</E
+M>farsi l’a</E
+M>da corsa</E
+M>da competizione</E
+M>elettrica</E
+M>sportiva</E
+M>di piazza</E

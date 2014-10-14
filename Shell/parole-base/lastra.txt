@@ -1,0 +1,43 @@
+lastra.txt
+"lastra"
+"lastra"
+"lastra"
+"lastra"
+"lastra chiave"
+"lastra d'acciaio"
+"lastra di ghiaccio"
+"lastra di metallo"
+"lastra di metallo"
+"lastra di pietra per pavimentazione"
+"lastra di stagno"
+"lastra fotografica"
+"lastra in rame"
+"lastra interiore"
+"lastra protettiva"
+*italiano
+*napoletano
+M>una l</E
+M>di marmo</E
+M>di ferro</E
+M>di zinco</E
+M>di vetro</E
+M>di cristallo</E
+M>tetto a lastre d’ardesia</E
+M>l’acqua della vasca era coperta da una spessa l</E
+M>di ghiaccio</E
+M>lamiera</E
+M>s’è rotta una l</E
+M>applicare le l</E
+M>al telaio</E
+M>lastre</E
+M>strade a lastre</E
+M>consumare le l</E
+M>nucleare</E
+M>radiografia</E
+M>fare</E
+M>farsi una l</E
+M>del torace</E
+M>farsi le lastre</E
+M>correttrice di Schmidt</E
+M>di Schmidt</E
+M>clichés</E

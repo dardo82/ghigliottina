@@ -1,0 +1,58 @@
+discesa.txt
+"discesa"
+"discesa"
+"discesa"
+"discesa da un cavallo"
+"discesa repentina"
+"discesa repentina"
+"in discesa"
+"in discesa"
+"la strada è in discesa"
+"scendere (discesa)"
+"sentiero di discesa"
+"specialista nella discesa"
+*[[calata]], [[pendio]], [[calo]], 
+*[[salita]]
+*[[discendere]], [[discesa libera]], [[discesismo]], [[discesista]]
+*[[caduta]], [[abbassamento]]
+M>discendere</E
+M>disceso</E
+M>la d</E
+M>di Gesù Cristo agli Inferi</E
+M>la d</E
+M>dello Spirito Santo sugli apostoli</E
+M>la d</E
+M>dei barbari in Italia</E
+M>la d</E
+M>del Barbarossa</E
+M>dalla parte anteriore</E
+M>la d</E
+M>dell’ascensore</E
+M>di un aeroplano</E
+M>la d</E
+M>del palombaro in fondo al mare</E
+M>da cavallo</E
+M>del monte</E
+M>di tono</E
+M>scesa</E
+M>strada in d</E
+M>un percorso tutto salite e discese</E
+M>una d</E
+M>pericolosissima</E
+M>veniva giù per la d</E
+M>a rotta di collo</E
+M>libera</E
+M>obbligata</E
+M>slalom</E
+M>speciale</E
+M>obbligata gigante</E
+M>slalom gigante</E
+M>su roccia</E
+M>libera</E
+M>in libera</E
+M>in arrampicata libera</E
+M>a corda doppia</E
+M>fluviale</E
+M>lattea</E
+M>dell’utero</E
+M>d’antenna</E

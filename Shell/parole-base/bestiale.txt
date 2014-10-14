@@ -1,0 +1,20 @@
+bestiale.txt
+"bestiale"
+"bestiale"
+M>bestialis</E
+M>maniere b</E
+M>azione</E
+M>violenza</E
+M>ostinazione</E
+M>rabbia b</E
+M>impulsi b</E
+M>uomo b</E
+M>è stata una fatica b</E
+M>fa un caldo b</E
+M>c’è un traffico b</E
+M>oggi</E
+M>comportarsi bestialmente</E
+M>maltrattare</E
+M>percuotere</E
+M>bestemmiare</E
+M>infuriarsi bestialmente</E

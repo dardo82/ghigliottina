@@ -1,0 +1,31 @@
+riassunto.txt
+"riassunto"
+"riassunto"
+"riassunto (degli avvenimenti)"
+#*''la pagina [[riassunta]] di un romanzo''
+#* ''fare il 
+*[[riduzione]]
+*'' (riportato in forma riassuntiva)'' [[condensato]], [[compendiato]]
+*''( esposizione sintetica)'' [[riepilogo]], [[sunto]]
+*italiano
+M>riassumere</E
+M>fare</E
+M>scrivere un r</E
+M>scritto</E
+M>orale</E
+M>il r</E
+M>di un romanzo</E
+M>di un film</E
+M>della trama di un film</E
+M>delle puntate precedenti di un originale televisivo</E
+M>fate il r</E
+M>del capitolo 8&#176; dei &#171;Promessi Sposi&#187;</E
+M>del libro XXII dell&#8217;&#171;Iliade&#187;</E
+M>di una conferenza</E
+M>di una discussione</E
+M>di una lezione</E
+M>eccoti il r</E
+M>dei fatti</E
+M>chiaro</E
+M>conciso</E
+M>breve ma esauriente</E

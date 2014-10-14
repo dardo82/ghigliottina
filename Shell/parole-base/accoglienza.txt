@@ -1,0 +1,26 @@
+accoglienza.txt
+"accoglienza"
+"accoglienza entusiasta"
+"centro accoglienza bambini, ludoteca"
+"centro di accoglienza"
+"centro di accoglienza per bambini, asilo, ludoteca"
+"politiche di accoglienza"
+#*''il cane fece una'accoglienza festosa al ritorno del suo padrone''
+*[[accettazione]], [[ricezione]], [[ricevimento]]
+*[[ospitalità]], [[benvenuto]], [[trattamento]]
+* [[asilo]]
+*[[congedo]], [[commiato]]
+*[[accogliere]], [[accogliente]], [[centro di accoglienza]]
+M>fredda</E
+M>affettuosa</E
+M>festosa</E
+M>cordiale</E
+M>l’a</E
+M>oneste e liete Furo iterate tre e quattro volte</E
+M>fare buona</E
+M>cattiva a</E
+M>a qualcuno</E
+M>fare accoglienza</E
+M>fare buona a</E
+M>a una tratta</E
+M>centro di a.</E

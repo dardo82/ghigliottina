@@ -1,0 +1,25 @@
+canapa.txt
+"canapa"
+"canapa"
+"cannabis, canapa indiana"
+"olio di canapa"
+"olio di semi di canapa"
+#*[[canapa indiana]]
+#* [[canapa di Manila]]
+M>cann</E
+M>bis</E
+M>can</E
+M>can</E
+M>Cannabis sativa</E
+M>seme di c</E
+M>olio di c</E
+M>Cannabis sativa</E
+M>acquatica</E
+M>Eupatorium cannabinum</E
+M>del Canada</E
+M>Apocynum cannabinum</E
+M>indiana</E
+M>Cannabis indica</E
+M>indica</E
+M>di Manila</E
+M>abacà</E

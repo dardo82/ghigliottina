@@ -1,0 +1,54 @@
+tazza.txt
+"fare la forma di una tazza"
+"grande tazza"
+"mettere in una tazza"
+"tazza"
+"tazza"
+"quantità contenuta in una tazza"
+"tazza"
+"tazza da caffè"
+"tazza da tè"
+"tazza da tè"
+"tazza del gabinetto"
+"tazza di caffè"
+"tazza di tè"
+"tazza di tè"
+"tazza di tè"
+* [[scodella]], [[ciotola]], [[coppa]], [[coppetta]]
+*(per fontana) [[vasca]]
+* tazza da té
+M>t. di ceramica</E
+M>di porcellana</E
+M>di plastica</E
+M>di vetro</E
+M>t. svasate</E
+M>cilindriche</E
+M>t. da tè</E
+M>da caffellatte</E
+M>da cioccolata</E
+M>t. da brodo</E
+M>tazzina</E
+M>da caffè</E
+M>cioccolata in tazza</E
+M>servire a tavola il brodo in tazza</E
+M>vuole una t. di tè?</E
+M>bere</E
+M>prendere una t. di brodo</E
+M>una t.</E
+M>due t. di farina</E
+M>di zucchero</E
+M>t. da caffè</E
+M>t. bordolese</E
+M> un appartamento di due stanze ampie</E
+M> un cesso moderno con lavandino t. e sciacquone</E
+M> una grande cucina</E
+M>t. di pietra</E
+M>di marmo</E
+M>di porfido</E
+M>di bronzo</E
+M>le t. dei parchi di Tivoli</E
+M>le t. delle terme romane</E
+M>bersi una tazzona di latte</E
+M>un tazzone di brodo</E
+M>tazzone</E
+M>confettiera</E

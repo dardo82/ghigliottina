@@ -1,0 +1,26 @@
+mandria.txt
+"gregge, mandria"
+"mandria"
+"mandria"
+* [[bestiame]]
+* (di animali selvaggi) [[branco]] 
+* (di armenti) [[gregge]] 
+* [[mandriano]]
+* [[brucare]], [[cowboy]], [[marchiatura]], [[migrazione]], [[pascolo]], [[pastore]], [[vaccaro]]
+M>mandra</E
+M>gregge</E
+M>una m</E
+M>di buoi</E
+M>di cavalli</E
+M>custodire</E
+M>guidare la m</E
+M>portare le m</E
+M>al pascolo</E
+M>Come lion di tori entro una mandra Or salta</E
+M>tra le acacie si scorgevano mandrie di zebù e frotte di capre con i loro pastori</E
+M>Sì vid’io muovere a venir la testa Di quella mandra fortunata allotta</E
+M>sono una m</E
+M>di farabutti</E
+M>è una m</E
+M>di pecore</E
+M>di pecoroni</E

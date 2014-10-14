@@ -1,0 +1,17 @@
+legname.txt
+"commercio legname"
+"deposito di legname"
+"di deposito di legname"
+"di tronchi di legname"
+"legname"
+M>gnamen</E
+M>fresco</E
+M>asciutto</E
+M>stagionato</E
+M>giovane</E
+M>forte</E
+M>dolce</E
+M>da opera</E
+M>da ardere</E
+M>maestro di legname</E
+M>mandò per un maestro di legname</E

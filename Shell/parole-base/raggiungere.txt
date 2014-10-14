@@ -1,0 +1,70 @@
+raggiungere.txt
+"cercare di raggiungere"
+"fare centro; cogliere nel segno; raggiungere lo scopo"
+"giuria che non riesce a raggiungere un verdetto"
+"mettersi in contatto con qc, contattare qc, raggiungere qc"
+"non raggiungere lo scopo"
+"obiettivo semplice da raggiungere"
+"raggiungere"
+"raggiungere"
+"raggiungere"
+"raggiungere"
+"raggiungere con fatica"
+"raggiungere con successo"
+"raggiungere il culmine"
+"reach the highest point Also: giungere al culmine, raggiungere il culmine"
+"raggiungere il limite"
+"raggiungere il livello più basso"
+"raggiungere il porto"
+"raggiungere il proprio obiettivo"
+"raggiungere il successo"
+"raggiungere il successo"
+"raggiungere l'orgasmo"
+"raggiungere l'orgasmo"
+"raggiungere la maturità"
+"raggiungere la perfezione"
+"raggiungere la vetta"
+"raggiungere la vetta"
+"raggiungere più di una meta"
+"raggiungere qcn.; riuscire a comunicare con qcn."
+"raggiungere terra"
+"raggiungere un accordo"
+"raggiungere un compromesso"
+"raggiungere un compromesso"
+"raggiungere, arrivare a"
+"raggiungere; progredire"
+"riferito a pelle per rilegature, rasata per raggiungere uno spessore uniforme"
+"senza raggiungere lo scopo"
+#* ''raggiunse l'automobile''
+#* ''hanno raggiunto il primo posto in classifica''
+*[[raggiungimento]]
+M>giungere</E
+M>giungere</E
+M>raggiugne e l&#8217;una e l&#8217;altra cocca</E
+M>I&#8217; mi raggiunsi con la scorta mia</E
+M>Ma già ti raggiuns&#8217;io mentre fuggivi</E
+M>per quanto tu corra</E
+M>saprò raggiungerti</E
+M>vi abbiamo raggiunto facilmente</E
+M>chi lo raggiunge?</E
+M>il cane raggiunse la lepre prima che si nascondesse nella macchia</E
+M>i rapinatori sono stati raggiunti dalle pantere della polizia</E
+M>i due fuggitivi sono stati raggiunti dal gruppo</E
+M>la cima di un monte</E
+M>la spiaggia del mare</E
+M>le prime case della città</E
+M>la temperatura ha raggiunto i trenta gradi all&#8217;ombra</E
+M>era desideroso di r</E
+M>i compagni più bravi</E
+M>il nuovo operaio raggiunse presto nella capacità e nel rendimento i compagni più anziani ed esperti</E
+M>il corridore in fuga fu raggiunto all&#8217;ultimo chilometro</E
+M>la meta</E
+M>l&#8217;intento</E
+M>è questo il fine da r</E
+M>con il suo lavoro ha raggiunto una posizione invidiabile</E
+M>un posto elevato</E
+M>hai raggiunto un buon risultato</E
+M>questa moto riesce a r</E
+M>altissime velocità</E
+M>superare la meta raggiunta</E
+M>andare oltre i limiti già raggiunti</E

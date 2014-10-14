@@ -1,0 +1,68 @@
+confidenza.txt
+"ambito di confidenza"
+"amico intimo di, in confidenza con"
+"confidenza"
+"confidenza"
+"confidenza"
+"essere in confidenza con qcn., bere insieme"
+"in confidenza"
+"in confidenza"
+"in confidenza con"
+"in stretta confidenza"
+"intervallo di confidenza"
+"non dare confidenza agli estranei"
+"prendere confidenza"
+"prendere confidenza con"
+M>confidentia</E
+M>confidens</E
+M>avere c</E
+M>in sé stessi</E
+M>nel prossimo</E
+M>infamia è un segno della pubblica disapprovazione che priva il reo de’ pubblici voti</E
+M>della c</E
+M>della patria</E
+M>ha avuto troppa c</E
+M>nel buon esito</E
+M>un eccesso di c</E
+M>può essere causa di sconfitta in una competizione sportiva</E
+M>voglio farti una c</E
+M>vada a fare le sue c</E
+M>a chi le piace</E
+M>sono stato costretto a sentire le sue c</E
+M>dire in confidenza</E
+M>c’è grande c</E
+M>fra loro</E
+M>siamo ormai in c</E
+M>come vecchi amici</E
+M>prendere c</E
+M>non mi riesce ancora di prendere c</E
+M>con questo computer</E
+M>trattare con c</E
+M>l’Adda non era fiume da trattarsi così in c</E
+M>dare confidenza</E
+M>dare troppa c</E
+M>dà troppa c</E
+M>ai suoi studenti</E
+M>ai domestici</E
+M>prendersi delle c</E
+M>giovanotto</E
+M>non si prenda troppe c</E
+M>prendersi la c</E
+M>mi sono presa la c</E
+M>di offrirle questo piccolo ricordo</E
+M>mi sono permesso di</E
+M>stare in confidenza</E
+M>abito di confidenza</E
+M>gente</E
+M>persone di confidenza</E
+M>fare a</E
+M>in confidenza</E
+M>si levi pure la giacca</E
+M>facciamo in c</E
+M>fare a c</E
+M>con un animale</E
+M>con un oggetto</E
+M>fare a c</E
+M>con la salute</E
+M>dei risultati di un’indagine</E
+M>intervallo di confidenza</E

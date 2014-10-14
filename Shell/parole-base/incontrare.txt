@@ -1,0 +1,100 @@
+incontrare.txt
+"incontrare"
+"incontrare"
+"incontrare"
+"incontrare, replace: incontrarsi"
+"incontrare, replace: incontrarsi"
+"incontrare"
+"incontrare, replace: incontrarsi"
+"incontrare, replace: incontrarsi"
+"incontrare (per caso)"
+"incontrare difficoltà"
+"incontrare per caso"
+"incontrare per caso"
+"incontrare resistenza"
+"incontrare; trovare per caso"
+"incontrare; trovare per caso"
+"spero di cuore di poterla incontrare"
+*[[imbattersi]], [[incrociare]], [[incappare]], [[intoppare]], [[incocciare]], [[urtare]]
+*[[vedere]], far conoscenza
+*[[incontro]],[[incontrarsi]], [[rincontrare]]
+M>incontra</E
+M>io incóntro</E
+M>un amico</E
+M>un gruppo di turisti</E
+M>l’ho incontrato in piazza</E
+M>al bar</E
+M>sulle scale</E
+M>mentre tornava dall’ufficio</E
+M>l’incontrai che usciva proprio allora dal negozio</E
+M>s’incontrano certe facce!</E
+M>più cerco d’evitarlo e più l’incontro</E
+M>gli occhi</E
+M>lo sguardo di qualcuno</E
+M>incontrarsi in qualcuno</E
+M>con qualcuno</E
+M>ci siamo incontrati al bar</E
+M>come due viaggiatori francesi del Settecento che si incontrino casualmente in terra di barbari</E
+M> a migliaia di leghe dalla loro patria</E
+M> e congratulandosi a vicenda si commuovano al dolce latino della comune favella</E
+M>i loro sguardi</E
+M>i loro occhi s’incontrarono</E
+M>chi si vuol bene s’incontra</E
+M>ci siamo incontrati al mare</E
+M>s’incontrarono e si capirono immediatamente</E
+M>Incontrarsi e dirsi addio</E
+M>lungo la strada</E
+M>s’incontrano a ogni svolta cartelli indicatori</E
+M>le due vetture si sono incontrate a metà strada</E
+M>i due treni si sono incontrati</E
+M>ha incontrato un’ottima moglie</E
+M>una brava cuoca</E
+M>un direttore severo</E
+M>si è incontrato in un venditore abbastanza onesto</E
+M>bene</E
+M>male</E
+M>imbattersi</E
+M>abbiamo incontrato una buona stagione</E
+M>il freddo</E
+M>il caldo</E
+M>temevo di i</E
+M>burrasca in mare</E
+M>noie</E
+M>dispiaceri</E
+M>ostacoli</E
+M>la morte</E
+M>una spesa</E
+M>molte spese</E
+M>il genio</E
+M>il favore</E
+M>il gusto di qualcuno</E
+M>il favore</E
+M>il gusto del pubblico</E
+M>incontrare</E
+M>libro</E
+M>commedia</E
+M>prodotto nuovo che ha incontrato molto</E
+M>è una moda che da noi non incontra</E
+M>un avvocato</E
+M>un pittore che ha incontrato poco</E
+M>ci siamo incontrati</E
+M>i genî s’incontrano</E
+M>i nostri pensieri si sono incontrati</E
+M>i nostri gusti s’incontrano</E
+M>una corda incontra una circonferenza in due punti</E
+M>due rette complanari non parallele si incontrano in un punto</E
+M>la strada provinciale incontra la nazionale a 2 km dal paese</E
+M>incrociare</E
+M>intersecare</E
+M>debbo incontrarlo questa sera dopo cena</E
+M>c’incontreremo all’aeroporto</E
+M>gli amici vennero tutti insieme a incontrarmi all’arrivo</E
+M>i due ministri degli Esteri s’incontreranno entro la prossima settimana</E
+M>il nemico</E
+M>incontrarsi col nemico</E
+M>i due pugili s’incontreranno all’inizio del prossimo mese</E
+M>domenica prossima la Roma incontrerà il Napoli in casa</E
+M>se mai t’incontrasse qualche disgrazia</E
+M>essere</E
+M>digli quello che t’è incontrato</E
+M>com’elli ’ncontra Ch’una rana rimane e l’altra spiccia</E

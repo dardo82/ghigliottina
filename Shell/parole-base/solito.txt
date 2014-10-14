@@ -1,0 +1,87 @@
+solito.txt
+"al solito"
+"assicurazione di gruppo (di solito; lavoratori di una stessa azienda)"
+"come al solito"
+"di solito"
+"di solito"
+"di solito"
+"di solito"
+"il solito"
+"ottenere una risposta; una reazione da qcn.; di solito arrabbiata o ironica"
+"solito"
+"solito"
+"solito"
+"solito, il"
+"vendita di oggetti usati (di solito si svolge in un garage)"
+#*''il solito per favore''
+*[[stesso]], [[medesimo]]
+*''(che si ripete)'' [[abituale]], [[usuale]], [[consueto]], [[consuetudinario]], [[normale]], [[comune]], [[quotidiano]], [[ordinario]], [[corrente]], di routine, [[ovvio]], [[banale]]
+*[[ripetitivo]], [[costante]], [[monocorde]], [[monotono]]
+*[[abitudine]], [[consuetudine]], [[uso]], [[regola]], [[norma]], [[costante]], [[tran tran]], [[tradizione]], [[usanza]], [[costume]]
+*[[diverso]]
+*''(che si ripete)'' [[insolito]], [[inconsueto]], [[nuovo]], [[originale]], [[singolare]]
+*[[movimentato]], [[variato]], [[vario]] 
+*[[diversità]], [[novità]], [[originalità]], [[singolarità]]
+*[[essere solito]], [[al solito]], [[di solito]], [[siamo alle solite]], [[solitamente]]
+M>tus</E
+M>solere</E
+M>trovarsi</E
+M>vedersi all&#8217;ora s.</E
+M>al s. posto</E
+M>i s. discorsi</E
+M>le s. frasi</E
+M>fare la s. vita</E
+M>è il s. tran tran</E
+M>è sempre la s. roba</E
+M>la s. storia</E
+M>siamo alle s.!</E
+M>ne ha fatta un&#8217;altra delle s.!</E
+M>lo stesso</E
+M>gli stessi</E
+M>al bar</E
+M> c&#8217;erano i s. clienti</E
+M>alle conferenze intervengono sempre le s. signore</E
+M>si vedono sempre le s. facce</E
+M>il cameriere è ancora quello s.</E
+M>i s. ignoti</E
+M>sei il s. bugiardo</E
+M>la s. chiacchierona</E
+M>sei sempre il s.</E
+M>la solita</E
+M>Essere solito</E
+M>solere</E
+M>non sono s. far tardi</E
+M> la sera</E
+M>siamo soliti passare il Natale con i nostri genitori</E
+M>è s. di dire</E
+M>di fare</E
+M>come il s.</E
+M>come al s.</E
+M>non vuoi riconoscere il tuo torto</E
+M>secondo il mio s. mi sono alzato molto presto</E
+M>stasera ho mangiato più del s.</E
+M>oltre il s.</E
+M>mi pare che oggi faccia più freddo del s.</E
+M>contro il suo s. è stato puntuale</E
+M>il solito</E
+M>&#171;Signore</E
+M> che cosa beve?&#187; &#171;Il solito&#187;</E
+M>&#171;Cameriere</E
+M> il solito</E
+M> per favore!&#187;</E
+M>&#171;Che cosa desidera per cena?&#187; &#171;Il solito&#187;</E
+M>di s.</E
+M>per s.</E
+M>di s. non fa mai tardi</E
+M>per s. è in orario</E
+M>al s.</E
+M>al s.</E
+M> hai voluto fare di testa tua</E
+M>per il s.</E
+M>don Rodrigo entrò</E
+M> quel giorno</E
+M> in una casa</E
+M> dove andava</E
+M> per il solito</E
+M> molta gente</E
+M>solitamente non bevo vino</E

@@ -1,0 +1,55 @@
+incrociare.txt
+"incrociare"
+"incrociare"
+"incrociare"
+"incrociare"
+"incrociare, replace: incrociarsi"
+"incrociare, replace: incrociarsi"
+"incrociare, replace: incrociarsi"
+"incrociare i dati"
+"incrociare le dita"
+"incrociare le gambe"
+"non ci resta che incrociare le dita"
+#* '''''incrociare''' due [[barre]] di [[metallo]]''
+#* '''''incrociare''' le [[braccia]]''
+#* ''questa [[via]] '''incrocia''' la [[strada]] [[principale]] dopo pochi [[kilometri]]''
+#* ''ho '''incrociato''' un amico mentre [[passeggiavo]]''
+#* '''''incrociare''' due [[piante]] di [[ceppo]] [[differente]]''
+#* ''le [[navi]] [[militari]] [[italiane]] '''incrociano''' spesso in queste [[acque]]'' 
+#* ''la [[polizia]] '''incrocia''' spesso in questi [[vicoli]]''
+*[[accavallare]]
+*[[incrociarsi]], [[incrociatore]], [[incrocio]], [[incrociamento]]
+M>io incrócio</E
+M>due pezzi di legno</E
+M>due nastri</E
+M>mettersi un fazzoletto intorno al collo e incrociarne i lembi sul petto</E
+M>le gambe</E
+M>le braccia</E
+M>falliti i tentativi di composizione della vertenza</E
+M>i metalmeccanici hanno deciso d’i</E
+M>le braccia</E
+M>le spade</E
+M>i ferri</E
+M>i guantoni</E
+M>il fuoco</E
+M>la rotta a un bastimento</E
+M>il punto dove la strada provinciale incrocia la nazionale</E
+M>le due strade s’incrociano</E
+M>due rette che s’incrociano in un punto</E
+M>i due treni si incrociano di solito nei pressi di Orte</E
+M>ci siamo incrociati mentre tornavo a casa</E
+M>l’ho incrociato</E
+M>le nostre due lettere si sono incrociate</E
+M>tra i due gruppi della comitiva s’incrociavano i frizzi</E
+M>le battute spiritose</E
+M>avere</E
+M>per più giorni</E
+M>alcune nostre unità hanno incrociato nel canale per prevenire attacchi nemici</E
+M>una macchina della polizia incrociava nei pressi della stazione</E
+M>sulle tracce di un gruppo di malviventi</E
+M>è un’ora che sta incrociando davanti alla porta della ragazza</E
+M>due razze di conigli</E
+M>di cani</E
+M>due varietà di piante</E
+M>le due razze si sono incrociate</E
+M>incrociarsi</E

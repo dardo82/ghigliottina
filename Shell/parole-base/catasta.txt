@@ -1,0 +1,14 @@
+catasta.txt
+"catasta"
+"catasta"
+* [[catasto]]
+M>catasta</E
+M>una c</E
+M>di libri</E
+M>cataste di cadaveri</E
+M>a cataste</E
+M>legno</E
+M>pezzo da catasta</E
+M>pezzo da catasta</E
+M>castella</E
+M>stack</E

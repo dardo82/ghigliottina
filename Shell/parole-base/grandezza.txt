@@ -1,0 +1,113 @@
+grandezza.txt
+"a grandezza naturale"
+"a grandezza naturale"
+"a grandezza naturale"
+"a\/di grandezza naturale"
+"della grandezza di un libro"
+"della grandezza mondiale"
+"grandezza"
+"grandezza"
+"grandezza della famiglia"
+"grandezza fisica"
+"grandezza morale"
+"grandezza naturale"
+"grandezza proporzionale"
+"in ordine di grandezza"
+"integrale; a grandezza naturale"
+"mania di grandezza"
+"mania di grandezza"
+"mettere in ordine di grandezza"
+"ordine di grandezza"
+"può essere messo in ordine di grandezza"
+"questa misura, grandezza"
+#* ''Giovanni è un uomo di indubbia grandezza''
+#* ''Tutti temevano la grandezza dell'America''
+#* ''[[misurare]] la grandezza della [[Terra]]''
+#* ''la [[forza]], il [[peso]], l'[[accelerazione]]'' sono grandezze
+#* ''Sua Grandezza, il principer di XY''
+* [[dimensione]]
+* [[elevatezza]] d'animo, [[magnanimità]]
+m>la g</e
+m>di una casa</e
+m>di una piazza</e
+m>di un fiume</e
+m>di un albero</e
+m>misurare la g</e
+m>di un campo</e
+m>determinare la g</e
+m>di un recipiente</e
+m>una cassa di g</e
+m>ordinaria</e
+m>due vasi della medesima g</e
+m>riproduzione in g</e
+m>naturale</e
+m>un gigante di g</e
+m>smisurata</e
+m>statua di g</e
+m>d&rsquo;una fanciulla di 13 anni</e
+m>un asino che aveva la g</e
+m>di un mulo</e
+m>scarpe</e
+m>abiti di tutte le g</e
+m>cornici di ogni grandezza</e
+m>omogenee</e
+m>commensurabili</e
+m>fisica</e
+m>g. adimensionale</e
+m>adimensionata</e
+m>g. assolutamente adimensionali</e
+m>fondamentale</e
+m>scalare</e
+m>vettoriale</e
+m>stellare</e
+m>magnitudine stellare</e
+m>piccolezza</e
+m>mi perdevo nella g</e
+m>di quei saloni</e
+m>la g</e
+m>del gigante Golia</e
+m>mi spaventava la g</e
+m>dell&rsquo;ostacolo</e
+m>soccombere alla g</e
+m>dello sforzo</e
+m>la g</e
+m>di un avvenimento</e
+m>di un&rsquo;impresa</e
+m>di un&rsquo;idea</e
+m>la g</e
+m>del suo patrimonio è incalcolabile</e
+m>del bene</e
+m>del male</e
+m>la g</e
+m>della colpa</e
+m>la g</e
+m>di un&rsquo;offesa</e
+m>l&rsquo;infinita g</e
+m>di Dio</e
+m>la g</e
+m>di un principe</e
+m>la g</e
+m>della mente di un artista</e
+m>la g</e
+m>di Dante</e
+m>di Leonardo</e
+m>emulare la g</e
+m>degli antichi eroi</e
+m>la g</e
+m>di un impero</e
+m>la g</e
+m>di Roma</e
+m>nazione decaduta dall&rsquo;antica grandezza</e
+m>Sua Grandezza</e
+m>ambizione</e
+m>mania di grandezza</e
+m>delirio di grandezza</e
+m>ha troppe g</e
+m>sfoggia troppe g</e
+m>nonostante tutte le sue g</e
+m>ha spesso bisogno di noi</e
+m>d&rsquo;animo</e
+m>in tutte quelle circostanze ha rivelato vera g</e
+m>carattere</e
+m>spirito</e
+m>comportamento privo di grandezza</e

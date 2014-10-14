@@ -1,0 +1,71 @@
+turno.txt
+"a turno"
+"cambio turno"
+"capo turno"
+"cricket rinunciare al turno perché la palla ha colpito una gamba del battitore"
+"di turno"
+"direttore del turno di notte"
+"è il tuo turno"
+"essere chiuso per turno"
+"fuori turno"
+"il tuo turno"
+"medico di turno"
+"passaggio del turno"
+"passare il turno"
+"presidenza di turno"
+"primo turno di battuta"
+"turno"
+"turno"
+"turno di giorno"
+"turno di giorno"
+"turno di lavoro"
+"turno di lavoro"
+"turno di lavoro"
+"turno di lavoro pomeridiano, secondo turno"
+"turno di notte"
+"turno di notte"
+"turno di notte"
+"turno diurno"
+"turno festivo"
+"ufficiale di turno"
+*''(di personale)'' [[rotazione]], [[avvicendamento]], [[cambio]], [[scambio]], [[alternanza]], [[giro]], [[volta]]
+* periodo di servizio, [[fase]], [[momento]]
+*[[serie]], [[sequenza]], [[successione]], [[sequela]]
+*[[prestazione]], [[servizio]]
+* ''tocca a me''; è il mio turno 
+*[[turnazione]], [[turnista]]
+*''fare a turno''
+M>tourner</E
+M>torn</E
+M>tour</E
+M>stabilire il t. dei servizî</E
+M>il t. di lavoro</E
+M>i t. di guardia</E
+M>i t. di apertura degli sportelli</E
+M>fare a turno</E
+M>al prossimo t. saranno in gara le formazioni più quotate</E
+M>il pugile non ha superato il t. eliminatorio.</E
+M>avere il t. della mattina</E
+M>della sera</E
+M>di notte</E
+M>in tempo di maggiore richiesta si facevano nella fabbrica sino a tre t. di lavoro</E
+M>turni di sei</E
+M>di otto ore</E
+M>stasera è il mio t. di guardia</E
+M>domani non posso</E
+M> sono di turno</E
+M>il medico</E
+M>l’infermiera di t.</E
+M>l’ispettore</E
+M>il sergente</E
+M>il piantone</E
+M>il guardiano di t.</E
+M>farmacie di turno</E
+M>il t. di un consorzio irriguo</E
+M>aspetta il tuo t.</E
+M>lo farai quando sarà il tuo t.</E
+M>è il tuo t.</E
+M>il t. è a te</E
+M> ora</E
+M>sta entrando il secondo t.</E
+M>il primo t. stacca alle 13</E

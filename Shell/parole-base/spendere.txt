@@ -1,0 +1,66 @@
+spendere.txt
+"avere denaro da spendere"
+"soldi da spendere"
+"spendere"
+"spendere"
+"spendere"
+"spendere bene il proprio denaro"
+"spendere troppo"
+"spendere troppo"
+"spendere tutte le proprie energie"
+"spendere, passare"
+#*''Ha dovuto spendere un sacco di soldi per pagare l'avvocato''
+*[[pagare]]
+*[[spendita]]
+*[[spendaccione]], [[spendibile]], [[spesa]]
+M>expend</E
+M>pend</E
+M>io spèndo</E
+M>spési</E
+M>spendésti</E
+M>spéso</E
+M>ho speso quasi duecento euro per</E
+M>l&#8217;acquisto di</E
+M>due paia di scarpe</E
+M>è una che spende molto per vestire</E
+M>in vestiti</E
+M>spende quasi tutto quel che guadagna in divertimenti</E
+M>è meglio s. i soldi dal macellaio che dal farmacista</E
+M>s. molto</E
+M>poco</E
+M>troppo</E
+M>s. male</E
+M>bene</E
+M>il proprio denaro</E
+M>in questa casa non si finisce mai di s.</E
+M>saper s.</E
+M>in quel negozio si spende bene</E
+M>si spende meglio nelle piccole città che nelle grandi</E
+M>s. un patrimonio</E
+M>un Perù</E
+M>l&#8217;osso del collo</E
+M>un occhio della testa</E
+M>il denaro è fatto per s.</E
+M>s. e spandere</E
+M>chi più spende meno spende</E
+M>ha speso tutte le sue energie in quell&#8217;impresa</E
+M>per scrivere questo libro ha speso l&#8217;intera gioventù</E
+M>ho speso l&#8217;intera mattinata a fare questa ricerca</E
+M>anni</E
+M> Che spender si deveano in miglior uso</E
+M> In cercar pace et in fuggir affanni</E
+M>s. qualche parola</E
+M>quattro parole su un argomento</E
+M>intorno a questo personaggio bisogna assolutamente che noi spendiamo quattro parole</E
+M>s. una parola per qualcuno</E
+M>s. il nome di qualcuno</E
+M>è inutile s. il fiato con quel ragazzo</E
+M>non dà retta a nessuno</E
+M>sfaccendati che spendono il tempo a chiacchierare intorno ai fatti altrui</E
+M>avevo speso in modo uggioso quella giornata</E
+M>denaro mal speso</E
+M>tempo speso bene</E
+M>Pentito e tristo de&#8217; miei sì spesi anni</E
+M> Che spender si doveano in miglior uso</E
+M>libro dello s.</E
+M>sicurtà allo speso</E

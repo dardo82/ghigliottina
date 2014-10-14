@@ -1,0 +1,26 @@
+nonna.txt
+"appartamentino della nonna"
+"nonna"
+"nonna"
+"nonna materna"
+"storie della nonna"
+*[[nipote]]
+*''ogni  bella [[scarpa]] diventa ciabatta, [[ogni]] bella [[donna]] diventa  
+M>nonna</E
+M>paterna</E
+M>materna</E
+M>nonno</E
+M>le idee della n</E
+M>le camicie da notte della n</E
+M>i mutandoni delle nostre n</E
+M>il cassettone della n</E
+M>le trine della n</E
+M>i biscotti</E
+M>il rosolio della n</E
+M>delle nostre nonne</E
+M>torta della n</E
+M>airone cenerino</E
+M>rossa</E
+M>col ciuffo</E
+M>airone rosso</E
+M>nitticora</E

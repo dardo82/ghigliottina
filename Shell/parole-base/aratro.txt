@@ -1,0 +1,25 @@
+aratro.txt
+"aratro"
+"parte tagliente dell'aratro"
+"parte tagliente dell'aratro"
+"scavato con l'aratro"
+"scavato con l'aratro"
+*[[aratura]], [[vomere]], [[trattore]]
+*''è l'
+M>aratrum</E
+M>arare</E
+M>trave</E
+M>bure</E
+M>coltro</E
+M>coltello</E
+M>vomere</E
+M>versoio</E
+M>stegole</E
+M>semplice</E
+M>doppio</E
+M>voltorecchio</E
+M>affossatore</E
+M>assolcatore</E
+M>rincalzatore</E
+M>a dischi</E
+M>fognatore</E

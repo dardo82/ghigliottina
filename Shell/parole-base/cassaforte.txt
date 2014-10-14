@@ -1,0 +1,11 @@
+cassaforte.txt
+"cassaforte"
+*[[forziere]], [[scrigno]]
+*[[banca]]
+M>cassa</E
+M>forte</E
+M>coffre</E
+M>fort</E
+M>cassefòrti</E
+M>camere corazzate</E
+M>di sicurezza</E

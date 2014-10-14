@@ -1,0 +1,29 @@
+diga.txt
+"diga"
+"diga"
+"diga del mulino"
+"diga di castori"
+"diga marittima"
+"struttura che forma la parte centrale di una diga"
+*[[sbarramento]], [[argine]], [[briglia]], [[chiusa]]
+M>dijk</E
+M>digue</E
+M>dique</E
+M>fisse</E
+M>mobili</E
+M>di sbarramento</E
+M>di ritenuta</E
+M>traverse</E
+M>dighe in muratura</E
+M>in materiali sciolti</E
+M>a gravità</E
+M>ad arco</E
+M>a volta</E
+M>ad arco</E
+M>gravità</E
+M>ad archi multipli</E
+M>opporre</E
+M>costituire una d</E
+M>contro la delinquenza</E
+M>contro il terrorismo</E
+M>rompere le d</E

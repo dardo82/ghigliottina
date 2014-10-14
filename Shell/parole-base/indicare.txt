@@ -1,0 +1,55 @@
+indicare.txt
+"indicare"
+"indicare"
+"indicare"
+"indicare"
+"indicare con esattezza"
+"indicare con un dito"
+"indicare la direzione"
+"indicare la strada"
+"indicare la strada"
+"indicare qualcosa a qualcuno"
+"indicare, suggerire"
+*''(specialemente con un gesto) [[additare]], [[mostrare]]
+*''(di strumento)'' [[segnare]], [[segnalare]]
+*[[suggerire]], [[proporre]], [[raccomandare]]
+*''(una terapia)'' [[prescrivere]] 
+*[[rivelare]],  [[dimostrare]]
+*''(di vocaboli, simboli e simili)''[[denotare]], [[esprimere]], [[designare]]
+*[[controindicare]]
+*[[sconsigliare]]
+*Devoto/Oli, ''il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1026
+M>indicare</E
+M>indic</E
+M>io ìndico</E
+M>tu ìndichi</E
+M>gli indicò la porta</E
+M>il maestro indicava agli alunni la posizione delle varie città sulla carta geografica</E
+M>per favore</E
+M>mi può i</E
+M>la strada per la stazione?</E
+M>la strada giusta</E
+M>una strada sbagliata</E
+M>la lancetta più piccola dell’orologio indica le ore</E
+M>la più grande i minuti</E
+M>l’anemometro indica la direzione e la velocità del vento</E
+M>il barometro indicava bel tempo</E
+M>quelle luci indicano l’aeroporto</E
+M>la direzione è indicata dalla freccia</E
+M>nelle citazioni da un poema</E
+M>il numero romano indica il canto</E
+M>il numero arabo il verso</E
+M>nella risposta</E
+M>vi prego di indicarmi le condizioni di vendita</E
+M>in nota</E
+M>l’autore ha citato l’opera</E
+M>ma senza i</E
+M>né il luogo né l’anno di pubblicazione</E
+M>il termine</E
+M>inconoscibile</E
+M>indica</E
+M>in filosofia</E
+M>tutto ciò che la mente dell’uomo non può conoscere</E
+M>potrebbe indicarmi un bravo meccanico?</E
+M>m’indicò quello che dovevo fare e dire</E
+M>è un fatto nuovo e indica che la situazione è mutata</E

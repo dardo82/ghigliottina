@@ -1,0 +1,55 @@
+dirigere.txt
+"dirigere"
+"dirigere"
+"dirigere (un'orchestra)"
+"dirigere la propria attenzione su qualcosa"
+"dirigere la seduta"
+"dirigere, guidare, controllare"
+"dirigere, indirizzare"
+"essere a capo; dirigere"
+#*''Marco '''dirige''' una società''
+#*''volle 
+*''(la vista)''[[volgere]], [[rivolgere]], [[indirizzare]], [[convogliare]] 
+*''(comunicare)'' [[indirizzare]], [[mandare]], [[inviare]], [[spedire]]
+*''(un ufficio, il traffico ecc.)'' [[comandare]], [[guidare]], [[reggere]], [[presiedere]], [[sovrintendere]], [[coordinare]]
+*''(comunicare)'' [[ricevere]]
+*[[dipendere]], [[sottostare]]
+M>dirig</E
+M>reg</E
+M>io dirigo</E
+M>tu dirigi</E
+M>dirèssi</E
+M>dirigésti</E
+M>dirètto</E
+M>i proprî passi verso casa</E
+M>lo sguardo</E
+M>volgere</E
+M>rivolgere lo sguardo</E
+M>la mira</E
+M>qualcuno da una persona</E
+M>diresse tutti i suoi sforzi alla riuscita dell’impresa</E
+M>la norma del giusto o dell’ingiusto</E
+M>che deve d</E
+M>le azioni</E
+M>ci dirigemmo verso la piazza</E
+M>la nave si diresse al largo</E
+M>si diresse verso di lui con aria minacciosa</E
+M>intende dirigersi agli studî scientifici</E
+M>un messaggio</E
+M>un telegramma</E
+M>la parola a qualcuno</E
+M>era una malignità diretta contro di me</E
+M>dirigersi a qualcuno</E
+M>una scuola</E
+M>un’azienda</E
+M>la casa</E
+M>i lavori</E
+M>un giornale</E
+M>il traffico</E
+M>l’orchestra</E
+M>un concerto</E
+M>i cori</E
+M>le danze</E
+M>le anime</E
+M>le coscienze</E
+M>l’opinione pubblica</E

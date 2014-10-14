@@ -1,0 +1,58 @@
+bicchiere.txt
+"bicchiere"
+"bicchiere"
+"quantità di liquido in un bicchiere"
+"bicchiere da bibita"
+"bicchiere da cocktail"
+"bicchiere da vino"
+"bicchiere della staffa"
+"bicchiere della staffa"
+"bicchiere di cristallo"
+"bicchiere di highball (bevanda con seltz)"
+"bicchiere di latte"
+"bicchiere di metallo"
+"bicchiere di plastica"
+"bicchiere di vino"
+"bicchiere mezzo pieno"
+"bicchiere per birra"
+"calice, bicchiere"
+"giunzione a bicchiere"
+"quantità in un bicchiere"
+"semplice come bere un bicchiere d'acqua"
+"un bicchiere di birra"
+#* ''
+#* ''un 
+#* ''alzare il 
+#* ''
+*[[boccale]], [[calice]], [[coppa]]
+*[[bicchierino]], [[goccio]], [[sorso]]
+* [[cratere]], [[gotto]], [[nappo]], [[tazza]]
+M>b. da acqua</E
+M>da vino</E
+M>da cognac</E
+M>b. a calice</E
+M>a coppa</E
+M>a stelo</E
+M>un b</E
+M>d’acqua</E
+M>di vino</E
+M>di latte</E
+M>un buon b</E
+M>un buon bicchiero di vin di Capo vale più che tutti i più squisiti falerni</E
+M>bere un b</E
+M>insieme</E
+M>andare a bere un b</E
+M>di vino</E
+M>alzare</E
+M> levare</E
+M> il b</E
+M>il b</E
+M>della staffa</E
+M>bere un b. di troppo</E
+M>facile come bere un b. d’acqua</E
+M>affogare in un bicchier d’acqua</E
+M>una tempesta in un b. d’acqua</E
+M>a sedimento</E
+M>a campana</E
+M>del filtro</E
+M>Giunto a b</E

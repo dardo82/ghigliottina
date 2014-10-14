@@ -1,0 +1,19 @@
+peschereccio.txt
+"barca da pesca; peschereccio"
+"peschereccio"
+"peschereccio"
+"peschereccio a strascico"
+M>attrezzi p</E
+M>porto p</E
+M>industria p</E
+M>poesia p</E
+M>poesia piscatoria</E
+M>un p</E
+M>a vela</E
+M>a motore</E
+M>naviglio p</E
+M>naviglio costiero</E
+M>naviglio d&#8217;altura</E
+M>I lati campi oltre alle belle mura</E
+M>Non meno i pescarecci che gli asciutti</E
+M>Mi consegnò per dote de la figlia</E

@@ -1,0 +1,20 @@
+urgente.txt
+"molto urgente"
+"necessità urgente"
+"urgente"
+*[[estremo]], [[grande]], [[immediato]], [[impellente]], [[imperioso]], [[incalzante]], [[incombente]], [[necessario]], [[premente]], [[premuroso]], [[pressante]], [[sollecitante]], [[stretto]], [[stringente]], [[supremo]], [[vivo]]
+M>urgens -entis</E
+M>urg</E
+M>avere un bisogno</E
+M> una necessità u.</E
+M>provvedimenti u.</E
+M>comunicazione u.</E
+M>lettera u.</E
+M>telegramma</E
+M> pacco</E
+M> chiamata telefonica u.</E
+M>urg.</E
+M>urg.mo</E
+M>urgentissimo</E
+M>spedire urgentemente la merce</E
+M>devo parlargli urgentemente.</E

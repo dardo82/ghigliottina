@@ -1,0 +1,33 @@
+trota.txt
+"persico trota"
+"persico trota"
+"trota"
+"trota arcobaleno"
+"trota comune"
+"trota di fiume"
+"trota di lago"
+"trota di mare"
+"trota iridea"
+"trota iridea americana"
+"trota salmonata"
+*[[trotato]]
+* [[troticoltura]]
+*[[pesce]], [[animale]]
+M>cta</E
+M>cta</E
+M>Salmo trutta</E
+M>trota di mare</E
+M>Salmo trutta trutta</E
+M>t. fario</E
+M>t. di torrente</E
+M>Salmo trutta fario</E
+M>t. di lago</E
+M>Salmo trutta lacustris</E
+M>t. macrostigma</E
+M>t. sarda</E
+M>Salmo trutta macrostigma</E
+M>t. marmorata</E
+M>Salmo trutta marmoratus</E
+M>t. iridata</E
+M>Salmo gairdneri</E
+M>T. salmonata</E

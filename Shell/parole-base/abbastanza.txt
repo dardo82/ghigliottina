@@ -1,0 +1,51 @@
+abbastanza.txt
+"abbastanza"
+"abbastanza"
+"abbastanza"
+"abbastanza bene"
+"abbastanza bene"
+"abbastanza buono"
+"abbastanza buono"
+"abbastanza buono"
+"abbastanza grande"
+"abbastanza poco"
+"abbastanza presto"
+"abbastanza presto"
+"abbastanza spesso"
+"abbastanza vicino per"
+"aver detto abbastanza"
+"avere abbastanza"
+"averne abbastanza"
+"averne abbastanza di qc, essere stufo di qc, non poterne più di qc"
+"averne abbastanza di, essere stufo di, non poterne più di"
+"averne abbastanza, essere stufo, non poterne più"
+"basta \/ abbastanza"
+"abbastanza"
+"essere abbastanza"
+"non abbastanza"
+"non abbastanza bravo"
+"non ti ringrazierò mai abbastanza"
+"piacere abbastanza"
+#*''non abbiamo abbastanza navi per i pattugliamenti''
+#*''credo di aver dormito '''abbastanza'''''
+#*''il clima in Italia è '''abbastanza''' mite''
+M>ho mangiato a</E
+M>sono a</E
+M>bene informato</E
+M>è un golosone che non ne ha mai a</E
+M>averne a</E
+M>ne ho a</E
+M>di lui e dei suoi capricci</E
+M>cominciavo ad averne a</E
+M>di quella vita</E
+M>per</E
+M>ho lavorato a</E
+M>per meritarmi un po’ di riposo</E
+M>sei a</E
+M>grande per capire certe cose</E
+M>non sono a</E
+M>preparato da presentarmi all’esame</E
+M>sei stato a</E
+M>sciocco a credergli</E
+M>il prezzo mi pare a</E
+M>elevato</E

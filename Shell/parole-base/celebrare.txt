@@ -1,0 +1,28 @@
+celebrare.txt
+"celebrare"
+"celebrare"
+"celebrare"
+"celebrare messa"
+"celebrare un matrimonio"
+*[[commemorare]]
+M>celebrare</E
+M>io cèlebro</E
+M>un eroe</E
+M>un martire</E
+M>le imprese</E
+M>le gesta di qualcuno</E
+M>una festa</E
+M>un onomastico</E
+M>un anniversario</E
+M>le feste</E
+M>le ferie</E
+M>la messa</E
+M>l’ufficio in suffragio delle anime dei defunti</E
+M>il battesimo</E
+M>celebrare</E
+M>un processo</E
+M>le nozze</E
+M>il matrimonio</E
+M>non c</E
+M>solennemente le nozze nei tempi proibiti</E
+M>un contratto</E

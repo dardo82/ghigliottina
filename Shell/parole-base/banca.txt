@@ -1,0 +1,84 @@
+banca.txt
+"banca"
+"banca"
+"sede di una banca"
+"banca"
+"banca a sportelli multipli"
+"banca associata"
+"banca centrale"
+"banca centrale"
+"banca centrale federale"
+"banca commerciale"
+"banca cooperativa"
+"banca d'affari"
+"banca d'affari"
+"banca d'affari"
+"banca d'investimento"
+"banca dati"
+"banca degli occhi"
+"banca del sangue"
+"banca del seme"
+"Banca della Riserva Federale"
+"banca di credito agrario"
+"banca di credito federale"
+"banca di credito finanziario"
+"banca di credito fondiario"
+"banca di investimento"
+"banca di paese"
+"banca di risparmio"
+"banca internazionale"
+"banca mercantile"
+"banca mercantile"
+"banca nazionale"
+"banconota emessa da una banca centrale"
+"biglietto di banca"
+"direttore di banca"
+"dirigente di banca"
+"funzionario di banca"
+"la banca giusta"
+"presidente di banca"
+"rapina in banca"
+"saldo in banca"
+*[[banco]], istituto di credito, (spec. in informatica) [[archivio]], [[deposito]], [[raccolta]]
+*Enciclopedia [http
+M>bank</E
+M>panca</E
+M>banco</E
+M>di credito ordinario</E
+M>di credito mobiliare</E
+M>di credito fondiario</E
+M>centrale</E
+M>istituto di emissione</E
+M>ordinarie</E
+M>popolari</E
+M>impiegato</E
+M>funzionario di b</E
+M>depositare</E
+M>riscuotere un assegno in b</E
+M>operazioni di b</E
+M>avere depositi in b</E
+M>biglietto di b</E
+M>biglietto di stato</E
+M>banca etica</E
+M>fuori banca</E
+M>costruzione di una nuova b.</E
+M>andare in b</E
+M>alla b</E
+M>i sotterranei della B</E
+M>d’Italia</E
+M>del sangue</E
+M>del midollo osseo</E
+M>della cornea</E
+M>degli occhi</E
+M>del rene</E
+M>dello sperma</E
+M>banche degli organi e dei tessuti</E
+M>dei dati</E
+M>b. dati</E
+M>Banca del tempo</E
+M>capo di b</E
+M>sedere alla b</E
+M>scrivere uno alla b</E
+M>banca</E
+M>, sottobanca</E
+M>piè di banca</E

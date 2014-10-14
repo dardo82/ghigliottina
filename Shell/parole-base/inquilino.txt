@@ -1,0 +1,16 @@
+inquilino.txt
+"inquilino"
+"inquilino"
+* [[occupante]], [[affittuario]]
+*[[inquilinismo]]
+M>inquilinus</E
+M>col</E
+M>inc</E
+M>gli i</E
+M>della palazzina</E
+M>l’i</E
+M>la nuova i. del terzo piano</E
+M>riscuotere l’affitto dall’i</E
+M>dare lo sfratto a un i</E
+M>moroso</E
+M>inquilinismo</E

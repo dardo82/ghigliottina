@@ -1,0 +1,38 @@
+signorina.txt
+"signorina"
+"signorina"
+"signorina, giovane donna"
+#* ''la 
+#* ''la 
+#* ''le '''signorine''' dei viali'' 
+*[[signora]], [[signore]]
+M>signora</E
+M>la s. Rossi</E
+M>la s. Claudia</E
+M>buon giorno</E
+M> signorina</E
+M>si accomodi</E
+M> signorina</E
+M>vogliamo smettere</E
+M> signorina</E
+M> di fare i capricci?</E
+M>signora</E
+M>sig.na</E
+M>Alla sig.na Claudia Bianchi</E
+M>s. buonasera</E
+M>non è uno spettacolo adatto a una signorina</E
+M>non si riconosce più</E
+M> è diventata una s.</E
+M>l&#8217;ho conosciuta bambina</E
+M> e ora è già una s.</E
+M>è diventata s.</E
+M>è già s.</E
+M>non è ancora signorina</E
+M>ha due figlie signorine</E
+M>è un gioiello troppo importante per una signorina</E
+M>è ancora s.</E
+M>ha preferito restare signorina</E
+M>per signorine</E
+M>il rugby non è uno sport da s.</E
+M>questo non è un ambiente</E
+M> un lavoro per signorine.</E

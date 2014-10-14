@@ -1,0 +1,22 @@
+amplificatore.txt
+"amplificatore"
+"amplificatore"
+"amplificatore audio"
+"amplificatore di potenza"
+"amplificatore video"
+M>amplificator</E
+M>oris</E
+M>trice</E
+M>perché non mi abbiate a tacciare di a</E
+M>elettrici</E
+M>di tensione</E
+M>di corrente</E
+M>di potenza</E
+M>meccanici</E
+M>ottici</E
+M>acustici</E
+M>elettronici</E
+M>d’antenna</E
+M>impianto</E
+M>dispositivo a</E
+M>del suono</E

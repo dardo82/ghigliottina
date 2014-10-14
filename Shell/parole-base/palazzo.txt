@@ -1,0 +1,81 @@
+palazzo.txt
+"appartamento in palazzo senza ascensore"
+"guardia di palazzo"
+"palazzo"
+"palazzo"
+"palazzo"
+"palazzo del governo"
+"palazzo del municipio"
+"palazzo di appartamenti"
+"palazzo di giustizia"
+"palazzo di giustizia"
+"palazzo di giustizia"
+"palazzo di giustizia distrettuale"
+"palazzo di uffici"
+"palazzo di uffici"
+"Palazzo di vetro"
+"palazzo presidenziale"
+"palazzo senza ascensore"
+"simile ad un palazzo"
+*residenza signorile, casa signorile, [[villa]]
+*[[casa]], [[edificio]], [[fabbricato]], [[immobile]], [[stabile]], [[caseggiato]], [[costruzione]],  [[condominio]];  [[palazzina]]
+*'''''Palazzaccio'''''
+*''Giochi di 
+*Giuseppe Pittano, ''Il mio primo dizionario di italiano illustrato'', edizione 1995, DeAgostini p. 379 
+M>palatium</E
+M>Palatium</E
+M>un p</E
+M>medievale</E
+M>rinascimentale</E
+M>barocco</E
+M>i p</E
+M>dell&#8217;età umbertina</E
+M>reale</E
+M>ducale</E
+M> arcivescovile</E
+M>i sacri p</E
+M>apostolici</E
+M>comunale</E
+M>del Tribunale</E
+M>di Giustizia</E
+M>della Ragione</E
+M>il p</E
+M>delle Poste</E
+M>Strozzi</E
+M>Davanzati</E
+M>Filomarino</E
+M>Colonna</E
+M>Doria</E
+M>Torlonia</E
+M>Chigi</E
+M>Montecitorio</E
+M>Montecitorio</E
+M>Madama</E
+M>di città</E
+M>hôtel de ville</E
+M>dei congressi</E
+M>dello sport</E
+M>del ghiaccio</E
+M>di vetro</E
+M>intrighi di p</E
+M>congiura di p</E
+M>conte di p</E
+M>maestro di p</E
+M>maggiordomo</E
+M>maestro del Sacro P</E
+M>dama di p</E
+M>essere citato</E
+M>essere chiamato a palazzo</E
+M>le segrete decisioni del P</E
+M>voci di P</E
+M>accordi</E
+M>compromessi di P</E
+M>un imponente p</E
+M>di nove piani</E
+M>i p</E
+M>del centro</E
+M>della periferia</E
+M>palazzetto dello sport</E
+M>palazzo dello sport</E
+M>il palazzotto di don Rodrigo sorgeva isolato</E
+M>a somiglianza d&#8217;una bicocca</E

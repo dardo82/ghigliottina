@@ -1,0 +1,55 @@
+biblioteca.txt
+"biblioteca"
+"biblioteca"
+"biblioteca ambulante"
+"biblioteca cinematografica"
+"biblioteca circolante"
+"biblioteca di riferimento"
+"biblioteca distrettuale"
+"biblioteca itinerante"
+"biblioteca mobile"
+"biblioteca pubblica"
+"biblioteca scolastica"
+"biblioteca specializzata"
+"catalogo della biblioteca"
+"copia per biblioteca"
+"direttore della biblioteca"
+"gestione biblioteca"
+"scaffale di biblioteca"
+"scrivania di biblioteca"
+"tessera della biblioteca"
+"topo di biblioteca"
+*''(libri riguardanti lo steso argomento)'' [[collana]]
+*''(edificio in cui si raccolgono libri)'' [[libreria]]
+*italiano
+M>bibliotheca</E
+M>«biblioteca»</E
+M>bibliothéke</E
+M>vuol dire</E
+M> però</E
+M> innanzi tutto</E
+M> «scaffale»: scaffale sui cui ripiani si depongono i rotoli</E
+M> quindi ovviamente anche l’insieme dei rotoli</E
+M> e solo per traslato la sala</E
+M>quando si cominciò a costruirne</E
+M> in cui erano collocate «le biblioteche»</E
+M>privata</E
+M>pubblica</E
+M>comunale</E
+M>universitaria</E
+M>nazionale</E
+M>Laurenziana</E
+M>Apostolica Vaticana</E
+M>scolastica</E
+M>circolante</E
+M>andare in b</E
+M>frequentare una b</E
+M>è una b</E
+M>ambulante</E
+M>vivente</E
+M>storica</E
+M>Sonzogno</E
+M>diamante</E
+M>di cultura moderna</E
+M>Italiana</E
+M>filosofica</E

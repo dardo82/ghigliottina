@@ -1,0 +1,19 @@
+cicala.txt
+"cicala"
+"cicala"
+"cicala"
+"cicala"
+*italiano
+M>cicala</E
+M>cicada</E
+M>Lyristes plebejus</E
+M>cicalare</E
+M>grattar la pancia</E
+M>il corpo</E
+M>alla c</E
+M>cicalino</E
+M>cigala</E
+M>cigalla</E
+M>occhio della c</E
+M>maniglione della c</E
+M>di mare</E

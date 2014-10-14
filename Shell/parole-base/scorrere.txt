@@ -1,0 +1,73 @@
+scorrere.txt
+"dare una scorsa, scorrere"
+"far scorrere verso il basso"
+"far scorrere verso l'alto"
+"lasciar scorrere"
+"scorrere"
+"scorrere"
+"trascorrere, passare"
+"scorrere"
+"scorrere"
+"scorrere del tempo"
+"scorrere dell'acqua"
+"scorrere lentamente"
+"scorrere lungo"
+"scorrere piano"
+"scorrere sul mare"
+"scorrere una pagina"
+"scorrere; fluire in"
+*[[muoversi]], [[girare]], [[fluire]], [[scivolare]],  [[passare]]
+*[[scorrazzare]],[[scorreria]], [[scorrevole]], [[scorribanda]], [[scorrimento]], [[scorso]]
+M>exc</E
+M>ex-</E
+M>curr</E
+M>correre</E
+M>essere</E
+M>il fiume scorre lento nel suo letto</E
+M>un ruscello scorreva tra due rive erbose</E
+M>l&#8217;acqua scorre nelle tubature</E
+M>il sangue scorre nelle vene</E
+M>e ben fu dritto Se Cortes e Pizzarro umano sangue Non istimar quel ch&#8217;oltre l&#8217;Oceàno Scorrea le umane membra</E
+M>il dente d&#8217;arresto del percussore scorre in una scanalatura dell&#8217;otturatore</E
+M>la fune scorre nella carrucola</E
+M>lascia s. l&#8217;acqua dal rubinetto</E
+M> se vuoi averla più fresca</E
+M>grosse lacrime gli scorrevano giù per le guance</E
+M>spesso scorre più sangue nelle guerre civili che in quelle esterne.</E
+M>la penna scorreva quasi automaticamente sul foglio</E
+M>nel suo ricordo</E
+M> i momenti di quella giornata scorrevano rapidi e chiari come le scene di un film</E
+M>questo periodo è pesante</E
+M> scorre poco</E
+M>una poesia che scorre fluida</E
+M>alcuni ragionamenti non scorrono</E
+M> sono oscuri</E
+M>le giornate scorrevano liete e felici</E
+M>le ore scorrevano rapidamente</E
+M>da allora</E
+M> sono scorsi già due mesi</E
+M>Lasso</E
+M> così m&#8217;è scorso Lo mio dolce soccorso</E
+M>correre</E
+M>i tuoni scoppiati con istrepito repentino</E
+M> scorrevano rumoreggiando dall&#8217;una all&#8217;altra regione del cielo</E
+M>quello svago che pur trovava nello s. in qua e in là all&#8217;aria aperta</E
+M>i titoli di coda scorrevano troppo velocemente</E
+M>far scorrere</E
+M>far s. un film</E
+M>i fotogrammi di un film sullo schermo</E
+M>far s. le righe di un testo sul video</E
+M>non mancando ... le genti del pontefice di s. e predare per tutto il paese</E
+M>scorgo molti per loro stultitia scorsi ne&#8217; casi sinistri</E
+M> biasimarsi della fortuna</E
+M>scorrono spesso in costumi poco moderati</E
+M>scorse la lettera fino in fondo</E
+M>ho scorso il tuo articolo e m&#8217;è sembrato interessante</E
+M>non ho avuto nemmeno il tempo di s. il giornale</E
+M>ho scorso il mio passato ma non vi ho trovato nulla da rimproverarmi</E
+M>eserciti stranieri hanno scorso per secoli l&#8217;Italia</E
+M>i viniziani ... scorrevano cogli stradiotti tutto il paese</E
+M>periodo</E
+M>prosa</E
+M>stile scorrente</E
+M>decorrente</E

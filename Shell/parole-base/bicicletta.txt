@@ -1,0 +1,41 @@
+bicicletta.txt
+"andare a fare un giro in bicicletta o in moto"
+"andare in bicicletta"
+"andare in bicicletta"
+"andare in bicicletta"
+"andare in bicicletta"
+"andare in bicicletta"
+"bicicletta"
+"bicicletta da camera"
+"bicicletta motorizzata"
+"bicicletta pieghevole"
+"catena della bicicletta"
+"catena della bicicletta"
+"hai voluto la bicicletta? e allora pedala"
+"in bicicletta"
+"motocicletta o bicicletta da strada"
+"pompa da bicicletta"
+"pompa della bicicletta"
+"sedile della bicicletta"
+"sella della bicicletta"
+"spingere qualcuno (sulla sedia a rotelle, sulla bicicletta, etc.)"
+*[[ciclo]], [[biciclo]]
+*[[biclettata]]
+*[[tandem]]
+* Paravia, ''[http
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001 p. 244
+*AA.VV., ''Dizionario etimologico'', edizione cartacea 2004, ristampa 2008, RusconiLibri, p. 137
+M>bicyclette</E
+M>bicycle</E
+M>da passeggio</E
+M>da turismo</E
+M>da corsa</E
+M>a motore</E
+M>b. elettrica</E
+M>b. elettrica con pedalata assistita</E
+M>andare in b</E
+M>recarsi al lavoro in b</E
+M>montare sulla b</E
+M>portare la b</E
+M>a mano</E
+M>da camera</E

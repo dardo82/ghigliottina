@@ -1,0 +1,28 @@
+prefetto.txt
+"prefetto"
+#* ''prefetto dell'annona'', ''prefetto dell'erario'', ''prefetto della flotta''
+* [[prefettura]], [[prefettessa]]
+m>praefectus</e
+m>praefic</e
+m>prae</e
+m>fac</e
+m>dell&rsquo;urbe</e
+m>praefectus urbi</e
+m>prefetti del pretorio</e
+m>praefecti praetorii</e
+m>praetorio</e
+m>dei vigili</e
+m>praefectus vigilum</e
+m>dell&rsquo;annona</e
+m>praefectus annonae</e
+m>dell&rsquo;Egitto</e
+m>apostolico</e
+m>prefettura apostolica</e
+m>dell&rsquo;annona</e
+m>della grascia</e
+m>dell&rsquo;estimo</e
+m>di Palazzo</e
+m>marittimo</e
+m>di disciplina</e
+m>prefetto</e
+m>istitutore</e

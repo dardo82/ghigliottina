@@ -1,0 +1,17 @@
+litigio.txt
+"apice di un litigio"
+"leggero litigio"
+"litigio"
+"litigio"
+"litigio, bisticcio"
+*[[lite]], [[litigata]], [[bisticcio]], [[battibecco]], [[discussione]], [[contrasto]], [[contesa]], [[questione]], [[disaccordo]], [[briga]], [[disputa]], [[discordia]], [[controversia]], [[dissidio]], [[diverbio]], [[dissapore]], [[alterco]]; [[scena]], [[scenata]], [[piazzata]], [[lotta]], [[rissa]], [[zuffa]], [[pestaggio]], [[accapigliamento]], [[baruffa]], [[tafferuglio]], [[gazzarra]], [[parapiglia]]
+*[[accordo]], [[intesa]], [[rappacificazione]]
+*[[riconciliazione]], [[rappacificazione]], [[accomodamento]]
+*[[litigioso]], [[litigiosità]]
+M>litigium</E
+M>litigare</E
+M>amare</E
+M>cercare i l</E
+M>suscitare un l</E
+M>quietare</E
+M>sopire i litigi</E

@@ -1,0 +1,33 @@
+squalo.txt
+"grande squalo bianco"
+"squalo"
+"squalo"
+"squalo azzurro"
+"squalo balena"
+"squalo bianco"
+"squalo elefante"
+"squalo martello"
+"squalo tigre"
+*[[squalene]], [[squalano]]
+*[[pesce]]
+M>squalus</E
+M>s. azzurro</E
+M>Prionace glauca</E
+M>verdesca</E
+M>s. bianco</E
+M>Carcharodon carcharias</E
+M>s. feroce</E
+M>Carcharias ferox</E
+M>s. gigante</E
+M>s. pellegrino</E
+M>s. elefante</E
+M>Cetorhinus maximus</E
+M>s. plumbeo</E
+M>Carcharhinus plumbeus</E
+M>s. balena</E
+M>Rhincodon typus</E
+M>s. tigre</E
+M>Galeocerdo cuvieri</E
+M>pescicani.</E
+M>cavedano</E
+M>gli s. della speculazione edilizia</E

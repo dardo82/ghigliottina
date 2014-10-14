@@ -1,0 +1,29 @@
+recipiente.txt
+"perdere (di recipiente)"
+"recipiente"
+"recipiente isotermico"
+"recipiente per alimenti"
+#*''la botte è un recipiente per il vino''
+M>recipiens</E
+M>entis</E
+M>recip</E
+M>cap</E
+M>per acqua</E
+M>per gasolio</E
+M>per grassi lubrificanti</E
+M>per la farina</E
+M>di ferro smaltato</E
+M>di rame stagnato</E
+M>di vetro</E
+M>di coccio</E
+M>elevatore</E
+M>agitato</E
+M>reattore a semplice gorgogliamento</E
+M>idrico</E
+M>recipiente</E
+M>alveo r</E
+M>ricevente</E
+M>pentole</E
+M>secchi r</E
+M>molto r</E
+M>poco recipienti</E

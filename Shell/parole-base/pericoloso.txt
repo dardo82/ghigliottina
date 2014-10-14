@@ -1,0 +1,53 @@
+pericoloso.txt
+"comportamento pericoloso"
+"comportamento pericoloso"
+"pericoloso"
+"punto pericoloso"
+"rischioso per la salute, pericoloso per la salute"
+"terreno pericoloso"
+*(''di azione, professione'') [[rischioso]], [[azzardato]], [[arrischiato]], [[difficile]], [[difficoltoso]], [[imprudente]], [[critico]], [[sconsigliabile]], [[rovinoso]], [[dannoso]], [[nocivo]], [[temibile]], [[deleterio]], [[fatale]], [[letale]]
+*(''di persona'') [[infido]], [[malfido]]
+* [[insicuro]], [[insidioso]], [[periglioso]], [[rischioso]]
+* (''di azione, professione'') [[sicuro]], [[tranquillo]]
+* [[pericolosamente]], [[pericolosità]]
+* [[pericolo]], [[pericolante]]
+M>periculosus</E
+M>peric</E
+M>lum</E
+M>un viaggio</E
+M>un attraversamento p</E
+M>strada</E
+M>discesa p</E
+M>curva</E
+M>svolta p</E
+M>essere a una svolta p. della propria vita</E
+M>della propria carriera</E
+M>essere</E
+M>mettersi</E
+M>trovarsi in una situazione p</E
+M>un&#8217;impresa p</E
+M>fa un mestiere molto p</E
+M>gioco p</E
+M>è p. sporgersi dai finestrini del treno in corsa</E
+M>è p. fidarsi di chi non si conosce</E
+M>andare in giro a quest&#8217;ora</E
+M>con questo tempaccio</E
+M>può essere pericoloso</E
+M>un individuo p</E
+M>socialmente p</E
+M>è un p. criminale</E
+M>il ladro in fuga era p. perché armato</E
+M>è un guidatore p</E
+M>ha una guida pericolosa</E
+M>non gli dare troppa confidenza</E
+M> è un tipo pericoloso!</E
+M>una belva che</E
+M>se non è molestata</E
+M>non è p. per l&#8217;uomo</E
+M>l&#8217;adolescenza è spesso un&#8217;età p</E
+M>ti stai creando delle p. illusioni</E
+M>hai affrontato un argomento p</E
+M>questo è un discorso piuttosto pericoloso</E
+M>si sporgeva pericolosamente nel vuoto</E
+M>l&#8217;automobile procedeva rasentando pericolosamente il precipizio</E
+M>vivere pericolosamente</E

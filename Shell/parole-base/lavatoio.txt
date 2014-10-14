@@ -1,0 +1,6 @@
+lavatoio.txt
+"lavatoio"
+M>lavat</E
+M>rium</E
+M>lavare</E
+M>pubblico</E

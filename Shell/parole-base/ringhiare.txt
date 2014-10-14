@@ -1,0 +1,21 @@
+ringhiare.txt
+"ringhiare"
+"ringhiare"
+"ringhiare a"
+"ringhiare verso qc, brontolare verso qc"
+#* ''Il cane del vicino ringhia ogni volta che vede un gatto''
+#* ''Dopo l'insuccesso dello spettacolo, il regista ringhiò «Che cosa non ha funzionato?»''
+* ''(verso minaccioso del cane)''
+* ''(detto di persona irata)''
+M>*ringulare</E
+M>ringi</E
+M>io rìnghio</E
+M>tu ringhi</E
+M>avere</E
+M>un grosso mastino si mise a r</E
+M>appena ci vide</E
+M>l&#8217;ondata ringhiava compressa</E
+M> scaraventando secchiate di tempesta oltre i macigni</E
+M>Stavvi Minòs orribilmente</E
+M>e ringhia</E
+M>non volle ascoltare spiegazioni e ringhiò: &#171;Uscite di qui!&#187;</E

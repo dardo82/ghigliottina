@@ -1,0 +1,25 @@
+agganciare.txt
+"agganciare"
+"agganciare"
+"agganciare"
+"agganciare"
+"agganciare; attaccare; collegare"
+"per agganciare, per collegare"
+*(una collana, un indumento) [[allacciare]], [[chiudere]], [[abbottonare]], [[affibbiare]]
+*(un rimorchio, un vagone) [[attaccare]], [[unire]]
+*(una collana, un indumento)[[slacciare]], [[aprire]], [[sbottonare]]
+*(un rimorchio, un vagone) [[sganciare]], [[staccare]]
+M>io aggàncio</E
+M>a. due vagoni</E
+M>a. il carico alla gru</E
+M>a. la collana</E
+M>il nemico</E
+M>qualcuno</E
+M>un cliente</E
+M>una ragazza</E
+M> gli scarponi si agganciano agli sci</E
+M>la palla</E
+M>una cosa a un’altra</E
+M>ancorare</E
+M>la retribuzione dei lavoratori all’aumento del costo della vita</E
+M>l’abito si è agganciato alla sedia.</E

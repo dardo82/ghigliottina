@@ -1,0 +1,235 @@
+errore.txt
+"cadere in errore"
+"commettere un errore"
+"commettere un errore"
+"commettere un errore imbarazzante"
+"competizione di spelling a eliminazione su errore"
+"errore"
+"errore"
+"errore"
+"errore"
+"errore di ortografia"
+"errore di prospettiva"
+"errore di stampa"
+"errore di trascrizione"
+"errore giudiziario"
+"errore grammaticale"
+"errore imbarazzante"
+"errore in giudizio"
+"errore logico"
+"errore percentuale"
+"errore quadratico medio"
+"errore standard"
+"errore stupido"
+"errore temporale"
+"errore tipografico"
+"errore umano"
+"errore verbale"
+"errore, abbaglio"
+"essere in errore"
+"essere in errore"
+"fallibile, incline all'errore"
+"fare un errore"
+"fare un errore in un momento critico"
+"indurre in errore"
+"libero dall'errore"
+"luogo comune, errore"
+"ostinato nell'errore"
+"per errore"
+"per sbaglio, per errore"
+"propenso all'errore"
+"segnale di errore"
+"segnale di errore"
+"senza errore"
+"senza possibilità di errore"
+#* ''hai fatto un errore''
+#*'''errore assoluto'''
+#*'''errore relativo'''
+*[[sbaglio]], [[fallo]], [[svista]], [[abbaglio]], [[malinteso]], [[inesattezza]], [[imprecisione]], [[pecca]], [[equivoco]], [[qui pro quo]]
+*(di lingua) [[scorrettezza]], [[strafalcione]], [[sgrammaticatura]], [[refuso]], [[svarione]], [[papera]]
+*[[eresia]], [[eterodossia]], [[pregiudizio]]
+*[[colpa]], [[peccato]], [[disonore]], [[macchia]], [[onta]], [[vergogna]], [[aberrazione]]
+* (nel parlare o nello scrivere) [[lapsus]]
+*[[colpa]], [[peccato]], [[disonore]], [[macchia]], [[onta]], [[vergogna]], [[aberrazione]]
+*[[verità]], [[ortodossia]]
+*[[discolpa]], [[merito]], [[virtù]]
+*Enciclopedia [http
+M>error</E
+M>oris</E
+M>errare</E
+M>gli e</E
+M>di Ulisse</E
+M>E lo aspettava la brumal Novara E a’ tristi e</E
+M>mèta ultima Oporto</E
+M>il suo corpo è franto dall’error lungo</E
+M>Qual</E
+M>con un vago errore Girando parea dir</E
+M>Di quei sospiri ond’io nudriva ’l core In sul mio primo giovenile e</E
+M>scontare i proprî e</E
+M>riparare a un e</E
+M>fu un e</E
+M>di gioventù</E
+M>vivere</E
+M>persistere nell’e</E
+M>ritrattare i proprî e</E
+M>l’umana specie inferma giacque Giù per secoli molti in grande e</E
+M>non è uomo sì savio che non pigli qualche volta degli e</E
+M>sei in e</E
+M>se la pensi così</E
+M>cadere</E
+M>essere tratto in e</E
+M>indurre in e</E
+M>confutare un e</E
+M>ricredersi di un e</E
+M>di ragionamento</E
+M>sono e</E
+M>di concetto</E
+M>non di forma</E
+M>e. di fatto</E
+M>e. di diritto</E
+M>giudiziario</E
+M>ostativo</E
+M>Ed io seggo e mi lagno Del giovanile error che m’abbandona</E
+M>di grammatica</E
+M>di ortografia</E
+M>di pronuncia</E
+M>di prospettiva</E
+M>fare un e</E
+M>di calcolo</E
+M>salvo errore</E
+M>salvo e</E
+M>od omissione</E
+M>una pagina piena di errori di stampa</E
+M>segnare</E
+M>correggere gli e</E
+M>di un compito</E
+M>versione con parecchi e</E
+M>gravi</E
+M>leggeri</E
+M>madornali</E
+M>è stato un e</E
+M>di distrazione</E
+M>è stato un imperdonabile e</E
+M>non invitare anche lui</E
+M>commettere un e</E
+M>strategico</E
+M>fu una politica piena di errori</E
+M>Appio</E
+M>lasciando il popolo e accostandosi a’ nobili</E
+M>fece un e</E
+M>evidentissimo</E
+M>di misura</E
+M>accidentale</E
+M>casuale</E
+M>statistico</E
+M>sistematico</E
+M>accuratezza</E
+M>distribuzione normale</E
+M>di Gauss</E
+M>gaussiana</E
+M>curva degli e</E
+M>di Gauss</E
+M>gaussiana</E
+M>E. assoluto</E
+M>e. relativo</E
+M>percentuale</E
+"name": "Errore di segmentazione"
+"name": "Errore"
+"name": "Errore di conio"
+"name": "Errore standard"
+"name": "Errore sistematico"
+"name": "L'errore"
+"name": "Un vecchio errore"
+"name": "La costruzione di un errore"
+"name": "La costruzione di un errore (Moonbase Remix)"
+"name": "L'errore"
+"name": "La costruzione di un errore"
+"name": "La costruzione di un errore (reprise)"
+"name": "Solo un errore (studio edit)"
+"name": "Solo un errore"
+"name": "A xe un grande errore"
+"name": "Solo un errore"
+"name": "Solo un errore"
+"name": "Rilevazione e correzione d'errore"
+"name": "Errore 404"
+"name": "Errore quadratico medio"
+"name": "Errore di misurazione"
+"name": "Errore"
+"name": "Errore inerente"
+"name": "Margine d'errore"
+"name": "Errore relativo"
+"name": "Errore A non B"
+"name": "A prova di errore"
+"name": "Errore congenito del metabolismo"
+"name": "Il trionfo del Tempo e del Disinganno, Parte seconda: \"\u00c8 un ostinato errore\""
+"name": "L'errore"
+"name": "Non \u00e8 mai un errore"
+"name": "L'errore"
+"name": "Per rabbia e per errore"
+"name": "Un vecchio errore"
+"name": "Un vecchio errore"
+"name": "L'errore"
+"name": "L'errore"
+"name": "Errore Renato Zero"
+"name": "Errore Fernando Caiazzo"
+"name": "Errore Giampiero Galeazzi"
+"name": "Cuore amore errore disintegrazione"
+"name": "Errore Luciano Ligabue"
+"name": "Cuore amore errore disintegrazione"
+"name": "Errore Piersilvio Berlusconi"
+"name": "Un vecchio errore"
+"name": "A xe un grande errore"
+"name": "Un vecchio errore"
+"name": "Solo un errore (studio edit)"
+"name": "Solo un errore"
+"name": "La costruzione di un errore"
+"name": "La costruzione di un errore (Moonbase Remix)"
+"name": "L'errore"
+"name": "La costruzione di un errore"
+"name": "La costruzione di un errore (reprise)"
+"name": "L'errore"
+"name": "L'errore"
+"name": "L'errore"
+"name": "Un vecchio errore"
+"name": "Il trionfo del Tempo e del Disinganno, Parte seconda: \"\u00c8 un ostinato errore\""
+"name": "L'errore"
+"name": "L'errore (Rollers Inc. remix)"
+"name": "Per rabbia e per errore"
+"name": "L'errore"
+"name": "L'errore"
+"name": "Non \u00e8 mai un errore"
+"name": "Errore Renato Zero"
+"name": "Errore Piersilvio Berlusconi"
+"name": "Errore Giampiero Galeazzi"
+"name": "Errore Fernando Caiazzo"
+"name": "Errore Luciano Ligabue"
+"name": "Il tuo errore"
+"name": "Errore Di Sistema"
+"name": "Sono un errore"
+"name": "L'errore"
+"name": "Errore Di Sistema"
+"name": "L'errore"
+"name": "La conseguenza naturale dell'errore"
+"name": "Il tuo errore"
+"name": "La conseguenza naturale dell'errore"
+"name": "Schermata blu di errore"
+"name": "Errore fondamentale di attribuzione"
+"name": "Errore giudiziario"
+"name": "A prova di errore"
+"name": "Schermata nera di errore"
+"name": "Errore di semantica"
+"name": "Loredana Errore"
+"name": "Errore statistico"
+"name": "Schermata rossa di errore"
+"name": "Non \u00e8 mai un errore (GH vrs)"
+"name": "L'errore"
+"name": "L'errore"
+"name": "Un vecchio errore"
+"name": "Non \u00e8 mai un errore"
+"name": "Non \u00e8 mai un errore (GH vrs)"
+"name": "Un vecchio errore"
+"name": "Errore del pilota"
+"name": "L'errore di Cartesio"
+"name": "Errore di Abbe"
+"name": "Errore di quantizzazione"
+"name": "Sono un errore"

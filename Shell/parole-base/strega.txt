@@ -1,0 +1,34 @@
+strega.txt
+"colpo della strega"
+"maga, incantatrice, strega"
+"strega"
+"strega"
+*[[maga]], [[fattucchiera]], [[incantatrice]]
+*[[stregare]], [[stregone]], [[stregoneria]], [[stregato]]
+M>str</E
+M>strix -igis</E
+M>convegno delle s.</E
+M>un tempo le s. venivano processate</E
+M>torturate</E
+M>bruciate vive sul rogo</E
+M>credere alle s.</E
+M>Caccia alle s.</E
+M>witch hunt</E
+M>la caccia alle s. negli Stati Uniti d&#8217;America durante il maccartismo</E
+M>la s. della favola di Biancaneve</E
+M>Colpo della s.</E
+M>Latte di s.</E
+M>della s.</E
+M>è quella s. della suocera che ha fatto fallire il matrimonio</E
+M>è proprio una s.</E
+M>con il passare degli anni è diventata una strega</E
+M>quella s. riesce sempre a ottenere quello che vuole</E
+M>a incantare tutti</E
+M>pivetta</E
+M>Erba s.</E
+M>Anello</E
+M>circolo delle s.</E
+M>Blennius sanguinolentus</E
+M>barbatula</E
+M>è una streghetta</E
+M> quella ragazzina!</E

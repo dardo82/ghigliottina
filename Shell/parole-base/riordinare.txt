@@ -1,0 +1,24 @@
+riordinare.txt
+"raccogliere e riordinare"
+"riordinare"
+"riordinare"
+"riordinare, rassettare"
+"riordinare, riadattare"
+M>ordinare</E
+M>io rïórdino</E
+M>riordinò i fogli scompigliati dal vento</E
+M>la donna stava riordinando la casa</E
+M>tentò di r</E
+M>i soldati sbandati</E
+M>le file scompaginate</E
+M>riordinarsi i capelli</E
+M>le vesti</E
+M>un museo</E
+M>una biblioteca con criterî più moderni</E
+M>era occupato a r</E
+M>i suoi appunti</E
+M>i suoi conti</E
+M>le finanze dello stato</E
+M>un&#8217;azienda</E
+M>un ufficio</E
+M>il paese</E

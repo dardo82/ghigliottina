@@ -1,0 +1,188 @@
+effetto.txt
+"a doppio effetto"
+"a effetto"
+"avere effetto"
+"avere un brutto effetto su qcn"
+"avere un forte effetto"
+"causa ed effetto"
+"causa ed effetto"
+"Con effetto immediato"
+"con effetto positivo"
+"dare effetto"
+"dare l'effetto a"
+"di grande effetto"
+"effetto"
+"effetto"
+"effetto"
+"effetto"
+"effetto a catena"
+"effetto collaterale"
+"effetto collaterale"
+"effetto collaterale"
+"effetto contrario"
+"effetto Coriolis"
+"effetto corona"
+"effetto di"
+"effetto di espansione"
+"effetto di posizionamento"
+"effetto Doppler"
+"effetto fotoelettrico"
+"effetto leva"
+"effetto margine"
+"effetto ottico"
+"effetto placebo"
+"effetto serra"
+"effetto sonoro"
+"effetto speciale"
+"effetto totale"
+"effetto Zeeman"
+"essere sotto l'effetto dell'alcol"
+"essere sotto l'effetto di droghe"
+"fare effetto, avere effetto"
+"per effetto"
+"per effetto degli arrotondamenti"
+"ricevere l'effetto di"
+"risposta ad effetto"
+"sedativo a lungo effetto"
+"transistor a effetto di campo"
+"ubriacarsi di; essere sotto l'effetto di"
+"una frase di sicuro effetto"
+#*''il fuoco è la causa   ed  il fumo è l'effetto''
+*[[conseguenza]], [[esito]], [[prodotto]], [[reazione]], [[frutto]]
+*[[causa]], [[origine]], [[principio]] 
+*[[ effettato]], [[effettismo]], [[effettista]], [[effettistica]], [[effettistico]], [[effettivamente]], [[effettività]], [[effettore]],
+*[[effettuabile]], [[effettuabilità]], [[effettuamente]], [[effettuale]], [[effettualità]], [[effettualmente]], [[effettuare]],[[effettuazione]], 
+M>effectus</E
+M>effic</E
+M>fac</E
+M>effets</E
+M>rapporto tra causa ed e</E
+M>nullo e</E
+M>è maggiore de la cagione</E
+M>avere</E
+M>portare</E
+M>produrre un determinato e</E
+M>avere per e</E
+M>qualche cosa</E
+M>buoni</E
+M>cattivi e</E
+M>utili</E
+M>dannosi</E
+M>la punizione ha avuto un e</E
+M>salutare</E
+M>i suoi improvvisi rossori sono e</E
+M>di timidezza</E
+M>questi e</E
+M>di carità</E
+M>che possiamo certamen</E
+M>e chiamar grandiosi</E
+M>barometrico</E
+M>corona</E
+M>Compton</E
+M>Doppler</E
+M>Joule elettrotermico</E
+M>Volta</E
+M>di tensione di contatto</E
+M>E. serra</E
+M>ecco gli e</E
+M>di una cattiva educazione</E
+M>ottenere</E
+M>sortire un e</E
+M>risentire gli e</E
+M>della fatica</E
+M>di uno sforzo prolungato</E
+M>l’aumento dei prezzi ha avuto per e</E
+M>una temporanea contrazione delle vendite</E
+M>giuridici</E
+M>fare effetto</E
+M>il purgante non m’ha fatto e</E
+M>per effetto di</E
+M>era allegro per e</E
+M>del vino bevuto</E
+M>valido a tutti gli e</E
+M>per ogni e</E
+M>di ragione e di legge</E
+M>dare e</E
+M>a una cosa</E
+M>dare e</E
+M>a una minaccia</E
+M>a una condanna</E
+M>mettere a</E
+M>mandare ad e</E
+M>recare ad e</E
+M>porre in e</E
+M>avere e</E
+M>la mia proposta non ha avuto effetto</E
+M>ha avuto e</E
+M>immediato</E
+M>legge con e</E
+M>retroattivo</E
+M>tiro ad e</E
+M>con e</E
+M>dare l’e</E
+M>alla palla</E
+M>pallone carico d’effetto</E
+M>in effetti</E
+M>in effetto</E
+M>così è</E
+M>in effetti</E
+M>a quest’e</E
+M>a tale e</E
+M>en effet</E
+M>à cet effet</E
+M>giochi di luce di grande e</E
+M>un addobbo di bell’e</E
+M>commedia priva di effetto</E
+M>battute</E
+M>scene</E
+M>parti d’effetto</E
+M>ad effetto</E
+M>di effetto</E
+M>film</E
+M>dramma</E
+M>romanzo di e</E
+M>vestito</E
+M>gioielli di effetto</E
+M>di grande e</E
+M>di sicuro e</E
+M>attore</E
+M>cantante</E
+M>musicista</E
+M>oratore che cerca soltanto l’e</E
+M>fare effetto</E
+M>sono spettacoli</E
+M>visioni</E
+M>racconti</E
+M>che fanno sempre un certo e</E
+M>le minacce non gli fanno nessun e</E
+M>fare l’e</E
+M>mi fa l’e</E
+M>di un povero diavolo</E
+M>mi faceva l’e</E
+M>di un pesce fuor d’acqua</E
+M>filati d’effetto</E
+M>effetti</E
+M>effetti di luce</E
+M>ottico</E
+M>cinematografici</E
+M>fotografici</E
+M>di carrello</E
+M>grandangolare</E
+M>flou</E
+M>notturno</E
+M>di pioggia</E
+M>pseudo</E
+M>stereoscopico</E
+M>stroboscopico</E
+M>speciali</E
+M>trasporto degli e</E
+M>per ferrovia</E
+M>effetti di vestiario</E
+M>personali</E
+M>effetti d’uso</E
+M>cambiale</E
+M>protestato</E
+M>presentato allo sconto</E
+M>in pensione</E
+M>privati</E
+M>pubblici</E

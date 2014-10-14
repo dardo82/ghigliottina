@@ -1,0 +1,44 @@
+vagone.txt
+"ultimo vagone del treno"
+"vagone"
+"vagone"
+"vagone"
+"contenuto di un vagone"
+"vagone"
+"vagone bagagli"
+"vagone cisterna"
+"vagone ferroviario"
+"vagone ferroviario"
+"vagone letto"
+"vagone merci; carro merci"
+"vagone ristorante"
+"vagone ristorante"
+*[[vagonata]]
+*[[vagoncino]], [[vagonetto]]
+M>wagon</E
+M>wagon</E
+M>waggon</E
+M>wagen</E
+M>v. letto</E
+M>v. ristorante</E
+M>wagon-lit</E
+M>wagon-restaurant</E
+M>sleeping-car</E
+M>dining-car</E
+M>v. passeggeri</E
+M>v. postale</E
+M>v. letto</E
+M>vagoni letto</E
+M>v. ristorante</E
+M>vagoni ristorante</E
+M>v. merci</E
+M>un v. di merci</E
+M>v. bestiame</E
+M>vagoni bestiame</E
+M>attaccare un altro v.</E
+M>due altri v.</E
+M>al treno</E
+M>era una bella donna</E
+M> ma ora è diventata un vagone</E
+M>V. volante</E
+M>un v. di carbone</E

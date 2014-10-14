@@ -1,0 +1,16 @@
+sciroppo.txt
+"malattia dell'urina a sciroppo d'acero"
+"sciroppo"
+"sciroppo d'acero"
+"sciroppo di grano"
+"sciroppo per la tosse"
+*[[sciropposo]]
+M>sirupus</E
+M>shar</E
+M>pesche</E
+M>pere sotto</E
+M>allo sc.</E
+M>sc. al tamarindo</E
+M>sc. di lamponi</E
+M>sc. per la tosse</E
+M>sc. ricostituente</E

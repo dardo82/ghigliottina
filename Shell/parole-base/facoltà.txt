@@ -1,0 +1,6 @@
+facoltà.txt
+#*''Frequenta la '''facoltà''' di economia''
+#*'''Facoltà scientifica''', che [[usa]] [[metodi]] [[numerici]] e [[statistici]] per [[produrre]] [[beni]] e [[servizi]]
+#*'''Facoltà umanistica''', che usa metodi [[logici]] e [[rigorosi]] per [[studiare]] la [[società]]
+#*''Ho la '''facoltà''' di intendere e di volere''
+*[[capacità]]

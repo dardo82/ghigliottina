@@ -1,0 +1,29 @@
+grandioso.txt
+"grande\/grandioso"
+"grandioso"
+"grandioso"
+"grandioso; enorme"
+M>un monumento</E
+M>un edificio g</E
+M>uno spettacolo teatrale g</E
+M>una g</E
+M>manifestazione folcloristica</E
+M>un g</E
+M>complesso industriale</E
+M>hai sempre idee g</E
+M>ma non sai metterle in pratica</E
+M>il progetto è g</E
+M>e sarà difficile trovare chi lo voglia finanziare</E
+M>è stata un’impresa g</E
+M>abbiamo riportato una g</E
+M>vittoria</E
+M>un’avanzata militare che ha del grandioso</E
+M>essere</E
+M>mostrarsi g</E
+M>gli piace fare il g</E
+M>con i soldi degli altri</E
+M>vogliono fare i g</E
+M>a ogni costo</E
+M>uno spettacolo grandiosamente organizzato</E
+M>vivere</E
+M>spendere grandiosamente</E

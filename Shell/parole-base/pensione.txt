@@ -1,0 +1,90 @@
+pensione.txt
+"a mezza pensione"
+"andare in pensione"
+"aver diritto alla pensione"
+"concedere la pensione"
+"fondo pensione"
+"in pensione"
+"maturare una pensione"
+"mezza pensione"
+"pensione"
+"pensione"
+"stato di chi percepisce una pensione"
+"pensione"
+"pensione"
+"pensione completa"
+"pensione completa"
+"pensione completa"
+"pensione di anzianità"
+"pensione di anzianità"
+"pensione integrativa"
+"pensione per animali"
+"pensione; albergo"
+"persona che riceve la pensione"
+"pensioner"
+"vicino alla pensione"
+*[[riposo]]
+*[[retta]], vitto e alloggio, [[dozzina]]
+*(somma di denaro) [[mensile]],[[stipendio]], [[retribuzione]] 
+*[[pensionabile]], [[pensionabilità]], [[pensionamento]], [[pensionante]], [[pensionare]], [[pensionario]],[[pensionato]], [[pensionistico]]
+M>pensio</E
+M>onis</E
+M>pend</E
+M>chiedere la p</E
+M>anticipata</E
+M>avere diritto alla p</E
+M>liquidare</E
+M>pagare la p</E
+M>riscuotere</E
+M>ritirare la p</E
+M>trattenuta di p</E
+M>fondo pensioni</E
+M>p. di anzianità</E
+M>p. di vecchiaia</E
+M>pensioni baby</E
+M>P. reversibile</E
+M>p. di reversibilità</E
+M>p. indiretta</E
+M>privilegiata</E
+M>privilegiata ordinaria</E
+M>privilegiata di guerra</E
+M>di guerra</E
+M>sociale</E
+M>assegno sociale</E
+M>p. integrativa</E
+M>complementare</E
+M>pensioni d&#8217;annata</E
+M>vino d&#8217;annata</E
+M>pensioni d&#8217;oro</E
+M>collocare</E
+M>mandare</E
+M>mettere in p</E
+M>andare</E
+M>essere in p</E
+M>a riposo</E
+M>in pensione</E
+M>pensionato</E
+M>ufficiale</E
+M>professore</E
+M>impiegato</E
+M>operaio in pensione</E
+M>di grazia</E
+M>fare p</E
+M>tenere a p</E
+M>in quella trattoria fanno anche p</E
+M>stare a p</E
+M>presso una famiglia</E
+M>completa</E
+M>mezza p</E
+M>la p</E
+M>è di ottanta euro al giorno</E
+M>pagare la pensione</E
+M>la p</E
+M>è in via Roma</E
+M>di prima</E
+M>di seconda categoria</E
+M>la località è piena di alberghi e pensioni</E
+M>una p</E
+M>sul mare.</E
+M>effetti in p</E
+M>di titoli</E

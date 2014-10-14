@@ -1,0 +1,93 @@
+foglio.txt
+"foglio"
+"foglio"
+"foglio"
+"foglio bianco alla fine di un libro"
+"foglio dattilografato"
+"foglio delle presenze, registro delle presenze"
+"foglio di appunti"
+"foglio di calcolo elettronico"
+"foglio di commessa"
+"foglio di congedo"
+"Foglio di istruzioni"
+"foglio di riscontro"
+"foglio di via"
+"foglio plastificato"
+"foglio protocollo"
+"foglio rosa"
+"foglio segnapunti"
+"foglio staccabile"
+#*'' aveva un foglio tra le mani ma non sapevo cosa scrivere''
+* [[lamiera]],[[lastra]], [[lamina]], [[lamella]] 
+*[[ modulo]], [[stampato]] ''(p.e.
+*[[ banconota]] 
+*[[foglia]], [[sfogliare]]
+M>lium</E
+M>un f</E
+M>di carta da involgere</E
+M>da pacchi</E
+M>di carta da disegno</E
+M>di carta per musica</E
+M>di carta da lettere</E
+M>di carta assorbente</E
+M>bianco</E
+M>colorato</E
+M>strappare un f</E
+M>dal quaderno</E
+M>un f</E
+M>di pergamena</E
+M>di cellofan</E
+M>leggere</E
+M>decifrare</E
+M>riempire</E
+M>compilare</E
+M>trascrivere un f</E
+M>distribuzione dei f</E
+M>per la denuncia dei redditi</E
+M>firmare un f</E
+M>per ricevuta</E
+M>un f</E
+M>da cinquanta euro</E
+M>volante</E
+M>periodico</E
+M>foglio</E
+M>giornale</E
+M>in-foglio</E
+M>in-folio</E
+M>in foglio</E
+M>in folio</E
+M>in 4</E
+M>in 8</E
+M>in 16</E
+M>in-4</E
+M>in-8</E
+M>in-16</E
+M>in 12</E
+M>in 18</E
+M>in 36</E
+M>carta</E
+M>d’allungamento</E
+M>degli annunzî legali</E
+M>in bianco</E
+M>biancosegno</E
+M>contabile</E
+M>F. di convivenza</E
+M>di famiglia</E
+M>matricolare</E
+M>d’ordine</E
+M>rosa</E
+M>di via</E
+M>di via</E
+M>di viaggio</E
+M>di via obbligatorio</E
+M>f. elettronico</E
+M>un f</E
+M>di compensato</E
+M>di fòrmica</E
+M>fogli di plastica</E
+M>foglia</E
+M>di prova</E
+M>in foglio</E
+M>mattoni in f</E
+M>muro in f</E
+M>a coltello</E

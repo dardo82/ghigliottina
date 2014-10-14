@@ -1,0 +1,37 @@
+ringraziamento.txt
+"festa religiosa di ringraziamento per il raccolto"
+"giorno del ringraziamento"
+"Giorno del Ringraziamento"
+"ringraziamento"
+"un ringraziamento a tutti i nostri collaboratori"
+"un sentito ringraziamento"
+"Un Sentito Ringraziamento (Titolo di film)"
+* [[ringraziare]], [[grazie]]
+M>visita</E
+M>lettera</E
+M>biglietto di r</E
+M>gli scrisse qualche parola</E
+M>qualche riga di r</E
+M>fare</E
+M>porgere</E
+M>mandare</E
+M>scrivere</E
+M>rinnovare</E
+M>i proprî r</E
+M>a qualcuno</E
+M>mi ha incaricato di portarti i suoi r</E
+M>la prego di gradire</E
+M>accettare</E
+M>accogliere i miei più vivi</E
+M>più caldi</E
+M>più sinceri</E
+M>più cordiali r</E
+M>si perdeva in ringraziamenti</E
+M>ho rifiutato la sua proposta con tanti r</E
+M>; lo crederesti? per tutto r</E
+M>mi ha mandato una cartolina</E
+M>bel r</E
+M>per tutto quello che ho fatto per te!</E
+M>Giorno del r</E
+M>Thanksgiving Day</E
+M>giorno del r</E

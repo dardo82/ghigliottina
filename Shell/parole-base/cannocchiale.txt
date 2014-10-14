@@ -1,0 +1,20 @@
+cannocchiale.txt
+"cannocchiale"
+*[[binocolo]] (il cannocchiale ha sempre  una sola lente, mentre il binocolo ne  ha sempre due)
+*italiano
+M>canna</E
+M>occhiale</E
+M>telescopio</E
+M>telescopî rifrattori</E
+M>astronomico</E
+M>terrestre</E
+M>cercatore</E
+M>collimatore</E
+M>distanziometrico</E
+M>diastimometrico</E
+M>neanche col c</E
+M>nemmeno a cercare col c</E
+M>a quel tempo io un biglietto da cento euro non lo avevo mai visto</E
+M>neanche col c</E
+M>non c’era un albergo in quella zona</E
+M>neppure a cercarlo col cannocchiale</E

@@ -1,0 +1,104 @@
+mostra.txt
+"che mostra"
+"far mostra di sé"
+"in mostra"
+"in mostra"
+"mettere in mostra"
+"mettere in mostra"
+"mettersi in mostra"
+"mostra"
+"mostra"
+"mostra"
+"mostra"
+"mostra collettiva"
+"mostra convegno"
+"mostra d'arte"
+"mostra d'arte"
+"mostra itinerante"
+"mostra, competizione cinofila"
+"per mostra"
+#* ''siamo andati ad una 
+#*''il pittore 
+* [[fiera]], [[esposizione]], [[rassegna]], [[expo]], [[salone]]
+*[[sfoggio]], [[ostentazione]], [[esibizione]] 
+*''(spec. nella loc.
+*[[coprifilo]]
+*''fare  mostra''
+*italiano
+M>mettere in mostra qualche cosa</E
+M>fare mostra di qualche cosa</E
+M>quando ride mette in m</E
+M>due belle file di denti</E
+M>c’è una bottega</E
+M> che</E
+M> come nei borghi</E
+M> vende di tutto e tutto mette in m.: elmi di plastica</E
+M> catini</E
+M> tappi</E
+M> valigie</E
+M> ricariche per cellulari</E
+M> rotoli di carta</E
+M> pentole</E
+M>nell’esercizio alle parallele ha fatto m</E
+M>di uno stile perfetto</E
+M>quando parla gli piace fare m</E
+M>di spirito</E
+M>mettere in m</E
+M>la sua erudizione</E
+M>non mi piace che si mettano in m</E
+M>le proprie faccende private</E
+M>mettersi in m</E
+M>non può fare a meno di mettersi sempre in mostra</E
+M>far bella m</E
+M>di sé</E
+M>sopra il camino faceva bella m</E
+M>di sé un pesante candelabro d’argento</E
+M>fare mostra di</E
+M>fare le m</E
+M>fare m</E
+M>di lavorare</E
+M>di dormire</E
+M>di leggere</E
+M>incontrandomi</E
+M>fece m</E
+M>di non conoscermi</E
+M>fare qualche cosa per mostra</E
+M>sono tutte m</E
+M>organizzare</E
+M>fare</E
+M>tenere una m</E
+M>delle ultime novità librarie</E
+M>dei nuovi modelli d’automobile</E
+M>di macchine agricole</E
+M>di orchidee</E
+M>di mobili antichi</E
+M>la m</E
+M>d’Oltremare a Napoli</E
+M>la m</E
+M>dell’antiquariato a Firenze</E
+M>campionaria</E
+M>universale</E
+M>una m</E
+M>di stampe dell’Ottocento</E
+M>internazionale d’arte sacra</E
+M>mostra personale del pittore X</E
+M>internazionale d’arte cinematografica di Venezia</E
+M>del libro antico</E
+M>mercato</E
+M>contratto di mostra</E
+M>andare alla m</E
+M>un servizio d’autobus porta alla mostra</E
+M>I0 vidi già cavalier muover campo</E
+M>E cominciare stormo e far lor mostra</E
+M>Passati i cavalieri</E
+M>in m</E
+M>viene La gente a piede</E
+M>guardia alla m</E
+M>di panno</E
+M>mostrina</E
+M>vetrina</E
+M>Mostra d’organo</E
+M>Mostre di acqua</E
+M> dell’acqua</E
+M>dell’orologio</E
+M>montre</E

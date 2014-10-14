@@ -1,0 +1,56 @@
+discorso.txt
+"abbordare qcn, attaccare discorso con qcn"
+"affrontare un discorso"
+"ascoltare il discorso di qc fino alla fine"
+"attaccare discorso con qualcuno"
+"borbottio, discorso incomprensibile"
+"cambiare discorso"
+"chiacchierata, discorso di poca importanza"
+"chiudiamo il discorso, discorso chiuso"
+"discorso"
+"discorso"
+"discorso"
+"discorso"
+"discorso"
+"discorso"
+"discorso, discorsi"
+"discorso di accettazione"
+"discorso di incitamento, discorso retorico"
+"discorso diretto"
+"discorso franco; schietto"
+"discorso inaugurale"
+"discorso libero"
+"discorso preparato"
+"discorso principale"
+"discorso pubblico"
+"discorso religioso"
+"discorso veloce"
+"emissione di discorso"
+"fare un discorso"
+"fare un discorso"
+"fare un discorso"
+"fare un discorso"
+"fare un discorso con"
+"fare un discorso con; parlare un momento con"
+"filo del discorso"
+"forma di discorso"
+"Il discorso della montagna"
+"intavolare un discorso"
+"lasciare un discorso a metà"
+"nel mezzo del discorso"
+"parte del discorso"
+"primo discorso"
+"tenere un discorso"
+"universo del discorso"
+"vietare il discorso"
+"vietare il discorso"
+#*''abbiamo fatto un lungo '''discorso''' sul gioco degli scacchi''
+#*''terrò un '''discorso'''''
+#*''non cambiare '''discorso'''''
+#*''questo è tutto un altro '''discorso'''''
+*[[conversazione]], [[chiacchierata]], [[ciancia]], [[ciarla]], [[diceria]], [[pettegolezzo]], [[dialogo]], [[ragionamento]], [[colloquio]], [[abboccamento]]
+*[[dissertazione]], [[orazione]], [[conferenza]], [[lezione]], [[concione]], [[allocuzione]]
+*[[discussione]], [[dibattito]], [[dibattimento]], [[diatriba]], [[arringa]], [[requisitoria]]
+*[[predica]], [[sermone]], [[apologia]], [[panegirico]]
+*[[silenzio]], [[mutismo]]
+*Enciclopedia [http

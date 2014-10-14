@@ -1,0 +1,143 @@
+voto.txt
+"assegnare un voto"
+"azione con diritto di voto"
+"bel voto, buon voto, voto alto"
+"dai il tuo voto a, vota per"
+"dai il tuo voto, vota"
+"diritto di voto"
+"diritto di voto"
+"il voto"
+"imposta fissa sulla persona, spesso requisito di espressione di voto"
+"l'avere diritto di voto"
+"mettere il voto"
+"potere di voto"
+"privare del diritto di voto"
+"scheda di voto"
+"voto"
+"voto"
+"voto"
+"voto"
+"voto"
+"ex voto, offerta"
+"ex voto"
+"voto affermativo"
+"voto anticipato"
+"voto coniugale"
+"voto contrario"
+"voto decisivo"
+"voto decisivo"
+"voto di fiducia"
+"voto di laurea"
+"voto di maturità"
+"voto di promozione"
+"voto di scambio"
+"voto elettorale"
+"voto favorevole"
+"voto favorevole"
+"voto libero"
+"voto palese"
+"voto per corrispondenza"
+"voto per procura"
+"voto popolare"
+"voto singolo"
+"voto solenne"
+"voto trasferibile"
+"voto vocale, a voce"
+*[[suffragio]], [[votazione]], [[elezione]]
+*[[giudizio]], [[valutazione]], [[punteggio]]
+*[[promessa]], [[impegno]], [[proposito]], [[giuramento]]
+*[[rinnegamento]], [[sconfessione]]
+*[[voto elettronico]]
+*[[votazione]], [[votare]]
+*italiano
+*spagnolo
+M>tum</E
+M>votus</E
+M>vovere</E
+M>v. individuale</E
+M>v. collettivo</E
+M>v. condizionato</E
+M>v. non condizionato</E
+M>semplice</E
+M>fare un v.</E
+M>fare il v.</E
+M>fare voto di</E
+M>adempiere</E
+M>osservare</E
+M>mantenere</E
+M>sciogliere il v.</E
+M>E qui l’arme sospende</E
+M> e qui il devoto Il gran Sepolcro adora e scioglie il v.</E
+M>v. semplice</E
+M>far v. a Dio</E
+M>a Gesù</E
+M>alla Madonna</E
+M>a s. Antonio</E
+M>è un v. che ho fatto alla Madonna</E
+M>oh! in una gran tribolazione!</E
+M>di non maritarmi</E
+M>sciogliere</E
+M>dispensare dal v.</E
+M>io posso ... sciogliervi dall’obbligo</E
+M> qualunque sia</E
+M> che possiate aver contratto a cagion di codesto voto</E
+M>v. solenni</E
+M>voto di povertà</E
+M>di castità</E
+M>di obbedienza</E
+M>prendere</E
+M>pronunciare</E
+M>professare</E
+M>i v.</E
+M>offrire qualche cosa in v.</E
+M>portare un v. al Santuario</E
+M>può attaccare un v. alla Madonna</E
+M> se non è morto nell’incidente</E
+M>Pendono intorno in lungo ordine i voti</E
+M> Che vi portano i creduli devoti</E
+M>a Giove Mandò il v. supremo</E
+M>questi sono i v. del nostro cuore</E
+M>formulo per lei i v. più sinceri</E
+M>gli augurî</E
+M>questo era nei v. di tutti</E
+M>voti</E
+M>vœux</E
+M>voti</E
+M>raccomandazioni</E
+M>pareri</E
+M>avis</E
+M>le persone che hanno diritto al v.</E
+M>voto di protesta</E
+M>v. favorevole</E
+M>v. contrario</E
+M>v. di astensione</E
+M>la proposta</E
+M>la delibera</E
+M> è stata approvata con settanta v. favorevoli e cinquanta contrarî</E
+M>raccogliere i v.</E
+M>fare lo scrutinio dei v.</E
+M>dare il proprio v. a</E
+M>mettere ai v. una proposta</E
+M>deliberativo</E
+M>consultivo</E
+M>Diritto di voto</E
+M>dichiarazione di v.</E
+M>v. di preferenza</E
+M>legge voto</E
+M>diretto</E
+M>indiretto</E
+M>voto di fiducia</E
+M>dieci</E
+M>cento</E
+M>trenta</E
+M>centodieci</E
+M>i v. trimestrali</E
+M>quadrimestrali</E
+M>i v. degli esami</E
+M>sarà promosso chi abbia riportato in tutte le prove un v. di sufficienza</E
+M>si è laureato a pieni v.</E
+M>col massimo dei v.</E
+M>con voti centodieci su centodieci e lode</E
+M>un professore un po’ stretto nei v.</E
+M>è stato promosso con buoni v. in tutte le materie.</E
+M>ha portato a casa una pagella piena di votacci.</E

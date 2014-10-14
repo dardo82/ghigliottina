@@ -1,0 +1,21 @@
+combattente.txt
+"combattente"
+"combattente"
+"combattente per la libertà"
+"forza combattente"
+"pesce combattente"
+*[[soldato]], [[guerriero]]
+*[[ex-combattente]]
+M>combattere</E
+M>le truppe c</E
+M>servizî</E
+M>reparti c</E
+M>servizî</E
+M>reparti non c</E
+M>Associazione Nazionale Combattenti</E
+M>inglese</E
+M>malese</E
+M>indiano</E
+M>Philomachus</E
+M>Machetes</E
+M>pugnax</E

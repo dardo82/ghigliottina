@@ -1,0 +1,206 @@
+struttura.txt
+"all'interno della struttura"
+"di struttura che consiste di un elettrodo immersa in soluzione elettrolitica"
+"grammatica della struttura della frase"
+"nel telaio, nella struttura"
+"struttura"
+"struttura"
+"struttura"
+"struttura"
+"struttura"
+"struttura a traliccio"
+"struttura alberghiera"
+"struttura che forma la parte centrale di una diga"
+"struttura classista"
+"struttura d'acciaio"
+"struttura del capitale"
+"struttura del corpo"
+"struttura del corpo"
+"struttura del piano"
+"struttura dell'armatura"
+"struttura dell'atomo"
+"struttura della frase"
+"struttura della frase"
+"struttura di potere"
+"struttura di potere"
+"struttura di sostegno"
+"struttura di supporto"
+"struttura distinta"
+"struttura fine"
+"struttura fiscale"
+"struttura fisica"
+"struttura fisica"
+"struttura gerarchica"
+"struttura gioco in legno da arrampicata"
+"struttura in cui è collocato il castelletto di una miniera"
+"struttura in ferro, travatura in ferro, intelaiatura in ferro"
+"struttura interna"
+"struttura iperfina"
+"struttura linguistica"
+"struttura organica"
+"struttura ricettiva"
+"struttura rigida"
+"struttura sintattica"
+"struttura societaria"
+"struttura sottostante"
+"struttura su cui arrampicarsi"
+"struttura teorica"
+"struttura turistica"
+*''(di organismo)'' complesso di elementi, insieme ordinato, [[organismo]], [[costruzione]], [[compagine]]
+*''(di elementi)'' [[forma]], [[ordine]], [[configurazione]], [[organizzazione]], [[disposizione]]
+*[[strutturazione]], [[composizione]], [[ conformazione]]
+*''(di edifici)'' [[ossatura]], [[scheletro]], [[telaio]], [[intelaiatura]], [[armatura]]
+*[[infrastruttura]], [[strutturale]]
+M>structura</E
+M>stru</E
+M>structus</E
+M>s. architettoniche</E
+M>edilizie</E
+M>meccaniche</E
+M>la s. di un edificio</E
+M>di un ponte</E
+M>la s. di una macchina</E
+M>di una nave</E
+M>di un aereo</E
+M>di un’astronave</E
+M>di un missile</E
+M>la s. della carrozzeria</E
+M>dello scafo</E
+M>della fusoliera</E
+M>del modulo spaziale</E
+M>una s. armonica</E
+M>elegante</E
+M>equilibrata</E
+M>disarmonica</E
+M>pesante</E
+M>s. muraria</E
+M>s. di cemento armato</E
+M>metallica</E
+M>lignea</E
+M>s. piana</E
+M>spaziale</E
+M>rettilinea</E
+M>reticolare</E
+M>ad arco</E
+M>s. a sbalzo</E
+M>intelaiata</E
+M>a telaio</E
+M>a guscio</E
+M>sospesa</E
+M>antisismica</E
+M>s. semplice</E
+M>s. complessa</E
+M>s. principale</E
+M>s. secondaria</E
+M>s. portante</E
+M>s. portate</E
+M>s. inflessa</E
+M>compressa</E
+M>pressoinflessa</E
+M>s. d’ordine geotettonico</E
+M>s. tettonica</E
+M>s. a pieghe</E
+M>a falde di ricoprimento</E
+M>a faglie</E
+M>s. ad altopiano</E
+M>s. tabulare</E
+M>s. cristallina</E
+M>s. di un aggregato</E
+M>s. fibrosa</E
+M>fibroso-raggiata</E
+M>lamellare</E
+M>tessitura</E
+M>s. olocristallina</E
+M>ipocristallina</E
+M>vetrosa</E
+M>s. granulare</E
+M>granitica</E
+M>granitoide</E
+M>porfirica</E
+M>ofitica</E
+M>intersertale</E
+M>fluidale</E
+M>perlitica</E
+M>sferulitica</E
+M>ialopilitica</E
+M>microfelsitica</E
+M>granoblastica</E
+M>porfiroblastica</E
+M>lepidoblastica</E
+M>nematoblastica</E
+M>s. partito-parcellare</E
+M>s. glomerulare</E
+M>la s. intima della materia</E
+M>s. della molecola</E
+M>dell’atomo</E
+M>del nucleo</E
+M>s. della materia</E
+M>s. fine</E
+M>fina</E
+M>s. iperfine</E
+M>s. macroscopica</E
+M>microscopica</E
+M>submicroscopica</E
+M>ultramicroscopica</E
+M>s. primaria</E
+M>s. secondaria</E
+M>s. molecolare</E
+M>formula di s.</E
+M>s. ordinata</E
+M>s. stereoregolare</E
+M>s. primaria</E
+M>s. secondaria</E
+M>s. terziaria</E
+M>s. quaternaria</E
+M>s. dissipativa</E
+M>s. politica</E
+M>s. costituzionale</E
+M>amministrativa</E
+M>giudiziaria</E
+M>s. sociale</E
+M>s. flessibile</E
+M>s. rigida</E
+M>s. economica</E
+M>la s. tribale di un popolo africano</E
+M>le s. elementari della parentela</E
+M>struttura</E
+M>forma</E
+M>metodi di analisi della s. psichica</E
+M>s. della personalità</E
+M>la s. di una lingua</E
+M>di un dialetto</E
+M>di un gruppo linguistico</E
+M>dialettale</E
+M>la s. dell’italiano</E
+M>del napoletano</E
+M>delle lingue semitiche</E
+M>del sardo</E
+M>del siciliano</E
+M>s. fonologica</E
+M>morfologica</E
+M>sintattica</E
+M>sintagmatica</E
+M>lessicale</E
+M>semantica</E
+M>s. superficiale</E
+M>s. profonda</E
+M>la s. di un romanzo</E
+M>di un racconto</E
+M>di un poema</E
+M>di una lirica</E
+M>la s. di un dramma</E
+M>di un film</E
+M>la s. di un dipinto</E
+M>di una scultura</E
+M>la s. di un’opera lirica</E
+M>di una sinfonia</E
+M>s. algebrica</E
+M>leggi di composizione</E
+M>s. d’ordine</E
+M>s. topologica</E
+M>intorno di un punto</E
+M>limite di una successione</E
+M>s. geometrica</E
+M>s. di incidenza</E
+M>s. relazionale</E
+M>teoria delle strutture</E

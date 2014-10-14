@@ -1,0 +1,17 @@
+compleanno.txt
+"biglietto di compleanno"
+"buon compleanno"
+"compleanno"
+"compleanno della Regina"
+"regalo di compleanno"
+"regalo di compleanno"
+"torta di compleanno"
+"trentesimo compleanno"
+* [[genetliaco]], [[natalizio]], [[anniversario]]
+M>cumpleaños</E
+M>cumplir</E
+M>año</E
+M>festeggiare il c</E
+M>il 18°</E
+M> il 60° c</E
+M>augurî per il tuo compleanno</E

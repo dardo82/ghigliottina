@@ -1,0 +1,37 @@
+scavo.txt
+"cantiere di scavo"
+"lo scavo dei solchi"
+"lo scavo dei solchi"
+"scavo"
+"scavo"
+"scavo con acqua"
+#* ''lo '''scavo''' della [[montagna]] procedeva senza [[intoppi]]''
+#* ''ci siamo rifugiati in uno '''scavo''' nel [[sottosuolo]]''
+#* ''gli '''scavi''' di [[Ercolano]]''
+*[[dissotterramento]], [[escavazione]], [[sterro]], [[scasso]]
+*[[buca]], [[fosso]], [[fossa]], [[incavo]], [[incavatura]], [[cavità]], [[cava]], [[solco]], [[trincea]], [[concavità]]
+*(archeologia) [[resti]], [[rovine]], [[vestigia]]
+*(in sartoria) [[scavatura]]
+* (''rimozione di materiali'')  [[scavazione]], [[scavatura]], [[sterramento]] 
+* (''il risultato dell'operazione'') ,  [[buco]] 
+* (''nell'abbigliamento'')   [[scollo]] 
+*[[interramento]]
+*[[riempimento]], [[colmata]]
+* (''rimozione di materiali'') [[colmatura]], 
+* (''il risultato dell'operazione'') [[rilievo]], [[convessità]], [[sporgenza]]
+M>s. di sbancamento</E
+M>s. a sezione obbligata</E
+M>lavori di s.</E
+M>materiale di s.</E
+M>lo s. di una galleria</E
+M>di un fossato</E
+M>fare degli s. per ricerche di topografia antica</E
+M>l&#8217;inizio degli s. per la nuova metropolitana</E
+M>s. a cielo aperto</E
+M>fare attenzione agli s.</E
+M>gli s. di Cnosso</E
+M>di Micene</E
+M>visitare gli s. di Pompei</E
+M>lo s. del collo</E
+M> delle maniche</E
+M>s. pelvico</E

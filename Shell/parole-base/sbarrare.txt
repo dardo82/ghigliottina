@@ -1,0 +1,39 @@
+sbarrare.txt
+"sbarrare"
+"sbarrare"
+"sbarrare"
+"sbarrare gli occhi"
+#*''gli ha sbarrato la strada''
+M>sbarra</E
+M>barra</E
+M>s. la porta</E
+M>il portone</E
+M>s. gli sbocchi di una strada con barricate</E
+M>un cancello sbarrava l&#8217;ingresso alla villa.</E
+M>un uomo armato di fucile ci sbarrò il passo</E
+M>le strade di montagna sono spesso sbarrate da animali</E
+M>una frana sbarrava il passaggio.</E
+M>i poliziotti sbarrarono tutte le uscite del palazzo.</E
+M>s. nel questionario le caselle del sì o del no</E
+M>nella scheda elettorale</E
+M>si esprime il proprio voto sbarrando il simbolo del partito prescelto</E
+M>s. un registro</E
+M>un verbale</E
+M>s. un assegno</E
+M>S. gli occhi</E
+M>ne l&#8217;orecchie mi percosse un duolo</E
+M> Per ch&#8217;io avante l&#8217;occhio intento sbarro</E
+M>porta sbarrata</E
+M>strada sbarrata</E
+M>numero sbarrato</E
+M>barrato</E
+M>assegno sbarrato</E
+M>barrato</E
+M>incrociato</E
+M>occhi sbarrati</E
+M>la guardava con certi occhioni sbarrati e lucenti</E
+M>giaceva riverso... Aveva gli occhi sbarrati</E
+M> e il sole ci entrava dentro</E
+M> non visto</E
+M> senza difesa</E
+M>scudo sbarrato</E

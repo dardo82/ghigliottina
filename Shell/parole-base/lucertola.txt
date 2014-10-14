@@ -1,0 +1,31 @@
+lucertola.txt
+"la Lucertola"
+"lucertola"
+"lucertola"
+"lucertola cornuta"
+"lucertola cornuta"
+*[[animale]]
+*''È meglio testa di lucertola che coda di drago''
+*italiano
+M>lac</E
+M>rta</E
+M>Lacerta</E
+M>azzurra</E
+M>Lacerta sicula coerulea</E
+M>stare al sole come le l</E
+M>essere una l</E
+M>come le l</E
+M>campa di lucertole</E
+M>pare che mangi lucertole</E
+M>trovare</E
+M>avere la l</E
+M>a due code</E
+M>Pelle di l</E
+M>di mare</E
+M>pesce l</E
+M>Synodus saurus</E
+M>lacertola</E
+M>pesce tarantola</E
+M>canaletto</E
+M>Lucertola</E
+M>Lacerta</E

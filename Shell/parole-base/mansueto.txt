@@ -1,0 +1,31 @@
+mansueto.txt
+"mansueto"
+"mansueto"
+#* ''il tuo [[cane]] è proprio 
+#* ''aveva uno [[sguardo]] 
+M>mansuetus</E
+M>mansuesc</E
+M>l’agnello</E
+M>la pecora</E
+M>il bue sono fra gli animali più m</E
+M>Orfeo facea con la cetera mansuete le fiere</E
+M>popolazioni m</E
+M>un bambino</E
+M>un ragazzo m</E
+M>un uomo m</E
+M>che non farebbe male a una mosca</E
+M>beati i m</E
+M>perché possederanno la terra</E
+M>Matteo</E
+M>avere una natura m</E
+M>un carattere m</E
+M>mite</E
+M>nell’iconografia tradizionale di s</E
+M>Girolamo</E
+M>appare di solito anche il leone</E
+M>in atteggiamento m</E
+M>aspetto</E
+M>sguardo m</E
+M>era il suo andare grave e m</E
+M>la tigre obbedì mansuetamente al cenno del domatore</E
+M>le pecore seguivano mansuetamente il pastore</E

@@ -1,0 +1,51 @@
+trascinare.txt
+"ammainare, trascinare giù"
+"farsi trascinare; esagerare"
+"lasciarsi trascinare da"
+"tirare per le lunghe; trascinare"
+"tirare; rimorchiare; trascinare"
+"trascinare"
+"trascinare"
+"trascinare"
+"trascinare, replace: trascinarsi"
+"trascinare (in tribunale; di fronte organo costituzionale)"
+"trascinare con sé"
+"trascinare dentro"
+"trascinare dietro"
+"trascinare giù"
+"trascinare i piedi"
+"trascinare in tribunale"
+"trascinare una folla"
+"trascinare via"
+"trascinare via"
+"trascinare via a forza, portare via a forza, portare via di peso"
+"trascinare via, spazzare via"
+*(1) [[condurre]], [[tirare]], [[strascicare]]
+*(2) [[trasportare]]
+*[[trascinarsi]], [[trascinamento]], [[trascinante]], [[trascinatore]]
+:*  
+M>*traginare</E
+M>trah</E
+M>strascinare</E
+M>t. un mobile</E
+M>un sacco</E
+M>una cassa</E
+M>fu investito dall&#8217;autobus che lo trascinò sull&#8217;asfalto per un tratto di strada</E
+M>nella caduta trascinò con sé anche il compagno</E
+M>t. i piedi</E
+M>aveva avuto una leggera paresi e trascinava la gamba destra.</E
+M>lo trascinarono fuori a fatica</E
+M>il ladro fu trascinato fino al posto di polizia</E
+M> cammina</E
+M> non ti far trascinare!</E
+M>t. un cane</E
+M>un asino che non vuole andare avanti.</E
+M>t. con sé</E
+M>trascinarsi dietro</E
+M>l&#8217;arte di t. le folle</E
+M>una eloquenza che trascina</E
+M>t. la vita</E
+M>il ferito si trascinò fino all&#8217;uscio</E
+M>trascinarsi nel fango</E
+M>una questione che si trascina da anni</E
+M>una controversia che si trascina all&#8217;infinito.</E

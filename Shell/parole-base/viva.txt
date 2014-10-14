@@ -1,0 +1,54 @@
+viva.txt
+"a viva forza"
+"anima viva"
+"carne viva"
+"fiamma viva"
+"lingua viva"
+"materia viva"
+"natura viva"
+"parte viva"
+"pietra viva"
+"roccia viva"
+"tener viva l'attenzione"
+"tenere viva la speranza"
+"ti metto in viva voce"
+"viva"
+"viva voce"
+"viva-voce"
+M>vivere</E
+M>viva Garibaldi!</E
+M>viva l’Italia!</E
+M>viva la libertà!</E
+M>viva la Lazio</E
+M>viva il Milan</E
+M>viva Verdi</E
+M>Verdi</E
+M>Vittorio Emanuele re d’Italia</E
+M>Viva il vino spumeggiante!</E
+M>Cavalleria rusticana</E
+M>v. le donne!</E
+M>v. l’allegria</E
+M>Viva arlecchini E burattini</E
+M>; Viva le maschere D’ogni paese</E
+M>viva la faccia di</E
+M>viva la faccia di chi parla chiaro</E
+M>viva la faccia della sincerità</E
+M>viva la faccia di un buon bicchiere di vino</E
+M>Chi viva?</E
+M>qui vive?</E
+M>chi vive?</E
+M>chi va là?</E
+M>insospettì Volscente</E
+M> E gridò da la squadra:</E
+M>O là fermate. Chi viva? A che venite? Ove n’andate?</E
+M>si fermavano un attimo e chiedevano:</E
+M>Chi viva? E quelli rispondevano:</E
+M>Viva Francesco!</E
+M>viva Dio!</E
+M>vivaddio!</E
+M>viva il Cielo!</E
+M>Oh viva</E
+M> oh viva: Beatissimi voi Mentre nel mondo si favelli o scriva</E
+M>vivano i nostri amici!</E
+M>W la libertà!</E
+M> W la pace!</E

@@ -1,0 +1,38 @@
+esaurire.txt
+"esasperare, logorare, esaurire"
+"esaurire"
+"esaurire"
+"esaurire"
+"esaurire, consumare completamente"
+*[[esaurirsi]]
+*[[esaurito]], [[esausto]]
+M>exhaurire</E
+M>haurire</E
+M>io e</E
+M>aurisco</E
+M>tu e</E
+M>aurisci</E
+M>una droga con un solvente</E
+M>un precipitato con acqua</E
+M>le provviste</E
+M>il patrimonio</E
+M>le risorse</E
+M>i mezzi</E
+M>la pazienza</E
+M>il proprio ingegno</E
+M>ho esaurito tutto il mio repertorio di barzellette</E
+M>le forze</E
+M>il pozzo si è esaurito</E
+M>la sorgente si è esaurita</E
+M>i fondi a disposizione si sono esauriti</E
+M>l’edizione s’è esaurita in pochi mesi</E
+M>le sue forze</E
+M>le sue energie si sono esaurite</E
+M>è uno scrittore che ormai si è esaurito</E
+M>la vena di quello scrittore si è esaurita</E
+M>una pratica</E
+M>le indagini</E
+M>le ricerche</E
+M>il tema</E
+M>la questione</E
+M>è stato esaurito l’ordine del giorno</E

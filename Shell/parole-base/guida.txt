@@ -1,0 +1,141 @@
+guida.txt
+"(sistema di ) guida del missile"
+"missile guidance"
+"alla cui guida, con a capo"
+"alla guida"
+"alla guida"
+"cane guida"
+"che guida"
+"coccinella, guida, scolta"
+"comando a una formazione in marcia di allinearsi e seguire una guida in testa alla formazione stessa"
+"eccessivamente veloce nella guida"
+"esame per il rilascio della patente di guida"
+"età di guida"
+"filo di guida"
+"guida"
+"guida"
+"guida"
+"guida"
+"guida"
+"guida"
+"guida"
+"guida d'onda"
+"guida dello stato"
+"guida di imbarcazioni o aerei"
+"guidance of ship or plane"
+"guida divulgativa"
+"guida motorizzata"
+"guida turistica"
+"guida turistica"
+"guida turistica"
+"guida turistica"
+"il cieco che guida un altro cieco"
+"istruttore di guida"
+"la guida"
+"linea guida"
+"linee guida"
+"luce guida"
+"maggiore età in cui prendere la patente di guida"
+"patente (di guida)"
+"patente di guida"
+"posto di guida"
+"principi guida"
+"principio guida"
+"principio guida"
+"scuola guida"
+"seguire la guida di"
+"senza guida"
+"stella guida"
+"terza rotaia; rotaia di guida"
+#* ''la '''guida''' del maestro''
+#* '''''guida''' allo studio del latino''
+* [[maestro]], [[condottiero]], [[capo]], [[consigliere]], [[scorta]]
+*[[guidare]], [[guidamento]]
+*'' chi al caso s'affida prende un cieco per 
+* [[scout]], [[lupetto]], [[lupetta]], [[coccinella]], [[reparto]], [[clan]], [[rover]], [[scolta]]
+m>affidarsi alla g</e
+m>di una persona esperta</e
+m>la g</e
+m>di una motocicletta</e
+m>di un autoveicolo</e
+m>pilotaggio</e
+m>prendere lezioni di guida</e
+m>scuola di g</e
+m>scuola guida</e
+m>avere una g</e
+m>spericolata</e
+m>prudente</e
+m>nervosa</e
+m>tranquilla</e
+m>a distanza</e
+m>teleguida</e
+m>una g</e
+m>fidata</e
+m>sicura</e
+m>pratica dei luoghi</e
+m>coraggiosa</e
+m>fare da g</e
+m>a qualcuno</e
+m>la colonna di fuoco fu g</e
+m>agli Ebrei</e
+m>le luci dell&rsquo;aeroporto fecero da g</e
+m>nell&rsquo;atterraggio</e
+m>le sue indicazioni ci servirono di guida</e
+m>alpina</e
+m>del palombaro</e
+m>pilota</e
+m>Guide</e
+m>Guides</e
+m>Cavalieri guide</e
+m>Reggimento cavalleggeri guide</e
+m>essere la g</e
+m>di un popolo</e
+m>di una nazione</e
+m>l&rsquo;esercito ha trovato la sua vera g</e
+m>essere di g</e
+m>a qualcuno negli stud&icirc;</e
+m>nella professione</e
+m>spirituale</e
+m>l&rsquo;esempio dei maggiori sia sempre la vostra g</e
+m>seguire la g</e
+m>costante delle norme morali</e
+m>seguire dei princip&icirc;</e
+m>delle idee guida</e
+m>stato g</e
+m>fossili guida</e
+m>della galleria degli Uffiz&icirc;</e
+m>del Foro Romano</e
+m>di Assisi</e
+m>delle Dolomiti</e
+m>dell&rsquo;Inghilterra</e
+m>guide Baedeker</e
+m>del Touring Club Italiano</e
+m>alla lettura</e
+m>bibliografica</e
+m>allo studio della paleografia</e
+m>guida a destra!</e
+m>guida a sinistra!</e
+m>coppia cinematica</e
+m>guide</e
+m>d&rsquo;inferitura</e
+m>fighiera</e
+m>G. acustica</e
+m>portavoce</e
+m>guida d&rsquo;onda</e
+m>g. di luce</e
+m>g. ottica</e
+m>di luce a fibra ottica</e
+m>fibra ottica</e
+m>numero g</e
+m>guide</e
+m>briglie</e
+m>redini</e
+m>organi di g</e
+m>a sinistra</e
+m>a destra</e
+m>esterna</e
+m>interna</e
+m>una g</e
+m>interna</e
+m>tematica</e
+m>matricina</e

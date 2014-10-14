@@ -1,0 +1,35 @@
+evadere.txt
+"evadere"
+"evadere"
+"evadere"
+"evadere"
+"evadere da"
+"evadere un ordine"
+"evadere, evitare"
+#*''Il celebre criminale Slim Manolesta '''è evaso''' ieri sera''
+#*''Mi disgusta chi '''evade''' le tasse''
+*''(carcere)'' [[scappare]], [[fuggire]]
+*''(burocrazia)'' [[sbrigare]]
+*''(carcere)'' [[catturare|essere catturati]], [[catturare]]
+M>evad</E
+M>vad</E
+M>eva</E
+M>evadésti</E
+M>eva</E
+M>essere</E
+M>dal carcere</E
+M>un pazzo era evaso dal manicomio</E
+M>il fisco</E
+M>al fisco</E
+M>le tasse</E
+M>non vedeva l’ora di e</E
+M>da quell’ambiente meschino</E
+M>ho bisogno di e</E
+M>da questo genere di vita</E
+M>dalla realtà quotidiana</E
+M>dalla famiglia</E
+M>dal luogo di lavoro</E
+M>una pratica</E
+M>un affare</E
+M>una domanda</E
+M>una lettera</E

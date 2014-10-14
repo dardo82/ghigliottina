@@ -1,0 +1,6 @@
+diligenza.txt
+"diligenza"
+"diligenza"
+*(scrupolo) [[accuratezza]], [[precisione]],  [[scrupolo]],   [[laboriosità]],   [[coscienziosità]], [[assiduità]],  [[meticolosità]], [[solerzia]],
+*(veicolo)    [[carrozza]], [[corriera]] 
+*[[negligenza]], [[trascuratezza]], [[disattenzione]],[[distrazione]],[[sbadataggine]] 

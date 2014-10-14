@@ -1,0 +1,49 @@
+resoconto.txt
+"breve resoconto"
+"dare un resoconto"
+"fare un resoconto"
+"fare un resoconto"
+"fare un resoconto"
+"fare un resoconto di"
+"resoconto"
+"resoconto"
+"resoconto bancario"
+"resoconto critico"
+"resoconto dettagliato"
+"resoconto teorico"
+*[[rendiconto]]
+M>rendere</E
+M>reso</E
+M>conto</E
+M>compte</E
+M>rendu</E
+M>orale</E
+M>scritto</E
+M>fare</E
+M>presentare</E
+M>pubblicare il r</E
+M>di una spedizione scientifica</E
+M>di una missione diplomatica</E
+M>di un&#8217;ispezione</E
+M>preparare il r</E
+M>di un congresso</E
+M>di un convegno politico</E
+M>sindacale</E
+M>di una seduta della Camera</E
+M>del Senato</E
+M>del Consiglio regionale</E
+M>un r</E
+M>esauriente</E
+M>ampio</E
+M>dettagliato</E
+M>preciso</E
+M>breve</E
+M>generico</E
+M>sommario</E
+M>parlamentari</E
+M>stenografico</E
+M>registrato su supporti magnetici</E
+M>sommario</E
+M>rendiconto</E
+M>l&#8217;amministratore delegato presentò un r</E
+M>della situazione finanziaria dell&#8217;azienda</E

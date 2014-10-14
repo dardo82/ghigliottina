@@ -1,0 +1,31 @@
+sfogo.txt
+"apertura di sfogo"
+"sfogare; dare sfogo a"
+"sfogo"
+"sfogo"
+"sfogo"
+"valvola di sfogo"
+*''(di gas, liquidi)'' [[fuoriuscita]], [[scarico]], [[scoppio]], [[esplosione]], [[espansione]]; [[apertura]], [[condotto]], [[sfiatatoio]], [[valvola]]
+*''(di arco, volta)'' massima altezza
+*''(di gas, liquidi)'' [[chiusura]]
+M>-ghi</E
+M>valvola di s. per i gas prodotti dalla combustione</E
+M>una cucina con insufficiente s. per il fumo</E
+M>dare</E
+M>aprire uno s. alle acque di deposito</E
+M>s. d&#8217;aria</E
+M>una stanza senza s.</E
+M>questo corridoio non ha s.</E
+M> è opprimente</E
+M>un appartamento senza s. esterno</E
+M>porto che costituisce lo s. commerciale di un ampio e ricco retroterra</E
+M>avere uno s. al viso</E
+M>uno s. per tutte le braccia</E
+M>dare s. al dolore</E
+M>all&#8217;ira</E
+M>alla sensualità</E
+M>cercare un po&#8217; di s. nel pianto</E
+M>una sofferenza che non trovava s. neppure nelle lacrime</E
+M>fare uno s.</E
+M>dopo quello s. mi son sentito meglio</E
+M>ogni tanto si sente il bisogno di uno sfogo</E

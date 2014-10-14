@@ -1,0 +1,114 @@
+radio.txt
+"antenna radio"
+"radio antenna"
+"articolazione radio-carpica"
+"campo radio"
+"radio range"
+"canale radio"
+"radio channel"
+"collare radio"
+"radio collar"
+"collegamenti radio"
+"radio links"
+"controllo radio"
+"radio control"
+"fonte radio"
+"radio source"
+"interferenza radio"
+"radio interference"
+"mezzi di comunicazione di massa via radio"
+"radio broadcasting"
+"onda radio"
+"radio wave"
+"onde radio"
+"radio"
+"onde radio: modulazione di ampiezza (am)"
+"radio: amplitude modulation"
+"operatore radio"
+"radio operator"
+"ponte radio"
+"radio link"
+"radio"
+"apparato radio"
+"radio"
+"radio"
+"stazione radio"
+"radio station, station"
+"radio"
+"radio"
+"radio"
+"relativo alla radiocomunicazione"
+"radio"
+"radio a galena"
+"radio ad onde corte"
+"shortwave radio"
+"radio giornale"
+"broadcast on radio"
+"radio linea"
+"line radio"
+"radio mobile"
+"mobile radio"
+"radio osservatorio"
+"radio observatory"
+"radio portatile"
+"portable radio"
+"radio ricetrasmittente"
+"two-way radio"
+"radio ricetrasmittente portatile"
+"ricezione radio"
+"radio reception"
+"segnale radio"
+"radio beam"
+"segnale radio"
+"radio signal"
+"segnale radio"
+"stazione radio"
+"radio station"
+"trasmettere via radio o televisione"
+"trasmissioni radio"
+"radio broadcasting"
+#*''è stata organizzata una trasmissione '''radio'''''
+#*''accendere la '''radio'''''
+#*''le radiografia riscontra una frattura al '''radio'''''
+#*''hanno cercato di curare quel tumore con una '''radio'''-terapia''
+*''(telecomunicazioni)'' abbreviazione di [[radiofonia]]
+*''(anatomia)''dal [[latino]] scientifico ''[[radium]]'', da ''[[radium]] ossia  "[[raggio]]"
+*''(chimica)''  dal [[latino]] scientifico ''[[Radium]]''
+*''(telecomunicazini)''[[emittente]], [[stazione]],. [[radiotrasmissione]], [[radiodiffusione]], [[radioricevitore]],  [[radioricevente]], [[radioricevitore]], [[radiotrasmittente]], [[radiotrasmettitore]], [[stazione radio]], [[radioelettrico]],[[radiofonico]]
+* (apparecchio) [[radioabbonato]], [[radioaltimetro]], [[radioamatore]],[[radiamatoriale]], [[radioascoltatore]], [[radioascolto]], [[radioassistenza]], [[radioassistere]], [[radioassistito]], [[radioastronomia]], [[radiofonia]], [[autoradio]], [[radiografia]], [[radiologia]],  [[radioattività]]
+*italiano
+*inglese
+M>radius</E
+M>radiometria</E
+M>radioestesia</E
+M>radioattivo</E
+M>radioisotopo</E
+M>radioemanazione</E
+M>radiocontaminazione</E
+M>radiologia</E
+M>radioscopia</E
+M>radiografia</E
+M>radioelettrico</E
+M>radiofonico</E
+M>stazione radio</E
+M>apparecchio radio</E
+M>impianto r</E
+M>frequenza radio</E
+M>onde radio</E
+M>comandi radio</E
+M>impulsi radio</E
+M>ponte radio</E
+M>radiofonico</E
+M>per via radio</E
+M>giornale radio</E
+M>le trasmissioni radio</E
+M>radiogrammofono</E
+M>radioamatore</E
+M>radiodilettante</E
+M>radioaudizione</E
+M>radioascoltatore</E
+M>radioabbonato</E
+M>radiocronista</E
+M>radiodramma</E
+M>radio</E
+M>radio</E

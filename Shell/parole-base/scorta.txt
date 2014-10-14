@@ -1,0 +1,67 @@
+scorta.txt
+"avviso scorta"
+"buona scorta"
+"di scorta"
+"fare scorta"
+"fare scorta di"
+"fare scorta di qualcosa"
+"nave scorta"
+"ruota di scorta"
+"scorta"
+"l'atto di scortare"
+"scorta"
+"scorta"
+"servizio scorta"
+"tenere qcs come scorta, tenere qcs di scorta"
+*[[protezione]], [[guardia]],[[provvista]], [[riserva]]
+M>scorto</E
+M>scorgere</E
+M>fare la s. al treno presidenziale</E
+M>essere di s. a un gruppo di prigionieri</E
+M>personale di s.</E
+M>Ma dimmi ... chi son quelle Due anime che là ti fanno scorta</E
+M>Con la s.</E
+M>sotto la s.</E
+M>mettersi a studiare l&#8217;inglese sotto la s. di un bravo insegnante</E
+M>orientarsi</E
+M>decidere con la s. del buon senso</E
+M>per scorta</E
+M>per iscorta</E
+M>prendemmo per s. un conoscitore del luogo</E
+M>Amor</E
+M> ch&#8217;a ciò m&#8217;invoglia</E
+M> Sia la mia s. e &#8217;nsignimi &#8217;l camino</E
+M>avviarsi</E
+M>avventurarsi senza scorta</E
+M>con una buona s.</E
+M>sotto buona s.</E
+M>la s. di un uomo politico</E
+M>di un magistrato</E
+M>scorta d&#8217;onore</E
+M>fare la s. a una colonna di rifornimenti</E
+M>essere di s. a un convoglio</E
+M>s. navale diretta</E
+M>s. navale indiretta</E
+M>s. aerea</E
+M>nave scorta</E
+M>aereo scorta</E
+M>Scorta esplosivi</E
+M>in vista di una nuova crisi energetica</E
+M> i condòmini si sono costituiti una s. di gasolio</E
+M>nelle escursioni in montagna è bene portarsi dietro una piccola s. di viveri e di medicinali</E
+M>Carro s.</E
+M>carro di scorta</E
+M>tender</E
+M>fare</E
+M>s. di combustibile</E
+M> di acqua</E
+M>il comandante</E
+M> per non intaccare le s.</E
+M> ha fatto razionare i viveri</E
+M>Ruota di scorta</E
+M>s. di materie prime</E
+M>s. di prodotti semilavorati</E
+M>s. di prodotti finiti</E
+M>s. monetaria</E
+M>s. vive</E
+M>s. morte</E

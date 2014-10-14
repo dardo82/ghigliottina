@@ -1,0 +1,15 @@
+contagiare.txt
+"contagiare"
+"contagiare"
+"lasciarsi contagiare"
+#* ''Nonostante il pericolo, nessuno è stato contagiato dalla recente epidemia di influenza aviaria''
+#* ''Tizio ha contagiato tutti con il suo ottimismo''
+#* ''Napoleone contagiò col suo fascino molti intellettuali del XVIII secolo''
+* ''(trasmettere una malattia)''
+*''(in senso figurato)''
+*[[contagio]]
+*[[contagioso]]
+M>io contàgio</E
+M>s’è ammalato di scarlattina e ha contagiato anche il fratello</E
+M>è stato contagiato dalle idee stravaganti dei suoi amici</E
+M>ricoverare le persone contagiate</E

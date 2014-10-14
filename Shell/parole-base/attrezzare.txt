@@ -1,0 +1,19 @@
+attrezzare.txt
+"attrezzare"
+"attrezzare"
+"attrezzare"
+M>io attrézzo</E
+M>a brigantino</E
+M>a goletta</E
+M>un’officina</E
+M>il laboratorio degli strumenti indispensabili</E
+M>attrezzarsi per una gita</E
+M>una via</E
+M>un’officina bene</E
+M>male attrezzata</E
+M>essere</E
+M>ben</E
+M>attrezzato per affrontare i rigori dell’inverno</E
+M>per affrontare un pericolo</E
+M>verde attrezzato</E
+M>asse attrezzato</E

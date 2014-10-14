@@ -1,0 +1,42 @@
+granchio.txt
+"chele di granchio"
+"granchio"
+"granchio"
+"granchio blu"
+"granchio cucinato subito dopo la muta"
+"granchio reale"
+"granchio reale"
+"il Granchio"
+"polpa di granchio"
+"polpa di granchio"
+"prendere un granchio"
+*''Prendere un '''granchio''''' (commettere un errore)
+M>cancer</E
+M>cri</E
+M>d’acqua dolce</E
+M>di fiume</E
+M>Potamon edule</E
+M>Telphusa fluviatilis</E
+M>ripario</E
+M>Carcinus maenas</E
+M>gigante</E
+M>Kaempferia kaempferi</E
+M>grancevola</E
+M>bocca di g</E
+M>di rancio</E
+M>prendere</E
+M>pigliare un g</E
+M>un grosso g</E
+M>un g</E
+M>madornale</E
+M>prendono i censori de’ grossi g</E
+M>quando vogliono criticare senza una pesata considerazione le opere altrui</E
+M>pigliare un g</E
+M>a secco</E
+M>in quei giorni appunto che il Sole fa il suo viaggio nel segno del Granchio</E
+M>m’ha preso un g</E
+M>alla gamba</E
+M>avere il g</E
+M>alle mani</E
+M>al borsellino</E
+M>alla scarsella</E

@@ -1,0 +1,21 @@
+manodopera.txt
+"carenza della manodopera"
+"costi della manodopera"
+"costo della manodopera"
+"manodopera"
+"manodopera"
+"manodopera diretta"
+"manodopera non qualificata"
+"manodopera stagionale"
+"materiali e manodopera"
+"economia: spese per materiali e manodopera"
+*[[lavoratori]], [[operai]], [[personale]], [[manovalanza]], [[maestranze]]
+* costo del lavoro
+*[[forza lavoro]], [[maestranze]], [[operai]], [[lavoratori]]
+*[[mano d'opera]] 
+M>la m</E
+M>occupata in Italia</E
+M>qualificata</E
+M>non qualificata</E
+M>per produrre quella macchina occorre tanto di m</E
+M>e tanto di materie prime</E

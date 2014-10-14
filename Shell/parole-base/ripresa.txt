@@ -1,0 +1,111 @@
+ripresa.txt
+"capacità di ripresa"
+"essere in ripresa"
+"ripresa"
+"ripresa"
+"ripresa"
+"ripresa"
+"ripresa"
+"ripresa"
+"ripresa economica"
+"ripresa esterna"
+"ripresa televisive"
+#*'' la 
+#*'' la Ferrari ha una 
+*''(di attività, azione, eccetera)'' [[riapertura]], [[rilancio]], [[risveglio]], [[rinnovo]]
+*[[risalita]], [[rialzo]], [[crescita]], [[progresso]], [[incremento]]
+*''(di energie, forze, eccetera)'' [[recupero]]
+*''(da malattia)'' [[guarigione]], [[miglioramento]], [[convalescenza]]
+*''(di veicolo)'' [[accelerazione]]
+*[[riconquista]], [[rioccupazione]]
+*[[scatto]], [[sprint]] 
+*''(nella boxe)'' [[round]]
+*''(fotom tv, cinema)'' [[registrazione]], [[filmato]], [[inquadratura]] 
+*''(metrica)'' [[refrain]]
+*''(di attività, azione, eccetera)''[[cessazione]], [[rinuncia]]
+*[[diminuzione]], [[calo]], [[regresso]], [[declino]]
+*''(di energie, forze, eccetera)'' [[perdita]]
+*''da malattia)'' [[aggravamento]], [[peggioramento]]
+*''(di veicolo)'' [[rallentamento]], [[decelerazione]] 
+M>riprendere</E
+M>ripreso</E
+M>la r</E
+M>dei bàrberi</E
+M>la Ripresa</E
+M>di un progetto</E
+M>di un piano</E
+M>di un&#8217;iniziativa</E
+M>coefficiente</E
+M>tasso di r</E
+M>ripreda</E
+M>predato</E
+M>di un velivolo</E
+M>rimessa</E
+M>richiamata</E
+M>impianto di r</E
+M>di una pianta</E
+M>vegetativa</E
+M>economica</E
+M>produttiva</E
+M>ripresa</E
+M>ripresa</E
+M>di velocità</E
+M>ripresa</E
+M>rapida</E
+M>brillante</E
+M>lenta</E
+M>macchina</E
+M>motore</E
+M>che ha una buona r</E
+M>un&#8217;ottima r</E
+M>essere in r</E
+M>l&#8217;economia</E
+M>il turismo</E
+M>l&#8217;interesse per il cinema</E
+M>è in r</E
+M>in forte r</E
+M>in continua r</E
+M>avere capacità di r</E
+M>presa</E
+M>macchina da presa</E
+M>fotografica</E
+M>cinematografica</E
+M>televisiva</E
+M>diretta</E
+M>in diretta</E
+M>una bella r</E
+M>una r</E
+M>suggestiva</E
+M>dei lavori</E
+M>delle trattative</E
+M>delle ostilità</E
+M>delle attività</E
+M>la r</E
+M>delle lezioni quest&#8217;anno avverrà con qualche giorno di ritardo</E
+M>di pilotaggio</E
+M>la r</E
+M>di quel vecchio film ha avuto un grande successo</E
+M>la r</E
+M>di un fortunato sceneggiato televisivo</E
+M>a più riprese</E
+M>a riprese</E
+M>se non riesci a fare il lavoro tutto in una volta</E
+M>puoi farlo a più r.</E
+M>ho tentato a più r</E
+M>di farglielo intendere</E
+M>ma non ci sono riuscito</E
+M>esposizione</E
+M>sviluppo</E
+M>riesposizione</E
+M>di una pittura</E
+M>secondo tempo</E
+M>secondo periodo di gioco</E
+M>round</E
+M>inning</E
+M>di attacco</E
+M>superfici di ripresa</E
+M>di un pozzo</E
+M>di gioco</E
+M>questo vestito non cade bene:</E
+M>c&#8217;è bisogno di qualche r</E
+M>alle spalle</E

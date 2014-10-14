@@ -1,0 +1,16 @@
+lavorativo.txt
+"ambiente lavorativo"
+"ambito lavorativo"
+"giorno lavorativo"
+"giorno lavorativo"
+"infortunio lavorativo"
+"lavorativo"
+*''(di giorno)'' [[feriale]]
+*[[festivo]]
+*[[lavoro]]
+M>attività l</E
+M>processo l</E
+M>giorno l</E
+M>giornata l</E
+M>ore l</E
+M>terreno l</E

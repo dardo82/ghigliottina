@@ -1,0 +1,4 @@
+podere.txt
+"podere"
+"podere di famiglia"
+*[[fondo]], [[appezzamento]], [[tenuta]], [[campo]], [[possedimento]], [[terreno]], [[colonia]]

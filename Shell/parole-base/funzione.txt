@@ -1,0 +1,223 @@
+funzione.txt
+"facente funzione"
+"funzione"
+"funzione"
+"funzione"
+"funzione"
+"funzione acustica compromessa"
+"funzione algebrica"
+"funzione beta"
+"funzione caratteristica"
+"funzione d'onda"
+"funzione della domenica mattina"
+"funzione di"
+"funzione di comando"
+"funzione di densità della probabilità"
+"funzione di distribuzione"
+"funzione di distribuzione cumulativa"
+"funzione di probabilità"
+"funzione discriminante"
+"funzione esecutiva"
+"funzione esponenziale"
+"funzione gamma"
+"funzione implicita"
+"funzione impostata"
+"funzione inversa"
+"funzione ipergeometrica"
+"funzione lavoro"
+"funzione lineare"
+"funzione logaritmica"
+"funzione periodica"
+"funzione razionale"
+"funzione religiosa"
+"funzione totale"
+"funzione vitale"
+"funzione zeta"
+"funzione; analisi; serie armonica"
+"in funzione"
+"in funzione"
+"in funzione"
+"in funzione"
+"in funzione"
+"in funzione di"
+"indennità di funzione"
+"la sua funzione è quella di"
+"messa in funzione"
+"mettere in funzione"
+"non in funzione"
+"presidiare una funzione"
+"regola di derivazione di funzione composta"
+"ricoprire una funzione"
+"teorema della funzione implicita"
+#*  ''un oggetto di funzione sconosciuta''
+#* ''la funzione di quel personaggio''
+#* ''la funzione [[seno]]''
+#* ''erano anni che non andava alla '''funzione''' di [[Natale]]''
+*[[incarico]], [[mansione]], [[compito]], [[attività]], [[ufficio]], [[carica]], [[dovere]], [[responsabilità]]
+*''(di macchinario)'' [[funzionamento]], [[operazione]]
+*[[cerimonia]], [[rito]], [[celebrazione]], [[festa]], [[servizio]]
+*[[disfunzione]]
+*[[funzionale]], [[funzionare]]
+* [[funzionalità]], [[funzionante]], [[funzionamento]], [[funzionario]], [[disfunzione]] e da questo [[disfunzionale]], [[fungere]], [[funtore]] (termine della [[matematica]])
+M>functio</E
+M>onis</E
+M>fungi</E
+M>ufficio</E
+M>carica</E
+M>esercitare una f</E
+M>una f</E
+M>di comando</E
+M>di controllo</E
+M>di sorveglianza</E
+M>avere una f</E
+M>ispettiva</E
+M>una f</E
+M>di consulenza</E
+M>la f</E
+M>docente</E
+M>la f</E
+M>di docente</E
+M>la f</E
+M>del docente</E
+M>la f</E
+M>del giudice</E
+M>del sacerdote</E
+M>di chi esercita il potere</E
+M>di chi dirige un’azienda</E
+M>amministrativa</E
+M>burocratica</E
+M>pubblica f</E
+M>pubblica</E
+M>fonction publique</E
+M>ministro della f</E
+M>pubblica</E
+M>ministro per la riforma della pubblica amministrazione</E
+M>retribuita</E
+M>gratuita</E
+M>onoraria</E
+M>assumere</E
+M>svolgere una f</E
+M>cessare da una funzione</E
+M>avere f</E
+M>direttive in un’impresa</E
+M>pubblico ufficiale nell’esercizio delle sue f</E
+M>assumere</E
+M>svolgere le f</E
+M>del grado superiore</E
+M>esercitare provvisoriamente le f</E
+M>di segretario</E
+M>fare le f</E
+M>professore che fa le f</E
+M>di preside</E
+M>il facente funzione</E
+M>funzioni</E
+M>la f</E
+M>dell’uomo nella società</E
+M>della donna nella famiglia</E
+M>enti che hanno una f</E
+M>prevalentemente assistenziale</E
+M>culturale</E
+M>la f</E
+M>dei sindacati nelle moderne democrazie</E
+M>esercitare una f</E
+M>equilibratrice in una controversia</E
+M>questa è una f</E
+M>che toccherebbe a te</E
+M>è una f</E
+M>noiosa che lascio volentieri ad altri</E
+M>respiratoria</E
+M>digestiva</E
+M>della cellula epatica</E
+M>del nucleo cellulare</E
+M>regolari</E
+M>normali</E
+M>alterazione</E
+M>squilibrio di una funzione</E
+M>la f</E
+M>delle foglie</E
+M>la f</E
+M>fotosintesi</E
+M>clorofilliana</E
+M>facoltà</E
+M>il pensiero è una f</E
+M>dell’intelletto</E
+M>psichiche</E
+M>del pensiero</E
+M>dell’intuizione</E
+M>del sentimento</E
+M>della sensazione</E
+M>la f</E
+M>di un ingranaggio</E
+M>di un pulsante</E
+M>il motorino è in f</E
+M>entra in f</E
+M>la leva del cambio</E
+M>arco rampante con f</E
+M>di sostegno</E
+M>una cornice con f</E
+M>puramente decorativa</E
+M>parola che compie la f</E
+M>di soggetto</E
+M>di predicato</E
+M>di complemento</E
+M>di attributo</E
+M>aggettivo con funzione</E
+M>con funzioni di avverbio</E
+M>participio con funzione di sostantivo</E
+M>significativa</E
+M>distintiva</E
+M>pero</E
+M>però</E
+M>pésca</E
+M>pèsca</E
+M>funzione</E
+M>solenne</E
+M>una f</E
+M>funebre</E
+M>celebrata dal vescovo</E
+M>andare alla f</E
+M>alle f</E
+M>assistere alla f</E
+M>suona</E
+M>entra la funzione</E
+M>gruppo funzionale</E
+M>funzione</E
+M>argomento</E
+M>y valore</E
+M>numeriche di variabili numeriche</E
+M>reale</E
+M>complessa</E
+M>di variabile reale</E
+M>di variabile complessa</E
+M>monotòna crescente</E
+M>decrescente</E
+M>inversa</E
+M>x =</E
+M>razionali</E
+M>algebriche</E
+M>trascendenti</E
+M>iperboliche</E
+M>esponenziali</E
+M>logaritmiche</E
+M>trigonometriche</E
+M>continua</E
+M>derivabile</E
+M>corrispondenza</E
+M>trasformazione</E
+M>applicazione</E
+M>dominio</E
+M>insieme di definizione</E
+M>codominio</E
+M>insieme di variabilità</E
+M>in funzione di</E
+M>il ritmo di produzione è in f</E
+M>del tempo disponibile</E
+M>argomenti</E
+M>valore</E
+M>di verità</E
+M>vero</E
+M>falso</E
+M>tavola di verità</E
+M>funzione d’onda</E
+M>di stato</E
+M>segnale</E

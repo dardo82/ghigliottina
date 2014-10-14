@@ -1,0 +1,28 @@
+cranio.txt
+"cranio"
+"sommità del cranio"
+#* ''il '''cranio''' sostiene la testa''
+*[[paleocranio]]
+*[[emicrania]]
+* ''a '''cranio'''''
+* ''spaccarsi il '''cranio'''''
+* ''avere il '''cranio''' duro''
+M>cranium</E
+M>cranio</E
+M>faccia</E
+M>neurocranio</E
+M>splancnocranio</E
+M>viscerale</E
+M>deformazioni</E
+M>anomalie del c</E
+M>riportare la frattura del c</E
+M>trapanazione del c</E
+M>deformazione del c</E
+M>avere il c</E
+M>duro</E
+M>è difficile fargli entrare nel c</E
+M>la verità</E
+M>a cranio</E
+M>a testa</E
+M>dividendo la spesa fra tutti</E
+M> la cena ci verrà a costare trenta euro a cranio</E

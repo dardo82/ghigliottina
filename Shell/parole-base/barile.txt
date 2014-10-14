@@ -1,0 +1,17 @@
+barile.txt
+"a forma di barile"
+"barile"
+"barile"
+"barile"
+"barile di birra"
+"barile disassemblato"
+"mettere in un barile"
+"piccolo barile, barilotto"
+"ping pong (scarica barile)"
+#* ''Riuscì a comprare due barili di birra a poco prezzo''
+#* ''beveva barili di birra al giorno''
+#* ''il prezzo del petrolio è arrivato a 200 dollari al barile''
+#* ''È diventato un barile''
+* ''(contenitore cilindrico)''
+* ''(persona grassa)''
+*[[scaricabarile]]

@@ -1,0 +1,16 @@
+trasfusione.txt
+"fare la trasfusione"
+"trasfusione"
+"trasfusione"
+"trasfusione di sangue"
+* ''(di sangue, liquido)'' [[versamento]], [[immissione]], [[travaso]]
+*''(di sangue, liquido)''  [[prelievo]], [[salasso]]
+M>transfusio -onis</E
+M>transfund</E
+M>transfusus</E
+M>tessuto di t.</E
+M>ricevitore</E
+M>accettore</E
+M>donatore</E
+M>datore</E
+M>t. di sangue</E

@@ -1,0 +1,15 @@
+cobra.txt
+"cobra"
+"cobra"
+"cobra reale"
+"king cobra"
+"pianta cobra"
+M>cobra</E
+M>col</E
+M>bra</E
+M>Naja</E
+M>Ophiophagus</E
+M>Hemachatus</E
+M>Naja haje</E
+M>Naja naja</E
+M>N. tripudians</E

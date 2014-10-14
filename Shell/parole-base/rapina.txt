@@ -1,0 +1,47 @@
+rapina.txt
+"assalto con rapina"
+"che rapina"
+"rapina"
+"rapina"
+"rapina a mano armata"
+"rapina a mano armata"
+"rapina in banca"
+*[[furto]]
+* [[scippo]], [[borseggio]], [[taccheggio]],  [[ latrocinio]]
+*''uccelli di rapina''
+M>rapina</E
+M>rap</E
+M>propria</E
+M>impropria</E
+M>commettere</E
+M>perpetrare una r</E
+M>fare</E
+M>organizzare una r</E
+M>in banca</E
+M>in una gioielleria</E
+M>subire una r</E
+M>reo</E
+M>imputato di r</E
+M>condannato per r</E
+M>a mano armata</E
+M>il paese era dissanguato dalle r</E
+M>degli amministratori</E
+M>chiedere una somma simile per un pranzo è una r</E
+M>Lì cominciò con forza e con menzogna La sua r</E
+M>con le sue r</E
+M>si è fatto una fortuna</E
+M>senza alcuno impedimento stretti insieme con la loro r</E
+M>alla nave pervennero</E
+M>Sento far del mio cor dolce rapina</E
+M>animali</E
+M>uccelli di r</E
+M>gol di r</E
+M>La bufera infernal</E
+M>che mai non resta</E
+M>Mena li spirti con la sua r</E
+M>come un turbine vasto</E
+M>va a cercare negli angoli le foglie passe</E
+M>e le porta in giro involte nella sua r</E
+M>Se la vecchia r</E
+M>a mente avete</E
+M>Euridice mia bella mi rendete</E

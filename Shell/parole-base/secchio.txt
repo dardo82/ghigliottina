@@ -1,0 +1,25 @@
+secchio.txt
+"Buonanotte al secchio"
+"mettere in un secchio"
+"secchio"
+"secchio"
+"contenuto di un secchio"
+"secchio dell'immondizia"
+"trasportare in un secchio"
+#*''quel ragazzo o è un '''secchio''' o è un idiota''
+*[[secchiata]]
+*italiano
+M>clus</E
+M>lus</E
+M>il s. dell&#8217;acqua</E
+M>il s. per il latte</E
+M>trasportare la pozzolana in un secchio</E
+M>s. della spazzatura</E
+M>delle immondizie</E
+M>pattumiera</E
+M>secchia</E
+M>buttare un s. d&#8217;acqua sul fuoco per spegnerlo</E
+M>prendere un s. di concime</E
+M>spargere un s. di segatura sul pavimento bagnato</E
+M>per dipingere tutta la parete c&#8217;è voluto un s. intero di vernice</E
+M>e buona notte al s.</E

@@ -1,0 +1,33 @@
+tappa.txt
+"http://api.wordreference.com/12bee/json/iten/tappa/"
+*italiano
+M>étape</E
+M>stapel</E
+M>fare tappa</E
+M>una tappa.</E
+M>marciare a grandi</E
+M>brevi t.</E
+M>la t. giornaliera per truppe a piedi è di 30 km. Luogo di t.</E
+M>tappa</E
+M>comando di t.</E
+M>andremo da Genova a Lecce in macchina</E
+M>in aereo</E
+M>in treno</E
+M>facendo tappa solo a Roma</E
+M>sono previste due brevi t.</E
+M> per riposarci e prendere un caffè.</E
+M>per non stancarci</E
+M> divideremo il viaggio</E
+M>la scalata</E
+M>in due tappe.</E
+M>Bruciare le t.</E
+M>corsa a tappe</E
+M>prima</E
+M>seconda</E
+M> ultima t.</E
+M>t. piana</E
+M>t. in salita</E
+M>t. a cronometro</E
+M>le t. fondamentali del progresso sociale</E
+M>una t. memorabile nella storia della medicina.</E
+M>il tappone dolomitico</E

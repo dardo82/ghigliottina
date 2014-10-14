@@ -1,0 +1,27 @@
+impazienza.txt
+"impazienza"
+"scalpitare con impazienza"
+*[[inquietudine]], [[nervosismo]], [[irrequietezza]], [[smania]], [[intolleranza]],[[ insofferenza]], [[irritazione]]
+*[[pazienza]], [[calma]], [[sopportazione]] 
+*[[impaziente]]
+*[[ansia]], [[fretta]], [[spazientirsi]]
+M>impatientia</E
+M>fare un atto d’i</E
+M>dare segni d’i</E
+M>avere un moto d’i</E
+M>avere</E
+M>mostrare i</E
+M>di ottenere</E
+M>di sapere</E
+M>di concludere</E
+M>di arrivare</E
+M>frenare</E
+M>calmare</E
+M>vincere</E
+M>dissimulare la propria impazienza</E
+M>del freddo</E
+M>del caldo</E
+M>di ostacoli</E
+M>di contrarietà</E
+M>di un freno</E
+M>di limitazioni</E

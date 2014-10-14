@@ -1,0 +1,11 @@
+albanese.txt
+"albanese"
+"albanese"
+"albanese"
+#* ''Parlo [[albanese]].''
+*[[albanofono]]
+M>albanesi</E
+M>cappelletti</E
+M>stradiotti</E
+M>satem</E
+M>Albano</E

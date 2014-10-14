@@ -1,0 +1,28 @@
+mattinata.txt
+"mattinata"
+M>mattina</E
+M>matinée</E
+M>una m</E
+M>piovosa</E
+M>uggiosa</E
+M>un’allegra</E
+M>una triste m</E
+M>una m</E
+M>densa di lavoro</E
+M>passare una m</E
+M>al mare</E
+M>in campagna</E
+M>guadagnarsi</E
+M>buscarsi la m</E
+M>in m</E
+M>di m</E
+M>verrò in mattinata</E
+M>serenata</E
+M>cantare la m</E
+M>fare la mattinata</E
+M>una m</E
+M>a teatro</E
+M>al cinema</E
+M>una m</E
+M>danzante al circolo</E
+M>matinée</E

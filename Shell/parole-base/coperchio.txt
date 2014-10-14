@@ -1,0 +1,26 @@
+coperchio.txt
+"con il coperchio"
+"coperchio"
+"coperchio a vite"
+"coperchio della tastiera (pianoforte)"
+"coperchio della valvola"
+"coperchio di un mobile"
+M>cooperc</E
+M>lum</E
+M>cooperire</E
+M>il c</E
+M>della pentola</E
+M>del barattolo</E
+M>di una scatola</E
+M>di una cassa</E
+M>aprire</E
+M>chiudere il c</E
+M>col c</E
+M>levare</E
+M>sollevare</E
+M>abbassare il c</E
+M>il diavolo insegna a far le pentole</E
+M>fa le pentole</E
+M>ma non i c</E
+M>il soverchio rompe il c</E
+M>i guai della pentola li sa il c</E

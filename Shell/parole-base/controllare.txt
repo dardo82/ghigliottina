@@ -1,0 +1,58 @@
+controllare.txt
+"controllare"
+"controllare"
+"controllare"
+"controllare, replace: controllarsi"
+"controllare due volte"
+"controllare due volte"
+"controllare il valore"
+"controllare nel, soffermarsi su"
+"controllare nel, soffermarsi su"
+"controllare nel, soffermarsi su"
+"dirigere, guidare, controllare"
+"supervisionare, controllare"
+"tenere d'occhio qcn, controllare qcn"
+"tenere sotto controllo, controllare"
+#*''Ieri '''ha controllato''' che andassi a scuola quindi non sono potuto venire.''
+*[[verificare]], [[appurare]], [[riscontrare]], [[assodare]], [[rivedere]], [[esaminare]], [[sorvegliare]], [[tenere d'occhio]], [[badare]], [[dominare]], [[padroneggiare]], [[governare]], [[frenare]], [[contenere]], [[reprimere]], [[contenersi]], [[frenarsi]], [[moderarsi]]
+*[[sfogarsi]], [[liberarsi]], [[infervorarsi]], [[animarsi]] 
+*[[controllo]]
+M>contrôler</E
+M>io contròllo</E
+M>un documento</E
+M>una data</E
+M>i biglietti</E
+M>i bagagli</E
+M>controlla l’ora sul tuo orologio</E
+M>controlla che la porta sia chiusa</E
+M>hai controllato di avere chiuso l’acqua?</E
+M>controllarsi la pressione.</E
+M>l’operato altrui</E
+M>la questura controlla tutti i suoi movimenti</E
+M>c. i telefoni delle persone indagate</E
+M>tutte le uscite del palazzo sono controllate dagli agenti</E
+M>la gestione dello stato è controllata dalla Corte dei conti</E
+M>la palla</E
+M>il mercato del petrolio</E
+M>un apparecchio</E
+M>un impianto</E
+M>i mari</E
+M>il cielo di una zona</E
+M>politicamente</E
+M>militarmente un paese</E
+M>la situazione</E
+M>un settore dell’industria</E
+M>una catena di supermercati</E
+M>i proprî nervi</E
+M>controllarsi</E
+M>c. nel mangiare</E
+M>nel bere</E
+M> devi imparare a controllarti di più</E
+M>di fronte a tanta impudenza</E
+M>non riesco proprio a controllarmi</E
+M>controllati!</E
+M>ho sbandato in curva sull’asfalto ghiacciato e non sono più riuscito a c</E
+M>la vettura</E
+M>libertà controllata</E
+M>società controllate</E
+M>persona controllata</E

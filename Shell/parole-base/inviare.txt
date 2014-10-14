@@ -1,0 +1,36 @@
+inviare.txt
+"inviare"
+"inviare la posta"
+"inviare per posta diplomatica"
+"inviare per via mare"
+"inviare qualcosa alla cortese attenzione di"
+"inviare richiesta"
+"inviare, mandare"
+*[[inoltrare]], [[trasmettere]], [[indirizzare]] 
+*[[rinviare]] 
+*[[ricevere]], [[ottenere]]
+M>inviare</E
+M>via</E
+M>io invìo</E
+M>Questi ne ’nvieranno a li alti gradi</E
+M>avvisando d’essere al miglior albergo inviati</E
+M>ogni dolor</E
+M>Cresce qualor s’invia Per partirsi da noi l’eterna luce</E
+M>Già s’inviava</E
+M>per quindi partire</E
+M>un messaggero</E
+M>un ambasciatore</E
+M>un incaricato</E
+M>un messaggio</E
+M>un’imbasciata</E
+M>truppe</E
+M>rinforzi</E
+M>munizioni</E
+M>un pacco postale</E
+M> un’e-mail</E
+M>ti prego d’inviarmi la posta al nuovo indirizzo</E
+M>saluti</E
+M>ringraziamenti</E
+M>l’occhio</E
+M>Com’io fui dentro</E
+M>l’occhio intorno invio</E

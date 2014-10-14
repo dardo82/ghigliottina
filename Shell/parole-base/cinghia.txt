@@ -1,0 +1,17 @@
+cinghia.txt
+"cinghia"
+"cinghia"
+"cinghia della ventola"
+"cinghia dentata"
+"cinghia di trasmissione"
+"tirare la cinghia"
+*[[cintura]], [[cinta]], [[cinturino]], [[striscia]], [[fascia]], [[laccio]]
+* ''tirare la cinghia''
+M>cinghie</E
+M>cinghie elastiche</E
+M>tirare la c</E
+M>di trasmissione</E
+M>piatte</E
+M>a sezione trapezoidale</E
+M>di trasmissione</E
+M>cigna</E

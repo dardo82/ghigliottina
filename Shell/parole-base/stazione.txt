@@ -1,0 +1,180 @@
+stazione.txt
+"luogo di cura; stazione climatica"
+"stazione"
+"stazione"
+"stazione"
+"stazione centrale"
+"stazione con fermata a richiesta"
+"stazione d'inseguimento"
+"stazione degli autobus"
+"stazione dei taxi"
+"stazione di campo"
+"stazione di comando"
+"stazione di covatura artificiale per pesci"
+"stazione di ricambio"
+"stazione di ricerca"
+"stazione di servizio"
+"stazione di transito"
+"stazione distante"
+"stazione ferroviaria"
+"stazione fissa"
+"stazione in un'area remota"
+"stazione meteorologica"
+"stazione radar"
+"stazione radio"
+"stazione sciistica, località sciistica"
+"stazione secondaria"
+"stazione spaziale"
+"stazione televisiva"
+"stazione televisiva"
+"stazione termale"
+"stazione termale"
+"stazione trasmittente"
+*[[stazionamento]], [[stazionare]], [[stazionario]]
+*[[stazionario]], [[capostazione]],[[stazione balneare]], [[stazione di frontiera]], [[stazione di polizia]], [[stazione di rifornimento]], [[stazione di servizio]], [[stazione ferroviaria]], [[stazione orbitale]], [[stazione spaziale]], [[stazione termale]]
+*[[stato]]
+M>stazzone</E
+M>statio -onis</E
+M>stare</E
+M>s. eretta</E
+M>s. prona</E
+M>supina</E
+M>mantenere la s. verticale.</E
+M>l&#8217;autocorriera fa stazione in tutti i paesi</E
+M>la nave fa s. in molti porti del Mediterraneo.</E
+M>Via Crucis</E
+M>s. planetarie</E
+M>in stazione</E
+M>stazionario</E
+M>s. lunare</E
+M>s. di posta</E
+M>le s. per il cambio dei cavalli</E
+M>le s. commerciali dei Fenici sulle coste del Mediterraneo.</E
+M>S. ferroviaria</E
+M>railway station</E
+M>s. viaggiatori</E
+M>s. merci</E
+M>s. di smistamento</E
+M>s. piccole</E
+M>medie</E
+M>grandi</E
+M>s. di testa</E
+M>s. di transito</E
+M>s. di diramazione</E
+M>a cuneo</E
+M>s. terminali</E
+M>s. intermedie</E
+M>la facciata della s.</E
+M>i binarî</E
+M>i marciapiedi</E
+M>le pensiline della s.</E
+M>il piazzale della s.</E
+M>il treno sta entrando in s.</E
+M>accompagnare qualcuno alla s.</E
+M>il bar della s.</E
+M>ci vediamo di fronte alla stazione.</E
+M>scalo</E
+M>Osimo Stazione</E
+M>S. aeroportuale</E
+M>aerostazione.</E
+M>S. delle autocorriere</E
+M>autostazione.</E
+M>S. autostradale</E
+M>S. marittima</E
+M>s. navale</E
+M>s. soleggiata</E
+M>meridionale</E
+M>xerobia</E
+M>calcarea</E
+M>s. artificiale</E
+M>ruderale</E
+M>urbica</E
+M>biotopo</E
+M>stazione</E
+M>s. di un materiale di raccolta</E
+M>s. di ovodeposizione di una specie animale</E
+M>s. di rilevamento biocentrico</E
+M>s. balneare</E
+M>termale</E
+M>s. di cura</E
+M>di sci</E
+M>s. invernale</E
+M>di sport invernali</E
+M>s. climatiche</E
+M>s. climatiche marine</E
+M>lacuali</E
+M>alpine</E
+M>appenniniche</E
+M>S. liturgica</E
+M>s. quaresimali</E
+M>chiesa</E
+M>santuario stazionale</E
+M>S. di salvataggio</E
+M>s. trasmittente</E
+M>ricevente</E
+M>amplificatrice</E
+M>ripetitrice</E
+M>s. telefonica</E
+M>telegrafica</E
+M>radiofonica</E
+M>radiotrasmettitore</E
+M>sentire</E
+M>prendere una s.</E
+M>cambiare stazione</E
+M>s. d&#8217;interrogazione</E
+M>s. di raccolta dei dati</E
+M>s. terminale</E
+M>console</E
+M>work</E
+M>station</E
+M>s. elettriche</E
+M>s. di trasformazione</E
+M>sottostazioni</E
+M>s. attigue alla centrale di produzione</E
+M>s. di interconnessione</E
+M>s. di distribuzione primaria</E
+M>s. di distribuzione secondaria</E
+M>cabine di trasformazione</E
+M>s. di conversione</E
+M>s. fotoelettrica</E
+M>s. semaforica</E
+M>s. di vedetta</E
+M>S. di partenza</E
+M>s. terminale</E
+M>S. di rifornimento e di servizio</E
+M>s. di servizio</E
+M>centrale</E
+M>di comando</E
+M>s. direzione tiro</E
+M>s. di governo</E
+M>centrale</E
+M>di lancio</E
+M>s. radio</E
+M>s. di segnali</E
+M>S. di monta</E
+M>stazione di fecondazione equina</E
+M>taurina</E
+M>S. dei carabinieri</E
+M>s. meteorologica</E
+M>s. sismica</E
+M>s. zoologiche e di biologia marina</E
+M>s. bacologiche</E
+M>sericole</E
+M>S. sperimentali</E
+M>S. sperimentale agraria</E
+M>S. oceanografica</E
+M>S. spaziale</E
+M>orbitante</E
+M>fare stazione</E
+M>s. linfoghiandolare</E
+M>s. inguinali</E
+M>cervicali</E
+M>ascellari</E
+M>mediastiniche</E
+M>piano s.</E
+M>piano di s.</E
+M>geometrale</E
+M>punto di s.</E
+M>mi sentii come smarrito</E
+M> nel vuoto</E
+M> in quella misera stazionuccia di passaggio</E

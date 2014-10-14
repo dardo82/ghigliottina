@@ -1,0 +1,76 @@
+carro.txt
+"carro"
+"carro a carrelli"
+"carro allegorico"
+"carro allegorico"
+"carro armato"
+"carro attrezzi"
+"carro attrezzi con gru"
+"carro cisterna"
+"carro coperto"
+"carro da fieno"
+"carro dispensa con i fornelli"
+"carro funebre"
+"carro gru"
+"carro ippotrainato"
+"carro merci"
+"carro merci"
+"carro trainato da un bue"
+"carro trainato dai buoi"
+"Gran Carro"
+"mettere il carro davanti ai buoi"
+"Orsa Maggiore, Grande Carro"
+"saltare sul carro, saltare sul carro del vincitore"
+"trasportare con un carro"
+"vagone merci; carro merci"
+*[[carrarmato]], [[carro attrezzi]], [[carro bestiame]], [[carro funebre]], [[carro merci]], [[carrista]], [[motocarro]]
+*Alessandro Masi, "Non c'è solo il carro del vincitore" in "Sette" (settimanale del "Corriere della sera" ), 11 aprile 2014, pagina 24
+M>carrus</E
+M>carrum</E
+M>carrozza</E
+M>carri</E
+M>le carra</E
+M>tutte le carra di quel contado venivano cariche</E
+M>mettere il c</E
+M>innanzi ai buoi</E
+M>essere l’ultima</E
+M>la quinta</E
+M>ruota del c</E
+M>la peggio</E
+M>peggior</E
+M>ruota del c. è quella che stride</E
+M>un c</E
+M>di mattoni</E
+M>due carra di legna</E
+M>a carri</E
+M>a carra</E
+M>da legna</E
+M>c. da fieno</E
+M>allegorici</E
+M>carri</E
+M>da parata</E
+M>trionfale</E
+M>attrezzi</E
+M>funebre</E
+M>a vino</E
+M>carretto a vino</E
+M>carro</E
+M>botte</E
+M>ferroviario</E
+M>merci</E
+M>bestiame</E
+M>cisterna</E
+M>a bilico</E
+M>scorta</E
+M>da guerra</E
+M>falcato</E
+M>armato</E
+M>d’assalto</E
+M>armato</E
+M>leva</E
+M>diavolo</E
+M>matto</E
+M>carromatto</E
+M>C. di Tespi</E
+M>Gran Carro</E
+M>Piccolo Carro</E

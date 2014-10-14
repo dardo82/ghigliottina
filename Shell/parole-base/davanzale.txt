@@ -1,0 +1,9 @@
+davanzale.txt
+"davanzale"
+"davanzale"
+"vaso da fiori per davanzale"
+M>davanti</E
+M>avanzare</E
+M>soglia</E
+M>pettorale</E
+M>banchina</E

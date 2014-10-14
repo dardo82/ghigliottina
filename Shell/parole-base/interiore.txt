@@ -1,0 +1,39 @@
+interiore.txt
+"illuminazione interiore"
+"interiore"
+"interiore"
+"io interiore"
+"lastra interiore"
+"luce interiore"
+"moto interiore"
+"natura interiore"
+"parte interiore"
+"percorso interiore"
+"realtà interiore"
+"vita interiore"
+*(1) [[interno]]
+*(1) [[intimo]] 
+*[[esteriore]]
+*[[interiora]]
+*[[interiorità]]
+*[[interiorizzare]]
+*[[interno]]
+M>interior</E
+M>oris</E
+M>inter</E
+M>int</E
+M>mus</E
+M>interno</E
+M>gli atti i</E
+M>del culto</E
+M>un uomo ricco di vita i</E
+M>tormento</E
+M>dramma i</E
+M>mondo i</E
+M>le parti i</E
+M>di un fabbricato</E
+M>andando una volta per l’interiore dell’Africa</E
+M>gli i</E
+M>le interiora</E
+M>gioire</E
+M>soffrire interiormente</E

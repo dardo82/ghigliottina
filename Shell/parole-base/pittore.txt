@@ -1,0 +1,50 @@
+pittore.txt
+"del pittore"
+"pittore"
+"pittore a olio"
+"pittore di paesaggi"
+"pittore, decoratore"
+"vecchio maestro (pittore)"
+*[[pittoresco]]
+m>trice</e
+m>pictor</e
+m>ris</e
+m>ping</e
+m>pictus</e
+m>professionista</e
+m>dilettante</e
+m>fare il p</e
+m>un p</e
+m>di ritratti</e
+m>di paesaggi</e
+m>un p</e
+m>di marine</e
+m>di nature morte</e
+m>manierato</e
+m>di maniera</e
+m>astrattista</e
+m>futurista</e
+m>divisionista</e
+m>macchiaiolo</e
+m>i p</e
+m>del Rinascimento</e
+m> delle Avanguardie novecentesche</e
+m>i p</e
+m>umbri</e
+m>fiamminghi</e
+m>studio di pittore</e
+m>della domenica</e
+m>avere in casa i pittori</e
+m>decoratore</e
+m>pittore di</e
+m>di Cle&ograve;frade</e
+m>di Boston</e
+m>di Londra</e
+m>dell&rsquo;altalena</e
+m>dei calzari</e
+m>delle linee rosse</e
+m>uno scrittore che &egrave; un efficace p</e
+m>dell&rsquo;ambiente della provincia italiana</e
+m>un gustoso p</e
+m>di scene popolaresche</e
+m>fantasia pittrice</e

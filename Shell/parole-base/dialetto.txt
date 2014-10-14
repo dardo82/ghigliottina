@@ -1,0 +1,37 @@
+dialetto.txt
+"dialetto"
+"dialetto"
+"dialetto locale"
+#* '''''dialetto''' lombardo, toscano, siciliano, salentino''
+M>dialectos</E
+M>i d. d’Italia derivati dal latino</E
+M>i d</E
+M>italiani e la lingua nazionale</E
+M>i d</E
+M>francesi</E
+M>spagnoli</E
+M>tedeschi</E
+M>il d</E
+M>veneto</E
+M>romagnolo</E
+M>calabrese</E
+M>i d</E
+M>liguri</E
+M>lombardi</E
+M>siciliani</E
+M>i d</E
+M>dell’Italia centromeridionale</E
+M>il d</E
+M>di Bergamo</E
+M>di Catania</E
+M>di Avellino</E
+M>parlare</E
+M>scrivere in d</E
+M>parlare</E
+M>capire un d</E
+M>letteratura</E
+M>poesia</E
+M>commedie in d.</E
+M>chi ha smesso di usare il d. è uno che ha rinunciato a un grado di intimità col proprio mondo e ha stabilito distanze</E
+M>dialetti</E
+M>italici</E

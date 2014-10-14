@@ -1,0 +1,18 @@
+alt.txt
+"OriginalTerm"
+"alt"
+"halt"
+"OriginalTerm"
+"un attimo!, un momento!, alt!, fermo!"
+:*[[baix]]
+* [[neu]]
+*itliano
+*catalano
+*afrikaans
+*tedesco
+m>halt!</e
+m>dare l&rsquo;alt</e
+m>ordinare l&rsquo;alt</e
+m>fare alt</e
+m>fare un alt</e
+m>stop</e

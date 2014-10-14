@@ -1,0 +1,109 @@
+assicurazione.txt
+"agente di assicurazione"
+"assicurazione"
+"assicurazione"
+"assicurazione"
+"assicurazione a termine"
+"assicurazione aeronautica"
+"assicurazione auto"
+"assicurazione contro gli errori professionali"
+"assicurazione contro gli infortuni"
+"assicurazione contro gli infortuni sul lavoro"
+"assicurazione contro i sinistri"
+"assicurazione contro il furto"
+"assicurazione contro l'incendio"
+"assicurazione contro le collisioni"
+"assicurazione contro le inondazioni"
+"assicurazione contro le malattie"
+"assicurazione dei beni patrimoniali"
+"assicurazione della flotta"
+"assicurazione di gruppo (di solito; lavoratori di una stessa azienda)"
+"assicurazione di gruppo sulla vita"
+"assicurazione di inabilità"
+"assicurazione di indennizzo"
+"assicurazione di responsabilità civile"
+"assicurazione di titolo"
+"assicurazione governativa"
+"assicurazione marittima"
+"assicurazione maternità"
+"assicurazione medica"
+"assicurazione merci"
+"assicurazione mutua"
+"assicurazione onnicomprensiva"
+"assicurazione ospedaliera"
+"assicurazione partecipante"
+"assicurazione per responsabilità"
+"assicurazione sanitaria"
+"assicurazione su danni alla proprietà"
+"assicurazione sui terremoti"
+"assicurazione sul credito"
+"assicurazione sulla carriera"
+"assicurazione sulla vita"
+"assicurazione sulla vita"
+"assicurazione sulla vita"
+"assicurazione sulla vita"
+"assicurazione trasporti"
+"assicurazione vitalizia"
+"broker di assicurazione"
+"certificato di assicurazione"
+"compagnia di assicurazione"
+"contrassegno di assicurazione"
+"costo, assicurazione e nolo"
+"dell'assicurazione"
+"fare un'assicurazione"
+"mediatore di assicurazione"
+"perito assicurativo, perito dell'assicurazione"
+"persona con assicurazione"
+"polizza di assicurazione"
+"stipulare un'assicurazione sulla vita, farsi un'assicurazione sulla vita"
+#*''Ti sei ricordato di fare l'assicurazione sull'auto ?'' 
+*[[promessa]], [[impegno]], [[garanzia]], [[conferma]], [[affermazione]], [[giuramento]]
+*[[coassicurazione]], [[bancassicurazione]]
+*Enciclopedia [http
+M>mi dia a</E
+M>di aver ricevuto l’assegno</E
+M>abbiti da me l’a</E
+M>del mio affetto</E
+M>chiedere</E
+M>ottenere a</E
+M>contro eventuali rischi</E
+M>diretta</E
+M>indiretta</E
+M>a spalla</E
+M>assicuratore</E
+M>premio</E
+M>assicurato</E
+M>a favore del terzo</E
+M>di terzi</E
+M>per conto</E
+M>a nome altrui</E
+M>contro i danni</E
+M>contro la grandine</E
+M>l’incendio</E
+M>il furto</E
+M>gli infortunî</E
+M>facoltativa</E
+M>obbligatoria</E
+M>obbligatoria della responsabilità civile autoveicoli</E
+M>RCA</E
+M>RC auto</E
+M>polizza di a</E
+M>certificato d’a</E
+M>sulla vita</E
+M>per il caso di morte</E
+M>per il caso di sopravvivenza</E
+M>sociali</E
+M>contro gli infortunî</E
+M>contro le malattie professionali</E
+M>per l’invalidità</E
+M>per la vecchiaia</E
+M>Medicina delle a</E
+M>compagnia</E
+M>società di a.</E
+M>di assicurazioni</E
+M>fare</E
+M>contrarre</E
+M>stipulare un’a</E
+M>essere coperto da a.</E
+M>contro i rischi</E
+M>per la responsabilità civile</E

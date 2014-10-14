@@ -1,0 +1,6 @@
+cassapanca.txt
+"cassapanca"
+M>cassa</E
+M>panca</E
+M>cassapanche</E
+M>cassepanche</E

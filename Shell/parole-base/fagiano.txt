@@ -1,0 +1,22 @@
+fagiano.txt
+"carne di fagiano"
+"fagiano"
+"fagiano di monte"
+"fagiano di monte"
+"fagiano dorato"
+*[[fagiano comune]], [[fagiano di monte]]
+*[[uccello]]
+M>phasianus</E
+M>comune</E
+M>Phasianus colchicus</E
+M>dorato</E
+M>Chrysolophus pictus</E
+M>di Lady Amherst</E
+M>Chrysolophus amherstiae</E
+M>argentato</E
+M>Gennaeus nycthemerus</E
+M>prelato</E
+M>Diardigallus diardi</E
+M>di monte</E
+M>gallo di monte</E
+M>Lyrurus tetrix</E

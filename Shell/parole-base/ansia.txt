@@ -1,0 +1,33 @@
+ansia.txt
+"ansia"
+"ansia repressa"
+"ansia, fobia, avversione"
+"ansia; fobia; avversione"
+"apprensione, ansia, inquietudine"
+"che ansia!"
+"con ansia"
+"con ansia"
+"inquietudine; ansia"
+"mettere in ansia"
+"preso dall'ansia"
+"ti aspetto con ansia"
+#*''Quando il professore mi rivolse quella domanda complicata, fui preso dall''''ansia''' di non essere in grado di rispondere correttamente.''
+#*''Quel ragazzo ha un'incredibile '''ansia''' di conoscenza.''
+*[[ansietà]], [[affanno]], [[agitazione]], [[preoccupazione]], [[timore]], [[angoscia]], [[inquietudine]], [[apprensione]], [[trepidazione]]
+*[[pena]], [[angustia]], [[pensiero]]
+* [[calma]], [[serenità]], [[tranquillità]], [[indifferenza]]
+*[[ansimare]], [[ansiogeno]], [[ansiolitico]], [[ansioso]]
+M>anxia</E
+M>anxius</E
+M>essere</E
+M>stare in a</E
+M>per qualcuno</E
+M>per qualche cosa</E
+M>quando dopo tanto tempo l’a. ti lascia te ne accorgi benissimo: è come scendere dai tacchi a spillo</E
+M> e infilare le pantofole</E
+M>di gloria</E
+M>L’a</E
+M>d’un cor che indocile Serve</E
+M>pensando al regno</E
+M>primaria</E
+M>segnale</E

@@ -1,0 +1,31 @@
+congresso.txt
+"congresso"
+"congresso"
+"Congresso americano, Campidoglio"
+"congresso, convegno"
+M>congressus</E
+M>congr</E
+M>con</E
+M>gradi</E
+M>il c</E
+M>di Vienna del 1814-15</E
+M> il c</E
+M>di Parigi del 1856.</E
+M>medico</E
+M>storico</E
+M>scientifico</E
+M>pedagogico</E
+M>statistico</E
+M>del partito popolare</E
+M>socialista</E
+M>provinciale</E
+M>regionale</E
+M>nazionale</E
+M>internazionale</E
+M>eucaristico</E
+M>specchiatevi ne’ duelli e ne’ c</E
+M>de’ pochi</E
+M>quanto gli Italiani sieno superiori con le forze</E
+M>con la destrezza</E
+M>con lo ingegno</E
+M>carnale</E

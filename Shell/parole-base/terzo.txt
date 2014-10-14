@@ -1,0 +1,169 @@
+terzo.txt
+"al terzo posto"
+"appartamento al terzo piano"
+"del terzo anno"
+"hot corner (posizione del terzo uomo-base; baseball)"
+"i terzo luogo"
+"il terzo grado"
+"in terzo luogo"
+"in terzo luogo"
+"soggetto terzo"
+"terzo"
+"terzo"
+"terzo anello"
+"terzo grado"
+"terzo grado"
+"terzo mercato"
+"terzo migliore"
+"terzo mondo"
+"terzo orecchio"
+"terzo tempo"
+"terzo ufficiale"
+"terzo uomo"
+"terzo ventricolo"
+"tra i due litiganti il terzo gode"
+"un terzo"
+"un terzo"
+"un terzo"
+#* ''Sono venuto a saperlo da '''terzi'''.''
+* ''(persona non coinvolta)'' [[terza persona]]
+* ''(numerale)'' [[terziario]], [[terzina]], [[terzino]], [[terzogenito]], [[terzomondista]]
+*[[primo]], [[secondo]], [[quarto]], [[quinto]] 
+*italiano
+M>tertius</E
+M>tres</E
+M>il mio t. figlio</E
+M>poltrona di t. fila</E
+M>la t</E
+M>classe</E
+M>il t. giorno della settimana</E
+M>il t. giovedì del mese</E
+M>il t. secolo dopo Cristo</E
+M>il 3&#176;</E
+M>il III secolo</E
+M>il sec. 3&#176;</E
+M>il sec. III d. C.</E
+M>t. cielo</E
+M>il t. comandamento</E
+M>l&#8217;ora t.</E
+M>t. caso</E
+M>la t. persona singolare</E
+M>plurale</E
+M>t. posizione</E
+M>t. velocità</E
+M>t. marcia</E
+M>arrivare terzo</E
+M>terza</E
+M>essere il t.</E
+M>in t. luogo ...</E
+M>terzo</E
+M>Pio III</E
+M>Napoleone III</E
+M>Orl. Fur.</E
+M> canto III</E
+M>Saul</E
+M> atto III</E
+M> scena 3</E
+M>piano III</E
+M>3&#176;</E
+M>c&#8217;è da fare il riassunto del t. canto dell&#8217;Orlando Furioso</E
+M>salgo su al t. piano.</E
+M>decimoterzo</E
+M>ventesimoterzo</E
+M>tredicesimo</E
+M>ventitreesimo</E
+M>è già la t. volta che ti colgo in difetto</E
+M>me ne hai già combinate due: alla terza che mi fai</E
+M> povero te!</E
+M>ci sarebbe forse una t. via</E
+M>Ahi come facean lor levar le berze A le prime percosse! già nessuno Le seconde aspettava né le t.</E
+M>in Trivigi giunsero tre nostri cittadini</E
+M> de&#8217; quali l&#8217;uno era chiamato Stecchi</E
+M> l&#8217;altro Martellino e il t. Marchese</E
+M>t. età</E
+M>università della t. età</E
+M>t. forza</E
+M>t. via</E
+M>t. fuoco</E
+M>ceramiche a t. fuoco</E
+M>t. grado</E
+M>t. grado inferiore</E
+M>superiore</E
+M>interrogatorio di t. grado</E
+M>t. incomodo</E
+M>terz&#8217;ordine</E
+M>t. pagina</E
+M>t. programma</E
+M>t. rete</E
+M> t. canale</E
+M>terza Italia</E
+M>Egli vide nel ciel crepuscolare Co &#8217;l cuor di Gracco ed il pensier di Dante La terza Italia</E
+M>il poeta della t. Italia</E
+M>t. mondo</E
+M>T. Mondo</E
+M>tiers monde</E
+M>T. Repubblica</E
+M>t. Roma</E
+M>T. Reich</E
+M>drittes Reich</E
+M>t. stato</E
+M>siamo in due</E
+M> e per fare la partita occorrerebbe trovare un t.</E
+M>sarebbe opportuno sentire il parere di un t.</E
+M> che sia estraneo alla questione</E
+M>tra due litiganti il t. gode</E
+M>i t.</E
+M>non vorrei farlo sapere a terzi</E
+M>purché ciò avvenga senza danno o pericolo di terzi</E
+M>vendite</E
+M>acquisti</E
+M>servizî bancarî</E
+M>contrattazioni per conto terzi</E
+M>il t. e il quarto</E
+M>il quale</E
+M>padre Cristoforo</E
+M>attonito non meno che afflitto</E
+M> domanda al t. e al quarto</E
+M> per aver qualche lume intorno alla cagione d&#8217;un fatto così inaspettato</E
+M>non c&#8217;era bisogno di andare a lamentarsi col t. e col quarto!</E
+M>confessione fatta a un terzo</E
+M>parte</E
+M>contratto a favore di terzo</E
+M>principio del t. escluso</E
+M>t. continuo proporzionale</E
+M>a:b=b:c.</E
+M>la t. parte</E
+M>siamo in tre</E
+M> e perciò a ognuno spetta la t. parte.</E
+M>un t.</E
+M>due t.</E
+M>quant&#8217;è un t. di 36?</E
+M>un t. del guadagno</E
+M>del reddito</E
+M>dell&#8217;incasso</E
+M>erano presenti quasi due t. dei soci.</E
+M>t. medio</E
+M>terzo disponibile</E
+M>t. residuo</E
+M>vela al t.</E
+M>da trabaccolo</E
+M>terziere</E
+M>terzo di Città</E
+M>t. di S. Martino</E
+M>t. di Camollia</E
+M>t. rima</E
+M>in terzo</E
+M>messa in terzo</E
+M>essere in t.</E
+M>non piacendogli di tirare in disparte il curato e di bisbigliar con lui in segreto</E
+M> mentre il suo nuovo amico era lì in terzo</E
+M>terzo</E
+M>terzo giulio</E
+M>terzo paolo</E
+M>terzo carlino</E
+M>terzo di grosso</E
+M>tercio</E
+M>chi si sarà arrolato in qualche t.</E
+M> come allora dicevano</E
+M> di Spagna o di Mantova</E
+M> o di qualche altra parte belligerante</E

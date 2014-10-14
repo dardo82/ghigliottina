@@ -1,0 +1,36 @@
+omicidio.txt
+"atto di violenza; omicidio; assassinio"
+"commettere un omicidio"
+"omicidio"
+"omicidio di massa"
+"omicidio efferato"
+"omicidio giustificabile"
+"omicidio per legittima difesa"
+"omicidio premeditato"
+"omicidio rituale"
+"omicidio volontario"
+#*'''omicidio premeditato'''
+#*'''omicidio passionale'''
+*[[assassinio]], [[uccisione]], [[delitto]] ''(uso corrente)''; [[parricidio]], [[matricidio]], [[infanticidio]], [[uxoricidio]], [[ crimine]];'' fatto di sangue''
+*[[suicidio]], [[femminicidio]], [[infanticidio]], [[parricidio]], [[matricidio]], [[genocidio]]
+*Enciclopedia [http
+M>homicidium</E
+M>homo</E
+M>cidium</E
+M>commettere un o</E
+M>reato di o</E
+M>colpevole</E
+M>imputato</E
+M>reo di o</E
+M>è stato accusato di tentato o</E
+M>processare</E
+M>condannare per omicidio</E
+M>volontario</E
+M>doloso</E
+M>premeditato</E
+M>o. plurimo</E
+M>colposo</E
+M>preterintenzionale</E
+M>rituale</E
+M>sacrifici</E
+M>bianco</E

@@ -1,0 +1,38 @@
+dilettante.txt
+"atleta dilettante"
+"dilettante"
+"dilettante"
+"dilettante"
+"amateur, enthusiast, dilettante"
+"dilettante"
+"dilettante (dispregiativo)"
+"status del dilettante"
+M>dilettare</E
+M>è un d</E
+M>di pittura</E
+M>di musica</E
+M>compagnia drammatica di dilettanti</E
+M>incontro di pugilato fra dilettanti</E
+M>non sono un violinista</E
+M>sono appena un dilettante</E
+M>un attore</E
+M>un calciatore</E
+M>un pugile d</E
+M>sono soltanto un filologo dilettante</E
+M>è un d.!</E
+M>non è un artista</E
+M>è solo un d</E
+M>ragiona</E
+M>scrive</E
+M>dipinge</E
+M>suona come un d</E
+M>dirige da dilettante</E
+M>radioamatore</E
+M>bande dei d</E
+M>il Griso spedì tre di coloro all’osteria</E
+M>uno che si mettesse sull’uscio</E
+M>gli altri due che stessero dentro a giocare e a bere</E
+M>come dilettanti</E
+M>il formaggio stracchino</E
+M>quando è ben grasso e pieno di occhi</E
+M>come dicono i dilettanti</E

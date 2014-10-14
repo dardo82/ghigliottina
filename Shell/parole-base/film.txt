@@ -1,0 +1,104 @@
+film.txt
+"cacciatore bianco (anche titolo di film)"
+"dati del film"
+"film data"
+"dormire per tutto il film"
+"sleep through the whole film"
+"due film con un solo biglietto"
+"film"
+"film"
+"film"
+"film"
+"movie, film"
+"film"
+"movie, film"
+"film a cartoni animati"
+"film animation"
+"film a colori"
+"colour film"
+"film artistico"
+"art film"
+"film d'azione"
+"film didattico"
+"educational film"
+"film free"
+"film free"
+"film horror"
+"film horror, film dell'orrore"
+"film in bianco e nero"
+"black-and-white film"
+"film muto"
+"silent film"
+"film per adulti"
+"film pilota"
+"pilot film"
+"film porno"
+"film porno"
+"porno film"
+"film pornografico"
+"pornographic film"
+"film pornografico"
+"pornographic film"
+"film pornografico; hard-core"
+"film sonoro"
+"film sperimentale"
+"experimental film"
+"giallo, romanzo o film poliziesco"
+"girare un film"
+"shoot a film"
+"il cattivo del film"
+"interpretare un film"
+"play a role in a film"
+"starred in a film"
+"was in the film"
+"piccola parte (in un film)"
+"replicare (film)"
+"ruolo in un film"
+"film role"
+"seconda visione (film)"
+"Un Sentito Ringraziamento (Titolo di film)"
+*[[pellicola]], [[cinema]]
+*[[filmato]], [[filmare]],[[filmabile]], [[filmico]], [[filmina]], [[filmino]], [[filmistico]], [[film loop]], [[filmmaker]], [[filmografia]], [[filmologia]], [[filmologico]], [[filmopera]], [[filmoteca]], [[filmstrip]]
+*[[cinepresa]], [[telecamera]], [[videocamera]]
+*Devoto/Oli, '' Il dizionario italiano'', edizione cartacea 2000-2001, Le Monnier, p. 817
+M>film</E
+M>in bianco e nero</E
+M>a colori</E
+M>in formato ridotto</E
+M>a passo normale</E
+M>riprendere</E
+M>realizzare</E
+M>proiettare un f</E
+M>girato in cinemascope</E
+M>assistere alla proiezione di un f</E
+M>andare a vedere un f</E
+M>il regista</E
+M>gli attori</E
+M>il produttore di un f</E
+M>film educativi</E
+M>pubblicitarî</E
+M>film-giornale</E
+M>film</E
+M>inchiesta</E
+M>sentimentale</E
+M>avventuroso</E
+M>comico</E
+M>drammatico</E
+M>poliziesco</E
+M>western</E
+M>erotico</E
+M>pornografico</E
+M>vietato ai minori di anni 18</E
+M>essere appassionato di film gialli</E
+M>di film del terrore</E
+M>storia del f</E
+M>i tempi del f</E
+M>muto</E
+M>l’avvento del f</E
+M>sonoro</E
+M>di cellofan</E
+M>di laminato plastico</E
+M>denti coperti di un f</E
+M>giallastro</E
+M>protettivo</E
+M>certi filmoni di cappa e spada</E

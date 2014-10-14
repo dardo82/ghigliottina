@@ -1,0 +1,57 @@
+re.txt
+"adatto ad un re"
+"Bibbia di re Giacomo"
+"consacrato re"
+"diritto divino dei re"
+"do re mi"
+"do-re-mi"
+"ex re"
+"il re dei re"
+"il re è nudo!"
+"in re"
+"in re"
+"lo sport dei re"
+"più realista del re"
+"more royal than the king, more catholic than the pope, more x than x is"
+"re"
+"sovrano, reggente, monarca"
+"re"
+"re, key of D"
+"Re Davide il Salmista"
+"re del castello"
+"re della collina"
+"re della montagna"
+"re divino"
+"re Lear"
+"re magi"
+"the Three Wise Men"
+"religion"
+"re supremo"
+"sentirsi benissimo, sentirsi come un re"
+"versione di re Giacomo"
+"End Reached"
+#*''Tagliarono la testa al 
+#*''Il leone è il '''re''' degli animali.''
+#*''Scacco al 
+* ''(monarca)'' ''' ré  '''
+* ''(nota musicale)'' '''rè'''
+* [[monarca]], [[sovrano]], [[regnante]] 
+* [[regina]], [[regno]], [[regnare]], 
+*''La giustizia è la forza dei '''re''', la furbizia è la forza della donna, l'orgoglio è la forza dei pazzi, la spada è la forza del bandito, l'umiltà è la forza dei saggi, le lacrime sono la forza del bambino, l'amore di un uomo e una donna è la forza del mondo
+*italiano
+M>reagire</E
+M>reazione</E
+M>reiterare</E
+M>respingere</E
+M>recuperare</E
+M>ricuperare</E
+M>remunerare</E
+M>rimunerare</E
+M>refrigerare</E
+M>red</E
+M>redig</E
+M>redim</E
+M>redargu</E
+M>redigere</E
+M>redimere</E
+M>redarguire</E

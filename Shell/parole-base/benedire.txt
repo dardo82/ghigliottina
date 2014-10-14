@@ -1,0 +1,46 @@
+benedire.txt
+"a farsi benedire"
+"benedire"
+"benedire"
+*[[consacrare]]
+*[[sconsacrare]]
+* [[benedetto]], [[benedizione]], [[benedicente]], [[consacrare]]
+M>benedic</E
+M>bene</E
+M>dic</E
+M>dire</E
+M>benedivo</E
+M>benedìi</E
+M>benedisti</E
+M>benedici</E
+M>benedisse il figlio che partiva</E
+M>il cibo</E
+M>la mensa</E
+M>tutti lo benedicono per il suo buon cuore</E
+M>il nome</E
+M>la memoria di una persona</E
+M>Dio</E
+M>sia benedetto</E
+M>benedirò sempre il giorno che lo conobbi</E
+M>benedite</E
+M>Signore</E
+M>la nostra famiglia</E
+M>Dio benedica le nostre fatiche</E
+M>benedite</E
+M>gran Dio</E
+M>l’Italia!</E
+M>Dio ti benedica!</E
+M>alla fine della messa il celebrante benedice i fedeli</E
+M>le palme</E
+M>le ceneri</E
+M>le candele</E
+M>le uova</E
+M>le nozze</E
+M>le case</E
+M>la nuova chiesa</E
+M>andare</E
+M>mandare a farsi b</E
+M>la frutta è andata tutta a farsi b</E
+M>prese un po’ d’acqua nel cavo della mano e lo benedisse</E
+M>mano</E
+M>gesto benedicente</E

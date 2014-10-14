@@ -1,0 +1,15 @@
+purtroppo.txt
+"purtroppo"
+"purtroppo sì, purtroppo è così, mi dispiace ma è così"
+*[[malauguratamente]], [[sfortunatamente]], [[disgraziatamente]], [[sciaguratamente]]
+*[[fortunatamente]], [[per fortuna]]
+*[[disgraziatamente]] 
+M>è così</E
+M>è vero</E
+M>gli aiuti sono arrivati tardi</E
+M>non sono riuscito ad ottenere niente</E
+M>domani p</E
+M>non potrò venire a casa tua</E
+M>&#171;Sei stato promosso?&#187; &#171;P</E
+M>no&#187;</E
+M>&#171;È stata respinta la proposta?&#187; &#171;Purtroppo&#187;</E

@@ -1,0 +1,78 @@
+operaio.txt
+"di operaio edile"
+"elmetto da operaio"
+"movimento operaio"
+"operaio"
+"operaio"
+"operaio"
+"operaio dell'industria"
+"operaio edile"
+"operaio edile"
+"operaio metalmeccanico"
+"operaio petrolifero"
+"operaio siderurgico"
+"operaio stagionale"
+*[[proletario]]
+*[[operaismo]]
+m>operarius</e
+m>salario</e
+m>impiegato</e
+m>artigiano</e
+m>occupati</e
+m>disoccupati</e
+m>un abile</e
+m>un esperto</e
+m>un bravo o</e
+m>una brava o</e
+m>fare l&rsquo;o</e
+m>lavorare come o</e
+m>assumere un nuovo o</e
+m>tre nuove operaie</e
+m>qualificati</e
+m>specializzati</e
+m>equiparati</e
+m>metalmeccanici</e
+m>tessili</e
+m>poligrafici</e
+m>gli o</e
+m>delle fabbriche</e
+m>dei cantieri</e
+m>delle officine</e
+m>militari</e
+m>studenti operai</e
+m>preti operai</e
+m>della penna</e
+m>del cervello</e
+m>del pennello</e
+m>gli o</e
+m>della vigna del Signore</e
+m>Matteo</e
+m>Matteo</e
+m>Marco</e
+m>Luca</e
+m>la messe è molta</e
+m>ma gli o</e
+m>sono pochi</e
+m>Matteo</e
+m>Luca</e
+m>massa</e
+m>sociale</e
+m>la massa o</e
+m>le masse o</e
+m>la classe o</e
+m>forza</e
+m>lavoro</e
+m>la questione o</e
+m>le lotte o</e
+m>movimento o</e
+m>partito o</e
+m>organizzazioni</e
+m>associazioni o</e
+m>cooperativa o</e
+m>case operaie</e
+m>formiche o.</e
+m>api o.</e
+m>termiti operaie</e
+m>fabbriciere</e
+m>del porto</e
+m>dell&rsquo;arsenale</e

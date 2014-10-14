@@ -1,0 +1,42 @@
+neutrale.txt
+"neutrale"
+"neutrale"
+"posizione neutrale"
+"punto neutrale"
+"restare neutrale"
+"territorio neutrale"
+"zona neutrale"
+*[[estraneo]], [[indifferente]]
+*[[imparziale]], [[equanimo]]
+*[[belligerante]]
+* di parte, [[parziale]], [[fazioso]]
+*[[neutralismo]], [[neutralizzare]], [[neutralmente]]
+M>neutralis</E
+M>neuter</E
+M>le nazioni</E
+M>i paesi n</E
+M>dichiararsi</E
+M>essere</E
+M>restare</E
+M>mantenersi neutrale</E
+M>acque n</E
+M>porto n</E
+M>nave neutrale</E
+M>merci n</E
+M>essere</E
+M>mostrarsi n</E
+M>assumere</E
+M>tenere</E
+M>seguire un comportamento</E
+M>una linea neutrale</E
+M>la politica dei n</E
+M>il parere di un neutrale</E
+M>moneta n</E
+M>finanza n</E
+M>neutro</E
+M>caratteri genetici n</E
+M>mutazione n</E
+M>comportarsi</E
+M>giudicare neutralmente</E
+M>paesi che vivono neutralmente</E
+M>verbo usato neutralmente</E

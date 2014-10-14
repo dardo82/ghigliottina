@@ -1,0 +1,71 @@
+pila.txt
+"della pila a umido"
+"memoria a pila"
+"pila"
+"pila"
+"pila"
+"pila"
+"pila a secco"
+"pila a umido"
+"pila tascabile"
+"pila tascabile, torcia"
+#*''Nei moderni orologi al  [[quarzo ]]è necessario sostituire le pile dopo un certo tempo''
+#*''Sulla [[scrivania]] giaceva un'alta pila di pratiche inevase''
+* (dispositivo) [[batteria]], [[accumulatore]]
+*italiano
+*occitano
+*spagnolo
+*catalano
+M>s’udiva</E
+M>il gorgoglio più lontano dell’acqua rotta tra le pile del ponte</E
+M>la p</E
+M>dell’acquaio</E
+M>da un canto</E
+M> alla marmorea pila Succiano l’acque</E
+M>tre o quattro ragazzi mezzi nudi sguazzavano coi piedi nella p</E
+M>di una fonte</E
+M>Pila dell’acqua santa</E
+M>olandese</E
+M>olandese</E
+M>una p</E
+M>di libri</E
+M>di piatti</E
+M>i varî capi di biancheria erano disposti in pile sui ripiani del guardaroba</E
+M>voltaica</E
+M>di Volta</E
+M>a colonna</E
+M>elettrica</E
+M>chimica</E
+M>a tazze</E
+M>a corona di tazze</E
+M>primaria</E
+M>secondarie</E
+M>Pila a secco</E
+M>corazzate</E
+M>blindate</E
+M>alcaline</E
+M>al mercurio</E
+M>al cadmio</E
+M>al magnesio</E
+M>all’alluminio</E
+M>p. verdi</E
+M>p. ricaricabili</E
+M>a combustibile</E
+M>avere le p. scariche</E
+M>aver bisogno di ricaricare le p.</E
+M>a pile</E
+M>radio</E
+M>registratore</E
+M>mangianastri a pile</E
+M>fotoelettriche</E
+M>fotoelettroniche</E
+M>pile</E
+M>celle</E
+M>cellule solari</E
+M>atomica</E
+M>nucleare</E
+M>atomic pile</E
+M>reattore nucleare</E
+M>controconio</E
+M>pile</E
+M>in pila</E

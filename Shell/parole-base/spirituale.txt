@@ -1,0 +1,71 @@
+spirituale.txt
+"capo spirituale"
+"essere in comunione spirituale con"
+"essere spirituale, entità spirituale"
+"leader spirituale"
+"presenza spirituale"
+"ritiro spirituale, religioso"
+"spirituale"
+"spirituale"
+*[[immateriale]], [[incorporeo]]
+*[[materiale]]
+*[[spiritualmente]]
+M>spiritualis</E
+M>spiritus -us</E
+M>esseri</E
+M>creature s.</E
+M>la vita s.</E
+M>il mondo s.</E
+M>la sfera s.</E
+M>beni</E
+M>valori s.</E
+M>esigenze</E
+M>necessità s.</E
+M>educare le facoltà s.</E
+M>dimostrare grande forza</E
+M>energia s.</E
+M>grandezza</E
+M>nobiltà s.</E
+M>povertà</E
+M>miseria s.</E
+M>il progresso</E
+M>l&#8217;elevazione s. di un popolo</E
+M>il patrimonio s. di una nazione</E
+M>amore s.</E
+M>testamento s.</E
+M>lo spirituale</E
+M>il predominio dello s. nel medioevo cristiano</E
+M>mondano</E
+M>terreno</E
+M>profano</E
+M>temporale</E
+M>la vita s.</E
+M>la morte s.</E
+M>esercizî s.</E
+M>ritiro s.</E
+M>padre</E
+M>direttore s.</E
+M>lo sposo s.</E
+M>comunione s.</E
+M>movimenti s.</E
+M>frati s.</E
+M>gli s. francescani</E
+M>senso s.</E
+M>senso letterale</E
+M>letture s.</E
+M>leggende</E
+M>laudi s.</E
+M>cantate s.</E
+M>concerti s.</E
+M>Geistliche Konzerte</E
+M>canto s. nero</E
+M>potere s.</E
+M>potere temporale</E
+M>amarsi spiritualmente</E
+M>una vita spiritualmente ricca</E
+M>povera</E
+M>educare</E
+M>progredire spiritualmente</E
+M>morire spiritualmente</E
+M>essere presente spiritualmente</E
+M> anche se fisicamente lontano</E

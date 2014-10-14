@@ -1,0 +1,4 @@
+amica.txt
+"amica"
+"mano amica"
+"una mano amica"

@@ -1,0 +1,41 @@
+professionista.txt
+"atleta professionista"
+"cantante professionista"
+"consulente professionista"
+"killer professionista"
+"lavorare come libero professionista"
+"libero professionista"
+"musicista professionista"
+"non professionista"
+"non professionista"
+"professionista"
+"professionista"
+"professionista"
+"professionista del settore"
+"professionista esperto"
+"professionista in psicanalisi"
+"professionista laureato"
+"pugile professionista"
+M>un p. affermato</E
+M>serio</E
+M>stimato</E
+M>ha sposato una ricca p</E
+M>libero p</E
+M>dilettante</E
+M>un p. della pallacanestro</E
+M>del calcio</E
+M>del pugilato</E
+M>ciclista</E
+M>calciatore</E
+M>pugile professionista</E
+M>i p. della letteratura</E
+M>della politica</E
+M>i p. del crimine</E
+M>del contrabbando</E
+M>dello spaccio di droga</E
+M>Marisa ormai s&#8217;è fatta la mentalità della professionista. Va con chi la paga meglio</E
+M>quel calzolaio è un vero p</E
+M>il furto è stato certamente opera di ladri p</E
+M>da professionista</E
+M>il falegname ha fatto un lavoro da p</E
+M>un furto da professionista</E

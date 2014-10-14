@@ -1,0 +1,138 @@
+debole.txt
+"anello debole"
+"avere un debole"
+"avere un debole per"
+"avere un debole per"
+"avere un debole per qcs"
+"collegamento debole"
+"debole"
+"debole"
+"debole"
+"debole"
+"debole"
+"debole"
+"debole"
+"debolezza, passione"
+"debole di cuore"
+"debole di mente"
+"debole interazione"
+"debole volontà"
+"essere debole"
+"fesso, inetto, debole"
+"flaccido, fiacco, moscio, debole"
+"gentil sesso, sesso debole"
+"la carne è debole"
+"lasciare qualcuno in una condizione più debole"
+"lato debole"
+"lo spirito è forte, ma la carne è debole"
+"mercato debole"
+"molto debole"
+"persona debole"
+"persona debole"
+"persona di debole volontà"
+"punto debole"
+"sentirsi debole"
+"sesso debole"
+"suono debole"
+"un debole per"
+"valuta debole"
+*[[scarso]]
+*[[debolezza]], [[difetto]]
+*[[pensiero debole]]
+*''avere un debole per'' 
+M>deb</E
+M>lis</E
+M>il malato è ancora d</E
+M>mi sento molto d</E
+M>un cavallo d</E
+M>sesso d</E
+M>essere d</E
+M>di gambe</E
+M>di petto</E
+M>di stomaco</E
+M>di cuore</E
+M>di reni</E
+M>avere la vista</E
+M>l’udito d</E
+M>essere d</E
+M>di memoria</E
+M>avere la memoria d</E
+M>di mente</E
+M>tavolo d</E
+M>seggiola debole</E
+M>luce d</E
+M>corrente d</E
+M>un suono d</E
+M>voce d</E
+M>vino</E
+M>liquore d</E
+M>moneta d</E
+M>mercato d</E
+M>forte</E
+M>acido d</E
+M>base debole</E
+M>forza</E
+M>interazione debole</E
+M>consonanti d</E
+M>di grado d</E
+M>tenui</E
+M>di grado tenue</E
+M>medio</E
+M>forte</E
+M>tempo d</E
+M>in levare</E
+M>tesi</E
+M>riga d</E
+M>uomo d</E
+M>avere un carattere d</E
+M>mostrarsi d</E
+M>governo d</E
+M>è un d</E
+M>fa il prepotente con i d</E
+M>opprimere i deboli</E
+M>alunno d</E
+M>in latino</E
+M>in matematica</E
+M>in disegno</E
+M>argomentazioni</E
+M>ragioni assai d</E
+M>l’ipotesi si regge su basi assai d</E
+M>un articolo</E
+M>un componimento d</E
+M>un romanzo giovanile</E
+M>ancora d</E
+M>nell’impostazione e nella rappresentazione dei caratteri</E
+M>opporre d</E
+M>resistenza</E
+M>secondo il mio d</E
+M>parere</E
+M>Quand’è così</E
+M>riprese il frate</E
+M>il mio d</E
+M>parere sarebbe che non vi fossero né sfide</E
+M>né portatori</E
+M>né bastonate</E
+M>il d</E
+M>le faible</E
+M>la storia è il suo d</E
+M>il suo punto d</E
+M>conosco il suo d</E
+M>toccare</E
+M>colpire uno nel suo d</E
+M>nel lato d</E
+M>avere il d</E
+M>del gioco</E
+M>del bere</E
+M>le donne sono il suo d</E
+M>il nonno ha un d</E
+M>per il nipote più piccolo</E
+M>il d</E
+M>della lama</E
+M>muoversi</E
+M>lottare debolmente</E
+M>reagire</E
+M>protestare debolmente</E
+M>sostenere debolmente le proprie ragioni</E
+M>la lampada ardeva sempre più debolmente</E
+M>il suono giungeva debolmente all’orecchio</E
+M>attenuato dalla distanza</E

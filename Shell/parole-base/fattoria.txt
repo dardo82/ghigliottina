@@ -1,0 +1,18 @@
+fattoria.txt
+"cortile della fattoria"
+"fattoria"
+"fattoria per l'allevamento di bestiame"
+"fattoria per l'allevamento di polli"
+"fattoria per la produzione del latte"
+"fattoria per la produzione del latte"
+"prodotti di fattoria"
+"prodotto di fattoria"
+*[[fattore]], [[fattoressa]]
+M>F. collettiva</E
+M>azienda agricola collettiva</E
+M>kolchoz</E
+M>le f</E
+M>dei Veneziani in Levante</E
+M>factory</E
+M>nave</E
+M>fattoria</E

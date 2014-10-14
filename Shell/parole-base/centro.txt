@@ -1,0 +1,248 @@
+centro.txt
+"a sinistra del centro"
+"al centro"
+"antilope del centro africa"
+"centro"
+"baricentro, epicentro"
+"centro"
+"centro"
+"centro"
+"centro"
+"centro città"
+"centro"
+"centro"
+"centro"
+"centro"
+"centro abitato"
+"centro accoglienza bambini, ludoteca"
+"centro affari"
+"centro amministrativo"
+"centro anziani"
+"centro artistico"
+"centro attività"
+"centro benessere"
+"centro città"
+"centro cittadino"
+"centro civico"
+"centro commerciale"
+"centro commerciale"
+"centro commerciale"
+"centro commerciale"
+"centro commerciale"
+"centro commerciale"
+"centro culturale"
+"centro d'arte"
+"centro del bersaglio"
+"centro del turismo"
+"centro dell'attenzione"
+"centro dell'attenzione"
+"centro dell'attenzione"
+"centro dell'interesse"
+"centro della città"
+"centro destra"
+"centro di accoglienza"
+"centro di accoglienza per bambini, asilo, ludoteca"
+"centro di affari"
+"centro di attività commerciale"
+"centro di comando"
+"centro di consulenza legale"
+"centro di controllo"
+"centro di costi"
+"centro di costo"
+"centro di cultura"
+"centro di detenzione"
+"centro di educazione continua"
+"centro di gravità"
+"centro di gravità"
+"centro di informatica"
+"centro di interesse"
+"centro di recupero"
+"centro di redenzione"
+"centro di reinserimento sociale; casa di riabilitazione"
+"centro di ricerca"
+"centro di ricerca"
+"centro di ricerca"
+"centro direzionale"
+"centro estetico"
+"centro ferroviario"
+"centro informazioni"
+"centro informazioni, ufficio informazioni, punto informativo"
+"centro manifatturiero"
+"centro manifatturiero"
+"centro medico"
+"centro medico"
+"centro messaggi"
+"centro nervoso"
+"centro nervoso"
+"centro occidentale"
+"centro operativo"
+"centro ricreativo"
+"centro ricreativo"
+"centro servizi"
+"centro spedizioni"
+"centro sperimentale"
+"centro storico"
+"centro storico"
+"centro studi"
+"centro studi e ricerche"
+"centro turistico"
+"centro urbano"
+"centro urbano"
+"centro vitale"
+"Centro! (esclamazione)"
+"colpo al centro"
+"del centro destra"
+"di centro (politica)"
+"di centro destra"
+"fare centro, centrare il punto, essere azzeccato"
+"fare centro; cogliere nel segno; raggiungere lo scopo"
+"fuori centro"
+"fuori centro"
+"linea immaginaria sulla superficie della terra che traccia un'altra linea immaginaria tra il centro"
+"lontano dal centro"
+"lontano dal centro"
+#*''Devi colpire il '''centro''' del bersaglio''
+#*''nel 1883 la centrale di Santa Radegonda accese il centro di Milano con l'illuminazione elettrica''
+#*''Abito in '''centro'''''
+#*''È di centro''
+#*''Milano è un grande '''centro''' industriale, commerciale e finanziario''
+* (sostantivo) dal 
+* (voce verbale) 
+*[[centroafricano]], [[centroamericano]], [[centroasiatico]], [[centroattacco]], [[centroavanti]], [[centroboa]], [[centrocampo]], [[centroclassifica]], [[centrodestra]] [[centrodorsale]], [[centroeuropeo]], [[centroitaliano]], [[centromediano]], [[centromero]], [[centropagina]], [[centrosfera]], [[centrosinistra]], [[centrosoma]], [[centrosostegno]], [[centrotavola]], [[centroterzino]], [[centrovasca]] 
+*[[centro commerciale]], [[fare centro]]
+*italiano
+*spagnolo
+m>centrum</e
+m>di una circonferenza</e
+m>di una sfera</e
+m>di una figura piana</e
+m>di un solido</e
+m>della Terra</e
+m>il c</e
+m>di una regione</e
+m>il c</e
+m>della tavola</e
+m>da tavola</e
+m>cuore</e
+m>abisso</e
+m>periferia</e
+m>il c</e
+m>della città</e
+m>centro</e
+m>andare</e
+m>recarsi al c</e
+m>le vie</e
+m>i negozî del c</e
+m>l&rsquo;autobus che collega il c</e
+m>con la periferia</e
+m>andare in c</e
+m>passeggiare in c</e
+m>storico</e
+m>direzionale</e
+m>il c</e
+m>di un discorso</e
+m>il c</e
+m>poetico di un componimento</e
+m>il c</e
+m>dei proprî pensieri</e
+m>il c</e
+m>dei proprî interessi</e
+m>d&rsquo;interesse</e
+m>fare centro</e
+m>hai fatto c</e
+m>essere</e
+m>trovarsi nel suo c</e
+m>quando si tratta di far pettegolezzi</e
+m>lui è nel suo centro</e
+m>Roma è il c</e
+m>d&rsquo;Italia</e
+m>agricolo</e
+m>industriale</e
+m>culturale</e
+m>universitario</e
+m>un c</e
+m>turistico molto affollato</e
+m>c. fieristico</e
+m>c. commerciale</e
+m>c. sociale</e
+m>c. estivo</e
+m>campo scuola</e
+m>c. estetico</e
+m>c. termale</e
+m>c. benessere</e
+m>c. solare</e
+m>abbronzante</e
+m>la ferrovia tocca i c. più importanti della regione</e
+m>un c. assai popolato</e
+m>c. fortificato</e
+m>c. abitato</e
+m>c. di raccolta</e
+m>c. di smistamento</e
+m>c. profughi</e
+m>c. di mobilitazione</e
+m>c. di rieducazione</e
+m>c. territoriale permanente</e
+m>c. per l&rsquo;impiego</e
+m>c. di (prima) accoglienza</e
+m>i partiti di c.</e
+m> del c.</e
+m>uomo di c.</e
+m>tendenza di centro</e
+m>un c. culturale, un c. studî</e
+m>c. di eccellenza</e
+m>c. media</e
+m>C. di studî sul Rinascimento</e
+m>C. d&rsquo;informazioni bibliografiche</e
+m>C. di preparazione politica per i giovani</e
+m>C. italiano di studî amministrativi</e
+m>C. sperimentale di cinematografia</e
+m>C. alpinistico italiano</e
+m>c. antidiabetico, c. antitubercolare</e
+m>un c</e
+m>di potere</e
+m>centri d&rsquo;influenza</e
+m>decisionali</e
+m>Centro del mobile</e
+m>germinativo</e
+m>ovale</e
+m>respiratorio</e
+m>della motilità</e
+m>della sensibilità</e
+m>del linguaggio</e
+m>cristallino</e
+m>di cristallizzazione</e
+m>germe cristallino</e
+m>di simmetria</e
+m>d&rsquo;inversione</e
+m>di azione atmosferica</e
+m>barometrico</e
+m>positivo</e
+m>anticiclonico</e
+m>negativo</e
+m>ciclonico</e
+m>aerodinamico di un&rsquo;ala</e
+m>fuoco dell&rsquo;ala</e
+m>di gravità</e
+m>di massa</e
+m>delle masse</e
+m>baricentro</e
+m>di oscillazione</e
+m>di sospensione</e
+m>di spinta</e
+m>di carena</e
+m>velico</e
+m>centri di colore</e
+m>ottici</e
+m>nodi del sistema</e
+m>ottico</e
+m>di una distribuzione</e
+m>palla al c</e
+m>il c</e
+m>avanza decisamente</e
+m>tiro a rete</e
+m>parare un forte c</e
+m>mancare il c</e
+m>in porta</e
+m>cross</e
+m>traversone</e
+m>della scacchiera</e

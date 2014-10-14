@@ -1,0 +1,253 @@
+particolare.txt
+"caratteristica particolare"
+"caratteristico, distintivo, particolare, peculiare"
+"considerare con particolare affetto"
+"il particolare"
+"in particolare"
+"in questo caso particolare"
+"lana particolare"
+"niente in particolare"
+"particolare"
+"particolare"
+"particolare"
+"particolare"
+"porre particolare attenzione a"
+"prestare particolare attenzione"
+"questo particolare, quest'unico"
+"scelta particolare"
+"segno particolare"
+"segretaria particolare"
+"soluzione particolare"
+M>particularis</E
+M>partic</E
+M>pars partis</E
+M>generale</E
+M>universale</E
+M>gli interessi p</E
+M>non devono prevalere sulle esigenze della collettività</E
+M>ogni artista ha il suo modo p</E
+M>di vedere o interpretare la realtà</E
+M>i costumi</E
+M>le usanze p</E
+M>di una regione</E
+M>le qualità p</E
+M>di un genere di piante</E
+M> di un gruppo di sostanze chimiche</E
+M>segni p</E
+M>mi ha sempre trattato con p</E
+M>riguardi</E
+M>dimostra per lui p</E
+M>interesse</E
+M>amicizie p</E
+M>una relazione particolare</E
+M>il segretario</E
+M>la segretaria</E
+M>del ministro</E
+M>termine usato in biologia con significato p</E
+M>si trova in una situazione del tutto p</E
+M>si tratta di un caso veramente p</E
+M>non ho nulla di particolare da aggiungere</E
+M>non ci sono p</E
+M>motivi per cambiare il nostro programma</E
+M>non l&#8217;ho detto con nessuna intenzione particolare</E
+M>mi guardava in modo p</E
+M>ha idee tutte sue p</E
+M>ma sei veramente p</E
+M>sai!</E
+M>non va vestito neppure come vanno tutti</E
+M>per fare il particolare</E
+M>porta la giubba corta a saltamartino</E
+M>ascoltare</E
+M>leggere con p</E
+M>attenzione</E
+M>avere una p</E
+M>attitudine per la musica</E
+M>una p</E
+M>disposizione per la matematica</E
+M>possedere una p</E
+M>abilità</E
+M>capacità</E
+M>destrezza</E
+M>una mostra di p</E
+M>interesse artistico</E
+M>abitazioni particolari</E
+M>ognuno è obbligato restituire quello che lui avesse tolto ingiustamente a&#8217; particulari o al commune</E
+M>usanza utile</E
+M>per il pubblico e per i particolari</E
+M>procedere dal p</E
+M>all&#8217;universale</E
+M>per badare troppo al p</E
+M>spesso si perde di vista il generale</E
+M>descrivere</E
+M>esporre</E
+M>rappresentare in tutti i p</E
+M>con ricchezza di particolari</E
+M>mi ha riferito anche i più minuti p</E
+M>della vicenda</E
+M>ricordava in tutti i p</E
+M>il loro incontro</E
+M>discutere i p</E
+M>di un contratto</E
+M>nel raccontarmi l&#8217;episodio</E
+M>ha taciuto intenzionalmente alcuni p</E
+M>riaffiorano spezzoni di ricordi</E
+M> p. sepolti riemergono come decisivi</E
+M>tu dimentichi un p</E
+M>importante</E
+M>c&#8217;è però un p</E
+M>curioso</E
+M>è meglio non entrare in certi p</E
+M>scendere a p</E
+M>disgustosi</E
+M>ricostruire i p</E
+M>di un delitto</E
+M>esaminare i p</E
+M>di una tela</E
+M>di una statua</E
+M>di una facciata</E
+M>riproduzione fotografica di un p</E
+M>dell&#8217;affresco</E
+M>costruttivi</E
+M>i due progetti differiscono per alcuni p</E
+M>tecnici</E
+M>per alcuni p</E
+M>trascurabili</E
+M>el grado che ho avuto con più pontefici m&#8217;ha necessitato a amare per el particulare mio la grandezza loro</E
+M>in particolare</E
+M>ciò che dico vale per tutti</E
+M>ma in p</E
+M>per te</E
+M>in generale</E
+M>esaminare</E
+M> analizzare in p</E
+M>i varî aspetti di un problema</E
+M>un libro</E
+M>un film</E
+M>uno spettacolo particolarmente interessante</E
+M>un alimento particolarmente adatto ai diabetici</E
+"caratteristica particolare"
+"caratteristico, distintivo, particolare, peculiare"
+"considerare con particolare affetto"
+"il particolare"
+"in particolare"
+"in questo caso particolare"
+"lana particolare"
+"niente in particolare"
+"particolare"
+"particolare"
+"particolare"
+"particolare"
+"porre particolare attenzione a"
+"prestare particolare attenzione"
+"questo particolare, quest'unico"
+"scelta particolare"
+"segno particolare"
+"segretaria particolare"
+"soluzione particolare"
+M>particularis</E
+M>partic</E
+M>pars partis</E
+M>generale</E
+M>universale</E
+M>gli interessi p</E
+M>non devono prevalere sulle esigenze della collettività</E
+M>ogni artista ha il suo modo p</E
+M>di vedere o interpretare la realtà</E
+M>i costumi</E
+M>le usanze p</E
+M>di una regione</E
+M>le qualità p</E
+M>di un genere di piante</E
+M> di un gruppo di sostanze chimiche</E
+M>segni p</E
+M>mi ha sempre trattato con p</E
+M>riguardi</E
+M>dimostra per lui p</E
+M>interesse</E
+M>amicizie p</E
+M>una relazione particolare</E
+M>il segretario</E
+M>la segretaria</E
+M>del ministro</E
+M>termine usato in biologia con significato p</E
+M>si trova in una situazione del tutto p</E
+M>si tratta di un caso veramente p</E
+M>non ho nulla di particolare da aggiungere</E
+M>non ci sono p</E
+M>motivi per cambiare il nostro programma</E
+M>non l&#8217;ho detto con nessuna intenzione particolare</E
+M>mi guardava in modo p</E
+M>ha idee tutte sue p</E
+M>ma sei veramente p</E
+M>sai!</E
+M>non va vestito neppure come vanno tutti</E
+M>per fare il particolare</E
+M>porta la giubba corta a saltamartino</E
+M>ascoltare</E
+M>leggere con p</E
+M>attenzione</E
+M>avere una p</E
+M>attitudine per la musica</E
+M>una p</E
+M>disposizione per la matematica</E
+M>possedere una p</E
+M>abilità</E
+M>capacità</E
+M>destrezza</E
+M>una mostra di p</E
+M>interesse artistico</E
+M>abitazioni particolari</E
+M>ognuno è obbligato restituire quello che lui avesse tolto ingiustamente a&#8217; particulari o al commune</E
+M>usanza utile</E
+M>per il pubblico e per i particolari</E
+M>procedere dal p</E
+M>all&#8217;universale</E
+M>per badare troppo al p</E
+M>spesso si perde di vista il generale</E
+M>descrivere</E
+M>esporre</E
+M>rappresentare in tutti i p</E
+M>con ricchezza di particolari</E
+M>mi ha riferito anche i più minuti p</E
+M>della vicenda</E
+M>ricordava in tutti i p</E
+M>il loro incontro</E
+M>discutere i p</E
+M>di un contratto</E
+M>nel raccontarmi l&#8217;episodio</E
+M>ha taciuto intenzionalmente alcuni p</E
+M>riaffiorano spezzoni di ricordi</E
+M> p. sepolti riemergono come decisivi</E
+M>tu dimentichi un p</E
+M>importante</E
+M>c&#8217;è però un p</E
+M>curioso</E
+M>è meglio non entrare in certi p</E
+M>scendere a p</E
+M>disgustosi</E
+M>ricostruire i p</E
+M>di un delitto</E
+M>esaminare i p</E
+M>di una tela</E
+M>di una statua</E
+M>di una facciata</E
+M>riproduzione fotografica di un p</E
+M>dell&#8217;affresco</E
+M>costruttivi</E
+M>i due progetti differiscono per alcuni p</E
+M>tecnici</E
+M>per alcuni p</E
+M>trascurabili</E
+M>el grado che ho avuto con più pontefici m&#8217;ha necessitato a amare per el particulare mio la grandezza loro</E
+M>in particolare</E
+M>ciò che dico vale per tutti</E
+M>ma in p</E
+M>per te</E
+M>in generale</E
+M>esaminare</E
+M> analizzare in p</E
+M>i varî aspetti di un problema</E
+M>un libro</E
+M>un film</E
+M>uno spettacolo particolarmente interessante</E
+M>un alimento particolarmente adatto ai diabetici</E

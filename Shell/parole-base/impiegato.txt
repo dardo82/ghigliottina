@@ -1,0 +1,48 @@
+impiegato.txt
+"bullo impiegato come guardia del corpo"
+"da impiegato"
+"essere impiegato"
+"essere impiegato in"
+"ex impiegato"
+"impiegato"
+"impiegato"
+"impiegato addetto alla fatturazione"
+"impiegato che ruba"
+"impiegato commerciale"
+"impiegato contabilità fornitori"
+"impiegato corrotto"
+"impiegato del comune"
+"impiegato del tribunale"
+"impiegato municipale"
+"impiegato per sondare i prezzi dei negozi rivali"
+"impiegato postale"
+"impiegato statale"
+"non impiegato"
+"non occupato, non impiegato"
+"un impiegato modello"
+*[[usato]], [[utilizzato]], [[adoperato]], [[sfruttato]], [[adottato]]
+*[[assunto]], [[occupato]]
+*[[speso]], [[investito]]
+*[[trascorso]], [[occupato]]
+*[[dipendente]], [[stipendiato]], [[burocrate]]
+*[[licenziato]]
+*[[risparmiato]]
+*[[operaio]]
+M>impiegare</E
+M>privato</E
+M>pubblico</E
+M>gli i</E
+M>delle Poste</E
+M>del ministero dell’Interno</E
+M>del Comune</E
+M>del Catasto</E
+M>un i</E
+M>di banca</E
+M>un i</E
+M>della Fiat</E
+M>di concetto</E
+M>d’ordine</E
+M>amministrativo</E
+M>tecnico</E
+M>di ruolo</E
+M>non di ruolo</E

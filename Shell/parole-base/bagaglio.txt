@@ -1,0 +1,33 @@
+bagaglio.txt
+"bagaglio"
+"bagaglio"
+"bagaglio a mano"
+"bagaglio a mano"
+"bagaglio culturale"
+"bagaglio da stiva"
+"bagaglio linguistico"
+"etichetta del bagaglio"
+#*''Il bagaglio sull'aereo deve pesare max kg 10'' 
+*[[bagagliere]], [[fermabagagli]], [[bagagliume]], [[bagagliera]], [[portabagagli]]
+M>bagage</E
+M>portare molto</E
+M>poco b</E
+M>spedire il b</E
+M>i bagagli</E
+M>lasciare le valigie al deposito bagagli della stazione</E
+M>bagaglio presso</E
+M>non registrato</E
+M>appresso</E
+M>registrato</E
+M>consegnato</E
+M>avere un b</E
+M>di cognizioni d’ogni genere</E
+M>si presentò agli esami con un ricco b</E
+M>di dottrina</E
+M>ideologico</E
+M>salmerie</E
+M>armi e bagagli</E
+M>furono fatti prigionieri con armi e bagagli</E
+M>andarsene</E
+M>sloggiare con armi e bagagli</E
+M>abbiamo perso armi e bagagli</E

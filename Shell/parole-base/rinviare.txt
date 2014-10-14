@@ -1,0 +1,48 @@
+rinviare.txt
+"rinviare"
+"rinviare"
+"rinviare"
+M>inviare</E
+M>io rinvìo</E
+M>mi ha rinviato con un vaglia la somma che gli avevo prestato</E
+M>rinviò il fattorino senza consegnargli nessuna risposta</E
+M>r. il pacco al mittente</E
+M>la palla</E
+M>la luce</E
+M>uno da un ufficio all&#8217;altro</E
+M>dal municipio mi hanno rinviato alla prefettura</E
+M>ad altra scheda</E
+M>scheda di rinvio</E
+M>per una più ampia trattazione</E
+M>rinvio al mio volume intitolato</E
+M>il lettore</E
+M>all&#8217;introduzione</E
+M>alla premessa</E
+M>a una nota precedente</E
+M>da una voce all&#8217;altra</E
+M>da un lemma all&#8217;altro</E
+M>a un&#8217;altra legge</E
+M>a un altro articolo</E
+M>comma della legge</E
+M>un processo</E
+M>una causa ad altro giudice</E
+M>all&#8217;ordinamento giuridico di un altro stato</E
+M>a giudizio un imputato</E
+M>il questore rinviò l&#8217;indagine all&#8217;indomani</E
+M>la seduta fu rinviata di una settimana</E
+M>al mese successivo</E
+M>a tempo indeterminato</E
+M>la seconda puntata del teleromanzo viene rinviata a data da destinarsi</E
+M>una gara</E
+M>una partita</E
+M> un incontro</E
+M>il tribunale decise di r</E
+M>il processo</E
+M>la causa fu rinviata a nuovo ruolo</E
+M>uno studente</E
+M> un candidato</E
+M>alla sessione autunnale</E
+M>ad altra sessione</E
+M>rimandare</E
+M>un cavo</E
+M>rinviarsi</E

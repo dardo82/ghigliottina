@@ -1,0 +1,28 @@
+clero.txt
+"clero"
+"il clero"
+"il Clero, l'Establishment"
+"non appartenente al clero"
+"non del clero"
+"uomo del clero"
+*[[ecclesiastici]], [[religiosi]], [[sacerdoti]], ordine sacerdotale, [[chiesa]], [[chiericato]]
+*[[clericato]], [[chierici]]
+*[[chiesa]] (sinonimo di uso comune, non più improprio)
+*[[laicato]], [[laici]]
+* [[clericale]],  [[clerico]]
+*[[cloro al clero]]
+M>clerus</E
+M>il c</E
+M>cattolico</E
+M>il c</E
+M>italiano</E
+M>il c</E
+M>toscano</E
+M>il c</E
+M>della collegiata</E
+M>il c</E
+M>indigeno</E
+M>regolare</E
+M>secolare</E
+M>alto c</E
+M>basso c</E

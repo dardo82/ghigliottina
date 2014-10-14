@@ -1,0 +1,34 @@
+spolverare.txt
+"cospargere, spolverare"
+"piumino (per spolverare)"
+"spolverare"
+"spolverare"
+"spolverare"
+"spolverare di zucchero, cospargere di zucchero"
+"straccio per spolverare"
+*[[pulire]], [[spazzolare]], [[lucidare]], [[detergere]], [[strigliare]]
+*[[spruzzare]], [[cospargere]]
+*[[impolverare]], [[sporcare]]
+M>polvere</E
+M>io spólvero</E
+M>s. i mobili</E
+M>un tavolo</E
+M>s. i libri</E
+M>i soprammobili</E
+M>s. la stanza</E
+M>vado in salotto a spolverare</E
+M>s. le spalle</E
+M>il groppone</E
+M>la schiena a qualcuno</E
+M>macchina a s.</E
+M>a spazzole rotanti</E
+M>ad aspirazione</E
+M>mentre era in vacanza i ladri gli hanno spolverato l&#8217;appartamento</E
+M>in pochi mesi ha spolverato tutta l&#8217;eredità</E
+M>ha spolverato da solo due piatti di pastasciutta</E
+M>si sono spolverati il pranzo in un baleno</E
+M>si è spolverato cinquantamila euro in pochi giorni</E
+M>s. una torta di zucchero a velo</E
+M>S. un disegno</E
+M>spolvero</E
+M>la mia nuova macchina sull&#8217;autostrada spolvera tutte le altre</E

@@ -1,0 +1,9 @@
+nordamericano.txt
+M>regioni n</E
+M>le città n</E
+M>confederazione n</E
+M>indiani</E
+M>neri n</E
+M>un n</E
+M>una n</E
+M>i Nordamericani</E

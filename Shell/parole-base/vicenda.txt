@@ -1,0 +1,63 @@
+vicenda.txt
+"a vicenda"
+"a vicenda"
+"a vicenda"
+"aiutarsi a vicenda"
+"ammazzarsi a vicenda"
+"non pestarsi i piedi a vicenda"
+"restare uniti, farsi forza a vicenda, sostenersi a vicenda"
+"scannarsi a vicenda"
+"stuzzicarsi a vicenda"
+"vicenda"
+"vicenda"
+"vicenda, replace: a vicenda"
+#* '''''la vicenda''' della stagioni'' 
+#* ''In questi giorni il mondo sta seguendo con passione '''le vicende''' del referendum ucraino''
+*''(alternarsi di qualcosa)''
+*''(insieme di eventi)''
+*[[avvicendare]]
+*[[vicendevole]]
+*[[vicendevolmente]]
+*[[a vicenda]]
+M>*vicenda</E
+M>vicis</E
+M>la v. delle stagioni</E
+M>la vita è una v. di gioie e dolori.</E
+M>v. delle coltivazioni</E
+M>risaia in vicenda</E
+M>risaia permanente</E
+M>uomini ... come dei</E
+M> celesti</E
+M> Che non coi piedi</E
+M> come i lenti bovi</E
+M> Vanno</E
+M> e con la v. dei ginocchi</E
+M> Ma con la spinta delle aeree braccia</E
+M> Come gli uccelli</E
+M>le v. di Ulisse</E
+M>narrare le proprie v.</E
+M>le alterne v. della guerra</E
+M>v. storiche</E
+M>liete</E
+M>tristi vicende.</E
+M>vece</E
+M>Sì spesso vien chi vicenda consegue</E
+M>dopo questo</E
+M> toccando la sua v. a Selvaggio di dovere alzare Uranio</E
+M>il prese con ambedue le braccia per mezzo</E
+M>rendere la vicenda.</E
+M>io vo infino a città per alcuna mia v.</E
+M>a vicenda</E
+M>aiutarsi</E
+M>insultarsi a v.</E
+M>s’ingannano a v.</E
+M>sono cose che si completano</E
+M>si annullano</E
+M>si elidono</E
+M>a vicenda</E
+M>vegliavano a v.</E
+M>Vanno</E
+M>a v. ciascuna al giudizio</E
+M>a vicenda</E
+M>prima attrice giovane e prima attrice a vicenda</E
+M>seconda donna e prima attrice a vicenda</E

@@ -1,0 +1,31 @@
+spreco.txt
+"spreco"
+"spreco di cibo"
+"spreco di risorse"
+"spreco di risorse"
+"spreco, sciupo"
+*[[scialo]], [[dissipazione]], [[dilapidazione]], [[dispendio]]
+*[[sprecone]]
+*[[risparmio]], [[economia]]
+M>-chi</E
+M>s. di denaro</E
+M>di luce</E
+M>di gas</E
+M>di risorse</E
+M>s. di tempo</E
+M>fare spreco di energie</E
+M>di forze</E
+M>quando cucina</E
+M> fa grande s. di condimenti</E
+M>in questa casa si fa un grande s.</E
+M>che la vita fosse anche spreco</E
+M> questo mia madre non l&#8217;ammetteva</E
+M>non posso vedere certi s.</E
+M>gli s. vanno eliminati</E
+M>a spreco</E
+M>quest&#8217;anno di grano ce n&#8217;è stato a s.</E
+M>in casa</E
+M> di libri ne abbiamo a spreco</E
+M>frenare lo s.</E
+M>gli s. dell&#8217;amministrazione statale</E
+M>nella gestione di un&#8217;impresa pubblica</E

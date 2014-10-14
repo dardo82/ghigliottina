@@ -1,0 +1,28 @@
+coniugato.txt
+"complesso coniugato"
+"coniugato"
+*[[sposato]], [[ammogliato]]
+*[[celibe]], [[libero]], [[scapolo]]
+M>coniugare</E
+M>celibe o c</E
+M>con prole</E
+M>i c</E
+M>le coniugate</E
+M>forme c</E
+M>armonico</E
+M>ABHK</E
+M>Numeri complessi c</E
+M>a + ib</E
+M>a – ib</E
+M>angoli c</E
+M>interni</E
+M>angoli c</E
+M>esterni</E
+M>coppia di profili c.</E
+M>doppî legami c.</E
+M>Proteine c</E
+M>fasi c</E
+M>impedenze c</E
+M>particelle c</E
+M>punti c</E
+M>raggi c</E

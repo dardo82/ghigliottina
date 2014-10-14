@@ -1,0 +1,8 @@
+sgrassare.txt
+"sgrassare"
+M>grasso</E
+M>s. la lana</E
+M>il brodo</E
+M>un sugo di carne</E
+M>una superficie</E
+M>brodo sgrassato</E

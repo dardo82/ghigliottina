@@ -1,0 +1,21 @@
+sollievo.txt
+"dare sollievo"
+"dare sollievo"
+"provare sollievo"
+"sensazione di sollievo"
+"sollievo"
+"sospiro di sollievo"
+"tirare un sospiro di sollievo"
+*[[conforto]]
+M>dare</E
+M>portare</E
+M>ricevere s.</E
+M>cercare un po&#8217; di s. dal caldo</E
+M>dall&#8217;arsura</E
+M>a sentire che non gli era successo nulla di grave ho provato un gran s.</E
+M>il suo affetto</E
+M> nella disgrazia</E
+M> mi è stato di gran s.</E
+M>che sollievo</E
+M> aver finito gli esami!</E
+M>tirare un respiro di sollievo</E

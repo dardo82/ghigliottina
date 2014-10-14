@@ -1,0 +1,132 @@
+affare.txt
+"affare"
+"affare"
+"affare"
+"affare"
+"affare complicato"
+"affare di cuore"
+"affare fatto"
+"affare poco chiaro; poco pulito"
+"avere un affare"
+"buon affare"
+"buon affare"
+"cercando l'affare"
+"concludere un affare difficile"
+"concludere un buon affare"
+"essere un affare"
+"essere un affare"
+"fare un affare"
+"fare un affare"
+"grosso affare"
+"membri in un affare"
+"nuovo affare"
+"persona che conclude un affare"
+"soci in un affare"
+"un affare"
+"un affare"
+"una parte nell'affare"
+*[[faccenda]], [[incombenza]], [[lavoro]], [[compito]], [[impresa]], [[cosa]]
+*(economico) [[occasione]], [[business]], [[interesse]], [[contratto]], [[negozio]], [[transazione]], [[compravendita]]
+* (pubblico) [[vicenda]], [[affaire]], [[scandalo]], [[processo]]
+*[[bordo]], condizione sociale.
+*(da svolgere) [[impegno]]   
+*[[caso]], [[vicenda]], [[questione]]
+*[[affario]], [[affarista]]
+*''uomo d''''affari'''''
+*''comitato d''''affari'''''
+*'''''affari''' di famiglia''
+*''farsi gli '''affari''' propri''
+M>a fare</E
+M>affaire</E
+M>afar</E
+M>un a</E
+M>urgente</E
+M>importante</E
+M>difficile</E
+M>semplice</E
+M>pubblici</E
+M>privati</E
+M>di stato</E
+M>è inutile farne un a</E
+M>di stato</E
+M>interni</E
+M>esteri</E
+M>gli esteri</E
+M>gli interni</E
+M>ministro degli A</E
+M>esteri</E
+M> degli Esteri</E
+M>ecclesiastici</E
+M>gli a</E
+M>del cielo si reggono con leggi affatto dissimili da quelle che reggono gli a</E
+M>umani</E
+M>in proprio</E
+M>in commissione</E
+M>in partecipazione</E
+M>movimento degli a</E
+M>attività economica</E
+M>cicli degli a</E
+M>tasse sugli a</E
+M>imposte indirette sugli a</E
+M>gestione di affari</E
+M>trattare</E
+M>concludere un a</E
+M>uomo d’affari</E
+M>dedicarsi agli a</E
+M>ritirarsi dagli a</E
+M>una bottega che fa affari</E
+M>grandi a</E
+M>buoni a</E
+M>molti a</E
+M>che non fa affari</E
+M>che fa pochi a</E
+M>un cattivo a</E
+M>un buon a</E
+M>è un a</E
+M>hai fatto un affare</E
+M>Gli a</E
+M>sono a</E
+M>les affaires sont les affaires</E
+M>ruolo generale degli a</E
+M>contenziosi civili</E
+M>degli a</E
+M>civili non contenziosi</E
+M>affaire</E
+M>l’a</E
+M>Dreyfus</E
+M>l’a</E
+M>Bruneri</E
+M>Canella</E
+M> l’a. Moro</E
+M>riuscire a convincerlo è un a</E
+M>da poco</E
+M>da nulla</E
+M>sarà a</E
+M>di poco</E
+M>se non torna nemmeno oggi è un a</E
+M>serio</E
+M>non è a</E
+M>mio</E
+M>questo è affar tuo</E
+M>farsi gli a</E
+M>proprî</E
+M>affare serio!</E
+M>è un a</E
+M>di nulla!</E
+M>un brutto a</E
+M>bell’a</E
+M>dammi quell’a</E
+M>posa quell’affare</E
+M>persona di alto a</E
+M>di grande a</E
+M>donna d’alto a</E
+M>con uomo di picciola condizione o per lo contrario uomo gentile con donna ignobile non ben si posson sotto il giogo del matrimonio accompagnare</E
+M>poco distante da quel paesetto</E
+M>villeggiava una coppia d’alto a.: don Ferrante e donna Prassede</E
+M>casa di mal a</E
+M>gente di mal a</E
+M>donna di mal a</E
+M>è un affaraccio</E
+M>è stato</E
+M>sarà</E
+M>un affaraccio convincerlo</E

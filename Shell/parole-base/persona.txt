@@ -1,0 +1,283 @@
+persona.txt
+"bella persona"
+"brava persona"
+"brava persona"
+"catturare (persona)"
+"comparire di persona"
+"comparire di persona"
+"personal appearance"
+"conoscere di persona"
+"conoscere qualcuno di persona"
+"curarsi della propria persona"
+"da brava persona, da buon vicino"
+"da buona persona"
+"da persona a persona"
+"di persona"
+"di persona"
+"fare riferimento a persona"
+"gruppo musicale formato da una sola persona"
+"imposta fissa sulla persona, spesso requisito di espressione di voto"
+"in persona"
+"in prima persona"
+"interiez. rivolta a chi ha appena criticato un'altra persona"
+"la persona più anziana"
+"la persona più imponente"
+"matusa, persona antiquata"
+"mettere una persona contro l'altra"
+"nave scuola (persona)"
+"nella persona di"
+"non una sola persona"
+"parlarne di persona"
+"persona"
+"persona"
+"persona"
+"persona"
+"persona a cui è stato dato un certo tipo di potere"
+"persona abile"
+"persona accomodante"
+"persona accovacciata"
+"persona all'antica"
+"persona alla destra"
+"persona allerta; in guardia"
+"persona alta"
+"persona altezzosa"
+"persona altolocata"
+"persona ambiziosa"
+"persona andata in California nel 1849 in cerca di fortuna"
+"persona ansiosa"
+"persona antisociale"
+"person with an antisocial personality"
+"persona anziana"
+"persona appiccicosa"
+"persona attraente"
+"persona autorevole"
+"persona autorevole"
+"personage"
+"persona autorevole"
+"persona autorizzata"
+"persona benevola"
+"persona brillante"
+"persona calma e riflessiva"
+"persona cara"
+"persona cattiva"
+"persona che colpisce"
+"persona che conclude un affare"
+"persona che conosce il futuro"
+"persona che evade dalla realtà"
+"persona che fa da paracolpi"
+"persona che fa miracoli"
+"persona che inquina"
+"persona che lo esegue"
+"persona che non butta niente"
+"persona che pesca a strascico"
+"persona che porta il lutto"
+"persona che pratica il windsurf"
+"persona che prende farmaci\/narcotici"
+"persona che raccoglie oggetti inutili"
+"persona che riceve la pensione"
+"persona che rischia"
+"persona che russa"
+"persona che si prepara a sopravvivere ad una catastrofe"
+"persona che soddisfa"
+"persona che soffre"
+"persona che soffre d'insonnia"
+"persona che soffre di malattia mentale"
+"persona che soffre di psicosi"
+"persona che tranquillizza"
+"persona che vive sotto i ponti"
+"persona che vizia troppo"
+"persona civilmente morta"
+"persona comune"
+"persona con assicurazione"
+"persona con comportamento antisociale"
+"persona con cui il pugile si allena nel ring"
+"persona con disturbi mentali"
+"persona con disturbi mentali"
+"persona con integrità morale"
+"persona con la quale si è soliti litigare o scherzare"
+"persona cordiale"
+"persona corretta"
+"persona d'affari"
+"persona dai capelli rossi"
+"persona dalla pelle nera"
+"persona dalle idee conservatrici"
+"persona dannosa"
+"persona debole"
+*[[individuo]], essere umano, [[singolo]], [[prossimo]], [[sconosciuto]], [[tizio]], [[tale]], [[uno]], [[qualcuno]]
+*[[corporatura]], [[corpo]], [[figura]], [[personale]], [[aspetto]], [[fisico]], [[statura]], [[forma]], [[linea]], [[fattezze]], [[apparenza]], [[complessione]]
+* [[impersonale]], [[impersonare]], [[personalità]], [[personificazione]]
+* [[uomo]], [[donna]], [[legge]] ad [[personam]]
+*''una certa qualità / caratteristica fatta 
+#* ''quella ragazza/quel ragazzo è la cattiveria/bontà fatta  
+*italiano
+*spagnolo
+M>pers</E
+M>qui c’è posto per una sola p</E
+M>l’ascensore può portare solo sei p</E
+M>c’è una p</E
+M>che ti cerca</E
+M>che chiede di te</E
+M>accertarsi dell’identità di una p</E
+M>una famiglia composta di cinque p</E
+M>la tavola è apparecchiata per dodici p.</E
+M>una p</E
+M>simpatica</E
+M>riservata</E
+M>fine</E
+M>educata</E
+M>gioviale</E
+M>alla mano</E
+M>una p</E
+M>influente</E
+M>importante</E
+M>autorevole</E
+M> è una p</E
+M>perbene</E
+M>ammodo</E
+M>di stile</E
+M>una brava p</E
+M>una gran brava p</E
+M>è veramente una degna p</E
+M> una degnissima p</E
+M>l’ho saputo da</E
+M>una</E
+M>bene informata</E
+M>i nostri vicini sono p</E
+M>molto civili</E
+M>una p</E
+M>infida</E
+M>maleducata</E
+M>ignorante</E
+M>poco corretta</E
+M>ma che razza di persone!</E
+M>una certa p</E
+M>quella certa p</E
+M>mi ha telefonato quella certa p</E
+M>una terza p</E
+M>me l’ha detto una terza p</E
+M>è stata una terza p</E
+M>a raccontarmi tutto</E
+M>le p</E
+M>di casa</E
+M>di famiglia</E
+M>le p</E
+M>di servizio</E
+M>di fatica</E
+M>di fiducia</E
+M>sì come io poi da p</E
+M>degna di fede sentii</E
+M>gente</E
+M>al raduno sono intervenute molte p</E
+M>molte p</E
+M>ignorano le norme della nostra Costituzione</E
+M>quelle non sono p</E
+M>per te</E
+M>non voglio avere niente a che fare con simili persone</E
+M>la mia</E
+M>la tua</E
+M>la vostra p</E
+M>concepiamo contro la nostra p</E
+M>un odio veramente micidiale</E
+M>guatiamo per l’orto se p</E
+M>ci è</E
+M>personne</E
+M>e qui d’altra parte</E
+M>noi non abbandoniam persona</E
+M>nessuno</E
+M>non c’è p. che possa crederlo</E
+M>non c’è p</E
+M>al mondo che mi possa aiutare</E
+M>non devi dirlo a p</E
+M>viva</E
+M>ad anima viva</E
+M>a persona</E
+M>abbiamo speso cinquanta euro a p</E
+M>hanno regalato un libro a p</E
+M>in persona</E
+M>venne lui in p</E
+M>è intervenuto l’ambasciatore in p</E
+M>sembra l’avarizia in p</E
+M>quel ragazzo è la maleducazione in p</E
+M>in p</E
+M>in p</E
+M>di sé nel suo letto la mise</E
+M>parlava in p</E
+M>del padre</E
+M>di persona</E
+M>verrò di p</E
+M>lo conosco di p</E
+M>per fama</E
+M>per sentito dire</E
+M>pagare di p</E
+M>siamo stati gli unici ad aver pagato di p</E
+M>ha pagato di p</E
+M>per la sua leggerezza</E
+M>per interposta p</E
+M>in una commedia o tragedia non è più in prezzo chi porta la p</E
+M>del padrone o del re che chi porta quella di uno servo</E
+M>le p</E
+M>della tragedia</E
+M>di un dramma</E
+M>dramatis personae</E
+M>s’egli è atto barbaro e inumano il far oltraggio agli ambasciatori</E
+M>ciò aviene perch’essi in occasione alcuna</E
+M>mentre sostengono quella p</E
+M>non debbono contr’altrui prender l’armi</E
+M>Amor</E
+M>Prese costui de la bella persona Che’ mi fu tolta</E
+M>quanti luoghi sua bella persona Coprì mai d’ombra</E
+M>o disegnò col piede</E
+M>sentire dolore</E
+M>freddo</E
+M>nella p</E
+M>in tutta la p</E
+M>camminare</E
+M>reggersi diritto sulla p</E
+M>Di ciò ti piaccia consolare alquanto L’anima mia</E
+M>che</E
+M>con la sua persona Venendo qui</E
+M>è affannata tanto</E
+M>essere ben fatto</E
+M>tozzo</E
+M>snello di p</E
+M>nella</E
+M>della</E
+M>essere piccolo</E
+M>grande di p</E
+M>quel vestito ha un taglio non adatto alla tua persona</E
+M>mettere persona</E
+M>non solamente l’avere ci ruberanno</E
+M>ma forse ci torranno oltre a ciò le p</E
+M>pena della p</E
+M>fisica</E
+M>giuridica</E
+M>diritti della p</E
+M>delitti contro la p</E
+M>sequestro di persona</E
+M>società di persone</E
+M>protette</E
+M>la dignità</E
+M>il valore</E
+M>la libertà</E
+M>la creatività della p</E
+M>umana</E
+M>persona</E
+M>hypòstasis</E
+M>persona</E
+M>prima p</E
+M>seconda p</E
+M>terza p</E
+M>la terza p</E
+M>plurale del congiuntivo presente del verbo «fare» è «facciano»</E
+M>i pronomi personali di seconda p. plurale sono «voi» e «vi»</E
+M>parlare in prima p</E
+M> esporsi in prima p</E
+M>usare la terza p</E
+M>scrivere in terza p</E
+M>Nomi di persona</E
+M>nomi proprî di p</E
+M>nomi comuni di p</E
+M>persona</E
+M>è una personcina elegante</E
+M>è una personcina ammodo</E
+M>perbene</E

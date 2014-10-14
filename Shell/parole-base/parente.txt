@@ -1,0 +1,57 @@
+parente.txt
+"parente"
+"parente"
+"parente acquisito"
+"parente prossimo"
+"parente stretto"
+"parente stretto"
+M>parens</E
+M>ntis</E
+M>par</E
+M>un mio p</E
+M>un p</E
+M>di mia moglie</E
+M>una p</E
+M>di mio cugino</E
+M>io e lui siamo p</E
+M>Mario è un mio p</E
+M>mi è p</E
+M>primo</E
+M>secondo</E
+M>terzo grado</E
+M>stretti</E
+M>vicini</E
+M>prossimi</E
+M>lontani</E
+M>siamo p</E
+M>alla lontana</E
+M>siamo mezzi p</E
+M>acquisito</E
+M>non ha parenti</E
+M>è senza parenti</E
+M>i p</E
+M>poveri</E
+M>un p</E
+M>ricco</E
+M>tra parenti bisogna aiutarsi</E
+M>non conosce parenti</E
+M>non hai nessun p</E
+M>più prossimo da prendere in giro?</E
+M>chi vuol vivere e star sano</E
+M>dai p</E
+M>stia lontano</E
+M>parenti serpenti</E
+M>Non è questa la patria in ch&#8217;io mi fido</E
+M>Madre benigna e pia</E
+M>Che copre l&#8217;un e l&#8217;altro mio p</E
+M>E tu i cari p</E
+M>e l&#8217;idïoma Desti a quel dolce di Calliope labbro</E
+M>Tu dici che di Silvïo il p</E
+M>Corruttibile ancora</E
+M>ad immortale Secolo andò</E
+M>il primo p</E
+M>i primi p</E
+M>l&#8217;appetito è p</E
+M>della fame</E
+M>Il sonno è veramente qual uom dice Parente de la morte</E
+M>questo e niente è p</E

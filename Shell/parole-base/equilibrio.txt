@@ -1,0 +1,101 @@
+equilibrio.txt
+"che ha perso l'equilibrio"
+"equilibrio"
+"equilibrio"
+"equilibrio"
+"equilibrio"
+"equilibrio"
+"equilibrio dei colori"
+"equilibrio dell'azoto"
+"equilibrio di potere"
+"equilibrio gustativo"
+"equilibrio mentale"
+"equilibrio naturale"
+"equilibrio stabile"
+"equilibrio termico"
+"equilibrio termodinamico"
+"essere in precario equilibrio"
+"in equilibrio"
+"in equilibrio"
+"in equilibrio"
+"in equilibrio"
+"l'Equilibrio"
+"non in equilibrio"
+"perdere il tuo equilibrio"
+"perdere l'equilibrio"
+"rompere una condizione di equilibrio o routine"
+"sistema di controllo ed equilibrio di potere in una organizzazione"
+"trave d'equilibrio"
+#*''il peso di una persona rispecchia l'equilibrio tra l'immissione e il dispendio di energia''
+*(di corpo) [[stabilità]], [[statica]], [[bilanciamento]], [[contrappeso]]
+* [[stabilità]], [[equanimità]]
+*[[disequlibrio]], [[instabilità]], [[squilibrio]] 
+*[[equilibratore]],[[equilibrismo]], [[equilibrista]]
+*[[statica]], [[staticità]]
+*italiano
+*spagnolo
+M>aequilibrium</E
+M>aequus</E
+M>libra</E
+M>statico</E
+M>le forze si fanno equilibrio</E
+M>dinamico</E
+M>stabile</E
+M>instabile</E
+M>indifferente</E
+M>elastico</E
+M>far stare in e</E
+M>i piatti della bilancia</E
+M>tenere in e</E
+M>un bastone sul palmo della mano</E
+M>mantenere</E
+M>perdere l’e</E
+M>mentre camminava sull’argine</E
+M>ha perso l’e</E
+M>ed è caduto</E
+M>stare</E
+M>reggersi in e</E
+M>sulla bicicletta</E
+M>su una scala</E
+M>sulla fune</E
+M>su un piede solo</E
+M>Organi dell’e</E
+M>avere</E
+M>non avere il senso dell’e</E
+M>Asse di e</E
+M>Giochi di e</E
+M>velico</E
+M>termico</E
+M>chimico</E
+M>radioattivo</E
+M>termodinamico</E
+M>atmosferico</E
+M>stabile</E
+M>instabile</E
+M>indifferente</E
+M>non c’è e</E
+M>fra spese ed entrate</E
+M>ristabilire l’e</E
+M>nel bilancio d’una società</E
+M>delle masse</E
+M>le facoltà dello spirito sono in lui in giusto equilibrio</E
+M>avere</E
+M>non avere e</E
+M>essere pieno</E
+M>ricco di e</E
+M>mancare</E
+M>esser privo di e</E
+M>equilibrato</E
+M>squilibrato</E
+M>biologico</E
+M>Teoria degli e</E
+M>intermittenti</E
+M>sessuale</E
+M>economico</E
+M>condizioni di e</E
+M>mercato in e</E
+M>prezzo di equilibrio</E
+M>politico</E
+M>tra le forze politiche del paese</E
+M>tra le correnti di un partito</E
+M>perseguire una politica di equilibrio</E

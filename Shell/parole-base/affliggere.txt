@@ -1,0 +1,25 @@
+affliggere.txt
+"affliggere"
+"affliggere, replace: affliggersi"
+*[[addolorare]], [[angosciare]], [[preoccupare]], [[tormentare]], [[amareggiare]], [[rattristare]], [[crucciare]], [[prostrare]]
+*[[angustiare]], 
+*[[consolare]], [[allietare]], [[confortare]]
+*[[affliggersi]]
+*[[affligere]]
+*[[afflizione]]
+M>afflig</E
+M>flig</E
+M>io affliggo</E
+M>tu affliggi</E
+M>afflissi</E
+M>affliggésti</E
+M>afflitto</E
+M>è afflitto da grave malattia</E
+M>la sciagura ci afflisse moltissimo</E
+M>lo affligge con continue lamentele</E
+M>non vi affliggete tanto per questo</E
+M>di questo</E
+M>m’affliggo per il loro comportamento</E
+M>affliggersi con digiuni</E
+M>una notizia</E
+M>una condizione affliggente</E

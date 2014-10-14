@@ -1,0 +1,47 @@
+estero.txt
+"aiuti all'estero"
+"aiuti dall'estero"
+"all'estero"
+"andare all'estero"
+"cambio estero"
+"commercio estero"
+"corrispondente all'estero"
+"estero"
+"estero"
+"dei rapporti con l'estero"
+"estero"
+"fatto all'estero"
+"mercato estero"
+"ministero del commercio estero"
+"missione all'estero"
+"nato all'estero"
+"pagamento estero su estero"
+"persone che stanno nel loro paese durante una guerra all'estero"
+"prodotto all'estero"
+"vino estero; d'importazione"
+*[[forestiero]], [[straniero]], [[oltremare]] 
+*[[esterno]], [[esterofilia]], [[esterofobia]], [[esteromania]], [[esteroricettore]]
+M>ext</E
+M>rus</E
+M>stati e</E
+M>nazioni e</E
+M>territorio e</E
+M>l’estero</E
+M>andare</E
+M>vivere</E
+M>trovarsi all’e</E
+M>viaggiare spesso all’e. per lavoro</E
+M>passaporto per l’e</E
+M>notizie dall’e</E
+M>scambî culturali con l’estero</E
+M>vini</E
+M>liquori</E
+M>tabacchi</E
+M>profumi e</E
+M>giornali e</E
+M>società impiantate con capitale estero</E
+M>Relazioni e</E
+M>commercio e</E
+M>politica e</E
+M>ministero degli Affari E</E
+M>degli Esteri</E

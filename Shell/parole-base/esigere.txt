@@ -1,0 +1,37 @@
+esigere.txt
+"esigere"
+#*''durante la lezione, il professore '''esigeva''' costantemente l'attenzione dei suoi studenti''
+#* ''il funzionamento della democrazia '''esige''' il rispetto delle regole da parte di tutti''
+#* ''questo è il genere di situazione che '''esige''' controllo e sangue freddo
+*[[chiedere]], [[imporre]], [[richiedere]], [[volere]], [[pretendere]], [[reclamare]], [[comandare]], [[intimare]], [[obbligare]],[[necessitare]]
+*''(denaro, crediti e simili)'' [[riscuotere]], [[incassare]]
+*[[rinunciare]], fare a meno, [[offrire]], [[concedere]]
+* ''(denaro, crediti e simili)'' [[pagare]]
+*[[esigente]], [[esigibile]],[[esigenza]]
+*[[esatto]], [[esattore]]
+M>exig</E
+M>io e</E
+M>igo</E
+M>tu e</E
+M>igi</E
+M>igéi</E
+M>igètti</E
+M>pretendere</E
+M>un tributo straordinario</E
+M>obbedienza</E
+M>soddisfazione</E
+M>il rispetto dell’orario</E
+M>interessi troppo alti</E
+M>un salario eccessivo</E
+M>esigo delle prove</E
+M>esigo di essere rispettato</E
+M>esigo che qualcuno mi dia una una spiegazione</E
+M>che cosa esige in cambio di questo favore?</E
+M>tu esigi troppo da lui</E
+M>le imposte</E
+M>un credito</E
+M>l’impresa esige prontezza e decisione</E
+M>queste parole esigono una spiegazione</E
+M>il mio onore lo esige</E
+M>esatti due euro e cinquanta</E
+M>per diritti di segreteria</E

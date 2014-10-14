@@ -1,0 +1,124 @@
+denaro.txt
+"a corto di denaro"
+"accumulare denaro"
+"accumulare denaro, ammucchiare soldi, farsi un gruzzolo"
+"anticipo in denaro"
+"assistenza in denaro"
+"avere denaro"
+"avere denaro da spendere"
+"avere denaro; liquidità"
+"avere denaro; soldi"
+"ben speso (di tempo o denaro)"
+"borsa di denaro"
+"carenza di denaro"
+"che spende denaro in un area per ottenere il consenso popolare in vista delle votazioni"
+"chi conia il denaro"
+"costituire un fondo di denaro"
+"costo del denaro"
+"denaro"
+"denaro"
+"denaro a vista"
+"denaro alla mano"
+"denaro cartaceo"
+"denaro che scotta; capitali vaganti"
+"denaro contante"
+"denaro facile"
+"denaro falso"
+"denaro liquido; contanti (fam.)"
+"denaro mutuabile a basso tasso d'interesse"
+"denaro sporco"
+"denaro sporco"
+"denaro sporco"
+"denaro straniero"
+"denaro sudato, denaro guadagnato lavorando sodo"
+"depositare denaro"
+"deposito di denaro"
+"estorcere denaro a"
+"fornire del denaro"
+"giochi con vincite in denaro"
+"guadagnare del denaro"
+"il culto del denaro"
+"il denaro"
+"il dio denaro"
+"il potere del denaro"
+"il tempo è denaro"
+"impegnarsi con una somma di denaro"
+"importo di denaro"
+"investire del denaro"
+"investire denaro"
+"l'onnipotente denaro"
+"per denaro"
+"per il tuo denaro"
+"premio in denaro"
+"procurare denaro per"
+"quantità di denaro"
+"raccogliere denaro"
+"ricevere il denaro giusto per il valore dell'oggetto venduto"
+"riserva di denaro"
+"riserva di denaro"
+"scambiare per denaro"
+"senza denaro"
+"somma di denaro"
+"spendere bene il proprio denaro"
+"stanziamento (di denaro pubblico)"
+"usare il denaro"
+#* ''ecco tutto il '''denaro''' che ho in tasca'';
+*[[moneta]], [[solodo]], [[capitale]], [[contante]]
+* [[danaroso]], [[denaro elettronico]]
+* [[derrata]],  [[salvadanaio]]
+*''La bellezza è potente, il 
+*Enciclopedia [http
+M>denarius</E
+M>nummus</E
+M>deni</E
+M>grosso</E
+M>piccolo</E
+M>contante</E
+M>guadagnato onestamente</E
+M>pulito</E
+M>mal guadagnato</E
+M>sporco</E
+M>non si fa niente senza denaro</E
+M>il d</E
+M>apre tutte le porte</E
+M>avere molto d</E
+M>essere a corto di denaro</E
+M>contato</E
+M>viaggiare col d</E
+M>contato</E
+M>buttare</E
+M>sprecare il d</E
+M>sciupare tempo e denaro</E
+M>avere</E
+M>fare denari a palate</E
+M>guadagnare denari a cappellate</E
+M>mettere</E
+M>tirare fuori i d</E
+M>pubblico</E
+M>morto</E
+M>d. virtuale</E
+M>cybercash</E
+M>Il d</E
+M>è il nervo della guerra</E
+M>Filippiche</E
+M>nervi belli pecunia</E
+M>Discorsi</E
+M>I danari non sono il nervo della guerra</E
+M>secondo che è comune opinione</E
+M>l’argent est le nerf de la guerre</E
+M>c’est</E
+M>l’argent</E
+M>qui</E
+M>fait la guerre</E
+M>mercato del d</E
+M>giornaliero</E
+M>costo del d</E
+M>denaro di s. Pietro</E
+M>gabella del buon d</E
+M>buon d.</E
+M>di Dio</E
+M>danari</E
+M>fante di danari</E
+M>sei di danari</E
+M>den</E
+M>tex</E

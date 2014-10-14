@@ -1,0 +1,56 @@
+indagine.txt
+"eseguire un'indagine"
+"indagine"
+"indagine"
+"indagine conoscitiva"
+"indagine di mercato"
+"indagine di polizia"
+"indagine epidemiologica"
+"indagine generale"
+"indagine geodetica"
+"indagine penale"
+"indagine sulla scuola"
+"sguardo generale, indagine generale"
+"uno che conduce un'indagine"
+*[[ricerca]], osservazione, [[esplorazione]], [[studio]], analisi, [[esame]]; [[intervista]], [[questionario]], [[sondaggio]], [[inchiesta]], [[interrogatorio]], [[investigazione]]
+* [[disamina]], , [[accertamento]],  [[test]] 
+*[[indagine-lampo]]
+*[[indagare]]
+*Enciclopedia [http
+M>indago</E
+M>nis</E
+M>indu</E
+M>filologica</E
+M>linguistica</E
+M>storica</E
+M>economica</E
+M>sociologica</E
+M>statistica</E
+M>un libro serio</E
+M>frutto di coscienziose i</E
+M>di mercato</E
+M>ricerca di mercato</E
+M>il funzionario incaricato delle i</E
+M>su un delitto</E
+M>intorno a una rapina</E
+M>in merito a una morte sospetta</E
+M>la polizia ha concluso le i. chiedendo l’incriminazione del colpevole</E
+M>fatti nuovi venuti in luce nel corso delle indagini</E
+M>promuovere un’i</E
+M>avviare</E
+M>condurre</E
+M>svolgere un’i</E
+M>le i</E
+M>continuare</E
+M>estendere</E
+M>moltiplicare le i</E
+M>severa</E
+M>paziente</E
+M>accurata i</E
+M>lunghe</E
+M>minute</E
+M>scrupolose</E
+M>febbrili</E
+M>indagini preliminari</E
+M>l’i</E
+M>conoscitiva</E

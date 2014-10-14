@@ -1,0 +1,70 @@
+tradire.txt
+"tradire"
+"tradire"
+"tradire"
+"tradire"
+"tradire"
+"tradire"
+"tradire le aspettative"
+"tradire; abbandonare qcn."
+"tradire; smascherare"
+"vendersi, tradire"
+* (il coniuge) essere infedele
+*(un amico, un patto) [[ingannare]], [[imbrogliare]], [[truffare]], [[raggirare]], [[trasgredire]], [[violare]]
+* (un partito, un’ideologia) [[disertare]], [[abbandonare]], [[rinnegare]], [[abiurare]]
+*[[rivelare]], [[svelare]], [[scoprire]], [[denunciare]], fare trapelare, fare la spia, [[spifferare]]
+*(di sguardo, atteggiamento) [[esprimere]]
+* (il significato) [[travisare]], [[falsare]]
+*[[tacere]], [[nascondere]], [[coprire]]
+*[[tener fede]]
+*[[tradimento]], [[tradirsi]], [[traditore]], [[traditrice]]
+M>trad</E
+M>trad</E
+M>Luca</E
+M>Iesus autem dixit ei: Juda</E
+M> osculo Filium hominis tradis</E
+M>traditor</E
+M>Marco</E
+M>dederat autem traditor eius signum eis dicens ...</E
+M>io tradisco</E
+M>tu tradisci</E
+M> egli tradisce</E
+M>trade</E
+M>t. la patria</E
+M>lo stato</E
+M>t. il proprio partito</E
+M>la causa per cui si è combattuto</E
+M>i proprî ideali</E
+M>t. un amico</E
+M>i compagni di lotta</E
+M>gli alleati</E
+M>t. il mandato ricevuto</E
+M>il proprio dovere</E
+M>la fiducia altrui</E
+M>t. il segreto</E
+M>un segreto</E
+M>un geloso segreto</E
+M>se &#8217;l conte Ugolino aveva voce D&#8217;aver tradita te de le castella</E
+M>non è capace di tradire</E
+M>non posso fidarmi di chi ha già tradito una volta</E
+M>nel cerchio minore ... Qualunque trade in etterno è consunto</E
+M>t. l&#8217;aspettazione altrui</E
+M>t. la propria fama</E
+M>t. la verità</E
+M>t. un autore</E
+M>un testo</E
+M>se la memoria non mi tradisce</E
+M>la parola ha tradito il suo pensiero</E
+M>le apparenze lo tradiscono</E
+M>un vino che tradisce</E
+M>t. sé stesso</E
+M>tradirsi</E
+M>ha sostenuto la sua innocenza senza mai tradirsi</E
+M>ha ascoltato impassibile senza t. il suo disappunto</E
+M>parlò per due ore di seguito senza t. la minima stanchezza</E
+M>deve controllarsi attentamente: basterebbe un nonnulla a tradirlo</E
+M>solo il pallore del volto tradiva la sua preoccupazione</E
+M>tradirono la città</E
+M> i castelli al nemico.</E
+M>una moglie tradita</E
+M>sentirsi tradito</E

@@ -1,0 +1,32 @@
+bollettino.txt
+"bollettino"
+"bollettino"
+"bollettino della neve"
+"bollettino meteorologico"
+*[[ricevuta]],  [[tagliando]], [[bolla]], [[polizza]], [[modulo]], [[stampato]]
+*[[periodico]], [[giornale]], [[rivista]], foglio informativo, [[notiziario]], [[rassegna]], [[comunicato]]
+M>bolletta</E
+M>bolletta</E
+M>di consegna</E
+M>di entrata</E
+M>d’imbarco</E
+M>di versamento</E
+M>tagliandi</E
+M>delle candele</E
+M>dei pesci</E
+M>del pane</E
+M>della farina</E
+M>d’opera</E
+M>forese</E
+M>dei prezzi</E
+M>dei protesti cambiarî</E
+M>della neve</E
+M>finanziario</E
+M>meteorologico</E
+M>medico</E
+M>di guerra</E
+M>della Vittoria</E
+M>ufficiale</E
+M>delle pubblicazioni italiane ricevute per diritto di stampa</E
+M>Bullettino della Società Dantesca</E
+M>Bollettino dell’Unione matematica italiana</E

@@ -1,0 +1,44 @@
+socio.txt
+"assistente socio-sanitario scolastico"
+"contesto socio-culturale"
+"farsi socio"
+"lavorare come socio"
+"lavorare come socio"
+"socio"
+"socio"
+"socio"
+"socio"
+"socio accomandante"
+"socio accomandatario"
+"socio cospiratore"
+"socio fondatore"
+"socio sostenitore"
+"socio-economico"
+"socio-economic"
+"tessera socio"
+"tessera socio"
+#* ''Erick Thoir è  socio di maggioranza dell'[[w
+*[[associato]], [[consociato]], [[membro]], [[iscritto]], [[aderente]], [[tesserato]], [[affiliato]], [[comproprietario]]
+*[[amico]], [[collega]], [[compagno]], [[alleato]], [[camerata]], [[commilitone]]
+*[[concorrente]], [[nemico]], [[rivale]], [[avversario]]
+*[[socio-]], [[società]], [[soccida]], [[sostenitore]]
+*[[sozio]]
+*italiano
+*spagnolo
+M>cius</E
+M>avere un s.</E
+M>dividere il guadagno a metà tra i due s.</E
+M>in questo affare non voglio soci</E
+M>assemblea dei s.</E
+M>Ditta... e Soci</E
+M>e Compagni</E
+M>C.i</E
+M>S. occulto</E
+M>s. della Società dantesca</E
+M>del Circolo della scherma</E
+M>s. ordinario</E
+M>benemerito</E
+M>fondatore</E
+M>s. effettivo</E
+M>onorario</E
+M>corrispondente</E

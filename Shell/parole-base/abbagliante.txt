@@ -1,0 +1,20 @@
+abbagliante.txt
+"abbagliante"
+"abbagliante"
+"abbagliante"
+"abbagliante"
+"luce abbagliante"
+"luce abbagliante"
+"luce accecante, abbagliante"
+"un sorriso abbagliante"
+#*''La luce del sole è '''abbagliante'''''
+#*''Quando si incontra un altro veicolo occore spegnere gli '''[[abbaglianti]]'''''
+*[[Image
+M>abbagliare</E
+M>un chiarore</E
+M>una luce a</E
+M>fari a</E
+M>fari a luce a</E
+M>gli a</E
+M>una bellezza a</E
+M>immagini abbaglianti</E

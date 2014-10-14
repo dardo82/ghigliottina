@@ -1,0 +1,46 @@
+sedile.txt
+"bracciolo (di sedile)"
+"panchina; sedile di pietra"
+"sedile"
+"sedile"
+"sedile della bicicletta"
+"sedile in pelle"
+"sedile posteriore"
+"sedile ribaltabile"
+*[[sedia]], [[seggiola]], [[seggio]], [[seggiolone]], [[seggiolino]], [[sgabello]], [[panca]], [[poltrona]] 
+*''(di treno, di cinema ecc.)'' [[posto]], [[poltrona]]
+M>sedile</E
+M>sedere</E
+M>un s. di ferro</E
+M>di marmo</E
+M>di legno</E
+M>di plastica</E
+M>un s. imbottito</E
+M>impagliato</E
+M>di gommapiuma</E
+M>un s. pieghevole</E
+M>i s. del parco</E
+M>i s. della piscina</E
+M>i s. del teatro</E
+M>i s. del treno</E
+M>dell&#8217;autobus</E
+M>i s. dell&#8217;automobile</E
+M>s. anteriore</E
+M>s. posteriore</E
+M>s. con schienale ribaltabile</E
+M>i s. del motoscafo</E
+M>dell&#8217;aereo</E
+M> s. anatomico</E
+M>s. avvolgente</E
+M>s. scorrevole</E
+M>seggiolino</E
+M>il s. di una poltrona</E
+M>il s. della sedia si è sfondato</E
+M>i s. di questo divano sono troppo rigidi</E
+M>seggio</E
+M>seggi</E
+M>portici</E
+M>teatri</E
+M>piazze</E
+M>Fuori sedile</E
+M>fuori seggio</E

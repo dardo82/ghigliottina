@@ -1,0 +1,20 @@
+pagella.txt
+"brutta pagella"
+"pagella"
+M>pagella</E
+M>pag</E
+M>documento di valutazione</E
+M>sono state distribuite le p</E
+M>la p</E
+M>deve essere restituita in segreteria</E
+M>con la firma del padre o di chi ne fa le veci</E
+M>avere una buona</E
+M>una cattiva p</E
+M>una bella</E
+M>una brutta pagella</E
+M>la p</E
+M>dei calciatori</E
+M>la p</E
+M>delle automobili da corsa</E
+M>di deposito</E
+M>bollettino di entrata</E

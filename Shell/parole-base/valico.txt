@@ -1,0 +1,8 @@
+valico.txt
+"valico"
+"valico"
+"il luogo del valico"
+#*''il Mortirolo è il valico che mette in comunicazione la Valtellina  con la Valle Camonica''
+*[[varco]], [[passaggio]], [[transito]], [[attraversamento]]
+*(di rilievo montuoso) [[passo]], [[sella]], [[giogo]], [[forcella]]
+*(di corso d’acqua) [[guado]]

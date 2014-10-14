@@ -1,0 +1,12 @@
+impaziente.txt
+"essere impaziente"
+"impaziente"
+"impaziente di"
+"impaziente di far qualcosa"
+"troppo impaziente"
+*[[irritabile]], [[agitato]], [[nervoso]], [[ansioso]], [[irrequieto]], [[inquieto]], [[precipitoso]], [[frettoloso]]
+*[[insofferente]], [[intollerante]]
+*[[desideroso]], [[smanioso]], [[bramoso]]
+*[[calmo]], [[sereno]], [[tranquillo]], [[equilibrato]]
+*[[paziente]], [[tollerante]]
+*[[freddo]], [[distaccato]]

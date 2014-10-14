@@ -1,0 +1,51 @@
+navale.txt
+"accademia navale"
+"architettura navale"
+"aviazione navale"
+"battaglia navale"
+"cantiere navale"
+"guerra navale"
+"ingegnere navale"
+"ingegneria navale"
+"istituto navale"
+"Lega Navale"
+"motore navale"
+"navale"
+"navale"
+"Organizzazione militare Navale Speciale"
+"potenza navale"
+"riserva navale"
+"scuola navale"
+"traversata navale"
+"unità navale"
+#*'' da piccolo giocava sempre a battaglia navale''
+*[[nautico]], della navigazione, [[marinaro]], [[marittimo]], [[marinaresco]]
+*[[nave]], [[navalismo]], [[navalmeccanica]]
+M>navalis</E
+M>navis</E
+M>architettura</E
+M>attrezzatura n</E
+M>scienza delle</E
+M>costruzioni n</E
+M>meccanica n</E
+M>cantiere n</E
+M>ingegnere n</E
+M>genio n</E
+M>Corpo delle armi n</E
+M>Armi n</E
+M>armata</E
+M>flotta n</E
+M>base n</E
+M>guerra n</E
+M>combattimento n</E
+M>battaglia n</E
+M>tattica n</E
+M>bombardamento navale</E
+M>medicina n</E
+M>Accademia n</E
+M>Istituto superiore n</E
+M>corona n</E
+M>rostrata</E
+M>corona murale</E
+M>corona n</E
+M>turrita e rostrata</E

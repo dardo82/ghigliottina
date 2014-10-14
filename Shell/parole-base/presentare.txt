@@ -1,0 +1,131 @@
+presentare.txt
+"presentare"
+"presentare"
+"presentare"
+"presentare"
+"presentare"
+"presentare"
+"presentare, replace: presentarsi"
+"presentare, replace: presentarsi"
+"presentare, replace: presentarsi"
+"presentare, replace: presentarsi"
+"presentare a, annunciare a"
+"presentare accuse"
+"presentare i propri omaggi"
+"presentare i risultati"
+"presentare il conto"
+"presentare il proprio caso"
+"presentare istanza per, fare causa per"
+"presentare la propria candidatura per"
+"presentare le ragioni"
+"presentare un libro"
+"presentare un programma televisivo"
+"presentare un reclamo"
+"presentare un reclamo"
+"presentare un'istanza"
+"presentare un'obiezione"
+"presentare una domanda"
+"presentare una petizione"
+"pronto da presentare"
+*[[mostrare]], [[esibire]], [[esporre]], [[far]] [[vedere]]
+*[[nascondere]], [[celare]], [[coprire]], [[occultare]] 
+*[[ripresentare]], [[presentabile]]
+M>praesentare</E
+M>praesens</E
+M>entis</E
+M>io presènto</E
+M>il biglietto al controllore</E
+M>un assegno all&#8217;incasso</E
+M>un progetto</E
+M>una domanda</E
+M>un&#8217;istanza</E
+M>una candidatura</E
+M>una pubblicazione come titolo in un concorso</E
+M>una proposta di legge in parlamento</E
+M>le dimissioni</E
+M>gli presentò un vassoio di dolci perché ne prendesse</E
+M>portò certi falconi pellegrini al soldano e presentogliele</E
+M>donare</E
+M>a otta a otta la presentava</E
+M>e quando le mandava un mazzuol d&#8217;agli freschi</E
+M>e quando un canestruccio di baccelli</E
+M>i proprî omaggi</E
+M>saluti</E
+M>augurî</E
+M>le presento i miei più devoti ossequi</E
+M>&#171;Tanti saluti ai suoi genitori!&#187; &#171;Presenterò&#187;</E
+M>le armi</E
+M>presentatarm</E
+M>la Luna presenta sempre la stessa faccia alla Terra</E
+M>la colonna</E
+M>marciando</E
+M>presentava il fianco al nemico</E
+M>il girasole presenta la corolla alla luce</E
+M>la prora al vento</E
+M>la nave al mare</E
+M>alle onde</E
+M>presentarsi al tiro</E
+M>al fuoco</E
+M>l&#8217;asta di fiocco</E
+M>un nuovo prodotto</E
+M>un nuovo tipo di autovettura al Salone dell&#8217;automobile</E
+M>gli stilisti italiani hanno presentato la loro collezione per la primavera</E
+M>estate</E
+M>la direzione del circo presenta uno spettacolo interamente rinnovato</E
+M>con attrazioni internazionali</E
+M>la casa cinematografica presenta il suo ultimo film</E
+M>un libro</E
+M>una mostra d&#8217;arte</E
+M>una trasmissione radiofonica</E
+M>un varietà televisivo</E
+M>ha presentato la questione in modo del tutto originale</E
+M>presentò il problema nei suoi aspetti sociali</E
+M>bisogna p</E
+M>l&#8217;affare in modo che appaia vantaggioso</E
+M>il provvedimento presenta molti vantaggi</E
+M>la cosa non presenta alcuna difficoltà</E
+M>al generale le nuove reclute</E
+M>domani saranno presentati al nuovo direttore i funzionarî e gli impiegati della ditta</E
+M>sono io che l&#8217;ho presentato in casa Rossi</E
+M>al circolo del tennis</E
+M>ti presento la mia nuova segretaria</E
+M>permetta</E
+M>professore</E
+M>che le presenti l&#8217;avvocato Bianchi</E
+M>il conferenziere è stato presentato al pubblico dal presidente dell&#8217;accademia</E
+M>ho l&#8217;onore di presentarvi il professore</E
+M>che vi intratterrà su</E
+M>una persona per un impiego</E
+M>per un incarico</E
+M>presentarsi come candidato alle elezioni politiche</E
+M>si presentò al direttore e gli chiese un giorno di permesso</E
+M>hanno messo in vendita l&#8217;appartamento</E
+M>ma ancora non si è presentato nessuno</E
+M>gli interessati possono presentarsi in segreteria a ritirare i documenti</E
+M>presentarsi al corpo</E
+M>presentarsi sulla scena</E
+M>presentarsi in tribunale</E
+M>non so come ha avuto il coraggio di presentarsi con quel vestito</E
+M>presentarsi bene</E
+M>male</E
+M>permetta che mi presenti</E
+M>sono</E
+M>guarda all&#8217;uscio</E
+M>lo vede aprirsi</E
+M>vede presentarsi e venire avanti due logori e sudici vestiti rossi</E
+M>due facce scomunicate</E
+M>due monatti</E
+M>quando si presenti l&#8217;occasione favorevole</E
+M>ne approfitterò</E
+M>se dovesse presentarsi qualche ostacolo</E
+M>fammelo sapere</E
+M>presentarsi alla mente</E
+M>il feto si presenta di testa</E
+M>di spalla</E
+M>parte presentata</E
+M>la superficie si presenta levigata</E
+M>scabra</E
+M>la sostanza si presenta come una polvere finissima</E
+M>la situazione si presenta difficile</E
+M>favorevole</E
+M>la malattia si presentava molto grave</E

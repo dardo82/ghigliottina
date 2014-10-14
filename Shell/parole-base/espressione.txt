@@ -1,0 +1,104 @@
+espressione.txt
+"dare espressione"
+"dare espressione"
+"dare espressione a"
+"espressione"
+"espressione"
+"espressione"
+"espressione"
+"espressione"
+"espressione artistica"
+"espressione banale"
+"espressione citata"
+"espressione del viso"
+"espressione del viso"
+"espressione di idee"
+"espressione di lode"
+"espressione tra parentesi"
+"imposta fissa sulla persona, spesso requisito di espressione di voto"
+"libertà di parola ed espressione"
+"locuzione idiomatica, espressione idiomatica, frase idiomatica"
+"modi di espressione"
+"modo di espressione"
+"parola o espressione a doppio senso"
+"riportare un' espressione"
+"stile di espressione"
+"stile di espressione"
+*[[manifestazione]], [[comunicazione]], [[rivelazione]], [[estrinsecazione]]
+*[[faccia]], [[atteggiamento]], [[viso]], [[maschera]], [[mimica]], [[smorfia]], [[atto]], [[aria]], [[tono]], [[intonazione]], [[gesto]]
+*[[sentimento]], capacità espressiva, [[espressività]], [[intensità]], [[forza]], [[vigore]], [[efficacia]], [[incisività]], [[vigoria]]
+*[[espressionismo]]
+M>expressio</E
+M>onis</E
+M>exprim</E
+M>expressus</E
+M>di un sentimento</E
+M>l’e</E
+M>della volontà</E
+M>l’e</E
+M>delle proprie idee</E
+M>sei stato poco felice nell’e</E
+M>del tuo pensiero</E
+M>le leggi sono e</E
+M>de’ costumi d’un popolo</E
+M>espressioni d’affetto</E
+M>d’amore</E
+M>di gratitudine</E
+M>di ringraziamento</E
+M>di dolore</E
+M>l’ha definito con un’e</E
+M>molto felice</E
+M>con l’e</E
+M>di tutta la mia stima</E
+M>accolga le e</E
+M>della mia riconoscenza</E
+M>popolare</E
+M>poetica</E
+M>letteraria</E
+M>plebea</E
+M>triviale</E
+M>errata</E
+M>scorretta</E
+M>mi pare un’e</E
+M>un po’ ardita</E
+M>la forza</E
+M>la vivacità</E
+M>la proprietà</E
+M>l’evidenza</E
+M>la semplicità dell’e</E
+M>l’e</E
+M>è rozza</E
+M>incerta</E
+M>inefficace</E
+M>difettosa</E
+M>aveva un’e</E
+M>addolorata</E
+M>mi guardò con e</E
+M>di giubilo</E
+M>i suoi occhi hanno un’e</E
+M>intensa</E
+M>avere un’e</E
+M>intelligente</E
+M>faccia</E
+M>sguardo privi di espressione</E
+M>ha una voce senza e</E
+M>legge con molta e</E
+M>recita con chiarezza ma senza espressione</E
+M>ritratto pieno di e</E
+M>musica ricca di e</E
+M>suona senza e</E
+M>con espressione</E
+M>culturale</E
+M>geografica</E
+M>l’Italia è un’e</E
+M>geografica</E
+M>l’Italie est une expression géographique</E
+M>razionale</E
+M>irrazionale</E
+M>aritmetica</E
+M>letterale</E
+M>algebrica</E
+M>differenziale</E
+M>analitica</E
+M>e. genica</E
+M>di un gene</E

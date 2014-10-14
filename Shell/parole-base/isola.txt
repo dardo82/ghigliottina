@@ -1,0 +1,97 @@
+isola.txt
+"da isola di calore"
+"isola"
+"isola"
+"popolazione di un'isola"
+"isola"
+"isola"
+"isola"
+"isola corallina"
+"isola cucina"
+"isola deserta"
+"Isola di Nauru"
+"Isola di Pasqua"
+"isola ecologica"
+"isola felice"
+"isola galleggiante; dolce a base di crema"
+"isola inglese nella Manica"
+"isola marina"
+"isola pedonale"
+"isola robotizzata"
+"l'isola che non c'è"
+#*''tutta l'isola sfuggi al disastro''
+#*''isola linguistica''
+#*''isola pedonale''
+#*''isole di Langerhans''
+*[[isolabile]], [[isolamento]], [[isolare]], [[isolano]], [[isolato]], [[penisola]]
+*''isola pedonale''
+M>ins</E
+M>isola</E
+M>ischia</E
+M>vulcanica</E
+M>corallina</E
+M>madreporica</E
+M>di erosione</E
+M>una piccola</E
+M>una grande i</E
+M>un’i</E
+M>deserta</E
+M>vivere in un’i</E
+M>le i</E
+M>dello Ionio</E
+M>dell’Egeo</E
+M>l’i</E
+M>di Sicilia</E
+M>l’i</E
+M>d’Ischia</E
+M>l’i</E
+M>del Giglio</E
+M>le Isole</E
+M>le comunicazioni con le Isole</E
+M>di smeraldo</E
+M>emerald isle</E
+M>verde</E
+M>I. naviganti</E
+M>l’i</E
+M>di Sicilia insorse contro lo straniero</E
+M>i costumi</E
+M>le tradizioni dell’i</E
+M>galleggiante</E
+M>di ghiaccio galleggiante</E
+M>linguistica</E
+M>dialettale</E
+M>etnica</E
+M>etnografica</E
+M>i Tredici Comuni costituirono un tempo un’importante i</E
+M>dialettale tedesca</E
+M>l’i</E
+M>linguistica serbocroata del Molise</E
+M>amministrativa</E
+M>essere</E
+M>trovarsi</E
+M>sentirsi in un’i</E
+M>come in un’i</E
+M>cercare un’i</E
+M>a cui approdare</E
+M>chiudersi nell’i</E
+M>del proprio mondo interiore</E
+M>isolato</E
+M>gruppo di case che formano un’isola</E
+M>spartitraffico</E
+M>di canalizzazione</E
+M>direzionale</E
+M>salvagente</E
+M>I. pedonale</E
+M>nave a tre i</E
+M>a tre casseri</E
+M>delle reti</E
+M>camere</E
+M>insula</E
+M>isole</E
+M>isolotti</E
+M>di Langerhans</E
+M>insulina</E
+M>sanguigne</E
+M>isolotti sanguigni</E
+M>di Wolff</E
+M>di lavorazione</E

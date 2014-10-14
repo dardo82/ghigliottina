@@ -1,0 +1,31 @@
+tracciare.txt
+"tracciare"
+"tracciare"
+"tracciare i confini"
+"tracciare I confini"
+"tracciare un diagramma"
+"tracciare un percorso"
+"tracciare una parallela tra"
+"tracciare una via"
+"tracciare, ricalcare"
+*[[traccia]], [[tracciabile]], [[tracciato]], [[tracciamento]]
+M>*tractiare</E
+M>tractus</E
+M>trah</E
+M>io tràccio</E
+M>le ruote del carro tracciavano due linee dritte</E
+M>t. il percorso</E
+M>t. una strada</E
+M>t. la via</E
+M>t. una linea</E
+M> un segmento</E
+M> un arco di cerchio</E
+M>il grafico di una funzione</E
+M>sala a tracciare</E
+M>t. la rotta</E
+M>l&#8217;oratore ha tracciato un quadro della situazione</E
+M>il secondo capitolo è già tracciato nelle sue linee essenziali</E
+M>Tuttavia la lepre traccio</E
+M> Mentre lei fa il sonnellino</E
+M>seguire la via tracciata</E
+M>secondo il programma già tracciato</E

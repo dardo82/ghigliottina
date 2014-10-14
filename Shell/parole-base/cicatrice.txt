@@ -1,0 +1,17 @@
+cicatrice.txt
+"cicatrice"
+"cicatrice"
+"segnato da cicatrice"
+*italiano
+*inglese
+M>cicatrix</E
+M>icis</E
+M>una c</E
+M>gli tagliava il sopracciglio</E
+M>far c</E
+M>ornamentale</E
+M>scarificazione</E
+M>di ogni dolore rimane una c</E
+M>il ricordo di quel triste episodio stava attenuandosi</E
+M>ma egli ne portava ancora la c</E
+M>dentro di sé</E

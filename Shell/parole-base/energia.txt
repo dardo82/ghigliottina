@@ -1,0 +1,155 @@
+energia.txt
+"a energia elettrica"
+"avere energia"
+"carico di energia"
+"centrale di energia eolica"
+"che assorbe energia"
+"che consuma energia"
+"che produce energia"
+"che produce energia termica"
+"che scoppia di energia"
+"che toglie ogni energia"
+"con forza, con energia"
+"conservazione dell'energia"
+"consumo di energia"
+"consumo di energia"
+"dispendio di energia"
+"distribuzione dell'energia"
+"distribuzione uniforme dell'energia"
+"energia"
+"energia"
+"energia"
+"energia alternativa"
+"energia atomica"
+"energia atomica"
+"energia cinetica"
+"energia di attivazione"
+"energia di legame"
+"energia di massa"
+"energia di punto zero"
+"energia dinamica"
+"energia effettiva"
+"energia elettrica"
+"energia eolica"
+"energia fisica"
+"energia idroelettrica"
+"energia interna"
+"energia libera"
+"energia nucleare"
+"energia nucleare"
+"energia potenziale"
+"energia psichica"
+"energia pulita"
+"energia radiante"
+"energia residua, potenza residua"
+"energia residuale"
+"energia solare"
+"energia solare"
+"energia termica"
+"energia vitale"
+"energia vitale"
+"energia; dinamismo"
+"fonte d'energia"
+"fonte di energia"
+"fornitura d'energia"
+"legge di conservazione dell'energia"
+"mantenimento di energia"
+"metabolismo dell'energia"
+"oscuramento dell'energia elettrica"
+"particella ad alta energia"
+"pieno d'energia"
+"pieno d'energia"
+"pieno di energia"
+"riscaldamento ad energia solare"
+"riscaldato con energia elettrica"
+"rumore bianco, rumore casuale con energia costante"
+"sottomarino a energia atomica"
+"togliere l'energia a, sospendere l'energia"
+"unità di energia"
+#*''il peso di una persona rispecchia l'equilibrio tra l'immissione e il dispendio di energia''
+*[[forza]], [[gagliardia]]
+*[[piglio]], [[polso]], [[tempra]], [[dinamismo]]
+* [[debolezza]], [[fiacchezza]], 
+*[[incertezza]], [[esitazione]]
+*[[sinergia]], [[energia verde]], [[energetico]], [[energico]]
+* [[potenza]], [[calore]], [[lavoro]]
+* ''perdere le energie''
+* ''riacquistare le energie perdute''
+M>energ</E
+M>riacquistare le e</E
+M>perdute</E
+M>ridestare le energie</E
+M>è un rimedio che opera con molta e</E
+M>l’e</E
+M>dello stile</E
+M>uomo privo di energia</E
+M>senza energia</E
+M>di scarsa e</E
+M>governare</E
+M>dirigere un’impresa</E
+M>comandare gli uomini con e</E
+M>affrontare</E
+M>risolvere con e</E
+M>una situazione</E
+M>tendere con e</E
+M>al proprio scopo</E
+M>essere animato da grande e</E
+M>trovare in sé l’e</E
+M>necessaria per continuare la lotta</E
+M>rianimare</E
+M>rinvigorire</E
+M>rinfrescare le e</E
+M>psichica</E
+M>d’investimento</E
+M>libera</E
+M>legata</E
+M>di un sistema</E
+M>e. in atto</E
+M>e. potenziale</E
+M>principio generale di conservazione dell’e</E
+M>meccanica</E
+M>cinetica</E
+M>potenziale</E
+M>di posizione</E
+M>di configurazione</E
+M>termica</E
+M>di radiazione</E
+M>radiante</E
+M>elastica</E
+M>gravitazionale</E
+M>elettrostatica</E
+M>elettromagnetica</E
+M>chimica</E
+M>nucleare</E
+M>di massa</E
+M>di riposo</E
+M>interna</E
+M>funzione di stato</E
+M>libera</E
+M>potenziale termodinamico</E
+M>critica</E
+M>di soglia</E
+M>di legame</E
+M>meccanica</E
+M>termica</E
+M>elettrica</E
+M>idrica</E
+M>fonte d’e</E
+M>Fonti primarie di energia</E
+M>solare</E
+M>eolica</E
+M>delle acque fluenti</E
+M>idroelettrica</E
+M>delle onde</E
+M>delle correnti marine</E
+M>dei combustibili</E
+M>delle maree</E
+M>nucleare</E
+M>geotermica</E
+M>fonti rinnovabili di e</E
+M>fonti alternative di e</E
+M>e. rinnovabili</E
+M>alternative</E
+M>Fonti secondarie di e</E
+M>energia</E
+M>del rilievo</E

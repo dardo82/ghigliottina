@@ -1,0 +1,47 @@
+amministrativo.txt
+"amministrativo"
+"amministrativo"
+"atto amministrativo"
+"centro amministrativo"
+"Comune (distretto amministrativo)"
+"diritto amministrativo"
+"funzionario amministrativo"
+"lavoro amministrativo"
+"organo amministrativo"
+"ufficio amministrativo"
+#*'''diritto amministrativo'''
+:* Paravia, ''[http
+M>administrativus</E
+M>administrare</E
+M>la direzione a</E
+M>di un’azienda</E
+M>direttore</E
+M>segretario a</E
+M>il personale a</E
+M>di un ministero</E
+M>del provveditorato agli studî</E
+M>le rivendicazioni degli a</E
+M>del ministero dei Trasporti</E
+M>atto a</E
+M>autorità amministrativa</E
+M>funzione amministrativa</E
+M>finalità amministrative</E
+M>norme</E
+M>sanzioni a</E
+M>rendersi colpevole di un illecito a</E
+M>di irregolarità amministrative</E
+M>anno a</E
+M>anno finanziario</E
+M>accentramento</E
+M>decentramento a</E
+M>diritto a</E
+M>divisione a</E
+M>di uno stato</E
+M>elezioni a</E
+M>enti</E
+M>istituti che dipendono amministrativamente dal Comune</E
+M>dalla Provincia</E
+M>dalla Regione</E
+M>uffici amministrativamente autonomi</E
+M>un ente amministrativamente in attivo</E
+M>in dissesto</E

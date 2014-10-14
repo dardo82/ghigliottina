@@ -1,0 +1,27 @@
+democratico.txt
+"centralismo democratico"
+"democratico"
+"democratico"
+"democratico"
+"democratico repubblicano"
+M>governo</E
+M>regime d</E
+M>partito d</E
+M>i partiti d</E
+M>le forze d</E
+M>del paese</E
+M>ordinamenti d</E
+M>leggi</E
+M>elezioni d</E
+M>metodi</E
+M>sistemi d</E
+M>sentimenti d</E
+M>spirito d</E
+M>cristiano</E
+M>centralismo d</E
+M>è un vero d</E
+M>una convinta democratica</E
+M>aristocratico</E
+M>governare democraticamente</E
+M>agire</E
+M>discutere democraticamente</E

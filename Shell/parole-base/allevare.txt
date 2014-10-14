@@ -1,0 +1,26 @@
+allevare.txt
+"allevamento, allevare"
+"allevare"
+"allevare"
+"allevare figli"
+"allevare una serpe in seno"
+*[[crescere]], [[coltivare]]
+*''(specialmente un bambino)'' [[crescere]], [[tirare su]], [[nutrire]]
+*''(piante)'' [[coltivare]]
+M>all</E
+M>vare</E
+M>vare</E
+M>io allèvo</E
+M>dopo la separazione</E
+M> ha allevato da sola il figlio</E
+M>è stato allevato in casa degli zii</E
+M>la cagna allevava con cura materna i suoi cuccioli</E
+M>polli</E
+M>conigli</E
+M>abbiamo venduto i lattonzoli maschi e alleviamo solo le femmine</E
+M>allevarsi la serpe in seno</E
+M>alberi da frutto</E
+M>i figli con sani principî</E
+M>ha allevato male le sue figlie</E
+M>ragazzi bene</E
+M>male allevati</E

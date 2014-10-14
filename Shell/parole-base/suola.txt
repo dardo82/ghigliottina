@@ -1,0 +1,30 @@
+suola.txt
+"suola"
+"suola"
+M>solum</E
+M>solea</E
+M>suola di cuoio</E
+M>cuoio da suole</E
+M>calzature con s. di gomma</E
+M>di plastica</E
+M>zoccoli con s. di legno</E
+M>sandali con s. di corda</E
+M>s. chiodata</E
+M>doppia s.</E
+M>s. intere</E
+M>mezze s.</E
+M>mezza risuolatura</E
+M>queste scarpe sono mal ridotte: bisogna rifare i tacchi e le mezze suole</E
+M>fettone</E
+M>soletta.</E
+M>suole</E
+M>listone</E
+M>s. di caricamento</E
+M>cucchiaia</E
+M>di caricamento</E
+M>piede</E
+M>sòla</E
+M>dare</E
+M>fare una sola a uno</E
+M>prendere una sola</E
+M>questo vestito è una sola</E

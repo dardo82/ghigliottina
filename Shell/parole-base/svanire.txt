@@ -1,0 +1,43 @@
+svanire.txt
+"(svanire) nel nulla"
+"far svanire"
+"morire; svanire"
+"svanire"
+"svanire; declinare"
+#*''le forze iniziarono a svanire''
+* ''(di immagine)'' [[sfumare]], [[dissolversi]], [[diminuire]], [[allontanarsi]], [[dissiparsi]], [[cessare]]
+*''(di odore, rumore, eccetera)'' [[scomparire]], [[dileguarsi]], [[sparire]]
+*''(di profumi)'' [[evaporare]], [[svaporare]]
+*''(di immagine)'' [[restare]], [[rimanere]], [[perdurare]]
+*''(di odore, rumore, eccetera)'' [[apparire]], [[comparire]], [[concretarsi]]
+*''(di profumi)'' [[aumentare]], [[intensificarsi]], [[rinforzare]]
+M>vanire</E
+M>io svanisco</E
+M>tu svanisci</E
+M>essere</E
+M>aperta la finestra</E
+M> questo cattivo odore svanirà presto</E
+M>svanito il fumo</E
+M> apparve il disastro provocato dall&#8217;esplosione</E
+M>il rumore dei passi svanì lentamente</E
+M>il treno svanì nella nebbia</E
+M>la visione</E
+M>il sogno svanì</E
+M>l&#8217;allegria svanì presto</E
+M>le illusioni a poco a poco svaniscono</E
+M>le mie speranze sono ormai svanite</E
+M>il pensiero</E
+M> che s&#8217;era presentato vivo e risoluto alla sua mente</E
+M> s&#8217;annebbiava e svaniva tutt&#8217;a un tratto</E
+M>se lasci aperta la bottiglia l&#8217;acqua di colonia svanisce</E
+M>lascia che la sua collera svanisca prima di ripetergli la richiesta</E
+M>il corruccio ora svaniva in un grande stupore</E
+M>i ricordi della serata a teatro svanivano come le nebbie di una sbornia</E
+M>una vecchietta mezzo svanita</E
+M>ha un fratello che è</E
+M>è stato sempre</E
+M>un po&#8217; svanito</E
+M>si dimentica ogni cosa</E
+M> ormai è proprio svanita</E
+M>è uno svanito</E
+M>una svanita</E

@@ -1,0 +1,97 @@
+fascia.txt
+"fascia"
+"fascia"
+"fascia"
+"fascia"
+"fascia, fasce"
+"fascia di età"
+"fascia di mercato"
+"fascia di prezzo"
+"fascia di reddito"
+"fascia elastica"
+"fascia iliotibiale"
+"fascia mediana"
+"fascia oraria"
+"fascia per smoking"
+"fascia protetta"
+"fascia sul braccio"
+"fascia triangolare"
+"fascia tricolore"
+"puleggia a fascia piana"
+*[[striscia]], [[nastro]], [[banda]], [[lista]]; [[sciarpa]], [[cintura]], [[fusciacca]]
+*[[benda]], [[fasciatura]], [[garza]], [[bendaggio]], [[bendatura]]
+*(di libri, giornali) [[fascetta]]
+*(di territorio) [[zona]], [[parte]], [[fetta]], [[lembo]],[[area]],[[cintura]] 
+*[[fascetta]], [[fasciatura]],[[fusciacca]], [[fascia arancione]]
+*[[garza]], [[gruppo]], [[lista]], [[mollettiera]], [[nastro]],[[sciarpa]],[[settore]], [[striscia]],  
+M>fascia</E
+M>sce</E
+M>la f</E
+M>dei cresimati</E
+M>la f</E
+M>tricolore del sindaco</E
+M>la f</E
+M>azzurra degli ufficiali</E
+M>benda</E
+M>gessata</E
+M>benda gessata</E
+M>elastica</E
+M>mettere le f</E
+M>al bambino</E
+M>un bambino in fasce</E
+M>nelle fasce</E
+M>in fascia</E
+M>A noi le fasce Cinse il fastidio</E
+M>Ottacchero ebbe nome</E
+M>e ne le fasce Fu meglio assai che Vincislao suo figlio Barbuto</E
+M>bello in fascia</E
+M>brutto in piazza</E
+M>è ancora in fasce</E
+M>l’arte era ancora in fasce</E
+M>mollettiere</E
+M>fasce mollettiere</E
+M>fasciatura</E
+M>spedire un giornale</E
+M>un opuscolo sotto fascia</E
+M>sottofascia</E
+M>stringere con una f</E
+M>un pacchetto di banconote</E
+M>effetti sotto fascia</E
+M>fasce</E
+M>fasce del tavolo</E
+M>elastiche</E
+M>muscolare</E
+M>aponeurosi</E
+M>lata</E
+M>In fascia</E
+M>f. sinistra</E
+M>f. destra</E
+M>sviluppare il gioco sulle f.</E
+M>di resistenza</E
+M>creare</E
+M>istituire una f</E
+M>neutrale</E
+M>una f</E
+M>disatomizzata</E
+M>denuclearizzata</E
+M>costiera</E
+M>di sicurezza</E
+M>industriale</E
+M>strato</E
+M>una larga f</E
+M>di popolazione è stata danneggiata dalle nuove misure economiche</E
+M>sociale che godrà di speciali agevolazioni tariffarie sui consumi indispensabili</E
+M>gli aumenti fìscali non riguarderanno la f</E
+M>di contribuenti con reddito inferiore ai 15.000 euro</E
+M>sono trasmissioni televisive che interessano soltanto una esigua f</E
+M>di telespettatori</E
+M>la f</E
+M>dei professori ordinari</E
+M>dei professori associati</E
+M>retributiva</E
+M>di oscillazione di una moneta</E
+M>F. oraria</E
+M>raccolta dei rifiuti in f. orarie differenziate</E
+M>un comunicato pubblicitario mandato in onda nella f. oraria di maggior ascolto.</E
+M>fasce di radiazione</E
+M>di Van Allen</E

@@ -1,0 +1,58 @@
+qualsiasi.txt
+"a qualsiasi costo"
+"a qualsiasi costo"
+"a qualsiasi ora"
+"a qualsiasi prezzo"
+"da qualsiasi parte"
+"da qualsiasi parte"
+"essere pronti per qualsiasi evenienza o necessità"
+"fare tutto il possibile; fare qualsiasi cosa"
+"in qualsiasi circostanza"
+"in qualsiasi direzione"
+"in qualsiasi maniera"
+"in qualsiasi modo"
+"in qualsiasi modo"
+"in qualsiasi momento"
+"in qualsiasi momento"
+"in qualsiasi momento"
+"in qualsiasi momento"
+"in qualsiasi momento"
+"in qualsiasi momento"
+"per qualsiasi motivo"
+"per qualsiasi questione"
+"qualsiasi"
+"qualsiasi colore"
+"qualsiasi cosa"
+"qualsiasi cosa"
+"qualsiasi giorno"
+"qualsiasi strada"
+"uomini qualsiasi"
+*[[ogni]] (1,3)
+*[[qualunque]] (1,2,3,4)
+*[[ordinario]], [[comune]], [[a caso]]
+*[[qualsiasi cosa]]
+M>quale</E
+M>siasi</E
+M>si sia</E
+M>in q</E
+M>momento</E
+M>un giorno q</E
+M>a q</E
+M>prezzo</E
+M>farei q</E
+M>sacrificio per riuscire</E
+M>è una persona q.</E
+M> come tante altre; un libro</E
+M>un film q.</E
+M>è un cane di razza</E
+M> non un cane qualunque.</E
+M>qualsiasi</E
+M> persone q.</E
+M> libri</E
+M> oggetti q.</E
+M>qualsìansi</E
+M>siasi</E
+M>ti darò qualsiasi cosa</E
+M>qualunque cosa</E
+M>qualunque cosa tu voglia</E
+M>qualsiasi cosa tu voglia</E

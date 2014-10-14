@@ -1,0 +1,22 @@
+polmonite.txt
+"di polmonite"
+"polmonite"
+"polmonite atipica"
+"polmonite da aspirazione"
+"polmonite pneumococcica"
+*[[broncopolmonite]], [[polmonia]]
+* Harrison, ''Principi di Medicina Interna'' , XVI edizione, McGrawHill, Milano, 2005
+M>polmone</E
+M>ite</E
+M>p. primitive</E
+M>p. secondarie</E
+M>alveolite</E
+M>p. interstiziale</E
+M>p. a focolaio unico</E
+M>a focolai multipli</E
+M>p. a carattere essudativo</E
+M>p. croniche</E
+M>p. stafilococcica</E
+M>p. lobare</E
+M>Diplococcus pneumoniae</E
+M>p. atipica</E

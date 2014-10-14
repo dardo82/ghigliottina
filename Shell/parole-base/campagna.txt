@@ -1,0 +1,105 @@
+campagna.txt
+"abitanti della campagna"
+"aperta campagna"
+"campagna"
+"campagna"
+"campagna"
+"campagna"
+"campagna"
+"campagna"
+"campagna acquisti"
+"campagna contro"
+"campagna di diffamazione"
+"campagna di vendite"
+"campagna diffamatoria"
+"campagna elettorale"
+"campagna mediatica"
+"campagna militare"
+"campagna militare"
+"campagna per"
+"campagna politica"
+"campagna portata avanti dalla gente comune"
+"campagna pubblicitaria"
+"casa di campagna"
+"casa di campagna"
+"cittadina di campagna"
+"condurre una campagna elettorale"
+"condurre una campagna per"
+"contributo alla campagna"
+"della stanza principale di villa o casa di campagna"
+"escursione in campagna"
+"fare un'escursione a piedi in campagna"
+"fatto in campagna"
+"fondo per la campagna"
+"gentiluomo di campagna"
+"l'antica campagna"
+"la campagna"
+"medico di campagna"
+"passero di campagna"
+"pavoncello di campagna"
+"portare avanti una campagna elettorale"
+"relativo al topo di campagna"
+"scarpe da campagna"
+"sport, cavalcare su pony attraverso la campagna"
+"stanza principale di villa o casa di campagna"
+"topo di campagna"
+"topo di campagna"
+#* ''artiglieria da campagna''
+#*''campagna elettorale''
+*[[campo]], [[podere]], [[contado]], [[coltivazione]], [[terreno]] coltivato, [[tenuta]], [[fondo]], [[latifondo]], proprietà terriera
+*[[stagione]], periodo della raccolta
+*[[città]]  
+*''Nuvola di montagna, non giova alla '''campagna'''''
+*italiano
+M>campanea</E
+M>campania</E
+M>campus</E
+M>coltivata</E
+M>incolta</E
+M>verde</E
+M>brulla</E
+M>la C</E
+M>Romana</E
+M>la città e la c</E
+M>aria di c</E
+M>essere in aperta c</E
+M>fare una passeggiata in c</E
+M>abitare in c</E
+M>gente di c</E
+M>andare</E
+M>recarsi</E
+M>essere in c</E
+M>darsi</E
+M>buttarsi alla c</E
+M>battere la c</E
+M>scorrere la c</E
+M>quest’anno la c</E
+M>promette bene</E
+M>i frutti della c</E
+M>avere molta c</E
+M>la c</E
+M>gli rende poco</E
+M>Re Carlo era attendato alla c</E
+M>artiglieria da campagna</E
+M>guerra</E
+M>fare una c</E
+M>entrare in c</E
+M>finire la c</E
+M>la c</E
+M>di Russia</E
+M>le c</E
+M>d’Africa</E
+M>ha fatto le sue c</E
+M>pubblicitaria</E
+M>di vendita</E
+M>giornalistica</E
+M>antimalarica</E
+M>elettorale</E
+M>di scavi</E
+M>acquisti</E
+M>stagione</E
+M>olearia</E
+M>granaria</E
+M>delle bietole</E
+M>conserviera</E
+M>dei forni</E

@@ -1,0 +1,28 @@
+affaticare.txt
+"affaticare"
+"affaticare"
+"affaticare, replace: affaticarsi"
+"affaticare, replace: affaticarsi"
+"affaticare gli occhi con la lettura"
+M>io affatico</E
+M>tu affatichi</E
+M>il corpo</E
+M>la mente</E
+M>gli occhi</E
+M>lo studio mi affatica</E
+M>una macchina</E
+M>un motore</E
+M>involve Tutte cose l’obblio nella sua notte</E
+M>E una forza operosa le affatica Di moto in moto</E
+M>affaticarsi a studiare</E
+M>a correre</E
+M>affaticarsi per mantenere la famiglia</E
+M>per vivere</E
+M>Agnese</E
+M>s’era affaticata invano a persuader la figliuola</E
+M>un lavoro</E
+M>una lettura affaticante</E
+M>è sopportatore di ogni fatica quanto alcun altro affaticante uomo</E
+M>appariva affaticato più del solito</E
+M>Salute</E
+M>o genti umane affaticate!</E

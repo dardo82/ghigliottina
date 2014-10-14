@@ -1,0 +1,30 @@
+panino.txt
+"hot-dog; panino con wurstel"
+"mettere a panino"
+"panino"
+"panino al burro di arachidi e gelatina"
+"panino al prosciutto"
+"panino con bacon lattuga e pomodoro"
+"panino con formaggio alla griglia"
+"panino dolce"
+"panino doppio"
+"panino inglese"
+"panino inglese"
+"panino morbido"
+"panino ripieno"
+"panino tondo"
+* [[burro]], [[formaggio]], [[salame]], [[prosciutto]]
+M>pane</E
+M>all&#8217;olio</E
+M>al burro</E
+M>al latte</E
+M>ripieno</E
+M>imbottito</E
+M>col</E
+M>prosciutto</E
+M>salame</E
+M>formaggio</E
+M>mangiare un p</E
+M>al bar</E
+M>preparare i p</E
+M>per la gita al mare</E

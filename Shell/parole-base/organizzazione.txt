@@ -1,0 +1,94 @@
+organizzazione.txt
+"membri ordinari di un gruppo o organizzazione"
+"organizzazione"
+"organizzazione"
+"organizzazione"
+"organizzazione"
+"organizzazione"
+"organizzazione aziendale"
+"organizzazione criminale"
+"Organizzazione degli stati americani"
+"Organizzazione dei paesi esportatori di petrolio"
+"organizzazione del traffico"
+"Organizzazione del Trattato Nord Atlantico"
+"organizzazione del viaggio"
+"organizzazione delle Poste"
+"organizzazione di appartenenza"
+"organizzazione di eventi"
+"organizzazione di riferimento"
+"organizzazione elettorale di partito"
+"organizzazione internazionale"
+"Organizzazione Internazionale del Lavoro"
+"organizzazione lineare"
+"Organizzazione militare Navale Speciale"
+"organizzazione non governativa"
+"organizzazione paramilitare"
+"organizzazione parti strumentali"
+"Organizzazione per la Liberazione della Palestina"
+"organizzazione politica"
+"organizzazione scientifica del lavoro"
+"organizzazione sociale, istituzione sociale"
+"sistema di controllo ed equilibrio di potere in una organizzazione"
+"sviluppo dell'organizzazione"
+*(di attività) [[preparazione]], [[disposizione]], [[programmazione]], [[pianificazione]], [[progettazione]], [[sistemazione]], [[allestimento]], [[strutturazione]], [[impostazione]], [[coordinamento]]
+*(di impresa) [[formazione]], [[fondazione]], [[creazione]]
+*(studentesca, politica, sindacale, eccetera) [[associazione]], [[organismo]], [[ente]], [[gruppo]]
+*[[ordine]], [[struttura]], [[coerenza]], [[compattezza]], [[coesione]]
+*[[riorganizzazione]]
+M>l&#8217;o</E
+M>dell&#8217;embrione</E
+M>del feto</E
+M>l&#8217;o</E
+M>degli echinodermi è diversa dall&#8217;o</E
+M>dei molluschi</E
+M>animali di basso</E
+M>alto grado di o</E
+M>passaggio di piante</E
+M>animali</E
+M>da un tipo di o</E
+M>acquatica a un tipo di o</E
+M>adatta alla vita terrestre</E
+M>di trombo</E
+M>di uno stato</E
+M>delle forze armate</E
+M>di un&#8217;amministrazione</E
+M>di un ufficio</E
+M>l&#8217;o</E
+M>dei servizî pubblici</E
+M>di un convegno</E
+M>di una mostra</E
+M>di uno spettacolo</E
+M>l&#8217;o</E
+M>amministrativa di uno stato</E
+M>di una provincia</E
+M>di un comune</E
+M>aspirare a una nuova o</E
+M>della società</E
+M>l&#8217;o</E
+M>di una fabbrica</E
+M>di un&#8217;industria</E
+M>aziendale</E
+M>del lavoro</E
+M>eccellente</E
+M>perfetta</E
+M>buona</E
+M>difettosa</E
+M>avere</E
+M>non avere o</E
+M>mancare</E
+M>difettare di o</E
+M>giovanili</E
+M>cattoliche</E
+M>sindacali</E
+M>organizzazioni di massa</E
+M>un&#8217;o</E
+M>terroristica</E
+M>delle Nazioni Unite</E
+M>internazionale del lavoro</E
+M>per l&#8217;alimentazione e l&#8217;agricoltura</E
+M>FAO</E
+M>Food and Agriculture Organization</E
+M>delle Nazioni Unite per l&#8217;educazione</E
+M>la scienza e la cultura</E
+M>UNESCO</E
+M>United Nations Educational Scientifical and Cultural Organization</E

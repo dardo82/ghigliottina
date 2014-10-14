@@ -1,0 +1,18 @@
+chitarra.txt
+"chitarra"
+"chitarra classica"
+"chitarra elettrica"
+"chitarra hawaiana"
+"harp-guitar; chitarra arpa"
+#*'''chitarra acustica'''
+#*'''chitarra elettrica'''
+*[[chitarrista]]
+*''Chitarra e schioppo fanno andare la casa a galoppo''
+M>cetra</E
+M>elettrica</E
+M>hawaiana</E
+M>basso</E
+M>contrabbasso elettrico</E
+M>spaghetti alla chitarra</E
+M>Pesce chitarra</E
+M>pesce violino</E

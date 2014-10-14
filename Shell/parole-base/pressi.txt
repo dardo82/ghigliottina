@@ -1,0 +1,8 @@
+pressi.txt
+"nei pressi"
+"nei pressi di"
+"nei pressi di"
+"pressi"
+*[[dintorno|dintorni]]
+*[[vicinanza|vicinanze]]
+*[[presso]]

@@ -1,0 +1,20 @@
+carestia.txt
+"abbondanza o carestia"
+"carestia"
+"carestia"
+*(di cibo) [[carenza]]
+*(di cibo) [[abbondanza]]
+*[[ricchezza]], [[opulenza]], [[copiosità]]
+M>caristìa</E
+M>*carestum</E
+M>carere</E
+M>di viveri</E
+M>di legna</E
+M>d’olio</E
+M>di denaro</E
+M>c’è c</E
+M>di persone oneste</E
+M> di bravi artigiani</E
+M>avere</E
+M>patire c</E
+M>di qualche cosa</E

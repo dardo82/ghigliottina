@@ -1,0 +1,27 @@
+classifica.txt
+"classifica"
+"classification, rank, placement"
+"classifica avulsa"
+"classifica avulsa"
+"parte alta della classifica"
+"posizione più alta (in una classifica)"
+*[[classificazione]]
+* [[ordine]],[[gaduatoria]],[[elenco]], [[serie]] 
+*[[classificatore]]
+M>classificazione</E
+M>individuale</E
+M>per squadre</E
+M>per nazioni</E
+M>generale</E
+M>assoluta</E
+M>per categorie</E
+M>di campionato</E
+M>graduatoria</E
+M>la c</E
+M>dei vincitori del concorso a cattedre</E
+M>essere il primo</E
+M>l’ultimo in classifica</E
+M>la c. dei libri più venduti.</E
+M>classificazione</E
+M>voto</E
+M>di segretezza</E

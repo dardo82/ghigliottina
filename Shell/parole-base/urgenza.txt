@@ -1,0 +1,26 @@
+urgenza.txt
+"fretta, urgenza"
+"massima urgenza"
+"urgenza"
+"urgenza"
+*[[premura]]
+*[[urgenzare]]
+M>urgentia</E
+M>urgens -entis</E
+M>abbiamo u. di soldi</E
+M>puoi farlo quando credi</E
+M> non c’è u.</E
+M>l’ammalato è stato ricoverato d’u. all’ospedale</E
+M>chiamare d’u. i vigili del fuoco</E
+M>è partito d’urgenza.</E
+M>provvedimenti di urgenza</E
+M>è stato immediatamente reintegrato nel posto di lavoro con provvedimento d’u. del pretore.</E
+M>procedura d’urgenza</E
+M>diritti d’urgenza</E
+M>chirurgia d’urgenza</E
+M>questo pacco va spedito con urgenza</E
+M>con u.</E
+M>urgentemente</E
+M>fare urgenza</E
+M>u. immediata</E
+M>volando</E

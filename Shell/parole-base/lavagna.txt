@@ -1,0 +1,21 @@
+lavagna.txt
+"lavagna"
+"lavagna"
+"lastra di lavagna"
+"lavagna a fogli mobili"
+"lavagna a pennarelli"
+"lavagna interattiva multimediale"
+"lavagna luminosa"
+"ricoprire di lavagna"
+* [[ardesia]]
+*italiano
+m>scrivere</e
+m>disegnare sulla l</e
+m>risolvere un problema alla lavagna</e
+m> andare alla lavagna</e
+m>luminosa</e
+m>magnetoplastica</e
+m>magnetica</e
+m>un cielo l</e
+m>color l</e
+m>riflessi grigio lavagna</e

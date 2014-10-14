@@ -1,0 +1,29 @@
+ristorante.txt
+"bar ristorante"
+"corteggiare qualcuno portandolo in un buon ristorante"
+"mangiare al ristorante"
+"prenotazione al ristorante"
+"ristorante"
+"ristorante di carne alla griglia"
+"ristorante drive-in"
+"ristorante economico"
+"ristorante pizzeria"
+"vagone ristorante"
+"vagone ristorante"
+"vettura ristorante, carrozza ristorante"
+*[[trattoria]], tavola calda,  [[osteria]], [[locanda]]
+*italiano
+M>ristorare</E
+M>restaurant</E
+M>trattoria</E
+M>mangiare al r</E
+M>il r</E
+M>della stazione</E
+M>dell&#8217;aeroporto</E
+M>di una nave</E
+M>caffè r</E
+M>albergo r</E
+M>carrozza</E
+M>vettura</E
+M>vagone</E
+M>siamo stati a un ristorantino niente male</E

@@ -1,0 +1,39 @@
+erotico.txt
+"erotico"
+"materiale erotico"
+"materiale erotico"
+"romanzo erotico"
+#*''sogno '''erotico'''.''
+*[[amoroso]], [[sessuale]], [[carnale]]
+*[[sensuale]], [[erotizzante]], [[eccitante]], [[libidinoso]], [[lussurioso]], [[voluttuoso]]; [[osceno]], [[pornografico]], [[porno]], [[indecente]], [[spinto]], [[licenzioso]], [[lascivo]], [[lubrico]]
+*[[afrodisiaco]], [[amatorio]]
+*[[casto]], [[pudico]]
+*[[erotismo]]
+M>erot</E
+M>cus</E
+M>érotique</E
+M>desiderî e</E
+M>l’impulso e</E
+M>mania e</E
+M>delirio erotico</E
+M>tipo</E
+M>temperamento erotico</E
+M>trattare argomenti e</E
+M>fare discorsi e</E
+M>libri</E
+M>racconti e</E
+M>letteratura e</E
+M>pubblicazioni e</E
+M>film</E
+M>spettacoli e</E
+M>disegni e</E
+M>arte e</E
+M>scrittore</E
+M>poeta e</E
+M>gli e</E
+M>greci</E
+M>cibo e</E
+M>bevanda e</E
+M>danze erotiche</E
+M>racconti di ambiente cortigiano</E
+M>eroticamente trasposti sullo schermo</E

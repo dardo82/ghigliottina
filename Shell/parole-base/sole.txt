@@ -1,0 +1,255 @@
+sole.txt
+"al sorgere del sole"
+"allo spuntare del sole"
+"alzarsi (di sole); diventare intenso"
+"avere il sole negli occhi"
+"bello come il sole"
+"colpi di sole"
+"colpo di sole"
+"con il sole"
+"culto del sole"
+"dove non batte il sole"
+"esporre al sole"
+"gara tra due sole macchine"
+"gare tra due sole macchine"
+"green flash (del sole)"
+"il Sole della Rettitudine"
+"il sole picchia"
+"il sole splende"
+"il tramontare (del sole)"
+"la stella del mattino; il sole (poesia)"
+"lasciare asciugare vestiti al sole"
+"lato esposto al sole"
+"le immagini parlano da sole"
+"niente di nuovo sotto il sole"
+"occhiali da sole"
+"occhiali da sole"
+"ombrello da sole"
+"pieno sole"
+"prendere il sole"
+"protezione contro il sole"
+"raggio di sole"
+"riunione di sole donne (fam.)"
+"scaldarsi al sole"
+"sole"
+"sole"
+"sole"
+"sole"
+"sole a picco, sole a piombo"
+"sole di mezzanotte"
+"sole di mezzogiorno"
+"sole in Capricorno,  segno della Capra"
+"sotto il sole"
+"tenda da sole"
+"ultimo bagliore del sole"
+"un posto al sole"
+"un posto al sole"
+"un sole che spacca le pietre"
+"un sole della madonna"
+"uno spicchio di sole"
+"vedere il sole a scacchi"
+*[[parasole]]
+*''colpo di sole''
+*''chi sta vicino al sole si riscalda''
+M>l s</E
+M>lis</E
+M>stella nana media</E
+M>modello standard del S.</E
+M>nucleo</E
+M>zona radiativa</E
+M>zona convettiva</E
+M>fotosfera</E
+M>granulazione solare</E
+M>macchie solari</E
+M>cromosfera</E
+M>corona</E
+M>atmosfera solare</E
+M>protuberanze</E
+M>brillamenti</E
+M>strato invertente</E
+M>corona</E
+M>pennacchi</E
+M>vento solare</E
+M>attività solare</E
+M>Sole attivo</E
+M>Sole quieto</E
+M>Sole</E
+M>luna</E
+M>il disco</E
+M>i raggi del s.</E
+M>il giro</E
+M>moto di rivoluzione</E
+M> della Terra intorno al S.</E
+M>il moto apparente del S. intorno alla Terra</E
+M>sotto il s.</E
+M>niente di nuovo sotto il s.</E
+M>nihil sub sole novi</E
+M>s. di mezzanotte</E
+M>il S. entra</E
+M>si trova in Ariete</E
+M>nella Libra</E
+M>in Capricorno</E
+M>il s. sorge</E
+M>nasce</E
+M>spunta</E
+M>si leva</E
+M>si alza</E
+M>il s. è alto sull&#8217;orizzonte</E
+M>il s. tramonta</E
+M>cala</E
+M>scende</E
+M>cade</E
+M>declina</E
+M>si corica</E
+M>muore</E
+M>va giù</E
+M>va sotto</E
+M>Sorge il mattino in compagnia dell&#8217;alba Innanzi al sol</E
+M> che di poi grande appare Su l&#8217;estremo orizzonte</E
+M>il sorgere</E
+M>la levata del s.</E
+M>il tramonto</E
+M>il cadere</E
+M>la caduta</E
+M>del s.</E
+M>mettersi in cammino al levar del s.</E
+M>coricarsi al calar del s.</E
+M>il sol levante</E
+M>il s. oriente</E
+M>il s. occidente</E
+M>S. fittizio</E
+M>S. medio</E
+M>sole</E
+M>stella</E
+M>nell&#8217;universo ci sono infiniti altri soli</E
+M>c&#8217;è</E
+M>non c&#8217;è s.</E
+M>c&#8217;è un bel s.</E
+M>c&#8217;è poco s.</E
+M>una giornata senza s.</E
+M>piena di s.</E
+M>non c&#8217;è sabato senza s.</E
+M>quando piove e c&#8217;è il s.</E
+M> il diavolo fa all&#8217;amore</E
+M>s. fulgido</E
+M>splendente</E
+M>sfolgorante</E
+M>raggiante</E
+M>pallido</E
+M>velato</E
+M>un raggio di s.</E
+M>un occhio di s.</E
+M>il riflesso</E
+M>il riverbero del s.</E
+M>vedere il s. a scacchi</E
+M>tornare a rivedere il s.</E
+M>occhiali da s.</E
+M>è chiaro come il s.</E
+M>è più chiaro del s.</E
+M>luce</E
+M>sole</E
+M>la luce del s.</E
+M>amare come la luce del s.</E
+M>agire alla luce del s.</E
+M>del giorno</E
+M>scaldarsi al s.</E
+M>un s. rovente</E
+M>che brucia</E
+M>che scotta</E
+M>un tiepido s. di primavera</E
+M>la vampa del s.</E
+M>nel tempo d&#8217;està</E
+M> che erano già l&#8217;erbe secche dagli accesi Soli</E
+M>i s. cocenti dell&#8217;Africa</E
+M>i miti s. delle regioni mediterranee</E
+M>prendere il s.</E
+M>hai preso troppo s.</E
+M>abbronzarsi al s.</E
+M>come picchia il s. oggi!</E
+M>ripararsi dal s.</E
+M>ombrellino</E
+M>ombrellone da s.</E
+M>fare la cura del s.</E
+M>fare i bagni di s.</E
+M>colpo di s.</E
+M>stare</E
+M>mettersi al s.</E
+M>sdraiarsi al s.</E
+M>lèvati dal s.</E
+M>Zufola e soffia il serpe per la biscia</E
+M> Mentre ella con tre lingue al sol si liscia</E
+M>paesi del s.</E
+M>terre del s.</E
+M>autostrada del S.</E
+M>tu onore di pianti</E
+M> Ettore</E
+M> avrai ... finché il Sole Risplenderà su le sciagure umane</E
+M>il s. meridiano</E
+M>il s. di gennaio</E
+M>di luglio</E
+M>d&#8217;agosto</E
+M>vendere il sol di luglio</E
+M>farsi onore</E
+M>farsi bello</E
+M>del sol di luglio</E
+M>casa</E
+M>stanza</E
+M>giardino pieni di s.</E
+M>casa esposta al s.</E
+M>dove entra il s. non entra il medico</E
+M>una zona dove batte</E
+M>dove non batte mai</E
+M>il s.</E
+M>dove non batte il s.</E
+M>gli diede un calcio dove non batte il s.</E
+M>avere qualcosa al s.</E
+M>questa buona gente son risoluti d&#8217;andare a metter su casa altrove</E
+M> e di vender quel poco che hanno al s. qui</E
+M>avere</E
+M>pretendere</E
+M>conquistarsi un posto al s.</E
+M>mettere le radici</E
+M>le barbe</E
+M>al s.</E
+M>mettere le scarpe al s.</E
+M>quattro soli e altretante lune il mio corpo né da cibo né da sonno fu riconfortato</E
+M>nel seguente sole Giunsero al fiume</E
+M>Intero un s. al lagrimar si doni</E
+M>al nuovo s.</E
+M>Goffredo alloggia ne la terra</E
+M> e vòle Rinovar poi l&#8217;assalto al novo s.</E
+M>Poi appresso convien che questa caggia Infra tre soli</E
+M>lasciato nell&#8217;isola del foco</E
+M> quivi nutricato da erbe ... vidi più soli in molta miseria</E
+M>una fanciulla bella come il s.</E
+M>che è un raggio di s.</E
+M>un vero s.</E
+M>Uno spirto celeste</E
+M>un vivo sole Fu quel ch&#8217;i&#8217; vidi</E
+M>la sua figura brilla</E
+M>splende come un s.</E
+M>Re Sole</E
+M>è il mio s.</E
+M>il suo s.</E
+M>meglio è morire</E
+M> Che senza te</E
+M> mio sol</E
+M> viver poi cieco</E
+M>Così mi disse il sol de li occhi miei</E
+M>sommo S.</E
+M>S. di giustizia</E
+M>Ringrazia il Sol de li angeli</E
+M>Vergine bella</E
+M> che di sol vestita</E
+M> Coronata di stelle</E
+M> al sommo Sole Piacesti</E
+M>cielo del S.</E
+M>il s. della libertà</E
+M>il s. dell&#8217;avvenire</E
+M>Inno dei lavoratori</E
+M>Gazzettino rosa</E
+M>Sotto duo negri e sottilissimi archi Son duo negri occhi</E
+M> anzi duo chiari soli</E
+M>Monte del S.</E
+M>Pietra di s.</E
+M>avventurina</E

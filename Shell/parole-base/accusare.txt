@@ -1,0 +1,66 @@
+accusare.txt
+"accusare"
+"accusare"
+"accusare"
+"accusare"
+"accusare, replace: accusarsi"
+"accusare, replace: accusarsi"
+"accusare di"
+"accusare falsamente qualcuno di razzismo a proprio vantaggio"
+"accusare il colpo"
+"accusare qcn di qcs"
+"accusare ricevuta"
+"accusare ricevuta di"
+"rinfacciare qcs a qc, accusare qc di qcs"
+#* ''accusare qualcuno di un reato''
+#* ''accusava stanchezza ; accusare ricevuta''
+#* accusare tre re
+*[[incolpare]]
+*''(burocrazia)'' [[notificare]]
+*[[scagionare]]
+*[[accusarsi]], [[autoaccusarsi]]
+M>accusare</E
+M>causa</E
+M>scusare</E
+M>nelle note informative</E
+M>il direttore lo accusava di eccessiva negligenza</E
+M>qualcuno d’aver rubato</E
+M>di aver ucciso</E
+M>fu accusato di omicidio</E
+M>di furto</E
+M>di peculato</E
+M>lo accusarono dei più orribili delitti</E
+M>uno di pigrizia</E
+M>d’indolenza</E
+M>non puoi a</E
+M>altri che te della tua attuale situazione</E
+M>la propria dappocaggine</E
+M>la sorte</E
+M>il caso</E
+M>si è accusato di un furto che non ha commesso</E
+M>Ivi accusando il fugitivo raggio</E
+M>A le lagrime triste allargai ’l freno</E
+M>E l’immonda</E
+M>accusar col luttuoso Singulto i rai</E
+M>di che son pie le stelle Alle obbliate sepolture</E
+M>un disturbo</E
+M>un dolore al piede</E
+M>il ricevimento di una lettera</E
+M>ricevuta</E
+M>il colpo</E
+M>i proprî peccati</E
+M>i suoi capelli</E
+M>benché imprigionati da un pettine</E
+M>accusavano il sonno recente</E
+M>il suo aspetto accusava stanchezza</E
+M>coloro</E
+M>che il vestiario</E
+M>la capigliatura</E
+M>le bisacce</E
+M>accusavano di stranieri</E
+M>l’asso</E
+M>una napoletana</E
+M>imputato</E
+M>tutti gli accusati furono assolti</E
+M>l’accusata sosteneva la propria innocenza</E
+M>essere costretto a presentarsi in veste di accusato</E

@@ -1,0 +1,13 @@
+budino.txt
+"budino"
+"budino al cioccolato"
+"budino alla vaniglia"
+"budino di pane"
+"budino natalizio di prugne tradizionale in Inghilterra"
+*[[dolce]], [[sformato]], [[timballo]], [[pasticcio]], [[bomba]]
+*[[budinoso]]
+M>pudding</E
+M>boudin</E
+M>il b</E
+M>dolce col sangue</E
+M>cecale</E

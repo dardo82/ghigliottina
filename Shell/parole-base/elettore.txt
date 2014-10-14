@@ -1,0 +1,17 @@
+elettore.txt
+"elettore"
+"elettore per corrispondenza"
+*[[votante]]
+M>trice</E
+M>elector</E
+M>oris</E
+M>elig</E
+M>electus</E
+M>lista degli e</E
+M>essere</E
+M>non essere e</E
+M>né elettori né eletti</E
+M>prìncipi elettori</E
+M>Grande e</E
+M>grande e</E
+M>grandi e</E

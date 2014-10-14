@@ -1,0 +1,148 @@
+cassa.txt
+"assegno di cassa"
+"bancomat, cassa continua"
+"batter cassa"
+"battere cassa"
+"cassa"
+"cassa"
+"cassa"
+"cassa"
+"cassa"
+"cassa"
+"cassa"
+"cassa"
+"cassa"
+"cassa acustica"
+"cassa audio"
+"cassa contenente oggetti e documenti dell'epoca attuale nascosta come testimonianza per epoche futur"
+"cassa da corredo"
+"cassa da imballaggio"
+"cassa da imballaggio"
+"cassa da morto"
+"cassa da tè"
+"cassa da tè"
+"cassa del tesoro"
+"cassa di"
+"cassa di risonanza"
+"cassa di risparmio"
+"cassa di supermercato"
+"cassa edile"
+"cassa integrazione"
+"cassa mutua"
+"cassetto della cassa"
+"contabilità di cassa"
+"conto di cassa"
+"credito per cassa"
+"fare la coda alla cassa"
+"flusso di cassa"
+"fondo cassa per piccole spese"
+"gestire la cassa contanti"
+"la cassa"
+"libro cassa"
+"mettere i soldi in cassa."
+"pagare alla cassa"
+"pannello di cassa"
+"principio di cassa"
+"quadratura di cassa"
+"registratore di cassa"
+"registratore di cassa"
+*[[cassaforte]], [[cassapanca]], [[grancassa]]
+*[[controcassa]]
+*italiano
+M>capsa</E
+M>cap</E
+M>da imballaggio</E
+M>una c</E
+M>di vestiti</E
+M>la c</E
+M>delle munizioni</E
+M>da morto</E
+M>cassa</E
+M>ho venduto due c</E
+M>di libri</E
+M>casse zavorra</E
+M>cisterne</E
+M>d’assetto</E
+M>antirollanti</E
+M>di compenso</E
+M>d’aria</E
+M>d’aria</E
+M>polmone</E
+M>mobile</E
+M>contenitore</E
+M>container</E
+M>di colmata</E
+M>dell’orologio</E
+M>di risonanza</E
+M>armonica</E
+M>Il manicomio è una grande c. di risonanza E il delirio diventa eco L’anonimità misura</E
+M>la c</E
+M>del violino</E
+M>della chitarra</E
+M>del pianoforte</E
+M>gran c</E
+M>acustica</E
+M>del petto</E
+M>toracica</E
+M>gabbia toracica</E
+M>del timpano</E
+M>della carrucola</E
+M>della bilancia</E
+M>della macina</E
+M>battente</E
+M>battente</E
+M>unghiatura</E
+M>della carrozza</E
+M>cassa</E
+M>tipografica</E
+M>cassettini</E
+M>caratteri di cassa</E
+M>caratteri di macchina</E
+M>muro a c</E
+M>vuota</E
+M>non ci sono denari in cassa</E
+M>ferrata</E
+M>libro di c</E
+M>libro cassa</E
+M>libri cassa</E
+M>fondo di c</E
+M>resto di c</E
+M>vuoto di c</E
+M>tenere la c</E
+M>batter c</E
+M>pagamento a pronta c</E
+M>pagamento a c</E
+M>fulminante</E
+M>prontissima</E
+M>ufficio cassa</E
+M>contanti</E
+M>cambiali</E
+M>valute</E
+M>cambio</E
+M>titoli</E
+M>introiti</E
+M>pagamenti</E
+M>C. continua</E
+M>deposito</E
+M>entrata</E
+M>esazioni</E
+M>introiti</E
+M>versamenti</E
+M>pagamenti</E
+M>prelevamenti</E
+M>uscita</E
+M>servizio di c</E
+M>di Risparmio</E
+M>marittima</E
+M>scolastica</E
+M>per il Mezzogiorno</E
+M>mutua</E
+M>integrazione</E
+M>malattia</E
+M>casse malattia</E
+M>essere</E
+M>mettere</E
+M>mettersi in cassa malattia</E
+M>in cassa integrazione</E
+M>essere in cassa</E
+M>sotto cassa</E

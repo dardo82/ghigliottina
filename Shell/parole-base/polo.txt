@@ -1,0 +1,47 @@
+polo.txt
+"da un polo all'altro"
+"del polo nord"
+"maglietta polo"
+"polo shirt"
+"Marco Polo"
+"Polo"
+"Marco Polo"
+"polo"
+"polo"
+"polo"
+"polo"
+"polo"
+"polo"
+"polo"
+"polo"
+"polo shirt"
+"polo (magnetico)"
+"polo celeste"
+"polo di competenza"
+"polo di maggioranza"
+"polo di ricerca"
+"polo didattico"
+"polo espositivo"
+"polo fieristico"
+"polo magnetico"
+"polo museale"
+"polo nord"
+"Polo Nord"
+"polo ricettivo"
+"polo sanitario di eccellenza"
+"polo scolastico"
+"Polo Sud"
+"polo tecnologico"
+"polo telefonico"
+"polo telegrafico"
+"polo turistico"
+"polo universitario"
+"venderebbe il ghiaccio al polo nord"
+#*''il polo sud si trova in Antartide''
+*[[maglietta]]
+*regione polare
+*(di attività omogenee) [[capo]], [[fulcro]], punto focale, [[fondamento]], [[antitesi]], centro di attrazione, [[modello]], [[cuore]], [[cardine]]
+*(di terremoto) [[epicentro]]
+*[[estremo]] 
+*''(industriale, economico e sim.)'' [[centro]], [[epicentro]]
+*Enciclopedia [http

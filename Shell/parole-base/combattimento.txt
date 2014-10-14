@@ -1,0 +1,75 @@
+combattimento.txt
+"arte del combattimento..."
+"ascia da combattimento"
+"combattimento"
+"combattimento"
+"combattimento"
+"combattimento"
+"combattimento a terra"
+"combattimento aereo"
+"combattimento aereo"
+"combattimento armato"
+"combattimento cani contro orso"
+"combattimento di fanteria"
+"combattimento di galli"
+"combattimento di mezzi corazzati"
+"combattimento fra galli"
+"combattimento fra galli"
+"fuori combattimento"
+"gallo da combattimento"
+"gallo da combattimento"
+"jet da combattimento"
+"linea di combattimento"
+"macchina da combattimento"
+"pilota da combattimento"
+"pilota da combattimento"
+"posti di combattimento"
+"pronto al combattimento"
+"schieramento di combattimento"
+"simulazione di combattimento"
+"stivali da combattimento"
+"trauma da combattimento"
+"unità di combattimento"
+"volo da combattimento"
+"zona di combattimento"
+#*[[sport]] di [[combattimento]]
+*[[combattere]]
+M>terrestre</E
+M>aereo</E
+M>navale</E
+M>impegnare un c</E
+M>ci fu</E
+M>avvenne</E
+M>seguì un c</E
+M>un aspro c</E
+M>un c</E
+M>accanito</E
+M>addestrarsi</E
+M>esercitarsi al c</E
+M>morire in combattimento</E
+M>il c</E
+M>dei galli</E
+M>galli da combattimento</E
+M>il c</E
+M>con il toro nell’arena</E
+M>Fuori combattimento</E
+M>knock</E
+M>out</E
+M>kappaò</E
+M>mettere fuori c</E
+M>l’avversario</E
+M>vincere</E
+M>perdere per fuori c</E
+M>fuori c</E
+M>tecnico</E
+M>vincere</E
+M>perdere per fuori c</E
+M>tecnico</E
+M>mettere fuori c</E
+M>mettere una nave fuori c</E
+M>mettere fuori c</E
+M>un oggetto</E
+M>una bicicletta</E
+M>una seggiola</E
+M>chi può immaginare i c</E
+M>di quell’animo</E

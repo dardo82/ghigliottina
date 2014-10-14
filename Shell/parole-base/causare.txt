@@ -1,0 +1,26 @@
+causare.txt
+"causare"
+"causare angoscia"
+"causare disagio"
+"causare distruzioni"
+"causare distruzioni su"
+"causare dolore"
+"causare dolore"
+"causare guai"
+"causare perplessità"
+"concorrere a realizzare, concorrere a causare"
+"suscitare, provocare, causare"
+* [[arrecare]], [[provocare]], [[produrre]], [[generare]]
+* [[causa]]
+M>causari</E
+M>causare</E
+M>causa</E
+M>io càu</E
+M>danni</E
+M>uno scandalo</E
+M>la sua incoscienza ha causato la nostra rovina</E
+M>lo scontro fu causato da un errore di manovra</E
+M>sono distrazioni da cui potrebbero causarsi serî malanni</E
+M>causa causante</E
+M>la causante</E
+M>causale</E

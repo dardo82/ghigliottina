@@ -1,0 +1,14 @@
+insospettire.txt
+"insospettire"
+"insospettire, replace: insospettirsi"
+M>sospetto</E
+M>io insospettisco</E
+M>tu insospettisci</E
+M>il suo strano contegno ha finito con l’insospettirmi</E
+M>le frequenti contraddizioni del testimone avevano insospettito gli inquirenti</E
+M>essere</E
+M>è un uomo assai diffidente e</E
+M>insospettisce subito</E
+M>la selvaggina</E
+M>al minimo rumore</E
+M>s’insospettisce e fugge</E

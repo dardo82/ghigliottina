@@ -1,0 +1,51 @@
+variazione.txt
+"variazione"
+"variazione di marea, intervallo di marea"
+"variazione di programma"
+"variazione magnetica"
+"variazione sul tema"
+#*fa continue '''variazioni''' nei proponimenti
+*[[modificazione]], [[mutamento]], [[mutazione]],[[cambiamento]], [[diversificazione]], [[diversità]], [[differenza]], [[trasformazione]], [[modifica]], [[alterazione]], [[variante]]
+*[[ritocco]], [[correzione]], [[emendamento]], [[rettifica]] 
+*[[invariabilità]], [[immutabilità]], [[uguaglianza]], [[identità]]
+*''calcolo delle '''variazioni'''''
+M>variatio -onis</E
+M>variare</E
+M>variare</E
+M>introdurre qualche v. nel programma di una cerimonia ufficiale</E
+M>nel menù di una cena</E
+M>vorrei apportare lievi v. al percorso</E
+M>all’itinerario stabilito</E
+M>fino al 31 maggio l’orario dei treni non subirà variazioni</E
+M>la nuova confezione è posta in vendita senza v. di prezzo</E
+M>si prevede qualche v. nella composizione del consiglio dei ministri</E
+M>tema con variazioni</E
+M>Variazioni su un tema di Haydn</E
+M>33 Variazioni su un Valzer di Diabelli</E
+M>variazioni sul tema di</E
+M>variare</E
+M>v. climatiche di una regione</E
+M>brusche v. di temperatura</E
+M>nel suo comportamento vi sono delle v. sorprendenti</E
+M>v. di esercizio</E
+M>di bilancio</E
+M>v. di conto</E
+M>v. numerarie certe</E
+M>assimilate</E
+M>presunte</E
+M>ruolo di variazione</E
+M>v. glaciali</E
+M>variazioni di segno</E
+M>V. di una funzione</E
+M>Calcolo delle v.</E
+M>geodetica</E
+M>campo di v.</E
+M>di variabilità</E
+M>v. continua</E
+M>v. discontinua</E
+M>la v. delle piante e degli animali in domesticità</E
+M>variazione di fase</E
+M>movimenti di v.</E
+M>v. di una bussola</E
+M>con li occhi passai Di là dal fiumicello</E
+M> per mirare La gran varïazion d’i freschi mai</E

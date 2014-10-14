@@ -1,0 +1,122 @@
+norma.txt
+"a norma"
+"a norma di"
+"a norma di legge"
+"a norma di legge"
+"adeguamento a norma"
+"al di sotto della norma"
+"buona norma"
+"deviazione dalla norma"
+"abnormality"
+"deviazione dalla norma"
+"abnormality"
+"di norma"
+"by custom Also: solitamente, normalmente"
+"fuori dalla norma"
+"garanzia a norma di legge"
+"impianto a norma"
+"non a norma"
+"norma"
+"norma"
+"norma"
+"norma"
+"norma di un vettore"
+"norma giuridica"
+"norma in una polizza che prevede il pagamento di una parte del danno da parte dell'assicurato"
+"norma iso"
+*''(di comportamento, condotta)''
+*''(di uso, manutenzione)'' [[indicazione]], [[avvertenza]], [[istruzione]]
+*[[precetto]]
+*[[eccezione]]
+*(1) [[regola]], [[regolamento]], [[precetto]]
+*(2) [[istruzione]], [[avvertenza]]
+*(3) [[consuetudine]]
+*[[di norma]], [[normale]]
+*[[normalis]],[[normatio]],[[normo]]
+*italiano
+*latino
+M>norma</E
+M>fare a norma</E
+M>didattiche</E
+M>ortografiche</E
+M>sportive</E
+M>di navigazione</E
+M>le n</E
+M>per la correzione delle bozze</E
+M>morale</E
+M>giuridiche</E
+M>cogenti</E
+M>costitutive</E
+M>di competenza</E
+M>dispositive</E
+M>suppletive</E
+M>innovative</E
+M>interpretative</E
+M>precettive</E
+M>primarie</E
+M>secondarie</E
+M>permissive</E
+M>perfette</E
+M>imperfette</E
+M>fondamentale</E
+M>Grundnorm</E
+M>fissare</E
+M>applicare</E
+M>osservare</E
+M>rispettare</E
+M>trasgredire una n</E
+M>prendere a norma una persona</E
+M>questo vi sia</E
+M>vi serva di norma</E
+M>per vostra n</E
+M>e regola</E
+M>decido da me</E
+M>a norma di</E
+M>a n</E
+M>di legge</E
+M>a n</E
+M>del decreto</E
+M>a n</E
+M>dell’art</E
+M>12 del regolamento</E
+M>tecniche di costruzione</E
+M>elementi rispondenti a n</E
+M>internazionali di unificazione</E
+M>bisogna interpretare il senso profondo e non fermarsi alla lettera della n</E
+M>un breviario di n</E
+M>estetiche</E
+M>leggere attentamente le n</E
+M>d’uso e di manutenzione</E
+M>attenersi alla n</E
+M>seguire</E
+M>non seguire la n</E
+M>rientrare nella n</E
+M>uscire dalla n</E
+M>è n</E
+M>comune in questi casi</E
+M>come di norma</E
+M>essere in norma</E
+M>Vittore da la Vigna</E
+M>il quale per qualche altro suo misfatto era in n</E
+M>appresso a la giustizia</E
+M>questo Torres era anco in n</E
+M>del Simoneta</E
+M>particolarmente per aver scritto contra il Catarino</E
+M>con termini</E
+M>diceva quel cardinale</E
+M>insolenti</E
+M>segnatura</E
+M>Enciclopedia Italiana</E
+M>norma del cranio</E
+M>frontale</E
+M>occipitale</E
+M>verticale</E
+M>basilare</E
+M>sagittale</E
+M>molecolare</E
+M>modo</E
+M>norma</E
+M>x + iy</E
+M>di un vettore</E
+M>spazio normato</E
+M>moda</E

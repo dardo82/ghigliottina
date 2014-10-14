@@ -1,0 +1,20 @@
+abitazione.txt
+"abitazione"
+"abitazione in comune"
+"civile abitazione"
+"occupare illegalmente un'abitazione"
+*[[casa]], [[dimora]], [[alloggio]], [[domicilio]], [[residenza]], [[appartamento]], [[soggiorno]], [[sede]]
+*[[caro-abitazione]]
+*Enciclopedia [http
+M>habitatio</E
+M>onis</E
+M>zona adatta</E
+M>inadatta all’a</E
+M>case d’a</E
+M>case di civile a</E
+M>zona priva di a.</E
+M>igiene dell’a</E
+M>urbane</E
+M>rurali</E
+M>lussuosa</E
+M>modesta</E

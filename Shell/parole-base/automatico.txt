@@ -1,0 +1,54 @@
+automatico.txt
+"annaffiatore automatico"
+"arresto automatico"
+"automatico"
+"automatico"
+"automatico"
+"automatico"
+"fucile automatico"
+"avere nel campo visivo e seguire in modo automatico un obiettivo"
+"avviamento automatico"
+"cambio automatico"
+"centralino automatico"
+"controllo automatico"
+"controllo automatico del guadagno"
+"controllo automatico di velocità"
+"dispositivo automatico"
+"distributore automatico"
+"distributore automatico"
+"fucile automatico"
+"in modo automatico"
+"inizio di corsa o battuta di caccia, fermo automatico"
+"interruttore automatico"
+"interruttore automatico"
+"messaggio automatico"
+"pilota automatico"
+"pilota automatico"
+"pilota automatico"
+"sistema automatico"
+"telefono automatico"
+M>automato</E
+M>automa</E
+M>interruttore elettrico a</E
+M>tornio a</E
+M>telefono a</E
+M>a selezione a</E
+M>distributore a</E
+M>di biglietti</E
+M>di sigarette</E
+M>di bevande</E
+M>autovettura con cambio a</E
+M>bilancia a</E
+M>controllo a</E
+M>Armi a</E
+M>bottone a</E
+M>un automatico</E
+M>matita a</E
+M>lapis a</E
+M>Atti a</E
+M>Movimenti a</E
+M>Rilevazione a</E
+M>riflessa</E
+M>Scrittura a</E
+M>il numero scatta automaticamente</E
+M>si tolse automaticamente il cappello</E

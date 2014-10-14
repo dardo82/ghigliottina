@@ -1,0 +1,271 @@
+gas.txt
+"(camino) a gas"
+"gas log"
+"a gas"
+"gas-fired"
+"a gas elettrico"
+"gas-electric"
+"a gas ossigeno"
+"gas-oxygen"
+"a gas, caricato a gas"
+"gas-filled"
+"accendino a gas"
+"gas lighter"
+"analizzatore di gas"
+"gas analyzer"
+"andare a tutto gas"
+"apparecchio per riscaldamento a gas"
+"gas fitting"
+"arma a recupero di gas"
+"gas-operated"
+"attacco con gas tossici"
+"gas attack"
+"bombola di gas"
+"gas cylinder"
+"bruciatore di gas; becco a gas"
+"gas burner"
+"camera a gas"
+"gas chamber"
+"camera a gas"
+"the gas chamber"
+"caminetto a gas"
+"gas fireplace"
+"cappa di gas (in giacimento petrolifero)"
+"gas cap"
+"carbone da gas"
+"gas coal"
+"caricato a gas"
+"gas-charged"
+"che brucia gas, a gas"
+"gas-burning"
+"che produce gas, gassogeno"
+"gas-producing"
+"compagnia del gas"
+"gas company"
+"con apparecchio per riscaldamento a gas"
+"gas-fitting"
+"con luce a gas"
+"gas-light"
+"conduttura del gas"
+"gas main"
+"conduttura del gas"
+"gas pipeline"
+"contatore del gas"
+"gas meter"
+"costante del gas"
+"gas constant"
+"cromatografia gas-liquido (GLC)"
+"gas-liquid chromatography"
+"cucina a gas"
+"gas range"
+"cucina a gas"
+"gas cooker"
+"dare gas"
+"put one's foot down, step on the gas, floor it"
+"emissioni di gas di scarico"
+"esplosione di gas"
+"gas explosion"
+"essere alla canna del gas"
+"fornace a gas"
+"gas furnace"
+"fornello a gas"
+"gas cooker"
+"forno a gas"
+"gas oven"
+"gas"
+"gas"
+"gas artificiale"
+"manufactured gas"
+"gas combustibile"
+"burner gas"
+"gas cosmico"
+"cosmic gas"
+"gas d'acqua"
+"water gas"
+"gas di carbone"
+"coal gas"
+"gas di petrolio liquefatto"
+"liquefied petroleum gas"
+"gas di scarico"
+"exhaust gas"
+"gas elettronico"
+"electron gas"
+"gas esilarante"
+"laughing gas"
+"gas inerte"
+"inert gas"
+"gas lacrimogeno"
+"tear gas"
+"gas lacrimogeno"
+"tear-gas"
+"gas lacrimogeno"
+"teargas"
+"gas liquido"
+"bottled gas"
+"gas mefitico"
+"sewer gas"
+"gas naturale"
+"natural gas"
+"gas nervino"
+"nerve gas"
+"gas nobile"
+"noble gas"
+"gas O3"
+"O3 gas"
+"gas ozono"
+"ozone gas"
+"gas perfetto"
+"ideal gas"
+"gas perfetto"
+"perfect gas"
+"gas serra"
+"gas carbon"
+"gas serra"
+"greenhouse gases"
+"gas tossico"
+"poison gas"
+"gas-cancrena"
+"gas gangrene"
+"gas: gruppo di acquisto solidale"
+"generatore di gas"
+"gas generator"
+"impianti a gas"
+"gas fittings"
+"impianto a gas"
+"gas plant"
+"lampada a gas"
+"gas lamp"
+"legge dei gas"
+"gas law"
+"legge dei gas perfetti"
+"ideal gas law"
+"leggi dei gas"
+"gas laws"
+"motore a gas"
+"gas engine"
+"motore a gas"
+"gas motor"
+"motore a turbina a gas"
+"gas turbine engine"
+"officina del gas"
+"gasworks"
+"perdere il gas, sgasarsi, diventare sgasato"
+"pozzo di gas"
+"gas well"
+"rifornire di gas; di benzina"
+"gas up"
+"rilevatore di gas"
+"gas detector"
+"riscaldamento a gas"
+"gas heat"
+"riscaldamento a gas"
+"gas heating"
+"riscaldamento a gas naturale"
+"gas-heat"
+"riscaldato a gas"
+"gas-heated"
+"saldatura a gas"
+"gas welding"
+"scaldabagno a gas"
+"gas water heater"
+"serbatoio del gas"
+"gas tank"
+"spingere sul gas"
+"step on the gas"
+"stufa a gas"
+"gas stove"
+"stufa; scaldabagno a gas"
+"gas heater"
+"teoria cinetica dei gas"
+"kinetic theory of gases"
+"test sulla sicurezza del gas"
+"gas testing"
+"tubazione del gas"
+"gas tube"
+"tubo; conduttura del gas"
+"gas pipe"
+"turbina a gas"
+"gas turbine"
+"zona ricca di gas nel sottosuolo"
+"gas field"
+* gas illuminante,  gas combustibile,  [[metano]].
+* ''(materia allo stato aeriforme)'' [[aeriforme]]
+* ''(miscela esplosiva di aria e carburante)'' [[miscela]]
+* ''(materia allo stato aeriforme)'' [[condensato]]
+*[[gasare]] o [[gassare]], [[gasato]] o [[gassato]], [[gasdinamica]], [[gasdotto]], [[gasista]] o [[gassista]], [[gasogeno]] o [[gassogeno]], [[gasolina]], [[gasolio]], [[gasometro]] o [[gassometro]] o [[gazometro]], [[gasosa]] o [[gassosa]] o [[gazzosa]], [[gassificare]],[[gassoso]]
+*[[liquido]], [[solido]]
+*  '' a tutto 
+* ''mettere la pentola sul 
+* ''chiudere il 
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 887
+*AA.VV. ''Dizionario etimologico'', edizione 2004,ristampa 2008, RusconiLibri, p.&nbsp;280
+m>chaos</e
+m>gassoso</e
+m>aeriforme</e
+m>gas</e
+m>vapore</e
+m>Gas perfetto</e
+m>ideale</e
+m>gas reale</e
+m>gas naturali</e
+m>umidi</e
+m>secchi</e
+m>acidi</e
+m>dolci</e
+m>magmatici</e
+m>vulcanici</e
+m>gas nobili</e
+m>gas permanenti</e
+m>incoercibili</e
+m>g. serra</e
+m>gas d&rsquo;acqua</e
+m>gas blu</e
+m>gas d&rsquo;altoforno</e
+m>gas di città</e
+m>gas illuminante</e
+m>gas luce</e
+m>gas di cokeria</e
+m>gas di legno</e
+m>gas liquefatti</e
+m>gas liquidi</e
+m>gas d&rsquo;olio</e
+m>gas di raffineria</e
+m>gas di reforming</e
+m>gas di resina</e
+m>gas di sintesi</e
+m>gas tonante</e
+m>gas di cappa</e
+m>gas di soluzione</e
+m>gas di guerra</e
+m>gas asfissianti</e
+m>lacrimogeni</e
+m>gas nervino</e
+m>gas di miniera</e
+m>grisou</e
+m>gas delle paludi</e
+m>metano</e
+m>gas di fogna</e
+m>biogas</e
+m>gas sostentatore</e
+m>cucina</e
+m>stufa</e
+m>scaldabagno a gas</e
+m>accendere</e
+m>spegnere il gas</e
+m>il contatore del gas</e
+m>una fuga di gas</e
+m>tentare il suicidio col gas</e
+m>la Società del gas</e
+m>lumi a gas</e
+m>una bombola di gas</e
+m>camere a gas</e
+m>dare il gas</e
+m>aumentare</e
+m>togliere</e
+m>levare il gas</e
+m>la manopola</e
+m>il pedale del gas</e
+m>andare</e
+m>correre a tutto gas</e
+m>mettere il cervello a tutto gas</e
+m>gas di scarico</e

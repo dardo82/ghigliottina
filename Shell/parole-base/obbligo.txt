@@ -1,0 +1,100 @@
+obbligo.txt
+"d'obbligo"
+"d'obbligo"
+"farmaco senza obbligo di ricetta"
+"liberare qc da un obbligo"
+"liberarsi da un obbligo"
+"obbligo"
+"obbligo di denuncia"
+"obbligo di dimora"
+"obbligo di frequenza"
+"obbligo di legge"
+"obbligo di reperibilità"
+"obbligo di riservatezza"
+"obbligo giornaliero della firma"
+"obbligo militare assolto"
+"obbligo morale"
+"obbligo normativo"
+"obbligo precedente"
+"obbligo scolastico"
+"sollevare da un obbligo"
+"sollevato da un obbligo"
+*[[imposizione]], [[dovere]], [[impegno]], [[vincolo]], [[coercizione]], [[peso]], [[onere]], [[responsabilità]], [[obbligazione]],  [[costrizione]],   [[necessità]]
+*''(di accordo)'' [[condizione]], [[clausola]]
+*''(verso benefattori)'' [[gratitudine]], [[riconoscenza]]
+*''sentirsi in obbliogo''
+M>ghi</E
+M>gli o</E
+M>del cittadino</E
+M>del cattolico</E
+M>gli o</E
+M>di padre</E
+M>di figlio</E
+M>gli o</E
+M>del proprio stato</E
+M>del proprio grado</E
+M>obblighi d’ufficio</E
+M>gli o</E
+M>del matrimonio</E
+M>obbligo degli alimenti</E
+M>scolastico</E
+M>scuola dell’o</E
+M>obbligo di soggiorno</E
+M>soggiorno obbligato</E
+M>avere obblighi di leva</E
+M>essere esente da obblighi di leva</E
+M>di pagare</E
+M>di compiere una data prestazione</E
+M>di legge</E
+M>d’onore</E
+M>di coscienza</E
+M>di riconoscenza</E
+M>di gratitudine</E
+M>avere degli o</E
+M>con</E
+M>verso qualcuno</E
+M>grave</E
+M>stretto</E
+M>rigoroso</E
+M>assoluto</E
+M>inderogabile</E
+M>preciso</E
+M>è un o</E
+M>sacrosanto</E
+M>dovere</E
+M>il mio o</E
+M>l’ho fatto</E
+M>l’ho assolto</E
+M>conosco i miei o</E
+M>assumersi</E
+M>contrarre</E
+M>acquistare un o</E
+M>degli o</E
+M>adempiere</E
+M>soddisfare un o</E
+M>mancare</E
+M>venire meno a un o</E
+M>avere l’o</E
+M>essere in o</E
+M>non sei in o</E
+M>di rispondere</E
+M>se non vuoi</E
+M>sentirsi in o</E
+M>farsi un o</E
+M>mi sento in o</E
+M>di avvertirvi che</E
+M>non mi sento in o</E
+M>verso nessuno</E
+M>mi feci un o</E
+M>di congratularmi con lui</E
+M>mi corre l’o</E
+M>so quanto è grande l’o</E
+M>che mi corre verso di voi</E
+M>fare o</E
+M>è fatto o</E
+M>a chiunque sia a conoscenza del fatto di darne notizia alle autorità</E
+M>d’obbligo</E
+M>è d’o</E
+M>l’abito da sera</E
+M>festa d’o</E
+M>complimenti d’obbligo</E

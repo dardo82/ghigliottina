@@ -1,0 +1,32 @@
+quaderno.txt
+"quaderno"
+"quaderno a righe \/ a quadretti"
+"quaderno di appunti"
+M>quat</E
+M>rni</E
+M>quattuor</E
+M>a righe</E
+M>a quadretti</E
+M>ad anelli metallici</E
+M>a spirale</E
+M>di matematica</E
+M>d’inglese</E
+M>per le versioni di latino</E
+M>d’appunti</E
+M>per annotare le spese</E
+M>di cassa</E
+M>d’oneri</E
+M>capitolato d’oneri</E
+M>quaternione</E
+M>sedicesimo</E
+M>segnatura</E
+M>Quaderni della «Critica»</E
+M>Quaderni piacentini</E
+M>Quaderni della «Medusa»</E
+M>La contingenza</E
+M>che fuor del quaderno De la vostra matera non si stende</E
+M>Ivi non volgon gli anni il lor q</E
+M>quaterno</E
+M>quartina</E
+M>il pomeriggio ho dato a Dorrie un quadernino bianco</E
+M> le ho chiesto di aiutarmi a scrivere la fiaba</E

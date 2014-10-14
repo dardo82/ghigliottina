@@ -1,0 +1,10 @@
+arredare.txt
+"arredare"
+"arredare con un letto"
+*[[arredamento]], [[arredatore]], [[arredatrice]], [[arredo]]
+M>*arredare</E
+M>io arrèdo</E
+M>una stanza</E
+M>un appartamento</E
+M>un villino</E
+M>una casa completamente arredata</E

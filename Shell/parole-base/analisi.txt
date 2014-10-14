@@ -1,0 +1,103 @@
+analisi.txt
+"analisi"
+"analisi"
+"analisi"
+"analisi"
+"analisi"
+"analisi armonica"
+"analisi caratteriale"
+"analisi chimica"
+"analisi combinatoria"
+"analisi comparativa"
+"analisi costi-benefici"
+"analisi cromatica"
+"analisi dei costi e dei benefici"
+"analisi dei processi"
+"analisi dei sogni"
+"analisi del circuito"
+"analisi del contenuto"
+"analisi del DNA, esame del DNA"
+"analisi del percorso critico"
+"analisi del periodo"
+"analisi del polline"
+"analisi del profondo"
+"analisi del sangue"
+"analisi dell'andamento"
+"analisi dell'urina"
+"analisi della varianza"
+"analisi della varianza"
+"analisi delle interdipendenze strutturali"
+"analisi delle mansioni"
+"analisi delle psiche"
+"analisi delle urine"
+"analisi di gruppo"
+"analisi di mercato"
+"analisi economica"
+"analisi fattoriale"
+"analisi funzionale"
+"analisi grammaticale"
+"analisi gravimetrica"
+"analisi linguistica"
+"analisi logica"
+"analisi numerica"
+"analisi preliminare"
+"analisi profonda"
+"analisi qualitativa"
+"analisi quantitativa"
+"analisi sintattica"
+"analisi spettrale"
+"analisi spettroscopica"
+"analisi testuale"
+"analisi transazionale"
+"analisi transazionale"
+"analisi vettoriale"
+"analisi volumetrica"
+"calcolo, analisi differenziale"
+"compiere l'analisi logica"
+"essere in analisi"
+"fare l'analisi grammaticale"
+"fare un'analisi critica di"
+"funzione; analisi; serie armonica"
+"in ultima analisi"
+"laboratorio analisi chimiche"
+#*'''analisi matematica'''
+#*'''analisi numerica'''
+#*'''analisi dei medicinali'''
+*[[dialisi]]
+*[[analista]], [[analitico]], [[analizzare]]
+M>sintesi</E
+M>chimica</E
+M>qualitativa</E
+M>quantitativa</E
+M>gravimetrica</E
+M>volumetrica</E
+M>del sangue</E
+M>delle urine</E
+M>dell’espettorato</E
+M>armonica</E
+M>spettrale</E
+M>delle immagini</E
+M>infinitesimale</E
+M>matematica</E
+M>analisi</E
+M>grammaticale</E
+M>logica</E
+M>estetica</E
+M>l’oratore ha fatto un’acuta a</E
+M>del periodo storico attuale</E
+M>fare l’a</E
+M>del proprio pensiero</E
+M>dei sentimenti</E
+M>del cuore altrui</E
+M>in ultima a</E
+M>in ultima a</E
+M>ci possiamo considerare fortunati</E
+M>di un sistema</E
+M>dei sistemi</E
+M>analisi</E
+M>dei prezzi</E
+M>ricerca</E
+M>di mercato</E
+M>costi</E
+M>benefici</E
+M>di bilancio</E

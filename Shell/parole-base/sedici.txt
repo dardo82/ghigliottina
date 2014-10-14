@@ -1,0 +1,30 @@
+sedici.txt
+"ballo dei sedici anni"
+"sedici"
+"sedici"
+"uso ellittico: il numero sedici"
+*[[sedicesimo]]
+*[[quindici]], [[diciassette]]
+*[[numero]]
+M>cim</E
+M>sex</E
+M>decem</E
+M>un ragazzo di s. anni</E
+M>l&#8217;aereo partirà alle ore s.</E
+M>alle sedici</E
+M>in punto</E
+M>pellicola di 16 mm</E
+M>è stato estratto il s.</E
+M>vince il s.</E
+M>ritornerò il s.</E
+M>per andare in centro devi prendere il s.</E
+M>giorno</E
+M>autobus</E
+M>tram</E
+M>nel s.</E
+M>nel &#8217;16</E
+M>Governo dei Sedici</E
+M>Tirannide dei Sedici</E
+M>Sedici Savî</E
+M>il capitolo s.</E
+M>Luigi s.</E

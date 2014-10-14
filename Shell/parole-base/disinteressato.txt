@@ -1,0 +1,17 @@
+disinteressato.txt
+"disinteressato"
+"disinteressato, benevolo"
+*[[indifferente]], [[distaccato]], [[staccato]], [[freddo]], [[apatico]], [[cinico]]
+*[[imparziale]], [[obiettivo]], [[oggettivo]], [[spassionato]], [[equo]]
+*[[generoso]], [[altruista]]
+*[[appassionato]], [[partecipe]], [[premuroso]], [[sollecito]]
+*[[parziale]], [[soggettivo]], [[fazioso]]
+*[[interessato]], [[egoista]]
+M>dis</E
+M>interessato</E
+M>una persona d</E
+M>amicizia d</E
+M>aiuto</E
+M>consiglio d</E
+M>la sua offerta non è certo disinteressata</E
+M>agire disinteressatamente</E

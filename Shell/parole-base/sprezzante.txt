@@ -1,0 +1,15 @@
+sprezzante.txt
+"sprezzante"
+M>sprezzare</E
+M>mostrarsi s. verso tutti</E
+M>rivolgere parole s.</E
+M>uno sguardo s.</E
+M>avere</E
+M>tenere un contegno s.</E
+M>trattare in modo s.</E
+M>con fare sprezzante.</E
+M>trattare</E
+M>rispondere sprezzantemente</E
+M>ha sprezzantemente definito</E
+M>casetta</E
+M>quella che in realtà è una villa.</E

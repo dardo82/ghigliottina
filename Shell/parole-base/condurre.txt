@@ -1,0 +1,99 @@
+condurre.txt
+"condurre"
+"condurre"
+"condurre"
+"condurre"
+"condurre"
+"condurre"
+"condurre a"
+"condurre a"
+"condurre a"
+"condurre a termine"
+"condurre al posto"
+"condurre qc a"
+"condurre qc alla rovina"
+"condurre un processo"
+"condurre un'inchiesta"
+"condurre una campagna elettorale"
+"condurre una campagna per"
+"condurre una vita dura"
+"condurre una vita protetta"
+#* Condussi'', sano e salvo, il mio popolo a destinazione.''
+*[[accompagnare]]
+*''(di vie, strade)'' [[portare]], [[terminare]], [[sbucare]], [[dare]]
+*[[conducente]], [[conducibile]], [[conducibilità]]
+*[[conducere]] 
+*[[portare]]
+*Devoto/Oli, ''Il dizionario della lingua  italiana'', edizione cartacea 2000-2001, Le Monnier, p. 485
+M>cond</E
+M>con</E
+M>io conduco</E
+M>tu conduci</E
+M>condussi</E
+M>conducésti</E
+M>condótto</E
+M>i figli a scuola</E
+M>il generale ha condotto i soldati alla vittoria</E
+M>condurre le pecore a bere</E
+M>il cavallo a mano</E
+M>c. il cane al parco</E
+M>la moto</E
+M>l’automobile</E
+M>una barca</E
+M>un motoscafo</E
+M>un bastimento</E
+M>è questo il viale che conduce in paese?</E
+M>la strada per la quale siamo andati finora</E
+M>conduce al fondo dell’inferno</E
+M>portare</E
+M>le acque</E
+M>un muro</E
+M>una fossa</E
+M>una linea</E
+M>un segmento</E
+M>la perpendicolare alla base</E
+M>i tubi che conducono l’acqua</E
+M>il gas in casa</E
+M>portare</E
+M>Rettor del cielo</E
+M>io cheggio</E
+M>Che la pietà che ti condusse in terra</E
+M>Amor condusse noi ad una morte</E
+M>I fui colui che la Ghisolabella Condussi a far la voglia del Marchese</E
+M>alla</E
+M> in</E
+M> miseria</E
+M>alla disperazione</E
+M>alla morte</E
+M>l’ozio conduce al vizio</E
+M>il gioco lo ha condotto alla rovina</E
+M>qualcosa a termine</E
+M>a compimento</E
+M>la commedia è condotta con molto brio</E
+M>il quadro è condotto con arte perfetta</E
+M>conduce male i suoi affari</E
+M>ha condotto molto abilmente le trattative</E
+M>conduce lui l’azienda</E
+M>la vita</E
+M>finora ho sempre condotto una vita pacifica</E
+M>ci tocca c</E
+M>una vita da cani</E
+M>conduceva una vita da signore</E
+M>fondò in Ossonia lo Studio pubblico</E
+M>e condusse in quello molti uomini singulari</E
+M>condusse a prezzo un cammello</E
+M>il Milan conduce l’incontro per due reti a zero</E
+M>la classifica</E
+M>la Spagna conduce in Coppa Davis per un incontro a zero</E
+M>il medico si condusse a casa dell’ammalato</E
+M>mi sono condotto a gran fatica fin qua</E
+M>condursi a un’età avanzata</E
+M>con questi soldi spero di condurmi sino alla fine del mese</E
+M>guarda a che punto s’è condotto per la sua pigrizia</E
+M>se continua così</E
+M>si condurrà a chiedere l’elemosina</E
+M>Non sanza tema a dicer mi conduco</E
+M>portarsi</E
+M>condursi bene</E
+M>male</E
+M>si è condotto da vero gentiluomo</E

@@ -1,0 +1,40 @@
+orfano.txt
+"orfano"
+"orfano"
+"orfano"
+"orfano"
+"orfano di madre"
+"orfano di padre"
+"reso orfano"
+"stato di orfano"
+#* ''quella è una persona '''orfana''' di principi''
+#* ''un bambino '''orfano''', fu adottato dal milionario''  
+#* ''l''''orfano''' andò dallo zio''
+*senza madre, senza padre, senza genitori
+*persona senza madre, persona senza padre, persona senza genitori.
+*[[orfanilità]], [[orfanotrofio]]
+*[[abbandonato]]
+*italiano
+M>rph</E
+M>nus</E
+M>orbus</E
+M>un bimbo o</E
+M>di padre e di madre</E
+M>un bimbo o</E
+M>essere o</E
+M>di padre</E
+M>di madre</E
+M>un povero o</E
+M>restare o</E
+M>asilo per gli o</E
+M>è morto tragicamente lasciando orfani tre figlioletti</E
+M>orfani di guerra</E
+M>orbo</E
+M>vedovo</E
+M>Voi</E
+M>collinette e piagge</E
+M>Orfane ancor gran tempo Non resterete</E
+M>riga o.</E
+M>orphan line</E
+M>riga vedova</E
+M>farmaci o.</E

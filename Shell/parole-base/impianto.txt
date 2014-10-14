@@ -1,0 +1,81 @@
+impianto.txt
+"fermo impianto"
+"impianto"
+"impianto"
+"impianto"
+"impianto"
+"impianto"
+"impianto a controllo continuo"
+"impianto a gas"
+"impianto a norma"
+"impianto a sprinkler"
+"impianto antincendio"
+"impianto antincendio a sprinkler"
+"impianto centrale"
+"impianto di alimentazione"
+"impianto di amplificazione"
+"impianto di aspirazione"
+"impianto di bonifica"
+"impianto di depurazione"
+"impianto di essiccazione"
+"impianto di filtrazione e riciclo"
+"impianto di illuminazione teatrale"
+"impianto di innevamento artificiale"
+"impianto di messa a terra"
+"impianto di potabilizzazione e depurazione"
+"impianto di pressurizzazione, impianto di compressione"
+"impianto di produzione elettrica"
+"impianto di risalita"
+"impianto di riscaldamento a caldaia"
+"impianto di smaltimento"
+"impianto di trivellazione"
+"impianto elettrico"
+"impianto fisso"
+"impianto fotovoltaico"
+"impianto frenante"
+"impianto idrico sanitario"
+"impianto industriale"
+"impianto industriale"
+"impianto industriale"
+"impianto irriguo"
+"impianto per riscaldamento ad aria calda"
+"impianto sperimentale"
+"impianto sportivo"
+"impianto stereo"
+"impianto tecnologico"
+"impianto teorico"
+"impianto termico"
+#* occorre smontare l'
+* ''(di una ditta, di un negozio e sim.)'' [[fondazione]], [[avviamento]], [[apertura]] 
+*''(di un'apparecchiatura, di un sistema ) [[installazione]] 
+*[[apparato]], [[sistema]]
+* [[impiantare]], [[impiantista]], [[impiantistica]]
+* [[attrezzatura]],  [[stabilimento]]
+M>l’i</E
+M>di un macchinario</E
+M>l’i</E
+M>della luce</E
+M>del gas</E
+M>installazione</E
+M>impianto</E
+M>l’i</E
+M>di una nuova fabbrica</E
+M>di una banca</E
+M>di una società</E
+M>spese d’i</E
+M>siderurgici</E
+M>di trasporto</E
+M>chimici</E
+M>gli i</E
+M>di un cantiere edile</E
+M>portuali</E
+M>impianti del gas</E
+M>idraulici</E
+M>elettrici</E
+M>Impianti di riscaldamento</E
+M>termici</E
+M>di climatizzazione</E
+M>sportivo</E
+M>annidamento</E
+M>trapianto</E
+M>di capelli</E

@@ -1,0 +1,29 @@
+pazzia.txt
+"pazzia"
+"pazzia"
+"pazzia"
+"pazzia"
+M>infermità</E
+M>malattia mentale</E
+M>psicosi</E
+M>psicopatia</E
+M> dare segni di p</E
+M>dare in p</E
+M>esser colto da p</E
+M>ci dev&#8217;essere in lui un ramo di p</E
+M>ereditaria</E
+M>morale</E
+M>le sue p</E
+M>cominciano a diventare pericolose</E
+M>è rimasto così sconvolto dalla disgrazia che si teme possa commettere qualche pazzia</E
+M>dire</E
+M>fare</E
+M>commettere pazzie</E
+M>sarebbe una p</E
+M>affrontare la montagna con questo tempaccio</E
+M>è una p</E
+M>sprecare così i soldi</E
+M>ha fatto pazzie per quella donna</E
+M>attento a non far pazzie!</E
+M>chi non fa le p</E
+M>in gioventù le fa in vecchiaia</E

@@ -1,0 +1,23 @@
+immondizia.txt
+"bidone dell'immondizia, pattumiera"
+"busta dell'immondizia"
+"gettare l'immondizia"
+"immondizia"
+"ridurre a immondizia"
+"secchio dell'immondizia"
+*[[spazzatura]], [[rifiuti]], [[pattume]], [[sporcizia]], [[robaccia]], [[sudiciume]], [[sozzura]], [[lerciume]], [[lordura]]
+*italiano
+M>immunditia</E
+M>immundus</E
+M>immondezza</E
+M>quella sorta d’i</E
+M>che le arpie sgorgarono per invidia sulle mense troiane</E
+M>spazzare</E
+M>ammassare l’i</E
+M>marciapiedi pieni d’i</E
+M>il secchio</E
+M> il cassonetto dell’i</E
+M>delle i</E
+M>il camion</E
+M>l’autocarro delle i</E
+M>gettare tra le immondizie</E

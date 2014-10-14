@@ -1,0 +1,4 @@
+affamare.txt
+"Traduzione di affamare/ non trovata.\nNo translation was found for affamare/."
+M>una città</E
+M>la popolazione</E

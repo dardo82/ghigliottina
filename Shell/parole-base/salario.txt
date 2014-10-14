@@ -1,0 +1,19 @@
+salario.txt
+"giorno del salario"
+"salariato, colui che guadagna un salario"
+"salario"
+"salario"
+"salario annuo"
+"salario base"
+"salario base"
+"salario decente"
+"salario elevato"
+"salario familiare"
+"salario minimo"
+"salario minimo"
+"salario previsto"
+"salario reale"
+"scrittore mediocre che lavora a salario"
+*[[paga]], [[stipendio]], [[retribuzione]], [[remunerazione]], [[compenso]], [[onorario]], [[parcella]], [[ricompensa]]
+*[[salariato]], [[salariare]]
+*Enciclopedia [http

@@ -1,0 +1,57 @@
+cena.txt
+"cena"
+"cena"
+"ultima cena"
+"cena con invitati"
+"cena di beneficenza"
+"cena di beneficenza"
+"cena di gala"
+"cena di lavoro"
+"cena di raccolta fondi"
+"cena in piedi"
+"cena leggera"
+"cena leggera"
+"Metti una sera a cena"
+"Metti una sera a cena"
+"ora di cena"
+"ora di cena"
+"pasto leggero nel tardo pomeriggio che sostituisce la cena"
+"Ultima Cena"
+"Ultima Cena"
+"ultima cena"
+#*''il pomeriggio è libero ma alla sera si cena tutti insieme''
+*pasto serale
+*[[pranzo]], [[banchetto]]
+*[[pranzo]], [[desinare]], [[colazione]]
+* [[cenar]]
+*italiano
+*ceco
+*latino
+*lettone
+*portoghese
+*slovacco
+*sloveno
+*spagnolo
+M>una c</E
+M>frugale</E
+M>una lauta c</E
+M>andare</E
+M>mettersi a c</E
+M>che c’è da c</E
+M>per c</E
+M>essere a c</E
+M>ieri sono stato a c</E
+M>da amici</E
+M>invitare qualcuno a c</E
+M>la c. sarà servita alle nove</E
+M>fare da c</E
+M>ordinare da c</E
+M>chi va a letto senza c</E
+M>tutta notte si dimena</E
+M>avanti c</E
+M>prima di c</E
+M>dopo cena</E
+M>Ultima c</E
+M>la Cena</E
+M>la Cena di Leonardo da Vinci</E
+M>santa</E

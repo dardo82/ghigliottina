@@ -1,0 +1,36 @@
+collocare.txt
+"collocare"
+"collocare"
+"collocare"
+"collocare, replace: collocarsi"
+"collocare qualcosa ad una certa distanza"
+#*'' devi 
+M>collocare</E
+M>locus</E
+M>con</E
+M>io còlloco</E
+M>tu còllochi</E
+M>i libri negli scaffali</E
+M>il monumento sarà collocato nella piazza del paese</E
+M>un’opera</E
+M>uno scrittore nella storia del suo tempo</E
+M>un volume</E
+M>una collana di testi</E
+M>collocazione</E
+M>a riposo</E
+M>in congedo</E
+M>in aspettativa</E
+M>in posizione ausiliaria</E
+M>collocò suo nipote come impiegato presso un’azienda</E
+M>sistemare</E
+M>ho subitamente collocata la sua figlia al nipote del castaldo</E
+M>collocarsi</E
+M>collocarsi</E
+M>un partito che si colloca a sinistra</E
+M>che si colloca al centro</E
+M>che si colloca tra le forze di centro e quelle di destra</E
+M>un oggetto</E
+M>un mobile</E
+M>un prodotto dell’artigianato</E
+M>un titolo</E
+M>risparmî</E

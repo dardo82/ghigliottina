@@ -1,0 +1,24 @@
+rettilineo.txt
+"rettilineo"
+"rettilineo"
+M>rectilineus</E
+M>rectus</E
+M>linea</E
+M>strada</E
+M>ferrovia r</E
+M>perfettamente r</E
+M>in questo tratto la costa è pressoché r</E
+M>direzione</E
+M>propagazione rettilinea</E
+M>i cavalli giunsero galoppando al r</E
+M>davanti alle tribune</E
+M>lineare</E
+M>polarizzatore r.</E
+M>pettinatrice r</E
+M>pettinatrice circolare</E
+M>ammiriamo la sua condotta r</E
+M>ha un carattere r</E
+M>un modo di comportarsi rettilineo</E
+M>avanzare</E
+M>procedere rettilineamente</E
+M>polarizzato rettilineamente</E

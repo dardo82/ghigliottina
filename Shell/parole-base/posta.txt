@@ -1,0 +1,71 @@
+posta.txt
+"a bella posta"
+"a giro di posta"
+"a strettissimo giro di posta"
+"alzare la posta"
+"alzare la posta in gioco"
+"casella per la posta"
+"cassetta della posta"
+"cassetta della posta, cassetta delle lettere"
+"cassetta posta in uscita"
+"di posta aerea"
+"giorno di posta"
+"giro posta"
+"inviare la posta"
+"inviare per posta diplomatica"
+"la posta in gioco"
+"la posta in palio"
+"per posta"
+"per posta aerea"
+"percorso della posta"
+"posta"
+"posta"
+"servizio postale"
+"postal service"
+"posta"
+"ufficio postale"
+"posta"
+"posta"
+"posta"
+"posta"
+"posta"
+"posta"
+"posta"
+"posta aerea"
+"posta aerea"
+"posta centrale"
+"posta diplomatica"
+"posta elettronica"
+"posta elettronica certificata"
+"posta pneumatica"
+"posta pubblicitaria"
+"posta raccomandata"
+"reparto di consegna posta"
+"stampa pubblicitaria inviata per posta"
+#*''È arrivata la posta''
+#*''Andò alla posta per spedire un pacchetto.''
+#*''La posta in gioco era elevata.''
+#*''Dalla [[torre]] posta sull'[[altura]] si dominava tutto il [[circondario]]''
+* ufficio postale
+* corrispondenza
+*[[agguato]], [[appostamento]], [[imboscata]]
+* (della via Crucis) [[fermata]], [[sosta]]
+*(in un gioco d’azzardo) [[scommessa]], [[piatto]], [[puntata]], [[somma]], [[ giocata]],  [[puglia]]
+*[[servizio postale]] 
+*[[fermo posta]], [[postacelere]], [[postagiro]], [[postale]],[[postino]], [[impostare]]
+*[[lettere]]
+*[[posta ett brev]]
+*italiano
+*svedese
+M>posto</E
+M>porre</E
+M>la p</E
+M>delle uova</E
+M>la p</E
+M>del seme</E
+M>la p</E
+M>degli ulivi è di marzo</E
+M>alberi da posta</E
+M>del nome</E
+M>Ond&#8217;io</E
+M>mi parti&#8217; Dietro a le poste de le care piante</E

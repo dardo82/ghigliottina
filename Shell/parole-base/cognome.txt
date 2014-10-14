@@ -1,0 +1,33 @@
+cognome.txt
+"cognome"
+"cognome"
+"cognome da fanciulla"
+"cognome di famiglia"
+"cognome originario"
+"del cognome"
+"nome e cognome"
+#* ''in Italia il '''cognome''' di una persona è per legge lo stesso del padre che l'ha riconosciuta'';
+#* ''a ogni persona nata in Spagna si assegnano due '''cognomi'''
+#* ''Cicerone era il '''cognome''' di Marco Tullio''
+*italiano
+M>cognomen</E
+M>gnomen</E
+M>nomen</E
+M>nome e c</E
+M>si chiama di c</E
+M>Rossi</E
+M>sapere nome e c</E
+M>di qualcuno</E
+M>doppio</E
+M>d’origine germanica</E
+M>cambiare cognome</E
+M>meritò il c</E
+M>di Magnifico</E
+M>Ivanov</E
+M>Ivanova</E
+M>vanovy</E
+M>Giovanni Rossi</E
+M>Maria Bianchi</E
+M>Monaldo conte Leopardi</E
+M>Elia cardinale Dalla Costa</E
+M>Rossi dottor Tommaso</E

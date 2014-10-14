@@ -1,0 +1,5 @@
+garza.txt
+"garza"
+"garza di cotone"
+*italiano
+*spagnolo

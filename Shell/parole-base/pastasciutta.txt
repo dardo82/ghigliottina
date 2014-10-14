@@ -1,0 +1,7 @@
+pastasciutta.txt
+"pastasciutta"
+#* ''mangiarsi un bel piatto di 
+* [[pasta]], [[minestra asciutta]]
+* [[pastasciuttaio]]
+* [[pasta asciutta]]
+M>minestra asciutta</E

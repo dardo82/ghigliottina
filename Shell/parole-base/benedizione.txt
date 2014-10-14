@@ -1,0 +1,57 @@
+benedizione.txt
+"benedizione"
+"benedizione"
+"benedizione"
+"benedizione"
+"invocare la benedizione di"
+M>benedictio</E
+M>onis</E
+M>benedic</E
+M>paterna</E
+M>materna</E
+M>vi do la mia b</E
+M>si allontanò fra le b</E
+M>di tutti i suoi beneficati</E
+M>dare la b</E
+M>a una persona</E
+M>a una cosa</E
+M>invocare la b</E
+M>del Signore</E
+M>la b</E
+M>di Dio scenda su questa casa</E
+M>costitutive</E
+M>consacratorie</E
+M>invocative</E
+M>comuni</E
+M>dare</E
+M>impartire la b</E
+M>ai fedeli</E
+M>delle candele</E
+M>delle ceneri</E
+M>delle palme</E
+M>di una chiesa</E
+M>delle campane</E
+M>con la croce</E
+M>con l’acqua santa</E
+M>con una reliquia</E
+M>col Ss</E
+M>Sacramento</E
+M>eucaristica</E
+M>apostolica</E
+M>apostolica urbi et orbi</E
+M>papale</E
+M>apostolica in articulo mortis</E
+M>del mare</E
+M>della nave</E
+M>la messa è alla b</E
+M>Tantum ergo</E
+M>andare alla benedizione</E
+M>tu sei la b</E
+M>della mia casa</E
+M>il suo aiuto è stato una b</E
+M>per noi</E
+M>questa pioggia è una b</E
+M>per le campagne</E
+M>gli ho mandato tante di quelle b</E
+M>chissà le b</E
+M>che mi manda!</E

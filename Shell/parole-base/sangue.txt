@@ -1,0 +1,371 @@
+sangue.txt
+"a sangue caldo"
+"a sangue freddo"
+"a sangue freddo"
+"Al sangue"
+"all'ultimo sangue"
+"alta genealogia  e linee di sangue"
+"analisi del sangue"
+"assetato di sangue"
+"bagno di sangue"
+"banca del sangue"
+"buttare sangue"
+"Calma e sangue freddo"
+"cattivo sangue"
+"cavallo di sangue caldo"
+"cavare sangue"
+"circolazione del sangue"
+"con parentela di sangue"
+"con sangue freddo"
+"corpo e sangue di Cristo"
+"dal sangue blu"
+"dal sangue caldo, impulsivo"
+"dal sangue freddo"
+"di parentela di sangue"
+"di sangue blu"
+"di sangue blu"
+"di sangue misto"
+"di sangue misto"
+"di sangue misto"
+"di sangue puro"
+"donatore di sangue"
+"donazione di sangue"
+"esame del sangue"
+"analisi del sangue"
+"far ribollire il sangue nelle vene"
+"fare sangue"
+"farina di sangue"
+"farsi il sangue amaro"
+"fratello di sangue"
+"grondare sangue"
+"il richiamo del sangue"
+"il tuo sangue"
+"il vino fa buon sangue"
+"iniettato di sangue"
+"iniettato di sangue, impregnato di sangue"
+"inzuppato di sangue"
+"lacrime e sangue"
+"legami di sangue"
+"macchia di sangue"
+"macchia di sangue"
+"malattia del sangue"
+"mezzo sangue"
+"montare il sangue alla testa"
+"nel sangue"
+"occhi iniettati di sangue"
+"patto di sangue"
+"pieno di sangue"
+"prelievo di sangue"
+"ricoperto di sangue"
+"rosso sangue"
+"rosso sangue"
+"rosso sangue"
+"sacca di sangue"
+"sacrificio di sangue"
+"sangue"
+"sangue"
+"sangue arterioso"
+"sangue blu"
+"sangue bollente"
+"sangue caldo"
+"sangue dal naso"
+"sangue del mio sangue"
+"sangue denso"
+"sangue di dragone"
+"sangue di naso"
+"sangue di tipo A"
+"sangue freddo"
+"sangue freddo"
+"sangue freddo"
+"sangue freddo"
+"self-possession Usually: avere sangue freddo"
+"sangue misto"
+"sangue umano"
+"sangue venoso"
+"sanguinamento del naso, sangue dal naso"
+"senza spargimento di sangue"
+"sete di sangue"
+"spargere sangue"
+"spargimento di sangue"
+"Sputare sangue"
+"sudare sangue"
+"trasfusione di sangue"
+"ultimo sangue"
+* [[sanguineo]], [[consanguineo]], [[sanguigno]], [[sanguemisto]], [[purosangue]]
+* [[arteria]], [[emoglobina]], [[linfa]], [[piastrina]], [[plasma]], [[trasfusione]], [[vena]]
+*''a sangue freddo''
+*''Buon '''sangue''' non mente''
+*''Dover piangere lacrime e '''sangue'''''
+*'''''Sangue''' del mio '''sangue'''''
+*''Bagno di '''sangue'''''
+*''Fatto di '''sangue'''''
+*''Spargimento di '''sangue'''''
+*''Avere '''sangue''' freddo'', o ''calma e '''sangue''' freddo''
+*''Patto di '''sangue'''''
+*Enciclopedia [http
+*Devoto/Oli, '' Il dizionario della lingua italiana '', edizione cartacea 2000- 2001, Le Monnier, p. 1829
+*AA.VV., '' Dizionario etimologico '', edizione 2004, ristampa 2008, p. 869 
+M>sanguis -</E
+M>nis</E
+M>sangu</E
+M>n -</E
+M>nis</E
+M>sangu</E
+M>nem</E
+M>sanguem</E
+M>s. arterioso</E
+M>s. venoso</E
+M>s. rosso</E
+M>s. blu</E
+M>la formazione del s.</E
+M>emopoiesi</E
+M>la circolazione del s.</E
+M>s. ricco</E
+M>s. povero di globuli rossi</E
+M>animali a</E
+M>s. caldo</E
+M>omeotermi</E
+M>animali a</E
+M>s. freddo</E
+M>eterotermi</E
+M>coagulazione del s.</E
+M>prelievo di s.</E
+M>analisi</E
+M>esame del s.</E
+M>trasfusione di s.</E
+M>datori</E
+M>donatori di s.</E
+M>volontarî del s.</E
+M>avere il s. sano</E
+M>essere di buon s.</E
+M>avere il s. malato</E
+M>guasto</E
+M>infetto</E
+M>avere il s. grosso</E
+M>ingrossato</E
+M>s. sottile</E
+M>il riso fa buon s.</E
+M>occhi iniettati di s.</E
+M>un getto</E
+M>un fiotto</E
+M>un grumo</E
+M>una goccia</E
+M>una stilla di s.</E
+M>s. rosso</E
+M>nerastro</E
+M>la ferita fa s.</E
+M>getta s.</E
+M>perdere s.</E
+M>fare s.</E
+M>dal taglio il s. esce</E
+M>spiccia</E
+M>sprizza</E
+M>sgorga abbondante</E
+M>filare s.</E
+M>la mano ferita gli filava s.</E
+M>perdere s. dal naso</E
+M>avere una perdita di s.</E
+M>sputare s.</E
+M>avere uno sbocco di s.</E
+M>fermare</E
+M>fare stagnare</E
+M>ristagnare il s.</E
+M>cavare</E
+M>levare il s.</E
+M>non avere s. nelle vene</E
+M>non rimanere più s. nelle vene</E
+M>un apporto di s. fresco</E
+M>la concessione del mutuo rappresenta un apporto di s. fresco per l&#8217;azienda</E
+M>levare</E
+M>cavare s. da una rapa</E
+M>Pietra del s.</E
+M>sanguinella</E
+M>diaspro rosso</E
+M>rosso come il s.</E
+M>rosso sangue</E
+M>rosso di s.</E
+M>ha gote latte e s.</E
+M>quel bambino è tutto latte e s.</E
+M>amare qualcuno più del proprio s.</E
+M>darei metà del mio s.</E
+M>tutto il mio s. pur di vederlo guarito</E
+M>costare s.</E
+M>sudare s.</E
+M>piangere lacrime di s.</E
+M>succhiare il s.</E
+M>governo</E
+M>fisco che succhia il s. dei cittadini</E
+M>usurai arricchitisi succhiando il s. della povera gente.</E
+M>battere</E
+M>percuotere</E
+M>mordere a s.</E
+M>duello all&#8217;ultimo s.</E
+M>combattere fino all&#8217;ultimo s.</E
+M>duello al primo s.</E
+M>battersi al primo s.</E
+M>la vittima giaceva in una pozza</E
+M>in un lago</E
+M>in un mare di sangue.</E
+M>spargere s.</E
+M>Io che sparsi di s. ampio torrente</E
+M>sacrificio con</E
+M>senza</E
+M>spargimento di s.</E
+M>delitto</E
+M>reato</E
+M>crimine di s.</E
+M>un grave fatto di s.</E
+M>uomo di s.</E
+M>io &#8217;l vidi omo di s. e di crucci</E
+M>avere le mani lorde di s.</E
+M>imbrattate di s.</E
+M>che grondano s.</E
+M>lavare un&#8217;offesa nel s.</E
+M>onta vendicata col s.</E
+M>il s. innocente grida vendetta</E
+M>che il suo s. ricada su di voi!</E
+M>prezzo del s.</E
+M>ottenere</E
+M>raggiungere qualche cosa a prezzo del s.</E
+M>avere sete</E
+M>essere assetato di s.</E
+M>Sangue sitisti</E
+M> e io di sangue t&#8217;empio</E
+M>aborrire il s.</E
+M>aver orrore del s.</E
+M>Il fiume di s. bollente</E
+M>Inferno</E
+M>Inf.</E
+M>La riviera del s. in la qual bolle Qual che per vïolenza in altrui noccia</E
+M>temprando lo scettro a&#8217; regnatori</E
+M> Gli allor ne sfronda</E
+M> ed alle genti svela Di che lagrime grondi e di che sangue</E
+M>spargere</E
+M>versare s. fraterno</E
+M>soffocare una rivolta nel s.</E
+M>l&#8217;insurrezione è finita in un bagno di s.</E
+M>scorreva per le vie il s. dei cittadini</E
+M>notte di s.</E
+M>giornate di s.</E
+M>Natale di s.</E
+M>essere scritto a lettere</E
+M>a caratteri di s.</E
+M>dare</E
+M>versare il s. per la patria</E
+M>Ove fia santo e lagrimato il sangue Per la patria versato</E
+M>essere pronto a donare il s. per un&#8217;idea</E
+M>per un ideale</E
+M>l&#8217;indipendenza fu conquistata con il s. degli eroi</E
+M>una vittoria che costò molto s.</E
+M>quanto s. è costata la riconquista della libertà!</E
+M>pagare un tributo di s.</E
+M>fede rinvigorita dal s. dei martiri</E
+M>battesimo di s.</E
+M>l&#8217;umanità è stata redenta dal s. di Gesù</E
+M>Nel tempo che &#8217;l buon Tito ... vendicò le fóra Ond&#8217;uscì &#8217;l sangue per Giuda venduto</E
+M>il preziosissimo S.</E
+M>il S. preziosissimo</E
+M>non avere più una goccia di s. nelle vene</E
+M>avere</E
+M>una qualità</E
+M>nel s.</E
+M>ha la musica nel s.</E
+M>ha la disonestà nel sangue</E
+M>sentirsi qualcosa nel s.</E
+M>avere qualcuno nel s.</E
+M>guastarsi il s.</E
+M>farsi cattivo s.</E
+M> il s. cattivo</E
+M> il s. amaro</E
+M>avere</E
+M>non avere buon s. per qualcuno</E
+M>andare a s.</E
+M>tra loro non corre buon s.</E
+M>il s. gli salì alla faccia</E
+M>il s. gli andò</E
+M>gli montò alla testa</E
+M>sentirsi rimescolare</E
+M>rivoltare il s.</E
+M>sentirsi ribollire il s.</E
+M>il s. gli fece un tuffo</E
+M>sentirsi gelare</E
+M>agghiacciare il s.</E
+M>avere il s. caldo</E
+M>il s. bollente</E
+M>sentirsi bollire</E
+M>ribollire il s. nelle vene</E
+M>non avere s. nelle vene</E
+M>bisognerebbe non avere s. nelle vene</E
+M>a s. caldo</E
+M>a s. freddo</E
+M>lo uccise a s. freddo.</E
+M>s. freddo</E
+M>tra tanti appassionati</E
+M> c&#8217;eran pure alcuni più di s. freddo</E
+M> i quali stavano osservando con molto piacere</E
+M> che l&#8217;acqua s&#8217;andava intorbidando</E
+M>conservare</E
+M>mantenere il s. freddo</E
+M> non gridavano</E
+M> non perdevano il s. freddo</E
+M>mostrare s. freddo</E
+M>s. freddo</E
+M> mi raccomando!</E
+M>calma e s. freddo!</E
+M>essere di s. nobile</E
+M>di s. blu</E
+M>di s. patrizio</E
+M>essere di s. popolano</E
+M>plebeo</E
+M>prìncipi di s. reale</E
+M>prìncipi del s.</E
+M>uomo ... per costumi o per virtù</E
+M> molto più che per nobiltà di s.</E
+M> chiarissimo</E
+M>Mal giova illustre sangue Ad animo che langue</E
+M>buon s. non mente</E
+M>ci sono tra loro stretti vincoli di s.</E
+M>legami di s. tra due famiglie</E
+M>tra due tribù</E
+M>tra due popoli</E
+M>avere lo stesso s.</E
+M>essere dello stesso s.</E
+M>appartenere allo stesso s.</E
+M>tutti quelli del suo s.</E
+M>la voce del s.</E
+M>sentire</E
+M>ascoltare la voce del s.</E
+M>il s. non è acqua</E
+M>Che permutasse a tempo li ben vani Di gente in gente e d&#8217;uno in altro s.</E
+M>il padre ardito</E
+M> Peggio che fera od angue Crudel contro al suo s.</E
+M>devo aiutarlo</E
+M> è anche lui s. mio</E
+M>è s. del mio s.</E
+M>l&#8217;amava come se fosse s. suo.</E
+M>essere di s. italiano</E
+M>di s. tedesco</E
+M>di s. arabo</E
+M>ha s. gitano nelle vene</E
+M>s. misto</E
+M>si vede che ha s. siciliano</E
+M>è il vero s. latino</E
+M>Nel tempo che Iunone era crucciata ... contra &#8217;l sangue tebano</E
+M>Latin s. gentile</E
+M>un bel s.</E
+M>puro s.</E
+M>animale</E
+M>cavallo di puro s.</E
+M>un puro s.</E
+M>mezzo s.</E
+M>quarto di s.</E
+M>il sanguinaccio si fa con il s. di maiale</E
+M>bistecca al s.</E
+M>Sangue di bue</E
+M>s. di Giuda!</E
+M>s. di Bacco!</E
+M>s. di Dio!</E
+M>s. d&#8217;un cane!</E
+M>s. d&#8217;un turco!</E
+M>commistione di sangui diversi</E
+M>i sangui</E

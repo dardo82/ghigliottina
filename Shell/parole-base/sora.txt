@@ -1,0 +1,2 @@
+sora.txt
+"Traduzione di sora/ non trovata.\nNo translation was found for sora/."

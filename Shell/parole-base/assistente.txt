@@ -1,0 +1,61 @@
+assistente.txt
+"assistente"
+"assistente al montaggio"
+"assistente alla poltrona"
+"assistente alla produzione"
+"assistente bibliotecario"
+"assistente di"
+"assistente di bordo"
+"assistente di direzione"
+"assistente di laboratorio"
+"assistente di laboratorio"
+"assistente di scena (teatro)"
+"assistente di un professionale"
+"assistente di volo"
+"assistente di volo"
+"assistente diplomato"
+"assistente legale"
+"assistente linguistico"
+"assistente medico"
+"assistente ospedaliero, inserviente ospedaliero"
+"assistente per le battute"
+"assistente personale"
+"assistente personale digitale"
+"assistente procuratore"
+"assistente pubblico ministero"
+"assistente sanitario a domicilio"
+"assistente sociale"
+"assistente sociale"
+"assistente sociale"
+"assistente sociale"
+"assistente socio-sanitario scolastico"
+"assistente universitario"
+"fare da assistente"
+"insegnante assistente"
+"l'Assistente Ufficiale"
+M>assistere</E
+M>aiutante</E
+M>coadiutore</E
+M>edile</E
+M>operatore</E
+M>alla regia</E
+M>di scena</E
+M>ospedaliero</E
+M>medico</E
+M>anestesista</E
+M>tecnico</E
+M>ordinarî</E
+M>incaricati</E
+M>volontarî</E
+M>straordinarî</E
+M>supplenti</E
+M>ecclesiastico</E
+M>al soglio</E
+M>sanitario</E
+M>sociale</E
+M>di volo</E
+M>hostess</E
+M>steward</E
+M>accompagnatrice</E
+M>turistica</E
+M>testimone</E

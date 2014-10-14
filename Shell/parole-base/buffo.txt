@@ -1,0 +1,9 @@
+buffo.txt
+"buffo"
+"buffo"
+"comico, umoristico, buffo"
+"da far morire dal ridere, terribilmente buffo"
+"il buffo è che"
+"qualcosa con un nome buffo"
+:*[[comico]]
+:*[[simpatico]]

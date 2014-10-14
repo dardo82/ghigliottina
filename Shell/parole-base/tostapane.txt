@@ -1,0 +1,4 @@
+tostapane.txt
+"tostapane"
+M>tostare</E
+M>pane</E

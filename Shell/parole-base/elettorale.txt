@@ -1,0 +1,56 @@
+elettorale.txt
+"agente elettorale"
+"bacino elettorale"
+"cabina elettorale"
+"cabina elettorale"
+"cabina elettorale"
+"campagna elettorale"
+"circoscrizione elettorale"
+"circoscrizione elettorale"
+"collegio elettorale"
+"commissione elettorale"
+"commissione elettorale"
+"condurre una campagna elettorale"
+"elettorale"
+"frode elettorale"
+"legittimazione elettorale"
+"lista elettorale"
+"macchina elettorale"
+"organizzazione elettorale di partito"
+"portare avanti una campagna elettorale"
+"risultato elettorale"
+"scheda elettorale"
+"seggio elettorale"
+"seggio elettorale"
+"seggio elettorale"
+"ufficio elettorale"
+"vittoria assicurata (specialmente elettorale)"
+"vittoria assicurata (specialmente elettorale)"
+"vittoria elettorale"
+"votazione elettorale"
+"voto elettorale"
+*[[elettoralismo]], [[elettoralistico]]
+*[[elezione]]
+M>legge</E
+M>legislazione</E
+M>riforma e</E
+M>consultazione e</E
+M>liste e</E
+M>collegi e.</E
+M>comizî e</E
+M>certificato e</E
+M>tessera e.</E
+M>scheda e</E
+M>corpo e</E
+M>campagna e</E
+M>propaganda e</E
+M>battaglia e</E
+M>risultato</E
+M>vittoria</E
+M>successo</E
+M>sconfitta elettorale</E
+M>titolo e</E
+M>dignità e</E
+M>la dieta e</E
+M>del 1519.</E
+M>un partito elettoralmente forte</E

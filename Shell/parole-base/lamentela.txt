@@ -1,0 +1,17 @@
+lamentela.txt
+"lamentela"
+*[[lamentazione]]
+*[[lamento]]
+*[[mormorazione]]
+*[[protesta]]
+*[[querimonia]]
+*[[querela]]
+*[[reclamo]]
+*[[recriminazione]]
+*[[rimostranza]]
+M>lamentarsi</E
+M>querela</E
+M>è una l</E
+M>generale</E
+M>si sentono continue l</E
+M>sul suo conto</E

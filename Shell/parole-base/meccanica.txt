@@ -1,0 +1,105 @@
+meccanica.txt
+"attrezzatura meccanica"
+"fare qcs. in maniera meccanica; senza interesse"
+"filatoio meccanica"
+"ingegneria meccanica"
+"ingegneria meccanica"
+"meccanica"
+"meccanica"
+"meccanica"
+"meccanica"
+"meccanica analitica"
+"meccanica applicata"
+"meccanica celeste"
+"meccanica classica"
+"meccanica dei liquidi"
+"meccanica dei quanti"
+"meccanica di precisione"
+"meccanica fine"
+"meccanica ondulatoria"
+"meccanica teorica"
+"officina meccanica"
+"pala meccanica"
+"predisposizione meccanica"
+"pressa meccanica"
+"pressa meccanica"
+"prontezza meccanica"
+"resistenza meccanica"
+"sega meccanica"
+#*'''meccanica classica'''
+#*'''meccanica razionale'''
+#*'''meccanica quantistica'''
+#*'''meccanica applicata'''
+#*'''ingegneria meccanica'''
+*[[macchina]], [[meccanico]], [[meccanicamente]], [[meccanicismo]], [[meccanicista]], [[meccanicità]], [[meccanismo]], [[meccanizzare]], [[metalmeccanico]]
+*Enciclopedia [http
+M>mechan</E
+M>cinematica</E
+M>dinamica</E
+M>statica</E
+M>classica</E
+M>newtoniana</E
+M>massa</E
+M>forza</E
+M>spazio</E
+M>tempo</E
+M>razionale</E
+M>analitica</E
+M>classica</E
+M>relativistica</E
+M>quantistica</E
+M>principio di indeterminazione</E
+M>ondulatoria</E
+M>delle matrici</E
+M>statistica</E
+M>classica</E
+M>quantistica</E
+M>del punto materiale</E
+M>del corpo rigido</E
+M>dei sistemi continui</E
+M>dei corpi elastici</E
+M>dei fluidi</E
+M>celeste</E
+M>non lineare</E
+M>ereditaria</E
+M>impulsiva</E
+M>applicata</E
+M>applicata alle macchine</E
+M>applicata alle costruzioni</E
+M>i perfezionamenti della m</E
+M>occuparsi</E
+M>interessarsi</E
+M>dilettarsi di m</E
+M>di precisione</E
+M>la m</E
+M>di un’officina</E
+M>di un cantiere</E
+M>agraria</E
+M>dei terreni</E
+M>del suolo</E
+M>dello sviluppo</E
+M>Entwicklungsmechanik</E
+M>embriologia sperimentale</E
+M>della respirazione</E
+M>respiratoria</E
+M>della digestione</E
+M>la m</E
+M>di un motore a scoppio</E
+M>di un orologio</E
+M>di un giocattolo</E
+M>la m</E
+M>di un ragionamento</E
+M>ricostruire la m</E
+M>di un delitto</E
+M>di un incidente</E
+M>analizzare la m</E
+M>di un romanzo</E
+M>di un film</E
+M>fare controllare la m</E
+M>della propria autovettura</E
+M>fermarsi per un guasto alla m</E
+M>avere problemi</E
+M>avere noie alla m</E
+M>cambiare la m</E
+M>di un orologio a pendolo</E
+M>martinicca</E

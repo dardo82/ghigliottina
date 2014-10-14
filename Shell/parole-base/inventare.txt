@@ -1,0 +1,62 @@
+inventare.txt
+"inventare"
+"inventare"
+"inventare un personaggio"
+"inventare, escogitare"
+*[[inventato]],[[inventiva]], [[inventivo]], [[inventore]],[[invenzione]]
+*'''''Hai inventato''' l'acqua calda''
+:*  
+M>*inventare</E
+M>invenire</E
+M>inventus</E
+M>io invènto</E
+M>una macchina</E
+M>uno strumento</E
+M>una tecnica di fabbricazione</E
+M>un nuovo sistema di coltivazione</E
+M>la stampa è stata inventata da Giovanni Gutenberg</E
+M>non ha inventato la polvere</E
+M>ha scoperto l’America!</E
+M>ha inventato l’acqua calda!</E
+M>crede</E
+M>credono</E
+M>di avere inventato l’acqua calda</E
+M>viva chi inventò la bistecca!</E
+M>chi ha inventato il letto era un grand’uomo!</E
+M>accidenti a chi ha inventato</E
+M>i. una moda</E
+M>un ballo</E
+M>un nuovo gioco</E
+M>è una pietanza che ho inventato io</E
+M>non sapresti i</E
+M>qualche cosa per ammazzare il tempo?</E
+M>bisognerà i</E
+M>qualche espediente per passare inosservati</E
+M>inventarne</E
+M>inventarsele</E
+M>ne inventa di tutte per farmi inquietare</E
+M>quel benedetto ragazzo ne inventa una ogni giorno</E
+M>una ne fa e una ne inventa</E
+M>se le inventa tutte!</E
+M>ne inventa delle belle</E
+M>oggi ne inventano di tutti i colori</E
+M>personaggi</E
+M>avvenimenti</E
+M>episodî inventati</E
+M>l’azione si svolge in una località irreale</E
+M>inventata dall’autore</E
+M>inventarsi</E
+M>non è affatto vero ciò che dici</E
+M>te lo sei inventato</E
+M>questa te la sei inventata stanotte!</E
+M>inventarsi pericoli</E
+M>difficoltà</E
+M>frottole</E
+M>bugie</E
+M>calunnie</E
+M>la storiella è inventata di sana pianta</E
+M>hanno inventato che nello scandalo sono compromesso anch’io</E
+M>per inventare è un asso</E
+M>io non invento!</E
+M>mescolare avvenimenti storici e avvenimenti inventati</E
+M>notizie inventate</E

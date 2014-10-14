@@ -1,0 +1,5 @@
+barista.txt
+"barista"
+"barista (donna)"
+"barista (uomo)"
+*[[barman]], [[cameriere]]

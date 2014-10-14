@@ -1,0 +1,61 @@
+comporre.txt
+"comporre"
+"comporre"
+"comporre"
+"comporre"
+"comporre"
+"comporre musica"
+"costituire, comporre"
+"costituire, comporre"
+"fare, comporre un numero"
+#*'''''comporre''' un puzzle, '''comporre''' un tema, '''comporre''' un listato
+*[[costituire]]
+*[[compositoio]], [[fotocomporre]]
+M>comp</E
+M>con</E
+M>porre</E
+M>le idee</E
+M>le parole nel discorso</E
+M>una pagina</E
+M>una colonna</E
+M> proprietà del c</E
+M>un miscuglio</E
+M>una bibita con varî ingredienti</E
+M>una vecchia greca gran maestra di compor veleni</E
+M>una ghirlanda di fiori</E
+M>l’idrogeno e l’ossigeno compongono l’acqua</E
+M>quattro figli componevano la sua famiglia</E
+M>la vita umana</E
+M>è composta e intessuta parte di dolore</E
+M>parte di noia</E
+M>la mia famiglia si compone</E
+M>è composta</E
+M>di tre persone</E
+M>la giuria è composta di cinque membri</E
+M>l’opera si compone di otto volumi</E
+M>un sonetto</E
+M>un poema</E
+M>un trattato</E
+M>una sinfonia</E
+M>il maestro stava componendo al pianoforte</E
+M>quel ragazzo compone bene</E
+M>esercitarsi nel c</E
+M>avviamento al comporre</E
+M>i capelli</E
+M>l’abito</E
+M>il cadavere fu composto nella bara</E
+M>il volto al sorriso</E
+M>a ilarità</E
+M>a mestizia</E
+M>componendo il volto a un’aria di vivo interessamento</E
+M>le membra</E
+M>comporsi</E
+M>una lite</E
+M>un dissidio</E
+M>una controversia sindacale</E
+M>le discordie</E
+M>le inimicizie</E
+M>due litiganti</E
+M>un tumulto</E
+M>avere</E
+M>con lui compose di dovergli dare cinquecento fiorin d’oro</E

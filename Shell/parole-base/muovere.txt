@@ -1,0 +1,170 @@
+muovere.txt
+"agitare, muovere"
+"da non spostare, da non muovere"
+"mostrare come ci si deve muovere"
+"muovere"
+"muovere"
+"muovere agitare"
+"muovere agitare"
+"muovere guerra a"
+"muovere i primi passi."
+"muovere mari e monti"
+"muovere un dito"
+"muovere una critica"
+"muovere velocemente"
+*[[smuovere]], [[spostare]], [[agitare]], [[spingere]]
+*[[fermare]]
+*[[muoversi]], [[rimuovere]], [[sommuovere]]
+*[[movente]], [[movenza]], [[movibile]],[[movimento]]
+M>mov</E
+M>mòssi</E
+M>movésti</E
+M>mòsso</E
+M>moviamo</E
+M>movéte</E
+M>movéssi</E
+M>movèndo</E
+M>muoviamo</E
+M>il mobile è troppo pesante</E
+M>non riesco a muoverlo</E
+M>col piede ha mosso il tavolino</E
+M>le insegne</E
+M>il campo</E
+M>signa</E
+M>castra movere</E
+M>I0 vidi già cavalier muover campo</E
+M>un pezzo</E
+M>una pedina</E
+M>non ho ancora mosso</E
+M>tocca a te m</E
+M>il Bianco muove e vince</E
+M>il vento muove le fronde</E
+M>le acque del lago erano mosse dalla brezza</E
+M>mari e monti</E
+M>ha mosso mari e monti per ottenere quell’incarico</E
+M>muovere</E
+M>smuovere</E
+M>le acque</E
+M>Né mosse collo</E
+M>né piegò sua costa</E
+M>a tempo le braccia</E
+M>le gambe</E
+M>i piedi</E
+M>le gambe</E
+M>le gambe</E
+M>esco un po’</E
+M>tanto per m</E
+M>le gambe</E
+M>i primi passi</E
+M>sta muovendo i primi passi come giornalista</E
+M>come attrice</E
+M>un passo</E
+M>non muoverebbe un passo senza chiedermi consiglio</E
+M>le dita sul pianoforte</E
+M>sulla macchina per scrivere</E
+M>non m</E
+M>un dito</E
+M>non è capace di m</E
+M>un dito</E
+M>non muoverebbe un dito per aiutarci</E
+M>il capo</E
+M>la testa</E
+M>le labbra</E
+M>la coda</E
+M>le penne</E
+M>Un cantico</E
+M>Per l’aer sacro a Dio mosse le penne</E
+M>l’acqua muove la ruota del mulino</E
+M>il vapore che muove la locomotiva</E
+M>la molla che muove l’orologio</E
+M>gli stantuffi muovono l’albero</E
+M>La gloria di colui che tutto move</E
+M>Voi che ’ntendendo il terzo ciel movete</E
+M>le forze che muovono il mondo</E
+M>gli interessi che muovono la politica</E
+M>vedi se riesci a muoverlo di lì</E
+M>non lo muovono dal suo posto</E
+M>E con tanto furor il corsier mosse</E
+M>Che ’l bosco folto sembrava ampia strada</E
+M>il corpo</E
+M>la voce</E
+M>parole</E
+M>Quando io movo i sospiri a chiamar voi</E
+M>una domanda</E
+M>un’obiezione</E
+M>un dubbio</E
+M>querela</E
+M>lite</E
+M>accuse</E
+M>rimproveri</E
+M>guerra</E
+M>Sì che insieme movea pietate e riso Nelle gentili Ninfe</E
+M>l’indignazione</E
+M>muove non poca meraviglia</E
+M>qualcuno a sdegno</E
+M>a pietà</E
+M>avrebbe mosso a compassione anche i sassi</E
+M>muoversi a sdegno</E
+M>a compassione</E
+M>Giustizia mosse il mio alto fattore</E
+M>essere mosso dall’invidia</E
+M>dall’ambizione</E
+M>dall’avidità di guadagno</E
+M>il popolo a tumulto</E
+M>muoversi a tumulto</E
+M>smuovere</E
+M>non ci fu modo di muoverlo dal suo proposito</E
+M>l’uomo giusto non si muove se ben cade il mondo</E
+M>il ferito non riesce a muoversi</E
+M>si mosse con tanta violenza che per poco non cadde</E
+M>nessuno si muova!</E
+M>non si è mai mosso dal suo paese</E
+M>per un mese almeno non ho intenzione di muovermi</E
+M>non muoversi da</E
+M>casa</E
+M>non muoversi dal letto</E
+M>chi sta bene non si muove</E
+M>eppur si muove!</E
+M>la barca seguitava a muoversi per forza d’inerzia</E
+M>Dal centro al cerchio</E
+M>e sì dal cerchio al centro Movesi l’acqua in un ritondo vaso</E
+M>il treno si muove con una velocità oraria di 80 km</E
+M>l’autobus si mosse</E
+M>Movesi il vecchierel canuto e bianco</E
+M>tutti si mossero a incontrarlo</E
+M>invocava aiuto</E
+M>ma nessuno si mosse</E
+M>per soccorrerlo</E
+M>bisognerà pure che qualcuno si muova in nostro aiuto</E
+M>s’è mosso persino il ministro</E
+M>lui non si muove certo</E
+M>ce ne vuole finché si muova</E
+M>muoviti</E
+M>che facciamo tardi!</E
+M>digli che si muova</E
+M>ti muovi</E
+M>ti vuoi muovere?</E
+M>nessuno prevedeva che l’America si sarebbe mossa</E
+M>avere</E
+M>essere</E
+M>pronti a muovere alle ore 10</E
+M>convene Ch’i’ solva il mio dovere anzi ch’i’ mova</E
+M>l’esercito mosse alla volta della città</E
+M>mossero incontro al papa</E
+M>un lungo seguito muoveva dietro al presidente</E
+M>Fuor d’incognita fonte il Nilo muove</E
+M>una strada che muove da un luogo verso un altro</E
+M>una linea che muove da un punto A</E
+M>D’un bel chiaro polito e vivo ghiaccio Move la fiamma che m’incende</E
+M>parole che muovono dal cuore</E
+M>il vostro ragionamento muove da un presupposto sbagliato</E
+M>muoviamo da punti di vista assai diversi</E
+M>il fregio muove lungo tutta la facciata</E
+M>i gelsi ancora non muovono</E
+M>non si muovono</E
+M>il cerbiatto si ferma atterrito a ogni muover di foglia</E
+M>Senti’mi presso quasi un muover d’ala E ventarmi nel viso</E
+M>due linee moventi dallo stesso punto</E
+M>due corpi moventisi in senso contrario</E
+M>Intra due cibi</E
+M>distanti e moventi D’un modo</E

@@ -1,0 +1,23 @@
+rinnegare.txt
+"rinnegare"
+"rinnegare"
+M>*renegare</E
+M>negare</E
+M>io rinnégo</E
+M>tu rinnéghi</E
+M>il proprio padre</E
+M>la famiglia</E
+M>le proprie origini</E
+M>un amico</E
+M>il maestro</E
+M>Pietro rinnegò Gesù</E
+M>Matteo</E
+M>la propria religione</E
+M>la fede</E
+M>la patria</E
+M>un principio morale</E
+M>una tradizione</E
+M>le proprie idee politiche</E
+M>rinnegò la sua vita egoista e si dedicò al volontariato</E
+M>cristiano rinnegato</E
+M>un rinnegato politico</E

@@ -1,0 +1,60 @@
+dichiarare.txt
+"dichiarare"
+"dichiarare"
+"dichiarare"
+"dichiarare di essere"
+"dichiarare falsamente"
+"dichiarare guerra"
+"dichiarare guerra"
+"dichiarare in arresto"
+"dichiarare la verità"
+"dichiarare non colpevole"
+"dichiarare nullo"
+"dichiarare qualcosa nullo"
+"dichiarare un programma"
+"dichiarare una moratoria"
+*[[rivelare]], [[deporre]], [[certificare]], [[professarsi]] 
+M>declarare</E
+M>chiaro</E
+M>le proprie generalità</E
+M>la propria stima</E
+M>il proprio amore</E
+M>mi ha dichiarato le sue intenzioni</E
+M>si dichiarò autore dell’attentato</E
+M>dichiararsi innocente</E
+M>ignaro di tutto</E
+M>consapevole dei proprî doveri</E
+M>mi dichiaro vostro dev</E
+M>dichiararsi contro</E
+M>a favore di qualcuno</E
+M>non ha ancora avuto il coraggio di dichiararsi</E
+M>il proprio stato di famiglia</E
+M>il reddito al fisco</E
+M>la merce soggetta a dazio doganale</E
+M>dichiarò che non avrebbe ceduto a nessun ricatto</E
+M>il testimone dichiara di conoscere personalmente l’imputato</E
+M>il candidato dichiara di non essere preparato a sostenere l’esame</E
+M>si dichiara che il militare in oggetto è in forza presso questo Comando</E
+M>vi dichiaro in arresto</E
+M>la guerra</E
+M>il presidente dichiarò aperta la seduta</E
+M>due sposi marito e moglie</E
+M>dichiararli uniti in matrimonio</E
+M>fu dichiarato dalla commissione di laurea dottore in legge</E
+M>lo dichiarò suo erede universale</E
+M>valido un atto</E
+M>quando aveva vent’anni</E
+M>la commissione di leva lo dichiarò abile</E
+M>la giuria lo ha dichiarato vincitore</E
+M>innocente</E
+M>colpevole</E
+M>contumace</E
+M>un canto della</E
+M>Commedia</E
+M>un passo della</E
+M>Scienza nuova</E
+M>il pensiero d’un autore</E
+M>tosto dichiarerei a molti semplici quello che nelle lor cappe larghissime tengan nascoso</E
+M>Se nel mio mormorar prendesti errore</E
+M>Dichiareranti ancor le cose vere</E
+M>firma del dichiarante</E

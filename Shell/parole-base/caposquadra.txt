@@ -1,0 +1,6 @@
+caposquadra.txt
+"caposquadra"
+M>capo</E
+M>squadra</E
+M>i capisquadra</E
+M>le caposquadra</E

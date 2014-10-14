@@ -1,0 +1,58 @@
+salato.txt
+"lago salato"
+"leggermente salato"
+"salato"
+"salato"
+"salato"
+"salato"
+"salato"
+"salato"
+M>salare</E
+M>acqua s.</E
+M>sorgenti salate.</E
+M>pane s.</E
+M>formaggio s.</E
+M>burro s.</E
+M>una torta s.</E
+M>mandorle salate</E
+M>il brodo è s.</E
+M>bisogna allungarlo</E
+M>l&#8217;arrosto mi sembra un po&#8217; salato</E
+M>preferire il s. al dolce</E
+M>mangiare s.</E
+M>troppo s.</E
+M>acciughe</E
+M>aringhe s.</E
+M>capperi s.</E
+M>pesce s.</E
+M>carne di maiale s. e affumicata.</E
+M>un conto s.</E
+M>una fattura s.</E
+M>prezzi s.</E
+M>pagare s.</E
+M>costare s.</E
+M>l&#8217;hai pagato s. questo cappotto</E
+M>mi sono costati s. gli stivali nuovi</E
+M>la pagherà s. la sua distrazione</E
+M>l&#8217;ha pagato s. quel colpo di testa</E
+M>ci sono compromessi che si pagano salati.</E
+M>una risposta s.</E
+M>battute s.</E
+M>gli ha rivolto delle parole fin troppo s.</E
+M>barzellette salate.</E
+M>il vino di Vostra Signoria m&#8217;è paruto s.</E
+M>Ma s&#8217;egli è ver che sempre sa di sale Lo pane altrui</E
+M>non è poco salato Anche quel d&#8217;un Maestro Comunale</E
+M>salata</E
+M>grassa</E
+M>grascia</E
+M>salare</E
+M>scialare</E
+M>dose</E
+M>i famosi s. emiliani.</E
+M>è salatino questo risotto</E
+M>il conto del ristorante mi è sembrato un po&#8217; salatino</E
+M>rispetto ai prezzi di mercato l&#8217;ha pagato salatamente il nuovo appartamento</E
+M>ti sei presa questa soddisfazione</E
+M>ma l&#8217;hai pagata salatamente</E
+M>ha risposto un po&#8217; troppo salatamente alla battuta di spirito</E

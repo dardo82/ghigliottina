@@ -1,0 +1,59 @@
+tunnel.txt
+"sindrome del tunnel carpale"
+"carpal tunnel syndrome"
+"sono fuori dal tunnel"
+"I have come out of the tunnel, I have survived"
+"tunnel"
+"tunnel"
+"tunnel"
+"tunnel"
+"tunnel, nutmeg"
+"tunnel carpale"
+"carpal tunnel"
+"tunnel dell'amore"
+"tunnel of love"
+"visione a tunnel, visione limitata"
+"tunnel vision"
+*[[traforo]]
+*italiano
+*inglese
+M>tunnel</E
+M>tonnel</E
+M>tonneau</E
+M>galleria</E
+M>traforo</E
+M>il t. del Gottardo</E
+M>del Sempione</E
+M>i continui tunnel dell’autostrada</E
+M>della ferrovia della riviera ligure</E
+M>il t. sottomarino della Manica</E
+M>imboccare un t.</E
+M>uscire dal t.</E
+M>nei t. è obbligatorio accendere i fari</E
+M>i t. di una miniera.</E
+M>malattia dei t.</E
+M>anchilostomiasi</E
+M>entrare</E
+M>essere nel t.</E
+M>uscire dal t.</E
+M>della droga</E
+M>della malattia</E
+M>dell’inflazione</E
+M>della crisi economica</E
+M>fare il t.</E
+M>tunnel</E
+M>t. della trasmissione</E
+M>t. aerodinamico</E
+M>galleria aerodinamica</E
+M>t. idrodinamico</E
+M>galleria idrodinamica</E
+M>t. frigorifero</E
+M>Forno a t.</E
+M>a canale</E
+M>T. di lavaggio</E
+M>t. aponeurotico</E
+M> t. carpale</E
+M>effetto t.</E
+M>diodo t.</E
+M>Microscopio a effetto t.</E
+M>scanning</E

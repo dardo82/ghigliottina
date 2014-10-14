@@ -1,0 +1,9 @@
+rigovernare.txt
+"Traduzione di rigovernare/ non trovata.\nNo translation was found for rigovernare/."
+M>governare</E
+M>io rigovèrno</E
+M>i piatti</E
+M>le posate</E
+M>le pentole</E
+M>la donna stava rigovernando</E
+M>governare</E

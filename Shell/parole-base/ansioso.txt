@@ -1,0 +1,28 @@
+ansioso.txt
+"ansioso"
+"ansioso"
+"ansioso"
+"ansioso di"
+"ansioso, apprensivo"
+"rendere qualcuno ansioso"
+"sentirsi ansioso"
+"troppo ansioso"
+"troppo ansioso"
+"troppo ansioso di piacere"
+*[[agitato]], [[preoccupato]], [[timoroso]], [[angosciato]], [[irrequieto]], [[inquieto]], [[apprensivo]]
+*[[calmo]], [[sereno]], [[tranquillo]]
+*[[ansiosamente]], [[ansare]]
+*[[ansia]] 
+M>anxiosus</E
+M>anxius</E
+M>stato d’animo ansioso</E
+M>sono a</E
+M>di avere tue notizie</E
+M>era a</E
+M>di vederlo arrivare</E
+M>un soggetto a</E
+M>essere un a</E
+M>una ansiosa</E
+M>tensione ansiosa</E
+M>attendere ansiosamente l’esito di un esame</E
+M>la sentenza del giudice</E

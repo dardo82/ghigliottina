@@ -1,0 +1,32 @@
+amministratore.txt
+"amministratore"
+"amministratore comunale"
+"amministratore condominiale"
+"amministratore d'azienda"
+"amministratore delegato"
+"amministratore delegato"
+"amministratore delegato"
+"amministratore di rete"
+"amministratore in carica"
+"amministratore intendente"
+"amministratore locale"
+"amministratore sanitario"
+"amministratore unico"
+*[[gestore]]
+*[[amministrazione]], [[amministrare]]
+M>trice</E
+M>administrator</E
+M>oris</E
+M>administrare</E
+M>un buon a</E
+M>un saggio a</E
+M>essere un ottimo a</E
+M>del proprio patrimonio</E
+M>dei proprî beni</E
+M>l’a</E
+M>di un condominio</E
+M>l’amministratrice del collegio</E
+M>gli a</E
+M>dell’ospedale</E
+M>delegato</E
+M>apostolico</E

@@ -1,0 +1,24 @@
+rinoceronte.txt
+"rinoceronte"
+#* ''
+*italiano
+*portoghese
+*spagnolo
+M>rhinoc</E
+M>ros</E
+M>otis</E
+M>elefante</E
+M>bianco</E
+M>Ceratotherium simum</E
+M>comune</E
+M>africano</E
+M>Diceros bicornis</E
+M>indiano</E
+M>Rhinoceros unicornis</E
+M>sondaico</E
+M>Rhinoceros sondaicus</E
+M>sumatrano</E
+M>Dicerorhinus sumatrensis</E
+M>Scarabeo r</E
+M>Oryctes</E
+M>testa di r</E

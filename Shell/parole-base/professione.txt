@@ -1,0 +1,88 @@
+professione.txt
+"cambiamento di professione"
+"di professione"
+"esercitare (una professione)"
+"esercitare la professione legale\/forense"
+"esercitare la professione medica"
+"libera professione"
+"praticante la professione"
+"professione"
+"professione"
+"professione di fede"
+"professione di fede"
+"professione legale"
+"ragioniere (ufficialmente abilitato alla professione)"
+* [[dichiarazione]], [[aperta manifestazione]], [[dimostrazione]]
+* [[attività]], [[impiego]], [[ufficio]], [[lavoro]], [[mestiere]], [[carriera]]
+M>professio -onis</E
+M>profiteri</E
+M>professus</E
+M>non crediate a coloro che fanno professione d&#8217;avere lasciato le faccende e le grandezze volontariamente e per amore della quiete</E
+M> perché quasi sempre ne è stata cagione o leggerezza o necessità</E
+M>fare p. di lealtà</E
+M>mi faceva le più alte p. di stima</E
+M> di amicizia</E
+M>fa p. d&#8217;essere amico di tutti</E
+M>ho inteso dire che fa p. d&#8217;idee socialiste</E
+M>p. di fede</E
+M>Credo</E
+M>Simbolo degli apostoli</E
+M>Simbolo niceno-costantinopolitano</E
+M>ha fatto la sua p. di fede repubblicana</E
+M>il suo ultimo articolo equivale a una p. di fede marxista</E
+M>p. di legge</E
+M>p. religiosa</E
+M>monastica</E
+M>professione</E
+M>p. dei voti</E
+M>temporanea</E
+M>perpetua</E
+M>semplice</E
+M>solenne</E
+M>p. liberali</E
+M>p. manuali</E
+M>una bella</E
+M>una nobile p</E
+M>una p. onorata</E
+M>stimata</E
+M>lucrosa</E
+M>la scelta di una p</E
+M>avviare qualcuno</E
+M>avviarsi a una p</E
+M>abbracciare</E
+M>intraprendere</E
+M>seguire una p</E
+M>l&#8217;esercizio della p</E
+M>fare la p. dello scrittore</E
+M>del rappresentante di commercio</E
+M>del cameriere</E
+M>esercitava la p. di filatore di seta</E
+M>la p. di moglie</E
+M>di marito</E
+M>gli piace fare la p. del fannullone</E
+M>fa la p. del ladro</E
+M>dello spacciatore</E
+M>di professione</E
+M>per p</E
+M>è giornalista di p</E
+M>fa il pittore</E
+M>il poeta di p</E
+M>essere</E
+M>fare qualcosa di professione</E
+M>è un imbroglione</E
+M>un bugiardo di p</E
+M>fa lo sfruttatore di professione</E
+M>di professione</E
+M>ex professo</E
+M>esercitare la p. di medico</E
+M>di avvocato</E
+M>di ingegnere</E
+M>di chimico</E
+M>di farmacista</E
+M>la p. di commercialista</E
+M>di geometra</E
+M>p. legali</E
+M>tecniche</E
+M>sanitarie</E
+M>p. libere</E
+M>esercizio abusivo di una p</E

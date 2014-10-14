@@ -1,0 +1,117 @@
+tuo.txt
+"a modo tuo"
+"a tuo agio"
+"a tuo favore"
+"a tuo favore"
+"a tuo merito"
+"a tuo modo di vedere"
+"a tuo modo di vedere"
+"a tuo onore"
+"a tuo piacere"
+"a tuo piacimento"
+"a tuo piacimento, a volontà"
+"a tuo vantaggio"
+"al di fuori del tuo controllo"
+"al tuo attivo"
+"al tuo fianco"
+"al tuo livello"
+"al tuo meglio"
+"al tuo posto"
+"al tuo servizio"
+"al tuo servizio"
+"avere il tuo numero"
+"con il tuo permesso"
+"dai il tuo voto a, vota per"
+"dai il tuo voto, vota"
+"dare il tuo amore"
+"del tuo meglio"
+"del tuo meglio"
+"del tuo meglio"
+"è il tuo turno"
+"fai il tuo dovere"
+"fai il tuo piccolo"
+"fare del tuo meglio"
+"gioca a tuo favore!"
+"giustificare il tuo comportamento"
+"il tuo sangue"
+"il tuo turno"
+"il tuo, il vostro, il loro"
+"il tuo, il vostro, il loro"
+"in tuo potere"
+"nel tuo guscio"
+"non e' affar tuo"
+"ogni tuo desiderio è un ordine"
+"per il tuo denaro"
+"per sempre tuo"
+"per tuo conto"
+"perdere il tuo equilibrio"
+"risvegliare il tuo umorismo"
+"ritirare il tuo sostegno"
+"sia santificato il Tuo nome"
+"sotto il tuo comando"
+"sotto il tuo controllo"
+"sotto il tuo controllo"
+"sotto il tuo naso"
+"toccare il tuo cuore"
+"trova il tuo"
+"tuo"
+"tuo"
+#*''Qual è il '''tuo''' maglione?''
+#*''Quello è il '''tuo''' disegno?''
+#*''Verrà nel '''tuo''' collegio''
+*[[w
+* Ottorino Pianigiani, [http
+* Garzanti, ''[http
+* Treccani, ''[http
+M>il tuo vestito</E
+M>il tuo onore</E
+M>la tua responsabilità</E
+M>le tue azioni</E
+M>le tue parole</E
+M>lo conservo per tuo ricordo</E
+M>mio</E
+M>suo</E
+M>tuoi</E
+M>i tuoi amici</E
+M>tua</E
+M>tue</E
+M>tui</E
+M>chi fuor li maggior tui?</E
+M>tua</E
+M>tuoi</E
+M>tue</E
+M>i parenti tua</E
+M>le terre tua</E
+M>tuo</E
+M>tua</E
+M>tue</E
+M>mio</E
+M>suo</E
+M>il tu&#8217; dovere</E
+M>la tu&#8217; casa</E
+M>i tu&#8217; amici</E
+M>le tu&#8217; scarpe</E
+M>to&#8217;</E
+M>mio</E
+M>suo</E
+M>tuo</E
+M>tua</E
+M>vendilo ... e a mogliata dì che ti sia stato imbolato</E
+M>suo</E
+M>tuo</E
+M>il tuo affezionatissimo</E
+M>tuo</E
+M>il tuo</E
+M>come stanno i tuoi?</E
+M>nessuno t&#8217;impedisce di spendere del tuo</E
+M>ne hai combinata un&#8217;altra delle tue!</E
+M>hai diritto anche tu di dire la tua</E
+M>siamo tutti dalla tua</E
+M>tuìssimo</E
+M>questi soldi te li sei guadagnati</E
+M> e sono ormai tuoi</E
+M> tuissimi</E
+M>caro Alfredo</E
+M> fa delle tue cose</E
+M> e quell&#8217;odicina è tuissima</E
+M> quello che vuoi</E

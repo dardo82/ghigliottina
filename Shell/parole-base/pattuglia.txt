@@ -1,0 +1,31 @@
+pattuglia.txt
+"pattuglia"
+"pattuglia"
+"pattuglia a cavallo"
+"pattuglia acrobatica"
+"pattuglia autostradale"
+"pattuglia della polizia"
+*''(sostantivo)'' dal [[francese]] ''[[patrouille]]''
+* ''(voce verbale)''
+*[[squadra]], [[drappello]], [[guardia]], [[ronda]], [[sentinella]]
+*[[esercito]], [[armata]]
+M>patrouille</E
+M>patrouiller</E
+M>patouiller</E
+M>patte</E
+M>una p</E
+M>di agenti</E
+M>di guardie di finanza</E
+M>una p</E
+M>della polizia stradale in motocicletta</E
+M>mandate in esplorazione</E
+M>andare</E
+M>essere</E
+M>far uscire di pattuglia</E
+M>capo pattuglia</E
+M>Nave da pattuglia</E
+M>pattugliatore</E
+M>marittimo</E
+M>aerea</E
+M>acrobatica</E
+M>Gara di pattuglia</E

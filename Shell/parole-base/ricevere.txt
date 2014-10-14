@@ -1,0 +1,231 @@
+ricevere.txt
+"(ricevere) il sussidio dei poveri"
+"del dare e ricevere"
+"fare un'altra uscita sul palco per ricevere gli applausi o per ringraziare il pubblico"
+"ottenere qcs gratuitamente, ricevere qcs gratuitamente"
+"ottenere qcs in omaggio, ricevere qcs in omaggio"
+"pronto a ricevere compagnia"
+"ricevere"
+"ricevere"
+"ricevere"
+"ricevere"
+"ricevere"
+"ricevere Cristo"
+"ricevere dei benefici"
+"ricevere gli ammiratori; tenere banco"
+"ricevere il denaro giusto per il valore dell'oggetto venduto"
+"ricevere il nominativo di qualcuno da"
+"ricevere il Sacramento"
+"ricevere istruzioni"
+"ricevere l'effetto di"
+"ricevere l'Eucarestia"
+"ricevere la comunione"
+"ricevere la paga"
+"ricevere merce rubata"
+"ricevere molti regali"
+"ricevere numerose critiche"
+"ricevere piacere"
+"ricevere un messaggio"
+"ricevere un prodotto"
+"ricevere un sussidio"
+"ricevere una informazione"
+"ricevere una risposta irritata da qcn"
+"ricevere una spintarella"
+#*''Ho ricevuto un dono''
+#*''Dobbiamo prepararci a ricevere il presidente con il massimo degli onori'''
+#*''Il mio telefono cellulare non riceve alcun segnale qui'' 
+* [[prendere]], [[ritirare]], [[riscuotere]]
+*[[subire]], [[sopportare]]
+*[[accogliere]], [[ospitare]], [[invitare]]; [[albergare]], [[alloggiare]]
+*[[sentire]], [[ascoltare]], concedere udienza, [[incontrare]]
+*''(telecomicazioni)'' (di apparecchi) [[captare]], [[intercettare]]
+*''(di materiale)'' [[recepire]], [[trarre]], [[trattenere]], [[contenere]]
+*(1) [[avere]], [[ottenere]]
+*(2) [[accettare]]
+*(3) [[accogliere]], [[contenere]], [[vedere]]
+*[[rifiutare]], [[provocare]], [[indurre]], [[allontanare]], [[cacciare]], [[emettere]]
+*[[ricevente]], [[ricevimento]], [[ricezione]]
+M>rec</E
+M>cap</E
+M>un pugno</E
+M>un danno</E
+M>un&#8217;offesa</E
+M>avere</E
+M>lo stipendio</E
+M>la paga</E
+M>il compenso pattuito</E
+M>ho già ricevuto un acconto per le prime spese</E
+M>un regalo</E
+M>molti regali</E
+M>un&#8217;eredità</E
+M>un bacio</E
+M>un abbraccio</E
+M>la vita</E
+M>vita</E
+M>Io sentia dentr&#8217;al cor già venir meno Gli spirti che da voi ricevon vita</E
+M>una visita</E
+M>un beneficio</E
+M>una promessa</E
+M>il giuramento</E
+M>aiuto</E
+M>; r</E
+M>una grazia</E
+M> un favore</E
+M>per grazia ricevuta</E
+M>la benedizione</E
+M>una lezione</E
+M>delle lezioni</E
+M>prendere</E
+M>una lezione</E
+M>una dura lezione</E
+M>un titolo nobiliare</E
+M>cavalleresco</E
+M>l&#8217;investitura</E
+M>la porpora</E
+M>la corona</E
+M>i sacramenti</E
+M>il battesimo</E
+M>il viatico</E
+M>gli ordini sacri</E
+M>uno schiaffo</E
+M>un pugno in un occhio</E
+M>uno spintone da qualcuno</E
+M>in consegna</E
+M>in deposito</E
+M>in prestito</E
+M>in pegno</E
+M>in cambio</E
+M>in dono</E
+M>in regalo</E
+M>in premio</E
+M>in compenso</E
+M>come stipendio</E
+M>salario</E
+M>ho ricevuto in consegna una valigia</E
+M>ricevette alcuni libri in regalo</E
+M>ha ricevuto solo un grazie in compenso di tante fatiche</E
+M>il magazziniere sostiene di non aver ricevuto la merce</E
+M>per il tuo lavoro</E
+M> riceverai cento euro</E
+M>ha fatto tanto bene ricevendo</E
+M>solo ingratitudine</E
+M>dichiaro di ricevere</E
+M>di aver ricevuto la somma di</E
+M>un pacco</E
+M>una lettera</E
+M>un telegramma</E
+M>una telefonata</E
+M>un segnale</E
+M>un avviso</E
+M>una comunicazione</E
+M>un messaggio</E
+M>una buona</E
+M>una brutta notizia</E
+M>risposta</E
+M>ricevi tanti saluti</E
+M>riceva i miei omaggi</E
+M>gli augurî per il compleanno</E
+M>un&#8217;invito</E
+M>un&#8217;offerta di lavoro</E
+M>una proposta di matrimonio</E
+M>un ordine</E
+M>un incarico</E
+M>l&#8217;ordine di recarsi</E
+M>l&#8217;incarico di costituire il governo</E
+M>non ho ancora ricevuto istruzioni in proposito</E
+M>continue osservazioni</E
+M>continui rimproveri</E
+M>trasmettere</E
+M>la Terra riceve energia elettromagnetica dal Sole</E
+M>antenna direzionale che riceve nella direzione N</E
+M>apparecchio</E
+M>che riceve bene</E
+M>male</E
+M>i segnali</E
+M>la mia radio riceve anche le onde corte e cortissime</E
+M>r. la palla in area di rigore</E
+M>r. il passaggio</E
+M>l&#8217;ha ricevuto in casa</E
+M>nel salotto</E
+M>nel suo studio</E
+M>in ufficio</E
+M>a braccia aperte</E
+M>con molte feste</E
+M>familiarmente</E
+M>con cordialità</E
+M>alla buona</E
+M>con tutti gli onori</E
+M>venne il discreto siniscalco e loro con preziosissimi confetti e ottimi vini ricevette e riconfortò</E
+M>essere ricevuto in collegio</E
+M>in convento</E
+M>in un istituto</E
+M>qualcuno nella propria squadra</E
+M>aspirare a essere ricevuto come socio in un circolo</E
+M>in un&#8217;accademia</E
+M>il direttore la riceverà subito</E
+M>il presidente è in riunione e non può r</E
+M>nessuno</E
+M>il padre stesso si è rifiutato di riceverlo</E
+M>la signora si scusa ma non può riceverla</E
+M>i clienti</E
+M>il pubblico</E
+M>il dottore riceve dalle 10 alle 19; l&#8217;avvocato riceve solo la mattina</E
+M>il capo dello stato ha ricevuto il ministro degli Esteri</E
+M>la giunta al completo con il sindaco andò a r</E
+M>alla stazione l&#8217;illustre concittadino</E
+M>all&#8217;aeroporto c&#8217;erano a riceverlo tutti i suoi vecchi amici</E
+M>mi vide arrivare da lontano</E
+M> e scese fino in giardino a ricevermi</E
+M>lo riceverò io come si merita!</E
+M>Caccianli i ciel per non esser men belli</E
+M>Né lo profondo inferno li riceve</E
+M>è un salone che può r</E
+M>fino a 300 persone</E
+M>stoffa che non riceve la tinta</E
+M>intonaco speciale che non riceve l&#8217;umidità</E
+M>il serbatoio non riceve altra acqua</E
+M>il malato non può r</E
+M>cibo</E
+M>un medicamento che il mio stomaco non riceve</E
+M>il fiume riceve acqua da più affluenti</E
+M>la stanza riceve aria e luce da un ampio finestrone</E
+M>le vele ricevevano il vento di fianco</E
+M>mentre si sporgeva</E
+M> ricevette una pallottola in pieno petto</E
+M>il battaglione ricevette a piè fermo l&#8217;urto del nemico</E
+M>nella proposizione attiva il soggetto fa l&#8217;azione</E
+M> nella proposizione passiva la riceve</E
+M>subisce</E
+M>una cortesia</E
+M>liete accoglienze</E
+M>soddisfazione di un&#8217;offesa</E
+M>lodi</E
+M>ha ricevuto un&#8217;ottima educazione</E
+M>un torto</E
+M>un&#8217;ingiustizia</E
+M>un insulto</E
+M>un affronto</E
+M>un castigo</E
+M>una punizione</E
+M>una multa</E
+M>i tessuti passano quindi in altre macchine</E
+M>dove ricevono un&#8217;ulteriore rifinitura</E
+M>giovamento</E
+M>beneficio</E
+M>danno</E
+M>conforto</E
+M>consolazione</E
+M>sollievo</E
+M>questo sportello deve aver ricevuto una bella botta!</E
+M>una buona</E
+M>una cattiva</E
+M>una forte impressione</E
+M>i centri nervosi ricevono le eccitazioni dagli stimoli che agiscono su di essi</E
+M>l&#8217;opinione comunemente ricevuta</E
+M>il testo fino a oggi ricevuto</E
+M>in un vocabolario</E
+M>la regola da seguirsi è quella sicuramente di dare alle parole l&#8217;ortografia più ricevuta</E
+M>chi lo volesse difendere in questo</E
+M>ci sarebbe quella scusa così corrente e ricevuta</E
+M>ch&#8217;erano errori del suo tempo</E
+M>piuttosto che suoi</E

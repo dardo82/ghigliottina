@@ -1,0 +1,135 @@
+deposito.txt
+"cauzione, deposito"
+"certificato di deposito"
+"conto deposito"
+"conto di deposito"
+"deposito"
+"deposito"
+"storage, depository"
+"deposito"
+"deposito bagagli"
+"deposito bancario"
+"deposito cauzionale"
+"deposito di denaro"
+"deposito di legname"
+"deposito di minerale"
+"deposito di rottami, rottamaio"
+"deposito di sicurezza"
+"deposito forniture"
+"deposito ipotecario"
+"deposito minerario"
+"deposito munizioni"
+"deposito per le scorie"
+"deposito sotterraneo per ortaggi"
+"deposito temporaneo"
+"deposito vincolato"
+"di deposito di legname"
+"fede di deposito"
+"fermo deposito"
+"in deposito"
+"in deposito"
+"in deposito"
+"in deposito"
+"libretto di deposito"
+"mettere in deposito"
+"ricevuta di deposito"
+"richiedere un deposito"
+*[[custodia]], [[recapito]]
+*''(di documenti)'' [[consegna]]
+*''(negli ospedali)ì'' [[astanteria]]
+* [[sedimento]], [[residuo]], [[accumulo]], [[posatura]]
+* ''(particolarmente di liquidi)'' [[fondo]], [[residuo]] 
+*''(di denaro)'' [[caparra]], [[pegno]]
+*''(in banca)'' [[versamento]] 
+*[[magazzino]], [[emporio]]
+*''(per cereali)'' [[silo]]
+* [[ripostiglio]]
+*[[ritiro]], [[prelievo]]
+*Enciclopedia [http
+M>depos</E
+M>tum</E
+M>depon</E
+M>di una merce in magazzino</E
+M>dei bagagli alla stazione</E
+M>dare</E
+M>lasciare</E
+M>affidare</E
+M>ricevere</E
+M>avere</E
+M>tenere in d</E
+M>lasciare un libro in d</E
+M>deposito</E
+M>depositario</E
+M>deponente</E
+M>depositante</E
+M>bancario</E
+M>a risparmio</E
+M>in conto corrente</E
+M>a scaden</E
+M>a fissa</E
+M>fiduciario</E
+M>libero</E
+M>vincolato</E
+M>fare</E
+M>eseguire un d</E
+M>in banca</E
+M>nei magazzini generali</E
+M>doganale</E
+M>della comparsa</E
+M>del ricorso in Cassazione</E
+M>di un brevetto</E
+M>della firma</E
+M>del testamento</E
+M>bancarî</E
+M>postali</E
+M>giudiziarî</E
+M>custodire</E
+M>ritirare</E
+M>restituire il deposito</E
+M>della fede</E
+M>depositum fidei</E
+M>bagagli</E
+M>merci</E
+M>i d</E
+M>dei magazzini generali</E
+M>i d</E
+M>della dogana</E
+M>franco</E
+M>di legname</E
+M>di carbone</E
+M>di vino</E
+M>di armi</E
+M>di munizioni</E
+M>cala</E
+M>questo autobus va al deposito</E
+M>allevamento</E
+M>stalloni</E
+M>astanteria</E
+M>del corpo equipaggi militari e marittimi</E
+M>i d</E
+M>del caffè</E
+M>del vino</E
+M>di una miscela</E
+M>anodico</E
+M>catodico</E
+M>attivo</E
+M>sedimento</E
+M>chimici</E
+M>clastici</E
+M>detritici</E
+M>organogeni</E
+M>cementati</E
+M>sciolti</E
+M>fluviali</E
+M>marini</E
+M>lacustri</E
+M>eolici</E
+M>glaciali</E
+M>abissali</E
+M>pelagici</E
+M>litorali</E
+M>deltizî</E
+M>torrentizî</E
+M>isopici</E
+M>eteropici</E
+M>omotopici</E

@@ -1,0 +1,12 @@
+affezionare.txt
+"affezionare, replace: affezionarsi"
+* [[affezionarsi]]
+M>io affezióno</E
+M>agli studî</E
+M>alla lettura</E
+M>pericoli i quali affezionano maggiormente alla vita</E
+M>affezionarsi a una persona</E
+M>a un ideale</E
+M>si affezionò a poco a poco alla scuola</E
+M>a quel genere di lavoro</E
+M>il gatto s’affeziona alla casa</E

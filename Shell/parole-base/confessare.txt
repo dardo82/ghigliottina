@@ -1,0 +1,46 @@
+confessare.txt
+"confessare"
+"confessare"
+"confessare"
+"confessare tutto, dire la verità"
+"dire la verità, confessare"
+*''(una colpa, un difetto e simili)''[[ammettere]], [[riconoscere]], [[dichiarare]]
+*''(un segreto ecc.)'' [[confidare]], [[svelare]], [[rivelare]] [[riferire]]
+*[[negare]], [[smentire]], [[sconfessare]]
+*''(un segreto ecc.)''[[tacere]], [[nascondere]], [[celare]]
+*[[sconferrare]], [[confessarsi]]
+M>*confessare</E
+M>confessus</E
+M>confiteri</E
+M>io confèsso</E
+M>l’omicida ha confessato il proprio delitto</E
+M>confessò d’aver rubato per necessità</E
+M>ti confesso d’essermene</E
+M>che me ne sono</E
+M>dimenticato</E
+M>ed ora confesso a te quello che avrei voluto tener segreto</E
+M>e che non confesserei ad altri</E
+M>il reo ha confessato</E
+M>confessò candidamente che non lo sapeva</E
+M>confessò che la cosa gli aveva fatto piacere</E
+M>confesso che non l’avrei creduto capace di tanto</E
+M>il mio vicino era Pininfarina</E
+M> che mi confessò di non conoscere i miei libri</E
+M> e io a lui che non conoscevo le automobili</E
+M>confessarsi vinto</E
+M>confessarsi colpevole</E
+M>hai confessato tutte le bugie che hai detto?</E
+M>confessarsi</E
+M>mostrò desiderio di confessarsi</E
+M>si è confessata con il parroco</E
+M>dovrai confessarti di questa bestemmia</E
+M>vi state confessando?</E
+M>avete finito di confessarvi?</E
+M>il parroco sta confessando i fedeli</E
+M>dice messa ma non ha facoltà di confessare</E
+M>Cristo</E
+M>il Vangelo</E
+M>la fede</E
+M>chiesa confessante</E
+M>peccato confessato</E
+M>mezzo perdonato</E

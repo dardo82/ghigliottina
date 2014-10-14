@@ -1,0 +1,89 @@
+uguale.txt
+"equiareale, di area uguale"
+"essere uguale a"
+"idem!, uguale!, lo stesso!"
+"non uguale"
+"non uguale"
+"quota uguale"
+"segno di uguale (=)"
+"uguale"
+"uguale"
+"uguale, replace: uguali"
+"uguale (=)"
+"uguale a"
+#* la legge è 
+#* due [[giraffa|giraffe]] alte 
+*[[stesso]], [[identico]], [[simile]], [[eguale]]
+*[[disuguale]], [[ineguale]], [[diverso]]
+*[[egualitario]], [[egualizzare]], [[uguagliare]], [[ugualità]], [[ugualmente]]
+*''
+M>aequalis</E
+M>aequus</E
+M>la tua automobile</E
+M> salvo il colore</E
+M> è proprio u. alla mia</E
+M>sta per scoppiare un temporale u. a quello di ieri</E
+M>vorrei una penna u. a questa</E
+M>quel gattino è proprio u. alla madre</E
+M>questi due libri sono u.</E
+M>i tre disegni non sono perfettamente u. ma hanno solo poche differenze</E
+M>ragazzi u. di età</E
+M> di carattere</E
+M>i ragazzi sono tutti u.: se li lasci soli</E
+M> combinano sempre qualche guaio</E
+M>i regimi dittatoriali sono tutti u.</E
+M>uguali come due gocce d’acqua.</E
+M>cori a voci u.</E
+M>cravatte di colore u.</E
+M>un tavolo di forma u.</E
+M> ma di legno diverso</E
+M>le nostre forze sono u.</E
+M>abbiamo tutti u. diritti e u. doveri</E
+M>il gioco è u.</E
+M>la legge è u. per tutti</E
+M>le condizioni che pongo sono u. per ognuno di voi</E
+M>è un uomo sempre u. a sé stesso</E
+M>in quell’occasione fu u.</E
+M>pari</E
+M> a sé stesso</E
+M>procedere con andatura u.</E
+M>parlare con voce u.</E
+M>uno stile u.</E
+M>il cielo era coperto da una nuvolaglia scura</E
+M> tutta uguale.</E
+M>pianura u.</E
+M>una trave</E
+M> un’asse u.</E
+M>il rivestimento di vernice non è venuto tutto uguale.</E
+M>uguale</E
+M>segno di uguale</E
+M>uguale</E
+M>essere u. a</E
+M>4 più 3 è u. a 7</E
+M>42 per 15 è u. a 630</E
+M>5 per 7 u. a 35</E
+M>u. 35</E
+M>x u. a 5</E
+M>congruenti</E
+M>è per definizione u. al prodotto di a con sé stesso.</E
+M>u. approssimativamente</E
+M>è rispettoso coi superiori</E
+M> cortese con gli u.</E
+M>fra uguali ci si sente maggiormente a nostro agio. La cospirazione degli Eguali</E
+M>di Babeuf</E
+M>un artista</E
+M> un chirurgo che non ha l’u.</E
+M> che non trova uguali</E
+M>la sua bravura è senza uguali</E
+M>se non vuoi andarci per me è u.</E
+M>due ragazzi alti uguale</E
+M>alti uguali</E
+M>se siete stanchi</E
+M> anche noi siamo stanchi uguale</E
+M>egualménte</E
+M>tratta ugualmente il ricco e il povero</E
+M>distribuì ugualmente tra i figli le sue ricchezze</E
+M>la cera va spalmata ugualmente sul pavimento</E
+M>i due radiatori sono ugualmente caldi</E
+M>gliene sono grata ugualmente</E
+M>vinceranno ugualmente</E

@@ -1,0 +1,17 @@
+monarchico.txt
+"monarchico"
+M>il reggimento m</E
+M>della Chiesa</E
+M>l’istituto m</E
+M>ordinamento</E
+M>regime</E
+M>governo m</E
+M>il potere m</E
+M>assolutismo m</E
+M>le attribuzioni monarchiche</E
+M>stato m</E
+M>nazione monarchica</E
+M>partito m</E
+M>atteggiamento m</E
+M>essere di idee monarchiche</E
+M>una nazione retta monarchicamente</E

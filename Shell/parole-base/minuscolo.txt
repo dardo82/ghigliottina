@@ -1,0 +1,30 @@
+minuscolo.txt
+"minuscolo"
+"minuscolo"
+"uomo minuscolo"
+#* ''ha un naso minuscolo''
+#* ''titolo non deve essere in minuscolo''
+*[[piccolissimo]]
+M>minusc</E
+M>lus</E
+M>minor</E
+M>lettere m</E
+M>caratteri m</E
+M>iniziale m</E
+M>la m</E
+M>si scrive con la m</E
+M>carattere m</E
+M>minuscolo</E
+M>lettere m</E
+M>ascendenti</E
+M>discendenti</E
+M>scrittura m</E
+M>un m</E
+M>nasino</E
+M> batte il m. mio cuore neonato Come milioni di altri muscoli nascosti</E
+M>una porzione m</E
+M>un m</E
+M>cervellino</E
+M>un cellulare m.</E
+M>si accontenta della sua m</E
+M>gloria</E

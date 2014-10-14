@@ -1,0 +1,109 @@
+ministero.txt
+"assistente pubblico ministero"
+"ministero"
+"ministero"
+"ministero degli affari esteri"
+"ministero degli esteri"
+"ministero degli esteri"
+"Ministero del commercio"
+"ministero del commercio estero"
+"ministero del lavoro e delle politiche sociali"
+"ministero del tesoro"
+"ministero dell'interno"
+"ministero della pubblica istruzione"
+"ministero della salute"
+"ministero delle attività produttive"
+"ministero dello sviluppo economico"
+"pubblico ministero"
+"pubblico ministero"
+"pubblico ministero (in processo penale)"
+*[[governo]], [[compagine]], [[governativa]], organi di governo, [[ministri]], consiglio dei ministri, potere esecutivo
+*(della pubblica amministrazione) [[dicastero]], [[settore]], [[dipartimento]]
+*(di governo) [[sede]]
+*[[missione]], alto compito
+*[[ministeriale]]
+*[[ministro]]
+*''pubblico ministero''
+M>ministerium</E
+M>minister</E
+M>poi che ’l gran Padre del cielo A tanto ministerio ti prepose Di correggere i venti e turbar l’onde</E
+M>avreste prestato a quegli innocenti infelici il ministero che avevan ragione di chieder da voi?</E
+M>Maria</E
+M>a’ piedi di Cristo sedendo</E
+M>nulla cura del ministerio de la casa mostrava</E
+M>pubblico</E
+M>pubblico ministero</E
+M>il m</E
+M>dell’educazione dei giovani</E
+M>compiere un m</E
+M>di pace</E
+M>di civiltà</E
+M>il m</E
+M>dell’arte</E
+M>della poesia</E
+M>il sacro m</E
+M>il m</E
+M>sacerdotale</E
+M>ecclesiastico</E
+M>apostolico</E
+M>il m</E
+M>dell’altare</E
+M>il m</E
+M>episcopale</E
+M>le fatiche del m</E
+M>adempiere ai doveri del m</E
+M>esercitare santamente il proprio m</E
+M>quando vi siete presentato alla Chiesa</E
+M>per addossarvi codesto ministero</E
+M>v’ha essa fatto sicurtà della vita?</E
+M>gabinetto</E
+M>il m</E
+M>Crispi</E
+M>il m</E
+M>Giolitti</E
+M>il m</E
+M>De Gasperi</E
+M>comporre</E
+M>sciogliere il m</E
+M>crisi di m</E
+M>la formazione del nuovo m</E
+M>forte</E
+M>debole</E
+M>monocolore</E
+M>quadripartito</E
+M>pentapartito</E
+M>socialista</E
+M>liberale</E
+M>democristiano</E
+M>radicale</E
+M>progressista</E
+M>reazionario</E
+M>d’affari</E
+M>dicastero</E
+M>portafoglio</E
+M>il m</E
+M>degli Interni</E
+M>dell’Interno</E
+M>degli Esteri</E
+M>degli Affari Esteri</E
+M>della Pubblica Istruzione</E
+M>della Giustizia</E
+M> del Tesoro</E
+M> delle Finanze</E
+M>del Bilancio</E
+M> della Famiglia</E
+M> delle Pari Opportunità</E
+M>dei Lavori Pubblici</E
+M>ministeri</E
+M>chiave</E
+M>la direzione generale</E
+M>le divisioni</E
+M>le sezioni di un ministero</E
+M>assumere</E
+M>deporre il m</E
+M>rinunciare al ministero</E
+M>gli impiegati</E
+M>gli uscieri del m</E
+M>far domanda al ministero</E
+M>andare al ministero</E
+M>Pubblico ministero</E

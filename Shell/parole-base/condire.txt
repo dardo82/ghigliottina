@@ -1,0 +1,19 @@
+condire.txt
+"condire"
+"condire"
+"condire un'insalata con una salsa"
+"salsa per condire al pepe e limone"
+*[[condimento]]
+M>condire</E
+M>io condisco</E
+M>tu condisci</E
+M>condimenti</E
+M>i maccheroni col sugo</E
+M>il radicchio</E
+M>l’insalata</E
+M>ha condito il suo discorsetto con molti fiori retorici</E
+M>Sai che</E
+M>l vero condito in molli versi I più schivi allettando ha persuaso</E
+M>le lodi con qualche stoccatina</E
+M>queste ultime parole io le condii d’un discreto sapore d’ironia</E
+M>l’ha condito come meritava</E

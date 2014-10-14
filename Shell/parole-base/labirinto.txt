@@ -1,0 +1,37 @@
+labirinto.txt
+"labirinto"
+"labirinto"
+"labirinto"
+*''(edificio)'' [[dedalo]]
+*[[labirintico]]
+*Enciclopedia [http
+M>labyrinthus</E
+M>il l</E
+M>di Creta</E
+M>questo non è un appartamento</E
+M>è un l</E
+M>di specchi</E
+M>dedalo</E
+M>Fuggì piangendo</E
+M>e con le mani ai crini</E
+M>Per selve e boscherecci labirinti</E
+M>onde Che con bei labirinti Trascorrono il sentiero</E
+M>non riesco a orientarmi in questo l</E
+M>di calcoli</E
+M>cacciarsi</E
+M>perdersi in un l</E
+M>Nel laberinto intrai</E
+M>né veggio ond’esca</E
+M>osseo</E
+M>membranoso</E
+M>perilinfa</E
+M>endolinfa</E
+M>anteriore</E
+M>acustico</E
+M>posteriore</E
+M>vestibolare</E
+M>statico</E
+M>cinetico</E
+M>renale</E
+M>l. acustico</E
+M>Classificatore a labirinto</E

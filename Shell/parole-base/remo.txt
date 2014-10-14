@@ -1,0 +1,55 @@
+remo.txt
+"Remo"
+"Remo, Remus"
+"remo"
+M>mus</E
+M>barca a remi</E
+M>navi a due</E
+M>tre ordini di remi</E
+M>pala</E
+M>ginocchio</E
+M> tallone</E
+M>girone</E
+M>impugnatura del r</E
+M>alla battana</E
+M>da bratto</E
+M>da gondola</E
+M>a pagaia</E
+M>a scaloccio</E
+M>De&#8217; r</E
+M>facemmo ali al folle volo</E
+M>il tonfo misurato di que&#8217; due r</E
+M>che tagliavano la superficie azzurra del lago</E
+M>uscivano a un colpo grondanti</E
+M>e si rituffavano</E
+M>ogni mattina un&#8217;ora di remo</E
+M>condannare al r</E
+M>doppio</E
+M>alla battana</E
+M>da bratto</E
+M>da gondola</E
+M>a pagaia</E
+M>a palella</E
+M>di coppia</E
+M>a scaloccio</E
+M>sensile</E
+M>di punta</E
+M>armare i r</E
+M>arma remi!</E
+M>disarmare i r</E
+M>disarma!</E
+M>alzare i r</E
+M>alza remi!</E
+M>remi a mare</E
+M>a mare!</E
+M>filare i r</E
+M>fila remi!</E
+M>rientrare i r</E
+M>rientra remi!</E
+M>spalare i r</E
+M>tirare i r</E
+M>in barca</E
+M>è ora di tirare i r</E
+M>in barca</E
+M>a questo punto</E
+M>alla mia età</E

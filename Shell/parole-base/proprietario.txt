@@ -1,0 +1,59 @@
+proprietario.txt
+"cambiare proprietario"
+"essere il proprietario"
+"locatore, proprietario"
+"nome proprietario"
+"proprietario"
+"proprietario di albergo"
+"proprietario"
+"proprietario di cane"
+"proprietario di casa"
+"proprietario di un'officina"
+"proprietario di una piantagione"
+"proprietario terriero"
+"proprietario terriero"
+"proprietario terriero"
+"stato di proprietario"
+"terreno appartenente al proprietario di un fabbricato"
+*(di proprietà, bene, immobile) [[padrone]], [[signore]], [[possessore]], [[possidente]], [[detentore]]
+*[[povero]], [[nullatenente]], [[indigente]] 
+* [[assetto proprietario]]
+*[[proprietà]]
+M>proprietarius</E
+M>il p</E
+M>dell&#8217;appartamento</E
+M>del terreno</E
+M>dell&#8217;officina</E
+M>della fabbrica</E
+M>dello stabilimento</E
+M>del negozio</E
+M>dell&#8217;albergo</E
+M>è lui il p</E
+M>della barca</E
+M>è p</E
+M>di una villa al mare</E
+M>di un&#8217;immensa tenuta</E
+M>di molti poderi</E
+M>grazie all&#8217;eredità è diventata p</E
+M>di tutto il palazzo</E
+M>la borsa è stata trovata e consegnata al suo legittimo p</E
+M>è lei il p</E
+M>di questo cane?</E
+M>non si sa chi sia il p</E
+M>dell&#8217;autovettura che ostruisce il passaggio</E
+M>un p</E
+M>di immobili</E
+M>i difficili rapporti tra p</E
+M>e inquilino</E
+M>un p</E
+M>che ha portato al successo la sua industria</E
+M>grandi</E
+M>medî</E
+M>piccoli p</E
+M>un ricco p</E
+M>terriero</E
+M>di reggimento</E
+M>diritto p</E
+M>la parte p</E
+M>gestione p</E
+M>classe proprietaria</E

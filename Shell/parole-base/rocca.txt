@@ -1,0 +1,34 @@
+rocca.txt
+"cristallo di rocca"
+"rocca"
+"rocca"
+"rocca"
+"rocca"
+* ''(stoccaggio del filato)'' [[conocchia]]
+M>*rocca</E
+M>Al piè al piè de la stagliata r</E
+M>allume di rocca</E
+M>cristallo di rocca</E
+M>cristallo di monte</E
+M>una r</E
+M>posta su un monte</E
+M>costruire</E
+M>assaltare</E
+M>difendere la r</E
+M>chiudersi nella r</E
+M>ben munita</E
+M>forte</E
+M>Rocca d&#8217;Arce</E
+M>di Cave</E
+M>di Papa</E
+M>saldo</E
+M>forte come una r</E
+M>Sicura</E
+M>quasi rocca in alto monte</E
+M>fare r</E
+M>del cuore</E
+M>castello</E
+M>petrosa</E
+M>osso petroso</E
+M>periotico</E
+M>del camino</E

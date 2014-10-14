@@ -1,0 +1,49 @@
+alimentazione.txt
+"alimentazione"
+"alimentazione"
+"alimentazione"
+"alimentazione a gravità"
+"alimentazione compulsiva"
+"alimentazione elettrica"
+"alimentazione idraulica"
+"alimentazione smoderata"
+"cavo d'alimentazione"
+"cereali per alimentazione umana"
+"disturbo dell'alimentazione"
+"impianto di alimentazione"
+"pompa di alimentazione"
+"rete di alimentazione"
+"sottoporre ad alimentazione forzata"
+"sottoposto ad alimentazione forzata"
+"tubo d'alimentazione"
+#* '''''alimentazione''' [[ricca]] di [[proteine]]''
+*[[nutrizione]], [[cibo]], [[dieta]]
+*[[sovralimentazione]]
+*[[alimentare]], [[alimentatore]]
+M>scienza dell’a</E
+M>infantile</E
+M>l’a</E
+M>del bestiame</E
+M>provvedere all’a</E
+M>dei figli</E
+M>dei malati</E
+M>di popolazioni denutrite</E
+M>liquida</E
+M>vegetale</E
+M>scarsa</E
+M>abbondante</E
+M>sana</E
+M>di un’arma</E
+M>delle caldaie a vapore</E
+M>dei motori a combustione interna</E
+M>naturale</E
+M>forzata</E
+M>sovralimentazione</E
+M>di apparecchi e impianti elettrici</E
+M>a corrente alternata</E
+M>da rete</E
+M>a corrente continua</E
+M>a batteria</E
+M>ad accumulatori</E
+M>autonoma</E
+M>moto di a</E

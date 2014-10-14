@@ -1,0 +1,54 @@
+formaggio.txt
+"coltello da formaggio"
+"di formaggio"
+"forma di formaggio"
+"formaggio"
+"formaggio americano"
+"formaggio Camembert"
+"formaggio caprino"
+"formaggio con i buchi"
+"formaggio di mucca"
+"formaggio di Munster"
+"formaggio fresco"
+"formaggio fresco"
+"formaggio fresco morbido"
+"formaggio grattugiato"
+"frittata al formaggio"
+"panino con formaggio alla griglia"
+"pasta e formaggio"
+"piatto di formaggio"
+"pizza al formaggio"
+"toast con formaggio fuso"
+"torta al formaggio"
+"vassoio da formaggio"
+#*''devo dimagrire
+*[[cacio]]
+* [[formaggera]],[[formaggiera]], [[formaggia]], [[formaggiaio]]
+* [[cantina]], [[forma]], [[pasta]], [[stagionatura]]
+* ''al contadino non far sapere, quant'è buono il 
+*Enciclopedia [http
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p.&nbsp;844
+M>formage</E
+M>fromage</E
+M>formaticum</E
+M>forma</E
+M>vaccino</E
+M>pecorino</E
+M>caprino</E
+M>di bufala</E
+M>grasso</E
+M>semigrasso</E
+M>magro</E
+M>duro</E
+M>molle</E
+M>crudo</E
+M>semicotto</E
+M>cotto</E
+M>fresco</E
+M>stagionato</E
+M>a maturazione rapida</E
+M>media</E
+M>lenta</E
+M>formaggio</E
+M>cacio</E
+M>una scatola di formaggini</E

@@ -1,0 +1,104 @@
+internazionale.txt
+"accordo internazionale"
+"agenzia di stampa internazionale"
+"Alfabeto fonetico internazionale"
+"ambito internazionale"
+"apertura internazionale"
+"banca internazionale"
+"Comitato Olimpico Internazionale"
+"Corte Internazionale di Giustizia"
+"diritto internazionale"
+"diritto internazionale privato"
+"diritto internazionale pubblico"
+"diritto pubblico internazionale"
+"festival internazionale"
+"Fondo Monetario Internazionale"
+"grande realtà internazionale"
+"intermediario internazionale"
+"internazionale"
+"internazionale"
+"internazionale"
+"internazionale"
+"internazionale"
+"internazionale"
+"Linea del cambiamento di data, linea internazionale del cambio di data"
+"organizzazione internazionale"
+"Organizzazione Internazionale del Lavoro"
+"prestito internazionale"
+"ribalta internazionale"
+"scacchiere internazionale"
+"unità internazionale"
+#*'''diritto internazionale'''
+*[[cosmopolita]], [[mondiale]], [[sopranazionale]], [[planetario]]
+*[[interno]], [[nazionale]], [[locale]], [[nostrano]], [[casalingo]]
+*[[internazionalmente]], [[internazionalismo]], [[internazionalità]], [[internazionalizzare]]
+*[[inter-]], [[nazionale]], [[nazione]]
+M>inter</E
+M>nazione</E
+M>international</E
+M>relazioni i</E
+M>commercio i</E
+M>scambî i</E
+M>accordo</E
+M>trattato</E
+M>controversia</E
+M>arbitrato i</E
+M>incontro i</E
+M>di calcio</E
+M>campionati i</E
+M>di tennis</E
+M>gli i</E
+M>di tennis</E
+M>problema</E
+M>questione i</E
+M>diritto i</E
+M>diritto i</E
+M>pubblico</E
+M>diritto i</E
+M>privato</E
+M>lingue i</E
+M>ladro i</E
+M>polizia i</E
+M>Interpol</E
+M>gotico i</E
+M>nazionale</E
+M>studioso</E
+M>scrittore</E
+M>artista di fama i</E
+M>un’iniziativa di portata internazionale</E
+M>la zona i</E
+M>di Tangeri</E
+M>la concessione i</E
+M>di Shangai</E
+M>il Danubio è un fiume internazionale</E
+M>acque i</E
+M>alto mare</E
+M>mare libero</E
+M>acque territoriali</E
+M>nazioni</E
+M>istituzioni</E
+M>enti i</E
+M>convegno</E
+M>congresso</E
+M>conferenza i</E
+M>esposizione i</E
+M>mostra i</E
+M>d’arte</E
+M>ampere i</E
+M>coulomb i</E
+M>ohm internazionale</E
+M>città</E
+M>spiaggia i</E
+M>un albergo internazionale</E
+M>Internazionale Socialista</E
+M>la prima I.</E
+M>l’I</E
+M>la seconda I</E
+M>la terza I.</E
+M>I. comunista</E
+M>Comintern</E
+M>la quarta I</E
+M>una convenzione internazionalmente accettata</E
+M>organismi internazionalmente riconosciuti</E
+M>un artista</E
+M>uno scienziato noto internazionalmente</E

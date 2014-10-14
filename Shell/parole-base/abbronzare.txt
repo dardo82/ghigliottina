@@ -1,0 +1,10 @@
+abbronzare.txt
+"abbronzare"
+"abbronzare, replace: abbronzarsi"
+M>io abbrón</E
+M>la biancheria</E
+M>al mare</E
+M>il sole ci ha rapidamente abbronzati</E
+M>abbronzarsi al sole</E
+M>sulla spiaggia</E
+M> in barca</E

@@ -1,0 +1,37 @@
+veglia.txt
+"nel sonno e nella veglia"
+"veglia"
+"veglia"
+"veglia funebre"
+*[[sonno]]
+*[[dormiveglia]]
+M>mi parve di sentire</E
+M> stando così tra la v. e il sonno</E
+M> che qualcuno mi chiamasse</E
+M>ho fatto due notti di v. completa e sono stanco morto</E
+M>lunghe ore di v. sui libri</E
+M>una v. angosciosa</E
+M>piena di incubi</E
+M>Nelle paure della v. bruna</E
+M> Te noma il fanciulletto</E
+M>vigilia d’armi</E
+M>v. liturgica</E
+M>Te Deum</E
+M>v. pasquale</E
+M>fare la v. a un infermo</E
+M>fare la v. a un defunto</E
+M>v. funebre</E
+M>Stato di veglia</E
+M>stato vigile</E
+M>sveglia</E
+M>posizione di veglia</E
+M>stare a veglia fino a notte tarda</E
+M>andare a veglia in casa di amici</E
+M>dai vicini</E
+M>cose da raccontarsi a veglia</E
+M>Veglie</E
+M>Veglie piacevoli</E
+M>Le veglie di Neri</E
+M>veglie</E
+M>V. danzante</E
+M>veglione</E

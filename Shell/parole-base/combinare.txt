@@ -1,0 +1,54 @@
+combinare.txt
+"combinare"
+"combinare"
+"combinare"
+"combinare"
+"combinare"
+"combinare"
+"combinare, replace: combinarsi"
+"combinare, replace: combinarsi"
+"combinare, replace: combinarsi"
+"combinare, replace: combinarsi"
+"Combinare un guaio"
+M>combinare</E
+M>bini</E
+M>con</E
+M>i colori</E
+M>una serie di numeri la cui somma sia 100</E
+M>due gas</E
+M>l’ossigeno col carbonio</E
+M>l’idrogeno combinandosi con l’ossigeno dà luogo all’acqua</E
+M>è difficile c</E
+M>la modestia con l’orgoglio</E
+M>un affare</E
+M>un contratto</E
+M>un matrimonio</E
+M>il prezzo di una partita di merce</E
+M>il prezzo</E
+M>io non so c</E
+M>e ho pagato ciò che mi ha chiesto</E
+M>una gita</E
+M>un’escursione</E
+M>abbiamo combinato di andare in campagna domani</E
+M>s’è combinato che venisse lui da me</E
+M>che cosa hai combinato in tutto questo tempo?</E
+M>si dà da fare ma non combina nulla</E
+M>è un fannullone che non combinerà mai niente di buono</E
+M>cerca di non c</E
+M>guai!</E
+M>bel pasticcio che mi hai combinato!</E
+M>ma che cosa stai combinando?</E
+M>combinarne una grossa</E
+M>combinarne delle belle</E
+M>ne ha combinata certo una delle sue</E
+M>avere</E
+M>le sue dichiarazioni non combinano con le mie</E
+M>la copia combina con l’originale</E
+M>quanto tu dici non combina con i fatti</E
+M>il colore del mobile non si combina con la tappezzeria</E
+M>non ci siamo combinati sul prezzo</E
+M>sono due caratteri che non si combinano</E
+M>si combinò che proprio allora egli fosse malato</E
+M>si diede la combinazione</E
+M>come ti sei combinato?</E
+M>ma guarda come s’è combinato!</E

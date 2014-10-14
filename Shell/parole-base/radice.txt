@@ -1,0 +1,145 @@
+radice.txt
+"alla media di radice quadrata"
+"andare alle radice della questione"
+"ganglio della radice dorsale"
+"radice"
+"radice"
+"radice"
+"radice"
+"radice cubica"
+"radice di angelica"
+"radice di liquirizia"
+"radice di tutti i mali"
+"radice di Yam, radice di igname"
+"radice di zenzero"
+"radice dorsale"
+"radice madre"
+"radice principale"
+"radice quadrata"
+"radice quadrata della media dei quadrati"
+"radice quadrata media"
+#* ''ha sradicato la pianta strappandone le '''radici'''''
+#* ''la '''radice''' di [[pulizia]] e pulito è puli-''
+#* ''la radice quadrata di 16 è 4''
+M>radix</E
+M>cis</E
+M>radichetta</E
+M>caliptra</E
+M>cuffia</E
+M>pileoriza</E
+M>principale</E
+M>primaria</E
+M>secondaria</E
+M>laterale</E
+M>avventizie</E
+M>fittonata</E
+M>a fittone</E
+M>fascicolate</E
+M>tuberizzate</E
+M>epigee</E
+M>aeree</E
+M>commestibili</E
+M>da foraggio</E
+M>mettere le r</E
+M>al sole</E
+M>quattro contadini</E
+M>con le zappe in aria</E
+M>che principiavano a scalzar la pianta</E
+M>per metterle le r</E
+M>al sole</E
+M>rizoma</E
+M>radice di gramigna</E
+M>ramolaccio</E
+M>ravanello</E
+M>brasiliana</E
+M>ipecacuana</E
+M>colubrina</E
+M>viperina</E
+M>di serpentaria</E
+M>gialla</E
+M>curcuma</E
+M>a le radici Del gran monte Gargano</E
+M>le r</E
+M>di una torre</E
+M>di un castello</E
+M>del pelo</E
+M>dell&#8217;unghia</E
+M>del dente</E
+M>della lingua</E
+M>di un nervo</E
+M>della vena porta</E
+M>Radici dei nervi</E
+M>la r</E
+M>di un callo</E
+M>arrossì fino alla r</E
+M>dei capelli</E
+M>da la radice Sveller si sente il cor dal lato manco</E
+M>Il colse Penelèo sotto le ciglia Dell&#8217;occhio alla r</E
+M>la r</E
+M>del male</E
+M>colpire il vizio alla r</E
+M>andare alla r</E
+M>delle cose</E
+M>di una questione</E
+M>alla r</E
+M>delle lotte cittadine in Firenze antica era l&#8217;inimicizia di alcune famiglie</E
+M>O del dolce mio mal prima radice</E
+M>frutto</E
+M>le r</E
+M>della virtù sono amare</E
+M>i frutti dolci</E
+M>di un orogene</E
+M>Qui fu innocente l&#8217;umana r</E
+M>O fronda mia in che io compiacemmi Pur aspettando</E
+M> io fui la tua r</E
+M>mettere radice</E
+M>radici</E
+M>le r</E
+M>la superbia</E
+M>il dubbio</E
+M>il sospetto aveva messo radici nel suo cuore</E
+M>la fede</E
+M>la virtù</E
+M>il vizio</E
+M>aveva salde r</E
+M>in lui</E
+M>nel suo cuore</E
+M>nell&#8217;animo suo</E
+M>piantare</E
+M>mettere le r</E
+M>in un luogo</E
+M>la sua famiglia era giunta parecchi anni prima nel paese e vi aveva ormai messo radici</E
+M>l&#8217;ospite pareva avere messo radici in casa loro</E
+M>strappare</E
+M>svellere</E
+M>estirpare dalle r</E
+M>correre</E
+M>corrente</E
+M>corridore</E
+M>corriere</E
+M>corsa</E
+M>corsaro</E
+M>córso</E
+M>corr</E
+M>/cors</E
+M>cour</E
+M>/cours</E
+M>courir</E
+M>courant</E
+M>coureur</E
+M>courrier</E
+M>course</E
+M>cours</E
+M>currere</E
+M>currus</E
+M>curriculum</E
+M>cursus</E
+M>kers</E
+M>Radice di indice n</E
+M>ennesima</E
+M>radicando</E
+M>quadrate</E
+M>cubiche</E
+M>Estrazione di radice</E
+M>Radice di un&#8217;equazione</E
+M>radice</E

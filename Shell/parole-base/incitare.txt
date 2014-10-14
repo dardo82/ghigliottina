@@ -1,0 +1,24 @@
+incitare.txt
+"incitare"
+"incitare gli animali con la frusta"
+"incitare, istigare"
+"infiammare, incitare, aizzare"
+M>incitare</E
+M>citare</E
+M>cire</E
+M>ciere</E
+M>io ìncito</E
+M>incìto</E
+M>ad agire</E
+M>a risolversi</E
+M>alla battaglia</E
+M>alla sommossa</E
+M>al bene</E
+M>al male</E
+M>al lavoro</E
+M>allo studio</E
+M>all’odio</E
+M>alla vendetta</E
+M>un cavallo alla corsa</E
+M>i venti</E
+M>L’onda incitata dagl’inferni Dei</E

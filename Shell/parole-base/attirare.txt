@@ -1,0 +1,25 @@
+attirare.txt
+"attirare"
+"attirare"
+"attirare a sé"
+"attirare l'attenzione"
+"attirare l'attenzione"
+"attirare l'attenzione"
+"attirare l'attenzione"
+"attirare l'attenzione di"
+"attirare le critiche"
+"attirare una folla"
+"intrattenimento per attirare l'attenzione"
+M>la calamita attira il ferro</E
+M>attrarre</E
+M>la bellezza del paesaggio attira molti forestieri</E
+M>i clienti con la pubblicità</E
+M>qualcuno in un tranello</E
+M>i nemici in un’imboscata</E
+M>gli sguardi</E
+M>l’attenzione di qualcuno</E
+M>a sé con lusinghe</E
+M>quell’avventura mi attirava</E
+M>attirarsi odio</E
+M>inimicizie</E
+M>quel gesto gli attirò la simpatia di tutti</E

@@ -1,0 +1,40 @@
+durezza.txt
+"durezza"
+"durezza"
+"durezza"
+"durezza"
+"durezza"
+"durezza di cuore"
+M>dur</E
+M>tia</E
+M>durus</E
+M>la d</E
+M>della pietra</E
+M>del marmo</E
+M>la d</E
+M>di un materiale</E
+M>prove di d.</E
+M>d. Brinell</E
+M>Knoop</E
+M>Rockwell</E
+M>scala di d</E
+M>scala di Mohs</E
+M>scala Mohs modificata</E
+M>scala Mohs-Ridgway</E
+M>al taglio</E
+M>è a tutti noto per la d</E
+M>del suo carattere</E
+M>di cuore</E
+M>che d</E
+M>di mente!</E
+M>trattare con d</E
+M>di contorni</E
+M>di linee</E
+M>di stile</E
+M>d. del tratto</E
+M>appoggiatura</E
+M>dell’acqua</E
+M>temporanea</E
+M>permanente</E
+M>totale</E
+M>Grado di d</E

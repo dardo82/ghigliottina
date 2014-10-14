@@ -1,0 +1,26 @@
+ditta.txt
+"ditta"
+"ditta"
+"ditta delle consegne"
+"ditta esterna"
+"ditta individuale"
+"premiata ditta"
+"Spettabile Ditta"
+*[[titolo]], ragione sociale
+M>detta</E
+M>dire</E
+M>patronimica</E
+M>una d</E
+M>di generi alimentari</E
+M>di prodotti farmaceutici</E
+M>una vecchia d</E
+M>una d</E
+M>che ispira fiducia</E
+M>affidata</E
+M>andare in ditta</E
+M>trascorrere la giornata in d</E
+M>alla ditta</E
+M>entrare in ditta</E
+M>offre la d</E
+M>paga la d</E
+M>censuaria</E

@@ -1,0 +1,9 @@
+muschio.txt
+"coperto di muschio"
+"muschio, musco"
+"muschio, musco"
+"muschio di torba"
+"pietra muschio"
+"verde muschio"
+"verde muschio"
+*[[musco]]

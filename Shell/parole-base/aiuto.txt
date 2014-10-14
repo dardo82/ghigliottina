@@ -1,0 +1,69 @@
+aiuto.txt
+"a favore di, in aiuto di"
+"aiuto"
+"aiuto"
+"aiuto"
+"aiuto cameriere"
+"aiuto cuoco"
+"aiuto di stato"
+"aiuto finanziario"
+"aiuto infermiera"
+"aiuto nel momento del bisogno"
+"aiuto ospedaliero"
+"aiuto reciproco"
+"appoggio, sostegno, aiuto"
+"chiedere aiuto"
+"chiedere aiuto a qualcuno"
+"con l'aiuto di"
+"dare aiuto"
+"dare aiuto"
+"dare aiuto a qc, aiutare qc"
+"di aiuto"
+"di nessun aiuto"
+"essere d'aiuto"
+"essere d'aiuto"
+"essere d'aiuto"
+"essere d'aiuto a"
+"grande aiuto"
+"implorare l'aiuto di qualcuno"
+"in aiuto di qc\/qcs"
+"mano di aiuto"
+"missione di aiuto"
+"offrire il proprio aiuto"
+"prestare aiuto a qualcuno"
+"richiedere l'aiuto di qualcuno"
+"segnale di richiesta di aiuto"
+"segnale di richiesta di aiuto"
+"spero di esserti stato di aiuto"
+"venire in aiuto"
+*[[assistenza]], [[appoggio]], [[sostegno]], [[soccorso]], [[appoggio]] [[collaborazione]],  [[cooperazione]], [[ausilio]], [[protezione]], [[rinforzo]]
+* [[aiutante]], [[assistente]], [[collaboratore]], [[coadiutore]], [[sostituto]], [[vice]] 
+* [[altruismo]] 
+*[[impedimento]], [[ostacolo]], [[boicottaggio]] 
+M>adi</E
+M>tus</E
+M>adiuvare</E
+M>dare</E
+M>porgere</E
+M>recare</E
+M>invocare</E
+M>chiedere a</E
+M>correre</E
+M>venire in a</E
+M>servire d’a</E
+M>aiuto!</E
+M>con l’a</E
+M>di Dio</E
+M>se mi può dare un piccolo a</E
+M>per la mia famiglia</E
+M>inviare aiuti ai sinistrati</E
+M>agli alluvionati</E
+M>medico</E
+M>chirurgo</E
+M>contabile</E
+M>operatore</E
+M>regista</E
+M>macchinista</E
+M>aiuti medici</E
+M>aiuti chirurghi</E
+M>aiuti</E

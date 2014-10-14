@@ -1,0 +1,33 @@
+invernale.txt
+"giornata invernale"
+"invernale"
+"invernale"
+"invernale"
+"maglia invernale"
+"segale invernale"
+"sport invernale"
+"vento invernale"
+*[[freddo]], [[gelido]], [[rigido]], [[duro]], [[inclemente]]
+*(di abito) [[pesante]]
+*[[caldo]], [[estivo]], [[afoso]]
+*[[inverno]]
+M>la stagione invernale</E
+M>piogge i</E
+M>lavori i</E
+M>vacanze i</E
+M>letargo</E
+M>sonno i</E
+M>sport invernali</E
+M>alpinismo i</E
+M>olimpiadi invernali</E
+M>abiti i</E
+M>provviste i</E
+M>quartieri i</E
+M>quartieri d’inverno</E
+M>clima i</E
+M>freddi</E
+M>geli i</E
+M>alla fine d’agosto</E
+M>abbiamo avuto giornate veramente invernali</E
+M>pianta annua i</E
+M>annua iemale</E

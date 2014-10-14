@@ -1,0 +1,11 @@
+frumento.txt
+"cracker di farina di frumento"
+"frumento"
+* [[grano]], [[tritico]]
+M>frumentum</E
+M>frui</E
+M>Triticum</E
+M>grano</E
+M>calvo</E
+M>calbigia</E
+M>cariosside</E

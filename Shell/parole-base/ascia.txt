@@ -1,0 +1,17 @@
+ascia.txt
+"ascia"
+"ascia da combattimento"
+"ascia, scure"
+"fatto con l'ascia"
+#* ''dopo alcuni colpi dell''''ascia''' l'albero cadde per terra''. 
+#* '''''ascia''' [[bipenne]]
+*[[accetta]], [[mannaia]], [[scure]]
+*[[asciare]]
+#* ''un'
+* [[reff]], [[naspa]], [[füs]], [[gügia]]
+*italiano
+* lombardo
+M>ascia</E
+M>asce</E
+M>Maestro d’a.</E
+M>fatto con l’a</E

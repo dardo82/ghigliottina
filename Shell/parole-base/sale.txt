@@ -1,0 +1,167 @@
+sale.txt
+"aggiustare di sale e pepe"
+"sale in cattedra\"
+"avere poco sale in zucca"
+"capelli sale e pepe, capelli brizzolati"
+"ciò che sale deve scendere"
+"dieta povera di sale"
+"granello di sale"
+"il sale della terra..."
+"macchina spargi - sale"
+"mettere il sale"
+"mettere il sale sulla coda"
+"mettere sotto sale"
+"miscela di aglio seccato e sale"
+"piana di sale"
+"pizzico di sale"
+"restare di sale"
+"sale"
+"sale"
+"sale marino"
+"sale"
+"sale comune"
+"sale con spezie"
+"sale da tavola"
+"sale di ammonio"
+"sale e pepe"
+"sale e pepe"
+"sale in zucca"
+"sale inglese"
+"sale inglese"
+"sale marino"
+"sale minerale"
+* (''sostantivo singolare'') derivato dal 
+* (''sostantivo plurale'') 
+*[[cloruro di sodio]], [[salgemma]], [[sale comune]], 
+*[[salario]], [[salina]]
+*''restare di sale''
+*''
+* italiano
+* inglese
+M>sal salis</E
+M>-idrico</E
+M>-oso</E
+M>-oroso</E
+M>-ico</E
+M>-orico</E
+M>-uro</E
+M>-ito</E
+M>-ato</E
+M>cloruro di sodio</E
+M>clorito di sodio</E
+M>solfato di sodio</E
+M>-oso</E
+M>-ico</E
+M>cloruro di ferro</E
+M>bicloruro</E
+M>dicloruro</E
+M>di ferro</E
+M>cloruro ferroso</E
+M>cloruro di ferro</E
+M>III</E
+M>tricloruro di ferro</E
+M>cloruro ferrico</E
+M>Sale acido</E
+M>idrogeno</E
+M>acido</E
+M>bi-</E
+M>solfato acido di potassio</E
+M>bisolfato di potassio</E
+M>mono-</E
+M>bi-</E
+M>tri-</E
+M>fosfato monopotassico</E
+M>fosfato tricalcico</E
+M>S. basico</E
+M>mono-</E
+M>bi-</E
+M>tribasico</E
+M>nitrato bibasico di ferro</E
+M>S. neutro</E
+M>s. misto</E
+M>tartrato sodico-potassico</E
+M>s. doppio</E
+M>s. complesso</E
+M>ferrocianuro di potassio</E
+M>s. idrato</E
+M>s. anidro</E
+M>s. da cucina</E
+M>s. comune</E
+M>s. marino</E
+M>sale.</E
+M>salati</E
+M>salgemma</E
+M>s. di miniera</E
+M>s. grosso</E
+M>s. fino</E
+M>raffinato</E
+M>da tavola</E
+M>s. industriale</E
+M>s. denaturato</E
+M>Imposta sul s.</E
+M>sale e tabacchi</E
+M>sali e tabacchi</E
+M>aggiungere il s. all&#8217;acqua della pasta</E
+M>mettere il s. nell&#8217;insalata</E
+M>condire con olio</E
+M>s. e pepe</E
+M>un pizzico</E
+M>un pugno di s.</E
+M>hai messo il s. in tavola?</E
+M>preparare le acciughe sotto s.</E
+M>conservare i capperi sotto s.</E
+M>il minestrone è giusto di s.</E
+M>va bene di sale.</E
+M>non metterci né s. né olio</E
+M>non metterci né s. né pepe</E
+M>il poeta ... stava lì a lasciarsi ballottare senza metterci su né s. né olio</E
+M> sapendo che cosa sono gli amori popolari</E
+M>ha voluto fare di propria testa</E
+M> eccola qua</E
+M> io non ci ho messo né s. né pepe</E
+M>essere senza s.</E
+M>non sapere né di s. né di pepe</E
+M>pepe</E
+M>rispondere col s. e col pepe</E
+M>s. e pepe</E
+M>méttici un po&#8217; di s. sulla coda!</E
+M>mettere il s. sulla coda a qualcuno</E
+M>restare di s.</E
+M>restare di stucco</E
+M>di sasso</E
+M>Genesi</E
+M>rimanere come la moglie di Lot</E
+M>sapere di s.</E
+M>Tu proverai sì come sa di sale Lo pane altrui</E
+M> e come è duro calle Lo scendere e &#8217;l salir per l&#8217;altrui scale</E
+M>patti di sale</E
+M>alleanze di sale</E
+M>s. della sapienza</E
+M>aver poco s. nel cervello</E
+M>in zucca</E
+M>intendere con un grano di s.</E
+M>i sali</E
+M>s. attici</E
+M>Metter potete ben per l&#8217;alto sale Vostro navigio</E
+M>Tiro</E
+M> Pericolando per l&#8217;immenso sale</E
+M> Con l&#8217;oro altrui le voluttà cambiava</E
+M>s. di acetosella</E
+M>s. amaro</E
+M>s. inglese</E
+M>s. di Epsom</E
+M>s. ammoniaco</E
+M>s. di Glauber</E
+M>s. microcosmico</E
+M>s. minerale</E
+M>le piante assorbono dal terreno acqua e s. minerali in essa disciolti</E
+M>s. di Mohr</E
+M>s. di Saturno</E
+M>s. sedativo</E
+M>s. di Vichy</E
+M>s. volatile</E
+M>s. volatile di benzoino</E
+M>Sali da bagno</E
+M>i sali</E
+M>s. aromatici</E
+M>Effetto s.</E

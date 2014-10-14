@@ -1,0 +1,77 @@
+messaggio.txt
+"lanciare un messaggio"
+"lasciare un messaggio"
+"messaggio"
+"messaggio"
+"messaggio automatico"
+"messaggio cifrato"
+"messaggio cifrato"
+"messaggio in codice"
+"messaggio più profondo"
+"messaggio pubblicitario"
+"ricevere un messaggio"
+#*''Il messaggero lesse il suo '''messaggio''' per il Re di Francia''
+#*''Mi è appena arrivato un '''messaggio''''' sul telefonino 
+*[[nota]], [[biglietto]], [[appunto]], [[telegramma]], [[fax]], [[missiva]], [[dispaccio]]
+*[[notizia]], [[comunicazione]], [[ambasciata]], [[comunicato]], [[informazione]]; [[avviso]], avviso pubblicitario, avviso promozionale
+*[[discorso]], [[annuncio]], [[allocuzione]]
+*[[messaggio-spazzatura]], [[messaggero]], [[radiomessaggio]], [[videomessaggio]]
+*Enciclopedia [http
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2002;Le Monnier, p. 1257
+M>message</E
+M>meis</E
+M>ssus</E
+M>affidare</E
+M>consegnare</E
+M>lasciare</E
+M>spedire</E
+M>trasmettere un m</E
+M>ricevere</E
+M>raccogliere un m</E
+M>di vittoria</E
+M>di pace</E
+M>augurale</E
+M>trasmesso da una nave</E
+M>da un aereo</E
+M>telegrafico</E
+M>radiofonico</E
+M>televisivo</E
+M> di posta elettronica</E
+M>cifrato</E
+M>pubblicitario</E
+M>messaggio</E
+M>speciali</E
+M>annuncio</E
+M>lieto</E
+M>doloroso</E
+M>funesto messaggio</E
+M>del presidente della Repubblica al popolo italiano</E
+M>natalizio del papa</E
+M>del ministro della Difesa all’esercito nella ricorrenza della vittoria</E
+M>pronunciare</E
+M>leggere</E
+M>diffondere un messaggio</E
+M>message</E
+M>messaggio del presidente alle Camere</E
+M>informazione</E
+M>il m</E
+M>di Cristo</E
+M>cristiano</E
+M>evangelico</E
+M>il m</E
+M>giovanneo</E
+M>il m</E
+M>di Gandhi</E
+M>il m</E
+M>stilistico del Petrarca</E
+M>il m</E
+M>dei simbolisti</E
+M>il m</E
+M>lasciatoci dalle precedenti generazioni</E
+M>il m</E
+M>il menò</E
+M>e disse</E
+M>Novellino</E
+M>E due di loro</E
+M>in forma di messaggi</E
+M>Corsero incontr’a noi</E

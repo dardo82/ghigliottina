@@ -1,0 +1,62 @@
+cibo.txt
+"assumere del cibo"
+"camminare senza meta in cerca di cibo e lavoro"
+"cibo"
+"cibo"
+"cibo a base di proteine sierose"
+"cibo casalingo"
+"cibo da mangiare con le dita; cibo da cocktail"
+"cibo degli angeli"
+"cibo degli Dei"
+"cibo e bevande"
+"cibo fresco"
+"cibo\"
+"cibo in scatola"
+"cibo macrobiotico; cibi sani"
+"cibo per bestiame, mangime per bestiame, mangime per animali"
+"cibo per cani"
+"cibo per cani"
+"cibo per gatti"
+"cibo per la mente"
+"cibo poco sano"
+"cibo povero"
+"cibo spazzatura"
+"cibo surgelato"
+"cibo unto"
+"cibo\/frutto"
+"dare cibo con le mani"
+"dare cibo con le mani"
+"dare completa totale soddisfazione (di cibo o bevande)"
+"mancanza di cibo"
+"negozio che vende cibo macrobiotico"
+"nutrito dalla mano, che ha preso cibo dalla mano"
+"preparare il cibo"
+"riduzione del cibo"
+"rifiuti del cibo"
+"scolorimento di cibo surgelato in modo improprio"
+"spreco di cibo"
+#*''la quantità di cibo che potete mangiare senza aumentare di peso dipende dal vostro metabolismo''
+*[[alimento]], [[nutrimento]], [[alimenti]], [[vivande]], [[vettovaglie]], [[vitto]], [[piatto]], [[pietanza]]
+*[[cibare]], [[cibarie]]
+* [[pasto]] 
+M>cibus</E
+M>abbondanza</E
+M>scarsezza di cibo; riempirsi di cibo</E
+M>aver bisogno di un c</E
+M>sano</E
+M>sostanzioso</E
+M>nutriente</E
+M>cibi squisiti</E
+M>troppo pesanti</E
+M>non prende</E
+M>non tocca</E
+M>cibo da tre giorni</E
+M>ho ancora il c</E
+M>sullo stomaco</E
+M>l’ora s’appressava Che ’l cibo ne solea essere addotto</E
+M>non è bene coricarsi subito dopo il cibo</E
+M>i buoni libri sono un buon c</E
+M>per la mente</E
+M>la meditazione è il c</E
+M>dello spirito</E
+M>eucaristico</E

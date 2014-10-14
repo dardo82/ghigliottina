@@ -1,0 +1,50 @@
+affogare.txt
+"affogare"
+"affogare"
+"affogare"
+"affogare"
+"affogare in un bicchier d'acqua"
+#* '''''affogare''' i dispiaceri nell' alcol''
+#* ''solo con la sabbia si '''affoga''' e con l' aceto si stempera [il fuoco greco]'' (D' Annunzio)
+#* ''e pur men grava e morde il mal che n' addolora del tedio che n' '''affoga''''' (Leopardi)
+#* ''i precetti '''affogano''' il genio'' (Mazzini)
+#* '''''affogare''' le uova''
+#* '''''affogare''' in un bicchier d' acqua''
+*Dal 
+M>*affocare</E
+M>off</E
+M>care</E
+M>fauces</E
+M>io affógo</E
+M>tu affóghi</E
+M>lo affogarono nel lago</E
+M>i dispiaceri nel vino</E
+M>preso dalla disperazione</E
+M>s’è affogato</E
+M>solo con la sabbia Si affoga e con l’aceto si stempera</E
+M>E pur men grava e morde Il mal che n’addolora Del tedio che n’affoga</E
+M>i precetti affogano il genio</E
+M>tu ci affoghi con le tue chiacchiere</E
+M>per comprare il suo silenzio</E
+M>lo affogarono di denari</E
+M>le uova</E
+M>il pesce</E
+M>essere</E
+M>per poco non affogò nel Tevere</E
+M>qui si affoga dal caldo</E
+M>soffocare</E
+M>dall’afa</E
+M>dalla gente</E
+M>dalla rabbia</E
+M>nella miseria</E
+M>nei debiti</E
+M>in un bicchier d’acqua</E
+M>o bere o affogare</E
+M>morire affogato</E
+M>hanno ripescato due affogati</E
+M>uova affogate</E
+M>gelato affogato</E
+M>stanza</E
+M>strada affogata</E
+M>matto</E
+M>scaccomatto affogato</E

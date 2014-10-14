@@ -1,0 +1,24 @@
+treccia.txt
+"treccia"
+"intreccio, forma intrecciata"
+"treccia"
+"treccia"
+M>*trichia</E
+M>farsi la t.</E
+M>le t.</E
+M>sciogliere le t.</E
+M>ha portato le t. fino ai tredici anni</E
+M>t. lunghe</E
+M>corte</E
+M>bionde</E
+M>nere</E
+M>t. aperta</E
+M>t. chiusa</E
+M>t. di pane</E
+M>t. dolce</E
+M>t. di mozzarella</E
+M>una t. di liquirizia</E
+M>resta</E
+M>una t. di agli</E
+M>di cipolle</E
+M>di fichi secchi</E

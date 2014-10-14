@@ -1,0 +1,20 @@
+scostare.txt
+"scostare"
+M>discostare</E
+M>io scòsto</E
+M>s. il tavolo</E
+M>s. il letto dalla parete</E
+M>s. la macchina</E
+M>s. un mobile</E
+M>largare</E
+M>da quando è caduto in disgrazia tutti lo scostano</E
+M>durante la malattia del figlio</E
+M> non s&#8217;è mai scostata dal suo letto</E
+M>le spiace scostarsi un momento?</E
+M>se non ti scosti non posso passare</E
+M>scostarsi dalla retta via</E
+M>è uno che non si scosta facilmente dalle sue abitudini</E
+M>cerchiamo di non scostarci dall&#8217;argomento</E
+M>avere</E
+M>l&#8217;armadio scosta due o tre centimetri dalla parete</E
+M>il collo del cappotto scosta troppo</E

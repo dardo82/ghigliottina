@@ -1,0 +1,21 @@
+congedare.txt
+"congedare"
+"congedare"
+"congedare"
+"congedare, replace: congedarsi"
+"congedare, replace: congedarsi"
+M>io congèdo</E
+M>mi ascoltò benevolmente e poi mi congedò con molte promesse</E
+M>con buone parole</E
+M>con una stretta di mano</E
+M>con un breve saluto</E
+M>bruscamente</E
+M>con cattive maniere</E
+M>congedarsi</E
+M>congedarsi dagli amici</E
+M>dalla famiglia</E
+M>dagli ospiti</E
+M>una classe</E
+M>sarò congedato in aprile</E
+M>i militari congedati</E
+M>i congedati e le reclute</E

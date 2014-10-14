@@ -1,0 +1,31 @@
+burrasca.txt
+"avviso di burrasca"
+"burrasca"
+"burrasca"
+"burrasca"
+"mare in burrasca, mare in tempesta"
+"tempo di burrasca"
+M>boreas</E
+M>moderata</E
+M>forte</E
+M>fortissima</E
+M>far b</E
+M>tempo di b</E
+M>mare in b</E
+M>il buon pilota si conosce alle b</E
+M>oggi il tempo è a b</E
+M>una b</E
+M>di neve</E
+M>bufera</E
+M>magnetica</E
+M>tempesta magnetica</E
+M>ne abbiam passate delle b</E
+M>il pover’uomo era riuscito a passare i sessant’anni</E
+M>senza gran burrasche</E
+M>la b</E
+M>della guerra</E
+M>c’è stata b</E
+M>ieri alla Camera</E
+M>per la discussione della legge</E
+M>c’è aria di b</E
+M>tempesta</E

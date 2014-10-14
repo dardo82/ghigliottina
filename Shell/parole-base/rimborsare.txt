@@ -1,0 +1,14 @@
+rimborsare.txt
+"rimborsare"
+*[[rimborso]]
+M>imborsare</E
+M>io rimbórso</E
+M>i nomi</E
+M>i numeri sorteggiati</E
+M>le spese di viaggio e di soggiorno</E
+M>gli rimborserò i suoi soldi fino all&#8217;ultimo centesimo</E
+M>ho pagato tutti i suoi debiti</E
+M>ma ha promesso di rimborsarmi al più presto</E
+M>dimmi quanto hai speso e ti rimborserò</E
+M>non essendosi effettuata la rappresentazione</E
+M>agli spettatori fu rimborsato il prezzo del biglietto</E

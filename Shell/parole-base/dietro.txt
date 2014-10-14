@@ -1,0 +1,162 @@
+dietro.txt
+"a dietro front"
+"andare dietro"
+"andare dietro; inseguire"
+"ascoltare da dietro la porta"
+"buttarsi qualcosa dietro le spalle"
+"che guarda dietro"
+"correre dietro"
+"correre dietro a qn"
+"correre dietro a qn"
+"correre dietro alle ragazze"
+"di dietro"
+"di dietro"
+"dietro"
+"dietro"
+"dietro compare in numerose loc., sia con significato letterale (correre dietro a qn) sia figurato (andare dietro alle novità)"
+"dietro"
+"dietro"
+"dietro"
+"dietro"
+"dietro"
+"dietro a"
+"dietro a"
+"dietro a (amer.)"
+"dietro c'è più di quanto uno possa immaginare"
+"dietro cauzione"
+"dietro compenso"
+"dietro consiglio di"
+"dietro di"
+"dietro di"
+"dietro di lui, alle sue spalle"
+"dietro l'angolo"
+"dietro l'oltre"
+"dietro la pagina"
+"dietro la tenda"
+"dietro le quinte"
+"dietro le quinte"
+"dietro le quinte"
+"dietro le quinte"
+"dietro le quinte"
+"dietro le sbarre"
+"dietro le spalle"
+"dietro pagamento"
+"essere dietro"
+"gettarsi qualcosa dietro le spalle"
+"impazzire dietro qualcosa"
+"la ragione che sta dietro a"
+"la ragione dietro"
+"lasciarsi dietro"
+"portarsi dietro"
+"stanza dietro le quinte di un teatro"
+"stare dietro a"
+"subito dietro l'angolo"
+"tirare dietro"
+"tirarsi dietro"
+"trascinare dietro"
+#* ''Cinzia è '''dietro''' di te''
+*[[didietro]]
+* ''agire, stare, muoversi, 
+* [[diretro]],  [[dirietro]]
+*italiano
+*latino
+*inglese
+M>de r</E
+M>tro</E
+M>l’uscio</E
+M>il tavolo</E
+M>all’orizzonte</E
+M>tenere le mani d</E
+M>la schiena</E
+M>nascondersi d</E
+M>il paravento</E
+M>camminare uno d</E
+M>l’altro</E
+M>Sovra le spalle</E
+M>da la coppa</E
+M>di me</E
+M>di sé</E
+M>di loro</E
+M>vienimi d</E
+M>gli andò d</E
+M>andare d</E
+M>a uno</E
+M>andare d</E
+M>ai capricci della moda</E
+M>sei uno sciocco ad andar d</E
+M>a ciò che dice</E
+M>Tener d</E
+M>a uno</E
+M>cammina</E
+M>leggi</E
+M>detta</E
+M>più adagio</E
+M>altrimenti non posso tenerti dietro</E
+M>Star d</E
+M>a uno</E
+M>Correre d</E
+M>a una cosa</E
+M>farsi correre d</E
+M>Lasciarsi d</E
+M>s’era lasciato d</E
+M>tutti i pittori dell’epoca</E
+M>Portarsi d</E
+M>una cosa</E
+M>una persona</E
+M>quando uno muore</E
+M>i soldi non se li porta certo dietro</E
+M>Tirarsi d</E
+M>qualcuno</E
+M>tirarsi d</E
+M>qualcosa</E
+M>si tirò d</E
+M>il biasimo di tutti</E
+M>tirar d</E
+M>la frutta è a buon mercato? sì</E
+M>te la tirano dietro! Dir d</E
+M>a uno</E
+M>alle spalle di uno</E
+M>io le cose non gliele dico d</E
+M>Essere d</E
+M>a una cosa</E
+M>a fare una cosa</E
+M>era d</E
+M>a scrivere una lettera</E
+M>la pentola era d</E
+M>a bollire</E
+M>fare qualcosa d</E
+M>le quinte</E
+M>gettarsi d</E
+M>le spalle</E
+M>mettersi qualcosa dietro le spalle</E
+M>i guai mi son capitati uno d</E
+M>l’altro</E
+M>un giorno d</E
+M>mangiare là giù venutone</E
+M>all’esempio dei più anziani</E
+M>alla scorta de’ grandi esempi</E
+M>pagamento anticipato</E
+M>in contanti</E
+M>domanda</E
+M>richiesta</E
+M>istanza</E
+M>le tue osservazioni</E
+M>hai agito così d</E
+M>mio consiglio</E
+M>nostro suggerimento</E
+M>non guardare d</E
+M>qua d</E
+M>lì d</E
+M>andare</E
+M>venire</E
+M>precedevano i più coraggiosi</E
+M>gli altri venivan d</E
+M>con cautela</E
+M>le due cavalcature andavan dietro dietro</E
+M>con lo stesso passo</E
+M>dietro</E
+M>tu mettiti avanti</E
+M>io sto di d</E
+M>il cavallo s’era ferito alle gambe di d</E
+M>la parte di d</E
+M>dei calzoni</E

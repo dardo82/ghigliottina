@@ -1,0 +1,22 @@
+prigione.txt
+"cella di prigione"
+"compagno di cella in prigione"
+"essere in prigione"
+"essere in prigione"
+"fuori di prigione"
+"in prigione"
+"in prigione"
+"in prigione"
+"mettere in prigione"
+"mettere in prigione"
+"prigione"
+"prigione"
+"prigione"
+"prigione di massima sicurezza"
+"prigione federale"
+"prigione statale"
+*[[carcere]], [[galera]]
+*[[penitenziario]], casa di pena, casa circondariale, luogo di pena, [[cella]], [[segreta]]
+*''(la pena della prigione)''[[carcerazione]], [[detenzione]],[[ reclusione]], [[galera]], [[carcere]]; [[prigionia]]
+*[[libertà]], [[latitanza]]
+*[[prigionia]]

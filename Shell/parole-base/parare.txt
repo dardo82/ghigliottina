@@ -1,0 +1,104 @@
+parare.txt
+"andare a parare"
+"parare"
+"parare"
+"riparare, schermare"
+"parare"
+M>parare</E
+M>insidie</E
+M>il convito</E
+M>il sacerdote si parava per la messa</E
+M>i diaconi aiutarono il vescovo a pararsi</E
+M>pararsi a festa</E
+M>la chiesa a lutto</E
+M>pararono la sala come per le grandi occasioni</E
+M>qualcuno dai colpi</E
+M>dalle bastonate</E
+M>vieni accanto a me</E
+M>che ti paro col mio ombrello</E
+M>pararsi la faccia con le mani</E
+M>gli occhi dalla troppa luce</E
+M>pararsi dal vento dentro a un portone</E
+M>pararsi dalle botte</E
+M>dalla grandine</E
+M>fatto segno di quella fitta sassaiola</E
+M>cercava di pararsi come poteva</E
+M>ho chiuso la tenda per p</E
+M>il sole</E
+M>si mise una sciarpa intorno al collo per p</E
+M>il freddo</E
+M>il lume</E
+M>scòstati</E
+M>che mi pari il sole</E
+M>c&#8217;era davanti a me un mezzo gigante che mi parava tutto lo spettacolo</E
+M>un albero mi parava la vista</E
+M>una stoccata</E
+M>un fendente</E
+M>i colpi con lo scudo</E
+M>i pugni dell&#8217;avversario</E
+M>un colpo</E
+M>un&#8217;insidia</E
+M>un attacco</E
+M>le critiche</E
+M>le accuse</E
+M>non sempre si riesce a p</E
+M>i colpi della sorte</E
+M>un tiro angolato difficile da p</E
+M>il pallone</E
+M>un calcio di rigore</E
+M>con la testa</E
+M>di piede</E
+M>con i pugni</E
+M>para il bambino</E
+M>che non sbatta contro il muro!</E
+M>un cavallo imbizzarrito</E
+M>se vuole andarsene</E
+M>nessuno lo para</E
+M>chi ti para?</E
+M>le mosche</E
+M>le zanzare</E
+M>parar via</E
+M>para via tutti questi insetti!</E
+M>parando via in quelle delicate circostanze tutti i testimoni importuni</E
+M>le pecore al poggio</E
+M>i buoi verso il fiume</E
+M>pararsi innanzi</E
+M>Il contadino</E
+M>si parava innanzi Poche sue capre</E
+M>il gregge</E
+M>i maiali</E
+M>le vele</E
+M>la mano</E
+M>paravano umilmente la mano</E
+M>che tante volte avevano alzata insolente a minacciare</E
+M>o traditrice a ferire</E
+M>la guancia</E
+M>la gota</E
+M>il cappello</E
+M>la voce del solito vecchino gridò a Pinocchio: &#171;Fatti sotto e para il cappello&#187;</E
+M>p. il grembiule</E
+M>Pararsi in difesa</E
+M>sospettava subito una insidia e si parava in difesa</E
+M>Pararsi innanzi</E
+M>davanti a qualcuno</E
+M>mentre stava per entrare</E
+M>gli si parò innanzi il guardiano</E
+M>gli si parò davanti un ostacolo</E
+M>si fermò alla prima osteria che gli si parò innanzi</E
+M>èmmisi parata dinanzi</E
+M>pietose donne</E
+M>una novella</E
+M>Andare a parare</E
+M>non capisco dove voglia andare a p</E
+M>con le sue allusioni</E
+M>voglio vedere dove andrai a p</E
+M>con questi discorsi</E
+M>il Griso non rispose nulla</E
+M>e stette aspettando dove andassero a p</E
+M>questi preamboli</E
+M>Le mense riccamente son parate E tutte le vivande accomodate</E
+M>chiesa</E
+M>sala</E
+M>strada parata a festa</E
+M>Il cucù dell&#8217;ore che canta</E
+M>le sedie parate a damasco Chèrmisi</E

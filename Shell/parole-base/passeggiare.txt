@@ -1,0 +1,25 @@
+passeggiare.txt
+"passeggiare"
+*[[andare in giro]], [[gironzolare]], [[andare a zonzo]], [[fare due passi]], [[camminare]]
+*[[passeggiamento]]
+M>io passéggio</E
+M>avere</E
+M>andare</E
+M>uscire a p</E
+M>a passeggio</E
+M>lungo la riva del mare</E
+M>per le strade di campagna</E
+M>per i viali di un parco</E
+M>per le strade del centro cittadino</E
+M>da solo</E
+M> in compagnia</E
+M>nell&#8217;attesa passeggiava nervosamente davanti alla porta</E
+M>smettila di passeggiarmi davanti!</E
+M>Potrem</E
+M>mia vita</E
+M> andar Un prato a passeggiar</E
+M>il monte di cui passeggiate le falde</E
+M>accennolle che venisse a proda</E
+M> Vicino al fin d&#8217;i passeggiati marmi</E
+M>il cane</E
+M>il cavallo</E

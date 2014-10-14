@@ -1,0 +1,82 @@
+schiena.txt
+"a metà schiena"
+"di schiena"
+"dolore alla bassa schiena"
+"fondo schiena"
+"fondo schiena"
+"fondo schiena"
+"girarsi di schiena"
+"grasso di schiena"
+"mal di schiena"
+"montare sulla schiena di qualcuno"
+"peli della schiena"
+"piegare la schiena"
+"ponte a schiena d'asino, ponte a dorso d'asino"
+"portare sulla schiena"
+"rompersi la schiena"
+"schiena"
+"schiena"
+"schiena"
+"schiena contro schiena"
+"sdraiarsi sulla schiena"
+"tenere dritta la schiena"
+"un brivido mi corre lungo la schiena"
+*''(di persone)''[[dorso]], [[spalle]]
+*''(di animali)'' [[groppa]], [[schienale]]
+*''(di monti)'' [[dorsale]], [[crinale]]
+* [[schienata]], [[schienare]], [[schienale]]
+M>*skina</E
+M>dorso</E
+M>avere</E
+M>sentire un dolore alla s.</E
+M>soffrire di mal di s.</E
+M>grattarsi la s.</E
+M>il filo della s.</E
+M>sentire un brivido lungo il filo della s.</E
+M>alla schiena</E
+M>rompere</E
+M>spezzare a qualcuno il filo della s.</E
+M>avere</E
+M>portare</E
+M>qualcosa sulla s.</E
+M>restare</E
+M>rimanere sulla s.</E
+M>ha ereditato la casa</E
+M> ma gli è rimasto sulla s. un mutuo altissimo da pagare</E
+M>fondo schiena</E
+M>è scivolato sul terreno viscido e ha battuto in terra il fondo schiena</E
+M>avere settant&#8217;anni sulla s.</E
+M>deve averne</E
+M> di anni</E
+M> sulla s.!</E
+M>voltare la s.</E
+M>voltare la s. a qualcuno</E
+M>colpire</E
+M>pugnalare alla s.</E
+M>curvare</E
+M>piegare la s.</E
+M>lavoro di s.</E
+M>rompersi la s.</E
+M>mettersi</E
+M>tornare di s. a qualche cosa</E
+M>Tornò di s. al solito mestiere</E
+M> Per questa noia di mangiare e bere</E
+M>di s.</E
+M>visto di s. sembra diverso</E
+M>sono riusciti a fotografarlo solo di schiena.</E
+M>groppa</E
+M>Come i dalfini</E
+M> quando fanno segno A&#8217; marinar con l&#8217;arco de la schiena</E
+M>a s. di mulo</E
+M>d&#8217;asino</E
+M>a s. d&#8217;asino</E
+M>era un ponte a s. d&#8217;asino</E
+M> fatto di legname</E
+M>arco a schiena d&#8217;asino</E
+M>fiammeggiante</E
+M>carenato</E
+M>schienale</E
+M>Move dal colle mansüeta e dolce La s. del bel monte</E
+M>E guarda il bel paese Alta di monti schiena</E
+M> Cui sormontar non vale Borea</E
+M>l&#8217;arida schiena Del formidabil monte</E

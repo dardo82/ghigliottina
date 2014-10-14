@@ -1,0 +1,38 @@
+ostile.txt
+"essere ostile"
+"be hostile"
+"essere ostile"
+"essere ostile verso"
+"be hostile to"
+"ostile"
+"hostile, antagonistic, malevolent"
+"ostile"
+"hostile, inhospitable"
+"ostile a qualcosa"
+"ostile, proibitivo"
+"sguardo ostile"
+M>hostilis</E
+M>hostis</E
+M>l’esercito</E
+M>il campo o</E
+M>le are</E
+M>coperte e carche di ostili exuvie</E
+M>assumere un atteggiamento o</E
+M>verso qualcuno</E
+M>atto</E
+M>contegno o</E
+M>le sue parole mi parvero o</E
+M>propositi o</E
+M>annata</E
+M>stagione</E
+M>ambiente climaticamente o</E
+M>mi sei sempre stato o</E
+M>i colleghi gli sono ostili</E
+M>si è mostrato o</E
+M>alla mia proposta</E
+M>è o</E
+M>a ogni innovazione</E
+M>parlare</E
+M>guardare</E
+M>comportarsi ostilmente</E
+M>trattare ostilmente una persona</E

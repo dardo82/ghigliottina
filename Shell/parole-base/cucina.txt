@@ -1,0 +1,84 @@
+cucina.txt
+"alta cucina francese"
+"angolo cucina"
+"attrezzi da cucina"
+"batteria da cucina"
+"corso di cucina"
+"cucina"
+"cucina"
+"cucina"
+"cucina"
+"arredo di una cucina"
+"cucina a gas"
+"cucina a gas"
+"cucina a vista"
+"cucina abitabile"
+"cucina afroamericana"
+"cucina da chef"
+"cucina di prova"
+"cucina dietetica"
+"cucina elettrica"
+"cucina elettrica"
+"cucina per cotture multiple"
+"cucina raffinata"
+"fornello da cucina"
+"gara di cucina"
+"gruppo musicale che usa attrezzi da cucina"
+"isola cucina"
+"lavoro in cucina"
+"libro di cucina"
+"libro di cucina"
+"miscela di spezie aromatiche (cucina indiana)"
+"mobili da cucina"
+"olio da cucina"
+"panna da cucina"
+"personale di cucina"
+"spatola (da cucina)"
+"spazio della cucina"
+"straccio da cucina"
+"tavolo da cucina"
+"utensili da cucina"
+"zona cucina"
+*[[gastronomia]], [[culinaria]], arte culinaria; [[cibi]], [[piatti]], [[vivande]]
+* [[cucinare]]
+* [[cottura]], [[pasto]], [[stufa]]
+M>*cocina</E
+M>coquina</E
+M>coqu</E
+M>grande</E
+M>piccola</E
+M>pulire la c</E
+M>pranzare in cucina</E
+M>Uso di cucina</E
+M>affittare</E
+M>prendere in affitto una stanza ammobiliata con uso di cucina</E
+M>bisogna mangiare ciò che passa la cucina!</E
+M>comprare una c</E
+M>nuova</E
+M>americana</E
+M>all’americana</E
+M>a legna</E
+M>a carbone</E
+M>a gas</E
+M>elettrica</E
+M>economica</E
+M>fare la c</E
+M>da c</E
+M>intendersi di cucina</E
+M>l’arte della c</E
+M>libro di cucina</E
+M>spese di c</E
+M>economica</E
+M>delicata</E
+M>piccante</E
+M>grassa</E
+M>essere amante della buona c</E
+M>a grassa c</E
+M>povertà è vicina</E
+M>bolognese</E
+M>romana</E
+M>casalinga</E
+M>la raffinata c</E
+M>francese</E
+M>un ristorante che ha un’ottima c</E
+M>rinomato per la sua cucina</E

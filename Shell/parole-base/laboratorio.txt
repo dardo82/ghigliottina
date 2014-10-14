@@ -1,0 +1,47 @@
+laboratorio.txt
+"apparecchi di laboratorio"
+"assistente di laboratorio"
+"assistente di laboratorio"
+"cavia da laboratorio"
+"corso di laboratorio"
+"diagnosi di laboratorio"
+"esperimento di laboratorio"
+"laboratorio"
+"laboratorio"
+"laboratorio"
+"laboratorio accreditato"
+"laboratorio analisi chimiche"
+"laboratorio di ricerca"
+"laboratorio linguistico"
+"laboratorio riparazioni"
+"laboratorio sartoriale"
+"prove di laboratorio"
+"strumenti di laboratorio"
+"tecnico di laboratorio"
+"test di laboratorio"
+*[[laboratorista]]
+m>laboratorium</e
+m>laborare</e
+m>di fisica</e
+m>chimico</e
+m>farmaceutico</e
+m>radiologico</e
+m>biologico</e
+m>orbitante</e
+m>spaziale</e
+m>space laboratory</e
+m>spacelab</e
+m>linguistico</e
+m>Apparecchi da l</e
+m>Esperienze</e
+m>esperimenti di l</e
+m>ricerche</e
+m>studî di l</e
+m>misurazioni di l</e
+m>animali da l</e
+m>di un&rsquo;orologeria</e
+m>di una gioielleria</e
+m>fotografico</e
+m>di sartoria</e
+m>artigiano</e
+m>di ebanisteria</e

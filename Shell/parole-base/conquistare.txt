@@ -1,0 +1,33 @@
+conquistare.txt
+"conquistare"
+"conquistare"
+"conquistare"
+"conquistare degli amici"
+"conquistare il mercato"
+"conquistare la benevolenza, conquistare la simpatia"
+"lasciarsi conquistare"
+#*''Cesare '''conquistò''' la Gallia''
+#*''Dopo un anno di duro lavoro, '''ha conquistato''' una promozione''
+#*''L''''ho conquistata'''.''
+*[[occupare]], [[prendere]], [[impadronirsi]], [[impossessarsi]], [[espugnare]], [[soggiogare]], [[assoggettare]], [[sottomettere]], [[invadere]], [[vincere]],, [[espugnare]]
+*[[riconquistare]]
+M>*conquis</E
+M>tare</E
+M>conquisitus</E
+M>conquir</E
+M>una regione</E
+M>una città</E
+M>una posizione strategica importante</E
+M>la ricchezza</E
+M>il potere</E
+M>la libertà</E
+M>la felicità</E
+M>con le sue moine ha conquistato i nonni</E
+M>c. la simpatia</E
+M>la stima di qualcuno</E
+M>la bellezza di quello splendido panorama ci aveva conquistati</E
+M>si vanta di aver conquistato molte ragazze</E
+M> c. un uomo</E
+M> una donna</E
+M>i miei genitori mi hanno conquistato all’amore per la lettura</E
+M>c. al cattolicesimo.</E

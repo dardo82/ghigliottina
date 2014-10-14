@@ -1,0 +1,23 @@
+munizione.txt
+"munizione"
+M>munitio</E
+M>onis</E
+M>munire</E
+M>mancano</E
+M>scarseggiano</E
+M>son finite le m</E
+M>avere abbondanza</E
+M>difetto di munizioni</E
+M>munizioni per fucili</E
+M>per mortai</E
+M>per fucili da caccia</E
+M>munizioni da caccia</E
+M>deposito di munizioni</E
+M>una cassa di munizioni</E
+M>intelligenti</E
+M>munizioni da bocca</E
+M>un paniere dove c’era della m</E
+M>da bocca</E
+M>pane di munizione</E
+M>avere</E
+M>tenere in munizione</E

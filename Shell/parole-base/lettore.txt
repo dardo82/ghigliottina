@@ -1,0 +1,50 @@
+lettore.txt
+"http://api.wordreference.com/12bee/json/iten/lettore/"
+* [[riproduttore]]
+*''(in informatica)'' [[decodificatore]], [[interprete]]
+*[[lettore CD]],[[lettore DVD]], [[lettore MP3]], [[lettore MP4]],[[lettore multimediale]]
+*[[leggere]], [[lettorato]], [[lettura]]
+M>lector</E
+M>oris</E
+M>leg</E
+M>lectus</E
+M>trice</E
+M>attento</E
+M>distratto</E
+M>un l</E
+M>acuto</E
+M>penetrante</E
+M>è un assiduo l</E
+M>di giornali sportivi</E
+M>è un’appassionata lettrice di romanzi gialli</E
+M>essere un abile l</E
+M>del pensiero</E
+M>libro che ha molti</E
+M>pochi l</E
+M>avvertimento al l</E
+M>al benigno l</E
+M>al cortese l</E
+M>Pensa</E
+M>lettor</E
+M>se quel che qui s’inizia Non procedesse</E
+M>pensino ora i miei venticinque l</E
+M>che impressione dovesse fare sull’animo del poveretto</E
+M>quello che s’è raccontato</E
+M>poiché la sua vista s’indeboliva di giorno in giorno dovette assumere un lettore</E
+M>professore</E
+M>trice</E
+M>Lektor</E
+M>dei dati</E
+M>di schede</E
+M>di banda</E
+M>ottico</E
+M>magnetico</E
+M>di caratteri</E
+M>per microfilm</E
+M>per microfiches</E
+M>microlettore</E
+M>del suono</E
+M>fonografico</E
+M>magnetofonico</E
+M>fonorivelatore</E
+M>laser</E

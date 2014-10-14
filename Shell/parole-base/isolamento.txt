@@ -1,0 +1,27 @@
+isolamento.txt
+"in isolamento"
+"isolamento"
+"isolamento"
+"isolamento"
+"isolamento acustico"
+"isolamento delle colonie sospette"
+"isolamento sociale"
+"isolamento termico"
+"resistenza di isolamento"
+*[[isolare]]
+M>mettere in i</E
+M>disporre l’i</E
+M>di un paziente</E
+M>reparto di i</E
+M>notturno</E
+M>splendido i</E
+M>splendid isolation</E
+M>riproduttivo</E
+M>geografico</E
+M>ecologico</E
+M>stagionale</E
+M>batterico</E
+M>i. acustico</E
+M>termico</E
+M>elettrico</E
+M>misuratore di i</E

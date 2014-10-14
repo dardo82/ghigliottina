@@ -1,0 +1,164 @@
+resistenza.txt
+"carico di rottura, resistenza alla rottura"
+"durare; tenere duro; resistere; fare resistenza"
+"forza di resistenza"
+"gara di resistenza"
+"incontrare resistenza"
+"lottatore di resistenza"
+"non opporre resistenza"
+"opporre resistenza"
+"opporre resistenza"
+"resistenza"
+"resistenza"
+"resistenza"
+"resistenza"
+"resistenza (ad un attacco)"
+"resistenza a"
+"resistenza al cambiamento"
+"resistenza al fuoco"
+"resistenza alla rottura"
+"resistenza alla trazione, resistenza alla rottura"
+"resistenza del vento"
+"resistenza di carico"
+"resistenza di ingresso"
+"resistenza di isolamento"
+"resistenza effettiva"
+"resistenza elettrica"
+"resistenza in uscita"
+"resistenza magnetica"
+"resistenza meccanica"
+"resistenza non violenta"
+"resistenza pacifica"
+"resistenza passiva"
+"resistenza primaria"
+"resistenza specifica"
+"resistenza, sopportazione"
+*[[opposizione]], [[ostilità]], [[riluttanza]]
+*[[robustezza]], [[fisico]], [[tempra]], [[fibra]], [[sopportazione]]
+*[[consenso]], [[approvazione]]
+*[[fragilità]], [[mollezza]]
+*''resistenza a pubblico ufficiale''
+M>resistentia</E
+M>resistere</E
+M>résistance</E
+M>fare</E
+M>opporre r</E
+M>incontrare</E
+M>trovare r</E
+M>vincere</E
+M>superare una r</E
+M>forte</E
+M>debole</E
+M>vivace</E
+M>scarsa</E
+M>attiva</E
+M>passiva</E
+M>tentarono di trascinarlo via</E
+M>ma lui opponeva una forte r</E
+M>cercò di aprire</E
+M>ma la porta faceva r</E
+M>procedevano con grande difficoltà</E
+M>perché dovevano vincere la r</E
+M>del vento</E
+M>i reiterati attacchi nemici sono stati respinti dall&#8217;eroica r</E
+M>delle nostre truppe</E
+M>linea di r</E
+M>posizione</E
+M>centro di r</E
+M>l&#8217;iniziativa della nostra squadra ha avuto alla fine ragione della r</E
+M>della squadra avversaria</E
+M>diritto di r</E
+M>a pubblico ufficiale</E
+M>alla psicanalisi</E
+M>ho cercato di convincerlo</E
+M>ma non sono riuscito a vincere la sua resistenza</E
+M>accordi di r</E
+M>pools</E
+M>utili</E
+M>passive</E
+M>d&#8217;attrito</E
+M>del mezzo</E
+M>viscosa</E
+M>idraulica</E
+M>elettrica</E
+M>resistenza specifica</E
+M>resistività</E
+M>di contatto</E
+M>superficiale</E
+M>di volume</E
+M>differenziale</E
+M>interna</E
+M>propria</E
+M>resistore</E
+M>cambiare la resistenza del ferro da stiro</E
+M>variabile</E
+M>reostato</E
+M>meccanica</E
+M>acustica</E
+M>al rotolamento</E
+M>eventuali</E
+M>alla fatica</E
+M>allo sforzo fisico</E
+M>intellettuale</E
+M>ai disagi</E
+M>al lavoro</E
+M>le malattie e le privazioni hanno minato la sua r</E
+M>fisica</E
+M>è un cavallo eccezionale</E
+M>ma non si deve metterne a dura prova la r</E
+M>gara</E
+M>prova</E
+M>corsa di r</E
+M>resistenza</E
+M>fasi</E
+M>stati di r</E
+M>batterica</E
+M>naturale</E
+M>acquisita</E
+M>resistenze</E
+M>difese organiche</E
+M>mosche</E
+M>zanzare dotate di elevata r</E
+M>agli insetticidi normali</E
+M>un soggetto che ha una particolare r</E
+M>alle infezioni da germi</E
+M>meccanica</E
+M>biochimica</E
+M>funzionale</E
+M>agronomica</E
+M>a pressione</E
+M>a trazione</E
+M>a flessione</E
+M>a taglio</E
+M>caratteristica</E
+M>termica</E
+M>magnetica</E
+M>riluttanza</E
+M>un tessuto che ha poca r</E
+M>una sostanza plastica dotata di eccezionale resistenza</E
+M>Movimento di r</E
+M>resistenza</E
+M>la r</E
+M>europea</E
+M>la r</E
+M>francese</E
+M>olandese</E
+M>danese</E
+M>norvegese</E
+M>polacca</E
+M>sovietica</E
+M>greca</E
+M>iugoslava</E
+M>la r</E
+M>italiana</E
+M>le forze</E
+M>i valori della R</E
+M>i caduti della R</E
+M>il periodo della Resistenza</E
+M>la r</E
+M>dei Boeri contro gli Inglesi</E
+M>la r</E
+M>ugonotta in Francia</E
+M>la r</E
+M>vietnamita</E
+M>afgana</E

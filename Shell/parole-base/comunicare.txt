@@ -1,0 +1,72 @@
+comunicare.txt
+"comunicare"
+"comunicare"
+"comunicare"
+"comunicare"
+"comunicare, replace: comunicarsi"
+"comunicare, replace: comunicarsi"
+"comunicare a parole"
+"comunicare a voce"
+"comunicare con"
+"comunicare la verità"
+"comunicare messaggi"
+"comunicare messaggi"
+"comunicare qcs."
+"comunicare una notizia"
+"raggiungere qcn.; riuscire a comunicare con qcn."
+"trasmettere a qc, comunicare a qc"
+"trasmettere, comunicare"
+#*bisogna 
+*''(rendere noto)'', [[annunciare]], [[notificare]]; [[trasmettere]], [[diffondere]], [[propagare]]
+*''(religione)'' [[scomunicare]]
+*[[nascondere]], [[celare]]
+*[[comunicarsi]],[[comunicabile]], [[comunicando]], [[comunicativa]],[[comunicativo]], [[comunicato]], [[comunicatore]], [[comunicazione]]
+*[[impartire]]
+M>communicare</E
+M>communis</E
+M>communicare</E
+M>altari</E
+M>io comùnico</E
+M>tu comùnichi</E
+M>pensieri</E
+M>idee</E
+M>sentimenti</E
+M>la propria scienza</E
+M>il coraggio</E
+M>il timore</E
+M>riuscì a comunicarmi la sua ansia</E
+M>una notizia</E
+M>un segreto</E
+M>mi hanno comunicato la data del matrimonio</E
+M>comunicarsi le proprie impressioni</E
+M>un avviso</E
+M>un annuncio</E
+M> la televisione ha comunicato la notizia</E
+M>l’infezione</E
+M>il motore comunica il movimento a tutto il congegno</E
+M>il calore della stufa si comunica a tutto l’ambiente</E
+M>l’entusiasmo si comunicò agli astanti</E
+M>avere</E
+M>gli proibì di c</E
+M>con chiunque</E
+M>i prigionieri non potevano c</E
+M>tra loro</E
+M>per lettera</E
+M>per e-mail</E
+M>per sms</E
+M>per cenni</E
+M>per segni convenzionali</E
+M>durante il giorno le occasioni di c</E
+M>erano divenute sempre più rare</E
+M>essere capace</E
+M>incapace di c</E
+M>non riuscire a c</E
+M>avere facilità</E
+M>difficoltà a comunicare</E
+M> spesso marito e moglie smettono di comunicare</E
+M>le tre stanze comunicano fra loro</E
+M>il collegio comunica con la chiesa attraverso il giardino</E
+M>il cavo orale comunica con lo stomaco attraverso l’esofago</E
+M>il sacerdote comunica i fedeli</E
+M>confessarsi e comunicarsi</E
+M>si comunica tutte le mattine</E

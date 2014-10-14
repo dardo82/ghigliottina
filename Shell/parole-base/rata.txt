@@ -1,0 +1,30 @@
+rata.txt
+"pro rata"
+"pro rata"
+"rata"
+"rata del mutuo"
+*[[quota]], [[parte]], [[porzione]], [[frazione]], [[aliquota]]
+M>rata</E
+M>pars</E
+M>ratus</E
+M>pro rata parte</E
+M>pagare la prima</E
+M>l&#8217;ultima r</E
+M>di un mutuo</E
+M>rate di trecento euro mensili</E
+M>rate trimestrali</E
+M>annuali</E
+M>vendita a rate</E
+M>rata di un prestito</E
+M>a rate</E
+M>in più rate</E
+M>vendere</E
+M>acquistare</E
+M>pagare</E
+M>vendita</E
+M>acquisti a rate</E
+M>i fiaschi di vino che vi ho ordinato me li potete consegnare anche in più rate</E
+M>possibile che queste informazioni me le dobbiate dare a rate?</E
+M>di caricazione</E
+M>di discarica</E
+M>di nolo</E

@@ -1,0 +1,49 @@
+drammatico.txt
+"drammatico"
+"drammatico"
+"drammatico"
+"Spettacolo di intrattenimento, drammatico o musicale, interpretato in gruppo leggendo il testo"
+"telefilm drammatico"
+*[[teatrale]]
+*''(di condizione di salute, caso) [[critico]], [[disperato]]
+* ''(di giornata, periodo ecc.)''[[difficile]], [[complicato]], [[agitato]], [[movimentato]]
+*''(di reazione)'' [[esagerato]], [[spropositato]], [[eccessivo]]
+*[[allegro]], [[comico]], [[brillante]] 
+* ''(di giornata, periodo ecc.)'' [[calmo]], [[tranquillo]] 
+*''(di reazione)'' [[moderato]], [[misurato]]
+* [[dramma]], [[drammatica]], [[drammaticamente]], [[drammaticità]]
+M>dramat</E
+M>cus</E
+M>genere letterario d</E
+M>arte</E
+M>poesia d</E
+M>poeta</E
+M>scrittore</E
+M>attore</E
+M>artista d</E
+M>critico d</E
+M>compagnia d</E
+M>spettacolo d</E
+M>azione d</E
+M>unità drammatiche</E
+M>forza</E
+M>potenza d</E
+M>contrasto d</E
+M>di passioni</E
+M>l’incontro di Priamo con Achille è altamente d</E
+M>la d</E
+M>pittura del Caravaggio</E
+M>il tema musicale si sviluppava con un crescendo d</E
+M>l’incontro fra i due assunse toni veramente drammatici</E
+M>parlare con tono d</E
+M>con accenti d</E
+M>fare gesti d</E
+M>di sconforto</E
+M>di disperazione</E
+M>melodrammatico</E
+M>la situazione politica si fa di ora in ora più d</E
+M>fu quello un momento d</E
+M>per tutti noi</E
+M>abbiamo vissuto ore drammatiche</E
+M>l’azione del racconto si svolgeva drammaticamente</E
+M>abbiamo vissuto drammaticamente quelle ore di attesa</E

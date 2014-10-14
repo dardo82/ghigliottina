@@ -1,0 +1,14 @@
+quadrifoglio.txt
+"quadrifoglio"
+"svincolo a quadrifoglio"
+M>quadri</E
+M>foglia</E
+M>trifoglio</E
+M>Oxalis deppei</E
+M>Oxalis tetraphylla</E
+M>acquatico</E
+M>Marsilea quadrifolia</E
+M>multifoglio</E
+M>Interscambio a q</E
+M>quadrifoglio</E
+M>mezzo q</E

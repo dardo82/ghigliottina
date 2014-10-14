@@ -1,0 +1,44 @@
+timone.txt
+"al timone"
+"essere al timone di una nave"
+"girare il timone il più possibile verso una direzione"
+"il timone"
+"timone"
+"timone"
+"timone"
+"timone"
+M>mo -</E
+M>nis</E
+M>Gran Carro</E
+M>Piccolo Carro</E
+M>bure</E
+M>pala</E
+M>asse</E
+M>fusto</E
+M>angolo del t.</E
+M>spalla</E
+M>bandelle</E
+M>agugliotti</E
+M>femminelle</E
+M>dritto del t.</E
+M>testa</E
+M>losca</E
+M>barra</E
+M>t. a ruota</E
+M>agghiaccio</E
+M>t. compensato</E
+M>compenso</E
+M>t. a doppio fasciame</E
+M>a dislocamento</E
+M>T. a vento</E
+M>t. di direzione</E
+M>cloche</E
+M>t. di profondità</E
+M>equilibratore</E
+M>t. d&#8217;acqua</E
+M>essere al t.</E
+M>reggere il t.</E
+M>dello stato</E
+M>dell&#8217;economia di un paese</E
+M>di un ente</E
+M>di un&#8217;istituzione</E

@@ -1,0 +1,25 @@
+iscrivere.txt
+"iscrivere"
+"iscrivere all'albo"
+*[[iscritto]], [[iscriversi]], [[iscrizione]], [[iscrivibile]]
+M>inscrib</E
+M>scrib</E
+M>scrivere</E
+M>inscrivere</E
+M>una spesa nel bilancio</E
+M>un immobile nel registro delle ipoteche</E
+M>all’anagrafe</E
+M>nell’albo dei soci</E
+M>il figlio alla scuola media</E
+M>un cavallo a una corsa</E
+M>iscriversi al Circolo canottieri</E
+M>all’università</E
+M>al conservatorio musicale</E
+M>iscriversi a una gara ciclistica</E
+M>iscriversi a un partito</E
+M>iscriversi a parlare</E
+M>non risulta ancora iscritto all’anagrafe</E
+M>il numero degli iscritti</E
+M>delle iscritte</E
+M>è aumentato</E
+M>inscritto</E

@@ -1,0 +1,178 @@
+pressione.txt
+"a pressione ridotta"
+"ad alta pressione"
+"alleggerire la pressione su"
+"allentare la pressione su"
+"allentare la pressione su qualcuno"
+"alta pressione"
+"altimetro a pressione"
+"altitudine di pressione"
+"area di bassa pressione"
+"aumentare la pressione"
+"aumentare la pressione"
+"bassa pressione sanguigna"
+"bottone a pressione"
+"colando sotto pressione"
+"controllo della pressione"
+"cresta di alta pressione"
+"della pressione d'aria"
+"diminuzione di pressione"
+"esercitare pressione"
+"esercitare una pressione"
+"far pressione su"
+"fare pressione"
+"fare pressione"
+"fare pressione su"
+"gradiente di pressione"
+"gruppo di pressione"
+"gruppo di pressione"
+"indicatore di pressione"
+"indicatore di pressione"
+"ingrassatore a pressione"
+"inserito il livello di pressione"
+"inserito il livello di pressione"
+"lavorare sotto pressione"
+"minima pressione olio"
+"pentola a pressione"
+"piattaforma di pressione"
+"pompa a pressione"
+"pressione"
+"pressione"
+"pressione"
+"pressione"
+"pressione arteriosa"
+"pressione atmosferica"
+"pressione atmosferica"
+"pressione atmosferica sul livello del mare"
+"pressione barometrica"
+"pressione costante"
+"pressione critica"
+"pressione del fluido"
+"pressione del vapore"
+"pressione demografica"
+"pressione di gruppo"
+"pressione di spostamento"
+"pressione di vapore"
+"pressione dinamica"
+"pressione eccessiva"
+"pressione elevata"
+"pressione fiscale"
+"pressione inflazionistica"
+"pressione osmotica"
+"pressione parziale"
+"pressione sanguigna"
+"pressione sanguigna alta"
+"pressione sonora"
+"pressione superiore"
+"punto di pressione"
+"regolatore di pressione"
+"regolazione di pressione"
+"ridurre la pressione, allentare"
+"ridurre la pressione; andarci piano"
+"riduzione di pressione"
+"senza pressione"
+"serbatoio a pressione"
+"sistema di bassa pressione"
+"sotto pressione"
+"sotto pressione, sovraccarico, alle strette"
+"test della pressione"
+"trasduttore di pressione"
+"trasmettitore di pressione"
+"unità di pressione"
+"valvola di pressione"
+"zona di bassa pressione"
+*[[ schiacciamento]], [[compressione]], [[pigiatura]], [[pressatura]], [[torchiatura]]; [[peso]], [[stretta]], [[tensione]]
+* [[forza]]
+*''(per ottenere qualcosa)''   [[spinta]] 
+*[[pressuruzzare]], [[a bassa pressione]]  [[pressione arteriosa]], [[pressione atmosferica]], [[pressione sanguigna]], [[pressoflessione]], [[pressofusione]], [[pressoiniezione]], [[pressorio]], [[pressostato]], [[pressoterapia]], [[sotto pressione]]
+*[[allentamento]]
+*[[impressione]], [[premere]], [[pressurizzare]], [[sovrimpressione]]
+m>pressio</e
+m>onis</e
+m>pressus</e
+m>prem</e
+m>fare pressione</e
+m>una leggera</e
+m>una forte p</e
+m>su qualche cosa</e
+m>fare p</e
+m>col dito sul grilletto</e
+m>col piede sull&rsquo;acceleratore</e
+m>alla p</e
+m>della mano</e
+m>la porta cedette</e
+m>a pressione</e
+m>far entrare un tappo a pressione</e
+m>chiodo a p</e
+m>chiodo a espansione</e
+m>variabili di stato</e
+m>idrostatica</e
+m>statica</e
+m>piezometrica</e
+m>dinamica</e
+m>cinetica</e
+m>aerodinamica</e
+m>idrodinamica</e
+m>acustica</e
+m>sonora</e
+m>critica</e
+m>tensione</e
+m>elettrostatica</e
+m>interna</e
+m>osmotica</e
+m>parziale</e
+m>totale</e
+m>di radiazione</e
+m>tensione</e
+m>del vapore saturo</e
+m>semplice</e
+m>curva delle p</e
+m>l&rsquo;acqua non ha la p</e
+m>sufficiente per giungere al quarto piano</e
+m>mettere le macchine in p</e
+m>essere sotto p</e
+m>controllare la p</e
+m>dell&rsquo;aria nei pneumatici</e
+m>pentola a pressione</e
+m>atmosferica</e
+m>barometrica</e
+m>atmosferica normale</e
+m>atmosfera</e
+m>bassa</e
+m>alta p</e
+m>gli sbalzi della p</e
+m>salendo in funivia le variazioni di p</e
+m>atmosferica possono provocare dolori all&rsquo;orecchio</e
+m>zona di alta p</e
+m>positiva</e
+m>negativa</e
+m>relativa</e
+m>assoluta</e
+m>sanguigna</e
+m>arteriosa</e
+m>capillare</e
+m>venosa</e
+m>massima</e
+m>minima</e
+m>pressione</e
+m>misurare la p</e
+m>avere la p</e
+m>alta</e
+m>bassa</e
+m>p. oculare</e
+m>radicale</e
+m>pianto</e
+m>fiscale</e
+m>tributaria</e
+m>demografica</e
+m>le nostre linee hanno resistito alla p</e
+m>nemica</e
+m>delle forze nemiche</e
+m>delle truppe avversarie</e
+m>bisogner&agrave; fare pressione sugli organi competenti</e
+m>mi hanno fatto anche delle p</e
+m>perch&eacute; rifiutassi l&rsquo;incarico</e
+m>rimase insensibile a ogni p</e
+m>le p</e
+m>dei manifestanti hanno influito sulle decisioni del governo</e
+m>gruppo di pressione</e

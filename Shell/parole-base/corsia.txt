@@ -1,0 +1,34 @@
+corsia.txt
+"corsia"
+"corsia"
+"corsia"
+"corsia"
+"corsia"
+"corsia d'emergenza"
+"corsia doppia"
+"corsia interna"
+"corsia preferenziale"
+"corsia riservata ai veicoli antincendio"
+"in corsia"
+*''(tappeto)''[[passatoia]]
+M>corsiva</E
+M>corsivo</E
+M>lasciarsi tirare dalla c</E
+M>acqua corsia</E
+M>acqua corsia</E
+M>questo male portalo via</E
+M>ricoverare</E
+M>essere ricoverato in corsia</E
+M>giacere</E
+M>essere abbandonato</E
+M>morire in fondo a una c</E
+M>d’ospedale</E
+M>un’autostrada a quattro</E
+M>a sei corsie</E
+M>corsia di scorrimento normale</E
+M>di sorpasso</E
+M>invadere</E
+M>attraversare la c</E
+M>salto di corsia</E
+M>di accelerazione</E
+M>di decelerazione</E

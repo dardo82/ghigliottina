@@ -1,0 +1,12 @@
+stanotte.txt
+"stanotte"
+M>ista nocte</E
+M>istanotte</E
+M>s. ho fatto uno strano sogno</E
+M>s. verso le tre il suono di un allarme ci ha svegliato</E
+M>s. il silenzio è totale</E
+M>partiremo s. in macchina per la montagna</E
+M>i turni di s.</E
+M>ho rimandato la partenza a s.</E
+M>è da s. che ci penso</E
+M>la partenza è fissata per stanotte</E

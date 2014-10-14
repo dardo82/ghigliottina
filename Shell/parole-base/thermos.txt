@@ -1,0 +1,12 @@
+thermos.txt
+"bottiglia Thermos"
+"Thermos bottle"
+"thermos"
+"Thermos"
+"thermos, bottiglia termica"
+"thermos, bottiglia termica"
+"thermos flask"
+M>tèrmos</E
+M>tèrmos</E
+M>tèrmo</E
+M>vasi di Dewar</E

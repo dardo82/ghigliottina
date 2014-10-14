@@ -1,0 +1,62 @@
+rotondo.txt
+"rotondo"
+"rotondo"
+"rotondo"
+"rotondo"
+"rotondo (paffuto)"
+#* un periodo uno stile rotondo
+* [[circolare]], [[globulare]], [[globoso]], [[tondeggiante]], [[arrotondato]], [[tondo]] 
+*[[arrotondare]], [[rotonda]], [[rotondeggiante]], [[rodondità]]
+* [[grasso]] 
+M>rot</E
+M>ndus</E
+M>rota</E
+M>figura</E
+M>macchia</E
+M>piazza</E
+M>stanza r</E
+M>anello</E
+M>tronco</E
+M>vaso</E
+M>ciottolo r</E
+M>pozzo</E
+M>foro r</E
+M>la Terra è r</E
+M>arance r</E
+M>una palla perfettamente r</E
+M>tondo</E
+M>viso</E
+M>mento</E
+M>collo r</E
+M>guance r</E
+M>occhi r</E
+M>tondo</E
+M>tondeggiante</E
+M>muscolo grande r</E
+M>muscolo piccolo r</E
+M>nave r</E
+M>vela r</E
+M>vela a sacco</E
+M>Scrittura r</E
+M>scritture r</E
+M>scrittura r</E
+M>Tavola r</E
+M>Vino r</E
+M>Periodo r</E
+M>tondo</E
+M>numero r</E
+M>una somma r</E
+M>fare cifra r</E
+M>superficie r</E
+M>di rotazione</E
+M>di rivoluzione</E
+M>asse della superficie r</E
+M>asse di rotazione</E
+M>solido r</E
+M>di rotazione</E
+M>Rotondo di poppa</E
+M>Mal del r</E
+M>marciume ad anello rosso</E
+M>Fomes annosus</E
+M>una ragazza rotondetta</E
+M>il direttore gli ha detto rotondamente che era uno sprovveduto e che al prossimo errore l&#8217;avrebbe licenziato</E

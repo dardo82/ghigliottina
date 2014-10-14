@@ -1,0 +1,110 @@
+classico.txt
+"ballerino classico"
+"blues classico"
+"chitarrista classico"
+"classico"
+"classico"
+"classico"
+"classico"
+"classico"
+"esempio classico"
+"liceo classico"
+"modello classico"
+"titolo di studio classico e matematico"
+#* ''il mondo 
+#* ''il 
+#* ''un brano 
+#* ''l'esibizione è tratta da un pezzo 
+#* ''il corso di diritto 
+#* ''Chianti 
+#* ''la Divina Commedia è un 
+#* ''questo piatto è un 
+#* ''quella ragazza frequenta il secondo anno del 
+*[[greco-romano]], [[latino]], [[antico]] 
+*''(di artista, stile)'' [[antico]], [[intramontabile]] 
+*''(di cucina, stile ecc.)  [[esemplare]], [[tipico]], [[caratteristico]]
+*'' (di moda e sim.)''[[tradizionale]], [[sobrio]] 
+*''( musica) '' [[colto]] 
+*[[modello]], [[esempio]]
+*[[moderno]], [[contemporaneo]], [[nuovo]], d’avanguardia
+*''(musica)'' [[leggero]], [[popolare]]
+m>class</e
+m>cus</e
+m>classis</e
+m>mondo c</e
+m>civiltà c</e
+m>poesia</e
+m>letteratura c</e
+m> lingue c</e
+m>pensiero c</e
+m>poeti</e
+m>prosatori c</e
+m>autori</e
+m>scrittori c</e
+m>i classici</e
+m>Arte c</e
+m>periodo c</e
+m>Educazione c</e
+m>umanistica</e
+m>Istruzione c</e
+m>Lettere c</e
+m>lettere moderne</e
+m>i c</e
+m>italiani</e
+m>una collezione di c</e
+m>francesi</e
+m>lo studio dei c</e
+m>tedeschi</e
+m>un pittore c</e
+m>un musicista c</e
+m>i c</e
+m>della scultura italiana</e
+m>un c</e
+m>dello schermo</e
+m>un c</e
+m>dei romanzi gialli</e
+m> un c. è un&rsquo;esperienza radicale</e
+m> un incontro che ci modifica</e
+m> non un ritrovamento di aspetti reperibili in altri</e
+m>è un&rsquo;opera divenuta c</e
+m>negli studî di diritto</e
+m>la terra c</e
+m>delle belle arti</e
+m>della musica</e
+m>del pensiero filosofico</e
+m>la terra c</e
+m>della libertà</e
+m>bellezza c</e
+m>taglio c</e
+m>linea c</e
+m>stoffe c</e
+m>colori c</e
+m>Andrea è il c</e
+m>tipo dello sgobbone</e
+m>è un c</e
+m>esempio di</e
+m>questa è classica!</e
+m>ma sai che sei classico!</e
+m>classici</e
+m>classicisti</e
+m>musica c</e
+m>musica leggera</e
+m>Danza c</e
+m>danza c</e
+m>scuola c</e
+m>economia c</e
+m>scuola c</e
+m>Fisica c</e
+m>relativistico</e
+m>quantistico</e
+m>meccanica c</e
+m>elettrodinamica c</e
+m>Gara c</e
+m>la c</e
+m>classica di ciclismo</e
+m>la classicissima</e
+m>una prosa classicamente limpida</e
+m>un gruppo marmoreo classicamente atteggiato</e
+m>drappeggiato</e
+m>un profilo classicamente perfetto</e
+m>classico</e

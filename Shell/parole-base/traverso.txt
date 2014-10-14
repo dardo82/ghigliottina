@@ -1,0 +1,91 @@
+traverso.txt
+"andare di traverso"
+"andare di traverso"
+"avere la luna di traverso"
+"camminare di traverso"
+"guardare di traverso"
+"guardare di traverso"
+"stare di traverso"
+"traverso"
+"traverso"
+"flauto traverso"
+"traverso"
+"traverso"
+"traverso, replace: di traverso"
+"vento di traverso"
+*[[obliquo]], [[trasversale]], [[inclinato]], [[diagonale]], di sbieco
+*[[parallelo]], [[orizzontale]], [[verticale]], [[perpendicolare]]
+*[[traversa]], [[traversagno]], [[traversia]],[[traversare]]
+*[[larghezza]]   
+*''andare di traverso''
+M>transversus</E
+M>via t.</E
+M>vie t.</E
+M>prendere</E
+M> pigliare le vie t.</E
+M>quel posto l&#8217;ha ottenuto per vie t.</E
+M>non mi piacciono le vie traverse</E
+M>due dita</E
+M> tre dita traverse</E
+M>ci saranno ancora sì e no due dita t. di vino nel fiasco</E
+M>Flauto t.</E
+M>traverso</E
+M>traversa</E
+M>flauto traversiere</E
+M>flauto diritto</E
+M>Parola t.</E
+M>non vorremmo guastarci per una parola t.!</E
+M>pigliare una parola a traverso</E
+M>o suociara</E
+M>suocera</E
+M>che hai la nuora t.</E
+M> se tu arai pazienzia</E
+M> sempre meritarai</E
+M>appoggiare sul t.</E
+M>prendere per il t.</E
+M>a mezzanave</E
+M>prora</E
+M>presentare il t.</E
+M>di dritta</E
+M>di sinistra</E
+M>al nemico</E
+M>essere al t. di ...</E
+M>navigare con il vento</E
+M>con il mare</E
+M>al t.</E
+M>prendere il t.</E
+M>il rilevamento al t.</E
+M>Regola del t.</E
+M>dei 45</E
+M>andare a t.</E
+M>traversarsi</E
+M>traverso</E
+M>trasverso</E
+M>Sta cheto</E
+M> e mena un t. o fendente</E
+M> E ciò che trova manda in sul sentiero</E
+M>di traverso</E
+M>in traverso</E
+M>per traverso</E
+M>camminare di t.</E
+M>mettersi di t.</E
+M>in t.</E
+M>per t.</E
+M>si avviarono di t. ai ghiaioni per ritornare alla Fortezza</E
+M>un foglio rigato</E
+M> sbarrato di t.</E
+M>per t.</E
+M>firmare di t. sulla fotografia</E
+M>gli diede una occhiata di t.</E
+M>guardare di t.</E
+M>andare a t.</E
+M>per t.</E
+M>di t.</E
+M>mi ha fatto andare di t. il pranzo</E
+M> con le sue lamentele</E
+M>oggi tutto mi va di t.</E
+M>avere la luna di t.</E
+M>andare per t.</E
+M>intuii che le sue parole erano mosse solo da invidia</E
+M> e il complimento mi andò per traverso</E
+M>a traverso</E

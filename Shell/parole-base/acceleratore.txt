@@ -1,0 +1,25 @@
+acceleratore.txt
+"acceleratore"
+"acceleratore"
+"acceleratore"
+"acceleratore di particelle"
+"acceleratore di particelle"
+"acceleratore lineare"
+#* [[pedale]] o [[leva]] che comanda tale dispositivo
+* [[rallentatore]]
+M>trice</E
+M>macchina acceleratrice</E
+M>di particelle</E
+M>elettromagnetici</E
+M>elettrostatici</E
+M>lineari</E
+M>elettrodo a</E
+M>acceleratrice</E
+M>bagno acceleratore</E
+M>pedale dell’a</E
+M>a mano</E
+M>premere l’a</E
+M>sull’a</E
+M>dare un colpo di acceleratore</E
+M>acceleratore</E
+M>moltiplicatore</E

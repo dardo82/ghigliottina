@@ -1,0 +1,79 @@
+navigare.txt
+"il navigare verso casa"
+"in grado di navigare"
+"navigare"
+"navigare"
+"navigare"
+"navigare a vista"
+"navigare in cattive acque"
+"navigare in internet"
+"navigare in rete"
+"navigare su internet"
+"navigare sulla rete"
+"navigare sulla rete"
+*[[navigabile]], [[navigante]], [[navigato]], [[navigatore]], [[navigazione]]
+*[[nave]]
+M>navigare</E
+M>navis</E
+M>io nàvigo</E
+M>tu nàvighi</E
+M>avere</E
+M>a vapore</E
+M>a vela</E
+M>a remi</E
+M>col vento in poppa</E
+M>di bolina</E
+M>a vento largo</E
+M>al gran lasco</E
+M>sui bordi</E
+M>con mare in prua</E
+M>al traverso</E
+M>al giardinetto</E
+M>in poppa</E
+M>a tutta forza</E
+M>a tutto vapore</E
+M>a mezza forza</E
+M>sotto costa</E
+M>a fanali oscurati</E
+M>in emersione</E
+M>in immersione</E
+M>in zavorra</E
+M>di conserva</E
+M>in convoglio</E
+M>a bassa quota</E
+M>ad alta quota</E
+M>alla volta di Marte</E
+M>sul cavo</E
+M>il transatlantico navigava a tutta velocità</E
+M>l’aereo naviga</E
+M>vola</E
+M>sopra un banco di nebbia</E
+M>navigammo tutta la notte</E
+M>navigavano a luci spente</E
+M>si navigò per tre giorni continui</E
+M>oggi si naviga con più comodità e sicurezza di un tempo</E
+M>per mare</E
+M>sul fiume</E
+M>gli oceani</E
+M>i mari del Sud</E
+M>i fiumi dell’America</E
+M>naviga sui transatlantici come cuoco</E
+M>su aerei di linea come marconista</E
+M>ha navigato fin da ragazzo</E
+M>cominciò a n</E
+M>appena adolescente</E
+M>n. in Internet</E
+M>nubi bianche che navigano per il cielo già quasi notturno</E
+M>saper n</E
+M>a ogni vento</E
+M>secondo il vento</E
+M>contro corrente</E
+M>ognuno sa n</E
+M>col buon vento</E
+M>a gonfie vele</E
+M>a vele spiegate</E
+M>col vento in poppa</E
+M>in cattive acque</E
+M>tra due scogli</E
+M>sulla scia di qualcuno</E
+M>avendo comperati una volta panni per navicarli a Rodi</E

@@ -1,0 +1,80 @@
+disporre.txt
+"disporre"
+"disporre"
+"disporre"
+"disporre ad intervalli"
+"disporre di"
+"disporre di"
+"disporre di"
+"disporre di"
+"disporre di; poter disporre di"
+"disporre per testamento"
+*[[predisporre]]
+M>disp</E
+M>dis</E
+M>pon</E
+M>porre</E
+M>il vasellame nel buffet</E
+M>gli abiti nel guardaroba</E
+M>i libri sugli scaffali</E
+M>in fila gli alunni</E
+M>gl’invitati a tavola</E
+M>le sentinelle intorno al campo</E
+M>le schede in ordine alfabetico</E
+M>ho già disposto ogni cosa per la partenza</E
+M>tra la fine di domenica e il lunedì, egli comincia a d. la settimana, tramando un sottile, arduo calcolo di incontri</E
+M>l’animo a ricevere una notizia</E
+M>si dispose ad ascoltarmi</E
+M>disporsi a ricevere i sacramenti</E
+M>A sofferir tormenti</E
+M>caldi e geli simili corpi la Virtù dispone</E
+M>ben d</E
+M>mal d</E
+M>bendisporre</E
+M>maldisporre</E
+M>benevolmente</E
+M>favorevolmente</E
+M>sfavorevolmente</E
+M>ben disporsi</E
+M>mal disporsi</E
+M>bendisporsi</E
+M>maldisporsi</E
+M>bendisposto</E
+M>maldisposto</E
+M>disporsi benevolmente</E
+M>verso qualcuno</E
+M>che</E
+M>il ministero ha disposto che siano anticipati gli esami</E
+M>aveva disposto di essere sepolto in una fossa comune</E
+M>dispose per testamento che i suoi beni fossero distribuiti ai poveri</E
+M>il comandante dispose che i prigionieri fossero liberati</E
+M>la legge in questi casi dispone il sequestro</E
+M>la nomina</E
+M>il trasferimento</E
+M>la revoca</E
+M>per il da farsi</E
+M>l’uomo propone e Dio dispone</E
+M>avere</E
+M>di una cosa</E
+M>di un bene</E
+M>della roba mia dispongo io e nessun altro!</E
+M>di molti quattrini</E
+M>di un ingente patrimonio</E
+M>dispongo ancora di alcune migliaia di euro</E
+M>l’ente non dispone dei fondi necessarî</E
+M>il teatro dispone di 700 posti</E
+M>l’albergo dispone di 50 camere</E
+M>di una persona</E
+M>in regime schiavistico</E
+M>il padrone disponeva dei suoi servi con potere assoluto</E
+M>di me dispongo io soltanto</E
+M>la fabbrica dispone di 120 operai</E
+M>poter d</E
+M>di qualcuno</E
+M>disponi liberamente di noi per tutto ciò che ti occorre</E
+M>se hai bisogno di aiuto</E
+M>disponi pure di me</E
+M>a carico di</E
+M>una banca</E
+M>un ente</E
+M>una persona</E

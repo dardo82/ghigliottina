@@ -1,0 +1,10 @@
+bronchite.txt
+"bronchite"
+"bronchite acuta"
+"bronchite cronica"
+M>bronchi</E
+M>bronco</E
+M>ite</E
+M>tracheobronchite</E
+M>bronchiolite</E
+M>bronchite diffusa</E

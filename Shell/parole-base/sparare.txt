@@ -1,0 +1,28 @@
+sparare.txt
+"attaccare violentemente; sparare a zero"
+"fare tiro, andare a sparare"
+"ordine di sparare"
+"sparare"
+"sparare"
+"sparare"
+"sparare"
+"sparare a"
+"sparare a (contro)"
+"sparare a caso"
+"sparare a raffica"
+"sparare a ripetizione"
+"Sparare a zero"
+"sparare a zero, criticare"
+"sparare ad un uccello in volo"
+"sparare contro qcn."
+"sparare dritto"
+"sparare sulla croce rossa"
+"sparare un colpo"
+"sparare un prezzo"
+"sparare una cifra"
+#*''Perché '''hai sparato'''?''
+#*'''''Sparerò''' ai targetti''
+*fare fuoco, far partire il colpo, [[scaricare]], [[esplodere]], [[bombardare]], [[mitragliare]]
+*[[tirare]]
+*[[spararsi]], [[sparachiodi]], [[sparaneve]], [[spararazzi]], [[sparata]], [[sparatoria]], [[sparo]]
+*''sparare a zero'''

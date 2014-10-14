@@ -1,0 +1,48 @@
+urtare.txt
+"spingere, urtare"
+"urtare"
+"urtare"
+"urtare"
+"urtare contro"
+"urtare, irritare"
+#* ''
+*[[colpire]], [[battere]], [[toccare]], [[investire]]
+* andare a sbattere, [[cozzare]]
+*[[evitare]], [[schivare]]
+*[[concordare]], [[agevolare]]
+*[[urtarsi]],[[urtamento]]
+M>urtar</E
+M>*hurt</E
+M>u. qualcuno passando</E
+M> correndo</E
+M>u. qualcuno con una valigia</E
+M>u. con la moto un pedone</E
+M>mi ha urtato in una gamba</E
+M>una gamba</E
+M>facendo marcia indietro</E
+M> ho urtato un’altra macchina</E
+M>u. il capo nel muro</E
+M>Gli urta il cavallo adosso</E
+M>urtarsi</E
+M>nell’indietreggiare ci urtammo malamente.</E
+M>U. i nervi</E
+M>tutto questo chiasso mi urta i nervi.</E
+M>con tutte quelle sue moine mi urta</E
+M>insisté tanto che finì per urtarlo.</E
+M>perché ti sei urtato?</E
+M>sta attento che non si urti</E
+M>si urtarono per una questione d’interesse</E
+M>non erano ... ancora venuti alle armi</E
+M> ma solamente ne’ magistrati e ne’ Consigli si urtavano</E
+M>avere</E
+M>la barca urtò in uno scoglio</E
+M>urtai contro un muro</E
+M>l’automobile uscì di strada e andò a u. contro un albero</E
+M>u. in una difficoltà</E
+M> in un ostacolo</E
+M>mi pare che la tua conclusione urti con le premesse.</E
+M>un modo di fare</E
+M> un comportamento urtante</E
+M>parole urtanti</E
+M>l’ho trovato molto urtato per il tuo comportamento</E
+M>sono davvero urtato</E

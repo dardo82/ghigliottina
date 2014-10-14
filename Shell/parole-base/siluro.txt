@@ -1,0 +1,5 @@
+siluro.txt
+"pesce siluro"
+"siluro"
+"siluro"
+*[[torpedine]]

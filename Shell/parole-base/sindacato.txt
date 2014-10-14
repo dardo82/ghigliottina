@@ -1,0 +1,15 @@
+sindacato.txt
+"azienda che assume solo iscritti al sindacato"
+"azienda con impiegati non iscritti al sindacato"
+"costituzione in sindacato"
+"il Sindacato"
+"sindacale; del sindacato"
+"sindacato"
+"sindacato"
+"sindacato"
+"sindacato"
+"sindacato degli insegnanti"
+"sindacato dei lavoratori"
+"sindacato locale"
+"sindacato professionale"
+#*azienda sindacata

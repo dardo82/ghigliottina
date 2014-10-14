@@ -1,0 +1,28 @@
+alunno.txt
+"alunno"
+"alunno"
+"ex alunno"
+"scolaro, alunno"
+"scolaro, alunno"
+* [[scolaro]],  [[discente]], [[allievo]], [[discepolo]]
+*[[alunnato]], [[alunnatico]], 
+*italiano
+M>alumnus</E
+M>ebbe Caieta</E
+M>Dal suo pietoso a</E
+M>esequie e lutto</E
+M>delle Muse</E
+M>Vergine cuccia</E
+M>delle Grazie alunna</E
+M>Or te</E
+M>padre de’ pii</E
+M>te giusto e forte</E
+M>E di tuo seme i generosi alunni Medita il petto mio</E
+M>gli a. della prima elementare</E
+M> il maestro ha radunato gli a. nel cortile</E
+M>studente</E
+M>interni</E
+M>esterni</E
+M>privatisti</E
+M>d’ordine</E
+M>alumni</E

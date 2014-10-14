@@ -1,0 +1,38 @@
+parrocchia.txt
+"parrocchia"
+"parrocchia"
+"parrocchia"
+"fedeli di una parrocchia"
+"parrocchia"
+*[[chiesa]], circoscrizione ecclesiastica
+*[[parrocchiale]], [[parrocchialità]], [[parrocchiano]] 
+M>parochia</E
+M>paroecia</E
+M>parroco</E
+M>una p</E
+M>numerosa</E
+M>vasta</E
+M>povera</E
+M>ricca</E
+M>p. territoriali</E
+M>personali</E
+M>erezione</E
+M>soppressione di una p</E
+M>vacante</E
+M>quasi</E
+M>parrocchia</E
+M>quasi</E
+M>parroco</E
+M>chiesa parrocchiale</E
+M>andare a messa alla p</E
+M>il matrimonio è stato celebrato nella p</E
+M>di Sant&#8217;Antonio</E
+M>parrocchietta</E
+M>chiedere in p</E
+M>il certificato di battesimo</E
+M>i ragazzi sono andati a giocare in p</E
+M>stasera c&#8217;è il cinema in p</E
+M>io non sono della vostra p</E
+M>sono di un&#8217;altra p</E
+M>cerca di fare gli interessi della sua p</E
+M>pensano solo alla loro p</E

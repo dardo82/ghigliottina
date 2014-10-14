@@ -1,0 +1,212 @@
+rosa.txt
+"al profumo di rosa"
+"bocciolo di rosa"
+"bosso di rosa"
+"chi tiene la rubrica di cronaca rosa; chi scrive gli avvenimenti mondani"
+"cronaca rosa"
+"di color rosa salmone"
+"di colore rosa"
+"di colore rosa-grigiastro"
+"favola rosa"
+"fiocco rosa"
+"foglio rosa"
+"fresco come una rosa"
+"frutto della rosa canina"
+"non c'è rosa senza spine"
+"occhiali rosa"
+"olio di rosa"
+"quarzo rosa"
+"quota rosa"
+"romanzo rosa"
+"rosa"
+"rosa"
+"rosa"
+"rosa"
+"colore rosa"
+"rosa"
+"di colore rosa"
+"Rosa"
+"rosa acceso"
+"rosa antico"
+"rosa bianca"
+"rosa canina"
+"rosa canina"
+"rosa canina"
+"rosa centifoglia"
+"rosa confetto"
+"rosa d'inverno"
+"rosa d'oro"
+"rosa damasco"
+"rosa dei candidati"
+"rosa dei venti"
+"rosa dei venti"
+"rosa della bussola"
+"rosa di candidati"
+"rosa levigata"
+"rosa montana"
+"rosa muscosa"
+"rosa porpora"
+"rosa rampicante"
+"rosa rossa"
+"rosa salmone"
+"rosa shocking"
+"rosa tea"
+"rosa tea"
+"rosso rosa"
+"rubrica di cronaca rosa; degli avvenimenti mondani"
+"salmone rosa"
+"salsa rosa"
+"stampa rosa"
+"tea ibrida (rosa)"
+"una rosa di candidati"
+#*''illa '''rosa''' pulchra est'' <small>([[nominativo]])</small>
+#*'''''rosa''', pulchra es!'' "o rosa" <small>([[vocativo]])</small>
+#*''puella cum '''rosa''' est'' <small>([[ablativo]])</small>
+#*''Was ist dein Lieblingfarbe? Mir gefällt '''rosa''' sehr viel!''
+*italiano
+*catalano
+*latino
+*inglese
+*tedesco
+* spagnolo
+M>Rosa</E
+M>aculei</E
+M>spine</E
+M>Rosa gallica</E
+M>damascena</E
+M>canina</E
+M>chinensis</E
+M>gigantea</E
+M>moscata</E
+M>multiflora</E
+M>Rosa canina</E
+M>pendulina</E
+M>gallica</E
+M>rubiginosa</E
+M>una pianta di rose</E
+M>un mazzo di r</E
+M>rosse</E
+M>la stagione delle r</E
+M>pasqua di rose</E
+M>pasqua rosa</E
+M>pasquarosa</E
+M>R. fresca aulentissima Ch&#8217;appari in ver la state</E
+M>candida la vesta Ma pur di rose e fior dipinta e d&#8217;erba</E
+M>La verginella è simile alla rosa</E
+M>è un bocciolo di r</E
+M>aveva Pericone un fratello</E
+M>bello e fresco come una r</E
+M>essere</E
+M>trovarsi in un letto di rose</E
+M>credeva che fossero tutte r</E
+M>e fiori</E
+M>non sono</E
+M>non saranno</E
+M>tutte r</E
+M>vedrai</E
+M>che non credeste che nella guerra sia tutto rose</E
+M>se son r</E
+M>fioriranno</E
+M>se sono spine pungeranno</E
+M>non c&#8217;è r</E
+M>senza spine</E
+M>cogliete le r</E
+M>e lasciate le spine stare</E
+M>Colgo la rosa e lascio star la foglia</E
+M>Ho tanta voglia di far l&#8217;amor con te</E
+M>Cogli la rosa e lascia star la foglia</E
+M> Vieni con me</E
+M>andiamo a far l&#8217;amor</E
+M>profumo di rosa</E
+M>acqua di rose</E
+M>all&#8217;acqua di rose</E
+M>olio essenziale di rosa</E
+M>Rosa damascena</E
+M>olio essenziale di legno di rosa</E
+M>Rosa mistica</E
+M>rosa d&#8217;oro</E
+M>colore rosa</E
+M> tinte rosa</E
+M>una camicetta rosa</E
+M>un nastro rosa</E
+M>nuvole rosa</E
+M>tendaggi rosa</E
+M>un rosa pallido</E
+M>tenero</E
+M>carico</E
+M>shocking</E
+M>una gonna in rosa antico</E
+M>il rosa le sta molto bene</E
+M>le dona</E
+M>le nuvole</E
+M>al tramonto</E
+M>si tingevano di rosa</E
+M>maglia r</E
+M>detenere</E
+M>essere la maglia rosa</E
+M>Legni r</E
+M>di r</E
+M>legno rosa brasiliano</E
+M>di Baía</E
+M>legno rosa delle Canarie</E
+M>legno rodio</E
+M>legno rosa della Martinica</E
+M>legno di Rodi</E
+M>Cordia gerascanthus</E
+M>Mela r</E
+M>Eugenia jambos</E
+M>vedere tutto rosa</E
+M>dipingere la vita in rosa</E
+M>letteratura</E
+M>cinema rosa</E
+M>giallo</E
+M>rosa</E
+M>un romanzo</E
+M>un film</E
+M>un telefilm rosa</E
+M>giallo</E
+M>rosa</E
+M>un giallo</E
+M>rosa</E
+M>delle Alpi</E
+M>di Gerico</E
+M>di Natale</E
+M>Rosa di mare</E
+M>attinia</E
+M>male della r</E
+M>pellagra</E
+M>legnosa</E
+M>di Malta</E
+M>Phoradendron</E
+M>rose dei ghiacciai</E
+M>rosetta</E
+M>di ferro</E
+M>del deserto</E
+M>della bussola</E
+M>rotta bussola</E
+M>Rosa di lettura</E
+M>dei venti</E
+M>del pilota</E
+M>dei colori</E
+M>rosa di tiro</E
+M>di dispersione</E
+M>rosa di tiro</E
+M>del getto</E
+M>rosa dei pallini</E
+M>rosata</E
+M>la commissione giudicatrice ha selezionato una prima r</E
+M>dei candidati</E
+M>al premio letterario</E
+M>al concorso musicale</E
+M>delle opere</E
+M>delle musiche</E
+M>delle canzoni concorrenti</E
+M>la r</E
+M>dei possibili ministri del nuovo governo è ancora molto ampia</E
+M>la r</E
+M>per la presidenza del consiglio è ristretta a tre nomi</E
+M>la r</E
+M>dei giocatori della nazionale è quasi ultimata</E
+M>rosetta</E
+M>noce</E
+M>tracoscio</E

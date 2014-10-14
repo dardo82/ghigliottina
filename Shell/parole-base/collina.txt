@@ -1,0 +1,23 @@
+collina.txt
+"collina"
+"fianco della collina"
+"in cima a una collina"
+"la Collina"
+"la collina degli stivali"
+"La collina dei ciliegi"
+"re della collina"
+"tempio o altare costruito su una collina"
+*[[colle]], [[poggio]], [[montagnola]]
+*[[altura]],[[rilievo]], [[dosso]],  
+*AA.VV. ''Dizionario etimologico'', edizione cartacea 2004, ristampa 2008, RusconiLibri , p. 230
+M>coll</E
+M>collinus</E
+M>collis</E
+M>aria di collina</E
+M>vino di collina</E
+M>la c</E
+M>pistoiese</E
+M>dati statistici sulla popolazione della c</E
+M>sul raccolto del grano in collina</E
+M>colle</E
+M>collina</E

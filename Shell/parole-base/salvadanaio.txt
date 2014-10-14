@@ -1,0 +1,13 @@
+salvadanaio.txt
+"salvadanaio"
+"salvadanaio a forma di porcellino"
+* [[martello]], [[moneta]], [[porcellino]], [[risparmi]], [[rompere]], [[soldi]], [[soldino]]
+M>salvare</E
+M>danaio</E
+M>danaro</E
+M>riempire</E
+M>rompere</E
+M>aprire il s.</E
+M>un s. di terracotta</E
+M>un s. a forma di maialino</E
+M>di casetta.</E

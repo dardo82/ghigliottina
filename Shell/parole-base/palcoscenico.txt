@@ -1,0 +1,23 @@
+palcoscenico.txt
+"il palcoscenico"
+"il palcoscenico"
+"ingresso del palcoscenico"
+"lasciare il palcoscenico"
+"palcoscenico"
+"palcoscenico"
+"palcoscenico"
+"palcoscenico, il"
+"paura da palcoscenico"
+"stare sul palcoscenico"
+"sul palcoscenico"
+"teatro con palcoscenico centrale arena"
+"teatro con palcoscenico centrale arena"
+*[[sottoscena]]
+M>Regolatore di p</E
+M>regolatore di scena</E
+M>amare il p</E
+M>i veri eroi</E
+M>della vita e non del palcoscenico</E
+M>calcare</E
+M>abbandonare il p</E
+M>avere esperienza del palcoscenico</E

@@ -1,0 +1,165 @@
+meccanico.txt
+"apprendimento meccanico"
+"braccio meccanico"
+"disegno meccanico"
+"dispositivo meccanico"
+"ingegnere meccanico"
+"ingegnere meccanico"
+"maglio meccanico a leva"
+"manutentore meccanico"
+"meccanico"
+"meccanico"
+"meccanico"
+"meccanico auto"
+"montatore meccanico"
+"reattore meccanico"
+"strumento meccanico che può essere anche azionato manualmente"
+"termine meccanico"
+"tuta da meccanico"
+"vantaggio meccanico"
+#*'' un orologio 
+#*'''componente meccanico'''
+#*'''circuito meccanico'''
+#* ''Mio zio fa il '''meccanico''' in un'officina''
+*[[automatico]]
+*[[manuale]]
+*[[meccanizzare]], [[metalmeccanico]]
+*[[macchina]], [[meccanica]], [[meccanicamente]], [[meccanicismo]],[[meccanicista]], [[meccanicità]], [[meccanismo]]
+m>mechan</e
+m>cus</e
+m>leggi m</e
+m>problemi meccanici</e
+m>lavoro m</e
+m>impulso m</e
+m>modello m</e
+m>erosione prodotta dall&rsquo;azione m</e
+m>delle acque</e
+m>stimoli m</e
+m>elettrico</e
+m>elettronico</e
+m>oscillografo m</e
+m>macchina per scrivere meccanica</e
+m>congegno m</e
+m>pezzo m</e
+m>mezzo</e
+m>veicolo m</e
+m>industrie m</e
+m>officina m</e
+m>aratura</e
+m>trebbiatura m</e
+m>trazione m</e
+m>lana m</e
+m>azione m</e
+m>gesti</e
+m>movimenti m</e
+m>insegnamento m</e
+m>apprendimento m</e
+m>esercizio m</e
+m>della memoria</e
+m>ripetizione m</e
+m>di concetti</e
+m>di un brano</e
+m>di una poesia</e
+m>della lezione</e
+m>lavoro m</e
+m>arti m</e
+m>cellule m</e
+m>cellule collenchimatiche</e
+m>cellule sclerenchimatiche</e
+m>sistema m.</e
+m>stereoma</e
+m>di precisione</e
+m>di artiglieria</e
+m>di siluri</e
+m>congegnatori</e
+m>saldatori</e
+m>secondo la oppinion de&rsquo; meccanici</e
+m>nel mezzo</e
+m>vile meccanico; o ch&rsquo;io t&rsquo;insegno una volta come si tratta co&rsquo; gentiluomini</e
+m>colui il quale</e
+m>la filosofia ha dalla meccanica turba separato</e
+m>delle persone mecaniche non gliene capita a casa nessuna</e
+m>compiere meccanicamente un gesto</e
+m>gli uomini di oggidì procedono e vivono forse piu meccanicamente di tutti i passati</e
+"apprendimento meccanico"
+"braccio meccanico"
+"disegno meccanico"
+"dispositivo meccanico"
+"ingegnere meccanico"
+"ingegnere meccanico"
+"maglio meccanico a leva"
+"manutentore meccanico"
+"meccanico"
+"meccanico"
+"meccanico"
+"meccanico auto"
+"montatore meccanico"
+"reattore meccanico"
+"strumento meccanico che può essere anche azionato manualmente"
+"termine meccanico"
+"tuta da meccanico"
+"vantaggio meccanico"
+#*'' un orologio 
+#*'''componente meccanico'''
+#*'''circuito meccanico'''
+#* ''Mio zio fa il '''meccanico''' in un'officina''
+*[[automatico]]
+*[[manuale]]
+*[[meccanizzare]], [[metalmeccanico]]
+*[[macchina]], [[meccanica]], [[meccanicamente]], [[meccanicismo]],[[meccanicista]], [[meccanicità]], [[meccanismo]]
+m>mechan</e
+m>cus</e
+m>leggi m</e
+m>problemi meccanici</e
+m>lavoro m</e
+m>impulso m</e
+m>modello m</e
+m>erosione prodotta dall&rsquo;azione m</e
+m>delle acque</e
+m>stimoli m</e
+m>elettrico</e
+m>elettronico</e
+m>oscillografo m</e
+m>macchina per scrivere meccanica</e
+m>congegno m</e
+m>pezzo m</e
+m>mezzo</e
+m>veicolo m</e
+m>industrie m</e
+m>officina m</e
+m>aratura</e
+m>trebbiatura m</e
+m>trazione m</e
+m>lana m</e
+m>azione m</e
+m>gesti</e
+m>movimenti m</e
+m>insegnamento m</e
+m>apprendimento m</e
+m>esercizio m</e
+m>della memoria</e
+m>ripetizione m</e
+m>di concetti</e
+m>di un brano</e
+m>di una poesia</e
+m>della lezione</e
+m>lavoro m</e
+m>arti m</e
+m>cellule m</e
+m>cellule collenchimatiche</e
+m>cellule sclerenchimatiche</e
+m>sistema m.</e
+m>stereoma</e
+m>di precisione</e
+m>di artiglieria</e
+m>di siluri</e
+m>congegnatori</e
+m>saldatori</e
+m>secondo la oppinion de&rsquo; meccanici</e
+m>nel mezzo</e
+m>vile meccanico; o ch&rsquo;io t&rsquo;insegno una volta come si tratta co&rsquo; gentiluomini</e
+m>colui il quale</e
+m>la filosofia ha dalla meccanica turba separato</e
+m>delle persone mecaniche non gliene capita a casa nessuna</e
+m>compiere meccanicamente un gesto</e
+m>gli uomini di oggidì procedono e vivono forse piu meccanicamente di tutti i passati</e

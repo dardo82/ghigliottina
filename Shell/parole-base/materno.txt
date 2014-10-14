@@ -1,0 +1,45 @@
+materno.txt
+"amore materno"
+"amore materno"
+"istinto materno"
+"latte materno"
+"latte materno"
+"materno"
+"materno"
+"materno"
+#*''Federico è il nonno materno di Martino''
+*[[paterno]]
+*[[madre]], [[maternamente]], [[maternità]], [[maternizzazione]]
+M>maternus</E
+M>mater</E
+M>amore</E
+M>affetto m</E
+M>carezze</E
+M>cure m</E
+M>la m</E
+M>benedizione</E
+M>sin dall’alvo m</E
+M>sangue m</E
+M>latte m</E
+M>istinto materno</E
+M>la sorella guardava il fratellino con occhio m</E
+M>allevò l’orfano con sollecitudine materna</E
+M>nonno</E
+M>zio m</E
+M>gli ascendenti m</E
+M>in linea m</E
+M>eredità m.</E
+M>eredità matroclina</E
+M>lingua m</E
+M>idioma m</E
+M>Fu miglior fabbro del parlar m</E
+M>terra m</E
+M>Tu non altro che il canto avrai del figlio</E
+M> O m</E
+M>mia terra</E
+M>scuola m</E
+M>scuola dell’infanzia</E
+M>parlare</E
+M>consigliare</E
+M>curare</E
+M>sorvegliare maternamente</E

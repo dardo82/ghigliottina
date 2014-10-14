@@ -1,0 +1,36 @@
+manovrare.txt
+"manovrare"
+"manovrare"
+#*''manovrare una gru''
+#*''la nave sta manovrando per attraccare''
+*[[usare]], [[maneggiare]]
+M>manoeuvrer</E
+M>manuoperare</E
+M>operare</E
+M>manu</E
+M>io manòvro</E
+M>le vele</E
+M>le ancore</E
+M>una gru</E
+M>il freno</E
+M>lo scambio dei binarî</E
+M>un motoscafo</E
+M>la nave</E
+M>una locomotiva</E
+M>l’autotreno</E
+M>l’aeroplano</E
+M>il dirigibile</E
+M>le varie unità dell’esercito</E
+M>le forze terrestri</E
+M>navali</E
+M>aeree</E
+M>è un guidatore ancora inesperto</E
+M>non sa m</E
+M>con sicurezza</E
+M>è persona abile che sa m</E
+M>tanto manovrò che ottenne ciò che desiderava</E
+M>guerra manovrata</E
+M>moneta manovrata</E
+M>regolata</E
+M>economia manovrata</E
+M>gioco manovrato</E

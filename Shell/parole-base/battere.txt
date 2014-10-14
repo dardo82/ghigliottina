@@ -1,0 +1,264 @@
+battere.txt
+"battere"
+"battere"
+"battere"
+"battere"
+"battere"
+"battere, replace: battersela"
+"battere (le dodici)"
+"battere a macchina"
+"Battere a tappeto"
+"battere bandiera"
+"battere cassa"
+"battere ciglio"
+"battere completamente"
+"battere con la penna"
+"battere forte"
+"battere gli avversari"
+"battere gli avversari"
+"battere i denti"
+"battere i piedi"
+"battere i piedi a terra"
+"battere i piedi per terra"
+"Battere il ferro finché è caldo"
+"battere il marciapiede"
+"battere il record"
+"battere il record"
+"battere il sistema"
+"battere il tempo"
+"battere in ritirata"
+"battere in ritirata"
+"battere la concorrenza"
+"battere la fiacca"
+"battere lo scontrino"
+"battere nuove strade"
+"battere q.no di poco, sconfiggere q.no di poco"
+"battere su"
+"battere su"
+"battere su"
+"battere su"
+"battere su (un tema)"
+"battere sul tempo"
+"Battere un colpo"
+"colpire, battere"
+"frequentare; bazzicare; battere"
+"il battere le gambe come nel dorso e nel crawl"
+"in battere"
+"in battere e levare"
+"Senza battere ciglio"
+"vincere, sconfiggere, battere"
+#* ''sono riusciti a 
+#* ''
+#* ''
+#* ''l'orologio tra poco dovrà  
+#* ''i soccorritori dovranno 
+#* ''se continui così finirai a 
+#* ''il cuore  normalmente deve 
+#* ''il pomeriggio la trovavi sempre a 
+*''(picchiare)'' [[percuotere]], [[colpire]], [[picchiare]], [[pestare]], [[sbattere]],  [[sculacciare]] 
+*''(postazioni nemiche)'' [[cannoneggiare]], [[bombardare]]
+*''(le ore)'' [[sonare]], [[rintoccare]], [[scandire]] 
+*''(vincere qualcuno)'' [[sconfiggere]],  [[vincere]]
+*''(percorrere un sentiero)'' [[esplorare]],  [[percorrere]]
+*''(prostituirsi)'' [[prostituirsi]],  [[vendersi]]
+*[[battimento]], [[abbattere]],  [[batacchio]],  [[battacchio]],  [[battaglia]],  [[battente]],  [[battibaleno]],  [[battibecco]],  [[batticuore]],  [[battigia]],  [[battipanni]],  [[battiporta]],  [[battiscopa]],  [[battistrada]],  [[battitura]], [[battona]],  [[battitappeto]],  [[battito]],  [[battitore]], [[battuta]],  [[combattere]],  [[combattimento]], [[dibattere]],  [[dibattito]],  [[imbattersi]],  [[ribattere]],  [[sbattere]]
+* [[avversario]],  [[cuore]],  [[marciapiede]],  [[panno]],  [[strada]]
+* ''la lingua '''batte''' dove il dente duole'' 
+* ''
+* ''
+* '''''batter''' cassa'' 
+* ''
+* ''pioggia '''battente''''' 
+* ''
+* ''
+* ''in un '''batter''' d'occhio'' 
+* ''(fare qualcosa) senza 
+* ''(le parti del corpo) dove non '''batte''' il sole'' 
+* ''
+* ''
+* '''''batter''' d'ali'' 
+* ''
+* ''(fare) '''batti''' e ribatti'' 
+M>batt</E
+M>battu</E
+M>qualcuno</E
+M>Batte col remo qualunque s’adagia</E
+M>dovrei battermi a sangue per quello che ho fatto</E
+M>battersi</E
+M>il chiodo</E
+M>i tappeti</E
+M>i materassi</E
+M>i panni</E
+M>la carne</E
+M>il ferro</E
+M>bisogna b</E
+M>il ferro finch’è caldo</E
+M>il tamburo</E
+M>la grancassa</E
+M>le noci</E
+M>la canapa</E
+M>il grano</E
+M>i contadini battevano sull’aia</E
+M>la mano sulla spalla a qualcuno</E
+M>un colpo</E
+M>due colpi</E
+M>se ci sei</E
+M>batti un colpo</E
+M>batti tre colpi</E
+M>i mortai nemici battevano le nostre trincee</E
+M>le navi battevano le mura della città</E
+M>il tempo</E
+M>la solfa</E
+M>in battere</E
+M>in levare</E
+M>tempo</E
+M>movimento</E
+M>unità in b</E
+M>i violini attaccano in battere</E
+M>ho già battuto l’articolo</E
+M>devo b</E
+M>una lettera al computer</E
+M>a macchina</E
+M>un telegramma</E
+M>manipolatore Morse</E
+M>a tasti</E
+M>una punizione</E
+M>un rigore</E
+M>avere</E
+M>all’uscio</E
+M>in testa</E
+M>picchiare in testa</E
+M>le onde battono sugli</E
+M>contro gli</E
+M>scogli</E
+M>la pioggia batteva sui vetri</E
+M>sul selciato</E
+M>sui tetti</E
+M>batteva i vetri</E
+M>è un luogo riparato e il vento non ci batte quasi mai</E
+M>Su ’l castello di Verona Batte il sole a mezzogiorno</E
+M>dare un calcio dove non batte il sole</E
+M>la luce dei riflettori batteva in pieno sulla facciata del palazzo</E
+M>luogo battuto dal vento</E
+M>dal sole</E
+M>B. in qualche cosa</E
+M>ha battuto il gomito</E
+M>col gomito</E
+M>nello spigolo del tavolino</E
+M>sono scivolato e ho battuto il ginocchio in terra</E
+M>il capo</E
+M>la testa nel muro</E
+M>batterei</E
+M>avrei battuto la testa nel muro</E
+M>non saper dove b</E
+M>il capo</E
+M>sono curioso di vedere dove andrà a b</E
+M>il naso</E
+M>non riesce a trovar nulla se proprio non ci batte il naso</E
+M>ha battuto il naso in uno dei suoi creditori</E
+M>sbattere</E
+M>le mani</E
+M>i piedi</E
+M>i denti</E
+M>gli occhi</E
+M>non battere ciglio</E
+M>occhio</E
+M>palpebra</E
+M>senza batter ciglio</E
+M>in un batter d’occhio</E
+M>d’occhi</E
+M>i tacchi</E
+M>le ali</E
+M>Godi Fiorenza</E
+M>poi che se’ sì grande</E
+M>Che per mare e per terra batti l’ali</E
+M>la lingua batte dove il dente duole</E
+M>Battersi il petto</E
+M>ha voluto far di testa sua e ora si batte il petto</E
+M>battersi l’anca</E
+M>il fianco</E
+M>battersi la fronte</E
+M>il polso mi batteva lento</E
+M>senti come mi batte forte il cuore</E
+M>il suo cuore aveva ormai cessato di b</E
+M>far b</E
+M>il cuore</E
+M>gli Austriaci furono battuti a Goito</E
+M>in breccia</E
+M>un concorrente</E
+M>un avversario</E
+M>l’ho battuto a briscola</E
+M>nelle corse su pista li batte tutti</E
+M>l’Inter ha battuto la squadra avversaria per due a zero</E
+M>in geografia nessuno della mia classe mi batte</E
+M>i prezzi della nostra ditta battono ogni concorrenza</E
+M>un primato</E
+M>conquistare</E
+M>i soldati si batterono da leoni</E
+M>battersi per un ideale</E
+M>per il trionfo della verità</E
+M>è stata una discussione animatissima e mi sono battuto bene</E
+M>battersi con un avversario alla spada</E
+M>alla pistola</E
+M>all’ultimo sangue</E
+M>il professore ha battuto molto sulle equazioni di 2° grado</E
+M>batti oggi</E
+M>batti domani</E
+M>alla fine ci riuscirai</E
+M>una sillaba</E
+M>una parola</E
+M>sopra</E
+M>su una sillaba</E
+M>batti meglio le desinenze</E
+M>devi b</E
+M>di più su questa parola</E
+M>l’orologio della torre batteva in quell’istante le dieci</E
+M>avere</E
+M>essere</E
+M>ha battuto il tocco proprio adesso</E
+M>è battuta la mezza</E
+M>son battute le sette</E
+M>una strada</E
+M>una via</E
+M>la via del vizio</E
+M>un luogo</E
+M>in un luogo</E
+M>il marciapiede</E
+M>battere</E
+M>il mare</E
+M>la campagna</E
+M>i monti</E
+M>i boschi</E
+M>la campagna</E
+M>la selvaggina</E
+M>determinati punti dal punto stazione</E
+M>una distanza</E
+M>battono tra loro</E
+M>battere un’oscillazione con un altra</E
+M>bandiera</E
+M>italiana</E
+M>inglese</E
+M>insegna di ammiraglio</E
+M>cassa</E
+M>le castagnette</E
+M>forgiare</E
+M>fabbricare</E
+M>la fiacca</E
+M>le gazzette</E
+M>la mano</E
+M>gangheggiare</E
+M>far le forbici</E
+M>moneta</E
+M>la ritirata</E
+M>in ritirata</E
+M>il tacco</E
+M>battersela</E
+M>vista la mala parata</E
+M>se la batté in tutta fretta</E
+M>quatti quatti</E
+M>come un branco di pecore</E
+M>tutti insieme se la batterono</E
+M>battersela con qualche cosa</E
+M>se la batte volentieri col vino</E
+M>quei due se la battono</E
+M>un segnale</E

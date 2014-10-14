@@ -1,0 +1,53 @@
+sacerdote.txt
+"ministro, sacerdote"
+"sacerdote"
+"sacerdote"
+"sacerdote"
+#* '''''sacerdote''' della giustizia''
+#* '''''sacerdore''' di Esculapio''
+#* '''''sacerdote''' del vero''
+#* ''sommo '''sacerdote'''''
+*[[prete]], [[religioso]], [[ecclesiastico]], [[padre]], [[reverendo]], [[prelato]], ministro di un culto, ministro di Dio, [[celebrante]], [[officiante]],[[officiatore]]
+*''(sacerdote protestante)'' [[pastore]] 
+* ''(sacerdote ebraico)'' [[levita]]
+*[[laico]], [[secolare]]
+* [[sacerdotale]], [[sacerdotessa]], [[sacerdozio]]
+* ''(persona dedicata al culto delle cose sacre)''
+* ''(donna dedicata al culto delle cose sacre)'' [[sacerdotessa]]
+* ''(paganesimo romano)'' [[augure]], [[aruspice]],  [[flamine]], [[pontefice]], [[salio]], [[vate]]
+*Enciclopedia [http
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001 , Le Monnier, p. 1816
+M>sacerdotessa</E
+M>sacerdos -otis</E
+M>sacer</E
+M>*dhe-</E
+M>fac</E
+M>i s. pagani</E
+M>i s. egiziani</E
+M>assiri</E
+M>un s. buddista.</E
+M>s. di Zeus</E
+M>di Apollo</E
+M>di Iside</E
+M>sommo s.</E
+M>gran s.</E
+M>principe dei s.</E
+M>Sancta Sanctorum</E
+M>prete</E
+M>la vocazione</E
+M>la missione del s.</E
+M>essere ordinato</E
+M>consacrato</E
+M>il s. si avvia all&#8217;altare</E
+M>sommo s.</E
+M>s. della scienza</E
+M>dell&#8217;arte</E
+M>del vero</E
+M>i s. di Temi</E
+M>i s. di Esculapio</E
+M>e senza tomba giace il tuo Sacerdote</E
+M> o Talia</E
+M>sacerdos</E
+M>sacerdote</E
+M>la sacerdote</E
+M>sacerdotessa.</E

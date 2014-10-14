@@ -1,0 +1,67 @@
+emettere.txt
+"annunciare; rendere noto; emettere"
+"emanare; emettere"
+"emettere"
+"emettere"
+"emettere"
+"emettere"
+"emettere  bip"
+"emettere all'esterno"
+"emettere azioni"
+"emettere calore"
+"emettere calore"
+"emettere luce"
+"emettere parole"
+"emettere parole"
+"emettere raggi"
+"emettere raggi"
+"emettere suono acuto"
+"emettere titoli"
+"emettere un assegno"
+"emettere un comando"
+"emettere un fruscio"
+"emettere un mandato"
+"emettere un rifiuto"
+"emettere un suono"
+"emettere un verdetto"
+"emettere un'ingiunzione"
+"emettere una sentenza"
+"emettere vapore"
+"emettere, far uscire"
+"gridare, emettere un grido"
+"incline a emettere sermoni"
+* (odori, suoni) [[spargere]], [[spandere]], [[effondere]], [[esalare]], [[sprigionare]]
+*(beni, valori) mettere in circolazione, [[immettere]]
+*(ordini, leggi, eccetera) [[pubblicare]], [[diffondere]], [[divulgare]], [[emanare]], [[promulgare]], [[varare]]
+*(un giudizio, una sentenza) [[dire]], [[esprimere]], [[pronunciare]], [[formulare]]
+*(odori, suoni) [[trattenere]], [[ritenere]]
+*(beni, valori)[[ritirare]], [[togliere]]
+*(ordini, leggi, eccetera) [[invalidare]], [[abrogare]]
+*(un giudizio, una sentenza) [[ritrattare]]
+M>emitt</E
+M>mitt</E
+M>mettere</E
+M>un suono</E
+M>un sibilo</E
+M>un grido</E
+M>e. un rumore dalla bocca</E
+M>vapore</E
+M>calore</E
+M>la Corte ha emesso sentenza di condanna</E
+M>la giuria ha emesso il suo verdetto</E
+M>e. parere favorevole</E
+M>contrario</E
+M>sorgente che emette onde sonore</E
+M>onde elettromagnetiche</E
+M>raggi X</E
+M>un fotocatodo emette elettroni</E
+M>un ordine</E
+M>un provvedimento</E
+M>e. un mandato di pagamento</E
+M>azioni</E
+M>obbligazioni</E
+M>titoli di stato</E
+M>monete</E
+M>biglietti</E
+M>assegni</E
+M>emittènte</E

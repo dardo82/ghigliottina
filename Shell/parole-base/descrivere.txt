@@ -1,0 +1,36 @@
+descrivere.txt
+"descrivere"
+"descrivere"
+"descrivere a grandi linee"
+"descrivere sommariamente"
+*[[narrare]], [[esporre]], [[raccontare]], [[riferire]], [[esprimere]], [[rappresentare]], [[raffigurare]], [[ritrarre]], [[delineare]], [[spiegare]]
+*[[descriversi]]
+M>describ</E
+M>scrib</E
+M>scrivere</E
+M>un paese</E
+M>la facciata di un edificio</E
+M>la struttura di un macchinario</E
+M>una pianta</E
+M>un minerale</E
+M>il direttore è proprio come mi era stato descritto</E
+M>uno spettacolo da non potersi descrivere</E
+M>il carattere di una persona</E
+M>le abitudini di qualcuno</E
+M>l’entusiasmo della folla</E
+M>è difficile d</E
+M>la sua gioia</E
+M>non saprei descriverti l’impressione provata</E
+M>un avvenimento</E
+M>un viaggio</E
+M>una partita di calcio</E
+M>una festa</E
+M>d. qualcosa per filo e per segno</E
+M>Sette P ne la fronte mi descrisse Col punton de la spada</E
+M>un cerchio col compasso</E
+M>l’aeroplano descrisse un largo giro nel cielo</E
+M>in quel punto il fiume descrive un’ampia curva</E
+M>la situazione descritta</E
+M>codice descritto</E
+M>codex descriptus</E
+M>describere</E

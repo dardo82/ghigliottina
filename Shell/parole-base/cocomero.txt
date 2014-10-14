@@ -1,0 +1,28 @@
+cocomero.txt
+"cocomero"
+"cocomero"
+"frutto del cocomero, anguria"
+* [[melone d'acqua]]
+*[[cocomerata]], [[cocomeraio]], [[cocomero asinino]], [[cocomero amaro]], [[cocomero di mare]]
+* [[cucurbitacea]], [[melone]], [[zucca]]
+* [[peponide]]
+M>mis</E
+M>ris</E
+M>Citrullus lanatus</E
+M>Cucumis citrullus</E
+M>poponide</E
+M>melone d’acqua</E
+M>anguria</E
+M>pasteca</E
+M>una fetta di c</E
+M>semi</E
+M>bucce di c</E
+M>avere una pancia come un c</E
+M>asinino</E
+M>Ecballium elaterium</E
+M>elaterio</E
+M>schizzetti</E
+M>sputaveleno</E
+M>amaro</E
+M>coloquintide</E
+M>di mare</E

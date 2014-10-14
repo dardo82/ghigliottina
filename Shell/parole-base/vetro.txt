@@ -1,0 +1,162 @@
+vetro.txt
+"blocco di vetro"
+"campana di vetro"
+"che serve per intagliare lastre di vetro"
+"che serve per soffiare il vetro"
+"col davanti in vetro"
+"con il fondo in vetro"
+"con superficie in vetro"
+"contenitore per esposizione in vetro"
+"di vetro laminato"
+"fibra di vetro"
+"il soffiare il vetro"
+"lamina di vetro"
+"lana di vetro"
+"occhio di vetro"
+"ornare con il vetro"
+"Palazzo di vetro"
+"pannello di vetro"
+"patina di vetro"
+"per intagliare il vetro"
+"perlina di vetro; grano di vetro"
+"ricoperto di vetro"
+"ricoprire di vetro"
+"scultura di vetro"
+"sfera di cristallo; palla di vetro"
+"soffiatore di vetro"
+"soffiatura del vetro"
+"soffiatura del vetro"
+"taglio del vetro"
+"tessuto di vetro filato"
+"verde vetro, verde bottiglia"
+"vetreria, fabbrica del vetro"
+"vetro"
+"vetro a specchio"
+"vetro al piombo"
+"vetro antico"
+"vetro antirapina"
+"vetro artistico"
+"vetro colorato"
+"vetro colorato di verde artificialmente"
+"vetro da porcellana"
+"vetro di quarzo"
+"vetro filato"
+"vetro flint"
+"vetro float"
+"vetro fumé"
+"vetro laminato"
+"vetro liquido"
+"vetro opalino"
+"vetro ottico"
+"vetro per finestra"
+"vetro per vetrate"
+"vetro piano"
+"vetro piombato"
+"vetro protettivo"
+"vetro rotto"
+"vetro satinato"
+"vetro smerigliato"
+"vetro smerigliato"
+"vetro soffiato"
+"vetro temprato"
+"vetro temprato di sicurezza"
+"vetro vulcanico"
+*[[vetrata]], [[vetrocamera]], [[vetrocemento]], [[vetroceramica]], [[vetrocromia]], [[vetroflex]], [[vetroresina]], [[vetraio]], [[vetrina]], [[vetrofania]], [[vetroso]], [[vitreo]]
+*[[cristallo]]
+*''essere di vetro''
+* Enciclopedia [http
+m>trum</e
+m>soffiature</e
+m>cristallo</e
+m>cristalli</e
+m>V. comune</e
+m>bianco</e
+m>semibianco</e
+m>v. colorati</e
+m>v. stampati</e
+m>v. smerigliati</e
+m>v. di bottiglia</e
+m>v. di Boemia</e
+m>v. di Murano</e
+m>v. neutro</e
+m>v. nitrurato</e
+m>v. di Jena</e
+m>temprato</e
+m>v. infrangibile</e
+m>v. di sicurezza</e
+m>v. Pirex</e
+m>v. armato</e
+m>laminato</e
+m>v. antiproiettile</e
+m>v. ghiaccio</e
+m>v. d&rsquo;ottica</e
+m>crown</e
+m>flint</e
+m>v. fotocromatici</e
+m>fotosensibili</e
+m>v. farmaceutico</e
+m>v. atermico</e
+m>v. di quarzo</e
+m>v. retinato</e
+m>v. di schiuma</e
+m>v. speciali</e
+m>v. al piombo</e
+m>v. antiriflesso</e
+m>v. tessile</e
+m>fibra</e
+m>lana</e
+m> di vetro</e
+m>v. inattinico</e
+m>attinico</e
+m>v. solubile</e
+m>v. solubile liquido</e
+m>la fabbricazione</e
+m>la lavorazione del v.</e
+m>soffiatura del v.</e
+m>stampaggio del v.</e
+m>bicchiere</e
+m>bottiglia</e
+m>fiala</e
+m>lastra</e
+m>tubi di v.</e
+m>tenere</e
+m>conservare sotto una campana di v.</e
+m>l&rsquo;industria</e
+m>l&rsquo;arte del v. colorato</e
+m>trasparente</e
+m>terso</e
+m>fragile come il v.</e
+m>è di v.</e
+m>palazzo di v.</e
+m>di vetro</e
+m>occhi di v.</e
+m>un&rsquo;aria chiara d&rsquo;inverno</e
+m>un cielo di v. azzurro pallido</e
+m>v. artistici</e
+m>i v. di Murano</e
+m>imballare i v.</e
+m>un rumore di v. infranti</e
+m>c&rsquo;erano dei v. in terra</e
+m>tagliarsi</e
+m>ferirsi con un v.</e
+m>s&rsquo;è rotto un v. della finestra</e
+m>aprire</e
+m>chiudere i v.</e
+m>credenza a vetri</e
+m>il v. dell&rsquo;orologio</e
+m>i v. degli occhiali</e
+m>il v. dello specchio</e
+m>Chi non à l&rsquo;auro</e
+m> o &rsquo;l perde</e
+m> Spenga la sete sua con un bel v.</e
+m>stato vetroso</e
+m>V. metallico</e
+m>Vetri di spin</e
+m>primi vicini</e
+m>V. organico</e
+m>sintetico</e
+m>V. vulcanico</e
+m>v. naturali</e
+m>ossidiane</e
+m>V. di Moscovia</e
+m>mica</e

@@ -1,0 +1,51 @@
+redazione.txt
+"capo redazione"
+"redazione"
+"redazione"
+* [[redigere]]
+M>redactus</E
+M>redactio</E
+M>onis</E
+M>di una relazione</E
+M>di un verbale</E
+M>la r</E
+M>dell&#8217;ordine del giorno</E
+M>della mozione di maggioranza</E
+M>è stata molto laboriosa</E
+M>di un proclama</E
+M>di un manifesto artistico</E
+M>stesura</E
+M>compilazione</E
+M>collaborare alla r</E
+M>di un dizionario</E
+M>di un&#8217;enciclopedia</E
+M>alla r</E
+M>di un gruppo di voci</E
+M>di lemmi</E
+M>lavorare</E
+M>attendere alla r</E
+M>di un articolo di fondo</E
+M>di una cronaca teatrale</E
+M>di un servizio scientifico</E
+M>far parte della r</E
+M>di una enciclopedia scientifica</E
+M>di un vocabolario storico della lingua italiana</E
+M>lavorare nella r</E
+M>di un grande quotidiano</E
+M>di una rivista medica</E
+M>la r</E
+M>del giornale</E
+M>radio</E
+M>del telegiornale</E
+M>andare in r</E
+M>uscire dalla r</E
+M>qui è la r</E
+M>la direzione è al piano di sopra</E
+M>romana</E
+M>fra le tre r</E
+M>dei &#171;Ricordi&#187;</E
+M>del Guicciardini esistono notevoli differenze stilistiche</E
+M>uno studio sulle varianti delle tre r</E
+M>dell&#8217;&#171;Arcadia&#187;</E
+M>di Sannazzaro</E
+M>raffronto di due redazioni</E

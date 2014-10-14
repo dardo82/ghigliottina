@@ -1,0 +1,73 @@
+pittura.txt
+"della pittura"
+"per pittura a spruzzo"
+"pittura"
+"pittura"
+"pittura"
+"pittura"
+"pittura"
+"pittura a emulsione"
+"pittura a olio"
+"pittura a pastelli"
+"pittura a secco"
+"pittura acrilica"
+"pittura cinese"
+"pittura con le dita"
+"pittura hard-edge, dai bordi duri netti"
+"pittura per interni"
+"pittura vetraria; vetrocromia"
+"stendere la pittura"
+#* ''[[w
+#* ''la 
+#* ''queste sono delle '''pitture''' [[precolombiane]]''
+#* ''abbiamo dato due [[mani]] di 
+#* ''il [[negoziante]] aveva venduto gli [[ultimi]] [[barattoli]] di 
+* (''opera'') [[quadro]], [[dipinto]], [[tela]], [[affresco]], [[olio]], [[miniatura]]
+* (''descrizione'') [[rappresentazione]]
+* (''vernice'') [[tinta]], [[colore]]
+* (''belletto'') [[trucco]], [[cosmetico]], [[maquillage]]
+* [[pitturare]], [[dipingere]], [[materico]], [[gestuale]]
+* ''[[punto]] 
+*Enciclopedia [http
+M>pict</E
+M>ping</E
+M>pictus</E
+M>su tavola</E
+M>su tela</E
+M>su linoleum</E
+M>su vasi</E
+M>vascolare</E
+M>murale</E
+M>a olio</E
+M>a encausto</E
+M>a fresco</E
+M>a guazzo</E
+M>a acquerello</E
+M>a tempera</E
+M>p. eseguita con tecnica mista</E
+M>esposizione delle p</E
+M>di un artista</E
+M>si tratta di una p. antica</E
+M>è una buona pittura</E
+M>ha un viso che sembra una p.</E
+M>che bel paesaggio! è una pittura.</E
+M>la p. pompeiana</E
+M>la p. senese del sec. 14&#176;</E
+M>la p. del Seicento</E
+M>p. espressionista</E
+M>astratta</E
+M>metafisica</E
+M>P. gestuale</E
+M>del gesto</E
+M>di gesto</E
+M>p. materica</E
+M>p. d&#8217;azione</E
+M>i suoi scritti ci danno una p. viva e fedele dell&#8217;ambiente napoletano</E
+M>commedie che si propongono la p. dei caratteri</E
+M>Agnese ... non gli aveva mai visti que&#8217; luoghi</E
+M>e se n&#8217;era fatta in mente una p. fantastica</E
+M>p. muraria</E
+M>parietale</E
+M>p. del corpo</E
+M>Punto pittura</E
+M>punto raso</E

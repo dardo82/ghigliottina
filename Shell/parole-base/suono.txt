@@ -1,0 +1,179 @@
+suono.txt
+"attenuare un suono"
+"aumento graduale del suono"
+"barriera del suono"
+"cadere originando un suono sordo"
+"che ha un bel suono"
+"diminuzione graduale del suono"
+"emettere suono acuto"
+"emettere un suono"
+"fare un suono metallico"
+"lungo suono"
+"più veloce del suono"
+"riprodurre bene un suono"
+"riproduzione di suono"
+"rompere la barriera del suono"
+"ronzio, suono monotono"
+"segnale con suono di tromba"
+"suono"
+"suono"
+"suono"
+"suono acuto"
+"suono acuto (bip)"
+"suono alto"
+"suono animale"
+"suono armonico"
+"suono armonioso"
+"suono cupo"
+"suono debole"
+"suono della sirena"
+"suono di chiusura"
+"suono di corno"
+"suono di tromba"
+"suono di tromba"
+"suono forte"
+"suono lungo e persistente"
+"suono metallico"
+"suono metallico"
+"suono metallico"
+"suono musicale"
+"suono occlusivo"
+"suono onomatopeico"
+"suono stonato"
+"suono ultrasonico"
+"suono vibrante"
+"velocità del suono"
+* (sostantivo) dal 
+* (verbo) 
+* effetto acustico, [[vibrazione]], [[segnale]]
+*[[rumore]], [[voce]]
+* (sensazione) [[melodia]]
+* (sensazione) [[rumore]]
+* [[ultrasuono]]
+* (sensazione) [[suoneria]]
+M>nus</E
+M>sorgente sonora</E
+M>conduzione ossea</E
+M>onde sonore</E
+M>soglia di udibilità</E
+M>soglia di dolore</E
+M>infrasuoni</E
+M>ultrasuoni</E
+M>Propagazione del s.</E
+M>s. puro</E
+M>s. composto</E
+M>s. armonici</E
+M>s. fondamentale</E
+M>primo armonico</E
+M>pressione del s.</E
+M>pressione sonora</E
+M>velocità del s.</E
+M>Altezza di un s.</E
+M>s. alti</E
+M>acuti</E
+M>s. bassi</E
+M>gravi</E
+M>intensità di un s.</E
+M>s. forti</E
+M>s. intensi</E
+M>s. deboli</E
+M>timbro di un s.</E
+M>s. metallici</E
+M>lignei</E
+M>sonori</E
+M>risonanti</E
+M>muro</E
+M>barriera del s.</E
+M>colonna del s.</E
+M>colonna sonora</E
+M>Registrazione e riproduzione del suono</E
+M>tecnico del s.</E
+M>s. musicali</E
+M>l&#8217;arte</E
+M>la tecnica dei s.</E
+M>nota</E
+M>s. armonici</E
+M>s. flautati</E
+M>note flautate</E
+M>il s. del pianoforte</E
+M>del violino</E
+M>della chitarra</E
+M>il s. dolce dell&#8217;arpa</E
+M>il s. melodioso del flauto</E
+M>il s. grave del violoncello</E
+M>il s. della tromba</E
+M>suoni di tromba</E
+M>il s. delle campane</E
+M>il s. del campanello</E
+M>del clacson</E
+M>della sveglia</E
+M>Viene il vento recando il suon dell&#8217;ora Dalla torre del borgo</E
+M>il s. lacerante</E
+M>assordante delle sirene</E
+M>di canto divenne maestro e di suono</E
+M>e più danze si fecero e sonarono diversi suoni</E
+M>una voce dal s. grave</E
+M>caldo</E
+M>dolce</E
+M>acuto</E
+M>stridulo</E
+M>riconoscere uno dal s. della voce</E
+M>riconoscere il s. della voce</E
+M>ci deve essere qualcuno: ho sentito un s. di voci</E
+M>s. articolato</E
+M>suono</E
+M>fono</E
+M>fonema</E
+M>i s. dell&#8217;italiano</E
+M>del greco</E
+M>i s. nasali del francese</E
+M>i s. fortemente gutturali del neerlandese</E
+M>s. vocalici</E
+M>consonantici</E
+M>gli scilinguati pur cantando mandano fuori i suoni articolati di difficil pronunzia</E
+M>rumore</E
+M>Voci alte e fioche</E
+M> e suon di man con elle</E
+M>parendogli che di quindi venisse il suono dello starnuto</E
+M>di tanto in tanto arrivava suono di acque lontane</E
+M>il s. della risacca</E
+M>delle onde che si frangono sugli scogli</E
+M>del ruscello</E
+M>del vento</E
+M>il s. minaccioso delle cannonate</E
+M>questo vaso di porcellana ha un s. falso</E
+M> deve essere incrinato</E
+M>suoni di percussione</E
+M>s. alto</E
+M>s. chiaro</E
+M>s. polmonare</E
+M>sentendo il s. di quella voce nota</E
+M> si voltò all&#8217;improvviso</E
+M>ebbe un tuffo al cuore</E
+M>la popolazione accorreva richiamata dal s. delle campane a stormo</E
+M>al s. di</E
+M>a suon di</E
+M>ballare al s. di una fisarmonica</E
+M>di un&#8217;orchestrina</E
+M>della musicassetta</E
+M>pattinare a suon di musica</E
+M>marciare a suon di tamburi</E
+M>i bersaglieri sfilarono al s. della fanfara</E
+M>l&#8217;oratore fu accolto a suon di fischi</E
+M>li buttarono fuori a suon di pugni e schiaffi</E
+M>la rivolta fu domata a suon di cannonate</E
+M>un incontro di consonanti</E
+M>di vocali</E
+M>di s. sgradevole</E
+M>una parola</E
+M>un nome di suono</E
+M>dal s. armonioso</E
+M>suggestivo</E
+M>Va in mezzo Argante e parla in cotal suono</E
+M>il s. delle sue parole è amichevole</E
+M> ma il tono è ostile</E
+M>qui puose fine al lagrimabil suono</E
+M>Li accorgimenti e le coperte vie Io seppi tutte</E
+M> e sì menai lor arte</E
+M> Ch&#8217;al fine de la terra il s. uscìe</E
+M>Or dov&#8217;è il suono Di que&#8217; popoli antichi?</E

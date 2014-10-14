@@ -1,0 +1,116 @@
+registro.txt
+"foglio delle presenze, registro delle presenze"
+"imposta di registro"
+"pubblico registro automobilistico"
+"registro"
+"registro"
+"registro"
+"registro"
+"registro"
+"registro azionario"
+"registro azionario"
+"registro carico e scarico"
+"registro clienti"
+"registro clienti albergo"
+"registro contabile"
+"registro dei verbali"
+"registro delle fatture emesse"
+"registro delle imprese"
+"registro delle ricevute"
+"registro linguistico"
+"registro parrocchiale"
+"registro presenze"
+"registro scolastico"
+"ufficio del registro"
+"ufficio del registro"
+"ufficio di registro"
+"un registro della polizia"
+"un registro della polizia"
+#*''il registro elettronico di classe è in vigore, in via sperimentale, nelle scuole italiane, dal settembre 2013''
+*[[registrare]]
+M>regesta</E
+M>orum</E
+M>di carico e scarico di magazzino</E
+M>delle vendite</E
+M>dei pagamenti</E
+M>contabili</E
+M>libri contabili</E
+M>delle lezioni</E
+M>giornale</E
+M>di classe</E
+M>della popolazione</E
+M>di stato civile</E
+M>delle presenze</E
+M>delle firme di presenza</E
+M>delle firme</E
+M>di bordo</E
+M>giornale di boccaporto</E
+M>matricolare</E
+M>delle persone giuridiche</E
+M>delle successioni</E
+M>dei falliti</E
+M>delle tutele</E
+M>immobiliari</E
+M>automobilistico</E
+M>aeronautico italiano</E
+M>nazionale</E
+M>navali</E
+M>r. delle imprese</E
+M>Ufficio del r</E
+M>registro</E
+M>imposte di registro</E
+M>andare all’ufficio del r</E
+M>al r</E
+M>procuratore del r</E
+M>imperiali</E
+M>pontifici</E
+M>comunali</E
+M>podestarili</E
+M>notarili</E
+M>indice</E
+M>repertorio</E
+M>finale</E
+M>generale di un dizionario dei cognomi italiani</E
+M>dei termini di un manuale di elettronica</E
+M>di un meccanismo</E
+M>di una bilancia</E
+M>di un misuratore</E
+M>di un orologio</E
+M>dare il r</E
+M>un po’ di r</E
+M>all’orologio</E
+M>dei fogli di stampa</E
+M>dei clichés</E
+M>mettere a registro</E
+M>di una centrale telefonica</E
+M>aritmetico</E
+M>a scorrimento</E
+M>a traslazione</E
+M>di controllo</E
+M>di soprano</E
+M>di tenore</E
+M>alto</E
+M>medio</E
+M>basso</E
+M>di testa</E
+M>di petto</E
+M>dell’organo</E
+M>registro</E
+M>mutare</E
+M>cambiare registro</E
+M>sbagliare registro</E
+M>ti consiglio di mutare r</E
+M>parlando</E
+M>con me</E
+M>come non gli rispondevo</E
+M>o a monosillabi</E
+M>pensò di aver sbagliato registro</E
+M>di comunicazione</E
+M>di espressione</E
+M>alto</E
+M>elevato</E
+M>teso</E
+M>basso</E
+M>familiare</E
+M>colloquiale</E
+M>regesto</E

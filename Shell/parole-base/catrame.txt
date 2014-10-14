@@ -1,0 +1,17 @@
+catrame.txt
+"catrame"
+"catrame di carbon fossile"
+"catrame minerale"
+"catrame ricavato dal pino"
+"macadam al catrame"
+*[[asfalto]], [[bitume]], pece liquida
+M>di litantrace</E
+M>di lignite</E
+M>di scisto</E
+M>di torba</E
+M>vegetale</E
+M>di betulla</E
+M>di conifere</E
+M>di Norvegia</E
+M>di ginepro</E
+M>di latifoglie</E

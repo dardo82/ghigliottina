@@ -1,0 +1,26 @@
+contestazione.txt
+"contestazione"
+"contestazione"
+"contestazione disciplinare"
+"contestazione studentesca"
+"in contestazione, in lite"
+"lettera di contestazione"
+*[[obiezione]], [[confutazione]], [[rifiuto]]
+*(giovanile, studentesca, politica)
+*''(di un fatto, di una prova)'' [[impugnazione]]
+*[[contestazione mirata]]
+M>contestatio</E
+M>onis</E
+M>del reato</E
+M>dell’accusa</E
+M>porre in c</E
+M>un diritto</E
+M>c’è c</E
+M>sull’attribuzione dell’eredità</E
+M>azione di c</E
+M>di stato</E
+M>giorni di c</E
+M>cavilling days</E
+M>giovanile</E
+M>studentesca</E
+M>globale del sistema</E

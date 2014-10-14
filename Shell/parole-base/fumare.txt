@@ -1,0 +1,53 @@
+fumare.txt
+"è vietato fumare"
+"fumare"
+"fumare"
+"fumare accanitamente"
+"fumare tabacco"
+#*''fumare la sigaretta elettronica''
+#*''si vede spesso '''fumare''' il vulcano Etna'' 
+*[[fumaiolo]], [[fumante]], [[fumario]], [[fumarsela]], [[fumata]], [[fumatore]], [[fumigare]], [[fumo]], [[fumoir]]
+M>mare</E
+M>avere</E
+M>i camini fumano</E
+M>le rovine fumavano ancora per l’incendio recente</E
+M>legna che fuma al fuoco perché troppo fresca</E
+M>gli altari fumavano d’incensi</E
+M>la solfatara fumava</E
+M>la minestra fuma nella zuppiera</E
+M>oggi gli fuma</E
+M>gli fuma il naso</E
+M>gli fumano</E
+M>i coglioni</E
+M>mi fuma la testa</E
+M>quando la testa mi fumava</E
+M>chiudevo la biblioteca</E
+M>Vedea per l’ampia oscurità</E
+M>Fumar le pire igneo vapor</E
+M>l’amor del gusto</E
+M>Nel petto lor troppo disir non fuma</E
+M>una sigaretta</E
+M>un sigaro</E
+M>come un turco</E
+M>è vietato f.</E
+M>fumo solo la pipa</E
+M>poco</E
+M>assai</E
+M>ho smesso di f</E
+M>grazie</E
+M>non fumo!</E
+M>l’oppio</E
+M>l’hascisc</E
+M>la marijuana</E
+M>ha preso il vizio di fumare</E
+M>fumo</E
+M>Fumarsela</E
+M>io me la fumo</E
+M>se l’è fumata</E
+M>fumante</E
+M>gabella del fumo</E
+M>dei fumi</E
+M>focatico</E
+M>macerie fumanti</E
+M>minestra calda fumante</E
+M>ceneri fumanti</E

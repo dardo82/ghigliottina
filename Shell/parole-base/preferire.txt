@@ -1,0 +1,32 @@
+preferire.txt
+"preferire"
+"preferire a"
+"preferire non sapere"
+"preferire qc a qc"
+*[[prediligere]], [[eleggere]], [[favorire]], dare la preferenza, [[scegliere]], [[prescegliere]], [[privilegiare]], [[anteporre]], [[agevolare]], [[selezionare]], [[optare]]
+*[[scartare]], [[disprezzare]]
+*[[preferenza]], [[preferibile]], [[preferimento]], [[preferito]], [[preferitore]]
+M>praeferre</E
+M>prae</E
+M>ferre</E
+M>io preferisco</E
+M>tu preferisci</E
+M>l&#8217;estate all&#8217;inverno</E
+M>la prosa alla poesia</E
+M>preferisco in genere il vino rosso</E
+M>nel concorso gli fu preferito un candidato con più titoli</E
+M>preferisco la sconfitta che scendere a compromessi</E
+M>preferì la morte al tradimento</E
+M>preferisco di solito passare l&#8217;estate in città</E
+M>preferì non rispondere</E
+M>di non rispondere</E
+M>preferirei che voi rimaneste con me</E
+M>preferisco che tu non gli risponda</E
+M>lo sport</E
+M>il passatempo p</E
+M>le mie letture p</E
+M>prediletto</E
+M>il nipote p</E
+M>il p</E
+M>tra i miei allievi</E
+M>preferiti</E

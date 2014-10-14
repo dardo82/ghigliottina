@@ -1,0 +1,43 @@
+volare.txt
+"andare in aereo; volare"
+"entrare, volare dentro"
+"far volare gli aquiloni"
+"far volare un aquilone; sondare l'opinione pubblica"
+"non si sente volare una mosca"
+"paura di volare"
+"uccello incapace di volare"
+"volare"
+"volare"
+"volare"
+"volare"
+"volare"
+"volare a"
+"volare a bassa quota sull'acqua"
+"volare a bassa quota; guidare velocemente"
+"volare ad alta quota; mirare alto; essere ambizioso"
+"volare basso"
+"volare con le proprie ali"
+"volare di bocca in bocca"
+"volare giù"
+"volare in alto"
+"volare in uno stormo"
+"volare senza motore"
+"volare via"
+"volare via"
+"volare via"
+"volare via, fuggire, scappare"
+#*''la rondine sa volare'' 
+*''(uccello)'' dal 
+*(nel tempo, con la memoria) [[riandare]], [[ritornare]] 
+*(di animali alati) [[svolazzare]], [[volteggiare]], [[librarsi]]
+*(di aliante) [[veleggiare]]
+*(iperbole) [[correre]], [[sfrecciare]], [[precipitarsi]], [[piombare]]; [[filare]]
+*(con la mente, con la fantasia) [[spaziare]], [[vagare]], [[vagabondare]], [[fantasticare]]
+*(di notizie) [[diffondersi]], [[propagarsi]], [[spargersi]] 
+*''(di uccelli, insetti)'' librarsi (in aria), [[aleggiare]]
+*''(intorno a qualcosa)'' [[volitare]]
+*''(di un oggetto in aria)'' [[sollevarsi]], [[alzarsi]], [[innalzarsi]], [[salire]]
+*''(dall’alto, per le scale)'' [[cascare]], [[precipitare]], [[piombare]], [[rovinare]]; [[ruzzolare]]
+*(di animali alati) [[scendere]], [[posarsi]]
+*''(di un oggetto in aria)''  [[discendere]], [[abbassarsi]], [[calare]] 
+*[[sorvolare]],[[involare]]

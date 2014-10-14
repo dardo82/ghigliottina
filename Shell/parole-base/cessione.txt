@@ -1,0 +1,14 @@
+cessione.txt
+"cessione"
+"cessione del quinto"
+"cessione di beni"
+"cessione di crediti"
+"cessione immobiliare"
+M>cessio</E
+M>onis</E
+M>ced</E
+M>dei beni ai creditori</E
+M>del contratto</E
+M>del credito</E
+M>del quinto</E
+M>territoriale</E

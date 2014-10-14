@@ -1,0 +1,17 @@
+soggiungere.txt
+"Traduzione di soggiungere/ non trovata.\nNo translation was found for soggiungere/."
+#*''Luigi '''soggiunse'''
+#*''-Lo farò solo se necessario!- soggiunse Luigi''; 
+#*''Luigi '''soggiunse che''' lo avrebbe fatto solo se fosse stato necessario''
+M>subiung</E
+M>sub</E
+M>iung</E
+M>giungere</E
+M>soggiunse ancora alcune parole e se ne andò</E
+M>gli dissi che non ne sapevo nulla e soggiunsi che non volevo neppure parlarne</E
+M>ti raccomando</E
+M> soggiunse</E
+M> di non dirlo a nessuno</E
+M>nello stesso modo</E
+M> soggiunse</E
+M> dovete fare anche voi</E

@@ -1,0 +1,96 @@
+aspettare.txt
+"aspettare"
+"aspettare"
+"aspettare, replace: aspettarsi"
+"aspettare, replace: aspettarsela"
+"aspettare a braccia aperte"
+"aspettare a lungo"
+"aspettare attento"
+"aspettare che si calmino le acque"
+"aspettare con calma"
+"aspettare in agguato"
+"aspettare per un lungo periodo"
+"aspettare qualcosa con calma"
+"aspettare qualcuno alzati"
+"aspettare un figlio"
+"aspettare un momento"
+"aspettare un secondo"
+"aspettare, aspettare, replace: aspettare, aspettarsi"
+"aspettare, attendere"
+"aspettare; fermarsi; stare attaccato; stare in attesa"
+"ciondolare; bighellonare; trattenersi; aspettare"
+"ciondolare; bighellonare; trattenersi; aspettare"
+"non poter quasi aspettare"
+#*''Non '''aspettare''' la vecchiaia
+#*''Dai, '''aspetta'''mi!''
+*[[attendere]], rimanere in attesa
+*''(di cena, pranzo, situazione)'' essere pronto, essere preparato
+*[[fermarsi]], prendere tempo, [[indugiare]], [[rimandare]], [[rinviare]], [[temporeggiare]], [[differire]], [[procrastinare]]
+*  [[prevedere]], [[presentire]], [[immaginare]]
+*[[andarsene]], [[muoversi]], [[affrettarsi]]
+*[[aspettabile]]
+*[[andarsene]], [[sbrigarsi]], [[affrettarsi]]
+*italiano
+M>exsp</E
+M>ctare</E
+M>asp</E
+M>ctare</E
+M>io aspètto</E
+M>un amico</E
+M>il ritorno dei genitori</E
+M>una lettera</E
+M>una chiamata al telefono</E
+M>l’occasione propizia</E
+M>tranquillamente il treno</E
+M>l’aspettava alla finestra</E
+M>t’ho aspettato fino a mezzanotte</E
+M>che</E
+M>aspetto di conoscere l’esito</E
+M>aspetta a dirlo</E
+M>aspettavo che desse sue notizie</E
+M>farsi a</E
+M>quanto si fa a</E
+M>il direttore</E
+M>oggi!</E
+M>oggi il treno si fa a</E
+M>i guai</E
+M>le disgrazie non si fanno a</E
+M>chi ha tempo non aspetti tempo</E
+M>il Messia</E
+M>la Provvidenza</E
+M>ho aspettato invano il suo ritorno</E
+M>quanto tempo abbiamo aspettato questo giorno!</E
+M>una ricompensa</E
+M>una parola di riconoscenza</E
+M>una notizia</E
+M>aspetto che smetta di piovere per uscire</E
+M>l’autobus</E
+M>l’aspettarono dietro il muro e quando lo videro gli saltarono addosso</E
+M>di’ all’autista che aspetti</E
+M>aspetta!</E
+M>Quivi di riposar l’affanno aspetta</E
+M>aspetta a giudicare</E
+M>a decidere</E
+M>la morte non aspetta</E
+M>che cosa aspetti?</E
+M>sua moglie aspetta un bambino</E
+M>gente a cena</E
+M>un’eredità</E
+M>non s’immagina quello che l’aspetta</E
+M>Donne</E
+M>da voi non poco La patria aspetta</E
+M>tutti s’aspettavano una gratifica per Ferragosto</E
+M>si aspettava una lode ed ebbe invece un rimprovero</E
+M>non mi aspettavo un’accoglienza così affettuosa</E
+M>mi aspetto che tu vinca</E
+M>si aspettava una crisi di panico da quando aveva deciso una volta per tutte di andare in pensione</E
+M>sono cose che càpitano quando nessuno se l’aspetta</E
+M>da un tipo come lui c’è da aspettarsi di tutto</E
+M>non c’è da aspettarsi nulla di buono</E
+M>me l’aspettavo</E
+M> purtroppo</E
+M>questo</E
+M>da lui</E
+M>non me lo sarei mai aspettato!</E
+M>c’era da aspettarselo!</E
+M>chi la fa l’aspetti</E

@@ -1,0 +1,292 @@
+piede.txt
+"acre-foot, acro-piede"
+"Alzarsi col piede sbagliato"
+"anello da piede"
+"Avere il piede in due staffe"
+"avere un piede nella fossa"
+"collo del piede"
+"cominciare col piede sbagliato"
+"con un piede nella fossa"
+"da mezzo piede (misura)"
+"del piede sbagliato"
+"essere a piede libero"
+"inciampare su, sbattere il piede contro"
+"lunghezza del piede"
+"mettere piede"
+"mignolo del piede"
+"palla al piede"
+"palla incollata al piede"
+"passare da un piede all'altro"
+"pestare, spingere il piede su"
+"pianta del piede"
+"piede"
+"piede"
+"piede"
+"piede cadente"
+"piede cavo"
+"piede cubico"
+"piede d'appoggio"
+"piede d'atleta"
+"piede di guerra"
+"piede di porco"
+"piede equino"
+"piede equino"
+"piede equino"
+"piede piatto"
+"piede quadrato (unità di superficie)"
+"piede sbagliato"
+"piede sinistro"
+"piede-libbra, piedi-libbre (abbr.)"
+"prendere in contro piede"
+"prendere piede"
+"scendere da, togliere il piede da"
+"sul piede di guerra"
+"tenere il piede in due staffe"
+"tenere un piede in due scarpe"
+"unghia del piede"
+*[[pied-noir]], [[tirapiedi]]
+M>pes p</E
+M>dis</E
+M>autopodio</E
+M>tarso</E
+M>basipodio</E
+M>metatarso</E
+M>metapodio</E
+M>dita</E
+M>acropodio</E
+M>il p</E
+M>destro</E
+M>il p</E
+M>sinistro</E
+M>piccoli</E
+M>sottili</E
+M>grossi</E
+M>le dita del p</E
+M>nudi</E
+M>scalzi</E
+M>il collo del p</E
+M>Lavanda dei p</E
+M>bacio del p</E
+M>piede d’atleta</E
+M>cavo</E
+M>ciondolante</E
+M>equino</E
+M>di cavallo</E
+M>del Madagascar</E
+M>di Shanghai</E
+M>di Singapore</E
+M>d’atleta</E
+M>di Madura</E
+M>maduromicosi</E
+M>piatto</E
+M>piatti</E
+M>dolci</E
+M>talo</E
+M>torto</E
+M>valgo</E
+M>varo</E
+M>deformazione dei p</E
+M>gnatopodio</E
+M>massillipede</E
+M>mascellare</E
+M>olio di piedi</E
+M>andare</E
+M>camminare</E
+M>in punta di piedi</E
+M>andarsene in punta di piedi</E
+M>mettere piede in un luogo</E
+M>non ci ho mai messo p</E
+M>non sapere dove mettere i p</E
+M>mettere un p</E
+M>innanzi all’altro</E
+M>mettere qualcosa tra i p</E
+M>a uno</E
+M>mettere un p</E
+M>in fallo</E
+M>non muovere p</E
+M>da quando mi hai lasciato non ho mosso p</E
+M>dalla stanza</E
+M>puntare i p</E
+M>pestare</E
+M>battere</E
+M>i p</E
+M>pestare i p</E
+M>i calli</E
+M>a qualcuno</E
+M>non lasciarsi pestare i p</E
+M>da nessuno</E
+M>essere</E
+M>stare sempre tra i p</E
+M>levarsi</E
+M>togliersi qualcuno dai p</E
+M>togliti dai p</E
+M>fallo di piede</E
+M>andare con i proprî p</E
+M>andare</E
+M>camminare con le ali ai p</E
+M>andare</E
+M>camminare con i p</E
+M>di piombo</E
+M>non riuscire a cavare i p</E
+M>da qualche cosa</E
+M>darsi la zappa sui p</E
+M>tenere il p</E
+M>in due staffe</E
+M>tenere due piedi in una staffa</E
+M>tenere un p</E
+M>in due scarpe</E
+M>due p</E
+M>in una scarpa</E
+M>mettere i p</E
+M>sul collo a uno</E
+M>mettersi qualcuno sotto i p</E
+M>partire col p</E
+M>sbagliato</E
+M>prendere piede</E
+M>è una moda che sta prendendo p</E
+M>prendere p</E
+M>sentirsi mancare la terra sotto i p</E
+M>essere con un p</E
+M>nella fossa</E
+M>essere su un p</E
+M>di parità</E
+M>essere sul p</E
+M>di guerra</E
+M>politica del p</E
+M>di casa</E
+M>mano</E
+M>arrampicarsi con le mani e coi p</E
+M>con le mani e con i p</E
+M>arrampicarsi</E
+M>aiutarsi con le mani e con i p</E
+M>darsi a qualcuno mani e piedi</E
+M>capo</E
+M>da capo a piedi</E
+M>bagnato</E
+M>sporco da capo a p</E
+M>si è presentata vestita di nero da capo a piedi</E
+M>testa</E
+M>cervello</E
+M>fatto coi p</E
+M>questo lavoro è fatto coi p</E
+M>è un articolo scritto coi piedi</E
+M>A piedi</E
+M>andare a p</E
+M>fare un pezzo di strada a p</E
+M>restare a piedi</E
+M>mettere a piedi</E
+M>E perch’io sappia chi m’ha messo a piedi</E
+M>Fa che per nome io lo conosca ancora</E
+M>messo a piedi</E
+M>appiedato</E
+M>cavalleria a piedi</E
+M>a p</E
+M>scalzi</E
+M>a p</E
+M>asciutti</E
+M>a p</E
+M>pari</E
+M>a p</E
+M>giunti</E
+M>saltare a piedi pari</E
+M>a piè pari</E
+M>A p</E
+M>libero</E
+M>a p</E
+M>fermo</E
+M>a piè fermo</E
+M>Ai piedi</E
+M>gettarsi ai p</E
+M>di qualcuno</E
+M>vuole vedere tutti ai suoi p</E
+M>ai p</E
+M>del monte</E
+M>del colle</E
+M>a piè</E
+M>appiè</E
+M>del monte</E
+M>del colle</E
+M>Da piedi</E
+M>per questa notte possiamo far dormire il bambino da piedi</E
+M>dappiè</E
+M>partenza</E
+M>da p</E
+M>fermo</E
+M>In piedi</E
+M>alzarsi</E
+M>essere</E
+M>stare in piedi</E
+M>non mi reggo in piedi dal sonno</E
+M>dalla stanchezza</E
+M>in piedi!</E
+M>mettere in piedi</E
+M>hanno messo in p</E
+M>un nuovo spettacolo di danza</E
+M>tenere in p</E
+M>stanno facendo un ultimo tentativo per tenere in p</E
+M>il loro matrimonio</E
+M>un discorso</E
+M>un ragionamento</E
+M>una giustificazione che non si regge in piedi</E
+M>cadere in piedi</E
+M>sia ringraziato Iddio</E
+M>posso proprio dire d’esser caduta in piedi</E
+M>Su due piedi</E
+M>messo alle strette</E
+M>lì su due p</E
+M>non sapevo che cosa rispondere</E
+M>lo voleva licenziare su due p</E
+M>trovare su due p</E
+M>una soluzione</E
+M>un rimedio</E
+M>gambe</E
+M>i p</E
+M>del divano</E
+M>del comò</E
+M>della libreria</E
+M>la statua poggia su un p</E
+M>di travertino</E
+M>di una galleria</E
+M>suola</E
+M>della ruota di prua</E
+M>dell’albero</E
+M>dell’arpa</E
+M>della canna da pesca</E
+M>del peduncolo cerebrale</E
+M>di una pianta</E
+M>il p</E
+M>gambo</E
+M>dei funghi</E
+M>un p</E
+M>di lattuga</E
+M>un p</E
+M>d’insalata</E
+M>cespo</E
+M>prendere p</E
+M>mal del piede</E
+M>taglio di piede</E
+M>piede</E
+M>romano</E
+M>pes</E
+M>foot</E
+M>feet</E
+M>cubo</E
+M>quadrato</E
+M>arsi</E
+M>tesi</E
+M>di pollo</E
+M>di colombo</E
+M>piedepalumbo</E
+M>piedirosso</E
+M>di corvo</E
+M>corvino</E
+M>canterella</E
+M>Coronilla scorpioides</E
+M>di gatto</E
+M>Antennaria dioica</E
+M>di mosca</E
+M>sporco</E
+M>piè di mosca</E
+M>piè sporco</E
+M>piede di cotta</E
+M>piede</E

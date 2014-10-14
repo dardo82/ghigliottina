@@ -1,0 +1,192 @@
+brutto.txt
+"a brutto muso"
+"avere un brutto effetto su qcn"
+"brutto"
+"brutto"
+"brutto"
+"brutto"
+"brutto"
+"brutto"
+"brutto"
+"brutto tempo"
+"brutto carattere"
+"brutto caso"
+"brutto caso di"
+"brutto lavoro"
+"brutto momento"
+"brutto periodo, periodo difficile"
+"brutto presentimento su"
+"brutto scherzo"
+"brutto tempo"
+"brutto tempo"
+"brutto vizio"
+"con un brutto carattere"
+"dal brutto aspetto, dall'aspetto sgradevole"
+"di brutto"
+"far vedere i sorci verdi a qcn; far passare un brutto quarto d'ora a qcn."
+"farti passare un brutto momento"
+"giocare un brutto tiro"
+"giocare un brutto tiro a qn"
+"il brutto anatroccolo"
+"molto brutto"
+"passare un brutto momento"
+"passare un brutto quarto d'ora"
+"persona di valore ma di brutto carattere"
+"quel brutto ceffo di"
+"spacca di brutto!"
+"sto attraversando un brutto periodo"
+"vivere un periodo difficile, essere in un brutto momento"
+*[[malfatto]] 
+*[[bello]], [[gradevole]]
+*[[bruttare]], [[bruttamente]], [[bruttissimo]], [[bruttezza]]
+M>brutus</E
+M>bello</E
+M>un uomo b</E
+M>una donna b</E
+M>di viso</E
+M>di corpo</E
+M>d’aspetto</E
+M>lineamenti</E
+M>carnagione</E
+M>denti</E
+M>mani</E
+M>gambe</E
+M>un b</E
+M>uccellaccio</E
+M>una casa b</E
+M>un b</E
+M>colore</E
+M>una b</E
+M>cravatta</E
+M>che b</E
+M>spettacolo!</E
+M>come il demonio</E
+M>come il peccato</E
+M>come la fame</E
+M>come la morte</E
+M>voce</E
+M>suono</E
+M>questa moneta ha un b</E
+M>suono</E
+M>un b</E
+M>quadro</E
+M>musica</E
+M>bruttissimi versi</E
+M>muso</E
+M>a b</E
+M>muso</E
+M>cera</E
+M>farsi b</E
+M>fare il viso b</E
+M>quando gli dissi di no</E
+M>si fece b</E
+M>rimanere b</E
+M>appena conobbe l’esito</E
+M>rimase brutto</E
+M>brutto!</E
+M>copia</E
+M>ho appena terminato di scrivere in b</E
+M>copia</E
+M>la brutta</E
+M>scrivere in b</E
+M>conservare la b</E
+M>consegnare la b</E
+M>del compito</E
+M>quaderno di brutta</E
+M>per la brutta</E
+M>cattivo</E
+M>avere una b</E
+M>fama</E
+M>farsi un b</E
+M>nome</E
+M>ottenere un b</E
+M>voto</E
+M>giocare un b</E
+M>scherzo</E
+M>essere in un b</E
+M>impiccio</E
+M>è un gran b</E
+M>affare</E
+M>fare una b</E
+M>figura</E
+M>ricevere una b</E
+M>notizia</E
+M>passare b</E
+M>giorni</E
+M>momenti</E
+M>passare un b</E
+M>quarto d’ora</E
+M>giungere in un b</E
+M>momento</E
+M>è un b</E
+M>male</E
+M>un b</E
+M>male</E
+M>ha un b</E
+M>male</E
+M>è stato operato</E
+M>è morto</E
+M>di un b</E
+M>male</E
+M>segno</E
+M>avere un b</E
+M>presentimento</E
+M>fare un b</E
+M>sogno</E
+M>avere b</E
+M>carte</E
+M>fare un b</E
+M>viaggio</E
+M>con b</E
+M>maniere</E
+M>accoglienza</E
+M>avere una b</E
+M>pronuncia</E
+M>è stata una b</E
+M>giornata</E
+M>nella b</E
+M>stagione</E
+M>mare</E
+M>commettere una b</E
+M>azione; avere b</E
+M>abitudini</E
+M>dire b</E
+M>parole</E
+M>molto b</E
+M>ciò che hai fatto</E
+M>Ma tu chi se’</E
+M> che sì se’ fatto b</E
+M>come porco</E
+M>di loto e di guazzo Tutto era b</E
+M>peso b</E
+M>peso netto</E
+M>imbroglione</E
+M>ignorante</E
+M>villano</E
+M>bestia</E
+M>porco</E
+M>cattivo</E
+M>scimmiotto!</E
+M>il tempo volge</E
+M>si mette al b</E
+M>bello</E
+M>il b</E
+M>nell’arte</E
+M>vederne</E
+M>sentirne delle b</E
+M>con le b</E
+M>venire alle b</E
+M>alle b</E
+M>alle b</E
+M>ci difenderemo con ogni mezzo</E
+M>vedersela b</E
+M>farla b</E
+M>a qualcuno</E
+M>guardare brutto</E
+M>di brutto</E
+M>lo apostrofò</E
+M>lo affrontò di brutto</E
+M>ex abrupto</E
+M>brutterèllo</E
+M>a ogni scossa</E
+M>si vedevan que’ mucchi funesti tremolare e scompaginarsi bruttamente</E

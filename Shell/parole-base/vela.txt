@@ -1,0 +1,124 @@
+vela.txt
+"a vela"
+"a vela"
+"andare a vela"
+"barca a vela"
+"far vela"
+"tavola a vela"
+"vela"
+"vela"
+"imbarcazione a vela"
+"vela"
+"vela pubblicitaria"
+*(di imbarcazione) [[velatura]]
+* (nave) [[imbarcazione]]
+* (sport) [[velismo]]
+* (architettura) [[unghia]]
+*[[velico]], [[veliera]], [[veliero]]
+* ''a 
+* ''a '''vele''' spiegate'' oppure ''a gonfie '''vele'''''
+* ''[[volo]] a 
+* ''avere poca 
+* ''alzare, aprire, sciogliere, spiegare le '''vele''''' [[cimentarsi]] con [[slancio]] in un'[[impresa]]
+* ''ammainare, calare, mollare, raccogliere le '''vele'''''
+* ''far 
+* ''far [[forza]] di '''vele''' e di [[remi]]''
+*'''veglia'''
+*'''vela'''
+M>lum</E
+M>ferzi</E
+M>v. quadre</E
+M>v. triangolari</E
+M>latine</E
+M>v. auriche</E
+M>vele di taglio</E
+M>rande</E
+M>fiocchi</E
+M>v. maestra</E
+M>di mezzana</E
+M>v. di gabbia</E
+M>gabbia alta</E
+M>gabbia bassa</E
+M>v. Marconi</E
+M>alla bermudiana</E
+M>v. al terzo</E
+M>al quarto</E
+M>vele di cappa</E
+M>di fortuna</E
+M>vele di fortuna</E
+M>v. volante</E
+M>mezza vela</E
+M>gioco di vele</E
+M>v. di rispetto</E
+M>forza di vele</E
+M>sciogliere</E
+M>spiegare</E
+M>alzare</E
+M>aprire le v.</E
+M>calare</E
+M>raccogliere</E
+M>ammainare</E
+M>mollare le v.</E
+M>in quella parte Di mia etade ove ciascun dovrebbe Calar le v. e raccoglier le sarte</E
+M>se col fuoco infernale e crudele Ci struggi</E
+M> a me bisogna acconsentirti</E
+M> Calar le sarte e raccoglier le vele</E
+M>far vela</E
+M>dare la v. al vento</E
+M>ai venti</E
+M>i marinari</E
+M> come videro il tempo ben disposto</E
+M> diedero le vele a’ venti e del porto d’Allessandria si partirono</E
+M>far vela per</E
+M>drizzare le v. verso un luogo</E
+M>far vela</E
+M>andare</E
+M>avanzare</E
+M>navigare a gonfie v.</E
+M>a piene v.</E
+M>a piena v.</E
+M>a v. piena</E
+M>A piena v. si cacciaron lunge Da la crudele e sanguinosa spiaggia</E
+M>procedere</E
+M>andare a gonfie v.</E
+M>gli affari gli vanno a gonfie v.</E
+M>tutto procede a gonfie v.</E
+M> fino a questo momento</E
+M>inferire</E
+M>bordare</E
+M>imbrogliare</E
+M>serrare le v.</E
+M>guarnire le v.</E
+M>tesare una v.</E
+M>barca</E
+M>imbarcazione</E
+M>nave</E
+M>bastimento a vela</E
+M>barca a remi</E
+M>a motore</E
+M>nave a vapore</E
+M>andare a vela</E
+M>navigare alla v.</E
+M>essere alla v.</E
+M>navigare sotto vela</E
+M>sport della v.</E
+M>vela</E
+M>amare</E
+M>fare la v.</E
+M>gara</E
+M>campione di vela</E
+M>il Turco sollicitava l’armata</E
+M> che saria di 150 vele</E
+M>Volo a vela</E
+M>veleggiato</E
+M>Auto a vela</E
+M>V. solare</E
+M>Volta a vela</E
+M>vele</E
+M>Muro a vela</E
+M>campanile a v.</E
+M>a ventola</E
+M>Vela</E
+M>Carena</E
+M>Poppa</E
+M>Bussola</E

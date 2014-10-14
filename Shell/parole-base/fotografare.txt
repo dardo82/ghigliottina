@@ -1,0 +1,16 @@
+fotografare.txt
+"fotografare"
+"fotografare"
+#*''l'ho visto fotografare un bel fiore''
+#*dovette ''' fotograre''' con chiarezza il problema''
+*[[foto-]], [[foto]],[[fotografo]], [[fotografia]], [[fotografico]]
+M>io fotògrafo</E
+M>una persona</E
+M>un quadro</E
+M>un paesaggio</E
+M>un panorama</E
+M>si fece f</E
+M>in più pose</E
+M>una situazione</E
+M>con poche parole</E
+M>hai fotografato il suo carattere</E

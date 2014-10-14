@@ -1,0 +1,69 @@
+super.txt
+"fare una super offerta"
+"fare una super offerta"
+"super"
+"super, wonderful, marvellous, top quality, excellent"
+"super"
+"super attivo"
+"super fiducia"
+"super offerta"
+"super recitazione"
+"super valutazione"
+*[[super-]]
+#*'''''Super'''!!''
+#*''That's no gun. It's a '''super''' gun!!''
+*italiano
+*inglese
+*latino
+M>super-</E
+M>super</E
+M>superficie</E
+M>superfluo</E
+M>superlativo</E
+M>superstite</E
+M>superstizione</E
+M>superumerale</E
+M>sopra-</E
+M>sovra-</E
+M>sopravvivere</E
+M>superviv</E
+M>sovrabbondare</E
+M>superabundare</E
+M>sopra-</E
+M>sovra-</E
+M>supernazionale</E
+M>soprannazionale</E
+M>iper-</E
+M>superalimentazione</E
+M>iperalimentazione</E
+M>super-</E
+M>superglottico</E
+M>superumerale</E
+M>superfinitura</E
+M>superstrato</E
+M>superinfezione</E
+M>supererogazione</E
+M>superfecondazione</E
+M>superfetazione</E
+M>superalimentazione</E
+M>superallenamento</E
+M>superalcolico</E
+M>supersonico</E
+M>supernazionale</E
+M>superpartìtico</E
+M>supervisione</E
+M>superarbitro</E
+M>superuomo</E
+M>superfamiglia</E
+M>supercarburante</E
+M>supercinema</E
+M>superfortezze volanti</E
+M>supertransatlantico</E
+M>supergigante</E
+M>supermercato</E
+M>superbianco</E
+M>superdissetante</E
+M>supercolosso</E
+M>Supercarni</E
+M>Supertenda</E
+M>Superottica</E

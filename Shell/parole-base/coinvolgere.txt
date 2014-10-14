@@ -1,0 +1,21 @@
+coinvolgere.txt
+"coinvolgere"
+"coinvolgere"
+"coinvolgere in"
+"farsi coinvolgere emotivamente in una situazione"
+"farsi coinvolgere, farsi trasportare"
+"immischiare, coinvolgere"
+"implicare, coinvolgere"
+"mettersi con; farsi coinvolgere con; intromettersi; essere ammesso in"
+"mettersi con; farsi coinvolgere con; intromettersi; essere ammesso in"
+*[[ chiamare in causa]],  [[compromettere]]
+*[[coinvolgimento]]
+M>involgere</E
+M>volgere</E
+M>altri</E
+M>essere</E
+M>trovarsi coinvolto</E
+M>in uno scandalo</E
+M>essere coinvolto</E
+M>in un’azione di protesta</E
+M>bisogna c. tuo fratello nell’organizzazione della festa</E

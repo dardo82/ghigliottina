@@ -1,0 +1,317 @@
+giro.txt
+"a giro di posta"
+"a strettissimo giro di posta"
+"andare a fare un giro in bicicletta o in moto"
+"andare a fare un giro in macchina"
+"andare in giro"
+"andare in giro"
+"andare in giro"
+"aver fatto il giro completo"
+"con un giro di parole"
+"dare un'attenta occhiata in giro"
+"fare il giro"
+"fare il giro"
+"fare il giro dei negozi"
+"fare il giro delle sette chiese"
+"fare un giro"
+"fare un giro su"
+"fare un giro su se stessi"
+"fuori dal giro che conta, fuori dal giro"
+"già in giro"
+"giro"
+"giro"
+"giro"
+"giro"
+"giro"
+"giro"
+"giro"
+"giro"
+"giro"
+"giro (di accordi)"
+"giro armonico"
+"giro attorno"
+"giro circolare"
+"giro d'onore"
+"giro della morte"
+"giro di (birra, vino, ecc.)"
+"giro di basso"
+"giro di boa"
+"giro di danza"
+"giro di parole"
+"giro di ricognizione"
+"giro di tavolo"
+"giro di vento"
+"giro di vite"
+"giro giro tondo"
+"giro gratis"
+"giro grosso"
+"giro in auto rubata"
+"giro in macchina"
+"giro in macchina"
+"giro panoramico"
+"giro posta"
+"giro secco"
+"giro veloce"
+"giro vita"
+"giro vita"
+"guardare in giro"
+"guardare in giro"
+"guardarsi in giro"
+"il giro, il globo"
+"in giro"
+"in giro"
+"in giro per"
+"mettere in giro"
+"nel giro di"
+"ostentare in giro qcs"
+"portare in giro"
+"portarsi in giro"
+"prendere in giro"
+"prendere in giro qcn"
+"prendere in giro qualcuno"
+"prendere qn in giro"
+"prendere qn in giro"
+"prendere qn in giro"
+"prendere qn in giro"
+"presa in giro"
+"presa in giro"
+"primo giro"
+"sentirsi preso in giro"
+"ultimo giro"
+"un giro (in macchina)"
+"vendere in giro"
+"visita completa; giro completo"
+#*''quando entro in casa giro la chiave''
+*[[circonferenza]], [[perimetro]]
+*[[rotazione]]; [[orbita]], [[rivoluzione]], [[circonvoluzione]]; [[giravolta]], [[piroetta]], [[volteggio]], [[voluta]]
+*[[passeggiata]], [[camminata]], [[gita]], [[escursione]], [[scampagnata]], [[viaggio]], senza [[meta]], [[tour]], [[itinerario]], [[percorso]],[[viaggio]]
+*(di tempo) [[intervallo]], [[periodo]], [[arco]], [[spazio]], [[termine]] 
+*[[trafila]], [[iter]]
+*[[mano]], [[turno]], [[giocata]]
+*(di merci, denaro) [[circolazione]], [[traffico]], [[volume]], [[corso]], [[movimento]]
+*[[circolo]],  
+*''(di chiave)'' [[mandata]],[[girata]]  
+*''(attori, cantanti o musicisti)'' [[tournee]] 
+*''(di un'attività)'' [[ambiente]], [[campo]], [[ramo]], [[ambito]],[[settore]] ,[[dominio]] dominio
+*''(del contrabbando'', della droga ecc.) [[racket]]
+*[[rivolgimento]],[[cerchia]] di persone
+*italiano
+M>rus</E
+M>lo spiazzo ha un g</E
+M>di 200 metri</E
+M>il g</E
+M>delle mura</E
+M>il g</E
+M>del cappello</E
+M>cappello stretto di g</E
+M>il g</E
+M>delle maniche</E
+M>giromanica</E
+M>allargare</E
+M>stringere il g</E
+M>delle maniche</E
+M>un g</E
+M>di maglia</E
+M>a giro collo</E
+M>a girocollo</E
+M>maglietta</E
+M>camicia</E
+M>casacca a giro collo</E
+M>maglietta</E
+M>camicia</E
+M>giro collo</E
+M>circonvoluzione cerebrale</E
+M>angolo giro</E
+M>asse g</E
+M>asse girico</E
+M>il g</E
+M>della Terra</E
+M>il g</E
+M>delle lancette di un orologio</E
+M>chiudere con due g</E
+M>dare un doppio g</E
+M>di chiave</E
+M>di vite</E
+M>si preannuncia</E
+M>sarà dato</E
+M>si prospetta un energico g</E
+M>di vite all’imposta sui redditi</E
+M>della morte</E
+M>cerchio della morte</E
+M>giro d’aria</E
+M>chiudi la finestra</E
+M>c’è g</E
+M>d’aria</E
+M>di bussola</E
+M>di bitta</E
+M>di boa</E
+M>motore a elevato numero di giri</E
+M>numero di g.</E
+M>giri</E
+M>aumentare</E
+M>diminuire i g</E
+M>dell’elica</E
+M>disco in vinile a 33</E
+M> a 45 g</E
+M>il motore va su di giri</E
+M>andare</E
+M>essere su di giri</E
+M>il motore va fuori giri</E
+M>essere fuori giri</E
+M>fare un g</E
+M>ha fatto un g</E
+M>su sé stesso</E
+M>fare un mezzo g</E
+M>a destra</E
+M>a sinistra</E
+M>fare un g</E
+M>di valzer</E
+M>fare il g</E
+M>di un luogo</E
+M>fare il g</E
+M>delle mura</E
+M>del caseggiato</E
+M>dell’isola</E
+M>fare il g</E
+M>della terra</E
+M>il g</E
+M>del mondo</E
+M>fare il g</E
+M>del paese</E
+M>del parco</E
+M>dei musei</E
+M>fare il g</E
+M>dei negozî</E
+M>delle agenzie</E
+M>il g</E
+M>dei proprî clienti</E
+M>fare un g</E
+M>d’ispezione</E
+M>organizzare un g</E
+M>turistico della Sardegna</E
+M>un g</E
+M>artistico dei castelli della Loira</E
+M>c’è in programma un g</E
+M>d’istruzione all’estero</E
+M>esco a fare un g</E
+M>per la città</E
+M>fare un g</E
+M>d’orizzonte</E
+M>tour d’horizon</E
+M>fare un g</E
+M>di telefonate</E
+M>donna di giro</E
+M>d’Italia</E
+M>di Francia</E
+M>tour de France</E
+M>il Giro</E
+M>la partenza del G</E
+M>partecipare al G</E
+M>vincere il Giro</E
+M>fare il g</E
+M>della pista</E
+M>fare un g</E
+M>di pista</E
+M>d’onore</E
+M>facciamo un ultimo g</E
+M>e poi si smette</E
+M>la pratica deve fare il suo g</E
+M>mettere</E
+M>essere in giro</E
+M>g. degli affari</E
+M>g. d’affari</E
+M>aumentare il g</E
+M>degli affari</E
+M>giro di cassa</E
+M>partita di giro</E
+M>giro conto</E
+M>bancogiro</E
+M>banco di giro</E
+M>il g</E
+M>dei secoli</E
+M>nel g</E
+M>di pochi anni</E
+M>di alcune settimane</E
+M>di qualche ora</E
+M>gli atti e le sensazioni di coloro</E
+M>raccolte in un g</E
+M>più stretto</E
+M>il g</E
+M>delle colture agrarie</E
+M>ora è il nostro g</E
+M>il g</E
+M>tocca a te</E
+M>ho capito sùbito il loro g</E
+M>sperava di farla franca</E
+M>ma il suo g</E
+M>è stato scoperto</E
+M>giro di amici</E
+M>di conoscenze</E
+M>entrare nel g</E
+M>in un certo g</E
+M>uno che conosci</E
+M>uno del nostro g</E
+M>non mi vogliono nel loro g</E
+M>essere fuori del g</E
+M>il g</E
+M>della droga</E
+M>è uno del g</E
+M>i pezzi grossi del giro</E
+M>Giro del periodo</E
+M>cambiare il g</E
+M>del periodo</E
+M>un g</E
+M>del periodo piuttosto involuto</E
+M>Giro di parole</E
+M>dimmi chiaramente le cose come stanno</E
+M>senza tanti g</E
+M>di parole</E
+M>senza tante storie e senza tanti Giri</E
+M>si può benone in due parole</E
+M>il giro Europa 1965</E
+M>In giro</E
+M>mettersi</E
+M>disporsi</E
+M>sedere in g</E
+M>muovere in g</E
+M>volgere lo sguardo in g</E
+M>Non altrimenti Achille si riscosse</E
+M>Li occhi svegliati rivolgendo in g</E
+M>guardarsi in g</E
+M>cosa si dice in g</E
+M>andare in g</E
+M>sono andato in g</E
+M>per conoscere la città</E
+M>non vorrai andare in g</E
+M>vestito così!</E
+M>mandare</E
+M>condurre</E
+M>portare in g</E
+M>essere in g</E
+M>sono stato in g</E
+M>tutto il pomeriggio</E
+M>sarò tutta la settimana in g</E
+M>per affari</E
+M>è sempre in g</E
+M>per il mondo</E
+M>è sempre in g</E
+M>Mettere in g</E
+M>mettere in g</E
+M>una cambiale</E
+M>mettere in g</E
+M>monete</E
+M>banconote false</E
+M>mettere in g</E
+M>notizie tendenziose</E
+M>prendere in g</E
+M>menare in g</E
+M>Tutt’in giro</E
+M>giro giro</E
+M>una serie di ritratti appesi tutt’in giro alle pareti della sala</E
+M>orlare la gonna giro giro con un nastrino</E
+M>orticello</E
+M>riparato giro giro da stecchi e spuntoni</E
+M>Di giro in giro</E
+M>si van di g</E
+M>in g</E
+M>scoprendo più vere le sue posizioni e vera la sua dottrina</E

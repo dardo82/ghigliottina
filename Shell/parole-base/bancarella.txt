@@ -1,0 +1,19 @@
+bancarella.txt
+"bancarella"
+"bancarella di frutta"
+"bancarella di giornali"
+"bancarella di hamburger"
+"bancarella di hot-dog"
+"bancarella di libri"
+M>banca</E
+M>panca</E
+M>banco</E
+M>le b</E
+M>dei cocomerai</E
+M>una b</E
+M>di libri d’occasione</E
+M>una vecchia stampa acquistata su una b</E
+M>anche qui</E
+M>bancarelle di torrone</E
+M>di trombette</E
+M>di maschere e stelle filanti riempivano le arcate dei portici</E

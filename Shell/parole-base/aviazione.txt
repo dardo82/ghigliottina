@@ -1,0 +1,21 @@
+aviazione.txt
+"aviazione"
+"aviazione commerciale"
+"aviazione generale"
+"aviazione militare"
+"aviazione navale"
+"campo d'aviazione"
+"carburante per aviazione"
+"commodoro dell'aviazione"
+*[[aeronautica]]
+* [[aviatore]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 191
+M>aviation</E
+M>avis</E
+M>storia dell’aviazione</E
+M>l’a</E
+M>ivile</E
+M>l’a</E
+M>italiana</E
+M>l’a</E
+M>nemica</E

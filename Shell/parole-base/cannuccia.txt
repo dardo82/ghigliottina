@@ -1,0 +1,7 @@
+cannuccia.txt
+"cannuccia"
+M>canna</E
+M>per bibite</E
+M>della penna</E
+M>della pipa</E
+M>Phragmites australis</E

@@ -1,0 +1,20 @@
+lattuga.txt
+"lattuga"
+"lattuga iceberg"
+"lattuga in foglie"
+"lattuga romana"
+"lattuga selvatica"
+"panino con bacon lattuga e pomodoro"
+M>lact</E
+M>lac lactis</E
+M>Lactuca serriola</E
+M>Lactuca sativa</E
+M>rossa</E
+M>cappuccina</E
+M>romana</E
+M>crespa</E
+M>marina</E
+M>Ulva lactuca</E
+M>ranina</E
+M>Potamogeton crispus</E
+M>lattugóne</E

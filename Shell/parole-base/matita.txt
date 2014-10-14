@@ -1,0 +1,38 @@
+matita.txt
+"a matita blu"
+"disegno a matita"
+"matita"
+"matita"
+"matita a carboncino"
+"matita blu"
+"matita da disegno"
+"matita di grafite"
+"matita per le labbra"
+"matita per le sopracciglia"
+"scritto con la matita"
+"scritto con la matita"
+"scrivere a matita"
+"segno di matita"
+"tracciato con la matita"
+"tracciato con la matita"
+*[[lapis]] 
+M>amatita</E
+M>ematite</E
+M>mina</E
+M>nera</E
+M>rossa</E
+M>rosso</E
+M>blu</E
+M>copiativa</E
+M>temperare la m</E
+M>scrivere</E
+M>disegnare a m</E
+M>automatiche</E
+M>una celebre m. della letteratura per l’infanzia</E
+M>una mostra di m. avvelenate.</E
+M>morbida</E
+M>dura</E
+M>per gli occhi</E
+M>per le labbra</E
+M>emostatica</E
+M>di allume di rocca</E

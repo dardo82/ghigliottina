@@ -1,0 +1,20 @@
+baule.txt
+"baule"
+"baule"
+"baule"
+*[[cofano]]
+*[[bauletto]], [[baulone]]
+*italiano
+*inglese
+M>baúl</E
+M>bahut</E
+M>baiul</E
+M>fare il b</E
+M>fare i b</E
+M>fare le valigie</E
+M>armadio</E
+M>sarcofago a b</E
+M>viaggiare come un b</E
+M>come i b</E
+M>baule</E
+M>bauletto</E

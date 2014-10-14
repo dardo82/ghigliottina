@@ -1,0 +1,14 @@
+pagliaio.txt
+"Cercare un ago in un pagliaio"
+"pagliaio"
+M>palearium</E
+M>palea</E
+M>stollo</E
+M>dare fuoco al</E
+M>a un</E
+M>diffondere quella notizia è stato come dar fuoco a un p</E
+M>sarebbe come cercare un ago in un p</E
+M>cane da p</E
+M>andarono in su un&#8217;aia</E
+M>dove era un grande p</E
+M>di paglia</E

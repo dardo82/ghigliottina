@@ -1,0 +1,12 @@
+nascondiglio.txt
+"nascondiglio"
+"nascondiglio; rifugio"
+*[[rifugio]]
+*[[segreta]], [[buco]], [[tana]], [[nido]]
+*Devoto/Oli,''Il dizionario dela lingua italiana'' edizione cartacea 2000-2001, Le Monnier, p. 1333
+M>cercare</E
+M>trovare un n</E
+M>acquattarsi</E
+M>rifugiarsi</E
+M>mettersi in un n</E
+M>uscire dai nascondigli</E

@@ -1,0 +1,47 @@
+insulto.txt
+"insulto"
+#*''Dare dell''''idiota''' è un lieve insulto.''
+*[[offesa]], [[ingiuria]], [[oltraggio]], [[affronto]], [[improperio]], [[insolenza]], [[villania]], [[irrisione]], [[contumelia]]
+*  
+*[[lode]], [[apprezzamento]], [[elogio]], [[encomio]]
+*[[salto]]
+*[[salio]]
+*[[exsulto]]
+*italiano
+*latino
+M>insultus</E
+M>insilire</E
+M>insultare</E
+M>insultus</E
+M>saltus</E
+M>salire</E
+M>lanciare</E
+M>scagliare un i</E
+M>recare i</E
+M>a qualcuno</E
+M>fare</E
+M>patire un’i</E
+M>grave</E
+M>vile</E
+M>villano</E
+M>volgare</E
+M>crudele</E
+M>atroce</E
+M>sanguinoso</E
+M>reagire a un i</E
+M>vendicare un i</E
+M>il suo rifiuto è un i</E
+M>per me</E
+M>libro che costituisce un i</E
+M>alla memoria di un eroe</E
+M>un i</E
+M>alla morale</E
+M>il comportamento delle truppe di occupazione era un i</E
+M>alla dignità nazionale</E
+M>Io sentii queste parole come un i.</E
+M> un’offesa diretta a me</E
+M>avere un i</E
+M>di tosse</E
+M>d’asma</E
+M>apoplettico</E
+M>colpo</E

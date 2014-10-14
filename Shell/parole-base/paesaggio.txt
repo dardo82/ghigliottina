@@ -1,0 +1,38 @@
+paesaggio.txt
+"architetto del paesaggio"
+"architettura del paesaggio"
+"paesaggio"
+"paesaggio"
+"paesaggio lunare"
+"paesaggio marino"
+M>paese</E
+M>paysage</E
+M>un p</E
+M>pittoresco</E
+M>incantevole</E
+M>ridente</E
+M>melanconico</E
+M>campestre</E
+M>montuoso</E
+M>marino</E
+M>invernale</E
+M>ammirare il p</E
+M>dalla finestra si vede un bellissimo paesaggio</E
+M>difesa</E
+M>tutela del p</E
+M>associazioni per la protezione del p</E
+M>laterale</E
+M>un p</E
+M>fiammingo</E
+M>un p</E
+M>impressionista</E
+M>un pittore di paesaggi</E
+M>geografico</E
+M>carsico</E
+M>glaciale</E
+M>desertico</E
+M>forestale</E
+M>steppico</E
+M>a risaie</E
+M>minerario</E
+M>portuale</E

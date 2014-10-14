@@ -1,0 +1,16 @@
+suggerimento.txt
+"dare un suggerimento"
+"suggerimento"
+"suggerimento"
+"suggerimento"
+"suggerimento"
+"suggerimento promozionale"
+*(1) [[consiglio]], [[indicazione]]
+*[[suggerire]]
+M>è stato</E
+M> mi hai dato un buon s.</E
+M>seguirò il tuo s.</E
+M>seguire i s. del maestro</E
+M>ha voluto fare da sé senza tener conto dei miei s.</E
+M>per s. di</E
+M>mi rivolgo a lei per s. di un mio caro amico</E

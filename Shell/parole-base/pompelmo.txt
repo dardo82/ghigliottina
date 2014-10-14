@@ -1,0 +1,13 @@
+pompelmo.txt
+"pompelmo"
+"succo di pompelmo"
+M>pompelmoes</E
+M>pompel</E
+M>limoes</E
+M>limons</E
+M>pamplemousse</E
+M>pompelmous</E
+M> pompelmoose</E
+M>Citrus paradisi</E
+M>Citrus aurantium</E
+M>decumana</E

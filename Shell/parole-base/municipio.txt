@@ -1,0 +1,27 @@
+municipio.txt
+"municipio"
+"municipio"
+"palazzo del municipio"
+"sede del municipio"
+*[[comune]]
+M>municipium</E
+M>munia</E
+M>cap</E
+M>comune</E
+M>il palazzo</E
+M>la sede del m</E
+M>gli impiegati del m</E
+M>scuole sovvenzionate dal municipio</E
+M>municipalità</E
+M>Rathaus</E
+M>Hôtel</E
+M>Ville</E
+M>Town Hall</E
+M>Piazza del Municipio</E
+M>andare</E
+M>presentarsi al m</E
+M>un ricevimento in m</E
+M>sposarsi in m</E
+M>circoscrizione</E
+M>eleggere il nuovo</E
+M>Presidente del XIII Municipio</E

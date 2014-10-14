@@ -1,0 +1,123 @@
+piantare.txt
+"piantare"
+"piantare"
+"piantare"
+"piantare alberi"
+"piantare il fidanzato"
+"piantare in asso"
+"piantare in asso"
+"piantare in un vaso"
+"piantare lì"
+"piantare qcs. Temporaneamente"
+"piantare, conficcare"
+*[[trapiantare]]
+M>plantare</E
+M>p. un seme</E
+M>una talea</E
+M>un ramo</E
+M>p. una vite</E
+M>un gelso</E
+M>un pero</E
+M>p. cavoli</E
+M>broccoli</E
+M>p. un frutteto</E
+M> una vigna</E
+M>p. un terreno a vigna</E
+M>a frutteto</E
+M>a gelsi</E
+M>a meli</E
+M>p. per semi</E
+M>seminare</E
+M>p. a buca</E
+M>a fossa</E
+M>p. a dimora</E
+M>a quinconce</E
+M>Amor co la man destra il lato manco M&#8217;aperse</E
+M>e piantòvi entro in mezzo &#8217;l core Un lauro verde</E
+M>lauro</E
+M>Laura</E
+M>p. in terra un palo</E
+M>un&#8217;asta</E
+M>un picchetto</E
+M>p. un chiodo nel muro</E
+M>nella roccia</E
+M>p. il chiodo</E
+M>p. un chiodo</E
+M>p. chiodi</E
+M>p. la bandiera sulla cima di una montagna</E
+M>ficcare</E
+M>conficcare</E
+M>gli piantò il pugnale nel petto</E
+M>gli piantò le unghie nella carne</E
+M>nel volto</E
+M>p. gli occhi addosso</E
+M>in faccia</E
+M>a qualcuno</E
+M>p. i cannoni</E
+M>le batterie sulla collina</E
+M>p. un baraccone nella piazza</E
+M>p. una tenda</E
+M>le tende</E
+M>sul campo</E
+M>p. le tende in un luogo</E
+M>ha piantato le tende in casa nostra e non sembra avere intenzione di andarsene presto</E
+M>piantò il bastone a terra dicendo &#171;non mi muovo di qui&#187;</E
+M>piantarsi il cappello in testa</E
+M>piantarsi gli occhiali sul naso</E
+M>gli piantò un pugno in pieno petto</E
+M>gli piantò un potente calcio nel sedere</E
+M>p. casa in un luogo</E
+M>p. un negozio</E
+M>una fabbrica</E
+M>un&#8217;impresa</E
+M>p. una nuova comunità</E
+M>p. una colonia</E
+M>gli Inglesi hanno piantato numerose colonie di là dal mare</E
+M>impiantare</E
+M>p. la Chiesa</E
+M>p. una diocesi</E
+M>p. una prefettura apostolica</E
+M>un vicariato apostolico</E
+M>piantarsi</E
+M>si piantò a gambe larghe in mezzo alla stanza</E
+M>mi si piantò davanti impedendomi di passare</E
+M>s&#8217;era piantato davanti alla porta insistendo per essere ricevuto</E
+M>ormai s&#8217;è piantato in quell&#8217;ufficio e non sarà facile rimuoverlo</E
+M>piantarsi di guardia</E
+M>di sentinella</E
+M>piantarsi davanti</E
+M>è stato un piatto troppo pesante per me</E
+M>e mi s&#8217;è piantato sullo stomaco</E
+M>ficcarsi</E
+M>piantarsi nella mente</E
+M>nella memoria</E
+M>nel cuore</E
+M>quante volte al giorno l&#8217;immagine di quella donna veniva a cacciarsi d&#8217;improvviso nella sua mente</E
+M>e si piantava lì</E
+M>e non voleva muoversi</E
+M>quando gli s&#8217;è piantata in testa un&#8217;idea</E
+M>non gliela leva più nessuno</E
+M>s&#8217;è ricordato a un tratto che aveva un altro appuntamento</E
+M>e m&#8217;ha piantato</E
+M>m&#8217;ha piantato in asso</E
+M>l&#8217;impiegato mi rispose che non era compito suo dare informazioni e mi piantò lì</E
+M>p. il negozio</E
+M>p. il lavoro</E
+M>p. gli amici</E
+M>se ne andò via da casa piantando moglie e figli</E
+M>&#171;Scommetto che hai un ragazzo.&#187; &#171;Ce l&#8217;avevo. L&#8217;ho piantato. M&#8217;aveva messo le corna&#187;</E
+M>è stato piantato dalla sua ragazza</E
+M>p. baracca e burattini</E
+M>piantarla</E
+M>vuoi piantarla di darmi fastidio?</E
+M>perché non la pianti di fare il furbo?</E
+M>sarebbe ora di piantarla con queste malignità</E
+M>quando la pianterà</E
+M>sarà sempre troppo tardi</E
+M>e piantala!</E
+M>p. carote</E
+M>andare a p. cavoli</E
+M>p. un chiodo</E
+M>p. chiodi</E
+M>p. grane</E
+M>p. una grana</E

@@ -1,0 +1,43 @@
+rinforzo.txt
+"punto di rinforzo"
+"rinforzo"
+"rinforzo"
+"rinforzo negativo"
+"rinforzo positivo"
+M>provvedere al r</E
+M>di un muro pericolante</E
+M>degli argini di un fiume in piena</E
+M>il forte vento rese necessario il r</E
+M>degli ormeggi delle navi</E
+M>far fare</E
+M>mettere un r</E
+M>alle scarpe</E
+M>ai gomiti della giacca</E
+M>al fondo dei pantaloni</E
+M>disporre il r</E
+M>di un presidio</E
+M>di una guarnigione</E
+M>di un reparto di polizia</E
+M>rinforzi</E
+M>chiedere</E
+M>inviare rinforzi</E
+M>aspettare i r</E
+M>di rinforzo</E
+M>mettere di r</E
+M>una trave</E
+M>una serie di putrelle</E
+M>mandare di r</E
+M>un reparto di paracadutisti</E
+M>strutture</E
+M>elementi di r</E
+M>muro di r</E
+M>trave di r</E
+M>ormeggi</E
+M>cavi di r</E
+M>rammendo di r</E
+M>materiale di r</E
+M>agente rinforzante</E
+M>schermo di r.</E
+M>sbianca</E
+M>positivi</E
+M>negativi</E

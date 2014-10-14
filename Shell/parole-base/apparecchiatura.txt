@@ -1,0 +1,14 @@
+apparecchiatura.txt
+"apparecchiatura"
+"apparecchiatura"
+"apparecchiatura per registrare"
+* [[dispositivo]], [[strumentazione]]
+M>a. della tavola</E
+M>avevano fatto una sontuosa apparecchiatura</E
+M>apparecchio</E
+M>apparato</E
+M>idraulica</E
+M>elettrica</E
+M>di segnalamento e di controllo</E
+M>telefonica</E
+M>apparecchio</E

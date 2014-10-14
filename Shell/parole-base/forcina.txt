@@ -1,0 +1,8 @@
+forcina.txt
+"forcina"
+* Giuseppe Pittano, ''Il mio primo dizionario di italiano illustrato'', edizione 1995, p. 200, De Agostini
+M>forca</E
+M>forcella</E
+M>forchetta</E
+M>Alla f</E
+M>ed al cucchiaio dar mano</E

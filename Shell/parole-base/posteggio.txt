@@ -1,0 +1,20 @@
+posteggio.txt
+"posteggio"
+#* ''questo è un '''posteggio''' a [[pagamento]]''
+* [[parcheggio]]
+M>tassa di p</E
+M>pagare il p</E
+M>è vietato il p</E
+M>libero</E
+M>gratuito</E
+M>a pagamento</E
+M>erano servitori di piazza</E
+M>che giravan da un p</E
+M>all&#8217;altro a dar una mano</E
+M>di motociclette</E
+M>di biciclette</E
+M>ho lasciato la macchina al p</E
+M>custodito</E
+M>incustodito</E
+M>notturno</E
+M>di taxi</E

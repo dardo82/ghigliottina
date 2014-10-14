@@ -1,0 +1,56 @@
+architettura.txt
+"architettura"
+"architettura"
+"architettura"
+"architettura"
+"architettura del paesaggio"
+"architettura di giardini"
+"architettura navale"
+"architettura paesaggistica"
+"architettura romana"
+"facoltà di architettura"
+"facoltà di architettura"
+"laurea in architettura"
+"scuola di architettura"
+"studio di architettura"
+*(di edificio) [[struttura]], [[forma]],[[composizione]]
+*[[costruzione]], [[edificio]]
+*[[monumento]], [[ossatura]] 
+*[[bioarchitettura]], [[bioarchitettonica]], [[ecoarchitettura]]
+M>architectura</E
+M>civile</E
+M>militare</E
+M>sacra</E
+M>idraulica</E
+M>facoltà di a</E
+M>studiare a</E
+M>laurea</E
+M>laureato in architettura</E
+M>A. del paesaggio</E
+M>navale</E
+M>A. industriale</E
+M>ammirare le a</E
+M>antiche</E
+M>studiare l’a</E
+M>di un palazzo</E
+M>Una devota e venerabil chiesa</E
+M>Che su colonne alabastrine e rare Con bella a</E
+M>era sospesa</E
+M>l’a</E
+M>italiana del sec</E
+M>araba</E
+M>gotica</E
+M>rinascimentale</E
+M>barocca</E
+M>la mirabile a</E
+M>del corpo umano</E
+M>l’a</E
+M>del poema dantesco</E
+M>romanzo</E
+M>poema di a</E
+M>difettosa</E
+M>l’a</E
+M>di una carta costituzionale</E
+M>a. di un calcolatore elettronico</E
+M>hardware</E
+M>grafica</E

@@ -1,0 +1,53 @@
+ricetta.txt
+"che non necessita di ricetta medica"
+"farmaco da vendersi su ricetta medica"
+"farmaco senza obbligo di ricetta"
+"pesce ripieno di altro pesce macinato con spezie (ricetta ebraica)"
+"ricetta"
+"ricetta"
+"ricetta"
+"ricetta medica"
+"ricetta ripetibile"
+"ricetta scaccia crisi"
+"scrivere una ricetta"
+#*''sono andato in farmacia ad acquistate un farmaco con una ricetta bianca e perciò ho dovuto pagarla completamente''
+#*''sono andato in farmacia ad acquistate un farmaco con una ricetta   rossa e  perciò,  ho dovuto pagare solo il ticket''
+#*'' ho una favolosa 
+*[[prescrizione]], [[antidoto]] 
+*[[ricettario]], [[ricettare]]
+*''Ogni male ha la sua ricetta''
+M>recepta</E
+M>receptus</E
+M>recip</E
+M>formula magistrale</E
+M>medica</E
+M>fare</E
+M>rilasciare</E
+M>scrivere una r</E
+M>per l&#8217;acquisto di certe specialità è necessario presentare la r</E
+M>medica</E
+M>scritta in modo illeggibile</E
+M>preparare</E
+M>spedire</E
+M>una r</E
+M>mia nonna conosce una r. infallibile contro il singhiozzo</E
+M>la migliore r</E
+M>contro la noia è il lavoro</E
+M>non c&#8217;è r</E
+M>efficace contro il mal d&#8217;amore</E
+M>ricette di cucina</E
+M>per fare la zuppa inglese</E
+M>per fare il gelato</E
+M>per un buon minestrone</E
+M>per la lepre in salmì</E
+M>per la macedonia di frutta</E
+M>ricette per liquori</E
+M>la r</E
+M>per preparare un cocktail</E
+M>per marmellate</E
+M>per un profumo</E
+M>per un veleno</E
+M>di facile</E
+M>di difficile esecuzione</E
+M>facile</E
+M>difficile</E

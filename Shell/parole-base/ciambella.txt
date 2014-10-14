@@ -1,0 +1,15 @@
+ciambella.txt
+"ciambella"
+"ciambella"
+"ciambella di grasso alla vita"
+"ciambella di grasso alla vita"
+#* ''quella '''ciambella''' l'ha preparata mia [[madre]]''
+* (''dolce'') [[berlingozzo]]
+* ''non tutte le '''ciambelle''' riescono con il buco''
+* '''''ciambella''' di [[salvataggio]]''
+M>pane a c</E
+M>non tutte le c</E
+M>riescono col buco</E
+M>gambe a c</E
+M>toro</E
+M>con un buco</E

@@ -1,0 +1,126 @@
+trasporto.txt
+"aereo per trasporto merci"
+"con trasporto"
+"da trasporto"
+"fattura di trasporto"
+"il settore del trasporto aereo"
+"impresa di addetti al trasporto e all'uso di manichette antincendio"
+"mezzi di trasporto"
+"mezzo di trasporto"
+"nave per il trasporto"
+"nave per il trasporto delle truppe"
+"nave per trasporto merci"
+"navetta da trasporto passeggeri"
+"nolo per il trasporto"
+"socità per il trasporto di persone o cose"
+"spese di trasporto"
+"tariffe di trasporto"
+"traffico pesante; trasporto pesante"
+"trasporto"
+"trasporto"
+"trasporto"
+"trasporto aereo"
+"trasporto eccezionale"
+"trasporto elettronico"
+"trasporto leggero"
+"trasporto merci"
+"trasporto militare"
+"trasporto via cargo"
+"trasporto, trasportare"
+"vettura per trasporto di cani"
+*[[spostamento]], [[rimozione]], [[trasloco]], [[dislocazione]], [[trasferimento]]
+*''(di merce, prodotti)'' [[spedizione]], [[invio]], [[viaggio]]
+*''(di testo, disegno)'' [[riproduzione]]
+*''(di brano musicale)'' [[trascrizione]], [[trasposizione]]
+M>t. di persone</E
+M>di merci</E
+M>di materiali</E
+M>incaricare uno spedizioniere del t. della mobilia</E
+M>durante il t. da una stanza all&#8217;altra il lampadario ha urtato contro lo stipite e si è rotto</E
+M>il t. delle artiglierie era fatto a dorso di mulo</E
+M>un servizio organizzato per il t. dei feriti</E
+M>t. funebre</E
+M>trasporto</E
+M>t. del cadavere</E
+M>della salma</E
+M>il t. avrà luogo domani alle 10</E
+M>mezzo di t.</E
+M>trasporto</E
+M>salire su un t. pubblico</E
+M>servirsi di un t. privato</E
+M>t. terrestre</E
+M>t. su strada ordinaria</E
+M>per ferrovia</E
+M>per tranvia</E
+M>per metropolitana</E
+M>con funivia</E
+M>con seggiovia</E
+M>con ascensori</E
+M>trasporti su rotaia</E
+M>su ferro</E
+M>su gomma</E
+M>t. marittimo</E
+M>t. fluviale</E
+M> lacuale</E
+M>lacustre</E
+M>per via d&#8217;acqua interna</E
+M>t. internazionale di merci</E
+M>Ministero dei t.</E
+M>nave</E
+M>trasporto</E
+M>nave t. carbone</E
+M>minerali</E
+M>nave t. truppe</E
+M>passeggeri</E
+M>t. aereo</E
+M>aerei da t.</E
+M>spese di t.</E
+M>costi del t.</E
+M>pagare il t.</E
+M>tasse sui t.</E
+M>contratto di t.</E
+M>t. cumulativo</E
+M>t. militari</E
+M>t. di mobilitazione</E
+M>di radunata</E
+M>t. di copertura</E
+M>t. d&#8217;emergenza</E
+M>t. di prima linea</E
+M>t. di seconda linea</E
+M>T. refrigerati</E
+M>T. pneumatico</E
+M>il t. della capitale del Regno d&#8217;Italia da Torino a Firenze nel 1865</E
+M>trasportare</E
+M>transport</E
+M>il t. della passione</E
+M>operare</E
+M>agire in un t. d&#8217;ira</E
+M>di sdegno</E
+M>di entusiasmo</E
+M>di zelo</E
+M>di generosità</E
+M>abbracciare con t. un amico</E
+M>studiare con t.</E
+M>accogliere con t. una proposta di rappacificazione</E
+M>stampa a trasporto</E
+M>inchiostro da trasporto</E
+M>momento di t.</E
+M>t. a strappo</E
+M>t. a stacco</E
+M>t. di tiro</E
+M>t. all&#8217;origine</E
+M>t. dell&#8217;energia elettrica</E
+M>trasmissione dell&#8217;energia elettrica</E
+M>trasposizione</E
+M>t. di un vettore applicato</E
+M>fenomeni</E
+M>processi di t.</E
+M>equazioni del t.</E
+M>coefficienti di t.</E
+M>numero di t.</E
+M>t. litoraneo</E
+M>t. fluviale</E
+M>attivo</E
+M>passivo</E
+M>t. attivo</E
+M>t. passivo</E

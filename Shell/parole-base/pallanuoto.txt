@@ -1,0 +1,6 @@
+pallanuoto.txt
+"pallanuoto"
+M>palla</E
+M>nuoto</E
+M>water</E
+M>polo</E

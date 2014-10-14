@@ -1,0 +1,37 @@
+pacco.txt
+"fare un pacco regalo, fare una confezione regalo"
+"pacco"
+"pacco"
+"pacco"
+"pacco"
+"pacco"
+"pacco postale"
+"pacco sorpresa"
+"sistemarsi il pacco"
+"un vero e proprio pacco"
+#* ''il mio amico Giro mi ha tirato il '''pacco'''''
+*[[collo]], [[confezione]], [[involto]], [[involucro]], [[balla]]
+*''( di documenti e sim.)'' [[plico]]
+*''(slang)'' [[bidonata]], [[bidone]], [[fregatura]], [[imbroglio]], [[raggiro]], [[truffa]]
+*[[impacchettare]], [[pacchetto]], [[paccottiglia]] / [[paccottaglia]]
+*[[pila]]
+M>pack</E
+M>chi</E
+M>un p</E
+M>di libri</E
+M>un p</E
+M>di dolci</E
+M>un p</E
+M>voluminoso</E
+M>un p</E
+M>ben confezionato</E
+M>fare</E
+M>portare</E
+M>spedire un p</E
+M>ferroviarî</E
+M>postali</E
+M>aerei</E
+M>pacco ordinario</E
+M>pacco celere</E
+M>pacchi viveri</E
+M>pacchi dono</E

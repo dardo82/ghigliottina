@@ -1,0 +1,31 @@
+incasso.txt
+"distinta di incasso \/ pagamento"
+"incasso"
+"incasso"
+"incasso ai cancelli"
+"incasso degli utili"
+"incasso lordo"
+"lampada a incasso"
+"maniglia a incasso"
+"spese di incasso"
+*[[entrata]], [[guadagno]], [[rendita]], [[introito]], [[provento]], [[fatturato]], [[ricavo]]
+*[[incassatura]], [[incavo]], [[cavità]]
+*[[pagamento]], [[esborso]], [[spesa]]
+M>incassatura</E
+M>fare un i</E
+M>nella parete</E
+M>da incasso</E
+M>interruttore da i</E
+M>elettrodomestici da incasso</E
+M>non registrato</E
+M>giornaliero</E
+M>mensile</E
+M>fare</E
+M>realizzare un buon i</E
+M>alti i</E
+M>ci ha rimesso quasi tutto l’i</E
+M>della stagione</E
+M>valuta per l’i</E
+M>effetto all’i</E
+M>servizio i</E
+M>servizio dopo i</E

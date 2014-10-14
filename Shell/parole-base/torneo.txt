@@ -1,0 +1,17 @@
+torneo.txt
+"torneo"
+"torneo"
+"torneo di golf"
+"torneo sportivo"
+#*''ha vinto un torneo di pallavolo'' 
+* [[giostra]], [[lizza]]
+M>tornei</E
+M> tornoi</E
+M>tournoi</E
+M>torneier</E
+M>fare un t.</E
+M>prendere parte a un torneo</E
+M>t. di tennis</E
+M> di scherma</E
+M>t. di scacchi</E
+M>t. scacchistico</E

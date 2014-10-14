@@ -1,0 +1,8 @@
+ortensia.txt
+"Traduzione di ortensia/ non trovata.\nNo translation was found for ortensia/."
+M>hortensia</E
+M>Hortense</E
+M>Hydrangea</E
+M>Hydrangea macrophylla</E
+M>paniculata</E
+M>arborescens</E

@@ -1,0 +1,63 @@
+mescolare.txt
+"mescolare"
+"mescolare"
+"mescolare con"
+"mescolare le carte"
+"mescolare le carte, mischiare le carte"
+"scodella per mescolare, terrina, ciotola"
+M>*misc</E
+M>lare</E
+M>misc</E
+M>io méscolo</E
+M>acqua e vino</E
+M>il latte al</E
+M>con il</E
+M>caffè; m</E
+M>olio d’oliva e olio di semi</E
+M>sabbia con la calce</E
+M>varie qualità di tabacco</E
+M>l’arancione si ottiene mescolando giallo e rosso</E
+M>fa male m</E
+M>vino e birra</E
+M>i colori sulla tavolozza</E
+M>un impasto</E
+M>la polenta</E
+M>il risotto</E
+M>l’insalata</E
+M>il caffè col cucchiaino per sciogliere lo zucchero</E
+M>le razze</E
+M>gli Ebrei con i Samaritani</E
+M>due stili architettonici</E
+M>nella sua prosa mescola dialettalismi e arcaismi</E
+M>l’ideale con il reale</E
+M>Le sacre mescolò colle profane</E
+M> E le cose ridicole alle serie</E
+M>due</E
+M>più</E
+M>tensioni o correnti elettriche variabili</E
+M>chi ha mescolato le mie schede?</E
+M>nella fretta</E
+M>ho mescolato insieme i fogli degli appunti con i documenti</E
+M>le carte</E
+M>i colori più sono diluiti e meglio si mescolano</E
+M>l’olio non si mescola con l’acqua</E
+M>i fogli sono caduti per terra e si sono tutti mescolati</E
+M>il ladro fuggì mescolandosi tra la folla</E
+M>i capretti si mescolarono al gregge</E
+M>ha finito col mescolarsi con quella gentaglia!</E
+M>evita di mescolarti nei fatti altrui</E
+M>di che vi mescolate</E
+M>signor canonico?</E
+M>nel suo sguardo si mescolano dolcezza e malinconia</E
+M>colori mescolati</E
+M>bere vermut mescolato con un po’ di china</E
+M>libri mescolati alla rinfusa</E
+M>scomparve mescolato nella folla</E
+M>sapere divisare un mescolato</E
+M>alla mescolata</E
+M>entrare</E
+M>entrarono tutti insieme</E
+M>mescolatamente</E
+M>vi erano riuniti mescolatamente ragazzi di classi diverse</E
+M>merci ammassate mescolatamente</E
+M>vi erano riferite mescolatamente notizie vere e altre meno vere</E

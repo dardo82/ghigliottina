@@ -1,0 +1,35 @@
+consolazione.txt
+"consolazione"
+"magra consolazione"
+"partita di consolazione, gioco riservato a chi è stato eliminato"
+"premio di consolazione"
+*[[conforto]], [[sollievo]]
+* motivo di gioia, motivo di soddisfazione
+*[[disperazione]], [[desolazione]]
+M>consolatio</E
+M>onis</E
+M>dolce</E
+M>amara c</E
+M>dare</E
+M>recare c</E
+M>procurare una gran c</E
+M>riempire di c</E
+M>sentire un’intima c</E
+M>il suo riconoscimento è per me una ben magra c</E
+M>dolore che non ha c</E
+M>lo dico a tua c</E
+M>per tua c</E
+M>Premio di c</E
+M>i figli danno spesso molte c</E
+M>è una bella c</E
+M>quella che mi dài!</E
+M>piove che è una consolazione!</E
+M>ti sono grato per le tue c</E
+M>non c’è c</E
+M>che valga</E
+M>quella bambina è la sua c</E
+M>una delle più grandi c</E
+M>di questa vita è l’amicizia</E
+M>consolatio</E
+M>De consolatione</E
+M>Consolationes</E

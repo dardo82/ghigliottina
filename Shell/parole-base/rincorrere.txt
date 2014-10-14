@@ -1,0 +1,19 @@
+rincorrere.txt
+"rincorrere"
+*[[inseguire]]
+*[[rincorsa]]
+M>rin</E
+M>correre</E
+M>correre</E
+M>rincorse il ladro ma non riuscì a raggiungerlo</E
+M>ho rincorso l&#8217;autobus</E
+M> ma non sono riuscito a raggiungerlo</E
+M>fare</E
+M>giocare</E
+M>a rincorrersi</E
+M>i giornalisti rincorrono da giorni il ministro per avere una sua dichiarazione</E
+M>ti rincorro da ieri ma non ti trovo mai</E
+M>r. un sogno</E
+M> un desiderio</E
+M>r. il successo</E
+M> la fama</E

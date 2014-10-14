@@ -1,0 +1,36 @@
+griglia.txt
+"costoletta alla griglia"
+"cuocere alla griglia"
+"griglia"
+"griglia"
+"griglia"
+"griglia di partenza"
+"griglia di ricerca"
+"griglia meridiani-paralleli"
+"griglia per forno"
+"la griglia, graticola"
+"manzo alla griglia"
+"panino con formaggio alla griglia"
+"piastra, griglia, teglia"
+"ristorante di carne alla griglia"
+M>grille</E
+M>cratic</E
+M>gril</E
+M>griglia</E
+M>cuocere</E
+M>arrostire sulla g</E
+M>carne</E
+M>pesce</E
+M>pollo</E
+M>pomodori sulla g</E
+M>alla griglia</E
+M>di protezione</E
+M>di separazione</E
+M>rettificatrici del vento</E
+M>di carenaggio</E
+M>g. di controllo</E
+M>g. schermo</E
+M>g. di soppressione</E
+M>di partenza</E
+M>studiare una g</E
+M>che permetta la conversione e riconversione tra codici di linguaggio diversi</E

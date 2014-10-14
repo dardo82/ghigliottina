@@ -1,0 +1,52 @@
+frequentare.txt
+"andare in chiesa, frequentare la chiesa"
+"frequentare"
+"frequentare"
+"frequentare"
+"frequentare, replace: frequentarsi"
+"frequentare la scuola"
+"frequentare qc, accompagnarsi a qc"
+"frequentare un corso"
+"frequentare; bazzicare; battere"
+"girare con; frequentare"
+"girare; frequentare qcn."
+"iniziare a frequentare qualcuno"
+*[[visitare]], [[andare]] 
+*''(lezioni, corsi e simili) [[seguire]]
+*''(persone)'' [[trattare]], [[vedere]]  
+*[[praticare]]
+*[[evitare]], [[ignorare]]
+*[[frequentabile]], [[frequentarsi]], [[frequentativo]], [[frequentato]], [[frequentatore]], [[frequentazione]]
+*[[frequente]], [[frequenza]]
+M>frequentare</E
+M>frequens</E
+M>entis</E
+M>io frequènto</E
+M>una casa</E
+M>la chiesa</E
+M>il circolo</E
+M>un salotto letterario</E
+M>le bettole</E
+M>l’osteria</E
+M>case equivoche</E
+M>locale frequentato dalla migliore società</E
+M>buoni</E
+M>cattivi compagni</E
+M>gli spettacoli di prosa</E
+M>un ciclo di lezioni</E
+M>di prediche</E
+M>una scuola</E
+M>un corso di studî</E
+M>i sacramenti</E
+M>i classici</E
+M>avere</E
+M>in ritrovi eleganti</E
+M>con persone dotte</E
+M>per luoghi di divertimento</E
+M>voci</E
+M>frequentate da’ buoni scrittori</E
+M>strada</E
+M>piazza frequentata</E
+M>un bar molto frequentato</E
+M>locale ben frequentato</E
+M>mal frequentato</E

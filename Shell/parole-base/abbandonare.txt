@@ -1,0 +1,83 @@
+abbandonare.txt
+"abbandonare"
+"abbandonare"
+"abbandonare a se stesso"
+"abbandonare gli studi"
+"abbandonare la speranza"
+"abbandonare le proprie certezze"
+"abbandonare, abortire"
+"abbandonare, allontanarsi da"
+"abbandonare, lasciare"
+"lasciare, abbandonare"
+"rinunciare, abbandonare"
+"sul punto di abbandonare"
+"tradire; abbandonare qcn."
+#*''l'uomo '''abbandonò''' la famiglia e andò in America''
+#*''Marco '''abbandonò''' gli studi''
+#* '''''abbandonarono''' la presa''
+#* ''non finì il tutto, e in mezzo la parola e la voce e la vita l' '''abandona''''' 
+#* '''''abbandonare''' il mondo''
+#* '''''abbandonare''' la vita''
+#* '''''abbandonare''' l' ancora''
+#* '''''abbandonare''' la casa''
+#* '''''abbandonare''' il premio''
+#* '''''abbandonare''' le redini''
+#* '''''abbandonare''' il capo sul petto''
+*[[rinunciare]]
+*''(un luogo)'' [[lasciare]], [[andarsene]], [[sloggiare]], [[evacuare]], [[trasferirsi]], [[emigrare]]
+*[[ritornare]], [[riprendere]]
+*''(un luogo)'' [[restare]], [[rimanere]], [[fermarsi]], [[trattenersi]]
+*[[abbandonato]], [[abbandono]],  [[abbandonarsi]]
+*[[abandonare]]
+M>abandonner</E
+M>a bandon</E
+M>bann</E
+M>io abbandóno</E
+M>la casa paterna</E
+M>la terra nativa</E
+M>la famiglia</E
+M>gli amici</E
+M>ha abbandonato la moglie e i figli</E
+M>spero che non vorrete abbandonarmi</E
+M>un uomo abbandonato da Dio</E
+M>lo abbandonò alla sua sorte</E
+M>di cani e d’augelli orrido pasto Lor salme abbandonò</E
+M>la città al saccheggio</E
+M>al degrado</E
+M>la presa</E
+M>sentì che ormai le forze l’abbandonavano</E
+M>Non finì il tutto</E
+M>e in mezzo la parola E la voce e la vita l’abandona</E
+M>il mondo</E
+M>la vita</E
+M>l’ancora</E
+M>filare per occhio</E
+M>l’inseguimento</E
+M>un affare</E
+M>una gara</E
+M>una corsa</E
+M>il ring</E
+M>ha abbandonato alla quinta ripresa</E
+M>il Bianco abbandona</E
+M>il campo</E
+M>le posizioni</E
+M>un proposito</E
+M>un’usanza</E
+M>la casa</E
+M>un terreno</E
+M>il premio</E
+M>le redini</E
+M>il capo sul petto</E
+M>le braccia</E
+M>abbandonarsi alla corrente</E
+M>s’era abbandonato sulla poltrona</E
+M>abbandonarsi al vizio</E
+M>alle passioni</E
+M>si abbandonava alla dolcezza dei ricordi</E
+M>al lento ritmo della musica</E
+M>il padre Cristoforo</E
+M>al quale l’atto e il contegno di don Rodrigo non permettevano di abbandonarsi alla speranza</E
+M>abbandonarsi a uno</E
+M>per colpo darmi Tal</E
+M>ch’è più grave a chi più s’abbandona</E
+M>dopo la morte del marito s’è proprio abbandonata</E

@@ -1,0 +1,49 @@
+maestra.txt
+"la via maestra"
+"maestra"
+"maestra"
+"non segue la strada maestra"
+"non segue la strada maestra"
+"strada maestra"
+"strada principale, strada maestra, via principale"
+"via maestra"
+#* ''sarta maestra del mestiere''
+#* ''Albero di maestra''
+#* ''L'esperienza è una maestra di vita''
+#* ''Il Maestro Puccini'' 
+* insegnante, insegnante elementare, [[docente]], [[istitutrice]], [[precettrice]], [[pedagoga]]
+*[[istruttrice]]
+*[[artista]], [[esperta]]
+*[[caposcuola]], [[fondatrice]]
+* operaia qualificato
+* [[principale]], [[maggiore]], [[portante]]
+*[[abile]], [[capace]], [[esperta]], [[provetta]]
+*[[alunna]], [[scolara]], [[allieva]]
+*[[seguace]]
+*[[apprendista]], [[principiante]]
+*[[minore]], [[secondaria]]
+*[[incapace]], [[inesperta]]
+M>mag</E
+M>stra</E
+M>maestro</E
+M>la m</E
+M>della prima</E
+M>della seconda</E
+M>d’asilo</E
+M>giardiniera</E
+M>di taglio</E
+M>di cucito</E
+M>di pianoforte</E
+M>di violino</E
+M>è una m</E
+M>nell’arte di cucinare</E
+M>è sempre stata m</E
+M>nel fingere</E
+M>nell’imbrogliare</E
+M>la storia è m</E
+M>di vita</E
+M>Maestre Pie Filippini</E
+M>Maestre Pie Venerini</E
+M>vela maestra</E
+M>albero di maestra</E
+M>la maestrina dalla penna rossa</E

@@ -1,0 +1,72 @@
+parallelo.txt
+"andare parallelo"
+"essere parallelo"
+"fare un parallelo"
+"in parallelo"
+"in parallelo a"
+"mettere in parallelo"
+"parallelo"
+"parallelo"
+"parallelo"
+"parallelo"
+"parallelo"
+*[[piano-parallelo]], [[parallelismo]], [[parallelamente]]
+M>parallelus</E
+M>due linee p</E
+M>fra loro</E
+M>curve p</E
+M>cerchi p</E
+M>retta p</E
+M>a un&#8217;altra retta</E
+M>a un piano</E
+M>r // s</E
+M>una maglia a righe p</E
+M>due muri</E
+M>due sbarre p</E
+M>una via p</E
+M>al Corso</E
+M>la ferrovia corre</E
+M>per lungo tratto</E
+M>al fiume</E
+M>file p</E
+M>di banchi</E
+M>di sedie</E
+M>di veicoli</E
+M>come si volgon per tenera nube Due archi p</E
+M>e concolori</E
+M>cristiania p</E
+M>parallelo</E
+M>Porta p.</E
+M>interfaccia p.</E
+M>seriale</E
+M>geografici</E
+M>circoli p</E
+M>paralleli</E
+M>paralleli nord</E
+M>sud</E
+M>celesti</E
+M>collegamento</E
+M>accoppiamento in p</E
+M>in derivazione</E
+M>in quantità</E
+M>collegamento in p</E
+M>in p</E
+M>seriale</E
+M>elaborazione in p</E
+M>l&#8217;insegnamento p</E
+M>dell&#8217;italiano e del latino</E
+M>corsi p</E
+M>di letterature straniere</E
+M>paesi che fanno una politica p</E
+M>svolgere azioni parallele</E
+M>concetti p</E
+M>immagini p</E
+M>Vite p</E
+M>luoghi p</E
+M>moto p</E
+M>fare un p</E
+M>tra due avvenimenti storici di tempi diversi</E
+M>istituire un p</E
+M>fra il Tasso e l&#8217;Ariosto</E
+M>tracciare una retta parallelamente a un piano</E
+M>procedere parallelamente</E

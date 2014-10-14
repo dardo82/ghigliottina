@@ -1,0 +1,55 @@
+reciproco.txt
+"aiuto reciproco"
+"commercio reciproco"
+"reciproco"
+"reciproco"
+"scambio reciproco"
+*[[vicendevole]], [[scambievole]], [[ricambiato]], [[corrisposto]], [[contraccambiato]], [[biunivoco]], [[mutuo]], [[alterno]]
+*[[unidirezionale]], [[unilaterale]]
+*[[reciprocamente]], [[reciprocità]]
+*[[correlato]]
+M>recipr</E
+M>cus</E
+M>*recus</E
+M>*procus</E
+M>sentimenti r</E
+M>amore</E
+M>affetto r</E
+M>simpatia</E
+M>stima</E
+M>amicizia r</E
+M>odio r</E
+M>avversione</E
+M>antipatia r</E
+M>darsi r</E
+M>aiuto</E
+M>prestarsi r</E
+M>assistenza</E
+M>rapporti r</E
+M>condizioni r</E
+M>agevolazioni</E
+M>concessioni r</E
+M>conti r</E
+M>posizioni r</E
+M>numero r</E
+M>reciproco</E
+M>inverso</E
+M>funzione r</E
+M>reciproca</E
+M>di una funzione</E
+M>equazione r</E
+M>proposizione r</E
+M>reciproca</E
+M>verbi riflessivi r</E
+M>verbi r</E
+M>assimilazione r</E
+M>rapidum</E
+M>*rapdu</E
+M>ratto</E
+M>verso r</E
+M>Aeneis</E
+M>Musa mihi causas memora quo numine laeso: Laeso numine quo</E
+M> memora causas mihi Musa</E
+M>stimarsi reciprocamente</E
+M>un trattato</E
+M>un accordo che impegna reciprocamente i due contraenti</E

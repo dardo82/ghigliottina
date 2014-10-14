@@ -1,0 +1,17 @@
+appartamento.txt
+"appartamento"
+"appartamento a piano terra con accesso a un giardino"
+"appartamento al terzo piano"
+"appartamento bilocale"
+"appartamento in palazzo senza ascensore"
+"appartamento in residence"
+"appartamento monolocale"
+"appartamento monolocale"
+"appartamento su due piani"
+"coinquilino, compagno d'appartamento"
+"dividere l'appartamento"
+"dividere una stanza, un appartamento con qualcuno"
+"pianta d'appartamento"
+"piccolo appartamento"
+"topo d'appartamento"
+*[[abitazione]], [[alloggio]], [[casa]]

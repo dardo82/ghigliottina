@@ -1,0 +1,10 @@
+accogliente.txt
+"accogliente"
+"accogliente, familiare"
+"accogliente, invitante"
+#*''Diciamo solo che la tua amica non è stata molto '''accogliente'''...''
+#*''Casa tua è molto '''accogliente'''!''
+M>accogliere,</E
+M>accueillant</E
+M>gli si mostrò molto accogliente.</E
+M>una casa a.,</E

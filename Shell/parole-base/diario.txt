@@ -1,0 +1,34 @@
+diario.txt
+"annotazione di diario"
+"diario"
+"diario"
+"diario"
+"diario di bordo"
+"diario di viaggio"
+*[[cronaca]], [[agenda]]
+*''(di prove d'esame, concorsi ecc.) [[calendario]]
+*italiano
+*portoghese
+*spagnolo
+M>diarium</E
+M>diaria</E
+M>orum</E
+M>dies</E
+M>Diarî</E
+M>diario di viaggio</E
+M>il d</E
+M>di una spedizione scientifica</E
+M>scrivere nel d</E
+M>tenere un d</E
+M>pubblicare il d</E
+M>di uno statista</E
+M>di un poeta</E
+M>Diario intimo</E
+M>di N</E
+M>Tommaseo</E
+M>scolastico</E
+M>di classe</E
+M>degli esami</E
+M>delle prove scritte</E
+M>delle prove orali</E
+M>Diario di Roma</E

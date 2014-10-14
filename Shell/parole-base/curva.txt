@@ -1,0 +1,34 @@
+curva.txt
+"andamento di una curva"
+"curva"
+"curva"
+"curva a campana"
+"curva a gomito"
+"curva brusca"
+"curva caratteristica"
+"curva dell'attenzione"
+"curva della domanda"
+"curva di distribuzione"
+"curva di livello"
+"curva fotometrica"
+"curva interpolante"
+"curva nord"
+"curva normale"
+"curva sbagliata"
+"curva seno"
+"curva termica"
+"fare una curva"
+"in curva"
+"in curva"
+"leggera curva"
+"onda d'urto curva"
+"strada curva"
+*(nel linguaggio. scientifico e tecnico)  [[diagramma]]
+*[[arco]], [[parabola]]
+*(di strada) tratto non rettilineo, [[svolta]], [[tornante]], [[gomito]]
+*[[curvatura]]
+*[[ rettilineo]]
+*[[retta]]
+* [[curvabile]], [[curvatura]], [[curvilineo]], [[curvometro]]
+* [[fillotassi]], [[spirale dei primi]], [[spirale dei razionali]]
+*''curva batimetrica''

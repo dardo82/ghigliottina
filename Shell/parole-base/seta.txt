@@ -1,0 +1,64 @@
+seta.txt
+"calze di seta"
+"cappello di seta"
+"carta di seta"
+"cultura della seta"
+"fiore di seta, fiore artificiale"
+"seta"
+"filamento del baco da seta"
+"seta"
+"seta"
+"tessuto di seta"
+"seta"
+"seta grezza"
+"seta marezzata"
+*[[east]]
+*[[eats]]
+*[[sate]]
+*[[seat]]
+M>saeta</E
+M>Bombyx mori</E
+M>baco da seta</E
+M>filiere</E
+M>bava</E
+M>bozzolo</E
+M>Par.</E
+M>La mia letizia mi ti tien celato Che mi raggia dintorno e mi nasconde Quasi animal di sua seta fasciato</E
+M>s. naturale</E
+M>via della s.</E
+M>s. greggia</E
+M>s. cruda</E
+M>sgommata</E
+M>s. raddolcita</E
+M>trattura</E
+M>cascami di seta</E
+M>di seta</E
+M>un filo</E
+M>un rocchetto di s.</E
+M>una camicia</E
+M>un abito</E
+M>un fazzoletto di s.</E
+M>un foulard di s. e cotone</E
+M>s. gloria</E
+M>S. selvatiche</E
+M>tussah</E
+M>Antheraea</E
+M>Attacus</E
+M>S. artificiale</E
+M>raion.</E
+M>di seta</E
+M>capelli di s.</E
+M>una pelle di s.</E
+M>il pelo di s. dei gatti persiani</E
+M>carta s.</E
+M>carta velina</E
+M>legno s.</E
+M>Fagara flava</E
+M>Chloroxylon swietenia</E
+M>Seta</E
+M>lana</E
+M>vegetale</E
+M>Seta</E
+M>lana</E
+M>di felce</E
+M>cibozio</E

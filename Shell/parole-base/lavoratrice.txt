@@ -1,0 +1,6 @@
+lavoratrice.txt
+"classe lavoratrice"
+"lavoratrice"
+"lavoratrice"
+"lavoratrice"
+"membro della classe lavoratrice"

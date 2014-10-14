@@ -1,0 +1,14 @@
+prosa.txt
+"genere di prosa"
+"in prosa"
+"lavoro in prosa"
+"poema in prosa"
+"poesia in prosa"
+"produzione di prosa"
+"prosa"
+"prosa"
+"opere in prosa"
+"prosa in versi"
+"scrittore in prosa"
+"stile di prosa"
+*[[poesia]]

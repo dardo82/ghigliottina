@@ -1,0 +1,24 @@
+mortificare.txt
+"http://api.wordreference.com/12bee/json/iten/mortificare/"
+*[[umiliare]], [[avvilire]] 
+M>mortificare</E
+M>mors mortis</E
+M>fac</E
+M>io mortìfico</E
+M>tu mortìfichi</E
+M>le carni</E
+M>la carne</E
+M>il corpo</E
+M>i sensi</E
+M>gli istinti</E
+M>l’amor proprio</E
+M>mortificarsi</E
+M>non devi m</E
+M>così quel povero ragazzo</E
+M>i compagni si divertivano a mortificarlo imitando il suo difetto di pronuncia</E
+M>il suo rifiuto mi ha mortificato</E
+M>bisogna rimproverarlo con una certa delicatezza perché si mortifica facilmente</E
+M>pratiche</E
+M>penitenze mortificanti</E
+M>un mortificante insuccesso</E
+M>è mortificante per me dovergli chiedere scusa</E

@@ -1,0 +1,23 @@
+stupire.txt
+"stupire"
+"stupire"
+*[[meravigliare]], [[sorprendere]] 
+*[[stupefare]], [[stupendo]], [[stupido]], [[stupirsi]], [[stupore]]
+M>stup</E
+M>io stupisco</E
+M>tu stupisci</E
+M>essere</E
+M>stupisco proprio</E
+M>stupisco davvero per quanto mi dici</E
+M>non sarebbe da stupire se dicesse di no</E
+M>Stupiro e si guardaro in viso Gli altri con muta meraviglia</E
+M>non c&#8217;è da stupirsi</E
+M>il saggio non si stupisce di nulla</E
+M>mi stupisco della sua faccia tosta</E
+M>mi stupisco che non sia ancora tornato</E
+M>mi stupisce la sua ostinazione</E
+M>la risposta mi stupì</E
+M>sono fatti che ormai non stupiscono più nessuno</E
+M>il risultato del concorso ha stupito un po&#8217; tutti</E
+M>se ne stava lì tutto stupito</E
+M>ne rimase stupito lui stesso</E

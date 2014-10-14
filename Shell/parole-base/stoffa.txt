@@ -1,0 +1,33 @@
+stoffa.txt
+"avere la stoffa di"
+"avere talento per, avere stoffa per, essere portato per"
+"campione di stoffa"
+"pezzi di stoffa cuciti assieme"
+"ritaglio di stoffa"
+"stoffa"
+"stoffa"
+"tessuto, stoffa"
+* [[tessuto]], [[panno]], [[tela]]
+*  
+M>estoffe</E
+M>per un taglio d&#8217;abito occorrono tre metri e mezzo di s.</E
+M>ho portato la s. al sarto per farmi fare un vestito</E
+M>la s. del sofà è ormai vecchia e logora</E
+M>una s. di buona qualità</E
+M>di qualità scadente</E
+M>stoffa di lana</E
+M>di cotone</E
+M>di fibre sintetiche</E
+M>negozio di stoffe</E
+M>commerciare in stoffe</E
+M>avere</E
+M>non avere</E
+M>la s. del campione</E
+M>dello scrittore</E
+M>vorrebbe fare il giornalista ma non ha</E
+M>gli manca</E
+M>la s.</E
+M>in lui c&#8217;è la s. del vincitore</E
+M>quel ragazzo ha della stoffa</E
+M>un vino ha stoffa</E
+M>ha della s.</E

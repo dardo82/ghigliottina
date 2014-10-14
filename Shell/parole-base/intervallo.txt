@@ -1,0 +1,69 @@
+intervallo.txt
+"con un intervallo"
+"di intervallo"
+"durante l'intervallo"
+"intervallo"
+"intervallo delle linee di livello"
+"intervallo di confidenza"
+"intervallo di tempo"
+"intervallo musicale di due semitoni"
+"intervallo musicale di una semibreve"
+"intervallo tra i primi due trimestri di scuola"
+"intervallo; orario ridotto"
+"variazione di marea, intervallo di marea"
+*[[spazio]], [[spaziatura]], [[distanza]], [[interruzione]], [[ntermezzo]], [[interstizio]]
+*(di tempo) [[periodo]], [[arco]]
+*[[continuazione]], [[ripresa]], [[prosecuzione]], [[prolungamento]]
+*[[intervallare]]
+*''a intervalli''
+M>intervallum</E
+M>inter</E
+M>vallus</E
+M>tra colonna e colonna</E
+M>gli alberi sono piantati a intervalli di cinque metri l’uno dall’altro</E
+M>di ossatura</E
+M>maglia</E
+M>l’i</E
+M>fra un atto e l’altro</E
+M>fra la prima e la seconda parte</E
+M>fra il primo e il secondo tempo</E
+M>intervallo</E
+M>l’i</E
+M>tra due lezioni</E
+M>ci vediamo nell’i</E
+M>è suonato l’i</E
+M>seguire</E
+M>seguirsi</E
+M>succedersi a i</E
+M>regolari</E
+M>nelle chiamate interurbane</E
+M>il telefono squilla a i</E
+M>più brevi</E
+M>di accomodamento</E
+M>lucido i</E
+M>di lucidità</E
+M>è sempre irritato e bisogna aspettare che abbia un momento di lucido i</E
+M>per potergli parlare</E
+M>abbiamo da passar anco quel monte</E
+M> E qui non si può far troppo i</E
+M>segmento di retta</E
+M>euclidea</E
+M>estremi dell’intervallo</E
+M>intervallo</E
+M>chiuso</E
+M>centro dell’i</E
+M>ampiezza dell’i</E
+M>campo</E
+M>gamma</E
+M>di temperature</E
+M>di lunghezze d’onda</E
+M>l’i</E
+M>delle frequenze acustiche</E
+M>di confidenza</E
+M>tra due suoni puri</E
+M>di un tono</E
+M>di un semitono</E
+M>di seconda</E
+M>di terza</E
+M>di quarta</E
+M>di quarta</E

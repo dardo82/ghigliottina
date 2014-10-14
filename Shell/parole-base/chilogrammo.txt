@@ -1,0 +1,17 @@
+chilogrammo.txt
+"chilogrammo"
+* Paravia, ''[http
+M>chilo</E
+M> kilo-</E
+M>grammo</E
+M>chilogrammo campione</E
+M>chilo</E
+M>1 kg di pere</E
+M>3 kg di patate</E
+M>un bambino di 6 kg</E
+M>del peso di 6 kg</E
+M>di 6 kg di peso</E
+M>Chilogrammo</E
+M>massa</E
+M>Chilogrammo</E
+M>peso</E

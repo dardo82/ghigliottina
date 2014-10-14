@@ -1,0 +1,18 @@
+favola.txt
+"essere la favola della città"
+"favola"
+"favola"
+"favola"
+"favola"
+"favola della buona notte"
+"favola rosa"
+"posto da favola"
+*[[ fiaba]], [[racconto]], [[storia]], [[novella]]; [[leggenda]], [[mito]], [[apologo]]
+*[[parabola]]
+*[[ bugia]], [[invenzione]], [[menzogna]], [[fandonia]], [[frottola]], [[fola]] 
+*[[commedia]], [[dramma]]
+*[[verità]], [[vero]]
+* [[favolare]], [[favolatore]], [[favoloso]]
+*[[fiaba]]. La fiaba ha come protagonisti esseri umani ( principi, principesse) o di aspetto umano (fate, gnomi, ecc.), mentre la favola ha come protagonisti gli animali (la volpe, la rana ...ecc.)
+*italiano
+*spagnolo

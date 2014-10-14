@@ -1,0 +1,94 @@
+lampo.txt
+"aprire la chiusura lampo"
+"avere un lampo di genio"
+"cerniera a lampo"
+"chiudere con cerniera lampo"
+"chiusura lampo"
+"come un lampo"
+"diffondersi in un lampo"
+"in un lampo"
+"lampo"
+"lampo"
+"lampo"
+"lampo"
+"lampo di genio"
+"velocità lampo"
+#*'' quel rapinatore ha subito un processo 
+*[[fulmine]], [[baleno]], [[lampeggiamento]], [[folgore]]
+*[[lumaca]], [[tartaruga]]
+* [[saetta]]
+*''dopo il lampo viene il tuono''
+M>lampa</E
+M>lampare</E
+M>il bagliore</E
+M>il guizzare dei l</E
+M>un l</E
+M>illuminò improvvisamente la stanza buia</E
+M>Come sùbito l</E
+M>che discetti Li spiriti visivi</E
+M>Il giorno fu pieno di lampi</E
+M>dopo il l</E
+M>viene il tuono</E
+M>lineare</E
+M>diffuso</E
+M>lampeggiatori</E
+M>lunghi</E
+M>brevi</E
+M>di magnesio</E
+M>lampade lampo</E
+M>elettronico</E
+M>lampada a l</E
+M>di luce elettronico</E
+M>Lampo sismico</E
+M>il l</E
+M>delle bocche da fuoco</E
+M>il l</E
+M>delle spade</E
+M>Ecco d’arme improvvise uscirne un lampo Che sbigottì degli infedeli il campo</E
+M>ebbe un l</E
+M>sinistro negli occhi</E
+M>ebbe un l</E
+M>di speranza</E
+M>di gioia</E
+M>il l</E
+M>del sospetto gli attraversò la mente</E
+M>la verità mi si rivelò improvvisamente come un lampo</E
+M>avere un l</E
+M>di genio</E
+M>il l</E
+M>de’ manipoli</E
+M>E l’onda dei cavalli</E
+M>scappò via come un l</E
+M>come un fulmine</E
+M>fu lì lì per tradirsi</E
+M>ma fu un l</E
+M>e si riprese immediatamente</E
+M>la vita è un l</E
+M>passa come un lampo</E
+M>in un l</E
+M>ho fatto tutto in un l</E
+M>vado e torno in un l</E
+M>quest’ora m’è passata in un lampo</E
+M>chiusura</E
+M>lampo</E
+M>cerniera</E
+M>lampo</E
+M>telegramma</E
+M>lampo</E
+M>treno</E
+M>lampo</E
+M>treno rapido</E
+M>guerra</E
+M>lampo</E
+M>Blitzkrieg</E
+M>una visita</E
+M>lampo</E
+M>una telefonata</E
+M>lampo</E
+M>un’intervista</E
+M>lampo</E
+M>lampo</E
+M>chiusure</E
+M>lampo</E
+M>telegrammi</E
+M>lampo</E

@@ -1,0 +1,21 @@
+detenuto.txt
+"carcerato, detenuto"
+"detenuto"
+"detenuto"
+"detenuto"
+"detenuto"
+"ex detenuto"
+#* ''Il '''detenuto''' è stato trasferito in un altro carcere''
+*[[carcerato]], [[recluso]], [[galeotto]], [[prigioniero]]
+*[[detenere]], [[carcere]], [[prigione]]
+*italiano
+M>detenere</E
+M>l’imputato</E
+M>già d</E
+M>per altri reati</E
+M>evasione di un d</E
+M>di una d</E
+M>i d</E
+M>politici</E
+M>i d</E
+M>di Regina Coeli</E

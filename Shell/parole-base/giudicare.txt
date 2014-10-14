@@ -1,0 +1,75 @@
+giudicare.txt
+"a giudicare dalle apparenze"
+"giudicare"
+"giudicare"
+"giudicare"
+"giudicare"
+"giudicare, replace: giudicarsi"
+"giudicare colpevole"
+"giudicare in anticipo"
+"giudicare male"
+"non giudicare"
+"non giudicare dalle apparenze"
+*[[ritenere]]
+M>care</E
+M>iudex</E
+M>cis</E
+M>io giùdico</E
+M>tu giùdichi</E
+M>avere</E
+M>essere capace</E
+M>incapace di g</E
+M>con la testa propria</E
+M>ciò che è bene e ciò che è male</E
+M>l’occhio giudica dei colori</E
+M>l’orecchio dei suoni</E
+M>dall’apparenza</E
+M>mal si giudica il cavallo dalla sella</E
+M>a occhio e croce</E
+M>astenersi dal g</E
+M>la commissione lo ha giudicato idoneo</E
+M>un libro</E
+M>un quadro</E
+M>lo hai giudicato troppo severamente</E
+M>non vorrei che tu mi giudicassi male</E
+M>che tu giudicassi male i miei atti</E
+M>il mio comportamento</E
+M>si fa presto a g</E
+M>è troppo facile g</E
+M>gli altri</E
+M>l’opinione pubblica lo ha già giudicato</E
+M>non sta a te giudicarmi</E
+M>non hai il diritto di g</E
+M>delle mie azioni</E
+M>ti sei giudicato da te</E
+M>non giudicate e non sarete giudicati</E
+M>Luca</E
+M>non giudicate affinché non siate giudicati; infatti voi sarete giudicati con lo stesso giudizio col quale avrete giudicato</E
+M>Matteo</E
+M>una causa</E
+M>una lite</E
+M>una controversia</E
+M>di una causa</E
+M>il tribunale lo ha giudicato colpevole</E
+M>è stato giudicato dal tribunale militare</E
+M>il Duca</E
+M>molti di quelli cittadini punì in denari</E
+M>molti ne giudicò alle carceri</E
+M>molti all’esiglio</E
+M>ed alcuni alla morte</E
+M>ti giudico incapace di tanto</E
+M>lo giudicai un brav’uomo</E
+M>tutto quel che fai tu lo giudico ben fatto</E
+M>giudicò più opportuno tacere</E
+M>giudico che sia meglio attendere</E
+M>l’avrebbe giudicato a Venere</E
+M>giudica bene</E
+M>giudica male</E
+M>Onde refulge a noi Dio giudicante</E
+M>il tribunale</E
+M>il collegio</E
+M>l’organo giudicante</E
+M>il giudicante</E
+M>il giudicante</E
+M>sciolte Varie di caldi giovani contese</E
+M>Sorge dal foro</E

@@ -1,0 +1,454 @@
+per.txt
+" (percorso per la soluzione del conflitto israelo-palestinese)"
+"(di neve) bagnata; inadatta per sciare"
+"(moltiplicato) per"
+"(nel baseball) palla che viene lanciata per terra"
+"a proposito di, riguardo a, per quanto riguarda, per quanto concerne"
+"a prova di bambino (sicuro per i bambini, es: tappo di detersivo)"
+"a tu per tu"
+"abbastanza vicino per"
+"abbigliamento per bambini"
+"abbigliamento per bambini"
+"abbigliamento per il tempo libero"
+"accensione per compressione"
+"accessori per armi da fuoco"
+"acciaio per utensili"
+"acqua per bambini che allevia il dolore di stomaco"
+"acqua per il bucato"
+"acquisire per prelazione"
+"acquisti fatti per impulso"
+"acquisto per contanti"
+"adattato a\/per"
+"adatto per"
+"addebitare per"
+"additivo per carburanti"
+"addobbi per la tavola"
+"addobbo per vetrine"
+"adesivo per il paraurti posteriore"
+"bumper sticker"
+"adoperarsi per"
+"adoperarsi per"
+"aereo per trasporto merci"
+"affliggersi; addolorarsi per"
+"affliggersi; addolorarsi; piangere per"
+"agente investigativo federale (G per Government)"
+"aggiornato, continuo, ora per ora"
+"agire in nome e per conto"
+"agire per conto di"
+"agitarsi; eccitarsi per qcs."
+"ago per cucire"
+"album per fotografie"
+"alimenti per animali"
+"alla spicciolata, a piccoli gruppi, un po' per volta"
+"alloggiamento per valvola"
+"ambire a, sforzarsi di ottenere, lottare per"
+"amici per la pelle"
+"amico per corrispondenza"
+"ammorbidente per tessuti"
+"amore per Dio"
+"amore per la natura"
+"amore per la patria"
+"anche solo per"
+"ancora per molto tempo."
+"ancora per poco"
+"ancora per un po'"
+"andar bene per qualcuno"
+"andar per sentieri"
+"andare a pranzo, andare a mangiare, uscire per pranzo"
+"andare in offensiva, attaccare per primo"
+"andare pazzo per"
+"andare pazzo per"
+"andare pazzo per qc"
+"andare pazzo per qualcosa"
+"andare per acquisti di oggetti antichi"
+"andare per conto proprio"
+"andare per il sottile"
+"Andare per le lunghe"
+"andare per locali"
+"andare per mano"
+"andare per ordine"
+"andare per vie legali"
+"angosciarsi per"
+"annullare; sospendere una gara per il freddo"
+"apparecchiatura per registrare"
+"apparecchio per i denti"
+"apparecchio per riscaldamento a gas"
+"apparire per"
+"appellarsi a qn per qc"
+"applicatore per la tinta"
+"appropriato per"
+"area di attesa per aeroplani"
+"argilla per modellare"
+"armadio per la biancheria"
+"armadio per la biancheria"
+"armata, pronta per salpare (nave)"
+"armatura per illuminazione"
+"arnese per frantumare"
+"arredamento per sala da pranzo"
+"arrendersi; darsi per vinto"
+"articoli per la casa"
+"articolo per articolo"
+"asciugamano per il viso"
+"asciugatura per capi delicati"
+"aspettare per un lungo periodo"
+"assicella per rivestimento di ambienti esterni"
+"assicurazione per responsabilità"
+"assistente per le battute"
+"Associazione per la difesa della natura e  salvaguardia di posti di interesse artistico e storico"
+"astuccio per le matite"
+"attrezzature per il tempo libero"
+"attrezzature per la stampa"
+"attrezzi per tagliare"
+"attrezzo per modellare"
+#*''Sono passato '''per''' il centro''
+#*''Camminava ansiosamente '''per''' la stanza''
+#*''Questo è il treno '''per''' Londra''
+#*''C'era un uomo sdraiato '''per''' terra
+#*''Ho studiato '''per''' tre ore''
+#*''Sei molto dotato '''per''' la matematica''
+#*''Te lo invio '''per''' posta''
+#*''Tremava '''per''' il freddo''
+#*''Mi sono arruolato '''per''' la gloria''
+#*''Ma io l'ho fatto '''per''' te!''
+#*''É bravo, '''per''' un novizio''
+#*''Le cose non spariscono '''per magia'''!''
+#*''Te lo vendo '''per''' appena trecento euro''
+#*''Lo inseguii '''per''' 20 km''
+#*''Si legge "otto '''per''' tre ventiquattro" e si scrive 8 ·3=24''
+*(moto per luogo)[[attraverso]], [[lungo]]
+* (moto a luogo)[[verso]], in direzione di
+*(stato in luogo)[[in]]
+*(tempo)[[durante]]
+* a causa di
+* con lo scopo di, al fine di
+*a vantaggio di, a favore di
+*(mezzo, prezzo) [[a]]
+*(limitazione) [[secondo]], quanto a
+*[[per-]], [[pel]], [[pello]], [[pella]], [[pei]], [[pegli]], [[stare per]], [[per di più]], [[per lo meno]], [[per lo più]]
+* ''essere per''
+*''per [[amore]] [[anche]] una [[donna]] onesta, può [[perdere]] la [[testa]]''
+#*''$5 '''per''' person''
+#*''Pater exit '''per''' ostium''
+*italiano
+*bretone
+*inglese
+* danese
+* esperanto
+* ungherese
+* latino
+* lombardo
+* romancio
+* svedese
+M>pel</E
+M>pei</E
+M>pe&#8217;</E
+M>pegli</E
+M> pella</E
+M>pelle</E
+M>pello</E
+M>per</E
+M>per altra via</E
+M>per altri porti Verrai a piaggia</E
+M>entrai per l&#8217;unico varco che c&#8217;era nella muraglia</E
+M>la luce</E
+M>l&#8217;aria che penetra per le fessure</E
+M>una medicina che si prende per bocca</E
+M>e il così dire e il dargli di questa lancia per lo petto fu una cosa</E
+M>essere per via</E
+M>le rette che passano per il punto A</E
+M>mille pensieri gli passavano per la testa</E
+M>passò per il corridoio</E
+M>il corteo passerà per via Nazionale</E
+M>la strada corre per 20 km parallela alla costa</E
+M>la strada per 10 km è in pessimo stato</E
+M>per un lungo tratto la costa è bassa e sabbiosa</E
+M>O frati</E
+M>dissi</E
+M>che per cento milia Perigli siete giunti a l&#8217;occidente</E
+M>ci sono arrivato per intuizione</E
+M>per induzione</E
+M>per deduzione</E
+M>procedere per gradi</E
+M>per tentativi</E
+M>lungo</E
+M>secondo</E
+M>scendere per la china</E
+M>per il pendìo</E
+M>presero per i campi</E
+M>zitti</E
+M>zitti</E
+M>pensando ognuno a&#8217; casi suoi</E
+M>andiamo per ordine</E
+M>per ordine alfabetico</E
+M>per ordine d&#8217;arrivo</E
+M>per grado</E
+M>per anzianità</E
+M>giù per le scale</E
+M>su per il monte</E
+M>per l&#8217;ingiù</E
+M>per l&#8217;insù</E
+M>per fila destra</E
+M>per fila sinistra!</E
+M>passeggiare</E
+M>girare per la città</E
+M>andare</E
+M>viaggiare</E
+M>cercare</E
+M>per monti e per valli</E
+M>le quali</E
+M>nelle braccia e per le cosce</E
+M>apparivano a molti</E
+M>avere dolori per le ossa</E
+M>per tutto il corpo</E
+M>per tutto</E
+M>da per tutto</E
+M>dappertutto</E
+M>terra</E
+M>aria</E
+M>mare</E
+M>viaggiare per terra</E
+M>per mare</E
+M> andare</E
+M> mettersi per mare</E
+M>la città era assediata per terra e per mare</E
+M>cercare per mare e per terra</E
+M> stare seduto per terra; starsene con le gambe per aria</E
+M>sono in partenza per Napoli</E
+M>il treno per Milano parte dal binario 8</E
+M>gli emigranti che partono per l&#8217;America</E
+M>mandare per un dottore</E
+M>andare per cicoria</E
+M>per lumache</E
+M>per funghi</E
+M>per mirtilli</E
+M>lascia che vada per i fatti suoi</E
+M>è stato assente da scuola per venti giorni consecutivi</E
+M>sono stato suo socio per tre anni</E
+M>lo ricorderò per tutta la vita</E
+M>durerà per secoli e secoli</E
+M>il vestito sarà pronto per lunedì</E
+M>spero di finire il lavoro per la prossima estate</E
+M>tornerò a casa per le feste</E
+M>tenere in serbo per l&#8217;inverno</E
+M>sta preparando la cena per i figli</E
+M>c&#8217;è una lettera</E
+M>un telegramma</E
+M> un&#8217;e-mail per te</E
+M>avere</E
+M>sentire</E
+M>provare</E
+M>amore</E
+M>odio</E
+M>disprezzo</E
+M>ammirazione per qualcuno</E
+M>avere disposizione per la musica</E
+M>per la pittura</E
+M>si studia per la vita</E
+M> non per la scuola</E
+M>è disposta a fare qualunque cosa per lui</E
+M>per i figli farebbero qualunque sacrificio</E
+M>lo faccia per me</E
+M>prega per noi</E
+M>votare per un partito</E
+M>combattere</E
+M>morire per la patria</E
+M>la partita si è conclusa con il punteggio di 3 a 1 per il Napoli</E
+M>buon per lui</E
+M>mal per lui</E
+M>tanto meglio</E
+M>peggio</E
+M> per lui</E
+M>non fa per te</E
+M>non è pane per i tuoi denti</E
+M>è proprio quello che ci vuole per lui</E
+M>è utile per chi voglia</E
+M>è pericoloso per loro</E
+M>sarebbe davvero un piacere per me</E
+M>è uno stipendio misero per i tempi che corrono</E
+M>è un esercizio troppo difficile per te</E
+M>il primo altare a destra per chi entra in chiesa</E
+M>l&#8217;ingresso è al secondo cancello per chi viene dalla piazza</E
+M>troppo</E
+M>sei troppo grande per giocare con le bambole</E
+M>è troppo gentile per non rispondere</E
+M>avere</E
+M>tenere</E
+M> prendere</E
+M>dare</E
+M>prendere per moglie</E
+M>avere per maestro</E
+M>ancor ti priega</E
+M>O santo petto</E
+M>che per tua la tegni</E
+M>tutti l&#8217;avevano</E
+M>lo tenevano</E
+M>per un sant&#8217;uomo</E
+M>se continui a parlare così</E
+M>ti prenderanno per matto</E
+M>mi prendi forse per un imbecille?</E
+M>dare qualcuno per morto</E
+M>dare</E
+M>versare per cauzione</E
+M>per caparra</E
+M>per compenso</E
+M>come</E
+M>in qualità di</E
+M>tenere per certo</E
+M>per fermo</E
+M>dare per letto</E
+M>per dimostrato</E
+M>per me</E
+M>per conto mio</E
+M>per parte mia</E
+M>per quel che mi riguarda</E
+M>per quanto sta in me</E
+M>per quello che ne so</E
+M>per quanto mi è noto</E
+M>per quel che si dice</E
+M>per essere</E
+M>per essere intelligente</E
+M>lo è</E
+M>per essere bella</E
+M> è bella</E
+M>per essere il direttore</E
+M> è molto democratico</E
+M>invece di</E
+M>prendere una cosa per un&#8217;altra</E
+M>prendere fischi per fiaschi</E
+M>sono venuto io per lui</E
+M>arrossisco io per loro</E
+M>per tutta risposta gli diede un ceffone</E
+M>comprare per denaro</E
+M>puoi acquistarlo per una manciata di euro</E
+M>ve lo do per poco</E
+M>per pochi soldi</E
+M>l&#8217;ho avuto per una sciocchezza</E
+M>ha subìto perdite per svariate migliaia di euro</E
+M>se si decide di fare una colletta</E
+M>io posso partecipare</E
+M>io ci sto</E
+M>per 50 euro.</E
+M>intendere</E
+M>s&#8217;intende per frazione decimale una frazione che abbia come denominatore dieci o una potenza di dieci</E
+M>uno per ogni persona</E
+M>un bicchiere per volta</E
+M>mezzo litro per pasto</E
+M>mettersi in fila per tre</E
+M>per quattro</E
+M>occhio per occhio</E
+M>dente per dente</E
+M>il due per cento</E
+M>mese per mese</E
+M>ho letto pagina per pagina</E
+M>riga per riga</E
+M>ha cercato stanza per stanza</E
+M>dividere</E
+M>moltiplicare</E
+M>dividere</E
+M>moltiplicare per cinque</E
+M>moltiplicare</E
+M>per</E
+M>moltiplicato per</E
+M>a × b</E
+M>a per b</E
+M>prendere per mano</E
+M>per il naso</E
+M>per il braccio</E
+M>per il bavero</E
+M>per la falda dell&#8217;abito</E
+M>tirare per i capelli</E
+M>per litteras</E
+M>per nuntios</E
+M>mi fece sapere per la sua segretaria</E
+M>spedire per posta</E
+M>per lettera</E
+M>per corriere</E
+M> per fax</E
+M> per e-mail</E
+M>Ed ecco verso noi venir per nave Un vecchio</E
+M>per mezzo di</E
+M>era livido per la rabbia</E
+M>sgranò gli occhi per la meraviglia</E
+M>stava a testa bassa per la vergogna</E
+M>non vorrei che stesse in pena per me</E
+M>per amore o per forza</E
+M>ragione per cui</E
+M>per ciò</E
+M>per il che</E
+M>per lo che</E
+M>per la qual cosa</E
+M>per ciò che</E
+M>per il fatto che</E
+M>per via che</E
+M>è stato multato per avere omesso la denuncia</E
+M>Né li gravò viltà di cuor le ciglia Per esser fi&#8217; di Pietro Bernardone</E
+M>par</E
+M>è stato fatto tutto ciò che per noi si poteva</E
+M>Intanto voce fu per me udita</E
+M>credesi per molti filosofanti che</E
+M>impresso a Firenze per X.Y. tipografo e libraio</E
+M>lo faccio per il tuo bene</E
+M>lo dico per tua informazione</E
+M>ho già preparato tutto ciò che mi occorre per il viaggio</E
+M>prendi questi soldi per le piccole spese</E
+M>si fece avanti per parlarmi</E
+M>ce ne volle per convincerlo</E
+M>andrò qualche giorno in campagna per riposarmi</E
+M>tu parli soltanto per parlare</E
+M>non dico per dire</E
+M>non lo dico per vantarmi</E
+M>ella non ci può</E
+M>per potere ch&#8217;ella abbia</E
+M>nuocere</E
+M>per poco che sia</E
+M>per grave che sia</E
+M>per quanto faccia non riuscirà mai</E
+M>per quanto</E
+M>sebbene</E
+M>per gridar che io facessi nessuno mi rispondeva</E
+M>per l&#8217;amor di Dio</E
+M>per l&#8217;amor del Cielo</E
+M>per le anime sante del purgatorio</E
+M>per Dio</E
+M>per Giove</E
+M>per Bacco</E
+M>per Diana</E
+M>Per le nove radici d&#8217;esto legno Vi giuro</E
+M>giuro per l&#8217;anima mia</E
+M>stare</E
+M>stavo per rispondergli male</E
+M>sto per partire</E
+M>sono spettacoli</E
+M>starei per dire</E
+M>veramente osceni</E
+M>essere</E
+M>ero proprio per scattare!</E
+M>per lungo</E
+M>per largo</E
+M>per coltello</E
+M>per costa</E
+M>per diritto</E
+M>per traverso</E
+M>per fianco</E
+M>per ora</E
+M>per l&#8217;innanzi</E
+M>per l&#8217;addietro</E
+M>per l&#8217;avvenire</E
+M>per tempo</E
+M>pertempo</E
+M>pertempissimo</E
+M>per certo</E
+M>per fermo</E
+M>per l&#8217;appunto</E
+M>per conseguenza</E
+M>per contro</E
+M>per altro</E
+M> per caso</E
+M>per combinazione</E
+M>per solito</E
+M>per poco</E
+M>per poco non cadde</E
+M>per lo più</E
+M>per lo meno</E
+M>per modo di dire</E
+M>per esempio</E

@@ -1,0 +1,118 @@
+buttare.txt
+"avere soldi da buttare, avere soldi da buttare via"
+"buttare"
+"buttare"
+"buttare"
+"buttare"
+"buttare"
+"buttare"
+"buttare dentro"
+"buttare dentro"
+"buttare fuori"
+"buttare fuori"
+"buttare giù di morale; intristire"
+"Buttare giù due righe"
+"buttare giù qc"
+"buttare giù qc"
+"buttare giù; deprimere"
+"buttare indietro"
+"buttare indietro i capelli"
+"buttare per aria"
+"buttare qc all'aria"
+"buttare qc in faccia a qn"
+"buttare qcs in ridere"
+"buttare qualcuno giù dal piedistallo"
+"buttare sangue"
+"buttare via"
+"buttare via"
+"buttare via un'occasione"
+"buttare via, liberarsi di"
+"buttare via, liberarsi di"
+"buttare via, liberarsi di"
+"Buttare\/gettare alle ortiche"
+"da buttare"
+"farsi buttare giù; collassare"
+"scrivere, buttare giù"
+*[[gettare]]
+*[[raccogliere]]
+*[[buttadentro]], [[buttafuoco]], [[buttafuori]]
+M>bouter</E
+M>botar</E
+M>tan</E
+M>gettare</E
+M>in aria</E
+M>a terra</E
+M>dentro</E
+M>fuori</E
+M>contro il muro</E
+M>all’aria</E
+M>buttarsi dietro alle spalle</E
+M>buttarsi addosso</E
+M>la colpa addosso a qualcuno</E
+M>in mezzo a una strada</E
+M>buttar fuori</E
+M>se hai delle accuse da farmi</E
+M>buttale fuori</E
+M>buttò là una proposta</E
+M>senza parere</E
+M>via</E
+M>butta via quella sigaretta!</E
+M>non è roba da buttar via</E
+M>butta via i soldi come se ne avesse d’avanzo</E
+M>buttare</E
+M>perché butti il denaro?</E
+M>il tempo</E
+M>il fiato</E
+M>la fatica</E
+M>giù</E
+M>è stato buttato giù il muro perché era pericolante</E
+M>mi butta giù la roba sperando che gliela venda a meno prezzo</E
+M>la malattia lo ha buttato giù molto</E
+M>basta la minima delusione per buttarlo giù</E
+M>questa medicina è così amara che non mi riesce di buttarla giù</E
+M>buttò giù un boccone alla svelta e uscì</E
+M>questa non la posso proprio buttar giù</E
+M>mandare giù</E
+M>buttar giù un articolo</E
+M>una lettera</E
+M>buttarsi dalla finestra</E
+M>buttarsi in mare</E
+M>ci siamo fatti prestare le tavole da due pischelli e ci siamo buttati tra le onde alte</E
+M>buttarsi sul letto</E
+M>buttarsi in ginocchio</E
+M>buttarsi addosso a</E
+M>contro qualcuno</E
+M>buttarsi ai piedi</E
+M>nelle</E
+M>fra le</E
+M> braccia di qualcuno</E
+M>s’è buttato a lavorare di buzzo buono</E
+M>buttarsi a capofitto in un’impresa</E
+M>buttarsi</E
+M>buttarsi al vino</E
+M>al gioco</E
+M>al vizio</E
+M>in seno alla disperazione</E
+M>buttarsi alla strada</E
+M>buttarsi alla macchia</E
+M>esser disposto a buttarsi nel fuoco per qualcuno</E
+M>buttarsi ammalato</E
+M>buttarsi via</E
+M>buttarsi giù</E
+M>buttarsi</E
+M>buttar giù la pasta</E
+M>gettare</E
+M>fiamme</E
+M>fumo</E
+M>vapore</E
+M>sangue</E
+M>il vitellino ha buttato le corna</E
+M>la fontana oggi butta poco</E
+M>un colore che butta al rosso</E
+M>il tempo s’è buttato a buono</E
+M>a neve</E
+M>a pioggia</E
+M>come ti butta?</E
+M>gli butta bene a lui</E
+M>gli butta male</E
+M>la faccenda butta male</E

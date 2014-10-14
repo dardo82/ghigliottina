@@ -1,0 +1,108 @@
+nemico.txt
+"acerrimo nemico"
+"aeroplano nemico"
+"il Nemico"
+"il Nemico Comune"
+"nemico"
+"nemico"
+"nemico"
+"nemico acerrimo"
+"nemico pubblico"
+#*''quei due sono sempre stati nemici'', si sono sempre odiati
+#* ''Il nemico è stato sconfitto in battaglia''.
+#* ''la [[sorte]] ci è nemica'', non siamo fortunati
+*''(di persona)'' [[avversario]], [[ostile]], [[avverso]], [[contrario]]
+*''(di persona)'' [[amico]], [[benevolo]], [[favorevole]] 
+*''silenzio il nemico ti ascolta''
+M>inim</E
+M>cus</E
+M>cus</E
+M>amico</E
+M>dichiarato</E
+M>giurato</E
+M>implacabile</E
+M>capitale</E
+M>essere</E
+M>farsi</E
+M>diventare n</E
+M>di qualcuno</E
+M>mi è sempre stato n</E
+M>gli divenne n</E
+M>se si trovava assolutamente costretto a prender parte tra due contendenti</E
+M> stava col più forte</E
+M> ... procurando di far vedere all’altro ch’egli non gli era volontariamente n</E
+M>siamo sempre stati n</E
+M>noi due</E
+M>sono nemiche per rivalità professionali</E
+M>è un mio n</E
+M>è un n</E
+M>della nostra famiglia</E
+M>perdonare ai nostri n</E
+M>non ha mai avuto nemici</E
+M>dagli amici mi guardi Iddio</E
+M> ché dai n</E
+M>mi guardo io</E
+M>molti n.</E
+M> molto onore</E
+M>quo plures hostes</E
+M> tanto maior honor</E
+M>pubblico</E
+M>pericolo pubblico</E
+M>pubblico numero uno</E
+M>public enemy number one</E
+M>hostis</E
+M>l’assalto dei n</E
+M>l’assalto nemico</E
+M>vincere</E
+M>sconfiggere i n</E
+M>un n</E
+M>potente</E
+M>ben preparato</E
+M>invincibile</E
+M>il n</E
+M>avanza</E
+M>contrattacca</E
+M>è stato respinto</E
+M>passare al n</E
+M>darsi al n</E
+M>corrispondenza</E
+M>intelligenza col n</E
+M>taci! il n</E
+M>ti ascolta</E
+M>a n</E
+M>che fugge ponti d’oro</E
+M>la nemica</E
+M>De la dolce et acerba mia n</E
+M>il n</E
+M>l’avversario</E
+M>dare l’anima al n</E
+M>Pluto</E
+M> il gran nemico</E
+M>essere n</E
+M>della verità</E
+M>della menzogna</E
+M>dell’ipocrisia</E
+M>dei discorsi</E
+M>delle discussioni inutili</E
+M>è sempre stato n</E
+M>d’ogni compromesso</E
+M>essere n</E
+M>del fumo</E
+M>dell’alcol</E
+M>è un n</E
+M>dell’acqua</E
+M>femine del corpo bellissime ma nemiche dell’onestà</E
+M>contegno</E
+M>intenzioni</E
+M>propositi n</E
+M>quel parlar che mi parea nemico</E
+M>l’incursione aerea ha distrutto impianti nemici</E
+M>ricognizione delle posizioni n</E
+M>l’aviazione</E
+M>l’artiglieria nemica</E
+M>avere la fortuna n</E
+M>la sorte gli fu n</E
+M>a chi governa È n</E
+M>la lanterna Che portò Diogene</E
+M>il meglio è n</E
+M>del bene</E

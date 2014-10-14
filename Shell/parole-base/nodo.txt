@@ -1,0 +1,198 @@
+nodo.txt
+"cappio, nodo scorsoio"
+"nodo"
+"nodo"
+"nodo"
+"nodo"
+"nodo"
+"nodo"
+"nodo"
+"nodo a otto"
+"nodo a pugno di scimmia"
+"nodo ascendente"
+"nodo d'amore"
+"nodo di cravatta"
+"nodo di cravatta"
+"nodo gordiano"
+"nodo piano"
+"nodo scorsoio"
+"nodo viario e commerciale"
+*(di corda, filo, ecc.) [[legatura]], [[nastro]], [[annodamento]], [[annodatura]]
+*(di strade, percorsi) [[incrocio]], [[crocevia]]
+*[[nodoso]], [[nodale]], [[linfonodo]], [[snodoso]], [[snodo]]
+*[[snodo]], [[svincolo]]
+*''piccolo ago scioglie stretto 
+*''la seta non tiene il 
+M>dus</E
+M>fare</E
+M>disfare</E
+M>sciogliere</E
+M>stringere un n</E
+M>un n</E
+M>semplice</E
+M>doppio</E
+M>scorsoio</E
+M>inestricabile</E
+M>gordiano</E
+M>farsi il n</E
+M>alla cravatta</E
+M>serrare la sciarpa con un n</E
+M>sul petto; fissarsi il foulard con un n</E
+M>sotto il mento</E
+M>sciogliere il n</E
+M>della cintura</E
+M>farsi un n</E
+M>al fazzoletto</E
+M>merletto a nodi</E
+M>antico</E
+M>punto Palestrina</E
+M>punto a nodi</E
+M>da pescatore</E
+M>da tessitore</E
+M>quadro</E
+M>doppio</E
+M>chirurgico</E
+M>semplice</E
+M>diamante</E
+M>bottone</E
+M>margherita</E
+M>di Savoia</E
+M>d’amore</E
+M>a otto</E
+M>del frate</E
+M>del cappuccino</E
+M>piano</E
+M>inglese</E
+M>del pescatore</E
+M>vaccaio</E
+M>di tonneggio</E
+M>di matafione</E
+M>di scotta</E
+M>gruppo di bandiera</E
+M>a bocca di lupo</E
+M>parlato</E
+M>gruppo</E
+M>d’ancorotto</E
+M>gassa d’amante</E
+M>delle guide</E
+M>delle guide con frizione</E
+M>Bulin</E
+M>di Bulin</E
+M>Bulin doppio</E
+M>infilato</E
+M>a contrasto</E
+M>del barcaiolo</E
+M>barcaiolo</E
+M>mezzo barcaiolo</E
+M>autobloccanti</E
+M>Prusik</E
+M>Marchand</E
+M>valdostano</E
+M>Bachmann</E
+M>inglese</E
+M>piano</E
+M>fettuccia</E
+M>districare i n</E
+M>dei capelli</E
+M>tutti i n</E
+M>vengono al pettine</E
+M>Erano i capei d’oro a l’aura sparsi Che ’n mille dolci n</E
+M> gli avolgea</E
+M>dalla nuca i capelli</E
+M>come ravvolti in una spira</E
+M>piegavano al sommo della testa e vi formavano un nodo</E
+M>d’amore</E
+M>di Savoia</E
+M>Savoia</E
+M>segno</E
+M>sigillo</E
+M>di Salomone</E
+M>egli</E
+M>i tristi nodi Disgroppar con le man tentava indarno</E
+M>clinch</E
+M>corpo a corpo</E
+M>nodo di vento</E
+M>nodo d’acqua</E
+M>il n</E
+M>dell’amicizia</E
+M>dell’amore</E
+M>l’amoroso n</E
+M>il dolce n</E
+M>maritale</E
+M>coniugale</E
+M>matrimoniale</E
+M>legarsi d’amore con indissolubile n</E
+M>i n</E
+M>familiari</E
+M>i n</E
+M>di parentela</E
+M>il n</E
+M>sociale</E
+M>nesso</E
+M>nexum</E
+M>tre anni dopo finalmente per la legge Petilia fu sciolto affatto il diritto eroico del nodo: onde poté tutta surgere</E
+M>la libertà popolare</E
+M>di pianto</E
+M>di tosse</E
+M>in gola</E
+M>alla gola</E
+M>mi sentivo un n</E
+M>in gola</E
+M>gli venne come un n</E
+M>alla gola</E
+M>fare n</E
+M>alla gola</E
+M>i n</E
+M>di un romanzo</E
+M>di una tragedia</E
+M>di un melodramma</E
+M>la soluzione di un n</E
+M>dei n</E
+M>la novità del poema</E
+M>consiste nella novità del n</E
+M>e dello scioglimento della favola</E
+M>è questa la situazione che forma il n</E
+M>del romanzo</E
+M>all’Orlando Furioso manca il n</E
+M>epico</E
+M>è questo il n</E
+M>della questione</E
+M>i n</E
+M>di una vertenza sindacale</E
+M>issa vegg’io</E
+M>diss’elli</E
+M>il nodo Che ’l Notaro e Guittone e me ritenne Di qua dal dolce stil novo</E
+M>c’era ancora quel n</E
+M>del voto</E
+M>e più stretto che mai</E
+M>l’Europa intende che la questione italiana è n</E
+M>fatale</E
+M>se non disciolto</E
+M>del legno</E
+M>embrionale</E
+M>cefalico</E
+M>di Hensen</E
+M>del seno</E
+M>seno</E
+M>atriale</E
+M>linfatico</E
+M>linfonodo</E
+M>nodosità</E
+M>stradale</E
+M>ferroviario</E
+M>Nodi dell’eclittica</E
+M>punti equinoziali</E
+M>equinozî</E
+M>ascendente</E
+M>discendente</E
+M>punto gamma</E
+M>punto vernale</E
+M>Linea dei n</E
+M>orografico</E
+M>idrografico</E
+M>punto nodale</E
+M>legge</E
+M>principio</E
+M>dei n.</E
+M>nodi di elaborazione</E
+M>la nave filava a 20 nodi</E

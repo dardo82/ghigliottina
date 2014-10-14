@@ -1,0 +1,35 @@
+gancio.txt
+"gancio"
+"gancio"
+"gancio"
+"gancio"
+"gancio (basket)"
+"gancio per rimorchio"
+"gancio superiore"
+*[[ganciata]]
+* [[agganciare]]
+M>kanca</E
+M>kan</E
+M>di sospensione</E
+M>semplice</E
+M>doppio</E
+M>a favone</E
+M>di traino</E
+M>di rimorchio</E
+M>di trazione</E
+M>a scocco</E
+M>automatico</E
+M>gancio d’accosto</E
+M>alighiero</E
+M>gaffa</E
+M>d’arresto</E
+M>di appontaggio</E
+M>Gancio d’assedio</E
+M>Gancio rompispada</E
+M>petto</E
+M>schiena</E
+M>destro</E
+M>sinistro</E
+M>uncino</E
+M>crochet</E
+M>hook</E

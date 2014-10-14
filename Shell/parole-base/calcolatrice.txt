@@ -1,0 +1,19 @@
+calcolatrice.txt
+"calcolatrice"
+* [[calcolatore]]
+* [[calcolatrice scientifica]], [[calcolatrice commerciale]]
+* [[calcolo]], [[conto]], [[elettronica]], [[informatica]], [[tasto]], [[matematica]], [[aritmetica]]
+M>addizionatrice</E
+M>a mano</E
+M>elettrica</E
+M>elettronica</E
+M>tascabile</E
+M>minicalcolatrice</E
+M>c. a batteria solare</E
+M>stampante</E
+M>non stampante</E
+M>programmabile</E
+M>automatica</E
+M>macchine pesatrici c</E
+M>calcolatrice</E
+M>calcolatore</E

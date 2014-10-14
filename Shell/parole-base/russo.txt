@@ -1,0 +1,46 @@
+russo.txt
+"grande russo"
+"russo"
+"russo"
+"nativo, cittadino russo"
+"russo"
+*[[bianco-russo]], [[bielorusso]]
+*italiano
+*napoletano
+M>Russus</E
+M>Rus&#8217;</E
+M>Rossija</E
+M>ras&#8217;ìeë</E
+M>russo</E
+M>il popolo r</E
+M>il territorio r</E
+M>l&#8217;impero r</E
+M>la politica r</E
+M>zarista</E
+M>usanze</E
+M>tradizioni r</E
+M>l&#8217;arte</E
+M>la letteratura r</E
+M>la lingua r</E
+M>il russo</E
+M>sapere</E
+M>studiare il russo</E
+M>berretto r</E
+M>alla russa</E
+M>camicia</E
+M>casacca r</E
+M>alla russa</E
+M>insalata r</E
+M>all&#8217;italiana</E
+M>uova alla russa</E
+M>montagne r</E
+M>roulette r</E
+M>duello alla r</E
+M>Repubblica Russa</E
+M>Federazione Russa.</E
+M>un russo</E
+M>una russa</E
+M>una comitiva di russi.</E
+M>Russo bianco</E
+M>Russi bianchi</E
+M>rossi</E

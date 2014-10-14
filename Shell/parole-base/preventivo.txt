@@ -1,0 +1,64 @@
+preventivo.txt
+"bilancio preventivo"
+"carcere preventivo"
+"concordato preventivo"
+"fare un preventivo"
+"fare un preventivo"
+"fare un preventivo di spesa"
+"mettere in preventivo"
+"preventivo"
+"preventivo"
+"preventivo"
+*[[anticipato]], [[cautelativo]], [[precauzionale]], [[prudenziale]]
+*calcolo anticipato, [[valutazione]], [[stima]], [[costo]], [[spesa]]
+*[[conto]], [[saldo]] 
+*[[avviso preventivo]], [[preventivamente]]
+M>praeventus</E
+M>praevenire</E
+M>medicina p</E
+M>cura</E
+M>terapia</E
+M>profilassi p</E
+M>misure p</E
+M>provvedimenti p</E
+M>esercitare la censura p</E
+M>custodia</E
+M>carcerazione p</E
+M>carcere p</E
+M>istruzione</E
+M>istruttoria p</E
+M>accertamento tecnico p</E
+M>ispezione giudiziale p</E
+M>calcolo p</E
+M>preventivo</E
+M>fare un calcolo p</E
+M>un p</E
+M>delle spese</E
+M>degli incassi</E
+M>farsi fare un p</E
+M>per l&#8217;impianto di riscaldamento</E
+M>mi sono fatto fare un p</E
+M>dal dentista</E
+M>bilancio p.</E
+M>preventivo</E
+M>bilancio p</E
+M>di previsione</E
+M>di cassa</E
+M>di competenza</E
+M>economico</E
+M>finanziario</E
+M>di costo e spese</E
+M>di esercizio</E
+M>d&#8217;impianto</E
+M>di vendita</E
+M>di netto ricavo</E
+M>di cassa</E
+M>essere in</E
+M>nel</E
+M>questo contrattempo non era in p</E
+M>mettere in p</E
+M>devi mettere in p</E
+M>almeno tre ore di viaggio</E
+M>al film è stata preventivamente applicata una rigida censura</E
+M>non devi mangiare la frutta senza averla preventivamente lavata</E
+M>vorrei sapere preventivamente a quali rischi ci esponiamo</E

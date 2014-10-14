@@ -1,0 +1,6 @@
+mestruazione.txt
+"mestruazione"
+*[[pseudomestruazione]]
+* [[mestruare]], [[menarca]], [[menopausa]]
+M>menarca</E
+M>menopausa</E

@@ -1,0 +1,77 @@
+ritardo.txt
+"arrivo in ritardo"
+"di ritardo"
+"essere in ritardo"
+"essere in ritardo"
+"giorni di ritardo"
+"il treno porta un ritardo di"
+"in ritardo"
+"multa per ritardo"
+"recuperare il ritardo"
+"rimanere indietro; arrivare in ritardo"
+"ritardo"
+"ritardo"
+"ritardo"
+"ritardo mentale"
+"senza ingiustificato ritardo"
+"senza ritardo"
+"senza ulteriore ritardo"
+*[[anticipo]]
+*[[ritardare]]
+M>nel venire</E
+M>nel presentarsi</E
+M>nel pagare</E
+M>nell&#8217;effettuare un lavoro</E
+M>nel restituire un prestito</E
+M>il direttore lo rimproverò per il r</E
+M>scusami del r</E
+M>questa volta il r</E
+M>non è dipeso da me</E
+M>involontario</E
+M>forzato</E
+M>un lieve</E
+M>grave r</E
+M>del treno</E
+M>della corriera</E
+M>della posta</E
+M>del giornale</E
+M>della guarigione</E
+M>arrivare</E
+M>venire in r</E
+M>essere in r</E
+M>sei in r</E
+M>di due ore</E
+M>questo treno arriva spesso in ritardo</E
+M>venne con molto r</E
+M>ha pagato con due mesi di r</E
+M>riguadagnare il r</E
+M>occorre provvedere senza r</E
+M>un r</E
+M>potrebbe riuscire fatale</E
+M>ritardare</E
+M>provocare il r</E
+M>di un motore</E
+M>di una macchina</E
+M>di un congegno</E
+M>ritardo del gioco</E
+M>di marea</E
+M>ritardi</E
+M>semplici</E
+M>doppî</E
+M>tripli</E
+M>ascendenti</E
+M>discendenti</E
+M>provinciale</E
+M>mentale</E
+M>linea di r</E
+M>linee di r</E
+M>passive</E
+M>linee di r</E
+M>attive</E
+M>generatori di r</E
+M>R. ottico</E
+M>angolo di r</E
+M>angolo di ritardazione</E
+M>preparato ritardo</E
+M>retard</E
+M>azione ritardo</E

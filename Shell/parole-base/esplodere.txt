@@ -1,0 +1,42 @@
+esplodere.txt
+"esplodere"
+"esplodere, fiorire"
+"far esplodere"
+"far esplodere"
+"far esplodere"
+"far esplodere"
+"lo scoppiare; l'esplodere"
+"scoppiare; esplodere"
+*[[sparare]]
+*[[esploditore]], [[esplosione]], [[esplosivo]]
+M>explod</E
+M>plaud</E
+M>esplò</E
+M>esplodésti</E
+M>esplò</E
+M>essere</E
+M>avere</E
+M>è esplosa una mina</E
+M>la cartuccia</E
+M>il deposito di munizioni</E
+M>il fucile non ha esploso</E
+M>essere</E
+M>lo ascoltai per lungo tempo senza reagire</E
+M>ma alla fine esplosi</E
+M>non ne ho potuto più e sono esploso</E
+M>Basta!</E
+M>esplose</E
+M>e se ne andò sbattendo la porta</E
+M>la crisi è esplosa dall’oggi al domani</E
+M>il malcontento della popolazione è esploso in tutta la sua forza</E
+M>gli esplose contro due colpi di pistola</E
+M>materie esplodenti</E
+M>gli esplodenti</E
+M>esplosivo</E
+M>esplodente</E
+"name": "che mi esaspera fino ad esplodere la realt\u00e0 in molteplici \"adesso\"."
+"name": "che mi esaspera fino ad esplodere la realt\u00e0 in molteplici \"adesso\"."
+"name": "Ho fatto esplodere il mio condominio di merda"
+"name": "Ho fatto esplodere il mio condominio di merda"
+"name": "Tutto vuole esplodere"
+"name": "Tutto vuole esplodere"

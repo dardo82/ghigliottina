@@ -1,0 +1,355 @@
+onore.txt
+"a tuo onore"
+"con onore"
+"congedo con onore"
+"damigella d'onore"
+"damigella d'onore"
+"dare la propria parola, dare la propria parola d'onore"
+"debito d'onore"
+"elenco dell'onore: sopr. studenti che hanno raggiunto notevoli livelli accademici"
+"elenco dell'onore: sopr. studenti che hanno raggiunto notevoli livelli accademici"
+"fare onore"
+"fare onore a"
+"fare onore a"
+"finire in prima pagina, conquistarsi l'onore delle cronache"
+"giro d'onore"
+"giurì d'onore"
+"grande onore"
+"guardia d'onore"
+"in onore di"
+"in onore di"
+"legione d'onore"
+"lista d'onore"
+"medaglia d'onore"
+"medaglia d'onore"
+"medaglia d'onore"
+"menzione d'onore"
+"onore"
+"onore"
+"onore"
+"onore nazionale"
+"ospite d'onore"
+"parola d'onore"
+"parola d'onore"
+"picchetto d'onore"
+"rendere onore"
+"suo onore"
+"uomo d'onore"
+"uomo d'onore"
+#*''L'
+#*''Per me è un 
+*[[dignità]], [[moralità]], [[onestà]], [[decoro]], [[correttezza]], [[sincerità]], [[lealtà]], [[rispettabilità]], [[integrità]], [[irreprensibilità]], [[virtù]]
+*[[stima]], [[rispetto]], [[considerazione]]
+*. buon nome, [[reputazione]], [[fama]], [[gloria]], [[credibilità]]
+*[[piacere]], [[soddisfazione]], motivo di vanto
+*[[omaggio]]
+*[[privilegio]], [[prestigio]]
+*carica importante, alto ufficio
+* [[culto]], [[venerazione]]
+*[[disonore]], [[immoralità]], [[disonestà]]
+*[[disistima]], [[discredito]], [[infamia]]
+*[[vergogna]], [[onta]]
+*[[onorevole]], [[onorare]], [[onorabile]]
+*[[grado]], [[titolo]], [[onorificenza]]
+* ''Ad '''onor''' perduto, eterno saluto''
+M>honos</E
+M>honor</E
+M>ris</E
+M>reputazione</E
+M>onorabilità</E
+M>la tutela dell’o</E
+M>del cittadino</E
+M>parole</E
+M>atti lesivi dell’o</E
+M>di qualcuno</E
+M>accuse</E
+M>calunnie che non intaccano il suo o</E
+M>delitti contro l’o</E
+M>ferire qualcuno nell’o</E
+M>essere geloso del proprio o</E
+M>difendere l’o</E
+M>proprio</E
+M>l’o</E
+M>altrui</E
+M>per motivi d’o</E
+M>per una questione d’o</E
+M>conservare intatto</E
+M>serbare inviolato il proprio o</E
+M>C’è più onore in tradire che in esser fedeli a metà</E
+M>è un’azione</E
+M>una colpa che macchia il suo o</E
+M>perdere l’o</E
+M>tutto è perduto, fuorché l’onore</E
+M>diritto all’o</E
+M>offese all’o</E
+M>e al pudore</E
+M>causa d’o</E
+M>omicidio a causa d’o</E
+M>giurì d’o</E
+M>affermo</E
+M>dichiaro</E
+M>giuro</E
+M>mi impegno sul mio o</E
+M>dare la parola d’o</E
+M>parola d’o</E
+M>in parola d’o</E
+M>parola d’o</E
+M>se ne pentirà</E
+M>c’è da perdere la testa</E
+M>in parola d’o</E
+M>il mio o</E
+M>mi preme</E
+M>ci tengo al mio o</E
+M>ne va del mio o</E
+M>ne va di mezzo il mio o</E
+M>si tratta del mio o</E
+M>è in gioco il mio o</E
+M>onore</E
+M>non poteva ormai ritirarsi dall’impresa</E
+M>senza danno al suo o</E
+M>uscirne con o</E
+M>l’o</E
+M>della famiglia</E
+M>del nome</E
+M>della ditta</E
+M>dell’istituto</E
+M>l’o</E
+M>militare</E
+M>tenere alto l’o</E
+M>della patria</E
+M>dell’esercito</E
+M>della bandiera</E
+M>E me che i tempi ed il desio d’onore Fan per diversa gente ir fuggitivo</E
+M>l’o</E
+M>della riuscita spetta a te</E
+M>l’o</E
+M>della vittoria è tutto suo</E
+M>fare</E
+M>fare onore a qualcuno</E
+M>è un figlio che ti fa o</E
+M>alunni che fanno o</E
+M>al maestro</E
+M>uomini che fanno o</E
+M>al loro paese</E
+M>alla nazione</E
+M>soldati valorosi che fanno o</E
+M>all’esercito</E
+M>onorare</E
+M>Tu se’ solo colui da cu’ io tolsi Lo bello stilo che m’ha fatto o</E
+M>sono sentimenti nobili che ti fanno o</E
+M>sei stato leale e questo ti fa molto o</E
+M>torna tutto a tuo o</E
+M>aveva avuto un’idea da far o</E
+M>a un avvocato</E
+M>è un’azione che non gli fa o</E
+M>che gli fa poco o</E
+M>questa risposta fa poco o</E
+M>alla tua intelligenza</E
+M>alla tua perspicacia</E
+M>farsi o</E
+M>fare o</E
+M>al proprio nome</E
+M>alla propria parola</E
+M>fare o</E
+M>alla propria firma</E
+M>fare o</E
+M>a una tratta</E
+M>a una cambiale</E
+M>onorarla</E
+M>fare o</E
+M>al proprio nome</E
+M>alla propria firma</E
+M>è un uomo d’o</E
+M>una donna d’o</E
+M>un uomo</E
+M>una donna senza o</E
+M>seguire la via dell’o</E
+M>ha servito con fedeltà e o</E
+M>insidiare l’o</E
+M>attentare all’o</E
+M>di una ragazza</E
+M>di una donna</E
+M>levare</E
+M>togliere l’onore</E
+M>il mio o</E
+M>mi vieta di accettare le sue offerte</E
+M>per punto d’o</E
+M>point d’honneur</E
+M>per puntiglio</E
+M>ritenere un punto d’o</E
+M>farsi un punto d’o</E
+M>di ottenere uno scopo</E
+M>di spuntarla</E
+M>uomo d’o</E
+M>avere</E
+M>tenere qualcuno</E
+M>qualche cosa in o</E
+M>in molto o</E
+M>in grande o</E
+M>gli antichi avevano in o</E
+M>la vecchiaia</E
+M>essere in o</E
+M>mettere</E
+M>mantenere</E
+M>rimettere in o</E
+M>tornare in o</E
+M>Onore al merito!</E
+M>sia detto a onor del vero</E
+M>fare</E
+M>rendere onore a qualcuno</E
+M>rendere gli o</E
+M>Tutti lo miran</E
+M>tutti onor li fanno</E
+M>E tu onore di pianti</E
+M>Ettore</E
+M>avrai Ove fia santo e lagrimato il sangue Per la patria versato</E
+M>fu ricevuto</E
+M>fu accolto con grande o</E
+M>con grandi</E
+M>con molti o</E
+M>con tutti gli o</E
+M>fare gli o</E
+M>di casa</E
+M>fare</E
+M>fare o</E
+M>a un pranzo</E
+M>fare o</E
+M>al dolce</E
+M>allo sformato</E
+M>fare o</E
+M>al piatto</E
+M>D’onore</E
+M>di riguardo</E
+M>posto d’o</E
+M>ospite d’o</E
+M>posti d’o</E
+M>tribuna d’o</E
+M>dama</E
+M>damigella d’o</E
+M>damigella d’o</E
+M>in onore di qualcuno</E
+M>è stato offerto un banchetto in o</E
+M>dell’illustre uomo di stato</E
+M>sarà organizzata una festa in o</E
+M>degli ospiti</E
+M>lo faccio in onor vostro</E
+M>serata in o</E
+M>della prima donna</E
+M>funebri</E
+M>gli estremi o</E
+M>militari</E
+M>picchetto d’o</E
+M>compagnia d’o</E
+M>guardia d’o</E
+M>scorta d’o</E
+M>parata d’o</E
+M>salva d’o</E
+M>individuali</E
+M>collettivi</E
+M>di reparto</E
+M>di presidio</E
+M>navali</E
+M>delle armi</E
+M>a o</E
+M>e gloria di Dio</E
+M>rendere o</E
+M>alla Vergine</E
+M>ai santi</E
+M>tempio eretto in o</E
+M>di sant’Antonio</E
+M>in o</E
+M>di Giove</E
+M>di Vesta</E
+M>la festa in o</E
+M>del santo patrono</E
+M>gli imperatori romani e i sovrani orientali pretendevano o</E
+M>divini</E
+M>avere in o</E
+M>Non è Costei che in onor tanto avemo</E
+M>Di vostra fede uscita?</E
+M>elevare</E
+M>innalzare</E
+M>salire all’o</E
+M>degli altari</E
+M>agli o</E
+M>dell’altare</E
+M>L’essilio che m’è dato</E
+M>onor mi tegno</E
+M>non li fu onore</E
+M>Ferir me de saetta in quello stato</E
+M>A voi armata non mostrar pur l’arco</E
+M>bandiera vecchia</E
+M>onor di capitano</E
+M>cadere sul campo dell’o</E
+M>Legion d’o</E
+M>piazza d’o</E
+M>place</E
+M>piazze d’o</E
+M>non se’ tu Oderisi</E
+M>L’onor d’Agobbio e l’onor di quell’arte Ch’alluminar chiamata è in Parisi?</E
+M>essere l’o</E
+M>della famiglia</E
+M>della città</E
+M>del proprio Paese</E
+M>l’istituto che ho l’o</E
+M>di presiedere</E
+M>è toccato a me l’o</E
+M>di terminare l’opera</E
+M>è per me un grande o</E
+M>avere la vostra fiducia</E
+M>sarà un o</E
+M>per noi avervi come socio</E
+M>avere l’o</E
+M>ho l’o</E
+M>di invitare la S</E
+M>alla cerimonia</E
+M>ho l’o</E
+M>di annunciarvi che</E
+M>ho l’o</E
+M>e il piacere di comunicarvi che</E
+M>fare l’o</E
+M>mi ha fatto l’o</E
+M>di una sua visita</E
+M>di rispondermi personalmente</E
+M>d’invitarmi a casa sua</E
+M>onorare</E
+M>essere</E
+M>sentirsi onorato</E
+M>troppo o</E
+M>mi fate troppo o</E
+M>è un o</E
+M>troppo grande per me</E
+M>parte che ha l’o</E
+M>innalzare</E
+M>elevare ai massimi o</E
+M>raggiungere i più alti o</E
+M>salire la scala degli o</E
+M>ambire gli o</E
+M>essere avido</E
+M>schivo</E
+M>di onori</E
+M>visse carico</E
+M>colmo di onori</E
+M>ha sempre ricusato con modestia ogni o</E
+M>chi vuole avere gli o</E
+M>della carica</E
+M>se ne deve assumere anche gli oneri</E
+M>onori e oneri</E
+M>o in te del sangue Emendino il difetto i compri o</E
+M>Quando s’aprì rivendita d’onori</E
+M>usurpazione di titoli o di onori</E
+M>Arbor vittorïosa</E
+M>trïunfale</E
+M>Onor d’imperadori e di poeti</E
+M>Questi è Mosè:</E
+M>ben mel dicea il folto Onor del mento e ’l doppio raggio in fronte</E
+M>Limpido rivo</E
+M>onor del patrio colle</E
+M>gli alberi</E
+M>i monti</E
+M>spogli dell’o</E
+M>del verde</E
+M>l’onor del mento</E
+M>Vostro Onore</E
+M>your Honour</E
+M>Honor</E

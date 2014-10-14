@@ -1,0 +1,35 @@
+folto.txt
+"dal folto pelo (animali)"
+"folto"
+"folto"
+"folto"
+"folto"
+"folto, spesso"
+*[[abbondante]], [[fitto]], [[spesso]]
+M>ltus</E
+M>fulcire</E
+M>bosco</E
+M>fogliame</E
+M>barba f</E
+M>una f</E
+M>chioma</E
+M>una pelliccia f</E
+M>rami f</E
+M>capelli folti</E
+M>i ciclisti sono arrivati al traguardo in f</E
+M>gruppo</E
+M>verso l’interno della città</E
+M>dove il brulichio era più f</E
+M>e più rumoroso</E
+M>un teatro f</E
+M>di pubblico</E
+M>la piazzetta era f</E
+M>di curiosi</E
+M>una f</E
+M>nebbia</E
+M>tenebre folte</E
+M>il folto</E
+M>entrare nel f</E
+M>del bosco</E
+M>gettarsi nel f</E
+M>della mischia</E

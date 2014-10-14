@@ -1,0 +1,73 @@
+quieto.txt
+"quieto"
+"quieto"
+"quieto"
+"quieto vivere"
+*[[fermo]], [[immobile]], [[inerte]]
+*''((di luogo) [[calmo]], [[tranquillo]], [[silenzioso]] 
+*''(di persona))'' [[calmo]], [[tranquillo]], [[pacifico]], [[sereno]], [[placido]], [[olimpico]], [[pacato]]
+*[[mobile]], [[mosso]], [[agitato]] [[rumoroso]], [[chiassoso]]  
+*''(di persona))'' [[irrequieto]], [[inquieto]], [[teso]], [[nervoso]], [[agitato]]
+*[[quietamente]], [[quietare]], [[quiete]]
+*[[caotico]], [[placato]]
+M>quietus</E
+M>quies -etis</E
+M>fermo</E
+M>immobile</E
+M>calmo</E
+M>tranquillo</E
+M>un corpo</E
+M>un ente fisico perfettamente q</E
+M>la provedenza ... fa ’l ciel sempre quïeto Nel qual si volge quel c’ha maggior fretta</E
+M>il mare era tornato q</E
+M>le q. acque di un fiume</E
+M>il lago era q. come un olio</E
+M>un’aria q</E
+M>l’abbraccio d’un bianco cielo q</E
+M>quietato</E
+M>Quinci fuor quete le lanose gote Al nocchier de la livida palude</E
+M>placato</E
+M>se una volta</E
+M>Solo una volta il lungo amor quieto E pago avessi tu</E
+M>Allor fu la paura un poco queta</E
+M>giorni q</E
+M>Sole q</E
+M>una zona q. di campagna</E
+M>di periferia</E
+M>un q. alberghetto di montagna</E
+M>Sonavan le quiete Stanze</E
+M> e le vie dintorno</E
+M>Al tuo perpetuo canto</E
+M>un q. pomeriggio estivo</E
+M>le q. ore della sera</E
+M>fare una vita q</E
+M>quieto vivere</E
+M>amare il q. vivere</E
+M>per amore del q. vivere sopporta in casa anche la suocera</E
+M>un sistema di q. vivere</E
+M>ch’era costato tant’anni di studio e di pazienza</E
+M>un bambino q</E
+M>questi ragazzi non stanno mai q. un momento</E
+M>una popolazione q. e laboriosa</E
+M>un cane</E
+M>un cavallo q</E
+M>tranquillo</E
+M>docile</E
+M>calmo</E
+M>stare q</E
+M>mantenersi q</E
+M>stia q</E
+M>non si agiti tanto</E
+M>cerca di tenere q. i bambini</E
+M> mentre io preparo il pranzo</E
+M>che hanno questi cani</E
+M> che non stanno quieti?</E
+M>tranquillo</E
+M>non mi sento q</E
+M>o non sono q</E
+M>finché i figli non tornano a casa</E
+M>non si può mai vivere q</E
+M>il fiume qui si allarga e scorre quietamente</E
+M>si era seduto</E
+M>e stava quietamente ad ascoltarlo</E
+M>vorrei vivere un po’ più quietamente</E

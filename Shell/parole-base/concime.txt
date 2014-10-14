@@ -1,0 +1,17 @@
+concime.txt
+"concime"
+"concime, letame"
+"mucchio di concime"
+* [[fertilizzante]] (soprattutto la sostanza chimica)
+* [[liquame]] (scarico fognario, prodotto residuale di escrementi di una comunità o di un complesso di edifici, non usato per concimare)
+* [[concimare]]
+M>fertilizzante</E
+M>animali</E
+M>vegetali</E
+M>minerali</E
+M>chimici</E
+M>azotati</E
+M>fosfatici</E
+M>potassici</E
+M>calcarei</E
+M>misti</E

@@ -1,0 +1,17 @@
+senatore.txt
+"senatore"
+"senatore"
+*[[senatorato]]
+*[[senato]], [[Senato]], [[senatoconsulto]], [[senatorato]], [[senatoriale]]
+M>-trice</E
+M>senator -oris</E
+M>senatrix -icis</E
+M>senatus</E
+M>i s. romani</E
+M>s. del regno</E
+M>della repubblica</E
+M>essere fatto</E
+M>eletto s.</E
+M>s. per elezione</E
+M>per diritto</E
+M>s. a vita</E

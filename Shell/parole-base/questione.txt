@@ -1,0 +1,208 @@
+questione.txt
+"andare alle radice della questione"
+"caso in questione"
+"è tutta una questione mentale"
+"essenziale, nocciolo della questione"
+"essere una questione di lana caprina"
+"fuori questione"
+"fuori questione"
+"fuori questione"
+"girare intorno alla questione"
+"il caso in questione"
+"il nocciolo della questione"
+"il punto della questione"
+"il punto in questione"
+"il succo della questione"
+"in questione"
+"in questione"
+"insabbiare una questione, farla apparire meno problematica"
+"interessarti della questione"
+"per qualsiasi questione"
+"problema in questione"
+"punto in questione"
+"questione"
+"questione"
+"questione"
+"questione"
+"questione"
+"questione aperta"
+"questione attuale"
+"questione banale, questione futile"
+"questione controversa"
+"questione d'importanza"
+"questione di diritto"
+"questione di fortuna"
+"questione di indifferenza"
+"questione di interesse"
+"questione di necessità"
+"questione di pelle"
+"questione di principio"
+"questione di scelte"
+"questione di vita o di morte"
+"questione di vita o di morte"
+"questione dibattuta"
+"questione finanziaria"
+"questione in sospeso"
+"questione opinabile"
+"questione personale"
+"questione personale"
+"questione politica"
+"questione scottante"
+"questione secondaria"
+"questione secondaria"
+"questione secondaria"
+"questione seria"
+"questione soggettiva"
+"succo (della questione)"
+"una questione di lana caprina"
+*[[argomento]], [[tema]], [[caso]], [[faccenda]]
+*''(in ambito politico)'' problema politico, problema sociale
+*[[polemica]], [[dibattito]], [[disputa]], [[controversia]], [[diatriba]]
+*[[lite]], [[litigio]], [[alterco]],[[bisticcio]], [[discussione]], [[diverbio]], [[contrasto]], [[contesa]], [[dissidio]]
+*[[problema]], [[quesito]], [[dubbio]], [[quiz]]
+*[[accordo]], [[intesa]], [[consenso]]
+*[[riconciliazione]], [[accomodamento]]
+*[[risposta]], [[soluzione]], [[certezza]]
+*[[questionare]], [[questionista]]
+*[[discussione]]
+M>quaestio</E
+M>onis</E
+M>quaer</E
+M>quaestus</E
+M>formulare una q</E
+M>più caute diverrete nelle risposte alle quistioni che fatte vi fossero</E
+M>poiché siamo in sulle favole</E
+M>eccotene un’altra</E
+M>intorno alla quale ti vo’ proporre una q</E
+M>formulare</E
+M>discutere una q</E
+M>esaminare una q</E
+M>da tutti i lati</E
+M>sotto tutti gli aspetti</E
+M>una q</E
+M>facile</E
+M>semplice</E
+M>difficile</E
+M>complicata</E
+M>complessa</E
+M>una q</E
+M>da poco</E
+M>una grossa q</E
+M>una q</E
+M>di lana caprina</E
+M>una q</E
+M>bizantina</E
+M>c’è una q</E
+M>da risolvere</E
+M>la q</E
+M>è mal posta</E
+M>cambiare</E
+M>spostare i termini della q</E
+M>si presenta qui la q</E
+M>è l’eterna q</E
+M>dei limiti tra giusto e ingiusto</E
+M>lo stato</E
+M>il punto della q</E
+M>lasciare impregiudicata una q</E
+M>il nòcciolo della q</E
+M>il nodo della q</E
+M>l’argomento</E
+M>il caso</E
+M>la persona in questione</E
+M>una q</E
+M>storica</E
+M>filosofica</E
+M>teologica</E
+M>morale</E
+M>tecnica</E
+M>pratica</E
+M>pregiudiziale</E
+M>di principio</E
+M>formale</E
+M>sostanziale</E
+M>di diritto</E
+M>di procedura</E
+M>di fatto</E
+M>di merito</E
+M>di fiducia</E
+M>quaestio</E
+M>una lunga</E
+M>annosa</E
+M>eterna</E
+M>controversa q</E
+M>politica</E
+M>sociale</E
+M>letteraria</E
+M>linguistica</E
+M>dibattere</E
+M>risolvere la q</E
+M>sociale</E
+M>economica</E
+M>la q</E
+M>operaia</E
+M>morale</E
+M>la q. femminile</E
+M>la q</E
+M>della donna</E
+M>la q</E
+M>d’ Oriente</E
+M>la q</E
+M>balcanica</E
+M>la q</E
+M>romana</E
+M>la q</E
+M>meridionale</E
+M>del Mezzogiorno</E
+M>la q</E
+M>omerica</E
+M>la q</E
+M>della lingua</E
+M>italiana</E
+M>mettere</E
+M>porre in questione</E
+M>fare</E
+M>esserci questione</E
+M>essere fuori questione</E
+M>e chi mette in q</E
+M>la sua onestà?</E
+M>la tua buonafede è fuori q</E
+M>della vostra correttezza non si fa q</E
+M>è cosa già risolta e non è il caso di rimetterla in q</E
+M>fare</E
+M>non fare questioni</E
+M>senza tante q</E
+M>smettila di fare questioni e vieni anche tu</E
+M>accetta</E
+M> senza tante q</E
+M>è q</E
+M>è q</E
+M>di pane</E
+M>per me</E
+M>quel lavoro</E
+M>non c’è da perdere tempo: è q</E
+M>di vita o di morte</E
+M>è solo q</E
+M>di tempo</E
+M>abbi pazienza</E
+M>è q</E
+M>di dieci minuti</E
+M>non è q</E
+M>di denaro</E
+M>è q</E
+M>di decoro</E
+M>di onestà</E
+M>di correttezza</E
+M>è pura q</E
+M>di forma</E
+M>rispondere a chi ti fa una domanda è solo q</E
+M>di educazione</E
+M>non è il caso di venire a questione per cose di così poco conto</E
+M>queste continue q</E
+M>tra parenti sono spiacevoli</E
+M>sono</E
+M>stanno sempre a far questione</E
+M>d’onore</E
+M>contrasto</E
+M>fu posto costui tra gli altri giudici a udire le quistion criminali</E
+M>è una questioncella che si risolve facilmente</E
+M>ho scritto un saggio su alcune questioncelle di letteratura medievale</E

@@ -1,0 +1,70 @@
+sospeso.txt
+"bollette in sospeso"
+"col fiato sospeso"
+"con il fiato sospeso"
+"conti in sospeso"
+"conto in sospeso"
+"conto sospeso, conto provvisorio"
+"crediti in sospeso"
+"in sospeso"
+"ponte sospeso"
+"questione in sospeso"
+"questioni in sospeso"
+"restare in sospeso"
+"rimanere in sospeso"
+"rimanere sospeso in aria, rimanere sospeso in volo"
+"sospeso"
+"sospeso"
+"sospeso"
+"sospeso"
+"sospeso"
+"sospeso"
+"tenere qualcosa in sospeso"
+*(di oggetto) [[attaccato]], [[appeso]], [[agganciato]], [[sorretto]], [[impiccato]], [[pendente]], [[penzoloni]], [[penzolante]], [[oscillante]], in bilico, [[dondolante]], a mezz’aria, [[librato]]
+*(di decisione) [[rimandato]], [[rinviato]], [[ritardato]], [[posticipato]], [[differito]], [[dilazionato]], [[prorogato]], [[procrastinato]]
+*(di funzionario) [[allontanato]], [[rimosso]], [[licenziato]], [[destituito]], [[interdetto]], [[esautorato]]
+*(di oggetto) [[staccato]], [[sganciato]]
+*(di deciione) [[anticipato]]
+*(di funzionario) [[assunto]], [[confermato]]
+M>sospendere</E
+M>suspensus</E
+M>suspend</E
+M>un lampadario s. al soffitto</E
+M>gli allievi ufficiali di marina portano uno spadino s. al fianco</E
+M>sulla testa di Damocle era s. a un filo una spada acuminata</E
+M>scendendo dall&#8217;albero s&#8217;impigliò nei rami e rimase s. nel vuoto</E
+M>essere s. a un filo</E
+M>a un capello</E
+M>la sua vita è s. a un filo</E
+M>ormai le nostre speranze sono s. a un capello</E
+M>non ebbe il coraggio di colpire e restò con la mano s.</E
+M>si fermò all&#8217;inizio della scala con il piede s.</E
+M>colombi Che stavan su le dense ali sospesi A guardia d&#8217;una grotta</E
+M>Ponte s.</E
+M>ghiacciaio s.</E
+M>valle s.</E
+M>pensile</E
+M>Segnale di carichi sospesi</E
+M>tutte le licenze</E
+M> dato lo stato di emergenza</E
+M> sono s.</E
+M>sono s. le entrate di favore</E
+M>restare col fiato s.</E
+M>tenete sospesa la fattura fino a nuovo ordine</E
+M>in sospeso</E
+M>per ora tutto rimane in s.</E
+M>tenere in s. una commissione</E
+M>un&#8217;ordinazione</E
+M>un pagamento</E
+M>tenere in s. una pratica</E
+M>avere dei conti in s.</E
+M>conto</E
+M>aveva parecchi conti in s. con la giustizia</E
+M>stare con l&#8217;animo s.</E
+M>parla</E
+M> non mi tenere in s.</E
+M>Io era tra color che son sospesi</E
+M>i due rimasti stettero alquanto senza parlare</E
+M> e diversamente sospesi</E
+M>E m&#8217;inoltro sospeso</E
+M> entro nell&#8217;ombra</E

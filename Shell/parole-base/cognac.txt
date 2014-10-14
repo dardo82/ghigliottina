@@ -1,0 +1,14 @@
+cognac.txt
+"Cognac"
+"Cognac"
+"cognac"
+"cognac"
+M>cognàc</E
+M>una bottiglia di vecchio cognac</E
+M>un cognac</E
+M>bere</E
+M>offrire un cognac</E
+M>color cognac</E
+M>cognac</E
+M>una pelliccia color cognac</E
+M>un divano di velluto cognac</E

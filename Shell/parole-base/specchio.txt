@@ -1,0 +1,146 @@
+specchio.txt
+"doppio specchio"
+"guardarsi allo specchio"
+"specchio"
+"specchio"
+"specchio"
+"specchio concavo"
+"specchio convesso"
+"specchio di mare"
+"specchio rotto"
+"specchio unidirezionale"
+"vetro a specchio"
+*immagine riflettente 
+*[[schema]], [[tabella]], [[prospetto]], [[nota]], [[riassunto]], [[quadro]], [[sommario]], [[compendio]], [[sinossi]]
+*''(nella pallacanestro)'' [[tabellone]]
+*superficie opaca
+*[[specchiare]]
+*''specchio d'acqua'' 
+*italiano
+M>spec</E
+M>lum</E
+M>spec</E
+M>s. tascabile</E
+M>da borsetta</E
+M>da trucco</E
+M>lo s. del portacipria</E
+M>s. da tavolo</E
+M>da muro</E
+M>a parete</E
+M>s. ovale</E
+M>tondo</E
+M>quadrato</E
+M>lo s. del bagno</E
+M>lo s. della toeletta</E
+M>del cassettone</E
+M>gli s. del mobile bar</E
+M>armadio a specchi</E
+M>a uno s.</E
+M>a due</E
+M>a tre s.</E
+M>stare allo s.</E
+M>davanti allo s.</E
+M>passare ore e ore allo s.</E
+M>uno s. barocco</E
+M>uno s. veneziano del Settecento</E
+M>un prezioso s. liberty</E
+M>sala degli s.</E
+M>la galleria degli s. di Versailles</E
+M>gioco di specchi</E
+M>S. frontale</E
+M>S. deformante</E
+M>S. retrovisivo</E
+M>retrovisore</E
+M>S. nero</E
+M>S. magico</E
+M>il lago era liscio come uno s.</E
+M>oggi il mare è uno s.</E
+M>la vecchia domestica ci teneva la casa come uno s.</E
+M>la cucina di casa tua è uno s.</E
+M>un pavimento lucidato a s.</E
+M>lo scudo di Perseo è terso</E
+M> come uno s.</E
+M> nel quale i riguardanti insassiscono</E
+M>arrampicarsi sugli s.</E
+M>Specchio d&#8217;acqua</E
+M>gli occhi sono lo s. dell&#8217;anima</E
+M>quelle pagine del romanzo sono lo s. fedele dei vizî dell&#8217;epoca</E
+M>essere uno s. di ...</E
+M>essere uno s. di saggezza</E
+M>di onestà</E
+M>da ragazza non era proprio uno s. di virtù</E
+M>s. di giustizia</E
+M>speculum iustitiae</E
+M>quelle belle care membra oneste Che specchio eran di vera leggiadria</E
+M>fase</E
+M>stadio</E
+M>dello s.</E
+M>a specchio</E
+M>un paesetto</E
+M>situato</E
+M>a s. del lago</E
+M>la villa è a s. del mare</E
+M>non lungi un bel cespuglio vede ... Che de le liquide onde al specchio siede</E
+M>Scrittura a s.</E
+M>volta a s.</E
+M>specchio</E
+M>volta a gavetta</E
+M>a schifo</E
+M>prua</E
+M>poppa a s.</E
+M>poppa a s.</E
+M>poppa quadra</E
+M>prua a s.</E
+M>pram.</E
+M>allo s.</E
+M>petti di pollo</E
+M>involtini allo s.</E
+M>aragosta allo specchio</E
+M>s. ottico</E
+M>s. piano</E
+M>s. sferico</E
+M>parboloidico</E
+M>ellissoidico</E
+M>cilindrico</E
+M>s. metallici</E
+M>s. ottico piano</E
+M>virtuale</E
+M>ribaltamento</E
+M>s. sferici</E
+M>concavi</E
+M>convessi</E
+M>fuoco</E
+M>reale</E
+M>virtuale</E
+M>ustorî</E
+M>S. per onde elettromagnetiche</E
+M>s. elettrico</E
+M>s. continuo</E
+M>s. discontinuo</E
+M>S. elettronico</E
+M>S. magnetico</E
+M>S. sonoro</E
+M>il pallone attraversa lo s. della porta</E
+M>s. di poppa</E
+M>quadro di poppa</E
+M>piatto</E
+M>s. di scrittura</E
+M>s. freatico</E
+M>s. di faglia</E
+M>s. d&#8217;asino</E
+M>musello</E
+M>S. alare</E
+M>s. dell&#8217;ala</E
+M>specchietto</E
+M>lo s. delle assenze</E
+M>degli esami</E
+M>in fondo al vocabolario francese c&#8217;è uno s. dei verbi irregolari</E
+M>S. dei Sassoni</E
+M>Sachsenspiegel</E
+M>S. degli Svevi</E
+M>Schwabenspiegel</E
+M>essere sullo s.</E
+M>allo s.</E
+M>notaio dello s.</E
+M>viglietto dello s.</E
+M>S. di vera penitenza</E

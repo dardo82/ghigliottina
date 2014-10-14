@@ -1,0 +1,27 @@
+pioppo.txt
+"pioppo"
+"pioppo"
+"legno di pioppo"
+"pioppo giallo"
+* [[appioppare]]
+* [[pioppeto]]
+M>*pl</E
+M>ppus</E
+M>lus</E
+M>Populus</E
+M>bianco</E
+M>gattice</E
+M>alberello</E
+M>Populus alba</E
+M>p. tremulo</E
+M>Populus tremula</E
+M>nero</E
+M>nostrano</E
+M>cipressino</E
+M>pioppo</E
+M>Populus nigra</E
+M>olio essenziale di pioppo</E
+M>pioppo del Canada</E
+M>Populus canadensis</E
+M>albero a pioppo</E
+M>albero a pible</E

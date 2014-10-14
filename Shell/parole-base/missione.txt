@@ -1,0 +1,21 @@
+missione.txt
+"impresa disperata, missione impossibile, sforzo vano"
+"in missione"
+"missione"
+"missione"
+"missione all'estero"
+"missione commerciale"
+"missione compiuta"
+"missione di addestramento"
+"missione di aiuto"
+"missione di bombardamento"
+"missione di esplorazione"
+"missione di inchiesta"
+"missione di ricerca"
+"missione di ricognizione"
+"missione di soccorso"
+"missione di studio"
+"missione diplomatica"
+"missione religiosa"
+*[[incarico]]
+*[[missione diplomatica]]

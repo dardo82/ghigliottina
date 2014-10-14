@@ -1,0 +1,24 @@
+abolire.txt
+"abolire"
+#* ''
+#* ''deve 
+* ''(sopprimere, annullare...)'' [[abrogare]], [[cancellare]], [[cassare]], [[depennare]], [[inficiare]], [[revocare]] 
+* ''(eliminare, rinunciare a qualcosa...)'' [[bandire]], [[escludere]], [[levare]], [[togliere]]
+* ''(sopprimere, annullare)'' [[instaurare]], [[istituire]], [[promulgare]], [[restaurare]], [[ripristinare]], [[ristabilire]],[[sancire]], [[stabilire]]
+* ''(eliminare, rinunciare a qualcosa...)'' [[includere]], [[introdurre]]
+*[[abolitivo]]
+* [[abrogare]]
+M>abolere</E
+M>io abolisco</E
+M>tu abolisci</E
+M>una tassa</E
+M>una legge</E
+M>un’istituzione</E
+M>un ordine religioso</E
+M> a. la coscrizione obbligatoria</E
+M>in quel bar è stato abolito l’uso delle mance</E
+M>a casa nostra</E
+M>abbiamo abolito il vino a tavola</E
+M>per star bene</E
+M>dovrei a</E
+M>il fumo</E

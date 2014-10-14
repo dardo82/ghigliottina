@@ -1,0 +1,42 @@
+costringere.txt
+"costringere"
+"costringere a letto"
+"costringere ad allontanarsi"
+"costringere ad allontanarsi"
+"costringere con la forza"
+"costringere qc a fare qc"
+"costringere, forzare, imporre"
+*[[obbligare]], [[forzare]], [[sforzare]],  [[stringere]], [[restringere]], [[pressare]], [[serrare]] 
+*''( un impulso, un sentimento)'' [[reprimere]], [[frenare]], [[contenere]], [[soffocare]] 
+*[[allentare]], [[sciogliere]]
+*''(un impulso, un sentimento)''[[sfogare]], [[liberare]]
+M>constring</E
+M>con</E
+M>string</E
+M>stringere</E
+M>con la propria autorità</E
+M>con minacce</E
+M>con ricatti</E
+M>a dire</E
+M>a fare</E
+M>a cedere</E
+M>a sottomettersi</E
+M>a un lavoro ingrato</E
+M>ai più umili servizî</E
+M>la fame costrinse gli assediati alla resa</E
+M>la sciatica lo costringeva a camminar piegato</E
+M>essere costretto dalla necessità</E
+M>dalle circostanze</E
+M>si vide costretto ad abbandonare l’impresa</E
+M>come un vaso di terra cotta</E
+M>costretto a viaggiare in compagnia di molti vasi di ferro</E
+M>Intendi come e perché son costretti</E
+M>con le funi delli propri peccati ciascuno è costretto</E
+M>il vizio</E
+M>un sentimento</E
+M>una passione</E
+M>il pianto</E
+M>la lingua</E
+M>la sete</E
+M>i vicini popoli</E
+M>i quali sotto la sua signoria si costrignevano</E

@@ -1,0 +1,61 @@
+tinta.txt
+"applicatore per la tinta"
+"immagine a tinta"
+"tinta"
+"tinta"
+"tinta"
+"tinta che non stinge"
+"tinta dei capelli, colore dei capelli"
+"tinta unita"
+M>tingere</E
+M>tinto</E
+M>la t. di un filato</E
+M>di un tessuto</E
+M>di una stoffa</E
+M>un tipo di lana</E
+M>di pullover</E
+M>di borsa</E
+M>di guanti</E
+M>di scarpe disponibile in tutte le t.</E
+M>scegliere le t. per le pareti delle stanze della casa</E
+M>per le tende</E
+M>t. chiare</E
+M>scure</E
+M>t. vivaci</E
+M>spente</E
+M>t. neutra</E
+M>t. unita</E
+M>un cappotto</E
+M>una tappezzeria in t. unita</E
+M>mezza t.</E
+M>un dipinto a t. forti</E
+M>a t. calde</E
+M>a t. delicate</E
+M>creare</E
+M>formare un&#8217;armonia</E
+M>un contrasto di tinte.</E
+M>la t. del cielo</E
+M>del mare</E
+M>lucide nubi Gareggianti di tinte</E
+M>capelli di t. rossiccia</E
+M>ha la pelle di t. un po&#8217; scura.</E
+M>t. locale</E
+M>calcare</E
+M>esagerare le t.</E
+M>smorzare le t.</E
+M>descrivere</E
+M>rappresentare con le t. più scure</E
+M>vedere tutto nelle t. più fosche</E
+M>un dramma a forti t.</E
+M>dare una pennellata</E
+M>una mano di t.</E
+M>il barattolo della t.</E
+M>stendere la t. con il pennello</E
+M>dare la t. a spruzzo.</E
+M>t. a calce</E
+M>t. a colla</E
+M>bianco di Meudon</E
+M>t. ai silicati</E
+M>t. lavabile</E
+M>sintetica</E
+M>prendere la tintarella</E

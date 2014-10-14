@@ -1,0 +1,56 @@
+epoca.txt
+"a quell'epoca"
+"al tempo, a quel tempo, a quell'epoca"
+"auto d'epoca"
+"cassa contenente oggetti e documenti dell'epoca attuale nascosta come testimonianza per epoche futur"
+"d'epoca"
+"della nostra epoca"
+"epoca"
+"epoca"
+"epoca"
+"epoca buia"
+"epoca d'oro"
+"epoca d'oro di, età dell'oro di"
+"epoca odierna"
+"grande epoca; epoca d'oro"
+"in ogni epoca"
+"in quel periodo, in quei giorni, a quell'epoca, a quel tempo"
+"l'epoca attuale"
+"pezzo d'epoca"
+*[[età]], tempo storico, [[evo]], [[era]]
+*[[momento]], [[tempo]], [[stagione]], [[periodo]]
+*[[epocale]]
+*''fare epoca''
+M>l’e</E
+M>delle Crociate</E
+M>delle grandi scoperte geografiche</E
+M>la caduta dell’Impero romano segnò l’inizio di una nuova epoca</E
+M>viviamo in un’e</E
+M>di grandi trasformazioni</E
+M>l’e</E
+M>precedente alla nostra generazione</E
+M>dell’epoca</E
+M>d’epoca</E
+M>una commedia cinquecentesca in costumi</E
+M>con arredamento</E
+M>dell’e</E
+M>esecuzione di musica vivaldiana con strumenti originali dell’epoca</E
+M>un palazzetto d’epoca</E
+M>arredamento d’epoca</E
+M>all’e</E
+M>del mio matrimonio</E
+M>nell’e</E
+M>in cui ero studente</E
+M>in quell’e</E
+M>da quell’epoca</E
+M>fare epoca</E
+M>faire époque</E
+M>fu una scoperta che fece e</E
+M>è una moda che farà epoca</E
+M>periodo</E
+M>età</E
+M>il paleogene è suddiviso nelle epoche oligocene</E
+M>eocene e paleocene</E
+M>di godimento</E
+M>metodo ad epoca</E
+M>epoca</E

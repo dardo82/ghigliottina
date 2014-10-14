@@ -1,0 +1,17 @@
+tenente.txt
+"tenente"
+"tenente colonnello"
+"tenente di polizia"
+"tenente generale"
+M>luogotenente</E
+M>t. di fanteria</E
+M>degli alpini</E
+M>di artiglieria</E
+M>dei carabinieri</E
+M>dell&#8217;aeronautica</E
+M>primo t.</E
+M>T. colonnello</E
+M>T. generale</E
+M>t. di vascello</E
+M>tenente</E
+M>mia nonna si invaghì di un simpatico tenentino.</E

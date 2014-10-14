@@ -1,0 +1,32 @@
+infermo.txt
+"infermo"
+*[[invalido]], [[ammalato]], [[paziente]]
+*[[infermeria]], [[infermiera]], [[infermiere]], [[infermità]]
+M>inf</E
+M>rmus</E
+M>firmus</E
+M>cadere i</E
+M>giacere i</E
+M>nel letto</E
+M>su una poltrona</E
+M>in seguito all’incidente</E
+M>restò i</E
+M>per tutta la vita</E
+M>essere i</E
+M>di gambe</E
+M>avere le gambe i</E
+M>essere i</E
+M>di mente</E
+M>curare un i</E
+M>l’assistenza agli i</E
+M>visitare gli i</E
+M>malato</E
+M>l’illustre i</E
+M>l’augusta inferma</E
+M>schiere</E
+M>travagliate e ’nferme</E
+M>a strazio mena L’i</E
+M>gregge</E
+M>Stretto l’i</E
+M>spirito De’ sensi alle ritorte</E
+M>almen si dia Questa misera guerra E questo vano campo all’ire inferme Del mondo</E

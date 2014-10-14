@@ -1,0 +1,28 @@
+corridoio.txt
+"corridoio"
+"corridoio"
+"corridoio"
+"corridoio laterale"
+"nel corridoio"
+"passaggio, corridoio"
+"voce di corridoio"
+M>correre</E
+M>i c</E
+M>della scuola</E
+M>del tribunale</E
+M>del teatro</E
+M>la stanza del capoufficio è la quarta a destra</E
+M>in fondo al corridoio</E
+M>Transatlantico</E
+M>corridoio dei passi perduti</E
+M>voci di corridoio</E
+M>chiacchiere di c</E
+M>manovre di corridoio</E
+M>ponte di corridoio</E
+M>trovare il c</E
+M>giusto</E
+M>chiudere i c</E
+M>polacco</E
+M>C. umanitario</E
+M>humanitarian corridor</E
+M>aereo</E

@@ -1,0 +1,180 @@
+stringere.txt
+"digrignare i denti, stringere i denti"
+"stringere"
+"stringere"
+"stringere"
+"stringere"
+"stringere"
+"stringere"
+"stringere"
+"stringere"
+"stringere"
+"stringere"
+"stringere"
+"stringere a sé"
+"stringere di nuovo"
+"stringere i cordoni della borsa"
+"stringere i denti"
+"stringere i tempi"
+"Stringere il cerchio"
+"stringere la mano"
+"stringere la mano a"
+"stringere la mano a qualcuno"
+"stringere la mano a qualcuno"
+"stringere la mano con forza"
+"stringere le chiappe"
+"stringere saldamente"
+"stringere, fissare, rafforzare, inasprire"
+*[[concludere]], [[stipulare]], [[allacciare]], [[impegnare]], [[premere]], [[comprimere]], [[unire]]
+*[[stringersi]],[[restringere]]
+*italiano
+*latino
+M>str</E
+M>io stringo</E
+M>tu stringi</E
+M>strigni</E
+M>strinsi</E
+M>stringésti</E
+M>strignésti</E
+M>strétto</E
+M>-gn</E
+M>-ng-</E
+M>-g-</E
+M>allentare</E
+M>s. una morsa</E
+M>le tenaglie</E
+M>s. una vite</E
+M>un bullone</E
+M>s. i freni</E
+M>s. le gambe</E
+M>s. le palpebre</E
+M>s. le dita</E
+M>s. il pugno</E
+M>s. la mano</E
+M>s. le labbra</E
+M>s. i denti</E
+M>stringeva i denti per non allentare la presa</E
+M>per non gridare</E
+M>per sopportare il dolore dovette stringere i denti</E
+M>nella settimana prima degli esami dovette s. i denti per un ultimo sforzo</E
+M>stringersi nelle spalle</E
+M>s. la presa</E
+M>stringeva fra le mani un coltello</E
+M>il gatto stringeva un topo fra i denti</E
+M>fammi vedere che cosa stringi nella mano</E
+M>s. la mano a qualcuno</E
+M>si strinsero la mano con calore</E
+M>i due contraenti si strinsero la mano</E
+M>stretta di mano</E
+M>strinse fra le braccia il bambino</E
+M>strinse a sé il figlio</E
+M>se lo strinse al petto</E
+M>vibra contra costei la lancia</E
+M> e stringi La spada</E
+M>s. il ventre</E
+M>stringere</E
+M>il limone stringe</E
+M>s. il cuore</E
+M>uno spettacolo che stringe il cuore</E
+M>all&#8217;entrare in Monza</E
+M> Gertrude si sentì s. il cuore</E
+M>s. la gola</E
+M>alla gola</E
+M>l&#8217;emozione gli stringeva la gola</E
+M>Che se</E
+M>Dolor ti strinse di mia negra vita</E
+M> Non mel celar</E
+M>chi troppo vuole</E
+M>abbraccia</E
+M>nulla stringe</E
+M>Noi salavam</E
+M>salivamo</E
+M>per entro &#8217;l sasso rotto</E
+M> e d&#8217;ogne lato ne stringea lo stremo</E
+M>Purg.</E
+M>s. al muro</E
+M>alla parete</E
+M>s. il nemico in una gola</E
+M>in una palude</E
+M>s. d&#8217;assedio una città</E
+M>dovetti stringermi contro il muro per non essere investito dall&#8217;autobus</E
+M>preso dalla paura</E
+M> si strinse a me e cominciò a piangere</E
+M>gridavan sì alto</E
+M> Ch&#8217;i&#8217; mi strinsi al poeta per sospetto</E
+M>stringersi intorno a qualcuno</E
+M>i redattori si strinsero intorno al direttore per incoraggiarlo a proseguire l&#8217;opera</E
+M>vieni anche tu qui sul divano</E
+M> ci stringeremo un po&#8217;</E
+M>s. il vento</E
+M>navigare di bolina</E
+M>s. il vento</E
+M>s. la costa</E
+M>s. al centro</E
+M>s. verso la porta</E
+M>s. l&#8217;avversario alle corde</E
+M>all&#8217;angolo</E
+M>durante il dibattito è riuscito a s. gli avversarî alle corde</E
+M>s. un ciclista</E
+M>un motociclista</E
+M>un cavallo</E
+M>ha stretto troppo l&#8217;auto che lo stava sorpassando</E
+M> e l&#8217;ha fatta andare fuori strada</E
+M>s. in curva</E
+M>s. amicizia con qualcuno</E
+M>stringersi d&#8217;amicizia con</E
+M>per qualcuno</E
+M>s. un accordo</E
+M>un contratto</E
+M>un patto</E
+M>un&#8217;alleanza</E
+M>un trattato</E
+M>stringersi in lega</E
+M>stringiamci a coorte</E
+M>per resister loro</E
+M>furono i nobili dalla natura portati a strignersi in ordini</E
+M>queste scarpe stringono il piede</E
+M>stringono</E
+M>il colletto della camicia stringe troppo il collo</E
+M>stringe troppo</E
+M>s. un vestito</E
+M>una gonna</E
+M>bisogna s. un po&#8217; la giacca in vita</E
+M>s. il laccio</E
+M>un nodo scorsoio</E
+M>s. la cinghia</E
+M>tirare la cinghia</E
+M>s. un discorso</E
+M>il tuo intervento è troppo lungo</E
+M> devi stringerlo un po&#8217;</E
+M>stringi</E
+M> stringi!</E
+M>stringersi nelle spese</E
+M>restringersi</E
+M>s. il tempo</E
+M>bisogna s. i tempi nella stesura dell&#8217;articolo</E
+M>la consegna del lavoro ha tardato troppo: occorre s. i tempi</E
+M>il tempo stringe</E
+M>sbrigatevi a finire il lavoro</E
+M> ché il tempo stringe</E
+M>stringi stringi</E
+M>stringi stringi</E
+M> capimmo che non aveva nessuna intenzione di aiutarci</E
+M>lei con nuovi preghi mi ricominciò da capo a stringere e scongiurare</E
+M>che la promessa effigie gli mostrasse</E
+M>i buoni capitani non vengono mai a giornata se la necessità non gli strigne</E
+M>Quando poi d&#8217;età carco Il bisogno lo stringe</E
+M>bisogni</E
+M>necessità stringenti</E
+M>ragioni</E
+M>argomentazioni stringenti</E
+M>sostanze</E
+M>medicinali stringenti</E
+M>astringenti</E
+M>la vita</E
+M>strinta dal grembial di cuoio</E
+M>malgrado la testa continuasse a dolerle</E
+M> come una benda strinta sulla fronte</E
+M>più del solito Strinte</E
+M> impettite</E
+M> Fiacche tronfiavano E indolenzite</E

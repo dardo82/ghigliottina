@@ -1,0 +1,16 @@
+mittente.txt
+"a carico del mittente"
+"mittente"
+"rimandare al mittente"
+#*''le spese sono a carico del '''mittente''''' 
+*[[destinatario]], [[ricevente]]
+*[[intermittente]]
+M>mittens</E
+M>entis</E
+M>mitt</E
+M>destinatario</E
+M>firma</E
+M>indirizzo del m</E
+M>indicare il m</E
+M>respingere</E
+M>rispedire al mittente</E

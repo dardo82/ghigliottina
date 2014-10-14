@@ -1,0 +1,49 @@
+museo.txt
+"da museo"
+"museo"
+"museo civico"
+"museo dell'arte"
+"museo pubblico"
+"pezzo da museo"
+#*''ieri sono stato al museo archeologico''
+*[[galleria]], [[pinacoteca]]
+*[[museografia]], [[museologia]]
+*italiano
+*spagnolo
+m>Mus</e
+m>d&rsquo;arte</e
+m>di archeologia</e
+m>scientifici</e
+m> di storia naturale</e
+m>scolastici</e
+m> universitarî</e
+m>storici</e
+m>etnografici</e
+m>etnoantropologici</e
+m>pedagogici</e
+m>dei gessi</e
+m>delle cere</e
+m>la sala del circolo a volte sembra il m</e
+m>delle cere</e
+m>lapidarî</e
+m>museo all&rsquo;aperto</e
+m>ecomuseo</e
+m>il centro storico di Roma è un grande museo all&rsquo;aperto</e
+m>casa-museo</e
+m>statali</e
+m>provinciali</e
+m>comunali</e
+m>municipali</e
+m>civici</e
+m>universitarî</e
+m>diocesani</e
+m>privati</e
+m>M. virtuale</e
+m>m. virtuale on-line</e
+m>m. virtuale dell&rsquo;architettura moderna</e
+m>m. virtuale degli strumenti musicali</e
+m>da museo</e
+m>è roba da m</e
+m>sono idee da m</e
+m>pezzo da m</e
+m>Museo Novarese</e

@@ -1,0 +1,237 @@
+anno.txt
+"all'anno"
+"anno"
+"anno"
+"anno accademico"
+"anno accademico"
+"anno assicurativo"
+"anno bisestile"
+"anno contabile"
+"anno di nascita"
+"anno Domini (AD)"
+"anno Domini"
+"anno dopo anno, un anno dopo l'altro"
+"anno dopo anno, un anno dopo l'altro"
+"anno dopo anno, un anno dopo l'altro"
+"anno ecclesiastico"
+"anno finanziario"
+"anno fiscale"
+"anno liturgico"
+"anno luce"
+"anno lunare"
+"anno nuovo"
+"anno nuovo"
+"anno perfetto"
+"anno precedente"
+"anno prossimo"
+"anno sabbatico"
+"anno santo"
+"anno scolastico"
+"anno solare"
+"anno zero"
+"ballo formale di fine anno scolastico"
+"che dura un anno"
+"ciascun anno"
+"crisi del settimo anno"
+"del terzo anno"
+"di fine anno"
+"di sette anni\/del settimo anno"
+"di tutto l'anno"
+"di tutto l'anno"
+"di un anno"
+"due volte all'anno"
+"garanzia di un anno sul prodotto"
+"grande anno"
+"in riposo sabbatico, in anno sabbatico"
+"l'anno scorso"
+"l'anno scorso"
+"lo scorso anno"
+"nell'anno del Signore"
+"ogni anno"
+"per anno"
+"per anno"
+"per anno"
+"per tutto l'anno"
+"perdere qualche anno di vita"
+"periodo dell'anno"
+"primo dell'anno"
+"qualche anno fa"
+"ripetere un anno"
+"stagione dell'anno"
+"studente del secondo anno"
+"studente di primo anno"
+"studente universitario del primo anno"
+"studentessa di primo anno"
+"tutto l'anno"
+"un anno e un giorno"
+"un anno sì e l'altro pure"
+"ogni anno"
+#*'''anno bisestile'''
+*''(di studio e sim.)'' [[corso]], [[classe]]
+* [[anno luce]]
+*''A far la barba si sta bene un giorno, a prender moglie si sta bene un mese, ad ammazzare il maiale si sta bene un 
+:*[[ladino]]
+*Devoto/Oli, ''Il dizionario della lingua italiana '', edizione cartacea 2000-2001, Le Monnier, p.&nbsp;100
+*AA.VV. ''Dizionario etimologico '', edizione 2004, ristampa 2008, RusconiLibri, p.&nbsp;71
+M>annus</E
+M>civile</E
+M>comune</E
+M>sidereo</E
+M>astrale</E
+M>tropico</E
+M>solare</E
+M>equinoziale</E
+M>l’a</E
+M>fittizio</E
+M>besseliano</E
+M>annus fictus</E
+M>capo d’a</E
+M>capodanno</E
+M>buon a</E
+M>nuovo</E
+M>nuovo vita nuova</E
+M>corrente</E
+M>presente</E
+M>quest’anno</E
+M>entro l’a</E
+M>in capo all’a</E
+M>in capo a un a</E
+M>l’a</E
+M>scorso</E
+M>passato</E
+M>anno</E
+M>è da anno che non lo vedo</E
+M>ci andai anno</E
+M>l’altr’anno</E
+M>l’a</E
+M>prossimo</E
+M>l’a</E
+M> venturo</E
+M>l’a</E
+M>che viene</E
+M>un altr’a</E
+M>quest’altr’a</E
+M>l’a</E
+M>innanzi</E
+M>l’a</E
+M>avanti</E
+M>l’a</E
+M>prima</E
+M>l’a</E
+M>dopo</E
+M>l’a</E
+M>seguente</E
+M>l’a</E
+M>di poi</E
+M>l’a</E
+M>1920</E
+M> l’a</E
+M>476 dopo Cristo</E
+M>dell’era volgare</E
+M>l’a</E
+M>di grazia</E
+M>negli a</E
+M>dal 1933 al 1938</E
+M>gli a</E
+M>venti</E
+M>gli a</E
+M>quaranta</E
+M>i ruggenti a</E
+M>venti</E
+M>the roaring twenties</E
+M>il cinema degli a</E
+M>trenta</E
+M>la Germania degli a</E
+M>cinquanta</E
+M>gli a</E
+M>Venti</E
+M>gli a</E
+M>Trenta</E
+M>gli a</E
+M>’20</E
+M>’30</E
+M>scolastico</E
+M>accademico</E
+M>iscriversi al primo a</E
+M>di legge</E
+M>frequentare il terzo a</E
+M>del liceo</E
+M>ecclesiastico</E
+M>liturgico</E
+M>commerciale</E
+M>giudiziario</E
+M>finanziario</E
+M>amministrativo</E
+M>comico</E
+M>idrologico</E
+M>santo</E
+M>sabbatico</E
+M>climaterico</E
+M>ho fatto il contratto per un a</E
+M>garanzia valida per cinque a</E
+M>è più d’un a</E
+M>che non mi scrive</E
+M>a Ferragosto</E
+M>sarà un a</E
+M>che son tornato</E
+M>oggi è l’a</E
+M>una volta</E
+M>due volte l’a</E
+M>rimandare di a</E
+M>in a</E
+M>da un a</E
+M>all’altro</E
+M>anni or sono</E
+M>vent’anni fa</E
+M>negli a</E
+M>della grande carestia</E
+M>negli a</E
+M>della prima guerra mondiale</E
+M>gli a</E
+M>facili</E
+M>gli a</E
+M>difficili</E
+M>con gli a</E
+M>cent’a</E
+M>mille a</E
+M>eh! padre</E
+M>son anni e anni che la non mi vuol far noci</E
+M>mi pare</E
+M>mi sa</E
+M>mill’a</E
+M>di rivederlo</E
+M>stare un a</E
+M>per far qualcosa</E
+M>annata</E
+M>ho riscosso tutt’insieme un a</E
+M>di stipendio</E
+M>ci ho rimesso tutto il guadagno di un a</E
+M>il raccolto dell’a</E
+M>bimbo di un a</E
+M>una ragazzina di 15 a.</E
+M>questo vino ha 3 anni</E
+M>pan d’un giorno e vin d’un a</E
+M>finire</E
+M>compiere gli a</E
+M>aver molti a</E
+M>addosso</E
+M>essere avanti</E
+M> in là con gli a</E
+M>grave d’anni</E
+M>carico d’anni</E
+M>gli a</E
+M>gli pesano</E
+M>gli uomini hanno gli a</E
+M>che sentono</E
+M>le donne quelli che mostrano</E
+M>portare bene gli a</E
+M>levarsi</E
+M>togliersi</E
+M>nascondere gli a</E
+M>i verdi a</E
+M>passa male i suoi a</E
+M>è stato l’unico conforto ai suoi tristi anni</E
+M>grande anno</E
+M>cosmico</E
+M>grande anno</E
+M>platonico</E

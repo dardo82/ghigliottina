@@ -1,0 +1,35 @@
+bancario.txt
+"assegno bancario"
+"assegno bancario"
+"bancario"
+"bancario"
+"bonifico bancario"
+"codice bancario"
+"conto bancario"
+"conto corrente bancario"
+"deposito bancario"
+"di libretto bancario"
+"fare il bancario"
+"fido bancario"
+"gruppo bancario"
+"istituto bancario"
+"libretto bancario"
+"libretto bancario"
+"libretto bancario"
+"mutuo bancario"
+"prestito bancario"
+"resoconto bancario"
+"sconto bancario"
+"scoperto bancario"
+"sistema bancario"
+"sportello bancario"
+"tasso di interesse bancario"
+*impiegato di banca
+m>assegno b</e
+m>operazioni b</e
+m>tecnica b</e
+m>contratto</e
+m>sconto</e
+m>credito b</e
+m>consorzio bancario</e
+m>lo sciopero dei bancarî</e

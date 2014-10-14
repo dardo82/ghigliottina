@@ -1,0 +1,121 @@
+chiedere.txt
+"chiedere"
+"chiedere"
+"chiedere"
+"chiedere"
+"chiedere, replace: chiedersi"
+"chiedere a"
+"chiedere a gran voce"
+"chiedere a gran voce"
+"chiedere a qn di"
+"chiedere a qn di sposarlo"
+"chiedere a qualcuno di fare qualcosa"
+"chiedere aiuto"
+"chiedere aiuto a qualcuno"
+"chiedere con insistenza"
+"chiedere consiglio"
+"chiedere di"
+"chiedere di"
+"chiedere di"
+"chiedere di nuovo"
+"chiedere di vedere qualcuno"
+"chiedere il pizzo"
+"chiedere informazioni"
+"chiedere informazioni di"
+"chiedere l'elemosina"
+"chiedere l'elemosina"
+"chiedere la mano"
+"chiedere la mano della figlia"
+"chiedere notizie di"
+"chiedere notizie di qn"
+"chiedere perdono"
+"chiedere perdono"
+"chiedere perdono"
+"chiedere venia"
+"chiedere perdono"
+"chiedere permesso"
+"chiedere pietà"
+"chiedere pietà"
+"chiedere qc a qn"
+"chiedere qualcosa"
+"chiedere scusa"
+"chiedere scusa"
+"chiedere scusa"
+"chiedere scusa"
+"chiedere scusa"
+"chiedere su qc"
+"chiedere troppo"
+"chiedere troppo"
+"chiedere un pagamento"
+"chiedere un passaggio"
+"chiedere venia"
+"non ha che da chiedere (e sarà dato)"
+"uomo che non deve chiedere mai"
+#* ''Hai fatto quello che ti ho chiesto? '''chiedere''' a quell'uomo un'informazione.''
+*[[domandare]], [[pretendere]], [[reclamare]], [[esigere]], [[imporre]], [[pregare]], [[invitare]], [[implorare]], [[desiderare]], [[cercare]], [[ricercare]], avere bisogno, [[sollecitare]], [[invocare]]
+*[[interrogare]], voler sapere
+*[[elemosinare]], [[mendicare]]
+*[[informarsi]], domandare notizie
+*[[rispondere]]
+*[[richiedere]], [[chiedersi]]
+*[[richiesto]]
+M>quaer</E
+M>chèrere</E
+M>chièrere</E
+M>chièsi</E
+M>chiè</E
+M>chiedésti</E
+M>chièsto</E
+M>chièdo</E
+M>chièdono</E
+M>chièda</E
+M>chièdano</E
+M>chièggo</E
+M>chièggono</E
+M>chiègga</E
+M>chièggano</E
+M>il pane</E
+M>un prestito a un amico</E
+M>l’elemosina</E
+M>un libro da leggere</E
+M>perdono</E
+M>pietà</E
+M>scusa</E
+M>grazia</E
+M>una grazia</E
+M>la grazia</E
+M>ti chiedo un favore</E
+M>un colloquio</E
+M>licenza</E
+M>la licenza</E
+M>una licenza</E
+M>in sposa</E
+M>in moglie una ragazza</E
+M>le ho chiesto di sposarmi</E
+M>gli chiesi di non farlo più</E
+M>chiedo che la lettera mi venga consegnata</E
+M>l’ora</E
+M>un’indicazione</E
+M>un’informazione</E
+M>il prezzo di un oggetto</E
+M>di qualcuno</E
+M>c’è di là un signore che chiede di te</E
+M>chiedi e ti sarà dato</E
+M>è gente che si vergogna di ch</E
+M>non sono abituato a chiedere</E
+M>è un lavoro che chiede un impegno continuo</E
+M>la patria nei suoi pericoli assai chiede agli uomini</E
+M>ma più forse talvolta alle donne</E
+M>l’odio chiede la distruzione dell’immagine</E
+M>che cosa chiedi da me?</E
+M>chiedeva dai fratelli la sua parte del patrimonio</E
+M> non chiedere troppo alla vita!</E
+M> non potete chiedere altri sacrifici ai vostri genitori.</E
+M>m’ha chiesto duemila euro per quel tappeto</E
+M>quanto chiede per lucidare i mobili?</E
+M>non chiedo altro che d’esser lasciato in pace</E
+M>queste piante chiedono l’acqua</E
+M>come Costantin chiese Silvestro</E
+M>a guerir de la lebbre</E
+M>Così mi chiese questi per maestro A guerir de la sua superba febbre</E
+M>bisogna informare il chiedente che manca un attestato</E

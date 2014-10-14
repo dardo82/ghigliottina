@@ -1,0 +1,27 @@
+leopardo.txt
+"a macchia di leopardo"
+"leopardo"
+"leopardo"
+"pelliccia del leopardo"
+"leopardo delle nevi"
+"leopardo leone"
+"rana leopardo"
+*[[animale]]
+*italiano
+M>leopardus</E
+M>leo</E
+M>pardus</E
+M>Panthera pardus</E
+M>pantera nera</E
+M>leoparda</E
+M>un l</E
+M>femmina</E
+M>la femmina del leopardo</E
+M>un mantello</E
+M>un collo di leopardo</E
+M>delle nevi</E
+M>irbis</E
+M>di mare</E
+M>Hydrurga leptonyx</E
+M>legno leopardo</E
+M>legno serpente</E

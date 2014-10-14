@@ -1,0 +1,28 @@
+fermata.txt
+"fermata"
+"fermata"
+"fermata"
+"fermata"
+"luogo di una fermata"
+"fermata del treno"
+"fermata dell'autobus"
+"fermata improvvisa"
+"prossima fermata"
+"stazione con fermata a richiesta"
+"ultima fermata"
+M>faremo una f</E
+M>al caffè e poi saremo da voi</E
+M>il treno qui non fa f</E
+M>lunga</E
+M>breve</E
+M>una f</E
+M>di cinque minuti</E
+M>obbligatoria</E
+M>facoltativa</E
+M>a richiesta</E
+M>dov’è la f</E
+M>del tram?</E
+M>una f</E
+M>secondaria</E
+M>a corserelle e a fermatine</E
+M>eran tornate poco distante dalla casa</E

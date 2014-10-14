@@ -1,0 +1,18 @@
+ragioniere.txt
+"ragioniere"
+"ragioniere"
+"ragioniere (ufficialmente abilitato alla professione)"
+"ragioniere abilitato"
+"ragioniere abilitato"
+"ragioniere generale"
+*[[contabile]], [[computista]]
+*[[approssimativo]]
+*[[ragionieristico]], [[ragionieresco]]
+*[[contabilità]], [[commercialista]]
+M>ragione</E
+M>rationarius</E
+M>ha il diploma di r</E
+M>il r</E
+M>della ditta</E
+M>il r</E
+M>capo del comune</E

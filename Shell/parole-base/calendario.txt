@@ -1,0 +1,50 @@
+calendario.txt
+"calendario"
+"calendario"
+"calendario da scrivania"
+"calendario degli appuntamenti"
+"calendario ebraico"
+"calendario ecclesiastico"
+"calendario giudiziario"
+"calendario giuliano"
+"calendario gregoriano"
+"calendario perpetuo"
+"calendario scolastico"
+"giorno di calendario"
+"in calendario"
+* [[almanacco]], [[lunario]], [[effemeride]]  
+* (di un'attività) [[programma]]
+*[[calendarista]], [[calendarizzare]]
+*italiano
+M>calendarium</E
+M>calendae</E
+M>anno civile</E
+M>c. solare</E
+M>c. lunare</E
+M>lunisolare</E
+M>lunisolare</E
+M>giuliano</E
+M>gregoriano</E
+M>rivoluzionario francese</E
+M>vendemmiaio</E
+M>brumaio</E
+M>termidoro</E
+M>perpetuo</E
+M>illustrato</E
+M>tascabile</E
+M>scolastico</E
+M>accademico</E
+M>giudiziario</E
+M>liturgico</E
+M>sportivo</E
+M>calcistico</E
+M>ciclistico</E
+M>venatorio</E
+M>di borsa</E
+M>agricolo</E
+M>orticolo</E
+M>parlamentare</E
+M>stabilire il c</E
+M>delle udienze</E
+M>di un congresso</E
+M>di una serie d’incontri</E

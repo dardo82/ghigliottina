@@ -1,0 +1,63 @@
+abbattere.txt
+"abbattere"
+"abbattere"
+"abbattere"
+"abbattere, replace: abattersi"
+"abbattere a colpi di scure"
+"colpire, abbattere"
+"diminuire, ridurre, abbattere"
+"falciare, abbattere"
+#*''i cittadini hanno firmato una [[petizione]] per far '''abbattere''' l'[[albero]]''
+#*'''''abbattere''' l'avversario''
+#*''dopo quell'incidente si è '''abbattuto''' moltissimo''
+*''(tirare giù di morale)'' [[deprimere]]
+*''(far cadere giù)'' [[erigere]]
+M>abbatt</E
+M>batt</E
+M>un vento</E
+M>Che</E
+M>Li rami schianta</E
+M>abbatte</E
+M>un albero</E
+M>un muro</E
+M>una casa</E
+M>cinque aerei abbattuti in combattimento</E
+M>David abbatté con la fionda il gigante Golia</E
+M>un animale</E
+M>la selvaggina</E
+M>a. un cinghiale</E
+M>un fagiano</E
+M>sei starne</E
+M>un avversario</E
+M>l’animo</E
+M>il coraggio di qualcuno</E
+M>la lunga malattia lo ha molto abbattuto</E
+M>un governo tirannico</E
+M>il tiranno</E
+M>s’abbatté al suolo fulminato</E
+M>l’albero</E
+M>sradicato dalla furia del vento</E
+M>s’era abbattuto sulla strada</E
+M>tutte le disgrazie si sono abbattute su di lui</E
+M>s’è molto abbattuto per il licenziamento</E
+M>Abbattersi in qualcuno</E
+M>uscito di Ferrara e cavalcando verso Verona</E
+M>s’abbatté in alcuni li quali mercatanti parevano</E
+M>ed erano masnadieri</E
+M>abbattersi a un luogo</E
+M>ricordatevi che sete in villa</E
+M>e a casa di povero oste</E
+M>vi sete abbattuto</E
+M>abbattersi a fare una cosa</E
+M>quando s’abbatteva a passare per qualche paese</E
+M>andava adagio adagio</E
+M>rocce</E
+M>minerali</E
+M>virare in poppa</E
+M>in carena</E
+M>in chiglia</E
+M>porte</E
+M>finestre</E
+M>le tende</E
+M>leggi</E
+M>monete</E

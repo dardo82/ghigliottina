@@ -1,0 +1,57 @@
+amicizia.txt
+"amicizia"
+"amicizia"
+"amicizia"
+"amicizia, amicizie"
+"amicizia, amicizie"
+"amicizia dei vicini"
+"amicizia duratura"
+"amicizia intima"
+"con amicizia"
+"coppa dell'amicizia"
+"fare amicizia con"
+"in amicizia"
+"patti chiari amicizia lunga"
+"per amicizia"
+#*''tra loro c'era una grande 
+*''patti chiari 
+*''
+M>amicitia</E
+M>amicus</E
+M>profonda</E
+M>pura</E
+M>disinteressata</E
+M>interessata</E
+M>falsa</E
+M>incostante</E
+M>vincoli</E
+M>legami di a</E
+M>fare</E
+M>stringere a</E
+M>legarsi d’a</E
+M>con qualcuno</E
+M>stringersi in a</E
+M>con qualcuno</E
+M>coltivare l’a</E
+M>un’a</E
+M>rompere</E
+M>guastare l’amicizia</E
+M>tra due città</E
+M>tra due paesi</E
+M>trattato di a</E
+M>in a</E
+M>te lo dico in tutta a</E
+M>per a</E
+M>lo fece per pura a</E
+M>di saluto</E
+M>di cappello</E
+M>patti chiari</E
+M>lunga</E
+M>in paese si era saputo di quella sua a</E
+M>particolari</E
+M>Les amitiés particulières</E
+M>avere poche</E
+M>numerose a</E
+M>uomo di molte a</E
+M>guàrdati dalle a</E
+M>pericolose</E

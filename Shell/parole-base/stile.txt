@@ -1,0 +1,247 @@
+stile.txt
+"(arredamento) in stile"
+"caduta di stile"
+"con stile"
+"con stile"
+"esercizio di stile"
+"fuori stile"
+"impostare uno stile"
+"in stile"
+"in stile country"
+"mancanza di stile"
+"nello stile di"
+"nuotare a stile libero"
+"nuovo stile"
+"scuola vecchio stile"
+"stile"
+"stile"
+"stile"
+"stile"
+"stile"
+"stile d'arte"
+"stile di carattere sans serif"
+"stile di espressione"
+"stile di espressione"
+"stile di famiglia"
+"stile di prosa"
+"stile di scrittura"
+"stile di scrittura"
+"stile di vita"
+"stile di vita"
+"stile di vita"
+"stile di vita"
+"stile letterario"
+"stile libero"
+"stile libero"
+"stile linguistico"
+"stile linguistico"
+"stile modello"
+"stile musicale"
+"stile ornamentale"
+"stile personale"
+"stile rana"
+"stile romanico"
+"stile semplice"
+"vecchio stile"
+"vecchio stile"
+"vecchio stile"
+"vecchio stile"
+#*''lo stile barocco'' 
+*''(scrittura)''dal 
+*''(comportamento)'' dal francese ''[[stylé]]'' cioè "[[stile]]"
+*''(di opera artistica, autore, eccetera)'' [[forma]], [[espressione]], [[ordine]], [[scuola]], [[tendenza]], [[tecnica]], [[mano]], [[tocco]], [[modo]], [[maniera]], [[lingua]], [[linguaggio]]
+*[[abitudine]], [[consuetudine]], [[usanza]], [[uso]], [[costume]]
+*''(di abito)'' [[taglio]], [[linea]], [[foggia]], [[tipo]], [[stampo]], [[impronta]]
+*''(strumento per scrivere)'' [[stilo]]
+*''in grande stile''
+M>lus</E
+M>stilo</E
+M>stile</E
+M>stilo</E
+M>stando alla predica</E
+M> scriveva in tavole di cera collo stile</E
+M> detta la predica</E
+M> tornava alla sua lettiga e scriveva in foglio tutto quello che aveva scritto nelle predette tavole di cera</E
+M>Deh porgi mano a l&#8217;affannato ingegno</E
+M> Amor</E
+M> ed a lo stile stanco e frale</E
+M> Per dir ...</E
+M>penna</E
+M>Qual di pennel fu maestro o di stile Che ritraesse ...?</E
+M>niuna cosa dà la natura ... che egli</E
+M>con lo stile e con la penna o col pennello non dipignesse</E
+M>stilo</E
+M>Giuro al cielo! Una tale finzione meriterebbe uno stile nel cuore</E
+M>ogni parola di lei gli aveva trapassato il cuore come una punta di stile</E
+M>Saldo faggio lo stile sia. Tra poco La vangatura ti comincia</E
+M>stile</E
+M>stilo</E
+M>stile</E
+M>non si è mai per ancora veduto in alcun secolo</E
+M> appo nazione alcuna</E
+M> s. corrotto o barbaro e rozzo</E
+M> e lingua pura o delicata</E
+M> né viceversa</E
+M> ma sempre e in ogni luogo la rozzezza</E
+M> la purità</E
+M> la perfezione</E
+M> la decadenza</E
+M> la corruttela della lingua e dello s. si sono trovate in compagnia</E
+M>curare lo s.</E
+M>ornamenti</E
+M>infiorettature</E
+M>preziosità di stile</E
+M>esercizi di stile</E
+M>un maestro di stile</E
+M>l&#8217;attribuzione a Tacito del &#171;Dialogo degli oratori&#187; è discussa per ragioni di s.</E
+M>scrivere sonetti sullo s.</E
+M>secondo lo s.</E
+M>seguendo lo s.</E
+M>del Petrarca</E
+M>Deporrò giù lo mio soave stile</E
+M> Ch&#8217;i&#8217; ho tenuto nel trattar d&#8217;amore</E
+M>dir d&#8217;amore in stili alti et ornati</E
+M>le quali</E
+M>non solamente in fiorentin volgare e in prosa scritte per me sono ...</E
+M> ma ancora in istilo umilissimo e rimesso quanto il più si possono</E
+M>colloquiale</E
+M>letterario</E
+M>sostenuto</E
+M>giornalistico</E
+M>burocratico</E
+M>s. elevato</E
+M>dimesso</E
+M>semplice</E
+M>sobrio</E
+M>elegante</E
+M>ampolloso</E
+M>sciatto</E
+M>accurato</E
+M>fiacco</E
+M>vigoroso</E
+M>elevatezza</E
+M>eleganza</E
+M>vigoria di stile</E
+M>s. attico</E
+M>s. asiano</E
+M>s. alto</E
+M>sublime</E
+M>medio</E
+M>mezzano</E
+M>umile</E
+M>tragico</E
+M>comico</E
+M>elegiaco</E
+M>dolce stil novo</E
+M>s. oratorio</E
+M>s. declamatorio</E
+M>s. eroico</E
+M>bucolico</E
+M>s. epistolare</E
+M>s. diplomatico</E
+M>clausole di stile</E
+M>lo s. omerico</E
+M>ciceroniano</E
+M>tacitiano</E
+M>petrarchesco</E
+M>manzoniano</E
+M>lo s. petrarchesco di molti lirici del Cinquecento</E
+M>discorso</E
+M>s. diretto</E
+M>s. indiretto</E
+M>s. indiretto libero</E
+M>lo s. di Beethoven</E
+M>di Wagner</E
+M>musica a cappella</E
+M>s. concertante</E
+M>s. rappresentativo</E
+M>lo s. di Vivaldi</E
+M>di Mozart</E
+M>di Paganini</E
+M>lo s. di Toscanini</E
+M>di von Karajan</E
+M>maniera</E
+M>gusto</E
+M>s. classico</E
+M>s. dorico</E
+M>ionico</E
+M>corinzio</E
+M>composito</E
+M>s. bizantino</E
+M>arabo</E
+M>romanico</E
+M>gotico</E
+M>rinascimentale</E
+M>barocco</E
+M>rococò</E
+M>neoclassico</E
+M>un mobile di s. Luigi XV</E
+M>Luigi Filippo</E
+M>s. Impero</E
+M>Restaurazione</E
+M>Reggenza</E
+M>s. umbertino</E
+M>vittoriano</E
+M>s. floreale</E
+M>rococò</E
+M>mobili in stile</E
+M>opera che manca</E
+M>che è ricca</E
+M>di stile</E
+M>Tengan dunque ver&#8217; me l&#8217;usato stile Amor</E
+M> madonna</E
+M> il mondo e mia fortuna</E
+M>Segui</E
+M> segui tuo stile Ostinata che sei</E
+M>travagliosa Era mia vita: ed è</E
+M> né cangia stile</E
+M>è andato via senza salutare</E
+M> ormai è diventato il suo s.</E
+M>se ti ha restituito quei soldi è segno che ha cambiato stile</E
+M>si usa dire che gli Inglesi hanno s.</E
+M>quella signora ha s.</E
+M>un suo s.</E
+M>uno s. assolutamente personale</E
+M>è una questione di stile</E
+M>è una caduta di s</E
+M>ciò che li persuadeva ... all&#8217;indulgenza nei riguardi di Fadigati ... era appunto il suo s.</E
+M> intendendo per s. in primo luogo una cosa: la sua riservatezza</E
+M> il palese impegno che aveva sempre messo ... nel non dare scandalo</E
+M>lo stile è l&#8217;uomo</E
+M>le style c&#8217;est l&#8217;homme</E
+M>le style est l&#8217;homme même</E
+M>in grande s.</E
+M>in great style</E
+M>un&#8217;azione militare condotta in grande s.</E
+M>una mostra organizzata in grande s.</E
+M>intende dare un ricevimento in grande stile</E
+M>vecchio s.</E
+M>un palazzo</E
+M>un albergo</E
+M>un giardino</E
+M>un salotto vecchio s.</E
+M>un signore</E
+M>una signora vecchio s.</E
+M>una cerimoniosità</E
+M>una gentilezza</E
+M>una probità vecchio stile</E
+M>ha eseguito il salto con perfetto s.</E
+M>ha fatto sfoggio di uno s. impeccabile</E
+M>si è imposto su tutti gli altri per il suo stile</E
+M>s. americano</E
+M>s. ventrale</E
+M>ha battuto il primato mondiale dei cento metri stile libero</E
+M>stile della Circoncisione</E
+M>s. veneto</E
+M>s. dell&#8217;Incarnazione</E
+M>s. francese</E
+M>della Pasqua</E
+M>s. bizantino</E
+M>s. della Natività</E
+M>vecchio s.</E
+M>nuovo s.</E
+M>v. st.</E
+M>n. st.</E
+M>s. tettonico</E
+M>s. isoclinale</E
+M>s. alpino</E

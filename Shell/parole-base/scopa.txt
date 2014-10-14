@@ -1,0 +1,49 @@
+scopa.txt
+"manico di scopa"
+"manico di scopa"
+"scopa"
+"scopa"
+"scopa"
+"scopa nuova"
+"una mazza di scopa"
+*(botanica) [[erica]]
+* [[ramazza]]
+*[[scopare]], [[scopatura]]
+M>scopae -arum</E
+M>scopa</E
+M>Erica scoparia</E
+M>s. da granate</E
+M>s. da ciocco</E
+M>Erica arborea</E
+M>s. marina</E
+M>tamerice</E
+M>Tamarix gallica</E
+M>s. meschina</E
+M>brugo</E
+M>s. delle streghe</E
+M>scopazzo</E
+M>terra di scopa</E
+M>di brughiera</E
+M>granata</E
+M>una s. nuova</E
+M>vecchia</E
+M>consumata</E
+M>s. nuova spazza bene tre giorni</E
+M>s. di saggina</E
+M>s. elettrica</E
+M>essere magro come una s.</E
+M>come un manico di s.</E
+M>essere un manico di s.</E
+M>ha mangiato</E
+M>ingoiato</E
+M>il manico della s.</E
+M>è stata un gran flagello questa peste: ma è anche stata una s.; ha spazzato via certi soggetti</E
+M>scopino</E
+M>giocare a scopa</E
+M>fare una partita di scopa</E
+M>fare scopa</E
+M>ho fatto di seguito tre scope.</E
+M>carte</E
+M>denari</E
+M>settebello</E
+M>primiera.</E

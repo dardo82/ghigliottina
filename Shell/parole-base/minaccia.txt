@@ -1,0 +1,62 @@
+minaccia.txt
+"con minaccia"
+"costituire una minaccia"
+"minaccia"
+"minaccia"
+"minaccia di espulsione"
+"minaccia di espulsione"
+"minaccia implicita"
+"minaccia per la salute"
+"minaccia per la tua salute"
+"minaccia per se stessa"
+"sotto la minaccia"
+"sotto minaccia"
+"sotto tiro, sotto minaccia di arma da fuoco"
+"trattativa con minaccia all'uso della forza"
+#*''sotto la minaccia di una pistola fu costretto a rivelare la combinazione della cassaforte''
+#*''quello stalker  minaccia continuamente quella donna''
+*[[avvertimento]], [[intimidazione]]; sintomo premonitore, [[avvisaglia]]; [[sfida]], [[provocazione]]
+*[[intimidazione]], [[ricatto]]
+M>minaciae</E
+M>arum</E
+M>minax</E
+M>acis</E
+M>minari</E
+M>fare una m</E
+M>a qualcuno</E
+M>aspetto</E
+M>atteggiamento pieno di m</E
+M>gesto</E
+M>frase</E
+M>sguardo di m</E
+M>lettera di m</E
+M>di morte</E
+M>di scandalo</E
+M>di vendetta</E
+M>di guerra</E
+M>la m</E
+M>d’un signore noto per non minacciare invano</E
+M>indurre</E
+M>costringere qualcuno a fare qualcosa con le m</E
+M>ottenere qualcosa con le m</E
+M>non temere le m</E
+M>arrendersi alle minacce</E
+M>nella casa c’era un silenzio pieno di minaccia</E
+M>Queste m</E
+M>di romane mura Al cielo e al tempo</E
+M>difensiva</E
+M>aggressiva</E
+M>c’è m</E
+M>di tempesta</E
+M>è sotto la continua m</E
+M>di essere licenziato</E
+M>una tale politica è una grave m</E
+M>di guerra</E
+M>il traffico così caotico costituisce una continua m</E
+M>all’incolumità pubblica</E
+M>terribile</E
+M>tremenda</E
+M>spaventosa m</E
+M>incombente</E
+M>vicina</E
+M>lontana</E

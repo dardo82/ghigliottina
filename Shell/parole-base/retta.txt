@@ -1,0 +1,23 @@
+retta.txt
+"ascensione retta"
+"dare retta"
+"dare retta a"
+"in linea retta"
+"persona retta"
+"retta"
+"retta"
+"retta spezzata"
+#* ''Grazie ad una borsa di studio, non doveva pagare nessuna retta''
+*[[giusta]], [[morigerata]], [[corretta]]
+*[[curva]]
+"ascensione retta"
+"dare retta"
+"dare retta a"
+"in linea retta"
+"persona retta"
+"retta"
+"retta"
+"retta spezzata"
+#* ''Grazie ad una borsa di studio, non doveva pagare nessuna retta''
+*[[giusta]], [[morigerata]], [[corretta]]
+*[[curva]]

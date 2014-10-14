@@ -1,0 +1,45 @@
+annullare.txt
+"annullare"
+"annullare"
+"annullare"
+"annullare"
+"annullare; sospendere una gara per il freddo"
+#* ''oggi voglio 
+#* ''il matrimonio non si può 
+#* ''l'incontro '''fu annullato''' all'ultimo momento''
+#* '''''hanno annullato''' il risultato della partita''
+#* ''anni di sforzi per le trattative '''erano stati annullati''' in un istante per un insulto sconsiderato''
+*''(francobollo, biglietto)'' rendere nullo, dichiarare nullo, [[cancellare]], [[sopprimere]], [[invalidare]]
+*''(legge, decreto)'' [[abolire]], [[revocare]], [[estinguere]], [[brogare]], [[infirmare]], [[cassare]]
+*[[obliterare]]
+* [[annichilare]] o [[annichilire]], ,  [[rimuovere]]
+* ''(francobollo, biglietto)'' [[convalidare]]
+* [[consolidare]] (''prima'' di aver annullato)
+* [[ripristinare]] (''dopo'' aver annullato)
+*[[annullarsi]]
+M>annullare</E
+M>nullus</E
+M>un ordine</E
+M>una disposizione</E
+M>un testamento</E
+M>un contratto</E
+M>un matrimonio</E
+M>una nomina</E
+M>un’elezione</E
+M>un compito</E
+M>una prova d’esame</E
+M>un gol</E
+M>una ricevuta</E
+M>un biglietto di viaggio</E
+M>un francobollo</E
+M>una marca da bollo</E
+M>disposizioni contrastanti che si annullano a vicenda</E
+M>i benefici effetti</E
+M>gli sforzi compiuti</E
+M>il suo intervento annulla la mia autorità</E
+M>ogni gran dolore</E
+M>Ogni gran male annulla</E
+M>E il dolce canto s’annullò nell’aria</E
+M>annullarsi in Dio</E
+M>nella vita dell’universo</E
+M>un francobollo annullato</E

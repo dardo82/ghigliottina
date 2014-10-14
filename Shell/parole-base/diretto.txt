@@ -1,0 +1,149 @@
+diretto.txt
+"accesso diretto"
+"ben diretto"
+"confronto diretto"
+"costo diretto"
+"di prima mano; diretto"
+"diretto"
+"diretto"
+"diretto"
+"diretto"
+"diretto"
+"diretto a"
+"diretto a"
+"diretto a"
+"diretto a nord"
+"diretto a nord"
+"diretto a nord"
+"diretto a nord est"
+"diretto a nord ovest"
+"diretto a nord- est"
+"diretto a nord- est"
+"diretto da"
+"diretto in patria"
+"diretto interessato"
+"diretto verso casa"
+"diretto verso casa"
+"diretto, forte"
+"discorso diretto"
+"esame diretto di un testimone chiamato in aula"
+"filo diretto"
+"fuoco diretto sul bersaglio"
+"in modo diretto"
+"in modo diretto"
+"metodo diretto"
+"modo di essere diretto"
+"ordine diretto"
+"pagamento diretto"
+"prodotto diretto"
+"racconto diretto (forma poetica)"
+"rapporto diretto"
+"rapporto diretto"
+"scontro diretto"
+"segnale diretto"
+"stampa su carta ad annerimento diretto"
+"trattamento positivo diretto"
+"verdetto diretto"
+*[[avviato]], [[incamminato]]
+*(di corrispondenza, discorso) [[indirizzato]], [[inviato]], [[mandato]], [[spedito]]
+*(di luce, linea) [[diritto]], [[filato]], [[rettilineo]], in linea retta, senza deviazioni
+*(di trasmissione, spettacolo, governo) [[guidato]], [[retto]], [[comandato]], [[amministrato]], [[disciplinato]], [[presieduto]]
+*[[treno]], [[convoglio]]
+* [[guidato]], [[retto]], [[condotto]] 
+*(di corrispondenza, discorso) [[ricevuto]]
+*(di luce, linea) [[obliquo]], [[storto]], [[traverso]], [[tortuoso]]
+*treno locale
+*[[indiretto]]
+M>dirigere</E
+M>directus</E
+M>dirig</E
+M>sono d</E
+M>a casa</E
+M>Sì come cosa in suo segno diretta</E
+M>provvedimenti d</E
+M>a dar lavoro ai disoccupati</E
+M>una lettera d</E
+M>al sindaco</E
+M>a chi sono d</E
+M>le tue parole?</E
+M>un concerto d</E
+M>bene</E
+M>male</E
+M>economia d</E
+M>prendere la strada più d</E
+M>il cammino d</E
+M>è sempre migliore</E
+M>discendenza in linea diretta</E
+M>questa strada va diretta alla stazione</E
+M>andarono diretti a casa</E
+M>vado diretto allo scopo</E
+M>essere</E
+M>mettere</E
+M>mettersi a contatto d</E
+M>in comunicazione d</E
+M>fare una domanda d</E
+M>esigere una risposta d</E
+M>la causa d</E
+M>le conseguenze d</E
+M>di un fatto</E
+M>conduzione d</E
+M>di un’azienda</E
+M>di un fondo</E
+M>il mio superiore d</E
+M>il mio d</E
+M>superiore</E
+M>coltivatore d</E
+M>tiro d</E
+M>tiro indiretto</E
+M>impollinazione d</E
+M>omoclina</E
+M>autoimpollinazione</E
+M>colorante d</E
+M>colorante sostantivo</E
+M>legame d</E
+M>dominio d</E
+M>dominio utile</E
+M>giudizio direttissimo</E
+M>giudizio per direttissima</E
+M>bene d</E
+M>di consumo</E
+M>treno d</E
+M>diretto</E
+M>direttissimo</E
+M>direttissimo</E
+M>treno</E
+M>espresso</E
+M>Exp</E
+M>imposte d</E
+M>tradizione d</E
+M>tradizione indiretta</E
+M>complemento d</E
+M>discorso d</E
+M>raggio d</E
+M>raggio riflesso</E
+M>luce d</E
+M>illuminazione d</E
+M>trasmissione d</E
+M>in ripresa d</E
+M>inverso</E
+M>moto d</E
+M>senso</E
+M>verso</E
+M>senso antiorario</E
+M>rapporto d</E
+M>proporzionalità</E
+M>ragione d</E
+M>in ragione d</E
+M>in ragione inversa</E
+M>diretta</E
+M>inversa</E
+M>colpire l’avversario con un d</E
+M>sinistro</E
+M>destro</E
+M>vado direttamente a casa</E
+M>rispondi direttamente a me</E
+M>mettiti in contatto direttamente con lui</E
+M>prodotti agricoli venduti direttamente dal produttore</E
+M>imposte che gravano direttamente sul contribuente</E
+M>inversamente</E
+M>grandezze direttamente proporzionali</E

@@ -1,0 +1,62 @@
+sudicio.txt
+"sudicio"
+"sudicio"
+"sudicio"
+"sudicio, marcio"
+#* trascorrono il loro tempo nel 
+*''(molto sporco)'' [[sporco]], [[lurido]], [[sozzo]]
+*[[pulito]]
+*[[insudiciare]], [[sudiceria]], [[sudicione]], [[sudiciume]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 2077
+M>sucido</E
+M>-ce</E
+M>-cie</E
+M>sporco</E
+M>un paese s.</E
+M>vie</E
+M>strade s.</E
+M>una casa</E
+M>una stanza s.</E
+M>scale s.</E
+M>pavimenti s.</E
+M>lenzuola s.</E
+M>camicie s.</E
+M>scarpe s.</E
+M>un uomo s. e trasandato</E
+M>avere la faccia s.</E
+M>le mani s.</E
+M>le unghie s.</E
+M>gente s.</E
+M>strade s. di rifiuti</E
+M>una tovaglia s. di macchie di grasso</E
+M>un colletto s. di untume</E
+M>mani s. di morchia</E
+M>essere s. di carbone</E
+M>di gesso</E
+M>di fango</E
+M>di polvere</E
+M>sporco</E
+M>industrie s.</E
+M>avere la fedina penale s.</E
+M>avere la coscienza s.</E
+M>un individuo s.</E
+M>gente s.</E
+M>un&#8217;azione s.</E
+M>un s. affare</E
+M>è un s. usuraio</E
+M>questa è s. avarizia</E
+M>nelle sue parole c&#8217;è solo s. egoismo</E
+M>discorsi s.</E
+M>romanzi</E
+M>spettacoli</E
+M>film sudici</E
+M>è gente abituata a vivere nel s.</E
+M>vivono nel s. come i maiali</E
+M>c&#8217;era tanto s. in quella casa</E
+M> che mi ci sono voluti tre giorni per pulirla</E
+M>in questa faccenda c&#8217;è del sudicio</E
+M>da un sudicione come te non accetto prediche</E
+M>è una sudiciona</E
+M> una donna di strada</E
+M>agire</E
+M>comportarsi sudiciamente</E

@@ -1,0 +1,53 @@
+sperimentale.txt
+"centro sperimentale"
+"design sperimentale"
+"dimostrazione sperimentale"
+"film sperimentale"
+"impianto sperimentale"
+"lavoro sperimentale"
+"medicina sperimentale"
+"metodo sperimentale"
+"metodo sperimentale"
+"prova sperimentale"
+"psicologia sperimentale"
+"scienza sperimentale"
+"scuola sperimentale"
+"sperimentale"
+"teatro sperimentale"
+"tecnica sperimentale"
+*[[sperimentalmente]]
+*[[sperimentalismo]]
+*[[esperimento]]
+*[[sperimentare]]
+M>sperimento</E
+M>esperimento</E
+M>dimostrazione</E
+M>prova</E
+M>verifica s.</E
+M>scienza s.</E
+M>fisica s.</E
+M>fisica teorica</E
+M>geometria s.</E
+M>metodo s.</E
+M>esperimenti</E
+M>tecnologie s. di lavorazione dei metalli</E
+M>una nuova terapia s. del cancro</E
+M>colture s.</E
+M>cinema s.</E
+M>fotografia s.</E
+M>teatro s.</E
+M>letteratura s.</E
+M>in fieri</E
+M>scuola s.</E
+M>classi s.</E
+M>le sperimentali</E
+M>a titolo s.</E
+M>in via s.</E
+M>intervento chirurgico eseguito a titolo sperimentale</E
+M>campi</E
+M>terreni s.</E
+M>centro s. di ricerche di medicina spaziale</E
+M>centro s. di cinematografia</E
+M>confermare</E
+M>verificare sperimentalmente un&#8217;ipotesi</E
+M>per ora il farmaco è usato solo sperimentalmente</E

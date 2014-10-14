@@ -1,0 +1,35 @@
+piscina.txt
+"a bordo piscina"
+"festa in piscina"
+"piscina"
+"piscina"
+"piscina, tank"
+"piscina comunale"
+"piscina con idromassaggio"
+"piscina coperta"
+"piscina per bambini"
+"piscina per bambini"
+"piscina riscaldata"
+*[[vasca]]
+*vivaio di pesci,[[ peschiera]]
+*italiano
+M>piscina</E
+M>piscis</E
+M>probatica</E
+M>in muratura</E
+M>in cemento armato</E
+M>prefabbricata</E
+M>pensile</E
+M>d&#8217;acqua dolce</E
+M>d&#8217;acqua di mare</E
+M>termale</E
+M>per bambini</E
+M>olimpionica</E
+M>pubblica</E
+M>privata</E
+M>scoperta</E
+M>coperta</E
+M>frequentare una p</E
+M>andare in piscina</E
+M>Reattore a piscina</E
+M>piscina</E

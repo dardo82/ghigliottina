@@ -1,0 +1,63 @@
+cupo.txt
+"cupo"
+"cupo"
+"cupo"
+"cupo"
+"cupo"
+"cupo, triste, mogio"
+"malinconicamente, in modo cupo"
+"suono cupo"
+"umore cupo"
+* [[profondo]], [[fondo]], [[incavato]]
+* ''(di foresta, luogo)'' [[folto]], [[denso]], [[fitto]], [[ombroso]]
+*''(di colore)'' [[carico]]
+*''(di suono)'' [[sordo]], [[basso]], [[cavernoso]], [[roco]]
+*''(di odio, risentimento, dolore)'' [[intenso]], [[aspro]];
+*''(di sguardo, persona)'' [[triste]], [[chiuso]], [[impenetrabile]], [[introverso]], [[taciturno]], [[preoccupato]], [[accigliato]]
+*[[chiaro]], [[luminoso]], [[limpido]], [[brillante]], [[acceso]]
+*[[aperto]], [[soleggiato]], [[rado]]
+* [[sonoro]], [[squillante]]
+* [[allegro]], [[sereno]], [[spensierato]] 
+*[[cupamente]]
+M>cupa</E
+M>una c</E
+M>voragine</E
+M>i c</E
+M>abissi del mare</E
+M>caverne</E
+M>dal fondo d’un pozzo molto c</E
+M>Per la tua fame sanza fine cupa</E
+M>piatto c</E
+M>piatto fondo</E
+M>fondina</E
+M>una c</E
+M>foresta</E
+M>un c</E
+M>sotterraneo</E
+M>un ambiente molto c</E
+M>cantando vanìo Come per acqua c</E
+M>cosa grave</E
+M>nel più c</E
+M>dell’antro</E
+M>Non è sanza cagion l’andare al c</E
+M>tinta c</E
+M>verde c</E
+M>rosso c</E
+M>descrivere</E
+M>rappresentare a tinte c</E
+M>il c</E
+M>brontolìo del tuono</E
+M>con voce cupa</E
+M>E cupo gli tonâr l’armi su ’l petto</E
+M>Volaron sul ponte che c</E
+M>sonò</E
+M>era c</E
+M>in volto</E
+M>essere d’umore c</E
+M>di temperamento c</E
+M>il mondo esterno le apparve improvvisamente c. e terrificante</E
+M> pieno di paure e di pericoli</E
+M>borbottare</E
+M>lamentarsi cupamente</E
+M>il tuono rumoreggiava cupamente in lontananza</E
+M>il portone si chiuse risonando cupamente</E

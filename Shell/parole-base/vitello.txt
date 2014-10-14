@@ -1,0 +1,43 @@
+vitello.txt
+"carne di vitello"
+"costoletta di vitello"
+"libro antico per metà in pelle di vitello"
+"pelle di vitello"
+"pelli di vitello bianche (da concia)"
+"vitello"
+"vitello d'oro"
+"vitello tonnato"
+*[[lattone]], [[lattonzolo]]
+*italiano
+M>vit</E
+M>llus</E
+M>vit</E
+M>lus</E
+M>vitellus</E
+M>vitellum</E
+M>la vacca ha partorito un v.</E
+M>un v. di pochi mesi</E
+M>v. di latte</E
+M>v. da macello</E
+M>carne di vitello</E
+M>noce di v. arrosto</E
+M>lombata di v. ai ferri</E
+M>v. in umido</E
+M>spezzatino di v.</E
+M>scaloppine di v.</E
+M>v. tonnato</E
+M>una cintura di v. nera</E
+M>una borsetta di v. marrone</E
+M>un paio di scarpe di v.</E
+M>v. al cromo</E
+M>Vitello d’oro</E
+M>Esodo</E
+M>adorare il v. d’oro</E
+M>Vitello</E
+M>vécchio</E
+M>marino</E
+M>Phoca vitulina</E
+M>tuorlo</E
+M>deutoplasma</E
+M>non avendo parole lì per lì per difendersi</E
+M> piangeva come un vitellino</E

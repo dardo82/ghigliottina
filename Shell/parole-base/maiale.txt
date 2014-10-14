@@ -1,0 +1,58 @@
+maiale.txt
+"braciola di maiale"
+"carne di maiale"
+"carne di maiale"
+"da maiale"
+"da maiale"
+"del maiale non si butta niente"
+"maiale"
+"maiale"
+"maiale"
+"maiale"
+"maiale"
+"maiale da ingrassare"
+"maiale da ingrasso"
+"mangiare come un maiale"
+"pasticcio di maiale"
+"piatto a base di maiale e fagioli"
+"salsiccia di maiale"
+"vivere come un maiale"
+#* ''devo portare le mie 
+*''(animale)'' [[porcello]], [[porco]], [[suino]], [[verro]]
+*''(persona sporca o scostumata)'' [[animale]] (generalizzazione), [[bestia]] (generalizzazione), [[porco]], [[scostumato]], [[sporcaccione]]
+* [[maialata]]
+* [[cinghiale]], [[porcaro]], [[porcile]], [[truogolo]]
+*[[suino]]
+*''A far la barba  si sta bene un giorno, a prender moglie si sta bene un mese, ad ammazzare il 
+*''che 
+*''fare il 
+*''mangiare come un 
+*italiano
+*latino
+*inglese
+M>maialis</E
+M>porco</E
+M>suino</E
+M>Sus scrofa</E
+M>osso fognaiolo</E
+M>da grasso</E
+M>braciole</E
+M>zampone</E
+M>àrista</E
+M>fegato di maiale</E
+M>maiala</E
+M>scrofa</E
+M>d’acqua</E
+M>capibara</E
+M>non si lava mai</E
+M>è una vera m</E
+M>si è ridotto come un m</E
+M>sembrate un branco di maiali!</E
+M>non sa stare a tavola</E
+M>sembra un m</E
+M>è grassa come una maiala</E
+M>quel vecchio m</E
+M>insidia le ragazzine</E
+M>mignatta</E
+M>siluro a lenta corsa</E
+M>siluro pilotato</E

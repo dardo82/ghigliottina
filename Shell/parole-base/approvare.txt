@@ -1,0 +1,30 @@
+approvare.txt
+"approvare"
+"approvare"
+"far approvare"
+"forzare per fare approvare, spingere"
+"varare, approvare"
+*[[stimare]], [[lodare]], [[ammirare]], [[apprezzare]], [[elogiare]]
+* dire di sì, essere d’accordo, [[accettare]], [[acconsentire]], [[ratificare]]
+*''(un candidato)'' [[promuovere]]
+*''(una scelta, una proposta)'' [[accogliere]],  [[convalidare]], [[concordare]]
+* [[condividere]] 
+*[[criticare]], [[biasimare]], [[disprezzare]]
+*dire di no, [[negare]], [[rifiutare]], [[respingere]]
+*''(una scelta, una proposta ecc.)''[[disapprovare]],  [[dissentire]], [[opporsi]]
+* [[approvabile]], [[approvazione]]
+* [[provare]]
+* [[approbare]]
+M>approbare</E
+M>probare</E
+M>io appròvo</E
+M>un discorso</E
+M>la condotta di qualcuno</E
+M>una proposta</E
+M>approvò con un cenno del capo</E
+M>non approvo che tu ti comporti così</E
+M>la Camera approvò il progetto di legge</E
+M>il bilancio è stato approvato</E
+M>la commissione d’esame lo approvò in tutte le materie</E
+M>i candidati approvati sono 24</E
+M> i respinti 5</E

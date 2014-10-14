@@ -1,0 +1,165 @@
+causa.txt
+"(essere) parte in causa"
+"a causa"
+"a causa di"
+"a causa del tempo"
+"a causa di"
+"a causa di"
+"a causa di"
+"a causa di"
+"a causa di"
+"a causa di quello"
+"a causa di questo"
+"abbracciare una causa"
+"avviare una causa"
+"battersi per una causa legittima"
+"causa"
+"causa"
+"causa"
+"causa"
+"causa civile"
+"causa di forza maggiore"
+"causa ed effetto"
+"causa ed effetto"
+"causa finale"
+"causa immediata"
+"causa pendente"
+"causa persa"
+"causa probabile"
+"causa ultima"
+"causa, azione legale"
+"celebre causa"
+"che causa"
+"che causa confusione"
+"che causa o è soggetto ad assuefazione"
+"che causa una malattia"
+"Chi è causa del suo mal pianga se stesso"
+"Chiamare in causa"
+"cognizione di causa"
+"conferenza prima della causa"
+"costituire la causa fondamentale"
+"essere implicato in una causa"
+"essere la causa di"
+"essere la causa di"
+"far causa comune"
+"fare causa"
+"fare causa"
+"fare causa"
+"fare causa comune con"
+"honoris causa"
+"honoris causa"
+"intentare causa"
+"intentare, fare causa"
+"interrompere le trasmissioni a causa di problemi tecnici"
+"la Causa Prima"
+"licenziamento per giusta causa"
+"partecipare ad una causa"
+"parti in causa"
+"patteggiare, contrattare un accordo in una causa legale"
+"per causa di"
+"per giusta causa"
+"per questa causa"
+"perorare una causa a favore di qn"
+"precedente la causa"
+"presentare istanza per, fare causa per"
+"pressato (a causa di domande frequenti . Ex. by a detective)"
+"prima causa"
+"prima della causa"
+"servire la causa"
+"sostenitore di una causa"
+"sostenitrice di una causa"
+"trasferimento di una causa presso un altro tribunale"
+*[[ragione]], [[motivo]], [[cagione]], [[movente]], [[occasione]], [[perché]], [[pretesto]], [[origine]], [[fonte]], [[radice]], [[sorgente]], [[inizio]], [[principio]], 
+*[[scopo]], [[obiettivo]], [[ideale]], [[fine]], [[interesse]], [[motivazione]], [[fede]], [[ideologia]], [[diritti]], [[idealità]]
+*[[bandiera]], [[movimento]]
+*[[conseguenza]], [[effetto]], [[risultato]]
+*[[causale]], [[cosa]]
+*''essere parte in causa''
+*italiano
+*catalano
+*portoghese
+*spagnolo
+M>causa</E
+M>cosa</E
+M>l’umidità è c</E
+M>di malattie</E
+M>il contatto dei due fili è stato c</E
+M>di un corto circuito</E
+M>la tua lettera è c</E
+M>per me di vera soddisfazione</E
+M>prossima</E
+M>remota</E
+M>le c</E
+M>della prima guerra mondiale</E
+M>risalire dagli effetti alle cause</E
+M>efficiente</E
+M>finale</E
+M>occasionale</E
+M>falsa c</E
+M>non causa pro causa</E
+M>post hoc ergo propter hoc</E
+M>causa delle cause</E
+M>causa causarum</E
+M>causa di sé</E
+M>causa sui</E
+M>ho agito per una giusta c</E
+M>non si può far ricorso senza una c</E
+M>legittima</E
+M>dare causa</E
+M>giusta c</E
+M>licenziamento per giusta causa</E
+M>sei stato tu la c</E
+M>di tutti i nostri guai</E
+M>chi è c</E
+M>del suo mal pianga sé stesso</E
+M>a causa di</E
+M>la pianta s’è seccata a c</E
+M>del gelo</E
+M>il gelo</E
+M>per causa di</E
+M>per causa mia</E
+M>tua</E
+M>hanno avuto molti dispiaceri per c</E
+M>dei figli</E
+M>fare c</E
+M>muovere</E
+M>intentare c</E
+M>contro uno</E
+M>avere c</E
+M>essere in c</E
+M>con qualcuno</E
+M>pendente</E
+M>sballata</E
+M>causa persa</E
+M>perduta</E
+M>avvocato delle c</E
+M>perse</E
+M>quel signor dottor delle c</E
+M>perse</E
+M>dare c</E
+M>vinta</E
+M>chiamare in c</E
+M>qualcuno</E
+M>essere in c</E
+M>essere parte in c</E
+M>io sono parte in c</E
+M>e non posso parlare</E
+M>nessuno è buon giudice in c</E
+M>propria</E
+M>parlare con cognizione di causa</E
+M>abbracciare la c</E
+M>dei lavoratori</E
+M>tradire una c</E
+M>avere</E
+M>fare c</E
+M>comune con qualcuno</E
+M>complemento di c</E
+M>per il freddo</E
+M>di fame</E
+M>dal dolore</E
+M>Complemento di c</E
+M>efficiente</E
+M>da un incendio</E
+M>dall’artrite</E
+M>dalla sua apparizione</E
+M>Cause pie</E

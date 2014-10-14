@@ -1,0 +1,48 @@
+rappresentante.txt
+"fare il rappresentante"
+"legale rappresentante"
+"rappresentante"
+"rappresentante"
+"rappresentante"
+"rappresentante"
+"rappresentante del Governo Britannico"
+"rappresentante di classe"
+"rappresentante di commercio"
+"rappresentante di lista"
+"rappresentante eletto"
+"rappresentante legale"
+*[[delegato]], [[incaricato]], [[inviato]], [[addetto]], [[plenipotenziario]], [[agente]], [[venditore]]
+*(in politica) [[portavoce]], [[deputato]], [[membro]], [[ambasciatore]]
+*[[esponente]], [[seguace]]
+*[[propagandista]]
+M>rappresentare</E
+M>alla cerimonia è intervenuto il r</E
+M>del ministro</E
+M>un r</E
+M>dell&#8217;amministrazione comunale</E
+M>i r</E
+M>di un&#8217;associazione</E
+M>di una categoria</E
+M>sindacale</E
+M>i r</E
+M>dei partiti</E
+M>di lista</E
+M>i r</E
+M>del popolo</E
+M>camera dei r</E
+M>diplomatico</E
+M>di commercio</E
+M>propagandista</E
+M>di libri scolastici</E
+M>legale</E
+M>giudiziale</E
+M>volontario</E
+M>processuale</E
+M>è un tipico r. dell&#8217;Ottocento</E
+M> i r</E
+M>della corrente veristica in Italia</E
+M>un autorevole r</E
+M>della pittura informale</E
+M>del neopositivismo</E
+M>l&#8217;ultimo r</E
+M>di una mentalità sorpassata</E

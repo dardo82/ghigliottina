@@ -1,0 +1,255 @@
+scala.txt
+"autocarro con scala"
+"camion dei pompieri con scala estensibile"
+"di camion dei pompieri con scala estensibile"
+"disegno in scala"
+"economie di scala"
+"in scala al naturale"
+"la Scala"
+"Teatro alla Scala"
+"La Scala Theatre"
+"mezzo passo su una scala"
+"minore armonica (scala)"
+"portare su scala industriale"
+"ridurre in scala"
+"scala"
+"scala"
+"scala"
+"scala"
+"scala"
+"scala a chiocciola"
+"scala a chiocciola"
+"scala a libretto"
+"scala allungabile"
+"scala allungabile"
+"scala assoluta"
+"scala Beaufort"
+"scala cromatica"
+"scala dei grigi"
+"scala di corda"
+"scala di Giacobbe"
+"scala di grigio"
+"scala di servizio"
+"scala di sicurezza"
+"scala diatonica"
+"scala distanze"
+"scala gerarchica"
+"scala logaritmica"
+"scala logaritmica"
+"scala maggiore"
+"scala minore"
+"scala mobile"
+"escalator"
+"scala musicale"
+"scala pentatonica"
+"scala progressiva"
+"scala quaranta"
+"scala reale"
+"scala sociale"
+"su grande scala"
+"su scala ridotta"
+"su scala ridotta"
+"su una scala da… a"
+"su vasta scala"
+*[[sottoscala]]
+*italiano
+M>scala -ae</E
+M>scalae -arum</E
+M>scand</E
+M>alzata</E
+M>pedata</E
+M>pianerottoli</E
+M>rampe</E
+M>a ginocchio</E
+M>tromba</E
+M>pozzo</E
+M>anima</E
+M>s. appoggiata</E
+M>s. a sbalzo</E
+M>s. a volta</E
+M>s. esterna</E
+M>interna</E
+M>s. principale</E
+M>s. regia</E
+M>s. di servizio</E
+M>s. a rampe</E
+M>s. a chiocciola</E
+M>s. ripida</E
+M>erta</E
+M>comoda</E
+M>agevole</E
+M>salire</E
+M>scendere le s.</E
+M>fare le s.</E
+M>ha il fiatone perché ha fatto le s. di corsa</E
+M>ruzzolare dalle s.</E
+M>cadere per le s.</E
+M>salire le s. di qualcuno</E
+M>Tu proverai sì come sa di sale Lo pane altrui</E
+M> e come è duro calle Lo scendere e &#8217;l salir per l&#8217;altrui scale</E
+M>non salirò più queste s.</E
+M>scalinata</E
+M>scalea</E
+M>s. portatile</E
+M>s. a pioli</E
+M>s. a libretto</E
+M>s. di corda</E
+M>s. volante</E
+M>s. a tarozzi</E
+M>biscaglina</E
+M>staffa</E
+M>scale dei barcarizzi</E
+M>scala reale</E
+M>s. da combattimento</E
+M>scale di sicurezza</E
+M>s. Porta</E
+M>s. aerea</E
+M>autoscala</E
+M>s. romana</E
+M>S. mobile</E
+M>s. mobile</E
+M>S. idraulica</E
+M>idroscala</E
+M>piattaforma di lavoro</E
+M>autoscala</E
+M>s. di Caronte</E
+M>Tra Lerice e Turbìa</E
+M> la più diserta</E
+M> La più rotta ruina è una scala</E
+M> Verso di quella</E
+M> agevole e aperta</E
+M>le cose mortali</E
+M> Che son s. al fattor</E
+M> chi ben l&#8217;estima</E
+M>il mondo è fatto a scale</E
+M> chi le scende e chi le sale</E
+M>Della Scala</E
+M>Scaligeri</E
+M>a scala</E
+M>mettere</E
+M>disporre a s.</E
+M>ha quattro figli</E
+M> tutti a s.</E
+M> di 12</E
+M> 10</E
+M> 8 e 6 anni</E
+M>capelli tagliati a scala</E
+M>in scala</E
+M>gli alunni si sono messi in scala</E
+M> per ordine di altezza</E
+M>una serie di volumi di varia grandezza</E
+M> collocati tutti in scala.</E
+M>S. di monta</E
+M>scala svedese</E
+M>s. ortopedica</E
+M>s. orizzontale</E
+M>s. timpanica</E
+M>s. vestibolare</E
+M>s. di colori</E
+M>s. dei grigi</E
+M>s. di valori</E
+M>s. dei bisogni</E
+M>s. delle difficoltà</E
+M>scala</E
+M>s. Welzenbach</E
+M>s. UIAA</E
+M>Unione Internazionale Associazioni Alpinistiche</E
+M>s. francese</E
+M>s. Blachère</E
+M>s. dei tempi geologici</E
+M>s. geocronologica</E
+M>s. di Mohs</E
+M>s. delle magnitudo</E
+M>s. di Richter</E
+M>s. Mercalli</E
+M>s. del vento</E
+M>Beaufort</E
+M>s. marina internazionale</E
+M>s. Douglas</E
+M>s. di Forel</E
+M>scala reale</E
+M>gamma</E
+M>scala cromatica</E
+M>scala di modo maggiore</E
+M>scala maggiore</E
+M>scala di modo minore</E
+M>scala minore</E
+M>do-re-mi-fa-sol-la-si-do</E
+M>mi-fa</E
+M>si-do</E
+M>scala di la minore</E
+M>do maggiore</E
+M>la-si-do-re-mi-fa-sol-la</E
+M>si-do</E
+M>mi-fa</E
+M>scala minore naturale</E
+M>sensibile</E
+M>sol</E
+M>sol</E
+M>sol</E
+M>scala minore armonica</E
+M>la-si-do-re-mi-fa-sol</E
+M>la.</E
+M>sol</E
+M>scala minore melodica la-si-do-re-mi-fa</E
+M>sol</E
+M>-la</E
+M>fare le s.</E
+M>s. di riduzione</E
+M>scala 1/100.000</E
+M>1:100.000</E
+M>scala di uno a centomila</E
+M>s. grafica</E
+M>s. di pendio</E
+M>su larga s.</E
+M>su vasta s.</E
+M>tentare un esperimento su vasta s.</E
+M>in piccola s.</E
+M>su s. ridotta</E
+M>su s. nazionale</E
+M>su s. nazionale la ditta è la più importante del settore</E
+M>su s. mondiale</E
+M>intraprendere un&#8217;attività su s. mondiale</E
+M>avviare una produzione su s. industriale</E
+M>economie di scala</E
+M>di dimensione</E
+M>diseconomie di scala</E
+M>S. mobile</E
+M>sliding scale</E
+M>échelle mobile</E
+M>indicizzazione.</E
+M>s. graduata</E
+M>s. metrica</E
+M>s. funzionale</E
+M>fondo s.</E
+M>cambiare fondo s.</E
+M>fattore di scala</E
+M>s. di sintonia</E
+M>s. parlante</E
+M>s. lineare</E
+M>s. logaritmica</E
+M>doppia s. logaritmica</E
+M>s. delle lunghezze in centimetri</E
+M>s. dei tempi in secondi</E
+M>s. termometrica</E
+M>fenomeni su s. astronomica</E
+M>macroscopica</E
+M>microscopica</E
+M>atomica</E
+M>proprietà di s.</E
+M>effetto di s.</E
+M>leggi di s.</E
+M>transizioni di fase</E
+M>transizioni ordine-disordine</E
+M>invarianza di s.</E
+M>frattali.</E
+M>s. delle immersioni</E
+M>marche di bordo libero</E
+M>s. di solidità</E
+M>scala franca</E
+M>diverse città commercianti</E
+M> da noi dette le s. del Levante</E
+M>fare scala</E
+M>fare scalo</E
+M>Né scala in Inghelterra né in Irlanda Mai lasciò far</E
+M> né sul contrario lito</E

@@ -1,0 +1,126 @@
+volume.txt
+"abbassare il volume"
+"of volume US"
+"alto volume"
+"high volume"
+"alzare il volume"
+"controllo del volume"
+"volume control"
+"definire il volume"
+"determine the volume"
+"densità del volume"
+"volume density"
+"il volume lasciato in cima a un contenitore riempito di liquido"
+"produzione del volume"
+"volume production"
+"tabella del volume"
+"volume table"
+"volume"
+"volume"
+"volume"
+"volume"
+"volume"
+"volume"
+"volume"
+"volume d'affari"
+"volume d'aria"
+"air volume"
+"volume delle vendite"
+"volume di vendita"
+"sales volume"
+"volume molare"
+"molar volume"
+"volume specifico"
+"specific volume"
+"volume, libro"
+"volume"
+#* occupa un volume di un metro cubo
+#* Un [[enciclopedia]] di dieci '''volumi'''
+*[[mole]], [[massa]], [[dimensione]], [[grandezza]], [[misura]], [[proporzioni]], [[voluminosità]]
+*''(quantità di spazio indeterminata)''[[spazio]], [[ingombro]]
+*''(di affari, di scambi ecc.)'' [[quantità]], [[quantitativo]], [[mole]], [[massa]], [[entità]], [[valore]], [[ammontare]], [[intensità]]
+*''(della radio e simili) [[audio]] 
+*''(nell’antichità)'' [[rotolo]], [[papiro]] 
+* ''(in epoca moderna)''[[libro]], [[tomo]]
+M>vol</E
+M>men</E
+M>volv</E
+M>calcolare il v. di un cubo</E
+M>di un cilindro</E
+M>di una sfera</E
+M>il v. terrestre</E
+M>dell’ellissoide terrestre</E
+M>v. cavo</E
+M>v. specifico</E
+M>v. tecnici</E
+M>v. tecnici</E
+M>il v. d’aria contenuto nei polmoni</E
+M>sciogliere un v. di una sostanza in due v. di solvente</E
+M>un baule di gran v.</E
+M>voluminoso</E
+M>involto di poco v.</E
+M>c’era un gran v. di roba</E
+M>i pacchi di maggior v. si lascino al deposito</E
+M>a volume</E
+M>a misura</E
+M>a peso</E
+M>il v. degli affari</E
+M>il v. della produzione</E
+M>il v. degli scambî</E
+M>il v. del commercio estero</E
+M>valore</E
+M>v. sonoro</E
+M>regolatore di v.</E
+M>v. sonoro</E
+M>regolatore di v.</E
+M>volume</E
+M>con questi vicini che tengono la radio a tutto v.</E
+M> non si riesce a dormire</E
+M>puoi abbassare il v. del televisore</E
+M> per favore?</E
+M>v. d’ingombro</E
+M>vetture a tre v.</E
+M>vetture a due v.</E
+M>vetture a un v.</E
+M>monovolume</E
+M>v. di traffico</E
+M>massa</E
+M>quel v. di roba accatastata produsse una grand’impressione di spavento nella moltitudine</E
+M>volumen</E
+M>Fumo</E
+M> fiamme</E
+M> faville e vampi e nubi E volumi di pece al ciel n’andaro</E
+M>i ridenti avori Del bel collo</E
+M> e del crin l’aureo v.</E
+M>Stendean Reno e Panàr le indomit’onde Con immensi v. alla pianura</E
+M>Lo real manto di tutti i volumi Del mondo</E
+M>Par.</E
+M>Quattromilia trecento e due volumi Di sol</E
+M>Par.</E
+M>opistografo</E
+M>paginae</E
+M>versus</E
+M>è un bel v.</E
+M>un v. di 300 pagine</E
+M>un v. in ottavo</E
+M>in quarto</E
+M>in sedicesimo</E
+M>un v. in brochure</E
+M>rilegato</E
+M>ha lasciato una biblioteca di circa 10.000 volumi</E
+M>un’opera in due</E
+M>in dodici v.</E
+M>secondo</E
+M>terzo v.</E
+M>voll. 2</E
+M>vol. II</E
+M>vol. XII</E
+M>è già uscito il primo volume</E
+M>ho fatto legare i due libretti in un unico volume</E
+M>opera</E
+M>ha scritto molti e interessanti v.</E
+M>Vagliami ’l lungo studio e ’l grande amore Che m’ha fatto cercar lo tuo v.</E
+M>Nel suo profondo</E
+M>vidi che s’interna</E
+M> Legato con amore in un volume</E
+M> Ciò che per l’universo si squaderna</E

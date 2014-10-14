@@ -1,0 +1,51 @@
+verificare.txt
+"verificare"
+"verificare"
+#*prima di partire bisogna 
+#*occorre 
+#* si deve 
+*[[controllare]], [[provare]], [[appurare]], [[riscontrare]], [[constatare]], [[assodare]], [[analizzare]], [[esaminare]], [[accertare]], [[dimostrare]]
+*(nel linguaggio scientifico e filosofico) [[confermare]], [[convalidare]]
+* [[accertare]],   [[attestare]],  [[avverarsi]], [[realizzarsi]], [[ accadere]], [[succedere]]
+*[[verificarsi]], [[verifica]], [[verificabile]], [[verificatore]], [[verificatrice]]
+*[[esaminare]], [[ispezionare]],  [[testare]]
+M>verificare</E
+M>verus</E
+M>fac</E
+M>vérifier</E
+M>io verìfico</E
+M>tu verìfichi</E
+M>v. la qualità</E
+M>la composizione di un prodotto</E
+M>v. la stabilità di un edificio</E
+M>v. i freni di un veicolo</E
+M>far v. la convergenza delle ruote di un’auto</E
+M>v. uno strumento di misurazione</E
+M>i pesi e le misure</E
+M>v. una bilancia</E
+M>un contatore</E
+M>v. i poteri</E
+M>v. il numero legale</E
+M>v. la maggioranza</E
+M>la coalizione di governo</E
+M>un’alleanza politica</E
+M>v. i conti</E
+M>v. il bilancio</E
+M>v. i crediti in un fallimento</E
+M>to verify</E
+M>falsificare</E
+M>v. sperimentalmente un’ipotesi</E
+M>i moti dei pianeti intorno al Sole</E
+M> prescindendo dalle perturbazioni che ciascuno di essi subisce a opera degli altri corpi celesti diversi dal Sole</E
+M> verificano le tre leggi di Keplero</E
+M>verificarsi</E
+M>le sue predizioni si sono verificate in tutti i particolari</E
+M>se per avventura una cosa simile dovesse verificarsi</E
+M>Porfirio mio</E
+M> le molestie e i mali della vita</E
+M> benché molti e continui</E
+M> pur quando</E
+M> come in te oggi si verifica</E
+M> non hanno luogo infortuni e calamità straordinarie</E
+M>allora si verificò un fatto nuovo</E
+M>si è verificato un incidente spiacevole</E

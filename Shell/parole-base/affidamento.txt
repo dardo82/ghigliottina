@@ -1,0 +1,26 @@
+affidamento.txt
+"affidamento"
+"affidamento"
+"affidamento"
+"affidamento di minore"
+"affidamento esclusivo"
+"fare affidamento su"
+#* ''dare '''affidamento'''''
+#* '''''affidamento''' familiare''
+*[[garanzia]], [[assicurazione]]; [[assegnamento]], [[fiducia]]
+*[[affidamento condiviso]]
+M>affidamentum</E
+M>di un deposito</E
+M>di un minorenne a un istituto</E
+M>a. familiare</E
+M>A. preadottivo</E
+M>dare a</E
+M>è un funzionario che non dà nessun a</E
+M>di sé</E
+M>fare a</E
+M>su qualcuno</E
+M>qualche cosa</E
+M>facevo a</E
+M>sulle sue ripetute promesse</E
+M>lettera di a</E
+M>affidabilità</E

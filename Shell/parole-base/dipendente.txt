@@ -1,0 +1,39 @@
+dipendente.txt
+"dipendente"
+"dipendente"
+"dipendente"
+"dipendente"
+"dipendente"
+"dipendente da"
+"dipendente da"
+"dipendente da"
+"dipendente da"
+"dipendente da"
+"dipendente da"
+"dipendente variabile"
+"diventare dipendente da"
+"essere dipendente da, dipendere da"
+"rendere dipendente"
+*[[indipendente]]
+M>dipendere</E
+M>uffici</E
+M>organi d</E
+M>lavoratori d</E
+M>lavoro d.</E
+M>proposizione d</E
+M>subordinata</E
+M>grandezza</E
+M>variabile d</E
+M>il direttore ha riunito tutti i suoi d</E
+M>essere severo</E
+M>affabile coi proprî d</E
+M>i d</E
+M>di un’azienda</E
+M>i d</E
+M>del ministero dell’Interno</E
+M>statali</E
+M>privati</E
+M>i d</E
+M>pubblici</E
+M>i pubblici dipendenti</E
+M>dipendenza</E

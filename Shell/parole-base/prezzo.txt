@@ -1,0 +1,244 @@
+prezzo.txt
+"a basso prezzo"
+"a buon prezzo"
+"a buon prezzo"
+"a caro prezzo"
+"a metà prezzo"
+"a poco prezzo"
+"a prezzo di costo più compenso forfettario"
+"a prezzo elevato"
+"a prezzo unico"
+"a quale prezzo"
+"a qualsiasi prezzo"
+"ad alto prezzo"
+"ad alto prezzo"
+"ad alto prezzo"
+"ad un prezzo al dettaglio"
+"al prezzo di"
+"al prezzo di costo"
+"aumentare di prezzo"
+"aumentare il prezzo"
+"aumentato di prezzo"
+"buon prezzo"
+"cartellino del prezzo"
+"che non ha prezzo"
+"contrattare, tirare sul prezzo"
+"controllo del prezzo"
+"definire il prezzo"
+"definire il prezzo"
+"determinare il prezzo"
+"determinazione del prezzo"
+"di poco prezzo"
+"due al prezzo di uno"
+"fare meglio; superare; offrire un prezzo più alto"
+"fare un prezzo"
+"fare un prezzo maggiore"
+"fascia di prezzo"
+"fissare il prezzo (fare cartello)"
+"fissare un prezzo"
+"flat rate; prezzo fisso"
+"il prezzo lo fa il mercato"
+"il prezzo usuale"
+"il prezzo varia in base a"
+"invariabilità del prezzo"
+"limare un prezzo"
+"metà prezzo"
+"offrire un prezzo"
+"prezzo"
+"prezzo"
+"etichetta con il prezzo"
+"prezzo"
+"prezzo a corpo"
+"prezzo a persona"
+"prezzo a pronti"
+"prezzo a pronti"
+"prezzo al pezzo"
+"prezzo al pubblico"
+"prezzo all'ingrosso"
+"prezzo base"
+"prezzo basso"
+"prezzo commerciale"
+"prezzo commerciale"
+"prezzo consigliato"
+"prezzo contenuto"
+"prezzo corrente"
+"prezzo d'apertura"
+"prezzo d'occasione"
+"prezzo d'offerta"
+"prezzo d'offerta"
+"prezzo d'offerta"
+"prezzo del pacchetto"
+"prezzo del silenzio"
+"prezzo della corsa in taxi"
+"prezzo della telefonata"
+"prezzo di acquisto"
+"prezzo di aggiudicazione"
+"prezzo di aggiudicazione (quando il giudice dichiara chiusa l'asta con un colpo di martello)"
+"prezzo di borsa"
+"prezzo di chiusura"
+"prezzo di domanda"
+"prezzo di emissione"
+"prezzo di massima"
+"prezzo di mercato"
+"prezzo di partenza"
+"prezzo di realizzo"
+"prezzo di riserva"
+"prezzo di vendita"
+"prezzo di vendita"
+"prezzo effettivo"
+"prezzo elevato"
+"prezzo esorbitante"
+"prezzo esorbitante"
+"prezzo esorbitante; furto"
+"prezzo fisso"
+"prezzo fisso"
+"prezzo futuro"
+"prezzo globale"
+"prezzo massimo"
+"prezzo migliore"
+"prezzo modico"
+"prezzo modico"
+"prezzo netto"
+"prezzo nominale"
+#*''il prezzo è, insieme al sapore, uno dei fattori che più incide sulle scelte alimentari'' 
+*[[valore]], [[costo]]
+*[[prezzare]]
+M>tium</E
+M>relativo</E
+M>di acquisto</E
+M>di affitto</E
+M>della locazione</E
+M>dell&#8217;abbonamento</E
+M>del riscatto</E
+M>il p</E
+M>di un appartamento</E
+M>di un divano</E
+M>di un vestito</E
+M>pranzo a p</E
+M>fisso</E
+M>il p</E
+M>del biglietto</E
+M>lista dei p</E
+M>guerra dei p</E
+M>rivoluzione dei p</E
+M>editto dei p</E
+M>di vendita</E
+M>di costo</E
+M>di mercato</E
+M>corrente</E
+M>base</E
+M>imposto</E
+M>amministrati</E
+M>sorvegliati</E
+M>politico</E
+M>blocco dei p</E
+M>di calmiere</E
+M>di concorrenza</E
+M>fisso</E
+M>di favore</E
+M>d&#8217;affezione</E
+M>di copertina</E
+M>prezzo su strada</E
+M>prezzo chiavi in mano</E
+M>alto</E
+M>basso</E
+M>equo</E
+M>conveniente</E
+M>vendere</E
+M>comprare</E
+M>a prezzi alti</E
+M>bassi</E
+M>a caro p</E
+M>a buon p</E
+M>a un prezzo irrisorio</E
+M>un abito di poco p</E
+M>d&#8217;alto p</E
+M>di prezzo</E
+M>è merce di p</E
+M>questa!</E
+M>aumentare</E
+M>crescere</E
+M>rialzare i p</E
+M>calare</E
+M>ribassare i p</E
+M>le arance sono salite</E
+M>sono scese di p</E
+M>il p</E
+M>delle arance è salito</E
+M>è sceso</E
+M>aumento dei p</E
+M>ribasso</E
+M>crollo dei p</E
+M>fare il p</E
+M>fissare</E
+M>pattuire</E
+M>contrattare il p</E
+M>accordarsi</E
+M>discutere</E
+M>tirare sul p</E
+M>sul p</E
+M>c&#8217;intenderemo</E
+M>fare una riduzione sul p</E
+M>analisi dei p</E
+M>passaggio</E
+M>nolo</E
+M>corso</E
+M>cambio</E
+M>del riporto</E
+M>di storno</E
+M>non si legge bene il p</E
+M>non vedo il p</E
+M>il p</E
+M>dev&#8217;essere sempre esposto</E
+M>la morte di molti soldati è stato il p</E
+M>della vittoria</E
+M>accetterebbe volentieri l&#8217;incarico</E
+M>ma il p</E
+M>che gli si chiede è troppo alto</E
+M>ha imparato a vivere</E
+M>ma a caro p</E
+M>vendere a caro p</E
+M>la vita</E
+M>Gesù ha redento l&#8217;umanità col p</E
+M>del suo sangue</E
+M>a qualunque p</E
+M>a qualsiasi p</E
+M>a nessun p</E
+M>non avere prezzo</E
+M>non è p</E
+M>dell&#8217;opera</E
+M>non est operae pretium</E
+M>A prezzo</E
+M>il quale</E
+M>povero uomo essendo</E
+M>di portare pesi a p</E
+M>serviva chi il richiedeva</E
+M>mettere a p</E
+M>la propria onestà</E
+M>il proprio nome</E
+M>la propria firma</E
+M>Che sparga &#8217;l sangue e venda l&#8217;alma a p</E
+M>mettere a p</E
+M>la testa di uomo conosciuto reo</E
+M>a prezzo di</E
+M>ci sono riuscito a p</E
+M>di innumerevoli sacrifici</E
+M>complemento di p</E
+M>per</E
+M>costa poco</E
+M>molto</E
+M>costa caro</E
+M>vendere</E
+M>comperare</E
+M>a caro p</E
+M>a buon p</E
+M>al p</E
+M>di cento euro</E
+M>vendere</E
+M>comperare</E
+M>per poco</E
+M>per un pezzo di pane</E
+M>Lastre e colonne</E
+M>e le dorate travi Che furo in p</E
+M>agli lor padri e agli avi</E
+M>i letterati sono adesso in poco p</E

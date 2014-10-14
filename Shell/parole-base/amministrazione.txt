@@ -1,0 +1,99 @@
+amministrazione.txt
+"amministrazione"
+"amministrazione"
+"amministrazione"
+"sede di un amministrazione"
+"amministrazione"
+"amministrazione"
+"amministrazione centrale"
+"amministrazione controllata"
+"amministrazione della giustizia"
+"amministrazione forestale"
+"amministrazione, consiglio di amministrazione"
+"buona amministrazione"
+"buona amministrazione"
+"consiglio d'amministrazione"
+"consiglio di amministrazione"
+"consiglio di amministrazione"
+"consiglio di amministrazione locale"
+"funzionario della pubblica amministrazione"
+"impiego nella pubblica amministrazione"
+"in amministrazione fiduciaria"
+"l'amministrazione"
+"normale amministrazione"
+"presidente del consiglio di amministrazione"
+"presidente del consiglio di amministrazione"
+"pubblica amministrazione"
+"pubblica amministrazione locale"
+#* ''
+*[[governo]], [[gestione]], [[direzione]], [[cura]]; [[contabilità]], [[bilancio]], [[budget]]
+* [[azienda]], [[ufficio]], [[ente]]; [[amministratori]], [[dirigenti]], [[responsabili]]
+M>administratio</E
+M>onis</E
+M>administrare</E
+M>l’a</E
+M>dello stato</E
+M>di un comune</E
+M>di un collegio</E
+M>della giustizia</E
+M>dei sacramenti</E
+M>d’azienda</E
+M>economica</E
+M>l’a</E
+M>di un ente</E
+M>di una società</E
+M>del patrimonio familiare</E
+M>dei beni ereditarî</E
+M>di un fallimento</E
+M>fallimentare</E
+M>assumere</E
+M>affidare l’a</E
+M>di un istituto</E
+M>avere</E
+M>non avere pratica di amministrazione</E
+M>atti d’a</E
+M>di ordinaria a</E
+M>atti di straordinaria a</E
+M>cose</E
+M>affari</E
+M>problemi di ordinaria a</E
+M>controllata</E
+M>giudiziaria</E
+M>straordinaria delle aziende di credito</E
+M>pubblica</E
+M>fiduciaria internazionale</E
+M>trusteeship</E
+M>una buona</E
+M>una saggia</E
+M>un’ottima a</E
+M>una cattiva</E
+M>una pessima a</E
+M>un’a</E
+M>disordinata</E
+M>l’a</E
+M>comunale</E
+M>l’a</E
+M>della provincia</E
+M>comporre</E
+M>sciogliere</E
+M>rinnovare l’a</E
+M>i membri dell’a</E
+M>le deliberazioni dell’a</E
+M>ufficiale di a</E
+M>consiglio di a</E
+M>pubblica a</E
+M>centrale</E
+M>locale</E
+M>delitti contro la pubblica a</E
+M>durante l’a</E
+M>Clinton</E
+M>dopo l’a</E
+M>Ciampi</E
+M>delle Poste e Telecomunicazioni</E
+M>delle Ferrovie dello Stato</E
+M>autonoma dei Monopolî di Stato</E
+M>dei beni della Santa Sede</E
+M>dei beni della Santa casa di Loreto</E
+M>recarsi in a</E
+M>devo passare all’a</E
+M>per regolare la mia situazione</E

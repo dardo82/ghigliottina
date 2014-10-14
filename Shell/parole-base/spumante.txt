@@ -1,0 +1,37 @@
+spumante.txt
+"spumante"
+*etimologia -->
+M>spumare</E
+M>tre calici spumanti Di latte inghirlandato</E
+M>vino spumante</E
+M>vino s.</E
+M>vino s. di qualità</E
+M>vino s. di qualità prodotto in regioni determinate</E
+M>metodo tradizionale</E
+M>classico</E
+M>classico-tradizionale</E
+M>méthode champenoise</E
+M>metodo Charmat</E
+M>bianco</E
+M>rosé</E
+M>pinot</E
+M>prosecco</E
+M>moscato</E
+M>chardonnay</E
+M>extra brut</E
+M>brut</E
+M>extradry</E
+M>dry</E
+M>secco</E
+M>asciutto</E
+M>sec</E
+M>medium dry</E
+M>abboccato</E
+M>semisecco</E
+M>demi-sec</E
+M>sweet</E
+M>mild</E
+M>dolce</E
+M>doux</E
+M>allo s.</E
+M>allo s. ci sono stati i soliti brindisi e discorsi</E

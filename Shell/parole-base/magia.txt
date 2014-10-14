@@ -1,0 +1,38 @@
+magia.txt
+"della magia nera"
+"fare una magia a"
+"magia"
+"magia"
+"magia"
+"magia bianca"
+"magia naturale"
+"magia nera"
+"magia nera"
+"magia nera"
+"negromante di magia nera"
+"numero di magia"
+"trucco magico, magia"
+#*''Lo trasformò in rospo con una '''magia'''
+*[[stregoneria]], [[occultismo]], [[negromanzia]], [[chiromanzia]] 
+*[[incantesimo]], [[sortilegio]], [[malia]], [[iettatura]], [[malocchio]], [[maleficio]] 
+*[[magico]], [[magicità]], [[magica]], [[tortello magico]]
+* ''come per 
+*italiano
+M>mag</E
+M>nera</E
+M>negromanzia</E
+M>bianca</E
+M>esercitare</E
+M>praticare la m</E
+M>credere nella magia</E
+M>fattura</E
+M>mago</E
+M>fattucchiere</E
+M>stregoneria</E
+M>godersi la m</E
+M>del tramonto</E
+M>la m</E
+M>di quello sguardo lo attrasse fortemente</E
+M>ma questa è una m</E
+M>mi si presentò improvvisamente davanti</E
+M>come per magia</E

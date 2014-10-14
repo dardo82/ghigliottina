@@ -1,0 +1,103 @@
+tendere.txt
+"tendere"
+"tendere"
+"stendere, protendersi"
+"tendere"
+"tendere"
+"tendere"
+"tendere a"
+"tendere a"
+"tendere a"
+"tendere a"
+"tendere a"
+"tendere a mostrare"
+"tendere ad andare"
+"tendere al ribasso"
+"tendere l'orecchio"
+"tendere troppo"
+"tendere un'imboscata"
+"tendere un'imboscata"
+"tendere un'imboscata"
+"ambush tendere un'imboscata a somebody"
+"tendere una trappola a qualcuno"
+"tendere verso, essere inclini a"
+"tendere verso, essere inclini a"
+#*''stava per precipitare in un burrone, un suo amico dovette 
+#*''quell'alpinista voleva sempre 
+*[[distendere]], [[stendere]], [[tirare]], [[dispiegare]], [[protendere]], [[allungare]], [[porgere]]
+*[[rilasciare]], [[allentare]], [[ritrarre]] 
+*[[pretendere]],[[protendere]], [[tenda]], [[tendenza]], [[tenditore]], [[tensione]], [[tensore]]
+M>tend</E
+M>io tèndo</E
+M>tési</E
+M> tendésti</E
+M>téso</E
+M>avere</E
+M>t. tra un palo e un altro i fili di una linea telefonica</E
+M>telegrafica</E
+M>t. una stuoia a difesa dal sole</E
+M>t. un cavo</E
+M>t. le vele</E
+M>il vento tende le vele</E
+M>t. le corde</E
+M>t. la corda dell&#8217;arco</E
+M>t. i muscoli nello sforzo</E
+M>tendersi</E
+M>i muscoli si tendono nello sforzo</E
+M>t. reti</E
+M> t. le reti</E
+M>t. ai tordi</E
+M>Sì ch&#8217;avendo le reti indarno tese</E
+M> Il mio duro adversario se ne scorni</E
+M>t. panie</E
+M>trappole</E
+M>tagliole</E
+M>t. insidie</E
+M>un&#8217;insidia</E
+M>un agguato</E
+M>un tranello</E
+M>t. le ali</E
+M>tenere tesa una gamba</E
+M>t. la mano</E
+M>t. le braccia</E
+M> le mani</E
+M>le palme</E
+M>E come fantolin che &#8217;nver&#8217; la mamma Tende le braccia</E
+M>Ma io deluse a voi le palme tendo</E
+M>t. l&#8217;orecchio</E
+M>gli orecchi</E
+M>t. lo sguardo</E
+M>t. il cammino</E
+M> t. il corso</E
+M>l&#8217;altro drappello</E
+M>Tendea per le tirrene aure il suo corso</E
+M>l&#8217;acqua tende al basso</E
+M>la fiamma tende verso l&#8217;alto</E
+M>t. al bene</E
+M> al male</E
+M>t. alla malinconia</E
+M>t. a una meta</E
+M>a un obiettivo</E
+M>tutti i suoi sforzi tendono a un solo scopo</E
+M>tende alla cattedra universitaria</E
+M>tenderebbe a un&#8217;affermazione anche nel campo politico</E
+M>tutti tendiamo alla felicità</E
+M>la situazione tende a migliorare</E
+M>il tempo</E
+M>il barometro</E
+M>tende al bello</E
+M>la malattia tende a peggiorare</E
+M>una vernice che tende a scolorire</E
+M>è un legno che tende a piegarsi</E
+M>un azzurro che tende al viola</E
+M>un sapore che tende all&#8217;acido</E
+M> al dolce.</E
+M>t. a un valore</E
+M>t. a un limite</E
+M>la funzione tende all&#8217;infinito quando la variabile tende a x</E
+M>la funzione y=</E
+M>x tende a</E
+M>per x tendente all&#8217;infinito</E
+M>carattere tendente alla giovialità</E
+M>alla tristezza</E
+M>colore tendente al bruno.</E

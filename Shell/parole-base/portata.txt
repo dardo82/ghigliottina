@@ -1,0 +1,132 @@
+portata.txt
+"a lunga portata"
+"a portata d'orecchio"
+"a portata di"
+"A portata di mano"
+"a portata di orecchio, a portata di voce"
+"a portata di orecchio, a portata di voce"
+"a portata di tiro"
+"alla portata"
+"alla portata di"
+"alla portata di tutti"
+"alla sua portata"
+"ampia distanza, ampia portata"
+"campagna portata avanti dalla gente comune"
+"controllo della portata di acque di un fiume attraverso dighe"
+"di vasta portata"
+"essere a portata di mano"
+"fuori dalla propria portata"
+"fuori dalla tua portata"
+"fuori portata"
+"fuori portata"
+"la portata principale"
+"nelle tue possibilità, alla tua portata"
+"non a portata d'orecchio"
+"non a portata d'orecchio"
+"piatto da portata"
+"portata"
+"portata"
+"portata"
+"portata"
+"portata"
+"portata"
+"portata"
+"portata di"
+"portata lorda (per nave)"
+"portata massima"
+"portata principale"
+"portata rivoluzionaria"
+"portata statica"
+"portata utile"
+"tenere a portata di mano"
+#*''essere fuori portata''
+*[[piatto]], [[vivanda]], [[pietanza]] 
+*''(di carico)'' [[capacità]] 
+*'' (mil.; di un cannone, di un proietto ecc.)'' [[gittata]] 
+* [[tiro]]  
+*Hyphenation
+*[[a portata di mano]]
+M>due p</E
+M>di carne</E
+M>un luculliano banchetto di otto p</E
+M>ci hanno fatto aspettare troppo tra la prima e la seconda portata</E
+M>Piatto di</E
+M>da portata</E
+M>la p</E
+M>di un autocarro</E
+M>la p</E
+M>massima di un vagone ferroviario</E
+M>questo ascensore ha una p</E
+M>di quattro persone</E
+M>di una nave</E
+M>di un bastimento</E
+M>dislocamento</E
+M>stazza</E
+M>tonnellaggio</E
+M>lorda</E
+M>netta</E
+M>scala delle p</E
+M>di una pressa</E
+M>di uno strumento di misura</E
+M>Bando delle p</E
+M>diritto di p</E
+M>diritto di cantarata</E
+M>cannoni a grandissima p</E
+M>mortai con p. di poche centinaia di metri</E
+M>gittata</E
+M>di una sorgente luminosa</E
+M>luminosa di un faro</E
+M>nominale</E
+M>geografica</E
+M>di una sorgente di raggi X</E
+M>radioattiva</E
+M>acustica</E
+M>di un radiotrasmettitore</E
+M>di un sistema di radiocomunicazioni</E
+M>era ormai fuori della p</E
+M>della mia vista</E
+M>la p</E
+M>di un binocolo</E
+M>di un telescopio</E
+M>di un cannocchiale</E
+M>a p</E
+M>di voce</E
+M>non ti allontanare</E
+M>rimani a p</E
+M>di voce</E
+M>a p</E
+M>di mano</E
+M>tengo sempre il vocabolario a p</E
+M>di mano</E
+M>un manuale divulgativo alla p</E
+M>degli studenti liceali</E
+M>un programma di vacanze bellissimo ma che non è certo alla p</E
+M>di tutti</E
+M>delle nostre tasche</E
+M>avvenimento di grande</E
+M>di vasta</E
+M>della massima p</E
+M>di p</E
+M>nazionale</E
+M>mondiale</E
+M>la p</E
+M>di questa scoperta è incalcolabile</E
+M>un uomo di grande p</E
+M>un personaggio della sua p</E
+M>non si dovrebbe lasciar coinvolgere in queste beghe</E
+M>di una corrente fluida</E
+M>in volume</E
+M>in massa</E
+M>p. ponderale</E
+M>acustica</E
+M>cardiaca</E
+M>gettata cardiaca</E
+M>volume</E
+M>minuto</E
+M>circolatoria</E
+M>renale ematica</E
+M>circolatoria renale</E
+M>luce</E
+M>d&#8217;anima</E
+M>di calettamento</E
+M>del ferro</E

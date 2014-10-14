@@ -1,0 +1,89 @@
+iniziativa.txt
+"con iniziativa imprenditoriale"
+"d'iniziativa privata"
+"di propria iniziativa"
+"di tua iniziativa"
+"iniziativa"
+"iniziativa"
+"iniziativa curata da"
+"iniziativa imprenditoriale"
+"iniziativa personale"
+"iniziativa privata"
+"libera iniziativa; libera impresa"
+"per propria iniziativa"
+"prendere l'iniziativa"
+"prendere l'iniziativa"
+"spirito di iniziativa"
+"su propria iniziativa"
+*[[idea]], [[pensata]], [[trovata]], [[progetto]], [[piano]], [[proposta]], [[spinta]], [[impulso]], [[suggerimento]], [[decisione]], [[risoluzione]]
+*[[intraprendenza]], [[ingegno]], [[ingegnosità]], [[capacità]], [[volontà]], [[energia]], [[dinamismo]],[[operosità]], [[attitudine]]
+*[[risultato]], [[conclusione]], [[pigrizia]], [[lentezza]], [[fiacca]], [[inerzia]] 
+*[[manovra]], [[opera]], [[impresa]],[[iniziare]]
+M>initiative</E
+M>initiare</E
+M>la ripresa dei rapporti diplomatici è stata un’i</E
+M>dei paesi neutrali</E
+M>l’i</E
+M>di questo accordo commerciale è partita dalla nostra società</E
+M>è sempre lui ad avere l’i</E
+M>di gite e divertimenti</E
+M>per i</E
+M>del nostro giornale si è aperta una sottoscrizione</E
+M>una serie di incontri promossi su i</E
+M>del nostro Centro di studî</E
+M>aderire</E
+M>sottoscrivere a un’i</E
+M>incoraggiare un’i</E
+M>prendere l’i</E
+M>di qualcosa</E
+M>non è capace di prendere un’i</E
+M>essere pieno di iniziative</E
+M>un’i</E
+M>benefica</E
+M>umanitaria</E
+M>patriottica</E
+M>culturale</E
+M>individuale</E
+M>privata</E
+M>libera i</E
+M>per la formazione della legge</E
+M>legislativa</E
+M>leggi d’i</E
+M>popolare</E
+M>avere</E
+M>conservare l’i</E
+M>la nostra squadra ha sempre conservato l’i</E
+M>conservare l’i</E
+M>perdere l’i</E
+M>un’i</E
+M>editoriale che ha avuto grande successo</E
+M>favorire il buon esito dell’i</E
+M>far fallire le i</E
+M>di pace</E
+M>è un funzionario ben preparato e pieno di iniziativa</E
+M>avere spirito d’iniziativa</E
+M>non avere iniziativa</E
+M>mancare di iniziativa</E
+M>suvvia</E
+M>cerca di avere un po’ di iniziativa!</E
+M>ci sa fare con le ragazze</E
+M>e non gli manca certo l’iniziativa</E
+M>repubblicana</E
+M>socialista</E
+M>democratica</E
+M>popolare</E
+"name": "Iniziativa centro europea"
+"name": "Circoli di Iniziativa Riformista"
+"name": "Diritto d'iniziativa dei cittadini europei"
+"name": "Iniziativa per la Catalogna Verde"
+"name": "Iniziativa"
+"name": "Iniziativa personale"
+"name": "Partito Iniziativa Nazionale"
+"name": "Iniziativa UoA"
+"name": "Iniziativa legislativa"
+"name": "Iniziativa di pace araba"
+"name": "Iniziativa dei 50 Stati"
+"name": "Partito Agrario Croato - Nuova Iniziativa Croata"
+"name": "Associazione per l'Iniziativa Democratica Jugoslava"
+"name": "Legge di iniziativa popolare"
+"name": "L'iniziativa del trio"

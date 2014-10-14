@@ -1,0 +1,37 @@
+portafoglio.txt
+"http://api.wordreference.com/12bee/json/iten/portafoglio/"
+*''(fig.)'' [[ministero]]
+*[[portafogli]]
+M>portare</E
+M>foglio</E
+M>portefeuille</E
+M>un p. di coccodrillo</E
+M>di cinghiale</E
+M>di tela plastificata</E
+M>tirare fuori il p.</E
+M>sull&#8217;autobus mi hanno rubato il p.</E
+M>avere il p. gonfio</E
+M>pieno</E
+M>ben fornito</E
+M>mettere mano al p.</E
+M>aprire</E
+M>tirar fuori il p.</E
+M>smarrire</E
+M>perdere il p.</E
+M>alleggerire qualcuno del p.</E
+M>Gonna a p.</E
+M>il p. degli Affari Esteri</E
+M>della Pubblica Istruzione</E
+M>gli è stato promesso un p. nel nuovo gabinetto</E
+M>affidare il p. delle Finanze a un noto economista. Ministro senza p.</E
+M>p. cambiario</E
+M>p. estero</E
+M>p. insoluti</E
+M>p. incassi</E
+M>p. dopo incasso</E
+M>p. titoli</E
+M>P. terzi</E
+M>Riscontro del p.</E
+M>Ufficio p.</E
+M>p. dello stato</E
+M>contabile del p.</E

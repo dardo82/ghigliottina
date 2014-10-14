@@ -1,0 +1,20 @@
+pala.txt
+"pala"
+"pala"
+"elemento a forma di pala"
+"pala"
+"pala"
+"pala eolica"
+"pala meccanica"
+#* ''per [[scavare]] è meglio usare la '''pala'''''
+#* '''''pala''' di un [[remo]]''
+#* '''''pala''' di un [[mulino]]''
+* [[senkolora]], [[senviveca]], [[senbrila]], [[nevigla]]
+* [[kolora]], [[viveca]], [[brila]]
+*italiano
+*esperanto
+*spagnolo
+*ungherese
+*latino
+*polacco
+M>pala</E

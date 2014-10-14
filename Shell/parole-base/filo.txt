@@ -1,0 +1,85 @@
+filo.txt
+"a filo"
+"ago e filo"
+"appeso a un filo"
+"camminare sul filo del rasoio"
+"dare del filo da torcere"
+"dare del filo da torcere a qc, rendere la vita difficile a qc, creare dei problemi a qc"
+"di filo metallico"
+"disposto su di un filo"
+"fare il filo a"
+"filo, fila"
+"filo, fila"
+"filo"
+"filo"
+"filo"
+"filo"
+"filo"
+"filo a piombo"
+"filo a piombo"
+"filo conduttore"
+"filo d'erba"
+"filo da cucire"
+"filo da ricamo"
+"filo da torcere"
+"filo del discorso"
+"filo del rasoio"
+"filo del rasoio"
+"filo del telefono"
+"filo di"
+"filo di arianna"
+"filo di cotone"
+"filo di guida"
+"filo di lana"
+"filo di messa a terra"
+"filo di messa a terra"
+"filo di nylon"
+"filo di tensione"
+"filo di tensione, filo elettrico, cavo elettrico"
+"filo diamantato"
+"filo diretto"
+"filo elettrico"
+"filo interdentale"
+"filo interdentale"
+"filo logico"
+"filo rosso"
+"filo spinato"
+"filo tagliente"
+"gomitolo di filo"
+"non esserci un filo di vento."
+"per filo e per segno"
+"perdere il filo"
+"perdere il filo di una conversazione"
+"recinto di filo spinato"
+"recinto di filo spinato"
+"seguire il filo"
+"spessore del filo elettrico"
+"sul filo del rasoio"
+"usare il filo interdentale"
+* [[filato]]; [[fibra]], [[filamento]], [[filaccia]]
+*''(di spada, coltello, eccetera)'' [[lama]], [[taglio]]
+*''(di corrente, vento, eccetera)'' [[ordine]], [[direzione]]
+*[[spigolo]]
+*[[collana]], [[collier]]
+*''(dei burattini)'' [[tiranti]]
+*[[refe]]
+*[[filo-]]
+*''Per filo e per segno'' 
+M>filosofo</E
+M>filarmonico</E
+M>filodrammatico</E
+M>anti</E
+M>miso</E
+M>misantropo</E
+M>misoneismo</E
+M>filantropo</E
+M>filoneismo</E
+M>philo</E
+M>filoamericano</E
+M>filorusso</E
+M>filosovietico</E
+M>filocinese</E
+M>filocomunista</E
+M>filoliberale</E
+M>filofascista</E
+M>Vocabolario</E

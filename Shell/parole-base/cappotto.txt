@@ -1,0 +1,20 @@
+cappotto.txt
+"cappotto"
+"cappotto"
+"cappotto corto"
+"cappotto foderato di pelliccia"
+"cappotto lungo"
+"fare cappotto"
+"stringersi nel cappotto"
+*[[paltò]]
+*italiano
+M>cappa</E
+M>faire capot quelqu’un</E
+M>a vita</E
+M>a raglan</E
+M>a redingote</E
+M>sportivo</E
+M>alla Bismarck</E
+M>dare</E
+M>fare cappotto</E
+M>fare c</E

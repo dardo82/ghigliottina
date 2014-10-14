@@ -1,0 +1,19 @@
+affetto.txt
+"affetto"
+"affetto"
+"affetto"
+"affetto"
+"affetto da mal d'auto"
+"affetto da malformazione della lingua, da anchiloglossa"
+"affetto da problemi psichici"
+"affetto familiare"
+"affetto protettivo"
+"che suscita affetto"
+"con affetto"
+"con affetto, con amore"
+"considerare con particolare affetto"
+"mancanza di affetto"
+"non essere affetto da"
+"tutto il nostro affetto"
+*[[colpito]], [[impressionato]], [[preso]]
+*[[disamore]], [[indifferenza]]

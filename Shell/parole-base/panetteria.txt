@@ -1,0 +1,5 @@
+panetteria.txt
+"panetteria"
+*[[panificio]]
+*italiano
+*inglese

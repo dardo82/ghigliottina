@@ -1,0 +1,40 @@
+giacca.txt
+"blazer (giacca)"
+"giacca"
+"giacca a doppio petto"
+"giacca a vento"
+"giacca a vento"
+"giacca a vento"
+"giacca a vento"
+"giacca da casa"
+"giacca da cavallerizzo"
+"giacca da completo"
+"giacca da marinaio"
+"giacca da sci"
+"giacca di renna"
+"giacca impermeabile"
+"giacca leggera"
+"giacca lunga"
+"giacca pesante"
+"giacca sportiva"
+"giacca sportiva"
+"mettersi la giacca"
+"spilla da mettere sul bavero della giacca"
+"taschino da giacca"
+"tirare la giacca"
+"tirare per la giacca"
+*[[giubba]] ''(spec. militare)'',  [[casacca]], [[figaro]], [[bolero]]
+M>jaque</E
+M>a un petto</E
+M>a due petti</E
+M>a doppio petto</E
+M>classica</E
+M>sportiva</E
+M>da donna</E
+M>da uomo</E
+M>sono brutte g. americane</E
+M> di taglio rigido e stoffa pesante</E
+M> da indossare con camicie dai polsini spessi e cravatte a strisce blu e viola su toraci larghi e lunghi in modo inutile</E
+M>a vento</E
+M>giacche</E
+M>giacchette nere</E

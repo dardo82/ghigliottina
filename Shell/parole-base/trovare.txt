@@ -1,0 +1,359 @@
+trovare.txt
+"andare a trovare"
+"andare a trovare"
+"andare a trovare"
+"andare a trovare"
+"cercare di trovare"
+"fare un salto da qcn, andare a trovare qcn"
+"imbattersi in; trovare per caso"
+"incontrare; trovare per caso"
+"incontrare; trovare per caso"
+"non trovare ascolto"
+"passare a trovare qualcuno"
+"trovare"
+"trovare"
+"trovare"
+"trovare"
+"trovare"
+"trovare"
+"trovare"
+"trovare"
+"trovare, replace: trovarsi"
+"trovare, replace: trovarsi"
+"trovare, replace: trovarsi"
+"trovare casa"
+"trovare colpevole"
+"trovare conforto"
+"trovare da ridire a"
+"trovare eco"
+"trovare i biglietti per"
+"trovare i fattori"
+"trovare i mezzi"
+"trovare il giusto compromesso"
+"trovare il giusto compromesso tra"
+"trovare il tempo"
+"trovare il tempo per fare qcs"
+"trovare informazioni su qualcuno"
+"trovare l'anima gemella"
+"trovare l'esatta ubicazione di qcs"
+"trovare la chiave per"
+"trovare la propria strada"
+"trovare la propria strada verso"
+"trovare la risposta"
+"trovare la soluzione"
+"trovare la soluzione a"
+"trovare per caso"
+"trovare per caso"
+"trovare qcs. di valore"
+"trovare qlcs. divertente"
+"trovare qn\/qc + agg"
+"trovare rifugio"
+"trovare rifugio"
+"trovare se stessa"
+"trovare un agente; un manager"
+"trovare un modo"
+"trovare un volo ad una tariffa speciale"
+"trovare una morale"
+"trovare una scappatoia"
+"trovare, mettere le mani su"
+"trovare, scovare"
+*[[rinvenire]], [[reperire]], [[ritrovare]], [[imbattersi]], [[incappare]], [[scoprire]], [[rintracciare]], [[scovare]], [[ideare]], [[architettare]], [[avere]], [[rilevare]], [[notare]], [[ritenere]], [[stimare]], [[credere]], [[sorprendere]], [[pescare]], [[beccare]], [[ricavare]], [[conseguire]], [[riportare]] 
+*[[perdere]], [[smarrire]]
+*[[vedere]], [[ottenere]], [[scoprire]], [[cogliere]]
+M>*tropare</E
+M>tropus</E
+M>contropare</E
+M>trover</E
+M>trouver</E
+M>trobar</E
+M>io tròvo</E
+M>truòvo</E
+M>ho trovato la stoffa che volevo</E
+M>il libro di cui avevo bisogno</E
+M>il colore che mi piaceva</E
+M>le idee le avrei</E
+M> ma i soldi dove li trovo?</E
+M>in tempo di guerra era difficile t. la carne</E
+M> l&#8217;olio</E
+M> le scarpe</E
+M>t. da comprare</E
+M>da acquistare la carne</E
+M>t. la strada</E
+M>l&#8217;uscio di casa</E
+M>dove t. un bar aperto a quest&#8217;ora?</E
+M>non ho trovato più neanche un biglietto per il concerto</E
+M>in treno non si trovava un posto libero</E
+M>ti ho trovato l&#8217;indirizzo che volevi</E
+M>vedi di trovarmi i libri che mi occorrono</E
+M>chi cerca</E
+M> trova</E
+M>cercate e troverete</E
+M>quaerite et invenietis</E
+M>Matteo</E
+M>Luca</E
+M>sono articoli che si trovano dappertutto</E
+M>hai trovato gli occhiali?</E
+M>non trovo più il mio portamonete</E
+M>guarda se riesci a t. la mia penna.</E
+M>t. un bravo meccanico</E
+M>un buon sarto</E
+M>ho trovato finalmente il maestro di violino che fa al caso mio</E
+M>non riusciamo a t. una collaboratrice familiare</E
+M>t. un acquirente</E
+M>t. clienti</E
+M>avventori</E
+M>t. ammiratori</E
+M>seguaci</E
+M>t. lavoro</E
+M>da lavorare</E
+M>t. un buon posto</E
+M>gli ho trovato io un ottimo impiego</E
+M>non ha ancora trovato casa</E
+M>t. moglie</E
+M>t. da mangiare</E
+M>da sedere</E
+M>da dormire</E
+M>vorrebbe disfarsi dei gioielli</E
+M> ma non trova da venderli</E
+M>trovi forse da obiettare?</E
+M>trova sempre da ridire</E
+M>a ridire</E
+M> su tutti</E
+M>avere</E
+M>un&#8217;altra moglie come me non la trovi certo</E
+M>una segretaria così dove la trovi?</E
+M>non troverò mai più un amico così fedele</E
+M>un cavallo come questo non lo trovi se giri mezzo mondo</E
+M>dove troverai più un frullatore che funzioni bene come questo?</E
+M>se non ti va bene</E
+M> tròvati un altro lavoro!</E
+M>se non è soddisfatto</E
+M> si trovi chi lo contenta più di me</E
+M> se tu sai</E
+M> più astuto I cupi sentier trova Colà dove nel muto Aere il destin de&#8217; popoli si cova</E
+M>t. una scusa</E
+M>un pretesto</E
+M>bisogna t. il modo di convincerlo</E
+M>non sarà facile t. una via d&#8217;uscita</E
+M>se non trovi niente di meglio</E
+M>da dire</E
+M>da fare</E
+M> sta&#8217; almeno tranquillo!</E
+M>ho trovato il sistema per vincere</E
+M>t. la formula</E
+M>la soluzione di un problema</E
+M>la chiave del mistero</E
+M>è una malattia per la quale non hanno ancora trovato il rimedio</E
+M>data la base e l&#8217;altezza</E
+M> t. l&#8217;area del rettangolo</E
+M>t. il volume di un prisma</E
+M>il costo totale di una merce</E
+M>pensando e ripensando</E
+M> trovò che ...</E
+M>applicando il teorema di Pascal</E
+M> si trova che ...</E
+M>t. il ladro</E
+M>il colpevole</E
+M>l&#8217;assassino</E
+M>vorrei t. un po&#8217; di pace</E
+M>non trovava riposo in nessun luogo</E
+M>Ove sia chi per prova intenda amore Spero trovar pietà</E
+M> nonché perdono</E
+M>t. comprensione</E
+M>t. un po&#8217; d&#8217;affetto in qualcuno</E
+M>t. conforto nella preghiera.</E
+M>hai trovato beneficio nel cambiamento d&#8217;aria?</E
+M>ho tentato anche questa cura senza però t. alcun giovamento.</E
+M>trobar</E
+M>nel pacco trovai un biglietto che diceva ...</E
+M>trovata una sedia</E
+M> vi si lasciò cader sopra</E
+M>paese che vai</E
+M> usanza che trovi</E
+M>imbocca la prima strada che trovi a destra</E
+M>ho letto attentamente il libro e non ci ho trovato nulla di immorale.</E
+M>in quel documento</E
+M> si trova scritto che ...</E
+M>c&#8217;è scritto</E
+M>sta scritto</E
+M>che cosa trovi di strano in tutto questo?</E
+M>ci trovi da ridire</E
+M> forse?</E
+M>non so che cosa trova di straordinario</E
+M> in quella donna!</E
+M>t. un portafoglio</E
+M>t. una borsa con documenti</E
+M>t. del denaro</E
+M>ho avuto la fortuna di t.</E
+M>ho trovato per caso</E
+M>per puro caso.</E
+M>uomini così oggi non si trovano più</E
+M> hai trovato l&#8217;ingenuo che ti crede!</E
+M>chi trova un amico</E
+M> trova un tesoro</E
+M>meglio perderlo</E
+M>che trovarlo</E
+M>collaboratori così</E
+M> meglio perderli che trovarli!</E
+M>t. un ostacolo</E
+M>un inciampo</E
+M>abbiamo trovato difficoltà d&#8217;ogni sorta</E
+M>ho trovato sempre lui sul mio cammino</E
+M> a tagliarmi la strada</E
+M>possibile che debba sempre trovarmelo tra i piedi?</E
+M>salgo in casa</E
+M> e chi ti trovo?</E
+M>aprono</E
+M> e ti trovano che non c&#8217;era più nessuno</E
+M>Entro</E
+M> e ti trovo un pieno di soldati</E
+M>sono partito con la neve e il gelo</E
+M> e sceso dall&#8217;aereo ti trovo un sole e un caldo da piena estate.</E
+M>Andare</E
+M>venire</E
+M>tornare a t. uno</E
+M>sono andato</E
+M>sono stato</E
+M>a trovarlo in casa sua</E
+M>in ufficio</E
+M>in albergo</E
+M>all&#8217;ospedale</E
+M>vieni a trovarmi più spesso</E
+M> te ne prego</E
+M>tornerò a trovarti domani.</E
+M>ho trovato la banca ancora aperta</E
+M>t. la porta chiusa</E
+M>la finestra spalancata</E
+M>la cassaforte forzata</E
+M>t. tutto in ordine</E
+M>in disordine.</E
+M>lo trovai a tavola</E
+M>che cenava</E
+M>l&#8217;ho trovato ancora a letto</E
+M>già alzato</E
+M>l&#8217;ho trovato che stava suonando</E
+M>dipingendo</E
+M>scrivendo una lettera</E
+M>lo trovai che non sapeva a che santo votarsi</E
+M>l&#8217;ho trovato piangente</E
+M>in singhiozzi</E
+M>tranquillo</E
+M>sereno</E
+M>spesso l&#8217;alba lo trova ancora sveglio sui libri.</E
+M>la morte non deve trovarci impreparati</E
+M>lo trovai che rovistava nel mio cassetto</E
+M>li trovarono con le mani nel sacco</E
+M>t. in colpa</E
+M>in fallo</E
+M>essere trovato in errore.</E
+M>il dottore mi trova migliorato</E
+M>peggiorato</E
+M>guarito</E
+M>ti trovo meglio oggi</E
+M>come mi trovi stamani?</E
+M>ti trovo un po&#8217; ingrassato</E
+M>assai dimagrito</E
+M>l&#8217;ultima volta che lo vidi</E
+M> lo trovai molto invecchiato</E
+M>avendo un dì presso a Peretola una gru ammazzata</E
+M> trovandola grassa e giovane</E
+M> quella mandò a un suo buon cuoco ... dicendo che a cena l&#8217;arrostisse</E
+M>me l&#8217;avevano descritto come un orso</E
+M> io invece l&#8217;ho trovato gentilissimo</E
+M>la trovo bella</E
+M>simpatica</E
+M>venendo poi a esaminarla in particolare</E
+M> notavan chi un difetto</E
+M>chi un altro: e ci furon fin quelli che la trovarono brutta affatto</E
+M>trovi buono questo vino?</E
+M>ho assaggiato il formaggio e l&#8217;ho trovato eccellente</E
+M>ho trovato il conto piuttosto caro</E
+M>trovi divertente questa commedia?</E
+M>trovo lo scherzo di pessimo gusto</E
+M>trovo che hai ragione</E
+M>non trovi di esagerare?</E
+M>fu trovato innocente</E
+M>colpevole</E
+M>trovo giusto ciò che dici</E
+M>trovo che ha fatto benissimo</E
+M>non trovi che avrebbe dovuto chiedermi scusa?</E
+M>mi sta bene questa giacca</E
+M> non trovi?</E
+M>trovarsi</E
+M>essere</E
+M>dove si trova ora tuo fratello?</E
+M>in quel periodo</E
+M> mi trovavo a Torino</E
+M>in campagna</E
+M>sotto le armi</E
+M>ti troverai in casa dopo cena?</E
+M>alle 8 mi trovavo già in ufficio</E
+M>alle 10 in punto</E
+M> trovatevi davanti a casa mia</E
+M>tròvati pronto alle 7 precise</E
+M>si trovava davanti alla stazione</E
+M> quando ...</E
+M>mi trovavo proprio a passare di lì</E
+M> quando mi sentii chiamare</E
+M>mi trovai a viso a viso con lui</E
+M>si trovò di fronte a quell&#8217;ostacolo improvviso.</E
+M>mi trovo assai indietro col lavoro</E
+M>trovarsi in debito</E
+M>in credito</E
+M>in difetto</E
+M>non pensavo mai di trovarmi ridotto a questi estremi</E
+M>trovarsi in pericolo</E
+M>nei guai</E
+M>nei pasticci</E
+M>trovarsi in miseria</E
+M>in cattive acque</E
+M>trovarsi solo</E
+M>abbandonato</E
+M>senza un amico</E
+M>senza un soldo in tasca</E
+M>mi trovai ingannato</E
+M>alla fine</E
+M> s&#8217;è trovato con un pugno di mosche in mano</E
+M>gli anni passano</E
+M> e ci si trova vecchi a un tratto.</E
+M>mi trovo a dover avere ancora parecchi soldi da lui</E
+M>si trova a non poter far fronte agli impegni assunti</E
+M>queste cose</E
+M> che non sono poche né piccole</E
+M> io mi trovo aver fatte finora per amor tuo</E
+M>trovarsi bene</E
+M>trovarsi contento</E
+M>trovarsi bene in un luogo</E
+M>in una condizione</E
+M>mi trovo benissimo qui</E
+M>ti trovi bene nel nuovo ufficio?</E
+M>come ti trovi nella nuova casa</E
+M>nel nuovo incarico?</E
+M>trovarsi bene con qualcuno</E
+M>non ti trovi bene con noi?</E
+M>trovarsi bene</E
+M>contento</E
+M>di qualche cosa</E
+M>prenda questo tipo di stoffa</E
+M> se ne troverà bene!</E
+M>segui il mio consiglio</E
+M> vedrai che ti troverai contento.</E
+M>essere</E
+M>come si trova</E
+M>dove si trova</E
+M>nello stato in cui si trova</E
+M>i paesi che si trovano nell&#8217;interno della regione</E
+M>sai dove si trova questa piazza</E
+M>questo negozio</E
+M>le finestre che si trovano sulla parete di fondo</E
+M>la milza si trova sul lato sinistro</E
+M>In sul paese ch&#8217;Adice e Po riga</E
+M> Solea valore e cortesia trovarsi</E
+M>trovarsi</E
+M>trovarsi insieme</E
+M>ci troveremo alle sette</E
+M>ci troviamo spesso insieme al caffè</E
+M>mi troverò con lui dopo cena.</E
+M>trovarsi d&#8217;accordo</E
+M>sono sicuro che ci troveremo d&#8217;accordo anche su questo punto</E
+M>non mi trovo d&#8217;accordo con te.</E

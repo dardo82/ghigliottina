@@ -1,0 +1,76 @@
+verticale.txt
+"altezza verticale"
+"angolo verticale"
+"distanza verticale"
+"in verticale"
+"integrazione verticale"
+"parete verticale"
+"piano verticale"
+"reso verticale"
+"stabilizzatore verticale"
+"verticale"
+"verticale"
+"retta, direzione verticale"
+M>verticalis</E
+M>vertex -</E
+M>cis</E
+M>colonne</E
+M>linee</E
+M>righe v.</E
+M>una facciata decorata con elementi v. di marmo</E
+M>strutture</E
+M>organi v. di sostegno</E
+M>sviluppo v. di un edificio</E
+M>il rilevante sviluppo v. degli edifici è una caratteristica dell’architettura gotica</E
+M>una parete scoscesa</E
+M> quasi v.</E
+M>posizione v.</E
+M>stare</E
+M>mettersi in posizione v.</E
+M>rimettere in posizione v. un traliccio abbattuto dal vento</E
+M>caselle v.</E
+M>parole v.</E
+M>le verticali</E
+M>volo v.</E
+M>decollo</E
+M>atterraggio v.</E
+M>cerchio v.</E
+M>cerchio v.</E
+M>cuore v.</E
+M>pianoforte v.</E
+M>pianoforte a coda</E
+M>presentazione v.</E
+M>di vertice</E
+M>scrittura v.</E
+M>organizzazione v.</E
+M>struttura v.</E
+M>coalizione v.</E
+M>trust v.</E
+M>scambio v.</E
+M>associazioni v.</E
+M>associazioni orizzontali</E
+M>tracciare una v.</E
+M>scendere lungo la v.</E
+M>misurare una distanza in verticale</E
+M>trovarsi sulla v. di</E
+M>v. astronomica</E
+M>v. geodetica</E
+M>v. apparente</E
+M>fare la v.</E
+M>andare in verticale</E
+M>tuffo dalla v.</E
+M>v. di una matrice</E
+M>colonna</E
+M>v. trasversale</E
+M>il verticale</E
+M>garbi</E
+M>verticale</E
+M>cerchio v.</E
+M>circolo v.</E
+M>altezza</E
+M>Primo v. est</E
+M>primo v. ovest</E
+M>tenere verticalmente un oggetto</E
+M>muoversi</E
+M>scendere</E
+M>spostarsi verticalmente</E

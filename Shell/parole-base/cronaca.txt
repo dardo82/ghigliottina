@@ -1,0 +1,46 @@
+cronaca.txt
+"articolo di cronaca"
+"chi tiene la rubrica di cronaca rosa; chi scrive gli avvenimenti mondani"
+"cronaca"
+"cronaca"
+"cronaca"
+"cronaca della notizia"
+"Cronaca nera"
+"cronaca rosa"
+"la cronaca"
+"notizia di cronaca"
+"per la cronaca"
+"rubrica di cronaca rosa; degli avvenimenti mondani"
+*[[cronistoria]], [[resoconto]], [[registrazione]], [[relazione]], [[racconto]], [[narrazione]], [[descrizione]], [[illustrazione]]
+* ''(giornalistica)'' [[reportage]], [[servizio]]
+*''(di avvenimento)'' [[resoconto]]
+*[[telecronaca]], [[radiocronaca]]
+*[[notiziario]]
+M>chron</E
+M>storia</E
+M>cittadina</E
+M>politica</E
+M>parlamentare</E
+M>letteraria</E
+M>artistica</E
+M>giudiziaria</E
+M>teatrale</E
+M>sportiva</E
+M>della moda</E
+M>un articolo di cronaca</E
+M>la pagina della c</E
+M>nera</E
+M>bianca</E
+M>c. rosa</E
+M>c. mondana</E
+M>galante</E
+M>fatti</E
+M>notizie di cronaca</E
+M>diritto di c.</E
+M>fare la c</E
+M>per la c</E
+M>per la verità</E
+M>a dire il vero</E
+M>per la c</E
+M>io sono stato tutto il giorno in ufficio</E
+M>mentre qualche collega se la spassava al mare!</E

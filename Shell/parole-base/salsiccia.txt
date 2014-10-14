@@ -1,0 +1,33 @@
+salsiccia.txt
+"carne di salsiccia"
+"salsiccia"
+"salsiccia di maiale"
+"salsiccia fresca"
+"salsiccia piccante"
+*[[salsicciotto]], [[sanguinaccio]], [[wurstel]]
+M>sals</E
+M>cia</E
+M>salsicium</E
+M>insicium</E
+M>insicia</E
+M>salsicius &#171;</E
+M>-ce</E
+M>s. fresca</E
+M>secca</E
+M>s. di fegato</E
+M> davanti alla casupola stava una donna</E
+M> e traeva a bracciate da un canestro ai suoi piedi una lunghissima s.</E
+M> misurandola a tese come si misura lo spago</E
+M>comprare sei s.</E
+M>s. cotte allo spiedo</E
+M>alla griglia</E
+M>polenta e salsicce.</E
+M>Salsicce di Vienna</E
+M>di Francoforte</E
+M>würstel.</E
+M>fare salsicce di qualcuno</E
+M>legare la vigna</E
+M>le viti</E
+M>con le salsicce</E
+M>una contrada che si chiamava Bengodi</E
+M> nella quale si legano le vigne con le salsicce</E

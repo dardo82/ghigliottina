@@ -1,0 +1,15 @@
+antenato.txt
+"antenato"
+"avo, antenato, progenitore"
+#* ''I nostri antenati ci hanno [[lasciato]] in [[eredità]] la [[Terra]]''
+*[[avo]], [[progenitore]], [[predecessore]], [[bisnonno]], [[ascendente]], [[capostipite]],  [[bisavolo]]
+*[[successore]], [[discendente]], [[postero]]
+M>antenatus</E
+M>ante natus</E
+M>i suoi a</E
+M>erano francesi</E
+M>un suo a</E
+M>aveva combattuto nella guerra dei Trent’anni</E
+M>le glorie</E
+M>i ritratti degli antenati</E
+M>il culto degli a</E

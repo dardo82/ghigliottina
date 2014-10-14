@@ -1,0 +1,14 @@
+crepaccio.txt
+"crepaccio"
+*[[spaccatura]], [[fenditura]], [[voragine]], [[baratro]], [[crepa]],
+*italiano
+M>i c</E
+M>del terreno</E
+M>nei c</E
+M>gialli delle colline cretacee</E
+M>marginali</E
+M>terminali</E
+M>longitudinali</E
+M>trasversali</E
+M>concentrici circolari</E
+M>lunari</E

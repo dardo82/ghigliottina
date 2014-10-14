@@ -1,0 +1,64 @@
+abbandono.txt
+"abbandono"
+"abbandono"
+"abbandono"
+"abbandono di qualcosa"
+"con abbandono"
+"minori in stato di abbandono"
+#*''c'è una campagna contro l''''abbandono''' dei cani''
+#*''questa stanza si trova nel più totale '''abbandono'''!''
+#*''l''''abbandono''' di quel progetto è stato difficile per lui''
+#*''fu un momento di '''abbandono'''''
+#* '''''abbandono''' del comando''; '''''abbandono''' del lavoro''; '''''abbandono''' della residenza''
+#* '''''abbandono''' di un bene''
+#* ''misero, dove corri in '''abbandono''' a' tuoi sfrenanti e rapidi martìri?'' (T. Tasso)
+#* ''fugge tutta la gente in '''abbandono''''' (Boiardo)
+#* ''io '''abbandono'''''
+*[[abandono]]
+*italiano
+*inglese
+M>abbandonare</E
+M>a bandon</E
+M>della casa</E
+M>della terra</E
+M>della propria famiglia</E
+M>comandare l’a</E
+M>della nave in caso di pericolo</E
+M>lasciare</E
+M>porre in a</E
+M>campi</E
+M>roba in stato di grande a</E
+M>minori in stato di a. materiale e morale</E
+M>di un progetto</E
+M>di un’impresa</E
+M>l’a</E
+M>del mondo</E
+M>del secolo</E
+M>della gara</E
+M>vincere per a</E
+M>dell’avversario</E
+M>perdente per a</E
+M>del domicilio coniugale</E
+M>a. del lavoro</E
+M>a. di minori o incapaci, a. di neonato</E
+M>a. di animali</E
+M>a. del comando</E
+M>del posto di combattimento</E
+M>della nave</E
+M>dell’aeromobile da parte del pilota</E
+M>della residenza</E
+M>di istanza</E
+M>di un diritto</E
+M>di un bene</E
+M>della cosa</E
+M>liberatorio</E
+M>distendersi</E
+M>appoggiarsi con a</E
+M>un a</E
+M>di tutto il corpo</E
+M>parlare</E
+M>pregare con abbandono</E
+M>in abbandono</E
+M>Misero</E
+M>dove corri in abbandono A’ tuoi sfrenanti e rapidi martìri?</E
+M>Fugge tutta la gente in a</E

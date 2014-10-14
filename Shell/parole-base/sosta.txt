@@ -1,0 +1,37 @@
+sosta.txt
+"area di sosta"
+"area sosta caravan"
+"chiacchierare senza sosta"
+"fare una sosta"
+"fare una sosta, fare tappa, fermarsi"
+"macchina in divieto di sosta."
+"momento di sosta"
+"senza sosta"
+"senza sosta"
+"sosta"
+"sosta notturna"
+"sosta vietata"
+M>s. breve</E
+M>lunga</E
+M>fare sosta</E
+M>una s.</E
+M>prolungare la s. per far riposare i cavalli</E
+M>s. di un veicolo</E
+M>s. oraria</E
+M>divieto di s.</E
+M>s. vietata</E
+M>s. limitata</E
+M>dissuasori di sosta</E
+M>s. di emergenza</E
+M>s. di una merce</E
+M>Diritto di s.</E
+M>di proroga</E
+M>tassa di s.</E
+M>lavorare senza sosta</E
+M>fumarsi una sigaretta durante un s. dal lavoro</E
+M>correre</E
+M> affannarsi senza sosta dalla mattina alla sera</E
+M>non dare sosta a qualcuno</E
+M>questo dolore non mi dà s.</E
+M>il nemico è in rotta</E
+M> non bisogna dargli sosta</E

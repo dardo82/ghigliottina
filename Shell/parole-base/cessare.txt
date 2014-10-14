@@ -1,0 +1,50 @@
+cessare.txt
+"cessare"
+"cessare"
+"cessare"
+"cessare di esistere"
+"cessare di esistere"
+"cessare di essere arrabbiato"
+"cessare il fuoco"
+"cessare, smettere"
+"l'atto di cessare; di rinunciare"
+"smettere; cessare; rinunciare"
+#* ''tra poco quel baccano dovrà 
+*[[smettere]]
+*[[continuare]]
+*[[cessamento]]
+M>cessare</E
+M>ced</E
+M>cessum</E
+M>io cèsso</E
+M>essere</E
+M>il rumore cessò d’un tratto</E
+M>quasi tutta cessa Mia visïone</E
+M>è cessato il vento</E
+M>la febbre per ora è cessata</E
+M>avere</E
+M>proseguire</E
+M>continuare</E
+M>cessa dal tormentarmi!</E
+M>non ha cessato dal lavoro prima di notte</E
+M>cessare di fare</E
+M>di lavorare</E
+M>non cessava di ringraziarmi</E
+M>c. di vivere</E
+M>che più si cessa?</E
+M>c. un’attività</E
+M>lungamente Mi sedetti colà su la fontana Pensoso di cessar dentro quell’acque La speme e il dolor mio</E
+M>il fuoco</E
+M>cessate il fuoco!</E
+M>le ostilità</E
+M>cessi Dio</E
+M>cessi il cielo</E
+M>cessi Dio questo male da noi</E
+M>cessi il cielo ch’io insulti alla necessità di tanti altri</E
+M>Melchisedech giudeo con una novella di tre anella cessa un gran pericolo</E
+M>cessato il pericolo</E
+M>cessati i tumulti</E
+M>cavato il dente</E
+M>cessato il dolore</E
+M>il cessato governo</E
+M>cessato allarme</E

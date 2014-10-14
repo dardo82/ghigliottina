@@ -1,0 +1,46 @@
+villa.txt
+"della stanza principale di villa o casa di campagna"
+"stanza principale di villa o casa di campagna"
+"villa"
+"villa"
+"villa a schiera"
+"villa imponente"
+"villa imponente"
+*[[agro-villa]]
+*italiano
+*inglese
+*ungherese
+M>lla</E
+M>andare</E
+M>stare in villa</E
+M>passare</E
+M>trascorrere l’estate in villa</E
+M>avere una v. al mare</E
+M>sul lago</E
+M>in collina</E
+M>le v. signorili romane</E
+M>v. rustiche</E
+M>v. urbane</E
+M>le v. rinascimentali</E
+M>le v. palladiane venete</E
+M>le v. barocche</E
+M>rococò</E
+M>V. comunale</E
+M>gli comandò che alla v n’andasse e quivi co’ suoi lavoratori si dimorasse</E
+M>uomo di villa</E
+M>della v</E
+M>Maggiore aperta molte volte impruna Con una forcatella di sue spine L’uom de la v. quando l’uva imbruna</E
+M>dopo più giorni essi pervennero a una v. la quale non era troppo riccamente fornita d’alberghi</E
+M>E mandono spiando assai persone Per le città</E
+M> per ville e per castella</E
+M>Odi spesso un tonar di ferree canne</E
+M> Che rimbomba lontan di villa in villa</E
+M>Villabate</E
+M>Villalago</E
+M>Francavilla</E
+M>Villafranca</E
+M>ville</E
+M>Se tu se’ sire de la villa Del cui nome ne’ dèi fu tanta lite</E
+M>Lascia tacere un po’ tuo maggior tromba Ch’i’ fo squillar per l’italiche ville</E
+M>E rividi la mia v. diserta Da Carlo di Valese</E
+M>n’andò ad una villetta ivi vicina</E

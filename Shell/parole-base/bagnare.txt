@@ -1,0 +1,42 @@
+bagnare.txt
+"bagnare"
+"bagnare"
+"bagnare"
+"bagnare, replace: bagnarsi"
+"bagnare, replace: bagnarsi"
+"bagnare il letto"
+"bagnare; annaffiare con pompa da giardino"
+"inzuppare, bagnare, infradiciare"
+#*'' bagnare la laurea''
+* [[annaffiare]], [[irrigare]], [[irrorare]], [[inondare]], [[spruzzare]], [[lavare]], [[inumidire]], [[umettare]], [[infradiciare]], [[impregnare]], [[intridere]], [[annacquare]], [[aspergere]], [[reidratare]]
+*''(nel latte, nel sugo)'' [[inzuppare]], [[imbevere]], [[intingere]]
+*''(di corsi o distese d’acqua)'' [[lambire]], [[toccare]], [[attraversare]], [[costeggiare]], [[percorrere]]
+*[[asciugare]], [[seccare]], [[inaridire]], [[essiccare]], [[disidratare]], [[liofilizzare]]
+*[[bagnarsi]]
+*'''''bagnarsi''' le labbra''
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 203
+M>balneare</E
+M>balneum</E
+M>io bagno</E
+M>noi bagniamo</E
+M>voi bagnate</E
+M>bagniamo</E
+M>bagniate</E
+M>la pioggia ci ha bagnati da capo a piedi</E
+M>i panni</E
+M>la stoffa prima di tagliare un abito</E
+M>bagnarsi le labbra</E
+M>bagnarsi la bocca</E
+M>le labbra</E
+M>la gola</E
+M>bagnarsi il becco</E
+M>i galloni</E
+M>le spalline</E
+M>la laurea</E
+M>un abito nuovo</E
+M>una promozione</E
+M>il Po bagna Torino</E
+M>si bagnarono tutti nel fiume</E
+M>mi son tutto bagnato sotto la pioggia</E
+M>il bambino s’è bagnato</E
+M>agente bagnante</E

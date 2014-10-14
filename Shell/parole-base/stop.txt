@@ -1,0 +1,53 @@
+stop.txt
+"apertura, f\/stop"
+"f-stop"
+"brusco stop"
+"chiudere un buco con uno stop"
+"lo stop"
+"luce dello stop"
+"stoplights"
+"stop"
+"stop"
+"Stop!"
+"stop"
+"stop sign"
+*[[alt]]
+*[[autostop]]
+*[[ostruire]], [[fermare]], [[fermata]], [[finire]]
+*italiano
+M>stop</E
+M>stop</E
+M>alt!</E
+M>basta!</E
+M>finiamola!</E
+M>abbiamo</E
+M>hai</E
+M>bevuto già abbastanza</E
+M> ora stop!</E
+M>dire</E
+M>fare</E
+M>non pensi che sarebbe ora di dire stop a queste continue lamentele?</E
+M>propongo di fare stop qui</E
+M>i due fuggitivi non hanno obbedito allo stop</E
+M>al fischio di stop</E
+M> della polizia</E
+M> e gli agenti hanno sparato in aria</E
+M>dare</E
+M>prendere</E
+M>uno stop</E
+M>stop orario</E
+M>segnale orario</E
+M>stop</E
+M>segnale di stop</E
+M>stop</E
+M>fermarsi allo stop</E
+M>rispettare</E
+M>non rispettare lo stop</E
+M>lo stop sinistro della tua macchina non funziona</E
+M>non si accende</E
+M>stop</E
+M>premere</E
+M>schiacciare lo stop</E
+M>stop automatico</E
+M>un cocker che ha uno s. ben marcato</E
+M>i Dobermann hanno un magnifico stop</E

@@ -1,0 +1,22 @@
+complessivo.txt
+"ammontare complessivo"
+"complessivo"
+"squadrare qc, dare un'occhiata a qc, dare uno sguardo complessivo a qc"
+"totale complessivo"
+*d’insieme, [[globale]], [[generale]], [[totale]], [[comune]], [[collettivo]], [[cumulativo]]
+*[[parziale]], [[diviso]], [[singolo]], [[individuale]], [[dettagliato]], [[particolareggiato]]
+*[[complessivamente]]  
+M>complexivus</E
+M>complexus</E
+M>complecti</E
+M>visione c</E
+M>di una materia</E
+M>esame c</E
+M>della situazione</E
+M>rendiconto c</E
+M>formulare un giudizio c</E
+M>spese c</E
+M>un debito dell’ammontare c</E
+M>di un milione di euro</E
+M>giudicare complessivamente</E
+M>sono state impiegate complessivamente duemila giornate lavorative</E

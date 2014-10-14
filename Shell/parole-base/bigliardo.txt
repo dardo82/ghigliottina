@@ -1,0 +1,2 @@
+bigliardo.txt
+"Traduzione di bigliardo/ non trovata.\nNo translation was found for bigliardo/."

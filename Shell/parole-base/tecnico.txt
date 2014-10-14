@@ -1,0 +1,121 @@
+tecnico.txt
+"addetto ufficio tecnico"
+"autore tecnico"
+"capo tecnico"
+"commissario tecnico"
+"consulente tecnico"
+"del tecnico riparatore"
+"direttore tecnico"
+"disciplinare tecnico"
+"documento tecnico"
+"esperto tecnico"
+"funzionario tecnico commerciale"
+"intervento tecnico"
+"istituto tecnico"
+"istituto tecnico aeronautico"
+"istituto tecnico commerciale statale"
+"istituto tecnico per il turismo"
+"istituto tecnico superiore"
+"know-how tecnico"
+"linguaggio tecnico"
+"motorista di bordo; tecnico di bordo"
+"perito, consulente tecnico"
+"piano, progetto tecnico"
+"problema tecnico"
+"reparto tecnico"
+"responsabile tecnico"
+"scalo tecnico"
+"tecnico"
+"tecnico"
+"tecnico"
+"tecnico"
+"tecnico"
+"tecnico addetto al missaggio"
+"tecnico del telefono"
+"tecnico dell'igiene orale"
+"tecnico della manutenzione"
+"tecnico di laboratorio"
+"tecnico informatico"
+"tecnico riparatore"
+"tecnico televisivo"
+"tempo tecnico"
+"termine tecnico"
+"ufficio tecnico"
+"vano tecnico"
+#* ''
+#* ''non riesco a riparare il mio [[orologio]], dovrò portarlo dal 
+#* ''Come si chiama il nuovo 
+*(aggettivo)
+*(sostentivo) [[esperto]], [[competente]], [[specialista]], [[perito]], [[professionista]] 
+*(aggettivo)
+*[[-tecnico]], [[tecnica]], [[tecnicamente]], [[tecnicismo]], [[tecnicistico]], [[tecnicizzare]], [[tecno-]], [[tecnologia]], [[tavolo tecnico]]
+m>techn</e
+m>cus</e
+m>-ci</e
+m>nozioni t. di meccanica</e
+m>di elettricit&agrave;</e
+m>d&rsquo;ingegneria</e
+m>avere</e
+m>essere privo di cognizioni t.</e
+m>avere capacit&agrave; tecniche</e
+m>abilit&agrave;</e
+m>bravura</e
+m>perizia t.</e
+m>tempi t.</e
+m>direttore t.</e
+m>commissario t.</e
+m>ufficio t.</e
+m>assistente t. del genio</e
+m>di meteorologia</e
+m>di informatica</e
+m>ruolo t.-amministrativo</e
+m>ruolo t.-operativo</e
+m>corpi t.</e
+m>serviz&icirc; t.</e
+m>servizio t. d&rsquo;artiglieria</e
+m>del genio</e
+m>della motorizzazione</e
+m>delle trasmissioni</e
+m>linguaggio t.</e
+m>termini t.</e
+m>dizionario t.</e
+m>definizione t. di un vocabolo</e
+m>Istruzione t.</e
+m>istituti tecnici</e
+m>Stud&icirc; t.</e
+m>stud&icirc; umanistici</e
+m>composto</e
+m>prodotto t.</e
+m>per uso t.</e
+m>Sistema t.</e
+m>pratico</e
+m>degli ingegneri</e
+m>sentire il giudizio dei t.</e
+m>il parere di un t. della materia</e
+m>tecnico</e
+m>chiamare un t. per la riparazione del televisore</e
+m>del computer</e
+m>t. di impianti di riscaldamento</e
+m>t. radiotelevisivo</e
+m>t. elettronico</e
+m>t. delle luci</e
+m>una t. vetrinista</e
+m>una t. di cosmesi</e
+m>radiotecnico</e
+m>elettrotecnico</e
+m>odontotecnico</e
+m>t. abilitato</e
+m>diplomato</e
+m>laureato</e
+m>personale tecnico</e
+m>t. del suono</e
+m>t. delle luci</e
+m>t. del colore</e
+m>colorista</e
+m>oggi c&rsquo;&egrave; pi&ugrave; bisogno di buoni t. che di laureati</e
+m>affidare a tecnici i ministeri pi&ugrave; importanti</e
+m>la pubblica amministrazione</e
+m>&egrave; solo un t.!</e
+m>&egrave; un&rsquo;esecuzione tecnicamente perfetta</e
+m>un pianista tecnicamente preparato</e
+m>impostare un problema troppo tecnicamente</e

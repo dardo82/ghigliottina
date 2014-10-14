@@ -1,0 +1,14 @@
+piazzale.txt
+"piazzale"
+"piazzale"
+"piazzale merci"
+M>il p</E
+M>davanti alla chiesa</E
+M>il p</E
+M>interno delle antiche opere fortificate</E
+M>il p</E
+M>Michelangelo a Firenze</E
+M>Flaminio</E
+M>di stazione</E
+M>interno</E
+M>esterno</E

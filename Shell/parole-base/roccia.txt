@@ -1,0 +1,58 @@
+roccia.txt
+"allume di roccia"
+"duro come la roccia"
+"duro come una roccia"
+"duro come una roccia; insensibile"
+"frana di roccia"
+"lana di roccia"
+"roccia"
+"roccia"
+"roccia"
+"roccia ignea"
+"roccia incassante"
+"roccia metamorfica"
+"roccia per camini"
+"roccia sedimentaria"
+"roccia solida"
+"roccia viva"
+"roccia vulcanica"
+*''A goccia a goccia si scava la roccia.''
+*italiano
+M>roche</E
+M>ròcca</E
+M>omogenea</E
+M>eterogenea</E
+M>eruttive</E
+M>intrusive</E
+M>plutoniche</E
+M>effusive</E
+M>vulcaniche</E
+M>sedimentarie</E
+M>sedimentarie clastiche</E
+M>piroclastiche</E
+M>sedimentarie chimiche</E
+M>sedimentarie organogene</E
+M>metamorfiche</E
+M>madre</E
+M>sapropel</E
+M>serbatoio</E
+M>magazzino</E
+M>terra</E
+M>sabbia</E
+M>humus</E
+M>dopo due metri di scavo incontrarono la r</E
+M>costruire sulla r</E
+M>scavare una galleria nella viva r</E
+M>una r</E
+M>aguzza</E
+M>dirupate</E
+M>scoscese</E
+M>arrampicarsi su una r</E
+M>ripararsi tra le rocce</E
+M>Alpinismo su r</E
+M>roccia</E
+M>fare la r</E
+M>scarpe</E
+M>chiodi da r</E
+M>è una r.</E
+M>anche in mezzo alle difficoltà è sempre stato una r. cui aggrapparsi.</E

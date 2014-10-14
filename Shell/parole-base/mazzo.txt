@@ -1,0 +1,11 @@
+mazzo.txt
+"farsi il mazzo"
+"il gruppo, il fascio, il mazzo"
+"mazzo"
+"mazzo"
+"farsi il mazzo\"
+"mazzo di fiori"
+"mazzo di fiori"
+"mazzo di fiori"
+"mazzo di fiori"
+*[[quantità]], [[insieme]]

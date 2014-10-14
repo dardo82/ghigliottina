@@ -1,0 +1,247 @@
+zona.txt
+"agente di zona"
+"area speciale, zona speciale"
+"attraverso una zona"
+"brutta zona"
+"della zona verde"
+"di punto caldo, zona calda"
+"i tropici, la zona tropicale"
+"il luogo sperduto, la zona disabitata"
+"nell'area di, nella zona di"
+"nell'area, nella zona, nelle vicinanze, nei paraggi"
+"punto caldo; zona calda"
+"referente di zona"
+"zona"
+"zona"
+"zona"
+"zona aerea"
+"zona bassa"
+"zona bassa e paludosa del Cambridgeshire e Lincolnshire"
+"zona bruciata"
+"zona calda"
+"zona commerciale"
+"zona cucina"
+"zona delle calme equatoriali"
+"zona delle calme territoriali, depressione"
+"zona di bassa pressione"
+"zona di benessere"
+"zona di caccia, terreno di caccia"
+"zona di coltivazione del cotone negli USA"
+"zona di coltivazione di cereali negli USA"
+"zona di combattimento"
+"zona di guerra"
+"zona di libero scambio"
+"zona di pesca"
+"zona di produzione"
+"zona di sicurezza"
+"zona di taglio"
+"zona fangosa"
+"zona franca"
+"zona grigia; zona d'ombra; terreno inesplorato"
+"zona industriale"
+"zona libera"
+"zona litoranea"
+"zona luminosa"
+"zona militare"
+"zona minata"
+"zona morta"
+"zona morta"
+"zona neutrale"
+"zona non edificata"
+"zona pedonale"
+"zona pellucida"
+"zona pellucida"
+"zona pericolosa"
+"zona periferica"
+"zona petrolifera"
+"zona poco piovosa"
+"zona postale"
+"zona posteriore"
+"zona proibita"
+"zona protetta"
+"zona relax"
+"zona residenziale"
+"zona residenziale"
+"zona ricca di gas nel sottosuolo"
+"zona rurale"
+"zona rurale; alpeggio"
+"zona sensibile"
+"zona sensibile"
+"zona smilitarizzata"
+"zona tampone"
+"zona telefonica"
+"zona temperata"
+"zona verde"
+"zona, area di controllo"
+#* la 
+*[[fascia]], [[area]], [[superficie]], [[settore]], [[sezione]], [[parte]], [[pezzo]], [[tratto]] 
+* zona disco - meter zone (for cars)
+* zona di guerra - war zone
+* zona notte - sleeping area (in a house)
+* zona pedonale or zona verde - pedestrian area in a town
+*[[zonale]]
+*[[zonatura]]
+*[[zonizzare]]
+*[[sona|sōna]]
+*[[zonalis|zōnālis]]
+*[[zonarius|zōnārius]]
+*[[zonatim|zōnātim]]
+*italiano
+M>zona</E
+M>sciogliere la z.</E
+M>Per te</E
+M>la z. timide L’intatte spose sciolgono A lusinghiero invito</E
+M>i vescovi portano la z. paonazza</E
+M>Con vile z. te lega d’amore</E
+M>sulla superficie del mare</E
+M>sul terreno</E
+M>si alternavano z. d’ombra e di luce</E
+M>z. di colore più chiaro e più scuro</E
+M>una stoffa a z. bianche e rosse</E
+M>la nuvola era circondata da una z. luminosa</E
+M>un marmo bianco con z. verdi e rossastre</E
+M>z. sferica</E
+M>z. di una superficie di rotazione</E
+M>fusione per zone</E
+M>raffinazione a zone</E
+M>area</E
+M>distretto</E
+M>regione</E
+M>z. fascicolata</E
+M>z. glomerulosa</E
+M>z. reticolare</E
+M>z. morfogenetica</E
+M>z. pellucida</E
+M>z. radiata</E
+M>herpes zoster</E
+M>fuoco di sant’Antonio</E
+M>asse di zona</E
+M>zone di pianura</E
+M>di montagna</E
+M>la z. litoranea</E
+M>costiera</E
+M>z. di caccia</E
+M>di pesca</E
+M>suddividere un territorio in zone</E
+M>isolare una z. infetta</E
+M>la polizia ha setacciato tutta la z. alla ricerca dei malviventi</E
+M>la z. occidentale del cielo</E
+M>la z. più illuminata</E
+M>più buia</E
+M>della piazza</E
+M>del bosco</E
+M>cercare una z. d’ombra per sdraiarsi a fare un pisolino</E
+M>dove scattare una fotografia</E
+M>la z. centrale</E
+M>una z. del centro</E
+M>z. periferiche</E
+M>di periferia</E
+M>i negozî</E
+M>gli uffici</E
+M>gli autobus della nostra z.</E
+M>cambiare zona</E
+M>restare in zona</E
+M>la z. dell’EUR</E
+M>la z. di Monte Mario</E
+M>la z. di Piazza Venezia</E
+M>z. pedonale</E
+M>z. vietata alla circolazione degli automezzi</E
+M>z. disco</E
+M>z. del silenzio</E
+M>z. militare con divieto di accesso</E
+M>z. residenziale</E
+M>z. commerciale</E
+M>degli affari</E
+M>z. industriale</E
+M>z. dei servizî urbani</E
+M>z. a verde pubblico</E
+M>z. sportive</E
+M>z. a verde privato</E
+M>z. a verde agricolo</E
+M>z. intensiva</E
+M>semintensiva</E
+M>estensiva</E
+M>z. di rispetto</E
+M>zona di coltivazione di un vitigno</E
+M>di produzione di un vino</E
+M>una z. di collina ad alta vocazione vinicola</E
+M>le z. tipiche dei formaggi grana</E
+M>z. agraria</E
+M>regioni agrarie</E
+M>z. altimetriche</E
+M>di montagna</E
+M>di collina</E
+M>di pianura</E
+M>z. di ripopolamento e cattura</E
+M>zone</E
+M>aree depresse</E
+M>z. disastrata</E
+M>z. disastrata</E
+M>z. floristica</E
+M>regno floristico</E
+M>z. fotoclimatiche</E
+M>Lauretum</E
+M>Castanetum</E
+M>Fagetum</E
+M>Picetum</E
+M>Alpinetum</E
+M>z. di libero scambio</E
+M>z. franca</E
+M>z. di vigilanza</E
+M>z. contigua</E
+M>z. di frontiera</E
+M>sfera d’influenza</E
+M>z. smilitarizzata</E
+M>neutralizzata</E
+M>z. sanitarie</E
+M>di sicurezza</E
+M>zona di sicurezza</E
+M>zone di neutralità</E
+M>zona di guerra</E
+M>zona di combattimento</E
+M>z. di operazioni</E
+M>z. militare</E
+M>z. tattiche</E
+M>z. di attacco</E
+M>z. di difesa</E
+M>z. minata</E
+M>z. territoriali</E
+M>z. vietata</E
+M>z. calda</E
+M>z. astronomico-termiche</E
+M>z. torrida</E
+M>z. temperate</E
+M>z. polari</E
+M>z. abissale</E
+M>z. afotica</E
+M>z. areica</E
+M>z. endoreica</E
+M>z. esoreica</E
+M>z. neritica</E
+M>z. pelagica</E
+M>livello geologico</E
+M>z. ad Harpoceras opalinum</E
+M>z. vulcanica</E
+M>z. metamorfica</E
+M>z. di contatto</E
+M>z. tettonica</E
+M>epizona</E
+M>mesozona</E
+M>catazona</E
+M>biozona</E
+M>litozona</E
+M>cronozona</E
+M>zona d’attacco</E
+M>z. di difesa</E
+M>z. di servizio</E
+M>gioco a zona</E
+M>controllo</E
+M>difesa</E
+M>marcamento</E
+M>marcatura a zona</E
+M>zona</E
+M>tattica della z.</E
+M>scegliere la z.</E
+M>marcamento a uomo</E
+M>segnare in zona Cesarini</E
+M>in zona Cesarini</E

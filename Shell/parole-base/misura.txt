@@ -1,0 +1,301 @@
+misura.txt
+"a misura d'uomo"
+"capacità di misura"
+"che misura due pollici per quattro"
+"confezionato su misura"
+"confezionato, fatto su misura"
+"da mezzo piede (misura)"
+"dare la misura"
+"della stessa misura"
+"di buona misura"
+"di buona misura"
+"di due piedi (misura)"
+"di mezza misura"
+"di stretta misura"
+"di taglia, misura gigante"
+"fare su misura"
+"fare su misura"
+"fare su misura"
+"fatto su misura"
+"fatto su misura"
+"fatto su misura"
+"fatto su misura"
+"fuori da ogni misura"
+"fuori misura"
+"fuori misura"
+"in diversa misura"
+"in grande misura"
+"in larga misura"
+"in larga misura"
+"in larga misura"
+"in misura costante"
+"in misura maggiore"
+"in misura pari a"
+"in modo esaltato, fuori misura"
+"in piccola\/ridotta misura"
+"in piccola\/ridotta misura"
+"in qualche misura"
+"in una certa misura"
+"in una qualche misura"
+"indice di misura"
+"la misura di tutte le cose"
+"la misura è colma"
+"lavoro su misura"
+"lenzuolo su misura"
+"mezza misura"
+"misura"
+"misura"
+"misura"
+"misura"
+"misurazione, atto"
+"misura"
+"misura"
+"misura"
+"misura"
+"misura cautelare"
+"misura completa"
+"misura correttiva"
+"misura dell'angolo"
+"misura di collo"
+"misura di coppa di reggiseno"
+"misura di scarpe"
+"misura di scarpe"
+"misura di sicurezza"
+"misura impopolare"
+"misura impopolare"
+"misura lineare"
+"misura lineare"
+"misura per lunghezza d'onda"
+"misura preventiva"
+"misura preventiva"
+"misura semplice"
+"misura standard"
+"misura temporanea"
+"misura zero"
+"nella misura in cui"
+"oltre misura"
+"pensato su misura"
+"protettivo oltre misura"
+"questa misura, grandezza"
+"rifornire in misura maggiore"
+"senza misura"
+"su misura"
+"su misura"
+"taglia; misura gigante"
+"unità di misura"
+"vendere o prenotare oltre misura"
+*[[moderazione]]
+*''(rapporto tra grandezze)'' [[misurazione]] 
+*''(rimedio)'' [[provedimento]]
+*''(spesa oculata)''[[parsimonia]] 
+*[[contromisura]]
+*[[contromisura]],[[misurino]]
+*[[misurare]]
+*'' su misura''
+M>mens</E
+M>mensus</E
+M>metiri</E
+M>unità di misura</E
+M>la m</E
+M>della temperatura di questa stanza è 23 °C</E
+M>il metro è una m</E
+M>di lunghezza</E
+M>sistema di m</E
+M>teoria della m</E
+M>calcolare la m</E
+M>di una stanza</E
+M>di una scatola</E
+M>di un mobile</E
+M>prendere le m</E
+M>di un quadro per l’ordinazione della cornice</E
+M>bastoni di tutte le m</E
+M>temperino</E
+M>coltello di m</E
+M>proibita</E
+M>che supera la m</E
+M>le m</E
+M>che mi hai dato sono esatte</E
+M>ti posso dire soltanto la m</E
+M>approssimativa</E
+M>raggiungere</E
+M>non raggiungere</E
+M>superare la m</E
+M>prendere le m</E
+M>scarpe fatte su misura</E
+M>vestito su misura</E
+M>questo vestito ti sta a misura</E
+M>siete della stessa m</E
+M>hanno suppergiù la stessa m</E
+M>sono tutt’e due tagliati a una misura</E
+M>magliette di prima</E
+M>di seconda m</E
+M>che misura porti?</E
+M>per lei ci vuole la quarta m</E
+M>questo soprabito mi sta stretto</E
+M>occorrerebbe una m</E
+M>più grande</E
+M>Fare le cose a misura</E
+M>Vincere di misura</E
+M>di stretta m</E
+M>ha ottenuto una vittoria di stretta misura</E
+M>Complemento di misura</E
+M>quanto?</E
+M>di quanto?</E
+M>molto</E
+M>tre volte</E
+M>di qualche giorno</E
+M>di estensione</E
+M>è lungo circa 3 metri</E
+M>il cronometro serve per la m</E
+M>del tempo</E
+M>strumento di m</E
+M>errore di m</E
+M>diretta</E
+M>indiretta</E
+M>pubblica</E
+M>diritto di m</E
+M>pubblica</E
+M>di peso pubblico</E
+M>giusta m</E
+M>abbondante</E
+M>scarsa</E
+M>scrupolosa</E
+M>approssimativa</E
+M>buona m</E
+M>sono tre metri di stoffa</E
+M>buona m</E
+M>ridare</E
+M>ricambiare</E
+M>a m</E
+M>di carbone</E
+M>se gli fai un torto</E
+M>si vendica a m</E
+M>di carbone</E
+M>pesi</E
+M>verificare</E
+M>bollare le m</E
+M>servirsi di m</E
+M>false</E
+M>pesi e misure</E
+M>fare</E
+M>usare</E
+M>adoperare</E
+M>avere due pesi e due m</E
+M>la m</E
+M>è colma</E
+M>la m</E
+M>trabocca</E
+M>Giusta m</E
+M>misura</E
+M>oltre m</E
+M>fuor di m</E
+M>mangiare oltre m</E
+M>è goloso</E
+M>maldicente</E
+M>fuor di m</E
+M>Color di perle ha quasi</E
+M>in forma quale Convene a donna aver</E
+M>non for misura</E
+M>Ahi</E
+M>nova gente oltra misura altera</E
+M>colmare</E
+M> passare la m</E
+M>avete colmata la misura; e non vi temo più</E
+M>in ogni cosa ci vuol m</E
+M>non avere m</E
+M>non conoscere m</E
+M>non avere né modo né m</E
+M>avere il senso della m</E
+M>non avere il senso della m</E
+M>con m</E
+M>a m</E
+M>bevi pure</E
+M>ma con m</E
+M>con una certa m</E
+M>pane finché dura</E
+M>ma il vino a m</E
+M>senza m</E
+M>spende e spande senza m</E
+M>senza m</E
+M>della reina s’innamorò</E
+M>crescere</E
+M>aumentare fino a una certa m</E
+M>contribuire in ugual m</E
+M>in maggiore</E
+M>minor m</E
+M>cercherò di aiutarvi nella m</E
+M>delle mie forze</E
+M>delle mie possibilità</E
+M>è stato compensato in larghissima misura</E
+M>guai s’io dovessi prender la mia debolezza per m</E
+M>del dovere altrui</E
+M>per norma del mio insegnamento!</E
+M>l’uomo è la m</E
+M>di tutte le cose</E
+M>il rispetto per i diritti umani è la m</E
+M>della civiltà di un popolo</E
+M>ho agito così per una semplice m</E
+M>di prudenza</E
+M>non mi fido di lui</E
+M>e prima di accettare la sua proposta voglio prendere le mie m</E
+M>prendere m</E
+M>energiche per evitare disordini</E
+M>stabilire m</E
+M>preventive</E
+M>restrittive</E
+M>adottare m</E
+M>disciplinari</E
+M>ricorrere a m</E
+M>estreme</E
+M>mezze m</E
+M>aborro le mezze misure</E
+M>misure di sicurezza</E
+M>patrimoniali</E
+M>personali</E
+M>detentive</E
+M>non detentive</E
+M>Misure di prevenzione</E
+M>m. di polizia</E
+M>m. giudiziarie di prevenzione</E
+M>m. cautelari</E
+M>m. coercitive</E
+M>m. interditive</E
+M>M. alternative alla detenzione</E
+M>a misura che</E
+M>a m</E
+M>che il tempo passa</E
+M>i ricordi si affievoliscono</E
+M>a m. che la neve andava scomparendo, il campo si mutava in uno squallido acquitrino</E
+M>a misura d’uomo</E
+M>lavoro</E
+M>ambiente</E
+M>città</E
+M>società</E
+M>a m</E
+M>d’uomo</E
+M>a dimensione umana</E
+M>nella m</E
+M>in cui</E
+M>ti aiuterò nella m</E
+M>in cui mi sarà possibile</E
+M>dans la mesure où</E
+M>poskol</E
+M>Ma s’era sentita ferita ... che avesse ormai fatto la sua scelta sia pure nella m. in cui accoglieva una scelta in precedenza fatta dalla madre</E
+M>camminando</E
+M>piè fermo</E
+M>lunga</E
+M>corta</E
+M>Essere fuori di m</E
+M>sotto m</E
+M>chiudere la m</E
+M>non trovare la misura</E
+M>metro</E
+M>piede</E
+M>i poeti estemporanei non sempre rispettano la m</E
+M>verso che supera la m</E
+M>battuta</E
+M>esercizio di quattro m</E
+M>di otto misure</E
+M>lavori a misura</E
+M>appalto a misura</E
+M>a misura</E

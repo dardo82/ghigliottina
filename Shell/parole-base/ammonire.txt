@@ -1,0 +1,21 @@
+ammonire.txt
+"ammonire"
+"ammonire"
+"ammonire"
+*[[avvertire]], [[avvisare]], [[consigliare]], [[suggerire]], [[esortare]]
+*[[sgridare]], [[rimproverare]], [[riprendere]], [[correggere]]
+*[[sconsigliare]], [[distogliere]], [[dissuadere]]
+*[[lodare]], [[elogiare]], [[encomiare]]
+* [[ammonito]]
+M>admon</E
+M>mon</E
+M>io ammonisco</E
+M>tu ammonisci</E
+M>lo ammonii di evitare le cattive compagnie</E
+M>ti ammonisco a non dargli retta</E
+M>l’avevo ammonito che il suo atto poteva avere serie conseguenze</E
+M>ormai</E
+M>ero ammonito dall’esperienza</E
+M>l’ho già ammonito più volte per la sua disattenzione</E
+M>sono ragazzi che hanno bisogno di essere ammoniti continuamente</E
+M>Ufficio dell’ammonire</E

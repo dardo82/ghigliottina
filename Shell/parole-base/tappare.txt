@@ -1,0 +1,41 @@
+tappare.txt
+"ostruire, intasare, tappare"
+"tappare"
+"tappare"
+"tappare, turare"
+#* '''''tappare''' una bottiglia''
+#* '''''tappati''' la bocca perché stai parlando troppo''
+#* ''la musica era talmente alta che mi '''tappai''' le [[orecchie]]''
+* ''(premere su display touch screen)'' italianizzazione del verbo to [[tap]]
+*''(chiudere con il tappo)'' [[turare]], [[chiudere]]
+*''(chiudere con il tappo specificamente una [[botte]])'' [[zaffare]] 
+*''(chiudere per non sentire suoni specificamente porte e finestre)'' [[serrare]], [[sbarrare]], [[sigillare]], [[segregare]]
+*''(chiudere con il tappo)'' [[stappare]], [[sturare]], [[aprire]], [[sbloccare]], [[dissigillare]]
+*[[tapparsi]]
+*[[tappabuchi]], [[tapparella]], [[tappatrice]], [[tappo]]
+M>t. la bottiglia</E
+M>il fiasco</E
+M>la botte</E
+M>stappare</E
+M>il calafato tappa i buchi della barca con stoppa e pece</E
+M>t. i buchi con lo stucco e scartavetrare la tavola</E
+M>t. un buco</E
+M>t. una falla</E
+M>t. la finestra</E
+M>la porta.</E
+M>chiudere</E
+M>gli rispose a quel modo tanto per tappargli la bocca</E
+M>tapparsi il naso</E
+M>le orecchie</E
+M>gli occhi</E
+M>t. qualcuno in un luogo</E
+M>tapparsi in casa</E
+M>nella stanza</E
+M>stava tappato in casa</E
+M> con tanto di catenaccio</E
+M> e non metteva fuori nemmeno il naso</E
+M>una bottiglia tappata</E
+M>starsene</E
+M>restare tutto il giorno tappato in casa</E
+M>avere il naso tappato</E
+M>sentirsi le orecchie tappate</E

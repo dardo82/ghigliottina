@@ -1,0 +1,170 @@
+plurale.txt
+"il plurale"
+"numero plurale"
+"plurale"
+"plurale"
+*[[singolare]]
+*[[pluralità]]
+M>pluralis</E
+M>plus pluris</E
+M>numero singolare e p.</E
+M>sostantivo</E
+M>aggettivo</E
+M>pronome p.</E
+M>di numero plurale</E
+M>la formazione del p.</E
+M>sostantivi che non hanno il p.</E
+M>usati soltanto al p.</E
+M>difettivi del p.</E
+M>parlare al p.</E
+M>in p.</E
+M>P. di maestà</E
+M>estatico</E
+M>pluralis maiestatis</E
+M>P. di modestia</E
+M>d&#8217;autore</E
+M>pluralis modestiae</E
+M>auctoris</E
+M>P. ellittico</E
+M>i principi Sanseverino</E
+M>il principe e la principessa Sanseverino</E
+M>enfatico</E
+M>poetico</E
+M>cielo</E
+M>nell&#8217;alto</E
+M>dall&#8217;alto dei cieli</E
+M>tavolo-tavoli</E
+M>cane-cani</E
+M>lieto-lieti</E
+M>felice-felici</E
+M>finestra-finestre</E
+M>nave-navi</E
+M>i brindisi</E
+M>le crisi</E
+M>pari</E
+M>impari</E
+M>dispari</E
+M>i re</E
+M>le gru</E
+M>i caffè</E
+M>le virtù</E
+M>i lapis</E
+M>i film</E
+M>Vocabolario</E
+M>poema-poemi</E
+M>i delta</E
+M>-ie</E
+M>moglie-mogli</E
+M>le serie</E
+M>effigie</E
+M>superficie</E
+M>effigi</E
+M>superfici</E
+M>mano</E
+M>le radio</E
+M>-co</E
+M>-go</E
+M>-ci</E
+M>-gi</E
+M>amico-amici</E
+M>teologo-teologi</E
+M>-chi</E
+M>-ghi</E
+M>elenco-elenchi</E
+M>dialogo-dialoghi</E
+M>-co</E
+M>pratico-pratici</E
+M>carico-carichi</E
+M>-go</E
+M>-ghi</E
+M>larghi</E
+M>vaghi</E
+M>-ca</E
+M>-ga</E
+M>-chi</E
+M>-ghi</E
+M>monarca-monarchi</E
+M>collega-colleghi</E
+M>-che</E
+M>-ghe</E
+M>banca-banche</E
+M>paga-paghe</E
+M>-io</E
+M>-cio</E
+M>-chio</E
+M>-ghio</E
+M>-glio</E
+M>-scio</E
+M>-aio</E
+M>-eio</E
+M>-oio</E
+M>-uio</E
+M>bacio-baci</E
+M>vecchio-vecchi</E
+M>grigio-grigi</E
+M>mugghio-mugghi</E
+M>taglio-tagli</E
+M>uscio-usci</E
+M>saio-sai</E
+M>leguleio-legulei</E
+M>corridoio-corridoi</E
+M>buio-bui</E
+M>-ii</E
+M>premio</E
+M>premi</E
+M>premî</E
+M>premii</E
+M>-cia</E
+M>-gia</E
+M>-scia</E
+M>-ce</E
+M>-ge</E
+M>-sce</E
+M>lancia-lance</E
+M>saggia-sagge</E
+M>fascia-fasce</E
+M>-i-</E
+M>socia-socie</E
+M>regia-regie</E
+M>provincia-province</E
+M>provincie</E
+M>conscia-consce</E
+M>conscie</E
+M>-c-</E
+M>-g-</E
+M>micia-micie</E
+M>mice</E
+M>grigia-grigie</E
+M>grige</E
+M>camicia-camicie</E
+M>camice</E
+M>-io</E
+M>-cia</E
+M>-gia</E
+M>-scia</E
+M>l&#8217;uovo</E
+M>le uova</E
+M>il lenzuolo</E
+M>le lenzuola</E
+M>filo</E
+M>i fili</E
+M>le fila</E
+M>braccio</E
+M>i bracci</E
+M>le braccia</E
+M>dio</E
+M>dèi</E
+M>uomo</E
+M>uomini</E
+M>bue</E
+M>buoi</E
+M>francobollo-francobolli</E
+M>ferrovia-ferrovie</E
+M>capostazione-capistazione</E
+M>terracotta-terrecotte</E
+M>i portamonete</E
+M>i sottoscala</E
+M>grigioverde-grigioverdi</E
+M>sempreverde-sempreverdi</E
+M>dabbene</E
+M>anticarro</E

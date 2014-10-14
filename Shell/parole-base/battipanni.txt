@@ -1,0 +1,4 @@
+battipanni.txt
+"Traduzione di battipanni/ non trovata.\nNo translation was found for battipanni/."
+M>battere</E
+M>panno</E

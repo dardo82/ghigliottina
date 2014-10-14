@@ -1,0 +1,55 @@
+spugna.txt
+"asciugamano di spugna"
+"bere come una spugna"
+"colpo di spugna"
+"gettare la spugna"
+"gettare la spugna (anche in senso figurato)"
+"passare una spugna sopra qualcosa"
+"pulire con una spugna"
+"spugna"
+"spugna"
+"spugna"
+"spugna da bagno"
+"telo spugna"
+"tessuto in spugna"
+M>spongia</E
+M>poriferi</E
+M>s. calcaree</E
+M>s. silicee</E
+M>Pesca delle s.</E
+M>s. da bagno</E
+M>da toeletta</E
+M>s. per idroterapia</E
+M>s. per cavalli</E
+M>pulire la macchina</E
+M>lavare i vetri con una spugna</E
+M>getto della s.</E
+M>perdere</E
+M>vincere</E
+M>per getto della spugna</E
+M>gettare la s.</E
+M>un dolce leggero</E
+M>soffice come una s.</E
+M>bere come una s.</E
+M>essere una s.</E
+M>quella s. del tuo amico s&#8217;è finito mezza bottiglia di whisky!</E
+M>dare un colpo di spugna</E
+M>dare un colpo di s. a un vecchio debito</E
+M>di torti ne ha anche troppi</E
+M> ma è meglio darci un colpo di s.</E
+M>cancellare tutto con un colpo di s.</E
+M>S. vegetale</E
+M>di luffa</E
+M>S. artificiali</E
+M>asciugamano</E
+M>tappeto</E
+M>manopole</E
+M>accappatoio</E
+M>giacca</E
+M>tutina di spugna.</E
+M>s. delle Màrmore</E
+M>pietra spugna</E
+M>spugnone</E
+M>s. di platino</E
+M>s. di ferro</E
+M>s. di gelatina</E

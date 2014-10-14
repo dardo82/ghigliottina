@@ -1,0 +1,24 @@
+fauna.txt
+"fauna"
+"fauna"
+"flora e fauna"
+"flora and fauna"
+*italiano
+*inglese
+M>Fauna Suecica</E
+M>flora</E
+M>marina</E
+M>lacustre</E
+M>terrestre</E
+M>tropicale</E
+M>glaciale</E
+M>cosmopolita</E
+M>calda</E
+M>fredda</E
+M>la f</E
+M>che affolla le spiagge d’agosto</E
+M>discoteche gremite di una f</E
+M>accaldata</E
+M>un omone grosso e rozzo</E
+M>tipico esemplare della f</E
+M>locale</E

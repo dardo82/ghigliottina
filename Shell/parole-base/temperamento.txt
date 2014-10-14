@@ -1,0 +1,48 @@
+temperamento.txt
+"che temperamento!"
+"temperamento"
+"temperamento"
+"temperamento artistico"
+*[[carattere]], [[indole]], [[personalità]], [[natura]], [[essenza]], [[stoffa]], [[tempra]], [[spirito]], [[tendenza]], [[disposizione]], [[inclinazione]], [[attitudine]]
+*''(nella medicina antica)'' [[complessione]]
+M>temperamentum</E
+M>temperare</E
+M>t. dei colori</E
+M>piogge che sono di t. al calore eccessivo dell&#8217;estate</E
+M>apportare un t. al rigore di una punizione</E
+M> della disciplina</E
+M>t. dell&#8217;ira</E
+M> delle passioni.</E
+M>cercare</E
+M> trovare un t.</E
+M>non vi gettate del tutto al disperato</E
+M> signor Simplicio</E
+M> ché forse ci è ancora qualche t. per le vostre difficultà</E
+M>temperamento</E
+M>t. normale</E
+M>eucrasia</E
+M>t. anormali</E
+M>discrasie</E
+M>t. sanguigno</E
+M> t. flemmatico</E
+M> t. bilioso</E
+M> t. melanconico</E
+M>avere un t. freddo</E
+M>emotivo</E
+M> facilmente irritabile</E
+M>un t. sentimentale</E
+M>romantico</E
+M>siamo due t. diversi</E
+M>è un lavoro che non s&#8217;adatta al mio t.</E
+M>una donna piena di t.</E
+M>che t. quell&#8217;attore!</E
+M>un artista di t.</E
+M>che ha del temperamento.</E
+M>t. maschile</E
+M>t. di Ariete</E
+M>dei Gemelli</E
+M>t. femminile</E
+M>t. del Toro</E
+M>della Vergine</E
+M>temperamento della bocca</E
+M>t. di una miniera</E

@@ -1,0 +1,81 @@
+lusso.txt
+"andare di lusso"
+"cane di lusso"
+"concedersi il lusso"
+"hotel di lusso"
+"il lusso"
+"immobile di lusso"
+"imposta sui beni di lusso"
+"libro in edizione di lusso"
+"lusso"
+"lusso"
+"lusso sfrenato"
+"nave di lusso"
+"nel lusso"
+"nel lusso"
+"prendersi il lusso di"
+"vivere nel lusso"
+"vivere nel lusso"
+"vivere nel lusso, nello sfarzo"
+*[[sfarzo]], [[fasto]], [[fastosità]], [[sontuosità]], [[splendore]], [[magnificenza]], [[esibizione]], [[ostentazione]], [[pompa]], [[pomposità]], [[sfoggio]], [[regalità]]
+*[[superfluità]], [[scialo]], [[ricchezza]], [[eleganza]], [[sciccheria]]
+*[[semplicità]], [[modestia]], [[austerità]], [[sobrietà]]
+*[[povertà]], [[miseria]], [[bisogno]], [[ristrettezza]]
+* [[lussuoso]], [[lussureggiare]]
+M>luxus</E
+M>luxus</E
+M>luxare</E
+M>vivere nel l</E
+M>con gran l</E
+M>famiglia abituata al l</E
+M>a cui piace il l</E
+M>combattere il l</E
+M>predicare contro il l</E
+M>leggi contro il l</E
+M>leggi suntuarie</E
+M>raffinato</E
+M>esagerato</E
+M>eccessivo</E
+M>sfrenato</E
+M>smodato</E
+M>disastroso</E
+M>rovinoso</E
+M>vestire con l</E
+M>casa arredata con molto l</E
+M>ornare</E
+M>decorare con l</E
+M>che l</E
+M>quanto l</E
+M>che lussi!</E
+M>andare in albergo</E
+M>con questi prezzi</E
+M>è un l</E
+M>che non ci possiamo permettere</E
+M>certe comodità che in paesi più evoluti sono considerate indispensabili</E
+M>in altri sono giudicate un l</E
+M>spendere in lussi</E
+M>oggi che ho avuto lo stipendio</E
+M>posso anche concedermi il l</E
+M>di offrirti una cena in trattoria</E
+M>col lavoro che c’è</E
+M>non possiamo concederci il l</E
+M>di stare con le mani in mano</E
+M>volume stampato con molto l</E
+M>di illustrazioni</E
+M>un articolo di scarsa consistenza ma con gran l</E
+M>di citazioni</E
+M>Di lusso</E
+M>articoli</E
+M>oggetti</E
+M>generi</E
+M>prodotti</E
+M>consumi di l</E
+M>abito</E
+M>automobile</E
+M>appartamento di l</E
+M>le importazioni di mercanzie di puro l</E
+M>sono sempre una vera e reale perdita per lo stato</E
+M>esemplare stampato in carta di l</E
+M>edizione di l</E
+M>bene di l</E
+M>produzione di l</E

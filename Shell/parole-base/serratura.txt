@@ -1,0 +1,36 @@
+serratura.txt
+"buco della serratura"
+"buco della serratura"
+"forzare la serratura"
+"serratura"
+"serratura a combinazione"
+"serratura a scatto"
+"serratura a scatto"
+"serratura a scatto"
+M>la s. della porta</E
+M>del baule</E
+M>s. di sicurezza</E
+M>a combinazione</E
+M>elettrica</E
+M>s. a lucchetto</E
+M>a scrocco</E
+M>a catenaccio</E
+M>s. a molla</E
+M>s. a due</E
+M>a tre</E
+M>a sei mandate</E
+M>la piastra della s.</E
+M>aprire</E
+M>forzare</E
+M>scassinare la s.</E
+M>guardare attraverso il buco della serratura</E
+M>s. di sicurezza yale</E
+M>s. yale</E
+M>rocchetto</E
+M>statore</E
+M>s. a leve</E
+M>s. a chiave a doppia mappa</E
+M>s. a cilindro europeo</E
+M>s. automatizzata</E
+M>s. di un insieme</E
+M>chiusura di un insieme</E

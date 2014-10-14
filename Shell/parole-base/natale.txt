@@ -1,0 +1,68 @@
+natale.txt
+"a natale siamo tutti più buoni"
+"albero di natale"
+"babbo natale"
+"Babbo Natale"
+"Babbo Natale"
+"Buon Natale"
+"ceppo di Natale"
+"città natale"
+"dopo Natale"
+"fa molto natale"
+"festeggiare il Natale"
+"natale"
+"natale"
+"Natale"
+"paese natale"
+"paese natale, città natale"
+"post-natale"
+"post-natale"
+"stella di natale"
+"tortina di Natale"
+*[[originario]], [[nativo]], [[patrio]]
+* giorno della nascita, giorno della fondazione
+*italiano
+*latino
+M>natalis</E
+M>natus</E
+M>nasci</E
+M>natales</E
+M>nativo</E
+M>la terra n</E
+M>Mia natal patria è nella aspra Liguria</E
+M>il giorno</E
+M>l’anno natale</E
+M>qual sì nefando eccesso Macchiommi anzi il n</E
+M>onde sì torvo Il ciel mi fosse e di fortuna il volto?</E
+M>natalizio</E
+M>il N</E
+M>di Roma</E
+M>la città in cui ebbe i n</E
+M>il Petrarca</E
+M>il paese che diede i n</E
+M>a Leonardo</E
+M>di umili</E
+M>oscuri</E
+M>illustri n</E
+M>lo splendore</E
+M>la ricchezza</E
+M>la nobiltà dei natali</E
+M>la ricorrenza di N</E
+M>del N</E
+M>la vigilia</E
+M>il giorno di N</E
+M>le vacanze di N</E
+M>il presepe</E
+M>l’albero di N</E
+M>fare</E
+M>festeggiare N</E
+M>per N. me ne vado in vacanza</E
+M>auguri di N</E
+M>di buon N</E
+M>buon N. a tutti!</E
+M>babbo N</E
+M>viene una volta l’anno</E
+M>durare da N</E
+M>a santo Stefano</E
+M>Natale con i tuoi e Pasqua con chi vuoi</E
+M>di sangue</E

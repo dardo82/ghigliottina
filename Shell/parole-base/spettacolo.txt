@@ -1,0 +1,99 @@
+spettacolo.txt
+"arti dello spettacolo"
+"bello spettacolo"
+"dare spettacolo"
+"industria dell'intrattenimento, industria dello spettacolo"
+"industria dello spettacolo, dell'intrattenimento"
+"laurea in arte e scienze dello spettacolo"
+"mettere in scena uno spettacolo"
+"non un bello spettacolo, non un granché"
+"rappresentazione dal vivo, spettacolo dal vivo"
+"spettacolo"
+"spettacolo"
+"spettacolo"
+"spettacolo a quiz"
+"spettacolo allestito in un locale notturno"
+"spettacolo comico"
+"spettacolo con ragazze"
+"spettacolo dal vivo"
+"spettacolo di burattini"
+"spettacolo di cabaret"
+"Spettacolo di intrattenimento, drammatico o musicale, interpretato in gruppo leggendo il testo"
+"spettacolo di luci"
+"spettacolo di marionette"
+"spettacolo di mostri (al circo)"
+"spettacolo di successo"
+"spettacolo di talento"
+"spettacolo di varietà"
+"spettacolo gestuale"
+"spettacolo magico"
+"spettacolo teatrale"
+"spettacolo teatrale"
+"uno spettacolo televisivo"
+*[[scena]], [[rappresentazione]], [[trattenimento]], [[recita]], [[commedia]], [[tragedia]], [[concerto]], [[veduta]], [[panorama]]
+*[[spettacolare]], [[spettacoloso]], [[avanspettacolo]]
+M>spectac</E
+M>lum</E
+M>spectare</E
+M>uno s. di danze folcloristiche</E
+M>s. di varietà</E
+M>di rivista</E
+M>s. di burattini</E
+M>di giochi di prestigio</E
+M>s. di balletti</E
+M>s. televisivo</E
+M>s. pubblici</E
+M>uno s. divertente</E
+M>interessante</E
+M>indimenticabile</E
+M>noioso</E
+M>è stato un grande s.</E
+M>ieri sera a teatro ho visto uno s. veramente nuovo</E
+M>assistere a uno s.</E
+M>domenica la compagnia darà due s.</E
+M> al cinema</E
+M> vado sempre all&#8217;ultimo s.</E
+M>arrivare all&#8217;inizio dello s.</E
+M>uscire prima della fine dello s.</E
+M>signori</E
+M> lo s. sta per incominciare</E
+M>s. di gala</E
+M>di beneficenza</E
+M>s. a favore dei profughi</E
+M>lavorare nello s.</E
+M>il mondo</E
+M>il settore</E
+M>l&#8217;industria dello s.</E
+M>gente</E
+M>personaggi dello spettacolo</E
+M>società dello s.</E
+M>société du spectacle</E
+M>situazionismo</E
+M>politica s.</E
+M>cultura s.</E
+M>inchiesta s.</E
+M>processo spettacolo</E
+M>dare spettacolo</E
+M>tua figlia balla benissimo</E
+M> ieri sera ha dato proprio s.!</E
+M>ha dato s. di sé</E
+M>della sua bravura</E
+M>della sua classe</E
+M>si veste in modo stravagante apposta per dare s.</E
+M>non fare lo snob per dare s. di te!</E
+M>cerca di non ubriacarti e di non dare spettacolo!</E
+M>dal terrazzo si vede uno s. meraviglioso</E
+M>la natura offre gli s. più grandiosi</E
+M>il suggestivo s. del mare al tramonto</E
+M>vedere quei due che si rincorrevano era uno s. esilarante</E
+M>uno s. penoso</E
+M>disgustoso</E
+M>ripugnante</E
+M>arrivati sul luogo del disastro vedemmo uno s. terrificante</E
+M>non voglio vedere certi s.!</E
+M>ancora rammento il doloroso s. di quei poveri feriti gettati su una paglia trita e fetente</E
+M> ravvolti in sudici cenci</E
+M>che spettacolo!</E
+M>già non sorride Spettacol molle ai disperati affetti</E
+M>ciascuno di maraviglia rimase attonito</E
+M> e a una voce tutto lo s. chiamò vincitore Partenopeo</E

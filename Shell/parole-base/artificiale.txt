@@ -1,0 +1,66 @@
+artificiale.txt
+"allattamento artificiale"
+"artificiale"
+"artificiale"
+"artificiale, artificioso, fittizio"
+"cuore artificiale"
+"cuore artificiale"
+"dolcificante artificiale"
+"fiore artificiale"
+"fiore di seta, fiore artificiale"
+"gas artificiale"
+"impianto di innevamento artificiale"
+"induzione artificiale della pioggia"
+"inseminazione artificiale"
+"intelligenza artificiale"
+"invecchiamento artificiale"
+"lago artificiale"
+"lancio dell'esca artificiale"
+"linguaggio artificiale"
+"neve artificiale"
+"paradiso artificiale"
+"prato artificiale"
+"respirazione artificiale"
+"satellite artificiale"
+"selezione artificiale"
+"stazione di covatura artificiale per pesci"
+"uovo artificiale"
+#*''[[w
+* [[falso]], [[sintetico]]
+* [[naturale]], [[vero]]
+* [[artificialmente]]
+M>artificialis</E
+M>artificium</E
+M>bellezza a</E
+M>lago a</E
+M>freddo a</E
+M>pioggia a</E
+M>lingue a</E
+M>fuochi a</E
+M>d’artificio</E
+M>allattamento a</E
+M>fecondazione a</E
+M>respirazione a</E
+M>organi a</E
+M>arti a</E
+M>occhio a</E
+M>mano a</E
+M>cuore a</E
+M>pancreas a</E
+M>rene a</E
+M>Alpinismo a</E
+M>mezzi a</E
+M>lana</E
+M>seta a</E
+M>gemme</E
+M>perle</E
+M>diamanti a</E
+M>fiori a</E
+M>fiori finti</E
+M>asfalto a</E
+M>coloranti a</E
+M>ghiaccio a</E
+M>marmo a</E
+M>parlava con voce a</E
+M>assume spesso pose a</E
+M>fibra prodotta artificialmente</E

@@ -1,0 +1,31 @@
+esercitazione.txt
+"campo di esercitazione al tiro"
+"esercitazione"
+"esercitazione antincendio"
+"esercitazione militare"
+"esercitazione pratica"
+"nell'esercitazione"
+*[[esercizio]], [[addestramento]], [[allenamento]]
+M>exercitatio</E
+M>onis</E
+M>l’e</E
+M>dell’ingegno</E
+M>del braccio</E
+M>le sue prime poesie sono semplici e</E
+M>letterarie</E
+M>orazione scritta per e</E
+M>accademica</E
+M>scolastiche</E
+M>universitarie</E
+M>di seminario</E
+M>linguistiche</E
+M>critiche</E
+M>anatomiche</E
+M>di marcia</E
+M>di tiro</E
+M>tattiche</E
+M>esercitazioni con i quadri</E
+M>con i posti di comando</E
+M>con le truppe</E
+M>aeronautiche</E
+M>navali</E

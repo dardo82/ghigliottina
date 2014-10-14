@@ -1,0 +1,225 @@
+ponte.txt
+"attraversare il ponte"
+"casa sul ponte"
+"circuito a ponte"
+"costruire il ponte"
+"fare da ponte"
+"gettare un ponte"
+"gru a ponte; gru a cavalletto"
+"ponte"
+"ponte"
+"ponte"
+"ponte"
+"ponte"
+"ponte"
+"ponte a pedaggio"
+"ponte a schiena d'asino, ponte a dorso d'asino"
+"ponte a sospensione"
+"ponte a travata"
+"ponte ad arco"
+"ponte aereo"
+"ponte aereo"
+"ponte apribile"
+"ponte continentale"
+"ponte dentale"
+"ponte di comando"
+"ponte di corda"
+"ponte di poppa"
+"ponte di volo"
+"ponte di Wheatstone"
+"ponte galleggiante"
+"ponte galleggiante"
+"ponte levatoio"
+"ponte levatoio"
+"ponte mobile"
+"ponte principale"
+"ponte provvisorio"
+"ponte radio"
+"ponte sollevabile"
+"ponte sospeso"
+"ponte superiore"
+"testa di ponte"
+"topo marrone scuro di ponte"
+"triplo ponte"
+#* ''per questo '''ponte''' è previsto un aumento del traffico'';
+*''(costruzione)''[[viadotto]], [[cavalcavia]] 
+*(di legge, governo e sim.) [[provvisorio]], di transizione, [[transitorio]]
+* [[ponticello]], [[pontonaio]], [[pontone]], [[pontoniere]]
+*AFI
+*italiano
+*inglese
+*portoghese
+M>ns p</E
+M>ntis</E
+M>p. stradale</E
+M>ferroviario</E
+M>pedonale</E
+M>p. fluviale</E
+M>marittimo</E
+M>p. sospeso</E
+M>p. mobile</E
+M>p. girevole</E
+M>p. a tiranti</E
+M>p. a travata</E
+M>a telaio</E
+M>ad arco</E
+M>p. a due</E
+M>a tre arcate</E
+M>luci</E
+M>le testate del p.</E
+M>le spalle del p</E
+M>le pile del p</E
+M>rostri del p</E
+M>i parapetti del p</E
+M>p. provvisorio</E
+M>p. di barche</E
+M>di chiatte</E
+M>di zattere</E
+M>p. canale</E
+M>p.-canale</E
+M>pontecanale</E
+M>p. di liane</E
+M>p. metallico scomponibile</E
+M>p. Bailey</E
+M>p. levatoio</E
+M>testa di p</E
+M>P. militari</E
+M>p. d&#8217;assalto</E
+M>p. da interruzione</E
+M>stradale</E
+M>galleggiante</E
+M>barche da ponte</E
+M>i p. sulla Senna</E
+M>sul Tamigi</E
+M>sul Po</E
+M>sull&#8217;Arno</E
+M>sul Tevere</E
+M>i p. di Parigi</E
+M>di Venezia</E
+M>di Pisa</E
+M>P. Milvio</E
+M>P. Sublicio</E
+M>P. Sant&#8217;Angelo</E
+M>P. Sisto</E
+M>P. Vecchio</E
+M>P. delle Grazie</E
+M>P. di Santa Trìnita</E
+M>P. di Rialto</E
+M>P. dei Sospiri</E
+M>P. di Waterloo</E
+M>P. di Brooklyn</E
+M>Ponte di Legno</E
+M>Pontassieve</E
+M>Pontedera</E
+M>P. del diavolo</E
+M>fare</E
+M>gettare un p</E
+M>ideare</E
+M>progettare</E
+M>fondare un p</E
+M>passare</E
+M>attraversare il p</E
+M>a capo del p</E
+M>far saltare un p</E
+M>tagliare</E
+M>bruciare i p. con qualcuno</E
+M>bruciare i p. dietro di sé</E
+M>rimanere</E
+M>stare in p</E
+M>tenere in p. qualcuno</E
+M>La prese larga</E
+M>te li tenne in p</E
+M>tenere in p. qualcosa</E
+M>l&#8217;astuzia di mia madre ... ha tenuta la cosa in p. più settimane</E
+M>ne è passata d&#8217;acqua sotto i p</E
+M>l&#8217;acqua cheta rovina i p</E
+M>a nemico che fugge ponti d&#8217;oro</E
+M>fare ponti d&#8217;oro a qualcuno</E
+M>gettare un p</E
+M>p. dell&#8217;asino</E
+M>un p. di assi</E
+M>di tavole</E
+M>di tronchi d&#8217;albero</E
+M>P. di neve</E
+M>p. naturali</E
+M>P. continentali</E
+M>p. di servizio</E
+M>di fabbrica</E
+M>ponte</E
+M>impalcati</E
+M>ponteggio</E
+M>impalcatura</E
+M>ponte-luce</E
+M> ponte</E
+M>p. trasversale</E
+M>passerella</E
+M>p. di bocca d&#8217;opera</E
+M>p. di coperta</E
+M>p. di passeggiata</E
+M>il primo</E
+M>il secondo p</E
+M>p. di prima</E
+M>di seconda classe</E
+M>p. di volo</E
+M>un vascello a tre p</E
+M>un tre ponti</E
+M>salire sul p.</E
+M>p. di comando</E
+M>plancia</E
+M>p. delle paratie</E
+M>p. di stazza</E
+M>Ponte</E
+M>stadera</E
+M>a bilico</E
+M>Gru a p</E
+M>carroponte</E
+M>p. motore</E
+M>p. anteriore</E
+M>p. posteriore</E
+M>protesi a p.</E
+M>ponte di Varolio</E
+M>protuberanza anulare</E
+M>peduncoli cerebrali</E
+M>peduncoli cerebellari medî</E
+M>far ponte</E
+M>fare il p</E
+M>P. schiacciato</E
+M>centro di p</E
+M>di guado</E
+M>P. aereo</E
+M>p. radio</E
+M>circuito a p</E
+M>di misura</E
+M>di Wheatstone</E
+M>di Kirchhoff</E
+M>doppio di Thompson</E
+M>di Maxwell</E
+M>di Schering</E
+M>di raddrizzatori</E
+M>di Graetz</E
+M>disolfuro</E
+M>metilenico</E
+M>d&#8217;</E
+M>ossigeno</E
+M>d&#8217;</E
+M>idrogeno</E
+M>salino</E
+M>un p</E
+M>di tre</E
+M>di quattro giorni</E
+M>quest&#8217;anno il Natale cade di mercoledì e così avremo un p</E
+M>di un&#8217;intera settimana</E
+M>fare il p</E
+M>fare un p</E
+M>venerdì non vado in ufficio e faccio il p</E
+M>da giovedì</E
+M>che è festa</E
+M>a domenica</E
+M>fare un p</E
+M>di 3 giorni</E
+M>di una settimana</E
+M>governo ponte</E
+M>legge ponte</E
+M>soluzione ponte</E
+M>Gioco del p</E
+M>bridge</E

@@ -1,0 +1,12 @@
+esitare.txt
+"esitare"
+"esitare, indugiare"
+"esitare; tirarsi indietro"
+"esitare; tirarsi indietro"
+"far esitare; rendere incerto"
+"non esitare"
+"non esitare a"
+#*''la mia merce si esita come il pane''
+#*''il paziente esita in guarigione'' 
+*[[titubare]], [[tentennare]], [[indugiare]], [[tergiversare]]
+*[[risolversi]], [[decidersi]]

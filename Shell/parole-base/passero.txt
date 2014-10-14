@@ -1,0 +1,32 @@
+passero.txt
+"passero"
+"passero dalla gola bianca"
+"passero del vespro"
+"passero di campagna"
+"passero locustella"
+*[[passerio]], [[passera]],  [[passeriforme]]
+*[[uccello]]
+M>passer</E
+M>ris</E
+M>Passer</E
+M>oltremontano</E
+M>Passer domesticus</E
+M>nostrale</E
+M>reale</E
+M>d&#8217;Italia</E
+M>Passer italiae</E
+M>mattugio</E
+M>campagnolo</E
+M>Passer montanus</E
+M>spagnolo</E
+M>passera sarda</E
+M>passera</E
+M>passero delle risaie</E
+M>padda</E
+M>repubblicano</E
+M>Philetairus socius</E
+M>solitario</E
+M>passera solitaria</E
+M>Monticola solitarius</E
+M>turco</E
+M>zigolo della neve</E

@@ -1,0 +1,39 @@
+diffondere.txt
+"diffondere"
+"diffondere"
+"diffondere, divulgare"
+*[[spargere]], [[spandere]], [[riversare]]
+* [[trasmettere]],[[emettere]], [[emanare]]
+*[[trattenere]], [[racchiudere]]
+*[[concentrare]] 
+M>diffund</E
+M>dis</E
+M>fund</E
+M>fondere</E
+M>il sole diffonde luce e calore</E
+M>i fiori diffondevano nel giardino un intenso profumo</E
+M>una notizia</E
+M>un comunicato</E
+M>uno scritto</E
+M>una dottrina</E
+M>una diceria</E
+M>una calunnia</E
+M>notizie false</E
+M>la scienza</E
+M>la civiltà</E
+M>il contagio</E
+M>il suono delle campane si diffondeva nell’aria</E
+M>la notizia si diffuse rapidamente</E
+M>bisogna evitare che si diffonda nella popolazione questo senso di sfiducia</E
+M>provvedimenti per arginare il diffondersi del contagio</E
+M>un gas che diffonde rapidamente nell’aria</E
+M>la luce diffonde in un materiale semitrasparente.</E
+M>cadde tramortita</E
+M>e si diffuse Di gelato sudore</E
+M>e i lumi chiuse</E
+M>diffondersi nel racconto</E
+M>nella narrazione dei fatti</E
+M>scrittore che si diffonde troppo nelle descrizioni</E
+M>mezzo diffondente</E
+M>il calore diffuso nell’ambiente</E
+M>idee diffuse nella società</E

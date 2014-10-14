@@ -1,0 +1,34 @@
+foresta.txt
+"foresta"
+"foresta"
+"foresta amazzonica"
+"foresta di proprietà dello stato"
+"foresta nazionale"
+"foresta pietrificata"
+"foresta pietrificata"
+"foresta pluviale"
+"foresta primordiale"
+"foresta tropicale"
+"foresta vergine"
+"sentiero nella foresta"
+* [[selva]], [[bosco]], [[boscaglia]], [[macchia]] 
+*[[forestale]], [[forestazione]]
+*[[foresto]], [[forestiero]], [[forastico]]
+M>forestis</E
+M>foresta</E
+M>vergini</E
+M>equatoriali</E
+M>pluviali</E
+M>tropicali</E
+M>a parco</E
+M>mediterranee</E
+M>temperate</E
+M>boreali</E
+M>le f</E
+M>del Canada</E
+M>del Congo</E
+M>della Selva Nera</E
+M>abbattere una f</E
+M>perdersi nella f</E
+M>La divina f</E
+M>spessa e viva</E

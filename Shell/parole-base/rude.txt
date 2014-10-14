@@ -1,0 +1,27 @@
+rude.txt
+"rude"
+"rough, crude, coarse"
+"rude"
+"curt, gruff, rude"
+"scegliere la vita rude; inselvatichirsi"
+*[[rozzo]], [[incivile]]
+*[[rudemente]]
+*italiano
+*inglese
+M>rudis</E
+M>avere</E
+M>usare modi r</E
+M>trattare qualcuno con r</E
+M>franchezza</E
+M>rispondere con parole r</E
+M>ma sincere</E
+M>essere r</E
+M>un uomo r</E
+M>un r</E
+M>montanaro</E
+M>un vecchio militare autoritario e rude</E
+M>il verde vigor r</E
+M>Levando intanto queste prime rudi Scaglie</E
+M>parlare</E
+M>rispondere rudemente</E
+M>trattare qualcuno rudemente</E

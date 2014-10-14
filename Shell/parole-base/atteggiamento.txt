@@ -1,0 +1,54 @@
+atteggiamento.txt
+"assumere l'atteggiamento"
+"atteggiamento"
+"atteggiamento"
+"atteggiamento benevolo"
+"atteggiamento indifferente"
+"atteggiamento menefreghista"
+"atteggiamento mentale"
+"atteggiamento mentale"
+"atteggiamento negativo"
+"atteggiamento nei confronti della politica"
+"atteggiamento più duro"
+"atteggiamento rilassato"
+"atteggiamento rilassato"
+"atteggiamento; spirito"
+"avere un atteggiamento"
+"avere un atteggiamento da filosofo"
+"avere un atteggiamento servile"
+"cambiare idea; atteggiamento; posizione"
+#* ''mantenne tutto il tempo un atteggiamento da filosofo''
+#* ''scelse un atteggiamento fiducioso''
+#* ''l'atteggiamento della critica nei confronti del nuovo spettacolo di Tizio''
+* ''(modo di porsi fisicamente)''
+* ''(comportamento)''
+* [[atteggiarsi]]
+M>stare in a</E
+M>dimesso</E
+M>minaccioso</E
+M>supplichevole</E
+M>prende spesso atteggiamenti da istrione</E
+M>il suo a</E
+M>sembrava piuttosto sospetto</E
+M>breve</E
+M>lungo</E
+M>flesso</E
+M>laterale</E
+M>avanti</E
+M>ruotato</E
+M>non mi piace l’a</E
+M>che da qualche tempo ha assunto verso tutti noi</E
+M>prendere un a</E
+M>di noncuranza</E
+M>tenere un a</E
+M>imparziale</E
+M>l’a</E
+M>di Cavour di fronte alle imprese di Garibaldi</E
+M>l’a</E
+M>del governo nei riguardi delle nuove rivendicazioni sindacali</E
+M>l’a. della critica verso un libro</E
+M> un film</E
+M> l’a. dei giornalisti nei confronti del governo</E
+M>assume spesso atteggiamenti da superuomo</E
+M>il suo non è che un a.</E
+M>non sopporto i suoi a. da intellettuale</E

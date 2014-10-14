@@ -1,0 +1,162 @@
+pagare.txt
+"entrare senza pagare, entrare senza invito"
+"far pagare"
+"far pagare a"
+"far pagare poco"
+"far pagare un pedaggio"
+"farla pagare a"
+"in grado di pagare"
+"lo scotto da pagare"
+"pagare"
+"pagare"
+"pagare"
+"pagare"
+"pagare"
+"pagare"
+"pagare"
+"pagare  in nero"
+"pagare all'ordine di"
+"pagare alla cassa"
+"pagare alla romana"
+"pagare anticipatamente"
+"pagare con la carta di credito"
+"pagare gli alimenti"
+"pagare i costi"
+"pagare i danni"
+"pagare i debiti"
+"pagare il conto"
+"pagare il fio"
+"pagare in anticipo"
+"pagare in anticipo"
+"pagare in contanti"
+"pagare in contanti"
+"pagare in contanti"
+"pagare in contanti"
+"pagare in contanti"
+"pagare in contanti"
+"pagare in eccesso"
+"pagare interamente"
+"pagare la bolletta"
+"pagare la propria parte"
+"pagare la propria parte"
+"pagare lo scotto"
+"pagare lo scotto di"
+"pagare pegno"
+"pagare per colpe non proprie"
+"pagare qualcosa un occhio della testa"
+"pagare sulla propria pelle"
+"pagare troppo"
+"pagare troppo caro"
+"pagare un debito"
+"pagare un occhio della testa"
+"pagare una mazzetta a qualcuno"
+"pagare una tariffa superiore, maggiorata"
+"pagare; cacciar fuori"
+"potersi permettere di pagare"
+"promettere di pagare"
+"rifiutarsi di pagare"
+"somma da pagare"
+"sottrarsi dal pagare un debito di gioco"
+*''(una persona, una prestazione, eccetera)'' [[saldare]], [[stipendiare]], [[retribuire]], [[salariare]], [[dare]], [[liquidare]], [[corrispondere]], [[rimunerare]], [[sborsare]], [[risarcire]], [[rimborsare]], [[compensare]], [[regolare]], [[indennizzare]], [[elargire]], [[erogare]], [[soddisfare]]
+*''(una somma )'' [[versare]], [[depositare]], [[anticipare]]
+*[[corrompere]], [[comperare]]
+*[[offrire]]
+*[[ripagare]]
+*''pagare il fio''
+*''pagare in natura''
+*''pagare salato''
+M>pacare</E
+M>pax pacis</E
+M>io pago</E
+M>tu paghi</E
+M>la macchina</E
+M>un appartamento</E
+M>l&#8217;affitto</E
+M>il conto</E
+M>i debiti</E
+M>le tasse</E
+M>una multa</E
+M>una fattura</E
+M>il biglietto</E
+M>un alto prezzo</E
+M>una cifra enorme</E
+M>cento euro</E
+M>migliaia di euro per un francobollo raro</E
+M>il padrone di casa</E
+M>il dentista</E
+M>l&#8217;idraulico</E
+M>il corniciaio</E
+M>i dipendenti</E
+M>in contanti</E
+M>in valuta pregiata</E
+M>a pronta cassa</E
+M>anticipatamente</E
+M>alla consegna</E
+M>per intero</E
+M>a rate</E
+M>un poco alla volta</E
+M>con un assegno</E
+M>con cambiali</E
+M>in natura</E
+M>poco</E
+M>troppo</E
+M>lautamente</E
+M>profumatamente</E
+M>a peso d&#8217;oro</E
+M>salato</E
+M>un occhio della testa</E
+M>a chiacchiere</E
+M>il giorno del poi e l&#8217;anno del mai</E
+M>quanto pagherei per vederlo guarito!</E
+M>pagheresti</E
+M>per avere la sua intelligenza!</E
+M>che cosa non pagherei per tornare a vivere in centro!</E
+M>se n&#8217;è andato senza p</E
+M>lasciate stare</E
+M>pago io</E
+M>paga tu</E
+M>poi ti rimborserò</E
+M>pagarsi</E
+M>prenda</E
+M>si paghi</E
+M>il caffè</E
+M>il pranzo</E
+M>un aperitivo</E
+M>da bere</E
+M>la cena</E
+M>Dio non paga il sabato</E
+M>chi rompe paga</E
+M>e i cocci sono suoi</E
+M>pagare e morire</E
+M> si è sempre in tempo</E
+M>paga Pantalone</E
+M>ripagare</E
+M>l&#8217;ho sempre aiutato</E
+M>e ora mi paga con questa bella ingratitudine</E
+M>una persona con la stessa moneta</E
+M>Gertrude</E
+M>si ricordava l&#8217;arti e i raggiri che</E
+M>avevan messi in opera</E
+M>e le pagava con tante sgarbatezze</E
+M>con tanti dispetti</E
+M>e anche con aperti rinfacciamenti</E
+M>sono errori che una volta o l&#8217;altra si pagano</E
+M>nel mio carattere è starmene da una parte</E
+M> pagando un prezzo</E
+M>il fio</E
+M>la pena</E
+M>lo scotto</E
+M>me la pagherà</E
+M>gliela farò pagare cara</E
+M>la pagherà una volta per tutte</E
+M>di persona</E
+M>col sangue</E
+M>il delitto non paga</E
+M>crime doesn&#8217;t pay</E
+M>socio pagante</E
+M>pubblico pagante</E
+M>alla prima dello spettacolo i paganti erano circa la metà</E
+M>malati paganti</E
+M>paganti</E
+M>stanze per paganti</E
+M>reparto paganti</E

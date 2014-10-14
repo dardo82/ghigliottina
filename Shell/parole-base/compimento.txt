@@ -1,0 +1,33 @@
+compimento.txt
+"a compimento"
+"adempimento, compimento"
+"compimento"
+"portare a compimento"
+"portare a compimento"
+"portare a compimento"
+"portare a compimento"
+* [[adempimento]], [[completamento]], [[conclusione]], [[esecuzione]]
+* ''portare a '''compimento'''''
+* ''giungere a '''compimento'''''
+M>compiere</E
+M>compire</E
+M>dar c</E
+M>a un’opera</E
+M>a un lavoro</E
+M>nel c</E
+M>del proprio dovere</E
+M>condurre</E
+M>portare a c</E
+M>il c</E
+M>dell’opera</E
+M>a c</E
+M>dell’opera</E
+M>il c</E
+M>di una profezia</E
+M>di un desiderio</E
+M>quando una nazione è giunta ad avere dentro di sé quanto occorre al c</E
+M>de’ suoi bisogni</E
+M>ella è nella intera indipendenza dalle altre</E
+M>A compimento</E
+M>a c</E
+M>di quanto aveva detto</E

@@ -1,0 +1,11 @@
+gettone.txt
+"gettone"
+"gettone"
+"gettone di presenza"
+"gettone di presenza"
+"lavanderia a gettone"
+M>jeton</E
+M>jeter</E
+M>fiche</E
+M>a gettone</E
+M>G. di presenza</E

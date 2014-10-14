@@ -1,0 +1,149 @@
+minimo.txt
+"cavaliere - livello minimo"
+"come minimo"
+"dollaro a livello minimo"
+"il minimo che si possa pensare"
+"il minimo della pena"
+"livello minimo dell'acqua"
+"livello minimo dell'acqua"
+"massimo risultato col minimo sforzo"
+"meno del minimo (finanz.)"
+"meno del minimo (finanz.)"
+"minimo"
+"minimo"
+"minimo"
+"minimo"
+"minimo assoluto"
+"minimo comun denominatore"
+"minimo comun denominatore"
+"minimo comune multiplo"
+"minimo ingombro"
+"minimo limite superiore"
+"minimo locale"
+"minimo necessario"
+"minimo sindacale"
+"numero minimo di partecipanti"
+"ordine minimo, ordinativo minimo"
+"salario minimo"
+"salario minimo"
+"tribunale per cause di minimo valore"
+*più basso, [[inferiore]], più piccolo
+*[[ridottissimo]], [[lievissimo]], [[insignificante]], [[irrilevante]], [[trascurabile]]
+*quantità più piccola, limite inferiore
+*più alto, superiore, più grande
+*quantità più grande, limite superiore.
+*[[massimo]]
+*[[meno]], [[minima]], [[minimale]],[[minimamente]], [[minimo comun denominatore]], [[minimo comune multiplo]], [[minimassimo]], [[minimax]], [[minimizzare]], [[mini-]]
+*[[piccolissimo]]
+M>min</E
+M>mus</E
+M>minor</E
+M>piccolo</E
+M>min</E
+M>mus</E
+M>parvus</E
+M>massimo</E
+M>piccolissimo</E
+M>una quantità m</E
+M>una m</E
+M>differenza</E
+M>frazioni di tempo</E
+M>strumenti per misurare grandezze m</E
+M>qualsiasi disattenzione, anche m., può provocare un disastro</E
+M>prezzo m</E
+M>con m</E
+M>spesa</E
+M>con m</E
+M>sforzo</E
+M>senza la m</E
+M>difficoltà</E
+M>stabilire le tariffe m</E
+M>il m</E
+M>compenso</E
+M>programma m</E
+M>temperature m</E
+M>e massime</E
+M>le m</E
+M>e massime della giornata</E
+M>dito m</E
+M>non avere il m</E
+M>sospetto</E
+M>il m</E
+M>dubbio</E
+M>senza la m</E
+M>esitazione</E
+M>non ne ho la m</E
+M>idea</E
+M>Un m</E
+M>che</E
+M>senza pretendere</E
+M>senza spostare</E
+M>senza cambiare un m</E
+M>che</E
+M>non intendo togliere un m</E
+M>che al suo effettivo merito</E
+M>salario m</E
+M>unità colturale</E
+M>principio del m</E
+M>mezzo</E
+M>metodo dei m</E
+M>quadrati</E
+M>comune multiplo</E
+M>ridurre una frazione ai minimi termini</E
+M>ridurre</E
+M>esser ridotto ai m</E
+M>termini</E
+M>cercherò di semplificare la questione riducendola ai m</E
+M>termini</E
+M>le scorte sono ridotte ormai ai m</E
+M>termini</E
+M>hai ridotto la matita ai m</E
+M>termini</E
+M>essere ridotto ai m</E
+M>termini</E
+M>lo saprebbe fare anche il m</E
+M>degli operai</E
+M>ciò che farete a uno di questi m</E
+M>lo farete per me</E
+M>è il m</E
+M>che tu possa fare per lui</E
+M>che gli si possa chiedere</E
+M>tenere il m</E
+M>della velocità</E
+M>non ha un m</E
+M>di decoro</E
+M>al minimo</E
+M>come minimo</E
+M>avrà al minimo quarant’anni</E
+M>per comprarlo ci vorranno come minimo cento euro</E
+M>minimo di esistenza</E
+M>imponibile</E
+M>problemi di m</E
+M>garantito</E
+M>di esistenza</E
+M>legge del m</E
+M>etico</E
+M>il diritto come m</E
+M>etico</E
+M>regolare il m</E
+M>il motore tiene</E
+M>non tiene il m</E
+M>marciare al m</E
+M>un m</E
+M>troppo alto</E
+M>minimi</E
+M>frati minimi</E
+M>frati minori</E
+M>Minime dell’Addolorata</E
+M>Minime del Sacro Cuore</E
+M>Minime del Sacro Cuore di Maria</E
+M>minimissimo</E
+M>per un m</E
+M>errore</E
+M>per una m</E
+M>differenza</E
+M>il più minimo</E
+M>affatto</E
+M>punto</E
+M>non ne sono minimamente persuaso</E
+M>senza minimamente scomporsi</E

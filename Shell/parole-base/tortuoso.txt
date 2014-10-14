@@ -1,0 +1,17 @@
+tortuoso.txt
+"tortuoso"
+"tortuoso"
+"tortuoso"
+*[[sinuoso]], [[serpeggiante]], [[serpentino]], [[zigzagante]]
+*[[dritto]], [[rettilineo]]
+M>tortuosus</E
+M>tortus -us</E
+M>il corso t. del fiume</E
+M>le vie strette e t. della vecchia città</E
+M>il treno compie un giro t. aggirando i massicci alpini</E
+M>una politica t.</E
+M>un modo di procedere subdolo e t.</E
+M>un ragionamento</E
+M> un discorso t.</E
+M>comportarsi</E
+M> esprimersi tortuosamente</E

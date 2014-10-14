@@ -1,0 +1,212 @@
+chiave.txt
+"attraverso una chiave"
+"bocchetta per chiave"
+"chiave"
+"chiave"
+"chiave"
+"chiave"
+"chiave"
+"chiave musicale"
+"chiave"
+"chiave"
+"chiave a brugola"
+"chiave a bussola"
+"chiave del successo"
+"chiave dell'accensione"
+"chiave di accesso"
+"chiave di basso"
+"chiave di contralto"
+"chiave di lettura"
+"chiave di lettura"
+"chiave di qualcosa"
+"chiave di sol, chiave di violino"
+"chiave di tenore"
+"chiave di volta"
+"chiave di volta"
+"chiave elettronica"
+"chiave fissa"
+"chiave inglese"
+"chiave inglese, chiave"
+"chiave madre"
+"chiave maggiore"
+"chiave minore"
+"chiave minore"
+"chiave per"
+"chiave per tutte le serrature"
+"chiave primaria"
+"chiave universale"
+"chiudere a chiave"
+"chiudere a chiave"
+"chiuso a chiave"
+"chiuso a chiave"
+"dimensione chiave"
+"fattore chiave"
+"figure chiave"
+"file chiave"
+"frase chiave"
+"in un'ottava sopra la chiave di sol"
+"industria chiave"
+"lastra chiave"
+"linea chiave"
+"mossa chiave"
+"parola chiave"
+"parola chiave"
+"schema chiave"
+"sequenza chiave"
+"sotto chiave"
+"tenere sotto chiave"
+"trovare la chiave per"
+"uomo chiave"
+#*''il mediano è un elemento '''chiave''' della mia formazione''
+#*''la [[rilegatura]] è un processo '''chiave''' della produzione''
+#*chiave di sol o di violino
+#*chiave di fa
+#*chiave di do
+*''(per raggiungere uno scopo)''  [[strumento]], [[modo]],[[maniera]], [[sistema]], [[metodo]] 
+*[[perno]], [[centro]], [[cardine]], punto strategico, [[fulcro]]
+*[[soluzione]], [[accesso]], [[metodologia]], [[modo]], [[sistema]], [[strumento]]
+*[[risolutivo]], [[decisivo]], [[determinante]], [[importante]], [[fondamentale]], [[centrale]], [[ essenziale]], [[principale]]
+*[[chiavello]], [[chiavetta]], [[chiavi in mano]], [[chiavistello]]
+*''se vuoi aprir qualunque porta, '''chiavi''' d'oro teco porta''
+*Enciclopedia [http
+M>clavis</E
+M>maschio</E
+M>femmina</E
+M>piatta</E
+M>buco della ch</E
+M>buco della serratura</E
+M>guardare per il buco della ch</E
+M>sei entrato per il buco della ch</E
+M>è passato proprio per il buco della ch</E
+M>uscirne per il buco della ch</E
+M>per il rotto della cuffia</E
+M>chiudere a ch</E
+M>chiudere</E
+M>serrare a sette ch</E
+M>mettere sotto ch</E
+M>tenere sotto ch</E
+M>sotto mille ch</E
+M>dare un giro</E
+M>due giri di ch</E
+M>essere</E
+M>mettere sotto ch</E
+M>falsa</E
+M>chiavi in mano</E
+M>a giro di chiave</E
+M>turn key</E
+M>prezzo chiavi in mano</E
+M>prezzo su strada</E
+M>avere</E
+M>tenere la ch</E
+M>di casa di un’azienda</E
+M>avere</E
+M>tenere le ch</E
+M>del cuore di una persona</E
+M>I0 son colui che tenni ambo le chiavi Del cor di Federigo</E
+M>le ch</E
+M>di san Pietro</E
+M>le somme ch</E
+M>le sacre ch</E
+M>presentare</E
+M>offrire le ch</E
+M>della città</E
+M>le Termopili erano la ch</E
+M>della Grecia</E
+M>Gibilterra è la ch</E
+M>del Mediterraneo</E
+M>le fortezze di Pietrasanta</E
+M>erano come chiave del dominio fiorentino</E
+M>posizione</E
+M>industria</E
+M>settore</E
+M>posti</E
+M>chiave</E
+M>ministero</E
+M>valuta-ch</E
+M>non trovo la ch</E
+M>del problema</E
+M>conosci la ch</E
+M>del dispaccio?</E
+M>avere in mano la ch</E
+M>della situazione</E
+M>scoprire il personaggio</E
+M>di una faccenda</E
+M>punto</E
+M>argomento</E
+M>di lettura</E
+M>è un romanzo che presenta molte ch</E
+M>di lettura</E
+M>la ch</E
+M>di lettura del film è la crisi della famiglia</E
+M>telegrafica</E
+M>di protezione</E
+M>di memoria</E
+M>di accesso</E
+M>parola d’ordine</E
+M>time</E
+M>sharing</E
+M>chiave</E
+M>indicativo</E
+M>parola chiave</E
+M>Libri a ch.</E
+M>di sol</E
+M>di fa</E
+M>di do</E
+M>di violino</E
+M>di basso</E
+M>Alterazioni</E
+M>accidenti in ch.</E
+M>stare in ch</E
+M>uscire di ch</E
+M>essere fuori ch</E
+M>in chiave</E
+M>tutto il racconto è sviluppato in ch</E
+M>umoristica</E
+M>è un film che ripresenta l’antico dramma di Fedra in ch</E
+M>psicanalitica</E
+M>dare un’interpretazione dei fatti</E
+M>di un fenomeno</E
+M>in ch</E
+M>marxista</E
+M>diesi</E
+M>fisse</E
+M>esagonale</E
+M>semplice</E
+M>aperta</E
+M>doppia</E
+M>ad anello</E
+M>poligonale</E
+M>a gancio</E
+M>a settore</E
+M>a tubo</E
+M>registrabili</E
+M>a martello</E
+M>inglese</E
+M>prussiana</E
+M>per tubi</E
+M>a becco di pappagallo</E
+M>a catena</E
+M>ad arpionismo</E
+M>dinamometrica</E
+M>telefonica</E
+M>da muro</E
+M>catena</E
+M>di volta</E
+M>serraglia</E
+M>cuneo in ch</E
+M>spessore in ch</E
+M>altezza in ch</E
+M>curvatura in ch</E
+M>carico in ch</E
+M>lesioni in ch</E
+M>di volta di una questione</E
+M>di un argomento</E
+M>mattoni disposti in chiave</E
+M>in cortina</E
+M>rabazza</E
+M>lanterna</E
+M>costiere della coffa</E
+M>barre</E
+M>Mettere in ch.</E
+M>analitica</E
+M>dicotomica</E

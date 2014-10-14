@@ -1,0 +1,85 @@
+staccare.txt
+"da staccare"
+"staccare"
+"staccare"
+"staccare"
+"staccare"
+"staccare"
+"staccare acini d'uva"
+"staccare con un morso"
+"staccare dal lavoro"
+"staccare i petali di"
+"staccare la spina"
+"staccare la spina a"
+"staccare un assegno"
+"togliere, staccare da"
+#*staccare un boccone di pane''
+#*staccare  alle 6
+#*staccare all'ultimo
+* ''(separare qualcosa)'' [[distaccare]], [[dividere]]
+* ''(separare qualcosa)'' [[attaccare]], [[unire]]
+* [[staccamento]], [[staccato]]
+*''staccare la corrente''
+M>tacca</E
+M>io stacco</E
+M>tu stacchi</E
+M>s. un cartello</E
+M>un manifesto</E
+M>un quadro dal muro</E
+M>s. la copertina di un libro</E
+M>s. il cerotto</E
+M>s. il collo di una camicia</E
+M>s. due assi inchiodate</E
+M>incollate insieme</E
+M>s. una ricevuta</E
+M>un assegno</E
+M>s. un foglio dal quaderno</E
+M>una pagina dal libro</E
+M>s. dal treno l&#8217;ultimo vagone</E
+M>s. i cavalli</E
+M>staccare</E
+M>con un morso gli staccò un orecchio</E
+M>con un terribile fendente gli staccò la testa dal busto</E
+M>s. un armadio dalla parete</E
+M>s. la barca dalla riva</E
+M>non s. gli occhi da una persona</E
+M>da una cosa</E
+M>non mi staccò gli occhi di dosso per tutto quel tempo.</E
+M>staccarsi</E
+M>si staccò adagio dal parapetto</E
+M>se la balia</E
+M> per divezzarlo</E
+M> la bagna d&#8217;assenzio</E
+M>il bambino ritira la bocca</E
+M> poi torna a provare</E
+M> ma finalmente se ne stacca</E
+M>staccarsi dagli amici</E
+M>dalla famiglia</E
+M>mi riusciva penoso staccarmi da quei luoghi a me cari</E
+M>distaccare</E
+M>mi s&#8217;è staccato un bottone</E
+M>comincia a staccarsi l&#8217;intonaco dal soffitto</E
+M>sono francobolli con poca colla e si staccano facilmente</E
+M>staccarsi nettamente</E
+M>la barca si staccò dalla riva</E
+M>S. un taglio di stoffa</E
+M>s. due</E
+M>tre metri di tela</E
+M>s. un vestito</E
+M>S. le parole</E
+M>le sillabe</E
+M>s. le note</E
+M>staccato</E
+M>spiccare</E
+M>s. il bollore</E
+M>s. la corsa</E
+M>s. un ordine</E
+M>un mandato</E
+M>s. una pratica</E
+M>quando stacchi la sera?</E
+M>gli operai del primo turno staccano alle sei</E
+M>figure di primo piano</E
+M> che staccano bene dal fondo</E
+M>metterei una guarnizione rossa che stacchi dal nero della gonna</E
+M>spiccare</E
+M>rocce staccanti</E

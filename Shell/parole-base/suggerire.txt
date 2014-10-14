@@ -1,0 +1,35 @@
+suggerire.txt
+"indicare, suggerire"
+"per suggerire"
+"suggerire"
+"suggerire"
+"suggerire"
+"suggerire"
+"suggerire a"
+"suggerire le risposte ai compagni"
+"suggerire qualcosa a qualcuno, consigliare qualcosa a qualcuno"
+*[[ indicare]], [[mostrare]],  [[ricordare]]
+*(1) [[consigliare]], [[proporre]]
+*[[suggerimento]], [[suggeritore]]
+M>sugger</E
+M>sub-</E
+M>ger</E
+M>io suggerisco</E
+M>tu suggerisci</E
+M>gli stava sempre vicino e gli suggeriva le risposte adatte</E
+M>s. la parola esatta</E
+M>devo mandargli un telegramma di congratulazioni: suggeriscimi tu una bella frase</E
+M>s. la battuta</E
+M>l&#8217;inizio di una battuta</E
+M>non ricorda le date</E
+M> e quando è interrogato in storia se le fa s.</E
+M>non suggerite!</E
+M>la contemplazione della morte deve s. idee di umiltà e di solidarietà</E
+M>il tema</E
+M> nella sua formulazione</E
+M> suggerisce già gli argomenti da svolgere.</E
+M>gli suggerì il modo di cavarsela a buon mercato</E
+M>userò il metodo che mi hai suggerito</E
+M>il medico gli suggerì una dieta particolare</E
+M>gli suggerì di andare per qualche giorno in montagna</E
+M>&#171;Oh! suggerire a lei che sa di latino!&#187;</E

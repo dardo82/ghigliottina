@@ -1,0 +1,105 @@
+agente.txt
+"agente"
+"agente"
+"agente antibiotico"
+"agente atmosferico"
+"agente commerciale"
+"agente della polizia federale USA"
+"agente detergente"
+"agente di assicurazione"
+"agente di borsa"
+"agente di borsa"
+"agente di cambio"
+"agente di cambio"
+"agente di cambio, broker"
+"agente di commercio"
+"agente di polizia"
+"agente di polizia"
+"agente di polizia"
+"agente di polizia statale"
+"agente di prestito"
+"agente di riscossione"
+"agente di sicurezza"
+"agente di sorveglianza"
+"agente di stampa\/pubblicitario"
+"agente di trasferimento"
+"agente di vendita"
+"agente di vendita"
+"agente di viaggi"
+"agente di zona"
+"agente elettorale"
+"agente federale"
+"agente fiscale"
+"agente generale"
+"agente immobiliare"
+"agente inquinante"
+"agente investigativo federale (G per Government)"
+"agente letterario"
+"agente letterario o agente editoriale"
+"agente mandatario"
+"agente ossidante"
+"agente ossidante"
+"agente patogeno"
+"agente plurimandatario"
+"agente provocatore"
+"agente pubblicitario"
+"agente riducente"
+"agente segreto"
+"agente segreto"
+"agente segreto"
+"agente speciale"
+"agente speciale del tesoro"
+"agente umidificante"
+"trovare un agente; un manager"
+*[[poliziotto]], [[guardia]]
+M>agens</E
+M>entis</E
+M>causa a</E
+M>causa efficiente</E
+M>intelletto a</E
+M>complemento di a</E
+M>da nessuno</E
+M>dai lupi</E
+M>d’affari</E
+M>economico</E
+M>operatore economico</E
+M>di pubblicità</E
+M>teatrale</E
+M>cinematografico</E
+M>a. letterario</E
+M>agenti di borsa</E
+M>di cambio</E
+M>agente</E
+M>di commercio</E
+M>di vendita</E
+M>provvigione</E
+M>banca a</E
+M>Agenti di polizia</E
+M>è venuto un a.</E
+M>è stato fermato da un a.</E
+M>chiamare gli a.</E
+M>gli a. della polizia</E
+M>della polizia ferroviaria</E
+M>della polizia stradale</E
+M>Agenti di custodia</E
+M>Agente delle tasse</E
+M>postali</E
+M>ferroviarî</E
+M>Agenti diplomatici</E
+M>permanenti</E
+M>speciali</E
+M>ad hoc</E
+M>consolari</E
+M>agente</E
+M>segreto</E
+M>provocatore</E
+M>catalitico</E
+M>ionizzante</E
+M>ossidante</E
+M>riducente</E
+M>vulcanizzante</E
+M>patogeno</E
+M>terapeutico</E
+M>atmosferici</E
+M>mineralizzatori</E
+M>naturali</E

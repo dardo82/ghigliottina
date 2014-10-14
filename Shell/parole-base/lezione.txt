@@ -1,0 +1,102 @@
+lezione.txt
+"avere lezione"
+"imparare la lezione"
+"imparare una lezione"
+"impartire una lezione"
+"insegnare una lezione"
+"lezione"
+"lezione"
+"lezione"
+"lezione a domicilio"
+"lezione di ricupero"
+"lezione di scrittura"
+"lezione frontale"
+"lezione magistrale"
+"lezione morale"
+"lezione pratica"
+"lezione preparatoria"
+"tenere una lezione su"
+*[[insegnamento]], [[spiegazione]], [[dissertazione]], [[relazione]], [[trattazione]] 
+M>lectio</E
+M>onis</E
+M>leg</E
+M>se Dio ti lasci</E
+M>lettor</E
+M>prender frutto Di tua l</E
+M>la cognizione delle azioni degli uomini grandi</E
+M>imparata da me con una lunga esperienzia delle cose moderne e una continua l</E
+M>delle antique</E
+M>uomo di tanta l</E
+M>e di sì acuto giudizio</E
+M>lezione</E
+M>letture</E
+M>tono di lezione</E
+M>accentus</E
+M>trovo qualche diversità di l</E
+M>in più d’un manoscritto</E
+M>la l</E
+M>più attendibile è quella del codice A</E
+M>dubbia</E
+M>errata</E
+M>probabile</E
+M>sicura</E
+M>testo ridotto a corretta lezione</E
+M>dell’episodio si hanno diverse l</E
+M>versioni</E
+M>orario delle l</E
+M>di storia</E
+M>di musica</E
+M>di disegno</E
+M>di educazione fisica</E
+M>domani dalle 10 alle 11 c’è l</E
+M>di fisica</E
+M>inizio</E
+M>termine della l</E
+M>prima della l</E
+M>durante</E
+M>dopo la l</E
+M>far lezione</E
+M>andare a lezione</E
+M>frequentare un corso di lezioni</E
+M>saltare una l</E
+M>sospendere dalle l</E
+M>dare lezioni</E
+M>di latino</E
+M>di matematica</E
+M>di canto</E
+M>prendere lezioni</E
+M>dare</E
+M>prendere l</E
+M>private</E
+M>facile</E
+M>difficile</E
+M>un professore che prepara coscienziosamente le sue l</E
+M>studiare</E
+M>imparare</E
+M>sapere</E
+M>non sapere la l</E
+M>far le l</E
+M>ripetere la l</E
+M>dire</E
+M>recitare la l</E
+M>pare che reciti la l</E
+M>recita la l</E
+M>lezioni</E
+M>lezioni</E
+M>potrebbe dar lezione di onestà a chiunque</E
+M>la sua vita fu tutta una l</E
+M>di altruismo</E
+M>i bambini imparano dalle l</E
+M>dei grandi</E
+M>è questa la l</E
+M>che dài ai tuoi figli?</E
+M>non so che farmene delle tue l</E
+M>non accetto lezioni da nessuno</E
+M>non ho bisogno di prender lezioni da te</E
+M>gli darò io la l</E
+M>che si merita</E
+M>è stata una l</E
+M>un po’ dura</E
+M> ma necessaria</E
+M>s’è fidato di quell’imbroglione e ci ha rimesso un bel po’ di soldi: questo gli servirà di l</E
+M>per l’avvenire</E

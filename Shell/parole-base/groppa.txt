@@ -1,0 +1,23 @@
+groppa.txt
+"groppa"
+"groppa"
+M>groppo</E
+M>gruppo</E
+M>caricare il basto sulla g. dell’asino</E
+M>andare</E
+M>cavalcare in g. a un cavallo</E
+M>a un mulo</E
+M>salire</E
+M>saltare</E
+M>montare in groppa</E
+M>pezza</E
+M>scamone</E
+M>straculo</E
+M>groppiera</E
+M>schiena</E
+M>lo minacciava di rompergli il bastone sulla g</E
+M>avere cinquant’anni sulla groppa</E
+M>avere</E
+M>restare in g</E
+M>sulla g</E
+M>sul groppone</E

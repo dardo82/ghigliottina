@@ -1,0 +1,75 @@
+assistenza.txt
+"assistenza"
+"assistenza a distanza"
+"assistenza al cliente"
+"assistenza clienti"
+"assistenza clienti"
+"assistenza domiciliare"
+"assistenza finanziaria"
+"assistenza finanziaria"
+"assistenza finanziaria"
+"assistenza in denaro"
+"assistenza legale"
+"assistenza medica"
+"assistenza medica"
+"assistenza pubblica"
+"assistenza sanitaria"
+"assistenza sociale"
+"assistenza sociale"
+"assistenza sociale"
+"assistenza sociale"
+"assistenza sociale"
+"assistenza sociale"
+"assistenza sociale"
+"assistenza sociale individuale"
+"assistenza telefonica"
+"avere bisogno di assistenza"
+"cercare assistenza"
+"che fornisce assistenza"
+"contratto di assistenza"
+"dare assistenza"
+"dare assistenza"
+"dare assistenza"
+"di legge per l'assistenza ai poveri"
+"essere a carico dell'assistenza pubblica"
+"essere di assistenza"
+"fornire assistenza"
+"legge per l'assistenza ai poveri"
+"prestare assistenza"
+"prestare assistenza a"
+"programma di assistenza sociale"
+"senza assistenza"
+"stato dell'assistenza sociale"
+"ufficio assistenza clienti"
+*[[ aiuto]], [[collaborazione]], [[cooperazione]], [[ausilio]], [[sussidio]], [[soccorso]], [[sostegno]], [[cura]], [[sorveglianza]],[[vigilanza]], [[controllo]]
+*[[assistenziale]], [[assistenzialismo]], [[assistenzialista]],[[assistenziario]]
+*[[assistere]]
+M>assistentia</E
+M>assist</E
+M>si è proceduto alle premiazioni con l’a</E
+M>di numeroso pubblico</E
+M>per alcuni atti è richiesta l’a</E
+M>di due testimoni</E
+M>del cancelliere negli atti processuali</E
+M>dare</E
+M>prestare a</E
+M>fare l’a</E
+M>a un ammalato</E
+M>richiedere l’a</E
+M>del medico</E
+M>di un avvocato</E
+M>di un sacerdote</E
+M>religiosa</E
+M>l’a</E
+M>dei poveri</E
+M>dei minori</E
+M>familiare</E
+M>sanitaria</E
+M>ospedaliera</E
+M>sociale</E
+M>scolastica</E
+M>a nave o aeromobile in pericolo</E
+M>salvataggio</E
+M>al volo</E
+M>tecnica</E
+M>assist</E

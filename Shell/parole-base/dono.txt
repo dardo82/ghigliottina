@@ -1,0 +1,58 @@
+dono.txt
+"avere un dono per\/del"
+"dono"
+"dono dal Cielo"
+"dono della natura"
+"dono della premonizione"
+"dono delle lingue"
+"dono di Dio"
+"dono generoso"
+"dono illegale, illecito"
+"dono illegale, illecito"
+"in dono"
+"regalo per qc, dono per qc"
+*[[donazione]], [[regalo]]
+*[[perdono]]
+M>num</E
+M>dóni</E
+M>le dónora</E
+M>fare un d</E
+M>dare una cosa in d</E
+M>ricevere in dono</E
+M>dare</E
+M>offrire un d</E
+M>largire doni</E
+M>ricevere</E
+M>accettare</E
+M>gradire</E
+M>rifiutare</E
+M>respingere un d</E
+M>ricco</E
+M>magnifico</E
+M>prezioso</E
+M>inestimabile</E
+M>modesto</E
+M>misero</E
+M>meschino</E
+M>pacco dono</E
+M>regalo</E
+M>fare il d</E
+M>di una parola gentile</E
+M>avere il d</E
+M>di una bella voce</E
+M> di un fertile ingegno</E
+M>di una buona memoria</E
+M>la natura gli ha negato il d</E
+M>della parola</E
+M>della vista</E
+M>i d</E
+M>della terra</E
+M>dell’arte</E
+M> della scienza</E
+M>de’ Numi è dono Serbar nelle miserie altero nome</E
+M>i d</E
+M>di Lieo</E
+M>i d</E
+M>dello Spirito Santo</E
+M>preternaturali</E
+M>soprannaturali</E

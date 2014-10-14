@@ -1,0 +1,20 @@
+angoscioso.txt
+"angoscioso"
+"angoscioso"
+*''(di urlo, richiesta)'' [[disperato]], [[inquietante]], [[doloroso]], [[penoso]]
+*''(di sogno, attesa)'' [[tormentoso]]
+*[[affannoso]]
+*''(di urlo, richiesta)''[[confortante]], [[calmo]], [[lieto]], [[sereno]], [[tranquillo]]
+M>angoscia</E
+M>angustiosus</E
+M>essere in uno stato a</E
+M>pensiero</E
+M>sogno a</E
+M>un’a</E
+M>attesa</E
+M>ne lo scoperto fondo</E
+M>Che si bagnava d’a</E
+M>pianto</E
+M>rivolgere uno sguardo angoscioso</E
+M>implorare angosciosamente</E
+M>pensare angosciosamente all’incerto domani</E

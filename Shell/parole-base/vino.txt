@@ -1,0 +1,219 @@
+vino.txt
+"(vino) Porto"
+"aceto di vino"
+"bicchiere da vino"
+"bicchiere di vino"
+"bottiglia di vino"
+"che produce vino"
+"consumatore di vino"
+"degustazione di vino"
+"del colore del vino"
+"del vino rosso"
+"dire pane al pane (e vino al vino)"
+"dire pane al pane e vino al vino"
+"giro di (birra, vino, ecc.)"
+"il Porto (vino)"
+"il vino fa buon sangue"
+"in vino veritas"
+"in vino veritas"
+"nella botte piccola c'è il vino buono"
+"produttore di vino"
+"sfumare con vino bianco"
+"una vita per il vino"
+"uva da vino"
+"vino"
+"vino arricchito"
+"vino bianco"
+"vino d'annata"
+"vino da dessert"
+"vino da invecchiamento"
+"vino da poco, vino a buon prezzo"
+"vino da tavola"
+"vino di palma"
+"vino di riso"
+"vino dolce"
+"vino estero; d'importazione"
+"vino kosher"
+"vino nazionale"
+"vino novello"
+"vino rosato"
+"vino rosso"
+"vino rosso"
+"vino rosso californiano"
+"vino secco"
+"vino sfuso"
+*[[vinificare]],[[vinolento]], [[vinolenza]], [[vinomele]], [[vinometro]], [[vinosità]], [[vinoso]], [[vinoteca]], [[vinsanto]]
+*''A San Martino ogni mosto si fa '''vino'''''
+*'' in 
+*''amicizia stretta dal 
+*''Pane fin che dura ma vino a misura.''
+* italiano
+* esperanto
+* spagnolo
+* finlandese
+* croato
+M>num</E
+M>vin dolce</E
+M>vin greco</E
+M>vin santo</E
+M>ceneri</E
+M>debole</E
+M>leggero</E
+M>caldo</E
+M>forte</E
+M>generoso</E
+M>bruciante</E
+M>secco</E
+M>asciutto</E
+M>abboccato</E
+M>semisecco</E
+M>amabile</E
+M>dolce</E
+M>fiacco</E
+M> molle</E
+M> piatto</E
+M> fresco</E
+M>vivace</E
+M> acidulo</E
+M> acido</E
+M> acerbo aggressivo</E
+M>pungente</E
+M>liscio</E
+M>morbido</E
+M>rugoso</E
+M> tannico</E
+M> allappante</E
+M>astringente</E
+M>fruttato</E
+M> speziato</E
+M>fiorito</E
+M>legnoso</E
+M>vegetale</E
+M> caramellato</E
+M> etereo</E
+M> chimico</E
+M>v. tranquilli</E
+M>v. effervescenti</E
+M>v. speciali</E
+M>v. da tavola generici</E
+M>v. da tavola con indicazione geografica tipica</E
+M>v. di qualità prodotti in regioni determinate</E
+M>v. a denominazione di origine controllata</E
+M>v. a denominazione di origine controllata e garantita</E
+M>giallo</E
+M> dorato</E
+M> verdolino</E
+M>platino</E
+M> ambrato</E
+M> paglierino</E
+M>bianco da uve bianche</E
+M>rubino</E
+M> cerasuolo</E
+M>granato</E
+M>chiaretto</E
+M>rosa</E
+M>vino novello</E
+M>vino fiore</E
+M>vino giovane</E
+M>vivace</E
+M>v. liquorosi di qualità prodotti in regioni determinate</E
+M>v. dolce naturale</E
+M>v. spumanti generici</E
+M>v. spumanti di qualità</E
+M>v. spumanti di qualità aromatici</E
+M>v. spumanti di qualità prodotti in regioni determinate</E
+M>v. spumanti di qualità prodotti in regioni determinate del tipo aromatico.</E
+M>assaggio</E
+M>degustazione del v.</E
+M>v. rosso granato</E
+M>v. rosso rubino</E
+M>v. giallo paglierino</E
+M>v. vinoso</E
+M>v. profumato</E
+M>v. fruttato</E
+M>v. con retrogusto amarognolo</E
+M>v. rotondo</E
+M>v. neutro</E
+M>v. armonico</E
+M>v. che ha stoffa</E
+M>servire il v.</E
+M>mescere il v.</E
+M>abbinare il v. ai cibi</E
+M>sommelier</E
+M>fare il v.</E
+M>travasare</E
+M>imbottare</E
+M>infiascare</E
+M>imbottigliare il v.</E
+M>un bicchiere</E
+M>un quarto</E
+M>un quartino</E
+M>un litro</E
+M>una bottiglia</E
+M>un fiasco</E
+M>una damigiana</E
+M>un caratello</E
+M>una botte di vino</E
+M>v. in bottiglia</E
+M>in fiaschi</E
+M>v. della botte</E
+M>v. sfuso</E
+M>versare il v.</E
+M>dalla caraffa</E
+M>dalla bottiglia</E
+M>dal fiasco</E
+M>cavare</E
+M>spillare il v.</E
+M>dalla botte</E
+M>v. asciutto</E
+M>v. pastoso</E
+M>v. passito</E
+M>v. sulla vena</E
+M>v. d’annata</E
+M>v. sincero</E
+M>v. d’uva</E
+M>v. artefatto</E
+M>adulterato</E
+M>v. puro</E
+M>schietto</E
+M>v. allungato</E
+M>battezzato</E
+M>bere un bicchiere di v.</E
+M>trincarsi mezzo fiasco di v.</E
+M>smaltire i fumi del v.</E
+M>essere sotto gli effetti del v.</E
+M>il dio del v.</E
+M>il peggior v. contadino è migliore del miglior v. industriale</E
+M>dire pane al pane e vino al v.</E
+M>il v. è il latte dei vecchi.</E
+M>v. caldo</E
+M>vin brulé</E
+M>vin brûlé</E
+M>secondo v.</E
+M>mezzo v.</E
+M>vinello</E
+M>v. aromatizzato</E
+M>v. chinato</E
+M>v. drogato</E
+M>v. drogato</E
+M>v. medicato</E
+M>medicinale</E
+M>enolito</E
+M>Spirito di vino</E
+M>colore</E
+M>rosso vino</E
+M>color vino</E
+M>un vestito</E
+M>una gonna</E
+M>rivestimenti</E
+M>tende rosso vino</E
+M>color vino.</E
+M>vino</E
+M>v. di sambuco</E
+M>di visciole</E
+M>visciolato</E
+M>v. di riso</E
+M>v. di agave</E
+M>v. di palma</E
+M>v. di miele</E
+M>idromele.</E

@@ -1,0 +1,12 @@
+elencare.txt
+"elencare"
+M>io elènco</E
+M>tu elènchi</E
+M>i volumi di una biblioteca</E
+M>le proprie pubblicazioni scientifiche</E
+M>i proprî titoli</E
+M>i proprî meriti</E
+M>le proprie disavventure</E
+M>ti ho già elencato tutti i miei debitori</E
+M>elencami i sostantivi irregolari della 3</E
+M>declinazione</E

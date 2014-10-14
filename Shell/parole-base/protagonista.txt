@@ -1,0 +1,50 @@
+protagonista.txt
+"attore non protagonista"
+"co-protagonista"
+"essere co-protagonista"
+"fare da co-protagonista"
+"gara da protagonista"
+"protagonista"
+"protagonista"
+"protagonista"
+"protagonista"
+"protagonista"
+"protagonista assoluto"
+"ruolo da protagonista"
+"ruolo da protagonista"
+*[[attore]]
+*''(di un romanzo, di un film)'' [[eroe]]
+M>sostenere la parte del p</E
+M>essere il p</E
+M>in una commedia</E
+M>lo spettacolo ha un eccellente p</E
+M>il p</E
+M>è stato sostituito all&#8217;ultimo momento</E
+M>la p</E
+M>non è all&#8217;altezza del ruolo</E
+M>attore p.</E
+M>non p.</E
+M>ha vinto il premio come migliore attrice non protagonista</E
+M>Violetta è la p</E
+M>della &#171;Traviata&#187;</E
+M>Renzo e Lucia sono i p</E
+M>dei &#171;Promessi Sposi&#187;</E
+M>spesso dei manichini sono stati i p</E
+M>dei quadri di De Chirico</E
+M>i p</E
+M>della vita politica</E
+M>è stato a lungo il p</E
+M>della cultura italiana</E
+M>donne che sono state le p</E
+M>della lotta per l&#8217;emancipazione femminile</E
+M>è stato il p</E
+M>indiscusso della serata</E
+M>fu p</E
+M>di una terribile avventura</E
+M>di uno scandalo che ha fatto epoca</E
+M>di un famoso processo</E
+M>la televisione aspira a definire le sue parti</E
+M> e cerca sempre perciò un p.</E
+M> un antagonista</E
+M> una vittima sacrificale</E
+M> un coro e un corifeo</E

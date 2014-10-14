@@ -1,0 +1,40 @@
+alfabeto.txt
+"alfabeto"
+"alfabeto"
+"alfabeto braille"
+"alfabeto fonetico"
+"Alfabeto fonetico internazionale"
+"alfabeto morse"
+"l'alfabeto"
+"lettere dell'alfabeto"
+"semplice come l'alfabeto"
+#*''in [[w
+*italiano
+*spagnolo
+M>alphabetum</E
+M>ordine alfabetico</E
+M>l’a</E
+M>etrusco</E
+M>l’a</E
+M>greco</E
+M>l’a</E
+M>latino</E
+M>l’a</E
+M>cirillico</E
+M>conoscere</E
+M>imparare l’a</E
+M>non sapere neppure l’a</E
+M>non conoscere neanche l’a</E
+M>di qualche cosa</E
+M>imparare l’a</E
+M>di qualche cosa</E
+M>perdere l’a</E
+M>Girella</E
+M>sbrigliando a tavola L’umor faceto</E
+M>Perdé la bussola E l’a</E
+M>A. muto</E
+M>a. manuale per sordi</E
+M>a. tattile</E
+M>fonetici</E
+M>telegrafici</E
+M>Morse</E

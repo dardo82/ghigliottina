@@ -1,0 +1,27 @@
+contagio.txt
+"contagio"
+"infection, contagion, contamination"
+"contagio"
+"contagio di una malattia"
+*[[infezione]]
+M>contagium</E
+M>conting</E
+M>con</E
+M>tang</E
+M>il c</E
+M>del tifo</E
+M>della peste</E
+M>del colera</E
+M>pericolo di c</E
+M>comunicare</E
+M>prevenire</E
+M>evitare il contagio</E
+M>il c</E
+M>si diffondeva sempre più</E
+M>giravano per mezzo al c</E
+M>franchi e risoluti</E
+M>il c</E
+M>del vizio</E
+M>del peccato</E
+M>certe idee si propagano per contagio</E
+M>psichico</E

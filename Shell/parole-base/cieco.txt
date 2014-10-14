@@ -1,0 +1,82 @@
+cieco.txt
+"cieco"
+"cieco"
+"cieco"
+"cieco"
+"cieco"
+"cieco da un occhio"
+"diventare cieco"
+"essere cieco"
+"il cieco che guida un altro cieco"
+"l'amore è cieco"
+"mezzo cieco"
+"punto cieco"
+"rendere cieco"
+"test in doppio cieco"
+"vicolo cieco"
+"vicolo cieco"
+#*''fiducia cieca''
+#*''vicolo 
+*[[accecare]], [[ciecamente]], [[cecità]]
+M>caecus</E
+M>chi</E
+M>diventare c</E
+M>essere c</E
+M>dalla nascita</E
+M>da un occhio</E
+M>non sono mica c</E
+M>in terra di ciechi beato chi ha un occhio</E
+M>chi ha un occhio è signore</E
+M>beati monoculi in terra caecorum</E
+M>la gatta frettolosa fece i gattini c</E
+M>la fortuna è c</E
+M>il c</E
+M>caso</E
+M>rendere la vista ai c</E
+M>istituto per i c</E
+M>non avere da far cantare un c</E
+M>Gioco del cieco</E
+M>mosca c</E
+M>Lo mondo è c</E
+M>e tu vien ben da lui</E
+M>dalla passione</E
+M>dalla gelosia</E
+M>d’ira</E
+M>di rabbia</E
+M>essere c</E
+M>davanti alle prove d’affetto di una persona</E
+M>davanti alla bellezza di un’opera d’arte</E
+M>un amore</E
+M>un odio c</E
+M>la c</E
+M>passione</E
+M>obbedienza c</E
+M>l’aer nero e c</E
+M>tra le chiuse imposte Per lo balcone insinuava il sole Nella mia c</E
+M>stanza il primo albor</E
+M>cieco carcere</E
+M>stanza</E
+M>scala c</E
+M>muro c</E
+M>finestra c</E
+M>vicolo c</E
+M>le molte intricate e c</E
+M>strade del labirinto</E
+M>intestino c</E
+M>il c</E
+M>ceco</E
+M>cecorrafia</E
+M>punto c</E
+M>lettera c</E
+M>Lanterna c</E
+M>volo c</E
+M>alla cieca</E
+M>lavorare alla c</E
+M>buttar via i denari alla c</E
+M>menar colpi alla c</E
+M>giocare alla c</E
+M>cecaménte</E
+M>nel buio della stanza urtava ciecamente contro i mobili</E
+M>la vendetta si abbatté ciecamente anche sugli innocenti</E
+M>fidarsi ciecamente di qualcuno</E
+M>si era gettata ciecamente in quella passione senza valutarne i rischi</E

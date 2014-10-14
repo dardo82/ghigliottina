@@ -1,0 +1,37 @@
+inverno.txt
+"cipolla d'inverno"
+"giardino d'inverno"
+"inverno"
+"inverno inoltrato"
+"inverno rigido"
+"melone d'inverno"
+"personaggio che rappresenta il ghiaccio, il freddo, l'inverno"
+"pieno inverno"
+"quartieri d'inverno"
+"quartieri d'inverno"
+"rosa d'inverno"
+"solstizio d'inverno"
+* [[invernale]]
+* [[primavera]], [[estate]], [[autunno]]
+M>hib</E
+M>rnum</E
+M>tempus</E
+M>hibernus</E
+M>hiems</E
+M>mite</E
+M>benigno</E
+M>rigido</E
+M>crudo</E
+M>asciutto</E
+M>piovoso</E
+M>entrare nell’i</E
+M>essere nel cuore</E
+M>nel rigore dell’i</E
+M>vestiti</E
+M>panni</E
+M>coperte da inverno</E
+M>quartieri d’i</E
+M>invernali</E
+M>giardino d’i</E
+M>Palazzo d’i</E
+M>Palazzo d’estate</E

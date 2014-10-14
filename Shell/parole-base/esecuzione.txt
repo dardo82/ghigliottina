@@ -1,0 +1,69 @@
+esecuzione.txt
+"ensemble, esecuzione d'insieme"
+"esecuzione"
+"esecuzione"
+"esecuzione"
+"esecuzione completa"
+"esecuzione di un concerto"
+"esecuzione musicale"
+"essere in via di esecuzione"
+"ordine di esecuzione"
+"organizzato per una esecuzione"
+"plotone d'esecuzione"
+"prima esecuzione"
+"tempo d'esecuzione"
+"velocità di esecuzione"
+*[[attuazione]], [[realizzazione]], [[effettuazione]], [[adempimento]], [[compimento]] 
+*''(di una condanna a morte)'' [[fucilazione]], [[impiccagione]], [[decapitazione]] 
+M>exsecutio</E
+M>onis</E
+M>exs</E
+M>qui</E
+M>exsecutus</E
+M>di una volontà</E
+M>di un’idea</E
+M>di un proposito</E
+M>di un disegno</E
+M> di un contratto</E
+M>di un accordo internazionale</E
+M>di un programma informatico</E
+M>di un ordine</E
+M>di ordine</E
+M>lavoro</E
+M>esercizio di facile</E
+M>difficile e</E
+M>la legge ha avuto pronta ed intera e</E
+M>mettere in e</E
+M>dare e</E
+M>avere e</E
+M>di un trio</E
+M>di una sonata</E
+M>l’e</E
+M>del concerto è stata affidata a ottimi artisti</E
+M>la prima e</E
+M>della</E
+M>Traviata</E
+M>l’e</E
+M>di un balletto</E
+M> di una scenetta comica</E
+M>delle evoluzioni sul trapezio</E
+M>opera di finissima e</E
+M>di e</E
+M>difettosa</E
+M>disegno di e</E
+M>stentata</E
+M>la musica era bella e l’e</E
+M>perfetta</E
+M>di una pena</E
+M>di una sentenza</E
+M>di un decreto</E
+M>di una condanna</E
+M>processo di e</E
+M>coattiva</E
+M>forzata</E
+M>provvisoria</E
+M>capitale</E
+M>l’e</E
+M>era stabilita per la mattina seguente</E
+M>performance</E
+M>competence</E

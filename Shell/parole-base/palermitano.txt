@@ -1,0 +1,5 @@
+palermitano.txt
+"Traduzione di palermitano/ non trovata.\nNo translation was found for palermitano/."
+M>il dialetto p</E
+M>il palermitano</E
+M>il Palermitano</E

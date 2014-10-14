@@ -1,0 +1,12 @@
+ricciolo.txt
+"ricciolo"
+*[[riccio]], [[ricciuto]]
+M>riccio</E
+M>un r</E
+M>biondo le usciva fuori del cappellino</E
+M>riccio</E
+M>di burro</E
+M>una bambina r</E
+M>una testa ricciola</E
+M>óna</E
+M>guarda che ricciolona!</E

@@ -1,0 +1,14 @@
+marmellata.txt
+"crostata di marmellata"
+"marmellata"
+"marmellata"
+"marmellata di agrumi"
+"marmellata di arance"
+"marmellata di cotogne"
+"merendina alla marmellata"
+#*''ho preparato una marmellata di pesche'' 
+*conserva di frutta, [[confettura]], [[composta]]
+M>marmelada</E
+M>melimelum</E
+M>confettura</E
+M>composta</E

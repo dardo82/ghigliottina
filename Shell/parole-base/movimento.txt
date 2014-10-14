@@ -1,0 +1,192 @@
+movimento.txt
+"di movimento"
+"essere sempre in movimento"
+"fare un movimento"
+"in movimento"
+"in movimento"
+"in movimento"
+"in movimento"
+"in movimento"
+"in movimento"
+"in movimento"
+"in movimento circolare"
+"in movimento costante"
+"macchina movimento terra"
+"malattia da movimento"
+"mettendo in movimento"
+"movimento"
+"movimento"
+"movimento"
+"movimento"
+"movimento"
+"movimento"
+"impressione del movimento"
+"movimento"
+"movimento ascensionale"
+"movimento carismatico"
+"movimento d'aria"
+"movimento dei lavoratori"
+"movimento dei lavoratori"
+"Movimento della Temperanza (fine 800)"
+"movimento della terra"
+"movimento della testa"
+"movimento di gente comune"
+"movimento di liberazione delle donne"
+"movimento di liberazione delle donne"
+"movimento di magazzino"
+"movimento di massa"
+"movimento ecumenico"
+"movimento fluido"
+"movimento fluido"
+"movimento in avanti"
+"movimento in avanti"
+"movimento intestinale"
+"movimento laburista"
+"movimento nazionale"
+"movimento operaio"
+"movimento orario"
+"movimento oscillante"
+"movimento per la liberazione degli omosessuali (U.S.A.)"
+"movimento politico"
+"movimento rapido"
+"movimento relativo"
+"movimento rotatorio"
+"movimento rotatorio"
+"movimento rotatorio"
+"movimento rotazionale"
+"movimento sbagliato"
+"movimento sociale"
+"movimento spasmodico improvviso"
+"movimento verso il basso"
+"movimento verso la fine"
+"muoversi con movimento circolare"
+"partire; mettersi in movimento"
+"per movimento della terra"
+"tecnica di movimento rapido (pellicole)"
+#*''Con un rapido '''movimento''', evitò la [[freccia]] che gli era stata tirata''
+#*''stare a dieta significa ridurre le calorie di ingresso e aumentarne il consumo con il '''movimento'''''
+*''(del corpo)'' [[atto]], [[gesto]], [[mossa]], [[movenza]], [[moto]]; [[spostamento]], [[trasferimento]], [[viaggio]], [[cammino]], [[marcia]]
+*[[funzionamento]], [[attività]], [[avviamento]]
+*[[variazione]], modificazione dei valori, [[oscillazione]], [[fluttuazione]]
+*''(di persone, veicoli)'' [[traffico]], [[animazione]], [[agitazione]], [[folla]], [[viavai]], [[gente]];
+* ''(di merci, prodotti)'' [[circolazione]], [[giro]], [[passaggio]], entrata e uscita
+*attività fisica, esercizio fisico, [[ginnastica]], [[moto]], [[sport]]
+*[[insurrezione]], [[tumulto]]
+*''(specialmente negli orologi)'' [[meccanismo]]
+*[[attività]], [[mossa]], [[scatto]], [[spostamento]],   
+M>moto</E
+M>imprimere un m</E
+M>a qualche cosa</E
+M>mettere</E
+M>mettersi</E
+M>essere in m</E
+M>il m</E
+M>delle acque</E
+M>del treno</E
+M>della nave</E
+M>il m</E
+M>dell’orologio</E
+M>regolare</E
+M>lento</E
+M>affrettato</E
+M>e questo è cagione al Primo Mobile per avere velocissimo m</E
+M>terra</E
+M>macchine m</E
+M>terra</E
+M>mossa</E
+M>fare un m</E
+M>col braccio</E
+M>essere impedito nei m</E
+M>avere speditezza</E
+M>libertà di movimenti</E
+M>i m</E
+M>dell’esercizio ginnico vanno eseguiti con lentezza</E
+M>naturale</E
+M>arrampicata libera</E
+M>fini</E
+M>moto</E
+M>Vinca tua</E
+M>guardia i movimenti umani</E
+M>la quale</E
+M>niuna altra cosa è che un m</E
+M>subito e inconsiderato</E
+M>c’era molto m</E
+M>nelle vie del centro</E
+M>in quel ristorante c’è sempre un gran m</E
+M>oggi sull’autostrada c’è stato poco movimento</E
+M>migratorî</E
+M>di forestieri</E
+M>di truppe</E
+M>di impiegati</E
+M>si sono avuti alcuni m</E
+M>nell’organico</E
+M>di automobili</E
+M>di autobus</E
+M>il m</E
+M>delle autovetture nelle ore di punta</E
+M>politico</E
+M>autonomistico</E
+M>federalista europeo</E
+M>contadino</E
+M>operaio</E
+M>sindacale</E
+M>giovanile</E
+M>studentesco</E
+M>di resistenza</E
+M>di liberazione</E
+M>femminista</E
+M>delle donne</E
+M>movimento</E
+M>partito</E
+M>partecipare alle assemblee del M</E
+M>una manifestazione indetta dal Movimento</E
+M>moto</E
+M>movimenti insurrezionali</E
+M>letterario</E
+M>pittorico</E
+M>i m</E
+M>d’avanguardia del Novecento</E
+M>di capitali</E
+M>di capitale</E
+M>di cassa</E
+M>contabile</E
+M>di conto</E
+M>stagionale</E
+M>congiunturale</E
+M>ciclo economico</E
+M>fluttuazione economica ricorrente</E
+M>secolare</E
+M>ciclo secolare</E
+M>onda secolare</E
+M>fenomeno di m</E
+M>della popolazione</E
+M>naturale</E
+M>sociale</E
+M>didascalie di movimento</E
+M>Largo</E
+M>Grave</E
+M>Adagio</E
+M>Andante</E
+M>Allegro</E
+M>Presto</E
+M>tempo</E
+M>un quadro pieno di m</E
+M>il drappeggio del vestito dà m</E
+M>alla figura</E
+M>la facciata ha un ardito m</E
+M>verticale</E
+M>arte del m</E
+M>arte cinetica</E
+M>scena ricca di movimento</E
+M>una pagina piena di movimento</E
+M>terra</E
+M>macchine m</E
+M>terra</E
+M>diretto</E
+M>inverso</E
+M>composizione</E
+M>prodotto di movimenti</E
+M>ribaltamenti</E
+M>traslazioni</E
+M>rotazioni</E
+M>spostamenti</E

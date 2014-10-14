@@ -1,0 +1,25 @@
+scomparsa.txt
+"a scomparsa"
+"denuncia di scomparsa"
+"persona scomparsa"
+"scomparsa"
+"scomparsa"
+"scomparsa graduale"
+"tasca a scomparsa"
+"un mobile a scomparsa"
+M>scomparso</E
+M>scomparire</E
+M>la cura va continuata fino alla s. dell&#8217;eruzione cutanea</E
+M>le ricerche sono state iniziate subito dopo la s. dell&#8217;aereo dal radar</E
+M>la polizia sta indagando sulla misteriosa s. di alcuni documenti riservati</E
+M>si è eclissato nel bel mezzo della festa</E
+M> e nessuno si è accorto della sua s.</E
+M>la famiglia ha subito denunciato alla polizia la s. del proprio congiunto</E
+M>morte</E
+M>la notizia della sua improvvisa s. ci ha sconvolto</E
+M>A scomparsa</E
+M>persiane a s.</E
+M>porte a s.</E
+M>vetri a s.</E
+M>letto</E
+M>scrittoio a s.</E

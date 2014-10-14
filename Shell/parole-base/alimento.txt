@@ -1,0 +1,39 @@
+alimento.txt
+"acqua alimento"
+"alimento"
+*[[cibo]], [[nutrimento]]
+M>alimentum</E
+M>semplici</E
+M>composti</E
+M>energetici</E
+M>dinamogeni</E
+M>plastici</E
+M>di riserva</E
+M>catalitici</E
+M>calorigeni</E
+M>non convenzionali</E
+M>quella parte</E
+M>onde prima è preso Nostro a</E
+M>Di copioso a</E
+M>ognun governi I corridor veloci</E
+M>scarso</E
+M>abbondante</E
+M>provvedere agli a</E
+M>necessarî</E
+M>deperire per mancanza di a.</E
+M>verde</E
+M>gli ostacoli erano un a</E
+M>alla sua passione</E
+M>dell’anima</E
+M>la sacra poesia</E
+M>solo a</E
+M>degli animi generosi</E
+M>gli alimenti</E
+M>obbligo di prestare gli a</E
+M>misura degli a</E
+M>somministrazione degli a</E
+M>fornire alimento a un motore</E
+M>rifornire un motore di alimento</E
+M>acqua di a</E
+M>stare in a</E
+M>dichiarazione di alimento</E

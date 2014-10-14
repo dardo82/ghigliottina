@@ -1,0 +1,35 @@
+zebra.txt
+"zebra"
+"zebra"
+*''[[Equus burchelli]]''
+*''[[Equus grevyi]]''
+*''[[Equus quagga]]''
+*''[[Equus zebra]]''
+*[[Grevy's zebra]]
+*[[mountain zebra]]
+*[[plains zebra]]
+*[[zebra butterfly]]
+*[[zebra crossing]]
+*[[zebra finch]]
+*[[zebra fish]]
+*[[zebra mussel]]
+M>Equus burchelli</E
+M>z. comune</E
+M>z. delle pianure</E
+M>Equus burchelli quagga</E
+M>Equus zebra</E
+M>Equus zebra hartmannae</E
+M>z. di Hartmann</E
+M>Equus zebra zebra</E
+M>z. montana</E
+M>Equus grevyi</E
+M>z. di Grévy</E
+M>z. reale</E
+M>Equus quagga</E
+M>zebrati</E
+M>attraversamento zebrato</E
+M>camminare sulle z.</E
+M>attraversare sulle z.</E
+M>fuori delle zebre</E
+M>Legno zebra</E
+M>Centrolobium robustum</E

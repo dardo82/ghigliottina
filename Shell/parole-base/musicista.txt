@@ -1,0 +1,12 @@
+musicista.txt
+"musicista"
+"musicista jazz"
+"musicista professionista"
+*[[suonatore]], [[compositore]], [[musico]], [[musicante]], [[sonatore]], [[esecutore]], [[cantante]]
+*[[musica]]
+M>i m</E
+M>italiani</E
+M>i m</E
+M>dell’Ars nova</E
+M>fare il musicista</E
+M>casa di riposo per musicisti</E

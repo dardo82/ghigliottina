@@ -1,0 +1,47 @@
+messe.txt
+"messe"
+"messe"
+*[[mietitura]], [[raccolto]], [[biada|biade]]
+M>ssis</E
+M>met</E
+M>messus</E
+M>mietitura</E
+M>il tempo della messe</E
+M>ricca</E
+M>abbondante</E
+M>scarsa</E
+M>fare larga m</E
+M>di guadagni</E
+M>di lodi</E
+M>di onori</E
+M>una generosa m</E
+M>di approvazioni</E
+M>di applausi</E
+M>di adesioni</E
+M>l’opera dei missionarî ha dato buona m</E
+M>di anime</E
+M>raccogliere abbondante m</E
+M>dal proprio lavoro</E
+M>dalle proprie fatiche</E
+M>la m</E
+M>spunta</E
+M>verdeggia</E
+M>biondeggia nei campi</E
+M>mietere</E
+M>falciare la m</E
+M>rigogliosa</E
+M>tempesta o vento Men tosto abbatte la pieghevol m</E
+M>le m</E
+M>ondeggiano al vento</E
+M>la grandine ha danneggiato le m</E
+M>immensa terra</E
+M>un dì beata D’eterne m</E
+M>mettere</E
+M>porre</E
+M>la falce nella m</E
+M>altrui</E
+M>la m</E
+M>è molta ma gli operai sono pochi</E
+M>Luca</E
+M>messis quidem multa</E
+M>operarii autem pauci</E

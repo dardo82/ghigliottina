@@ -1,0 +1,50 @@
+veneto.txt
+"veneto"
+"del Veneto"
+"Venetian, from Veneto"
+"veneto"
+"veneto"
+"abitante, nativo del Veneto"
+"veneto"
+"dialetto veneto"
+* (''lingua romanza'') [[alto padovano]], [[basso padovano]], [[belumat]], [[bellunese]], [[bisiaco]], [[cipilegno]], [[dalmata]], [[feltrino]], [[giuliano]], [[goriziano]], [[gradesano]], [[istriano]], [[orobico]], [[padovano]], [[polesano]], [[pordenonese]], [[rovigotto]], [[talian]], [[trentino]], [[trevisano]], [[triestino]], [[veneto brasiliano]], [[veneto centrale]], [[veneto meridionale]],[[veneto occidentale]], [[veneto orientale]], [[veneto settentrionale]], [[veneziano]], [[veronese]], [[vicentino]]
+:* [[vèneto]]
+*italiano
+* veneto
+M>Ven</E
+M>tus</E
+M>essere di famiglia v.</E
+M>di origine v.</E
+M>un V.</E
+M>una Veneta</E
+M>i Veneti</E
+M>i dialetti v.</E
+M>il veneto</E
+M>v. orientale</E
+M>veneziano</E
+M>v. nord-occidentale</E
+M>trentino</E
+M>dialetto v.</E
+M>il veneto</E
+M>la letteratura v.</E
+M>il teatro v.</E
+M>gli scrittori v.</E
+M>il Veneto</E
+M>Regno</E
+M>Lombardo-Veneto</E
+M>Alpi</E
+M>Prealpi V.</E
+M>la pianura v.</E
+M>la pianura padano-veneta</E
+M>il litorale v.</E
+M>laguna v.</E
+M>razza v. grigia</E
+M>la Repubblica V.</E
+M>la marina v.</E
+M>i commerci v. col Levante</E
+M>la dominazione v.</E
+M>i monumenti v. sulle coste dalmate</E
+M>le città v. della Dalmazia</E
+M>le guerre veneto-genovesi</E
+M>la legione veneto-napoletana</E
+M>i Veneti</E

@@ -1,0 +1,79 @@
+letterario.txt
+"agente letterario"
+"agente letterario o agente editoriale"
+"caffè letterario"
+"caso letterario"
+"circolo letterario"
+"concorso letterario"
+"critico letterario"
+"critico letterario"
+"letterario"
+"produrre un lavoro letterario"
+"stile letterario"
+"talento letterario"
+*[[letterariamente]]
+*[[letterarietà]], [[letterato]], [[letteratura]]
+M>litterarius</E
+M>litt</E
+M>scritti l</E
+M>testi l</E
+M>la produzione l</E
+M>di un autore</E
+M>divagazioni l</E
+M>generi l</E
+M>studî l</E
+M>attività l</E
+M>storia</E
+M>critica l</E
+M>avere attitudini</E
+M>interessi</E
+M>velleità</E
+M>pretese</E
+M>ambizioni l</E
+M>mostrare gusto</E
+M>rivelare talento l</E
+M>essere privo di cultura l</E
+M>proprietà l</E
+M>e artistica</E
+M>rivista l</E
+M>la pagina l</E
+M>di un quotidiano</E
+M>supplemento l</E
+M>di un periodico</E
+M>concorso</E
+M>premio l</E
+M>riunione l</E
+M>una serata l</E
+M>i martedì l</E
+M>la vita l</E
+M>di una città</E
+M>di un ambiente</E
+M>la pubblicazione di quel libro costituì uno dei più importanti avvenimenti l</E
+M>dell’epoca</E
+M>critico l</E
+M>consulente l</E
+M>di una casa editrice</E
+M>il mondo l</E
+M>la società</E
+M>la repubblica l</E
+M>circolo l</E
+M>negli ambienti l</E
+M>della capitale</E
+M>manie</E
+M>bizze letterarie</E
+M>valore l</E
+M>di un’opera</E
+M>libro</E
+M>romanzo</E
+M>commedia di scarso valore l</E
+M>la lingua l</E
+M>stile</E
+M>tono l</E
+M>eccessivamente letterario</E
+M>letterarî</E
+M>di uso letterario</E
+M>letteraria</E
+M>il greco l</E
+M>l’arabo letterario</E
+M>un romanzo letterariamente ben costruito</E
+M>uno stile letterariamente prezioso</E

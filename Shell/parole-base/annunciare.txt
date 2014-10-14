@@ -1,0 +1,45 @@
+annunciare.txt
+"annunciare"
+"annunciare"
+"annunciare con gran fanfara"
+"annunciare, inaugurare"
+"annunciare; rendere noto; emettere"
+"presentare a, annunciare a"
+#* ''il cielo '''annuncia''' una bella giornata''
+*[[annunciato]], [[annunciatore]], [[annunciazione]], [[annuncio]]
+*[[annunziare]]
+M>annuntiare</E
+M>nuntius</E
+M>io annùncio</E
+M>annùnzio</E
+M>l’inizio delle ostilità</E
+M>la vittoria</E
+M>l’arrivo</E
+M>la partenza</E
+M>la nascita</E
+M>la morte</E
+M>dare una festa per a</E
+M>agli amici la propria laurea</E
+M>entrò il cameriere ad a</E
+M>che il pranzo era servito</E
+M>la commissione ha annunciato di aver concluso i lavori</E
+M>un nuovo prodotto</E
+M>il vangelo</E
+M>la parola di Dio</E
+M>la lieta novella</E
+M>ti annuncio che il mio libro è uscito</E
+M>è stato annunciato il prossimo ritorno della spedizione</E
+M>i profeti annunciarono l’avvento di Cristo</E
+M>il barometro annuncia il bel tempo</E
+M>il suo volto accigliato non annunciava nulla di buono</E
+M>preannunciare</E
+M>qualcuno</E
+M>il maggiordomo annunciò il marchese di X</E
+M>mi vuole a</E
+M>al capoufficio?</E
+M>Annunziata</E
+M>questa è una delle penne dell’agnol Gabriello</E
+M>la quale nella camera della Vergine Maria rimase quando egli la venne a annunziare in Nazarette</E
+M>in quella parte poi dove è lo spazio maggiore</E
+M>fece Andrea l’Angelo Gabbriello che annunzia la Vergine</E
+M>annunziato</E

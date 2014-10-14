@@ -1,0 +1,28 @@
+speculazione.txt
+"speculazione"
+"speculazione"
+"speculazione"
+"speculazione edilizia"
+*[[pensiero]], [[considerazione,]] [[meditazione]], [[riflessione]], [[indagine]], [[investigazione]], [[ricerca]], [[studio,]] contemplazione filosofica
+*[[utile]], [[guadagno]], [[vantaggio]], [[affare]], [[commercio]], [[traffico]], [[negozio]], [[mercanteggiamento]]
+*[[azione]]
+M>speculatio -onis</E
+M>spéculation</E
+M>essere incline alla s.</E
+M>mi sembrava immerso in profonde speculazioni.</E
+M>s. di Borsa sulle operazioni a termine</E
+M>s. al ribasso</E
+M>al rialzo</E
+M>una s. fortunata</E
+M>indovinata</E
+M>una s. sbagliata</E
+M>mal riuscita</E
+M>grosse</E
+M>piccole s.</E
+M>il rilevare quella vecchia azienda è stata una pessima s.</E
+M>fare una bella s.</E
+M>bella s.!</E
+M>ho fatto una bella s. a comprare questa vettura usata!</E
+M>è solo una s.</E
+M>è tutta una s.</E
+M>il promesso aumento delle pensioni è una s. elettorale</E

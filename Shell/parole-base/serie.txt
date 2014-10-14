@@ -1,0 +1,203 @@
+serie.txt
+"della serie"
+"of the series"
+"di serie A"
+"dotazione di serie"
+"elemento chimico della serie dei lantanidi"
+"fine serie"
+"funzione; analisi; serie armonica"
+"harmonic series"
+"fuori serie"
+"in serie"
+"in series"
+"montare di serie"
+"notizie serie"
+"numero di serie"
+"passare alle cose serie"
+"passare alle cose serie; importanti"
+"prodotto in serie"
+"prodotto in serie"
+"ricca serie"
+"serie"
+"series, sequence"
+"serie"
+"serie"
+"series"
+"serie"
+"set, series"
+"serie A"
+"serie A"
+"serie attinide"
+"actinide series"
+"serie B"
+"serie di avvenimenti concatenati"
+"serie di cinque elementi"
+"serie di colpi"
+"serie di disegni"
+"series of drawings"
+"serie di documenti storici"
+"serie di eventi"
+"serie di Fourier"
+"Fourier series"
+"serie di funzioni"
+"a series of functions"
+"serie di potenza"
+"power series"
+"serie di regole"
+"serie di sconfitte"
+"serie di stanze"
+"serie di tre"
+"serie di vittorie"
+"serie geometrica"
+"geometric series"
+"serie infinita"
+"infinite series"
+"serie limitata"
+"limited series"
+"serie multipla"
+"multiple series"
+"serie multipla"
+"multiple-series"
+"serie parallele"
+"parallel series"
+"serie temporali"
+"time series"
+"una serie"
+"a series of things"
+"una serie"
+"una serie"
+"a series"
+#*''[[w
+#*''[[w
+*[[successione]], [[sequenza]], [[sequela]], [[ordine]], [[catena]], [[fila]], [[sfilza]], [[concatenazione]], [[avvicendamento]], [[progressione]], [[graduatoria]], [[carosello]], [[insieme]], [[gruppo]], [[raggruppamento]], [[divisione]], [[suddivisione]], [[tipo]], [[tipologia]]
+* ''( sciagura)''  [[seguito]], [[filza]],  
+*''(in filatelia e numismatica)'' [[collana]], [[raccolta]], [[collezione]]
+*''(radiofonica o televisiva)'' [[serial]]
+*[[fuoriserie]], [[seriare]]
+*'' serie b ''
+*italiano
+*spagnolo
+M>series</E
+M>ser</E
+M>è il quarto nella s. dei papi</E
+M>degli imperatori romani</E
+M>la s. dei numeri dispari</E
+M>dei numeri primi</E
+M>addusse una s. di argomenti a sua difesa</E
+M>una lunga s. di anni</E
+M>di secoli</E
+M>la s. dei fatti</E
+M>ha passato una s. di guai</E
+M>s. chiusa</E
+M>s. aperta</E
+M>s. internazionale</E
+M>s. nazionale</E
+M>s. A</E
+M>s. B</E
+M>s. C</E
+M>campionato di s. A</E
+M>di s. A</E
+M>s. B</E
+M>un cantante</E
+M>una presentatrice televisiva di s. A</E
+M>spettacoli</E
+M>film</E
+M>romanzi di s. B</E
+M>un paese</E
+M>una nazione di s. B</E
+M>cittadini</E
+M>di s. B</E
+M>famiglia</E
+M>la s. dei condottieri</E
+M>dell&#8217;anno santo</E
+M>di Cristoforo Colombo</E
+M>una s. di articoli sulle vacanze in montagna</E
+M>una s. di servizî dal fronte</E
+M>è in programma una nuova s. di fumetti con Braccio di Ferro</E
+M>nuova serie</E
+M>n. s.</E
+M>s. piccola</E
+M>media</E
+M>grande</E
+M>s. alifatica</E
+M>grassa</E
+M>s. aromatica</E
+M>S. omologa</E
+M>s. isologa</E
+M>s. elettrochimica degli elementi</E
+M>s. delle tensioni voltaiche</E
+M>s. dei potenziali di ossidoriduzione</E
+M>s. cristalloblastica</E
+M>s. della calcite</E
+M>s. dell&#8217;aragonite</E
+M>s. stratigrafica</E
+M>pila stratigrafica</E
+M>s. carbonifera</E
+M>petrolifera</E
+M>gessoso-solfifera</E
+M>s. permiana</E
+M>s. triassica</E
+M>s. magmatica</E
+M>provincia magmatica</E
+M>petrografica</E
+M>s. alcalino-sodica</E
+M>atlantica</E
+M>provincia atlantica</E
+M>s. alcalino-calcica</E
+M>pacifica</E
+M>s. alcalino-potassica</E
+M>mediterranea</E
+M>s. di diaclasi</E
+M>di fratture</E
+M>di faglie</E
+M>sistemi</E
+M>s. di vegetazione</E
+M>sinassociazione</E
+M>s. rossa</E
+M>s. bianca</E
+M>s. megacariocitica</E
+M>s. plasmocitica</E
+M>somma della serie</E
+M>convergente</E
+M>divergente</E
+M>paradossi di Zenone</E
+M>s. geometriche</E
+M>s. armonica</E
+M>serie</E
+M>successione</E
+M>la s. di Fibonacci.</E
+M>s. di dati</E
+M>s. di misure</E
+M>s. statistica</E
+M>s. spettroscopica</E
+M>spettrale</E
+M>serie</E
+M>spettro atomico</E
+M>s. di Balmer</E
+M>s. di Lyman</E
+M>s. di Paschen</E
+M>s. nette</E
+M>sharp</E
+M>s. principali</E
+M>s. diffuse</E
+M>s. fondamentali</E
+M>stati s</E
+M>stati p</E
+M>stati d</E
+M>in serie</E
+M>Produzione in s.</E
+M>di massa</E
+M>lavorazione in s.</E
+M>di s.</E
+M>grande s.</E
+M>piccola serie</E
+M>fuori s.</E
+M>una fuori s.</E
+M>collegamento</E
+M>accoppiamento in s.</E
+M>collegamento serie</E
+M>eccitazione in s.</E
+M>motore serie</E
+M>Collegamento in s.</E
+M>parallelo</E
+M>Assicurazione in s.</E

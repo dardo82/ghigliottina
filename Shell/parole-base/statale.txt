@@ -1,0 +1,53 @@
+statale.txt
+"agente di polizia statale"
+"applicare il controllo statale"
+"applicare il controllo statale"
+"concorso statale"
+"controllo statale"
+"di scuola statale"
+"funzionario statale"
+"funzionario statale"
+"funzionario statale"
+"impiegato statale"
+"intervento statale"
+"istituto statale commerciale e turistico"
+"istituto tecnico commerciale statale"
+"ospedale statale"
+"ospedale statale"
+"polizia statale"
+"prigione statale"
+"scuola statale"
+"scuola statale (in America)"
+"sovvenzione statale"
+"statale"
+"statale"
+"strada statale"
+"tassa governativa, tassa statale"
+"università statale"
+*[[nazionale]], [[pubblico]], [[generale]], [[governativo]]
+*dipendente pubblico, dipendente dello Stato
+*[[privato]]
+M>stato</E
+M>il potere</E
+M>l&#8217;autorità s.</E
+M>diritto s.</E
+M>interno</E
+M>diritto internazionale</E
+M>teoria s. della moneta</E
+M>teoria cartalista</E
+M>sovvenzioni s.</E
+M>le ferrovie s.</E
+M>strada s.</E
+M>la statale</E
+M>scuole s.</E
+M>governative</E
+M>uffici</E
+M>servizî</E
+M>impieghi s.</E
+M>impiegati</E
+M>dipendenti</E
+M>funzionarî s.</E
+M>uno s.</E
+M>una s.</E
+M>la categoria degli statali</E
+M>partecipazioni s.</E

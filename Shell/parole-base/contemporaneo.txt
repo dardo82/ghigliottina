@@ -1,0 +1,32 @@
+contemporaneo.txt
+"contemporaneo"
+"contemporaneo"
+"contemporaneo"
+"contemporaneo"
+"contemporaneo"
+*[[coevo]]
+*''(di fatti, eventi)'' [[simultaneo]], [[sincrono]], [[parallelo]], [[coincidente]]
+*''(di persona)'' [[coetaneo]], della stessa epoca
+*[[odierno]], [[moderno]], [[attuale]]
+*''(di fatti, eventi)'' [[anteriore]], [[antecedente]], [[precedente]]
+*''(di persona)'' [[posteriore]], [[successivo]]
+*[[futuro]], [[prossimo]], [[antico]], [[passato]], [[vecchio]]
+M>contemporaneus</E
+M>tempus</E
+M>ris</E
+M>con</E
+M>sono due avvenimenti c</E
+M>gli scrittori c</E
+M>del Foscolo</E
+M>il Foscolo e gli scrittori a lui c</E
+M>i c</E
+M>di Dante</E
+M>il malessere c</E
+M>i giudizî dei critici contemporanei</E
+M>l’età c</E
+M>la storia c</E
+M>la civiltà</E
+M>la letteratura</E
+M>l’arte contemporanea</E
+M>i c</E
+M>hanno rivalutato l’arte barocca</E

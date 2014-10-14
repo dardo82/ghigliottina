@@ -1,0 +1,42 @@
+nuvola.txt
+"in una nuvola"
+"nuvola"
+"nuvola"
+"cosa simile ad una nuvola"
+"nuvola di elettroni"
+"nuvola di polvere"
+"nuvola nera"
+"nuvola passeggera"
+"nuvola temporalesca"
+"sotto una nuvola"
+"sotto una nuvola di sospetto"
+*[[nube]], [[cumulo]], [[nembo]], [[cirro]], [[nuvolone]]
+*italiano
+m>lum</e
+m>nube</e
+m>bianche</e
+m>grigie</e
+m>un cielo pieno di nuvole</e
+m>coperto di nuvole</e
+m>portate dal vento</e
+m>avere la testa tra le n.</e
+m>vivere tra le n</e
+m>cadere</e
+m>cascare dalle n</e
+m>dentro una n</e
+m>di fiori</e
+m>n. di polvere</e
+m>d&rsquo;incenso</e
+m>le sue lezioni erano avvolte da una n. di fumo grigio che si mescolava ai capelli grigi</e
+m> prima di disperdersi nell&rsquo;aria della classe</e
+m>volavano nel cortile n. d&rsquo;insetti</e
+m>di moscerini</e
+m>questa commedia sollevava una n</e
+m>di sentimenti diversi</e
+m>un&rsquo;atmosfera pesante</e
+m>carica di nuvole</e
+m>si cercava di dissipare le n</e
+m>che sembravano minacciare i rapporti internazionali</e
+m>nube</e
+m>elettronica</e
+m>cloud</e

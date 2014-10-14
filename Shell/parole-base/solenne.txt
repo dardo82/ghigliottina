@@ -1,0 +1,65 @@
+solenne.txt
+"dichiarazione solenne"
+"dichiarazione solenne"
+"giuramento solenne"
+"messa solenne"
+"solenne"
+"solenne"
+"solenne"
+"voto solenne"
+M>sollemnis</E
+M>solemnis</E
+M>solennis</E
+M>sollus</E
+M>annus</E
+M>la s. incoronazione dell&#8217;imperatore</E
+M>liturgia s.</E
+M>messa s.</E
+M>un s. triduo</E
+M>un Te Deum s.</E
+M>pronunciare i voti s.</E
+M>esequie s.</E
+M>un s. funerale</E
+M>tributare s. onoranze a qualcuno</E
+M>nozze s.</E
+M>i plebei romani prima desiderano nobiltà con le nozze solenni all&#8217;uso de&#8217; nobili</E
+M>giuramento s.</E
+M>encomio s.</E
+M>rimprovero s.</E
+M>il pontefice fece il suo s. ingresso nella basilica</E
+M>gli sono state preparate accoglienze solenni</E
+M>un s. convito</E
+M>la turba De&#8217; pastori festanti ... a diporto Si sta ne&#8217; dì s.</E
+M>Questo dì fu s.</E
+M>un personaggio d&#8217;aspetto s.</E
+M>un paesaggio s.</E
+M>O Spirto! supplichevoli A&#8217; tuoi s. altari ...</E
+M>pio bove ... solenne come un monumento Tu guardi i campi liberi e fecondi</E
+M>il momento era particolarmente solenne</E
+M>tra le memorie così varie e così s. d&#8217;un infortunio generale</E
+M>avere un portamento</E
+M>un incedere s.</E
+M>parlare con tono s.</E
+M>che aria s. hai oggi!</E
+M>gli affibbiò un s. schiaffo</E
+M>un s. manrovescio</E
+M>è una s. menzogna</E
+M>gli diede una s. smentita</E
+M>ha ricevuto una s. sgridata</E
+M>si è preso una s. sbornia</E
+M>Fammi in tra gli altri</E
+M> o Gloria</E
+M> sì solenne</E
+M> Ch&#8217;io batta insino al cel teco le penne</E
+M>insieme incominciarono a ragionare delle virtù di diverse pietre</E
+M> delle quali Maso così efficacemente parlava come se stato fosse un s. e gran lapidario</E
+M>insigne</E
+M>sei un s. bugiardo!</E
+M>è un s. briccone</E
+M>un s. somaro</E
+M>spesse volte insieme si favellavano e toccavansi la mano</E
+M> ma più avanti per la s. guardia del geloso non si poteva</E
+M>celebrare solennemente una ricorrenza</E
+M>una festività</E
+M>giurare</E
+M>promettere solennemente</E

@@ -1,0 +1,37 @@
+violino.txt
+"archetto del violino"
+"chiave di sol, chiave di violino"
+"corda di violino"
+"custodia per violino"
+"primo violino"
+"secondo violino"
+"suonare il violino"
+"violino"
+"violino"
+"violino di fila"
+#*'''violino elettrico'''
+#*''il primo '''violino''' fece la sua comparsa sotto uno scrosciante fiume di applausi''
+*''(strumento musicale)'' [[viola]], [[violoncello]], [[contrabasso]] 
+*''(in un'orchestra)'' [[violinista]]
+*italiano
+*portoghese
+m>sol</e
+m>sol</e
+m>suonare</e
+m>imparare a suonare il v.</e
+m>un prezioso v. del Seicento</e
+m>una sonata per v. e pianoforte</e
+m>un assolo di v.</e
+m>chiave di v.</e
+m>primi</e
+m>secondi v.</e
+m>il primo v.</e
+m>spalla</e
+m>v. di spalla</e
+m>v. di spalla</e
+m>violini di fila</e
+m>prua a v.</e
+m>violino</e
+m>Pesce v.</e
+m>pesce chitarra</e
+m>Rhinobatos rhinobatos</e

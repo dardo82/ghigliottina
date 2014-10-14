@@ -1,0 +1,121 @@
+superare.txt
+"fare meglio; superare; offrire un prezzo più alto"
+"non superare"
+"non superare un esame"
+"rispondere o superare le aspettative"
+"superare"
+"superare"
+"superare"
+"superare"
+"superare (difficoltà)"
+"superare (difficoltà)"
+"superare cavalcando"
+"superare con intelligenza"
+"superare i propri limiti"
+"superare il test"
+"superare in abilità"
+"superare in astuzia"
+"superare in crescita"
+"superare in furbizia"
+"superare in numero"
+"superare la notte"
+"superare nel grado"
+"superare nelle vendite"
+"superare qc, surclassare su qc, primeggiare su qc, avere la meglio su qc"
+"superare qualcosa"
+"superare, sopportare"
+*(montagna, traguardo, eccetera) [[oltrepassare]], [[attraversare]], [[valicare]], passare oltre, [[sorpassare]], essere oltre
+*(prova, esame, eccetera) affrontare con successo, passare, dimostrarsi all’altezza, uscire indenne
+*(per peso, altezza) [[sormontare]], [[sovrastare]], [[sopravanzare]], [[soverchiare]], essere superiore, essere più grande, essere al di sopra
+*(un avversario) [[battere]], [[vincere]], [[sconfiggere]], essere migliore
+*[[fallire]]
+*(per peso, altezza) essere inferiore, restare indietro, [[soggiacere]]
+*''superare il [[maestro]]''
+*''superare uno [[scoglio]]''
+*''superare un [[esame]]''
+*''superare se [[stesso]]''
+M>superare</E
+M>super</E
+M>io sùpero</E
+M>le cime dei cipressi superano il tetto della villa</E
+M>io lo supero in altezza</E
+M>di statura</E
+M>è così basso che non supera il metro e mezzo</E
+M>s. in lunghezza</E
+M>in larghezza</E
+M>in ampiezza</E
+M>in peso</E
+M>in volume</E
+M>la scala supera di poco i due metri</E
+M>il raccolto di grano ha superato</E
+M> quest&#8217;anno</E
+M> il fabbisogno nazionale</E
+M>l&#8217;acqua del fiume ha superato di un metro la linea di guardia</E
+M>è un impegno che supera le mie forze</E
+M>le mie disponibilità finanziarie</E
+M>fenomeni così strani che superano la nostra capacità d&#8217;immaginazione</E
+M>il successo ha superato ogni aspettativa</E
+M>ogni più ottimistica previsione</E
+M>ha superato da un pezzo la cinquantina</E
+M>s. il muro di cinta</E
+M>s. un valico</E
+M>una serie di colline</E
+M>superò la piazza e si diresse verso casa</E
+M>con un ultimo scatto</E
+M> superò per primo il traguardo</E
+M>s. un fiume</E
+M>superò con un salto il fossato</E
+M>s. grandi distanze</E
+M>s. un avversario</E
+M>gli avversarî</E
+M>affrettai il passo per s. il gruppo che mi precedeva</E
+M>è vietato s. un altro veicolo in curva o in un incrocio</E
+M>s. uno per ingegno</E
+M>per intelligenza</E
+M>per capacità</E
+M>cultura</E
+M>dottrina</E
+M>ci supera tutti in astuzia</E
+M>in altezza</E
+M>s. altri nell&#8217;arte</E
+M>quanto a senso pratico</E
+M> ci supera tutti</E
+M>nel salto in lungo</E
+M> supera quasi tutti i compagni</E
+M>mi supera in velocità</E
+M>mi ha superato in velocità</E
+M>s. lo sfidante in un incontro di pugilato</E
+M>s. la squadra avversaria per due reti a zero</E
+M>vincere</E
+M>s. un rivale</E
+M>s. la concorrenza</E
+M>con la buona volontà</E
+M> ha superato tutti i suoi compagni di studio</E
+M>l&#8217;allievo ha superato il maestro</E
+M>s. sé stesso</E
+M>è sempre stata un&#8217;eccellente interprete di Schubert</E
+M> ma stasera ha superato sé stessa</E
+M>hai sempre dimostrato di essere un mascalzone</E
+M> ma questa volta hai superato te stesso</E
+M>s. una difficoltà</E
+M>un ostacolo</E
+M>il cavallo ha superato tutti gli ostacoli</E
+M>s. un pericolo</E
+M>s. una prova</E
+M>s. un esame</E
+M>un concorso</E
+M>s. una malattia</E
+M>la crisi di una malattia</E
+M>per questa volta</E
+M> grazie a Dio</E
+M> l&#8217;ha superata</E
+M>opinioni</E
+M>dottrine</E
+M>idee superate</E
+M>una moda superata</E
+M>è una teoria ormai superata</E
+M>un filosofo</E
+M>un biologo</E
+M>un poeta superato</E
+M>essere</E
+M>sentirsi ormai un superato</E

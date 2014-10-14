@@ -1,0 +1,189 @@
+mancare.txt
+"far mancare la terra da sotto i piedi"
+"mancare"
+"mancare"
+"mancare"
+"mancare"
+"mancare"
+"mancare"
+"mancare"
+"mancare"
+"mancare"
+"mancare a qualcuno"
+"mancare alla parola data"
+"mancare di"
+"mancare di"
+"mancare di"
+"mancare di esperienza"
+"mancare di fare"
+"mancare di rispetto"
+"mancare il bersaglio"
+"mancare il punto"
+"mancare poco"
+"non ci facciamo mancare niente"
+"non poter mancare"
+"venire a mancare"
+#*'''''mancano''' tre euro.''
+#*'''''mancano''' solo tre giorni al mio compleanno''
+#*'''''mi manca''' casa mia''
+#*'''''manca''' da casa da più di tre anni''
+#*''al tuo discorso '''manca''' una cosa sola
+#*''ha mancato e pagherà'' 
+#*'''''ho mancato''' il bersaglio''
+*far difetto, essere insufficiente, [[scarseggiare]], non bastare
+* non avere, essere privo,trovarsi senza, essere in difetto,[[difettare]]
+* ''(di persona)'' [[svenire]], perdere i sensi, venire meno
+* non esistere, essere assente, non esserci, essere lontano, [[disertare]]
+*avere nostalgia, avvertire l’assenza
+* [[omettere]], [[dimenticare]], [[tralasciare]], [[trascurare]]
+*''(di impegno, promessa, eccettera)'' non mantenere, [[deludere]], [[violare]]
+*[[peccare]], essere in errore, commettere un fallo
+*''(di bersaglio)'' [[sbagliare]], [[fallire]]
+*''(scarseggiare)'' [[bastare]], [[abbondare]], [[eccedere]]
+*''(difettare)'' [[avere]], essere fornito,[[abbondare]], [[sovrabbondare]], [[avere]], [[possedere]]
+*''(di persona)'' riprendere conoscenza, [[rinvenire]]
+*''(disertare)'' essere presente, esserci, [[presenziare]]
+*''(dimenticare)'' [[ricordarsi]]
+*''(tralasciare)'' [[preoccuparsi]]
+*''(di impegno, promessa)'' [[rispettare]], [[mantenere]]
+*''(un bersaglio)'' [[centrare]], [[azzeccare]]
+M>io manco</E
+M>tu manchi</E
+M>essere</E
+M>Lo villanello a cui la roba manca</E
+M>niuna cosa è mancata a questo convito</E
+M>Il morbo infuria</E
+M>Il pan ci manca</E
+M>Sul ponte sventola Bandiera bianca</E
+M>mi manca il tempo per riferirti tutti i particolari</E
+M>mi mancò il coraggio di dirgli la verità</E
+M>non riesce perché gliene manca la voglia</E
+M>la lettera è scritta</E
+M>mancano solo la firma e la data</E
+M>fa fatica a mangiare perché gli mancano i denti</E
+M>gli manca la parola</E
+M>gli manca un venerdì</E
+M>gli manca una</E
+M>qualche</E
+M>rotella</E
+M>non gli manca nulla per essere felice</E
+M>non gli manca il tempo</E
+M>l’ingegno</E
+M>il denaro</E
+M>non mancherà modo</E
+M>non mancherà l’occasione</E
+M> di rimediare al malfatto</E
+M>non mancò chi desse la colpa della sua morte all’imperizia del medico</E
+M>non si fa mancare nulla</E
+M>venire a mancare</E
+M>A l’alta fantasia qui mancò possa</E
+M>a metà della salita gli mancò il fiato</E
+M>si sentì m</E
+M>le forze</E
+M>l’ascensore si è fermato perché è mancata la corrente</E
+M>il vento manca</E
+M>gli mancò l’appoggio e cadde</E
+M>gli mancarono le gambe di sotto</E
+M>sentirsi mancare il terreno</E
+M>la terra</E
+M>sotto i piedi</E
+M>domani c’è una riunione importante</E
+M>ti prego di non mancare</E
+M>è un appassionato di musica</E
+M>non manca a nessun concerto</E
+M>nessuno è mancato all’appello</E
+M>sono venti anni ormai che manca dal paese</E
+M>mi manchi</E
+M>mi sei mancato</E
+M>ci mancherai</E
+M>ci manca molto</E
+M>«Lucia»</E
+M>disse Renzo</E
+M>«volete voi mancarmi ora?»</E
+M>ai vivi</E
+M>è mancato all’affetto dei suoi cari</E
+M>è venuto improvvisamente a m</E
+M>è mancato improvvisamente</E
+M>che farebbero</E
+M>poveri figli</E
+M>se il padre venisse a m</E
+M>la famiglia è venuta a m</E
+M>alla fine del secolo scorso</E
+M>i’ temo forte di mancar tra via</E
+M>sentirsi m</E
+M>mancano pochi grammi per fare un chilo</E
+M>mancano pochi minuti per la cottura</E
+M>manca un quarto a mezzanotte</E
+M>mancavano pochi giorni alla fine della scuola</E
+M>mancano tre o quattro chilometri all’arrivo</E
+M>ho quasi terminato l’articolo</E
+M>mi mancano poche pagine</E
+M>per comprare l’appartamento</E
+M>mi mancavano ancora troppi soldi</E
+M>ormai</E
+M>poco mancava</E
+M>alla sera</E
+M>alla fine</E
+M>alla conclusione</E
+M>mancare poco</E
+M>«Quando finisce lo spettacolo?» «Ormai ci manca poco»</E
+M>se non è proprio un truffatore</E
+M>poco ci manca</E
+M>che</E
+M>non</E
+M>poco mancò</E
+M>ci mancò poco</E
+M>ch’io non cadessi</E
+M>Poco mancò ch’io non rimasi in cielo</E
+M>tanto manca</E
+M>tanto ci manca che io faccia</E
+M>ci mancava anche questa!</E
+M>ci mancherebbe altro!</E
+M>avere</E
+M>una persona che manca di coraggio</E
+M>di giudizio</E
+M>di capacità</E
+M>un alunno che manca di basi</E
+M>un discorso che manca di logica</E
+M>il manoscritto manca</E
+M>è mancante</E
+M>di alcune carte</E
+M>non manca d’ingegno</E
+M>di volontà</E
+M>mancare di rispetto</E
+M>di riguardo a una persona</E
+M>mancare di fede</E
+M>di parola</E
+M>mancare alla parola data</E
+M>a sé stesso</E
+M>ai proprî impegni</E
+M>al proprio dovere</E
+M>e ad alta voce</E
+M>disse: «ho mancato; capisco che ho mancato</E
+M>ma cosa dovevo fare</E
+M>in un frangente di quella sorte?»</E
+M>le stelle e i pianeti non mancano di nascere e di tramontare</E
+M>non mancherò</E
+M>«Mi saluti suo padre!» «Non mancherò»</E
+M>il colpo</E
+M>la coincidenza</E
+M>una manovra</E
+M>la palla</E
+M>l’intervento</E
+M>un gol</E
+M>un rigore</E
+M>fu trovata una statua mancante della testa e delle braccia</E
+M>essere mancante</E
+M>il manoscritto è mancante di alcune pagine</E
+M>mancante a destra</E
+M>a sinistra</E
+M>mancato nel fiore degli anni</E
+M>mancato ai vivi</E
+M>colpo</E
+M>omicidio</E
+M>gol mancato</E
+M>un libro</E
+M>un film mancato</E
+M>uno scrittore</E
+M>un pittore</E
+M>un artista mancato</E

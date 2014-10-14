@@ -1,0 +1,71 @@
+finanziario.txt
+"aiuto finanziario"
+"analista finanziario"
+"anno finanziario"
+"appoggio finanziario"
+"banca di credito finanziario"
+"capitale finanziario"
+"comprare un prodotto finanziario sperando che guadagni"
+"consulente finanziario"
+"credito finanziario"
+"direttore finanziario"
+"dirigente finanziario"
+"distretto finanziario"
+"ente finanziario"
+"esercizio finanziario"
+"esperto finanziario"
+"fabbisogno finanziario"
+"finanziario"
+"impegno finanziario"
+"mercato finanziario"
+"organizzare il piano finanziario"
+"peso finanziario"
+"piano finanziario"
+"promotore finanziario"
+"responsabile finanziario"
+"sostegno finanziario"
+"sostegno finanziario"
+#*''il [[w
+M>attività f</E
+M>mezzi f</E
+M>questioni f</E
+M>resoconto f</E
+M>relazione f</E
+M>anno f</E
+M>esercizio f</E
+M>una situazione f</E
+M>solida</E
+M>pericolante</E
+M>capitale f</E
+M>amministrazione f</E
+M>controllo f</E
+M>diritto f</E
+M>esposizione f</E
+M>economico-finanziaria</E
+M>flussi f</E
+M>legge f</E
+M>legislazione f</E
+M>politica f</E
+M>sistema f</E
+M>situazione f</E
+M>scienza</E
+M>disciplina</E
+M>economia</E
+M>scienza delle finanze</E
+M>mercato f</E
+M>dei capitali</E
+M>mercato monetario</E
+M>carta f</E
+M>carta commerciale</E
+M>matematica f</E
+M>società f</E
+M>la f</E
+M>le finanziarie</E
+M>società di partecipazione</E
+M>investment trusts</E
+M>financial trusts</E
+M>holding companies</E
+M>omniums</E
+M>r0vinarsi finanziariamente</E
+M>un’impresa finanziariamente solida</E
+M>dipendere finanziariamente dai genitori</E

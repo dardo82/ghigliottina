@@ -1,0 +1,19 @@
+radiazione.txt
+"radiazione"
+"radiazione"
+"radiazione adattiva"
+"radiazione alfa"
+"radiazione atomica"
+"radiazione beta"
+"radiazione cosmica"
+"radiazione di fondo"
+"radiazione elettromagnetica"
+"radiazione gamma"
+"radiazione ionizzante"
+"radiazione nucleare"
+"radiazione termica"
+"radiazione visibile"
+"radiazione x"
+*''(fisica )'' dal latino ''[[radiatio]]''
+*''( espulsione)'' dal francese ''[[radiation]]''
+*''(fisica)'' [[radioemissione]], [[irradiamento]], [[irraggiamento]]; 

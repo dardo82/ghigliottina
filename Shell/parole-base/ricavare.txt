@@ -1,0 +1,43 @@
+ricavare.txt
+"ricavare"
+"ricavare"
+"ricavare"
+"ricavare"
+"ricavare da, dedurre da, intuire da"
+"ricavare informazioni"
+#*''da quell'uva si '''ricava''' dell'ottimo vino''
+#*''
+#*''da quel trattato ho '''ricavato''' diverse informazioni''
+M>cavare</E
+M>dovette ricavarsi le scarpe perché gli era entrata dell&#8217;altra sabbia</E
+M>una scala nella roccia</E
+M>il gruppo statuario è ricavato da un unico blocco di marmo</E
+M>acquavite ricavata dalla distillazione delle vinacce</E
+M>un sottosuolo ricchissimo da cui si ricavano ferro e carbone</E
+M>da un limone spremuto solo qualche goccia di succo</E
+M>una copia da un originale</E
+M>un disegno da un modello</E
+M>una notizia da un libro</E
+M>da un giornale</E
+M>un&#8217;idea</E
+M>uno spunto da un discorso altrui</E
+M>da un suggerimento</E
+M>il soggetto del film è ricavato</E
+M>tratto</E
+M>da un noto romanzo inglese</E
+M>da un sogno i numeri del lotto</E
+M>la morale</E
+M>un insegnamento da un fatto</E
+M>da un&#8217;esperienza</E
+M>da quanto egli afferma si ricava facilmente che nessuno ne sapeva nulla</E
+M>conoscendo il costo totale della merce</E
+M>si può r</E
+M>il prezzo unitario</E
+M>un terreno povero da cui si ricava ben poco</E
+M>dal fitto di questi appartamenti ricava di che vivere largamente</E
+M>ha venduto alcuni quadri ricavandone un milione di euro</E
+M>da tante cure non ha ricavato nessun giovamento</E
+M>che cosa ha ricavato da tanti anni di studio?</E
+M>anche a parlargli direttamente</E
+M>non ci ricaverò nulla</E
+M>ricavato</E

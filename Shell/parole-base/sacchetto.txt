@@ -1,0 +1,33 @@
+sacchetto.txt
+"infilare (nel sacchetto)"
+"mettere (nel sacchetto)"
+"sacchetto"
+"sacchetto"
+"contenuto di un sacchetto"
+"sacchetto di sabbia"
+"sacchetto intero"
+"sacchetto per dolci"
+"sacchetto raccogli-polvere"
+M>sacco</E
+M>un s. di canapa</E
+M>di iuta</E
+M>di carta</E
+M>di cellofan</E
+M>di plastica</E
+M>un s. di fagioli</E
+M>di riso</E
+M>di zucchero</E
+M>un s. di spazzatura.</E
+M>s. della</E
+M>per la</E
+M>biancheria sporca</E
+M>s. per polvere</E
+M>s. a terra</E
+M>s. sottovuoto</E
+M>in poche ore ha già mangiato due s. di caramelle.</E
+M>giacca a sacchetto</E
+M>abito a sacchetto</E
+M>s. celomatici</E
+M>somiti</E
+M>Pesce sacchetto</E
+M>Paracentropristis hepatus</E

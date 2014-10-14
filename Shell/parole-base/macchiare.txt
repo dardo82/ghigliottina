@@ -1,0 +1,38 @@
+macchiare.txt
+"macchiare"
+"macchiare"
+"macchiare, replace: macchiarsi"
+#* ''vedi di non macchiare la giacca''
+#*'' questa biro macchia''
+*[[sporcare]], [[insudiciare]], [[imbrattare]], [[ungere]], [[insozzare]], [[inzaccherare]], [[tingere]], [[chiazzare]]
+*(una superficie con colori) [[screziare]], [[macchiettare]], [[picchiettare]]
+*[[smacchiare]], [[pulire]], [[mondare]], [[lavare]], [[detergere]] 
+* [[macchia]]
+*''darsi alla macchia''
+M>maculare</E
+M>mac</E
+M>io màcchio</E
+M>la carta</E
+M>la tovaglia</E
+M>hai macchiato il quaderno d’inchiostro</E
+M>la camicetta con il rossetto</E
+M>ti sei macchiato le dita</E
+M>mi sono macchiata la gonna con la frutta</E
+M>guarda come ti sei macchiato!</E
+M>il libro si è macchiato per l’umidità</E
+M>la coscienza</E
+M>l’onore</E
+M>la reputazione</E
+M>macchiarsi d’infamia</E
+M>si è macchiato di una grave colpa</E
+M>il caffè</E
+M>il latte</E
+M>un legno</E
+M>un muro</E
+M>una tovaglia macchiata</E
+M>marmo macchiato</E
+M>mantello macchiato</E
+M>latte</E
+M>caffè macchiato</E
+M>spaghetti macchiati</E
+M>riso macchiato</E

@@ -1,0 +1,74 @@
+piaga.txt
+"girare il dito nella piaga"
+"piaga"
+"piaga"
+"piaga"
+"piaga da decubito"
+"piaga di chi sta coricato"
+"piaga da febbre"
+"piaga sociale"
+"pungere qc sul vivo, mettere il dito nella piaga"
+*  
+M>plaga</E
+M>avere una p</E
+M>sulla spalla</E
+M>sotto il ginocchio</E
+M>avere il corpo coperto di piaghe</E
+M>il suo corpo</E
+M>il suo volto era tutto una p</E
+M>un ronzino vecchio e malandato</E
+M>pieno di piaghe</E
+M>da decubito</E
+M>estive</E
+M>ferita</E
+M>el disse &#171;Or vedi&#187;; E mostrommi una p</E
+M>a sommo &#8217;l petto</E
+M>i greci eroi</E
+M>A poco a poco vinti dalle piaghe</E
+M>L&#8217;un sopra l&#8217;altro cade</E
+M>le p</E
+M>di Gesù</E
+M>le p</E
+M>di Cristo</E
+M>le cinque p</E
+M>avere una p</E
+M>nel cuore</E
+M>nell&#8217;animo</E
+M>è una p</E
+M>che non si rimargina</E
+M>riaprire</E
+M>rinnovare una p</E
+M>una ferita</E
+M>irritare</E
+M>inasprire</E
+M>esacerbare una p</E
+M>mettere il dito sulla p</E
+M>la p</E
+M>della grandine</E
+M>delle valanghe</E
+M>delle inondazioni</E
+M>la p</E
+M>della corruzione</E
+M>della delinquenza</E
+M>della droga</E
+M>la p</E
+M>dell&#8217;analfabetismo</E
+M>della disoccupazione</E
+M>la p</E
+M>della fame nel terzo mondo</E
+M>Esodo</E
+M>le p</E
+M>d&#8217;Egitto</E
+M>quello che dicono queste p</E
+M>d&#8217;Egitto che sono i giornali</E
+M>piaga</E
+M>quell&#8217;uomo è stato una vera p</E
+M>per la nazione</E
+M>è una p</E
+M>per tutti noi</E
+M>sei una p</E
+M>che piaga!</E
+M>che piaga che sei!</E
+M>è proprio una p</E
+M>una gran p</E
+M>non fa che lamentarsi dei suoi guai</E

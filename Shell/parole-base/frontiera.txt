@@ -1,0 +1,38 @@
+frontiera.txt
+"frontiera"
+"frontiera"
+"posto di frontiera"
+"servizio di frontiera"
+"stanziamento di frontiera"
+*[[confine]]
+M>frontiera</E
+M>frontiere</E
+M>frons frontis</E
+M>la difesa delle f</E
+M>della nazione</E
+M>fare la guardia alla f</E
+M>i paesi di f</E
+M>situati lungo la f</E
+M>presso la f</E
+M>passare</E
+M>varcare la f</E
+M>un incidente di frontiera</E
+M>frontier</E
+M>spirito di frontiera</E
+M>Nuova f</E
+M>frontière</E
+M>confine</E
+M>limite</E
+M>le f</E
+M>della scienza</E
+M>scienza di frontiera</E
+M>le nuove f. della biologia</E
+M>far avanzare le f</E
+M>del sapere umano</E
+M>amore</E
+M>ideali che non conoscono frontiere</E
+M>arginatura di frontiera</E
+M>frequenza frontiera</E
+M>punto di frontiera</E
+M>frontiera</E
+M>contorno</E

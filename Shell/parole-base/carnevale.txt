@@ -1,0 +1,25 @@
+carnevale.txt
+"a carnevale ogni scherzo vale"
+"carnevale"
+"carnevale"
+"feste organizzate a carnevale"
+"carnevale"
+*dal 
+*da 
+*''a '''carnevale''' ogni [[scherzo]] vale''    
+M>carne</E
+M>levare</E
+M>passare il c</E
+M>allegramente</E
+M>fare c</E
+M>in buona compagnia</E
+M>l’ultima domenica di c</E
+M>il c</E
+M>di Nizza</E
+M>di Viareggio</E
+M>di c</E
+M>ogni scherzo vale</E
+M>fare c</E
+M>cos’è questo c</E
+M>era un vero c</E
+M>finiamola con questo carnevale!</E

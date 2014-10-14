@@ -1,0 +1,10 @@
+portabagagli.txt
+"portabagagli"
+"portabagagli"
+"portabagagli"
+"portabagagli, bagagliaio"
+"reticella portabagagli"
+M>portare</E
+M>bagaglio</E
+M>carrello p</E
+M>vano portabagagli</E

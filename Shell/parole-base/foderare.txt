@@ -1,0 +1,11 @@
+foderare.txt
+"foderare"
+M>io fòdero</E
+M>una giacca</E
+M>un cappello</E
+M>una poltrona</E
+M>un libro</E
+M>fodera</E
+M>di zinco una cassa</E
+M>lo scafo di un’imbarcazione</E
+M>un pilastro</E

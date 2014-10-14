@@ -1,0 +1,143 @@
+uscita.txt
+"accompagnare qualcuno all'uscita"
+"andare in libera uscita"
+"bordo d'uscita"
+"cassetta posta in uscita"
+"contabilità in uscita"
+"corrente in uscita"
+"data di uscita"
+"fade-out, dissolvenza in uscita"
+"fare un'altra uscita sul palco per ricevere gli applausi o per ringraziare il pubblico"
+"firmare l'uscita"
+"impulso in uscita"
+"in uscita"
+"pupilla di uscita"
+"resistenza in uscita"
+"segnale in uscita"
+"senza uscita"
+"senza uscita"
+"senza uscita; senza prospettive"
+"senza via d'uscita"
+"senza via d'uscita"
+"senza via di uscita"
+"senza via di uscita"
+"sifone per bloccare l'uscita del grasso dal tubo di scappamento"
+"sistema di contabilità in uscita"
+"tensione in uscita"
+"timbrare il cartellino all'uscita"
+"timbrare il cartellino in uscita"
+"trasformatore in uscita"
+"uscita"
+"uscita"
+"uscita"
+"uscita"
+"uscita"
+"uscita"
+"uscita audio"
+"uscita autostradale"
+"uscita dalla povertà, libertà dal bisogno"
+"uscita di sicurezza"
+"uscita di sicurezza"
+"uscita rapida"
+"uscita; l'uscire"
+"via d'uscita"
+"via d'uscita"
+#* ''l''''uscita''' degli scolari''
+#* ''l''''uscita''' del teatro dava sulla piazza''
+#* ''l''''uscita''' è alle quattro''
+#* ''abbiamo [[preventivato]] un''''uscita''' di tremila euro''
+#* ''la sua '''uscita''' è stata sorprendente''
+#*''non ha altre vie d''''uscita'''''
+#*''prima di tirare, il giocatore aspettò l''''uscita''' del portiere''
+#* ''l''''uscita''' del nuovo film di [[w
+#* ''le [[motovedette]] hanno fatto due '''uscite'''''
+*[[entrata]]
+M>l’u. degli scolari dalla scuola</E
+M> l’u. degli impiegati dall’ufficio</E
+M>l’u. delle pecore dall’ovile</E
+M>l’ho incontrato all’u. dal teatro</E
+M> dal cinema</E
+M> dallo stadio</E
+M>ti aspetto all’u. dalla conferenza</E
+M>u. di casa</E
+M>l’u. della processione</E
+M> del corteo</E
+M>l’u. della banda</E
+M>l’u. dei carri allegorici</E
+M>libera u.</E
+M>l’u. della primadonna lascia la scena vuota</E
+M>l’u. del comico fu salutata con scroscianti applausi.</E
+M>via d’uscita</E
+M>non abbiamo via d’u.</E
+M> non c’è via d’u.</E
+M> una situazione difficile senza via d’u.</E
+M>parare in u.</E
+M>u. di pugno</E
+M> di piede</E
+M> in tuffo</E
+M>u. sui piedi dell’avversario.</E
+M>l’u. del treno dalla stazione</E
+M> del tram dal deposito</E
+M> dell’auto dalla rimessa</E
+M>attenzione</E
+M> uscita autocarri</E
+M>manovra di u. dal posteggio</E
+M>l’u. del piroscafo dal porto</E
+M> dalla rada</E
+M>l’u. del fumo dal camino</E
+M>affrettare l’u. dei giornali della sera</E
+M> l’u. di un volume</E
+M>l’u. dei manufatti dal magazzino</E
+M>l’entrata e l’u. delle derrate alimentari in uno stato</E
+M> in un porto</E
+M>dazio di uscita</E
+M>dazio di esportazione</E
+M>buona u.</E
+M>buon’u.</E
+M>lasciò il palazzo per un’u. secondaria</E
+M>il castello doveva avere qualche u. segreta</E
+M>l’u. è in fondo al corridoio</E
+M>strada</E
+M> vicolo senza uscita</E
+M>qualche u. di strada</E
+M> a destra o a sinistra</E
+M>l’u. del teatro</E
+M> del cinema</E
+M> del campo sportivo</E
+M>la polizia ha bloccato tutte le uscite.</E
+M>uscite di sicurezza</E
+M>non ho altra u.</E
+M>di qui non c’è u.</E
+M>via d’uscita</E
+M>verbi che hanno all’infinito l’u. in «-are»</E
+M>u. in consonante</E
+M> in vocale.</E
+M>ingresso</E
+M>entrata</E
+M>u. di un amplificatore</E
+M> di un filtro</E
+M>impedenza d’u.</E
+M>resistenza</E
+M> capacità d’u.</E
+M>stadio d’u.</E
+M>u. d’un apparecchio</E
+M>potenza d’u.</E
+M>questo amplificatore ha un’u. di 5 W</E
+M>misuratore d’u.</E
+M>grandezza d’u.</E
+M>l’u. di questo trasduttore è una tensione alternata modulata d’ampiezza</E
+M>output</E
+M>unità di uscita</E
+M>leggere l’u. di un programma.</E
+M>u. in tempo</E
+M>i bambini hanno talvolta delle u. che mettono in imbarazzo</E
+M>la sua u. provocò l’ilarità generale</E
+M>ha certe u. alle volte!</E
+M>battuta</E
+M>è un comico che ha sempre le u. pronte</E
+M>spesa</E
+M>u. effettiva</E
+M>u. per movimento di capitale</E
+M>u. per partita di giro</E
+M>u. di competenza</E
+M>u. di cassa</E

@@ -1,0 +1,25 @@
+sino.txt
+"dormire sino a tarda ora"
+"sino"
+"sino, replace: sino a"
+M>fino</E
+M>sic</E
+M>fino</E
+M>sino a ieri</E
+M>sin qui</E
+M>sin d&#8217;ora</E
+M>sino da Milano</E
+M>ha impegnato sino la camicia</E
+M>fino</E
+M>sino a Firenze</E
+M>fin sopra i capelli</E
+M>sinora</E
+M>insino</E
+M>persino</E
+M>sinché</E
+M>sintantoché</E
+M>sinattantoché</E
+M>finora</E
+M>infino</E
+M>perfino</E
+M>finché</E

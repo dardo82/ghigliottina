@@ -1,0 +1,7 @@
+stasera.txt
+"stasera"
+*[[questa]] [[sera]]
+M>sta</E
+M>sera</E
+M>s. non ho proprio voglia di mangiare</E
+M>ci vedremo s. dopo cena.</E

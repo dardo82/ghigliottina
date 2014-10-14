@@ -1,0 +1,45 @@
+docile.txt
+"docile"
+"docile, mild, tame, submissive, subdued, quiet, tranquil"
+"docile"
+"docile, mild, tame "
+*(di persona) [[arrendevole]], [[ubbidiente]], [[disciplinato]], [[accondiscendente]], [[condiscendente]], [[accomodante]], [[conciliante]], [[buono]], [[remissivo]], [[sottomesso]]
+* (di animale) [[mite]], [[mansueto]], [[addomesticato]], [[domestico]], [[inoffensivo]]
+*( di persona)[[indocile]], [[disubbidiente]], [[indisciplinato]], [[difficile]], [[insubordinato]], [[ribelle]], [[ostinato]]
+* (di animale) [[indomabile]], [[recalcitrante]], [[feroce]], [[selvaggio]], [[brado]]
+*[[ docilmente]], [[docilità]]
+M>doc</E
+M>lis</E
+M>docere</E
+M>un allievo d</E
+M>di d</E
+M>ingegno</E
+M>è un figlio d</E
+M>d’indole</E
+M>di temperamento d</E
+M>essere d</E
+M>agli avvertimenti</E
+M>ai consigli</E
+M>rendere d</E
+M>restio</E
+M>cavallo d</E
+M>bove d</E
+M>al giogo</E
+M>essere d</E
+M>come un agnello</E
+M>mano d</E
+M>all’intenzione dell’artista</E
+M>lingua d</E
+M>al pensiero</E
+M>penna</E
+M>scalpello</E
+M>pennello d</E
+M>rami che si abbassano d</E
+M>alla mano</E
+M>legno</E
+M>pietra</E
+M>marmo</E
+M>metallo docile</E
+M>ubbidire docilmente</E
+M>seguire docilmente i consigli</E
+M>un ramo che si piega docilmente</E

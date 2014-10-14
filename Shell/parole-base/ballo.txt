@@ -1,0 +1,98 @@
+ballo.txt
+"ballo"
+"ballo"
+"ballo"
+"ballo dei sedici anni"
+"ballo di beneficenza"
+"ballo folkloristico"
+"ballo formale di fine anno scolastico"
+"ballo foxtrot"
+"ballo in coppia"
+"ballo in maschera"
+"ballo liscio"
+"ballo mascherato"
+"ballo per debuttanti"
+"ballo scolastico"
+"canzone da ballo"
+"carnet di ballo"
+"cerimonia di apertura di un gran ballo a cui prendono parte tutti gli ospiti"
+"concedere un ballo"
+"corpo di ballo"
+"danza del sombrero (ballo messicano)"
+"già che siete in ballo"
+"grande sala da ballo"
+"il ballo del mattone"
+"il ballo del mattone"
+"il ballo, la danza"
+"in ballo"
+"maestro di ballo"
+"orchestra da ballo"
+"partner di ballo"
+"partner di ballo"
+"pista da ballo"
+"pista da ballo"
+"sala da ballo"
+"sala da ballo"
+"sala da ballo"
+"saltare un ballo"
+"scarpette da ballo"
+"scarpette da ballo"
+"scuola di ballo"
+"tirare in ballo"
+#*''sala da 
+*[[danza]], giro di danza,  festa danzante, serata danzante, [[festa]], [[serata]], [[veglione]]
+*[[ballerino]] 
+* [[fandango]] (spagnolo), [[mazurca]] (polacca), [[polca]] (boema); (antico) [[carola]], [[gavotta]], [[minuetto]],[[ pavana]],[[ ciaccona]]; (ottocentesco) [[quadriglia]], [[valzer]], (americano) [[twist]],'' [[rock]] and [[roll]]''; (sudamericano) [[cha-cha-cha]],[[rumba]],[[samba]], [[tango]]; (vivace) [[tarantella]],[[cancan]]
+*''tirare in ballo''
+*AA.VV.,''Dizionario etimologico'', edizione 2004, ristampa 2008, RusconiLibri, p. 119
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione 2000-2001, Le Monnier, p. 207
+M>studiare</E
+M>imparare il b</E
+M>scuola di b</E
+M>maestro di ballo</E
+M>danza</E
+M>amare il b</E
+M>dare inizio al b</E
+M>passarono la notte tra balli e canti; sala da ballo</E
+M>festa da ballo</E
+M>musica da ballo</E
+M>canzone a ballo</E
+M>facciamo ancora un b</E
+M>impegnare una dama per il prossimo b</E
+M>i b</E
+M>moderni</E
+M>un b</E
+M>esotico</E
+M>il valzer è un b</E
+M>a tre tempi</E
+M>in maschera</E
+M>in costume</E
+M>di corte</E
+M>invitare</E
+M>essere invitati a un ballo</E
+M>balletto</E
+M>Corpo di ballo</E
+M>Ballo di san Vito</E
+M>corea</E
+M>corea di Sydenham</E
+M>avere il b</E
+M>di san Vito</E
+M>portare</E
+M>tirare</E
+M>mettere</E
+M>rimettere in b</E
+M>sono questioni vecchie che non giova rimettere in b</E
+M>perché hai voluto tirare in b</E
+M>me che non c’entro per nulla?</E
+M>venire</E
+M>entrare</E
+M>tornare in b</E
+M>essere in b</E
+M>sarei solo in b</E
+M>; mi buscherei anche dell’inquieto</E
+M>dell’imbroglione</E
+M>dell’accattabrighe</E
+M>siamo in b</E
+M>e bisogna ballare</E
+M>qui è in b</E
+M>la nostra reputazione</E

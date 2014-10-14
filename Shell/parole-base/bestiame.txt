@@ -1,0 +1,22 @@
+bestiame.txt
+"allevamento di bestiame"
+"allevamento di bestiame"
+"allevatore di bestiame"
+"bestiame"
+"cibo per bestiame, mangime per bestiame, mangime per animali"
+"coda del bestiame"
+"dare il mangime al bestiame"
+"fattoria per l'allevamento di bestiame"
+"ranch per l'allevamento di bestiame"
+"recintare il bestiame"
+"recinto per bestiame"
+"recinto per il bestiame"
+"sprone per bestiame"
+"vaiolo (del bestiame)"
+* [[armenti]],  [[mandria]]
+* [[armenti]]
+* [[agronomia]],  [[allevamento]],  [[allevatore]],  [[mangime]],  [[pascolo]],  [[stalla]]
+m>grosso</e
+m>minuto</e
+m>l&rsquo;allevamento del b</e
+m>governare il bestiame</e

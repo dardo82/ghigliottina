@@ -1,0 +1,8 @@
+vagire.txt
+"Traduzione di vagire/ non trovata.\nNo translation was found for vagire/."
+M>vagire</E
+M>io vagisco</E
+M>tu vagisci</E
+M>avere</E
+M>il bambino continuava a v. nella culla</E
+M>vagito</E

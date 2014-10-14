@@ -1,0 +1,23 @@
+aguzzare.txt
+"aguzzare"
+"aguzzare l'ingegno"
+"aguzzare la vista"
+*[[appuntire]], [[affilare]], [[acuminare]], [[affusolare]], [[arrotare]]
+* [[spuntare]], [[arrotondare]], [[smussare]]
+*[[aguzzarsi]]
+M>*acutiare</E
+M>acutus</E
+M>un punteruolo</E
+M>un chiodo</E
+M>un ferro</E
+M>un palo</E
+M>le labbra</E
+M>la vista</E
+M>gli occhi</E
+M>le orecchie</E
+M>l’ingegno</E
+M>la mente</E
+M>le tribolazioni aguzzano il cervello</E
+M>l’appetito</E
+M>aguzzarsi</E
+M>nel bisogno l’ingegno si aguzza</E

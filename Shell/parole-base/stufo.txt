@@ -1,0 +1,24 @@
+stufo.txt
+"averne abbastanza di qc, essere stufo di qc, non poterne più di qc"
+"averne abbastanza di, essere stufo di, non poterne più di"
+"averne abbastanza, essere stufo, non poterne più"
+"nauseato da, stufo di"
+"non ce la faccio più!, non ne posso più!, sono stufo!"
+"stufo"
+"stufo di"
+"stufo marcio"
+#*''sono stufo di aspettare''
+*[[divertito]], [[interessato]]
+M>stufare</E
+M>essere</E
+M>sentirsi s. di qualcosa</E
+M>sono s. di mangiare tutte le sere minestra</E
+M>siamo s. dei tuoi capricci</E
+M>me ne sono andato perché ero s. di aspettarti</E
+M>si sentiva s. della vita</E
+M>di quella vita</E
+M>basta con le chiacchiere inutili</E
+M> sono stufo!</E
+M>me ne vado</E
+M> sono stufo!</E
+M>sono stufo e arcistufo di lui</E

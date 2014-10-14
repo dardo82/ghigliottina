@@ -1,0 +1,76 @@
+lieve.txt
+"di lieve entità"
+"lieve"
+"lieve"
+"lieve"
+"lieve"
+"lieve miglioramento"
+"lieve sospetto"
+"lieve zoppicamento"
+*[[leggero]], [[sottile]], [[delicato]]
+*[[debole]], [[tenue]], [[fioco]], [[scarso]], [[impercettibile]], [[indistinto]], [[sommesso]]
+*[[indefinito]], [[impalpabile]], [[vaporoso]], [[vago]]
+*[[facile]], [[agevole]] 
+*[[delicato]] (2)
+*[[minore]] (3)
+*[[pesante]], [[grave]], [[gravoso]]
+*[[forte]], [[distinto]], [[squillante]], [[stentoreo]]
+* [[chiaro]], [[definito]]
+*''leggero)'' [[carico]], [[gravato]], [[oberato]], [[sovraccarico]] 
+*''(agevole)'' [[duro]], [[faticoso]], [[gravoso]],  [[impegnativo]], [[difficile]], [[insostenibile]]
+*[[lievemente]], [[lievità]]
+M>vis</E
+M>leggero</E
+M>un l</E
+M>carico</E
+M>ti sia l</E
+M>la terra</E
+M>la terra ti sia leggera</E
+M>sit tibi terra levis</E
+M>fatica</E
+M>salita l</E
+M>un l</E
+M>rimprovero</E
+M>perdita</E
+M>danno</E
+M>colpa l</E
+M>trascorso l</E
+M>una l</E
+M>infrazione</E
+M>trasgressione</E
+M>difficoltà</E
+M>una l</E
+M>indisposizione</E
+M>ferita l</E
+M>un l</E
+M>difetto</E
+M>una l</E
+M>differenza</E
+M>con l</E
+M>spesa</E
+M>un l</E
+M>sorriso</E
+M>un l</E
+M>moto di disappunto</E
+M>una l</E
+M>carezza</E
+M>una l</E
+M>brezza</E
+M>scossa</E
+M>sussulto</E
+M>un l</E
+M>rossore</E
+M>un l</E
+M>rumore</E
+M>un l</E
+M>fruscio</E
+M>questa ultima parte è l</E
+M>a intendere</E
+M>con l’indice destro</E
+M> lieve lieve Sopra gli occhi scorrendo</E
+M>lo carezzò lievemente</E
+M>sollevare</E
+M>posare lievemente un oggetto</E
+M>lievemente la pietà si desta in cor di donna</E
+M>di lieve</E
+M>Per lei assai di lieve si comprende Quanto in femmina foco d’amor dura</E

@@ -1,0 +1,30 @@
+bibbia.txt
+"Bibbia"
+"Bibbia"
+"Bibbia"
+"Bibbia"
+"Bibbia di famiglia"
+"Bibbia di re Giacomo"
+"la Bibbia"
+"la Bibbia"
+"luogo della battaglia finale tra le forze del bene e quelle del male (Bibbia)"
+"nella Bibbia"
+"nella Bibbia"
+#* ''questo libro è la [[bibbia]] del giardinaggio'' 
+M>Biblia</E
+M>leggere</E
+M>commentare</E
+M>citare la B</E
+M>un passo della Bibbia</E
+M>acquistare la B</E
+M>una B</E
+M>rilegata in pelle</E
+M>gli scritti del Mazzini erano una b</E
+M>per molti protagonisti del nostro Risorgimento</E
+M>quello che gli dice la moglie è b</E
+M>per lui</E
+M>spàcciati</E
+M>non mi fare una b</E
+M>come è tua usanza</E
+M>B. dei poveri</E
+M>Biblia pauperum</E

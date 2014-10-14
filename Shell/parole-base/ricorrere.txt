@@ -1,0 +1,89 @@
+ricorrere.txt
+"ricorrere, replace: ricorrere a qlcs"
+"ricorrere, replace: ricorrere a qlcn"
+"ricorrere"
+"ricorrere"
+"ricorrere"
+"ricorrere"
+"ricorrere a"
+"ricorrere a"
+"ricorrere a"
+"ricorrere a"
+"ricorrere a"
+"ricorrere a"
+"ricorrere a vie legali"
+"ricorrere alla violenza"
+*[[rivolgersi]], [[fare]] [[ricorso]], [[servirsi]],  [[ripetersi]], [[appellarsi]],  [[cadere]]
+*[[ricorrente]], [[ricorrenza]], [[ricorso]]
+*[[correre]]
+M>rec</E
+M>correre</E
+M>essere</E
+M>avere</E
+M>son dovuto r</E
+M>in cerca del medico</E
+M>hai intenzione di r</E
+M>quest&#8217;anno?</E
+M>ha ricorso i cento metri in undici secondi</E
+M>è ricorso via prima che potessi parlargli</E
+M>ciascun dentro a pruova si ricorse</E
+M>Ricorro al tempo ch&#8217;i&#8217; vi vidi prima</E
+M>con la mente</E
+M>con la memoria</E
+M>col cuore ai bei giorni passati</E
+M>mi ricorre alla mente il ricordo di quella sera</E
+M>la mente</E
+M>appena risentita</E
+M>ricorre all&#8217;idee abituali della vita tranquilla antecedente</E
+M>Al pensier ti ricorro</E
+M>a Dio</E
+M>Signor</E
+M>fidando</E
+M> al tuo paterno seno L&#8217;anima mia ricorre</E
+M>al medico</E
+M>a un avvocato</E
+M>a qualcuno per consiglio</E
+M>non sapeva più a chi r</E
+M>ricorri pure a me in caso di bisogno</E
+M>ricorre ai familiari solo per chiedergli denaro</E
+M>mi sono permesso di r</E
+M>alla Sua benevolenza</E
+M>alla Sua generosità</E
+M>quando vi siano gravi incertezze di lettura</E
+M>conviene r</E
+M>all&#8217;autografo</E
+M>al dizionario</E
+M>a un manuale specializzato</E
+M>se ti pare di essere stato trattato ingiustamente</E
+M> ricorri al ministero</E
+M>esaurito ogni tentativo di comporre pacificamente la vertenza</E
+M> decise di r</E
+M>al giudice</E
+M>in appello</E
+M>in cassazione contro una sentenza</E
+M>nelle forme previste dalla legge</E
+M>non essendoci ormai altra possibilità</E
+M>si dové r</E
+M>alle armi</E
+M>all&#8217;inganno</E
+M>alla frode</E
+M>a un espediente</E
+M>alle minacce</E
+M>alla maniera forte</E
+M>celebrarsi</E
+M>domani ricorre l&#8217;onomastico del babbo</E
+M>il 2 giugno ricorre la festa della Repubblica</E
+M>ricorreva il giorno</E
+M>l&#8217;anniversario</E
+M>della presa della Bastiglia</E
+M>quest&#8217;anno ricorre il giubileo</E
+M>fatti</E
+M>vicende che ricorrono</E
+M>spese</E
+M>entrate che ricorrono</E
+M>nelle sue pagine ricorrono spesso espressioni dialettali</E
+M>arcaiche</E
+M>un motivo ornamentale che ricorre spesso sui portali di antiche chiese</E
+M>una poesia in cui &#171;morte&#187; ricorre ben sette volte</E
+M>il motivo che più ricorre in un brano musicale</E
+M>in un dramma</E

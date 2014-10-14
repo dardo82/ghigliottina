@@ -1,0 +1,68 @@
+magico.txt
+"anello magico"
+"cerchio magico"
+"magico"
+"magico"
+"magico"
+"numero magico"
+"occhio magico"
+"occhio magico"
+"quadrato magico"
+"realismo magico"
+"spettacolo magico"
+"tappeto magico"
+"trucco magico"
+"trucco magico, magia"
+#*'' un magico giorno''
+*[[meraviglioso]], [[fantastico]], [[incantevole]]
+*[[magicamente]]
+M>mag</E
+M>cus</E
+M>arte m</E
+M>arti m</E
+M>riti m</E
+M>cerimonie m</E
+M>formule m</E
+M>scongiuri</E
+M>esorcismi m</E
+M>operazioni m</E
+M>avere</E
+M>vantare poteri m</E
+M>Michele Scotto</E
+M>che veramente De le m</E
+M>frode seppe ’l gioco</E
+M>illusioni</E
+M>suggestioni magiche</E
+M>bevande</E
+M>pozioni m</E
+M>bacchetta m</E
+M>cerchio m</E
+M>specchio m</E
+M>le m</E
+M>note del violino di Paganini</E
+M>il m</E
+M>violino di Paganini</E
+M>il m</E
+M>pennello di Tiziano</E
+M>la m</E
+M>potenza del denaro</E
+M>la m</E
+M>forza della suggestione</E
+M>col m</E
+M>tocco delle sue mani</E
+M>pensiero m</E
+M>un gioco di luci che crea un’atmosfera m</E
+M>il m</E
+M>incanto di una notte di luna</E
+M>lanterna m</E
+M>occhio m</E
+M>T magico</E
+M>numeri m</E
+M>quadrato m</E
+M>far comparire magicamente una carrozza d’oro</E
+M>operare magicamente una guarigione</E
+M>Odisseo giunse da Circe</E
+M>avvertito del pericolo e immunizzato magicamente contro gli incanti</E
+M>sparì magicamente</E
+M>com’era apparso</E
+M>il castello era magicamente illuminato dalla luna</E

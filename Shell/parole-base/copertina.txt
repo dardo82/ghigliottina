@@ -1,0 +1,36 @@
+copertina.txt
+"contro copertina"
+"copertina"
+"copertina"
+"copertina"
+"copertina"
+"copertina cartonata"
+"copertina del libro"
+"copertina di libro"
+"da copertina a copertina"
+"design della copertina"
+"libro dalla copertina rigida; rilegato"
+"notizia da copertina"
+"quarta di copertina"
+"ragazza di copertina"
+"ragazza di copertina"
+"terza di copertina"
+#*''la 
+* (''foglio esterno'') [[coperta]], [[sopraccoperta]]
+* (''taglio di carne'') [[polpa]] di [[spalla]]
+* [[copertinato]]
+* (''dimutivo di coperta'' e ''mezza coperta delle navi'') [[covertina]]
+* ''[[ragazza]] 
+* ''[[prezzo]] di 
+* ''non si [[giudica]] un libro dalla 
+M>coperta</E
+M>Ragazza c.</E
+M>cover girl</E
+M>la c. del telegiornale</E
+M>Fare da c</E
+M>servire di c</E
+M>a uno</E
+M>fare da</E
+M>servire di</E
+M>coperta</E
+M>polpa di spalla</E

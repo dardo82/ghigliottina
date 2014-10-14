@@ -1,0 +1,43 @@
+imbarcare.txt
+"imbarcare"
+"imbarcare"
+"imbarcare, replace: imbarcarsi"
+"imbarcare, replace: imbarcarsi"
+*[[inbarcadero]], [[imbarcarsi]], [[imbarcatoio]], [[imbarcazione]],[[imbarco]], [[reimbarcare]]
+*[[barca]]
+M>barca</E
+M>io imbarco</E
+M>tu imbarchi</E
+M>i passeggeri</E
+M>mercanzie</E
+M>balle di cotone</E
+M>viveri</E
+M>carbone</E
+M>zavorra</E
+M>munizioni</E
+M>acqua</E
+M>un colpo di mare</E
+M>un’ondata</E
+M>imbarcarsi per l’America</E
+M>per il Levante</E
+M>imbarcarsi su un piroscafo mercantile</E
+M>da passeggeri</E
+M>da carico</E
+M>imbarcarsi!</E
+M>le hostess hanno invitato i passeggeri a imbarcarsi</E
+M> imbarcò nel camioncino tutta la famiglia e la portò in campagna</E
+M>mi sono imbarcato in un brutto affare</E
+M>la sua indole</E
+M>onesta insieme e violenta</E
+M>l’aveva poi imbarcato per tempo in altre gare più serie</E
+M>Beato te</E
+M>che</E
+M>Per morir meglio</E
+M>esperienza imbarche</E
+M>Imbarcarsi</E
+M>essere imbarcato</E
+M>imbarcare</E
+M>contare i passeggeri imbarcati</E
+M>calare nella stiva le merci imbarcate</E
+M>è imbarcato su un transatlantico come primo cameriere</E
+M>è rimasto imbarcato poco più d’un anno</E

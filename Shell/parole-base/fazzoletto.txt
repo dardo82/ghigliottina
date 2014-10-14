@@ -1,0 +1,31 @@
+fazzoletto.txt
+"fazzoletto"
+"fazzoletto"
+"fazzoletto  al collo"
+"fazzoletto da cerimonia"
+"fazzoletto da collo"
+"fazzoletto di carta"
+"fazzoletto di terra"
+#* ''ho usato i '''fazzoletti''' di carta per pulirmi le [[mani]]''
+#* ''aveva un '''fazzoletto''' [[rosso]] legato intorno al [[collo]]''
+#* ''combattono per un '''fazzoletto''' di [[terra]]''
+*[[abito-fazzoletto]]
+*[[tovagliolo]]
+*''farsi un nodo al fazzoletto''
+M>fazzolo</E
+M>fazzuolo</E
+M>da naso</E
+M>da uomo</E
+M>da donna</E
+M>mettere il f</E
+M>in tasca</E
+M>nella borsetta</E
+M> Un dì quando per salutare Si agitavano i f. Ogni cosa nel mondo era un altare</E
+M>farsi un nodo al f</E
+M>fazzoletti di carta</E
+M>da collo</E
+M>un f</E
+M>di terra</E
+M>possiede appena un f</E
+M>di terra</E
+M>che coltiva a ortaggi</E

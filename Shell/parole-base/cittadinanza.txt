@@ -1,0 +1,30 @@
+cittadinanza.txt
+"acquisizione di cittadinanza"
+"avere ottenuto la cittadinanza"
+"cittadinanza"
+"cittadinanza"
+"cittadinanza onoraria"
+"concedere la cittadinanza"
+"doppia cittadinanza"
+"la cittadinanza"
+"offrire cittadinanza"
+"offrire cittadinanza"
+*[[popolazione]]
+*[[reddito di cittadinanza]]
+M>cittadino</E
+M>italiana</E
+M>francese</E
+M>ottenere</E
+M>avere</E
+M>perdere la c</E
+M>certificato di cittadinanza</E
+M>C. europea</E
+M>acquistare la c</E
+M>dare la c</E
+M>milanese</E
+M>fiorentina</E
+M>onoraria</E
+M>armi di c</E
+M>appello alla c</E
+M>tutta la c</E
+M>è invitata a intervenire</E

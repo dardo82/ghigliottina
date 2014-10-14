@@ -1,0 +1,36 @@
+ambiguo.txt
+"ambiguo"
+"ambiguous, unclear"
+"ambiguo"
+"essere ambiguo"
+"be ambiguous"
+"linguaggio ambiguo"
+*''(di discorso, significato)'' [[dubbio]], [[confuso]], [[oscuro]], [[vago]], [[indefinibile]],[[misterioso]], [[sfuggente]], [[inafferrabile]], [[velato]], [[enigmatico]]
+*''(di persona, comportamento)'' [[finto]], [[falso]], [[doppio]], [[equivoco]], [[insincero]], [[sospetto]], [[subdolo]], [[infido]], [[ipocrita]]
+*''(di discorso, significato)'' [[semplice]], [[chiaro]], [[certo]], [[evidente]]
+*''(di persona, comportamento)'' [[sincero]], [[onesto]]
+*[[ambiguità]]
+M>ambiguus</E
+M>ambig</E
+M>amb</E
+M>parole a</E
+M>responso a</E
+M>rispose con una frase ambigua</E
+M>univoco</E
+M>equivoco</E
+M>tenere un contegno a</E
+M>presentarsi</E
+M> muoversi</E
+M>agire con un fare ambiguo</E
+M>un ambiente a.</E
+M> una persona di reputazione a.</E
+M> una persona</E
+M> una situazione ambigua</E
+M>suono</E
+M>rumore a</E
+M>malattia a</E
+M>pianta a</E
+M>nucleo a</E
+M>rispondere ambiguamente</E
+M>comportarsi</E
+M>agire ambiguamente</E

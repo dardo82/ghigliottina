@@ -1,0 +1,377 @@
+segno.txt
+"Ariete (segno zodiacale)"
+"bordare a segno"
+"cinquanta punti messi a segno dallo stesso battitore in un periodo"
+"cinquanta punti messi a segno dallo stesso battitore in un periodo"
+"Cogliere nel segno"
+"cogliere nel segno"
+"colpire nel segno"
+"colpisce nel segno"
+"essere un segno di"
+"fare centro; cogliere nel segno; raggiungere lo scopo"
+"fare segno"
+"farsi il segno della croce"
+"fino al segno"
+"graffio, segno"
+"il Sagittario (segno zodiacale)"
+"il Sagittario (segno zodiacale)"
+"il Toro (segno zodiacale)"
+"in segno di sfida"
+"in segno di stima e riconoscenza"
+"lasciare il segno"
+"lasciare il segno"
+"lasciare il segno"
+"lasciare un segno"
+"marciare in segno di protesta"
+"mettere a segno"
+"mettere il segno"
+"nel segno di"
+"passare il segno"
+"per filo e per segno"
+"più, segno più"
+"Scorpione (segno zodiacale)"
+"segno"
+"segno"
+"segno"
+"segno"
+"simbolo, segno grafico"
+"segno"
+"segno"
+"segno zodiacale"
+"segno"
+"segno a v"
+"segno bianco sullo zoccolo del cavallo"
+"segno certo"
+"segno dei tempi"
+"segno del destino"
+"segno della croce"
+"segno dello zodiaco"
+"segno di Caino"
+"segno di interpunzione"
+"segno di marea"
+"segno di matita"
+"segno di pericolo"
+"segno di rimando"
+"segno di uguale (=)"
+"segno distintivo"
+"segno meno"
+"segno negativo"
+"segno particolare"
+"segno positivo"
+"segno rivelatore"
+"segno zodiacale"
+"sole in Capricorno,  segno della Capra"
+"tiro a segno"
+*''(di oggetto, atto, fenomeno)'' [[impronta]], [[traccia]], [[orma]], [[tacca]]
+*''(specialmente di malattia)'' [[segnale]], [[indicazione]]; [[sintomo]], [[sospetto]], [[spia]], [[indizio]], [[indice]], [[avvisaglia]], [[avvertimento]], [[espressione]], [[manifestazione]]
+*[[contrassegno]], [[marchio]], [[distintivo]], [[figura]], [[immagine]], [[simbolo]], [[emblema]], elemento distintivo, elemento caratteristico
+*''(di persona)'' [[connotato]]
+*[[linea]], [[riga]]
+*''(su una superficie)'' [[graffio]], [[graffiatura]], [[solco]]
+*''(in particolare su una parte del corpo)'' [[sfregio]], [[livido]], [[cicatrice]]
+*''(simbolo convenzionale)'' lettera dell’alfabeto, [[carattere]], [[iniziale]], [[sigla]], [[cifra]], [[sigillo]]
+* ''(di gioia, affetto, riconoscenza, eccetera)'' [[prova]], [[testimonianza]]
+*''(per manifestare o comunicare qualcosa)'' [[cenno]], [[gesto]], [[parola]], [[atto]]
+*''(ottico o acustico)'' [[segnale]], [[annuncio]], [[avviso]]
+*[[limite]], [[misura]]; [[punto]], [[grado]]
+*[[bersaglio]], punto di riferimento
+* [[marca]] 
+*[[segnare]], [[tiro a segno]],[[segnico]]
+*''cogliere nel segno''
+M>gnum</E
+M>secare</E
+M>s. premonitori</E
+M>quest&#8217;aria pesante è s. di pioggia imminente</E
+M>il malato ha dato s. evidenti di ripresa</E
+M>il verso della civetta era interpretato un tempo come un s. di sciagura</E
+M>qui va a finire male: ne vedo già i segni</E
+M>cominciavano ad apparire i s. della malattia</E
+M>non dava più segni di vita</E
+M>non dare segni di vita</E
+M>non c&#8217;era nel suo sguardo alcun s. di compassione</E
+M>le tue parole sono s. di debolezza</E
+M>le sue lacrime mi sono sembrate s. di pentimento</E
+M>è s. di ...</E
+M>è s. manifesto di ...</E
+M>sporcare la strada è s. di inciviltà</E
+M>il suo gesto è stato s. di altruismo</E
+M>il mandarlo fuori di casa nostra così infermo ne sarebbe gran biasimo e s. manifesto di poco senno</E
+M>che</E
+M>è s. che</E
+M>se si comporta così</E
+M> è s. che vuole litigare</E
+M>se non risponde</E
+M> è s. che non è in casa</E
+M>se non mangia è s. che non ha appetito</E
+M>buon s.!</E
+M>cattivo s.!</E
+M>brutto s.!</E
+M>entrando</E
+M> mi ha salutato con un sorriso: buon s.!</E
+M>non ci ha voluto mettere a parte dei risultati delle analisi: cattivo s.!</E
+M>i s. dei tempi</E
+M>signa temporum</E
+M>Matteo</E
+M>monumento</E
+M>opera d&#8217;arte che mostra i s. del tempo</E
+M>i s. del tempo</E
+M>sintomo obiettivo</E
+M>s. di P. Möbius</E
+M>s. di C. Stellwag</E
+M>s. del laccio</E
+M>l&#8217;aumentata frequenza del polso può essere s. di febbre</E
+M>l&#8217;appetito è s. di buona salute</E
+M>il maestro</E
+M> veduto il s.</E
+M> disse alla fanticella ...</E
+M>costui porta</E
+M> non il s.</E
+M> ma uno diluvio d&#8217;orina al medico</E
+M>segnale</E
+M>dare</E
+M>dare segni d&#8217;impazienza</E
+M>di scontentezza</E
+M>d&#8217;insofferenza</E
+M>fare</E
+M>una donna giovane</E
+M> ... danzando e vociferando</E
+M> faceva segno di grandissima allegrezza</E
+M>dare segno di</E
+M>continuava imperterrito senza dare alcun s. di volere smettere</E
+M>non dà s. di volersene andare</E
+M>questo rumore insopportabile non dà s. di voler cessare</E
+M>gli ha dato già molti s. della sua simpatia</E
+M>mi dà continui s. della sua benevolenza</E
+M>al mio Belisar commendai l&#8217;armi</E
+M> Cui la destra del ciel fu sì congiunta</E
+M> Che segno fu ch&#8217;i&#8217; dovessi posarmi</E
+M>s. soprannaturali</E
+M>s. del cielo</E
+M>segno</E
+M>segni</E
+M>signa</E
+M>signa et prodigia</E
+M>Giov.</E
+M>Atti</E
+M>in segno di</E
+M>come segno di</E
+M>gli ha posato una mano sulla spalla in s. di protezione</E
+M>mi tese la mano in segno di amicizia</E
+M>le dedicò questo libro in s. di stima</E
+M>la prego di accettare questo dono come s. della mia riconoscenza</E
+M>parlare</E
+M>intendersi a segni</E
+M>linguaggio dei s.</E
+M>gli fece s. di sì</E
+M>di no</E
+M>si erano fatti di nascosto un s. d&#8217;intesa</E
+M>mi ha fatto un s. di saluto da lontano</E
+M>non ti muovere fino a quando non ti faccio segno</E
+M>mi ha fatto segno d&#8217;entrare</E
+M>E &#8217;l savio mio maestro fece segno Di voler lor parlar segretamente</E
+M>cenno</E
+M>essere al s. di qualcuno</E
+M>segnale</E
+M>il semaforo rosso è s. d&#8217;arresto per veicoli e pedoni</E
+M> quello verde di via libera</E
+M>solo dopo avere introdotto la tessera magnetica si ha il s. di via libera</E
+M>dare il s. dell&#8217;attacco</E
+M>al s. dato</E
+M> si mossero tutti insieme</E
+M>Sentito il s.</E
+M> al cacciar posa ferono</E
+M>la squilla dà segno Della festa che viene</E
+M>il lavoro durò intenso e sollecito fino al s. delle campane di mezzogiorno</E
+M>s. alfabetici</E
+M>è un suono per il quale non c&#8217;è nel nostro alfabeto un s. corrispondente</E
+M>s. grafici</E
+M>s. pittografici</E
+M>s. ortografici</E
+M>diacritici</E
+M>segni di punteggiatura</E
+M>d&#8217;interpunzione</E
+M>s. speciali</E
+M>s. di ritornello</E
+M>ritornare al s.</E
+M>dal s.</E
+M>da capo al s.</E
+M>il s. dell&#8217;addizione</E
+M>della sottrazione</E
+M>il s. della radice quadrata</E
+M>il s. d&#8217;uguaglianza</E
+M>il s. di integrale</E
+M>s. di un numero</E
+M>numeri con s.</E
+M>grandezze con s.</E
+M>regola dei s.</E
+M>s. di un polinomio</E
+M>s. di una funzione</E
+M>regola dei s. di Cartesio</E
+M>arbitrarietà del s. linguistico</E
+M>s. demarcativo</E
+M>delimitativo</E
+M>simbolo</E
+M>la colomba e il ramoscello d&#8217;olivo sono s. di pace</E
+M>moneta-segno</E
+M>moneta-merce</E
+M>s. di tabellionato</E
+M>di cancelleria</E
+M>di corroborazione</E
+M>fare un s. con la matita sul quaderno</E
+M>fare un s. col gesso sulla lavagna</E
+M>dei s. misteriosi erano stati tracciati sulla rupe</E
+M>i bambini hanno fatto dei s. sulla parete</E
+M>segni di richiamo</E
+M>s. di croce</E
+M>fare</E
+M>tracciare un s. di croce</E
+M>fare un s. di croce su qualche cosa</E
+M>farci una croce sopra</E
+M>il s. della croce</E
+M>fare</E
+M>farsi il s. della croce</E
+M>della santa croce</E
+M>se quelle erano le speranze della patria</E
+M> bisognava farsi il s. della croce e sperare in Dio</E
+M>il s. di Cristo</E
+M>in questo s. vincerai</E
+M>segni dello Zodiaco</E
+M>zodiacali</E
+M>segni dell&#8217;eclittica</E
+M>s. celesti</E
+M>è nato sotto il s. della Bilancia</E
+M>di che s. sei?</E
+M>alcuni danno molta importanza al s. nel quale sono nati</E
+M>un s. nitido</E
+M>chiaro</E
+M>profondo</E
+M>superficiale</E
+M>la tavola è piena di s. lasciati dai bicchieri</E
+M>il banco è rovinato da s. fatti col temperino</E
+M>sul muro è rimasto il s. dei quadri</E
+M>guarda che segni di sporco sulla tovaglia</E
+M>ha il corpo pieno di s. lividi</E
+M>lo schiaffo gli ha lasciato il segno</E
+M>lasciare il s.</E
+M>la tragica esperienza ha lasciato il s. nella sua psiche</E
+M>mi ha detto delle cose crudeli</E
+M> che di sicuro lasceranno il segno</E
+M>i s. della mareggiata erano ancora visibili sulla costa</E
+M>mentre cammini i s. dei tuoi passi rimangono sulla sabbia</E
+M>si era appena alzato dal letto</E
+M> e aveva ancora sul viso i s. del cuscino</E
+M>i s. scuri lasciati dall&#8217;incendio erano ancora visibili sulla collina</E
+M>che son li s. bui Di questo corpo</E
+M> che là giuso in terra Fan di Cain favoleggiare altrui?</E
+M>testimonianza</E
+M>i s. dell&#8217;antica grandezza erano ancora visibili nel borgo medievale</E
+M>gli unici s. del passato erano le rovine</E
+M>i restauri non devono cancellare del tutto i s. del tempo</E
+M>gli occhi non davan lacrime</E
+M> ma portavan segno d&#8217;averne sparse tante</E
+M>mal del segno</E
+M>calcino</E
+M>moscardina</E
+M>dare</E
+M>mostrare</E
+M>presentare</E
+M>esigere un s. di riconoscimento</E
+M>s. caratteristici</E
+M>marca</E
+M>di zecca</E
+M>S. distintivi</E
+M>segni dei casi</E
+M>ho fatto un s. per indicare dove devo tagliare la stoffa</E
+M>fate un s. a pagina cento</E
+M>ho saltato fino a quel s.</E
+M>mettere il s. alla pagina</E
+M>ritrovare</E
+M>perdere il s.</E
+M>tenere il s. con un dito</E
+M>riempi la bottiglia fino al s.</E
+M>non lasciar salire l&#8217;acqua della vasca oltre il s.</E
+M>devi riempire la tanica solo fino al primo segno</E
+M>passare</E
+M>oltrepassare</E
+M>superare il s.</E
+M>la sua arroganza ha passato il s.</E
+M>sono disposto a sopportare tutto</E
+M> ma questo passa ogni s.</E
+M>non il gustar del legno Fu per sé la cagion di tanto essilio</E
+M> Ma solamente il trapassar del s.</E
+M>senza trapassare in alcuno atto il s. della ragione</E
+M>oltre ogni s.</E
+M>al massimo s.</E
+M>sapevo che era meschino</E
+M> ma non fino a questo s.</E
+M>a questo s. è giunta la sua arroganza?</E
+M>non avevo mai pensato che le cose potessero arrivare a questo s.!</E
+M>fino a un certo s.</E
+M>era una guerra</E
+M> anzi cinque guerre</E
+M> coperte</E
+M> gentili</E
+M> fino a un certo s.</E
+M> ma vive e senza tregua</E
+M>a segno che</E
+M>a tal s. che</E
+M>a s. da</E
+M>per segno tale che</E
+M>siamo ridotti a s. che abbiamo paura a uscire di sera</E
+M>si è ridotto a s. tale che temiamo per la sua salute</E
+M>a segno</E
+M>mettere</E
+M>rimettere l&#8217;orologio</E
+M>il motore</E
+M>una macchina a s.</E
+M>alzare una bandiera a s.</E
+M>bracciare una vela a s.</E
+M>portare un pennone a s.</E
+M>mettere</E
+M>far stare</E
+M>tenere qualcuno a segno</E
+M>stare a s.</E
+M>avere la testa a s.</E
+M>tenere la testa a s.</E
+M>non ha più la testa a s.</E
+M>aveva bevuto un po&#8217; troppo e non aveva la testa a segno</E
+M>tiro a s.</E
+M>colpire</E
+M>cogliere</E
+M>dare nel segno</E
+M>faceva mille supposizioni senza però mai dare nel s.</E
+M>le tue critiche hanno colpito nel s.</E
+M>dalla sua espressione ho capito che le mie parole avevano colto nel s.</E
+M>erano giunte a s.</E
+M>fallire il s.</E
+M>essere fatto s. a</E
+M>era fatto s. agli scherzi</E
+M>alle beffe dei compagni di scuola</E
+M>per i suoi modi anticonformisti era fatta s. ai pettegolezzi del paese</E
+M>i dì nell&#8217;ozio Chiuse in sì breve sponda</E
+M> Segno d&#8217;immensa invidia E di pietà profonda</E
+M>I&#8217; rivolsi i pensier&#8217; tutti ad un s.</E
+M>Buon cittadino</E
+M> al segno Dove natura e i primi Casi ordinar</E
+M> lo ingegno Guida</E
+M>condurre a s.</E
+M>i tempii Di segni ornaste agli inimici tolti</E
+M>sotto a i santi Segni ridusse i suoi compagni erranti</E
+M>sotto il s. di un ideale</E
+M>sotto il s. della libertà</E
+M>del pacifismo</E
+M>della fratellanza universale</E
+M>Fermava il piè ciascun di questi segni Sopra due belle imagini più basse</E
+M>Di cotai segni variato e scolto Era il metallo de le regie porte</E
+M>signum</E
+M>vidi &#8217;l segno Che segue il Tauro</E
+M>Celansi i duo mei dolci usati segni</E
+M>per filo e per segno</E
+M>esporre</E
+M>narrare per filo e per s.</E
+M>mi narrò per filo e per s. com&#8217;era andata</E
+M>raccontami tutto</E
+M> per filo e per segno</E
+M>filo per filo</E
+M>punto per punto</E
+M>segno per segno</E

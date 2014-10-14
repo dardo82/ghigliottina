@@ -1,0 +1,31 @@
+rimprovero.txt
+"leggero rimprovero"
+"rimprovero"
+"rimprovero, sgridata"
+#* ''[[fare]] un 
+#* ''[[subire]] un 
+#* ''[[rivolgere]] a qualcuno [[parole]] di 
+M>fare</E
+M>muovere</E
+M>infliggere</E
+M>ricevere un r</E
+M>rimproveri</E
+M>non prendere il mio discorso come un r</E
+M>gli gettò un&#8217;occhiata di r</E
+M>cominciò a parlare con tono di r</E
+M>mi faccio r</E
+M>di non aver compreso le sue buone intenzioni</E
+M>forte</E
+M>acerbo</E
+M>grave</E
+M>severo</E
+M>dolce</E
+M>gentile</E
+M>giusto</E
+M>ingiusto</E
+M>inopportuno</E
+M>tacito</E
+M>timido</E
+M>semplice</E
+M>solenne</E
+M>solenne</E

@@ -1,0 +1,11 @@
+edicola.txt
+"edicola"
+"edicola"
+#*''Avevano finito il "Corriere" in '''edicola''', quindi ti ho preso "La Repubblica"''
+*[[nicchia]], [[tabernacolo]], [[tempietto]], [[cappella]]
+*[[chiosco]], rivendita di giornali.
+*[[libreria]]
+M>aedic</E
+M>aedes</E
+M>nicchie</E
+M>finestre a edicola</E

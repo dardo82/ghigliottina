@@ -1,0 +1,42 @@
+finto.txt
+"finto"
+"finto"
+"finto"
+"finto"
+"finto camoscio, finta pelle scamosciata"
+"finto tonto"
+*[[bugiardo]], [[ipocrita]], [[dissimulatore]], [[mentitore]]
+*''(di persona)'' [[falso]]
+*[[falso]], [[falsificato]], [[fasullo]], [[imitato]], [[rifatto]], [[sintetico]], [[artificiale]], [[contraffatto]], [[artefatto]], [[posticcio]]
+*[[ingannevole]], [[simulato]]
+*[[impostore]]
+*''(di persona)'' [[sincero]]
+*[[vero]], [[originale]], [[autentico]]
+M>fingere</E
+M>capelli f</E
+M>denti f</E
+M>porta</E
+M>finestra f</E
+M>assalto</E
+M>colpo f.</E
+M>battaglia</E
+M>vendita</E
+M>donazione</E
+M>le sue disgrazie sono tutte f.</E
+M>Un grullo f</E
+M>un sordo di mestiere</E
+M>fare il f</E
+M>tonto</E
+M>è un uomo f</E
+M>una donna f</E
+M>è un f</E
+M>una finta</E
+M>un f</E
+M>uomo</E
+M>una f</E
+M>donna</E
+M>un f</E
+M>attore</E
+M> un f</E
+M>medico</E
+M>mostrarsi fintamente addolorato</E

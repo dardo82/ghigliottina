@@ -1,0 +1,24 @@
+cameriere.txt
+"aiuto cameriere"
+"cameriere"
+"cameriere"
+"lavorare come cameriere"
+#*''chiamare il 
+#*''
+*[[domestico]], collaboratore familiare, [[governante]], [[servo]], [[servitore]],  [[valletto]], [[garçon]], [[persona di servizio]], [[colf]], [[collaboratore domestico]], [[camerista]], [[maggiordomo]], [[lacchè]]
+M>camera</E
+M>camerarius</E
+M>assumere un c</E
+M>avere il c</E
+M>hanno sempre avuto il c</E
+M>in casa</E
+M>di ristorante</E
+M>di bar</E
+M>di sala</E
+M>al piano</E
+M>motu proprio</E
+M>segreti</E
+M>segreti partecipanti</E
+M>segreti soprannumerarî</E
+M>di cappa e spada</E
+M>d’onore in abito paonazzo</E

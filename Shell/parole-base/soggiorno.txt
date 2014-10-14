@@ -1,0 +1,51 @@
+soggiorno.txt
+"luogo di cura o soggiorno in montagna"
+"permesso di soggiorno"
+"soggiorno"
+"soggiorno"
+"soggiorno"
+"soggiorno di una notte"
+"tassa di soggiorno"
+*[[permanenza]], [[sala]] 
+*[[soggiornare]], [[giorno]]
+M>località di s. estivo</E
+M>invernale</E
+M>fare s. in un luogo</E
+M>fece un lungo s. in Austria</E
+M>ha avuto in premio un s. gratuito di 15 giorni a Parigi</E
+M>prolungare il s. in montagna</E
+M>permesso di s.</E
+M>richiedere</E
+M>concedere</E
+M>togliere il permesso di s.</E
+M>imposta</E
+M>tassa</E
+M>di s.</E
+M>imposta di cura</E
+M>prendere s. in un luogo</E
+M>E preso in picciol borgo alfin soggiorno</E
+M> Celatamente ivi nutrir ti fei</E
+M>fare s. in un luogo</E
+M>Facea sovente pe&#8217; boschi soggiorno</E
+M>libertà di s.</E
+M>obbligo</E
+M>divieto di s.</E
+M>s. obbligato</E
+M>obbligo di soggiorno.</E
+M>la Costiera Amalfitana è un meraviglioso s.</E
+M> sia d&#8217;estate sia d&#8217;inverno</E
+M>Tempo verrà ancor forse Ch&#8217;a l&#8217;usato soggiorno Torni la fera bella e mansüeta</E
+M>quest&#8217;angusta terra</E
+M> Brevissimo s. de&#8217; mortali</E
+M>le strade</E
+M> un indicibile spettacolo</E
+M> un corso incessante di miserie</E
+M> un s. perpetuo di patimenti</E
+M>questa villetta è un ottimo soggiorno</E
+M>stanza di s.</E
+M>leggere</E
+M>conversare</E
+M>pranzare</E
+M>ricevere nel soggiorno</E
+M>Ben vede ch&#8217;ogni minimo soggiorno Che faccia d&#8217;aiutarlo</E
+M> è suo disnore</E

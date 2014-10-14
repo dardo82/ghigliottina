@@ -1,0 +1,71 @@
+copertura.txt
+"a copertura"
+"copertura"
+"copertura"
+"copertura"
+"copertura"
+"copertura"
+"copertura (edilizia)"
+"copertura a falda"
+"copertura aerea"
+"copertura aerea"
+"copertura al rialzo"
+"copertura al ribasso"
+"copertura assicurativa"
+"copertura capillare"
+"copertura cassone"
+"copertura del rischio"
+"copertura del tragitto"
+"copertura di fuoco"
+"copertura di legno"
+"copertura di neve"
+"copertura di protezione"
+"copertura di una posizione corta"
+"copertura estesa"
+"copertura fiscale"
+"copertura insufficiente"
+"copertura nazionale"
+"materiale di copertura"
+"materiali di copertura"
+"mettere la copertura (edilizia)"
+"periodo di mercato in cui per gli assicurati è difficile ottenere copertura di rischi e i premi sono"
+"piastra di copertura"
+"senza copertura"
+"sotto copertura"
+"sotto copertura"
+"sotto la copertura di"
+"uomo di copertura"
+M>pertura</E
+M>cooperire</E
+M>di un chiosco</E
+M>provvedere alla c</E
+M>di una capanna</E
+M>una c</E
+M>di tende</E
+M>a tetto</E
+M>a terrazza</E
+M>a cupola</E
+M> a volta</E
+M> a capriate</E
+M> a cassettoni</E
+M>copertone</E
+M>viva</E
+M>morta</E
+M>coltura di c</E
+M>piante da c</E
+M>cercare</E
+M>offrire una c</E
+M>il consiglio d’amministrazione non voleva esporsi senza un’adeguata copertura</E
+M>misure di c</E
+M>truppe</E
+M>azioni di c</E
+M>aerea</E
+M>radar</E
+M>fuoco di c</E
+M>della circolazione monetaria</E
+M>di un assegno</E
+M>di credito</E
+M>ordine di c</E
+M>finanziaria</E
+M>attività lecita che serve di c</E
+M>a un’altra illecita</E

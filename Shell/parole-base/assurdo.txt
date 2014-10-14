@@ -1,0 +1,33 @@
+assurdo.txt
+"assurdo"
+"l'assurdo"
+"per assurdo..."
+"teatro dell'assurdo"
+"teatro dell'assurdo"
+*[[illogico]], [[irrazionale]], [[irragionevole]], [[insensato]], [[inconcepibile]], [[impossibile]], [[inammissibile]], [[incoerente]], [[incongruente]], [[contraddittorio]], [[incongruo]], [[paradossale]], [[falso]], [[stravagante]], [[sciocco]], [[idiota]], [[folle]], [[pazzesco]],   [[impensabile]], , [[ridicolo]], [[sballato]]
+*[[assurdità]], [[paradosso]], [[controsenso]], [[contraddizione]]
+*[[logico]], [[razionale]], [[ragionevole]], [[sensato]], [[coerente]]
+*[[logica]]
+* [[assurdamente]]
+M>absurdus</E
+M>surdus</E
+M>un’affermazione</E
+M>una tesi</E
+M>una supposizione a</E
+M>queste sono pretese a</E
+M>è una situazione assurda</E
+M>un uomo a</E
+M>una donna a</E
+M>un tipo a</E
+M>dimostrare l’a</E
+M>di una tesi</E
+M>è un a</E
+M>ciò che tu sostieni</E
+M>assurdità</E
+M>riduzione</E
+M>deduzione all’a</E
+M>dimostrazione per a.</E
+M>primo</E
+M>secondo principio della riduzione all’a</E
+M>Teatro dell’assurdo</E
+M>comportarsi assurdamente</E

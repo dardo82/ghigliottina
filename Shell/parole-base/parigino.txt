@@ -1,0 +1,13 @@
+parigino.txt
+"parigino"
+"parigino"
+#*[[spirito]] [[parigino]]
+M>i caffè</E
+M>i teatri p</E
+M>l&#8217;atmosfera p</E
+M>la moda p</E
+M>le abitudini</E
+M>i caratteri dei p</E
+M>dei Parigini</E
+M>sembrare un p</E
+M>vestire come un p</E

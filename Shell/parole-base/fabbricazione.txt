@@ -1,0 +1,26 @@
+fabbricazione.txt
+"fabbricazione"
+"fabbricazione del ghiaccio"
+"imposta di fabbricazione"
+"sistema di fabbricazione, sistema di produzione"
+#*''la '''fabbricazione''' di biciclette''
+*[[produzione]], [[lavorazione]]
+*''(di opere edlizie)''  [[costruzione]], [[edificazione]]
+M>fabricatio</E
+M>onis</E
+M>la f</E
+M>dei mobili</E
+M>dei detersivi</E
+M>della carta</E
+M>abusiva di alcolici</E
+M>non autorizzata di armi</E
+M>difetti di f</E
+M>le f</E
+M>di guerra</E
+M>Imposte di fabbricazione</E
+M>intensiva</E
+M>semintensiva</E
+M>estensiva</E
+M>costruzione</E
+M>zona intensiva</E
+M>lottizzazione</E

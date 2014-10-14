@@ -1,0 +1,49 @@
+immergere.txt
+"immergere"
+"immergere, replace: immergersi"
+"immergere, replace: immergersi"
+"immergere in un campo magnetico"
+*mettere a bagno, mettere a mollo, [[bagnare]], [[inzuppare]], [[intingere]], [[tuffare]], [[sommergere]], [[ammollare]]
+*[[togliere]], [[estrarre]], [[levare]]
+*[[immergersi]], [[immersione]], [[immerso]], [[immergibile]]
+M>immergĕre</E
+M>merg</E
+M>io immèrgo</E
+M>tu immèrgi</E
+M>immèrsi</E
+M>immergésti</E
+M>immèrso</E
+M>le mani</E
+M>un bastone nell’acqua</E
+M>la pellicola nell’acido</E
+M>immergersi nella vasca</E
+M>nel fiume</E
+M>nelle onde</E
+M>il sommergibile s’immerse lentamente</E
+M>E ’l ferro ne le viscere gli immerse</E
+M>immergersi nelle tenebre</E
+M>nella nebbia</E
+M>Ei s’immerge ne la notte</E
+M>Ei s’aderge in vèr le stelle</E
+M>immergersi nel sonno</E
+M>immergersi nei piaceri</E
+M>tuffarsi</E
+M>sprofondarsi</E
+M>immergersi nello studio</E
+M>nella lettura</E
+M>nella meditazione</E
+M>in un calcolo</E
+M>essere</E
+M>strato che immerge di 45</E
+M>verso sud</E
+M>est</E
+M>scafo immerso nell’acqua</E
+M>paese immerso nelle tenebre</E
+M>nel silenzio</E
+M>persona immersa nel sonno</E
+M>nei proprî pensieri</E
+M>giocatore immerso nei debiti fino ai capelli</E
+M> sentivo però</E
+M> con la voce misericordiosa della vita</E
+M> che qualcosa</E
+M> qualcosa sarebbe accaduto a rompere quella sorta di maleficio in cui mi trovavo immerso</E

@@ -1,0 +1,99 @@
+maligno.txt
+"folletto maligno"
+"il maligno, il malvagio"
+"il Maligno, il Malvagio"
+"incantesimo maligno"
+"linfoma maligno"
+"maligno"
+"maligno"
+"maligno"
+"maligno, replace: Maligno"
+"malizioso, maligno, gongolante alle disgrazie altrui"
+"melanoma maligno"
+"tumore maligno"
+"tumore maligno"
+#*''un colega maligno''
+#*''fece un'insinuazione maligna''
+*[[malvagio]], [[cattivo]], [[incurabile]]
+*[[malignare]], [[malignamente]] 
+*Giuseppe Pittano, ''Il mio primo dizionario di italiano illustrato'', edizione 1995, p.306, DeAgostini
+M>malignus</E
+M>malus</E
+M>gign</E
+M>un uomo perfido</E
+M>d’indole m</E
+M>d’animo m</E
+M>quello ingrato popolo maligno Che discese di Fiesole ab antico</E
+M>spirito m</E
+M>il m</E
+M>il M</E
+M>le tentazioni del M</E
+M>per opera del M</E
+M>secondo lui</E
+M>spiriti m</E
+M>abitavano in vortici e rapide del fiume</E
+M>l’aere m</E
+M>le m</E
+M>piagge grige</E
+M>campo m</E
+M>Inf</E
+M>una serpe m</E
+M>il m</E
+M>scorpione</E
+M>Per accendere i cor d’odio m</E
+M>allusioni</E
+M>insinuazioni</E
+M>supposizioni m</E
+M>circolano voci m</E
+M>sul tuo conto</E
+M>una domanda su quella materia</E
+M>proferita da quella signora</E
+M>e con una cert’aria di dubbio m</E
+M>le levò ogni coraggio a rispondere</E
+M>gente m</E
+M>e pettegola</E
+M>sei più m</E
+M>di quanto pensassi</E
+M>è un m</E
+M>guàrdati dai m</E
+M>stando a quello che dicono i soliti m</E
+M>lingua m</E
+M>difenditi da quelle lingue m</E
+M>che sono le tue colleghe</E
+M>mala lingua</E
+M>malalingua</E
+M>occhio</E
+M>sguardo</E
+M>riso maligno</E
+M>tempi</E
+M>anni m</E
+M>un periodo m</E
+M>sorte m</E
+M>destino m</E
+M>l’influsso m</E
+M>degli astri</E
+M>Or par</E
+M>non so per che stelle maligne</E
+M>Che ’l cielo in odio n’aggia</E
+M>esalazioni m</E
+M>i gas m</E
+M>delle paludi</E
+M>toglieano i vivi All’etere m</E
+M>ed alle fere I miserandi avanzi che Natura Con veci eterne a sensi altri destina</E
+M>erbe m</E
+M>funghi maligni</E
+M>terreno m</E
+M>ben veggiamo talora ch’alberi per natura maligni</E
+M>trasportati sott’altro cielo e in altra terra</E
+M> hanno perduta la lor naturale malignità</E
+M>febbri m</E
+M>un’eruzione m</E
+M>un foruncolo m</E
+M>la ferita</E
+M>circoscritta ed asettica</E
+M>non era m</E
+M>sebbene grave</E
+M>tumore m</E
+M>giudicare malignamente</E
+M>insinuare malignamente qualcosa</E
+M>mi fece malignamente notare gli errori del collega</E

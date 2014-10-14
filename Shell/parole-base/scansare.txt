@@ -1,0 +1,40 @@
+scansare.txt
+"scansare"
+"scansare"
+"scansare"
+"scansare, replace: scansarsi"
+"schivare, scansare"
+*[[spostare]], [[scostare]], [[allontanare]], [[rimuovere]]
+M>cansare</E
+M>campsare</E
+M>s. il tavolo dal muro</E
+M>bisogna s. il letto per pulire la parete</E
+M>se scansi queste casse faremo un po&#8217; di spazio.</E
+M>scansarsi</E
+M>il corridoio è stretto: se non vi scansate come faccio a passare?</E
+M>scànsati</E
+M> sta arrivando una macchina!</E
+M>s. un colpo</E
+M>un pugno</E
+M>una sassata</E
+M>s. un fendente</E
+M>un diretto</E
+M>s. una motocicletta</E
+M>un motociclista</E
+M>s. un&#8217;automobile</E
+M>s. un inciampo</E
+M>un ostacolo.</E
+M>s. i pericoli</E
+M>le difficoltà</E
+M>s. una fatica</E
+M>s. ogni occasione di litigio</E
+M>di contrasto</E
+M>si accorse che i colleghi lo scansavano</E
+M>dopo quel processo</E
+M> anche se riconosciuto innocente</E
+M> tutti lo scansavano.</E
+M>scansate finché potete le chiacchiere della gente</E
+M>Lucia stava stretta al braccio della madre</E
+M> e scansava dolcemente</E
+M> e con destrezza</E
+M> l&#8217;aiuto che il giovine le offriva ne&#8217; passi malagevoli</E

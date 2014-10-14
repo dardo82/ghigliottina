@@ -1,0 +1,44 @@
+foro.txt
+"apparecchio a foro stenopeico"
+"coperta con foro"
+"foro"
+"foro"
+"foro competente"
+"foro da trapano"
+"foro di proiettile"
+"foro di proiettile"
+"foro di puntura"
+"foro di spillo"
+"foro erariale"
+"foro occipitale"
+* (sostantivo) dal 
+* (voce verbale) 
+*[[piazza]]
+M>forum</E
+M>urbano</E
+M>comunale</E
+M>Forum Livii</E
+M>Forum Sempronii</E
+M>Forum Iulii</E
+M>boario</E
+M>Foro italico</E
+M>Mussolini</E
+M>generale</E
+M>particolare</E
+M>facoltativo</E
+M>obbligatorio</E
+M>convenzionale</E
+M>prorogato</E
+M>erariale</E
+M>il f</E
+M>di Torino</E
+M>di Napoli</E
+M>un luminare del f</E
+M>italiano</E
+M>un principe del f</E
+M>ecclesiastico</E
+M>esterno</E
+M>interno</E
+M>interno penitenziale</E
+M>sacramentale</E
+M>interno extrasacramentale</E

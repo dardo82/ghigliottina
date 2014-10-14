@@ -1,0 +1,41 @@
+conservare.txt
+"cibi da conservare"
+"conservare"
+"conservare"
+"conservare in modo esagerato"
+"conservare in modo sproporzionato"
+"conservare in recipienti"
+"conservare in scatola"
+"conservare intatto"
+"conservare teneramente"
+"conservare; mantenere un lavoro"
+#*''devi 
+M>conservare</E
+M>con</E
+M>servare</E
+M>io consèrvo</E
+M>come fai a c</E
+M>così bene la roba?</E
+M>le melanzane sott’olio</E
+M>il pesce in salamoia</E
+M>conserva con cura questo denaro</E
+M>ho conservato tutte le sue lettere</E
+M>sono documenti che vanno conservati gelosamente</E
+M>la pace nel mondo</E
+M>la salute</E
+M>la propria tranquillità</E
+M>intatta l’innocenza</E
+M>la dignità</E
+M>l’onestà</E
+M>nella mente un caro ricordo</E
+M>conservo immutati la mia stima e il mio affetto per te</E
+M>Iddio ti conservi!</E
+M>alla sua età conserva una memoria di ferro</E
+M>conservo ancora tutti i miei denti e il mio buon appetito</E
+M>ha conservato fino all’ultimo la coscienza e l’uso della parola</E
+M>conservarsi</E
+M>sono vini che si conservano</E
+M>chissà se questa carne si conserverà fino a giovedì</E
+M>si conserva bene nonostante la tarda età</E
+M>si conservi!</E
+M>conservatevi!</E

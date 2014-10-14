@@ -1,0 +1,54 @@
+tragedia.txt
+"Sfiorare una tragedia"
+"tragedia"
+"tragedia"
+* [[dramma]], opera drammatica, componimento tragico
+*[[commedia]], [[farsa]], [[comica]]
+*[[tragediografo]], [[tragediabile]], [[tragediante]], [[trageda]]
+*italiano
+*spagnolo
+M>tragoedia</E
+M>scrivere una t.</E
+M>mettere in scena</E
+M>rappresentare</E
+M>recitare una t.</E
+M>t. in versi</E
+M>in prosa</E
+M>le t. greche</E
+M>le t. di Eschilo</E
+M>Sofocle</E
+M>Euripide</E
+M>le t. romane</E
+M>le t. di Andronico</E
+M>di Pacuvio</E
+M>di Seneca</E
+M>le t. del Medioevo</E
+M>le t. del Rinascimento</E
+M>le t. di Racine</E
+M>le t. dell&#8217;Alfieri</E
+M>una t. in cinque atti</E
+M>uno studioso della t. greca</E
+M>romana</E
+M>la t. spagnola</E
+M>francese</E
+M>la t. rinascimentale</E
+M>del Seicento</E
+M>la t. raciniana</E
+M>alfieriana</E
+M>tragedìa</E
+M>Eneide</E
+M>comedìa</E
+M>Euripilo ebbe nome</E
+M> e così &#8217;l canta L&#8217;alta mia tragedìa in alcun loco</E
+M>Inf.</E
+M>Fera tragedia vuol che s&#8217;appresenti Per lor diporto a le nemiche genti</E
+M>la guerra è sempre una t.</E
+M>la morte improvvisa del padre fu una t. per tutta la famiglia</E
+M>capire cosa le accadeva</E
+M> sapere se dentro di lei stava svolgendosi una t. o semplicemente una guerra</E
+M>è stata una t.</E
+M>che tragedia!</E
+M>non è il caso di fare</E
+M>tante</E
+M>tragedie</E
+M>se trova la stanza in disordine è capace di fare una tragedia</E

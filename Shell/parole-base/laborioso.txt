@@ -1,0 +1,36 @@
+laborioso.txt
+"laborioso"
+"laborioso"
+"laborioso, operoso, studioso"
+*[[difficoltoso]]
+*[[indolente]]
+*italiano
+M>laboriosus</E
+M>labor</E
+M>oris</E
+M>Questa guerra fu più laboriosa Che alcuna altra</E
+M>procurar di oscurar le l</E
+M>invenzioni del prossimo</E
+M>parto l</E
+M>digestione l</E
+M>E ’l bue rumina nelle opache stalle La sua laboriosa lupinella</E
+M>seduta</E
+M>riunione l</E
+M>indagini</E
+M>ricerche</E
+M>trattative l</E
+M>i negoziati sono stati assai l</E
+M>studî l</E
+M>prosa l</E
+M>è un giovane molto l</E
+M>famiglia</E
+M>gente l</E
+M>mani</E
+M>braccia l</E
+M>mente laboriosa</E
+M>un paese l</E
+M>una città l</E
+M>giornata</E
+M>vita l</E
+M>le sue giornate trascorrono laboriosamente</E
+M>la conciliazione tra i due soci è stata laboriosamente raggiunta</E

@@ -1,0 +1,105 @@
+matrimonio.txt
+"anniversario di matrimonio"
+"annuncio di matrimonio"
+"atto di matrimonio"
+"celebrare un matrimonio"
+"celebrazione di matrimonio"
+"contratto di matrimonio"
+"da matrimonio"
+"festa di matrimonio"
+"invitato al matrimonio"
+"matrimonio"
+"matrimonio"
+"matrimonio"
+"festa di matrimonio"
+"matrimonio"
+"matrimonio bagnato, matrimonio fortunato."
+"matrimonio civile"
+"matrimonio civile"
+"matrimonio combinato"
+"matrimonio concordatario"
+"matrimonio d'amore"
+"matrimonio di convenienza"
+"matrimonio forzato (obbligato)"
+"matrimonio fra consanguinei"
+"matrimonio gay"
+"matrimonio in chiesa"
+"matrimonio misto"
+"matrimonio misto"
+"matrimonio misto"
+"matrimonio omosessuale"
+"matrimonio religioso"
+"matrimonio riparatore"
+"prima del matrimonio"
+"promessa di matrimonio"
+"promettere in matrimonio"
+"proposta di matrimonio"
+"proposta di matrimonio"
+"pubblicazioni (di matrimonio)"
+"ricevimento di matrimonio"
+"scioglimento, dissoluzione del matrimonio"
+"tacete per sempre (formula del matrimonio)"
+"unirsi in matrimonio"
+* [[matrimoniale]], [[quasi-matrimonio]], [[rimatrimonio]]
+*[[nozze]], [[sposalizio]]
+* ''sposarsi con un buon partito''
+*italiano
+*spagnolo
+M>matrimonium</E
+M>mater</E
+M>tris</E
+M>patrimonium</E
+M>marito</E
+M>moglie</E
+M>valido</E
+M>nullo</E
+M>consumare il m</E
+M>rato e consumato</E
+M>rato e non consumato</E
+M>impedimenti al m</E
+M>promessa di m</E
+M>scioglimento</E
+M>annullamento di m</E
+M>un m</E
+M>d’amore</E
+M>d’interesse</E
+M>di convenienza</E
+M>di necessità</E
+M>m. riparatore</E
+M>promettere</E
+M>dare in m</E
+M>legarsi</E
+M>congiungersi</E
+M>unirsi in m</E
+M>il m</E
+M>romano</E
+M>germanico</E
+M>cristiano</E
+M>cattolico</E
+M>morganatico</E
+M>di disparaggio</E
+M>putativo</E
+M>è stato un m</E
+M>felice</E
+M>si sono separati dopo 10 anni di matrimonio</E
+M>civile</E
+M>religioso</E
+M>canonico</E
+M>misto</E
+M>naturale</E
+M>concordatario</E
+M>di coscienza</E
+M>segreto</E
+M>in extremis</E
+M>per procura</E
+M>attentato</E
+M>testimoni al m</E
+M>del m</E
+M>celebrare il m</E
+M>benedire il m</E
+M>assistere al m.</E
+M>essere invitati a un m</E
+M>al m</E
+M>seguì un grande rinfresco</E
+M>dopo il m</E
+M>gli sposi partirono per un lungo viaggio di nozze</E

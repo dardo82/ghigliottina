@@ -1,0 +1,62 @@
+riunione.txt
+"breve riunione, breve seduta"
+"cancellare una riunione"
+"ottenere la parola (alla camera; in una riunione; ecc.)"
+"partecipare a una riunione"
+"presentarsi a una riunione"
+"presentarsi alla riunione"
+"presidente di riunione"
+"rapida riunione"
+"riunione"
+"riunione"
+"riunione a porte chiuse, incontro a porte chiuse"
+"riunione al vertice"
+"riunione di sole donne (fam.)"
+"riunione familiare"
+"riunione plenaria"
+"riunione tra amici"
+"tenere una riunione"
+"tenere una riunione"
+*[[raduno]], [[adunanza]], [[adunata]], [[assemblea]], [[congresso]], [[convegno]], [[incontro]], [[meeting]] tavola rotonda, [[convention]], [[consiglio]]; [[ricevimento]], [[festa]], [[party]]
+* [[vertice]], [[summit]]
+*[[riunire]], [[riunirsi]]
+M>unione</E
+M>ogni corpo consta di una r</E
+M>di molecole</E
+M>lottare per la r</E
+M>di una nazione arbitrariamente divisa in due stati</E
+M>il trasferimento consentirà la sua r</E
+M>con la moglie</E
+M>con la famiglia</E
+M>riconciliazione</E
+M>adoperarsi per la r</E
+M>di due coniugi separati</E
+M>adunanza</E
+M>assemblea</E
+M>partecipare a una r</E
+M>familiare</E
+M>di amici</E
+M>di vecchi compagni di scuola</E
+M>d&#8217;armi</E
+M>sindacale</E
+M>di partito</E
+M>di aderenti a un movimento</E
+M>di soci di un club</E
+M>indire</E
+M>tenere</E
+M>sciogliere una r</E
+M>andare</E
+M>mancare a una r</E
+M>di una commissione parlamentare</E
+M>del consiglio d&#8217;istituto</E
+M>di classe</E
+M>plenaria</E
+M>il presidente del circolo illustrò in poche parole lo scopo della r</E
+M>l&#8217;incontro fra i capi di stato fu preparato da alcune r</E
+M>preliminari dei ministri degli Esteri</E
+M>libertà di r</E
+M>sportiva</E
+M>riunione</E
+M>di pugilato</E
+M>di ciclismo su pista</E
+M>di ippica</E

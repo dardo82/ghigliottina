@@ -1,0 +1,7 @@
+trattenuta.txt
+"trattenuta"
+M>trattenere</E
+M>ritenuta</E
+M>fare una t.</E
+M>le t. sul salario</E
+M>sullo stipendio</E

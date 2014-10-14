@@ -1,0 +1,87 @@
+familiare.txt
+"a conduzione familiare"
+"accogliente, familiare"
+"affetto familiare"
+"affido familiare"
+"ambiente familiare"
+"assegno familiare"
+"azienda a gestione familiare"
+"azienda conduzione familiare"
+"consultorio familiare"
+"educazione familiare"
+"essere familiare"
+"famigliare, familiare"
+"familiare"
+"familiare"
+"familiare"
+"familiare"
+"familiare"
+"familiare a carico"
+"fare venire in mente, suonare familiare"
+"figlio di papà (familiare)"
+"gruppo familiare"
+"intimo, amichevole, familiare"
+"modo familiare"
+"modo familiare"
+"motivo familiare"
+"non familiare"
+"non familiare"
+"nucleo familiare"
+"pianificazione familiare"
+"piano familiare"
+"protezione familiare"
+"quoziente familiare"
+"ricongiungimento familiare"
+"riunione familiare"
+"salario familiare"
+"suonare familiare"
+"vettura familiare"
+#*''accoglienza familiare''
+* di casa, [[domestico]]
+*[[semplice]], [[naturale]], alla buona, [[schietto]]; [[affabile]], [[confidenziale]], [[amichevole]]
+*[[comune]], [[solito]], [[consueto]], [[ordinario]], [[abituale]], [[conosciuto]], [[noto]]
+*[[parente]], persona di famiglia, [[congiunto]], [[consanguineo]]
+*station wagon, [[giardinetta]]
+*[[famiglia]], [[familiarietà]], [[familiarizzare]], [[familiarmente]], [[familismo]]
+*[[famigliare]]
+m>familiaris</e
+m>familia</e
+m>faccende</e
+m>cure f</e
+m>rapporti f</e
+m>l&rsquo;orizzonte f. è un assassino</e
+m> un assassino giornaliero delle anime</e
+m>bilancio f</e
+m>assegni f</e
+m>azienda</e
+m>a conduzione</e
+m>lavoro f</e
+m>essere f</e
+m>con qualcuno</e
+m>avere f</e
+m>un luogo</e
+m>la lingua italiana gli è f</e
+m>come la nativa</e
+m>quel tono</e
+m>quegli atteggiamenti gli sono f</e
+m>conversazione f</e
+m>vocaboli</e
+m>locuzioni f</e
+m>uso f</e
+m>linguaggio f</e
+m>lessico f</e
+m>stile f</e
+m>modi troppo f</e
+m>alla f</e
+m>stile f</e
+m>riunire</e
+m>rivedere i f</e
+m>i proprî f</e
+m>alcun de&rsquo; famigliari Di quel sommo Ipocràte</e
+m>pontifici</e
+m>vettura f</e
+m>nella versione f</e
+m>carrozzeria f</e
+m>intrattenersi familiarmente con qualcuno</e
+m>accogliere</e
+m>trattare famigliarmente</e

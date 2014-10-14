@@ -1,0 +1,22 @@
+armadio.txt
+"armadio"
+"armadio"
+"armadio ad angolo"
+"armadio per la biancheria"
+"armadio per la biancheria"
+"cabina armadio"
+*[[armadino]], [[armadiolo]]
+*[[armario]]
+M>armarium</E
+M>arma</E
+M>madia</E
+M>l’a</E
+M>della biancheria</E
+M>dei vestiti</E
+M>a specchio</E
+M>guardaroba</E
+M>a muro</E
+M>frigorifero</E
+M>ripartilinee</E
+M>di distribuzione</E
+M>farmaceutico</E

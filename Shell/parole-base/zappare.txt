@@ -1,0 +1,29 @@
+zappare.txt
+"zappare"
+*[[zappa]], [[zappata]], [[zappatore]], [[zappatura]], [[zappettare]]
+*''il carnevale, il povero a '''zappare'''''
+*'''''zappare''' l'acqua''
+*''star coi frati e '''zappar''' l'orto''
+*'''''zappare''' i quattrini''
+*''non raccoglie né pane né mosto chi pota di maggio e '''zappa''' d'agosto''
+*''chi vuol fare del buon vino, '''zappi''' e poti a S. Martino''
+M>z. un campo</E
+M>la vigna</E
+M>l’orto</E
+M>il giardino</E
+M>andare</E
+M>mettersi a z.</E
+M>ma va a z.!</E
+M>chi vuole aver del mosto</E
+M> zappi le viti d’agosto</E
+M>io sto coi frati e zappo l’orto</E
+M>z. le trincee</E
+M>z. sotto a un baluardo</E
+M>a un bastione</E
+M>zappare</E
+M>z. il pianoforte</E
+M>l’organo</E
+M>z. i quattrini</E
+M>z. nella rena</E
+M>nell’acqua</E
+M>zappare</E

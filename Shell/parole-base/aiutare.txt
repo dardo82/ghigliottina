@@ -1,0 +1,45 @@
+aiutare.txt
+"aiutare"
+"aiutare"
+"aiutare a"
+"aiutare a crescere"
+"aiutare a decidere"
+"aiutare a fuggire, aiutare a scappare"
+"aiutare a salire"
+"aiutare a sviluppare"
+"aiutare e confortare"
+"aiutare in un momento di difficoltà"
+"aiutare qc a fare qc"
+"aiutare qcn. ad alzarsi"
+"aiutare qualcuno a tirare avanti"
+"aiutare, supportare, soccorrere"
+"dare aiuto a qc, aiutare qc"
+"dare una mano a qc, aiutare qc"
+"favorire; aiutare"
+"offrirsi di aiutare"
+*''(qualcuno a fare qualcosa)'' [[assistere]],[[soccorrere]], [[coadiuvare]], [[cooperare]], [[dare]] [[una]] [[mano]], [[appoggiare]], [[sostenere]], [[dare]] [[manforte]]
+*[[ostacolare]], [[osteggiare]], [[contrastare]], [[avversare]], [[boicottare]], [[nuocere]], [[mettere]] [[il]] [[bastone]] [[tra]] [[le]] [[ruote]] 
+M>adiutare</E
+M>adiuvare</E
+M>adiutus</E
+M>gli amici nelle difficoltà</E
+M>qualche santo ci aiuterà</E
+M>aiutami a risolvere questo problema</E
+M>si chiama ...</E
+M> si chiama ...</E
+M>aiutami a ricordare il nome</E
+M>aiutarsi l’un altro</E
+M>tra amici</E
+M> bisogna aiutarsi</E
+M>all’ingiù tutti i santi aiutano</E
+M>gente allegra Dio l’aiuta</E
+M>un bicchiere di vino aiuta la digestione</E
+M>Aiutami da lei</E
+M>famoso saggio</E
+M>aiùtati che Dio t’aiuta</E
+M>aiutarsi con le mani</E
+M>coi piedi</E
+M>con i proprî mezzi</E
+M>mi sono aiutato</E
+M> per farmi capire</E
+M> con quel po’ di tedesco che ricordavo</E

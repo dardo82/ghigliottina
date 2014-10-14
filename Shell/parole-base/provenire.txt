@@ -1,0 +1,32 @@
+provenire.txt
+"provenire"
+"provenire"
+"provenire da"
+"provenire da"
+"provenire da"
+#* '''proveniva''' da destra
+M>provenire</E
+M>pro</E
+M>venire</E
+M>venire</E
+M>i viaggiatori che provengono da Palermo trovano immediata coincidenza</E
+M>la città era piena di turisti</E
+M>che provenivano da ogni parte del mondo</E
+M>i profughi che provengono dalle zone alluvionate sono stati ospitati</E
+M>i treni che provengono dalle zone di montagna hanno spesso forti ritardi</E
+M>il porto si trova sulla destra per chi proviene dal nord</E
+M>un carico di caffè che proviene dal Brasile</E
+M>la notizia proviene da fonte attendibile</E
+M>è un errore che può p</E
+M>solo da ignoranza dell&#8217;argomento</E
+M>sono tutti guai che provengono dalla tua testardaggine</E
+M>si vanta di p</E
+M>da una famiglia di antica nobiltà</E
+M>treno</E
+M>piroscafo</E
+M>aereo proveniente da</E
+M>i viaggiatori</E
+M>le merci provenienti dall&#8217;estero</E
+M>disturbi provenienti da cattiva digestione</E
+M>liti</E
+M>contrasti provenienti in gran parte da malintesi</E

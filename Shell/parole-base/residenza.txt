@@ -1,0 +1,41 @@
+residenza.txt
+"artista in residenza"
+"cambio di residenza"
+"luogo di residenza"
+"prendere residenza, andare a vivere in un posto"
+"residenza"
+"residenza"
+"residenza"
+"residenza del governatore"
+"residenza estiva"
+"residenza religiosa"
+"residenza storica"
+M>residentia</E
+M>resid</E
+M>la sua r</E
+M>a Venezia è stata breve</E
+M>dopo un lungo periodo di r</E
+M>all&#8217;estero è rientrato in Italia</E
+M>la Riviera ligure è una r</E
+M>ambita per il clima</E
+M>residenza</E
+M>domicilio</E
+M>dimora</E
+M>soggiorno</E
+M>stabilire</E
+M>chiedere la propria r</E
+M>in un luogo</E
+M>cambiare r</E
+M>certificato di r</E
+M>familiare</E
+M>dei minori</E
+M>obbligo di r</E
+M>indennità di r</E
+M>Roma è la r</E
+M>del governo italiano</E
+M>Pavia fu la r</E
+M>dei re longobardi</E
+M>Cagliari è la r</E
+M>della Regione sarda</E
+M>la r</E
+M>del prefetto è all&#8217;ultimo piano del palazzo della prefettura</E

@@ -1,0 +1,289 @@
+base.txt
+"(su prima, seconda o terza base)"
+"sports, baseball"
+"a base"
+"in base"
+"addestramento di base"
+"agire in base a"
+"Alla base di"
+"at the bottom of, at the base of"
+"avere una base"
+"based"
+"having a base"
+"base"
+"base"
+"base"
+"base"
+"base"
+"base camp"
+"base"
+"base musicale"
+"base"
+"base, foundation"
+"base"
+"base"
+"base"
+"base"
+"base"
+"base "
+"base"
+"di base, basilare"
+"base"
+"baseball: zona del campo"
+"base"
+"baseball"
+"base"
+"base"
+"base"
+"tributi: base imponibile"
+"tax base"
+"base"
+"base, base form"
+"base"
+"membership, membership base"
+"base"
+"informatica: base di dati"
+"database"
+"base aerea"
+"air base"
+"base avanzata"
+"advance base"
+"base dati"
+"database"
+"base di calcestruzzo"
+"base di comparizione"
+"base lunare"
+"lunar base"
+"base lunare"
+"moon base"
+"base militare"
+"military base"
+"base musicale"
+"musical base, pre-recorded accompaniment"
+"base operaia"
+"base operativa"
+"base of operations"
+"base protettiva, rinforzante"
+"base layer"
+"base teorica"
+"bevanda alcolica a base di zabaione"
+"cambio base"
+"base exchange"
+"campo base"
+"base camp"
+"carico di base"
+"base load"
+"casa base (baseball)"
+"home base"
+"cibo a base di proteine sierose"
+"corsa alla casa base (baseball)"
+"corso base"
+"base course"
+"di base"
+"difensore della prima base (sport)"
+"first baseman"
+"elettorato di base"
+"esterno alla base (mil.)"
+"off base"
+"esterno alla base (mil.)"
+"off-base"
+"ex ante; in base ai cambiamenti previsti nell'economia"
+"ex post; in base al comportamento passato dell'economia"
+"farmaco a base di oppio"
+"based on opium"
+"giocatore sostituto di un base runner"
+"baseball"
+"home plate (base del baseball)"
+"hot corner (posizione del terzo uomo-base; baseball)"
+"il prezzo varia in base a"
+"in base a"
+"in base a"
+"in base a cui"
+"in base a disponibilità"
+"based on availability, as available"
+"in base alle esigenze"
+"based on need, as necessary"
+"in base alle necessità"
+"based on need, as necessary"
+"informazioni di base"
+"ingegneria di base"
+"inglese di base"
+"isola galleggiante; dolce a base di crema"
+"istruzione base"
+"linea base"
+"base line"
+"livello base"
+"base level"
+"medico di base"
+"modello base"
+"motivi alla base di"
+"olio base"
+"base oil"
+"pacchetto base"
+"paga base"
+"base pay"
+"paga base"
+"base wage"
+"paga base, tariffa base"
+"pasto a base di pesce"
+"periodo base"
+"base period"
+"peso base"
+"piatto a base di maiale e fagioli"
+"popolare, di base"
+"prezzo base"
+"base price"
+"prima base"
+"first base"
+"principi base"
+"processo di base"
+"punto base"
+"base point"
+"quota base"
+"base fee"
+"regola di base"
+"regole di base"
+"relazione di base"
+"relazione di base"
+"salario base"
+"salario base"
+"base salary"
+"seconda base"
+"second base"
+"stipendio di base"
+"sulla base di"
+"based"
+"on the base of"
+"tasso base"
+"tasso base"
+"base rate"
+"tasso di base"
+"terza base"
+"third base"
+"terza base"
+"third baseman"
+*''(militare) '' [[campo-base]], [[campo]], [[quartiere]], [[alloggiamento]], [[acquartieramento]] 
+*[[casa-base]], [[basista]]
+*[[basetta]]
+*italiano
+*inglese
+*spagnolo
+M>basis</E
+M>di una colonna</E
+M>di un pilastro</E
+M>rettangolare</E
+M>circolare</E
+M>quadrata</E
+M>la statua è collocata sopra una b</E
+M>di travertino</E
+M>il vaso è troppo stretto alla b</E
+M>e non regge bene</E
+M>di un organo</E
+M>del polmone</E
+M>del cranio</E
+M>fondamento</E
+M>gettare le</E
+M>di un edificio</E
+M>costruzione che poggia sopra solide basi</E
+M>del triangolo</E
+M>del quadrato</E
+M>della piramide</E
+M>del cilindro</E
+M>geodetica</E
+M>d’una lente</E
+M>ipotesi priva di base</E
+M>accuse che non hanno base</E
+M>abbiamo opinioni troppo diverse</E
+M>e manca perciò una b</E
+M>comune per una serena discussione</E
+M>è un’attenta analisi del testo</E
+M>che potrà servire di base per un più ampio saggio critico</E
+M>la legge dell’amore è alla b</E
+M>della religione cristiana</E
+M>ruinosa è senza La b</E
+M>del timor ogni clemenza</E
+M>in base a</E
+M>sulla b</E
+M>è stato arrestato in b</E
+M>a gravi indizî</E
+M>sulla base delle ricerche fatte</E
+M>si può legittimamente dedurre</E
+M>ricerca di base</E
+M>ricerca applicata</E
+M>ricerca pura</E
+M>industrie di b</E
+M>prodotti di b</E
+M>dell’imposta</E
+M>gettare le b</E
+M>di un’impresa</E
+M>di una società</E
+M>della prosperità futura</E
+M>porre le b</E
+M>per un accordo</E
+M>cultura</E
+M>capacità professionale che ha b</E
+M>solide</E
+M>uno scolaro che manca di basi</E
+M>karaoke</E
+M>a base di</E
+M>un dolce a b</E
+M>di cioccolata</E
+M>alimentazione a b</E
+M>di verdure</E
+M>di latticinî</E
+M>la nota b</E
+M>prezzo b</E
+M>salario b</E
+M>stipendio b</E
+M>problema</E
+M>argomento</E
+M>criterio b</E
+M>idea base</E
+M>vertice</E
+M>darsi</E
+M>formarsi una b</E
+M>consultare la b</E
+M>fare ricorso alla b</E
+M>elettorale</E
+M>comitati di base</E
+M>logistica</E
+M>militare</E
+M>di fuoco</E
+M>navale</E
+M>aero</E
+M>navale</E
+M>logistiche</E
+M>di operazione</E
+M>operative</E
+M>aerea</E
+M>missilistica</E
+M>orbitale</E
+M>spaziale</E
+M>rientrare</E
+M>tornare</E
+M>fare ritorno alla b</E
+M>di partenza</E
+M>non fare ritorno alla b</E
+M>il libro te lo presto</E
+M>ma vorrei che rientrasse alla b</E
+M>quanto prima</E
+M>base</E
+M>di una potenza ax</E
+M>logaritmo in base a</E
+M>di un sistema di numerazione</E
+M>numerazione in base 10</E
+M>basi</E
+M>basi</E
+M>apofonica</E
+M>d’articolazione</E
+M>articolatoria</E
+M>di comparazione</E
+M>base</E
+M>piede</E
+M>dipodia</E
+M>eolica</E
+M>bassa</E
+M>base</E
+M>passe</E
+M>base di ricovero</E
+M>impegnativa</E

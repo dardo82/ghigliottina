@@ -1,0 +1,102 @@
+canale.txt
+"canale"
+"canale"
+"canale"
+"canale"
+"canale alimentare"
+"canale anale"
+"canale audio"
+"canale comunicativo"
+"canale d'acqua"
+"canale d'acqua per il mulino"
+"canale d'acqua per il mulino"
+"canale d'informazioni"
+"canale del parto"
+"canale di arresto"
+"canale di fuoriuscita"
+"canale di irrigazione"
+"canale di scarico"
+"canale di scolo"
+"canale di scolo"
+"canale di trasmissione"
+"canale di vendita"
+"canale distributivo"
+"canale idrico"
+"canale incrociato"
+"canale navigabile"
+"canale per i panni sporchi"
+"canale radio"
+"canale televisivo"
+"canale televisivo di notizie"
+"canale TV"
+"canale uditivo"
+"canale vertebrale"
+"canale video"
+"irregolarità del fondo stradale, canale di scolo trasversale"
+"selettore di canale"
+*[[tubo]] 
+*[[canale tematico]], [[canalizzato]]
+* Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, pagina 326
+M>canalis</E
+M>canna</E
+M>marittimi</E
+M>di Suez</E
+M>di Panama</E
+M>navigabili</E
+M>di collegamento</E
+M>latera</E
+M>d’estuario</E
+M>di bonifica</E
+M>d’irrigazione</E
+M>irrigui</E
+M>di drenaggio</E
+M>di scolo</E
+M>di derivazione</E
+M>moderatore</E
+M>di impluvio</E
+M>di conversa</E
+M>di gronda</E
+M>grondaia</E
+M>coppi</E
+M>della Manica</E
+M>di Sicilia</E
+M>canali della Dalmazia</E
+M>di marea</E
+M>canalone</E
+M>di Brenta</E
+M>di sicurezza</E
+M>dragato</E
+M>di circolazione</E
+M>di flottaggio</E
+M>canali di Marte</E
+M>canaletto</E
+M>traccia</E
+M>pista</E
+M>uretrale</E
+M>vertebrale</E
+M>alimentare</E
+M>resinifero</E
+M>aerifero</E
+M>fisso</E
+M>oscillante</E
+M>vibrante</E
+M>trasportatore</E
+M>telefonico</E
+M>radiofonici</E
+M>televisivi</E
+M>elettroacustico</E
+M>a più canali</E
+M>di sinistra</E
+M>di destra</E
+M>degli alti</E
+M>dei bassi</E
+M>raggi canale</E
+M>la rete dei c</E
+M>di distribuzione dei prodotti agricoli</E
+M>i normali c</E
+M>di erogazione del pubblico denaro</E
+M>i c</E
+M>della pubblicità</E
+M>pubblicitarî</E
+M>stringere contatti attraverso i normali c</E
+M>diplomatici</E

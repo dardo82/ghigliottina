@@ -1,0 +1,166 @@
+pasta.txt
+"avere le mani in pasta"
+"della stessa pasta"
+"insalata di pasta"
+"pasta"
+"pasta"
+"pastasciutta"
+"pasta"
+"pasta"
+"pasta"
+"pasta"
+"pasta al pesto"
+"pasta with pesto sauce"
+"pasta al sugo"
+"pasta with tomato sauce"
+"pasta corta"
+"short pasta pieces"
+"pasta di legno"
+"pasta di mandorle"
+"pasta e ceci"
+"pasta with chickpeas"
+"pasta e fagioli"
+"pasta with beans"
+"pasta e formaggio"
+"pasta fresca"
+"fresh pasta"
+"pasta frolla"
+"pasta in bianco"
+"pasta with butter or oil, plain pasta"
+"pasta in brodo"
+"pasta in soup"
+"pasta lunga"
+"long pasta"
+"pasta sfoglia"
+"pasta sfoglia"
+"pasta stesa, pasta tirata"
+"pasta tirata, pasta stesa"
+"paste danesi (di pasta sfoglia)"
+"pasticcio di carne e verdure o di spezzatino e pasta"
+"pesca dalla pasta gialla"
+"piatto di pasta"
+"plate of pasta"
+"pasta dish"
+"vediamo di che pasta sei fatto!"
+"vermicelli (pasta)"
+#*''La '''pasta''' dentifricia era di colore verde''
+#*''La '''pasta''' per le tagliatelle è fatta con le uova''
+*[[pastasciutta]], ,[[dolce]]
+*[[biscotto]]
+* [[impastare]],  [[pasta dentifricia]],  [[pastaio]],  [[pastasciutta]] o [[pasta asciutta]],  [[pastiera]]
+* ''vedere di che 
+* ''essere fatti della stessa 
+M>pasta</E
+M>alimentare</E
+M>pasta</E
+M>fatta in casa</E
+M>comune</E
+M>speciale</E
+M>all&#8217;uovo</E
+M>alla verdura</E
+M>verde</E
+M>integrale</E
+M>dietetica</E
+M>glutinata</E
+M>lunga</E
+M>corta</E
+M>piccola</E
+M>liscia</E
+M>rigata</E
+M>cilindrica</E
+M>a nido</E
+M>da brodo</E
+M>da minestra</E
+M>fresca</E
+M>secca</E
+M>fare la p</E
+M>far gonfiare</E
+M>far lievitare la p</E
+M>rimenare la p</E
+M>spianare</E
+M>tirare la p</E
+M>soda</E
+M>leggera</E
+M>soffice</E
+M>cuocere la p</E
+M>buttare</E
+M>metter giù</E
+M>la p</E
+M>levare</E
+M>tirar su</E
+M>scolare la p</E
+M>condire la pasta</E
+M>al dente</E
+M>al forno</E
+M>asciutta</E
+M>al sugo</E
+M>al pomodoro</E
+M>al burro</E
+M>in bianco</E
+M>al burro e sugo</E
+M>e fagioli</E
+M>avere le mani in pasta</E
+M>ha le mani in p</E
+M>in tutti gli affari del comune</E
+M>mettere le mani</E
+M>metter mano</E
+M>in p</E
+M>A Salicorno par la cosa guasta</E
+M> E pentesi aver messo mano in p</E
+M>trarre le mani di p</E
+M>sfoglia</E
+M>frolla</E
+M>pastafrolla</E
+M>reale</E
+M>di mandorle</E
+M>reale</E
+M>essere molto goloso di paste</E
+M>un vassoio di p</E
+M>assortite</E
+M>adesiva</E
+M>dentifricia</E
+M>di acciughe</E
+M>ridurre l&#8217;argilla in p</E
+M>intridendola d&#8217;acqua</E
+M>pomata</E
+M>detersiva</E
+M>ceramica</E
+M>di cemento</E
+M>normale</E
+M>di legno</E
+M>meccanica</E
+M>chimica</E
+M>meccanico</E
+M>chimica</E
+M>di paglia</E
+M>carne</E
+M>polpa</E
+M>pesche a p</E
+M>bianca</E
+M>gialla</E
+M>rossa</E
+M>fondamentale</E
+M>massa fondamentale</E
+M>siamo tutti della stessa p</E
+M>che p</E
+M>d&#8217;uomo sei?</E
+M>io sono fatto d&#8217;altra p</E
+M>essere di buona p</E
+M>essere una buona</E
+M>un&#8217;ottima p</E
+M>d&#8217;uomo</E
+M>essere la più buona</E
+M> la migliore p</E
+M>del mondo</E
+M>ma quand&#8217;è pronto</E
+M> non bisogna farlo aspettare</E
+M> perché</E
+M> sebbene sia della miglior p</E
+M>del mondo</E
+M> allora s&#8217;impazientisce e strepita</E
+M>la più buona ed onesta p</E
+M>d&#8217;uomo</E
+M>essere di grossa p</E
+M>per ciò che uomo idiota era e di grossa p.</E
+M>tu hai a saper che io sono di grossa p</E
+M>e cervello tondo</E

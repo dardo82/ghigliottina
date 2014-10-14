@@ -1,0 +1,102 @@
+entrata.txt
+"bordo d'entrata"
+"dato di entrata"
+"entrata"
+"entrata"
+"entrata"
+"entrata"
+"entrata"
+"entrata"
+"entrata di servizio"
+"entrata economica"
+"entrata in carica"
+"entrata libera"
+"entrata media"
+"fade-in, dissolvenza in ingresso, dissolvenza in entrata"
+"firmare l'entrata"
+"impedire l'entrata"
+"impedire l'entrata"
+"in entrata"
+"la palla non è entrata!!"
+"ottenere un'entrata; un reddito"
+"permesso di entrata"
+"porto d'entrata"
+"timbrare il cartellino all'entrata"
+"timbrare il cartellino in entrata"
+#* ''l'[[entrata]] degli operai''
+#* ''l'[[entrata]] del teatro è a pochi metri''
+#* nel suo [[appartamento]] c'è una grande [[entrata]]
+#* ''L'[[entrata]] ( più comune
+#* l'[[arbitro]] ha [[punito]] la  sua [[entrata]] 
+#* ''ho pagato l'[[entrata]]''
+#* l'[[entrata]] dell'[[inverno]]
+*''(l’entrare)'' [[ingresso]] 
+*''(luogo per cui si entra)'' [[accesso]], [[uscio]], [[vestibolo]], [[anticamera]], [[andito]]
+*''(di appartamento o palazzo)'' [[atrio]], [[hall]]
+*''(specialmente all’aperto) [[imbocco]], [[passaggio]] 
+*''(in dizionari, enciclopedie ecc.)'' [[voce]], [[esponente]]
+*''(guadagno)''[[guadagno]],[[introito]], [[ricavo]], [[provento]], [[reddito]], [[emolumento]], [[credito]] 
+* [[congedo]], [[costo]], [[debito]], [[partenza]]
+*''(guadagno)'' [[perdita]] 
+*[[entratura]], [[entrare]]
+* [[arrivo]]
+M>l’e</E
+M>del porto</E
+M>della miniera</E
+M>della grotta</E
+M>chiusero tutte le e</E
+M>della città</E
+M>l’e</E
+M>al loggione è da questa parte</E
+M>secondaria</E
+M>di servizio</E
+M>l’e</E
+M>di Carlo VIII in Firenze</E
+M>in guerra</E
+M>l’e</E
+M>in carica di un magistrato</E
+M>ingresso</E
+M>libera</E
+M>permettere</E
+M>impedire l’e</E
+M>è vietata l’e</E
+M>di favore</E
+M>ingresso</E
+M>hai pagato l’e.?</E
+M>entratura</E
+M>Dazî</E
+M>diritti di e</E
+M>Bollettino d’e</E
+M>anticipare</E
+M>posporre di un’ora l’entrata</E
+M>ingresso</E
+M>ingresso</E
+M>input</E
+M>dati in entrata</E
+M>unità di entrata</E
+M>entrate dei clown</E
+M>suite</E
+M>introduzione</E
+M>entrée</E
+M>ha mille euro d’e</E
+M>mensile</E
+M>le e</E
+M>sono molto diminuite</E
+M>registrare le e</E
+M>e le uscite</E
+M>segnare in entrata</E
+M>Entrate dello stato e degli enti pubblici</E
+M>ordinarie</E
+M>straordinarie</E
+M>originarie</E
+M>di diritto privato</E
+M>derivate</E
+M>di diritto pubblico</E
+M>effettive</E
+M>non effettive</E
+M>per movimento di capitale</E
+M>per partita di giro</E
+M>Imposta generale sull’e</E
+M>imposta sul valore aggiunto</E
+M>entry</E
+M>lemma</E

@@ -1,0 +1,40 @@
+alleanza.txt
+"alleanza"
+"alleanza strategica"
+#* [[arma d'alleanza]]
+*''(fra stati)'' [[lega]], [[patto]], [[convenzione]], [[federazione]], [[confederazione]], [[coalizione]] 
+*''(fra persone, gruppi )'' [[coalizione]], [[intesa]], [[unione]], [[collaborazione]], [[aiuto]]
+*''(fra persone, gruppi )'' [[ostilità]], [[antagonismo]]
+M>alliance</E
+M>contrarre</E
+M>sottoscrivere</E
+M>stringere</E
+M>rompere</E
+M>denunciare un’a.</E
+M>pacifica</E
+M>bellica</E
+M>offensiva</E
+M>difensiva</E
+M>l’ a</E
+M>tra Francia e Gran Bretagna</E
+M>franco</E
+M>britannica</E
+M>la duplice</E
+M>la triplice</E
+M>la quadruplice a</E
+M>Grande A</E
+M>Santa A</E
+M>atlantica</E
+M>elettorale</E
+M>sistema di alleanze</E
+M>parlamentari</E
+M>atipica</E
+M>innaturale</E
+M>A. Nazionale</E
+M>A. Democratica</E
+M>armi di a</E
+M>di parentela</E
+M>arca dell’alleanza</E
+M>vecchia a</E
+M>vecchio patto</E
+M>nuova a</E

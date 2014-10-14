@@ -1,0 +1,97 @@
+ottimo.txt
+"buon lavoro, bel lavoro, ottimo lavoro"
+"ottimo"
+"ottimo"
+"ottimo"
+"ottimo (giudizio scolastico)"
+#*''finalmente ho raggiunto l'[[ottimo]] della forma''
+*[[eccellente]],[[magnifico]], [[splendido]], [[stupendo]] 
+*[[pessimo]]
+*[[ottimale]], [[ottimamente]], [[ottimismo]], [[ottimizzare]]
+M>opt</E
+M>mus</E
+M>ops opis</E
+M>bonus</E
+M>buono</E
+M>buonissimo</E
+M>buono</E
+M>un’o</E
+M>persona</E
+M>un o</E
+M>giovane</E
+M>ha un o</E
+M>cuore</E
+M>un o</E
+M>carattere</E
+M>è di o</E
+M>sentimenti</E
+M>di o</E
+M>principî</E
+M>un o</E
+M>padre</E
+M>un o</E
+M>marito</E
+M>un’o</E
+M>madre di famiglia</E
+M>è un o</E
+M>amico</E
+M>un o</E
+M>impiegato</E
+M>un o</E
+M>operaio</E
+M>ottimo</E
+M>proviene da un’o</E
+M>famiglia</E
+M>è un o</E
+M>televisore</E
+M>ha ancora un’o</E
+M>vista</E
+M>uve che danno un o</E
+M>vino</E
+M>casa</E
+M>barca</E
+M>libri in o</E
+M>stato</E
+M>avere un’o</E
+M>salute</E
+M>essere di o</E
+M>umore</E
+M>la cena è stata o</E
+M>abbiamo avuto un o</E
+M>trattamento</E
+M>siamo stati in o</E
+M>compagnia</E
+M>i risultati sono o</E
+M>è un o</E
+M>affare</E
+M>ha un o</E
+M>posto</E
+M>mi pare un’o</E
+M>occasione</E
+M>è un’o</E
+M>idea!</E
+M>m’ha dato un o</E
+M>consiglio</E
+M>mi fece un’o</E
+M>impressione</E
+M>sono in o</E
+M>rapporti con lui</E
+M>configurazione o</E
+M>ottimale</E
+M>ottimo economico</E
+M>paretiano</E
+M>dimensione o</E
+M>buonissimo</E
+M>Giove O</E
+M>Massimo</E
+M>Dio O</E
+M>Massimo</E
+M>optimum</E
+M>l’o</E
+M>della produzione</E
+M>l’o</E
+M>delle condizioni ambientali</E
+M>sto ottimamente</E
+M>hai agito ottimamente</E
+M>il viaggio è andato ottimamente</E
+M>ottimamente!</E

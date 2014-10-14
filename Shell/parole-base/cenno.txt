@@ -1,0 +1,46 @@
+cenno.txt
+"cenno"
+"cenno"
+"cenno di saluto"
+"chiamare con un cenno"
+"chiamare un taxi con un cenno, fare cenno a un taxi"
+"dare una cenno di riscontro"
+"fare cenno"
+"fare cenno"
+"fare cenno a"
+"fare cenno con il capo"
+"fare cenno di tacere senza parlare"
+"fare un cenno"
+"fare un cenno"
+"fare un cenno da"
+"nemmeno un cenno"
+*[[gesto]], [[segno]], lieve movimento, segno d’intesa, [[accenno]], [[ammicco]]
+M>nnus</E
+M>mi fece un rapido c</E
+M>con gli occhi</E
+M>mi chiamava a cenni da lontano</E
+M>intendersi a cenni</E
+M>Volsersi a me con salutevol cenno</E
+M>fare cenno</E
+M>faceva cenno di no col capo</E
+M>bada di non fare c</E
+M>della cosa con nessuno</E
+M>mi fece c</E
+M>di tacere</E
+M>di andarmene</E
+M>siate pronti al mio c</E
+M>gli basta un c</E
+M>per ottenere ciò che vuole</E
+M>Con tamburi e con cenni di castella</E
+M>la campana piccola</E
+M>suonò il primo c</E
+M>della messa</E
+M>suonato il secondo c</E
+M>scappavano alla prima messa</E
+M>avviamoci</E
+M>è suonato già il cenno</E
+M>ho avvertito qualche c</E
+M>di tempesta</E
+M>mi ha dato per lettera qualche cenno dell’accaduto</E
+M>cenni sulla vita di Garibaldi</E
+M>cenni di storia dell’arte</E

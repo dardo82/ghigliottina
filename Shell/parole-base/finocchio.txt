@@ -1,0 +1,54 @@
+finocchio.txt
+"finocchio"
+"finocchio"
+"frocio, finocchio"
+"seme di finocchio"
+* [[finocchiana]],  [[finocchiata]],  [[finocchiella]],  [[finocchino]], [[finocchiona]],  [[infinocchiare]]
+* [[finocchio alpino]]
+*Devoto/Oli, '' Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 822
+M>fen</E
+M>lum</E
+M>fenic</E
+M>lum</E
+M>foenic</E
+M>lum</E
+M>Foeniculum vulgare</E
+M>arancino</E
+M>Foeniculum vulgare</E
+M>piperitum</E
+M>forte</E
+M>selvatico</E
+M>Foeniculum vulgare</E
+M>vulgare</E
+M>dolce</E
+M>di Roma</E
+M>dulce</E
+M>semi di finocchio</E
+M>essenza di finocchio</E
+M>di Bologna</E
+M>di Chioggia</E
+M>azoricum</E
+M>mangiare un f</E
+M>crudo</E
+M>sformato di finocchi</E
+M>maschio</E
+M>femmina</E
+M>condire i fegatelli col finocchio</E
+M>acquatico</E
+M>alpino</E
+M>finocchiana</E
+M>finocchiella</E
+M>Meum athamanticum</E
+M>d’alpe</E
+M>alpino</E
+M>Ligusticum mutellinoides</E
+M>fetido</E
+M>aneto</E
+M>marino</E
+M>Crithmum maritimum</E
+M>cretamo</E
+M>critmo</E
+M>bacicci</E
+M>baciglia</E
+M>porcino</E
+M>Peucedanum officinale</E

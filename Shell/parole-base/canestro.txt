@@ -1,0 +1,15 @@
+canestro.txt
+"canestro"
+"canestro"
+"ferro del canestro"
+*[[paniere]]
+M>canistrum</E
+M>abbiamo colto un c</E
+M>di fichi</E
+M>cesto</E
+M>tabellone</E
+M>fare un c</E
+M>andare a c</E
+M>cellule di Purkinje</E
+M>cellule del c</E
+M>canister</E

@@ -1,0 +1,33 @@
+friggere.txt
+"friggere"
+"friggere"
+"friggere"
+"friggere"
+"friggere in abbondante olio"
+"friggere in olio abbondante"
+"padella per friggere"
+"padella per friggere"
+"pesce per friggere"
+"pollo da friggere"
+#*''quei rami verdi messi sul fuoco friggono''
+*[[friggimento]]
+M>io friggo</E
+M>tu friggi</E
+M>frissi</E
+M>friggésti</E
+M>fritto</E
+M>il pesce</E
+M>la carne</E
+M>le patate</E
+M>in padella</E
+M>nel tegamino</E
+M>mandare qualcuno a farsi f</E
+M>andare a farsi f</E
+M>andate a farvi f</E
+M>voi e le vostre chiacchiere!</E
+M>si è impegnato in speculazioni sbagliate e i suoi capitali sono andati a farsi f</E
+M>tutti i suoi bei progetti sono andati a farsi friggere</E
+M>avere</E
+M>l’olio comincia a friggere</E
+M>non gli dissi nulla ma friggevo dentro di me</E
+M>friggere dall’impazienza</E

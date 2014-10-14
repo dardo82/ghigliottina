@@ -1,0 +1,342 @@
+fuoco.txt
+"a fuoco"
+"a fuoco"
+"a fuoco"
+"accessori per armi da fuoco"
+"andare a fuoco"
+"anello di fuoco"
+"appiccare il fuoco"
+"aprire il fuoco"
+"arma a fuoco"
+"arma da fuoco"
+"arma da fuoco"
+"arma da fuoco"
+"arma da fuoco"
+"arma da fuoco"
+"arma da fuoco"
+"arma da fuoco a carica frontale"
+"attizzare il fuoco"
+"atto a pulire le armi da fuoco"
+"barriera di fuoco"
+"battesimo col fuoco"
+"battesimo del fuoco"
+"buca per il fuoco"
+"c'è molta carne al fuoco"
+"caldo come il fuoco"
+"candela romana, fuoco d'artificio"
+"capo dei vigili del fuoco"
+"carica frontale (per arma da fuoco)"
+"cessare il fuoco"
+"cessate il fuoco"
+"cessate il fuoco"
+"cessato fuoco"
+"che mangia il fuoco"
+"colpito da arma da fuoco"
+"colpo di fuoco batterico"
+"comandante dei vigili del fuoco"
+"copertura di fuoco"
+"corpo dei vigili del fuoco"
+"danza del fuoco"
+"dar fuoco a"
+"dare fuoco"
+"dare fuoco"
+"dio del fuoco"
+"disaccordo generale, fuoco incrociato"
+"distruggere (del fuoco)"
+"distruggere (del fuoco)"
+"divorato dal fuoco, arso"
+"esca (per fuoco)"
+"fare fuoco"
+"formica di fuoco"
+"forza del fuoco"
+"fuoco"
+"fuoco"
+"fuoco"
+"fuoco"
+"fuoco"
+"fuoco a raffica"
+"fuoco a ripetizione"
+"fuoco al fuoco"
+"fuoco antiaereo"
+"fuoco crepitante"
+"fuoco crepitante"
+"fuoco d'artificio"
+"fuoco d'artificio circolare"
+"fuoco di fila"
+"fuoco di mitragliatrice"
+"fuoco di paglia"
+"fuoco di S. Antonio"
+"fuoco di S. Antonio"
+"fuoco di Sant'Antonio"
+"fuoco diretto sul bersaglio"
+"fuoco fatuo"
+"fuoco fatuo"
+"fuoco greco"
+"fuoco incrociato"
+"fuoco incrociato"
+"fuoco infernale"
+"fuoco liquido"
+"fuoco perenne"
+"fuoco primario"
+"fuoco principale"
+"fuoco rovente"
+"gettare benzina sul fuoco, versare benzina sul fuoco"
+"giornata di fuoco"
+"gruppo di fuoco"
+"linea di fuoco; prima linea"
+"lingua di fuoco"
+"lotta al fuoco"
+"messa a fuoco"
+"mettere a ferro e fuoco"
+"mettere a fuoco"
+"mettere a fuoco"
+"mettere a fuoco"
+"mettere sul fuoco"
+"mettere troppa carne al fuoco"
+"non a fuoco"
+"palla di fuoco"
+"pompiere, vigile del fuoco"
+"prendere fuoco"
+"prendere fuoco"
+"prendere fuoco"
+#* ''segni di '''fuoco'''''
+*[[rocca-fuoco]], [[buttafuoco]], [[tagliafuoco]], [[focone]],[[rocca-fuoco]], [[battifuoco]], [[bassofuoco]], [[parafuoco]],[[fuochi d'artificio]] 
+*[[carbone]], [[legna]], [[paglia]]
+*''col 
+*''
+*'' 
+* '' dar fuoco''
+*''prender fuoco''
+* '' far fuoco''
+*''far 
+*''mettere a ferro e fuoco''
+*''tra due fuochi''
+*Enciclopedia [http
+*AA.VV.,''Dizionario etimologico'', edizione 2004, ristampa 2008, RusconiLibri p.&nbsp;418
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p.&nbsp;872
+* en.wiktionary (''[[
+M>cus</E
+M>fuòchi</E
+M>fuòcora</E
+M>fiamma</E
+M>l’impeto</E
+M>la violenza del f</E
+M>il f</E
+M>riscalda</E
+M> brucia</E
+M>distrugge</E
+M>il culto</E
+M>gli adoratori del fuoco</E
+M>di legna</E
+M>di carbone</E
+M>di fascine</E
+M>il f</E
+M>del caminetto</E
+M>un bel f</E
+M>un buon f</E
+M>un f</E
+M>allegro</E
+M>vivace</E
+M>scoppiettante</E
+M>il f</E
+M>si appiglia</E
+M>si apprende</E
+M>arde</E
+M>divampa</E
+M>far f</E
+M>accendere</E
+M>avviare</E
+M>attizzare</E
+M>sbraciare</E
+M>lasciar</E
+M>spegnere il f</E
+M>attaccare</E
+M>appiccare il f</E
+M>a un oggetto</E
+M>dare f</E
+M>bisognerebbe dar f</E
+M>a tutte queste carte inutili</E
+M>minacciava di dar f</E
+M>alla casa</E
+M>dammi un po’ di f</E
+M>prendere</E
+M>pigliar f</E
+M>persona che piglia f</E
+M>facilmente</E
+M>roba da buttare nel f</E
+M>buttarsi nel f</E
+M>per qualcuno</E
+M>lingue di f</E
+M>A fuoco</E
+M>lavorare</E
+M>saldare</E
+M>dorare</E
+M>verniciare a f</E
+M>bollare a f</E
+M>Prova del f</E
+M>metterei la mano sul f</E
+M>al fuoco! al fuoco!</E
+M>suonare a f</E
+M>mettere una regione a f</E
+M>e fiamme</E
+M>a ferro e f</E
+M>una palettata di f</E
+M>mettere il f</E
+M>a letto</E
+M>fuochi di gioia</E
+M>il f</E
+M>sacro</E
+M>eterno</E
+M>fatui</E
+M>naturali</E
+M>fuochi della terra</E
+M>fontane ardenti</E
+M>olimpico</E
+M>fiaccola olimpica</E
+M>Fuochi di sant’Elmo</E
+M>di sant’Ermo</E
+M>Elmo</E
+M>Ermo</E
+M>Elemus</E
+M>Elmus</E
+M>Ermus</E
+M>Elmo</E
+M>Telmo</E
+M>Non scese mai con sì veloce moto Foco di spessa nube</E
+M>E cade da le nubi aereo fuoco</E
+M>cucina a due</E
+M>tre f</E
+M>mettere la pentola al f</E
+M>sul f</E
+M>levare la teglia dal f</E
+M>cuocere a f</E
+M>vivo</E
+M>a f</E
+M>lento</E
+M>a f</E
+M>moderato</E
+M>mettere troppa carne al f</E
+M>stare</E
+M>raccogliersi intorno al f</E
+M>in un canto del f</E
+M>Lungi a’ f</E
+M>paterni oramai siete</E
+M>libro</E
+M>lista dei f</E
+M>focatico</E
+M>accendere</E
+M>attivare</E
+M>spegnere i fuochi</E
+M>hai le mani</E
+M>la fronte di f</E
+M>che ti bruciano come il f</E
+M>mi sento un f</E
+M>nello stomaco</E
+M>nelle viscere</E
+M>è un liquore che mette il f</E
+M>in gola</E
+M>diventare di f</E
+M>il f</E
+M>della gioventù</E
+M>dei vent’anni</E
+M>possibile che abbiate ancora addosso tutto quel f</E
+M>dopo tante cose!</E
+M>di carità</E
+M>il f</E
+M>della passione</E
+M>dello sdegno</E
+M>dell’ira</E
+M>mettere</E
+M>sentirsi</E
+M>il f</E
+M>addosso</E
+M>nelle vene</E
+M>avere il f</E
+M>addosso</E
+M>una donna piena di f</E
+M>tutta f</E
+M>occhi di f</E
+M>sguardi di f</E
+M>parole di f</E
+M>nella vostra osteria</E
+M>alla vostra presenza</E
+M>si son dette cose di f</E
+M>fare cose di f</E
+M>parlare</E
+M>recitare</E
+M>suonare con f</E
+M>senza f</E
+M>il sacro f</E
+M>Dammi</E
+M>o ciel</E
+M>che sia foco Agl’italici petti il sangue mio</E
+M>di paglia</E
+M>che cova sotto la cenere</E
+M>che cova</E
+M>far f</E
+M>e fiamme</E
+M>gettare</E
+M>schizzare f</E
+M>soffiare nel f</E
+M>aggiungere legna</E
+M>esca al f</E
+M>versare acqua sul f</E
+M>scherzare col f</E
+M>chi scherza col f</E
+M>finisce col bruciarsi le ali</E
+M>acqua</E
+M>da fuoco</E
+M>dare f</E
+M>alle polveri</E
+M>bocche da f</E
+M>carta per la manovra del f</E
+M>fare f</E
+M>ordinare</E
+M>aprire</E
+M>cessare il f</E
+M>aprire il f</E
+M>fuoco!</E
+M>un f</E
+M>vivo</E
+M>nutrito</E
+M>di fila</E
+M> battesimo del f</E
+M>essere sotto il f</E
+M>nemico</E
+M>linea del f</E
+M>f. amico</E
+M>essere</E
+M>trovarsi tra due f</E
+M>greco</E
+M>fenico</E
+M>feniano</E
+M>Fuochi d’artificio</E
+M>artificiali</E
+M>lavorati</E
+M>indicatore</E
+M>fuochi di colore</E
+M>delle pietre preziose</E
+M>di s</E
+M>Antonio</E
+M>sacro</E
+M>sacer ignis</E
+M>herpes zoster</E
+M>orobanche</E
+M>reale</E
+M>virtuale</E
+M>mettere a f</E
+M>mettere a f</E
+M>un binocolo</E
+M>un cannocchiale</E
+M>un microscopio</E
+M>fuori f</E
+M>sfocata</E
+M>mettere a f</E
+M>una questione</E
+M>primo f</E
+M>secondo f</E
+M>fuoco di una conica</E
+M>direttrice</E
+M>fuochétto</E
+M>fuocherèllo</E
+M>fuocóne</E

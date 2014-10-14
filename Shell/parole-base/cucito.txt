@@ -1,0 +1,29 @@
+cucito.txt
+"cestino da cucito"
+"corso di taglio e cucito"
+"cucire, il cucito"
+"cucito"
+"cucito"
+"cucito a mano"
+"lavori di cucito"
+"lavori di cucito"
+"stanza da cucito"
+*[[rammendato]], [[imbastito]], [[impunturato]], [[impuntito]], [[trapuntato]], [[attaccato]], [[appuntato]]
+*(di abiti) [[confezionato]]
+*arte del cucire, arte della sartoria
+M>cucire</E
+M>un abito bell’e c.</E
+M>avere le labbra c.</E
+M>avere gli occhi c.</E
+M>stare cucito con qualcuno</E
+M>sempre dietro</E
+M>c. alle loro calcagna</E
+M>taciturno</E
+M>essere c. a filo doppio con qualcuno</E
+M>lavori di c</E
+M>corso di taglio e c</E
+M>maestra di c</E
+M>essere brava in cucito</E
+M>debbo terminare il c</E
+M>prima di sera</E
+M>riconsegnare il cucito</E

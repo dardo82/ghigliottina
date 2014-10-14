@@ -1,0 +1,48 @@
+radere.txt
+"radere"
+"radere al suolo"
+"radere al suolo"
+"radere, rasare"
+#* ''
+*[[rasoio]],  [[lametta|lametta da barba]],  [[radersi]]
+*[[graffiare]]
+*italiano
+*latino
+M>rad</E
+M>rasi</E
+M>radésti</E
+M>raso</E
+M>i baffi</E
+M>la barba</E
+M>i capelli</E
+M>fare la barba</E
+M>i capelli</E
+M>i peli superflui</E
+M>le gote</E
+M>il mento</E
+M>la chierica</E
+M>il barbiere stava radendo la barba a un cliente</E
+M>stava radendo un cliente</E
+M>radersi</E
+M>radersi col rasoio</E
+M>con la lametta</E
+M>col rasoio elettrico</E
+M>mi rado da solo</E
+M>E perché tu più volontier mi rade</E
+M>Le &#8217;nvetrïate lagrime dal volto</E
+M>del cor mi rade Ogni delira impresa</E
+M>Sì come sole ch&#8217;ogni nebbia rade</E
+M>a terra un bosco</E
+M>al suolo</E
+M>radere</E
+M>al suolo una fortezza</E
+M>la città fu rasa al suolo dai nemici</E
+M>dai bombardamenti</E
+M>Ilio raso due volte e due risorto Splendidamente su le mute vie</E
+M>volando</E
+M>talor s&#8217;alza ne le stelle</E
+M>E poi quasi talor la terra rade</E
+M>dal bar ancora aperto un riflesso di luce radeva la crosta d&#8217;asfalto</E
+M>i proiettili radevano il suolo</E
+M>la barca procedeva radendo gli argini</E
+M>il tappeto</E

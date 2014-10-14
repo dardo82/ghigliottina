@@ -1,0 +1,41 @@
+raffinato.txt
+"gusto raffinato"
+"non raffinato"
+"pellame raffinato"
+"poco raffinato"
+"raffinato"
+"raffinato"
+"ricercato, elegante, raffinato"
+"uomo raffinato"
+"zucchero raffinato"
+"zucchero raffinato"
+M>raffinare</E
+M>sale</E
+M>zucchero</E
+M>olio raffinato</E
+M>raffinato</E
+M>avere modi</E
+M>gusti r</E
+M>dimostrare una r</E
+M>eleganza</E
+M>vivere in un lusso r</E
+M>il prodotto di una civiltà raffinatissima</E
+M>arte r</E
+M>stile r</E
+M>cucina r</E
+M>pietanze r</E
+M>una r</E
+M>crudeltà</E
+M>con r</E
+M>perfidia</E
+M>torture raffinate</E
+M>una donna r</E
+M>un r</E
+M>buongustaio</E
+M>un lettore</E
+M>un artista r</E
+M>è un raffinato</E
+M>una raffinata</E
+M>veste raffinatamente</E
+M>domande raffinatamente insidiose</E
+M>torturavano raffinatamente i prigionieri</E

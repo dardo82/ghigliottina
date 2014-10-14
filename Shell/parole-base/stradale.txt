@@ -1,0 +1,55 @@
+stradale.txt
+"blocco stradale"
+"carta stradale"
+"cartello stradale"
+"cartello stradale"
+"codice stradale"
+"educazione stradale"
+"grave incidente stradale"
+"incidente stradale"
+"inclinazione del fondo stradale"
+"indicatore stradale"
+"infortunistica stradale"
+"ingorgo stradale"
+"ingorgo stradale"
+"invaso stradale"
+"irregolarità del fondo stradale, canale di scolo trasversale"
+"manto stradale"
+"percorso stradale che segue il corso del Missisippi attraverso gli Stati Uniti d'America e il Canada"
+"polizia stradale"
+"rete stradale"
+"segnale stradale"
+"segnaletica stradale"
+"sicurezza stradale"
+"soccorso stradale"
+"stradale"
+M>strada</E
+M>via</E
+M>viale</E
+M>sede s.</E
+M>piano s.</E
+M>tracciato s.</E
+M>tronco s.</E
+M>incroci s.</E
+M>un importante nodo s.</E
+M>la rete s. italiana</E
+M>lavori s.</E
+M>norme per la circolazione s.</E
+M>la segnaletica s.</E
+M>cartelli</E
+M>segnali s.</E
+M>carte s.</E
+M>automobilistiche</E
+M>un rilevante numero di incidenti s. ha funestato l&#8217;esodo per le vacanze</E
+M>blocco s.</E
+M>polizia s.</E
+M>la s.</E
+M>mi ha fermato la stradale</E
+M>dietro gli orti</E
+M> dietro lo s.</E
+M> in lontananza</E
+M> si sentiva uno scampanio argentino di pecore al pascolo</E
+M>passo passo c&#8217;eravamo allontanati dal paese</E
+M> per lo s. a strapiombo sul mare</E
+M>mi sono spinta a metà della viottola che conduce sullo s.</E
+M>la stradale che collega due borgate</E

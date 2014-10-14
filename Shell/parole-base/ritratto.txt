@@ -1,0 +1,80 @@
+ritratto.txt
+"a tutta figura (riferito a ritratto)"
+"disegnare un ritratto"
+"fare il ritratto"
+"fare un ritratto"
+"fare un ritratto"
+"ritratto"
+"ritratto della salute"
+"ritratto di vita vissuta"
+*(di persona) [[immagine]], [[raffigurazione]], [[disegno]], [[dipinto]], [[fotografia]], [[effigie]]
+*[[autoritratto]]
+*[[ritrarre]], [[ritrattista]], [[ritrattistica]], [[ritrattistico]]
+M>ritrarre</E
+M>dipingere</E
+M>disegnare</E
+M>scolpire un r</E
+M>è andato dal fotografo a farsi fare il r</E
+M>teneva sulla scrivania il r</E
+M>della moglie</E
+M>un album di ritratti di famiglia</E
+M>alla parete della galleria erano appesi i r</E
+M>degli antenati</E
+M>a olio</E
+M>a penna</E
+M>a matita</E
+M>a pastello</E
+M>in miniatura</E
+M>a colori</E
+M>a rilievo</E
+M>in bronzo</E
+M>in marmo</E
+M>in gesso</E
+M>i r</E
+M>di Goya</E
+M>di Rodin</E
+M>un r</E
+M>iperrealistico</E
+M>di faccia</E
+M>di profilo</E
+M>di tre quarti</E
+M>in piedi</E
+M>piccolo</E
+M>grande</E
+M>per tessera</E
+M>in cornice</E
+M>somigliante</E
+M>vivo</E
+M>parlante</E
+M>che è</E
+M>che pare una caricatura</E
+M>diritto relativo al r</E
+M>essere il r</E
+M>di qualcuno</E
+M>è tutta il r</E
+M>di sua madre</E
+M>essere il r</E
+M>della salute</E
+M>della gioia</E
+M>della fame</E
+M>con poche frasi mi fece un vivo r</E
+M>del suo capufficio</E
+M>troviamo bensì nelle relazioni di più d&#8217;uno storico</E
+M>il r</E
+M>del paese</E
+M>Il proprio r</E
+M>nella lettera faceva un r</E
+M>lusinghiero del suo raccomandato</E
+M>parlato</E
+M>l&#8217;oratore tracciò un r</E
+M>obiettivo della situazione politica</E
+M>Ritratto delle cose di Francia</E
+M>Ritratto delle cose della Magna</E
+M>a ogni scelta di liriche</E
+M>in questa antologia</E
+M>è premesso un r</E
+M>del poeta</E
+M>i &#171;Ritratti&#187; di Sainte</E
+M>Beuve</E
+M>il r</E
+M>della vendita di una casa</E

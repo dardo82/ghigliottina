@@ -1,0 +1,114 @@
+calore.txt
+"calore"
+"calore"
+"calore"
+"calore"
+"calore bianco"
+"calore bruciante"
+"calore corporeo"
+"calore di fusione"
+"calore di vaporizzazione"
+"calore elettrico"
+"calore geotermico"
+"calore latente"
+"calore radiante"
+"calore specifico"
+"che diffonde il calore"
+"collasso da calore"
+"colpo di calore"
+"da isola di calore"
+"emettere calore"
+"emettere calore"
+"il calore della casa"
+"in calore"
+"ipertermia; terapia del calore"
+"pompa di calore"
+"resistente al calore"
+"scambiatore di calore"
+"scambio di calore"
+"termoresistente, resistente al calore"
+"ucciso col calore (di batteri)"
+"vampata di calore"
+#* ''Il passaggio di stato avviene fornendo '''calore'''''
+#* ''Il '''calore''' emanato dal Sole è molto intenso in estate''
+#* ''Quella cagna è in '''calore'''''
+*[[caldo]], [[temperatura]], temperatura elevata, [[accaloramento]],[[calura]], [[canicola]], [[afa]] 
+* [[freddo]], [[frescura]], [[indifferenza]], [[freddezza]], [[disinteresse]]
+*[[calorifero]]
+* [[temperatura]]
+M>calor</E
+M>ris</E
+M>calere</E
+M>il c</E
+M>della mano</E
+M>della fronte</E
+M>nella stanza c’era un gradevole c</E
+M>un c</E
+M>insopportabile</E
+M>il c</E
+M>della fiamma</E
+M>del fuoco</E
+M>scaldarsi al c</E
+M>del caminetto</E
+M>della stufa</E
+M>del termosifone</E
+M>cuocere a moderato c</E
+M>il c</E
+M>del sole</E
+M>solare</E
+M>Guarda il calor del sol che si fa vino</E
+M>Giunto a l’omor che de la vite cola</E
+M>teoria dinamica</E
+M>cinetica del c</E
+M>fluido calorico</E
+M>energia termica</E
+M>equivalenza tra c</E
+M>e lavoro meccanico</E
+M>conduzione</E
+M>convezione</E
+M>irraggiamento</E
+M>quantità di c</E
+M>latente</E
+M>specifico</E
+M>atomico</E
+M>molecolare</E
+M>di adsorbimento</E
+M>di cristallizzazione</E
+M>di magnetizzazione</E
+M>di reazione</E
+M>di combustione</E
+M>di esplosione</E
+M>di fusione</E
+M>totale</E
+M>di trasformazione</E
+M>c. solare</E
+M>costante solare</E
+M>terrestre</E
+M>rosso</E
+M>red heat</E
+M>bianco</E
+M>white heat</E
+M>portare il ferro al c</E
+M>rosso</E
+M>saldare al c</E
+M>bianco</E
+M>saldare al bianco</E
+M>la discussione si era svolta in un’atmosfera al calore bianco</E
+M>colore rosso</E
+M>colore bianco</E
+M>animale</E
+M>colpo di c</E
+M>andare</E
+M>essere in c</E
+M>alcune razze di scrofe vanno in c. molto precocemente.</E
+M>il c</E
+M>dello sdegno</E
+M>parlare</E
+M>difendere</E
+M>sostenere con c</E
+M>nel c</E
+M>della discussione</E
+M> c. umano</E
+M> il c. della famiglia</E
+M> delle amicizie</E
+M>visite di calore</E

@@ -1,0 +1,37 @@
+strozzare.txt
+"strozzare"
+"strozzare"
+"strozzare, replace: strozzarsi"
+"strozzare"
+*[[strangolare]], [[uccidere]];
+*''(tubo, cavo)'' [[restringere]], [[rimpiccolire]], [[ridurre]], [[chiudere]], [[occludere]], [[bloccare]], [[ostruire]]
+*[[strozzarsi]]
+M>io stròzzo</E
+M>lo hanno strozzato nel sonno</E
+M>è stata strozzata con un laccio</E
+M>con una sciarpa di seta</E
+M>non stringermi così al collo</E
+M> mi strozzi</E
+M>se lo incontro lo strozzo</E
+M> quel farabutto!</E
+M>il bambino ha inghiottito una ciliegia intera che per poco lo strozzava</E
+M>mangia lentamente</E
+M> se no ti strozzi</E
+M>chi mangia solo si strozza</E
+M>quello che non strozza ingrassa</E
+M>glieli prestano i soldi</E
+M> ma lo strozzano</E
+M>s. una conduttura di vapore</E
+M>un tubo di scarico</E
+M>il tubo a metà si strozza</E
+M>un&#8217;ernia che rischia di strozzarsi</E
+M>voce strozzata dal pianto</E
+M>parlare con voce strozzata</E
+M>parole strozzate</E
+M>il giovanetto ...</E
+M> strozzato dall&#8217;emozione</E
+M> balbettò qualche frase sconnessa</E
+M>un tubo</E
+M>un condotto strozzato</E
+M>canna strozzata</E
+M>ernia strozzata</E

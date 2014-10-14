@@ -1,0 +1,166 @@
+vicino.txt
+"abbastanza vicino per"
+"andarci vicino"
+"andare vicino"
+"arrivarci vicino"
+"avvicinarsi a ; andare vicino a"
+"buon vicino"
+"da brava persona, da buon vicino"
+"da buon vicino"
+"da vicino"
+"dalle parti di, nei dintorni di, da qualche parte vicino a"
+"dare un'occhiata da vicino"
+"essere vicino"
+"essere vicino"
+"essere vicino a"
+"essere vicino a qcs, trovarsi vicino a qcs"
+"guardare qualcosa da vicino"
+"il più vicino"
+"il più vicino"
+"il più vicino"
+"lato vicino"
+"mettere una cosa vicino all'altra"
+"molto da vicino"
+"molto vicino"
+"molto vicino"
+"molto vicino"
+"non più vicino a"
+"osservare da vicino"
+"passare in macchina vicino a"
+"più vicino"
+"più vicino"
+"più vicino"
+"più vicino"
+"più vicino"
+"piuttosto vicino"
+"plenilunio più vicino all'equinozio d'autunno"
+"portare più vicino"
+"sempre più vicino"
+"tenersi vicino"
+"tenersi vicino a"
+"vedere da vicino"
+"vicino"
+"vicino"
+"vicino"
+"vicino"
+"vicino"
+"chi è o abita vicino"
+"vicino (di casa)"
+"vicino a"
+"vicino a"
+"vicino a"
+"vicino a"
+"vicino al cuore"
+"vicino al suolo"
+"vicino alla morte"
+"vicino alla pensione"
+"vicino alla riva"
+"vicino alla superficie"
+"vicino di casa"
+"vicino di ombrellone"
+"vicino e lontano"
+"vicino oriente"
+"vicino oriente"
+*[[prossimo]], [[adiacente]], [[attiguo]], [[limitrofo]], [[circostante]], [[annesso]], [[rasente]]
+*[[fresco]], [[nuovo]], [[recente]]
+*''(nello spazio o nel tempo)'' a breve distanza, [[accanto]], [[appresso]], [[attorno]], [[presso]].
+*[[condomino]], [[coinquilino]], [[coabitante]], [[confinante]]
+*''(prossimo)''[[lontano]], [[distante]]
+*''(recente)'' [[passato]]
+*[[vicinanza]], [[equivicino]]
+:*[[interlingua]]
+M>vic</E
+M>nus</E
+M>vicus</E
+M>vicus</E
+M>lontano</E
+M>fa il maestro di scuola in un paese v.</E
+M>è qui nella stanza v.</E
+M>due case v.</E
+M>questi quadri sono troppo v.</E
+M>siamo vicini</E
+M>insediamenti abitativi</E
+M>industriali</E
+M> v.</E
+M>stati</E
+M>paesi</E
+M>popoli v.</E
+M>essere vicini alla meta</E
+M>stiamo più vicini l’uno all’altro</E
+M>stammi più vicino</E
+M>la nave era vicinissima al porto.</E
+M>l’alba</E
+M>la sera</E
+M>la mezzanotte</E
+M>la partenza è v.</E
+M>le vacanze sono ormai v.</E
+M>è v. l’ora della liberazione</E
+M>la pioggia dev’essere vicina.</E
+M>essere vicino alla fine</E
+M>l’olio</E
+M>il pranzo</E
+M>lo spettacolo è v. alla fine</E
+M>è vicino ai cinquanta</E
+M>è più vicino ai quaranta che ai trenta</E
+M>essere vicini a partire</E
+M>a mietere</E
+M>parenti v.</E
+M>essere</E
+M>sentirsi vicini nella gioia</E
+M>nel dolore.</E
+M>essere vicini di idee</E
+M>i nostri gusti sono molto v.</E
+M>un colore più v. al marrone che al verde</E
+M>se la mia supposizione non è esatta</E
+M> è certo assai v. al vero.</E
+M>il mio v.</E
+M>la mia v. di banco</E
+M>chiacchierava con una v.</E
+M>eravamo andati a far visita ai nostri v.</E
+M>di casa</E
+M>abbassa la voce</E
+M> non occorre che tutti i v. sentano che litighiamo</E
+M>Siede con le vicine Su la scala a filar la vecchierella</E
+M>Dio ti salvi da un cattivo v.</E
+M> e da un principiante di violino</E
+M>soltanto i più vicini riuscivano a vedere</E
+M>prossimo</E
+M>importunare il v.</E
+M>essere invidioso del v.</E
+M>È chi</E
+M> per esser suo vicin soppresso</E
+M> Spera eccellenza</E
+M>nelle vostre contrade ... meritamente gloriar vi possiate co’ vostri v.</E
+M>Dante</E
+M> il vicin mio grande</E
+M>l’assemblea dei vicini.</E
+M>primi vicini</E
+M>interazione dei primi vicini.</E
+M>venne</E
+M>mi venne</E
+M>vicino</E
+M>fatti più vicino</E
+M> se no non sento</E
+M>i ragazzi non sono in casa</E
+M> sono andati qui vicino</E
+M>è una proprietaria di qui vicino</E
+M>ferire</E
+M>colpire</E
+M>guardare</E
+M>osservare da vicino</E
+M>sono presbite e non ci vedo da v.</E
+M>esaminiamo la questione più da v.</E
+M>conoscere uno da v.</E
+M>davvicino</E
+M>lavora v. a Roma</E
+M>ci fermammo v. all’albero</E
+M>mi piace stare v. al fuoco</E
+M>siediti vicino a me</E
+M>mi venne v.</E
+M>mi si sedette v.</E
+M>non hai indovinato ma ci sei andato vicino.</E
+M>abita v. di Porta Pia</E
+M>v. di San Brancazio stette un buono uomo e ricco</E
+M>priegote che</E
+M> perch’ella sia nella mia casa vicin di tre mesi stata</E
+M> ella non ti sia men cara</E

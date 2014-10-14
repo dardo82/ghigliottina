@@ -1,0 +1,21 @@
+affittare.txt
+"affittare"
+"affittare"
+"noleggiare; affittare"
+"prendere in affitto, affittare"
+#*''Ho deciso di '''affittare''' la casa che ho a Torino, perché non la uso mai.''
+#*''Durante i mesi che ho passato a Torino, '''ho affittato''' una casa.''
+*[[nolo]], [[affitto]], [[affitasi]], [[affitansi]]
+* [[noleggiare]]
+M>affictare</E
+M>fictum</E
+M>a qualcuno un fondo</E
+M>una casa</E
+M>un negozio</E
+M>una carrozza</E
+M>una barca</E
+M>chi affitta sfitta</E
+M>una camera</E
+M>un appartamento</E
+M>acquistare</E
+M>vendere un appartamento già affittato</E

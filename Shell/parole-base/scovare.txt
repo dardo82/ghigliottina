@@ -1,0 +1,15 @@
+scovare.txt
+"scoprire col fiuto, scovare"
+"scovare"
+"scovare"
+"scovare qualcuno"
+"trovare, scovare"
+M>covo</E
+M>io scóvo</E
+M>il cane ha scovato la lepre</E
+M>i battitori non sono riusciti a s. il cinghiale</E
+M>la polizia è riuscita a s. il ladro</E
+M>l&#8217;ho scovato per caso in un bar</E
+M>a quest&#8217;ora sarà difficile s. una farmacia aperta</E
+M>questo disegno di scuola leonardesca l&#8217;ho scovato in un mercatino antiquario</E
+M>c&#8217;è della brava gente che scoverà qualche eretico anche in Paradiso</E

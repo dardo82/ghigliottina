@@ -1,0 +1,11 @@
+ferie.txt
+"ferie"
+"ferie matrimoniali"
+"ferie retribuite"
+"ferie retribuite"
+"giorno di ferie"
+"maturare le ferie"
+"periodo di ferie annuo"
+*[[vacanza]], [[festa]]
+*italiano
+*norvegese

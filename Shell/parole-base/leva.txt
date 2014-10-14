@@ -1,0 +1,26 @@
+leva.txt
+"aprire facendo leva"
+"commissione di leva"
+"effetto leva"
+"fare leva"
+"fare leva su qualcosa"
+"leva"
+"leva"
+"leva"
+"leva"
+"leva del"
+"leva del cambio"
+"leva del cambio"
+"leva del freno"
+"leva di avviamento"
+"leva di comando della valvola"
+"leva per smontaggio pneumatici"
+"maglio a leva"
+"maglio meccanico a leva"
+"obblighi di leva"
+"servizio di leva"
+"visita di leva"
+#*''leva finanziaria''
+*[[naia]]
+*italiano
+*svedese

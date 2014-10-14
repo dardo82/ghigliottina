@@ -1,0 +1,32 @@
+ingrassare.txt
+"http://api.wordreference.com/12bee/json/iten/ingrassare/"
+#*''per non ingrassare bisogna mangiare fiocchi di latte o latte scremato''
+*[[ingrossare]], [[aumentare]], [[allargare]], [[ingrandire]], [[accrescere]], [[arricchire]], [[rimpinguare]], [[impinguare]], [[prendere]] [[peso]]
+*[[concimare]], [[fertilizzare]]
+*[[lubrificare]], [[ungere]], [[oliare]]
+*fare deperire
+*(di abito) [[snellire]], [[smagrire]]
+*[[inaridire]], [[impoverire]], [[isterilire]]
+*[[sgrassare]]
+*[[dimagrire]]
+*[[ingrassarsi]]
+M>i dolci ingrassano</E
+M>quel che non strozza ingrassa</E
+M>i porci</E
+M>i polli</E
+M>l’occhio del padrone ingrassa il cavallo</E
+M>andare a i</E
+M>i cavoli</E
+M>il motore</E
+M>i mozzi delle ruote</E
+M>essere</E
+M>mangia come un lupo e ingrassa a vista d’occhio</E
+M>fa la cura per i</E
+M>non mangia pane e dolci per paura di i</E
+M>ti sei un po’ ingrassato dall’ultima volta che ci siamo visti</E
+M>ingrassano con affari poco puliti</E
+M>sulle miserie altrui</E
+M>maiali</E
+M>tacchini ingrassati artificialmente</E
+M>ti trovo molto ingrassato</E
+M>un motore bene ingrassato</E

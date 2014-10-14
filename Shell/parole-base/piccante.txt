@@ -1,0 +1,34 @@
+piccante.txt
+"delizia piccante"
+"gusto piccante"
+"peperoncino piccante"
+"piccante"
+"piccante"
+"piccante, spinto"
+"rendere piccante"
+"salsa piccante"
+"salsa piccante"
+"salsa piccante inglese di origine indiana"
+"salsiccia piccante"
+"sapore piccante"
+*[[pungente]], [[acuto]], [[forte]]
+M>piquant</E
+M>piquer</E
+M>un cibo p</E
+M>un piatto molto p</E
+M>un sugo troppo p</E
+M>un formaggio p</E
+M>un provolone di tipo p</E
+M>una salsa p</E
+M>in salsa p</E
+M>l&#8217;odore p</E
+M>del curry</E
+M>un motto p</E
+M>rispondere con parole p</E
+M>allusioni</E
+M>insinuazioni piccanti</E
+M>una barzelletta</E
+M>una storiella p</E
+M>aneddoti p</E
+M>un&#8217;indiscrezione p</E
+M>un rotocalco ha dato notizia dello scandalo con i particolari più piccanti</E

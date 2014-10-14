@@ -1,0 +1,23 @@
+commissariato.txt
+"commissariato"
+"commissariato"
+"commissariato"
+"commissariato di polizia"
+M>aspirare a un c</E
+M>affidare</E
+M>ottenere un c</E
+M>durante il suo commissariato</E
+M>Alto c</E
+M>per l’alimentazione</E
+M>Alto c</E
+M>per le sanzioni contro il fascismo</E
+M>di Pubblica Sicurezza</E
+M>C. della Polizia di Stato</E
+M>Alto c</E
+M>per l’igiene e la sanità</E
+M>militare</E
+M>militare marittimo</E
+M>aeronautico</E
+M>essere chiamato al c</E
+M>sporgere denuncia al c</E
+M>più vicino</E

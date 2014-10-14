@@ -1,0 +1,38 @@
+mostruoso.txt
+"mostruoso"
+"mostruoso"
+"mostruoso"
+#* ''quel quadro è '''mostruoso'''''
+M>monstruosus</E
+M>monstrum</E
+M>un essere m</E
+M>una forma</E
+M>una figura m</E
+M>corpo</E
+M>viso m</E
+M>gambe</E
+M>mani mostruose</E
+M>è di una bruttezza m</E
+M>guardò</E
+M>il naso</E
+M>quel m</E
+M>naso paonazzo che deturpava il suo viso</E
+M>un m</E
+M>assassino</E
+M>delitto m</E
+M>che azione m</E
+M>calunnia</E
+M>insinuazione mostruosa</E
+M>dimensioni m</E
+M>statura m</E
+M>è di una ricchezza m</E
+M>negli affari è di una bravura m</E
+M>ha una capacità veramente m</E
+M>di convincere la gente</E
+M>intelligenza</E
+M>abilità m</E
+M>ha una memoria veramente mostruosa</E
+M>la malattia le aveva mostruosamente storpiato le gambe</E
+M>una figura mostruosamente raffigurata</E
+M>è un ragazzo mostruosamente intelligente</E
+M>ci siamo mostruosamente divertiti</E

@@ -1,0 +1,36 @@
+tacco.txt
+"tacco"
+"tacco"
+"tacco a zeppa"
+"tacco di ferro"
+M>taccone</E
+M>-chi</E
+M>scarpe con tacco</E
+M> senza tacco</E
+M>t. di cuoio</E
+M> di para</E
+M> di gomma</E
+M>t. di legno rivestito di pelle</E
+M>t. bassi</E
+M> alti</E
+M>t. a spillo</E
+M>rompere</E
+M> perdere un t.</E
+M>rifare i t.</E
+M>scattare sull&#8217;attenti battendo i t.</E
+M>alzare i t.</E
+M>il t.</E
+M>battere i t.</E
+M>il t.</E
+M>Dunque fu detto che battesse il t.</E
+M>colpire di tacco</E
+M>punta e tacco</E
+M>tacco e punta</E
+M>mettere i t. a una botte</E
+M> a un rullo</E
+M>tacchi di legno</E
+M>di metallo per aerei</E
+M>t. del bozzello</E
+M>tacchi</E
+M>alzi</E
+M> supporti</E

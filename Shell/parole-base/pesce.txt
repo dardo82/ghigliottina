@@ -1,0 +1,211 @@
+pesce.txt
+"a forma di pesce"
+"coda di pesce"
+"come un pesce fuor d'acqua"
+"del pesce"
+"di pesce"
+"di pesce"
+"di pesce azzurro"
+"di pesce luna"
+"fritto di pesce"
+"il Pesce Volante"
+"lisca di pesce"
+"mangiare il pesce"
+"né carne né pesce"
+"non essere né carne né pesce"
+"olio di pesce"
+"parcheggio a spina di pesce"
+"pasto a base di pesce"
+"pentola per il pesce"
+"pesce"
+"pesce angelo"
+"pesce azzurro"
+"pesce azzurro"
+"pesce cane"
+"pesce combattente"
+"pesce con il becco da pappagallo"
+"pesce d'acqua dolce"
+"pesce d'aprile"
+"pesce di fiume"
+"pesce di mare"
+"pesce e patate fritte"
+"pesce edibile"
+"pesce farfalla"
+"pesce gatto"
+"pesce gatto"
+"pesce liscoso"
+"pesce lupo"
+"pesce martello"
+"pesce palla"
+"pesce pappagallo"
+"pesce pappagallo"
+"pesce per friggere"
+"pesce persico"
+"pesce persico bianco"
+"pesce pittoresco"
+"pesce ripieno di altro pesce macinato con spezie (ricetta ebraica)"
+"pesce rosso"
+"pesce rosso"
+"pesce siluro"
+"pesce simile al merluzzo ma di qualità inferiore"
+"pesce spada"
+"pesce spada blu"
+"pesce tropicale"
+"pesce volante"
+"pesce, simile al merluzzo, delle coste europee dell'Atlantico"
+"polvere ottenuta da pesce cotto"
+"puzza di pesce"
+"riso con carne o pesce"
+"riso con carne o pesce"
+"tirare su un pesce"
+"un pesce d'aprile"
+"uova di pesce"
+"uova di pesce"
+"zuppa di pesce"
+* (credulone) [[baccalà]], [[boccalone]], [[credulone]], [[semplicione]], [[sempliciotto]]
+* [[fringuello]], [[lasciatura]], [[merlo]], [[pollo]]
+*[[pescare]], [[pescata]], [[pescato]],[[pescecane]], [[pesce d'aprile]]
+* [[Pesci]], [[alto papavero]], [[civetta]], [[fabbro]], [[girasole]], [[grosso calibro]], [[mezza calzetta]], [[mola]], [[ortagorisco]], [[papavero]], [[pedina]]
+*[[animale]]
+*''buttarsi a '''pesce'''''
+*''essere muto come un '''pesce'''''
+*''essere sano come un '''pesce'''''
+*''pesce d'aprile''
+*''sentirsi un '''pesce''' fuor d'acqua''
+*''non sapere che '''pesci''' prendere''
+*''trattare qualcuno a '''pesci''' in faccia''
+*''prendere un '''pesce''' in faccia''
+*''chi dorme non piglia 
+M>scis</E
+M>mare ricco</E
+M>povero di pesce</E
+M>pesce di mare</E
+M>di fiume</E
+M>di lago</E
+M>di scoglio</E
+M>d&#8217;alto mare</E
+M>grosso</E
+M>minuto</E
+M>da taglio</E
+M>fresco</E
+M>carpionato</E
+M>marinato</E
+M>salato</E
+M>seccato</E
+M>affumicato</E
+M>sott&#8217;olio</E
+M>congelato</E
+M>surgelato</E
+M>azzurro</E
+M>rossi</E
+M>Carassius auratus</E
+M>elettrici</E
+M>Pesci</E
+M>pelle di pesce</E
+M>pelle di pescecane</E
+M>colla di pesce</E
+M>farina di pesce</E
+M>olio di pesce</E
+M>mangiare</E
+M>ristorante specializzato in p</E
+M>per il p</E
+M>fritto</E
+M>lesso</E
+M>arrosto</E
+M>alla griglia</E
+M>frittura di p</E
+M>zuppa di p</E
+M>crudo alla giapponese</E
+M>spinare</E
+M>pulire</E
+M>friggere</E
+M>arrostire il p</E
+M>posate da p</E
+M>carne</E
+M>preferire il p</E
+M>alla carne</E
+M>non essere né carne né p</E
+M>nuotare come un p</E
+M>esser sano come un p</E
+M>esser muto come un p</E
+M>gettarsi a pesce</E
+M>fare un salto a pesce</E
+M>buttarsi</E
+M>gettarsi a p</E
+M>su qualcosa</E
+M>si gettarono a p</E
+M>sui pasticcini</E
+M>andare a far compagnia ai p</E
+M>non sapere che pesci prendere</E
+M>pigliare</E
+M>essere</E
+M>come</E
+M>un p</E
+M>fuor d&#8217;acqua</E
+M>fare il p</E
+M>in barile</E
+M>fare l&#8217;occhio di p</E
+M>morto a qualcuno</E
+M>trattare</E
+M>prendere qualcuno a pesci in faccia</E
+M>chi dorme non piglia pesci</E
+M>i p</E
+M>grossi mangiano i piccini</E
+M>Pesce d&#8217;aprile</E
+M>fare il pesce</E
+M>muscolo</E
+M>piccione</E
+M>campanello</E
+M>uccello</E
+M>lasciatura</E
+M>angelo</E
+M>pesce squadro</E
+M>arciere</E
+M>Toxotes jaculator</E
+M>d&#8217;argento</E
+M>Trachypterus trachypterus</E
+M>Argentina sphyraena</E
+M>bandiera</E
+M>Cepola rubescens</E
+M>Alopias vulpinus</E
+M>Lepidopus caudatus</E
+M>Trachypterus trachypterus</E
+M>cavaliere</E
+M>Equetus lanceolatus</E
+M>chitarra</E
+M>violino</E
+M>combattente</E
+M>Betta pugnax</E
+M>fiamma</E
+M>bandiera</E
+M>sciabola</E
+M>Lepidopus caudatus</E
+M>foglia</E
+M>Pterophyllum scalare</E
+M>palla</E
+M>paradiso</E
+M>Macropodus opercularis</E
+M>prete</E
+M>sciabola</E
+M>fiamma</E
+M>violino</E
+M>Rhinobatus rhinobatus</E
+M>chitarra</E
+M>volante</E
+M>Exocoetus volitans</E
+M>pesci rondine</E
+M>rondine di mare</E
+M>pesce cane</E
+M>pesce spada</E
+M>san Pietro</E
+M>pesce</E
+M>gatto</E
+M>luna</E
+M>martello</E
+M>persico</E
+M>pilota</E
+M>sega</E
+M>donzella</E
+M>regina</E
+M>rospo</E
+M>squadro</E

@@ -1,0 +1,43 @@
+privilegio.txt
+"privilegio"
+"privilegio"
+"privilegio"
+"privilegio concesso"
+"privilegio esecutivo"
+"privilegio speciale"
+*[[ diritto]],[[ vantaggio]],[[ beneficio]],[[ prerogativa]],[[ esenzione]],[[ immunità]],[[ concessione ]]
+*[[ onore]],[[ distinzione]],[[ vanto]],[[ prerogativa]] 
+*[[ pregio]],[[ merito]],[[ virtù]],[[ dote]],[[ qualità]] 
+*[[disonore]],[[ vergogna]],[[ difetto]],[[ vizio]] 
+M>privilegium</E
+M>privus</E
+M>lex</E
+M>i p</E
+M>della nobiltà e del clero prima della rivoluzione francese</E
+M>accordare</E
+M>concedere un p</E
+M>abolire un p</E
+M>ottenere un p</E
+M>godere di un p</E
+M>di stampa</E
+M>con privilegio</E
+M>con grazia</E
+M>grazie</E
+M>e privilegio</E
+M>con licenza de’ superiori e privilegio</E
+M>diplomatici</E
+M>privilegi</E
+M>armi di privilegio</E
+M>di concessione</E
+M>paolino</E
+M>aveva il p</E
+M>di pronunciare il discorso di fine d’anno davanti alle famiglie dei compagni di collegio</E
+M>questo libro ha il p</E
+M>di esser chiaro</E
+M>non sempre la saggezza è un p</E
+M>dell’età matura</E
+M>non ti rimembra Che questo è p</E
+M>degli amanti</E
+M> Sciolti da tutte qualitati umane?</E
+M>essere</E
+M>trovarsi in una posizione di p</E

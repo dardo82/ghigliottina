@@ -1,0 +1,20 @@
+sconsigliare.txt
+"sconsigliare"
+"sconsigliare"
+"sconsigliare a qlcn di fare qcs"
+*[[scoraggiare]], [[distogliere]], [[dissuadere]], far cambiare idea, indurre a desistere
+*[[consigliare]], [[persuadere]], [[suggerire]]
+*[[sconsigliatore]], [[sconsigliabile]]
+M>consigliare</E
+M>io sconsìglio</E
+M>vi sconsiglio questo appartamento perché è troppo rumoroso e poco funzionale</E
+M>è un libro da s. ai giovani</E
+M>il medico mi ha sconsigliato di farmi operare</E
+M>il mio avvocato mi sconsiglia di intraprendere un&#8217;azione legale</E
+M>gli sconsigliai di attraversare quella zona malfamata nelle ore di buio</E
+M>è un&#8217;impresa che ti sconsiglio</E
+M>è un viaggio faticoso</E
+M> che sconsiglierei a chiunque</E
+M>s. da</E
+M>tutti mi hanno sconsigliato dal mettermi in questo affare</E
+M>i genitori lo avevano sconsigliato dal fare questo matrimonio</E

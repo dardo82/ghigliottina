@@ -1,0 +1,104 @@
+esercitare.txt
+"esercitare"
+"esercitare"
+"esercitare"
+"esercitare"
+"esercitare (potere, autorità)"
+"esercitare (una professione)"
+"esercitare giudizio"
+"esercitare il ruolo di"
+"esercitare influenza"
+"esercitare la memoria"
+"esercitare la professione legale\/forense"
+"esercitare la professione medica"
+"esercitare pressione"
+"esercitare un ruolo"
+"esercitare una parte"
+"esercitare una pressione"
+"far esercitare"
+* [[addestrare]], [[allenare]], [[preparare]], [[allenare]], [[istruire]], [[impratichire]], [[ammaestrare]], [[abituare]]
+*''(diritto, potere, ecc.)'' [[usare]], [[utilizzare]], [[adoperare]], [[servirsi]], [[impiegare]], [[sfoderare]], [[valersi]]
+*''(professione, attività, ecc.)'' [[fare]], [[occuparsi]], [[praticare]], [[lavorare]], [[professare]],  [[attuare]]
+*[[esercitarsi]], [[esercitabile]], [[esercitato]], [[esercitazione]], [[esercito]], [[esercizio]]
+M>exercitare</E
+M>exercere</E
+M>exerc</E
+M>tus</E
+M>io e</E
+M>èrcito</E
+M>i soldati al maneggio delle armi</E
+M>i giovani alla fatica</E
+M>al lavoro</E
+M>gli alunni nel leggere</E
+M>i cavalli alla corsa</E
+M>il braccio alla scherma</E
+M>la mano al disegno</E
+M>la voce al canto</E
+M>l’orecchio alla musica</E
+M>l’occhio a stabilire le distanze</E
+M>la riflessione</E
+M>la memoria</E
+M>la mente con lo studio assiduo</E
+M>le forze</E
+M>i muscoli</E
+M>il cervello</E
+M>l’ingegno</E
+M>la lingua</E
+M>la pazienza di qualcuno</E
+M>esercitarsi alla lotta</E
+M>nel tiro a segno</E
+M>nella scherma</E
+M>nel salto in lungo</E
+M>nel nuoto</E
+M>esercitarsi al comporre</E
+M>a far versi</E
+M>a tradurre</E
+M>a dipingere</E
+M>esercitarsi al piano</E
+M>sul violino</E
+M>lo scolare</E
+M>andando per la corte</E
+M>sé esercitava per riscaldarsi</E
+M>non fu mai tanto Da la matrigna esercitato Alcide</E
+M>essere esercitato dalla sorte</E
+M>dalle avversità</E
+M>sul bel piano Da le insubri cavalle esercitato</E
+M>quella quercia ancóra</E
+M>Esercitata dalla tramontana</E
+M>il potere</E
+M>la sovranità</E
+M>il dominio</E
+M>la giurisdizione</E
+M>la tutela</E
+M>la propria autorità</E
+M>un comando</E
+M>un diritto</E
+M>un’influenza</E
+M>un ascendente su qualcuno</E
+M>Marta esercita un certo fascino su tutti</E
+M>un’azione fisica</E
+M>una pressione</E
+M>pressioni su qualcuno</E
+M>la virtù</E
+M>la giustizia</E
+M>la carità</E
+M>la pietà</E
+M>la pazienza</E
+M>la maldicenza alle spalle di qualcuno</E
+M>la critica</E
+M>la censura</E
+M>l’avvocatura</E
+M>la medicina</E
+M>l’insegnamento</E
+M>la professione di farmacista</E
+M>l’ufficio di pretore</E
+M>la suprema magistratura</E
+M>la milizia</E
+M>il culto</E
+M>alla sua età</E
+M>esercita ancora</E
+M>è avvocato</E
+M>ma non esercita</E
+M>un occhio</E
+M>un orecchio ben esercitato</E
+M>a un bevitore un po’ esercitato non avrebbero fatto altro che levargli la sete</E

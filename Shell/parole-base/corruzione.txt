@@ -1,0 +1,38 @@
+corruzione.txt
+"concussione e corruzione"
+"corruzione"
+"corruzione"
+"corruzione nella politica"
+"fare pulizia di corruzione etc."
+#*''quell'imputato è stato accusato di corruzione nei confronti di un giudice, ma se l'è cavata con la prescizione''  
+*''(dei costumi ecc.)'' [[dissolutezza]], [[vizio]], [[immoralità]], [[degenerazione]], [[depravazione]]
+*''(dei costumi ecc.)'' [[moralità]], [[integrità]], [[rettitudine]], [[morigeratezza]], [[anticorruzione]]
+M>corruptio</E
+M>onis</E
+M>corrump</E
+M>corruptus</E
+M>dell’aria</E
+M>delle acque</E
+M>la c</E
+M>del cadavere</E
+M>io veggio l’acqua</E
+M>io veggio il foco</E
+M>L’aere e la terra e tutte lor misture Venire a c.</E
+M> e durar poco</E
+M>mossi</E
+M>da tema che la c</E
+M>de’ morti non gli offendesse</E
+M>di una lingua</E
+M>dei costumi</E
+M>la c. dei giovani</E
+M>della società</E
+M>la c</E
+M>della classe politica</E
+M>vivere in mezzo alla corruzione</E
+M>gran c</E
+M>di vaiuolo</E
+M>che fu in Firenze</E
+M>di minorenne</E
+M>di pubblico ufficiale</E
+M>propria</E
+M>impropria</E

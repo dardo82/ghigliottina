@@ -1,0 +1,153 @@
+sociale.txt
+"abilità sociale"
+"abilità sociale"
+"alto impatto sociale"
+"ambiente sociale"
+"antropologia sociale"
+"arrampicatore sociale"
+"arrampicatore sociale"
+"ascesa sociale"
+"assegno sociale"
+"assistente sociale"
+"assistente sociale"
+"assistente sociale"
+"assistente sociale"
+"assistenza sociale"
+"assistenza sociale"
+"assistenza sociale"
+"assistenza sociale"
+"assistenza sociale"
+"assistenza sociale"
+"assistenza sociale"
+"assistenza sociale individuale"
+"attività sociale"
+"auto sociale"
+"cantina sociale"
+"capitale sociale"
+"capitale sociale"
+"capitale sociale"
+"centro di reinserimento sociale; casa di riabilitazione"
+"classe sociale"
+"classe sociale"
+"clima sociale"
+"codice sociale"
+"condizione sociale"
+"condizione sociale elevata"
+"condotta sociale"
+"contabilità sociale"
+"convenzione sociale"
+"costo sociale"
+"da un punto di vista sociale"
+"denominazione sociale"
+"di bassa estrazione sociale"
+"di bassa estrazione sociale"
+"di basso stato sociale"
+"di elevato rango sociale"
+"estrazione sociale"
+"impegno sociale"
+"interazione sociale"
+"isolamento sociale"
+"lavorare nel sociale"
+"legittimazione sociale"
+"malattia sociale"
+"mobilità sociale"
+"movimento sociale"
+"nato in una famiglia nobile o comunque di elevato ceto sociale"
+"organizzazione sociale, istituzione sociale"
+"patto sociale"
+"perdita della posizione sociale"
+"piaga sociale"
+"posizione sociale"
+"previdenza sociale"
+"previdenza sociale"
+"Previdenza Sociale"
+"previdenza sociale"
+"programma di assistenza sociale"
+"promozione sociale"
+"psichiatria sociale"
+"psicologia sociale"
+"raduno sociale"
+"ragione sociale"
+"ribelle, agitatore sociale"
+"scala sociale"
+"servizio sociale"
+"sociale"
+"sociale"
+"sociale"
+"sociale"
+"sociale"
+"sociale"
+"stato dell'assistenza sociale"
+"Tessuto sociale"
+"unità sociale"
+M>socialis</E
+M>socius</E
+M>l&#8217;uomo è un animale sociale</E
+M>comportamenti s.</E
+M>specie s.</E
+M>gruppi s.</E
+M>società</E
+M>insetti s.</E
+M>doveri s.</E
+M>ordine sociale</E
+M>patto s.</E
+M>la realizzazione di una giustizia s.</E
+M>protestare contro le ingiustizie s.</E
+M>arte s.</E
+M>pittura s.</E
+M>fotografia s.</E
+M>cinema s.</E
+M>Scienze s.</E
+M>antropologia s.</E
+M>la vita s.</E
+M>relazioni</E
+M>rapporti s.</E
+M>le convenzioni sociali</E
+M>la questione s.</E
+M>le forze</E
+M>le classi s.</E
+M>le categorie s. più deboli</E
+M>provvedimenti che riguardano soltanto alcune fasce s.</E
+M>i problemi s. dell&#8217;Italia nel primo dopoguerra</E
+M>il programma s. di Mazzini</E
+M>movimento s. della popolazione</E
+M>legislazione s.</E
+M>rivendicazioni s.</E
+M>garantire la sicurezza s.</E
+M>previdenza s.</E
+M>servizî s.</E
+M>l&#8217;assistenza s.</E
+M>stato s.</E
+M>stato assistenziale</E
+M>welfare state</E
+M>il costo</E
+M>la spesa s.</E
+M>gli</E
+M>le assistenti s.</E
+M>Assicurazioni s.</E
+M>centro s.</E
+M>il sociale</E
+M>socialità</E
+M>un governo progressista che ha come suo primo interesse il s.</E
+M>una Chiesa</E
+M>un vescovo</E
+M>un sacerdote</E
+M>che affianca la cura del s. a quella spirituale</E
+M>l&#8217;attività</E
+M>la vita s.</E
+M>gita</E
+M>riunione s.</E
+M>compagnia s.</E
+M>sede s.</E
+M>ragione s.</E
+M>capitale s.</E
+M>in sociale</E
+M>in sociale</E
+M>socius</E
+M>guerre s.</E
+M>la guerra s. achea</E
+M>la guerra s. italica</E
+M>un paese socialmente arretrato</E
+M>molto evoluto</E
+M>lavori</E
+M>mestieri socialmente utili</E

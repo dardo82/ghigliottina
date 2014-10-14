@@ -1,0 +1,49 @@
+circolazione.txt
+"carta di circolazione"
+"circolazione"
+"circolazione"
+"circolazione"
+"circolazione del sangue"
+"di circolazione"
+"divieto di circolazione (dei mezzi pesanti)"
+"essere in circolazione"
+"in circolazione"
+"in libera circolazione"
+"legge sulla circolazione"
+"mettere in circolazione"
+"piazza a circolazione rotatoria"
+"titoli in circolazione"
+*''(di persone, veicoli ecc.)'' [[moto]], [[movimento]], [[spostamento]]
+*'' (di idee)'' [[diffusione]], [[propagazione]]
+*'' ( di persone, veicoli ecc.)'' [[arresto]], [[sosta]] 
+M>circulatio</E
+M>onis</E
+M>circulari</E
+M>stradale</E
+M>Carta di c</E
+M>libretto di c</E
+M>Tassa di c</E
+M>tassa di possesso</E
+M>aerea</E
+M>dell’aria</E
+M>atmosferica</E
+M>sotterranea</E
+M>termoalina</E
+M>del sangue</E
+M>linfatica</E
+M>monetaria</E
+M>imposta di c</E
+M>circolata</E
+M>circuitazione</E
+M>mettere in c</E
+M>c’è qualcuno che ha interesse a mettere in c</E
+M>voci tendenziose</E
+M>essere in c</E
+M>le nuove banconote non sono ancora in c</E
+M>è ancora in c</E
+M>quel tipo?</E
+M>rimettere in c</E
+M>rimettere in c</E
+M>un malfattore simile!</E
+M>togliere</E
+M>levare dalla c</E

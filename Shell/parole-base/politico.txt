@@ -1,0 +1,93 @@
+politico.txt
+"animale politico"
+"apparato politico"
+"asilo politico"
+"attivismo politico"
+"attivista politico"
+"blocco (politico)"
+"candidato politico"
+"commissario politico"
+"comportamento politico, superficiale"
+"credo politico"
+"economista politico"
+"fermento politico"
+"fronte politico"
+"governo politico"
+"intrigo politico"
+"leader politico"
+"modello politico"
+"movimento politico"
+"partito politico"
+"partito politico"
+"patrocinio politico"
+"patronato politico"
+"persona in cerca di asilo politico, richiedente asilo politico"
+"piano d'azione politico"
+"politico"
+"politico"
+"politico"
+"politico"
+"politico"
+"politico militare"
+"politico-military"
+"prezzo politico"
+"prigioniero politico"
+"programma politico"
+"programma politico"
+"rendere politico"
+"scandalo politico che costrinse Richard Nixon a dimettersi nel 1974"
+"scienziato politico"
+"uomo politico"
+* [[polittico]]
+M>politĭcus</E
+M>politikós</E
+M>polítes</E
+M>-ci</E
+M>costituzione p</E
+M>ordinamenti p</E
+M>regimi p</E
+M>lotta p</E
+M>i partiti p</E
+M>il potere p</E
+M>gruppi p</E
+M>situazione p</E
+M>avvenimenti p</E
+M>crisi politica</E
+M>pensiero p</E
+M>idee</E
+M>teorie</E
+M>dottrine p</E
+M>cultura p</E
+M>studi p</E
+M>formule politiche</E
+M>notizie</E
+M>cronache p</E
+M>discussioni p</E
+M>i risvolti p. di una vicenda</E
+M>giornalista</E
+M>commentatore politico</E
+M>libertà politica. </E
+M>diritti civili</E
+M>elezioni amministrative</E
+M>avversario</E
+M>nemico p</E
+M>estens.</E
+M>un uomo p.</E
+M>acume</E
+M>senso politico</E
+M>lett</E
+M>estens</E
+M>cerca di essere più politico</E
+M>il suo invito è un atto squisitamente politico</E
+M>soc</E
+M>geogr.</E
+M>Geografia p.</E
+M>Carta p.</E
+M>è un p. intelligente</E
+M>corrotto</E
+M>il linguaggio dei politici</E
+M>estens</E
+M>il tuo non è stato un gesto da politico</E
+M>personale</E
+M>privato</E
+M>occorre fare interventi sul politico</E

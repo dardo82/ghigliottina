@@ -1,0 +1,13 @@
+colica.txt
+"colica"
+M>colico</E
+M>affezione</E
+M>appendicolare</E
+M>epatica</E
+M>biliare</E
+M>intestinale</E
+M>mestruale</E
+M>pancreatica</E
+M>renale</E
+M>salivare</E
+M>saturnina</E

@@ -1,0 +1,54 @@
+disordinato.txt
+"con grande scompiglio, confuso, disordinato"
+"disordinato"
+"disordinato"
+"disordinato"
+"disordinato"
+"sforzo disordinato"
+*[[caotico]], [[sciatto]], [[sottosopra]], [[disperso]], [[sparpagliato]]
+*[[scomposto]],  [[trascurato]]
+*[[confuso]], [[sconnesso]]
+*[[ordinato]], [[sistemato]], [[misurato]], [[moderato]], [[discreto]]
+M>disordinare</E
+M>disordine</E
+M>dis</E
+M>ordinato</E
+M>casa</E
+M>stanza d</E
+M>carte d</E
+M>vestiti d</E
+M>capelli d</E
+M>procedere</E
+M>avanzare in modo d</E
+M>file d</E
+M>gruppo disordinato</E
+M>Amministrazione d</E
+M>ufficio d</E
+M>famiglia d</E
+M>una ragazza d</E
+M>in tutto</E
+M>è un impiegato assai d</E
+M>sei un gran disordinato</E
+M>che uomo disordinato!</E
+M>essere d</E
+M>nel bere</E
+M>nel mangiare</E
+M>nelle spese</E
+M>condurre una vita d</E
+M>la povertà nella quale per lo d</E
+M>loro spendere eran venuti</E
+M>affetti</E
+M>appetiti d</E
+M>pensieri d</E
+M>idee d</E
+M>cervello d</E
+M>discorso</E
+M>cómpito d</E
+M>esposizione d</E
+M>carte disordinatamente ammassate</E
+M>lavorare</E
+M>andar vestito</E
+M>vivere disordinatamente</E
+M>reparti che fuggivano disordinatamente</E
+M>esporre disordinatamente i fatti</E
+M>i proprî concetti</E

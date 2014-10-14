@@ -1,0 +1,34 @@
+frigorifero.txt
+"di magazzino frigorifero"
+"frigorifero"
+"frigorifero"
+"frigorifero"
+#*''mettere il formaggio in un autocarro frigorifero''
+#* ''ho messo le fragole in '''frigorifero'''''
+#* ''questa camera è un '''frigorifero'''!''
+*[[refrigeratore]], [[congelatore]]
+*[[calorifico]],[[frigo]]
+* [[congelatore]]
+* [[frigo]]
+M>frigus</E
+M>ris</E
+M>fero</E
+M>impianto</E
+M>apparecchio f</E
+M>armadio f</E
+M>gruppo f</E
+M>cella f</E
+M>freezer</E
+M>catena f</E
+M>carri ferroviarî f</E
+M>magazzino f</E
+M>nave f</E
+M>miscele f</E
+M>per uso domestico</E
+M>freezer</E
+M>grandi f</E
+M>bar</E
+M>frigobàr</E
+M>mettere in f</E
+M>qualcosa</E
+M>frigorifero</E

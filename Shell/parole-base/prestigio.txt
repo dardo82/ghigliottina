@@ -1,0 +1,34 @@
+prestigio.txt
+"fare il giocoliere, fare giochi di prestigio"
+"gioco di prestigio"
+"indiscusso prestigio"
+"prestigio"
+"prestigio"
+"prestigio"
+"prestigio"
+*[[credito]], [[reputazione]], [[popolarità]], [[merito]], [[pregio]]
+* [[trucco]], [[illusione]], [[magia]], [[incantesimo]], [[suggestione]]
+*[[sortilegio]], [[destrezza]]
+*[[prestigioso]], [[prestigiatore]], [[prestidigitatore]]
+*'' gioco di 
+M>praestigia</E
+M>praestigiae</E
+M>praestring</E
+M>praestringere oculos</E
+M>prae-</E
+M>string</E
+M>praestigium</E
+M>gioco di prestigio</E
+M>la gran cosa fu di ... rompere una volta quell&#8217;amaro p. che ci dava a credere d&#8217;avere a mangiare l&#8217;Austria anche nel pane</E
+M>prestige</E
+M>avere</E
+M>non avere p</E
+M>una persona</E
+M>uno scienziato di grande p</E
+M>difendere il p. del proprio nome</E
+M>perdere in p</E
+M>godere di un certo p</E
+M>ne va del nostro p</E
+M>è una questione di p</E
+M>il p. di una nazione</E
+M>politica di p</E

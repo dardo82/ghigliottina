@@ -1,0 +1,68 @@
+vacca.txt
+"pelle di vacca"
+"porca vacca"
+"porca vacca!"
+"porca vacca!"
+"vacca"
+"vacca"
+"vacca boia"
+"vacca sacra"
+#*''bollito di vacca''
+#*''quella donna è una vacca''
+*[[vaccaio]], [[vaccaro]], [[vaccheria]], [[vaccino]]
+*[[latte]], [[toro]], [[vitello]]
+* finire in vacca
+*italiano
+*latino
+m>vacca</e
+m>allevamento di vacche</e
+m>vacche da lavoro</e
+m>da riproduzione</e
+m>da macello</e
+m>da carne</e
+m>carne di vacca</e
+m>bollito di vacca</e
+m>da latte</e
+m>pelle di vacca</e
+m>le sette v. grasse e le sette v. magre</e
+m>Genesi</e
+m>essere</e
+m>non essere in tempo di v. grasse</e
+m>essere</e
+m>trovarsi</e
+m>stare in un ventre di vacca</e
+m>Bicornia a lingua di vacca</e
+m>lingua di v.</e
+m>vacche</e
+m>andare in vacca</e
+m>invacchire</e
+m>andare in v.</e
+m>la festa</e
+m>la nostra iniziativa</e
+m>è andata in vacca</e
+m>fare la v.</e
+m>sei una v.!</e
+m>è una gran v.</e
+m> quella ragazza</e
+m>quella fa la v. con tutti</e
+m>porca vacca!</e
+m>stava sdraiato</e
+m>sdraiata</e
+m>come una vacca</e
+m>stravaccato</e
+m>mercato delle vacche</e
+m>Kuhhandel</e
+m>il mercato delle v. dell&rsquo;assegnazione dei ministeri</e
+m>parlare il francese come una v. spagnola</e
+m>parler le français comme une vache espagnole</e
+m>Vacca marina</e
+m>vacca</e
+m>pesce v.</e
+m>Mobula mobular</e
+m>cefalottera</e
+m>Vacca di mare</e
+m>Hydrodamalis gigas</e
+m>Vacche delle formiche</e
+m>vacche</e
+m>è una poco di buono</e
+m>una vaccaccia!</e

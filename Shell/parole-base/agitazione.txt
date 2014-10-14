@@ -1,0 +1,32 @@
+agitazione.txt
+"(essere) sulle spine, in grande agitazione"
+"agitazione"
+"agitazione"
+"agitazione"
+"agitazione sindacale, protesta sindacale, azione sindacale"
+"andare su e giù con agitazione"
+"in agitazione"
+"in agitazione"
+"in stato di agitazione"
+"mettersi in agitazione"
+"senza agitazione"
+*''(sindacale)'' [[protesta]], [[sciopero]]
+M>agitatio</E
+M>onis</E
+M>l’a</E
+M>delle masse</E
+M>essere in grande a</E
+M>mettere uno in a</E
+M>stato di grave a</E
+M>psicomotoria</E
+M>di stomaco</E
+M>con a</E
+M>allegro con a</E
+M>presto con a</E
+M>agitato</E
+M>termica</E
+M>i metalmeccanici</E
+M>i ferrovieri</E
+M>gli edili</E
+M>gli insegnanti</E
+M>sono entrati in agitazione</E

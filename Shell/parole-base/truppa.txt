@@ -1,0 +1,40 @@
+truppa.txt
+"truppa"
+"truppa"
+*[[esercito]], [[militari]], [[soldati]], [[reggimento]], [[milizia]], [[schiera]], [[drappello]]
+*[[guarnigione]]
+M>troupe</E
+M>turba</E
+M>troppo</E
+M>il grosso della t.</E
+M>ordinare alla t. di far fuoco</E
+M>passare in rivista la t.</E
+M>le t.</E
+M>t. ausiliarie</E
+M>mercenarie</E
+M>milizie</E
+M>le t. italiane</E
+M>francesi</E
+M>le t. al fronte</E
+M>sostituire con t. fresche le forze stanche</E
+M>il comandante delle t. alleate</E
+M>truppe di rincalzo</E
+M>di rinforzo</E
+M>t. scelte</E
+M>t. speciali</E
+M>t. celeri</E
+M>t. d&#8217;assalto</E
+M>militari di truppa</E
+M>una t. di teppisti</E
+M>d&#8217;impostori</E
+M>di cialtroni</E
+M>ha una t. di figli da nutrire</E
+M>ecco che arriva la t.</E
+M>degli amici</E
+M>degli invitati</E
+M>a truppe</E
+M>in truppa</E
+M>si sparsero a truppe per i campi</E
+M>s&#8217;avviarono in truppa</E
+M>troupe</E
+M>qualche truppa comica italiana</E

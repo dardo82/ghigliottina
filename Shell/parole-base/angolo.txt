@@ -1,0 +1,161 @@
+angolo.txt
+"ad angolo retto"
+"ad angolo retto"
+"angolo"
+"angolo"
+"angolo"
+"angolo"
+"angolo acuto"
+"angolo buio"
+"angolo cottura"
+"angolo cucina"
+"angolo d'apertura"
+"angolo d'attacco"
+"angolo d'incidenza"
+"angolo d'inclinazione"
+"angolo del focolare"
+"angolo del giardinaggio"
+"angolo del libro"
+"angolo dell'amen"
+"angolo di campo"
+"angolo di fase"
+"angolo di torsione"
+"angolo di vista"
+"angolo di vista"
+"angolo diedro"
+"angolo inverso"
+"angolo limite"
+"angolo morto"
+"angolo obliquo"
+"angolo orario"
+"angolo ottuso"
+"angolo perpendicolare"
+"angolo privilegiato"
+"angolo retto"
+"angolo soleggiato"
+"angolo solido"
+"angolo stampa"
+"angolo verticale"
+"armadio ad angolo"
+"credenza ad angolo"
+"dietro l'angolo"
+"girare l'angolo"
+"girare l'angolo"
+"girare l'angolo"
+"in un angolo buio, nascosto"
+"libreria ad angolo"
+"misura dell'angolo"
+"subito dietro l'angolo"
+"tavolo ad angolo"
+"un angolo di"
+*[[spigolo]], [[canto]], [[cantone]], [[cantonata]], [[cantuccio]]
+*(di bocca, occhi) [[estremità]]
+*[[triangolo]], [[quadrangolo]], [[sterangolo]], [[rettangolo]]
+*[[angolare]], [[angolo cottura]], [[angolazione]],[[radiante]],[[grado]]
+M>ang</E
+M>lus</E
+M>piano</E
+M>angolo</E
+M>lati dell’a</E
+M>vertice</E
+M>retto</E
+M>acuto</E
+M>ottuso</E
+M>piatto</E
+M>giro</E
+M>gli a</E
+M>di un triangolo</E
+M>di un esagono</E
+M>di riflessione</E
+M>di rifrazione</E
+M>misurazione di un a</E
+M>misura degli a</E
+M>complementari</E
+M>supplementari</E
+M>replementari</E
+M>explementari</E
+M>adiacenti</E
+M>opposti al vertice</E
+M>alterni esterni</E
+M>alterni interni</E
+M>corrispondenti</E
+M>coniugati esterni</E
+M>coniugati interni</E
+M>interno</E
+M>esterno</E
+M>al centro</E
+M>alla circonferenza</E
+M>solido</E
+M>diedro</E
+M>triedro</E
+M>angoloide</E
+M>solido</E
+M>di campo</E
+M>ripiegare l’a</E
+M>superiore destro di un foglio</E
+M>annodare i quattro a</E
+M>del fazzoletto</E
+M>pulirsi le labbra con l’a</E
+M>del tovagliolo</E
+M>gli a</E
+M>della bocca</E
+M>l’a</E
+M>dell’occhio</E
+M>scantonatura</E
+M>bisello</E
+M>in quel punto</E
+M>la strada fa</E
+M>il fiume forma un angolo</E
+M>di un edificio</E
+M>di una strada</E
+M>canto</E
+M>cantonata</E
+M>dietro l’a</E
+M>girare</E
+M>voltare l’a</E
+M>fare angolo</E
+M>in via Mazzini a. via del Corso</E
+M>all’angolo con via del Corso</E
+M>stanza</E
+M>appartamento</E
+M>negozio d’a</E
+M>d’un mobile</E
+M>d’una cassa</E
+M>cosa c’è dietro l’a</E
+M>l’a</E
+M>della stanza</E
+M>i quattro a</E
+M>di un cassetto</E
+M>mobile</E
+M>libreria</E
+M>divano d’angolo</E
+M>spazzare</E
+M>spolverare</E
+M>ripulire bene gli a</E
+M>mettersi a sedere in un a</E
+M>della sala a far quattro chiacchiere</E
+M>si rincantucciò tutto infreddolito in un a</E
+M>dello scompartimento</E
+M>cottura</E
+M>cacciarsi in un a</E
+M>cercare un a</E
+M>tranquillo per riposarsi un po’, per sfuggire la gente</E
+M>per fare all’amore</E
+M>cercare in ogni a</E
+M>per tutti gli a</E
+M>in qualche a</E
+M>della terra</E
+M>i quattro a</E
+M>della Terra</E
+M>ai quattro a</E
+M>della Terra</E
+M>morto</E
+M>neutri</E
+M>stringere</E
+M>chiudere in a</E
+M>calcio d’a</E
+M>corner</E
+M>tiro dalla bandierina</E
+M>sedersi</E
+M>mettersi in un angolino</E
+M>cercare un angolino tranquillo dove trascorrere le vacanze</E

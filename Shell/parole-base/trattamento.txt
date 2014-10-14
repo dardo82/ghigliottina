@@ -1,0 +1,120 @@
+trattamento.txt
+"a trattamento termico"
+"avere un buon trattamento, avere un trattamento onesto, essere trattato bene"
+"che sottopone a trattamento termico"
+"consenso al trattamento dati"
+"sottoporre ad un trattamento"
+"sottoposto a trattamento termico"
+"sottoposto a trattamento termico"
+"subire un trattamento"
+"trattamento"
+"trattamento"
+"trattamento"
+"trattamento"
+"trattamento"
+"trattamento a fanghi attivati"
+"trattamento ad acqua"
+"trattamento attivo"
+"trattamento coadiuvante"
+"trattamento conservativo"
+"trattamento dei minerali"
+"trattamento delle acque reflue"
+"trattamento di bellezza"
+"trattamento di favore"
+"trattamento indegno"
+"trattamento ingiusto"
+"trattamento iniquo"
+"trattamento leggero"
+"trattamento onesto"
+"trattamento palliativo"
+"trattamento per i piedi"
+"trattamento positivo diretto"
+"trattamento preferenziale"
+"trattamento speciale"
+"trattamento termico"
+"trattamento termico"
+"un trattamento equo"
+M>t. delle pelli</E
+M>del cuoio</E
+M>dei vini</E
+M>del tabacco</E
+M>t. dei minerali</E
+M>arricchimento</E
+M>t. termico degli acciai</E
+M>t. delle acque di rifiuto</E
+M>t. delle pellicole</E
+M>t. dei boschi</E
+M>t. delle fustaie</E
+M>t. dei cedui semplici e composti</E
+M>t. antiparassitario</E
+M>anticrittogamico</E
+M>insetticida</E
+M>diserbante</E
+M>t. superficiali</E
+M>t. ancorati</E
+M>a penetrazione</E
+M>t. a semipenetrazione</E
+M>t. di una frattura</E
+M>t. dei tumori</E
+M>t. della pelle</E
+M>t. del viso</E
+M>t. del corpo</E
+M>t. del cuoio capelluto con lozioni</E
+M>t. sanitario obbligatorio</E
+M>t. dell&#8217;informazione</E
+M>dei dati</E
+M>elaborazione dei dati</E
+M>t. dei segnali</E
+M>t. dei testi</E
+M>text-processing</E
+M>t. delle immagini</E
+M>fare</E
+M> dare</E
+M> ricevere un buon t.</E
+M>un t. pessimo</E
+M>avrai un t. di favore</E
+M>ha avuto il t. che si meritava</E
+M>mal t.</E
+M>maltrattamento</E
+M>querelandomi io seco di questi mali t.</E
+M>t. di uno stato verso i cittadini di un altro stato</E
+M>clausola del t.</E
+M>un t. ottimo</E
+M>signorile</E
+M>familiare</E
+M>scelto</E
+M>mediocre</E
+M>scadente</E
+M>pessimo</E
+M>il t. lascia molto a desiderare</E
+M>da qualche tempo il t. nel convitto è notevolmente migliorato</E
+M>il t. è stato di vostra soddisfazione?</E
+M>gli danno intero t.</E
+M> oltre la paga</E
+M>è stato assunto a mille euro al mese</E
+M> più il t. completo</E
+M>t. tavola</E
+M>t. retributivo</E
+M>il t. di un operaio</E
+M>di una collaboratrice familiare</E
+M>di un impiegato</E
+M>di un funzionario</E
+M>il t. di una categoria</E
+M>il t. degli insegnanti è ancora inadeguato</E
+M>migliorare</E
+M> modificare il t.</E
+M>t. di fine rapporto</E
+M>t. di quiescenza</E
+M>dare</E
+M> fare trattamento</E
+M>mio padre</E
+M> quando si preannunciavano quelle serate</E
+M> ... chiedeva a mia madre:</E
+M>Hai preparato un po&#8217; di trattamento?</E
+M>Il t. erano tè e biscotti: liquori</E
+M> in casa nostra</E
+M> non ne entravano mai</E
+M>trattamento</E
+M>treatment</E
+M>scenario</E
+M>trattativa</E

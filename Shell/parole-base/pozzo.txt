@@ -1,0 +1,103 @@
+pozzo.txt
+"acqua del pozzo"
+"pozzo"
+"pozzo"
+"pozzo"
+"pozzo artesiano"
+"pozzo d'aerazione"
+"pozzo delle scale"
+"pozzo di gas"
+"pozzo di petrolio"
+"pozzo di scienza"
+"pozzo nero"
+"pozzo nero"
+#* ''
+#* ''scavare un 
+#* ''
+*''pozzo di scienza''
+*Enciclopedia [http
+M>teus</E
+M>filtrante</E
+M>freatico</E
+M>la buca</E
+M>la gola</E
+M>il parapetto</E
+M>la sponda</E
+M>la vera del p</E
+M> le stelle tremavano nel secchio che saliva dal buco nero del p.</E
+M>scavare</E
+M>costruire un p</E
+M>con molta</E
+M>con poca acqua</E
+M>asciutto</E
+M>tubolare</E
+M>artesiani</E
+M>la verità è un p</E
+M>sta nel p</E
+M>è in fondo al p</E
+M>voler prendere la luna nel p.</E
+M>mostrare</E
+M>far vedere la luna nel p</E
+M>avere un p</E
+M>di soldi</E
+M>di quattrini</E
+M>un p</E
+M>mi piace un p</E
+M>essere un p</E
+M>senza fondo</E
+M>essere un p</E
+M>di scienza</E
+M>di dottrina</E
+M>di erudizione</E
+M>Divina Commedia</E
+M>Inferno</E
+M>Nel dritto mezzo del campo maligno Vaneggia un p</E
+M>assai largo e profondo</E
+M>prendere il p.</E
+M>tu pensi ad aprire e io a fare il gioco del pozzo</E
+M>della morte</E
+M>I Pozzi</E
+M>di san Patrizio</E
+M>purgatorio di san Patrizio</E
+M>della Rocca</E
+M>essere</E
+M>non essere</E
+M>il p</E
+M>di san Patrizio</E
+M>dall&#8217;amaro p</E
+M>delle cose passate</E
+M>veniva su una forza che mai lui avrebbe osato sperare</E
+M>di drenaggio</E
+M>di caduta</E
+M>blindato</E
+M>di petrolio</E
+M>petrolifero</E
+M>esplorativi</E
+M>produttivi</E
+M>trivellato</E
+M>da miniera</E
+M>interno</E
+M>esterno</E
+M>maestro</E
+M>da mina</E
+M>chiarificatore</E
+M>biologico</E
+M>perdente</E
+M>nero</E
+M>la botte del p</E
+M>nero</E
+M>governare le piante col p</E
+M>nero</E
+M>di fondazione</E
+M>carsico</E
+M>glaciale</E
+M>buca</E
+M>da neve</E
+M>delle catene</E
+M>caldo</E
+M>della deriva</E
+M>dell&#8217;elica</E
+M>Bastimenti a pozzo</E
+M>pozzo di calore</E
+M>sorgente</E
+M>di Faraday</E

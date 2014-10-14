@@ -1,0 +1,97 @@
+fermare.txt
+"fermaglio; molletta per fermare il cappello di una signora"
+"fermare"
+"fermare"
+"fermare"
+"fermare, replace: fermarsi"
+"fermare, replace: fermarsi"
+"fermare, replace: fermarsi"
+"fermare"
+"fermare bruscamente"
+"fermare il cronometro"
+"fermare qcs, trattenere qcs"
+"trattenere qc, fermare qc, rallentare qc, ostacolare qc"
+#*''fermare un tram''
+*[[assicurare]],[[interrompere]],[[trattenere]]
+*[[confermare]]
+*[[fermaglio]],[[fermarsi]]
+M>rmare</E
+M>rmus</E
+M>io férmo</E
+M>un bottone che ciondola</E
+M>un chiodo</E
+M>il punto</E
+M>le finestre</E
+M>le imposte</E
+M>le persiane</E
+M>il colore</E
+M>la voce</E
+M>sulla carta i proprî pensieri</E
+M>una data nella memoria</E
+M>un’immagine nella mente</E
+M>l’animo a una cosa</E
+M>di fare una cosa</E
+M>fermato così un poco l’animo a una deliberazione</E
+M>poté finalmente chiuder occhio</E
+M>nel fermar tra Dio e l’uomo il patto</E
+M>e questo fermaron con giuramento</E
+M>un prezzo</E
+M>una macchina</E
+M>una carrozza</E
+M>un cavallo</E
+M>un ladro che fugge</E
+M>il nemico che avanza</E
+M>l’avanzata del nemico</E
+M>l’avanzata di una squadra</E
+M>una squadra</E
+M>Giosuè fermò il sole</E
+M>non è possibile f</E
+M>il tempo</E
+M>la circolazione</E
+M>il sangue</E
+M>il piede</E
+M>i piedi</E
+M>il passo</E
+M>fermalo!</E
+M>qualcuno</E
+M>fermai il primo che passava per domandargli la strada</E
+M>m’ha fermato il direttore nel suo ufficio</E
+M>l’attenzione</E
+M>il pensiero</E
+M>gli occhi sopra una cosa</E
+M>il canto</E
+M>la lettura</E
+M>il lavoro</E
+M>il gioco</E
+M>un appuntamento</E
+M>una camera d’albergo</E
+M>un correre</E
+M>un fermarsi a vicenda</E
+M>un consultare tumultuoso</E
+M>mi fermai a metà salita per riprendere fiato</E
+M>fermarsi di botto</E
+M>in tronco</E
+M>di colpo</E
+M>fermarsi a contemplare un quadro</E
+M>m’ero fermato davanti a un’edicola</E
+M> si sentiva da lontano il verso lugubre di un gufo che aveva preso l’abitudine di fermarsi proprio sul tetto del cascinale a cantare con voce di sventura</E
+M>fermarsi al primo uscio</E
+M>alla prima osteria</E
+M>debbo fermarmi in ufficio fino a tardi</E
+M>s’era fermato a parlare col portiere</E
+M>vai avanti</E
+M>non ti fermare ogni momento</E
+M>dopo ogni frase si fermava per studiare l’effetto delle sue parole</E
+M>ho lavorato tutto il pomeriggio senza fermarmi un solo istante</E
+M>non fermarsi mai</E
+M>s’è fermato l’orologio</E
+M>il motore si fermò improvvisamente</E
+M>gli s’è fermato il cuore</E
+M>avere</E
+M>fermarsi</E
+M>ferma!</E
+M>fermate!</E
+M>è un treno che ferma a tutte le stazioni</E
+M>l’autobus ferma proprio davanti a casa mia</E
+M>fermeremo al prossimo distributore per fare rifornimento di carburante</E
+M>i fermati furono subito rilasciati</E

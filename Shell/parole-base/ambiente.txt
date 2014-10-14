@@ -1,0 +1,89 @@
+ambiente.txt
+"a temperatura ambiente"
+"ambiente"
+"riferito all'ambiente"
+"ambiente"
+"ambiente"
+"ambiente"
+"ambiente"
+"ambiente"
+"ambiente cinematografico"
+"ambiente circostante"
+"ambiente climatizzato"
+"ambiente competitivo"
+"ambiente di lavoro"
+"ambiente familiare"
+"ambiente lavorativo"
+"ambiente naturale"
+"ambiente originario"
+"ambiente protetto"
+"ambiente sociale"
+"ambiente sterile"
+"ambiente stimolante"
+"intero ambiente"
+"preoccupazione per l'ambiente"
+"temperatura ambiente"
+"temperatura ambiente"
+"tutela dell'ambiente"
+#* ''Questo '''ambiente''' è troppo caldo, apri la finestra!''
+*''(di appartamento, di casa)'' [[stanza]], [[camera]], [[vano]], [[locale]]
+*[[luogo]], [[posto]], [[sito]], [[territorio]], [[paesaggio]]
+*[[ambientale]], [[ambientalismo]]
+*Enciclopedia [http
+M>ambiens</E
+M>entis</E
+M>ambire</E
+M>alcuni animali vivono in un a</E
+M>caldo</E
+M>temperatura a</E
+M>reazione chimica che avviene a temperatura a</E
+M>il vino rosso si beve a temperatura a</E
+M>l’aria a</E
+M>terrestre</E
+M>marino</E
+M>d’acqua dolce</E
+M>le relazioni tra organismi e ambiente</E
+M>la difesa</E
+M>la tutela</E
+M>la salvaguardia dell’a</E
+M>politica dell’a.</E
+M>ministero dell’Ambiente e della Tutela del Territorio e del Mare</E
+M>plutonico</E
+M>ipoabissale</E
+M>di sedimentazione</E
+M>acido</E
+M>alcalino</E
+M>saturo</E
+M>ragazzi cresciuti in ambienti</E
+M>degradati</E
+M>il collegio fu per lui un a</E
+M>sano e accogliente</E
+M>trovarsi nel proprio a</E
+M>fuori del proprio a</E
+M>risentire le influenze dell’a</E
+M>esterno</E
+M>cambiare ambiente</E
+M>l’a</E
+M>domestico</E
+M>l’a</E
+M>di lavoro</E
+M>un a</E
+M>allegro</E
+M>simpatico</E
+M>antipatico</E
+M>se ne andò di lì per levarsi da quell’ambiente</E
+M>un a</E
+M>conservatore</E
+M>tradizionalista</E
+M>politico</E
+M>la notizia proviene da a</E
+M>bene informati</E
+M>gli a</E
+M>chiusi e malsani di certe casupole di periferia</E
+M>arieggiare l’a</E
+M>illuminazione degli a</E
+M>di lavoro</E
+M>confinati</E
+M>a. operativo</E
+M>lavorare in un dato a.</E
+M>proprio un bell’ambientino!</E

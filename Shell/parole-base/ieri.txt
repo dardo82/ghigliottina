@@ -1,0 +1,51 @@
+ieri.txt
+"ieri"
+"ieri"
+"ieri"
+"ieri notte, ieri sera"
+"ieri, oggi e domani"
+"l'altro ieri, l'altroieri"
+"nato ieri"
+"non essere mica nati ieri"
+"non essere nato ieri"
+"non essere nato ieri"
+"non essere nato ieri"
+"soltanto ieri"
+* [[oggi]], [[domani]]
+*''ieri l'altro''
+*''l'altro ieri''
+M>sono arrivato i</E
+M>era domenica</E
+M>ieri mattina</E
+M>ier mattina</E
+M>iermattina</E
+M>ieri sera</E
+M>ier sera</E
+M>iersera</E
+M>ieri notte</E
+M>ier notte</E
+M>iernotte</E
+M>ieri l’altro</E
+M>ier l’altro</E
+M>ierlaltro</E
+M>l’altro i</E
+M>a otto</E
+M>a un mese</E
+M>non lo vedo da i</E
+M>fino a i</E
+M>prima di i</E
+M>da i</E
+M>a oggi</E
+M>dall’ieri all’oggi</E
+M>dall’oggi al domani</E
+M>sono cose di i</E
+M>fino a i</E
+M>era ancora uno sconosciuto</E
+M>non sono nato i</E
+M>credi che sia nato i</E
+M>come se fossi nato i</E
+M>è nato</E
+M>nata i</E
+M>sembra nato i</E
+M>non sono un nato ieri</E
+M>una nata ieri</E

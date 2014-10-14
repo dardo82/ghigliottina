@@ -1,0 +1,5 @@
+aranciata.txt
+"aranciata"
+"aranciata amara"
+*[[spremuta d'arancia]]
+M>spremuta d’arancia</E

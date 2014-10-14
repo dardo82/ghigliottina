@@ -1,0 +1,47 @@
+sembrare.txt
+"assomigliare a qualcuno, sembrare qualcuno"
+"fare sembrare magro"
+"non sembrare"
+"non voler sembrare presuntuoso"
+"sembrare"
+"sembrare cattivo"
+"sembrare come"
+"sembrare di essere"
+"sembrare essere"
+"sembrare grande"
+"sembrare logico, essere ragionevole"
+"sembrare simile"
+"sembrare stupido"
+"sembrare stupido"
+"sembrare sveglio"
+"sembrare un casino"
+"sembrare vivo"
+"sembrare; avere l'apparenza di"
+*[[parere]]
+M>semblar</E
+M>similare</E
+M>sim</E
+M>lis</E
+M>io sémbro</E
+M>essere</E
+M>parere</E
+M>ti sembra bello ciò che hai fatto?</E
+M>sembra che non gliene importi affatto</E
+M>mi sembra di averlo già incontrato</E
+M>fiorentino Mi sembri veramente quand&#8217;io t&#8217;odo</E
+M>una lupa</E
+M> che di tutte brame Sembiava carca ne la sua magrezza</E
+M>l&#8217;anima gentile Ch&#8217;ogni altro piacer vile Sembiar mi fa</E
+M>se la donna ti sembla avenante</E
+M>avvenente</E
+M>da lontano mi eri sembrato Piero</E
+M>si è ridotto che sembra un fantasma</E
+M>Sembra Talia se in man prende la cetra</E
+M> Sembra Minerva se in man prende l&#8217;asta</E
+M>parere</E
+M>sembrare</E
+M>paio</E
+M>pari</E
+M>paiamo</E
+M>paiono</E
+M>parere</E

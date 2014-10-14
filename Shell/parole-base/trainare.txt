@@ -1,0 +1,23 @@
+trainare.txt
+"rimorchiare, trainare"
+"rimorchiare, trainare"
+"trainare"
+"trainare"
+"trainare"
+*[[traino]]
+M>traîner</E
+M>*traginare</E
+M>trah</E
+M>io tràino</E
+M>la locomotiva trainava numerosi vagoni</E
+M>t. un pezzo di artiglieria</E
+M>t. una barca dalla riva</E
+M>t. un aliante</E
+M>il veicolo</E
+M>l&#8217;imbarcazione trainante</E
+M>la forza</E
+M>l&#8217;effetto trainante dell&#8217;esempio</E
+M>paesi trainanti</E
+M>artiglieria trainata</E
+M>ippotrainata</E
+M>autotrainata</E

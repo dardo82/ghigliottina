@@ -1,0 +1,31 @@
+confezione.txt
+"confezione"
+"confezione"
+"confezione assaggio"
+"confezione del regalo"
+"confezione di"
+"confezione di"
+"confezione economica"
+"confezione famiglia"
+"confezione originale"
+"confezione per prodotti alimentari"
+"fare un pacco regalo, fare una confezione regalo"
+*[[ preparazione]], [[lavorazione]], [[manifattura]], [[produzione]]
+*''(spec. pl.)'' [[vestiti]],[[vestiario]], [[abiti]], [[indumenti]] 
+*''(di merce)'' [[pacco]], [[scatola]], [[involucro]], [[imballaggio]], [[imballo]], [[incarto]], [[presentazione]]
+M>confectio</E
+M>onis</E
+M>confic</E
+M>confection</E
+M>di un documento</E
+M>di un manifesto</E
+M>di un testamento</E
+M>il cioccolatte è una mistura o c</E
+M>fatta di vari ingredienti</E
+M>negozio di confezioni</E
+M>confezioni per uomo</E
+M>per signora</E
+M>accurata</E
+M>provvisoria</E
+M>provvedere alla c</E
+M>di un pacco</E

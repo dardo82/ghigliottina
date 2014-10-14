@@ -1,0 +1,48 @@
+osceno.txt
+"che parla in modo osceno"
+"linguaggio osceno"
+"osceno"
+"osceno"
+"osceno"
+#* ''mi fece una proposta oscena''
+*[[sconcio]], [[indecente]], [[scostumato]], [[scandaloso]], [[volgare]], [[scurrile]], [[sporco]], [[sboccato]], [[triviale]], [[depravato]], [[turpe]], [[lascivo]], [[impudico]]
+* [[lubrico]],  [[licenzioso]]
+*[[decente]],[[ pulito]] 
+*[[pudico]], [[casto]] 
+*[[oscenamente]], [[oscenità]]
+*[[cinedologia]]
+*[[pornografico]]
+*italiano
+M>obscenus</E
+M>obscaenus</E
+M>parole</E
+M>frasi o</E
+M>tenere un comportamento o</E
+M>usare un linguaggio o</E
+M>atti o</E
+M>fare un gesto o</E
+M>scritte</E
+M>immagini</E
+M>fotografie o</E
+M>canzoni o</E
+M>spettacoli o</E
+M>proposte oscene</E
+M>uomo</E
+M>scrittore</E
+M>attore</E
+M>pittore o</E
+M>una donna oscena</E
+M>il mostro o</E
+M>le bramose arpie</E
+M>Col tetro</E
+M>osceno</E
+M>abominevol puzzo Ne sgominâr le mense</E
+M>di Libia Le belve in guerra oscena Empiean d’urla e di fremito E di sangue l’arena</E
+M>le facciate di questi palazzi sono o</E
+M>scrive in una prosa o</E
+M>questo quadro è davvero o</E
+M>si veste in modo veramente osceno</E
+M>ridere</E
+M>parlare</E
+M>gesticolare</E
+M>comportarsi oscenamente</E

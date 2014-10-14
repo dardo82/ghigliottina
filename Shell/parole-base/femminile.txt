@@ -1,0 +1,47 @@
+femminile.txt
+"abbigliamento da notte femminile"
+"abbigliamento femminile"
+"abbigliamento femminile"
+"articolo da notte femminile"
+"cellula gamete femminile"
+"del suffragio femminile"
+"di tipo femminile"
+"femminile"
+"genere femminile"
+"intimo femminile"
+"moda femminile"
+"moda femminile"
+"nobiltà femminile"
+"ormone femminile"
+"personaggio femminile"
+"seno femminile"
+"sesso femminile"
+"sesso femminile"
+"suffragio femminile"
+*[[femmineo]],[[femminino]]; [[muliebre]]
+*[[ maschile]],[[ mascolino]], [[virile]]
+*[[femminismo]]
+M>sesso f</E
+M>corpo</E
+M>animo</E
+M>psicologia f</E
+M>una grazia squisitamente f</E
+M>gusti tipicamente f</E
+M>abito f</E
+M>arti f</E
+M>un’intelligenza tutta f</E
+M>linea f</E
+M>scuola f</E
+M>gara f</E
+M>torneo f</E
+M>la f</E
+M>il f</E
+M>gamete f</E
+M>fiore f</E
+M>genere f</E
+M>il f</E
+M>cesura f</E
+M>hemiepes f</E
+M>cadenza f</E
+M>arrossire femminilmente</E
+M>una statua di efebo femminilmente atteggiato</E

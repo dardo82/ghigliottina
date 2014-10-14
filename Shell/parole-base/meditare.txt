@@ -1,0 +1,53 @@
+meditare.txt
+"meditare"
+"meditare"
+"meditare"
+"meditare su"
+"meditare su"
+#* ''
+#* ''
+#* ''
+*[[meditabile]]
+*[[premeditare]], [[rimeditare]]
+M>meditari</E
+M>mederi</E
+M>io mèdito</E
+M>avere</E
+M>una dottrina</E
+M>una verità</E
+M>sui misteri della fede</E
+M>sopra una pagina del Vangelo</E
+M>intorno ai principî della morale cattolica</E
+M>sui fini dell’uomo</E
+M>sulle passioni umane</E
+M>meditava in silenzio</E
+M>parole che invitano a m</E
+M>sul significato profondo di una parola</E
+M>sull’importanza di una scoperta</E
+M>sugli avvenimenti della storia</E
+M>ho meditato a lungo sulla tua proposta</E
+M>medita bene le</E
+M>sulle</E
+M>mie parole</E
+M>che mediti?</E
+M>che cosa stai meditando?</E
+M>la trama di un romanzo</E
+M>un articolo</E
+M>un discorso</E
+M>un’impresa</E
+M>un piano d’azione</E
+M>il suicidio</E
+M>una strage</E
+M>un delitto</E
+M>la vendetta</E
+M>la fuga</E
+M>un tranello</E
+M>un inganno</E
+M> un tradimento</E
+M>meditava di dare le dimissioni dall’incarico</E
+M>un’opera meditata</E
+M>libro</E
+M>discorso</E
+M>piano ben meditato</E
+M>una decisione ben meditata</E
+M>prendere meditatamente una decisione</E

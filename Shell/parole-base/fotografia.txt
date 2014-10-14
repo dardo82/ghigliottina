@@ -1,0 +1,84 @@
+fotografia.txt
+"corso di fotografia"
+"direttore della fotografia"
+"fare la fotografia a qualcuno"
+"fare una fotografia"
+"fotografia"
+"fotografia"
+"fotografia a colori"
+"fotografia a colori"
+"fotografia a raggi infrarossi"
+"fotografia aerea"
+"fotografia aerea"
+"fotografia al rallentatore"
+"fotografia con flash"
+"fotografia in bianco e nero"
+"fotografia in bianco e nero"
+"fotografia istantanea"
+* [[fotografico]]
+*[[fotocamera]]
+* (immagine prodotta) [[foto]]
+*Enciclopedia [http
+M>photographie</E
+M>photography</E
+M>photo</E
+M>graphy</E
+M>macchina fotografica</E
+M>in bianco e nero</E
+M>a colori</E
+M>scattare</E
+M>fare una f</E
+M>fare una f</E
+M>istantanea</E
+M>una f</E
+M>a posa</E
+M>fare una posa</E
+M>una f</E
+M>contro luce</E
+M>sviluppare</E
+M>stampare</E
+M>ingrandire una fotografia</E
+M>nell’infrarosso</E
+M>F. digitale,</E
+M>la f</E
+M>della mamma</E
+M>degli sposi</E
+M>di una piazza</E
+M>di un interno</E
+M>basta che ci capiti in mano una nostra f. di quando avevamo sette o dieci anni per scioglierci di commozione</E
+M>una f</E
+M>somigliante</E
+M>una f</E
+M>riuscita bene</E
+M>male</E
+M>una bella</E
+M>una brutta f</E
+M>in formato cartolina</E
+M>in formato tessera</E
+M>pubblicare sul giornale la f</E
+M>di un personaggio</E
+M>le f</E
+M>di un fatto di cronaca</E
+M>regalare la propria f</E
+M>album di fotografie</E
+M>intendersi</E
+M>dilettarsi di fotografia</E
+M>la f</E
+M>attraverso i tempi</E
+M>mostra</E
+M>rassegna della f</E
+M>del secondo Ottocento</E
+M>dilettantistica</E
+M>professionale</E
+M>scientifica</E
+M>industriale</E
+M>documentaristica</E
+M>naturalistica</E
+M>paesaggistica</E
+M>aerea</E
+M>da satellite</E
+M>al microscopio</E
+M>direttore della f</E
+M>film che ha un’ottima fotografia</E
+M>le tue lettere</E
+M>somigliano a te; sono tue fotografie</E

@@ -1,0 +1,19 @@
+oltrepassare.txt
+"non oltrepassare"
+"oltrepassare"
+"oltrepassare i limiti"
+M>oltre</E
+M>oltra</E
+M>passare</E
+M>il confine</E
+M>la soglia</E
+M>non so perché non riesco mai a uscire dalla città</E
+M> il suo mondo sfinito è un incantesimo che non posso o.</E
+M>doppiare</E
+M>un capo</E
+M>un promontorio</E
+M>i limiti</E
+M>la misura</E
+M>qualcuno</E
+M>arco oltrepassato</E
+M>arco a sesto oltrepassato</E

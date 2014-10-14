@@ -1,0 +1,138 @@
+bagno.txt
+"(di costume da bagno) slip intero"
+"(essere) in un bagno di sudore"
+"andare al bagno; andare in bagno"
+"andare alla toilette, andare al bagno"
+"bagno"
+"bagno"
+"bagno"
+"bagno"
+"vasca da bagno"
+"bagno"
+"bagno, bagni"
+"bagno, bagni"
+"bagno (di luogo pubblico)"
+"bagno (in Gran Bretagna)"
+"bagno acido"
+"bagno antiparassitario per pecore"
+"bagno caldo"
+"bagno chimico"
+"bagno d'acqua"
+"bagno di fango"
+"bagno di folla"
+"bagno di sangue"
+"bagno di servizio"
+"bagno di vapore"
+"bagno pubblico"
+"bagno schiuma"
+"bagno turco"
+"bellezza al bagno"
+"calzoncini da bagno, costume da bagno"
+"costume da bagno"
+"costume da bagno"
+"fare il bagno"
+"fare il bagno"
+"fare un bagno di umiltà"
+"fare un bagno veloce, fare una breve nuotata"
+"il fare o farsi il bagno"
+"maniglia della doccia o della vasca da bagno"
+"mettere a bagno"
+"olio da bagno"
+"raffreddare in un bagno freddo"
+"sala da bagno"
+"sala da bagno"
+"sali da bagno"
+"sapone da bagno"
+"spugna da bagno"
+"stanza da bagno"
+"stanza da bagno"
+"stanza da bagno"
+"stanza per il bagno di vapore"
+"stare a bagno"
+"tappeto da bagno"
+"ti sei fatto il bagno nel profumo?"
+"vasca da bagno"
+"WC (bagno)"
+*[[lavata]], [[lavaggio]], [[abluzione]], [[aspersione]], [[lavanda]], [[lavacro]]
+*(al mare) [[balneazione]], [[nuotata]], [[tuffo]]
+*stabilimento balneare
+*[[vasca]], [[tinozza]]
+* [[immersione]], [[doccia]], [[nuotata]]
+*[[scaldabagno]], [[bagnomaria]], [[bagnoschiuma]],[[bagnare]],  [[bagno turco]], [[costume da bagno]], [[sala da bagno]], [[bagno penale]]
+* [[balneare]]
+*Enciclopedia [http
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 204
+M>balneum</E
+M>bal</E
+M>neum</E
+M>mettere i ceci a b</E
+M>nell’acqua</E
+M>tenere a b</E
+M>la biancheria</E
+M>di sviluppo di una lastra fotografica</E
+M>di mare</E
+M>nel lago</E
+M>nel fiume</E
+M>caldo</E
+M>freddo</E
+M>in vasca</E
+M>vasca da bagno</E
+M>a doccia</E
+M>medicati</E
+M>aromatizzato</E
+M>amidato</E
+M>di crusca</E
+M>salati</E
+M>essere in un b</E
+M>di sudore</E
+M>la lotta tra le due fazioni finì in un b</E
+M>di sangue</E
+M>fare il b</E
+M>fare un b</E
+M>faccio il b</E
+M>tutte le mattine</E
+M>la stagione dei b</E
+M>il medico mi ha sconsigliato i bagni</E
+M>di fango</E
+M>di sabbia</E
+M>di fieno</E
+M>d’aria calda</E
+M>di vapore</E
+M>di luce</E
+M>russo</E
+M>turco</E
+M>fare il b</E
+M>in qualche cosa</E
+M>fare il b</E
+M>nella folla</E
+M>bagno Maria</E
+M>preparare il b</E
+M>d’olio</E
+M>di paraffina</E
+M>di sviluppo</E
+M>di fissaggio</E
+M>di viraggio</E
+M>di nichelatura</E
+M>di sale</E
+M>entrare nel b</E
+M>uscire dal b</E
+M>stanza</E
+M>stanzino da b</E
+M>un bel b</E
+M>con pareti di maioliche</E
+M>appartamento con doppio b</E
+M>padronale</E
+M>di servizio</E
+M>pubblico</E
+M>comunali</E
+M>andare al b</E
+M>ai b</E
+M>Bagni di Casciana</E
+M>Bagni di Lucca</E
+M>Bagno di Romagna</E
+M>penale</E
+M>bagno</E
+M>mandare</E
+M>condannare al b</E
+M>fare il bagnetto</E
+M>il bagnetto di servizio</E

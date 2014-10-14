@@ -1,0 +1,63 @@
+spedizione.txt
+"bolla di spedizione"
+"compiere una spedizione militare"
+"indirizzo di spedizione"
+"ordine di spedizione"
+"smistamento e spedizione"
+"spedizione"
+"spedizione"
+"spedizione"
+"spedizione"
+"spedizione assicurata"
+"spedizione di caccia"
+"spedizione di caccia"
+"spedizione di carico"
+"spedizione di pesca"
+"spedizione postale"
+"spedizione postale"
+"spedizione registrata"
+"spedizione via aerea"
+"spese di spedizione"
+"spese di spedizione pagate"
+"tubo di spedizione"
+*[[invio]], [[rimessa]]; [[inoltro]]; [[pacco]], [[collo]], [[plico]]
+*''(per ricerca, studio)'' [[esplorazione]], [[missione]], [[viaggio]], [[équipe]] 
+M>spedire</E
+M>expeditio</E
+M>-onis</E
+M>expedire</E
+M>la s. di un pacco</E
+M>di una lettera</E
+M>di una cassa di libri</E
+M>di una valigia</E
+M>s. di una raccomandata all&#8217;ufficio competente</E
+M>s. per posta</E
+M>per corriere</E
+M>per via aerea</E
+M>per mare</E
+M>per e-mail</E
+M>per posta elettronica</E
+M>spese di spedizione</E
+M>s. di una causa a sentenza</E
+M>s. del titolo in forma esecutiva</E
+M>contratto di s.</E
+M>casa di s.</E
+M>ufficio di s.</E
+M>s. in dogana</E
+M>s. del corriere</E
+M>imbarco</E
+M>la s. di Alessandro Magno in Asia Minore</E
+M>la s. di Napoleone in Russia</E
+M>la s. dei Mille</E
+M>s. geografiche</E
+M>oceanografiche</E
+M>archeologiche</E
+M>il polo Nord fu raggiunto dalla s. di Peary nel 1909</E
+M>la s. italiana sul K2 nel 1954</E
+M>la prima s. scientifica sulla luna.</E
+M>s. leggera</E
+M>una s. di teppisti contro una banda rivale</E
+M>le s. punitive dei fascisti</E
+M>che ne dite di una s. in centro?</E
+M>per finire la serata abbiamo fatto una s. in casa di un&#8217;amica</E
+M>spedizioni</E

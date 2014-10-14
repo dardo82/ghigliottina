@@ -1,0 +1,78 @@
+ripieno.txt
+"farcito, ripieno"
+"panino ripieno"
+"pesce ripieno di altro pesce macinato con spezie (ricetta ebraica)"
+"ripieno"
+"ripieno"
+"ripieno"
+"ripieno di frutta secca"
+"ripieno per dolci"
+#* una figura bordata coll'interno di smalto diverso da quello del campo, altrimenti sarebbe [[vuotato|vuotata]]
+#* una pezza di uno smalto caricata di altra simile, diminuita e diversamente smaltata
+* [[vuotato]]
+*italiano
+M>pieno</E
+M>pieno</E
+M>stomaco r</E
+M>di cibo</E
+M>d&#8217;acqua</E
+M>scaffali r</E
+M>di libri</E
+M>tavola r</E
+M>di vivande</E
+M>le strade erano r</E
+M>di folla</E
+M>aveva la mente r</E
+M>di nomi</E
+M>di date</E
+M>con il cuore r</E
+M>d&#8217;affetto</E
+M>d&#8217;ira</E
+M>involontario sfogo Di un cor r</E
+M>troppo</E
+M>gli portò un bicchiere r</E
+M>di latte</E
+M>una fossa r</E
+M>di terra</E
+M>cuscino</E
+M>materasso r</E
+M>di lana</E
+M>pasticcio r</E
+M>di fegatini</E
+M>paste r</E
+M>di crema</E
+M>tortelli r</E
+M>di ricotta</E
+M>tacchino r</E
+M>zucchine r</E
+M>ripieno</E
+M>panini r</E
+M>panini imbottiti</E
+M>caramelle r</E
+M>cioccolatini r</E
+M>vuota</E
+M>Aveva già co&#8217; lor turbini ripieni Di polve e di tumulto i colli e i campi</E
+M>gli occhi</E
+M>tutt&#8217;a un tratto</E
+M>le si erano ripieni di lagrime</E
+M>comprò della lana per fare il r</E
+M>al materasso</E
+M>il cuscino ha il r</E
+M>di gommapiuma</E
+M>i sarti mettono dell&#8217;ovatta come r</E
+M>per le spalle delle giacche</E
+M>il r</E
+M>del pollo era composto di uova</E
+M>formaggio e pane</E
+M>il r</E
+M>dei ravioli</E
+M>dei tortellini</E
+M>delle zucchine</E
+M>dei cannoli</E
+M>cioccolatini</E
+M>caramelle con il ripieno</E
+M>di un sigaro</E
+M>Questa parola &#171;libero&#187;</E
+M>buttata Là nel discorso come per ripieno</E
+M>concerto grosso</E
+M>concertino</E

@@ -1,0 +1,70 @@
+sport.txt
+"corsa di levrieri (sport)"
+"difensore della prima base (sport)"
+"estremo uno sport estremo"
+"fare sport"
+"do some form of sport"
+"fare sport"
+"giocare a tutto campo (sport)"
+"il mondo dello sport"
+"the world of sports, the sports world"
+"incontro (sport)"
+"kick boxing (sport)"
+"lo sport"
+"le sport"
+"lo sport dei re"
+"the sport of kings"
+"medicina dello sport"
+"sports medicine"
+"pagina dello sport"
+"sports page"
+"praticare molti sport"
+"involved in many sports, play many sports"
+"scarpa da sport"
+"segnare (sport)"
+"softball (sport simile al baseball, ma che viene giocato su un campo ridotto, con una palla più gran"
+"sport"
+"sport, exercise"
+"sport"
+"sports"
+"sport all'aperto"
+"field sports"
+"sport che attira un pubblico"
+"spectator sport"
+"sport invernale"
+"winter sport"
+"sport invernali"
+"winter sports"
+"sport, cavalcare su pony attraverso la campagna"
+*[[gioco]]; [[divertimento]],  [[svago]], [[passatempo]], [[hobby]] 
+*[[sportivo]], [[sport utility]]
+*italiano
+*inglese
+M>sport</E
+M>spòot</E
+M>disport</E
+M>desport</E
+M>s. dilettantistici</E
+M>s. olimpici</E
+M>fare una cosa per s.</E
+M>s. professionistici</E
+M>lo s. nella Grecia antica</E
+M>s. individuali</E
+M>s. a squadre</E
+M>s. atletici</E
+M>gli s. di combattimento</E
+M>gli s. della palla</E
+M>s. invernali</E
+M>s. nautici</E
+M>s. aerei</E
+M>s. equestri</E
+M>a cavallo</E
+M>lo s. dei motori</E
+M>s. motoristici</E
+M>lo s. del ciclismo</E
+M>del pentatlon moderno</E
+M>della ginnastica</E
+M>fare s.</E
+M>amare lo s.</E
+M>Medicina dello s.</E
+M>Diritto dello s.</E

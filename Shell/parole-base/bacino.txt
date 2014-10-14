@@ -1,0 +1,69 @@
+bacino.txt
+"bacino"
+"bacino"
+"bacino"
+"bacino"
+"bacino carbonifero"
+"bacino d'acqua poco profonda"
+"bacino d'evoluzione"
+"bacino dei geyser"
+"bacino del mediterraneo"
+"bacino di carenaggio"
+"bacino di carenaggio galleggiante"
+"bacino di drenaggio"
+"bacino di lago"
+"bacino di marea"
+"bacino di utenza"
+"bacino elettorale"
+"bacino fluviale"
+"bacino fluviale"
+"bacino imbrifero"
+"bacino lacustre"
+"bacino oceanico"
+"bacino per mulino"
+"bacino portuale"
+#* '''''bacino''' mediterraneo''
+#* '''''bacino''' aurifero''
+*[[catino]],[[catinella]], [[bacinella]], [[bacile]], [[vaschetta]], [[recipiente]]
+* (bacino per navi in avaria) [[darsena]]
+*[[vasca]],[[cisterna]],  [[serbatoio]]  
+*[[area]], [[zona]], [[avvallamento]],[[bacino collettore]],  [[bacino di carico]], [[bacino di crisi]], [[bacino di decantazione]], [[bacino di drenaggio]], [[bacino di raccolta]], [[bacino di utenza]], [[bacino galleggiante]], [[bacino idroelettrico]], [[bacino idrografico]], [[bacino montano]], [[bacino morenico]], [[bacino oceanico]]
+*''bacino di carenaggio''
+M>*bac</E
+M>inum</E
+M>essere stretta</E
+M>larga di bacino</E
+M>Grande b</E
+M>piccolo b</E
+M>stretto superiore</E
+M>pelvi</E
+M>Volta a bacino</E
+M>cupola</E
+M>di carenaggio</E
+M>galleggiante</E
+M>di costruzione</E
+M>scalo</E
+M>di calma</E
+M>di compensazione</E
+M>di decantazione</E
+M>di espansione</E
+M>di carico</E
+M>di ritenuta</E
+M>lago artificiale</E
+M>idroelettrici</E
+M>b. di attrazione</E
+M>torrentizio</E
+M>glaciale</E
+M>carsico</E
+M>idrografico</E
+M>imbrifero</E
+M>montano</E
+M>oceanico</E
+M>carbonifero</E
+M>aurifero</E
+M>diamantifero</E
+M>petrolifero</E
+M>b. d’utenza</E
+M>il b. d’utenza di una scuola</E
+M>di un ospedale</E
+M>di una rete radiofonica.</E

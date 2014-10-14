@@ -1,0 +1,4 @@
+colonnello.txt
+"colonnello"
+"tenente colonnello"
+*italiano

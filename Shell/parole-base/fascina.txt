@@ -1,0 +1,7 @@
+fascina.txt
+"fascina"
+M>fasc</E
+M>fascis</E
+M>fascine di stipa</E
+M>una catasta di fascine</E
+M>incatramata</E

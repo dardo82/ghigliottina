@@ -1,0 +1,33 @@
+migliaio.txt
+"migliaio"
+"migliaio"
+"migliaio, replace: migliaia"
+"un migliaio"
+#*''un gene medio è lungo qualche migliaio di nucleotidi''
+M>miliarium</E
+M>milia</E
+M>mille</E
+M>le migliàia</E
+M>è stato già venduto il primo m</E
+M>di biglietti</E
+M>la tiratura del romanzo è arrivata al 45° m</E
+M>di copie</E
+M>gli intervenuti saranno stati un m</E
+M>ho acquistato un’automobile per poche m</E
+M>di euro</E
+M>sono state presentate parecchie m</E
+M>di domande</E
+M>per migliaia d’anni</E
+M>a migliaia</E
+M>durante l’epidemia</E
+M>le persone morivano a migliaia</E
+M>avrò ricevuto un m</E
+M>di telefonate</E
+M>c’erano m</E
+M>di pratiche sul suo tavolo</E
+M>a migliaia</E
+M>a decine</E
+M>a centinaia di migliaia</E
+M>chi erra nelle decine erra nelle m</E
+M>Quanto di qua per un migliaio si conta</E
+M>Tanto di là eravam noi già iti</E

@@ -1,0 +1,19 @@
+passeggio.txt
+"bastone da passeggio"
+"bastone da passeggio"
+"passeggio"
+"passeggio"
+*[[movimento]], [[traffico]], [[andirivieni]], [[viavai]]
+*[[folla]], [[gente]], [[persone]]
+*[[calma]], [[quiete]], [[immobilità]], [[stasi]]
+*[[passeggino]]
+M>andare</E
+M>uscire a p</E
+M>abito da passeggio</E
+M>scarpe</E
+M>borsetta da p</E
+M>gelato da passeggio</E
+M>guardare</E
+M>godersi il passeggio</E
+M>il corso è il p</E
+M>preferito delle signore eleganti</E

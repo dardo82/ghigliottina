@@ -1,0 +1,22 @@
+piovoso.txt
+"piovoso"
+"piovoso"
+"tempo piovoso"
+*''(di cielo, tempo)'' [[coperto]], [[nuvoloso]]
+*(di giornata, regione) [[piovigginoso]]
+*''di cielo, tempo)'' [[sereno]], [[limpido]]
+*[[pioggia]],[[piovosità]]
+M>pluviosus</E
+M>pluvia</E
+M>piova</E
+M>cielo p</E
+M>una giornata piovosa</E
+M>una stagione</E
+M>una zona p</E
+M>sono paesi poco</E
+M>molto piovosi</E
+M>E il fine ormai di quel p</E
+M>inverno Che fea l&#8217;arme cessar</E
+M> lunge non era</E
+M>la primavera p. e incerta risentiva più dell&#8217;inverno che dell&#8217;estate imminente</E
+M>pluviôse</E

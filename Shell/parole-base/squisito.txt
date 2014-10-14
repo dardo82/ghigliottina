@@ -1,0 +1,35 @@
+squisito.txt
+"squisito"
+"squisito"
+"squisito, esuberante"
+*''(di cibo)'' [[buono]], [[gustoso]], [[gustosissimo]], [[prelibato]], [[ghiotto]], [[succulento]], [[delicato]], [[delizioso]], [[soave]], [[gradevole]], [[ottimo]], [[luculliano]],  [[sopraffino]],[[eccellente]], [[coi fiocchi]], [[raffinato]]
+*''(di cibo)''[[cattivo]], [[disgustoso]], [[ripugnante]], [[schifoso]], [[stomachevole]]
+M>exquisitus</E
+M>exquir</E
+M>ex-</E
+M>quaer</E
+M>un dolce</E
+M>un arrosto s.</E
+M>s. questo moscato!</E
+M>ci ha offerto una squisitissima cena</E
+M>è di una bontà</E
+M>di una cortesia</E
+M>di una gentilezza s.</E
+M>di una s. malignità</E
+M>crudeltà</E
+M>pianista di una s. sensibilità</E
+M>ha un gusto s. in fatto di poesia</E
+M>hai avuto un pensiero s.</E
+M>donna di sentimenti</E
+M>di modi s.</E
+M>con s. senso dell&#8217;opportunità</E
+M>un poeta</E
+M>un artista s.</E
+M>un conversatore s.</E
+M>una s. padrona di casa</E
+M>un risotto con gli scampi squisitamente delicato</E
+M>una sonata al pianoforte squisitamente eseguita</E
+M>è stato squisitamente gentile con me</E
+M>un gesto squisitamente galante</E
+M>una flemma squisitamente inglese</E
+M>con una cerimoniosità squisitamente orientale</E

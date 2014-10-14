@@ -1,0 +1,31 @@
+poliziotto.txt
+"cane poliziotto"
+"il poliziotto"
+"manganello del poliziotto"
+"manganello del poliziotto"
+"poliziotto"
+"poliziotto"
+"poliziotto in borghese"
+"poliziotto militare"
+*[[agente]], [[guardia di pubblica sicurezza]]
+*italiano
+M>essere inseguito</E
+M>fermato</E
+M>arrestato dai p</E
+M>il palazzo è presidiato dai p</E
+M>la zona pullula di poliziotti</E
+M>un p. in borghese</E
+M>p. di quartiere</E
+M> p. privato</E
+M>donna p</E
+M>donne poliziotto</E
+M>poliziotta</E
+M>cane p</E
+M>cani poliziotto</E
+M>sbirro</E
+M>in famiglia è veramente un poliziotto</E
+M>il direttore fa il p. con i dipendenti</E
+M>quella</E
+M>colossale prigione su la cui vetta</E
+M>p. e carnefice d&#8217;Europa</E
+M> stava l&#8217;imperatore d&#8217;Asburgo</E

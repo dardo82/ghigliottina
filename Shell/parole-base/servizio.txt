@@ -1,0 +1,349 @@
+servizio.txt
+"a doppio servizio"
+"a servizio"
+"addestramento in servizio"
+"al servizio"
+"al servizio di"
+"al tuo servizio"
+"al tuo servizio"
+"area di servizio"
+"ascensore di servizio"
+"automobile di servizio postale"
+"azienda di pubblico servizio"
+"azienda di pubblico servizio"
+"aziende di pubblico servizio"
+"bagno di servizio"
+"binario di servizio"
+"capo servizio"
+"carrello di servizio"
+"colpo di servizio"
+"comunicazione di servizio"
+"con maggiore anzianità di servizio"
+"dirigente di servizio"
+"entrata di servizio"
+"essere al servizio di"
+"essere in servizio"
+"fare un cattivo servizio a se stessi"
+"fare un servizio"
+"forma di servizio"
+"formazione in servizio"
+"fornire servizio"
+"fornire servizio"
+"fuori servizio"
+"fuori servizio"
+"fuori servizio"
+"fuori servizio"
+"gallone che indica gli anni di servizio (mil.)"
+"il servizio buono"
+"in servizio"
+"indennità di servizio"
+"lato di servizio"
+"linea di servizio"
+"locanda dove si offriva il servizio di staffetta dei cavalli"
+"medico di servizio in un hotel o simile istituto"
+"mettere al servizio di"
+"mettere in servizio"
+"mettere in servizio"
+"modulo di servizio"
+"non in servizio"
+"ordine di servizio"
+"per servizio pesante, robusto"
+"percentuale per un servizio"
+"porta di servizio"
+"porta di servizio"
+"prestare servizio"
+"prestare servizio come barbiere"
+"relativo al servizio nido"
+"rendere un cattivo servizio a"
+"scala di servizio"
+"servizio"
+"servizio"
+"servizio, servizi"
+"servizio"
+"servizio"
+"servizio"
+"servizio"
+"servizio, servizi"
+"servizio"
+"servizio (posate) da tavola"
+"servizio (posate) da tavola"
+"servizio (squash; badminton)"
+"servizio aereo"
+"Servizio ai tavoli"
+"servizio attivo"
+"servizio attivo"
+"servizio civile"
+"servizio da campo"
+"servizio da tè"
+"servizio da tè"
+"servizio da toeletta"
+"servizio di accompagnatori"
+"servizio di asilo nido"
+"servizio di corriere"
+"servizio di frontiera"
+"servizio di leva"
+"servizio di noleggio e lavaggio di pannolini"
+"servizio di portineria"
+"servizio di raccolta a domicilio"
+"servizio di riparazione"
+"servizio di segreteria"
+"servizio diplomatico"
+"servizio divino"
+"servizio ferroviario"
+"servizio fotografico"
+"servizio funebre"
+"servizio giornalistico"
+"Servizio Immigrazione e Naturalizzazione"
+"servizio in camera"
+"servizio informazioni"
+"servizio mattutino"
+"servizio militare"
+"servizio militare obbligatorio"
+#*''servizio sociale''
+#*''servizio finanziario''
+*''(di domestico, cameriere)'' [[prestazione]]
+*[[occupazione]], [[mestiere]], opera, prestazione d’opera
+*[[favore]], [[cortesia]], [[piacere]], [[grazia]]
+*''(ironico)'' tiro mancino, [[scherzo]], [[danno]]
+*''(amministrazione)''[[ufficio]], [[settore]]
+*''(in campo giornalistico)'' [[articolo]], [[pezzo]], [[reportage]]
+*''(da tavola, di piatti)'' [[set]], [[batteria]], [[completo]], [[corredo]],[[ occorrente]]
+*[[disservizio]]
+*[[servire]], [[servizievole]] 
+*''donna si servizio''
+M>servitium</E
+M>servus</E
+M>essere</E
+M>mettersi al s. della patria</E
+M>della nazione</E
+M>del paese</E
+M>della comunità</E
+M>della fede</E
+M>delle anime</E
+M>del pubblico</E
+M>della clientela</E
+M>consacrarsi al s. di Dio</E
+M>entrare al s. di Dio</E
+M>al s. di</E
+M>utilizzare l&#8217;informatica al s. della documentazione.</E
+M>al suo s.</E
+M>sempre al vostro s.</E
+M>ai suoi s.</E
+M> signore!</E
+M>la mia casa è al vostro s.</E
+M>quante pretese</E
+M> pure questo vorresti? sempre al tuo s.</E
+M> figuriamoci!</E
+M>essere in cerca di un s.</E
+M>cercare</E
+M>trovare un s.</E
+M>un buon s.</E
+M>andare</E
+M>essere a s. presso una famiglia. S. a ore</E
+M>s. fisso</E
+M>a mezzo s.</E
+M>a tutto s.</E
+M>di servizio</E
+M>persone</E
+M>personale</E
+M>gente</E
+M>donna</E
+M>uomo di servizio</E
+M>scala</E
+M>porta</E
+M>ingresso di servizio</E
+M>i servizî</E
+M>fare i servizî.</E
+M>entrare in s.</E
+M>prestare s. presso un ministero</E
+M>ha preso s. da poco tempo</E
+M>è andato in pensione dopo trent&#8217;anni di s.</E
+M>lasciare il s. per raggiunti limiti di età</E
+M>è stato trasferito per motivi di s.</E
+M>personale in s.</E
+M>non in s.</E
+M>stato di s.</E
+M>S. di leva</E
+M>s. militare</E
+M>s. di leva</E
+M>s. militare obbligatorio</E
+M>volontario</E
+M>fare il s. militare nei carabinieri</E
+M>in marina</E
+M>negli alpini</E
+M>s. permanente effettivo</E
+M>S. civile</E
+M>s. di guardia</E
+M>d&#8217;ispezione</E
+M>d&#8217;ordine</E
+M>di picchetto</E
+M>di ronda</E
+M>di sentinella</E
+M>ufficiale di s.</E
+M>ufficiali in s. di Stato Maggiore</E
+M>svolgere il s. di settimana</E
+M>di giornata.</E
+M>servizî</E
+M>s. tecnici</E
+M>s. logistici</E
+M>servizî di bordo</E
+M>essere in s.</E
+M>di s.</E
+M>fuori s.</E
+M>non bevo mai durante il s.</E
+M>è vietato fumare in servizio</E
+M>portiere in s. di notte</E
+M>ha appena finito il s.</E
+M>smonto adesso dal servizio</E
+M>di servizio</E
+M>automobile di s.</E
+M>alloggio di s.</E
+M>francobolli di s.</E
+M>ufficiali</E
+M>fare</E
+M>non fare</E
+M>servizio di</E
+M>fare s. di cassa</E
+M>il bar fa anche s. di ristorante.</E
+M>s. dal fronte</E
+M>dalle zone terremotate</E
+M>dal festival del cinema</E
+M>fare un s. sulla crisi di governo</E
+M>inviare</E
+M>pubblicare un s. dall&#8217;estero</E
+M>preparare</E
+M>scrivere</E
+M>terminare</E
+M>mandare il s.</E
+M>s. speciale del nostro inviato</E
+M>s. speciale del giornale radio</E
+M>del telegiornale</E
+M>più ampî particolari saranno dati nel s. che andrà in onda alle 22.</E
+M>S. stampa</E
+M>uffici stampa</E
+M>s. sacerdotale</E
+M>s. religioso</E
+M>s. funebre</E
+M>s. divino</E
+M>ufficio divino</E
+M>service</E
+M>game</E
+M>aggiudicarsi</E
+M>vincere</E
+M>perdere il s.</E
+M>strappare il s. all&#8217;avversario</E
+M>game</E
+M>s. reali</E
+M>s. personali</E
+M>settore dei s.</E
+M>settore terziario</E
+M>s. pubblici</E
+M>municipalizzazione</E
+M>socializzazione dei s. pubblici</E
+M>interruzione</E
+M>sospensione dei s.</E
+M>pubblici</E
+M>durante lo sciopero saranno assicurati tutti i s. essenziali</E
+M>s. postale</E
+M>telefonico</E
+M>telegrafico</E
+M>s. sanitario</E
+M>s. sanitario nazionale</E
+M>s. sociale</E
+M>s. tranviario</E
+M>ferroviario</E
+M>marittimo</E
+M>aereo</E
+M>orarî di s. delle linee di trasporto urbane</E
+M>s. viaggiatori</E
+M>s. merci</E
+M>s. di linea</E
+M>trasporto in s. cumulativo</E
+M>area di s.</E
+M>stazione di s.</E
+M>s. di tavola</E
+M>il s. è svolto da personale qualificato</E
+M>in quel ristorante c&#8217;è un s. ottimo</E
+M>inappuntabile</E
+M>scadente</E
+M>è un locale in cui si mangia bene</E
+M> ma il s. lascia a desiderare</E
+M>s. al tavolo</E
+M> s. al banco</E
+M>s. di sala</E
+M>s. di mensa</E
+M>s. all&#8217;italiana</E
+M>cloche</E
+M>s. alla francese</E
+M>s. all&#8217;inglese</E
+M>s. al guéridon</E
+M>guéridon</E
+M>s. di buffet</E
+M>s. di credenza</E
+M>15% di servizio</E
+M>il conto ammonta a cento euro più il s.</E
+M>escluso il s.</E
+M>il s. è compreso nel prezzo.</E
+M>questo cappotto mi ha reso ottimi s.</E
+M>apparecchiature che rendono grandi s. alla comunità</E
+M>essere fuori servizio</E
+M>l&#8217;ascensore è fuori servizio.</E
+M>favore</E
+M>cortesia</E
+M>ti ringrazio del s. che mi hai reso</E
+M>servigio</E
+M>servizio</E
+M>mi hai fatto un bel s.!</E
+M>gli hai reso un bel s.!</E
+M>affare</E
+M>faccenda</E
+M>fare un viaggio e due servizî</E
+M>è andato a fare quel s.</E
+M>serviziale</E
+M>s. di un prestito</E
+M>s. dei prestiti pubblici</E
+M>s. segreti</E
+M>servizî di sicurezza</E
+M>d&#8217;informazione</E
+M>s. segreti</E
+M>s. di sicurezza e d&#8217;informazione</E
+M>s. amministrativi</E
+M>il s. pubblicità di una casa editrice</E
+M>il s. abbonamenti della RAI.</E
+M>un s. di piatti</E
+M>di bicchieri</E
+M>di posate</E
+M>un s. di porcellana</E
+M>di ceramica</E
+M>di cristallo</E
+M>d&#8217;argento</E
+M>un s. da</E
+M>per sei</E
+M>otto</E
+M>dodici</E
+M>ventiquattro</E
+M>un s. da pesce</E
+M>da insalata</E
+M>da dolce</E
+M>da macedonia</E
+M>da caffè</E
+M>da tè</E
+M>da liquore</E
+M>s. di lino</E
+M>di bisso</E
+M>di fiandra</E
+M>s. ricamato a mano</E
+M>s. all&#8217;americana</E
+M>s. da toeletta</E
+M>da scrittoio</E
+M>da fumo.</E
+M>appartamento con doppî s.</E
+M>appartamento di tre stanze e servizî</E
+M>s. igienici</E
+M>andare ai s.</E
+M>s. acqua</E
+M>s. incendio</E
+M>s. lavanda</E
+M>s. dell&#8217;acqua dolce</E
+M>se tu mi vuoi fare un servizietto</E
+M> le venticinque lire son preparate</E

@@ -1,0 +1,42 @@
+appendere.txt
+"addetto ad appendere"
+"appendere"
+"Appendere al chiodo"
+"flyer, cartoncini da appendere alla porta"
+#*'''''ho appeso''' un quadro alla parete''
+*[[attaccare]], [[agganciare]], [[sospendere]], [[fissare]]
+*[[sganciare]], [[staccare]]
+M>app</E
+M>pend</E
+M>appési</E
+M>appendésti</E
+M>appéso</E
+M>il cappotto all’attaccapanni</E
+M>i vestiti nell’armadio</E
+M>un quadro</E
+M>il calendario</E
+M>un cartello</E
+M>un avviso</E
+M>il lampadario al soffitto</E
+M>a una volta</E
+M>il paiolo alla catena del camino</E
+M>le salsicce a seccare</E
+M>a. la medaglia al petto del generale</E
+M>un voto</E
+M>qualcosa in voto</E
+M>il tuo Sacerdote</E
+M>o Talia</E
+M>che a te cantando Nel suo povero tetto educò un lauro Con lungo amore</E
+M>e t’appendea corone</E
+M>la bicicletta</E
+M>i guantoni</E
+M>alla forca</E
+M>a un albero</E
+M>qualcuno per il collo</E
+M>per le gambe</E
+M>appendersi al collo di qualcuno</E
+M>v’erano dei prosciutti appesi al soffitto</E
+M>raddrizzare i quadri appesi alla parete</E
+M>Alle fronde dei salici</E
+M>per voto</E
+M>Anche le nostre cetre erano appese</E

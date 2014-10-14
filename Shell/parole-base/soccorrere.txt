@@ -1,0 +1,16 @@
+soccorrere.txt
+"aiutare, supportare, soccorrere"
+"soccorrere"
+#*''il marinaio che stava affogando '''fu soccorso'''''
+M>succ</E
+M>sub</E
+M>correre</E
+M>s. i poveri</E
+M>i bisognosi</E
+M>l&#8217;investitore si è allontanato senza s. la vittima</E
+M>mandare rinforzi per s. le truppe assediate</E
+M>avere</E
+M>a sua sposa soccorse Con due campioni</E
+M>per la fama nella quale eran saliti colla virtù di opprimere i violenti e di s. a&#8217; deboli</E
+M>essere</E
+M>in questo momento non mi soccorre il suo nome</E

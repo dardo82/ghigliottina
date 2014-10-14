@@ -1,0 +1,35 @@
+aumento.txt
+"aumento"
+"aumento"
+"aumento"
+"aumento dei costi"
+"aumento di stipendio"
+"aumento di stipendio"
+"aumento graduale del suono"
+"aumento improvviso"
+"essere in aumento"
+"in aumento"
+"in aumento"
+"in aumento"
+"in aumento"
+"in aumento"
+"in aumento costante"
+#*''oggi 
+*[[crescita]]
+M>augmentum</E
+M>augere</E
+M>del raccolto</E
+M>delle spese</E
+M>dei prezzi</E
+M>del costo della vita</E
+M>di peso</E
+M>di statura</E
+M>di volume</E
+M>salariale</E
+M>contrattuale</E
+M>retributivo</E
+M>chiedere</E
+M>ottenere un a</E
+M>dello stipendio</E
+M>sillabico</E
+M>temporale</E

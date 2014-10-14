@@ -1,0 +1,41 @@
+estivo.txt
+"caldo estivo"
+"campeggio estivo"
+"campo estivo"
+"campo estivo (giornaliero)"
+"estivo"
+"teatro estivo"
+*[[estate]]
+*[[estivare]]
+*[[estivazione]]
+M>aestivus</E
+M>aestus</E
+M>stagione e</E
+M>periodo e</E
+M>orario e.</E
+M>giorni e</E
+M>mesi e</E
+M>un caldo e</E
+M>i temporali e</E
+M>abbigliamento e.</E
+M>Se lamentar augelli</E
+M>o verdi fronde Mover soavemente a l’aura estiva</E
+M>S’ode</E
+M>vacanze e</E
+M>villeggiatura e</E
+M>soggiorno e</E
+M>residenza estiva</E
+M>campo e</E
+M>campo scuola.</E
+M>febbre e</E
+M>febbre da pappataci</E
+M>febbre estivo</E
+M>autunnale</E
+M>terzana maligna</E
+M>Laverania praecox</E
+M>estivo</E
+M>tardivo</E
+M>primaverile</E
+M>primaticcio</E
+M>Pianta annua e</E
+M>servitù d’acqua estiva</E

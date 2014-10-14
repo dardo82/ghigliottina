@@ -1,0 +1,22 @@
+tram.txt
+"attaccarsi al tram"
+"rotaia del tram"
+"tram-line"
+"tram"
+"tram"
+* [[filobus]]
+*[[autobus]], [[bus]] 
+*italiano
+*inglese
+M>tram</E
+M>tram a cavalli</E
+M>prendere il t.</E
+M>salire sul t.</E
+M>è vietato scendere dal t. in corsa</E
+M>i binarî del t.</E
+M>la fermata del t.</E
+M>i biglietti del t.</E
+M>perdere il t.</E
+M>attaccarsi al tram</E
+M>attàccati al tram</E
+M>si attacchi al tram!</E

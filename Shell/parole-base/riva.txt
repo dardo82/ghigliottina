@@ -1,0 +1,75 @@
+riva.txt
+"a riva"
+"lasciare la riva"
+"riva"
+"riva"
+"territorio retrostante la riva"
+"riva"
+"riva del lago"
+"riva del mare"
+"riva sinistra"
+"sulla riva"
+"vicino alla riva"
+#*'' e andato a giocare con il cane il riva al mare'' 
+*[[costa]], [[litorale]], [[lido]], [[sponda]], [[spiaggia]], [[battigia]], [[scogliera]], [[bagnasciuga]]
+*[[ a riva]]
+M>le due r</E
+M>dell&#8217;Adriatico</E
+M>la r</E
+M>occidentale del Garda</E
+M> le r</E
+M>del Po</E
+M>costa</E
+M>spiaggia</E
+M>terrazzate</E
+M>banchina</E
+M>proda</E
+M>sponda</E
+M>spingere la barca a r</E
+M>giungere</E
+M>venire a r</E
+M>toccare la r</E
+M>accostarsi a r</E
+M>il battello navigava rasente la r</E
+M>riva riva</E
+M>Vecchia</E
+M>Nuova</E
+M>Derna</E
+M>degli Schiavoni</E
+M>del Carbón</E
+M>giungere a r</E
+M>essere a r</E
+M>Sì è debile il filo a cui s&#8217;attene La gravosa mia vita</E
+M>Che</E
+M>s&#8217;altri non l&#8217;aita</E
+M> Ella fia tosto di suo corso a riva</E
+M>le r</E
+M>del lago erano cosparse di ridenti paesi</E
+M>Roma si estende sulle r</E
+M>del Tevere</E
+M>Mia natal patria è nella aspra Liguria</E
+M>Sovra una costa alla r</E
+M>marittima</E
+M>Noi ricidemmo il cerchio</E
+M>a l&#8217;altra r</E
+M>dopo un poco si sedette nel primo posto libero in riva al corridoio</E
+M>ripa</E
+M>Era lo loco ov&#8217; a scender la riva Venimmo</E
+M>alpestro</E
+M>cercando le mele rotolate in fondo alla r</E
+M>a riva!</E
+M>abbasso da riva!</E
+M>avere le bandiere</E
+M>le vele a riva</E
+M>arriba</E
+M>sospirando vo di riva in riva</E
+M>Sovente in queste rive</E
+M>Che</E
+M>desolate</E
+M>a bruno Veste il flutto indorato</E
+M>e par che ondeggi</E
+M>Seggo la notte</E
+M>grossa</E
+M>rivagrossa</E
+M>minuta</E
+M>rivaminuta</E

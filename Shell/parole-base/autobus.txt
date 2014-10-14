@@ -1,0 +1,30 @@
+autobus.txt
+"andare in autobus"
+"autista d'autobus"
+"autobus"
+"autobus a due piani"
+"autobus a noleggio"
+"autobus economico"
+"con l'autobus"
+"fermata dell'autobus"
+"gli autobus non sono frequenti"
+"guidare un autobus"
+"linea d'autobus"
+"mandare in autobus"
+"nave a due ponti; biplano; autobus a due piani; letto a castello"
+"perdere l'autobus"
+"stazione degli autobus"
+* dal 
+* deriva dal 
+* [[pullman]], [[corriera]], [[torpedone]], [[bus]]
+* [[automobile]], [[viaggio]], [[pendolare]]
+* ''Hai perso l'
+*italiano
+M>autobus</E
+M>auto</E
+M>mobile</E
+M>omni</E
+M>bus</E
+M>aspettare l’a</E
+M>viaggiare in a</E
+M>perdere l’a</E

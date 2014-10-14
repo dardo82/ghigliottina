@@ -1,0 +1,52 @@
+competente.txt
+"abile, competente"
+"competente"
+"competente"
+"competente"
+"competente in"
+"competente per"
+"essere competente"
+"foro competente"
+"giudice competente in materia di testamenti"
+"in modo competente"
+"molto ben documentato, molto ben preparato, molto competente"
+"molto esperto, molto competente, molto capace"
+"sede competente"
+*[[esperto]], [[capace]], [[specialista]]
+*[[incompetente]] 
+*[[competenza]], [[competere]]
+M>comp</E
+M>tens</E
+M>entis</E
+M>compet</E
+M>giudice</E
+M>tribunale c</E
+M>organo c</E
+M>ricorrere all’autorità competente</E
+M>essere c</E
+M>in elettronica</E
+M>in arte e folclore giapponese</E
+M>in storia dell’equitazione</E
+M>non sono c</E
+M>in materia</E
+M>è un c</E
+M>un buon c</E
+M>un grande c</E
+M>un discreto c</E
+M>è una vera c. di musica</E
+M>di antiquariato</E
+M>di vini</E
+M>parlare</E
+M>discutere da c</E
+M>secondo il</E
+M>stando al</E
+M>giudizio dei</E
+M>delle competenti</E
+M>mancia c</E
+M>poteva parere una punizione c</E
+M>anche all’offeso il più borioso</E
+M>nel luogo</E
+M>nel tempo c</E
+M>era di notte venuto nel castello egli e il figliuolo con buona compagnia di gente eletta e fidata</E
+M>come a quello affare gli parve competente</E
+M>discutere competentemente di musica jazz</E

@@ -1,0 +1,15 @@
+amante.txt
+"amante"
+"amante"
+"amante dei cani"
+"amante del divertimento"
+"amante dell'ombra"
+"amante della lettura"
+"amante della musica"
+"amante della musica"
+"amante della natura"
+"ricco vecchio che mantiene una giovane amante"
+#* se mio marito sapesse che ho un amante...
+*[[appassionato]], [[cultore]], [[estimatore]], [[intenditore]]
+*italiano
+*spagnolo

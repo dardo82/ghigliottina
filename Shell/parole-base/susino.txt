@@ -1,0 +1,9 @@
+susino.txt
+"di susino"
+"susino"
+M>Prunus domestica</E
+M>Prunus domestica</E
+M>domestica</E
+M>S. selvatico</E
+M>Prunus domestica</E
+M>insititia</E

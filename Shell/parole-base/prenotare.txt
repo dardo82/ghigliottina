@@ -1,0 +1,39 @@
+prenotare.txt
+"prenotare"
+"prenotare, replace: prenotarsi"
+"prenotare in gruppo"
+"prenotare presso"
+"prenotare presso"
+"prenotare un volo"
+"prenotare una camera"
+"richiedere in anticipo; prenotare"
+"vendere o prenotare oltre misura"
+*[[fissare]], [[fermare]], [[bloccare]], [[riservare]], [[occupare]], [[accaparrarsi]]
+*[[disdire]]
+*[[prenotarsi]]
+*[[prenotato]], [[prenotazione]]
+M>praenotare</E
+M>prae</E
+M>notare</E
+M>io prenòto</E
+M>un posto in treno</E
+M>due poltrone a teatro</E
+M>un tavolo al ristorante</E
+M>una camera in albergo</E
+M>l&#8217;albergo</E
+M>mi prenota una poltrona per lo spettacolo di domani?</E
+M>prenoto io per tutti</E
+M>un libro</E
+M>un&#8217;automobile</E
+M>ci sarà un convegno alla fine del mese prossimo: posso prenotarti per un tuo breve intervento?</E
+M>domani è tutto occupato</E
+M>se le va bene posso prenotarla per giovedì sera</E
+M>prenotarsi per una crociera</E
+M>è bene prenotarsi in tempo per il concerto</E
+M>mi prenoto per venire una volta a cena a casa tua</E
+M>posso prenotarmi per il prossimo ballo con te?</E
+M>a debito</E
+M>viaggiatori</E
+M>spettatori prenotati</E
+M>per questo spettacolo i posti sono già tutti prenotati</E
+M>tutto prenotato</E

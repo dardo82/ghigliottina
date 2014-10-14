@@ -1,0 +1,11 @@
+ingessare.txt
+"ingessare"
+"ingessare"
+M>io ingèsso</E
+M>un tassello nel muro</E
+M>gessare</E
+M>un arto</E
+M>dipingere su una tavoletta ingessata</E
+M>avere una gamba ingessata</E
+M>essere</E
+M>sembrare ingessato</E

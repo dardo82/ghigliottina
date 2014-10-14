@@ -1,0 +1,5 @@
+salve.txt
+"pistola caricata a salve"
+"salve"
+"salve"
+* [[ave]]

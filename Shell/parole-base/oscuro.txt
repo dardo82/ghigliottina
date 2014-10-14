@@ -1,0 +1,102 @@
+oscuro.txt
+"all'oscuro"
+"compagno oscuro"
+"essere all'oscuro"
+"in modo oscuro"
+"lato oscuro"
+"oscuro"
+"oscuro"
+"oscuro segreto"
+"rendere oscuro"
+"segreto oscuro"
+"tetro, oscuro, fosco"
+#*''Gli '''oscuri''' vaneggiamenti di un pazzo''
+#*''L''''oscuro''' signore''
+M>obscurus</E
+M>chiaro</E
+M>un cielo o</E
+M>e nuvoloso</E
+M>vicoli o</E
+M>in un o</E
+M>corridoio</E
+M>una stanza molto o</E
+M>buia</E
+M>una valle o</E
+M>Nel mezzo del cammin di nostra vita Mi ritrovai per una selva o</E
+M>Occhi soavi e più chiari che il sole Da far giorno seren la notte o</E
+M>Camera o</E
+M>tinte o</E
+M>colori o</E
+M>verde o</E
+M>rosso oscuro</E
+M>scuro</E
+M>oscuro</E
+M>nubi avanzavano nel cielo</E
+M>Que’ duo bei lumi assai più che ’l sol chiari Chi pensò mai veder far terra o</E
+M>concetti o</E
+M>argomentazioni o</E
+M>le due frasi mi riescono o</E
+M>un verso</E
+M>un passo molto o</E
+M>uno scrittore</E
+M>un saggista o</E
+M>parlare</E
+M>scrivere oscuro</E
+M>mi fece un discorso o</E
+M>accennare con parole o</E
+M>con o</E
+M>allusioni</E
+M>un’o</E
+M>predizione</E
+M>in questa faccenda ci sono molti punti o</E
+M>è un o</E
+M>episodio della sua vita</E
+M>morì di morte o</E
+M>un periodo o</E
+M>della nostra storia</E
+M>un o</E
+M>avvenire</E
+M>in faccia ai due cugini</E
+M>due convitati o</E
+M>viveva in un o</E
+M>villaggio delle Alpi</E
+M>condurre una vita o</E
+M>una persona di nome o</E
+M>di o</E
+M>condizione</E
+M>di o</E
+M>nascita</E
+M>di origine o</E
+M>di famiglia o</E
+M>di o</E
+M>genitori</E
+M>un nome non o</E
+M>persona di non o</E
+M>fama</E
+M>la sua faccia si fece o</E
+M>era o</E
+M>in volto</E
+M>Partissi al fin con un sembiante o</E
+M>poche dolci ore serene Vedute ho ne l’o</E
+M>aspro camino Del viver mio</E
+M>deserto</E
+M>oscuro Il mio stato mortal</E
+M>oscura</E
+M>well</E
+M>uèl</E
+M>oscura</E
+M>parchemin</E
+M>par</E
+M>essere</E
+M>rimanere all’o</E
+M>scuro</E
+M>essere all’o</E
+M>di qualcosa</E
+M>tenere qualcuno all’o</E
+M>di qualche cosa</E
+M> aveva anche</E
+M> oscuramente</E
+M> vergogna di se stesso</E
+M>parlare</E
+M>esprimersi oscuramente</E
+M>vivere oscuramente</E

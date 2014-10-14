@@ -1,0 +1,47 @@
+serata.txt
+"allietare la serata"
+"buona serata"
+"in seconda serata"
+"passare una serata insieme"
+"prima serata"
+"prima serata (ore del giorno di maggior ascolto televisivo: dalle 19.00 alle 23.00)"
+"serata"
+"serata"
+"serata a tema"
+"Serata mondana"
+#*''lunghe '''serate''' invernali''
+#*''una serata a teatro''
+#*'''''serata''' d'onore''
+#*''prima '''serata''', seconda '''serata'''''
+#*'''''serata''' di gala''
+#*'''''serata''' d'addio'' 
+*[[sera]] 
+*''(festa)'' [[soirée]], [[gala]], [[festa]], [[ricevimento]]
+*''prima della 
+M>sera</E
+M>soirée</E
+M>sera</E
+M>una s. calda</E
+M>afosa</E
+M>una s. fredda</E
+M>piovosa</E
+M>una tiepida s. di primavera</E
+M>attendo in s. una risposta</E
+M>passerò in s. a riscuotere</E
+M>farò partire la merce in prima s.</E
+M>in tarda s.</E
+M>prima s.</E
+M>seconda s.</E
+M>come passi la s.?</E
+M>andrò al cinema</E
+M> tanto per passare la s.</E
+M>è stata una s. incantevole</E
+M>ieri siamo stati invitati a una s. in casa del nostro presidente</E
+M>il Circolo della Stampa dà una s. danzante</E
+M>s. di gala</E
+M>s. d&#8217;onore</E
+M>mezza s.</E
+M>s. col guanto</E
+M>s. d&#8217;addio</E
+M>è stata una seratina piacevole</E
+M>un po&#8217; noiosa</E

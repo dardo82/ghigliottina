@@ -1,0 +1,49 @@
+pubblicare.txt
+"pubblicare"
+"pubblicare"
+"pubblicare a puntate"
+"pubblicare in anteprima (riviste)"
+"pubblicare un annuncio"
+"pubblicare una clausola di esonero di responsabilità"
+"pubblicare una smentita"
+*[[diffondere]], [[divulgare]], [[presentare]], [[rivelare]], [[svelare]], [[proclamare]], [[propagare]]
+*''(a mezzo stampa)'' [[stampare]], dare alle stampe, far uscire, curare l’edizione
+*[[tacere]], [[nascondere]], [[celare]]
+*[[pubblicatore]], [[pubblicazione]], [[pubblico]]
+M>publicare</E
+M>publ</E
+M>cus</E
+M>io pùbblico</E
+M>tu pùbblichi</E
+M>fatti privati</E
+M>riservati</E
+M>una notizia</E
+M>un segreto</E
+M>un avviso</E
+M>un decreto</E
+M>una legge</E
+M>un&#8217;ordinanza</E
+M>un annuncio di matrimonio</E
+M>il papa</E
+M>mandò ancora 2000 scudi per sovvenire i vescovi indigenti</E
+M>ordinando che si facesse senza avere rispetto che ciò fosse publicato</E
+M>siamo arrivati a distruggere le estreme barriere di una vita privata e personale considerata sacra</E
+M>pubblicandola in tutti i modi</E
+M>un libro</E
+M>una rivista</E
+M>un settimanale</E
+M>un giornale</E
+M>il romanzo è stato pubblicato a puntate su una rivista</E
+M>è una casa editrice che pubblica prevalentemente testi classici</E
+M>i giornali hanno pubblicato impressionanti fotografie del disastro</E
+M>vorrebbe p</E
+M>le sue poesie</E
+M>è uno scrittore che ha pubblicato poco</E
+M>ha già pubblicato un volume di racconti</E
+M>di tanto in tanto pubblica qualche articolo sui giornali</E
+M>una serie di affreschi</E
+M>una tela</E
+M>un gruppo di disegni</E
+M>furono per tanto confinati tutti i Cerchi e i loro seguaci di parte bianca</E
+M>intra i quali fu Dante poeta</E
+M>e i loro beni publicati e le loro case disfatte</E

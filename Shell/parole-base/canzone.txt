@@ -1,0 +1,50 @@
+canzone.txt
+"canzone"
+"canzone"
+"canzone artistica"
+"canzone blues"
+"canzone classica"
+"canzone conviviale"
+"canzone d'amore"
+"canzone da ballo"
+"canzone di guerra"
+"canzone di successo"
+"canzone famosa"
+"canzone popolare"
+"canzone popolare"
+"canzone sacra"
+"canzone sentimentale popolare"
+"motivo ricorrente \/ tema di una canzone"
+"vecchia canzone"
+"vecchia canzone"
+#* ''quella 
+*''(metrica)'' [[componimento]], [[lirica]], [[poesia]], [[cantica]], [[canto]], [[ode]]
+*''(musica)'' [[motivo]], [[aria]], [[canto]], [[melodia]], [[pezzo]]
+*''(situazione ripetuta)'' [[solfa]], [[musica]], [[disco]] 
+* [[canzoniere]]
+M>cantio</E
+M>nis</E
+M>can</E
+M>cantum</E
+M>classica</E
+M>petrarchesca</E
+M>commiato</E
+M>congedo</E
+M>libera</E
+M>leopardiana</E
+M>Canzone a ballo</E
+M>Canzoni di gesta</E
+M>chansons de geste</E
+M>popolari</E
+M>di protesta</E
+M>intonare una c</E
+M>canzonette</E
+M>il lancio di una nuova c</E
+M>la c</E
+M>italiana</E
+M>il festival della canzone</E
+M>ricominci la solita c</E
+M>è sempre la stessa canzone</E
+M>mettere in c</E
+M>essere la c</E
+M>di tutti</E

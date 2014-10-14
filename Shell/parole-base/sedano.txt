@@ -1,0 +1,22 @@
+sedano.txt
+"sedano"
+"seme di sedano"
+*[[sedano rapa]]
+M>sel</E
+M>num</E
+M>Apium graveolens</E
+M>sedano da coste</E
+M>Apium graveolens</E
+M>dulce</E
+M>s. rapa</E
+M>Apium graveolens</E
+M>rapaceum</E
+M>s. da taglio</E
+M>Olio essenziale di s.</E
+M>S. di montagna</E
+M>Levisticum officinale</E
+M>S. selvatico</E
+M>Ranunculus bulbosus</E
+M>Ranunculus muricatus</E
+M>S. dei prati</E
+M>panace comune</E

@@ -1,0 +1,38 @@
+illegittimo.txt
+"figlio illegittimo"
+"figlio illegittimo"
+"figlio illegittimo"
+"figlio illegittimo"
+"illegittimo"
+"illegittimo"
+"illegittimo"
+"in modo illegittimo"
+*[[illegale]]
+*[[legittimo]]
+*[[illegittimamente]]
+M>illegit</E
+M>mus</E
+M>legit</E
+M>mus</E
+M>atto i</E
+M>potere</E
+M>titolo i</E
+M>governo i</E
+M>nome i</E
+M>nome invalido</E
+M>sovrano i</E
+M>figlio i</E
+M>il riconoscimento degli illegittimi</E
+M>filiazione i</E
+M>figlio naturale</E
+M>filiazione naturale</E
+M>una pretesa i</E
+M>supposizione i</E
+M>deduzione i</E
+M>impollinazione i</E
+M>fecondazione i</E
+M>autoimpollinazione</E
+M>autofecondazione</E
+M>autogamia</E
+M>appropriarsi illegittimamente di un bene</E
+M>adottare illegittimamente un provvedimento</E

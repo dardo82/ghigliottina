@@ -1,0 +1,72 @@
+territorio.txt
+"agenzia del territorio"
+"geografia del territorio"
+"integrato nel territorio"
+"marcare il territorio"
+"presente sul territorio"
+"territorio"
+"territorio"
+"territorio"
+"territorio d'oltreoceano"
+"territorio di caccia felice (dove vanno; secondo la credenza; gli spiriti degli indiani morti)"
+"territorio di confine"
+"territorio di un animale"
+"territorio montuoso"
+"territorio neutrale"
+"territorio non esplorato"
+"territorio pianeggiante"
+"territorio vergine"
+*''(elemento spaziale)'' [[giurisdizione]]
+M>territorium</E
+M>terra</E
+M>un grande t.</E
+M>una striscia di t.</E
+M>i t. montani</E
+M>costieri</E
+M>il t. d&#8217;uno stato</E
+M>la salvaguardia del t. nazionale</E
+M>il t. della madrepatria e quello coloniale</E
+M>il t. d&#8217;oltremare</E
+M>t. autonomo</E
+M>non autonomo</E
+M>t. franchi</E
+M>t. internazionale</E
+M>il t. d&#8217;una regione</E
+M>d&#8217;una provincia</E
+M>d&#8217;un comune</E
+M>d&#8217;una diocesi</E
+M>t. limitrofi</E
+M>ingrandire</E
+M>accrescere</E
+M>il proprio t.</E
+M>acquisto di nuovi t.</E
+M>invadere il t. nemico.</E
+M>il t. d&#8217;Italia</E
+M>italiano</E
+M>il t. della Repubblica Veneta</E
+M>del Ducato di Milano</E
+M>il t. di Bologna</E
+M> di Napoli</E
+M>t. bolognese</E
+M>napoletano</E
+M>ambiente</E
+M>architettura e t.</E
+M>cultura e t.</E
+M>politica del t.</E
+M>assetto territoriale</E
+M>Territorio del Nord</E
+M>Territorio Australiano Antartico</E
+M>territorî occupati</E
+M>occupied territories</E
+M>i Territorî</E
+M>t. di missione</E
+M>Yukon e t. del Nord-Ovest</E
+M>t. buono</E
+M>fair territory</E
+M>t. foul</E
+M>foul territory</E
+M>t. morfogenetico</E
+M>T. presuntivi</E
+M>t. presuntivo della corda dorsale</E
+M>della piastra neurale</E
+M>del cristallino.</E

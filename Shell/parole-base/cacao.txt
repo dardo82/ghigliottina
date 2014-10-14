@@ -1,0 +1,29 @@
+cacao.txt
+"burro cacao"
+"burro di cacao"
+"cacao"
+"cacao tree, cocoa tree"
+"cacao"
+"seme del cacao"
+"cocoa bean, cacao bean"
+"cacao"
+"polvere del seme di cacao"
+"cacao amaro"
+"chicchi di cacao"
+"crema di cacao"
+"creme de cacao"
+"marrone cacao"
+"pianta di cacao"
+"cacao"
+"bot., cacao tree"
+"seme di cacao"
+"tè al cacao"
+* polvere di cioccolato
+M>cacao</E
+M>cacahuatl</E
+M>Theobroma cacao</E
+M>polvere di c</E
+M>in polvere</E
+M>cioccolata</E
+M>Burro di c</E
+M>Rosso di c</E

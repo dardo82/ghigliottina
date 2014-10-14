@@ -1,0 +1,12 @@
+oppure.txt
+"oppure"
+"se... oppure no"
+* [[o]], [[ovvero]], o anche, o invece, [[ovvero]], [[ossia]], [[viceversa]], [[altrimenti]], se no, in caso contrario, [[invece]]
+*[[pure]]
+M>pure</E
+M>lo compri subito</E
+M>oppure vuoi ripensarci?</E
+M>dovrà smettere di dare fastidio</E
+M>oppure se ne pentirà</E
+M>oppure</E
+M>sai come si potrebbe fare?</E

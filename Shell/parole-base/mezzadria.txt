@@ -1,0 +1,5 @@
+mezzadria.txt
+"Traduzione di mezzadria/ non trovata.\nNo translation was found for mezzadria/."
+M>condurre</E
+M>dare</E
+M>avere un podere a mezzadria</E

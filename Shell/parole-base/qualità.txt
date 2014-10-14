@@ -1,0 +1,14 @@
+qualità.txt
+#*''prodotto di qualità
+#*''perdere, guadagnare la qualità''
+*[[caratteristica]], [[particolarità]], [[proprietà]], [[attributo]], [[requisito]], [[prerogativa]], [[peculiarità]]
+*[[tipo]], [[genere]], [[natura]], [[specie]], [[categoria]], [[varietà]]
+*[[genere]], [[modello]], [[marca]]
+*[[dote]], [[dono]], [[virtù]], [[merito]], [[valore]], [[pregio]]
+*[[grado]], [[posizione]], [[funzione]], [[mansione]], [[condizione]]
+*[[titolo]], [[professione]], [[specialità]]
+*[[rappresentanza]], [[veste]]
+*''(in senso morale)'' [[vizio]], [[difetto]]
+*[[quale]], [[qualificare]], [[qualitativo]]
+*''in qualità di''
+*Giuseppe Pittano, ''Il mio primo dizionario di italiano illustrato'', edizione 1995, p. 311 

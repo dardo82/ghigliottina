@@ -1,0 +1,18 @@
+telefonare.txt
+"telefonare"
+"telefonare a"
+M>io telèfono</E
+M>avere</E
+M>a che ora posso telefonarti?</E
+M>mi ha telefonato mio fratello per dirmi che ...</E
+M>vorrei t. a Milano</E
+M>si può t. da qui?</E
+M>ha telefonato nessuno mentre ero fuori?</E
+M>ci telefoniamo spesso</E
+M>devi telefonargli niente?</E
+M>cos&#8217;è che mi volevi telefonare?</E
+M>appena puoi</E
+M> telefonami l&#8217;esito dell&#8217;esame.</E
+M>i dati telefonatimi sono insufficienti</E
+M>colpo telefonato</E
+M>lancio telefonato</E

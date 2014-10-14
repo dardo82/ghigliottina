@@ -1,0 +1,37 @@
+specialista.txt
+"specialista"
+"specialista"
+"specialista"
+"specialista di apparecchi acustici"
+"specialista di economia domestica"
+"specialista in"
+"specialista in"
+"specialista in neurobiologia"
+"specialista in neurologia"
+"specialista in ortopedia"
+"specialista in paleontologia"
+"specialista in psichiatria"
+"specialista nella discesa"
+*[[esperto]]
+*[[speciale]], [[specialistico]]
+M>speciale</E
+M>spécialiste</E
+M>è uno s. di lingue e letterature orientali</E
+M>quel regista è uno s. di film polizieschi</E
+M>uno s. di programmazione elettronica</E
+M>uno s. di design industriale</E
+M>medico s.</E
+M>specialista</E
+M>s. per le malattie dei bambini</E
+M>s. di malattie nervose</E
+M>uno s. di otorinolaringoiatria</E
+M>farsi visitare dallo s.</E
+M>avere bisogno di uno specialista</E
+M>corridore</E
+M>s. dei duecento metri piani</E
+M>nuotatore</E
+M>s. dei cento metri dorso</E
+M>specializzato</E
+M>reparti specialisti d&#8217;artiglieria</E
+M>ruolo sottufficiali s.</E
+M>specialisti del servizio amministrativo e logistico</E

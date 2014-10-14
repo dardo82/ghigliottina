@@ -1,0 +1,65 @@
+rivista.txt
+"piccola rivista"
+"rivista"
+"rivista"
+"rivista"
+"rivista di attualità"
+"rivista di settore"
+"rivista musicale"
+"rivista per bambini"
+"rivista per uomini"
+"rivista settimanale"
+"rivista specializzata"
+"rivista su ghiaccio (pattinaggio artistico)"
+"sezione di una rivista"
+"una rivista"
+M>rivedere</E
+M>revue</E
+M>review</E
+M>dare una r</E
+M>alle bozze</E
+M>al manoscritto</E
+M>rassegna</E
+M>fare la r</E
+M>delle truppe</E
+M>passare in r</E
+M>un reparto</E
+M>l&#8217;equipaggiamento</E
+M>le armi di un reparto</E
+M>navale</E
+M>rivista</E
+M>aeronautica</E
+M>rassegna</E
+M>passare in r</E
+M>passammo in r</E
+M>tutte le possibili ipotesi</E
+M>scientifiche</E
+M>storica</E
+M>letteraria</E
+M>medica</E
+M>di informatica</E
+M>di moda</E
+M>di arredamento</E
+M>di automobilismo</E
+M>illustrata</E
+M>quindicinale</E
+M>mensile</E
+M>trimestrale</E
+M>storica italiana</E
+M>di filosofia</E
+M>di chirurgia</E
+M>marittima</E
+M>bancaria</E
+M>teatro di rivista</E
+M>radiofonica</E
+M>televisiva</E
+M>la r</E
+M>italiana del primo Novecento</E
+M>una r</E
+M>leggera</E
+M>comica</E
+M>satirica</E
+M>la crisi della r</E
+M>tradizionale</E
+M>il sorgere della r</E
+M>cabaret</E

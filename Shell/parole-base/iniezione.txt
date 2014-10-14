@@ -1,0 +1,52 @@
+iniezione.txt
+"iniezione"
+"iniezione"
+"iniezione"
+"iniezione d'aria"
+"iniezione di carburante"
+"iniezione di droga"
+"iniezione di droga (slang)"
+"iniezione di fiducia"
+"iniezione di richiamo"
+"iniezione di vita"
+*[[iniettare]]
+*[[iniettivo]]
+*[[iniettore]]
+M>iniectio</E
+M>onis</E
+M>inic</E
+M>iniectus</E
+M>fare un’i</E
+M>farsi fare delle i</E
+M>il medico gli ha prescritto una serie di iniezioni di calcio</E
+M>di penicillina</E
+M>farsi una i</E
+M>di eroina</E
+M>intradermiche</E
+M>sottocutanee</E
+M>ipodermiche</E
+M>intramuscolari</E
+M>endovenose</E
+M>intravenose</E
+M>aver bisogno di una i</E
+M>di coraggio</E
+M>di fiducia</E
+M>di allegria</E
+M>la sua conversazione è stata per me una vera i</E
+M>di buonumore</E
+M>una scatola di iniezioni</E
+M>le i</E
+M>oleose si assorbono molto lentamente</E
+M>Motori a iniezione</E
+M>elettronica</E
+M>griglia di iniezione</E
+M>magmatica</E
+M>iniezione</E
+"name": "Iniezione"
+"name": "Iniezione letale"
+"name": "Iniezione intracitoplasmatica dello spermatozoo"
+"name": "Stampaggio a iniezione"
+"name": "Iniezione intramuscolare"
+"name": "Iniezione"
+"name": "Iniezione indiretta"
+"name": "Motore ad iniezione d'acqua"

@@ -1,0 +1,42 @@
+pisello.txt
+"delle dimensioni di un pisello"
+"pisello"
+"pisello"
+"frutto del pisello"
+"pisello"
+"pisello odoroso"
+"pisello secco"
+"verde pisello"
+* ''(organo sessuale maschile)'' [[pene]], [[membro]], [[fallo]]
+M>*pisellum</E
+M>pisum</E
+M>Pisum</E
+M>Pisum sativum</E
+M>piselli</E
+M>comune</E
+M>da orto</E
+M>Pisum sativum</E
+M>sativum</E
+M>selvatico</E
+M>Pisum sativum</E
+M>elatius</E
+M>rubiglio</E
+M>Pisum sativum sativum</E
+M>arvense</E
+M>Pisum arvense</E
+M>rubiglio</E
+M>sgranare</E
+M>sgusciare i p</E
+M>mangiatutto</E
+M>piselli freschi</E
+M>secchi</E
+M>lessati</E
+M>in umido</E
+M>arrosto</E
+M> minestra con piselli</E
+M>piselli col prosciutto</E
+M>colore</E
+M>verde</E
+M>una camicetta color p</E
+M>color verde p</E
+M>una camicetta verde pisello</E

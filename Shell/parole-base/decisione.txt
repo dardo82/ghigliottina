@@ -1,0 +1,51 @@
+decisione.txt
+"arrivare a una decisione"
+"arrivare ad una decisione"
+"arrivare ad una decisione"
+"con decisione"
+"decisione"
+"decisione"
+"decisione del tribunale"
+"decisione della corte"
+"decisione irremovibile"
+"decisione legale"
+"decisione libera"
+"decisione precedente"
+"decisione salomonica"
+"decisione storica"
+"giungere ad una decisione"
+"giungere ad una decisione"
+"maturare una decisione"
+"paura (riguardo ad una decisione)"
+"prendere una decisione"
+"prendere una decisione"
+"prendere una decisione"
+"prendere una decisione su due piedi"
+"rovesciare (la decisione)"
+"rovesciare (la decisione)"
+*[[risoluzione]], [[conclusione]], [[provvedimento]], [[disposizione]], [[scelta]]
+*[[determinazione]], [[risolutezza]], [[fermezza]], [[prontezza]], [[sicurezza]]
+*''(una controversia, una vertenza ecc.)'' [[definizione]]
+*[[indecisione]] 
+*[[decisionismo]]
+*''Prudenza nel '''decisione''', ma energia nell'esecuzione.''
+M>decisio</E
+M>onis</E
+M>dec</E
+M>la d</E
+M>della Cassazione</E
+M>della Corte d’appello</E
+M>del Tribunale</E
+M>sentenza</E
+M>prendere</E
+M>maturare una d</E
+M>è stata una d</E
+M>affrettata</E
+M>mi rimetto alle tue d</E
+M>persona incapace di decisioni</E
+M>agire con decisione</E
+M>mostrare decisione nell’agire</E
+M>nel prendere provvedimenti</E
+M>teoria delle d</E
+M>procedure di decisione</E
+M>problema di decisione</E

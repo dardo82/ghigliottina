@@ -1,0 +1,18 @@
+patente.txt
+"esame per il rilascio della patente di guida"
+"maggiore età in cui prendere la patente di guida"
+"patente"
+"patente"
+"patente"
+"patente di guida"
+"patente"
+"patente"
+"patente (di guida)"
+"patente di guida"
+"patente nautica"
+"patente sanitaria"
+#*'''patente di guida'''
+* ''(aggettivo)'' dal latino ''[[patens]]'', participio presente di ''[[patere]]'' ossia ''essere aperto o manifesto, estendersi, allargarsi'';
+* ''(sostantivo)''per ellissi da [[lettera]] 
+* [[chiaro]], [[evidente]], [[lampante]] 
+* [[croce patente]], [[mandorle pelate]]

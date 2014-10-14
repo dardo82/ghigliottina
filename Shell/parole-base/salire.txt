@@ -1,0 +1,230 @@
+salire.txt
+"aiutare a salire"
+"continuare a salire"
+"dare un passaggio, caricare, far salire qcn"
+"far salire"
+"far salire"
+"far salire la temperatura"
+"far salire un'offerta"
+"la strada inizia a salire"
+"salire"
+"salire"
+"salire"
+"salire"
+"salire"
+"salire"
+"salire (di prezzi)"
+"salire a bordo"
+"salire a bordo"
+"salire a bordo"
+"salire a bordo, imbarcarsi"
+"salire a piedi"
+"salire al trono"
+"salire in"
+"salire su"
+"salire su"
+"salire su"
+"salire su; montare su; imbarcarsi su"
+"salire, ascendere"
+"salire, aumentare"
+"salire; montare"
+"salire; montare"
+"salire\/risalire a"
+#*''Ieri '''sono salito''' su quell'albero''
+#*''La parte più difficile dell'ippica, secondo me, è '''salire''' a'' o ''sul cavallo''
+*(''fare un movimento verso l'alto'') [[ascendere]]
+*(''andare sopra qualcosa'') [[montare]]
+*[[scendere]], [[discendere]]
+*[[risalire]]
+*[[salibile]], [[saliscendi]], [[salita]], [[saltare]]
+*[[salare]]
+*italiano
+*latino
+M>salire</E
+M>salgo</E
+M>sali</E
+M>sale</E
+M>saliamo</E
+M>salite</E
+M>sàlgono</E
+M>salisco</E
+M>salisci</E
+M>sàglio</E
+M>sagli</E
+M>sàglie</E
+M>sagliamo</E
+M>saglite</E
+M>sàgliono</E
+M>salga ...</E
+M>saliamo</E
+M>saliate</E
+M>sàlgano</E
+M>salisca</E
+M>sàglia ...</E
+M>sagliamo</E
+M>sagliate</E
+M>sàgliano</E
+M>salìi</E
+M>salsi</E
+M>salse</E
+M>sàlsero</E
+M>salènte</E
+M>saliènte</E
+M>sagliènte</E
+M>salèndo</E
+M>saglièndo</E
+M>sarrò</E
+M>salirò</E
+M>sarrèi</E
+M>salirèi</E
+M>sarrìa</E
+M>salirèi</E
+M>salirésti</E
+M>salirèbbe</E
+M>essere</E
+M>montare</E
+M>arrampicarsi</E
+M>s. per le scale</E
+M>su per le scale</E
+M>s. sulla scala</E
+M>in cima alla scala</E
+M>s. in terrazza</E
+M>sulla terrazza</E
+M>s. sulla torre</E
+M>in cima alla torre</E
+M>s. sulla cupola di s. Pietro</E
+M>s. su per il monte</E
+M>s. in cima a un monte</E
+M>s. fino in vetta alla montagna</E
+M>s. sulla vetta più alta</E
+M>s. piano piano</E
+M>s. lentamente</E
+M>s. di corsa</E
+M>salgo al piano di sopra</E
+M>salgo un momento in ufficio</E
+M>s. in casa</E
+M>salgo a prendere il cappotto e torno subito</E
+M>volete s. un attimo?</E
+M>perché non sali da me a fare due chiacchiere?</E
+M>s. in macchina</E
+M>in carrozza</E
+M>s. sul tram</E
+M>sul treno</E
+M>s. a bordo</E
+M>s. sulla barca</E
+M>sulla nave</E
+M>sull&#8217;aereo</E
+M>s. sul palcoscenico</E
+M>sul podio</E
+M>per arrivare allo scaffale salì in piedi su una sedia</E
+M>s. in cattedra</E
+M>s. sul pulpito</E
+M>s. al</E
+M>sul</E
+M>trono</E
+M>s. al potere</E
+M>s. al governo.</E
+M>montare</E
+M>s. sul muretto</E
+M>s. su uno scoglio</E
+M>Sovra un arbore i&#8217; salsi e te su l&#8217;erba Lasciai</E
+M>s. a cavallo</E
+M>s. in sella</E
+M>s. in groppa</E
+M>s. in bicicletta.</E
+M>cominciammo a s.</E
+M>saliva faticosamente</E
+M>chi volesse Salir di notte</E
+M> fora elli impedito D&#8217;altrui</E
+M> o non sarria</E
+M>ché non potesse?</E
+M>l&#8217;ho incontrato nel s.</E
+M>sul primo s.</E
+M>Drizzate noi verso li altri saliri</E
+M>s. in casa con l&#8217;ascensore</E
+M>s. con la scala mobile</E
+M>con la funicolare</E
+M>con la funivia</E
+M>con la seggiovia</E
+M>l&#8217;ascensore sta salendo</E
+M>la funivia sale lentamente.</E
+M>s. con l&#8217;aeroplano a 5000 metri</E
+M>l&#8217;aquila sale a grandi altezze</E
+M>s. al cielo</E
+M>salì al cielo</E
+M> siede alla destra di Dio padre</E
+M>s. in cielo</E
+M>morire</E
+M>è salito al</E
+M>cielo dopo una lunga malattia</E
+M>s. in cielo col pensiero</E
+M>con l&#8217;immaginazione</E
+M>con la fantasia</E
+M>nostro intelletto ... non puote a certe cose salire</E
+M>s. nella via della perfezione</E
+M>s. agli onori dell&#8217;altare</E
+M>s. agli onori della porpora</E
+M>montare</E
+M>in superbia</E
+M>in collera</E
+M>s. nella considerazione</E
+M>nella stima degli altri</E
+M>s. in onore</E
+M>in gran fama</E
+M>a grande fama</E
+M>s. in grado</E
+M>di grado</E
+M>s. in ricchezza</E
+M>in potere</E
+M>da questa autorità facilmente salse a tanta grandezza che diventò tiranno di Atene</E
+M>Evviva chi salì</E
+M> viva chi scese</E
+M>l&#8217;aeroplano continuava a s.</E
+M>s. a galla</E
+M>s. in superficie</E
+M>alla superficie</E
+M>risalire</E
+M>lo zampillo della fontana sale fino a 20 metri</E
+M>il livello del fiume è salito di 50 centimetri</E
+M>la marea sta salendo</E
+M>il sole sale sull&#8217;orizzonte</E
+M>La nebbia agl&#8217;irti colli piovigginando sale</E
+M>dal vulcano salivano fiamme e lapilli</E
+M>dalle macerie continua a s. una colonna di fumo</E
+M>le fiamme salivano al tetto</E
+M>il sangue gli salì alla testa</E
+M>una vampata di rossore le salì al viso</E
+M>l&#8217;odore dell&#8217;erba tagliata sale alle narici</E
+M>le urla salivano al cielo</E
+M>alle stelle</E
+M>la sua voce cominciò a s.</E
+M>s. di un tono</E
+M>di mezzo tono.</E
+M>il monte sale fino a 3000 metri</E
+M>il sentiero sale per un centinaio di passi</E
+M> poi piega a destra</E
+M>in quel punto la strada sale con un lieve pendìo.</E
+M>la temperatura tende a s.</E
+M>il termometro sale</E
+M>la febbre gli è salita ancora</E
+M>il numero degli iscritti è già salito a oltre duecento</E
+M>gli iscritti sono già saliti a oltre duecento</E
+M>il numero delle vittime purtroppo è salito ancora</E
+M>secondo le statistiche</E
+M> le nascite tendono a non salire</E
+M>i prezzi di mercato salgono</E
+M>il prezzo dell&#8217;olio è salito alle stelle</E
+M>l&#8217;oro continua a s.</E
+M>la benzina sale ancora</E
+M>sale ancora di prezzo</E
+M>s. le scale</E
+M>s. i gradini a due a due</E
+M>s. l&#8217;erta</E
+M>s. la china</E
+M>s. il patibolo</E
+M>s. la cattedra</E
+M>s. l&#8217;altare</E
+M>s. sulla</E
+M>cattedra</E
+M>sull&#8217;altare.</E
+M>Del palafreno il cacciator giù sale</E

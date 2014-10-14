@@ -1,0 +1,37 @@
+enciclopedia.txt
+"enciclopedia"
+*[[dizionario]]
+*italiano
+*spagnolo
+*piemontese
+M>encyclopaedia</E
+M>sistematica</E
+M>Encyclopaedia septem tomis distincta</E
+M>Cursus philosophici encyclopaedia</E
+M>International Encyclopedia of Unified Science</E
+M>generale</E
+M>Encyclopédie</E
+M>ou Dictionnaire raisonné des Sciences</E
+M>des Arts et des Métiers</E
+M>Encyclopaedia Britannica</E
+M>Allgemeine Enzyklopädie der Wissenschaften und Künste</E
+M>Enciclopedia Italiana di Scienze</E
+M> Lettere ed Arti</E
+M>e. per ragazzi</E
+M>Enzyklopädie der philosophischen Wissenschaften</E
+M>Juristische Encyklopädie</E
+M>Enzyklopädie der mathematischen Wissenschaften</E
+M>Encyclopedia of Social Sciences</E
+M>Real</E
+M>Encyclopädie der classischen Altertumswissenschaft</E
+M>Enciclopedia del Novecento come lessico dei massimi problemi</E
+M>Enciclopedia Dantesca</E
+M>disciplinare</E
+M>settoriale</E
+M>è un’e</E
+M>una vera e</E
+M>un’e</E
+M>vivente</E
+M>un’e</E
+M>ambulante</E
+M>E. mentale</E

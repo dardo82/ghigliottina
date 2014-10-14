@@ -1,0 +1,64 @@
+sportivo.txt
+"abbigliamento sportivo"
+"abbigliamento sportivo"
+"allenamento sportivo"
+"complesso sportivo"
+"evento sportivo"
+"giaccone sportivo"
+"giornale sportivo"
+"illecito sportivo"
+"impianto sportivo"
+"redattore sportivo"
+"sportivo"
+"sportivo"
+"sportivo"
+"sportivo; leale"
+"torneo sportivo"
+M>sport</E
+M>sportif</E
+M>attività</E
+M>gare</E
+M>competizioni s.</E
+M>capacità</E
+M>doti s.</E
+M>negozio di articoli s.</E
+M>campo s.</E
+M>impianti s.</E
+M>diritto s.</E
+M>medicina s.</E
+M>circolo s.</E
+M>società</E
+M>associazione s.</E
+M>giornali s.</E
+M>notizie</E
+M>cronache s.</E
+M>notiziario</E
+M>resoconto sportivo.</E
+M>nuoto s.</E
+M>pésca s.</E
+M>professionale.</E
+M>arrampicata s.</E
+M>tenuta s.</E
+M>vestito s.</E
+M>di taglio s.</E
+M>di linea s.</E
+M>automobile</E
+M>macchina sportiva</E
+M>una ragazza s.</E
+M>gioventù s.</E
+M>una famiglia di sportivi</E
+M>in casa mia nessuno è s.</E
+M>non sono mai stata una sportiva.</E
+M>giocare</E
+M>battersi</E
+M>gareggiare in modo s.</E
+M>avere un contegno s.</E
+M>saper vincere e perdere con s. serenità</E
+M>nell&#8217;atletica ci sono ancora degli sportivi all&#8217;antica</E
+M>ha accettato la sconfitta da vero sportivo.</E
+M>vestire sportivamente</E
+M>battersi</E
+M>giocare sportivamente</E
+M>poco sportivamente</E
+M>non ha vinto il concorso</E
+M> ma l&#8217;ha presa sportivamente.</E

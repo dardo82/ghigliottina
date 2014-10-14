@@ -1,0 +1,119 @@
+sostenere.txt
+"sostenere"
+"sostenere"
+"sostenere"
+"sostenere"
+"sostenere"
+"sostenere"
+"sostenere, replace: sostenersi"
+"sostenere, replace: sostenersi"
+"sostenere costi"
+"sostenere finanziariamente"
+"sostenere il colpo di qlc"
+"sostenere il peso maggiore"
+"sostenere la propria tesi"
+"sostenere le spese"
+"sostenere lo sguardo di qualcuno"
+"sostenere spese"
+"sostenere, affermare, asserire"
+"sostenere, reggere"
+"supportare qcn, sostenere qcn"
+#*''il cavallo sostiene l'[[amazzone]]'' 
+#*''quel presidente sostiene personalmente le spese  per  le  trasferte della sua squadra ''
+*[[sorreggere]], [[proclamare]] 
+*''(un muro e simili)'' [[puntellare]], [[rinforzare]] 
+*''(una causa e sim.)'' [[patrocinare]], [[perorare]]
+*''(una tesi, una teoria)'' [[asserire]], [[affermare]] 
+*''(la propria innocenza)'' [[dichiarare]] 
+*''(un onere)'' [[assumersi]], [[sobbarcarsi]] 
+*''(un esame)'' [[dare]] 
+*''(il vino, l'alcol)'' [[tollerare]], [[reggere]], [[sopportare]] 
+*'' (l'assalto di qualcuno e simili)'' [[reggere]], [[resistere]]
+*'' (una carica)'' [[ricoprire]], [[esercitare]], [[rivestire]] 
+*''(una parte)'' [[interpretare]], [[recitare]] 
+*''(l'organismo ecc.)'' [[rafforzare]], [[irrobustire]], [[fortificare]], [[corroborare]], [[tonificare]]
+*''(una causa)''[[contrastare]], [[combattere]]
+*''((l’assalto di qualcuno e simili)'' [[cedere]], [[subire]]
+*''(l’organismo)'' [[indebolire]], [[debilitare]], [[fiaccare]], [[svigorire]]
+*[[sostegno]], [[sostenersi]], [[sostenibile]], [[sostenitore]], [[sostentare]], [[sostenuto]]
+M>sust</E
+M>sus-</E
+M>sub-</E
+M>tenere</E
+M>tenere</E
+M>le travi sostengono il soffitto</E
+M>il balcone del palazzo è sostenuto da quattro cariatidi</E
+M>il cavallo sostiene il cavaliere</E
+M>un alto leggìo sosteneva il messale</E
+M>s. il peso</E
+M>il carico</E
+M>la pressione</E
+M>s. un bambino in braccio</E
+M>la mensola era sostenuta da due staffe metalliche</E
+M>una lunga sagola sosteneva lo scandaglio</E
+M>la raffigurazione di Atlante nell&#8217;atto di s. la sfera celeste</E
+M>il muro è molto debole e deve essere sostenuto con opportuni puntelli</E
+M>è ancora molto debole</E
+M> e quando si alza dal letto ci vuole qualcuno che lo sostenga</E
+M>s. il decoro</E
+M>l&#8217;onore della famiglia</E
+M>s. la voce</E
+M>s. una nota</E
+M>s. il corso di azioni</E
+M>obbligazioni</E
+M>titoli di stato</E
+M>valute</E
+M>alimenti che sostengono il corpo</E
+M>le forze</E
+M>iniezioni che servono a s. il cuore</E
+M>parole di fede che sostengono lo spirito</E
+M>s. un amico nel bisogno</E
+M>nelle avversità</E
+M>è sostenuto dal direttore</E
+M>da amici potenti</E
+M>s. una candidatura</E
+M>una legge</E
+M>s. un partito</E
+M>un&#8217;associazione</E
+M>s. una tesi</E
+M>una teoria</E
+M>l&#8217;avvocato sostenne la piena innocenza dell&#8217;accusato</E
+M>l&#8217;ho detto e lo sostengo</E
+M>potresti sostenerlo in faccia al mondo</E
+M>sostiene di avere poteri paranormali</E
+M>sostengo che non è vero</E
+M>Platone sosteneva che l&#8217;anima umana è immortale</E
+M>e lei mi vorrà s. che non ha niente?</E
+M>il paratifo è sostenuto da due microrganismi del genere salmonella</E
+M>s. il carico della famiglia</E
+M>s. le spese</E
+M>s. le responsabilità di un ufficio</E
+M>di un incarico</E
+M>s. un ufficio</E
+M>una carica</E
+M>s. le veci di qualcuno</E
+M>s. una parte</E
+M>s. l&#8217;urto</E
+M>l&#8217;impeto</E
+M>l&#8217;assalto del nemico</E
+M>sostenne senza battere ciglio i miei rimproveri</E
+M>s. il mare</E
+M>s. il vino</E
+M>s. il male</E
+M>s. una malattia</E
+M>messer Riccardo</E
+M> udendo queste parole</E
+M> sosteneva dolore incomportabile</E
+M>l&#8217;altro che là sen va</E
+M> sostenne ... Falsificare in sé Buoso Donati</E
+M>la mensola si sostiene senza bisogno d&#8217;altri appoggi</E
+M>un vecchio che si sosteneva col bastone</E
+M>devo sostenermi con cibi nutrienti</E
+M>durante le notti di veglia prendo diversi caffè per sostenermi</E
+M>l&#8217;associazione si sostiene con i contributi degli iscritti</E
+M>è una teoria</E
+M>un&#8217;ipotesi che non si sostiene</E
+M>e oltre a questo</E
+M> già ricevuti i denari</E
+M> più giorni appresso di sé il sostenne</E
+M>fa che la tua lingua si sostenga</E

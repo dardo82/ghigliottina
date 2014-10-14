@@ -1,0 +1,26 @@
+incalzare.txt
+"incalzare"
+"incalzare"
+"incalzare degli eventi"
+*[[inseguire]], [[perseguitare]], correre dietro
+*[[incombere]], [[pressare]]
+*''(di tempo)'' [[avanzare]], [[stringere]]
+*''(di pericolo, minaccia e simili)'' [[sovrastare]], [[gravare]]
+* ''(con richieste e domande)''  [[insistere]], [[assillare]]
+* [[incalzamento]], [[incalzando]]
+M>*incalciare</E
+M>calx calcis</E
+M>le truppe incalzarono il nemico fin oltre il fiume</E
+M>il nemico incalza</E
+M>un incalzar di cavalli accorrenti</E
+M>la morte incalza</E
+M>il pericolo incalza</E
+M>gli avvenimenti incalzano</E
+M>qualcuno con richieste</E
+M>incalzarsi</E
+M>erano inseguiti dai nemici incalzanti</E
+M>notizie incalzantisi senza tregua</E
+M>pericolo</E
+M>minaccia incalzante</E
+M>sollecitare con domande</E
+M>con richieste incalzanti</E

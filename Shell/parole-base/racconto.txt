@@ -1,0 +1,46 @@
+racconto.txt
+"di racconto breve"
+"racconto"
+"racconto"
+"racconto breve"
+"racconto diretto (forma poetica)"
+"racconto epico"
+"racconto poliziesco"
+"romanzo, racconto"
+"un racconto strappalacrime"
+*[[relazione]], [[resoconto]], [[esposizione]], [[narrazione]], [[rapporto]], [[informazione]], [[notizia]], [[cronaca]]
+*[[ novella]], [[romanzo]], [[favola]], [[fiaba]], [[storia]]
+*[[raccontare]]
+M>narrazione</E
+M>raccontare</E
+M>narrare</E
+M>resoconto</E
+M>il r</E
+M>delle tue vicende familiari mi ha colpito</E
+M>mi fece il r</E
+M>particolareggiato del suo viaggio</E
+M>cominciare</E
+M>terminare un r</E
+M>commuoversi nel r</E
+M>delle proprie disgrazie</E
+M>nel calore del r</E
+M>a un certo punto del racconto</E
+M>storico</E
+M>leggendario</E
+M>favoloso</E
+M>verosimile</E
+M>inverosimile</E
+M>prolisso</E
+M>stringato</E
+M>brillante</E
+M>freddo</E
+M>monotono</E
+M>un volume di racconti</E
+M>popolari</E
+M>per l&#8217;infanzia</E
+M>lungo</E
+M>breve</E
+M>ben costruito</E
+M>slegato</E
+M>intreccio</E
+M>fabula</E

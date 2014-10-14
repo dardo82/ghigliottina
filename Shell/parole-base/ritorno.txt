@@ -1,0 +1,149 @@
+ritorno.txt
+"all'inferno e ritorno"
+"analfabetismo di ritorno"
+"andata e ritorno"
+"biglietto di andata e ritorno"
+"biglietto di andata e ritorno"
+"biglietto di andata e ritorno"
+"brusco ritorno alla realtà"
+"di andata e ritorno"
+"di ritorno"
+"di ritorno a casa"
+"di ritorno, che torna"
+"fare ritorno"
+"girone di andata e ritorno"
+"partita di ritorno"
+"percentuale di ritorno, di guadagno"
+"pugno di ritorno"
+"punto di non ritorno"
+"ricevuta di ritorno"
+"ritorno"
+"ritorno"
+"ritorno"
+"ritorno"
+"ritorno"
+"ritorno"
+"ritorno a casa"
+"ritorno a casa"
+"ritorno alla terra"
+"ritorno alla vita"
+"ritorno di fiamma"
+"ritorno di immagine"
+"ritorno economico"
+"segnale di ritorno"
+"strada del ritorno"
+"valvola di non ritorno"
+"via di ritorno"
+"viaggio di andata e ritorno"
+#* ''viaggio di ritorno''
+#* ''biglietto di andata e ritorno, girone di ritorno (sport)''
+#*''ritorno di fiamma''
+#* ''analfabetismo di ritorno''  
+M>a casa</E
+M>in città</E
+M>in ufficio</E
+M>dalla passeggiata</E
+M>dal teatro</E
+M>da Roma</E
+M>dall&#8217;estero</E
+M>dalla villeggiatura</E
+M>dal campo</E
+M>dal lavoro</E
+M>dal viaggio</E
+M>sollecito</E
+M>desiderato</E
+M>gradito</E
+M>sgradito</E
+M>far r</E
+M>mettersi sulla via del r</E
+M>di un assassino sul luogo del delitto</E
+M>tesa al r</E
+M>Viaggio di r</E
+M>ritorno</E
+M>andata</E
+M>biglietto di andata e r</E
+M>nell&#8217;andata abbiamo avuto tempo buono</E
+M>ma al r</E
+M>pioveva</E
+M>tra andata e r</E
+M>abbiamo impiegato dieci ore</E
+M>durante il r</E
+M>il treno si è fermato per un&#8217;interruzione della linea</E
+M>buon viaggio e felice ritorno!</E
+M>in servizio</E
+M>r. sulla scena</E
+M>sulla ribalta</E
+M>sul set</E
+M>con la memoria</E
+M>al passato</E
+M>a Dio</E
+M>alla fede</E
+M>sulla retta via</E
+M>il r</E
+M>di una compagnia teatrale in una città</E
+M>lo stato di allarme perdurava anche dopo la prima incursione</E
+M>nel timore del r</E
+M>degli aerei nemici</E
+M>di un&#8217;epidemia</E
+M>della guerra</E
+M>di una moda</E
+M>di un&#8217;usanza</E
+M>il r</E
+M>delle rondini a primavera</E
+M>il r</E
+M>dell&#8217;estate</E
+M>il r</E
+M>di una cometa</E
+M>il r</E
+M>di una festa</E
+M>del Natale</E
+M>eterno r</E
+M>di una lettera al mittente</E
+M>aspetto ancora il r</E
+M>di quella valigia che gli ho prestato</E
+M>Di ritorno</E
+M>essere di r</E
+M>sarò di ritorno</E
+M>sarò di r</E
+M>giovedì prossimo</E
+M>avere di r</E
+M>difficilmente riesco ad avere di r</E
+M>i libri che gli presto</E
+M>ho avuto di r</E
+M>proprio oggi</E
+M>vuoti di r</E
+M>vuoti a rendere</E
+M>vuoti a perdere</E
+M>vettura</E
+M>cavallo di r</E
+M>cavallo di r</E
+M>conto di r</E
+M>girata di r</E
+M>girone di r</E
+M>passaggio di r</E
+M>tasto di r</E
+M>leva di r</E
+M>analfabetismo di r</E
+M>di non ritorno</E
+M>valvola di non r</E
+M>valvola di ritenuta</E
+M>di ritegno</E
+M>punto di non r</E
+M>ormai siamo al punto di non r</E
+M>dobbiamo proseguire nell&#8217;impresa</E
+M>anche se disperata</E
+M>il r. di un investimento bancario</E
+M>ritorno d&#8217;immagine</E
+M>di penna</E
+M>in curva</E
+M>tornante</E
+M>di fiamma</E
+M>di fiamma in generatori di vapore a tiraggio</E
+M>di fiamma in motori a combustione interna</E
+M>si sono rincontrati dopo tanti anni</E
+M>c&#8217;è stato un improvviso r</E
+M>di fiamma e si sono sposati</E
+M>tirante</E
+M>bozzello</E
+M>pastecca di ritorno</E
+M>muro di r</E

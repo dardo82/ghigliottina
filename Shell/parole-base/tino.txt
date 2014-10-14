@@ -1,0 +1,6 @@
+tino.txt
+"tino"
+* [[botte]]
+:*[[tino#Italiano|tino]]
+*italiano
+*spagnolo

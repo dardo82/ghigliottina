@@ -1,0 +1,96 @@
+giudice.txt
+"buon giudice"
+"davanti al giudice"
+"fare da giudice"
+"giudice"
+"giudice"
+"giudice che presiede"
+"giudice circoscrizionale"
+"giudice competente in materia di testamenti"
+"giudice di conciliazione"
+"giudice di gara"
+"giudice di merito"
+"giudice di pace"
+"giudice di pace"
+"giudice distrettuale"
+"giudice islamico"
+"giudice istruttore"
+"giudice militare"
+"giudice monocratico"
+"giudice relatore"
+"giudice tutelare"
+"giudice unico di primo grado"
+"il Giudice"
+"prezzo di aggiudicazione (quando il giudice dichiara chiusa l'asta con un colpo di martello)"
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione 2000-2001, Le Monnier, p. 917
+m>dex</e
+m>cis</e
+m>ius</e
+m>dic</e
+m>essere g</e
+m>di un concorso</e
+m>di una competizione</e
+m>di una controversia</e
+m>il g</e
+m>del gioco</e
+m>i g</e
+m>delle corse</e
+m>il supremo g</e
+m>nominare qualcuno g</e
+m>del contraddittorio</e
+m>farsi g</e
+m>atteggiarsi</e
+m>impancarsi a g</e
+m>tu solo sei g</e
+m>del tuo operato</e
+m>vuol farla da g</e
+m>in tutto</e
+m>essere g</e
+m>essere buon g</e
+m>è buon g</e
+m>di musica</e
+m>d&rsquo;arte</e
+m>in fatto di vini è buon giudice</e
+m>vero g</e
+m>è il tempo</e
+m>di campo</e
+m>di gara</e
+m>arbitro</e
+m>giudici di linea</e
+m>civile</e
+m>penale</e
+m>amministrativo</e
+m>costituzionale</e
+m>monocratico</e
+m>collegiale</e
+m>ordinario</e
+m>speciale</e
+m>inferiore</e
+m>superiore</e
+m>togato</e
+m>popolare</e
+m>delegato</e
+m>conciliatore</e
+m>istruttore</e
+m>g. di pace</e
+m>ricorrere ai g</e
+m>citare dinanzi al g</e
+m>essere g</e
+m>e parte</e
+m>nessuno può essere g</e
+m>in causa propria</e
+m>gran g</e
+m>grand juge</e
+m>regno</e
+m>della monarchia sicula</e
+m>della bilancia</e
+m>non sei stata un buon g</e
+m>una buona giudice</e
+m>la Chiesa sola è g</e
+m>è sola g</e
+m>in materia di fede</e
+m>diamo ascolto alla coscienza</e
+m>primo g</e
+m>prima g</e
+m>delle nostre azioni</e
+m>Già si sedeva all&rsquo;amoroso ufficio La bellissima g</e

@@ -1,0 +1,13 @@
+cenare.txt
+"cenare"
+* [[cena]], [[pranzare]]
+M>cenare</E
+M>io céno</E
+M>avere</E
+M>non ho voglia di c</E
+M>questa sera cenerò fuori</E
+M>cenerò dai miei genitori</E
+M>c. in famiglia, in un ristorante tipico</E
+M>ho cenato con due uova e un pezzo di formaggio</E
+M>che hai cenato?</E
+M>egli ed ella cenarono un poco di carne salata</E

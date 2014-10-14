@@ -1,0 +1,206 @@
+fortuna.txt
+"andare in cerca di fortuna"
+"atterraggio di fortuna"
+"augurami buona fortuna!, fammi gli auguri!"
+"augurare a qualcuno buona fortuna"
+"avere fortuna"
+"avere fortuna"
+"avere fortuna"
+"avere fortuna"
+"avere un colpo di fortuna; farcela con la sola fortuna"
+"Baciata dalla fortuna"
+"biscotto della fortuna"
+"buona fortuna"
+"buona fortuna"
+"buona fortuna"
+"colpo di fortuna"
+"far fortuna"
+"fare fortuna"
+"fare un atterraggio di fortuna"
+"fortuna"
+"fortuna"
+"fortuna"
+"fortuna"
+"fortuna del principiante"
+"fortuna, manna"
+"fortuna; periodo fortunato"
+"giochi di fortuna"
+"gioco di fortuna"
+"imbarcazione di fortuna"
+"inaspettata buona fortuna"
+"la dea Fortuna"
+"Fortuna"
+"la fortuna aiuta gli audaci"
+"la mia più grande fortuna"
+"mezza fortuna"
+"mezzi di fortuna"
+"per cattiva fortuna"
+"unfortunately"
+"per fortuna"
+"fortunately"
+"persona andata in California nel 1849 in cerca di fortuna"
+"portare fortuna"
+"questione di fortuna"
+"ruota della fortuna"
+"sfidare la fortuna"
+"tentare la sorte, tentare la fortuna"
+"un po' di fortuna non guasta"
+*[[sorte]], [[destino]]
+*''(buona sorte)'' '' buona stella''
+*''(di opera, scrittore)'' [[successo]]
+*[[ricchezza]], [[patrimonio]]
+*[[fortunatamente]]
+*[[sfortuna]], [[sventura]], [[iattura]]
+*'' portar fortuna''
+M>fort</E
+M>fors fortis</E
+M>la dea Fortuna</E
+M>il tempio della Fortuna</E
+M>Inf</E
+M>Principe</E
+M>la f</E
+M>è cieca</E
+M>la ruota della f</E
+M>prendersela con la f</E
+M>essere perseguitato dalla f</E
+M>la f</E
+M>gli ha arriso</E
+M>la f</E
+M>volle che</E
+M>la f</E
+M>t’aiuti</E
+M>la f</E
+M>ci assista</E
+M>affidarsi alla f</E
+M>Voi cui f</E
+M>ha posto in mano il freno De le belle contrade</E
+M>a noi Morte apparecchi riposato albergo ove una volta la f</E
+M>cessi Dalle vendette</E
+M>avere la f</E
+M>amica</E
+M>favorevole</E
+M>propizia</E
+M>nemica</E
+M>avversa</E
+M>contraria</E
+M>buona fortuna!</E
+M>la f</E
+M>delle parole</E
+M>la f</E
+M>degli stati</E
+M>con varia f</E
+M>la f</E
+M>di Dante</E
+M>la f</E
+M>del Petrarca nel Cinquecento</E
+M>la f</E
+M>dei</E
+M>Promessi Sposi</E
+M>ci vuol f</E
+M>è questione di f</E
+M>tentare la f</E
+M>cercare f</E
+M>andare in cerca di f</E
+M>è andato all’estero in cerca di f</E
+M>portare fortuna</E
+M>essere la f</E
+M>di qualcuno</E
+M>è stato la f</E
+M>della sua famiglia</E
+M>questo contrattempo può essere la nostra f</E
+M>una f</E
+M>per noi</E
+M>colpo di f</E
+M>avere f</E
+M>avere f</E
+M>nel lavoro</E
+M>negli affari</E
+M>al gioco</E
+M>con le donne</E
+M>si è presentato agli esami poco preparato ma ha avuto f</E
+M>ed è stato promosso</E
+M>chi ha f</E
+M>in amor non giochi a carte</E
+M>fortunato in amor</E
+M>è un bravo ragazzo ma non ha f</E
+M>ha una f</E
+M>sfacciata</E
+M>un libro</E
+M>un’idea che ha avuto f</E
+M>è un tipo di tessuto che ha avuto molta fortuna</E
+M>avere</E
+M>non avere la f</E
+M>ha la f</E
+M>di avere ancora vivi i genitori</E
+M>ho avuto la f</E
+M>d’incontrarlo mentre usciva</E
+M>non ho la f</E
+M>di conoscerlo</E
+M>fare f</E
+M>è riuscito a far f</E
+M>in America</E
+M>ha fatto f</E
+M>con quel brevetto</E
+M>ha ereditato una bella f</E
+M>guadagnare</E
+M>rischiare</E
+M>sperperare</E
+M>rimetterci una fortuna</E
+M>beni di f</E
+M>ha molti beni di f</E
+M>ha lasciato ai figli una grossa f</E
+M>una modesta f</E
+M>mezzi di f</E
+M>è un povero diavolo che non ha mezzi di fortuna</E
+M>gli si è presentata una bella f</E
+M>ha sempre lui tutte le f</E
+M>pigliare</E
+M>afferrare la f</E
+M>per i capelli</E
+M>per fortuna</E
+M>il vento ha fatto cadere un vaso dal davanzale</E
+M>ma per f</E
+M>nessuno passava in quel momento</E
+M>si mise improvvisamente a diluviare</E
+M>ma per f</E
+M>avevo con me l’ombrello</E
+M>fortuna che</E
+M>è stata una f</E
+M>che</E
+M>che</E
+M>quand’è crollato il soffitto</E
+M>non ero in casa</E
+M>Agatocle siciliano</E
+M>non solo di privata</E
+M>ma di infima e abietta f</E
+M>divenne re di Siracusa</E
+M>il totale rivolgimento della loro f</E
+M>erano in f</E
+M>e in gran bisogno</E
+M>De le f</E
+M>mie tante</E
+M>e sì gravi</E
+M>Ond’el piegò come nave in f</E
+M>Quando ingrossa ruggendo la f</E
+M>di mare</E
+M>di vento</E
+M>di pioggia</E
+M>fortune di mare</E
+M>albero</E
+M>pennone</E
+M>timone di f</E
+M>vele di f</E
+M>di fortuna</E
+M>abbiamo riparato il guasto con arnesi di f</E
+M>fecero la strada parte a piedi parte con mezzi di fortuna</E
+M>aeroporto</E
+M>campo</E
+M>di f</E
+M>atterraggio di fortuna</E
+M>soldato di fortuna</E
+M>soldat de fortune</E
+M>venuto dalla gavetta</E
+M>uomo di f</E
+M>homme de fortune</E
+M>Scutigera coleoptrata</E
+M>ma guarda che fortunaccia deve sempre avere!</E

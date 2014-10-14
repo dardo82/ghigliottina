@@ -1,0 +1,22 @@
+sigaro.txt
+"a forma di sigaro"
+"sigaro"
+#* ''Marzia ha sempre il '''sigaro''' in [[bocca]]''
+*[[sigaretta]]
+*Enciclopedia [http
+M>cigarro</E
+M>zizar</E
+M>cigarra</E
+M>fumare un s.</E
+M>fumare il s.</E
+M>un s. dolce</E
+M>forte</E
+M>chiaro</E
+M>scuro</E
+M>ben stagionato</E
+M>un s. toscano</E
+M>avana</E
+M>virginia</E
+M>mio padre lasciava per la casa dei s. virginia fumati a mezzo</E
+M>questo s. non tira</E
+M>tira poco</E

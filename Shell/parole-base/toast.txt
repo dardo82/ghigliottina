@@ -1,0 +1,16 @@
+toast.txt
+"melba toast"
+"melba toast"
+"toast"
+"toast"
+"toast"
+"toast"
+"toast con formaggio fuso"
+#*''per [[pranzo]] ho mangiato solo un '''toast'''''
+M>toast</E
+M>tóust</E
+M>tostee</E
+M>toster</E
+M>toasts</E
+M>tóusts</E
+M>tòst</E

@@ -1,0 +1,102 @@
+pagamento.txt
+"a pagamento"
+"accordo di pagamento"
+"assicurare il pagamento"
+"avviso di pagamento"
+"bloccare un pagamento"
+"causale pagamento"
+"chiedere un pagamento"
+"condizioni di pagamento"
+"condizioni di pagamento per contanti"
+"data di pagamento"
+"dietro pagamento"
+"distinta di incasso \/ pagamento"
+"distinta di pagamento"
+"effettuare un pagamento in contanti"
+"fare offerta di pagamento"
+"formula di pagamento"
+"impegno di pagamento"
+"imporre un pagamento"
+"in scadenza per il pagamento"
+"ingiunzione di pagamento"
+"ingresso a pagamento"
+"le modalità di pagamento accettate"
+"mancato pagamento"
+"mandato di pagamento"
+"mezzo di pagamento"
+"modalità di pagamento"
+"norma in una polizza che prevede il pagamento di una parte del danno da parte dell'assicurato"
+"ordine di pagamento"
+"ordine di pagamento"
+"pagamento"
+"pagamento (inviato)"
+"pagamento a rate"
+"pagamento a vista"
+"pagamento ad ore"
+"pagamento anticipato"
+"pagamento anticipato"
+"pagamento da stabilire"
+"pagamento degli arretrati"
+"pagamento del corrispettivo"
+"pagamento del totale"
+"pagamento diretto"
+"pagamento effettuato"
+"pagamento elevato"
+"pagamento esagerato"
+"pagamento estero su estero"
+"pagamento forfettario"
+"pagamento in contanti"
+"pagamento in natura"
+"pagamento interessi"
+"pagamento mensile"
+"pagamento mensile"
+"pagamento per contanti"
+"pagamento per contanti alla consegna"
+"pagamento posticipato"
+"pagamento sistemato prima"
+"parcheggio a pagamento"
+"posticipare un pagamento"
+"quietanza di pagamento"
+"ricevuta di pagamento"
+"richiedere un pagamento"
+"richiesta di pagamento"
+"richiesta insistente di pagamento di un debito"
+"sistemare pagamento anticipato"
+"sistemazione anticipata di un pagamento"
+"termine di pagamento"
+"termini di pagamento"
+"TV a pagamento"
+*''(di un debito e simili)''[[estinzione]]
+*[[versamento]], [[esborso]], [[liquidazione]] 
+*[[acconto]], [[anticipo]], [[canone]],[[rata]], [[saldo]], [[conguaglio]]
+*[[pagamento elettronico]]
+M>fare</E
+M>aspettare</E
+M>ritardare il p</E
+M>sospendere i pagamenti</E
+M>dare</E
+M>promettere</E
+M>ricevere in p</E
+M>fare qualche cosa dietro p</E
+M>a pagamento</E
+M>ingresso a p</E
+M>si entra a pagamento</E
+M>gratis</E
+M>moneta di p</E
+M>luogo di p</E
+M>scadenza di p</E
+M>modo di p</E
+M>in contanti</E
+M>rateale</E
+M>in effettivo</E
+M>al bisogno</E
+M>contro documenti</E
+M>delegazione di p</E
+M>mandato di p</E
+M>proroga di p</E
+M>mancato p</E
+M>bilancia</E
+M>internazionale</E
+M>dei p</E
+M>questo è il p</E
+M>per tutto il bene che gli ho fatto!</E

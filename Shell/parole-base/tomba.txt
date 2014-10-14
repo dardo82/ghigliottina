@@ -1,0 +1,62 @@
+tomba.txt
+"dalla culla alla tomba"
+"la tomba"
+"nella tomba"
+"rivoltarsi nella tomba"
+"tomba"
+"tomba"
+"tomba"
+*[[sepoltura]], [[fossa]], [[sepolcro]], [[loculo]], [[urna]], [[ossario]], [[sarcofago]], [[mausoleo]], [[edicola]], [[catacomba]]; [[cimitero]], [[camposanto]]
+*[[oltretomba]]
+* ''(luogo in cui si conservano i resti di una persona)'' [[cimitero]], [[necropoli]]
+*''portare un segreto nella tomba''
+M>mba</E
+M>sepolcro</E
+M>t. ipogee</E
+M>t. a terra</E
+M> t. sopraelevate</E
+M>t. a circolo</E
+M> a fossa</E
+M> a pozzo</E
+M> a galleria</E
+M>a camera</E
+M>t. rupestri</E
+M>le t. egizie dei Faraoni</E
+M>le t. etrusche</E
+M>le t. a thòlos greche</E
+M>le t. romane della via Appia</E
+M>t. a edicola</E
+M> a tempietto</E
+M> ad arcosolio</E
+M>t. a sarcofago</E
+M> a loculi</E
+M>t. a terra</E
+M>t. singola</E
+M> t. di famiglia</E
+M>tombe dei giganti</E
+M>tumbas de sos gigantes</E
+M>essere muto come una t.</E
+M>confìdati tranquillamente</E
+M> io sono una t.</E
+M>silenzio di tomba</E
+M>dalla culla alla t.</E
+M>portò il segreto con sé nella t.</E
+M>tali sentimenti lo accompagnarono sino alla t.</E
+M>dolore</E
+M> malattia</E
+M>che lo porterà alla t.</E
+M>essere con un piede nella t.</E
+M>nella fossa</E
+M>il matrimonio è la t</E
+M>dell&#8217;amore</E
+M>abita in una t.</E
+M>un carcere</E
+M> un magazzino</E
+M> un ufficio seminterrato che è una tomba</E
+M>una t.</E
+M> nella quale alcun lume non si vedea e che per prigione de&#8217; monaci che fallissero era stata fatta</E
+M>Batista non essendo stato a tempo a fuggire</E
+M> né i nemici ad ammazzarlo</E
+M> drento alle sue case in una t. fatta per conservare frumento si nascose</E
+M>t. a sifone</E
+M>botte a sifone</E

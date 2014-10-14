@@ -1,0 +1,25 @@
+pedalare.txt
+"pedalare"
+"pedalare"
+"pedalare"
+M>avere</E
+M>ritmicamente</E
+M>con lena</E
+M>a tutta forza</E
+M>ha pedalato per sei ore ininterrottamente</E
+M>fare la discesa a ruota libera</E
+M>senza pedalare</E
+M>pedalava su per la salita</E
+M>pedalavano tranquilli lungo il viale; pedalava armonioso</E
+M> irresistibile</E
+M> di qua</E
+M> di là</E
+M> a destra</E
+M> a sinistra</E
+M> giù</E
+M> su</E
+M> giù</E
+M> su</E
+M> anche nelle salite</E
+M>pedala!</E
+M>pedalate!</E

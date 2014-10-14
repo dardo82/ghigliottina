@@ -1,0 +1,26 @@
+eccellenza.txt
+"diploma di livello avanzato, diploma di eccellenza"
+"eccellenza"
+"eccellenza"
+"eccellenza morale"
+"per eccellenza"
+"polo sanitario di eccellenza"
+"sua eccellenza"
+"vostra eccellenza"
+* ''(altissima qualità...)'' [[superiorità]], [[preminenza]], [[primato]], [[squisitezza]], [[finezza]], [[raffinatezza]], [[elevatezza]], [[perfezione]], [[maestria]]
+* ''(titolo onorifico...)'' [[altezza]], [[eminenza]], [[sovranità]]
+* ''(altissima qualità...)'' [[inferiorità]], [[imperfezione]], [[incompiutezza]], [[mediocrità]]
+* [[eccellente]], [[eccellentissimo]], [[eccellere]], [[eccelso]]
+*italiano
+M>excellentia</E
+M>d’ingegno</E
+M>raggiungere l’e</E
+M>nell’arte</E
+M>Sua Ecc</E
+M>il ministro delle Finanze Quintino Sella</E
+M>vorrei parlare con S</E
+M>Vostra Eccellenza che mi sta in cagnesco</E
+M>all’inaugurazione erano presenti molte eccellenze</E
+M>per e</E
+M>Aristotele era ritenuto il filosofo per e</E
+M>questo officio per eccellenza Imperio è chiamato</E

@@ -1,0 +1,273 @@
+mercato.txt
+"a basso costo, a buon mercato"
+"a buon mercato"
+"a buon mercato"
+"a buon mercato; ordinario"
+"a condizioni di mercato"
+"analisi di mercato"
+"analista di mercato"
+"città di mercato"
+"coltivatore, allevatore di prodotti per il mercato"
+"coltivazione per il mercato"
+"comprare qc a buon mercato"
+"conquistare il mercato"
+"contrarietà di mercato"
+"del mercato nero"
+"economia di mercato"
+"espansione di mercato"
+"fascia di mercato"
+"fuori mercato"
+"garante della concorrenza e del mercato"
+"il mercato"
+"il mercato"
+"il prezzo lo fa il mercato"
+"indagine di mercato"
+"indice di mercato"
+"inondare il mercato"
+"la piazza del mercato"
+"lanciare sul mercato"
+"lettera sul mercato"
+"mercato"
+"mercato"
+"mercato"
+"mercato"
+"mercato"
+"mercato a prezzi bassi"
+"mercato all'aperto"
+"mercato ambulante"
+"mercato aperto"
+"mercato aperto"
+"mercato attivo"
+"mercato azionario"
+"mercato competitivo"
+"mercato comune"
+"mercato debole"
+"mercato degli agricoltori"
+"mercato degli schiavi"
+"mercato dei capitali"
+"mercato dei terminali"
+"mercato dei titoli non quotati in borsa"
+"mercato del compratore"
+"mercato del lavoro"
+"mercato del lavoro"
+"mercato del venditore"
+"mercato della carne"
+"mercato della telefonia"
+"mercato delle pulci"
+"mercato delle pulci"
+"mercato delle vacche"
+"mercato di massa"
+"mercato di riferimento"
+"mercato di sbocco"
+"mercato estero"
+"mercato finanziario"
+"mercato forte"
+"mercato giovane"
+"mercato grigio; quasi \"
+"mercato grigio; quasi \"
+"mercato in ascesa"
+"mercato in calo"
+"mercato in declino"
+"mercato in espansione"
+"mercato monetario"
+"mercato nero"
+"mercato nero"
+"mercato oligopolistico"
+"mercato ortofrutticolo"
+"mercato piloti"
+"mercato telematico"
+"mercato tendente al rialzo"
+"mercato tendente al ribasso"
+"mercato unico europeo"
+"mettere qualcosa sul mercato"
+"mettere sul mercato"
+"nicchia di mercato"
+"non a buon mercato"
+"operazioni di mercato aperto"
+"ordine di mercato"
+"penetrazione sul mercato"
+"periodo di mercato in cui per gli assicurati è difficile ottenere copertura di rischi e i premi sono"
+"piazza del mercato"
+"piazzare una merce sul mercato"
+"prezzo di mercato"
+"qualcosa a buon mercato; qualcosa di ordinario"
+"quota di mercato"
+"ricerca di mercato"
+"ricercatore, comparatore di mercato"
+"sul mercato"
+"sul mercato"
+"sulla piazza del mercato"
+"teatro a buon mercato"
+"terzo mercato"
+#*''Ho trovato questa collana al '''mercato''' sotto casa mia''
+*[[ emporio]], [[bazar]], [[fiera]], [[supermercato]] 
+*[[compravendita]],[[ borsa]] 
+*[[scambio]], [[contrattazione]] 
+*''Cavarsela a buon mercato''
+*''Chi è disgraziato non vada al mercato.''
+*Devoto/Oli, ''Il dizionario della lingua italiana, edizione 2000-2001, Le Monnier, p. 1252 
+*AA.VV., ''Dizionario etimologico, edizione 2004, ristampa 2008, RusconiLibri p. 627
+*Maggi/Villa, ''Dizionario lingua italiana'', edizione cartacea 2006, Modern languages, p. 607
+M>mercatus</E
+M>mercari</E
+M>generali</E
+M>al minuto</E
+M>il m</E
+M>del pesce</E
+M>della carne</E
+M>dei foraggi</E
+M>dei fiori</E
+M>delle pulci</E
+M>marché aux puces</E
+M>dell’usato</E
+M>piazza del m</E
+M>all’aperto</E
+M>coperto</E
+M>rionale</E
+M>mercatino</E
+M>andare al m</E
+M>fare la spesa al m</E
+M>in m</E
+M>portare i buoi al m</E
+M>il sabato</E
+M>tutti i contadini vengono al m</E
+M>in paese</E
+M>sembra un m</E
+M>par d’essere al m</E
+M>fare un m</E
+M>tre donne fanno un m</E
+M>e quattro una fiera</E
+M>non siamo al m</E
+M>credete d’essere al m</E
+M>bovino</E
+M>equino</E
+M>il m</E
+M>del bestiame si fa da noi tutti gli anni per s</E
+M>Lucia</E
+M>settimanale</E
+M>venerdì è giorno di m</E
+M>oggi c’è stata grande affluenza al m</E
+M>è un m</E
+M>assai frequentato</E
+M>povero</E
+M>scarso</E
+M>c’era grande m</E
+M>di latte</E
+M>m. locale</E
+M>regionale</E
+M>nazionale</E
+M>europeo</E
+M>mondiale</E
+M>interno</E
+M>estero</E
+M>prodotti che non si trovano</E
+M>che sono rari sul m</E
+M>generi temporaneamente spariti dal m</E
+M>gettare</E
+M>immettere sul m</E
+M>dei grani</E
+M>delle materie prime</E
+M>dei cambî</E
+M>dei preziosi</E
+M>immobiliare</E
+M>delle aree fabbricabili</E
+M>delle opere d’arte</E
+M>dei prodotti</E
+M>dei servizî produttivi</E
+M>dei capitali</E
+M>monetario</E
+M>finanziario</E
+M>dei titoli</E
+M>dei cambî</E
+M>del lavoro</E
+M>dei giocatori</E
+M>calciomercato</E
+M>delle vacche</E
+M>all’ingrosso</E
+M>al minuto</E
+M>m. ufficiale</E
+M>clandestino</E
+M>nero</E
+M>libero</E
+M>aperto</E
+M>chiuso</E
+M>regolato</E
+M>vincolato</E
+M>a pronti</E
+M>a immediata consegna</E
+M>a termine</E
+M>ridotto</E
+M>ristretto</E
+M>mercatino</E
+M>borsino</E
+M>toro</E
+M>bull market</E
+M>m. orso</E
+M>bear market</E
+M>muto</E
+M>m. reale</E
+M>potenziale</E
+M>Ricerca</E
+M>indagine</E
+M>di mercato</E
+M>ricerca di m</E
+M>analisi di m</E
+M>forme</E
+M>regimi</E
+M>configurazioni</E
+M>di mercato</E
+M>leggi di m</E
+M>economia di m</E
+M>economia di piano</E
+M>a programmazione centrale</E
+M>M. comune</E
+M>m. comune europeo</E
+M>m. unico</E
+M>interno</E
+M>languido</E
+M>fiacco</E
+M>morto</E
+M>sostenuto</E
+M>fermo</E
+M>vendere a prezzo di m</E
+M>quest’anno il m</E
+M>è basso</E
+M>è una merce che in questo momento non ha m</E
+M>fare gran m</E
+M>gli convenne far gran m</E
+M>di ciò che portato avea</E
+M>avere buon m</E
+M>fare un cattivo m</E
+M>a buon m</E
+M>comprare</E
+M>acquistare</E
+M>vendere</E
+M>dare via a buon m</E
+M>quest’anno la verdura si trova a buon m</E
+M>più a buon m</E
+M>a più buon m</E
+M>a miglior mercato</E
+M>lodi</E
+M>titoli</E
+M> onori a buon m</E
+M>fama acquistata a buon m</E
+M>cavarsela a buon m</E
+M>Sotto m</E
+M>sottomercato</E
+M>vendono sotto m</E
+M>per vincere la concorrenza</E
+M>sopra m</E
+M>sopra il m</E
+M>per soprammercato</E
+M>fare m</E
+M>della giustizia</E
+M>del proprio onore</E
+M>della propria coscienza</E
+M>scrittori che fanno m</E
+M>della penna</E
+M>fare m</E
+M>del proprio corpo</E
+M>turpe</E
+M>vile</E
+M>vergognoso mercato</E
+M>mercato di voto</E

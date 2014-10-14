@@ -1,0 +1,21 @@
+aggirare.txt
+"aggirare"
+"aggirare"
+"aggirare (l'ostacolo)"
+"aggirare la legge"
+"evitare una situazione; aggirare una situazione"
+*[[aggiramento]]
+M>una città</E
+M>un palazzo</E
+M>Noi aggirammo a tondo quella strada</E
+M>una posizione</E
+M>una fortezza</E
+M>manovre aggiranti</E
+M>raggirare</E
+M>s’è lasciato a</E
+M>da quell’imbroglione</E
+M>si aggirò a lungo per quei paraggi</E
+M>alcuni loschi individui si aggiravano per la zona</E
+M>strane idee mi si aggirano per il capo</E
+M>la spesa si aggira sul mezzo milione di euro</E
+M>la produzione media annua si aggira sui 20 quintali per ettaro</E

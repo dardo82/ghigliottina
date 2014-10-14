@@ -1,0 +1,89 @@
+stabilire.txt
+"pagamento da stabilire"
+"stabilire"
+"stabilire"
+"stabilire"
+"stabilire, replace: stabilirsi"
+"stabilire che"
+"stabilire delle condizioni"
+"stabilire di nuovo"
+"stabilire il prezzo"
+"stabilire il record"
+"stabilire il valore"
+"stabilire l'ora"
+"stabilire la posizione"
+"stabilire la qualifica"
+"stabilire la validità legale"
+"stabilire le regole"
+"stabilire regolamenti"
+"stabilire un limite"
+"stabilire un limite"
+"stabilire un rapporto"
+"stabilire un rapporto"
+"stabilire una connessione"
+"stabilire una data"
+"stabilire una data"
+"stabilire una rotta"
+"stabilire una rotta"
+"stabilire, determinare prezzi di vendita"
+"stabilire, radicare"
+"stabilire, scegliere, selezionare"
+*[[decidere]], [[deliberare]],  [[decretare]], [[statuire]], [[prescrivere]], [[comandare]], [[ordinare]], [[sancire]], [[sanzionare]]
+*''(la residenza, la sede) [[fissare]]
+*[[instaurare]], [[fondare]]
+*[[disporre]],    [[proporsi]], [[prefiggersi]] 
+*[[istituire]], [[definire]], [[concordare]]
+*[[abolire]], [[abrogare]], [[sopprimere]]
+*[[prestabilire]]
+*[[stabile]], [[stabilimento]], [[stabilirsi]], [[stabilito]],[[stabilitura]]
+*italiano
+*latino
+M>stabilire</E
+M>stab</E
+M>lis</E
+M>io stabilisco</E
+M>tu stabilisci</E
+M>s. le vele</E
+M>cosa proposta dal re ... per stabilire meglio questa amicizia</E
+M>Dio stabilì l&#8217;ordine nel creato</E
+M>l&#8217;impero stabilito da Augusto</E
+M>la quale</E
+M>Fu stabilita per lo loco santo U&#8217; siede il successor del maggior Piero</E
+M>s. la propria dimora</E
+M>la propria sede in un luogo</E
+M>quando il re fe&#8217; di Siòn l&#8217;acquisto E vi cercò di stabilir la sede</E
+M>stabilirsi</E
+M>si è stabilito a Genova da due anni</E
+M>censimento degli stranieri che si sono stabiliti in Italia</E
+M>s. per legge</E
+M>il governo ha stabilito la data delle elezioni</E
+M>che le elezioni si terranno il 10 giugno</E
+M>s. i termini della resa</E
+M>s. i patti</E
+M>le condizioni</E
+M>s. una regola</E
+M>un principio</E
+M>una norma da seguire</E
+M>s. i turni di guardia</E
+M>stabilì di partire</E
+M>che sarebbe partito</E
+M>il giorno dopo</E
+M>stabilirono di vedersi tutti i giorni</E
+M>s. il prezzo di vendita</E
+M>s. il compenso</E
+M>s. la data</E
+M>l&#8217;ora</E
+M>il luogo di un convegno</E
+M>stabilì in cuor suo di non andarci più</E
+M>che non ci sarebbe andato più</E
+M>dimostrare</E
+M>s. che un&#8217;equazione non ammette soluzioni.</E
+M>s&#8217;incontrarono nel giorno e nel luogo stabilito</E
+M>alla data stabilita</E
+M>acquistare al prezzo stabilito</E
+M>alle condizioni stabilite</E
+M>è stabilito che</E
+M>resta dunque stabilito così</E
+M>conservare uno stato che sia di già stabilito e fermo</E
+M>stabilito di contratto</E
+M>stabilito</E

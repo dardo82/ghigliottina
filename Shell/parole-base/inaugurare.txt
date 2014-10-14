@@ -1,0 +1,27 @@
+inaugurare.txt
+"annunciare, inaugurare"
+"inaugurare"
+"inaugurare"
+* celebrare l’inizio, fare l’inaugurazione
+* [[inaugurale]], [[inaugurazione]]
+M>inaugurare</E
+M>augurare</E
+M>io inàuguro</E
+M>un tempio ad Atena</E
+M>il flamine di Giove</E
+M>una targa votiva</E
+M>una fiera</E
+M>un’esposizione</E
+M>una linea ferroviaria</E
+M>l’anno scolastico</E
+M>l’anno accademico</E
+M> l’anno giudiziario</E
+M>un’età nuova</E
+M>un’era di pace</E
+M>oggi ho inaugurato la mia giacca nuova</E
+M>il mese prossimo inaugureremo il nuovo negozio</E
+M>quando vogliamo i</E
+M>i lavori per la sistemazione del giardino?</E
+M>un nuovo sistema</E
+M>un nuovo metodo</E
+M>un nuovo orario</E

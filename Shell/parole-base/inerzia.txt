@@ -1,0 +1,38 @@
+inerzia.txt
+"inerzia"
+"inerzia"
+"inerzia"
+"inerzia"
+"momento d'inerzia"
+M>inertia</E
+M>iners</E
+M>ertis</E
+M>è di un’i</E
+M>deplorevole</E
+M>languire</E
+M>marcire nell’i</E
+M>popolazioni che vivono in un perpetuo stato d’i</E
+M>la frattura del femore l’ha costretto per un mese all’i</E
+M>assoluta</E
+M>giacere in un’i</E
+M>forzata</E
+M>abbandonarsi all’i</E
+M>uscire</E
+M>scuotersi dall’inerzia</E
+M>fisica</E
+M>mentale</E
+M>spirituale</E
+M>principio d’i</E
+M>Forze d’i</E
+M>Momento d’i</E
+M>ellissoide d’i</E
+M>a inerzia</E
+M>andare avanti per i</E
+M>per forza d’i</E
+M>di un organo</E
+M>uterina</E
+"name": "Inerzia"
+"name": "Raggio d'inerzia"
+"name": "Momento di inerzia"
+"name": "Jose Inerzia"
+"name": "DJ Inerzia"

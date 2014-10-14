@@ -1,0 +1,31 @@
+callo.txt
+"callo"
+"callus, callosity, corn"
+"farci il callo"
+#*''C'ho fatto il callo'', mi sono abituato
+*[[callosità]], [[ispessimento]]
+*[[callo-]]
+*''farci il callo''
+M>callum</E
+M>callus</E
+M>calli</E
+M>clavo</E
+M>tiloma</E
+M>avere i c</E
+M>alle mani</E
+M>ai piedi</E
+M>venire</E
+M>farsi venire i c</E
+M>alle mani</E
+M>fare il c</E
+M>a qualcosa</E
+M>levare</E
+M>estirpare</E
+M>curare i c</E
+M>pestare i c</E
+M>a qualcuno</E
+M>non lasciarsi pestare i c</E
+M>cardiaco</E
+M>di frattura</E
+M>tendineo</E
+M>callosi</E

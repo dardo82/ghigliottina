@@ -1,0 +1,50 @@
+tranquillo.txt
+"cambiamento tranquillo"
+"è stato tranquillo"
+"essere tranquillo"
+"essere tranquillo"
+"lasciar tranquillo"
+"periodo tranquillo"
+"stare tranquillo"
+"stare tranquillo"
+"tranquillo"
+"vai tranquillo"
+*[[calmo]], [[sereno]], [[pacifico]], [[equilibrato]]
+*[[tranquillamente]], [[tranquillità]], [[tranquillizzare]]
+M>tranquillus</E
+M>quies</E
+M>il mare</E
+M> oggi</E
+M> è t.</E
+M>il lago</E
+M> dopo la tempesta</E
+M> è tornato t.</E
+M>un&#8217;aria t.</E
+M>per vetri trasparenti o tersi O ver per acque nitide e tranquille</E
+M>è un albergo t.</E
+M> in mezzo al bosco</E
+M>cercava un angolo t. in cui leggere il giornale</E
+M>sedeva in poltrona t. e pacifico</E
+M>avere la coscienza t.</E
+M>vivere con animo t.</E
+M>cercare un lavoro t.</E
+M>sognare un avvenire t.</E
+M>stia t.</E
+M>vada t.</E
+M>sia t. che tutto sarà fatto come desidera</E
+M>sull&#8217;esito dell&#8217;esame sono tranquillo</E
+M>un uomo t.</E
+M>è gente t.</E
+M>popolazioni t.</E
+M>è un cane t.</E
+M>è un cavallo t.</E
+M>una bestia t.</E
+M>puoi montarlo</E
+M>guidarlo</E
+M> con sicurezza</E
+M>un&#8217;automobile t.</E
+M>la bella dea che in riva d&#8217;Arno Sacrasti alle tranquille arti custode</E
+M>Grazie</E
+M>alle belle arti</E
+M>il malato ha passato una nottata t.</E
+M>dormi sonni t.</E

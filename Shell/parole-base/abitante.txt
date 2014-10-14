@@ -1,0 +1,14 @@
+abitante.txt
+"abitante"
+"abitante del New England"
+"abitante del nord"
+"abitante della Nuova Zelanda"
+"abitante di villaggio"
+#*'' gli '''abitanti''' di Roma''
+* [[residente]], [[popolazione]], [[abitatore]],  [[domiciliato]], [[cittadino]], [[popolazione]], [[cittadinanza]], [[cittadini]]
+*[[abitazione]]
+M>abitare</E
+M>un piccolo centro con poco più di duemila a</E
+M>gli a</E
+M>dei dintorni</E
+M>una nazione che supera i 56 milioni di abitanti</E

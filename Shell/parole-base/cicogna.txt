@@ -1,0 +1,20 @@
+cicogna.txt
+"cicogna"
+"cicogna"
+"la cicogna"
+*[[uccello]]
+* italiano
+*siciliano
+M>cic</E
+M>nia</E
+M>bianca</E
+M>Ciconia ciconia</E
+M>nera</E
+M>Ciconia nigra</E
+M>l’ha portato la c</E
+M>è arrivata la c</E
+M>Cicogna gozzuta</E
+M>marabù</E
+M>Storch</E
+M>bisarca</E
+M>per grondaia</E

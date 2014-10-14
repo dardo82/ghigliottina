@@ -1,0 +1,107 @@
+bordo.txt
+"a bordo"
+"a bordo"
+"a bordo"
+"a bordo della nave"
+"a bordo piscina"
+"alto bordo"
+"assistente di bordo"
+"attrezzatura di bordo"
+"bordo"
+"bordo"
+"bordo"
+"bordo d'entrata"
+"bordo d'uscita"
+"bordo di attacco"
+"bordo in avanti"
+"bordo libero"
+"bordo smussato"
+"bordo tagliente"
+"bordo, ciglio, limite"
+"computer di bordo"
+"diario di bordo"
+"ehi di bordo!"
+"fare il bordo"
+"franco a bordo"
+"franco lungo bordo"
+"fuori bordo"
+"fuori bordo"
+"fuori bordo"
+"fuori bordo"
+"fuori bordo"
+"fuori bordo"
+"giornale di bordo"
+"il bordo, il margine"
+"motorista di bordo; tecnico di bordo"
+"onda che sbatte sul bordo della nave"
+"prendere a bordo"
+"prendere a bordo"
+"preso a bordo"
+"ruolo di bordo"
+"salire a bordo"
+"salire a bordo"
+"salire a bordo"
+"salire a bordo, imbarcarsi"
+"saltare a bordo"
+"tutti a bordo"
+"uomo fuori bordo"
+#* ''il '''bordo''' del tavolo non è levigato''
+#* ''c'è una pozzanghera sul '''bordo''' della strada''
+#* ''il '''bordo''' di una sfera è liscio, a differenza di quello di un cubo''
+#* ''benvenuti a '''bordo''' del Frecciarossa!''
+*(Devoto/Oli) dal 
+* (estremità) [[orlo]], [[ciglio]], [[margine]]
+*[[debordo]], [[diario di bordo]]
+*italiano
+M>bord</E
+M>accostarsi con il b</E
+M>della barca alla riva</E
+M>girare</E
+M>virare di b</E
+M>nave d’alto</E
+M>di basso b</E
+M>gente d’alto b</E
+M>alto b</E
+M>prostituta d’alto b.</E
+M>falso b</E
+M>libero</E
+M>marche di b</E
+M>libero</E
+M>a bordo</E
+M>fuori bordo</E
+M>fuoribordo</E
+M>essere</E
+M>stare</E
+M>prendere</E
+M>salire a b</E
+M>di b</E
+M>disciplina</E
+M>vita di b</E
+M>gente di b</E
+M>giornale di b</E
+M>andatura</E
+M>virata</E
+M>effettuare un b</E
+M>stretto</E
+M>larghi</E
+M>bord</E
+M>il b</E
+M>d’una tela</E
+M>d’una stoffa</E
+M>il b</E
+M>ripiegato d’una maglia</E
+M>il b</E
+M>del piatto</E
+M>il b</E
+M>del divano</E
+M>del materasso</E
+M>camminare sul b. della strada</E
+M>sul b. del campo</E
+M>da bordo campo</E
+M>bordura</E
+M>d’attacco</E
+M>d’entrata</E
+M>d’uscita</E
+M>di un emisfero</E
+M>di un quadrato</E
+M>lembo</E

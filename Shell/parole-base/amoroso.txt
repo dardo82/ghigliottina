@@ -1,0 +1,67 @@
+amoroso.txt
+"amoroso"
+"amoroso"
+"amoroso"
+"amoroso"
+"amoroso"
+"amoroso"
+"interesse amoroso"
+"triangolo amoroso"
+*[[amorevole]], [[affettuoso]], [[appassionato]], [[ardente]], [[fervido]], [[benevolo]], [[tenero]], [[caldo]], [[dolce]], [[premuroso]], [[sollecito]]
+*[[ostile]], [[indifferente]], [[sprezzante]]
+*[[amorevole]]
+M>padre</E
+M>figlio</E
+M>maestro</E
+M>discepolo a</E
+M>indole a</E
+M>temperamento amoroso</E
+M>Ma tratterò del suo stato gentile</E
+M>Donne e donzelle a.</E
+M>con vui</E
+M>voi dovete</E
+M>compagne</E
+M>sapere</E
+M>sguardi</E
+M>con a</E
+M>sembiante</E
+M>linguaggio</E
+M>sospiri</E
+M>lagrime a.</E
+M>e l’amoroso Apprendeva lamento ai giovinetti</E
+M>consigli</E
+M>rimproveri a</E
+M>le a</E
+M>cure materne</E
+M>sotto l’a</E
+M>guida del maestro</E
+M>filtro amoroso</E
+M>passione a</E
+M>desiderio a</E
+M>relazione</E
+M>tresca a</E
+M>conquiste a</E
+M>esse dentro a’ dilicati petti</E
+M>temendo e vergognando</E
+M>tengono l’a</E
+M>fiamme nascose</E
+M>L’angelico sembiante e quel bel volto Ch’all’a</E
+M>reti il tenea involto</E
+M>sì tosto che veggia il buon guardiano D’a</E
+M>desio le vacche punte</E
+M>romanzi a</E
+M>poesie</E
+M>canzoni amorose</E
+M>d’amore</E
+M>andantino amoroso</E
+M>ha litigato con l’amoroso</E
+M>sta scrivendo all’amorosa</E
+M>moroso</E
+M>morosa</E
+M>primo a</E
+M>prima a</E
+M>primo attor giovane</E
+M>prima attrice giovane</E
+M>allevare</E
+M>curare</E
+M>assistere amorosamente</E

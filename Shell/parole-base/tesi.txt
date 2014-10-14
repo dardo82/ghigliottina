@@ -1,0 +1,50 @@
+tesi.txt
+"dimostrare la propria tesi"
+"dimostrare una tesi"
+"discussione della tesi"
+"discutere la tesi"
+"rapporti tesi"
+"sostenere la propria tesi"
+"studente di tesi"
+"tesi"
+"tesi"
+"tesi"
+"tesi"
+"tesi"
+"tesi di laurea"
+*[[ipotesi]], [[formulazione]], [[proposizione]], [[assunto]]
+* ''(sostantivo)'' [[tesina]]
+*italiano
+M>thesis</E
+M>le 95 t. di Lutero</E
+M>enunciare</E
+M>formulare una t.</E
+M>svolgere</E
+M>discutere</E
+M>provare una t.</E
+M>sostenere la propria t.</E
+M>confutare</E
+M>demolire una t.</E
+M>secondo la t. di ...</E
+M>stando alla t. di ...</E
+M>una t. insostenibile</E
+M>una t. inconfutabile</E
+M>Commedia</E
+M>dramma</E
+M>romanzo a tesi</E
+M>antitesi</E
+M>sintesi.</E
+M>dissertazione di laurea</E
+M>presentare</E
+M>discutere la t.</E
+M>t. orale</E
+M>t. di perfezionamento</E
+M>t. di diploma</E
+M>t. di dottorato</E
+M>t. di un teorema</E
+M>ipotesi</E
+M>in tesi</E
+M>in ipotesi</E
+M>l&#8217;avvocato ha chiesto in tesi l&#8217;assoluzione del suo cliente</E
+M> in ipotesi la concessione delle attenuanti generiche.</E
+M>arsi</E

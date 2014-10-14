@@ -1,0 +1,24 @@
+cubo.txt
+"a forma di cubo"
+"centimetro cubo"
+"cubo"
+"cubo"
+"cubo"
+"cubo"
+"elevare al cubo"
+"metro cubo"
+*[[solido]], [[geometria]], [[cubico]]
+*italiano
+M>cubus</E
+M>esaedro regolare</E
+M>un c</E
+M>di marmo</E
+M>di legno</E
+M>di plastica</E
+M>tronco</E
+M>di un numero</E
+M>metro c</E
+M>centimetro c</E
+M>cubico</E
+M>figura cuba</E
+M>radice cuba</E

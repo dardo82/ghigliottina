@@ -1,0 +1,32 @@
+attimo.txt
+"aspetta un attimo!"
+"attimo"
+"avere un attimo"
+"cogli l'attimo"
+"Cogliere l'attimo"
+"in un attimo, tra un attimo"
+"in un attimo, tra un attimo"
+"passare un attimo da casa"
+"perdere l'attimo"
+"subito dopo, immediatamente dopo, un attimo dopo, un momento dopo"
+"tra un attimo"
+"tra un attimo"
+"un attimo!, un momento!, alt!, fermo!"
+#* ''aspetta un 
+*[[momento]], [[istante]], [[minuto]], [[secondo]], [[baleno]]
+*[[eternità]]
+*[[attimino]]
+*''in un attimo''
+M>atomo</E
+M>in at</E
+M>non avere un a</E
+M>di tempo libero</E
+M>di requie</E
+M>sarebbe bastato un a</E
+M>di distrazione,</E
+M>per provocare un disastro</E
+M>in un a</E
+M>l’attimo fuggente</E
+M>cogliere l’a. fuggente.</E
+M>un a. e sono pronto</E
+M>tra un a. la riceveranno</E

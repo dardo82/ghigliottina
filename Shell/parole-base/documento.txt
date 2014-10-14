@@ -1,0 +1,90 @@
+documento.txt
+"cedere firmando un documento"
+"documento"
+"documento"
+"documento"
+"documento arrotolato"
+"documento autenticato"
+"documento che stabilisce il titolo di proprietà"
+"documento commerciale"
+"documento di assegnazione"
+"documento di magazzino"
+"documento di procura"
+"documento di sintesi"
+"documento giuridico"
+"documento legale"
+"documento legale"
+"documento scritto"
+"documento storico"
+"documento tecnico"
+"documento ufficiale"
+"presa visione del documento"
+"presa visione di un documento"
+"redigere un documento formale"
+"relativo al documento che stabilisce il titolo di proprietà"
+"sostituire un documento"
+*Enciclopedia [http
+M>documentum</E
+M>docere</E
+M>atto</E
+M>carta</E
+M>scrittura</E
+M>in carta semplice</E
+M>in carta da bollo</E
+M>presentare i d</E
+M>per la partecipazione a un concorso</E
+M>giustificativi di una spesa</E
+M>affermazioni fondate sopra d</E
+M>inconfutabili</E
+M>raccogliere i d</E
+M>per un profilo biografico</E
+M>corredare di d</E
+M>un saggio storico</E
+M>citare</E
+M>allegare</E
+M>interpretare un d</E
+M>infirmare</E
+M>impugnare la validità di un d</E
+M>autentico</E
+M>originale</E
+M>apocrifo</E
+M>un d</E
+M>falso</E
+M>falsificazione di documenti</E
+M>documenti di bordo</E
+M>contabile</E
+M>doganali</E
+M>documenti d’imbarco</E
+M>pubblici</E
+M>privati</E
+M>politico</E
+M>programmatico</E
+M>chiedere il rilascio di un d</E
+M>esibire</E
+M>presentare</E
+M>richiedere</E
+M>esaminare i d</E
+M>scaduto</E
+M>trovarsi senza d</E
+M>personali</E
+M>senza documenti</E
+M>documenti!</E
+M>grafici</E
+M>iconografici</E
+M>plastici</E
+M>fonici</E
+M>auditivi</E
+M>visivi</E
+M>audiovisivi</E
+M>file</E
+M>word processor</E
+M>storico</E
+M>documento</E
+M>il suo discorso è un d</E
+M>storico della faciloneria con cui vengono affrontati argomenti così serî</E
+M>umani</E
+M>documents humains</E
+M>questi d</E
+M>in fatto di stile</E
+M>che io indirizzo ai principianti</E
+M>Documenti d’amore</E

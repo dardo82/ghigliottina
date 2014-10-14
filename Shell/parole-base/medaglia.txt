@@ -1,0 +1,57 @@
+medaglia.txt
+"il rovescio della medaglia"
+"l'altra faccia della medaglia"
+"l'altro lato della medaglia"
+"medaglia"
+"medaglia al valor militare"
+"medaglia d'argento"
+"medaglia d'onore"
+"medaglia d'onore"
+"medaglia d'onore"
+"medaglia d'oro"
+"medaglia della libertà"
+"medaglia di bronzo"
+"medaglia di guerra"
+"medaglia militare"
+"medaglia per il merito"
+"medaglia sul campo"
+"vincitore della medaglia"
+"vincitore di medaglia"
+*''il rovescio della medaglia''
+M>*medialia</E
+M>*medalia</E
+M>*medialis</E
+M>medius</E
+M>diritto</E
+M>recto</E
+M>rovescio</E
+M>verso</E
+M>il rovescio della m</E
+M>ogni m</E
+M>ha il suo rovescio</E
+M>annuale</E
+M>dare</E
+M>conferire una m</E
+M>decorare con m</E
+M>essere insignito di medaglia al valore</E
+M>appuntare al petto una m</E
+M>avere il petto fregiato di medaglie</E
+M> una m</E
+M>d’oro</E
+M>sfilata</E
+M>raduno delle medaglie d’oro</E
+M>olimpionica</E
+M>vincere una m</E
+M>d’oro</E
+M>all’incontro sarà presente la m</E
+M>d’oro dei 100 metri piani</E
+M>le m</E
+M>d’oro delle recenti Olimpiadi</E
+M>d’argento</E
+M>di bronzo</E
+M>medaglietta</E
+M>di presenza</E
+M>gettone di presenza</E
+M>di Giuda</E
+M>di Pindo</E
+M>Lunaria annua</E

@@ -1,0 +1,32 @@
+credo.txt
+"ci credo poco."
+"credo"
+"credo"
+"credo"
+"credo"
+"credo apostolico"
+"credo comune"
+"credo niceno"
+"credo politico"
+"credo popolare"
+"credo religioso"
+"credo, sistema di credenze"
+"credo; credenza comune"
+"e ci credo!"
+"il credo"
+"il credo"
+"non ci credo"
+"non ci credo"
+"non credo, non penso"
+M>credo</E
+M>dire</E
+M>recitare</E
+M>cantare il c</E
+M>c’entra come Pilato nel c</E
+M>siamo entrati in chiesa al Credo</E
+M>restare fedele al proprio c</E
+M>religioso</E
+M>politico</E
+M>letterario</E
+M>estetico</E
+M>essere attaccato al proprio credo</E

@@ -1,0 +1,40 @@
+augurio.txt
+"augurio"
+"augurio"
+"augurio di morte"
+#*ti faccio l'augurio di trovare lavoro 
+#*vi faccio l'augurio di non vedervi più 
+#*''Oggi è il vostro anniversario? '''auguri'''!''
+#*'''''Auguri''' di Buon Natale!''
+*[[voto]], [[desiderio]], [[speranza]]
+*[[auspicio]], [[segno]], [[presagio]], [[presentimento]], [[previsione]],  [[indizio]][[indizio]], [[pronostico]], [[oroscopo]]
+* [[malaugurio]], [[maledizione]], [[iettatura]]
+*[[festa]], [[compleanno]], [[matrimonio]], [[candele]]
+*italiano
+*interlingua
+M>augurium</E
+M>augur</E
+M>essere di buono</E
+M>lieto</E
+M>felice</E
+M>di cattivo</E
+M>tristo</E
+M>sinistro a</E
+M>questo fatto mi pare di ottimo a</E
+M>le sue parole mi suonano di pessimo a</E
+M>Or tristi auguri e sogni e penser negri Mi danno assalto</E
+M>formulare un a</E
+M>di felicità</E
+M>di buona fortuna</E
+M>ti faccio l’a</E
+M>di guarir presto</E
+M>gradisci i miei più sinceri augurî</E
+M>cerca di riuscire: questo è il mio a</E
+M>più cordiale</E
+M>fare</E
+M>porgere</E
+M>mandare</E
+M>inviare gli augurî</E
+M>lettera</E
+M>cartolina</E
+M>biglietto di augurî</E

@@ -1,0 +1,70 @@
+economico.txt
+"annuncio economico"
+"annuncio economico"
+"annuncio economico"
+"annuncio economico"
+"articolo economico"
+"autobus economico"
+"ciclo economico"
+"conto economico"
+"conto economico, bilancio"
+"economico"
+"economico"
+"impegno economico"
+"ministero dello sviluppo economico"
+"negozio da 10 centesimi; negozio economico"
+"negozio, magazzino economico"
+"operatore economico"
+"prodotto economico"
+"ristorante economico"
+"ritorno economico"
+"sistema del liberalismo economico"
+"sistema economico"
+"sistema economico"
+"socio-economico"
+"soggetto economico"
+"supporto economico"
+#*''il [[w
+*[[finanzario]]
+*''(di prezzi, prodotti)'' [[a buon mercato]], [[accessibile]], [[contenuto]], [[conveniente]], [[vantaggioso]]
+* ''(di prezzi, prodotti)'' [[antieconomico]], [[caro]], [[costoso]], [[salato]]
+*[[economia]],[[economato]], [[economismo]], [[economica]], [[economicità]], [[economista]]
+M>oeconom</E
+M>cus</E
+M>scienza e</E
+M>dottrine e</E
+M>bene e</E
+M>congiuntura</E
+M>crisi e</E
+M>politica</E
+M>programmazione</E
+M>ripresa e</E
+M>miracolo e</E
+M>problemi e</E
+M>questioni e</E
+M>rilancio</E
+M>risanamento</E
+M>sviluppo economico</E
+M>Principio e</E
+M>edonistico</E
+M>del minimo mezzo</E
+M>del massimo tornaconto</E
+M>Pubblicità e</E
+M>annunci e</E
+M>punto di vista e</E
+M>un sistema e</E
+M>viaggiare con mezzi e</E
+M>edizioni e</E
+M>piccola biblioteca e</E
+M>cucina e</E
+M>è un uomo assai e</E
+M>vero dee esser in conseguenza ch’il buono e</E
+M>non meno sappia governar la famiglia d’un principe che la privata</E
+M>tutti i politici e gli e</E
+M>presenti</E
+M>vivere</E
+M>viaggiare economicamente</E
+M>un’amministrazione economicamente ineccepibile</E
+M>economicamente la sua famiglia se la passa bene</E
+M>un paese economicamente depresso</E
+M>sfruttare economicamente i territorî conquistati</E

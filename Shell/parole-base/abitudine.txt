@@ -1,0 +1,52 @@
+abitudine.txt
+"abitudine"
+"abitudine"
+"avere l'abitudine di"
+"brutta abitudine"
+"cattiva abitudine"
+"che non diventi un abitudine però!"
+"come d'abitudine"
+"come è d'abitudine"
+"diventare un'abitudine"
+"far perdere l'abitudine"
+"forza dell'abitudine"
+"non avere l'abitudine di"
+"per abitudine"
+"per abitudine, per consuetudine"
+"perdere l'abitudine"
+#* ''lo faccio sempre, è diventata un'
+#* ''
+* [[consuetudine]]
+*''L'abitudine alleggerisce la fatica.''
+M>habitudo</E
+M>nis</E
+M>hab</E
+M>tus</E
+M>del corpo</E
+M>dell’animo</E
+M>ogni corpo umano aver la sua particolare a</E
+M>avere</E
+M>prendere</E
+M>contrarre</E
+M>perdere un’a</E
+M>una buona</E
+M>una cattiva</E
+M>una pessima a</E
+M>naturale</E
+M>inveterata</E
+M>essere affezionato alle proprie a</E
+M>staccarsi dalle proprie abitudini</E
+M>fare l’a</E
+M>a qualche cosa</E
+M>è un rumore che da principio dà fastidio</E
+M>ma poi si finisce col farci l’abitudine</E
+M>del peccato</E
+M>peccato d’a</E
+M>a un cibo</E
+M>al fumo</E
+M>all’alcol</E
+M>fare l’a</E
+M>a un farmaco</E
+M>assuefazione</E
+M>alla droga</E
+M>sensoriale</E

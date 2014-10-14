@@ -1,0 +1,19 @@
+simpatico.txt
+"carino, grazioso, simpatico"
+"inchiostro simpatico"
+"simpatico"
+"simpatico"
+"simpatico"
+"simpatico"
+"simpatico"
+"simpatico"
+"simpatico"
+"sistema nervoso simpatico"
+"tipo simpatico, tipo a posto"
+*(di persona) [[gentile]], [[cortese]], [[cordiale]], [[amabile]], [[affabile]], [[espansivo]], [[estroverso]]
+*(di azione) [[opportuno]]
+*(di persona) [[antipatico]]
+*(di azione) [[inopportuno]]
+*[[antipatico]]
+*[[simpaticamente]]
+*Enciclopedia [http

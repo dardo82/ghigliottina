@@ -1,0 +1,12 @@
+alcool.txt
+"alcool, alcol, alcole"
+"alcool, alcol, alcole"
+"alcool denaturato"
+"alcool isopropilico"
+"alcool metilico"
+"alcool polivinilico"
+"benzoil alcool"
+"consumo di alcool"
+"fatto (di droga o alcool)"
+"intossicazione da alcool"
+M>alcole</E

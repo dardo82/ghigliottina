@@ -1,0 +1,32 @@
+vegetazione.txt
+"del limite della vegetazione arborea"
+"fogliame; vegetazione; ortaggi"
+"limite della vegetazione"
+"ricoperto dalla vegetazione"
+"vegetazione"
+"vegetazione"
+"vegetazione"
+"vegetazione spontanea"
+* [[flora]]
+* [[vegetale]], [[vegetare]]
+M>vegetatio -onis</E
+M>vegetare</E
+M>fattori che favoriscono</E
+M>accelerano</E
+M>ritardano</E
+M>la v. di determinate piante</E
+M>terreno adatto</E
+M>clima propizio alla vegetazione</E
+M>scienza della v.</E
+M>regione ricca</E
+M>povera di v.</E
+M>tipi</E
+M>forme di v.</E
+M>v. tropicale</E
+M>mediterranea</E
+M>alpina</E
+M>Acqua di vegetazione</E
+M>v. venerea</E
+M>condiloma acuminato</E
+M>v. adenoidea</E
+M>adenoide</E

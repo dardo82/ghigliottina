@@ -1,0 +1,89 @@
+gomma.txt
+"albero della gomma"
+"albero della gomma"
+"cancellare con la gomma"
+"consistenza della gomma"
+"di gomma"
+"disco di gomma"
+"gomma"
+"gomma"
+"gomma sintetica"
+"gomma"
+"gomma"
+"gomma per cancellare"
+"gomma"
+"gomma da masticare"
+"gomma (da cancellare)"
+"gomma arabica"
+"gomma bucata"
+"gomma da cambiare"
+"gomma da cancellare"
+"gomma da masticare"
+"gomma da masticare, chewing-gum"
+"gomma gr-s"
+"gomma naturale"
+"gomma neoprene"
+"gomma nitrilica"
+"gomma pane"
+"gomma per cancellare"
+"gomma sintetica"
+"gomma spugnosa"
+"gomma vulcanizzata"
+"guanti di gomma"
+"palla di gomma"
+"ricoprire di gomma"
+"rivestito di gomma"
+"scarpe di gomma"
+"stivali di gomma"
+"tappeto in gomma"
+"timbro di gomma"
+"tutto in gomma"
+*''(gomma da masticare)''[[chewing-gum]]
+*''(rivestimento della ruota di un veicolo)'' [[pneumatico]], [[copertone]]
+M>mma</E
+M>mma</E
+M>mmi</E
+M>mmi</E
+M>elastomeri</E
+M>naturale</E
+M>caucciù</E
+M>artificiali</E
+M>al polibutadiene</E
+M>polietere</E
+M>terpolimeri</E
+M>termoplastiche</E
+M>una palla di g</E
+M>piena di g</E
+M>scarpe con suola di g</E
+M>salvatacchi di gomma</E
+M>da cancellare</E
+M>da matita</E
+M>da inchiostro</E
+M>gomma pane</E
+M>gomma plastica</E
+M>le g</E
+M>far gonfiare le g</E
+M>cambiare le g</E
+M>lo scoppio di una g</E
+M>avere una g</E
+M>a terra</E
+M>vulcanizzata</E
+M>rigenerata</E
+M>Gomma da masticare</E
+M>americana</E
+M>chewing gum</E
+M>espansa</E
+M>spugnosa</E
+M>gommoresine</E
+M>adragante</E
+M>arabica</E
+M>lacca</E
+M>d’amido</E
+M>destrina</E
+M>colla</E
+M>attaccare due fogli con un po’ di g</E
+M>francobolli con poca gomma</E
+M>sifilitica</E
+M>tubercolari</E
+M>mal della g</E
+M>gommosi</E

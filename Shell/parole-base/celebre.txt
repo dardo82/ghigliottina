@@ -1,0 +1,29 @@
+celebre.txt
+"celebre"
+"celebre causa"
+"cause celebre"
+"noto, celebre"
+#*''[[w
+*[[famoso]], [[illustre]], [[noto]], [[popolare]], [[rinomato]], [[insigne]], [[conosciuto]], [[amato]],[[ affermato]], [[importante]], [[grande]], [[glorioso]], [[magnifico]]
+*[[famoso]],  [[rinomato]], [[popolare]], [[prestigioso]]
+*'' (specialmente di persona)'' [[affermato]], [[eminente]],[[ insigne]] 
+*[[sconosciuto]], [[anonimo]], [[ignoto]], [[oscuro]]
+M>cel</E
+M>ber</E
+M>bris</E
+M>bre</E
+M>un c</E
+M>poeta</E
+M>pittore</E
+M>musicista</E
+M>attore</E
+M>cantante</E
+M>un c</E
+M>libertino</E
+M>un libro c</E
+M>un c. quadro</E
+M>una c</E
+M>biblioteca</E
+M>una città c</E
+M>un avvenimento celebre</E
+M>celebèrrimo</E

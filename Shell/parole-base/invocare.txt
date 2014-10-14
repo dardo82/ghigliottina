@@ -1,0 +1,40 @@
+invocare.txt
+"invocare"
+"invocare"
+"invocare la benedizione di"
+*[[chiamare]], [[pregare]], [[implorare]], [[scongiurare]], [[supplicare]], [[rivolgersi]], fare appello, [[appellarsi]], [[sollecitare]], [[impetrare]]
+*(legge, testimonianza, eccetera) [[citare]], chiamare a sostegno
+M>inv</E
+M>care</E
+M>vocare</E
+M>io invòco</E
+M>tu invòchi</E
+M>Dio</E
+M>il nome di Dio</E
+M>la Madonna</E
+M>i Santi</E
+M>Invoco lei</E
+M>che ben sempre rispose</E
+M>Chi la chiamò con fede</E
+M>la mamma lontana</E
+M>il poeta invoca la Musa perché lo ispiri</E
+M>aiuto</E
+M>invoco il tuo aiuto</E
+M>invoco aiuto da te</E
+M>soccorso</E
+M>la grazia</E
+M>la clemenza dei giudici</E
+M>la grazia per il figlio</E
+M>la benedizione sul capo di qualcuno</E
+M>riforme</E
+M>un provvedimento delle autorità</E
+M>la cooperazione dei popoli</E
+M>la cessazione delle ostilità</E
+M>una tregua fra i partiti</E
+M>vendetta</E
+M>è da tanto che invoco un po’ di pace</E
+M>la morte</E
+M>la terra inaridita dalla siccità invocava un po’ di pioggia</E
+M>una testimonianza</E
+M>la legge in difesa dei proprî diritti</E
+M>l’autorità di un autore a sostegno della propria tesi</E

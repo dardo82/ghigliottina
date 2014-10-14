@@ -1,0 +1,335 @@
+perdere.txt
+"a perdere"
+"che fa perdere la pazienza"
+"che fa perdere la pazienza"
+"con tempo da perdere"
+"far perdere a qualcuno la concentrazione"
+"far perdere l'abitudine"
+"far perdere la pazienza a un santo"
+"far perdere le tracce"
+"infuriarsi, imbufalirsi, perdere le staffe, andare su tutte le furie"
+"lascia perdere"
+"lasciami perdere, lasciami stare"
+"Lasciami perdere!, lasciami stare!"
+"lasciamo perdere!"
+"lasciar perdere"
+"lasciar perdere"
+"lasciar perdere"
+"lasciar perdere"
+"lasciare perdere"
+"non c'è un momento da perdere"
+"non farci caso, non dargli peso, lasciar perdere"
+"non perdere di vista"
+"non perdere la testa"
+"non perdere tempo"
+"non saper perdere"
+"perdere"
+"perdere"
+"perdere"
+"perdere"
+"perdere"
+"perdere"
+"perdere"
+"perdere"
+"perdere, replace: perdersi"
+"perdere (di recipiente)"
+"perdere al gioco"
+"perdere colore"
+"perdere concentrazione"
+"perdere conoscenza"
+"perdere di significato"
+"perdere di vista"
+"perdere i capelli"
+"perdere i capelli"
+"perdere i capelli, diventare calvo"
+"perdere i sensi"
+"perdere il confronto a centrocampo"
+"perdere il conto"
+"perdere il controllo"
+"perdere il controllo"
+"perdere il filo"
+"perdere il filo di una conversazione"
+"perdere il gas, sgasarsi, diventare sgasato"
+"perdere il lume della ragione"
+"perdere il pelo"
+"perdere il ritmo"
+"perdere il tuo equilibrio"
+"perdere il vizio"
+"perdere interesse"
+"perdere interesse in"
+"perdere interesse in qualcosa"
+"perdere l'abitudine"
+"perdere l'attimo"
+"perdere l'autobus"
+"perdere l'equilibrio"
+"perdere l'erezione"
+"perdere l'erezione"
+"perdere l'occasione"
+"perdere l'opportunità"
+"perdere la cognizione del tempo"
+"perdere la faccia"
+"perdere la fiducia in te stesso"
+"perdere la fiducia nelle istituzioni"
+"perdere la grazia di Dio"
+"perdere la grazia di Dio"
+"perdere la lucidità"
+"perdere la mano"
+"perdere la nave"
+"perdere la palla"
+"perdere la pazienza"
+"perdere la possibilità"
+"perdere la speranza"
+"perdere la speranza"
+"perdere la testa"
+"perdere la tramontana"
+"perdere il controllo di sé"
+"perdere la tua passione per"
+"perdere la vista"
+"perdere le foglie"
+"perdere le squame"
+"perdere le staffe"
+"perdere il controllo"
+"perdere le staffe, perdere il controllo"
+"perdere le tracce di"
+"perdere lo slancio"
+"perdere lo smalto"
+"perdere peso"
+"perdere peso"
+"perdere peso sudando"
+"perdere potenza"
+"perdere punti"
+"perdere qualche anno di vita"
+"perdere qualcosa"
+"perdere significato; smettere di esistere"
+#*''come? '''hai perso''' le chiavi di casa?''
+#*''la Germania '''perse''' la Seconda Guerra Mondiale''
+#*''Giulio non sa giocare a dama
+#*'''''ha perso''' un milione di dollari al casinò''
+*restare privo, non avere più, [[lasciare]], [[abbandonare]]
+*[[smarrire]]
+*[[rimetterci]], [[scapitare]]
+*(un’occasione) lasciarsi sfuggire
+*(tempo) [[consumare]], [[sciupare]], [[sprecare]], buttare via,[[scialacquare]], [[dissipare]]
+*(di tubatura) lasciare uscire, [[gocciolare]]
+* essere sconfitto, essere vinto, essere battuto, , [[soccombere]], [[uscire sconfitto]]
+*[[scendere]], [[diminuire]], [[calare]], [[scemare]]
+* [[ritrovare]], [[trovare]]
+*[[guadagnarci]]
+*[[crescere]], [[aumentare]]
+* [[sfruttare]], [[utilizzare]], [[impiegare]], [[guadagnare]], [[vincere]], [[vincere]], [[trionfare]]
+*[[dimenticare]]
+*''per [[amore]] [[anche]] una [[donna]] onesta, può 
+M>perd</E
+M>per</E
+M>dare</E
+M>pèrsi</E
+M>perdètti</E
+M>perdéi</E
+M>perdésti</E
+M> pèrse</E
+M>perdètte</E
+M>perdé</E
+M>perdémmo</E
+M>perdéste</E
+M>pèrsero</E
+M>perdèttero</E
+M>perdérono</E
+M>pèrso</E
+M>perduto</E
+M>un&#8217;improvvisa furiosissima tramontana</E
+M>ebbe poco meno che a perderci tutti</E
+M>la sua avidità di denaro lo ha perduto</E
+M>le cattive compagnie finiranno col perderlo</E
+M>possono riferire tutto a mio marito: possono perderci</E
+M>la curiosità</E
+M>perdette Eva e fece il danno di Adamo</E
+M>l&#8217;anima</E
+M>perdersi</E
+M>se continua a frequentare certi ambienti</E
+M>finirà col perdersi</E
+M>peccatori che si perdono per la loro ostinazione nel male</E
+M>un bottone</E
+M>l&#8217;anello</E
+M>il portafoglio</E
+M>la clientela</E
+M>un braccio</E
+M>una gamba</E
+M>un occhio</E
+M>ha perso tutti i capelli</E
+M>cominciava a p</E
+M>i denti</E
+M>il lupo perde il pelo ma non il vizio</E
+M>alcuni alberi d&#8217;autunno perdono le foglie</E
+M>un lauro verde</E
+M>Che per fredda stagion foglia non perde</E
+M>&#8217;</E
+M>sangue da una ferita</E
+M>il malato ha perso molto sangue</E
+M>il motore perde olio</E
+M>il radiatore perde acqua</E
+M>la botte</E
+M>il condotto del gas</E
+M>il serbatoio della benzina perde</E
+M>Quivi perdei la vista e la parola</E
+M>p. l&#8217;appetito</E
+M>p. il sonno</E
+M>la voce</E
+M>la memoria</E
+M>il buonumore</E
+M>la serenità</E
+M>la calma</E
+M>la tranquillità</E
+M>la fede</E
+M>la pazienza</E
+M>le forze</E
+M>la salute</E
+M> conoscenza</E
+M>i sensi</E
+M>i sentimenti</E
+M>la vita</E
+M>il fiore ha perso il profumo</E
+M>il tessuto perde il colore</E
+M>una posizione</E
+M>velocità</E
+M>quota</E
+M>terreno</E
+M>un veliero perde</E
+M>perde cammino</E
+M>la reputazione</E
+M>la stima</E
+M>il credito</E
+M>l&#8217;onore</E
+M>il grado</E
+M>p. il posto</E
+M>il comando</E
+M>il regno</E
+M>la corona</E
+M>il trono</E
+M>un amico</E
+M>ha perduto un figlio in guerra</E
+M>i genitori</E
+M>il padre e la madre</E
+M>il marito</E
+M>la moglie</E
+M>stupefatto Perde le reti il pescatore ed ode</E
+M>le staffe</E
+M>è dimagrito e ora perde i pantaloni</E
+M>la chiusura lampo si è rotta e stavo perdendo la gonna</E
+M>nuotando ha rischiato di p</E
+M>il costume</E
+M>la strada</E
+M>la via</E
+M>l&#8217;orientamento</E
+M>la bussola</E
+M>la tramontana</E
+M>le tracce</E
+M>di vista</E
+M>d&#8217;occhio</E
+M>una persona</E
+M>una cosa</E
+M>eravamo amici un tempo</E
+M>ma poi l&#8217;ho perso di vista</E
+M>il filo del discorso</E
+M>il controllo della vettura</E
+M>della guida</E
+M>il controllo</E
+M>il dominio</E
+M>di sé</E
+M>dei proprî nervi</E
+M>la testa</E
+M>il ritmo</E
+M>il tempo</E
+M>il passo</E
+M>ho seguito tutte le conferenze</E
+M>senza perderne una</E
+M>è stato malato e ha perduto molte lezioni</E
+M>un punto</E
+M>colpi</E
+M>colpo</E
+M>non perde un colpo</E
+M>il treno</E
+M>l&#8217;aereo</E
+M>il battello</E
+M>se non ti affretti perderai il concerto</E
+M>siamo arrivati tardi</E
+M>così abbiamo perso il primo tempo dello spettacolo</E
+M>è un film da non perdere</E
+M>l&#8217;occasione</E
+M>l&#8217;autobus</E
+M>guadagnare</E
+M>in quella speculazione ha perduto tutto quello che aveva; abbiamo perso 20 mila euro in borsa</E
+M>ho perso duecento euro a poker</E
+M> non aver nulla da p</E
+M>vincere</E
+M>la guerra</E
+M>la battaglia</E
+M>la partita</E
+M>la gara</E
+M>l&#8217;incontro</E
+M>il campionato</E
+M>la scommessa</E
+M>la lite</E
+M>la causa</E
+M>un punto</E
+M>due punti</E
+M>la prima mano</E
+M>avevo scommesso cento euro e ho perso</E
+M>chi fa meno di dieci punti perde</E
+M>Quando si parte il gioco de la zara</E
+M>Colui che perde si riman dolente</E
+M>devi imparare a p</E
+M>a nessuno piace p</E
+M>nella vita ora si vince e ora si perde</E
+M>è una bella ragazza</E
+M>ma a paragone della sorella ci perde</E
+M>Ché perder tempo a chi più sa più spiace</E
+M>via</E
+M>concludiamo</E
+M>non perdiamo altro tempo</E
+M>se vogliamo arrivare puntuali</E
+M>non dobbiamo p</E
+M>tempo</E
+M>non c&#8217;è tempo da p</E
+M>ho perso tutta la mattinata a girare per gli ufffici</E
+M>la propria giovinezza</E
+M>i proprî anni più belli</E
+M>l&#8217;anno</E
+M>scolastico</E
+M>il fiato</E
+M>sprecare il fiato</E
+M>la fatica</E
+M>il ranno e il sapone</E
+M>lasciar p</E
+M>è meglio lasciar p</E
+M>è tempo buttato!</E
+M>va bene</E
+M>ho capito</E
+M>lasciamo p</E
+M>vieni via</E
+M>lascia perdere!</E
+M>A perdere</E
+M>vuoto a perdere</E
+M>avere</E
+M>d&#8217;autorità</E
+M>di prestigio</E
+M>di forza</E
+M>con l&#8217;assuefazione</E
+M>i farmaci perdono di efficacia</E
+M>ci accorgemmo di esserci perduti</E
+M>perdersi nel bosco</E
+M>nella foresta</E
+M>perdersi nella montagna</E
+M>perdersi in un bicchier d&#8217;acqua</E
+M>la mente si perde in tali misteri</E
+M>è un problema difficile: mi ci perdo</E
+M>perdersi d&#8217;animo</E
+M>di coraggio</E
+M>perdersi in chiacchiere</E
+M>in discussioni</E
+M>polemiche inutili</E
+M>perdersi dietro alle ragazze</E
+M>lascialo fare: non ti perdere dietro a lui</E
+M>le voci si perdevano in lontananza</E
+M>la costa si perdeva nella nebbia</E
+M>Siede con le vicine Su la scala a filar la vecchierella</E
+M>Incontro là dove si perde il giorno</E

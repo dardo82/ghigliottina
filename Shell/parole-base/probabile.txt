@@ -1,0 +1,46 @@
+probabile.txt
+"causa probabile"
+"doppiamente probabile"
+"essere probabile"
+"essere probabile"
+"essere probabile"
+"probabile"
+"probabile (seguito da infinito)"
+"probabile che"
+"probabile, possibile"
+"storia probabile"
+*[[possibile]], [[facile]], [[verosimile]], [[plausibile]], [[credibile]], [[attendibile]], [[presumibile]], [[prevedibile]], [[concepibile]], [[immaginabile]]
+*[[improbabile]], [[difficile]], [[inverosimile]], [[inammissibile]], [[impensabile]], [[incredibile]], [[inattendibile]], [[inconcepibile]], [[inimmaginabile]], [[assurdo]]
+*[[probabilmente]], [[probabilismo]], [[probabilità]]
+M>probab</E
+M>lis</E
+M>probare</E
+M>è p</E
+M>che arrivi</E
+M>che sia arrivato</E
+M>prima di me</E
+M>è molto p</E
+M>è poco p</E
+M>non è p</E
+M>non è affatto p</E
+M>non mi pare p</E
+M>che sia stato lui</E
+M>lanciando due dadi è più p</E
+M>ottenere come somma 7 che 4</E
+M>probabile</E
+M>possibile</E
+M>una nevicata a Roma in aprile è possibile ma non probabile</E
+M>&#171;Credi che tornerà?&#187; &#171;È probabile&#187;</E
+M>&#171;Probabile&#187;</E
+M>congettura</E
+M>interpretazione</E
+M>supposizione p</E
+M>l&#8217;ipotesi più p</E
+M>meno p</E
+M>argomentazione p</E
+M>dialettica</E
+M>argomentazione apodittica</E
+M> opinione p</E
+M>l&#8217;autore</E
+M>si dimostra espositore sufficiente e p</E
+M>scrittore</E

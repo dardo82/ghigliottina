@@ -1,0 +1,9 @@
+pedone.txt
+"pedone"
+"pedone"
+"pedone disattento"
+#*''Noi '''pedoni''' dobbiamo fare attenzione ad attraversare sulle strisce per non rischiare di essere investiti''
+#*''Il '''pedone''' può muoversi solo in avanti di una casella, tranne nella prima mossa in cui può muoversi anche di due caselle''
+*''(scacchi)'' [[cavallo]], [[alfiere]], [[torre]], [[regina]], [[re]]
+*''(camminatore)'' [[ciclista]], [[motociciclista]], [[scooterista]], [[camionista]], [[autista]]
+*italiano

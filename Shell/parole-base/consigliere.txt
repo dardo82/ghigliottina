@@ -1,0 +1,26 @@
+consigliere.txt
+"consigliere"
+"consigliere"
+"consigliere comunale"
+"consigliere della regina"
+"consigliere di fiducia"
+"consigliere personale"
+M>conseillier</E
+M>consiliarius</E
+M>mi ha scelto per suo c</E
+M>essere un buon</E
+M>un cattivo c</E
+M>la fame è una cattiva c</E
+M>lo spavento è mal consigliero</E
+M>perché fa velo al giudizio</E
+M>di stato</E
+M>di prefettura</E
+M>di cassazione</E
+M>d’appello</E
+M>comunali</E
+M>provinciali</E
+M>di legazione</E
+M>consigliere</E
+M>delegato</E
+M>amministratore delegato</E
+M>di amministrazione</E

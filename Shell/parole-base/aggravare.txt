@@ -1,0 +1,27 @@
+aggravare.txt
+"aggravare"
+"aggravare, replace: aggravarsi"
+M>aggravare</E
+M>gravis</E
+M>un carico</E
+M>una soma</E
+M>lo stomaco di cibi indigesti</E
+M>la persona</E
+M>il corpo di vestiti</E
+M>stanco dalle fatiche</E
+M>aggravato dal male</E
+M>oppresso dall’afa</E
+M>camminava stentatamente</E
+M>la pena</E
+M>aggravarsi la coscienza di una colpa</E
+M>circostanze che aggravano il delitto</E
+M>quest’imprevista difficoltà aggrava la situazione</E
+M>il suo contegno aggravò il mio dolore</E
+M>una grande stanchezza gli aggravava le membra</E
+M>quest’aria afosa mi aggrava la testa</E
+M>essere</E
+M>la situazione è aggravata improvvisamente</E
+M>nella notte l’ammalato s’aggravò</E
+M>essere aggravato di sonno</E
+M>il ferito m’è parso aggravato</E
+M>una situazione molto aggravata</E

@@ -1,0 +1,235 @@
+volo.txt
+"Al volo"
+"assistente di volo"
+"assistente di volo"
+"capire a volo"
+"capire al volo"
+"cogliere al volo"
+"cogliere al volo"
+"cogliere al volo"
+"controllo di volo"
+"controllore di volo"
+"dettagli del volo"
+"era del volo"
+"esibizione di volo"
+"fare un volo"
+"il Volo"
+"in volo"
+"in volo"
+"in volo"
+"in volo"
+"in volo"
+"lezioni di volo"
+"linea di volo"
+"lista dei passeggeri di un volo"
+"norme di volo strumentale"
+"operazioni volo"
+"piano di volo"
+"ponte di volo"
+"prendere al volo"
+"prendere il volo"
+"prendere il volo"
+"prenotare un volo"
+"prospettiva a volo d'uccello"
+"prova di volo"
+"registratore di volo"
+"rimanere sospeso in aria, rimanere sospeso in volo"
+"simulatore di volo"
+"sparare ad un uccello in volo"
+"stato del volo"
+"strumenti di volo"
+"tiro al volo"
+"tornare (volo)"
+"traiettoria di volo"
+"trovare un volo ad una tariffa speciale"
+"uccello inabile al volo"
+"ufficiale di volo"
+"una domanda al volo"
+"velocità di volo"
+"volo"
+"volo"
+"volo"
+"volo"
+"volo a getto"
+"volo a motore"
+"volo a vista"
+"volo charter"
+"volo circolare d'attesa"
+"volo con regole a vista"
+"volo da combattimento"
+"volo degli uccelli"
+"volo della fantasia"
+"volo di linea"
+"volo di prova"
+"volo diurno"
+"volo in solitaria"
+"volo libero"
+"volo militare"
+"volo notturno"
+"volo notturno"
+"volo notturno"
+"volo pindarico"
+"volo planato"
+"volo spaziale"
+"volo strumentale"
+"volo strumentale"
+"volo supersonico"
+*''(di uccelli)'' [[stormo]], [[volata]], [[frotta]], [[schiera]] 
+*''(di aerei)'' [[stormo]], [[squadriglia]] 
+*''(di un oggetto in aria)'' [[traiettoria]], [[percorso]] 
+*''(volo di linea)'' [[viaggio]], [[corsa]] 
+*''(dalla finestra, dalle scale ecc.)'' [[salto]], [[caduta]], [[capitombolo]], [[ruzzolone]] 
+*''(rapida corsa)'' [[corsa]], [[salto]], [[volata]], [[scappata]] 
+*''(della fantasia)'' [[fantasticheria]]
+*[[semivolo]], [[abbassato]],[[piegato]], [[sorante]], [[spiegato]]
+*''volo d'uccello''
+*Devoto/Oli,''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le monnier, p. 2297 
+m>v. planato</e
+m>librato</e
+m>v. veleggiato</e
+m>a vela</e
+m>v. battuto</e
+m>battente</e
+m>remigante</e
+m>remigato</e
+m>animali atti al v.</e
+m>un v. alto</e
+m>rapido</e
+m>lento</e
+m>basso</e
+m>E tra quei rami con sicuri voli Cantando se ne gìano i rosignuoli</e
+m>il v. delle rondini</e
+m>il v. spezzato dei pipistrelli</e
+m>il v. delle api</e
+m>delle vespe</e
+m>v. nuziale</e
+m>prendere</e
+m>pigliare il v.</e
+m>spiccare</e
+m>alzare</e
+m>levare il v.</e
+m>spiegare il v.</e
+m>a volo spiegato</e
+m>raccogliere il v.</e
+m>dare il v. a un uccello</e
+m>tiro al v.</e
+m>a v.</e
+m>v. di parata</e
+m>v. di orientamento</e
+m>v. a campanile</e
+m>v. alto</e
+m>basso</e
+m>v. ordinato</e
+m>in formazione</e
+m>un v. di starne</e
+m>di pernici</e
+m>volo</e
+m>lanciare un v.</e
+m>da Milano con un&rsquo;ora di volo si arriva a Parigi</e
+m>v. a motore</e
+m>v. a vela</e
+m>veleggiato</e
+m>v. automatico</e
+m>v. cieco</e
+m>v. strumentale</e
+m>v. subsonico</e
+m>transonico</e
+m>supersonico</e
+m>ipersonico</e
+m>v. librato</e
+m>v. planato</e
+m>v. radiocomandato</e
+m>radioguidato</e
+m>v. telecomandato</e
+m>teleguidato</e
+m>v. senza scalo</e
+m>v. verticale</e
+m>Linea di volo</e
+m>v. stazionario</e
+m>mettersi in linea di v.</e
+m>linea dei v.</e
+m>il v. dell&rsquo;Alitalia da Roma a New York</e
+m>il v. Parigi-Vienna</e
+m>il v. da Madrid è in arrivo tra 10 minuti</e
+m>ho fatto tardi e ho perso il volo</e
+m>il primo v. sulla Manica</e
+m>il v. transatlantico di Lindbergh</e
+m>v. extraatmosferico</e
+m>v. interplanetario</e
+m>v. interstellare</e
+m>un&rsquo;astronave che può effettuare in 60 ore il v. dalla Terra alla Luna</e
+m>un v. di angeli</e
+m>di dèmoni</e
+m>di spiriti maligni</e
+m>di streghe</e
+m>Ma fatta Amor la sua bella vendetta</e
+m> Mossesi lieto pel negro aere a volo</e
+m>Hermes portava in volo dall&rsquo;Olimpo alla Terra i messaggi e gli ordini di Zeus</e
+m>il v. di Dedalo e Icaro</e
+m>i varî tentativi di volo umano con ali mobili</e
+m>con apparecchi di sostentazione azionati a braccia</e
+m>quel poveretto ha fatto un v. dalla finestra</e
+m>dalle scale</e
+m>giù dall&rsquo;albero</e
+m>la freccia</e
+m>il giavellotto</e
+m>ricadde dopo un lungo v.</e
+m>il sasso</e
+m>la palla</e
+m>fece un v. di una trentina di metri</e
+m>volo</e
+m>volo</e
+m>giocare al v.</e
+m>colpire al v.</e
+m>calcio al v.</e
+m>palla a volo</e
+m>giocata di v.</e
+m>tempo di v.</e
+m>Onde la gloria nostra</e
+m> o bel figliuolo</e
+m> Vedren</e
+m>vedremo</e
+m>sopra le stelle alzarsi a volo</e
+m>a i v. troppo alti e repentini Sogliono i precipizi esser vicini</e
+m>Amore</e
+m> Ch&rsquo;ad alto v. impenni ogni vil core</e
+m>or tu</e
+m> signore</e
+m> Col v. ardito del felice ingegno T&rsquo;ergi sopra d&rsquo;ognaltro</e
+m>i v. della fantasia</e
+m>v. poetico</e
+m>v. lirico</e
+m>voli pindarici</e
+m>E presta a&rsquo; miei sospir&rsquo; sì largo volo</e
+m> Che sempre si ridica Come tu m&rsquo;eri amica</e
+m>E volta nostra poppa nel mattino</e
+m> De&rsquo; remi facemmo ali al folle v.</e
+m>fare un v. in un luogo</e
+m>fare un salto</e
+m>prendere il v.</e
+m>involarsi</e
+m>il denaro</e
+m>il cassiere ha preso il v.</e
+m>quando un nostro padre predicatore ha preso il v.</e
+m> non si può prevedere su che ramo potrà andarsi a posare</e
+m>volo</e
+m>capire</e
+m>intendere a v.</e
+m>è un&rsquo;ottima occasione</e
+m> e bisogna afferrarla al v.</e
+m>a volo d&rsquo;uccello</e
+m>di volo</e
+m>un tema affrontato soltanto di v.</e
+m>in un v.</e
+m>arrivo in un v.</e
+m>in un v. sparirono tutti</e
+m>volo</e
+m>macchina per volo</e
+m>il v. aveva commosso l&rsquo;ingenuo pubblico</e
+m>volando</e
+m>v. spiegato</e
+m>v. abbassato</e
+m>doppio v.</e
+m>semivolo</e
+m>écarté</e
+m>fare il v.</e

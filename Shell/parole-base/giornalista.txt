@@ -1,0 +1,20 @@
+giornalista.txt
+"giornalista"
+"giornalista che usa le immagini"
+"giornalista della carta stampata"
+"giornalista di riviste"
+"giornalista e fotografo"
+"giornalista pubblicista"
+*[[articolista]]; ''(di cronaca)'' [[cronista]]; ''(che invia le sue corrispondenze)'' [[corrispondente]], [[reporter]], [[inviato]]
+*''(specif.)'' [[elzevirista]], [[ notista]],[[ pubblicista]]
+*italiano
+M>fare il g</E
+M>essere iscritto all’albo dei g</E
+M>professionista</E
+M>pubblicista</E
+M>sportivo</E
+M>parlamentare</E
+M>g. della carta stampata</E
+M>radiofonico</E
+M>televisivo</E
+M>g. d’assalto</E

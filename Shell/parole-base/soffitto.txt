@@ -1,0 +1,17 @@
+soffitto.txt
+"dal soffitto alto"
+"fare un soffitto a cassettoni"
+"impianti da soffitto"
+"soffitto"
+"ventilatore da soffitto"
+M>ctus</E
+M>xus</E
+M>ffig</E
+M>fig</E
+M>s. a volta</E
+M>a cassettoni</E
+M>s. decorato a stucchi</E
+M>controsoffitto.</E
+M>tetto</E
+M>ceiling</E
+M>quota di tangenza</E

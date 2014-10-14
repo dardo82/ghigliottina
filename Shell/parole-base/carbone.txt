@@ -1,0 +1,92 @@
+carbone.txt
+"a carbone"
+"alimentato a carbone"
+"arco a carbone"
+"brace di carbone"
+"carbone"
+"carbone antracite"
+"carbone attivato"
+"carbone attivo"
+"carbone attivo"
+"carbone bituminoso"
+"carbone da gas"
+"carbone grezzo"
+"carta carbone"
+"centrale elettrica a carbone"
+"copia carbone"
+"copia carbone"
+"estrazione del carbone"
+"gas di carbone"
+"grigio carbone"
+"grigio carbone"
+"miniera di carbone"
+"miniera di carbone"
+"miniera di carbone"
+"nero carbone"
+"nero carbone"
+"polvere di carbone"
+"rifornire di carbone"
+"rifornire di carbone"
+"rifornirsi di carbone"
+*[[brace]]
+*[[carbonella]]
+*[[carbonite]]
+*italiano
+*francese
+M>carbo</E
+M>onis</E
+M>naturali</E
+M>fossili</E
+M>alginite</E
+M>cutinite</E
+M>resinite</E
+M>vitrinite</E
+M>sporinite</E
+M>clarite</E
+M>fusite</E
+M>durite</E
+M>vitrite</E
+M>antracite</E
+M>litantrace</E
+M>lignite</E
+M>torba</E
+M>artificiali</E
+M>animale</E
+M>nero animale</E
+M>amorfo</E
+M>attivo</E
+M>medicinale</E
+M>attivato</E
+M>di legna</E
+M>vegetale</E
+M>di storta</E
+M>coke</E
+M>dolce</E
+M>forte</E
+M>locomotiva a c</E
+M>stufa</E
+M>cucina</E
+M>termosifone a c</E
+M>fare c</E
+M>nero come il c</E
+M>ha l’anima nera come il c</E
+M>avere le mani</E
+M>il viso come il c</E
+M>occhi lucidi come due c</E
+M>accesi</E
+M>ardenti</E
+M>essere</E
+M>stare sui c</E
+M>accesi</E
+M>non riusciva a stare fermo</E
+M>come se fosse sui c</E
+M>accesi</E
+M>a misura di c</E
+M>Carta c</E
+M>microfono a c</E
+M>bianco</E
+M>azzurro</E
+M>rosso</E
+M>alcune bollicine infocate tra nere e rosse</E
+M>con certi razzetti lividi</E
+M>che si chiamavano c.</E

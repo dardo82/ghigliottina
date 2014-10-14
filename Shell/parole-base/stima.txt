@@ -1,0 +1,78 @@
+stima.txt
+"attestato di stima"
+"godere di stima"
+"grande riguardo per qc, grande stima di qc, molta stima di qc"
+"grande stima; considerazione"
+"in segno di stima e riconoscenza"
+"rispetti; guadagni; stima"
+"stima"
+"stima"
+"stima"
+"stima"
+"estimate"
+"stima"
+"stima di se stessi"
+"stima reciproca"
+"tenuto in grande stima"
+"tenuto in grande stima"
+#*'' quell'operaio ha la stima del su datore di lavoro''
+*[[ estimo]],[[ valutazione]] 
+*[[considerazione]],[[onore]], [[apprezzamento]],[[ ammirazione]], [[rispetto]]
+*[[disistima]],[[ discredito]], [[disprezzo]]
+*[[autostima]], [[disistima]]
+M>fare</E
+M>far fare la s. di un fondo rustico</E
+M>di un terreno fabbricativo</E
+M>di una casa</E
+M>di un quadro</E
+M>di un gioiello</E
+M>di una consulenza professionale</E
+M>di una prestazione tecnica</E
+M>senza stima</E
+M>per la morte del padre ... senza s. rimase ricchissimo</E
+M>il danno</E
+M> secondo la s. dei periti</E
+M> supera il milione di euro</E
+M>fare stima di</E
+M>faceva s. d&#8217;esser lui il responsabile</E
+M>faccia s. d&#8217;avere avuto quanto gli spetta</E
+M>una s. troppo alta</E
+M>mezzo milione di euro mi pare una s. equa</E
+M>stime</E
+M>s. morte</E
+M>s. vive</E
+M>s. per eccesso</E
+M>per difetto</E
+M>lettura a s.</E
+M>s. di un parametro della distribuzione</E
+M>stima</E
+M>stimatore</E
+M>teoria della s.</E
+M>s. della rotta</E
+M>punto stimato</E
+M>avere poca</E
+M>nessuna</E
+M>molta</E
+M>grande s. di qualcuno</E
+M>avere</E
+M>tenere qualcuno in grande s.</E
+M>essere tenuto in grande s.</E
+M>godere</E
+M>guadagnarsi la s. di tutti</E
+M>perdere</E
+M>riacquistare la s.</E
+M>dei proprî colleghi</E
+M>dei superiori</E
+M>non fare alcuna s. di una persona</E
+M>ricevere molte manifestazioni</E
+M>numerose attestazioni di stima</E
+M>successo di stima</E
+M>complemento di stima</E
+M>stimare molto</E
+M>poco</E
+M>più</E
+M>quanto lo stimi?</E
+M>stimare</E
+M>valere</E
+M>vale il doppio</E
+M>è stato stimato un milione di euro</E

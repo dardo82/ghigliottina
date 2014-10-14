@@ -1,0 +1,63 @@
+presidente.txt
+"co-presidente"
+"del presidente"
+"eleggere qualcuno presidente"
+"ex presidente"
+"fare il presidente"
+"first lady; moglie del Presidente degli USA"
+"funzioni del presidente"
+"generale presidente"
+"giorno dell'insediamento del Presidente"
+"incarico di presidente"
+"l'allora presidente"
+"presidente"
+"presidente comune"
+"presidente del consiglio"
+"presidente del consiglio di amministrazione"
+"presidente del consiglio di amministrazione"
+"Presidente della Camera dei Rappresentanti"
+"presidente della corte suprema"
+"presidente designato"
+"presidente di banca"
+"presidente di riunione"
+"presidente di seggio"
+"presidente pro tempore"
+"ruolo di presidente"
+"ufficio del presidente"
+"Vice Presidente"
+*[[capo]], [[direttore]],  [[sovrintendente]], [[manager]]
+M>éssa</E
+M>praes</E
+M>dens</E
+M>entis</E
+M>praesidere</E
+M>effettivo</E
+M>onorario</E
+M>il p</E
+M>della Banca d&#8217;Italia</E
+M>il p</E
+M>della commissione esaminatrice</E
+M>nella prima seduta del condominio fu nominato p</E
+M>il signor</E
+M>il p</E
+M>del seggio</E
+M>il p</E
+M>della giuria</E
+M>il p</E
+M>del tribunale</E
+M>della Corte dei conti</E
+M>il p</E
+M>della Camera</E
+M>del Senato</E
+M>il p</E
+M>del Consiglio</E
+M>dei ministri</E
+M>il p</E
+M>della Repubblica</E
+M>il nostro padre Felice</E
+M>che è il p</E
+M>qui del lazzaretto</E
+M>la p. del senato</E
+M>la p. della commissione</E
+M>la p. della Croce Rossa</E
+M>presidentessa</E

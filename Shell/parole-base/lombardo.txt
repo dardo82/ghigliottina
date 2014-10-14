@@ -1,0 +1,34 @@
+lombardo.txt
+"lombardo"
+"lombardo"
+"lombardo"
+#* ''lago lombardo, cucina lombarda, giornali lombardi''
+M>Longobardus</E
+M>Langobardus</E
+M>la pianura l</E
+M>le città l</E
+M>i costumi l</E
+M>l’industria</E
+M>l’attività l</E
+M>quella bellezza molle a un tempo e maestosa</E
+M>che brilla nel sangue l</E
+M>prima</E
+M>seconda lega l</E
+M>architettura l</E
+M>tetto alla l</E
+M>arcarecci</E
+M>terzere</E
+M>correnti</E
+M>dialetto l</E
+M>il lombardo</E
+M>poesie scritte in lombardo</E
+M>parlare lombardo</E
+M>ritmo l</E
+M>stile l</E
+M>la tradizionale cordialità e generosità dei Lombardi</E
+M>longobardo</E
+M>il lungo</E
+M>chiomato lombardo Ch’ultimo accampò sovra le rimboschite cime</E
+M>la cortesia del gran L</E
+M>Rue des Lombards</E
+M>Lombard Street</E

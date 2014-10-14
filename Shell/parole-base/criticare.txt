@@ -1,0 +1,32 @@
+criticare.txt
+"censurare severamente; criticare"
+"censurare, criticare severamente"
+"criticare"
+"criticare aspramente"
+"criticare aspramente"
+"criticare aspramente"
+"criticare aspramente"
+"criticare aspramente"
+"criticare duramente"
+"criticare minuziosamente"
+"criticare pesantemente qualcuno"
+"criticare pesantemente qualcuno"
+"criticare qcs"
+"criticare qualcuno"
+"Divertirsi a criticare qc\/qcs"
+"sparare a zero, criticare"
+*[[giudicare]], [[valutare]]
+*[[rimproverare]], [[disapprovare]]
+M>io crìtico</E
+M>tu crìtichi</E
+M>un film</E
+M>un dramma</E
+M>una dottrina</E
+M>un’opera d’arte</E
+M>il tuo contegno è stato molto criticato</E
+M>devi sempre c</E
+M>tutto!</E
+M>c’è poco da c</E
+M>farsi c.</E
+M>un’opera molto criticata</E
+M>una donna assai criticata</E

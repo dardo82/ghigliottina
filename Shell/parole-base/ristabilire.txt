@@ -1,0 +1,29 @@
+ristabilire.txt
+"ristabilire"
+"ristabilire"
+M>stabilire</E
+M>io ristabilisco</E
+M>tu ristabilisci</E
+M>il proprio domicilio</E
+M>la propria residenza in una città</E
+M>ristabilirsi in un luogo</E
+M>tentare</E
+M>vagheggiare di r</E
+M>la monarchia</E
+M>il potere temporale dei papi</E
+M>l&#8217;ordine in una città ribelle</E
+M>la legge</E
+M>la disciplina</E
+M>una consuetudine</E
+M>un divieto</E
+M>un principio morale</E
+M>scientifico</E
+M>la verità dei fatti</E
+M>le cure e il riposo ti ristabiliranno completamente in poco tempo</E
+M>ristabilirsi da una malattia</E
+M>da un grave esaurimento</E
+M>mi sono ormai pienamente ristabilito</E
+M>il tempo non accenna a ristabilirsi</E
+M>si va ristabilendo</E
+M>ti vedo ristabilito</E
+M>tornò dal mare del tutto ristabilito</E

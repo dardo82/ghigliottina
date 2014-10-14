@@ -1,0 +1,85 @@
+fabbrica.txt
+"chi fabbrica utensili"
+"difetto di fabbrica"
+"fabbrica"
+"fabbrica"
+"fabbrica con catena di montaggio"
+"fabbrica dei sogni"
+"fabbrica del ghiaccio"
+"fabbrica di scarpe"
+"fabbrica in cemento"
+"franco fabbrica"
+"marchio di fabbrica"
+"marchio di fabbrica"
+"marchio di fabbrica"
+"marchio di fabbrica"
+"negozio o fabbrica di piatti o targhe da collezione"
+"nuovo di fabbrica"
+"vetreria, fabbrica del vetro"
+#*''una fabbrica di piastrelle''
+*[[industria]], [[stabilimento]], [[manifattura]], [[opificio]],[[officina]], [[cantiere]], [[laboratorio]]
+*[[costruzione]], [[edificazione]], [[edificio]], [[fabbricato]]
+* [[abbattimento]], [[demolizione]]
+*[[fabbricare]], [[fabbricato]], [[fabbricazione]]
+m>fabr</e
+m>faber</e
+m>mettere mano alla f</e
+m>cominciare</e
+m>dirigere la f</e
+m>d&rsquo;un palazzo</e
+m>d&rsquo;un teatro</e
+m>d&rsquo;una chiesa</e
+m>la f</e
+m>di S</e
+m>Pietro</e
+m>la f</e
+m>del Duomo</e
+m>l&rsquo;opera del Duomo</e
+m>la f</e
+m>dell&rsquo;universo</e
+m>la f</e
+m>del mondo</e
+m>la f</e
+m>del corpo umano</e
+m>De humani corporis fabrica</e
+m>fabbricato</e
+m>una bella</e
+m>grande</e
+m>solida f</e
+m>una f</e
+m>ben disegnata</e
+m>è caduto da una f</e
+m>città ricca di notevoli f</e
+m>Corpo di fabbrica</e
+m>di stoviglie</e
+m>di ceramiche</e
+m>di merletti</e
+m>di bottoni</e
+m>di sapone</e
+m>di zucchero</e
+m>di carta</e
+m>d&rsquo;armi</e
+M>una f. di automobili</E
+m>il padrone</e
+m>il direttore</e
+m>il tecnico</e
+m>gl&rsquo;impiegati</e
+m>gli operai d&rsquo;una f</e
+m>aprire</e
+m>chiudere una f</e
+m>andare in f</e
+m>alla f</e
+m>prezzo di f</e
+m>consiglio di fabbrica</e
+m>capo fabbrica</e
+m>capofabbrica</e
+m>non ne ho mica la f</e
+m>di delitti</e
+m>di menzogne</e
+m>di birbanterie</e
+m>di chiacchiere</e
+m>la f</e
+m>dell&rsquo;appetito</e
+m>si fa</e
+m>si lavora per la f</e
+m>dell&rsquo;appetito</e

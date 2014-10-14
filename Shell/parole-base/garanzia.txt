@@ -1,0 +1,56 @@
+garanzia.txt
+"avviso di garanzia"
+"consorzi di garanzia"
+"estensione di garanzia"
+"fondo di garanzia"
+"fuori garanzia"
+"garanzia"
+"garanzia"
+"garanzia a norma di legge"
+"garanzia accessoria"
+"garanzia del posto di lavoro"
+"garanzia di offerta"
+"garanzia di un anno sul prodotto"
+"garanzia per il consumatore finale"
+"in garanzia"
+"la garanzia si esaurisce"
+"lettera di garanzia bancaria"
+"obbligazione a garanzia generica"
+"pegno, garanzia"
+"su garanzia"
+"trattenimento in garanzia"
+*[[copertura]], [[malleveria]], [[avallo]], [[cauzione]], [[affidabilità]], [[promessa]], [[assicurazione]]
+*[[garantire]], [[garantito]]
+M>garantie</E
+M>dare</E
+M>prestare g</E
+M>volere</E
+M>eseguire</E
+M>pretendere delle g</E
+M>reali</E
+M>diritti reali di garanzia</E
+M>personali</E
+M>patrimoniale</E
+M>fondo di garanzia</E
+M>lettera di garanzia</E
+M>costituzionali</E
+M>giurisdizionali</E
+M>amministrativa</E
+M>accordi di garanzia</E
+M>orologio con garanzia</E
+M>i nostri frigoriferi hanno una g</E
+M>di un anno</E
+M>di sei mesi</E
+M>di due anni</E
+M>l’autovettura è ancora in g</E
+M>la g</E
+M>dell’autovettura è già scaduta</E
+M>timbrare la garanzia</E
+M>impiegato che dà ottime g</E
+M>di rendimento</E
+M>l’affare offre buone g</E
+M>di riuscita</E
+M>un tentativo che dà poche</E
+M>scarse g</E
+M>non dà nessuna g</E
+M>di successo</E

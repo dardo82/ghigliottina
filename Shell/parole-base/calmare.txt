@@ -1,0 +1,24 @@
+calmare.txt
+"calmare"
+"calmare"
+"calmare, replace: calmarsi"
+"calmare la situazione"
+*[[tranquillizzare]], [[sedare]], [[chetare]] ''(regionale) (obsoleto)''
+*[[agitare]], [[tormentare]]
+M>Eolo calmò i venti</E
+M>vedendo il ragazzo così agitato</E
+M>cercai di calmarlo</E
+M>l’ira</E
+M>lo sdegno</E
+M>le passioni</E
+M>i nervi</E
+M>il dolore</E
+M>il mare si sta calmando</E
+M>il suo furore si calmò a poco a poco</E
+M>càlmati</E
+M>non gridare così</E
+M>si calmi</E
+M>non è nulla</E
+M>acciai calmati</E
+M>acciai non calmati</E
+M>semicalmati</E

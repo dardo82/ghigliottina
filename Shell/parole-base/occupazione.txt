@@ -1,0 +1,83 @@
+occupazione.txt
+"esercito d'occupazione"
+"forza d'occupazione"
+"occupazione"
+"occupazione"
+"occupazione"
+"occupazione"
+"occupazione abusiva"
+"occupazione del suolo pubblico"
+"piccola occupazione"
+"piena occupazione"
+*''(militare di un territorio)'' [[invasione]], [[conquista]], [[controllo]], [[presa di possesso]] 
+*[[attività]], [[impegno]], [[affare]], [[faccenda]], [[passatempo]], [[hobby]], [[svago]]
+*[[lavoro]], [[impiego]], [[posto]], [[attività]]
+*''(di un luogo)'' [[stanziamento]], [[popolamento]]
+*''(militare di un territorio)'' [[ritiro]], [[abbandono]], [[liberazione]]
+*''(di un luogo)'' [[abbandono]], [[evacuazione]]
+*[[disoccupazione]] 
+*[[piano occupazione]], [[occupazionale]]
+*[[occupabile]], [[occupare]], [[occupato]], [[occupatore]], 
+M>occupatio</E
+M>onis</E
+M>di terre</E
+M>di un fondo</E
+M>l’o</E
+M>delle fabbriche</E
+M>dell’università</E
+M>di una scuola</E
+M>di case</E
+M>di stabili abbandonati</E
+M>di aziende agricole e industriali</E
+M>occupazione</E
+M>di suolo</E
+M>di aree pubbliche</E
+M>l’o</E
+M>dell’Albania</E
+M>il periodo dell’o</E
+M>tedesca in Italia</E
+M>forze</E
+M>truppe d’occupazione</E
+M>bellica</E
+M>armistiziale</E
+M>convenzionale postbellica</E
+M>utili</E
+M>le o</E
+M>quotidiane</E
+M>abituali</E
+M>un’o</E
+M>divertente</E
+M>noiosa</E
+M> grave</E
+M>pesante</E
+M>le molte o</E
+M>mi hanno impedito di scriverti</E
+M>ho bisogno di avere sempre qualche o</E
+M>per distrarmi</E
+M>terapia d’o</E
+M>terapia occupazionale</E
+M>ergoterapia</E
+M>cercare</E
+M>trovare un’o</E
+M>avere</E
+M>non avere un’o</E
+M>fissa</E
+M>stabile</E
+M>gente senza alcuna o</E
+M>bene</E
+M>male retribuita</E
+M>precaria</E
+M>parziale</E
+M>sottoccupazione</E
+M>l’o</E
+M>agricola</E
+M>terziaria</E
+M>l’o</E
+M>giovanile</E
+M>livello</E
+M>tasso di o</E
+M>le leggi sull’o</E
+M>la crisi dell’occupazione</E
+M>Piena o</E
+M>totale</E
+M>full employment</E

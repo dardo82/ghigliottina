@@ -1,0 +1,235 @@
+chiaro.txt
+"affare poco chiaro; poco pulito"
+"apparire chiaro"
+"capelli castano chiaro ramati"
+"chiaro"
+"chiaro"
+"chiaro"
+"chiaro"
+"chiaro"
+"chiaro"
+"chiaro"
+"chiaro"
+"chiaro"
+"chiaro"
+"chiaro"
+"luminosità, chiarore"
+"chiaro"
+"colore chiaro"
+"chiaro come il giorno"
+"chiaro come il giorno"
+"chiaro di luna"
+"chiaro di luna"
+"chiaro e tondo"
+"chiaro e tondo"
+"chiaro, distinto, netto"
+"chiaro, distinto, netto"
+"colore chiaro"
+"essere chiaro"
+"forte e chiaro"
+"forte e chiaro"
+"in chiaro"
+"marrone chiaro"
+"marrone chiaro"
+"nocciola chiaro"
+"non avere peli sulla lingua, parlare chiaro"
+"non avere peli sulla lingua, parlare chiaro"
+"non chiaro"
+"non chiaro"
+"non chiaro"
+"non chiaro"
+"ovvio, chiaro"
+"parla chiaro!"
+"parlar chiaro"
+"parlare chiaro"
+"parlare chiaro"
+"parlare chiaro"
+"parlare chiaro con qualcuno"
+"rendere chiaro"
+"rendere poco chiaro"
+"rosso chiaro"
+"Sia ben chiaro"
+"sia chiaro!"
+"sono stato chiaro?"
+"trasmissione in chiaro"
+"tutto chiaro"
+"vederci chiaro"
+"voglio vederci chiaro"
+*[[limpido]], [[luminoso]]
+*[[scuro]], [[torbido]]
+*[[chiaramente]], [[chiarezza]], [[chiarificare]], [[chiarire]], [[chiarore]], [[chiaroscuro]], [[chiaroveggente]], [[Chiara]]
+M>clarus</E
+M>oscuro</E
+M>una luce ch</E
+M>c’è un bel sole ch</E
+M>le ch</E
+M>stelle</E
+M>giorno ch</E
+M>dormire fino a ch</E
+M>giorno</E
+M>una stanza ch</E
+M>fosco</E
+M>una ch</E
+M>mattina di maggio</E
+M>torbido</E
+M>opaco</E
+M>Chiare fresche e dolci acque</E
+M>E chiaro nella valle il fiume appare</E
+M>chi vuol dell’acqua ch</E
+M>vada alla fonte</E
+M>vino</E
+M>olio ch</E
+M>come il cristallo</E
+M>come l’ambra</E
+M>scuro</E
+M>carico</E
+M>cupo</E
+M>giallo ch</E
+M>rosso ch</E
+M>verde ch</E
+M>celeste ch</E
+M>un abito ch</E
+M>una carnagione molto chiara</E
+M>colori ch</E
+M>i suoi lamenti Rotti da un ch</E
+M>suon</E
+M>lèggere</E
+M>recitare con voce ch</E
+M>dire</E
+M>cantare a ch</E
+M>note</E
+M>vocali ch</E
+M>scure</E
+M>sorde</E
+M>è regola comune d’agricoltura che gli ulivi si debbano tener ch</E
+M>e radi di chioma</E
+M>un uomo ch</E
+M>per dottrina</E
+M>per ingegno</E
+M>le sue opere hanno reso ch</E
+M>il suo nome</E
+M>Fêrsi i più ch</E
+M>avanti</E
+M>e i nomi loro Del fondo si cavâr d’un elmo a sorte</E
+M>per l’opre sue ch</E
+M>e famose Fu fatto capitan di quelle squadre</E
+M>queste zolle</E
+M>Che fien lodate e ch</E
+M>eternamente</E
+M>di ch</E
+M>fama</E
+M>professore universitario</E
+M>per ch</E
+M>fama</E
+M>chiarissimo</E
+M>sguardo</E
+M>occhio ch</E
+M>non hai l’occhio troppo ch</E
+M>occhi ch</E
+M>una faccia ch</E
+M>avere i concetti ch</E
+M>non so se ho rese ch</E
+M>le idee</E
+M>non ho un’idea ben ch</E
+M>di ciò che avviene</E
+M>avevo idee poco ch</E
+M>in proposito</E
+M>esporre in modo ch</E
+M>ha fatto un discorso ch</E
+M>e ordinato</E
+M>il tuo articolo non mi è riuscito troppo ch</E
+M>scrittore ch</E
+M>essere ch</E
+M>sono stato ch</E
+M>non si può essere più chiari di così</E
+M>la verità è ch</E
+M>e lampante come la luce del sole</E
+M>fare ch</E
+M>una cosa</E
+M>chi si scusa senz’essere accusato</E
+M>fa ch</E
+M>il suo peccato</E
+M>è chiaro che hai torto tu</E
+M>rispondere con un no ch</E
+M>e tondo</E
+M>opporre un rifiuto ch</E
+M>e netto</E
+M>patti ch</E
+M>e amicizia lunga</E
+M>patti ch</E
+M>amici cari</E
+M>essere ch</E
+M>di una cosa</E
+M>sono interamente ch</E
+M>della verità del fatto</E
+M>fare ch</E
+M>qualcuno di</E
+M>una cosa</E
+M>se tu mi fai chiaro di quattro cose</E
+M>io ti perdonerò in tutto</E
+M>rimanere ch</E
+M>di una cosa</E
+M>cavo ch</E
+M>catena ch</E
+M>un bel ch</E
+M>di luna</E
+M>al ch</E
+M>del sole</E
+M>al ch</E
+M>del giorno</E
+M>fare le cose al ch</E
+M>del giorno</E
+M>chiaro</E
+M>il chiaro</E
+M>buio</E
+M>alzarsi col ch</E
+M>appena viene il ch</E
+M>appena si fa ch</E
+M>svégliati</E
+M>poltrone</E
+M>non vedi che è già ch</E
+M>andare a letto col ch</E
+M>quando è ancora ch.</E
+M>c’è troppo ch</E
+M>qui</E
+M>accosta un po’ le persiane</E
+M>non posso prendere sonno con questo ch</E
+M>come fai a leggere in quell’angolo buio</E
+M>vieni qui che c’è più ch</E
+M>vestire di ch</E
+M>il ch</E
+M>va molto quest’anno</E
+M>mettere in ch</E
+M>una cosa</E
+M>è una faccenda che mi preme di mettere in ch</E
+M>mettere in ch</E
+M>un cavo</E
+M>una catena</E
+M>venire in ch</E
+M>di una cosa</E
+M>in chiaro</E
+M>in cifra</E
+M>messaggi telegrafici in c</E
+M>trasmettere in chiaro</E
+M>dire ch</E
+M>parlar ch</E
+M>e tondo</E
+M>e netto</E
+M>parliamoci chiaro!</E
+M>Assai la voce lor chiaro l’abbaia</E
+M>non ci vedo ch</E
+M>in questa faccenda</E
+M>vedere</E
+M>udire</E
+M>comprendere chiaramente</E
+M>scrivere chiaramente</E
+M>parlare</E
+M>pronunciare chiaramente</E
+M>era chiaramente imbarazzato</E
+M>mi hanno spiegato chiaramente che non dovevo farmi illusioni</E
+M>chiaramente è lui ad avere torto</E
+M>chiaramente</E
+M> non intendo contestare nulla</E
+M>la responsabilità della sconfitta</E
+M> chiaramente</E
+M> è di tutti</E

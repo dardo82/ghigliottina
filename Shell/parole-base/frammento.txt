@@ -1,0 +1,31 @@
+frammento.txt
+"frammento"
+#*scoprirono  un piccolo frammento di quel mosaico che si era scostato''
+*[[pezzo]], [[pezzetto]], [[frantume]], [[particella]]
+*''(di stoffa)'' [[brandello]]
+*''(di metallo, pietra)'' [[scheggia]]
+*''(di terracotta, vetro)'' [[coccio]]
+* ''(di alimento)'' [[briciola]]
+*[[frammentare]]
+M>fragmentum</E
+M>frang</E
+M>un f</E
+M>di vetro</E
+M>di ceramica</E
+M>un f</E
+M>d’osso</E
+M>un f</E
+M>del frontone del Partenone</E
+M>esaminare al microscopio un f</E
+M>di tessuto</E
+M>frammenti di fissione nucleare</E
+M>i f</E
+M>degli storici greci</E
+M>i f</E
+M>di Saffo</E
+M>di Alceo</E
+M>i f</E
+M>delle</E
+M>Grazie</E
+M>del Foscolo</E
+M>Digesto</E

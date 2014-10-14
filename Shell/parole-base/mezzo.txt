@@ -1,0 +1,141 @@
+mezzo.txt
+"(trovarsi) nel bel mezzo di"
+"a mezzo cane (posizione di sicura del grilletto)"
+"a mezzo di"
+"a mezzo sorriso"
+"a mezzo stampa"
+"Andarci di mezzo"
+"aurea mediocritas; giusto mezzo"
+"aurea mediocritas; giusto mezzo"
+"bicchiere mezzo pieno"
+"che dura mezzo minuto"
+"con ogni mezzo"
+"da mezzo centesimo"
+"da mezzo dollaro"
+"da mezzo gallone"
+"da mezzo piede (misura)"
+"della terra di mezzo"
+"di mezzo"
+"di mezzo acro"
+"il giusto mezzo"
+"in mezzo"
+"in mezzo al nulla, in un posto sperduto"
+"in mezzo alla strada"
+"in mezzo alle cose"
+"in mezzo secondo"
+"la verità sta nel mezzo"
+"levarsi di mezzo"
+"mal comune, mezzo gaudio"
+"metter in mezzo"
+"metter in mezzo"
+"mettersi in mezzo"
+"mezzo"
+"mezzo"
+"mezzo"
+"intermedio, di mezzo"
+"mezzo"
+"mezzo"
+"mezzo"
+"mezzo"
+"mezzo"
+"mezzo di trasporto, veicolo"
+"mezzo"
+"mezzo addormentato"
+"mezzo addormentato"
+"mezzo asiatico"
+"mezzo bianco"
+"mezzo cavallo"
+"mezzo centesimo"
+"mezzo cieco"
+"mezzo crudo, cotto a metà"
+"mezzo da sbarco"
+"mezzo destro"
+"mezzo di accesso"
+"mezzo di comunicazione"
+"mezzo di negoziazione"
+"mezzo di pagamento"
+"mezzo di produzione"
+"mezzo di ricorso"
+"mezzo di scambio"
+"mezzo di trasporto"
+"mezzo dimenticato"
+"mezzo dollaro"
+"mezzo forte"
+"mezzo forte"
+"mezzo ghiacciato"
+"mezzo informatico"
+"mezzo inglese"
+"mezzo matto"
+"mezzo matto"
+"mezzo miglio"
+"mezzo militare a trazione posteriore"
+"mezzo morto"
+"mezzo morto"
+"mezzo morto"
+"mezzo morto"
+"mezzo morto di fame"
+"mezzo nudo"
+"mezzo passo su una scala"
+"mezzo pazzo"
+"mezzo per un fine"
+"mezzo pesante"
+"mezzo pieno"
+"mezzo pollice"
+"mezzo sangue"
+"mezzo secondo"
+"mezzo sepolto"
+"mezzo sinistro"
+"mezzo sommerso"
+"mezzo soprano"
+"mezzo-soprano"
+"mezzo sveglio"
+"mezzo ubriaco"
+"mezzo uomo"
+"mezzo usato"
+"mezzo vestito"
+"mezzogiorno e mezzo"
+"nel mezzo"
+"nel mezzo"
+"nel mezzo"
+"nel mezzo del discorso"
+"nel mezzo del nulla"
+"nel mezzo di"
+"otto battute e mezzo"
+"per mezzo di"
+"per mezzo di"
+#*''Ho comprato '''mezzo''' litro di latte''
+#*''È un uomo di '''mezz''''età''
+#*''Una sconfitta consapevole è una '''mezza''' vittoria''
+#*''Andava in giro '''mezza''' svestita''
+#*''È alto un metro e '''mezzo'''''
+#*''Sono le otto e '''mezzo'''''
+#*''Nel '''mezzo''' della stanza c'era una pozzanghera di sangue''
+#*''Se ne andò nel bel '''mezzo''' della festa.''
+#*''Ha provato con tutti i mezzi di trovarla ma non ci è riuscito''
+* bagnato fradicio / futto troppo maturo
+* bagnato fradicio
+*''(parte di un tutto)'' [[metà]], a metà
+*''(parzialmente)''  [[quasi]]
+* ''(strumento per fare qualcosa)'' [[modo]]
+*[[sette e mezzo]]
+*''a brigante, brigante e 
+*italiano
+M>tius</E
+M>tis</E
+M>tius</E
+M>una pera</E
+M>una mela m</E
+M>queste albicocche sono tutte mezze</E
+M>mangiare il buono e buttar via il mezzo</E
+M>è proprio m</E
+M>è m</E
+M>nell’anima</E
+M>aveva i vestiti m</E
+M>le scarpe m</E
+M>era tutto m</E
+M>quando arrivò a casa</E
+M>esser m</E
+M>di vino</E
+M>era ubriaco m</E
+M>Così girammo de la lorda pozza Grand’arco</E
+M>tra la ripa secca e ’l mezzo</E

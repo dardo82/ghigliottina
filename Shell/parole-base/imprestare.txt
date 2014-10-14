@@ -1,0 +1,5 @@
+imprestare.txt
+"imprestare"
+M>prestare</E
+M>io imprèsto</E
+M>prestare</E

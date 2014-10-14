@@ -1,0 +1,59 @@
+testamento.txt
+"convalidare un testamento"
+"disporre per testamento"
+"fare testamento"
+"il Vecchio Testamento"
+"Nuovo Testamento"
+"Nuovo Testamento"
+"organo avente giurisdizione sulla convalida di un testamento e il conferimento del diritto all'ammin"
+"testamento"
+"testamento"
+"Vecchio Testamento"
+"Vecchio Testamento"
+"Vecchio Testamento"
+*[[ultime volontà]]
+M>testamentum</E
+M>testari</E
+M>t. pubblico</E
+M>t. segreto</E
+M>t. olografo</E
+M>t. congiuntivo</E
+M>reciproco</E
+M>t. speciale</E
+M>t. biologico</E
+M>living will</E
+M>t. nuncupativo</E
+M>fare testamento</E
+M>puoi fare t.!</E
+M>ormai può fare t.</E
+M>è morto senza t.</E
+M>senza far t.</E
+M>disporre per t. dei proprî beni</E
+M>lasciare per t. qualche cosa a qualcuno</E
+M>ricevere</E
+M>ereditare per t.</E
+M>apertura</E
+M>pubblicazione</E
+M>esecuzione del t.</E
+M>impugnare</E
+M>invalidare</E
+M>annullare un t.</E
+M>le clausole</E
+M>i codicilli del testamento.</E
+M>T. spirituale</E
+M>contrasto</E
+M>zinganetta</E
+M>dottore</E
+M>testamentum</E
+M>Vecchio</E
+M>Antico</E
+M>Testamento</E
+M>Nuovo Testamento</E
+M>Avete il novo e &#8217;l vecchio Testamento</E
+M> E &#8217;l pastor della Chiesa che vi guida; Questo vi basti a vostro salvamento</E
+M>le vicende degli Ebrei nel tempo del Vecchio T.</E
+M>il messaggio di carità lasciato da Gesù agli uomini del Nuovo Testamento.</E
+M>T. di Adamo</E
+M>T. di Abramo</E
+M>T. di Giobbe</E
+M>T. dei dodici Patriarchi.</E

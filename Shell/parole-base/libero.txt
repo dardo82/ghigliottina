@@ -1,0 +1,359 @@
+libero.txt
+"a tiro libero"
+"abbigliamento per il tempo libero"
+"accesso libero"
+"affittabile; libero (es: taxi)"
+"allevamento all'aperto, allevamento libero"
+"attrezzature per il tempo libero"
+"battitore libero"
+"bordo libero"
+"calcio di punizione; tiro libero (rugby)"
+"cammino libero medio"
+"campo libero"
+"capitale libero"
+"che ha il cuore libero"
+"corpo libero"
+"corso libero"
+"costo libero"
+"credito libero"
+"di spirito libero"
+"discorso libero"
+"è un paese libero"
+"elettrone libero"
+"essere a piede libero"
+"essere libero"
+"gioco libero"
+"giorno libero"
+"il telefono suona libero"
+"lasciare libero"
+"lasciare libero il passaggio."
+"lavorare come libero professionista"
+"liberare, lasciare libero"
+"libero"
+"libero"
+"libero"
+"libero"
+"libero"
+"libero"
+"libero"
+"libero"
+"libero"
+"libero"
+"libero accesso"
+"libero accesso"
+"libero agire"
+"libero amore"
+"libero arbitrio"
+"libero cittadino"
+"libero come un uccello"
+"libero da"
+"libero da"
+"libero da ghiaccio"
+"libero da vincoli, libero da obblighi"
+"libero dal lavoro"
+"libero dall'errore"
+"libero di non crederci"
+"libero pensatore"
+"libero pensiero"
+"libero professionista"
+"libero scambio"
+"libero, non fidanzato"
+"libero; a disposizione"
+"linea di tiro libero"
+"linea di tiro libero"
+"mantenere libero"
+"mondo libero"
+"nato libero"
+"nuotare a stile libero"
+"nuoto libero"
+"pelo libero"
+"pensiero libero"
+"pollame libero"
+"praticante del libero amore"
+"radicale libero"
+"rapido e libero"
+"rendere libero"
+"segnale di libero"
+"sentirsi libero"
+"spazio libero in altezza"
+"spirito libero"
+"stile libero"
+"stile libero"
+"suolo libero"
+"tempo libero"
+"tempo libero"
+"tempo libero"
+"tempo libero"
+"tenersi libero da"
+"testo libero"
+"tiro libero"
+"tiro libero"
+"uomo libero"
+"verso libero"
+"volo libero"
+"voto libero"
+"zona di libero scambio"
+#*''dopo due anni di galera sono tornato 
+#*''oggi scriveremo un testo 
+#*''riesci a telefonare? sì, dà 
+#*''gli sto telefonando adesso, dà 
+#*''hai un impegno? no, sono 
+#*''finalmente sono 
+*[[liberamente]]
+*[[libertà]]
+M>liber</E
+M>rum</E
+M>uomo l</E
+M>di condizione libera</E
+M>i l</E
+M>far l</E
+M>uno schiavo</E
+M>lasciare l</E
+M>un prigioniero</E
+M>un detenuto</E
+M>dopo un breve interrogatorio</E
+M>le persone fermate furono lasciate libere</E
+M>nazione l</E
+M>fare la patria l</E
+M>città l</E
+M>territorio l</E
+M>chi diviene patrone di una città consueta a vivere l</E
+M>e non la disfaccia</E
+M>aspetti di essere disfatto da quella</E
+M>popolo l</E
+M>cittadino</E
+M>pensatori</E
+M>pensiero</E
+M>muratori</E
+M>free</E
+M>masons</E
+M>francs</E
+M>maçons</E
+M>comunità protestanti</E
+M>cristianesimo</E
+M>chiedere con l</E
+M>fronte</E
+M>uomo di l</E
+M>sentimenti</E
+M>sostenere con l</E
+M>animo la propria causa</E
+M>scrivere con l</E
+M>penna</E
+M>lasciare l</E
+M>la capra a pascolare nel prato</E
+M>lasciar l</E
+M>il cavallo dal morso</E
+M>aprì la gabbia e l’uccellino volò via l</E
+M>bestiame che vive allo stato l</E
+M>lasciar l</E
+M>lasciare l</E
+M>un gas</E
+M>lasciare l</E
+M>corso ai proprî pensieri</E
+M>alla fantasia</E
+M>alla parola</E
+M>alle passioni</E
+M>essere l</E
+M>di sé</E
+M>delle proprie decisioni</E
+M>dei proprî movimenti</E
+M>siete l</E
+M>di andare o rimanere</E
+M>sei l</E
+M>di pensare ciò che vuoi</E
+M>ho sempre sognato di vivere l</E
+M>in una casa tutta mia</E
+M>far vita l</E
+M>amare la vita l</E
+M>donna l</E
+M>quei ragazzi son cresciuti troppo liberi</E
+M>è troppo l</E
+M>nel discorso</E
+M>linguaggio l</E
+M>maniere l</E
+M>scherzi troppo l</E
+M>un fare l</E
+M>modi l</E
+M>uomo l</E
+M>fede di stato l</E
+M>lasciare l</E
+M>un impiegato</E
+M>lasciare l</E
+M>la segretaria</E
+M>appena l</E
+M>verrò a trovarti</E
+M>in questo momento il direttore non è l</E
+M>domani avrò la mattinata l</E
+M>non ho mai un minuto l</E
+M>nelle ore l</E
+M>mi dedico alla lettura</E
+M>tempo l</E
+M>da vizî</E
+M>da difetti</E
+M>da noie</E
+M>da pregiudizî</E
+M>ingresso l</E
+M>avere l</E
+M>accesso</E
+M>uscita</E
+M>navigazione l</E
+M>esercizio della professione</E
+M>amore</E
+M>amore l</E
+M>unione l</E
+M>traduzione l</E
+M>traduzione letterale</E
+M>economia l</E
+M>mercato l</E
+M>concorrenza</E
+M>radio l</E
+M>televisione l</E
+M>chiese</E
+M>commercio l</E
+M>stampa l</E
+M>diritto di l</E
+M>associazione</E
+M>esercizio del culto</E
+M>libertà</E
+M>libertà di commercio</E
+M>di stampa</E
+M>di associazione</E
+M>scambio</E
+M>libre</E
+M>échange</E
+M>free</E
+M>trade</E
+M>libertà degli scambî</E
+M>area</E
+M>zona di l</E
+M>scambio</E
+M>professioni l</E
+M>insegnamento l</E
+M>università l</E
+M>docente</E
+M>docenza</E
+M>arbitrio</E
+M>atto di l</E
+M>volontà</E
+M>Lume v’è dato a bene e a malizia</E
+M>E l</E
+M>voler</E
+M>esame</E
+M>scelta</E
+M>consenso</E
+M>elezioni</E
+M>voto</E
+M>avere l</E
+M>il movimento del braccio</E
+M>avere le mani l</E
+M>avere mano l</E
+M>le mani l</E
+M>disegno a mano l</E
+M>piede l</E
+M>essere</E
+M>lasciare a piede l</E
+M>ruota l</E
+M>a ruota l</E
+M>appena beve qualche bicchiere</E
+M>si mette a parlare a ruota libera</E
+M>fondo l</E
+M>da ipoteche</E
+M>da servitù</E
+M>nuova costruzione l</E
+M>da imposte</E
+M>appartamento da affittare l</E
+M>da contratto</E
+M>trovare</E
+M>non trovare uno spazio l</E
+M>non c’era un posto l</E
+M>in tutto il teatro</E
+M>nell’autobus</E
+M>campo l</E
+M>avere</E
+M>dare</E
+M>lasciare campo libero</E
+M>mi è stato impossibile trovare un taxi libero</E
+M>con tanti treni in arrivo</E
+M>è sempre difficile trovare un portabagagli l</E
+M>il telefono è finalmente l</E
+M>trovare</E
+M>lasciare l</E
+M>la linea</E
+M>appartamento l</E
+M>stanza l</E
+M>mare l</E
+M>spazio l</E
+M>aria l</E
+M>all’aria l</E
+M>lasciare l</E
+M>il passaggio</E
+M>il fiume</E
+M> uscendo dalla città</E
+M> si allontana</E
+M> con bizzarre svolte</E
+M> nella campagna</E
+M> finalmente l. da case e da ponti</E
+M>dare</E
+M>lasciare via l</E
+M>avere via l</E
+M>via l</E
+M>dare via l</E
+M>avere la rotta l</E
+M>Bordo l</E
+M>Carta l</E
+M>conto l</E
+M>credito l</E
+M>filamenti staminali l</E
+M>uniti</E
+M>concresciuti</E
+M>ovario</E
+M>pistillo l</E
+M>exarato</E
+M>allo stato l</E
+M>assi l</E
+M>spontanei</E
+M>elettrone l</E
+M>di conduzione</E
+M>superficie l</E
+M>pelo l</E
+M>sillaba l</E
+M>sillaba aperta</E
+M>vocale l</E
+M>in posizione l</E
+M>vena</E
+M>discorso indiretto l</E
+M>pratica</E
+M>metro l</E
+M>canzone l</E
+M>strofe l</E
+M>versi l</E
+M>versi l</E
+M>sciolti</E
+M>verso l</E
+M>associazione</E
+M>esercizî l</E
+M>esercizî a corpo l</E
+M>stile l</E
+M>crawl</E
+M>ascensione l</E
+M>in libera</E
+M>discesa l</E
+M>libero</E
+M>battitore l</E
+M>categoria dei l</E
+M>Squadra di liberi</E
+M>t. libero</E
+M>parlare libero</E
+M>alla libera</E
+M>parlare</E
+M>trattare</E
+M>discutere alla libera</E
+M>nazione governata liberamente</E
+M>dimmi liberamente il tuo pensiero</E
+M>comandami pure liberamente</E
+M>qui siamo soli e possiamo parlare liberamente</E
+M>ognuno può entrare liberamente</E
+M>La tua benignità non pur soccorre A chi domanda</E
+M>ma molte fïate Liberamente al dimandar precorre</E
+M>liberamente gliel concedette</E
+M>quantunque noioso gli fosse il da lui dipartirsi</E

@@ -1,0 +1,28 @@
+modificare.txt
+"modificare"
+"modificare"
+"modificare leggermente"
+#* ''modificare una legge, una  casa, un progetto''
+* [[cambiare]], [[mutare]], [[rettificare]], [[variare]]
+* [[modifica]]
+M>modificare</E
+M>modus</E
+M>fac</E
+M>io modìfico</E
+M>tu modìfichi</E
+M>la linea di una carrozzeria</E
+M>la sagoma di un mobile</E
+M>il progetto di un edificio</E
+M>il proprio piano di lavoro</E
+M>lo statuto di una società</E
+M>una legge</E
+M>un regolamento</E
+M>cerca di m</E
+M>la tua condotta</E
+M>gli organismi possono modificarsi per influenza dell’ambiente</E
+M>il suo carattere s’è molto modificato in questi ultimi anni</E
+M>la bozza modificata di un progetto</E
+M>olî modificati</E
+M>resine modificate</E
+M>motore modificato</E
+M>una berlina modificata</E

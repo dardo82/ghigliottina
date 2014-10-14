@@ -1,0 +1,36 @@
+incassare.txt
+"incassare"
+"incassare"
+"incassare"
+"incassare assegni"
+"incassare un assegno"
+M>i libri</E
+M>gli arnesi</E
+M>la merce per la spedizione</E
+M>un defunto</E
+M>incassatura</E
+M>il meccanismo dell’orologio</E
+M>la presa di corrente</E
+M>una serratura</E
+M>un armadio a muro</E
+M>un elettrodomestico</E
+M>un fiume</E
+M>le tessere musive</E
+M>una gemma</E
+M>un libro nella copertina</E
+M>oggi i clienti sono stati pochi e abbiamo incassato soltanto 75 euro</E
+M>sono debiti che non riusciamo a i</E
+M>un assegno</E
+M>una rete</E
+M>avere</E
+M>il coperchio non incassa bene</E
+M>roccia incassante</E
+M>i libri sono già tutti incassati per il trasloco</E
+M>orologio ben incassato</E
+M>una strada incassata</E
+M>una valle profondamente incassata</E
+M>occhi incassati</E
+M>camminava curvo</E
+M>con la testa incassata nelle spalle</E
+M>scudo incassato</E
+M>di rosso incassato d’argento a sinistra</E

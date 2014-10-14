@@ -1,0 +1,37 @@
+assalire.txt
+"assalire"
+"assalire"
+"assalire qualcuno"
+"attaccare qc, assalire qc"
+"attaccare qcs\/qc, assalire qcs\/qc"
+"attaccare violentemente, assalire brutalmente"
+"attaccare; assalire"
+"non assalire"
+:*[[assaltare]]
+:*[[assalto]]
+M>assalire</E
+M>adsilire</E
+M>salire</E
+M>io assalgo</E
+M>tu assali</E
+M>io assalisco</E
+M>tu assalisci</E
+M>assalìi</E
+M>assalsi</E
+M>assalisti</E
+M>il nemico</E
+M>le posizioni nemiche</E
+M>fu assalito da due sconosciuti</E
+M>il furgone è stato assalito da tre uomini mascherati</E
+M>lo assalì con ogni sorta d’ingiurie</E
+M>con un’infinità di domande</E
+M>essere assalito dai rimorsi</E
+M>dalla gelosia</E
+M>dai brividi</E
+M>la febbre lo assalì d’improvviso</E
+M>fu assalito ad un tratto da mille pensieri</E
+M>s’io giaccio in riposo</E
+M>il tedio assale</E
+M>prese la valigia dall’armadio e incominciò a riempirla</E
+M> ma a metà lo assalì una stanchezza al collo</E
+M> alle spalle</E

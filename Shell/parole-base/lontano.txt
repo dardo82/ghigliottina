@@ -1,0 +1,232 @@
+lontano.txt
+"andare lontano"
+"andare lontano"
+"andare lontano; fare strada"
+"arrivare lontano"
+"arrivare lontano; fare strada (fig.)"
+"ben lontano da"
+"chi va piano va sano e va lontano"
+"da lontano"
+"da lontano"
+"detenzione in un luogo lontano, prigionia in un luogo lontano"
+"dirigersi lontano da"
+"divaricato, ben lontano"
+"essere lontano da"
+"futuro lontano"
+"il più lontano"
+"il più lontano"
+"il più lontano"
+"il più lontano"
+"il più lontano"
+"il più lontano"
+"lontano"
+"lontano"
+"lontano"
+"lontano da"
+"lontano da casa"
+"lontano da casa"
+"lontano da casa"
+"lontano dagli occhi lontano dal cuore"
+"lontano dal centro"
+"lontano dal centro"
+"lontano dal palco"
+"lontano un miglio"
+"lontano, remoto"
+"mettere qualcosa lontano dalla vista"
+"molto lontano"
+"molto lontano"
+"molto lontano"
+"nel lontano est"
+"nel lontano nord"
+"nel lontano ovest"
+"nel lontano sud"
+"non lontano"
+"non lontano da"
+"non lontano da"
+"orizzonte lontano"
+"più lontano"
+"più lontano di"
+"più lontano possibile"
+"quanto lontano?, quanto distante?"
+"salpare lontano da"
+"stare lontano"
+"stare lontano da"
+"stare lontano da"
+"tenere lontano"
+"tenere lontano"
+"tenere lontano"
+"tenere lontano da"
+"tenersi lontano dalla vista"
+"un luogo lontano"
+"vedere lontano"
+"vicino e lontano"
+"vivere lontano"
+#*'' un battello 
+#*''rifugiarsi 
+* [[distante]]
+* [[vicino]]
+*[[lontananza]], [[lontanamente]]
+M>*longitanus</E
+M>longe</E
+M>regione</E
+M>città l</E
+M>nel l</E
+M>Giappone</E
+M>nelle l</E
+M>Americhe</E
+M>nelle steppe l</E
+M>recarsi in un posto l</E
+M>in una strada l</E
+M>la nave era già l</E
+M>quando volli richiamarlo</E
+M>egli era ormai l</E
+M>ripensare alla patria l</E
+M>ai figli lontani</E
+M>la villa non deve essere molto lontana da qui</E
+M>siamo ancora lontani dalla meta</E
+M>erano seduti lontani uno dall’altro</E
+M>sono vissuti sempre lontani dai genitori</E
+M>brindo agli amici vicini e l</E
+M>quant’è che tu venisti Al piè del monte per le l</E
+M>acque?</E
+M>poco</E
+M>molto</E
+M>troppo l</E
+M>eravamo lontani un miglio dalla costa</E
+M>il paese è l</E
+M>pochi chilometri</E
+M>in epoche lontanissime</E
+M>infinitamente lontane</E
+M>in tempi assai l</E
+M>da noi</E
+M>in un l</E
+M>avvenire</E
+M>in un domani più o meno l</E
+M>la conclusione è ancora l</E
+M>l’inverno non è l</E
+M>ormai</E
+M>ricordi l</E
+M>Di cui la fama ancor nel mondo dura</E
+M>E durerà quanto ’l mondo lontana</E
+M>tenere qualcuno l</E
+M>dal male</E
+M>dai pericoli</E
+M>tenersi l</E
+M>dalle tentazioni</E
+M>l’igiene tiene lontane le malattie</E
+M>le tue supposizioni sono lontanissime dal vero</E
+M>un’idea simile è l</E
+M>dalle mie intenzioni</E
+M>era troppo l</E
+M>dall’immaginare la veritá</E
+M>eravamo mille miglia l</E
+M>dall’indovinare</E
+M>era talmente l</E
+M>dal sospettare una simile evenienza</E
+M>che se ne stava beato a far calcoli sull’avvenire</E
+M>tanto il pover’uomo era l</E
+M>da prevedere che burrasca gli si addensasse sul capo!</E
+M>sono ben l</E
+M>dal credergli</E
+M>dal consentire</E
+M>causa l</E
+M>causa remota</E
+M>causa prossima</E
+M>siamo l</E
+M>parenti</E
+M>un l</E
+M>sospetto</E
+M>un l</E
+M>timore</E
+M>ne ho appena una l</E
+M>idea</E
+M>c’è ancora qualche l</E
+M>probabilità</E
+M>speranze l</E
+M>c’è fra loro solo una l</E
+M>somiglianza</E
+M>siamo l</E
+M>di gusti</E
+M>di opinioni</E
+M>vede Cose da quel che già credea lontane</E
+M>infrarosso l</E
+M>ultravioletto l</E
+M>stare</E
+M>abitare</E
+M>vivere l.</E
+M>andare l</E
+M>gettare il sasso l</E
+M>molto</E
+M>poco l</E
+M>vagare l</E
+M>con l’immaginazione</E
+M>l’odore si sente l</E
+M>un miglio</E
+M>chi va piano va sano e va lontano</E
+M>gli emigranti andavano lontano lontano</E
+M>da qui</E
+M>da lì</E
+M>il pallone andò a finire l</E
+M>dalla porta</E
+M>non ci vede un palmo l</E
+M>dal naso</E
+M>lontan dagli occhi</E
+M>lontan dal cuore</E
+M>una piccola montagnetta</E
+M>lontano alquanto alle nostre strade</E
+M>venire</E
+M>arrivare da l</E
+M>di l</E
+M>ci seguiva da l</E
+M>chiamare</E
+M>guardare da</E
+M>da l</E
+M>ci vede poco</E
+M>mi salutò con un cenno da l</E
+M>visto da l</E
+M>sembra diverso</E
+M>di lontano Conobbi il tremolar de la marina</E
+M>con la mano La fredda morte ed una tomba ignuda Mostravi di l</E
+M>rifarsi da</E
+M>di l</E
+M>prenderla da l</E
+M>per</E
+M>partire per l</E
+M>è un uomo che vede l</E
+M>mirare l.</E
+M>Andare l</E
+M>è un giovane pieno di talento</E
+M>che andrà l</E
+M>con le sue idee non andrà molto l</E
+M>ascoltando le voci fievoli che mandava la campagna nel l</E
+M>vi sono anco alcuni pastori nel l</E
+M>che guardano le pecorelle</E
+M>sfumando i dintorni delle figure</E
+M>degradando i l</E
+M>alla lontana</E
+M>alla l</E
+M>da certa gente!</E
+M>alla larga</E
+M>tienti alla l</E
+M>da lui</E
+M>quando lo vede</E
+M>gira alla l</E
+M>per non incontrarlo</E
+M>siamo parenti alla l</E
+M>parenti lontani</E
+M>si somigliano alla l</E
+M>lo conosco così alla l</E
+M>mi accennò il fatto alla l</E
+M>prenderla</E
+M>pigliarla alla l</E
+M>pigliarla lontana</E
+M>collocandolo in qualche posto un po’ lontanetto</E
+M>non immagini neppure lontanamente ciò che devo dirti</E
+M>non ci penso</E
+M>non lo conosco</E
+M>non me ne ricordo neanche lontanamente</E
+M>l’affare mi interessa</E
+M>ma solo così</E
+M>lontanamente</E
+M>se solo lontanamente lo sospettassi</E
+M>mi accennò lontanamente i suoi progetti</E

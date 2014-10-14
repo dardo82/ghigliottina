@@ -1,0 +1,32 @@
+statura.txt
+"statura"
+"statura"
+"uomo di piccola statura"
+*[[altezza]], [[corporatura]], [[taglia]]
+*[[staturale]]
+M>statura</E
+M>stare</E
+M>s. alta</E
+M>grande</E
+M>bassa</E
+M>piccola</E
+M>uomo di media s.</E
+M>di mezza s.</E
+M>di s. mezzana</E
+M>di s. normale</E
+M>ordinaria</E
+M>comune</E
+M>un ragazzo di s. gigantesca</E
+M>eccezionale</E
+M>essere di alta s.</E
+M>esser alto di s.</E
+M>la sua statura è di metri 1</E
+M>crescere di statura</E
+M>la s. di un cavallo</E
+M>di un cane</E
+M>uomo di alta s. morale</E
+M>persona di mediocre s. intellettuale</E
+M>un biologo di notevole s. scientifica</E
+M>i suoi cittadini</E
+M>formati di bella s.</E
+M>Quando guardaste li atti e la statura Ch&#8217;io faccio per dolor molte fiate</E

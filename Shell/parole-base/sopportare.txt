@@ -1,0 +1,63 @@
+sopportare.txt
+"esaminare; sopportare"
+"l'esaminare; il sopportare"
+"non sopportare qcs. o qcn."
+"non sopportare qualcuno"
+"scontare, sopportare le conseguenze di"
+"sopportare"
+"sopportare"
+"sopportare"
+"sopportare"
+"sopportare (critiche; etc.)"
+"sopportare con coraggio"
+"sopportare il costo"
+"sopportare senza lamentarsi"
+"superare, sopportare"
+#*''Non 
+#*''Non 
+*[[reggere]], sostenere un peso, [[sorreggere]]
+*''(una situazione difficile)'' [[accettare]], [[tollerare]], [[resistere]], [[lasciare]], [[permettere]], [[concedere]], [[acconsentire]], [[consentire]]
+* [[cedere]]
+*''(una situazione difficile)'' [[rifiutare]], [[respingere]]
+*[[sopportarsi]]
+M>supportare</E
+M>sub</E
+M>portare</E
+M>io soppòrto</E
+M>questi pilastri sopportano l&#8217;intera spinta della volta</E
+M>questo non è un solaio che possa s. un simile carico</E
+M>non so se questa vecchia poltrona sopporterà un peso come il tuo</E
+M>non posso s. una spesa simile</E
+M>sono stato io a s. il maggior danno</E
+M>le più forti perdite</E
+M>le categorie che sopportano il maggior onere fiscale</E
+M>sopportare</E
+M>s. un grande dolore</E
+M>s. una sventura</E
+M>gravi traversie</E
+M>è una donna che nella sua vita ha sopportato continui sacrifici e dure rinunce</E
+M>i primi cristiani dovettero s. la persecuzione e spesso la morte</E
+M>quante ne ha sopportate</E
+M> quel poveretto!</E
+M>non s. il caldo</E
+M>il freddo</E
+M>s. bene</E
+M>male il dolore fisico</E
+M>ho gli occhi stanchi e non riesco a s. la luce troppo viva</E
+M>come fai a s. quel cialtrone?</E
+M>non riesco a s. i maleducati</E
+M>i bugiardi</E
+M>i chiacchieroni</E
+M>non sopporto le prepotenze</E
+M>le ingiustizie</E
+M>è una brava domestica</E
+M> ma non sopporta le osservazioni</E
+M>non sopporto che in casa mia si facciano maldicenze</E
+M>parlerò in quel modo largo che la materia per sé medesima sopporta</E
+M>i colleghi non lo possono soffrire</E
+M> ma fanno in modo di sopportarlo</E
+M>io non voglio essere sopportata!</E
+M>i due coniugi si sopportano per amore dei figli</E
+M>cerchiamo di sopportarci a vicenda</E
+M>quei due non sono mai andati d&#8217;accordo</E
+M> ma ormai non si sopportano più</E

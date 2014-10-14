@@ -1,0 +1,44 @@
+patetico.txt
+"patetico"
+"patetico"
+"patetico"
+*[[triste]], [[malinconico]], [[mesto]], [[addolorato]], [[afflitto]], [[accorato]], [[penoso]], [[lamentoso]], [[lacrimevole]], [[pietoso]]
+*[[commovente]], [[toccante]], [[tragico]]
+*[[sentimentale]], [[sdolcinato]], [[affettato]], [[svenevole]], [[languido]]
+*[[allegro]], [[contento]], [[felice]]
+*[[noncurante]], [[cinico]]
+* italiano
+*inglese
+M>pathet</E
+M>cus</E
+M>un dramma</E
+M>un romanzo</E
+M>un film p</E
+M>il p</E
+M>appello di una madre ai rapitori del figlio</E
+M>la p</E
+M>conclusione di una vicenda</E
+M>una scena veramente p</E
+M>attore specializzato nelle parti patetiche</E
+M>assumere atteggiamenti p</E
+M>pose p</E
+M>una espressione p</E
+M>parlare in tono p</E
+M>con voce p</E
+M>declamare con accenti p</E
+M>rivolgere sguardi p</E
+M>quanto sei patetico oggi!</E
+M>è stato veramente p</E
+M>ha fatto una figura veramente p</E
+M>fare il p</E
+M>smettila di fare il patetico!</E
+M>la patetica!</E
+M>la ricerca del p</E
+M>dare</E
+M> cadere nel p</E
+M>Patetica</E
+M>nervo p</E
+M>trocleare</E
+M>recitare</E
+M>declamare pateticamente</E
+M>atteggiarsi pateticamente a vittima</E

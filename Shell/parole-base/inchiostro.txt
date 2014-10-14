@@ -1,0 +1,49 @@
+inchiostro.txt
+"bottiglietta di inchiostro"
+"cartuccia di inchiostro"
+"inchiostro"
+"inchiostro"
+"inchiostro"
+"inchiostro della stampante"
+"inchiostro di china"
+"inchiostro di china"
+"inchiostro di stampa"
+"inchiostro magnetico"
+"inchiostro nero"
+"inchiostro per scrivere"
+"inchiostro simpatico"
+"nero inchiostro"
+"penna e inchiostro"
+"stampante a getto di inchiostro"
+#*''la [[penna]] ha smesso di [[funzionare]], ha finito l'
+* [[inchiostrare]], [[inchiostro simpatico]], [[inchiostro elettronico]]
+* [[china]]
+* [[incostro]]
+* ''versare [[fiumi]] di 
+M>encaustum</E
+M>da scrivere</E
+M>scrivere</E
+M>disegnare con l’i</E
+M>una macchia d’i</E
+M>nero</E
+M>blu</E
+M>verde</E
+M>stilografico</E
+M>copiativo</E
+M>indelebile</E
+M>simpatico</E
+M>encre sympathique</E
+M>di china</E
+M>I. da stampa</E
+M>grassi</E
+M>liquidi</E
+M>fluorescente</E
+M>su questo argomento si sono versati fiumi d’i</E
+M>Quel ch’io vi debbo</E
+M>posso di parole Pagare in parte e d’opera d’i</E
+M>Se tanto lice a i miei toscani inchiostri</E
+M>li dolci detti vostri</E
+M>Faranno cari ancora i loro incostri</E
+M>nero come l’inchiostro</E
+M>mal dell’i</E
+M>Phytophthora cambivora</E

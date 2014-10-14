@@ -1,0 +1,102 @@
+stendere.txt
+"picchiare forte qualcuno, stendere qualcuno, atterrare qualcuno"
+"stendere"
+"stendere"
+"stendere"
+"stendere"
+"stendere, replace: stendersi"
+"stendere il trucco"
+"stendere il trucco su"
+"stendere la pittura"
+"stendere un velo"
+"stendere un velo pietoso"
+*[[distendere]], [[allungare]], [[prolungare]], [[allargare]], [[estendere]], [[protendere]]
+*[[sdraiare]], [[coricare]], [[adagiare]]
+*[[spiegare]], [[dispiegare]], [[srotolare]], [[svolgere]], [[sviluppare]], [[sciorinare]], [[aprire]]
+*[[spianare]], [[spalmare]], [[spargere]], [[applicare]]
+*  gettare a terra, [[abbattere]], [[atterrare]], mettere K.O., [[uccidere]], far fuori 
+*[[scrivere]], mettere per iscritto, [[comporre]], [[redigere]], [[stilare]]
+*[[ridurre]], [[stringere]], [[restringere]]
+*[[alzare]], [[sollevare]]
+*[[piegare]], [[ripiegare]], [[arrotolare]], [[accartocciare]], [[chiudere]]
+*[[salvare]], [[risparmiare]]
+*[[cancellare]]
+* [[contrarre]]
+*[[stendersi]]
+M>extend</E
+M>ex-</E
+M>tend</E
+M>tendere</E
+M>distendere</E
+M>s. le gambe</E
+M>le braccia</E
+M>s. la mano</E
+M>stese la mano per prendere la pistola</E
+M>per fargli una carezza</E
+M>non voglio mica ridurmi a s. la mano!</E
+M>s. la tovaglia sulla tavola</E
+M>s. per terra un tappeto</E
+M>s. un velo</E
+M>pietoso</E
+M> su una cosa</E
+M> è stata un&#8217;azione non bella</E
+M> la sua: ma stendiamoci un velo sopra</E
+M>s. i panni</E
+M>il bucato ad asciugare</E
+M>vado un momento fuori a s.</E
+M>s. le reti al sole</E
+M>all&#8217;aria</E
+M>distendere</E
+M>le vele</E
+M>una vela</E
+M>un cavo</E
+M>s. i fili telefonici</E
+M>tendere</E
+M>uno spago</E
+M>una corda</E
+M>una fune</E
+M>tendere</E
+M>s. l&#8217;arco</E
+M>s. la corda dell&#8217;arco</E
+M>ben stendi dell&#8217;arco Il nervo al lato manco</E
+M>s. la pasta col matterello</E
+M>s. la crema</E
+M>la marmellata su una torta</E
+M>spalmare</E
+M>il burro sul pane</E
+M>s. i colori con il pennello</E
+M>s. una vernice a smalto con la spatola</E
+M>s. il mastice con la stecca.</E
+M>è svenuta</E
+M> stendetela sul divano</E
+M>estrassero il ferito dall&#8217;auto contorta e lo stesero a terra</E
+M>non mi sento bene</E
+M> vado a stendermi sul letto</E
+M>dopo la nuotata si stese al sole ad asciugarsi</E
+M>il pugile stese l&#8217;avversario al primo round</E
+M>se non la smetti di darmi fastidio</E
+M> ti stendo</E
+M>con un pugno lo stese a terra</E
+M>con una sventagliata di mitra li stese tutti e due</E
+M>s. un articolo</E
+M>una relazione</E
+M>una bozza di contratto</E
+M>s. una sentenza</E
+M>il libro è quasi finito</E
+M> mi resta da s. solo l&#8217;ultimo capitolo</E
+M>estendere</E
+M>s. le proprie conquiste</E
+M>il proprio territorio</E
+M>voleva sapere fin dove Sparta stendeva i confini</E
+M>stendersi</E
+M>la pianura padana si stende dal Piemonte all&#8217;Adriatico</E
+M>il dominio romano</E
+M> sotto Augusto</E
+M> si stendeva su quasi tutte le terre allora conosciute</E
+M>quantunque carità si stende</E
+M> Cresce sovr&#8217;essa l&#8217;etterno valore</E
+M>il maestro</E
+M> la cui scienza non si stendeva forse più oltre che il medicare i fanciulli del lattime</E
+M>non mi stenderò più oltre su questo argomento</E
+M>tendere</E
+M>al cacciar posa ferono; Ciascun s&#8217;affretta a lacci e reti stendere</E

@@ -1,0 +1,25 @@
+augurare.txt
+"augurare"
+"augurare"
+"augurare a qualcuno buona fortuna"
+M>augurare</E
+M>augur</E
+M>io àuguro</E
+M>avere</E
+M>bene</E
+M>male</E
+M>di qualcuno</E
+M>di qualche cosa</E
+M>ella al mio sangue Augurò questo regno</E
+M>buon viaggio</E
+M>buona salute</E
+M>buona fortuna</E
+M>buona riuscita a un’impresa</E
+M>ogni bene</E
+M>a. buone vacanze</E
+M>buon Natale</E
+M>la morte</E
+M>un malanno</E
+M>augurarsi</E
+M>mi auguro di tornare presto</E
+M>mi auguro che tu sia felice</E

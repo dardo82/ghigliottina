@@ -1,0 +1,24 @@
+gioiello.txt
+"gioiello"
+"gioiello"
+"gioiello ornamentale"
+*[[gioia]]
+* [[oro]]
+*''(cosa di straordinario pregio e bellezza)''[[perla]], [[gemma]], [[meraviglia]], [[capolavoro]], opera d’arte
+*[[gioiellare]], [[gioielleria]], [[gioielliere]]
+M>joel</E
+M>*iocalis</E
+M>iocus</E
+M>ornarsi di gioielli</E
+M>una parure di gioielli</E
+M>lo scrigno dei g</E
+M>tenere</E
+M>conservare come un g</E
+M>una villetta</E
+M>un’edizione</E
+M>una miniatura che è un g</E
+M>ha un g</E
+M>di figlia</E
+M>una radiolina</E
+M>un televisore</E
+M>un motorino che è un gioiello</E

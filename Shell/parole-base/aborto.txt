@@ -1,0 +1,38 @@
+aborto.txt
+"aborto"
+"aborto"
+"aborto"
+"aborto spontaneo"
+#* ''si è verificato un 
+*[[nascita]], [[parto]]
+*[[abortista]], [[abortivo]],[[abortismo]]
+*italiano
+*esperanto
+*spagnolo
+*portoghese
+M>abortus</E
+M>aboriri</E
+M>oriri</E
+M>spontaneo</E
+M>procurato</E
+M>provocato</E
+M>indotto</E
+M>a. terapeutico</E
+M>interno</E
+M>intrauterino</E
+M>libero</E
+M>clandestino</E
+M>liberalizzazione</E
+M>depenalizzazione</E
+M>legalizzazione dell’a</E
+M>legalizzato</E
+M>a. farmacologico</E
+M>a. selettivo</E
+M>selective abortion</E
+M>epizootico</E
+M>questi</E
+M>della mia specie</E
+M>i quali non hanno gagliardia né presenza da farsi largo nel mondo</E
+M>è un a</E
+M>di natura!</E
+M>è un aborto!</E

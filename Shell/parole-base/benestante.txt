@@ -1,0 +1,15 @@
+benestante.txt
+"benestante"
+"benestante"
+"benestante, agiato"
+"famiglia benestante"
+*[[agiato]], [[ricco]], [[facoltoso]]
+*[[povero]], [[bisognoso]], [[indigente]] 
+M>bene stare</E
+M>stare bene</E
+M>non è proprio ricco ma è b</E
+M>appartiene a una famiglia b</E
+M>è una b</E
+M>ha sposato un b</E
+M>i b</E
+M>del paese</E

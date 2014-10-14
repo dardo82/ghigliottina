@@ -1,0 +1,69 @@
+pronunciare.txt
+"pronunciare"
+"pronunciare"
+"pronunciare, replace: pronunciarsi"
+"pronunciare il fatidico sì"
+"pronunciare in modo sbagliato"
+"pronunciare una parola"
+* ''(parole, suoni)'' [[articolare]], [[emettere]], [[proferire]], [[spiccare]], [[spiccicare]]
+*''(una decisione, un giudizio eccetera)''  [[esprimere]], [[formulare]], [[emettere]]
+*[[tacere]], far silenzio, [[omettere]]  
+*[[pronunciarsi]]
+*[[pronuncia]].[[pronunciabile]],[[pronunciamento]], [[pronunciato]], [[pronunciatore]], [[pronunciazione]]
+*[[pronunziare]]
+M>pronuntiare</E
+M>pro</E
+M>nuntiare</E
+M>io pronùncio</E
+M>pronùnzio</E
+M>un suono</E
+M>un fonema</E
+M>una vocale</E
+M>una consonante</E
+M>correttamente le vocali chiuse e aperte</E
+M>il bambino non pronuncia ancora la</E
+M>l&#8217;</E
+M>iniziale delle forme del verbo</E
+M>avere</E
+M>non viene pronunciata</E
+M>bene</E
+M>male una parola</E
+M>vocabolo difficile a p</E
+M>con chiarezza</E
+M>pronuncia bene il francese</E
+M>pronuncia l&#8217;inglese assai stentatamente</E
+M>pronunciò poche parole di scusa</E
+M>non ha pronunciato parola in tutta la sera</E
+M>un discorso</E
+M>un&#8217;orazione</E
+M>un elogio funebre</E
+M>il giuramento</E
+M>i voti religiosi</E
+M>la scomunica</E
+M>un giudizio</E
+M>una sentenza</E
+M>una condanna</E
+M>con quella dichiarazione ha pronunciato la sua condanna</E
+M>qualcuno contumace</E
+M>scomunicato</E
+M>interdetto</E
+M>fu pronunciato dal papa gonfaloniere di santa Chiesa</E
+M>una verità</E
+M>il Copernico pronunciò che ella</E
+M>o fusse lucida per se medesima</E
+M>o che la sua materia</E
+M>avere</E
+M>in merito a</E
+M>una causa</E
+M>extra petita</E
+M>è difficile p</E
+M>su questione così delicata</E
+M>se prononcer</E
+M>pronunciarsi a favore</E
+M>pronunciarsi contro</E
+M>non mi pronuncio</E
+M>la Corte non si è ancora pronunciata</E
+M>pronunziante</E
+M>il magistrato</E
+M>il giudice pronunciante</E
+M>pronunziato</E

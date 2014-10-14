@@ -1,0 +1,26 @@
+trapianto.txt
+"trapianto"
+"trapianto"
+"trapianto d'organo"
+"trapianto d'organo"
+"trapianto di cornea"
+"trapianto di cuore"
+"trapianto di rene"
+#*''il primo trapianto di cuore avvenne nel 1967''
+M>il t. degli alberi</E
+M>autotrapianti</E
+M>omotrapianti</E
+M>eterotrapianti.</E
+M>innesto</E
+M>t. autoplastico</E
+M>t. omoplastico</E
+M>t. eteroplastico</E
+M>t. corneale</E
+M>renale</E
+M>t. del cuore</E
+M>t. del pancreas</E
+M>donatore</E
+M>ospite</E
+M>ricettore</E
+M>rigetto del t.</E
+M>morte del trapianto.</E

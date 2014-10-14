@@ -1,0 +1,11 @@
+lavapiatti.txt
+"lavapiatti"
+"lavapiatti"
+M>lava</E
+M>piatto</E
+M>molti studenti</E
+M> per fare qualche soldo d’estate</E
+M> fanno i lavapiatti</E
+M>sguattero</E
+M>sguattera</E
+M>lavastoviglie</E

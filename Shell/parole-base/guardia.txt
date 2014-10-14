@@ -1,0 +1,82 @@
+guardia.txt
+"abbassare la guardia"
+"allerta, in guardia"
+"bullo impiegato come guardia del corpo"
+"cane da guardia"
+"cane da guardia"
+"cellule di guardia"
+"corpo di guardia"
+"di guardia"
+"fare la guardia"
+"fare la guardia"
+"fare la guardia"
+"fare la guardia notturna"
+"guardia"
+"guardia"
+"guardia"
+"guardia"
+"guardia"
+"guardia annonaria"
+"guardia armata"
+"guardia carceraria"
+"guardia carceraria"
+"guardia costiera"
+"guardia costiera"
+"guardia d'onore"
+"guardia del corpo"
+"guardia del corpo"
+"guardia del corpo"
+"guardia di finanza"
+"guardia di palazzo"
+"guardia di Stato"
+"guardia diurna"
+"guardia ecologica"
+"guardia forestale"
+"guardia giurata"
+"guardia medica"
+"guardia nazionale"
+"guardia notturna"
+"guardia notturna"
+"guardia notturna"
+"guardia pretoriana"
+"in guardia"
+"in guardia"
+"in guardia contro"
+"la Guardia nazionale"
+"livello di guardia"
+"mettere in guardia"
+"mettere in guardia"
+"mettere in guardia su qualcosa"
+"mettersi in guardia"
+"motovedetta della guardia costiera"
+"persona allerta; in guardia"
+"soglia di guardia"
+"stare in guardia"
+"stare in guardia"
+"stare in guardia"
+"stare in guardia"
+"stare in guardia"
+"stare in guardia contro qcn."
+"stare in guardia per"
+"vecchia guardia"
+#*''fare la [[guardia]]''
+#*''montare di [[guardia]]''
+#*''turno di [[guardia]]''
+#*''la [[guardia]] del corpo''
+#*''medico di [[guardia]]''
+#*''la vecchia [[guardia]]''
+#*''l'Arno stà per raggiungere il livello di [[guardia]]''
+*[[custode]], [[guardiano]], [[sentinella]], [[vigile]], [[agente]], [[scorta]],[[ronda]], [[pattuglia]], [[guarnigione]], [[picchetto]], corpo armato, [[sorvegliante]], [[secondino]], [[piantone]], [[vedetta]]
+*[[custodia]], [[difesa]], [[protezione]], [[sorveglianza]], [[vigilanza]]
+* posizione di difesa, limite di sicurezza  
+* turno di servizio
+*(di arma) [[impugnatura]], [[paramano]], [[elsa]]
+*'' (della spada)'' [[guardamano]]
+*[[impreparazione]], [[abbandono]], [[trascuratezza]], [[negligenza]], [[incuria]]
+*posizione di attacco
+* turno di riposo
+*''mettere in guardia''
+M>guardiacaccia</E
+M>guardialinee</E
+M>guarda</E
+M>guardia</E

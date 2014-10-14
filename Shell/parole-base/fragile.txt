@@ -1,0 +1,37 @@
+fragile.txt
+"fragile"
+"fragile"
+"fragile"
+"fragile"
+"fragile quando è caldo"
+#*''è una bottiglia fragile, maneggiala con cura'' 
+* [[delicato]], [[friabile]], [[frangibile]]
+*[[resistente]], [[robusto]], [[infrangibile]]
+*[[fragilità]]
+*italiano
+*inglese
+M>frag</E
+M>lis</E
+M>frang</E
+M>il vetro è f</E
+M>recipienti</E
+M>ninnoli f</E
+M>il f</E
+M>stelo d’un fiore</E
+M>le ossa dei vecchi sono f</E
+M>fragile</E
+M>salute f</E
+M>costituzione f</E
+M>animo f</E
+M>una giovinetta f</E
+M>e delicata</E
+M>fisicamente</E
+M>psichicamente fragile</E
+M>una volontà</E
+M>una virtù f</E
+M>la f</E
+M>natura umana</E
+M>speranze</E
+M>propositi f</E
+M>i f</E
+M>beni mondani</E

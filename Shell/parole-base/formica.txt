@@ -1,0 +1,13 @@
+formica.txt
+"formica"
+"Formica"
+"formica"
+"formica di fuoco"
+"formica leone"
+"formica rodilegno"
+"formica rossa"
+"formica rossa"
+#*''una sedia di formica''
+* ''(animale e figura araldica)'' [[formicaio]], [[formicaleone]], [[Formicardi]], [[formichiere]], [[Formicidi]], [[formico]], [[formicolare]], [[formicolio]]
+* ''(animale)'' [[insetto]]
+*'' a passo di formica''

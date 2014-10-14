@@ -1,0 +1,6 @@
+sforzare.txt
+"sforzare"
+"sforzare"
+"sforzare"
+"sforzare, replace: sforzarsi"
+*[[sforzarsi]]

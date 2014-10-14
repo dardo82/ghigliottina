@@ -1,0 +1,27 @@
+argilla.txt
+"argilla"
+"argilla"
+"argilla espansa"
+"argilla per modellare"
+"argilla rossa"
+"campo in argilla"
+"di color argilla"
+"minerale di argilla"
+"modellare l'argilla"
+"modello in argilla"
+"piedi di argilla"
+*[[terracotta]], [[ceramica]]
+M>argilla</E
+M>minerali argillosi</E
+M>grassa</E
+M>magra</E
+M>marnosa</E
+M>marna</E
+M>attivata</E
+M>scagliosa</E
+M>smettica</E
+M>terra da follone</E
+M>bentonite</E
+M>la mortale a</E
+M>E Tu degnasti assumere Questa creata a</E
+M>Gigante dai piedi d’a.</E

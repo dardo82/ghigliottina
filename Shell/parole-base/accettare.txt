@@ -1,0 +1,52 @@
+accettare.txt
+"accettare"
+"accettare"
+"accettare"
+"accettare"
+"accettare come vero"
+"accettare come vero"
+"accettare come vero"
+"accettare Cristo"
+"accettare la consegna di una merce"
+"accettare la punizione"
+"accettare la tua offerta di"
+"accettare le responsabilità"
+"accettare o dimenticare qcs. di spiacevole"
+"accettare qcs"
+"accettare qualcosa"
+"accettare un lavoro"
+"far accettare"
+"non accettare"
+"non accettare"
+"non accettare, rifiutare"
+"poco propenso ad accettare"
+"rifiutare di accettare"
+"rifiutarsi di accettare"
+#* '''''accettare''' un invito, una sfida''
+#*'''''accettare''' come socio''
+#* '''''accettare''' un'eredità''; '''''accettare''' il dolore''
+*[[File
+M>acceptare</E
+M>accip</E
+M>acceptus</E
+M>io accètto</E
+M>un regalo</E
+M>un suggerimento</E
+M>un consiglio</E
+M>una donazione</E
+M>un’eredità</E
+M>i patti</E
+M>una proposta</E
+M>volentieri</E
+M>di buon grado</E
+M>con riluttanza</E
+M>non sempre è facile a. ciò che il destino ci manda</E
+M>non si accettano altre iscrizioni; non accetto che si comporti in tal modo</E
+M>come socio</E
+M>come collaboratore</E
+M>un incarico</E
+M>una commissione</E
+M>accetterebbe volentieri qualche lezione privata</E
+M>accetto di seguirti</E
+M>battaglia</E
+M>una cambiale</E

@@ -1,0 +1,33 @@
+beneficenza.txt
+"ballo di beneficenza"
+"beneficenza"
+"cena di beneficenza"
+"cena di beneficenza"
+"di beneficenza"
+"ente di beneficenza"
+"lavorare per beneficenza"
+"pesca di beneficenza"
+"vendita di beneficenza"
+"vendita di beneficenza"
+*[[assistenza]], [[carità]], [[elemosina]], [[offerta]], [[obolo]], [[beneficio]]
+M>beneficentia</E
+M>beneficus</E
+M>dedicarsi alla b</E
+M>fare della b</E
+M>opere di b</E
+M>ente</E
+M>istituto di beneficenza</E
+M>pubblica</E
+M>privata</E
+M>legale</E
+M>istituzionale</E
+M>statutaria</E
+M>lotteria</E
+M>fiera</E
+M>recita</E
+M>serata</E
+M>pesca</E
+M> festa di b</E
+M>fare della b</E
+M>non mi va di fare della b</E
+M>non siamo mica un istituto di beneficenza!</E

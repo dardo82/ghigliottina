@@ -1,0 +1,37 @@
+purga.txt
+"purga"
+"medicinale purgante"
+"purgative, laxative"
+"purga"
+"purga"
+M>purgare</E
+M>purge</E
+M>istka</E
+M>della seta</E
+M>sgommatura</E
+M>delle pelli</E
+M>certificato di p</E
+M>mettere</E
+M>tenere in p</E
+M>la trippa</E
+M>prendere la p</E
+M>ha fatto indigestione</E
+M>e sarà meglio dargli una purga</E
+M>purgante</E
+M>ordinare</E
+M>consigliare una p</E
+M>aver bisogno di una p</E
+M>la p</E
+M>ha fatto</E
+M>non ha fatto</E
+M>effetto</E
+M>ripetere</E
+M>replicare la p</E
+M>una p</E
+M>da cavallo</E
+M>la p</E
+M>nazista del 30 giugno 1934</E
+M>le p</E
+M>staliniane</E
+M>epurazione</E
+M>monetaria</E

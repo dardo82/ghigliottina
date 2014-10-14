@@ -1,0 +1,64 @@
+profumo.txt
+"http://api.wordreference.com/12bee/json/iten/profumo/"
+*[[effluvio]], [[fragranza]], [[aroma]], [[odore]]
+* [[puzza]], [[puzzo]], [[tanfo]], [[fetore]], [[lezzo]]  
+M>fumo</E
+M>il p. dei fiori</E
+M>delle rose</E
+M>p. di lavanda</E
+M>il p. dei campi</E
+M>del fieno</E
+M>p. di vaniglia</E
+M>d&#8217;incenso</E
+M>p. dolce</E
+M>soave</E
+M>delicato</E
+M>delizioso</E
+M>p. forte</E
+M>acuto</E
+M>sottile</E
+M>penetrante</E
+M>il p. di pulito della biancheria</E
+M>mandare</E
+M>emanare profumo</E
+M>fiori che riempiono di profumo la stanza</E
+M>senti che profumo di primavera!</E
+M>odore</E
+M>aroma</E
+M>bouquet</E
+M>p. sottile</E
+M>penetrante</E
+M>persistente</E
+M>vinoso</E
+M>p. di violetta</E
+M>di muschio</E
+M>Piante da profumo</E
+M>il p. del pane sfornato</E
+M>c&#8217;è un p. delizioso in cucina</E
+M>il p. dell&#8217;arrosto si sentiva fin dall&#8217;anticamera</E
+M>negli autobus troppo affollati si sentono certi profumi!</E
+M>M&#8217;accende il riso della bocca fresca</E
+M>... E il p. d&#8217;istoria boccaccesca</E
+M>il p. dell&#8217;innocenza</E
+M>della bontà</E
+M>della santità</E
+M>da tutto esalava il p. della femminilità come quello dei fiori in un giardino</E
+M>p. liquido</E
+M>solido</E
+M>in polvere</E
+M>fabbrica di profumi</E
+M>boccetta</E
+M>fiala di p</E
+M>p. orientali</E
+M>bruciare i p</E
+M>cospargere di p</E
+M>versare qualche goccia di p. nel fazzoletto</E
+M>spruzzarsi il p. sull&#8217;abito</E
+M>nei capelli</E
+M>p. maschile</E
+M>femminile</E
+M>un p. dozzinale</E
+M>uhm</E
+M>che profumino!</E
+M>l&#8217;arrosto manda un profumino che risveglia proprio l&#8217;appetito</E
+M>senti che profumino di muffa!</E

@@ -1,0 +1,14 @@
+scacchiera.txt
+"gioco su scacchiera"
+"scacchiera"
+*[[dama]]
+*[[scacchiere]]
+M>scacco</E
+M>eschaquier</E
+M>eschequier</E
+M>échiquier</E
+M>case</E
+M>damiera</E
+M>a scacchiera</E
+M>piastrelle disposte a s.</E
+M>sciopero a s.</E

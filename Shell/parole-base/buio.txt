@@ -1,0 +1,92 @@
+buio.txt
+"adeguamento al buio"
+"al buio"
+"angolo buio"
+"appuntamento al buio"
+"brancolare nel buio"
+"buio"
+"buio"
+"buio"
+"buio"
+"buio"
+"buio"
+"buio della notte"
+"buio e tetro"
+"buio pesto"
+"buio pesto"
+"buio, tenebre"
+"diventare buio"
+"fare un salto nel buio"
+"il buio"
+"in un angolo buio, nascosto"
+"nel buio"
+"sparo nel buio"
+"visibile al buio"
+*[[oscuro]], [[tenebroso]], [[cupo]], [[fosco]], [[tetro]], [[lugubre]], [[opaco]]
+*''(di colore, indumento)'' [[scuro]], [[nero]]
+*''(di cielo)'' [[nuvoloso]], [[nebbioso]], [[grigio]]
+*''(di futuro, destino)'' [[incerto]], [[insicuro]]
+* [[oscurità]], mancanza di luce, [[offuscamento]], [[foschia]], [[ombra]], [[opacità]], [[tenebra]], [[notte]], [[crepuscolo]], [[sera]], [[tramonto]]
+*[[chiaro]], [[limpido]], [[illuminato]], [[luminoso]], [[irraggiato]]
+*''( (di colore, indumento)'' [[azzurro]]
+*''(di cielo)'' [[sereno]], [[limpido]]
+*''(di futuro, destino)'' [[certo]], [[sicuro]]
+*[[luce]], [[luminosità]], [[limpidezza]], [[chiarore]]
+*[[buiore]]
+*''essere al buio''
+*''tenere al buio''
+M>*burius</E
+M>strada</E
+M>stanza b</E
+M>i regni b</E
+M>luoghi b</E
+M>valle b</E
+M>nella b</E
+M>notte</E
+M>tempo</E
+M>cielo b</E
+M>un avvenire b</E
+M>tempi b</E
+M>i tempi bui del maccartismo</E
+M>panni b</E
+M>era b</E
+M>in volto</E
+M>narrazion b</E
+M>c’è b</E
+M>in questa stanza</E
+M>fa troppo b</E
+M>qui dentro</E
+M>leggere al b</E
+M>rimanere al b</E
+M>i gatti ci vedono anche al b</E
+M>fitto</E
+M>pesto</E
+M>un b</E
+M>che s’affetta</E
+M>prima di b</E
+M>a b</E
+M>sul b</E
+M>venir b</E
+M>farsi b</E
+M>non fate b</E
+M>per la strada</E
+M>essere</E
+M>trovarsi</E
+M>vivere al b</E
+M>di qualche cosa</E
+M>io sono rimasto al b</E
+M>di tutto</E
+M>lasciare</E
+M>tenere al b</E
+M>fare il b</E
+M>su una vicenda</E
+M>c’è del b</E
+M>in questo affare</E
+M>fare un salto nel b</E
+M>l’hanno messo al b</E
+M>lo terranno al b</E
+M>per un pezzo</E
+M>apertura al b</E
+M>faccio il b</E
+M>apro al b</E
+M>buio</E

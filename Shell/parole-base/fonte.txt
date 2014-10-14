@@ -1,0 +1,27 @@
+fonte.txt
+"da fonte certa"
+"fonte"
+"fonte"
+"fonte battesimale"
+"fonte comune"
+"fonte d'energia"
+"fonte della gioventù"
+"Fonte della Giovinezza"
+"fonte di energia"
+"fonte di guai"
+"fonte di luce"
+"fonte di pericolo"
+"fonte o sorgente dalle proprietà curative"
+"fonte perenne"
+"fonte principale"
+"fonte radio"
+"fonte, sorgente"
+"imposta applicata all'oggetto imponibile alla fonte"
+"ricca fonte"
+"ritenuta alla fonte"
+"tenere conto della fonte"
+* [[sorgente]], [[fontana]],[[pozzo]]
+* [[origine]], [[principio]], [[causa]]
+* [[effetto]], [[conseguenza]]
+*italiano
+*francese

@@ -1,0 +1,61 @@
+botte.txt
+"avere la botte piena e la moglie ubriaca"
+"botte"
+"botte"
+"contenuto di una botte"
+"botte"
+"botte"
+"botte"
+"botte da orbi"
+"Botte di ferro"
+"come una botte"
+"fracco di botte"
+"gonfiare di botte"
+"massacrare qualcuno di botte"
+"nella botte piccola c'è il vino buono"
+"non si può avere la botte piena e la moglie ubriaca"
+"prendere a botte"
+"riempire di botte qualcuno"
+"riempire di botte, picchiare, menare"
+"un fracco di botte"
+#* ''la [[cantina]] era piena di '''botti''' di vino''
+#* ''abbiamo bevuto tutta la '''botte''' di vino''
+#* ''avrà consumato almeno due '''botti d'[[acqua]]''
+* (''recipiente'') [[barile]], [[fusto]], [[bidone]], [[barilotto]]
+* (''persona grassa'') [[bidone]], [[barile]], [[baule]], [[ciccione]], [[grassone]], [[palla di lardo]], [[vagone]]
+* (''postazione galleggiante'') [[tina]]
+* (''botticella'') [[carrozza]], [[calesse]], [[carrozzella]]
+*[[bottaio]]
+*''in una '''botte''' di [[ferro]]''
+*''Non si può avere la botte piena e la moglie ubriaca.''
+#*'''''botte''' en cuir'' (stivale in cuoio)
+#*''une '''botte''' d'asperges'' (un mazzo di asparagi)
+*italiano
+*francese
+m>ttis</e
+m>cocchiume</e
+m>spina</e
+m>travasare il vino nelle b</e
+m>rabboccare</e
+m>spillare la b</e
+m>è una b</e
+m>pare una b</e
+m>dare un colpo al cerchio e uno alla b</e
+m>essere in una b</e
+m>di ferro</e
+m>volere la b</e
+m>piena e la moglie ubriaca</e
+m>nelle b</e
+m>piccine sta il vino buono</e
+m>la b</e
+m>dà il vino che ha</e
+m>quest&rsquo;anno abbiamo ricavato cinque b</e
+m>di vino</e
+m>a sifone</e
+m>tomba a sifone</e
+m>tamburo</e
+m>botticella</e
+m>a botte</e
+m>volta a b</e
+m>capanna a b</e
+m>torace a botte</e

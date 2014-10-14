@@ -1,0 +1,12 @@
+bussola.txt
+"ago della bussola"
+"bussola"
+"bussola"
+"bussola magnetica"
+"chiave a bussola"
+"prua bussola"
+"rosa della bussola"
+*[[portantina]], [[lettiga
+*(per elemosine, per schede elettorali) [[cassetta]]
+*[[bussola azimutale]], [[bussolotto]], [[girobussola]]
+* [[nord]], [[sud]], [[est]], [[ovest]], [[girobussola]], [[girodirezionale]], [[orientamento]], [[chiave]], [[officina]]

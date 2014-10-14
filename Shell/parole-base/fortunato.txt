@@ -1,0 +1,42 @@
+fortunato.txt
+"colpo fortunato"
+"colpo fortunato"
+"essere fortunato"
+"essere fortunato"
+"evento fortunato"
+"fortuna; periodo fortunato"
+"fortunato"
+"matrimonio bagnato, matrimonio fortunato."
+"ritenta e sarai più fortunato"
+"sfortunato al gioco fortunato in amore"
+"tiro fortunato"
+#*''ha avuto un pomeriggio fortunato
+*[[fausto]], [[felice]]
+*[[sfortunato]], [[infausto]]
+*[[fortuna]], [[fortunatamente]]
+M>fortunatus</E
+M>fortunare</E
+M>è un uomo f</E
+M>è sempre stato f</E
+M>nella vita</E
+M>te!</E
+M>lui!</E
+M>puoi dirti f</E
+M>che non t’è andata peggio</E
+M>quando si nasce fortunati!</E
+M>fortunato!</E
+M>fortunatissimo!</E
+M>di fare la sua conoscenza</E
+M>operazione</E
+M>impresa f</E
+M>per un f</E
+M>caso</E
+M>fu un f</E
+M>incontro</E
+M>è un giorno davvero f</E
+M>per me</E
+M>numero f</E
+M>cartella f</E
+M>fortunatamente sei arrivato in tempo</E
+M>cercava d’imbrogliarmi</E
+M>ma fortunatamente me ne sono accorto</E

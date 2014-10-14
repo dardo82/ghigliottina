@@ -1,0 +1,47 @@
+eseguire.txt
+"eseguire"
+"eseguire"
+"eseguire brani musicali"
+"eseguire con successo"
+"eseguire funzioni"
+"eseguire meglio"
+"eseguire per la prima volta"
+"eseguire un"
+"eseguire un'indagine"
+"eseguire uno schema"
+*''(lavoro, progetto, eccetera)'' [[fare]], [[operare]], [[compiere]], [[realizzare]], [[attuare]], [[effettuare]], [[svolgere]], [[concretizzare]], [[adempiere]], [[espletare]], [[assolvere]], [[ottemperare]]
+*''(brano musicale, autore)'' [[interpretare]], [[cantare]], [[suonare]]
+*[[pensare]], [[ideare]], [[progettare]], [[teorizzare]],[[ascoltare]]
+*[[esecutivo]],[[esecutore]], [[esecuzione]], [[eseguibile]]
+M>exs</E
+M>qui</E
+M>ex-</E
+M>sequi</E
+M>io e</E
+M>eguisco</E
+M>tu e</E
+M>eguisci</E
+M>io e</E
+M>éguo</E
+M>un ordine</E
+M>un comando</E
+M>la legge</E
+M>una sentenza</E
+M>un disegno</E
+M>un progetto</E
+M>una proposta</E
+M>un quadro su commissione</E
+M>e. una riparazione</E
+M>lavori mal eseguiti</E
+M>eseguiti con molta precisione</E
+M>un ballo in costume</E
+M>alcune imitazioni</E
+M>delle scenette comiche</E
+M>una sonata</E
+M>una sinfonia</E
+M>un concerto</E
+M>Mozart</E
+M>Bach</E
+M>delle variazioni sul pianoforte</E
+M>un brano sull’arpa</E
+M>sul violino</E

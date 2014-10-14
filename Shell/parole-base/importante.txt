@@ -1,0 +1,86 @@
+importante.txt
+"articolo più importante"
+"avere un ruolo importante (nel fare qlc)"
+"considerare importante"
+"cosa importante"
+"cosa più importante"
+"cosa poco importante"
+"cosa poco importante"
+"di poca importanza, poco importante"
+"ecclesiastico importante"
+"essere importante"
+"far passare qcs come non importante, sviare l'attenzione"
+"gente importante"
+"grande, importante"
+"il più importante"
+"importante"
+"importante"
+"importante"
+"importante"
+"importante, energico"
+"l'importante"
+"la parte più importante"
+"momento storico importante, pietra miliare nella storia"
+"non così importante"
+"non importante"
+"non importante"
+"non importante"
+"non molto importante, non un gran problema"
+"perdere un'occasione importante"
+"persona importante"
+"persona importante"
+"persona importante"
+"persona importante"
+"persona importante; energica"
+"persona molto importante"
+"più importante"
+"più importante"
+"più importante"
+"poco importante"
+"poco importante"
+"punto importante"
+"VIP (persona molto importante)"
+#*''nel quartiere [[w
+*(di notizia, decisione, eccetera) [[rilevante]], [[considerevole]], di grande interesse, [[notevole]], [[apprezzabile]], [[fondamentale]], [[vitale]], [[sostanzioso]], [[essenziale]]
+*(di personaggio) [[influente]], [[autorevole]], [[potente]], [[famoso]], [[ragguardevole]], [[insigne]]
+*(di vestito, ricevimento, eccetera) [[elegante]], [[prestigioso]], [[pregiato]]
+*[[difficile]], [[impegnativo]], [[serio]], [[grave]]
+*(di scoperta, avvenimento ecc.) [[significativo]], [[rimarchevole]], [[saliente]]
+*l’essenziale
+*(di notizia, decisione, eccetera) [[irrilevante]], [[insignificante]], [[trascurabile]], [[futile]]
+*( di personaggio) [[sconosciuto]], [[oscuro]]
+* (di vestito, ricevimento, ecc.) [[semplice]], [[modesto]], [[umile]]
+*[[facile]]
+*[[autorevole]], [[influente]]
+*italiano
+*spagnolo
+M>importare</E
+M>un affare</E
+M>una questione i</E
+M>notizia</E
+M>lettera</E
+M>avviso i</E
+M>un importantissimo documento</E
+M>gli avvenimenti più i</E
+M>del secolo</E
+M>fare i</E
+M>considerazioni</E
+M>avere una parte i</E
+M>in un’impresa</E
+M>scordavo di dirti la cosa più i</E
+M>è i</E
+M>per me</E
+M>per voi tutti</E
+M>è i</E
+M>agli effetti giuridici</E
+M>un personaggio i</E
+M>io so i nomi delle persone serie e i. che stanno dietro i tragici ragazzi che hanno scelto le suicide atrocità fasciste</E
+M>fare l’i</E
+M>l’i</E
+M>è di riuscire</E
+M>l’i</E
+M>è che il progetto sia approvato</E
+M>trovare i capitali: questo è l’importante!</E
+M>un arredamento per un salotto i</E
+M>una festa i</E
+M>un abito i</E

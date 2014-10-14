@@ -1,0 +1,72 @@
+tabacco.txt
+"del fumo del tabacco"
+"della coltivazione del tabacco"
+"della pianta del tabacco"
+"della pipa da tabacco"
+"fare uso di tabacco"
+"fumare tabacco"
+"masticare tabacco"
+"masticare tabacco"
+"mosaico del tabacco"
+"pipa da tabacco"
+"tabacco"
+"tabacco"
+"tabacco"
+"Il tabacco fa male. "
+"tabacco, tabacchi"
+"tipi di tabacco"
+"tabacco da fumo"
+"tabacco da masticare"
+"tabacco per sigarette"
+"tipo di tabacco da masticare"
+"via del tabacco"
+"virus del mosaico del tabacco"
+*[[tabaccaio]], [[tabaccoso]]
+M>abb</E
+M>ubb</E
+M>Inula viscosa</E
+M>tabaco</E
+M>tabacco</E
+M>Nicotiana</E
+M>Nicotiana tabacum</E
+M>-chi</E
+M>Nicotiana tabacum</E
+M>N. rustica</E
+M>olio di semi di t.</E
+M>cura</E
+M>concia</E
+M>t. da fumo</E
+M>t. da masticare</E
+M>t. da fiuto</E
+M>t. da naso</E
+M>t. dolce</E
+M> forte</E
+M>t. biondo</E
+M> scuro</E
+M>ciccare</E
+M> masticare t.</E
+M>fiutare</E
+M> annusare</E
+M>prendere t.</E
+M>una presa</E
+M> un pizzico di t.</E
+M>Bacco</E
+M> tabacco e Venere riducon l&#8217;uomo in cenere</E
+M>i t. egiziani</E
+M> turchi</E
+M> macedoni</E
+M> virginia</E
+M>t. nazionali ed esteri</E
+M>manifattura dei tabacchi</E
+M>manifattura tabacchi</E
+M>calumet</E
+M>Color tabacco</E
+M>tabacco</E
+M>un cappello</E
+M> una giacca di lana</E
+M> una rilegatura</E
+M> scarpe</E
+M> tendaggi color tabacco</E
+M>tabacco.</E
+M>T. indiano</E
+M>Lobelia inflata</E

@@ -1,0 +1,39 @@
+recente.txt
+"di recente"
+"il più recente"
+"il più recente"
+"passato recente"
+"più recente"
+"recente"
+*[[nuovo]], [[fresco]]
+*[[vecchio]]
+*[[di recente]], [[recentemente]]
+M>recens</E
+M>entis</E
+M>una scoperta</E
+M>un&#8217;invenzione r</E
+M>i r</E
+M>avvenimenti politici</E
+M>un caso</E
+M>un processo r</E
+M>secondo r</E
+M>studî</E
+M>ho raccolto la bibliografia più r</E
+M>notizie r</E
+M>recentissime</E
+M>recentissime</E
+M>Al biancheggiar della r</E
+M>luna</E
+M>di recente</E
+M>l&#8217;ho visto di r</E
+M>ho studiato questo argomento di recente</E
+M>tardo</E
+M>l&#8217;elladico</E
+M>il miceneo r</E
+M>antico</E
+M>medio</E
+M>lo strato più r</E
+M>periodo r</E
+M>olocene</E
+M>sono stato a Roma recentemente</E
+M>gli esperimenti fatti recentissimamente</E

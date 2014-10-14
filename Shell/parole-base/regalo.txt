@@ -1,0 +1,80 @@
+regalo.txt
+"articoli da regalo"
+"buono regalo, buono omaggio"
+"carta da regalo"
+"cesto regalo, cesto di doni"
+"confezione del regalo"
+"fare un pacco regalo, fare una confezione regalo"
+"fare un regalo; regalare"
+"idea regalo"
+"in regalo"
+"incartare, avvolgere in carta da regalo"
+"pacco regalo"
+"negozio di articoli da regalo"
+"regalo"
+"regalo"
+"regalo"
+"relativo al regalo"
+"regalo di compleanno"
+"regalo di compleanno"
+"regalo di nozze"
+"regalo per"
+"regalo per qc, dono per qc"
+"regalo simbolico"
+#*''confezione regalo''
+#*''A natale si fanno dei '''regali'''.''
+#*''Quel voto è stato un '''regalo''', non se lo meritava!''
+* [[dono]], [[omaggio]], [[sorpresa]], [[presente]], [[strenna]]
+*''(iperbole)'' [[offerta]], [[affare]]
+*[[regalare]]
+*italiano
+M>regalo</E
+M>dare</E
+M>ricevere qualcosa in regalo</E
+M>dare</E
+M>offrire</E
+M>portare</E
+M>porgere</E
+M>fare un r</E
+M>per il suo onomastico il padre gli ha dato come r</E
+M>in r</E
+M>cento euro</E
+M>quale r</E
+M>hai avuto per il tuo compleanno?</E
+M>ricevere</E
+M>accogliere</E
+M>gradire un r</E
+M>è un funzionario onesto</E
+M>non accetta regali da nessuno</E
+M>rifiutare</E
+M>respingere</E
+M>rimandare indietro un r</E
+M>hanno rotto il fidanzamento e si sono restituiti lettere e regali</E
+M>ricco</E
+M>splendido</E
+M>magnifico</E
+M>superbo</E
+M>prezioso</E
+M>povero</E
+M>meschino</E
+M>di poco valore</E
+M>senza pretese</E
+M>gradito</E
+M>opportuno</E
+M>utile</E
+M>regali di fidanzamento</E
+M>di nozze</E
+M>per la prima comunione</E
+M>pacco</E
+M>confezione regalo</E
+M>il miglior r</E
+M>che mi puoi fare è quello di aiutarmi</E
+M>favore</E
+M>cortesia</E
+M>una sua visita sarà per noi il più bel r</E
+M>un vero r</E
+M>mi farà un gran r</E
+M>un doppio r</E
+M>se non si presenterà più a casa mia</E
+M>mi hai fatto un bel r</E
+M>mandandomi quel seccatore!</E

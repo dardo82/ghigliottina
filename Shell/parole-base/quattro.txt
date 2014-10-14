@@ -1,0 +1,222 @@
+quattro.txt
+"a quattro"
+"a quattro cicli"
+"a quattro cilindri"
+"a quattro fasi"
+"a quattro foglie"
+"a quattro gambe"
+"a quattro lettere"
+"a quattro linee"
+"a quattro mani"
+"a quattro occhi"
+"a quattro parti"
+"a quattro piedi"
+"a quattro posti"
+"a quattro ruote"
+"a quattro ruote motrici"
+"a quattro zampe"
+"ai quattro venti"
+"amici a quattro zampe"
+"appuntamento a quattro"
+"camminare a quattro zampe"
+"cantargliene quattro"
+"carrozza a quattro ruote"
+"che misura due pollici per quattro"
+"da quattro soldi"
+"da uno a quattro"
+"dai quattro venti"
+"di quattro acri"
+"di quattro anni"
+"di quattro anni (età)"
+"di quattro giorni"
+"di quattro iarde"
+"di quattro libbre"
+"di quattro mesi"
+"di quattro minuti"
+"di quattro once"
+"di quattro ore"
+"di quattro pollici"
+"di quattro settimane"
+"dirne quattro"
+"due più due fa quattro"
+"due\/quattro"
+"essere quattro gatti"
+"fare il diavolo a quattro"
+"fare quattro chiacchiere"
+"fare quattro salti"
+"fare una bella chiacchierata, fare quattro chiacchiere"
+"farsi in quattro"
+"generale a quattro stelle"
+"gridare ai quattro venti"
+"guadagnare quattro soldi"
+"i quattro angoli della terra"
+"i quattro cavalieri dell'apocalisse"
+"i quattro elementi"
+"le quattro in punto"
+"le quattro libertà"
+"legato per le quattro zampe"
+"letto a quattro colonne"
+"mettere le quattro frecce"
+"per quattro soldi"
+"periodo di quattro anni"
+"quattro"
+"quattro"
+"quattro"
+"uso ellittico: il numero quattro"
+"quattro domande"
+"quattro e mezza, quattro e mezzo"
+"quattro formaggi"
+"quattro frecce"
+"quattro gemelli"
+"quattro luglio (giorno dell'indipendenza americana)"
+"quattro ruote"
+"quattro stracci"
+"quattro volte"
+"scambiare quattro parole"
+"spaccare il capello in quattro"
+"spaccare un capello in quattro"
+*[[quattrino]], [[quattrocchi]], [[quattrocentesco]], [[quattrocentino]], [[quattrocentista]], [[quattrocento]], [[quattrocentometrista]],  [[quattrofoglie]], [[quattrozampe]], [[quattromila]], [[quattrocentomila]]
+*[[tre]], [[cinque]], [[quadrato]], [[quadro]], [[quarto]], [[quaranta]], [[quaterna]], [[quattrino]]
+*[[numero]], [[cifra]]
+M>quattuor</E
+M>quatuor</E
+M>le q</E
+M>stagioni</E
+M>stagioni</E
+M>scarpe q</E
+M>stagioni</E
+M>olio per motori q</E
+M>stagioni</E
+M>le q</E
+M>tempora</E
+M>i q</E
+M>punti cardinali</E
+M>i q</E
+M>venti</E
+M>gridare ai q</E
+M>venti</E
+M>i q</E
+M>elementi degli antichi</E
+M>i q</E
+M>vangeli</E
+M>i q</E
+M>evangelisti</E
+M>calcoli con le q</E
+M>operazioni</E
+M>le q</E
+M>libertà atlantiche</E
+M>gioco dei q</E
+M>cantoni</E
+M>chiuso tra q</E
+M>mura</E
+M>tra q</E
+M>pareti</E
+M>autovettura a q</E
+M>porte</E
+M>una q</E
+M>porte</E
+M>motore a q</E
+M>cilindri</E
+M>cambio a q</E
+M>marce</E
+M>sonata a q</E
+M>mani</E
+M>quattr’occhi</E
+M>parlare a quattr’occhi</E
+M>quattr’occhi vedono meglio di due</E
+M>con quattr’occhi ci vedo meglio</E
+M>tutt’e quattro</E
+M>ci andremo tutt’e q</E
+M>da tutt’e q</E
+M>i lati</E
+M>preparare la tavola per q</E
+M>persone</E
+M>gioco che si fa in q</E
+M>mettersi in fila per q</E
+M>patto a q</E
+M>tiro a q</E
+M>cavalli</E
+M>dividere</E
+M>piegare</E
+M>spezzare in q</E
+M>parti</E
+M>faceva le scale a q</E
+M>a q</E
+M>per q</E
+M>4 × 4</E
+M>a trazione integrale</E
+M>quattri</E
+M>il q</E
+M>scrivi un q</E
+M>cancella quel q</E
+M>moltiplicare</E
+M>dividere per q</E
+M>due per q</E
+M>fa otto</E
+M>l’interesse del q</E
+M>per cento</E
+M>è uscito il q</E
+M>ho avuto un q</E
+M>in storia</E
+M>il q</E
+M>di bastoni</E
+M>di spade</E
+M>il 4 maggio</E
+M>essere del q</E
+M>sono già le q</E
+M>ci troveremo alle q</E
+M>sotto i portici</E
+M>un q</E
+M>di punta</E
+M>un quattro con</E
+M>un quattro senza</E
+M>è vero</E
+M>chiaro</E
+M>evidente</E
+M>come due e due fanno q</E
+M>come q</E
+M>e q</E
+M>fanno otto</E
+M>in quattro e quattr’otto</E
+M>non dir q</E
+M>se non l’hai nel sacco</E
+M>due</E
+M>andiamo a fare q</E
+M>passi</E
+M>fare q</E
+M>salti</E
+M>fare q</E
+M>chiacchiere</E
+M>scambiare q</E
+M>parole</E
+M>non vale la pena di litigare per quei q</E
+M>soldi</E
+M>un vestito</E
+M>un quadro da q</E
+M>soldi</E
+M>che non vale q</E
+M>soldi</E
+M>sono</E
+M>c’erano q</E
+M>gatti</E
+M>questi q</E
+M>giorni che dobbiamo stare in questo mondo</E
+M>si può sperare che vogliano essere un po’ meglio</E
+M>farsi in q</E
+M>per qualcuno</E
+M>dirne q</E
+M>a qualcuno</E
+M>voglio dirgliene q</E
+M>a quel mascalzone!</E
+M>fare il diavolo a q</E
+M>fare chiasso</E
+M>fare baccano per q</E
+M>è magrolino</E
+M>quanto a forza</E
+M>conta per q</E
+M>mangiare a q</E
+M>ganasce</E
+M>a q</E
+M>palmenti</E
+M>spaccare il</E
+M>capello in q</E

@@ -1,0 +1,47 @@
+tendenza.txt
+"avere un'inclinazione; una tendenza"
+"mostrare una tendenza"
+"nuova tendenza"
+"tendenza"
+"tendenza"
+"tendenza"
+"tendenza al cambiamento"
+"tendenza centrale"
+"tendenza generale"
+"tendenza in ribasso"
+"tendenza naturale"
+*[[inclinazione]], [[moda]], [[orientamento]], [[propensione]] 
+*[[tendenziale]], [[tendenzioso]]
+*[[tendere]]
+:* [[tendency]], [[bent]], [[inclination]], [[proneness]], [[propension]],  [[trend]], [[drift]],  (''politics'') [[leaning]], [[camp]], [[party]]
+M>quella ragazza ha una certa t. alla malinconia</E
+M>avere</E
+M>non avere</E
+M>t. per la musica</E
+M>per la pittura</E
+M>per la matematica</E
+M>un ragazzo che ha scarsa t. allo studio</E
+M>ha una forte t. al bere</E
+M>avere brutte t.</E
+M>t. a delinquere</E
+M>tutte le t. del partito sono rappresentate nel congresso</E
+M>t. di destra</E
+M> di sinistra</E
+M>le t. estremistiche di alcuni gruppi</E
+M>nella pittura del secondo Novecento prevale la t. astratta</E
+M>di tendenza</E
+M>un locale di t</E
+M>abbigliamento di tendenza</E
+M>un legno che ha la t. a piegarsi</E
+M>osservare</E
+M> seguire le t. della moda</E
+M>tenere sotto controllo le t. del mercato</E
+M>la t. del mercato al rialzo</E
+M> al ribasso</E
+M>t. positive</E
+M> negative</E
+M> recessive</E
+M>il tempo è ancora incerto</E
+M> con t. a migliorare</E
+M>t. barometrica</E
+M>t. a un limite</E

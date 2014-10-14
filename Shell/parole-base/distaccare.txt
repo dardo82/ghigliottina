@@ -1,0 +1,38 @@
+distaccare.txt
+"distaccare"
+"distaccare"
+"distaccare"
+"separarsi, distaccare, replace: separarsi, distaccarsi"
+*''(un oggetto)'' [[staccare]], [[separare]]
+*''(un concorrente, un avversario)'' [[staccare]], [[distanziare]], [[superare]], [[battere]]
+*''(un oggetto)'' [[attaccare]]
+*''(il personale, i militari)'' [[richiamare]]
+*[[distaccarsi]]
+M>staccare</E
+M>dis</E
+M>détacher</E
+M>io distacco</E
+M>tu distacchi</E
+M>staccare</E
+M>un cerotto</E
+M>un quadro dalla parete</E
+M> si è distaccato un cavo dal computer</E
+M>s’era piantato davanti al televisore e non riuscivo a distaccarlo di lì</E
+M>alcuni agenti</E
+M>un impiegato presso un altro ufficio</E
+M>dagli amici</E
+M>dalla famiglia</E
+M>dal lavoro</E
+M>dal gioco</E
+M>dal vino</E
+M>distaccarsi dal mondo</E
+M>dai beni terreni</E
+M>ha distaccato il gruppo di tre minuti</E
+M>per diligenza si distacca da tutti i suoi compagni</E
+M>un libro che</E
+M>per lo stile</E
+M>si distacca dagli altri dello stesso autore</E
+M>è anche questo un mobile d’imitazione</E
+M>ma si distacca dagli altri per la finezza dell’esecuzione</E
+M>è una figura che si distacca dallo sfondo del quadro</E
+M>dagli altri personaggi del romanzo</E

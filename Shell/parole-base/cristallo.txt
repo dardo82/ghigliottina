@@ -1,0 +1,62 @@
+cristallo.txt
+"bicchiere di cristallo"
+"cristallo"
+"cristallo"
+"cristallo"
+"cristallo di ghiaccio"
+"cristallo di quarzo"
+"cristallo di rocca"
+"cristallo liquido"
+"cristallo roccioso"
+"sfera di cristallo"
+"sfera di cristallo; palla di vetro"
+M>crystallus</E
+M>crystallum</E
+M>di Boemia</E
+M>al piombo</E
+M>mezzo c</E
+M>di Boemia</E
+M>temperato</E
+M>di sicurezza</E
+M>laminato</E
+M>un bicchiere di c</E
+M>purissimo</E
+M>un vaso</E
+M>un soprammobile di cristallo</E
+M>acqua che pare un c</E
+M>ruscelli di cristallo</E
+M>una raccolta di preziosi c</E
+M>francesi</E
+M>L’umor che Bacco a’ verdi colli stilla</E
+M>empie i c</E
+M>passando per li c</E
+M>del telescopio</E
+M>E ’l mormorar de’ liquidi c</E
+M>In lieto aspetto il bel giardin s’aperse: Acque stagnanti</E
+M>mobili c</E
+M>Al mormorio de’ tremuli c</E
+M>E già son quasi di cristallo i fiumi</E
+M>Dentro al c</E
+M>che ’l vocabol porta</E
+M>del suo caro duce</E
+M>Par</E
+M>individui cristallini informi</E
+M>cristalliti</E
+M>grado di simmetria</E
+M>classe di simmetria</E
+M>sistemi cristallini</E
+M>aciculari</E
+M>prismatici</E
+M>tabulari</E
+M>bipiramidati</E
+M>misti</E
+M>idiomorfi</E
+M>allotriomorfi</E
+M>C. modello</E
+M>sproporzionato</E
+M>Cristallo di ròcca</E
+M>cristallo di monte</E
+M>quarzo ialino</E
+M>Cristallo liquido</E
+M>display</E
+M>Cristallo plastico</E

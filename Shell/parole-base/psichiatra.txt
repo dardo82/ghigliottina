@@ -1,0 +1,7 @@
+psichiatra.txt
+"psichiatra"
+"medico psichiatra"
+*[[psicopatologo]]
+*[[psichiatria]]
+M>psico</E
+M>iatra</E

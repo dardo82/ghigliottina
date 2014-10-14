@@ -1,0 +1,19 @@
+fertile.txt
+"fertile"
+"fertile, prolific, fecund"
+"fertile"
+"fertile, fruitful, productive, rich"
+"la fertile pianura padana"
+"the fertile Po valley"
+"terreno fertile"
+#*''arare un campo fertile'' 
+*italiano
+M>fert</E
+M>lis</E
+M>ferre</E
+M>terra f</E
+M>campi</E
+M>poderi f</E
+M>sono zone assai fertili</E
+M>ingegno f</E
+M>immaginazione f</E

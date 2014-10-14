@@ -1,0 +1,18 @@
+spezie.txt
+"commercio di spezie"
+"miscela di spezie aromatiche (cucina indiana)"
+"pesce ripieno di altro pesce macinato con spezie (ricetta ebraica)"
+"sale con spezie"
+"salsa di spezie e frutta"
+"scatola delle spezie"
+"spezie"
+*[[aromi]], [[droghe]]
+M>specie</E
+M>species</E
+M>in questo salame ci sono troppe s.</E
+M>un negozio di s.</E
+M>il commercio delle s. era molto redditizio all&#8217;epoca delle crociate</E
+M>il cuoco</E
+M>minuzzatolo e messevi di buone spezie assai</E
+M> ne fece un manicaretto troppo buono</E
+M>spezia</E

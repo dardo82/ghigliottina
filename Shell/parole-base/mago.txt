@@ -1,0 +1,38 @@
+mago.txt
+"mago"
+"mago"
+"mago"
+"mago alchimista"
+"mago negrormante"
+"mago, incantatore, stregone"
+#*''quel chirurgo è un '''mago''' dei trapianti''
+*[[ stregone]], [[negromante]], [[fattucchiere]], [[chiaroveggente]], [[chiromante]], [[indovino]], [[veggente]], [[incantatore]], [[illusionista]], [[prestigiatore]]
+*[[magone]]
+M>magus</E
+M>magush</E
+M>ghi</E
+M>magi</E
+M>magio</E
+M>-ghi</E
+M>credere nei maghi</E
+M>Simon Mago</E
+M>i maghi furono bruciati come eretici</E
+M>il m</E
+M>Merlino</E
+M>il m</E
+M>Atlante</E
+M>il m</E
+M>Ismeno</E
+M>la maga Alcina</E
+M>la maga Melissa</E
+M>il m</E
+M>sabino</E
+M>sembrare il m</E
+M>sabino</E
+M>un m</E
+M>del colore</E
+M>della penna</E
+M>m. della novissima fisica</E
+M> egli dominava completamente i raggi infrarossi</E
+M>quella ragazza è una maga!</E
+M>forza assai maggior che d’arti maghe</E

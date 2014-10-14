@@ -1,0 +1,12 @@
+autocarro.txt
+"autocarro"
+"autocarro con scala"
+"camion, autocarro"
+"carico di autocarro"
+*[[camion]]
+*Enciclopedia [http
+M>auto</E
+M>carro</E
+M>autocar</E
+M>a pianale</E
+M>schermografico</E

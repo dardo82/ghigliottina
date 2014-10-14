@@ -1,0 +1,6 @@
+manganello.txt
+"manganello"
+"manganello del poliziotto"
+"manganello del poliziotto"
+*[[bastone]], [[randello]], [[sfollagente]]
+M>mangano</E

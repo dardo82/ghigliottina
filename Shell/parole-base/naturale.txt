@@ -1,0 +1,244 @@
+naturale.txt
+"a grandezza naturale"
+"a grandezza naturale"
+"a grandezza naturale"
+"a\/di grandezza naturale"
+"abilità naturale"
+"acqua naturale"
+"al naturale"
+"allo stato naturale"
+"ambiente naturale"
+"avere una inclinazione naturale per"
+"capitale naturale"
+"colore naturale"
+"colore naturale"
+"conseguenza naturale"
+"crescita naturale"
+"crudo, naturale"
+"cura naturale"
+"diritto naturale"
+"equilibrio naturale"
+"facile, spontaneo, naturale"
+"fibra naturale"
+"fibra naturale"
+"figlio naturale"
+"filosofia naturale"
+"filosofo naturale"
+"fissazione dell'azoto naturale"
+"gas naturale"
+"gomma naturale"
+"grandezza naturale"
+"immunità naturale"
+"immunità naturale"
+"in modo naturale"
+"in scala al naturale"
+"inclinazione naturale"
+"integrale; a grandezza naturale"
+"istinto naturale"
+"legge naturale"
+"logaritmo naturale"
+"magia naturale"
+"minerale naturale"
+"mondo naturale"
+"mondo naturale"
+"morire di morte naturale"
+"morte naturale"
+"naturale"
+"naturale"
+"naturale"
+"naturale"
+"naturale"
+"non naturale"
+"numero naturale"
+"pane di lievito naturale"
+"parco naturale"
+"parto naturale"
+"pascolo naturale"
+"porto naturale"
+"porto naturale"
+"radioattività naturale"
+"religione naturale"
+"rendere naturale"
+"riscaldamento a gas naturale"
+"riserva naturale"
+"selezione naturale"
+"selezione naturale, sopravvivenza del più adatto"
+"spirito naturale"
+"stato di natura, stato naturale"
+"stato naturale"
+"stato naturale"
+"stato naturale"
+"storia naturale"
+"storia naturale"
+"sviluppo naturale"
+"tendenza naturale"
+"teologia naturale"
+"venire naturale scegliere"
+"viene naturale chiedersi..."
+"vita naturale"
+*[[innaturale]], [[artificiale]]
+*[[soprannaturale]]
+*[[fisico]]
+M>naturalis</E
+M>filosofia n</E
+M>storia n</E
+M>leggi n</E
+M>scienze n</E
+M>scienze dello spirito</E
+M>esplicative</E
+M>matematiche</E
+M>Ché ’l furor de lassù</E
+M>gente ritrosa</E
+M>Vincerne d’intellecto</E
+M>Peccato è nostro</E
+M>e non natural cosa</E
+M>bisogni</E
+M>necessità n</E
+M>appetiti n</E
+M>il corso n</E
+M>degli avvenimenti</E
+M>diritto n</E
+M>diritto di natura</E
+M>diritti n</E
+M>religione n</E
+M>fenomeni n</E
+M>cause n</E
+M>confini n</E
+M>morte n</E
+M>vita natural durante</E
+M>lago n</E
+M>porto n</E
+M>luce n</E
+M>pellicola per luce n</E
+M>ricchezze</E
+M>risorse n</E
+M>bellezze n</E
+M>fiori n</E
+M>colorito n</E
+M>colore n</E
+M>ha ancora tutti i suoi denti n</E
+M>sono capelli n</E
+M>vini</E
+M>alimenti n</E
+M>aromi n</E
+M>coloranti n</E
+M>coloranti organici n</E
+M>fibre tessili n</E
+M>gas naturali</E
+M>acqua n</E
+M>acqua minerale n</E
+M>succo di frutta n</E
+M>fotografia a colori n</E
+M>in grandezza n</E
+M>metodo n</E
+M>metodi naturali</E
+M>nativo</E
+M>innato</E
+M>che l’amore della vita negli uomini non sia n</E
+M>o vogliamo dire non sia necessario</E
+M>vedi che moltissimi ai tempi antichi elessero di morire potendo vivere</E
+M>è n</E
+M>negli uomini il desiderio di libertà</E
+M>non riesce a vincere la n</E
+M>timidezza</E
+M>aveva una disposizione n</E
+M>per la musica</E
+M>una bontà</E
+M>una generosità n</E
+M>difetti naturali</E
+M>farsi fotografare in una posa n</E
+M>sei riuscito molto n</E
+M>in questa foto</E
+M>mi venne n</E
+M>di rispondere così</E
+M>O per parlar più franco e n</E
+M>ma è n</E
+M>è n</E
+M>che sia caduto</E
+M>correva come un pazzo!</E
+M>«Verrai anche tu?» «È naturale!»</E
+M>«Naturale!»</E
+M>classificazione</E
+M>sistema</E
+M>classificazione artificiale</E
+M>selezione n</E
+M>movimento n</E
+M>della popolazione</E
+M>figlio n</E
+M>figlio legittimo</E
+M>filiazione n</E
+M>maternità n</E
+M>maternità legittima</E
+M>Giudice n</E
+M>Obbligazione n</E
+M>agenti</E
+M>elementi</E
+M>fattori n</E
+M>della produzione</E
+M>economia n</E
+M>interesse n</E
+M>saggio n</E
+M>d’interesse</E
+M>salario n</E
+M>prezzo n</E
+M>del lavoro</E
+M>proprio</E
+M>frequenza n</E
+M>di un’antenna</E
+M>periodo n</E
+M>delle vibrazioni spontanee di un corpo</E
+M>numeri n</E
+M>logaritmi n</E
+M>neperiani</E
+M>suono n</E
+M>scala n</E
+M>strumenti n</E
+M>declivio</E
+M>angolo di n</E
+M>declivio</E
+M>di una terra</E
+M>natura</E
+M>indole</E
+M>carattere</E
+M>temperamento</E
+M>avere un buon n</E
+M>un n</E
+M>dolce</E
+M>affettuoso</E
+M>allegro</E
+M>melanconico</E
+M>rustico</E
+M>scontroso</E
+M>come stesse di dentro</E
+M>s’intenderà meglio</E
+M>quando avrem detto qualche cosa del suo naturale</E
+M>pure convien dire che fossi di buon n</E
+M>poiché non mi venne mai l’idea di mal fare</E
+M>i naturali</E
+M>i popoli n</E
+M>primitivi</E
+M>al n</E
+M>piselli al n</E
+M>vista così al n</E
+M>l’attrice sembra anche più giovane</E
+M>sembra più bassa</E
+M>più magra</E
+M>al n</E
+M>al naturale</E
+M>fu uno ch’avea sì grande n</E
+M>che non trovava neuno che fosse sì grande</E
+M>Novellino</E
+M>moto naturalmente accelerato</E
+M>certi vizii sono ne l’uomo a li quali naturalmente elli è disposto</E
+M>i mortali sono naturalmente schiavi</E
+M>naturalmente tiranni</E
+M>naturalmente ciechi</E
+M>esprimersi naturalmente in modo elegante</E
+M>il portamento</E
+M>era naturalmente composto</E
+M>e quasi involontariamente maestoso</E
+M>l’offerta era allettante</E
+M>e io</E
+M>naturalmente</E
+M>ho accettato</E
+M>«Hai forse cambiato idea?» «Naturalmente!»</E

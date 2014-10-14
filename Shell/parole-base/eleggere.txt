@@ -1,0 +1,26 @@
+eleggere.txt
+"eleggere"
+"eleggere"
+"eleggere domicilio"
+"eleggere qualcuno presidente"
+#*''eleggere il proprio domicilio a Milano''
+*[[nominare]], [[fissare]] 
+*[[eleggibile]], [[eletto]]
+*[[elezione]]
+M>elig</E
+M>leg</E
+M>io elèggo</E
+M>tu elèggi</E
+M>leggere</E
+M>i deputati</E
+M>i senatori</E
+M>fu eletto papa il cardinale A</E
+M>Ratti</E
+M>fu eletto presidente per acclamazione</E
+M>a maggioranza</E
+M>a scrutinio segreto</E
+M>fu de l’alma Roma e di suo impero Ne l’empireo ciel per padre eletto</E
+M>di gran lunga è da elegger più tosto il poco e saporito che il molto e insipido</E
+M>moltissimi ai tempi antichi elessero di morire potendo vivere</E
+M>il proprio domicilio a Roma</E
+M>a Milano</E

@@ -1,0 +1,112 @@
+scoprire.txt
+"farsi scoprire"
+"scoprire"
+"scoprire"
+"scoprire"
+"scoprire"
+"scoprire"
+"scoprire"
+"scoprire, replace: scoprirsi"
+"scoprire, replace: scoprirsi"
+"scoprire, replace: scoprirsi"
+"scoprire col fiuto, scovare"
+"Scoprire gli altarini"
+"scoprire gli altarini"
+"scoprire difetti altrui"
+"scoprire la vera ragione di qcs"
+"scoprire la vera ragione di qcs"
+"scoprire o pensare qcs."
+"scoprire per caso"
+"scoprire, svelare"
+"sentire parlare di qcs.; scoprire qcs."
+"tentare di scoprire"
+"una persona tutta da scoprire"
+*[[scoperchiare]], [[aprire]]
+*[[svestire]], [[spogliare]], [[liberare]], [[denudare]]
+*lasciare privo di protezione, lasciare privo di difesa, lasciare indifeso, [[esporre]]
+*(il colpevole) [[smascherare]], [[identificare]], [[individuare]], [[riconoscere]]; far vedere, far conoscere, rendere noto, [[dichiarare]], [[rivelare]], [[svelare]], lasciarsi sfuggire, [[mostrare]], [[manifestare]]
+*(di cosa, luogo) [[trovare]], [[ritrovare]], [[rintracciare]], [[scovare]], [[rinvenire]]
+*[[capire]], [[comprendere]], [[apprendere]], rendersi conto, [[accorgersi]], [[indovinare]], [[intuire]]
+* [[coprire]], [[ricoprire]], [[chiudere]] 
+*[[vestire]], [[rivestire]]
+*[[difendere]], [[proteggere]]
+*(il colpevole) [[nascondere]], [[occultare]]
+*(di cosa, luogo)[[perdere]], [[smarrire]]
+*[[cercare]], [[ignorare]]
+*[[riscoprire]], [[ricoprire]], [[scoprirsi]]
+*[[scoperta]], [[scopribile]], [[scoprimento]], [[scopritore]], [[scopritrice]], [[scopritura]]
+M>coprire</E
+M>coprire</E
+M>s. una pentola</E
+M>scoprire le artiglierie!</E
+M>il vento le scopriva le gambe</E
+M>sta attento a non s. il bambino</E
+M> è tutto sudato</E
+M>scoprirsi il capo</E
+M>la testa</E
+M>scoprirsi</E
+M>al passaggio del feretro tutti si scoprivano</E
+M>è presto per scoprirsi</E
+M> la sera fa ancora fresco</E
+M>non ti scoprire</E
+M> c&#8217;è corrente</E
+M>s. una statua</E
+M>una lapide</E
+M>s. gli altari</E
+M>gli altarini</E
+M>s. un altare per ricoprirne un altro</E
+M>lo Stato Maggiore non volle s. il fronte del Reno</E
+M>il pugile ha scoperto il mento e l&#8217;avversario ha approfittato per colpirlo con un deciso montante</E
+M>scoprirsi il fianco</E
+M>lo stomaco</E
+M>aspettava che l&#8217;avversario si scoprisse</E
+M>bada a non scoprirti</E
+M>Né mai</E
+M> qualunque volta si scoperse</E
+M> Ferir</E
+M> se non di piatto</E
+M> lo sofferse</E
+M>scoprirsi il fianco</E
+M>il vento</E
+M> spazzando le nubi</E
+M>ha scoperto la vallata</E
+M>s. le carte</E
+M>Tosto verrà di sovra Ciò ch&#8217;io attendo e che il tuo pensier sogna: Tosto convien ch&#8217;al tuo viso si scovra</E
+M>Qual io non l&#8217;avea vista infin allora Mi si scoverse</E
+M>s. i proprî sentimenti</E
+M>le proprie intenzioni</E
+M>per essere troppo sicuro di sé ha scoperto il suo gioco agli avversarî</E
+M>E avvegna ch&#8217;assai possa esser sazia La sete tua perch&#8217;io più non ti scuopra</E
+M>Io vo&#8217; che tu mi scopra Chi diè consiglio e chi fu insieme all&#8217;opra</E
+M>i suoi desiri Ella scopre a te solo</E
+M>rispose evasivamente per non scoprirsi</E
+M>e sempre interverrà che colui che non è amico ti ricercherà della neutralità</E
+M> e quello che ti è amico ti richiederà che ti scuopra con le arme</E
+M>a poco a poco cominciò poi a scoprir campanili e torri e cupole e tetti</E
+M>quel lontano mar</E
+M> quei monti azzurri</E
+M> Che di qua scopro</E
+M>s. la verità</E
+M>s. un segreto</E
+M>s. una nuova legge fisica</E
+M>Galileo scoprì l&#8217;isocronismo delle oscillazioni del pendolo</E
+M>è stato scoperto un complotto contro lo stato</E
+M>s. un giacimento di petrolio</E
+M>s. nuove terre</E
+M>nel 1642 A. Tasman scoprì la Tasmania</E
+M>s. l&#8217;America</E
+M>l&#8217;acqua calda</E
+M>l&#8217;ombrello</E
+M>abbiamo scoperto un ottimo ristorante</E
+M>s. il ladro</E
+M>l&#8217;assassino</E
+M>la polizia ha già scoperto il colpevole della rapina</E
+M>ho scoperto in lui un animo nobilissimo</E
+M>s. una nuova attrice</E
+M>ha scoperto per caso la propria vocazione artistica</E
+M>l&#8217;ho scoperto capace di profonda amicizia</E
+M>l&#8217;ho scoperto una canaglia</E
+M>degg&#8217;io scoprirti Anco rivale mia?</E
+M>s. paese</E
+M> terreno</E
+M>Tentando forse di scoprir terreno</E

@@ -1,0 +1,79 @@
+esporre.txt
+"esporre"
+"esporre"
+"esporre"
+"esporre a"
+"esporre a"
+"esporre a"
+"esporre a"
+"esporre al sole"
+"esporre bene in vista"
+"esporre le proprie ragioni"
+"esporre pubblicamente"
+"esporre qualcosa a"
+"esporre qualcosa all'aria"
+"esporre qualcuno a"
+* mettere fuori, mettere in vista, mettere in mostra, far vedere, [[mostrare]], [[presentare]], [[evidenziare]], [[esibire]]
+*(fotografia)  sottoporre alla luce
+*(fatti, opinioni) [[raccontare]], [[narrare]], [[descrivere]], [[riferire]], [[riportare]], [[dire]], [[esprimere]], [[manifestare]]
+*(un testo) [[leggere]], [[spiegare]], [[illustrare]], [[commentare]], [[interpretare]]
+*(a critiche) [[abbandonare]], [[lasciare]], [[offrire]]
+*[[ dichiarare]], [[giustificare]], [[motivare]]
+*[[nascondere]], [[celare]], [[occultare]]
+*(omettere di criticare)[[tacere]], [[mascherare]], [[tralasciare]], [[sorvolare]], [[omettere]]
+*[[esporsi]], [[sottoesporre]], [[esponente]], [[espositivo]], [[espositore]],[[esposizione]],[[esposto]]
+M>expon</E
+M>porre</E
+M>porre</E
+M>Non coprì sue bellezze e non l’espose</E
+M>un quadro</E
+M>una statua</E
+M>un avviso</E
+M>le bandiere</E
+M>e. i nuovi articoli in vetrina</E
+M>il pittore X espone alla galleria d’arte</E
+M>in vendita</E
+M>il Santissimo</E
+M>una reliquia</E
+M>una sacra immagine</E
+M>all’aria</E
+M>alla luce</E
+M>al sole</E
+M>un’emulsione fotografica</E
+M>tessuti biologici all’azione di radiazioni ionizzanti</E
+M>un bambino</E
+M>un neonato</E
+M>conveniva che Romulo</E
+M>fussi stato esposto al nascere</E
+M>non voglio e</E
+M>i miei compagni a una punizione</E
+M>quest’avventura lo espone a serî pericoli</E
+M>i proprî beni</E
+M>gli averi</E
+M>la vita</E
+M>nella situazione in cui si trova</E
+M>non gli conviene esporsi troppo</E
+M>esporsi all’aria</E
+M>alle correnti</E
+M>esporsi alla curiosità</E
+M>alle critiche</E
+M>alle calunnie</E
+M>agli insulti</E
+M>alle chiacchiere</E
+M>ai pettegolezzi della gente</E
+M>esporsi a rischi</E
+M>a pericoli</E
+M>mi pare che egli si esponga troppo</E
+M>esporsi per una somma molto alta</E
+M>esponi ciò che sai</E
+M>esponetemi il caso</E
+M>l’ambasciata</E
+M>i motivi</E
+M>le ragioni</E
+M>il proprio programma di lavoro</E
+M>un desiderio</E
+M>la propria opinione</E
+M>il proprio punto di vista</E
+M>esponi il contenuto del secondo libro dell’Eneide</E
+M>è un ragazzo che espone con garbo</E
+M>lucidamente</E

@@ -1,0 +1,105 @@
+bambino.txt
+"(bambino) nato al termine della gestazione"
+"a prova di bambino (sicuro per i bambini, es: tappo di detersivo)"
+"avere un bambino"
+"bambino"
+"bambino"
+"bambino"
+"bambino"
+"bambino agitato"
+"bambino cattivo"
+"bambino che frequenta la prescuola"
+"bambino che frequenta la scuola materna"
+"bambino concepito in provetta"
+"bambino dispettoso"
+"bambino disubbidiente, monello"
+"bambino dotato"
+"bambino in età prescolare"
+"bambino modello"
+"bambino nato pretermine, bambino nato prematuro"
+"bambino piccolo"
+"bambino piccolo"
+"bambino piccolo"
+"bambino pretermine, bambino prematuro"
+"bambino prodigio"
+"bambino prodigio"
+"bambino terribile"
+"bambino vispo"
+"bambino viziato"
+"bravo bambino"
+"col volto da bambino"
+"cura del bambino"
+"dal volto da bambino"
+"enfant terrible, bambino difficile"
+"Gesù Bambino"
+"il Bambino Gesù"
+"l'avere un bambino"
+"lo capirebbe anche un bambino, è semplicissimo"
+"madonna con bambino e santi"
+"mondo del bambino"
+"solo un bambino"
+#*''in certi paesi è diffusa la piaga dei lavoratori bambini''
+#*'' le ossa di un bambino sono quasi completamente cartilaginee''
+* diminutivo di  [[bambo]], forma arcaica con valore di [[sciocco]], appartenente alla stessa famiglia onomatopeica di [[babbeo]], nasalizzata in [[bamb]] poiché che le lettere B-P-M sono le prime che un neonato impara ad usare, molte volte i medesimi infanti chiamano i propri parenti proprio utilizzando queste lettere (ad esempio [[babbo]]). In questo modo si formò la parola [[bimbo]], che poi dal suo diminutivo, si arrivò all'attuale 
+*[[bimbo]], [[neonato]], [[infante]], [[bebè]], [[lattante]], [[poppante]], [[baby]], [[piccino]], [[piccolo]], [[frugoletto]], [[pupo]],  [[pargoletto]], [[pargolo]], [[innocente]],  [[fantolino]], [[creatura]], [[marmocchio]], [[bamboccio]], [[fanciullo]], [[ragazzino]], [[ragazzetto]], [[moccioso]], [[frugolo]]
+*''(di maschi)''[[infantile]], [[giovanissimo]]
+*''(di età molto giovane)''[[giovane]], [[imberbe]] 
+* ''(di cultura, civiltà)'' in embrione,  [[emergente]], [[nuovo]]
+*''(con l'iniziale maiuscola)''[[Gesù Bambino]]
+*[[bambina]], essere umano [[prepubere]] di sesso [[femminile]]
+*[[genitore]] [[madre]], [[padre]], [[adulto]], [[maturo]], [[esperto]], [[navigato]], [[vecchio]]
+*''La giustizia è la forza dei re, la furbizia è la forza della donna, l'orgoglio è la forza dei pazzi, la spada è la forza del bandito, l'umiltà è la forza dei saggi, le lacrime sono la forza del '''bambino''', l'amore di un uomo e una donna è la forza del mondo''
+* ''Quando il '''bambino''' parla, l'adulto ha già parlato''
+* '''''Bambino''' di Lucca''
+M>*bamb</E
+M>bambino</E
+M>aspettare un b</E
+M>allattare</E
+M>svezzare</E
+M>allevare</E
+M>educare un b</E
+M>i b</E
+M>l’igiene del b</E
+M>c’era una nidiata di bambini</E
+M>ha tre bambini</E
+M>un maschio e due femmine</E
+M>il b</E
+M>fa ora i primi passi</E
+M>la b</E
+M>va già a scuola</E
+M>bambino prodigio</E
+M>enfant prodige</E
+M>figlio</E
+M>figliolo</E
+M>ho tutti e due i b</E
+M>tutte e due le b</E
+M>al mare</E
+M>mio</E
+M>sono cose che capitano</E
+M>non scherzare col fuoco</E
+M>bambina!</E
+M>bambini</E
+M>a che gioco si gioca?</E
+M>è proprio un b</E
+M>è rimasto sempre un b</E
+M>fare il b</E
+M>la b</E
+M>fare</E
+M>fare il b</E
+M>un b</E
+M>piangeva come un b</E
+M>si lasciava guidare come una b</E
+M>non sono un b</E
+M>non sei più una b</E
+M>non sono una b</E
+M>e so anch’io quel che va fatto</E
+M>Il Bambino</E
+M>sposa bambina</E
+M>è ancora b</E
+M>non è così b</E
+M>come tu pensi</E
+M>lo credevo più b</E
+M>mente b</E
+M>scienza</E
+M>civiltà ancora bambina</E
+M>il bambinello Gesù</E

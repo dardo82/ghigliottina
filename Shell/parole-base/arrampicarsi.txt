@@ -1,0 +1,27 @@
+arrampicarsi.txt
+"arrampicarsi con difficoltà"
+"arrampicarsi con fatica"
+"arrampicarsi sugli alberi"
+"arrampicarsi sugli specchi"
+"arrampicarsi sugli specchi, attaccarsi a tutto"
+"struttura su cui arrampicarsi"
+*[[inerpicarsi]], [[scalare]], salire faticosamente, [[issarsi]], [[rampare]], 
+*[[calarsi]], [[scendere]], [[precipitare]], [[ruzzolare]], rotolare giù
+*[[arrampicare]], [[arrampicata]]
+M>io m’arràmpico</E
+M>tu t’arràmpichi</E
+M>sugli alberi</E
+M>su una roccia</E
+M>come uno scoiattolo</E
+M>apparve una donna che cercava di nascondersi dietro un ginepro: tentava di a. per la ripa</E
+M> ma scivolava</E
+M>l’edera s’era arrampicata su per il muro</E
+M>sugli specchi</E
+M>sui vetri</E
+M>insegnare ai gatti ad a</E
+M>per l’erte scale Arrampica qual puoi</E
+M>dovevi vedere come s’arrampicava su per la collina</E
+M>il trenino s’arrampicava su per la montagna</E
+M>una strada che s’arrampicava per oltre un chilometro fino al castello</E
+M>piante a</E
+M>rampicante</E

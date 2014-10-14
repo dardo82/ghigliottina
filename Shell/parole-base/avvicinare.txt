@@ -1,0 +1,49 @@
+avvicinare.txt
+"avvicinare"
+"avvicinare"
+"avvicinare, replace: avvicinarsi"
+"avvicinare, replace: avvicinarsi"
+"far avvicinare qc a, persuadere qc di, avviare qc verso, iniziare qc verso"
+* [[accostare]], mettere vicino, [[approssimare]]
+*[[attaccare]], [[unire]], [[ravvicinare]]
+*[[allontanare]], [[separare]], [[staccare]], [[distanziare]]
+*[[avvicinarsi]]
+M>la sedia al tavolo</E
+M>il giornale agli occhi</E
+M>il bicchiere alle labbra</E
+M>le labbra al bicchiere</E
+M>accostare</E
+M>due oggetti</E
+M>due tavolini</E
+M>le sedie</E
+M>due ritratti</E
+M>una persona</E
+M>avvicinò un passante per chiedere un’informazione</E
+M>nessuno ha il coraggio di avvicinarlo</E
+M>è molto riservato ed è difficile per un estraneo avvicinarlo</E
+M>non avvicino certa gente!</E
+M>due persone</E
+M>quest’odio che mai non avvicina Il popolo lombardo all’alemanno</E
+M>se non ci vedi</E
+M>avvicina il lume</E
+M>un termine</E
+M>una data fissata</E
+M>avvicinarsi alla stufa</E
+M>alla finestra</E
+M>gli si avvicinò un mendicante</E
+M>avvicinarsi a una fede</E
+M>a una dottrina</E
+M>avvicinarsi a Dio</E
+M>avvicìnati!</E
+M>sentì avvicinarsi dei passi</E
+M>ti stai avvicinando</E
+M>ti sei avvicinato</E
+M>avvicinarsi ai cinquanta</E
+M>alla cinquantina</E
+M>Quanto più m’avicino al giorno extremo</E
+M>s’avvicina l’estate</E
+M>il Natale</E
+M>il giorno fissato per la partenza</E
+M>Domandal tu che più li t’avvicini</E
+M>leggerezza che s’avvicina all’incoscienza</E
+M>il ritratto non è perfetto ma si avvicina abbastanza all’originale</E

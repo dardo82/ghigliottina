@@ -1,0 +1,22 @@
+polipo.txt
+"polipo"
+"polipo"
+"polipo"
+*[[poliposo]]
+*[[polpo]]
+*italiano
+M>pol</E
+M>pus</E
+M>polpo</E
+M>Octopus vulgaris</E
+M>disco pedale</E
+M>ectoderma</E
+M>endoderma</E
+M>gastrodermide</E
+M>mesoglea</E
+M>cnidocisti</E
+M>nematocisti</E
+M>infiammatorio</E
+M>adenomatoso</E
+M>neoplasia polipoide</E
+M>moscardini</E

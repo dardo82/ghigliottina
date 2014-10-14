@@ -1,0 +1,110 @@
+proporzione.txt
+"in proporzione"
+"in proporzione a"
+"proporzione"
+"proporzione"
+"proporzione"
+"proporzione inversa"
+"ridotti in proporzione"
+*[[rapporto]], [[rispondenza]]
+*[[in proporzione]]
+M>proportio</E
+M>onis</E
+M>pro portione</E
+M>la p</E
+M>dei varî ingredienti per fare un dolce</E
+M>la giusta p</E
+M>del premio al</E
+M>col</E
+M>merito</E
+M>c&#8217;è esatta p</E
+M>tra fatica e compenso</E
+M>ci dev&#8217;essere p</E
+M>tra pena e colpa</E
+M>la p</E
+M>tra lavoro e risultato non è costante</E
+M>non c&#8217;è p</E
+M>fra il costo dell&#8217;oggetto e il suo effettivo valore</E
+M>la p</E
+M>tra il naso e il volto</E
+M>fra il piede e la gamba</E
+M>la p</E
+M>tra la base e la colonna</E
+M>tra i varî elementi di un complesso architettonico</E
+M>manca ogni p</E
+M>nello spazio dedicato ai singoli capitoli del libro</E
+M>non c&#8217;è proporzione</E
+M>le p</E
+M>di una statua</E
+M>di una facciata</E
+M>del corpo umano</E
+M>un corpo di p</E
+M>perfette</E
+M>il pantografo serve a riprodurre un disegno ingrandendolo o rimpiccolendolo</E
+M>conservandone le p</E
+M>simile</E
+M>rispettare</E
+M>sbagliare le p</E
+M>gli manca il senso delle p</E
+M>legge delle p</E
+M>definite</E
+M>di Proust</E
+M>legge delle p</E
+M>multiple</E
+M>di Dalton</E
+M>aumentazione</E
+M>diminuzione</E
+M>dupla</E
+M>tripla</E
+M>sesquialtera</E
+M>in proporzione</E
+M>a proporzione</E
+M>la quantità del vino dev&#8217;essere in p</E
+M>al numero degli invitati</E
+M>le imposte vengono applicate in p</E
+M>al reddito</E
+M>dare in p</E
+M>al bisogno</E
+M>il compenso è in p</E
+M>al lavoro eseguito</E
+M>è troppo poco</E
+M>in p</E
+M>a ciò che mi spettava</E
+M>tutto è in p</E
+M>ha due spalle da gigante</E
+M>e il resto è in p</E
+M>La faccia sua mi parea lunga e grossa Come la pina di San Pietro a Roma</E
+M>E a sua p</E
+M>eran l&#8217;altre ossa</E
+M>Essere</E
+M>crescere in p. diretta</E
+M>in p</E
+M>inversa</E
+M>un pacco di piccole p</E
+M>di grosse p</E
+M>una stanza di p</E
+M>medie</E
+M>una nave di p</E
+M>maggiori</E
+M>minori</E
+M>un gigante di p</E
+M>enormi</E
+M>ridurre il costo a p</E
+M>modeste</E
+M>un incendio di vaste p</E
+M>un&#8217;industria di p</E
+M>colossali</E
+M>lo scandalo aveva assunto p</E
+M>preoccupanti</E
+M>in p</E
+M>diretta</E
+M>a/b</E
+M>c/d</E
+M>estremi della p</E
+M>medî</E
+M>antecedenti</E
+M>conseguenti</E
+M>continua</E
+M>geometrica</E
+M>aritmetica</E
+M>armonica</E

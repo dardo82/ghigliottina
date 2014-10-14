@@ -1,0 +1,40 @@
+cattedra.txt
+"sale in cattedra\"
+"cattedra"
+"cattedra"
+M>cath</E
+M>dra</E
+M>salire in</E
+M> sulla c</E
+M>stare</E
+M>sedere in c</E
+M>salire</E
+M> montare in c</E
+M>metter su c</E
+M>rizzare c</E
+M>di diritto</E
+M>di filosofia</E
+M>di letteratura latina</E
+M>di anatomia</E
+M>istituire</E
+M>sopprimere</E
+M>concedere</E
+M>conferire una c</E
+M>aspirare</E
+M>concorrere a una c</E
+M>avere una c</E
+M>vincere la c</E
+M>sono state poste a concorso cinquanta c</E
+M>di latino e greco nei licei</E
+M>ambulante</E
+M>ambulante di agricoltura</E
+M>di s</E
+M>Pietro</E
+M>apostolica</E
+M>romana</E
+M>papale</E
+M>pontificale</E
+M>episcopale</E
+M>vescovile</E
+M>sentenziare</E
+M>affermare dalla c</E

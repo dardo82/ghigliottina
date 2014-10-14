@@ -1,0 +1,12 @@
+abbraccio.txt
+"abbraccio"
+"abbraccione, grande abbraccio"
+"forte abbraccio"
+*[[stretta]]
+M>dare</E
+M>ricevere un a</E
+M>baci e a.</E
+M>un a. affettuoso</E
+M>un caro a</E
+M>accademico</E
+M>a. mortale</E

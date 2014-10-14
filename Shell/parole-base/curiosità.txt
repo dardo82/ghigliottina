@@ -1,0 +1,9 @@
+curiosità.txt
+#* ''la 
+#* ''ti racconto una 
+#* ''sono stato ad una [[mostra]] di 
+*[[interesse]], [[indiscrezione]], [[attenzione]], [[desiderio]] 
+*''(indiscreta)'' [[curiosaggine]], [[indiscrezione]], [[invadenza]]
+*''(cosa strana, fatto insolito)'' [[stranezza]], [[rarità]], [[novità]], [[bizzarria]]
+*[[disinteresse]], [[indifferenza]]
+*''(indiscreta)'' [[discrezione]], [[riservatezza]]

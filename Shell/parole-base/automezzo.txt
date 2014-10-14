@@ -1,0 +1,5 @@
+automezzo.txt
+"automezzo"
+*[[autoveicolo]]
+M>auto</E
+M>mezzo</E

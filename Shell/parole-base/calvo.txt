@@ -1,0 +1,14 @@
+calvo.txt
+"calvo"
+"calvo"
+"cipresso calvo"
+"perdere i capelli, diventare calvo"
+#* ''è un [[diciottenne]] ed è già '''calvo'''''
+#* ''un '''calvo''' non ha più bisogno del [[pettine]]''
+* (''privo di capigliatura, aggettivo e sostantivo'') [[pelato]] 
+* (''privo di vegetazione'') [[brullo]], [[spoglio]]
+* (''privo di capigliatura, aggettivo e sostantivo'') [[capelluto]]
+M>calvus</E
+M>avere il capo c</E
+M>diventare calvo</E
+M>Argomento del c</E

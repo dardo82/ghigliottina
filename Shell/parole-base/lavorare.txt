@@ -1,0 +1,209 @@
+lavorare.txt
+"andare d'accordo con qcn.; lavorare bene con qcn."
+"cominciare a lavorare sodo"
+"far lavorare qualcuno"
+"lavorare"
+"lavorare"
+"lavorare"
+"lavorare"
+"lavorare"
+"lavorare"
+"lavorare"
+"lavorare, replace: lavorarsi"
+"lavorare ai fianchi"
+"lavorare all'uncinetto"
+"lavorare anche come"
+"lavorare bene"
+"lavorare come"
+"lavorare come"
+"lavorare come apprendista"
+"lavorare come attendente"
+"lavorare come cameriere"
+"lavorare come falegname"
+"lavorare come free-lance"
+"lavorare come libero professionista"
+"lavorare come socio"
+"lavorare come socio"
+"lavorare come un matto"
+"lavorare come un negro a qc"
+"lavorare come un pazzo"
+"lavorare come una squadra"
+"lavorare con attrezzi"
+"lavorare con gli attrezzi"
+"lavorare con impegno a qc."
+"lavorare con qualcuno"
+"lavorare di fantasia"
+"lavorare di fino"
+"lavorare di gran lena"
+"lavorare duro"
+"lavorare fino allo stremo delle forze"
+"lavorare il doppio"
+"lavorare in nero"
+"lavorare in perdita"
+"lavorare in proprio"
+"lavorare in tal senso"
+"lavorare insieme"
+"lavorare materie prime"
+"lavorare nel campo della ricerca"
+"lavorare nel settore"
+"lavorare nel sociale"
+"lavorare per"
+"lavorare per beneficenza"
+"lavorare per conto di qualcuno"
+"lavorare per obiettivi"
+"lavorare per passione"
+"lavorare per qualcuno"
+"lavorare sodo"
+"lavorare sotto pressione"
+"lavorare sotto qualcuno"
+"lavorare sotto stress"
+"lavorare stanca"
+"lavorare su commissione"
+"lavorare su, occuparsi di"
+"lavorare superficialmente"
+"lavorare troppo"
+"lavorare velocemente"
+"mettersi di buzzo buono su qcs, lavorare sodo a qcs"
+"non avere voglia di lavorare"
+"non lavorare"
+"non lavorare per la gloria"
+#*''lavorare il legno, il ferro''
+#*''i miei amici lavorano in banca''
+*[[operare]], [[agire]]
+*''(di macchina, impianto ecc.)'' [[funzionare]], [[produrre]]
+*[[oziare]]
+*[[lavoratore]], [[lavorazione]], [[lavoro]]
+*Devoto/Oli, ''Il dizionario della lingua italianna'' , edizione cartacea 2000-2001, Le Monnier, p. 1138
+M>lab</E
+M>rare</E
+M>labor</E
+M>oris</E
+M>io lavóro</E
+M>avere</E
+M>ho lavorato fino a tarda notte</E
+M>deve l</E
+M>per vivere</E
+M>è un fannullone che non ha voglia di l</E
+M>per la gloria</E
+M>per la fabbrica dell’appetito</E
+M>chi non lavora non mangia</E
+M>non mangi</E
+M>bene</E
+M>male</E
+M>coscienziosamente</E
+M>in fretta</E
+M>come viene viene</E
+M>giorno e notte</E
+M>come un negro</E
+M>come un dannato</E
+M>nella sua fabbrica fa l</E
+M>trecento operai</E
+M>è un direttore che fa l</E
+M>i suoi sottoposti</E
+M>l. a distanza</E
+M>lavoro</E
+M>a giornata</E
+M>a cottimo</E
+M>a progetto</E
+M>l. full time</E
+M>part time</E
+M>l. in nero</E
+M>da fabbro</E
+M>da falegname</E
+M>da muratore</E
+M>l. in banca</E
+M>in uno studio medico</E
+M>da un avvocato</E
+M>per un’azienda di telefonia</E
+M>presso una ditta di elettrodomestici</E
+M>con un’associazione culturale</E
+M> su un progetto di ricerca</E
+M>l. in Internet</E
+M>nel campo dell’informatica</E
+M>in tessuti</E
+M>in lana</E
+M>in ferramenta</E
+M>in liquori</E
+M>a maglia</E
+M>d’intaglio</E
+M>di rilievo</E
+M>in oro</E
+M>in avorio</E
+M>di fino</E
+M>di fino</E
+M>di fine</E
+M>l. di cesello</E
+M> di lima</E
+M>a macchina</E
+M>a mano</E
+M>di bulino</E
+M>di cesello</E
+M>di cervello</E
+M>con la mente</E
+M>sui libri</E
+M>di fantasia</E
+M>a un romanzo</E
+M>a un articolo</E
+M>a un quadro</E
+M>a una statua</E
+M>intorno a un monumento</E
+M>gli operai lavoravano alla costruzione del ponte</E
+M>lavorò lunghi anni sopra il suo poema</E
+M>a un film</E
+M>in un film</E
+M>L. di gomiti</E
+M>di mano</E
+M>di schiena</E
+M>di ganasce</E
+M>di bastone</E
+M>far l</E
+M>tutt’e due le braccia</E
+M>anche lo stomaco lavora</E
+M>ha un cervello che lavora poco</E
+M>la tua fantasia lavora troppo</E
+M>buoi lavoravano con movimenti pacati</E
+M>il cavallo è diventato vecchio</E
+M>e non può più lavorare</E
+M>è molto tempo che questo tornio non lavora</E
+M>le fornaci hanno ripreso a l</E
+M>le fabbriche non lavorano più come un tempo</E
+M> quel programma informatico lavora a pieno ritmo</E
+M>di tre viti ne lavorava una sola</E
+M>e la cerniera ha ceduto</E
+M>è un bar che lavora molto</E
+M>quanto lavora quella farmacia!</E
+M>ha uno studio di commercialista che lavora poco</E
+M>lavorano per la mia rovina</E
+M>in apparenza è tranquillo</E
+M>ma sotto sotto lavora</E
+M>sott’acqua</E
+M>sotto sotto</E
+M>il male intanto lavorava dentro e minava la sua salute</E
+M>dopo un po’ il sonnifero cominciò a lavorare</E
+M>il ferro</E
+M>il legname</E
+M>la creta</E
+M>il metallo a caldo</E
+M>a freddo</E
+M>materiali lavorati in drappi</E
+M>cappelli</E
+M>calze e altrettali manifatture</E
+M>la terra</E
+M>il campo</E
+M>il podere</E
+M>una pagina</E
+M>la propria prosa</E
+M>lo stile</E
+M>l. la pasta</E
+M>la vigna del Signore</E
+M>l’avversario</E
+M>al tronco</E
+M>ai fianchi</E
+M>al bersaglio grosso</E
+M>al fegato</E
+M>lavorarlo di destro</E
+M>di sinistro</E
+M>Lavorare</E
+M>lavorarsi qualcuno</E
+M>lavorarsi una bistecca</E
+M>un piatto di spaghetti</E

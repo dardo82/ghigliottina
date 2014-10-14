@@ -1,0 +1,8 @@
+asfaltare.txt
+"asfaltare"
+"asfaltare"
+#* alle prossime elezioni li '''asfaltiamo''' 
+*[[asfaltato]], [[asfaltatore]], [[asfaltatura]], [[asfalto]]
+M>una strada</E
+M>una piazza</E
+M>strada asfaltata</E

@@ -1,0 +1,185 @@
+trarre.txt
+"trarre"
+"trarre"
+"trarre"
+"trarre"
+"trarre, replace: trarsi"
+"trarre fuori, estrarre"
+"trarre gioia"
+"trarre giovamento"
+"trarre il massimo vantaggio da"
+"trarre in inganno"
+"trarre in salvo"
+"trarre ispirazione"
+"trarre lo spunto da"
+"trarre piacere"
+"trarre profitto"
+"trarre una conclusione"
+"trarre vantaggio da"
+"trarre vantaggio da"
+"trarre vantaggio, approfittare"
+"usare al meglio qualcosa, trarre il massimo da qualcosa"
+#* ''trarre in inganno''
+#* ''trasse il portafoglio dalla tasca''
+#* ''trarre benefici''
+#* ''si trasse in disparte''
+*[[tirare]], [[trascinare]] 
+M>trah</E
+M>io traggo</E
+M>tu trai</E
+M>traggi</E
+M>egli trae</E
+M>tragge</E
+M>noi traiamo</E
+M>traggiamo</E
+M>voi traéte</E
+M>essi tràggono</E
+M>tragga</E
+M>... traiamo</E
+M>traggiamo</E
+M>traiate</E
+M>traggiate</E
+M>tràggano</E
+M>trai</E
+M>traggi</E
+M>traéte</E
+M>trarrò</E
+M>trarrèi</E
+M>trassi</E
+M>traésti</E
+M>tratto</E
+M>traere</E
+M>traévo</E
+M>traéssi</E
+M>traènte</E
+M>traèndo</E
+M>tirare</E
+M>trascinare</E
+M>cavare</E
+M>togliere</E
+M>tirare</E
+M>Di Cinzia il cocchio aurato Le cerve un dì traevano</E
+M>trarre la seta</E
+M>trarre a sé</E
+M>Com&#8217;ei parlava</E
+M> e Sordello a sé il trasse</E
+M>traendo poi l&#8217;antiquo fianco Per l&#8217;estreme giornate di sua vita</E
+M>traendo i tremuli ginocchi Stupidamente per la muta stanza</E
+M>a gli amici Boschi tornando</E
+M> ho tratto i dì felici</E
+M>Così quegl&#8217;ineffabili Giorni</E
+M> o mio cor</E
+M> traevi</E
+M>trascinare</E
+M>trascinare la vita</E
+M>La Madre or sol suo dì tardo traendo</E
+M>nove o dieci sbirri sedevano a farci guardia</E
+M> e noi</E
+M> passeggiando</E
+M> aspettavamo l&#8217;istante d&#8217;esser tratti in piazza</E
+M>il relitto della nave fu tratto in porto da due rimorchiatori</E
+M>t. una barca a terra</E
+M>a riva</E
+M>con l&#8217;argano.</E
+M>trarsi in disparte</E
+M>trarsi indietro</E
+M>tirarsi in disparte</E
+M>indietro</E
+M>con enfiate labbra Si trasse avanti al capitano e disse</E
+M>t. a salvamento una persona</E
+M>t. a compimento un&#8217;opera</E
+M>l&#8217;infelice fu tratto a morte</E
+M>t. in inganno</E
+M>fu tratto in inganno da una notizia falsa</E
+M>per meglio trarlo in inganno si finse straniero</E
+M>Perch&#8217;io traeva la parola tronca Forse a peggior sentenzia che non tenne</E
+M>quel che mi trasse ad amar prima</E
+M>da alcuni indizî fui tratto a dubitare della sua fedeltà</E
+M>dall&#8217;esempio del padre fu tratto agli studî umanistici</E
+M>essere tratto dall&#8217;amore</E
+M>dall&#8217;odio</E
+M>dal desiderio di tranquillità</E
+M>dall&#8217;ambizione</E
+M>trarsi</E
+M>perch&#8217;egli alla nobiltà del padre e non alla mercatantia si traesse</E
+M>non l&#8217;aveva il padre voluto mettere a alcun fondaco</E
+M>io sarò tua guida E trarrotti di qui per luogo etterno</E
+M>Per trar di macchia la bestia crucciosa</E
+M>t. un amico dai pasticci</E
+M>da un grave rischio</E
+M>trarsi fuori dalle difficoltà</E
+M>da una posizione difficile</E
+M>è abbastanza abile per trarsi d&#8217;impaccio da solo</E
+M>non facil parmi Ch&#8217;io possa mai di tanto obligo trarmi</E
+M>Sì come quando Marsïa traesti De la vagina de le membra sue</E
+M>Del foder trasse fuor la fida spada</E
+M>Sospirò dal profondo</E
+M> e &#8217;l ferro trasse</E
+M>facevan le donne sì gran risa</E
+M> che tutti i denti si sarebbero loro potuti trarre</E
+M>t. a sorte</E
+M>le api traggono il miele dai fiori</E
+M>in origine il fuoco si traeva dalla selce</E
+M>ricchezze che si traggono dal sottosuolo</E
+M>dalle foglie si trae un olio essenziale</E
+M>aveva scritto un racconto</E
+M> poi ne ha tratto una commedia</E
+M>la trama del film è tratta da un famoso romanzo</E
+M>la notizia è stata tratta dai giornali</E
+M>è un contesto dal quale non riesco a t. un senso qualsiasi</E
+M>t. esempio da qualcuno</E
+M>t. diletto</E
+M>soddisfazione</E
+M>vantaggio</E
+M>lucro</E
+M>guadagno da qualche cosa</E
+M>t. partito</E
+M>ove speme di gloria agli animosi Intelletti rifulga ed all&#8217;Italia</E
+M> Quindi trarrem gli auspicj</E
+M>a voi trarne le conseguenze</E
+M>la morale</E
+M>quali conclusioni vorresti trarre?</E
+M>tre giovani traggono le brache a un giudice marchigiano</E
+M>si trasse i calzoni</E
+M>la camicia.</E
+M>nell&#8217;udire quella notizia trasse un sospiro di soddisfazione</E
+M>Io sentia d&#8217;ogne parte trarre guai</E
+M>i più gravi Sospiri</E
+M> che del cor profondo tragge Quella ch&#8217;al ciel se ne portò le chiavi</E
+M>un scudier pallido in volto</E
+M> Che potea a pena trar del petto il fiato</E
+M>Purg.</E
+M>dì s&#8217;i&#8217; veggio qui colui che fore Trasse le nove rime</E
+M> cominciando</E
+M>Donne ch&#8217;avete intelletto d&#8217;amore</E
+M>tràttene le spese</E
+M> il guadagno è minimo</E
+M>tranne</E
+M>tràine</E
+M>tràttone</E
+M>Giove non gli consente di compiacerli</E
+M> trattone alcuni pochi</E
+M>Infino al fiume del parlar mi trassi</E
+M>tirare</E
+M>Ancora era quel popol di lontano ... Quanto un buon gittator trarria con mano</E
+M>Per questo mai di punta non gli trasse</E
+M>t. calci</E
+M>il qual mulo ... cominciò a trarre e a tempestare</E
+M>lontano quanto un trar d&#8217;arco</E
+M>quanto un trar di schioppo</E
+M>a un tiro d&#8217;arco</E
+M>di schioppo</E
+M>il dado è tratto</E
+M>alea iacta est</E
+M>t. una cambiale</E
+M>avere</E
+M>come a messagger che porta ulivo Tragge la gente per udir novelle</E
+M>come il popolo sente sonare</E
+M> ognuno trae</E
+M>trarsi</E
+M>tu passasti &#8217;l punto Al qual si traggon d&#8217;ogne parte i pesi</E
+M>essendo quel vento che traeva tramontana</E
+M>spada tratta</E
+M>difendere</E
+M> difendersi a spada tratta</E
+M>cambiale tratta</E

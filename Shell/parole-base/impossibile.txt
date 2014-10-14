@@ -1,0 +1,84 @@
+impossibile.txt
+"assolutamente impossibile"
+"bello e impossibile"
+"che rende impossibile"
+"essere impossibile"
+"fare l'impossibile"
+"impossibile"
+"impossibile"
+"impossibile"
+"impossibile"
+"impresa disperata, missione impossibile, sforzo vano"
+"in modo impossibile"
+"l'impossibile"
+"lo sperare nell'impossibile"
+"logicamente impossibile"
+"non possibile, impossibile"
+"quasi impossibile"
+"quasi impossibile"
+"rendere impossibile"
+"sperare nell'impossibile"
+#* '' era una persona 
+#*''non chiedeteci l'impossibile''
+*[[possibile]]
+*[[impossibilità]], [[impossibilitare]], [[impossibilitato]]
+*[[possibilità]]
+M>impossib</E
+M>lis</E
+M>possib</E
+M>lis</E
+M>ad accadere</E
+M>a farsi</E
+M>a dirsi</E
+M>a pensarsi</E
+M>impresa</E
+M>sogno i</E
+M>a realizzarsi</E
+M>credere</E
+M>ritenere i</E
+M>guarigione</E
+M>difesa i</E
+M>ogni ulteriore resistenza era i</E
+M>a Dio nulla è i</E
+M>a lui</E
+M>per lui</E
+M>niente è i</E
+M>problema d’i</E
+M>soluzione</E
+M>è materialmente i</E
+M>fare in tempo</E
+M>mi è i</E
+M>accettare</E
+M>accontentarti</E
+M>è i</E
+M>andare avanti così</E
+M>è umanamente i</E
+M>durare in questa situazione</E
+M>non è i</E
+M>sistema i</E
+M>sistema</E
+M>incompatibile</E
+M>Figure i</E
+M>reato i</E
+M>Pare i</E
+M>pare i</E
+M>che tu capisca sempre a rovescio</E
+M>sembra i</E
+M>che non ci sia una fontana in tutta la zona</E
+M>impossibilissimo</E
+M>volere</E
+M>desiderare l’i</E
+M>pretendere l’i</E
+M>fare l’i</E
+M>tentare l’i</E
+M>essere in una situazione i</E
+M>fare una vita i</E
+M>uomo</E
+M>donna i</E
+M>di carattere i</E
+M>avere gusti i</E
+M>far discorsi i</E
+M>una minestra</E
+M>un vino i</E
+M>sigarette i</E
+M>una strada i</E

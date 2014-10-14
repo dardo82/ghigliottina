@@ -1,0 +1,22 @@
+ostaggio.txt
+"ostaggio"
+*[[prigioniero]], persona rapita
+* ''(di una banda di malviventi)'' [[sequestrato]], [[rapito]] 
+*[[sequestratore]]
+M>hostage</E
+M>otage</E
+M>*hospitat</E
+M>cum</E
+M>hospes</E
+M>tis</E
+M>chiedere</E
+M>imporre ostaggi</E
+M>consegnare</E
+M>riconsegnare gli o</E
+M>proporre uno scambio di ostaggi</E
+M>dare</E
+M>prendere</E
+M>tenere qualcuno in ostaggio</E
+M>come ostaggio</E
+M>rilasciare un o</E
+M>gli ostaggi</E

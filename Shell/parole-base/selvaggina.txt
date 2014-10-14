@@ -1,0 +1,17 @@
+selvaggina.txt
+"caccia alla selvaggina"
+"cacciatore di selvaggina"
+"cane da selvaggina; da caccia"
+"ritrovare la selvaggina"
+"selvaggina"
+"selvaggina di penna"
+"selvaggina minuta"
+*[[cacciagione]], [[uccellagione]], animali selvatici
+*[[selvaggio]]
+M>cacciagione</E
+M>una zona abbondante</E
+M>povera di selvaggina</E
+M>luogo ricco di selvaggina di penna e di pelo</E
+M>s. nobile</E
+M>la s. è molto saporita</E
+M>è una trattoria dove si può mangiare dell&#8217;ottima selvaggina</E

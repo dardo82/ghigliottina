@@ -1,0 +1,113 @@
+raccolta.txt
+"campo di raccolta profughi"
+"cena di raccolta fondi"
+"cesto da raccolta"
+"che fa la raccolta"
+"chiamare a raccolta"
+"collezione di mappe, raccolta di mappe"
+"costi di raccolta"
+"fare appello a, chiamare a raccolta"
+"file di raccolta di virus e file infetti"
+"luogo di raccolta"
+"pozzetto di raccolta"
+"punto di raccolta"
+"raccolta"
+"raccolta"
+"raccolta"
+"raccolta"
+"raccolta dati"
+"raccolta della frutta"
+"raccolta di fondi"
+"raccolta di leggi"
+"raccolta di prove"
+"raccolta differenziata"
+"raccolta firme"
+"raccolta fondi"
+"raccolta ordini"
+"raccolta punti"
+"ricca raccolta"
+"servizio di raccolta a domicilio"
+"vaschetta per la raccolta di liquidi"
+*[[collezione]], [[raccolto]] 
+*[[raccogliere]], [[raccolto]]
+:*  [[gathering]], [[collecting]], [[collection]], [[raising]], # [[harvesting]], [[picking]],  [[harvest]], [[crop]]
+M>raccogliere</E
+M>raccolto</E
+M>fare la r</E
+M>del grano</E
+M>del fieno</E
+M>dei carciofi</E
+M>dei fagioli</E
+M>la r</E
+M>dell&#8217;uva</E
+M>delle noci</E
+M>delle olive</E
+M>delle castagne</E
+M>la r</E
+M>dei bozzoli</E
+M>nel tempo della r</E
+M>provvedere alla r</E
+M>gli operai per la r</E
+M>caccia</E
+M>raccolta</E
+M>pesca</E
+M>raccolta</E
+M>colletta</E
+M>popoli raccoglitori</E
+M>abbondante</E
+M>grassa</E
+M>magra</E
+M>incerta</E
+M>meschina</E
+M>si è fatta una bella</E
+M>una buona r</E
+M>era quello il second&#8217;anno di r</E
+M>scarsa</E
+M>ho tutta la r</E
+M>nell&#8217;aia</E
+M>speriamo in una buona r</E
+M>la campagna promette una magnifica raccolta</E
+M>raccolto</E
+M>provvedere alla r</E
+M>di fondi</E
+M>di offerte</E
+M>di sottoscrizioni</E
+M>di testimonianze</E
+M>di notizie</E
+M>Caricare a raccolta</E
+M>differenziata dei rifiuti</E
+M>Saggio di raccolta</E
+M>passivo</E
+M>saggio d&#8217;impiego</E
+M>attivo</E
+M>Raccolta delle segnature</E
+M>bacino di raccolta</E
+M>una r</E
+M>di monete antiche</E
+M>di francobolli</E
+M>di quadri</E
+M>di libri rari</E
+M>collezione</E
+M>di proverbî</E
+M>di citazioni</E
+M>di iscrizioni</E
+M>di lettere</E
+M>di rime antiche</E
+M>collana</E
+M>pubblicare una r</E
+M>di classici greci</E
+M>di prosatori del Trecento</E
+M>di poesie contemporanee</E
+M>miscellanea</E
+M>di saggi scientifici</E
+M>di studî</E
+M>Raccolta ufficiale delle leggi e decreti della Repubblica italiana</E
+M>chiamare a r</E
+M>suonare a r</E
+M>chiamare a r</E
+M>i proprî collaboratori</E
+M>chiamare a r</E
+M>i pensieri</E
+M>le forze</E
+M>una r</E
+M>di gente di ogni specie</E

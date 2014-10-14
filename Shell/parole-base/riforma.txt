@@ -1,0 +1,49 @@
+riforma.txt
+"il dopo riforma"
+"riforma"
+"riforma agraria"
+"riforma delle tariffe doganali"
+"riforma radicale"
+*[[cambiamento]], [[mutamento]], [[trasformazione]]
+*[[conservazione]],[[mantenimento]], [[reazione]], [[controriforma]]
+*[[riformare]]
+M>operare</E
+M>introdurre una r</E
+M>delle r</E
+M>sociali</E
+M>economiche</E
+M>politiche</E
+M>riforme</E
+M>di struttura</E
+M>strutturali</E
+M>agraria</E
+M>fondiaria</E
+M>urbanistica</E
+M>scolastica</E
+M>sanitaria</E
+M>fiscale</E
+M>delle leggi</E
+M>dei codici</E
+M>della burocrazia</E
+M>del calendario</E
+M>giuliana</E
+M>gregoriana</E
+M>dell&#8217;ortografia</E
+M>dei costumi</E
+M>una r</E
+M>radicale</E
+M>profonda</E
+M>superficiale</E
+M>parziale</E
+M>graduali</E
+M>progressive</E
+M>l&#8217;età delle r</E
+M>la r</E
+M>induistica del brahmanesimo</E
+M>la r</E
+M>degli ordini religiosi</E
+M>la r</E
+M>protestante</E
+M>la R</E
+M>l&#8217;età della R</E
+M>potatura di riforma</E

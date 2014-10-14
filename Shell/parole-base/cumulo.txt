@@ -1,0 +1,33 @@
+cumulo.txt
+"cumulo"
+"cumulo"
+"cumulo"
+"cumulo di cose"
+"cumulo di neve"
+"cumulo di rifiuti"
+"cumulo di scorie"
+"cumulo di terra sopra una tana di talpa"
+"formare un cumulo"
+*(di libri, pietre, eccetera) [[mucchio]], [[massa]], [[accumulo]], [[ammasso]], [[catasta]], [[pila]], [[coacervo]]
+M>cum</E
+M>lus</E
+M>un c</E
+M>di roba</E
+M>di libri</E
+M>di monete</E
+M>ho un c</E
+M>di corrispondenza da sbrigare</E
+M>riunire</E
+M>mettere in un cumulo</E
+M>per un c</E
+M>di cause</E
+M>di circostanze</E
+M>hai detto un c</E
+M>di sciocchezze</E
+M>di spropositi</E
+M>il c</E
+M>degli stipendî</E
+M>delle cariche</E
+M>soggettivo di cause</E
+M>di bel tempo</E
+M>castellato</E

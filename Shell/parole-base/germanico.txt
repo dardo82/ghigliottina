@@ -1,0 +1,4 @@
+germanico.txt
+"germanico occidentale"
+*[[teutonico]], [[tedesco]]
+*[[Germania]]

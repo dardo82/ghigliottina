@@ -1,0 +1,79 @@
+scaricare.txt
+"scaricare"
+"scaricare"
+"scaricare"
+"scaricare"
+"scaricare"
+"scaricare"
+"scaricare"
+"scaricare"
+"scaricare colpi di arma da fuoco su qualcuno"
+"scaricare l'acqua"
+"scaricare la patata bollente"
+"scaricare la responsabilità su"
+"scaricare le responsabilità sugli altri"
+"vietato scaricare rifiuti"
+#*occorre 
+*[[gettare]],[[sgravarsi]], [[svuotare]], [[liberare]],  [[lasciare]], [[abbandonare]], [[sbarazzarsi]]
+* [[caricare]]
+*[[scarica]], [[scaricabarili]], [[scaricamento]], [[scaricarsi]], [[scaricatoio]], [[scaricatore]], [[scarico]], [[scaricazione]]
+M>caricare</E
+M>io scàrico</E
+M>tu scàrichi</E
+M>s. il grano</E
+M>il carbone</E
+M>gli operatori stavano scaricando dal camion i sacchi di cemento</E
+M>s. cassette al mercato</E
+M>non hanno ancora cominciato a scaricare</E
+M>gli automezzi scaricarono le truppe a pochi chilometri dal fronte</E
+M>l&#8217;autobus mi scarica proprio davanti a casa</E
+M>s. una nave</E
+M>un autotreno</E
+M>il rimorchio è troppo carico</E
+M> bisogna scaricarlo di qualche quintale</E
+M>s. il vapore dalle caldaie</E
+M>il serbatoio perde</E
+M> è necessario scaricarlo subito</E
+M>s. il ventre</E
+M>s. la coscienza di un rimorso</E
+M>di una colpa</E
+M>di una responsabilità</E
+M>scaricarsi di una preoccupazione</E
+M>don Abbondio aveva ... voglia di scaricarsi del suo doloroso segreto</E
+M>la Nera scarica le sue acque nel Tevere</E
+M>i fiumi che si scaricano nell&#8217;Adriatico</E
+M>una conceria che scarica nel lago</E
+M>la trave scarica sui piedritti il peso della muratura sovrastante</E
+M>non puoi s. le tue colpe su di noi</E
+M>s. su altri la responsabilità di un danno</E
+M>s. l&#8217;ira</E
+M>la rabbia</E
+M>il direttore spesso scarica il suo malumore sui dipendenti</E
+M>s. i nervi</E
+M>vado a fare una corsa in macchina per scaricare i nervi</E
+M>quando ho bisogno di scaricarmi faccio delle lunghe camminate</E
+M>quando sono nervoso</E
+M> un film western alla televisione mi scarica</E
+M>si è scaricato con me di tutto il risentimento accumulato in questi anni</E
+M>gli scaricò addosso un sacco di pugni</E
+M>di bastonate</E
+M>Comincia il gran battaglio a scaricare</E
+M>s. la balestra</E
+M>gli scaricò addosso il fucile</E
+M>s&#8217;era appoggiato al muro e aveva scaricato ... le sue pistole addosso agli inseguitori</E
+M>è meglio s. il fucile prima di metterlo a posto</E
+M>hai scaricato il carillon</E
+M>scaricarsi</E
+M>la sveglia si è scaricata</E
+M> si è scaricata la batteria</E
+M>s. un condensatore</E
+M>un elettroscopio</E
+M>un accumulatore</E
+M>condensatore che scarica per difetto d&#8217;isolamento</E
+M>ho scaricato gratutitamente quel programma da Internet</E
+M>s. file protetti dal diritto d&#8217;autore è vietato dalla legge italiana.</E
+M>s. la vela</E
+M>finalmente sono riuscita</E
+M> con una scusa</E
+M> a s. quel seccatore</E
+M>il fidanzato l&#8217;ha scaricata</E

@@ -1,0 +1,9 @@
+flauto.txt
+"flauto"
+"flauto alto"
+"flauto basso"
+"flauto dolce"
+"strumento musicale a fiato (flauto, oboe, clarinetto e fagotto)"
+#* ''ho suonato il '''flauto''' come [[esercitazione]] per il compito di educazione musicale''
+*[[flautato]]
+* [[flagioletto]], [[flauto d'amore]], [[flauto dolce]], [[flauto basso]], [[flauto contrabbasso]], [[flauto contralto]], [[flauto iperbasso]], [[flauto indiano]], [[flauto di Pan]], [[flauto traverso]], [[ottavino]], [[ocarina]], [[pennywhistle]]

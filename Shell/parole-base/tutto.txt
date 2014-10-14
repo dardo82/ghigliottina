@@ -1,0 +1,383 @@
+tutto.txt
+"a più non posso; a tutto spiano; a tutta birra"
+"a tenere le fila di tutto"
+"a tutto campo"
+"a tutto palco"
+"a tutto schermo"
+"a tutto spiano"
+"a tutto tondo"
+"a tutto vantaggio di"
+"a tutto vapore"
+"andare a tutto gas"
+"arrampicarsi sugli specchi, attaccarsi a tutto"
+"c'è un limite a tutto"
+"che comprende tutto"
+"che comprende tutto"
+"che considera tutto"
+"che copre tutto il pavimento"
+"che dura tutto il giorno"
+"che dura tutto il giorno"
+"che include tutto"
+"che include tutto"
+"che mangia tutto"
+"che pervade tutto"
+"che si occupa di tutto"
+"che vede tutto"
+"che vince tutto"
+"ci sta tutto"
+"con la parte superiore intera, che copre tutto (di mobile)"
+"con tutto il cuore"
+"con tutto il cuore"
+"con tutto il cuore; disperatamente"
+"con tutto il dovuto rispetto per"
+"con tutto il rispetto"
+"con tutto me stesso"
+"con tutto rispetto"
+"confessare tutto, dire la verità"
+"consapevole di tutto"
+"credere a tutto"
+"cura per tutto"
+"dare il tutto per tutto"
+"del tutto, completamente"
+"del tutto, completamente"
+"della totalità, di tutto l'insieme"
+"della totalità, di tutto l'insieme"
+"di tutto cuore, sincero"
+"di tutto il giorno"
+"di tutto l'anno"
+"di tutto l'anno"
+"di tutto rispetto"
+"dire tutto"
+"dopo tutto"
+"dormire per tutto il film"
+"dormire tutto il giorno"
+"è stato tutto inutile"
+"e tutto"
+"e tutto ciò che ne rimane"
+"e tutto il resto"
+"e tutto il resto"
+"è tutto per il meglio"
+"è tutto perché vada al meglio"
+"e tutto quel che, e tutto quello che"
+"e tutto quello che comporta"
+"è tutto qui."
+"è tutto sotto controllo"
+"essere d'accordo su tutto"
+"essere tutto casa e chiesa"
+"essere tutto preso da se stesso"
+"fai tutto quello che puoi"
+"fai tutto quello che puoi"
+"fare di tutto"
+"fare di tutto"
+"fare di tutto"
+"fare tutto il possibile"
+"fare tutto il possibile"
+"fare tutto il possibile"
+"fare tutto il possibile per"
+"fare tutto il possibile; fare qualsiasi cosa"
+"fare tutto il possibile; non arrendersi"
+"fare tutto quanto in proprio potere"
+"fermo tutto!"
+"fin qui tutto bene"
+"fin qui tutto bene, ma"
+"finire di mangiare, finire tutto il pasto"
+"gente da tutto il mondo"
+"giocare a tutto campo (sport)"
+"godere di una posizione di tutto rispetto"
+"grazie di tutto"
+"il che è tutto dire!"
+"il piacere è tutto mio"
+"il tutto"
+"il tutto"
+"il tutto"
+"il tutto per tutto"
+"imparare tutto su"
+"in tutto"
+"in tutto e per tutto; dalla testa ai piedi"
+"in tutto il creato"
+"in tutto il mondo"
+"in tutto il mondo, nel mondo intero, sulla faccia della Terra"
+"in tutto il suo splendore"
+"in tutto il suo splendore"
+#*''Ho dormito per '''tutto''' il giorno''
+#*'''''Tutti''' gli uomini dovrebbero poter vivere con dignità.''
+#*''Mi piacciono '''tutti''' i generi.''
+#*''Ieri eri contento, ora '''tutto''' il contrario.''
+#*''Devo sempre fare '''tutto''' io?''
+#*''Quanto ci è costato il '''tutto'''?''
+*[[intero]], [[integro]], [[intatto]], [[completo]], [[indiviso]]
+*[[totale]], [[universale]], [[globale]]
+* [[ogni]], [[qualsiasi]], ogni cosa
+*[[compreso]], [[incluso]]
+*[[completamente]], [[interamente]], [[compiutamente]], [[totalmente]], [[globalmente]], [[complessivamente]], in modo totale
+*[[chiunque]], [[qualunque]], [[ciascuno]], [[ogni]], [[ognuno]], ogni cosa
+*l’intero, il totale, l’insieme, il complesso, [[interezza]], [[completezza]], [[totalità]], [[globalità]]
+*[[parziale]], [[incompleto]], [[limitato]]
+*[[nessuno]], [[niente]], in parte, parzialmente, per niente, [[nulla]],  per nulla
+*''a tutto andare''
+*''in tutto e per tutto''
+M>tus</E
+M>*tuttus</E
+M>*tuctus</E
+M>cuncti</E
+M>quanto</E
+M>intero</E
+M>sono fenomeni comuni a tutta quanta la terra</E
+M>tutti quanti la pensano come me</E
+M>s’è bevuta tutta intera la bottiglia</E
+M>devi mangiare tutto tutto</E
+M>tuttissimo</E
+M>Hai previsto proprio tutto?</E
+M>Tuttissimo!</E
+M>t. il mondo</E
+M>t. la piazza</E
+M>t. la casa</E
+M>t. il mese</E
+M>t. la settimana</E
+M>non ha fatto che brontolare per t. la strada</E
+M>sapeva t. la lezione</E
+M>conosce t. Dante a memoria</E
+M>sviluppare t. la propria potenza</E
+M>metterci t. l’impegno</E
+M>la roba</E
+M>la questione</E
+M>è tutta qui</E
+M>t. Dante</E
+M>tutta Roma</E
+M>tutta Napoli</E
+M>tutto il Cairo</E
+M>tutta l’Aquila</E
+M>con t. libertà</E
+M>di t. cuore</E
+M>assumere una donna a t. servizio</E
+M>in t. Italia</E
+M>s’è lamentato t. notte</E
+M>t. giorno</E
+M>toujours</E
+M>t. il giorno</E
+M>che si veggono e odono tutto giorno</E
+M>dal capitolo 17 a t. il capitolo 24</E
+M>a tutt’oggi</E
+M>a t. domani</E
+M>a t. giovedì prossimo</E
+M>a t. il 30 aprile</E
+M>t. gli uomini</E
+M>t. i cittadini di Bari</E
+M>t. i miei parenti</E
+M>t. i mobili della casa</E
+M>t. il bestiame</E
+M>t. il bosco</E
+M>t. il denaro che avevo</E
+M>ho girato t. i negozî della città</E
+M>si difendeva con t. le sue forze</E
+M>cresce tutt’i dì più meravigliosa</E
+M>una volta per tutte</E
+M>le volte</E
+M>le sa</E
+M>le pensa tutte</E
+M>tutte</E
+M>astuzie</E
+M>tutt’e due</E
+M>tutt’e otto</E
+M>tutt’e cento</E
+M>tutt’e tre</E
+M>tutte e tre</E
+M>le soluzioni</E
+M>tutt’e cinque</E
+M>tutti e cinque</E
+M>i colleghi</E
+M>viene a t. le ore</E
+M>sono malanni che possono capitare a t. le età</E
+M>lo voglio a t. i costi</E
+M>tutti possono sbagliare</E
+M>voglio essere in pace con tutti</E
+M>contento lui</E
+M>contenti tutti</E
+M>fermi tutti!</E
+M>contenta te</E
+M>contente tutte</E
+M>ferme tutte!</E
+M>tutti per uno</E
+M>uno per tutti</E
+M>tutti</E
+M>tutti</E
+M>tutti</E
+M>soli</E
+M>fatto questo è fatto tutto</E
+M>penso io a tutto</E
+M>quando c’è la salute c’è tutto</E
+M>bisogna badare a tutto</E
+M>avere l’occhio a tutto</E
+M>ha confessato tutto</E
+M>hai studiato tutto?</E
+M>ha portato via tutto</E
+M>ha trovato tutto in perfetto ordine</E
+M>è andato tutto bene?</E
+M>e t. questo</E
+M>perché?</E
+M>ha t. ciò che vuole</E
+M>t. quello che desidera</E
+M>è tutto qui?</E
+M>questo è tutto</E
+M>e non è tutto!</E
+M>o tutto o niente</E
+M>legge del tutto o del niente</E
+M>esser capace di tutto</E
+M>mangiare tutto</E
+M>di tutto</E
+M>il medico dice che ormai puoi mangiare di tutto</E
+M>è di bocca buona e mangia di tutto</E
+M>fare di tutto</E
+M>buono</E
+M>buona a tutto fare</E
+M>bonne à tout faire</E
+M>fa di tutto per ottenere quel posto</E
+M>per non andarci</E
+M>ho fatto di tutto per convincerlo</E
+M>ma non ci sono riuscito</E
+M>tutto sta</E
+M>tutto sta a intendersi</E
+M>tutto sta che lasci fare a me</E
+M>tutto sta che non se ne accorga</E
+M>il tutto</E
+M>la parte per il t.</E
+M>sono due etti abbondanti</E
+M>il t. per dieci euro</E
+M>il t. condito con olio e aceto</E
+M>vogliate spedirmi il t. all’indirizzo sottoindicato</E
+M>con t. l’anima</E
+M>con t. il cuore</E
+M>con t. l’affetto</E
+M>con t. la possibile diligenza</E
+M>è principio e cagion di tutta gioia</E
+M>a t. forza</E
+M>a t. velocità</E
+M>a t. andare</E
+M>a t. birra</E
+M>a t. spiano</E
+M>a t. vapore</E
+M>a t. prova</E
+M>galantuomo</E
+M>lealtà</E
+M>fedeltà a t. prova</E
+M>a tutt’uomo</E
+M>tutta forza!</E
+M>con</E
+M>si stese sul letto con t. le scarpe</E
+M>per li capelli presolo</E
+M>con t. la cassa il tirò in terra</E
+M>con tutto</E
+M>con tutti</E
+M>con t. la mia buona volontà</E
+M> non ci sono riuscito</E
+M>con t. la sua presunzione</E
+M> rimane sempre un ignorante</E
+M>che</E
+M>ha voluto venire</E
+M> con tutto che io l’avessi sconsigliato</E
+M>l’avevo</E
+M>con t. i soldi che ha</E
+M> potrebbe fare qualcosa per noi</E
+M>è t. il contrario</E
+M>è t. l’opposto di come tu dici</E
+M>è tutta bontà sua!</E
+M>è tutta una menzogna</E
+M>si sporgeva tutto da un lato</E
+M>tremava tutta</E
+M>egli si struggea tutto d’andarla a abracciare</E
+M>era t. allegro</E
+M>t. contento</E
+M>t. bianco</E
+M>t. pulito</E
+M> Cortese segnalava d’accostare Che hai perso un tacco E vai t. sbilenca</E
+M>arrivarono tutti fradici di pioggia</E
+M>appariva t. sconvolto</E
+M>era tutta commossa</E
+M>se ne stava t. solo</E
+M>t. appartato</E
+M>tutto in disparte</E
+M>t. raccolto in meditazione</E
+M>è un uomo t. d’un pezzo</E
+M>una ragazza tutta pepe</E
+M>tutta fuoco</E
+M>tutto</E
+M>è t. suo padre</E
+M>è t. lui</E
+M>il suo corpo era tutto</E
+M>tutta</E
+M>una piaga</E
+M>un ragazzo tutto muscoli</E
+M>è magra</E
+M>tutta pelle e ossa</E
+M>essere tutto naso</E
+M>tutto bocca</E
+M>tutt’occhi</E
+M>L’esule smorto</E
+M> tutto fronte e sguardo</E
+M>essere tutt’occhi</E
+M>tutt’orecchi</E
+M>è un uomo tutto studio</E
+M>tutto casa</E
+M>tutto famiglia</E
+M>tutto partito</E
+M>una signora tutta casa e chiesa</E
+M>tutt’intorno</E
+M>tutt’in giro</E
+M>tutt’al contrario</E
+M>tutt’altro</E
+M>tutt’al più</E
+M>al più</E
+M>è tutt’uno</E
+M>per me</E
+M>andarci o restar qui è tutt’uno</E
+M>una settimana o l’altra per me è tutt’uno</E
+M>è tutt’una</E
+M>che tu ci sia o non ci sia</E
+M> per me è tutt’una</E
+M>tutto libero</E
+M>lunghezza fuori tutto</E
+M>tutto a dritta</E
+M>tutto a sinistra</E
+M>avanti tutta</E
+M>indietro tutta</E
+M>In tutto</E
+M>quant’è in t.?</E
+M>quanto fa in t.?</E
+M>sono in t. 280 giornate lavorative</E
+M>fa in t. cento euro</E
+M>gli alunni dell’istituto sono in t. 600 circa</E
+M>in tutto e per tutto</E
+M>sono in t. e per t. ignaro della cosa</E
+M>Del tutto</E
+M>al tutto</E
+M>il lavoro non è ancora finito del t.</E
+M>affermando</E
+M>niuna cosa potere maggiormente giovare alla stirpe umana che di essere al t. spenta</E
+M>del tutto</E
+M>prestatogli cavallo e datagli compagnia</E
+M> infino a Ravello</E
+M> dove del t. diceva di voler tornare</E
+M> il rimandarono</E
+M>per tutto</E
+M>della stoffa come questa la puoi trovare per t.</E
+M>chieder l’elemosina per tutto</E
+M> e farla a tutti quelli che la chiedevano al convento</E
+M> a tutto era avvezzo un cappuccino</E
+M>da per tutto</E
+M>In tutti i modi</E
+M>debbo ritrovarlo in t. i modi</E
+M>non so se sarò in casa a quell’ora</E
+M> in t. i modi prova a telefonarmi</E
+M>Oltre a tutto</E
+M>oltre tutto</E
+M>oltretutto</E
+M>dovrebbe essermi grato: oltre a tutto</E
+M> sono stato io a tirarlo fuori dagli impicci</E
+M>dopo tutto</E
+M>Prima di tutto</E
+M>innanzi tutto</E
+M>Di t. punto</E
+M>era vestito</E
+M>bardato</E
+M>armato di t. punto</E
+M>Tutt’a un tratto</E

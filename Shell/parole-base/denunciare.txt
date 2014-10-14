@@ -1,0 +1,39 @@
+denunciare.txt
+"denunciare"
+"denunciare"
+"denunciare"
+"denunciare"
+"denunciare apertamente"
+"denunciare qualcuno"
+"denunciare qualcuno"
+"denunciare qualcuno"
+"denunciare, fare la spia, pesare su"
+*[[comunicare]],[[segnalare]], [[riferire]]
+*[[querelare]], [[accusare]]
+*[[rivelare]], [[indicare]], [[evidenziare]], [[sottolineare]] 
+*[[nascondere]], [[coprire]], [[occultare]], [[celare]]
+*[[denunciamento]]
+*[[segnalazione]]
+M>denuntiare</E
+M>nuntiare</E
+M>nuntius</E
+M>dénoncer</E
+M>io denùncio</E
+M>denùnzio</E
+M>un reato</E
+M>un furto</E
+M>una persona</E
+M>ha denunciato di essere stata rapinata</E
+M>denunciò che aveva subito una violenza</E
+M>al fisco i proprî redditi</E
+M>la nascita di un figlio all’ufficio anagrafico</E
+M>Questi è certo</E
+M>dicea</E
+M>quei che da’ fati Si denunzia venir di stran paese</E
+M>un matrimonio</E
+M>fatti che denunciano la gravità della situazione</E
+M>le sue parole denunciano chiaramente i suoi propositi</E
+M>un accordo</E
+M>un trattato</E
+M>denunziante</E
+M>il reddito dichiarato dal denunciante</E

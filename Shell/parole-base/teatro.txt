@@ -1,0 +1,144 @@
+teatro.txt
+"a teatro"
+"assistente di scena (teatro)"
+"binocolo da teatro"
+"cinema teatro"
+"entrare a teatro, nell'arena"
+"frequentatore di teatro"
+"il teatro"
+"mondo del teatro"
+"mondo del teatro"
+"piccolo teatro"
+"scuola di teatro"
+"stanza dietro le quinte di un teatro"
+"teatro"
+"teatro"
+"teatro"
+"teatro"
+"teatro a buon mercato"
+"teatro all'aperto"
+"teatro all'aperto"
+"teatro all'aperto"
+"teatro all'aperto"
+"teatro arena"
+"teatro arena"
+"teatro comunitario"
+"teatro con palcoscenico centrale arena"
+"teatro con palcoscenico centrale arena"
+"teatro dell'arte"
+"teatro dell'assurdo"
+"teatro dell'assurdo"
+"teatro delle ombre, ombre cinesi"
+"teatro delle operazioni"
+"teatro delle operazioni"
+"teatro di guerra"
+"teatro di posa"
+"teatro di repertorio"
+"teatro di varietà"
+"teatro drive-in"
+"teatro estivo"
+"teatro lirico"
+"teatro lirico"
+"teatro lirico"
+"teatro musicale"
+"teatro operativo"
+"teatro sperimentale"
+* [[anfiteatro]], [[arena]]
+*[[rappresentazione]], [[spettacolo]], [[recita]], [[recitazione]]
+*[[commedia]], [[tragedia]], [[dramma]], [[opera]]
+*[[politeama]],  [[messa]] [[in]] [[scena]],  [[platea]],  
+*[[anfiteatro]]
+M>theatrum</E
+M>il t. greco</E
+M>romano</E
+M>il t. di Taormina</E
+M>di Fiesole</E
+M>il t. moderno</E
+M>t. all&#8217;italiana</E
+M>T. alla Scala</E
+M>T. Regio</E
+M>T. San Carlo</E
+M>T. La Fenice</E
+M>t. tenda</E
+M>T. di posa</E
+M>t. anatomico</E
+M>t. di notomia</E
+M>anfiteatro anatomico</E
+M>una zona malfamata che è spesso t. di delitti</E
+M>quella banca è stata già due volte t. di rapine</E
+M>un avventuriero che ha avuto come t. delle sue gesta mezza Europa</E
+M>il Carso è stato t. delle più sanguinose battaglie della prima guerra mondiale</E
+M>t. di guerra</E
+M>t. operativo</E
+M>teatro</E
+M>mezzi di t.</E
+M>armi di t.</E
+M>missili di t.</E
+M>venite anche voi a t.</E
+M>al t.</E
+M>questa sera?</E
+M>il t. comincia alle 20</E
+M>30 precise</E
+M>amare il t.</E
+M>essere un appassionato di teatro</E
+M>ieri sera c&#8217;era un t. magnifico</E
+M>splendido</E
+M>il t. era entusiasta</E
+M>tutto il t. scattò in piedi ad applaudire</E
+M>a protestare</E
+M>tra gli applausi</E
+M> tra le risa</E
+M> tra i fischi di tutto il teatro</E
+M>il mondo</E
+M>la vita del t.</E
+M>il teatro</E
+M>gente di teatro</E
+M>è figlia d&#8217;arte</E
+M> e ha il t. nel sangue</E
+M>Teatro stabile</E
+M>Piccolo teatro</E
+M>la crisi</E
+M>la morte del t.</E
+M>il conflitto tra cinema e teatro</E
+M>t. di prosa</E
+M>t. tragico</E
+M>drammatico</E
+M>comico</E
+M>t. d&#8217;opera</E
+M>lirico</E
+M>t. d&#8217;operetta</E
+M>di varietà</E
+M>d&#8217;avanspettacolo</E
+M>t. dialettale</E
+M>popolare</E
+M>folcloristico</E
+M>t. di massa</E
+M>di masse</E
+M>t. televisivo</E
+M>il t. classico</E
+M>il t. greco</E
+M>romano</E
+M>il t. di Eschilo</E
+M>di Plauto</E
+M>il t. moderno</E
+M>il t. italiano del Rinascimento</E
+M>il t. elisabettiano</E
+M>il t. di Shakespeare</E
+M>di Marlowe</E
+M>il t. orientale</E
+M>il t. cinese</E
+M>giapponese</E
+M>il t. goldoniano</E
+M>alfieriano</E
+M>di Pirandello</E
+M>il t. contemporaneo</E
+M>il t. d&#8217;avanguardia</E
+M>sperimentale</E
+M>t. d&#8217;animazione</E
+M>t. epico</E
+M>t. totale</E
+M>T. ottico</E
+M>theatrum</E
+M>Theatrum mundi</E
+M>Theatrum botanicum</E
+M>T. di memoria</E

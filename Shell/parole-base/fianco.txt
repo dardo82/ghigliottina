@@ -1,0 +1,109 @@
+fianco.txt
+"al tuo fianco"
+"armi da fianco"
+"cadere su un fianco, rovesciarsi"
+"di fianco"
+"di fianco a"
+"essere a fianco di"
+"fianco"
+"fianco"
+"lato, parte laterale, fianco"
+"fianco, fianchi"
+"fianco a fianco"
+"fianco a fianco"
+"fianco a fianco"
+"fianco del cane"
+"fianco della collina"
+"offrire il fianco"
+"porgere il fianco"
+"prestare il fianco a"
+"spina nel fianco"
+"spina nel fianco"
+"spina nel fianco"
+"spina nel fianco"
+"stare fianco a fianco"
+"stare fianco a fianco con"
+"una spina nel fianco"
+*[[lato]], [[anca]]
+*[[bacino]], [[cintola]], [[vita]]
+*(di nave, edificio eccetera) [[parete]]
+*[[fiancare]]
+*''al proprio fianco''
+M>flanc</E
+M>*hlanka</E
+M>chi</E
+M>destro</E
+M>sinistro</E
+M>avere un dolore al f</E
+M>starsene con le mani sui f</E
+M>con le mani alla cintola</E
+M>mettersi le mani sui f</E
+M>tenersi i f</E
+M>essere stretta</E
+M>larga di fianchi</E
+M>Gentil ramo ove piacque</E
+M>A lei di fare al bel f</E
+M>colonna</E
+M>portare</E
+M>tenere la sciabola al f</E
+M>dormire sul f</E
+M>su un f</E
+M>essere</E
+M>stare al f</E
+M>di qualcuno</E
+M>Per sempre al suo f. camminare</E
+M> La più piccola dei due</E
+M> Cervello del suo cervello</E
+M> sangue del suo sangue</E
+M>essere</E
+M>stare ai f</E
+M>di qualcuno</E
+M>offrire</E
+M>prestare il f</E
+M>a critiche</E
+M>al biasimo</E
+M>Fianco destro!</E
+M>fianco sinistro!</E
+M>fianco destr’</E
+M>fianco sinistr’</E
+M>Indi traendo poi l’antiquo fianco</E
+M>Pèra chi osò primiero Discortese commettere A infedele corsiero L’agil f</E
+M>femineo</E
+M>fronte</E
+M>proteggere il f</E
+M>dello schieramento</E
+M>murata</E
+M>i f</E
+M>del duomo</E
+M>del monumento</E
+M>della corazzata</E
+M>il f</E
+M>destro del carro</E
+M>i f</E
+M>della collina</E
+M>del monte</E
+M>vallivi</E
+M>fianchi di una piega</E
+M>gambe</E
+M>ali</E
+M>normale</E
+M>inverso</E
+M>fianchi</E
+M>di fianco</E
+M>visto di f</E
+M>sembra un altro</E
+M>si è fatto fotografare di f</E
+M>assalire</E
+M>investire</E
+M>minacciare di f</E
+M>prendere di f</E
+M>un argomento</E
+M>un tema</E
+M>fianco a</E
+M>il vicolo che corre di f</E
+M>al palazzo</E
+M>a fianco a</E
+M> cammina a f. a me</E
+M>stare a f</E
+M>al f</E
+M>di qualcuno</E

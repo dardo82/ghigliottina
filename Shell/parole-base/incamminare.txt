@@ -1,0 +1,13 @@
+incamminare.txt
+"Traduzione di incamminare/ non trovata.\nNo translation was found for incamminare/."
+M>incamminiamoci</E
+M>se non vogliamo fare tardi</E
+M>è ora d’incamminarsi verso casa</E
+M>c’incamminammo per la via del ritorno</E
+M>i figli in un’arte</E
+M>in una professione</E
+M>un’azienda</E
+M>un’industria</E
+M>un giovane che si è bene incamminato nel suo mestiere</E
+M>un gran borgo al giorno d’oggi</E
+M>e che s’incammina a diventar città</E

@@ -1,0 +1,145 @@
+fisso.txt
+"(avere) un chiodo fisso in testa"
+"a reddito fisso"
+"avere un chiodo fisso"
+"capitale fisso"
+"costo fisso"
+"fermo, fisso"
+"fisso"
+"fisso"
+"fisso"
+"fisso"
+"fisso"
+"flat rate; prezzo fisso"
+"giorno fisso di riposo"
+"guardare fisso"
+"impianto fisso"
+"modello di prezzi del capitale fisso"
+"pensiero fisso"
+"posto fisso"
+"prezzo fisso"
+"prezzo fisso"
+"punto decimale fisso"
+"reddito fisso"
+"residuo fisso"
+"rimanere fisso; invariato"
+"satellite fisso"
+"sguardo fisso"
+"sguardo fisso"
+"sguardo fisso"
+"telefono fisso"
+#*'' al supermercato il prezzo è fisso''
+*[[fermo]], [[fissato]], [[stabile]], [[inamovibile]], [[immobile]]
+* ''(di sguardo)''[[attento]], [[concentrato]], [[puntato]] 
+*''(di idea,convinzione eccetera)'' [[costante]], [[ossessivo]], [[maniacale]]
+*''(di norma,regola)'' [[definitivo]], [[permanente]] 
+*''(di occupazione)'' [[stabile]], [[di ruolo]]
+* ''(di prezzo, di costo)'' [[immutabile]], [[intrattabile]]
+*''(di cliente)'' [[abituale]], [[consueto]]
+*[[irremovibile]], [[ostinato]], [[risoluto]], [[determinato]]  
+*[[mobile]], [[instabile]], [[precario]]
+* ''(di sguardo)'' [[disattento]], [[svagato]]
+*''(di norma,regola)'' [[variabile]], [[provvisorio]], [[temporaneo]]
+*''(di occupazione)'' [[saltuario]], [[precario]], [[a termine]] 
+*''(di prezzo, di costo)'' [[trattabile]], [[negoziabile]]
+*[[volubile]], [[incostante]], [[arrendevole]]
+*[[prefisso]]
+M>xus</E
+M>fig</E
+M>una lampada f</E
+M>al tavolo</E
+M>vetro f</E
+M>impianti f</E
+M>avere un punto f</E
+M>di riferimento</E
+M>solido con un punto</E
+M>con un asse</E
+M>stelle f</E
+M>stare sempre f</E
+M>in un luogo</E
+M>è f</E
+M>a Roma da qualche mese</E
+M>avere fissa nel cuore</E
+M>nella mente una persona</E
+M>una cosa</E
+M>idea f</E
+M>chiodo f</E
+M>luce f</E
+M>alle volte è un po’ fissa nelle sue idee</E
+M>essere f</E
+M>in un proposito</E
+M>in una determinazione</E
+M>tutti gli occhi erano f</E
+M>su di lui</E
+M>stava f</E
+M>a mirare quell’inatteso spettacolo</E
+M>mi guardò fissa a lungo</E
+M>questi pure guardaron fisso la nuova compagnia</E
+M>teneva lo sguardo f</E
+M>nel vuoto</E
+M>il suo occhio era f</E
+M>e senza espressione</E
+M>avere la mente</E
+M>il pensiero f</E
+M>a qualche cosa</E
+M>Ad ascoltarli er’io del tutto f</E
+M>fissi!</E
+M>attenti a destra!</E
+M>attenti a sinistra!</E
+M>impiego f</E
+M>stipendio f</E
+M>godere di un assegno f</E
+M>avere un f</E
+M>mensile</E
+M>gente senza f</E
+M>dimora</E
+M>pensionante f</E
+M>mano d’opera f</E
+M>macchina fotografica a fuoco f</E
+M>fenomeni che si ripetono a intervalli f</E
+M>ricevere a ore f</E
+M>in giorni f</E
+M>contratto a termine f</E
+M>regole f</E
+M>diritto f</E
+M>posizioni f</E
+M>proprie</E
+M>naturali</E
+M>normali</E
+M>condensatore f</E
+M>resistore f</E
+M>variabile</E
+M>telefono f.</E
+M>compenso</E
+M>salario f</E
+M>prezzo f</E
+M>vendita a prezzi f</E
+M>pranzo a prezzo f</E
+M>pranzo alla carta</E
+M>cambio f</E
+M>cambio flessibile</E
+M>capitale f</E
+M>capitale circolante</E
+M>reddito f</E
+M>titoli a reddito f</E
+M>mutuo a tasso f</E
+M>redditi f</E
+M>costi f</E
+M>variabili</E
+M>spese f</E
+M>Così son le sue sorti a ciascun fisse</E
+M>Fisso è nel Ciel ch’al venerabil segno Chini le mura</E
+M>apra Sion le porte</E
+M>alcali f</E
+M>Le scopre il f</E
+M>cuor di grave punta</E
+M>rete</E
+M>tela f</E
+M>pioggia f</E
+M>pettine f</E
+M>brodo f</E
+M>guardare fissamente una persona</E
+M>un oggetto</E
+M>pensare fissamente</E
+M>rivolgere fissamente il pensiero a qualcosa</E
+M>a qualcuno</E

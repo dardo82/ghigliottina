@@ -1,0 +1,118 @@
+bandiera.txt
+"a bandiera"
+"alzare bandiera bianca"
+"asta della bandiera"
+"bandiera"
+"bandiera"
+"bandiera"
+"bandiera"
+"bandiera a scacchi"
+"bandiera bianca"
+"bandiera bianca"
+"bandiera blu"
+"bandiera da battaglia"
+"bandiera degli USA"
+"bandiera della casa (cioè di una società)"
+"bandiera di convenienza"
+"bandiera gialla"
+"bandiera nazionale"
+"bandiera nera"
+"bandiera ombra"
+"bandiera rossa"
+"bandiera straniera"
+"battere bandiera"
+"tenere issata una bandiera"
+"che sventola la bandiera"
+"compagnia di bandiera"
+"con la bandiera rossa"
+"essere una bandiera"
+"fare segnalazioni con bandiera"
+"giorno commemorativo dell'adozione della bandiera americana"
+"goal della bandiera"
+"gol della bandiera"
+"la bandiera (americana)"
+"portatore di bandiera"
+"saluto alla bandiera"
+"sventolare la bandiera"
+#* ''tutti uniti sotto la '''bandiera''' della [[pace]]''
+*[[ drappo]], [[insegna]], [[stendardo]], [[vessillo]], [[gonfalone]]
+*[[orifiamma]], [[labaro]], [[pavese]], [[pennello]], [[guidone]], [[gagliardetto]]
+* [[banda]] 
+*[[bandierabile]], [[bandieraio]], [[bandierale]], [[portabandiera]]
+*'' bandiera abbrunata''
+:*[[ladino]]
+*Enciclopedia [http
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione 2000-2001, Le Monnier, p.212
+M>banda</E
+M>alzare</E
+M>ammainare la b</E
+M>alza b</E
+M>ammaina b</E
+M>esporre</E
+M>mettere fuori la b</E
+M>abbrunata</E
+M>a mezz’asta</E
+M>spiegare le b</E
+M>andare</E
+M>avanzare a b</E
+M>spiegate</E
+M>piegare</E
+M>ripiegare le b</E
+M>di combattimento</E
+M>a sacco</E
+M>spiegata</E
+M>bianca</E
+M>Il morbo infuria</E
+M>Il pan ci manca</E
+M>Sul ponte sventola B</E
+M>bianca</E
+M>alzare b</E
+M>bianca</E
+M>gialla</E
+M>rossa</E
+M>di cortesia</E
+M>ombra</E
+M>battere b</E
+M>italiana</E
+M>inglese</E
+M>sotto b</E
+M>italiana</E
+M>inglese</E
+M>legge della b</E
+M>aiutante di bandiera</E
+M>compagnia di bandiera</E
+M>di bandiera</E
+M>candidato di b</E
+M>vecchia onor di capitano</E
+M>rotta fa onore al capitano</E
+M>mutare bandiera</E
+M>portare la b</E
+M>portare alta la b</E
+M>innalzare</E
+M>portare alta la b</E
+M>della libertà</E
+M>di un ideale</E
+M>essere sotto la b</E
+M>le b</E
+M>seguire la b</E
+M>le b</E
+M>di qualcuno</E
+M>andare</E
+M>restare sotto le b</E
+M>abbandonare la b</E
+M>piantare la b</E
+M>in un luogo</E
+M>gol</E
+M>punto della b</E
+M>A bandiera</E
+M>finestra a b</E
+M>insegna a b</E
+M>scudo a b.</E
+M>impaginazione a b</E
+M>rosso b</E
+M>verde b</E
+M>di fanti</E
+M>bandiera</E
+M>lancia fornita</E
+M>gobbo</E
+M>Bandiera rossa</E

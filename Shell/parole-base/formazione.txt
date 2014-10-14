@@ -1,0 +1,141 @@
+formazione.txt
+"comando a una formazione in marcia di allinearsi e seguire una guida in testa alla formazione stessa"
+"corso di formazione"
+"fare formazione"
+"formazione"
+"formazione"
+"formazione"
+"formazione"
+"formazione"
+"formazione"
+"formazione"
+"formazione ad anello"
+"formazione commerciale"
+"formazione del capitale"
+"formazione della parola"
+"formazione di gioco"
+"formazione in servizio"
+"formazione pratica"
+"formazione professionale"
+"formazione professionale"
+"formazione sul posto di lavoro"
+"formazione umanista"
+"in formazione"
+"istituto per formazione professionale para universitario"
+"momenti di formazione"
+"scuola secondaria con formazione per adulti"
+"studente in formazione"
+*[[composizione]], [[costruzione]], [[realizzazione]]
+*[[nascita]], [[origine]], [[genesi]], [[creazione]], [[avvio]]
+*[[schieramento]], [[disposizione]]
+*[[distruzione]], [[disfacimento]]
+*[[formazione-base]]
+M>formatio</E
+M>onis</E
+M>la f</E
+M>di una compagnia drammatica</E
+M>di un’orchestrina</E
+M>un partito</E
+M>una società di recente f</E
+M>battaglione</E
+M>reparto di formazione</E
+M>la genesi e la f</E
+M>dei minerali</E
+M>la f</E
+M>delle rocce</E
+M>dei vulcani</E
+M>delle stalattiti</E
+M>la f</E
+M>delle nuvole e della pioggia</E
+M>la f</E
+M>degli organi</E
+M>di un tumore</E
+M>di un ascesso</E
+M>la f</E
+M>della lingua italiana</E
+M>la f</E
+M>dei derivati e dei composti</E
+M>la f</E
+M>dei plurali</E
+M>la f</E
+M>del femminile</E
+M>la f</E
+M>dei casi nella declinazione latina</E
+M>una f</E
+M>irregolare</E
+M>la f</E
+M>del carattere</E
+M>della personalità</E
+M>la f</E
+M>del gusto</E
+M>provvedere alla propria f</E
+M>culturale</E
+M>professionale</E
+M>corsi per la f</E
+M>e l’aggiornamento del personale</E
+M>la f</E
+M>delle nuove leve</E
+M>dei quadri politici</E
+M>l’età</E
+M>il periodo della f</E
+M>avere una buona f</E
+M>tecnica</E
+M>musicale</E
+M>in formazione</E
+M>la società</E
+M>la squadra</E
+M>il reparto è già</E
+M>è ancora</E
+M>in f</E
+M>una cultura</E
+M>una personalità in formazione</E
+M>avanzare in f</E
+M>serrata</E
+M>in f</E
+M>sparsa</E
+M>sciogliere la f</E
+M>di marcia</E
+M>un battaglione in f</E
+M>di combattimento</E
+M>a cuneo</E
+M>in fila</E
+M>navigare</E
+M>volare in formazione</E
+M>di gioco</E
+M>non è ancora nota la f</E
+M>con cui gli azzurri scenderanno in campo</E
+M>australiana</E
+M>parallela</E
+M>una f</E
+M>di paracadutisti</E
+M>alcune f</E
+M>partigiane</E
+M>logistiche</E
+M>sanitarie</E
+M>una f</E
+M>di cacciabombardieri</E
+M>avvistare</E
+M>incontrare</E
+M>assaltare una f</E
+M>nemica</E
+M>squadra</E
+M>compagnia</E
+M>complesso</E
+M>cast</E
+M>il pericolo delle f</E
+M>di ghiaccio sugli aerei in volo</E
+M>erano previste f</E
+M>di nebbia in Val Padana</E
+M>f. sedimentaria di acqua dolce</E
+M>di scogliera</E
+M>vulcanica</E
+M>petrolifera</E
+M>roccia madre</E
+M>roccia serbatoio</E
+M>roccia magazzino</E
+M>roccia di copertura</E
+M>vegetale</E
+M>Bildung</E
+M>reattiva</E
+M>sostitutiva</E
+M>di compromesso</E

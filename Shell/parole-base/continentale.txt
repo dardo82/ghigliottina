@@ -1,0 +1,19 @@
+continentale.txt
+"clima continentale"
+"colazione continentale"
+"continentale"
+"continentale"
+"piattaforma continentale"
+"ponte continentale"
+"spartiacque continentale"
+"spartiacque continentale"
+M>città c</E
+M>blocco c</E
+M>clima c</E
+M>acque c.</E
+M>acque interne</E
+M>la maestra non è del luogo; anzi viene da molto lontano</E
+M>d’oltre mare</E
+M>e la chiamano appunto la Continentale</E
+M>abitudini c</E
+M>di vita</E

@@ -1,0 +1,6 @@
+astronave.txt
+"astronave"
+M>astro</E
+M>nave</E
+M>veicolo spaziale</E
+M>navicella spaziale</E

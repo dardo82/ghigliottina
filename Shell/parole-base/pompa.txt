@@ -1,0 +1,43 @@
+pompa.txt
+"adescare la pompa"
+"bagnare; annaffiare con pompa da giardino"
+"che va con pompa a mano"
+"della pompa ad acqua"
+"distributore a pompa"
+"in pompa magna"
+"la Pompa Pneumatica"
+"pompa"
+"pompa"
+"pompa a getto"
+"pompa a membrana"
+"pompa a motore"
+"pompa a pedale"
+"pompa a pistoni"
+"pompa a pressione"
+"pompa ad ingranaggi"
+"pompa antincendio"
+"pompa aspirante"
+"pompa ausiliaria"
+"pompa centrifuga"
+"pompa d'aspirazione"
+"pompa da bicicletta"
+"pompa da vuoto"
+"pompa della bicicletta"
+"pompa di alimentazione"
+"pompa di calore"
+"pompa di sentina"
+"pompa elevatrice"
+"pompa eolica"
+"pompa idraulica"
+"pompa manuale"
+"pompa per annaffiare"
+"pompa pneumatica"
+#* '''''pompa''' di benzina''
+#* '''''pompe''' funebri''
+*''(macchina idraulica)'' dal [[francese]] ''[[pompe]]''
+*''(solennità)''dal [[latino]] ''[[pumpa]]''
+* [[gonfiatoio]], [[gonfiatore]]
+* ''(di carburante)''  [[distributore]]
+*[[semplicità]], [[modestia]] 
+*''(idraulica)'' [[pompare]], [[pompaggio]]
+*''(idraulica)'' [[portata]], [[prevalenza]], [[idraulica]], [[compressore]]

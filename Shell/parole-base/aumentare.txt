@@ -1,0 +1,41 @@
+aumentare.txt
+"aumentare"
+"aumentare"
+"aumentare"
+"aumentare di dimensioni"
+"aumentare di prezzo"
+"aumentare il capitale"
+"aumentare il capitale"
+"aumentare il prezzo"
+"aumentare il ritmo, accelerare"
+"aumentare il valore"
+"aumentare improvvisamente"
+"aumentare l'altezza"
+"aumentare la pressione"
+"aumentare la pressione"
+"aumentare la temperatura"
+"aumentare le marce; la velocità"
+"aumentare le probabilità"
+"aumentare le proprie chances, aumentare le proprie possibilità"
+"aumentare vertiginosamente"
+"aumentare vertiginosamente"
+"aumentare, migliorare"
+"salire, aumentare"
+"tirare su; aumentare"
+*[[accrescere]],[[ingrossare]], [[allargare]], [[dilatare]], [[estendere]], [[incrementare]], [[maggiorare]], [[arricchire]], [[ rincarare]], [[alzare]]
+*[[ridurre]], [[diminuire]]. [[sottrarre]] 
+M>augmentare</E
+M>augmentum</E
+M>io auménto</E
+M>le entrate</E
+M>i prezzi</E
+M>il numero degli operai</E
+M>gli hanno promesso di aumentargli lo stipendio</E
+M>ciò aumenta il mio dolore</E
+M>essere</E
+M>di volume</E
+M>di peso</E
+M>crescere di età</E
+M>di statura</E
+M>le spese aumentano continuamente</E
+M>è aumentato il caldo</E

@@ -1,0 +1,40 @@
+rubrica.txt
+"chi tiene la rubrica di cronaca rosa; chi scrive gli avvenimenti mondani"
+"rubrica"
+"rubrica"
+"rubrica di cronaca rosa; degli avvenimenti mondani"
+"rubrica di moda"
+"rubrica telefonica"
+"rubrica televisiva"
+*[[agenda]], [[repertorio]], [[prontuario]], [[indirizzario]], [[registro]], [[elenco]],[[quaderno]], [[block-notes]], [[taccuino]]
+*''(di giornale, trasmissione televisiva, radiofonica)'' [[sezione]], [[rassegna]]
+*[[diario]]
+*C.A. Sambugar, ''Armonia e stile'', La Nuova italia Firenze, 1966, pagina 246
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1808 
+M>rubr</E
+M>ruber</E
+M>umbilicus</E
+M>index</E
+M>rubricario</E
+M>tavola</E
+M>le r</E
+M>del &#171;Decameron&#187;</E
+M>album</E
+M>la r</E
+M>teatrale di un quotidiano</E
+M>la r</E
+M>mondana di un settimanale di attualità</E
+M>la r</E
+M>economica di una rivista internazionale</E
+M>una nuova r</E
+M>radiofonica letteraria</E
+M>una r</E
+M>televisiva di scienza e tecnica</E
+M>di un reato</E
+M>scrivere</E
+M>segnare in una r</E
+M>i nomi e gli indirizzi dei clienti</E
+M>delle ditte fornitrici</E
+M>tenere accanto al telefono una piccola r</E
+M>dei numeri telefonici degli amici</E
+M>rubrichetta telefonica</E

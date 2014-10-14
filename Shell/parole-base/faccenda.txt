@@ -1,0 +1,37 @@
+faccenda.txt
+"faccenda"
+"faccenda"
+"in quella faccenda"
+"quella faccenda mi puzza"
+"sistemare una faccenda"
+*[[lavoro]], [[occupazione]], 
+*[[fatto]], [[cosa]]
+*[[mestiere|mestieri]] (''regional'') (3)
+*[[pulizia|pulizie]] (3)
+*[[faccendiere]], [[affaccendarsi]]
+M>facienda</E
+M>fac</E
+M>essere in faccende</E
+M>avere gran faccenda</E
+M>mettere in faccenda</E
+M>mise la vecchia in faccenda per tutto il giorno</E
+M>Ser F</E
+M>Dottor F</E
+M>le f</E
+M>di casa</E
+M>le f</E
+M>ordinarie</E
+M>di tutti i giorni</E
+M>prima d’uscire voglio fare le f</E
+M>sbrigo le f</E
+M>e vengo</E
+M>non avete ancora finito le faccende?</E
+M>è una f</E
+M>seria</E
+M>una brutta f</E
+M>la f</E
+M>si mette male</E
+M>come va questa faccenda?</E
+M>faccendòla</E
+M>tutt’intento a vedere come andassero gli affari pubblici</E
+M>si dimenticava di vigilar le sue faccendole private</E

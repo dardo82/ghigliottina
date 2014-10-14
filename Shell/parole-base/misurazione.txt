@@ -1,0 +1,33 @@
+misurazione.txt
+"dispositivo di misurazione della marea"
+"dispositivo per la misurazione"
+"misurazione"
+"misurazione"
+"misurazione"
+"misurazione del colore"
+"misurazione del tempo"
+"misurazione dell'altezza"
+"misurazione di profondità"
+"riferito a un tipo di misurazione"
+M>misura</E
+M>eseguire</E
+M>compiere</E
+M>effettuare la m</E
+M>di una distanza</E
+M>di una superficie</E
+M>della pressione</E
+M>fare la m</E
+M>dell’area di un terreno</E
+M>diretta</E
+M>fondamentale</E
+M>relativa</E
+M>indiretta</E
+M>derivata</E
+M>assoluta</E
+M>elettrometro assoluto</E
+M>con strumenti tarati</E
+M>per azzeramento</E
+M>per compensazione</E
+M>misurazione</E
+M>della durezza</E
+M>del quoziente d’intelligenza</E

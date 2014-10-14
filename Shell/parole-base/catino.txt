@@ -1,0 +1,11 @@
+catino.txt
+"catino"
+"catino"
+"quantità presente in un catino"
+"catino"
+M>cat</E
+M>nus</E
+M>cat</E
+M>num</E
+M>trovare il diavolo nel c</E
+M>rete a catino</E

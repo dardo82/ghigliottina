@@ -1,0 +1,25 @@
+cartuccia.txt
+"cartuccia"
+"cartuccia"
+"cartuccia"
+"cartuccia"
+"cartuccia"
+"cartuccia di inchiostro"
+*[[munizione]], [[pallottola]]
+* [[carta]], [[cartucciera]]
+M>carta</E
+M>cartouche</E
+M>cartridge</E
+M>a spillo</E
+M>ad ago</E
+M>a percussione centrale</E
+M>a percussione anulare</E
+M>a salva</E
+M>a salve</E
+M>sparare l’ultima c</E
+M>mezza c</E
+M>condensatori a c</E
+M>piezoelettrica</E
+M>fonorivelatore piezoelettrico</E
+M>microfonica</E
+M>telefonica</E

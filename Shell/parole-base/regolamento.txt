@@ -1,0 +1,43 @@
+regolamento.txt
+"il regolamento prevede"
+"regolamento"
+"regolamento"
+"regolamento edilizio"
+"regolamento interno"
+*[[regolamentazione]], [[regolarizzazione]], [[prescrizioni]], [[regola]], [[norme]]
+*[[regole]], [[ordinamento]], [[legislazione]], [[normativa]]
+*[[pagamento]], estinzione di debito
+M>della pressione</E
+M>della tensione</E
+M>regolazione</E
+M>regolamento di competenza</E
+M>di giurisdizione</E
+M>degli scambî commerciali tra due stati</E
+M>di avaria</E
+M>di pagamento</E
+M>di un conto</E
+M>finanziario</E
+M>cambiario</E
+M>di conti</E
+M>spacciatore ucciso per un r. di conti</E
+M>interni</E
+M>parlamentari</E
+M>di ufficio</E
+M>governativi</E
+M>ministeriali</E
+M>regionali</E
+M>provinciali</E
+M>comunali</E
+M>scolastico</E
+M>ospedaliero</E
+M>di condominio</E
+M>edilizio</E
+M>stradale</E
+M>di polizia stradale</E
+M>rispettare</E
+M>violare il r</E
+M>far osservare il r</E
+M>richiamare all&#8217;osservanza del r</E
+M>essere ligio</E
+M>stretto al r</E
+M>punire a norma del regolamento</E

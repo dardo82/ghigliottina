@@ -1,0 +1,186 @@
+questo.txt
+"a causa di questo"
+"a parte questo"
+"a questo proposito"
+"a questo punto"
+"a questo punto"
+"a questo scopo"
+"alla luce di questo"
+"allegato a questo"
+"beccati questo"
+"con questo"
+"con questo, con ciò"
+"cos'è questo?"
+"da questo momento"
+"da questo momento"
+"da questo momento in poi"
+"da questo punto"
+"da questo punto di vista"
+"e dagli con questo \/ questi"
+"essendo questo il caso"
+"fino a questo momento"
+"gli amici servono anche a questo"
+"ha lasciato questo mondo, è morto"
+"il naufragar m'è dolce in questo mare"
+"il Principe di questo mondo"
+"in luogo di questo"
+"in questo caso"
+"in questo caso particolare"
+"in questo contesto"
+"in questo frangente"
+"in questo istante"
+"in questo luogo"
+"in questo luogo"
+"in questo modo"
+"in questo modo"
+"in questo modo"
+"in questo modo, questa maniera"
+"in questo momento"
+"in questo periodo"
+"in questo posto"
+"in questo posto"
+"in questo senso"
+"lasciare questo mondo"
+"niente è gratis a questo mondo"
+"non per questo"
+"per questo"
+"per questo"
+"per questo"
+"per questo motivo"
+"proprio in questo istante"
+"questa tappa, questo stadio"
+"questo"
+"questo"
+"questo"
+"questo"
+"questo"
+"questo"
+"questo è certo"
+"questo è ciò che conta"
+"questo è il colmo!"
+"questo è il punto"
+"questo è poco ma sicuro."
+"questo è quanto\/questo è tutto"
+"questo è quanto\/questo è tutto"
+"questo e quello"
+"questo è sicuro!"
+"questo è solo un assaggio!"
+"questo è tutto"
+"questo funziona"
+"questo istante"
+"questo la dice lunga"
+"questo luogo"
+"questo momento"
+"questo mondo"
+"questo non ci voleva proprio"
+"questo particolare, quest'unico"
+"Questo piccolo grande amore"
+"questo pomeriggio"
+"questo pomeriggio"
+"questo punto"
+"questo qui"
+"questo secondo"
+"questo sì che è parlare!"
+"su questo non ci piove"
+"via di questo passo"
+#*'''''questa''' casa risale agli inizi del novecento''
+*[[siffatto]], [[tale]], [[questi]], [[costui]], [[ciò]]
+*italiano
+M>eccu</E
+M>ste</E
+M>eccu</E
+M>stum</E
+M>quello</E
+M>questo</E
+M>questi</E
+M>quest’auto mi ha dato sempre molti fastidî</E
+M>dobbiamo essere comprensivi con questi ragazzi</E
+M>queste tue intemperanze non mi piacciono</E
+M>questa sera</E
+M>questa mattina</E
+M>stasera</E
+M>stamattina</E
+M>quest’anno</E
+M>questo mese</E
+M>quest’oggi</E
+M>quest’uomo qui</E
+M>questo palazzo a destra</E
+M>questo diavoletto di mio figlio</E
+M>questi balli che oggi vanno di moda</E
+M>quello</E
+M>altro</E
+M>questo film è più appassionante di quello che abbiamo visto ieri</E
+M>preferisci questo colore o quell’altro</E
+M>quest’altro</E
+M>questo vino o un altro per me è lo stesso</E
+M>purché sia genuino</E
+M>questa vita</E
+M>questo mondo</E
+M>mio</E
+M>l’ho visto con questi occhi</E
+M>l’ho sentito con questi miei orecchi</E
+M>ho dovuto sempre procurarmi da vivere col lavoro di queste braccia</E
+M>queste parole lo turbarono assai</E
+M>questo don Rinaldo era un prete molto pio</E
+M>ti dò questo avvertimento: non frequentare più quell’uomo</E
+M>verrò uno di questi giorni</E
+M>verremo questo lunedì</E
+M>quest’autunno</E
+M>eppure lo sai che di questi discorsi non ne vuol sentire</E
+M>con questo freddo non è piacevole essere senza riscaldamento</E
+M>questi stessi argomenti potrebbero valere per me</E
+M>quanto tempo hanno dovuto penare questi tali popoli?</E
+M>questo è mio fratello</E
+M>questo è il libro che mi piace di più</E
+M>vorrei questo e questo</E
+M>prendo questo qui</E
+M>questo quaggiù</E
+M>questo quassù</E
+M>questo davanti</E
+M>questo accanto</E
+M>quello</E
+M>vuoi questo o quello?</E
+M>va sempre chiedendo soldi a questo e a quello</E
+M>ieri vedemmo Paolo e Antonio: questo ci venne subito incontro festoso</E
+M>l’altro non ci guardò neppure</E
+M>ciò</E
+M>questo non devi dirlo</E
+M>se credi questo</E
+M>sbagli</E
+M>questo mi fa dispiacere</E
+M>questo è quanto ho potuto sapere da lui</E
+M>questo è quanto</E
+M>questo sì!</E
+M>questo no!</E
+M>questo mai!</E
+M>questo mai e poi mai!</E
+M>da questo deriva quella sua perpetua inquietudine</E
+M>per questo</E
+M>per questo non sono venuto da te ieri</E
+M>con questo</E
+M>con tutto questo</E
+M>con tutto questo</E
+M>dice di volergli sempre bene</E
+M>e con questo se ne andò</E
+M>con questo</E
+M>però: che non andiate a ridirlo a nessuno</E
+M>questo</E
+M>questa</E
+M>questa mi giunge nuova!</E
+M>questa poi è bella!</E
+M>carina questa!</E
+M>questa poi</E
+M>senti questa!</E
+M>questa non gliela perdono!</E
+M>questa non me l’aspettavo da lui</E
+M>ci mancherebbe anche questa!</E
+M>prendi queste!</E
+M>O con questo o su questo</E
+M>in questo</E
+M>in questa</E
+M>in questo la fante di lei sopravvenne</E
+M>in questo parve a Prometeo che non so quanti di coloro lo stessero mirando</E
+M>in questo che</E
+M>in questa che</E
+M>in questa che chiudeva la porta</E
+M>si accorse d’aver lasciato la chiave dentro casa</E

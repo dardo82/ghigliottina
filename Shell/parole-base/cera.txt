@@ -1,0 +1,25 @@
+cera.txt
+"avere una brutta cera"
+"candela di cera"
+"cera"
+"cera"
+"opera prodotto con la cera"
+"cera bianca"
+"cera carnauba"
+"cera d'api"
+"cera di paraffina"
+"cera di paraffina"
+"cera per pavimenti"
+"cera per pavimenti"
+"come cera"
+"fiore di cera"
+"microfusione, fusione a cera persa"
+"palla di cera"
+"statua di cera"
+#* ''una statuetta di '''cera'''''
+#* ''hai una brutta '''cera'''''
+* (sostantivo) dal [[latino]] ''[[cera#Latino|cēra]]''
+* (voce verbale) 
+* [[cero]], [[candela]]
+* italiano
+* siciliano

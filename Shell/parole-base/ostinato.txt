@@ -1,0 +1,60 @@
+ostinato.txt
+"caparbio, ostinato, incosciente"
+"caparbio; ostinato; determinato"
+"essere ostinato"
+"ostinato"
+"ostinato"
+"ostinato nell'errore"
+"ostinato nelle opinioni"
+"ostinato, tenace, caparbio, risoluto"
+"sporco ostinato"
+#*''Neanche un mulo è più 
+#*''Sei proprio un ostinato, eh?''
+#*''Riesci a suonare un 
+*[[caparbio]], [[testardo]]
+*''(di tosse, febbre, freddo ecc.)'' [[persistente]], [[insistente]], [[durevole]]
+*[[momentaneo]], [[passeggero]]
+M>obstinatus</E
+M>obstinare</E
+M>un uomo o</E
+M>una ragazza o</E
+M>chi nell’acqua sta fin alla gola</E
+M>Ben è o</E
+M>se mercé non grida</E
+M>è o</E
+M>come un mulo</E
+M>essere o</E
+M>nelle proprie idee</E
+M>nel non voler riconoscere le ragioni degli altri</E
+M>è o</E
+M>avversario di ogni novità</E
+M>un ricercatore</E
+M>un lavoratore</E
+M>uno studioso o</E
+M>Te o</E
+M>amator de la tua Musa</E
+M>accanito</E
+M>impenitente</E
+M>peccatore</E
+M>bevitore</E
+M>giocatore ostinato</E
+M>chiudersi in un o</E
+M>silenzio</E
+M>in un mutismo o</E
+M>uno studio o</E
+M>un’o</E
+M>difesa</E
+M>opporre un’o</E
+M>resistenza</E
+M>una pioggia</E
+M>una nebbia o</E
+M>febbriciattole o</E
+M>tosse o</E
+M>ho un o</E
+M>dolore alla spalla destra</E
+M>basso o</E
+M>pizzicato o</E
+M>nonostante l’evidenza dei fatti</E
+M>l’accusato negava ostinatamente ogni addebito</E
+M>insistere ostinatamente in una ricerca</E
+M>in un tentativo</E

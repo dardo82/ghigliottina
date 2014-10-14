@@ -1,0 +1,19 @@
+borghesia.txt
+"borghesia"
+"borghesia"
+"il fascino discreto della borghesia"
+"piccola borghesia"
+*[[proletariato]]
+*[[borghese]], [[borghesismo]],[[capitalismo]]
+*italiano
+M>capitalistica</E
+M>industriale</E
+M>commerciale</E
+M>finanziaria</E
+M>degli affari</E
+M>intellettuale</E
+M>delle professioni</E
+M>alta</E
+M>piccola</E
+M>media b</E
+M>multinazionale</E

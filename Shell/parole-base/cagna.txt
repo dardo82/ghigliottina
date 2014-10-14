@@ -1,0 +1,21 @@
+cagna.txt
+"cagna"
+"cagna"
+*italiano
+*lombardo
+M>*cania</E
+M>canis</E
+M>Senti raspar fra le macerie e i bronchi La derelitta c</E
+M>ramingando</E
+M>figlio di c</E
+M>d’una c</E
+M>figlio d’un cane</E
+M>Isurus oxyrhynchus</E
+M>mako</E
+M>squalo tonno</E
+M>Lamna nasus</E
+M>Prionace glauca</E
+M>verdesca</E
+M>Serranus cabrilla</E
+M>Serranus scriba</E
+M>Hexanchus griseus</E

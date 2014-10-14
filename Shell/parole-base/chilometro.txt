@@ -1,0 +1,14 @@
+chilometro.txt
+"chilometro"
+"chilometro quadrato"
+"chilometro quadro, chilometro quadrato"
+"chilometro\/passeggero"
+#* ''questa strada è lunga un 
+#* ''fare dei 
+* chilometro [[lanciato]], chilometro da [[fermo]]
+* [[kilometro]]
+M>chilo</E
+M> kilo-</E
+M>metro</E
+M>lanciato</E
+M>da fermo</E

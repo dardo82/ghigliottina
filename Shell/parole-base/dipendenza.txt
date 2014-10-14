@@ -1,0 +1,42 @@
+dipendenza.txt
+"dipendenza"
+"dipendenza da"
+"dipendenza da droga"
+"dipendenza fisica"
+"dipendenza lineare"
+"dipendenza psicologica"
+#* avere qlcu. alle proprie dipendenze come [[subordinato]] 
+#* essere alle dipendenze di qlcu., lavorare in posizione di [[subordinazione]]
+*[[relazione]], [[connessione]], [[legame]], [[correlazione]], [[attinenza]]; [[soggezione]], [[subordinazione]], [[sottomissione]], [[inferiorità]], [[obbedienza]], [[servitù]], [[rispetto]], [[deferenza]]
+*''(da sostanze, farmaci)'' [[assuefazione]]
+*''(di una conseguenza, di un effetto)'' [[derivazione]], [[provenienza]]
+*[[-dipendenza]], [[tossicodipendenza]]
+*''essere alle dipendenze''
+*Enciclopedia [http
+M>dipendere</E
+M>dépendance</E
+M>la d</E
+M>dei figli dall’autorità dei genitori</E
+M>diretta</E
+M>indiretta</E
+M>essere alle d</E
+M>di una persona</E
+M>di una impresa</E
+M>di un ente</E
+M>avere alle proprie d</E
+M>di una proposizione da un’altra</E
+M>d. dell’area di un cerchio del suo raggio</E
+M>della temperatura dalla pressione</E
+M>fatti che sono in rapporto di reciproca d</E
+M>in d</E
+M>di ciò</E
+M>psichica</E
+M>fisica</E
+M>da medicinali</E
+M>da sostanze psicotrope</E
+M>dalla droga</E
+M>psichica</E
+M>la villa e le sue d</E
+M>ha venduto la fattoria con tutte le d</E
+M>alloggiare in una d</E
+M>dell’albergo</E

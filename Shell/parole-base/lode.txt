@@ -1,0 +1,105 @@
+lode.txt
+"degno di lode"
+"espressione di lode"
+"esprimente lode"
+"esprimente lode"
+"inno di lode"
+"lode"
+"lode"
+"pieno di lode"
+"pieno di lode"
+*[[encomio]], [[plauso]], [[consenso]], [[apprezzamento]]
+*[[critica]], [[rimprovero]], [[disapprovazione]] 
+*[[celebrazione]], [[magnificazione]], [[panegirico]]
+*[[detrazione]], [[diffamazione]], [[denigrazione]]
+* [[
+M>laus laudis</E
+M>schietta</E
+M>sincera</E
+M>meritata</E
+M>immeritata</E
+M>sobria</E
+M>piena</E
+M>alta</E
+M>altissima</E
+M>somma</E
+M>splendida</E
+M>giudizio di lode</E
+M>dire una parola</E
+M>parole di lode</E
+M>fare le l</E
+M>di qualcuno</E
+M>tesserne le l</E
+M>tutti lo ricordano con lode</E
+M>ne parlano con lode</E
+M>ricevere</E
+M>meritare lode</E
+M>essere degno di lode per qualche cosa</E
+M>riscuotere l</E
+M>unanimi</E
+M>fare una cosa con lode</E
+M>senza lode</E
+M>senza infamia e senza lode</E
+M>è un gesto che torna a sua l</E
+M>ha agito in modo che non gliene vien certo lode</E
+M>uomo parco</E
+M>avaro di lodi</E
+M>essere sensibile alle l</E
+M>lode</E
+M>laurearsi con lode</E
+M>10 e lode</E
+M>10 con lode</E
+M>hai fatto un lavoro perfetto: bravo! dieci e lode!</E
+M>dare</E
+M>rendere lode al merito</E
+M>tutti i giornali hanno parlato con lode di questo spettacolo</E
+M>l’iniziativa ha riscosso moltissime l</E
+M>da ogni parte</E
+M>un’organizzazione perfetta</E
+M>superiore a ogni lode</E
+M>dire</E
+M>scrivere</E
+M>intonare</E
+M>cantare</E
+M>celebrare le l</E
+M>di qualcuno</E
+M>tributare</E
+M>innalzare</E
+M>prodigare lodi a qualcuno</E
+M>eccessive</E
+M>false</E
+M>servili</E
+M>sperticate</E
+M>essere avido</E
+M>assetato di lodi</E
+M>essere indifferente alle lodi</E
+M>in lode</E
+M>sonetto in l</E
+M>della donna amata</E
+M>a tua</E
+M>sua</E
+M>vostra l</E
+M>bisogna dire a sua l</E
+M>che nessuno avrebbe saputo far meglio di lui</E
+M>sia l</E
+M>al vero</E
+M>sia detto a l</E
+M>del vero</E
+M>a onor del vero</E
+M>Dare lode a Dio</E
+M>alla Vergine</E
+M>ai santi</E
+M>sia l</E
+M>a Dio</E
+M>laus Deo</E
+M>dire</E
+M>cantare le l</E
+M>del Signore</E
+M>mattutine</E
+M>E quel che ’n altrui pena Tempo si spende</E
+M>In qualche bella lode</E
+M>In qualche onesto studio si converta</E
+M>messer Benedetto Varchi</E
+M>gli fece poi per memoria delle sue lodi questo sonetto</E
+M>venire in lode</E
+M>salire in lode</E

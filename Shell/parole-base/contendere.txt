@@ -1,0 +1,39 @@
+contendere.txt
+"contendere"
+"oggetto del contendere"
+*''(qualcosa a qualcuno)'' [[contestare]], [[negare]]
+*[[questionare]], [[altercare]]
+*[[disputare]], [[combattere]], [[misurarsi]], [[sfidarsi]] 
+*[[permettere]], [[concedere]]
+*[[mettersi d'accordo]], [[accordarsi]], [[rappacificarsi]]  
+*[[contendente]], [[contendersi]]
+*[[lottare]] 
+*italiano
+*latino
+M>contend</E
+M>con</E
+M>tend</E
+M>tendere</E
+M>avere</E
+M>contendono per cose da nulla</E
+M>non è il caso di c</E
+M>per così poco</E
+M>con qualcuno</E
+M>è impossibile c</E
+M>con lui</E
+M>chi poteva c</E
+M>in bellezza con Venere?</E
+M>il premio</E
+M>il posto</E
+M>a qualcuno</E
+M>nessuno mi può c</E
+M>questo diritto</E
+M>nuova legge</E
+M>il nome a’ morti Contende</E
+M>contendersi qualcosa</E
+M>contendersi la nomina</E
+M>l’impiego</E
+M>una carica</E
+M>le parti contendenti sono venute a un accordo</E
+M>separare due contendenti</E
+M>mettere pace fra i contendenti</E

@@ -1,0 +1,120 @@
+moneta.txt
+"batter moneta"
+"doppia imposizione; doppia aquila (moneta d'oro del valore di venti dollari)"
+"fare testa o croce (con una moneta)"
+"lanciare in aria una moneta"
+"moneta"
+"moneta"
+"moneta (a corso legale)"
+"moneta bancaria"
+"moneta d'oro"
+"moneta d'oro"
+"moneta di scambio"
+"moneta forte"
+"moneta forte"
+"moneta inglese"
+"moneta legale"
+"moneta metallica"
+"moneta scritturale"
+"moneta sonante"
+"moneta unica europea"
+"pareggiare; ripagare qcn. con la stessa moneta"
+#*''Un tempo le '''monete''' valevano esattamente il proprio peso, ma oggi il valore dipende solitamente dal materiale impiegato per coniarle.''
+#*''Le conchiglie sono 
+*[[banconota]]
+*[[denaro]], [[soldi]], [[contante]], [[spiccioli]], [[quattrini]],  
+*[[monetario]]
+M>mon</E
+M>monere</E
+M>una m</E
+M>d’oro</E
+M>d’argento</E
+M>bianca</E
+M>di rame</E
+M>di nichel</E
+M>la coniazione delle m</E
+M>un bel gruzzolo di monete d’oro</E
+M>raccolta</E
+M>collezione di monete</E
+M>gettare la m</E
+M>di peso</E
+M>a pieno peso</E
+M>calante</E
+M>tosa</E
+M>tosata</E
+M>tosa</E
+M>battere</E
+M>coniare moneta</E
+M>buona m</E
+M>perfetta</E
+M>schietta</E
+M>forte</E
+M>imperfetta</E
+M>debole</E
+M>di necessità</E
+M>merce</E
+M>metallica</E
+M>cartacea</E
+M>elettronica</E
+M>la circolazione della m</E
+M>cambio della m</E
+M>buona</E
+M>falsa</E
+M>legale</E
+M>corrente</E
+M>fuori corso</E
+M>forte</E
+M>debole</E
+M>divisionale</E
+M>divisionaria</E
+M>spicciola</E
+M>calda</E
+M>chiave</E
+M>di conto</E
+M>ideale</E
+M>immaginaria</E
+M>manovrata</E
+M>di convenzione</E
+M>di pagamento</E
+M>deposito</E
+M>deposit</E
+M>currency</E
+M>esterna</E
+M>interna</E
+M>m. unica</E
+M>misura</E
+M>quasi m</E
+M>La m</E
+M>cattiva scaccia la buona</E
+M>moneta spicciola</E
+M>spiccioli</E
+M>mi dispiace</E
+M>ma non ho moneta</E
+M>mi può cambiare in moneta questa banconota da dieci euro?</E
+M>essere avido di moneta</E
+M>si può acquistare con poca m</E
+M>non per sapere studiano ma per acquistare moneta o dignitade</E
+M>per tema di morire con moneta la guardia corrompono</E
+M>Del buon mercante inteso alla m</E
+M>il tempo è m</E
+M>il tempo è denaro</E
+M>è capace di litigare per la vile m</E
+M>lavorare solo per la vile m</E
+M>pagare in m</E
+M>sonante</E
+M>corsa per cavalli di tre anni con moneta per duemila euro</E
+M>prendere</E
+M>accettare per buona m</E
+M>per m</E
+M>corrente</E
+M>per m</E
+M>spicciola</E
+M>pagare di buona m</E
+M>pagare di pari m</E
+M>della stessa m</E
+M>del papa</E
+M>degli scudi</E
+M>erba m</E
+M>erba monetaria</E
+M>lunaria</E
+M>una monetina da 10 centesimi</E

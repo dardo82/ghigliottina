@@ -1,0 +1,55 @@
+cucire.txt
+"ago per cucire"
+"cucire"
+"cucire"
+"cucire"
+"cucire la bocca a"
+"cucire vestiti"
+"cucire, il cucito"
+"filo da cucire"
+"macchina da cucire"
+*confezionare abiti
+*[[rammendare]], [[rattoppare]], [[ricamare]], [[imbastire]], [[impunturare]], [[impuntire]], [[trapuntare]], [[attaccare]], [[appuntare]]
+*(pensieri,frasi eccetera) [[connettere]], [[congiungere]],
+*[[scucire]] 
+*[[cucitore]],[[cucitrice]], [[cucitura]]
+M>*cosire</E
+M>*cos</E
+M>consu</E
+M>con</E
+M>io cùcio</E
+M>tu cuci</E
+M>egli cuce</E
+M>noi cuciamo</E
+M>voi cucite</E
+M>essi cùciono</E
+M>due teli</E
+M>due nastri</E
+M>il collo d’una camicia</E
+M>i fascicoli di un registro</E
+M>una ferita</E
+M>un vestitino per la bambina</E
+M>l’abito da sposa</E
+M>il corredo</E
+M>un paio di scarpe</E
+M>imparare a c</E
+M>essere brava a c</E
+M>è sempre lì a c</E
+M>quella poverina</E
+M>Macchina per c</E
+M>da c</E
+M>per cucitura a zig</E
+M>zag</E
+M>automatiche</E
+M>superautomatiche</E
+M>gli allegati di una pratica</E
+M>a tutti un fil di ferro i cigli fóra E cusce</E
+M>cuce</E
+M>comporre un dramma cucendo insieme pezzi di varî autori</E
+M>non è capace di c</E
+M>quattro idee</E
+M>inganni</E
+M>la bocca a qualcuno</E
+M>cucirsi la bocca</E
+M>le labbra</E
+M>cuci e scuci</E

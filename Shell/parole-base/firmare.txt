@@ -1,0 +1,39 @@
+firmare.txt
+"firmare"
+"firmare"
+"firmare l'entrata"
+"firmare l'uscita"
+"firmare per"
+"firmare sulla linea tratteggiata"
+"firmare sulla linea tratteggiata"
+"firmare un contratto"
+"firmare una petizione"
+#*''firmare una cartolina''
+*[[firma]], [[firmatario]], [[firmato]]
+M>firmare</E
+M>una lettera</E
+M>un decreto</E
+M>un verbale</E
+M>un assegno</E
+M>un disegno</E
+M>un dipinto</E
+M>una scultura</E
+M>il presidente della Repubblica ha firmato il decreto di grazia</E
+M>le due potenze hanno firmato il trattato di pace</E
+M>con il nome e cognome per esteso</E
+M>con una sigla</E
+M>con le sole iniziali</E
+M>con uno pseudonimo</E
+M>con un nome falso</E
+M>firmarsi</E
+M>scrittore che si firma con uno pseudonimo</E
+M>attore che si firma col nome d’arte</E
+M>rifiutando di rivelare i nomi dei complici firmò la propria condanna a morte</E
+M>firmarsi</E
+M>Con l’espressione della mia deferenza</E
+M>mi firmo Vostro devotissimo</E
+M>sottoscrivere</E
+M>Fin qui ci sono</E
+M>e mi ci firmo anch’io</E
+M>firmato: il ministro degli Esteri</E
+M>firmato: l’amministratore delegato</E

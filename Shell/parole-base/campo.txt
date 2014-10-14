@@ -1,0 +1,348 @@
+campo.txt
+"a tutto campo"
+"aiutante di campo"
+"angolo di campo"
+"area esterna al campo"
+"artiglieria da campo"
+"avere nel campo visivo e seguire in modo automatico un obiettivo"
+"campo"
+"campo"
+"campo"
+"campo"
+"campo"
+"campo"
+"campo"
+"campo"
+"campo"
+"campo"
+"campo"
+"campo"
+"campo algebricamente chiuso"
+"campo applicativo"
+"campo base"
+"campo comune di sepoltura"
+"campo d'atletica"
+"campo d'aviazione"
+"campo d'inchiesta"
+"campo da badminton"
+"campo da baseball"
+"campo da baseball"
+"campo da bocce"
+"campo da gioco"
+"campo da gioco"
+"campo da gioco"
+"campo da gioco"
+"campo da golf"
+"campo da golf senza buche usato per esercitarsi"
+"campo da golf; \"
+"campo da pallacanestro"
+"campo da tennis"
+"campo da tennis"
+"campo da tennis in terra battuta"
+"campo da tennis sull'erba"
+"campo da\/di calcio"
+"campo del raccolto"
+"campo di addestramento dei marines"
+"campo di annientamento"
+"campo di autorità"
+"campo di battaglia"
+"campo di battaglia"
+"campo di battaglia"
+"campo di bocce"
+"campo di calcio"
+"campo di calcio, campo da calcio"
+"campo di concentramento"
+"campo di concentramento"
+"campo di cricket"
+"campo di detenzione"
+"campo di eliminazione"
+"campo di esercitazione al tiro"
+"campo di estensione"
+"campo di fieno"
+"campo di forza"
+"campo di golf"
+"campo di grano"
+"campo di grano"
+"field planted with corn Also: campo di granturco"
+"campo di lavori forzati"
+"campo di lavoro"
+"campo di lavoro (per detenuti)"
+"campo di lavoro forzato"
+"campo di prigionia"
+"campo di prigionieri di guerra"
+"campo di raccolta profughi"
+"campo di riso"
+"campo di riso"
+"campo di sperimentazione, terreno di prova"
+"campo di sterminio"
+"campo di studio"
+"campo di vacanze; villaggio turistico"
+"campo elettrico"
+"campo elettrico"
+"campo elettromagnetico"
+"campo elettrostatico"
+"campo esterno"
+"campo estivo"
+"campo estivo (giornaliero)"
+"campo fiorito"
+"campo giochi"
+"campo giochi annesso alla scuola"
+"campo gravitazionale"
+"campo in argilla"
+"campo incrociato"
+"campo libero"
+"campo lungo"
+"campo magnetico"
+"campo magnetico"
+"campo militare"
+"campo militare"
+"campo minato"
+"campo neutro"
+"campo numerico"
+"campo profughi"
+#* ''l'insieme dei numeri reali è un '''campo'''''
+*[[coltivazione]], [[podere]], [[terreno]], [[fondo]], [[orto]], [[agro]], [[campagna]]; [[distesa]], [[pianura]], [[piana]]
+*[[stadio]], terreno di gioco
+*''(di dipinto, scudo)'' [[sfondo]], [[superficie]]
+*[[controcampo]]
+*''per fare un buon 
+*italiano
+*portoghese
+*spagnolo
+M>campus</E
+M>un c</E
+M>di grano</E
+M>coltivato a grano</E
+M>un c</E
+M>di biada</E
+M>di patate</E
+M>sperimentale</E
+M>i prodotti dei c</E
+M>arare</E
+M>lavorare il c</E
+M>arati</E
+M>seminati</E
+M>fiori di c</E
+M>insalata di campo</E
+M>campagna</E
+M>la vita dei c</E
+M>passare attraverso i c</E
+M>prendere per i campi</E
+M>di manovre</E
+M>di tiro</E
+M>di Marte</E
+M>Marzio</E
+M>fare il c</E
+M>cannocchiale</E
+M>telegrafo da c</E
+M>mettere</E
+M>porre</E
+M>piantare il c</E
+M>essere</E
+M>stare a c</E
+M>andare a c</E
+M>muovere</E
+M>levare il c</E
+M>muover c</E
+M>I0 vidi già cavalier muover c</E
+M>tenere il c</E
+M>base</E
+M>alti</E
+M>di altitudine</E
+M>d’istruzione</E
+M>minato</E
+M>reale</E
+M>volante</E
+M>trincerato</E
+M>fortificato</E
+M>di battaglia</E
+M>essere</E
+M>sembrare un c</E
+M>di battaglia</E
+M>combattere in c</E
+M>aperto</E
+M>essere</E
+M>trovarsi</E
+M>militare</E
+M>combattere in c</E
+M>avverso</E
+M>morire sul c</E
+M>sul c</E
+M>dell’onore</E
+M>mettere</E
+M>portare in c</E
+M>misero in c</E
+M>quasi diecimila fanti</E
+M>ha messo in c</E
+M>cento strane ragioni</E
+M>ruminò pretesti da metter in c</E
+M>uscire a c</E
+M>in c</E
+M>ospedale da c</E
+M>chiuso</E
+M>franco</E
+M>libero</E
+M>sicuro</E
+M>essere in c</E
+M>venire in c</E
+M>venire in c</E
+M>con qualcuno</E
+M>prendere c</E
+M>prendere del c</E
+M>guadagnar c</E
+M>tenere il c</E
+M>perdere il c</E
+M>dare il c</E
+M>cedere il c</E
+M>mettere il c</E
+M>a rumore</E
+M>campo</E
+M>datemi c</E
+M>di pensarci su</E
+M>avere c</E
+M>di farsi conoscere</E
+M>ti do c</E
+M>libero</E
+M>venire in c</E
+M>scendere in c</E
+M>dare</E
+M>cedere il c</E
+M>lasciare il c</E
+M>libero agli avversarî</E
+M>prendere c</E
+M>l’epidemia</E
+M>la corruzione</E
+M>l’immoralità prende c</E
+M>sempre più</E
+M>tenere c</E
+M>a qualcuno</E
+M>tenere il c</E
+M>Credette Cimabue ne la pittura Tener lo c</E
+M>e ora ha Giotto il grido</E
+M>perdere c</E
+M>è un sistema che va perdendo campo</E
+M>sportivo</E
+M>campo</E
+M>di tennis</E
+M>di golf</E
+M>di corse</E
+M>di fortuna</E
+M>scuola</E
+M>di aviazione</E
+M>piazza del Campo</E
+M>piazza Il Campo</E
+M>Il Campo</E
+M>Campo de’ Fiori</E
+M>di marzo</E
+M>di maggio</E
+M>santo</E
+M>camposanto</E
+M>petrolifero</E
+M>aurifero</E
+M>diamantifero</E
+M>di lava</E
+M>c. di neve</E
+M>carreggiato</E
+M>solcato</E
+M>di mine</E
+M>di osservazione</E
+M>di concentramento</E
+M>campi</E
+M>di sterminio</E
+M>di eliminazione</E
+M>di annientamento</E
+M>Vernichtungslager</E
+M>c. profughi</E
+M>c. sfollati</E
+M>di lavoro</E
+M>campi di lavoro</E
+M>c. scuola</E
+M>campo scuola di atletica</E
+M>campo scuola di protezione civile; campo scuola per studenti</E
+M>c. estivo</E
+M>contumaciale</E
+M>solare</E
+M>i c</E
+M>del cielo</E
+M>i c</E
+M>dell’oceano</E
+M>la luna</E
+M>in un canto</E
+M>pallida e senza raggio</E
+M>pure spiccava nel c</E
+M>immenso d’un bigio ceruleo</E
+M>il sole</E
+M>Di lucidi torrenti Inonderà con voi gli eterei c</E
+M>serena Dominatrice dell’etereo c</E
+M>Nel dritto mezzo del c</E
+M>maligno Vaneggia un pozzo assai largo e profondo</E
+M>semplice</E
+M>composto</E
+M>croce bianca in c</E
+M>rosso</E
+M>Era la lor vittoriosa insegna In c</E
+M>verde un candido ermellino</E
+M>di irradiazione</E
+M>operatorio</E
+M>chirurgico</E
+M>sterile</E
+M>morfogenetico</E
+M>scalare</E
+M>spinoriale</E
+M>vettoriale</E
+M>tensoriale</E
+M>di forza</E
+M>elettrico</E
+M>gravitazionale</E
+M>magnetico</E
+M>stazionarî</E
+M>statici</E
+M>variabili</E
+M>irrotazionali</E
+M>conservativo</E
+M>solenoidali</E
+M>Teoria dei c</E
+M>della visione</E
+M>visivo</E
+M>ottico</E
+M>campo oggetti</E
+M>inquadratura</E
+M>fuori c.</E
+M>voce fuori c.</E
+M>lunghissimo</E
+M>totale</E
+M>lungo</E
+M>medio</E
+M>intervallo</E
+M>di uno strumento di misurazione</E
+M>di misura</E
+M>del visibile</E
+M>di visibilità</E
+M>dell’infrarosso</E
+M>dei raggi X</E
+M>uditivo</E
+M>di udibilità</E
+M>campo</E
+M>campo</E
+M>corpo commutativo</E
+M>razionale</E
+M>reale</E
+M>complesso</E
+M>nel c</E
+M>della storia</E
+M>della letteratura</E
+M>dell’arte</E
+M>nel c</E
+M>politico</E
+M>nel c</E
+M>scientifico</E
+M>ciò che tu mi chiedi esce dal c</E
+M>della mia competenza</E
+M>associativo</E
+M>concettuale</E
+M>lessicale</E
+M>semantico</E
+M>d’accentazione</E
+M>di realizzazione</E
+M>della coscienza</E
+M>campetto</E

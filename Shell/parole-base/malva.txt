@@ -1,0 +1,29 @@
+malva.txt
+"color malva"
+"malva"
+*Giuseppe Pittano, ''Il mio primo dizionario di italiano illustrato'', edizione 1996, p.306, DeAgostini
+M>malva</E
+M>cretese</E
+M>Malva cretica</E
+M>scabra</E
+M>Malva nicaeensis</E
+M>domestica</E
+M>Malva neglecta</E
+M>selvatica</E
+M>malva</E
+M>Malva sylvestris</E
+M>infuso</E
+M>decotto</E
+M>impiastro di m</E
+M>foglie</E
+M>fiori di malva</E
+M>Color m</E
+M>malva</E
+M>canapina</E
+M>canapa selvatica</E
+M>Althaea cannabina</E
+M>regina</E
+M>Lavatera trimestris</E
+M>rosa</E
+M>malvarosa</E
+M>malvone</E

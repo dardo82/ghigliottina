@@ -1,0 +1,21 @@
+disinteresse.txt
+"disinteresse"
+"indifferenza verso, disinteresse verso, disinteresse per"
+*[[indifferenza]], [[distacco]], [[freddezza]], [[noncuranza]], [[menefreghismo]], [[apatia]], [[cinismo]]
+*[[imparzialità]], [[obiettività]], [[oggettività]], [[spassionatezza]], [[equità]]
+*[[generosità]], [[altruismo]]
+*[[partecipazione]], [[preoccupazione]], [[premura]], [[cura]]
+*[[parzialità]], [[tendenziosità]]
+*[[egoismo]], [[calcolo]]
+*[[interesse]]
+M>dis</E
+M>interesse</E
+M>agire con d</E
+M>ha sempre offerto il suo aiuto con vero d</E
+M>al suo d</E
+M>ci credo poco!</E
+M>mostrare d</E
+M>per la casa</E
+M>per il lavoro</E
+M>per i divertimenti</E
+M>disinteressamento</E

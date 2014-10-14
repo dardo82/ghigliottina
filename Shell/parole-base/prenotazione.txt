@@ -1,0 +1,23 @@
+prenotazione.txt
+"avere una prenotazione"
+"prenotazione"
+"prenotazione"
+"documento che conferma la prenotazione"
+"prenotazione ad esaurimento"
+"prenotazione al ristorante"
+"prenotazione di gruppo"
+"prenotazione obbligatoria"
+"prenotazione via internet"
+#* ''ha la prenotazione?'', ''è gradita la prenotazione''
+*[[underbooking]]
+M>praenotatio</E
+M>onis</E
+M>fare</E
+M>disdire una p</E
+M>treni con p</E
+M>obbligatoria</E
+M>non si accettano p</E
+M>per telefono</E
+M>esibire la prenotazione</E
+M>a debito</E
+M>campione</E

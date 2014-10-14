@@ -1,0 +1,42 @@
+previsione.txt
+"fare il bilancio di previsione"
+"fare una previsione"
+"in previsione di"
+"in vista di, in previsione di"
+"previsione"
+"previsione delle maree"
+"previsione meteorologica numerica"
+*[[previsionale]]
+M>praevisio</E
+M>onis</E
+M>praevisus</E
+M>praevidere</E
+M>una p</E
+M>giusta</E
+M>sbagliata</E
+M>fare una p</E
+M>azzardare delle p</E
+M>scopo delle teorie scientifiche è consentire p</E
+M>controllabili sperimentalmente</E
+M>del tempo</E
+M>hai sentito le ultime p</E
+M>del tempo?</E
+M>economica</E
+M>finanziaria</E
+M>bilancio di p</E
+M>preventivo</E
+M>in p</E
+M>nella p</E
+M>che</E
+M>si presero le misure necessarie in p</E
+M>di un attacco nemico</E
+M>nella p</E
+M>che nevichi sarà meglio rifornirci di provviste</E
+M>tutto si è svolto secondo le p</E
+M>le p</E
+M>si sono in gran parte avverate</E
+M>sono state smentite dai fatti</E
+M>non vorrei fare p</E
+M>troppo pessimistiche!</E
+M>aveva per se stessa solo p. nere</E
+M> sfiduciate: per me continuava a credere in un avvenire felice</E

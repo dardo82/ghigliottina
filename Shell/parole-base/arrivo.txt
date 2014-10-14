@@ -1,0 +1,41 @@
+arrivo.txt
+"arrivo"
+"il momento dell'arrivo"
+"arrivo"
+"il luogo dell'arrivo"
+"arrivo"
+"arrivo alla pari"
+"arrivo in ritardo"
+"corrispondenza in arrivo"
+"dirittura d'arrivo"
+"essere in arrivo"
+"in arrivo"
+"lingua d'arrivo"
+"nuovo arrivo"
+"orario di arrivo"
+"punto di arrivo"
+M>l’a</E
+M>del treno</E
+M> di una persona cara</E
+M>di un pacco</E
+M>l’a. delle rondini in primavera</E
+M>chiedere</E
+M>comunicare</E
+M>anticipare</E
+M>spostare l’ora d’a</E
+M>lato arrivi</E
+M>ti attenderò all’arrivo</E
+M>essere in a</E
+M>sono in a</E
+M>nuovi modelli</E
+M>treno in a</E
+M>sul terzo binario</E
+M>avere in a</E
+M>mostrare</E
+M>esporre gli ultimi arrivi</E
+M>linea d’a</E
+M>essere il primo all’a</E
+M>ordine d’arrivo</E
+M>con distacco</E
+M>in gruppo</E
+M>in volata</E

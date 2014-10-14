@@ -1,0 +1,336 @@
+morire.txt
+"annoiato da morire"
+"avere voglia di fare qcs, morire dalla voglia di fare qcs"
+"avere voglia di qcs, morire dalla voglia di qcs"
+"da far morire dal ridere, terribilmente buffo"
+"da morire"
+"da morire"
+"duro a morire"
+"duro a morire"
+"far morire dalle risate"
+"far morire di fame"
+"fare morire di fame qualcuno"
+"lasciarsi morire"
+"morire"
+"morire"
+"morire"
+"morire assiderato"
+"morire combattendo"
+"morire come le mosche"
+"morire dal ridere"
+"morire dalla voglia"
+"morire dalla voglia di"
+"morire dalla voglia di"
+"morire di"
+"morire di crepacuore"
+"morire per il dolore spirituale"
+"morire di fame"
+"morire di fame very common"
+"morire di fame"
+"morire di morte naturale"
+"morire di paura"
+"morire di sete"
+"morire di sonno"
+"morire in gola"
+"morire per la patria"
+"morire prematuramente"
+"morire prematuramente"
+"morire prima"
+"morire ridendo"
+"morire suicida"
+"morire sul colpo"
+"morire uno dopo l'altro"
+"morire uno dopo l'altro"
+"morire velocemente"
+"morire, smettere di funzionare"
+"morire; svanire"
+"morire; tirare le cuoia"
+"noioso da morire"
+"partire è un po' morire"
+"piacere da morire"
+"possa morire se"
+"sono annoiato da morire"
+"spirare, morire"
+"vivere o morire"
+#*''Ieri '''è morto''' il mio amico Giovanni.''
+#*'''''Sto morendo''' dal freddo''
+#*''La speranza è l'ultima a '''morire'''''
+*[[trapassare]], [[decedere]], [[perire]], [[crepare]], [[defungere]], [[spirare]], [[finire]]
+*[[nascere]], [[vivere]]
+*[[morituro]]
+*''Chi muore esce d'affanni, ma tutti si vuol viver cent'anni.''
+*[[morendo]]
+M>muòio</E
+M>muòri</E
+M>muòre</E
+M>moriamo</E
+M>morite</E
+M>muòiono</E
+M>mòio</E
+M>mòri</E
+M>mòre</E
+M>mòiono</E
+M>mòro</E
+M>mòrono</E
+M>muòia</E
+M>moriamo</E
+M>moriate</E
+M>muòiano</E
+M>mòia</E
+M>mòiano</E
+M>mòra</E
+M>mòrano</E
+M>morirò</E
+M>morrò</E
+M>morirèi</E
+M>morrèi</E
+M>mòrto</E
+M>essere</E
+M>tutti dobbiamo m</E
+M>col freddo</E
+M>le mosche muoiono</E
+M>il gelo ha fatto m</E
+M>quasi tutti i fiori</E
+M>essere vicino</E
+M>prossimo</E
+M>presso a m</E
+M>essere</E
+M>star per m</E
+M>non vuole m</E
+M>quello non muore mai</E
+M>l’erba cattiva non muore mai</E
+M> m. è solo cambiare numero di telefono</E
+M>chi non muore si rivede</E
+M>chi muore giace</E
+M>e chi vive si dà pace</E
+M>si sa dove si nasce</E
+M>non si sa dove si muore</E
+M>si sa come si nasce</E
+M>non si sa come si muore</E
+M>morto un papa</E
+M>se ne fa un altro</E
+M>giovane</E
+M>vecchio</E
+M>è morto a vent’anni</E
+M>a settant’anni</E
+M>immaturamente</E
+M>prematuramente</E
+M>è morto alla sua ora</E
+M>nel suo tempo</E
+M>Muor giovane colui ch’al cielo è caro</E
+M>povero</E
+M>in povertà</E
+M>in mezzo alla strada</E
+M>nel proprio letto</E
+M>all’ospedale</E
+M>in carcere</E
+M>in esilio</E
+M>di che male è morto</E
+M>di malattia</E
+M>di vecchiaia</E
+M>di morte naturale</E
+M>di morte improvvisa</E
+M>di morte violenta</E
+M>di parto</E
+M>di cancro</E
+M>di polmonite</E
+M>di tumore</E
+M>per un’emorragia interna</E
+M>di inedia</E
+M>di fame</E
+M>di stenti</E
+M>di crepacuore</E
+M>sotto i ferri del chirurgo</E
+M>di morte lenta</E
+M>tisico</E
+M>pazzo</E
+M>affogato</E
+M>fucilato</E
+M>impiccato</E
+M>Gesù Cristo morì sulla croce</E
+M>crocifisso</E
+M>per le ferite riportate</E
+M>per mano altrui</E
+M>di ferro</E
+M>di spada</E
+M>d’arma da fuoco</E
+M>in seguito a una caduta</E
+M>a un incidente stradale</E
+M>ammazzato</E
+M>va’ a morì ammazzato</E
+M>non si muore per così poco</E
+M>non si sa di che morte si muore</E
+M>non sappiamo ancora di che morte dobbiamo m</E
+M>voglio sapere di che morte devo m</E
+M>sul campo di battaglia</E
+M>lottando per un nobile ideale</E
+M>per la patria</E
+M>Chi per la patria muor Vissuto è assai</E
+M>Chi per la gloria muor Vissuto è assai</E
+M>Donna Caritea</E
+M>morì senza riprendere conoscenza</E
+M>è morto senza accorgersene</E
+M>serenamente</E
+M>come un uccellino</E
+M>in pace con gli altri e con sé stesso</E
+M>da valoroso</E
+M>da eroe</E
+M>da vile</E
+M>cristianamente</E
+M>santamente</E
+M>in Dio</E
+M>in Cristo</E
+M>nel bacio del Signore</E
+M>morir bene</E
+M>in peccato</E
+M>impenitente</E
+M>nell’ira di Dio</E
+M>morir male</E
+M>Quelli che muoion ne l’ira di Dio Tutti convegnon qui d’ogne paese</E
+M>morir di mala morte</E
+M>come un cane</E
+M>una bella morte</E
+M>una morte gloriosa</E
+M>avventerassi in mezzo De’ nimici a morir morte onorata</E
+M>la morte del giusto</E
+M>bisogna saper m</E
+M>per la propria causa</E
+M>o vincere o morire!</E
+M>morirebbe piuttosto che abbassarsi a chiedere qualcosa</E
+M>non ci aiuterebbe neanche se ci vedesse m</E
+M>a costo di m</E
+M>vorrei m</E
+M>se non è vero!</E
+M>possa io m</E
+M>se dico una bugia!</E
+M>Lasciar m</E
+M>bisogna fare qualcosa per il ferito</E
+M>non possiamo lasciarlo m</E
+M>qui</E
+M>lo rinchiusero nella torre e lo lasciarono m</E
+M>di fame</E
+M>lasciarsi m</E
+M>si lasciò m</E
+M>nella solitudine</E
+M>decise di lasciarsi m</E
+M>di fame</E
+M>far m</E
+M>lo fecero m</E
+M>fra i più atroci tormenti</E
+M>è un tiranno che ha fatto m</E
+M>tanta gente</E
+M>lo imbavagliarono troppo stretto facendolo m</E
+M>soffocato</E
+M>una terribile pestilenza che fece m</E
+M>gran parte della popolazione</E
+M>furono i patimenti a farlo m</E
+M>quel figlio lo farà m</E
+M>di crepacuore</E
+M>non è il m</E
+M>che mi spaventa</E
+M>un bel morir tutta la vita onora</E
+M>civilmente</E
+M>al mondo</E
+M>esser morto al mondo</E
+M>non morirà mai nella nostra memoria</E
+M>ormai per me è morto</E
+M>è morto nel mio cuore</E
+M>i dolori erano così acuti che mi sentivo m</E
+M>l’angoscia era tale che credevo di m</E
+M>di fame</E
+M>di freddo</E
+M>di stanchezza</E
+M>avere una fame</E
+M>una sete</E
+M>un freddo da m</E
+M>essere stanco da m</E
+M>se succedesse a me una cosa simile</E
+M>morirei di vergogna</E
+M>muoio dal sonno</E
+M>morivo di</E
+M>dalla</E
+M>noia</E
+M>smettila con codesta nenia</E
+M>mi fai m</E
+M>c’era da morir dal ridere</E
+M>dalle risa</E
+M>lo fa m</E
+M>dalla voglia ma non lo accontenta</E
+M>di piacere</E
+M>di felicità</E
+M>si vede che muore di rabbia</E
+M>d’invidia</E
+M>muore per quella ragazza</E
+M>aspettare e non venire</E
+M>è una cosa da m</E
+M>partire è un po’ morire</E
+M>morire</E
+M>esser morto</E
+M>più</E
+M>di così si muore</E
+M>più tirchio</E
+M>più ingenuo</E
+M>più furbo di così si muore</E
+M>Muoiono le città</E
+M>muoiono i regni</E
+M>lingue morte</E
+M>l’anno</E
+M>il secolo</E
+M>l’inverno è vicino a m</E
+M>Passero solitario</E
+M>alla campagna Cantando vai finché non muore il giorno</E
+M>l’impresa morì prima di avere inizio</E
+M>l’insurrezione morì sul nascere</E
+M>Muor Giove</E
+M>e l’inno del poeta resta</E
+M>Dante</E
+M>Rime Nuove</E
+M>la poesia non muore mai</E
+M>E scioglie all’urna un cantico Che forse non morrà</E
+M>il sentiero muore nel bosco</E
+M>il ruscello muore nel fiume</E
+M>è un canale che muore tra la sabbia</E
+M>questo treno muore a Chiusi</E
+M>la fiamma moriva nel caminetto</E
+M>guardò le pareti ove moriva la melanconica luminosità del crepuscolo</E
+M>Un canto che s’udia per li sentieri Lontanando morire a poco a poco</E
+M>la parola gli morì sulle labbra</E
+M>l’imprecazione gli morì in gola</E
+M>il sorriso gli morì sulle labbra</E
+M>lasciar m</E
+M>il discorso</E
+M>un color bruno Che non è nero ancora e ’l bianco more</E
+M>Ogne viltà convien che qui sia morta</E
+M>l’antiquo valore Ne l’italici cor’ non è ancor morto</E
+M>è morta ormai in me la fiducia</E
+M>non è ancora morta ogni speranza</E
+M>l’affetto</E
+M>se non è alimentato</E
+M>muore presto</E
+M>ella già sente Morirsi</E
+M>e ’l piè le manca egro e languente</E
+M>se ode squilla di lontano Che paia il giorno pianger che si more</E
+M>io mi muoio dal desiderio di rivederla</E
+M>morirsene</E
+M>se ne morì di dolore</E
+M>quando sentì ch’era giunto il momento</E
+M>si mise a letto e se ne morì sereno com’era sempre vissuto</E
+M>fu nella battaglia morto e il suo esercito sconfitto e disperso</E
+M>l’uomo morto per lui</E
+M>e l’uomo morto da lui</E
+M>Tu m’hai morto il fratello a tradimento; Tu m’hai morto il fratello</E
+M>o traditor</E
+M>se i tuoi vizj</E
+M>e gli anni</E
+M>e sorte rea Ti han morto il senno ed il valor di Roma</E
+M>moriènte</E
+M>giaceva morente nel suo letto</E
+M>ha il padre morente</E
+M>lo trovò morente</E
+M>le ultime volontà del morente</E
+M>raccogliere</E
+M>soccorrere</E
+M>assistere i feriti e i morenti</E
+M>istituzione morente</E
+M>suono</E
+M>canto morente in lontananza</E

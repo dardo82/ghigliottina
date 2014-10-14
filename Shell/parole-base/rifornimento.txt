@@ -1,0 +1,45 @@
+rifornimento.txt
+"fare benzina, fare rifornimento"
+"rifornimento"
+"rifornimento"
+"rifornimento di carburante"
+"rifornimento eccessivo"
+"rifornimento standard"
+#* via a fare '''rifornimento'''
+*[[approvvigionamento]]
+M>provvedere al r</E
+M>di una città</E
+M>ostacolare il r</E
+M>delle truppe</E
+M>di viveri</E
+M>di munizioni</E
+M>servizî di r</E
+M>la nave stava facendo r</E
+M>di acqua</E
+M>di combustibile</E
+M>di navi in navigazione</E
+M>di aerei in volo</E
+M>di astronavi</E
+M>di capsule spaziali in orbita</E
+M>mi sono fermato a un distributore per fare r</E
+M>di carburante</E
+M>di cibi e bevande ai corridori</E
+M>fare r</E
+M>di vino</E
+M>di sigarette</E
+M>di soldi</E
+M>fare r</E
+M>posto di r</E
+M>stazione di r</E
+M>mi fermerò al primo rifornimento</E
+M>in volo</E
+M>di un pneumotorace</E
+M>i r</E
+M>si assottigliavano di giorno in giorno</E
+M>il nemico si impadronì di tutti i r</E
+M>di viveri e munizioni</E
+M>arrivano i r</E
+M>trasporto dei r</E
+M>per via aerea</E
+M>ai r</E
+M>provvedo io</E

@@ -1,0 +1,8 @@
+carretto.txt
+"carrello, carretto spinto a mano"
+"carretto"
+"carriola; carretto"
+"vendita con il carretto"
+M>carro</E
+M>a vino</E
+M>siciliano</E

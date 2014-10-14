@@ -1,0 +1,33 @@
+fieno.txt
+"campo di fieno"
+"carro da fieno"
+"erba da fieno"
+"fieno"
+"fieno greco"
+"raffreddore da fieno"
+"strada del fieno"
+*[[fienagione]]
+* [[foraggio]]
+*Enciclopedia [http
+M>faenum</E
+M>num</E
+M>fare il f</E
+M>maggengo</E
+M>agostano</E
+M>terzuolo</E
+M>quartirolo</E
+M>bruno</E
+M>bianco</E
+M>erba bambagiona</E
+M>canino</E
+M>Holcus mollis</E
+M>Fieno greco</E
+M>fien greco</E
+M>fiengreco</E
+M>Trigonella foenum graecum</E
+M>santo</E
+M>lupinella</E
+M>d’Ungheria</E
+M>erba medica</E
+M>Febbre da fieno</E
+M>raffreddore da fieno</E

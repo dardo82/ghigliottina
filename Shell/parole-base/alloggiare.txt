@@ -1,0 +1,19 @@
+alloggiare.txt
+"alloggiare"
+"alloggiare"
+"alloggiare"
+"alloggiare a"
+"alloggiare in, ospitare in"
+#* ''alloggia in un [[albergo]] al centro''
+*[[sistemare]]
+M>io allòggio</E
+M>i turisti</E
+M>lo alloggiai per due mesi</E
+M>nell’animo cattive intenzioni</E
+M>avere</E
+M>ho alloggiato due mesi all’albergo Miramare</E
+M>alloggiò presso il fratello</E
+M>alloggiare</E
+M>essere alloggiato</E
+M>chi tardi arriva male alloggia</E
+M>ormai è tempo che noi alloggiamo questo nostro esercito</E

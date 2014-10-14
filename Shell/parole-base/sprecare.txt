@@ -1,0 +1,43 @@
+sprecare.txt
+"sprecare"
+"sprecare tempo"
+"sprecare; gettare al vento"
+#*'''''spreco''' d'[[acqua]], d'[[elettricità]]''
+* [[consumare]]
+*[[sprecamento]], [[sprecarsi]]
+M>*exprecari</E
+M>ex-</E
+M>precari</E
+M>deprecari</E
+M>imprecari</E
+M>io sprèco</E
+M>tu sprèchi</E
+M>spreca il suo tempo in frivoli divertimenti</E
+M>s. il denaro</E
+M>s. i soldi in acquisti inutili</E
+M>s. le proprie energie</E
+M>le proprie forze</E
+M>s. l&#8217;ingegno</E
+M>hai sprecato un&#8217;occasione preziosa</E
+M>non sprecate il pane!</E
+M>è un peccato s. tutta quella grazia di Dio</E
+M>spegni la luce</E
+M> non sprechiamo la corrente</E
+M>s. il fiato</E
+M>le parole</E
+M>non s. il fiato con lui</E
+M> tanto non si convince</E
+M>è inutile s. il fiato a spiegargli le cose</E
+M>anche se gli scrivi non ti risponde</E
+M> sprechi l&#8217;inchiostro e basta</E
+M>s. una palla</E
+M>un pallone</E
+M>si spreca in lavori di poco conto</E
+M>credi che vorrà sprecarsi a fare questa telefonata in mio favore?</E
+M>si è sprecato a regalarti cinque euro!</E
+M>non si è sprecato</E
+M>non s&#8217;è certo sprecato</E
+M>denaro</E
+M>ingegno</E
+M>tempo</E
+M>fiato sprecato.</E

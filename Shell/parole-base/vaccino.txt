@@ -1,0 +1,13 @@
+vaccino.txt
+"vaccino"
+"vaccino"
+"vaccino anti antrace"
+"vaccino antipolio"
+"vaccino antirabbico"
+"vaccino BCG"
+"vaccino del morbillo"
+"vaccino di richiamo"
+#* ''latte 
+#* ''
+* [[vaccinare]],  [[vaccinazione]]
+*Enciclopedia [http

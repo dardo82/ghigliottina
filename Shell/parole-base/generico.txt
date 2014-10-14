@@ -1,0 +1,54 @@
+generico.txt
+"(lavoratore) generico"
+"lavoratore generico"
+"anestetico generico"
+"anestetico generico"
+"attore generico"
+"dizionario generico"
+"generico"
+"generico"
+"generico"
+"farmaco generico"
+"medico generico"
+"nome generico"
+*[[generale]], [[complessivo]], di massima, [[globale]], [[riassuntivo]], [[sintetico]], [[sommario]]
+*''(di lavoratore, eccetera)'' non specializzato
+*[[polivalente]], [[universale]]
+*(solo singolare) [[vago]]
+* attore secondario, [[comparsa]]
+*[[specifico]], [[tipico]], [[caratteristico]], [[peculiare]]
+*[[definito]], [[determinato]], [[distinto]], [[preciso]]
+*[[specializzato]]
+* [[protagonista]]
+*[[genericamente]]
+M>definizione g</E
+M>significato g</E
+M>di un vocabolo</E
+M>punto g.</E
+M>attitudini g</E
+M>farmaco g.</E
+M>cosa g</E
+M>cosa specifica</E
+M>muovere accuse g</E
+M>avere cognizioni molto g</E
+M>parlare</E
+M>rispondere in modo g</E
+M>discorso g</E
+M>componimento g</E
+M>andare</E
+M>cadere</E
+M>tenersi</E
+M>restare nel generico</E
+M>medico g</E
+M>generico di categoria</E
+M>manovale</E
+M>attore g</E
+M>attrice g</E
+M>il generico</E
+M>una generica</E
+M>dignitoso</E
+M>di riguardo</E
+M>in parrucca</E
+M>generichétto</E
+M>generichétta</E
+M>parlare genericamente</E

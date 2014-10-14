@@ -1,0 +1,111 @@
+abito.txt
+"abito"
+"abito"
+"abito appariscente"
+"abito bianco"
+"abito civile"
+"abito da cerimonia"
+"abito da cocktail"
+"abito da cocktail"
+"abito da sera"
+"abito da sera"
+"abito da sera"
+"abito da sera"
+"abito da sposa"
+"abito griffato"
+"abito in due pezzi"
+"abito lungo"
+"abito lungo"
+"abito succinto"
+"di abito da cerimonia"
+"in abito"
+"in abito accademico"
+"in abito da cerimonia"
+"l'abito non fa il monaco."
+"l'abito religioso"
+"misurare (di abito)"
+"misurarlo (di abito)"
+"smoking; abito da sera"
+#*''ha acquistato un  bel abito in saldo''
+#*''
+*[[vestito]], [[indumento]], [[abbigliamento]], [[veste]], [[mise]], [[toilette]] 
+*[[uniforme]], [[divisa]], [[tenuta]]; [[foggia]], modo di vestire, [[immagine]], [[look]]
+*''Non è l'
+*italiano
+*latino
+M>hab</E
+M>tus</E
+M>habere</E
+M>veste</E
+M>vestito</E
+M>da uomo</E
+M>da donna</E
+M>da lavoro</E
+M>da inverno</E
+M>da mezza stagione</E
+M>da pomeriggio</E
+M>da sera</E
+M>da gran sera</E
+M>da cerimonia</E
+M>occorre l’a</E
+M>nero</E
+M>ci vuole l’a</E
+M>scuro per l’occasione?</E
+M>militare</E
+M>civile</E
+M>farsi un a</E
+M>nuovo</E
+M>tagliare</E
+M>cucire un a</E
+M>un taglio</E
+M>uno stacco</E
+M>d’abito</E
+M>ecclesiastico</E
+M>talare</E
+M>prendere</E
+M>vestire l’a</E
+M>lasciare l’a</E
+M>gettare l’a</E
+M>alle ortiche</E
+M>l’a</E
+M>non fa il monaco</E
+M>livrea</E
+M>nuziale</E
+M>di nozze</E
+M>maschile</E
+M>femminile</E
+M>abitino</E
+M>colla mano sulla stanga</E
+M>e l’a</E
+M>della Madonna fra le labbra</E
+M>ormai ha fatto l’a</E
+M>al vizio</E
+M>ha l’a</E
+M>mentale del ragionatore</E
+M>Natura inchina al male</E
+M>e viene a farsi L’a</E
+M>poi difficile a mutarsi</E
+M>Dolce paese</E
+M>onde portai conforme L’a</E
+M>fiero e lo sdegnoso canto</E
+M>si viene a fare nell’animo un certo a</E
+M>di diffidenza perpetua</E
+M>ch’è uno de’ maggiori diavoli che possano cacciarsi nel corpo</E
+M>gli a</E
+M>in me sono radicati per modo</E
+M>che niuna forza gli può svellere</E
+M>L’a</E
+M>in vista sì leggiadro e novo</E
+M>astenico</E
+M>atletico</E
+M>tisico</E
+M>apoplettico</E
+M>portamento</E
+M>habitus</E
+M>arbustivo</E
+M>arboreo</E
+M>cubico</E
+M>prismatico</E
+M>bipiramidato</E
+M>tabulare</E
+M>filiforme</E

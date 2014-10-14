@@ -1,0 +1,15 @@
+pregiato.txt
+"pregiato"
+"pregiato"
+*[[prezioso]], [[pregevole]], [[di]] [[valore]], [[apprezzabile]], [[ragguardevole]], [[stimato]]
+*[[ mediocre]], [[scadente]], [[dozzinale]]
+*[[nobile]], [[purosangue]], [[magnanimo]], [[generoso]], [[prezioso]]
+M>pregiare</E
+M>libri</E
+M>mobili</E
+M>vini p</E
+M>valuta p</E
+M>pregiatissimo</E
+M>preg</E
+M>Pregiatissimo Signore</E
+M>Pregiatissima Ditta</E

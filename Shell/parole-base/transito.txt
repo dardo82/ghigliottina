@@ -1,0 +1,49 @@
+transito.txt
+"diritto di transito"
+"in transito"
+"in transito verso"
+"passo carraio per il transito all'interno degli edifici"
+"punto di transito"
+"stazione di transito"
+"tempo di transito"
+"transito"
+"transito"
+M>trans</E
+M>tus -us</E
+M>transire</E
+M>trans</E
+M>tum</E
+M>Come la fronda che flette la cima Nel t. del vento</E
+M> e poi si leva</E
+M>il t. è ostacolato dalla neve</E
+M>t. interrotto</E
+M>divieto di t.</E
+M>chiudere</E
+M>riaprire una strada al t.</E
+M>t. consentito con catene</E
+M>diritto di t.</E
+M>servitù di t.</E
+M>attenzione</E
+M> c&#8217;è un treno in t. sul 3&#176; binario</E
+M>stazione</E
+M>ferroviaria</E
+M>di t.</E
+M>stazioni di testa</E
+M>porto di t.</E
+M>aeroporto</E
+M>aeroscalo di t.</E
+M>passeggeri in t.</E
+M>T. inoffensivo</E
+M>commercio di t.</E
+M>merci in t.</E
+M>Linee di t.</E
+M>passaggio</E
+M>t. di una particella in un campo</E
+M>t. esofageo</E
+M>t. intestinale.</E
+M>l&#8217;ora</E
+M>il momento del t.</E
+M>il t. dei giusti</E
+M>il t. di s. Luigi</E
+M>di s. Lucia</E
+M>il t. di Maria Vergine</E

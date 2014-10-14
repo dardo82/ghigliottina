@@ -1,0 +1,93 @@
+patria.txt
+"A onor di patria"
+"amore per la patria"
+"difensore della patria"
+"diretto in patria"
+"madre patria"
+"morire per la patria"
+"nessuno è profeta in patria"
+"padre della patria"
+"patria"
+"patria"
+"patria"
+"patria potestà"
+"per amore di patria"
+"tornare in patria"
+#* ''molti emigrati sognavano di diventare ricchi per rientrare in 
+#* ''o mia 
+#* ''Pisa è la 
+#* ''la Francia è la 
+* [[paese]], [[nazione]]
+*[[patriota]], [[repatrizione]]
+*''patria celeste'' 
+* '''''patria''' adottiva'', la [[nazione]] dove una [[persona]] decide di stabilirsi e di adottarne i costumi
+* ''storia '''patria''''', la [[storia]] del [[paese]] di [[appartenenza]]
+M>patria</E
+M>terra</E
+M>patrius</E
+M>il suolo</E
+M>i confini della p</E
+M>Non è questa</E
+M>la p</E
+M>in ch&#8217;io mi fido</E
+M>Madre benigna e pia</E
+M>Che copre l&#8217;un e l&#8217;altro mio parente?</E
+M>la partenza dalla p</E
+M>essere esule dalla p</E
+M>il ritorno in p</E
+M>avere nostalgia della p</E
+M>lontana</E
+M>la p</E
+M>è dove si sta bene</E
+M>Tusc</E
+M>patria est ubicumque est bene</E
+M>il sentimento di p</E
+M>il culto della p</E
+M>la gloria</E
+M>la grandezza della p</E
+M>amor di p</E
+M>combattere</E
+M>morire per la p</E
+M>in difesa della p</E
+M>procurare il bene della p</E
+M>lottare per una p</E
+M>unita</E
+M>libera</E
+M>indipendente</E
+M>i caduti per la p</E
+M>l&#8217;Altare della p</E
+M>i nemici della p</E
+M>addio patria</E
+M> solo un mare di funzioni</E
+M> di disfunzioni</E
+M> di funzionari e di criminali</E
+M>tradire</E
+M>rinnegare la p</E
+M>Padre della p</E
+M>pater patriae</E
+M>Bonn è la p</E
+M>di Beethoven</E
+M>Certaldo</E
+M>del Boccaccio</E
+M>li parenti miei furon lombardi</E
+M> Mantovani per patrïa ambedui</E
+M>fatemi il piacere di dirmi il vostro nome</E
+M> cognome e p</E
+M>Seconda p</E
+M>d&#8217;elezione</E
+M>adottiva</E
+M>Roma è la p</E
+M>del diritto</E
+M>Vienna è la p</E
+M>del valzer</E
+M>la p</E
+M>celeste</E
+M>la p</E
+M>immortale</E
+M>la p</E
+M>eterna</E
+M>la vera p</E
+M>patria</E
+M>Patria</E
+M>del Friuli</E
+M>Luogotenente generale della Patria del Friuli</E

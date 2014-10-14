@@ -1,0 +1,186 @@
+controllo.txt
+"a controllo remoto"
+"al di fuori del tuo controllo"
+"andare fuori controllo"
+"applicare il controllo statale"
+"applicare il controllo statale"
+"assumere il comando, controllo"
+"assumere il controllo"
+"attrezzatura di controllo"
+"avere controllo di qc\/qcs"
+"avere controllo di qcs. (anche ufficialmente)"
+"avere il controllo"
+"avere il controllo di"
+"avere la situazione sotto controllo"
+"azione di controllo"
+"breve controllo"
+"centro di controllo"
+"che ha il controllo"
+"chiamata di controllo"
+"con controllo a distanza"
+"con riserva di controllo"
+"contrassegno di controllo"
+"controllo"
+"controllo"
+"controllo"
+"controllo"
+"controllo"
+"controllo a distanza"
+"controllo a pulsante"
+"controllo aereo"
+"controllo al suolo"
+"controllo automatico"
+"controllo automatico del guadagno"
+"controllo automatico di velocità"
+"controllo biologico"
+"controllo congiunto"
+"controllo da parte dei genitori"
+"controllo degli infestanti"
+"controllo dei bagagli"
+"controllo del carico"
+"controllo del colore"
+"controllo del consumo energetico"
+"controllo del contrasto"
+"controllo del motore"
+"controllo del pensiero"
+"controllo del peso"
+"controllo del prezzo"
+"controllo del tiro; lotta antincendio"
+"controllo del tono"
+"controllo del traffico"
+"controllo del traffico aereo"
+"controllo del volume"
+"controllo dell'umidità"
+"controllo della densità"
+"controllo della portata di acque di un fiume attraverso dighe"
+"controllo della pressione"
+"controllo della temperatura"
+"controllo della velocità"
+"controllo delle nascite"
+"controllo di campo"
+"controllo di dosaggio dei farmaci"
+"controllo di fase"
+"controllo di flusso"
+"controllo di frequenza"
+"controllo di gestione"
+"controllo di parità"
+"controllo di processo"
+"controllo di produzione"
+"controllo di sorveglianza"
+"controllo di stagione"
+"controllo di volo"
+"controllo elettronico"
+"controllo elettronico"
+"controllo feedback"
+"controllo giurisdizionale"
+"controllo incrociato"
+"controllo limite"
+"controllo manuale"
+"controllo numerico"
+"controllo passato, controllo superato"
+"controllo qualità"
+"controllo radio"
+"controllo remoto"
+"controllo saltuario"
+"controllo statale"
+"diagramma di controllo"
+"dispositivo di controllo"
+"è tutto sotto controllo"
+"fare un controllo incrociato"
+"fare un controllo incrociato"
+"fare un controllo saltuario"
+"fuori controllo"
+"fuori controllo"
+"fuori controllo"
+"impianto a controllo continuo"
+"lista di controllo"
+"macchina a controllo numerico"
+"mantenere il controllo dei costi"
+"meccanismi di controllo"
+"meccanismo di controllo"
+"mezzi di controllo"
+#*''Ho eseguito un '''controllo''' delle mie capacità motorie.''
+#*'''controllo automatico'''
+#*''Lo sottopone a un continuo '''controllo'''.''
+#*''L'uomo prese il '''controllo''' dell'auto.''
+#*''Non perdere mai il '''controllo'''!''
+*[[esame]], [[accertamento]], [[verifica]], [[riscontro]], [[prova]], [[test]], [[checkup]], [[ispezione]]
+*(delle forze dell’ordine, delle stazioni, degli aeroporti) [[sorveglianza]], [[supervisione]], [[vigilanza]]
+*[[padronanza]]
+*(di società, territorio) [[governo]], [[comando]], [[direzione]], [[gestione]], [[dominio]], [[potere]], [[supremazia]]
+*(psicologico) [[autocontrollo]], [[autodisciplina]], [[disciplina]], [[freno]], [[regola]]
+*[[controllare]], [[controllore]], [[autocontrollo]]
+M>contrôle</E
+M>contrerole</E
+M>contre</E
+M>rôle</E
+M>rot</E
+M>lus</E
+M>fare il c. dei bagagli</E
+M>i documenti sono risultati in regola al c</E
+M>posto di c.</E
+M>controllo</E
+M>fermarsi al c</E
+M>c. di un impianto</E
+M>di un elettrodomestico</E
+M>visita di c.</E
+M>volante</E
+M>il direttore generale ha il c</E
+M>di tutto l’istituto</E
+M>esercitare un attento</E
+M>un accurato</E
+M>un severo c</E
+M>su qualcosa</E
+M>sfuggire al c</E
+M>degli agenti</E
+M>delle guardie di finanza</E
+M>dei guardiani</E
+M>ambientale</E
+M>del traffico aereo</E
+M>torre di c</E
+M>esercitare un c</E
+M>sui prezzi</E
+M>dei cambî</E
+M>degli armamenti</E
+M>delle nascite</E
+M>birth control</E
+M>preventivo</E
+M>successivo</E
+M>repressivo</E
+M>sostitutivo</E
+M>amministrativo</E
+M>di legittimità</E
+M>finanziario</E
+M>c. fiscale</E
+M>controlli fiscali</E
+M>il c</E
+M>della produzione</E
+M>dei programmi di sviluppo</E
+M>di gestione</E
+M>controller</E
+M>C. operaio</E
+M>sociale</E
+M>comando</E
+M>di volume</E
+M>di sintonia</E
+M>di contrasto</E
+M>di luminosità</E
+M>automatici</E
+M>grandezze di c</E
+M>Pannello di c.</E
+M>avere</E
+M>possedere</E
+M>conquistare il c</E
+M>dei mari</E
+M>dei mercati mondiali</E
+M>esercitare il c</E
+M>sui proprî impulsi</E
+M>avere il c</E
+M>dei nervi</E
+M>perdere il c</E
+M>di sé stesso</E
+M>perdere il c.</E
+M>perdere</E
+M>riprendere</E
+M>mantenere il c</E
+M>del veicolo</E

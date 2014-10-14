@@ -1,0 +1,11 @@
+serale.txt
+"corso serale"
+"pasto serale"
+"preghiera serale"
+"ricevimento serale"
+"scuola serale"
+"scuola serale"
+"scuola serale, scuola per adulti"
+"serale"
+#*''lettura '''serale'''''
+*[[sera]]

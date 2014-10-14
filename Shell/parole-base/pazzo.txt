@@ -1,0 +1,91 @@
+pazzo.txt
+"ammattire; diventare pazzo"
+"andare pazzo per"
+"andare pazzo per"
+"andare pazzo per qc"
+"andare pazzo per qualcosa"
+"come un pazzo"
+"desiderio pazzo"
+"essere pazzo"
+"follemente innamorato, innamorato pazzo"
+"lancio pazzo (baseball)"
+"lavorare come un pazzo"
+"mezzo pazzo"
+"pazzo"
+"pazzo"
+"pazzo"
+"pazzo"
+"pazzo"
+"pazzo"
+"pazzo da legare"
+"pazzo di"
+"pazzo di"
+"pazzo lunatico"
+"pazzo per"
+"pazzo per"
+"pazzo per"
+"pazzo per"
+"sbavare per, andare pazzo per"
+"un po' pazzo"
+*[[anormale]], [[matto]], [[folle]], [[squilibrato]], [[demente]], [[mentecatto]], [[scemo]], [[maniaco]], [[psicopatico]], [[paranoico]], [[schizofrenico]], [[alienato]], [[strano]], [[stravagante]], [[originale]], [[eccentrico]], [[insensato]], [[lunatico]], [[forsennato]], [[scriteriato]], [[fanatico]], [[dissennato]], [[irragionevole]], [[bizzarro]], [[strambo]], [[strampalato]], [[imprevedibile]], [[esagerato]], [[esaltato]], [[eccessivo]]
+*[[normale]], [[sano]], [[equilibrato]], [[ragionevole]], [[razionale]], [[logico]], [[lucido]]
+* [[matto]], [[folle]]
+*[[pazzamente]], [[pazzoide]]
+*[[manicomio]]
+M>patiens</E
+M>pazzia</E
+M>matto</E
+M>essere</E
+M>diventare</E
+M>uscire</E
+M>furioso</E
+M>da legare</E
+M>da catena</E
+M>è una povera p</E
+M>un vecchio p</E
+M>ma che</E
+M>sei p</E
+M>rideva</E
+M>si agitava</E
+M>urlava come un p</E
+M>occhi</E
+M>sguardo</E
+M>espressione da p</E
+M>ma questi sono discorsi da p</E
+M>cose da pazzi!</E
+M>diventare p</E
+M>per il dolore</E
+M>per la disperazione</E
+M>fissando sul fratello gli occhi p</E
+M>di terrore e d&#8217;angoscia</E
+M>che sei!</E
+M>è sempre stata un po&#8217; pazza</E
+M>ne sa più un p</E
+M>a casa sua che un savio a casa d&#8217;altri</E
+M>essere innamorato pazzo</E
+M>essere</E
+M>andare p</E
+M>per qualcuno</E
+M>per qualche cosa</E
+M>è p</E
+M>per quella donna</E
+M>va p</E
+M>per la musica</E
+M>per il ballo</E
+M>ogni gesto che dalla gente comune e sobria viene considerato p. coinvolge il mistero di una inaudita sofferenza che non è stata colta dagli uomini</E
+M>fare discorsi p</E
+M>correre a una velocità p</E
+M>fare spese p</E
+M>un lusso smoderato e pazzo</E
+M>darsi alla p</E
+M>gioia</E
+M>che tempo p</E
+M>questa è un&#8217;estate veramente pazza</E
+M>Acqua p</E
+M>pazzarèllo</E
+M>rischiare pazzamente la vita</E
+M>correre</E
+M>urlare pazzamente</E
+M>divertirsi pazzamente</E
+M>amare pazzamente</E
+M>essere pazzamente innamorato</E

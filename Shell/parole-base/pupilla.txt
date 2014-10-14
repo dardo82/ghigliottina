@@ -1,0 +1,4 @@
+pupilla.txt
+"pupilla"
+"pupilla di uscita"
+*''Essere la pupilla degli occhi di qualcuno''

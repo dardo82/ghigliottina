@@ -1,0 +1,27 @@
+verbale.txt
+"abuso verbale"
+"accordo verbale"
+"comunicazione non verbale"
+"contratto verbale"
+"errore verbale"
+"locuzione verbale"
+"non verbale"
+"nota verbale"
+"note verbale"
+"predicato verbale"
+"rappresentazione verbale"
+"risposta verbale"
+"sintagma verbale"
+"verbale"
+"verbale"
+"verbale di arresto"
+"verbale di assemblea"
+"verbale di consegna"
+"verbale di separazione"
+#*''dichiarazione '''verbale'''''
+#*''forma '''verbale'''''
+#* ''il segretario firmò il '''verbale''' dell'assemblea''
+*[[orale]], a voce, a parole
+*[[relazione]], [[resoconto]], [[dichiarazione]], [[verbalizzazione]], [[documento]], [[rapporto]], [[trascrizione]],  [[atto]], 
+*[[scritto]], [[gestuale]], [[reale]], [[effettivo]], [[concreto]] 
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 2262

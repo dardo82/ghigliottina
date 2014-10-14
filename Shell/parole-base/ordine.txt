@@ -1,0 +1,620 @@
+ordine.txt
+"all'ordine del giorno"
+"andare per ordine"
+"ben assettato, in perfetto ordine"
+"buono d'ordine"
+"cancellare un ordine"
+"cartellino con l'ordine dei battitori"
+"catalogo sistemato in ordine alfabetico"
+"catalogo sistemato in ordine alfabetico"
+"condotta contraria all'ordine pubblico"
+"da prim'ordine"
+"dare l'ordine"
+"dare un ordine"
+"dare un ordine"
+"dell'ordine di"
+"di basso ordine, di basso livello"
+"di prim'ordine"
+"disturbare l'ordine pubblico"
+"disturbo dell'ordine pubblico"
+"essere dello stesso ordine"
+"evadere un ordine"
+"forze dell'ordine"
+"forze dell'ordine"
+"fuori ordine"
+"in caso di ordine"
+"in ordine"
+"in ordine"
+"in ordine"
+"in ordine"
+"in ordine"
+"in ordine a"
+"in ordine alfabetico"
+"in ordine alfabetico"
+"in ordine di apparizione"
+"in ordine di grandezza"
+"in ordine di importanza"
+"in ordine di priorità"
+"in ordine di tempo"
+"in ordine inverso"
+"l'Ordine della Giarrettiera"
+"limitato (di ordine)"
+"mancanza di ordine"
+"messa in ordine"
+"messo in ordine prima"
+"mettere in ordine"
+"mettere in ordine di grandezza"
+"mettere in ordine logico"
+"mettere in ordine sparso"
+"mettere in un certo ordine"
+"mettere le cose in ordine"
+"mettere ordine nella propria vita"
+"modulo d'ordine"
+"modulo d'ordine"
+"motivi di ordine pubblico"
+"nell'ordine di"
+"nell'ordine sacro"
+"night di second'ordine"
+"ogni tuo desiderio è un ordine"
+"ordine"
+"ordine"
+"ordine"
+"ordine"
+"ordine"
+"ordine"
+"ordine"
+"ordine"
+"ordine aperto"
+"ordine cospicuo"
+"ordine dai piani alti"
+"ordine degli ingegneri"
+"ordine del giorno"
+"ordine del giorno"
+"ordine della natura"
+"ordine delle parole"
+"ordine di \"
+"ordine di acquisto"
+"ordine di battaglia"
+"ordine di battuta"
+"ordine di consegna"
+"ordine di esecuzione"
+"ordine di grandezza"
+"ordine di idee"
+"ordine di lavoro"
+"ordine di mercato"
+"ordine di pagamento"
+"ordine di pagamento"
+"ordine di partenza"
+"ordine di priorità"
+"ordine di servizio"
+"ordine di sparare"
+"ordine di spedizione"
+"ordine di successione"
+"ordine diretto"
+"ordine emanato dal quartier generale; che interessa tutte le truppe"
+"ordine esecutivo"
+"ordine gerarchico"
+"ordine inevaso"
+"ordine legale"
+"ordine logico"
+"ordine maggiore"
+"ordine minimo, ordinativo minimo"
+*[[comando]]
+* [[disordine]],  [[caos]],  [[confusione]]
+*[[sottordine]]
+*''ordine religioso''
+* italiano
+* latino
+M>rdo </E
+M>nis</E
+M>mettere</E
+M>tenere in o</E
+M>le proprie carte</E
+M>i vestiti</E
+M>le pratiche d’ufficio</E
+M>disporre in bell’o</E
+M>gli oggetti di un’esposizione</E
+M>questo libro è fuori o</E
+M>conservare</E
+M>variare</E
+M>mutare</E
+M>sconvolgere l’o</E
+M>di qualche cosa</E
+M>mettersi in o</E
+M>mettere</E
+M>rimettere in o</E
+M>i cassetti</E
+M>gli armadî</E
+M>gli scaffali di una biblioteca</E
+M>che o</E
+M>in questa stanza!</E
+M>rimettere in o</E
+M>le proprie idee</E
+M>ha bisogno di mettere un po’ d’o</E
+M>nella sua vita</E
+M>tenere in o</E
+M>i macchinarî</E
+M>le armi</E
+M>i registri</E
+M>i quaderni</E
+M>la casa</E
+M>il sergente fece un giro d’ispezione nelle camerate per assicurarsi che tutto fosse in ordine</E
+M>che bellezza</E
+M>la cucina è già tutta in ordine!</E
+M>essere in o</E
+M>se i bambini sono in o</E
+M>possiamo uscire</E
+M>siamo in o</E
+M>per partire</E
+M>è tutto in o</E
+M>per la partenza</E
+M>l’o</E
+M>della natura</E
+M>l’o</E
+M>del creato</E
+M>l’o</E
+M>dei cieli</E
+M>il mirabile o</E
+M>del mondo</E
+M>le cose tutte quante Hanno ordine tra loro</E
+M>e questo è forma Che l’universo a Dio fa simigliante</E
+M>di natura</E
+M>naturale</E
+M>delle cose</E
+M>è nell’o</E
+M>della natura che i vecchi muoiano prima dei giovani</E
+M>naturale</E
+M>soprannaturale</E
+M>progressivo</E
+M>crescente</E
+M>decrescente</E
+M>alfabetico</E
+M>l’o</E
+M>delle stagioni</E
+M>degli avvenimenti</E
+M>seguire l’o</E
+M>cronologico</E
+M>dei tempi</E
+M>gerarchico</E
+M>delle precedenze</E
+M>di battuta</E
+M>numero d’o</E
+M>parola d’o</E
+M>indicare l’o</E
+M>di successione dei papi</E
+M>distinguere i significati di un vocabolo secondo un o</E
+M>logico</E
+M>storico</E
+M>narrare seguendo</E
+M>rispettando</E
+M>l’o</E
+M>dei fatti</E
+M>l’o</E
+M>delle parole nella frase</E
+M>diretto</E
+M>inverso</E
+M>l’o</E
+M>degli argomenti</E
+M>in ordine</E
+M>per ordine</E
+M>elenco degli attori in o</E
+M>alfabetico</E
+M>disporre la fila per o</E
+M>d’altezza</E
+M>le nomine sono fatte per o</E
+M>di età</E
+M>di merito</E
+M>di anzianità nel grado</E
+M>è il quinto in o</E
+M>di tempo</E
+M>dire</E
+M>narrare con o</E
+M>procediamo con o</E
+M>andiamo per o</E
+M>scrive con o</E
+M>e chiarezza</E
+M>la materia è sistemata con o</E
+M>rigoroso</E
+M>avere</E
+M>non avere o</E
+M>amore dell’o</E
+M>laterale</E
+M>di marcia</E
+M>di battaglia</E
+M>di combattimento</E
+M>lanciarsi all’attacco in o</E
+M>serrato</E
+M>chiuso</E
+M>sparso</E
+M>avanzare</E
+M>ritirarsi in buon o</E
+M>di una formazione</E
+M>di marcia</E
+M>diretto</E
+M>inverso</E
+M>Rinforzossi tre volte il fiero assalto Sottentrando a vicenda ordini e schiere</E
+M>uscire dagli o</E
+M>rientrare negli o</E
+M>sconvolgere gli o</E
+M>nemici</E
+M>famiglia</E
+M>scuola</E
+M>ufficio dove regna l’o</E
+M>dove manca l’o</E
+M>mettere</E
+M>rimettere o</E
+M>in un ufficio</E
+M>in un’azienda</E
+M>in un servizio pubblico</E
+M>in un’amministrazione</E
+M>mantenere l’o</E
+M>nella classe</E
+M>tra gli alunni</E
+M>richiamare all’o</E
+M>qualcuno</E
+M>richiamo all’o</E
+M>pubblico</E
+M>tutelare</E
+M>garantire l’o</E
+M>l’o</E
+M>pubblico</E
+M>turbare</E
+M>sovvertire l’o</E
+M>l’o</E
+M>pubblico</E
+M>mantenere il buon o</E
+M>il ristabilimento</E
+M>la restaurazione dell’o</E
+M>servizio d’o</E
+M>le forze</E
+M>i tutori dell’o</E
+M>partiti d’o</E
+M>dell’o</E
+M>uomo</E
+M>persona d’ordine</E
+M>l’o</E
+M>regna a Varsavia</E
+M>l’ordre règne à Varsavie</E
+M>l’o</E
+M>è pane e il disordine è fame</E
+M>reati contro l’o</E
+M>pubblico</E
+M>o. pubblico</E
+M>o. pubblico interno</E
+M>o. pubblico internazionale.</E
+M>sociale</E
+M>sovvertire l’o</E
+M>sociale</E
+M>democratico</E
+M>mantenuto con la repressione poliziesca</E
+M>l’o</E
+M>costituito</E
+M>aspirare a un o</E
+M>nuovo</E
+M>nuovo</E
+M>ordinamenti</E
+M>civili</E
+M>politici</E
+M>militari</E
+M>veruna cosa fa tanto onore a uno uomo che di nuovo surga</E
+M>quanto fa le nuove legge e li nuovi o</E
+M>trovati da lui</E
+M>la osservanza delle buone leggi e buoni o</E
+M>esso medesimo diede leggi</E
+M>stati e o</E
+M>civili alle nuove genti</E
+M>disordine</E
+M>entropia</E
+M>del giorno</E
+M>ordre du jour</E
+M>seguire</E
+M>invertire l’o</E
+M>del giorno</E
+M>procedere secondo l’o</E
+M>del giorno</E
+M>levare una materia dall’o</E
+M>del giorno</E
+M>discutere l’o</E
+M>del giorno</E
+M>mettere all’o</E
+M>del giorno</E
+M>passare all’o</E
+M>del giorno</E
+M>formulare</E
+M>presentare</E
+M>votare</E
+M>approvare</E
+M>respingere</E
+M>ritirare un o</E
+M>del giorno</E
+M>mozione d’ordine</E
+M>Mettere</E
+M>citare all’o</E
+M>del giorno</E
+M>essere all’o</E
+M>del giorno</E
+M>i tumulti popolari in quel periodo erano all’o</E
+M>del giorno</E
+M>simili episodî di delinquenza sono oggi all’o</E
+M>del giorno</E
+M>gli o</E
+M>di banchi</E
+M>di remi</E
+M>di rematori</E
+M>un lungo o</E
+M>di stanze</E
+M>di colonne</E
+M>di specchi</E
+M>il campo è recintato con un doppio o</E
+M>di pali</E
+M>ordini di sedie</E
+M>di poltrone</E
+M>primo</E
+M>secondo</E
+M>terzo o</E
+M>di palchi</E
+M>dorico</E
+M>ionico</E
+M>corinzio</E
+M>composito</E
+M>Giovin signore</E
+M>o a te scenda per lungo Di magnanimi lombi ordine il sangue</E
+M>Religïon che con diversi riti Le virtù patrie e la pietà congiunta Tradussero per lungo o</E
+M>d’anni</E
+M>tale sarai tenuta e chiamata per lungo o</E
+M>di secoli</E
+M>sono due o</E
+M>di fatti profondamente diversi</E
+M>io l’ho fatto per un o</E
+M>di ragioni differente</E
+M>d’idee</E
+M>essere nello stesso o</E
+M>d’idee</E
+M>entrare in un certo o</E
+M>d’idee</E
+M>entrare nell’o</E
+M>d’idee</E
+M>essere nell’o</E
+M>d’idee</E
+M>di fare qualcosa</E
+M>questioni d’o</E
+M>amministrativo</E
+M>necessità d’o</E
+M>pratico</E
+M>per considerazioni d’o</E
+M>generale</E
+M>superiore</E
+M>inferiore</E
+M>infimo</E
+M>trattoria</E
+M>albergo</E
+M>teatro</E
+M>cinematografo</E
+M>locale di prim’o</E
+M>di second’o</E
+M>di terz’o</E
+M>di prim’o</E
+M>uno spettacolo</E
+M>un pranzo</E
+M>un trattamento di prim’o</E
+M>è un artista</E
+M>un architetto</E
+M> uno scienziato</E
+M>un farabutto</E
+M>un imbroglione</E
+M>un imbecille</E
+M>di prim’o</E
+M>di terz’o</E
+M>d’infimo o</E
+M>di grandezza</E
+M>l’o</E
+M>di grandezza delle dimensioni del nucleo atomico è 10</E
+M>metri</E
+M>un reddito elevato</E
+M>dell’o</E
+M>di grandezza di centomila euro</E
+M>di un asse di simmetria</E
+M>Unità del prim’o</E
+M>del second’o</E
+M>del terz’o</E
+M>Derivata di second’ordine</E
+M>di ordine n</E
+M>di una data funzione</E
+M>equazione differenziale di ordine n</E
+M>ordinamento</E
+M>relazione d’o</E
+M>di una matrice quadrata</E
+M>di un determinante</E
+M>di una curva algebrica piana</E
+M>di una curva algebrica sghemba</E
+M>di una superficie algebrica</E
+M>scuole dell’o</E
+M>elementare</E
+M>dell’o</E
+M>medio</E
+M>dell’o</E
+M>superiore</E
+M>in ogni o</E
+M>di cittadini</E
+M>gente d’infimo o</E
+M>l’o</E
+M>senatorio</E
+M>l’o</E
+M>equestre</E
+M>l’o</E
+M>dei plebei</E
+M>l’o</E
+M>degli scribi</E
+M>dei pubblicani</E
+M>i tre o</E
+M>professionali</E
+M>l’o</E
+M>degli avvocati e procuratori</E
+M> dei medici</E
+M>dei farmacisti</E
+M>dei giornalisti</E
+M>degli ingegneri</E
+M>dei geometri</E
+M>giudiziario</E
+M>i varî o</E
+M>di magistrati</E
+M>negli o</E
+M>pari</E
+M>i pareri son dispari</E
+M>dei vescovi</E
+M>dei preti</E
+M>dei diaconi</E
+M>religiosi</E
+M>prim’o</E
+M>second’o</E
+M>terz’o</E
+M>mendicanti</E
+M>dei canonici regolari</E
+M>dei francescani</E
+M>di s</E
+M>Francesco</E
+M>dei trinitarî</E
+M>fondare</E
+M> istituire un ordine</E
+M>ordine</E
+M>entrare nell’O</E
+M>il generale dell’O</E
+M>l’abito</E
+M> la regola dell’Ordine</E
+M>cavallereschi</E
+M>degli ospitalieri di s</E
+M>Giovanni di Gerusalemme</E
+M>di Malta</E
+M>dei Templari</E
+M>dei Teutonici</E
+M>della Giarrettiera</E
+M>della Ss</E
+M>Annunziata</E
+M>al merito della Repubblica</E
+M>O. al merito del lavoro</E
+M>Angeli</E
+M>Arcangeli</E
+M>Troni</E
+M>questi tre o</E
+M>fanno la prima gerarchia</E
+M>sacro</E
+M>sacramento dell’O</E
+M>conferire</E
+M>ricevere l’Ordine</E
+M>sacri</E
+M>maggiori</E
+M>minori</E
+M>diaconato</E
+M>presbiterato</E
+M>episcopato</E
+M>comando</E
+M>rigoroso</E
+M>severo</E
+M>dare l’o</E
+M>di fare</E
+M>di andare</E
+M> di tacere</E
+M>ho l’o</E
+M>di non muovermi di qui</E
+M>sono state poste due sentinelle al cancello con l’o</E
+M>espresso di non far entrare nessuno</E
+M>ricevere</E
+M>eseguire un o</E
+M>obbedire</E
+M>disobbedire</E
+M>ottemperare</E
+M>mancare</E
+M>venir meno a un o</E
+M>rispettare un o</E
+M>l’ho fatto per o</E
+M>dietro o</E
+M>del direttore</E
+M>ho agito secondo gli o</E
+M>per o</E
+M>superiore</E
+M>d’o</E
+M>delle autorità</E
+M>leggere un o</E
+M>portare</E
+M>recapitare</E
+M>trasmettere</E
+M>spedire un o</E
+M>è arrivato l’o</E
+M>di partire</E
+M>di partenza</E
+M>questi sono gli o</E
+M>gli o</E
+M>non si discutono</E
+M>non ricevo ordini da nessuno</E
+M>obbedisci: è un o</E
+M>chi t’ha dato l’o.?</E
+M>prendere</E
+M>gli</E
+M>da qualcuno</E
+M>i tuoi desiderî sono o</E
+M>per me</E
+M>sono ai vostri o</E
+M>ordini di operazioni</E
+M>ordini di marcia</E
+M>ordini per i servizî</E
+M>ordini di massima</E
+M>foglio d’ordine</E
+M>d’ordini</E
+M>parola d’o</E
+M>agli o</E
+M>sotto gli o</E
+M>di qualcuno</E
+M>servì</E
+M>militò</E
+M>combatté</E
+M>sotto gli o</E
+M>del generale La Marmora</E
+M>la compagnia avanzava agli o</E
+M>del capitano</E
+M>non ho avuto ordini in proposito</E
+M>dobbiamo attendere gli o</E
+M>ho dato o</E
+M>all’usciere di farvi entrare appena arrivati</E
+M>continuerete così fino a nuovo o</E
+M>D’ordine del ministro</E
+M>firma d’ordine</E
+M>o. di esecuzione</E
+M>o. di carcerazione</E
+M>mandato</E
+M>o. di cattura</E
+M>o. di comparizione</E
+M>di banca</E
+M>di borsa</E
+M>di cambio</E
+M>di accreditamento</E
+M>di giro</E
+M>giroconto</E
+M>ordinativo</E
+M>d’imbarco</E
+M>di consegna</E
+M>delivery order</E
+M>in derrate</E
+M>di riscossione</E
+M>All’ordine</E
+M>titoli all’o</E
+M>ordinativo</E
+M>attendiamo vostri o</E
+M>in merito all’o</E
+M>da voi pervenutoci</E
+M>abbiamo disposto</E
+M>Impiegato d’ordine</E
+M>impiegato di concetto</E
+M>impiegato delle carriere esecutive</E
+M>alunno d’o</E
+M>spese d’o</E
+M>istruzione</E
+M>in ordine a</E
+M>in merito a</E
+M>rispetto a</E
+M>per ciò che riguarda</E
+M>in o</E
+M>alla richiesta da voi avanzata</E
+M>in o</E
+M>alla vostra ultima commissione</E
+M>chiediamo spiegazioni in o</E
+M>ai recenti fatti</E

@@ -1,0 +1,63 @@
+apparire.txt
+"apparire"
+"apparire"
+"apparire"
+"apparire all'improvviso"
+"apparire chiaro"
+"apparire e sparire"
+"apparire per"
+"insabbiare una questione, farla apparire meno problematica"
+#* ''la donna appariva molto stanca''
+#* ''sul palco apparve il [[prestigiatore]]''
+#*'''''apparve''' un cane in lontananza''
+#*'''''apparve''' il sole''
+*(di astro) [[sorgere]], [[spuntare]], [[levarsi]], [[sbucare]], [[affacciarsi]]
+*(di persona) [[mostrarsi]], farsi vedere, [[presentarsi]], [[comparire]], [[manifestarsi]]; mettersi in vista, porsi al centro dell’attenzione
+*(di situazione, condizione) [[emergere]], [[evidenziarsi]]
+*[[sembrare]], [[parere]]
+* essere chiaro, essere evidente, [[risultare]], [[trasparire]]
+*[[parere]], [[sembrare]], [[spuntare]], [[sorgere]], [[presentarsi]], [[mostrarsi]], [[comparire]],  [[sorgere]], [[spuntare]]
+*(di astro) [[calare]], [[tramontare]]
+*(di persona) [[sparire]], [[scomparire]], [[svanire]], [[andarsene]], [[allontanarsi]]  
+M>appar</E
+M>par</E
+M>appàio</E
+M>apparisco</E
+M>appari</E
+M>apparisci</E
+M>appare</E
+M>apparisce</E
+M>appariamo</E
+M>appaiamo</E
+M>apparite</E
+M>appàiono</E
+M>apparìscono</E
+M>apparvi</E
+M>apparìi</E
+M>apparsi</E
+M>apparisti</E
+M>apparso</E
+M>apparito</E
+M>essere</E
+M>Donna m’apparve</E
+M>sotto verde manto</E
+M>cominciava ad a</E
+M>la luna</E
+M>alla fine apparve loro un’isoletta</E
+M>è apparsa una cometa</E
+M>apparve un angelo</E
+M>mi appare spesso in sogno mio padre</E
+M>triste</E
+M>addolorato</E
+M>voleva a</E
+M>più bella</E
+M>facile</E
+M>difficile</E
+M>ora la cosa m’appare più chiara</E
+M>dalle ricerche fatte appare che tutte le supposizioni sono infondate</E
+M>è un lavoro di grande pazienza</E
+M>ma che non apparisce</E
+M>l’oggetto appare più della creatura che lo porta</E
+M>comparire</E
+M>perché ti piace a</E
+M>ciò che non sei?</E

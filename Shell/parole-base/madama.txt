@@ -1,0 +1,22 @@
+madama.txt
+"Traduzione di madama/ non trovata.\nNo translation was found for madama/."
+*italiano
+*piemontese
+M>madame</E
+M>madonna</E
+M>m. reale</E
+M>signora</E
+M>le piace fare la m</E
+M>non è ancora rientrata madama?</E
+M>la volpe</E
+M>la mosca</E
+M>la marchesa</E
+M>la presidentessa</E
+M>attenzione</E
+M>arriva la madama!</E
+M>una m</E
+M>veniva proprio diretta verso di loro</E
+M>Punto madama</E
+M>punto Medici</E
+M>punto Caterina de’ Medici</E
+M>madamin</E

@@ -1,0 +1,11 @@
+canguro.txt
+"canguro"
+"ratto-canguro"
+M>kangourou</E
+M>kangaroo</E
+M>gigante</E
+M>Macropus giganteus</E
+M>rosso</E
+M>rufus</E
+M>robusto</E
+M>robustus</E

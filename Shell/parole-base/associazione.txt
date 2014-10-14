@@ -1,0 +1,82 @@
+associazione.txt
+"associazione"
+"associazione"
+"associazione a delinquere"
+"associazione agricoltori"
+"associazione ambientalista"
+"associazione benefica"
+"associazione commerciale"
+"associazione culturale"
+"associazione d'arte"
+"associazione di categoria"
+"associazione di difesa gratuita"
+"associazione di idee"
+"associazione di imprese"
+"associazione di parole"
+"associazione di ricerca"
+"associazione di società"
+"associazione di studenti meritevoli"
+"associazione di volontariato"
+"Associazione Genitori Insegnanti"
+"associazione in partecipazione"
+"associazione industriale"
+"associazione libera"
+"associazione municipale"
+"Associazione nazionale degli operatori in Borsa computerizzata"
+"Associazione per la difesa della natura e  salvaguardia di posti di interesse artistico e storico"
+"associazione sovversiva"
+"associazione studentesca"
+"associazione studentesca maschile"
+"associazione studentesca maschile"
+"associazione studentesca nei college"
+"contratto di associazione"
+"creare una associazione"
+"essere membro di un'associazione"
+"in associazione"
+"in associazione con"
+"YMCA (Associazione cristiana di giovani)"
+"YWCA (Associazione cristiana di giovani donne)"
+*[[società]], [[confederazione]], [[federazione]], [[unione]], [[lega]], [[collegio]], [[compagnia]], [[consorzio]], [[alleanza]], [[corporazione]], [[congregazione]], [[sodalizio]], [[setta]], 
+*[[gruppo]], [[circolo]], [[club]]
+*''(di idee)'' [[collegamento]]
+*[[separazione]], [[disunione]]
+*[[associativo]]
+*''
+*''associazione per delinquere''
+M>a un’impresa</E
+M>fare l’a</E
+M>al circolo sportivo</E
+M>quota di associazione</E
+M>diritto</E
+M>libertà di a</E
+M>in partecipazione</E
+M>associante</E
+M>associato</E
+M>libraria</E
+M>artistica</E
+M>scientifica</E
+M>sportiva</E
+M>di beneficenza</E
+M>sindacale</E
+M>politica</E
+M>religiose</E
+M>pubbliche</E
+M>a. private</E
+M>per</E
+M>delinquere</E
+M>di capitale e lavoro</E
+M>del lavoro</E
+M>di medicamenti</E
+M>fisse di farmaci</E
+M>di fatti</E
+M>d’immagini</E
+M>di sensazioni</E
+M>di ricordi</E
+M>d’idee</E
+M>non so per quale strana a</E
+M>d’idee</E
+M>mi venne a un tratto in mente quella vecchia soffitta</E
+M>crossing</E
+M>over</E
+M>alle carceri</E
+M>della salma alla chiesa funerante</E

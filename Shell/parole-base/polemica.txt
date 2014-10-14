@@ -1,0 +1,32 @@
+polemica.txt
+"alimentare una polemica"
+"con una leggera vena polemica"
+"persona polemica"
+"polemica"
+*[[controversia]], [[contrasto]], [[confronto]], [[contesa]], [[diatriba]], [[contraddittorio]]
+*discussione animosa, [[disputa]], [[attacco]], [[provocazione]]
+*[[questione]]
+*[[accordo]], [[consenso]]  
+M>polemico</E
+M>aprire</E
+M>chiudere una p</E
+M>impegnarsi in una p</E
+M>entrare</E
+M>essere in p</E
+M>con qualcuno</E
+M>sostenere un&#8217;opinione in p</E
+M>con altri</E
+M>una lunga</E
+M>interminabile</E
+M>fiera</E
+M>aspra p</E
+M>p. religiose</E
+M>teologiche</E
+M>nell&#8217;ardore della polemica</E
+M>la p</E
+M>non è il mio forte</E
+M>fare della p</E
+M>ricorrere alla p</E
+M>per favore</E
+M>lasciamo da parte le p</E
+M>la sua conversazione è una continua polemica</E

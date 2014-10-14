@@ -1,0 +1,15 @@
+bacca.txt
+"bacca"
+"bacca dell'alloro"
+"bacca di ginepro"
+#* ''sono '''bacche''' per esempio il [[pomodoro]], l'[[acino]] dell'[[uva]] e molti [[frutti di bosco]]'';
+#* '''''bacca''' di [[ginepro]]'', '''''bacca''' d'[[alloro]]'';
+*Dal 
+:* [[coccola]]
+*[[bagattella]], [[bagattino]], [[bagola]], [[baiocco]], [[bicchiere]], [[baccanico]]
+#* ''satiri e '''[[bacche]]''''' (Poliziano)
+*[[menade]]
+*[[baca|bāca]]
+M>bacca</E
+M>baca</E
+M>drupa</E

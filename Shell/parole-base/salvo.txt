@@ -1,0 +1,231 @@
+salvo.txt
+"essere salvo"
+"fatto salvo il diritto"
+"in salvo"
+"mettere in salvo"
+"mettere in salvo"
+"mettere in salvo"
+"salvo"
+"salvo"
+"salvo"
+"salvo buon fine"
+"salvo complicazioni"
+"Salvo eccezioni"
+"salvo errori ed omissioni"
+"salvo imprevisti"
+"salvo per un pelo!"
+"sano e salvo"
+"trarre in salvo"
+"tutto tranne, tutto eccetto, tutto salvo"
+#*''Posso resistere a qualsiasi cosa, '''salvo''' le tentazioni!''
+* (aggettivo) [[indenne]], [[incolume]]
+* (preposizione) [[eccetto]], [[escluso]]
+*[[salvare]]
+M>salvus</E
+M>salus</E
+M>è difficile uscire salvi da imprese di quel tipo</E
+M>l&#8217;aereo è stato costretto a un atterraggio di fortuna</E
+M> ma i passeggeri sono s.</E
+M>le ferite sono abbastanza gravi</E
+M> ma pare che gli organi vitali siano s.</E
+M>sano</E
+M>siamo rientrati a casa sani e s.</E
+M>è tornato dal viaggio sano e s.</E
+M>eccomi qua</E
+M> sano e salvo!</E
+M>Costor sian salvi infino a l&#8217;altro scheggio</E
+M>la carrozzeria è andata distrutta</E
+M> ma il motore è s.</E
+M>il pacco è arrivato sano e s.</E
+M>tutto è perduto</E
+M> ma l&#8217;onore è s.</E
+M>la sua reputazione è salva.</E
+M>il bambino è nato con difficoltà</E
+M> ma ormai è s.</E
+M>è ancora in camera di rianimazione</E
+M> ma è ormai s.</E
+M>grazie a Dio</E
+M> siamo s.</E
+M>se il vento si calma</E
+M> possiamo dirci s.</E
+M>sono salvo!</E
+M>pregavano perché la sua anima fosse s.</E
+M>chi ha fede sarà salvo.</E
+M>safe</E
+M>avere salva la vita</E
+M>lasciare</E
+M>promettere s. la vita a qualcuno</E
+M>tieni la bocca chiusa se vuoi s. la vita!</E
+M>a man salva</E
+M>rubare a man s.</E
+M>una galea di corsari sopravvenne</E
+M>la quale tutti a man salva gli prese</E
+M>in salvo</E
+M>siamo finalmente in s.</E
+M>è riuscito a mettere in s. i quadri più preziosi della sua collezione</E
+M>trarre in s.</E
+M>portare</E
+M>condurre in s.</E
+M>mettersi in s.</E
+M>si sono messi in s. espatriando clandestinamente.</E
+M>mettere</E
+M>tenere in s.</E
+M>deve prevalere l&#8217;interesse della comunità</E
+M> salvi tuttavia i diritti dei singoli</E
+M>si arresero</E
+M> salvi la vita e gli averi</E
+M>salvo il vero</E
+M>s. il vero</E
+M> la spesa si aggira sui cinquemila euro.</E
+M>sono stati promossi tutti</E
+M> salvo due o tre</E
+M>siamo d&#8217;accordo su ogni punto salvo la cifra</E
+M>salvo che sulla cifra</E
+M>s. arrivo</E
+M>salvo errori e omissioni</E
+M>S. E. e O.</E
+M>S. E. &amp; O.</E
+M>s. venduto</E
+M>salvo conferma</E
+M>salvo disdetta</E
+M>salvo imprevisti</E
+M>salvo rinuncia</E
+M>salvo</E
+M>cause di</E
+M>forza maggiore</E
+M>s. avviso</E
+M>s. buon fine</E
+M>s. incasso</E
+M>s. meglio</E
+M>che</E
+M>verrò di sicuro</E
+M> salvo che</E
+M>salvo se</E
+M>salvo il caso che</E
+M>non ci sia lo sciopero degli autobus</E
+M>fai ciò che ti sembra meglio</E
+M> salvo che non ti venga ordinato diversamente</E
+M>che</E
+M>ti telefonerò ogni tre o quattro giorni</E
+M> salvo ci sia</E
+M>salvo non ci sia</E
+M>qualcosa d&#8217;urgente</E
+M>salvo che</E
+M>Da indi in giuso</E
+M>è tutto ferro eletto</E
+M> Salvo che &#8217;l destro piede è terra cotta</E
+"essere salvo"
+"fatto salvo il diritto"
+"in salvo"
+"mettere in salvo"
+"mettere in salvo"
+"mettere in salvo"
+"salvo"
+"salvo"
+"salvo"
+"salvo buon fine"
+"salvo complicazioni"
+"Salvo eccezioni"
+"salvo errori ed omissioni"
+"salvo imprevisti"
+"salvo per un pelo!"
+"sano e salvo"
+"trarre in salvo"
+"tutto tranne, tutto eccetto, tutto salvo"
+#*''Posso resistere a qualsiasi cosa, '''salvo''' le tentazioni!''
+* (aggettivo) [[indenne]], [[incolume]]
+* (preposizione) [[eccetto]], [[escluso]]
+*[[salvare]]
+M>salvus</E
+M>salus</E
+M>è difficile uscire salvi da imprese di quel tipo</E
+M>l&#8217;aereo è stato costretto a un atterraggio di fortuna</E
+M> ma i passeggeri sono s.</E
+M>le ferite sono abbastanza gravi</E
+M> ma pare che gli organi vitali siano s.</E
+M>sano</E
+M>siamo rientrati a casa sani e s.</E
+M>è tornato dal viaggio sano e s.</E
+M>eccomi qua</E
+M> sano e salvo!</E
+M>Costor sian salvi infino a l&#8217;altro scheggio</E
+M>la carrozzeria è andata distrutta</E
+M> ma il motore è s.</E
+M>il pacco è arrivato sano e s.</E
+M>tutto è perduto</E
+M> ma l&#8217;onore è s.</E
+M>la sua reputazione è salva.</E
+M>il bambino è nato con difficoltà</E
+M> ma ormai è s.</E
+M>è ancora in camera di rianimazione</E
+M> ma è ormai s.</E
+M>grazie a Dio</E
+M> siamo s.</E
+M>se il vento si calma</E
+M> possiamo dirci s.</E
+M>sono salvo!</E
+M>pregavano perché la sua anima fosse s.</E
+M>chi ha fede sarà salvo.</E
+M>safe</E
+M>avere salva la vita</E
+M>lasciare</E
+M>promettere s. la vita a qualcuno</E
+M>tieni la bocca chiusa se vuoi s. la vita!</E
+M>a man salva</E
+M>rubare a man s.</E
+M>una galea di corsari sopravvenne</E
+M>la quale tutti a man salva gli prese</E
+M>in salvo</E
+M>siamo finalmente in s.</E
+M>è riuscito a mettere in s. i quadri più preziosi della sua collezione</E
+M>trarre in s.</E
+M>portare</E
+M>condurre in s.</E
+M>mettersi in s.</E
+M>si sono messi in s. espatriando clandestinamente.</E
+M>mettere</E
+M>tenere in s.</E
+M>deve prevalere l&#8217;interesse della comunità</E
+M> salvi tuttavia i diritti dei singoli</E
+M>si arresero</E
+M> salvi la vita e gli averi</E
+M>salvo il vero</E
+M>s. il vero</E
+M> la spesa si aggira sui cinquemila euro.</E
+M>sono stati promossi tutti</E
+M> salvo due o tre</E
+M>siamo d&#8217;accordo su ogni punto salvo la cifra</E
+M>salvo che sulla cifra</E
+M>s. arrivo</E
+M>salvo errori e omissioni</E
+M>S. E. e O.</E
+M>S. E. &amp; O.</E
+M>s. venduto</E
+M>salvo conferma</E
+M>salvo disdetta</E
+M>salvo imprevisti</E
+M>salvo rinuncia</E
+M>salvo</E
+M>cause di</E
+M>forza maggiore</E
+M>s. avviso</E
+M>s. buon fine</E
+M>s. incasso</E
+M>s. meglio</E
+M>che</E
+M>verrò di sicuro</E
+M> salvo che</E
+M>salvo se</E
+M>salvo il caso che</E
+M>non ci sia lo sciopero degli autobus</E
+M>fai ciò che ti sembra meglio</E
+M> salvo che non ti venga ordinato diversamente</E
+M>che</E
+M>ti telefonerò ogni tre o quattro giorni</E
+M> salvo ci sia</E
+M>salvo non ci sia</E
+M>qualcosa d&#8217;urgente</E
+M>salvo che</E
+M>Da indi in giuso</E
+M>è tutto ferro eletto</E
+M> Salvo che &#8217;l destro piede è terra cotta</E

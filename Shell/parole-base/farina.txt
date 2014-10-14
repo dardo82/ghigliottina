@@ -1,0 +1,87 @@
+farina.txt
+"cracker di farina di frumento"
+"farina"
+"farina"
+"farina d'avena"
+"farina d'orzo"
+"farina da pane"
+"farina del diavolo"
+"farina di grano"
+"farina di grano"
+"farina di grano"
+"farina di grano duro"
+"farina di grano saraceno"
+"farina di ossa"
+"farina di riso"
+"farina di sangue"
+"farina di soia"
+"farina glutinata"
+"farina integrale"
+"farina integrale"
+"farina per dolci"
+"fior di farina"
+"focaccina di farina di mais (Sud Stati Uniti)"
+"non essere farina del proprio sacco"
+"produrre farina"
+"ricco dolce composto da uova, burro, farina, per una libbra ciascuno, o comunque in parti uguali"
+*[[farinata]]
+*[[farinceo]]
+*''non è '''farina''' del tuo sacco''
+#* ''la pulenta la se fà cun la 
+* [[farinee]], [[farinus]]
+* ''el pan l'è faa de farina''
+* Italiano
+* lombardo
+* latino
+M>far</E
+M>far</E
+M>integrali</E
+M>abburattate</E
+M>alimentari</E
+M>lattee</E
+M>abburattare</E
+M>stacciare la f</E
+M>un sacco di f</E
+M>macinata fine</E
+M>di prima qualità</E
+M>fior di f</E
+M>per paste</E
+M>per pane</E
+M>d’orzo</E
+M>di segale</E
+M>di granturco</E
+M>gialla</E
+M>di castagne</E
+M>dolce</E
+M>di riso</E
+M>di fave</E
+M>di patate</E
+M>fecola</E
+M>di mandorle</E
+M>non è schietta f</E
+M>non è f</E
+M>del suo sacco</E
+M>non è f</E
+M>da far cialde</E
+M>da far ostie</E
+M>spacciare</E
+M>vendere semola per f</E
+M>le chiacchiere non danno f</E
+M>la f</E
+M>del diavolo va tutta in crusca</E
+M>quando Dio dà la f</E
+M>il diavolo ci leva il sacco</E
+M>chi ha la f</E
+M>il grano</E
+M>non ha le sacca</E
+M>e chi ha il sacco non ha la f</E
+M>il grano</E
+M>a can che lecca cenere non gli fidar farina</E
+M>di carne</E
+M>di pesce</E
+M>polvere</E
+M>d’ossa</E
+M>polvere</E
+M>di legno</E
+M>fossile</E
+M>di soda</E

@@ -1,0 +1,19 @@
+coincidere.txt
+"coincidere"
+"coincidere"
+M>coincidere</E
+M>inc</E
+M>coinci</E
+M>coincidésti</E
+M>coinci</E
+M>avere</E
+M>l’originale e la copia non coincidono</E
+M>la tua spiegazione del fatto coincide con la mia</E
+M>quest’anno</E
+M>la tua partenza per le ferie coincide con il mio rientro</E
+M>le due soluzioni non coincidono</E
+M>due piani paralleli aventi un punto in comune coincidono</E
+M>risultati</E
+M>soluzioni</E
+M>figure</E
+M>punti coincidenti</E

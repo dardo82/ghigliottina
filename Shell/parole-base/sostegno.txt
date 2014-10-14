@@ -1,0 +1,54 @@
+sostegno.txt
+"a sostegno di"
+"appoggio, sostegno, aiuto"
+"chiodo di sostegno"
+"dare sostegno"
+"dare sostegno"
+"insegnante di sostegno"
+"politiche di sostegno"
+"ritirare il tuo sostegno"
+"sostegno"
+"sostegno"
+"sostegno finanziario"
+"sostegno finanziario"
+"sostegno morale"
+"sostegno per, appoggio in favore di, tifo per"
+"sostegno, colonna, persona affidabile"
+"struttura di sostegno"
+M>sostenere</E
+M>sostenh</E
+M>sostener</E
+M>il tetto</E
+M> venuto a mancare il s.</E
+M> è crollato</E
+M>questo ballatoio ha bisogno di s. più solidi</E
+M>una trave</E
+M>un pilastro di s.</E
+M>uno sperone a s. delle mura</E
+M>ti appoggia Agli origlieri</E
+M> i quai</E
+M> lenti gradando</E
+M> All&#8217;omero ti fan molle s.</E
+M>sostegno</E
+M>tutore</E
+M>s. vivi</E
+M>s. morti</E
+M>muro di s.</E
+M>a sostegno</E
+M>di sostegno</E
+M>è stato lui il s. della famiglia</E
+M>non gli è mai mancato il s. del padre</E
+M>nella sofferenza</E
+M> non gli è venuto mai meno il s. della fede</E
+M>l&#8217;aviazione è intervenuta a s. delle truppe terrestri</E
+M>ha addotto nuovi argomenti a s. della propria tesi</E
+M>prezzi di s.</E
+M>acquisti di s.</E
+M>mediano</E
+M>s. destro</E
+M>s. sinistro</E
+M>centro s.</E
+M>centrosostegno</E
+M>Insegnante di s.</E
+M>terapia di s.</E
+M>psicoterapia di s.</E

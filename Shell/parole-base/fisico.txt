@@ -1,0 +1,84 @@
+fisico.txt
+"abbattimento fisico"
+"amore fisico"
+"aspetto fisico"
+"Avere il fisico"
+"contatto fisico"
+"corpo fisico"
+"deperimento fisico"
+"deterioramento fisico"
+"disagio fisico"
+"dolore fisico"
+"esercizio (fisico)"
+"esercizio fisico"
+"essere in contatto fisico"
+"fare molto esercizio fisico"
+"fisico"
+"fisico"
+"fisico"
+"fisico"
+"fisico nucleare"
+"fisico prestante"
+"fisico sanitario"
+"limite fisico"
+"mondo fisico"
+"mondo fisico"
+"piacere fisico"
+"stilare il profilo comportamentale e fisico di qlc."
+"vigore fisico"
+*[[naturale]], [[fenomenico]]; [[terreno]], [[sensibile]]; [[reale]], [[concreto]], [[tangibile]]
+*[[corporeo]], [[fisiologico]], [[carnale]], [[sensuale]]
+*[[metafisico]], [[spirituale]]; [[astratto]], [[irreale]] 
+*[[ spirituale]], [[morale]], [[intellettuale]] 
+* [[mente]], [[spirito]]
+*[[metafisico]],[[fisicamente]]
+m>phys</e
+m>cus</e
+m>leggi f</e
+m>ricerche f</e
+m>fenomeni f</e
+m>geografia f</e
+m>fenomeno f</e
+m>stato f</e
+m>fisico</e
+m>chimico</e
+m>fisicochimico</e
+m>fisico</e
+m>matematico</e
+m>fisicomatematico</e
+m>morale</e
+m>forza f</e
+m>robustezza</e
+m>prestanza f</e
+m>curare la salute f</e
+m>il benessere f</e
+m>avere un lieve difetto f</e
+m>provava per lui una ripugnanza f</e
+m>educazione f</e
+m>corporeo</e
+m>spirituale</e
+m>l&rsquo;amore f</e
+m>provava per lei una viva attrazione f</e
+m>un interesse puramente fisico</e
+m>sentirsi abbattuto nel fisico e nel morale</e
+m>la f</e
+m>e reale autorità delle leggi</e
+m>argomento f</e
+m>fisicoteologico</e
+m>un illustre f</e
+m>un convegno di f</e
+m>nucleari</e
+m>dottor f</e
+m>medico f</e
+m>chirurgo</e
+m>avere un bel f</e
+m>un f</e
+m>disgraziato</e
+m>avere cura del proprio fisico</e
+m>studiare</e
+m>spiegare fisicamente un fenomeno</e
+m>amarsi fisicamente</e
+m>una donna fisicamente molto interessante</e
+m>un uomo fisicamente ancora giovane</e
+m>fisicamente molto invecchiato</e
+m>sentirsi fisicamente bene</e

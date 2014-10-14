@@ -1,0 +1,33 @@
+tuta.txt
+"in tuta"
+"pantaloni della tuta"
+"tuta"
+"tuta"
+"tuta blu"
+"tuta da ginnastica"
+"tuta da ginnastica"
+"tuta da ginnastica"
+"tuta da meccanico"
+"tuta spaziale"
+"tuta spaziale"
+"tuta subacquea"
+*[[casacca]], [[divisa]]
+m>tout-de-même</e
+m>t. da lavoro</e
+m>una t. blu</e
+m>azzurra</e
+m>grigia</e
+m>le t. blu</e
+m>indossare</e
+m>togliersi la t.</e
+m>t. di amianto</e
+m>t. di gomma</e
+m>di sostanze plastiche</e
+m>t. sportiva</e
+m>t. per corridori motociclisti</e
+m>automobilistici</e
+m>t. per militari</e
+m>t. impermeabili</e
+m>t. mimetiche</e
+m>t. spaziali</e
+m>t. di volo</e

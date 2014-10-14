@@ -1,0 +1,51 @@
+trasparente.txt
+"calotta trasparente"
+"carta trasparente per ricalcare"
+"colore trasparente"
+"condotta trasparente"
+"involucro trasparente"
+"non trasparente"
+"non trasparente"
+"plastica trasparente"
+"trasparente"
+"trasparente"
+"trasparente"
+*''(di corpo, acqua, aria)'' [[chiaro]], [[limpido]], [[luminoso]], [[brillante]], [[pulito]], [[cristallino]], [[puro]], [[terso]], [[sereno]], [[azzurro]], [[libero]], [[sgombro]], [[nitido]]
+*[[diafano]], [[traslucido]]
+*[[complicato]], [[complesso]], [[contorto]], [[disonesto]], [[immorale]], [[falso]], [[insincero]],[[scuro]], [[buio]], [[disonesto]], [[immorale]], [[falso]], [[insincero]]
+*''(di acqua)'' [[opaco]], [[torrido]]
+*[[trasparenza]], [[trasparire]]
+M>transparens -entis</E
+M>trans-</E
+M>parere</E
+M>corpo opaco</E
+M>corpi t.</E
+M>materiali</E
+M>sostanze t.</E
+M>vetro</E
+M>plastica t.</E
+M>una carta t.</E
+M>uno schermo t.</E
+M>una carta da lettere troppo t.</E
+M>una gonna</E
+M>una maglietta t.</E
+M>colori t.</E
+M>una fetta di salame</E
+M>di prosciutto t.</E
+M>questa fettina d&#8217;arrosto è proprio trasparente!</E
+M>dopo la malattia sembra t.</E
+M>a furia di fare diete dimagranti diventerai trasparente</E
+M>il significato del suo discorso è t.</E
+M>una metafora t.</E
+M>l&#8217;allusione era t.</E
+M>una prosa t.</E
+M>una persona t.</E
+M>un animo t.</E
+M>un uomo dal passato trasparente</E
+M>una vita privata t.</E
+M>un bilancio t.</E
+M>assunzioni fatte in base a un concorso t.</E
+M>parlare</E
+M>scrivere</E
+M>esprimersi</E
+M>alludere trasparentemente</E

@@ -1,0 +1,23 @@
+appartenenza.txt
+"appartenenza"
+"identità di appartenenza"
+"insieme di appartenenza"
+"organizzazione di appartenenza"
+M>appartenere</E
+M>appertinentia</E
+M>l’a</E
+M>a un partito politico</E
+M>a un gruppo</E
+M>a una classe sociale</E
+M>prese tutto ciò che era di sua appartenenza</E
+M>vendette la villa con tutte le sue a</E
+M>l’appartenenze che si richieggono al ben recitare d’una commedia</E
+M>converrà ch’io sappia mille sottilissimi segreti del cuoio</E
+M>delle suole</E
+M>degli spaghi</E
+M>e di tante altre a</E
+M>del suo mestiere</E
+M>relazioni di a</E
+M>giacere</E
+M>passare</E
+M>relazione d’a</E

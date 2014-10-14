@@ -1,0 +1,38 @@
+ingrandire.txt
+"allargare, ingrandire"
+"ingrandire"
+"ingrandire"
+#*''ho voluto ingrandire quella bella fotografia''
+#*''ha voluto ingrandire quanto accaduto''
+*[[aumentare]], [[accrescere]], [[allargare]], [[ampliare]], [[estendere]], [[ingigantire]], [[ingrossare]], [[dilatare]], [[sviluppare]], [[espandere]], [[maggiorare]], [[incrementare]]
+*[[diminuire]], [[ridurre]], [[rimpicciolire]], [[restringere]], [[calare]]
+*[[ingrandirsi]]
+*[[menomare]], [[attenuare]], [[aumentare]]
+M>io ingrandisco</E
+M>tu ingrandisci</E
+M>e abbellire una città</E
+M>un negozio</E
+M>un’azienda</E
+M>lo stato</E
+M>il regno</E
+M>l’impero</E
+M>un cannocchiale che ingrandisce molto</E
+M>poco</E
+M>che ingrandisce 12 volte</E
+M>0 volte</E
+M>microrganismi non visibili</E
+M>se non siano ingranditi al microscopio</E
+M>la paura ingrandisce i pericoli</E
+M>è una bella istantanea</E
+M>dovresti farla ingrandire!</E
+M>la protezione del principe lo ingrandì</E
+M>il grande successo ottenuto lo ingrandiva nella stima dei contemporanei</E
+M>essere</E
+M>ho visto suo figlio:</E
+M>com’è ingrandito!</E
+M>un’impresa commerciale che è rapidamente ingrandita</E
+M>la città si è molto ingrandita negli ultimi anni</E
+M>il pericolo s’ingrandisce</E
+M>si sono molto ingranditi dopo aver avuto l’eredità</E
+M>vedo che ti sei ingrandito</E
+M>una copia ingrandita</E

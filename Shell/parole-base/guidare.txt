@@ -1,0 +1,73 @@
+guidare.txt
+"continuare a guidare"
+"continuare a guidare"
+"dirigere, guidare, controllare"
+"guidare"
+"guidare"
+"guidare"
+"guidare"
+"guidare fuori strada"
+"guidare un autobus"
+"lasciarsi guidare da qualcuno"
+"volare a bassa quota; guidare velocemente"
+*[[accompagnare]], fare da guida, fare strada, [[scortare]]
+* essere a capo, [[capeggiare]], [[amministrare]]
+* (veicoli) [[condurre]], [[pilotare]]
+* farsi trasportare, farsi trainare, farsi rimorchiare
+*[[dirigere]], [[comandare]]
+*[[guidamento]]
+* ''Chi sa la strada '''guidi''', chi non la sa si fidi''
+M>guidar</E
+M>una comitiva</E
+M>un amico</E
+M>alla visita di una città</E
+M>di un museo</E
+M>per luoghi sconosciuti</E
+M>i soldati all’assalto</E
+M>un cieco</E
+M>le stelle guidavano gli antichi marinai</E
+M>smarritosi nella notte</E
+M>si lasciava g</E
+M>da una luce lontana</E
+M>la mano di qualcuno</E
+M>un arnese</E
+M>uno strumento</E
+M>i popoli</E
+M>un esercito</E
+M>un’impresa</E
+M>un’azienda</E
+M>le danze</E
+M>l’orchestra</E
+M>i giovani</E
+M>Avete il novo e ’l vecchio Testamento</E
+M>E ’l pastor de la Chiesa che vi guida</E
+M>norme precise che guidano nei casi dubbiosi</E
+M>le idee che guidarono gli uomini del Risorgimento</E
+M>la nazione verso la pace</E
+M>al benessere</E
+M>la virtù guida gli uomini a Dio</E
+M>i giovani al gusto dell’arte</E
+M>una pratica negl’intricati meandri della burocrazia</E
+M>un giovinetto pisano chiamato Lorenzo che tutti i lor fatti guidava e faceva</E
+M>rimasto solo</E
+M>dovette guidarsi da sé</E
+M>non gli fu facile guidarsi in quell’ambiente pieno di invidie e di gelosie</E
+M>una punta scrivente lungo una circonferenza</E
+M>la mano di un cieco</E
+M>i cavalli</E
+M>una pariglia</E
+M>un bel tiro a otto</E
+M>la carrozza</E
+M>la motocicletta</E
+M>l’automobile</E
+M>in porto una nave</E
+M>pilotare</E
+M>sapere</E
+M>non sapere g</E
+M>sto imparando a g</E
+M>bene</E
+M>male</E
+M>con sicurezza</E
+M>come un incosciente</E
+M>esercizî guidati</E
+M>onde guidate</E

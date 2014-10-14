@@ -1,0 +1,117 @@
+parete.txt
+"apparecchio d'illuminazione a parete"
+"armadietto da parete"
+"bloccare contro la parete"
+"parete"
+"parete"
+"parete"
+"parete"
+"parete a scrigno"
+"parete attrezzata"
+"parete cellulare"
+"parete del precipizio"
+"parete di fondo"
+"parete divisoria"
+"parete nuda"
+"parete rocciosa"
+"parete verticale"
+"scalata di una parete"
+"tenda a parete"
+*[[muro]], [[pannello]], [[tramezzo]], [[divisorio]]
+*''(di montagna)'' [[versante]], [[fiancata]], [[costone]], [[pendio]]
+*''(dello zoccolo del cavallo)'' [[muraglia]]
+M>pares</E
+M>ètis</E
+M>paries</E
+M>tis</E
+M>innalzare</E
+M>abbattere una p</E
+M>divisoria</E
+M>comune</E
+M>grossa</E
+M>robusta</E
+M>sottile</E
+M>di mattoni</E
+M>le p</E
+M>della casa</E
+M>delle stanze</E
+M>del salone</E
+M>del corridoio</E
+M>intonacare</E
+M>imbiancare</E
+M>tappezzare le p</E
+M>si è aperta una crepa nella p</E
+M>appendere un quadro alla p</E
+M>stare appoggiato alla p</E
+M>collocare un divano lungo la parete</E
+M>le p</E
+M>domestiche</E
+M>tra le p</E
+M>domestiche</E
+M>p. continue</E
+M>p. mobili</E
+M>trave</E
+M>parete</E
+M>le p</E
+M>di una capanna</E
+M>di una cabina</E
+M>le p</E
+M>di una vettura ferroviaria</E
+M>della carrozzeria di un&#8217;autovettura</E
+M>fiancate</E
+M>le p</E
+M>di una grotta</E
+M>le p</E
+M>di una strada incassata nel monte</E
+M>Con l&#8217;ali aperte</E
+M>che parean di cigno</E
+M>Volseci in sù colui che sì parlonne Tra due pareti del duro macigno</E
+M>le p</E
+M>di una scatola</E
+M>di una cassa</E
+M>di un baule</E
+M>la p</E
+M>esterna di un vaso</E
+M>di un bicchiere</E
+M>la p</E
+M>del tubo ha ceduto alla pressione dell&#8217;acqua</E
+M>la p</E
+M>dell&#8217;addome</E
+M>del torace</E
+M>toracica</E
+M>la p</E
+M>dello stomaco</E
+M>le p</E
+M>interne</E
+M>esterne delle vene</E
+M>delle arterie</E
+M>la p</E
+M>interna della volta cranica</E
+M>la p</E
+M>esterna del cuore</E
+M>perforazione della p</E
+M>intestinale</E
+M>del timpano</E
+M>cellulare</E
+M>primaria</E
+M>secondaria</E
+M>muraglia</E
+M>Dinne com&#8217;è che fai di te parete Al sol</E
+M>pur come tu non fossi ancora Di morte intrato dentro da la rete</E
+M>muro</E
+M>una p</E
+M>di odio</E
+M>di diffidenza</E
+M>s&#8217;era formata tra loro una p</E
+M>di silenzio</E
+M>li divide una p</E
+M>d&#8217;incomprensione</E
+M>paretaio</E
+M>la p</E
+M>nord del Cervino</E
+M>la p</E
+M>sud della Marmolada</E
+M>andare all&#8217;attacco di una p</E
+M>scalare una p</E
+M>fare un bivacco in p</E
+M>effettuare un salvataggio in parete</E

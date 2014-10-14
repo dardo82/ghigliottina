@@ -1,0 +1,48 @@
+visibile.txt
+"ciò che è visibile"
+"essere non visibile"
+"essere visibile"
+"non visibile"
+"non visibile"
+"non visibile"
+"radiazione visibile"
+"rendere visibile"
+"spettro visibile"
+"visibile"
+"visibile"
+"visibile al buio"
+#*'' vorrei vedere il visibile di questo museo'' 
+*[[chiaro]]
+*[[invisibile]] 
+*[[visibilmente]], [[visibilità]]
+* [[vedere]]
+M>visib</E
+M>lis</E
+M>videre</E
+M>visus</E
+M>di lassù il promontorio è v. anche a occhio nudo</E
+M>astri v.</E
+M>non v. dal nostro emisfero</E
+M>disponi il cartello in modo che sia ben v.</E
+M>microrganismi v. solo col microscopio elettronico</E
+M>garantire l’animale venduto da difetti v. e non v.</E
+M>il mondo v.</E
+M>mondo invisibile</E
+M>Credo</E
+M>campo delle radiazioni v.</E
+M>campo del visibile</E
+M>incorrere in un v. errore</E
+M>prendere un v. abbaglio</E
+M>era in preda a una v. eccitazione</E
+M>la mostra è v. in ore stabilite</E
+M>il quadro non è per ora v</E
+M> perché in restauro</E
+M>un film non v. ai minori.</E
+M>ho visto il v.</E
+M>levai le mani inver’ la cima De le mie ciglia</E
+M>e fecimi ’l solecchio</E
+M> Che del soverchio visibile lima</E
+M>Venere apparve visibilmente ad Enea in figura di cacciatrice</E
+M>essere visibilmente irritato</E
+M>contrariato</E
+M>commosso</E

@@ -1,0 +1,31 @@
+bacchetta.txt
+"bacchetta"
+"bacchetta"
+"bacchetta"
+"bacchetta da rabdomante"
+"bacchetta del rabdomante"
+"bacchetta magica"
+"bacchetta magica"
+"comandare a bacchetta"
+"comandare a bacchetta"
+"comandare qcn a bacchetta"
+"comandare qcn a bacchetta"
+*[[bastoncino]], [[bastone]], [[canna]], [[verga]], [[asta]], [[astina]], [[stecca]],[[asticciola]]
+*[[appoggiamano]]
+*[[bacchettata]]
+* a bacchetta  
+M>bac</E
+M>lum</E
+M>lasciare</E
+M>gettare la b</E
+M>comandare a bacchetta</E
+M>quando sarai madre badessa</E
+M>allora comanderai a b</E
+M>bàttito</E
+M>magica</E
+M>da rabdomante</E
+M>dell’arco</E
+M>hickory</E
+M>dita a b. di tamburo</E
+M>tondino</E
+M>cucitura a b.</E

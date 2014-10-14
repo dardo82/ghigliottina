@@ -1,0 +1,92 @@
+fiume.txt
+"ansa del fiume"
+"argine del fiume"
+"barca da fiume"
+"controllo della portata di acque di un fiume attraverso dighe"
+"fiume"
+"fiume"
+"fiume"
+"fiume"
+"fiume di lacrime"
+"fiume di parole"
+"fiume navigabile"
+"fiume Niagara"
+"fiume Nilo"
+"fiume Ob"
+"fiume Ohio"
+"Fiume Orange"
+"fiume perduto"
+"fiume Po"
+"Fiume Rosso"
+"fiume Salmon"
+"fiume sotterraneo"
+"in piena (di fiume)"
+"la via del fiume"
+"le acque del fiume"
+"letto di un fiume"
+"pesce di fiume"
+"risalire il fiume"
+"sorgente di un fiume"
+"sponda del fiume"
+"sponda di un fiume"
+"trota di fiume"
+#* ''Ha scritto un romanzo '''fiume'''.''
+#* ''È stata una seduta '''fiume'''.''
+#* ''Ha pianto un '''fiume''' di lacrime.''
+#* ''Un '''fiume''' di persone è entrato allo stadio.''
+* ''(liquido che scorre in abbondanza)'' [[marea]], [[massa]], [[ondata]]
+* ''(grande quantità in movimento)'' [[fiumana]], [[moltitudine]], [[profusione]]
+* [[a fiumi]], [[fiumana]], fiume conseguente, fiume pensile, fiume susseguente, [[fiumone]]
+* [[alveo]], [[argine]], [[canale]], [[foce]], [[lago]], [[letto]], [[magra]], [[mare]], [[piena]], [[portata]], [[regime]], [[risorgiva]], [[riva]], [[ruscello]], [[sorgente]], [[torrente]]
+* ''(corso d'acqua)'' [[affluente]]
+* ''(grande quantità in movimento)'' [[calca]], [[folla]]
+*''riunione fiume''
+* ''Tutti i '''fiumi''' vanno al mare''
+* '''''fiume''' in piena''
+* '''''fiume''' in magra''
+* ''versare '''fiumi''' d'inchiostro'', ''versare '''fiumi''' di parole''
+* ''versare '''fiumi''' di sangue''
+M>men</E
+M>flu</E
+M>il f</E
+M>il f</E
+M>Arno</E
+M>il f</E
+M>Tamigi</E
+M>la sorgente</E
+M>la foce di un f</E
+M>navigabile</E
+M>in piena</E
+M>in magra</E
+M>tutti i f</E
+M>vanno al mare</E
+M>conseguente</E
+M>susseguente</E
+M>di risorgiva</E
+M>pensile</E
+M>portata di un f</E
+M>regime di un f</E
+M>Romper le pietre</E
+M>e trar del monte aperto Un vivo f</E
+M>un f</E
+M>di sangue</E
+M>versare un f</E
+M>di lacrime</E
+M>a che pur versi Degli occhi tristi un doloroso f</E
+M>fiumi d’inchiostro sono stati versati su quest’argomento</E
+M>fiumi di gente si riversavano da ogni parte</E
+M>un f</E
+M>di automezzi attraversò il confine</E
+M>un f</E
+M>di parole</E
+M>i f</E
+M>della sua eloquenza</E
+M>Or se’ tu quel Virgilio e quella fonte Che spandi di parlar sì largo f</E
+M>a fiumi</E
+M>per festeggiare la vittoria</E
+M>il vino fu bevuto a fiumi quella notte</E
+M>romanzo f.</E
+M>discorso f.</E
+M>un processo f.</E
+M>una seduta f.</E
+M>romanzo-f.</E

@@ -1,0 +1,213 @@
+mandare.txt
+"convocare; mandare a chiamare"
+"gestire, mandare avanti"
+"inviare, mandare"
+"mandare"
+"mandare"
+"mandare"
+"mandare a casa qualcuno"
+"mandare a chiamare"
+"mandare a dire"
+"mandare a dire"
+"mandare a dormire"
+"mandare a memoria"
+"mandare a monte"
+"mandare a picco"
+"mandare a puttane qs"
+"mandare a quel paese"
+"mandare a scuola"
+"mandare ai matti"
+"mandare al diavolo qn"
+"mandare al galoppo"
+"mandare alla sbarra"
+"mandare avanti"
+"mandare avanti"
+"mandare avanti"
+"mandare avanti"
+"mandare avanti"
+"mandare avanti"
+"mandare avanti qualcuno"
+"mandare con la testa (palla in rete; ad es.)"
+"mandare delle interferenze"
+"mandare fuori"
+"mandare fuori di testa qualcuno"
+"mandare giù"
+"mandare gli accidenti"
+"mandare i saluti"
+"mandare in appello"
+"mandare in autobus"
+"mandare in bestia"
+"mandare in bestia qcn"
+"mandare in bianco"
+"mandare in buca (golf)"
+"mandare in buca (golf)"
+"mandare in frantumi"
+"mandare in pezzi"
+"mandare indietro l'orologio"
+"mandare la fattura"
+"mandare qcs a puttane, fottere qcs"
+"mandare qualcuno a prendere qualcosa"
+"mandare qualcuno avanti e indietro"
+"mandare qualcuno avanti e indietro"
+"mandare un bacio."
+"mandare un biglietto"
+"mandare una lettera a"
+"mandare una lettera infuocata"
+"mandare via"
+"mandare via"
+"mandare via"
+"mandare via per"
+"mandare via qualcosa"
+"mandare via qualcuno"
+"mandare, andare in onda"
+#*''ho mandato Enrico a fare la spesa per tutti''
+#*''ero intrappolato nell'ascensore,ho dovuto mandare un urlo per farmi sentire''
+*[[inviare]], [[spedire]], [[indirizzare]], [[rimettere]]
+*[[ricevere]], [[ottenere]] 
+*[[rimandare]]
+*''mandare a monte''
+M>mandare</E
+M>man</E
+M>dare</E
+M>incontanente mandò che i due giovani fossero dal palo sciolti</E
+M>mandando a chiunque spetti di osservarlo e di farlo osservare</E
+M>è l’ora di m. i bambini a letto</E
+M>lo mandarono a combattere in prima linea</E
+M>fu mandato in esilio</E
+M>Giudica e manda secondo ch’avvinghia</E
+M>giudica e manda</E
+M>manda</E
+M>missionario mandato in Africa a predicare il Vangelo</E
+M>uomo mandato da Dio</E
+M>dalla Provvidenza</E
+M>il senato lo mandò proconsole in Africa</E
+M>fu mandato ambasciatore a Mosca</E
+M>lo mandarono all’Aquila commissario</E
+M>come commissario</E
+M>d’esami</E
+M>mamma</E
+M>mi mandi al cinema</E
+M>a ballare</E
+M>oggi?</E
+M>mandò</E
+M>ambasciatori</E
+M>a chiedere la pace</E
+M>manda a chiamare il medico</E
+M>l’idraulico</E
+M>manda per un medico</E
+M>per l’idraulico</E
+M>a dire</E
+M>non glielo mandai a dire dietro</E
+M>a dire</E
+M>mandar dicendo</E
+M>Madonna Francesca ti manda dicendo che ora è venuto il tempo</E
+M>mandare</E
+M>avendogli ella il dì mandato che egli a cena</E
+M>con lei andasse</E
+M>chi vuole vada e chi non vuole mandi</E
+M>via</E
+M>l’hanno mandato via dopo il mese di prova</E
+M>dopo un breve colloquio lo mandò via</E
+M>lo mandò</E
+M>a mani vuote ma pieno di buone speranze</E
+M>lo mandò in santa pace</E
+M>con Dio</E
+M>in giro</E
+M>lo manda in giro dalla mattina alla sera</E
+M>lo manda in giro con questa stagione</E
+M>lo manda in giro vestito come un pezzente</E
+M>mandò in dono alla sposa un vassoio d’argento</E
+M>per la sua festa le manderò un mazzo di fiori</E
+M>un biglietto di augurî</E
+M>un telegramma</E
+M>mi hanno mandato un volume in omaggio</E
+M>per corriere</E
+M>per posta</E
+M>per vaglia</E
+M>per pacco postale</E
+M>per raccomandata</E
+M>Ti mando saluti affettuosi</E
+M>un bacio</E
+M>un abbraccio</E
+M>un bacio</E
+M>augurî</E
+M>felicitazioni</E
+M>un sacco di accidenti</E
+M>di maledizioni</E
+M>Elettra</E
+M>a Giove Mandò il voto supremo</E
+M>mandò loro un dolce sonno</E
+M>Dio manda il freddo secondo i panni</E
+M>piove come Dio la manda</E
+M>che Dio ce la mandi buona</E
+M>la palla oltre la rete</E
+M>la palla</E
+M>la freccia lontano</E
+M>un cavo</E
+M>il vento manda le onde contro gli scogli</E
+M>con manovra sbagliata ha mandato l’automobile a sbattere contro il muro</E
+M>dentro</E
+M>via</E
+M>giù</E
+M>fuori</E
+M>mandare giù</E
+M>non ho fame</E
+M>non riesco a mandar giù un boccone</E
+M>risolvette di mandar giù qualunque cosa piacesse all’altro di dire</E
+M>una cosa</E
+M>una persona che non riesco a m</E
+M>giù</E
+M>il mostro mandava fuoco dalle narici</E
+M>una voce</E
+M>un gemito</E
+M>un lamento</E
+M>un’imprecazione</E
+M>il leone mandò un ruggito</E
+M>un legno che bruciando manda buon odore</E
+M>la stufa mandava un calore discreto</E
+M>l’acqua che manda la macina del mulino</E
+M>non c’è vento sufficiente per m</E
+M>la barca</E
+M>Una macchina a vapore per mandar la ghigliottina</E
+M>non gliene manda una buona</E
+M>andare</E
+M>all’aria</E
+M>avanti</E
+M>avanti l’azienda</E
+M>avanti la baracca</E
+M>la barca</E
+M>ho mandato in disuso e in dimenticanza le fatiche e gli esercizi che giovano al ben essere corporale</E
+M>a compimento</E
+M>a effetto qualche cosa</E
+M>in estasi</E
+M>in fumo</E
+M>per le lunghe</E
+M>al macello</E
+M>in malora</E
+M>alla malora</E
+M>al diavolo</E
+M>all’inferno</E
+M>a quel paese</E
+M>a farsi friggere</E
+M>a farsi benedire</E
+M>a monte</E
+M>a carte quarantotto</E
+M>a morte</E
+M>all’altro mondo</E
+M>al creatore</E
+M>tra i più</E
+M>mettere</E
+M>in onda</E
+M>a picco</E
+M>a fondo</E
+M> una nave</E
+M>a riva</E
+M>in rovina</E
+M>a rotoli)</E
+M>; m</E
+M>in visibilio</E
+M>a vuoto</E
+M>a mente</E
+M>a memoria</E
+M>qualcuno da Erode a Pilato</E
+M>i mandati dell’imperatore</E

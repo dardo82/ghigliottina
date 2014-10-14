@@ -1,0 +1,6 @@
+quantità.txt
+#*''calcolare l'esatta 
+#* ''nella piazza c'era un'enorme 
+*[[numero]], [[misura]], [[dose]], [[peso]], [[grandezza]], [[volume]], [[massa]], [[entità]], [[somma]], [[parte]], [[quota]], [[cifra]], [[serie]], [[tot]], [[quantum]], [[quid]], [[tanto]], [[ esagerazione]], [[enormità]], [[moltitudine]]
+*[[insufficienza]], [[limitatezza]], [[mancanza]], [[poco]], [[pezzetto]], [[pizzico]]
+*[[quantificare]], [[quantificazione]], [[quantitativamente]], [[quantitativo]], [[quanto]]

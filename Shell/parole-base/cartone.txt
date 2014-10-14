@@ -1,0 +1,33 @@
+cartone.txt
+"cartone"
+"cartone"
+"cartone"
+"cartone animato"
+"cartone compresso"
+"cartone di latte"
+"cartone incollato"
+"limetta di cartone"
+"ti do un cartone sul naso"
+"tipo di cartone"
+#*''cartone animato'', [[opera]] [[audiovisiva]] d'[[animazione]]
+*[[ contenitore]], [[confezione]]
+*[[cartonare]], [[cartoncino]], [[cartone animato]], [[cartongesso]], [[cartonificio]], [[cartonista]]
+M>carta</E
+M>scatole</E
+M>astucci</E
+M>custodie di c.</E
+M>uomo di c</E
+M>un eroe di c</E
+M>ondulato</E
+M>catramato</E
+M>bitumato</E
+M>fibra</E
+M>i c</E
+M>di Raffaello per la Scuola di Atene</E
+M>animati</E
+M>animated cartoons</E
+M>cartoon</E
+M>disegni animati</E
+M>un c</E
+M>di barolo</E
+M>di chianti riserva</E

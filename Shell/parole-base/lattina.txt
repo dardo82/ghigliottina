@@ -1,0 +1,13 @@
+lattina.txt
+"lattina"
+"lattina spray"
+"lattina vuota"
+M>latta</E
+M>una l</E
+M>d’olio d’oliva</E
+M>birra</E
+M>vino in lattina</E
+M>consumare mezza l</E
+M>d’olio</E
+M>bere una l</E
+M>d’aranciata</E

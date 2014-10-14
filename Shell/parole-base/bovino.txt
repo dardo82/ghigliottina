@@ -1,0 +1,5 @@
+bovino.txt
+"bovino"
+"bovino"
+"bovino"
+"carne di bovino"

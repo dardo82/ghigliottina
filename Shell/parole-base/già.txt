@@ -1,0 +1,4 @@
+già.txt
+#*''ho '''già''' letto quel libro''
+#*«''La guerra non è mai giusta''», «'''''Già'''''»
+#*«''Ci sono stati problemi?''», «'''''Già'''''»

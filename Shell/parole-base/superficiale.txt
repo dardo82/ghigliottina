@@ -1,0 +1,58 @@
+superficiale.txt
+"comportamento politico, superficiale"
+"esonerare attraverso investigazione superficiale o presentando informazioni parziali"
+"facile, semplice, superficiale"
+"ferita superficiale"
+"superficiale"
+"superficiale"
+"tensione superficiale"
+"una persona superficiale"
+*[[leggero]]
+M>superficialis</E
+M>superficies</E
+M>la parte s. di un corpo</E
+M>di un oggetto</E
+M>gli strati s. dell&#8217;epidermide</E
+M>della corteccia</E
+M>del terreno</E
+M>della crosta terrestre</E
+M>acque s.</E
+M>acque di superficie</E
+M>energia s.</E
+M>tensione s.</E
+M>stato s.</E
+M>segmentazione s.</E
+M>meroblastica</E
+M>linguistica s.</E
+M>della norma</E
+M>linguistica pro-fonda</E
+M>sistemica</E
+M>struttura s.</E
+M>struttura profonda</E
+M>un&#8217;incisione s.</E
+M>ferita s.</E
+M>la macchia d&#8217;umido è soltanto s.</E
+M>fare una pulizia s.</E
+M>dare un&#8217;occhiata s. ai rendiconti</E
+M>fare una lettura</E
+M>un esame s.</E
+M>la tua è un&#8217;osservazione molto s.</E
+M>il fatto darebbe nell&#8217;occhio anche a un osservatore s. e frettoloso</E
+M>della materia ho solo una conoscenza s.</E
+M>nozioni</E
+M>cognizioni s.</E
+M>istruzione</E
+M>cultura superficiale</E
+M>leggero</E
+M>fatuo</E
+M>è un uomo</E
+M>uno spirito s.</E
+M>che ragazzo superficiale!</E
+M>è un superficialone</E
+M>tagliare</E
+M>incidere</E
+M>corrodere superficialmente</E
+M>questa stanza è stata pulita molto superficialmente</E
+M>lo conosco appena superficialmente</E
+M>esaminare superficialmente una questione</E
+M>argomento trattato superficialmente</E

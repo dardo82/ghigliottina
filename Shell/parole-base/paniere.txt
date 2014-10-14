@@ -1,0 +1,36 @@
+paniere.txt
+"paniere"
+"paniere"
+"paniere"
+"paniere"
+"paniere"
+"paniere, cestello"
+*[[canestro]]
+M>panier</E
+M>panarium</E
+M>panis</E
+M>un p</E
+M>pieno di pane</E
+M>di uova</E
+M>di fichi</E
+M>di ciliegie</E
+M>senza fondo</E
+M>fare la zuppa nel p</E
+M>chi vuol far l&#8217;altrui mestiere</E
+M>fa la zuppa nel p</E
+M>rompere</E
+M>guastare le uova nel p</E
+M>a qualcuno</E
+M>avere le budella nel p</E
+M>mi hanno regalato un p</E
+M>d&#8217;uva</E
+M>abbiamo raccolto un p</E
+M>di funghi</E
+M>giardinetto</E
+M>calcoli statistici sui p. di beni e servizî</E
+M>Punto paniere</E
+M>d&#8217;argento</E
+M>Arabis caucasica</E
+M>d&#8217;oro</E
+M>Aurinia saxatilis</E
+M>Alyssum saxatile</E

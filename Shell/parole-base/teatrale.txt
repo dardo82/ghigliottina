@@ -1,0 +1,36 @@
+teatrale.txt
+"arte teatrale"
+"compagnia teatrale"
+"critico teatrale"
+"dramma teatrale"
+"illuminazione teatrale"
+"impianto di illuminazione teatrale"
+"lavoro teatrale"
+"macchinista teatrale"
+"programma teatrale"
+"quinta teatrale"
+"rappresentazione teatrale"
+"rappresentazione teatrale"
+"scrittura teatrale"
+"set teatrale"
+"spettacolo teatrale"
+"spettacolo teatrale"
+"teatrale"
+"teatrale"
+"trucco teatrale"
+*[[metateatrale]], [[teatralizzare]], [[teatralità]], [[teatralmente]]
+*[[teatro]]
+M>theatralis</E
+M>spettacoli</E
+M>rappresentazioni t.</E
+M>arte t.</E
+M>compagnia t.</E
+M>la vita t. cittadina</E
+M>pose</E
+M>atteggiamenti</E
+M>gesti t.</E
+M>parlava con tono teatrale</E
+M> già allora mi trovava ridicola</E
+M> vedeva nel mio aspetto appassionato qualcosa di t.</E
+M>pose teatralmente enfatiche</E
+M>un dramma teatralmente debole</E

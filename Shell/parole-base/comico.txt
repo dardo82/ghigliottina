@@ -1,0 +1,57 @@
+comico.txt
+"comico"
+"comico"
+"comico"
+"attore comico"
+"comico"
+"comico, umoristico, buffo"
+"commedia, telefilm comico"
+"il lato comico"
+"in modo comico"
+"spettacolo comico"
+#* ''Ho conosciuto quel famoso '''comico'''''
+#*''Quando parli così sei '''comico'''''
+* relativo alla commedia
+* [[commediante]], [[guitto]], [[umorista]], [[pagliaccio]], [[macchietta]] 
+*(solo singolare) [[comicità]], [[ridicolo]]
+*[[tragico]], [[serio]], [[severo]], [[austero]], [[drammatico]], [[triste]]
+*[[simpatico]], [[comic]]
+M>com</E
+M>cus</E
+M>scrittore</E
+M>poeta c</E
+M>attore c</E
+M>teatro c</E
+M>compagnia c</E
+M>sostenere una parte c</E
+M>il genere c</E
+M>stile c</E
+M>una scena</E
+M>una scenetta c</E
+M>uno sketch c</E
+M>trovate</E
+M>situazioni comiche</E
+M>un abbigliamento veramente c</E
+M>era davvero una scena c</E
+M>il lato c</E
+M>della faccenda</E
+M>è comica!</E
+M>il più grande c</E
+M>del secolo</E
+M>commediografo</E
+M>uno dei c</E
+M>più famosi del teatro italiano</E
+M>i c</E
+M>del varietà</E
+M>del circo</E
+M>del film muto</E
+M>vengo ad avvertire il signor poeta</E
+M>anche a nome delle altre comiche</E
+M>che</E
+M>noi con la signora Medebac non ci recitiamo più</E
+M>il senso del c</E
+M>c’è del c</E
+M>in tutto questo</E
+M>parlare</E
+M>atteggiarsi</E
+M>gestire comicamente</E

@@ -1,0 +1,41 @@
+dorato.txt
+"a taglio dorato"
+"dorato"
+"dorato"
+"fagiano dorato"
+"lingotto di metallo dorato; privo di valore"
+"marrone dorato"
+"persico dorato"
+"piviere dorato"
+*giallo intenso 
+*ricoperto d’oro, [[placcato]], [[aureo]]
+*[[scuro]], [[nero]]
+M>dorare</E
+M>argento</E
+M>bronzo d</E
+M>libro d</E
+M>sul taglio</E
+M>carta d</E
+M>giallo</E
+M>biondo</E
+M>castano d</E
+M>grappoli</E
+M>riccioli</E
+M>capelli d</E
+M>bruno</E
+M>verde d</E
+M>ottenere una abbronzatura dorata</E
+M>un tramonto d</E
+M>Mirava il ciel sereno</E
+M>Le vie d</E
+M>e gli orti</E
+M>indorato</E
+M>zucchine d</E
+M>cotolette impanate e d</E
+M>funghi d</E
+M>e fritti</E
+M>vivere</E
+M>essere chiuso in una prigione d.</E
+M>in una gabbia d.</E
+M>jeunesse</E
+M>dorée</E

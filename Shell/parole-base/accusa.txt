@@ -1,0 +1,57 @@
+accusa.txt
+"accusa"
+"accusation"
+"accusa"
+"il PM in un processo, la pubblica accusa"
+"accusa ingiustificata"
+"con l'accusa di"
+"falsa accusa"
+"fare una accusa"
+"make an accusation"
+"mettere sotto accusa"
+"montare un'accusa contro"
+"per tutti i capi d'accusa"
+"respingere un'accusa formalmente"
+"testimoniare per l'accusa"
+#* ''difendersi da un'
+*[[difesa]], [[difensore]]
+M>fare</E
+M>muovere</E
+M>rivolgere un’a</E
+M>provare</E
+M>ribadire</E
+M>confutare</E
+M>ritorcere</E
+M>smentire</E
+M>dimostrare falsa un’a</E
+M>questa è un’a</E
+M>del tutto gratuita</E
+M>una scusa non richiesta</E
+M>è un’a</E
+M>manifesta</E
+M>excusatio non petita accusatio manifesta</E
+M>imputazione</E
+M>presentare</E
+M>intentare</E
+M>sostenere un’a</E
+M>infondata</E
+M>insussistente</E
+M>una gravissima a</E
+M>fu assolto</E
+M>prosciolto</E
+M>dall’a</E
+M>di omicidio colposo</E
+M>atto di a</E
+M>capi d’a</E
+M>stato d’a</E
+M>mettere</E
+M>essere in stato d’a</E
+M>giudizio di a</E
+M>pubblica a</E
+M>privata a</E
+M>l’a</E
+M>sostenne sempre la piena colpevolezza dell’imputato</E
+M>risponde all’a</E
+M>il primo degli avvocati di difesa</E
+M>dei peccati</E
+M>accuso</E

@@ -1,0 +1,79 @@
+religioso.txt
+"credo religioso"
+"discorso religioso"
+"essere religioso"
+"fanatico religioso appartenente ad una setta (offensivo)"
+"integralismo religioso"
+"l'abito religioso"
+"luogo religioso"
+"matrimonio religioso"
+"ordine religioso"
+"ordine religioso"
+"religioso"
+"religioso"
+"religioso"
+"religioso"
+"religioso in modo zelante"
+"ritiro spirituale, religioso"
+"rito religioso"
+"scrittore religioso"
+"servizio religioso"
+#*''Questa festa ha un significato '''religioso''' per noi!''
+#*''Lui sì che è '''religioso'''!''
+#*''Temo sempre che i '''religiosi''' vogliano convertirmi...''
+*relativo alla religione, [[ecclesiale]], [[clericale]]
+*[[devoto]], [[fedele]], [[credente]], [[praticante]], [[osservante]], [[pio]], [[sacro]]
+*[[ecclesiastico]]
+*[[profano]], [[ateo]]
+*[[empio]], [[miscredente]], [[agnostico]], [[scettico]]
+*[[laico]], [[civile]]
+*[[religiosamente]]
+*[[religione]], [[religiosità]]
+M>religiosus</E
+M>religio</E
+M>onis</E
+M>sentimento</E
+M>precetto</E
+M>comandamento</E
+M>rito r</E
+M>fede r</E
+M>credo r</E
+M>assistenza r</E
+M>conforto r</E
+M>insegnamento r</E
+M>convinzioni</E
+M>idee</E
+M>dottrine</E
+M>pratiche r</E
+M>libertà r</E
+M>di religione</E
+M>è un uomo molto</E
+M>poco r</E
+M>com&#8217;è</E
+M>dovrebbe essere più caritatevole</E
+M>mantenere la repubblica r</E
+M>paese</E
+M>popolo religiosissimo</E
+M>matrimonio r</E
+M>matrimonio civile</E
+M>ordine r</E
+M>congregazione r</E
+M>vestire l&#8217;abito r.</E
+M>Religïoso è questo orror: la dea Roma qui dorme</E
+M>ha un r</E
+M>affetto per la memoria del padre</E
+M>le parole del vecchio maestro furono ascoltate in un r</E
+M>silenzio</E
+M>l&#8217;esecuzione della sinfonia fu seguìta con r</E
+M>attenzione</E
+M>una comunità di religiosi</E
+M>di religiose</E
+M>una scuola tenuta da religiosi</E
+M>una casa di cura diretta da religiose</E
+M>Religiosi di S</E
+M>Vincenzo de&#8217; Paoli</E
+M>Religiose di Maria Immacolata</E
+M>vivere religiosamente</E
+M>inginocchiarsi religiosamente al passaggio del Santissimo Sacramento</E
+M>eseguì religiosamente le ultime volontà del defunto</E
+M>tutti ascoltarono religiosamente il commosso discorso funebre</E

@@ -1,0 +1,17 @@
+noleggiare.txt
+"noleggiare"
+"noleggiare; affittare"
+*[[noleggiamento]], [[noleggiante]], [[noleggiatore]], [[noleggio]]
+M>io noléggio</E
+M> avevamo noleggiato una barca e ci davamo alla pazza gioia in mezzo alle onde</E
+M> remando a turno</E
+M>un battello</E
+M>un motopeschereccio</E
+M>un’autovettura</E
+M>una bicicletta</E
+M>un pianoforte</E
+M>una macchina per scrivere</E
+M>un abito da maschera</E
+M>una videocassetta</E
+M>un ombrellone sulla spiaggia</E
+M>una ditta che noleggia autovetture</E

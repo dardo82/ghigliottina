@@ -1,0 +1,27 @@
+senato.txt
+"senato"
+"senato"
+"senato"
+"sede del senato"
+"senato"
+*''(nell’antica Roma)'' consiglio di anziani
+*''(negli stati attuali a struttura bicamerale)'' camera alta, [[senatori]]
+*[[senatore]], [[senatoconsulto]]
+M>senatus -us</E
+M>senex</E
+M>il S. e il Popolo Romano</E
+M>S.P.Q.R.</E
+M>il s. di Sparta</E
+M>gerusia</E
+M>di Cartagine</E
+M>le rosse giovenche di su ’l prato Vedean passare il piccolo senato Brillando su gli abeti il mezzodì</E
+M>le funzioni del s.</E
+M>la presidenza del s.</E
+M>progetto di legge approvato dal s.</E
+M>le sedute del s.</E
+M>pronunciare un discorso dinanzi al s.</E
+M>Cesare fu ucciso in pieno s.</E
+M>aspirare al s.</E
+M>andare</E
+M>recarsi al senato</E
+M>s. accademico</E

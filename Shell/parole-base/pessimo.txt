@@ -1,0 +1,70 @@
+pessimo.txt
+"di pessimo gusto"
+"pessimo"
+"pessimo stato"
+M>pess</E
+M>mus</E
+M>peior</E
+M>cattivo</E
+M>cattivissimo</E
+M>cattivo</E
+M>è un p</E
+M>soggetto</E
+M>ha dei p</E
+M>amici</E
+M>frequenta p</E
+M>compagnie</E
+M>ha un p</E
+M>carattere</E
+M>è una p</E
+M>lingua</E
+M>è una mala lingua</E
+M>pessimo</E
+M>malo</E
+M>ha p</E
+M>inclinazioni</E
+M>abitudini</E
+M>segue p</E
+M>principî</E
+M>è un p</E
+M>padre</E
+M>un p</E
+M>scolaro</E
+M>un p</E
+M>amico</E
+M>un p</E
+M>amministratore</E
+M>è un p</E
+M>compagno di gioco</E
+M>ha una p</E
+M>vista</E
+M>hai avuto una p</E
+M>idea</E
+M>ci hanno dato del p</E
+M>cibo</E
+M>la merce è veramente p</E
+M>quest&#8217;automobile è in p</E
+M>stato</E
+M>I fiori in cornice (le buone cose di p</E
+M>gusto)</E
+M>parlava un p</E
+M>italiano</E
+M>un p</E
+M>francese</E
+M>hai una p</E
+M>cera</E
+M>oggi sono di p</E
+M>umore</E
+M>ci fecero una p</E
+M>accoglienza</E
+M>ho fatto un p</E
+M>affare</E
+M>hanno ottenuto p</E
+M>risultati</E
+M>quest&#8217;anno abbiamo avuto un p</E
+M>raccolto</E
+M>sono sempre stati in p</E
+M>rapporti</E
+M>ho passato pessimamente l&#8217;estate</E
+M>è una macchina che funziona pessimamente</E
+M>pessimamente si contentavano di lei per la sua bassa condizione</E

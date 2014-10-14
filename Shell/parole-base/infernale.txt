@@ -1,0 +1,107 @@
+infernale.txt
+"abisso infernale"
+"fuoco infernale"
+"infernale"
+"infernale"
+"infernale"
+"macchina infernale"
+* [[diabolico]]
+*[[paradisiaco]]
+*[[inferno]] - hell
+M>infernalis</E
+M>infernus</E
+M>le potenze i</E
+M>gli spiriti i</E
+M>i mostri i</E
+M>le pene i</E
+M>i fiumi i</E
+M>La bufera infernal</E
+M>che mai non resta</E
+M>era una notte i</E
+M>ho passato una giornata</E
+M>una notte i</E
+M>lo sedusse con arti i</E
+M>è di una i</E
+M>malvagità</E
+M>ordigno i</E
+M>oggi fa un caldo i</E
+M>c’è un buio i</E
+M>qui dentro</E
+M>facevano un baccano i</E
+M>il treno arrivava in stazione e un disordine i. di valigie e corpi in movimento si preparava a seppellire tutto il resto</E
+M>musica i</E
+M>ritmo i</E
+M>danza infernale</E
+M>Macchina i</E
+M>Pietra i</E
+M>Olio i</E
+M>olio di curcas</E
+"name": "Christine - la macchina infernale"
+"name": "Indiana Jones e la macchina infernale"
+"name": "Omen IV - Presagio infernale"
+"name": "Danza infernale"
+"name": "Infernale dilemma"
+"name": "The Firebird: Danse infernale du roi Kastchei (Berlin Philharmonic Orchestra feat. conductor: Leopold Stokowski)"
+"name": "L'infernale Quinlan"
+"name": "Sfida infernale"
+"name": "La serie infernale"
+"name": "Christine - La macchina infernale"
+"name": "Il cucchiaio infernale"
+"name": "Il cucchiaio infernale"
+"name": "La meteora infernale"
+"name": "Traversata infernale"
+"name": "Club infernale"
+"name": "Pioggia infernale"
+"name": "Magma - Disastro infernale"
+"name": "Il trio infernale"
+"name": "Il trio infernale"
+"name": "Infernale Leonor"
+"name": "Il trio infernale: Trio infernale"
+"name": "Vento infernale"
+"name": "Ordito infernale"
+"name": "Firebird Suite: V. Danse infernale du roi Kastche\u00ef"
+"name": "Danza infernale"
+"name": "Infernale dilemma"
+"name": "The Firebird: Danse infernale du roi Kastchei (Berlin Philharmonic Orchestra feat. conductor: Leopold Stokowski)"
+"name": "Infernale dilemma"
+"name": "Il trio infernale: Trio infernale"
+"name": "Il trio infernale"
+"name": "Infernale Leonor"
+"name": "Il trio infernale"
+"name": "Vento infernale"
+"name": "Ordito infernale"
+"name": "Fantasia Infernale"
+"name": "La brayette infernale"
+"name": "Mantra infernale"
+"name": "Fantasia Infernale"
+"name": "Infernale (remix)"
+"name": "Infernale (remix)"
+"name": "Down - Discesa infernale"
+"name": "The Mangler - La macchina infernale"
+"name": "L'infernale avventura"
+"name": "Dizionario infernale"
+"name": "La squadra infernale"
+"name": "Trio infernale: Trio infernale"
+"name": "Trio infernale: Trio infernale"
+"name": "Danza infernale"
+"name": "La citt\u00e0 infernale"
+"name": "La Masquerade Infernale"
+"name": "Il raggio infernale"
+"name": "Chicago, bolgia infernale"
+"name": "Assalito dalle rondini (Tensione infernale)"
+"name": "Assalito dalle rondini (Tensione infernale)"
+"name": "Il trio infernale"
+"name": "Mantra infernale"
+"name": "Agente Tigre sfida infernale"
+"name": "Orchestra Infernale"
+"name": "La Masquerade Infernale"
+"name": "Trio infernale: Trio infernale"
+"name": "Firebird Suite: V. Danse infernale du roi Kastche\u00ef"
+"name": "Firebird Suite: V. Danse infernale du roi Kastche\u00ef"
+"name": "Firebird Suite: V. Danse infernale du roi Kastche\u00ef"
+"name": "Firebird Suite: V. Danse infernale du roi Kastche\u00ef"
+"name": "Firebird Suite: V. Danse infernale du roi Kastche\u00ef"
+"name": "Firebird Suite: V. Danse infernale du roi Kastche\u00ef"
+"name": "L'infernale"
+"name": "Duello infernale"
+"name": "Trio infernale"

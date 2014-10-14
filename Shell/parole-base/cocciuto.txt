@@ -1,0 +1,11 @@
+cocciuto.txt
+"caparbio, cocciuto (fig.)"
+"caparbio, cocciuto (fig.)"
+"cocciuto"
+"conservatore cocciuto"
+M>coccia</E
+M>che ragazzo c</E
+M>sei più c</E
+M>di un mulo</E
+M>sei un c</E
+M>sei una vera cocciuta!</E

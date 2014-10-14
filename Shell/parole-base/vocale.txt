@@ -1,0 +1,18 @@
+vocale.txt
+"banda vocale"
+"corda vocale"
+"minoranza vocale"
+"musica vocale"
+"piega vocale"
+"riconoscimento vocale"
+"segretaria vocale"
+"spartito vocale"
+"vocale"
+"vocale"
+"vocale"
+"vocale"
+"segno grafico di una vocale"
+"vocale corta"
+"vocale lunga"
+"voto vocale, a voce"
+* [[consonante]],  [[sillaba]]

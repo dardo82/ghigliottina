@@ -1,0 +1,64 @@
+borghese.txt
+"borghese"
+"borghese"
+"borghese"
+"borghese"
+"borghese convenzionale"
+"in borghese"
+"in borghese, in abiti civili"
+"piccolo borghese"
+"poliziotto in borghese"
+*''(di persona, mentalità ecc.)''[[ benpensante]], [[conformista]], [[perbenista]], [[tradizionalista]];
+*''(preg.)'' [[gretto]], [[meschino]], [[angusto]]
+*[[ anticonformista]], [[progressista]], [[rivoluzionario]]
+*'' (spec. di abito)'' [[civile]]
+*[[ militare]], [[ecclesiastico]]
+M>borgo</E
+M>burgensis</E
+M>bourgeois</E
+M>uno b</E
+M>di Francia avea una sua moglie molto bella</E
+M>Novellino</E
+M>un grasso b</E
+M>un modesto b</E
+M>la classe b</E
+M>di famiglia b</E
+M>il romanzo b</E
+M>dell’Ottocento</E
+M>spirito</E
+M>morale</E
+M>mentalità b</E
+M>pregiudizî b</E
+M>maniere b</E
+M>gusti borghesi</E
+M>piccolo</E
+M>borghese</E
+M>petit</E
+M>bourgeois</E
+M>piccolo</E
+M>borghese</E
+M>è un piccolo</E
+M>è una piccolo</E
+M>sono dei piccolo</E
+M>borghesi</E
+M>delle piccolo</E
+M>borghesi</E
+M>una piccola b</E
+M>dei piccoli</E
+M>delle piccole borghesi</E
+M>vita</E
+M>mentalità</E
+M> ambiente piccolo-borghese</E
+M>abito b</E
+M>in b</E
+M>abito</E
+M>vestirsi</E
+M>mettersi in b</E
+M>un ufficiale</E
+M>un poliziotto in borghese</E
+M>tornare alla vita b</E
+M>i b</E
+M>vestire borghesemente</E
+M>comportarsi</E
+M>agire</E
+M>pensare borghesemente</E

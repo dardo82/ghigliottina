@@ -1,0 +1,135 @@
+corda.txt
+"(tenere) sulla corda"
+"corda"
+"corda"
+"corda"
+"corda al collo"
+"corda che apre il paracadute legata al velivolo da cui si lancia"
+"corda d'arco"
+"corda del piano"
+"corda di sicurezza"
+"corda di violino"
+"corda lunga"
+"corda per saltare"
+"corda vocale"
+"dare corda"
+"essere giù di corda"
+"giù di corda"
+"impiccato, appeso a una corda"
+"lanciare una corda"
+"mostrare la corda"
+"orchestra di strumenti a corda"
+"passare una corda attraverso qualcosa"
+"ponte di corda"
+"saltare la corda"
+"scala di corda"
+"spago, corda"
+"tagliare la corda; darsela a gambe"
+"Tirare la corda"
+* [[cima]], [[cavo]], [[filo]], [[lazo]], [[spago]]
+* [[corda per saltare]], [[corda vocale]], [[cordaio]], [[cordame]], [[cordata]], [[cordatrice]], [[cordolo]]
+* [[circonferenza]], [[fibra]], [[nodo]], [[segmento]]
+* ''dare 
+* ''essere giù di 
+* ''tagliare la 
+*'' non si parla di 
+*italiano
+*latino
+M>rda</E
+M>vegetale</E
+M>metallica</E
+M>grossa</E
+M>sottile</E
+M>resistente</E
+M>allentare</E
+M>tirare la c</E
+M>scala a c</E
+M>di c</E
+M>dei funamboli</E
+M>ballare sulla c</E
+M>ballerino</E
+M>saltatore di c</E
+M>reggere la c</E
+M>tagliare la c</E
+M>dare c</E
+M>dare c</E
+M>a qualcuno</E
+M>da impiccare</E
+M>per impiccare</E
+M>mettere la c</E
+M>al collo a qualcuno</E
+M>essere con la c</E
+M>al collo</E
+M>non parlare di corda in casa dell’impiccato</E
+M>saltare</E
+M>salto con la c</E
+M>fare tutte le mattine un po’ di corda</E
+M>da roccia</E
+M>da ghiaccio</E
+M> c. da ferrata</E
+M>doppia</E
+M>stringere</E
+M>costringere</E
+M>mettere l’avversario alle c</E
+M>buttarsi alla c</E
+M>conquistare la c</E
+M>cingolo</E
+M>D’ogne valor portò cinta la c</E
+M>a corda</E
+M>di sospensione</E
+M>fune di sospensione</E
+M>corda</E
+M>bollita</E
+M>miccia</E
+M>mostrare la c</E
+M>argomento</E
+M>discorso che mostra la c</E
+M>tratti</E
+M>squassi</E
+M>scosse</E
+M>saccate</E
+M>dare la c</E
+M>potreste darmi la c</E
+M>che non mi cavereste nulla di bocca</E
+M>tenere uno sulla corda</E
+M>dare la c</E
+M>all’orologio</E
+M>essere giù di corda</E
+M>vibrante</E
+M>stringa</E
+M>cosmica</E
+M>vibranti</E
+M>armoniche</E
+M>corde</E
+M>strumenti a corda</E
+M>corde</E
+M>Una corda</E
+M>tre corde</E
+M>essere come le c</E
+M>del violino</E
+M>toccare una c</E
+M>non fu questa la sola trista c</E
+M>che si toccasse in quel colloquio</E
+M>toccò in versi la c</E
+M>della politica</E
+M>far vibrare</E
+M>toccare una c</E
+M>toccare la c</E
+M>della pietà</E
+M>corde del timpano</E
+M>vocali</E
+M>colica</E
+M>blenorragica</E
+M>venerea</E
+M>corde del collo</E
+M>dorsale</E
+M>notocorda</E
+M>costola</E
+M>costolone</E
+M>bisecante</E
+M>di un arco</E
+M>di un profilo alare</E
+M>alare</E
+M>massima</E
+M>profondità</E
+M>del profilo</E

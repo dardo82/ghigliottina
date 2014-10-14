@@ -1,0 +1,40 @@
+quattordici.txt
+"numero quattordici"
+"quattordici"
+"quattordici"
+"quattordici"
+"il numero quattordici"
+"quattordici"
+"segno, cifra che indica il quattordici"
+*[[quattordicesimo]], [[quattordicesima]]
+*[[tredici]], [[quindici]]
+*[[numero]]
+M>quat</E
+M>uord</E
+M>cim</E
+M>quat</E
+M>uor</E
+M>decem</E
+M>un ragazzo di q</E
+M>anni</E
+M>una scala di q</E
+M>gradini</E
+M>il treno parte alle ore 14</E
+M>alle quattordici</E
+M>in punto</E
+M>il sonetto è composto di q</E
+M>versi</E
+M>numero</E
+M>giorno</E
+M>puntare sul 14</E
+M>la riunione è fissata per il q</E
+M>del prossimo mese</E
+M>il q</E
+M>luglio</E
+M>il q</E
+M>ti porta proprio alla stazione</E
+M>autobus</E
+M>tram</E
+M>il capitolo q</E
+M>Luigi q</E
+M>XIV</E

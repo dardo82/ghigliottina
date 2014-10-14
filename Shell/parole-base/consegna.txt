@@ -1,0 +1,72 @@
+consegna.txt
+"accettare la consegna di una merce"
+"cerimonia di consegna diplomi"
+"consegna"
+"l'atto di consegnare"
+"consegna"
+"consegna"
+"consegna"
+"consegna"
+"Consegna a domicilio"
+"consegna al piano"
+"consegna espressa"
+"consegna gratuita"
+"consegna merce"
+"consegna pacchi"
+"consegna speciale"
+"contanti alla consegna"
+"costo di consegna"
+"dare in consegna"
+"data di consegna"
+"fare una consegna"
+"garantire i tempi di consegna"
+"mancata consegna"
+"nota di consegna"
+"ordine di consegna"
+"pagamento per contanti alla consegna"
+"prendere in consegna"
+"presa in consegna"
+"pronto per la consegna"
+"reparto di consegna posta"
+"su consegna speciale"
+"tempi di consegna"
+"verbale di consegna"
+M>fare</E
+M>effettuare la c</E
+M>spedizione di una damigiana di vino con c</E
+M>a domicilio</E
+M>immediata</E
+M>a quindici giorni dalla commissione</E
+M>pagamento alla c</E
+M>immediata</E
+M>pronta</E
+M>differita</E
+M>ripartita</E
+M>rateale</E
+M>effettiva</E
+M>reale</E
+M>simbolica</E
+M>virtuale</E
+M>dare</E
+M>lasciare in c</E
+M>prendere</E
+M>ricevere</E
+M>avere in c</E
+M>ti lascio in c</E
+M>la casa durante la mia assenza</E
+M>Dare</E
+M>fare la c</E
+M>le c</E
+M>c’è la c</E
+M>di non lasciar avvicinare nessuno alla polveriera</E
+M>osservare</E
+M>rompere la c</E
+M>venir meno alla c</E
+M>forzare la c</E
+M>libro delle c</E
+M>Violazione della c</E
+M>violata</E
+M>la c</E
+M>è di non parlare</E
+M>c’è la c</E
+M>di terminare il lavoro entro giovedì</E

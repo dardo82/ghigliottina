@@ -1,0 +1,172 @@
+dopo.txt
+"a dopo"
+"anni dopo"
+"anno dopo anno, un anno dopo l'altro"
+"anno dopo anno, un anno dopo l'altro"
+"anno dopo anno, un anno dopo l'altro"
+"assoluzione (dopo la confessione)"
+"capire dopo difficoltà"
+"capire; spec. dopo un inizio difficile"
+"che avviene dopo la morte"
+"dC: dopo Cristo"
+"domenica dopo Pasqua"
+"dopo"
+"dopo"
+"dopo"
+"dopo"
+"dopo"
+"dopo"
+"dopo"
+"dopo"
+"quello che viene dopo"
+"dopo considerazione"
+"dopo corsa"
+"dopo deliberazione"
+"dopo di ciò"
+"dopo di ciò"
+"dopo il diluvio universale"
+"dopo il fatto"
+"dopo il fatto"
+"dopo il parto"
+"dopo l'autunno"
+"dopo l'inondazione"
+"dopo la cacciata"
+"dopo la guerra"
+"dopo la morte"
+"dopo la morte"
+"dopo la morte"
+"dopo la nascita"
+"dopo la nascita"
+"dopo la nascita"
+"dopo le dodici"
+"dopo mezzogiorno"
+"dopo mezzogiorno"
+"dopo Natale"
+"dopo tutto"
+"dopo un certo tempo"
+"dopo un po'"
+"dopo un po’, dopo qualche tempo"
+"dopo una lunga assenza"
+"dopo, in seguito"
+"dopo, in seguito"
+"entrando, subito dopo essere entrato"
+"formulato dopo un fatto"
+"giorno dopo"
+"giorno dopo giorno"
+"giorno dopo giorno"
+"granchio cucinato subito dopo la muta"
+"il dopo riforma"
+"il dopo rivoluzione"
+"il mattino dopo"
+"in stato di confusione dopo una sbornia"
+"lavare i piatti dopo un pasto"
+"lavare i piatti dopo un pasto"
+"mattone dopo mattone"
+"mese dopo mese"
+"mezz'ora dopo le (ora)"
+"mezz'ora dopo le (ora)"
+"morire uno dopo l'altro"
+"morire uno dopo l'altro"
+"ora dopo ora"
+"ora dopo ora"
+"passo dopo passo"
+"persino dopo"
+"persona nata dopo la generazione del baby boom"
+"pezzo dopo pezzo"
+"pezzo dopo pezzo"
+"prima luna piena dopo la mietitura"
+"studente dopo la laurea"
+"subito dopo"
+"subito dopo, a ruota di"
+"subito dopo, immediatamente dopo, un attimo dopo, un momento dopo"
+"uno dopo l'altro"
+"uno dopo l'altro"
+"vatti a nascondere (dopo una brutta figura)"
+"venire dopo"
+"venire dopo"
+"vita dopo la morte"
+#* Lo farò '''dopo'''
+#* Tornò a casa '''dopo''' l'ennesima delusione
+*[[poi]], [[in seguito]], [[più tardi]], [[successivamente]] 
+*[[prima]],[[precedentemente]]
+*[[dopobarba]], [[dopocena]], [[dopoché]], [[dopodiché]],[[dopodomani]], [[dopoelezioni]], [[dopoguerra]], [[dopolavoro]], [[dopolistino]], [[dopopartita]], [[dopopranzo]], [[doposcì]], [[doposcuola]], [[doposole]], [[dopoteatro]], [[dopotutto]]
+*italiano
+M>de post</E
+M>dipoi</E
+M>prima lavora e d</E
+M>ti riposerai</E
+M>prima o d</E
+M>è lo stesso</E
+M>un’ora</E
+M>un giorno</E
+M>un mese d</E
+M>due anni d</E
+M>ci ho ripensato d</E
+M>poco tempo d</E
+M>subito d</E
+M>lo rividi molto d</E
+M>sbrighiamo intanto quest’affare</E
+M>poi d</E
+M>discorreremo</E
+M>a dopo</E
+M>c’è sempre un prima e un d</E
+M>preoccuparsi del d</E
+M>del poi</E
+M>pranzo</E
+M>dopopranzo</E
+M>cena</E
+M>dopocena</E
+M>domani</E
+M>dopodomani</E
+M>il calar del sole</E
+M>la pioggia viene il sole</E
+M>di me</E
+M>di te</E
+M>voi siete entrati d</E
+M>di noi</E
+M>rimandare a d</E
+M>Natale</E
+M>me l’ha promesso per d</E
+M>gli esami</E
+M>che</E
+M>dopo che</E
+M>dopoché</E
+M>ci siamo lasciati</E
+M>non ha più scritto</E
+M>dopo</E
+M>uscito</E
+M>fatte le valigie</E
+M>dopo di che</E
+M>dopodiché</E
+M>ci ha mandato una cartolina per Natale</E
+M>dopo di che non s’è fatto più vivo</E
+M>prendete la strada che viene subito d</E
+M>l’atrio</E
+M>c’è un cortiletto</E
+M>nella fila</E
+M>io sono d</E
+M>di te</E
+M>il 12 viene subito dopo l’11</E
+M>nell’alfabeto</E
+M>viene prima il</E
+M>e dopo la</E
+M>dietro</E
+M>tolto</E
+M>delle pietre della montagna</E
+M>e gittatosele d</E
+M>le spalle</E
+M>io camminavo avanti e lui d</E
+M>l’uscio</E
+M>l’angolo della casa</E
+M>dopo</E
+M>il dopopranzo</E
+M>il dopocena</E
+M>il dopoguerra</E
+M>doposcuola</E
+M>dopoborsa</E
+M>dopobarba</E
+M>il dopo Franco</E
+M>il dopo Mao</E
+M>il dopo Tito</E
+M> l’Inghilterra del dopo Thatcher</E
+M> la Francia del dopo Chirac</E

@@ -1,0 +1,6 @@
+calzoni.txt
+"calzoni"
+"calzoni"
+"calzoni corti"
+"calzoni da cavallerizzo"
+"cavallo dei calzoni"

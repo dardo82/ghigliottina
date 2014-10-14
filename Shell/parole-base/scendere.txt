@@ -1,0 +1,146 @@
+scendere.txt
+"andare giù; scendere di livello; calare; abbassarsi"
+"cadere; scendere; pendere da; essere appeso a"
+"ciò che sale deve scendere"
+"far scendere"
+"fare scendere qualcuno"
+"per scendere"
+"per scendere"
+"scendere"
+"discendere"
+"scendere"
+"scendere"
+"scendere"
+"scendere"
+"scendere"
+"scendere"
+"scendere"
+"scendere (da un mezzo)"
+"scendere (discesa)"
+"scendere a compromessi"
+"scendere a terra; sbarcare"
+"scendere da, togliere il piede da"
+"scendere di prezzo"
+"scendere in battaglia"
+"scendere in campo"
+"scendere in campo"
+"scendere in piazza"
+"scendere in picchiata"
+"scendere in picchiata (aereo)"
+"Scendere in pista"
+"scendere in sciopero"
+"scendere; sbarcare"
+"smontare; scendere"
+#*''scendere dal treno''
+*[[discendere]], [[correre]] [[giù]], [[atterrare]], [[approdare]]
+*''(da mezzo di trasporto)'' [[smontare]], [[sbarcare]], [[fermarsi]], [[sostare]]
+*(di cosa) [[cadere]], [[piovere]], [[fioccare]], [[piombare]], [[crollare]], [[rotolare]], [[precipitare]]
+*''(di intensità, numero)'' [[abbassarsi]], [[diminuire]], [[calare]], [[decrescere]], [[scemare]]
+*''((di strada)'' [[pendere]], essere in discesa, essere in pendio, [[declinare]], [[digradare]]
+*''(di capelli)'' [[arrivare]], [[ricadere]]
+*[[salire]], [[montare]], [[aumentare]], [[crescere]], [[scalare]]
+M>discendere</E
+M>io scéndo</E
+M>scési</E
+M>scendésti</E
+M>scéso</E
+M>essere</E
+M>sc. dall&#8217;ultimo piano</E
+M>sc. da una scala a pioli</E
+M>sc. dall&#8217;albero</E
+M>sc. dalla soffitta</E
+M>dalla terrazza</E
+M>sc. da un pianerottolo a quello sottostante</E
+M>sc. da una montagna</E
+M>sc. giù per la china</E
+M>sc. dal pulpito</E
+M>sc. di cattedra</E
+M>sc. dal letto</E
+M>sc. da cavallo</E
+M>sc. di sella</E
+M>sc. di</E
+M>dalla</E
+M>carrozza</E
+M>sc. dalla bicicletta</E
+M>dal treno</E
+M>dall&#8217;autobus</E
+M>i passeggeri sono già scesi</E
+M>scendo alla prossima fermata</E
+M>giusto</E
+M>tanto</E
+M>volevo sc.</E
+M> come disse quello che cadde da cavallo</E
+M>sc. a valle</E
+M>sc. al piano</E
+M>in pianura</E
+M>sc. in cantina</E
+M>sc. nella metropolitana</E
+M>sc. in strada</E
+M>scendo dal giornalaio</E
+M>scendo a comprare il pane</E
+M>a ritirare la posta</E
+M>il capitano della nave è sceso a terra</E
+M>scendo subito</E
+M>scendi giù un momento</E
+M>dopo tre ore di viaggio siamo scesi a una trattoria per pranzare</E
+M>quando andiamo a Milano scendiamo sempre allo stesso albergo in centro</E
+M>sc. a rete</E
+M>Gesù Cristo scese tra gli uomini</E
+M>Tu scendi dalle stelle</E
+M> O Re del cielo</E
+M>Nova angeletta sovra l&#8217;ale accorta Scese dal cielo in su la fresca riva</E
+M>le popolazioni barbariche scesero in Italia nel 6&#176; sec. dopo Cristo</E
+M>Sceso Gernando è da&#8217; gran re norvegi Che di molte provincie ebber l&#8217;impero</E
+M>sc. in campo</E
+M>il ministro è sceso in campo contro l&#8217;assenteismo dai posti di lavoro</E
+M>sc. in lizza</E
+M>sc. in pista</E
+M>sc. in piazza</E
+M>il movimento studentesco è sceso in piazza per protestare contro il progetto di riforma</E
+M>sc. a patti</E
+M>a compromessi</E
+M>a una transazione</E
+M>a un accomodamento</E
+M>sc. a più miti consigli</E
+M>è sceso agli insulti più volgari</E
+M>è stato capace di sc. a vere e proprie calunnie</E
+M>non intendo sc. a chiedergli scusa</E
+M>sc. di condizione</E
+M>di grado</E
+M>di dignità</E
+M>la loro famiglia è molto scesa di livello</E
+M>ormai è sceso completamente nella mia stima</E
+M>non pensavo che potesse sc. così in basso</E
+M>il torrente scende a valle</E
+M>la neve continuò a sc. per tutta la notte</E
+M>l&#8217;infezione è scesa dalla gola ai polmoni</E
+M>le sue parole mi scesero al cuore</E
+M>quel suono d&#8217;organo mi è sceso nell&#8217;anima</E
+M>scenda su di voi la benedizione di Dio</E
+M>è scesa la maledizione su questa casa</E
+M>le colline scendono dolcemente al mare</E
+M>il paesino scende dalla collina fin sulla costa</E
+M>i capelli le scendono sulle spalle</E
+M>una folta barba gli scende sul petto</E
+M>la gonna le scendeva fino alle caviglie</E
+M>un vestito che scende</E
+M>cade</E
+M>bene</E
+M>male</E
+M>il sole scende sull&#8217;orizzonte</E
+M>scende la notte</E
+M>scendono le tenebre</E
+M>il livello del fiume è sceso di tre metri</E
+M>la temperatura è scesa improvvisamente a zero</E
+M>continua a sc.</E
+M>i prezzi degli appartamenti non accennano a sc.</E
+M>la benzina è scesa di tre centesimi di euro al litro</E
+M>sc. le scale</E
+M>un&#8217;erta</E
+M>un pendìo</E
+M>fece un salto</E
+M>scese il letto in furia</E
+M>rinvoltammo il padrone dentro una pelliccia e delle coperte</E
+M> lo scendemmo e caricammo nella macchina</E
+M>l&#8217;avevamo sceso</E
+M>dal crocevia e sistemato molto bene tra i cespugli</E

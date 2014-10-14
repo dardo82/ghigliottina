@@ -1,0 +1,59 @@
+infilare.txt
+"infilare"
+"infilare"
+"infilare"
+"infilare"
+"infilare (l'ago)"
+"infilare (nel sacchetto)"
+"infilare (perle)"
+"infilare, incastrare"
+M>l’ago</E
+M>il filo nell’ago</E
+M>le perle</E
+M>la chiave nella toppa</E
+M>l’anello al</E
+M>nel</E
+M> dito</E
+M>il dito nell’anello</E
+M>il braccio sotto il braccio del compagno</E
+M>gli uccelletti nello spiedo</E
+M>il cappuccio sulla penna stilografica</E
+M>il dito nel ditale</E
+M>il ditale sul dito</E
+M>qualcuno con la spada</E
+M>con la baionetta</E
+M>il piede nelle pantofole</E
+M>la mano nel guanto</E
+M>infilare</E
+M>infilarsi le</E
+M>calze</E
+M>le scarpe</E
+M>i calzoni</E
+M>la camicia</E
+M>la giacca</E
+M>il soprabito</E
+M>i guanti</E
+M>infilarsi nel letto</E
+M>infilarsi in un passaggio strettissimo</E
+M>infilarsi nella folla</E
+M>tra la folla</E
+M>infilarsi tra gli invitati</E
+M>riuscire a infilarsi in un ufficio</E
+M>una strada</E
+M>una via</E
+M>l’uscio</E
+M>un uscio</E
+M>la porta di casa</E
+M>la via giusta</E
+M>la strada buona</E
+M>non ne infila una!</E
+M>fila</E
+M>in montagna ho avuto la fortuna di i</E
+M>due settimane di tempo buono</E
+M>ha parlato a lungo infilando nel discorso non so quanti errori e sciocchezze</E
+M>nel suo compito</E
+M> è riuscito a i</E
+M>più spropositi che parole</E
+M>il fuoco fitto delle mitragliatrici infilava la strada spazzandola</E
+M>perle già infilate</E
+M>lasciare la chiave infilata nella toppa</E

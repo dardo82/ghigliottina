@@ -1,0 +1,8 @@
+allievo.txt
+"allievo"
+"allievo"
+"allievo di preparatory school"
+"ex allievo"
+#* ''L''''allievo''' attendeva ansioso l'inizio della lezione.''
+*[[studente]], [[alunno]], [[scolaro]], [[discepolo]], [[ seguace]], [[ apprendista]], [[ praticante]], [[ tirocinante]], [[ principiante]], [[novizio]], [[discente]]
+*[[veterano]], [[ maestro]], [[esperto]] 

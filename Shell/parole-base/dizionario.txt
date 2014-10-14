@@ -1,0 +1,57 @@
+dizionario.txt
+"dizionario"
+"dizionario bilingue"
+"dizionario biografico"
+"dizionario chimico"
+"dizionario dei sinonimi"
+"dizionario dei sinonimi e contrari"
+"dizionario delle citazioni"
+"dizionario di lingua straniera"
+"dizionario etimologico"
+"dizionario generico"
+"dizionario integrale"
+"dizionario per bambini"
+"dizionario ragionato"
+*[[vocabolario]], [[lessico]], [[glossario]], [[calepino]]
+*[[dizione]], [[dizionarista]], [[nomenclatura]],  [[Wikizionario]]
+*Enciclopedia [http
+*Devoto/Oli, '' Il dizionario della lingua italiana '', edizioe cartacea, 2000-2001, Le Monnier,p.&nbsp;673
+*AA.VV. ''Dizionario etimologico'', edizione cartacea 2004, ristampa 2008, Rusconilibri, p.&nbsp;325
+M>dictionarium</E
+M>dictio</E
+M>onis</E
+M>della lingua italiana</E
+M>francese</E
+M>della lingua italiana del Duecento</E
+M>dei neologismi</E
+M>dei barbarismi</E
+M>ciceroniano</E
+M>dantesco</E
+M>bilingui</E
+M>Calepinus septem linguarum</E
+M>storico</E
+M>Oxford English Dictionary</E
+M>Thesaurus linguae latinae</E
+M>etimologici</E
+M>dei sinonimi</E
+M>metodici</E
+M>sistematici</E
+M>ideologici</E
+M>inverso</E
+M>di marina</E
+M>di architettura</E
+M>filosofico</E
+M>giuridico</E
+M>di arti e mestieri</E
+M>geografico</E
+M>biografico</E
+M>delle arti</E
+M>d. delle idee</E
+M>enciclopedico</E
+M>dizionario</E
+M>vocabolario</E
+M>dizionario</E
+M>codice</E
+M>parole</E
+M>codice</E
+M>di macchina</E

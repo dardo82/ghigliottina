@@ -1,0 +1,109 @@
+forno.txt
+"al forno"
+"cotto al forno"
+"cotto al forno"
+"cotto al forno due volte"
+"cotto al forno in casa"
+"cuocere al forno"
+"cuocere al forno"
+"cuocere in forno"
+"cuocere o riscaldare nel forno a microonde"
+"essiccare al forno"
+"essiccato al forno"
+"forno"
+"forno"
+"forno"
+"forno"
+"forno"
+"forno"
+"forno"
+"forno"
+"forno a gas"
+"forno a legna"
+"forno a microonde"
+"forno a microonde"
+"forno ad arco elettrico"
+"forno crematorio"
+"forno da cemento"
+"forno da coke"
+"forno di mattoni, forno in muratura"
+"forno elettrico ad arco"
+"forno olandese"
+"griglia per forno"
+"in forno"
+"mettere in forno"
+"patate al forno"
+"prodotti da forno"
+"resistente al forno"
+"teglia, teglia da forno"
+"termometro da forno"
+#*''mangio solo la pizza cotta nel forno a legna''
+*[[panificio]]
+*[[frigorifero]]
+*[[altoforno]]
+*italiano
+M>rnus</E
+M>formus</E
+M>bocca</E
+M>forno a legna</E
+M>elettrico</E
+M>accendere</E
+M>scaldare</E
+M>spegnere il f</E
+M>mettere il pane in f</E
+M>levarlo dal forno</E
+M>il f</E
+M>delle grucce</E
+M>aprire un nuovo forno</E
+M>il primo f</E
+M>stato venduto in meno di un’ora</E
+M>bisogna fare tre f</E
+M>al giorno</E
+M>scaldare il f</E
+M>regolare il calore del f</E
+M>agnello</E
+M>vitello</E
+M>lasagne al f</E
+M>in forno</E
+M>polli cotti al f</E
+M>in forno</E
+M>da campagna</E
+M>a microonde</E
+M>per fusione</E
+M>per trattamenti termici</E
+M>per riscaldamento</E
+M>per trasformazioni fisiche</E
+M>chimiche</E
+M>a combustibile</E
+M>a combustione</E
+M>elettrico</E
+M>solare</E
+M>a energia nucleare</E
+M>a recupero</E
+M>forno Hoffmann</E
+M>hòfman</E
+M>a canale</E
+M>a tunnel</E
+M>forno Martin</E
+M>Siemens</E
+M>mart</E
+M> Sìimëns</E
+M>a riverbero</E
+M>alto f</E
+M>crematorio</E
+M>fare i f</E
+M>prescrivere dieci forni</E
+M>è un f</E
+M>questa macchina lasciata al sole!</E
+M> l’appartamento</E
+M>era diventato un forno. Mi sembrava di sentire i muri che scricchiolavano</E
+M> si disgregavano lentamente sotto la pressione del caldo</E
+M>ha una bocca che pare un f</E
+M>forno</E
+M>guarda che f</E
+M>quando sbadiglia</E
+M>spalanca un f</E
+M>che non vi dico!</E
+M>è stato un f</E
+M>iersera!</E
+M>il teatro ha fatto forno</E

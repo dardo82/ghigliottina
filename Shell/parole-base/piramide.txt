@@ -1,0 +1,56 @@
+piramide.txt
+"a piramide"
+"la grande piramide"
+"piramide"
+"piramide"
+"piramide della popolazione"
+"piramide olfattiva"
+*[[piramidale]]
+* [[prisma]], [[cono]]
+M>pyr</E
+M>mis</E
+M>dis</E
+M>Cheope</E
+M>Chefren</E
+M>Micerino</E
+M>Battaglia delle P</E
+M>P. precolombiane</E
+M>p. a gradini</E
+M>base</E
+M>facce laterali</E
+M>vertice</E
+M>p. triangolare</E
+M>quadrangolare</E
+M>p. retta</E
+M>regolare</E
+M>altezza</E
+M>Tronco di p</E
+M>A piramide</E
+M>disposizione</E
+M> sistemazione di oggetti a p</E
+M>sacchi ammucchiati a p</E
+M>gerarchia</E
+M>struttura</E
+M>organizzazione a piramide</E
+M>una p. di casse</E
+M>di scatole</E
+M>di libri</E
+M>p. umana</E
+M>piramidi di erosione</E
+M>di terra</E
+M>piramidi di Malpighi</E
+M>piramidi di Ferrein</E
+M>fer</E
+M>p. anteriori</E
+M>piramidi</E
+M>piramide del cervelletto</E
+M>p. delle età</E
+M>p. della popolazione</E
+M>P. sociale</E
+M>p. alimentare</E
+M> degli alimenti</E
+M>p. ecologica</E
+M>trofica</E
+M>p. delle energie</E
+M>p. degli organismi</E
+M>p. delle biomasse</E

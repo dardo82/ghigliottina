@@ -1,0 +1,39 @@
+abitare.txt
+"abitare"
+"abitare"
+"andare ad abitare"
+#*'''''abitava''' un piccolo monolocale adiacente alla fabbrica in cui lavorava''
+#*''molti ebrei della [[diaspora]] abitano fin dagli inizi del novecento l'america''
+#*''questo tipo di rettili abita le zone più calde e inospitali dell'Africa''
+#*'''''abitare''' con la propria ragazza, ''''abitare''' in città''
+#*''[[preferisco]] '''abitare''' in [[campagna]]''
+#*''la passione '''abitava''' nel suo cuore''
+*[[risiedere]], [[stare]], [[dimorare]], [[vivere]], [[permanere]], [[soggiornare]], [[alloggiare]], stare di casa, [[albergare]]
+*avere come dimora, avere come abitazione, [[occupare]], [[popolare]]  
+*[[abitante]], [[abitato]], [[abitazione]]
+M>habitare</E
+M>habere</E
+M>io àbito</E
+M>una bella casa</E
+M>allora abitavo una camera al terzo piano</E
+M>una regione</E
+M>un paese</E
+M>le popolazioni che abitavano il Lazio nell’8° secolo a</E
+M>avere</E
+M>in un quartiere centrale</E
+M>in campagna</E
+M>in periferia</E
+M>al mare</E
+M>sulle montagne</E
+M>abita a Milano</E
+M>abito sul Lungotevere</E
+M>abitavo allora in piazza Mazzini</E
+M>in famiglia</E
+M>con i genitori</E
+M>da un parente</E
+M>a. in una gran bella casa</E
+M>Con questi grandi abita eterno</E
+M>Abito in una piccola città del Sud: per questo dimentico gli ombrelli</E
+M>Dio abita nel cuore dei giusti</E
+M>i rotti avanzi di nobili abitari</E
+M>le famiglie abitanti nel palazzo</E

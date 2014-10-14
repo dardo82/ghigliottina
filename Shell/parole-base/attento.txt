@@ -1,0 +1,43 @@
+attento.txt
+"aspettare attento"
+"attento"
+"attento"
+"attento"
+"attento a"
+"attento ai dettagli"
+"attento con i soldi"
+"attento!"
+"essere attento"
+"in modo attento"
+"non stare attento"
+"occhio attento"
+"sguardo attento, acuto"
+"stai attento!"
+"stare attento"
+"stare attento a"
+*[[impegnato]], [[diligente]], [[scrupoloso]]
+*[[accorto]], [[avvertito]]
+*[[attentamente]]
+M>attentus</E
+M>attend</E
+M>ascoltava a</E
+M>le mie parole</E
+M>stare a</E
+M>a un discorso</E
+M>a una spiegazione</E
+M>stai attento ad evitare guai</E
+M>è un impiegato molto a</E
+M>e preciso</E
+M>le sue a</E
+M>cure</E
+M>si sono svolte a</E
+M>indagini</E
+M>ho fatto una lettura attentissima</E
+M>Attento!</E
+M>attenti!</E
+M>attento!</E
+M>sta per arrivare il treno</E
+M>leggere</E
+M>rileggere attentamente una lettera</E
+M>ascoltare attentamente il discorso</E
+M>la lezione</E

@@ -1,0 +1,46 @@
+preferenza.txt
+"avere una preferenza"
+"in preferenza"
+"in preferenza a"
+"preferenza"
+"preferenza"
+"preferenza, replace: preferenze"
+"preferenza, replace: preferenze"
+"preferenza accordata"
+"preferenza sessuale"
+"secondo in ordine di preferenza"
+*[[ predilezione]], [[propensione]], [[stima]], [[favore]], [[simpatia]], [[affetto]], [[distinzione]]
+* (specialmente al plurale) [[privilegi]], [[favoritismi]]
+*''(verso qualcosa o qualcuno)''  [[inclinazione]],[[ benevolenza]], [[favore]]
+*''(in senso negativo)'' [[parzialità]], [[favoritismo]] 
+*[[distacco]], [[indifferenza]], [[odio]]
+*[[imparzialità]]
+*[[di preferenza]], [[preferenziale]], [[preferire]], [[preferentemente]]
+*[[parzialità]]
+M>praeferentia</E
+M>praeferre</E
+M>ha sempre avuto una spiccata p</E
+M>per il nipote più grande</E
+M>la tua p</E
+M>nei suoi confronti è nota a tutti</E
+M>tra i pittori impressionisti la mia p</E
+M>va a Cézanne</E
+M>avere p</E
+M>per</E
+M>ho sempre avuto p</E
+M>per le vacanze in montagna</E
+M>dare</E
+M>accordare la propria p</E
+M>tra i due appartamenti darei la p</E
+M>a quello con il giardino</E
+M>voti di p</E
+M>preferenze</E
+M>titolo di p</E
+M>prelazione</E
+M>a p</E
+M>di p</E
+M>con p</E
+M>fare p</E
+M>usare preferenze</E
+M>nel concorso ci sono state troppe p</E
+M>non avere preferenze</E

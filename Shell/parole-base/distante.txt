@@ -1,0 +1,50 @@
+distante.txt
+"distante"
+"distante"
+"distante"
+"distante"
+"essere distante"
+"non distante"
+"non distante da"
+"non distante da"
+"più distante"
+"più distante"
+"punto più distante da cui si distinguono oggetti"
+"quanto lontano?, quanto distante?"
+"stazione distante"
+* [[lontano]], [[remoto]]
+* [[prossimo]], [[vicino]]
+* [[distanza]]
+M>distare</E
+M>distant</E
+M>eravamo d</E
+M>pochi passi</E
+M>la stazione è d</E
+M>tre km dal paese</E
+M>tutti i punti della circonferenza sono ugualniente d</E
+M>dal centro</E
+M>lontano</E
+M>veniva da luoghi d</E
+M>sono troppo d</E
+M>per poter leggere</E
+M>sei ancora molto d</E
+M>dall’indovinare</E
+M>le nostre idee sono assai d</E
+M>siamo d</E
+M>di gusti</E
+M>di sentimenti</E
+M>veniva da poco d</E
+M>abitiamo distante dalla città</E
+M>non ci vedo da così distante</E
+M>due avvenimenti</E
+M>due date assai d</E
+M>è ancora d</E
+M>quel giorno</E
+M>come mi paiono d</E
+M>quei momenti</E
+M>distaccato</E
+M>è sempre così d</E
+M>che sembra superbo</E
+M> mio padre era tornato l’uomo duro e d. di sempre, l’avversario, la causa prima di tutto ciò che avevo patito</E
+M>avere modi d</E
+M>parlare con tono distante</E

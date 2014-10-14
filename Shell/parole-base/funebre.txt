@@ -1,0 +1,47 @@
+funebre.txt
+"annuncio funebre"
+"carro funebre"
+"corteo funebre"
+"funebre"
+"funebre"
+"lenzuolo funebre"
+"marcia funebre"
+"marcia funebre"
+"numero dei morti; campana funebre"
+"omelia funebre"
+"orazione funebre"
+"rintocco funebre"
+"servizio funebre"
+"veglia funebre"
+#*''aveva un volto funebre''
+*[[triste]]
+M>fun</E
+M>bris</E
+M>funus</E
+M>ris</E
+M>rito f</E
+M>avviso f</E
+M>onoranze f</E
+M>corteo f</E
+M>cerimonia</E
+M>messa f</E
+M>suonare una marcia f</E
+M>impresa</E
+M>agenzia di pompe f</E
+M>carro f</E
+M>elogio</E
+M>orazione</E
+M>discorso f</E
+M>monumento f</E
+M>giochi f</E
+M>offerte f</E
+M>banchetto f</E
+M>canto</E
+M>lamento f</E
+M>un ambiente</E
+M>un’atmosfera f</E
+M>faccia</E
+M>aspetto</E
+M>aria f</E
+M>parlare in tono f</E
+M>immagini funebri</E

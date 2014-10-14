@@ -1,0 +1,81 @@
+suolo.txt
+"a livello del suolo"
+"controllo al suolo"
+"il suolo"
+"lasciare il suolo"
+"lasciare il suolo"
+"occupazione del suolo pubblico"
+"radere al suolo"
+"radere al suolo"
+"raso al suolo"
+"relativo al terreno, suolo, alla terra"
+"steso al suolo"
+"suolo"
+"suolo"
+"suolo forestale"
+"suolo libero"
+"suolo natio"
+"suolo, terreno, macchia"
+"velocità rispetto al suolo"
+"vicino al suolo"
+#* ''cascare al '''suolo'''''
+#* '''''suolo''''' ''pubblico'', [[area]] di proprietà [[statale]] o [[comunale]]  
+#* '''''suolo''''' ''a cuscinetto'', [[terreno]] caratterizzato da [[protuberanze]] ricoperte di [[erba]], situato in aree dove si manifestano, in modo alternato,fasi di [[gelo]] e [[disgelo]]
+#* '''''suolo''''' ''poligonale'', tipico delle [[montagne]], contrassegnato da [[crepe]] dove si vanno a immagazzinare [[pietre]] e [[ghiaie]] di origine [[glaciale]]
+#* '''''suolo''''' ''edificabile'', su cui può essere creato un [[edificio]]
+#* '''''suolo''''' ''natio'', [[patria]], [[luogo]] nel quale si è nato
+* [[terra]], [[terreno]], [[area]] [[pavimento]]
+* [[mare]], [[cielo]]
+*[[sottosuolo]]
+M>lum</E
+M>le suola</E
+M>cadde al s.</E
+M>giaceva inerte al s.</E
+M>sul s.</E
+M>sollevare un peso dal s.</E
+M>s. pubblico</E
+M>tassa per l&#8217;occupazione di s. pubblico</E
+M>l&#8217;hanno trovata caduta al s.</E
+M> svenuta</E
+M> in cucina</E
+M>effetto s.</E
+M>effetto superficie</E
+M>Giù nel ponente sovra &#8217;l suol marino</E
+M>ei ne vien sovra l&#8217;instabil suolo Di queste acque non gelide e non dure</E
+M>humus</E
+M>regolite</E
+M>tessitura del s.</E
+M>struttura del s.</E
+M>profilo del s.</E
+M>orizzonti</E
+M>s. fertile</E
+M>arido</E
+M>roccioso</E
+M>s. a cuscinetto</E
+M>s. desertico</E
+M>s. eluviale</E
+M>s. fessurato</E
+M>poligonato</E
+M>s. periglaciale</E
+M>crionivale</E
+M>s. striato</E
+M>s. edificabile</E
+M>area fabbricabile</E
+M>soprassuolo</E
+M>sottosuolo</E
+M>meccanica del s.</E
+M>del terreno</E
+M>bonifica dei s. contaminati</E
+M>il sacro s. della patria</E
+M>il s. natio</E
+M>mendicando Andrai canuto e solo Per l&#8217;italico suolo</E
+M>O compagni sul letto di morte</E
+M> O fratelli su libero suol</E
+M>come si mettono le mercatantie nelle navi a s. a s.</E
+M>tra un s. e l&#8217;altro di melanzane versare sugo e parmigiano</E
+M>disporre un s. di pasta</E
+M>cavarono in più luoghi alcune buche ... stendendovi sopra leggiermente una mano di pagliccio</E
+M> ed un s. di quella terra cavata</E
+M>suola</E
+M>rifare le suola alle scarpe</E
+M>scarpe con doppie suola</E

@@ -1,0 +1,19 @@
+incurabile.txt
+"incurabile"
+"malattia incurabile"
+*[[curabile]]
+M>incurab</E
+M>lis</E
+M>sordità</E
+M>cecità i</E
+M>male i</E
+M>cancro</E
+M>tumore</E
+M>è morto di</E
+M>per</E
+M>un male i</E
+M>i luetici un tempo erano considerati i</E
+M>ospedale degli incurabili</E
+M>inguaribile</E
+M>incorreggibile</E
+M>un ragazzo incurabilmente pigro</E

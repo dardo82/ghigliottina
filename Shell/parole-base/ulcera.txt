@@ -1,0 +1,32 @@
+ulcera.txt
+"ulcera"
+"ulcera"
+"ulcera allo stomaco, ulcera gastrica"
+"ulcera da decubito"
+"ulcera duodenale"
+"ulcera gastrica"
+"ulcera peptica"
+M>ulcus</E
+M>ris</E
+M>u. da cause chimiche</E
+M> fisiche</E
+M> meccaniche</E
+M> complesse</E
+M>u. infettiva</E
+M> trofica</E
+M> neoplastica</E
+M>u. sifilitica</E
+M>dura</E
+M> u. venerea</E
+M>molle</E
+M>u. gastrica</E
+M> u. duodenale</E
+M>u. della cornea</E
+M> della vulva</E
+M>ulcera</E
+M>avere l’u.</E
+M> soffrire di u.</E
+M> operarsi di ulcera.</E
+M>u. corneale</E
+M> u. gastrointestinale</E
+M> u. delle zampe</E

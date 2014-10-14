@@ -1,0 +1,51 @@
+assalto.txt
+"assalto"
+"assalto aggravato"
+"assalto agli sportelli"
+"assalto con rapina"
+"assalto frontale"
+"di assalto"
+"prendere d'assalto"
+"soldato dei reparti d'assalto"
+"squadrone d'assalto"
+"truppe d'assalto"
+*[[attacco]], [[aggressione]], [[attacco]], [[irruzione]], [[incursione]]
+*''(di imbarcazione)'' [[abbordaggio]], [[abbordo]], [[arrembaggio]]
+*[[assaltare]]
+M>assaltus</E
+M>assalire</E
+M>iniziare</E
+M>l’a</E
+M>respingere l’a</E
+M>dare l’a</E
+M>a una fortezza</E
+M>andare</E
+M>muovere all’a</E
+M>prendere d’a</E
+M>conquistare al primo a</E
+M>l’a</E
+M>dei banditi a una banca</E
+M>alla diligenza</E
+M>all’assalto!</E
+M>prendere d’a</E
+M>un negozio</E
+M>un treno</E
+M>l’a</E
+M>del dubbio</E
+M>un a</E
+M>di febbre</E
+M>cogliere una persona d’a</E
+M>prendere d’a</E
+M>una difficoltà</E
+M>un lavoro</E
+M>attacco</E
+M>reparti d’a</E
+M>aviazione d’a</E
+M>mezzi d’a</E
+M>d’assalto</E
+M>un pretore d’a</E
+M>un imprenditore</E
+M>un finanziere d’a</E
+M>fu toccato al primo</E
+M>al secondo assalto</E
+M>ripresa</E

@@ -1,0 +1,33 @@
+salone.txt
+"salone"
+"salone"
+"salone"
+"salone artistico"
+"salone del mobile"
+"salone dell'auto"
+"salone di barbiere"
+"salone di bellezza"
+"salone di bellezza"
+"salone nautico"
+"salone per aste"
+M>sala</E
+M>salon</E
+M>s. delle feste</E
+M>s. da ballo</E
+M>s. dei congressi</E
+M>un s. affrescato</E
+M>S. dei Cinquecento</E
+M>il Salone</E
+M>s. di prima classe</E
+M>s. di seconda classe</E
+M>aprire i s.</E
+M>un appartamento composto di salone</E
+M> tre stanze e doppî servizî.</E
+M>salon</E
+M>S. di bellezza</E
+M>s. della moda</E
+M>s. dell&#8217;artigianato</E
+M>il S. internazionale dell&#8217;automobile</E
+M>il S. internazionale della tecnica</E
+M>S. nautico</E
+M>vettura salone</E

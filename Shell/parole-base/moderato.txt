@@ -1,0 +1,46 @@
+moderato.txt
+"dolore moderato"
+"essere moderato"
+"moderato"
+"moderato"
+"moderato"
+"moderato"
+"moderato"
+"moderato"
+"moderato di tono"
+"moderato ma non troppo"
+"tono moderato"
+*[[contenuto]], [[misurato]]
+M>moderare</E
+M>un’allegria</E
+M>una gioia m</E
+M>una m</E
+M>severità</E
+M>richieste</E
+M>esigenze m</E
+M>fare uso m</E
+M>del vino</E
+M>dei liquori</E
+M>i suoi prezzi sono sempre m</E
+M>procedere a velocità m</E
+M>cuocere a m</E
+M>calore</E
+M>allegro</E
+M>andante</E
+M>andante moderato</E
+M>essere m</E
+M>nel mangiare</E
+M>nel bere</E
+M>nelle proprie pretese</E
+M>un uomo m</E
+M>uno spirito m</E
+M>il suo discorso è stato assai moderato</E
+M>idee</E
+M>opinioni</E
+M>tendenze m</E
+M>fare una politica m</E
+M>partito m</E
+M>bere</E
+M>mangiare moderatamente</E
+M>una politica moderatamente innovatrice</E
+M>stirare con ferro moderatamente caldo</E

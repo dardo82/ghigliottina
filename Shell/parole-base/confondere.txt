@@ -1,0 +1,65 @@
+confondere.txt
+"confondere"
+"confondere"
+"confondere"
+"confondere con"
+"confondere le cose"
+"confondere per"
+"confondere qualcuno"
+"confondere, disorientare"
+"confondere, disorientare"
+#*''Ti '''avevo confuso''' con mio padre''
+#*''Mi '''hai confuso''', chi è che ti piace?''
+#*''«Sara, il vestito che indossate stasera risalta il colore dei vostri occhi
+M>conf</E
+M>con</E
+M>fondere</E
+M>chi m’ha confuso questi fogli?</E
+M>la Chiesa di Roma</E
+M>Per c</E
+M>in sé due reggimenti</E
+M>Cade nel fango</E
+M>e sé brutta e la soma</E
+M>tirannia e l’ignoranza</E
+M>che confondono i vocaboli e le idee più chiare</E
+M>cerca di non confonderti con quella brutta gente</E
+M>mi deve aver confuso con un mio collega</E
+M>tu confondi il teorema di Euclide con quello di Pitagora</E
+M>i due gemelli sono così somiglianti</E
+M>che si confondono facilmente</E
+M>i nomi</E
+M>le date</E
+M>i colori</E
+M>tu confondi</E
+M>il fatto avvenne nel 1911.</E
+M>tutto questo chiasso mi confonde le idee</E
+M>mi confonde la testa</E
+M>la troppa luce mi confonde gli occhi</E
+M>m’hai confuso con la tua interruzione</E
+M>non mi c.</E
+M>vedi che sto scrivendo</E
+M>lo confonde con tutte quelle domande</E
+M>tu mi confondi con tante premure</E
+M>via</E
+M>lei mi confonde!</E
+M>ha addotto mille ragioni per cercare di confondermi</E
+M>sapremo c</E
+M>i nostri calunniatori</E
+M>Iddio confonde l’orgoglio dei malvagi</E
+M>Dinanzi a la pietà d’i due cognati</E
+M>Che di trestizia tutto mi confuse</E
+M>Dio conosce i miei mancamenti</E
+M>e quello che ne conosco anch’io</E
+M>basta a confondermi</E
+M>ho posato le carte sul tavolo e si sono confuse con quelle del mazzo</E
+M>si confuse tra la folla</E
+M>le persone si confondono nella nebbia</E
+M>gli alberi si confondevano in lontananza</E
+M>sono ricordi che si confondono nella mia memoria</E
+M>a un tratto si è confuso e ha stentato a riprendersi</E
+M>gli affari gli vanno male</E
+M>tuttavia lui non si confonde</E
+M>non ti confondere a cercar la matita</E
+M>la troveremo più tardi</E
+M>si confonde troppo con il gioco</E
+M>non si confonda!</E

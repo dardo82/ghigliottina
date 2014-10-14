@@ -1,0 +1,43 @@
+monumento.txt
+"monumento"
+"monumento ai caduti"
+"monumento commemorativo"
+"monumento commemorativo"
+"monumento nazionale"
+"monumento nazionale"
+*italiano
+M>monumentum</E
+M>monere</E
+M>porre</E
+M>erigere</E
+M>costruire un monumento</E
+M>onorarî</E
+M>commemorativi</E
+M>equestre a Garibaldi</E
+M>funebre</E
+M>sepolcrale</E
+M>il monumento Vidi ove posa il corpo di quel grande</E
+M>tomba</E
+M>e viderlo già del monimento uscir fuori</E
+M>guida dei m</E
+M>visita ai m</E
+M>della città</E
+M>Soprintendenza ai m</E
+M>nazionale</E
+M>egiziani</E
+M>etruschi</E
+M>dell’età della pietra</E
+M>monumento</E
+M>documento</E
+M>naturale</E
+M>solenne come un monumento Tu guardi i campi liberi e fecondi</E
+M>Il bove</E
+M>mostrando</E
+M>quanto amava e venerava i sacri monumenti delle lettere</E
+M>Monumenta Germaniae historica</E
+M>Historiae patriae monumenta</E
+M>non dunque un m</E
+M>a Virgilio: troppo solenne se ne levò da sé</E
+M>exegi monumentum aere perennius</E
+M>una gran tomba</E
+M>Monumento di lagrime e di duolo</E

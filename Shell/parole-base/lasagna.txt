@@ -1,0 +1,15 @@
+lasagna.txt
+"http://api.wordreference.com/12bee/json/iten/lasagna/"
+M>*lasania</E
+M>las</E
+M>num</E
+M>un piatto di lasagne</E
+M>lasagne al sugo</E
+M>al forno</E
+M> alla bolognese</E
+M>un pasticcio</E
+M>un timballo di lasagne</E
+M>verdi</E
+M>un alto ufficiale</E
+M>con tante l</E
+M>sul berretto</E

@@ -1,0 +1,28 @@
+mezzanotte.txt
+"mezzanotte"
+"mezzanotte"
+"sole di mezzanotte"
+"spuntino di mezzanotte"
+"suonare mezzanotte"
+"tra mezzogiorno e mezzanotte"
+*[[nord]], [[settentrione]], [[tramontana]], [[borea]]
+*[[mezzogiorno]]
+M>mezzo</E
+M>notte</E
+M>enòtti</E
+M>anòtti</E
+M>vera</E
+M>media</E
+M>civile</E
+M>sole di m</E
+M>è m</E
+M>in punto</E
+M>e mezzo</E
+M>l’una</E
+M>le due dopo m</E
+M>verso m</E
+M>verso la m</E
+M>suona</E
+M>batte la m</E
+M>è scoccata ora la mezzanotte</E
+M>mezzogiorno</E

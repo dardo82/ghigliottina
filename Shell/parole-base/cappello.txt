@@ -1,0 +1,91 @@
+cappello.txt
+"attaccare il cappello"
+"cappello"
+"cappello"
+"cappello"
+"qs che assomiglia ad un cappello"
+"cappello a cencio"
+"cappello a cilindro"
+"cappello a cilindro"
+"cappello a cilindro"
+"cappello da baseball"
+"cappello da cowboy"
+"cappello da marinaio"
+"cappello di castoro"
+"cappello di feltro"
+"cappello di paglia"
+"cappello di paglia"
+"cappello di paglia"
+"cappello di Panama"
+"cappello di seta"
+"cappello maschile"
+"fermaglio; molletta per fermare il cappello di una signora"
+"laccio del cappello che passa sotto il mento"
+"levare il cappello, fare tanto di cappello"
+"mettere il cappello"
+"tanto di cappello"
+"togliersi il cappello"
+*[[copricapo]]
+M>*cappellus</E
+M>cappa</E
+M>duro</E
+M>a cencio</E
+M>a cilindro</E
+M>a staio</E
+M>a tuba</E
+M>berretto</E
+M>goliardico</E
+M>alla moschettiera</E
+M>alla cacciatora</E
+M>di paglia</E
+M>da sole</E
+M>da uomo</E
+M>da donna</E
+M>da prete</E
+M>nicchio</E
+M>berretta da prete</E
+M>spalla</E
+M>polpa di spalla</E
+M>copertina</E
+M>a lucerna</E
+M>mettersi</E
+M>levarsi</E
+M>togliersi il c</E
+M>tenere il c</E
+M>in testa</E
+M>portare il c</E
+M>sulle ventitré</E
+M>levarsi il c</E
+M>far di c</E
+M>far tanto di c</E
+M>a qualcuno</E
+M>prendere c.</E
+M>attaccare il c</E
+M>al chiodo</E
+M>il primogenito ha preso moglie e</E
+M>come si dice da noi</E
+M>ha attaccato il c</E
+M>al chiodo</E
+M>ossia</E
+M>essendo la sposa unica figlia ereditiera di un podere</E
+M>è andato a stare in casa dei suoceri</E
+M>fare</E
+M>dare un c</E
+M>a qualcuno</E
+M>cardinalizio</E
+M>cappello</E
+M>prendere</E
+M>ricevere il c</E
+M>lasciò la dignità</E
+M>e rifiutò il c</E
+M>prelatizio</E
+M>Ritornerò poeta</E
+M>e in sul fonte Del mio battesmo prenderò ’l c</E
+M>cima</E
+M>colmo</E
+M>pileo</E
+M>di ferro</E
+M>cappellaccio</E
+M>fondo mobile</E
+M>a tre venti</E
+M>boccardello</E

@@ -1,0 +1,233 @@
+porre.txt
+"cercare di porre rimedio a"
+"modo di porre le cose"
+"porre"
+"porre"
+"porre"
+"supporre, immaginare"
+"porre"
+"porre"
+"porre al bando"
+"porre fine"
+"porre fine"
+"porre fine a"
+"porre fine a"
+"porre fine a"
+"porre fine all'impiego"
+"porre freno"
+"porre grande attenzione a"
+"porre in essere"
+"porre in evidenza"
+"porre in relazione"
+"porre in una camera"
+"porre l'accento"
+"porre l'enfasi"
+"porre le basi"
+"porre mano a"
+"porre particolare attenzione a"
+"porre separatamente"
+"porre un argine"
+"porre un limite"
+"porre un valore su"
+"porre una condizione"
+"porre una domanda"
+"porre una domanda"
+#*'''''Pose''' il libro sulla mensola''
+#*'''''Poniamo''' che tu abbia ragione, cosa mi cambierebbe?''
+#*''
+#*''
+#*''
+*[[mettere]], [[appoggiare]], [[sistemare]], [[collocare]], [[posare]], [[situare]], [[riporre]], [[depositare]], [[deporre]], [[distendere]], [[adagiare]], [[piantare]], [[fissare]], [[stabilire]], [[apporre]]
+*[[fissare]], [[stabilire]]
+*[[supporre]], [[ipotizzare]], [[immaginare]], [[ammettere]], [[presumere]], [[affermare]], [[asserire]]
+*''(una domanda)'' [[rivolgere]], [[presentare]]
+*[[contrapporre]], [[opporre]]
+*[[sottoporre]], [[sovrapporre]],[[porsi]], [[imporre]]
+* Devoto/Oli, '' Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1576
+M>io póngo</E
+M>tu póni</E
+M>egli póne</E
+M>noi poniamo</E
+M>pogn</E
+M>amo</E
+M>voi ponéte</E
+M>essi póngono</E
+M>pósi</E
+M>ponésti</E
+M>póse</E
+M>puòse</E
+M>ponémmo</E
+M>ponéste</E
+M>pósero</E
+M>puòsero</E
+M>pósono</E
+M>puòsono</E
+M>porrò</E
+M>ponerò</E
+M>porrèi</E
+M>ponerèi</E
+M>pónga</E
+M>pógna</E
+M>poniamo</E
+M>poniate</E
+M>pogn</E
+M>amo</E
+M>pogn</E
+M>ate</E
+M>ponghiamo</E
+M>ponghiate</E
+M>póngano</E
+M>pósto</E
+M>pòsito</E
+M>ponuto</E
+M>pon</E
+M>ponévo</E
+M>ponèndo</E
+M>pognèndo</E
+M>mettere</E
+M>mettere</E
+M>porsi a sedere</E
+M>porsi in cammino</E
+M>por</E
+M>por mente</E
+M>por mano</E
+M>por fine</E
+M>por termine</E
+M>senza por tempo in mezzo</E
+M>mettere</E
+M>le schede nello schedario</E
+M>i libri sulla mensola</E
+M>un vaso sul davanzale</E
+M>i vestiti nell&#8217;armadio</E
+M>la minestra sul fuoco</E
+M>il vino in fresco</E
+M>le valigie sulla reticella</E
+M>la firma su un documento</E
+M>il bambino nella culla</E
+M>una sentinella di guardia</E
+M>in versi</E
+M>in musica</E
+M>in rima</E
+M>in ordine</E
+M>in disordine</E
+M>in salvo</E
+M>a frutto</E
+M>a interesse un capitale</E
+M>un termine</E
+M>un limite</E
+M>un fine</E
+M>il piede in fallo</E
+M>porsi a tavola</E
+M>in un angolo</E
+M>accanto al fuoco</E
+M>porsi a sedere</E
+M>porsi in mezzo</E
+M>porsi in viaggio</E
+M>in marcia</E
+M>porsi in contatto con qualcuno</E
+M>porsi in salvo</E
+M>porsi nelle mani di qualcuno</E
+M>porsi all&#8217;opera</E
+M>porsi in posizione supina</E
+M>al bando</E
+M>a confronto</E
+M>a effetto</E
+M>a morte</E
+M>ai voti</E
+M>in atto</E
+M>in chiaro</E
+M>in croce</E
+M>in dubbio</E
+M>in pericolo</E
+M>in fuga</E
+M>in grado</E
+M>in opera</E
+M>in esecuzione</E
+M>in vendita</E
+M>a repentaglio</E
+M>al coperto</E
+M>al riparo</E
+M>poniamo che</E
+M>poniamo il caso che</E
+M> di</E
+M>poniamo che l&#8217;imputato abbia mentito</E
+M>poniamo di avere torto</E
+M> poniamo il caso che si tratti di un errore</E
+M>poniamo il caso che io arrivi troppo tardi</E
+M>poniamo il caso di vincere le elezioni</E
+M>poniamo che</E
+M>porre</E
+M>timore</E
+M>soggezione</E
+M>mettere</E
+M>porre</E
+M>egli pose una mano sul capo</E
+M>le pose un fiore tra i capelli</E
+M>Ambo le mani in su l&#8217;erbetta sparte Soavemente &#8217;l mio maestro pose</E
+M>le fondamenta</E
+M>le basi di un edificio</E
+M>di una costruzione</E
+M>le basi</E
+M>le fondamenta di una nuova cultura</E
+M>di una società civile</E
+M>la prima pietra</E
+M>il campo</E
+M>le tende</E
+M>l&#8217;assedio</E
+M>a vigna</E
+M>a frutteto un terreno</E
+M>porre</E
+M>in oblio</E
+M>mettere in dimenticanza</E
+M>Posto l&#8217;orgoglio e quel sembiante altiero</E
+M>Umilmente a Zerbin si raccomanda</E
+M>giù</E
+M>Pon giù omai</E
+M>pon giù ogne temenza</E
+M>la moglie pose a perenne memoria</E
+M>i cittadini posero con animo riconoscente</E
+M>pose</E
+M>posero</E
+M>posuit</E
+M>posuerunt</E
+M>i templi</E
+M>l&#8217;arte non pose a questo fine</E
+M>Democrito che &#8217;l mondo a caso pone</E
+M>una premessa</E
+M>un mondo ideale oltre le apparenze sensibili</E
+M>secondo gli idealisti</E
+M>l&#8217;io pone l&#8217;oggetto</E
+M>il caso che si ottiene ponendo a</E
+M>posto xy</E
+M>se ne deduce la seguente uguaglianza</E
+M>porre</E
+M>mettere</E
+M>una domanda</E
+M>un quesito</E
+M>una questione</E
+M>esattamente una questione</E
+M>la questione nei suoi giusti termini</E
+M>la questione mi pare posta male</E
+M>le basi</E
+M>le premesse</E
+M>i presupposti</E
+M>la propria candidatura</E
+M>freno</E
+M>mente a qualcosa</E
+M>il tempo in qualche cosa</E
+M>la mira in</E
+M>qualche cosa</E
+M>la mira sopra</E
+M>addosso a una persona</E
+M>a una cosa</E
+M>mettere</E
+M>gli occhi</E
+M>lo sguardo</E
+M>fiducia</E
+M>speranza in qualcuno</E
+M>affetto</E
+M>amore in qualcuno</E
+M>in essere</E
+M>l&#8217;animo a qualche cosa</E
+M>la donna</E
+M>pose l&#8217;animo alle parole della sua fante</E

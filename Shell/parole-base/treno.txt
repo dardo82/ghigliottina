@@ -1,0 +1,31 @@
+treno.txt
+"biglietto del treno"
+"con il treno, in treno"
+"direttissimo, treno espresso"
+"fermata del treno"
+"il treno porta un ritardo di"
+"per treno"
+"prendere un treno"
+"treno"
+"treno"
+"treno"
+"treno a breve percorrenza"
+"treno a vapore"
+"treno ad alta velocità"
+"treno elettrico"
+"treno elettrico"
+"treno espresso"
+"treno locale"
+"treno merci"
+"treno passeggeri"
+"treno postale"
+"treno rapido"
+"ultimo vagone del treno"
+"viaggio in treno"
+#* ''salire sul 
+*[[convoglio]] [[ferroviario]]
+*[[retrotreno]]
+* [[biglietto]], [[binario]], [[controllore]], [[ferrovia]], [[locomotiva]], [[macchinista]], [[stazione]], [[vagone]], [[viaggiatore]], [[passeggero]], [[merci]], [[espresso]], [[rapido]], [[diretto]], [[locale]]
+* ''perdere il 
+* ''corri, che perdi il 
+*Enciclopedia [http

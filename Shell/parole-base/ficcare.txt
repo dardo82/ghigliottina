@@ -1,0 +1,46 @@
+ficcare.txt
+"entrare senza essere invitato; intromettersi; ficcare il naso"
+"ficcare"
+"spingere, conficcare"
+"ficcare"
+"ficcare, replace: ficcarsi"
+"ficcare il naso"
+"ficcare il naso in"
+"ficcare il naso in"
+"ficcare in testa a qualcuno"
+"ficcare qualcosa in testa a qualcuno"
+"infilarsi in, intrufolarsi in, ficcare il naso in, mettere il becco in"
+*'' ficcare il naso''
+*[[rificcare]]
+M>*figicare</E
+M>fig</E
+M>io ficco</E
+M>tu ficchi</E
+M>un palo in terra</E
+M>un chiodo nel muro</E
+M>un dito in un occhio</E
+M>ficcarsi le dita nel naso</E
+M>ficcarsi le mani in tasca</E
+M>le masserizie in un angolo</E
+M>l’hanno preso e ficcato in prigione</E
+M>gli occhi</E
+M>gli occhi in viso</E
+M>addosso a qualcuno</E
+M>Tanto che</E
+M>per ficcar lo viso a fondo</E
+M>I0 non vi discernea alcuna cosa</E
+M>il naso in una cosa</E
+M>in una faccenda</E
+M>ficcarsi in testa una cosa</E
+M>ficcarla a qualcuno</E
+M>ficcarsi sotto le lenzuola</E
+M>ficcarsi in un angolo</E
+M>in un paesino sperduto di montagna</E
+M>dove mai si son ficcati i miei arnesi?</E
+M>ficcarsi in un’impresa</E
+M>in un guaio</E
+M>ficcarcisi fino al collo</E
+M>fino agli occhi</E
+M>dovendo in ciascheduno fianco essere almeno due cannoniere</E
+M>ordineremo che una strisci il baluardo e ficchi la contrascarpa</E
+M>e l’altra strisci la contrascarpa e ficchi il baluardo</E

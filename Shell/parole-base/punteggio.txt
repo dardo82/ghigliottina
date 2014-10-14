@@ -1,0 +1,15 @@
+punteggio.txt
+"assegnare un punteggio"
+"attribuire un punteggio"
+"cartellino del punteggio"
+"fare punteggio"
+"il punteggio"
+"pareggiare il punteggio"
+"punteggio"
+"punteggio"
+"sistema di valutazione a punteggio"
+#*''Pur avendo totalizzato un alto punteggio, non abbiamo vinto la gara''
+#* ''Il mio punteggio al test del QI è stato di x''
+* ''(in una gara)''
+* ''(in un esame)''
+* [[punto]]

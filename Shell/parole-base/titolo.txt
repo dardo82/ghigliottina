@@ -1,0 +1,215 @@
+titolo.txt
+"a che titolo"
+"a pieno titolo"
+"a titolo di"
+"a titolo di esempio"
+"a titolo di risarcimento"
+"a titolo esemplificativo"
+"a titolo gratuito"
+"a titolo informativo"
+"a titolo oneroso"
+"a titolo personale"
+"a vario titolo"
+"assicurazione di titolo"
+"avendo titolo nobiliare"
+"cacciatore bianco (anche titolo di film)"
+"documento che stabilisce il titolo di proprietà"
+"lettera del titolo"
+"onorare conferendo un titolo"
+"per titolo"
+"per titolo"
+"per titolo"
+"relativo al documento che stabilisce il titolo di proprietà"
+"ruolo del personaggio che dà il titolo all'opera"
+"senza titolo"
+"senza titolo"
+"tipo di titolo"
+"titolo"
+"titolo"
+"titolo"
+"titolo"
+"titolo"
+"titolo"
+"titolo"
+"titolo (di giornale)"
+"titolo (di rispetto)"
+"titolo a breve termine"
+"titolo a tutta pagina"
+"titolo al portatore"
+"titolo che si vende a poco prezzo"
+"titolo del Debito Pubblico"
+"titolo di credito"
+"titolo di stato"
+"titolo di stato"
+"titolo di stato"
+"titolo di stato garantito dal governo U.S.A."
+"titolo di studio"
+"titolo di studio classico e matematico"
+"titolo di sviluppo"
+"titolo di un articolo"
+"titolo di viaggio"
+"titolo emerito"
+"titolo esentasse"
+"titolo esentasse"
+"titolo fiduciario"
+"titolo giuridico"
+"titolo ipotecario"
+"titolo negoziabile"
+"titolo ordinario"
+"titolo originale"
+"titolo preferenziale di veterano di guerra"
+"Un Sentito Ringraziamento (Titolo di film)"
+* (di libro, film) [[intestazione]]
+*di giornale) [[testata]]
+*(nobiliare, ecclesiastico, professionale) [[appellativo]], [[requisito]], [[nome]], [[qualifica]], [[attribuzione]]
+*[[diploma]], [[laurea]]
+*(di dizionario, enciclopedia) [[lemma]]
+*[[titolare]], [[titolo tossico]]
+*''a titolo di''
+m>tit</e
+m>lus</e
+m>titulus</e
+m>t. di un romanzo</e
+m>di un racconto</e
+m>di una raccolta di poesie</e
+m>di un&rsquo;ode</e
+m>t. di un saggio storico</e
+m>critico</e
+m>t. di un dramma</e
+m>di una commedia</e
+m>di un&rsquo;opera lirica</e
+m>di un film</e
+m>t. di un dipinto</e
+m>di una scultura</e
+m>t. di una composizione musicale</e
+m>di una sinfonia</e
+m>un articolo con t. su due colonne</e
+m>non conosco i fatti di cui parla il giornale</e
+m>ho letto soltanto il titolo.</e
+m>il catalogo della biblioteca</e
+m>della casa editrice</e
+m>comprende migliaia di titoli</e
+m>incipit</e
+m>explicit</e
+m>colophon</e
+m>frontespizio</e
+m>t. principale</e
+m>t. alternativo</e
+m> ovvero</e
+m>mezzo t.</e
+m>t. bastardo</e
+m>occhietto</e
+m>t. corrente</e
+m>t. di copertina</e
+m>t. del legatore</e
+m>falso t.</e
+m>soprattitolo</e
+m>sottotitolo</e
+m>t. d&rsquo;apertura</e
+m>t. di spalla</e
+m>titoli di testa</e
+m>titoli di coda</e
+m>t. parlati</e
+m>titolo</e
+m>rubrica</e
+m>T. di una chiesa</e
+m>titolo</e
+m>chiese titolari</e
+m>cardinale titolare</e
+m>cardinale del t. di santa Prassede.</e
+m>dentro da la Muda</e
+m> La qual per me ha &rsquo;l titol de la fame</e
+m>Sì bel titol d&rsquo;Amore ha dato il mondo A una ceca peste</e
+m>Poi vèn colei c&rsquo;ha &rsquo;l titol d&rsquo;esser bella</e
+m>rifiutando d&rsquo;esser chiamato maestro. Il qual t. rifiutato da lui tanto più in lui risplendeva</e
+m>quei</e
+m> cui dona il vulgo Titol di saggio</e
+m>gli diede il t. di ladro</e
+m> d&rsquo;imbroglione</e
+m>gli affibbiò i t. più offensivi</e
+m>sta&rsquo; attento un&rsquo;altra volta prima di dare certi titoli.</e
+m>t. di dignità</e
+m>t. ecclesiastici</e
+m>nobiliari</e
+m>militari</e
+m>cavallereschi</e
+m>di ufficio</e
+m>avere il t. di conte</e
+m>di marchese</e
+m>conferire il t. di commendatore</e
+m>di cavaliere</e
+m>fu assunto a corte col t. di ciambellano</e
+m>il t. di avvocato</e
+m>d&rsquo;ingegnere</e
+m>esercita la professione ma non ha il t.</e
+m>la legge punisce chi fa uso di t. a cui non ha diritto</e
+m>non i t. illustrano gli uomini</e
+m>ma gli uomini i titoli</e
+m>abuso di titoli</e
+m>abolizione dei t. nobiliari</e
+m>Titoli di virtù</e
+m>t. di studio</e
+m>maestro</e
+m> ragioniere</e
+m> perito</e
+m>t. accademici</e
+m>t. di campione</e
+m>il t. italiano</e
+m>mondiale</e
+m>mettere in palio il t.</e
+m>perdere il t.</e
+m>dovrà allenarsi severamente se vuol conservare il titolo.</e
+m>t. d&rsquo;acquisto</e
+m>acquisto a t. originario</e
+m>acquisto a t. derivativo</e
+m>cedere qualche cosa a t. oneroso</e
+m>a t. gratuito</e
+m>successione a t. universale</e
+m>successione a t. particolare</e
+m>t. putativo</e
+m>t. dello stato</e
+m>familiare</e
+m>t. di legittimazione</e
+m>t. rappresentativo</e
+m>t. esecutivo</e
+m>t. di credito</e
+m>titolo</e
+m>t. al portatore</e
+m>t. all&rsquo;ordine</e
+m>t. nominativi</e
+m>t. pubblici</e
+m>privati</e
+m>t. a reddito fisso</e
+m>variabile</e
+m>t. unitarî</e
+m>multipli</e
+m>t. atipici</e
+m>titoli</e
+m>concorso per esame e per titoli</e
+m>non può presentarsi al concorso</e
+m>non ha t. sufficienti</e
+m>titoli a stampa</e
+m>con giusto t.</e
+m>ha acquistato molti t. alla nostra riconoscenza</e
+m>quel che ha fatto mi sembra t. sufficiente perché sia stimato da tutti noi.</e
+m>a titolo di</e
+m>me l&rsquo;hanno concesso a t. di premio</e
+m>a t. d&rsquo;incoraggiamento</e
+m>elargire una somma a t. di sussidio</e
+m>te lo chiedo a t. di curiosità</e
+m>sotto t. di</e
+m>vendute alcune possessioni ... sotto t. di volere co&rsquo; denari andar mercatando</e
+m>t. di ordinazione</e
+m>Titolo di una lega</e
+m>di una soluzione</e
+m>di una miscela</e
+m>T. di una moneta</e
+m>t. legali dei metalli preziosi non monetati</e
+m>t. del complemento</e
+m>t. degli anticorpi</e
+m>t. del vapore</e
+m>t. di un concime</e
+m>di un fertilizzante</e
+m>t. della semente</e
+m>V = pg/</e
+m>valore reale</e

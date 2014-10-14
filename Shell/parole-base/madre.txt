@@ -1,0 +1,169 @@
+madre.txt
+"a mia madre"
+"casa madre"
+"casa madre"
+"cellula madre"
+"chiave madre"
+"chiesa madre"
+"da brava madre"
+"della madre"
+"di madre di famiglia, direttrice"
+"di madre perla"
+"essere madre"
+"la Vergine Madre"
+"lievito madre"
+"lingua madre"
+"lingua madre"
+"lingua madre"
+"lingua madre"
+"lingua madre"
+"madre"
+"madre"
+"che è madre"
+"madre"
+"madre"
+"madre"
+"madre"
+"madre"
+"madre"
+"madre adottiva"
+"madre che allatta"
+"madre patria"
+"madre superiora"
+"madre terra"
+"madre terra"
+"mia madre"
+"mia madre"
+"ogni scarafaggio sembra bello a sua madre"
+"orfano di madre"
+"radice madre"
+"ragazza madre"
+"regina madre"
+"scheda madre"
+"società madre"
+"tintura madre"
+#* ''mia 
+#*''è tutto sua 
+#* ''Anna vorrebbe tanto diventare 
+#* ''ho adottato un [[gattino]], aveva perso la 
+*[[mamma]]
+*[[dura madre]]
+*[[padre]]
+*italiano
+M>mater</E
+M>tris</E
+M>tenera</E
+M>affettuosa</E
+M>amorosa</E
+M>snaturata</E
+M>amore di m</E
+M>di molti figli</E
+M>diventare m</E
+M>ragazza m</E
+M>nubile</E
+M>loro</E
+M>mia m</E
+M>tua m</E
+M>sua m</E
+M>nostra m</E
+M>vostra m</E
+M>hai visto la loro madre?</E
+M>mamma</E
+M>di famiglia</E
+M>la m</E
+M>è sempre m</E
+M>sono madre</E
+M>sono la m</E
+M>è una m</E
+M>non ha cuore</E
+M>non ha viscere di m</E
+M>per parte di m</E
+M>spirituale</E
+M>nobile</E
+M>padre nobile</E
+M>Regina m</E
+M>di Dio</E
+M>Vergine m</E
+M>dei peccatori</E
+M>di misericordia</E
+M>di grazia</E
+M>di carità</E
+M>Gran Madre</E
+M>Magna Mater</E
+M>surrogata</E
+M>surrogate mother</E
+M>ospite</E
+M>sostituta</E
+M>in affitto</E
+M> in vitro</E
+M>surrogata</E
+M>sostituta</E
+M>il micino gioca con la madre</E
+M>artificiale</E
+M>Teresa</E
+M>la m</E
+M>badessa</E
+M>mi ascolti</E
+M>madre</E
+M>è stata una m</E
+M>per lui</E
+M>la terra m</E
+M>la m</E
+M>terra</E
+M>la m</E
+M>di tutti</E
+M>la gran m</E
+M>antica</E
+M>la nostra m</E
+M>antica</E
+M>l’antica m</E
+M>quella</E
+M>Che veramente è rea</E
+M>che de’ mortali Madre è di parto e di voler matrigna</E
+M>natura</E
+M>come m</E
+M>natura l’ha fatto</E
+M>dei santi</E
+M>dei fedeli</E
+M>santa m</E
+M>Chiesa</E
+M>Non è questa la patria in ch’io mi fido</E
+M>benigna e pia</E
+M>Che copre l’un e l’altro mio parente?</E
+M>l’esperienza è m</E
+M>di scienza</E
+M>Ahi</E
+M>Costantin</E
+M> di quanto mal fu matre</E
+M>Non la tua conversion</E
+M>ma quella dote Che da te prese il primo ricco patre!</E
+M>idea m</E
+M>lingua m</E
+M>lingua</E
+M>patria</E
+M>scena m</E
+M>scheda m</E
+M>Abbazia m</E
+M>casa m</E
+M>Chiesa m</E
+M>chiesa matrice</E
+M>ecclesia matrix</E
+M>matrice</E
+M>mal di madre</E
+M>madreforma</E
+M>madrevite</E
+M>lamine</E
+M>a madre e figlia</E
+M>ceppaia</E
+M>Pianta m</E
+M>del sughero</E
+M>cellula m</E
+M>cellule figlie</E
+M>roccia m</E
+M>dell’aceto</E
+M>Acetobacter aceti</E
+M>del vino</E
+M>Acqua m</E
+M>acque madri delle saline</E
+M>dura m</E
+M>pia m</E

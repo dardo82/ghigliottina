@@ -1,0 +1,47 @@
+riscatto.txt
+"a noleggio con diritto di riscatto"
+"impedire il riscatto di un'ipoteca"
+"noleggio con diritto di riscatto"
+"riscatto"
+"riscatto"
+"riscatto"
+"somma pagata per un riscatto"
+"riscatto, riscattare"
+"valore di riscatto"
+:* ''il 
+* ''(effetto e azione del riscattare)'' [[liberazione]], [[redenzione]], [[affrancamento]]
+*'' (liberazione da un obbligo)'' [[retratto]]
+*[[asservimento]], [[assoggettamento]] 
+M>chiedere</E
+M>ottenere</E
+M>trattare il r</E
+M>di un prigioniero di guerra</E
+M>di uno schiavo</E
+M>di una persona rapita a scopo di estorsione</E
+M>prezzo</E
+M>somma del r</E
+M>riscatto</E
+M>chiedere un grosso r</E
+M>versare il riscatto</E
+M>Tutti fatti a sembianza d&#8217;un Solo</E
+M>Figli tutti d&#8217;un solo Riscatto</E
+M>lottare per il r</E
+M>del proprio paese dalla dominazione straniera</E
+M>per il r</E
+M>degli oppressi</E
+M>di un prestito</E
+M>patto di r</E
+M>nella compravendita</E
+M>di un&#8217;assicurazione sulla vita</E
+M>valore di r</E
+M>di concessioni</E
+M>del periodo di studî universitarî</E
+M>della laurea</E
+M>degli anni di servizio militare</E
+M>di servizio fuori ruolo</E
+M>di un appartamento</E
+M>di una casa</E
+M>appartamenti</E
+M>case a riscatto</E
+M>di un fondo</E
+M>di un fondo rustico</E

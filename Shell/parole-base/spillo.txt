@@ -1,0 +1,71 @@
+spillo.txt
+"capocchia di spillo"
+"capocchia di spillo"
+"capoccia di spillo"
+"foro di spillo"
+"punta di spillo"
+"puntura di spillo"
+"spillo"
+"spillo"
+"tacchi a spillo"
+"tacchi a spillo, tacchi alti"
+"valvola a spillo"
+#* ''capo di 
+#* ''
+#* ''
+#* ''arma a 
+#* ''a 
+#* ''colpo di 
+#* ''essere appuntato con gli '''spilli'''''
+M>s. di acciaio</E
+M>di ottone</E
+M>il capo</E
+M>la capocchia</E
+M>la punta dello s.</E
+M>una scatola di spilli</E
+M>una carta</E
+M>cartina di spilli</E
+M>fissare l&#8217;orlo della gonna</E
+M>unire due fogli di carta con uno s.</E
+M>pungersi con uno spillo</E
+M>avere gli occhi come due s.</E
+M>spillo di sicurezza</E
+M>da balia</E
+M>spilla</E
+M>spillo di sicurezza</E
+M>a spillo</E
+M>tacchi a s.</E
+M>Colpi di spillo</E
+M>parole</E
+M>malignità come colpi di s.</E
+M>a colpi di s.</E
+M>perforare un foglio</E
+M>un cartoncino</E
+M>delineare un contorno a colpi di s.</E
+M>litigare</E
+M>punzecchiarsi</E
+M>polemizzare</E
+M>combattere a colpi di s.</E
+M>Puntura di spillo</E
+M>spilla</E
+M>un prezioso s. antico di brillanti e rubini</E
+M>s. da cravatta</E
+M>spillone</E
+M>da cappello</E
+M>i neri e giovanili capelli ... si ravvolgevan</E
+M> dietro il capo</E
+M> in cerchi molteplici di trecce</E
+M> trapassate da lunghi s. d&#8217;argento</E
+M> che si dividevano all&#8217;intorno</E
+M> quasi a guisa de&#8217; raggi d&#8217;un&#8217;aureola</E
+M>il vino zampilla dallo spillo</E
+M>valvole</E
+M>carburatori a spillo</E
+M>a spina</E
+M>spillo di formatura</E
+M>ago da formatura</E
+M>punte di spillo</E
+M>è così avaro che non darebbe uno s.</E
+M>un capo di s.</E
+M>neppure a suo fratello</E
+M> se glielo chiedesse</E

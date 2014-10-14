@@ -1,0 +1,37 @@
+barca.txt
+"a forma di barca"
+"andare in barca"
+"barca"
+"imbarcazione"
+"barca"
+"barca a motore"
+"barca a motore"
+"barca a remi"
+"barca a vela"
+"barca con ruote a pale"
+"barca da fiume"
+"barca da pesca; peschereccio"
+"casa-barca"
+"da barca"
+"equipaggiare una barca"
+"essere nella stessa barca"
+"essere sulla stessa barca"
+"frenare la barca remando"
+"gita in barca"
+"l'uscire in barca"
+"la barca a vapore"
+"nella stessa barca"
+"posto barca"
+"punto barca"
+"spingere una barca al largo"
+"tirare i remi in barca"
+"una barca di"
+#*''Una 
+*[[imbarcazione]], [[natante]], [[battello]], [[lancia]]
+*'' (a remi)'' [[canotto]], [[scialuppa]], [[canoa]], [[sandolino]], [[gondola]], [[moscone]], [[gommone]], [[kayak]],[[piroga]]
+*''(a motore)'' [[motoscafo]], [[entrobordo]], [[fuoribordo]]
+*''(a vela)'' [[deriva]], [[cutter]], [[ketch]], [[sloop]]
+*''(da pesca)'' [[paranza]]'', [[gozzo]]
+*''(con più scafi)'' [[catamarano]], [[trimarano]],  [[nave]]
+*[[motobarca]], [[barcamenarsi]]
+*  

@@ -1,0 +1,6 @@
+ateniese.txt
+"Traduzione di ateniese/ non trovata.\nNo translation was found for ateniese/."
+* [[ellenico]],  [[greco]],  [[spartano]]
+M>Atheniensis</E
+M>arte</E
+M>civiltà a</E

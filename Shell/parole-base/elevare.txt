@@ -1,0 +1,42 @@
+elevare.txt
+"elevare"
+"elevare"
+"elevare"
+"elevare"
+"elevare"
+"matematica: elevare a potenza"
+"elevare al cubo"
+"elevare i prezzi"
+*[[elevazione]], [[elevazione a potenza]]
+M>elevare</E
+M>vare</E
+M>io elèvo</E
+M>èlevo</E
+M>di un piano una casa</E
+M>il piano di una strada</E
+M>il livello delle acque</E
+M>lo sguardo</E
+M>il calice</E
+M>cime che si elevano maestose</E
+M> si eleva di trecento metri sul livello del mare</E
+M>l’animo</E
+M>la mente</E
+M>il pensiero a Dio</E
+M>elevarsi con lo spirito alla contemplazione delle cose celesti</E
+M>il proprio tenore di vita</E
+M>il tenore di vita si è elevato in questi ultimi decennî</E
+M>classi sociali che cercano di elevarsi</E
+M>a generale</E
+M>alla carica di prefetto</E
+M>alla dignità cardinalizia</E
+M>a sistema</E
+M>l’arroganza a sistema di vita</E
+M>la corruzione a sistema di governo</E
+M>un numero alla 3</E
+M>alla 5</E
+M>potenza</E
+M>contravvenzione</E
+M>contestarla</E
+M>una protesta</E
+M>protesto</E
+M>un dubbio</E

@@ -1,0 +1,11 @@
+riconquistare.txt
+"riconquistare"
+M>conquistare</E
+M>un territorio</E
+M>una regione</E
+M>i nostri soldati hanno riconquistato le posizioni perdute</E
+M>il regno</E
+M>il predominio</E
+M>la supremazia</E
+M>con il suo ultimo romanzo ha riconquistato un posto eminente fra i narratori italiani</E
+M>dopo dieci secoli di servitù la nazione riconquistò la libertà</E

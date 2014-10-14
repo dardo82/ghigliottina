@@ -1,0 +1,19 @@
+intraprendere.txt
+"intraprendere"
+"intraprendere le pratiche di divorzio"
+"intraprendere un lungo percorso"
+"intraprendere un percorso professionale"
+#* ''voglio 
+#* ''Colombo '''intraprese''' il suo secondo viaggio''
+M>intra</E
+M>prendere</E
+M>prendere</E
+M>i. l’opera di bonifica</E
+M>un viaggio</E
+M>una spedizione</E
+M>Dura impresa intraprende il cavaliere</E
+M>proseguire</E
+M>abbandonare l’opera intrapresa</E
+M>gli studî</E
+M>una carriera</E
+M>intercip</E

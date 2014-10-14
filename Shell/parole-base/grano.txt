@@ -1,0 +1,101 @@
+grano.txt
+"baco del grano"
+"Cacciare il grano"
+"campo di grano"
+"campo di grano"
+"chicco di grano"
+"covoni di grano"
+"crescita del grano"
+"farina di grano"
+"farina di grano"
+"farina di grano"
+"farina di grano duro"
+"farina di grano saraceno"
+"fiocchi di grano"
+"germe di grano"
+"grano"
+"grano"
+"grano"
+"grano"
+"grano da semola"
+"grano duro"
+"grano ibrido"
+"grano tenero"
+"paglia di grano"
+"perlina di vetro; grano di vetro"
+"sciroppo di grano"
+"seme di grano"
+"semola di grano duro"
+"spiga di grano"
+"zucchero di grano"
+*[[frumento]]
+M>granum</E
+M>le grana</E
+M>le grànora</E
+M>Triticum</E
+M>frumento</E
+M>duro</E
+M>tenero</E
+M>seminare</E
+M>mietere</E
+M>trebbiare il g</E
+M>un campo di grano</E
+M>coltivato a grano</E
+M>battaglia del g</E
+M>granello</E
+M>seme</E
+M>un chicco di g</E
+M>insaccare</E
+M>macinare il g</E
+M>farina di grano</E
+M>un sacco</E
+M>un quintale</E
+M>un carico di grano</E
+M>mercante di grano</E
+M>per sant’Urbano</E
+M>il frumento è fatto g</E
+M>ogni g</E
+M>ha la sua semola</E
+M>ogni uccello conosce il g</E
+M>chi ha il g</E
+M>non ha le sacca e chi ha le sacca non ha il g</E
+M>Grano turco</E
+M>granturco</E
+M>Grano saraceno</E
+M>gran saraceno</E
+M>Fagopyrum esculentum</E
+M>Fagopyrum tataricum</E
+M>grano saraceno di Tartaria</E
+M>Grano segalato</E
+M>grano speronato</E
+M>commercio dei grani</E
+M>un g</E
+M>di pepe</E
+M>di sale</E
+M>di panìco</E
+M>di miglio</E
+M>i g</E
+M>della mela granata</E
+M>un g</E
+M>d’incenso</E
+M>i g</E
+M>della corona del rosario</E
+M>granulo</E
+M>grana</E
+M>non ha un g</E
+M>di buon senso</E
+M>ha anche lui qualche g</E
+M>di pazzia</E
+M>mettici un g</E
+M>di buona volontà</E
+M>a grano a grano</E
+M>gialli</E
+M>grain</E
+M>metrico</E
+M>le grana</E
+M>Grani</E
+M>perle di Baily</E
+M>bèili</E
+M>Grani di riso</E
+M>granuli del Sole</E
+M>grani d’orzo</E

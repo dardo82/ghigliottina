@@ -1,0 +1,21 @@
+clima.txt
+"clima"
+"climate, weather conditions, atmospheric conditions"
+"clima"
+"clima"
+"climate, atmosphere "
+"clima aziendale"
+"company climate"
+"clima continentale"
+"continental climate"
+"clima d'opinione"
+"climate of opinion"
+"clima intellettuale"
+"intellectual climate"
+"clima sociale"
+"social climate"
+"clima tropicale"
+"tropical climate"
+"inserirsi in un clima"
+*[[tempo]], [[temperatura]] 
+*Enciclopedia [http

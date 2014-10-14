@@ -1,0 +1,23 @@
+scorpione.txt
+"scorpione"
+"Scorpione"
+"scorpione"
+"Scorpione"
+"Scorpione (segno zodiacale)"
+#* ''Maria è uno '''scorpione'''''
+M>scorpio -onis</E
+M>Scorpionida</E
+M>Falsi scorpioni</E
+M>pseudoscorpioni</E
+M>S. d&#8217;acqua</E
+M>quel tuo collega</E
+M>quella tua collega</E
+M>è un vero scorpione</E
+M>Scorpione</E
+M>Scorpio</E
+M>Scorpius</E
+M>i nati nello S.</E
+M>essere della costellazione dello S.</E
+M>essere dello S.</E
+M>essere uno S.</E
+M>sei anche tu uno S.?</E

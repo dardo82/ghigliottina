@@ -1,0 +1,18 @@
+lucciola.txt
+"lucciola"
+"lucciola"
+*[[lucciolare]]
+*''dare ad intendere (oppure vendere, mostrare, far credere, prendere) '''lucciole''' per lanterne''
+*''veder le '''lucciole'''''
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier p. 1177
+M>lux lucis</E
+M>dare ad intendere</E
+M>vendere</E
+M>mostrare</E
+M>far credere</E
+M>prendere</E
+M>lucciole per lanterne</E
+M>veder le l</E
+M>E cominciò a sciorinare il battaglio E fa veder più lucciole che agosto</E
+M>Lucciola indietro</E
+M>erba lucciola</E

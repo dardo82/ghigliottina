@@ -1,0 +1,8 @@
+operaia.txt
+"base operaia"
+"classe operaia"
+"classe operaia"
+"della classe operaia"
+"della classe operaia"
+"della classe operaia"
+"la classe operaia"

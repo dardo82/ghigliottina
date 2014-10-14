@@ -1,0 +1,70 @@
+costruzione.txt
+"a vetri (di costruzione)"
+"costruzione"
+"costruzione"
+"costruzione"
+"costruzione"
+"costruzione, costruzioni"
+"costruzione d'acciaio"
+"costruzione delle frasi"
+"costruzione di strade"
+"costruzione edilizia"
+"costruzione nazionale"
+"costruzione; edificio"
+"della costruzione della teoria"
+"di nuova costruzione"
+"in costruzione"
+"materiale da costruzione"
+*[[fabbricazione]], [[realizzazione]], [[edificazione]]
+*[[edificio]], [[fabbricato]], [[palazzo]], [[stabile]], opera architettonica
+*[[distruzione]], [[demolizione]], [[smantellamento]]
+*[[ricostruzione]]
+* [[costruire]], [[costruibile]]
+M>constructio</E
+M>onis</E
+M>constru</E
+M>constructus</E
+M>d’una casa</E
+M>d’un ponte</E
+M>di un macchinario</E
+M>materiale</E
+M>legname da c</E
+M>un edificio in c</E
+M>in via di c</E
+M>giochi di costruzione</E
+M>le c</E
+M>palazzo di mirabile c</E
+M>mobili di c</E
+M>solida</E
+M>una c</E
+M>recente</E
+M>vecchia</E
+M>avanzi di antiche c</E
+M>una c</E
+M>massiccia</E
+M>una monumentale c</E
+M>di pietra</E
+M>di mattoni</E
+M>edilizie</E
+M>idrauliche</E
+M>stradali</E
+M>meccaniche</E
+M>navali</E
+M>aeronautiche</E
+M>Scienza delle c</E
+M>studiare</E
+M>esporre</E
+M>analizzare la c</E
+M>di un’ode</E
+M>di un poema</E
+M>novella di c</E
+M>difettosa</E
+M>tracciare la c</E
+M>morale del Purgatorio dantesco</E
+M>diretta</E
+M>inversa</E
+M>fare la c</E
+M>verba timendi</E
+M>opus est</E
+M>utor</E
+M>geometrica elementare</E

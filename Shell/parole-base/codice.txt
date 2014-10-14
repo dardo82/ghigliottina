@@ -1,0 +1,122 @@
+codice.txt
+"codice"
+"codice"
+"codice"
+"codice"
+"codice a barre"
+"codice alfanumerico"
+"codice bancario"
+"codice binario"
+"codice civile"
+"codice commerciale"
+"codice computer"
+"codice della strada"
+"codice delle leggi"
+"codice di avviamento postale"
+"codice di avviamento postale"
+"codice di colori"
+"codice di legge"
+"codice di legge"
+"codice di valori valido più per un gruppo di individui che per un altro"
+"codice disciplinare"
+"codice etico"
+"codice fiscale"
+"codice genetico"
+"codice morale"
+"codice morale, codice etico"
+"codice Morse"
+"codice nazionale"
+"codice penale"
+"codice postale"
+"codice segreto"
+"codice sociale"
+"codice standard americano per scambio di informazioni"
+"codice stradale"
+"see codice di strada"
+"decimale a codice binario"
+"messaggio in codice"
+"mettere in codice"
+"nome in codice"
+"parola in codice"
+#*''il codice filiale di quella banca è 02816''
+* linguaggio cifrato, linguaggio segreto
+*(nella teoria della comunicazione) sistema di simboli, [[formulario]], [[cifrario]]
+*[[palinsesto]], [[legge]],    [[regola]], [[etichetta]]
+M>codex</E
+M>cis</E
+M>cartaceo</E
+M>bombicino</E
+M>membranaceo</E
+M>riscritto</E
+M>palinsesto</E
+M>autografo</E
+M>anonimo</E
+M>adespoto</E
+M>anepigrafo</E
+M>miscellaneo</E
+M>composito</E
+M>mutilo</E
+M>acefalo</E
+M>segnatura del c</E
+M>descrizione dei c</E
+M>stemma dei c</E
+M>atlantico</E
+M>civile</E
+M>penale</E
+M>di procedura civile</E
+M>di procedura penale</E
+M>penale militare</E
+M>di pace</E
+M>di guerra</E
+M>di diritto canonico</E
+M>della navigazione</E
+M>postale e delle telecomunicazioni</E
+M>della strada</E
+M>incappare nel c</E
+M>rasentare</E
+M>sfiorare il c</E
+M>amministrativo</E
+M>cambiario</E
+M>del lavoro</E
+M>cavalleresco</E
+M>deontologico</E
+M>il c</E
+M>della lingua</E
+M>d’onore</E
+M>di comportamento</E
+M>il c</E
+M>della cortesia</E
+M>del galateo</E
+M>della buona educazione</E
+M>diplomatico</E
+M>diplomatico dantesco</E
+M>diplomatico longobardo</E
+M>alfabetici</E
+M>alfanumerici</E
+M>parlare</E
+M>comunicare in codice</E
+M>telegrafico</E
+M>telegrafico Morse</E
+M>cifra</E
+M>cifrario</E
+M>meteorologico</E
+M>meteo</E
+M>internazionale dei segnali</E
+M>nautico</E
+M>telefonico</E
+M>Landi</E
+M>Livorno</E
+M>Ancona</E
+M>Napoli</E
+M>Domodossola</E
+M>Imola</E
+M>alfabetico internazionale</E
+M>c. alfabetico</E
+M>c. alfabetico</E
+M>di avviamento postale</E
+M>fiscale</E
+M>di macchina</E
+M>binario</E
+M>a barre</E
+M>genetico</E
+M>RNA messaggero</E

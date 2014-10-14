@@ -1,0 +1,31 @@
+affitto.txt
+"affitto"
+"affitto"
+"allevamento su terra in affitto"
+"casa per affitto"
+"coltivazione su terra in affitto"
+"dare in affitto"
+"dare in affitto qualcosa"
+"in affitto"
+"prendere in affitto, affittare"
+"relativo all'affitto di un terreno"
+"senza canone d'affitto"
+"soldi dell'affitto"
+*''(di casa, stanza e simili)''[[locazione]] 
+*''(di oggetto)'' [[noleggio]], [[nolo]]
+*''(di esercizio commerciale)'' [[gestione]] 
+*''(somma da pagare)'' [[pigione]], [[canone]]
+*[[affittuario]]
+*Enciclopedia [http
+*Devoto/Oli,''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier p. 43
+M>affictum</E
+M>affictus</E
+M>affictare</E
+M>dare</E
+M>prendere in a</E
+M>un appartamento</E
+M>di fondi rustici</E
+M>nolo</E
+M>pagare</E
+M>riscuotere l’a</E
+M>il blocco degli affitti</E

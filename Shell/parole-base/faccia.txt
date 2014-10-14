@@ -1,0 +1,269 @@
+faccia.txt
+"a faccia aperta"
+"a faccia centrata"
+"a faccia in giù"
+"Alla faccia"
+"alla faccia!"
+"alla tua faccia"
+"avere faccia tosta, di bronzo"
+"essere impudente, sfacciato"
+"avere la faccia di"
+"buon pro vi faccia"
+"buttare qc in faccia a qn"
+"calcio in faccia"
+"carta da gioco con dieci segni sulla faccia"
+"che faccia (hai fatto)!"
+"che ha la faccia da cane"
+"che salva la faccia"
+"dalla faccia (della terra)"
+"dalla faccia bianca"
+"dalla faccia piatta"
+"è ora che tu lo faccia"
+"faccia"
+"faccia"
+"faccia"
+"faccia"
+"faccia"
+"faccia a faccia"
+"faccia a faccia con"
+"faccia a faccia con"
+"faccia a faccia con"
+"faccia buffa"
+"faccia di cartapesta"
+"faccia in giù"
+"faccia pulita"
+"faccia pure!"
+"faccia strana"
+"faccia tosta"
+"faccia tosta, sfacciataggine"
+"graffiare la faccia"
+"guardare in faccia; ammettere"
+"in faccia"
+"in faccia"
+"in piena faccia"
+"in tutto il mondo, nel mondo intero, sulla faccia della Terra"
+"incontrarsi faccia a faccia"
+"incontro faccia a faccia"
+"insistere che qcn faccia qcs"
+"l'altra faccia"
+"l'altra faccia della medaglia"
+"l'altra faccia di una città, i quartieri poveri"
+"metterci la faccia"
+"non fare quella faccia"
+"non guardare in faccia a nessuno"
+"perdere la faccia"
+"prendere a pesci in faccia"
+"ridere in faccia a"
+"ridergli in faccia"
+"Rimetterci la faccia"
+"ritrovarsi faccia a faccia con"
+"salvare, perdere la faccia"
+"schiaffo in faccia"
+"sulla faccia della terra"
+"trattare qcn come una pezza da piedi, trattare qcn a pesci in faccia"
+"una faccia una razza"
+#*'' le diverse facce  della questione''
+#*''le due facce della medaglia''
+*''(espressione e tratti del viso)'' [[aspetto]], [[fisionomia]], [[cera]], [[aria]], [[fattezze]], [[lineamenti]]
+*''(di problema,faccenda )'' [[angolazione]]
+*''(di edificio e simili)'' [[facciata]], [[lato]]
+*''(di oggetti piatti)''[[dritto]], [[rovescio]] 
+*[[coraggio]], [[sfacciataggine]], [[sfrontatezza]], [[impudenza]]
+*[[riserbo]], [[ritegno]], [[riservatezza]], [[pudore]]
+*[[voltafaccia]], [[sfacciatamente]], [[faccia-vista]], [[facciata]]
+*[[volto]]. Il [[volto]] è solo riferito alle persone, mentre la faccia può essere riferita ad oggetti (ad es.le facce dei dadi)
+*Enciclopedia [http
+M>facies</E
+M>fac</E
+M>grassa</E
+M>tonda</E
+M>una f</E
+M>di luna piena</E
+M>una f</E
+M>fresca</E
+M>una bella f</E
+M>una brutta f</E
+M>magra</E
+M>ossuta</E
+M>angolosa</E
+M>pallida</E
+M>emaciata</E
+M>l’uomo</E
+M>poteva avere sui quarant’anni</E
+M> con la testa completamente calva e la larga f. quadrata disegnata da un pizzetto sottilissimo</E
+M>lavarsi la f</E
+M>guardare qualcuno in f</E
+M>rivolgere la f</E
+M>a qualcosa</E
+M>sputare in f</E
+M>a qualcuno</E
+M>un vento che taglia la f</E
+M>una f</E
+M>nuova</E
+M>faccia</E
+M>viso</E
+M>quelle f</E
+M>lorde De lo demonio Cerbero</E
+M>aperta</E
+M>leale</E
+M>franca</E
+M>tetra</E
+M>scura</E
+M>accigliata</E
+M>sofferente</E
+M>da galantuomo</E
+M>patibolare</E
+M>brutta f</E
+M>fare la f</E
+M>feroce</E
+M>gli si legge in f</E
+M>il rimorso</E
+M>la gioia</E
+M>cambiare f</E
+M>appena mi vide cambiò faccia</E
+M>da schiaffi</E
+M>tosta</E
+M>di bronzo</E
+M>invetriata</E
+M>avere una f</E
+M>tosta</E
+M>avere la f</E
+M>tosta di negare l’evidenza</E
+M>avere una f</E
+M>di bronzo</E
+M>essere una f</E
+M>di bronzo</E
+M>avere faccia</E
+M>la f</E
+M>di fare una cosa</E
+M>siam ridotte a far questa f</E
+M>di chieder ricovero</E
+M>voltare f</E
+M>fare un voltafaccia</E
+M>voltare la f</E
+M>far faccia</E
+M>salvare la f</E
+M>perdere la f</E
+M>saremmo capaci</E
+M> dinanzi alla violenza e all’ingiustizia</E
+M> di dire di no; di salvarci l’anima o</E
+M> se questo è pretendere troppo</E
+M> di non perdere la f.?</E
+M>uomo a due f</E
+M>a f</E
+M>in f</E
+M>sulla f</E
+M>dire le cose in f</E
+M>ridere sulla f</E
+M>in f</E
+M>a qualcuno</E
+M>non guardare in f</E
+M>a nessuno</E
+M>vento in f</E
+M>faccia</E
+M>In f</E
+M>in f</E
+M>alla Chiesa non sono sposati</E
+M>in f</E
+M>a un mondo corrotto poté sembrare un utopista</E
+M>in f</E
+M>a lui è un ignorante</E
+M>davanti a</E
+M>A faccia a faccia</E
+M>faccia a faccia</E
+M>lo dica a me a f</E
+M>a f</E
+M>si trovò a f</E
+M>a f</E
+M>col suo avversario</E
+M>face to face</E
+M>un f</E
+M>a f</E
+M>televisivo</E
+M>Di faccia a</E
+M>abitava di f</E
+M>a noi</E
+M>la casa di f</E
+M>A f</E
+M>scoperta</E
+M>aperta</E
+M>Viva la f</E
+M>viva la f</E
+M>degli spaghetti!</E
+M>Alla f</E
+M>tua!</E
+M>salute!</E
+M>alla grazia!</E
+M>facies</E
+M>basedowiana</E
+M>etica</E
+M>febbrile</E
+M>ippocratica</E
+M>peritonitica</E
+M>di luna sorgente</E
+M>parkinsoniana</E
+M>tetanica</E
+M>adenoidea</E
+M>linfatica</E
+M>mixedematosa</E
+M>mongoloide</E
+M>scrofolosa</E
+M>tossica</E
+M>quel ver c’ha faccia di menzogna</E
+M>se le cose stanno così</E
+M>la questione cambia faccia</E
+M>la f</E
+M>del Sole</E
+M>della Luna</E
+M>della Terra</E
+M>il più gran brigante che sia mai stato sulla f</E
+M>della terra</E
+M>una rivoluzione che ha cambiato la f</E
+M>della terra</E
+M>tenebre erano sopra la f</E
+M>dell’abisso</E
+M>laterali</E
+M>fondamentale</E
+M>possibile</E
+M>faccia di sfaldatura</E
+M>le f</E
+M>di un brillante</E
+M>di uno smeraldo</E
+M>le f</E
+M>dei dadi</E
+M>le f</E
+M>laterali del piedistallo</E
+M>le molte f</E
+M>d’una questione</E
+M>la f</E
+M>d’una chiesa</E
+M> d’un edificio</E
+M>facciata</E
+M>a faccia vista</E
+M>facce della moneta</E
+M>facce di un’opera fortificata</E
+M>facce di un bastione</E
+M>la f</E
+M>anteriore</E
+M>posteriore</E
+M>laterale</E
+M>dorsale</E
+M>ventrale</E
+M>le due f</E
+M>d’unione</E
+M>di congiunzione</E
+M>superiore</E
+M>inferiore</E
+M>laterali</E
+M>le due f</E
+M>di un foglio</E
+M>di una pagina</E
+M>pagina</E
+M>a faccia 47</E
+M>tessuto a doppia f</E
+M>double face</E
+M>un bel faccione</E
+M>un faccione rubicondo</E
+M>fare una facciaccia</E
+M>delle facciacce</E
+M>aver la facciaccia di fare una cosa</E

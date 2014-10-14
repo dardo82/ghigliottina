@@ -1,0 +1,32 @@
+indagare.txt
+"indagare"
+"indagare"
+"indagare su"
+"indagare su qcs, investigare su qcs"
+"investigare su, indagare su"
+#*''indagare  i motivi del successo''
+#*''gli astrofisici indagano sulla natura dell'universo''
+*[[cercare]], [[ricercare]], [[studiare]], [[analizzare]], [[sondare]], [[esplorare]], [[scrutare]]
+*[[investigare]], [[inquisire]]
+*[[trascurare]], [[tralasciare]], [[disinteressarsi]]
+*[[indagine]]
+M>indagare</E
+M>indago</E
+M>nis</E
+M>io indago</E
+M>tu indaghi</E
+M>avere</E
+M>i misteri della natura</E
+M>le cause di un fenomeno</E
+M>i segreti dell’anima umana</E
+M>su una rapina</E
+M>intorno a un delitto</E
+M>in merito a un sequestro di persona</E
+M>la polizia tributaria è stata incaricata di i</E
+M>sulla consistenza patrimoniale di alcuni presunti evasori fiscali</E
+M>la polizia indaga</E
+M>sta indagando</E
+M>sulle intenzioni</E
+M>sui propositi di un concorrente</E
+M>vedi di i</E
+M>che cosa si pensa sul conto mio</E

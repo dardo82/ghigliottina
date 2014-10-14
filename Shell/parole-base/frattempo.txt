@@ -1,0 +1,16 @@
+frattempo.txt
+"frattanto, nel frattempo, nel mentre"
+"frattanto, nel frattempo, nel mentre"
+"frattempo"
+"nel frattempo"
+"nel frattempo"
+M>fra</E
+M>tempo</E
+M>in questo</E
+M>in quel f</E
+M>nel f</E
+M>in quel f</E
+M>molte cose mutarono</E
+M>tu vai pure a fare i biglietti: io</E
+M>nel f</E
+M>preparerò le valigie</E

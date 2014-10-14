@@ -1,0 +1,4 @@
+ovino.txt
+"ovino"
+"ovino"
+"animale ovino"

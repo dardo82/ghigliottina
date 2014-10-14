@@ -1,0 +1,64 @@
+mordere.txt
+"mordere"
+"mordere"
+"mordere"
+"mordere"
+"mordere"
+"mordere il freno"
+"mordere la polvere"
+"mordere qualcosa di duro"
+"mordere, addentare, azzannare"
+#* '''''morse''' la mela''
+#* '''''mordere''' la polvere''
+*[[addentare]], [[morsicare]], [[tormentare]]
+M>mord</E
+M>mòrsi</E
+M>mordésti</E
+M>mòrso</E
+M>morduto</E
+M>il cane ha morso un bambino</E
+M>rabbiosamente</E
+M>a sangue</E
+M>come un cane</E
+M>can che abbaia non morde</E
+M>cane</E
+M>serpente che si morde la coda</E
+M>la mano che soccorre</E
+M>accarezza</E
+M>lo ha morso una zanzara</E
+M>il pane</E
+M>una mela</E
+M>c’è qualcosa da m</E
+M>mordersi le mani</E
+M>le dita</E
+M>il gomito</E
+M>mordersi le labbra</E
+M>la lingua</E
+M>appena ebbe proferito queste parole</E
+M>si morse la lingua</E
+M>il freno</E
+M>la polvere</E
+M>il terreno</E
+M>vede i forti che mordon la polve</E
+M>E li conta con gioia crudel</E
+M>mordi e fuggi</E
+M>la lima morde anche il ferro</E
+M>è una sega che non morde</E
+M>la strada</E
+M>l’acido morde la lastra</E
+M>un liquore che morde il palato</E
+M>il freddo comincia a mordere</E
+M>mordace</E
+M>e con agre riprensioni</E
+M>i difetti de’ cattivi</E
+M>Però ch’Egli ama la giustizia tanto</E
+M>Che vuol che sempre il suo giudicio morda Ognun ch’abbi peccato</E
+M>molti mortali</E
+M>lo scherniscono e mordono tutto il giorno</E
+M>Nulla</E
+M>già mai sì giustamente morse</E
+M>e non ti morde Cura nessuna</E
+M>Come soglion talor duo can mordenti</E
+M>mordace</E
+M>una frase</E
+M>un’allusione mordente</E

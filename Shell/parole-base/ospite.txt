@@ -1,0 +1,74 @@
+ospite.txt
+"come nostro ospite"
+"gentile ospite le ricordiamo di liberare la camera"
+"gradito ospite"
+"grazie per essere stato nostro ospite"
+"ospite"
+"ospite"
+"ospite"
+"ospite"
+"biologia: relativo all'ospite"
+"ospite"
+"ospite celeste (angelo)"
+"ospite d'onore"
+"ospite intermedio"
+"ospite pagante"
+"pianta ospite"
+* padrone di casa, [[anfitrione]]
+*[[invitato]], [[visitatore]]; [[cliente]], [[pensionante]], [[turista]]
+*[[avversario]]
+M>hospes</E
+M>tis</E
+M>un o</E
+M>generoso</E
+M>gentile</E
+M>affabile</E
+M>accogliente</E
+M>un o</E
+M>indiscreto</E
+M>opprimente</E
+M>andarsene insalutato o</E
+M>la casa</E
+M>la terra</E
+M>il paese ospite</E
+M>l’onda Jonia</E
+M>che amica Del lito ameno e dell’o</E
+M>musco Da Citera ogni dì vien desïosa A</E
+M>materni miei colli</E
+M>l’animale</E
+M>la pianta ospite</E
+M>definitivo</E
+M>intermedio</E
+M>accidentale</E
+M>presso i popoli antichi l’o</E
+M>era sacro</E
+M>sono stato suo o</E
+M>per alcuni giorni</E
+M>sarei felice di avervi ospiti nella nostra villa</E
+M>essere o</E
+M>di una famiglia</E
+M>di una casa</E
+M>di un paese</E
+M>accogliere</E
+M>intrattenere</E
+M>congedare gli o</E
+M>attendiamo ospiti per domani</E
+M>abbiamo ospiti a cena</E
+M>un o</E
+M>di riguardo</E
+M>un o</E
+M>gradito</E
+M>molesto</E
+M>indiscreto</E
+M>liberarsi</E
+M>sbarazzarsi di un o</E
+M>l’o</E
+M>è come il pesce: dopo tre giorni puzza</E
+M>d’onore</E
+M>la squadra o</E
+M>gli scarafaggi</E
+M>le cimici sono o</E
+M>poco piacevoli</E
+M>spero che in questo letto non ci siano ospiti</E
+M>nordici</E
+M>caldi</E

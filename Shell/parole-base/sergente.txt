@@ -1,0 +1,34 @@
+sergente.txt
+"sergente"
+"sergente"
+"sergente di artiglieria"
+"sergente di plotone"
+"sergente di polizia"
+"sergente istruttore"
+"sergente maggiore"
+"sergente maggiore"
+"sergente maggiore"
+"sergente maggiore"
+"sergente maggiore"
+M>serjant</E
+M>sergent</E
+M>serviens -entis</E
+M>servire</E
+M>s. dell&#8217;esercito</E
+M>s. di aviazione</E
+M>s. di marina</E
+M>vice brigadiere</E
+M>S. maggiore</E
+M>s. maggiore capo</E
+M>secondo capo</E
+M>secondo capo scelto</E
+M>brigadiere</E
+M>brigadiere capo</E
+M>quella povera ragazza ha un padre che è un vero sergente!</E
+M>caporale</E
+M>cavalieri e sergenti</E
+M>ben dodici de&#8217; sergenti corsero là dove il misero Martellino era senza pettine carminato</E
+M>formica s.</E
+M>formica bulldog</E
+M>Myrmecia</E
+M>sergenti</E

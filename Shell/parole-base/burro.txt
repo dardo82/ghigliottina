@@ -1,0 +1,57 @@
+burro.txt
+"burro"
+"burro all'aglio"
+"burro cacao"
+"burro chiarificato"
+"burro chiarificato"
+"burro di arachidi"
+"burro di cacao"
+"caramella con burro"
+"contenitore per fare il burro"
+"fetta di pane spalmata di burro all'aglio e scaldata"
+"mettere il burro"
+"montare per fare il burro"
+"olio di burro"
+"panino al burro di arachidi e gelatina"
+"ricco dolce composto da uova, burro, farina, per una libbra ciascuno, o comunque in parti uguali"
+"salsa al burro"
+"ungere con burro"
+#*''per dimagrire non bisogna mangiare burro''
+*[[margarina]]
+*Enciclopedia [http
+M>burre</E
+M>beurre</E
+M>rum</E
+M>butirro</E
+M>di cremeria</E
+M>da tavola</E
+M>di centrifuga</E
+M>di casone</E
+M>di siero</E
+M>chiarificato</E
+M>fresco</E
+M>rancido</E
+M>un panetto di b</E
+M>pane e b</E
+M>pane col b</E
+M>pane al b</E
+M>uova al b</E
+M>spaghetti al b</E
+M>col b</E
+M>tenero</E
+M>morbido come il b</E
+M>questa carne è un b</E
+M>è un b</E
+M>è fatto di b</E
+M>ha le mani di b</E
+M>vegetale</E
+M>di cacao</E
+M>minerale</E
+M>essiccativo</E
+M>metallici</E
+M>d’antimonio</E
+M>d’arsenico</E
+M>di stagno</E
+M>di zinco</E
+M>nero</E
+M>Albero del b</E

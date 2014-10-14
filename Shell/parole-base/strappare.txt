@@ -1,0 +1,72 @@
+strappare.txt
+"strappare"
+"strappare"
+"strappare"
+"strappare da"
+"strappare da"
+"strappare qualche sorriso"
+"strappare un sorriso"
+"strappare via"
+"strappare violentemente"
+*(abito) [[lacerare]], [[rompere]], [[stracciare]], [[sdrucire]], [[squarciare]], [[sbrindellare]], ridurre a brandelli
+*(persona, cosa) portare via, [[togliere]], [[levare]], [[staccare]], sottrarre violentemente, [[asportare]]
+* allontanare brutalmente, [[rimuovere]]
+*(pianta) [[estirpare]], [[sradicare]], [[cavare]], [[svellere]], [[divellere]]
+*(abito)[[ricucire]], [[riparare]], [[aggiustare]]
+*(persona, cosa) [[ridare]], [[restituire]], [[rendere]]
+*[[avvicinare]]
+*(pianta) [[piantare]], [[conficcare]]
+*[[strappata]], [[strapparsi]]
+M>*strapp</E
+M>straffen</E
+M>gli strappò la pistola</E
+M>il coltello di mano</E
+M>mi strappò di mano la lettera per leggere quello che c&#8217;era scritto</E
+M>il ladro le strappò la borsetta e fuggì via</E
+M>si era buttata sulla bara del figlio e dovettero strapparla di là a viva forza</E
+M>s. un bambino dal proprio ambiente</E
+M>dalla propria famiglia</E
+M>s. qualcuno alla morte</E
+M>s. una pagina dal quaderno</E
+M>gli strappò la catenella dal collo</E
+M>il braccialetto dal polso</E
+M>le strapparono di dosso le vesti</E
+M>strapparsi gli abiti di dosso</E
+M>s. un ramo dall&#8217;albero</E
+M>s. il pane a morsi</E
+M>gli tirò l&#8217;orecchio con tanta forza che quasi glielo strappava</E
+M>s. una pianta con tutte le radici</E
+M>s. le penne al pollo</E
+M>strapparsi i capelli</E
+M>avrebbe voluto strapparsi gli occhi per non vedere quelli della Lupa</E
+M> che quando gli si ficcavano ne&#8217; suoi gli facevano perdere l&#8217;anima ed il corpo</E
+M>ti strappo gli occhi se parli</E
+M>gli strapperei il cuore a quel traditore!</E
+M>finalmente gli ha strappato il consenso</E
+M>non sono riuscito a strappargli nemmeno una parola</E
+M>s. una promessa</E
+M>una confessione</E
+M>un oratore</E
+M>un attore che sa s. gli applausi al pubblico</E
+M>s. le lacrime</E
+M>la signora ... fece una deposizione che strappò le lacrime all&#8217;uditorio</E
+M>s. il cuore</E
+M>una scena che strappa il cuore</E
+M>il vento ha strappato la tenda</E
+M>nella colluttazione mi ha strappato la camicia</E
+M>s. il foglio</E
+M>la lettera</E
+M>strappò la tela in più strisce</E
+M>mi sono strappato i pantaloni su un chiodo</E
+M>strapparsi</E
+M>lenzuola ormai logore che si strappano subito</E
+M>strappò il filo con i denti</E
+M>strappò lo spago per aprire il pacco</E
+M>la forza del vento ha strappato le funi di ormeggio</E
+M>mi sono strappato un legamento</E
+M>strapparsi</E
+M>si è strappata la corda</E
+M>la frizione strappa</E
+M>una giacca strappata in più punti</E
+M>va in giro tutto strappato</E
+M>una fotografia strappata</E

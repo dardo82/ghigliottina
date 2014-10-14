@@ -1,0 +1,11 @@
+parabrezza.txt
+"parabrezza"
+M>para</E
+M>brezza</E
+M>pare</E
+M>brise</E
+M>pare</E
+M>brise</E
+M>parabrise</E
+M>stratificato</E
+M>temprato</E

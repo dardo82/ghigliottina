@@ -1,0 +1,17 @@
+rione.txt
+"rione"
+*[[quartiere]]
+*[[rionale]]
+M>regio</E
+M>nis</E
+M>r. Trastevere</E
+M>r. Ponte</E
+M>regiones</E
+M>quartiere</E
+M>sestiere</E
+M>terziere</E
+M>alla manifestazione partecipano i rappresentanti di tutti i rioni</E
+M>un r</E
+M>periferico della città</E
+M>le strade</E
+M>i negozî del rione</E

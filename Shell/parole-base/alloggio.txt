@@ -1,0 +1,22 @@
+alloggio.txt
+"alloggio"
+"alloggio in famiglia"
+"dare alloggio"
+"di alloggio posto in casa"
+"fornire alloggio"
+"vitto e alloggio"
+*[[casa]],[[dimora]], [[domicilio]], [[abitazione]], [[albergo]]
+M>cercare</E
+M>trovare a</E
+M>prendere a</E
+M>ha uno splendido a</E
+M>in una strada del centro storico</E
+M>a. popolari</E
+M>dare a</E
+M>fornire vitto e a</E
+M>crisi degli alloggi</E
+M>biglietto d’alloggio</E
+M>alloggi di prima</E
+M>seconda</E
+M>terza classe</E
+M>a classe unica</E

@@ -1,0 +1,33 @@
+dirigente.txt
+"classe dirigente"
+"corpo dirigente"
+"dirigente"
+"dirigente"
+"dirigente d'azienda"
+"dirigente di banca"
+"dirigente di servizio"
+"dirigente finanziario"
+"dirigente scolastico"
+"quadro (dirigente)"
+*[[caudillo]] ''m'', [[líder]] ''m'' e ''f''
+*[[dirigenza]], [[dirigenziale]]
+M>dirigere</E
+M>gruppo d</E
+M>personale d</E
+M>i quadri d</E
+M>di un partito</E
+M>di un’organizzazione</E
+M>classe d</E
+M>il d</E
+M>del servizio sanitario</E
+M>d’azienda</E
+M>sindacale</E
+M>centrale</E
+M>unico</E
+M>centrale operativo</E
+M>amministrativi</E
+M>tecnici</E
+M>generale</E
+M>superiore</E
+M>primo d</E
+M>D. scolastico</E

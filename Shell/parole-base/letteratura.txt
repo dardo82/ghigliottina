@@ -1,0 +1,84 @@
+letteratura.txt
+"istituzioni di letteratura italiana"
+"letteratura"
+"letteratura"
+"letteratura antica"
+"letteratura breve"
+"letteratura di racconti brevi"
+"letteratura comparata"
+"letteratura contemporanea"
+"letteratura di nicchia"
+"letteratura di qualità"
+"letteratura di viaggio"
+"letteratura erotica"
+"letteratura medica"
+"letteratura medioevale"
+"letteratura nazionale"
+"letteratura poco nota"
+"letteratura popolare"
+"letteratura popolare"
+"letteratura specialistica"
+#*''[[w
+*[[bibliografia]]
+*[[etnoletteratura]]
+*Devoto/Oli, '' Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1148
+M>litteratura</E
+M>litt</E
+M>litt</E
+M>rae</E
+M>letteratura</E
+M>antica</E
+M>classica</E
+M>moderna</E
+M>italiana</E
+M>francese</E
+M>inglese</E
+M>provenzale</E
+M>universale</E
+M>la l</E
+M>del Trecento</E
+M>del Settecento</E
+M>in prosa</E
+M>in versi</E
+M>narrativa</E
+M>poetica</E
+M>didascalica</E
+M>popolare</E
+M>popolareggiante</E
+M>patriottica</E
+M>impegnata</E
+M>disimpegnata</E
+M>per l’infanzia</E
+M>amena</E
+M>erotica</E
+M>di consumo</E
+M>rosa</E
+M>svolgimento</E
+M>decadenza</E
+M>rinnovamento della l</E
+M>corso di l</E
+M>professore di l</E
+M>latina</E
+M>italiana</E
+M>ispano</E
+M>americana</E
+M>dedicarsi alla l</E
+M>studiare la l</E
+M>Storia della l</E
+M>storia universale della l</E
+M>letteratura</E
+M>la l</E
+M>del De Sanctis</E
+M>ricordatevi di portare la l</E
+M>domani a scuola</E
+M>Literatur</E
+M>musicale</E
+M>drammatica</E
+M>pittorica</E
+M>la l</E
+M>giuridica tedesca dell’Ottocento</E
+M>dantesca</E
+M>petrarchesca</E
+M>in tema di fallimento esiste un’abbondante l</E
+M>bibliografia</E
+M>fare della l</E

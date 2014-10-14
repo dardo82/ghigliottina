@@ -1,0 +1,72 @@
+tu.txt
+"a tu per tu"
+"anche tu"
+"che tu ci creda o meno"
+"ci mancavi solo tu"
+"come dici tu"
+"dare del tu"
+"darsi del tu"
+"è ora che tu lo faccia"
+"fai un po' tu"
+"fare come se tu fossi"
+"nel caso tu fallisca"
+"ovunque tu guardi"
+"peccato che tu te ne vada, mi spiace che tu te ne vada"
+"se lo dici tu"
+"sei tu?"
+"TU"
+"TU"
+"tu"
+"tu ed io"
+"tu no?"
+"tu sai chi"
+"tu sai cosa"
+"Tu sei la cosa più bella che mi sia mai capitata"
+"tu stesso"
+"vedi tu"
+#* ''sei stato '''tu'''?''
+* [[te]],  [[ti]], [[tuo]]
+*italiano
+*francese
+*latino
+*slovacco
+m>voi</e
+m>lei</e
+m>tu forse lo sapevi</e
+m>sei tu che devi decidere</e
+m>pensaci tu.</e
+m>volevo appunto te</e
+m>lo faccio per te</e
+m>ti chiamava</e
+m>ti ha detto nulla?</e
+m>voi.</e
+m>bella cosa t&rsquo;hai fatto!</e
+m>t&rsquo;hai ragione</e
+m>se t&rsquo;avessi dato retta a me...!</e
+m>Sopr&rsquo;essa vedestù</e
+m>vedesti tu</e
+m>la scritta morta</e
+m>Non pianger più</e
+m> non m&rsquo;hai tu pianto assai? Ch&rsquo;or fostù</e
+m>fossi tu</e
+m>vivo</e
+m> com&rsquo;io non son morta!</e
+m>sono cose che ti càpitano sempre quando meno te l&rsquo;aspetti</e
+m>in quel momento</e
+m> èccoti lui che entra</e
+m>guardo</e
+m> e chi ti vedo?</e
+m>vivi e lascia vivere</e
+m>non nominare la fune in casa dell&rsquo;impiccato</e
+m>dare del tu</e
+m>di tu</e
+m>chi le dà il diritto di darmi del tu?</e
+m>ci diamo del tu</e
+m>siamo amici del tu. Mettersi a tu per tu con qualcuno</e
+m>Essere</e
+m>stare</e
+m>venire</e
+m>trovarsi a tu per tu</e
+m>trovarsi a tu per tu con la morte</e
+m>col pericolo</e
+m>parlare a tu per tu</e

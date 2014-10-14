@@ -1,0 +1,175 @@
+inferiore.txt
+"classe inferiore"
+"classe inferiore"
+"confronto inferiore a"
+"di qualità inferiore"
+"essere di sotto, più basso, inferiore"
+"essere inferiore"
+"essere inferiore alle attese"
+"funzionario di grado inferiore"
+"in posizione inferiore"
+"in un luogo inferiore"
+"in un luogo inferiore"
+"inferiore"
+"inferiore"
+"inferiore"
+"inferiore a"
+"inferiore a"
+"inferiore a"
+"lato inferiore"
+"lato inferiore"
+"limite inferiore"
+"limite inferiore"
+"livello inferiore"
+"parte inferiore"
+"pesce simile al merluzzo ma di qualità inferiore"
+"punto di svolta inferiore"
+"qualità inferiore"
+"risultare inferiore alle attese"
+"scuola media inferiore"
+"scuola media inferiore"
+"status inferiore"
+"superficie inferiore"
+"tribunale di grado inferiore"
+*meno elevato, al di sotto, [[sottostante]], [[minore]]
+*da meno, [[secondario]], meno pregiato
+*[[basso]], [[minimo]], [[spregevole]], [[infimo]]
+*[[inadeguato]], [[insufficiente]], non all’altezza
+*[[dipendente]], [[subordinato]], [[subalterno]], [[sottoposto]], [[soggetto]]
+*[[superiore]], [[sommo]], [[massimo]]
+*[[elevato]]
+*[[capo]], [[superiore]], [[dirigente]]
+*[[inferiorità]], [[inferiormente]]
+M>inferior</E
+M>oris</E
+M>infer</E
+M>inf</E
+M>rus</E
+M>la parte i</E
+M>di un edificio</E
+M>di una colonna</E
+M>di una pagina</E
+M>la parte i</E
+M>del corpo umano</E
+M>di un organo</E
+M>gli arti i</E
+M>l’appartamento del piano inferiore</E
+M>basso</E
+M>l’Italia i</E
+M>il Danubio i</E
+M>il corso i</E
+M>del Danubio</E
+M>Austria Inferiore</E
+M>il cretacico i</E
+M>il paleolitico inferiore</E
+M>scrittura i</E
+M>superiore</E
+M>ha una statura i</E
+M>alla normale</E
+M>la temperatura di oggi è i</E
+M>a quella di ieri</E
+M>merce di prezzo i</E
+M>esercito i</E
+M>per numero di soldati e di armi</E
+M>pane</E
+M>stoffa di qualità i</E
+M>pane</E
+M>stoffa i</E
+M>il risultato fu i</E
+M>all’aspettativa</E
+M>i nostri atleti non sono stati i</E
+M>agli avversarî</E
+M>restare</E
+M>riuscire</E
+M>risultare</E
+M>trovarsi i</E
+M>non si sente i</E
+M>a nessuno</E
+M>essere i</E
+M>alla propria fama</E
+M>ai proprî compiti</E
+M>scuole medie i</E
+M>ufficiali di grado i</E
+M>ufficiali i</E
+M>popolo di condizione i</E
+M>gli strati i</E
+M>d’una popolazione</E
+M>trattare con affabilità i proprî inferiori</E
+M>piante i</E
+M>animali i</E
+M>la colonna ha inferiormente un diametro maggiore</E
+M>una tunica inferiormente orlata di rosso</E
+"name": "Limite superiore e limite inferiore"
+"name": "Vena cava inferiore"
+"name": "Germania inferiore"
+"name": "Cornetto nasale inferiore"
+"name": "Imbriano inferiore"
+"name": "Berzo Inferiore"
+"name": "Cambriano inferiore"
+"name": "Nocera Inferiore"
+"name": "Montoro Inferiore"
+"name": "Castelluccio Inferiore"
+"name": "Bleggio Inferiore"
+"name": "Venegono Inferiore"
+"name": "Occhieppo Inferiore"
+"name": "Verderio Inferiore"
+"name": "Morbio Inferiore"
+"name": "Incisivo centrale inferiore"
+"name": "Incisivo laterale inferiore"
+"name": "Canino inferiore"
+"name": "Zemonico Inferiore"
+"name": "Tunguska Inferiore"
+"name": "Muscolo retto inferiore"
+"name": "Muscolo obliquo inferiore"
+"name": "Governatori romani della Mesia Inferiore"
+"name": "Giurassico inferiore"
+"name": "Muscolo costrittore faringeo inferiore"
+"name": "Pleistocene inferiore"
+"name": "Macedonia Inferiore"
+"name": "Muscolo longitudinale inferiore"
+"name": "Arteria mesenterica inferiore"
+"name": "Nervo emorroidale inferiore"
+"name": "Muscolo obliquo inferiore della testa"
+"name": "Oltresava Inferiore"
+"name": "Nervo dei muscoli quadrato del femore e gemello inferiore"
+"name": "Lingua soraba inferiore"
+"name": "Nervo gluteo inferiore"
+"name": "Distretto di Twifo-Heman-Denkyira Inferiore"
+"name": "Diocesi di Nocera Inferiore-Sarno"
+"name": "Arco tangente inferiore"
+"name": "Muscolo depressore del labbro inferiore"
+"name": "Muscolo gemello inferiore"
+"name": "Estremo superiore e estremo inferiore"
+"name": "Paleolitico inferiore"
+"name": "Arteria epigastrica inferiore"
+"name": "Cretacico inferiore"
+"name": "Nucleo olivare inferiore"
+"name": "Topologia del limite inferiore"
+"name": "Triassico inferiore"
+"name": "Cambriano inferiore"
+"name": "Britannia inferiore"
+"name": "Lastua Inferiore"
+"name": "Governatori romani della Germania inferiore"
+"name": "Arteria pancreaticoduodenale inferiore"
+"name": "Primo premolare inferiore"
+"name": "Secondo premolare inferiore"
+"name": "Primo molare inferiore"
+"name": "Secondo molare inferiore"
+"name": "Mortola Inferiore"
+"name": "Lago Klamath Inferiore"
+"name": "Arteria collaterale ulnare inferiore"
+"name": "Muscolo dentato posteriore inferiore"
+"name": "Ferrovia Nocera Inferiore-Mercato San Severino"
+"name": "Primetime Emmy Award al miglior programma animato di durata inferiore a un'ora"
+"name": "Regione del Reno inferiore"
+"name": "Solco frontale inferiore"
+"name": "Solco temporale inferiore"
+"name": "Circonvoluzione frontale inferiore"
+"name": "Circonvoluzione temporale inferiore"
+"name": "Menzione d'onore alla pubblicit\u00e0 di durata inferiore ai 5 minuti"
+"name": "Genie Award per la miglior fiction televisiva drammatica con durata inferiore a 30 minuti"
+"name": "Emorragia digestiva inferiore"
+"name": "Ghiacciaio inferiore dell'Aar"
+"name": "James Beard Foundation Award alla miglior sezione sul cibo di un giornale con tiratura inferiore a 300.000 copie"
+"name": "Lobulo parietale inferiore"
+"name": "Arto inferiore"

@@ -1,0 +1,30 @@
+filtrare.txt
+"filtrare"
+"filtrare"
+"filtrare"
+"filtrare attraverso"
+"filtrare attraverso"
+"gocciolare dentro, filtrare dentro"
+M>l’acqua</E
+M>l’olio</E
+M>il tè attraverso il colino</E
+M>la luce di una lampada</E
+M>segnali elettrici</E
+M>le notizie</E
+M>le informazioni ricevute</E
+M>le impressioni</E
+M>le esperienze</E
+M>i ricordi</E
+M>essere</E
+M>un po’ di umidità è filtrata dalle pareti</E
+M>le esalazioni di gas cominciavano a f</E
+M>nella stanza</E
+M>il sole filtrava tra le stecche della persiana</E
+M>si fa sera</E
+M> e poi notte</E
+M> e poi un’alba azzurra come la fiamma del gas comincia a f. dietro le tende</E
+M>alcuni osservatori erano filtrati attraverso le linee nemiche</E
+M>tra le maglie della difesa avversaria</E
+M>per l’abilità dei giornalisti</E
+M>qualche notizia è riuscita a f</E
+M>dal segreto del Palazzo di Giustizia</E

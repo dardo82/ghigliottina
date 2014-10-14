@@ -1,0 +1,102 @@
+anello.txt
+"anello"
+"anello"
+"anello, replace: anelli"
+"anello"
+"percorso a forma di anello"
+"anello benzenico"
+"anello commemorativo della laurea al college o all'università"
+"anello con diamanti"
+"anello con sigillo"
+"anello da naso"
+"anello da naso"
+"anello da piede"
+"anello debole"
+"anello del sigillo"
+"anello di chiusura"
+"anello di congiunzione"
+"anello di fidanzamento"
+"anello di fuoco"
+"anello di tenuta"
+"anello di tenuta"
+"anello ferroviario"
+"anello magico"
+"anello nero"
+"anello vescovile"
+"formazione ad anello"
+"portachiavi ad anello"
+"terzo anello"
+"verifica d'anello"
+#*''Ha tre '''anelli''' per mano''
+#*''
+#* ''
+*[[cerchio]], [[cerchietto]], [[fede]], [[vera]]
+*''(insieme di punti del piano)''[[corona circolare]]
+* [[anellato]], [[anellide]]
+*''(ornamento)'' [[bracciale]], [[collana]], [[anelli di Borromeo]]
+*''(significato geometrico)'' [[cerchio]]
+M>llus</E
+M>anus</E
+M>anèlli</E
+M>le anèlla</E
+M>un a</E
+M>d’oro</E
+M>un a</E
+M>di brillanti</E
+M>di fidanzamento</E
+M>matrimoniale</E
+M>nuziale</E
+M>fede</E
+M>vera</E
+M>dare</E
+M>mettere</E
+M>prendere l’a</E
+M>giorno dell’a</E
+M>senatorio</E
+M>prelatizio</E
+M>piscatorio</E
+M>del pescatore</E
+M>Parean l’occhiaie anella sanza gemme</E
+M>la novella delle tre anella</E
+M>plastico</E
+M>di centramento</E
+M>di forzamento</E
+M>collettori</E
+M>di guardia</E
+M>di Pacinotti</E
+M>anelli di accumulazione</E
+M>a. di accumulazione e collisione</E
+M>a. di guardia</E
+M>tagliante</E
+M>l’a</E
+M>della chiave</E
+M>gli a</E
+M>delle forbici</E
+M>di congiunzione</E
+M>Torse in anella i crin minuti</E
+M>anelli</E
+M>fare gli a</E
+M>esercitarsi agli anelli</E
+M>anellini</E
+M>anelletti</E
+M>della pista</E
+M>stradale</E
+M>terminale</E
+M>ad anello</E
+M>disporre</E
+M>curvare ad a</E
+M>un tracciato ad anello</E
+M>ombelicale</E
+M>inguinale</E
+M>erniario</E
+M>anelli di Saturno</E
+M>legnoso</E
+M>cerchia annuale</E
+M>delle streghe</E
+M>ciclici</E
+M>benzenico</E
+M>idrocarburi ad anelli</E
+M>nuclei</E
+M>condensati</E
+M>elettronico</E
+M>ring</E

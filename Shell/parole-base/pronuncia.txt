@@ -1,0 +1,84 @@
+pronuncia.txt
+"difetto di pronuncia"
+"pronuncia"
+"pronunciation, diction"
+"pronuncia"
+"accent, pronunciation, inflection"
+"pronuncia"
+"articulation, pronunciation"
+"pronuncia"
+"pronuncia strascicata"
+"strascicare le parole, strascicare la voce, strascicare la pronuncia"
+#*''dalla 
+#*''la 
+*[[accento]], [[cadenza]], [[intonazione]], [[tono]]
+*[[fonologia]]
+*[[pronunzia]]
+M>pronunciare</E
+M>pronunziare</E
+M>zie</E
+M>la p</E
+M>dell&#8217;&#171;u&#187; francese</E
+M>del &#171;th&#187; inglese</E
+M>aspirata del &#171;c&#187; velare in Toscana</E
+M>la p</E
+M>dell&#8217;&#171;s&#187; sorda</E
+M>dell&#8217;&#171;s&#187; sonora</E
+M>aperta</E
+M>chiusa di una vocale</E
+M>regole di p</E
+M>esatta</E
+M>corretta di un fonema</E
+M>di una parola</E
+M>indicare</E
+M>mettere</E
+M>segnare</E
+M>la p</E
+M>di una parola</E
+M>di una frase</E
+M>fiorentina o p</E
+M>romana?</E
+M>italiana</E
+M>tedesca</E
+M>inglese</E
+M>genovese</E
+M>siciliana</E
+M>ha una p</E
+M>settentrionale</E
+M>meridionale</E
+M>si capisce dalla p</E
+M>che è straniero</E
+M>ho sentito dalla p</E
+M>che è un Veneto</E
+M>p. netta</E
+M>nitida</E
+M>chiara</E
+M>spiccata</E
+M>distinta</E
+M>rapida</E
+M>spedita</E
+M>affrettata</E
+M>lenta</E
+M>impacciata</E
+M>trascurata</E
+M>ha una p</E
+M>nasale</E
+M>larga</E
+M>stretta</E
+M>dolce</E
+M>aspra</E
+M>ha una bella p</E
+M>una p</E
+M>perfetta</E
+M>una p</E
+M>errata</E
+M>difettosa</E
+M>standard</E
+M>avere un&#8217;ottima p</E
+M>avere dei difetti di pronuncia</E
+M>secondo diritto</E
+M>secondo equità</E
+M>una p</E
+M>della Cassazione</E
+M>p. negativa</E
+M>p. di proscioglimento.</E

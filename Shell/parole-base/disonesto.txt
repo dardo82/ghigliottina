@@ -1,0 +1,39 @@
+disonesto.txt
+"acquisito male, disonesto, illecito"
+"disonesto"
+"disonesto"
+"disonesto"
+"disonesto"
+"disonesto poco di buono"
+"disonesto, scaltro"
+"essere disonesto"
+"illegale, disonesto"
+*[[onesto]]
+*[[disonestamente]]
+M>dis</E
+M>onesto</E
+M>un negoziante</E
+M>un impiegato</E
+M>un funzionario d</E
+M>uomini politici d</E
+M>e corrotti</E
+M>un’azione d</E
+M>un contratto</E
+M>un prezzo disonesto</E
+M>è un d</E
+M>sono una banda di disonesti</E
+M>voglie d</E
+M>propositi</E
+M>pensieri d</E
+M>fare proposte d</E
+M>una donna d</E
+M>che fa vita d</E
+M>lo strazio disonesto C’ha le mie fronde sì da me disgiunte</E
+M>non posso per ciò credere che tu volessi vedermi fare così d</E
+M>morte</E
+M>Con una grossa e d</E
+M>lancia</E
+M>agire</E
+M>vivere disonestamente</E
+M>esercitare disonestamente il proprio mestiere</E
+M>la professione</E

@@ -1,0 +1,80 @@
+scherzo.txt
+"a carnevale ogni scherzo vale"
+"brutto scherzo"
+"fare uno scherzo a qualcuno"
+"lo scherzo e' bello quando dura poco"
+"neanche per scherzo"
+"per scherzo"
+"per scherzo"
+"per scherzo"
+"per scherzo"
+"per scherzo, per burla"
+"scherzo"
+"scherzo"
+"scherzo"
+"scherzo"
+"scherzo"
+"scherzo (di cattivo gusto)"
+"scherzo da prete"
+"scherzo sciocco o di pessimo gusto"
+"scherzo della natura"
+"scherzo della natura"
+"stare allo scherzo"
+"vittima di uno scherzo"
+* [[gioco]], [[scherno]], [[derisione]], [[beffa]], [[canzonatura]], [[burla]], [[motto]], [[motteggio]], [[facezia]], [[buffonata]], [[lazzo]], pesce d’aprile
+* [[divertimento]], [[parodia]],[[burletta]],[[ celia]]
+*[[facezia]], [[spiritosaggine]],[[amenità]],[[motto]] 
+*[[imprevisto]], [[sorpresa]] 
+*''(cosa facile, da nulla)'' [[scemenza]], [[sciocchezza]],[[ stupidaggine]], [[inezia]], [[bazzecola]], [[bagattella]], [[quisquilia]], [[nonnulla]] 
+*''Lo '''scherzo''' è bello quando è corto.''
+M>volgere</E
+M>voltare in s.</E
+M>lasciare</E
+M>mettere da parte gli s.</E
+M>sapere</E
+M>non sapere</E
+M>stare allo s.</E
+M>stare</E
+M>non stare</E
+M>allo s.</E
+M>per s.</E
+M>per ischerzo</E
+M>neppure per s.</E
+M>senza scherzi</E
+M>scherzi a parte</E
+M>lo s. è bello quando dura poco</E
+M>scherzo di mano</E
+M> scherzo da villano</E
+M>a carnevale</E
+M> ogni scherzo vale.</E
+M>uno s. divertente</E
+M>simpatico</E
+M>riuscito</E
+M>innocente</E
+M>di cattivo gusto</E
+M>i suoi s</E
+M> a me parevano più freddi del ghiaccio e più aspri del limone</E
+M>che scherzi sono questi?</E
+M>il vino a volte fa dei brutti s.</E
+M>questa stoffa mi ha fatto un brutto s.: col lavaggio si è scolorita</E
+M>mi hanno fatto il bello s. di arrivare all&#8217;improvviso a cena in otto</E
+M>uno s. da prete</E
+M>ormai andare in aereo dall&#8217;Italia in Africa è uno s.</E
+M>fare quella maratona</E
+M> per un atleta come lui</E
+M> è uno s.</E
+M>per lei tradurre simultaneamente dal russo è uno scherzo.</E
+M>una cifra così alta non mi sembra uno s.!</E
+M>quello che mi chiedi di fare non è uno scherzo.</E
+M>Nona sinfonia</E
+M>S. musicali</E
+M>i quattro S. di Chopin</E
+M>L&#8217;Apprendista stregone</E
+M>Vostra Eccellenza</E
+M> che mi sta in cagnesco Per que&#8217; pochi scherzucci di dozzina</E
+M>s. comico</E
+M>Scherzi d&#8217;acqua</E
+M>Scherzi di luce</E
+M>Scherzo di natura</E
+M>quel pover uomo così storpio è un vero s. di natura.</E
+M>ludus Naturae</E

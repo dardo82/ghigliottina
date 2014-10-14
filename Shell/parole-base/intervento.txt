@@ -1,0 +1,84 @@
+intervento.txt
+"con l'ausilio di, per intervento di"
+"in preparazione di un intervento"
+"intervento"
+"intervento"
+"intervento"
+"intervento"
+"intervento"
+"intervento"
+"intervento a cielo aperto"
+"intervento a cuore aperto"
+"intervento chirurgico"
+"intervento chirurgico"
+"intervento chirurgico"
+"intervento clinico"
+"intervento conservativo"
+"intervento di manutenzione"
+"intervento di polizia"
+"intervento di restauro"
+"intervento in favore di"
+"intervento legale"
+"intervento musicale"
+"intervento normativo"
+"intervento statale"
+"intervento tecnico"
+"linea di intervento"
+"non intervento"
+"non intervento"
+"oggetto di intervento"
+"piccolo intervento chirurgico"
+"prima di un intervento"
+"primo intervento"
+"scheda di intervento"
+"squadra di pronto intervento"
+*[[azione]], [[decisione]], [[operazione]], [[provvedimento]], [[risoluzione]]; [[intromissione]], [[ingerenza]], [[inframmettenza]], [[intercessione]]; [[aiuto]], [[appoggio]], [[sostegno]], [[assistenza]], [[mediazione]], [[cooperazione]]
+*[[discorso]], [[contributo]]
+* ''(a una cerimonia, a un congresso ecc.) ''[[assenza]], [[non intervento]]
+*[[intervenire]], [[interventismo]], [[interventista]], [[ non intervento]]
+M>interventus</E
+M>il congresso è stato inaugurato con l’i</E
+M>di numerosi partecipanti</E
+M>l’i</E
+M>delle autorità a una pubblica manifestazione</E
+M>l’i</E
+M>degli elettori alle urne</E
+M>alla relazione seguì un dibattito con molti i</E
+M>non sarei riuscito senza il tuo i</E
+M>a mio favore</E
+M>in una discussione</E
+M>in una lite</E
+M>in causa</E
+M>dell’arbitro</E
+M>chiedere l’i</E
+M>della polizia</E
+M>della forza pubblica</E
+M>il pronto i</E
+M>dei vigili del fuoco ha evitato l’espandersi dell’incendio</E
+M>nuclei</E
+M>servizî di pronto i</E
+M>dello stato nell’economia</E
+M>l’i</E
+M>dell’Italia</E
+M>degli Stati Uniti</E
+M>nella prima guerra mondiale</E
+M>i fautori dell’i</E
+M>chiedere l’intervento</E
+M>armato</E
+M>diplomatico</E
+M>politica dell’i</E
+M>principio del non i</E
+M>principio</E
+M>politica del non i</E
+M>cambiario</E
+M>principale</E
+M>spontaneo</E
+M>chirurgico</E
+M>intervento</E
+M>eseguire un i</E
+M>sottoporsi a un i</E
+M>subire un delicato i</E
+M>un i</E
+M>al fegato</E
+M>ai polmoni</E
+M>soprannaturale</E

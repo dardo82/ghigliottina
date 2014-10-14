@@ -1,0 +1,87 @@
+addosso.txt
+"addosso, replace: addosso a"
+"addosso"
+"addosso"
+"addosso"
+"addosso"
+"avere addosso"
+"Avere gli occhi puntati addosso"
+"dare addosso; attaccare"
+"darsi addosso"
+"farsela addosso"
+"mettere addosso qc"
+"mettere le mani addosso"
+"mettere le mani addosso a qualcuno"
+"non stare addosso a qualcuno"
+"piangersi addosso"
+"pisciarsi addosso"
+"saltare addosso"
+"stare addosso a qn"
+"stare addosso a qualcuno"
+"tenere addosso"
+#*''Aveva un bel vestito 
+* [[dare]] addosso, [[mettere]] gli [[occhi]] addosso
+M>addosso a</E
+M>mettere</E
+M>portare</E
+M>tenere qualcosa a</E
+M>mettiti a</E
+M>un vestito pesante</E
+M>gli è caduto</E
+M>gli è venuto a</E
+M>l’armadio</E
+M>avere qualcosa a</E
+M>il giovine ha a</E
+M>una cattura</E
+M>una specie di bando</E
+M>per qualche scappatuccia che ha fatta in Milano</E
+M>dare a</E
+M>dagli a</E
+M>addosso!</E
+M>al ladro!</E
+M>saltare a</E
+M>a qualcuno</E
+M>mettere le mani a</E
+M>a qualcuno</E
+M>levarsi qualcuno d’a</E
+M>mettere gli occhi a</E
+M>a una persona</E
+M>a una cosa</E
+M>tenere gli occhi a</E
+M>tagliare i panni a</E
+M>a uno</E
+M>avere a</E
+M>il malanno</E
+M>la sciagura</E
+M>la iella</E
+M>tirarsi a</E
+M>un guaio</E
+M>un malanno</E
+M>avere l’argento vivo a</E
+M>avere a</E
+M>la maledizione</E
+M>avere il diavolo a</E
+M>gli entrò a</E
+M>la paura</E
+M>il timore</E
+M>la febbre</E
+M>avere molti anni a</E
+M>vivere a</E
+M>a qualcuno</E
+M>pisciarsi a</E
+M>farsela a</E
+M>pisciarsi a</E
+M>dalle risa</E
+M>farsela a</E
+M>dalla paura</E
+M>parlarsi a</E
+M>citarsi a</E
+M>piangersi a</E
+M>i ragazzi stavano l’uno a</E
+M>all’altro</E
+M>come pecore</E
+M>case costruite una a</E
+M>all’altra</E
+M>senza un po’ di spazio intorno</E
+M>non mi stare</E
+M>non mi venire così addosso!</E

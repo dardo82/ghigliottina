@@ -1,0 +1,10 @@
+vetrina.txt
+"allestire una vetrina"
+"relativo alla vetrina"
+"vetrina"
+"vetrina"
+"vetrina"
+"vetrina"
+"vetrina promozionale"
+* [[mostra]]
+*''mettersi in vetrina''

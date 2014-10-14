@@ -1,0 +1,16 @@
+binario.txt
+"a un solo binario"
+"albero binario"
+"binario"
+"binario"
+"binario adibito a scarico e carico di merci e passeggeri"
+"binario della sella di lancio"
+"binario di raccordo"
+"binario di raccordo"
+"binario di servizio"
+"codice binario"
+"decimale a codice binario"
+"insieme binario"
+"numero binario"
+"sistema binario"
+*[[binario doppio]], [[binario unico]], [[binario morto]], [[sistema binario]]

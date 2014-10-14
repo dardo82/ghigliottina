@@ -1,0 +1,37 @@
+scalo.txt
+"capo scalo"
+"fare scalo a"
+"porto di scalo"
+"scalo"
+"scalo"
+"scalo aereo"
+"scalo ferroviario"
+"scalo merci"
+"scalo tecnico"
+*[[antiscalo]]
+M>scala</E
+M>s. marittimo</E
+M>fluviale</E
+M> lacuale</E
+M>s. aereo</E
+M>fare scalo</E
+M>la nave ha fatto s. a Barcellona</E
+M>il volo per Mosca fa s. a Praga</E
+M>senza scalo</E
+M>volo Roma-New York senza scalo.</E
+M>un piccolo</E
+M>un grande s.</E
+M>uno s. di notevole importanza commerciale.</E
+M>s. passeggeri</E
+M>s. merci</E
+M>s. merci</E
+M>scalo</E
+M>S. di costruzione</E
+M>antiscalo</E
+M>S. di alaggio</E
+M>invasature</E
+M>aeroscalo</E
+M>idroscalo</E
+M>Chiusi Scalo</E
+M>Orte Scalo</E
+M>Latina Scalo.</E

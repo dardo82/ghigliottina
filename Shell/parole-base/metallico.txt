@@ -1,0 +1,78 @@
+metallico.txt
+"di filo metallico"
+"elemento metallico"
+"fare un rumore metallico"
+"fare un suono metallico"
+"grossa mosca dal colore blu metallico verde"
+"inserto metallico"
+"legno metallico"
+"metallico"
+"metallico"
+"oggetto metallico"
+"punto metallico"
+"rumore metallico"
+"spilla, punto metallico"
+"suono metallico"
+"suono metallico"
+"suono metallico"
+"truciolo metallico o di legno"
+#*''oggetto '''metallico''''', ''lega '''metallica''''';
+#*''[[punto metallico]]''
+#*''lucentezza '''metallica''''';
+#*''grigio '''metallico''''', ''verde '''metallico''''';
+#*''[[voce]] '''metallica'''''
+#*''[[legame metallico]]''
+#*''[[elemento chimico]] '''metallico'''''
+#*''[[riserva]] '''metallica''''', ''[[fondo]] '''metallico''''';
+*[[metallicamente]]
+:*[[metallizzato]]
+*[[legame metallico]], [[metallo]], [[punto metallico]]
+M>metall</E
+M>cus</E
+M>materiali m</E
+M>prodotti metallurgici</E
+M>ferrosi</E
+M>non ferrosi</E
+M>leggeri</E
+M>pesanti</E
+M>materiali m</E
+M>compositi</E
+M>lega m</E
+M>recipiente m</E
+M>funi m</E
+M>lastra m</E
+M>monete m</E
+M>costruzioni m</E
+M>rivestimenti m</E
+M>sapone m</E
+M>Punti m</E
+M>Bagno m</E
+M>riserva m</E
+M>fondo m</E
+M>scorta m</E
+M>Teoria m</E
+M>metallista</E
+M>della moneta</E
+M>Punto m</E
+M>superiore</E
+M>punto m</E
+M>inferiore</E
+M>stato m</E
+M>Legame m</E
+M>conduttore m</E
+M>conduttore elettronico</E
+M>di prima classe</E
+M>quasi metallico</E
+M>conduttori quasi m</E
+M>quasi conduttori</E
+M>riflessi m</E
+M>lucentezza m</E
+M>iodio m</E
+M>voce m</E
+M>suono</E
+M>timbro m</E
+M>bianco</E
+M>grigio</E
+M>azzurro metallico</E
+M>lo strumento vibrò metallicamente</E
+M>la luce sul mare si rifletteva metallicamente e s’irrigidiva</E

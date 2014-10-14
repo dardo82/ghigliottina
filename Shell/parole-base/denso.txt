@@ -1,0 +1,40 @@
+denso.txt
+"denso"
+"denso"
+"sangue denso"
+#* ''nebbia '''densa''''' 
+#* ''bracciale '''denso''''' 
+#* ''una conversazione '''densa''''' di propositi
+* [[consistente]], [[spesso]], [[concentrato]], [[ricco]]
+* [[fluido]], [[sciolto]], [[diluito]], [[inconsistente]]
+*[[densità]], [[densimetro]], [[densamente]]
+M>densus</E
+M>una colla d</E
+M>vino d</E
+M>inchiostro d</E
+M>gas d</E
+M>vapori</E
+M>fumo d</E
+M>una d</E
+M>nebbia</E
+M>una d</E
+M>nuvolaglia</E
+M>fitto</E
+M>folto</E
+M>rioni con popolazione molto d.</E
+M>alberi con d</E
+M>fogliame</E
+M>il destrier ch’avea lasciato Tra le più d</E
+M>frasche alla fresca ombra</E
+M>tenebre</E
+M>nel buio d</E
+M>della notte</E
+M>libro d</E
+M>di idee</E
+M>discorso d</E
+M>di concetti</E
+M>frase d</E
+M>di significato</E
+M>un periodo storico d</E
+M>di avvenimenti</E
+M>l’Italia è uno dei paesi più densamente popolati d’Europa</E

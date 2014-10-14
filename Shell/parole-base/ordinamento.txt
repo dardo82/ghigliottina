@@ -1,0 +1,73 @@
+ordinamento.txt
+"ordinamento"
+"ordinamento"
+"ordinamento crescente"
+"ordinamento giudiziario"
+"ordinamento giuridico"
+"ordinamento giurisdizionale civile"
+"ordinamento parziale"
+#* ''l'ordinamento degli studi'';
+#*''l'ordinamento costituzionale''
+*[[sistemazione]], [[organizzazione]], [[legislazione]]
+M>delle schede</E
+M>di una serie di fascicoli per numero progressivo</E
+M>delle idee</E
+M>curare l’o</E
+M>di un archivio</E
+M>provvedere all’o</E
+M>delle milizie</E
+M>l’o</E
+M>di un indice può essere alfabetico o per materia</E
+M>il nuovo o</E
+M>dei collegi</E
+M>delle scuole</E
+M>scolastico</E
+M>dell’università</E
+M>di una comunità</E
+M>l’o</E
+M>dell’esercito romano</E
+M>della cavalleria medievale</E
+M>l’o</E
+M>della società feudale</E
+M>l’o</E
+M>gerarchico della Chiesa</E
+M>della burocrazia</E
+M>degli impiegati dello stato</E
+M>l’o</E
+M>amministrativo dello stato italiano</E
+M>mutare</E
+M>rinnovare</E
+M>rovesciare</E
+M>disciplinare l’o</E
+M>di una società</E
+M>per formato</E
+M>per materie</E
+M>sistematico</E
+M>di un insieme</E
+M>completo</E
+M>parziale</E
+M>giuridico</E
+M>militare</E
+M>marittimo</E
+M>giudiziario</E
+M>scolastico</E
+M> universitario</E
+M>civili</E
+M>ecclesiastici</E
+M>principî generali dell’o</E
+M>giuridico dello stato</E
+M>principio estraneo all’o</E
+M>giuridico italiano</E
+M>art</E
+M>28 dell’o</E
+M>dello stato civile</E
+M>gli o</E
+M>del popolo</E
+M>gli o</E
+M>di giustizia</E
+M>giuridico</E
+M>lo stato è il primo fondamentale o</E
+M>giuridico</E
+M>sono o</E
+M>giuridici la Chiesa e gli enti pubblici minori</E
+M>giuridici privati</E

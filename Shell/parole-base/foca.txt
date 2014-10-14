@@ -1,0 +1,36 @@
+foca.txt
+"foca"
+"foca comune"
+"foca comune"
+"foca della Groenlandia"
+"olio di foca"
+"piccolo di foca"
+M>phoca</E
+M>comune</E
+M>vitello marino</E
+M>Phoca vitulina</E
+M>elefantina</E
+M>elefante marino</E
+M>Mirounga angustirostris</E
+M>mangiagranchi</E
+M>Lobodon carcinophagus</E
+M>monaca</E
+M>Monachus monachus</E
+M>crestata</E
+M>con la cresta</E
+M>dal cappuccio</E
+M>dal berretto</E
+M>Cystophora cristata</E
+M>Olio</E
+M>grasso di foca</E
+M>Pelle di foca</E
+M>una borsa</E
+M>una cintura di foca</E
+M>Pelliccia di foca</E
+M>una giacca di foca</E
+M>cammina come una f</E
+M>sembra una f</E
+M>è proprio una foca!</E
+M>foca</E
+M>una foca maschio</E
+M>il maschio della foca</E

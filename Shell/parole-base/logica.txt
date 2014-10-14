@@ -1,0 +1,71 @@
+logica.txt
+"a logica"
+"analisi logica"
+"compiere l'analisi logica"
+"la logica di fondo"
+"logica"
+"logica"
+"logica"
+"logica assistenzialista"
+"logica del profitto"
+"logica di ferro"
+"logica di impresa"
+"logica formale"
+"logica matematica"
+"logica modale"
+"logica moderna"
+"logica simbolica"
+"operazione logica"
+"logical operation"
+"senza nesso né logica"
+"sequenza logica"
+"logical sequence"
+#*'''logica matematica'''
+M>log</E
+M>logos</E
+M>sillogismo</E
+M>dei termini</E
+M>delle proposizioni</E
+M>formale</E
+M>trascendentale</E
+M>simbolica</E
+M>matematica</E
+M>intensionale</E
+M>estensionale</E
+M>calcolo logico</E
+M>operazioni logiche</E
+M>degli enunciati</E
+M>dei predicati</E
+M>intuizionista</E
+M>polivalente</E
+M>modale</E
+M>la l</E
+M>di Aristotele</E
+M>la l</E
+M>di John Stuart Mill</E
+M>condurre una dimostrazione con logica</E
+M>con l</E
+M>perfetta</E
+M>serrata</E
+M>sottile</E
+M>severa</E
+M>inesorabile</E
+M>discorso pieno di l</E
+M>privo di l</E
+M>senza l</E
+M>procedimento a filo di logica</E
+M>condotta</E
+M>comportamento</E
+M>risoluzione privi di logica</E
+M>deontica</E
+M>bella l</E
+M>la tua!</E
+M>ha una l</E
+M>tutta sua particolare</E
+M>la l</E
+M>dei fatti</E
+M>degli avvenimenti</E
+M>la l</E
+M>della storia</E
+M>la l</E
+M>interna d’un sistema linguistico</E

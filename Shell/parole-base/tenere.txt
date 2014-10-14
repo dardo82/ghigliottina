@@ -1,0 +1,490 @@
+tenere.txt
+"(tenere) conto di"
+"(tenere) conto di"
+"(tenere) in alta considerazione"
+"(tenere) in considerazione"
+"(tenere) in considerazione"
+"(tenere) occupato"
+"(tenere) sulla corda"
+"a tenere le fila di tutto"
+"avere e tenere"
+"avere, tenere in serbo"
+"avere, tenere in serbo"
+"controllarsi; frenarsi; tenere a freno"
+"durare; tenere duro; resistere; fare resistenza"
+"far passare qualcosa sotto silenzio, tenere segreto qualcosa"
+"non tenere in sufficiente considerazione"
+"non tenere sulle spine"
+"resistere; tenere duro"
+"resistere; tenere duro; non mollare"
+"ricevere gli ammiratori; tenere banco"
+"tenere"
+"reggere, trattenere"
+"tenere"
+"mantenere qc in un dato stato"
+"tenere"
+"conservare, trattenere per sé"
+"tenere"
+"trattenere qc o qn in un certo posto"
+"tenere"
+"tenere"
+"tenere"
+"mantenere una data direzione"
+"tenere"
+"tenere"
+"tenere"
+"tenere"
+"tenere"
+"tenere"
+"tenere, replace: tenersi"
+"tenere, replace: tenersi"
+"tenere, replace: tenersi"
+"tenere, replace: tenersi"
+"tenere a"
+"tenere a bada"
+"tenere a bada"
+"Tenere a battesimo"
+"tenere a freno"
+"tenere a mente"
+"tenere a portata di mano"
+"tenere addosso"
+"tenere aggiornato"
+"tenere al sicuro"
+"tenere alla larga"
+"tenere alto"
+"tenere bene la strada"
+"tenere buono"
+"tenere compagnia"
+"tenere compagnia a"
+"tenere conto"
+"tenere conto della fonte"
+"tenere conto di"
+"tenere conto di"
+"tenere conto di"
+"tenere d'occhio"
+"tenere d'occhio"
+"tenere d'occhio"
+"tenere d'occhio"
+"tenere d'occhio"
+"tenere d'occhio"
+"tenere d'occhio"
+"tenere d'occhio qcn, controllare qcn"
+"tenere d'occhio qualcosa"
+"tenere d'occhio qualcosa"
+"tenere dentro"
+"tenere dritta la schiena"
+"tenere duro, resistere"
+"tenere duro, resistere"
+"tenere gli occhi aperti"
+"tenere i conti"
+"tenere il broncio a"
+"tenere il contatto"
+"tenere il conto"
+"tenere il muso"
+"tenere il passo"
+"tenere il piede in due staffe"
+"tenere il resto"
+"tenere il tempo"
+"tenere in considerazione"
+"tenere in considerazione"
+"tenere in considerazione che"
+"tenere in mente"
+"tenere in mente, tenere presente"
+"tenere in pregio"
+"tenere in scacco"
+"tenere in pugno qn"
+"tenere informato"
+"tenere la bocca chiusa"
+"tenere la casa"
+"tenere la contabilità"
+"tenere la media"
+"tenere la porta aperta"
+"tenere le redini"
+"tenere legato"
+"tenere lo sguardo basso"
+"tenere lontano"
+"tenere lontano"
+"tenere lontano"
+*[[reggere]], [[mantenere]], [[sostenere]], [[impugnare]], [[stringere]], [[parteggiare]]
+*[[lasciare]], [[mollare]] 
+*[[tenersi]]
+*italiano
+*latino
+M>tèngo</E
+M>tègno</E
+M>tièni</E
+M>tiène</E
+M>teniamo</E
+M>tegnamo</E
+M>tenéte</E
+M>tèngono</E
+M>tègnono</E
+M>tènga ...</E
+M>teniamo</E
+M>teniate</E
+M>tèngano</E
+M>tègna ...</E
+M>tegnamo</E
+M>tegnate</E
+M>tègnano</E
+M>tièni</E
+M>tenéte</E
+M>ténni</E
+M>tenésti</E
+M>tenéi</E
+M>tenètti</E
+M>tenésti</E
+M>terrò</E
+M>terrèi</E
+M>tenuto</E
+M>t. in mano un libro</E
+M>una borsa</E
+M>un mazzo di fiori</E
+M>t. in braccio</E
+M>in collo un bambino</E
+M>un cagnolino</E
+M>t. un sacco sulle spalle</E
+M>t. la penna in mano</E
+M>t. la racchetta con la sinistra</E
+M>tieni il lume con tutte e due le mani</E
+M> che non ti cada!</E
+M>è pazzo</E
+M> tenetelo!</E
+M>t. l&#8217;avversario</E
+M>per</E
+M>t. il coltello per il manico</E
+M>t. un bambino per mano</E
+M> per il braccio</E
+M>reggere</E
+M>tieni la scala mentre io salgo</E
+M>t. il sacco</E
+M>t. in bilico sul naso una palla</E
+M>t. la mano</E
+M>tenere l&#8217;anima coi denti</E
+M>tenersi la pancia per le risate</E
+M>reggere</E
+M>il mare</E
+M>reggere</E
+M>i chiodi che tengono il quadro.</E
+M>avere</E
+M>avere</E
+M>tenere</E
+M>avere</E
+M>tengo fame</E
+M>tengo moglie e figli</E
+M>tiene un amico</E
+M> un parente al ministero</E
+M>t. le gambe accavallate</E
+M>una sull&#8217;altra</E
+M>t. le mani in tasca</E
+M>t. una mano sulla spalla di qualcuno</E
+M>t. il piede in due staffe</E
+M>t. la testa alta</E
+M> gli occhi aperti</E
+M>Non avea membro che tenesse fermo</E
+M>t. le mani a posto</E
+M>t. la lingua a posto</E
+M>t. la testa a partito</E
+M>t. la giacca sbottonata</E
+M>avere la giacca sbottonata</E
+M>t. il colletto aperto</E
+M>le maniche rimboccate</E
+M>t. l&#8217;orologio al polso</E
+M>un fiore all&#8217;occhiello.</E
+M>t. le redini lente</E
+M>t. lo scalpello un po&#8217; obliquo</E
+M>t. il libro troppo vicino agli occhi.</E
+M>t. la finestra aperta</E
+M>t. la porta chiusa</E
+M>t. la porta</E
+M>comandando ... giammai porta non gli fosse tenuta</E
+M>t. qualche cosa da conto</E
+M>di conto</E
+M>t. in serbo</E
+M>t. sott&#8217;olio</E
+M>sott&#8217;aceto</E
+M> in formalina</E
+M>t. al fresco</E
+M> all&#8217;ombra</E
+M> al sole</E
+M>t. in sospeso una pratica</E
+M>t. le merci in deposito</E
+M>t. alti i prezzi</E
+M>t. pulita la stanza</E
+M> i cassetti in ordine</E
+M> le schede in ordine alfabetico</E
+M>t. in regola i conti</E
+M>t. nascosto</E
+M>un lume da tenere sul comodino</E
+M>tiene sempre una pistola a portata di mano.</E
+M>t. il canarino in gabbia</E
+M>t. un figlio in collegio</E
+M> nel passato c&#8217;era l&#8217;abitudine di t. i figli a balia</E
+M>t. un malato a dieta</E
+M>t. a stecchetto</E
+M> a pane e acqua</E
+M>t. uno a pensione</E
+M> a dozzina</E
+M> in subaffitto</E
+M>t. in rispetto</E
+M>t. alle proprie dipendenze</E
+M>t. in ostaggio</E
+M>t. in soggezione</E
+M>t. sotto</E
+M>il professore l&#8217;ha tenuto sotto più di un&#8217;ora</E
+M>t. sospeso qualcuno</E
+M>t. in ansia</E
+M>t. informato</E
+M>tenersi buono qualcuno</E
+M>t. qualcuno a battesimo</E
+M> a cresima</E
+M>t. un terreno a mezzadria</E
+M>in economia</E
+M>t. un&#8217;azienda in amministrazione diretta</E
+M>tenete questi soldi</E
+M>tienlo</E
+M>tienilo</E
+M>per mio ricordo</E
+M>tieni!</E
+M>te&#8217;</E
+M>tie&#8217;</E
+M>te&#8217; dieci euro</E
+M>Te&#8217; questo lume</E
+M> buono uomo</E
+M> e guata se egli è netto</E
+M>tie&#8217;</E
+M> beccati questa!</E
+M>se lo tenga</E
+M>tientelo!</E
+M>tenetevela!</E
+M>Io son colui che tenni ambo le chiavi Del cor di Federigo</E
+M>t. a mente</E
+M> t. a memoria</E
+M>tenere</E
+M>&#171;Perché tieni?&#187; e &#171;Perché burli?&#187;</E
+M>Mal dare e mal tener</E
+M>t. una nota</E
+M>t. l&#8217;acuto finale</E
+M>tiene in casa anche una nipote orfana</E
+M>che non potesse vestire di drappo se non chi tenesse cavallo</E
+M>trattare</E
+M>tenere bene</E
+M>male</E
+M>lo tiene come un cane</E
+M>la teneva come una principessa</E
+M>t. fede alla parola data</E
+M>t. la parola</E
+M> la promessa</E
+M>t. il punto d&#8217;onore.</E
+M>t. qualcuno a pranzo</E
+M> a cena</E
+M>la febbre lo tiene a letto</E
+M>t. a bada qualcuno</E
+M>t. in</E
+M>parole</E
+M>con questo proponimento</E
+M> che Biagio dovesse t. a parole il fante di frate Cipolla</E
+M>t. il pianto</E
+M> il riso</E
+M>le risa</E
+M>non so chi mi tenga dal dargli uno schiaffo!</E
+M>e tiene un premio Ch&#8217;era follia sperar</E
+M>le secrete Vie del mio cor soavemente tieni</E
+M>un autocarro che teneva tutta la strada</E
+M>tiemmi</E
+M>tienimi</E
+M>il posto</E
+M>i capri e i cervi Tenean securi le beate valli</E
+M>t. una posizione</E
+M>i reparti che tenevano il colle</E
+M>i nemici tenevano ancora lo sbocco della valle</E
+M>t. una fortezza</E
+M>t. il campo</E
+M>è lui che</E
+M> nell&#8217;astrofisica</E
+M> tiene oggi il campo</E
+M>Credette Cimabue ne la pittura Tener lo campo</E
+M>alcuni principi</E
+M> per t. securamente lo stato</E
+M> hanno disarmato e&#8217;</E
+M>loro sudditi</E
+M>t. stretto</E
+M>t. d&#8217;occhio</E
+M>t. conto di qualche cosa</E
+M>t. copia di qualche cosa</E
+M>fare</E
+M>tenere caldo</E
+M>è un pullover di cachemire</E
+M> tiene molto caldo</E
+M>t. compagnia</E
+M>tener ragione</E
+M>tre giovani traggono le brache a un giudice ... mentre che egli ... teneva ragione</E
+M>t. il banco</E
+M>t. bottega</E
+M>t. consiglio</E
+M>nel medioevo si teneva consiglio in piazza</E
+M>ha tenuto una lezione su ...</E
+M>è la prima volta che tiene un discorso in pubblico</E
+M>le sedute del senato romano si tenevano nella curia</E
+M>la sala dove l&#8217;accademia tiene le sue adunanze</E
+M>la prossima tornata si terrà tra un mese</E
+M>t. capitolo</E
+M>t. un comizio</E
+M>fare</E
+M>tenere parola a qualcuno di qualche cosa</E
+M>mi raccomando</E
+M> è un segreto</E
+M> e ti prego di non tenerne parola a chicchessia</E
+M>vivendo dunque dimesticamente con Garibaldi</E
+M> spesse volte m&#8217;accadde tenergli parola di certi buoni amici che avevo in Siena</E
+M>La tua città ... Seco mi tenne in la vita serena</E
+M>una cisterna che tiene venti ettolitri</E
+M>lo stadio potrà t. ventimila spettatori</E
+M>un termos che tiene bene i liquidi</E
+M>una bombola</E
+M> una valvola vecchia che ormai non tiene molto bene il gas</E
+M>t. la destra</E
+M>la sinistra</E
+M>t. la mano</E
+M>t. una via</E
+M>Gridando il padre a lui: &#171;Mala via tieni!&#187;</E
+M>a la docil dama E al saggio cavalier mostran qual via Venere tenga</E
+M>t. la strada</E
+M>t. la rotta</E
+M>t. la cappa</E
+M>t. vita dissoluta</E
+M>t. un contegno esemplare</E
+M> una condotta irreprensibile</E
+M>noi ci siamo accorti che ella ogni dì tiene la cotal maniera</E
+M>Descrizione del modo tenuto dal duca Valentino nello ammazzare Vitellozzo Vitelli</E
+M>questa forma di esercito così ordinato può nel combattere t. l&#8217;ordine delle falangi e l&#8217;ordine delle legioni romane</E
+M>t. la parte</E
+M>le parti</E
+M>di qualcuno</E
+M>e vederete come Tien caro altrui che</E
+M>chi</E
+M>tien sé così vile</E
+M>per vedervi sol ridere un tratto Sarei contento esser tenuto matto</E
+M>si maravigliassero che i loro doni fossero tenuti così vili ed abbominevoli</E
+M>l&#8217;incarico loro era tenuto a vile anche da quelli che potevano averne terrore</E
+M>lo avevo sempre tenuto per un buon amico</E
+M>t. in conto</E
+M> in concetto di</E
+M>t. qualcuno in molto</E
+M> in poco</E
+M> in nessun conto</E
+M>tenere per fermo</E
+M>tenersi</E
+M>tenersi a un sostegno</E
+M>tienti a quell&#8217;appiglio con la destra</E
+M>tieniti stretto a me</E
+M>si tenga al mancorrente</E
+M>tenersi in piedi</E
+M> sulle gambe</E
+M>sa appena tenersi in sella</E
+M>tenersi a galla</E
+M>stare</E
+M>si tenne in ginocchio per molto tempo</E
+M>tenersi a distanza</E
+M> vicino</E
+M> in disparte</E
+M>tenersi alla destra di qualcuno</E
+M>tenersi pronto</E
+M>tenersi a disposizione dell&#8217;autorità</E
+M>tenersi al corrente</E
+M> aggiornato</E
+M>tenersi sulle sue</E
+M>tenersi sulla difensiva</E
+M>tenersi in guardia</E
+M>al bosco Si tenne Diana</E
+M> ed Elice caccionne</E
+M>loda il monte e tienti al piano.</E
+M>tenersi a destra</E
+M>si tenga sempre a sinistra</E
+M>tenersi al largo</E
+M>la faccenda non mi sembra pulita e mi tengo al largo</E
+M>tenersi al vento</E
+M>stare</E
+M>tenersi ai patti</E
+M>tenersi a un consiglio</E
+M> tenersi alle prescrizioni del medico</E
+M>mi tengo a quanto ho promesso</E
+M>tenersi ai fatti</E
+M>tenersi a un metodo</E
+M>sapere a che tenersi</E
+M>poi che alquanto tenuta si fu</E
+M> non potendo più tenersi</E
+M> pregò Ricciardo</E
+M>tenersi a stento dal ridere</E
+M>non si tenne dal dargli una rispostaccia.</E
+M>mi tengo onorato di questo incarico</E
+M>si teneva perduto se</E
+M>tenersi contento di</E
+M>si tiene un gran che.</E
+M>Tenersi di qualche cosa</E
+M>Quando ho stampato</E
+M> Ho celebrato E troni e popoli</E
+M> E paci e guerre ... E me ne tengo</E
+M>si tiene molto della sua dottrina</E
+M>tenerci a qualche cosa</E
+M>restituiscimi il libro: è un regalo e ci tengo</E
+M>ci tengo a riuscire</E
+M> a far bene</E
+M>ci teneva molto a fare bella figura</E
+M>è il primo articolo che scrive e ci tiene</E
+M>tengo a</E
+M>tengo a dichiarare che io ...</E
+M>una serratura che tiene bene</E
+M>poco</E
+M>la cisterna non tiene</E
+M>ci vuole un tappo che tenga</E
+M> che tenga bene</E
+M>il caposaldo ha tenuto</E
+M>il paese tiene</E
+M>alle elezioni amministrative il partito ha tenuto</E
+M>il dollaro tiene</E
+M>le azioni della nostra azienda industriale tengono</E
+M>tenere duro.</E
+M>l&#8217;ancora tiene bene</E
+M>non ha tenuto</E
+M>il lavoro sembrava fatto bene</E
+M> ma la colla non tiene.</E
+M>t. una via</E
+M>t. a destra</E
+M> a sinistra</E
+M>tener dietro a qualcuno</E
+M>Allor si mosse</E
+M> e io li tenni dietro</E
+M>è così astruso nell&#8217;esposizione che gli alunni non riescono a tenergli dietro.</E
+M>t. per uno</E
+M> da uno</E
+M> dalla parte di uno</E
+M>t. la parte di uno</E
+M>bisognerebbe che tutti i preti fossero come vossignoria</E
+M> che tenessero un po&#8217; dalla parte de&#8217; poveri</E
+M>t. con uno</E
+M>tutta l&#8217;isola si divise</E
+M> e chi tenea con l&#8217;uno e chi con l&#8217;altro</E
+M>Mario tiene per il Milan</E
+M>Tenere da</E
+M>tiene dal padre</E
+M> dalla nonna</E
+M>tenere di</E
+M>quello ingrato popolo maligno Che discese di Fiesole ab antico</E
+M> E tiene ancor del monte e del macigno</E
+M>quelli</E
+M>che tengono della pianta</E
+M>tenuta</E
+M>tenants</E
+M>nullatenente</E
+M>luogotenente</E
+M>tenènte</E
+M>essere tenuto di</E
+M>le sono tenuto di tante sue gentilezze</E
+M>essere tenuto a</E
+M>gli interessati sono tenuti a presentarsi entro il giorno 15</E
+M>gli alunni sono tenuti a seguire regolarmente le lezioni</E
+M>non era tenuto a rispondermi</E
+M>nota tenuta</E
+M>tenuto</E
+M>ten.</E

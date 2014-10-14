@@ -1,0 +1,20 @@
+farmacia.txt
+"farmacia"
+"farmacia"
+"farmacia comunale"
+"vaso da farmacia"
+*[[farmaceutica]], [[farmacologia]]
+*[[medicinali]]
+*(preparazione farmaci)  [[farmacopea]]
+M>pharmacie</E
+M>studiare f</E
+M>laurearsi in farmacia</E
+M>la f</E
+M>del convento dei camaldolesi</E
+M>farmacie di turno</E
+M>notturna</E
+M>andare in f.</E
+M> cercare una f. aperta</E
+M>Entriamo adesso nell’ultima giornata</E
+M> nella f. Dove il suo viso bianco e senza pace non risponde al saluto Del metronotte</E
+M>domestica</E

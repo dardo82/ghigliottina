@@ -1,0 +1,53 @@
+criminale.txt
+"criminale"
+"criminale"
+"criminale"
+"criminale"
+"criminale di guerra"
+"criminale recidivo"
+"criminale, malvagio"
+"debolezza criminale"
+"dipartimento di investigazione criminale"
+"giovane criminale"
+"giovane criminale"
+"organizzazione criminale"
+"psichiatria criminale"
+"psicologia criminale"
+*''(di indagine, diritto)'' [[penale]]
+* ''(di atto, attività)'' [[delittuoso]], [[delinquenziale]], [[banditesco]], [[efferato]]
+* ''(di persona)'' [[cattivo]], [[crudele]], [[malvagio]], [[scellerato]]
+*[[delinquente]], [[assassino]], [[bandito]], [[malvivente]]
+* [[criminoso]], [[disonesto]]
+* [[bandito]], [[brigante]], [[avanzo di galera]], [[ladro]]
+*''(autore di un reato)'' [[reo]], [[colpevole]]
+*[[innocente]], [[onesto]], [[retto]] 
+*[[criminalista]]
+M>criminalis</E
+M>crimen</E
+M>nis</E
+M>penale</E
+M>tribunale</E
+M>processo</E
+M>azione c</E
+M>diritto</E
+M>materia c</E
+M>cause c</E
+M>giudice c</E
+M>antropologia</E
+M>psicologia</E
+M>sociologia c</E
+M>politica c</E
+M>manicomio c</E
+M>ospedale psichiatrico giudiziario</E
+M>pene c</E
+M>si vedrà se convenga più di tenerlo a segno con le protezioni</E
+M>o trovar qualche modo d’attaccarlo noi in criminale</E
+M>tendenze c</E
+M>atti criminali</E
+M>comportamento c</E
+M>la punizione dei c</E
+M>è una vera c</E
+M>di guerra</E
+M>questi automobilisti corrono come pazzi</E
+M>sono dei veri criminali</E
+M>procedere criminalmente</E

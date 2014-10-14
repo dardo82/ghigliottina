@@ -1,0 +1,80 @@
+gara.txt
+"annullare; sospendere una gara per il freddo"
+"bando di gara"
+"che partecipa ad una gara tra due macchine"
+"corsa; gara in salita"
+"direttore di gara"
+"essere in gara"
+"essere in gara con qualcuno"
+"fare a gara con"
+"gara"
+"gara a cinque specialità"
+"gara a squadre"
+"gara automobilistica"
+"gara canora riservata a giovani artisti"
+"gara conclusa in parità"
+"gara da protagonista"
+"gara di atletica leggera"
+"gara di biciclette"
+"gara di bravura"
+"gara di corsa campestre"
+"gara di cucina"
+"gara di pesca"
+"gara di resistenza"
+"gara di tiro"
+"gara di velocità"
+"gara finale"
+"gara in salita"
+"gara motociclistica"
+"gara motociclistica"
+"gara podistica"
+"gara podistica; corsa"
+"gara pubblica"
+"gara secca"
+"gara su pista (per auto)"
+"gara tra due sole macchine"
+"giudice di gara"
+"in gara, in competizione"
+"lotto di gara"
+"modulo di gara"
+"partecipare ad una gara"
+"percorso di gara"
+"percorso di gara"
+"vantaggio acquisito all'inizio di una gara"
+"vincere la gara"
+*(spec. sportiva) [[competizione]],[[lotta]],[[disputa]],[[ partita]],[[ incontro]],[[sfida]]. [[tenzone]], [[rivalità]] 
+* (politica, elettorale ecc.) [[contrasto]],[[ competizione]],[[ contesa]],[[ disputa]] 
+*(d'appalto) [[concorso]]
+*[[gareggiare]]
+M>automobilistica</E
+M>ciclistica</E
+M>ginnica</E
+M>di velocità</E
+M>enigmistica</E
+M>letteraria</E
+M>d’appalto</E
+M>vendita a gara</E
+M>nobile g</E
+M>d’emulazione</E
+M>Nata pochi dì inanzi era una gara Tra il conte Orlando e il suo cugin Rinaldo</E
+M>dopo una gioconda Corsa di gara per salire un colle</E
+M>entrare</E
+M>essere</E
+M>trovarsi in g</E
+M>con qualcuno</E
+M>a gara</E
+M>fare a g</E
+M>tutti fecero a g</E
+M>per aiutarlo</E
+M>fanno a g</E
+M>a chi spende di più</E
+M>fanno a g</E
+M>a chi lavora peggio</E
+M>a chi dice gli spropositi più grossi</E
+M>partecipare</E
+M>prendere parte a una g</E
+M>ammettere a una g</E
+M>escludere dalla g</E
+M>vincere</E
+M>perdere la g</E
+M>fuori gara</E

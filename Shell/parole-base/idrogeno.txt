@@ -1,0 +1,31 @@
+idrogeno.txt
+"azoto idrogeno"
+"bomba all'idrogeno"
+"bromuro di idrogeno"
+"cianuro di idrogeno; acido cianidrico"
+"cloruro di idrogeno; acido cloridrico; acido muriatico"
+"di bomba all'idrogeno"
+"fluoruro di idrogeno; acido fluoridrico"
+"idrogeno"
+"legame idrogeno"
+"perossido d'idrogeno"
+"solfuro di idrogeno; acido solfidrico"
+"solfuro di idrogeno; acido solfidrico"
+* [[idrogenione]], [[idrogenasi]], [[idrogenazione]]
+* [[deuterio]], [[trizio]]
+M>hydrogène</E
+M>hydro</E
+M>gène</E
+M>antimoniato</E
+M>arsenicale</E
+M>arsina</E
+M>fosforato</E
+M>fosfina</E
+M>solforato</E
+M>acido solfidrico</E
+M>perossido d’i</E
+M>acqua ossigenata</E
+M>pesante</E
+M>deuterio</E
+M>Legame i</E
+M>ciclo dell’i</E

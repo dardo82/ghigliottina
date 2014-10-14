@@ -1,0 +1,80 @@
+chiusura.txt
+"anello di chiusura"
+"aprire la chiusura lampo"
+"chiusura"
+"chiusura"
+"chiusura a libro"
+"chiusura a strappo"
+"chiusura anticipata (di esercizio commerciale)"
+"chiusura con bottone"
+"chiusura definitiva"
+"chiusura delle porte"
+"chiusura estiva"
+"chiusura lampo"
+"chiusura mentale"
+"costi di chiusura"
+"costi societari rilevabili solo in fase di chiusura"
+"giorni di chiusura"
+"meccanismo di chiusura"
+"ora di chiusura"
+"ora di chiusura obbligatoria dei negozi"
+"orario di chiusura"
+"prezzo di chiusura"
+"quotazione di chiusura"
+"suono di chiusura"
+"valvola di chiusura"
+*''(di passaggio, strada)'' [[interruzione]]
+*''(di opera, attività, eccetera)'' [[fine]], [[finale]] [[termine]], [[epilogo]], [[conclusione]], [[cessazione]]
+*''(specialmente di porta)'' [[serratura]]
+* ''(di indumento)'' [[abbottonatura]], [[allacciatura]], [[lampo]], [[cerniera]]
+*''(mentale, ideologica eccetera)'' [[grettezza]], [[rigidità]], [[ostilità]]
+*[[apertura]], [[inizio]], [[avvio]]
+*''(mentale, ideologica eccetera)'' [[elasticità]], [[disponibilità]]
+M>clus</E
+M>claus</E
+M>clud</E
+M>claud</E
+M>di una porta</E
+M>di una finestra</E
+M>la ch</E
+M>serale dei cancelli d’ingresso ai giardini</E
+M>orario di ch</E
+M>giornata di ch</E
+M>per ferie</E
+M>fallimentare</E
+M>le autorità hanno ordinato la ch</E
+M>del ristorante per inosservanza delle norme d’igiene</E
+M>dei conti</E
+M>di borsa</E
+M>la ch</E
+M>delle scuole</E
+M>delle iscrizioni</E
+M>di un dibattito</E
+M>manifestazione di ch</E
+M>di un circuito</E
+M>idraulica</E
+M>elettrica</E
+M>automatica delle porte</E
+M>ermetica di un contenitore</E
+M>di un dittongo</E
+M>monottongazione</E
+M>aurum</E
+M>rosae</E
+M>oro</E
+M>rose</E
+M>apertura</E
+M>a destra</E
+M>a sinistra</E
+M>essere chiuso</E
+M>mentale</E
+M>servirsi di una ch</E
+M>provvisoria</E
+M>ricorrere a una ch</E
+M>solida</E
+M>lampo</E
+M>cerniera lampo</E
+M>la lampo</E
+M>avere</E
+M>non avere la chiusura</E
+M>universale di un’espressione</E
+M>esistenziale di un’espressione</E

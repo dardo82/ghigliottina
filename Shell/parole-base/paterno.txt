@@ -1,0 +1,47 @@
+paterno.txt
+"amore paterno"
+"diritto paterno"
+"nonno paterno"
+"paterno"
+"paterno"
+M>paternus</E
+M>pater</E
+M>l&#8217;amore p</E
+M>i consigli</E
+M>i rimproveri p</E
+M>l&#8217;autorità p</E
+M>la casa p</E
+M>beni p</E
+M>eredità p</E
+M>Idomeneo</E
+M> cretese eroe</E
+M> Da la sua patria e da&#8217; p</E
+M>regni Era scacciato</E
+M>esser partecipe della gloria</E
+M>della fama p</E
+M>educazione p</E
+M>scuola p</E
+M>ascendenti p</E
+M>del ramo p</E
+M>zio</E
+M>nonno paterno</E
+M>ha avuto per lui cure più che p</E
+M>il maestro gli dava p</E
+M>ammonimenti</E
+M>il direttore gli fece un p</E
+M>rimprovero</E
+M>gli ha sempre dimostrato un affetto p</E
+M>parlare in tono p</E
+M>con voce p</E
+M>sorvegliare qualcuno con occhio p</E
+M>non ringrazio Se non col core a la p</E
+M>festa</E
+M>essere</E
+M>mostrarsi p</E
+M>con</E
+M>verso qualcuno</E
+M>governo p</E
+M>trattare</E
+M>consigliare</E
+M>giudicare</E
+M>rimproverare paternamente</E

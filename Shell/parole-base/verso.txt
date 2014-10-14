@@ -1,0 +1,125 @@
+verso.txt
+"abbassare lo sguardo, guardare verso il basso"
+"alzare lo sguardo, guardare verso l'alto"
+"avanzare a grandi passi verso"
+"balzare verso"
+"camminare verso"
+"capitolo e verso (riferimenti precisi)"
+"che imita, che fa il verso"
+"che si apre verso l'alto, a farfalla"
+"che si apre verso l'alto; a farfalla"
+"diretto verso casa"
+"diretto verso casa"
+"dirigersi dritti verso"
+"dirigersi verso"
+"diventare, voltarsi verso"
+"dritto verso nord"
+"essere ben disposto verso qualcuno"
+"essere orientato verso"
+"essere ostile verso"
+"estendersi verso"
+"far avvicinare qc a, persuadere qc di, avviare qc verso, iniziare qc verso"
+"far scorrere verso il basso"
+"far scorrere verso l'alto"
+"fare il verso a qn"
+"fare rotta verso"
+"girare il timone il più possibile verso una direzione"
+"girare nel verso giusto"
+"gravitare verso"
+"guardare verso"
+"guardare verso"
+"il dirigersi verso"
+"il navigare verso casa"
+"il verso di 'nitrire'"
+"in giù, verso il basso"
+"in o verso ovest"
+"in transito verso"
+"in viaggio verso"
+"in viaggio verso"
+"inclinato verso"
+"indifferenza verso, disinteresse verso, disinteresse per"
+"livellamento verso il basso"
+"mettersi in marcia verso"
+"mostrare interesse verso qcs.\/qcn."
+"mostrare interesse verso qcs.\/qcn."
+"movimento verso il basso"
+"movimento verso la fine"
+"muovendosi verso"
+"muoversi verso"
+"non esserci verso"
+"per il verso giusto"
+"per un certo verso"
+"percorso verso la guarigione"
+"precipitarsi verso"
+"prendere per il verso giusto"
+"propenso verso qualcosa"
+"responsabile di qualcosa verso qualcuno"
+"responsabile verso"
+"responsabilità verso qlc."
+"ringhiare verso qc, brontolare verso qc"
+"rivolto verso l'esterno"
+"ruotare verso l'interno"
+"scimmiottare; imitare; fare il verso"
+"sensibilità verso"
+"serbare rancore verso"
+"sporgersi verso"
+"spostare il proprio interesse verso"
+"sviluppare lealtà verso"
+"tendere verso, essere inclini a"
+"tendere verso, essere inclini a"
+"tirare verso l'alto, tirare fuori"
+"trovare la propria strada verso"
+"verso"
+"verso"
+"verso"
+"verso"
+"verso"
+"verso"
+"verso"
+"verso"
+"verso"
+"verso"
+"verso"
+"verso"
+"verso"
+"voltato, riverso"
+"verso dell'accoppiamento"
+"verso est"
+"verso est, in direzione est"
+"verso est, in direzione est"
+"verso est, in direzione est"
+"verso giambico"
+"verso i cieli"
+"verso il basso"
+"verso il centro (della nave)"
+"verso il mare"
+"verso l'alto"
+"verso l'alto"
+"verso l'esterno"
+"verso la fine"
+"verso la fine"
+"verso leggero"
+"verso libero"
+*[[contro]]
+*(di movimento, disposizione) [[parte]], [[lato]], [[direzione]], [[senso]], [[orientamento]]
+*[[modo]], [[maniera]], [[mezzo]], [[metodo]]
+*(metrica) [[riga]], unità metrica; (al plurale) composizione poetica, [[poesie]], [[rime]]
+*(specialmente di animale) [[voce]], [[suono]], [[grido]]
+*(specialmente plurale) [[gesto]], [[smorfia]], [[tic]]
+*[[imitazione]]
+*(di animale) [[grido]], [[voce]] 
+*(di un foglio, moneta) parte posteriore, [[rovescio]], [[retro]]
+*[[gesto]]; [[smorfia]], [[boccaccia]] 
+* in direzione, in direzione di, incontro a, alla volta di
+* in prossimità, in prossimità di,dalle parti, nei pressi, nei pressi di, dalle parti di, intorno a,  nei dintorni, nei dintorni di, vicino, nelle vicinanze, nelle vicinanze di
+*(per indicare approssimazione) [[circa]], intorno a, più o meno
+* nei confronti, nei confronti, nei riguardi, nei riguardi di,[[riguardo]]
+*intorno a, [[circa]]
+* (commerciale)  [[contro]], [[dietro]], [[previo]]
+*(metrica) [[prosa]]
+*(di un foglio, moneta) [[recto]]
+*[[bianca]]
+*(in direzione di) [[contro]], all’opposto, dall’altra parte, agli antipodi
+*(per indicare approssimazione) [[precisamente]], [[esattamente]] 
+*(specialmente di animale) [[latrato]], [[guaito]], [[belato]],[[gracidio]], [[zillo]]
+*''non c'è verso di''

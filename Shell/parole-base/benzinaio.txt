@@ -1,0 +1,5 @@
+benzinaio.txt
+"benzinaio"
+*italiano
+M>fare benzina</E
+M>benzinaro</E

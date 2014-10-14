@@ -1,0 +1,32 @@
+agenda.txt
+"agenda"
+"diary, agenda"
+"agenda"
+"agenda"
+"agenda degli appuntamenti"
+"agenda telefonica"
+*[[ taccuino]], [[diario]], [[scadenziario]], [[rubrica]], [[notes]] 
+* [[canhenho]]
+* [[memento]]
+*italiano
+*afrikaans
+*inglese
+*spagnolo
+*finlandese
+*francese
+*indonesiano
+*latino
+*olandese
+*portoghese
+M>agenda</E
+M>tascabile</E
+M>da scrivania</E
+M>segnare un appuntamento sull’a</E
+M>a. elettronica</E
+M>fissare la propria a</E
+M>per l’indomani</E
+M>aggiungere nell’a</E
+M>cancellare dall’a</E
+M>una visita</E
+M>un incontro</E
+M>una riunione</E

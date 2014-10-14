@@ -1,0 +1,5 @@
+spago.txt
+"che si lega con lo spago"
+"Dare spago"
+"spago"
+"spago, corda"

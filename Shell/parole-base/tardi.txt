@@ -1,0 +1,74 @@
+tardi.txt
+"al più tardi"
+"dormire fino a tardi"
+"dormire fino a tardi"
+"fare tardi"
+"meglio tardi che mai"
+"non è mai troppo tardi"
+"non più tardi di"
+"pianta che fiorisce tardi"
+"più tardi"
+"più tardi"
+"più tardi di"
+"più tardi nel tempo"
+"presto o tardi, prima o poi"
+"quasi troppo tardi"
+"si fa tardi."
+"Si sta facendo tardi"
+"sul tardi"
+"tardi"
+"tardi"
+"tardi nel giorno"
+"tirar tardi"
+"troppo tardi"
+*[[presto]]
+M>tarde</E
+M>tardus</E
+M>abbiamo sempre l&#8217;abitudine di fare un po&#8217; t. la sera</E
+M>sono andato a letto t.</E
+M> stanotte</E
+M>si alza t. la mattina</E
+M>ci vedremo oggi sul t.</E
+M>chiacchierando</E
+M> ci si è fatto t.</E
+M>meglio tardi che mai.</E
+M>tardissimo</E
+M>è rientrato a casa tardissimo</E
+M>più tardi</E
+M>ci vedremo più tardi</E
+M>a più tardi</E
+M>al più tardi</E
+M>il vestito sarà pronto al più t. tra una settimana.</E
+M>presto</E
+M>presto o tardi ci riuscirà</E
+M>nel quale unimento</E
+M>l&#8217;anima corre tosto o tardi</E
+M> secondo che è libera o impedita</E
+M>arrivare</E
+M>fare</E
+M>tardi a scuola</E
+M>alla stazione</E
+M>per la cena</E
+M>ha fatto t. e ha perso il treno</E
+M>sarà ora che ti muova</E
+M> altrimenti farai t.</E
+M>chi t. arriva male alloggia</E
+M>ha cominciato t. a studiare</E
+M> troppo t.</E
+M>è tardi</E
+M>è t. ormai per decidere</E
+M>per iscriversi</E
+M>dovevi pensarci prima</E
+M> ora è tardi</E
+M>parere</E
+M>sembrare</E
+M>essere</E
+M>tardi</E
+M>lo vedrò domani</E
+M> e mi par tardi</E
+M>Tanto m&#8217;aggrada il tuo comandamento</E
+M> Che l&#8217;ubidir</E
+M> se già fosse</E
+M> m&#8217;è tardi</E
+M> torniamo a casa</E
+M> è già tardino.</E

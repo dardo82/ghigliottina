@@ -1,0 +1,46 @@
+comunione.txt
+"comunione"
+"comunione"
+"comunione con diritto di accrescimento"
+"comunione dei santi"
+"comunione di intenti"
+"essere in comunione spirituale con"
+"in regime di comunione dei beni"
+"prima comunione"
+"ricevere la comunione"
+"Santa Eucaristia, comunione"
+M>communio</E
+M>onis</E
+M>communis</E
+M>di averi</E
+M>di beni</E
+M>di diritti</E
+M>di vita</E
+M>di beni tra coniugi</E
+M>tacita familiare</E
+M>essere in c</E
+M>d’idee</E
+M>di sentimenti</E
+M>d’affetti</E
+M>con Dio</E
+M>coi defunti</E
+M>dei santi</E
+M>la c</E
+M>cristiana</E
+M>escludere dalla c</E
+M>dei fedeli</E
+M>la c</E
+M>anglicana</E
+M>fare la c</E
+M>distribuire la c</E
+M>ammettere alla c</E
+M>negare</E
+M>rifiutare la c</E
+M>portare la c</E
+M>agli infermi</E
+M>fare la prima c</E
+M>passare a c</E
+M>preparare alla c</E
+M>sotto le due specie</E
+M>la messa era già alla comunione</E
+M>spirituale</E

@@ -1,0 +1,47 @@
+attribuire.txt
+"attribuire"
+"attribuire"
+"attribuire, replace: attribuirsi"
+"attribuire a"
+"attribuire a"
+"attribuire a"
+"attribuire a"
+"attribuire a qualcuno qualcosa"
+"attribuire qualcosa a"
+"attribuire troppa importanza"
+"attribuire un posto"
+"attribuire un punteggio"
+"attribuire un valore"
+"rendere merito a qc, riconoscere\/attribuire qcs a qc"
+*[[riconoscere]], [[ascrivere]]
+*[[attribuibile]]
+M>attribu</E
+M>tribu</E
+M>io attribüisco</E
+M>tu attribüisci</E
+M>una qualità a un oggetto</E
+M>un premio</E
+M>a ciascuno la parte che gli spetta</E
+M>gli fu attribuito un potere eccessivo</E
+M>la Scrittura</E
+M>e piedi e mano Attribuisce a Dio</E
+M>ed altro intende</E
+M>a qualcuno un’opera</E
+M>tela attribuita a Tiziano</E
+M>un’intenzione</E
+M>mi attribuisci parole che non ho mai detto</E
+M>Attribuirsi</E
+M>si attribuiva il titolo di dottore che non aveva</E
+M>importanza</E
+M>valore a una cosa</E
+M>attribuisco l’errore a una sua svista</E
+M>il suo malessere si può a</E
+M>forse a indigestione</E
+M>non so a che cosa a</E
+M>questo suo improvviso mutamento nei miei riguardi</E
+M>sono timori infondati</E
+M>che non possono essere attribuiti se non alla sua fantasia eccitata</E
+M>un fatto a lode</E
+M>a biasimo</E
+M>a merito</E
+M>a colpa a qualcuno</E

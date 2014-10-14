@@ -1,0 +1,68 @@
+disciplina.txt
+"disciplina"
+"disciplina"
+"disciplina"
+"disciplina"
+"disciplina"
+"disciplina"
+"disciplina accademica"
+"disciplina giuridica"
+"disciplina rigida, disciplina severa"
+"disciplina sportiva"
+"distance medley (disciplina sportiva)"
+"mancanza di disciplina"
+"mancanza di disciplina"
+"mantenere la disciplina"
+M>disciplina</E
+M>discip</E
+M>lus</E
+M>molte di queste operazioni s’adornano con la d</E
+M>Quando fanciullo io venni A pormi con le Muse in disciplina</E
+M>L’una di quelle mi pigliò per mano</E
+M>affidare i figli alla d</E
+M>di un buon maestro</E
+M>è cresciuto sotto la rigida d</E
+M>di uno zio prete</E
+M>la d</E
+M>del dolore</E
+M>delle disgrazie</E
+M>della povertà</E
+M>filosofiche</E
+M>giuridiche</E
+M>teologiche</E
+M>storiche</E
+M>sportiva</E
+M>nordiche</E
+M>severa</E
+M>rigorosa</E
+M>dura</E
+M>ferrea</E
+M>rilassata</E
+M>mantenere</E
+M>far rispettare la d</E
+M>imporre il rispetto della d</E
+M>osservare</E
+M>rompere</E
+M>violare la d</E
+M>assoggettarsi alla d</E
+M>essere insofferente di d</E
+M>è un insegnante che non sa tenere la d</E
+M>regolamento di d</E
+M>scolari senza d</E
+M>indisciplinato</E
+M>militare</E
+M>ecclesiastica</E
+M>compagnia di d</E
+M>commissione</E
+M>consiglio</E
+M>corte di d</E
+M>è una materia ancora senza d</E
+M>la d</E
+M>dei patti agrarî</E
+M>degli affitti</E
+M>darsi la d</E
+M>Quai barbare fuor mai</E
+M>quai saracine</E
+M>Cui bisognasse</E
+M>per farle ir coperte</E
+M>O spiritali o altre d</E

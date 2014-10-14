@@ -1,0 +1,42 @@
+vocazione.txt
+"per vocazione"
+"vocazione"
+*[[inclinazione]]
+M>vocatio -onis</E
+M>vocare</E
+M>v. ereditaria</E
+M>vocatio</E
+M>complemento di v.</E
+M>vocativo</E
+M>v. religiosa</E
+M>sacerdotale</E
+M>v. all’apostolato laico</E
+M>avere</E
+M>sentire v. al sacerdozio</E
+M>alla vita claustrale</E
+M>all’attività missionaria</E
+M>farsi prete</E
+M>monaco</E
+M>suora senza vera v.</E
+M>perdere la vocazione</E
+M>avere</E
+M>sentire v. al matrimonio</E
+M>alla vita coniugale</E
+M>avere v. a</E
+M>per</E
+M>la musica</E
+M>l’arte</E
+M>la letteratura</E
+M>le scienze</E
+M>il teatro</E
+M>avere</E
+M>non avere v. a fare l’insegnante</E
+M>il sindacalista</E
+M>il medico</E
+M>l’attore</E
+M>fare qualcosa per v.</E
+M>non bisogna impedire ai figli di seguire la propria vocazione</E
+M>v. viticola</E
+M>colline di alta v. per la coltura di un particolare vitigno</E
+M>vacche a v. carnea</E
+M>lattifera</E

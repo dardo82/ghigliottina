@@ -1,0 +1,58 @@
+precedenza.txt
+"avere la precedenza"
+"avere la precedenza, avere la priorità"
+"cedere a qcn.; dare la precedenza a qcn.; lasciare il passo a qcn.; arrendersi a qcn."
+"cedere; dare la precedenza; lasciare il passo a"
+"che dà la precedenza"
+"conosciuto in precedenza"
+"dare la precedenza a"
+"diritto di precedenza"
+"fabbricato in precedenza"
+"in precedenza"
+"l'atto di cedere; di dare la precedenza; di lasciare il passo a"
+"precedenza"
+"precedenza"
+"precedenza"
+"preparato in precedenza"
+"strada con diritto di precedenza"
+#*''dare la precedenza a chi proviene da destra'' 
+*[[antecedenza]], [[prelazione]]
+*[[posteriorità]], [[seguito]]
+*[[precedere]]
+*''in precedenza''
+M>precedere</E
+M>precedente</E
+M>praecedentia</E
+M>di punta</E
+M>di ferro</E
+M>avere diritto di p</E
+M>avere la p</E
+M>dare la p</E
+M>rispettare le p</E
+M>essere il primo in ordine di p</E
+M>le autorità hanno la p</E
+M>nel corteo</E
+M>ordine delle p</E
+M>osservare le norme che regolano l&#8217;ordine delle p</E
+M>binario di p</E
+M>avere diritto di p</E
+M>le autoambulanze hanno la p</E
+M>assoluta</E
+M>segnale di p</E
+M>di diritto</E
+M>di fatto</E
+M>l&#8217;approvazione del bilancio avrà la p</E
+M>nella riunione del consiglio di amministrazione</E
+M>dare la p</E
+M>a una questione</E
+M>a un problema</E
+M>a una proposta</E
+M>i telegrammi urgenti hanno la p</E
+M>assoluta</E
+M>qualifiche di p</E
+M>lampo</E
+M>ordinario</E
+M>in precedenza</E
+M>un discorso preparato in p</E
+M>si erano già accordati in p</E
+M>tra loro</E

@@ -1,0 +1,15 @@
+chic.txt
+"chic"
+"chic, fashionable"
+M>chic</E
+M>Schick</E
+M>schicken</E
+M>un uomo chic</E
+M>una donna molto chic</E
+M>un abito</E
+M>un appartamento chic.</E
+M>un ricevimento di grande chic</E
+M>che chic!</E
+M>scicche</E
+M>sciccóso</E
+M>sciccherìa</E

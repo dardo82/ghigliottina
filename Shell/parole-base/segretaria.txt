@@ -1,0 +1,11 @@
+segretaria.txt
+"segretaria"
+"segretaria particolare"
+"segretaria personale"
+"segretaria tuttofare; efficientissima"
+"segretaria vocale"
+M>segretario</E
+M>s. di azienda</E
+M>s. di produzione</E
+M>s. di edizione</E
+M>s. di scena</E

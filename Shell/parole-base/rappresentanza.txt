@@ -1,0 +1,48 @@
+rappresentanza.txt
+"di rappresentanza"
+"in rappresentanza di"
+"potere di firma e rappresentanza"
+"rappresentanza"
+"rappresentanza consolare"
+"rappresentanza esclusiva"
+"sala di rappresentanza"
+M>in rappresentanza di</E
+M>in r</E
+M>del ministro è intervenuto alla cerimonia il sottosegretario</E
+M>un drappello di ex</E
+M>combattenti era presente in r</E
+M>di tutta l’associazione</E
+M>avere funzioni</E
+M>responsabilità di r</E
+M>spese</E
+M>indennità di r</E
+M>sale</E
+M>ambienti</E
+M>uffici di rappresentanza</E
+M>una sontuosa sala</E
+M>vivamente illuminata</E
+M>una di quelle sale di r</E
+M>e di soggiorno che non di rado vien fatto di vedere nelle vecchie case nobili in provincia</E
+M>diretta</E
+M>propria</E
+M>rappresentante</E
+M>rappresentato</E
+M>indiretta</E
+M>d’interessi</E
+M>volontaria</E
+M>legale</E
+M>giudiziale</E
+M>processuale</E
+M>politica</E
+M>di un altro stato</E
+M>diplomatica</E
+M>sindacale aziendale</E
+M>alla manifestazione ha partecipato una r</E
+M>del governo</E
+M>dei partiti politici</E
+M>del sindacato</E
+M>una r</E
+M>dei lavoratori della fabbrica occupata è stata ricevuta dal sindaco</E
+M>diplomatica</E
+M>quella ditta ha una r</E
+M>a Genova</E

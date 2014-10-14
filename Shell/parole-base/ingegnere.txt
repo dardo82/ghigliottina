@@ -1,0 +1,49 @@
+ingegnere.txt
+"ingegnere"
+"ingegnere aeronautico"
+"ingegnere aerospaziale"
+"ingegnere agronomo"
+"ingegnere ambientale (idraulico)"
+"ingegnere capo"
+"ingegnere chimico"
+"ingegnere civile"
+"ingegnere civile"
+"ingegnere dei sistemi"
+"ingegnere dei trasporti"
+"ingegnere dell'esercito"
+"ingegnere di prodotto"
+"ingegnere di sistema"
+"ingegnere edile"
+"ingegnere elettronico"
+"ingegnere elettrotecnico"
+"ingegnere gestionale"
+"ingegnere industriale"
+"ingegnere informatico"
+"ingegnere meccanico"
+"ingegnere meccanico"
+"ingegnere militare"
+"ingegnere minerario"
+"ingegnere missilistico"
+"ingegnere navale"
+"ingegnere nucleare"
+"ingegnere petrolifero"
+"ingegnere ricercatore"
+"ingegnere strutturale"
+#* ''quell'ingegnere ha  verificato la solidità antisismica di quell'edificio ''
+*[[ingegneria]], [[ingegneristico]]
+m>ingegno</e
+m>iscriversi</e
+m>essere iscritto all&rsquo;albo degli i</e
+m>l&rsquo;ordine degli i</e
+m>e architetti</e
+m>civile</e
+m>industriale</e
+m>elettrotecnico</e
+m>i. informatico</e
+m>meccanico</e
+m>minerario</e
+m>chimico</e
+m>del suono</e
+m>rivolgersi a un i</e
+m>senta prima l&rsquo;i</e
+m>buongiorno ingegnere</e

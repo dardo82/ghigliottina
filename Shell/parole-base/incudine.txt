@@ -1,0 +1,18 @@
+incudine.txt
+"(essere) tra l'incudine e il martello"
+"incudine"
+"incudine"
+"sull'incudine"
+"tra l'incudine e il martello"
+*''essere tra l''''incudine''' e il martello''
+M>incus</E
+M>udis</E
+M>nis</E
+M>cud</E
+M>tavola</E
+M>corni</E
+M>essere</E
+M>trovarsi tra l’i</E
+M>e il martello</E
+M>dura più l’i</E
+M>del martello</E

@@ -1,0 +1,98 @@
+inglese.txt
+"andarsene all'inglese; senza salutare"
+"buon inglese"
+"burocrazia inglese"
+"chiave inglese"
+"chiave inglese, chiave"
+"città inglese"
+"corno inglese"
+"corno inglese"
+"dessert inglese"
+"gergo inglese"
+"inglese"
+"inglese"
+"inglese"
+"lingua inglese"
+"inglese americano"
+"inglese antico"
+"inglese britannico"
+"inglese commerciale"
+"inglese corretto"
+"inglese di base"
+"inglese maccheronico"
+"inglese medievale"
+"inglese parlato"
+"inglese pidgin"
+"inglese standard"
+"insegnare a qualcuno le basi dell'inglese"
+"isola inglese nella Manica"
+"lingua inglese"
+"mezzo inglese"
+"moneta inglese"
+"non capisco l'inglese"
+"non parlo inglese"
+"panino inglese"
+"panino inglese"
+"parli inglese?"
+"sale inglese"
+"sale inglese"
+"salsa piccante inglese di origine indiana"
+"scozzese (inglese parlato in Scozia)"
+"setter inglese"
+"setter inglese"
+"slang inglese"
+"spaniel inglese"
+"spaniel inglese da salto"
+"termine offensivo inglese per gli africani e gli asiatici"
+"un giurista inglese del '600"
+"zuppa inglese"
+#*''[[w
+*[[britannico]]; [[anglosassone]], [[anglico]]
+*[[inglesismo]], [[inglesizzare]]
+*[[scozzese]]
+*''(antico)'' ''(spregiativo)'' [[inghilese]] 
+M>angleis</E
+M>anglisc</E
+M>Angli</E
+M>il popolo i.</E
+M>la flotta i</E
+M>popolazioni di lingua i</E
+M>un vestito di taglio i</E
+M>di stoffa i</E
+M>cavallo i</E
+M>di razza i</E
+M>un purosangue inglese</E
+M>le donne i</E
+M>la tradizionale flemma degli Inglesi</E
+M>Lingua i</E
+M>l’inglese</E
+M>sapere</E
+M>conoscere l’i</E
+M>parlare l’i</E
+M>parlare inglese</E
+M>l’i</E
+M>del re</E
+M>king’s English</E
+M>insegnare</E
+M>studiare l’i</E
+M>dare l’esame d’i</E
+M>insegnante d’inglese</E
+M>chiave i</E
+M>innesto i</E
+M>legatura i</E
+M>ricamo i</E
+M>punto</E
+M>ricamo di Madera</E
+M>sabato i</E
+M>sale i</E
+M>scudo i</E
+M>sella i</E
+M>all’i</E
+M>unità inglesi</E
+M>zuppa i</E
+M>All’inglese</E
+M>giardino all’i</E
+M> prato all’i</E
+M>andarsene</E
+M>filarsela</E
+M>partire all’i</E

@@ -1,0 +1,52 @@
+oceano.txt
+"costa dell'oceano"
+"oceano"
+"oceano"
+"Oceano Pacifico"
+"Pacifico (Oceano Pacifico)"
+"una goccia nell'oceano"
+#* ''
+#* ''nella piazza c'era un 
+* [[oceanauta]], [[oceaniano]], [[oceanico]], [[oceanino]], [[oceanocoria]],[[oceanografia]], [[oceanografico]], [[oceanografo]],   [[oltreoceano]], [[transoceanico]]
+M>Oce</E
+M>nus</E
+M>oceani</E
+M>Atlantico</E
+M>Pacifico</E
+M>mari</E
+M>golfi</E
+M>Mar Mediterraneo</E
+M>Mar Baltico</E
+M>Golfo del Bengala</E
+M>la superficie dell’o</E
+M>la fauna</E
+M>la flora dell’o</E
+M>navigare in pieno o</E
+M>oceano Atlantico</E
+M>oceano Pacifico</E
+M>oceano Indiano</E
+M>varcare</E
+M>attraversare</E
+M>trasvolare l’o</E
+M>al di qua</E
+M>al di là dell’oceano</E
+M>E l’oceàn traversando con gli occhi D’Anglia le minacciate alpi saluta</E
+M>un o</E
+M>di numeri</E
+M>di parole</E
+M>di lacrime</E
+M>essere come una goccia nell’o</E
+M>l’o</E
+M>della vita</E
+M>dell’esistenza</E
+M>l’o</E
+M>dei sentimenti umani</E
+M>dall’etere inane dove nuotano miriadi di spiriti in oceani di luce</E
+M>in mezzo a quell’o</E
+M>di popoli</E
+M>eterne leggi che regolano e ordinano l’o</E
+M>dell’universo</E
+M>un o</E
+M>di felicità</E
+M>anche coloro che sono tenuti i più dotti attingono solo alcune gocce e impure dell’immensurabile o</E
+M>storico</E

@@ -1,0 +1,7 @@
+potare.txt
+"coltello per potare"
+"forbici per potare"
+"potare"
+"potare"
+"potare la cima delle piante"
+*[[potatoio]], [[potatore]], [[potatura]]

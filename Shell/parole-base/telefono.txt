@@ -1,0 +1,102 @@
+telefono.txt
+"al telefono"
+"cavo del telefono"
+"cavo del telefono"
+"dare un colpo di telefono"
+"filo del telefono"
+"il telefono squilla"
+"il telefono suona libero"
+"intercettare il telefono di qualcuno"
+"lasciare il numero di telefono"
+"numero di telefono"
+"parlare al telefono"
+"passare qn al telefono"
+"per telefono"
+"presa del telefono"
+"presa del telefono"
+"presentarsi al telefono"
+"programma via telefono"
+"pubblico per telefono"
+"tavolino del telefono"
+"tavolino del telefono"
+"tecnico del telefono"
+"telefono"
+"telefono"
+"telefono a gettoni"
+"telefono a muro"
+"telefono automatico"
+"telefono cellulare"
+"telefono da tavolo"
+"telefono fisso"
+"telefono pubblico"
+"telefono senza fili"
+#* ''[[chiamare]] qualcuno al 
+#* ''[[numero]] di 
+* apparecchio telefonico
+* [[telefono cellulare]]; [[telefonare]]; [[telefonata]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 2118 
+M>tele-</E
+M>-fono</E
+M>téléphone</E
+M>telephone</E
+M>gancio commutatore</E
+M>disco combinatore</E
+M>t. a disco</E
+M>tastiera</E
+M>t. a tastiera</E
+M>t. da tavolo</E
+M>t. da muro</E
+M>numero del t.</E
+M>chiamare qualcuno al t.</E
+M>parlare per t.</E
+M>andare al t.</E
+M>il dottore al t.!</E
+M>ingegnere</E
+M> al t.!</E
+M>al t.!</E
+M>colpo di t.</E
+M>coup de téléphone</E
+M>appena sai qualche cosa di sicuro</E
+M> dammi un colpo di t. per avvisarmi.</E
+M>cinema dei t. bianchi</E
+M>l&#8217;appartamento è nuovo e sono ancora senza t.</E
+M>farsi mettere il t. in casa</E
+M>i cavi</E
+M>i fili del t.</E
+M>t. interno</E
+M>t. esterno</E
+M>t. pubblico</E
+M>t. senza fili</E
+M>t. radiomobile</E
+M>radiotelefono</E
+M>veicolare</E
+M>trasportabile</E
+M>portatile</E
+M>t. senza filo</E
+M> cordless</E
+M>viva voce</E
+M>t. multifunzione</E
+M>multifrequenza</E
+M>t. cellulare</E
+M>telefonino</E
+M>il cellulare</E
+M>telefonia cellulare</E
+M>t. rosso</E
+M>linea rossa</E
+M>hot line</E
+M>linea calda</E
+M>t. amico</E
+M>t. azzurro</E
+M>t. rosa</E
+M>t. viola</E
+M>l&#8217;invenzione del telefono.</E
+M>il t. è indispensabile negli affari</E
+M>nella vita moderna</E
+M>nelle grandi città</E
+M>gli utenti del t.</E
+M>la società del t.</E
+M>dei telefoni.</E
+M>trasduttore elettrosonoro</E
+M>Gioco del t.</E
+M>Doccia a telefono</E
+M>Supplì al t.</E

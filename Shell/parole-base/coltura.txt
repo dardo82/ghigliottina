@@ -1,0 +1,34 @@
+coltura.txt
+"coltura"
+"coltura"
+"coltura di tessuti"
+"coltura intensiva"
+"coltura itinerante"
+"coltura mista"
+"coltura per la vendita immediata"
+M>cultura</E
+M>col</E
+M>la c</E
+M>della terra</E
+M>dei campi</E
+M>la c</E
+M>del riso</E
+M>delle piante da frutto</E
+M>artificiali</E
+M>piante erbacee da grande c</E
+M>da pieno campo</E
+M>piante da piccola c</E
+M>acquosa</E
+M>idrocoltura</E
+M>la grandine ha recato notevoli danni alle colture</E
+M>la c</E
+M>dei bachi da seta</E
+M>delle api</E
+M>batterica</E
+M>dei tessuti</E
+M>in vitro</E
+M>cultura</E
+M>l’importanza dell’opera</E
+M>Convivio</E
+M>per la storia della coltura</E
+M>in questo</E

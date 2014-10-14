@@ -1,0 +1,103 @@
+contrario.txt
+"al contrario"
+"al contrario"
+"al contrario"
+"al contrario"
+"al contrario"
+"al contrario"
+"al contrario"
+"assolutamente contrario"
+"Bastian contrario"
+"contrario"
+"contrario"
+"contrario"
+"contrario"
+"contrario a"
+"contrario a"
+"contrario a"
+"contrario a qualcosa"
+"contrario alla guerra"
+"contrario di"
+"effetto contrario"
+"essere contrario"
+"essere contrario a"
+"il contrario"
+"in caso contrario"
+"l'esatto contrario"
+"l'esatto contrario"
+"niente in contrario"
+"piuttosto il contrario"
+"proprio il contrario"
+"tutto e il contrario di tutto"
+"vento contrario"
+"vento contrario"
+"voto contrario"
+#*''Sono contrario a questa [[decisione]]''
+#* ''Fare l'esatto contrario''
+*[[avverso]],  [[contrapposto]],  [[inverso]], [[opposto]]
+*[[concorde]],  [[favorevole]]
+*[[contrariamente]], [[a contrario]]
+M>contrarius</E
+M>contra</E
+M>opinioni</E
+M>qualità</E
+M>idee c</E
+M>io sono di parere c</E
+M>questo atto sarebbe c</E
+M>alla mia natura</E
+M>ogni colore si conosce meglio nel suo c</E
+M>che nel suo simile</E
+M>numeri c</E
+M>proposizione c</E
+M>ipotesi</E
+M>tesi</E
+M>moto c</E
+M>movimento c</E
+M>direzione c</E
+M>a quella giusta</E
+M>venti c</E
+M>alla navigazione</E
+M>la sorte mi è stata c</E
+M>la mamma è c</E
+M>alla partenza</E
+M>ad affrettare</E
+M>a rinviare la partenza</E
+M>affrontare un viaggio nella stagione c</E
+M>la votazione s’è chiusa con quindici voti favorevoli e sette c</E
+M>il governo è c</E
+M>a concedere nuovi aumenti</E
+M>il caffè è c</E
+M>ai malati di nervi</E
+M>accadde tutto il c</E
+M>fa proprio il c</E
+M>di quello che dice</E
+M>quei due fratelli sono l’uno il c</E
+M>dell’altro</E
+M>argomentazione dei c</E
+M>ragionamento</E
+M>a contrario</E
+M>al c</E
+M>per c</E
+M>credevo che sarebbe venuto</E
+M>al c</E
+M>non s’ è fatto vivo</E
+M>uno è ottimista</E
+M>l’altro per c</E
+M>vede tutto nero</E
+M>andare</E
+M>riuscire al c</E
+M>in c</E
+M>tutto mi va al c</E
+M>all’incontrario</E
+M>al c</E
+M>al c</E
+M>di quanto pensavo</E
+M>avere qualcosa in c</E
+M>non avere nulla in c</E
+M>ci sono dei motivi in c</E
+M>contrariamente a quanto credevo è andato tutto bene</E
+M>contrariamente a quanto era previsto</E
+M>non siamo partiti</E
+M>se faccio in tempo</E
+M>ti vengo a trovare; contrariamente</E
+M>ti telefono</E

@@ -1,0 +1,31 @@
+favorevole.txt
+"condizione favorevole"
+"essere favorevole a"
+"favorevole"
+"favorevole"
+"favorevole"
+"favorevole a"
+"parere favorevole"
+"più favorevole"
+"trovarsi in una posizione favorevole"
+"voto favorevole"
+"voto favorevole"
+* [[adatto]], [[conveniente]], [[vantaggioso]]
+* [[sfavorevole]],  [[avverso]],  [[contrario]]
+M>sentenza</E
+M>giudizio</E
+M>opinione</E
+M>voto f</E
+M>vento</E
+M>tempo f</E
+M>alla navigazione</E
+M>essere f</E
+M>a una iniziativa</E
+M>avere f</E
+M>una persona ai proprî disegni</E
+M>momento f</E
+M>circostanze favorevoli</E
+M>lettere f</E
+M>ricevuta ser Ciappelletto la procura e le lettere f</E
+M>del re</E
+M>accogliere favorevolmente una richiesta</E

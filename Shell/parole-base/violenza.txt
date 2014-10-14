@@ -1,0 +1,124 @@
+violenza.txt
+"atto di violenza"
+"atto di violenza; omicidio; assassinio"
+"colpire con violenza"
+"commettere violenza su"
+"intriso di violenza"
+"invito alla non-violenza"
+"non violenza"
+"ricorrere alla violenza"
+"ricorso alla violenza"
+"scuotere con violenza"
+"usare violenza"
+"violenza"
+"violenza"
+"violenza"
+"violenza domestica"
+"violenza domestica contro le donne"
+"violenza gratuita"
+"violenza sessuale"
+#* la 
+#* la 
+*''(l'essere violento)'' [[prepotenza]], [[brutalità]], [[aggressività]], [[furia]]
+*''(l'essere violento)''  [[mitezza]], [[bonarietà]], [[dolcezza]] 
+*''(azione violenta)'' [[prepotenza]], [[sopraffazione]], [[angheria]], [[vessazione]], [[prevaricazione]], [[sopruso]], [[crudeltà]], [[brutalità]] 
+*''(di un temporale, di un impulso ecc.)'' [[impeto]], [[furia]], [[energia]], [[irruenza]], [[virulenza]]
+*[[violento]], [[violare]], [[violentare]]
+M>violentia</E
+M>violentus</E
+M>un uomo rozzo e volgare</E
+M> noto per la sua v.</E
+M>per la v. del suo carattere</E
+M>temperamento</E
+M>era incapace di dominare</E
+M>controllare</E
+M>frenare</E
+M>la v. della sua indole.</E
+M>reprimere la v. degli istinti</E
+M>della passione</E
+M>sfogare</E
+M>contenere la v. dell’ira.</E
+M>ottenere</E
+M>carpire</E
+M>costringere con la v.</E
+M>ricorrere</E
+M>fare ricorso</E
+M>alla v.</E
+M>farsi consegnare il denaro con la v.</E
+M>atto di violenza</E
+M>violenza</E
+M>porre fine alle v. di un mafioso</E
+M>essere sottoposto a continue v.</E
+M>la v. della folla</E
+M>delle masse</E
+M>lo scatenarsi della v. popolare</E
+M>fare</E
+M>usare v. a qualcuno</E
+M>subire</E
+M>patire v.</E
+M>ribellarsi alla v.</E
+M>fare</E
+M>usare</E
+M>v. a una donna</E
+M>a un ragazzo</E
+M>v. fisica</E
+M>v. privata</E
+M>v. sessuale</E
+M>v. morale</E
+M>v. psichica</E
+M>v. assoluta</E
+M>Par.</E
+M>vïolenza è quando quel che pate Nïente conferisce a quel che sforza ... Voglia assoluta non consente al danno; Ma consentevi in tanto in quanto teme</E
+M> Se si ritrae</E
+M> cadere in più affanno</E
+M>fare dolce v.</E
+M>farsi violenza</E
+M>si fece v. per ascoltarlo pazientemente sino alla fine</E
+M>mi sono fatto v. per non gridare</E
+M>per non schiaffeggiarlo</E
+M>fare v. a un testo</E
+M>a un articolo di legge</E
+M>assistere al diffondersi della v.</E
+M>degli episodî di v.</E
+M>porre un argine al dilagare della v.</E
+M>all’escalation della v.</E
+M>le radici della v.</E
+M>la spiegazione</E
+M>la giustificazione</E
+M>la condanna</E
+M>l’esecrazione della v.</E
+M>v. politica</E
+M>la teorizzazione della v. come lotta politica</E
+M>la strategia della violenza.</E
+M>non violenza</E
+M>nonviolenza</E
+M>la dottrina della non v. di Gandhi nella lotta per l’indipendenza dell’India</E
+M>la non v. come fondamento dell’azione di M. Luther King</E
+M>i gruppi radicali</E
+M>i movimenti cattolici della non violenza.</E
+M>atti di violenza</E
+M>v. bellica</E
+M>v. politica</E
+M>la v. del colpo lo tramortì</E
+M>colpire</E
+M>percuotere</E
+M>urtare con v.</E
+M>sbatté con v. la porta</E
+M>con violenza</E
+M>perse il controllo della macchina e andò a sbattere con v. contro un albero</E
+M>le ondate s’infrangevano con v. sugli scogli</E
+M>la v. dell’assalto nemico travolse ogni resistenza</E
+M>fu un combattimento</E
+M>uno scontro verbale</E
+M>di estrema v.</E
+M>la v. di un’invettiva</E
+M>di una stroncatura</E
+M>la v. della febbre lo faceva delirare</E
+M>calmare la v. della tosse</E
+M>essere allarmati per la v. dell’epidemia</E
+M>la v. del temporale</E
+M>del terremoto</E
+M>la v. della piena travolgeva ogni cosa</E
+M>un nubifragio di eccezionale v. si è abbattuto sulla zona</E
+M>l’incendio divampò con v.</E
+M>la v. dello scoppio ha mandato in frantumi i vetri.</E

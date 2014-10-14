@@ -1,0 +1,16 @@
+sorte.txt
+"buona e cattiva sorte"
+"buona sorte"
+"buona sorte"
+"il tirare a sorte"
+"nella buona e nella cattiva sorte"
+"per cattiva sorte"
+"sorte"
+"sorte"
+"sorte"
+"tentare la sorte, tentare la fortuna"
+"tirare a sorte"
+"tirare a sorte"
+"tirare a sorte"
+*[[fato]],[[destino]], [[caso]], [[esito]]
+*[[consorte]]

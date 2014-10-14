@@ -1,0 +1,18 @@
+guinzaglio.txt
+"al guinzaglio"
+"al guinzaglio"
+"guinzaglio"
+"guinzaglio retrattile"
+"legare al guinzaglio"
+"mettere al guinzaglio"
+"mettere il guinzaglio"
+*italiano
+*inglese
+M>wintseil</E
+M>mettere il g</E
+M>al cane</E
+M>legare il cane col g</E
+M>condurre il cane al guinzaglio</E
+M>tenere qualcuno al g</E
+M>stare al g</E
+M>farsi condurre al g</E

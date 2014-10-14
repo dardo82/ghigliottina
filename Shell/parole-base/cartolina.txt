@@ -1,0 +1,19 @@
+cartolina.txt
+"cartolina"
+"cartolina con risposta pagata"
+"cartolina illustrata"
+"cartolina postale"
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 361
+m>chart</e
+m>charta</e
+m>postale</e
+m>c. illustrata</e
+m>fotografie in formato cartolina</e
+m>&times;</e
+m>vaglia</e
+m>vaglia</e
+m>in franchigia</e
+m>precetto</e
+m>rosa</e
+m>del pubblico</e
+m>Domenica del Corriere</e

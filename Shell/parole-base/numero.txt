@@ -1,0 +1,353 @@
+numero.txt
+"(numero) cardinale"
+"ad alto numero di ottani"
+"avere il tuo numero"
+"di numero arretrato"
+"essere in gran numero"
+"fare, comporre un numero"
+"gran numero"
+"gran quantità di qcs, gran numero di qcs"
+"il maggior numero possibile"
+"il numero più grande di"
+"il più grande numero"
+"immenso numero"
+"in gran numero"
+"in gran numero"
+"lasciare il numero di telefono"
+"numero"
+"numero"
+"numero"
+"numero"
+"numero 15 (quindici)"
+"numero 50 (cinquanta)"
+"numero algebrico"
+"numero arabo"
+"numero atomico"
+"numero barionico"
+"numero binario"
+"numero cardinale"
+"numero chiuso"
+"numero civico"
+"numero complesso"
+"numero considerevole"
+"numero considerevole"
+"numero d'autore"
+"numero d'oro"
+"numero dei morti; campana funebre"
+"numero di classe"
+"numero di collocazione"
+"numero di commessa"
+"numero di coordinazione"
+"numero di cromosomi"
+"numero di fili"
+"numero di identificazione, numero di matricola, numero progressivo"
+"numero di Mach"
+"numero di magia"
+"numero di massa"
+"numero di matricola"
+"numero di ore all'indietro rispetto al meridiano di Greenwich"
+"numero di ossidazione"
+"numero di ottani"
+"numero di partita iva"
+"numero di persone"
+"numero di pratica"
+"numero di quanto"
+"numero di scarpe"
+"numero di serie"
+"numero di spettatori"
+"numero di targa"
+"numero di telefono"
+"numero di, elenco di, gamma di"
+"numero digitale"
+"numero dispari"
+"numero due"
+"numero e, costante e"
+"numero eccessivo"
+"numero enorme di, numero immenso di"
+"numero f"
+"numero f (foto)"
+"numero finito"
+"numero immaginario"
+"numero indice"
+"numero intero"
+"numero intero"
+"numero irrazionale"
+"numero legale"
+"numero leptonico"
+"numero limitato"
+"numero magico"
+"numero minimo di partecipanti"
+"numero n"
+"numero naturale"
+"numero ordinale"
+"numero ordinale"
+"numero ordinale"
+"numero pari"
+"numero perfetto"
+"numero plurale"
+"numero primo"
+"numero primo"
+"numero quattordici"
+"numero razionale"
+"numero reale"
+"numero reale"
+"numero romano"
+"numero sbagliato"
+"numero telefonico"
+"numero unico"
+"numero unico"
+"numero uno"
+"numero uno"
+"numero verde"
+*[[cifra]], [[contrassegno numerico]], [[matricola]]
+*'' (di persona)''[[buffone]], [[pagliaccio]]
+*''(di abito, scarpe, eccetera)'' [[taglia]], [[misura]]
+*''(di spettacolo, varietà)'' [[attrazione]], [[scenetta]], [[sketch]], [[esibizione]], [[gag]]
+*''(di giornale, rivista, eccetera)'' [[fascicolo]], [[puntata]], [[dispensa]], [[copia]]
+*''(di capi di vestiario)''[[tagliando]], [[contrassegno]], [[talloncino]]
+*''(al  plurale)'' [[qualità]], [[titoli]]  [[dote]], [[requisito]]
+* [[innumerevole]], [[numerale]], [[numerare]], [[numerazione]], [[numerico]]
+* [[matematica]], [[novero]], [[gruppo]], [[classe]], [[schiera]]; [[cerchia]],[[giro]]
+* [[cifra]], [[numero naturale]], [[numero intero]], [[numero razionale]], [[numero irrazionale]], [[numero reale]], [[numero complesso]]
+* [[quantità]] che è il risultato del [[misurare]]
+*Enciclopedia [http
+M>num</E
+M>rus</E
+M>serie naturale dei n</E
+M>numero</E
+M>il n</E
+M>dei libri</E
+M>dei voti</E
+M>delle automobili in circolazione</E
+M>degli alunni di una scuola</E
+M>il loro n</E
+M>è di novanta</E
+M>sono in n</E
+M>arrivano al n</E
+M>superano il n</E
+M>trecento</E
+M>d’ordine</E
+M>la sua sedia è il n</E
+M>15 della terza fila</E
+M>il n</E
+M>il n</E
+M>il n</E
+M>999</E
+M>si ritiene che il n</E
+M>13 porti fortuna</E
+M>numero</E
+M>il 13 porta fortuna</E
+M>il 3 è un n</E
+M>perfetto</E
+M>naturali</E
+M>cardinali</E
+M>ordinali</E
+M>interi</E
+M>relativi</E
+M>negativi</E
+M>pari</E
+M>dispari</E
+M>primi</E
+M>primi tra loro</E
+M>perfetti</E
+M>frazionarî</E
+M>decimali</E
+M>periodico</E
+M>razionali</E
+M>irrazionali</E
+M>numero di Nepero</E
+M>reali</E
+M>immaginarî</E
+M>unità immaginaria</E
+M>complessi</E
+M>algebrici</E
+M>trascendenti</E
+M>transfiniti</E
+M>Teoria dei n</E
+M>teoria elementare dei n</E
+M>teoria analitica dei n</E
+M>legge dei grandi n</E
+M>pensare</E
+M>dire</E
+M>scrivere un n</E
+M>il n</E
+M>delle pagine è stampato sul margine alto a destra</E
+M>la data è scritta in n</E
+M>romani</E
+M>in n</E
+M>arabi</E
+M>distribuire i n</E
+M>prendere il n</E
+M>il vigile mi ha preso il n</E
+M>atomico</E
+M>di Avogadro</E
+M>di coordinazione</E
+M>barionico</E
+M>d’onde</E
+M>di massa</E
+M>di cetano</E
+M>di ottano</E
+M>d’oro</E
+M>aureo</E
+M>di Abbe</E
+M>di Reynolds</E
+M>critico di Reynolds</E
+M>quantico</E
+M>di Gödel</E
+M>gödeliano</E
+M>di Mach</E
+M>di iodio</E
+M>indice</E
+M>commerciale</E
+M>numero</E
+M>puro</E
+M>magici</E
+M>dare</E
+M>tirare su</E
+M>estrarre</E
+M>il n</E
+M>rilevare i n</E
+M>morto che parla fa 47</E
+M>la paura fa 90</E
+M>dare i n</E
+M>raggiungere</E
+M>non raggiungere</E
+M>superare il n</E
+M>legale</E
+M>il n</E
+M>dei dipendenti previsti dall’organico</E
+M>le iscrizioni sono state inferiori al n</E
+M>preventivato</E
+M>chiuso</E
+M>numerus clausus</E
+M>istituire il n</E
+M>chiuso in una facoltà universitaria</E
+M>programmato</E
+M>un buon n</E
+M>un gran n</E
+M>un piccolo n</E
+M>uno scarso n</E
+M>un n</E
+M>sterminato</E
+M>essere</E
+M>intervenire in gran n</E
+M> in n</E
+M>sufficiente</E
+M>insufficiente</E
+M>verranno in numero</E
+M>stupì vedendo il n</E
+M>degli intervenuti</E
+M>non prevedevo un n</E
+M>tale di richieste</E
+M>fare assegnamento sul n</E
+M>delle bocche da fuoco</E
+M>la forza del n</E
+M>Te dalla rea progenie Degli oppressor discesa</E
+M>Cui fu prodezza il numero</E
+M>Cui fu ragion l’offesa</E
+M>novero</E
+M>essere</E
+M>inserire nel n</E
+M>degli invitati</E
+M>contare qualcuno nel n</E
+M>dei proprî amici</E
+M>passare nel n</E
+M>dei più</E
+M>numerus</E
+M>Vergine saggia e del bel numero una De le beate vergini prudenti</E
+M>numeri d’acqua</E
+M>di bordo</E
+M>civico</E
+M>stanza</E
+M>camera n</E
+M>223</E
+M>100</E
+M>d’interno</E
+M>scala A</E
+M>interno 7</E
+M>del telefono</E
+M>formare</E
+M>chiamare il n</E
+M>02334567</E
+M>sbagliare n</E
+M>trovare il n</E
+M>occupato</E
+M>numero</E
+M>mi passa</E
+M>per favore</E
+M>il 327?</E
+M>n. verde</E
+M>di matricola</E
+M>d’inventario</E
+M>di protocollo</E
+M>di catalogo</E
+M>di posizione</E
+M>d’ingresso</E
+M>di codice di avviamento postale</E
+M>di codice fiscale</E
+M>di targa</E
+M>di scarpe porto il n</E
+M>questa camicia mi è stretta di collo</E
+M>mi dia il n</E
+M>superiore</E
+M>titolo</E
+M>l’articolo è uscito nel n</E
+M>del</E
+M>0 giugno</E
+M>un n</E
+M>arretrato</E
+M>il seguito al prossimo n</E
+M>la rivista è morta dopo solo quattro n</E
+M>unico</E
+M>zero</E
+M>è un bel n</E
+M>è un n</E
+M>che riscuote successo</E
+M>hanno deciso di far numero insieme</E
+M>anche oggi hai fatto il tuo n.!</E
+M>quel tuo amico è proprio un numero!</E
+M>di numero</E
+M>ne accetterò uno di n</E
+M>due di n</E
+M>uno</E
+M>due</E
+M>in numero</E
+M>senza numero</E
+M>ho avuto noie senza n</E
+M>sopra numero</E
+M>fare numero</E
+M>è venuto solo per fare n</E
+M>uno</E
+M>ci hanno offerto un pranzo n</E
+M>uno</E
+M>nemico pubblico n</E
+M>uno</E
+M>nel suo campo è il n</E
+M>uno</E
+M>è un imbecille n</E
+M>uno</E
+M>avere tutti i n</E
+M>un giovane che ha dei n</E
+M>un atleta</E
+M>un cavallo che ha molti</E
+M>pochi</E
+M>singolare</E
+M>del meno</E
+M>fabbro</E
+M>cavallo</E
+M> martello</E
+M>scrivo</E
+M>leggi</E
+M>correva</E
+M>plurale</E
+M>del più</E
+M>fabbri</E
+M>cavalli</E
+M>martelli</E
+M>scriviamo</E
+M>leggete</E
+M>correvano</E
+M>duale</E
+M>oratorio</E
+M>numerus</E
+M>cola</E

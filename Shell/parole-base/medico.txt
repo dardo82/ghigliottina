@@ -1,0 +1,43 @@
+medico.txt
+"assistente medico"
+"caso medico"
+"centro medico"
+"centro medico"
+"certificato medico"
+"esame medico"
+"esame medico"
+"esame medico generale"
+"esaminatore medico"
+"medico"
+"medico"
+"medico"
+"medico che fa le visite spostandosi in aereo o in elicottero"
+"medico del lavoro"
+"medico di base"
+"medico di campagna"
+"medico di famiglia"
+"medico di fiducia"
+"medico di servizio in un hotel o simile istituto"
+"medico di turno"
+"medico fiscale"
+"medico generico"
+"medico interno"
+"medico legale"
+"medico legale"
+"medico praticante"
+"medico tirocinante"
+"personale medico"
+"presidio medico chirurgico"
+"proprio quello che ha ordinato il medico"
+"referto medico"
+"strumento medico"
+"una mela al giorno toglie il medico di torno"
+"uno studio medico"
+#*''per giustificare la tua prolungata assenza mi servirebbe un certificato medico''
+#*''quel medico è bravissimo''
+#*'' Ti sei fatta male. Aspetta che ti 
+*[[sanitario]]; [[clinico]]
+*[[curativo]], [[terapeutico]], [[medicinale]]
+*[[dottore]], [[sanitario]], [[specialista]]
+*[[paramedico]], [[medicabile]], [[medicamento]], [[medicazione]], [[biomedico]], [[medicastro]]
+*Devoto/Oli, ''il dizionario della lingua cartacea'', edizione cartacea 2000-2001, Le Monnier, p. 1241

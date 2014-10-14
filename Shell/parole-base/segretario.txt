@@ -1,0 +1,71 @@
+segretario.txt
+"segretario"
+"segretario"
+"segretario"
+"segretario"
+"segretario comunale"
+"segretario del tesoro"
+"segretario di seggio"
+"segretario di stato"
+"segretario elettronico personale"
+"segretario esecutivo"
+"segretario generale"
+"segretario generale delle Nazioni Unite"
+"segretario nazionale"
+"segretario parlamentare"
+*(di dirigente, professionista, autorità) [[assistente]], [[collaboratore]], [[aiutante]], persona di fiducia, [[factotum]]
+*(in enti pubblici o privati) [[impiegato]], [[funzionario]]
+*(di verbali, e resoconti in riunioni, assemblee) [[redattore]], [[estensore]]
+* (di organo pubblico, partito) [[responsabile]], [[dirigente]], [[capo]], [[leader]], [[guida]]
+*(di redazione, di edizione, di produzione) [[assistente]], [[organizzatore]], [[amministratore]], [[coordinatore]]
+*(di partito) [[capo]], [[responsabile]] 
+*[[segretariale]], [[segretariato]], [[segretariesco]], [[sottosegretario]]
+M>secretarius</E
+M>secretum</E
+M>il S. fiorentino</E
+M>il s. del direttore</E
+M>il s. particolare del ministro</E
+M>il s. privato del presidente della Repubblica</E
+M>fare da s. a qualcuno</E
+M>ho fatto da s. a mio padre per tutto il pomeriggio!</E
+M>S. galante</E
+M>s. comunale</E
+M>s. provinciale</E
+M>s. giudiziario</E
+M>s. del Senato</E
+M>della Camera</E
+M>s. d&#8217;ambasciata</E
+M>s. di legazione</E
+M>primo s.</E
+M>s. di prima</E
+M>seconda</E
+M>terza classe</E
+M>vice-s.</E
+M>s. d&#8217;azienda</E
+M>s. di redazione</E
+M>s. di edizione</E
+M>s. di scena</E
+M>s. di produzione</E
+M>il s. della riunione di condominio</E
+M>il s. del comitato</E
+M>il s. della commissione esaminatrice</E
+M>della giuria</E
+M>del collegio dei docenti</E
+M>il s. dell&#8217;assemblea degli azionisti</E
+M>il s. generale dell&#8217;ONU</E
+M>il s. apostolico</E
+M>il s. delle lettere latine</E
+M>il s. dei brevi ai principi</E
+M>s. politico</E
+M>segretario</E
+M>il s. del Partito Democratico</E
+M>di Alleanza Nazionale</E
+M>s. di stato</E
+M>la sua</E
+M>sposa e secretaria Santa Ecclesia</E
+M>la cagion nullo sapea</E
+M> se non certi segretari</E
+M>erano poche cose che ... facesse</E
+M> ... che egli non me le mandasse a dire</E
+M> perché mi trovava così buon segretario</E
+M>serpentario</E

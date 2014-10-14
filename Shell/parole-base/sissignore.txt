@@ -1,0 +1,16 @@
+sissignore.txt
+"Traduzione di sissignore/ non trovata.\nNo translation was found for sissignore/."
+M>&#171;È tutto pronto?&#187; &#171;Sissignore&#187;</E
+M> ho capito perfettamente</E
+M>signore</E
+M>sissignori</E
+M>sissignora</E
+M>sissignore</E
+M>signore</E
+M> signor direttore</E
+M> signori miei</E
+M> è proprio così</E
+M>sissignore</E
+M> sarai servito senz&#8217;altro!</E
+M>sissignora</E
+M> questo è un compito che spetta proprio a lei!</E

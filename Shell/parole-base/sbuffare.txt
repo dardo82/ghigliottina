@@ -1,0 +1,22 @@
+sbuffare.txt
+"sbuffare"
+"sbuffare"
+#*''«Muoviti, scansafatiche» gli dissi, ma lui '''sbuffò''', senza minimamente aumentare il ritmo.''
+#*''La locomotiva partì '''sbuffando'''.''
+M>buffare</E
+M>avere</E
+M>arrivò sbuffando in cima alla salita</E
+M>non la finiva più di parlare</E
+M> e tutti cominciavano a sbuffare</E
+M> e va e viene</E
+M> e gira</E
+M> e ride</E
+M> rovesciando la testa indietro</E
+M> e sbuffa</E
+M> e grida</E
+M>il treno andava via sbuffando e rumoreggiando</E
+M>s. il fumo della pipa</E
+M>non sbuffarmi il fumo negli occhi!</E
+M>la locomotiva sbuffava un fumo denso e scuro.</E
+M>si fermò sbuffante per lo sforzo</E
+M>il treno arrivò sbuffante in stazione.</E

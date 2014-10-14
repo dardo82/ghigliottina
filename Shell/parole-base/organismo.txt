@@ -1,0 +1,29 @@
+organismo.txt
+"organismo"
+"organismo"
+"organismo di certificazione"
+"organismo di controllo"
+"organismo unicellulare"
+*essere vivente, [[animale]], [[vegetale]], corpo umano
+*[[organizzazione]], [[istituzione]], [[sistema]], [[ente]], [[struttura]], [[complesso]]
+*[[microrganismo]], [[microorganismo]]
+M>organo</E
+M>organism</E
+M>organisme</E
+M>umano</E
+M>animali</E
+M>vegetali</E
+M>unicellulari</E
+M>pluricellulari.</E
+M>un o</E
+M>sano</E
+M>robusto</E
+M>malato</E
+M>la resistenza dell’o</E
+M>fatiche che logorano</E
+M>che minano l’organismo</E
+M>architettonico</E
+M>statale</E
+M>politico</E
+M>l’o</E
+M>burocratico dello stato</E

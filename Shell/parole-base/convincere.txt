@@ -1,0 +1,39 @@
+convincere.txt
+"convincere"
+"convincere qualcuno a fare qualcosa"
+*[[indurre]]
+*[[persuadere]]
+*[[dissuadere]]
+*[[convincersi]]
+M>convinc</E
+M>con</E
+M>vinc</E
+M>vincere</E
+M>l’ho convinto del suo errore</E
+M>mi convinse che non c’era altra soluzione</E
+M>uno dell’esistenza di Dio</E
+M>i giudici della propria innocenza</E
+M>di essere innocente</E
+M>lo convinsi a tacere</E
+M>a seguirmi</E
+M>a tentare l’esperimento</E
+M>fatti</E
+M>argomenti</E
+M> prove che convincono</E
+M>fu convinto dalla forza del mio ragionamento</E
+M>convincersi</E
+M>si convinse che avevo ragione io</E
+M>devi convincerti che le cose stanno proprio così</E
+M>convincersi da sé</E
+M>coi proprî occhi</E
+M>essere</E
+M>restare convinto di una cosa</E
+M>sembrare convinto</E
+M>sarà come tu dici</E
+M>ma non ne sono affatto convinto</E
+M>uno di frode</E
+M>di malafede</E
+M>di un reato</E
+M>fu convinto di eresia</E
+M>reo convinto</E
+M>reo confesso</E

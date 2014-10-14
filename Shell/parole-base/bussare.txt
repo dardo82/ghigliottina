@@ -1,0 +1,14 @@
+bussare.txt
+"bussare"
+"bussare a quattrini"
+"bussare su qcs, colpire qcs"
+M>avere</E
+M>chi è che bussa al portone a quest’ora?</E
+M>hanno bussato</E
+M>va’ a vedere chi è</E
+M>bussate e vi sarà aperto</E
+M>busso</E
+M>a spade</E
+M>a bastoni</E
+M>a quattrini</E
+M>a denari</E

@@ -1,0 +1,308 @@
+corpo.txt
+"a temperatura del corpo"
+"andare di corpo"
+"anima e corpo"
+"asse del corpo"
+"ben dotato, con un bel corpo"
+"ben fatto, con un bel corpo"
+"bullo impiegato come guardia del corpo"
+"centrato sul corpo"
+"combattere corpo a corpo"
+"corpo"
+"corpo"
+"corpo"
+"corpo"
+"corpo a corpo"
+"corpo astrale"
+"corpo celeste"
+"corpo celeste"
+"corpo celeste"
+"corpo cellulare"
+"corpo centrale"
+"corpo ciliare"
+"corpo contundente"
+"corpo d'armata"
+"corpo degli interni di un ospedale"
+"corpo dei marines"
+"corpo dei vigili del fuoco"
+"corpo del reato"
+"corpo deliberativo"
+"corpo della legge"
+"corpo della valvola"
+"corpo di ballo"
+"corpo di cadetti"
+"corpo di Cristo"
+"corpo di guardia"
+"corpo diciotto"
+"corpo diplomatico"
+"corpo dirigente"
+"corpo docente"
+"corpo docente"
+"corpo docente"
+"corpo e sangue di Cristo"
+"corpo estraneo"
+"corpo eterico"
+"corpo fisico"
+"corpo fruttifero"
+"corpo grigio"
+"corpo insegnante"
+"corpo insegnante di un college"
+"corpo libero"
+"corpo luteo"
+"corpo materiale"
+"corpo militare"
+"corpo morto"
+"corpo nero"
+"corpo perfetto"
+"corpo portante"
+"corpo principale"
+"corpo provocante"
+"corpo rigido"
+"corpo sano"
+"corpo scelto"
+"corpo solido"
+"corpo sottile"
+"corpo umano"
+"corpo umano"
+"corpo umano"
+"corpo umano"
+"corpo-mente"
+"dolori al corpo"
+"generale di corpo d'armata"
+"guardia del corpo"
+"guardia del corpo"
+"guardia del corpo"
+"immagine mentale del proprio corpo"
+"lavoro a corpo"
+"linguaggio del corpo"
+"linguaggio del corpo"
+"lotta corpo a corpo"
+"mente corpo"
+"mente\/corpo"
+"prendere corpo"
+"prezzo a corpo"
+"problema mente corpo"
+"regola che limita o conclude il dibattimento in un corpo deliberativo"
+"senza corpo"
+"spirito di corpo"
+"struttura del corpo"
+"struttura del corpo"
+"temperatura del corpo nero"
+"terapia del corpo"
+#*''Un '''corpo''' che scivola è ostacolato dalla forza d'attrito''
+#*''Una branca della biologia studia il '''corpo''' umano''
+#*''I pompieri hanno estratto i '''corpi''' dalle materie''
+#*''S'intravede il '''corpo''' del castello''
+*[[corporatura]], costituzione, [[fisico]], [[struttura]], [[aspetto]], [[personale]], [[figura]], [[persona]]; [[salma]], [[cadavere]], [[spoglie]]
+*''(di persona o animale)'' [[tronco]], [[pancia]], basso ventre
+*''(di edificio, struttura)'' [[mole]], [[sagoma]]
+*''(di persone)'' [[categoria]], [[ordine]], [[classe]], [[corporazione]], [[collegio]]
+*''(di oggetti, beni)'' [[collezione]], [[raccolta]], [[complesso]], [[totalità]]
+*''(di opere)'' [[corpus]], [[summa]]
+*ente astratto
+*[[anima]], [[spirito]]
+*[[anticorpo]]
+*[[corpo celeste]],[[corpo del reato]],[[prendere corpo]], [[guardia del corpo]], [[corpo a corpo]]
+*''a corpo morto''
+*italiano
+M>rpus</E
+M>rigido</E
+M>elastico</E
+M>deformabile</E
+M>gassoso</E
+M>amorfo</E
+M>grigio</E
+M>nero</E
+M>celesti</E
+M>astrale</E
+M>colpire con un c</E
+M>pesante</E
+M>con un c</E
+M>contundente</E
+M>del reato</E
+M>estraneo</E
+M>figurati</E
+M>acetonici</E
+M>chetonici</E
+M>di Bence-Jones</E
+M>dello sfenoide</E
+M>del mascellare</E
+M>calloso</E
+M>striato</E
+M>cavernosi</E
+M>genicolati</E
+M>luteo</E
+M>mammillare</E
+M>pineale</E
+M>vitreo</E
+M>grassi</E
+M>centrale</E
+M>clorofilliano</E
+M>cloroplasto</E
+M>corticale</E
+M>eustelici</E
+M>legnoso</E
+M>fruttifero</E
+M>ricettacolo</E
+M>morto</E
+M>ancoressa</E
+M>prendere</E
+M>lasciare il c</E
+M>morto</E
+M>dare c</E
+M>prendere c</E
+M>dare c</E
+M>alle ombre</E
+M>dare c</E
+M>a un’accusa</E
+M>pigliare c</E
+M>prendere c</E
+M>avere c</E
+M>carta</E
+M>vino</E
+M>tinta che ha poco c</E
+M>avere un bel c</E
+M>di voce</E
+M>Pittura a c</E
+M>il c</E
+M>umano</E
+M>il c</E
+M>animale</E
+M>avere cura del c</E
+M>pensare alla salute del c</E
+M>avere dei brividi per tutto il c</E
+M>l’agile c</E
+M>della pantera</E
+M>i piaceri del c</E
+M>e dello spirito</E
+M>la resurrezione dei corpi</E
+M>finché avrò fiato in c</E
+M>non sa tenere un segreto in c</E
+M>avere il diavolo in c</E
+M>avere qualcosa in c</E
+M>avevo bisogno di sfogarmi e gli ho raccontato tutto quello che avevo in c</E
+M>non so quello che gli avrei fatto</E
+M>con la rabbia che avevo in corpo</E
+M>a corpo a corpo</E
+M>lottare</E
+M>combattere a c</E
+M>a c</E
+M>un corpo a corpo</E
+M>entrare in un c. a c.</E
+M>a c</E
+M>morto</E
+M>gli si buttò addosso a c</E
+M>morto</E
+M>mettersi a studiare a c</E
+M>morto</E
+M>darsi anima e c</E
+M>a qualcuno</E
+M>a qualcosa</E
+M>gettarsi anima e c</E
+M>in una impresa</E
+M>ricacciare in c</E
+M>in gola</E
+M>un’offesa</E
+M>un’impertinenza</E
+M>avere un c</E
+M>atletico</E
+M>gracile</E
+M>donna che ha un bel corpo</E
+M>di Bacco!</E
+M>del diavolo!</E
+M>di mille bombe!</E
+M>il c</E
+M>fu gettato nella fossa comune</E
+M>Lo c. mio gelato in su la foce Trovò l’Archian rubesto</E
+M>il c</E
+M>del Santo è conservato nella cripta</E
+M>Corpi santi</E
+M>dolori di c</E
+M>a c</E
+M>pieno</E
+M>a c</E
+M>vuoto</E
+M>mettersi in c</E
+M>s’è messo in c</E
+M>mezza zuppiera di fagioli</E
+M>mi son dovuto mettere in c</E
+M>cinquanta pagine di storia</E
+M>cibo</E
+M>bevanda che scioglie il c</E
+M>andare di c</E
+M>anima</E
+M>Corpo mistico di Cristo</E
+M>corpo mistico</E
+M>corpus</E
+M>il c</E
+M>di un edificio</E
+M>di una bottiglia</E
+M>di un vaso</E
+M>di un violino</E
+M>di una tromba</E
+M>di una macchina fotografica</E
+M>il prezzo della fotocamera solo c. è di 300 euro</E
+M>sede</E
+M>stradale</E
+M>di una nave</E
+M>perdere corpo e beni</E
+M>di un discorso</E
+M>di uno scritto</E
+M>di una lettera</E
+M>fare corpo</E
+M>le muraglie</E
+M>fanno pelo e c</E
+M>qua e là</E
+M>di case</E
+M>di beni</E
+M>di fabbrica</E
+M>per religione s’intende un c</E
+M>di tradizioni</E
+M>di precetti</E
+M>di riti</E
+M>Corpi santi</E
+M>far corpo</E
+M>a corpo</E
+M>in corpo</E
+M>nolo a corpo</E
+M>vendita a corpo</E
+M>tibulliano</E
+M>delle iscrizioni latine</E
+M>di diritto civile</E
+M>corpus</E
+M>di ballo</E
+M>insegnante</E
+M>accademico</E
+M>consolare</E
+M>diplomatico</E
+M>elettorale</E
+M>delle Arti</E
+M>ragunaronsi i c</E
+M>delle Arti</E
+M>e ciascuna fece un sindaco</E
+M>andare</E
+M>recarsi</E
+M>presentarsi in corpo</E
+M>deliberante</E
+M>giudicante</E
+M>morale</E
+M>persona giuridica</E
+M>dei bersaglieri</E
+M>del genio aeronautico</E
+M>corpo equipaggi militari marittimi</E
+M>corpo d’armata</E
+M>corps d’armée</E
+M>rientrare al c</E
+M>spirito di c</E
+M>armato</E
+M>Corpo di guardia</E
+M>ternario</E
+M>forza di corpo</E
+M>corpo</E
+M>fusto</E
+M>occhio</E
+M>ordinare una serie di caratteri di c</E
+M>comporre il testo in c. 9 e le note in c. 7; un c</E
+M>troppo piccolo</E
+M>scarsamente leggibile</E
+M>passare da c. 7 a c. 10</E

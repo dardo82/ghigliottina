@@ -1,0 +1,63 @@
+qualifica.txt
+"assegnare una qualifica"
+"essere superiore nella qualifica"
+"qualifica"
+"qualifica"
+"qualifica"
+"qualification, degree, title"
+"stabilire la qualifica"
+*[[attribuzione]], [[considerazione]], [[giudizio]]
+* ''(di professionista)'' [[grado]], [[posizione]], [[livello]], [[ruolo]], [[carica]]
+*[[nome]], [[appellativo]], [[definizione]], [[denominazione]]
+* titolo professionale, [[specializzazione]], [[qualificazione]]
+*[[specie]], [[caratteristica]], [[varietà]], [[dote]], [[disposizione]], [[pregio]], [[merito]]
+M>dare a qualcuno la q</E
+M>di intelligente</E
+M>di onesto</E
+M>di coraggioso</E
+M>di imbecille</E
+M>di mascalzone</E
+M>di vigliacco</E
+M>«un po’ leggera»</E
+M>per quella donna</E
+M>è una q</E
+M>eufemistica e benevola</E
+M>è un riformista</E
+M>non merita proprio la q</E
+M>di rivoluzionario!</E
+M>grammaticale</E
+M>l’immortalità è una q</E
+M>della divinità</E
+M>Nota di qualifica</E
+M>qualifica</E
+M>rapporto informativo</E
+M>redigere la nota di q</E
+M>di un dipendente</E
+M>dare</E
+M>riportare la q</E
+M>di ottimo</E
+M>di buono</E
+M>di sufficiente</E
+M>note di q</E
+M>la q</E
+M>di dottore</E
+M>di avvocato</E
+M>di geometra</E
+M>di perito</E
+M>di capoufficio</E
+M>vantare una q</E
+M>nobiliare</E
+M>la q</E
+M>di nobil uomo</E
+M>Diploma di qualifica</E
+M>sezioni di q</E
+M>assumere</E
+M>essere assunto con la q</E
+M>di funzionario</E
+M>di impiegato d’ordine</E
+M>di tecnico</E
+M>di operaio</E
+M>di manovale</E
+M>diritto alla q</E
+M>funzionale</E
+M>di precedenza</E

@@ -1,0 +1,137 @@
+operazione.txt
+"operazione"
+"operazione"
+"operazione"
+"operazione"
+"operazione a premi"
+"operazione al cervello"
+"operazione binaria"
+"operazione chirurgica"
+"operazione chirurgica"
+"operazione combinata"
+"operazione congiunta"
+"operazione culturale"
+"operazione di emergenza"
+"operazione dispositiva"
+"operazione immobiliare"
+"operazione logica"
+"operazione militare"
+"operazione parallela"
+"operazione unitaria"
+*[[azione]], [[atto]], [[lavoro]]
+*[[iniziativa]], [[manovra]], [[intervento]];
+M>operatio</E
+M>onis</E
+M>operari</E
+M>le o</E
+M>del fabbro</E
+M>dell’artigiano</E
+M>il fine delle o</E
+M>umane</E
+M>cominciò lo mio spirito naturale ad essere impedito ne la sua o</E
+M>azione</E
+M>efficacia</E
+M>l’o</E
+M>della grazia sugli uomini</E
+M>l’o</E
+M>di un rimedio</E
+M>di una medicina</E
+M>un’o</E
+M>complicata</E
+M>laboriosa</E
+M>delicata</E
+M>l’o</E
+M>di estrarre un dente</E
+M>l’o</E
+M>di infilare le perle</E
+M>di incollare i frammenti di un vaso rotto</E
+M>era tutto intento all’o</E
+M>di piantare un chiodo</E
+M>di attaccarsi un bottone</E
+M>la difficile o</E
+M>di applicare un francobollo</E
+M>l’o</E
+M>di contare i soldi</E
+M>di confezionare un pacco</E
+M>di fare la punta alla matita</E
+M>di riempire la penna stilografica</E
+M>di spennare un pollo</E
+M>di sbucciare le patate</E
+M>le o</E
+M>di montaggio di un motore</E
+M>le varie o. di pulizia della casa</E
+M>per riportare la vettura sul binario fu necessaria tutta una serie di o</E
+M>preliminari</E
+M>le o</E
+M>della mente</E
+M>dell’intelletto</E
+M>dello spirito</E
+M>un’o</E
+M>di polizia</E
+M>un’o</E
+M>antimafia</E
+M>antidroga</E
+M>di rastrellamento</E
+M>finanziaria</E
+M>di banca</E
+M>bancaria</E
+M>di borsa</E
+M>l’inizio</E
+M>lo svolgimento</E
+M>l’andamento</E
+M>il termine delle o</E
+M>elettorali</E
+M>delle o</E
+M>di voto</E
+M>unitarie</E
+M>offensive</E
+M>difensive</E
+M>di occupazione</E
+M>di evacuazione</E
+M>iniziare le o</E
+M>cessare le o</E
+M>prendere parte a un’operazione</E
+M>teatro di operazioni</E
+M>zona di operazioni</E
+M>linea di operazioni</E
+M>navale</E
+M>aero</E
+M>navale</E
+M>anfibia</E
+M>combinate</E
+M>chirurgica</E
+M>operazione</E
+M>cruenta</E
+M>incruenta</E
+M>un’o</E
+M>indolore</E
+M>fare</E
+M>eseguire un’o</E
+M>sottoporsi a un’o</E
+M>subire un’o</E
+M>farsi un’o</E
+M>un’o</E
+M>facile</E
+M>ben riuscita</E
+M>allo stomaco</E
+M>al fegato</E
+M>alla trachea</E
+M>d’ernia</E
+M>d’appendicite</E
+M>operandi</E
+M>risultato dell’operazione</E
+M>aritmetiche</E
+M>o. elementari</E
+M>unarie</E
+M>binarie</E
+M>ternarie</E
+M>interne</E
+M>esterne</E
+M>di passaggio al limite</E
+M>di derivazione</E
+M>di integrazione</E
+M>problema a due</E
+M>a tre o</E
+M>con numeri interi</E
+M>con numeri decimali</E
+M>con numeri frazionarî</E

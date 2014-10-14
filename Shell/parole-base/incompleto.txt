@@ -1,0 +1,17 @@
+incompleto.txt
+"essere incompleto"
+"fatto a metà, incompleto"
+"in modo incompleto"
+"incompleto"
+*[[lacunoso]]
+*[[completo]] 
+*[[incompletezza]]
+M>incompletus</E
+M>completus</E
+M>serie i</E
+M>dati i</E
+M>opera i</E
+M>incompiuta</E
+M>sintatticamente i</E
+M>semanticamente i</E
+M>rispondere incompletamente a una domanda</E

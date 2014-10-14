@@ -1,0 +1,89 @@
+preparare.txt
+"preparare"
+"preparare"
+"preparare"
+"preparare"
+"preparare, replace: prepararsi"
+"preparare il cibo"
+"preparare il terreno"
+"preparare il terreno"
+"preparare il terreno"
+"preparare la birra"
+"preparare la birra"
+"preparare la prima colazione"
+"preparare per"
+"preparare per"
+"preparare per saldare"
+"preparare qn a (qc di spiacevole)"
+"preparare qualcuno a"
+*[[approntare]], [[organizzare]], [[predisporre]], [[allestire]], [[preordinare]], [[apprestare]] 
+*''(il pranzo, la cena) '' [[cucinare]], [[cuocere]]
+*'' (per una gara, per un'impresa)'' [[allenare]], [[addestrare]] 
+*[[prepararsi]], [[preparativo]], [[preparato]], [[preparatore]], [[preparatorio]], [[preparazione]]
+*italiano
+M>praeparare</E
+M>prae</E
+M>parare</E
+M>l&#8217;occorrente per scrivere</E
+M>gli arnesi per la pesca</E
+M>gli strumenti</E
+M>le armi</E
+M>il letto</E
+M>la stanza per l&#8217;ospite</E
+M>la tavola</E
+M>se il tempo è bello</E
+M>prepareremo in terrazzo</E
+M>il terreno per il gioco</E
+M>una pietanza</E
+M>un cocktail</E
+M>il pranzo</E
+M>la cena</E
+M>una miscela</E
+M>la malta per formare l&#8217;intonaco</E
+M>la tela</E
+M>una spedizione</E
+M>un convegno</E
+M>uno spettacolo</E
+M>una mostra</E
+M>la guerra</E
+M>una congiura</E
+M>un esame</E
+M>p. gli esami</E
+M>prepararsi per gli esami</E
+M>agli esami</E
+M>un discorso</E
+M>un saggio</E
+M>un articolo</E
+M>un abbozzo di legge</E
+M>chi sa che cosa ci prepara l&#8217;avvenire!</E
+M>prepararsi</E
+M>si prepara un temporale</E
+M>si preparano giornate difficili</E
+M>grandi eventi</E
+M>la nazione alla guerra</E
+M>gli atleti per le gare di campionato</E
+M>gli alunni agli</E
+M>per gli</E
+M>esami di maturità</E
+M>il paziente</E
+M>i giovani ad affrontare le avversità della vita</E
+M>qualcuno a una brutta notizia</E
+M>prepararsi per uscire</E
+M>prepararsi a un esame</E
+M>a un concorso</E
+M>a una gara</E
+M>per un esame</E
+M>per un concorso</E
+M>prepararsi al peggio</E
+M>si sta preparando a partire</E
+M>un discorso già preparato</E
+M>un tavolo preparato per quattro</E
+M>pianoforte preparato</E
+M>un alunno</E
+M>ben</E
+M>preparato</E
+M>un tecnico</E
+M>un funzionario</E
+M>un professionista preparato</E
+M>lo trovai preparato a tutto</E
+M>ci andò preparato</E

@@ -1,0 +1,87 @@
+firma.txt
+"all'atto della firma"
+"alla firma del contratto"
+"chiudere una lettera con la firma"
+"firma"
+"firma"
+"atto del firmare"
+"firma"
+"firma"
+"firma autenticata"
+"firma depositata"
+"firma elettronica"
+"firma per presa visione"
+"firma, autografo"
+"mettere la firma"
+"mettere una firma di ricevuta"
+"obbligo giornaliero della firma"
+"potere di firma e rappresentanza"
+"poteri di firma"
+"senza firma"
+*[[sigla]], [[sottoscrizione]], [[autografo]], [[personaggio]] 
+*nome e cognome, [[autografo]], [[segnatura]], [[sottoscrizione]]; [[sigla]], [[siglatura]]
+*[[marca]], [[marchio]], [[griffe]]
+*[[conferma]], [[approvazione]], [[ratifica]], [[convalida]]
+*[[bocciatura]]
+*''fare onore alla propria firma''
+*''Ci farei la firma!''
+M>mettere</E
+M>apporre la propria f</E
+M>cartolina con sole f</E
+M>quadro d’autore con f</E
+M>senza f</E
+M>autenticare</E
+M>legalizzare una f</E
+M>falsificare</E
+M>imitare una f</E
+M>avere una f</E
+M>chiara</E
+M>illeggibile</E
+M>raccogliere</E
+M> firme</E
+M>in bianco</E
+M>registro delle f.</E
+M>metterci</E
+M>farci</E
+M> la f.</E
+M>ci farei</E
+M> ci metterei la f.!</E
+M>buona</E
+M>cattiva f</E
+M>fare onore alla propria f</E
+M>per onor di f</E
+M>della f</E
+M>è una buona f</E
+M>una f. famosa</E
+M>le grandi f. del made in Italy</E
+M>f. spettrale</E
+M>firma</E
+M>firmaiolo</E
+M>sottoporre il decreto alla f</E
+M>del capo dello stato</E
+M>passare un atto al capoufficio per la f</E
+M>la f. di un accordo economico</E
+M> di un trattato di pace</E
+M>ditta</E
+M>firme</E
+M>firm</E
+M>Firma</E
+M>autografo di f</E
+M>autografa</E
+M>specimen di f</E
+M>libro delle f</E
+M>credito di f</E
+M>di favore</E
+M>di garanzia</E
+M>deposito della f</E
+M>Facoltà di f</E
+M>sociale</E
+M>singola</E
+M>congiunta</E
+M>disgiunta</E
+M>prima f</E
+M>seconda firma</E
+M>F. digitale</E
+M>f. elettronica</E
+M>basta una firmetta</E
+M>e il contratto è fatto</E

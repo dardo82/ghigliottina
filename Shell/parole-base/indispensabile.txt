@@ -1,0 +1,21 @@
+indispensabile.txt
+"http://api.wordreference.com/12bee/json/iten/indispensabile/"
+#* ''per oggi mi sono portato solo l''''indispensabile'''''
+*[[necessario]], [[obbligatorio]], [[fondamentale]], [[essenziale]], [[vitale]], [[urgente]], [[doveroso]], [[vincolante]], [[inevitabile]], [[insopprimibile]], [[irrinunciabile]], [[impellente]], [[imprescindibile]], [[insostituibile]]
+* l’occorrente
+* [[inutile]], [[marginale]], [[secondario]], [[superfluo]], [[accessorio]], [[futile]],  [[marginale]],   [[facoltativo]], [[libero]]
+* [[di più]]
+*[[indispensabilmente]]
+M>dispensare</E
+M>è i</E
+M>il consenso dei genitori</E
+M>è i</E
+M>la presenza di due testimoni</E
+M>non ha neanche il minimo i</E
+M>per vivere</E
+M>ho poco bagaglio</E
+M>mi sono portato soltanto l’i</E
+M>lo stretto indispensabile</E
+M>rendersi i</E
+M>ritenersi i</E
+M>siamo tutti indispensabilmente tenuti all’osservanza dei regolamenti</E

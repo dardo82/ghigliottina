@@ -1,0 +1,14 @@
+lente.txt
+"lente"
+"lente a contatto"
+"lente a contatto"
+"lente convessa"
+"lente d'ingrandimento"
+"lente di ingrandimento"
+"lente di osservazione"
+"lente grandangolare"
+"lente grandangolare"
+"sotto la lente del fisco"
+* cristallo oculare
+*italiano
+*afrikaans

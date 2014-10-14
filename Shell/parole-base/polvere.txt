@@ -1,0 +1,198 @@
+polvere.txt
+"a prova di polvere"
+"asciutto come polvere"
+"asciutto come polvere"
+"con polvere d'oro"
+"corno per polvere da sparo"
+"diventare polvere"
+"far mangiare la polvere a qn"
+"granello di polvere"
+"latte in polvere"
+"latte in polvere"
+"latte in polvere"
+"latte in polvere"
+"latte scremato in polvere"
+"locale senza polvere"
+"mangiare la polvere"
+"mordere la polvere"
+"nella polvere"
+"nella polvere"
+"nuvola di polvere"
+"polvere"
+"polvere"
+"polvere"
+"qs che ha l'aspetto della polvere"
+"polvere"
+"polvere pirica"
+"polvere blu"
+"polvere cosmica"
+"polvere d'angelo"
+"polvere d'oro"
+"polvere da sparo"
+"polvere da sparo"
+"polvere da sparo"
+"polvere di aglio"
+"polvere di carbone"
+"polvere di chili"
+"polvere di diamante"
+"polvere di stelle"
+"polvere nera"
+"polvere ottenuta da pesce cotto"
+"ricoperto di polvere"
+"ridotto in polvere"
+"ridotto in polvere"
+"ridurre in polvere"
+"ridurre in polvere"
+"sacchetto raccogli-polvere"
+"sapone in polvere"
+"spazzola per la polvere"
+"tempesta di polvere"
+"togliere la polvere da"
+*[[pulviscolo]], [[polverone]]
+*miscela esplosiva
+*[[polvere-killer]]
+*''mordere la polvere''
+M>lvis</E
+M>ris</E
+M>il vento sollevava nuvoli di p</E
+M>mobili</E
+M>libri pieni di p</E
+M>avere le scarpe sporche di p</E
+M>c&#8217;è un dito di p</E
+M>su questo tavolino</E
+M>camminavamo adagio perché inciampavamo su tante cose tutte di ferro</E
+M> dentro un tappeto di p. alto più di venti centimetri</E
+M>arnesi pieni di p</E
+M>libri</E
+M>quaderni coperti di p</E
+M>trarre</E
+M>dissotterrare dalla p</E
+M>levare</E
+M>pulire la p</E
+M>spazzolare la p</E
+M>dalla giacca</E
+M>avere gli occhi pieni di p</E
+M>dare</E
+M>gettare la p</E
+M>negli occhi a qualcuno</E
+M>scuotersi la p</E
+M>di dosso</E
+M>scuotere la p</E
+M>di dosso a qualcuno</E
+M>far p</E
+M>alzare la p</E
+M>alzare polvere</E
+M>cospargersi il capo di p</E
+M>sono arrivato in ritardo</E
+M>mi cospargo il capo di p</E
+M>mangiare la p</E
+M>far mangiare la p</E
+M>a qualcuno</E
+M>dare la p</E
+M>agli avversarî</E
+M>mordere la p</E
+M>Due volte nella polvere</E
+M>Due volte sull&#8217;altar</E
+M>Convien ch&#8217;i&#8217; sudi in questa polver io</E
+M>Stanze</E
+M>orologio a p</E
+M>a sabbia</E
+M>P. meteoriche</E
+M>P. sottili</E
+M>ceneri</E
+M>vulcaniche</E
+M>p. di licopodio</E
+M>p. cristallina</E
+M>sabbia cristallina</E
+M>cenere</E
+M>Ma io</E
+M> forse già polvere ... giacendomi Fra le pie zolle e l&#8217;erba</E
+M>Genesi</E
+M>perché sei polvere</E
+M>e in polvere ritornerai</E
+M>ricordati che sei p</E
+M>siamo soltanto p</E
+M>Veramente siam noi p. et ombra</E
+M>Canz</E
+M>Odi</E
+M>pulvis et umbra sumus</E
+M>p. di marmo</E
+M>di vetro</E
+M>di ferro</E
+M>di carbone</E
+M>p. d&#8217;oro</E
+M>d&#8217;argento</E
+M>p. cristallina</E
+M>p. insetticida</E
+M>p. antiparassitarie</E
+M>in polvere</E
+M>cipria in p</E
+M>p. di Cipro</E
+M>p. cipria</E
+M>ombretto in p</E
+M>talco in p</E
+M>sapone in p</E
+M>colori in p</E
+M>tabacco in p</E
+M>p. di tabacco</E
+M>zucchero in p</E
+M>cacao in p</E
+M>p. di cacao</E
+M>cioccolato in p</E
+M>caffè in p</E
+M>latte in p</E
+M>p. medicinali</E
+M>farmaceutiche</E
+M>p. effervescenti</E
+M>p. inerti</E
+M>p. elettroscopica</E
+M>p. magiche</E
+M>miracolose</E
+M>p. del pimperimpera</E
+M>p. di drago</E
+M>se il sangue non si fermava colla p. di drago</E
+M> egli ricorreva al ripiego del lasciarlo colare</E
+M>p. bianca</E
+M>mulino di p.</E
+M>Ridurre in p</E
+M>ridurre in p. qualcuno</E
+M>ridursi in p</E
+M>P. piriche</E
+M>da sparo</E
+M>polveri</E
+M>grani</E
+M>regressive</E
+M>costanti</E
+M>progressive</E
+M>p. vivaci</E
+M>p. lente</E
+M>P. nera</E
+M>pirica</E
+M>Polveri senza fumo</E
+M>infumi</E
+M>p. a una base</E
+M>a base semplice</E
+M>p. a doppia base</E
+M>p. a tripla base</E
+M>p. d&#8217;archibugio</E
+M>da schioppo</E
+M>d&#8217;artiglieria</E
+M>p. fulminante</E
+M>p. detonante</E
+M>innescare le p</E
+M>dare fuoco alle p</E
+M>fuoco alle p.!</E
+M>sentire odore di polvere</E
+M>p. bruciata</E
+M>non avere mai sentito l&#8217;odore della p</E
+M>avere le p. bagnate</E
+M>umide</E
+M>tenere asciutte le p</E
+M>Put your trust in God ... and keep your powder dry</E
+M>avere molte p. da sparare</E
+M>non è quello che ha inventato la p</E
+M>Congiura delle p</E
+M>Polveri da stampaggio</E
+M>P. metalliche</E
+M>P. interstellare</E
+M>p. cosmica</E

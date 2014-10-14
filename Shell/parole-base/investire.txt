@@ -1,0 +1,82 @@
+investire.txt
+"investire"
+"investire"
+"investire"
+"investire con"
+"investire del denaro"
+"investire denaro"
+"investire di"
+"investire in"
+"investire in"
+"investire ingenti risorse"
+"investire nel mattone"
+"investire nella ricerca"
+"investire nella ricerca tecnologica"
+"investire qcn di"
+"investire qn di"
+"investire qn di"
+"investire qn di"
+"investire questioni di sicurezza"
+"investire soldi"
+"investire su se stesso"
+#* ''
+#* ''
+#* ''
+*[[urtare]], [[colpire]], [[cozzare]], [[travolgere]]
+*[[concedere]], [[dare]], conferire una nomina, conferire un titolo, [[eleggere]], [[nominare]], [[promuovere]], [[innalzare]], [[elevare]], [[fregiare]], [[insignire]]
+*[[offendere]], [[insultare]], [[oltraggiare]]
+*[[dimettere]], [[destituire]], [[rimuovere]], [[esonerare]], [[estromettere]]
+*[[investirsi]]
+M>investire</E
+M>io invèsto</E
+M>d’un feudo</E
+M>di un beneficio ecclesiastico</E
+M>di un titolo</E
+M>di un’autorità</E
+M>di un incarico</E
+M>di pieni poteri</E
+M>essere investito di pieni poteri</E
+M>della questione è stata investita l’autorità giudiziaria</E
+M>di una causa il giudice</E
+M>Investirsi della propria autorità</E
+M>del proprio grado</E
+M>investirsi di una parte</E
+M>di un personaggio</E
+M>investirsi di un affetto</E
+M>di un sentimento altrui</E
+M>grosse somme in case</E
+M>in terreni</E
+M>in azioni</E
+M>il ricavato di una vendita in titoli di stato</E
+M>chi aveva qualche quattrino da parte</E
+M>l’investiva in pane e farina</E
+M>dispone di centinaia di euro liquidi da investire</E
+M>una fortezza</E
+M>una piazzaforte</E
+M>le posizioni nemiche con carri armati</E
+M>le colonne in marcia con raffiche di mitragliatrice</E
+M>lo investì con una scarica di pugni</E
+M>furiose ondate investivano la banchina</E
+M>fu investito da una violenta raffica di vento</E
+M>le fiamme investirono l’ingresso</E
+M>quando si affacciò alla finestra</E
+M>lo investì l’urlo della folla</E
+M>qualcuno con una tempesta d’insulti</E
+M>d’improperî</E
+M>qualcuno di domande</E
+M>il rapido ha investito un treno merci</E
+M>ciclista investito e travolto da un’automobile</E
+M>nella curva</E
+M> la macchina è uscita di pista investendo la folla</E
+M>due autotreni si sono investiti</E
+M>abbordare</E
+M>il bastimento investì il molo</E
+M>besetzen</E
+M>investimento</E
+M>qualcuno</E
+M>qualche cosa</E
+M>in qualcuno</E
+M>qualche cosa</E
+M>essere bene investito a qualcuno</E
+M>non già perché io intenda</E
+M>di biasimare ciò che l’uomo fece o di dire che alla donna non fosse bene investito</E

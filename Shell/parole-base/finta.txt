@@ -1,0 +1,39 @@
+finta.txt
+"far finta"
+"far finta di"
+"far finta di"
+"far finta di"
+"far finta di niente"
+"far finta di non sapere"
+"fare per finta"
+"finta"
+"finta"
+"finta"
+"finta di testa"
+"finto camoscio, finta pelle scamosciata"
+"similpelle; finta pelle"
+"tartaruga finta"
+"una battaglia finta"
+*[[falsatura]], [[pattina]]
+*''far finta''
+M>fingere</E
+M>finto</E
+M>fare f</E
+M>fare per f</E
+M>faceva f</E
+M>di piangere</E
+M>fece f</E
+M>di non vedere</E
+M>di non aver capito</E
+M>fare f</E
+M>di nulla</E
+M>dice d’essere malato</E
+M>ma fa per finta</E
+M>è tutta una finta</E
+M>fare</E
+M>eseguire una f</E
+M>una serie di finte</E
+M>di corpo</E
+M>filippina</E
+M>pattina</E
+M>falsatura</E

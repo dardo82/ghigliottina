@@ -1,0 +1,26 @@
+tumore.txt
+"terapia del tumore, cura del cancro"
+"tumore"
+"tumore"
+"tumore al cervello"
+"tumore benigno"
+"tumore maligno"
+"tumore maligno"
+"tumore metastatico"
+"tumore metastatico"
+#*''Gli hanno diagnosticato un '''tumore'''''
+*[[cancro]], [[neoplasia]], [[blastoma]]
+*Enciclopedia [http
+M>tumor -oris</E
+M>tumere</E
+M>tuo vero dir m&#8217;incora Bona umiltà</E
+M> e gran tumor m&#8217;appiani</E
+M>t. di milza</E
+M>splenomegaliche</E
+M>t. da parto</E
+M>pseudocefaloematoma.</E
+M>t. benigni</E
+M>t. maligni</E
+M>t. epiteliali</E
+M>t. connettivali</E
+M>t. professionali</E

@@ -1,0 +1,92 @@
+valle.txt
+"a monte\/a valle"
+"a valle"
+"a valle"
+"a valle di"
+"valle"
+"valley"
+"valle"
+"valley"
+"valle di lacrime"
+"valle tettonica"
+"rift valley"
+#*le '''valli''' di Comacchio
+*''(geografia)'' [[vallata]], [[vallo]], [[convalle]], [[vallone]], [[conca]], [[bacino]], [[gola]] 
+*''(depressione paludosa)'' [[laguna]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 2243 
+M>vallis</E
+M>valles</E
+M>-is</E
+M>fianchi</E
+M>pareti</E
+M>filone di v.</E
+M>fondo di valle</E
+M>fondovalle</E
+M>testa</E
+M>testata</E
+M>sbocco</E
+M>termine</E
+M>v. trasversale</E
+M>v. longitudinale</E
+M>v. tettoniche</E
+M>v. d’erosione</E
+M>v. fluviali</E
+M>v. glaciali</E
+M>valle a V</E
+M>valli a U</E
+M>v. tributarie</E
+M>v. sospese</E
+M>pensili</E
+M>gradino di confluenza</E
+M>V. relitta</E
+M>v. sommersa</E
+M>v. carsica</E
+M>morta</E
+M>chiusa</E
+M>cieca</E
+M>V. epigenetica</E
+M>la v. dell’Adige</E
+M>la v. del Liri</E
+M>la valle d’Aosta</E
+M>la val di Sole</E
+M>la Valsugana</E
+M>la val Tiberina</E
+M>la Valtellina</E
+M>il Valdarno</E
+M>per monti e per valli</E
+M>per valli e per monti</E
+M>l’ho cercato per monti e per valli</E
+M>valle di lacrime</E
+M>valle di pianto</E
+M>Al passar questa valle Piacciavi porre giù l’odio e lo sdegno</E
+M>Par.</E
+M>La maggior valle in che l’acqua si spanda</E
+M>Fuor di quel mar</E
+M>che la terra inghirlanda</E
+M>Par.</E
+M>la compagnia malvagia e scempia Con la qual tu cadrai in questa valle</E
+M>valli</E
+M>le valli di Comacchio</E
+M>V. da pesca</E
+M>ventre</E
+M>dell’onda</E
+M>A valle</E
+M>a monte</E
+M>l’Arno a valle di Pisa</E
+M>scendere</E
+M>cadere</E
+M>precipitare</E
+M>rovinare a valle</E
+M>E non restò di ruinare a valle Fino a Minòs che ciascheduno afferra</E
+M>Qual masso che dal vertice Di lunga erta montana</E
+M>Precipitando a valle</E
+M> Batte sul fondo e sta</E
+M>a monte</E
+M>a valle</E
+M>a monte</E
+M>a valle</E
+M>Giace in Arabia una valletta amena</E
+M> Lontana da cittadi e da villaggi</E
+M>Santa Maria in Vallicella</E
+M>Chiesa Nuova</E
+M>Tarentum</E

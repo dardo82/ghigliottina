@@ -1,0 +1,45 @@
+scolpire.txt
+"scolpire"
+"scolpire"
+"scolpire"
+"scolpire, replace: scolpirsi"
+"scolpire, cesellare"
+#* ''La pietra '''è stata scolpita''' sin dall'antichità''
+#* ''Lo scultore '''ha scolpito''' una statua''
+*[[scalpellare]], [[sbalzare]], [[incidere]], [[intagliare]], [[sbozzare]]
+*[[lisciare]], [[levigare]], [[spianare]]
+*[[scolpirsi]]
+M>sculp</E
+M>io scolpisco</E
+M>tu scolpisci</E
+M>scolpìi</E
+M>scolpisti</E
+M>sculsi</E
+M>sculse</E
+M>scùlsero</E
+M>scolpito</E
+M>sculto</E
+M>scólto</E
+M>s. un blocco di porfido</E
+M>una lapide di travertino</E
+M>s. una statua</E
+M>s. un crocifisso in legno</E
+M>s. un nome</E
+M>una dedica su una lastra di marmo</E
+M>s. nella memoria</E
+M>nella mente</E
+M>nel cuore</E
+M>scolpitevi bene in mente quello che vi dico!</E
+M>sono fatti che per la loro gravità si scolpiscono nel cuore e vi rimangono a lungo</E
+M>Su le tue pagine Scolpisci</E
+M> o storia</E
+M> Le altrui nequizie E la sua gloria</E
+M>alza più la voce e scolpisci meglio le parole</E
+M>una colonna scolpita</E
+M>una figura ben scolpita</E
+M>un cofanetto d&#8217;avorio finemente scolpito</E
+M>Di cotai segni svariato e scolto Era il metallo delle regie porte</E
+M>Il marchio ond&#8217;è il cor scolto Lascia apparir nel volto</E
+M>un&#8217;immagine</E
+M>una frase scolpita nella memoria</E
+M>stile scolpito</E

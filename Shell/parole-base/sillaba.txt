@@ -1,0 +1,71 @@
+sillaba.txt
+"sillaba"
+#* ''non cambiare di una 
+* [[sillabare]],  [[sillabario]],  [[sillabazione]], [[sillabico]]
+* [[accento]],  [[consonante]],  [[dittongo]],  [[parola]],  [[prosodia]],  [[vocale]]
+M>syll</E
+M>le parole di una sola s. si chiamano monosillabi</E
+M> di due o più s. polisillabi</E
+M>lasciare</E
+M>ha tre s.</E
+M>la divisione in sillabe è facile in italiano e in francese</E
+M> difficile in inglese</E
+M>non dire</E
+M>non proferire</E
+M>non rispondere sillaba</E
+M>una s.</E
+M>non toccare</E
+M>non cambiare una s.</E
+M>non capire una s.</E
+M>una sola s.</E
+M>punto</E
+M>centro</E
+M>ca-sa</E
+M>ro-ba</E
+M>fa-ì-na</E
+M>aperte</E
+M>libere</E
+M>pa-ga-re</E
+M>chiuse</E
+M>implicate</E
+M>con-trat-to</E
+M>fato</E
+M>fatidico</E
+M>fatto</E
+M>sillabazione</E
+M>co-strin-ge-re</E
+M>ac-qua</E
+M>ap-pre-sta-re</E
+M>nes-su-n&#8217;a-mi-ca</E
+M>nes-sun -a-mi-co</E
+M>buo-no</E
+M>chie-sa</E
+M>trau-ma</E
+M>bu-ono</E
+M>chi-esa</E
+M>tra-uma</E
+M>dis-u-gua-le</E
+M>di-su-gua-le</E
+M>post-in-cu-na-bo-lo</E
+M>po-stin-cu-na-bo-lo</E
+M>te-cni-co</E
+M>tec-ni-co</E
+M>se-gmen-to</E
+M>seg-men-to</E
+M>ma-estro</E
+M>pa-ura</E
+M>sci-are</E
+M>mae-strale</E
+M>pau-roso</E
+M>scia-tore</E
+M>ma-estrale</E
+M>pa-uroso</E
+M>sci-atore</E
+M>all&#8217;- amore</E
+M>al-l&#8217;amore</E
+M>all&#8217;a-more</E
+M>allo-amore</E
+M>va-sca</E
+M>vàs-ka</E
+M>co-smo</E
+M>-mo</E

@@ -1,0 +1,27 @@
+ripagare.txt
+"l'atto di restituire; di ripagare"
+"pareggiare; ripagare qcn. con la stessa moneta"
+"restituire; ripagare"
+"ripagare"
+"ripagare"
+"ripagare"
+"ripagare i debiti, uscire dai debiti"
+"ripagare qualcuno di qualcosa"
+"spero di poterti ripagare per tutto quello che stai facendo per me"
+*[[pagare]]
+M>pagare</E
+M>io ripago</E
+M>tu ripaghi</E
+M>se perdiamo il biglietto</E
+M>dovremo r</E
+M>l&#8217;ingresso</E
+M>un danno a uno</E
+M>uno del danno arrecatogli</E
+M>se mi rovini la macchina</E
+M>me la ripaghi</E
+M>se perdi il libro che ti ha prestato</E
+M>dovrai ripagarglielo per nuovo</E
+M>Dio vi ripagherà del bene che mi fate</E
+M>mi ha ripagato calunniandomi</E
+M>con la stessa moneta</E
+M>di pari moneta</E

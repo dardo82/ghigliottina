@@ -1,0 +1,14 @@
+cicoria.txt
+"cicoria"
+M>cichoria</E
+M>cichorium</E
+M>Cichorium intybus</E
+M>cicoria</E
+M>radicchio</E
+M>dolce della Catalogna</E
+M>catalogna</E
+M>cicoria asparagio</E
+M>cicorione</E
+M>puntarelle</E
+M>radicchio di Treviso</E
+M>barba di cappuccino</E

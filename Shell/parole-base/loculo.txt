@@ -1,0 +1,7 @@
+loculo.txt
+"loculo"
+M>loc</E
+M>lus</E
+M>locus</E
+M>uni</E
+M>pluriloculare</E

@@ -1,0 +1,75 @@
+popolazione.txt
+"censimento della popolazione"
+"crescita della popolazione"
+"eccesso di popolazione"
+"fasce di popolazione"
+"intera popolazione"
+"invecchiamento della popolazione"
+"piramide della popolazione"
+"popolazione"
+"popolazione"
+"popolazione"
+"popolazione eccessiva"
+*[[abitanti]], [[popolo]], [[cittadinanza]], [[abitanti]], [[cittadini]], [[nazione]], [[paese]]
+*''( al plurale)'' [[genti]], [[popoli]]
+*''(boschiva, ittica)'' [[fauna]], [[flora]]
+* [[populazione]]
+M>populatio</E
+M>onis</E
+M>pop</E
+M>lus</E
+M>la p</E
+M>della Terra</E
+M>mondiale</E
+M>rurale</E
+M>urbana</E
+M>la p</E
+M>delle campagne e quella delle città</E
+M>la p</E
+M>di un comune</E
+M>di una regione</E
+M>di uno stato</E
+M>registro della p</E
+M>movimento della p</E
+M>residente</E
+M>legale</E
+M>assoluta</E
+M>relativa</E
+M>densità della p</E
+M>densità di p</E
+M>territoriale</E
+M>densità di p. fondiaria</E
+M>una p</E
+M>laboriosa</E
+M>pacifica</E
+M>sana</E
+M>le p</E
+M>alpine</E
+M>rivierasche</E
+M>le p</E
+M>indigene dell&#8217;Africa</E
+M>le antiche p</E
+M>del bacino mediterraneo</E
+M>nordiche</E
+M>politeiste</E
+M>antropofaghe</E
+M>queste populazioni furono quelle che destrussono lo imperio romano</E
+M>la p</E
+M>maschile</E
+M>la p</E
+M>femminile</E
+M>la p</E
+M>scolastica</E
+M>civile</E
+M>attiva</E
+M>inattiva</E
+M>elettorale</E
+M>densità di p</E
+M>dinamica di p</E
+M>mendeliana</E
+M>di linfociti</E
+M>eritrocitaria</E
+M>p. elettronica</E
+M>stellare</E
+M>III</E
+M>campione della popolazione</E

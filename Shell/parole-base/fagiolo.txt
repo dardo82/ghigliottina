@@ -1,0 +1,75 @@
+fagiolo.txt
+"Capitare a fagiolo"
+"fagiolo"
+"fagiolo bianco"
+"fagiolo bianco"
+"fagiolo bianco"
+"fagiolo borlotto"
+"fagiolo dall'occhio"
+"fagiolo di campo"
+"fagiolo di Spagna"
+"fagiolo nero"
+"fagiolo verde (che si mangia quando non è ancora maturo)"
+"pianta di fagiolo"
+*[[fagiolata]]
+*''andare a '''fagiolo'''''
+M>phase</E
+M>lus</E
+M>phas</E
+M>lus</E
+M>Phaseolus</E
+M>comune</E
+M>Phaseolus vulgaris</E
+M>americano</E
+M>fagiolone</E
+M>coccineus</E
+M>caracalla</E
+M>caracalla</E
+M>verde</E
+M>peloso</E
+M>mungo</E
+M>vigna</E
+M>asparagio</E
+M>dall’occhio</E
+M>fagiolina</E
+M>dall’occhio</E
+M>con l’occhio</E
+M>nero</E
+M>fagiolini</E
+M>fagioletti</E
+M>bianchi</E
+M>brizzolati</E
+M>capponi</E
+M>galletti</E
+M>della regina</E
+M>di Spagna</E
+M>verdi</E
+M>secchi</E
+M>sgranati</E
+M>da sgranare</E
+M>lessi</E
+M>all’olio</E
+M>in insalata</E
+M>all’uccelletto</E
+M>in stufato</E
+M>in umido</E
+M>con le cotiche</E
+M>al fiasco</E
+M>sa distinguere il f</E
+M>dal cece</E
+M>capitare a fagiolo</E
+M>non andare</E
+M>andare poco a fagiolo</E
+M>I0 vo con chi mi garba per la via</E
+M>E pianto chi mi va poco a f</E
+M>A fagiolo</E
+M>divano</E
+M>tavolino</E
+M>toletta a fagiolo</E
+M>phoetentissimae matriculae</E
+M>flatulentes phaseoli</E
+M>nobilissimi antiani</E
+M>divinissimi laureandi</E
+M>beffo</E
+M>indiano</E
+M>Abrus precatorius</E

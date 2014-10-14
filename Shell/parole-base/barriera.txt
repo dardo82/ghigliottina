@@ -1,0 +1,40 @@
+barriera.txt
+"barriera"
+"barriera"
+"barriera"
+"barriera"
+"barriera corallina"
+"barriera del suono"
+"barriera di fuoco"
+"barriera di terra contro un incendio"
+"barriera termica"
+"Grande Barriera Corallina"
+"rompere la barriera del suono"
+M>barrière</E
+M>barre</E
+M>di sicurezza</E
+M>guardrail</E
+M>ferroviaria</E
+M>daziaria</E
+M>doganale</E
+M>doganale</E
+M>protettiva</E
+M>b. commerciali non tariffarie</E
+M>b. architettoniche</E
+M>corallina</E
+M>antartica</E
+M>creare</E
+M>porre delle b</E
+M>Non fia loco ove sorgan barriere Tra l’Italia e l’Italia</E
+M>mai più!</E
+M>ematoencefalica</E
+M>ematoliquorale</E
+M>degli speziali</E
+M>B. pneumatica</E
+M>barriere antirumore</E
+M>di potenziale</E
+M>sonica</E
+M>del suono</E
+M>termica</E
+M>di temperatura</E
+M>interspecifica</E

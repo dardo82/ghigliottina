@@ -1,0 +1,43 @@
+domicilio.txt
+"assistente sanitario a domicilio"
+"chef a domicilio"
+"Consegna a domicilio"
+"cuoco a domicilio"
+"di casa in casa, a domicilio"
+"domicilio"
+"eleggere domicilio"
+"franco domicilio"
+"lavoro a domicilio"
+"lezione a domicilio"
+"servizio di raccolta a domicilio"
+"venditore a domicilio"
+"violazione di domicilio"
+"violazione di domicilio con effrazione"
+*[[casa]], [[abitazione]], [[dimora]], [[residenza]]
+* [[domiciliari]], [[domiciliarsi]], [[domiciliazione]], [[domiciliare]], [[domicilatario]]
+M>domicilium</E
+M>domus</E
+M>col</E
+M>eleggere una città a proprio d</E
+M>avere</E
+M>stabilire</E
+M>fissare</E
+M>eleggere il d</E
+M>in un luogo</E
+M>volontario</E
+M>necessario</E
+M>legale</E
+M>speciale</E
+M>elettivo</E
+M>fiscale</E
+M>domicilio di soccorso</E
+M>coatto</E
+M>trasporto</E
+M>consegna a d</E
+M>servizio a d</E
+M>industria</E
+M>lavoro a d</E
+M>abbandono del d</E
+M>domestico</E
+M>inviolabilità del d</E
+M>violazione di d</E

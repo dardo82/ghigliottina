@@ -1,0 +1,80 @@
+postale.txt
+"automobile di servizio postale"
+"bilancia postale"
+"carrozza postale"
+"cartolina postale"
+"casella postale"
+"casella postale"
+"cassetta postale"
+"città in cui l'ufficio postale è presente per legge"
+"codice di avviamento postale"
+"codice di avviamento postale"
+"codice postale"
+"dell'ufficio postale"
+"il sistema postale"
+"impiegato postale"
+"nave postale"
+"nave postale"
+"ordine postale"
+"pacco postale"
+"piccolo ufficio postale"
+"plico postale"
+"polizia postale"
+"postale"
+"postale"
+"mezzo per il servizio postale"
+"servizio postale"
+"servizio postale"
+"servizio postale"
+"servizio postale"
+"spedizione postale"
+"spedizione postale"
+"timbro postale"
+"treno postale"
+"ufficiale in capo del servizio postale nazionale"
+"ufficio postale"
+"ufficio postale"
+"vaglia postale"
+"valuta postale"
+"zona postale"
+*[[posta]]
+m>amministrazione p</e
+m>organizzazione</e
+m>ordinamento p.</e
+m>leggi</e
+m>norme</e
+m>regolamenti</e
+m>disposizioni p</e
+m>servizio p</e
+m>tariffe p</e
+m>ufficio p</e
+m>impiegati p</e
+m>codice di avviamento p</e
+m>numero di codice</e
+m>franchigia p</e
+m>cassetta p</e
+m>casella p.</e
+m>pacco p</e
+m>cartolina p</e
+m>buoni p</e
+m>fruttiferi</e
+m>conto corrente p</e
+m>assegno p</e
+m>furgone p</e
+m>aereo p</e
+m>piroscafo p</e
+m>postale</e
+m>linea p</e
+m>ambulante p</e
+m>carrozze</e
+m>vetture p</e
+m>il corriere postale</e
+m>lo vide</e
+m>darsi a correre giù</e
+m>fino alla strada p</e
+m>la postale</e
+m>pacchebotto</e
+m>pacchetto</e
+m>i p</e
+m>dall&rsquo;Africa arrivano nel pomeriggio</e
+m>autocorriera</e

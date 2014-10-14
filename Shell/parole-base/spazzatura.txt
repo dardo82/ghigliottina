@@ -1,0 +1,31 @@
+spazzatura.txt
+"bidone della spazzatura"
+"bidone della spazzatura"
+"bidone della spazzatura"
+"cibo spazzatura"
+"scivolo della spazzatura, condotto della spazzatura"
+"spazzatura"
+"spazzatura"
+"spazzatura"
+*[[immondizia]], [[rifiuti]]
+*[[spazzare]], [[spazzata]], [[spazzatore]], [[spazzatrice]], [[spazzino]]
+M>la s. delle strade</E
+M>la s. delle scale viene fatta tre volte alla settimana</E
+M>raccogliere la s.</E
+M>secchio</E
+M>bidone</E
+M>cassetta per la s.</E
+M>della s.</E
+M>uno che va ricogliendo la s. da Santa Maria a Verzaia</E
+M>guarda che non vendiamo mica s.!</E
+M>da quel robivecchi non c&#8217;è niente di buono</E
+M> solo spazzatura</E
+M>non siamo s.</E
+M>ci trattano come se fossimo spazzatura!</E
+M>trash</E
+M>film s.</E
+M>trasmissioni s.</E
+M>libri</E
+M>riviste s.</E
+M>giornalismo</E
+M>televisione spazzatura.</E

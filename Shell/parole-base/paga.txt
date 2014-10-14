@@ -1,0 +1,3 @@
+paga.txt
+"http://api.wordreference.com/12bee/json/iten/paga/"
+*[[salario]], [[compenso]], [[stipendio]], [[remunerazione]]

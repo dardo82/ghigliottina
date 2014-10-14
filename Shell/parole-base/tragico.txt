@@ -1,0 +1,47 @@
+tragico.txt
+"evento tragico"
+"il tragico"
+"tragico"
+"tragico"
+"tragico"
+"tragico"
+"tragico"
+*[[drammatico]]
+*[[tragediografo]], [[drammaturgo]]
+*''(solo singolare)'' [[tragicità]]
+*''(drammatico)'' [[comico]], [[ridicolo]], [[farsesco]], [[umoristico]], [[leggero]], [[brillante]]
+*''(tragediografo)'' [[commediografo]]
+*[[tragicità]]
+*[[tragedia]], [[tragicamente]],  [[tragicomico]], [[tragicommedia]]
+M>trag</E
+M>cus</E
+M>attore t.</E
+M>scrittore t.</E
+M>poeta t.</E
+M>sostenere</E
+M> come attore</E
+M> una parte t.</E
+M>il genere t.</E
+M>lo stile t.</E
+M>aggiungevasi una quasi totale ignoranza delle regole dell&#8217;arte t.</E
+M>il t. coturno</E
+M>ironia t.</E
+M>Stile t.</E
+M>è morto in circostanze t.</E
+M>una disattenzione che poteva avere conseguenze t.</E
+M>una t. notte</E
+M>una t. sparatoria</E
+M>una t. catena di omicidî</E
+M>i t. greci</E
+M>l&#8217;Alfieri è il maggiore t. italiano</E
+M>è un t.</E
+M> e le parti comiche non gli si addicono</E
+M>fare il t.</E
+M>la tragica</E
+M>la concezione aristotelica del tragico</E
+M>il t. è che è sola</E
+M> e nessuno la aiuta</E
+M>prendere qualcosa sul t.</E
+M>un argomento che può essere sviluppato tragicamente</E
+M>la rissa è finita tragicamente</E
+M>è morto tragicamente</E

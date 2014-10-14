@@ -1,0 +1,64 @@
+lancio.txt
+"binario della sella di lancio"
+"cabina di lancio"
+"coltello da lancio"
+"fare da trampolino (di lancio)"
+"finestra di lancio"
+"lancio"
+"lancio"
+"lancio"
+"lancio col paracadute"
+"lancio dei dadi"
+"lancio del bouquet"
+"lancio del martello"
+"lancio dell'esca artificiale"
+"lancio di oggetti"
+"lancio lungo"
+"lancio paracadutistico"
+"lancio pazzo (baseball)"
+"offerta di lancio, offerta lancio"
+"piattaforma di lancio"
+"piattaforma di lancio"
+"piattaforma di lancio"
+"rampa di lancio"
+"veicolo di lancio"
+*[[rilancio]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier p. 1127
+M>di un sasso</E
+M>di una bomba a mano</E
+M>di bombe</E
+M>di spezzoni</E
+M>di viveri</E
+M>di rifornimenti da un aereo</E
+M>pesca al l</E
+M>canna da l</E
+M>passaggio</E
+M>diretto</E
+M>angolato</E
+M>camera di l</E
+M>Tubo di l</E
+M>lanciasiluri</E
+M>carica di lancio</E
+M>di un velivolo</E
+M>di un aliante</E
+M>dell’elica</E
+M>rampa di l</E
+M>il l</E
+M>di un nuovo detersivo</E
+M>di un’invenzione</E
+M>di un cantante</E
+M>iniziare una campagna di lancio</E
+M>offerta lancio</E
+M>di un prestito</E
+M>fare</E
+M>dare</E
+M>spiccare un l</E
+M>fare un l</E
+M>dal trampolino</E
+M>di lancio</E
+M>d’un l</E
+M>gli fu sopra d’un l</E
+M>lo afferrò di l</E
+M>di primo l</E
+M>guadagnare</E
+M>vincere di primo lancio</E

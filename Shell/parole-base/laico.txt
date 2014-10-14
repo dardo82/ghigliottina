@@ -1,0 +1,43 @@
+laico.txt
+"laico"
+"laico"
+"laico"
+"predicatore laico"
+"terreno; laico"
+#* ''La Repubblica Italiana è uno stato 
+*[[aconfessionale]], [[indipendente]]
+*[[confessionale]], [[clericale]] 
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1122
+M>laicus</E
+M>chierico</E
+M>associazione</E
+M>confraternita di laici</E
+M>frate l</E
+M>fratello l</E
+M>converso</E
+M>enti l</E
+M>associazioni l</E
+M>apostolato l</E
+M>assistenza l</E
+M>beneficio l</E
+M>comunione l</E
+M>pensione l</E
+M>prebenda l</E
+M>confessionale</E
+M>professare idee</E
+M>essere di tendenze l</E
+M>movimenti l</E
+M>la cultura l</E
+M>partiti l</E
+M>scuola l</E
+M>Stato l</E
+M>polemiche</E
+M>contrasti</E
+M>accordo tra cattolici e laici</E
+M>partiti l</E
+M>membri l</E
+M>del Consiglio superiore della magistratura</E
+M>giudice l</E
+M>chierico</E
+M>avvenne che gli uomini di lettere fossero stati poi chiamati cherici</E
+M>siccome gl’illetterati si nomavano laici</E

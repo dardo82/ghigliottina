@@ -1,0 +1,52 @@
+tessera.txt
+"tessera"
+"tessera"
+"tile, tessera"
+"tessera (di club"
+"tessera annonaria"
+"tessera del domino"
+"tessera della biblioteca"
+"tessera di abbonamento per mezzi pubblici"
+"tessera ferroviaria"
+"tessera sanitaria"
+"tessera sindacale"
+"tessera socio"
+"tessera socio"
+M>tess</E
+M>t. musiva</E
+M>tessera</E
+M>tessere</E
+M>tesserae lusoriae</E
+M>t. militari</E
+M>frumentarie</E
+M>conviviali</E
+M>teatrali</E
+M>gladiatorie</E
+M>t. ospitali</E
+M>t. mercantili</E
+M>commerciali</E
+M>t. di socio</E
+M>t. di giornalista</E
+M>t. del tram</E
+M>t. di libero ingresso ai musei</E
+M>t. del partito</E
+M>tessera</E
+M>non aveva mai voluto</E
+M>non aveva mai preso la t.</E
+M>presentare</E
+M> mostrare la t.</E
+M>farsi fare</E
+M>rinnovare la t.</E
+M>fotografia formato t.</E
+M>foto tessera</E
+M>uso tessera</E
+M>T. magnetica</E
+M>tesserino magnetico</E
+M>carta</E
+M>annonaria</E
+M>Del caro amico tuo voli a le porte Alcun de&#8217; nunci tuoi; quivi deponga La t. beata</E
+M>Tu pur pensosa</E
+M> Lidia</E
+M> la tessera Al secco taglio dài de la guardia</E
+M>mostrare il tesserino di abbonato</E
+M>di socio</E

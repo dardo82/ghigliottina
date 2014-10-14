@@ -1,0 +1,58 @@
+scheda.txt
+"scheda"
+"scheda"
+"scheda"
+"scheda"
+"scheda anagrafica"
+"scheda di accordi"
+"scheda di approfondimento"
+"scheda di espansione"
+"scheda di intervento"
+"scheda di rete"
+"scheda di voto"
+"scheda elettorale"
+"scheda madre"
+"scheda metallica che si inserisce nei cataloghi delle biblioteche per facilitare la ricerca dei test"
+"scheda per proiettore"
+"scheda perforata"
+"scheda personale"
+"scheda segnapunti"
+"scheda tecnica"
+"scheda telefonica"
+"scheda video"
+*[[cartella]], [[cartellina]], [[cartellino]], [[cartoncino]], [[modulo]], [[cedola]], [[tessera]], [[biglietto]], [[documento]], [[foglio]], [[foglietto]], [[formulario]], [[modello]], [[riquadro]]
+*''(elettronica)''  circuito stampato
+M>scheda</E
+M>compilare una s.</E
+M>ordinare</E
+M>raccogliere</E
+M>sistemare le s.</E
+M>riunire le s. in uno schedario</E
+M>le s. di un archivio</E
+M>di un catalogo</E
+M>s. bibliografica</E
+M>s. per soggetto</E
+M>s. di richiamo</E
+M>s. di rinvio</E
+M>s. analitica</E
+M>schede-contesto</E
+M>s. perforata</E
+M>s. magnetica</E
+M>s. telefonica</E
+M>s. di espansione</E
+M>s. audio</E
+M>s. madre</E
+M>s. video</E
+M>s. grafica</E
+M>s. segnaletica</E
+M>s. del casellario giudiziario</E
+M>s. elettorale</E
+M>s. bianca</E
+M>s. nulla</E
+M>s. di valutazione</E
+M>s. di rilevazione</E
+M>s. testamentaria</E
+M>lista</E
+M>di domanda</E
+M>lista</E
+M>d&#8217;offerta</E

@@ -1,0 +1,16 @@
+coniuge.txt
+"coniuge"
+"mantenimento per ex coniuge"
+*[[consorte]], [[compagno]], [[compagna]], [[sposo]], [[sposa]], [[marito]], [[moglie]]
+*[[coniugale]]
+*[[coniugare]]
+M>coniux</E
+M>gis</E
+M>coniung</E
+M>la coniuge</E
+M>il c</E
+M>superstite</E
+M>abbandono del c</E
+M>i coniugi</E
+M>rapporti</E
+M>liti tra coniugi</E

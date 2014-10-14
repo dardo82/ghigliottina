@@ -1,0 +1,17 @@
+platano.txt
+"platano"
+* nome scientifico
+* [[platano falso]], [[platano selvatico]], [[acero bianco]]
+*italiano
+*latino
+*inglese
+M>plat</E
+M>nus</E
+M>platani</E
+M>comune</E
+M>Platanus hybrida</E
+M>acerifolia</E
+M>americano</E
+M>Platanus occidentalis</E
+M>orientale</E
+M>Platanus orientalis</E

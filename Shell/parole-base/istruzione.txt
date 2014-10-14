@@ -1,0 +1,101 @@
+istruzione.txt
+"corso di istruzione"
+"dare una istruzione"
+"Dipartimento dell'Istruzione"
+"istituzione educativa e di istruzione"
+"istruzione"
+"istruzione"
+"istruzione"
+"istruzione"
+"istruzione base"
+"istruzione di carattere generale"
+"istruzione elementare"
+"istruzione in scuola mista"
+"istruzione obbligatoria"
+"istruzione per adulti"
+"istruzione post-universitaria"
+"istruzione professionale"
+"istruzione programmata"
+"istruzione secondaria"
+"istruzione superiore"
+"istruzione tecnica"
+"istruzione universitaria"
+"luogo di istruzione"
+"ministero della pubblica istruzione"
+"senza istruzione"
+"senza istruzione"
+*[[insegnamento]], [[educazione]], [[preparazione]], [[formazione]], [[scuola]], [[cultura]], [[sapere]], [[studio]], [[conoscenza]], [[sapienza]], [[cognizione]], [[apprendimento]], [[ammaestramento]], [[erudizione]], [[infarinatura]]
+*[[norma]], [[regola]], [[direttiva]], [[disposizione]], [[informazione]], [[normativa]], [[prescrizione]], [[precetto]], [[avviso]], [[guida]], [[spiegazione]]
+*[[ignoranza]], [[analfabetismo]]
+*[[scuola]], [[università]], [[accademia]]
+M>instructio</E
+M>onis</E
+M>instru</E
+M>attendere all’i</E
+M>dei giovani</E
+M>educazione</E
+M>teorica</E
+M>pratica</E
+M>letteraria</E
+M>scientifica</E
+M>tecnica</E
+M>professionale</E
+M>religiosa</E
+M>militare</E
+M>premilitare</E
+M>richiamo alle armi per un periodo d’i</E
+M>corso d’i</E
+M>dei cani per servizî di polizia</E
+M>pubblica</E
+M>privata</E
+M>obbligatoria</E
+M>primaria</E
+M>secondaria</E
+M>media</E
+M>superiore</E
+M>ministero della Pubblica I</E
+M>assessore alla pubblica i</E
+M>assessore per l’i</E
+M>programmata</E
+M>avere poca</E
+M>molta i</E
+M>essere privo d’i</E
+M>ha un’i</E
+M>modesta</E
+M>superficiale</E
+M>la sua i</E
+M>è assai lacunosa</E
+M>era stato inviato un ispettore con l’i</E
+M>di accertare alcune irregolarità ammistrative</E
+M>diplomatiche</E
+M>dare</E
+M>fornire</E
+M>mandare</E
+M>ricevere istruzioni</E
+M>attendere i</E
+M>dal proprio governo</E
+M>la ditta ha diramato i</E
+M>particolareggiate a tutti i suoi concessionarî</E
+M>il comandante ricevette una busta sigillata con le i</E
+M>segrete sulla rotta da seguire</E
+M>agire in modo conforme</E
+M>contrario alle istruzioni</E
+M>foglio d’istruzioni</E
+M>attenersi alle i</E
+M>del medico</E
+M>dare istruzioni sul modo di far funzionare un apparecchio</E
+M>I. al secondo</E
+M>informazione al secondo</E
+M>istruzioni per l’uso</E
+M>a ogni boccettina d’estratto è allegata l’i</E
+M>sul modo di fare il liquore</E
+M>foglio</E
+M>manuale</E
+M> libretto di istruzioni per l’uso di un apparecchio</E
+M>In che stato</E
+M>in che termine si trove E Francia e Carlo</E
+M>instruzion vera ebbe</E
+M>probatoria</E
+M>formale</E
+M>sommaria</E
+M>i. dibattimentale</E

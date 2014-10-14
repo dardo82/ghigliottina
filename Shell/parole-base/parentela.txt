@@ -1,0 +1,60 @@
+parentela.txt
+"con parentela di sangue"
+"di parentela di sangue"
+"di parentela stretta"
+"grado di parentela"
+"parentela"
+"parentela"
+"parentela"
+#*''l'accordo con il prossimo aumenta al diminuire del grado di 
+*[[consanguineità]]
+*[[parentado]], [[parenti]], [[consanguinei]], [[famiglia]], [[antenati]], [[ascendenti]], [[discendenza]], [[casata]], [[stirpe]], [[ceppo]], [[lignaggio]]
+#* ''se fet de 
+* [[cugnomm]]
+* [[nomm]]
+*  ''<small>(variante [[w
+*italiano
+*lombardo
+M>parentela</E
+M>parens</E
+M>entis</E
+M>acquisita</E
+M>affinità</E
+M>relazione</E
+M>grado di parentela</E
+M>stretta</E
+M>prossima</E
+M>lontana</E
+M>c&#8217;è tra loro una certa p</E
+M>non c&#8217;è tra noi alcuna parentela</E
+M>in linea retta</E
+M>in linea collaterale</E
+M>unilaterale</E
+M>bilaterale</E
+M>naturale</E
+M>civile</E
+M>armi di parentela</E
+M>armi di alleanza</E
+M>consanguinea</E
+M>affine</E
+M>acquisita</E
+M>adottiva</E
+M>unilineare</E
+M>patrilineare</E
+M>matrilineare</E
+M>bilineare</E
+M>sistema di p</E
+M>sistema della terminologia della parentela</E
+M>spirituale</E
+M>cognazione spirituale</E
+M>avere una numerosa</E
+M>una bella p</E
+M>ha invitato alle sue nozze tutta la parentela</E
+M>pescare pare aver p</E
+M>col navicare</E
+M>e conoscere la vertù de l&#8217;erbe pare aver p</E
+M>con l&#8217;agricoltura</E
+M>fra due popoli</E
+M>fra due culture</E
+M>linguistica</E
+M>Sprachverwandtschaft</E

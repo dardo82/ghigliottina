@@ -1,0 +1,114 @@
+strato.txt
+"a doppio strato"
+"coprire con strato protettivo i fiori in terra"
+"doppio strato"
+"primo strato"
+"strato"
+"strato"
+"strato attivo"
+"strato di intonaco"
+"strato di ozono"
+"strato di terra"
+"strato esterno"
+"strato esterno"
+"strato limite"
+"strato limite atmosferico"
+"strato oleoso"
+"strato più basso"
+"strato protettivo per fiori in terra"
+"strato schiumoso"
+*[[sfoglia]], [[patina]], [[superficie]], [[livello]], [[piano]], [[falda]], [[mano]], [[crosta]], [[tappeto]]
+*[[multistrato]], [[stratificare]],  [[stratiforme]]
+M>stratum</E
+M>stratus</E
+M>stern</E
+M>Già il mobile de&#8217; seggi ordine augusto Sovra i tiepidi s. in cerchio volge</E
+M>uno s. denso</E
+M>spesso</E
+M>sottile</E
+M>uno s. d&#8217;intonaco</E
+M>di cemento</E
+M>di gesso steso sopra una parete</E
+M>uno s. di smalto</E
+M>di vernice</E
+M>sopra i mobili c&#8217;era uno s. di polvere e di calcinaccio alto un dito</E
+M>il terreno era coperto da un soffice s. di foglie</E
+M>la strada era resa scivolosa da uno s. di ghiaccio</E
+M>spalmare sul pane uno s. di burro</E
+M>di marmellata</E
+M>ricoprire la torta con uno s. di panna montata</E
+M>gli s. della pelle</E
+M>del terreno</E
+M>lo s. esterno</E
+M>superficiale</E
+M>intermedio</E
+M>interno</E
+M>lo s. più profondo</E
+M>sul dipinto si sono successivamente sovrapposti più strati di colore</E
+M>a strati</E
+M>una torta a s. alternati di pasta frolla e pasta di mandorle</E
+M>piani di stratificazione</E
+M>facce dello strato</E
+M>s. inclinati</E
+M>s. verticali</E
+M>direzione</E
+M>inclinazione</E
+M>immersione di uno s.</E
+M>s. isopici</E
+M>eteropici</E
+M>isomesici</E
+M>eteromesici</E
+M>isotopici</E
+M>eterotopici</E
+M>s. acquifero</E
+M>falda acquifera</E
+M>il sesto s. degli scavi di Hisarlik corrisponde alla Troia di Omero</E
+M>altostrato</E
+M>cirrostrato</E
+M>fractostrato</E
+M>stratocumulo</E
+M>s. ionosferico</E
+M>regione ionosferica</E
+M>spessore</E
+M>altezza dello strato</E
+M>striscia</E
+M>s. elettronico</E
+M>s. di valenza</E
+M>s. semplice</E
+M>strato</E
+M>s. materiale</E
+M>s. elettrico</E
+M>s. magnetico</E
+M>s. piano</E
+M>campo di strato</E
+M>s. piano indefinito elettrostatico</E
+M>Doppio s.</E
+M>doppio s. piano</E
+M>campo di doppio s.</E
+M>s. di sbarramento</E
+M>cromatografia su s. sottile</E
+M>s. limite</E
+M>film</E
+M>sottile</E
+M>s. superficiale</E
+M>s. profondo</E
+M>s. basale</E
+M>germinativo</E
+M>s. corneo</E
+M>s. spinoso</E
+M>s. malpighiano</E
+M>s. lucido</E
+M>s. madreperlaceo</E
+M>i varî s.</E
+M>linguistici</E
+M>dell&#8217;Italia medievale</E
+M>classe</E
+M>gli s. alti</E
+M>medî</E
+M>bassi</E
+M>gli s. privilegiati</E
+M>più politicizzati</E
+M>il bisogno di cultura è sentito in ogni s. sociale</E
+M>s. di osservazioni</E
+M>metodo degli s.</E
+M>giro d&#8217;orizzonte</E

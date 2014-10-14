@@ -1,0 +1,46 @@
+deviazione.txt
+"deviazione"
+"deviazione"
+"deviazione dalla norma"
+"deviazione dalla norma"
+"deviazione estrema"
+"deviazione media"
+"deviazione sessuale"
+"deviazione sessuale"
+"fare un deviazione"
+"fare una deviazione"
+*cambiamento di direzione, [[digressione]], [[deviamento]], [[spostamento]]
+M>deviatio</E
+M>onis</E
+M>durante il viaggio da Roma a Milano</E
+M>ho fatto una d</E
+M>per Perugia</E
+M>di un corso d’acqua</E
+M>di una linea telefonica</E
+M>da una regola di condotta</E
+M>dalla fede</E
+M>da una direttiva politica</E
+M>dall’argomento</E
+M>perversione</E
+M>morale</E
+M>sessuale</E
+M>della spina dorsale</E
+M>deflessione</E
+M>di elettroni ad opera di campi elettrici o magnetici</E
+M>deriva</E
+M>angolo di d</E
+M>in un prisma</E
+M>einsteiniana della luce</E
+M>scarto</E
+M>scostamento</E
+M>tipica</E
+M>standard</E
+M>quadratica media</E
+M>del filo a piombo</E
+M>deflessione</E
+M>di uno strumento di misura</E
+M>oculare</E
+M>fissazione</E
+M>del complemento</E
+M>quadrantale</E
+M>semicircolare</E

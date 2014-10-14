@@ -1,0 +1,4 @@
+acciuga.txt
+"acciuga"
+"acciuga"
+*[[alice]], [[rissino]], [[stecchino]]

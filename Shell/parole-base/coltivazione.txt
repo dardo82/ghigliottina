@@ -1,0 +1,40 @@
+coltivazione.txt
+"(stagione) della coltivazione"
+"coltivazione"
+"coltivazione"
+"coltivazione dei fiori"
+"coltivazione per il mercato"
+"coltivazione su terra in affitto"
+"della coltivazione del tabacco"
+"zona di coltivazione del cotone negli USA"
+"zona di coltivazione di cereali negli USA"
+* [[agricoltura]], [[campo]], [[coltura]], [[seminare]]
+M>la c</E
+M>del fondo</E
+M>la c</E
+M>del grano</E
+M>del tabacco</E
+M>delle barbabietole</E
+M>attendere alla c</E
+M>della terra</E
+M>intensiva</E
+M>estensiva</E
+M>una zona con molte e belle c</E
+M>campi con estese c</E
+M>di carciofi; la grandine ha provocato notevoli danni alle coltivazioni</E
+M>migliorando il metodo</E
+M>della c</E
+M>delle miniere</E
+M>di una salina</E
+M>del petrolio</E
+M>degli idrocarburi</E
+M>a cielo aperto</E
+M>a giorno</E
+M>in sotterraneo</E
+M>delle perle</E
+M>perle coltivate</E
+M>la quale divinità</E
+M>ovvero deità</E
+M>nominarono con ogni c</E
+M>con ogni onore</E
+M>esser da venerare</E

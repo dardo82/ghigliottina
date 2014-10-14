@@ -1,0 +1,64 @@
+costante.txt
+"a temperatura costante"
+"andatura costante"
+"attenzione costante"
+"cambiamento costante"
+"capitale costante"
+"costante"
+"costante"
+"scienze: grandezza costante"
+"costante"
+"costante del gas"
+"costante di dissociazione"
+"costante di integrazione"
+"costante di tempo"
+"costante dielettrica"
+"costante gravitazionale"
+"costante matematica"
+"costante sviluppo"
+"di durata costante"
+"di espansione costante"
+"flusso costante"
+"in approfondimento costante"
+"in aumento costante"
+"in costante crescita"
+"in costante sviluppo"
+"in crescita costante"
+"in misura costante"
+"in modo costante"
+"in movimento costante"
+"numero e, costante e"
+"peso immobile e costante"
+"premio costante"
+"pressione costante"
+"rumore bianco, rumore casuale con energia costante"
+*[[stabile]], [[persistente]], [[fisso]], [[durevole]], [[continuo]]
+*[[costantemente]]
+M>constans</E
+M>antis</E
+M>constare</E
+M>volontà</E
+M>desiderio c</E
+M>un dolore c</E
+M>alla spalla</E
+M>piogge c</E
+M>è un uomo poco c</E
+M>essere c</E
+M>negli affetti</E
+M>nell’amore</E
+M>nello studio</E
+M>nelle idee</E
+M>la temperatura si mantiene c</E
+M>grandezza</E
+M>quantità c</E
+M>forza c</E
+M>universali</E
+M>di Planck</E
+M>variabile</E
+M>le c</E
+M>della filosofia kantiana</E
+M>le c</E
+M>della politica inglese</E
+M>una c</E
+M>della produzione automobilistica italiana è l’eleganza della linea</E
+M>il mare s’è mantenuto costantemente calmo</E

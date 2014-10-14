@@ -1,0 +1,54 @@
+galleria.txt
+"galleria"
+"galleria"
+"galleria"
+"galleria"
+"galleria"
+"galleria a cielo aperto"
+"galleria d'arte"
+"galleria degli orrori"
+"galleria degli uffizi"
+"galleria del vento"
+"galleria di accesso"
+"galleria di ricordi"
+"galleria principale"
+"prima galleria"
+*[[tunnel]], [[traforo]], [[sottopassaggio]] 
+*[[gallerista]]
+*Enciclopedia [http
+M>galerie</E
+M>galilaea</E
+M>Spinola</E
+M>degli Uffizî</E
+M>Barberini</E
+M>d’arte moderna</E
+M>d’arte</E
+M>di ritratti</E
+M>di uomini illustri</E
+M>la G</E
+M>di Milano</E
+M>passeggiare in g</E
+M>fare due passi in g</E
+M>darsi appuntamento in galleria</E
+M>Galleria</E
+M>di testa</E
+M>prima</E
+M>seconda galleria</E
+M>traforo</E
+M>tunnel</E
+M>filtrante</E
+M>di mina</E
+M>aerodinamica</E
+M>del vento</E
+M>subsonica</E
+M>transonica</E
+M>supersonica</E
+M>ipersonica</E
+M>dell’elica</E
+M>idrodinamica</E
+M>tunnel idrodinamico</E
+M>tubo di cavitazione</E
+M>kenarè</E
+M>kenareh</E
+M>di Corti</E
+M>Foresta a galleria</E

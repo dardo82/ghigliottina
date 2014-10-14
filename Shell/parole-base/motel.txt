@@ -1,0 +1,10 @@
+motel.txt
+"motel"
+"motel"
+#*''Sono stanco. Fermiamoci ad un '''motel''', proseguiremo domattina.''
+* Deriva dalla [[contrazione]] [[linguistica]]  delle parole [[inglesi]] ''[[motor]]'', intesa come [[automobile]], e ''[[hotel]]'', [[albergo]]
+M>motel</E
+M>moutèl</E
+M>móutel</E
+M>tor</E
+M>tel</E

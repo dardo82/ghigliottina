@@ -1,0 +1,38 @@
+commissario.txt
+"alto commissario"
+"commissario"
+"commissario"
+"commissario"
+"commissario"
+"commissario dell'esercito"
+"commissario di contea"
+"commissario di polizia"
+"commissario politico"
+"commissario straordinario"
+"commissario tecnico"
+"vice commissario"
+*[[commissione]]
+M>commissarius</E
+M>committ</E
+M>ad acta</E
+M>per gli alloggi</E
+M>di bordo</E
+M>giudiziale</E
+M>governativo</E
+M>del governo</E
+M>prefettizio</E
+M>politico</E
+M>sportivo</E
+M>tecnico</E
+M>unico</E
+M>ittì</E
+M>di Pubblica Sicurezza</E
+M>della Polizia di Stato</E
+M>commissario</E
+M>agli esami</E
+M>d’esami</E
+M>aggregato</E
+M>governativo</E
+M>essere nominata commissaria d’esami</E
+M>del popolo</E
+M>ministro</E

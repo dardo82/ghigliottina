@@ -1,0 +1,22 @@
+alga.txt
+"alga"
+"algae"
+"alga verde"
+"green alga"
+"alga verde blu"
+"blue-green algae"
+*[[italiano]]
+*inglese
+M>alga</E
+M>alghe azzurre</E
+M>brune</E
+M>rosse</E
+M>verdi</E
+M>marina</E
+M>Zostera marina</E
+M>Posidonia oceanica</E
+M>A. di fiume</E
+M>Zannichellia palustris</E
+M>a. assassina</E
+M>a. killer</E
+M>Caulerpa taxifolia</E

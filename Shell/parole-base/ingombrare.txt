@@ -1,0 +1,47 @@
+ingombrare.txt
+"ingombrare"
+M>*comb</E
+M>ros</E
+M>encombrer</E
+M>io ingómbro</E
+M>una gran folla ingombrava l’uscita</E
+M>c’erano dappertutto tavoli e panche che ingombravano i marciapiedi</E
+M>far rimuovere i carri che ingombrano la strada</E
+M>liberami la scrivania di tutte queste cartacce che la ingombrano</E
+M>sono cibi pesanti che ingombrano lo stomaco</E
+M>il vento ha spazzato le nubi che ingombravano il cielo</E
+M>e poi la mensa ingombra Di povere vivande</E
+M>il destrier</E
+M>fa crollar sì il mirto ove è legato</E
+M>Che de le frondi intorno il piè gli ingombra</E
+M>i venditori ambulanti avevano ingombrato il porticato con le loro baracche</E
+M>hai ingombrato tutto il corridoio con le tue valigie</E
+M>la fronte</E
+M>la mente di nozioni superflue</E
+M>un testo di note erudite</E
+M>nozioni confuse che ingombrano la mente</E
+M>un corredo di note erudite che ingombrano lo scritto</E
+M>Mortal bellezza</E
+M>atti e parole m’ànno Tutta ingombrata l’alma</E
+M>la nebbia dell’ignoranza che c’ingombra gli occhi</E
+M>l’intelletto</E
+M>L’anima tua è da viltade offesa</E
+M>La qual molte fiate l’omo ingombra</E
+M>obblivïone ingombra I tuoi pensieri</E
+M>e gli avviluppa il sonno</E
+M>Non ti maravigliar più che d’i cieli Che l’uno a l’altro raggio non ingombra</E
+M>un pacco</E
+M>un baule</E
+M>una cassa ingombrante</E
+M>un tavolo troppo ingombrante</E
+M>un uomo</E
+M>una donna ingombrante</E
+M>impediva tutto il passaggio</E
+M>col suo corpo ingombrante</E
+M>liberarsi di un parente</E
+M>di un marito</E
+M>di una moglie</E
+M>ingombrante</E
+M>un ospite</E
+M>un amico ingombrante</E
+M>un personaggio ingombrante</E

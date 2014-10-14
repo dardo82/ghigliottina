@@ -1,0 +1,31 @@
+rinchiudere.txt
+"rinchiudere"
+"rinchiudere, replace: rinchiudersi"
+"rinchiudere in un recinto"
+"rinchiudere qualcosa"
+"rinchiudere qualcuno"
+"rinchiudere qualcuno"
+M>chiudere</E
+M>rin</E
+M>chiudere</E
+M>i gioielli nella cassaforte</E
+M>i documenti in un cassetto</E
+M>il padre minacciò di rinchiuderlo in collegio</E
+M>i prigionieri furono rinchiusi in un campo di concentramento</E
+M>lo tennero rinchiuso in cantina per sottrarlo alle ricerche</E
+M> sarà per la troppa luce</E
+M> ma sono in via d&#8217;estinzione</E
+M> da r. in un parco protetto</E
+M> i fantasmi del paese mio</E
+M>riuscirono a r</E
+M>la tigre in una gabbia</E
+M>i pochi difensori superstiti si rinchiusero nella rocca</E
+M>quando studia si rinchiude in camera sua</E
+M>disgustato del mondo</E
+M>si è rinchiuso in un monastero</E
+M>aria rinchiusa</E
+M>figure r</E
+M>un rinchiuso di tavole</E
+M>aria</E
+M>puzzo di rinchiuso</E
+M>le rinchiuse</E

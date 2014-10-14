@@ -1,0 +1,34 @@
+compasso.txt
+"compasso"
+#*'''''compasso''' di precisione, '''compasso''' tracciatore (falegnameria, costruzioni meccaniche)''
+*[[compassare]]
+M>apertura</E
+M>a punte fisse</E
+M>universale</E
+M>a punta amovibile</E
+M>balaustrino</E
+M>problemi geometrici risolubili con riga e compasso</E
+M>geometria del c</E
+M>a verga</E
+M>in asta</E
+M>calibro a corsoio</E
+M>per interni</E
+M>per esterni</E
+M>per spessori</E
+M>di riduzione</E
+M>di proporzione</E
+M>geometrico e militare</E
+M>per tracciare</E
+M>di torsione</E
+M>io trovo in me più occhi e senso che c</E
+M>e critica</E
+M>lavorare col c</E
+M>in mano</E
+M>spendere col c</E
+M>scrivere</E
+M>parlare col c</E
+M>compass</E
+M>fecevi por suso una coltre lavorata a certi c</E
+M>di perle grossissime e di carissime pietre preziose</E
+M>Purpurea seta la copria</E
+M>che d’oro E di gran perle avea compassi altieri</E

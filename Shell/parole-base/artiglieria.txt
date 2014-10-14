@@ -1,0 +1,57 @@
+artiglieria.txt
+"artiglieria"
+"artiglieria"
+"artiglieria antiaerea"
+"artiglieria antiaerea"
+"artiglieria da campo"
+"artiglieria ippotrainata"
+"artiglieria leggera"
+"artiglieria pesante"
+"contraerea, artiglieria antiaerea"
+"sergente di artiglieria"
+*italiano
+M>artillerie</E
+M>artillier</E
+M>pezzo d’a</E
+M>da campagna</E
+M>da montagna</E
+M>pesante</E
+M>semovente</E
+M>missili</E
+M>contraerea</E
+M>controcarri</E
+M>il fuoco dell’artiglieria</E
+M>delle artigliere</E
+M>entrarono in azione le a</E
+M>pesanti</E
+M>scuola di artiglieria</E
+M>soldato</E
+M>tenente di artiglieria</E
+"artiglieria"
+"artiglieria"
+"artiglieria antiaerea"
+"artiglieria antiaerea"
+"artiglieria da campo"
+"artiglieria ippotrainata"
+"artiglieria leggera"
+"artiglieria pesante"
+"contraerea, artiglieria antiaerea"
+"sergente di artiglieria"
+*italiano
+M>artillerie</E
+M>artillier</E
+M>pezzo d’a</E
+M>da campagna</E
+M>da montagna</E
+M>pesante</E
+M>semovente</E
+M>missili</E
+M>contraerea</E
+M>controcarri</E
+M>il fuoco dell’artiglieria</E
+M>delle artigliere</E
+M>entrarono in azione le a</E
+M>pesanti</E
+M>scuola di artiglieria</E
+M>soldato</E
+M>tenente di artiglieria</E

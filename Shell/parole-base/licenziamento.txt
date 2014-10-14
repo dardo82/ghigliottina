@@ -1,0 +1,19 @@
+licenziamento.txt
+"avviso di licenziamento"
+"comunicazione di licenziamento"
+"dare avviso di licenziamento"
+"licenziamento"
+"licenziamento per giusta causa"
+"licenziare, licenziamento"
+*mandar via, [[cacciare]], [[scacciare]], [[allontanare]], [[sollevare]], [[esonerare]], [[espellere]], [[destituire]], [[dispensare]]
+*[[promuovere]], [[diplomare]], [[laureare]], [[addottorare]]
+*[[salutare]], [[congedare]], [[accomiatare]]
+*[[assumere]], [[nominare]], [[ammettere]], [[reclutare]], [[ingaggiare]]
+*[[bocciare]], [[respingere]], [[fermare]]
+*[[licenziarsi]]
+M>la crisi economica ha provocato il l</E
+M>di molti operai</E
+M>decidere il l</E
+M>di alcuni impiegati</E
+M>per giusta causa</E
+M>in tronco</E

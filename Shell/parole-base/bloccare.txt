@@ -1,0 +1,63 @@
+bloccare.txt
+"bastone per bloccare ruote"
+"bloccare"
+"bloccare"
+"bloccare"
+"bloccare"
+"bloccare contro la parete"
+"bloccare dentro"
+"bloccare fuori"
+"bloccare un pagamento"
+"bloccare, ostruire, occludere"
+"bloccare, reprimere, frenare"
+"incepparsi, bloccare, replace: incepparsi, bloccarsi"
+"non bloccare"
+"sifone per bloccare l'uscita del grasso dal tubo di scappamento"
+M>bloquer</E
+M>blocus</E
+M>io blòcco</E
+M>tu blòcchi</E
+M>una città</E
+M>un porto</E
+M>esser bloccato</E
+M>rimanere bloccato</E
+M>il nemico era bloccato nella fortezza</E
+M>una frana aveva bloccato la strada</E
+M>restare</E
+M>rimanere</E
+M>il paese era bloccato dalla neve</E
+M>sono rimasto bloccato in casa tutta la sera</E
+M>restare bloccato dal traffico</E
+M>nel traffico</E
+M>in mezzo al traffico</E
+M>i freni</E
+M>il motore si è bloccato</E
+M>lo sterzo</E
+M>il volante</E
+M>il traffico</E
+M>l’avversario</E
+M>bloccare</E
+M>i prezzi</E
+M>gli affitti</E
+M>i licenziamenti</E
+M>le assunzioni</E
+M>gli sfratti</E
+M>le vendite</E
+M>i crediti</E
+M>un deposito bancario</E
+M>inibire</E
+M>lo blocca la sua eccessiva timidezza</E
+M>quel suo sguardo indagatore mi blocca</E
+M>e non so più cosa dire</E
+M>agli esami si è bloccato</E
+M>e non ha aperto bocca</E
+M>se una ragazza gli parla</E
+M>si blocca subito</E
+M>blocco</E
+M>prezzi bloccati</E
+M>un affitto bloccato</E
+M>beni bloccati</E
+M>depositi</E
+M>bloccati</E
+M>essere</E
+M>sentirsi bloccato</E

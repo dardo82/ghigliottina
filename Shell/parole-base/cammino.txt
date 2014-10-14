@@ -1,0 +1,14 @@
+cammino.txt
+"cammino"
+"cammino"
+"cammino"
+"cammino"
+"cammino"
+"cammino"
+"cammino libero medio"
+"lungo cammino"
+"mettersi in cammino"
+#*''Da Roma a Santiago c'è da fare un lungo '''cammino'''''
+*[[percorso]], [[strada]]
+*[[incamminare]]
+*''Buon pane e buon vino, aiutano a far cammino''

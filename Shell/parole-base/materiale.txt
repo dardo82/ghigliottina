@@ -1,0 +1,361 @@
+materiale.txt
+"bene materiale"
+"corpo materiale"
+"cosa materiale"
+"cultura materiale"
+"danno materiale"
+"la materia, il materiale"
+"luogo dove accatastare materiale vecchio e in disuso"
+"materiale"
+"materiale"
+"materiale"
+"materiale"
+"materiale"
+"materiale a magazzino"
+"materiale biografico"
+"materiale ceramico"
+"materiale combustibile"
+"materiale da costruzione"
+"materiale da pavimentazione"
+"materiale da stampa"
+"materiale di approfondimento"
+"materiale di cancelleria"
+"materiale di consumo"
+"materiale di copertura"
+"materiale di prova"
+"materiale di recupero"
+"materiale di repertorio"
+"materiale di ricerca"
+"materiale di riferimento"
+"materiale di risulta"
+"materiale didattico"
+"materiale divulgativo"
+"materiale erotico"
+"materiale erotico"
+"materiale espositivo"
+"materiale fissile"
+"materiale fissile"
+"materiale giornalistico"
+"materiale grezzo"
+"materiale in conto lavorazione"
+"materiale in giacenza"
+"materiale infiammabile"
+"materiale infiammabile"
+"materiale informatico"
+"materiale informativo"
+"materiale isolante"
+"materiale morbido per rivestimento"
+"materiale per lastricare"
+"materiale per scrivere"
+"materiale pornografico"
+"materiale pornografico"
+"materiale promozionale"
+"materiale pubblicitario"
+"materiale pubblicitario"
+"materiale refrattario"
+"materiale scolastico"
+"materiale sintetico"
+"materiale stampato"
+"materiale vecchi e in disuso"
+"migliorare un materiale"
+"mondo materiale"
+"parte materiale"
+"rivestito da materiale morbido"
+"rottura materiale"
+"sicurezza materiale"
+"sicurezza materiale"
+#* '''scienza dei materiali'''
+#*'''ingegneria dei materiali'''
+*[[corporeo]], [[concreto]], [[fisico]], [[visibile]], [[tangibile]]
+* [[materia]], [[sostanza]], [[prodotto]], [[composto]]
+*[[notizie]], [[informazioni]], [[documentazione]]
+*[[spirituale]], [[ideale]], [[incorporeo]], [[astratto]]
+*[[immateriale]]
+*[[materia]], [[materialismo]], [[materialità]], [[materializzare]], [[materializzazione]]
+*Enciclopedia [http
+M>materialis</E
+M>materia</E
+M>una realtà m</E
+M>beni m</E
+M>beni immateriali</E
+M>bibliografia m</E
+M>Cultura m</E
+M>corpo m</E
+M>punto m</E
+M>massa m</E
+M>massa inerziale</E
+M>massa gravitazionale</E
+M>morale</E
+M>spirituale</E
+M>intellettuale</E
+M>forza m</E
+M>forza bruta</E
+M>forza morale</E
+M>lavoro m</E
+M>e intellettuale</E
+M>soccorso</E
+M>aiuto</E
+M>conforto morale e m</E
+M>benessere</E
+M>felicità materiale</E
+M>errore m</E
+M>essere nell’impossibilità m</E
+M>non avere il tempo m</E
+M>di fare qualche cosa</E
+M>formale</E
+M>verità materiale</E
+M>verità formale</E
+M>spirituale</E
+M>ideale</E
+M>teoria m</E
+M>del diritto</E
+M>teoria formale del diritto</E
+M>costituzione m</E
+M>reato m</E
+M>io sono uomo di queste cose assai m</E
+M>e rozzo</E
+M>come sei m</E
+M>materialàccio</E
+M>materialóne</E
+M>lo stava guardando con un’attenzione estatica</E
+M>come un materialone sta sulla piazza guardando al giocator di bussolotti</E
+M>materia</E
+M>materia</E
+M>materiale</E
+M>materiali di deposito</E
+M>materiali di scarico</E
+M>materiali di rifiuto</E
+M>materiale</E
+M>avanzati</E
+M>tradizionali</E
+M>strategici</E
+M>m. compositi</E
+M>metallici</E
+M>polimerici</E
+M>vetrosi</E
+M>ceramici</E
+M>sintetici</E
+M>cementizî</E
+M>legante</E
+M>inerti</E
+M>malta</E
+M>calcestruzzo</E
+M>luminescenti</E
+M>fosfòri</E
+M>magnetici</E
+M>isolanti</E
+M>semiconduttori</E
+M>sensibili</E
+M>per l’elettronica</E
+M>per le applicazioni biomediche</E
+M>per l’industria aerospaziale</E
+M>per l’utilizzazione dell’energia</E
+M>per l’edilizia</E
+M>da costruzione</E
+M>strutturali</E
+M>scienza dei m</E
+M>ferroviario</E
+M>rotabile</E
+M>scolastico</E
+M>educativo</E
+M>chirurgico</E
+M>ospedaliero</E
+M>il m</E
+M>umano</E
+M>quello che più conta è il m</E
+M>umano</E
+M>raccogliere il m</E
+M>per un’opera monografica</E
+M>per una serie di articoli</E
+M>per un film documentario</E
+M>per una trasmissione culturale</E
+M> mandare il m. per posta</E
+M>elettronica</E
+M> per corriere</E
+M>assistere materialmente un ammalato</E
+M>la persona che ha compiuto materialmente il delitto</E
+M>aiutare materialmente una persona</E
+M>dipendo materialmente da mio padre</E
+M>oggi mi è materialmente impossibile venire da te</E
+M>non si può vivere solo materialmente</E
+M>come gli animali</E
+"bene materiale"
+"corpo materiale"
+"cosa materiale"
+"cultura materiale"
+"danno materiale"
+"la materia, il materiale"
+"luogo dove accatastare materiale vecchio e in disuso"
+"materiale"
+"materiale"
+"materiale"
+"materiale"
+"materiale"
+"materiale a magazzino"
+"materiale biografico"
+"materiale ceramico"
+"materiale combustibile"
+"materiale da costruzione"
+"materiale da pavimentazione"
+"materiale da stampa"
+"materiale di approfondimento"
+"materiale di cancelleria"
+"materiale di consumo"
+"materiale di copertura"
+"materiale di prova"
+"materiale di recupero"
+"materiale di repertorio"
+"materiale di ricerca"
+"materiale di riferimento"
+"materiale di risulta"
+"materiale didattico"
+"materiale divulgativo"
+"materiale erotico"
+"materiale erotico"
+"materiale espositivo"
+"materiale fissile"
+"materiale fissile"
+"materiale giornalistico"
+"materiale grezzo"
+"materiale in conto lavorazione"
+"materiale in giacenza"
+"materiale infiammabile"
+"materiale infiammabile"
+"materiale informatico"
+"materiale informativo"
+"materiale isolante"
+"materiale morbido per rivestimento"
+"materiale per lastricare"
+"materiale per scrivere"
+"materiale pornografico"
+"materiale pornografico"
+"materiale promozionale"
+"materiale pubblicitario"
+"materiale pubblicitario"
+"materiale refrattario"
+"materiale scolastico"
+"materiale sintetico"
+"materiale stampato"
+"materiale vecchi e in disuso"
+"migliorare un materiale"
+"mondo materiale"
+"parte materiale"
+"rivestito da materiale morbido"
+"rottura materiale"
+"sicurezza materiale"
+"sicurezza materiale"
+#* '''scienza dei materiali'''
+#*'''ingegneria dei materiali'''
+*[[corporeo]], [[concreto]], [[fisico]], [[visibile]], [[tangibile]]
+* [[materia]], [[sostanza]], [[prodotto]], [[composto]]
+*[[notizie]], [[informazioni]], [[documentazione]]
+*[[spirituale]], [[ideale]], [[incorporeo]], [[astratto]]
+*[[immateriale]]
+*[[materia]], [[materialismo]], [[materialità]], [[materializzare]], [[materializzazione]]
+*Enciclopedia [http
+M>materialis</E
+M>materia</E
+M>una realtà m</E
+M>beni m</E
+M>beni immateriali</E
+M>bibliografia m</E
+M>Cultura m</E
+M>corpo m</E
+M>punto m</E
+M>massa m</E
+M>massa inerziale</E
+M>massa gravitazionale</E
+M>morale</E
+M>spirituale</E
+M>intellettuale</E
+M>forza m</E
+M>forza bruta</E
+M>forza morale</E
+M>lavoro m</E
+M>e intellettuale</E
+M>soccorso</E
+M>aiuto</E
+M>conforto morale e m</E
+M>benessere</E
+M>felicità materiale</E
+M>errore m</E
+M>essere nell’impossibilità m</E
+M>non avere il tempo m</E
+M>di fare qualche cosa</E
+M>formale</E
+M>verità materiale</E
+M>verità formale</E
+M>spirituale</E
+M>ideale</E
+M>teoria m</E
+M>del diritto</E
+M>teoria formale del diritto</E
+M>costituzione m</E
+M>reato m</E
+M>io sono uomo di queste cose assai m</E
+M>e rozzo</E
+M>come sei m</E
+M>materialàccio</E
+M>materialóne</E
+M>lo stava guardando con un’attenzione estatica</E
+M>come un materialone sta sulla piazza guardando al giocator di bussolotti</E
+M>materia</E
+M>materia</E
+M>materiale</E
+M>materiali di deposito</E
+M>materiali di scarico</E
+M>materiali di rifiuto</E
+M>materiale</E
+M>avanzati</E
+M>tradizionali</E
+M>strategici</E
+M>m. compositi</E
+M>metallici</E
+M>polimerici</E
+M>vetrosi</E
+M>ceramici</E
+M>sintetici</E
+M>cementizî</E
+M>legante</E
+M>inerti</E
+M>malta</E
+M>calcestruzzo</E
+M>luminescenti</E
+M>fosfòri</E
+M>magnetici</E
+M>isolanti</E
+M>semiconduttori</E
+M>sensibili</E
+M>per l’elettronica</E
+M>per le applicazioni biomediche</E
+M>per l’industria aerospaziale</E
+M>per l’utilizzazione dell’energia</E
+M>per l’edilizia</E
+M>da costruzione</E
+M>strutturali</E
+M>scienza dei m</E
+M>ferroviario</E
+M>rotabile</E
+M>scolastico</E
+M>educativo</E
+M>chirurgico</E
+M>ospedaliero</E
+M>il m</E
+M>umano</E
+M>quello che più conta è il m</E
+M>umano</E
+M>raccogliere il m</E
+M>per un’opera monografica</E
+M>per una serie di articoli</E
+M>per un film documentario</E
+M>per una trasmissione culturale</E
+M> mandare il m. per posta</E
+M>elettronica</E
+M> per corriere</E
+M>assistere materialmente un ammalato</E
+M>la persona che ha compiuto materialmente il delitto</E
+M>aiutare materialmente una persona</E
+M>dipendo materialmente da mio padre</E
+M>oggi mi è materialmente impossibile venire da te</E
+M>non si può vivere solo materialmente</E
+M>come gli animali</E

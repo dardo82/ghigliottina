@@ -1,0 +1,31 @@
+infarto.txt
+"infarto"
+"infarto miocardico"
+"infarto; colpo apoplettico"
+* [[colpo]], [[accidente]], [[coccolone]]
+*[[antinfarto]]
+*[[infartuato]]
+*italiano
+*spagnolo
+M>infartus</E
+M>infarcire</E
+M>rosso</E
+M>emorragico</E
+M>bianco</E
+M>ischemico</E
+M>della milza</E
+M>del polmone</E
+M>del rene</E
+M>del miocardio</E
+M>cardiaco</E
+M>infarto</E
+M>da infarto</E
+M>una bionda da i</E
+M>è stata una partita</E
+M>una gara da infarto</E
+"name": "Infarto miocardico acuto"
+"name": "Infarto"
+"name": "Infarto Music"
+"name": "L'infarto \"originale\""
+"name": "L'infarto \"originale\""
+"name": "Infarto cerebrale"

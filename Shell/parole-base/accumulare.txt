@@ -1,0 +1,30 @@
+accumulare.txt
+"accumulare"
+"accumulare"
+"accumulare denaro"
+"accumulare denaro, ammucchiare soldi, farsi un gruzzolo"
+"accumulare eccessivamente"
+"accumulare esperienza"
+"accumulare troppe merci"
+"accumulare, incrementare, replace: accumulare, incrementarsi"
+*[[ammassare]], [[ammucchiare]], [[raccogliere]],raccogliere in [[quantità]], [[immagazzinare]], [[accatastare]], [[ammonticchiare]], [[affastellare]], [[agglomerare]]
+*[[spargere]], [[disperdere]], [[sparpagliare]]
+*[[accumularsi]]
+M>accumulare</E
+M>cum</E
+M>lus</E
+M>io accùmulo</E
+M>grano</E
+M>soldi</E
+M>ricchezze</E
+M>quel vecchio padre ha accumulato e i figli sperperano</E
+M>pretesti</E
+M>ragioni</E
+M>spropositi</E
+M>si accumulavano sul suo tavolo le pratiche da definire</E
+M>i registri da verificare</E
+M>mi si è accumulato tanto lavoro che non so come fare a liberarmene</E
+M>quante amarezze si erano accumulate nel suo animo in tutti quegli anni!</E
+M>si accumulavano su di lui i sospetti</E
+M>custodire gelosamente le ricchezze accumulate</E
+M>sbrigare un po’ del lavoro accumulato</E

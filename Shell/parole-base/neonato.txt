@@ -1,0 +1,30 @@
+neonato.txt
+"neonato"
+"neonato"
+"neonato"
+"neonato cianotico"
+"neonato prematuro"
+"neonato prematuro"
+"occhi di neonato"
+#* '' gli uccellini neonati''
+*''(nato da poco)'' 
+*''(bambino)'' [[bebè]], [[lattante]], [[poppante]]
+*''(nato da poco)'' [[moribondo]] [[vecchio]], [[passato]], [[fatiscente]]
+M>neo-</E
+M>nato</E
+M>gemelli n</E
+M>gattini n</E
+M>la n</E
+M>repubblica</E
+M>il n</E
+M>partito</E
+M>festeggiare con qualche bottiglia di buon vino vecchio la n</E
+M>associazione</E
+M>il vagito</E
+M>il pianto del n</E
+M>un fiocco rosa per la n</E
+M>l’igiene del n</E
+M>un completino per neonati</E
+M>allattare un n</E
+M>immaturo</E
+M>prematuro</E

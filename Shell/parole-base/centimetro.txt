@@ -1,0 +1,13 @@
+centimetro.txt
+"centimetro"
+"centimetro"
+"centimetro cubo"
+"centimetro quadro"
+"centimetro quadro, centimetro quadrato"
+*[[millimetro]], [[decimetro]]
+*''al centimetro''
+M>centi</E
+M>metro</E
+M>centimètre</E
+M>d’induttanza</E
+M>metro da sarti</E

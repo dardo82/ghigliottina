@@ -1,0 +1,247 @@
+termine.txt
+"(bambino) nato al termine della gestazione"
+"a breve termine"
+"a breve termine"
+"a lungo termine"
+"al termine"
+"assicurazione a termine"
+"breve termine"
+"buono del Tesoro a lungo termine"
+"cambiale a lungo termine"
+"completato, portato a termine"
+"comprare a termine"
+"condurre a termine"
+"contratto a termine"
+"effetti a lungo termine"
+"futures; contratti per consegne a termine"
+"il termine ultimo per"
+"interesse a lungo termine"
+"memoria a breve termine"
+"memoria a lungo termine"
+"obbligazione a lungo termine"
+"obbligazioni a lungo termine"
+"polizza a termine"
+"polizza a termine"
+"portare a termine"
+"portare a termine"
+"portare a termine"
+"portare a termine"
+"portare a termine"
+"portare a termine"
+"portare a termine"
+"portare a termine"
+"portare a termine"
+"portare a termine (un dovere)"
+"portare a termine un mandato"
+"portato a termine"
+"portato a termine"
+"portato a termine"
+"prestito a breve termine"
+"prestito a lungo termine"
+"prestito pronti contro termine"
+"progettazione a lungo termine"
+"programma a lungo termine"
+"termine"
+"termine"
+"termine"
+"termine"
+"termine"
+"termine"
+"termine"
+"termine"
+"termine, termini"
+"termine del giorno"
+"termine della vita"
+"termine di maturazione"
+"termine di pagamento"
+"termine di paragone"
+"termine fissato"
+"termine meccanico"
+"termine medio"
+"termine nuovo"
+"termine offensivo inglese per gli africani e gli asiatici"
+"termine offensivo per messicani"
+"termine offensivo per persone di origine italiana"
+"termine offensivo per un bianco"
+"termine principale"
+"termine tecnico"
+"termine ultimo"
+"termine volgare per masturbazione; sega"
+"termine; punto finale"
+"titoli a lungo termine"
+"titolo a breve termine"
+"volgere al termine"
+*''(di strada, sentiero)'' punto estremo, [[estremità]], [[fine]], [[capo]]
+*''(con significato temporale)''[[scadenza]]
+*''(della legge, dell’educazione)'' [[limiti]]
+*punto di arrivo, [[punto]], [[traguardo]], [[obiettivo]], [[mira]], [[meta]], [[scopo]], [[finalità]], [[grado]], [[condizione]], [[carattere]], [[requisito]]
+* ''(di opera)'' [[finale]], [[conclusione]], [[completamento]], [[compimento]], [[epilogo]]
+*''(di attività, trattativa)'' risultato finale, [[risultato]], [[esito]], [[sbocco]], [[frutto]]
+*[[parola]], [[vocabolo]], [[voce]], [[espressione]], [[locuzione]]
+M>term</E
+M>nus</E
+M>confine</E
+M>presso del Carnaro Ch’Italia chiude e suoi t. bagna</E
+M>né solamente dentro a’ termini di Cicilia stette la sua fama racchiusa</E
+M>gli parve conveniente di propagare i t. del creato</E
+M>infra li t. d’una piccola cella</E
+M>apposizione di termini</E
+M>termini</E
+M>la consegna potrà essere fatta entro questi due t.</E
+M>mantenersi nei t. del tempo assegnato</E
+M>stabilire i t. di validità di un documento</E
+M>t. iniziale</E
+M>t. finale</E
+M>fissare</E
+M>anticipare</E
+M> prorogare il t. per la presentazione delle domande</E
+M>il t. per presentare ricorso è già scaduto</E
+M>presentarsi</E
+M>pagare</E
+M>notificare un atto entro</E
+M>oltre</E
+M>il t. stabilito</E
+M>t. di resa</E
+M>t. essenziale</E
+M>t. perentorî</E
+M>t. ordinatorî</E
+M>t. processuali</E
+M>t. legali</E
+M>t. giudiziali</E
+M>chiedere</E
+M>concedere i t. per la difesa</E
+M>i t. a difesa</E
+M>scadenza</E
+M>t. brucianti</E
+M>termini di una rendita</E
+M>rate</E
+M>a termine</E
+M>contratto a t.</E
+M>contratti a t.</E
+M>operazioni a t.</E
+M>contratti</E
+M>mercati</E
+M> a t. sulle merci</E
+M>pronti contro termine</E
+M>a breve</E
+M>a medio</E
+M>a lungo t.</E
+M>tossicità a medio</E
+M>a lungo t.</E
+M>tossicità acuta</E
+M>t. di preavviso</E
+M>t. di utilizzo di un credito</E
+M>se pur son così fatti i parentadi di Cicilia</E
+M> che in sì piccol t. si dimentichino</E
+M>t. pasquale</E
+M>fine</E
+M>al t. della strada</E
+M>del cammino</E
+M>il t. di una conduttura</E
+M>di una linea ferroviaria</E
+M>al t. del discorso</E
+M>della lezione</E
+M>dello spettacolo</E
+M>della partita</E
+M>siamo già al t. delle vacanze</E
+M>non sono ancora al t. delle mie fatiche</E
+M>era ormai giunto al t. dei suoi giorni</E
+M>lo cammin corto Di quella vita ch’al t. vola</E
+M>parto a termine</E
+M>mettere</E
+M>porre t. a qualche cosa</E
+M>condurre</E
+M>portare</E
+M>a t. qualche cosa</E
+M>volgere al t.</E
+M>avere t.</E
+M>quando avrà t. questo tormento?</E
+M>dolori</E
+M>gioie senza t.</E
+M>volendo conoscere la virtù d’uno spirito italiano</E
+M> era necessario che la Italia si riducessi nel t. che ell’è di presente ... et avessi sopportato d’ogni sorte ruina</E
+M>l’operazione è ormai a buon t.</E
+M>in termine che ...</E
+M>oggi per opera mia le cose sono ridotte in termine che chiunque ha intelletto ti pregia e loda</E
+M>è questo il t. dei miei desiderî</E
+M>Vergine madre ...</E
+M> Termine fisso d’etterno consiglio</E
+M>complemento di termine</E
+M>a chi?</E
+M>a che cosa?</E
+M>al direttore</E
+M>a me</E
+M>ai lavori</E
+M> ti</E
+M> gli</E
+M>gli</E
+M>cui</E
+M>lui</E
+M>loro</E
+M>rimanere nei t.</E
+M> uscire dai t.</E
+M>oltrepassare i t.</E
+M>non vorrei andare oltre i t. del mio assunto</E
+M>la questione dovrà essere risolta nei t. di una trattativa diplomatica</E
+M>vorrei conoscere esattamente i t. della questione</E
+M>la faccenda rimane per ora in questi t.</E
+M>ci siamo lasciati in buoni t.</E
+M>D’essersi a questi t. ridotto Per il giuoco del lotto</E
+M>terminus</E
+M>contraddizione in termini</E
+M>termini del sillogismo</E
+M>t. medio</E
+M>t. estremi</E
+M>estremi</E
+M>termini di paragone</E
+M>primo</E
+M> secondo t. di paragone</E
+M>termini di una proposizione</E
+M>t. di un linguaggio formale</E
+M>termini di un’addizione</E
+M>di una moltiplicazione</E
+M>di una frazione</E
+M>termine</E
+M>frazione ridotta ai minimi t.</E
+M>ridurre ai minimi t.</E
+M>t. di una successione</E
+M>t. di una proporzione</E
+M>t. di un polinomio</E
+M>t. noto di un polinomio</E
+M>t. simili di un polinomio</E
+M>riduzione dei t. simili di un polimonio</E
+M>t. della serie alifatica</E
+M>t. del gruppo dei feldspati monoclini</E
+M>t. spettrale</E
+M>parola</E
+M>t. scientifici</E
+M>filosofici</E
+M>tecnici</E
+M>i t. della medicina</E
+M>della critica d’arte</E
+M>usare un t. proprio</E
+M>improprio</E
+M>esatto</E
+M>inesatto</E
+M>parola</E
+M>alcuno è tenuto liberale</E
+M> alcuno misero</E
+M> usando uno t. toscano</E
+M>in altri t.</E
+M>a rigor di termini</E
+M>rispondere in t. cortesi</E
+M>moderare i t.</E
+M>a’ termini</E
+M>a termini</E
+M>termini del contratto</E
+M>del progetto</E
+M>a’ termini di legge</E
+M>a’ termini della legge</E
+M>mezzo t.</E
+M>mezzotermine</E
+M>usare mezzi t.</E
+M> rispondere con mezzi t.</E
+M>senza mezzi t.</E
+M>mezzi t.</E
+M>ricorrere a mezzi t.</E
+M>abbandonare i mezzi termini</E

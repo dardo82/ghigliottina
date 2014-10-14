@@ -1,0 +1,65 @@
+pranzo.txt
+"andare a pranzo, andare a mangiare, uscire per pranzo"
+"arredamento per sala da pranzo"
+"carne per il pranzo"
+"cosa c'è per pranzo?"
+"ora del pranzo"
+"ora di pranzo"
+"pausa pranzo"
+"pranzo"
+"pranzo"
+"pranzo"
+"ora di pranzo"
+"pranzo al sacco"
+"pranzo alla buona"
+"pranzo di nozze"
+"pranzo in piedi"
+"pranzo leggero"
+"sala da pranzo"
+"sala da pranzo"
+"sala da pranzo"
+"sedia da pranzo"
+"set di tavolo e sedie da pranzo"
+"angolo pranzo o cena nella cucina o vicino"
+"tavolo da pranzo"
+"tavolo da pranzo"
+"tavolo da pranzo"
+*[[seconda colazione]]
+* [[dopopranzo]], [[postprandiale]], [[pranzare]], [[portapranzi]]
+M>prandium</E
+M>cena</E
+M>andare a p</E
+M>invitare a p</E
+M>mi ha offerto il p</E
+M>il p. della domenica</E
+M>ci vediamo a p</E
+M> pranzi di famiglia con la tovaglia del corredo e ghiottonerie da festa</E
+M>stanza</E
+M>sala da p</E
+M>tavola da p</E
+M>colazione</E
+M>pranzo</E
+M>dare</E
+M>offrire</E
+M>organizzare un p</E
+M>un p</E
+M>importante</E
+M>di gala</E
+M>di cerimonia</E
+M>di beneficenza</E
+M>di fidanzamento</E
+M>di nozze</E
+M>d&#8217;onore</E
+M>ufficiale</E
+M>precedenze</E
+M>a buffet</E
+M>in piedi</E
+M>un p</E
+M>ricco</E
+M>abbondante</E
+M>modesto</E
+M>frugale</E
+M>fare un lauto pranzo</E
+M>è l&#8217;ora di p</E
+M>ho un appuntamento prima di p</E
+M>ci vediamo dopo p</E

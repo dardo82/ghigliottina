@@ -1,0 +1,11 @@
+mobilio.txt
+"arredamento, mobilio"
+"mobilio, mobilia"
+"mobilio; oggetti di casa"
+"mobilio; oggetti di casa"
+M>mobilia</E
+M>mobilia</E
+M>spedire il m</E
+M>per ferrovia</E
+M>intere sale erano ingombre dal pavimento al soffitto di mobiglio accatastato</E
+M>si percorrevano sale di architettura magnifica e di m. stomachevole</E

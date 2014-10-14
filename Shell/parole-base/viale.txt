@@ -1,0 +1,14 @@
+viale.txt
+"in fondo al viale, giù per il viale"
+"viale"
+"viale alberato"
+*[[vialetto]], [[via]]
+M>controviali</E
+M>il v. della stazione</E
+M>era una città immensa</E
+M> chiara</E
+M> con grandi v. alberati e splendidi edifici fine secolo</E
+M>passeggiare lungo i v.</E
+M>il V. dei Colli</E
+M>il v. del tramonto</E
+M>i v. di Villa Borghese</E

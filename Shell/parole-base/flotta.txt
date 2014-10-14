@@ -1,0 +1,9 @@
+flotta.txt
+"assicurazione della flotta"
+"flotta"
+"flotta (militare)"
+"flotta aerea"
+"flotta da pesca"
+"flotta mercantile"
+"la Flotta"
+#*''la flotta inglese dominava i mari''

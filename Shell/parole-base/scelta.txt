@@ -1,0 +1,117 @@
+scelta.txt
+"a propria scelta"
+"a scelta"
+"a scelta multipla"
+"a tua scelta"
+"a tua scelta"
+"assioma della scelta"
+"carne di prima scelta"
+"criteri di scelta"
+"fare la propria scelta"
+"fare una scelta"
+"fare una scelta"
+"fare una scelta"
+"la scelta è caduta su"
+"la scelta è stata fatta tenendo in considerazione..."
+"la scelta ovvia"
+"libera scelta"
+"non avere altra scelta che"
+"non avere nessuna scelta"
+"non avere scelta"
+"per libera scelta"
+"per scelta"
+"per scelta"
+"prima scelta"
+"prima scelta"
+"propria scelta"
+"scelta"
+"scelta"
+"scelta della difesa"
+"scelta delle parole"
+"scelta delle parole"
+"scelta di"
+"scelta di campo"
+"scelta di parole"
+"scelta forzata"
+"scelta migliore"
+"scelta migliore"
+"scelta obbligata, scelta forzata, falsa scelta"
+"scelta ovvia"
+"scelta particolare"
+"scelta personale"
+"scelta possibile"
+"scelta scrupolosa"
+"seconda scelta"
+"unica scelta"
+*[[elezione]], [[preferenza]], [[selezione]], [[assortimento]]
+*[[scegliere]], [[sceltezza]], [[scelto]]
+M>scelto</E
+M>scegliere</E
+M>fare una sc.</E
+M>fare la sc.</E
+M>la propria sc.</E
+M>fare la sc. della cravatta</E
+M>della nuova auto</E
+M>del velluto per rivestire il divano</E
+M>di un quadro per il salotto</E
+M>delle piastrelle per la cucina</E
+M>la riunione dei docenti per la sc. dei libri di testo</E
+M>la sc. dei vini</E
+M>la sc. di un cane da caccia</E
+M>la sc. dei compagni di gioco</E
+M>la sc. del terreno su cui costruire la villa</E
+M>sc. del campo</E
+M>sc. del tempo</E
+M>la sc. del partito per cui votare</E
+M>la sc. della scuola per i figli</E
+M>della facoltà a cui iscriversi</E
+M>la sc. del mestiere</E
+M>della professione</E
+M>fare una sc. di vita</E
+M>viene sempre il momento in cui si deve fare una sc.</E
+M>la propria scelta</E
+M>fare una sc. convinta</E
+M>una sc. responsabile</E
+M>una sc. individuale</E
+M>una sc. definitiva</E
+M>aver fatto una buona</E
+M>una cattiva sc.</E
+M>una sc. giusta</E
+M>sbagliata</E
+M>una sc. fortunata</E
+M>a scelta</E
+M>prendere una carta</E
+M>un numero a sc.</E
+M>per il vincitore ci sono varî premî a sc.</E
+M>i possessori del biglietto avranno diritto a un omaggio a loro scelta</E
+M>avanzamento</E
+M>promozione a sc.</E
+M>contrattazione a sc.</E
+M>libera scelta</E
+M>sc. obbligata</E
+M>è un negozio in cui c&#8217;è scarsa sc.</E
+M>c&#8217;è pochissima sc.</E
+M>non c&#8217;è sc.</E
+M>non c&#8217;era sc.</E
+M>non c&#8217;è stata</E
+M> purtroppo</E
+M> altra scelta</E
+M>la sc. delle lane</E
+M>la sc. della frutta</E
+M>merce</E
+M>stoffe</E
+M>porcellane</E
+M>verdura</E
+M>frutta</E
+M>carni di prima sc.</E
+M>di seconda sc.</E
+M>di prima sc.</E
+M>di terza sc.</E
+M>la mostra esporrà una sc. di codici miniati</E
+M>il cantante presenterà una sc. delle sue canzoni più applaudite</E
+M>scelta di temi di versione per i licei</E
+M>Marfisa ... e Ruggiero</E
+M> Ch&#8217;eran la scelta e &#8217;l fior d&#8217;ogni guerriero</E
+M>assioma della sc.</E
+M>postulato di Zermelo</E
+M>principio del buon ordinamento</E

@@ -1,0 +1,28 @@
+indossare.txt
+"indossare"
+"indossare"
+"indossare i guanti"
+"indossare i guanti"
+"indossare i migliori vestiti"
+"indossare i pantaloncini"
+"indossare l'uniforme"
+"indossare per la prima volta"
+"indossare qcs."
+"indossare una maschera"
+"mettere; indossare"
+"pronto da indossare"
+* mettersi addosso, [[mettere]], [[infilarsi]], [[infilare]], [[vestire]]
+* avere addosso, [[portare]]; [[cingere]]
+*[[togliersi]], [[levarsi]], [[svestirsi]], [[sfilarsi]]
+*[[levarsi]]
+*italiano
+M>io indòsso</E
+M>la giacca</E
+M>il soprabito</E
+M>la camicia</E
+M>indossava un elegante abito da sera</E
+M>alla cerimonia gli ufficiali indosseranno l’alta uniforme</E
+M>indorsare</E
+M>indossàggio</E
+"name": "Un sorriso da indossare"
+"name": "Un sorriso da indossare"

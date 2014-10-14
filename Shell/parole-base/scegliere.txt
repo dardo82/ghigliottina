@@ -1,0 +1,80 @@
+scegliere.txt
+"libertà di scegliere"
+"scegliere"
+"scegliere"
+"scegliere"
+"scegliere attentamente"
+"scegliere attraverso"
+"scegliere di"
+"scegliere la vita rude; inselvatichirsi"
+"scegliere qualcuno, selezionare"
+"scegliere una alternativa"
+"stabilire, scegliere, selezionare"
+"venire naturale scegliere"
+#*'''''scegliere''' un abito, una moglie, un vaso''
+#*'''''scegliere''' fior da fiore''
+#*''ha '''scelto''' l'amore''
+*[[preferire]], [[prediligere]], [[prendere]], [[preporre]], [[anteporre]], [[optare]]
+*[[separare]], [[dividere]], [[selezionare]], [[vagliare]], [[setacciare]], [[distinguere]], [[discernere]]
+*[[cernere]], [[decidere]],  [[spogliare]]
+*[[prescegliere]], [[sceglitore]]
+*[[scegliersi]], [[scelta]]
+M>*exel</E
+M>io scélgo</E
+M>scéglio</E
+M>tu scégli</E
+M>scélsi</E
+M> scegliésti</E
+M>sceglierò</E
+M>sceglierèi</E
+M>scélga</E
+M>scéglia</E
+M>scegliamo</E
+M>scegliate</E
+M>scélgano</E
+M>scélto</E
+M>alla fine abbiamo scelto l&#8217;appartamento con il giardino</E
+M>ho già scelto il regalo da farti</E
+M>devi sc. una cornice in stile con il quadro</E
+M>ha già scelto a quale facoltà iscriversi?</E
+M>scegli un abito che vada bene per l&#8217;occasione</E
+M>ha saputo sc. le parole adatte al momento</E
+M>quest&#8217;anno abbiamo scelto di andare in vacanza all&#8217;estero</E
+M>sc. per</E
+M>come</E
+M>moglie</E
+M>sc. per</E
+M>come</E
+M>marito</E
+M>compagno</E
+M>confidente</E
+M>per</E
+M>il bambino è nato e gli hanno scelto un nome bellissimo</E
+M>qual più ameno Fiore a voi sceglia col puniceo rostro</E
+M> Vel ponete nel seno</E
+M>si sceglie sempre la parte più facile del lavoro</E
+M>si è scelta un marito in tutto simile a lei</E
+M>gli amici me li voglio sc. da solo</E
+M>scegli pure liberamente</E
+M>possiamo sc. con calma</E
+M>abbiamo da sc.</E
+M>c&#8217;è da sc.</E
+M>non c&#8217;è da sc.</E
+M> c&#8217;è poco da sc.</E
+M>scegli tu di che colore vuoi le pareti</E
+M>hanno scelto di partire domani</E
+M>ho partecipato alle prove di selezione</E
+M> ma non sono stato scelto</E
+M>i membri della giuria del premio letterario hanno scelto lo scrittore più originale</E
+M>lo sceglierei tra mille</E
+M>lo sceglierei a occhi chiusi</E
+M>pur di non restare con lui</E
+M> scelsi di andarmene</E
+M>ho scelto di cambiare lavoro</E
+M> piuttosto che andare così lontano</E
+M>sc. i funghi tra quelli non velenosi</E
+M>sc. i frutti maturi da quelli acerbi</E
+M>sc. i ceci</E
+M>i fagioli</E
+M>sc. la lana</E
+M>Una donna soletta che si gìa E cantando e scegliendo fior da fiore Ond&#8217;era pinta tutta la sua via</E

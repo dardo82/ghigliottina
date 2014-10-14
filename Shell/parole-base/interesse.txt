@@ -1,0 +1,227 @@
+interesse.txt
+"a favore di, nell'interesse di"
+"agire nel miglior interesse di qcn."
+"agire nell'interesse di"
+"Associazione per la difesa della natura e  salvaguardia di posti di interesse artistico e storico"
+"avere interesse"
+"avere interesse per"
+"avere un interesse (in un progetto)"
+"centro dell'interesse"
+"centro di interesse"
+"con interesse"
+"creare interesse"
+"d'interesse"
+"di interesse, interessante"
+"denaro mutuabile a basso tasso d'interesse"
+"fare politica per interesse personale"
+"fare qcs. in maniera meccanica; senza interesse"
+"fissare il tasso di interesse"
+"gradito interesse"
+"gruppo di interesse"
+"gruppo di interesse"
+"illudere qn (per proprio interesse)"
+"interesse"
+"interesse"
+"interesse"
+"interesse"
+"interesse a lungo termine"
+"interesse acquisito"
+"interesse amoroso"
+"interesse architettonico"
+"interesse composto"
+"interesse di mora"
+"interesse equo"
+"interesse ipotecario"
+"interesse lordo"
+"interesse netto"
+"interesse passivo"
+"interesse per"
+"interesse per le notizie"
+"interesse personale"
+"interesse principale"
+"interesse semplice"
+"interesse speciale"
+"interesse umano"
+"interesse vitale"
+"mancanza di interesse"
+"maturare un interesse"
+"mostrare interesse per"
+"mostrare interesse verso qcs.\/qcn."
+"mostrare interesse verso qcs.\/qcn."
+"motivo di interesse"
+"nell'interesse"
+"nell'interesse di"
+"non senza interesse"
+"perdere interesse"
+"perdere interesse in"
+"perdere interesse in qualcosa"
+"punto di interesse"
+"questione di interesse"
+"Rivestire un interesse"
+"sito di interesse nazionale"
+"spiccato interesse"
+"spiccato interesse"
+"spostare il proprio interesse verso"
+"stimolare l'interesse"
+"storia di interesse umano"
+"tasso di interesse"
+"tasso di interesse"
+"tasso di interesse bancario"
+"tasso di interesse primario"
+"tener vivo l'interesse"
+"visitare i luoghi d'interesse"
+* [[interessamento]], [[partecipazione]], [[coinvolgimento]], [[trasporto]], [[partecipazione]], [[passione]], [[attenzione]]
+* [[attrattiva]], [[attrazione]], [[richiamo]];
+* [[importanza]], [[valore]], [[significato]]
+* [[compenso]], [[attivo]], [[utile]], [[frutto]], [[reddito]], [[rendita]], [[tasso]], [[percentuale]], [[dividendo]]
+* [[utilità]], [[vantaggio]], [[tornaconto]], [[guadagno]], [[convenienza]],  [[lucro]] [[affare|affari]]
+*[[disinteresse]], [[freddezza]], [[distacco]], [[indifferenza]], [[avversione]]
+* [[svantaggio]], [[danno]],[[ pregiudizio]]
+* [[interessare]]
+* Italiano
+* tedesco
+M>interesse</E
+M>inter</E
+M>esse</E
+M>pagare</E
+M>riscuotere gli i</E
+M>l’ammontare degli i</E
+M>ottenere un prestito a un i</E
+M>molto favorevole</E
+M>all’i</E
+M>del 5%</E
+M>pagare un i</E
+M>troppo alto</E
+M>dare</E
+M>prendere denari a i</E
+M>tasso</E
+M>saggio</E
+M>ragione d’i</E
+M>attivo</E
+M>passivo</E
+M>nominale</E
+M>reale</E
+M>legale</E
+M>convenzionale</E
+M>prime rate</E
+M>usurario</E
+M>di mora</E
+M>compensativo</E
+M>semplice</E
+M>composto</E
+M>continuo</E
+M>adeguato d’i</E
+M>ha interessi in varie imprese</E
+M>interessenza</E
+M>cointeressenza</E
+M>badare ai proprî i</E
+M>agli i</E
+M>dell’azienda</E
+M>del negozio</E
+M>della fabbrica</E
+M>è lui che cura gli i</E
+M>della famiglia</E
+M>ha mille impegni che spesso lo costringono a trascurare i suoi interessi</E
+M>non guarda che all’i</E
+M>è un avaraccio</E
+M>per il quale non esiste che il proprio i</E
+M>per lui l’i</E
+M>va avanti a tutto</E
+M>se ha agito così</E
+M>vuol dire che ci aveva il suo i</E
+M>quando c’è di mezzo l’i</E
+M>non guarda in faccia a nessuno</E
+M>hanno litigato per motivi d’interesse</E
+M>privato in atti d’ufficio</E
+M>è dominato dall’i</E
+M>tutto ciò che fa</E
+M>lo fa per i</E
+M>per il vile i</E
+M>fare qualcosa senza i</E
+M>senza nessun i</E
+M>assolutamente senza i</E
+M>proprio</E
+M>matrimonio d’interesse</E
+M>matrimonio d’amore</E
+M>non ho nessun i</E
+M>a parlare</E
+M>che i</E
+M>avrebbe a ingannarci?</E
+M>chi poteva avere i</E
+M>alla diffusione di queste notizie?</E
+M>avere i</E
+M>ad agire</E
+M>a ricorrere</E
+M>la sua azione lede i nostri i</E
+M>io parlo nel tuo i</E
+M>è nel vostro stesso i</E
+M>difendervi dalla calunnia</E
+M>non è facile conciliare i</E
+M>diversi</E
+M>opposti</E
+M>conflitto di interessi</E
+M>agire nell’i</E
+M>di tutti</E
+M>nell’i</E
+M>generale del paese</E
+M>rappresentare</E
+M>tutelare gli i</E
+M>della collettività</E
+M>espropriazione per pubblico i</E
+M>beni di prevalente i</E
+M>pubblico</E
+M>gli i</E
+M>individuali sono spesso in contrasto con gli i</E
+M>della società</E
+M>internazionali</E
+M>privati</E
+M>pubblici</E
+M>patrimoniali</E
+M>tutela degli i</E
+M>legittimi</E
+M>prendere i</E
+M>alla lettura</E
+M>allo studio</E
+M>al gioco</E
+M>leggere un libro</E
+M>assistere a uno spettacolo</E
+M>guardare una collezione di quadri</E
+M>seguire le fasi di una partita con molto i</E
+M>mi ascoltava con grande i</E
+M>uno studioso di ampî i</E
+M>culturali</E
+M>non c’è niente che desti il suo i</E
+M>è un ragazzo privo d’interessi</E
+M>con scarsi i</E
+M>che non ha</E
+M>non mostra interesse per nessuna cosa</E
+M>lavora</E
+M>studia senza alcun i</E
+M>il centro dei proprî i</E
+M>avere</E
+M>non avere un centro d’interesse</E
+M>centro d’interesse</E
+M>avere</E
+M>mostrare i</E
+M>per qualcuno</E
+M>cominciò a prendere i</E
+M>per quella ragazza</E
+M>è un giovane di buona volontà</E
+M>che merita tutto il nostro i</E
+M>è un egoista che non ha interesse per nessuno</E
+M>complemento d’i</E
+M>dativo d’interesse</E
+M>dativo etico</E
+M>un discorso</E
+M>una storia</E
+M>un argomento di grande i</E
+M>la proposta non ha per me nessun i</E
+M>una donna priva d’interesse</E
+M>un racconto</E
+M>un romanzo</E
+M>uno studio</E
+M>un film di notevole i</E
+M>spettacolo di scarso i</E
+M>commedia priva d’interesse</E
+M>un avvenimento</E
+M>un accordo di un certo interesse</E

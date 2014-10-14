@@ -1,0 +1,32 @@
+pasto.txt
+"finire di mangiare, finire tutto il pasto"
+"finire un pasto"
+"lavare i piatti dopo un pasto"
+"lavare i piatti dopo un pasto"
+"ora del pasto"
+"pasto"
+"pasto a base di pesce"
+"pasto abbondante"
+"pasto abbondante"
+"pasto alla buona"
+"pasto completo"
+"pasto festivo"
+"pasto indiano"
+"pasto leggero"
+"pasto leggero nel tardo pomeriggio che sostituisce la cena"
+"pasto pesante"
+"pasto principale"
+"pasto sano"
+"pasto serale"
+"pasto servito di sera"
+"pasto sostanzioso"
+"pasto veloce"
+*[[mangiata]], [[rinfresco]], [[banchetto]], [[convito]], [[vitto]], [[refezione]], [[rancio]]
+*[[pasciuto]]
+*[[rimpasto]], [[antipasto]]
+*[[colazione]], [[pranzo]], [[cena]], [[merenda]], [[spuntino]], [[snack]]
+*''dare in pasto al pubblico''
+*'' a tutto pasto''
+:*[[pasto#Italino|pasto]]
+*italiano
+*spagnolo

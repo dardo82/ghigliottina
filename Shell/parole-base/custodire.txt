@@ -1,0 +1,48 @@
+custodire.txt
+"custodire"
+"custodire"
+"custodire con cura"
+"proteggere; vincolare; custodire"
+*[[conservare]], [[preservare]], [[serbare]], [[salvaguardare]], [[sorvegliare]], [[vigilare]]
+*''(un bambino, un malato)'' [[curare]], [[difendere]], [[proteggere]], [[provvedere]], [[badare]], [[tutelare]], [[vegliare]]
+*tenere prigioniero, [[sorvegliare]]
+*[[abbandonare]], [[trascurare]]
+*[[custode]], [[custodia]]
+M>custodire</E
+M>custos</E
+M>odis</E
+M>io custodisco</E
+M>tu custodisci</E
+M>la casa</E
+M>mi ha custodito l’appartamento durante la mia assenza</E
+M>il prigioniero</E
+M>un malato di mente</E
+M>qualcuno in carcere</E
+M>in una torre</E
+M>commesse</E
+M>che fusse custodito nella rocca</E
+M>i bambini</E
+M>un malato</E
+M>i buoi</E
+M>i cavalli</E
+M>i figli bisogna custodirli bene</E
+M>la propria salute</E
+M>la propria innocenza</E
+M>gli occhi</E
+M>i sensi</E
+M>da insidie</E
+M>da nemici</E
+M>da infermità</E
+M>un oggetto avuto in consegna</E
+M>le proprie carte nella cassaforte</E
+M>la terra custodisce i germi che le sono stati affidati</E
+M>un segreto</E
+M>le memorie</E
+M>i consigli ricevuti</E
+M>intatta la propria fede</E
+M>deve pensare a c</E
+M>la famiglia</E
+M>Custodirsi</E
+M>sei ancora convalescente</E
+M>sappiti c</E
+M>chi lavora bisogna che si custodisca bene</E

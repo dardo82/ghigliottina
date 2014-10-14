@@ -1,0 +1,76 @@
+fucile.txt
+"colpo di fucile"
+"di fucile mitragliatore, di mitra"
+"fucile"
+"fucile \"
+"fucile a dardi"
+"fucile a doppia canna"
+"fucile a raggi"
+"fucile ad aria compressa"
+"fucile automatico"
+"fucile giocattolo con schioppo"
+"fucile lungo"
+"fucile mitragliatore"
+"fucile mitragliatore, mitra"
+"fucile per caccia"
+"fusto del fucile"
+"grosso fucile da caccia"
+*[[schioppo]], [[carabina]], [[doppietta]], [[lupara]] 
+* ''(soldato)'' [[fuciliere]]
+*[[fucilata]]
+* [[pistola]], [[sparo]]
+*italiano
+*spagnolo
+M>*focile</E
+M>focus</E
+M>archibugio a fucile</E
+M>cassa</E
+M>calcio</E
+M>portare il f</E
+M>ad armacollo</E
+M>a bracciarm</E
+M>a bilanciarm</E
+M>imbracciare</E
+M>scaricare il f</E
+M>sparare un colpo di f</E
+M>a un tiro di f</E
+M>di schioppo</E
+M>un buon f</E
+M>a retrocarica</E
+M>ad avancarica</E
+M>a serpentino</E
+M>a ruota</E
+M>a pietra focaia</E
+M>ad ago</E
+M>ago</E
+M>cartuccia ad ago</E
+M>a caricamento successivo</E
+M>a caricamento multiplo</E
+M>a ripetizione semplice</E
+M>a leva</E
+M>a cilindro scorrevole e girevole</E
+M>a pompa</E
+M>a ripetizione automatica</E
+M>automatico</E
+M>mitragliatore</E
+M>a cannocchiale</E
+M>da tirassegno</E
+M>da gara</E
+M>da guerra</E
+M>modello ’91</E
+M>d’assalto</E
+M>Sturmgewehr</E
+M>lanciagranate</E
+M>da caccia</E
+M>a cani esterni</E
+M>doppietta</E
+M>a canne sovrapposte</E
+M>sovrapposto</E
+M>a cani interni</E
+M>senza cani</E
+M>a gas</E
+M>pneumatico</E
+M>ad aria compressa</E
+M>subacqueo</E
+M>fotografico</E
+M>arti a cane di fucile</E

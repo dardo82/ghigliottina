@@ -1,0 +1,30 @@
+ernia.txt
+"ernia"
+"hernia, rupture"
+"ernia al disco"
+"ernia iatale"
+"hiatus hernia"
+"ernia iatale"
+"hiatal hernia"
+"ernia ombelicale"
+"umbilical hernia"
+M>hernia</E
+M>addominale</E
+M>cerebrale</E
+M>del disco</E
+M>intestinale</E
+M>inguinale</E
+M>scrotale</E
+M>crurale</E
+M>diaframmatiche</E
+M>iatale</E
+M>da sforzo</E
+M>da debolezza</E
+M>strozzata</E
+M>intasata</E
+M>incarcerata</E
+M>infiammata</E
+M>Plasmodiophora brassicae</E
+M>ernia</E
+M>strozzata</E
+M>ginocchiatura</E

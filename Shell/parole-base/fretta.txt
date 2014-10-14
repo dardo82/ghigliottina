@@ -1,0 +1,71 @@
+fretta.txt
+"andare di fretta"
+"andare di fretta; correre"
+"andare piano; senza fretta"
+"avere fretta"
+"camminare in fretta, correre"
+"di fretta"
+"di fretta"
+"di fretta"
+"di fretta"
+"eseguito in fretta"
+"essere di fretta"
+"avere fretta"
+"essere di fretta"
+"fare in fretta"
+"fatto di fretta"
+"fretta"
+"fretta"
+"fretta, urgenza"
+"in fretta"
+"in fretta"
+"in fretta e furia"
+"in fretta e furia"
+"la fretta è cattiva consigliera"
+"mangiare di fretta"
+"mettere fretta"
+"non c'è fretta"
+"non è mia intenzione mettervi fretta"
+"partire in tutta fretta"
+"prendere e trasportare di fretta"
+"senza fretta"
+*[[urgenza]], [[premura]], [[impazienza]], [[sollecitudine]], [[impellenza]]
+*[[velocità]], [[rapidità]], [[corsa]], [[celerità]], [[prontezza]], [[precipitazione]], [[foga]], [[furia]]
+*[[calma]], [[lentezza]], [[flemma]]
+*[[ritardo]], [[indugio]]
+* [[affrettare]], [[affrettarsi]], [[frettoloso]]
+* [[necessità]]
+*''La 
+*''in '''fretta''' e furia''
+M>frettare</E
+M>*frictare</E
+M>ho f</E
+M>d’arrivare</E
+M>di finire</E
+M>non posso trattenermi perché ho una gran f</E
+M>va’ pure adagio</E
+M>non c’è f</E
+M>senza mostrare f</E
+M>nella f</E
+M>di uscire</E
+M>ho dimenticato le chiavi</E
+M>mettere f</E
+M>fare f</E
+M>a qualcuno</E
+M>la fretta Che l’onestade ad ogn’atto dismaga</E
+M>in fretta</E
+M>camminare</E
+M>leggere</E
+M>scrivere</E
+M>fare un lavoro in f</E
+M>mangiare un boccone in f</E
+M>in gran f</E
+M>in tutta f</E
+M>andare di f</E
+M>troppo</E
+M>parli troppo in f</E
+M>giudichi con troppa fretta</E
+M>in f</E
+M>e furia</E
+M>dovettero sgombrare in f</E
+M>e furia</E

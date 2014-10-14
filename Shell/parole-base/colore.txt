@@ -1,0 +1,333 @@
+colore.txt
+"a due tonalità di colore"
+"blu elettrico (colore)"
+"cambiare colore"
+"che perde colore"
+"classificato secondo il colore"
+"colorazione progressiva, sfumatura progressiva di colore"
+"colore"
+"colore"
+"colore"
+"colore"
+"colore"
+"colore"
+"colore"
+"colore"
+"colore a olio"
+"colore a olio"
+"colore acceso"
+"colore ad olio"
+"colore ambrato"
+"amber-colored"
+"colore caldo"
+"colore caldo"
+"colore chiaro"
+"colore complementare"
+"colore complementare"
+"colore degli occhi"
+"colore dei capelli"
+"colore delicato, colore tenue"
+"colore della pelle"
+"colore dominante"
+"colore fondamentale"
+"colore fondamentale"
+"colore grigio marrone"
+"colore grigioverde (divisa militare)"
+"colore grigioverde (divisa militare)"
+"colore grigioverde (divisa militare)"
+"colore locale"
+"colore locale"
+"colore naturale"
+"colore naturale"
+"colore nero"
+"colore neutro"
+"colore opaco"
+"colore opaco"
+"colore pastello"
+"colore pastello"
+"colore pastello"
+"colore predominante"
+"colore puro"
+"colore scarlatto"
+"colore trasparente"
+"colore verde"
+"colore verde"
+"colore verdognolo"
+"contrasto di colore"
+"controllo del colore"
+"del colore del vino"
+"di colore"
+"di colore"
+"colored"
+"di colore"
+"di colore bianco"
+"white-colored"
+"di colore bianco giallastro"
+"di colore blu pallido"
+"di colore giallo"
+"yellow-colored"
+"di colore marrone"
+"di colore marrone e nero"
+"di colore marrone giallastri"
+"di colore nero blu"
+"di colore nero marrone"
+"di colore ocra"
+"di colore ocra giallo"
+"di colore pastello"
+"di colore rosa"
+"di colore rosa-grigiastro"
+"di colore scuro"
+"brown-colored"
+"di colore verde giallastro"
+"di colore verde smeraldo"
+"di colore violaceo"
+"purple colored"
+"di colore vivo"
+"bright-colored"
+"diamond black (colore)"
+"donna, uomo di colore"
+"grossa mosca dal colore blu metallico verde"
+"imprimitura; colore di fondo"
+"intensità del colore"
+"intensità di colore"
+"linea di colore"
+"linea di colore"
+"mancanza di colore"
+"misurazione del colore"
+"nota di colore"
+"perdere colore"
+"persona di colore"
+"prova colore"
+"purezza del colore"
+"purezza del colore"
+"qualità del colore"
+"qualsiasi colore"
+"separazione del colore"
+"solido di colore"
+"temperatura del colore"
+"tinta dei capelli, colore dei capelli"
+*[[cera]]
+*[[incolore]]
+*[[-colore]]
+* (aspetto cromatico) [[colorare]], [[colorato]]
+* (colorazione della pelle) [[colorito]]
+* (sostanza per dipingere) [[pigmento]], [[pittura]], [[tintura]], [[vernice]]
+:* emiliano
+:* ligure
+:* [[romagnolo]]
+M>color</E
+M>ris</E
+M>soggettivo</E
+M>oggettivo semplice</E
+M>oggettivo composto</E
+M>fondamentali</E
+M>dell’iride</E
+M>dello spettro solare</E
+M>complementari</E
+M>Teoria dei c</E
+M>teoria cromatica</E
+M>composizione additiva dei c</E
+M>composizione sottrattiva dei c</E
+M>Temperatura di c</E
+M>la luce rapida Piove di cosa in cosa</E
+M>E i color varî suscita Dovunque si riposa</E
+M>colore arancio</E
+M>arancione</E
+M>avana</E
+M>caffè</E
+M>canarino</E
+M>cannella</E
+M>cenere</E
+M>ciclamino</E
+M>crema</E
+M>fragola</E
+M>malva</E
+M>mattone</E
+M>nocciola</E
+M>viola</E
+M>di viola</E
+M>violetto</E
+M>rosso scarlatto</E
+M>rosso vino</E
+M>giallo cromo</E
+M>verde smeraldo</E
+M>verde bottiglia</E
+M>verde oliva</E
+M>verde pisello</E
+M>verde bandiera</E
+M>grigio perla</E
+M>rosso bruno</E
+M>verde azzurro</E
+M>blu marrone</E
+M>grigio verde</E
+M>grigioverde</E
+M>blu di Prussia</E
+M>rosso Magenta</E
+M>terra di Siena</E
+M>giallo di Napoli</E
+M>color d’angelo</E
+M>Dolce color d’orïental zaffiro</E
+M>il c</E
+M>del tempo</E
+M>chiaro</E
+M>scuro</E
+M>cupo</E
+M>vivo</E
+M>vivace</E
+M>acceso</E
+M>carico</E
+M>pallido</E
+M>smorto</E
+M>senza colore</E
+M>di colore</E
+M>in colori</E
+M>biancheria di colore</E
+M>assortimento di stoffe bianche</E
+M>nere e in colori</E
+M>a colori</E
+M>un fazzoletto a colori</E
+M>di c</E
+M>unito</E
+M>di tinta unita</E
+M>a tinta unita</E
+M>tutto d’un c</E
+M>fotografia a colori</E
+M>cinematografia</E
+M>stampa</E
+M>televisione a colori</E
+M>un libro con illustrazioni</E
+M>con tavole a colori</E
+M>liturgici</E
+M>scaldare</E
+M>arroventare un metallo al c</E
+M>bianco</E
+M>al c</E
+M>rosso</E
+M>calore bianco</E
+M>rosso</E
+M>Falso c</E
+M>immagine a falsi c</E
+M>colore</E
+M>colorante</E
+M>fabbrica di colori</E
+M>buono</E
+M>stabile</E
+M>che regge</E
+M>che non regge</E
+M>cangiante</E
+M>ricco</E
+M>carico</E
+M>ad acqua</E
+M>a olio</E
+M>a tempera</E
+M>sottomarini</E
+M>dare il c</E
+M>una mano di c</E
+M>dare i c</E
+M>a un disegno</E
+M>riprendere il c</E
+M>dar colore a un progetto</E
+M>a un pensiero</E
+M>E io</E
+M>che del color mi fui accorto</E
+M>Dissi</E
+M>Come verrò</E
+M>se tu paventi</E
+M>avere un buon</E
+M>un bel c</E
+M>un brutto</E
+M>cattivo c</E
+M>roseo</E
+M>naturale</E
+M>il c</E
+M>della salute</E
+M>terreo</E
+M>il c</E
+M>della morte</E
+M>farsi</E
+M>fare il viso</E
+M>diventare di mille colori</E
+M>di cento colori</E
+M>di tutti i colori</E
+M>non ha colore</E
+M>ha perduto il c</E
+M>ha ripreso</E
+M>ha riacquistato il c</E
+M>gli è ritornato il c</E
+M>Genti</E
+M>popolazioni</E
+M>truppe</E
+M>uomini di colore</E
+M>coloured person</E
+M>de couleur</E
+M>gente</E
+M>popolazione di c</E
+M>uomo</E
+M>donna di colore</E
+M>i c</E
+M>nazionali</E
+M>i tre c</E
+M>i c</E
+M>di Francia</E
+M>della città di Roma</E
+M>del Papa</E
+M>di Sua Maestà Britannica</E
+M>dei Caetani</E
+M>fare onore ai proprî c</E
+M>l’azzurro è il c</E
+M>degli sportivi italiani</E
+M>gli azzurri</E
+M>negli incontri internazionali</E
+M>politico</E
+M>il suo c</E
+M>è il rosso</E
+M>non ha nessun c</E
+M>mutar c</E
+M>essere sempre di un c</E
+M>essere tutti di un c</E
+M>fare</E
+M>avere colore</E
+M>il suo racconto aveva il c. della sincerità</E
+M>i fatti hanno assunto il c. della leggenda</E
+M>ha un c</E
+M>di personcina per bene che non mi persuade</E
+M>sotto c</E
+M>di modestia ha una superbia che non ti dico</E
+M>sotto colore</E
+M>fu trattenuto sotto c</E
+M>di stabilire vari particolari</E
+M>quanti delitti sotto c</E
+M>di libertà!</E
+M>cose di dubbio c</E
+M>parole di c</E
+M>oscuro</E
+M>Inf</E
+M>farne</E
+M>dirne di tutti i c</E
+M>Colore locale</E
+M>couleur locale</E
+M>il colore locale nei</E
+M>Promessi Sposi</E
+M>una vivace pennellata di colore locale</E
+M>due frasi in dialetto buttate là per fare il colore locale</E
+M>per attirare i turisti hanno puntato sul c. locale dell’antico borgo</E
+M>articolo di colore</E
+M>pezzo di colore</E
+M>pittore famoso per i c</E
+M>per il colore</E
+M>narrazione priva di colore</E
+M>voce priva di colore</E
+M>dipingere a c</E
+M>smaglianti</E
+M>a vivaci c</E
+M>fare del c</E
+M>colorito</E
+M>indice di colore</E
+M>colore</E
+M>carica di colore</E
+M>blu</E
+M>rosso</E
+M>giallo</E
+M>carica blu</E
+M>rossa</E
+M>gialla</E

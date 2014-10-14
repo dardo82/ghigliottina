@@ -1,0 +1,29 @@
+globo.txt
+"globo"
+"globo"
+"il giro, il globo"
+*[[sfera]], [[palla]]
+*italiano
+*spagnolo
+M>globus</E
+M>terrestre</E
+M>terracqueo</E
+M>globo</E
+M>fare il giro del g</E
+M>in qualche parte del globo</E
+M>terrestre</E
+M>celeste</E
+M>aerostatico</E
+M>imperiale</E
+M>g. infernale</E
+M>g. della morte</E
+M>la minuta polve Con densi g</E
+M>al ciel s’innalza e volve</E
+M>in globo</E
+M>oculare</E
+M>di sicurezza</E
+M>vescicale</E
+M>pallido</E
+M>Globus pallidus</E
+M>isterico</E
+M>bolo isterico</E

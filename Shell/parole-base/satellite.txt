@@ -1,0 +1,67 @@
+satellite.txt
+"città satellite"
+"satellite city"
+"primo satellite per telecomunicazioni"
+"satellite"
+"satellite, dependent, subordinate"
+"satellite"
+"satellite"
+"satellite"
+"satellite, protectorate, client state"
+"satellite"
+"satellite town"
+"satellite"
+"satellite"
+"satellite"
+"satellite artificiale"
+"artificial satellite"
+"satellite di ricerca"
+"research satellite"
+"satellite fisso"
+"fixed satellite"
+"satellite meteorologico"
+"weather satellite"
+"satellite per le comunicazioni"
+"communication satellite"
+#* ''quartiere 
+#* ''la [[Luna]] è il 
+#* ''hanno lanciato un nuovo '''satellite''' in orbita''
+*''(corpo celeste)'' [[luna]]
+*''(veicolo orbitante)'' [[satellite artificiale]]
+*[[satellitare]]
+* (dipendente) [[périphérique]]
+* (connesso a satellite) [[satellitaire]]
+* [[satellisation]]
+* [[satelliser]]
+#* ''a 
+#* ''
+*italiano
+*francese
+*inglese
+M>satelles -l</E
+M>tis</E
+M>Renzo era levato; i due s. gli stavano a&#8217; fianchi</E
+M>S. pastori</E
+M>guardiani</E
+M>s. artificiale</E
+M>pianeti artificiali</E
+M>S. per applicazione</E
+M>trasmissioni via satellite</E
+M>S. spia</E
+M>S.-killer</E
+M>Stato</E
+M>nazione</E
+M>paese s.</E
+M>satellite</E
+M>Partiti s.</E
+M>comportamento da s.</E
+M>calcolatore s.</E
+M>città s.</E
+M>piogge dirotte ... gonfiavano i s. appenninici del Po</E
+M>satelliti del diamante</E
+M>nervo s.</E
+M>vene s.</E
+M>trabante</E
+M>cellule s.</E
+M>linfoghiandole s.</E
+M>DNA satellite</E

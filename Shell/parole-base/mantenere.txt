@@ -1,0 +1,112 @@
+mantenere.txt
+"conservare; mantenere un lavoro"
+"mantenere"
+"mantenere"
+"mantenere"
+"mantenere"
+"mantenere, replace: mantenersi"
+"mantenere, replace: mantenersi"
+"mantenere, replace: mantenersi"
+"mantenere a regime"
+"mantenere buoni rapporti"
+"mantenere distinti"
+"mantenere duro"
+"mantenere fede a"
+"mantenere fresco"
+"mantenere gli impegni"
+"mantenere gli standard più alti"
+"mantenere i contatti tra"
+"mantenere i nervi saldi"
+"mantenere i nervi saldi"
+"mantenere i sapori inalterati"
+"mantenere il controllo dei costi"
+"mantenere il debito distacco"
+"mantenere impegnato"
+"mantenere in assetto"
+"mantenere in esercizio"
+"mantenere in piedi un rapporto"
+"mantenere in vita"
+"mantenere inalterato"
+"mantenere la calma"
+"mantenere la continuità"
+"mantenere la disciplina"
+"mantenere la fede"
+"mantenere la pace"
+"mantenere la promessa"
+"mantenere la riserva"
+"mantenere la sua parola"
+"mantenere le distanze"
+"mantenere le tradizioni"
+"mantenere libero"
+"mantenere lo stesso livello"
+"mantenere qualcosa in vita"
+"mantenere qualcuno in vita"
+"mantenere una promessa"
+"venir meno a una promessa, rimangiarsi una promessa, non mantenere una promessa"
+*[[consevare]]
+*[[mantenersi]]
+M>manu tenere</E
+M>tenere</E
+M>conservare</E
+M>che cosa è principato</E
+M>di quale spezie sono</E
+M>come e’ si acquistono</E
+M>come e’ si mantengono</E
+M>perché e’ si perdono</E
+M>credevano che tutto il mondo fosse fatto e mantenuto per loro soli</E
+M>chiudere le finestre per m</E
+M>il calore nella stanza</E
+M>la salute</E
+M>l’agilità</E
+M>la freschezza giovanile</E
+M>durante la corsa una velocità costante</E
+M>le truppe incaricate di m</E
+M>l’ordine</E
+M>il contatto con il nemico</E
+M>agile il corpo</E
+M>vigile la mente</E
+M>vivo il ricordo</E
+M>caldo il tè</E
+M>la macchina a pieno regime</E
+M>la nave al largo</E
+M>sopravvento</E
+M>sottocosta</E
+M>un sistema in oscillazione permanente</E
+M>mantenersi giovane</E
+M>in buona salute</E
+M>mantenersi bene</E
+M>mantenersi libero da ogni obbligo</E
+M>cerca di mantenerti calmo</E
+M>la vita umana</E
+M>si mantenne per beneficio loro mediocremente facile e tollerabile</E
+M>il tempo si mantiene sereno</E
+M>nella cantina il vino si mantiene più fresco</E
+M>«Gran bella conversione!» riprese don Abbondio:</E
+M>«e si mantiene</E
+M>n’è vero? si mantiene.»</E
+M>è lui che mantiene la famiglia</E
+M>ha tanti figli da m</E
+M>un orfanello</E
+M>una donna</E
+M>mantenuta</E
+M>farsi mantenere</E
+M>si fa m</E
+M>dalle donne</E
+M>dalla moglie</E
+M>non ha di che mantenersi</E
+M>una scuola</E
+M>un ospizio</E
+M>una strada</E
+M>un giardino</E
+M>curare la manutenzione di</E
+M>i nostri soldati hanno mantenuto le posizioni su tutta la linea</E
+M>le proprie posizioni</E
+M>mantengo il già detto</E
+M>mantengo il mio punto di vista</E
+M>gli impegni</E
+M>il giuramento</E
+M>la parola data</E
+M>non vorrei promettere cosa che non fossi certo di poter mantenere</E
+M>un mantenuto</E
+M>una</E
+M>mantenuta</E

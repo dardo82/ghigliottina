@@ -1,0 +1,135 @@
+tetto.txt
+"a padiglione (di tetto)"
+"cabriolet (macchina senza tetto)"
+"capanna di paglia, capanna col tetto di paglia"
+"colmo del tetto"
+"dal tetto a terrazza"
+"del tetto"
+"i senza tetto"
+"mettere un tetto"
+"tetto"
+"tetto"
+"tetto"
+"tetto"
+"tetto a due spioventi"
+"tetto a falda"
+"tetto a mansarda"
+"tetto a spigolo"
+"tetto a terrazza"
+"tetto ad assi (scandola)"
+"tetto coperto con paglia"
+"tetto della mansarda"
+"tetto di ardesia"
+"tetto di legno"
+"tetto di tegole"
+"tetto inclinato"
+"tetto massimo dei prezzi"
+"tetto sopra la testa"
+"trave del tetto"
+#*''il tetto delle pensioni da favola è stato abbassato'' 
+*[[senzatetto]]
+M>ctum</E
+M>tectus</E
+M>le tétta</E
+M>falde</E
+M>spioventi</E
+M>t. a falda unica</E
+M>a spiovente unico</E
+M>t. a shed</E
+M>t. a capanna</E
+M>a doppia falda</E
+M>frontoni</E
+M>t. a falde indipendenti</E
+M>t. a padiglione</E
+M>t. a smusso</E
+M>t. a ombrello</E
+M>t. a mansarda</E
+M>t. piano</E
+M>a terrazza</E
+M>t. a bulbo</E
+M>t. a campana</E
+M>t. alla piemontese</E
+M> alla lombarda</E
+M>orditura</E
+M>falsi puntoni</E
+M>arcarecci</E
+M>terzere</E
+M>t. a una</E
+M>a due</E
+M>a quattro acque</E
+M>acqua</E
+M>spiovente</E
+M>i cornicioni</E
+M>l&#8217;orlo</E
+M>la gronda del t.</E
+M>copertura</E
+M>manto del t.</E
+M>gli embrici</E
+M>i tegoli del t.</E
+M>casupole</E
+M>baracche</E
+M>capanne con t. di foglie</E
+M>di rami</E
+M>di paglia</E
+M>fare</E
+M>mettere il t.</E
+M>coprire il t.</E
+M>salire sul t.</E
+M>una torretta con vista sui t. della città</E
+M>un vento così forte che scoperchiava i tetti.</E
+M>tetto</E
+M>copertura</E
+M>t. conico</E
+M>t. a cupola</E
+M>a tetto</E
+M>stanze</E
+M>finestre a t.</E
+M>abitare a tetto</E
+M>fece poi portar giù da una stanza a t. l&#8217;armi da fuoco</E
+M> da taglio</E
+M> in asta</E
+M>gridare dai t.</E
+M>predicare dai t.</E
+M>Matteo</E
+M>Luca</E
+M>il t. è basso</E
+M>i t. sono bassi</E
+M>ci sono i t. bassi</E
+M>Luisa indica i ragazzi che stanno attenti come furetti: &#171;Si moderi&#187;</E
+M>ella dice: &#171;ci sono i t. bassi!&#187;</E
+M>privo di rimorsi Col dubitante piè torno al mio t.</E
+M>Fra queste piante ov&#8217;io siedo e sospiro Il mio t. materno</E
+M>ritornare al t. paterno</E
+M>al t. coniugale</E
+M>essere senza t.</E
+M>senza pane né t.</E
+M>non avere né casa né tetto.</E
+M>sotto il t. paterno</E
+M>sotto il t. coniugale</E
+M>fissare un t. per i salarî</E
+M>per gli stipendî dei dipendenti pubblici</E
+M>per le pensioni</E
+M>per la scala mobile</E
+M>l&#8217;oro ha raggiunto il t. di 50 dollari l&#8217;oncia</E
+M>superare il t. delle importazioni di petrolio</E
+M>del consumo di energia elettrica</E
+M>l&#8217;inflazione non avrebbe dovuto superare</E
+M> nell&#8217;anno seguente</E
+M> il t. del 6%.</E
+M>plafond</E
+M>il t. d&#8217;una carrozza</E
+M>d&#8217;una vettura</E
+M>d&#8217;un baldacchino</E
+M>t. apribile</E
+M>T. galleggiante</E
+M>t. d&#8217;un filone</E
+M>t. d&#8217;una faglia</E
+M>Prisma a tetto</E
+M>Diga a tetto</E
+M>t. del IV ventricolo</E
+M>t. della cassa del timpano</E
+M>t. ottico.</E
+M>maso</E
+M>maira</E
+M>Tetto del mondo</E
+M>Bam-i dunya</E

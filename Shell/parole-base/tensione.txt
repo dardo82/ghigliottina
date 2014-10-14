@@ -1,0 +1,130 @@
+tensione.txt
+"ad alta tensione"
+"alta tensione"
+"calo di tensione, sovraccarico"
+"creare tensione in"
+"di tensione"
+"filo di tensione"
+"filo di tensione, filo elettrico, cavo elettrico"
+"impulso di tensione"
+"linea di alta tensione"
+"livello di tensione"
+"mettere in tensione"
+"misuratore di tensione"
+"partitore di tensione"
+"puleggia di tensione"
+"regolatore di tensione"
+"sbalzo di tensione"
+"sotto tensione"
+"stabilizzatore di tensione"
+"stato di tensione"
+"Stemperare la tensione"
+"strategia della tensione"
+"tensione"
+"tensione"
+"tensione"
+"tensione di ingresso"
+"tensione di linea"
+"tensione di scarica"
+"tensione in uscita"
+"tensione interfacciale"
+"tensione interna"
+"tensione nervosa"
+"tensione residua"
+"tensione superficiale"
+"voltaggio; tensione"
+*[[trazione]]
+*[[distensione]], [[allentamento]] 
+*[[sovratensione]]
+*[[tendere]]
+*italiano
+M>tensio -onis</E
+M>tend</E
+M>tensus</E
+M>sottoporre un cavo a forte t.</E
+M>regolare la t. della corda perché dia la nota esatta</E
+M>portare la corda alla giusta t.</E
+M>la velocità della freccia dipende dalla t. dell&#8217;arco</E
+M>la t. di un elastico</E
+M>di una molla</E
+M>dei muscoli</E
+M>mettere</E
+M>tenere in t.</E
+M>aumentare</E
+M>allentare la t. di qualche cosa</E
+M>t. applicata agli estremi di una sbarra</E
+M>di una fune</E
+M>sforzo</E
+M>specifico</E
+M>le t. all&#8217;interno di una struttura</E
+M>la t. tangenziale</E
+M>t. normali</E
+M>t. interfacciale</E
+M>t. superficiale</E
+M>t. di vapore</E
+M>di vapor saturo</E
+M>t. arteriosa</E
+M>pressione arteriosa</E
+M>colpo di t.</E
+M>t. articolatoria</E
+M>t. muscolare dell&#8217;articolazione</E
+M>-t-</E
+M>-tt-</E
+M>t. elettrica</E
+M>tensione</E
+M>t. anodica</E
+M>di catodo</E
+M>di griglia</E
+M>t. a vuoto di un generatore</E
+M>forza elettromotrice</E
+M>t. nominale di una linea</E
+M>t. nominale di un apparecchio</E
+M>t. di perforazione</E
+M>t. disruptiva</E
+M>essere</E
+M>trovarsi sotto t.</E
+M>applicare una t. a un conduttore</E
+M>t. applicata tra due punti</E
+M>generatore di tensione</E
+M>alta t.</E
+M>bassa t.</E
+M>bassa t.</E
+M>alta t.</E
+M>t. continua</E
+M>t. alternata</E
+M>t. sinusoidale</E
+M>t. impulsiva</E
+M>t. di picco</E
+M>t. efficace</E
+M>trasformatore di t.</E
+M>t. primaria</E
+M>t. secondaria</E
+M>T. di contatto</E
+M>potenziale di contatto</E
+M>t. elettrica</E
+M>t. magnetica</E
+M>t. mentale</E
+M>t. della mente</E
+M>tendere l&#8217;arco dell&#8217;intelletto</E
+M>t. nervosa</E
+M>avere i nervi tesi</E
+M>t. dell&#8217;animo</E
+M>t. psichica</E
+M>tensione</E
+M>ero in uno stato di terribile t.</E
+M>la t. per l&#8217;esame da affrontare gli ha provocato un esaurimento nervoso</E
+M>cerco di scaricare la t. facendo molto moto</E
+M>c&#8217;era forte t. nell&#8217;aula</E
+M>tra i presenti nell&#8217;aula</E
+M>in attesa della sentenza</E
+M>t. drammatica</E
+M>t. tragica</E
+M>t. tra marito e moglie</E
+M>tra colleghi d&#8217;ufficio</E
+M>inasprirsi</E
+M>risolversi di una t. sociale</E
+M>la t. tra le due correnti dopo una breve schiarita si è nuovamente acutizzata</E
+M>la t. internazionale si sta fortunatamente allentando</E
+M>strategia della t.</E
+M>t. monetaria</E
+M>inflazionistica</E

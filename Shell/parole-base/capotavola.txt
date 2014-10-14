@@ -1,0 +1,8 @@
+capotavola.txt
+"Traduzione di capotavola/ non trovata.\nNo translation was found for capotavola/."
+M>capo</E
+M>tavola</E
+M>i capitàvola</E
+M>le capotàvola</E
+M>sedere</E
+M>stare a capotavola</E

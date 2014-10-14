@@ -1,0 +1,25 @@
+testo.txt
+"cancellare il testo"
+"casella di testo"
+"fare la revisione di un testo"
+"la tua opinione non fa testo"
+"libro di testo"
+"libro di testo"
+"libro di testo"
+"libro di testo"
+"libro di testo introduttivo"
+"non fa testo"
+"puro testo"
+"rivedere (un testo)"
+"Spettacolo di intrattenimento, drammatico o musicale, interpretato in gruppo leggendo il testo"
+"testo"
+"testo"
+"testo"
+"testo critico"
+"testo libero"
+"testo predisposto"
+"testo prescritto"
+"testo redatto"
+*[[scritto]], [[opera]], [[libro]], [[volume]]
+*[[тесто#Serbian|тесто]]
+*italiano

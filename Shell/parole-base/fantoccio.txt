@@ -1,0 +1,11 @@
+fantoccio.txt
+"fantoccio"
+"fantoccio"
+"fantoccio"
+"governo fantoccio"
+"governo fantoccio"
+*[[fantocciata]]
+M>fante</E
+M>governo f</E
+M>governi fantoccio</E
+M>puppet governments</E

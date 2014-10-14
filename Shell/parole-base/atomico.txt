@@ -1,0 +1,33 @@
+atomico.txt
+"fungo atomico"
+"modello atomico"
+"numero atomico"
+"orologio atomico"
+"peso atomico"
+"raggio atomico"
+#*''le [[w
+#*'''peso atomico'''
+#*'''energia atomica'''
+#*'''bomba atomica'''
+#*'''sottomarino atomico'''
+#*'''era atomica'''
+M>calore a</E
+M>massa a</E
+M>numero a</E
+M>peso a</E
+M>massa a.</E
+M>fisica a</E
+M>raggio a</E
+M>nucleare</E
+M>energia a</E
+M>pila a</E
+M>propulsione atomica</E
+M>bomba a</E
+M>atomica</E
+M>armi a</E
+M>guerra a</E
+M>èra a</E
+M>una bellezza atomica</E
+M>enunciato a</E
+M>composto</E
+M>molecolare</E

@@ -1,0 +1,150 @@
+passato.txt
+"al passato"
+"controllo passato, controllo superato"
+"essere legato al passato"
+"essere passato"
+"essere un retaggio del passato"
+"ex post; in base al comportamento passato dell'economia"
+"il passato"
+"il passato"
+"il passato"
+"il passato"
+"il pericolo è passato"
+"in passato"
+"in passato"
+"in passato"
+"in passato"
+"in passato"
+"in passato, nei tempi passati"
+"mettere una pietra sul passato"
+"ne è passato di tempo"
+"nel passato"
+"nel passato"
+"participio passato"
+"passato"
+"passato"
+"passato"
+"passato"
+"passato di moda"
+"passato mezzogiorno"
+"passato prossimo"
+"passato prossimo"
+"passato recente"
+"passato remoto"
+"passato remoto"
+"passato remoto"
+"reliquia del passato"
+"riferirsi a qualcosa di passato"
+"rinfacciare; trattare qcn. male per qcs. Fatta in passato"
+"rompere con il passato"
+"tagliare con il passato"
+"tempo passato"
+"tempo passato"
+"tempo passato"
+"tempo passato prossimo"
+"terminato, concluso, finito, passato"
+"testimonianze del passato"
+"trascorso, passato"
+"trascorso; passato"
+"una cosa del passato"
+#* ''un momento 
+#* ''l'anno 
+#* ''una moda '''passata''''', ''le generazioni '''passate''''';
+#* ''il 
+#* ''zucchini '''passati''''', ''patate '''passate''''';
+#* ''rimpiangere il 
+#* ''
+#* «era stato sempre, insieme con i suoi '''passati''', o soldato o raccomandato de' Fiorentini»
+#* «traevano dalle lor case li corpi de' già '''passati'''» [[w
+#* ''[[passato prossimo|
+#* ''in italiano il 
+*(di tempo, secoli, mesi) [[scorso]], [[trascorso]], [[andato]], [[accaduto]], [[avvenuto]], [[finito]], [[cessato]], [[trapassato]]
+*(di generazione, amore) [[lontano]], [[antico]], [[precedente]], [[anteriore]], [[antecedente]], [[remoto]]
+*[[ieri]], giorni trascorsi, tempo andato, vita precedente
+*(di tempo, secoli, mesi)[[moderno]], [[attuale]], [[recente]], [[corrente]]
+*(di generazione, amore) [[presente]]
+*[[domani]], [[futuro]]
+* [[passato prossimo]], [[passato remoto]], [[trapassato]]
+M>passare</E
+M>il tempo p</E
+M>i secoli p</E
+M>nei giorni p</E
+M>il tempo è stato bellissimo</E
+M>l&#8217;anno</E
+M>il mese p</E
+M>scorso</E
+M>l&#8217;inverno p</E
+M>la settimana p</E
+M>il lunedì p</E
+M>le cose presenti e le passate Mi danno guerra</E
+M> e le future ancora</E
+M>le gioie p</E
+M>i p</E
+M>dolori</E
+M> le p</E
+M>illusioni</E
+M>usanze</E
+M>abitudini</E
+M>tradizioni p</E
+M>idee p</E
+M>metodi p</E
+M>moda p</E
+M>superata</E
+M>gli uomini di oggidì procedono e vivono più meccanicamente di tutti i p</E
+M>i p</E
+M>direttori</E
+M>la p</E
+M>amministrazione</E
+M>traevano delle lor case li corpi de&#8217; già p</E
+M>Gherardo Gambacorti</E
+M>era stato sempre</E
+M> insieme con i suoi p.</E
+M> o soldato o raccomandato de&#8217; Fiorentini</E
+M>il p</E
+M>non ritorna più</E
+M>gli artisti</E
+M>i grandi personaggi del p</E
+M>le memorie del p</E
+M>in p</E
+M>nel p</E
+M>la vita era più semplice</E
+M>è inutile rimpiangere il p</E
+M>la grande fregatura del non avere un futuro è credere che il p. sia sempre meglio del presente</E
+M>mettere una pietra sul p</E
+M>avere un brutto p</E
+M>un p</E
+M>burrascoso</E
+M>sul p</E
+M>di quelle persone corrono molte voci</E
+M>avere un p</E
+M>tempo p</E
+M>passato</E
+M>participio</E
+M>gerundio</E
+M>condizionale</E
+M>congiuntivo p</E
+M>il p</E
+M>dell&#8217;infinito</E
+M>prossimo</E
+M>sono partito alle otto di stamani</E
+M>l&#8217;alluvione del 1966 a Firenze ha provocato molti danni</E
+M>oggi non ho ancora mangiato</E
+M>remoto</E
+M>partì e non ritornò più</E
+M>passare</E
+M>acqua p</E
+M>tutto questo è ormai acqua p.</E
+M> non ne parliamo più</E
+M>acqua p</E
+M>non macina più</E
+M>punto p</E
+M>un p</E
+M>di spinaci</E
+M>di piselli</E
+M>di ceci</E
+M>minestra p</E
+M>di cottura</E
+M>frutta</E
+M>verdura</E
+M>carne un po&#8217; p</E
+M>una bellezza un po&#8217; passata</E

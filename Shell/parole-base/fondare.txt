@@ -1,0 +1,39 @@
+fondare.txt
+"fondare"
+"fondare"
+"fondare, replace: fondarsi"
+"fondare qualcosa su"
+#* ''fondare su terreno roccioso''
+#* ''fondare una scuola, una dinastia'' 
+#* ''egli fonda il suo ragionamento su ..''
+*[[costruire]], [[istituire]]
+*[[fondarsi]]
+M>ndare</E
+M>fundus</E
+M>io fóndo</E
+M>un terreno su cui si fonda molto bene</E
+M>sulla sabbia</E
+M>sulla rena</E
+M>una città</E
+M>secondo la tradizione</E
+M>Roma fu fondata nel 753 a</E
+M>una colonia</E
+M>un’accademia</E
+M>una biblioteca</E
+M>una chiesa</E
+M>un monastero</E
+M>una dottrina</E
+M>un metodo nuovo</E
+M>un partito</E
+M>un ordine religioso</E
+M>un impero</E
+M>il ragionamento sull’esperienza</E
+M>l’accusa su prove di fatto</E
+M>su che cosa fondi le tue speranze?</E
+M>fondarsi su qualche cosa</E
+M>simile principe non può fondarsi sopra quello che vede ne’ tempi quieti</E
+M>fondarsi su dati sicuri</E
+M>la supposizione si fonda su semplici indizî</E
+M>fai male a fondarti sulle sue promesse</E
+M>non sapevate che l’iniquità non si fonda soltanto sulle sue forze</E
+M>ma anche sulla credulità e sullo spavento altrui?</E

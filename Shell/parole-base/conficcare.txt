@@ -1,0 +1,22 @@
+conficcare.txt
+"conficcare"
+"martellare, insistere, conficcare"
+"piantare, conficcare"
+"scavare, conficcare, incidere"
+*''(un chiodo, un cuneo ecc.)'' [[ficcare]], [[piantare]], [[cacciare]], [[configgere]], [[incuneare]], [[introdurre]], [[infilare]]  
+*''(nella mente)'' [[imprimere]], [[fissare]], [[scolpire]]
+*''(un chiodo, un cuneo ecc.) [[estrarre]], [[cavare]]
+*''(nella mente)'' [[cancellare]], [[sradicare]]
+*[[conficcamento]]
+M>con</E
+M>ficcare</E
+M>io conficco</E
+M>tu conficchi</E
+M>un chiodo nel legno</E
+M>un piolo in un’asse</E
+M>conficcare</E
+M>conficcarsi una cosa nella mente</E
+M>nel cervello</E
+M>conficcarsi</E
+M>il proiettile si conficcò nella parete</E
+M>due braccia nerborute la tenevano come conficcata nel fondo della carrozza</E

@@ -1,0 +1,6 @@
+scaldabagno.txt
+"scaldabagno"
+"scaldabagno a gas"
+"stufa; scaldabagno a gas"
+M>scaldare</E
+M>bagno</E

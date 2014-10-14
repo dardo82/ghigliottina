@@ -1,0 +1,109 @@
+scatola.txt
+"a forma di scatola"
+"a scatola chiusa"
+"carne di manzo in scatola"
+"carne in scatola"
+"carne in scatola"
+"cibi in scatola"
+"cibo in scatola"
+"conservare in scatola"
+"conservato in scatola"
+"gioco in scatola"
+"mettere in una scatola"
+"scatola"
+"scatola"
+"contenuto di una scatola"
+"scatola"
+"oggetto a forma di scatola"
+"scatola batteria"
+"scatola da scarpe"
+"scatola degli ingranaggi"
+"scatola dei colori"
+"scatola del cambio"
+"scatola delle spezie"
+"scatola di cioccolatini"
+"scatola di fiammiferi"
+"scatola di giunzione"
+"scatola di raccordo"
+"scatola di sigari"
+"scatola nera"
+"scatola nera"
+"scatola per cose varie"
+"scatola per guanti; guantiera"
+"scatola per scarpe"
+"scatola per valvole"
+"trave a scatola"
+"trave a scatola"
+#*'' 
+*[[contenitore]], [[recipiente]], [[astuccio]], [[cassettina]], [[cassetta]], [[custodia]], [[cofanetto]], [[scrigno]], [[pacco]], [[pacchetto]], [[involucro]]
+* [[congegno]], [[dispositivo]], [[apparecchiatura]]
+* [[carne in scatola]], [[apriscatole]], [[inscatolare]], [[rompiscatole]], [[scatola cranica]], [[scatola nera]], [[scatole cinesi]], [[scatola armonica]]
+* ''andare fuori dalle scatole'' 
+* ''rompere le scatole'' 
+M>castula</E
+M>una s. di latta</E
+M>di vetro</E
+M>di plastica</E
+M>metti il libro in una s. e spediscilo per posta</E
+M>la s. delle scarpe</E
+M>delle camicie</E
+M>dei fazzoletti</E
+M>una s. di cellofan per fiori</E
+M>s. per cappelli</E
+M>s. cinesi</E
+M>s. a sorpresa</E
+M>magica</E
+M>comprare a s. chiusa</E
+M>vendere a s. chiusa</E
+M>cibi</E
+M>in scatola</E
+M>lettere</E
+M>caratteri di scatola</E
+M>dire</E
+M>scrivere qualcosa a caratteri di s.</E
+M>soggiugnendo</E
+M> che ... questa era una cosa passata in giudicato</E
+M> che insegnata a i medici l&#8217;avea Galeno</E
+M> che Plinio l&#8217;avea detto a lettere di scatola</E
+M>si è mangiato tutta una s. di cioccolatini</E
+M>s. armonica</E
+M>musicale</E
+M>carillon</E
+M>s. filtro</E
+M>s. a sabbia</E
+M>sabbiera</E
+M>s. cranica</E
+M>s. di derivazione</E
+M>s. di giunzione</E
+M>muffola</E
+M>s. di sezionamento.</E
+M>s. di guida</E
+M>s. sterzo</E
+M>s. di ritenuta</E
+M>boccola</E
+M>S. a mitraglia</E
+M>S. nera</E
+M>black box</E
+M>flight recorder</E
+M>metodo della s. nera</E
+M>output</E
+M>input</E
+M>s. bianca</E
+M>coglioni</E
+M>rompere le s.</E
+M>levarsi</E
+M>togliersi dalle s.</E
+M>togliersi</E
+M>levarsi</E
+M>dalle s. qualcuno</E
+M>averne piene le s.</E
+M>scatoletta di carne</E
+M>di acciughe</E
+M>di tonno</E
+M>cibarsi di scatolette</E
+M>la scatolina dei cerini</E
+M>lo scatolino degli stuzzicadenti</E
+M>tragge Dalla saccoccia un lucido specchietto</E
+M>... un aureo scatolino Di nèi ripieno</E
+M> un pettine pulito Di bianco avorio</E
+M>scatolino delle voci</E

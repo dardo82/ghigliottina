@@ -1,0 +1,105 @@
+alzare.txt
+"alzare"
+"sollevare, innalzare"
+"alzare"
+"alzare"
+"alzare bandiera bianca"
+"alzare gli occhi al cielo"
+"alzare i tacchi"
+"alzare i toni"
+"Alzare il gomito"
+"alzare il tiro"
+"alzare il volume"
+"alzare la posta"
+"alzare la posta in gioco"
+"alzare la temperatura"
+"alzare la voce"
+"alzare la voce, parlare ad alta voce"
+"alzare le braccia al cielo"
+"alzare le sopracciglia"
+"alzare lo sguardo"
+"alzare lo sguardo al cielo"
+"alzare lo sguardo, guardare verso l'alto"
+"alzare; tirare su"
+"non alzare un dito"
+#*''Se avete domande, '''alzate''' la mano''
+#*''Non sento niente
+#*''Un mese fa '''hanno alzato''' un muro che impedisce di uscire senza passare direttamente dal cancello''
+*[[sollevare]], [[innalzare]], [[rialzare]], [[drizzare]], [[rizzare]], [[tirare su]], [[levare]][[issare]], [[aumentare]], [[dilatare]]
+*[[costruire]], [[edificare]], [[sopraelevare]], [[erigere]]
+*[[abbassare]], [[calare]], [[diminuire]], [[ridurre]]
+*[[abbattere]], tirare giù [[atterrare]], [[demolire]], [[distruggere]], [[diroccare]]
+*[[alzabandiera]], [[alzabile]], [[alzacristallo]], [[alzarsi]], [[alzataccia]], [[alzato]], [[innalzare]], [[rialzare]], [[alto]]
+*''alzare il bicchiere''
+*''
+M>*altiare</E
+M>altus</E
+M>un peso</E
+M>la borsa da terra</E
+M>il coperchio</E
+M>il capo</E
+M>il viso</E
+M>la mano</E
+M>le mani</E
+M>le mani su qualcuno</E
+M>le braccia al cielo</E
+M>le spalle</E
+M>i remi</E
+M>le vele</E
+M>bandiera</E
+M>il tiro</E
+M>gli occhi al soffitto</E
+M>al cielo</E
+M>lo sguardo in faccia a qualcuno</E
+M>il gomito</E
+M>i tacchi</E
+M>non a</E
+M>un dito</E
+M>può ottenere ciò che vuole senza neanche a</E
+M>un dito</E
+M>pur vedendomi in difficoltà</E
+M>non ha alzato un dito per aiutarmi</E
+M>la cresta</E
+M>le corna</E
+M>alle stelle</E
+M>al cielo</E
+M>polvere</E
+M>un polverone</E
+M>un tempio</E
+M>un monumento a qualcuno</E
+M>colui che nuovo Olimpo Alzò in Roma a’ Celesti</E
+M>i prezzi</E
+M>le monete</E
+M>la voce</E
+M>il tono della voce</E
+M>il volume della radio</E
+M>un grido</E
+M>inni di gioia</E
+M>una preghiera a Dio</E
+M>le onde s’alzavano infrangendosi contro gli scogli</E
+M>alzarsi a volo</E
+M>in volo</E
+M>il cane alzò una pernice</E
+M>un filo di fumo si alzava dal camino</E
+M>il sole s’era già alzato</E
+M>la luna si alzava dietro la montagna</E
+M>il fiume continua ad alzarsi</E
+M>s’è alzata un po’ di tramontana</E
+M>la torre si alza di pochi metri al disopra dei tetti circostanti</E
+M>essere</E
+M>nel 1333 alzorono per un diluvio le acque d’Arno</E
+M>più che dodici braccia</E
+M>alzarsi in punta di piedi</E
+M>àlzati quando sei interrogato!</E
+M>mi alzo tutte le mattine alle sette</E
+M>se domani stai meglio</E
+M>ti potrai alzare</E
+M>gli si è alzata la febbre</E
+M>la temperatura si alza</E
+M>dal giardino si alzava un gradito profumo di fiori</E
+M>dai tini s’alzava l’acre odore del mosto</E
+M>un breve grido s’alzò nel silenzio</E
+M>canti di ringraziamento si alzavano dal gruppo dei fedeli</E
+M>all’apparir di quell’uomo</E
+M>s’alzò nella folla un mormorio quasi d’applauso</E
+M>alza</E

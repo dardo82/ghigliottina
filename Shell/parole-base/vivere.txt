@@ -1,0 +1,252 @@
+vivere.txt
+"andare a vivere in un posto"
+"far vivere"
+"fare per vivere"
+"gioia di vivere"
+"guadagnarsi da vivere"
+"il vivere sempre di corsa"
+"lunga vita da vivere"
+"luogo per vivere"
+"male di vivere"
+"meglio vivere di rimorsi che vivere di rimpianti"
+"modo di vivere"
+"posto per vivere"
+"prendere residenza, andare a vivere in un posto"
+"quieto vivere"
+"ritornare a vivere"
+"stanco di vivere"
+"vivere"
+"vivere"
+"vivere"
+"vivere"
+"vivere"
+"vivere"
+"vivere"
+"tirare avanti, sopravvivere"
+"vivere"
+"vivere a"
+"vivere a stretto contatto"
+"vivere al di sopra delle proprie possibilità"
+"vivere al limite"
+"vivere alle spalle"
+"vivere alle spalle di"
+"vivere bene"
+"vivere come moglie e marito"
+"vivere come un maiale"
+"vivere come un parassita"
+"vivere con qualcuno"
+"vivere da solo"
+"vivere da sultano"
+"vivere nel lusso"
+"vivere del proprio"
+"vivere di"
+"vivere di"
+"vivere di"
+"vivere di emozioni"
+"vivere di espedienti"
+"vivere di rendita"
+"vivere di ricordi"
+"vivere e lasciar vivere"
+"vivere freneticamente"
+"vivere in famiglia"
+"vivere in pace"
+"vivere in povertà"
+"vivere insieme"
+"vivere intensamente"
+"vivere lontano"
+"vivere modestamente"
+"vivere nel lusso"
+"vivere nel lusso"
+"vivere nel lusso, nello sfarzo"
+"vivere nel peccato"
+"vivere nell'alta società"
+"vivere nella bambagia"
+"vivere nell'agio"
+"vivere o morire"
+"vivere per mangiare"
+"vivere per sempre"
+"vivere più a lungo"
+"vivere più a lungo"
+"vivere promiscuamente"
+"vivere separati"
+"vivere sull'orlo del brivido"
+"vivere un periodo difficile, essere in un brutto momento"
+"vivere una vita a metà"
+"vivi e lascia vivere"
+"voglia di vivere"
+#* sostenere il 
+#* si conviene al 
+#*qualità del 
+#* ''ti sei mai chiesto perché '''viviamo'''?''
+#* con quella non si può 
+#* questo si che è 
+#* ho '''vissuto''' un esperienza indimenticabile
+*''(verbo intransitivo)'' [[abitare]], [[alimentarsi]], [[campare]], [[continuare]], [[esistere]], [[essere]], [[fiorire]], [[nutrirsi]], [[perdurare]], [[sopravvivere]], [[stare]], [[risiedere]], [[vegetare]]
+*''(verbo transitivo)'' [[condurre]], [[fare]], [[godere]], [[immedesimarsi]], [[passare]], [[provare]], [[sperimentare]], [[trascorrere]]
+*''(sostantivo)'' [[esistenza]], [[mantenimento]], [[vita]]
+*''(verbo intransitivo)'' [[appassire]], [[avvizzire]], [[cessare]], [[crepare]], [[finire]], [[morire]], [[perire]], [[scomparire]]
+*[[convivere]],[[sopravvivere]], [[honeste vivere]]
+*''vivi e lascia 
+*''
+*''imparare a 
+*''Chi muore esce d'affanni, ma tutti si vuol '''viver''' cent'anni.''
+* italiano
+*latino
+M>vissi</E
+M>vivètti</E
+M>vivéi</E
+M>vivésti</E
+M>vivrò</E
+M>viverò</E
+M>vivrèi</E
+M>viverèi</E
+M>vissuto</E
+M>visso</E
+M>vivuto</E
+M>essere</E
+M>avere</E
+M>gli esseri</E
+M>gli organismi che vivono</E
+M>che possono v.</E
+M>degli animali</E
+M> quelli che vivono più a lungo sono le balene e gli elefanti</E
+M> tra i vegetali le grandi piante d’alto fusto</E
+M>Sì come dice Aristotile nel secondo de l’Anima</E
+M> «vivere è l’essere de li viventi</E
+M>; e per ciò che vivere è per molti modi</E
+M>sì come ne le piante vegetare</E
+M> ne li animali vegetare e sentire e muovere</E
+M> ne li uomini vegetare</E
+M> sentire</E
+M> muovere e ragionare</E
+M> o vero intelligere</E
+M> e le cose si deono denominare da la più nobile parte</E
+M> manifesto è che vivere ne li animali è sentire – animali</E
+M> dico</E
+M> bruti –</E
+M> vivere ne l’uomo è ragione usare</E
+M>morire</E
+M>il poveretto viveva ancora questa mattina</E
+M>ha cessato di v.</E
+M>mangiare per v. e non v. per mangiare</E
+M>chi muore giace</E
+M> chi vive si dà pace</E
+M>essere stanco di v.</E
+M>non avere più voglia di v.</E
+M>è un cane ormai vecchio</E
+M> e gli resta poco da vivere</E
+M>piante che vivono sui ruderi</E
+M>sopra i 2000 m</E
+M>le specie che vivono nelle profondità del mare</E
+M>gente abituata a v. in campagna</E
+M>in città</E
+M> in caverne</E
+M>Leonardo visse a lungo a Milano</E
+M>è vissuta quasi sempre in convento</E
+M>vive con i suoi genitori</E
+M> ha vissuto tre anni dalla fidanzata</E
+M>la casa dove visse e morì</E
+M>il commediografo latino P. Terenzio visse nel 2° sec. a. C.</E
+M>gli scrittori che vissero nell’età elisabettiana</E
+M>visse dal 1821 al 1904</E
+M>ha vissuto settant’anni o poco più</E
+M>visse per molti anni</E
+M>visse molti anni</E
+M>v. tranquillo</E
+M>in pace</E
+M>senza pensieri</E
+M>senza preoccupazioni</E
+M>... e vissero felici e contenti</E
+M>vissero infelici perché costava di meno</E
+M>v. a sé</E
+M>v. alla giornata</E
+M>v. miseramente</E
+M>lautamente</E
+M>da gran signore</E
+M> Vissi al cinque per cento</E
+M> non aumentate La dose</E
+M>Fatti non foste a viver come bruti</E
+M>Ma per seguir virtute e conoscenza</E
+M>Viveansi in libertà le genti liete</E
+M>popoli che vivono di caccia</E
+M>di pesca</E
+M>v. di espedienti</E
+M>v. del proprio</E
+M>v. di rendita</E
+M>popolazioni che vivono di riso</E
+M>di polenta</E
+M>v. d’arte</E
+M>d’amore</E
+M>d’odio</E
+M>di speranza</E
+M>Vissi di speme</E
+M> or vivo pur di pianto</E
+M>Voialtri pochi che drizzaste il collo Per tempo al pan de li angeli</E
+M> del quale Vivesi qui ma non sen vien satollo</E
+M>essere</E
+M>stare</E
+M>vivi tranquillo</E
+M>vivi sicuro</E
+M> che</E
+M>vivi tranquillo</E
+M> che tanto le cose continueranno ad andare come sono sempre andate</E
+M>puoi v. sicuro che non ti restituirà nemmeno un centesimo</E
+M>ma di questo vivi sicuro che io non sarò mai lieta se io non mi veggio vendica</E
+M>di ciò che fatto m’hai</E
+M>v. in ansia</E
+M>v. in ristrettezze.</E
+M>hanno appena di che v.</E
+M>non è v. questo!</E
+M>Come stai?</E
+M>Si vive!</E
+M>lasciami v.</E
+M>non lasciar v. una persona</E
+M>vivere e lasciar vivere</E
+M>un gran respiro per questo povero paese! ché non ci si poteva v. con lui</E
+M>impara a v.!</E
+M>è una persona che sa vivere</E
+M>una persona che ha vissuto</E
+M>avere</E
+M>v. una lunga vita</E
+M>una vita tranquilla</E
+M>una vita di stenti</E
+M>ha vissuto intensamente quelle ore di felicità</E
+M>visse momenti di angoscia</E
+M>ricordavano le lotte che avevano vissute insieme</E
+M>chi ha bene operato</E
+M> vive eterno nella stima e nella riconoscenza dei posteri</E
+M>fisicamente ci ha lasciato</E
+M> ma continuerà sempre a v. nel ricordo delle persone amate</E
+M>Non vive ei forse anche sotterra</E
+M> quando Gli sarà muta l’armonia del giorno</E
+M> Se può destarla con soavi cure Nella mente de’ suoi?</E
+M>quel ricordo vivrà sempre in me</E
+M>la sua memoria vive in noi</E
+M>un libro che vivrà</E
+M>Qui vive la pietà quand’è ben morta</E
+M>Che ’l desir vive</E
+M> e la speranza è morta</E
+M>Vissero i fiori e l’erbe</E
+M> Vissero i boschi un dì</E
+M>Viva!</E
+M>chi viva?</E
+M>chi vive?</E
+M>Vive!</E
+M>vita</E
+M>Se del mio viver Atropo Presso è a troncar lo stame</E
+M>Sento gli avversi numi</E
+M> e le secrete Cure che al viver tuo furon tempesta</E
+M>ti assicuro che non è un bel v. il mio</E
+M>e come può star bene in salute con quel v. che fa!</E
+M>A così riposato</E
+M> a così bello Viver di cittadini</E
+M> a così fida Cittadinanza</E
+M>Maria mi diè</E
+M>considerata la qualità del vivere e de’ costumi di Toscana</E
+M>ove dorme il furor d’inclite geste E sien ministri al vivere civile L’opulenza e il tremore</E
+M>E s’io al vero son timido amico</E
+M> Temo di perder viver tra coloro Che questo tempo chiameranno antico</E
+M>il v. costa caro di questi tempi</E
+M>la spesa del v. è notevolmente cresciuta</E
+M>vivente Romolo</E
+M>vivente ancora il padre</E

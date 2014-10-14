@@ -1,0 +1,68 @@
+pallone.txt
+"Andare nel pallone"
+"essere nel pallone"
+"gioco di gruppo con pallone"
+"pallone"
+"pallone"
+"pallone da spiaggia"
+"pallone di calcio, pallone da calcio"
+"pallone gonfiato"
+"pallone volumetrico"
+"prendere il pallone tra le mani"
+#* ''pallone da calcio'', ''da pallacanestro'', ''da pallavolo''
+#* ''fare la testa come un pallone a qualcuno'' 
+#* ''avere, sentirsi la testa come un pallone''
+#* una partita di pallone
+#* ''pallone frenato'', ''pallone sonda''
+* (sport) [[pallonata]]
+*[[palla]]
+*italiano
+M>palla</E
+M>gioco del p</E
+M>giocare a p.</E
+M>con bracciale toscano</E
+M>elastico</E
+M>con bracciale piemontese</E
+M>palloncino piemontese</E
+M>linea di p</E
+M>morto</E
+M>frenato</E
+M>libero</E
+M>sferico</E
+M>per ostruzione e sbarramento aereo</E
+M>aquilone</E
+M>cervo volante</E
+M>drago</E
+M>Drachenballon</E
+M>osservatorio</E
+M>stratosferico</E
+M>sonda</E
+M>radiosonda</E
+M>pilota</E
+M>ad aria calda</E
+M>mongolfiera</E
+M>Ma nulla paga il pianto del bambino A cui fugge il pallone tra le case</E
+M>avere il viso</E
+M> la faccia come un p</E
+M>essere gonfio come un p</E
+M>avere la testa come un p</E
+M>essere</E
+M>andare nel p</E
+M>gonfiato</E
+M>tarato</E
+M>vela</E
+M>fiocco</E
+M>a pallone</E
+M>pallone</E
+M>spinnaker</E
+M>Salire a pallone</E
+M>avere il p</E
+M>non fare troppi sforzi</E
+M>che ti viene il pallone</E
+M>di maggio</E
+M>di neve</E
+M>palla di neve</E
+M>maggio</E
+M>Viburnum opulus</E
+M>di filatura</E
+M>di roccatura</E

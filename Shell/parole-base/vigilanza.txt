@@ -1,0 +1,30 @@
+vigilanza.txt
+"comitato di vigilanza"
+"vigilanza"
+"vigilanza"
+#* esercitare molta 
+*[[sorveglianza]]
+*[[incuria]]
+*''[[squadre]] di 
+*italiano
+M>vigilantia</E
+M>vigilare</E
+M>usare v.</E
+M>è necessaria la massima v.: la situazione è grave.</E
+M>v. attenta</E
+M>i bambini giocavano sotto la v. dei genitori</E
+M>esercitò su di lui una v. scrupolosa</E
+M>si sottrasse così alla v. dei superiori</E
+M>v. privata</E
+M>v. privata notturna</E
+M>chiamare la classe operaia</E
+M>i lavoratori alla v.</E
+M>per sconfiggere il terrorismo è necessaria la v. di tutte le forze democratiche.</E
+M>V. amministrativa</E
+M>V. scolastica</E
+M>diploma di v. scolastica</E
+M>V. speciale</E
+M>sorveglianza speciale</E
+M>sorvegliati</E
+M>vigilati</E
+M>speciali</E

@@ -1,0 +1,50 @@
+colui.txt
+"colui"
+"colui che acquista il biglietto"
+"colui che chiede elemosina"
+"colui che concepisce"
+"colui che dà le carte (gioco)"
+"colui che decide"
+"colui che dice no"
+"colui che dilaziona"
+"colui che ha il grilletto facile"
+"colui che implora"
+"colui che indugia"
+"colui che lancia una moda"
+"colui che non ha orecchio musicale"
+"colui che osserva"
+"colui che ostenta rifiuto"
+"colui che pervade"
+"colui che precede il futuro"
+"colui che prega"
+"colui che ritarda"
+"colui che spara"
+"colui che supplica"
+"colui che temporeggia"
+"colui che va ad una festa"
+"colui che voga"
+"salariato, colui che guadagna un salario"
+M>colèi</E
+M>colóro</E
+M>eccu</E
+M>*illui</E
+M>cui</E
+M>eccu</E
+M>*illei</E
+M>eccu</E
+M>illorum</E
+M>che</E
+M>Vidi e conobbi l’ombra di colui Che fece per viltade il gran rifiuto</E
+M>conosci colui che prenderà il tuo posto?</E
+M>è colei la ragazza della quale ti parlavo</E
+M>per coloro che lo desiderano è previsto un piccolo rinfresco</E
+M>pensa a coloro che stanno peggio di te</E
+M>fu svelta a mettere gli occhi allagati di pianto dentro quel volto</E
+M> né più si volse a guardare coloro che salutavano</E
+M>sperava che colui</E
+M>non vedendomi</E
+M> non si curerebbe più di me</E
+M>non voglio più sapere niente di colui!</E
+M>non parlarmi più di coloro!</E
+M>per lo colui consiglio</E
+M>fatti espressamente per coloro uso</E

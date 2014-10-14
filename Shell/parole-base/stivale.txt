@@ -1,0 +1,48 @@
+stivale.txt
+"calzini da stivale"
+"lo stivale"
+"stivale"
+"stivale"
+"stivale"
+"stivale a mezza gamba"
+"stivale da cowboy"
+"stivale da equitazione"
+"stivale da equitazione"
+"stivale di ferro"
+*[[calzatura]], [[scarpa]], [[scarpone]], [[anfibio]], [[caloscia]]
+M>estival</E
+M>stival</E
+M>Stiefel</E
+M>stivali di pelle</E
+M>di cuoio</E
+M>gli s. dei militari</E
+M>tromba degli s.</E
+M>gambale</E
+M>stivali da caccia</E
+M>s. da pesca</E
+M>da palude</E
+M>s. alla scudiera</E
+M>s. alla ussara</E
+M>a fisarmonica</E
+M>s. all&#8217;inglese</E
+M>mettere</E
+M>calzare gli s.</E
+M>togliersi</E
+M>sfilarsi gli s.</E
+M>ungere</E
+M>lustrare gli s. a qualcuno</E
+M>gli s. delle sette leghe</E
+M>lo Stivale</E
+M>Goti e Vandali ... venuti a manomettere</E
+M> a vituperare e a imbarbarire il nostro bellissimo e gloriosissimo Stivale</E
+M>Lo stivale</E
+M>Io non son della solita vacchetta</E
+M> Né sono uno stival da contadino ...</E
+M>sei proprio uno stivale!</E
+M>rompere gli s.</E
+M>rompere i corbelli</E
+M>le scatole</E
+M>dei miei stivali</E
+M>intellettuale</E
+M>medico dei miei s.</E
+M>è uno dei soliti provvedimenti dei miei stivali</E

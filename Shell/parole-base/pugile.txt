@@ -1,0 +1,19 @@
+pugile.txt
+"guantone da pugile"
+"persona con cui il pugile si allena nel ring"
+"pugile"
+"pugile peso-piuma"
+"pugile professionista"
+"sacco (del pugile)"
+"sacco da pugile"
+"secondo (di un pugile)"
+*[[boxeur]], [[pugilatore]]
+*[[pugilatore]], [[pugilatrice]]
+M>pugil</E
+M>lis</E
+M>pugnus</E
+M>fare il p</E
+M>dilettante</E
+M>professionista</E
+M>i due p</E
+M>apparivano entrambi molto provati</E

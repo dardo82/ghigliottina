@@ -1,0 +1,11 @@
+ammobiliare.txt
+"ammobiliare"
+M>mobilia</E
+M>ameubler</E
+M>meuble</E
+M>io ammobìlio</E
+M>una stanza</E
+M>una casa</E
+M>villa ammobiliata</E
+M>appartamento sontuosamente ammobiliato</E
+M>camera ammobiliata</E

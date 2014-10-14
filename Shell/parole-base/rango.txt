@@ -1,0 +1,50 @@
+rango.txt
+"alto rango"
+"assegnare un rango"
+"di elevato rango sociale"
+"di rango elevato"
+"nel più alto rango"
+"privato (del rango, dell'autorità, ecc.)"
+"rango"
+"rango"
+"rango militare"
+*[[condizione]]
+M>rang</E
+M>ghi</E
+M>un uomo</E
+M>una donna</E
+M>una famiglia</E
+M>di alto r</E
+M>di r</E
+M>elevato</E
+M>superiore</E
+M>di rango</E
+M>di basso r</E
+M>di r</E
+M>inferiore</E
+M>gente d&#8217;ogni rango</E
+M>un ambasciatore con il r</E
+M>di ministro</E
+M>essere elevato al r</E
+M>di principe</E
+M>un titolato di r</E
+M>inferiore</E
+M>rango di un fonema</E
+M>il r</E
+M>cresce proporzionalmente al decrescere delle frequenze</E
+M>vascello di 1&#176;</E
+M> 2&#176;</E
+M> 3&#176; r</E
+M>rango</E
+M>caratteristica</E
+M>di una matrice</E
+M>r. di una superficie algebrica</E
+M>fila</E
+M>riga</E
+M> uscire dai r</E
+M>restare nei r</E
+M>rientrare nei r</E
+M>serrare i r</E
+M>il partito</E
+M>in vista delle elezioni</E
+M>ha serrato i ranghi</E

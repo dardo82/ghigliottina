@@ -1,0 +1,82 @@
+orso.txt
+"combattimento cani contro orso"
+"grizzly, orso grizzly"
+"inseguire un orso (rifugiato su di un albero)"
+"orso"
+"orso"
+"orso bianco"
+"orso bruno"
+"orso grizzly"
+"orso labiato"
+"orso nero"
+"orso panda"
+"orso polare"
+"tappeto di pelle d'orso"
+#* persona [[scorbutica]] e poco [[socievole]]
+*(nel linguaggio della borsa) [[ribassista]], [[bear]]
+*[[orso-pellismo]]
+*[[plantigrado]] 
+*[[animale]]
+* ''Pelare l'
+* ''Ti muovi come un 
+* ''Non vendere la pelle dell'
+*italiano
+M>rsus</E
+M>bianco</E
+M>polare</E
+M>Thalarctos maritimus</E
+M>dal collare</E
+M>Selenarctos tibetanus</E
+M>giocoliere</E
+M>Melursus ursinus</E
+M>bradipo orsino</E
+M>labiato</E
+M>malese</E
+M>Helarctos malayanus</E
+M>nero americano</E
+M>Ursus americanus</E
+M>baribal</E
+M>ornato</E
+M>dagli occhiali</E
+M>Tremarctos ornatus</E
+M>bruno</E
+M>Ursus arctos</E
+M>Ursus arctos horribilis</E
+M>grizzly</E
+M>grigio americano</E
+M>Ursus arctos arctos</E
+M>delle Alpi</E
+M>Ursus arctos marsicanus</E
+M>d’Abruzzo</E
+M>marsicano</E
+M>delle caverne</E
+M>spelèo</E
+M>Ursus spelaeus</E
+M>ballare</E
+M>camminare come un o</E
+M>pare un o</E
+M>è un o</E
+M>che o</E
+M>invitare l’o</E
+M>alle pere</E
+M>vendere la pelle dell’o</E
+M>prima d’averlo preso</E
+M>prima d’averlo ucciso</E
+M>prima che sia morto</E
+M>non vendere</E
+M>non bisogna vendere</E
+M>bandiera</E
+M>formichiere</E
+M>d’Australia</E
+M>marsupiale</E
+M>del bambù</E
+M>di padre David</E
+M>felino rosso</E
+M>gatto</E
+M>lavatore</E
+M>Uva d’orso</E
+M>uva orsina</E
+M>ursina</E
+M>bear</E
+M>toro</E
+M>bull</E

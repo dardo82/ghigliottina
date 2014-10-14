@@ -1,0 +1,78 @@
+soccorso.txt
+"banco di mutuo soccorso"
+"cassetta di pronto soccorso"
+"freno di soccorso"
+"incidente con fuga, incidente con omissione di soccorso"
+"madonna del mutuo soccorso"
+"missione di soccorso"
+"mutuo soccorso"
+"mutuo soccorso"
+"omissione di soccorso"
+"postazione di soccorso"
+"posto di pronto soccorso"
+"posto di pronto soccorso"
+"primo soccorso"
+"pronto soccorso"
+"sistema di mutuo soccorso tra compagni di una squadra"
+"soccorso"
+"soccorso"
+"soccorso stradale"
+"società di mutuo soccorso"
+"venire in soccorso"
+"venire in soccorso a qualcuno"
+*''(aggettivo)'' [[aiutato]], [[assistito]]
+*''(sostantivo)'' [[aiuto]], [[assistenza]]
+*[[pronto soccorso]]
+*[[soccorrere]], [[soccorritore]]
+M>soccorrere</E
+M>soccorso</E
+M>dare</E
+M>prestare</E
+M>chiedere s.</E
+M>andare</E
+M>venire in s. di qualcuno</E
+M>gli italiani sono sempre pronti a correre in s. del vincitore</E
+M>chiamare qualcuno in s.</E
+M>chiamare s.</E
+M>a s.</E
+M>Società di mutuo s.</E
+M>s. invernale</E
+M>s. marittimo</E
+M>s. aeronautico</E
+M>s. alpino</E
+M>Corpo nazionale soccorso alpino</E
+M>Club alpino italiano</E
+M>s. stradale</E
+M>la Madonna</E
+M>la Vergine</E
+M>del s.</E
+M>Fune di s.</E
+M>fune s.</E
+M>Posto di pronto s.</E
+M>pronto s.</E
+M>pronto s.</E
+M>omissione di soccorso</E
+M>provvedere al s. dei feriti</E
+M>organizzare il s. degli alluvionati</E
+M>Garzon</E
+M> nato al soccorso Di Grecia</E
+M>mandare</E
+M>ricevere soccorsi in denaro</E
+M>in coperte</E
+M>in medicinali</E
+M>non è un gran s.</E
+M> ma gli farà comodo</E
+M>inviare soccorsi</E
+M>il mancato arrivo di soccorsi costrinse la guarnigione alla resa</E
+M>il s. di Pisa</E
+M>il povero vecchio</E
+M> quantunque sentisse bene a che rischioso giuoco giocava</E
+M> e avesse anche paura di portare il s. di Pisa</E
+M> pure non volle mancare</E
+M>e &#8217;l mio fido soccorso</E
+M> Védem&#8217;</E
+M>mi vede</E
+M>arder nel foco</E
+M> e non m&#8217;aita</E
+M>per la gran rabbia Del pizzicor</E
+M> che non ha più soccorso</E

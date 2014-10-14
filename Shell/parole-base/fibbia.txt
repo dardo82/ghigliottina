@@ -1,0 +1,5 @@
+fibbia.txt
+"fibbia"
+*[[fermaglio]], [[spilla]]
+M>fig</E
+M>staffa</E

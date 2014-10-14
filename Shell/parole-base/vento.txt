@@ -1,0 +1,300 @@
+vento.txt
+"a prova di vento"
+"al vento"
+"alito di vento"
+"battuto dal vento"
+"battuto dal vento"
+"bava di vento"
+"bava di vento"
+"bonaccia, mancanza di vento"
+"carico di vento"
+"Chi semina vento raccoglie tempesta"
+"col vento in prua"
+"colpo di vento"
+"combattere contro i mulini a vento"
+"con il vento"
+"con vento a favole"
+"con vento a favore"
+"contro vento"
+"cose portate dal vento"
+"direzione del vento"
+"folata di vento"
+"forte vento"
+"forte vento"
+"forza del vento, forza eolica"
+"galleria del vento"
+"giacca a vento"
+"giacca a vento"
+"giacca a vento"
+"giacca a vento"
+"giro di vento"
+"guidato dal vento"
+"indicatore del vento"
+"infuriare (vento)"
+"La donna è mobile qual piuma al vento"
+"leggero vento"
+"lottare contro i mulini a vento"
+"manica a vento"
+"manica a vento"
+"mulino a vento"
+"mulino a vento"
+"nel vento"
+"non esserci un filo di vento."
+"parole al vento"
+"porta a vento, porta da saloon"
+"qual buon vento!?"
+"raffica di vento"
+"raffica di vento, folata di vento, colpo di vento"
+"resistenza del vento"
+"scompigliato dal vento"
+"sia che piova o tiri vento"
+"sotto vento"
+"sprecare; gettare al vento"
+"ululare del vento"
+"urlare al vento"
+"vento"
+"vento"
+"vento caldo"
+"vento contrario"
+"vento contrario"
+"vento da ovest"
+"vento del nord"
+"vento del sud"
+"vento dell'est"
+"vento di poppa"
+"vento di prua"
+"vento di traverso"
+"vento dominante"
+"vento elettrico"
+"vento freddo"
+"vento gagliardo"
+"vento gelido"
+"vento in poppa!"
+"vento invernale"
+"vento leggero"
+"vento locale"
+"vento occidentale, vento da Ovest"
+"vento solare"
+"vento teso"
+"vento trasversale"
+#* ''Oggi il '''vento''' soffia forte''
+#* ''Si alza il '''vento'''''
+#* ''C'è un '''vento''' caldo''
+#* ''Qual buon vento vi porta?''
+#* ''Il vento gli va contro''
+#* ''fare vento'' ([[petare]])
+*[[aria]], [[corrente]], [[brezza]] 
+*[[controvento]]
+* [[ventoso]], [[ventare]], [[sventolare]], [[frangivento]]
+* [[folata]],  [[mulino a vento]],  [[refolo]],  [[soffio]],  [[vela]]
+*''Chi semina vento, raccoglie tempesta''
+*'' 
+* ''veloce come il 
+*''parlare al vento''.
+*italiano
+*portoghese
+M>ntus</E
+M>viento</E
+M>v. di N</E
+M>di NE</E
+M>scala del v.</E
+M>di Beaufort</E
+M>v. forte</E
+M>teso</E
+M>leggero</E
+M>v. costante</E
+M>v. periodico</E
+M>v. pulsante</E
+M>v. dominante</E
+M>v. regnante</E
+M>v. locale</E
+M>v. regionale</E
+M>v. di gradiente</E
+M>v. anabatico</E
+M>v. catabatico</E
+M>v. inferiore</E
+M>v. al suolo</E
+M>v. superiore</E
+M>d’alta quota</E
+M>v. laminare</E
+M>v. turbolento</E
+M>v. ciclonico</E
+M>anticiclonico</E
+M>ciclostrofico</E
+M>geostrofico</E
+M>v. caldo</E
+M>gelido</E
+M>umido</E
+M>secco</E
+M>un v. che taglia la faccia</E
+M>che mozza il respiro</E
+M>l’impeto</E
+M>la furia del v.</E
+M>un alito</E
+M>un soffio</E
+M>un buffo</E
+M>una folata di v.</E
+M>bava di v.</E
+M>nodo</E
+M>groppo di v.</E
+M>raffiche di v.</E
+M>un colpo di v.</E
+M>salto di v.</E
+M>vento di sabbia</E
+M>tempesta di sabbia</E
+M>v. di terra</E
+M>di mare</E
+M>rosa dei v.</E
+M>Il re</E
+M>il dio dei v.</E
+M>il regno dei v.</E
+M>Felice te che il regno ampio de’ venti</E
+M> Ippolito</E
+M> a’ tuoi verdi anni correvi!</E
+M>s’è alzato il v.</E
+M>il v. spira</E
+M>soffia</E
+M>tira</E
+M>fischia</E
+M>sibila</E
+M>il fischio</E
+M>il sibilo del v.</E
+M>lo scatenarsi dei v.</E
+M>il v. si calma</E
+M>si placa</E
+M>cala</E
+M>cade</E
+M>cessa</E
+M>è cambiato</E
+M>è mutato il v.</E
+M>zona battuta dal v.</E
+M>Viene il v. recando il suon dell’ora</E
+M>camminare col v. in faccia</E
+M>col v. di schiena</E
+M>prendere vento</E
+M>prendono vento</E
+M>si appoggiano sul v.</E
+M>il v. sbatteva l’uscio</E
+M>le finestre</E
+M>il v. spense la candela</E
+M>barca in balìa del v.</E
+M>rami</E
+M>foglie che stormiscono al v.</E
+M>foglie portate dal v.</E
+M>spiegare le bandiere al v.</E
+M>correre con le chiome</E
+M>con i capelli al v.</E
+M>i bersaglieri con le piume al v.</E
+M>qual buon v. ti</E
+M>porta</E
+M>manda?</E
+M>qual buon v.?</E
+M>mulino a vento</E
+M>motore a v.</E
+M>aeromotore</E
+M>torcia a v.</E
+M>giacca a v.</E
+M>chi semina v. raccoglie tempesta</E
+M>gridare</E
+M>spargere a tutti i</E
+M>ai quattro</E
+M>quattro venti</E
+M>Matteo</E
+M>et congregabunt electos eius a quattuor ventis</E
+M>lottare</E
+M>prendersela con i mulini a vento</E
+M>sperdano i venti Ogni augurio infelice</E
+M>parlare al v.</E
+M>parole al v.</E
+M>fatiche gettate al v.</E
+M>veloce come il v.</E
+M>corse via</E
+M> fuggì</E
+M> volò come il v.</E
+M>sparì portato via dal v.</E
+M>sulle ali del v.</E
+M>sempre è più leggier ch’al v. foglia</E
+M> E mille volte el dì vuole e disvuole</E
+M>La donna è mobile Qual piuma al v.</E
+M>Rigoletto</E
+M>girare con il v.</E
+M>voltarsi a tutti i v.</E
+M>regolarsi secondo il v. che tira</E
+M>essere come una banderuola</E
+M> che si volta a tutti i v.</E
+M>essere come una canna</E
+M>una piuma</E
+M>al vento</E
+M>Vento di fronda</E
+M>sciogliere</E
+M>spiegare le vele al v.</E
+M>ai v.</E
+M>navigare secondo il v.</E
+M>essere</E
+M>stare</E
+M>trovarsi</E
+M>mettersi sotto vento</E
+M>sopra v.</E
+M>navigare</E
+M>procedere</E
+M>andare col v. in poppa</E
+M>guadagnare</E
+M>portarsi</E
+M>risalire al v.</E
+M>stringere il v.</E
+M>andare contro vento</E
+M>presentarsi al v.</E
+M>la nave presenta al v.</E
+M>venire al v.</E
+M>orzare</E
+M>il v. rifiuta</E
+M>scarseggia</E
+M>il v. ridonda</E
+M>il v. rinfresca</E
+M>angolo del v. bussola</E
+M>del v. geografico</E
+M>del v. di prora</E
+M>vento di prora</E
+M>di prua</E
+M>v. di bolina</E
+M>di buon braccio</E
+M>v. al traverso</E
+M>a mezza nave</E
+M>v. largo</E
+M>v. a gran losco</E
+M>al giardinetto</E
+M>v. in fil di ruota</E
+M>smettila di aprire e chiudere la porta</E
+M> mi fai vento</E
+M>farsi vento</E
+M>il v. prodotto da un ventilatore</E
+M>scoreggia</E
+M>peto</E
+M>fare un v.</E
+M>un piccolo vento</E
+M>restare con le mani piene di vento</E
+M>campare di vento</E
+M>pascere</E
+M>pascersi di vento</E
+M>un individuo gonfio</E
+M>pieno</E
+M> di vento</E
+M>protesto al v.</E
+M>venti di guerra</E
+M>The winds of war</E
+M>spiravano allora v. di guerra su gran parte dell’Europa</E
+M>venti di ...</E
+M>ci sono v. di crisi</E
+M>spiravano v. di una sommossa popolare</E
+M>zona del vento</E
+M>v. solare</E
+M>v. stellare</E
+M>Galleria del v.</E
+M>aerodinamica</E
+M>porta a vento</E
+M>basso v.</E
+M>basso fusto</E
+M>mezzo v.</E
+M>medio fusto</E
+M>pieno v.</E
+M>alto fusto</E

@@ -1,0 +1,31 @@
+predica.txt
+"da che pulpito vien la predica!"
+"predica"
+"predica"
+*(di sacerdote) [[discorso]], [[sermone]], [[omelia]]
+*[[predicatore]]
+:* [[lecture]], [[talking-to]]
+*italiano
+M>poi che tutto il popolo fu ragunato</E
+M>frate Cipolla</E
+M>cominciò la sua p</E
+M>fare</E
+M> ascoltare una p</E
+M>le p</E
+M>quaresimali</E
+M>suonare a p</E
+M>suonare la p</E
+M>essere</E
+M>come</E
+M>un turco alla p</E
+M>da che pulpito viene la p</E
+M>disposono</E
+M>lui della p</E
+M>e feciono predicare un altro</E
+M>il frate</E
+M>e tutta la p</E
+M>come smemorati guatavano onde questa boce venìa</E
+M>non mi fare la solita p</E
+M>sono stanco di sentire prediche</E
+M>è inutile fargli la p</E
+M>se avesse ascoltato le mie prediche!</E

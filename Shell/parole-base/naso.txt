@@ -1,0 +1,157 @@
+naso.txt
+"a naso direi di sì"
+"anello da naso"
+"anello da naso"
+"arricciare il naso"
+"avere la puzza sotto il naso"
+"avere naso"
+"cadere prima col naso"
+"con il naso"
+"Da naso"
+"dal naso grosso"
+"entrare senza essere invitato; intromettersi; ficcare il naso"
+"ficcare il naso"
+"ficcare il naso in"
+"ficcare il naso in"
+"gocce per il naso"
+"incipriarsi il naso"
+"infilarsi in, intrufolarsi in, ficcare il naso in, mettere il becco in"
+"lasciare con un palmo di naso"
+"menare per il naso, prendere per i fondelli"
+"mettere il naso"
+"mettersi le dita nel naso"
+"naso"
+"naso"
+"naso adunco"
+"naso adunco"
+"naso aquilino"
+"naso convesso"
+"naso grande"
+"naso piatto"
+"naso rincagnato"
+"piercing al naso"
+"restare con un palmo di naso"
+"saltare la mosca al naso"
+"sangue dal naso"
+"sangue di naso"
+"sanguinamento del naso, sangue dal naso"
+"seni (del naso)"
+"soffiarsi il naso"
+"sotto il naso di"
+"sotto il tuo naso"
+"storcere il naso"
+"ti do un cartone sul naso"
+"un naso sghiacciato"
+*[[nasare]]
+*italiano
+*napoletano
+M>nasus</E
+M>mucosa pituitaria</E
+M>dorso del n</E
+M>radice del n</E
+M>lobulo</E
+M>apice</E
+M>profilo del n</E
+M>ali</E
+M>pinne del n</E
+M>base del n</E
+M>buchi del n</E
+M>soffiarsi il n</E
+M>mettersi le dita nel n</E
+M>inforcare gli occhiali sul n</E
+M>sangue dal n</E
+M>epistassi</E
+M>avere il n</E
+M>chiuso</E
+M>intasato</E
+M>avere la goccia al n</E
+M>fazzoletto da n.</E
+M>tabacco da n.</E
+M>Nasetto</E
+M>Nasone</E
+M>Nasuto</E
+M>Nasica</E
+M>Nasidienus</E
+M>Naso</E
+M>grosso</E
+M>piccolo</E
+M>affilato</E
+M>aquilino</E
+M>schiacciato</E
+M>rincagnato</E
+M>camuso</E
+M>un n</E
+M>lungo come quello di Pinocchio</E
+M>un n</E
+M>maschio</E
+M>Purg</E
+M>colui dal maschio n</E
+M>greco</E
+M>sella del naso</E
+M>un n</E
+M>a patata</E
+M>un n</E
+M>a peperone</E
+M>un n</E
+M>rosso come un pomodoro</E
+M>il n</E
+M>del cane</E
+M>del gatto</E
+M>del bue</E
+M>non avere n</E
+M>avere buon n</E
+M>sentire a n</E
+M>andare</E
+M>procedere</E
+M>giudicare a n</E
+M>a lume di n</E
+M>fare il n</E
+M>a un odore</E
+M>chiudere</E
+M>sbattere la porta sul n</E
+M>a qualcuno</E
+M>stare</E
+M>andare in giro col n</E
+M>per aria</E
+M>gli si è affilato il n</E
+M>allungare il n</E
+M>arricciare</E
+M>torcere il n</E
+M>avere la puzza</E
+M>la muffa</E
+M> al n</E
+M>sotto al n.</E
+M>avere</E
+M>mettere</E
+M>qualche cosa sotto il n</E
+M>fare qualcosa sotto il n</E
+M>qualcuno</E
+M>c’è stata una rapina proprio sotto al n</E
+M>della polizia</E
+M>parlare col n</E
+M>dare del n</E
+M>di n</E
+M>mettere</E
+M>ficcare</E
+M>il n</E
+M>nei fatti altrui</E
+M>mettere la punta del n</E
+M>fuori della porta</E
+M>stava tappato in casa</E
+M>con tanto di catenaccio</E
+M>e non metteva fuori nemmeno il n</E
+M>prendere</E
+M>pigliare</E
+M>menare per il n</E
+M>restare</E
+M>lasciare</E
+M>con tanto di n</E
+M>con un palmo di n</E
+M>non ricordarsi dal n</E
+M>alla bocca</E
+M>venire</E
+M>saltare la mosca al n</E
+M>non vedere più in là del proprio n</E
+M>avere l’anello</E
+M>gli orecchini al n</E
+M>Chondrostoma nasus</E

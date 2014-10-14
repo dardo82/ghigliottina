@@ -1,0 +1,23 @@
+adottare.txt
+"adottare"
+"adottare"
+"adottare"
+"adottare delle misure, prendere provvedimenti"
+"adottare un sistema"
+*''(provvedimenti, linee direttive)'' [[prendere]], [[attuare]]''
+*[[rifiutare]], [[respingere]], [[scartare]]
+*[[ripudiare]]
+*[[adottato]]
+M>adoptare</E
+M>optare</E
+M>io adòtto</E
+M>a. un bambino orfano</E
+M>Tiberio fu adottato da Augusto</E
+M>un sistema di vita</E
+M>un metodo</E
+M>un provvedimento</E
+M>il direttore adottò severi provvedimenti disciplinari</E
+M>un libro di testo</E
+M>vocabolo adottato dal latino</E
+M>prestito</E
+M>voci ereditarie</E

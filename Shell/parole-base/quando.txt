@@ -1,0 +1,182 @@
+quando.txt
+"Da quando in qua"
+"di quando in quando"
+"è passata un'eternità da quando, sono passati secoli da quando"
+"esserci quando qualcosa prende il via"
+"fagiolo verde (che si mangia quando non è ancora maturo)"
+"fragile quando è caldo"
+"il gioco è bello quando dura poco"
+"lo scherzo e' bello quando dura poco"
+"non importa quando"
+"prezzo di aggiudicazione (quando il giudice dichiara chiusa l'asta con un colpo di martello)"
+"quando"
+"quando"
+"quando"
+"quando"
+"quando"
+"quando"
+"quando"
+"quando ci vuole, ci vuole"
+"quando ero giovane"
+"quando ero piccolo pensavo che"
+"quando hai tempo"
+"quando il gatto non c'è i topi ballano"
+"quando il gioco si fa duro, i duri cominciano a giocare!"
+"quando la realtà supera la fantasia"
+"quando lo desideri"
+"quando mai?"
+"quando meno te lo aspetti"
+"quando sei arrivato?"
+"quando si dice il destino..."
+"quando si dice la sfortuna"
+"quando ti è comodo"
+"quando ti torna meglio"
+"quando vuoi"
+"quando vuoi!"
+"ricordare a qualcuno di quando"
+"se e quando"
+"si stava meglio quando si stava peggio."
+"solo quando serve"
+#* '''''quando''' arriverà?''
+#* ''la neve arrivò '''quando''' ce l'aspettavamo''
+*[[come quando fuori piove]]
+*'' 
+*italiano
+M>quando</E
+M>hai terminato gli esami?</E
+M>tornerete a trovarci?</E
+M>chiude quest’ufficio?</E
+M>fu proclamato il Regno d’Italia?</E
+M>«È arrivato mio fratello» «Quando?»</E
+M>da q</E
+M>sei qui?</E
+M>di q</E
+M>sono questi affreschi?</E
+M>per q</E
+M>dev’essere finito il lavoro?</E
+M>fino a q</E
+M>dovrò sopportarlo?</E
+M>a q</E
+M>il tuo matrimonio?</E
+M>la smetterete di seccarmi?</E
+M>mai si sono sentite dire cose simili?</E
+M>da q</E
+M>in qua si usa trattare così i genitori?</E
+M>dimmi q</E
+M>hai intenzione di rientrare</E
+M>domandagli q</E
+M>possiamo telefonargli</E
+M>non so q</E
+M>potrò rivedervi</E
+M>ho saputo che ci sarà una festa</E
+M>ma non m’hanno detto q</E
+M>ci sarà</E
+M>chi sa</E
+M>chissà</E
+M>lo rivedrò</E
+M>Dio sa q</E
+M>potremo tornare</E
+M>ci rincontreremo chissà q</E
+M>Dio sa q</E
+M>va a Milano quasi tutti i giorni</E
+M>in auto q</E
+M>col treno</E
+M>«Vai tutte le estati in montagna?» «Q</E
+M>no»</E
+M>di quando in quando</E
+M>a quando a quando</E
+M>di q</E
+M>in q</E
+M>qualche svago è necessario</E
+M>la figlia è lontana</E
+M>e la va a trovare di q</E
+M>in q</E
+M>l’uniformità della pianura era interrotta di q</E
+M>in q</E
+M>da qualche collinetta</E
+M>sarai grande</E
+M>capirai meglio queste cose</E
+M>avrò bisogno di te</E
+M>chiederò io stesso il tuo aiuto</E
+M>potrete giocare soltanto q</E
+M>avrete fatto i compiti</E
+M>non ti conoscevo ancora</E
+M>ti credevo diverso</E
+M>il salone era addobbato come q</E
+M>ci sono dei ricevimenti</E
+M>i contrattempi ti capitano q</E
+M>meno te l’aspetti</E
+M>ti prometto</E
+M>io muoia</E
+M>di lasciarti tutta la mia roba</E
+M>son tornato q</E
+M>lui</E
+M>andare a letto q</E
+M>i polli</E
+M>da q</E
+M>non c’è più sua moglie</E
+M>soffre molto la solitudine</E
+M>raccontaci di q</E
+M>eri in Africa</E
+M>vorrei che l’appartamento fosse già pronto per q</E
+M>mia figlia andrà a vivere da sola</E
+M>cercherò di sopportarlo fino a q</E
+M>non se ne andrà</E
+M>quando ripenso al pericolo corso</E
+M> mi vengono i brividi</E
+M>si dice il caso!</E
+M>si dice le combinazioni!</E
+M>la iella!</E
+M>si nasce</E
+M>si è nati disgraziati!</E
+M>si dice che con i soldi tutto è possibile!</E
+M>ecco</E
+M>stavo per uscire</E
+M>stavo uscendo</E
+M>quand’ecco squilla</E
+M>che squilla</E
+M>squillare</E
+M>il telefono</E
+M>quando che</E
+M>quando</E
+M>che càpiti da queste parti</E
+M>viemmi a trovare</E
+M>quando che sia</E
+M>che sia dovremo pure ritrovarci tutti insieme</E
+M>allor quando</E
+M>me lo disse quella sera stessa q</E
+M>c’incontrammo alla stazione</E
+M>nella giovinezza</E
+M>quando si hanno più forze</E
+M>tutto sembra più facile</E
+M>mentre</E
+M>è strano che sia lui a pretendere delle scuse quando l’offeso sono proprio io</E
+M>che</E
+M>e quando che anticamente tu non avevi altri poderi che fosse e caverne</E
+M>adesso hai terreni al sole</E
+M>c’è la salute c’è tutto</E
+M>loro fossero d’accordo</E
+M>accetterei anch’io una transazione</E
+M>quand’anche</E
+M>mi vendicherò</E
+M>quand’anche dovessi rovinarmi</E
+M>dato che</E
+M>dal momento che</E
+M>giacché</E
+M>ti dico che non lo so</E
+M>vuol dire che non lo so davvero</E
+M>vuoi saperlo a tutti i costi</E
+M>te lo dirò subito</E
+M>che dirà delle tue violente critiche</E
+M>per una piccola osservazione se la prende tanto?</E
+M>malizioso son io troppo</E
+M>Quand’io procuro a’ mia maggior trestizia</E
+M>quando lo volete sapere</E
+M>i religiosi dicono che veramente è cosa che non istà bene</E
+M>il q</E
+M>te lo preciserò in seguito</E
+M>ho capito che cosa hai intenzione di fare</E
+M>ma vorrei sapere il come e il q</E
+M>aspetto il come e ’l quando Del dire e del tacer</E
+M>un q</E
+M>ci deve pur essere!</E

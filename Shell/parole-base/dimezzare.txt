@@ -1,0 +1,13 @@
+dimezzare.txt
+"dimezzare"
+"dimezzare"
+M>mèzzo</E
+M>dimidiare</E
+M>io dimè</E
+M>il pane</E
+M>un frutto</E
+M>dimezzarsi</E
+M>la rapida inflazione ha dimezzato i nostri guadagni</E
+M>le entrate si sono pressoché dimezzate</E
+M>un fiasco quasi dimezzato</E
+M>il patrimonio è ormai dimezzato</E

@@ -1,0 +1,19 @@
+camion.txt
+"camion"
+"camion chiuso"
+"camion con rimorchio"
+"camion dei pompieri con scala estensibile"
+"camion dei rifiuti;della nettezza urbana"
+"camion delle consegne"
+"camion merci"
+"camion per traslochi"
+"camion, autocarro"
+"di camion dei pompieri con scala estensibile"
+"trasportare (con il camion)"
+*[[autocarro]]
+*[[camion-bomba]]
+*italiano
+*francese
+M>camion</E
+M>kam</E
+M> i c. sfrecciavano accanto alla macchina scuri e minacciosi come balene</E

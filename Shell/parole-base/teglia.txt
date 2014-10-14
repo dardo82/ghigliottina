@@ -1,0 +1,11 @@
+teglia.txt
+"piastra, griglia, teglia"
+"pizza in teglia alta, pizza spessa, pizza alta"
+"teglia"
+"teglia"
+"teglia per dolci"
+"teglia per pasticcini"
+"teglia, teglia da forno"
+M>teg</E
+M> la tipa bionda estrae dal forno una t. di sgombri al rosmarino</E
+M> la porta in tavola</E

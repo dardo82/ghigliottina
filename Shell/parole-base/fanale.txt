@@ -1,0 +1,29 @@
+fanale.txt
+"fanale"
+"fanale anteriore"
+"fanale di allineamento"
+"fanale di atterraggio"
+"fanale di gabbia"
+*[[luce]], [[lampada]],[[lanterna]], [[lampione]], [[lume]], [[faro]]
+*[[fanalista]]
+M>fanali di navigazione</E
+M>di coronamento</E
+M>di via</E
+M>fanali di fonda</E
+M>di posizione</E
+M>fanale a trappola</E
+M>fanali</E
+M>di porto</E
+M>d’ancoraggio</E
+M>di fonda</E
+M>d’ormeggio</E
+M>di via</E
+M>fanalino posteriore</E
+M>di coda</E
+M>di coda</E
+M>essere il f</E
+M>il fanalino di coda</E
+M>tagliaro le quattro torri</E
+M>che erano in mare alla guardia del porto</E
+M>e ’l f</E
+M>della Meloria</E

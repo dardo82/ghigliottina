@@ -1,0 +1,60 @@
+giuramento.txt
+"dichiarazione giurata, dichiarazione sotto giuramento"
+"dichiarazione sotto giuramento"
+"far prestare giuramento"
+"fare un giuramento"
+"giuramento"
+"giuramento di fedeltà"
+"giuramento di Ippocrate"
+"giuramento di Ippocrate"
+"giuramento di lealtà"
+"giuramento solenne"
+"prestare giuramento"
+"sotto giuramento"
+"sotto giuramento"
+*[[promessa]], [[impegno]], [[voto]]; [[dichiarazione]], [[assicurazione]], [[garanzia]], [[attestazione]], [[asserzione]]
+*promessa solenne, intenzione solenne
+* [[promessa]], [[assicurazione]]
+*[[spergiuro]]
+M>iuramentum</E
+M>iurare</E
+M>assertorio</E
+M>promissorio</E
+M>pronunciare</E
+M>proferire un g</E
+M>dare g</E
+M>fare g</E
+M>ho fatto g</E
+M>di non vederlo più</E
+M>affermare</E
+M>attestare</E
+M>asserire</E
+M>negare con g</E
+M>sotto g</E
+M>rivelare</E
+M>deporre</E
+M>testimoniare sotto g</E
+M>essere sotto g</E
+M>vincolarsi</E
+M>obbligarsi con g</E
+M>dispensare</E
+M>sciogliere dal g</E
+M>recitare la formula del g</E
+M>osservare</E
+M>mantenere</E
+M>violare</E
+M>tradire il g</E
+M>mancare al g</E
+M>restare fedele al g</E
+M>falso</E
+M>prestare g</E
+M>prestare g</E
+M>nelle mani di</E
+M>i ministri hanno prestato g</E
+M>nelle mani del presidente della Repubblica</E
+M>deferire il g</E
+M>il generale deferì il g</E
+M>alle truppe</E
+M>deferire il g</E
+M>riferire il g</E
+M>di Ippocrate</E

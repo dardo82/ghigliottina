@@ -1,0 +1,34 @@
+metallo.txt
+"bianco fino ad essere incandescente (di metallo)"
+"bicchiere di metallo"
+"fusione del metallo"
+"lamina di metallo"
+"lamina di metallo"
+"lastra di metallo"
+"lastra di metallo"
+"lingotto di metallo dorato; privo di valore"
+"lucidare un metallo"
+"metallo"
+"metallo alcalino"
+"metallo bianco"
+"metallo dolce"
+"metallo espanso"
+"metallo inossidabile"
+"metallo nobile"
+"metallo non ferroso"
+"metallo placcato di argento"
+"metallo prezioso"
+"metallo vile"
+"montato in modo che non si veda il metallo"
+"montatura in cui non si vede il metallo"
+"pezzo di metallo di riserva in una fonderia"
+"punta di metallo"
+"scultura di metallo"
+"taglio del metallo"
+"tutto metallo"
+#*''l'oro è un metallo''
+*[[lega]] metallica
+*[[metallico]]
+*Enciclopedia [http
+* Antonio Manno (a cura di), ''Vocabolario Araldico Ufficiale'', Roma, 1907
+* Voitěch Král, ''Heraldika'', Praga, 1900

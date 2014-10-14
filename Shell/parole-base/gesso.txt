@@ -1,0 +1,46 @@
+gesso.txt
+"gesso"
+"gesso"
+"opere in gesso"
+"pannello con carta e gesso"
+"pannello di gesso"
+"portare il gesso"
+*italiano
+*latino
+*inglese
+M>gypsum</E
+M>pietra da gesso</E
+M>a Carlo re di Francia fu licito pigliare la Italia col g</E
+M>Il Principe</E
+M>a pronta presa</E
+M>da stucco</E
+M>scagliola</E
+M>da forma</E
+M>lavori di gesso</E
+M>modellare in</E
+M>col g</E
+M>statue</E
+M>figurine di g</E
+M>pipa di g</E
+M>essere come una statua di g</E
+M>rimanere di g</E
+M>di stucco</E
+M>da muratore</E
+M>idraulico</E
+M>morto</E
+M>Carta a gesso</E
+M>museo dei g</E
+M>sala dei g</E
+M>copiare dal g</E
+M>il g</E
+M>del Mosè di Michelangelo</E
+M>del san Giorgio di Donatello</E
+M>mettere</E
+M>avere</E
+M>un braccio</E
+M>una gamba in g</E
+M>fare un g</E
+M>tagliare</E
+M>rimuovere un g</E
+M>immobilizzazione in gesso</E
+M>un venditore di gessini</E

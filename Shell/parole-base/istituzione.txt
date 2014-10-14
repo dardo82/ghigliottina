@@ -1,0 +1,61 @@
+istituzione.txt
+"istituzione"
+"istituzione"
+"istituzione"
+"istituzione"
+"istituzione, istituzioni"
+"istituzione accademica"
+"istituzione educativa"
+"istituzione educativa e di istruzione"
+"istituzione psichiatrica"
+"organizzazione sociale, istituzione sociale"
+*[[istituto]], [[organo]]
+*[[stato]], [[legge]], [[abitudine]], [[consuetudine]], [[istituzionale]], [[istituzionalizzare]], [[istituto]]
+M>institutio</E
+M>onis</E
+M>institu</E
+M>di un’accademia</E
+M>di una biblioteca</E
+M>di un ordine religioso</E
+M>cavalleresco</E
+M>di una cerimonia</E
+M>di una festa</E
+M>di una borsa di studio</E
+M>un organismo di recente i</E
+M>di i</E
+M>antica</E
+M>di erede</E
+M>I. canonica</E
+M>istituto</E
+M>assistenziale</E
+M>di beneficenza</E
+M>culturale</E
+M>canonica</E
+M>ecclesiastica</E
+M>l’i</E
+M>del matrimonio</E
+M>l’i</E
+M>della rappresentanza popolare</E
+M>promuovere i</E
+M>utili</E
+M>le i</E
+M>municipali</E
+M>patrie</E
+M>nazionali</E
+M>le i</E
+M>repubblicane</E
+M>essere rispettoso delle i</E
+M>promuovere</E
+M>tentare un attacco alle i</E
+M>è un’i</E
+M>quel cinema era un’i. del quartiere</E
+M>l’«I. oratoria» di Quintiliano</E
+M>Institutionis oratoriae libri XII</E
+M>l’i</E
+M>dei giovani</E
+M>dei figli</E
+M>istituzioni di fisica teorica</E
+M>istituzioni di diritto civile</E
+M>Istituzioni</E
+M>Institutiones</E
+M>istituzioni matematiche</E

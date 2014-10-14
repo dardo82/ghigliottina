@@ -1,0 +1,93 @@
+passivo.txt
+"comportamento passivo"
+"comportamento passivo"
+"fumo passivo"
+"in deficit, in passivo"
+"interesse passivo"
+"meritare di + passivo"
+"passivo"
+"passivo"
+"passivo"
+"passivo"
+"passivo"
+"passivo"
+"passivo"
+"passivo, inattivo"
+"pubblico passivo"
+"rateo passivo"
+"rimanere indifferente, restare passivo"
+#* ''Si tratta di creare l'autonomia morale della classe operaia che è stata sin qui strumento '''passivo''' nelle mani di tutte le gerarchie borghesi.'' <small>([[w
+#* ''La pietà non è che amore '''passivo''', amore morto.'' <small>([[w
+#* ''Anche ''Arcesso'' fa nell'infinito '''passivo''' ''arcessi'' e ''arcessiri''.'' <small>([[w
+#* ''Alla presentazione dell'ennesimo conto '''passivo''' qualcuno dei proprietari cominciò a pensare di vendere.'' <small>([[w
+#* ''Si generava un interesse '''passivo''' di cui era necessario tener conto.'' <small>(Pellegrino Capaldo
+#* ''L'uso che i latini fanno del '''passivo''' non è paragonabile a quello che ne fanno i greci.'' <small>([[w
+#* ''Di questo nel '''passivo''' della Federconsorzi non c'era segnale.'' <small>(Maria Martellini
+#* ''La divisione dell'attivo e '''passivo''' di questo stabilimento si effettuerà prendendo a base la ripartizione di tre quinti per il nuovo Governo, e di due quinti per l'Austria.'' <small>([[s
+* ''(privo di iniziativa)'' [[abulico]], [[apatico]], [[indolente]], [[inerte]]
+* ''(privo di reazioni)'' [[inerte]]
+* ''(economia)'' [[deficit]], [[perdita]]
+* ''(danno, perdita)'' [[danno]], [[perdita]]
+* ''(tutti i significati, eccetto la voce verbale di passire)'' [[attivo]]
+* ''(privo di iniziativa)'' [[operoso]]
+* ''(economia)'' [[attività]]
+* ''(aggettivo)'' [[elettorato passivo]], [[passivamente]], [[soggetto passivo]]
+* ''(elettronica, elettrotecnica)'' [[ripetitore passivo]], [[terminale passivo]]
+* ''(economia)'' [[passivo netto]]
+M>passivus</E
+M>passus</E
+M>pati</E
+M>attivo</E
+M>un temperamento</E
+M>un carattere p</E
+M>un individuo p</E
+M>e rassegnato</E
+M>assumere un atteggiamento p</E
+M>essere</E
+M>rimanere p</E
+M>di fronte a un attacco</E
+M>a un pericolo</E
+M>a un&#8217;ingiustizia</E
+M>obbedienza p</E
+M>difesa p</E
+M>resistenza p</E
+M>fumo p</E
+M>la materia p</E
+M>esser diventato un corpo p</E
+M>passivo</E
+M>verbo p</E
+M>coniugazione p</E
+M>coniugare al p</E
+M>il p</E
+M>del verbo &#171;amare&#187;</E
+M>stato p</E
+M>passivazione</E
+M>quadripolo p</E
+M>rete p</E
+M>terminale p</E
+M>ripetitore p</E
+M>la ditta è p</E
+M>bilancio p</E
+M>è un&#8217;istituzione interamente passiva</E
+M>Partite p</E
+M>di un bilancio preventivo</E
+M>elementi p</E
+M>operazioni p</E
+M>mettere</E
+M>segnare</E
+M>iscrivere</E
+M>registrare al p</E
+M>il p</E
+M>supera l&#8217;attivo</E
+M>netto</E
+M>scoperto</E
+M>chiudere in p</E
+M>il partito è uscito dalle elezioni con un forte p</E
+M>mettere</E
+M>registrare</E
+M>segnare in p</E
+M>chiudere il bilancio in p</E
+M>partecipare passivamente a una discussione</E
+M>accettare</E
+M>cedere</E
+M>obbedire passivamente</E

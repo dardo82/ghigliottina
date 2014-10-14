@@ -1,0 +1,8 @@
+dedica.txt
+"dedica"
+"dedication"
+#*''La dedica del poema al [[committente]]''
+M>una copia del volume con d</E
+M>autografa dell’autore</E
+M>disegno</E
+M>fotografia con dedica</E

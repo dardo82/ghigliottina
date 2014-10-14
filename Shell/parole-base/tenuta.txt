@@ -1,0 +1,67 @@
+tenuta.txt
+"a tenuta stagna"
+"anello di tenuta"
+"anello di tenuta"
+"contenitore a tenuta"
+"giubba corta di bassa tenuta"
+"guarnizione di tenuta"
+"nudo, in tenuta adamitica"
+"tenuta"
+"tenuta"
+"tenuta stagna"
+"tenuta"
+"tenuta"
+"tenuta"
+"tenuta adamitica"
+"tenuta da caccia"
+*(di recipiente) [[capacità]], [[capienza]]
+*proprietà terriera, [[fondo]], [[possedimento]], [[terra]], [[terreno]], [[campo]], [[podere]], [[campagna]], [[masseria]]
+* modo di vestire,[[vestito]], [[abito]], [[abbigliamento]], [[divisa]], [[uniforme]], [[toilette]], [[mise]]
+*[[a tenuta d'aria]], [[tenuta di strada]]
+M>T. dei registri</E
+M> dei libri</E
+M>documenti contabili</E
+M>separatevi!</E
+M>break!</E
+M>T. di un suono</E
+M> di una nota</E
+M>t. di un&#8217;articolazione</E
+M>t. di un atleta</E
+M>di una squadra</E
+M>dimostrare una buona t.</E
+M>avere</E
+M>non avere tenuta</E
+M>tenere</E
+M>è stata assicurata la t. del governo</E
+M>la t. del dollaro</E
+M>t. dell&#8217;ancora</E
+M>t. al mare</E
+M>T. di strada</E
+M>una chiusura a perfetta t. d&#8217;acqua</E
+M>a t. di petrolio</E
+M>d&#8217;aria</E
+M>bisogna assicurarsi che la t. del serbatoio</E
+M>della conduttura</E
+M>sia buona</E
+M>una perfetta t. stagna</E
+M>Dispositivi</E
+M> organi di tenuta</E
+M>tenuta</E
+M>fasce</E
+M>anelli</E
+M>bossoli di t.</E
+M>t. a labirinto</E
+M>diaframma di t.</E
+M>la t. del serbatoio di gasolio è di 30 tonnellate</E
+M>si ritornò a casa e riebbe la t. delle sue castella</E
+M>tenuta</E
+M>investitura</E
+M>gabella delle t.</E
+M>andava a cavallo per le sue tenute</E
+M>un ufficiale in gran t.</E
+M> in t. di parata</E
+M>t. di lavoro</E
+M> di fatica</E
+M>t. di un calciatore</E
+M> di un pugile</E
+M>già imbastivano i progetti per il prossimo ritorno nella palestra e in tenuta da ginnastica</E

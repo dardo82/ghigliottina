@@ -1,0 +1,26 @@
+avviso.txt
+"a mio avviso"
+"avviso"
+"avviso"
+"avviso"
+"avviso"
+"avviso della rappresentazione"
+"avviso di burrasca"
+"avviso di copyright"
+"avviso di garanzia"
+"avviso di giacenza"
+"avviso di licenziamento"
+"avviso di opera protetta da diritto d'autore"
+"avviso di pagamento"
+"avviso di ritrovamento"
+"avviso pubblico"
+"avviso scorta"
+"dare avviso di licenziamento"
+"segnale di avviso, di attenzione"
+"ultimo avviso"
+"ultimo avviso"
+*[[avvertimento]], [[notizia]], [[annuncio]], [[comunicazione]], [[informazione]], [[comunicato]], [[avvertenza]], [[notifica]], [[pubblicazione]], [[partecipazione]], [[bando]], [[inserzione]]
+*(di comunicazione) [[foglio]], [[manifesto]], [[cartello]], [[affisso]], [[cartellone]]
+*[[opinione]], [[parere]], [[idea]], [[giudizio]]
+*[[ammonimento]], [[ammonizione]], [[consiglio]], [[indicazione]], [[suggerimento]], [[segno]], [[segnale]], [[preavviso]], [[monito]], [[minaccia]], [[diffida]]
+*''essere d'avviso'' 

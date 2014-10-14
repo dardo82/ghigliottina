@@ -1,0 +1,421 @@
+portare.txt
+"(portare qcn) alla follia"
+"atto di portare via a forza, contro la volontà"
+"avere indosso; portare"
+"azione di portare via"
+"bighellonare, lasciarsi portare dalla corrente (fig)"
+"discutere, portare avanti una discussione"
+"partecipare a un incontro, partecipare a un vertice, portare avanti delle trattative"
+"portare"
+"portare"
+"portare"
+"trascinare, trasportare via"
+"portare"
+"portare"
+"portare"
+"portare"
+"portare"
+"portare"
+"portare"
+"addurre, apportare"
+"portare"
+"portare"
+"portare"
+"portare"
+"portare a"
+"portare a"
+"portare a"
+"portare a buon fine"
+"portare a casa"
+"portare a casa"
+"portare a compimento"
+"portare a compimento"
+"portare a compimento"
+"portare a compimento"
+"portare a realizzazione"
+"portare a termine"
+"portare a termine"
+"portare a termine"
+"portare a termine"
+"portare a termine"
+"portare a termine"
+"portare a termine"
+"portare a termine"
+"portare a termine"
+"portare a termine (un dovere)"
+"portare a termine un mandato"
+"portare a zonzo"
+"portare ad ebollizione"
+"portare ad esempio"
+"portare agli estremi"
+"portare ai livelli precedenti inferiori"
+"portare al culmine"
+"portare al culmine"
+"portare al limite"
+"portare al pascolo"
+"portare al successo"
+"portare all'attenzione di qn"
+"portare alla bocca"
+"portare alla luce"
+"portare armi"
+"portare avanti"
+"portare avanti una campagna elettorale"
+"portare avanti una conversazione"
+"portare contro"
+"portare dalla propria parte"
+"portare dentro"
+"portare dinanzi"
+"portare fortuna"
+"portare il distintivo"
+"portare il gesso"
+"portare il nome di"
+"portare in dote"
+"portare in giro"
+"portare in palmo di mano"
+"portare in tavola"
+"portare indietro"
+"portare indietro"
+"portare male"
+"portare nel cuore"
+"portare pace"
+"portare pace a"
+"portare pazienza"
+"portare più vicino"
+"portare qc a"
+"portare qualcosa a"
+"portare qualcuno a credere"
+"portare qualcuno fuori strada, sviare qualcuno"
+"portare qualcuno in palmo di mano"
+"portare quasi ad ebollizione"
+"portare rancore"
+"portare rispetto a"
+"portare scompiglio"
+"portare sfiga"
+"portare sfortuna"
+"portare su scala industriale"
+"portare sul grande schermo"
+"portare sulla cattiva strada"
+"portare sulla schiena"
+"portare sulle scene"
+"portare sulle spalle"
+"portare sulle spalle"
+"portare sullo schermo"
+"portare un peso"
+#* ''
+#* ''la diperazione talvolta porta alla follia''
+#* ''la laurea in filosofia non ha portato i frutti sperati''
+#* ''l'ascensore può 
+#* ''
+#* ''
+#* ''porta di rosso, alla croce di Tolosa d'oro''
+#* ''portarsi a distanza di sicurezza''
+*''(un carico)'' [[ trasportare]],  [[contenere]] 
+*''(un veicolo)'' [[guidare]], [[pilotare]], [[condurre]], [[dirigere]], [[governare]] 
+*'' (una lettera, un conto ecc.)'' [[recare]], [[consegnare]], [[recapitare]] 
+*''(una notizia)''[[riferire]], [[comunicare]] 
+*''(guerra)'' [[fare]], [[dichiarare]] 
+*[[sorreggere]], [[sostenere]], [[tenere]], [[supportare]], [[sopportare]] 
+*''(un carico)''[[trasportare]], [[contenere]] 
+*''(abiti, indumenti )''[[avere]], [[indossare]] 
+*''(una persona in un luogo)''[[accompagnare]], [[scortare]], [[condurre]]  
+*[[indurre]], [[condurre]], [[spingere]] 
+*''(vantaggi, svantaggi ecc.)''[[comportare]], [[apportare]], [[arrecare]], [[produrre]], [[causare]], [[cagionare]] 
+*''(scuse, motivazioni ecc.)''[[arrecare]], [[addurre]]
+*''(testimonianze )'' [[esibire]], [[produrre]] 
+*[[sostenere]], [[favorire]]  
+*''(amore, odio)''[[serbare]], [[nutrire]], [[provare]], [[covare]], [[alimentare]] 
+*[[trasferirsi]], [[recarsi]], [[andare]], [[condursi]] 
+*[[spostarsi]], [[mettersi]] 
+*''(bene, male)'' [[stare,]] 
+* [[portamina]]
+* '' Douglas Harper [http
+M>rtare</E
+M>porta</E
+M>port</E
+M>io pòrto</E
+M>un pacco</E
+M>un fagotto</E
+M>un ombrello</E
+M>una valigia</E
+M>un vassoio</E
+M>un fascio di legna</E
+M>una sedia</E
+M>uno zaino sulla schiena</E
+M>un bambino in braccio</E
+M>in collo</E
+M>a cavalluccio</E
+M>in seno</E
+M>in grembo</E
+M>una borsa a tracolla</E
+M>il fucile ad armacollo</E
+M>una cartella sotto il braccio</E
+M>le valigie alla stazione</E
+M>la damigiana in cantina</E
+M>un libro in biblioteca</E
+M>un cappotto in lavanderia</E
+M>i quadri dal corniciaio</E
+M>in tavola</E
+M>farsi p</E
+M>la colazione a letto</E
+M>si è portata a casa una bella coppa</E
+M>portami il cappotto</E
+M>porta una sedia per la signora</E
+M>mi porti una bistecca</E
+M>il conto</E
+M>la lista dei vini</E
+M>la nave portava un carico di scorie radioattive</E
+M>gli aerei che portano i pellegrini alla Mecca</E
+M>solo un mulo può portare un simile peso su per un sentiero così aspro</E
+M>qualcuno in trionfo</E
+M>un cero alla Madonna</E
+M>a s</E
+M>Antonio</E
+M>legna al bosco</E
+M>acqua al mare</E
+M>vasi a Samo</E
+M>nottole ad Atene</E
+M>cavoli a Legnaia</E
+M>il fattorino ha portato questo telegramma</E
+M>hanno portato un regalo</E
+M>dei fiori</E
+M>in dono</E
+M>in dote</E
+M>in omaggio</E
+M>porta a casa tutto lo stipendio senza tenere niente per sé</E
+M>il cibo alla bocca</E
+M>si portò la mano alla fronte</E
+M>una notizia</E
+M>un ordine</E
+M>un messaggio</E
+M>portatemi presto una risposta</E
+M>ti prego di portargli i miei saluti</E
+M>aiuto</E
+M>soccorso</E
+M>guerra</E
+M>qualcosa a conoscenza di qualcuno</E
+M>sarà meglio p</E
+M>l&#8217;ombrello</E
+M>ti sei portato da</E
+M>mangiare?</E
+M>quando parto con l&#8217;aereo</E
+M>porto con me solo una piccola borsa da viaggio</E
+M>è vietato p</E
+M>armi</E
+M>lo stelo porta il fiore</E
+M>l&#8217;asta che porta la bandiera</E
+M>le travi portano il tetto</E
+M>la colonna porta il capitello</E
+M>il ferro</E
+M>riesce a p</E
+M>sulle spalle con facilità una cassa pesante 100 chili</E
+M>un camion che porta 50 quintali</E
+M>una nave che porta 20.000 tonnellate</E
+M>questa bilancia porta fino a 10 kg</E
+M>l&#8217;aereo porta 300 passeggeri</E
+M>un&#8217;automobile che porta 5 persone al massimo</E
+M>porta sempre abiti molto eleganti</E
+M>non porto mai il cappello</E
+M>continua a p</E
+M>una pelliccia passata di moda</E
+M>porta la divisa solo quando è in servizio</E
+M>la camicia sbottonata</E
+M>il lutto</E
+M>i capelli lunghi</E
+M>la barba</E
+M>i baffi</E
+M> le trecce</E
+M>gli occhiali</E
+M>le lenti a contatto</E
+M>la parrucca</E
+M>i pantaloni</E
+M>i calzoni</E
+M>in quella casa è la moglie che porta i pantaloni!</E
+M>hai capito chi è che porta i calzoni in casa loro?</E
+M>il braccio al collo</E
+M>il busto eretto</E
+M>la schiena curva</E
+M>la testa</E
+M>la fronte alta</E
+M>un nome celebre</E
+M>illustre</E
+M>l&#8217;opera porta il nome di tutti e due gli autori</E
+M>l&#8217;articolo porta la firma del direttore del giornale</E
+M>la lettera non porta la data</E
+M>nell&#8217;incidente si è ferito al viso</E
+M>e ne porta ancora i segni</E
+M>che sia un uomo volgare</E
+M>lo porta scritto in fronte</E
+M>amore</E
+M>odio</E
+M>rancore a qualcuno</E
+M>te lo prometto per l&#8217;affetto che ti porto</E
+M>dopo tanto tempo mi porta ancora il broncio</E
+M>cerca di p</E
+M>pazienza ancora per qualche giorno</E
+M>rispetto alla vecchiaia</E
+M>non porta rispetto a nessuno</E
+M>dolore</E
+M>opinione</E
+M>ferma credenza</E
+M>fede</E
+M>Fede portai al glorïoso offizio</E
+M>chiuso in cuore un segreto</E
+M>un dolore</E
+M>un dubbio</E
+M>con dignità il proprio lutto</E
+M>le proprie disgrazie</E
+M>lui fa i suoi comodi</E
+M>e io ne porto le conseguenze</E
+M>le ingiurie</E
+M>pazientemente i mali</E
+M>la povertà</E
+M>le malattie</E
+M>sopportare</E
+M>sostenere</E
+M>bene il vino</E
+M>l&#8217;alcol</E
+M>bene</E
+M>male gli anni</E
+M>l&#8217;età</E
+M>la propria croce</E
+M>ambasciator non porta pena</E
+M>un candidato</E
+M>la candidatura di qualcuno</E
+M>ha fatto una carriera brillante perché era portato dal direttore</E
+M>qualcuno alle stelle</E
+M>in palma di mano</E
+M>portare</E
+M>condurre</E
+M>i bambini al circo</E
+M>il cane a spasso</E
+M>mi ha portato a cena in un nuovo ristorante</E
+M>l&#8217;hanno portato in prigione</E
+M>se non migliora lo porteranno all&#8217;ospedale</E
+M>tutte le strade portano a Roma</E
+M>questo viale porta direttamente in centro</E
+M>hanno portato il gas metano anche nel centro della città</E
+M>forse porteranno la ferrovia fino al nostro paese</E
+M>qual buon vento ti porta?</E
+M>l&#8217;acqua al proprio mulino</E
+M>a maturazione</E
+M>a compimento</E
+M>a conclusione qualcosa</E
+M>la forza della corrente lo ha portato lontano</E
+M>i fiumi portano le loro acque al mare</E
+M>il fiume in piena portava con sé detriti d&#8217;ogni genere</E
+M>andiamo dove ci porta la corrente</E
+M>le foglie portate dal vento volavano nell&#8217;aria</E
+M>le tue promesse se l&#8217;è portate il vento</E
+M>bene</E
+M>male la macchina</E
+M>ho fatto un corso di vela</E
+M>ma da solo non so p</E
+M>la barca</E
+M>non sono capace di p</E
+M>il motorino</E
+M>la nave in porto</E
+M>in porto un affare</E
+M>una faccenda</E
+M>le trattative</E
+M>nuovi argomenti nella discussione</E
+M>la testimonianza di qualcuno</E
+M>portami le prove</E
+M>se vuoi che ti creda</E
+M>ti porterò un altro esempio</E
+M>voglio portarti un paragone</E
+M>dopo essersi comportato male ha portato delle scuse ridicole</E
+M>tutto porta a sperar bene</E
+M>le cose dette portano a un&#8217;unica conclusione</E
+M>ciò mi porta a crederti</E
+M>a darti piena fiducia</E
+M>è stata la disperazione a portarlo a quel gesto</E
+M>solo l&#8217;affetto mi porta a dirti queste cose</E
+M>la concorrenza porta un livellamento dei prezzi</E
+M>questo fatto porterà delle conseguenze</E
+M>la natura</E
+M>almeno quella degli uomini</E
+M>porta che vita e infelicità non si possono scompagnare</E
+M>bisogna vestire come porta la stagione</E
+M>ogni albero porta i suoi frutti</E
+M>i miei sacrifici hanno portato i loro frutti</E
+M>ecco i bei frutti che ha portato la tua pigrizia</E
+M>l&#8217;inverno ci porta arance e mandarini</E
+M>la primavera ci ha portato belle giornate</E
+M>la vecchiaia porta molti disagi</E
+M>la notte porta consiglio</E
+M>la discordia in un luogo</E
+M>gloria</E
+M>onore</E
+M>danno</E
+M>rovina</E
+M>fortuna</E
+M>sfortuna</E
+M>disgrazia</E
+M>bene</E
+M>male</E
+M>vento</E
+M>nubi che portano pioggia</E
+M>riportare</E
+M>7 più 6 fa 13</E
+M>scrivo il 3 e porto l&#8217;1</E
+M>o frate</E
+M>l&#8217;andar su che porta?</E
+M>avanti</E
+M>avanti un&#8217;azione</E
+M>un&#8217;iniziativa</E
+M>un discorso</E
+M>tirare</E
+M>in lungo</E
+M>in lungo un lavoro</E
+M>una ricerca</E
+M>una questione</E
+M>in alto</E
+M>portate le braccia in alto e respirate profondamente</E
+M>l&#8217;ambizione lo porterà molto in alto</E
+M>il freddo ha portato su i prezzi della verdura</E
+M>via</E
+M>me ne sono andato portando via tutta la mia roba</E
+M>il vento mi ha portato via la sciarpa</E
+M>gli hanno portato via il portafogli mentre era sull&#8217;autobus</E
+M>via il posto a qualcuno</E
+M>non si voleva staccare di lì</E
+M>e dovettero portarla via a forza</E
+M>i carabinieri l&#8217;hanno portato via</E
+M>una polmonite lo portò via in pochi giorni</E
+M>a portar via</E
+M>da asporto</E
+M>portar via</E
+M>portarsi</E
+M>che il diavolo ti porti!</E
+M>che il diavolo se lo porti!</E
+M>le vele portano</E
+M>far p</E
+M>le vele</E
+M>avere le vele in portare</E
+M>avere le vele a collo</E
+M>portarsi sul luogo del disastro</E
+M>della sciagura</E
+M>l&#8217;ispettore si portò sul luogo del delitto</E
+M>strisciando sul pavimento riuscì a portarsi fino alla porta e a chiamare aiuto</E
+M>si portò a fatica fin sulla soglia</E
+M>portarsi candidato in un collegio</E
+M>portarsi più a destra</E
+M>portarsi verso il centro della strada</E
+M>verso il marciapiede</E
+M>portarsi di prua</E
+M>di poppa</E
+M>di traverso</E
+M>sopravvento</E
+M>sottovento</E
+M>si è portato molto bene nei miei confronti</E
+M>questo non è il modo di portarsi in pubblico</E
+M>portarsi onestamente</E
+M>correttamente</E
+M>con signorilità</E
+M>da gentiluomo</E
+M>da mascalzone</E
+M>diede qualche avvertimento alle donne</E
+M>sul modo di portarsi con la signora</E
+M>si porta bene</E
+M>per gli anni che ha</E
+M>portarsi male</E

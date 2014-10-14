@@ -1,0 +1,41 @@
+impermeabile.txt
+"giacca impermeabile"
+"impermeabile"
+"impermeabile"
+"impermeabile"
+"telo impermeabile"
+*[[incerato]], [[gommato]], [[impenetrabile]], [[idrorepellente]], [[idrofugo]], 
+*[[permeabile]]
+*[[impermeabilità]], [[impermeabilizzare]], [[semimpermeabile]]
+M>impermeab</E
+M>lis</E
+M>materiali i</E
+M>carta i</E
+M>tessuti i</E
+M>rocce i</E
+M>copertura i</E
+M>fondazioni i</E
+M>essere i</E
+M>alla paura</E
+M>alle raccomandazioni</E
+M>a sentimenti gentili</E
+"giacca impermeabile"
+"impermeabile"
+"impermeabile"
+"impermeabile"
+"telo impermeabile"
+*[[incerato]], [[gommato]], [[impenetrabile]], [[idrorepellente]], [[idrofugo]], 
+*[[permeabile]]
+*[[impermeabilità]], [[impermeabilizzare]], [[semimpermeabile]]
+M>impermeab</E
+M>lis</E
+M>materiali i</E
+M>carta i</E
+M>tessuti i</E
+M>rocce i</E
+M>copertura i</E
+M>fondazioni i</E
+M>essere i</E
+M>alla paura</E
+M>alle raccomandazioni</E
+M>a sentimenti gentili</E

@@ -1,0 +1,52 @@
+manifestazione.txt
+"manifestazione"
+"manifestazione"
+"manifestazione"
+"manifestazione culturale"
+"manifestazione del pensiero"
+"manifestazione per la pace"
+"manifestazione sportiva"
+*[[dimostrazione]],[[cerimonia]], [[spettacolo]], [[rivelazione]], [[apparizione]], [[espressione]] 
+* ''(spec. di malattia)'' [[insorgenza]] 
+*[[occultamento]], [[scomparsa]] 
+M>manifestatio</E
+M>onis</E
+M>di gioia</E
+M>di dolore</E
+M>d’amore</E
+M>non ci ha dato ancora una m</E
+M>sicura delle sue capacità</E
+M>i Greci chiamavano «epifania» l’apparizione o m</E
+M>della divinità</E
+M>gemiti</E
+M>sospiri e altre m</E
+M>di dolore</E
+M>mi confortò con molte m</E
+M>d’affetto</E
+M>si ebbero allora le prime m</E
+M>del male</E
+M>manifestazioni dell’attività psichica</E
+M>le prime m</E
+M>dell’attività vulcanica</E
+M>endogene</E
+M>una m</E
+M>studentesca</E
+M>di studenti</E
+M>autorizzata</E
+M>non autorizzata</E
+M>solenne</E
+M>imponente</E
+M>una m</E
+M>sediziosa</E
+M>di protesta contro i licenziamenti</E
+M>una m</E
+M>popolare per la pace</E
+M>domani tutti in piazza per la manifestazione</E
+M>le persone dirette</E
+M> laggiù</E
+M> alla m. per il rapimento di Aldo Moro</E
+M>una m</E
+M>artistica</E
+M>musicale</E
+M>pirotecnica</E
+M>sportiva</E

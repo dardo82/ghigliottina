@@ -1,0 +1,13 @@
+guasto.txt
+"fasullo, falso, guasto, non funzionante"
+"guasto"
+"guasto"
+"guasto"
+"guasto"
+"piccolo guasto"
+"fasullo, falso, guasto, non funzionante"
+"guasto"
+"guasto"
+"guasto"
+"guasto"
+"piccolo guasto"

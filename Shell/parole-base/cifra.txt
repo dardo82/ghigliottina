@@ -1,0 +1,72 @@
+cifra.txt
+"a doppia cifra"
+"cifra"
+"cifra"
+"cifra"
+"cifra"
+"cifra binaria"
+"cifra meno significativa"
+"cifra tonda"
+"sparare una cifra"
+"una bella cifra"
+"una cifra"
+*[[numero]]
+*italiano
+*spagnolo
+M>cifra</E
+M>ifr</E
+M>nyá</E
+M>non significativa</E
+M>significative</E
+M>cifre arabe</E
+M>arabiche</E
+M>numeri romani</E
+M>un numero</E
+M>una somma</E
+M>una spesa</E
+M>un bigliettone</E
+M>a due c.</E
+M>a tre c.</E
+M>un’inflazione annua a due c.</E
+M>un costo totale di oltre sei cifre</E
+M>quale c</E
+M>ti è risultata?</E
+M>astronomiche</E
+M>tonda</E
+M>sarebbero 497 euro</E
+M>in c</E
+M>tonda 500</E
+M>la spesa è di euro 12</E
+M>25 ma faremo 12 in c</E
+M>tonda</E
+M>il teatro può contenere un migliaio di persone in c</E
+M>tonda</E
+M>si tratta di una bella c</E
+M>mi ha chiesto una c</E
+M>esagerata</E
+M>ha lasciato debiti per una c</E
+M>enorme</E
+M>Cifra d’affari</E
+M>Cifra di castelletto</E
+M>ricamare la c</E
+M>sul fazzoletto</E
+M>in una camicia</E
+M>mi son fatto fare un sigillo con la mia cifra</E
+M>in chiaro</E
+M>chiave della cifra</E
+M>cifrato</E
+M>crittogramma</E
+M>decifrare</E
+M>trasmettere in cifra</E
+M>per non mandare imbasciate a bocca</E
+M>scrivono lettere in cifera</E
+M>ufficio cifra</E
+M>Spedillo in Licia apportator di chiuse Funeste cifre al re</E
+M>parlare in cifra</E
+M>cifre di controllo</E
+M>cifre d’informazione</E
+M>coefficiente</E
+M>fattore</E
+M>cifra di merito</E
+M>di qualità</E
+M>di rumore</E

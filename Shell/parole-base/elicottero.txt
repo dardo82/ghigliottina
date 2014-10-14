@@ -1,0 +1,12 @@
+elicottero.txt
+"elicottero"
+"elicottero con armamento pesante"
+"elicottero di salvataggio"
+"medico che fa le visite spostandosi in aereo o in elicottero"
+*[[elicotterista]], [[elicotteristico]], [[elisoccorso]]
+*italiano
+M>hélicoptère</E
+M>hélico</E
+M>ptère</E
+M>e. da attacco</E
+M>e. cannoniere</E

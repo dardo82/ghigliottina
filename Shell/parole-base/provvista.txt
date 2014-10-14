@@ -1,0 +1,35 @@
+provvista.txt
+"fare provvista"
+"provvista"
+"provvista"
+#*''la piccola comunità montana aveva passato tutta l'estate ad accumulare '''provviste''' per l'inverno'' 
+*''(qualcosa messo da parte)'' [[scorta]], [[riserva]] 
+*(''antico'') [[provista]]
+M>provvisto</E
+M>fare provvista</E
+M>la p</E
+M>di vino</E
+M>di olio per tutto l’anno</E
+M>fare p</E
+M>di gasolio per l’inverno</E
+M>il Provveditorato generale dello stato cura il servizio delle p</E
+M>necessarie al funzionamento delle pubbliche amministrazioni</E
+M>provvista di fondi</E
+M>le p</E
+M>stanno per finire</E
+M>le p</E
+M>d’acqua cominciavano a scarseggiare</E
+M>in cantina abbiamo abbondanti p</E
+M>di farina</E
+M>di zucchero</E
+M>di detersivi</E
+M>bisogna acquistare le p</E
+M>per il viaggio</E
+M>ho una buona p</E
+M>di libri</E
+M>di dischi</E
+M>quel tuo amico ha sempre una discreta p</E
+M>di barzellette</E
+M>di pettegolezzi</E
+M>rapporto di provvista</E
+M>di un beneficio ecclesiastico</E

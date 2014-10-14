@@ -1,0 +1,10 @@
+bibita.txt
+"bibita"
+"bibita analcolica"
+"bibita fredda"
+"bibita fresca"
+"bibita gassata allo zenzero"
+"bibita non alcolica"
+"bicchiere da bibita"
+M>bib</E
+M>bib</E

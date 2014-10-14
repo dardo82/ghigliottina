@@ -1,0 +1,59 @@
+mentire.txt
+"disposto a mentire"
+"mentire"
+"mentire"
+"mentire a qc"
+*dire il falso, dire bugie, dire menzogne, raccontare storie, alterare la verità, [[fingere]], [[ingannare]], [[dissimulare]]
+* dire il vero, raccontare la verità, essere sincero
+*[[mentito]], [[mentitore]], [[smentire]]
+M>mentire</E
+M>mentiri</E
+M>mens mentis</E
+M>fing</E
+M>io mènto</E
+M>io mentisco</E
+M>tu mentisci</E
+M>avere</E
+M>mi accorsi subito che mentiva</E
+M>cercò di salvarsi mentendo</E
+M>non sono abituato a m</E
+M>non so m.: troppo complicato</E
+M> fa male alla testa</E
+M> costringe a ricordare tutto e nello stesso modo</E
+M>se dici questo</E
+M>menti</E
+M>è inutile che cerchi di mentirmi</E
+M>conosco già la verità</E
+M>sfacciatamente</E
+M>spudoratamente</E
+M>per la gola</E
+M>per la strozza</E
+M>essi mentono tutti per la gola</E
+M>E s’alcun dice che Turpin morisse In Runcisvalle</E
+M>mente per la strozza</E
+M>a sé stesso</E
+M>mentiva sapendo di mentire</E
+M>tu menti ch’io abbia mentito</E
+M>Di parecchi anni mi mentì lo scritto</E
+M>se le sue parole non mentono</E
+M>non mentiscono</E
+M>i fatti stanno così</E
+M>il suo sguardo</E
+M>i suoi occhi mentivano</E
+M>l’ingenuità del suo viso mentisce</E
+M>se la fama non mente</E
+M>buon sangue non mente</E
+M>a qualche cosa</E
+M>mentì alle nostre speranze</E
+M>il vero</E
+M>una circostanza al giudice</E
+M>di circostanza</E
+M>il sorriso</E
+M>il pianto</E
+M>la dolcezza dello sguardo</E
+M>modi cordiali</E
+M>tu che puoi</E
+M>Fanciullo</E
+M>il noto fanciullesco aspetto M</E
+M> acconciamente</E
+M>in lui ti cangia</E

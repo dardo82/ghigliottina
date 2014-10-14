@@ -1,0 +1,34 @@
+sudore.txt
+"(essere) in un bagno di sudore"
+"gocce di sudore"
+"guadagnato col sudore della fronte"
+"odore di sudore"
+"sudore"
+"sudore"
+*[[traspirazione]]
+M>sudor -</E
+M>ris</E
+M>sudare</E
+M>sudoripare</E
+M>gocce</E
+M>stille di s.</E
+M>grondava s. da tutti i pori</E
+M>essere bagnato</E
+M>asperso</E
+M>madido</E
+M>imperlato</E
+M>di s.</E
+M>grondare di s.</E
+M>essere in un bagno di s.</E
+M>asciugarsi il s.</E
+M>s. freddo</E
+M>mi venne il s. freddo</E
+M>mi vennero i s. freddi</E
+M>ho dovuto versare molto s. per giungere alla meta</E
+M>è questo dunque il frutto ch&#8217;io Lungamente atteso ho del sudor mio?</E
+M>guadagnarsi il pane col s. della fronte</E
+M>Genesi</E
+M>col s. della tua fronte ti procaccerai il pane</E
+M>che sudori per tirare avanti una famiglia!</E
+M>Quell&#8217;ospite è gentil che tiene ascoso A i molti bevitori Entro a i dogli paterni il vino annoso Frutto de&#8217; suoi s.</E
+M>un sudorino freddo mi si diffuse sulla pelle</E

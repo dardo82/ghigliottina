@@ -1,0 +1,32 @@
+cigno.txt
+"canto del cigno"
+"canto del cigno"
+"cigno"
+"cigno"
+"cigno maschio"
+"cigno reale"
+"cigno trombetta"
+"femmina di cigno"
+"il Cigno"
+*[[cigno canoro]], [[cigno nero]], [[cigno reale]], [[cigno selvatico]], [[cigno trombetta]]
+*[[uccello]]
+*italiano
+*latino
+*inglese
+M>cycnus</E
+M>cygnus</E
+M>Cygnus</E
+M>cigno selvatico</E
+M>Cygnus cygnus</E
+M>minore</E
+M>C. bewickii</E
+M>reale</E
+M>C. olor</E
+M>nero</E
+M>Chenopsis atratus</E
+M>il c</E
+M>di Busseto</E
+M>il c</E
+M>di Verona</E
+M>Canto del c</E
+M>Cigno</E

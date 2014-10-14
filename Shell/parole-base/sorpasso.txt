@@ -1,0 +1,12 @@
+sorpasso.txt
+"sorpasso"
+"sorpasso"
+M>manovra di sorpasso</E
+M>segnalare</E
+M>effettuare il s.</E
+M>s. giusto</E
+M>sbagliato</E
+M>rischioso</E
+M>azzardato</E
+M>il s. di un veicolo dev&#8217;essere effettuato superandolo sulla sua sinistra</E
+M>è vietato il s. in curva</E

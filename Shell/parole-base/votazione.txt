@@ -1,0 +1,31 @@
+votazione.txt
+"votazione"
+"votazione"
+"votazione contestata"
+"votazione elettorale"
+*[[voto]], [[suffragio]], [[designazione]], [[elezione]]
+*[[valutazione]], [[pagella]], [[punteggio]], [[media]]
+*[[voto]], [[votare]]
+M>votare</E
+M>votation</E
+M>fare la v.</E
+M>una v.</E
+M>chiusa la discussione</E
+M> si passò alla v.</E
+M>le Camere procederanno domani alla v. sulla fiducia al governo</E
+M>rifare le v.</E
+M>invalidare le votazioni</E
+M>v. segreta</E
+M>a scrutinio segreto</E
+M>v. palese</E
+M>per voto</E
+M>scrutinio palese</E
+M>v. nominale</E
+M>per appello nominale</E
+M>v. per alzata di mano</E
+M>v. per divisione nell’aula</E
+M>v. favorevole</E
+M>v. contraria</E
+M>sfavorevole</E
+M>v. nulla</E
+M>è stato promosso con una buona votazione</E

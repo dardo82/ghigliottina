@@ -1,0 +1,19 @@
+imbottigliare.txt
+"imbottigliare"
+"imbottigliare"
+M>io imbottìglio</E
+M>vermut</E
+M>marsala</E
+M>acqua minerale</E
+M>liquori</E
+M>inchiostro</E
+M>medicinali</E
+M>imbottiglieremo non prima di giugno</E
+M>il gas</E
+M>il battaglione fu imbottigliato nel fondovalle e costretto alla resa</E
+M>i. un avversario</E
+M>essere imbottigliato dalla folla</E
+M>dal traffico caotico</E
+M>vino imbottigliato</E
+M>trovarsi</E
+M>rimanere imbottigliato nel traffico</E

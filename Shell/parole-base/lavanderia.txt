@@ -1,0 +1,13 @@
+lavanderia.txt
+"chi lavora in una lavanderia"
+"lavanderia"
+"lavanderia"
+"lavanderia"
+"lavanderia a gettone"
+"lavanderia a gettoni"
+"lavanderia automatica"
+*[[lavanderia a gettoni]]
+M>a vapore</E
+M>a secco</E
+M>automatica</E
+M>a gettone</E

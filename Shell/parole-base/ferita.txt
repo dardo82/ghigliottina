@@ -1,0 +1,49 @@
+ferita.txt
+"ferita"
+"ferita"
+"ferita aperta"
+"ferita mortale"
+"ferita superficiale"
+*[[taglio]], [[piaga]]
+*[[ferimento]]
+*''leccarsi le ferite''
+M>fare</E
+M>farsi</E
+M>prodursi una f</E
+M>una f</E
+M>leggera</E
+M>grave</E
+M>seria</E
+M>una brutta f</E
+M>che sanguina</E
+M>aperta</E
+M>riaperta</E
+M>rimarginata</E
+M>pieno</E
+M>coperto</E
+M>crivellato di ferite</E
+M>curare</E
+M>medicare</E
+M>fasciare</E
+M>sfasciare una f</E
+M>guarire</E
+M>sanare una f</E
+M>guarire dalla ferita</E
+M>da punta</E
+M>da taglio</E
+M>d’arma da fuoco</E
+M>superficiali</E
+M>profonde</E
+M>penetranti</E
+M>contuse</E
+M>lacere</E
+M>da strappamento</E
+M>lacero</E
+M>contuse</E
+M>le f</E
+M>d’amore</E
+M>fu una crudele f</E
+M>per il suo amor proprio</E
+M>avere una f</E
+M>aperta nel cuore</E
+M>riaprire una ferita</E

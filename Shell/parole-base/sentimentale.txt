@@ -1,0 +1,41 @@
+sentimentale.txt
+"canzone sentimentale popolare"
+"persona eccessivamente sentimentale"
+"sentimentale"
+"sentimentale"
+"sentimentale"
+"sentimentale"
+"tresca sentimentale"
+"valore sentimentale"
+*[[romantico]]
+*[[sentimentalismo]]
+*[[sentimentalità]]
+*[[sentimentalmente]]
+*[[sentimento]]
+M>sentimento</E
+M>sentimental</E
+M>la sfera s.</E
+M>una relazione</E
+M>un legame s.</E
+M>una vita s. molto travagliata</E
+M>una ragazza s.</E
+M>Ed io fui l&#8217;uomo d&#8217;altri tempi</E
+M> un buono S. giovine romantico</E
+M>essere un s.</E
+M>fare il s.</E
+M>vuol farsi credere scettica</E
+M> ma in fondo è una sentimentale</E
+M>un romanzo s.</E
+M>una novella</E
+M>una poesia s.</E
+M>commedia</E
+M>film s.</E
+M>un volto affilato e s.</E
+M>occhi s.</E
+M>effusioni</E
+M>parole</E
+M>frasi sentimentali</E
+M>Viaggio s.</E
+M>A sentimental journey through France and Italy</E
+M>una persona sentimentalmente arida</E
+M>erano sentimentalmente legati da tempo</E

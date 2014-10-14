@@ -1,0 +1,31 @@
+corteccia.txt
+"corteccia"
+"corteccia cerebrale"
+"corteccia dell'olmo"
+"corteccia di pino"
+"corteccia di quercia"
+"corteccia di yohimbina"
+"estratto di corteccia"
+"ricoprire di corteccia"
+"rimuovere la corteccia"
+#*'''corteccia cerebrale'''
+*''(parte esterna di qualcosa)'' [[buccia]], [[pelle]], [[pellicola]], [[scorza]], [[crosta]]
+M>cort</E
+M>cea</E
+M>corticeus</E
+M>cortex</E
+M>cis</E
+M>primaria</E
+M>secondaria</E
+M>buccia</E
+M>crosta</E
+M>cerebrale</E
+M>cerebellare</E
+M>del rene</E
+M>delle capsule surrenali</E
+M>serica</E
+M>la profondità del senso</E
+M>il quale sotto la bella c</E
+M>delle parole gli pareva sentire nascoso</E
+M>guardare alla c</E
+M>andare più in là della c</E

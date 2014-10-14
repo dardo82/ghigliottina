@@ -1,0 +1,79 @@
+disgrazia.txt
+"(cadere) in disgrazia"
+"cadere in disgrazia"
+"cadere in disgrazia presso qualcuno"
+"disgrazia"
+"disgrazia"
+"disgrazia"
+"disgrazia, avversità"
+"essere in disgrazia"
+"in disgrazia, sfavore"
+M>dis</E
+M>grazia</E
+M>grazia</E
+M>cadere</E
+M>venire</E
+M>essere in d</E
+M>di qualcuno</E
+M>è in d</E
+M>del</E
+M>presso il</E
+M>direttore</E
+M>prima era molto benvisto dal presidente</E
+M>ma ora è caduto in disgrazia</E
+M>era in d</E
+M>del principe</E
+M>venne in d</E
+M>della imperatrice Sofia</E
+M>essere in d</E
+M>di Dio</E
+M>la d</E
+M>ci perseguita</E
+M>avere la d</E
+M>addosso</E
+M>portare d</E
+M>iettatura</E
+M>iella</E
+M>tutti lo sfuggono</E
+M>perché dicono che porta d</E
+M>molti credono che il canto della civetta porti d</E
+M>volle che</E
+M>volle che la lettera fosse aperta dalla censura</E
+M>per mia</E
+M>per tua d</E
+M>ha avuto molte d</E
+M>nella sua famiglia</E
+M>le d</E
+M>non vengono mai sole</E
+M>ha avuto la d</E
+M>di nascere cieco</E
+M>ha la d</E
+M>d’essere balbuziente</E
+M>gran d</E
+M>nascer poveri!</E
+M>ha la d</E
+M>di essere timido</E
+M>accadere</E
+M>capitare</E
+M>succedere una d</E
+M>è successa una grave d</E
+M>una d</E
+M>mortale</E
+M>è morto in seguito a d</E
+M>provocar disgrazie</E
+M>mi è successa una d</E
+M>ho sfasciato l’auto</E
+M>non l’ho fatto apposta</E
+M>è stata una disgrazia</E
+M>è stata una vera d</E
+M>ch’io non l’abbia saputo in tempo</E
+M>che disgrazia!</E
+M>per disgrazia</E
+M>l’ho colpito per d</E
+M>in un occhio</E
+M>non ha mai un soldo in tasca</E
+M>neanche per disgrazia</E
+M>quell’acconciatura</E
+M>la quale aiuta la grazia più</E
+M>o più nasconde la d</E
+M>del viso</E

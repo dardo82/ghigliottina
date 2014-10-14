@@ -1,0 +1,13 @@
+scongelare.txt
+"scongelare"
+"scongelare"
+"sgelare, scongelare"
+*[[decongelare]]
+*[[congelare]]
+M>congelare</E
+M>io scongèlo</E
+M>s. la carne</E
+M>il pesce</E
+M>il pollo non si è ancora scongelato.</E
+M>S. un credito</E
+M>i prodotti scongelati non possono essere più congelati o surgelati</E

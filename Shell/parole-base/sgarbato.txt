@@ -1,0 +1,31 @@
+sgarbato.txt
+"sgarbato"
+"sgarbato"
+#* ''Mi ha risposto con tono sgarbato''
+*''(di risposta)'' [[scortese]], [[villano]]
+*''(di voce)'' [[sgraziato]], [[sguaiato]]
+*''(di persona)''  [[maleducato]]
+* [[garbato]]
+M>garbo</E
+M>una voce potente</E
+M> ma s.</E
+M>un sorriso stanco</E
+M> distratto</E
+M> reso s. dalla respirazione accelerata</E
+M>un uomo s.</E
+M>un funzionario</E
+M>un impiegato abitualmente s. con il pubblico</E
+M>anche se gli ospiti non ti sono simpatici</E
+M> non devi essere s. con loro</E
+M>sei uno s.!</E
+M>non fare la s. con i genitori</E
+M>una mossa</E
+M>una risposta s.</E
+M>tenere un contegno s.</E
+M>usare modi s.</E
+M>maniere s. e scostanti</E
+M>non fare la sgarbatella</E
+M>sei uno sgarbatone</E
+M>uno sgarbataccio</E
+M>rispondere</E
+M>reagire sgarbatamente</E

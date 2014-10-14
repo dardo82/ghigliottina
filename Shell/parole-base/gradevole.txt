@@ -1,0 +1,19 @@
+gradevole.txt
+"gradevole"
+"gradevole al palato"
+"gradevole, morbido"
+#* ''Ieri è stata una serata gradevole''
+#* ''In primavera l'aria si riempie di un profumo gradevole''
+* [[piacevole]],  [[amabile]], [[adorabile]],  [[desiderabile]], [[attraente]], [[delizioso]], [[simpatico]]
+* [[sgradevole]], [[schifoso]], [[repellente]], [[ributtante]]
+*[[gradevolmente]], [[gradevolezza]]
+M>sapore</E
+M>odore</E
+M>suono g</E
+M>una medicina g</E
+M>al palato</E
+M>aspetto</E
+M>soggiorno</E
+M>compagnia gradevole</E
+M>la casa è arredata gradevolmente</E
+M>restare gradevolmente sorpreso</E

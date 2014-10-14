@@ -1,0 +1,68 @@
+bilancia.txt
+"bilancia"
+"bilancia"
+"bilancia"
+"Bilancia"
+"Bilancia"
+"bilancia commerciale"
+"bilancia commerciale"
+"bilancia da tavolo"
+"bilancia dei pagamenti"
+"bilancia di precisione"
+"bilancia di precisione"
+"bilancia postale"
+"mettere sulla bilancia"
+#* ''mi sono pesato sulla '''bilancia'''''
+#* ''Gigi è una '''bilancia'''''
+* [[Bilancia]]
+* [[bilanciare]], [[bilancino]], [[bilanciere]], [[bilancio]]
+M>bilanx</E
+M>ancis</E
+M>lanx</E
+M>giogo</E
+M>coltello</E
+M>a braccio mobile</E
+M>a contrappeso</E
+M>a pendolo</E
+M>a sospensione inferiore</E
+M>di Roberval</E
+M>di Béranger</E
+M>commerciali</E
+M>semiautomatiche</E
+M>automatiche</E
+M>per famiglia</E
+M>pesa</E
+M>persone</E
+M>pesa</E
+M>bambini</E
+M>di torsione</E
+M>di Archimede</E
+M>idrostatica</E
+M>aerodinamica</E
+M>b. magnetica</E
+M>pesare con la b</E
+M>dell’orafo</E
+M>mettere una cosa sulla b</E
+M>sul piatto della b</E
+M>dare il tratto</E
+M>il crollo</E
+M>il tracollo alla b</E
+M>essere l’ago della b</E
+M>pesare con giusta b</E
+M>bilancino</E
+M>Valvola a b.</E
+M>in bilancia</E
+M>a bilancia</E
+M>tenere</E
+M>portare a b</E
+M>bilanciarm!</E
+M>essere</E
+M>stare in b</E
+M>commerciale</E
+M>internazionale dei pagamenti</E
+M>internazionale dei trasferimenti monetari</E
+M>Bilancia</E
+M>Libra</E
+M>essere nato nella costellazione della B</E
+M>i nati nel segno della B</E
+M>essere della Bilancia</E

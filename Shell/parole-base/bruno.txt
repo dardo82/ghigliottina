@@ -1,0 +1,46 @@
+bruno.txt
+"bruno"
+"bruno"
+"bruno rossastro"
+"di color bruno rossastro"
+"nibbio bruno"
+"orso bruno"
+"rosso bruno"
+*''(di capelli)'' [[scuro]], [[moro]], [[castano]]
+*''(di colore)''[[ marrone]], marrone scuro, [[marroncino]], terra di Siena, testa di moro, [[nereggiante]], [[nericcio]], [[nerognolo]], [[nerastro]], [[seppia]]
+*''(di persona)'' [[abbronzato]], [[bruciato]]
+*[[gramaglia]]
+*[[luminoso]], [[illuminato]], [[chiaro]]  
+M>vestito b</E
+M>carnagione b</E
+M>capelli b</E
+M>aere b</E
+M>camicia b</E
+M>le camicie brune di Hitler</E
+M>abito</E
+M>velo b</E
+M>un giovane b</E
+M>una ragazza b</E
+M>le bionde e le b</E
+M>una bella bruna</E
+M>Razza b</E
+M>alpina</E
+M>la regia moglie</E
+M>Che bruna è sì</E
+M>ma il b</E
+M>il bel non toglie</E
+M>cominciatosi a far b</E
+M>di antracene</E
+M>di alizarina</E
+M>di Bismarck</E
+M>portare</E
+M>prendere</E
+M>smettere il b</E
+M>mettere il b</E
+M>alle bandiere</E
+M>abbrunare</E
+M>parare a bruno</E
+M>bruneto</E
+M>una graziosa brunetta</E
+M>brunettino</E
+M>brunettina</E

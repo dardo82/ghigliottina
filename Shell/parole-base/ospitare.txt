@@ -1,0 +1,31 @@
+ospitare.txt
+"alloggiare in, ospitare in"
+"ospitare"
+"ospitare"
+"ospitare a proprie spese"
+#*''la settimana prossima  il Genoa ospiterà la Roma.''
+* [[accogliere]], [[ricevere]], [[dare ospitalità]], [[dare ricetto]], [[alloggiare]], [[albergare]], [[contenere]], [[accogliere]], [[possedere]],  
+*''(articoli su una rivista)'' [[pubblicare]]
+*[[ospitata]]
+M>hospitare</E
+M>hospitari</E
+M>hospes</E
+M>tis</E
+M>io òspito</E
+M>se verrai al mare questa estate</E
+M>ti ospiterò volentieri nella mia villa</E
+M>il padrone dell’albergo ha risposto di non poterci o</E
+M>avendo già tutte le stanze prenotate</E
+M>il viandante fu ospitato per la notte da una famiglia di contadini</E
+M>la casa</E
+M>la pensione che ci ospita</E
+M>rispettate la nazione che vi ospita</E
+M>domenica prossima la Fiorentina ospiterà il Napoli</E
+M>la pianta ospita varî parassiti</E
+M>la pinacoteca ospita insigni opere del Rinascimento</E
+M>il direttore della rivista ha risposto che sarà lieto di o</E
+M>il mio articolo</E
+M>la famiglia ospitante</E
+M>la città ospitante</E
+M>la squadra ospitante</E
+M>l’ospitante</E

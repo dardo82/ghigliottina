@@ -1,0 +1,17 @@
+lenticchia.txt
+"lenticchia"
+"lenticchia"
+"lenticchia"
+M>lent</E
+M>lens lentis</E
+M>Lens culinaris</E
+M>Lens esculenta</E
+M>lenticchie</E
+M>minestra di lenticchie</E
+M>un piatto di lenticchie in umido</E
+M>dare</E
+M>cedere</E
+M>vendere</E
+M>fare qualcosa per un piatto di lenticchie</E
+M>Genesi</E
+M>lenticchie d’acqua</E

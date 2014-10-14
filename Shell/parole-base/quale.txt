@@ -1,0 +1,190 @@
+quale.txt
+"a quale prezzo"
+"buco dal quale spiare"
+"col quale"
+"da cui, dal quale"
+"da cui, dal quale"
+"dire come, dire in quale modo"
+"durante quale periodo"
+"grazie al quale"
+"il quale"
+"il quale"
+"in quale altro posto"
+"in quale maniera"
+"in quale maniera"
+"in quale modo"
+"in quale tempo"
+"in virtù del quale"
+"la quale"
+"non importa quale"
+"per il\/la quale"
+"per quale ragione"
+"per quale ragione"
+"persona con la quale si è soliti litigare o scherzare"
+"quale"
+"quale"
+"quale"
+"quale"
+"quale"
+"quale"
+"quale"
+"quale"
+"quale è sempre preceduto dall'art. determ."
+"quale?"
+"sul quale"
+"tale e quale"
+"tale e quale al genitore"
+#*'''qual''' buon [[vento]] ti [[porta]]?
+#*'''qual''' è [[la]] tua [[stanza]]?
+M>qualis</E
+M>vorrei acquistare un buon vocabolario</E
+M>ma quale?</E
+M>quali vini rossi preferisci?</E
+M>questo lavoro non è quale avrei voluto</E
+M>ma ho dovuto accettarlo</E
+M>che</E
+M>che vini preferisci?</E
+M>da che parte vieni?</E
+M>con che autobus vai a casa?</E
+M>qual</E
+M>per la qual cosa</E
+M> qual si voglia</E
+M> ogni qual volta</E
+M>in certo qual</E
+M>quale</E
+M>modo</E
+M>qual</E
+M>qual orrore</E
+M>qual età</E
+M>qual era</E
+M>qual è la verità?</E
+M>qual’orrore</E
+M>qual’età</E
+M>qual’era</E
+M> qual’è la verità?</E
+M>quali</E
+M>quai</E
+M>qua’</E
+M>quali sono le tue intenzioni?</E
+M>a quali mezzi ricorrerà?</E
+M>con quali amici confidarsi?</E
+M>Qual colpa</E
+M>qual giudicio o qual destino Fastidire il vicino Povero</E
+M>qual cavalla vedestù mai senza coda?</E
+M>sono tutte belle queste cravatte</E
+M>quale mi consigli?</E
+M>ecco due possibili soluzioni: quale preferisci?</E
+M>di quali hai maggior copia</E
+M>di beni o di mali?</E
+M>chi</E
+M>Meuccio destatosi disse «Qual se’ tu?»</E
+M>Ahi quanto a dir qual era è cosa dura Esta selva selvaggia</E
+M>dimmi quale strada farai</E
+M>vorrei sapere per quale ragione non mi saluta più</E
+M>non so quale</E
+M>c’era in lei non so qual grazia esotica</E
+M>provava non so quale nostalgia di quei luoghi</E
+M>dicendoli quale e’ volesse</E
+M>o subito restituire il suo porco</E
+M>o che egli andasse al rettore</E
+M>quale artista muore con me!</E
+M>quale orrore!</E
+M>quale disgrazia!</E
+M>che orrore!</E
+M>che disgrazia!</E
+M>gli ho dato una lezione: e quale!</E
+M>Piacemi almen che’ miei sospir’ sian quali Spera ’l Tevero e l’Arno E ’l Po</E
+M>ha avuto un successo quale non avrei mai immaginato</E
+M>come</E
+M>il lavoro</E
+M>quale voi lo vedete</E
+M>è ancora lontano dal compimento</E
+M>tutti i cetacei</E
+M>quale</E
+M>quali</E
+M>la balena</E
+M>sono mammiferi</E
+M>pittori quali Giotto e Masaccio</E
+M>tale</E
+M>diede tale esempio quale ancora non s’era mai visto</E
+M>l’esito non fu tale</E
+M>quale s’era sperato</E
+M>tale quale</E
+M>tal quale</E
+M>tale e quale</E
+M>è tal quale il padre</E
+M>questa camicetta è tale e quale la tua</E
+M>ne comperò uno tal quale</E
+M>fa’ come vuoi</E
+M>per me è tale e quale</E
+M>quale</E
+M>tale</E
+M>Qual istordito e stupido aratore</E
+M>Poi ch’è passato il fulmine si leva</E
+M>Tal si levò il pagano a piè rimaso</E
+M>come</E
+M>quale ministro</E
+M>può decidere lui la questione</E
+M>partecipa al congresso</E
+M>quale rappresentante del suo istituto</E
+M>che</E
+M>cui</E
+M>la pianura</E
+M>la quale è bagnata dal Po e dai suoi affluenti</E
+M>un’opera</E
+M>per il compimento della quale occorrono decine d’anni</E
+M>quante</E
+M>quante</E
+M>cose</E
+M>le quali non potrò se non piangere</E
+M>a guisa d’una bulla Cui manca l’acqua sotto qual</E
+M>si feo</E
+M>la iustitia di Torquato</E
+M>qual per osservare la militare disciplina non perdonò al figliuolo</E
+M>A’ quali ragionamenti Calandrino posta orecchie</E
+M>si congiunse con loro</E
+M>quale</E
+M>quale</E
+M>quali</E
+M>quali</E
+M>Qual va dinanzi</E
+M>e qual di dietro il prende</E
+M>E qual dallato li si reca a mente</E
+M>avresti tu</E
+M>pensato</E
+M>quando rubavi</E
+M>il fuoco</E
+M>per comunicarlo agli uomini</E
+M>che questi se ne prevarrebbero</E
+M>quali per cuocersi l’un l’altro nelle pignatte</E
+M>quali per abbruciarsi spontaneamente?</E
+M>Ivi fa’ che ’l tuo vero</E
+M>Qual io mi sia</E
+M>per la mia lingua s’oda</E
+M>In qual ora</E
+M>in qual parte del suolo</E
+M>Trascorriamo quest’aura vital</E
+M>Siam fratelli</E
+M>che</E
+M>quale che sia</E
+M>quale si sia</E
+M>qualsiasi</E
+M>qualsisia</E
+M>ha necessità di guadagnare e accetterebbe un lavoro quale che sia</E
+M>in quale si sia ora del giorno</E
+M>lo trovi sempre al caffè a giocare a carte</E
+M>in qual forma</E
+M>in quale Stato che sia</E
+M>dentro covile o cuna</E
+M>È funesto a chi nasce il dì natale</E
+M>certo qual modo</E
+M>un certo qual</E
+M>una certa qual</E
+M>non so quale</E
+M>sentiva dentro di sé una certa qual voglia di vendicarsi</E
+M>Per la quale</E
+M>un pranzetto proprio per la quale</E
+M>una persona non tanto per la quale</E
+M>la faccenda non è andata molto per la quale</E
+M>il buono accoglitor del quale</E
+M>Dïascoride dico</E

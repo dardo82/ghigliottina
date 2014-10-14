@@ -1,0 +1,40 @@
+parcheggio.txt
+"biglietto del parcheggio"
+"parcheggio"
+"parcheggio"
+"parcheggio a pagamento"
+"parcheggio a raso"
+"parcheggio a spina di pesce"
+"parcheggio custodito"
+"parcheggio di scambio"
+"parcheggio non custodito"
+"posizione in parcheggio"
+"rampa di parcheggio"
+*[[posteggio]], [[sosta]], [[stazionamento]]
+M>libero</E
+M>riservato</E
+M>è vietato il p</E
+M>manovre</E
+M>operazioni di parcheggio</E
+M>in colonna</E
+M>a veicoli affiancati</E
+M>a pettine</E
+M>a spina di pesce</E
+M>custodito</E
+M>non custodito</E
+M>a pagamento</E
+M> a ore</E
+M> con disco orario</E
+M>area</E
+M>zona di parcheggio</E
+M>era un&#8217;area di p. in un boschetto di pioppi</E
+M> un vero immondezzaio</E
+M>autosili</E
+M>a rampa</E
+M>ad ascensori</E
+M>meccanizzati</E
+M>orbita di p</E
+M>area di parcheggio</E
+M>l&#8217;università considerata come area di p</E
+M>per giovani disoccupati</E
+M>governo di parcheggio</E

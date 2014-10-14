@@ -1,0 +1,71 @@
+settimanale.txt
+"con cadenza settimanale"
+"incontro settimanale"
+"rivista settimanale"
+"settimanale"
+"settimanale"
+*[[periodico]], [[giornale]], [[rotocalco]]
+*[[settiminio]]
+* [[settimanalizzare]]
+* [[annuale]], [[mensile]]
+M>ciclo s.</E
+M>turni s. di lavoro</E
+M>di presenza</E
+M>di assistenza</E
+M>fare</E
+M>presentare il resoconto s.</E
+M>riscuotere la paga</E
+M>il compenso s.</E
+M>registrare gli incassi s.</E
+M>lista s.</E
+M>numero s.</E
+M>incontri s.</E
+M>partenze s.</E
+M>le due città sono unite da voli s.</E
+M>rivista</E
+M>rassegna s.</E
+M>un s. politico</E
+M>letterario</E
+M>i s. illustrati</E
+M>un notiziario s.</E
+M>una trasmissione s.</E
+M>pagare</E
+M>riscuotere settimanalmente</E
+M>ci scriviamo</E
+M>mi viene a fare visita settimanalmente</E
+M>il traghetto fa settimanalmente servizio per le isole</E
+"con cadenza settimanale"
+"incontro settimanale"
+"rivista settimanale"
+"settimanale"
+"settimanale"
+*[[periodico]], [[giornale]], [[rotocalco]]
+*[[settiminio]]
+* [[settimanalizzare]]
+* [[annuale]], [[mensile]]
+M>ciclo s.</E
+M>turni s. di lavoro</E
+M>di presenza</E
+M>di assistenza</E
+M>fare</E
+M>presentare il resoconto s.</E
+M>riscuotere la paga</E
+M>il compenso s.</E
+M>registrare gli incassi s.</E
+M>lista s.</E
+M>numero s.</E
+M>incontri s.</E
+M>partenze s.</E
+M>le due città sono unite da voli s.</E
+M>rivista</E
+M>rassegna s.</E
+M>un s. politico</E
+M>letterario</E
+M>i s. illustrati</E
+M>un notiziario s.</E
+M>una trasmissione s.</E
+M>pagare</E
+M>riscuotere settimanalmente</E
+M>ci scriviamo</E
+M>mi viene a fare visita settimanalmente</E
+M>il traghetto fa settimanalmente servizio per le isole</E

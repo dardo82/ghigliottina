@@ -1,0 +1,29 @@
+proibire.txt
+"proibire"
+*[[vietare]], [[impedire]]
+*[[proibitivo]], [[proibito]], [[proibitore]], [[proibizione]]
+M>prohib</E
+M>pro</E
+M>habere</E
+M>io proibisco</E
+M>tu proibisci</E
+M>ti proibisco di fare queste insinuazioni</E
+M>la legge proibisce di portare armi senza la prescritta autorizzazione</E
+M>il medico gli ha proibito di bere alcolici</E
+M>che</E
+M>le autorità hanno proibito che si svolga la manifestazione</E
+M>un corteo</E
+M>uno spettacolo</E
+M>l&#8217;uso delle droghe</E
+M>finalmente hanno proibito l&#8217;accesso al centro storico</E
+M>la neve caduta proibisce il passaggio</E
+M>forse il cattivo tempo proibirà lo svolgimento della regata</E
+M>gli uffiziali</E
+M>furono proibiti dall&#8217;usare la polvere di cipri</E
+M>nella cura dei loro capelli</E
+M>essere</E
+M>è proibito entrare</E
+M>è proibito parlare al conducente</E
+M>è severamente proibito fumare</E
+M>è proibito dalla legge</E
+M>dai regolamenti</E

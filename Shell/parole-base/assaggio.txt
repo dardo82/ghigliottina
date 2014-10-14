@@ -1,0 +1,20 @@
+assaggio.txt
+"assaggio"
+"assaggio"
+"assaggio"
+"confezione assaggio"
+"dare un assaggio"
+"questo è solo un assaggio!"
+#*''Adoro fare '''assaggi''' dei più svariati cibi.''
+#*''Ho preso un '''assaggio''' dal piatto di Marco.''
+*[[assaggiare]], [[assaggiatore]], [[assaggino]]
+M>prendere in</E
+M>per</E
+M>dare in a.</E
+M>compravendita ad a</E
+M>con riserva di gradimento</E
+M>prendere un a</E
+M>gradirò soltanto un assaggio</E
+M>fare un a</E
+M>degli assaggi</E
+M>Certificato di a</E

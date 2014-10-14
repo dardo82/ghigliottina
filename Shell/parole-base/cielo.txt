@@ -1,0 +1,156 @@
+cielo.txt
+"a cielo aperto"
+"a cielo aperto"
+"a cielo blu"
+"al settimo cielo"
+"al settimo cielo"
+"al settimo cielo"
+"alzare gli occhi al cielo"
+"alzare le braccia al cielo"
+"alzare lo sguardo al cielo"
+"azzurro cielo, celeste"
+"cielo"
+"cielo"
+"cielo"
+"cielo"
+"cielo dei cieli"
+"cielo e terra"
+"cielo sereno"
+"donato dal cielo"
+"dono dal Cielo"
+"fino al cielo"
+"galleria a cielo aperto"
+"Ho toccato il cielo con un dito..."
+"i soldi non piovono dal cielo!"
+"il cielo in una stanza"
+"il cielo in una stanza"
+"in cielo"
+"intervento a cielo aperto"
+"manna dal cielo"
+"non stare né in cielo né in terra"
+"per amor del cielo"
+"piovuto dal cielo"
+"provvidenziale, mandato dal cielo"
+"santo cielo"
+"santo cielo"
+"santo cielo!, cribbio!"
+"santo cielo!, cribbio!"
+"santo cielo!, cribbio!"
+"santo cielo!, oddio!"
+"santo cielo!, oddio!"
+"santo cielo!, oddio!, Dio mio!"
+"settimo cielo"
+"sono al settimo cielo!"
+"sotto al cielo"
+"voglia il cielo che"
+"volesse il cielo"
+#*'' fu bellisimo tramonto perchè il cielo si tinse di [[rosso]]''
+#*''l'aeroplano volava in un cielo [[azzurro]]''
+#*'' quella notte senza Luna e senza stelle il cielo apparve completamente [[nero]]'' 
+#* ''a quest'ora sarà in '''cielo''''' (detto di un probabile defunto)
+#* ''per tutti gli angeli del '''cielo'''''
+* volta celeste, [[firmamento]]
+*''(di stanza)'' [[soffitto]], [[volta]], [[cupola]] 
+* ''(luogo fisico)'' [[troposfera]] 
+* [[terra]], in base alla contrapposizione aldilà - mondo terreno
+* [[inferno]], in base alla contrapposizione al paradiso - inferi
+* [[celeste]], [[celestiale]]
+* [[aereo]], [[aria]], [[aperto]], [[azzurro]], [[blu]], [[luna]], [[nuvola]], [[sereno]], [[sole]], [[uccello]]
+:* ''gente allegra, il '''ciel''' l'aiuta'' 
+:* ''santo '''cielo'''!'' 
+:* '''''cielo''', mio marito!'' 
+:* ''un [[raglio]] d'asino non arriva in '''cielo''''' 
+*italiano
+*spagnolo
+M>caelum</E
+M>coelum</E
+M>diurno</E
+M>notturno</E
+M>guardare verso il c</E
+M>una cometa apparve nel c</E
+M>azzurro</E
+M>sereno</E
+M>nuvoloso</E
+M> Sul muro grafito Che adombra i sedili rari L’arco del c. appare Finito</E
+M>color del c</E
+M>il c</E
+M>era tutto rosso del tramonto</E
+M>il c</E
+M>si oscurò per l’eclissi del Sole</E
+M>passare la notte a c</E
+M>aperto</E
+M>a ciel sereno</E
+M>coltivazione a c</E
+M>aperto</E
+M>scavi a c. aperto</E
+M>a pecorelle</E
+M>a pecorelle</E
+M>acqua a catinelle</E
+M>plumbeo</E
+M>gli strilli arrivavano al c</E
+M>alzare</E
+M>portare al c</E
+M>toccare il c</E
+M>con un dito</E
+M>ci corre quanto dal c</E
+M>alla terra</E
+M>cosa che non sta né in cielo né in terra</E
+M>quel c</E
+M>di Lombardia</E
+M>così bello quand’è bello</E
+M>mutare c</E
+M>sotto altro c</E
+M>piante che non attecchiscono sotto altro c</E
+M>di Malta</E
+M>di Tobruk</E
+M>della Luna</E
+M>di Mercurio</E
+M>di Venere</E
+M>terzo c</E
+M>portare ai sette c</E
+M>salire al terzo c</E
+M>essere al settimo c</E
+M>la gloria del c</E
+M>ascendere</E
+M>essere assunto in c</E
+M>Non isperate mai veder lo c</E
+M>salire al c</E
+M>regno dei c</E
+M>Padre nostro che sei nei cieli</E
+M>pregare il c</E
+M>rassegnarsi ai voleri del c</E
+M>ai decreti del c</E
+M>così ha voluto il c</E
+M>si vede che non era scritto in c</E
+M>è stato mandato dal c</E
+M>grazie al c</E
+M>sia lodato il c</E
+M>giusto c</E
+M>santo c</E
+M>per amor del c</E
+M>in nome del c</E
+M>faccia il c</E
+M>che</E
+M>volesse il c</E
+M>lo sa il c</E
+M>lo sa il c</E
+M>se abbiamo fatto il possibile per aiutarlo</E
+M>apriti c.!</E
+M>il c</E
+M>ci scampi e liberi</E
+M>il c</E
+M>della carrozza</E
+M>il c</E
+M>del forno</E
+M>d’una stanza</E
+M>del letto</E
+M>cieli</E
+M>arie</E
+M>cieletti</E
+M>a c</E
+M>coperto</E
+M>a c</E
+M>aperto</E
+M>scoperto</E
+M>cieletto dell’avvolgibile</E
+M>mobile contenitore alto fornito di cieletto in legno con faretti incassati</E

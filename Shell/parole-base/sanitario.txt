@@ -1,0 +1,71 @@
+sanitario.txt
+"amministratore sanitario"
+"assistente sanitario a domicilio"
+"assistente socio-sanitario scolastico"
+"direttore sanitario"
+"fisico sanitario"
+"impianto idrico sanitario"
+"Istituto Nazionale Sanitario"
+"libretto sanitario"
+"operatore sanitario"
+"polo sanitario di eccellenza"
+"sanitario"
+"sanitario"
+"sanitario"
+"sanitario"
+"sanitario, replace: sanitari"
+"impianto sanitario"
+"servizio sanitario"
+"servizio sanitario nazionale"
+"servizio sanitario nazionale"
+"tesserino sanitario"
+"ufficiale sanitario"
+*[[medico]]
+M>la situazione s.</E
+M>lo stato s. della popolazione</E
+M>le condizioni s. del collegio sono pessime</E
+M>bollettino s.</E
+M>legislazione s.</E
+M>leggi s.</E
+M>riforma s.</E
+M>disposizioni</E
+M>prescrizioni s.</E
+M>misure s.</E
+M>ispezione s.</E
+M>controllo s.</E
+M>cordone s.</E
+M>assistenza s.</E
+M>servizî s.</E
+M>edilizia s.</E
+M>Servizio s. nazionale</E
+M>Consiglio s. nazionale</E
+M>commissioni s.</E
+M>uffici s.</E
+M>unità s. locale</E
+M>azienda s. locale</E
+M>il corpo</E
+M>il personale s. di un ospedale</E
+M>direttore s.</E
+M>ispettore s.</E
+M>assistente s.</E
+M>ufficiale s.</E
+M>professioni s.</E
+M>professioni s. principali</E
+M>professioni s. ausiliarie</E
+M>arti ausiliarie delle professioni s.</E
+M>Fisica s.</E
+M>articoli s.</E
+M>per uso sanitario.</E
+M>igienico</E
+M>impianti s.</E
+M>impianti igienico-sanitarî</E
+M>sanitarî bianchi</E
+M>colorati</E
+M>bisogna sostituire i vecchi sanitarî</E
+M>pompa s.</E
+M>medico</E
+M>i s. di un reparto ospedaliero</E
+M>i s. sono in sciopero</E
+M>in assemblea</E
+M>le prescrizioni dei s.</E
+M>sentire il parere di un sanitario.</E

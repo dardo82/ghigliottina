@@ -1,0 +1,17 @@
+grammo.txt
+"grammo"
+"grammo"
+*[[centigrammo]], [[chilogrammo]], [[decagrammo]], [[decigrammo]], [[ettogrammo]], [[milligrammo]], [[miriagrammo]], [[quintale]], [[tonnellata]]
+M>gramme</E
+M>gramma</E
+M>10 g di pepe</E
+M>una bustina di pepe del peso di 10 grammi</E
+M>grammo-forza</E
+M>grammo-peso</E
+M>grammo-massa</E
+M>decagrammo</E
+M>ettogrammo</E
+M>decigrammo</E
+M>centigrammo</E
+M>non hai un g</E
+M>di buon senso</E

@@ -1,0 +1,120 @@
+produrre.txt
+"macchina per produrre ghiaccio"
+"produrre"
+"produrre"
+"produrre"
+"produrre"
+"produrre"
+"produrre"
+"produrre"
+"produrre elettricità"
+"produrre farina"
+"produrre in eccesso"
+"produrre in grandi quantità"
+"produrre non necessariamente"
+"produrre troppo"
+"produrre un lavoro letterario"
+"produrre velocemente"
+"produrre, generare"
+*far nascere, [[concepire]], [[generare]], [[creare]], [[procreare]]
+*[[dare]], [[fornire]], [[rendere]], [[fruttare]], [[elaborare]]
+*''(opere artigianali)'' [[fare]], [[costruire]], [[fabbricare]], [[confezionare]], [[elaborare]], [[congegnare]]
+*[[causare]], [[provocare]], [[originare]], [[determinare]]
+*''(burocrazia)'' [[presentare]], [[esibire]], [[mostrare]], [[esporre]], [[allegare]], [[citare]],[[addurre]]
+*''(di terreno, albero e simili)''[[fruttare]], [[rendere]], [[dare]], [[fruttificare]]
+*''(come conseguenza, effetto)''  [[procurare]],  [[arrecare]], [[ingenerare]], [[generare]], 
+*[[iperprodurre]], [[prodotto]], [[producente]],[[prodursi]], [[produttibile]], [[produttivistico]],[[produttività]], [[produttivo]], [[produtto]], [[produttore]], [[produzione]]
+M>produc</E
+M>pro</E
+M>duc</E
+M>io produco</E
+M>tu produci</E
+M>produssi</E
+M>producésti</E
+M>produrrò</E
+M>produrrèi</E
+M>producerò</E
+M>producerèi</E
+M>prodótto</E
+M>produtto</E
+M>Vedi l&#8217;erbette</E
+M>i fiori e li arbuscelli Che qui la terra sol da sé produce</E
+M>con ciò sia cosa che quel terreno produca cipolle famose per tutta Toscana</E
+M>è un melo che produce ottime mele</E
+M>la regione produce soprattutto grano e olio</E
+M>campi che producono molto</E
+M>poco</E
+M>quest&#8217;anno abbiamo prodotto solo trecento quintali di olive</E
+M>è una vacca prolifica</E
+M>che ha prodotto ben cinque vitelli</E
+M>l&#8217;Africa equatoriale produce enormi serpenti</E
+M>è una nazione che ha prodotto grandi artisti</E
+M>la Gran Bretagna produce ottime razze di equini e suini</E
+M>gli ormoni sono prodotti dalle ghiandole a secrezione interna</E
+M>le foglie producono carboidrati</E
+M>il fiele si produce nella cistifellea</E
+M>è un vino prodotto dalle nostre cantine</E
+M>saponi</E
+M>profumi</E
+M>liquori</E
+M>in serie</E
+M>artificialmente</E
+M>sinteticamente</E
+M>per reazione fra idrogeno e azoto si produce ammoniaca</E
+M>una ditta che produce mobili per ufficio</E
+M>un pittore che ha prodotto opere immortali</E
+M>in silenzio Le nude mie rime io produco</E
+M>un autore che produce molto</E
+M>poco</E
+M>da molto tempo non produce più</E
+M>l&#8217;ossidazione del ferro produce la ruggine</E
+M>la ruggine si produce per l&#8217;ossidazione del ferro</E
+M>l&#8217;urto gli ha prodotto un grosso ematoma</E
+M>la febbre è prodotta dall&#8217;infezione</E
+M>lo sforzo gli ha prodotto grande spossatezza</E
+M>lo scoppio produsse danni incalcolabili</E
+M>le guerre producono soltanto distruzioni</E
+M>fame e miseria</E
+M>effetti benefici</E
+M>prodigiosi</E
+M>incalcolabili</E
+M>disastrosi</E
+M>l&#8217;aria sottile ch&#8217;io respirava</E
+M>produceva un vigore</E
+M>un brio e una leggerezza</E
+M>che a me pareva d&#8217;essere divenuto quasi celeste</E
+M>la sua domanda produsse imbarazzo fra i presenti</E
+M>l&#8217;avvenimento ha prodotto una grandissima impressione</E
+M>non sentiva tutto il rimorso che la predica voleva produrre</E
+M>una gioia simile in parte a quella che producono certe pitture dei grandi maestri coloristi</E
+M>il suono del violino è prodotto dallo sfregamento dell&#8217;arco sulle corde</E
+M>ogni movimento della porta produceva uno sgradevole cigolio</E
+M>un documento</E
+M>una tessera</E
+M>ciascuno produsse fuori il suo anello</E
+M>non poteva p</E
+M>alcun esempio reale</E
+M>una testimonianza</E
+M>argomenti a favore di una tesi</E
+M>scuse</E
+M>ragioni</E
+M>pretesti</E
+M>un testimone</E
+M>in pubblico</E
+M>sulle scene</E
+M>se produire</E
+M>prodursi in pubblico</E
+M>sulle scene</E
+M>prodursi in uno spettacolo</E
+M>ieri sera ti sei prodotta in una scena veramente penosa</E
+M>se lo assedio si potea produrre</E
+M>Se potea andar in lungo ancora un mese</E
+M>Non producea gl&#8217;indugi in questo mezzo</E
+M>Paride</E
+M>Troppo hai del viver tuo l&#8217;ore prodotte</E
+M>nelle notti serene prodotte in fidi colloqui</E
+M>in lungo</E
+M>Producea in lungo la cosa</E
+M>ché al giovine Non volea dar repulsa né promettere Liberamente</E
+M>una linea</E
+M>una superficie</E

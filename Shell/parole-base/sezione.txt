@@ -1,0 +1,107 @@
+sezione.txt
+"a sezione trasversale"
+"a sezione trasversale"
+"a sezione trasversale"
+"mezza sezione"
+"sezione"
+"sezione"
+"sezione"
+"sezione"
+"medicina: dissezione"
+"sezione aurea"
+"sezione centrale"
+"sezione di una rivista"
+"sezione longitudinale"
+"sezione ottoni"
+"sezione ritmica"
+"sezione sportiva"
+"sezione staccata"
+"sezione sviluppo"
+"sezione trasversale"
+"sezione trasversale"
+"sezione trasversale"
+*[[suddivisione]]; [[settore]], [[parte]], [[partizione]]
+*'' (di un edificio, di una macchina ecc.)'' [[spaccato]] 
+*[[secare]], [[sezionamento]], [[sezionare]]
+M>sectio -onis</E
+M>sectus</E
+M>secare</E
+M>section</E
+M>la s. del frenulo</E
+M>di un&#8217;arteria.</E
+M>retta</E
+M>piano di sezione</E
+M>s. piana</E
+M>sezione</E
+M>s. coniche</E
+M>s. normale</E
+M>s. aurea di un segmento</E
+M>media ragione</E
+M>il rapporto aureo è il rapporto tra un segmento e la sua s. aurea.</E
+M>piano di s.</E
+M>la s. di un tubo</E
+M>di una barra metallica</E
+M>di un edificio</E
+M>di una macchina</E
+M>s. del manto stradale</E
+M>disegnare una galleria in sezione</E
+M>un oggetto visto in sezione</E
+M>s. di un organo</E
+M>di un organismo</E
+M>piano di s. sagittale</E
+M>longitudinale</E
+M>mediano</E
+M>piano di s. trasversale</E
+M>piano di s. frontale</E
+M>spaccato</E
+M>pianta</E
+M>sezione in pianta</E
+M>s. trasversale</E
+M>s. longitudinale</E
+M>profilo</E
+M>s. geologica</E
+M>profilo geologico</E
+M>s. sottili</E
+M>s. lucida</E
+M>s. resistente</E
+M>s. di una corrente</E
+M>s. contratta</E
+M>s. maestra</E
+M>un cavo elettrico con una s. di 3 mm</E
+M>una barra metallica di s. data</E
+M>s. d&#8217;urto</E
+M>s. di cattura</E
+M>s. di diffusione</E
+M>un trattato costituito di nove s.</E
+M>la s. III della &#171;Summa Theologica&#187; di s. Tommaso</E
+M>il codice civile è suddiviso in titoli</E
+M> i titoli in capi</E
+M> i capi in sezioni.</E
+M>s. di frazionamento gas</E
+M>s. di rete</E
+M>s. di avvolgimento</E
+M>s. principale</E
+M>la s. degli archi</E
+M>degli ottoni</E
+M>dei legni</E
+M>delle percussioni</E
+M>la s. degli ottoni</E
+M>la s. delle ance</E
+M>la s. ritmica</E
+M>s. di squadriglia aerea</E
+M>s. aerologica</E
+M>s. disinfezione</E
+M>s. di fonotelemetria</E
+M>classe III liceale s. B</E
+M>s. distaccata</E
+M>s. civile</E
+M>s. penale</E
+M>s. giurisdizionale del Consiglio di stato</E
+M>s. distaccata della pretura</E
+M>del tribunale</E
+M>della Corte d&#8217;appello</E
+M>s. specializzate agrarie</E
+M>S. elettorale</E
+M>gli iscritti sono pregati di passare in s.</E
+M>il dibattito si terrà in sezione</E
+M>una sezioncina con pochi iscritti</E

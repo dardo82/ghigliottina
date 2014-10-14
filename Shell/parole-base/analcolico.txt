@@ -1,0 +1,15 @@
+analcolico.txt
+"analcolico"
+"analcolico"
+#*''bevanda '''anlcolica'''''
+#*''già ubriaco disse al [[barman]]
+*[[alcolico]]
+*[[analcoolico]]
+M>alco</E
+M>lico</E
+M>sostanza</E
+M>bevanda a</E
+M>bitter a</E
+M>ordinare</E
+M>bere un a</E
+M>bar con licenza di mescita limitata agli analcolici</E

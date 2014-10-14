@@ -1,0 +1,69 @@
+vario.txt
+"a vario titolo"
+"various, miscellaneous"
+"il mondo è bello perché è vario"
+"vario"
+"vario"
+"various"
+"vario, replace: varie"
+#* ingegno vario
+#* [[circostanza|circostanze]] '''varie'''
+#* viaggio per '''vari''' paesi 
+* [[diverso]], [[molteplice]], 
+*[[variamente]], [[variare]], [[varie ed eventuali]], [[variegato]], [[varietà]], [[variforme]], [[variopinto]]
+*[[svariato]]
+M>varius</E
+M>diverso</E
+M>diverso</E
+M>vario</E
+M>la vita è bella perché è v.</E
+M>il mondo è bello perché è v.</E
+M>oggetti di v. grandezza</E
+M>di forma v.</E
+M>di v. colore</E
+M>moto v.</E
+M>spettacolo di arte v.</E
+M>la sua conversazione</E
+M>la sua prosa</E
+M>è sempre v. e piacevole</E
+M>Del v. stile in ch’io piango e ragiono</E
+M>pubblico composto di persone di v. età e di v. condizione sociale</E
+M>varie di età e di condizione sociale</E
+M>tempo v.</E
+M>variabile</E
+M>uomo di v. cultura</E
+M>di interessi v.</E
+M>il vario</E
+M>il v. è sempre meglio del monotono</E
+M>una oppinione strana e v. da tutte quelle degli altri filosofi</E
+M>un pranzo con molte e v. portate</E
+M>negozio di generi v.</E
+M>le opinioni in materia sono v.</E
+M>Convien che varie cose al mondo sia</E
+M> Come son varii volti e vario ingegno</E
+M>sul suo volto si riflettevano i v. sentimenti che si agitavano nel suo animo</E
+M>ci sono v. vie</E
+M>v. soluzioni</E
+M>v. possibilità</E
+M>ci si può arrivare in v. modi</E
+M>bibite di v. sapori</E
+M>c’è lo stesso modello in v. tinte</E
+M>ho v. cose da sbrigare</E
+M>debbo discutere con te di v. questioni</E
+M>in v. circostanze della vita</E
+M>in v. occasioni</E
+M>vario</E
+M>più</E
+M>v. persone me l’hanno detto</E
+M>ci sono stato v. volte</E
+M>da v. generazioni</E
+M>autori varî</E
+M>AA. VV</E
+M>lettere a varî</E
+M>da varî</E
+M>varie</E
+M>varia</E
+M>varie ed eventuali</E
+M>il passo è variamente inteso</E
+M>l’episodio fu variamente commentato</E
+M>la disposizione è variamente applicata</E

@@ -1,0 +1,124 @@
+coprire.txt
+"coprire"
+"rivestire, ricoprire"
+"coprire"
+"coprire"
+"coprire"
+"coprire"
+"coprire"
+"coprire"
+"coprire"
+"coprire completamente"
+"coprire completamente"
+"coprire con la cenere"
+"coprire con strato protettivo i fiori in terra"
+"coprire di"
+"coprire di feltro"
+"coprire di glassa una torta, glassare una torta"
+"coprire i cadaveri"
+"coprire male"
+"coprire parole oscene con dei bip"
+"coprire qualcuno, fare da paravento a qualcuno"
+"coprire; dissimulare; mascherare"
+"mettersi alle spalle di qcn, coprire le spalle di qcn, guardare le spalle di qcn"
+#*'' Copri ''il piatto o sarà invaso dalle mosche''.
+*[[coprimento]]
+M>cooperire</E
+M>operire</E
+M>io còpro</E
+M>cuòpro</E
+M>coprìi</E
+M>copèrsi</E
+M>copristi</E
+M>coprì</E
+M>copèrse</E
+M>coprimmo</E
+M>copriste</E
+M>coprìrono</E
+M>copèrsero</E
+M>copèrto</E
+M>con</E
+M>il tavolo con un tappeto</E
+M>il libro con una copertina</E
+M>coprirsi la faccia con le mani</E
+M>il muro di uno strato d’intonaco</E
+M>la pentola</E
+M>il fuoco</E
+M>una carta</E
+M>le carte</E
+M>copri bene il bambino prima di mandarlo a scuola</E
+M>coprirsi le spalle con uno scialle</E
+M>coprirsi il capo</E
+M>coprirsi</E
+M>copritevi bene prima di uscire</E
+M>non hanno di che coprirsi</E
+M>si era coperto con le lenzuola fino al naso</E
+M>uno di baci</E
+M>di carezze</E
+M>di gentilezze</E
+M>di onori</E
+M>di regali</E
+M>di botte</E
+M>di ingiurie</E
+M>coprirsi di gloria</E
+M>coprirsi d’infamia</E
+M>Coprendomi di ridicolo scrivo lettere D’amore a traditi amori di un’epoca trascorsa</E
+M>un drappo funebre copriva la bara</E
+M>sollevò il velo che copriva il quadro</E
+M>una lieve peluria gli copriva il labbro e le guance</E
+M>la nebbia copriva tutta la valle</E
+M>Serse</E
+M>volendo occupare la Grecia</E
+M>coprì il mare di navi</E
+M>quella sponda Coprìr le invitte schiere De’ corpi ch’alla Grecia eran devoti</E
+M>coprirsi</E
+M>il cielo si era coperto di nuvole</E
+M>il volto gli si coperse di rossore</E
+M>far c</E
+M>la vacca dal toro</E
+M>la cavalla non è stata ancora coperta</E
+M>l’eclissi era al colmo e la luna copriva ormai quasi l’intero disco del sole</E
+M>Come stella che ’l sol copre col raggio</E
+M>ecco lo scocciatore! coprimi</E
+M>che non voglio farmi vedere</E
+M>coprirsi</E
+M>star coperti</E
+M>marciare</E
+M>procedere coperti</E
+M>coperti!</E
+M>la musica era troppo forte e copriva la voce dei protagonisti</E
+M>il rullo dei tamburi coprì le sue ultime parole</E
+M>Il clamor delle turbe vittrici Copre i lai del tapino che muor</E
+M>la ritirata di un battaglione</E
+M>l’artiglieria copriva con tiri allungati i reparti avanzati</E
+M>c. dai colpi dell’avversario</E
+M>contro il furto</E
+M>l’incendio</E
+M>i sinistri</E
+M>l’assicurazione che ho fatto mi copre da ogni responsabilità civile verso terzi</E
+M>coprirsi da ogni rischio</E
+M>essere coperto in caso di perdita del carico</E
+M>la mamma copre spesso le marachelle dei figli</E
+M>le gravi responsabilità</E
+M>le colpe</E
+M>gli abusi di un funzionario</E
+M>dei proprî sottoposti</E
+M>protetti</E
+M>i risultati dell’inchiesta sono coperti dal segreto istruttorio</E
+M>è un dirigente che sa c</E
+M>i proprî collaboratori</E
+M>si sente sicuro</E
+M>perché c’è qualcuno in alto che lo copre</E
+M>che gli copre le spalle</E
+M>una cattedra</E
+M>una carica amministrativa</E
+M>un importante posto direttivo</E
+M>ricoprire</E
+M>occupare</E
+M>una distanza</E
+M>è un aereo di nuovo tipo che copre la distanza da Parigi a New York in poco più di quattro ore</E
+M>il vincitore ha coperto i 180 km in 4 ore</E
+M>e mezza</E
+M>le spese</E
+M>la diaria che mi dà la mia amministrazione non basta neanche a c</E
+M>le spese di missione</E

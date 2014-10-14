@@ -1,0 +1,69 @@
+pasqua.txt
+"contento come una Pasqua"
+"della Pasqua"
+"domenica dopo Pasqua"
+"fiore di pasqua"
+"giorno di Pasqua"
+"Isola di Pasqua"
+"le pulizie di Pasqua"
+"lunedì di Pasqua"
+"lunedì di Pasqua"
+"Pasqua"
+"Pasqua"
+"pulizie di Pasqua"
+"uovo di Pasqua"
+M>pascha</E
+M>pesa</E
+M>pis</E
+M>pascua</E
+M>di resurrezione</E
+M>maggiore</E
+M>d&#8217;agnello</E
+M>d&#8217;uovo</E
+M>d&#8217;ova</E
+M>alta</E
+M>bassa</E
+M>fare P</E
+M>prendere la P</E
+M>fare P</E
+M>in famiglia</E
+M>con qualcuno</E
+M>uova di P</E
+M>pasquali</E
+M>augurare</E
+M>dare la buona P</E
+M>buona P</E
+M>cartoline di Buona P</E
+M>Natale con i tuoi</E
+M>con chi vuoi</E
+M>pasque</E
+M>piemontesi</E
+M>veronesi</E
+M>appressandosi la festa di Natale</E
+M>la donna disse al marito che</E
+M>ella voleva andar la mattina della p</E
+M>alla chiesa</E
+M>di Natale</E
+M>della Natività</E
+M>di ceppo</E
+M>di Befana</E
+M>Epifania</E
+M>fiorita</E
+M>piccola</E
+M>pasquetta</E
+M>rosa</E
+M>di rose</E
+M>delle rose</E
+M>rosata</E
+M>di fiori</E
+M>del Corpo di Cristo</E
+M>dei morti</E
+M>si fece gran p</E
+M>le liti degli altri erano la loro p</E
+M>essere contento come una p</E
+M>contenti come pasque</E
+M>dare la mala p</E
+M>la donna</E
+M>vide bene nel viso al marito che ella gli aveva data la mala p</E
+M>che Dio gli dia la mala p</E
+M>a te la mala p</E

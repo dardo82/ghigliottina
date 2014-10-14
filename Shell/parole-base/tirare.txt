@@ -1,0 +1,472 @@
+tirare.txt
+"aiutare qualcuno a tirare avanti"
+"alzare; tirare su"
+"contrattare, tirare sul prezzo"
+"il tirare a sorte"
+"il tirare su"
+"meglio tirare a campare che tirare le cuoia"
+"morire; tirare le cuoia"
+"prolungare, tirare per le lunghe"
+"tirare"
+"tirare"
+"tirare"
+"tirare"
+"tirare"
+"tirare"
+"tirare"
+"tirare"
+"tirare"
+"tirare"
+"tirare"
+"tirare"
+"tirare (a sé)"
+"tirare a campare"
+"tirare a campare"
+"tirare a caso"
+"tirare a indovinare"
+"tirare a lungo"
+"tirare a sé"
+"tirare a sorte"
+"tirare a sorte"
+"tirare a sorte"
+"tirare acqua al proprio mulino"
+"tirare avanti"
+"tirare con forza"
+"tirare da parte"
+"tirare da parte qualcuno"
+"tirare di colpo"
+"tirare dietro"
+"tirare fuori"
+"tirare fuori dai guai, cavare d'impaccio, dare una mano a qcn"
+"tirare fuori dall'acqua"
+"tirare fuori dall'acqua"
+"tirare fuori i soldi"
+"tirare fuori il carattere"
+"Tirare fuori il meglio di qualcuno"
+"tirare fuori le unghie"
+"tirare giù"
+"tirare i pacchi"
+"tirare i remi in barca"
+"tirare il collo a"
+"tirare il dado"
+"tirare il fiato"
+"tirare in ballo"
+"tirare in buca (golf)"
+"tirare indietro"
+"tirare indietro"
+"tirare l'acqua"
+"tirare la catena"
+"tirare la cinghia"
+"Tirare la corda"
+"tirare la giacca"
+"tirare la volata"
+"tirare le cuoia"
+"tirare le fila"
+"tirare le orecchie"
+"tirare le somme"
+"tirare oltre"
+"tirare oltre il bersaglio"
+"tirare per la giacca"
+"tirare per le lunghe; trascinare"
+"tirare su il morale"
+"tirare su il morale"
+"tirare su un pesce"
+"tirare su; aumentare"
+"tirare troppo"
+"tirare un calcio a qualcuno, prendere a calci qualcuno"
+"tirare un pugno"
+"tirare un sospiro di sollievo"
+"tirare una frecciatina a, tirare una frecciata a"
+"tirare verso l'alto, tirare fuori"
+"tirare via"
+"tirare; rimorchiare; trascinare"
+"tirare\/tirarla per le lunghe"
+#*''per [[entrare]] devi '''tirare''' la [[porta]]''
+#*'''''tira''' quella [[palla]]!''
+*[[attrarre]], [[lanciare]], [[tendere]]
+*[[ritirare]], [[tiramisù]], tirami su, [[tirante]], [[tirare]] [[avanti]], [[tirare]] [[fuori]], [[tirare in ballo]],  [[tirare in lungo]],  [[tirare su]], [[tirarsi]], [[tirata]], [[tiratore]], [[tiro]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le monnier, p. 2152
+M>*tirare</E
+M>t. su</E
+M>giù</E
+M>t. la tenda</E
+M>t. la corda della campana</E
+M>la catena dello sciacquone</E
+M>la maniglia della porta</E
+M>t. una barca a terra</E
+M>in secco</E
+M>t. la fune</E
+M>t. la cinghia dei pantaloni</E
+M>t. la cinghia</E
+M>t. la barba</E
+M>la giacca a uno</E
+M>t. uno per la giacca</E
+M>per la barba</E
+M>per i piedi</E
+M>t. uno da una parte</E
+M>t. il collo a un pollo</E
+M>t. le reti</E
+M>t. i remi in barca</E
+M>tira e molla</E
+M>spingere</E
+M>tirare</E
+M>spingere</E
+M>t. a sé</E
+M>la porta</E
+M>il cancello</E
+M>l&#8217;imposta</E
+M>qualcuno</E
+M>spingere</E
+M>t. il carretto</E
+M>spingere il carretto</E
+M>i buoi tirano l&#8217;aratro</E
+M>la carrozza era tirata da quattro cavalli</E
+M>dietro</E
+M>tirarsi dietro un carretto</E
+M>uscì in gran fretta tirandosi dietro la porta</E
+M>tirarsi dietro</E
+M>qui il tavolo impiccia</E
+M> bisognerebbe tirarlo più in là</E
+M>più in avanti</E
+M>un poco più a destra</E
+M>tira via quel piede</E
+M>tirarsi da parte</E
+M>tirare qualcuno da parte</E
+M>t. l&#8217;oro in fili</E
+M>per fregiar più nobili armature</E
+M> Tirar lame d&#8217;acciar</E
+M> fila d&#8217;argento</E
+M>t. la pasta</E
+M>t. la sfoglia</E
+M>t. un filo</E
+M>t. le corde di uno strumento</E
+M>di un meccanismo</E
+M>t. la corda</E
+M>troppo la corda</E
+M>non tirare troppo la corda!</E
+M>t. una linea</E
+M>t. una perpendicolare a una retta data</E
+M>t. un muro</E
+M>t. una boccata di fumo</E
+M>t. una striscia di cocaina</E
+M>t. il fiato</E
+M>lasciami t. il fiato</E
+M>t. il respiro</E
+M>t. un respiro di sollievo</E
+M>il bambino s&#8217;è attaccato al petto e sentissi come tira il latte!</E
+M>come tira</E
+M>t. un sasso</E
+M>una sassata</E
+M>t. pietre</E
+M>t. frecce con l&#8217;arco</E
+M>dardi con la balestra</E
+M>proiettili con la fionda</E
+M>t. frecciate</E
+M>t. un coltello</E
+M>un&#8217;accetta</E
+M>t. pugni</E
+M>schiaffi</E
+M>calci</E
+M>t. la palla</E
+M>il pallone</E
+M>t. in porta</E
+M>in rete</E
+M>a rete</E
+M>t. un rinterzo</E
+M>un rinquarto</E
+M>t. di rinterzo</E
+M>di rinquarto</E
+M>t. i dadi</E
+M>t. una carta</E
+M>t. fiori</E
+M>confetti</E
+M>t. baci</E
+M>t. peti</E
+M>t. moccoli</E
+M>bestemmie.</E
+M>t. un colpo di coltello al ventre</E
+M>un colpo di sciabola al fianco</E
+M>t. una coltellata</E
+M>una sciabolata</E
+M>un fendente</E
+M>t. un colpo di fucile</E
+M>di rivoltella</E
+M>di cannone</E
+M>t. una fucilata</E
+M>una revolverata</E
+M>una cannonata</E
+M>t. una bomba a mano.</E
+M>t. di scherma</E
+M>t. di sciabola</E
+M>di fioretto</E
+M>t. alla selvaggina</E
+M>t. a fermo</E
+M>a volo</E
+M>al frullo</E
+M>t. col fucile</E
+M>con la carabina</E
+M>con la pistola</E
+M>t. a segno</E
+M>t. bene</E
+M>male</E
+M>una carabina che tira con grande precisione</E
+M>un cannone che può t. a venti chilometri.</E
+M>t. di boxe</E
+M>t. il gruppo</E
+M>t. un compagno di squadra</E
+M>tirare</E
+M>t. la volata al caposquadra</E
+M>una parola tira l&#8217;altra</E
+M>una ciliegia tira l&#8217;altra</E
+M>i baci</E
+M>le disgrazie</E
+M>sono come le ciliegie</E
+M> una tira l&#8217;altra.</E
+M>Che i più tirano i meno è verità</E
+M>Signor mio caro</E
+M> ogni pensier mi tira Devoto a veder voi</E
+M>come la calamita tira il ferro</E
+M>verso Dio Tutti tirati sono e tutti tirano</E
+M>t. il sugo</E
+M>trarre</E
+M>vantaggio</E
+M>profitto da una situazione</E
+M>t. le somme</E
+M>t. le conseguenze</E
+M>t. la pensione</E
+M>la paga</E
+M>Né io sono per anche un manzoniano Che tiri quattro paghe per il lesso</E
+M>t. un volume in 10.000 copie</E
+M>t. 10.000 copie di un volume</E
+M>t. sei esemplari di una foto</E
+M>100 esemplari numerati di un&#8217;incisione</E
+M>t. a lucido</E
+M>a lustro un mobile</E
+M>un marmo</E
+M>un pavimento</E
+M>t. a pulimento un pezzo metallico.</E
+M>è uno di quelli che tirano tutto al peggio.</E
+M>t. giorno</E
+M>mattina</E
+M>t. sera</E
+M>t. tardi</E
+M>tirarsela</E
+M>come se la tira</E
+M> da quando è stata nominata direttrice!</E
+M>T. avanti</E
+M>t. avanti un lavoro</E
+M>t. avanti la famiglia</E
+M>la casa</E
+M>t. avanti la vita</E
+M>t. avanti</E
+M>è gravissimo</E
+M> potrà t. avanti solo qualche giorno</E
+M>con quel prestito</E
+M> potrà almeno t. avanti un mese o due</E
+M>T. su</E
+M>t. su il secchio dal pozzo</E
+M>t. su l&#8217;acqua</E
+M>t. su l&#8217;ancora</E
+M>la saracinesca</E
+M>la tenda</E
+M>t. su</E
+M>tirarsi su</E
+M>i pantaloni</E
+M>la gonna</E
+M>le calze</E
+M>tirarsi su le maniche</E
+M>t. su una casa</E
+M>t. su i capelli</E
+M>t. su le carte</E
+M>t. su i numeri</E
+M>della tombola</E
+M>del lotto</E
+M>t. su</E
+M>col naso</E
+M>smettila di t. su continuamente!</E
+M>t. su</E
+M>da terra</E
+M>qualcuno</E
+M>qualcosa</E
+M>era caduto</E
+M> e a tirarlo su da solo non ce l&#8217;ho fatta</E
+M> perché è un omone pesante</E
+M>il cavallo è scivolato</E
+M> bisogna tirarlo su</E
+M>tiriamo su quel palo</E
+M>tira su quel pezzo di carta</E
+M>t. su uno</E
+M>i genitori sono morti che aveva pochi mesi</E
+M> e l&#8217;hanno tirato su gli zii</E
+M>è lei che s&#8217;è sbandata</E
+M> i suoi l&#8217;avevano tirata su bene</E
+M>gli dava non solo da vivere ma di che mantenere e tirare su una numerosa famiglia</E
+M>tirarsi su</E
+M>comprerò un mulo e potrò tirarmi su a fare il carrettiere davvero</E
+M>è proprio mal ridotto</E
+M> e non riesce a tirarsi su</E
+M>non ti devi abbattere: ora cerca di distrarti e di tirarti su.</E
+M>T. giù</E
+M>t. giù la saracinesca</E
+M>il sipario</E
+M>t. giù colpi</E
+M>botte</E
+M>legnate</E
+M>pugni</E
+M>t. giù versi</E
+M> poesie</E
+M> articoli</E
+M> quadri</E
+M>T. fuori</E
+M>basta tirarsene fuori e anche la villeggiatura diventa qualcosa di veramente stupido</E
+M> quasi indecente</E
+M>t. fuori una pistola</E
+M>il coltello</E
+M>t. fuori il portafoglio</E
+M>l&#8217;orologio</E
+M>t. fuori quattrini</E
+M>denaro</E
+M>tremila euro</E
+M>un biglietto da cento</E
+M>t. fuori la lingua</E
+M>le unghie</E
+M>gli artigli</E
+M>t. fuori dalle macerie un ferito</E
+M>t. fuori dall&#8217;acqua il cadavere di un annegato</E
+M>t. fuori un amico da un pasticcio</E
+M>da una situazione imbrogliata</E
+M>tirarsi fuori da un pasticcio</E
+M>da un imbroglio</E
+M>t. fuori una vecchia questione</E
+M>t. fuori scuse</E
+M>pretesti</E
+M>cavilli</E
+M>argomenti capziosi</E
+M>ma guarda che cosa va a t. fuori!</E
+M>T. via</E
+M>farsi t. via un dente</E
+M>tira via quelle mani!</E
+M>t. via il dito dal naso.</E
+M>un lavoro</E
+M> un articolo tirato via</E
+M> tira via</E
+M> è tardi</E
+M>beh</E
+M> tiriamo via</E
+M> ormai è accaduto ed è inutile recriminare</E
+M> tira via</E
+M> l&#8217;ha detto in un momento di rabbia.</E
+M>T. in lungo</E
+M>t. in lungo una trattativa</E
+M> la discussione</E
+M>sta tirando in lungo per guadagnare tempo.</E
+M>T. a sorte</E
+M>t. a sorte i numeri di una lotteria</E
+M> i nomi dei concorrenti per stabilire l&#8217;ordine di precedenza</E
+M>se nessuno si sente di farlo</E
+M> tiriamo a sorte</E
+M>a chi tocca</E
+M>T. in ballo</E
+M>non t. in ballo sua moglie</E
+M> che non c&#8217;entra affatto</E
+M>è inutile t. in ballo queste vecchie questioni.</E
+M>tirarsi addosso</E
+M>si è tirato addosso l&#8217;armadio</E
+M>agendo così</E
+M> ti tirerai addosso le critiche</E
+M> le maledizioni di tutti</E
+M>tirarsi dietro</E
+M>se lo inviti</E
+M> è capace di tirarsi dietro tutti i parenti</E
+M>tirati dietro il portone</E
+M>il cancello</E
+M> quando esci</E
+M>è una malattia che può tirarsi dietro complicazioni anche gravi</E
+M>tirarsi indietro</E
+M>tìrati indietro</E
+M> sta arrivando il treno</E
+M>è un pagliaccio! si è tirato indietro all&#8217;ultimo momento</E
+M>tirarsi in là</E
+M>tìrati in là</E
+M> che non ci passo.</E
+M>t. gli orecchi a qualcuno</E
+M>t. coi denti</E
+M>un&#8217;interpretazione</E
+M> un&#8217;argomentazione tirata coi denti</E
+M>t. per i capelli</E
+M>questa conclusione mi sembra tirata per i capelli</E
+M>mi hanno tirato per i capelli ad assumermi questo incarico</E
+M>t. la carretta</E
+M>t. le cuoia</E
+M>t. l&#8217;acqua al proprio mulino</E
+M>t. sassi in colombaia</E
+M>in piccionaia</E
+M>avere</E
+M>soffiare</E
+M>spirare</E
+M>senti che ventaccio tira oggi</E
+M>tirava una tramontana gelida che mozzava il respiro</E
+M>che vento</E
+M>che aria</E
+M>tira?</E
+M>con il vento che tira</E
+M> è bene non commettere il minimo errore</E
+M>la cappa del camino</E
+M>la stufa</E
+M>questo sigaro</E
+M>la pipa</E
+M>tira benissimo</E
+M>poco</E
+M>male</E
+M>non tira</E
+M>il mercato dell&#8217;auto ancora tira</E
+M>l&#8217;industria edilizia continua a tirare.</E
+M>le bretelle tirano troppo</E
+M> vanno allentate</E
+M>la cintura mi tira</E
+M>è ingrassato e la giacca gli tira sulle spalle</E
+M>questi pantaloni mi tirano al cavallo.</E
+M>t. ai soldi</E
+M> al guadagno</E
+M>t. a sfruttare il lavoro degli altri</E
+M>a ingannare il prossimo.</E
+M>t. a indovinare</E
+M>t. a campare</E
+M>da&#8217; retta a me</E
+M> tira a campare!</E
+M>tiriamo a campare</E
+M> non ci avveleniamo l&#8217;esistenza</E
+M>t. a piovere</E
+M>T. sul prezzo</E
+M>t. il prezzo</E
+M>tirare</E
+M>non mi piace t. sul prezzo</E
+M> e perciò preferisco i negozî a prezzo fisso</E
+M>quelli che bevono il vino senza criticarlo</E
+M> che pagano il conto senza tirare</E
+M>t. sulle spese</E
+M>con la vita che si fa più cara giorno per giorno</E
+M> bisogna t. anche sul mangiare.</E
+M>T. dal padre</E
+M>dalla madre</E
+M>dalla famiglia paterna</E
+M>materna</E
+M>il ragazzo tira più dalla madre</E
+M> e la bambina dal padre.</E
+M>t. a destra</E
+M> a sinistra</E
+M>la vettura tira un po&#8217; a destra</E
+M>t. dritto</E
+M>diritto</E
+M>l&#8217;ho chiamato</E
+M> ma lui ha tirato diritto</E
+M>tu tira diritto</E
+M> non badare alle critiche</E
+M>t. via</E
+M>t. innanzi</E
+M>t. di lungo</E
+M>hanno visto</E
+M> traversando la piazza</E
+M> che c&#8217;era una rissa</E
+M> ma per evitare grane hanno tirato di lungo.</E
+M>radice tirante</E

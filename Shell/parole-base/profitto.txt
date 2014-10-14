@@ -1,0 +1,79 @@
+profitto.txt
+"avere profitto"
+"con profitto"
+"fare un profitto netto"
+"logica del profitto"
+"margine di profitto"
+"margine di profitto"
+"mettere a profitto"
+"ottenere profitto"
+"profitto"
+"profitto"
+"profitto"
+"profitto finale"
+"realizzare profitto"
+"realizzare un profitto"
+"senza profitto"
+"senza profitto"
+"test di profitto"
+"trarre profitto"
+*''(da consigli, situazioni, cure)'' [[utilità]], [[vantaggio]], [[interesse]], [[tornaconto]], [[giovamento]], [[ convenienza]]
+*''(da consigli, situazioni, cure)'' [[ svantaggio]], [[perdita]], [[danno]], [[peggioramento]],  [[pregiudizio]], [[nocumento]]
+*[[profittare]]
+* [[utile]],  [[miglioramento]],  [[guadagno]]
+M>profit</E
+M>profectus</E
+M>profic</E
+M>usare con p</E
+M>un medicinale</E
+M>trarre</E
+M>risentire qualche p</E
+M>da una cura</E
+M>ho cercato di educarlo</E
+M>ma con poco p</E
+M>con scarso p</E
+M>affannarsi</E
+M>sudare senza p</E
+M>senza alcun p</E
+M>ha lavorato con p</E
+M>con molto profitto</E
+M>dare</E
+M>fare</E
+M>recare profitto</E
+M>a cura delle quali infermità né consiglio di medico né virtù di medicina alcuna pareva che valesse o facesse p</E
+M>mettere a p</E
+M>qualche cosa</E
+M>mettere a p</E
+M>il tempo libero</E
+M>le esperienze acquisite</E
+M>le nozioni apprese</E
+M>a p</E
+M>di qualcuno</E
+M>se impari qualcosa è tutto a p</E
+M>tuo</E
+M>operare a p</E
+M>della collettività</E
+M>non fare profitto</E
+M>il ragazzo fa molto p</E
+M>negli studî</E
+M>ha fatto un rapido p</E
+M>in latino</E
+M>progresso</E
+M>prende lezioni di francese</E
+M>pare</E
+M>con notevole profitto</E
+M>voto di p</E
+M>voto di condotta</E
+M>attività che dà scarso p</E
+M>il p</E
+M>della gestione ha superato il milione di euro</E
+M>relativo</E
+M>saggio del p</E
+M>profitti e perdite</E
+M>perdite e profitti</E
+M>sperato</E
+M>nascondere</E
+M>occultare i proprî p</E
+M>profitti di guerra</E
+M>di speculazione</E
+M>di regime</E

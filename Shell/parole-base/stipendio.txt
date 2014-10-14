@@ -1,0 +1,33 @@
+stipendio.txt
+"arrotondare lo stipendio"
+"assegno dello stipendio"
+"aumento di stipendio"
+"aumento di stipendio"
+"prospettive di stipendio"
+"statino dello stipendio"
+"stipendio"
+"stipendio a sei cifre"
+"stipendio decente"
+"stipendio di base"
+"stipendio netto"
+*[[paga]],[[salario]],  [[compenso]], [[rimunerazione]], [[mensile]], [[mensilità]], [[quindicina]], [[settimana]]
+*[[stipendiare]],[[stipendiato]]
+*Enciclopedia [http
+M>stipendium</E
+M>stips stipis</E
+M>pend</E
+M>militare allo s.</E
+M>agli stipendî</E
+M>di un capitano di ventura</E
+M>E in spalla un scoppio o un arcobugio prendi; Che senza</E
+M> io so</E
+M> non toccherai stipendi</E
+M>teneva presso di sé uno scultore con lo s. di 100 fiorini</E
+M>salario</E
+M>un buono</E
+M>un discreto</E
+M>un magro s.</E
+M>ho avuto un aumento di s.</E
+M>i varî contributi vengono trattenuti sullo s.</E
+M>è stato sospeso dallo s.</E
+M>lo s. decorre dal giorno dell&#8217;assunzione</E

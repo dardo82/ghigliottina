@@ -1,0 +1,196 @@
+tagliare.txt
+"attrezzi per tagliare"
+"attrezzo per tagliare"
+"farsi tagliare i capelli"
+"macchinetta per tagliare i capelli"
+"per tagliare l'erba"
+"tagliare"
+"tagliare"
+"tagliare"
+"tagliare"
+"tagliare"
+"tagliare"
+"tagliare"
+"tagliare (asportare)"
+"tagliare a cubetti"
+"tagliare a fette"
+"tagliare a metà"
+"tagliare a pezzetti"
+"tagliare a pezzi"
+"tagliare a pezzi, dividere"
+"tagliare con forbici con lame a zig zag"
+"tagliare con il passato"
+"tagliare con le forbici"
+"tagliare con le forbici"
+"tagliare corti"
+"tagliare corto, tagliar corto"
+"tagliare costi drasticamente"
+"tagliare fuori"
+"tagliare i capelli a spazzola"
+"tagliare i ponti"
+"tagliare i prezzi"
+"tagliare in due"
+"tagliare l'erba"
+"tagliare la corda; darsela a gambe"
+"tagliare la strada"
+"tagliare la testa al toro"
+"tagliare le gambe"
+"tagliare leggermente"
+"tagliare lungo"
+"tagliare male"
+"tagliare per"
+"tagliare via"
+"tagliare via"
+"tagliare, far cadere"
+"tagliare, sfoltire"
+"tentare di tagliare"
+*[[interrompere]], [[impedire]]
+*[[taglio]]
+*''tagliare la corda''
+M>tailler</E
+M>taliare</E
+M>talea</E
+M>io tàglio</E
+M>t. col coltello</E
+M> col temperino</E
+M> col tagliacarte</E
+M>t. con la scure</E
+M>t. con le forbici</E
+M>un coltello che taglia bene</E
+M>che taglia</E
+M>che taglia poco</E
+M> che non taglia</E
+M>come taglia questo rasoio!</E
+M>queste forbici non tagliano affatto</E
+M>attento col coltello</E
+M> taglierai la tovaglia!</E
+M>t. un ascesso</E
+M>t. la gola a qualcuno</E
+M>tagliarsi la gola</E
+M>mi sono tagliato il dito</E
+M>mi sono tagliato al dito</E
+M> mi sono fatto un taglio al dito</E
+M>mi sono tagliato col rasoio nel farmi la barba</E
+M>metti via quel coltello</E
+M> ti taglierai!</E
+M>con una spada in mano or questo or quel tagliando de&#8217; saracini crudelmente molti n&#8217;uccise Gerbino</E
+M>il rostro a monte dei piloni dei ponti ha la funzione di t. l&#8217;acqua</E
+M>la corrente</E
+M>la prua della nave tagliava le onde</E
+M>il tonfo misurato di que&#8217; due remi</E
+M> che tagliavano la superficie azzurra del lago</E
+M>mi tagli due metri di questa seta</E
+M>t. diritto</E
+M> storto</E
+M> t. abbondante</E
+M>t. il panno</E
+M> la stoffa per fare una giacca</E
+M> una camicetta</E
+M>t. una giacca</E
+M> una camicetta</E
+M>per favore</E
+M> tagli tre etti di muscolo</E
+M> mezzo chilo di bistecche</E
+M>tagliami un pezzo di formaggio</E
+M>posso tagliarmi una fetta di melone?</E
+M>tagliarsi le unghie</E
+M>andare dal barbiere a farsi t. i capelli</E
+M>t. il bosco</E
+M>t. le pagine di un libro</E
+M>t. un diamante</E
+M>t. fuori un reparto</E
+M>essere tagliato fuori</E
+M>è stato tagliato fuori dal gruppo dirigente del partito.</E
+M>t. i rami di un albero</E
+M>t. il fieno</E
+M>se la cancrena dovesse estendersi</E
+M> gli dovrà essere tagliata tutta la gamba</E
+M>amputare</E
+M> da piccolo credevo che le albicocche secche fossero orecchie</E
+M> e mi domandavo a quali infelici fossero state tagliate</E
+M>i nemici lo catturarono e gli tagliarono la lingua</E
+M>bada che ti taglio la lingua!</E
+M>gli fu tagliata la testa con la mannaia</E
+M> con la ghigliottina</E
+M>tagliami la testa</E
+M> se non è come dico io</E
+M>mi farei t. la testa</E
+M> piuttosto che cedere</E
+M>t. lo spago</E
+M> la fune</E
+M> il nastro</E
+M>t. un foglio di carta in quadrettini</E
+M>t. un&#8217;asse per lungo</E
+M> per largo</E
+M>t. in due una lamiera</E
+M>t. un vetro</E
+M>t. il pane</E
+M> il salame</E
+M>t. la torta</E
+M>t. la carne</E
+M> il pollo</E
+M>t. la polenta col filo</E
+M>t. a pezzi</E
+M>t. le carte</E
+M>un buio da tagliarsi col coltello</E
+M>la tensione si tagliava col coltello</E
+M>una fame da tagliarsi col coltello</E
+M>dopo pochi minuti l&#8217;appetito</E
+M>diventò fame</E
+M> e la fame</E
+M> dal vedere al non vedere</E
+M> si convertì in una fame da lupi</E
+M> una fame da tagliarsi col coltello</E
+M>L&#8217;orgogliose minaccie a mezzo taglia</E
+M>appena mi vede</E
+M> a mezzo taglia Ogni sospiro</E
+M> ogni parola e pianto</E
+M>tagliar corto</E
+M>trancher court</E
+M> couper court</E
+M> tendevo a tagliar corto</E
+M> la cosa che temevo di più era quella sua disponibilità</E
+M>t. la strada a qualcuno</E
+M>t. la ritirata al nemico</E
+M>t. le comunicazioni</E
+M> i rifornimenti</E
+M> i viveri</E
+M>t. i viveri a una persona</E
+M>t. la luce</E
+M> il telefono</E
+M>t. la rotta</E
+M>t. il vento</E
+M> t. la terra</E
+M>chicane</E
+M>atout</E
+M>linea</E
+M> strada che ne taglia un&#8217;altra</E
+M>la strada provinciale taglia quella nazionale a pochi chilometri dal paese.</E
+M>quest&#8217;articolo è troppo lungo</E
+M> occorre tagliarlo</E
+M>per farlo rientrare nelle due colonne</E
+M>t. una scena</E
+M>un episodio</E
+M>in origine il film era più lungo</E
+M> ma la censura l&#8217;ha tagliato in più punti</E
+M>t. le spese</E
+M> t. gli stipendî</E
+M>t. le pensioni</E
+M>t. le monete</E
+M>t. le monete</E
+M>t. una curva</E
+M>per fare prima</E
+M> abbiamo tagliato per i campi</E
+M>ci converrà t. diritto</E
+M>t. un vino</E
+M>cento grammi di eroina già tagliata</E
+M>un giovane tossicodipendente ucciso da una dose tagliata male.</E
+M>t. la corda</E
+M>t. la palla</E
+M>t. i panni addosso a qualcuno</E
+M>ha una lingua che taglia e cuce</E
+M>t. i ponti</E
+M>brûler ses vaisseaux</E
+M>t. la testa al toro</E
+M>questo è un argomento che taglia la testa al toro</E
+M>t. il traguardo</E

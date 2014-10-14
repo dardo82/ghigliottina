@@ -1,0 +1,22 @@
+rileggere.txt
+"leggere e rileggere"
+"rileggere"
+"rileggere"
+"rileggere attentamente un contratto, esaminare un contratto"
+M>leggere</E
+M>leggere</E
+M>scorse il libro ripromettendosi di rileggerlo più attentamente in seguito</E
+M>non si stancava mai di leggere e r</E
+M>la lettera del figlio</E
+M>E in rileggendo poi le proprie note Rigò di belle lagrime le gote</E
+M>rilesse la lettera</E
+M>la chiuse nella busta e uscì per imbucarla</E
+M>rileggi il compito prima di consegnarlo</E
+M>ho già ricopiato la versione</E
+M>debbo soltanto rileggerla</E
+M>ti consiglio di r. il messaggio di posta elettronica</E
+M> prima di spedirlo</E
+M>in chiave moderna l&#8217;&#171;Odissea&#187;</E
+M>i tragici greci</E
+M>il &#171;Re Lear&#187; di Shakespeare</E
+M>la pittura di Cézanne</E

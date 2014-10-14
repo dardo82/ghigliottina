@@ -1,0 +1,34 @@
+panorama.txt
+"finestra senza panorama"
+"panorama"
+"view, panorama"
+"panorama"
+"panorama interno"
+"un panorama mozzafiato"
+"breath-taking panorama"
+#* ''nel '''panorama''' delle distribuzioni GNU/Linux, una tra le più usate è senza dubbio Debian''
+*[[paesaggio]], [[vista]], [[scenario]], [[veduta]], [[prospettiva]]
+M>panorama</E
+M>pan</E
+M>cyclorama</E
+M>ammirare il p</E
+M>di Roma dalla terrazza del Pincio</E
+M>dalle colline di Genova si gode uno splendido p</E
+M>del porto</E
+M>fotografare</E
+M>dipingere un p</E
+M>fatti un po&#8217; in là</E
+M>che mi nascondi il p</E
+M>ho appeso alla parete un p</E
+M>di Capri</E
+M>collezionava acquerelli di p</E
+M>inglesi</E
+M>cupola</E
+M>il p</E
+M>della letteratura italiana contemporanea</E
+M>un p</E
+M>culturale di grande interesse</E
+M>delineare il p</E
+M>dell&#8217;attuale situazione politica</E
+M>il capitolo introduttivo del catalogo dà un esauriente p</E
+M>della mostra</E

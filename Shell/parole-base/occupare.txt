@@ -1,0 +1,91 @@
+occupare.txt
+"occupare"
+"occupare"
+"occupare"
+"occupare"
+"occupare"
+"occupare anticipatamente"
+"occupare illegalmente un'abitazione"
+#*'''''Occupò''' l'appartamento a destra del nostro.''
+#*''L'esercito '''occupò''' la città.''
+#*''"'''Occupiamo'''" urlò uno!''
+#*'''''Occupava''' tutto lo scaffale''
+#*'''''Occupa''' tutti i tuoi pensieri?''
+#*''Quella fabbrica '''occupa''' più di mille operai''
+M>occupare</E
+M>cap</E
+M>io òccupo</E
+M>i pionieri occuparono quelle terre incolte e vi si stabilirono</E
+M>il suolo pubblico</E
+M>i contadini si ribellarono occupando il latifondo</E
+M>gli operai hanno occupato le fabbriche</E
+M>gli studenti hanno deciso di o</E
+M>la facoltà di scienze</E
+M>i senzatetto hanno occupato gli alloggi</E
+M>un territorio</E
+M>una regione</E
+M>una città</E
+M>una fortezza</E
+M>i beni paterni</E
+M>un’eredità</E
+M>i nuovi inquilini occuperanno l’appartamento all’inzio del prossimo mese</E
+M>la stanza è attualmente occupata da un ospite</E
+M>non</E
+M>permesso o</E
+M>posti per altri</E
+M>i bambini che non pagano il biglietto non hanno diritto a o</E
+M>un posto</E
+M>s’era sdraiato occupando tutto il sedile</E
+M>un posto di responsabilità</E
+M>un’alta carica</E
+M>mi hai occupato tutta la scrivania con le tue carte</E
+M>un grande tavolo occupa quasi la metà della stanza</E
+M>la nuova costruzione occupa un’area di quasi 5000 m</E
+M>il magazzino occupa l’intero pianterreno</E
+M>l’entrata</E
+M>l’uscita di un locale</E
+M>un carro attraverso la via occupava il passo</E
+M>l’episodio occupa l’intero capitolo</E
+M>il mal che tutto il mondo occùpa</E
+M>tutti gl’intervalli della vita umana frapposti ai piaceri e ai dispiaceri</E
+M>sono occupati dalla noia</E
+M>il pallore e la languidezza di que’ visi eran cose da occupar tutto di compassione l’animo di chiunque</E
+M>è un pensiero che occupa tutta la mia mente</E
+M>la mente</E
+M>il pensiero</E
+M>l’attenzione in</E
+M>con qualche cosa</E
+M>tenerli occupati</E
+M>come occupi le tue giornate?</E
+M>le ore libere con utili letture</E
+M>bene</E
+M>male il proprio tempo</E
+M>la preparazione di questo discorso m’ha occupato</E
+M>m’ha tenuto occupato</E
+M>per un’intera settimana</E
+M>per non lasciarlo in ozio</E
+M>l’ho occupato a riordinarmi la biblioteca</E
+M>qualcuno</E
+M>per ora</E
+M>il padre l’ha occupato nel suo ufficio</E
+M>è riuscito a o</E
+M>il figlio in una banca</E
+M>la creazione del nuovo stabilimento consentirà di o</E
+M>più di trecento operai</E
+M>si occupa di legnami</E
+M>di meccanica</E
+M>di agricoltura</E
+M>occuparsi di letteratura</E
+M>di musica</E
+M>di sport</E
+M>non mi sono mai occupato di politica</E
+M>è un problema di cui ho già avuto occasione di occuparmi</E
+M>le autorità stanno attivamente occupandosi di questo caso</E
+M>si è occupata come commessa</E
+M>ha trovato da occuparsi in una importante ditta di Milano</E
+M>non c’è nessuno che si occupi di lui</E
+M>mi occuperò io stesso della faccenda</E
+M>mi sono occupato io di trovare i mezzi adatti</E
+M>nessuno ti ha detto di occupartene</E
+M>òccupati dei fatti tuoi!</E
+M>io non me ne occupo</E

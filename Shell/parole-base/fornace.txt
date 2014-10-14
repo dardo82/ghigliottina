@@ -1,0 +1,18 @@
+fornace.txt
+"fornace"
+"fornace"
+"fornace a gas"
+"fornace a olio"
+"fornace ardente"
+"fornace elettrica"
+"fornace per mattoni"
+"la Fornace"
+#*''questo abbaino è una fornace''
+*[[fornaciaio]], [[fornaciata]], [[fornacino]]
+M>fornax</E
+M>acis</E
+M>formus</E
+M>forno</E
+M>sembrava d’essere in una f</E
+M>d’estate</E
+M>queste stanze diventano una fornace</E

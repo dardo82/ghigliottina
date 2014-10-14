@@ -1,0 +1,47 @@
+correggere.txt
+"correggere"
+"correggere"
+"correggere"
+"correggere"
+"correggere un difetto"
+*[[migliorare]], [[modificare]], [[perfezionare]], [[sistemare]], [[raddrizzare]], [[rettificare]], [[rivedere]], [[rifinire]], [[limare]], [[ritoccare]], [[emendare]]
+*''(un modo di fare, il temperamento di qualcuno)'' [[moderare]], [[attenuare]], [[temperare]], [[curare]], [[guarire]]
+* ''(una persona)'' [[consigliare]], [[ammonire]], [[rimproverare]], [[riprendere]], [[richiamare]], [[educare]], [[redarguire]]
+*''(sostanze)'' [[addizionare]]
+*''(migliorare)'' [[sbagliare]], commettere errori, [[peggiorare]], [[rovinare]], [[guastare]], [[corrompere]], [[viziare]], [[alterare]]
+*''(un modo di fare, il temperamento di qualcuno)'' [[accentuare]] 
+*[[correggersi]]
+*[[correggibile]], [[correttore]], [[correzione]]
+M>corrig</E
+M>con</E
+M>reg</E
+M>reggere</E
+M>reggere</E
+M>le bozze di stampa</E
+M>un conto sbagliato</E
+M>un progetto</E
+M>il difetto di un abito</E
+M>la propria pronuncia</E
+M>un compito scolastico</E
+M>gli errori di un compito scolastico</E
+M>i difetti della vista</E
+M>dell’udito</E
+M>qualcuno dei suoi difetti</E
+M>i difetti di qualcuno</E
+M>un proprio difetto</E
+M>se sbaglio corrèggimi</E
+M>è testardo e non si lascia c</E
+M>i figli vanno corretti in tempo</E
+M>correggersi</E
+M>correggersi di un vizio</E
+M>di un difetto</E
+M>i dati forniti da uno strumento di misurazione</E
+M>la rotta</E
+M>un terreno</E
+M>un torrente</E
+M>il corso di un fiume</E
+M>il caffè</E
+M>il vino</E
+M>un farmaco</E
+M>esta fiera è fatta fella Per non esser corretta da li sproni</E
+M>tutti costoro Con altri molti il mio scettro corregge</E

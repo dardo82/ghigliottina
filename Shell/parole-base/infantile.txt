@@ -1,0 +1,45 @@
+infantile.txt
+"andare a dormire; linguaggio infantile"
+"asilo infantile"
+"benessere infantile"
+"cavallo nel linguaggio infantile"
+"infantile"
+"infantile"
+"paralisi infantile"
+"infantile paralysis"
+"paralisi infantile"
+"infantile paralysis"
+"paralisi infantile"
+"infantile paralysis"
+"persona infantile"
+"psichiatria infantile"
+"psicologia infantile"
+#* l'età 
+#*'''neuropsichiatria infantile'''
+#* assumere un comportamento 
+*[[puerile]], [[bambinesco]], [[fanciullesco]]
+*[[infantilmente]], [[infantilismo]]
+M>infantilis</E
+M>infans</E
+M>antis</E
+M>l’età i</E
+M>asilo i</E
+M>malattie i</E
+M>paralisi i</E
+M>poliomielite anteriore acuta</E
+M>mortalità i</E
+M>grazia</E
+M>ingenuità i</E
+M>giochi i</E
+M>letteratura i</E
+M>vocabolo i</E
+M>voce del linguaggio i</E
+M>voce onomatopeica i</E
+M>mamma</E
+M>papà</E
+M>pappa</E
+M>tato</E
+M>tata</E
+M>bua</E
+M>comportarsi</E
+M>ragionare infantilmente</E

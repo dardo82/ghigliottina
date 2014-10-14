@@ -1,0 +1,220 @@
+chiudere.txt
+"chiudere"
+"chiudere"
+"chiudere"
+"chiudere"
+"chiudere"
+"chiudere"
+"chiudere"
+"chiudere"
+"chiudere"
+"chiudere"
+"chiudere"
+"chiudere a chiave"
+"chiudere a chiave"
+"chiudere a doppia mandata"
+"chiudere bene"
+"chiudere con"
+"chiudere con cerniera lampo"
+"chiudere con il lucchetto"
+"chiudere dentro"
+"chiudere fuori"
+"chiudere gli occhi"
+"chiudere gli scuretti"
+"chiudere il bilancio"
+"chiudere il cerchio"
+"chiudere in"
+"chiudere in bellezza"
+"chiudere in pareggio"
+"chiudere un bilancio in pareggio"
+"chiudere in un feretro"
+"chiudere la bocca"
+"chiudere la porta"
+"chiudere la porta"
+"chiudere la pratica"
+"chiudere rapidamente"
+"chiudere un buco con uno stop"
+"chiudere un conto"
+"chiudere un occhio"
+"chiudere un occhio"
+"chiudere un occhio su"
+"chiudere un occhio su"
+"chiudere un occhio su qcs"
+"chiudere una lettera con la firma"
+"far chiudere un'attività"
+"isolare, chiudere"
+"smetterla, finirla, darci un taglio, chiudere, mettere la parola fine"
+"smetterla, finirla, darci un taglio, chiudere, mettere la parola fine"
+#*''
+*''(specialmente porte, finestre)'' [[serrare]], [[congiungere]], [[accostare]], [[stringere]], [[sprangare]]
+*''(una tubatura)'' [[intasare]], [[otturare]], [[piombare]], [[stagnare]], [[legare]], [[sigillare]], [[tappare]], [[turare]], [[zaffare]]
+*''(una strada)'' [[bloccare]], [[ostruire]], [[sbarrare]], [[murare]]
+*''(di monti, siepi)'' [[delimitare]], [[circoscrivere]], [[cingere]], [[recingere]], [[recintare]], [[circondare]], [[accerchiare]], [[asserragliare]]
+*''(un apparecchio)'' [[spegnere]]
+*(un lavoro, un progetto) [[finire]], [[terminare]], [[concludere]], [[ultimare]], [[interrompere]], [[sospendere]], [[cessare]], [[troncare]], [[fermare]], [[frenare]], [[arginare]]
+* ''(un conto)'' [[regolare]], [[saldare]]
+*''(un mutuo)'' [[estinguere]]
+*''(denaro, oggetti preziosi) [[riporre]], mettere al sicuro, [[custodire]], [[rinchiudere]]
+*''(una fila, un elenco)'' essere l’ultimo, essere in coda
+*''(di esercizi commerciali, ditte)'' cessare l’attività
+*''(di ferita)'' [[rimarginarsi]], [[cicatrizzarsi]]
+*''(un passaggio, un accesso ecc.)''[[impedire]], [[ostruire]],[[ sbarrare]], [[intasare]], [[otturare]]
+*''(un'area, una zona e sim.)''[[recintare]],[[recingere]], [[delimitare]], [[circoscrivere]], [[circondare]] 
+*''(le mani, le ali e sim.)''  [[ripiegare]], [[serrare]] 
+*''(un discorso, un'attività ecc.)'' [[finire]], 
+*''(la luce, il gas)'' [[spegnere]]  
+*''(un conto)'' [[estinguere]]  
+*''(specialmente porte, finestre)'' [[aprire]], [[schiudere]], [[spalancare]], [[allargare]]
+*''(un apparecchio)'' [[aprire]], [[accendere]]
+*''(un mutuo) [[accendere]]
+*''(una fila, un elenco)'' aprire la fila
+* [[iniziare]], [[avviare]], [[liberare]],  [[dispiegare]]  
+*[[chiudersi]], [[dischiudere]], [[chiudimento]], [[socchiudere]]
+*''chiudere la porta in faccia''
+M>claud</E
+M>includ</E
+M>chiusi</E
+M>chiudésti</E
+M>chiuso</E
+M>aprire</E
+M>serrare</E
+M>serrare</E
+M>l’uscio</E
+M>la finestra</E
+M>il cancello</E
+M>la saracinesca</E
+M>l’armadio</E
+M>la porta di casa</E
+M>di una stanza</E
+M>chiudi</E
+M>che c’è corrente</E
+M>la casa</E
+M>la stanza</E
+M>la porta in faccia a qualcuno</E
+M>a chiave</E
+M>a lucchetto</E
+M>col catenaccio</E
+M>a doppia mandata</E
+M>la porta si chiude da sé</E
+M>un cancello chiude l’entrata del giardino</E
+M>ho perduto la chiave che chiude il portone</E
+M>avere</E
+M>questa finestra</E
+M>questa porta non chiude</E
+M>bene</E
+M>male</E
+M>l’entrata dell’orto con una siepe</E
+M>il campo con un muricciolo</E
+M>il giardino con uno steccato</E
+M>la borsetta</E
+M>il portafogli</E
+M>il libro</E
+M>le forbici</E
+M>il temperino</E
+M>un ventaglio</E
+M>l’ombrello</E
+M>la sensitiva</E
+M>appena toccata</E
+M>si chiude</E
+M>un cerchio</E
+M>un circuito elettrico</E
+M>chiudendo</E
+M>la bocca</E
+M>chiudi la bocca e non dire corbellerie</E
+M>la bocca a qualcuno</E
+M>gli occhi</E
+M>mi si chiudevano gli occhi dalla stanchezza</E
+M>dal sonno</E
+M>non ho chiuso occhio tutta la notte</E
+M>gli occhi all’evidenza</E
+M>alla verità</E
+M>un occhio</E
+M>il capoufficio chiude volentieri un occhio sulle mancanze dei suoi protetti</E
+M>sono ragazzi</E
+M>e bisogna ch</E
+M>un occhio sulle loro piccole trasgressioni</E
+M>gli occhi</E
+M>gli occhi per sempre</E
+M>gli occhi a qualcuno</E
+M>la mano</E
+M>le braccia</E
+M>le ali</E
+M>un ferro in una morsa</E
+M>l’esercito si trovò chiuso fra le due ali nemiche</E
+M>la chiuse fra le sue braccia</E
+M>un baule</E
+M>una cassa</E
+M>un sacco</E
+M>una lettera</E
+M>una busta</E
+M>un pacco</E
+M>un cassetto</E
+M>il gas</E
+M>la luce</E
+M>il passo</E
+M>la via a qualcuno</E
+M>mettendole un fazzoletto alla bocca</E
+M>le chiuse il grido in gola</E
+M>a Pola</E
+M>presso del Carnaro Ch’Italia chiude e suoi termini bagna</E
+M>un conto</E
+M>il conto</E
+M>i conti</E
+M> con qualcuno</E
+M>l’animo alla pietà</E
+M>alla compassione</E
+M>a ogni affetto</E
+M>i denari nella cassaforte</E
+M>il topo è rimasto chiuso nella trappola</E
+M>Così potess’io ben chiudere in versi I miei pensier</E
+M>in carcere</E
+M>in convento</E
+M>il figlio in un collegio</E
+M>chiudere dentro</E
+M>in sé il rancore</E
+M>il proprio disappunto</E
+M>tener chiusi i proprî pensieri</E
+M>chiudersi in sé stesso</E
+M>nel proprio dolore</E
+M>chiudersi nel più assoluto riserbo</E
+M>chiuse il discorso</E
+M>l’articolo</E
+M>con queste parole</E
+M>ho chiuso la lettera augurandogli una pronta guarigione</E
+M>un’udienza</E
+M>una adunanza</E
+M>una discussione</E
+M>chiuderà lo spettacolo un’esibizione di acrobati</E
+M>la sfilata</E
+M>il corteo</E
+M>una processione</E
+M>un esercizio</E
+M>un negozio</E
+M>bottega</E
+M>una fabbrica</E
+M>i proprî giorni</E
+M>ch. il bilancio</E
+M>chiudere in attivo</E
+M> in passivo</E
+M>ch. un file</E
+M>passo e chiudo</E
+M>le scuole</E
+M>le iscrizioni</E
+M>l’esposizione si chiudono</E
+M>verranno chiuse</E
+M>la caccia si chiuderà la prossima settimana</E
+M>l’incidente si è chiuso onorevolmente</E
+M>con qualcuno</E
+M>con lui ormai ho chiuso</E
+M>con me</E
+M>caro mio</E
+M>hai chiuso!</E
+M>a destra</E
+M>a sinistra</E
+M>sulla destra</E
+M>sulla sinistra</E
+M>serrare sulla destra</E
+M>sulla sinistra</E
+M>a destra</E
+M>a sinistra</E
+M>aprire</E

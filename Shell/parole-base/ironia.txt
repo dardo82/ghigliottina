@@ -1,0 +1,41 @@
+ironia.txt
+"ironia"
+"ironia"
+"ironia"
+#*'' dire ad un nano
+#* '' sei un genio '' ( riferita ad uno  stupido)''
+*[[sarcasmo]], [[derisione]], [[scherno]], [[irrisione]], [[dileggio]]
+*[[umorismo]], [[satira]]
+*''(sarcasmo)'' [[serietà]], [[severità]], [[austerità]]
+*italiano
+M>iron</E
+M>socratica</E
+M>fare dell’i</E
+M>parlare con i</E
+M>cogliere l’i</E
+M>di una frase</E
+M>di un’allusione</E
+M>non s’accorse dell’i</E
+M>delle mie parole</E
+M>bonaria</E
+M>lieve</E
+M>fine</E
+M>sottile</E
+M>arguta</E
+M>faceta</E
+M>amara</E
+M>fredda</E
+M>beffarda</E
+M>pungente</E
+M>crudele</E
+M>Purgatorio</E
+M>del Parini</E
+M>Il giorno</E
+M>ariostesca</E
+M>Furioso</E
+M>tragica</E
+M>la sua promessa è un’i</E
+M>offrire pochi centesimi a chi ha fame è un’ironia</E
+M>della vita</E
+M>della sorte</E
+M>del destino</E

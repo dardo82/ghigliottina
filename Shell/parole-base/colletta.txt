@@ -1,0 +1,20 @@
+colletta.txt
+"colletta"
+"fare una colletta"
+M>collecta</E
+M>collectus</E
+M>collig</E
+M>fare una c</E
+M>aprire</E
+M>promuovere una c</E
+M>una c</E
+M>per aiutare una famiglia povera</E
+M>i colpiti dal terremoto</E
+M>i disoccupati</E
+M>per un regalo agli sposi</E
+M>popoli collettori</E
+M>ordinaria</E
+M>di mare</E
+M>di terra</E
+M>caricare a colletta</E
+M>noleggio a colletta</E

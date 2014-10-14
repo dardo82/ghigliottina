@@ -1,0 +1,26 @@
+sbarramento.txt
+"sbarramento"
+"sbarramento delle acque"
+*[[impedimento]]
+M>la polizia ha disposto lo s. di tutte le vie di entrata.</E
+M>uno s. di travi</E
+M>all&#8217;ingresso del viale c&#8217;era un forte s. di truppe</E
+M>le Alpi costituiscono uno s. naturale tra l&#8217;Italia e il resto dell&#8217;Europa.</E
+M>s. terrestre</E
+M>s. navale</E
+M>s. retali</E
+M>s. aereo</E
+M>aerostatico</E
+M>tiro di s.</E
+M>s. luminoso</E
+M>s. radar</E
+M>s. elettronico</E
+M>opera di s.</E
+M>diga di s.</E
+M>diga di ritenuta</E
+M>opere di s.</E
+M>laghi di s.</E
+M>strato di s.</E
+M>raddrizzatori a strato di s.</E
+M>s. degli arti</E
+M>manifestò il suo stupore con lo s. degli occhi.</E

@@ -1,0 +1,21 @@
+tornio.txt
+"tornio"
+"tornio (del vasaio)"
+#*''quell'operaio sta lavorando al tornio''
+M>rnus</E
+M>torno</E
+M>tornio</E
+M>torni</E
+M>tornî</E
+M>tornii</E
+M>moto di lavoro</E
+M>di taglio</E
+M>moto di alimentazione</E
+M>T. parallelo</E
+M>T. frontale</E
+M>T. verticale</E
+M>T. a revolver</E
+M>t. a torretta</E
+M>t. spogliatore</E
+M>ruota</E
+M>da vasaio</E

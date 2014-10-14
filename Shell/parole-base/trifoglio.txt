@@ -1,0 +1,45 @@
+trifoglio.txt
+"foglia di trifoglio"
+"trifoglio"
+"trifoglio irlandese"
+"trifoglio rosso"
+* ''(pianta a 3 foglie)'' [[trifogliato]], [[trifogliaio]], [[trifoglione]]
+*Devoto/Oli, '' il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 2197
+M>trif</E
+M>lium</E
+M>tri-</E
+M>folium</E
+M>Trifolium</E
+M>t. pratense</E
+M>Trifolium pratense</E
+M>t. violetto</E
+M>bolognino</E
+M>pesarese</E
+M>trifoglione</E
+M>t. ladino</E
+M>t. bianco</E
+M>T. repens</E
+M>t. ibrido</E
+M>svedese</E
+M>T. hybridum</E
+M>t. incarnato</E
+M>t. rosso</E
+M>T. incarnatum</E
+M>t. alessandrino</E
+M>egiziano</E
+M>T. alexandrinum</E
+M>quadrifoglio</E
+M>Alcyone</E
+M>ei coglie Ora il trifoglio aruspice virente Di quattro foglie</E
+M>Trifolium</E
+M>t. acetoso</E
+M>t. epatico</E
+M>trinità</E
+M>t. fibrino</E
+M>t. d&#8217;acqua</E
+M>trifoglione d&#8217;acqua</E
+M>Menyanthes trifoliata</E
+M>t. giallo delle sabbie</E
+M>vulneraria</E
+M>Anthyllis vulneraria</E
+M>quartica</E

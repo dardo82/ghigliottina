@@ -1,0 +1,37 @@
+studente.txt
+"casa dello studente"
+"interrogare uno studente"
+"lavoratore\/studente a tempo pieno"
+"studente"
+"studente d'arte"
+"studente del college"
+"studente del secondo anno"
+"studente delle scuole superiori"
+"studente di college"
+"studente di medicina"
+"studente di medicina"
+"studente di primo anno"
+"studente di scuola superiore"
+"studente di tesi"
+"studente dopo la laurea"
+"studente fuoricorso"
+"studente in formazione"
+"studente in tirocinio"
+"studente lavoratore"
+"studente straniero"
+"studente straniero"
+"studente universitario"
+"studente universitario del primo anno"
+*[[alunno]], [[allievo]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'' , edizione cartacea 2000-2001, Le Monnier, p. 2069 
+M>éssa</E
+M>studens -entis</E
+M>studere</E
+M>una studentessa di scuola media</E
+M>uno s. di liceo</E
+M>dell&#8217;università</E
+M>gli s. di lettere</E
+M>della facoltà di scienze</E
+M>le manifestazioni degli studenti</E
+M>ci conosciamo da quando eravamo studenti</E
+M>ha sposato una sua studentessa</E

@@ -1,0 +1,14 @@
+soltanto.txt
+"non soltanto"
+"soltanto"
+"soltanto ieri"
+"soltanto se"
+#*''ottimo discorso '''soltanto''' che la questione discussa era un'altra''
+#*''andrò a prendere la mia cartella '''soltanto''' che questo non ti disturbi''
+*''(congiunzione)'' [[ma]], [[però]], [[tuttavia]], [[peraltro]], [[purché]]
+*''(avverbio)'' [[solamente]], [[solo]], [[unicamente]], [[semplicemente]], [[esclusivamente]]
+*[[anche]], [[pure]], [[perfino]], [[inoltre]]
+M>solo</E
+M>tanto</E
+M>t&#8217;ha detto s. questo?</E
+M>&#171;Mi ha proposto come compenso per il lavoro cinquanta euro&#187; &#171;Soltanto?&#187;</E

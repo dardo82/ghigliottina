@@ -1,0 +1,24 @@
+giacimento.txt
+"cappa di gas (in giacimento petrolifero)"
+"giacimento"
+"giacimento aurifero"
+"giacimento petrolifero"
+"giacimento petrolifero"
+"relativo a giacimento aurifero"
+M>minerario</E
+M>metallifero</E
+M>non metallifero</E
+M>singenetici</E
+M>epigenetici</E
+M>primarî</E
+M>secondarî</E
+M>ignei</E
+M>magmatici</E
+M>plutonici</E
+M>intrusivi</E
+M>vulcanici</E
+M>estrusivi</E
+M>esogeni</E
+M>metamorfici</E
+M>g. culturali</E
+M>g. ambientali</E

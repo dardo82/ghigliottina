@@ -1,0 +1,49 @@
+simpatia.txt
+"avere una simpatia per"
+"conquistare la benevolenza, conquistare la simpatia"
+"per simpatia"
+"simpatia"
+"simpatia"
+"simpatia"
+"simpatia passeggera"
+"simpatia reciproca"
+#*''giudicare qualcuno per '''simpatia'''''
+#*''badare alle '''simpatie'''''
+#*'''simpatia''' del mare con la luna''
+*[[accordo]], [[amicizia]], [[affetto]], [[attrazione]], [[feeling]], [[interesse]], [[propensione]], [[predisposizione]], [[inclinazione]], [[empatia]], [[congenialità]]
+*[[antipatia]],[[inimiciazia]],[[odio]], [[avversione]], [[ostilità]],  [[repulsione]], [[ostilità]], [[idiosincrasia]]
+M>sympathia</E
+M>antipatia</E
+M>avere</E
+M>provare</E
+M>sentire</E
+M>dimostrare s. verso</E
+M>per</E
+M>qualcuno</E
+M>piccoli atti che non mi significavano una grande s.</E
+M>E in fondo provo quasi s. Quando il nemico Mostra di riconoscermi</E
+M>ispirare s.</E
+M>non ho s. per le persone troppo loquaci</E
+M>è uno che non nasconde le sue s. per i partiti di destra</E
+M>andare a simpatia</E
+M>a simpatie</E
+M>tra loro si è stabilita subito una corrente di s.</E
+M>tra le due cognate non c&#8217;è molta s.</E
+M>si è saputo attirare la s. dei professori</E
+M>godere della s.</E
+M>delle s.</E
+M>di qualcuno</E
+M>tra quei due c&#8217;è una forte s.</E
+M>per ora</E
+M> tra me e lei</E
+M> non c&#8217;è che s.</E
+M>si tratta di una semplice s.</E
+M> non di amore</E
+M>quel ragazzo è di una s. unica</E
+M>antipatia</E
+M>poter parlare</E
+M> per via di certa s. di aghi calamitati</E
+M> a uno che fusse stato lontano</E
+M>scoppio per simpatia</E
+M>corde di simpatia</E
+M>simpatiche</E

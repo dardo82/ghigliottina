@@ -1,0 +1,5 @@
+difatti.txt
+"difatti"
+M>fatti</E
+M>fatto</E
+M>infatti</E

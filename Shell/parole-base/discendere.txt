@@ -1,0 +1,54 @@
+discendere.txt
+"discendere"
+"discendere"
+"discendere"
+"discendere da"
+"discendere da"
+"discendere di colpo"
+"discendere su"
+"discendere su"
+*[[scendere]]
+*[[calare]], [[digradare]]
+*(da un veicolo) [[uscire]], [[smontare]], [[sbarcare]], [[atterrare]]
+*[[abbassarsi]], [[precipitare]]
+*(di un pendio) [[declinare]],[[abbassarsi]] 
+*(da una famiglia, da una causa eccetera) [[provenire]], [[derivare]]
+*(di conseguenza, risultato eccetera) [[conseguire]], [[risultare]]
+*[[salire]]
+*(da un veicolo) [[entrare]]
+* [[alzarsi]]
+*(di un pendio) [[elevarsi]], [[innalzarsi]]
+* [[terminare]]
+*[[montare]]
+*[[discendente]], [[discendenza]], [[discesa]], [[scendere]]
+M>descend</E
+M>scand</E
+M>scendere</E
+M>essere</E
+M>scendere</E
+M>dai monti</E
+M>dall’albero</E
+M>da cavallo</E
+M>dal treno</E
+M>nel pozzo</E
+M>nella miniera</E
+M>a valle</E
+M>nella fossa</E
+M>nel sepolcro</E
+M>il poggio discende gradatamente verso il piano</E
+M>il barometro continua a discendere</E
+M>scendere</E
+M>Cristo discese all’inferno</E
+M>Enea discese nell’oltretomba</E
+M>agl’inferi</E
+M>discendeva da nobile famiglia</E
+M>si vantava di d</E
+M>da stirpe principesca</E
+M>ne discende che</E
+M>l’effetto</E
+M>la conseguenza che ne discende</E
+M>scendere</E
+M>le scale</E
+M>il colle</E
+M>e la danzante Discende un clivo onde nessun risale</E
+M>Già discendendo l’arco d’i miei anni</E

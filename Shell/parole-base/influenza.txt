@@ -1,0 +1,101 @@
+influenza.txt
+"avere influenza su qcn."
+"avere influenza su qcn."
+"avere influenza, avere autorità, avere autorevolezza"
+"avere un'influenza su qcs, avere un influsso su qcs"
+"brutta influenza"
+"con influenza"
+"esercitare influenza"
+"influenza"
+"influenza"
+"influenza"
+"influenza, flu"
+"influenza eccessiva"
+"influenza politica"
+"influsso positivo; influenza positiva"
+"sfera d'influenza"
+"sfera d'influenza"
+"simile ad influenza"
+"sotto l'influenza di"
+"subire l'influenza di"
+"usare la propria influenza per ottenere qcs"
+*[[influsso]], [[effetto]], [[ascendente]]
+*[[influenzare]]
+M>influentia</E
+M>influ</E
+M>veggono certo giallore venir giù per le calze</E
+M>e dicono: Questo che è? noi vogliamo veder le brache</E
+M> donde pare che venga questa influenza</E
+M>S’elli intende tornare a queste ruote L’onor de la influenza e ’l biasmo</E
+M>e lor signori mi vorranno negar l’influenze? Mi negheranno che ci sian degli astri?</E
+M>l’i</E
+M>del clima sulla flora e sulla fauna</E
+M>grande fu l’i</E
+M>della cultura greca su quella romana</E
+M>l’i</E
+M>dell’esempio</E
+M>quei compagni hanno avuto su di lui una cattiva i</E
+M>esercitare una trista</E
+M>dannosa</E
+M>pessima</E
+M>deleteria i</E
+M>su qualcuno</E
+M>è persona che ha grande i</E
+M>nelle decisioni del consiglio</E
+M>se hai qualche i</E
+M>su di lui vedi di persuaderlo in questo senso</E
+M>centri d’i</E
+M>zona</E
+M>sfera</E
+M>d’i</E
+M>paesi che si trovano nella zona d’i</E
+M>degli Stati Uniti</E
+M>del Giappone</E
+M>di solubilità</E
+M>elettrica</E
+M>magnetica</E
+M>induzione elettrica</E
+M>magnetica</E
+M>linee d’i</E
+M>l’i</E
+M>del catarro</E
+M> che qui è corsa universalmente</E
+M>virus influenzali</E
+M>avere</E
+M>prendere l’i</E
+M>essere costretto a letto dall’i</E
+M>da un attacco d’influenza</E
+M>degli equini</E
+M>i. aviaria</E
+M>i. dei polli</E
+"name": "Influenza"
+"name": "Influenza spagnola"
+"name": "Influenza aviaria"
+"name": "Influenza asiatica"
+"name": "Influenza di Hong Kong"
+"name": "Sfera di influenza"
+"name": "Influenza di Kierkegaard su Nietzsche"
+"name": "Influenza e fortuna del pensiero di Nietzsche"
+"name": "Influenza suina"
+"name": "Influenza minoritaria"
+"name": "Influenza sociale"
+"name": "Nucleo di influenza"
+"name": "Tosse, raffreddore, influenza"
+"name": "Influenza"
+"name": "Influenza Tiger"
+"name": "Influenza"
+"name": "Influenza"
+"name": "Influenza"
+"name": "Influenza"
+"name": "Influenza"
+"name": "Influenza Minus"
+"name": "Influenza di Shakespeare"
+"name": "Influenza europea in Afghanistan"
+"name": "Influenza del vento nell'atletica leggera"
+"name": "Cattiva influenza"
+"name": "Cattiva influenza"
+"name": "Influenza Italiana"
+"name": "Influenza"
+"name": "Oldschool Influenza EP"
+"name": "Virus dell'influenza B"
+"name": "Influenza di Hong Kong"

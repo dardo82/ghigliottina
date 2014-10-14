@@ -1,0 +1,49 @@
+definire.txt
+"definire"
+"definire"
+"definire"
+"definire a grandi linee"
+"definire chiaramente"
+"definire con esattezza"
+"definire con precisione"
+"definire gli standard per"
+"definire i parametri di"
+"definire il prezzo"
+"definire il prezzo"
+"definire il volume"
+"definire la quantità"
+"definire uno schema"
+"discutere, definire nei dettagli"
+#*dobbiamo 
+#*dobbiamo 
+*[[spiegare]], [[descrivere]], [[chiarire]], [[specificare]]
+*''(i limiti o l'ambito di qualcosa)'' [[fissare]], [[stabilire]], [[specificare]], [[indicare]], [[precisare]], [[circoscrivere]] 
+*'' (una lite, una questione ecc.)''[[decidere]]
+*[[predefinire]],[[definibile]], [[definizione]], [[ridefinire]], [[rifinire]]
+*[[finire]]
+M>definire</E
+M>finis</E
+M>io definisco</E
+M>tu definisci</E
+M>i poteri</E
+M>l’autorità</E
+M>la giurisdizione</E
+M>i rapporti fra due persone</E
+M>esattamente i termini di una questione</E
+M>la virtù</E
+M>la giustizia</E
+M>definisci che cos’è un triangolo</E
+M>non saprei d</E
+M>il suo carattere</E
+M>sono sentimenti così vaghi che non si possono d</E
+M>una persona</E
+M>la velocità si definisce come il rapporto tra lo spazio percorso e il tempo impiegato a percorrerlo</E
+M>i numeri razionali si definiscono come rapporti tra numeri interi</E
+M>lo stato termodinamico di un fluido è definito dalla pressione</E
+M>dalla temperatura e dal volume del fluido</E
+M>il valore della funzione è definito quando siano definiti i valori delle variabili indipendenti</E
+M>per d</E
+M>una circonferenza nel piano cartesiano sono sufficienti il suo centro e il suo raggio</E
+M>una lite</E
+M>una questione</E
+M>una vertenza</E

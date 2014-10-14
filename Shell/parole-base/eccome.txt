@@ -1,0 +1,7 @@
+eccome.txt
+"c'entra eccome!"
+"eccome"
+M>e come</E
+M>Se ci sente? Eccome ci sente!</E
+M>Ti sei stancato?</E
+M>Eccome!</E

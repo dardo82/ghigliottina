@@ -1,0 +1,296 @@
+lettera.txt
+"alla lettera"
+"arrotamento della lettera \"
+"busta da lettera"
+"carta da lettera"
+"chiudere una lettera con la firma"
+"la lettera"
+"lettera"
+"lettera"
+"lettera"
+"lettera"
+"lettera"
+"testo, parole: senso letterale"
+"lettera, lettere"
+"facoltà, studi di letteratura"
+"lettera anonima"
+"lettera aperta"
+"lettera aperta"
+"lettera bancaria"
+"lettera circolare"
+"lettera commerciale"
+"lettera d'amore"
+"lettera del titolo"
+"lettera di accompagnamento"
+"lettera di accompagnamento"
+"lettera di ammiratori"
+"lettera di condoglianze"
+"lettera di contestazione"
+"lettera di credito"
+"lettera di diffida"
+"lettera di dimissioni"
+"lettera di elogio"
+"lettera di garanzia bancaria"
+"lettera di gradimento"
+"lettera di incarico"
+"lettera di messa in mora"
+"lettera di presentazione"
+"lettera di referenze"
+"lettera di richiesta"
+"lettera di ringraziamenti"
+"lettera di vettura"
+"lettera enciclica"
+"lettera liberatoria"
+"lettera maiuscola"
+"lettera maiuscola"
+"lettera minuscola"
+"lettera morta"
+"lettera non recapitata, giacente"
+"lettera pastorale"
+"lettera personale"
+"lettera prestampata"
+"lettera raccomandata"
+"lettera raccomandata a\/r"
+"lettera rossa"
+"lettera scarlatta"
+"lettera sul mercato"
+"mandare una lettera a"
+"mandare una lettera infuocata"
+"nome della lettera"
+"prendere le cose alla lettera"
+"relativo alla lettera maiuscola"
+"riscontro (di lettera)"
+"scrivere una lettera"
+#*'''''lettera''' minatoria''
+*[[letterato]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1148
+M>epist</E
+M>litt</E
+M>rae</E
+M>maiuscole</E
+M>minuscole</E
+M>iniziale di una parola</E
+M>scrivere</E
+M>leggere</E
+M>incidere</E
+M>cancellare una l</E
+M>imparare</E
+M>conoscere le l</E
+M>dell’alfabeto</E
+M>parola formata di otto l</E
+M>scrivere un numero in tutte l</E
+M>latine</E
+M>greche</E
+M>ebraiche</E
+M>dell’alfabeto latino</E
+M>caratteri latini</E
+M>greci</E
+M>lettere di scatola</E
+M>scrivere a lettere di scatola</E
+M>a lettere da speziali</E
+M>a lettere d’appigionasi</E
+M>a l</E
+M>cubitali</E
+M>a tanto di lettere</E
+M>dire una cosa a lettere di scatola</E
+M>massima</E
+M>fatto da scriversi a lettere d’oro</E
+M>cosa da scrivere a lettere di sangue</E
+M>romaniche</E
+M>romaniane</E
+M>nundinale</E
+M>domenicale</E
+M>feriale</E
+M>lunare</E
+M>fonema</E
+M>le l</E
+M>si dividono in vocali e consonanti</E
+M>labiale</E
+M>dentale</E
+M>aspirata</E
+M>avanti lettera</E
+M>ante litt</E
+M>ram</E
+M>avant</E
+M>lettre</E
+M>il Vico fu un anti</E
+M>illuminista avanti lettera</E
+M>lettere efesie</E
+M>lezione</E
+M>ciascuna di queste due l</E
+M>si può sostenere</E
+M>littera</E
+M>littera pisana</E
+M>fiorentina</E
+M>quella beata terra</E
+M>di cui si parla</E
+M>altra qui non è</E
+M>secondo la vera l</E
+M>che Maria</E
+M>spirito</E
+M>stare attaccato alla l</E
+M>di una disposizione</E
+M>interpretare secondo lo spirito e non secondo la l</E
+M>la l</E
+M>uccide e lo spirito vivifica</E
+M>alla l</E
+M>ad litt</E
+M>ram</E
+M>prendere</E
+M>intendere</E
+M>tradurre alla l</E
+M>un codice fisso di leggi</E
+M>che si debbono osservare alla l</E
+M>interpretare</E
+M>applicare</E
+M>eseguire un ordine alla l</E
+M>ho fatto alla l</E
+M>come m’hai detto</E
+M>riprodurre</E
+M>riferire un discorso alla l</E
+M>letterale</E
+M>la l</E
+M>nasconde un profondo significato allegorico</E
+M>sono rimasto senza un soldo</E
+M>alla lettera</E
+M>rimanere l</E
+M>morta</E
+M>l’ordine è rimasto l</E
+M>morta</E
+M>le mie parole sono rimaste l</E
+M>morta per lui</E
+M>familiare</E
+M>riservata</E
+M>personale</E
+M>le sue sono l. scarne</E
+M> piatte</E
+M> con poche notizie essenziali enumerate in ordine noioso</E
+M> come temesse di impigliare nella carta quel po’ di vita che le è rimasta</E
+M>d’ufficio</E
+M>autografa</E
+M>dattiloscritta</E
+M>circolare</E
+M>una circolare</E
+M>d’amore</E
+M>d’affari</E
+M>di ringraziamento</E
+M>di augurio</E
+M>di condoglianze</E
+M>di presentazione</E
+M>di raccomandazione</E
+M>minatoria</E
+M>cartello</E
+M>di sfida</E
+M>anonima</E
+M>cieca</E
+M>copia d’una l</E
+M>cieca che mi è venuta da Roma</E
+M>lettere a catena</E
+M>aperta</E
+M>lettere al direttore</E
+M>dedicatoria</E
+M>d’intenti</E
+M>scrivere</E
+M>dettare</E
+M>firmare</E
+M>datare</E
+M>sigillare</E
+M>affrancare</E
+M>spedire</E
+M>imbucare</E
+M>recapitare</E
+M>ricevere</E
+M>aprire</E
+M>chiudere una l</E
+M>avvisare</E
+M>far sapere per l</E
+M>rispondere a una l</E
+M>carta da lettere</E
+M>buca delle</E
+M>per le</E
+M>raccomandata</E
+M>assicurata</E
+M>per espresso</E
+M>una raccomandata</E
+M>un’assicurata</E
+M>un espresso</E
+M>telegramma l</E
+M>intestazione</E
+M>data</E
+M>corpo</E
+M>firma</E
+M>indirizzo della l</E
+M>rispondo alla tua carissima</E
+M>ebbi la vostra del 15 corrente</E
+M>il latore della presente</E
+M>lettere</E
+M>epistolario</E
+M>le l</E
+M>di Cicerone</E
+M>le l</E
+M>di san Paolo</E
+M>le l</E
+M>del Leopardi</E
+M>pontificie</E
+M>apostoliche</E
+M>encicliche</E
+M>di Maestà</E
+M>di marca</E
+M>pastorali</E
+M>aspettative</E
+M>testimoniali</E
+M>rogatorie</E
+M>sinodiche</E
+M>diplomatiche</E
+M>credenziali</E
+M>di richiamo</E
+M>di riaccreditamento</E
+M>di cancelleria</E
+M>di gabinetto</E
+M>di accreditamento in conto corrente</E
+M>di addebitamento in conto corrente</E
+M>di affidamento</E
+M>credenziale</E
+M>di credito</E
+M>di ipoteca</E
+M>di pegno</E
+M>di vettura</E
+M>di cambio</E
+M>cambiale</E
+M>littera cambii</E
+M>di cambio</E
+M>di pagamento</E
+M>littera pagamenti</E
+M>lettere</E
+M>classiche</E
+M>moderne</E
+M>italiane</E
+M>latine</E
+M>greche</E
+M>coltivare le l</E
+M>uomo di lettere</E
+M>facoltà di lettere</E
+M>studente</E
+M>professore di lettere</E
+M>laurea in lettere</E
+M>dottore in lettere</E
+M>belle l</E
+M>umane l</E
+M>buone lettere</E
+M>la repubblica delle l</E
+M>Lettere</E
+M>persona garbata e di molte l</E
+M>uomo senza lettere</E
+M>allora la volpe se n’andò</E
+M>e disse: Ogni uomo che sa lettera</E
+M>non è savio</E
+M>Novellino</E
+M>persona non di molta l</E
+M>ma di buona speranza</E
+M>parlare</E
+M>scrivere per lettera</E
+M>prezzo-lettera</E
+M>cambio-lettera</E
+M>in lettera</E
+M>Tasso l.</E
+M>letteróne</E

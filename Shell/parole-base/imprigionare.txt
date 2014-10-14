@@ -1,0 +1,16 @@
+imprigionare.txt
+"imprigionare"
+"imprigionare"
+*[[incarcerare]], [[imobilizzare]], [[carcerare]], [[arrestare]], [[mettere agli arresti]], [[mettere in prigione]],[[mettere dentro]], [[mettere al fresco]], [[sbattere in galera]], [[sbattere dentro]]
+*[[scarcerare]], [[rilasciare]], [[liberare]] 
+*[[imprigionamento]], [[imprigionato]], [[prigione]]
+*[[intrappolare]]
+M>io imprigióno</E
+M>il ladro fu preso e imprigionato</E
+M>l’influenza mi ha imprigionato in casa per più di una settimana</E
+M>le acque di un fiume</E
+M>la tengono imprigionata in casa</E
+M>restare imprigionato dalla</E
+M>nella</E
+M>neve</E
+M>un braccio gli rimase imprigionato sotto la ruota</E

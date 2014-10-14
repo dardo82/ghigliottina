@@ -1,0 +1,40 @@
+incoraggiare.txt
+"incoraggiare"
+"incoraggiare"
+"incoraggiare"
+"incoraggiare insistentemente"
+"incoraggiare qc, stimolare qc\/qcs"
+"incoraggiare, supportare"
+*[[rincuorare]], [[consolare]], [[confortare]], [[sollevare]], [[animare]]
+*[[favorire]], [[promuovere]], [[sostenere]], [[incentivare]], [[appoggiare]], [[aiutare]], [[assecondare]], [[caldeggiare]]
+*[[spingere]], [[incitare]], [[stimolare]], [[spronare]], [[pungolare]]
+*''(rincuorare)'' [[scoraggiare]], [[deprimere]], [[demoralizzare]]
+*''(favorire)'' [[ostacolare]], [[intralciare]], [[contrastare]], [[osteggiare]], [[avversare]]
+*''(spingere)'' [[frenare]], [[trattenere]], [[dissuadere]]
+*[[incoraggiarsi]]
+M>io incoràggio</E
+M>io incoraggisco</E
+M>tu incoraggisci</E
+M>a studiare</E
+M>agli studî</E
+M>alla lotta</E
+M>alla resistenza</E
+M>i soldati all’assalto</E
+M>a dire</E
+M>a fare</E
+M>a tentare un’impresa</E
+M>lo incoraggiò a stampare i suoi versi</E
+M>è timido e va incoraggiato</E
+M>è un ragazzo volenteroso che non ha certo bisogno di essere incoraggiato</E
+M>la delinquenza</E
+M>l’immoralità</E
+M>l’assenteismo</E
+M>vedendomi ben disposto</E
+M>s’incoraggiò a parlare</E
+M>parole incoraggianti</E
+M>gli fece un’accoglienza incoraggiante</E
+M>il suo aspetto era</E
+M>non era certo</E
+M>incoraggiante</E
+M>la situazione è poco incoraggiante</E
+M>è incoraggiante!</E

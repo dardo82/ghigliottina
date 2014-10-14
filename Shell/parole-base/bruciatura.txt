@@ -1,0 +1,11 @@
+bruciatura.txt
+"bruciatura"
+"bruciatura solare"
+M>medicarsi una bruciatura</E
+M>dell’acciaio</E
+M>brusone</E
+M>del tabacco</E
+M>Pseudomonas tabaci</E
+M>sento ancora la b</E
+M>di quella sconfitta</E
+M>buco</E

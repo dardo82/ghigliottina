@@ -1,0 +1,39 @@
+mancia.txt
+"cospicua mancia"
+"dare una mancia"
+"lasciare una mancia"
+"mancia"
+#*''in quel locale è vietato dare la mancia''
+*[[legge mancia]]
+*italiano
+M>manche</E
+M>grossa</E
+M>generosa</E
+M>lauta</E
+M>una m</E
+M>avara</E
+M>meschina</E
+M>promettere una buona m</E
+M>una ricca m</E
+M>dare</E
+M>ricevere</E
+M>accettare</E
+M>rifiutare la m</E
+M>la m</E
+M>di Natale</E
+M>di Pasqua</E
+M>di Ferragosto</E
+M>competente</E
+M>gratifica</E
+M>se agisce così</E
+M>significa che ha avuto la sua buona mancia</E
+M>Altri villan poi facendovi mance Di cipolle porrate e di marroni</E
+M>Come Ieptè a la sua prima m</E
+M>mala m</E
+M>trista m</E
+M>dolorosa m</E
+M>Inf</E
+M>Così od’io che solea far la lancia D’Achille e del suo padre esser cagione Prima di trista e poi di buona mancia</E
+M>con una buona mancetta</E
+M> si ottiene ciò che si vuole</E
+M>paghetta</E

@@ -1,0 +1,135 @@
+corte.txt
+"a maniche corte"
+"adire alla corte"
+"antica corte di giustizia britannica"
+"buffone di corte"
+"camicia a maniche corte"
+"cancelleria dell'Alta Corte di Giustizia"
+"corte"
+"corte"
+"corte"
+"corte"
+"retinue, cortege"
+"corte d'appello"
+"corte d'appello"
+"corte d'appello"
+"corte d'appello"
+"corte d'appello circoscrizionale"
+"corte d'assise"
+"corte di arbitraggio"
+"corte di giustizia"
+"corte di giustizia"
+"corte di giustizia"
+"Corte Internazionale di Giustizia"
+"corte marziale"
+"corte: militare"
+"corte marziali"
+"corte ottomana"
+"corte penale"
+"corte reale"
+"Corte Suprema"
+"corte suprema"
+"Corte Suprema"
+"corte suprema"
+"dalle braccia corte"
+"dalle game corte"
+"dalle orecchie corte"
+"davanti alla corte"
+"decisione della corte"
+"di corte marziale"
+"fare la corte"
+"fare la corte"
+"fare la corte"
+"fare una corte serrata a qualcuno"
+"giullare di corte"
+"gufo dalle orecchie corte"
+"le bugie hanno le gambe corte"
+"legge prescritta dalla Corte Suprema di uno stato"
+"presidente della corte suprema"
+"presso la corte"
+"radio ad onde corte"
+#* ''il [[teatro]] di '''corte'''; [[poeta]] di '''corte'''
+#* ''i [[ragazzi]] giocavano nel cortile''
+#* ''il [[re]] e la sua '''corte''' si sono trasferiti in [[campagna]]''
+#* ''le ha fatto una [[lunga]] corte''
+*[[spiazzo]], [[cortile]], [[aia]]
+*palazzo reale, [[reggia]]; [[cortigiani]]
+*[[collegio]], [[tribunale]]
+*[[corte marziale]]
+*''fare la '''corte'''''
+*[[corte#Italiano|corte]]
+*italiano
+*spagnolo
+M>rs c</E
+M>rtis</E
+M>cohors</E
+M>tis</E
+M>hortus</E
+M>cortile</E
+M>la finestra della cucina dà sulla corte</E
+M>bassa corte</E
+M>dei miracoli</E
+M>cour des miracles</E
+M>curtis</E
+M>sistema curtense</E
+M>pars dominica</E
+M>pars massaricia</E
+M>corte</E
+M>casa a corte</E
+M>teatro</E
+M>cappella di c</E
+M>usanze</E
+M>costumi</E
+M>cerimoniale</E
+M>abito di c</E
+M>intrighi di c</E
+M>ballo</E
+M>pranzo</E
+M>ricevimento</E
+M>lutto di c</E
+M>andare</E
+M>essere ammesso</E
+M>essere invitato a c</E
+M>gentiluomo</E
+M>dama di c</E
+M>poeta di c</E
+M>tener c</E
+M>s’ordinò una nobile c</E
+M>Novellino</E
+M>bandita</E
+M>pontificia</E
+M>celeste</E
+M>la beata c</E
+M>l’alta c</E
+M>santa</E
+M>la c</E
+M>Par</E
+M>spirital c</E
+M>il ministro e la sua c</E
+M>una c</E
+M>di tirapiedi</E
+M>fare la c</E
+M>a qualcuno</E
+M>: fare una c. assidua</E
+M> sfacciata</E
+M> spietata a una donna</E
+M> gli ha fatto la c. per tutta la serata</E
+M>e lui non se ne è accorto</E
+M>d’appello</E
+M>d’assise</E
+M>di cassazione</E
+M>dei conti</E
+M>costituzionale</E
+M>di disciplina</E
+M>marziale</E
+M>Alta c</E
+M>di giustizia</E
+M>di giustizia delle Comunità europee</E
+M>internazionale di giustizia</E
+M>permanente di giustizia internazionale</E
+M>permanente di arbitrato</E
+M>entra la C</E
+M>la C</E
+M>si ritira a deliberare</E
+M>la C</E
+M>Corti d’amore</E

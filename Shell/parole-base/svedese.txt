@@ -1,0 +1,21 @@
+svedese.txt
+"massaggio svedese"
+"quadro svedese"
+"svedese"
+"svedese"
+"cittadino, nativo svedese"
+"svedese"
+"lingua svedese"
+M>la nazione</E
+M>la popolazione s.</E
+M>lingua s.</E
+M>lo svedese</E
+M>la lingua s. colta</E
+M>letteraria</E
+M>nazionale</E
+M>stile s.</E
+M>fiammifero s.</E
+M>quadro s.</E
+M>spalliera s.</E
+M>una simpatica s.</E
+M>la laboriosità degli Svedesi</E

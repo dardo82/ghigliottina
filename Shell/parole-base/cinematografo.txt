@@ -1,0 +1,17 @@
+cinematografo.txt
+"Traduzione di cinematografo/ non trovata.\nNo translation was found for cinematografo/."
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier p. 420-421
+M>cinématographe</E
+M>gli albori del c</E
+M>l’avvento del cinematografo</E
+M>andare al c</E
+M>i c</E
+M>del centro</E
+M>un piccolo c</E
+M>di periferia</E
+M>cinema</E
+M>sala cinematografica</E
+M>sala di proiezione</E
+M>era un c</E
+M>vedere come i tre si azzuffavano</E
+M>ufficio che è un vero cinematografo</E

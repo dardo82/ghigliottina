@@ -1,0 +1,62 @@
+procedimento.txt
+"istituire un procedimento legale"
+"procedimento"
+"procedimento"
+"procedimento a colori per il trasferimento di coloranti"
+"procedimento decisionale"
+"procedimento esecutivo"
+M>il p</E
+M>delle indagini</E
+M>nelle indagini</E
+M>spiegare</E
+M>illustrare il p</E
+M>dei fatti</E
+M>dimostrativo</E
+M>esplicativo</E
+M>di calcolo</E
+M>seguire un p</E
+M>analitico</E
+M>induttivo</E
+M>deduttivo</E
+M>risolvere un quesito con p</E
+M>algebrico</E
+M>geometrico</E
+M>il p</E
+M>è giusto ma il risultato è sbagliato perché c&#8217;è stato un errore di calcolo</E
+M>euristico</E
+M>iterativo</E
+M>di decisione</E
+M>effettivo</E
+M>processo</E
+M>illustrare un procedimento</E
+M>illustrare un processo</E
+M>il compiersi di un processo</E
+M>di un procedimento</E
+M>di lavorazione</E
+M>di fabbricazione</E
+M>il p</E
+M>per fare la panna</E
+M>per tingere la stoffa</E
+M>per produrre il vinsanto</E
+M>non posso approvare il vostro p</E
+M>modo di procedere</E
+M>adottare</E
+M>seguire un p</E
+M>scorretto</E
+M>un p</E
+M>sleale</E
+M>legislativo</E
+M>giurisdizionale</E
+M>amministrativo</E
+M>processo</E
+M>penale</E
+M>promuovere il p</E
+M>contro qualcuno</E
+M>avviso di p</E
+M>informazione di garanzia</E
+M>sommario</E
+M>disciplinari</E
+M>d&#8217;accusa</E
+M>commissione per i p</E
+M>d&#8217;accusa</E
+M>processione</E

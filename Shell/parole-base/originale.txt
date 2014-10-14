@@ -1,0 +1,110 @@
+originale.txt
+"condizione originale"
+"confezione originale"
+"idea originale"
+"nastro originale"
+"originale"
+"originale"
+"originale"
+"originale"
+"peccato originale"
+"primo, originale"
+"tipo originale, tipo stravagante"
+"titolo originale"
+"versione originale"
+#* ''questo è il [[manoscritto]] 
+#* ''il panettone è un prodotto 
+#* ''è un'idea 
+#* ''questo è solo una [[copia]], l'
+*[[dattiloscritto]], [[autografo]]
+*''(di opera artistica)'' [[autentico]]
+* ''(di prodotto)'' [[genuino]], [[autentico]]
+*[[modello]], [[esempio]], [[prototipo]]
+*[[eccentrico]], [[svitato]]
+*''(nuovo)''  [[inusuale]], [[individuale]], [[creativo]]
+*[[falso]], [[apocrifo]]
+*''(di opera artistica)'' [[spurio]]
+*[[copia]], [[riproduzione]], [[imitazione]]
+* [[originalità]], [[originalmente]], [[origine]]
+* italiano
+* francese
+M>originalis</E
+M>origo</E
+M>nis</E
+M>i cittadini o</E
+M>di Firenze</E
+M>usanze o</E
+M>di un luogo</E
+M>principio o</E
+M>peccato o</E
+M>peccato attuale</E
+M>vizio</E
+M>difetto o</E
+M>posseggo il manoscritto o</E
+M>della lettera</E
+M>il testo a noi giunto è diverso da quello che doveva essere il testo o</E
+M>è un quadro o</E
+M>del Reni</E
+M>questa non è la statua o</E
+M> è una copia dell’epoca</E
+M>edizione o</E
+M>leggere un’opera</E
+M>un poeta nel testo o</E
+M>nella lingua o</E
+M>vedere un film nell’edizione o</E
+M>copia o</E
+M>atto o</E
+M>documento o</E
+M>l’o</E
+M>del diploma di laurea</E
+M>ho io l’o</E
+M>della lettera</E
+M>l’o</E
+M>è andato perduto</E
+M>confrontare la copia con l’o</E
+M>la statua del David che è nel Piazzale Michelangelo a Firenze è una copia</E
+M>l’o</E
+M>è nella Galleria dell’Accademia</E
+M>leggere Goethe nell’o</E
+M>la versione travisa il senso dell’originale</E
+M>la fotografia è bella</E
+M>ma preferisco l’o</E
+M>una scultura nelle proporzioni dell’o</E
+M>più piccola</E
+M>più grande dell’o</E
+M>collazionare le bozze con l’originale</E
+M>in o</E
+M>il documento dev’essere presentato in o</E
+M>è uno Stradivario o</E
+M>stoffa o</E
+M>inglese</E
+M>cristallo o</E
+M>di Boemia</E
+M>è una maiolica o</E
+M>di Faenza</E
+M>opera</E
+M>teoria</E
+M>concetto o</E
+M>il motivo della canzone è o</E
+M>il suo stile ha un’impronta originalissima</E
+M>ha proposto una sua interpretazione o</E
+M>di questi versi</E
+M>un’idea</E
+M>una trovata o</E
+M>si veste in modo molto o</E
+M>stoffa con disegni o</E
+M>è un modello o</E
+M>della nostra fabbrica</E
+M>uno scrittore</E
+M>un artista o</E
+M>radiofonico</E
+M>televisivo</E
+M>un uomo</E
+M>una donna o</E
+M>che tipo o</E
+M>ve l’ho dato per un brav’uomo</E
+M>ma non per un o</E
+M>come si direbbe ora</E
+M>comportarsi</E
+M>vestirsi originalmente</E
+M>una mansarda arredata piuttosto originalmente</E

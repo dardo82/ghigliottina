@@ -1,0 +1,31 @@
+tradizionale.txt
+"budino natalizio di prugne tradizionale in Inghilterra"
+"non tradizionale"
+"semplice ma buono; tradizionale"
+"tradizionale"
+"tradizionale"
+"tradizionale, radicato nel tempo"
+* (di una regione, di un periodo) [[tipico]]; [[popolare]], [[tramandato]]
+*[[vecchio]], fuori moda, [[sorpassato]]
+*(specialmente  in riferimento al campo artistico) [[formale]]
+*[[convenzionale]] (2)
+*[[nuovo]], [[moderno]], [[futuro]]
+*[[rivoluzionario]], [[innovatore]], [[progressista]]
+*[[tradizione]], [[tradizionalmente]]
+M>festa</E
+M> solennità</E
+M> cerimonia t.</E
+M>secondo gli usi t.</E
+M>pronunciare la formula t.</E
+M>i costumi t. della Sardegna</E
+M>accogliere</E
+M>seguire</E
+M>superare le idee</E
+M>le concezioni</E
+M>i pregiudizî t.</E
+M>una pittura</E
+M>un artista t.</E
+M>terremo il t. banchetto</E
+M>ora ci dovremo sorbire il t. discorso</E
+M>un artista che dipinge tradizionalmente</E
+M>un partito tradizionalmente moderato</E

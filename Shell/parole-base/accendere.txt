@@ -1,0 +1,65 @@
+accendere.txt
+"accendere"
+"accendere"
+"accendere"
+"accendere"
+"accendere i sentimenti"
+"accendere la luce"
+"accendere la passione"
+"accendere un fiammifero"
+"accendere un mutuo"
+"avere da accendere"
+#* ''accendere un fiammifero'' 
+#* ''accendere la luce, il televisore'' 
+#* ''accendere l'odio, la passione''
+#* ''accendere un conto, un'ipoteca'' 
+*[[accendibile]], [[accendimento]], [[accendersi]], [[raccendere]]
+M>accend</E
+M>accési</E
+M>accendésti</E
+M>accéso</E
+M>un fiammifero</E
+M>il fuoco</E
+M>le candele</E
+M>il lume</E
+M>il forno</E
+M>la stufa</E
+M>la sigaretta</E
+M>la pipa</E
+M>poi che ’l ciel accende le sue stelle</E
+M>la lampadina</E
+M>la luce</E
+M>la radio</E
+M>il televisore</E
+M>un amplificatore</E
+M>un registratore</E
+M>un motore elettrico</E
+M>l’intensa vita spirituale gli accendeva gli occhi di una luce quasi soprannaturale</E
+M>pioveva dall’alto un riverbero rossastro</E
+M>che accendeva le facce ansiose</E
+M>una discussione</E
+M>una lite</E
+M>la speranza in qualcuno</E
+M>un desiderio</E
+M>una passione</E
+M>nell’animo il fuoco della carità</E
+M>l’animo d’ira</E
+M>di entusiasmo</E
+M>di sacro furore</E
+M>A egregie cose il forte animo accendono L’urne de’ forti</E
+M>la fantasia</E
+M>i sensi</E
+M>un conto</E
+M>un prestito</E
+M>un’ipoteca</E
+M>la paglia s’accende facilmente</E
+M>al tramonto il cielo si accende di una calda luce dorata</E
+M>si accendevano nel firmamento le prime stelle</E
+M>accendersi in viso</E
+M>spesso</E
+M>si accendevano fra loro lunghe e animate discussioni</E
+M>accendersi d’amore</E
+M>d’ira</E
+M>di sdegno</E
+M>di speranza</E
+M>è un ragazzo che s’accende facilmente</E

@@ -1,0 +1,47 @@
+scrupolo.txt
+"per scrupolo"
+"scrupolo"
+"scrupolo"
+"scrupolo"
+*[[dubbio]], [[incertezza]], [[indecisione]], [[esitazione]], [[perplessità]], [[sospetto]], [[timore]], [[ansia]], [[apprensione]], [[inquietudine]], [[turbamento]]
+*''(di recare disturbo)'' [[riguardo]], [[delicatezza]], [[tatto]], [[prudenza]], [[premura]]
+*'' (nello svolgere un’attività)'' [[esattezza]], [[precisione]], [[correttezza]], [[attenzione]], [[cura]], [[impegno]], [[diligenza]], [[accuratezza]], [[scrupolosità]], [[coscienziosità]], [[minuziosità]], [[meticolosità]], [[pignoleria]], [[pedanteria]]
+*[[remora]]
+*[[certezza]], [[sicurezza]]
+*''(di recare disturbo)'' [[sfacciataggine]], [[sfrontatezza]]
+*''(nello svolgere un'attività)'' [[inesattezza]], [[imprecisione]], [[scorrettezza]]
+*''fino allo scrupolo''
+M>scrup</E
+M>lus</E
+M>scrup</E
+M>lum</E
+M>scrip</E
+M>lum</E
+M>script</E
+M>lum</E
+M>scrupus</E
+M>esatto</E
+M>preciso</E
+M>onesto</E
+M>fino allo s.</E
+M>s. religioso</E
+M>s. morali</E
+M>s. di coscienza</E
+M>essere assillato</E
+M>tormentato dagli s.</E
+M>una persona piena di scrupoli</E
+M>volevo fare un regalo alla maestra di mio figlio</E
+M> ma poi mi è venuto lo s. di offenderla</E
+M>a forza di scrupoli</E
+M> non si decide mai nulla!</E
+M>non ti fare scrupolo di chiedermi tutto quello che ti serve</E
+M>non ho nessuno s. a dirgli come stanno esattamente le cose</E
+M>se fossi al posto tuo</E
+M> non avrei tanti scrupoli</E
+M>senza scrupoli</E
+M>è gente senza s.</E
+M>un individuo senza s. e pronto a ogni bassezza</E
+M>quell&#8217;artigiano è caro</E
+M> ma il lavoro lo fa con scrupolo</E
+M>è un medico di molta coscienza</E
+M> visita tutti con lo stesso scrupolo</E

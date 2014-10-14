@@ -1,0 +1,20 @@
+reclamo.txt
+"fare un reclamo"
+"presentare un reclamo"
+"presentare un reclamo"
+"reclamo"
+"registrare un reclamo"
+*[[lamentela]], [[protesta]], [[lagnanza]] 
+*[[reclamare]]
+*italiano
+*spagnolo
+M>per qualsiasi r</E
+M>rivolgersi alla direzione</E
+M>fare</E
+M>un r</E
+M>ufficio reclami</E
+M>impugnazione</E
+M>reclamo della legittimità</E
+M>consolare</E
+M>scritto</E
+M>orale</E

@@ -1,0 +1,30 @@
+passaporto.txt
+"passaporto"
+M>passare</E
+M>porto</E
+M>chiedere il p</E
+M>per i paesi extraeuropei consentiti</E
+M>rilascio del p</E
+M>valido</E
+M>scaduto</E
+M>rinnovare il p</E
+M>fare apporre il visto sul p</E
+M>presentare il p</E
+M>controllo dei p</E
+M>procedere al ritiro del p</E
+M>viaggiare con p</E
+M>falso</E
+M>ordinario</E
+M>collettivo</E
+M>di servizio</E
+M>diplomatico</E
+M>richiesta dei p</E
+M>consegna dei p</E
+M>rosso</E
+M>Nansen</E
+M>il denaro è un p</E
+M>universale</E
+M>i medici gli hanno dato il p</E
+M>per l&#8217;altro mondo</E
+M>dare il p</E
+M>a qualche cosa</E

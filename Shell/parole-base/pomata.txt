@@ -1,0 +1,10 @@
+pomata.txt
+"pomata"
+*''(farmaceutica o cosmetica)'' [[crema]], [[unguento]], [[balsamo]], [[pasta]], [[brillantina]]
+M>pomo</E
+M>alla belladonna</E
+M>al cortisone</E
+M> all&#8217;ossido di mercurio</E
+M>penicillina in pomata</E
+M>spalmare la p</E
+M>sulla pelle</E

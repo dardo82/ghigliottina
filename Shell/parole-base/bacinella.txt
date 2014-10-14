@@ -1,0 +1,5 @@
+bacinella.txt
+"bacinella"
+M>bacino</E
+M>di affioramento</E
+M>Filatura a b.</E

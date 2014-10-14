@@ -1,0 +1,17 @@
+impegnativo.txt
+"impegnativo"
+"impegnativo"
+"non impegnativo"
+*[[gravoso]], [[oneroso]]
+*(1) [[vincolante]]
+*[[impegnativa]], [[impegnato]], [[impegno]]
+M>una risposta i</E
+M>una gara</E
+M>una competizione i</E
+M>un lavoro molto impegnativo</E
+M>un pranzo i</E
+M>una serata i</E
+M>un abito i</E
+M>molto i</E
+M>poco i</E
+M>non i</E

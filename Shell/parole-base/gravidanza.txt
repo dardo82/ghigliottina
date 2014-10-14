@@ -1,0 +1,32 @@
+gravidanza.txt
+"gravidanza"
+"gravidanza extrauterina"
+"gravidanza tubarica"
+#* ''[[essere]] in 
+#* ''questo [[parcheggio]] è riservato alle [[donne]] in 
+#* ''mia [[sorella]] è al [[quarto]] [[mese]] di 
+* [[gestazione]], stato interessante, [[maternità]]
+* [[gravida]], [[incinta]], [[partoriente]], [[concepimento]], [[parto]], [[puerperio]], [[ostetricia]]
+M>gestazione</E
+M>avere una g</E
+M>facile</E
+M>difficile</E
+M>i disturbi della g</E
+M>trascorrere una g</E
+M>tranquilla</E
+M>semplice</E
+M>gemellare</E
+M>bigemina</E
+M>trigemina</E
+M>quadrigemina</E
+M>a termine</E
+M>abortiva</E
+M>uterina</E
+M>topica</E
+M>extrauterina</E
+M>ectopica</E
+M>tubarica</E
+M>ovarica</E
+M>addominale</E
+M>nervosa</E
+M>immaginaria</E

@@ -1,0 +1,44 @@
+padella.txt
+"manico di padella"
+"padella"
+"padella"
+"padella"
+"padella cinese"
+"padella per friggere"
+"padella per friggere"
+"padella per popcorn"
+"padella per popcorn"
+"relativo a padella"
+"saltare in padella"
+"saltare in padella"
+"saltato in padella"
+*[[tegame]], [[teglia]] 
+*''cadere dalla '''padella''' nella/alla brace''
+*''un occhio alla '''padella''' ed uno alla [[gatta]]''
+*''far '''padella'''''
+*[[pentola]]
+M>pat</E
+M>lla</E
+M>pat</E
+M>una p</E
+M>di ferro</E
+M>di rame</E
+M>di acciaio inossidabile</E
+M>di acciaio smaltato</E
+M>friggere</E
+M>cuocere</E
+M>fare</E
+M>la frittata</E
+M>la carne</E
+M>il pesce</E
+M>in p</E
+M>funghi in padella</E
+M>avere un occhio alla gatta e uno alla p</E
+M>cascare dalla p</E
+M>nella brace</E
+M>noi abbiamo costui tratto della p</E
+M>e gittatolo nel fuoco</E
+M>fare padella</E
+M>per le castagne</E
+M>padelloni</E
+M>padellina</E

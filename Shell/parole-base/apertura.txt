@@ -1,0 +1,140 @@
+apertura.txt
+"ad apertura totale"
+"angolo d'apertura"
+"apertura"
+"apertura"
+"apertura"
+"apertura"
+"apertura"
+"apertura"
+"apertura"
+"apertura"
+"apertura a libro"
+"apertura dell'opera"
+"apertura di sfogo"
+"apertura internazionale"
+"apertura numerica"
+"apertura stagionale"
+"apertura tonda"
+"apertura, f\/stop"
+"cerimonia di apertura di un gran ballo a cui prendono parte tutti gli ospiti"
+"d'apertura"
+"d'apertura"
+"in apertura"
+"meeting di apertura, incontro di apertura"
+"nuova apertura"
+"orari di apertura"
+"orario d'apertura"
+"orario di apertura"
+"periodo di apertura"
+"prezzo d'apertura"
+"prossima apertura"
+"quotazione di apertura"
+#* ''Domani c'è in diretta l''''apertura''' del nuovo [[centro]] [[commerciale]]''
+*''(a un'idea, a un progetto ecc.)'' [[disponibilità]], [[sensibilità]], [[collaborazione]]
+*''(a un'idea, a un progetto ecc.)'' [[chiusura]], [[ostilità]]
+*italiano
+*spagnolo
+M>apertura</E
+M>aperire</E
+M>apertus</E
+M>di un varco</E
+M>di una finestra nella parete</E
+M>di una strada</E
+M>il terremoto provocò l’a</E
+M>di una voragine</E
+M>di un pacco</E
+M>di una lettera</E
+M>ad a</E
+M>di libro</E
+M>tradurre</E
+M>spiegare ad a</E
+M>di libro</E
+M>l’a</E
+M>del testamento</E
+M>orario di a</E
+M>di un negozio</E
+M>di un bar</E
+M>di uno sportello bancario</E
+M>di un cinematografo</E
+M>di un teatro</E
+M>di un museo</E
+M>di una biblioteca</E
+M>di un circuito</E
+M>apritura</E
+M>dissolvenza in a</E
+M>in dissolvenza</E
+M>Vignola è bella terra che giace un po’ come Firenze</E
+M>se non che ha più a</E
+M>e più sfondo</E
+M>di mente</E
+M>fare</E
+M>praticare</E
+M>chiudere un’a</E
+M>entrare</E
+M>uscire da un’a</E
+M>della siepe</E
+M>guardare attraverso un’a</E
+M>della parete</E
+M>aprì una parte di sportello</E
+M>riempì l’a</E
+M>con la persona</E
+M>l’a</E
+M>del compasso</E
+M>l’a</E
+M>della bocca di un pozzo</E
+M>un’aquila di notevole a</E
+M>d’ali</E
+M>di un velivolo</E
+M>di un’ala</E
+M>alare</E
+M>grado di a</E
+M>di un cono circolare retto</E
+M>semiapertura</E
+M>di un sistema ottico centrato</E
+M>di un bar</E
+M>di un nuovo salone di barbiere</E
+M>di una fabbrica</E
+M>di uno stabilimento</E
+M>di nuove scuole</E
+M>di corsi serali di danza</E
+M>di un circolo</E
+M>di una mostra</E
+M>dei festeggiamenti</E
+M>delle trattative</E
+M>dei negoziati</E
+M>delle scuole</E
+M>di un teatro</E
+M>del Parlamento</E
+M>discorso</E
+M>cerimonia d’a</E
+M>della caccia</E
+M>del fuoco</E
+M>del dibattimento</E
+M>della successione</E
+M>del gioco</E
+M>avere</E
+M>non avere a</E
+M>l’a</E
+M>in a</E
+M>di gioco</E
+M>segnare in a</E
+M>di gioco</E
+M>di un credito bancario</E
+M>di un conto</E
+M>di borsa</E
+M>sinfonia d’a</E
+M>apertura</E
+M>fare un’a</E
+M>Consalvo aveva fatto fare certe a</E
+M>ai capi clericali</E
+M>ma costoro avevano risposto che la sua alleanza con Lisi e Giardona rendeva impossibile qualunque accordo</E
+M>a sinistra</E
+M>a destra</E
+M>cercare</E
+M>proporre</E
+M>trovare</E
+M>avere un’a</E
+M>delle aperture</E
+M>sulle ali</E
+M>mediano di a</E

@@ -1,0 +1,47 @@
+conferenza.txt
+"chiamata in conferenza telefonica"
+"conferenza"
+"conferenza"
+"conferenza audio"
+"conferenza prima della causa"
+"conferenza stampa"
+"conferenza sulla pace"
+"programma della conferenza"
+"tavolo; in una conferenza o banchetto; dove siedono le persone più importanti"
+"tenere una conferenza"
+"tenere una conferenza"
+"tenere una conferenza stampa"
+"tenere una conferenza; tenere una lettura"
+*[[riunione]], [[assemblea]], [[congresso]], [[convegno]], [[meeting]], [[simposio]],  discorso pubblico, *  [[summit]], [[vertice]], [[lezione]]
+*[[conferenziere]], [[conferire]], [[preconferenza]]
+M>conferentia</E
+M>conferre</E
+M>collatio</E
+M>essere invitato a una c</E
+M>col ministro</E
+M>col presidente</E
+M>conferenza</E
+M>stampa</E
+M>conferenze</E
+M>stampa</E
+M>europea</E
+M>dell’Aia</E
+M>della pace di Parigi</E
+M>di Ginevra</E
+M>internazionale delle materie prime</E
+M>internazionale del lavoro</E
+M>episcopale</E
+M>la C</E
+M>episcopale italiana</E
+M>foranee</E
+M>vicariali</E
+M>pastorali</E
+M>morali</E
+M>congreghe</E
+M>pancristiane</E
+M>Conferenza di s</E
+M>Vincenzo de’ Paoli</E
+M>tenere una c</E
+M>andare a una c</E
+M>ascoltare una c</E
+M>sulla cibernetica</E

@@ -1,0 +1,2 @@
+parteggiare.txt
+"parteggiare"

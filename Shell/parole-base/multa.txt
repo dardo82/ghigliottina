@@ -1,0 +1,21 @@
+multa.txt
+"di multa"
+"fare la multa"
+"multa"
+"multa di"
+"multa per ritardo"
+#*''ha lasciato la macchina in doppia corsia e perciò ha preso una bella multa'' 
+*[[contravvenzione]], [[ammenda]], [[sanzione]], [[sanzione]], pena pecuniaria
+M>multa</E
+M>ammenda</E
+M>grossa</E
+M>lieve m.</E
+M>per eccesso di velocità</E
+M>dare</E
+M>infliggere la m.</E
+M>cadere</E
+M>incorrere in una m.</E
+M>sotto pena di multa</E
+M>m. penitenziale</E
+M>Né la pensava mai veder</E
+M>non ch’ella Gli avesse a tor degli error suoi la multa</E

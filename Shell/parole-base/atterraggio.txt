@@ -1,0 +1,33 @@
+atterraggio.txt
+"atterraggio"
+"atterraggio di fortuna"
+"atterraggio duro"
+"atterraggio forzato"
+"atterraggio morbido"
+"atterraggio senza visibilità"
+"atterraggio strumentale"
+"carrello d'atterraggio"
+"corsie di atterraggio per aerei"
+"fanale di atterraggio"
+"fanali di atterraggio"
+"fare un atterraggio di fortuna"
+"forza di atterraggio"
+"luce di atterraggio"
+"luci di atterraggio"
+"pattino d'atterraggio"
+"pista d'atterraggio"
+"pista d'atterraggio"
+"pista d'atterraggio"
+"sistema d atterraggio strumentale"
+M>atterrage</E
+M>atterrer</E
+M>fare</E
+M>compiere un a</E
+M>campo di a</E
+M>atterraggio</E
+M>di fortuna</E
+M>forzato</E
+M>cieco</E
+M>strumentale</E
+M>guidato</E
+M>punto d’a</E

@@ -1,0 +1,131 @@
+riposo.txt
+"a riposo"
+"casa di riposo"
+"essere a riposo"
+"giorno di riposo"
+"giorno di riposo"
+"giorno fisso di riposo"
+"in riposo sabbatico, in anno sabbatico"
+"lasciare a riposo"
+"posizione di riposo"
+"riposo"
+"riposo"
+"riposo"
+"riposo a letto"
+"riposo eterno"
+"Sabato ebraico, giorno di riposo"
+"settimo giorno della settimana dedicato al riposo (sabato per gli ebrei, domenica per i cristiani)"
+"un po' di riposo"
+*[[sosta]], [[pausa]], [[interruzione]], [[sospensione]], [[stacco]], [[break]], [[parentesi]]
+*[[tregua]], [[respiro]], [[relax]], [[ristoro]], [[sollievo]], [[posa]], [[vacanza]], [[villeggiatura]], [[ozio]]; [[sonno]], [[dormita]]
+*(dal lavoro) [[pensionamento]], [[pensione]], [[ritiro]]
+* [[pace]], [[tranquillità]]
+*[[lavoro]], [[occupazione]]
+*[[casa di riposo]]
+*[[riposante]], [[riposare]], [[riposarsi]], [[riposato]] 
+*''eterno riposo''
+M>breve</E
+M>corto</E
+M>lungo r</E
+M>sono stanco di camminare</E
+M>ho bisogno di r</E
+M>di un r</E
+M>di un po&#8217; di r</E
+M>stare</E
+M>rimanere in r</E
+M>tutto il giorno</E
+M>osservare il r</E
+M>prescritto dal medico</E
+M>casa di r</E
+M>non ho</E
+M> non trovo un momento di r</E
+M>non trovare r</E
+M>un quarto d&#8217;ora di r</E
+M>e poi ricominceremo a studiare</E
+M>prendersi</E
+M>concedersi un po&#8217;</E
+M>un giorno</E
+M>una settimana di r</E
+M>settimanale</E
+M>festivo</E
+M>giornata di r</E
+M>hai gli occhi affaticati</E
+M>lasciali in r</E
+M>il medico gli ha ordinato di tenere il braccio</E
+M>la gamba in perfetto r</E
+M>spesso la mente trova r</E
+M>applicandosi a una diversa occupazione</E
+M>senza r</E
+M>lavora tutto il giorno senza r</E
+M>marciarono senza r</E
+M>per due giorni e una notte</E
+M>Al fin di sua giornata Talora è consolata D&#8217;alcun breve r</E
+M>se hai la febbre</E
+M>ti farà bene un po&#8217; di r</E
+M>a letto</E
+M>si sedette in poltrona e prese una posizione di r</E
+M>dopo mangiato ci vuole una mezz&#8217;ora di r</E
+M>il r</E
+M>notturno</E
+M>d&#8217;estate sono solito fare un breve r</E
+M>pomeridiano</E
+M>buon r</E
+M>Vid&#8217;io Fiorenza in sì fatto riposo</E
+M>Che non avea cagione onde piangesse</E
+M>e esso con molto r</E
+M>e piacere con la sua Agnolella infino alla lor vecchiezza si visse</E
+M>la natura dava al suo animo tormentato un senso di confortante r</E
+M>le sue ossa avranno r</E
+M>in questo sepolcro</E
+M>l&#8217;ultimo</E
+M>l&#8217;estremo r</E
+M>l&#8217;eterno r</E
+M>dona a loro</E
+M>o Signore</E
+M>requiem aeternam dona eis</E
+M>Domine</E
+M>gli eterni r</E
+M>attendono il suo nobile animo</E
+M>questo pensiero è il r</E
+M>delle mie afflizioni</E
+M>Sol un r</E
+M>trovo in molti affanni</E
+M>gli antichi reputavano gli esercizi delle lettere e delle scienze come riposi e sollazzi in comparazione ai negozi</E
+M>collocamento a r</E
+M>per limiti di età</E
+M>per inabilità</E
+M>anticipato</E
+M>mettere</E
+M>collocare a r</E
+M>funzionario</E
+M>ufficiale a r</E
+M>metterli a r</E
+M>mettere a r</E
+M>un cappello</E
+M>un paio di scarpe</E
+M>Riposo</E
+M>posizione di r</E
+M>riposo!</E
+M>dare</E
+M>comandare il r</E
+M>attenti</E
+M>quiescenza</E
+M>lasciare</E
+M>tenere in r</E
+M>l&#8217;olio di frantoio</E
+M>un vino invecchiato</E
+M>lo sciroppo</E
+M> dopo filtrato</E
+M>deve stare in r</E
+M>per un giorno</E
+M>camera di r</E
+M>motore a r</E
+M>relè elettromagnetico a r</E
+M>condizione di r</E
+M>di un tubo elettronico</E
+M>letto</E
+M>angolo di riposo</E
+M>in quell&#8217;umil riposo Conosceranno il Re</E
+M>riposi</E
+M>un riposino ti farà bene</E
+M>vado a fare un riposino</E

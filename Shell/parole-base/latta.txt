@@ -1,0 +1,8 @@
+latta.txt
+"di lamiera, di latta"
+"di lamiera, di latta"
+"lamiera, latta"
+"latta"
+"latta"
+"latta d'olio"
+*[[bandone]], [[lamierino]], [[lamiera]], [[lattina]], [[bidone]], [[barattolo]], [[scatoletta]]

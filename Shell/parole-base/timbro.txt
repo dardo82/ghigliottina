@@ -1,0 +1,42 @@
+timbro.txt
+"timbro"
+"timbro"
+"timbro"
+"timbro"
+"timbro (musicale)"
+"timbro della data"
+"timbro della voce o di uno strumento musicale"
+"timbro di accettazione"
+"timbro di gomma"
+"timbro ora"
+"timbro postale"
+M>timbre</E
+M>il t. postale c&#8217;è</E
+M> ma non si legge la data.</E
+M>timbro</E
+M>metallo</E
+M>t. nasale</E
+M>t. aspri</E
+M>duri</E
+M>t. metallico</E
+M>argentino</E
+M>vibrante</E
+M>sonoro</E
+M>velato</E
+M>avere un bel t.</E
+M>di voce</E
+M>un t. dolce</E
+M>piacevole</E
+M>sgradevole</E
+M>vocali di t. aperto</E
+M>t. chiuso</E
+M>opposizione di timbro</E
+M>pèsca</E
+M>pésca</E
+M>t. timpanico</E
+M>timpanismo</E
+M>il t. di una poesia</E
+M>il t. montaliano</E
+M>il t. caratteristico dei pittori fauves.</E
+M>tono</E
+M>affettivo</E

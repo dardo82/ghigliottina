@@ -1,0 +1,42 @@
+maestro.txt
+"colpo maestro"
+"essere maestro"
+"essere maestro di"
+"gran maestro"
+"maestro"
+"maestro"
+"maestro"
+"maestro"
+"maestro"
+"maestro"
+"maestro"
+"maestro"
+"maestro dei giochi"
+"maestro del coro"
+"maestro di"
+"maestro di ballo"
+"maestro di cappella"
+"maestro di cappella"
+"maestro di cappella"
+"maestro di danza"
+"maestro di vita"
+"tocco da maestro"
+"vecchio maestro (pittore)"
+#*''[[w
+*[[principale]], [[maggiore]], [[portante]]
+*[[abile]], [[capace]], [[esperto]], [[provetto]]
+*[[insegnante]], insegnante elementare, [[docente]], [[istitutore]], [[precettore]], [[pedagogo]]  
+*[[istruttore]]
+*[[artista]], [[esperto]]
+*[[caposcuola]], [[fondatore]]
+*operaio qualificato, [[capomastro]]
+*(direzione cardinale) [[nord-ovest]], [[maestrale]]
+*(vento) [[maestrale]], [[mistral]]
+*''(principale)'' [[minore]], [[secondario]]
+*''(capace)'' [[incapace]], [[inesperto]]
+*''(insegnante)'' [[alunno]], [[scolaro]], [[allievo]], [[discepolo]]
+*''(istruttore)'' [[successore]], [[seguace]]
+*''(artista)'' [[apprendista]], [[principiante]]
+*(direzione cardinale) [[sud-est]], [[scirocco]]
+*(vento) [[scirocco]]
+*Devoto/Oli,''Il dizionario della lingua italiana'' , edizione cartacea 2000-2001, Le Monnier, p. 1193

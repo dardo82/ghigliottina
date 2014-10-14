@@ -1,0 +1,7 @@
+sciatore.txt
+"sciatore"
+M>i-a-</E
+M>trice</E
+M>sc. alpinista</E
+M>sci-alpinista</E
+M>sc. nautico</E

@@ -1,0 +1,286 @@
+arte.txt
+"ad arte"
+"arte"
+"arte"
+"arte"
+"arte astratta"
+"arte cinetica"
+"arte concettuale"
+"arte contemporanea"
+"arte culinaria"
+"arte del combattimento..."
+"arte della cura"
+"arte della decalcomania"
+"arte della decalcomania"
+"arte della guerra"
+"arte di intagliare il legno"
+"arte di predire il futuro"
+"arte ecologica"
+"arte erotica"
+"arte giapponese"
+"arte grafica"
+"arte industriale"
+"arte manuale"
+"arte marziale"
+"arte popolare"
+"arte povera"
+"Arte Povera"
+"arte precolombiana"
+"arte primitiva"
+"arte rupestre"
+"arte sacra"
+"arte teatrale"
+"associazione d'arte"
+"centro d'arte"
+"commedia dell'arte"
+"commedia dell'arte"
+"critica d'arte"
+"critico d'arte"
+"forma d'arte"
+"galleria d'arte"
+"insegnante d'arte"
+"istituto d'arte"
+"l'arte del possibile"
+"l'arte nera"
+"laurea in arte e scienze dello spettacolo"
+"manuale d'arte"
+"mostra d'arte"
+"mostra d'arte"
+"museo dell'arte"
+"negozio di arte pop"
+"nobile arte"
+"nobile arte (pugilato)"
+"nome d'arte"
+"nome d'arte"
+"oggetto d'arte"
+"opera d'arte"
+"opera d'arte"
+"opera d'arte"
+"opera d'arte"
+"opera d'arte"
+"opera d'arte"
+"opere d'arte"
+"professore d'arte"
+"scuola d'arte"
+"stile d'arte"
+"studente d'arte"
+"teatro dell'arte"
+#*'''arti [[visive]]'''
+#*'''arti [[sceniche]]'''
+#*'''arti [[applicate]]'''
+#*'''[[storia]] dell'arte'''
+*[[mestiere]], [[professione]], [[lavoro]] (p.e.
+*[[metodo]], [[tecnica]] (p.e.
+*[[artificio]],[[ astuzia]], [[espediente]], [[sistema]], [[trucco]] 
+*[[ inganno]], [[raggiro]] 
+*'' (nel Medioevo)'' [[corporazione]]
+*[[abilità]]
+*Enciclopedia [http
+*Devoto/Oli,''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier , p. 149
+m>ars artis</e
+m>l&rsquo;a</e
+m>del fabbro</e
+m>del medico</e
+m>del musicista</e
+m>meccaniche</e
+m>manuali</e
+m>liberali</e
+m>ingenue</e
+m>gentili</e
+m>artes liberales</e
+m>arti del trivio</e
+m>arti del quadrivio</e
+m>Facoltà delle a</e
+m>degli artisti</e
+m>accrescere con l&rsquo;a</e
+m>le bellezze naturali d&rsquo;un luogo</e
+m>posizione fortificata dalla natura e dall&rsquo;a</e
+m>dove manca natura arte procura</e
+m>l&rsquo;a</e
+m>delle api</e
+m>l&rsquo;a</e
+m>delle rondini nel fare il nido</e
+m>natura lo suo corso prende Dal divino &rsquo;ntelletto e da sua arte; E</e
+m>l&rsquo;arte vostra quella</e
+m>quanto pote</e
+m>Segue</e
+m>come &rsquo;l maestro fa &rsquo;l discente; Sì che vostr&rsquo;arte a Dio quasi è nepote</e
+m>arte</e
+m>opera d&rsquo;a</e
+m>capolavoro d&rsquo;a</e
+m>popolare</e
+m>raffinata</e
+m>avere sensibilità per l&rsquo;arte</e
+m>l&rsquo;a</e
+m>per l&rsquo;a</e
+m>figurative</e
+m>belle</e
+m>belle a</e
+m>del disegno</e
+m>del bello visibile</e
+m>mute</e
+m>arte</e
+m>critico d&rsquo;arte</e
+m>storico dell&rsquo;a</e
+m>intenditore</e
+m>profano d&rsquo;arte</e
+m>amante</e
+m>amico dell&rsquo;a</e
+m>i maestri dell&rsquo;a</e
+m>storia dell&rsquo;a</e
+m>l&rsquo;a</e
+m>del disegno</e
+m>della pittura</e
+m>della scultura</e
+m>musiva</e
+m>fittile</e
+m>figulina</e
+m>l&rsquo;onor di quell&rsquo;arte Ch&rsquo;alluminar chiamata è in Parisi</e
+m>sacra</e
+m>maggiori</e
+m>minori</e
+m>decorativa</e
+m>applicata</e
+m>industriale</e
+m>industrial art</e
+m>applicata</e
+m>povera</e
+m>istituto d&rsquo;arte</e
+m>scuola d&rsquo;arte</e
+m>mostra d&rsquo;arte dell&rsquo;800</e
+m>classica</e
+m>bizantina</e
+m>barocca</e
+m>decadente</e
+m>originale</e
+m>convenzionale</e
+m>di maniera</e
+m>semplice</e
+m>l&rsquo;a</e
+m>di Giotto</e
+m>di Michelangelo</e
+m>di Picasso</e
+m>Accademia nazionale d&rsquo;a</e
+m>drammatica</e
+m>spettacolo d&rsquo;a</e
+m>varia</e
+m>darsi all&rsquo;a</e
+m>abbandonare l&rsquo;a</e
+m>ritirarsi dall&rsquo;a</e
+m>nome d&rsquo;a</e
+M>        in a.</E
+m>andare in a</e
+m>nato in a</e
+m>figlio d&rsquo;a</e
+m>arte</e
+m>commedia dell&rsquo;a</e
+m>dello schermo</e
+m>muta</e
+m>settima arte</e
+m>Manifeste des sept arts</e
+m>le septième art</e
+m>l&rsquo;a</e
+m>del fabbro</e
+m>del calzolaio</e
+m>dell&rsquo;ebanista</e
+m>del decoratore</e
+m>bianca</e
+m>mettersi a un&rsquo;a</e
+m>esercitare un&rsquo;a</e
+m>fu messo all&rsquo;a</e
+m>all&rsquo;età di dodici anni</e
+m>uomo dell&rsquo;a</e
+m>essere dell&rsquo;a</e
+m>fare l&rsquo;a</e
+m>di Michelaccio</e
+m>mangiare</e
+m>bere e andare a spasso</e
+m>impara l&rsquo;a</e
+m>e mettila da parte</e
+m>chi ha a</e
+m>ha parte</e
+m>non avere né a</e
+m>né parte</e
+m>arte</e
+m>parte</e
+m>l&rsquo;a</e
+m>del tessere</e
+m>l&rsquo;a</e
+m>del ricamo</e
+m>l&rsquo;a</e
+m>del dipingere</e
+m>l&rsquo;a</e
+m>della recitazione</e
+m>oratoria</e
+m>del dire</e
+m>ars dicendi</e
+m>l&rsquo;a</e
+m>della memoria</e
+m>l&rsquo;a</e
+m>del ragionare</e
+m>divinatoria</e
+m>culinaria</e
+m>studiare</e
+m>apprendere</e
+m>conoscere</e
+m>insegnare un&rsquo;a</e
+m>principî</e
+m>elementi dell&rsquo;a</e
+m>costruito</e
+m>fatto</e
+m>eseguito con tutte le regole d&rsquo;a</e
+m>a regola d&rsquo;arte</e
+m>militare</e
+m>mineraria</e
+m>nautica</e
+m>poetica</e
+m>conoscere l&rsquo;a</e
+m>di ben vivere</e
+m>l&rsquo;a</e
+m>di piacere</e
+m>di farsi amare</e
+m>conosce l&rsquo;a</e
+m>di rendersi antipatico</e
+m>è espertissimo nell&rsquo;a</e
+m>di adulare</e
+m>è consumato nell&rsquo;a</e
+m>di gabbare il prossimo</e
+m>è maestro nell&rsquo;a</e
+m>di fingere</e
+m>segretamente gli mandò una sua femina la quale ottimamente l&rsquo;a</e
+m>sapeva del ruffianesimo</e
+m>mostrare grande a</e
+m>nell&rsquo;operare</e
+m>furto commesso con molta arte</e
+m>è un quadro in cui si vede troppo l&rsquo;a</e
+m>poema in cui c&rsquo;è più a</e
+m>che poesia</e
+m>la perfezione dell&rsquo;a</e
+m>consiste nel nasconder l&rsquo;a</e
+m>ottenere con male a</e
+m>ricorrere ad a</e
+m>diaboliche</e
+m>ha messo in opera tutte le sue a</e
+m>per trarlo nell&rsquo;inganno</e
+m>E va pensando con qual a</e
+m>in prima Il poter de&rsquo; Cristiani in parte sceme</e
+m>qual arte o qual fatica O qual tanta possanza Valse a spogliarti il manto e l&rsquo;auree bende?</e
+m>avvocatesche</e
+m>non laudo chi vive sempre con simulazione e con arte</e
+m>ad arte</e
+m>diffondere ad a</e
+m>voci calunniose</e
+m>notizie false</e
+m>magica</e
+m>magiche</e
+m>negromantica</e
+m>alchemica</e
+m>arte</e
+m>noi ci abbiamo durata fatica in far l&rsquo;arte</e
+m>grande a</e
+m>grande opera</e
+m>magnum opus</e
+m>regale</e
+m>opere d&rsquo;arte</e
+m>maggiori</e
+m>minori</e

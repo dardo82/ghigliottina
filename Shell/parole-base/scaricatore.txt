@@ -1,0 +1,16 @@
+scaricatore.txt
+"scaricatore"
+"scaricatore"
+"scaricatore"
+"scaricatore"
+"scaricatore di porto"
+M>trice</E
+M>gli s. del porto oggi hanno scioperato</E
+M>s. a gravità</E
+M>s. ad aria compressa</E
+M>s. elettromagnetici</E
+M>canale</E
+M>fossato s.</E
+M>chiavica scaricatrice</E
+M>s. di condensa</E
+M>trappola di vapore.</E

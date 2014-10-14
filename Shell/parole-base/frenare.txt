@@ -1,0 +1,47 @@
+frenare.txt
+"bloccare, reprimere, frenare"
+"frenare"
+"frenare"
+"frenare"
+"frenare la barca remando"
+*[[fermare]],  [[trattenere]], [[controllare]], [[rallentare]], [[mettere]] [[freno]]
+*[[frenabile]], [[frenaggio]],[[frenante]], [[frenarsi]],[[frenasterzo]], [[frenata]], [[frenato]], [[frenatore]], [[frenatura]], [[freno]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, p. 861
+*AA.VV.,''Dizionario etimologico'', edizione 2004, ristampa 2008,RusconiLIbri, p. 412
+M>frenare</E
+M>frenum</E
+M>io fréno</E
+M>freni</E
+M>l’auto</E
+M>il treno</E
+M>la bicicletta</E
+M>il cavallo</E
+M>la corsa</E
+M>l’impeto della corsa</E
+M>la discesa era così ripida che non riuscivo a frenarmi</E
+M>ho frenato troppo bruscamente</E
+M>e la vettura ha sbandato</E
+M>se frenavi un attimo prima</E
+M>riuscivi a evitare l’ostacolo</E
+M>non frenano proprio questi freni!</E
+M>stai attento</E
+M>è una macchina che frena poco</E
+M>quando scendo dalla macchina</E
+M>per sicurezza la freno sempre</E
+M>un pallone di sbarramento</E
+M>Fatto frenare il corridor superbo</E
+M>una spinta inflazionistica</E
+M>gli abusi</E
+M>le passioni</E
+M>gli impulsi</E
+M>l’ira</E
+M>lo sdegno</E
+M>il riso</E
+M>la lingua</E
+M>gli entusiasmi</E
+M>il proprio entusiasmo</E
+M>è così amante dello studio</E
+M>che spesso bisogna frenarlo</E
+M>non riuscivo a frenarmi dal ridere</E
+M>volevo rispondergli male ma riuscii a frenarmi</E
+M>ha un carattere irascibile e non sa frenarsi</E

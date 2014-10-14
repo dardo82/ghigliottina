@@ -1,0 +1,32 @@
+balzare.txt
+"balzare"
+"balzare"
+"balzare dentro"
+"balzare dentro"
+"balzare fuori"
+"balzare in piedi"
+"balzare indietro"
+"balzare verso"
+M>balteare</E
+M>balteus</E
+M>essere</E
+M>la palla è balzata sul tavolo</E
+M>a quelle parole</E
+M>balzò su dalla sedia</E
+M>in sella</E
+M>di sella</E
+M>giù dal letto</E
+M>fuori da un nascondiglio</E
+M>addosso all’avversario</E
+M>avanti</E
+M>i soldati balzarono all’assalto</E
+M>le madri Balzan ne’ sonni esterrefatte</E
+M>agli occhi</E
+M>in primo piano</E
+M>il cuore mi balzava in petto</E
+M>Pur ti riveggo</E
+M>e il cuor mi balza in tanto</E
+M>sbalzare</E
+M>il cavallo lo balzò in terra</E
+M>l’urto fu così forte che fummo balzati fuori dalla vettura</E
+M>rimbalzato</E

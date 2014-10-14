@@ -1,0 +1,24 @@
+incidente.txt
+"grave incidente stradale"
+"incidente"
+"incidente"
+"incidente"
+"incidente"
+"incidente"
+"incidente"
+"incidente"
+"incidente aereo"
+"incidente bizzarro"
+"incidente con fuga, incidente con omissione di soccorso"
+"incidente di percorso"
+"incidente diplomatico"
+"incidente mortale"
+"incidente probatorio"
+"incidente sfiorato"
+"incidente stradale"
+"luce incidente"
+#*''Una [[retta]] incidente una [[circonferenza]] che passi per il centro di essa, la divide in due semicirconferenze''
+#*''La nebbia incrementa il rischio di incidenti automobilistici''.
+#*''La [[gaffe]] dell'ambasciatore rischiò di portare ad un incidente diplomatico''
+*[[infortunio]], [[disgrazia]], [[sciagura]], [[sinistro]], [[caso]], [[episodio]], [[avvenimento]], [[scontro]]
+*questione secondaria, questione accessoria

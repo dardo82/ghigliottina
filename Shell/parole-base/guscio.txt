@@ -1,0 +1,48 @@
+guscio.txt
+"(olio) di guscio di palma"
+"a forma di guscio"
+"frutta a guscio"
+"guscio"
+"guscio"
+"guscio dell'uovo"
+"guscio di noce"
+"guscio di tartaruga"
+"guscio di tartaruga"
+"guscio duro"
+"guscio vuoto"
+"nel tuo guscio"
+"olio di guscio di palma"
+"simile a un guscio, un involucro"
+#* rinchiudersi nel proprio 
+*[[corteccia]], [[buccia]], [[pellicola]], [[membrana]], [[scorza]], [[baccello]], [[conchiglia]], [[involucro]], [[rivestimento]]
+*''(di animali)'' [[ossatura]], [[carcassa]], [[esoscheletro]]
+*[[semiguscio]]
+*''guscio di noce''
+M>il g</E
+M>dei piselli</E
+M>dei lupini</E
+M>delle mandorle</E
+M>delle noci</E
+M>il g</E
+M>dell’uovo</E
+M>di gallina</E
+M>il g</E
+M>delle ostriche</E
+M>delle chiocciole</E
+M>delle tartarughe</E
+M>chiudersi</E
+M>rimanere chiuso</E
+M>vivere</E
+M>ritirarsi</E
+M>stare nel proprio g</E
+M>uscire dal</E
+M>proprio</E
+M>di noce</E
+M>d’uovo</E
+M>federa</E
+M>strutture a guscio</E
+M>Guscio d’oro</E
+M>sguscio</E
+M>diritto</E
+M>rovescio</E
+M>g. elettronico</E

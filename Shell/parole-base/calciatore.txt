@@ -1,0 +1,5 @@
+calciatore.txt
+"calciatore"
+"calciatore"
+*giocatore di calcio
+M>-trice</E

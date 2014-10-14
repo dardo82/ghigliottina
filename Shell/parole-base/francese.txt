@@ -1,0 +1,54 @@
+francese.txt
+"alta cucina francese"
+"anglo-francese"
+" come in Italiano o Francese"
+"bacio alla francese"
+"bulldog francese"
+"di origine francese"
+"di tipo francese"
+"francese"
+"francese"
+"francese"
+"francese antico"
+"francese medievale"
+"francese normanno"
+"letto alla francese"
+"piega alla francese"
+"Provenza (regione francese)"
+"Rivoluzione francese"
+#* ''quel signore è '''francese'''''
+#* ''i [[formaggi]] '''francesi''' sono conosciuti in tutto il mondo''
+#* ''sanno parlare il '''francese'''''
+#*'' Abbiamo due ore di '''francese''' la settimana'' 
+#* i ''francesi'' amano visitare l'[[Italia]]
+*[[transalpino]]
+*[[cisalpino]]
+*[[francesista]], [[franceseggiare]], [[franceseria]], [[francesina]], [[francesismo]], [[francesizzare]], [[francesizzazione]], [[francesume]]
+* italiano
+* interlingua
+M>franceis</E
+M>françois</E
+M>français</E
+M>il popolo f</E
+M>popolazioni di lingua f</E
+M>la moda f</E
+M>i profumi f</E
+M>la cucina f</E
+M>mal f</E
+M>scudo f</E
+M>Lingua f</E
+M>il francese</E
+M>sapere</E
+M>conoscere il f</E
+M>parlare il f</E
+M>parlare francese</E
+M>insegnare</E
+M>studiare il f</E
+M>dare l’esame di f</E
+M>insegnante di francese</E
+M>Alla francese</E
+M>vestire</E
+M>cucinare alla francese</E
+M>un f</E
+M>i F</E
+M>l’eleganza delle francesi</E

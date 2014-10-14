@@ -1,0 +1,50 @@
+provvisorio.txt
+"conto sospeso, conto provvisorio"
+"dividendo provvisorio"
+"esercizio provvisorio"
+"governo provvisorio"
+"impiego provvisorio"
+"incarico provvisorio"
+"ponte provvisorio"
+"provvisorio"
+"provvisorio, ad interim"
+*[[momentaneo]], [[temporaneo]], [[passeggero]], [[transitorio]], [[precario]], [[insicuro]], [[incerto]], [[dubbio]], [[instabile]], [[problematico]], [[caduco]], [[effimero]]
+*[[revocabile]]
+* [[di fortuna]] 
+*[[durevole]], [[stabile]], [[fisso]]
+*[[irrevocabile]]
+*[[definitivo]], [[duraturo]],  [[permanente]],  [[sicuro]]
+*[[provvisorietà]], [[in via provvisoria]], [[provvisoriamente]]
+M>provisoire</E
+M>provisorius</E
+M>provisus</E
+M>providere</E
+M>governo p</E
+M>ordinamento p</E
+M>norme</E
+M>disposizioni p</E
+M>con carattere p</E
+M>nomina p</E
+M>incarico provvisorio</E
+M>parete di divisione p.</E
+M>un ponte p</E
+M>di legno</E
+M>il negozio ha un&#8217;insegna p</E
+M>la disposizione dei mobili nella stanza è ancora p</E
+M>conclusioni p.</E
+M>risultati p</E
+M>impiego p</E
+M>libertà p</E
+M>esercizio p</E
+M>di un&#8217;impresa</E
+M>in via p</E
+M>è stato assunto in via p</E
+M>in via p</E
+M>sono stato assegnato al reparto vendite</E
+M>è stato deciso di sospendere in via p</E
+M>la validità delle tessere di libero ingresso</E
+M>quest&#8217;impalcatura mi sembra alquanto p</E
+M>non possiamo tenere in considerazione affermazioni così provvisorie</E
+M>la vita che facevo era brutta e provvisoria</E
+M>l&#8217;impiegato è provvisoriamente assente</E
+M>il museo è provvisoriamente chiuso</E

@@ -1,0 +1,25 @@
+entusiasmo.txt
+"accogliere con entusiasmo"
+"complimentarsi con entusiasmo"
+"con entusiasmo"
+"con entusiasmo"
+"con molto entusiasmo"
+"entusiasmo"
+"fanatismo; entusiasmo eccessivo"
+"mancanza di entusiasmo"
+"metterci entusiasmo"
+"pieno di entusiasmo"
+"pieno di entusiasmo"
+"senza entusiasmo"
+"trasmettere entusiasmo a, infondere entusiasmo in"
+#* ''sono stato accolto con '''entusiasmo'''''
+M>destare</E
+M>suscitare l’e</E
+M>parlare</E
+M>accettare con e</E
+M>avere grande e. per le nuove invenzioni della tecnica</E
+M>guerriero</E
+M>religioso</E
+M>accolse la proposta con scarso e</E
+M>i giovani sono facili all’e.</E
+M>incominciò il lavoro con molto entusiasmo</E

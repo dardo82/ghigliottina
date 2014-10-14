@@ -1,0 +1,11 @@
+calamaio.txt
+"calamaio"
+#* ''ho rovesciato il 
+* [[calamo]], [[penna]]
+*italiano
+M>calamarius</E
+M>calamus</E
+M>carta</E
+M>penna e c</E
+M>tascabile</E
+M>calamaro</E

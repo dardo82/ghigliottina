@@ -1,0 +1,44 @@
+lanterna.txt
+"lanterna"
+"lanterna"
+"lanterna"
+"lanterna cinese"
+"lanterna controvento"
+"lanterna magica"
+*italiano
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1128
+M>lanterna</E
+M>lucerna</E
+M>cieca</E
+M>veneziana</E
+M>giapponese</E
+M>cinese</E
+M>lampioncino alla veneziana</E
+M>lampioncino giapponese</E
+M>cinese</E
+M>far lume</E
+M>trasparire come una l</E
+M>mostrare</E
+M>far vedere lucciole per lanterne</E
+M>mostrar vesciche</E
+M>la l</E
+M>di Diogene</E
+M>cercare con la l</E
+M>un uomo onesto come lui non si trova neppure a cercarlo con la l</E
+M>alla lanterna!</E
+M>cappello a lanterna</E
+M>a lucerna</E
+M>le l</E
+M>spalancare le l</E
+M>mi guardava stupito con quelle due lanterne</E
+M>dove le hai messe le tue lanterne?</E
+M>da proiezione</E
+M>diascopio</E
+M>magica</E
+M>Zauberlaterne</E
+M>la l</E
+M>di Genova</E
+M>la Lanterna</E
+M>rabazza</E
+M>tonnelletti</E
+M>lanterna di Aristotele</E

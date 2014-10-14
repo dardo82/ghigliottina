@@ -1,0 +1,26 @@
+paracadute.txt
+"corda che apre il paracadute legata al velivolo da cui si lancia"
+"lancio col paracadute"
+"paracadute"
+"salto col paracadute"
+"salto con il paracadute"
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier p. 1458
+M>para</E
+M>caduta</E
+M>parachute</E
+M>paracadutisti</E
+M>velatura</E
+M>calottino estrattore</E
+M>a calotta</E
+M>foro apicale</E
+M>ad ala</E
+M>ausiliario</E
+M>pilota</E
+M>calottino estrattore</E
+M>da pendio</E
+M>lanciare</E
+M>lanciarsi col p</E
+M>fare esercitazioni di lancio con paracadute</E
+M>fare da p</E
+M>a qualcuno</E
+M>freno p</E

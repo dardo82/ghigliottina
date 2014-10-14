@@ -1,0 +1,56 @@
+elezione.txt
+"elezione"
+"elezione"
+"elezione decisiva"
+"elezione supplementare"
+"per elezione"
+"votare in un'elezione"
+*[[designazione]], [[nomina]], [[incarico]], [[investitura]] 
+*[[ballottaggio]], [[votazione]]
+*[[rielezione]]
+*[[eleggere]], [[elettivo]], [[eletto]], [[elettorale]], [[elettorato]], [[elettore]]
+M>electio</E
+M>onis</E
+M>elig</E
+M>electus</E
+M>l’ho fatto di mia e</E
+M>di piena e</E
+M>di libera e</E
+M>Né per elezion mi si nascose</E
+M>Ma per necessità</E
+M>nella vostra e</E
+M>sta di tòrre qual più vi piace delle due</E
+M>di domicilio</E
+M>patria d’e</E
+M>Tommaseo</E
+M>nato a Sebenico</E
+M>fece dell’Italia la sua patria d’e</E
+M>popolo d’e</E
+M>Vaso d’e</E
+M>Vas electionis</E
+M>intervento di e</E
+M>dei vescovi</E
+M>dei cardinali</E
+M>l’e</E
+M>del papa</E
+M>del sindaco</E
+M>annullare</E
+M>convalidare un’elezione</E
+M>elezioni</E
+M>politiche</E
+M>amministrative</E
+M>comunali</E
+M>provinciali</E
+M>regionali</E
+M>indire</E
+M>rinviare le e</E
+M>elezioni a suffragio ristretto</E
+M>universale</E
+M>a collegio uninominale</E
+M>plurimo</E
+M>anticipate</E
+M>presentarsi alle e</E
+M>partecipare</E
+M>prendere parte alle e</E
+M> E. primarie</E
+M>le primarie</E

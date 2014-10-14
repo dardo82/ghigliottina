@@ -1,0 +1,46 @@
+punizione.txt
+"accettare la punizione"
+"auto punizione"
+"calcio di punizione"
+"calcio di punizione; tiro libero (rugby)"
+"dare una punizione esemplare a qualcuno"
+"fuggire; evitare una punizione"
+"per punizione"
+"punizione"
+"punizione crudele e fuori dal comune"
+"punizione del fuoco eterno"
+*''(specialmente di lieve entità)'' [[penalità]], [[penalizzazione]]
+*[[pena]], [[castigo]], [[sanzione]]
+*[[premio]], [[ricompensa]]
+M>punitio</E
+M>onis</E
+M>punire</E
+M>leggera</E
+M>grave</E
+M>dura</E
+M>severa</E
+M>esemplare</E
+M>minacciare</E
+M>dare</E
+M>infliggere una p</E
+M>avere</E
+M>subire</E
+M>meritare una p</E
+M>incorrere in una p</E
+M>il terrorista fu colpito dalla giusta p</E
+M>della legge</E
+M>per p</E
+M>non andrete al cinema</E
+M>camera di p</E
+M>calcio</E
+M>tiro di p</E
+M>punizione</E
+M>calcio di p</E
+M>diretto</E
+M>di prima</E
+M>calcio di p</E
+M>indiretto</E
+M>di seconda</E
+M>massima p</E
+M>battere la p</E
+M>dal limite</E

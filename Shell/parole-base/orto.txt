@@ -1,0 +1,18 @@
+orto.txt
+"orto"
+*[[ortolano]]
+M>acido ortofosforico</E
+M>acido ortoformico</E
+M>posizione orto</E
+M>forma orto</E
+M>xilene</E
+M>ortoxilene</E
+M>Vocabolario</E
+M>orto</E
+M>para</E
+M>orto</E
+M>para</E
+M>idrogeno</E
+M>orto</E
+M>para</E
+M>positronio</E

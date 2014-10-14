@@ -1,0 +1,3 @@
+pennino.txt
+"pennino"
+* [[penna stilografica]]

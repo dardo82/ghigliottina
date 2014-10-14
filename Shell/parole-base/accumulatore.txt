@@ -1,0 +1,17 @@
+accumulatore.txt
+"accumulatore"
+"accumulatore piombo-acido"
+#* ''accumulatore elettrico''
+* [http
+M>accumulator</E
+M>oris</E
+M>accumulateur</E
+M>trice</E
+M>è un avido accumulatore</E
+M>elettrico</E
+M>idraulico</E
+M>termico</E
+M>elettrico al piombo</E
+M>piastre dell’a</E
+M>distanziatori</E
+M>di salamoia</E

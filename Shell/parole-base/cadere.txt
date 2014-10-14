@@ -1,0 +1,221 @@
+cadere.txt
+"(cadere) in disgrazia"
+"(cadere) nella (solita) routine"
+"buttarsi, lasciarsi cadere"
+"cadere"
+"cadere"
+"cadere"
+"cadere"
+"cadere"
+"cadere"
+"cadere"
+"cadere"
+"cadere"
+"cadere"
+"cadere"
+"cadere"
+"cadere"
+"cadere"
+"cadere a gambe all'aria"
+"cadere a grosse gocce"
+"cadere a strapiombo"
+"cadere a terra"
+"cadere dal letto"
+"Cadere dalle nuvole"
+"cadere improvvisamente"
+"cadere in"
+"cadere in disgrazia"
+"cadere in disgrazia presso qualcuno"
+"cadere in disuso"
+"cadere in errore"
+"cadere in ginocchio"
+"cadere in letargo"
+"cadere in piedi"
+"cadere in rovina"
+"cadere in silenzio"
+"cadere originando un suono sordo"
+"cadere per"
+"cadere pesantemente"
+"cadere prima col naso"
+"cadere su"
+"cadere su"
+"cadere su"
+"cadere su un fianco, rovesciarsi"
+"cadere; calare di tono"
+"cadere; non riuscire"
+"cadere; scendere; pendere da; essere appeso a"
+"crollare, cadere"
+"far cadere"
+"far cadere all'improvviso"
+"far cadere su qcs"
+"fare cadere le braccia"
+"fatto cadere, gettato"
+"fatto cadere, gettato"
+"lasciar cadere"
+"lasciarsi cadere"
+"lasciarsi cadere sul divano"
+"lasciato cadere"
+"sgretolarsi, cadere in pezzi"
+"tagliare, far cadere"
+#*'''''cadere''' dal tetto'', '''''cadere''' da una finestra''
+#*''dopo alcuni colpi dell'ascia l'albero '''cadrà''' per terra''
+*[[scendere]], [[cascare]], [[capitombolare]], [[stramazzare]], [[ruzzolare]]
+*(''di edificio, roccia, eccetera'') [[precipitare]], [[crollare]], [[sprofondare]], [[staccarsi]], [[rotolare]], [[pendere]], [[penzolare]], piombare a terra, [[scivolare]], [[abbattersi]], [[ricadere]]
+*''(dell’ombra, del buio)'' [[calare]], [[diminuire]], andare giù, [[sparire]], [[scomparire]], [[svanire]], [[affievolirsi]]
+*(''scendere'') [[salire]], [[risalire]]
+*(''di edificio, roccia, eccetera'') alzarsi, sollevarsi
+*[[cadimento]], [[caduta]], [[caduto]]
+*''cadere ammalato''
+*''cadere in piedi''
+*''sentirsi cadere le braccia''
+*italiano
+*latino
+M>cad</E
+M>caddi</E
+M>cadésti</E
+M>cadrò</E
+M>cadrèi</E
+M>cagg</E
+M>càggia</E
+M>caggèndo</E
+M>essere</E
+M>da una finestra</E
+M>dal tetto</E
+M>dalla scala</E
+M>da cavallo</E
+M>in acqua</E
+M>a capo in giù</E
+M>a gambe all’aria</E
+M>la tazza gli cadde dalle mani</E
+M>gli è caduto un mattone in testa</E
+M>ti è caduto per</E
+M> terra il fazzoletto</E
+M>dalle nuvole</E
+M>in piedi come i gatti</E
+M>cascare</E
+M>in piedi</E
+M>è caduto un fulmine</E
+M>un bolide</E
+M>un meteorite</E
+M>cade la pioggia</E
+M>la neve</E
+M>la grandine</E
+M>la rugiada</E
+M>gli son caduti già tutti i capelli</E
+M>al cader delle foglie</E
+M>è caduto il tetto</E
+M>il soffitto</E
+M>un’impalcatura</E
+M>un albero</E
+M>il dramma cadde alla prima rappresentazione</E
+M>E caddi come corpo morto cade</E
+M>di bicicletta</E
+M>morto</E
+M>svenuto</E
+M>ferito</E
+M>lungo disteso</E
+M>supino</E
+M>bocconi</E
+M>bene</E
+M>male</E
+M>caduto da piccolo</E
+M>caduto dal seggiolone</E
+M>in combattimento</E
+M>sul campo</E
+M>in uno scontro</E
+M>nella battaglia caddero duemila uomini</E
+M>i soldati caduti nella prima guerra mondiale</E
+M>sulla breccia</E
+M>in ginocchio</E
+M>gli cadde ai piedi supplicandolo</E
+M>cadde sfinito sulla poltrona</E
+M>si lasciò c</E
+M>sul letto</E
+M>dal sonno</E
+M>dalla stanchezza</E
+M>malato</E
+M>in letargo</E
+M>in catalessi</E
+M>in deliquio</E
+M>in stato di coma</E
+M>è caduto nella più cupa disperazione</E
+M>i capelli gli cadevano sulla fronte</E
+M>lasciò c</E
+M>le braccia</E
+M>far c</E
+M>cascare le braccia</E
+M>un largo scialle le cadeva sulle spalle</E
+M>in piombo</E
+M>a piombo</E
+M>cader bene</E
+M>la tenda cadeva in mille pieghe</E
+M>la parete del monte cade a picco</E
+M>cadevano ormai le tenebre</E
+M>al cader della sera</E
+M>della notte</E
+M>il Sol che tra lontani monti</E
+M>Cadendo si dilegua</E
+M>l’accento cade sull’ultima sillaba</E
+M>la cesura cade a metà del piede</E
+M>mi cadde l’occhio su quella scritta</E
+M>il discorso cadde sui recenti sviluppi della situazione politica</E
+M>è un guaio che mi cade tra capo e collo</E
+M>mi è caduto nell’animo un sospetto</E
+M>Giusto giudicio da le stelle caggia Sovra ’l tuo sangue</E
+M>dev’essere caduta la maledizione sulla nostra casa</E
+M>le cose che cadono sotto i nostri occhi</E
+M>a proposito</E
+M>in acconcio</E
+M>quest’anno il Natale cade di venerdì</E
+M>Pasqua cade il 10 aprile</E
+M>nelle grinfie della polizia</E
+M>in mano ai nemici</E
+M>nelle mani dei briganti</E
+M>sotto le unghie</E
+M>negli artigli di uno strozzino</E
+M>in trappola</E
+M>nella rete</E
+M>sotto le sanzioni di legge</E
+M>in un errore</E
+M>in un equivoco</E
+M>in tentazione</E
+M>in colpa</E
+M>in peccato</E
+M>anche il giusto cade sette volte al giorno</E
+M>in rovina</E
+M>in servitù</E
+M>in disgrazia</E
+M>in miseria</E
+M>in basso</E
+M>nell’abiezione</E
+M>nell’eccesso opposto</E
+M>in oblio</E
+M>in dimenticanza</E
+M>in disuso</E
+M>diritti che cadono in prescrizione</E
+M>nel volgare</E
+M>nel manierato</E
+M>nel ricercato</E
+M>nell’esagerato</E
+M>nel generico</E
+M>nel secondo atto</E
+M>la commedia cade</E
+M>cade così ogni opposizione</E
+M>ogni sospetto</E
+M>caddero tutte le mie speranze</E
+M>di fronte a prove così schiaccianti</E
+M>cadde tutta la sua sicurezza</E
+M>ormai il vento cadeva</E
+M>il suo furore cadde come d’incanto</E
+M>sul cader del giorno</E
+M>la conversazione cadde a poco a poco</E
+M>lasciar c</E
+M>il discorso</E
+M>lasciar c</E
+M>una domanda</E
+M>lasciar c</E
+M>far c</E
+M>i fuochi</E
+M>comunque cada la cosa</E
+M>se ti cade d’incontrarlo</E
+M>le parole che cadono in consonante</E

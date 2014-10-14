@@ -1,0 +1,29 @@
+cocco.txt
+"albero del cocco"
+"cocco"
+"cocco"
+"cocco"
+"cocco di mamma"
+"crema di cocco"
+"dolce al cocco"
+"gelato al cocco"
+"latte di cocco"
+"noce di cocco"
+"olio di cocco"
+"palma da cocco"
+"palma da cocco"
+#*''[[cocco di mamma|'''cocco''' di mamma]]''
+*''(frutto e pianta del cocco)''come il 
+*''(insetti, batteri e carpelli)''dal 
+*''(pigmento)''dal 
+*''(uovo, prediletto)''voce [[onomatopeica]], analoga al 
+* (frutto) [[noce di cocco]]
+* (pianta) [[palma da cocco]]
+* (batterio) [[-cocco]], [[cocca]], [[coccidi]], [[coccidio]], [[cocco-bacillo]], [[coccoide]], [[coccola]]
+* (pigmento) [[coccinella]], [[cocciniglia]]
+* (prediletto) [[accoccolarsi]], [[cocca]], [[coccarda]], [[cocco di mamma]], [[coccodè]], [[coccolo]], [[coccoloni]], [[cucco]]
+M>coccus</E
+M>stafilococco</E
+M>micrococco</E
+M>gonococco</E
+M>cocco</E

@@ -1,0 +1,81 @@
+triangolo.txt
+"a forma di triangolo"
+"il Triangolo"
+"triangolo"
+"triangolo"
+"triangolo"
+"triangolo amoroso"
+"triangolo equilatero"
+"triangolo isoscele"
+"triangolo retto"
+#*''l'area del 
+* [[triangolare]], [[triangolarità]], [[triangolazione]]
+* [[equilatero]], [[isoscele]], [[scaleno]], [[rettangolo]], [[cateto]], [[ipotenusa]]
+*[[poligono]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'' edizione ca rtacea 2000-2001, Le Monnier p. 2194 
+*[[triangolo regolare]], [[triangolo equilatero]], [[triangolo equiangolo]]
+*[[triangolo acutangolo]]
+*[[triangolo rettangolo]]
+*[[triangolo ottusangolo]]
+*[[triangolo scaleno]]
+*[[triangolo isoscele]]
+*[[triangolo rettangolo isoscele]]
+*[[triangolo sferico]]
+M>triang</E
+M>lum</E
+M>tri</E
+M>ang</E
+M>lus</E
+M>lati del t.</E
+M>vertici del t.</E
+M>t. isoscele</E
+M>t. equilatero</E
+M>t. scaleno</E
+M>t. acutangolo</E
+M>t. ottusangolo</E
+M>t. rettangolo</E
+M>T. sferico</E
+M>a triangolo</E
+M>una stanza</E
+M>un campo a t.</E
+M>collocare una serie di sedie a t.</E
+M>ripiegare un tondino di ferro a t.</E
+M>disporsi</E
+M> sul terreno di gioco</E
+M> a t.</E
+M>in triangolo</E
+M>ritagliare un t. di cartone</E
+M>di stoffa</E
+M>ho acquistato un t. di terreno edificabile per costruirmi una casetta</E
+M>slip</E
+M>t. di prua</E
+M>t. di Tartaglia</E
+M>t. di Pascal</E
+M>t. aritmetico</E
+M>a+b</E
+M>t. della velocità</E
+M>t. delle velocità</E
+M>delle correnti</E
+M>t. delle velocità</E
+M>t. di colore</E
+M>dei colori</E
+M>cromatico</E
+M>colorimetrico</E
+M>collegamento a t.</E
+M>t. astronomico</E
+M>fondamentale</E
+M>t. di posizione</E
+M>t. d&#8217;errore</E
+M>di incertezza</E
+M>t. geodetico</E
+M>vertici</E
+M>lati</E
+M>t. delle vocali</E
+M>triangolo</E
+M>quadrilatero</E
+M>delle vocali</E
+M>T. industriale</E
+M>t. della morte</E
+M>ménage à trois</E
+M>Triangulum</E
+M>T. australe</E

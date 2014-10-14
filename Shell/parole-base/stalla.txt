@@ -1,0 +1,41 @@
+stalla.txt
+"mettere nella stalla"
+"porta della stalla"
+"stalla"
+"stalla"
+"stalla, mangiatoia"
+#* ''camera tua sembra proprio una 
+* [[stallatico]], [[stalliere]], [[stallone]]
+* [[balla]] di fieno, [[biada]], [[bue]], [[cavallo]], [[fattoria]], [[fieno]], [[fienile]]
+* ''dalle stelle alle '''stalle''''' 
+*italiano
+*latino
+*inglese
+M>*stall</E
+M>scuderia</E
+M>ovile</E
+M>porcile</E
+M>stalla</E
+M>s. per bovini</E
+M>s. fissa</E
+M>corsia di alimentazione</E
+M>s. libera</E
+M>paddock</E
+M>pulire</E
+M>rigovernare la s.</E
+M>portare i buoi nella s.</E
+M>ragazzo</E
+M>garzone</E
+M>mozzo di s.</E
+M>sentire odore di stalla</E
+M>dalle stelle alle s.</E
+M>chiudere la s. quando sono scappati i buoi</E
+M>questa casa è ridotta a una s.</E
+M>sembra una s.</E
+M>è una s.</E
+M>essere allevato in una s.</E
+M>Le s. di Augìa</E
+M>una s. che rende poco</E
+M>un&#8217;azienda agricola che ha una s. ben selezionata.</E
+M>Dare stalla</E
+M>io credo che sia ben fatto che noi diamo stalla a queste bestie</E

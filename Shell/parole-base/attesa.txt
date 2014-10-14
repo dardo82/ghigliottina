@@ -1,0 +1,58 @@
+attesa.txt
+"area di attesa per aeroplani"
+"aspettare; fermarsi; stare attaccato; stare in attesa"
+"attesa"
+"attesa di vita"
+"dolce attesa"
+"essere in attesa"
+"essere in attesa di"
+"essere in attesa\/essere incinta"
+"in attesa"
+"in attesa di"
+"in attesa di"
+"lista d'attesa"
+"lo stare in attesa"
+"mettere in attesa"
+"periodo d'attesa"
+"posizione di attesa"
+"restare in attesa"
+"restare in attesa"
+"restare in attesa di"
+"stanza d'attesa"
+"tempi di attesa"
+"teoria sul fatto di fornire un servizio lungo una coda d'attesa"
+"vale l'attesa"
+"volo circolare d'attesa"
+*[[pausa]], [[intervallo]], [[sospensione]], [[sosta]], [[fermata]], [[tappa]], [[indugio]]
+*[[aspettativa]], [[speranza]], [[prospettiva]], [[apprensione]], [[ansia]], [[inquietudine]], [[fiducia]]
+*[[inattesa]]
+*[[ansia]], [[aspettativa]], [[aspettazione]], [[aspetto]], [[curiosità]], [[dimora]], [[indugio]]
+M>l’a</E
+M>del treno</E
+M>sala d’a</E
+M>fare una lunga attesa</E
+M>grande era nel pubblico l’a</E
+M>dello spettacolo annunciato</E
+M>venir meno all’a</E
+M>deludere l’attesa</E
+M>in attesa</E
+M>in a</E
+M>di conoscere l’esito</E
+M>essere</E
+M>restare in a</E
+M>in a</E
+M>d’una tua risposta</E
+M>ti saluto cordialmente</E
+M>di attesa</E
+M>essere in posizione di a</E
+M>prendere una decisione di a</E
+M>in blocco</E
+M>tempo di a</E
+M>di una memoria</E
+M>lavoro di semplice a</E
+M>lavoro effettivo</E
+M>a. matematica</E
+M>speranza matematica</E
+M>valore di a.</E
+M>valore di aspettazione</E
+M>condizionata</E

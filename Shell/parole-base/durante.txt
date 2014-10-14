@@ -1,0 +1,24 @@
+durante.txt
+"durante"
+"durante"
+"durante il lavoro"
+"durante il periodo"
+"durante il tempo in cui"
+"durante l'intervallo"
+"durante la notte"
+"durante quale periodo"
+"durante un periodo di tempo"
+"goal effettuato durante il gioco"
+"persone che stanno nel loro paese durante una guerra all'estero"
+#* ''è rimasto in silenzio '''durante''' il viaggio'';
+*intanto che, mentre, nel corso di
+* all’epoca di, al tempo di
+* nello spazio di
+M>durare</E
+M>vita natural d</E
+M>avvenne durante la guerra che la reina di Francia infermò gravemente</E
+M>il giorno</E
+M>un mese</E
+M>l’intero anno</E
+M>la corsa</E
+M>la salita</E

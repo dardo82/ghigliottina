@@ -1,0 +1,17 @@
+marciapiede.txt
+"battere il marciapiede"
+"marciapiede"
+"marciapiede"
+*Enciclopedia [http
+M>marchepied</E
+M>marcher</E
+M>pied</E
+M>salire</E
+M> stare</E
+M>camminare sul m</E
+M>stretto</E
+M>largo</E
+M>strada senza marciapiede</E
+M>donna da m</E
+M>uomo da m</E
+M>battere il m</E

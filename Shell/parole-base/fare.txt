@@ -1,0 +1,144 @@
+fare.txt
+"(fare qualcosa) di nascosto"
+"a fare da cornice"
+"accogliere gli applausi, fare un inchino"
+"aiutare qc a fare qc"
+"andare a cavallo, fare equitazione"
+"andare a fare"
+"Andare a fare in culo"
+"andare a fare qcs"
+"andare a fare spese"
+"andare a fare un giro in bicicletta o in moto"
+"andare a fare un giro in macchina"
+"andare a fare una passeggiata"
+"andare a fare una scappata"
+"andare a prendere; a fare"
+"andare avanti; fare progressi"
+"andare avanti; fare progressi; procedere"
+"andare lontano; fare strada"
+"arrivare lontano; fare strada (fig.)"
+"aspettarsi di fare qualcosa"
+"aver fatto meglio a fare qcs."
+"aver fatto meglio a fare qcs."
+"avere a che fare"
+"avere a che fare"
+"avere a che fare con"
+"avere altro da fare"
+"avere altro da fare, avere cose più importanti da fare"
+"avere cose migliori da fare"
+"avere facilità di fare qcs. a mente"
+"avere lo stomaco di fare qs"
+"avere molto a che fare con"
+"avere molto da fare"
+"avere un po' di cose da fare"
+"avere un ruolo importante (nel fare qlc)"
+"avere una probabilità di fare qcs."
+"avere voglia di fare qcs, morire dalla voglia di fare qcs"
+"avere voglia di fare qualcosa"
+"bravo a fare qcs, bravo in qcs"
+"c'è poco da fare"
+"camminare con fare predatorio"
+"cavallo ammaestrato a fare determinati passi"
+"ce la può fare"
+"che ci posso fare?"
+"Che fare?"
+"che te lo dico a fare"
+"chi ce\/me lo fa fare?"
+"chiamare un taxi con un cenno, fare cenno a un taxi"
+"chiedere a qualcuno di fare qualcosa"
+"comandare, fare il capo, essere il capo"
+"compitare, fare lo spelling"
+"comportarsi stupidamente, fare lo stupido"
+"con chi credi di avere a che fare?"
+"con fare scettico, con fare dubbioso"
+"con poco si può fare molto"
+"conoscere, fare la conoscenza di"
+"consigliare a qualcuno di fare qualcosa"
+"contenitore per fare il burro"
+"continuare a fare qcs."
+"convincere qualcuno a fare qualcosa"
+"coprire qualcuno, fare da paravento a qualcuno"
+"cosa fare\/non fare"
+"cosa puoi fare"
+"cose da fare"
+"costringere qc a fare qc"
+"dare a qc il permesso di fare qcs"
+"dare un vantaggio a qcn, fare il gioco di qcn"
+"darsi da fare"
+"darsi da fare"
+"darsi da fare per"
+"darsi la pena di fare qualcosa"
+"darsi troppo da fare"
+"datti da fare"
+"dedicarsi a fare qcs, darsi da fare con qcs, darsi una mossa con qcs"
+"denunciare, fare la spia, pesare su"
+"determinato a fare qualcosa"
+"dimenticarsi di fare qc"
+"dissuadere qcn dal fare qcs"
+"dover fare qcs."
+"doversi sbattere a fare qcs"
+"durare; tenere duro; resistere; fare resistenza"
+"essere timido, fare il timido, comportarsi da timido"
+"fai quello che devi fare"
+"far fare"
+"far fare esercizio"
+"far fare una figura di merda"
+"fare"
+"fare"
+"fare"
+"fare"
+"fare"
+"fare"
+"fare"
+"fare"
+"fare"
+"fare"
+"fare, replace: farsi"
+"fare qc per sé"
+"fare, replace: farsi"
+"fare"
+"fare, replace: farsi"
+"fare, replace: farsi"
+"fare, replace: farsi"
+"fare"
+#*''il fare è più importante del dire''
+#* '''''ho fatto''' una casa con il [[Lego]]''
+#* ''
+#* ''
+#* ''
+*[[attività]], [[lavoro]], [[azione]], [[operosità]]
+*[[comportamento]], [[atteggiamento]], [[modo]], [[maniera]], [[portamento]], [[tono]], [[contegno]]
+*(del giorno, della notte) [[inizio]]
+*[[costruire]], [[fabbricare]], [[realizzare]]; [[confezionare]], [[preparare]], [[produrre]]; [[erigere]]
+*(di atto, gesto) [[eseguire]], [[compiere]], [[intraprendere]]; [[stipulare]]; [[commettere]]
+*[[creare]], dare origine, [[generare]], [[partorire]], [[procreare]]
+*(di opera) [[comporre]]
+*[[cucinare]], [[preparare]]
+*[[comperare]], [[procacciarsi]]
+* [[causare]], [[provocare]], [[suscitare]], [[originare]], [[determinare]], [[cagionare]], [[portare]], [[condurre]], dare luogo, dare adito
+*(di versi, suoni) [[emettere]]
+*(di odore) [[spandere]]
+*(di funzione, rito) [[celebrare]]; [[organizzare]]
+*(di periodo) [[trascorrere]], [[passare]]
+*(di documento, richiesta) [[scrivere]], [[compilare]]; [[inoltrare]]
+*[[pulire]], [[rassettare]]
+*[[annoverare]]
+*(di operazioni aritmetiche) dare come risultato
+*[[rendere]]
+*[[credere]], [[ritenere]], [[immaginare]]
+*[[eleggere]], [[nominare]]
+*[[formare]]
+*[[praticare]], [[esercitare]]
+*[[agire]], [[operare]], [[comportarsi]]
+* essere adatto, convenire, confarsi
+*(di periodo) [[compiersi]], [[terminare]], essere trascorso
+* fungere da
+*(di tempo) [[essere]]
+*[[lavorare]],[[cagionare]], [[formare]],[[giovare]],  [[spaventare]], [[sorprendere]], [[stupire]], [[disgustare]], [[nauseare]], [[infastidire]], [[sforzarsi]], [[lasciare]] 
+*[[rifare]], [[farsi]]
+*[[disfare]] 
+*[[farsi]]
+*'' far fuori''
+*''fare a botte''
+* italiano
+*inglese

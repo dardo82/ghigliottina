@@ -1,0 +1,107 @@
+fila.txt
+"a tenere le fila di tutto"
+"avere l'auto in doppia fila"
+"avere un posto in prima fila"
+"coda, fila"
+"di fila"
+"disporsi in fila"
+"disposto in fila"
+"fare la coda, fila"
+"fila"
+"fila"
+"fila"
+"fuoco di fila"
+"i ranghi e le fila"
+"in doppia fila"
+"in fila"
+"in fila"
+"in fila"
+"in fila"
+"in fila indiana"
+"in prima fila"
+"l'ultimo uomo di una fila"
+"le fila"
+"linea di fila"
+"mettersi in fila"
+"mettersi in fila"
+"mettersi in fila per due"
+"nessuno ti si fila"
+"parcheggiare in doppia fila"
+"parcheggiare in seconda fila"
+"prima fila"
+"reggere le fila"
+"restare in fila, restare in coda"
+"tirare le fila"
+"violino di fila"
+#*''il viale era costeggiato da una fila dic villette a schiera''
+#*''ha raccontato una fila di frottole''
+*[[sequela]]
+*''fare la fila''
+*'' di fila''
+*''in fila indiana''
+M>filo</E
+M>una f</E
+M>di soldati</E
+M>riga</E
+M>fila</E
+M>ordine</E
+M>ordinanza</E
+M>di fronte</E
+M>di fondo</E
+M>d’altezza</E
+M>una f</E
+M>di atleti</E
+M>di alunni</E
+M>una interminabile f</E
+M>di prigionieri</E
+M>la prima</E
+M>la seconda f</E
+M>per fila destr’</E
+M>per fila sinistr’</E
+M>stare in f</E
+M>mettere</E
+M>schierare</E
+M>ordinare</E
+M>tenere in f</E
+M>camminare</E
+M>avanzare in f</E
+M>procedere in f</E
+M>indiana</E
+M>serrare</E
+M>stringere le f</E
+M>fare la f</E
+M>capo fila</E
+M>capo di fila</E
+M>file</E
+M>militare nelle f</E
+M>di un partito</E
+M>disertare le f</E
+M>dell’organizzazione</E
+M>violino di fila</E
+M>ballerino di fila</E
+M>una f</E
+M>di sedie</E
+M>poltrone di prima</E
+M>di seconda f</E
+M>una f</E
+M>d’alberi</E
+M>di carri</E
+M>d’automobili</E
+M>due belle f</E
+M>di denti</E
+M>linea di fila</E
+M>colonna</E
+M>riga</E
+M>traversa</E
+M>una f</E
+M>di disgrazie</E
+M>una f</E
+M>di elogi</E
+M>d’improperî</E
+M>di fila</E
+M>è piovuto per cinque giorni di f</E
+M>ho scritto otto pagine di fila</E
+M>fuoco di fila</E
+M>un fuoco di f</E
+M>di domande</E
+M>fuoco di f</E

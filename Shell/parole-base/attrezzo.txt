@@ -1,0 +1,25 @@
+attrezzo.txt
+"attrezzo"
+"attrezzo, attrezzi"
+"attrezzo da giardino"
+"attrezzo elettrico"
+"attrezzo per modellare"
+"attrezzo per tagliare"
+"attrezzo; utensile"
+"manovrato a mano (di attrezzo)"
+*''A cattivo lavoratore ogni 
+*proverbi
+M>attraits</E
+M>attraire</E
+M>attrah</E
+M>un a</E
+M>di cucina</E
+M>di bottega</E
+M>gli a</E
+M>del falegname</E
+M>rurali</E
+M>teatrali</E
+M>navali</E
+M>utensile</E
+M>grandi a</E
+M>piccoli a</E

@@ -1,0 +1,51 @@
+sci.txt
+"giacca da sci"
+"pantaloni da sci"
+"pista da sci"
+"praticare lo sci nautico"
+"racchetta da sci"
+"salto con gli sci"
+"scarponi da sci"
+"sci"
+"attrezzo per sciare"
+"Quando si intende l'attrezzo, normalmente si usa il plurale: gli sci."
+"sci"
+"sci alpinismo"
+"sci alpino"
+"sci nautico"
+"sci nautico"
+"sci nautico"
+* [[elisci]], [[monosci]], [[pista da sci]], [[sciare]], [[sciolina]], [[sci-alpinismo]], [[sci-alpinista]], [[sci-alpinistico]], [[sci nordico]]
+* [[attacchi]], [[discesa]], [[funivia]], [[gatto delle nevi]],  [[neve]], [[pista]], [[racchette]], [[scarponi]], [[sciatore]], [[seggiovia]], [[slalom]]
+* [[sci-fi]] science fiction, fantascienza
+*Italiano
+*esperanto
+*inglese
+M>ski</E
+M>sci d&#8217;acqua</E
+M>nautici</E
+M>gara di sci</E
+M>un campione di sci</E
+M>fare dello sci</E
+M>sci alpino</E
+M>sci nordico</E
+M>sci di fondo</E
+M>fondo</E
+M>sci di fondo escursionistico</E
+M>sci-escursionismo</E
+M>sci-alpinismo</E
+M>sci acrobatico</E
+M>sci artistico</E
+M>freestyle</E
+M>sci estremo</E
+M>sci di velocità</E
+M>speed skiing</E
+M>chilometro lanciato</E
+M>sci orientamento</E
+M>sci d&#8217;erba</E
+M>sci</E
+M>sci nautico</E
+M>acquatico</E
+M>d&#8217;acqua</E
+M>idroscì</E
+M>monoscì</E

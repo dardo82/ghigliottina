@@ -1,0 +1,14 @@
+clan.txt
+"clan"
+"clan"
+"clan"
+*italiano
+*inglese
+M>clan</E
+M>clann</E
+M>planta</E
+M>clani</E
+M>un clan di affaristi</E
+M>i clan artistici e culturali della capitale</E
+M> l’organizzazione criminale coincide direttamente con l’economia</E
+M> la dialettica commerciale è l’ossatura del clan</E

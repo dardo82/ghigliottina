@@ -1,0 +1,13 @@
+falegname.txt
+"falegname"
+"lavorare come falegname"
+#*''non mi piace acquistare nei grandi magazzioni i mobili di legno, preferisco farmeli fare su misura dal falegname''
+*[[carpentiere]], [[ebanista]]
+*[[falegnameria]]
+*[[legno]]
+M>fare</E
+M>legname</E
+M>bottega</E
+M>laboratorio di f</E
+M>arnesi da falegname</E
+M>carpentiere</E

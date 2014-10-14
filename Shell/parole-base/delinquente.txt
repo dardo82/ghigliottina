@@ -1,0 +1,21 @@
+delinquente.txt
+"delinquente"
+"delinquente"
+"delinquente abituale"
+"delinquente giovanile"
+"delinquente minorenne"
+"delinquente professionale"
+*[[criminale]], [[assassino]]
+*[[innocente]]
+* [[delinquenza]]
+*[[reo]]
+M>delinquere</E
+M>abituale</E
+M>recidivo</E
+M>una banda di delinquenti</E
+M>si comporta come un d</E
+M>è un d</E
+M>pericoloso</E
+M>è un d</E
+M>nato</E
+M>è una vera delinquente</E

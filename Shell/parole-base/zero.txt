@@ -1,0 +1,188 @@
+zero.txt
+"a bilancio zero"
+"aliquota zero"
+"zero rated"
+"anno zero"
+"year zero"
+"attaccare violentemente; sparare a zero"
+"chilometri zero"
+"cominciare da zero"
+"con visibilità zero"
+"zero-zero"
+"crescita zero"
+"zero growth"
+"elemento zero"
+"zero element"
+"energia di punto zero"
+"zero-point energy"
+"giorno zero"
+"zero day"
+"grado zero"
+"zero grade"
+"gravità zero"
+"zero gravity"
+"ground zero; punto zero"
+"ground zero"
+"impatto zero"
+"zero impact"
+"km zero"
+"zero kilometres"
+"le chiacchiere stanno a zero"
+"matrice zero"
+"zero matrix"
+"meridiano zero"
+"misura zero"
+"measure zero"
+"numero zero"
+"test, zero"
+"zero"
+"ora zero"
+"zero hour"
+"pareggiare zero a zero"
+"prendere zero a scuola"
+"prendere zero a scuola"
+"punto zero"
+"zero point"
+"resettare qualcosa a zero, azzerare qualcosa"
+"reset sth to zero"
+"sotto zero"
+"below zero"
+"Sparare a zero"
+"sparare a zero, criticare"
+"tasso zero"
+"vettore zero"
+"zero vector"
+"zero"
+"zero"
+"zero"
+"zero"
+"zero"
+"zero"
+"zero"
+"zero"
+"zero, fail"
+"zero assoluto"
+"absolute zero"
+"zero dimensionale"
+"zero-dimensional"
+*[[sottozero]]
+*[[numero]], [[cifra]]
+*italiano
+*interlingua
+*inglese
+*lombardo
+M>zèphyrum</E
+M>Liber abbaci</E
+M>ifr</E
+M>nyá</E
+M>insieme vuoto</E
+M>zero</E
+M>dodici più z. è uguale a dodici</E
+M>sette volte z. fa z.</E
+M>zero via zero fa</E
+M>zero</E
+M>uno</E
+M>falso</E
+M>uno</E
+M>l’aereo parte alle ore zero precise</E
+M>ora zero</E
+M>il termometro segna zero gradi</E
+M>segna z.</E
+M>è a z.</E
+M>cinque gradi sopra z.</E
+M>sotto z.</E
+M>essere sotto zero</E
+M>zero gradi</E
+M>z. assoluto</E
+M>non c’è più benzina</E
+M> l’indice è a z.</E
+M>mettere a z. uno strumento</E
+M>riduzione a z.</E
+M>metodo di z.</E
+M>di compensazione</E
+M>di azzeramento</E
+M>principio z. della termodinamica</E
+M>temperatura</E
+M>sparare a z.</E
+M>con l’alzo a z.</E
+M>sparare con l’alzo abbattuto</E
+M>sparare a z. su uno</E
+M>contro qualcosa</E
+M>l’opposizione</E
+M>alla Camera</E
+M> ha sparato a z. sul governo</E
+M>contro la politica economica del governo</E
+M>Tagliare i capelli a z.</E
+M>rapare a z.</E
+M>z. in latino</E
+M>in matematica</E
+M>nel compito d’italiano</E
+M>z. in condotta</E
+M>dare</E
+M>avere</E
+M>meritare z.</E
+M>z. spaccato</E
+M>E le sue genti</E
+M>che n’aveva tante</E
+M> Furon stimate d’Alessandro un zero</E
+M>è uno scrittore che non vale</E
+M>che non conta uno z.</E
+M>nel consiglio d’amministrazione la sua opinione vale z.</E
+M>quanto z.</E
+M>in casa è la moglie che comanda</E
+M> lui conta meno che z.</E
+M>per quanto si sforzi</E
+M> non capirà mai uno z.</E
+M>quanto a soldi</E
+M> siamo ridotti a z.</E
+M>ridursi a z.</E
+M>energia di punto zero</E
+M>a temperatura zero</E
+M>Nullpunkt Energie</E
+M>trasferimento zero di calore</E
+M>temperatura zero</E
+M>punto zero</E
+M>punto origine</E
+M>gruppo zero</E
+M>Crescita zero</E
+M>crescita z. della popolazione di uno stato</E
+M>di una città</E
+M>delle vendite di un prodotto</E
+M>crescita z.</E
+M>sviluppo zero</E
+M>grado zero</E
+M>ridotto</E
+M>suffisso zero</E
+M>desinenza zero</E
+M>fer</E
+M>ferre</E
+M>ferre</E
+M>fers</E
+M>fert</E
+M>ferte</E
+M>deverbali a suffisso z.</E
+M>accuso</E
+M>accusa</E
+M>accusare</E
+M>classifica</E
+M>classificare</E
+M>utilizzo</E
+M>utilizzare</E
+M>a suffisso z.</E
+M>senza suffisso</E
+M>cerco</E
+M>trovo</E
+M>cercato</E
+M>trovato</E
+M>numero zero</E
+M>Ora zero</E
+M>l’ora z. dell’attacco aereo è ormai prossima</E
+M>anno zero</E
+M>Germania</E
+M>anno zero</E
+M>opzione zero</E
+M>tolleranza zero</E
+M>pagamento in 30 rate</E
+M> con interessi zero</E
+M>ho faticato tanto</E
+M>ma con risultato zero.</E

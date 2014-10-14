@@ -1,0 +1,45 @@
+calibro.txt
+"alto calibro"
+"calibro"
+"calibro"
+"calibro"
+"calibro di profondità"
+"del calibro"
+"misurare con il calibro"
+"pistola di grosso calibro"
+* (sostantivo) dall'[[arabo]] ''[[qālib]]'',  ossia "[[forma]]"
+* (voce verbale) 
+*''(di bocca di arma da fuoco)'' [[diametro]] 
+M>lib</E
+M>calibre</E
+M>piccoli</E
+M>medî</E
+M>grossi c</E
+M>piccolo</E
+M>medio</E
+M>grosso c</E
+M>cominciarono a sparare i grossi calibri</E
+M>un errore di grosso c</E
+M>un politicone di quel c</E
+M>due persone dello stesso c</E
+M>sono tutti d’un c</E
+M>i grossi c</E
+M>della finanza</E
+M>della politica</E
+M>fissi</E
+M>a misura fissa</E
+M>ad anello</E
+M>a tampone</E
+M>a combinazione</E
+M>Johannson</E
+M>a forchetta</E
+M>differenziali</E
+M>calibri passa e non passa</E
+M>variabili</E
+M>a corsoio</E
+M>compasso in asta</E
+M>a vite micrometrica</E
+M>palmer</E
+M>micrometro</E
+M>tipometro</E
+M>sticometro</E

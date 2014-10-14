@@ -1,0 +1,5 @@
+scarcerare.txt
+"scarcerare"
+M>carcere</E
+M>io scàrcero</E
+M>è stato scarcerato con tre anni di anticipo per l&#8217;amnistia</E

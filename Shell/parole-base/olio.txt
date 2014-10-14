@@ -1,0 +1,234 @@
+olio.txt
+"(olio) di guscio di palma"
+"a macchia d'olio"
+"a olio"
+"a olio"
+"alimentato a olio"
+"bruciatore a olio"
+"che contiene olio"
+"che contiene olio"
+"colore a olio"
+"colore a olio"
+"colore ad olio"
+"come l'olio e l'aceto"
+"coppa dell'olio"
+"fornace a olio"
+"friggendo in olio abbondante"
+"friggere in abbondante olio"
+"immersione in olio"
+"friggere in olio abbondante"
+"fritto in olio abbondante"
+"intriso d'olio"
+"lampada a olio"
+"lampada a olio"
+"latta d'olio"
+"minima pressione olio"
+"motore a olio"
+"nafta; olio combustibile"
+"olio"
+"olio"
+"olio"
+"olio d'oliva"
+"olio"
+"olio"
+"quadro, dipinto a olio"
+"olio animale"
+"olio base"
+"olio bianco"
+"olio combustibile"
+"olio combustibile"
+"olio d'oliva"
+"olio da bagno"
+"olio da cucina"
+"olio da taglio"
+"olio del trasformatore"
+"olio di arachidi"
+"olio di avocado"
+"olio di balena"
+"olio di bergamotto"
+"olio di burro"
+"olio di canapa"
+"olio di cocco"
+"olio di colza"
+"olio di cotone"
+"olio di eucalipto"
+"olio di fegato di merluzzo"
+"olio di foca"
+"olio di garofano"
+"olio di gomito"
+"olio di guscio di palma"
+"olio di lavanda"
+"olio di legno"
+"olio di legno"
+"olio di legno di sandalo, olio di sandalo"
+"olio di lino"
+"olio di mais"
+"olio di mandorle"
+"olio di noce"
+"olio di noce"
+"olio di noci"
+"olio di palma"
+"olio di palma"
+"olio di paraffina"
+"olio di patchouli"
+"olio di pesce"
+"olio di pino"
+"olio di ricino"
+"olio di rosa"
+"olio di rosmarino"
+"olio di salmone"
+"olio di scisto"
+"olio di sego"
+"olio di semi"
+"olio di semi"
+"olio di semi di canapa"
+"olio di semi di colza"
+"olio di semi di girasole"
+"olio di semi di lino"
+"olio di semi di lino"
+"olio di semi di soia"
+"olio di senape"
+"olio di sesamo"
+"olio e aceto"
+"olio e aceto; condimento"
+"olio edibile"
+"olio esausto"
+"olio leggero"
+"olio lubrificante"
+"olio lubrificante"
+"olio minerale"
+"olio motore"
+"olio per cucinare"
+"olio per insalate"
+"olio per mobili"
+"olio pesante"
+#*''per dimagrire non bisogna mangiare cibi fritti nell'olio''
+*[[lubrificante]]
+*[[oliare]]
+* (condimento) [[oliera]]
+*[[aceto]]
+* ''liscio come l''''olio'''''
+* ''gettare '''olio''' sul fuoco''
+* ''espandersi a macchia d''''olio'''''
+*Enciclopedia [http
+M>leum</E
+M>olî</E
+M>olî grassi</E
+M>Olî vegetali</E
+M>di oliva</E
+M>di girasole</E
+M>di arachide</E
+M>di soia</E
+M>siccativi</E
+M>semisiccativi</E
+M>di oliva</E
+M>olio</E
+M>di prima</E
+M>di seconda qualità</E
+M>limpido</E
+M>torbido</E
+M>rancido</E
+M>sardine</E
+M>tonno</E
+M>carciofini</E
+M>funghi sott’olio</E
+M>olio</E
+M>olio di oliva</E
+M>extra vergine d’oliva</E
+M>sopraffino vergine d’oliva</E
+M>fino vergine d’oliva</E
+M>vergine d’oliva</E
+M>d’oliva</E
+M>lampante</E
+M>di sansa</E
+M>da ardere</E
+M>per la lucerna</E
+M>lampada</E
+M>lume</E
+M>lumino a olio</E
+M>O. di semi</E
+M>di arachidi</E
+M>di cotone</E
+M>di girasole</E
+M>di mais</E
+M>di soia</E
+M>di cocco</E
+M>di lino</E
+M>di resina</E
+M>di ricino</E
+M>di resina</E
+M>vernici</E
+M>colori a o</E
+M>dipingere a o</E
+M>un quadro a o</E
+M>un olio</E
+M>un o</E
+M>di De Chirico</E
+M>pittura a olio</E
+M>chiaro come l’o</E
+M>zitto</E
+M>cheto come un o</E
+M>E per dell’ore poi resta lì fermo</E
+M>Duro</E
+M>in panciolle</E
+M>zitto come un o</E
+M>liscio come un o</E
+M>tutto è andato liscio come l’o</E
+M>la verità è come l’o</E
+M>torna sempre</E
+M>galla</E
+M>a macchia d’o</E
+M>gettare o</E
+M>sulle fiamme</E
+M>sulla vampa</E
+M>gettare o</E
+M>sui marosi</E
+M>sulle onde</E
+M>sacro</E
+M>santo</E
+M>estrema unzione</E
+M>dare</E
+M>amministrare</E
+M>ricevere l’o</E
+M>santo</E
+M>essere all’o</E
+M>santo</E
+M>ridursi all’o</E
+M>santo</E
+M>santo</E
+M>Olî animali</E
+M>olî</E
+M>grassi</E
+M>di fegato</E
+M>di piede</E
+M>Olî minerali</E
+M>grezzi</E
+M>grezzi</E
+M>greggi</E
+M>d’asfalto</E
+M>di scisto</E
+M>distillati</E
+M>residui</E
+M>combustibili</E
+M>lubrificanti</E
+M>isolanti</E
+M>dielettrici</E
+M>da tempra</E
+M>Diesel</E
+M>emulsionabili</E
+M>solubili</E
+M>da taglio</E
+M>idraulici</E
+M>dare</E
+M>iniettare l’o</E
+M>cambiare l’o</E
+M>Olî essenziali</E
+M>eterei</E
+M>volatili</E
+M>soffiato</E
+M>ispessito</E
+M>ossidato</E
+M>medicato</E
+M>solare</E
+M>olio di gomiti</E
+M>olio di gomito</E

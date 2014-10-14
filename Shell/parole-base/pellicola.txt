@@ -1,0 +1,43 @@
+pellicola.txt
+"pellicola"
+"pellicola"
+"pellicola"
+"pellicola a colori"
+"pellicola a colori"
+"pellicola cinematografica"
+"pellicola per alimenti"
+"pellicola per fare presa sullo skateboard"
+"pellicola sottile"
+"rottura, separazione o contrazione della pellicola d'acqua"
+*[[film]]
+M>pellic</E
+M>pellis</E
+M>film</E
+M>una p. metallica</E
+M>ricoprire qualcosa con una p. protettiva</E
+M>p. plastica</E
+M>film</E
+M>p. fotografica</E
+M>cinematografica</E
+M>avvolgere</E
+M>montare</E
+M>cambiare la pellicola</E
+M>p. in bianco e nero</E
+M>p. a colori</E
+M>p. per negative</E
+M>p. negative</E
+M>sbianca</E
+M>per diapositive</E
+M>piane</E
+M>banco ottico</E
+M>pellicola a pacco</E
+M>filmpack</E
+M>p. radiografica</E
+M>lastra radiografica</E
+M>lastra</E
+M>fotomeccanica</E
+M>pellicole lith</E
+M>una bella p</E
+M>una vecchia p</E
+M>un bel film</E
+M>un vecchio film</E

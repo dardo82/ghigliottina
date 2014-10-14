@@ -1,0 +1,88 @@
+manica.txt
+"asso nella manica"
+"di manica larga"
+"essere l'asso nella manica"
+"in manica di camicia"
+"isola inglese nella Manica"
+"manica"
+"manica"
+"strumento a forma di manica"
+"manica"
+"Manica"
+"manica a vento"
+"manica a vento"
+"manica di camicia"
+#*''Una 
+*[[banda]]
+*[[ammanicarsi]], [[ammanicato]], [[manicotto]]
+*[[mano]], [[mandrino]]
+*''essere in maniche di camicia''
+*''rimboccarsi, tirarsi su le maniche (per essere più libero nei movimenti)''
+*''essere di manica larga, stretta''
+*''è un altro paio di maniche''
+*''avere l'asso (o un asso) nella manica''
+*italiano
+*latino
+M>man</E
+M>manus</E
+M>manga</E
+M>manus</E
+M>le m</E
+M>della camicia</E
+M>della giacca</E
+M>del soprabito</E
+M>un vestito con le m</E
+M>lunghe</E
+M>una camicia con le m</E
+M>corte</E
+M>con le mezze maniche</E
+M>classica</E
+M>semplice</E
+M>con polso</E
+M>a frate</E
+M>a palloncino</E
+M>a gigot</E
+M>gigot</E
+M>a prosciutto</E
+M>jambon</E
+M>raglan</E
+M>a raglan</E
+M>essere</E
+M>stare in maniche di camicia</E
+M>ricevere qualcuno in maniche di camicia</E
+M>tirarsi su</E
+M>rimboccarsi le m</E
+M>avere l’asso nella m</E
+M>avere qualcuno nella m</E
+M>essere nella m</E
+M>di qualcuno</E
+M>esser di m</E
+M>larga</E
+M>stretta</E
+M>largo</E
+M>stretto di maniche</E
+M>è un altro paio di maniche</E
+M>quel che non va nelle m</E
+M>va nei gheroni</E
+M>da bombardiere</E
+M>mezze maniche</E
+M>manichette</E
+M>un mezze m</E
+M>i mezze m</E
+M>mezzemaniche</E
+M>per acqua</E
+M>manichetta</E
+M>a vento</E
+M>manicotto</E
+M>dell’aerostato</E
+M>d’aria</E
+M>sacco</E
+M>di Ippocrate</E
+M>filtro a m</E
+M>mal tagliata</E
+M>una m</E
+M>di ladri</E
+M>d’imbroglioni</E
+M>di farabutti</E
+M>sono tutti una m</E
+M>di mascalzoni</E

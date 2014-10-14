@@ -1,0 +1,14 @@
+artico.txt
+"artico"
+"circolo artico"
+"l'Artico"
+M>arct</E
+M>cus</E
+M>polo a</E
+M>circolo polare a</E
+M>regioni a</E
+M>mare a</E
+M>culture a</E
+M>l’emisfero a</E
+M>Venuto sei da l’a</E
+M>emisperio</E

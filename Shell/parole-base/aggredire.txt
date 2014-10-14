@@ -1,0 +1,23 @@
+aggredire.txt
+"aggredire"
+"aggredire"
+*[[assalire]], [[assaltare]], [[attaccare]], [[dare addosso]], [[scagliarsi]], [[avventarsi]]
+*''(a parole)'' [[insultare]], [[ingiuriare]] 
+*''(un problema)'' [[affrontare]], [[prendere di petto]]
+M>aggr</E
+M>gradi</E
+M>io aggredisco</E
+M>tu aggredisci</E
+M>due banditi lo aggredirono all’improvviso</E
+M>fu aggredito sulla via principale</E
+M>lo aggredì con aspre critiche</E
+M>uno con una domanda a bruciapelo</E
+M>con una scarica di insulti</E
+M>di invettive</E
+M>un argomento</E
+M>un problema</E
+M>una situazione</E
+M>l’esofago toracico viene aggredito per via transpleurica</E
+M>aggrèsso</E
+M>la nazione aggredita</E
+M>l’aggredito si difese accanitamente</E

@@ -1,0 +1,36 @@
+palmo.txt
+"a un palmo da terra"
+"lasciare con un palmo di naso"
+"palmo"
+"palmo"
+"palmo"
+"portare in palmo di mano"
+"portare qualcuno in palmo di mano"
+"restare con un palmo di naso"
+*[[spanna]]
+M>palmus</E
+M>palma</E
+M>spanna</E
+M>i&#8217; ne vedea trenta gran palmi Dal loco in giù dov&#8217;omo affibbia &#8217;l manto</E
+M>quadrato</E
+M>cubo</E
+M>avere la barba lunga un p</E
+M>lasciare con un p. di naso</E
+M> restare con un p</E
+M>di naso</E
+M>arrivare con un p</E
+M>di lingua fuori della bocca</E
+M>alto un p</E
+M>un p</E
+M>d&#8217;ombra</E
+M>possedere pochi p</E
+M>di terra</E
+M>i soldati hanno resistito all&#8217;urto senza cedere un p</E
+M>di terreno</E
+M>palmo a palmo</E
+M>il territorio fu riconquistato a p</E
+M>a p</E
+M>ha girato l&#8217;Italia a p</E
+M>a p</E
+M>palma</E
+M>tenere in palmo di mano</E

@@ -1,0 +1,307 @@
+carta.txt
+"alla carta"
+"asciugamano di carta"
+"avere carta bianca"
+"bomba carta"
+"carta"
+"carta"
+"foglio di carta"
+"carta"
+"carta"
+"carta a grana fine"
+"carta assegni"
+"carta assorbente"
+"carta autografica"
+"carta bianca"
+"carta canta"
+"carta carbone"
+"carta carburante"
+"carta catramata"
+"carta commerciale"
+"carta compressa"
+"carta copiativa"
+"carta crespa"
+"carta crespa"
+"paper Also: carta increspata"
+"carta d'identità"
+"carta d'identità"
+"carta da disegno"
+"carta da gabinetto"
+"More common “carta igienica”"
+"carta da gioco"
+"carta da gioco con dieci segni sulla faccia"
+"carta da giornale"
+"carta da lettera"
+"carta da lettere"
+"carta da lettere"
+"carta da lucido"
+"carta da musica"
+"carta da pacchi"
+"carta da parati"
+"carta da regalo"
+"carta da stampa"
+"carta dei servizi"
+"carta dei vini"
+"carta delle caramelle"
+"carta delle linee di livello"
+"carta di circolazione"
+"carta di credito"
+"carta di debito"
+"carta di riso"
+"carta di seta"
+"carta fatta dal papiro"
+"carta fedeltà, carta clienti, carta acquisti"
+"carta filtrante"
+"carta fisica"
+"carta fotografica"
+"carta igienica"
+"carta intestata"
+"carta libera"
+"carta non bollata per atti ufficiali"
+"carta magnetica"
+"carta marmorizzata"
+"carta meteorologica"
+"carta meteorologica"
+"carta meteorologica per navigatori e marinai"
+"carta millimetrata"
+"carta oleata"
+"carta oleata"
+"carta orografica"
+"carta patinata"
+"carta per appunti"
+"carta per appunti"
+"carta per appunti"
+"carta per contatto"
+"carta per progetti"
+"carta per scrivere"
+"carta pergamena"
+"carta reattiva"
+"carta ricaricabile"
+"carta semplice"
+"carta stagnola, carta argentata"
+"carta stampata"
+"carta stampata"
+"carta straccia"
+"carta straccia, cartastraccia"
+"carta da buttare, stropicciata"
+"carta straccia, cartastraccia"
+"carta di nessun valore, buona solo per avvolgere"
+"carta straccia, ritagli di carta"
+"carta stradale"
+"carta telata"
+"carta traforata per lo stencil"
+"carta trasparente per ricalcare"
+"carta velina"
+"carta velina"
+"carta verde"
+"carta vergata"
+"carta vetrata"
+"cestino della carta"
+"cestino per la carta"
+"cestino per la carta"
+"come la carta"
+"dare carta bianca"
+"di carta"
+"di carta per regali"
+"di carta velina"
+"di carta vetrata"
+#* ''Riciclare la '''carta''' è molto importante.''
+#* ''La '''carta''' dei diritti dell'uomo.''
+*[[foglio]], [[pagina]]
+*''(burocrazia)'' [[documento]], [[attestato]], [[certificato]], [[atto]]
+*(di princìpi) [[statuto]], [[dichiarazione]], [[costituzione]], [[ordinamento]], [[legge]]
+*(al ristorante) [[menu]]
+*(moneta cartacea ) [[banconota]], [[biglietto]], [[cartamoneta]]
+*''(specialmente al plurale)''[[scritto]], [[lettera]],  
+*[[carapecora]], [[cartapesta]],[[cartiera]], [[cartolaio]], [[cartoleria]], [[cartoccio]], [[cartella]], [[cartello]], [[cartuccia]], [[cartucciera]], [[carteggio]], [[incarto]], [[incartamaneto]], [[scartoccio]], [[scartoffia]], [[scarto]]
+*[[tessera]]
+*''dare 
+*italiano
+*spagnolo
+M>charta</E
+M>charta papyri</E
+M>charta pergamena</E
+M>cariche</E
+M>a mano</E
+M>a macchina</E
+M>fini</E
+M>mezzofini</E
+M>andanti</E
+M>da impressione</E
+M>da scrivere</E
+M>rigata</E
+M>quadrettata</E
+M>da lettere</E
+M>da minuta</E
+M>da musica</E
+M>da stampa</E
+M>assorbenti</E
+M>da involgere</E
+M>da involto</E
+M>da imballo</E
+M>da parati</E
+M>di Francia</E
+M>igienica</E
+M>speciali</E
+M>per valori</E
+M>patinata</E
+M>pergamenata</E
+M>metallizzata</E
+M>velina</E
+M>smerigliata</E
+M>smeriglio</E
+M>vetrata</E
+M>carbone</E
+M>mettere in</E
+M> c.</E
+M>affidare alla c</E
+M>rimanere sulla c</E
+M>insudiciare</E
+M>impiastrare</E
+M>imbrattare la c</E
+M>bollata</E
+M>da bollo</E
+M>legale</E
+M>libera</E
+M>semplice</E
+M>Tuttavia avrò presto il mio benservito Forse in carta da bollo da presentare Chissà a quale burocrate</E
+M>protocollo</E
+M>commerciale</E
+M>vergatina</E
+M>cartina</E
+M>di carta</E
+M>una casa di c</E
+M>una repubblica di c</E
+M>programmi</E
+M>iniziative di carta</E
+M>una tigre di c</E
+M>castello di carte</E
+M>avere la scrivania piena di carte</E
+M>riordinare le c</E
+M>le proprie c</E
+M>le sacre c</E
+M>più ridon le c</E
+M>Che pennelleggia Franco Bolognese</E
+M>gli studi leggiadri Talor lasciando e le sudate c</E
+M>carta</E
+M>foglio</E
+M>recto</E
+M>verso</E
+M>a carta 12 r</E
+M>12 v</E
+M>recto</E
+M>verso</E
+M>avere</E
+M>mandare a carte quarantotto</E
+M>da visita</E
+M>biglietto da</E
+M>visita</E
+M>carta</E
+M>lista delle vivande</E
+M>mangiare alla c</E
+M>a prezzo fisso</E
+M>moneta</E
+M>monetata</E
+M>carte</E
+M>valori</E
+M>commerciale</E
+M>finanziaria</E
+M>di credito</E
+M>di favore</E
+M>di comodo</E
+M>cambiale</E
+M>di assegno</E
+M>charta</E
+M>carta</E
+M>atlantica</E
+M>del lavoro</E
+M>costituzionale</E
+M>statuto</E
+M>Magna Carta</E
+M>Magna Charta</E
+M>d’identità</E
+M>annonaria</E
+M>di circolazione e immatricolazione</E
+M>verde</E
+M>strumentale</E
+M>avere le c</E
+M>in regola</E
+M>fare le c</E
+M>per sposarsi</E
+M>essere disposto a far c</E
+M>false per qualcuno</E
+M>avere</E
+M>dare c</E
+M>bianca</E
+M>canta e villan dorme</E
+M>un pezzo di c</E
+M>chiffon de papier</E
+M>voleva rilasciarmi una ricevuta</E
+M>una dichiarazione</E
+M>un impegno scritto</E
+M>ma che me ne faccio io di un pezzo di c</E
+M>hai studiato tanti anni per prendere la laurea</E
+M>e ora che cos’hai? un pezzo di carta!</E
+M>Carte da gioco</E
+M>carte</E
+M>c. francesi</E
+M>c. napoletane</E
+M>piacentine</E
+M>triestine</E
+M>c. da poker</E
+M>c. per il mercante in fiera</E
+M>giocare a carte</E
+M>alle c</E
+M>mescolare</E
+M>scozzare</E
+M>alzare le c</E
+M>dare le c</E
+M>fare le c</E
+M>chiamare una c</E
+M>calare una c</E
+M>aver buone c</E
+M>in mano</E
+M>giocare</E
+M>rischiare una c</E
+M>giocare</E
+M>rischiare l’ultima c</E
+M>giocare una grossa c</E
+M>una c</E
+M>importante</E
+M>sapendo bene che giocavano una gran c</E
+M>ma convinti che non c’era da far altro</E
+M>conclusero di rincarare il pane</E
+M>giocare a c</E
+M>scoperte</E
+M>mettere le c</E
+M>in tavola</E
+M>cambiare le c</E
+M>in tavola</E
+M>imbrogliare le c</E
+M> chi ha fortuna in amor</E
+M>fortunato in amor</E
+M>non giochi a carte</E
+M>Carte</E
+M>leggere le c</E
+M>farsi fare le carte</E
+M>geografica</E
+M>piante</E
+M>mappe catastali</E
+M>topografiche</E
+M>corografiche</E
+M>generali</E
+M>fisiche</E
+M>c. politiche</E
+M>c. economiche</E
+M>c. geofisiche</E
+M>mute</E
+M>batimetriche</E
+M>nautiche</E
+M>automobilistiche</E
+M>stradali</E
+M>storiche</E
+M>archeologiche</E
+M>etniche</E
+M>linguistiche</E
+M>celesti</E
+M>lunare</E

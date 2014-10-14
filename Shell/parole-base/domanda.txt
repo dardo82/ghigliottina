@@ -1,0 +1,110 @@
+domanda.txt
+"buona domanda; bella domanda"
+"curva della domanda"
+"domanda"
+"domanda"
+"domanda allusiva"
+"domanda cruciale"
+"domanda di ossigeno biochimico"
+"domanda di ossigeno biologico"
+"domanda di riserva"
+"domanda diretta"
+"domanda in eccedenza"
+"domanda insidiosa"
+"domanda precedente"
+"domanda retorica"
+"domanda riconvenzionale"
+"evitare un compito, una domanda, ecc."
+"fare domanda"
+"fare domanda"
+"fare domanda per"
+"fare domanda per un lavoro"
+"fare una domanda"
+"fare una domanda"
+"fare una domanda"
+"fare una domanda"
+"fare una domanda"
+"forte domanda"
+"in risposta alla Sua domanda"
+"incontro tra domanda ed offerta"
+"la domanda si è dimezzata"
+"la domanda sorge spontanea"
+"modulo di domanda"
+"porre una domanda"
+"porre una domanda"
+"presentare una domanda"
+"prezzo di domanda"
+"una domanda a piacere"
+"una domanda al volo"
+"una domanda trabocchetto"
+* [[interrogazione]],[[interrogativo]], [[interpellanza]], [[invito]], [[proposta]], [[preghiera]], [[invocazione]]
+* [[quiz]], [[problema]], [[questione]], [[quesito]]
+* [[petizione]], [[ricorso]], [[istanza]]
+* ''(a un ufficio, un'autorità ecc.)'' [[petizione]]
+* [[risposta]], [[ottenimento]]
+* [[domandare]]
+* [[soluzione]]
+* Enciclopedia [http
+M>fare</E
+M>rivolgere una d</E
+M>soddisfare a una d</E
+M>strana</E
+M>lecita</E
+M>importuna</E
+M>inutile</E
+M>sciocca</E
+M>è una d</E
+M>assurda la tua</E
+M>i bambini fanno spesso delle d</E
+M>imbarazzanti</E
+M>non fate troppe d</E
+M>mi confondi con tante d</E
+M>sono d</E
+M>da farsi queste?</E
+M>che domanda!</E
+M>che domande!</E
+M>di grammatica</E
+M>di storia</E
+M>di geometria</E
+M>il professore mi ha fatto solo due d</E
+M>non ho ben capito la d</E
+M>rispondere con sicurezza alle domande</E
+M>dicotomica</E
+M>aperta</E
+M>domande a batteria</E
+M>in carta bollata</E
+M>in carta semplice</E
+M>fare d</E
+M>di ammissione agli esami</E
+M>presentare d</E
+M>d’impiego</E
+M>di sussidio</E
+M>di esonero dalle tasse</E
+M>accogliere</E
+M>esaudire</E
+M>rifiutare</E
+M>respingere una d</E
+M>è stato trasferito per sua d</E
+M>dietro sua domanda</E
+M>giudiziale</E
+M>solvibile</E
+M>offerta</E
+M>la d</E
+M>di abitazioni</E
+M>l’andamento della d</E
+M>di carne bovina</E
+M>la crisi della d</E
+M>dell’alluminio</E
+M>la d</E
+M>di denaro liquido</E
+M>la d</E
+M>di agrumi è stata ieri di gran lunga inferiore all’offerta</E
+M>individuale</E
+M>curva di d</E
+M>elasticità della d</E
+M>prezzo di d</E
+M>interna</E
+M>globale</E
+M>aggregata</E
+M>Legge della d</E
+M>e dell’offerta</E

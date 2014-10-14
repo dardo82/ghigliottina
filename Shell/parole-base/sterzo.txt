@@ -1,0 +1,4 @@
+sterzo.txt
+"piantone dello sterzo"
+"sterzo"
+*[[cremagliera]], [[volante]], [[manubrio]]

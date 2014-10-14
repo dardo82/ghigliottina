@@ -1,0 +1,22 @@
+arteria.txt
+"arteria"
+"arteria"
+"arterial road"
+"arteria carotidea"
+"arteria coronarica"
+"arteria femorale"
+"arteria iliaca"
+"arteria polmonare"
+#*'''''Arteria''' stradale''
+*[[arterioso]]
+M>arteria</E
+M>tunica interna</E
+M>intima</E
+M>tunica media</E
+M>tunica esterna</E
+M>avventizia</E
+M>le affollate a</E
+M>del centro di New York</E
+M>le principali a</E
+M>del traffico</E
+M>fluviali</E

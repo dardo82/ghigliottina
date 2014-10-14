@@ -1,0 +1,109 @@
+studiare.txt
+"leggere; studiare"
+"leggere; studiare; piacere"
+"studiare"
+"studiare"
+"studiare"
+"studiare"
+"studiare"
+"studiare (un argomento)"
+"studiare a casa"
+"studiare come un matto"
+"studiare come un matto"
+"studiare da privatista"
+"studiare per diventare"
+"studiare un offerta"
+"studiare una parte per sostituire l'attore"
+#*devo 
+*[[ istruirsi]], [[addottrinarsi]], [[apprendere]], [[imparare]] 
+*[[studente]], [[studio]]
+M>io stùdio</E
+M>s. la fisica</E
+M>la matematica</E
+M>la filosofia</E
+M>la letteratura</E
+M>la musica</E
+M>s. ingegneria</E
+M>architettura</E
+M>medicina</E
+M>s. per ingegnere</E
+M>per architetto</E
+M>per medico</E
+M>s. i principî della termodinamica</E
+M>un teorema</E
+M>le equazioni di 3&#176; grado</E
+M>il pensiero di Kant</E
+M>s. Dante</E
+M>Manzoni</E
+M>imparare</E
+M>a memoria</E
+M>un canto di Leopardi</E
+M>s. le lingue straniere</E
+M>s. l&#8217;inglese</E
+M>il russo</E
+M>s. al liceo</E
+M>all&#8217;università</E
+M>all&#8217;accademia di belle arti</E
+M>s. privatamente</E
+M>s. bene</E
+M>male</E
+M>con difficoltà</E
+M>con scarso impegno</E
+M>avere voglia</E
+M>poca voglia di s.</E
+M>è un ragazzo intelligente</E
+M> ma studia poco</E
+M>in casa non hanno i mezzi per farlo s.</E
+M>è uno che non ha studiato</E
+M> ma è lo stesso un ottimo tecnico.</E
+M>studiare in</E
+M>studiare a</E
+M>studere alicui rei</E
+M>Per questo l&#8217;Evangelio e i dottor magni Son derelitti</E
+M> e solo ai Decretali Si studia</E
+M>s. la soluzione di un problema economico</E
+M>s. un nuovo procedimento industriale</E
+M>s. un piano di attacco</E
+M>di difesa</E
+M>ha studiato una nuova maniera per vincere al totocalcio</E
+M>sta studiando il modo di apparir giovane</E
+M>l&#8217;aveva studiata da un pezzo</E
+M>le studia tutte</E
+M>s. il cuore umano</E
+M>s. il carattere di una persona</E
+M>s. un problema</E
+M>s. le mosse dell&#8217;avversario</E
+M>s. la situazione</E
+M>s. il terreno</E
+M>s. le carte</E
+M>s. un pezzo di musica</E
+M>s. la parte</E
+M>s. un nuovo passo di danza</E
+M>un nuovo esercizio acrobatico</E
+M>s. le parole</E
+M>s. i gesti</E
+M>le mosse</E
+M>tutti quegli occhi addosso alla poveretta l&#8217;obbligavano a studiar continuamente il suo contegno</E
+M>avere</E
+M>O mio tenero verso</E
+M> Di chi parlando vai</E
+M> Che studi esser più terso E polito che mai?</E
+M>studiava di restare calmo</E
+M>studiava con ogni mezzo di non farsi scoprire</E
+M>studiarsi d&#8217;essere buono</E
+M>d&#8217;essere breve</E
+M>L&#8217;uno e l&#8217;altro il sostiene</E
+M> e via pur sempre Con atti e con parole Studiasi fargli core</E
+M>uscito fuori Lapaccio</E
+M> studia il fante che selli le bestie</E
+M>non ci siamo sì saputi studiare</E
+M> che noi non siam qui pure a così fatta ora ... giunti</E
+M>s. il passo</E
+M>Non v&#8217;arrestate ma studiate il passo</E
+M>studiò poi il passo</E
+M> per raggiunger colui che aveva preso come per guida</E
+M>s. le parole</E
+M>i gesti</E
+M>il che molto più si conviene nelle scuole tra gli studianti che tra noi</E
+M>era un gran studiante</E
+M> che aveva in mente i nomi di tutte le stelle e conosceva la luna meglio di tutti</E

@@ -1,0 +1,25 @@
+numeroso.txt
+"essere numeroso"
+"numeroso"
+M>numerosus</E
+M>num</E
+M>rus</E
+M>una famiglia</E
+M>una classe n</E
+M>avere una n</E
+M>clientela</E
+M>una compagnia molto numerosa</E
+M>ci sono stati n</E
+M>casi di tifo</E
+M>lo si ricava da n</E
+M>indizî</E
+M>ha ottenuto n</E
+M>consensi</E
+M>ha commesso n</E
+M>errori</E
+M>i cittadini accorsero numerosi</E
+M>indefinito</E
+M>uno scrittore</E
+M>un poeta</E
+M>un oratore numeroso</E
+M>la folla si adunò numerosamente nella piazza</E

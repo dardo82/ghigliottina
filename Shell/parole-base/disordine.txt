@@ -1,0 +1,75 @@
+disordine.txt
+"disordine"
+"disordine civile"
+"disordine da deficit dell'attenzione"
+"disordine mentale"
+"disordine mentale"
+"in disordine"
+"in disordine"
+"in disordine"
+"in disordine"
+"in disordine"
+"in disordine, all'aria, nei guai"
+"mettere in disordine"
+"mettere in disordine"
+"mettere in disordine"
+"relativo al disordine"
+"tipico del ripostiglio, cassetto in disordine"
+*(1) [[confusione]], [[caos]], [[casino]]
+*(2) [[eccesso]], [[intemperanza]]
+*(3) [[tumulto]]
+*[[ordine]]
+*[[disordinare]], [[disordinato]]
+M>dis</E
+M>ordine</E
+M>nel salotto c’è un d</E
+M>che fa spavento</E
+M>in quella casa regna il d</E
+M>vivere in mezzo al d</E
+M>essere amante del d</E
+M>mettere</E
+M>portare il d</E
+M>dove entra lui entra il d</E
+M>nelle idee</E
+M>in uno scritto</E
+M>nel suo cervello c’è un gran d</E
+M>mentale</E
+M>da un d</E
+M>nasce un ordine</E
+M>un d</E
+M>ne fa cento</E
+M>l’ordine è pane</E
+M>il d</E
+M>è fame</E
+M>In disordine</E
+M>negozio</E
+M>casa</E
+M>scrivania in d</E
+M>tenere</E
+M>mettere</E
+M>lasciare in d</E
+M>avere le vesti</E
+M>i capelli in d</E
+M>essere in d</E
+M>trovarsi in d</E
+M>fuggire in d</E
+M>c’è un gran d</E
+M>nelle poste</E
+M>il d</E
+M>del bilancio</E
+M>degli affari</E
+M>del patrimonio</E
+M>delle finanze statali</E
+M>nel mangiare</E
+M>nel bere</E
+M>nei piaceri</E
+M>i d</E
+M>accorciano la vita</E
+M>fare disordini</E
+M>se mai ha da fare qualche d</E
+M>non lo faccia mai nella quantità del vino</E
+M>sono accaduti gravi d</E
+M>durante lo sciopero</E
+M>ci sono stati dei d</E
+M>in città</E
+M>si temevano disordini</E

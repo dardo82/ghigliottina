@@ -1,0 +1,9 @@
+turco.txt
+"bagno turco"
+"caffè turco"
+"in turco"
+"turco"
+"turco"
+"cittadino, nativo turco"
+"turco"
+*italiano

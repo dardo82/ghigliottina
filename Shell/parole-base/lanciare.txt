@@ -1,0 +1,90 @@
+lanciare.txt
+"dare una spinta a qualcosa, lanciare qualcosa"
+"gettare, lanciare"
+"lanciare"
+"lanciare"
+"lanciare"
+"lanciare"
+"lanciare"
+"lanciare con un razzo"
+"lanciare i dadi"
+"lanciare il guanto di sfida"
+"lanciare in aria una moneta"
+"lanciare ingiurie su qcn"
+"lanciare sassi"
+"lanciare sul mercato"
+"lanciare un appello"
+"lanciare un attacco"
+"lanciare un incantesimo"
+"lanciare un incantesimo su"
+"lanciare un messaggio"
+"lanciare un sasso in uno stagno"
+"lanciare un'occhiata furtiva a qualcuno"
+"lanciare una boccia"
+"lanciare una corda"
+"lanciare una frecciatina a (frecciata)"
+"lanciare una stampa"
+"lanciare uno sguardo"
+"scagliarsi, lanciare, replace: scagliarsi, lanciarsi"
+*[[tirare]], [[scaraventare]], [[divulgare]], [[pubblicizzare]], [[reclamizzare]], [[gettare]],  [[buttare]]
+*[[lanciarsi]], [[rilanciare]]
+M>lanceare</E
+M>lanc</E
+M>io làncio</E
+M>lo re in prima lanciò e fedì lo re Vermiglio</E
+M>E quindi viene il duol che sì li lancia</E
+M>una freccia</E
+M>un sasso</E
+M>un razzo</E
+M>l’amo</E
+M>il disco</E
+M>una bomba a mano</E
+M>un siluro</E
+M>lanciare</E
+M>bombe</E
+M>spezzoni incendiarî</E
+M>munizioni</E
+M>viveri</E
+M>il cavallo</E
+M>i cani</E
+M>gettare</E
+M>un insulto</E
+M>una maledizione</E
+M>un’occhiata</E
+M>stavamo viaggiando quando qualcuno ha lanciato un urlo</E
+M> mi sono girato e ho visto una signora</E
+M>accasciata sul pavimento</E
+M>la macchina a 180 l’ora</E
+M>un velivolo</E
+M>un aliante</E
+M>l’elica</E
+M>un giocatore</E
+M>i soldati si lanciarono all’assalto</E
+M>lanciarsi all’inseguimento</E
+M>lanciarsi nel vuoto</E
+M>lanciarsi da un aereo col paracadute</E
+M>si lanciò contro di lui col pugno alzato</E
+M>E un serpente con sei piè si lancia Dinanzi a l’uno</E
+M>e tutto a lui s’appiglia</E
+M>lanciarsi in un’impresa</E
+M>in un’attività</E
+M>lanciarsi nella politica</E
+M>lanciarsi nella discussione</E
+M>nella polemica</E
+M>ormai s’era lanciato</E
+M>e non era facile fermarlo</E
+M>un’idea</E
+M>una proposta</E
+M>un proclama</E
+M>un manifesto</E
+M>un’invenzione</E
+M>un nuovo dentifricio</E
+M>un libro</E
+M>un periodico</E
+M>un film</E
+M>un prestito</E
+M>una persona</E
+M>è stato suo zio a lanciarlo nella carriera diplomatica</E
+M>uno scrittore</E
+M>un attore</E
+M>una stella del cinema</E

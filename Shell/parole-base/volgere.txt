@@ -1,0 +1,148 @@
+volgere.txt
+"volgere"
+"volgere"
+"volgere"
+"volgere"
+"volgere, replace: volgersi"
+"volgere a favore"
+"volgere al reale"
+"volgere al termine"
+"volgere l'attenzione verso"
+#*'''''ho volto''' la prua della nave verso oriente''
+#*''La riunione '''volge''' al termine''
+*[[dirigere]], [[orientare]], [[tendere]]
+*[[svoltare]], [[piegare]], [[girare]]
+*[[allontanarsi]]
+*[[rivolgere]], [[capovolgere]], [[volgimento]]
+*[[direzione]], [[movimento]], [[voltare]]
+M>io vòlgo</E
+M>tu vòlgi</E
+M>vòlsi</E
+M>volgésti</E
+M>vòlto</E
+M>voltare</E
+M>rivolgere</E
+M>dirigere</E
+M>v. gli occhi</E
+M>lo sguardo</E
+M>il viso</E
+M>Così tutta la gente che lì era</E
+M> Volgendo ’l viso</E
+M> raffrettò suo passo</E
+M>tu volgi intanto A’ miei versi l’orecchio</E
+M>Colei che vera al portamento Diva In me volgeva sue luci beate</E
+M>v. le spalle</E
+M>scusate se vi volgo le spalle!</E
+M>mi ha volto le spalle senza rispondermi</E
+M> quel villano</E
+M>v. le spalle alla fortuna</E
+M>Per farvi al bel desio volger le spalle</E
+M>v. il passo</E
+M>i passi</E
+M>v. il cammino verso un luogo</E
+M>v. la prua verso la riva</E
+M>v. le insegne</E
+M>le armi contro il nemico</E
+M>e come seppe</E
+M> verso una selva grandissima volse il suo ronzino</E
+M>v. il pensiero</E
+M>la mente</E
+M>il saluto</E
+M>la parola</E
+M>v. l’animo a</E
+M>v. l’ira</E
+M>l’odio contro</E
+M>or volgi Le tue cure per poco ad altro obbietto Non indegno di te</E
+M>perché hai le gentili Forme e l’ingegno docile Vòlto a studj virili?</E
+M>infin ch’arriva Colà dove la via E dove il tanto affaticar fu volto</E
+M>v. la chiave nella toppa</E
+M>Io son colui che tenni ambo le chiavi Del cor di Federigo</E
+M> e che le volsi</E
+M> Serrando e diserrando</E
+M> sì soavi</E
+M>E tempra e volge</E
+M> come vuol</E
+M> le rote</E
+M>L’angel che n’avea vòlti al sesto giro</E
+M>Volser Virgilio a me queste parole</E
+M>v. in fuga</E
+M>il nemico</E
+M>Rotti fuor quivi e vòlti ne li amari Passi di fuga</E
+M>volgere</E
+M>volgersi</E
+M>in fuga</E
+M>audace e fera plebe</E
+M>Che ’l ferro uso a far solchi</E
+M> a franger glebe</E
+M> In nove forme e in più degne opre ha vòlto</E
+M>v. una frase in mal senso</E
+M>v. le cose in burla</E
+M>in riso</E
+M>v. in dubbio</E
+M>quanto alla favella</E
+M> pare che non si possa v. in dubbio che gli uomini abbiano facoltà di comunicarla alle macchine che essi formano</E
+M>v. nella mente</E
+M>nell’animo</E
+M>in sé</E
+M>Volge tra sé Goffredo a cui commetta La dubbia impresa</E
+M>perocché nel petto Sempre il cor gli volgea le ardite imprese</E
+M>Come la cerchia che dintorno il volge</E
+M>Di quella vita mi volse costui Che mi va innanzi</E
+M>avere</E
+M>essere</E
+M>volgersi a destra</E
+M>a sinistra</E
+M>volgersi indietro</E
+M>l’animo mio</E
+M> ch’ancor fuggiva</E
+M> Si volse a retro a rimirar lo passo</E
+M>si volse verso di lui e gli disse</E
+M>il fiore del girasole si volge sempre ai raggi del sole</E
+M>volgersi dall’altra parte</E
+M>volgersi attorno</E
+M>Volgemmo e discendemmo a mano stanca</E
+M>Volta la ninfa al suon delle parole</E
+M> Lampeggiò d’un sì dolce e vago riso</E
+M>volgere</E
+M>volgersi</E
+M>in fuga</E
+M>A seguitar costei che ’n fuga è volta</E
+M>’mpediva tanto il mio cammino</E
+M> Ch’i’ fui per ritornar più volte vòlto</E
+M>la strada volge a destra</E
+M>a sinistra</E
+M>Quel ramo del lago di Como</E
+M> che volge a mezzogiorno</E
+M>volgersi agli studî di medicina</E
+M>da questo volgendosi a riprendere il popolo che ascoltava</E
+M>e poi</E
+M> di Sofronia ricordandosi</E
+M> in contrario volgendo</E
+M> ogni cosa detta dannava</E
+M>temeva che l’odio dei parenti si volgesse contro di lei</E
+M>il sole volge al tramonto</E
+M>le nostre fatiche volgono al termine</E
+M>un rosso che volge al viola</E
+M>il tempo volge</E
+M>si volge</E
+M>al brutto</E
+M>la situazione volge al peggio</E
+M>Vòlto in bruto</E
+M> ei fuggì da le mie braccia Tremando per la terra</E
+M>Elena vedi</E
+M>per cui tanto reo Tempo si volse</E
+M>Or volge</E
+M> signor mio</E
+M> l’undecimo anno</E
+M>Già ’l sesto anno volgea</E
+M> ch’in oriente Passò il campo cristiano a l’alta impresa</E
+M>già sei lustri Volgon da poi che il bel tenor di vita Giovinetto intraprese</E
+M>col volgere degli anni</E
+M>in tanto volger di eventi</E
+M>corrente</E
+M>l’anno</E
+M>il mese volgente</E
+M>con gli occhi volti al cielo</E
+M>se ne stava volto dalla sua parte</E
+M>Chi fosti e perché vòlti avete i dossi Al sù</E
+M> mi di’</E

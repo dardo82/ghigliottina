@@ -1,0 +1,33 @@
+funzionare.txt
+"a mano, che si fa funzionare a mano"
+"far funzionare"
+"far funzionare"
+"far funzionare un programma informatico"
+"funzionare"
+"lo smettere di funzionare"
+"morire, smettere di funzionare"
+"non funzionare"
+"smettere di funzionare"
+"smettere di funzionare"
+"smettere di funzionare"
+"smettere di funzionare"
+#*''ho appena fato riparare l'orologio, deve '''funzionare''' per forza''
+*[[procedere]], [[marciare]], [[muoversi]], [[andare]]
+*[[bloccarsi]], [[incepparsi]]
+M>fonctionner</E
+M>fonction</E
+M>io funzióno</E
+M>avere</E
+M>funziona quest’orologio?</E
+M>il motore oggi non vuol f</E
+M>ho il cuore</E
+M>lo stomaco che non mi funziona</E
+M>un’azienda</E
+M>un’organizzazione che funziona benissino</E
+M>è un sistema che non funziona</E
+M>il nuovo metodo comincia a f</E
+M>ci sono troppe cose che non funzionano qua dentro</E
+M>da sindaco</E
+M>da segretario</E
+M>oggi funziona il vescovo</E
+M>Tumori funzionanti</E

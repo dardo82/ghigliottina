@@ -1,0 +1,96 @@
+polso.txt
+"Avere il polso della situazione"
+"con polso di ferro"
+"da polso"
+"orologio da polso"
+"orologio da polso"
+"polso"
+"polso"
+"polso"
+"polso"
+"sentire il polso"
+"slogarsi un polso"
+"tastare i battiti del polso"
+M>lsus</E
+M>pell</E
+M>pulsus</E
+M>p. arterioso</E
+M>p. capillare</E
+M>p. venoso</E
+M>p. epatico</E
+M>p. regolare</E
+M>irregolare</E
+M> uguale</E
+M>aritmico</E
+M>celere</E
+M>tardo</E
+M>febbrile</E
+M>duro</E
+M>molle</E
+M>vigoroso</E
+M>debole</E
+M>stanco</E
+M>impercettibile</E
+M>gli manca</E
+M>gli viene meno</E
+M>gli si è fermato il p</E
+M>quando vide il suo aiuto</E
+M>mise un gran respiro;</E
+M>gli tornò il p</E
+M>gli scorse un po&#8217; di vita nelle gambe</E
+M>Fede portai al glorïoso offizio</E
+M>Tanto ch&#8217;i&#8217; ne perde&#8217; li sonni e&#8217; polsi</E
+M>non riuscire a trovare il p</E
+M>sentire il p</E
+M>tastare il p</E
+M>tastare il p. a qualcuno</E
+M>tâter le pouls</E
+M>tastare il p. alla piazza</E
+M>al paese</E
+M>p. grosso</E
+M>sottile</E
+M>p. snodato</E
+M>p. rigido</E
+M>prendere</E
+M>afferrare per i p</E
+M>mettere le manette ai p</E
+M>orologio da polso</E
+M>orologio da taschino</E
+M>linee del p</E
+M>polso della tempia</E
+M>i p. son quelle parti del corpo nostro nelle quali si comprendono le qualità de&#8217; movimenti del cuore</E
+M>Ferì dopo costui Demoleonte</E
+M>lo ferì sul polso Della tempia</E
+M>niuno spirito ho io</E
+M>niun p. e niuna vena in tutta me</E
+M>che non vi renda mille grazie</E
+M>sentirsi tremare i p</E
+M>le vene e i p</E
+M>Vedi la bestia per cu&#8217; io mi volsi; Aiutami da lei</E
+M>famoso saggio</E
+M>Ch&#8217;ella mi fa tremar le vene e i p</E
+M>Mi desto da un sogno</E
+M>Da un sogno orribile! Mi tremano i polsi</E
+M>Soltanto nel ricordare!</E
+M>un cappotto con il colletto e i p. di pelliccia</E
+M>ho perso un bottone dal p. della giacca</E
+M>polsino</E
+M>uomo</E
+M>donna di p</E
+M>un direttore</E
+M>un insegnante di p</E
+M>è una persona senza p</E
+M>dirigere</E
+M>amministrare</E
+M>decidere con p</E
+M>fermo</E
+M>ci vuole p</E
+M>per prendere una decisione come questa</E
+M>un uomo di p</E
+M>e che non ha paura di nessuno</E
+M>uno scrittore</E
+M>un critico di p</E
+M>un&#8217;opera di p</E
+M>lavoro di p</E
+M>vino di p</E
+M>sottospalla</E

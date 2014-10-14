@@ -1,0 +1,22 @@
+noce.txt
+"di legno di noce"
+"guscio di noce"
+"noce"
+"noce"
+"legno dell'albero del noce"
+"noce"
+"noce"
+"frutto dell'albero del noce"
+"noce (albero)"
+"noce del Brasile"
+"noce del Messico"
+"noce di betel"
+"noce di cocco"
+"noce di cola"
+"noce di macadamia"
+"noce moscata"
+"noce nera americana"
+"olio di noce"
+"olio di noce"
+*italiano
+*polacco

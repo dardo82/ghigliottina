@@ -1,0 +1,5 @@
+portineria.txt
+"portineria"
+"portineria"
+"servizio di portineria"
+M>chiedere informazioni in portineria</E

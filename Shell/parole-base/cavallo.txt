@@ -1,0 +1,216 @@
+cavallo.txt
+"a cavallo"
+"a cavallo"
+"a cavallo"
+"a cavallo"
+"a cavallo di"
+"a cavallo di o fra"
+"a cavallo, montato"
+"a forma di ferro di cavallo"
+"andare a cavallo, fare equitazione"
+"andare a cavallo; praticare l'equitazione"
+"cavallo"
+"cavallo"
+"cavallo"
+"cavallo"
+"cavallo \"
+"cavallo (dei pantaloni)"
+"cavallo a dondolo"
+"cavallo a dondolo"
+"cavallo alato"
+"cavallo ammaestrato a fare determinati passi"
+"cavallo baio"
+"cavallo d'acciaio"
+"cavallo da corsa"
+"cavallo da corsa"
+"cavallo da corsa"
+"cavallo da corsa al trotto"
+"cavallo da equitazione"
+"cavallo da fatica"
+"cavallo da guerra"
+"cavallo da guerra"
+"cavallo da lavoro"
+"cavallo da noleggio"
+"cavallo da sella"
+"cavallo da soma"
+"cavallo da soma"
+"cavallo da tiro"
+"cavallo da tiro"
+"cavallo dei calzoni"
+"cavallo delle piantagioni"
+"Cavallo di battaglia"
+"cavallo di legno"
+"Cavallo di razza"
+"cavallo di sangue caldo"
+"Cavallo di Troia"
+"cavallo di Troia"
+"cavallo di Troia"
+"cavallo dondolo"
+"cavallo nel linguaggio infantile"
+"cavallo pezzato"
+"cavallo pezzato"
+"cavallo selvaggio"
+"cavallo vecchio e stanco"
+"cavallo volante"
+"che alza le zampe al passo (di cavallo)"
+"coda di cavallo"
+"crine di cavallo"
+"cura da cavallo."
+"del cavallo di guerra"
+"di cavallo a vapore"
+"di coda di cavallo, di equiseto"
+"discesa da un cavallo"
+"eccitare; stimolare; drogare (un atleta; un cavallo)"
+"escursione a cavallo"
+"essere a cavallo"
+"febbre da cavallo"
+"ferrato (cavallo)"
+"ferro di cavallo"
+"ferro di cavallo"
+"grosso cavallo da tiro"
+"la mossa del cavallo"
+"mettere il morso al cavallo"
+"mezzo cavallo"
+"pattuglia a cavallo"
+"puntare sul cavallo vincente"
+"segno bianco sullo zoccolo del cavallo"
+"sentiero da cavallo"
+"smontare da cavallo"
+"strigliare (un cavallo)"
+"vecchio cavallo"
+#* ''sto imparando ad andare a 
+#* quell'auto ha cento cavalli
+#* ''il 
+#*''fare uno scacco al re con il 
+*[[puledro]], [[purosangue]], [[corsiero]], [[brenna]]; [[stallone]], [[ronzino]]
+* ''(di pantaloni)'' [[inforcatura]]
+* [[accavallare]], [[cavalcare]], [[cavalcioni]], [[cavaliere]], [[cavalleria]], [[cavallerizzo]], [[cavalletta]], [[cavalletto]], [[cavallone]], [[scavalcare]], [[scavallare]], [[cavallo-vapore]], [[ferracavallo]]
+* [[asino]], [[azzoppato]], [[bardotto]], [[biada]], [[bolsaggine]], [[bolso]], [[brocco]], [[criniera]], [[disarcionare]], [[dressage]], [[equitazione]], [[fantino]], [[ferratura]], [[ferro di cavallo]], [[fieno]], [[frustino]], [[galoppo]], [[ippica]], [[maneggio]], [[maniscalco]], [[mezzosangue]], [[mulo]], [[nitrire]], [[puledro]], [[purosangue]], [[ronzino]], [[sella]], [[stalla]], [[stallatico]], [[sterco]], [[trotto]], [[zoccolo]], [[zolletta]], [[a cavallo]], [[a cavallo di]], [[cavallo a dondolo]], [[cavallo di razza]], [[cavallo fiscale]], [[cavallo vapore]], [[palafreno]], [[giumenta]]
+*[[equino]], [[animale]]
+* ''a '''caval''' donato non si guarda in bocca''
+* ''essere a 
+* ''andare a 
+* ''febbre da 
+* ''a buon 
+* ''a buon 
+* ''matto come un 
+* ''a '''caval''' che corre, non abbisognano speroni'', non cercare di provocare qualcosa di già iniziato
+* ''a cavalier novizio, 
+* ''a 
+* ''a 
+* ''a 
+* ''campa 
+* '''''cavallo''' vecchio, tardi muta andatura'', più si invecchia e più è difficile mutar abitudini
+* ''la superbia va a 
+* ''l'occhio del padrone ingrassa il 
+* ''uomo a 
+* ''avere denti da 
+* ''il mio regno per un 
+* ''in mancanza del 
+*''Dodici galline e un gallo mangiano come un 
+*Enciclopedia [http
+M>caballus</E
+M>cavagli</E
+M>zoccolo</E
+M>di razza</E
+M>puro sangue</E
+M>da monta</E
+M>da razza</E
+M>stallone</E
+M>da sella</E
+M>da tiro</E
+M>da corsa</E
+M>baio</E
+M>morello</E
+M>pezzato</E
+M>balzano</E
+M>ombroso</E
+M>bizzarro</E
+M>focoso</E
+M>restio</E
+M>il nitrito del c</E
+M>mettere i c</E
+M>al passo</E
+M>al trotto</E
+M>al galoppo</E
+M>alato</E
+M>montare</E
+M>salire a c</E
+M>smontare</E
+M>scendere da c</E
+M>a cavallo!</E
+M>andare a c</E
+M>recarsi a c</E
+M>in un luogo</E
+M>fare una passeggiata a c</E
+M>a cavallo</E
+M>essere a c</E
+M>stare a c</E
+M>stare a c</E
+M>d’un fosso</E
+M>mettere qualche cosa a c</E
+M>di un’altra</E
+M>mettere un quartino</E
+M>una segnatura</E
+M>una copertina</E
+M>a cavallo di un sedicesimo</E
+M>di un fascicolo</E
+M>febbre da c</E
+M>medicina</E
+M>dose da c</E
+M>errori</E
+M>spropositi da c</E
+M>a ferro di c</E
+M>l’occhio del padrone ingrassa il c</E
+M>a caval donato non si guarda in bocca</E
+M>campa</E
+M>aspetta</E
+M>cavallo</E
+M>che l’erba cresce</E
+M>campa</E
+M>cavallo!</E
+M>il mio regno per un c</E
+M>my kingdom for a horse</E
+M>Riccardo III</E
+M>di battaglia</E
+M>di ritorno</E
+M>dell’Apocalisse</E
+M>di san Francesco</E
+M>dei frati</E
+M>andare</E
+M>viaggiare col c</E
+M>di san Francesco</E
+M>a dondolo</E
+M>di Troia</E
+M>essere il c</E
+M>di Troia di qualcuno</E
+M>c. di Troia</E
+M>misero in campo centomila fanti e diecimila cavalli</E
+M>Tassa dei c</E
+M>cavallata</E
+M>tassa delle lance</E
+M>tassa della cavalleria</E
+M>diaria</E
+M>in lungo</E
+M>con maniglie</E
+M>I c</E
+M>del mare urtansi in giostra</E
+M>Piede di c</E
+M>piede equino</E
+M>Denti di c</E
+M>fare un c</E
+M>dare un c</E
+M>prender c</E
+M>marino</E
+M>delle streghe</E
+M>mantide religiosa</E
+M>delle fate</E
+M>di Frisia</E
+M>cheval de Frise</E
+M>friese ruiter</E
+M>cavallo</E
+M>vapore</E
+M>un motore della potenza di venti cavalli</E
+M>possedere una trenta cavalli</E
+M>Cavallo fiscale</E
+M>Erythroxylum areolatum</E

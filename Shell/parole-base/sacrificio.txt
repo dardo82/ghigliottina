@@ -1,0 +1,48 @@
+sacrificio.txt
+"fare un sacrificio"
+"offrire in sacrificio"
+"sacrificio"
+"sacrificio"
+"sacrificio di sangue"
+"sacrificio supremo"
+"sacrificio umano"
+*[[offerta]], [[dono]], [[immolazione]];
+*''(nel cattolicesimo)'' [[messa]], sacrificio eucaristico
+M>sacrificium</E
+M>sacrum</E
+M>&#8211;ficium</E
+M>fare</E
+M>compiere un s.</E
+M>s. espiatorio</E
+M>propiziatorio</E
+M>purificatore</E
+M>offrire una vittima in s. a Giove</E
+M>s. umani</E
+M>cruenti</E
+M>offrire sacrifici agli dèi inferi.</E
+M>secondo il mito</E
+M> Ifigenia</E
+M> durante il s.</E
+M> fu cambiata da Artemide in una cerva.</E
+M>s. incruento</E
+M>s. dell&#8217;altare</E
+M>Come del suo voler li angeli tuoi Fan sacrificio a te</E
+M> cantando &#8216;osanna&#8217;</E
+M> Così facciano li uomini de&#8217; suoi</E
+M>offrire in s. alla Madonna le proprie tribolazioni.</E
+M>il s. supremo</E
+M>fare s. di sé.</E
+M>per acquistare l&#8217;appartamento hanno dovuto fare molti s.</E
+M>nella sua vita non ha conosciuto che sacrifici</E
+M>ha raggiunto il successo a costo di grossi s.</E
+M>una professione che richiede dedizione e spirito di sacrificio.</E
+M>non c&#8217;è per lui s. più grande che rinunciare al pisolino pomeridiano</E
+M>mettersi a dieta è stato per lei un grosso sacrificio.</E
+M>s. del contribuente</E
+M>s. vincente</E
+M>s. difensivo</E
+M>s. di pedone</E
+M>di donna</E
+M>s. di qualità</E
+M>anodo di s.</E
+M>anodo sacrificabile</E

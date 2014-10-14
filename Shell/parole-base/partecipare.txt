@@ -1,0 +1,67 @@
+partecipare.txt
+"far partecipare qualcuno"
+"partecipare"
+"partecipare"
+"partecipare"
+"partecipare a"
+"partecipare a"
+"partecipare a"
+"partecipare a"
+"partecipare a"
+"partecipare a"
+"partecipare a disordini"
+"partecipare a un incontro, partecipare a un vertice, portare avanti delle trattative"
+"partecipare a una lotteria"
+"partecipare a una riunione"
+"partecipare a, fare la propria parte in, avere un ruolo in, essere coinvolto in"
+"partecipare ad un concorso."
+"partecipare ad una causa"
+"partecipare ad una festa"
+"partecipare ad una festa danzante"
+"partecipare ad una gara"
+"partecipare alle funzioni religiose"
+"partecipare attivamente."
+"volere entrare, voler partecipare"
+"volere entrare, voler partecipare"
+* [[prendere]] [[parte]],  [[essere]] [[presente]], [[annunciare]] 
+*[[partecipabile]], [[partecipamento]], [[partecipante]], [[partecipanza]], [[partecipativo]], [[partecipato]], [[partecipatore]], [[partecipazione]], [[partecipazionismo]],[[partecipe]]
+M>participare</E
+M>partĭceps</E
+M>pis</E
+M>io partécipo</E
+M>avere</E
+M>al governo</E
+M>nel governo</E
+M>a un&#8217;impresa</E
+M>a una spedizione</E
+M>a un convegno</E
+M>a una manifestazione</E
+M>a una cerimonia</E
+M>a un banchetto</E
+M>a un&#8217;iniziativa sociale</E
+M>culturale</E
+M>alunno che non partecipa alla vita della classe</E
+M>desidero p</E
+M>anch&#8217;io alla spesa</E
+M>agli utili di un&#8217;azienda</E
+M>la beatitudine celeste</E
+M>la vita eterna</E
+M>i diritti comuni</E
+M>partecipo alla tua gioia</E
+M>al vostro dolore</E
+M>al vostro lutto</E
+M>a un segreto</E
+M>Gesù Cristo partecipa della natura divina e della natura umana</E
+M>partecipo anch&#8217;io dei difetti comuni a tutti gli uomini</E
+M>è la città di Verona posta in Lombardia</E
+M>a piè de&#8217; monti che dividono la Italia dalla Magna</E
+M>in modo tale che la participa di quelli e del piano</E
+M>E&#8217; si tenevan l&#8217;altezze e gli onori Sanza participarle a noi giammai</E
+M>agli altri le proprie sostanze</E
+M>i proprî beni</E
+M>desidero p</E
+M>anche a voi la bella notizia</E
+M>un segreto</E
+M>la nascita di un figlio</E
+M>la morte di un congiunto</E
+M>le nozze della propria figlia</E

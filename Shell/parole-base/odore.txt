@@ -1,0 +1,103 @@
+odore.txt
+"avere un forte odore"
+"cattivo odore"
+"emanare (un odore); esalare"
+"in odore di"
+"odore"
+"odore"
+"odore, replace: odori"
+"odore di bruciato"
+"odore di pulito"
+"odore di sudore"
+"odore disgustoso"
+"odore disgustoso"
+"odore pungente"
+"odore ripugnante"
+"odore sgradevole"
+"odore sgradevole"
+"odore sgradevole"
+"percepire l'odore"
+"sentire l'odore"
+"sentire odore"
+M>odor</E
+M>oris</E
+M>olere</E
+M>olfactus</E
+M>sentire un o</E
+M>gli odori</E
+M>non sento nessun o</E
+M>buon o</E
+M>cattivo o</E
+M>gradevole</E
+M>sgradevole</E
+M>un o</E
+M>soave</E
+M>grato</E
+M>inebriante</E
+M>un o</E
+M>nauseabondo</E
+M>forte</E
+M>acre</E
+M>acuto</E
+M>penetrante</E
+M>l’o</E
+M>dei fiori</E
+M>delle rose</E
+M>dell’erba</E
+M>di violetta</E
+M>d’incenso</E
+M>d’arrosto</E
+M>di bruciato</E
+M>di chiuso</E
+M>di muffa</E
+M>d’ospedale</E
+M>di farmacia</E
+M>l’o</E
+M>delle polveri bruciate</E
+M>di pioggia</E
+M>dare</E
+M>mandare odore</E
+M>non avere nessun o</E
+M>spandere</E
+M>esalare</E
+M>spirare odore</E
+M>Vivran que’ fiori</E
+M>o Giovinezza</E
+M>e intorno L’urna funerea spireranno odore</E
+M>che cos’è questo o</E
+M>d’estate</E
+M>nell’autobus molto affollato</E
+M>si sentono certi odori!</E
+M>odore di gruppo</E
+M>odore del branco</E
+M>odore del nido</E
+M>una bottiglietta di o.</E
+M>versò qualche goccia di o. sull’abito</E
+M>gli odori</E
+M>sento o</E
+M>di imbroglio</E
+M>nell’aria c’è o</E
+M>di litigi</E
+M>qui c’è o</E
+M>di quattrini</E
+M>quel odor</E
+M>che sol riman di noi Poscia che ’l resto fragile è defunto</E
+M>Rendere o</E
+M>di qualche cosa</E
+M>debbe uno uomo prudente intrare sempre per vie battute da uomini grandi</E
+M>e quelli che sono stati eccellentissimi imitare</E
+M>acciò che</E
+M>se la sua virtù non vi arriva</E
+M>almeno ne renda qualche o</E
+M>dare</E
+M>mandare buon o</E
+M>di sé</E
+M>morire</E
+M>essere in o</E
+M>di santità</E
+M>essere in o</E
+M>di eresia</E
+M>in o. di mafia</E
+M>in o. di truffa</E
+M>buono questo odorino che viene dalla cucina!</E
+M>alcuni odoruzzi semplici di acque stillate</E

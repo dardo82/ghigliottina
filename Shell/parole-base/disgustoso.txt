@@ -1,0 +1,21 @@
+disgustoso.txt
+"disgustoso"
+"disgustoso"
+"essere disgustoso"
+"in modo disgustoso"
+"odore disgustoso"
+"odore disgustoso"
+"repellente, disgustoso"
+#*''Una pietanza '''disgustosa'''''
+#*''La scena era '''disgustosa''' al vedersi''
+*[[nauseante]], [[ripugnante]], [[ributtante]], [[stomachevole]], [[sgradevole]]
+*''(di odore)'' [[fetido]], [[puzzolente]]
+*[[gustoso]], [[gradevole]], [[piacevole]]
+M>sapore</E
+M>odore</E
+M>cibo d</E
+M>ha una faccia d</E
+M>discorsi d</E
+M>fu una scena veramente d</E
+M>è di un’ipocrisia disgustosa</E
+M>è disgustosamente servile</E

@@ -1,0 +1,43 @@
+plastica.txt
+"anemia plastica"
+"bicchiere di plastica"
+"chirurgia plastica"
+"chirurgia plastica"
+"in plastica"
+"di plastica"
+"nastro di plastica"
+"piatto di plastica"
+"plastica"
+"plastica"
+"plastica chimica"
+"plastica modellata"
+"plastica trasparente"
+*[[scultura]], [[bozzetto]], [[modello]]
+*''plastica nasale''
+M>plastico</E
+M>plast</E
+M>p. regionale</E
+M>p. facciale</E
+M>mammaria</E
+M>p. del cuoio capelluto</E
+M>del naso</E
+M>delle palpebre</E
+M>p. cutanee</E
+M>tendinee</E
+M>farsi la p. al naso</E
+M> al seno.</E
+M>materia plastica</E
+M>un telo</E
+M>un sacchetto di p.</E
+M>piatti</E
+M>bicchieri</E
+M>posate di p.</E
+M>un secchio di p.</E
+M>borsa</E
+M>impermeabile di p.</E
+M>una sedia di p.</E
+M>piante</E
+M>fiori artificiali di plastica.</E
+M>cheiloplastica</E
+M>cheratoplastica</E
+M>condroplastica</E

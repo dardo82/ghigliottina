@@ -1,0 +1,8 @@
+digiuno.txt
+"digiuno"
+"digiuno"
+"digiuno"
+"giorno di digiuno"
+"periodo di digiuno"
+"presentarsi a digiuno"
+*[[digiuno-duodenale]]

@@ -1,0 +1,72 @@
+maturo.txt
+"diventare maturo"
+"eccessivamente maturo"
+"fagiolo verde (che si mangia quando non è ancora maturo)"
+"fiorito, maturo"
+"maturo"
+"maturo"
+"maturo"
+"peperone maturo"
+"troppo maturo"
+"uomo maturo"
+"uomo maturo"
+"uovo non maturo"
+*(di prodotto vegetale) [[maturato]]; [[stagionato]], [[invecchiato]]
+*(di persona) [[adulto]], [[grande]], [[cresciuto]]
+*di progetto, azione, eccetera) [[fatto]], [[completo]], [[pronto]], [[sviluppato]], [[compiuto]], [[perfetto]]
+*(di studente) [[diplomato]], [[promosso]], [[idoneo]]
+*(di prodotto vegetale) [[acerbo]]
+*(di progetto, azione, ecc.)[[immaturo]], [[incompleto]]
+*(di studente)  non maturo, non idoneo
+*[[prematuro]]
+M>mat</E
+M>rus</E
+M>acerbo</E
+M>l’uva non è ancora m</E
+M>il grano è m</E
+M>quando la pera è m</E
+M>convien che caschi</E
+M>età m</E
+M>uomo m</E
+M>donna m</E
+M>d’anni</E
+M>essere m</E
+M>in età m</E
+M>per una determinata attività fisica</E
+M>una ragazza m</E
+M>per il matrimonio</E
+M>Vergine era tra lor di già matura Verginità</E
+M>è un giovane già m</E
+M>si farà m</E
+M>con gli anni</E
+M>è scientificamente m</E
+M>è m</E
+M>per questi studî</E
+M>per la carriera che si è scelta</E
+M>è m</E
+M>per l’esercizio dei diritti politici</E
+M>soltanto la metà dei candidati sono stati dichiarati maturi</E
+M>politicamente</E
+M>Parto m</E
+M>prematuro</E
+M>Ascesso m</E
+M>foruncolo m</E
+M>Tosse m</E
+M>Vino m</E
+M>Tempi m</E
+M>sistema economico m</E
+M>economia m</E
+M>avere una mente m</E
+M>un m</E
+M>discernimento</E
+M>una capacità di giudizio ormai matura</E
+M>essere dotato di m</E
+M>esperienza</E
+M>dopo m</E
+M>esame della situazione</E
+M>fu deliberata la ripresa dei lavori</E
+M>è una decisione grave</E
+M>che richiede una m</E
+M>riflessione</E
+M>una decisione maturamente soppesata</E
+M>ogni parola del comunicato è stata maturamente esaminata e discussa tra i presenti</E

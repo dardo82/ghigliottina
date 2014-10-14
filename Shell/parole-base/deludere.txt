@@ -1,0 +1,20 @@
+deludere.txt
+"deludere"
+#* '' Il tuo comportamento mi '' ha deluso'' profondamente''
+*[[disingannare]], [[disilludere]], [[scontentare]], [[frustrare]]
+*[[illudere]]
+*[[delusivo]]
+M>delud</E
+M>ludus</E
+M>delu</E
+M>deludésti</E
+M>delu</E
+M>lo spettacolo mi ha profondamente deluso</E
+M>facevo molto assegnamento su di te</E
+M>ma mi hai deluso</E
+M>Ci hanno deluso tutti: chi ha torto e chi ha ragione</E
+M>la speranza</E
+M>l’attesa</E
+M>l’aspettazione</E
+M>un risultato</E
+M>una partita deludente</E

@@ -1,0 +1,26 @@
+ottone.txt
+"di ottone"
+"di ottone"
+"ottone"
+"ottone"
+"strumento a fiato con parti in ottone"
+"ottone antico"
+"ottone basso"
+"utensile in ottone"
+*[[ottonare]]
+M>āṭū</E
+M>comune</E
+M>binario</E
+M>speciali</E
+M>candelabro</E
+M>lampadario di o</E
+M>maniglia</E
+M>rubinetto di o</E
+M>barra</E
+M>lamiera</E
+M>tubo</E
+M>filo di o</E
+M>lucidare gli ottoni</E
+M>di 1° titolo</E
+M>di 2° titolo</E
+M>navale</E

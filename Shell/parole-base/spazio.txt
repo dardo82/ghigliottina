@@ -1,0 +1,269 @@
+spazio.txt
+"apposito spazio"
+"darti spazio"
+"doppio spazio"
+"esplorazione dello spazio"
+"fare spazio"
+"fare spazio"
+"fare spazio"
+"fare spazio, liberare spazio"
+"lasciare ampio spazio"
+"le profondità dello spazio"
+"nello spazio e nel tempo"
+"passeggiata nello spazio"
+"premere la barra spazio sulla tastiera"
+"prendere spazio"
+"problemi di spazio"
+"punto nello spazio bidimensionale"
+"ristretto (spazio)"
+"ritagliarsi uno spazio"
+"spazio"
+"spazio"
+"spazio"
+"spazio"
+"spazio"
+"spazio aereo"
+"spazio aperto"
+"spazio aperto"
+"spazio aperto"
+"spazio assoluto"
+"spazio astratto"
+"spazio atmosferico"
+"spazio bianco"
+"spazio bianco"
+"spazio chiuso"
+"spazio circolare"
+"spazio cosmico"
+"spazio della citazione tra le due virgolette"
+"spazio della cucina"
+"spazio delle fasi"
+"spazio di frenata"
+"spazio di funzioni"
+"spazio di immagazzinamento"
+"spazio di lavoro"
+"spazio di lavoro"
+"spazio di una vita"
+"spazio gioco"
+"spazio infinito"
+"spazio intergalattico"
+"spazio interno"
+"spazio interplanetario"
+"spazio interstellare"
+"spazio libero in altezza"
+"spazio lineare"
+"spazio metrico"
+"spazio morto"
+"spazio oggetto"
+"spazio per scrivere"
+"spazio profondo"
+"spazio pubblicitario"
+"spazio quadridimensionale"
+"spazio quoziente"
+"spazio riservato"
+"spazio singolo"
+"spazio topologico"
+"spazio tra"
+"spazio tra i seni"
+"spazio verde"
+"spazio vettoriale"
+"spazio vitale"
+"spazio vuoto"
+"spazio-immagine"
+"viaggiare nello spazio"
+#*''Non c'è nemmeno lo '''spazio''' per respirare in questa stanzetta!''
+#*''Le astronavi vagabondavano nello '''spazio'''.''
+#*''C'è un metro di '''spazio''' fra il mio ed il suo banco''
+#*''Nello '''spazio''' di un paio d'anni è riuscito a diventare miliardario''
+#*''sul retro del foglio si trova uno spazio dove è obbligatorio apporre la propria firma''
+*[[ immensità]], [[infinito]]
+*[[estensione]], [[superficie]], [[intercapedine]], [[interstizio]],[[area]], [[posto]], [[distesa]], [[largo]], [[spiazzo]], [[ampiezza]], [[grandezza]], [[capienza]]
+*[[tempo]], [[periodo]], [[corso]], [[durata]], lasso di tempo, [[giro]],[[arco]], [[intervallo]]
+* ''(tipografia
+*[[ristrettezza]], [[limitatezza]], [[angustia]]
+*[[spazioso]]
+*[[spaziale]], [[spaziare]]
+M>spatium</E
+M>pat</E
+M>geometria</E
+M>prossemica</E
+M>s. infinito vuoto</E
+M>s. assoluto</E
+M>tempo assoluto</E
+M>Sensorium Dei</E
+M>s. non-euclidei</E
+M>s. euclideo</E
+M>campo</E
+M>s. quadridimensionale</E
+M>spaziotempo</E
+M>etere cosmico</E
+M>campi di forze</E
+M>eventi</E
+M>spaziotempo</E
+M>cronotopo</E
+M>relatività generale</E
+M>spazio curvo</E
+M>s. omogeneo</E
+M>s. isotropo</E
+M>s. delle fasi</E
+M>delle configurazioni</E
+M>s. immagine</E
+M>s. oggetto</E
+M>s. euclideo</E
+M>s. reale</E
+M>s. complesso</E
+M>iperspazio euclideo</E
+M>s. euclideo a n dimensioni</E
+M>pluridimensionale</E
+M>s. affine</E
+M>s. proiettivo</E
+M>improprî</E
+M>s. astratti</E
+M>s. metrico</E
+M>s. topologico</E
+M>s. vettoriale</E
+M>vettori</E
+M>s. vettoriale euclideo</E
+M>s. lineare</E
+M>s. proiettivo</E
+M>s. vettoriale</E
+M>s. normato</E
+M>norma</E
+M>s. subordinato</E
+M>sottospazio</E
+M>s. di Banach</E
+M>s. di Hilbert</E
+M>s. di Hausdorff</E
+M>s. di Riemann</E
+M>s. di Minkowsky</E
+M>spaziotempo</E
+M>s. di funzioni</E
+M>s. degli eventi</E
+M>l&#8217;esplorazione</E
+M>la conquista dello s.</E
+M>lanciare un satellite nello s.</E
+M>lo s. cosmico</E
+M>gli s. celesti</E
+M>s. terrestre</E
+M>circumterrestre</E
+M>s. atmosferico</E
+M>s. extraatmosferico</E
+M>s. planetario</E
+M>interplanetario</E
+M>s. interstellare</E
+M>biologia</E
+M>fisiologia</E
+M>patologia dello s.</E
+M>mal dello s.</E
+M>s. materiale</E
+M>s. libero</E
+M>vuoto</E
+M>s. aereo</E
+M>s. atmosferico</E
+M>s. extra-atmosferico</E
+M>s. doganale</E
+M>dall&#8217;alto della torre la vista si stende per un ampio s.</E
+M>per vasti s.</E
+M>interminati Spazi di là da quella</E
+M> e sovrumani Silenzi</E
+M> e profondissima quiete Io nel pensier mi fingo</E
+M>in questa stanza non c&#8217;è s. per un altro mobile</E
+M>s. libero</E
+M>vuoto</E
+M>utile</E
+M>s. pubblico</E
+M>s. verde</E
+M>s. esterno</E
+M>s. atmosferico</E
+M>s. sonoro</E
+M>area</E
+M>zona</E
+M>estensione</E
+M>territorio</E
+M>campi</E
+M>prati</E
+M>boschi che si estendono per un ampio s.</E
+M>tenute</E
+M>complessi industriali che occupano un grande s.</E
+M>una città stretta tra mare e monti</E
+M> dove non c&#8217;è più s. per edificare.</E
+M>s. vitale</E
+M>Lebensraum</E
+M>geopolitica</E
+M>Mein Kampf</E
+M>un giornale che dedica molto s.</E
+M>poco s.</E
+M>alla cronaca cittadina</E
+M>l&#8217;articolo non può essere pubblicato per mancanza di s.</E
+M>si sono dovuti operare alcuni tagli al resoconto del discorso per economia di s.</E
+M>volevo aggiungere qualche riga anch&#8217;io</E
+M> nella lettera</E
+M> ma non c&#8217;è più s.</E
+M> e mi limito ai saluti</E
+M>chiedere più s. per i programmi culturali</E
+M>limitare lo s. per la propaganda politica</E
+M>il pubblico protesta per l&#8217;eccessivo s. riservato alla pubblicità</E
+M>nella presentazione dell&#8217;opera al pubblico</E
+M> è stato dato troppo poco s. ai due autori</E
+M> che pure erano presenti</E
+M>dare</E
+M>lasciare s. ai giovani</E
+M>avere</E
+M>non avere s. per l&#8217;attuazione di nuove iniziative</E
+M>nuove imprese</E
+M>i lavoratori dell&#8217;azienda sono in lotta per ottenere più s. nella programmazione della produzione</E
+M>gli studenti chiedono più s.</E
+M>un loro s.</E
+M>nella determinazione dei nuovi programmi d&#8217;insegnamento</E
+M>volere</E
+M>rivendicare un proprio s.</E
+M>si è ritagliata un suo s. nell&#8217;ambito della famiglia</E
+M>difendere il proprio s. personale</E
+M>s. semantico</E
+M>collocare le poltrone lasciando un sufficiente s. tra fila e fila per il passaggio degli spettatori</E
+M>eravamo così pigiati che non c&#8217;era neanche lo s. per posare i piedi a terra</E
+M>s. di frenata</E
+M>di frenatura</E
+M>lasciare un doppio s. tra due numeri</E
+M>per dare rilievo alla parola</E
+M> ho battuto uno s. tra lettera e lettera</E
+M>spazio</E
+M>pagina di 30 righe di 60 s. ciascuna</E
+M>battere un testo a uno</E
+M>a due</E
+M>a tre spazî</E
+M>spazî</E
+M>interlinea</E
+M>bianchi tipografici</E
+M>bianchi lineari</E
+M>spaziature</E
+M>quadratone</E
+M>quadrato</E
+M>quadrato</E
+M>quadratino</E
+M>terziruolo</E
+M>spazio mezzano</E
+M>spazio fino</E
+M>finissimo</E
+M>primo</E
+M>secondo</E
+M>terzo</E
+M>quarto s.</E
+M>s. di una pezza</E
+M>s. intercostale</E
+M>s. morto</E
+M>s. interdentarî</E
+M>s. intercellulare</E
+M>l&#8217;opera dev&#8217;essere terminata entro un breve s. di tempo</E
+M>la riforma verrà attuata nello s. di due anni</E
+M>nello s. di poche ore la situazione cambiò completamente</E
+M>la badessa</E
+M> ... nello s. di un giorno</E
+M> s&#8217;era ammalata ed era spirata</E
+M>durare quanto lo s. di un mattino</E
+M>l&#8217;espace d&#8217;un matin</E
+M>Consolation à Du Périer</E
+M>Né so che s. mi si desse il cielo Quando novellamente io venni in terra</E
+M>non sapendo fra me stesso stimare quanto stato fusse lo s. ch&#8217;io sotterra dimorato era</E
+M>ella sapendo don Pietro esser preso</E
+M> avendo s. di poter fuggire</E
+M> non so perché se ne restò</E

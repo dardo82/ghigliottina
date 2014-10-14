@@ -1,0 +1,26 @@
+giornaliero.txt
+"campo estivo (giornaliero)"
+"giornaliero"
+"giornaliero"
+"obbligo giornaliero della firma"
+* ''(quotidiano)''  [[diurno]]
+*''(di umore,carattere e sim.)'' [[lunatico]], [[volubile]]
+*[[costante]], [[stabile]]
+*''(di lavoratore)'' [[diurnista]]
+*''(quotidino)''[[giorno]]
+*''(lavoratore)'' [[bracciante]]
+M>giorno</E
+M>jornalero</E
+M>jornal</E
+M>jorno</E
+M>spesa g</E
+M>lavoro g</E
+M>compenso g</E
+M>paga g</E
+M>corse g</E
+M>autobus</E
+M>treni</E
+M>aerei g</E
+M>diurnista</E
+M>agricolo</E
+M>giornalieri</E

@@ -1,0 +1,55 @@
+atmosfera.txt
+"atmosfera"
+"atmosfera"
+"atmosfera esterna"
+"atmosfera libera"
+"atmosfera superiore"
+"atmosfera tipo"
+"bassa atmosfera"
+*[[aria]]
+*[[troposfera]], [[stratosfera]], [[mesosfera]], [[termosfera]], [[ionosfera]], [[esosfera]], [[protonosfera]]
+M>sfera</E
+M>atmosphère</E
+M>terrestre</E
+M>aria</E
+M>a. fisiologica</E
+M>solare</E
+M>stellare</E
+M>un’a</E
+M>viziata dal fumo e dall’alito dei bevitori</E
+M>riducente</E
+M>ossidante</E
+M>neutra</E
+M>inerte</E
+M>protettrice</E
+M>vivere in un’a</E
+M>serena</E
+M>di serenità</E
+M>in un’a</E
+M>d’incubo</E
+M>c’era un’a</E
+M>deprimente in quel collegio</E
+M>nella festa c’era a</E
+M>di grande cordialità</E
+M>è una casa all’antica</E
+M>nella quale si respira un’a</E
+M>di fine Ottocento</E
+M>ritrovava in quella famiglia quell’a</E
+M>di affetto che faceva tanto bene al suo spirito</E
+M>creare un’a</E
+M>adatta</E
+M>solo a Parigi egli poteva trovare quella particolare a</E
+M>intellettuale che penetrava nei recessi più inaccessibili e solitari</E
+M>suggestiva</E
+M>allucinante</E
+M>favolosa</E
+M>d’angoscia</E
+M>romanzo d’a</E
+M>teatro d’a</E
+M>a. fisica</E
+M>a. tecnica</E
+M>metrica</E
+M>a. tecnica assoluta</E
+M>a. tecnica effettiva</E
+M>atü</E
+M>atu</E

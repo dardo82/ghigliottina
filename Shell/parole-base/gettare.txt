@@ -1,0 +1,143 @@
+gettare.txt
+"Buttare\/gettare alle ortiche"
+"dare un'occhiata a; gettare uno sguardo a"
+"gettare"
+"gettare, replace: gettarsi"
+"gettare, replace: gettarsi"
+"gettare"
+"gettare"
+"gettare, replace: gettarsi"
+"gettare acqua"
+"gettare benzina sul fuoco, versare benzina sul fuoco"
+"gettare contro"
+"gettare fango su qualcuno"
+"gettare fumo negli occhi"
+"gettare i soldi su"
+"gettare il seme del"
+"gettare l'ancora"
+"gettare l'immondizia"
+"gettare la colpa"
+"gettare la spugna"
+"gettare la spugna (anche in senso figurato)"
+"gettare le basi"
+"gettare le fondamenta"
+"gettare le perle ai porci"
+"gettare le reti"
+"gettare luce"
+"gettare luce su"
+"gettare nell'acqua"
+"gettare nuova luce"
+"gettare un grido"
+"gettare un ponte"
+"gettare un'ombra"
+"gettare vergogna"
+"gettare vergogna"
+"gettare via"
+"gettare, lanciare"
+"sprecare; gettare al vento"
+M>*iectare</E
+M>iactare</E
+M>iac</E
+M>io gètto</E
+M>buttare</E
+M>un sasso</E
+M>la roba dalla finestra</E
+M>le lenzuola in terra</E
+M> a terra</E
+M>per terra</E
+M>dentro</E
+M>fuori</E
+M>sopra</E
+M>sotto</E
+M>la spugna</E
+M>la tonaca alle ortiche</E
+M>gli ossi al cane</E
+M>roba da g</E
+M>ai cani</E
+M>non è poi da g</E
+M>ai cani</E
+M>all’aria</E
+M>g. giù</E
+M>giù un albero</E
+M>una casa</E
+M>giù qualche appunto</E
+M>giù due versi alla buona</E
+M>buttare</E
+M>gettar via</E
+M>una frase gettata lì senza parere</E
+M>gettare</E
+M>ha gettato la borsa per fuggire più rapidamente</E
+M>le armi</E
+M>usa e getta</E
+M>buttare</E
+M>i soldi</E
+M>denaro</E
+M>tempo gettato</E
+M>è fatica gettata</E
+M>è tutto fiato gettato</E
+M>l’ancora</E
+M>le reti</E
+M>il seme</E
+M>il disordine</E
+M>lo scompiglio</E
+M>la discordia in una casa</E
+M>in una famiglia</E
+M>il guanto</E
+M>le braccia al collo</E
+M>in faccia</E
+M>la colpa addosso a qualcuno</E
+M>la polvere negli occhi</E
+M>un’occhiata</E
+M>uno sguardo</E
+M>gettarsi addosso un indumento</E
+M>si gettò il mantello sulle spalle e uscì</E
+M>le fondamenta</E
+M>un ponte</E
+M>l’ombra</E
+M>E vedi omai che ’l poggio l’ombra getta</E
+M>la nave è stata gettata dalle onde contro gli scogli</E
+M>a terra qualcuno</E
+M>una famiglia nella miseria</E
+M>nella disperazione</E
+M>la vita</E
+M>gettar la vita in un’impresa disperata</E
+M>gettarsi dal trampolino</E
+M>dalla finestra</E
+M>gettarsi nel fiume</E
+M>non altramenti che si gitta l’avoltoio alla carogna</E
+M>gettarsi nella mischia</E
+M>in mezzo ai nemici</E
+M>contro un avversario</E
+M>fra due contendenti per separarli</E
+M>gettarsi sul letto</E
+M>si gettò per terra sfinito dalla fatica</E
+M>gettarsi disteso</E
+M>bocconi</E
+M>in ginocchio</E
+M>gettarsi alle ginocchia di qualcuno</E
+M>gettarsi nelle braccia di qualcuno</E
+M>è capace di gettarsi nelle braccia del primo che càpita</E
+M>gettarsi ai piedi di qualcuno</E
+M>gettarsi ai piedi di una donna</E
+M>gettarsi alla</E
+M>dalla</E
+M>parte di qualcuno</E
+M>il Tevere si getta nel Tirreno</E
+M>il Mincio si getta nel Po</E
+M>una statua</E
+M>un bassorilievo</E
+M>un ciborio del sagramento di bronzo gettato gran parte da maestro Giacomo Ciciliano</E
+M>E i muti lor Dei benedir Che l’uomo in metallo gettò</E
+M>gettare</E
+M>sangue dalla bocca</E
+M>il vulcano gettava fiamme e lava</E
+M>un grido</E
+M>Trattando più color</E
+M>con le sue mani</E
+M>Che l’alta terra sanza seme gitta</E
+M>la carogna gettava un puzzo insopportabile</E
+M>buttare</E
+M>la fontana non getta più</E
+M>è un’imposta che ha gettato molto</E
+M>maglia gettata</E
+M>jeté</E

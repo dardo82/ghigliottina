@@ -1,0 +1,59 @@
+esercito.txt
+"commissario dell'esercito"
+"esercito"
+"esercito"
+"esercito d'occupazione"
+"Esercito della Salvezza"
+"esercito di terra"
+"esercito di volontari"
+"esercito di volontari"
+"esercito regolare"
+"generale dell'esercito"
+"gradi più alti (dell'esercito)"
+"ingegnere dell'esercito"
+"l'Esercito della Salvezza"
+"riserve dell'esercito"
+"truppe dell'esercito"
+#* settore delle forze armate destinato alle operazioni [[terrestre|terrestri]]
+*[[forze armate]] ,[[milizie]], [[truppe]] 
+*italiano
+M>exerc</E
+M>tus</E
+M>exercere</E
+M>l’e</E
+M>italiano</E
+M>la formazione di un e</E
+M>guidare l’esercito</E
+M>di occupazione</E
+M>l’e</E
+M>delle Alpi</E
+M>del Reno</E
+M>Esercito di Franceschiello</E
+M>l’e</E
+M>celeste</E
+M>l’e</E
+M>infernale</E
+M>Dio degli e</E
+M>Deus sabaoth</E
+M>l’e</E
+M>dei credenti</E
+M>L’essercito di Cristo</E
+M>che sì caro Costò a rïarmar</E
+M>della salvezza</E
+M>industriale di riserva</E
+M>un e</E
+M>di ricercatori lavora per salvare una vita umana</E
+M>vi siete mai trovata</E
+M>dopo una pioggia di autunno</E
+M>a sbaragliare un e</E
+M>di formiche?</E
+M>un e</E
+M>di camerieri</E
+M>di creditori</E
+M>un e</E
+M>di gatti</E
+M>di topi</E
+M>accanto</E
+M>su una tavola</E
+M>l’e</E
+M>schierato delle scarpe di casa</E

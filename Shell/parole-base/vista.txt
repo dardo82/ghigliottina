@@ -1,0 +1,272 @@
+vista.txt
+"a prima vista"
+"a prima vista"
+"a vista"
+"aguzza la vista (il gioco)"
+"aguzzare la vista"
+"acuire la vista"
+"alla vista"
+"alla vista di"
+"angolo di vista"
+"angolo di vista"
+"avere in vista"
+"bella vista"
+"bella vista"
+"ben in vista"
+"casa con mattoni rossi a vista"
+"che spende denaro in un area per ottenere il consenso popolare in vista delle votazioni"
+"che vista spettacolare!"
+"comparire alla vista"
+"con la vista d'aquila, con l'occhio di falco"
+"con lo stesso punto di vista"
+"controllato a vista, scortato"
+"cucina a vista"
+"da questo punto di vista"
+"da un punto di vista professionale"
+"da un punto di vista sociale"
+"dal punto di vista di"
+"dalla vista acuta"
+"della vista"
+"denaro a vista"
+"di vista"
+"dipende dai punti di vista"
+"eccitamento in vista di qlc."
+"efficace dal punto di vista dei costi"
+"esporre bene in vista"
+"esposto alla vista"
+"esprimere il proprio punto di vista"
+"essere in vista"
+"fine in vista"
+"gestire a vista"
+"hasta la vista (arrivederci; addio in sp.)"
+"hasta la vista"
+"in piena vista"
+"in piena vista"
+"in vista"
+"in vista"
+"in vista"
+"in vista"
+"in vista del fatto che"
+"in vista di"
+"in vista di, in previsione di"
+"in vista, davanti a sé, imminente, prossimo, futuro"
+"in vista, in prospettiva, davanti a sé"
+"innamorarsi a prima vista"
+"lasciare in vista"
+"liquidazione a vista"
+"mattoncini a vista"
+"mettere qualcosa lontano dalla vista"
+"modesto punto di vista"
+"navigare a vista"
+"non avere più la vista di una volta"
+"non perdere di vista"
+"pagamento a vista"
+"percepire con la vista"
+"perdere di vista"
+"perdere la vista"
+"personaggio in vista"
+"piacevole alla vista\/piacevole da guardare"
+"pietra a vista"
+"potenziarsi in vista di"
+"prima vista"
+"punto di vista"
+"punto di vista"
+"punto di vista"
+"punto di vista"
+"punto di vista"
+"punto di vista"
+"punto di vista"
+"punto di vista"
+"punto di vista"
+"punto di vista"
+"punto di vista"
+"punto di vista obiettivo"
+"se l'è vista brutta"
+"senso della vista"
+"sotto altri punti di vista"
+"sotto ogni punto di vista"
+"tenersi lontano dalla vista"
+"travi a vista"
+"vista"
+"vista"
+"vista"
+"vista"
+"vista esplosa"
+"vista frontale"
+"vista lunga, lungimiranza"
+"vista molto acuta"
+"vista offuscata"
+"vista offuscata"
+"vista panoramica"
+"volo a vista"
+"volo con regole a vista"
+*[[sguardo]], [[occhio]], [[percezione]], [[visione]]
+*[[visuale]], campo visivo
+*[[panorama]], [[scena]], [[spettacolo]], [[veduta]], [[visuale]], [[paesaggio]], [[scenario]]
+*[[occhiata]], [[guardata]], [[impressione]], esame rapido
+*[[cecità]]
+*[[svista]]
+*''punto di 
+*''pagabile a 
+*''a prima 
+*''in 
+*''essere in 
+*''mettere in 
+*''persona in 
+*italiano
+*lettone
+M>vedere</E
+M>visto</E
+M>il senso della v.</E
+M>l’organo della v.</E
+M>non è cieco nato</E
+M> ha perduto la v. in guerra</E
+M>riacquistare la v.</E
+M>che Dio gli conservi la v.!</E
+M>essere di v. corta</E
+M>acuta</E
+M>acutissima</E
+M>Chiara alma</E
+M> pronta v.</E
+M> occhio cerviero</E
+M>avere la v. buona</E
+M>cattiva</E
+M>debole</E
+M>stanca</E
+M>mi si è abbassata la v.</E
+M>gli si era annebbiata</E
+M>offuscata</E
+M>rischiarata la v.</E
+M>indebolimento</E
+M>difetti</E
+M>malattie della v.</E
+M>esame della v.</E
+M>O sol che sani ogne v. turbata</E
+M>seconda v.</E
+M>second sight</E
+M>alla v. di quello spettacolo mi sono commosso</E
+M>alla v. di tanta rovina scoppiò in pianto</E
+M>A me pur giova di sperare ancora La dolce v. del bel viso adorno</E
+M>Punto di v.</E
+M>dal suo punto di v. ha ragione</E
+M>sono due diversi punti di vista</E
+M>La v. mia</E
+M> che tanto lei seguio Quanto possibil fu</E
+M>vede Tutte le v. in sé fisse ed intente</E
+M>Gli occhi in giù volse</E
+M> e in un sol punto e in una vista mirò ciò ch’in sé il mondo aduna</E
+M>dare una v. a un giornale</E
+M>non ho studiato ancora il problema</E
+M> ho dato soltanto una v. ai documenti</E
+M>l’albero è cresciuto tanto che mi toglie la v. della strada</E
+M>uscire di v.</E
+M>perdere di v.</E
+M>veduta</E
+M>dalla finestra si gode un’ampia v. sul mare</E
+M>c’è una bella v. della pianura sottostante</E
+M>bellavista</E
+M>in bellavista</E
+M>una terribile v. si offrì ai nostri sguardi</E
+M>Ma non sì che paura non mi desse La v. che m’apparve d’un leone</E
+M>Fa con sue v. leggiadrette e nove L’anime da’ lor corpi pellegrine</E
+M>non con quegli visi che io soleva</E
+M> ma con una v. orribile</E
+M>Con lei va Gentilezza in v. umana</E
+M>Sfidò alla giostra Ricciardetto</E
+M> ch’era Dinanzi</E
+M> e vista avea di guerrier franco</E
+M>là ovunque questa donna mi vedea</E
+M> sì si facea d’una v. pietosa e d’un colore palido quasi come d’amore</E
+M>far bella v.</E
+M>cosa troppo vista</E
+M> perde grazia e vista</E
+M>vista</E
+M>bellezza</E
+M>avendola veduta</E
+M>senza alcuna v. nel viso d’essere stata battuta</E
+M>pianta</E
+M>sezione</E
+M>A vista</E
+M>guardare a v.</E
+M>sparare a v.</E
+M>superare un passaggio a v.</E
+M>a faccia v.</E
+M>a facciavista</E
+M>in vista</E
+M>a vista</E
+M>un muro di mattoni in</E
+M>a vista</E
+M>a v.</E
+M>pagabile a v.</E
+M>cambio a v.</E
+M>a certo tempo vista</E
+M>a v. di tutti</E
+M>a v. d’occhio</E
+M>la pianura si stendeva uniforme a v. d’occhio</E
+M>il bambino cresce a vista d’occhio</E
+M>A prima v.</E
+M>amore</E
+M>innamoramento a prima v.</E
+M>l’ho riconosciuto</E
+M>l’ho giudicato a prima v.</E
+M>a prima v. il problema sembrava facile</E
+M> ma poi si è rivelato complesso e difficile</E
+M>tradurre a prima v. dal greco</E
+M>una lettera in tedesco</E
+M>leggere la musica a prima vista</E
+M>Di vista</E
+M>conoscere uno di v.</E
+M>testimone di v.</E
+M>perdere di v.</E
+M>perdere di v. un amico</E
+M>perdere di v. l’argomento principale</E
+M>perdere di v. il proprio scopo</E
+M>il proprio interesse</E
+M>In vista</E
+M>mettere</E
+M>bene</E
+M>in v.</E
+M>tenere in v.</E
+M>mettersi in v.</E
+M>ha fatto di tutto per mettersi in v.</E
+M>essere</E
+M>giungere in v. di un luogo</E
+M>a vista</E
+M>Ed essi intanto in vèr le mura a vista Giunser de la città</E
+M>essere in v.</E
+M>terra in v.!</E
+M>è in vista una crisi di governo</E
+M>avere in v. qualche cosa</E
+M>ho in v. un viaggio in Grecia</E
+M>una persona in v.</E
+M>in v. di</E
+M>è stato assunto in v. delle sue benemerenze</E
+M>mettere in buona</E
+M>in cattiva</E
+M>vista</E
+M>in buona</E
+M>in cattiva luce</E
+M>In vista</E
+M>un veglio solo</E
+M> Degno di tanta reverenza in vista</E
+M> Che più non dee a padre alcun figliuolo</E
+M>ancora che la lor partita gli gravasse</E
+M> pure in v. lietamente il diede</E
+M>e in v. irato pare Suo figlio</E
+M>Fare vista di</E
+M>un capestro ...</E
+M> faccendo v. di fare carezze</E
+M> gli gittò alla gola</E
+M>tante volte bisogna anche far v. di credere</E
+M>non faccendo l’acqua alcuna v. di dover ristare</E
+M>far le viste di</E
+M>tiriamo innanzi e facciamo almeno le v. d’intenderci</E
+M>mio padre farebbe le v. di non vedere</E
+M>passavo la giornata a far</E
+M>più o meno</E
+M>le v. di studiare</E
+M>effigïata ad una vista D’un gran palazzo</E
+M> Micòl ammirava</E
+M>veduta</E
+M>visiera</E
+M>Si ritornaro incontra: e a prima giunta Ambi alla vista si ferir di punta</E

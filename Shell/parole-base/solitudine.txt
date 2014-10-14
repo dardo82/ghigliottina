@@ -1,0 +1,32 @@
+solitudine.txt
+"in solitudine"
+"Soffrire la solitudine"
+"solitudine"
+"solitudine"
+*[[isolamento]]
+*''(isolamento)'' [[compagnia]] 
+*[[anti-solitudine]]
+*[[solo]], [[solitario]]
+*''La solitudine è la madre della malinconia.''
+M>solitudo -d</E
+M>nis</E
+M>solus</E
+M>amare</E
+M>desiderare</E
+M>cercare</E
+M>fuggire</E
+M>temere la s.</E
+M>sentire desiderio di s.</E
+M>di un po&#8217; di s.</E
+M>beata la s.</E
+M> finalmente un po&#8217; di pace!</E
+M>cercare</E
+M>trovare la serenità dell&#8217;animo nella s. di un convento</E
+M>vivere in s.</E
+M>nella più nera s.</E
+M>trascorrere la vecchiaia in s.</E
+M>sentire il peso</E
+M>la tristezza</E
+M>della propria solitudine</E
+M>la s. dei monti e dei deserti</E
+M>le vaste s. oceaniche</E

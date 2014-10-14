@@ -1,0 +1,10 @@
+pareggio.txt
+"chiudere in pareggio"
+"chiudere un bilancio in pareggio"
+"pareggio"
+"pareggio"
+"pareggio a reti inviolate"
+"pareggio casalingo"
+"punto del pareggio"
+"punto di pareggio"
+*[[debito]], [[utile]], [[profitto]], [[attivo]], [[passivo]], [[bilancio]]

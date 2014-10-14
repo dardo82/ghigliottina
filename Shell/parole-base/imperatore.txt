@@ -1,0 +1,29 @@
+imperatore.txt
+"imperatore"
+"pinguino imperatore"
+*[[sovrano]], [[re]], [[regnante]]
+*[[imperante]],[[imperare]],[[imperatorio]],[[impero]]
+*italiano
+M>imperator</E
+M>oris</E
+M>imperare</E
+M>l’i</E
+M>del Sacro Romano Impero</E
+M>gli i</E
+M>della casa d’Austria</E
+M>Kaiser</E
+M>czar</E
+M>mikado</E
+M>negus</E
+M>scià</E
+M>quello imperador che là sù regna</E
+M>Inf</E
+M>lo ’mperador che sempre regna</E
+M>Par</E
+M>Lo ’mperador del doloroso regno</E
+M>Inf</E
+M>Pere imperatore</E
+M>pere imperatore Alessandro</E
+M>Kaiser</E
+M>Pesce i</E
+M>pesce gallo</E

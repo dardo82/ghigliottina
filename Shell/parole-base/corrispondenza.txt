@@ -1,0 +1,65 @@
+corrispondenza.txt
+"amico per corrispondenza"
+"corrispondenza"
+"corrispondenza"
+"corrispondenza"
+"corrispondenza"
+"corrispondenza commerciale"
+"corrispondenza in arrivo"
+"corrispondenza in partenza"
+"corrispondenza personale"
+"corso per corrispondenza"
+"elettore per corrispondenza"
+"essere in corrispondenza con"
+"in corrispondenza a"
+"scambio di corrispondenza"
+"scuola per corrispondenza"
+"vendita di libri per corrispondenza"
+"votare per corrispondenza"
+"voto per corrispondenza"
+M>la c</E
+M>fra le varie parti dell’opera è perfetta</E
+M>manca la c</E
+M>tra l’esterno e l’interno dell’edificio</E
+M>non c’è c</E
+M>tra quanto lui afferma e la verità dei fatti</E
+M>somiglianze e arcane c. che prima evocavano le cose e poi le facevano sempre accadere</E
+M>sulla parete di fondo</E
+M>in c</E
+M>con la porta d’ingresso</E
+M>abbiamo messo un grande specchio</E
+M>univoca</E
+M>plurivoca</E
+M>biunivoca</E
+M>principio di c</E
+M>amore che ha c</E
+M>che non trova c</E
+M>celeste è questa C</E
+M>d’amorosi sensi</E
+M>epistolare</E
+M>ufficiale</E
+M>privata</E
+M>regolare</E
+M>saltuaria</E
+M>essere in c</E
+M>tenersi</E
+M>mettersi in c</E
+M>con qualcuno</E
+M>corso per c</E
+M>vendite per c</E
+M>leggere</E
+M>firmare</E
+M>riordinare la c</E
+M>privata</E
+M>d’ufficio</E
+M>in arrivo</E
+M>in partenza</E
+M>un disperato</E
+M>che tiene corrispondenza co’ disperati più furiosi</E
+M>Ufficio di c</E
+M>l’ufficio di c</E
+M>romano di</E
+M>Der Spiegel</E
+M>l’ufficio di c</E
+M>londinese del</E
+M>Corriere della sera</E

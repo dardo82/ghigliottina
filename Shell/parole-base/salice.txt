@@ -1,0 +1,19 @@
+salice.txt
+"legno di salice"
+"salice"
+"salice americano"
+"salice piangente"
+"verde salice"
+*[[salice piangente]], [[salice a vimini]], [[vimini]]
+M>salix -</E
+M>cis</E
+M>Salix</E
+M>Salix herbacea</E
+M>Salix</E
+M>Salix viminalis</E
+M>S. purpurea</E
+M>S. triandra</E
+M>S. alba</E
+M>salice piangente</E
+M>S. babylonica</E
+M>sembra un s. piangente</E

@@ -1,0 +1,17 @@
+esportare.txt
+"esportare"
+"esportare"
+*[[esportabile]], [[esportatore]], [[esportazione]]
+M>exportare</E
+M>portare</E
+M>io espòrto</E
+M>materie prime</E
+M>prodotti agricoli</E
+M>industriali</E
+M>manufatti</E
+M>capitali</E
+M>valuta</E
+M>opere d’arte</E
+M>idee</E
+M>e. un data-base</E
+M>e. un documento in formato testo</E

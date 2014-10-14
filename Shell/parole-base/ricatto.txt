@@ -1,0 +1,9 @@
+ricatto.txt
+"ricatto"
+#*''quel parlamentare tiene sotto ricatto le istituzioni''
+M>fare</E
+M>tentare un r</E
+M>cedere a un r</E
+M>è un vile</E
+M>un volgare ricatto</E
+M>ma questo è un r</E

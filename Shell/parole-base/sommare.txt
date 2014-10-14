@@ -1,0 +1,24 @@
+sommare.txt
+"sommare"
+"sommare"
+"sommare"
+"sommare a"
+*fare la somma, [[addizionare]], [[totalizzare]]
+*[[aggiungere]], [[unire]], [[aggregare]], [[ammontare]], [[assommare]]
+*[[sottrarre]], [[detrarre]], [[defalcare]], [[togliere]], [[levare]]
+*[[assommare]],[[somma]], [[sommarsi]], [[sommatoria]]
+M>io sómmo</E
+M>s. due numeri</E
+M>due quantità</E
+M>due angoli</E
+M>s. un numero con un altro</E
+M>a un altro</E
+M>al prezzo di costo devi s. le spese di trasporto</E
+M>essere</E
+M>i profitti sommano a più di diecimila euro</E
+M>tutto sommato</E
+M>quest&#8217;affare</E
+M> tutto sommato</E
+M> non mi conviene</E
+M>tutto sommato</E
+M> vale la pena di accettare</E

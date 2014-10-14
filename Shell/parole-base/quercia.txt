@@ -1,0 +1,56 @@
+quercia.txt
+"corteccia di quercia"
+"decorazione militare americana a forma di foglia di quercia"
+"di quercia"
+"foglia di quercia"
+"impiallacciato di quercia"
+"legno di quercia"
+"quercia"
+"quercia bianca"
+"quercia con foglie decidue"
+"quercia da sughero"
+"quercia rossa"
+"quercia velenosa"
+*[[querceto]], [[quercia da sughero]]
+*[[ghianda]], [[sughero]]
+*''Forte come una 
+*italiano
+M>quercea</E
+M>quercus</E
+M>Quercus</E
+M>Quercus</E
+M>cupola</E
+M>ghianda</E
+M>legno di quercia</E
+M>pubescente</E
+M>roverella</E
+M>Quercus pubescens</E
+M>rovere</E
+M>rovere</E
+M>petraea</E
+M>leccio</E
+M>leccio</E
+M>ilex</E
+M>da sughero</E
+M>sughera</E
+M>suber</E
+M>cerro</E
+M>cerro</E
+M>cerris</E
+M>spinosa</E
+M>coccifera</E
+M>farnia</E
+M>robur</E
+M>pedunculata</E
+M>vallonea</E
+M>macrolepis</E
+M>aegilops</E
+M>essere una q</E
+M>forte</E
+M>robusto come una q</E
+M>quel vecchio montanaro è ancora una q</E
+M>far quercia</E
+M>la quercia</E
+M>la Quercia</E
+M>Quercia marina</E
+M>Fucus vesiculosus</E

@@ -1,0 +1,171 @@
+periodo.txt
+"a metà periodo"
+"analisi del periodo"
+"aspettare per un lungo periodo"
+"avversità; periodo sfortunato"
+"breve periodo"
+"brutto periodo, periodo difficile"
+"cinquanta punti messi a segno dallo stesso battitore in un periodo"
+"cinquanta punti messi a segno dallo stesso battitore in un periodo"
+"da\/per un lunghissimo periodo"
+"del periodo di guerra"
+"del periodo vincolante"
+"del periodo vincolante"
+"di periodo di dimezzamento, emivita"
+"durante il periodo"
+"durante quale periodo"
+"durante un periodo di tempo"
+"fortuna; periodo fortunato"
+"giorni sereni; periodo di bonaccia"
+"in quel periodo, in quei giorni, a quell'epoca, a quel tempo"
+"in questo periodo"
+"investimento di lungo periodo"
+"nel breve periodo"
+"nel periodo successivo, nel periodo seguente"
+"non nel periodo di punta"
+"non nel periodo di punta"
+"non stare passando un bel periodo"
+"per il periodo di"
+"per un lungo periodo"
+"periodo"
+"periodo"
+"periodo"
+"periodo"
+"periodo"
+"periodo"
+"periodo"
+"periodo"
+"periodo (anche di malattia)"
+"periodo annuale"
+"periodo antecedente la scrittura"
+"periodo artistico"
+"periodo base"
+"periodo caldo"
+"periodo contabile"
+"periodo critico"
+"periodo cruciale"
+"periodo d'attesa"
+"periodo dell'anno"
+"periodo della vita"
+"periodo della vita in cui si è studenti"
+"periodo di apertura"
+"periodo di assestamento"
+"periodo di detenzione"
+"periodo di detenzione"
+"periodo di digiuno"
+"periodo di dimezzamento"
+"periodo di ferie annuo"
+"periodo di fioritura"
+"periodo di freddo intenso"
+"periodo di incubazione"
+"periodo di incubazione"
+"periodo di latenza"
+"periodo di massima fioritura"
+"periodo di mercato in cui per gli assicurati è difficile ottenere copertura di rischi e i premi sono"
+"periodo di pace"
+"periodo di prova"
+"periodo di quattro anni"
+"periodo di reclusione"
+"periodo di riferimento"
+"periodo di scadenza"
+"periodo di siccità"
+"periodo di tempo"
+"periodo di tempo"
+"periodo di tempo"
+"periodo di tempo"
+"periodo fiorente"
+"periodo fiscale"
+"periodo glaciale"
+"periodo incerto e limitato"
+"periodo intercorrente"
+"periodo intermedio"
+"periodo intermedio"
+"periodo latente"
+"periodo mestruale"
+"periodo mestruale"
+"periodo natalizio"
+"periodo natalizio: 24 dicembre - 6 gennaio"
+"periodo non bellico"
+"periodo Permiano"
+"periodo scolastico"
+"periodo stabile"
+"periodo successivo"
+"periodo tranquillo"
+"periodo triste"
+"settimana d'inferno (periodo di iniziazione in una confraternita di college)"
+"sto attraversando un brutto periodo"
+"tempi di fermo, periodo morto"
+"un periodo di tempo"
+"un periodo piacevole"
+"vivere un periodo difficile, essere in un brutto momento"
+#*''il '''periodo''' seguente al trasloco fu tremendo.''
+*[[tempo]], lasso di tempo, [[momento]], [[intervallo]], [[durata]], [[fase]], [[ciclo]], [[età]], [[era]], [[epoca]], [[secolo]], [[evo]]
+M>peri</E
+M>dus</E
+M>di rotazione</E
+M>di rivoluzione di un astro</E
+M>di un faro</E
+M>numeri periodici</E
+M>funzioni periodiche</E
+M>quasi</E
+M>periodo</E
+M>del moto</E
+M>di oscillazione</E
+M>dell&#8217;onda</E
+M>gli antichi dividevano la vita umana in sette p</E
+M>di sette anni ciascuno</E
+M>gli storici dividono la letteratura latina in p</E
+M>arcaico</E
+M>aureo</E
+M>argenteo e p</E
+M>della decadenza</E
+M>il p</E
+M>delle Crociate</E
+M>il p</E
+M>delle invasioni barbariche; il p</E
+M>delle guerre d&#8217;indipendenza</E
+M>d&#8217;induzione</E
+M>p. neonatale</E
+M>il p. fecondo di una donna</E
+M>sindrome dei p</E
+M>temporaleschi</E
+M>buono</E
+M>cattivo</E
+M>difficile</E
+M>critico</E
+M>siamo in un p</E
+M>di assestamento</E
+M>quello fu un p</E
+M>glorioso della nostra storia</E
+M>il p</E
+M>delle vacanze</E
+M>delle feste</E
+M>sta attraversando un brutto p</E
+M>ha avuto un lungo p</E
+M>di depressione</E
+M>questo per noi è un p</E
+M>particolarmente felice</E
+M>breve</E
+M>breve p</E
+M>lungo p</E
+M>numero di periodi al secondo</E
+M>numero di cicli al secondo</E
+M>ipotattico</E
+M>paratattico</E
+M>la costruzione del p</E
+M>il p</E
+M>ciceroniano</E
+M>manzoniano</E
+M>breve</E
+M>lungo</E
+M>agile</E
+M>svelto</E
+M>pesante</E
+M>armonioso</E
+M>ridondante</E
+M>spesse volte una sola virgola ben messa</E
+M>dà luce a tutt&#8217;un p</E
+M>binario</E
+M>ternario</E
+M>abbiamo passato proprio un periodaccio</E
+M>quando finirà questo periodaccio?</E

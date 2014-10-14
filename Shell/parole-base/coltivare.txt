@@ -1,0 +1,62 @@
+coltivare.txt
+"coltivare"
+"coltivare"
+"coltivare"
+"coltivare l'idea di"
+#* ''coltivare  un hobby''
+#* ''coltivare un'amicizia''
+#* ''coltivare una relazione''
+* ''(coltivare la terra)''
+* ''(coltivare una pianta)''
+* ''(coltivare un'attività)''
+* ''(coltivare un sentimento)''
+* ''(coltivare la terra)''
+*[[coltivato]]
+*[[coltivazione]]
+*[[coltivabile]]
+*[[culto]]
+M>cultivare</E
+M>cultus</E
+M>col</E
+M>la terra</E
+M>un podere</E
+M>un campo</E
+M>l’orto</E
+M>a grano</E
+M>a orto</E
+M>a vigneti</E
+M>ad agrumi</E
+M>a foraggio</E
+M>una miniera</E
+M>le perle</E
+M>la pastorizia</E
+M>la pésca</E
+M>gli studî</E
+M>le scienze</E
+M>la musica</E
+M>un’arte</E
+M>gli affari</E
+M>la mente</E
+M>l’animo</E
+M>lo spirito</E
+M>i vizî</E
+M>le passioni</E
+M>le amicizie</E
+M>un’amicizia</E
+M>un sogno</E
+M>un’ambizione</E
+M>un progetto</E
+M>un disegno ambizioso</E
+M>un’illusione</E
+M>un’utopia</E
+M>la propria persona</E
+M>una persona</E
+M>voleva essere libera di potere adorare e c</E
+M>il nostro Signore Iesù Cristo</E
+M>dovrebbe c. di più</E
+M>cerca di coltivarti con buone letture</E
+M>terra coltivata</E
+M>campo coltivato</E
+M>perle coltivate</E
+M>una persona c</E
+M>regione fertile e piena di coltivati</E

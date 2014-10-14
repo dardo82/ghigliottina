@@ -1,0 +1,61 @@
+crema.txt
+"bianco crema"
+"color crema"
+"crema"
+"crema"
+"crema"
+"crema"
+"crema"
+"di color crema, giallo chiaro"
+"crema da barba"
+"crema depilatoria"
+"crema detergente"
+"crema di cacao"
+"crema di caffè"
+"crema di cocco"
+"crema di latte"
+"crema di noci"
+"crema di piselli"
+"crema di piselli"
+"crema evanescente"
+"crema idratante"
+"crema pasticcera"
+"crema pasticcera surgelata"
+"crema per il viso"
+"crema per le mani"
+"crema protettiva"
+"crema solare"
+"di color crema"
+"dolce di crema"
+"gelato alla crema"
+"isola galleggiante; dolce a base di crema"
+"torta di crema"
+*( del latte)[[panna]] 
+M>crème</E
+M>crama</E
+M>chrisma</E
+M>panna</E
+M>di siero</E
+M>di caffè</E
+M>di cacao</E
+M>una torta alla c</E
+M>paste</E
+M>bignè con crema</E
+M>questa minestra è una crema</E
+M>cacao</E
+M>di banana</E
+M>la c</E
+M>dell’aristocrazia</E
+M>la c</E
+M>della società cittadina</E
+M>di caffè</E
+M>per la pelle</E
+M>per barba</E
+M>da barba</E
+M>per calzature</E
+M>Color crema</E
+M>crema</E
+M>un soprabito crema</E
+M>color crema</E
+M>guanti</E
+M> sciarpe crema</E

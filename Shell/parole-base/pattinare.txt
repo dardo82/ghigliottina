@@ -1,0 +1,16 @@
+pattinare.txt
+"pattinare"
+"pattinare"
+"pattinare"
+"pattinare sul ghiaccio"
+M>patiner</E
+M>patin</E
+M>io pàttino</E
+M>avere</E
+M>imparare a p</E
+M>sul ghiaccio</E
+M>su rotelle</E
+M>far p</E
+M>la frizione</E
+M>passo pattinato</E
+M>passo di pattinaggio</E

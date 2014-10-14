@@ -1,0 +1,53 @@
+resa.txt
+"chiarimento, resa dei conti"
+"condizioni di resa"
+"giorno della resa dei conti"
+"poca spesa, tanta resa"
+"resa"
+"resa"
+"resa"
+"resa"
+"resa grafica"
+#* ''Jag tycker om att resa''
+*italiano
+*svedese
+M>rendere</E
+M>reso</E
+M>intimare</E
+M>accettare la r</E
+M>le condizioni della r</E
+M>a condizioni</E
+M>incondizionata</E
+M>a discrezione</E
+M>con onore delle armi</E
+M>obbligare alla r</E
+M>dell&#8217;invenduto</E
+M>resa</E
+M>invenduto</E
+M>la r</E
+M>è stata abbondante</E
+M>termine di r</E
+M>di bordo</E
+M>comune</E
+M>proporzionale</E
+M>certificato di resa</E
+M>la r</E
+M>dei conti</E
+M>lo aspetto alla r</E
+M>dei conti</E
+M>alla r</E
+M>dei conti si vedrà chi aveva ragione</E
+M>la r</E
+M>di un materiale</E
+M>di un prodotto</E
+M>è un combustibile che dà un&#8217;ottima r</E
+M>una r</E
+M>bassa</E
+M>la r</E
+M>di una macchina</E
+M>di un processo chimico</E
+M>rendimento</E
+M>resa</E
+M>rendimento</E
+M>quantitativo</E
+M>di una coltura</E

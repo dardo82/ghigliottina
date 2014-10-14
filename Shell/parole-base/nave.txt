@@ -1,0 +1,155 @@
+nave.txt
+"a bordo della nave"
+"alleggerire la nave gettando il carico in acqua"
+"armata, pronta per salpare (nave)"
+"atto di nazionalità di una nave"
+"da un capo all'altro della nave"
+"determinazione della posizione di una nave senza l'ausilio delle stelle"
+"essere al timone di una nave"
+"galleggiamento a nave scarica"
+"in secca (di nave)"
+"la nave"
+"nave"
+"nave a due ponti; biplano; autobus a due piani; letto a castello"
+"nave a vapore"
+"nave ammiraglia"
+"nave ammiraglia"
+"nave cisterna"
+"nave cisterna, nave da carico"
+"nave"
+"nave corazzata"
+"nave d'appoggio"
+"nave da carico"
+"nave da carico"
+"nave da carico"
+"nave da crociera"
+"nave da guerra"
+"nave da pesca"
+"nave degli schiavi, nave negriera"
+"nave della libertà"
+"nave di lusso"
+"nave gemella"
+"nave mercantile"
+"nave mercantile"
+"nave merci"
+"nave ospedale"
+"nave passeggeri transoceanica"
+"nave per il trasporto"
+"nave per il trasporto delle truppe"
+"nave per trasporto merci"
+"nave porta-container"
+"nave postale"
+"nave postale"
+"nave scorta"
+"nave scuola"
+"nave scuola (persona)"
+"onda che sbatte sul bordo della nave"
+"per tutta la lunghezza della nave"
+"perdere la nave"
+"portata lorda (per nave)"
+"verso il centro (della nave)"
+"viaggiare in nave"
+* [[vascello]], [[veliero]], [[brigantino]]
+*[[astronave]], [[motonave]]
+*italiano
+M>navis</E
+M>prora</E
+M>prua</E
+M>centro</E
+M>maestra</E
+M>poppa</E
+M>opera viva</E
+M>carena</E
+M>opera morta</E
+M>sovrastrutture</E
+M>ponti</E
+M>paratie</E
+M>maggiori</E
+M>minori</E
+M>naviglio</E
+M>marina</E
+M>flotta</E
+M>mercantile</E
+M>militari</E
+M>da guerra</E
+M>da battaglia</E
+M>navi appoggio</E
+M>officina</E
+M>rifornitrici</E
+M>i rifornitori</E
+M>ammiraglia</E
+M>cartello</E
+M>di cartello</E
+M>cartel ship</E
+M>cisterna</E
+M>da diporto</E
+M>imbarcazione da diporto</E
+M>fattoria</E
+M>factory ship</E
+M>gru</E
+M>mineraria</E
+M>ospedale</E
+M>portacontainer</E
+M>posacavi</E
+M>posatubi</E
+M>scuola</E
+M>traghetto</E
+M>ferry</E
+M>boat</E
+M>appoggio</E
+M>civetta</E
+M>pilota</E
+M>portarinfuse</E
+M>rompighiaccio</E
+M>vedetta</E
+M>baleniera</E
+M>metaniera</E
+M>petroliera</E
+M>lunghe</E
+M>onerarie</E
+M>frumentarie</E
+M>nave</E
+M>Ed ecco verso noi venir per nave Un vecchio</E
+M>bianco per antico pelo</E
+M>Nave</E
+M>aerea</E
+M>aeronave</E
+M>spaziale</E
+M>space</E
+M>ship</E
+M>astronave</E
+M>Passa la n</E
+M>mia colma d’oblio Per aspro mare</E
+M>Passa la n</E
+M>mia con vele nere</E
+M>la n</E
+M>de l’umana compagnia dirittamente per dolce cammino a debito porto correa</E
+M>Nave sanza nocchiere in gran tempesta</E
+M>dello stato</E
+M>la barca dello stato</E
+M>non mi ammazzo certo di lavoro</E
+M> non è mica mia la nave!</E
+M>nave</E
+M>attrezzatura</E
+M>velatura a nave</E
+M>a palo</E
+M>palo</E
+M>navi da latte</E
+M>navata</E
+M>la n</E
+M>centrale della chiesa</E
+M>la n</E
+M>trasversa</E
+M>Nave</E
+M>Carena</E
+M>Poppa</E
+M>Vela</E
+M>Bussola</E
+M>piazza Navona</E
+M>Campus</E
+M>Circus Agonalis</E
+M>Campus Agonis</E
+M>Campo</E
+M>in Agoni</E
+M>in Agona</E
+M>Navona</E

@@ -1,0 +1,20 @@
+congestione.txt
+"alleviare la congestione in"
+"congestione"
+"congestione"
+"liberare dalla congestione del traffico"
+M>congestio</E
+M>onis</E
+M>conger</E
+M>congestus</E
+M>congestion</E
+M>polmonare</E
+M>cerebrale</E
+M>delle prime vie respiratorie</E
+M>del traffico</E
+M>la c</E
+M>stradale nelle ore di punta</E
+M>provocare</E
+M>causare la c</E
+M>degli uffici postali</E
+M>dei servizî telefonici</E

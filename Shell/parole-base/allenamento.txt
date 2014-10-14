@@ -1,0 +1,40 @@
+allenamento.txt
+"allenamento"
+"allenamento ad intervalli controllati"
+"allenamento al coperto"
+"allenamento della memoria"
+"allenamento sportivo"
+"fuori allenamento"
+"gruppo di allenamento, gruppo di allenatori"
+"tabella di allenamento"
+#*''nuotatori in allenamento''
+*''(particolarmente  nello sport)'' [[addestramento]], [[preparazione]], [[esercitazione]], [[training]]
+*[[allenare]]
+M>l’a</E
+M>di un atleta</E
+M>della squadra</E
+M>fare a</E
+M>tenere in a</E
+M>i muscoli</E
+M>la mano</E
+M>i giocatori</E
+M>perdere l’a</E
+M>essere fuori a</E
+M>non avere più a</E
+M>a qualche cosa</E
+M>sulla palla</E
+M>sull’uomo</E
+M>tenere in a</E
+M>la mente</E
+M>il cervello</E
+M>tenersi in a</E
+M>fare conversazione in una lingua straniera per non perdere l’a</E
+M>tenere in a</E
+M>la mano</E
+M>tenersi in a</E
+M>di tanto in tanto cucino io</E
+M>per non perdere l’a</E
+M>bevo un bicchierino di tanto in tanto</E
+M>per tenermi in a</E
+M>per non perdere l’allenamento</E
+M>training autogeno</E

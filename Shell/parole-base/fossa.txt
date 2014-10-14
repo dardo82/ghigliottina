@@ -1,0 +1,17 @@
+fossa.txt
+"avere un piede nella fossa"
+"con un piede nella fossa"
+"essere nella fossa dei leoni"
+"fossa"
+"fossa"
+"fossa comune"
+"fossa dell'ascensore"
+"fossa orchestrale"
+"fossa settica"
+"fossa, buca"
+"la fossa"
+"scavarsi la fossa con le proprie mani"
+#*'' i caduti sono stati sepolti nella fossa comune''
+#*''la fossa delle Marianne è il punto più profondo dell'oceano Pacifico'' 
+*[[buca]], [[cavità]], [[fossato]], [[fosso]], [[scavo]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione 2000-2001, Le Monnier, p. 850

@@ -1,0 +1,60 @@
+autore.txt
+"autore"
+"autore"
+"autore"
+"autore di canzoni"
+"autore di discorsi"
+"autore tecnico"
+"autore televisivo"
+"autore-editore"
+"avviso di opera protetta da diritto d'autore"
+"creato dall'autore"
+"marchio d'autore"
+"nota dell'autore"
+"numero d'autore"
+"registrazione del diritto d'autore"
+"riga con il nome dell'autore"
+#* '''''autore''' dello scherzo'', '''''autore''' dell'omicidio'', '''''autore''' del pettegolezzo'';
+#* ''Giuseppe Verdi e Arrigo Boito sono gli '''autori''' dell'"Otello" e del "Falstaff"''
+#* ''[[diritto d'autore|diritto d''''autore''']]''
+#* ''Giacomo Leopardi è l''''autore''' che preferisco''
+*[[coautore]], [[cantautore]]
+*[[autorevole]], [[autorità]], [[autorizzare]], [[disautorare]], [[esautorare]]
+*''film d'
+M>trice</E
+M>auctor</E
+M>oris</E
+M>augere</E
+M>di un progetto</E
+M>di una proposta</E
+M>di una buona</E
+M>di una cattiva azione</E
+M>gli a</E
+M>della burla</E
+M>della rivolta</E
+M>dell’assassinio</E
+M>l’autore</E
+M>l’autrice dei miei giorni</E
+M>l’a</E
+M>del libro</E
+M>della commedia</E
+M>della tragedia</E
+M>del monumento</E
+M>tela d’a</E
+M>ignoto</E
+M>diritti d’a</E
+M>opera d’autore</E
+M>quadro</E
+M>ritratto</E
+M>statua</E
+M>monumento</E
+M>canzone d’autore</E
+M>d’autore</E
+M>anonimo</E
+M>classici</E
+M>moderni</E
+M>la sinfonia sarà diretta dall’a</E
+M>fuori l’a</E
+M>dante causa</E
+M>del reato</E
+M>mediato del reato</E

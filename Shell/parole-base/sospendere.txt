@@ -1,0 +1,38 @@
+sospendere.txt
+"annullare; sospendere una gara per il freddo"
+"sospendere"
+"sospendere"
+"sospendere"
+"sospendere"
+"sospendere le operazioni"
+"togliere l'energia a, sospendere l'energia"
+#* sospendere i prosciutti ai ganci'' 
+*[[sospensione]]
+M>susp</E
+M>sub</E
+M>pend</E
+M>appendere</E
+M>Viene al tempio con gli altri il sommo duce; E qui l&#8217;arme sospende</E
+M>Poi che l&#8217;un piè per girsene sospese</E
+M> Maometto mi disse esta parola; Indi a partirsi in terra lo distese</E
+M>appendere</E
+M>s. una massa a un centro di oscillazione</E
+M>s. la seduta per un&#8217;ora</E
+M>s. i lavori per mancanza di fondi</E
+M>s. le ricerche</E
+M>le indagini</E
+M>la partita è stata sospesa dopo il primo tempo</E
+M>per difficoltà finanziarie</E
+M> la rivista ha sospeso temporaneamente le pubblicazioni</E
+M>sospenderò la cura per alcuni giorni</E
+M>mi sono ammalato e ho dovuto s. la partenza</E
+M>s. un treno</E
+M>una corsa</E
+M>s. gli assegni</E
+M>la paga</E
+M>s. i pagamenti</E
+M>s. un funzionario</E
+M>un impiegato</E
+M>s. un alunno dalle lezioni</E
+M>dalla scuola</E
+M>s. un sacerdote</E

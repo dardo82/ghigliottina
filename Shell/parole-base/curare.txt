@@ -1,0 +1,65 @@
+curare.txt
+"curare"
+"assistere un malato, curare"
+"curare"
+"curare"
+"curare"
+"curare con una sudata"
+"curare i piedi"
+"curare la traduzione"
+"prevenire è meglio che curare"
+*[[guarire]], [[medicare]], [[sanare]], [[assistere]]
+* [[occuparsi]], [[interessarsi]], [[attendere]], [[provvedere]], [[sorvegliare]], [[vigilare]], [[accudire]]; [[seguire]], [[tutelare]], [[amministrare]]
+*[[procurare]], fare in modo, [[adoperarsi]]
+*[[disinteressarsi]], [[trascurare]]
+*[[curarsi]], [[curativo]], [[curatore]], [[cura]],[[curante]], [[curatela]],  [[curato]]
+*[[Strychnos toxifera]]
+M>rare</E
+M>cura</E
+M>la famiglia</E
+M>l’educazione dei figli</E
+M>i proprî interessi</E
+M>i proprî affari</E
+M>la propria persona</E
+M>ho curato personalmente l’esecuzione dell’ordine</E
+M>l’incasso di un effetto</E
+M>l’edizione di un’opera</E
+M>cura ch’egli non sappia nulla di tutto questo</E
+M>un malato</E
+M>è un medico che cura con molta coscienza i suoi malati</E
+M>sua figlia lo ha curato amorosamente fino all’ultimo</E
+M>una ferita</E
+M>una malattia</E
+M>curarsi</E
+M>dovresti curarti meglio</E
+M>non ha i soldi per curarsi</E
+M>farsi curare</E
+M>entrare in clinica per farsi c</E
+M>curarsi</E
+M>farsi c</E
+M>il fegato</E
+M>i nervi</E
+M>una disfunzione</E
+M>non c</E
+M>le chiacchiere della gente</E
+M>Chi è quel che non par che curi Lo ’ncendio?</E
+M>curarsi di qualche cosa</E
+M>non si è mai curato di rispondermi</E
+M>non curarsi di qualcuno</E
+M>di qualche cosa</E
+M>non ti c. di costui</E
+M>faccia quello che crede</E
+M>io non me ne curo</E
+M>non ti curar di lor</E
+M>ma guarda e passa</E
+M>Inf</E
+M>Non ragioniam di lor</E
+M>ma guarda e passa</E
+M>Parran faville de la sua virtute In non curar d’argento né d’affanni</E
+M>Gerbino</E
+M>quasi di morir vago</E
+M>non curando di saetta né di pietra</E
+M>alla nave si fece accostare</E
+M>curano</E
+M>medico curante</E
+M>noncurante</E

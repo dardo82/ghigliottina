@@ -1,0 +1,6 @@
+automobilista.txt
+"automobilista"
+*[[automobile]]
+*[[automobilistico]]
+M>automobile</E
+M>automobiliste</E

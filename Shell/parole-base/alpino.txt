@@ -1,0 +1,33 @@
+alpino.txt
+"alpino"
+"alpino"
+"giardino alpino"
+"salmerino alpino"
+"sci alpino"
+*[[alpestre]], [[montuoso]], [[montagnoso]], [[montano]], [[roccioso]], [[rupestre]]
+*[[prealpino]]
+M>alpinus</E
+M>Alpes</E
+M>le regioni</E
+M>le valli a</E
+M>vette a</E
+M>paesaggio alpino</E
+M>clima a</E
+M>Razza a</E
+M>Fauna a</E
+M>Piante a</E
+M>ipsofile</E
+M>Club A</E
+M>Italiano</E
+M>prove</E
+M>gare a</E
+M>alpino</E
+M>alpini</E
+M>truppe a</E
+M>i reggimenti</E
+M>i battaglioni a</E
+M>artiglieria a</E
+M>canzoni a</E
+M>cappello a</E
+M>all’alpina</E
+M>Punto a</E

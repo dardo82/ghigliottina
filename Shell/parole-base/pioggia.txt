@@ -1,0 +1,118 @@
+pioggia.txt
+"cancellare; pioggia radioattiva"
+"ci mancava anche la pioggia!"
+"danza della pioggia"
+"forte pioggia"
+"giorno di pioggia"
+"gocce di pioggia"
+"goccia (di pioggia)"
+"induzione artificiale della pioggia"
+"nube densa di pioggia"
+"per un giorno di pioggia"
+"pioggia"
+"pioggia"
+"pioggia battente"
+"pioggia di meteoriti"
+"pioggia gelata"
+"pioggia radioattiva"
+"rifugio contro pioggia radioattiva"
+"una pioggia di bombe"
+#* ''la '''pioggia''' ci ha [[bagnati]] tutti''
+#* ''una '''pioggia''' di [[coriandoli]] accompagnava la [[sfilata]] dei [[carri]] di [[carnevale]] 
+#* ''mi ha scaricato addosso una '''pioggia''' di [[epiteti]] [[ingiuriosi]]''
+* ''(precipitazione atmosferica)'' [[acquerugiola]]  [[acquazzone]], [[scroscio]], [[rovescio]], [[pioggerella]], [[temporale]], [[diluvio]], [[nubifragio]], [[piovasco]], [[spruzzata]], [[acquata]], [[precipitazione]]
+*bel tempo, tempo asciutto, [[siccità]]
+*[[pluvio-]]
+*''All'Avvento, pioggia o '''vento'''.''
+* ''[[intervento]] a '''pioggia'''''
+* '''''pioggia''''' di meteore
+*''con la ''' pioggia''' e con il [[sereno]] anche [[oggi]] un [[giorno]] in[[ meno]] ''   
+*italiano
+M>*pl</E
+M>via</E
+M>p. di convezione</E
+M>p. ciclonica</E
+M>P. orografica</E
+M>P. acida</E
+M>P. di fango</E
+M>p. di sangue</E
+M>P. artificiale</E
+M>procurata</E
+M>ragguagliata</E
+M>intensità di p</E
+M>cade la p</E
+M>la p</E
+M>è cessata</E
+M>è finita</E
+M>camminare sotto la p</E
+M>ripararsi dalla p</E
+M>lenta</E
+M>fitta</E
+M>leggera</E
+M>forte</E
+M>dirotta</E
+M>torrenziale</E
+M>battente</E
+M>continua</E
+M>insistente</E
+M>noiosa</E
+M>uggiosa</E
+M>ristoratrice</E
+M>fecondatrice</E
+M>mista a neve</E
+M>uno scroscio</E
+M>un rovescio di pioggia</E
+M>tempo da pioggia</E
+M>vento di pioggia</E
+M>il barometro è a pioggia</E
+M>la stagione delle p</E
+M>fare la p</E
+M>e il bel tempo</E
+M>fare il buono</E
+M>il bello</E
+M>e il cattivo tempo</E
+M>effetto p</E
+M>pioggia</E
+M>radioattiva</E
+M>di ceneri e lapilli</E
+M>p. di zolfo</E
+M>una p</E
+M>di sassi</E
+M>di proiettili</E
+M>di frecce</E
+M>una p</E
+M>di fiori</E
+M>di petali</E
+M>di aghi di pino</E
+M>di stelle cadenti</E
+M>di fuoco</E
+M>Genesi</E
+M>Inferno</E
+M>Inf</E
+M>d&#8217;oro</E
+M>quel nuvol d&#8217;oro Che poi discese in prezïosa pioggia</E
+M>una p</E
+M>di regali</E
+M>di euro</E
+M>una p</E
+M>di rimproveri</E
+M>d&#8217;ingiurie</E
+M>lo investì con una p</E
+M>di domande</E
+M>gli scaricò addosso una p</E
+M>di pugni</E
+M>a pioggia</E
+M>innaffiare a p</E
+M>irrigazione a p</E
+M>per aspersione</E
+M>refrigeratore a p</E
+M>d&#8217;acqua</E
+M>in pioggia</E
+M>fuochi d&#8217;artificio a pioggia</E
+M>finanziamenti</E
+M>investimenti</E
+M>sovvenzioni</E
+M>assunzioni a pioggia</E
+M>misure</E
+M>provvedimenti a pioggia</E
+M> versare a pioggia</E

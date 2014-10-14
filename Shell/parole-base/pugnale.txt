@@ -1,0 +1,17 @@
+pugnale.txt
+"pugnale"
+*[[stiletto]], [[coltello]]
+*[[pugnalatore]]
+M>pugno</E
+M>brandire il p</E
+M>mettere mano al p</E
+M>puntare il p</E
+M>sul petto di qualcuno</E
+M>affrontare l&#8217;avversario col p</E
+M>alla mano</E
+M>immergersi il p</E
+M>nel petto</E
+M>Queste che il fero Allobrogo Note piene d&#8217;affanni Incise col terribile Odiator de&#8217; tiranni Pugnale</E
+M>occhiale</E
+M>invernino</E
+M>mezzano</E

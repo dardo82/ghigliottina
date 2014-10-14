@@ -1,0 +1,34 @@
+contenere.txt
+"contenere"
+"contenere"
+"contenere (i prezzi)"
+"contenere qcs, trattenere qcs"
+M>cont</E
+M>nere</E
+M>con</E
+M>tenere</E
+M>tenere</E
+M>la cassa conteneva sete preziose</E
+M>la damigiana contiene circa 50 litri</E
+M>lo stadio olimpico può c</E
+M>centomila spettatori</E
+M>è un libro che contiene utili insegnamenti</E
+M>dimmi che cosa contiene il primo capitolo</E
+M>l’ira</E
+M>la collera</E
+M>l’emozione</E
+M>le lacrime</E
+M>l’impeto</E
+M>l’assalto dei nemici</E
+M>un accordo politico che mira a c</E
+M>l’espansione territoriale di stati imperialisti</E
+M>l’aumento dei prezzi</E
+M>la spesa pubblica</E
+M>cercare di c</E
+M>il disavanzo</E
+M>l’ernia</E
+M>una frattura</E
+M>non fui più capace di contenermi</E
+M>non si sa mai come contenersi con lui in simili casi</E
+M>una cassa contenente libri</E
+M>nominare il contenente per il contenuto</E

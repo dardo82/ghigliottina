@@ -1,0 +1,133 @@
+difficile.txt
+"affrontare coraggiosamente una situazione difficile"
+"brutto periodo, periodo difficile"
+"capire; spec. dopo un inizio difficile"
+"che diventa difficile, duro"
+"con un carattere difficile"
+"concludere un affare difficile"
+"dare del filo da torcere a qc, rendere la vita difficile a qc, creare dei problemi a qc"
+"difficile"
+"difficile"
+"difficile"
+"difficile"
+"difficile"
+"difficile"
+"difficile"
+"difficile"
+"difficile"
+"difficile da accontentare"
+"difficile da accontentare"
+"difficile da capire"
+"difficile da credere"
+"difficile da evitare"
+"difficile da reperire"
+"difficile da risolvere"
+"enfant terrible, bambino difficile"
+"esperienza difficile"
+"essere difficile"
+"essere difficile da credere"
+"fare il\/la difficile"
+"lavoro difficile"
+"parlare difficile"
+"periodo di mercato in cui per gli assicurati è difficile ottenere copertura di rischi e i premi sono"
+"rendere difficile"
+"rendere qualcosa più difficile"
+"reso difficile"
+"schizzinoso, difficile"
+"situazione difficile"
+"situazione difficile"
+"situazione difficile"
+"situazione difficile"
+"situazione difficile"
+"situazione difficile"
+"situazione difficile"
+"situazione difficile, condizione difficile"
+"test difficile"
+"un lavoro difficile"
+"una cosa difficile"
+"uscire da una posizione difficile"
+"vita dura; difficile"
+"vivere un periodo difficile, essere in un brutto momento"
+*''(di problema, lavoro ecc.'' [[difficoltoso]], [[arduo]], [[complicato]], [[complesso]], [[disagevole]], [[pesante]], [[faticoso]], [[oneroso]], [[laborioso]]
+*''(di testo, autore ecc.)'' [[astruso]], [[complesso]], [[complicato]], [[incomprensibile]], [[ostico]], [[ermetico]]  
+*''(di periodo, situazione ecc.)'' [[delicato]], [[grave]], [[pericoloso]]
+*''(spec. di persona, carattere)''  [[scostante]], [[inavvicinabile]] 
+*''(di persona, di gusti ecc.)'' [[schizzinoso]], [[schifiltoso]] 
+*[[dubbio]], [[incerto]]  
+*''(sostantivo)'' [[ostacolo]]  
+*''(di problema, lavoro ecc.''[[facile]], [[agevole]]
+*''(di testo, autore ecc.)'' [[chiaro]], [[comprensibile]], [[semplice]], [[piano]]
+*''(di periodo, situazione ecc.)''  [[facile]], [[semplice]], [[tranquillo]]
+*''(spec. di persona, carattere)''  [[affabile]], [[cordiale]], [[gentile]], [[mite]], [[trattabile]]
+*[[facile]], [[probabile]], [[possibile]] 
+*[[difficilmente]] 
+M>diffic</E
+M>lis</E
+M>dis</E
+M>fac</E
+M>lis</E
+M>a fare</E
+M>a dire</E
+M>a ottenere</E
+M>impresa d</E
+M>lavoro d</E
+M>a eseguire</E
+M>di d</E
+M>esecuzione</E
+M>un’operazione</E
+M>lingua d</E
+M>da imparare</E
+M>argomento d</E
+M>a trattarsi</E
+M>la vita diventa sempre più d</E
+M>rendere la vita d</E
+M>a qualcuno</E
+M>avere il respiro d</E
+M>scalata d</E
+M>molto d</E
+M>straordinariamente d</E
+M>estremamente d</E
+M>facile</E
+M>avere il sorriso d</E
+M>è d</E
+M>avere tutto ciò che si vuole</E
+M>è assai d</E
+M>convincerlo</E
+M>non è d</E
+M>non è d</E
+M>che ritorni domani stesso</E
+M>testo</E
+M>passo d</E
+M>versi piuttosto d</E
+M>è un autore d</E
+M>musica d</E
+M>non mi fare discorsi difficili</E
+M>è una domanda d</E
+M>tema d</E
+M>equazione d</E
+M>a risolversi</E
+M>di d</E
+M>soluzione</E
+M>le trattative si presentano lunghe e d</E
+M>giunte d</E
+M>viviamo in tempi d</E
+M>ho attraversato momenti d</E
+M>essere in una situazione d</E
+M>uomo</E
+M>donna d</E
+M>ha un caratterino veramente d</E
+M>pubblico d</E
+M>di gusti difficili</E
+M>ragazzo d</E
+M>fare il</E
+M>la d</E
+M>non fare il d</E
+M>cercare</E
+M>amare il d</E
+M>il d</E
+M>sta nel riuscire</E
+M>parlare</E
+M>scrivere</E
+M>esprimersi troppo difficilmente</E
+M>la sua assenza è difficilmente giustificabile</E
+M>supererà difficilmente la prova</E

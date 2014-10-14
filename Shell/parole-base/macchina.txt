@@ -1,0 +1,251 @@
+macchina.txt
+"andare a fare un giro in macchina"
+"auto ibrida, automobile ibrida, macchina ibrida"
+"battere a macchina"
+"cabriolet (macchina senza tetto)"
+"corsa della macchina"
+"fare le pulizie con la macchina a vapore"
+"gelato erogato dalla macchina automatica"
+"girare in macchina"
+"giro in macchina"
+"giro in macchina"
+"in macchina"
+"insieme istruzioni macchina"
+"la lentezza della macchina burocratica"
+"la macchina della politica"
+"macchina"
+"macchina"
+"macchina"
+"macchina"
+"macchina"
+"macchina a controllo numerico"
+"macchina a noleggio"
+"macchina a noleggio con autista"
+"macchina a vapore per pulizie"
+"macchina affrancatrice"
+"macchina ai raggi x"
+"macchina bellica"
+"macchina da combattimento"
+"macchina da corsa"
+"macchina da corsa"
+"macchina da corsa"
+"macchina da cucire"
+"macchina da guerra"
+"macchina da presa"
+"macchina da presa"
+"macchina da scrivere"
+"macchina da scrivere"
+"macchina da scrivere elettronica"
+"macchina da videogioco"
+"macchina del gelato"
+"macchina del tempo"
+"macchina dell'informazione"
+"macchina della verità"
+"macchina delle differenze"
+"macchina di duplicazione"
+"macchina elettorale"
+"macchina fotocopiatrice"
+"macchina fotografica"
+"macchina fotografica a cassetta"
+"macchina fotografica munita di flash"
+"macchina fotografica reflex"
+"macchina impastatrice"
+"macchina in divieto di sosta."
+"macchina infernale"
+"macchina movimento terra"
+"macchina operatrice"
+"macchina parlante"
+"macchina per cambiare le monete"
+"macchina per dialisi"
+"macchina per esercizi"
+"macchina per fabbricare il pizzo"
+"macchina per fare i pop corn"
+"macchina per forare materiali duri"
+"macchina per il caffè americano"
+"macchina per la tostatura del caffè"
+"macchina per maglieria"
+"macchina per produrre ghiaccio"
+"macchina per scrivere elettrica"
+"macchina perforatrice di pozzi"
+"macchina piallatrice"
+"macchina razzo"
+"macchina semplice"
+"macchina spargi - sale"
+"macchina sportiva"
+"macchina sportiva"
+"macchina termica"
+"macchina utensile"
+"macchina volante"
+"nastro per macchina da scrivere"
+"passare in macchina vicino a"
+"posto macchina"
+"posto-macchina"
+"riaccompagnare qualcuno in macchina"
+"scritto a macchina"
+"scrivere a macchina"
+"scrivere a macchina senza guardare i tasti"
+"scrivere a macchina usando solo l'indice e guardando la tastiera"
+"signora macchina"
+"un giro (in macchina)"
+#*quella macchina serve a [[fresare]]''
+#*'' scese dalla macchina zoppicando'' 
+*[[ congegno]], [[dispositivo]], [[apparecchio]], [[meccanismo]], [[apparecchiatura]], [[strumento]], [[attrezzo]], [[attrezzatura]],[[macchinario]], [[impianto]]
+*[[macchinare]],[[macchina del fango]]
+*[[meccanico]], [[meccanica]], [[meccanicamente]], [[meccanicismo]], [[meccanicista]], [[meccanicità]],[[meccanismo]], [[meccanizzare]]
+*''la macchina umana''
+*italiano
+M>mach</E
+M>macchinismo</E
+M>civiltà delle m</E
+M>intelligenza artificiale</E
+M>robot</E
+M>semplici</E
+M>vantaggiosa</E
+M>svantaggiosa</E
+M>indifferente</E
+M>motrici</E
+M>motori</E
+M>m. generatrici</E
+M>generatori</E
+M>operatrici</E
+M>trasformatrici</E
+M>trasmettitrici</E
+M>elettriche</E
+M>rotanti</E
+M>statiche</E
+M>a fluido</E
+M>idrauliche</E
+M>pneumatiche</E
+M>termiche</E
+M>a vapore</E
+M>motrice a vapore</E
+M>termica</E
+M>termodinamica</E
+M>termica ideale</E
+M>di Carnot</E
+M>ciclo di Carnot</E
+M>per cucire</E
+M>calcolatrice</E
+M>fotografica</E
+M>per scrivere</E
+M>belliche</E
+M>guerresche</E
+M>ossidionali</E
+M>da getto</E
+M>da urto</E
+M>da percossa</E
+M>Argante</E
+M>Quella m</E
+M>eccelsa arder promette</E
+M>o questa è macchina Contra a le nostre mura</E
+M>infernale</E
+M>La machina infernal</E
+M>Prima portata fu tra gli Alamanni</E
+M>teatrali</E
+M>deus ex machina</E
+M>la m</E
+M>di santa Rosa</E
+M>la m</E
+M>del Redentore</E
+M>grande</E
+M>roseo</E
+M>bellissimo</E
+M>con gli occhi celesti e un’incredibile ferita sul fianco</E
+M>che si porta in processione la sera di sabato Santo</E
+M>volante</E
+M>macchine</E
+M>di calcolo</E
+M>logiche</E
+M>di Pascal</E
+M>di Leibniz</E
+M>analitica</E
+M>teoria delle m</E
+M>formali</E
+M>automi</E
+M>di Turing</E
+M>algoritmiche</E
+M>per insegnare</E
+M>farsi la m</E
+M>una m. sportiva</E
+M>utilitaria</E
+M>fuoriserie</E
+M>salire in m</E
+M>scendere dalla m</E
+M>fare una gita in m</E
+M>guidare la macchina</E
+M>lo ha battuto di una macchina</E
+M>questo espresso fa una sosta di 10 minuti in stazione per il cambio della macchina</E
+M>personale</E
+M>ufficiali</E
+M>capitano</E
+M>direttore di macchina</E
+M>giornale di macchina</E
+M>scendere in macchina</E
+M>in locale macchina</E
+M>in sala macchine</E
+M>il giornale va in m</E
+M>apprendiamo</E
+M>mentre andiamo in macchina</E
+M>battere a m</E
+M>lettera scritta a m.</E
+M>le vecchie m</E
+M>a soffietto</E
+M>a cassetta</E
+M>una m</E
+M>con obiettivi intercambiabili</E
+M>codice di m</E
+M>linguaggio di m</E
+M>tempo di m</E
+M>linguaggio macchina</E
+M>tempo macchina</E
+M>errore di m</E
+M>chiedere l’uso della m</E
+M>i risultati dati dalla m</E
+M>lavoro fatto a m</E
+M>biancheria cucita a m</E
+M>far andare la m</E
+M>mettere in moto la m</E
+M>fermare la m</E
+M>riparare la m</E
+M>fare m</E
+M>indietro</E
+M>fare marcia indietro</E
+M>Renzo</E
+M>salito</E
+M>sul terreno più elevato</E
+M>vide quella gran m</E
+M>del duomo sola sul piano</E
+M>la m</E
+M>del mondo</E
+M>Come orna il sol la machina del mondo</E
+M>ammirazione ingenua per la m</E
+M>delle stelle</E
+M>così esatta nella sua grandezza sovrumana</E
+M>la m</E
+M>umana</E
+M>il nostro corpo è una m</E
+M>molto complicata</E
+M>il cuore è una m</E
+M>perfetta</E
+M>la m</E
+M>dello stato</E
+M>la m</E
+M>della burocrazia</E
+M>la m</E
+M>della giustizia</E
+M>elettorale</E
+M>la m</E
+M>del romanzo</E
+M>del poema</E
+M>della tragedia</E
+M>i più presumono</E
+M>e vanno susurrandosi agli orecchi l’uno con l’altro</E
+M>che è una m</E
+M>mossa da quel prepotente di don Rodrigo</E
+M>per rovinare il suo povero rivale</E
+M>essere</E
+M>diventare una m</E
+M>sembrare una m</E
+M>sono un uomo io</E
+M>non una macchina!</E
+M>macchinino</E

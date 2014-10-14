@@ -1,0 +1,46 @@
+gallina.txt
+"a zampe di gallina"
+"chiocciare (gallina)"
+"fare la gallina (passi di danza moderna - jazz)"
+"gallina"
+"gallina"
+"gallina dalle uova d'oro"
+"gallina vecchia"
+"meglio un uovo oggi che una gallina domani"
+"uovo di gallina"
+"zampe di gallina"
+#* ''
+* [[chioccia]], [[pollastra]]
+*[[uccello]]
+*'''''Gallina''' che canta ha fatto l'uovo''
+*'''''Gallina''' vecchia fa buon brodo''
+*''Latte di '''gallina'''''
+*''In casa e nel pollaio non c'é pace se canta la '''gallina''' e il gallo tace''
+*''Non c'é '''gallina''' nè gallinaccia che a gennaio uovo non faccia''
+*'''''Gallina''' che non becca, ha già beccato''
+M>gall</E
+M>gallus</E
+M>pollastra</E
+M>cervello di g</E
+M>latte di g</E
+M>raspatura di g</E
+M>zampe di g</E
+M>andare a letto con le g</E
+M>vecchia</E
+M>vecchia fa buon brodo</E
+M>che canta</E
+M>che schiamazza</E
+M>ha fatto l’uovo</E
+M>chi di g</E
+M>nasce convien che razzoli</E
+M>raspi</E
+M>faraona</E
+M>di Faraone</E
+M>di Numidia</E
+M>Numida meleagris</E
+M>della Madonna</E
+M>rondine</E
+M>prataiola</E
+M>Otis tetrax orientalis</E
+M>prataiola forestiera</E
+M>ubara</E

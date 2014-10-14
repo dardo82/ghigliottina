@@ -1,0 +1,30 @@
+collaborare.txt
+"collaborare"
+"collaborare"
+"rifiutarsi di collaborare"
+M>collab</E
+M>rare</E
+M>con</E
+M>lab</E
+M>rare</E
+M>io collàboro</E
+M>collabóro</E
+M>avere</E
+M>un giornale</E
+M>una rivista</E
+M>a un’enciclopedia</E
+M>alla redazione di un progetto</E
+M>all’allestimento d’una mostra</E
+M>in un’azienda</E
+M>ai negoziati diplomatici</E
+M>al buon esito delle trattative</E
+M>con un amico</E
+M>con un socio</E
+M>è un tipo che non collabora</E
+M>con la giustizia</E
+M>con le forze dell’ordine</E
+M>terroristi pentiti che hanno deciso di c</E
+M>con le autorità inquirenti</E
+M>la magistratura</E
+M>duramente impegnata nella lotta alla mafia</E
+M>chiede alla popolazione di collaborare</E

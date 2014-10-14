@@ -1,0 +1,48 @@
+frase.txt
+"http://api.wordreference.com/12bee/json/iten/frase/"
+#*''"Bisogna distruggere Cartagine "'',questa è una  frase attribuita a [[q
+* italiano
+* olandese
+* portoghese
+* spagnolo
+M>phrasis</E
+M>enunciativa</E
+M>esclamativa</E
+M>interrogativa</E
+M>imperativa</E
+M>compiuta</E
+M>incompiuta</E
+M>proposizione</E
+M>stupendo!</E
+M>periodo</E
+M>proposizione</E
+M>locuzione</E
+M>comporre</E
+M>tradurre una f</E
+M>moderare le f</E
+M>non gli lasciò terminare la f</E
+M>è proprio la f</E
+M>giusta</E
+M>sonora</E
+M>enfatica</E
+M>incisiva</E
+M>scultoria</E
+M>offensiva</E
+M>una f</E
+M>gentile</E
+M>frasi di cerimonia</E
+M>di circostanza</E
+M>idiomatica</E
+M>fatta</E
+M>non voglio essere felice nella tristezza delle f. fatte</E
+M>le solite f</E
+M>sono belle f</E
+M>e nient’altro</E
+M>anagrammata</E
+M>pedoni malaccorti</E
+M>ladrone impiccato</E
+M>è il falso cacciatore</E
+M>tira e fa solo cilecca</E
+M>binaria</E
+M>ternaria</E
+M>parole</E

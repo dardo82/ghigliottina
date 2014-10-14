@@ -1,0 +1,33 @@
+comportare.txt
+"comportare"
+#* ''la ratificazione di un accordo '''comporta''' l'accettazione di tutti i termini dell'accordo''
+*[[implicare]]
+M>comportare</E
+M>con</E
+M>portare</E
+M>io compòrto</E
+M>le offese</E
+M>un caldo da non potersi c</E
+M>bisogna sapersi c</E
+M>a vicenda</E
+M>pazientemente la sua povertà comportava</E
+M>l’erba non comporta quel clima</E
+M>gli olivi non comportavano tanto gelo</E
+M>l’età non gli comporta certe fatiche</E
+M>ho pazientato più di quanto comportasse la mia natura</E
+M>il viaggio comporterà molte spese</E
+M>la concessione delle attenuanti comporta una riduzione di pena</E
+M>comportarsi da galantuomo</E
+M>da villano</E
+M>comportarsi bene</E
+M>male con i proprî colleghi</E
+M>vi siete comportati male a scuola</E
+M>è gente che non sa comportarsi in società</E
+M>ti sei comportato ottimamente</E
+M>egregiamente</E
+M>in modo pessimo</E
+M>fino a questa ripresa</E
+M>lo sfidante si è comportato meravigliosamente contro il campione in carica</E
+M>osservare il modo in cui si comportano gli animali nell’imminenza di un temporale</E
+M>sostanze chimiche che si comportano come basi</E
+M>Costui per gaudio a pena si comporta</E

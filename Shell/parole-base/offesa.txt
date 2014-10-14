@@ -1,0 +1,76 @@
+offesa.txt
+"colpevole di un'offesa"
+"fare un'offesa"
+"offesa"
+"offesa"
+"offesa, collera, luna storta"
+#*''É un '''offesa''' imperdonabile!!''
+#*spiegargli il da farsi  è ''un' 
+*[[insulto]], [[ingiuria]], [[oltraggio]], [[improperio]], [[insolenza]], [[torto]], [[affronto]], [[provocazione]], [[maltrattamento]], [[umiliazione]], [[smacco]]
+*(di fenomeni naturali) [[devastazione]]
+*(di organo, arto) [[ferita]], [[menomazione]], [[lesione]], [[trauma]]
+*[[lode]], [[complimento]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'' edizione cartacea 2000-2001, Le Monnier p. 1383
+M>off</E
+M>nsa</E
+M>off</E
+M>offensus</E
+M>fare o</E
+M>a qualcuno</E
+M>recare</E
+M>portare</E
+M>ricevere</E
+M>subire</E
+M>patire un’o</E
+M>grave</E
+M>atroce</E
+M>sanguinosa</E
+M>lieve</E
+M>leggera o</E
+M>volontaria</E
+M>involontaria</E
+M>al capo dello stato</E
+M>alle pubbliche autorità</E
+M>alla bandiera</E
+M> alla religione</E
+M>perdonare</E
+M>dimenticare le o</E
+M>vendicare le o</E
+M>lavare un’o</E
+M>col sangue</E
+M>riparare l’o</E
+M>chiedere soddisfazione</E
+M>riparazione di un’offesa</E
+M>alla legge</E
+M>alla giustizia</E
+M>alla libertà</E
+M>alla morale</E
+M>al pudore</E
+M>al decoro</E
+M>costruzioni</E
+M>quadri</E
+M>sculture</E
+M>versi che sono un’o</E
+M>al buon gusto</E
+M>armi da o</E
+M>portare l’o</E
+M>in un territorio</E
+M>essere esposto alle o</E
+M>del nemico</E
+M>stare sull’o</E
+M>star sulla difesa</E
+M>sulle difese</E
+M>E perché il mar non possa farvi offesa</E
+M>Lo varcherete su la conca mia</E
+M>liberi e sicuri dalle o</E
+M>dei fulmini e delle grandini</E
+M>le o</E
+M>del tempo</E
+M>degli anni</E
+M>dell’età</E
+M>alla spalla prodotta con arma da taglio</E
+M>con grave o</E
+M>dell’occhio</E
+M>della vista</E
+M>dell’odorato</E
+M>dell’orecchio</E

@@ -1,0 +1,36 @@
+rivendicare.txt
+"rivendicare"
+"rivendicare"
+#*''abbiamo rivendicato il possesso della villa''
+*[[rivendicazione]]
+M>vendicare</E
+M>rivendicazione</E
+M>io rivéndico</E
+M>tu rivéndichi</E
+M>rivendicarsi</E
+M>dopo essersi vendicato sul suo nemico</E
+M>si rivendicò sui parenti di lui</E
+M>se lui si vendica</E
+M>io poi mi rivendico</E
+M>un bene</E
+M>una casa</E
+M>un più giusto compenso</E
+M>un aumento salariale</E
+M>la libertà di sciopero</E
+M>il diritto di parlare liberamente</E
+M>la propria fama offesa</E
+M>un napoletano quando rivendica la sua genuina e autentica origine partenopea dice di sé che è verace</E
+M>a uno scrittore la paternità di un’opera</E
+M>a uno scienziato la priorità di una scoperta</E
+M>un’opera</E
+M>una scoperta</E
+M>la memoria</E
+M>la gloria di un eroe</E
+M>di un uomo politico dimenticato</E
+M>la libertà di un popolo</E
+M>un popolo in</E
+M>libertà</E
+M>l’attentato al treno</E
+M>il sabotaggio della centrale telefonica</E
+M>il rapimento del capo della polizia</E
+M>è stato rivendicato con una telefonata anonima da un sedicente «gruppo armato rivoluzionario»</E

@@ -1,0 +1,21 @@
+finanza.txt
+"alta finanza"
+"finanza"
+"finanza"
+"finanza"
+"finanza, replace: finanze"
+"finanza"
+"Guardia di Finanza"
+"guardia di finanza"
+"intendenza di finanza"
+"maresciallo della finanza"
+"mondo della finanza"
+#*''guardia di finanza''
+#*''ministero delle finanze''
+#*'''scienza delle finanze'''
+#*'''finanza quantitativa'''
+*( economia) dal francese [[finance]], e questo dal provenzale ''[[finansa]]''
+* (nel significato di cessazione) dal [[latino]] ''[[finis]]'' ossia "[[fine]]"
+*tesoro dello stato, [[fisco]], [[erario]], [[demanio]]
+*. politica finanziaria dello Stato
+*''guardia di finanza''

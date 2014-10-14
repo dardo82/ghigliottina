@@ -1,0 +1,49 @@
+spedire.txt
+"spedire"
+"spedire"
+"spedire per espresso"
+"spedire qualcosa con"
+"spedire soldi"
+#*''ho dovuto spedire una raccomandata''
+*[[inviare]], [[mandare]], [[indirizzare]], far recapitare, far giungere, far pervenire, [[trasmettere]], [[destinare]]
+*(per posta) [[rimettere]]
+*[[ricevere]]
+*''spedire all’altro mondo''
+M>expedire</E
+M>pes pedis</E
+M>ex-</E
+M>impedire</E
+M>io spedisco</E
+M>tu spedisci</E
+M>prima i greci cantarono spondaico tutto tardo; poi dattilico</E
+M> incominciando a spedire la lingua; finalmente giambico</E
+M> poiché fu spedita affatto</E
+M>spedirsi</E
+M>E proseguendo la solinga via</E
+M> Tra le schegge e tra &#8217; rocchi de lo scoglio Lo piè sanza la man non si spedia</E
+M>s. una causa</E
+M>s. una bolla</E
+M> un breve</E
+M>s. una ricetta</E
+M>al nigromante disse che si spedisse</E
+M>s. una nave</E
+M>inviare</E
+M>s. un messo</E
+M>un corriere</E
+M>un ambasciatore</E
+M>s. un messaggio</E
+M>un dispaccio</E
+M>s. una lettera per espresso</E
+M>per via aerea</E
+M>per e-mail</E
+M>s. un vaglia postale</E
+M>una lettera raccomandata</E
+M>s. un pacco per corriere</E
+M>s. un documento come allegato in posta elettronica</E
+M>s. una partita di merce via mare</E
+M>via terra</E
+M>per aereo</E
+M>S. all&#8217;altro mondo</E
+M>al diavolo</E
+M>all&#8217;inferno</E
+M>l&#8217;hanno spedito all&#8217;altro mondo con una scarica di mitra</E

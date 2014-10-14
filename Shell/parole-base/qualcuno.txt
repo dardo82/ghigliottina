@@ -1,0 +1,143 @@
+qualcuno.txt
+"a disposizione di qualcuno"
+"abbracciare qualcuno"
+"abituare bene qualcuno"
+"abituare qualcuno a qualcosa"
+"accompagnare qualcuno all'uscita"
+"accusare falsamente qualcuno di razzismo a proprio vantaggio"
+"adeguarsi a qualcuno"
+"aggiornare qualcuno"
+"aiutare qualcuno a tirare avanti"
+"alle calcagna di qualcuno"
+"allentare la pressione su qualcuno"
+"ammirare qualcuno"
+"ammirare qualcuno"
+"andar bene per qualcuno"
+"annuire a qualcuno"
+"appioppare qualcosa a qualcuno"
+"appoggiarsi su qualcuno"
+"aspettare qualcuno alzati"
+"assalire qualcuno"
+"assecondare qualcuno"
+"assomigliare a qualcuno, sembrare qualcuno"
+"attaccare discorso con qualcuno"
+"attaccare qualcuno"
+"attaccare qualcuno"
+"attaccare qualcuno all'improvviso"
+"attaccarsi a qualcuno"
+"attribuire a qualcuno qualcosa"
+"augurare a qualcuno buona fortuna"
+"avercela con qualcuno"
+"avere compassione di qualcuno"
+"avere cura di qualcuno"
+"avere occhi solo per qualcuno"
+"avere pazienza con qualcuno"
+"Avere qualcuno alle calcagna"
+"avvertire qualcuno di non"
+"avvisare qualcuno di qualcosa"
+"avvisare qualcuno di qualcosa"
+"baciare qualcuno sulla guancia"
+"badare a qualcuno"
+"buttare qualcuno giù dal piedistallo"
+"buttarsi su qualcosa o su qualcuno"
+"cadere in disgrazia presso qualcuno"
+"cagare qualcuno"
+"Cagare qualcuno\/non cagare qualcuno"
+"canzonare (qualcuno)"
+"capitare in casa di qualcuno"
+"cercare di colpire qualcuno"
+"chiedere a qualcuno di fare qualcosa"
+"chiedere aiuto a qualcuno"
+"chiedere di vedere qualcuno"
+"cingere qualcuno con le braccia"
+"civettare con qualcuno"
+"colpire qualcuno"
+"complottare contro qualcuno"
+"comprendere qualcuno"
+"confondere qualcuno"
+"conoscere bene qualcuno"
+"conoscere qualcuno"
+"conoscere qualcuno di persona"
+"consigliare a qualcuno di fare qualcosa"
+"contrapporsi (a qualcuno)"
+"conversare con qualcuno"
+"convincere qualcuno a fare qualcosa"
+"coprire qualcuno, fare da paravento a qualcuno"
+"corteggiare qualcuno portandolo in un buon ristorante"
+"creare problemi a qualcuno"
+"creare un complesso a qualcuno"
+"criticare pesantemente qualcuno"
+"criticare pesantemente qualcuno"
+"criticare qualcuno"
+"dare buca a qualcuno"
+"dare la colpa di qualcosa a qualcuno"
+"dare per spacciato qualcuno"
+"dare responsabilità a qualcuno"
+"dare tregua a qualcuno"
+"dare un liscio e busso a qualcuno"
+"dare un passaggio a qualcuno"
+"dare una pacca sulla spalla a qualcuno"
+"dare una punizione esemplare a qualcuno"
+"denunciare qualcuno"
+"denunciare qualcuno"
+"denunciare qualcuno"
+"derubare qualcuno"
+"derubare qualcuno di"
+"di un viaggio insieme a qualcuno"
+"dipendere da qualcuno"
+"dire a qualcuno un segreto"
+"dissuadere qualcuno da"
+"dissuadere qualcuno da"
+"disubbidire a qualcuno"
+"diventare qualcuno"
+"dividere una stanza, un appartamento con qualcuno"
+"divorziare da qualcuno"
+"divorziare da qualcuno"
+"dovere (qualcosa a qualcuno)"
+"eleggere qualcuno presidente"
+"elogiare qualcuno"
+"emulare qualcuno"
+"esonerare qualcuno da"
+"esonerare qualcuno dai suoi doveri"
+#*'' 
+#* '' mi servono dei fiammiferi dammene 
+*''(di persona)'' [[qualcheduno]], [[uno]], [[taluno]], [[alcuni]], [[taluni]], [[certuni]], [[certi]], [[qualche]],  [[un tale]], [[una persona]]
+*''(di persona importante)''[[personalità]], [[autorità]], [[big]], [[nome]]
+*''(di quantità)'' [[alcuno]], [[alcuni]]
+*[[molti]], [[parecchi]]
+M>qualche</E
+M>uno</E
+M>qualcuna</E
+M>se vuoi delle sigarette</E
+M>ce ne deve essere qualcuna là dentro</E
+M>dei suoi romanzi è veramente bello</E
+M>hai ancora q</E
+M>di quegli inviti?</E
+M>ne dirà</E
+M>ne farà qualcuna delle sue</E
+M>dell’equipaggio</E
+M>solo q</E
+M>riuscì a trarsi in salvo</E
+M>se q</E
+M>vuole intervenire</E
+M>alzi la mano</E
+M>sarà stato q</E
+M>che aveva voglia di scherzare</E
+M>c’è qualcuno?</E
+M>di voi venga con me</E
+M>altro</E
+M>altra</E
+M>uno</E
+M>indicami qualcun altro</E
+M>qualcun’altra</E
+M>qualcun di noi</E
+M>se pietà ancor serba L’arco tuo saldo e qualcuna saetta</E
+M>sono diventato q</E
+M>è diventata qualcuna</E
+M>si crede q</E
+M>crede d’essere qualcuno</E
+M>finalmente mi sento qualcuno</E
+M>in questa società</E
+M>se non sei qualcuno</E
+M>qualcuna</E
+M>chi ti dà retta?</E

@@ -1,0 +1,61 @@
+conseguenza.txt
+"a conseguenza di"
+"avere una conseguenza"
+"come conseguenza"
+"conseguenza"
+"conseguenza naturale"
+"conseguenza pratica"
+"di conseguenza"
+"di conseguenza"
+"di conseguenza"
+"di conseguenza"
+"di conseguenza"
+"di conseguenza"
+"essere la conseguenza di"
+"regolarsi di conseguenza\/darsi una regolata"
+"seguire come conseguenza"
+*[[effetto]], [[esito]], [[risultato]]
+*[[deduzione]], [[conclusione]], [[illazione]]
+*[[logica]], [[coerenza]]
+*''(di evento negativo)'' [[ripercussione]], [[contraccolppo]], [[strascico]], [[eco]]
+*[[premessa]], [[causa]]
+*[[incoerenza]]
+*[[conseguire]], [[seguire]]
+M>consequentia</E
+M>cons</E
+M>qui</E
+M>le tue affermazioni sono giuste</E
+M>ma la c</E
+M>è errata</E
+M>io vi ho esposto i fatti</E
+M>traetene voi le c</E
+M>logica</E
+M>necessaria</E
+M>inevitabile</E
+M>diretta</E
+M>indiretta</E
+M>relazione di c</E
+M>il dissesto economico è la c</E
+M>della sua pessima amministrazione</E
+M>una sbadataggine può a volte provocare gravi c</E
+M>pensa alle c</E
+M>prima di agire</E
+M>prevedere le c</E
+M>misurare le c</E
+M>di un atto</E
+M>lo scontro è stato violento</E
+M>ma fortunatamente non ha avuto conseguenze per le persone</E
+M>in c</E
+M>per c</E
+M>ne viene di c</E
+M>per c</E
+M>persona</E
+M>fatto di poca</E
+M>lieve</E
+M>grande c</E
+M>di nessuna c</E
+M>senza conseguenza</E
+M>di conseguenza</E
+M>quando siete turbati</E
+M>non imprendete alcuna determinazione di c</E
+M>parve ch’io fossi considerato da tutti persona di c</E

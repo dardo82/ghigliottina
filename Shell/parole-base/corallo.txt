@@ -1,0 +1,10 @@
+corallo.txt
+"albero corallo"
+"corallo"
+"corallo"
+"scheletro del corallo"
+"corallo"
+"corallo"
+"corallo blu"
+"serpente corallo"
+*[[corallino]]

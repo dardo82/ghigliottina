@@ -1,0 +1,66 @@
+orientamento.txt
+"corso d'orientamento"
+"orientamento"
+"orientamento"
+"orientamento"
+"orientamento ai risultati"
+"orientamento generale"
+"orientamento giurisprudenziale"
+"orientamento professionale"
+*[[orienteering]]
+*[[disorientamento]]
+M>di una carta geografica</E
+M>di una carta topografica</E
+M>stabilire l’o</E
+M>di un edificio</E
+M>di una superficie</E
+M>di un vettore</E
+M>orientazione</E
+M>l’o</E
+M>delle mura è da nord</E
+M>ovest a sud</E
+M>est</E
+M>di una nave</E
+M>di un aereo</E
+M>dei pennoni</E
+M>delle vele</E
+M>interno</E
+M>esterno</E
+M>preferenziale</E
+M>grado di o</E
+M>cercare</E
+M>stabilire l’o</E
+M>perdere</E
+M>ritrovare l’orientamento</E
+M>avere</E
+M>non avere o</E
+M>capacità d’o</E
+M>senso d’orientamento</E
+M>Corsa a orientamento</E
+M>orientering</E
+M>orienteering</E
+M>primario</E
+M>secondario</E
+M>diretto</E
+M>indiretto</E
+M>visivo</E
+M>acustico</E
+M>chimico</E
+M>olfattivo</E
+M>tattile</E
+M>termico</E
+M>elettrico</E
+M>stellare</E
+M>delle indagini</E
+M>delle ricerche</E
+M>degli studî</E
+M>della politica</E
+M>l’o</E
+M>culturale dei giovani</E
+M>scolastico e professionale</E
+M>quanto ti ho detto</E
+M>potrà servirti per un primo o</E
+M>sul metodo da seguire</E
+M>perdere l’o</E
+M>Orientamenti di matematica</E
+M>di filosofia</E

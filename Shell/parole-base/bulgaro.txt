@@ -1,0 +1,16 @@
+bulgaro.txt
+"bulgaro"
+"bulgaro"
+M>Bulg</E
+M>rus</E
+M>bulgaro</E
+M>turco</E
+M>protobulgaro</E
+M>elezione</E
+M> votazione b</E
+M>cura b</E
+M> Cuoio b.</E
+M>bulgaro</E
+M>cuoio russo</E
+M>una valigia di cuoio b.</E
+M>le gambe stivalate di bulgaro divergevano ai due lati per dare la massima solidità possibile ad una persona che pareva dovesse crollare ad ogni buffo di vento</E

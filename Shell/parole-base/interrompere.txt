@@ -1,0 +1,56 @@
+interrompere.txt
+"disturbare, interrompere, imbarazzare"
+"interrompere"
+"interrompere a tempo indeterminato"
+"interrompere la visione"
+"interrompere le trasmissioni a causa di problemi tecnici"
+"interrompere per"
+"interrompere, arrestare"
+*[[sospendere]], [[smettere]], [[fermare]], [[cessare]], [[bloccare]], [[arrestare]], [[abbandonare]], [[lasciare]], [[troncare]],  [[spezzare]], [[mettere]] [[fine]]
+*[[continuare]], [[proseguire]], [[riprendere]], [[ricominciare]] 
+*[[interrompersi]],[[interrotto]], [[interruttore]], [[interruzione]]
+*[[disconnettere]], [[spegnere]]
+M>interrump</E
+M>inter-</E
+M>rump</E
+M>rompere</E
+M>la lettura</E
+M>la conversazione</E
+M>una festa</E
+M>il cammino</E
+M>il viaggio</E
+M>il corso degli studî</E
+M>una narrazione</E
+M>un circuito elettrico</E
+M>una corrente elettrica</E
+M>con diversivi la monotonia delle giornate</E
+M>l’incidente ha costretto a i</E
+M>lo spettacolo</E
+M>il chiasso della strada mi ha interrotto il sonno</E
+M>uno sfinimento o altro che v’interrompa l’uso dei sensi</E
+M>l’oratore</E
+M>il discorso</E
+M>m’interrompeva con continue domande</E
+M>scusa se t’interrompo</E
+M>non interrompa!</E
+M>c’erano degli spettatori troppo rumorosi che interrompevano continuamente</E
+M>«È falso!»</E
+M> interruppe lui</E
+M> «è assolutamente falso!».</E
+M>interrompersi nel lavoro</E
+M>nel racconto</E
+M>continua a leggere</E
+M>non t’interrompere ogni momento</E
+M>parlava interrompendosi spesso</E
+M>la corrente s’è interrotta</E
+M>si è interrotto il flusso dell’acqua dalla fontana</E
+M>la conversazione</E
+M>la comunicazione telefonica s’interruppe tutt’a un tratto</E
+M>un argine</E
+M>un muro</E
+M>una siepe</E
+M>il passaggio era stato interrotto per lavori in corso</E
+M>la pianura è interrotta a nord da un gruppo di alture</E
+M>brevi pianerottoli interrompono la lunga scalinata</E
+M>a un certo punto</E
+M>la strada s’interrompe</E

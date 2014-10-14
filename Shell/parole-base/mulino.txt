@@ -1,0 +1,16 @@
+mulino.txt
+"bacino per mulino"
+"canale d'acqua per il mulino"
+"canale d'acqua per il mulino"
+"diga del mulino"
+"mulino"
+"mulino a palle"
+"mulino a vento"
+"mulino a vento"
+"mulino ad acqua"
+"mulino ad acqua"
+"mulino; macina"
+"tirare acqua al proprio mulino"
+* ''ognuno tira l'acqua al proprio '''mulino'''''
+* ''combattere contro i '''mulini''' a vento''
+*[[macinatoio]]

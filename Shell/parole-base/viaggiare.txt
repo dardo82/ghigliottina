@@ -1,0 +1,74 @@
+viaggiare.txt
+"il viaggiare insieme a qualcuno per lo stesso tragitto"
+"viaggiare"
+"viaggiare"
+"viaggiare"
+"viaggiare"
+"viaggiare attraverso"
+"viaggiare clandestinamente"
+"viaggiare con"
+"viaggiare con autostop"
+"viaggiare con la fantasia"
+"viaggiare con la testa"
+"viaggiare in aereo"
+"viaggiare in incognito"
+"viaggiare in nave"
+"viaggiare lungo qc"
+"viaggiare nello spazio"
+"viaggiare su (sopra un posto)"
+"viaggiare; spostarsi"
+"viaggiare; spostarsi"
+"viaggiare; visitare"
+#* la [[merce]] '''viaggia''' a [[rischio]] del destinatario
+*''(di persona)'' [[spostarsi]], [[muoversi]],[[girare]], [[circolare]], 
+*''(verso un luogo)'' [[recarsi]], [[dirigersi]] 
+*''(di mezzo di trasporto)'' [[andare]], [[camminare]], [[correre]]; [[transitare]], [[passare]] 
+*[[girare]], [[visitare]], [[percorrere]], [[esplorare]], [[ attraversare]]
+*[[fermarsi]], [[sostare]], [[restare]], [[rimanere]]
+*[[viaggiante]], [[viaggiatore]], [[viaggio]]
+M>io vïàggio</E
+M>avere</E
+M>v. in treno</E
+M>in nave</E
+M>in aeroplano</E
+M>in pullman</E
+M>a cavallo</E
+M>con la carrozza</E
+M>con la diligenza</E
+M>v. per terra</E
+M>per mare</E
+M>per aria</E
+M>v. col cavallo di san Francesco</E
+M>v. per diporto</E
+M>per divertimento</E
+M>per turismo</E
+M>per istruzione</E
+M>per lavoro</E
+M>per affari</E
+M>v. in incognito</E
+M>gli piace v.</E
+M>viaggia spesso</E
+M>da giovane ha viaggiato molto</E
+M>è uno che ha viaggiato</E
+M>Dove andrò? Non so ... Vïaggio</E
+M> Vïaggio per fuggire altro vïaggio</E
+M>il v. è utile e piacevole</E
+M>col v. s’imparano molte cose</E
+M>ero stanco del lungo v.</E
+M>ha viaggiato tutta l’Europa</E
+M>mezzo mondo</E
+M>viaggia per conto della fabbrica</E
+M>della ditta</E
+M>v. in</E
+M>viaggia in prodotti dolciarî</E
+M>in ferramenta</E
+M>in pellami</E
+M>il pendolino da Milano viaggia con circa 10 minuti di ritardo</E
+M>colli che viaggiano a grande velocità</E
+M>a piccola velocità</E
+M>la merce viaggia a rischio del committente</E
+M>si sorprendeva a v. con la memoria nei luoghi della sua giovinezza</E
+M>i suoi pensieri viaggiavano veloci perdendosi nelle fantasie più strane.</E
+M>personale viaggiante</E
+M>personale non viaggiante</E
+M>merce viaggiante</E

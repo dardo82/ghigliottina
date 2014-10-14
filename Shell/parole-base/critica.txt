@@ -1,0 +1,97 @@
+critica.txt
+"aspra critica"
+"attacco malevolo; aspra critica (Amer.)"
+"coscienza critica"
+"critica"
+"critica"
+"critica"
+"critica aspra"
+"critica biblica"
+"critica cinematografica"
+"critica costruttiva"
+"critica d'arte"
+"critica entusiasta"
+"critica letteraria"
+"critica severa"
+"critica testuale"
+"densità critica"
+"critical density"
+"edizione critica"
+"critical edition"
+"fare un'analisi critica di"
+"make a critical analysis of"
+"massa critica"
+"critical mass"
+"mente critica"
+"critical mind"
+"muovere una critica"
+"nuova critica"
+"premio della critica"
+"critics' award, critical acclaim"
+"pressione critica"
+"critical pressure"
+"regione critica"
+"critical region"
+"revisione critica"
+"critical review"
+"successo di critica"
+"critical success"
+"temperatura critica"
+"critical temperature"
+"un buon successo di critica"
+"critical success"
+*[[esame]], [[valutazione]], [[analisi]], [[giudizio]], [[opinione]]
+* i critici
+*[[rimprovero]], [[disapprovazione]], [[biasimo]], [[appunto]], [[riprovazione]], [[riprensione]], [[censura]]
+*[[approvazione]], [[lode]], [[apprezzamento]], [[difesa]]   
+*''(artistica o letteraria)'' [[recensione]]; [[commento]] 
+*[[disamina]]
+M>avere capacità di critica</E
+M>artistica</E
+M>d’arte</E
+M>letteraria</E
+M>estetica</E
+M>musicale</E
+M>teatrale</E
+M>cinematografica</E
+M>filosofica</E
+M>storica</E
+M>politica</E
+M>dantesca</E
+M>leonardesca</E
+M>verdiana</E
+M>testuale</E
+M>del testo</E
+M>delle fonti</E
+M>c. delle varianti</E
+M>avere attitudine alla c</E
+M>disposizione per la critica</E
+M>il film fu stroncato dalla c</E
+M>la c</E
+M>ha accolto favorevolmente il nuovo libro</E
+M>militante</E
+M>la c</E
+M>dell’Ottocento</E
+M>romantica</E
+M>idealistica</E
+M>la c</E
+M>ermetica</E
+M>spassionata</E
+M>acuta</E
+M>favorevole</E
+M>ostile</E
+M>pedantesca</E
+M>fare</E
+M>muovere delle c</E
+M>a qualcuno</E
+M>esporsi alla c</E
+M>offrire il fianco alle c</E
+M>tirarsi addosso molte c</E
+M>essere oggetto di critica</E
+M>di critiche</E
+M>ricevere delle c</E
+M>non curarsi delle c</E
+M>severa</E
+M>maligna</E
+M>dispettosa</E
+M>pettegola</E

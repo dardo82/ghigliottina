@@ -1,0 +1,24 @@
+comodo.txt
+"comodo"
+"comodo"
+"comodo"
+"comodo"
+"comodo"
+"con comodo"
+"essere comodo"
+"fa sempre comodo"
+"mettersi comodo"
+"quando ti è comodo"
+"variabile di comodo"
+#*'' una comoda poltrona''
+#*''mi sono arreso
+*''(di ambiente, casa)'' [[confortevole]], [[funzionale]],[[pratico]], [[adatto]], [[ampio]], [[largo]], [[morbido]], [[capace]], [[agevole]], [[facile]]
+*''(di condizione, situazione, eccetera)'' [[conveniente]], [[opportuno]], [[utile]], [[vantaggioso]]
+*[[comfort]], [[agio]], [[comodità]]
+*[[convenienza]], [[opportunità]], [[utilità]], [[vantaggio]], [[tornaconto]]
+*''(di ambiente, casa)'' [[scomodo]], [[disagevole]], [[difficile]], [[duro]]
+*''(di condizione, situazione, eccetera)''  [[sconveniente]], [[inopportuno]], [[svantaggioso]]
+*[[scomodità]], [[disagio]], [[difficoltà]]
+*[[svantaggio]], [[danno]], [[scapito]] 
+*[[confortabile]]
+*''fare comodo''

@@ -1,0 +1,23 @@
+allineare.txt
+"allineare"
+"allineare"
+"allineare, centrare"
+M>linea</E
+M>aligner</E
+M>ligne</E
+M>io allìneo</E
+M>noi allineiamo</E
+M>voi allineate</E
+M>allineiamo</E
+M>allineiate</E
+M>i banchi</E
+M>i libri sullo scaffale</E
+M>una serie di cifre</E
+M>una batteria di cannoni</E
+M>allinearsi</E
+M>tutti i soldati si allineino a sinistra</E
+M>allinearsi sulla linea di partenza</E
+M>allinearsi</E
+M>a. all’opinione predominante</E
+M>alcuni senatori dell</E
+M>opposizione si sono allineati con la maggioranza</E

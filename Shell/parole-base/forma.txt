@@ -1,0 +1,293 @@
+forma.txt
+"a forma conica"
+"a forma d'ago"
+"a forma d'albero"
+"a forma d'uovo"
+"a forma di"
+"a forma di ala"
+"a forma di barca"
+"a forma di barile"
+"a forma di campana"
+"a forma di cilindro"
+"a forma di coppa"
+"a forma di cubo"
+"a forma di cucchiaio"
+"a forma di cuneo"
+"a forma di cuore"
+"a forma di diamante"
+"a forma di disco"
+"a forma di ferro di cavallo"
+"a forma di fiore"
+"a forma di fungo"
+"a forma di goccia"
+"a forma di guscio"
+"a forma di luna"
+"a forma di otto"
+"a forma di pera"
+"a forma di pera"
+"a forma di pesce"
+"a forma di quadrato"
+"a forma di scatola"
+"a forma di sigaro"
+"a forma di triangolo"
+"a forma di tubo"
+"a forma di uovo"
+"a forma di ventaglio"
+"a forma di x"
+"a forma libera"
+"a forma triangolare"
+"accordo in forma semplificata"
+"bella forma"
+"ben allenato, in forma"
+"biscotto allo zenzero a forma di omino"
+"campanulato, a forma di imbuto"
+"che da forma"
+"dare forma"
+"dare una forma"
+"dare una forma"
+"dare una forma"
+"dare una forma"
+"dare una forma"
+"decorazione militare americana a forma di foglia di quercia"
+"di forma a imbuto"
+"di forma ovale"
+"di forma schiacciata"
+"di forma strana"
+"essere in buona forma"
+"essere in forma"
+"fare la forma di una tazza"
+"fattore forma"
+"forma"
+"forma"
+"persona: conformazione fisica"
+"forma"
+"forma"
+"forma"
+"forma"
+"forma"
+"formality"
+"forma"
+"forma"
+"forma"
+"forma"
+"forma bilineare"
+"forma binaria"
+"forma canonica"
+"forma d'arte"
+"forma d'onda"
+"forma dell'onda"
+"forma della parola"
+"forma di crescita"
+"forma di culto"
+"forma di discorso"
+"forma di formaggio"
+"forma di governo"
+"forma di pane"
+"forma di prestito"
+"forma di pubblicità (banner) online"
+"forma di servizio"
+"forma di vita"
+"forma fine"
+"forma giuridica"
+"forma grammaticale"
+"forma legale"
+"forma linguistica"
+"forma musicale"
+"forma passiva"
+"forma per scarpe"
+"forma poligonale"
+"forma prescritta"
+"forma primaria"
+"forma primitiva di mitragliatrice"
+"forma propria"
+"forma pura"
+*[[conformazione]], [[profilo]], [[sagoma]], [[configurazione]], [[struttura]], [[formato]], [[lineamenti]], [[fisionomia]], [[corporatura]], [[fattezze]], [[costituzione]], [[aria]], [[figura]]
+*[[tipologia]]
+*[[comportamento]], [[atteggiamento]], [[contegno]], [[educazione]], [[etichetta]], buone maniere, [[garbo]], [[convenzioni]], [[formalità]]
+*[[stile]], [[linguaggio]]
+*[[stampo]]
+*[[contenuto]]
+*''essere in forma''
+*''essere giù di forma''
+*italiano
+*spagnolo
+M>rma</E
+M>circolare</E
+M>quadrata</E
+M>ovale</E
+M>sferica</E
+M>regolare</E
+M>irregolare</E
+M>la f</E
+M>di una bottiglia</E
+M>di un mobile</E
+M>di una piazza</E
+M>di un monte</E
+M>la f</E
+M>degli occhi</E
+M>del naso</E
+M>della mano</E
+M>dei fianchi</E
+M>descrivere</E
+M>rappresentare</E
+M>riprodurre la f</E
+M>di un oggetto</E
+M>assumere f</E
+M>umana</E
+M>l’Italia ha la f</E
+M>d’uno stivale</E
+M>sedile a f</E
+M>di canapè</E
+M>biscotti a forma di mezzaluna</E
+M>In f</E
+M>dunque di candida rosa Mi si mostrava la milizia santa</E
+M>idea</E
+M>progetto che comincia a prendere forma</E
+M>savia ciascuna e di sangue nobile e bella di forma e ornata di costumi</E
+M>snelle</E
+M>delicate</E
+M>giunoniche</E
+M>tozze</E
+M>grossolane</E
+M>una donna di bellissime f</E
+M>perché hai le gentili Forme e l’ingegno docile Volto a studi virili?</E
+M>un abito molto attillato le metteva in risalto le forme</E
+M>strane f. si vedevano passare nel buio</E
+M>gli sembrava che le nuvole si trasformassero in f</E
+M>minacciose</E
+M>nel delirio la sua mente si popolava di orribili forme</E
+M>la f</E
+M>della testa</E
+M>della coda</E
+M>del piede di una specie animale</E
+M>la f</E
+M>del tronco</E
+M>delle foglie</E
+M>del fiore d’una pianta</E
+M>semplice</E
+M>forma del rilievo</E
+M>forme di denudazione</E
+M>specie</E
+M>sottospecie</E
+M>razza</E
+M>tipo</E
+M>proprie dei mari caldi</E
+M>xerofila</E
+M>conidica</E
+M>perfetta</E
+M>larvali</E
+M>bariche</E
+M>tipi isobarici</E
+M>forme di governo</E
+M>monarchica</E
+M>repubblicana</E
+M>forma di mercato</E
+M>atipiche</E
+M>infettive</E
+M>benigne</E
+M>maligne</E
+M>lievi</E
+M>gravi</E
+M>inventare nuove f</E
+M>d’arte</E
+M>di spettacolo</E
+M>di divertimenti</E
+M>quanto tempo ha che tu sei ridotto a cotesta f</E
+M>di vita?</E
+M>celebrare</E
+M> commemorare in f</E
+M>solenne</E
+M>assistere</E
+M>partecipare a una cerimonia in f</E
+M>privata</E
+M>forma</E
+M>materia</E
+M>contenuto</E
+M>come f</E
+M>non s’accorda Molte fïate a l’intenzion de l’arte</E
+M>Perch’a risponder la materia è sorda</E
+M>forma</E
+M>un trattato in f</E
+M>di dialogo</E
+M>tradurre in f</E
+M>drammatica un’opera narrativa</E
+M>la f</E
+M>d’uno scritto</E
+M>componimento povero di idee ma di f</E
+M>corretta</E
+M>scrivere in buona f</E
+M>italiana</E
+M>presentare un concetto in f</E
+M>chiara</E
+M>intelligibile</E
+M>componimento in f</E
+M>di sonetto</E
+M>di canzone</E
+M>composi una epistola sotto f</E
+M>di serventese</E
+M>chiuse</E
+M>continue</E
+M>aperte</E
+M>libere</E
+M>Tractatus logico</E
+M>philosophicus</E
+M>Satzform</E
+M>teoria</E
+M>psicologia della f</E
+M>citazione fatta nelle debite f</E
+M>in tutte le f</E
+M>annullamento di un contratto per vizio di forma</E
+M>agire con le debite f</E
+M>rispettare</E
+M>osservare</E
+M>violare le forme</E
+M>educate</E
+M>gentili</E
+M>grossolane</E
+M>non ha forma</E
+M>gli mancano le forme</E
+M>badare alla f</E
+M>è questione di pura f</E
+M>una persona tutta f</E
+M>le f</E
+M>del verbo</E
+M>la f</E
+M>del singolare</E
+M>del plurale</E
+M>la f</E
+M>del nominativo</E
+M>del genitivo</E
+M>regolari</E
+M>irregolari</E
+M>attiva</E
+M>passiva</E
+M>riflessiva</E
+M>diatesi</E
+M>mettere in f</E
+M>un budino</E
+M>modellare sulla f</E
+M>un materiale plastico</E
+M>Forma da cappelli</E
+M>Forma da scarpe</E
+M>fascera</E
+M>mezza f</E
+M>di cacio</E
+M>una f</E
+M>di parmigiano</E
+M>una f</E
+M>di ricotta</E
+M>staffe</E
+M>conchiglie</E
+M>perse</E
+M>buone</E
+M>a tasselli</E
+M>forme</E
+M>essere in f</E
+M>in ottima f</E
+M>essere giù di f</E
+M>fuori f</E
+M>in cattiva f</E
+M>forme di 1</E
+M> specie</E
+M>forme di 2</E
+M>specie</E

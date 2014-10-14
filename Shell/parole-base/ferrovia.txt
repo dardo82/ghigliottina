@@ -1,0 +1,41 @@
+ferrovia.txt
+"ferrovia"
+"ferrovia"
+"ferrovia a cremagliera"
+"ferrovia elettrica"
+"ferrovia sotteranea"
+"ferrovia sotterranea"
+"ferrovia, ferroviario"
+"linea principale (di ferrovia)"
+* [[strada ferrata]]
+M>ferro</E
+M>via</E
+M>Eisenbahn</E
+M>viaggiare</E
+M>spedire per f</E
+M>recarsi</E
+M>andare alla f</E
+M>attraversare la f</E
+M>impiegato delle f</E
+M>l’invenzione della ferrovia</E
+M>ferrovie dello stato</E
+M>private</E
+M>principali</E
+M>secondarie</E
+M>a scartamento normale</E
+M>a scartamento ridotto</E
+M>a aderenza naturale</E
+M>a aderenza artificiale</E
+M>a dentiera</E
+M>a cremagliera</E
+M>di pianura</E
+M>pianeggianti</E
+M>di montagna</E
+M>a vapore</E
+M>a trazione endotermica</E
+M>a trazione elettrica</E
+M>a trazione diesel</E
+M>elettrica</E
+M>metropolitana</E
+M>sotterranea</E
+M>f. ad alta velocità</E

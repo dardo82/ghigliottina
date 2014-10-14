@@ -1,0 +1,35 @@
+disagio.txt
+"a disagio"
+"causare disagio"
+"disagio"
+"disagio"
+"disagio"
+"disagio fisico"
+"essere a disagio"
+"provocare disagio"
+"senza disagio"
+*[[difficoltà]], [[imbarazzo]], [[malessere]]; [[fastidio]], [[impiccio]], [[seccatura]], [[incomodo]]
+*[[mancanza di agi]], [[scomodità]]
+*[[molestia]]
+*[[impaccio]], [[inconveniente]]]
+*[[agio]], [[comodità]] 
+*[[disagiare]]
+*[[disagevole]], [[disagiato]]
+M>dis</E
+M>agio</E
+M>soffrire</E
+M>patire</E
+M>sopportare disagi di ogni specie</E
+M>affrontare i d</E
+M>di una lunga navigazione</E
+M>stava a d. in quella sedia troppo stretta per lui</E
+M>è un luogo</E
+M>una compagnia</E
+M>in cui mi trovo a d.</E
+M>quei discorsi misero a d</E
+M>tutti i presenti</E
+M>davanti a lui mi sento sempre a d</E
+M>il suo modo di guardarla la metteva a disagio</E
+M>natural burella Ch’avea mal suolo e di lume d</E
+M>acciò che di mangiare non patisse d</E
+M>seco pensò di portare tre pani</E

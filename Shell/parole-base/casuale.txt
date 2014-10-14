@@ -1,0 +1,35 @@
+casuale.txt
+"accesso casuale"
+"campionatura casuale"
+"campione casuale"
+"casuale"
+"il riferimento non è casuale"
+"in modo casuale"
+"in modo casuale, in modo improvviso, in modo brusco"
+"memoria di accesso casuale (RAM)"
+"rumore bianco, rumore casuale con energia costante"
+"tiro casuale"
+M>casualis</E
+M>casus</E
+M>un incontro c</E
+M>per una c</E
+M>sbadataggine</E
+M>ogni riferimento a fatti o persone reali è da ritenersi del tutto casuale</E
+M>condizione c</E
+M>potestativa</E
+M>mista</E
+M>diritti c</E
+M>i casuali</E
+M>le casuali</E
+M>minerale c</E
+M>minerale accidentale</E
+M>fenomeno c</E
+M>aleatorio</E
+M>processo c</E
+M>aleatorio</E
+M>campione c</E
+M>scelta c</E
+M>numeri c</E
+M>tavole di numeri c</E
+M>è avvenuto casualmente</E
+M>l’ho incontrato casualmente</E

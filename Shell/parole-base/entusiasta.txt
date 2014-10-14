@@ -1,0 +1,25 @@
+entusiasta.txt
+"accoglienza entusiasta"
+"critica entusiasta"
+"entusiasta"
+"entusiasta"
+"entusiasta di"
+"entusiasta di"
+"entusiasta per"
+"entusiasta riguardo"
+"essere entusiasta"
+"essere entusiasta"
+"essere entusiasta"
+"esuberante, vivace, entusiasta"
+"fanatico, eccessivamente entusiasta"
+"promozione a pieni voti, parere entusiasta"
+*[[ammiratore]], [[innamorato]], [[esaltato]]
+M>ero e</E
+M>per il successo ottenuto</E
+M>essere e</E
+M>per la musica jazz</E
+M>per le danze folcloristiche</E
+M>per il gioco del calcio</E
+M>sono e</E
+M>del risultato</E
+M>entusiasti</E

@@ -1,0 +1,42 @@
+dozzina.txt
+"da mezza dozzina"
+"dozzina"
+"mezza dozzina"
+"più o meno una dozzina, all'incirca una dozzina"
+* ''(gruppo di dodici)'' [[dozzinante]]
+* ''(sinonimo di mediocre, scadente)'' [[dozzinale]]
+* ''(gruppo di dodici)'' 
+M>douzaine</E
+M>douze</E
+M>una d</E
+M>di uova</E
+M>di garofani</E
+M>una d</E
+M>di fazzoletti</E
+M>di bicchieri</E
+M>dodici paia di calze</E
+M>di scarpe</E
+M>ha in fabbrica una d</E
+M>di operai</E
+M>ci sono stato una d</E
+M>di volte</E
+M>c’era sì e no una d</E
+M>di ascoltatori</E
+M>a dozzine</E
+M>di oggetti simili se ne trovano a dozzine</E
+M>dozzina</E
+M>dozzinale</E
+M>biancheria da d</E
+M>poeta di d</E
+M>nessun si pensi che quel Cristoforo fosse un frate di d</E
+M>una cosa da strapazzo</E
+M>Vostra Eccellenza</E
+M>che mi sta in cagnesco Per que’ pochi scherzucci di d</E
+M>pensione</E
+M>essere</E
+M>mettere</E
+M>stare</E
+M>prendere a d</E
+M>ha due stanze libere che dà a d</E
+M>pagare</E
+M>riscuotere la dozzina</E

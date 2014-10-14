@@ -1,0 +1,46 @@
+esperto.txt
+"consulente esperto"
+"diventare esperto"
+"diventare esperto"
+"esperto"
+"esperto"
+"esperto"
+"esperto agronomo"
+"esperto del settore"
+"esperto di"
+"esperto di"
+"esperto di fossili"
+"esperto di libri"
+"esperto di marketing"
+"esperto finanziario"
+"esperto in"
+"esperto in"
+"esperto in"
+"esperto in"
+"esperto in"
+"esperto legale"
+"esperto tecnico"
+"esperto, anziano"
+"essere esperto"
+"essere esperto"
+"essere un esperto di"
+"lasciar fare a (qcn più abile; esperto)"
+"lasciar fare a qcn. più esperto"
+"molto esperto, molto competente, molto capace"
+"non esperto"
+"notevole esperto, esperto principale"
+"più esperto"
+"pratico, esperto"
+"pratico, esperto"
+"professionista esperto"
+"vecchio, esperto"
+"veterano esperto"
+*[[conoscitore]], [[intenditore]], [[competente]], [[specialista]], [[consulente]], [[dotto]], [[perito]]
+*[[consumato]], [[navigato]], [[rodato]]
+*[[pratico]], [[competente]], [[preparato]], [[colto]]
+*[[bravo]], [[capace]], [[sicuro]], [[abile]], [[ferrato]], [[valente]], [[provetto]]
+*[[ignorante]]
+*[[inesperto]]
+*[[incompetente]], [[impreparato]], [[incolto]] 
+*[[incapace]], [[insicuro]]
+*[[esperienza]]

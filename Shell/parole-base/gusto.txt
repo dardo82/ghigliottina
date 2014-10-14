@@ -1,0 +1,212 @@
+gusto.txt
+"al gusto di ciliegia"
+"bere con gusto"
+"bigiotteria di cattivo gusto"
+"caramella gusto menta"
+"cattivo gusto"
+"cattivo gusto"
+"che gusto si prova?"
+"con gusto"
+"con gusto"
+"con gusto"
+"with gusto"
+"di cattivo gusto"
+"di cattivo gusto"
+"di cattivo gusto"
+"di cattivo gusto"
+"di gusto amaro"
+"di gusto forte"
+"di gusto piacevole"
+"di pessimo gusto"
+"di suo gusto"
+"forte (di sapore), spesso (gusto)"
+"gelato al (gusto (di))..."
+"gusto"
+"gusto"
+"gusto"
+"gusto"
+"gusto"
+"gusto"
+"gusto"
+"gusto acquisito"
+"gusto del gelato"
+"gusto del rischio"
+"gusto della vita"
+"gusto di gelato con pezzettini di frutta fresca, secca o candita"
+"gusto di menta"
+"gusto di pistacchio"
+"gusto fino, palato fino"
+"gusto piccante"
+"gusto pieno"
+"gusto raffinato"
+"gusto sgradevole"
+"gusto, piacere"
+"gusto"
+"itinerari del gusto"
+"mancanza di gusto"
+"mangiare voracemente, con gusto"
+"non c'è gusto"
+"per il gusto di farlo"
+"prenderci gusto"
+"provarci gusto"
+"scherzo (di cattivo gusto)"
+"senso del gusto"
+"senza gusto"
+"senza gusto"
+"senza gusto"
+"volgare, di cattivo gusto"
+*(di sostanza, alimento) [[sapore]], [[bontà]], [[gustosità]], [[appetito]]
+*(di epoca, scuola, eccetera) [[qualità]], tendenza estetica, [[moda]], [[voga]], [[maniera]], [[modo]]
+*(di sostanza, alimento) [[disgusto]], [[nausea]]
+*[[gustare]], [[retrogusto]]
+M>gustus</E
+M>gustare</E
+M>organi del g</E
+M>stuzzicare il g</E
+M>piacere</E
+M>dispiacere al g</E
+M>perdere</E
+M>riacquistare il g</E
+M>fine</E
+M>acuto</E
+M>delicato</E
+M>ottuso</E
+M>grossolano</E
+M>guasto</E
+M>cibo gradito</E
+M>piacevole al g</E
+M>medicina intollerabile al gusto</E
+M>cioccolatini di g</E
+M>squisito</E
+M>caramelle al g</E
+M>di lampone</E
+M>minestra di poco g</E
+M>questo caffè ha uno strano g</E
+M>sentire</E
+M>distinguere il g</E
+M>dei cibi</E
+M>divorò tutto il pranzo con gran gusto</E
+M>se la voce tua sarà molesta Nel primo g</E
+M>ci ho g</E
+M>a sentire che anche lui è nei guai</E
+M>vorrei prendermi il g</E
+M>di una rivincita</E
+M> a che cosa servono gli amici se non a ridarci il g. della verità?</E
+M>se gli andasse a monte l’affare ci avrei proprio un g</E
+M>matto</E
+M>che g</E
+M>ci provi a stuzzicarlo?</E
+M>che g</E
+M>c’è a star qui sotto la pioggia?</E
+M>non c’è g</E
+M>a guardare gli altri che si divertono</E
+M>provi davvero g</E
+M>a stuzzicarmi?</E
+M>cominciare a prendere g</E
+M>a qualche cosa</E
+M>a dire</E
+M>a fare qualcosa</E
+M>che gusto!</E
+M>sai che gusto!</E
+M>che bel g</E
+M>passare la serata con quelle due vecchie mummie</E
+M>sai che gusto!</E
+M>mi è venuto il g</E
+M>di andare a ballare</E
+M>levarsi il g</E
+M>di qualche cosa</E
+M>L’animo mio</E
+M>per disdegnoso gusto</E
+M>Credendo col morir fuggir disdegno</E
+M>Ingiusto fece me contra me giusto</E
+M>ognuno ha i suoi g</E
+M>è questione di gusti</E
+M>tutti i g</E
+M>son gusti</E
+M>sui g</E
+M>non si discute</E
+M>de gustibus non est disputandum</E
+M>che gusti!</E
+M>che razza di gusti!</E
+M>il film è di tuo g</E
+M>tutto ciò non è di mio g</E
+M>secondo il mio g</E
+M>farei così</E
+M>del bello</E
+M>estetico</E
+M>avere g</E
+M>per l’arte</E
+M>per la poesia</E
+M>per la pittura</E
+M>per la musica</E
+M>formarsi</E
+M>educare</E
+M>affinare</E
+M>corrompere il g</E
+M>scrive correttamente</E
+M>ma senza g</E
+M>fine</E
+M>delicato</E
+M>corrotto</E
+M>naturale</E
+M>educato</E
+M>buon g</E
+M>cattivo g</E
+M>una persona piena di g</E
+M>priva di g</E
+M>senza g</E
+M>ha g</E
+M>da vendere</E
+M>ma non hai proprio gusto!</E
+M>di gusto</E
+M>persona di g</E
+M>di molto g</E
+M>arredamento</E
+M>vestito</E
+M>abitazione di gusto</E
+M>vestire con g</E
+M>con vero g</E
+M>con g</E
+M>sobrio</E
+M>con g</E
+M>ricercato</E
+M>un appartamento arredato con g</E
+M>con buon g</E
+M>il g</E
+M>della nuova casa è discutibile</E
+M>di cattivo g</E
+M>di dubbio g</E
+M>di pessimo g</E
+M>di buon g</E
+M>di g</E
+M>squisito</E
+M>oggetti</E
+M>ornamenti</E
+M>abiti di cattivo g</E
+M>parole</E
+M>scherzi di dubbio g</E
+M>di pessimo gusto</E
+M>il disegno è eseguito col g</E
+M>del secolo scorso</E
+M>ricevimento di g</E
+M>provinciale</E
+M>ambiente arredato con g</E
+M>barocco</E
+M>borghese</E
+M>il g</E
+M>dell’Ottocento</E
+M>neoclassico</E
+M>romantico</E
+M>verista</E
+M>decadente</E
+M>il g</E
+M>della poesia pura</E
+M>del «frammento»</E
+M>di gusto</E
+M>mangiare</E
+M>bere di g</E
+M>ridere di g</E
+M>in altre circostanze</E
+M>avrebbe riso</E
+M>proprio di gusto</E
+M>d’una richiesta simile</E

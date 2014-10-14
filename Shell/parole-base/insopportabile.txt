@@ -1,0 +1,50 @@
+insopportabile.txt
+"insopportabile"
+* [[intollerabile]], [[insostenibile]], [[inammissibile]], [[eccessivo]], [[oneroso]], [[fastidioso]], [[insoffribile]]
+*[[fortissimo]], [[acutissimo]], [[lancinante]], [[terribile]], [[straziante]] 
+*[[detestabile]]
+*''(di dolore)''  [[atroce]], [[tremendo]]
+*''(di persona, di carattere)'' [[antipatico]], [[odioso]], [[sgradevole]]
+*''(di situazione, disagio eccetera)''[[sopportabile]], [[sostenibile]], [[tollerabile]]
+*''(di dolore)''[[sopportabile]], [[lieve]], [[blando]]
+*''(di persona, di carattere)'' [[simpatico]], [[amabile]], [[piacevole]], [[gradevole]], [[cordiale]]
+*[[insopportabilmente]], [[insopportabilità]]
+M>sopportabile</E
+M>caldo</E
+M>freddo</E
+M>prurito</E
+M>sete i</E
+M>fu come quando una fitta lieve</E
+M> a forza di pensarci</E
+M> diventa un dolore i.</E
+M>un fetore i</E
+M>tributi</E
+M>tasse</E
+M>imposte i</E
+M>offese</E
+M>insulti</E
+M>prepotenze i</E
+M>la situazione diventa i</E
+M>l’abbaiare del cane nella notte mi riusciva insopportabile</E
+M>la sua boria</E
+M>il suo carattere bisbetico</E
+M>la sua arroganza lo rende i</E
+M>smetti di brontolare</E
+M>sei i</E
+M>è di un’arroganza</E
+M>di una petulanza</E
+M>di una lagnosità insopportabile</E
+M>un film</E
+M>un libro insopportabilmente noioso</E
+M>è un uomo insopportabilmente presuntuoso</E
+"name": "Cara, insopportabile Tess"
+"name": "Un insopportabile ronzio"
+"name": "Insopportabile ansia"
+"name": "Insopportabile ansia"
+"name": "Insopportabile alchimia"
+"name": "Insopportabile alchimia"
+"name": "Insopportabile"
+"name": "Insopportabile"
+"name": "Insopportabile"
+"name": "Questa donna insopportabile"
+"name": "Questa donna insopportabile"

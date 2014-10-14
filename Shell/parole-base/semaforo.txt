@@ -1,0 +1,21 @@
+semaforo.txt
+"luce verde del semaforo"
+"semaforo"
+"semaforo"
+"semaforo rosso"
+M>-foro</E
+M>sémaphore</E
+M>s. stradale</E
+M>il s. è verde</E
+M>segna verde</E
+M>passare con il s. rosso</E
+M>con il rosso</E
+M>è scattato il s.</E
+M>il s. lampeggia</E
+M>s. ferroviario</E
+M>segnale semaforico ad ala</E
+M>s. marittimo</E
+M>s. verde</E
+M>s. rosso</E
+M>politica del s.</E
+M>stop and go</E

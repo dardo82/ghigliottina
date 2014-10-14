@@ -1,0 +1,18 @@
+sottaceto.txt
+"cetriolo sottaceto aromatizzato all'aneto"
+"sottaceto"
+"sottaceto"
+"sottaceto"
+M>sotto</E
+M>aceto</E
+M>sott&#8217;aceto</E
+M>mettere</E
+M>tenere s. i funghi</E
+M>la carne della lepre</E
+M> prima di cuocerla</E
+M> va lasciata s. per qualche ora</E
+M>cipolline</E
+M>cetriolini</E
+M>funghi sottaceto</E
+M>conservazione s.</E
+M>antipasti varî con sottaceti</E

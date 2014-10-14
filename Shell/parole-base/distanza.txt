@@ -1,0 +1,132 @@
+distanza.txt
+"a breve distanza"
+"a debita distanza"
+"a distanza"
+"a distanza"
+"a distanza"
+"a distanza ravvicinata"
+"a poca distanza"
+"ad una certa distanza"
+"adozione a distanza"
+"ampia distanza, ampia portata"
+"assistenza a distanza"
+"breve distanza"
+"breve distanza"
+"collocare qualcosa ad una certa distanza"
+"con controllo a distanza"
+"controllo a distanza"
+"correre velocemente per breve distanza"
+"della distanza temporale"
+"distanza"
+"distanza attraverso"
+"distanza da parte a parte"
+"distanza focale"
+"distanza focale"
+"distanza limitata"
+"distanza media"
+"distanza media"
+"distanza perpendicolare"
+"distanza ravvicinata, poca distanza"
+"distanza temporale"
+"distanza temporale"
+"distanza tra"
+"distanza verticale"
+"distanza x"
+"è una discreta distanza"
+"educazione a distanza"
+"guadagnare distanza su"
+"la distanza"
+"lavoro a distanza"
+"legge dell'inverso del quadrato della distanza"
+"limitata distanza"
+"lunga distanza"
+"lunga distanza"
+"misurare la distanza camminando"
+"percezione della distanza"
+"relazione a distanza"
+"rimanere a distanza, restare a distanza"
+"studio a distanza"
+"su grande distanza"
+"tenersi a distanza; stare alla larga"
+"trasmissione a distanza"
+"una bella distanza"
+"vendita a distanza"
+#*''I confini del sistema solare sono posti a 50 unità astronomiche, ossia a cinquanta volte la '''distanza''' tra la [[w
+*(nello spazio) [[lontananza]], [[distacco]], [[intervallo]], [[spazio]], [[tratto]], [[interstizio]]
+*(nello spazio) [[vicinanza]], [[contatto]]
+*[[distanziare]]
+*'' a distanza di''
+*Devoto/Oli, ''Il dizionario della lingua italiana'',edizione cartacea 2000-2001, Le Monnier p. 663
+M>distantia</E
+M>distare</E
+M>fra una casa e l’altra</E
+M>fra due città</E
+M>che d</E
+M>c’è da Roma a Napoli?</E
+M>gli sparò alla</E
+M>dalla</E
+M>di 20 metri</E
+M>in linea d’aria</E
+M>misurare la d</E
+M>stima delle d</E
+M>la navigazione aerea ha abolito le d</E
+M>di sicurezza</E
+M>legale</E
+M>tenersi a giusta d</E
+M>tenere la d</E
+M>aumentare</E
+M>raddoppiare</E
+M>serrare le distanze</E
+M>rimanere</E
+M>tenersi a d</E
+M>in distanza</E
+M>non riuscivo a vederlo a causa della d</E
+M>n’apparve una montagna</E
+M>bruna Per la d</E
+M>in distanza</E
+M>si vedeva</E
+M>in d</E
+M>la cima del campanile</E
+M>a distanza</E
+M>educazione</E
+M>istruzione</E
+M>a distanza</E
+M>università a distanza</E
+M>percorso</E
+M>coprire una d</E
+M>tra un punto e una retta</E
+M>un piano</E
+M>tra due rette parallele</E
+M>tra due piani paralleli</E
+M>tra due rette sghembe</E
+M>minima d</E
+M>tra due rette sghembe</E
+M>zenitale</E
+M>colatitudine</E
+M>coordinate polari di un punto nello spazio</E
+M>polare di un astro</E
+M>zenitale di un astro</E
+M>colatitudine</E
+M>d. coniugate</E
+M>d. focali</E
+M>Dante e Michelangelo vissero a grande d</E
+M>l’uno dall’altro</E
+M>vincere</E
+M>affermarsi alla d</E
+M>c’è una bella d</E
+M>fra il Petrarca e i suoi imitatori</E
+M>fra me e lui c’è sempre stata molta distanza</E
+M>lasciare qualcuno a d</E
+M>a molta d</E
+M>tenere</E
+M>tenersi</E
+M>stare a d</E
+M>a debita d</E
+M>a rispettosa d</E
+M>mantenere</E
+M>rispettare</E
+M>abolire le d</E
+M>tenere qualcuno a d</E
+M>prendere le d</E
+M>le debite d</E
+M>da qualcuno</E

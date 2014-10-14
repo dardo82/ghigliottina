@@ -1,0 +1,99 @@
+fuga.txt
+"artista della fuga"
+"caccia al tacchino in fuga"
+"darsi alla fuga"
+"fuga"
+"fuga"
+"fuga"
+"fuga"
+"fuga"
+"fuga a rotta di collo"
+"fuga di capitali"
+"fuga di capitali"
+"fuga di cervelli"
+"fuga di nascosto"
+"fuga di notizie"
+"fuga disordinata"
+"fuga precipitosa"
+"fuga precipitosa"
+"in fuga"
+"in fuga"
+"incidente con fuga, incidente con omissione di soccorso"
+"itinerario di fuga"
+"meccanismo di fuga"
+"punto di fuga in una prospettiva"
+"toccata e fuga"
+"valvola di fuga"
+"velocità di fuga"
+"via di fuga"
+"via di fuga"
+"via di fuga"
+*[[perdita]], [[uscita]]
+*[[fugace]], [[fugare]], [[fugato]], [[fuggire]]
+*[[fugio]], [[fugo]]
+*[[refugium]]
+*italiano
+M>fuga</E
+M>fug</E
+M>darsi alla f</E
+M>darsi a f</E
+M>precipitosa</E
+M>prendere la f</E
+M>pigliare la f</E
+M>mettere</E
+M>volgere</E
+M>volgersi in fuga</E
+M>salvarsi con la f</E
+M>costringere alla f</E
+M>il nemico</E
+M>i ladri</E
+M>un assalitore</E
+M>inseguire il nemico in fuga</E
+M>salvarsi con la f</E
+M>la Fuga in Egitto</E
+M>evasione</E
+M>la f</E
+M>dal carcere</E
+M>da un penitenziario</E
+M>preparare</E
+M>attuare la f</E
+M>dare l’allarme per la f</E
+M>di un detenuto</E
+M>in avanti</E
+M>la f</E
+M>delle illusioni</E
+M>la f</E
+M>dalla realtà</E
+M>la f</E
+M>nel sogno</E
+M>la f</E
+M>dai proprî doveri</E
+M>dalle proprie responsabilità</E
+M>di notizie</E
+M>di voti</E
+M>di capitali</E
+M>di cervelli</E
+M>dalla moneta</E
+M>una f</E
+M>di gas</E
+M>epilettica</E
+M>delle idee</E
+M>nella malattia</E
+M>f. stretta</E
+M>larga</E
+M>soggetto</E
+M>contrassoggetti</E
+M>esposizione</E
+M>sviluppo</E
+M>divertimento</E
+M>stretta</E
+M>le f</E
+M>di Bach</E
+M>Punto di fuga</E
+M>fuga</E
+M>Curva di fuga</E
+M>curva d’inseguimento</E
+M>velocità di fuga</E
+M>velocità di fuga</E
+M>circuito di fuga</E
+M>condensatore di fuga</E

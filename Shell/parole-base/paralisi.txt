@@ -1,0 +1,32 @@
+paralisi.txt
+"paralisi"
+"paralisi"
+"paralisi cerebrale"
+"paralisi infantile"
+"paralisi infantile"
+"paralisi infantile"
+"paralisi leggera"
+"paralisi parziale"
+M>paral</E
+M>sis</E
+M>organica</E
+M>isterica</E
+M>flaccida</E
+M>periferica</E
+M>atrofica</E
+M>spastica</E
+M>progressiva</E
+M>generale</E
+M>agitante</E
+M>morbo di Parkinson</E
+M>infantile</E
+M>poliomielite anteriore acuta</E
+M>p. a frigore</E
+M>a frigore</E
+M>della sensibilità</E
+M>una specie di paralisi ha finito per impossessarsi del mio pensiero e della mia fantasia</E
+M>la p</E
+M>delle industrie</E
+M>del commercio</E
+M>lo sciopero ha provocato la p</E
+M>completa del movimento ferroviario</E

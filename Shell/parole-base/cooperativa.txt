@@ -1,0 +1,25 @@
+cooperativa.txt
+"banca cooperativa"
+"cooperativa"
+"cooperativa"
+"sede di una cooperativa"
+"cooperativa agricola"
+"cooperativa agricola"
+"cooperativa di credito"
+"società cooperativa"
+*impresa collettiva, [[consorzio]], [[società]], [[associazione]]
+M>cooperativo</E
+M>unione</E
+M>società</E
+M>di produzione</E
+M>agricola</E
+M>di consumo</E
+M>di credito</E
+M>edilizia</E
+M>di abitazione</E
+M>di produzione e lavoro</E
+M>fondare una c</E
+M>costituirsi in cooperativa</E
+M>andare alla c</E
+M>riunirsi alla c</E
+M>fare la spesa alla cooperativa</E

@@ -1,0 +1,15 @@
+granaio.txt
+"granaio"
+"granaio"
+"porta del granaio"
+"riporre nel granaio"
+#* ''il '''granaio''' è [[vuoto]]''
+#* ''la [[Russia]] è il '''granaio''' d'[[Europa]]'', ''la [[Cina]] è il '''granaio''' del [[mondo]]''
+* [[silo]]
+M>granarium</E
+M>a cateratte</E
+M>a torri</E
+M>a fossa</E
+M>a silo</E
+M>anticamente la Libia era il g</E
+M>di Roma</E

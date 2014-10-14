@@ -1,0 +1,247 @@
+specie.txt
+"conservazione delle specie protette"
+"conservazione delle specie protette"
+"in specie"
+"in specie"
+"specie"
+"species"
+"specie, replace: fare specie"
+"specie biologiche"
+"biological species"
+"specie di"
+"specie di crisantemo"
+"specie umana"
+"human species"
+#* ''Non puoi trattarlo così, 
+#* ''questo negozio vende cinquanta 
+#* ''quello che faccio è una 
+#* ''un briccone della peggior 
+*[[genere]], [[varietà]], [[tipo]], [[sorta]], [[qualità]], [[forma]], [[classe]], [[categoria]], [[risma]]
+*[[aspetto]], [[apparenza]], [[esteriorità]]
+* [[razza]]
+M>species</E
+M>spec</E
+M>E potess&#8217;io</E
+M> Nel secol tetro e in questo aer nefando</E
+M> L&#8217;alta specie serbar</E
+M>specie eucaristiche</E
+M>transustanziazione</E
+M>comunione sotto le due specie</E
+M>sotto specie di</E
+M>in specie di</E
+M>divinità immaginate sotto s. umana</E
+M>lo Spirito Santo discese in s. di candida colomba</E
+M>s&#8217;avisò come</E
+M> sotto spezie di servire a Dio</E
+M> lei dovesse recare a&#8217; suoi piaceri</E
+M>idea</E
+M>sostanza prima</E
+M>sostanze seconde</E
+M>s. intelligibile</E
+M>s. sensibile</E
+M>nome generico</E
+M>nome specifico</E
+M>Panthera leo</E
+M>Quercus ilex</E
+M>Salmo gairdneri</E
+M>Adiantum capillus-veneris</E
+M>specie</E
+M>la conservazione e propagazione della s.</E
+M>l&#8217;evoluzione della specie</E
+M>la s. umana</E
+M>il genere umano</E
+M>Bestemmiavano Dio e lor parenti</E
+M> L&#8217;umana spezie ...</E
+M>le varie s. di contratto</E
+M>questa è una s. particolare del reato di truffa</E
+M>si fanno assicurazioni di ogni s.</E
+M>grandezze della stessa s.</E
+M>grandezze omogenee</E
+M>qualità</E
+M>sorta</E
+M>tipo</E
+M>genere</E
+M>articoli</E
+M>prodotti di varia s.</E
+M>una nuova s. di fibre sintetiche</E
+M>cause</E
+M>fattori</E
+M>conseguenze di diversa s.</E
+M>libri</E
+M> spettacoli di ogni s.</E
+M>merci di tutte le specie</E
+M>è un locale frequentato da gente di ogni s.</E
+M>di tutte le s.</E
+M>ma che s. d&#8217;uomo sei?</E
+M>che s. di genitori sono</E
+M> che lasciano i figli tutto il giorno soli?</E
+M>che s. di proposta è questa?</E
+M>una s. di</E
+M>mi ha punto uno strano insetto</E
+M> una s. di zanzara</E
+M>qui il terreno forma una s. di avvallamento</E
+M>mi hanno dato da mangiare una s. di minestra che era qualcosa di disgustoso</E
+M>cos&#8217;è quella s. di monumento che stanno costruendo in piazza?</E
+M>tacque per una s. di pudore</E
+M>avevo avuto una s. di presentimento</E
+M>conserva sempre verso di noi una s. di riconoscenza</E
+M>in specie</E
+M>in ispecie</E
+M>specie</E
+M>in genere</E
+M>sono grato a tutti</E
+M> ai miei genitori in ispecie</E
+M>mi piace molto la frutta</E
+M> specie quella di stagione</E
+M>nella specie</E
+M>si tratta di un atto disonesto e</E
+M> nella s.</E
+M> di un furto vero e proprio</E
+M>mi doveva aver punto un insetto</E
+M> nella s. una vespa</E
+M>fare specie</E
+M>il suo lungo silenzio mi fa s.</E
+M>mi fa s. che non mi abbia ancora risposto</E
+M>faceami s. ne&#8217; primi tempi vedere un uomo attaccato alla corda</E
+M>conoscendo la sua ignoranza</E
+M> non mi fece s. che entrasse senza salutare</E
+M>queste cose non facevano s. alle due donne</E
+M> non esercitate a distinguer monaca da monaca</E
+M>mi faccio</E
+M>non mi faccio s. di qualcosa</E
+M>mi fa s. di lei</E
+M> che dovrebbe essere una persona educata!</E
+M>mi fa proprio s. di lei</E
+M> signore!</E
+M>species</E
+M>s. farmaceutiche</E
+M>s. amare</E
+M>depurative</E
+M>diuretiche</E
+M>emollienti</E
+M>lassative</E
+M>s. aromatiche</E
+M>spezie</E
+"conservazione delle specie protette"
+"conservazione delle specie protette"
+"in specie"
+"in specie"
+"specie"
+"species"
+"specie, replace: fare specie"
+"specie biologiche"
+"biological species"
+"specie di"
+"specie di crisantemo"
+"specie umana"
+"human species"
+#* ''Non puoi trattarlo così, 
+#* ''questo negozio vende cinquanta 
+#* ''quello che faccio è una 
+#* ''un briccone della peggior 
+*[[genere]], [[varietà]], [[tipo]], [[sorta]], [[qualità]], [[forma]], [[classe]], [[categoria]], [[risma]]
+*[[aspetto]], [[apparenza]], [[esteriorità]]
+* [[razza]]
+M>species</E
+M>spec</E
+M>E potess&#8217;io</E
+M> Nel secol tetro e in questo aer nefando</E
+M> L&#8217;alta specie serbar</E
+M>specie eucaristiche</E
+M>transustanziazione</E
+M>comunione sotto le due specie</E
+M>sotto specie di</E
+M>in specie di</E
+M>divinità immaginate sotto s. umana</E
+M>lo Spirito Santo discese in s. di candida colomba</E
+M>s&#8217;avisò come</E
+M> sotto spezie di servire a Dio</E
+M> lei dovesse recare a&#8217; suoi piaceri</E
+M>idea</E
+M>sostanza prima</E
+M>sostanze seconde</E
+M>s. intelligibile</E
+M>s. sensibile</E
+M>nome generico</E
+M>nome specifico</E
+M>Panthera leo</E
+M>Quercus ilex</E
+M>Salmo gairdneri</E
+M>Adiantum capillus-veneris</E
+M>specie</E
+M>la conservazione e propagazione della s.</E
+M>l&#8217;evoluzione della specie</E
+M>la s. umana</E
+M>il genere umano</E
+M>Bestemmiavano Dio e lor parenti</E
+M> L&#8217;umana spezie ...</E
+M>le varie s. di contratto</E
+M>questa è una s. particolare del reato di truffa</E
+M>si fanno assicurazioni di ogni s.</E
+M>grandezze della stessa s.</E
+M>grandezze omogenee</E
+M>qualità</E
+M>sorta</E
+M>tipo</E
+M>genere</E
+M>articoli</E
+M>prodotti di varia s.</E
+M>una nuova s. di fibre sintetiche</E
+M>cause</E
+M>fattori</E
+M>conseguenze di diversa s.</E
+M>libri</E
+M> spettacoli di ogni s.</E
+M>merci di tutte le specie</E
+M>è un locale frequentato da gente di ogni s.</E
+M>di tutte le s.</E
+M>ma che s. d&#8217;uomo sei?</E
+M>che s. di genitori sono</E
+M> che lasciano i figli tutto il giorno soli?</E
+M>che s. di proposta è questa?</E
+M>una s. di</E
+M>mi ha punto uno strano insetto</E
+M> una s. di zanzara</E
+M>qui il terreno forma una s. di avvallamento</E
+M>mi hanno dato da mangiare una s. di minestra che era qualcosa di disgustoso</E
+M>cos&#8217;è quella s. di monumento che stanno costruendo in piazza?</E
+M>tacque per una s. di pudore</E
+M>avevo avuto una s. di presentimento</E
+M>conserva sempre verso di noi una s. di riconoscenza</E
+M>in specie</E
+M>in ispecie</E
+M>specie</E
+M>in genere</E
+M>sono grato a tutti</E
+M> ai miei genitori in ispecie</E
+M>mi piace molto la frutta</E
+M> specie quella di stagione</E
+M>nella specie</E
+M>si tratta di un atto disonesto e</E
+M> nella s.</E
+M> di un furto vero e proprio</E
+M>mi doveva aver punto un insetto</E
+M> nella s. una vespa</E
+M>fare specie</E
+M>il suo lungo silenzio mi fa s.</E
+M>mi fa s. che non mi abbia ancora risposto</E
+M>faceami s. ne&#8217; primi tempi vedere un uomo attaccato alla corda</E
+M>conoscendo la sua ignoranza</E
+M> non mi fece s. che entrasse senza salutare</E
+M>queste cose non facevano s. alle due donne</E
+M> non esercitate a distinguer monaca da monaca</E
+M>mi faccio</E
+M>non mi faccio s. di qualcosa</E
+M>mi fa s. di lei</E
+M> che dovrebbe essere una persona educata!</E
+M>mi fa proprio s. di lei</E
+M> signore!</E
+M>species</E
+M>s. farmaceutiche</E
+M>s. amare</E
+M>depurative</E
+M>diuretiche</E
+M>emollienti</E
+M>lassative</E
+M>s. aromatiche</E
+M>spezie</E

@@ -1,0 +1,48 @@
+pelliccia.txt
+"allevamento di animali da pelliccia"
+"cappotto foderato di pelliccia"
+"che ricorda la pelliccia"
+"coperto di pelliccia"
+"creature pelose; coperte di pelliccia"
+"da pelliccia"
+"foderato di pelliccia"
+"guarnito di pelliccia"
+"pelliccia"
+"pelliccia"
+"indumento di pelliccia"
+"pelliccia di volpe"
+*[[armellino]], [[armellinato]], [[contrarmellino]], [[vaio]], [[vaiato]], [[controvaio]], [[zibellino]]
+M>pell</E
+M>cia</E
+M>pellis</E
+M>-ce</E
+M>giarra</E
+M>lanugine</E
+M>borra</E
+M>la p. invernale e estiva dell&#8217;ermellino</E
+M>animali da pelliccia</E
+M>l&#8217;industria</E
+M>la lavorazione delle p</E
+M>una giacca</E
+M>un collo</E
+M>un bavero</E
+M>un manicotto di pelliccia</E
+M>un cappotto foderato di pelliccia</E
+M>indossare</E
+M>mettersi</E
+M>infilarsi la p</E
+M>comprarsi</E
+M>farsi la p</E
+M>per Natale ha avuto in dono una nuova p.</E
+M>una signora in pelliccia</E
+M>una p. di visone</E
+M>di martora</E
+M>d&#8217;agnello</E
+M>di volpe</E
+M>di marmotta</E
+M> di astrakan</E
+M>p. ecologica</E
+M>cotica erbosa</E
+M>foderature</E
+M>pelli</E
+M>una pelliccetta di coniglio</E

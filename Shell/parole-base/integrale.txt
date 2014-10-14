@@ -1,0 +1,60 @@
+integrale.txt
+"calcolo integrale"
+"dizionario integrale"
+"equazione integrale"
+"farina integrale"
+"farina integrale"
+"gestione integrale"
+"integrale"
+"integrale"
+"integrale"
+"integrale curvilineo"
+"integrale di linea"
+"integrale; a grandezza naturale"
+"pane integrale"
+"pane integrale"
+"pane integrale"
+"pane integrale"
+"riso integrale"
+"trazione integrale"
+"vegetariano integrale"
+"versione integrale"
+*[[intero]], [[completo]], [[totale]], [[globale]], [[generale]]
+*[[parziale]], [[incompleto]]
+* [[integralismo]], [[integralmente]], [[integro]]
+*[[derivata]], [[integrale definito]], [[integrale indefinito]], [[funzione]], [[ʃ]] (simbolo), [[fattoriale]], [[primitiva]]
+M>integralis</E
+M>int</E
+M>ger</E
+M>integrante</E
+M>i corpi i</E
+M>del mondo debbono esser di lor natura mobili</E
+M>parziale</E
+M> film</E
+M>opera in edizione i</E
+M>pubblicazione i</E
+M>di un documento</E
+M>di un dossier</E
+M>esigere l’applicazione i</E
+M>delle norme di regolamento</E
+M>è stato assicurato il rimborso i</E
+M>delle somme versate indebitamente</E
+M>sono uno scrittore i. perché sono un uomo i. che non ha niente di niente da rivelare né da nascondere</E
+M>fesso i</E
+M>scemo i</E
+M>bonifica i</E
+M>educazione i</E
+M>critica i</E
+M>pane</E
+M>pasta</E
+M>biscotti</E
+M>flusso i</E
+M>meccanizzazione i</E
+M>impianto siderurgico a ciclo i</E
+M>calcolo i</E
+M>indefinito</E
+M>definito</E
+M>di una equazione differenziale</E
+M>realizzare integralmente un programma</E
+M>applicare integralmente una disposizione</E
+M>pubblicare integralmente un’opera</E

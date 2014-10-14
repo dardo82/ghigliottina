@@ -1,0 +1,34 @@
+vuotare.txt
+"vuotare"
+"vuotare bene"
+"vuotare il sacco"
+*[[svuotare]]
+M>io vuòto</E
+M>votare</E
+M>vo-</E
+M>v. la brocca</E
+M>il catino</E
+M>il pozzo</E
+M>la scodella</E
+M>la botte</E
+M>v. un recipiente</E
+M>v. la valigia</E
+M>un baule</E
+M>un cassetto</E
+M>v. la cassaforte</E
+M>v. la stanza</E
+M>la bottega</E
+M>v. il magazzino di tutta la merce</E
+M>v. il bicchiere</E
+M>il fiasco</E
+M>si è vuotato un’intera bottiglia di vino</E
+M>v. le tasche</E
+M>la borsa a qualcuno</E
+M>non andare in quel ristorante</E
+M>che ti vuotano le tasche</E
+M>v. la casa</E
+M>v. il sacco</E
+M>a questo modo la cisterna si vuoterà rapidamente</E
+M>durante il mese d’agosto la città si vuota</E
+M>il suo discorso si è vuotato così d’ogni significato</E
+M>svuotare</E

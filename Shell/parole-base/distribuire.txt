@@ -1,0 +1,42 @@
+distribuire.txt
+"distribuire"
+"distribuire"
+"distribuire"
+"distribuire, replace: distribuirsi"
+"distribuire con parsimonia"
+"distribuire in parti uguali"
+"distribuire in porzioni"
+"distribuire qualcosa"
+"distribuire; far circolare"
+"dividere, distribuire"
+*[[distributivo]]
+*[[distributore]]
+*[[distribuzione]]
+M>distribu</E
+M>dis</E
+M>tribu</E
+M>io distribüisco</E
+M>tu distribüisci</E
+M>i premî</E
+M>le ricompense al valore</E
+M>le razioni</E
+M>il rancio alla truppa</E
+M>le parti agli attori</E
+M>i compiti fra gli impiegati</E
+M>le copie d’un giornale ai rivenditori</E
+M>i moduli da riempire</E
+M>foglietti volanti</E
+M>gli inviti</E
+M>sorrisi</E
+M>strette di mano</E
+M>pugni</E
+M>calci</E
+M>botte da tutte le parti</E
+M>le tubature che distribuiscono l’acqua alle case</E
+M>i libri negli scaffali</E
+M>le sentinelle furono distribuite nei punti più importanti</E
+M>le reclute nelle varie compagnie</E
+M>uniformemente il carico</E
+M>appartamento con stanze ben distribuite</E
+M>le ore della giornata</E
+M>bene il proprio tempo</E

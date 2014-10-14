@@ -1,0 +1,27 @@
+ignobile.txt
+"ignobile"
+*[[indegno]], [[volgare]], [[spregevole]], [[vergognoso]], [[basso]], [[vile]],[[meschino]]
+*[[abietto]], [[infame]], [[indecoroso]], [[disdicevole]], [[turpe]], [[bieco]]
+*[[degno]], [[nobile]], [[distinto]], [[elevato]]
+*[[esemplare]], [[meritevole]], [[edificante]]
+*[[nobile]]
+*[[ignobilmente]]
+*[[ignobilità]]
+M>ignob</E
+M>lis</E
+M>gnob</E
+M>lis</E
+M>nob</E
+M>lis</E
+M>provenire da i</E
+M>famiglia</E
+M>si sdegna ferir l’ignobil plebe</E
+M>è un essere i</E
+M>azione</E
+M>linguaggio</E
+M>contegno i</E
+M>proposte i</E
+M>un i</E
+M>baratto</E
+M>agire</E
+M>comportarsi ignobilmente</E

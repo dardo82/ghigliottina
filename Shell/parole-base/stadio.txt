@@ -1,0 +1,64 @@
+stadio.txt
+"allo stadio iniziale"
+"coro da stadio"
+"primo stadio"
+"questa tappa, questo stadio"
+"stadio"
+"stadio"
+"stadio"
+"stadio"
+"stadio"
+"stadio"
+"tornare (ad uno stadio precedente)"
+"ultimo stadio"
+#*''i padri dei miei compagni sono soliti andare la domenica allo '''stadio''' per guardare la partita della squadra che tifano''
+#*''lo '''stadio''' conclusivo dell'[[iter]] legislativo''; ''malattia ai primi '''stadi'''
+#*''un missile balistico a tre '''stadi'''''
+#*'''''stadio''' convertitore, '''stadio''' mescolatore''
+* campo sportivo, [[campo]], palazzo dello sport
+*''(nella civiltà greco-romana)'' [[arena]], [[anfiteatro]]
+*''(fase)'' [[fazo]]
+*italiano
+*esperanto
+M>stadium</E
+M>Corsa dello s.</E
+M>stadio</E
+M>correre lo s.</E
+M>esercitarsi nello s.</E
+M>vincere lo s.</E
+M>corsa del doppio s.</E
+M>doppio stadio</E
+M>argomento dello s.</E
+M>tribune</E
+M>s. coperto</E
+M>andare allo s. per la partita di calcio</E
+M>s. olimpico</E
+M>l&#8217;Olimpico di Roma</E
+M>s. del ghiaccio</E
+M>S. nautico</E
+M>gli s. della formazione della Terra</E
+M>i primi s. della civiltà umana</E
+M>solo un esame storico più analitico potrà introdurre nuovi criteri di differenza per spiegare i vari s. di sviluppo in cui la civiltà borghese si trova presso i vari popoli</E
+M>i varî s. di un procedimento industriale</E
+M>il primo</E
+M>l&#8217;ultimo s.</E
+M>lo s. acuto di una malattia</E
+M>all&#8217;ultimo stadio</E
+M>lo s. di un tumore</E
+M>s. ortomagmatico</E
+M>pegmatitico</E
+M>pneumatolitico</E
+M>idrotermale</E
+M>s. di erosione</E
+M>s. di Daun</E
+M>di Gschnitz</E
+M>di Bühl</E
+M>amplificatore a due</E
+M>tre s.</E
+M>s. d&#8217;ingresso</E
+M>d&#8217;uscita</E
+M>s. convertitore di frequenza</E
+M>s. demodulatore</E
+M>s. di selezione di linea</E
+M>s. pilota</E
+M>oscillatore pilota</E

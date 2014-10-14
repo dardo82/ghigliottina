@@ -1,0 +1,12 @@
+libraio.txt
+"libraio"
+M>librarius</E
+M>fare il l</E
+M>la professione del l</E
+M>bottega di l</E
+M>entrare dal l</E
+M>commesso l</E
+M>stampatore</E
+M>tipografo</E
+M>editore</E
+M>legatore</E

@@ -1,0 +1,150 @@
+giornata.txt
+"alla giornata"
+"alla giornata"
+"avere una buona giornata"
+"avere una giornata no, avere una giornataccia"
+"avere una giornata no, avere una giornataccia"
+"buona giornata"
+"buona giornata"
+"da mezza giornata"
+"della giornata lavorativa"
+"fine della giornata"
+"giornata"
+"giornata"
+"giornata"
+"giornata"
+"giornata"
+"giornata a tema"
+"giornata bellissima"
+"giornata calda"
+"giornata campale"
+"giornata campale"
+"giornata del cavolo"
+"giornata del gioco"
+"giornata della memoria"
+"Giornata delle Nazioni Unite"
+"giornata di aggiornamento"
+"giornata di campionato"
+"giornata di fuoco"
+"giornata di gare sportive"
+"giornata di gita scolastica"
+"giornata indaffarata"
+"giornata intensa"
+"giornata invernale"
+"giornata lavorativa"
+"giornata lavorativa"
+"giornata no!"
+"giornata per la Terra"
+"giornata tipo"
+"giornata vuota"
+"in giornata"
+"la giornata dei veterani"
+"lavoratore a giornata"
+"lavoro a giornata"
+"lavoro a giornata"
+"mezza giornata"
+"mi hai rallegrato la giornata"
+"pessima giornata"
+"sistema retributivo a giornata"
+"una giornata di lavoro"
+#*''la '''giornata''' della memoria''; ''la '''giornata''' contro il cancro''  
+#*''le cinque '''giornate''' di Milano''
+#*'''''giornate''' di munizioni'', ''giornate''' di carburante''
+#*''ma tutto ciò che racconto non è niente di più di una misera '''giornata''' rispetto all'immensità dell'universo''
+*'''''giornata''' calda''
+*'''''giornata''' nera''
+*''lavorare a '''giornata'''''
+*''vivere alla '''giornata'''''
+*''andare a '''giornate'''''
+M>giorno</E
+M>serena</E
+M>nebbiosa</E
+M>fredda</E
+M>afosa</E
+M>piovosa</E
+M>oggi è una bellissima g</E
+M>le g</E
+M>si allungano</E
+M>si accorciano</E
+M>nottata</E
+M>è stata per me una g</E
+M>perduta</E
+M>ho dedicato tutta la g</E
+M>alla corrispondenza</E
+M>non mi riesce di avere una g</E
+M>libera</E
+M>ho avuto una g</E
+M>faticosa</E
+M>una g</E
+M>terribile</E
+M>una g</E
+M>di preoccupazioni</E
+M> di impegni</E
+M>nera</E
+M>in giornata</E
+M>nella g</E
+M>verrò in g</E
+M>spero di farlo in g</E
+M>vivere</E
+M>campare alla g</E
+M>essere</E
+M>andare a giornate</E
+M>la quinta g</E
+M>del Decameron</E
+M>finita la g</E
+M>gli operai escono dalle fabbriche</E
+M>a giornata</E
+M>lavorare</E
+M>andare a giornata</E
+M>compensare</E
+M>essere pagato a giornata</E
+M>prendere una donna a giornata</E
+M>lavorativa</E
+M>portare la g</E
+M>lavorativa da 8 a 7 ore</E
+M>la costruzione dell’edificio ha richiesto 10.000 g</E
+M>lavorative</E
+M>riscuotere la g</E
+M>deve avere ancora tre g</E
+M>mi sono guadagnato la g</E
+M>magra</E
+M>grassa</E
+M>il luogo sarà distante due g</E
+M>di cammino</E
+M>il nemico avanzava a grandi g</E
+M>a gran giornate</E
+M>E la morte vien dietro a gran g</E
+M>g. della pace</E
+M>della Croce Rossa</E
+M>della prevenzione dei tumori</E
+M>g. missionaria</E
+M>G. di studî</E
+M>prima</E
+M>ultima g</E
+M>del girone d’andata</E
+M>fu quella una grande g</E
+M>per noi tutti</E
+M>le cinque g</E
+M>di Milano</E
+M>le dieci g</E
+M>di Brescia</E
+M>le quattro g</E
+M>di Napoli</E
+M>journée</E
+M>quante zuffe campali</E
+M>chiamate ne’ nostri tempi con un vocabolo francioso giornate e dagli Italiani fatti d’arme</E
+M>furono fatte da’ Romani</E
+M>Si racconta che il principe di Condé dormì profondamente la notte avanti la g</E
+M>di Rocroi</E
+M>quella g</E
+M>decise delle sorti della campagna</E
+M>una grande g</E
+M>una sanguinosa g</E
+M>far giornata</E
+M>venire a giornata</E
+M>calde</E
+M>carburanti e lubrificanti</E
+M>di materiale sanitario</E
+M>di munizioni</E
+M>vendette il cavallo e diverse g</E
+M>di prato</E

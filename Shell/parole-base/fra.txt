@@ -1,0 +1,53 @@
+fra.txt
+"a cavallo di o fra"
+"avere fra le mani una patata bollente"
+"avere la testa fra le nuvole"
+"combattimento fra galli"
+"combattimento fra galli"
+"detto fra noi"
+"detto tra noi (o fra noi)"
+"fra"
+"fra"
+"fra"
+"fra"
+"fra"
+"fra"
+"fra"
+"fra"
+"fra"
+"fra"
+"fra breve"
+"fra i piedi"
+"fra il pubblico"
+"fra poco"
+"fra non molto"
+"fra poco"
+"guerra fra poveri"
+"matrimonio fra consanguinei"
+"mettersi le mani fra i capelli"
+"non fare confusione fra"
+"primo fra pari"
+"primo fra tutti"
+"stare fra i piedi a"
+"stare in mezzo, stare fra i piedi"
+#*'''''Fra''' la scuola e la strada c'è un giardino''
+#*'''''Fra''' casa tua e casa mia ci sono due chilometri e mezzo''
+#*'''''Fra''' le due e le quattro ho vomitato tre volte''
+#*''Ci vediamo '''fra''' due mesi''
+#*''C'è un accordo '''fra''' Italia e Francia''
+*''(frate)'' troncamento di [[frate]] 
+*[[tra]]
+M>fra</E
+M>frammettere</E
+M>frapporre</E
+M>frammezzare</E
+M>frammescolare</E
+M>frammischiare</E
+M>frammisto</E
+M>fraintendere</E
+M>frastagliare</E
+M>frastuono</E
+M>frattanto</E
+M>frattempo</E
+M>fra tanto</E
+M>fra tempo</E

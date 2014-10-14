@@ -1,0 +1,24 @@
+anniversario.txt
+"anniversario"
+"anniversario di diamante"
+"anniversario di matrimonio"
+"buon anniversario"
+"buon anniversario"
+"buon primo anniversario"
+"cinquantesimo anniversario"
+#* '''''anniversario''' di matrimonio''
+*ricorrenza annuale, commemorazione annuale
+*[[compleanno]], [[genetliaco]]
+M>anniversarius</E
+M>annus</E
+M>vert</E
+M>giorno a</E
+M>celebrazioni anniversarie</E
+M>l’80° a</E
+M>della morte di G</E
+M>Verdi</E
+M>l’a</E
+M>della scoperta dell’America</E
+M>l’a</E
+M>della fondazione della Repubblica</E
+M>festeggiava il suo sessantesimo anniversario</E

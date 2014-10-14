@@ -1,0 +1,488 @@
+luogo.txt
+"adattarsi ai costumi di un luogo"
+"aver luogo"
+"avere luogo"
+"avere luogo"
+"bagno (di luogo pubblico)"
+"casa di culto, luogo di culto, casa di Dio"
+"casa o luogo dove si trova"
+"dare luogo a"
+"dare luogo a"
+"desolazione di un luogo"
+"detenzione in un luogo lontano, prigionia in un luogo lontano"
+"essere lasciato in un luogo, essere dimenticato in un luogo"
+"fare tutta la strada fino a un luogo"
+"fuori luogo"
+"i terzo luogo"
+"il luogo comune"
+"il luogo sperduto, la zona disabitata"
+"in luogo"
+"in luogo di"
+"in luogo di questo"
+"in ogni luogo"
+"in primo luogo"
+"in quarto luogo"
+"in quel luogo"
+"in questo luogo"
+"in questo luogo"
+"in secondo luogo"
+"in secondo luogo"
+"in secondo luogo"
+"in terzo luogo"
+"in terzo luogo"
+"in un luogo inferiore"
+"in un luogo inferiore"
+"lasciare un luogo; andarsene"
+"legarsi a un luogo"
+"linea del luogo"
+"luogo"
+"luogo"
+"luogo"
+"luogo"
+"luogo"
+"luogo"
+"luogo appartato"
+"luogo attuale"
+"luogo comune"
+"luogo comune, errore"
+"luogo d'incontro"
+"luogo d'incontro"
+"luogo d'origine"
+"luogo d'origine"
+"luogo del delitto"
+"luogo del processo"
+"luogo della battaglia finale tra le forze del bene e quelle del male (Bibbia)"
+"luogo della strage"
+"luogo deputato a"
+"luogo di culto"
+"luogo di culto asiatico"
+"luogo di cura"
+"luogo di cura o soggiorno in montagna"
+"luogo di cura; stazione climatica"
+"luogo di discussione"
+"luogo di incontro"
+"luogo di istruzione"
+"luogo di libertà"
+"luogo di nascita"
+"luogo di nascita"
+"luogo di passaggio"
+"luogo di prigionia"
+"luogo di raccoglimento"
+"luogo di raccolta"
+"luogo di residenza"
+"luogo di ricreazione"
+"luogo di riproduzione"
+"luogo di ritrovo di coppiette"
+"luogo di sepoltura"
+"luogo di sepoltura"
+"luogo di smercio di beni vari"
+"luogo di svago"
+"luogo di vacanza"
+"luogo di villeggiatura"
+"luogo dichiarato patrimonio mondiale"
+"luogo dove accatastare materiale vecchio e in disuso"
+"luogo dove regna il caos, manicomio"
+"luogo freddo"
+"luogo per vivere"
+"luogo pubblico"
+"luogo religioso"
+"luogo rilassante"
+"luogo riparato"
+"luogo santo"
+"luogo segreto"
+"luogo sicuro"
+"luogo, posto"
+"nel luogo"
+"non luogo a procedere"
+"non nel luogo"
+"non nel luogo"
+"questo luogo"
+"situare in luogo pubblico"
+"sul luogo"
+*[[spazio]]
+*(della superficie terrestre) [[territorio]], [[zona]], [[regione]], [[paese]], [[località]], [[sito]]
+*(di un appuntamento, un incontro, eccetera) [[posto]], [[punto]]
+*[[centro]], centro abitato, [[città]], [[paese]], [[contrada]]
+* (di culto, di divertimento, eccetera) [[costruzione]], [[edificio]]
+* posto conveniente; momento opportuno
+*(di oggetto o del corpo umano) [[punto]]
+* [[posto]], [[paese]],  [[zona]],  [[località]]
+*[[non luogo]], [[luogo-simbolo]], [[sopralluogo]]
+*[[edificio]]
+*''aver luogo''
+*''fuori luogo''
+*'' a tempo e luogo''
+* Enciclopedia [http
+M>cus</E
+M>ghi</E
+M>le luògora</E
+M>Dio è in ogni l</E
+M>di salvazione</E
+M>di purificazione</E
+M>di pena</E
+M>geometrico</E
+M>luogo</E
+M>la circonferenza è il l</E
+M>dei punti del piano aventi una stessa distanza dal centro</E
+M>le isoterme sono le linee luogo dei punti della superficie terrestre che hanno temperatura uguale</E
+M>apparente</E
+M>vero</E
+M>medio</E
+M>geocentrico</E
+M>eliocentrico</E
+M>topocentrico</E
+M>posto</E
+M>punto</E
+M>viaggiare per conoscere l</E
+M>nuovi</E
+M>correre</E
+M>spostarsi da un l</E
+M>a un altro</E
+M>sono l</E
+M>molto frequentati dai turisti</E
+M>questo è il l</E
+M>dove sorgerà il nuovo mercato</E
+M>non seppe spiegare la sua presenza in quel l</E
+M>gli parve di riconoscere il l</E
+M>occupare</E
+M>sgombrare un l</E
+M>s’incontrarono nel l</E
+M>stabilito</E
+M>cercava un l</E
+M>appartato per stare un po’ tranquillo</E
+M>non ricordo il l</E
+M>esatto del nascondiglio</E
+M>pubblico</E
+M>aperto al pubblico</E
+M>esposto al pubblico</E
+M>luoghi della memoria</E
+M>alti</E
+M>bassi</E
+M>montani</E
+M>marittimi</E
+M>deserti</E
+M>aridi</E
+M>malsani</E
+M>paludosi</E
+M>incolti</E
+M>sterili</E
+M>che non rendono nulla</E
+M>solitario</E
+M>remoto</E
+M>abbandonato</E
+M>un l</E
+M>orrido</E
+M>impervio</E
+M>arioso</E
+M>aprico</E
+M>spazioso</E
+M>è un l</E
+M>ameno</E
+M>delizioso</E
+M>L. aperto</E
+M>coperto</E
+M>chiuso</E
+M>forte</E
+M>fortificato</E
+M>militari</E
+M>santi</E
+M>il l</E
+M>di partenza</E
+M>d’arrivo</E
+M>di provenienza</E
+M>di destinazione</E
+M>il l</E
+M>della battaglia</E
+M>accorrere sul l</E
+M>del disastro</E
+M>della sciagura</E
+M>di un incidente</E
+M>recarsi sul l</E
+M>del delitto</E
+M>recarsi sopra luogo</E
+M>fare un sopralluogo</E
+M>il l</E
+M>dell’azione</E
+M>l’unità di luogo</E
+M>deputati</E
+M>di nascita</E
+M>nativo</E
+M>di residenza</E
+M>indicare la data e il l</E
+M>di morte di un personaggio</E
+M>di pubblicazione d’un libro</E
+M>senza luogo</E
+M>sine loco</E
+M>pettegolezzi</E
+M>pregiudizî tipici dei l</E
+M>piccoli</E
+M>del luogo</E
+M>le autorità del l</E
+M>i prodotti</E
+M>le usanze del l</E
+M>la gente</E
+M>la gioventù del l</E
+M>il patrono</E
+M>la festa del l</E
+M>è anche lui del l</E
+M>fece tanto che lo menò a un suo bellissimo l</E
+M>Novellino</E
+M>aveva messere Amerigo</E
+M>fuor di Trapani forse un miglio</E
+M>un suo molto bel l</E
+M>attraversando i campi o</E
+M>come dicon colà</E
+M>i luoghi</E
+M>se n’andò per viottole</E
+M>di divertimento</E
+M>di culto</E
+M>sacro</E
+M>sacro</E
+M>pio</E
+M>pio l</E
+M>di pena</E
+M>comodo</E
+M>di decenza</E
+M>il l</E
+M>de’ frati minori in Ravenna</E
+M>stando una volta Santo Francesco in orazione nel l</E
+M>della Porziuncola</E
+M>Fior</E
+M>di s</E
+M>Franc</E
+M>punto</E
+M>il vestito era macchiato in più l</E
+M>il quadro appariva ritoccato in varî l</E
+M>disinfettare il l</E
+M>della ferita</E
+M>gli si formarono delle piaghe in più l</E
+M>del corpo</E
+M>è bene che ciascuno rimanga al suo l</E
+M>ogni cosa dev’esser messa a suo l</E
+M>non si trovava più l</E
+M>negli alberghi</E
+M>non fate ressa</E
+M>c’è l</E
+M>per tutti</E
+M>fammi un po’ di l</E
+M>bisogna dar l</E
+M>anche agli altri</E
+M>l’hanno messo nel l</E
+M>d’onore</E
+M>posto</E
+M>largo</E
+M>farsi luogo</E
+M>fare luogo</E
+M>fate luogo!</E
+M>m’ha promesso di far l</E
+M>al mio articolo nella rivista</E
+M>disporre le idee</E
+M>le parole nel debito l</E
+M>ogni cosa va fatta a suo l</E
+M>qui trova l</E
+M>la menzione del fatto</E
+M>la citazione qui non cade a suo l</E
+M>non è qui il l</E
+M>di parlarne</E
+M>Fuor di luogo</E
+M>fuori luogo</E
+M>è intervenuto fuor di l</E
+M>la tua osservazione è fuori l</E
+M>non sarà fuor di l</E
+M>rammentarti quali sono i tuoi doveri</E
+M>A tempo e luogo</E
+M>a luogo e tempo</E
+M>ogni cosa va fatta a tempo e l</E
+M>glielo dirò quando mi parrà tempo e luogo</E
+M>trovar luogo</E
+M>è così inquieto che non trova l</E
+M>in nessun posto</E
+M>la piacevolezza sua aveva sì la sua donna presa</E
+M>che ella non trovava l</E
+M>né dì né notte</E
+M>Dare luogo</E
+M>occorre dar l</E
+M>alla riflessione</E
+M>alla ragione</E
+M>diamo l</E
+M>a più nobili argomenti</E
+M>i pensieri si affacciavano angosciosi alla sua mente dileguandosi poi per dar l</E
+M>ad altri più confusi</E
+M>poi che tenuti ebbe gli occhi alquanto bassi e ebbe il rossor dato l</E
+M>il suo contegno diede l</E
+M>a sospetti</E
+M>la frase è ambigua e può dar l</E
+M>a equivoci</E
+M>lo scandalo diede l</E
+M>a un processo rimasto famoso</E
+M>Avere luogo</E
+M>l’inaugurazione ha avuto l</E
+M>con grande solennità</E
+M>la riunione avrà l</E
+M>giovedì prossimo</E
+M>la conferenza non poté aver l</E
+M>per indisposizione dell’oratore</E
+M>durante la manifestazione ebbero l</E
+M>alcuni incidenti</E
+M>le tue osservazioni in questo caso non hanno luogo</E
+M>aver luogo a qualcuno</E
+M>li dugento fiorin d’oro</E
+M>che l’altrier mi prestasti</E
+M>non m’ebber l</E
+M>Esserci luogo</E
+M>c’è l</E
+M>a sperare che le cose cambino in meglio</E
+M>luogo a procedere</E
+M>non darsi</E
+M>non farsi l</E
+M>a procedere</E
+M>non l</E
+M>a procedere</E
+M>essere in alto l</E
+M>altolocato</E
+M>non dubito punto</E
+M>che tornando in Cicilia io non v’avessi ancora grandissimo l</E
+M>in alto l</E
+M>in alto loco</E
+M>era innamorato di una donzella della regina</E
+M>nata di basso l</E
+M>locus</E
+M>nobili</E
+M>humili loco natus</E
+M>Quelli ch’usurpa in terra il l</E
+M>mio</E
+M>essere in l</E
+M>tener l</E
+M>di un altro</E
+M>gli tenne l</E
+M>di padre</E
+M>in l</E
+M>io sono qui in l</E
+M>del mio collega</E
+M>venne lui in l</E
+M>di suo fratello</E
+M>l’ha sempre tenuto in l</E
+M>di figlio</E
+M>questa dichiarazione tiene l</E
+M>di ricevuta</E
+M>in l</E
+M>di ricompensa</E
+M>gli diede belle parole</E
+M>invece</E
+M>in l</E
+M>di rispondere</E
+M>prese il cappello e se n’andò</E
+M>in l</E
+M>di giovargli</E
+M>potrebbe nuocergli</E
+M>in primo l</E
+M>in secondo l</E
+M>non l’ho fatto</E
+M>in primo l</E
+M>perché non ho voluto</E
+M>in secondo l</E
+M>perché</E
+M>essere in primo l</E
+M>mettere in primo l</E
+M>antologia dei l</E
+M>più belli dell’«Orlando Furioso»</E
+M> ho segnato in margine i l</E
+M>più notevoli della dimostrazione</E
+M>l’autore accenna al fatto in più luoghi</E
+M>controversi della «Divina Commedia»</E
+M>oscuro</E
+M>intricato</E
+M>nel l</E
+M>citato</E
+M>luogo citato</E
+M>loco citato</E
+M>cit</E
+M>loc</E
+M>cit</E
+M>retorici</E
+M>topici</E
+M>comuni</E
+M>loci communes</E
+M>comune</E
+M>lieu commun</E
+M>common place</E
+M>sono i soliti l</E
+M>comuni</E
+M>un discorso</E
+M>uno scritto pieno di l</E
+M>comuni</E
+M>teologici</E
+M>teologici proprî</E
+M>teologici improprî</E
+M>Luogo di monte</E
+M>luogo</E
+M>monti</E
+M>avverbî di l</E
+M>qui</E
+M>qua</E
+M>giù</E
+M>vicino</E
+M>lontano</E
+M>sopra</E
+M>sotto</E
+M>davanti</E
+M>dinanzi</E
+M>dietro</E
+M>dentro</E
+M>fuori</E
+M>dove</E
+M>ove</E
+M>donde</E
+M>dovunque</E
+M>quassù</E
+M>quaggiù</E
+M>lassù</E
+M>laggiù</E
+M>accanto</E
+M>altrove</E
+M>dirimpetto</E
+M>indietro</E
+M>dappertutto</E
+M>per di qua</E
+M>per di là</E
+M>Complementi di luogo</E
+M>compl</E
+M>di stato in l</E
+M>a Roma</E
+M>sul tavolo</E
+M>in casa</E
+M>compl</E
+M>di moto a l</E
+M>a casa</E
+M>in villeggiatura</E
+M>per Milano</E
+M>compl</E
+M>di moto da l</E
+M>dal monte</E
+M>dalla licenza</E
+M>compl</E
+M>di moto per l</E
+M>attraverso l</E
+M>per il centro</E
+M>attraverso la finestra</E
+M>compl</E
+M>di l</E
+M>figurato</E
+M>nel sonno</E
+M>alla ventura</E
+M>dall’abbattimento</E
+M>per la mente</E
+M>lugo</E
+M>legnaiulo</E
+M>legnaiuolo</E
+M>l’avello sopra sé richiuso e nel lugo di Scannadio postosi</E
+M>Dec</E
+M>loghettino</E
+M>loghettùccio</E
+M>loghettàccio</E
+M>luoghétto</E
+M>luogùccio</E
+M>luoghiciàttolo</E
+M>luoghicciòlo</E
+M>loghicciuòlo</E
+M>giungiamo al nostro loghicciolo Santa Maria degli Angeli</E

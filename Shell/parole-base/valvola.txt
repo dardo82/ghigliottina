@@ -1,0 +1,127 @@
+valvola.txt
+"alloggiamento per valvola"
+"coperchio della valvola"
+"corpo della valvola"
+"ingranaggio della valvola"
+"leva di comando della valvola"
+"molla valvola"
+"stelo della valvola"
+"valvola"
+"valvola a farfalla"
+"valvola a farfalla"
+"valvola a farfalla aperta"
+"valvola a fungo"
+"valvola a saracinesca"
+"valvola a sfera"
+"valvola a sfera"
+"valvola a spillo"
+"valvola ad ago"
+"valvola aortica"
+"valvola d'aspirazione"
+"valvola del pneumatico"
+"valvola di chiusura"
+"valvola di controllo"
+"valvola di controllo"
+"valvola di fondo"
+"valvola di fuga"
+"valvola di immissione"
+"valvola di non ritorno"
+"valvola di pressione"
+"valvola di ritegno"
+"valvola di scarico"
+"valvola di scarico"
+"valvola di sfiato"
+"valvola di sfogo"
+"valvola di sicurezza"
+"valvola di sicurezza"
+"valvola elettronica"
+"valvola espansione"
+"valvola miscelatrice"
+"valvola mitralica"
+"valvola polmonare"
+"valvola riduttrice"
+"valvola rompivuoto"
+"valvola solare"
+"valvola termoionica"
+"valvola tricuspide"
+*[[valvolare]]
+M>valv</E
+M>lae</E
+M>-arum</E
+M>valvae</E
+M>corpo</E
+M>otturatore</E
+M>sede</E
+M>v. a comando diretto</E
+M>v. a volantino</E
+M>v. automatiche</E
+M>v. di sicurezza</E
+M>v. per alta</E
+M>media</E
+M>bassa pressione</E
+M>v. di regolazione</E
+M>di intercettazione</E
+M>di sicurezza</E
+M>di non ritorno</E
+M>di ritegno</E
+M>di ritenuta</E
+M>di scarico</E
+M>di sfiato</E
+M>di uscita</E
+M>di ingresso</E
+M>miscelatrice</E
+M>v. di riduzione</E
+M>riduttore di pressione</E
+M>v. per tubazioni</E
+M>per pompe</E
+M>per turbine idrauliche</E
+M>per motori a combustione interna</E
+M>V. aerostatica</E
+M>v. a spostamento traslatorio</E
+M>v. a sede piana</E
+M>a piatto</E
+M>a piattello</E
+M>v. a sede conica</E
+M>a cono</E
+M>v. a spillo</E
+M>ad ago</E
+M>a spina</E
+M>v. a fungo</E
+M>v. a sfera</E
+M>v. a saracinesca</E
+M>v. a pistoni</E
+M>v. in testa</E
+M>v. laterali</E
+M>v. rotative</E
+M>maschio</E
+M>v. a maschio conico</E
+M>v. a maschio cilindrico</E
+M>v. a maschio sferico</E
+M>a sfera</E
+M>v. a farfalla</E
+M>rubinetti</E
+M>v. di sicurezza</E
+M>v. di sfogo</E
+M>amplificatore a quattro v.</E
+M>si è bruciata una v. della radio</E
+M>transistore</E
+M>ponte di Graetz</E
+M>fusibile</E
+M>è saltata la v. generale dell’impianto</E
+M>V. elettrolitica</E
+M>raddrizzatore elettrolitico</E
+M>v. solare</E
+M>v. a gradino</E
+M>v. a scatto</E
+M>v. insufficienti</E
+M>v. cardiache</E
+M>v. venose</E
+M>v. pilorica</E
+M>piloro</E
+M>v. ileocecale</E
+M>v. spirale</E
+M>pneumotorace a valvola</E
+M>pneumotorace ipertensivo</E
+M>stenosi bronchiali a valvola</E
+M>v. a senso unico</E
+M>valvola di prua</E

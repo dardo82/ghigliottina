@@ -1,0 +1,8 @@
+rosmarino.txt
+"olio di rosmarino"
+"rosmarino"
+M>rosmarinus</E
+M>ros marinus</E
+M>Rosmarinus officinalis</E
+M>Rosmarinus</E
+M>olio essenziale di rosmarino</E

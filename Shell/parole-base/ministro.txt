@@ -1,0 +1,93 @@
+ministro.txt
+"carica di primo ministro"
+"e-minister; ministro per Internet (GB)"
+"il ministro"
+"incarico in qualità di primo ministro"
+"ministro"
+"ministro"
+"ministro degli affari esteri"
+"ministro degli esteri"
+"ministro degli esteri"
+"Ministro delle Finanze nel governo britannico"
+"ministro delle politiche agricole"
+"ministro di culto"
+"ministro di culto"
+"ministro ombra"
+"ministro plenipotenziario"
+"ministro senza portafoglio"
+"ministro, sacerdote"
+"primo ministro"
+"primo ministro"
+"primo ministro"
+"primo ministro"
+"primo ministro"
+#*''il ministro della difesa sovraintende alle forze armate''
+*segretario di stato
+*''(della chiesa)'' [[sacerdote]], [[prete]] 
+*[[ amministratore]] 
+*[[viceministro]]
+*[[ministero]], [[ministeriale]], [[sottosegretario]]
+*[[ministerio]]
+*italiano
+*spagnolo
+M>minister</E
+M>stri</E
+M>minor</E
+M>minus</E
+M>magister</E
+M>magis</E
+M>i m</E
+M>del re</E
+M>di Dio</E
+M>la Chiesa</E
+M>di cui io sono indegno m</E
+M>Ministri di Dio</E
+M>Lo m</E
+M>maggior de la natura</E
+M>il Nibbio</E
+M>uno de’ più destri e arditi m</E
+M>delle sue enormità</E
+M>Ma tu mi resti</E
+M>o brando</E
+M>all’ultim’uopo</E
+M>Fido m</E
+M>or vieni</E
+M>essere</E
+M>farsi ministro di qualche cosa</E
+M>farsi ministro di pace</E
+M>di giustizia</E
+M>Roma fu ministra di pace nel mondo</E
+M>arte che si fa ministra di corruzione</E
+M>ministri degli infermi</E
+M>camillini</E
+M>camilliani</E
+M>assistenti alle sacre funzioni</E
+M>ministri della cappella pontificia</E
+M>sacri alle messe della cappella pontificia</E
+M>di campagna</E
+M>fattore</E
+M>Ministri della giustizia</E
+M>ministro della giustizia</E
+M>Ministri del culto</E
+M>Ministro dei sacramenti</E
+M>Ministro della Real Casa</E
+M>provinciale</E
+M>generale dei francescani</E
+M>Padre m</E
+M>segretario di stato</E
+M>la nomina dei m</E
+M>il giuramento dei nuovi m</E
+M>degli Esteri</E
+M>dell’Interno</E
+M>della Pubblica Istruzione</E
+M>della Giustizia</E
+M>guardasigilli</E
+M>del Tesoro</E
+M>senza portafoglio</E
+M>di stato</E
+M>ad interim</E
+M>ministro</E
+M>pubblico</E
+M>consigliere</E
+M>residente</E
+M>plenipotenziario</E

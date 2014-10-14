@@ -1,0 +1,127 @@
+partenza.txt
+"accompagnare (alla partenza)"
+"alla partenza"
+"cancello di partenza"
+"corrispondenza in partenza"
+"decollo, partenza (di missile)"
+"griglia di partenza"
+"in partenza"
+"inizio entusiastico; partenza in quarta"
+"la partenza è programmata per"
+"linea di partenza"
+"nuova partenza"
+"ordine di partenza"
+"partenza"
+"partenza"
+"partenza a freddo"
+"partenza volante (gare automobilistiche)"
+"partita persa in partenza"
+"perdente in partenza"
+"prezzo di partenza"
+"pronti, partenza, via"
+"punto di partenza"
+"punto di partenza"
+"tornare al punto di partenza"
+#*la 
+#*la 
+#*''la 
+#* ''la 
+*[[allontanamento]], [[distacco]], [[addio]], [[separazione]], [[dipartita]], [[commiato]]
+*[[arrivo]]
+*[[ripartenza]]
+M>partenza in treno</E
+M>in nave</E
+M>in aereo</E
+M>in automobile</E
+M>in pullman</E
+M>partenza per un lungo viaggio</E
+M>la p</E
+M>di un amico</E
+M>di un conoscente</E
+M>la p</E
+M>per le vacanze</E
+M>una p</E
+M>improvvisa</E
+M>affrettata</E
+M>una p</E
+M>triste</E
+M>dolorosa</E
+M>partenza senza ritorno</E
+M>la p</E
+M>per l&#8217;aldilà</E
+M>per l&#8217;altro mondo</E
+M>fissare la p</E
+M>la data della p</E
+M>anticipare</E
+M>rimandare la p</E
+M>prepararsi alla p</E
+M>tutto è già pronto per la p</E
+M>essere di</E
+M>dopo la sua p</E
+M>dall&#8217;Italia</E
+M>non si è più saputo niente di lui</E
+M>la p</E
+M>per una gita</E
+M>la p</E
+M>delle rondini</E
+M>degli storni</E
+M>la p</E
+M>del treno</E
+M>dell&#8217;aereo</E
+M>della nave</E
+M>della corriera</E
+M>binario di partenza</E
+M>il capostazione ha dato il segnale della p</E
+M>è in p</E
+M>dal binario numero 5 l&#8217;intercity per Milano</E
+M>orario delle p</E
+M>partenze</E
+M>la p</E
+M>di un aereo</E
+M>manifesto di p</E
+M>pulsante di partenza di una macchina</E
+M>dare la p</E
+M>il segnale della p</E
+M>allinearsi alla p</E
+M>tutti i corridori erano schierati alla partenza</E
+M>da fermo</E
+M>lanciata</E
+M>irregolare</E
+M>una bella p</E
+M>un&#8217;ottima p</E
+M>una brutta</E
+M>falsa p</E
+M>all&#8217;americana</E
+M>a tuffo</E
+M>alla giapponese</E
+M>alla Weissmüller</E
+M>a piatto</E
+M>con movimento delle gambe già iniziato</E
+M>frontale</E
+M>dorsale</E
+M>laterale</E
+M>l&#8217;iniziativa ha avuto una p</E
+M>difficile</E
+M>di partenza</E
+M>il capitale di p</E
+M>è troppo esiguo</E
+M>il progetto di p</E
+M>ha subìto molte modifiche</E
+M>Punto di partenza</E
+M>il punto di p</E
+M>di un autobus</E
+M>di una gara</E
+M>di una strada</E
+M>punto di p</E
+M>di un discorso</E
+M>di una discussione</E
+M>stabilire il punto di p</E
+M>per una ricerca</E
+M>un&#8217;indagine</E
+M>un dibattito</E
+M>un&#8217;attività</E
+M>le sue opinioni solide mi sembravano un buon punto di p. per scoprire cosa interessava a me</E
+M>mi accorgo d&#8217;avere divagato</E
+M>torniamo perciò al punto di p</E
+M>dopo tanto affannarci</E
+M>siamo purtroppo ancora al punto di p</E

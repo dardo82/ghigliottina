@@ -1,0 +1,6 @@
+casalinga.txt
+"casalinga"
+"di fattura casalinga"
+*[[massaia]], [[donna]] [[di]] [[casa]]
+M>casalingo</E
+M>casalina</E

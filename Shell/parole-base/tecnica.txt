@@ -1,0 +1,86 @@
+tecnica.txt
+"abilità tecnica"
+"compito che richiede spiccata intelligenza e competenza tecnica"
+"conoscenza tecnica"
+"difficoltà tecnica"
+"direzione tecnica"
+"istruzione tecnica"
+"maturità tecnica"
+"natura tecnica"
+"offerta tecnica"
+"perizia tecnica"
+"perizia tecnica"
+"responsabile area tecnica"
+"scheda tecnica"
+"scuola tecnica"
+"scuola tecnica"
+"scuola tecnica"
+"tecnica"
+"tecnica"
+"tecnica"
+"tecnica"
+"tecnica a fibre ottiche"
+"tecnica chirurgica"
+"tecnica del brainstorming"
+"tecnica di movimento rapido (pellicole)"
+"tecnica di pesca a mosca secca"
+"tecnica di vendita attraverso la persuasione"
+"tecnica sperimentale"
+#* ''
+#* ''
+#* ''
+#* ''un pianista che è solo 
+*(di attività, professione) [[norme]], [[regole]]
+*(di atleta, professionista) [[abilità]], [[capacità]], [[esperienza]], [[competenza]], [[preparazione]], [[pratica]], [[ingegnosità]], [[perizia]], [[maestria]]
+* (solo singolare) [[tecnologia]]
+*(per eseguire un lavoro) [[procedimento]], [[procedura]], [[processo]], [[metodologia]], [[modo]], [[maniera]]
+* [[ingegneria]], [[architettura]], [[scienza]], [[tecnologia]], [[arte]]
+M>tecnico</E
+M>teoria</E
+M>arte</E
+M>scienza</E
+M>la t. del disegno</E
+M>dell&#8217;acquerello</E
+M>della pittura a tempera</E
+M>a olio</E
+M>la t. del violino</E
+M>del pianoforte</E
+M>la t. dell&#8217;arco</E
+M>della mano sinistra</E
+M>t. chirurgica</E
+M>t. industriale</E
+M>commerciale</E
+M>bancaria</E
+M>t. militare</E
+M>la t. del gioco</E
+M>d&#8217;uno sport</E
+M>t. di arrampicata</E
+M>la t. del ragionamento</E
+M>dell&#8217;argomentazione</E
+M>esercizî di tecnica</E
+M>conoscere</E
+M>possedere la t.</E
+M>essere padrone della t.</E
+M>avere una t. perfetta</E
+M>raffinata</E
+M>rudimentale</E
+M>tecniche di base</E
+M>arte</E
+M>scienza</E
+M>pittori</E
+M>musicisti</E
+M>scrittori che hanno ridotto la loro arte a pura t.</E
+M>molta musica e pittura moderna è solo t.</E
+M>è pura t.</E
+M>una ricerca scientifica ricca di t. ma povera di originalità</E
+M>la t. dell&#8217;antichità</E
+M>del medioevo</E
+M>della società industriale</E
+M>la t. egizia</E
+M>cinese</E
+M>sistemi tecnici</E
+M>procedimento</E
+M>per la trasformazione di questi materiali si applicano ora le t. più progredite</E
+M>per forzare la cassaforte i ladri hanno adottato una speciale tecnica</E
+M> t. diagnostiche</E
+M> per ottenere la diagnosi è stata utilizzata una tecnica innovativa</E

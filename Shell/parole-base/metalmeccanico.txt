@@ -1,0 +1,13 @@
+metalmeccanico.txt
+"metalmeccanico"
+"metalmeccanico"
+"operaio metalmeccanico"
+#*'''industria metalmeccanica'''
+*[[metallurgia]], [[meccanica]], [[macchina]], [[robot]], [[automobile]], [[motocicletta]], [[treno]], [[nave]], [[aeroplano]], [[elicottero]]
+M>metal</E
+M>lurgico</E
+M>meccanico</E
+M>industrie metalmeccaniche</E
+M>Operai m</E
+M>i metalmeccanici</E
+M>la categoria dei metalmeccanici</E

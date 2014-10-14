@@ -1,0 +1,83 @@
+traffico.txt
+"addetto al traffico"
+"addetto al traffico"
+"ausiliario del traffico"
+"blocco del traffico"
+"chiuso al traffico"
+"controllo del traffico"
+"controllo del traffico aereo"
+"densità del traffico"
+"direttore del traffico aereo"
+"direttrice di traffico"
+"liberare dalla congestione del traffico"
+"organizzazione del traffico"
+"traffico"
+"traffico"
+"traffico"
+"traffico aereo"
+"traffico marittimo"
+"traffico merci"
+"traffico pesante; trasporto pesante"
+"traffico telefonico"
+"vigile addetto al traffico"
+#*''traffico di armi'', ''traffico di droga''
+*[[commercio]], attività commerciale, [[affare]], [[scambio]], [[compravendita]], [[negoziazione]], [[guadagno]], [[speculazione]], [[lucro]]
+*(di pedoni e specialmente veicoli) [[movimento]], [[passaggio]], [[circolazione]], [[moto]], [[flusso]], [[transito]], [[andirivieni]], [[viavai]]
+*[[blocco]], [[arresto]], [[stasi]]
+*[[narcotraffico]]
+*[http
+*Devoto/Oli, ''Il dizionario della lingua italiana'',edizione 2000-2001, Le Monnier p. 2173
+M>trafficare</E
+M>traffic</E
+M>chi</E
+M>fu un gran mercatante ... lealissimo e diritto e di gran t. d&#8217;opera di drapperia</E
+M>un mercante ... che</E
+M> ne&#8217; suoi ultim&#8217;anni</E
+M> trovandosi assai fornito di beni</E
+M> e con quell&#8217;unico figliuolo</E
+M> aveva rinunziato al t.</E
+M> e s&#8217;era dato a viver da signore</E
+M>fare t. di spezie dall&#8217;Oriente</E
+M>il t. di manufatti è in aumento</E
+M>il t. degli schiavi</E
+M>esercitare il t. di armi</E
+M> il t. della droga</E
+M>fare traffico di qualche cosa</E
+M>fare t. di cariche pubbliche</E
+M>di voti elettorali</E
+M>di promozioni</E
+M>di lauree</E
+M>t. marittimo</E
+M>aereo</E
+M>ferroviario</E
+M>il t. del porto di Genova</E
+M>dell&#8217;aeroporto di Fiumicino</E
+M>della stazione centrale di Milano</E
+M>t. internazionale</E
+M>nazionale</E
+M>regionale</E
+M>locale</E
+M>aumento</E
+M> diminuzione del t. annuo di una linea aerea</E
+M> del t. di passeggeri</E
+M>di merci nelle ferrovie nazionali</E
+M>t. stradale</E
+M>t. veicolare</E
+M>t. pedonale</E
+M>aprire una via al t.</E
+M>è una strada chiusa al t.</E
+M>zone dove è vietato il t.</E
+M>il t. cittadino si fa sempre più intenso</E
+M>impedire</E
+M> regolare</E
+M> limitare il t. nel centro urbano</E
+M>i frequenti ingorghi del t.</E
+M>vie</E
+M> strade di gran t.</E
+M>le grandi arterie del t. nazionale</E
+M>internazionale</E
+M> il t. ha reso impossibile l&#8217;adulterio nelle ore di punta</E
+M>ausiliario del traffico</E
+M>t. postale</E
+M>t. telegrafico</E
+M>t. telefonico</E

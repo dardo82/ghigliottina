@@ -1,0 +1,56 @@
+organizzare.txt
+"dare un festino, organizzare un banchetto"
+"organizzare"
+"organizzare"
+"organizzare, replace: organizzarsi"
+"organizzare, replace: organizzarsi"
+"organizzare, replace: organizzarsi"
+"organizzare gerarchicamente"
+"organizzare gerarchicamente"
+"organizzare il lavoro al meglio"
+"organizzare il piano finanziario"
+"organizzare in anticipo"
+"organizzare qualcosa"
+*[[ordinare]], [[regolare]],[[preparare]], [[disporre]], [[predisporre]], [[programmare]], [[pianificare]], [[progettare]], [[sistemare]], [[allestire]], [[strutturare]], [[impostare]], [[coordinare]], [[orchestrare]], [[concertare]]
+*[[formare]], [[creare]], [[costituire]], [[istituire]]
+*[[organizzamento]], [[organizzativo]], [[organizzato]], [[organizzatore]],  [[organizzazione]], [[organizzarsi]]
+M>organo</E
+M>organizare</E
+M>organizzarsi</E
+M>il feto si organizza nell’utero materno</E
+M>un ufficio</E
+M>una società</E
+M>un’azienda</E
+M>un ministero</E
+M>la sezione di un partito</E
+M>il lavoro</E
+M>la propria linea politica</E
+M>la propria vita</E
+M>le idee</E
+M>organizziamoci meglio se vogliamo che il lavoro dia buoni risultati</E
+M>i cittadini si sono organizzati per opporsi agli sfratti</E
+M>una cena</E
+M>una festa</E
+M>una gita</E
+M>un congresso</E
+M>una campagna di stampa</E
+M>una manifestazione politica</E
+M>un complotto</E
+M>una rivolta</E
+M>un’insurrezione</E
+M>i lavoratori</E
+M>i contadini</E
+M>gli studenti</E
+M>gli animali e i vegetali sono corpi organizzati</E
+M>sostanza organizzata</E
+M>società organizzata</E
+M>la malavita o</E
+M>delinquenza o</E
+M>crimine organizzato</E
+M>un esercito</E
+M>uno stato ben organizzato</E
+M>un ufficio</E
+M>un lavoro male organizzato</E
+M>ha un cervello poco organizzato</E
+M>trombo organizzato</E
+M>il partito ha diramato istruzioni a tutti i proprî organizzati</E

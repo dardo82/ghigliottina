@@ -1,0 +1,69 @@
+cacciare.txt
+"allontanarsi; cacciare"
+"cacciare"
+"cacciare"
+"allontanare, scacciare"
+"cacciare"
+"cacciare"
+"cacciare, replace: cacciarsi"
+"cacciare a calci"
+"cacciare di frodo"
+"Cacciare il grano"
+"cacciare indietro"
+"cacciare qn via"
+"cacciare un urlo"
+"cacciare via"
+"inseguire, cacciare, braccare"
+*''(un animale)'' dare la caccia, [[cercare]], [[inseguire]], [[catturare]], [[ammazzare]]
+*''(una persona)'' [[espellere]], mandare via, [[scacciare]], [[bandire]]
+*''(una persona)'' [[ricevere]], [[accogliere]], [[chiamare]], [[richiamare]] 
+*[[scacciare]], [[cacciarsi]], [[ricacciare]], [[procacciare]]
+M>*captiare</E
+M>cap</E
+M>captus</E
+M>io càccio</E
+M>la lepre</E
+M>il cinghiale</E
+M>alle starne</E
+M>ai tordi</E
+M>in bandita</E
+M>in riserva</E
+M>ho cacciato tutto il pomeriggio</E
+M>Questi la caccerà per ogne villa</E
+M>il vento cacciava le nubi dal cielo</E
+M>i buoi avanti a sé</E
+M>lo cacciarono a calci</E
+M>fu cacciato di casa</E
+M>caccia via quell’animale!</E
+M>la fame</E
+M>il dolore</E
+M>la paura</E
+M>il malocchio</E
+M>i cattivi pensieri</E
+M>è meglio che queste idee tu le cacci dalla mente</E
+M>cacciar fuori</E
+M>Ruggiero</E
+M>al fin constretto</E
+M>il ferro caccia</E
+M>se vuoi la roba</E
+M>prima caccia fuori i soldi</E
+M>un urlo</E
+M>cacciar fuori la lingua</E
+M>cacciar fuori scuse</E
+M>pretesti</E
+M>con un pugno tremendo lo cacciò in terra</E
+M>uno in una stanza</E
+M>in prigione</E
+M>una vite</E
+M>un chiodo</E
+M>cacciarsi le dita nel naso</E
+M>gli cacciò il pugnale nel ventre</E
+M>cacciarsi tra la folla</E
+M>cacciarsi in un ginepraio</E
+M>nei guai</E
+M>nei pasticci</E
+M>dove s’è cacciata quella benedetta ricevuta?</E
+M>caccia</E
+M>cacciatorpediniere</E
+M>cacciavite</E
+M>cacciaproietti</E

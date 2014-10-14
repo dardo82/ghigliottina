@@ -1,0 +1,120 @@
+orologio.txt
+"catena da orologio"
+"cinturino da orologio"
+"cinturino da orologio"
+"cinturino da orologio"
+"cinturino da orologio"
+"cinturino dell'orologio"
+"come un orologio"
+"ghiera di orologio"
+"ingranaggio di un orologio"
+"l'Orologio (Big Ben)"
+"mandare indietro l'orologio"
+"meccanismo (di orologio)"
+"orologio"
+"orologio"
+"orologio"
+"orologio a cucù"
+"orologio a motore elettrico"
+"orologio a pendolo"
+"orologio alla mano"
+"orologio astronomico"
+"orologio atomico"
+"orologio biologico"
+"orologio da muro"
+"orologio da polso"
+"orologio da polso"
+"orologio digitale"
+"orologio digitale"
+"orologio elettronico"
+"orologio marcatempo"
+"orologio marcatempo"
+"orologio principale"
+"orologio tascabile"
+"taschino per l'orologio"
+"torre dell'orologio"
+* [[cronometro]] (spec. se di precisione),[[oriolo]]  (region.), specif. [[cronografo]], [[pendola]], [[sveglia]]; [[clessidra]],[[solario]] , [[meridiana]], [[gnomone]],
+* [[orologiaio]],  [[orologeria]],  [[meridiana]],  [[clessidra]],  [[cronometro]],  [[orologio ad acqua]],  [[orologio a pendolo]],  [[orologio da polso]],  [[orologio da tasca]],  [[orologio atomico]],  [[orologio al quarzo]],  [[orologio a cucù]],  [[orologio del giorno del giudizio]],  [[orologio radiocontrollato]],  [[orologio automatico]] 
+* La Rizzoli Larousse, ''[http
+*Devoto/Oli, ''Il dizionario della lingua italian'', edizione cartacea 2000-2001,Le Monnier, p. 1416
+M>horologium</E
+M>solare</E
+M>meridiana</E
+M>clessidra ad acqua</E
+M>a sabbia</E
+M>meccanico</E
+M>lancette</E
+M>rotismo</E
+M>a molla</E
+M>scappamento</E
+M>a pendolo</E
+M>a bilanciere</E
+M>da tavolo</E
+M>da tasca</E
+M>da polso</E
+M>elettrici</E
+M>elettromeccanici</E
+M>a diapason</E
+M>elettronici</E
+M>piezoelettrico</E
+M>a quarzo</E
+M>digitali</E
+M>o. atomici</E
+M>molecolari</E
+M>atomico al cesio</E
+M>da salotto</E
+M>da cucina</E
+M>da uomo</E
+M>da donna</E
+M>d’oro</E
+M>d’argento</E
+M>d’acciaio inossidabile</E
+M>a cucù</E
+M>a soneria</E
+M>a sveglia</E
+M>da sveglia</E
+M>a ripetizione</E
+M>datario</E
+M>di precisione</E
+M>cronometro</E
+M>subacqueo</E
+M>astronomico</E
+M>di controllo</E
+M>caricare l’o</E
+M>dare la carica all’o</E
+M>l’o</E
+M>cammina</E
+M>l’o</E
+M>è fermo</E
+M>un o</E
+M>che va avanti</E
+M>corre</E
+M>anticipa</E
+M>che va indietro</E
+M>ritarda</E
+M>rimettere l’o</E
+M>un o</E
+M>che spacca il secondo</E
+M>essere un o</E
+M>andare come un o</E
+M>è durato un’ora d’o</E
+M>alle cinque d’o</E
+M>procedere</E
+M>girare</E
+M>nel senso delle lancette dell’o</E
+M>senso orario</E
+M>banco</E
+M>della morte</E
+M>di san Pasquale</E
+M>biologico</E
+M>fisiologico</E
+M>endogeno</E
+M>circadiane</E
+M>circannuali</E
+M>Ipotesi dell’o</E
+M>molecolare</E
+M>di flora</E
+M>Regola dell’o</E
+M>Paradosso degli o</E
+M>Orologio</E
+M>Horologium</E

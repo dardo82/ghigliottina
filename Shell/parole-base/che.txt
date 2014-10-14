@@ -1,0 +1,255 @@
+che.txt
+"...che ti si addice..."
+"(nel baseball) palla che viene lanciata per terra"
+"a che"
+"a che ora"
+"a che ora"
+"a che ora combiniamo?"
+"a che ora?"
+"a che ora...?"
+"a che pro?"
+"a che riguardo?"
+"a che scopo"
+"a che scopo?"
+"a che serve?, che senso ha?"
+"a che titolo"
+"a condizione che"
+"a condizione che"
+"a condizione che"
+"a condizione che"
+"a mano a mano che"
+"a mano, che si fa funzionare a mano"
+"a meno che"
+"a meno che"
+"a meno che"
+"a parte il fatto che"
+"a patto che"
+"a patto che"
+"a riprova del fatto che, replace: a riprova"
+"a seconda che"
+"a tal punto che, tanto che, talmente che"
+"accada quel che accada"
+"accada quel che accada, sia quel che sia"
+"acqua per bambini che allevia il dolore di stomaco"
+"ad eccezione del fatto che"
+"Adesso sì che ci siamo!"
+"alla luce del fatto che"
+"allora che altro c'è di nuovo"
+"altro che storie"
+"altro che!"
+"ammettendo che"
+"animale che si nutre di carogne"
+"Anzi che no"
+"arrangiarsi con quello che c'è"
+"articoli di successo; che si vendono con rapidità"
+"aspettare che si calmino le acque"
+"assente, assenteista, che non si fa mai vedere, che non partecipa mai"
+"assicurarsi che"
+"assicurarsi che"
+"assumendo che"
+"aver bisogno che"
+"aver notato che"
+"aver ragione di credere che"
+"avere a che fare"
+"avere a che fare"
+"avere a che fare con"
+"avere ciò che ci si merita"
+"avere il presentimento che, avere la sensazione che"
+"avere molto a che fare con"
+"avere prove che possono essere usate contro qcn."
+"avere prove che possono essere usate contro qcn."
+"avere quello che ci vuole"
+"avere una scusa convincente; che tenga"
+"azienda che assume solo iscritti al sindacato"
+"bambino che frequenta la prescuola"
+"bambino che frequenta la scuola materna"
+"bar che vende succhi di frutta freschi"
+"basti pensare che ..."
+"beninteso che"
+"bevanda alcolica che si dice curi la sbornia"
+"blu che dà sul verde"
+"buono (che sta dalla tua parte)"
+"C'è qualcosa che non quadra"
+"can che abbaia non morde"
+"cane che si morde la coda"
+"certo che"
+"certo non so che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che ... o no"
+"che abbassa la febbre"
+"che accade ogni mezz'ora"
+"che accadrà"
+"che accelera"
+"che accetta"
+"che accoglie in malo modo"
+"che accontenta l'occhio"
+"End Reached"
+#*'''''Che''' libro stai leggendo, oggi?'' 
+#*'''''Che''' idea insensata!'' 
+#*''So '''che''' non vuoi questo''
+#*''Mi spiace '''che''' sia successo''
+#*''Li ho avvisati '''che''' non vengano''
+#*''Era così contento '''che''' mi abbracciò tre volte''
+#*''Ogni volta '''che''' la vedo, non posso fare a meno di baciarla''
+#*''È più facile a dirsi '''che''' a farsi''
+#*''Conosco sia Marco '''che''' Giulia''
+#*''Ti presento mia madre. Mia madre è un' ottima cuoca''
+#*''Ti presento mia madre '''che''' è un' ottima cuoca'' 
+#*'''''Che''' hai, non stai bene?'' 
+#*'''''Che''' schifo!'' 
+#*''C'è un '''che''' di strano in lui'' 
+*[[cosa]]
+*[[ non so che]], [[ il che e il come]]
+*[[non aver di che lamentarsi]], [[non aver di che vivere]], [[non c'è che dire]], [[non c'è di che]], [[non essere un gran che]]
+#* ''el xe rivà '''che''' no ghe xera pì da magnar''
+#* ''no ghe xera pì da magnar co '''che''' 'l xe rivà''
+*italiano
+*veneto
+m>che</e
+m>perché</e
+m>padre mio</e
+m>ché non m&rsquo;aiuti?</e
+m>teneva le mani in tasca ché sentiva freddo</e
+"...che ti si addice..."
+"(nel baseball) palla che viene lanciata per terra"
+"a che"
+"a che ora"
+"a che ora"
+"a che ora combiniamo?"
+"a che ora?"
+"a che ora...?"
+"a che pro?"
+"a che riguardo?"
+"a che scopo"
+"a che scopo?"
+"a che serve?, che senso ha?"
+"a che titolo"
+"a condizione che"
+"a condizione che"
+"a condizione che"
+"a condizione che"
+"a mano a mano che"
+"a mano, che si fa funzionare a mano"
+"a meno che"
+"a meno che"
+"a meno che"
+"a parte il fatto che"
+"a patto che"
+"a patto che"
+"a riprova del fatto che, replace: a riprova"
+"a seconda che"
+"a tal punto che, tanto che, talmente che"
+"accada quel che accada"
+"accada quel che accada, sia quel che sia"
+"acqua per bambini che allevia il dolore di stomaco"
+"ad eccezione del fatto che"
+"Adesso sì che ci siamo!"
+"alla luce del fatto che"
+"allora che altro c'è di nuovo"
+"altro che storie"
+"altro che!"
+"ammettendo che"
+"animale che si nutre di carogne"
+"Anzi che no"
+"arrangiarsi con quello che c'è"
+"articoli di successo; che si vendono con rapidità"
+"aspettare che si calmino le acque"
+"assente, assenteista, che non si fa mai vedere, che non partecipa mai"
+"assicurarsi che"
+"assicurarsi che"
+"assumendo che"
+"aver bisogno che"
+"aver notato che"
+"aver ragione di credere che"
+"avere a che fare"
+"avere a che fare"
+"avere a che fare con"
+"avere ciò che ci si merita"
+"avere il presentimento che, avere la sensazione che"
+"avere molto a che fare con"
+"avere prove che possono essere usate contro qcn."
+"avere prove che possono essere usate contro qcn."
+"avere quello che ci vuole"
+"avere una scusa convincente; che tenga"
+"azienda che assume solo iscritti al sindacato"
+"bambino che frequenta la prescuola"
+"bambino che frequenta la scuola materna"
+"bar che vende succhi di frutta freschi"
+"basti pensare che ..."
+"beninteso che"
+"bevanda alcolica che si dice curi la sbornia"
+"blu che dà sul verde"
+"buono (che sta dalla tua parte)"
+"C'è qualcosa che non quadra"
+"can che abbaia non morde"
+"cane che si morde la coda"
+"certo che"
+"certo non so che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che"
+"che ... o no"
+"che abbassa la febbre"
+"che accade ogni mezz'ora"
+"che accadrà"
+"che accelera"
+"che accetta"
+"che accoglie in malo modo"
+"che accontenta l'occhio"
+"End Reached"
+#*'''''Che''' libro stai leggendo, oggi?'' 
+#*'''''Che''' idea insensata!'' 
+#*''So '''che''' non vuoi questo''
+#*''Mi spiace '''che''' sia successo''
+#*''Li ho avvisati '''che''' non vengano''
+#*''Era così contento '''che''' mi abbracciò tre volte''
+#*''Ogni volta '''che''' la vedo, non posso fare a meno di baciarla''
+#*''È più facile a dirsi '''che''' a farsi''
+#*''Conosco sia Marco '''che''' Giulia''
+#*''Ti presento mia madre. Mia madre è un' ottima cuoca''
+#*''Ti presento mia madre '''che''' è un' ottima cuoca'' 
+#*'''''Che''' hai, non stai bene?'' 
+#*'''''Che''' schifo!'' 
+#*''C'è un '''che''' di strano in lui'' 
+*[[cosa]]
+*[[ non so che]], [[ il che e il come]]
+*[[non aver di che lamentarsi]], [[non aver di che vivere]], [[non c'è che dire]], [[non c'è di che]], [[non essere un gran che]]
+#* ''el xe rivà '''che''' no ghe xera pì da magnar''
+#* ''no ghe xera pì da magnar co '''che''' 'l xe rivà''
+*italiano
+*veneto
+m>che</e
+m>perché</e
+m>padre mio</e
+m>ché non m&rsquo;aiuti?</e
+m>teneva le mani in tasca ché sentiva freddo</e

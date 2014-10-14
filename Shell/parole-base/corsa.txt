@@ -1,0 +1,152 @@
+corsa.txt
+"andarsene di corsa"
+"bici da corsa"
+"cavalli da corsa"
+"cavallo da corsa"
+"cavallo da corsa"
+"cavallo da corsa"
+"cavallo da corsa al trotto"
+"con una corsa"
+"corsa"
+"corsa"
+"corsa"
+"corsa"
+"corsa"
+"tratta percorsa da un veicolo pubblico"
+"corsa"
+"corsa"
+"corsa a ostacoli"
+"corsa a premi"
+"corsa a staffetta"
+"corsa agli armamenti"
+"corsa al successo, competizione sfrenata"
+"corsa al trotto; di trotto"
+"corsa all'oro"
+"corsa alla casa base (baseball)"
+"corsa campestre"
+"corsa ciclistica"
+"corsa contro il tempo"
+"corsa dei carri"
+"corsa dei sacchi"
+"corsa della macchina"
+"corsa di automobili"
+"corsa di biciclette"
+"corsa di cani"
+"corsa di cavalli"
+"corsa di decollo"
+"corsa di levrieri (sport)"
+"corsa di prova"
+"corsa finale"
+"corsa in automobile"
+"corsa in taxi"
+"corsa siepi"
+"corsa su pista"
+"corsa; gara in salita"
+"di corsa"
+"di corsa"
+"di corsa"
+"di corsa"
+"di corsa"
+"di corsa ippica"
+"di corsa, rapidamente"
+"dopo corsa"
+"essere in corsa"
+"gara di corsa campestre"
+"gara podistica; corsa"
+"gareggiare in una corsa"
+"il vivere sempre di corsa"
+"inizio di corsa o battuta di caccia, fermo automatico"
+"interruttore di fine corsa"
+"la corsa è ancora aperta"
+"macchina da corsa"
+"macchina da corsa"
+"macchina da corsa"
+"non partecipante alla corsa"
+"non partecipante alla corsa"
+"pista da corsa"
+"pista da corsa"
+"prezzo della corsa in taxi"
+"rapida corsa"
+"relativo alla corsa dell'oro"
+"scarpe da corsa"
+*''(specialmente di cavallo)'' [[galoppo]], [[galoppata]] 
+*''(di veicolo)'' [[marcia]], [[cammino]], [[movimento]] 
+*''(di mezzo pubblico)'' [[viaggio]], [[tragitto]] 
+*[[gara]], [[competizione]] 
+*[[rincorsa]]
+M>correre</E
+M>córso</E
+M>andare</E
+M>venire</E
+M>uscire di c</E
+M>a passo di c</E
+M>a tutta c</E
+M>prendere</E
+M>pigliare la c</E
+M>rallentare la c</E
+M>essere affaticato dalla c</E
+M>di corsa</E
+M>fare le cose di c</E
+M>fare una c</E
+M>in un luogo</E
+M>fammi una c</E
+M>qui all’angolo a prendere dei francobolli</E
+M>ho fatto una c</E
+M>in campagna</E
+M>dovrò fare una c</E
+M>in città tornando in giornata</E
+M>diritto di c</E
+M>il cane raggiunse di c</E
+M>il padrone</E
+M>il cavallo prese a un tratto la c</E
+M>caccia alla c</E
+M>alla stracca</E
+M>la c</E
+M>dell’automobile</E
+M>del treno</E
+M>una macchina passò di c</E
+M>è proibito scendere dal tram in corsa</E
+M>partire con la prima c</E
+M>arrivare con l’ultima c</E
+M>conservare il biglietto per tutta la durata della corsa</E
+M>combinare il prezzo della corsa</E
+M>a piedi</E
+M>podistica</E
+M>i ragazzi facevano le c</E
+M>campestre</E
+M>ippiche</E
+M>al trotto</E
+M>al galoppo</E
+M>a ostacoli</E
+M>cavalli da corsa</E
+M>andare al cinodromo a vedere le c</E
+M>dei cani</E
+M>ciclistica su strada</E
+M>su pista</E
+M>ciclocampestre</E
+M>motociclistiche</E
+M>automobilistiche</E
+M>biciclette</E
+M>automobili da corsa</E
+M>andare alle c</E
+M>corse a cronometro</E
+M>nei</E
+M>con i</E
+M> sacchi</E
+M>al guadagno</E
+M>alle cariche</E
+M>all’oro</E
+M>al petrolio</E
+M>agli armamenti</E
+M>Nave da corsa</E
+M>legno di corsa</E
+M>corsa</E
+M>guerra di corsa</E
+M>armamento in corsa</E
+M>dello stantuffo</E
+M>fine corsa</E
+M>così</E
+M>a corserelle e a fermatine</E
+M>eran tornate poco distante dalla casa di don Abbondio</E
+M> che c. quella del bus dell’una</E
+M> con l’uscita dalle scuole!</E

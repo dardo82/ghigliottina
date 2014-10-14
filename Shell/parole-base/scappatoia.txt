@@ -1,0 +1,12 @@
+scappatoia.txt
+"facile scappatoia"
+"scappatoia"
+"scappatoia, scusa, pretesto"
+"trovare una scappatoia"
+*[[espediente]], [[rimedio]], [[ripiego]], [[mezzuccio]], [[modo]], [[scusa]], [[scusante]], [[pretesto]], [[trucco]], [[trovata]], [[pensata]], [[appiglio]], [[sotterfugio]], , [[soluzione]], [[stratagemma]], [[escamotage]]
+*[[problema]], [[inconveniente]]
+*[[scappare]]
+M>cercare</E
+M>trovare una s.</E
+M>c&#8217;è una sola s. per evitare il fallimento</E
+M>diceva che fingevo di non capire per darmi il tempo di cercare una s.</E

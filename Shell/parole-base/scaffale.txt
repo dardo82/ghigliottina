@@ -1,0 +1,14 @@
+scaffale.txt
+"giù dallo scaffale"
+"mettere sullo scaffale"
+"scaffale"
+"scaffale aperto"
+"scaffale di biblioteca"
+"scaffale per libri"
+*[[ripiano]], [[scansia]], [[palchetto]], [[mensola]]
+*''(per codici antichi)'' [[pluteo]] 
+*[[scaffalare]], [[scaffalatura]]
+M>skafa</E
+M>gli s. della biblioteca</E
+M>sistemare i libri negli s.</E
+M>gli s. del magazzino</E

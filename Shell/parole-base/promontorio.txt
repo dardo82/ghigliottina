@@ -1,0 +1,11 @@
+promontorio.txt
+"promontorio"
+M>promunturium</E
+M>promontorium</E
+M>mons</E
+M>il p</E
+M>del Gargano</E
+M>il p</E
+M>del Circeo</E
+M>cuneo</E
+M>angolo sacrovertebrale</E

@@ -1,0 +1,196 @@
+mestiere.txt
+"i segreti del mestiere"
+"il pericolo è il mio mestiere"
+"mestiere"
+"mestiere"
+"trucchi del mestiere"
+*[[lavoro]], [[professione]], [[attività]], [[occupazione]], [[esperienza]], [[pratica]], [[perizia]], [[competenza]], [[maestria]]  
+*''essere del mestiere''
+M>rium</E
+M>minister</E
+M>mysterium</E
+M>mestier</E
+M>mêtier</E
+M>arti manuali</E
+M>meccaniche</E
+M>arte</E
+M>scuola di arti e mestieri</E
+M>dizionario d’arti e mestieri</E
+M>professione</E
+M>scuole professionali</E
+M>classificazione professionale</E
+M>Il m</E
+M>del sarto</E
+M>del calzolaio</E
+M>del falegname</E
+M>dell’idraulico</E
+M>del tappezziere</E
+M>girovaghi</E
+M>il m</E
+M>delle armi</E
+M>fare</E
+M>esercitare un m</E
+M>imparare</E
+M>apprendere</E
+M>insegnare un m</E
+M>dare un m</E
+M>ai figli</E
+M>mandare i figli al m</E
+M>conoscere</E
+M>saper fare</E
+M>fare bene il proprio m</E
+M>esser capace</E
+M>valente</E
+M>abile nel proprio m</E
+M>un m</E
+M>facile</E
+M>difficile</E
+M>faticoso</E
+M>pesante</E
+M>umile</E
+M>povero</E
+M>redditizio</E
+M>pericoloso</E
+M>quello del fabbro è un m</E
+M>che va scomparendo</E
+M>si adatta a fare i più vili</E
+M>i più umili m</E
+M>fa tutti i m</E
+M>pur di guadagnare qualcosa</E
+M>ha fatto tutti i m</E
+M>non avere un m</E
+M>essere senza un m</E
+M>ognuno patisce del suo m</E
+M>in certi casi la professione del medico si è ridotta a un m</E
+M>non c’è più gusto a fare il giornalista: è diventato un m</E
+M>arte</E
+M>fare della pittura</E
+M>della poesia</E
+M>della musica un m</E
+M>fare di qualcosa un m</E
+M>è gente che della calunnia ha fatto un mestiere</E
+M>il m</E
+M>di scrittore</E
+M>di musicista</E
+M>di avvocato</E
+M>di medico</E
+M>cambia m</E
+M>a ognuno il suo m</E
+M>pensa a fare il tuo m</E
+M>non è m</E
+M>tuo!</E
+M>non è m</E
+M>da tutti</E
+M>è il mio m</E
+M>scrivere è il mio m</E
+M>se so preparare un buon caffè? ma è proprio il mio m</E
+M>imbrogliare la gente è il suo m</E
+M>fare qualcosa per mestiere</E
+M>di mestiere</E
+M>che cosa fai di mestiere?</E
+M>di m</E
+M>faccio il fotografo</E
+M>fa il violinista per diletto</E
+M>non per m</E
+M>lo fai per m</E
+M>di parlar male degli altri?</E
+M>è un attaccabrighe</E
+M>un seccatore di m</E
+M>Un grullo finto</E
+M> un sordo di m</E
+M>essere del m</E
+M>sono del m</E
+M>e me ne intendo</E
+M>te lo dico io</E
+M>che sono del m</E
+M>è una persona del m.</E
+M>te ne puoi fidare</E
+M>sono anch’io del m</E
+M>siamo tutti e due del m</E
+M>esser vecchio del m</E
+M>I ferri del m</E
+M>i libri sono per me i ferri del m</E
+M>gli incerti del m</E
+M>gelosie</E
+M>rivalità di m</E
+M>mangiare e dormire</E
+M>ecco il più comodo m</E
+M>del mondo!</E
+M>gran bel m</E
+M>andare a spasso dalla mattina alla sera!</E
+M>fare il m</E
+M>di Michelaccio</E
+M>vuol fare il m</E
+M>di molestar le femmine: il più pazzo</E
+M>il più ladro</E
+M>il più arrabbiato mestiere di questo mondo</E
+M>il m</E
+M>di vivere</E
+M>chi fa l’altrui m</E
+M>chi esce fuor del suo m</E
+M>fa la zuppa nel paniere</E
+M>chi fa più d’un m</E
+M>l’acqua attinge col paniere</E
+M>fare il m</E
+M>del ladro</E
+M>del boia</E
+M>della spia</E
+M>dell’adulatore</E
+M>fare un brutto m</E
+M>un m</E
+M>ignobile</E
+M>fare il m</E
+M>quel m</E
+M>il m</E
+M>più antico del mondo</E
+M>fa il giovane di studio presso un avvocato per imparare il m</E
+M>è molto portato per la letteratura ma gli manca ancora il m</E
+M>è ormai padrone del m</E
+M>conosce tutte le astuzie</E
+M>tutti i segreti</E
+M>tutti i trucchi del mestiere</E
+M>è un pittore esperto in tutte le finezze del m</E
+M>la commedia non è molto originale</E
+M>ma l’autore mostra di avere del m</E
+M>la sua recitazione si basa solo sul mestiere</E
+M>opera di m</E
+M>quadro</E
+M>romanzo di mestiere</E
+M>quando tu</E
+M>sarai In parte dove sia la donna nostra</E
+M> Non le tenere il tuo mestier coverto</E
+M>quando io avea veduto compiere tutti li dolorosi mestieri che a le corpora de li morti s’usano di fare</E
+M>mestieri</E
+M>essere mestieri</E
+M>di mestieri</E
+M>fare mestieri</E
+M>di mestieri</E
+M>bisogna</E
+M>occorre</E
+M>è necessario</E
+M>che</E
+M>Che</E
+M>io fossi preso E poscia morto</E
+M>dir non è mestieri</E
+M>Idio</E
+M>il quale solo ottimamente conosce ciò che fa mestiere a ciascuno</E
+M>quelli</E
+M>solamente retinendo meco</E
+M>che mistiero mi faranno</E
+M>gli stessi a lui fuscelli e fogli Per novo lavorio son di mestieri</E
+M>aver mestieri</E
+M>non ho mestieri del vostro aiuto</E
+M>è una verità così evidente che non ha mestieri di prova</E
+M>abbiamo di mestieri che tutto sia fatto nel minor tempo possibile</E
+M>il povero giovane</E
+M>ha per addietro avuto mistiero del sovvenimento de’ suoi amici</E
+M>in tal mestiero</E
+M>a tal mestiere</E
+M>ancor che mi sia tolto Lo muover per le membra che son gravi</E
+M>Ho io il braccio a tal mestiere sciolto</E
+M>del corpo</E
+M>mestiere</E
+M>calati giuso i panni di gamba</E
+M>lasciò andare il mestiere del corpo</E
+M>Mestiere cattivo</E
+M>tartana</E

@@ -1,0 +1,45 @@
+battesimo.txt
+"battesimo"
+"battesimo"
+"battesimo col fuoco"
+"battesimo del fuoco"
+"figlioccia (battesimo)"
+"figlioccio, figlioccia (battesimo)"
+"nome di battesimo"
+"nome di battesimo"
+"nome di battesimo"
+"nome di battesimo"
+"Tenere a battesimo"
+#*''battesimo del fuoco'' la prima [[battaglia]] a cui si partecipa, ma anche la prima volta che ci si trova a fare un'operazione reale e non una simulazione
+#*''l'altro giorno ho assistito al battesimo di una nave''  
+*[[inaugurazione]],[[iniziazione]]
+* [[battesimale]], [[nome di battesimo]]
+*italiano
+M>baptismus</E
+M>per immersione</E
+M>per infusione</E
+M>per aspersione</E
+M>ministro del b</E
+M>amministrare</E
+M>ricevere il b</E
+M>tenere a b</E
+M>nome di b</E
+M>fede di b</E
+M>di sangue</E
+M>di desiderio</E
+M>il parroco ha avuto oggi due b</E
+M>assistere a un battesimo</E
+M>di una campana</E
+M>della nave</E
+M>ricevere</E
+M>avere</E
+M>il b</E
+M>del fuoco</E
+M>ricevere il b</E
+M>dell’aria</E
+M>dell’equatore</E
+M>dell’equinozio</E
+M>tenere a b</E
+M>un’impresa</E
+M>un’iniziativa</E
+M>una nuova opera</E

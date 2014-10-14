@@ -1,0 +1,29 @@
+bombardamento.txt
+"bombardamento"
+"bombardamento a tappeto"
+"bombardamento aereo"
+"bombardamento di precisione, mirato"
+"bombardamento in picchiata"
+"bombardamento in picchiata"
+"bombardamento strategico"
+"missione di bombardamento"
+"trauma da bombardamento"
+*''(con tiri d'artiglieria)'' [[cannoneggiamento]] 
+*[[bombardare]]
+*italiano
+M>sottoporre a intenso b</E
+M>un obiettivo</E
+M>la sede di un comando nemico</E
+M>una città</E
+M>un porto</E
+M>aereo</E
+M>aerei da bombardamento</E
+M>terroristico</E
+M>a tappeto</E
+M>carpet</E
+M>bombing</E
+M>in picchiata</E
+M>tattico</E
+M>strategico</E
+M>un b</E
+M>di domande</E

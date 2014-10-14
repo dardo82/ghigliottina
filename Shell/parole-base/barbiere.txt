@@ -1,0 +1,20 @@
+barbiere.txt
+"barbiere"
+"prestare servizio come barbiere"
+"sala da barbiere"
+"salone di barbiere"
+"sedia del barbiere"
+* [[parrucchiere]]
+*''il barbiere impara a radere alla barba degli sciocchi''
+M>parrucchiere</E
+M>l’arte del b</E
+M>bottega del b</E
+M>andare dal b</E
+M>hai bisogno del b</E
+M>i chirurgi vennero alfine: erano due</E
+M>Uno</E
+M>quello ordinario della casa</E
+M>cioè il nostro barbiere</E
+M>ed egli quando occorrevano operazioni</E
+M>aveva il diritto di farle di sua mano</E
+M>barbiera</E

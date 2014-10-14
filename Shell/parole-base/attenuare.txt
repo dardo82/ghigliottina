@@ -1,0 +1,24 @@
+attenuare.txt
+"attenuare"
+"attenuare un suono"
+M>attenuare</E
+M>tenuis</E
+M>io attènuo</E
+M>il rumore</E
+M>il riverbero della luce</E
+M>le vibrazioni</E
+M>l’effetto di un medicamento</E
+M>il dolore</E
+M>Dagli anni e dal digiuno attenuato</E
+M>attenuarsi del suono</E
+M>della voce</E
+M>sperava che il dolore si attenuasse</E
+M>la rigidezza della temperatura si è un po’ attenuata</E
+M>i motivi di contrasto si vanno attenuando</E
+M>una pena</E
+M>la gravità di una colpa</E
+M>i meriti</E
+M>le responsabilità di una persona</E
+M>a quella distanza</E
+M>i suoni giungevano attenuati</E
+M>sigaro attenuato di nicotina</E

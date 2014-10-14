@@ -1,0 +1,124 @@
+ne.txt
+"Ce ne corre"
+"ce ne hai messo di tempo"
+"ce ne sono molti"
+"Che me ne importa?"
+"che me ne importa?"
+"che ne dici di"
+"che ne sai?"
+"che ve ne pare?"
+"Checché se ne dica"
+"Chi ne fa le veci"
+"stand in for someone, act in someone's stead (more formal), take someone's place"
+"Chi più ne ha più ne metta"
+"chi se ne frega"
+"chi se ne frega?"
+"chi se ne importa?"
+"Cosa ne sai?"
+"dio ce ne scampi e liberi"
+"Dio ce ne scampi e liberi!"
+"e chi se ne frega.."
+"e tutto ciò che ne rimane"
+"ma che me ne importa"
+"ma non se ne parla proprio!"
+"me ne fotto"
+"morto un papa se ne fa un altro"
+"plenty of fish in the sea, no one is indispensable"
+"ne"
+"coordina più membri di una frase negativa"
+"neither, nor"
+"né va ripetuto davanti ad ognuno dei termini negati"
+"ne"
+"nello\"
+"negli\"
+"nella\"
+"nei\"
+"coordina più proposizioni negative"
+"neither, nor"
+"ne"
+"ne"
+"ne"
+"ne"
+"ne"
+"neither ... nor"
+"ne avevo paura"
+"né carne né pesce"
+"ne consegue"
+"ne consegue che"
+"ne deriva che"
+"ne è passata di acqua sotto i ponti"
+"ne è passato di tempo"
+"neither more nor less"
+"neither here nor there"
+"ne sono certo"
+"ne vale la pena"
+"nel bene o nel male purché se ne parli"
+"non ce la faccio più!, non ne posso più!, sono stufo!"
+"non essere né carne né pesce"
+"neither flesh nor fowl"
+"non me ne importa nulla"
+"Non me ne importa un cavolo!"
+"Non me ne importa un cavolo!"
+"non se ne esce"
+"non se ne fa nulla"
+"non se ne fece più nulla"
+"nothing happened, nothing was done"
+"non se ne parla proprio"
+"non se ne poteva più"
+"one couldn't take it any longer"
+"non se ne può fare a meno"
+"one cannot help but, one cannot avoid"
+"non ve ne pentirete"
+"ove ne ricorrano i presupposti"
+"peccato che tu te ne vada, mi spiace che tu te ne vada"
+"per quanto ne so"
+"per quel che ne sai"
+"per quello che ne sai"
+"qualora ne ricorrano i presupposti"
+"quanto ne abbiamo oggi?"
+"Se ne sarebbero viste delle belle"
+"neither saying yay or nay"
+"senza nesso né logica"
+"Sicuro che ne valesse la pena?"
+"te lo dice chi se ne intende"
+"take it from someone who knows"
+"una ne fa e cento ne pensa"
+"ve ne prego!"
+"Lines"
+#* ''Sei stato in piscina? - '''Ne''' sono uscito proprio adesso.''
+#* ''C'era tanta gente? - Non 
+#* ''Hai comprato le pecore? - '''Ne''' ho comprate due.''
+#* ''Quante cianfrusaglie! - La soffitta 
+* [[n']] (facoltativo davanti a vocale)
+#* ''Quanti ghe 
+:* [[n']] (''obbligatorio davanti a vocale'')
+m>e non</e
+m>non me l&rsquo;ha mai detto né scritto</e
+m>ha raccomandato di non fiatare né muoversi per nessuna ragione</e
+m>né io né lui ci siamo andati</e
+m>non mi fa né caldo né freddo</e
+m>il mio debole parere sarebbe che non vi fossero né sfide</e
+m>né portatori</e
+m>né bastonate</e
+m>né piu né meno</e
+m>né punto né poco</e
+m>né poco né molto</e
+m>non</e
+m>né lo pretendo né lo desidero</e
+m>né fa né lascia fare</e
+m>ha preso la sua decisione</e
+m>né io lo rimprovero</e
+m>Spargendo ancor pel volto il primo fiore Né avendo il bel Iulio ancor provate Le dolci acerbe cure che dà Amore</e
+m>travagliosa Era mia vita:</e
+m>ed è né cangia stile</e
+m>Né mai più toccherò le sacre sponde</e
+m>neanche</e
+m>non perciò</e
+m>Se la donna s&rsquo;affligge e si lamenta</e
+m>Né di Ruggier la mente è più quieta</e
+m>nemmanco</e
+m>nemmeno</e
+m>neppure</e
+m>né io né tu</e
+m>né ìo né ttu</e
+m>ned</e

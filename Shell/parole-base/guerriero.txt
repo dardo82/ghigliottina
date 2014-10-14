@@ -1,0 +1,29 @@
+guerriero.txt
+"guerriero"
+"guerriero"
+"guerriero della notte"
+"guerriero vichingo"
+*''(aggettivo)'' [[bellicoso]], [[battagliero]], [[combattivo]]
+*''(sostantivo) [[soldato]], [[milite]], [[combattente]]
+*[[pacifico]], [[mite]]
+M>guerrier</E
+M>un prode</E
+M>forte</E
+M>valoroso guerriero</E
+M>i g</E
+M>troiani</E
+M>i g</E
+M>di Roma antica</E
+M>i g</E
+M>di Carlomagno</E
+M>un popolo</E
+M>un re g</E
+M>valore</E
+M>spirito</E
+M>coraggio g</E
+M>aspetto guerriero</E
+M>quella modestia un po’ g</E
+M>delle contadine</E
+M>Quello spirto guerrier ch’entro mi rugge</E
+M>L’Amor</E
+M>che m’è guerrero</E

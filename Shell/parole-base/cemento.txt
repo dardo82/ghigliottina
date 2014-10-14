@@ -1,0 +1,38 @@
+cemento.txt
+"cemento"
+"cemento"
+"cemento amianto"
+"cemento armato"
+"cemento fresco"
+"cemento idraulico"
+"fabbrica in cemento"
+"fabbricante di cemento"
+"forno da cemento"
+"miscelatore per cemento"
+"ricoprire con il cemento"
+* (''materiale da costruzione'') [[malta]]
+*[[cementare]], [[acciaio-cemento]]
+* (''materiale da costruzione'') [[edilizia]]
+* (''cosa che consolida un patto'') [[legame]], [[amicizia]]
+*italiano
+M>caementum</E
+M>caed</E
+M>idraulico</E
+M>Portland</E
+M>pozzolanico</E
+M>d’altoforno</E
+M>ad alta resistenza</E
+M>bianco</E
+M>a presa rapida</E
+M>bituminoso</E
+M>fibroso</E
+M>amianto</E
+M>retinato</E
+M>armato</E
+M>calcestruzzo armato</E
+M>armato precompresso</E
+M>calcareo</E
+M>siliceo</E
+M>cementoblasti</E
+M>le comuni disgrazie sono un c</E
+M>dell’amicizia</E

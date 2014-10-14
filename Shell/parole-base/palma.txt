@@ -1,0 +1,27 @@
+palma.txt
+"(olio) di guscio di palma"
+"a frange di palma"
+"cuore di palma"
+"foglia di palma"
+"olio di guscio di palma"
+"olio di palma"
+"olio di palma"
+"palma"
+"palma"
+"palma"
+"palma"
+"ramo di pianta della palma"
+"palma"
+"palma da cocco"
+"palma da cocco"
+"palma da dattero"
+"palma da olio"
+"palma del deserto"
+"palma reale"
+"vino di palma"
+*[[palmo]]
+*''(liturgia)'' ramo d’ulivo, [[ulivo]], [[palmizio]]
+*[[dorso]]
+*[[palmito]]
+*italiano
+*latino

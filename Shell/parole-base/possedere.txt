@@ -1,0 +1,62 @@
+possedere.txt
+"possedere"
+"possedere"
+"possedere"
+"possedere"
+"possedere privatamente"
+"possedere, guardare, proteggere"
+*[[padroneggiare]]
+*[[ignorare]]
+M>possid</E
+M>potis</E
+M>sedere</E
+M>io possièdo</E
+M>possèggo</E
+M>tu possièdi</E
+M>sedere</E
+M>appartamenti</E
+M>palazzi</E
+M>terreni</E
+M>possiede terre immense</E
+M>possedeva una vasta tenuta nel Lazio</E
+M>possiede solo pochi ettari di terra</E
+M>dovette vendere tutto quanto possedeva</E
+M>possiede grandi ricchezze</E
+M>tutto quello che possiedo consiste in pochi euro</E
+M>non possiede il becco d&#8217;un quattrino</E
+M>è gente che possiede</E
+M>possiede molto</E
+M>possiede ancora qualcosa</E
+M>non possediamo più nulla</E
+M>un regno</E
+M>un ducato</E
+M>una contea</E
+M>la Spagna possedeva colonie molto estese</E
+M>orrevol</E
+M>onorevole</E
+M>gente possedea quel loco</E
+M>una severa Malinconia possiede il sepolcreto</E
+M>una donna</E
+M>possedersi</E
+M>toccandosi e urtandosi per il gran desiderio di possedersi</E
+M>avere</E
+M>ingegno</E
+M>virtù</E
+M>possiede una bellissima voce</E
+M>possiede le migliori qualità</E
+M>purtroppo non possiede l&#8217;arte di convincere la gente</E
+M>una furiosa gelosia lo possiede</E
+M>allor che grave Li possedea corruccio</E
+M>era posseduto da una sfrenata ambizione</E
+M>esser posseduto dal demonio</E
+M>una lingua</E
+M>varie lingue</E
+M>possiede la sua materia</E
+M>si sente che possiede l&#8217;argomento</E
+M>ammettere una massima e ripeterla non è possederla</E
+M>la verità</E
+M>la realtà</E
+M>possidènte</E
+M>degli ossessi</E
+M>degli energumeni</E
+M>dei posseduti</E

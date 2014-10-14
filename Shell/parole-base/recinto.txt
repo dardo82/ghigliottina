@@ -1,0 +1,36 @@
+recinto.txt
+"recinto"
+"recinto a prova di coniglio"
+"recinto della sabbia"
+"recinto di filo spinato"
+"recinto di filo spinato"
+"recinto di rete a maglie in acciaio"
+"recinto di sabbia per bambini"
+"recinto per bestiame"
+"recinto per il bestiame"
+"rinchiudere in un recinto"
+*[[recinzione]]
+*[[recintare]]
+*[[recinzione]]
+M>recinto</E
+M>recingere</E
+M>il r</E
+M>di un parco</E
+M>di una villa</E
+M>un r</E
+M>in muratura</E
+M>di filo spinato</E
+M>i cavalli pascolavano in un r</E
+M>chiuso da palizzate</E
+M>entrare nel r</E
+M>uscire dal r</E
+M>un r</E
+M>di antiche mura circondava la città</E
+M>un ampio fosso gira intorno al recinto</E
+M>elettrico</E
+M>box</E
+M>alle grida</E
+M>del peso</E
+M>pesage</E
+M>corallini</E
+M>vulcanico</E

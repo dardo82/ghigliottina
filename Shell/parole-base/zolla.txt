@@ -1,0 +1,41 @@
+zolla.txt
+"zolla"
+"zolla"
+"zolla"
+"zolla erbosa"
+#* ''il [[contadino]] dissodava il [[terreno]] rivoltando le '''zolle'''''
+#* ''il [[calciatore]] è inciampato in una 
+#* ''possiedo una 
+M>*zolla</E
+M>zolle</E
+M>il contadino arando il suo campo tagliava e rovesciava le z.</E
+M>rompere</E
+M>rivoltare</E
+M>sbriciolare</E
+M>tritare le z.</E
+M>qualche z. nel campo umido e nero Luccica al sole</E
+M> netta come specchio</E
+M>marzo molle</E
+M> grano per le z.</E
+M>aver quattro z.</E
+M>poche z.</E
+M>A chi la z. avita Ara co’ propri armenti</E
+M>Z. erbosa</E
+M>tacito</E
+M>seduto in verde zolla</E
+M>Delle sere io solea passar gran parte Mirando il cielo</E
+M>Amaranti educavano e vïole Su la funebre zolla</E
+M>una z.</E
+M>una zolletta</E
+M>di zucchero</E
+M>placche</E
+M>teoria della tettonica a placche</E
+M>subduzione</E
+M>zolle</E
+M>corpi</E
+M>tigroidi</E
+M>zolle di Nissl</E
+M>zucchero in zollette</E
+M>mettere nel caffè una zolletta</E
+M>due zollette</E
+M> di zucchero</E

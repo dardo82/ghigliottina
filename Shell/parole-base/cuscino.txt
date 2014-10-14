@@ -1,0 +1,23 @@
+cuscino.txt
+"cuscino"
+"cuscino da sedia"
+"cuscino ornamentale"
+"cuscino pneumatico"
+"cuscino poggiapiedi"
+"grosso cuscino che può fungere da poltrona"
+*[[guanciale]]
+*[[cuscinata]]
+:*[[inglese]]
+M>coxinum</E
+M>coxa</E
+M>da letto</E
+M>i c</E
+M>del divano</E
+M>guanciale</E
+M>cuscino</E
+M>appoggiare la testa sul c</E
+M>stare semidisteso sorretto da due c</E
+M>dormire tra due c</E
+M>tra due guanciali</E
+M>Cuscino di fiori</E
+M>d’aria</E

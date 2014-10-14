@@ -1,0 +1,84 @@
+tamburo.txt
+"a tamburo battente"
+"freno a tamburo"
+"freno a tamburo"
+"piccolo tamburo"
+"rataplan (di tamburo)"
+"rullo di tamburo"
+"suonare il tamburo"
+"suonare il tamburo"
+"tamburo"
+"tamburo"
+"suonatore di tamburo"
+"tamburo"
+"tamburo"
+"tamburo"
+"tamburo"
+"tamburo militare"
+"una pistola a tamburo"
+*[[timpano]]
+*[[tamburare]]
+*[[gong]]
+*''a tamburo  battente''
+M>unb</E
+M>tamburo</E
+M>suonare</E
+M>battere il t.</E
+M>il rullo del t.</E
+M>dei t.</E
+M>marciare al suono</E
+M>al rullo dei t.</E
+M>avere il ventre</E
+M>la pancia</E
+M>come un t.</E
+M>tamburi di guerra</E
+M>A t. battente</E
+M>à tambour battant</E
+M>arrivare a t. battente</E
+M>vuole essere obbedito a t. battente</E
+M>pretendeva d&#8217;essere pagato a t. battente</E
+M>sul t.</E
+M>pretese i soldi sul t.</E
+M>La scritta si fissò lì sul t.</E
+M>battere il t.</E
+M>la grancassa</E
+M>il t.</E
+M>il primo t. della banda comunale</E
+M>della banda del reggimento.</E
+M>t. maggiore</E
+M>t. a clessidra</E
+M>T. sciamanico</E
+M>T. basco</E
+M>tamburello</E
+M>avvolgere un cavo su un t. di legno</E
+M>t. per passare la farina</E
+M>setaccio</E
+M>t. del mulinello</E
+M>t. dell&#8217;argano</E
+M>t. del freno</E
+M>a tamburo</E
+M>t. di strumenti di misurazione</E
+M>pistola a t.</E
+M>avvolgimento a t.</E
+M>memoria magnetica a tamburo</E
+M>t. magnetico</E
+M>botte</E
+M>mulino</E
+M>bariletto.</E
+M>t. di specchi</E
+M>T. magico</E
+M>zootropio.</E
+M>tamburo</E
+M>mulino</E
+M>botte</E
+M>t. a degradazione</E
+M>rocchio.</E
+M>barbacane</E
+M>t. difensivo</E
+M>tamburo</E
+M>tamburone</E
+M>Pesce tamburo</E
+M>pesce luna</E
+M>pesce cinghiale</E
+M>tamburo</E
+M>grancassa</E

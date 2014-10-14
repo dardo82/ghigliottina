@@ -1,0 +1,11 @@
+vanga.txt
+"vanga"
+*[[pala]]
+*[[zappa]], [[rivangare]]
+M>vanga</E
+M>staffa</E
+M>staffale</E
+M>vangile</E
+M>V. da fieno</E
+M>V. da torba</E
+M>vanghetta</E

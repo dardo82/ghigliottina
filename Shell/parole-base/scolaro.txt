@@ -1,0 +1,21 @@
+scolaro.txt
+"scolaro"
+"scolaro"
+"scolaro, alunno"
+"scolaro, alunno"
+M>scholaris</E
+M>scholaris</E
+M>schola</E
+M>alunno</E
+M>studente</E
+M>una classe di 20 s.</E
+M>è uno s. attento</E
+M>studioso</E
+M>diligente</E
+M>pigro</E
+M>svogliato</E
+M>De Sanctis fu s. di Basilio Puoti</E
+M>Cimabue ebbe Giotto come s.</E
+M>gli s. di Enrico Fermi</E
+M>i più illustri s. dello Studio patavino</E
+M>è uno s. che ha superato il maestro nell&#8217;arte di arrangiarsi</E

@@ -1,0 +1,15 @@
+locanda.txt
+"locanda"
+"locanda dove si offriva il servizio di staffetta dei cavalli"
+M>locanda</E
+M>locandus</E
+M>locare</E
+M>mangiare</E
+M>dormire in una</E
+M>alla</E
+M>in tutto il paese non c’era che una misera l</E
+M>casa che sembra una l</E
+M>albergo</E
+M>casa l</E
+M>camera l</E
+M>est locanda</E

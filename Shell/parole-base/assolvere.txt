@@ -1,0 +1,44 @@
+assolvere.txt
+"assolvere"
+"assolvere"
+"assolvere"
+"assolvere"
+#* ''essere assolto in pretura, in tribunale''
+#* ''io ti assolvo nel nome del Padre, 
+* (un compito, un dovere) [[adempiere]], [[compiere]], [[ottemperare]], [[eseguire]], [[svolgere]], [[onorare]]
+* (da obbligo, vincolo) [[liberare]], [[sciogliere]], [[sollevare]], [[disobbligare]], [[dispensare]], [[esonerare]], [[esentare]]
+*(un peccato) [[perdonare]], [[rimettere]], [[esimere]]
+*(da imputazione) [[prosciogliere]], dichiarare innocente
+* (un compito, un dovere) [[disattendere]]
+*(da obbligo, vincolo) [[obbligare]], [[costringere]], [[vincolare]]
+*(da imputazione) [[condannare]], [[punire]], [[penalizzare]]
+* [[punire]]
+* [[assolvimento]],  [[assoluto]]
+M>absolv</E
+M>solv</E
+M>io assòlvo</E
+M>io assolvéi</E
+M>assolvètti</E
+M>assòlsi</E
+M>tu assolvésti</E
+M>assòlto</E
+M>da una promessa</E
+M>da un giuramento</E
+M>Onde Morte m’assolve</E
+M>Amor mi lega</E
+M>il tribunale ha assolto l’imputato</E
+M>il confessore assolve il penitente</E
+M>i peccati</E
+M>un compito</E
+M>il proprio dovere</E
+M>a. al proprio dovere</E
+M>un debito</E
+M>imposta di bollo assolta all’origine</E
+M>IVA assolta forfetariamente</E
+M>frate né prete ci sarà che ’l voglia né possa assolvere</E
+M>per che</E
+M>non assoluto</E
+M>sarà gittato a’ fossi</E
+M>un uomo accusato di un delitto</E
+M>carcerato ed assoluto</E
+M>non dovrebbe portar seco nota alcuna d’infamia</E

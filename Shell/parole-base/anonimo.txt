@@ -1,0 +1,41 @@
+anonimo.txt
+"anonimo"
+"anonimo"
+"anonimo"
+"anonimo"
+"anonimo, indistinto, sciatto, banale"
+"restare anonimo"
+#*''Marta ha ricevuto un misterioso pacco 
+* senza nome, non firmato, [[adespoto]]
+*[[ignorato]], [[oscuro]], [[sconosciuto]], [[ignoto]], [[incognito]]
+* autore sconosciuto
+*[[firmato]]
+*[[famoso]], [[celebre]], [[conosciuto]], [[noto]]
+M>lettera a</E
+M>telefonata a</E
+M>denuncia a</E
+M>delazione a</E
+M>libro a</E
+M>dipinto a</E
+M>articolo a</E
+M> una massa a</E
+M>una folla a</E
+M>una persona a.</E
+M>una città a</E
+M>parlare con tono a</E
+M>società a</E
+M>su questo il nostro a</E
+M>fa una osservazione che noi ripeteremo</E
+M>quadro</E
+M>dipinto</E
+M>gruppo</E
+M>sonetto</E
+M>poema di anonimo</E
+M>l’A</E
+M>fiorentino</E
+M>serbare l’a</E
+M>conservare l’a</E
+M>arteria a</E
+M>vene a</E
+M>stampare anonimamente un libello diffamatorio</E
+M>denuncia inviata anonimamente</E

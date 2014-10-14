@@ -1,0 +1,37 @@
+eccessivo.txt
+"carico eccessivo"
+"eccessivo"
+"eccessivo, esorbitante"
+"eccessivo; esorbitante"
+"esagerato, eccessivo"
+"fanatismo; entusiasmo eccessivo"
+"lavoro eccessivo"
+"mostrare in modo eccessivo"
+"numero eccessivo"
+"peso eccessivo"
+"prelievo eccessivo"
+"reso inutilizzabile dall'eccessivo uso, esausto"
+"rifornimento eccessivo"
+"sfrenato, eccessivo"
+"uso eccessivo"
+"valutare in modo eccessivo"
+*[[esorbitante]], [[esagerato]]
+M>peso e</E
+M>rigore</E
+M>lavoro</E
+M>fatica e</E
+M>procedere</E
+M>viaggiare a una velocità e</E
+M>il prezzo mi pare e</E
+M>fa un caldo e</E
+M>per la stagione in cui siamo</E
+M>il tetto si è sfondato per l’e</E
+M>carico di neve</E
+M>onerosità</E
+M>è un uomo e</E
+M>nell’odio</E
+M> nelle passioni</E
+M>in tutte le sue manifestazioni</E
+M>troppo</E
+M>mi pare che ti preoccupi eccessivamente</E
+M>un incarico eccessivamente gravoso</E

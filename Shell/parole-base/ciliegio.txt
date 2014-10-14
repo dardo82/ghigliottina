@@ -1,0 +1,38 @@
+ciliegio.txt
+"ciliegio"
+"ciliegio"
+"ciliegio tardivo"
+"legno di ciliegio"
+"legno di ciliegio"
+*Enciclopedia [http
+M>*ceresium</E
+M>cerasium</E
+M>ceraso</E
+M>dolce</E
+M>proprio</E
+M>Prunus avium</E
+M>agriotto</E
+M>visciolo</E
+M>visciolo</E
+M>Prunus cerasus</E
+M>una libreria di c</E
+M>una pipa di ciliegio</E
+M>canino</E
+M>Prunus mahaleb</E
+M>di santa Lucia</E
+M>megaleppo</E
+M>a grappoli</E
+M>Prunus padus</E
+M>pado</E
+M>di montagna</E
+M>selvatico</E
+M>cameceraso</E
+M>susino</E
+M>mirabolano</E
+M>pruno</E
+M>della Virginia</E
+M>Prunus virginiana</E
+M>serotina</E
+M>a grappoli</E
+M>di volpe</E
+M>Lonicera xylosteum</E

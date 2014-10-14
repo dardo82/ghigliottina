@@ -1,0 +1,29 @@
+biancheria.txt
+"armadio per la biancheria"
+"armadio per la biancheria"
+"biancheria"
+"biancheria da letto"
+"biancheria da letto"
+"biancheria da tavola"
+"biancheria intima"
+"biancheria intima lunga"
+"biancheria per la notte"
+"biancheria per la notte"
+#* ''
+#* ''
+#* ''
+* (1) [[intimo]]
+M>di lino</E
+M>di cotone</E
+M>di seta</E
+M>di canapa</E
+M>di nailon</E
+M>intima</E
+M>ricamata</E
+M>b. femminile</E
+M>maschile</E
+M>b. da giorno</E
+M>da notte</E
+M>cambiare</E
+M>lavare</E
+M>stirare la biancheria</E

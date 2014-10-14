@@ -1,0 +1,36 @@
+attorno.txt
+"attorno"
+"attorno"
+"attorno, replace: attorno a"
+"girare attorno"
+"giro attorno"
+"guardarsi attorno"
+"radunarsi intorno a qcs, radunarsi attorno a qcs, raccogliersi attorno a qcs"
+"radunarsi intorno a, stringersi attorno a"
+"stringersi attorno a"
+"tutto attorno"
+*[[intorno]]
+M>torno</E
+M>intorno</E
+M>andare a</E
+M>vanno a</E
+M>certe chiacchiere sul tuo conto</E
+M>avere uno a</E
+M>tenersi uno a</E
+M>levarsi uno d’a</E
+M>levarsi d’a</E
+M>una cosa</E
+M>guardarsi a</E
+M>mandare a</E
+M>darsi a</E
+M>d’a</E
+M>attorno a</E
+M>girare a</E
+M>alla casa</E
+M>la farfalla girava tutt’a</E
+M>al lume</E
+M>essere</E
+M>stare a</E
+M>a uno</E
+M>stare a</E
+M>a una cosa</E

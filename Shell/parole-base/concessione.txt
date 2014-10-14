@@ -1,0 +1,45 @@
+concessione.txt
+"concessione"
+"concessione"
+"concessione"
+"concessione"
+"concessione demaniale"
+"concessione di terra"
+"concessione di terra demaniale"
+"concessione mineraria"
+"diritto di concessione"
+"fare una concessione"
+"in concessione"
+"per gentile concessione di"
+"tassa di concessione"
+M>concessio</E
+M>onis</E
+M>conced</E
+M>di un prestito</E
+M>di un sussidio</E
+M>di una proroga</E
+M>fare</E
+M>dare</E
+M>ottenere una c</E
+M>fruire di una concessione</E
+M>chiedere</E
+M>ottenere la c</E
+M>di una licenza</E
+M>del porto d’armi</E
+M>non bisogna fare troppe c</E
+M>ai bambini</E
+M>ferroviaria</E
+M>mineraria</E
+M>petrolifera</E
+M>della cittadinanza</E
+M>della licenza di caccia</E
+M>governative</E
+M>tasse sulle c</E
+M>governative</E
+M>edilizia</E
+M>licenza di costruzione</E
+M>non era assolutamente possibile</E
+M>per tua stessa c</E
+M>far meglio di così</E
+M>armi di c</E
+M>armi di privilegio</E

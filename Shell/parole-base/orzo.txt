@@ -1,0 +1,14 @@
+orzo.txt
+"chicco d'orzo"
+"farina d'orzo"
+"orzo"
+"orzo perlato"
+"orzo selvatico"
+"paglia d'orzo"
+*[[orzare]]
+M>rdeum</E
+M>distico</E
+M>brillato</E
+M>perlato</E
+M>nudo</E
+M>zucchero d’orzo</E

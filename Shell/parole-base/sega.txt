@@ -1,0 +1,62 @@
+sega.txt
+"addetto alla sega, addetto al crivello"
+"da sega"
+"essere una sega"
+"fare sega"
+"fare sega a scuola"
+"farsi una sega"
+"lama da sega"
+"profilo a dente di sega"
+"sega"
+"sega"
+"sega"
+"sega a nastro"
+"sega circolare"
+"sega circolare"
+"sega circolare"
+"sega da traforo"
+"sega meccanica"
+"sega mentale"
+"sega per cornici"
+"sega per taglio trasversale"
+"termine volgare per masturbazione; sega"
+"una sega"
+#* ''Si è fatto una 
+#* ''Non vale una 
+#* ''Sei una 
+* lama dentata
+*[[motosega]]
+* [[fare sega]]
+* italiano
+* lettone
+M>s. a mano</E
+M>s. a lama libera</E
+M>saracco</E
+M>gattuccio</E
+M>s. a lama tesa</E
+M>s. da falegname</E
+M>segone intelaiato</E
+M>s. ad archetto</E
+M>s. meccanica</E
+M>segatrice</E
+M>s. a catena</E
+M>s. a disco</E
+M>s. circolare</E
+M>s. a nastro</E
+M>s. filiforme del Gigli</E
+M>Coltello a s.</E
+M>Pesce sega</E
+M>pesci sega</E
+M>Pristis pristis</E
+M>Pristis pectinata</E
+M>formazione a sega</E
+M>a denti di sega</E
+M>procedimento a s.</E
+M>non valere</E
+M>non capire una s.</E
+M>non m&#8217;importa una s.</E
+M>essere una s.</E
+M>a giocare a pallone</E
+M> sei proprio una sega.</E
+M>fare sega</E
+M>a scuola</E

@@ -1,0 +1,105 @@
+mancanza.txt
+"atto di mancanza di rispetto"
+"bonaccia, mancanza di vento"
+"che sente la mancanza di"
+"in mancanza"
+"in mancanza di"
+"mancanza"
+"mancanza"
+"mancanza"
+"mancanza di"
+"mancanza di"
+"mancanza di"
+"mancanza di"
+"mancanza di"
+"mancanza di abilità"
+"mancanza di accordo"
+"mancanza di accortezza"
+"mancanza di affetto"
+"mancanza di appetito"
+"mancanza di appetito"
+"mancanza di attrazione"
+"mancanza di cibo"
+"mancanza di colore"
+"mancanza di concentrazione"
+"mancanza di contatto"
+"mancanza di disciplina"
+"mancanza di disciplina"
+"mancanza di diversificazione"
+"mancanza di educazione"
+"mancanza di entusiasmo"
+"mancanza di fiducia"
+"mancanza di fiducia"
+"mancanza di fondi"
+"mancanza di formalità"
+"mancanza di gusto"
+"mancanza di informazione"
+"mancanza di integrità"
+"mancanza di interesse"
+"mancanza di lungimiranza"
+"mancanza di ordine"
+"mancanza di potenza"
+"mancanza di potere"
+"mancanza di preparazione"
+"mancanza di profondità"
+"mancanza di rispetto"
+"mancanza di rispetto"
+"mancanza di rispetto"
+"mancanza di sentimenti"
+"mancanza di socievolezza"
+"mancanza di stile"
+"mancanza di successo"
+"mancanza di tempo"
+"mancanza di visione"
+"sentendo la tua mancanza"
+"sentire la mancanza"
+"sentire molto la mancanza di qualcuno"
+"Si sente la tua mancanza"
+"si sentirà la tua mancanza"
+#*''in alcuni paesi africani c'è mancanza di cibo''
+#*''sentivamo tutti la tua mancanza''
+#*''ho commesso una grave mancanza'' 
+*[[insufficienza]], [[carenza]], [[scarsità]], [[assenza]], [[deficienza]], [[penuria]]
+*[[sbaglio]], [[errore]], [[fallo]], [[colpa]], [[pecca]],
+*[[imperfezione]], [[difetto]], [[lacuna]]
+*''(insufficienza)'' [[ricchezza]], [[abbondanza]], [[eccesso]], [[eccedenza]]
+*[[mancante]], [[mancare]]
+*''in mancanza di''
+M>patire di m</E
+M>d’acqua</E
+M>di viveri</E
+M>c’è m</E
+M>di spazio</E
+M>di tempo</E
+M>la ricerca è stata abbandonata per m</E
+M>di fondi</E
+M>di memoria</E
+M>di autorità</E
+M>di interessi</E
+M>in mancanza di</E
+M>in m</E
+M>di meglio</E
+M>d’altro</E
+M>dovremo adattarci</E
+M>in m</E
+M>di nuove disposizioni</E
+M>si continuerà a osservare il vecchio orario</E
+M>in m</E
+M>del sindaco</E
+M>ne fa le veci l’assessore anziano</E
+M>abbiamo sentito molto la tua m</E
+M>la sua improvvisa m</E
+M>ha lasciato la famiglia nella costernazione</E
+M>commettere</E
+M>scontare</E
+M>punire</E
+M>perdonare una m</E
+M>una lieve m</E
+M>una m</E
+M>grave</E
+M>le sue m</E
+M>sono imperdonabili</E
+M>ognuno di noi ha le proprie m</E
+M>forse una mia m</E
+M>è quella di non capire ciò che s’arresta e di voler condurre tutto a qualunque costo avanti</E
+M>improvvisamente ha avuto una m</E

@@ -1,0 +1,57 @@
+subire.txt
+"subire"
+"subire"
+"subire"
+"subire"
+"subire delle conseguenze"
+"subire il fascino"
+"subire l'influenza di"
+"subire le conseguenze"
+"Subire le conseguenze delle proprie azioni"
+"subire un cambiamento"
+"subire un cambiamento"
+"subire un collasso"
+"subire un controllo"
+"subire un crash"
+"subire un furto"
+"subire un trattamento"
+"subire una perdita"
+#*''Poverino, '''ha subito''' tante di quelle umiliazioni che ora non riesce più neanche a parlare''
+*[[soffrire]], [[patire]], [[affrontare]], [[sopportare]], [[tollerare]]
+* essere soggetto, [[sottostare]], essere sottoposto, [[sottoporsi]], [[soggiacere]], [[assoggettarsi]], [[sottomettersi]]
+*[[tacere]], [[pazientare]], [[rassegnarsi]]
+*[[sostenere]],  [[ricevere]], [[sopportare]]
+M>subire</E
+M>sub-</E
+M>ire</E
+M>subir</E
+M>io subisco</E
+M>tu subisci</E
+M>s. un torto</E
+M>un&#8217;ingiustizia</E
+M>un affronto</E
+M>un sopruso</E
+M>un&#8217;umiliazione</E
+M>una sopraffazione</E
+M>è costretto a s. e tacere</E
+M>s. la tortura</E
+M>il martirio</E
+M>s. la pena</E
+M>il castigo</E
+M>l&#8217;imputato subì lunghi interrogatorî</E
+M>ha dovuto s. una dolorosa operazione</E
+M>ha agito male e ora deve s. le conseguenze</E
+M>s. un danno</E
+M>gravi danni</E
+M>nell&#8217;incendio</E
+M> la villa ha subìto ingenti danni</E
+M>s. una prova</E
+M>un esame</E
+M>s. una dura prova</E
+M>un difficile esame</E
+M>il progetto iniziale ha subìto varie modifiche</E
+M>le vendite hanno subìto un notevole calo</E
+M>per quanto tempo dovrò ancora subirvi?</E
+M>patire</E
+M>nella proposizione passiva</E
+M> il soggetto subisce l&#8217;azione</E

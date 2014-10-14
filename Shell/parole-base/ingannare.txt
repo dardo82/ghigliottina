@@ -1,0 +1,57 @@
+ingannare.txt
+"incastrare, fregare, ingannare"
+"ingannare"
+"ingannare"
+"ingannare"
+"ingannare qualcuno"
+"sfruttare, ingannare"
+*[[fuorviare]]
+*[[raggirare]], [[imbrogliare]], [[truffare]], [[illudere]], [[gabbare]], [[frodare]], [[intrappolare]], [[abbindolare]], [[circuire]], [[irretire]], [[adescare]],[[ mistificare]]
+* [[gabbare]],  [[giocare]],  [[circuire]], [[frodare]],
+*''(le speranze, le attese ecc.)''  [[disattendere]], [[frustrare ]]
+*agire onestamente
+*[[ingannabile]], [[ingannarsi]], [[ingannatore]], [[ingannevole]], [[inganno]]
+M>ingannare</E
+M>ingannò l’avversario con una finta</E
+M>l’apparenza inganna</E
+M>se la vista</E
+M>se la memoria non m’inganna</E
+M>Non t’inganni l’ampiezza de l’intrare!</E
+M>un vino che inganna</E
+M>dubitavan forte non ser Ciappelletto gl’ingannasse</E
+M>il prossimo</E
+M>il compratore</E
+M>il cliente</E
+M>essere</E
+M>rimanere</E
+M>trovarsi ingannato</E
+M>la moglie</E
+M>il marito</E
+M>una ragazza</E
+M>le speranze</E
+M>la fiducia</E
+M>la vigilanza</E
+M>chiacchierare un po’ per i</E
+M>il tempo</E
+M>fumava per i</E
+M>la fame</E
+M>la fatica</E
+M>la noia</E
+M>l’attesa</E
+M>ingannarsi</E
+M>mi ero ingannato sul suo conto</E
+M>mi sono ingannato sulla qualità della stoffa</E
+M>ingannarsi in un giudizio</E
+M>in un’opinione</E
+M>nel giudicare</E
+M>nel valutare</E
+M>ti credevo sincero</E
+M>ma vedo che mi sono ingannato</E
+M>t’inganni</E
+M>credi a me</E
+M>lei s’inganna di grosso</E
+M>m’ingannerò</E
+M>ma quello è un furfante</E
+M>se non m’inganno</E
+M>il termine è già scaduto</E
+"name": "Parnassus - L'uomo che voleva ingannare il diavolo"

@@ -1,0 +1,16 @@
+pasticca.txt
+"pasticca"
+"pastiglia dei freni, pasticca dei freni"
+M>pastiglia</E
+M>pasticche di menta</E
+M>di zucchero d&#8217;orzo</E
+M>pasticche per la tosse</E
+M>i più tenevano da una mano un bastone</E
+M> ... dall&#8217;altra pasticche odorose</E
+M>anello a pasticca</E
+M>un anello ornato di una grossa p</E
+M>di smeraldo</E
+M>boules</E
+M>pois</E
+M>seta bianca a pasticche blu</E
+M>pastiglia</E

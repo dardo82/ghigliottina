@@ -1,0 +1,127 @@
+esame.txt
+"(esame) accurato, ispezione"
+"analisi del DNA, esame del DNA"
+"esame"
+"esame"
+"esame"
+"esame"
+"esame accurato; ispezione"
+"esame clinico"
+"esame critico"
+"esame d'ammissione"
+"esame del sangue"
+"esame della pelle"
+"esame di abilitazione"
+"esame di coscienza"
+"esame di coscienza"
+"esame di coscienza"
+"esame di livello"
+"esame di qualificazione"
+"esame di riparazione"
+"esame di stato"
+"esame di striscio, pap test"
+"esame diretto di un testimone chiamato in aula"
+"esame finale"
+"esame finale"
+"esame finale per la laurea (gergo degli studenti)"
+"esame generale"
+"esame globale"
+"esame incrociato"
+"esame medico"
+"esame medico"
+"esame medico generale"
+"esame orale"
+"esame orale"
+"esame per il rilascio della patente di guida"
+"esame preliminare"
+"esame psicologico"
+"esame rapido"
+"esame riuscito"
+"esame scritto"
+"esame visivo"
+"in esame"
+"iscriversi ad un esame"
+"la nuova proposta di legge e' all'esame della Camera"
+"non superare un esame"
+"prendere in esame"
+"programma di esame"
+"secondo esame"
+"sotto esame"
+*[[analisi]], [[valutazione]], [[osservazione]], [[considerazione]], [[ricerca]], [[indagine]], [[riflessione]], [[controllo]]
+*[[prova]], [[saggio]], [[verifica]], [[test]], [[interrogazione]]
+*[[preeesame]]
+*[[esamina]]
+M>examen</E
+M>exig</E
+M>di un motore</E
+M>di un malato</E
+M>di una ferita</E
+M>di un fabbricato</E
+M>chimico</E
+M>fisico</E
+M>organolettico</E
+M>medico</E
+M>obiettivo</E
+M>esami di laboratorio</E
+M>d’una proposta</E
+M>dei documenti</E
+M>l’incartamento è ora all’e</E
+M>della commissione</E
+M>prendere in e</E
+M>un progetto</E
+M>dopo approfondito e</E
+M>la domanda è stata accolta</E
+M>di un libro</E
+M>di un’opera d’arte</E
+M>e. delle parti</E
+M>e. dei testimoni</E
+M>e. incrociato</E
+M>di coscienza</E
+M>libero e</E
+M>di ammissione</E
+M>di promozione</E
+M>di integrazione</E
+M>di idoneità</E
+M>di licenza</E
+M>di abilitazione</E
+M>di maturità</E
+M>universitario di profitto</E
+M>di laurea</E
+M>di abilitazione all’esercizio della professione di ingegnere</E
+M>di medico</E
+M>esami di stato</E
+M>di concorso</E
+M>attitudinale</E
+M>di abilitazione alla guida di autoveicoli</E
+M>di guida</E
+M>scritti</E
+M>orali</E
+M>prepararsi agli e</E
+M>per gli e</E
+M>presentarsi agli e</E
+M>dare</E
+M>sostenere</E
+M>affrontare gli e</E
+M>passare agli e</E
+M>passare gli e</E
+M>l’esame</E
+M>superare gli e</E
+M>essere promosso</E
+M>approvato</E
+M>bocciato</E
+M>riprovato</E
+M>respinto</E
+M>rimandato agli e</E
+M>fare l’e</E
+M>gli e</E
+M>ha dato l’e</E
+M>gli e</E
+M>fare</E
+M>subire un e</E
+M>accurato</E
+M>minuto</E
+M>serio</E
+M>severo</E
+M>rigoroso</E
+M>sessione</E
+M>appello d’esami</E

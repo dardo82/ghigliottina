@@ -1,0 +1,241 @@
+cattivo.txt
+"(essere) di cattivo umore"
+"bambino cattivo"
+"bigiotteria di cattivo gusto"
+"Buon viso a cattivo gioco"
+"cattivo"
+"cattivo"
+"cattivo"
+"cattivo"
+"cattivo"
+"cattivo"
+"cattivo"
+"cattivo"
+"cattivo attore"
+"cattivo comportamento"
+"cattivo comportamento"
+"cattivo esempio"
+"cattivo gusto"
+"cattivo gusto"
+"cattivo odore"
+"cattivo presentimento"
+"cattivo sangue"
+"cattivo soggetto"
+"cattivo soggetto"
+"cattivo umore"
+"cattivo umore"
+"cattivo, malvagio"
+"di cattivo carattere, stizzoso"
+"di cattivo gusto"
+"di cattivo gusto"
+"di cattivo gusto"
+"di cattivo gusto"
+"di cattivo umore"
+"di cattivo umore"
+"essere di cattivo umore"
+"fare il bello ed il cattivo tempo"
+"fare un cattivo servizio a se stessi"
+"fare un cattivo uso di qualcosa"
+"il cattivo"
+"il cattivo"
+"il cattivo del film"
+"il cattivo per antonomasia"
+"in cattivo, di cattivo"
+"in crisi, in depressione, di cattivo umore"
+"intento cattivo"
+"rendere un cattivo servizio a"
+"scherzo (di cattivo gusto)"
+"sembrare cattivo"
+"separare il buono dal cattivo"
+"separare il buono dal cattivo"
+"sguardo cattivo"
+"uomo cattivo"
+"volgare, di cattivo gusto"
+*[[ riprovevole]],[[ biasimevole]],[[ spregevole]],[[ ignobile]], [[indegno]], , [[ scortese]], [[sgarbato]],[[ villano]], [[ maleducato]], [[intrattabile]], [[irascibile]]
+*'' (di sguardo)'' [[ ostile]], [[ bieco]], [[ incapace]]
+*''(di situazione, scelta ecc.)'' [[pericoloso]], [[sfavorevole]], [[nocivo]], [[dannoso]] 
+*''(di cibo)''[[disgustoso]], [[guasto]], [[deteriorato]] 
+*''(di tempo)''  [[perturbato]], [[piovoso]], [[ventoso]], [[nuvoloso]]
+*''(di clima)'' [[malsano]], [[insalubre]]
+*[[degno]], [[giusto]], [[buono]], [[nobile]], [[corretto]]
+*''(di sguardo)'' [[ dolce]],[[ gentile]],[[ cortese]], [[garbato]], [[ bonario ]]
+*''(di situazione, scelta ecc.)'' [[vantaggioso]], [[utile]], [[conveniente]] 
+*''(di cibo)'' [[buono]], [[fresco]]
+*''(di tempo)'' [[bello]], [[buono]], [[sereno]] 
+*''(di clima)'' [[salubre]]
+*[[cattiveria]], [[cattivezza]], [[cattivare]], [[cattività]]
+*Giacomo Devoto ''Dizionario Etimologico. Avviamento alla etimologia italiana'', Felice Le Monnier, Firenze, 1968
+M>capt</E
+M>vus</E
+M>cap</E
+M>captivus diab</E
+M>buono</E
+M>un uomo c</E
+M>un ragazzo c</E
+M>gente c</E
+M>un c</E
+M>soggetto</E
+M>persona di animo cattivo</E
+M>un cane c</E
+M>chiamare il lupo c</E
+M>tenere c</E
+M>condotta</E
+M>compiere una c</E
+M>azione</E
+M>avere c</E
+M>pensieri</E
+M>avere c</E
+M>intenzioni</E
+M>prendere c</E
+M>abitudini</E
+M>avere c</E
+M>istinti</E
+M>inclinazioni</E
+M>seguire c</E
+M>principî</E
+M>dare c</E
+M>consigli</E
+M>dare il c</E
+M>esempio</E
+M>fare c</E
+M>letture</E
+M>mettersi per una c</E
+M>strada</E
+M>frequentare c</E
+M>compagni</E
+M>compagnie</E
+M>il bambino è stato c</E
+M>tutto il giorno</E
+M>avere un c</E
+M>carattere</E
+M>è un padrone c</E
+M>come sei c</E
+M>con me</E
+M>oggi!</E
+M>vuoi fare proprio il c</E
+M>oggi</E
+M>via</E
+M>non fare la c</E
+M>essere c</E
+M>di cuore</E
+M>essere una c</E
+M>lingua</E
+M>una mala lingua</E
+M>parole</E
+M>maniere</E
+M>se non cede con le buone</E
+M>dovrà cedere con le cattive</E
+M>rivolgere uno sguardo c</E
+M>guardare con occhi c</E
+M>rispondere con voce c</E
+M>in tono c</E
+M>padre</E
+M>moglie</E
+M>un c</E
+M>insegnante</E
+M>un c. medico</E
+M>poeta</E
+M>oratore</E
+M>vista</E
+M>memoria</E
+M>con c</E
+M>argomenti</E
+M>è un c</E
+M>metodo</E
+M>merce c</E
+M>carta</E
+M>stoffa c</E
+M>frutta</E
+M>verdura c</E
+M>parlare un c. inglese</E
+M>si esprime in un italiano c. e approssimativo</E
+M>strada c</E
+M>un motore in c</E
+M>condizioni</E
+M>scarpe in c</E
+M>stato</E
+M>una seggiola c</E
+M>un letto poco buono e un tavolino tutto rovinato</E
+M>conduttore elettrico</E
+M>musica</E
+M>una c</E
+M>esecuzione</E
+M>moneta</E
+M>godere c</E
+M>fama</E
+M>farsi un c</E
+M>nome</E
+M>avere c</E
+M>opinione di uno</E
+M>dare un c</E
+M>voto</E
+M>formulare un c</E
+M>giudizio</E
+M>godere di c. stampa</E
+M>avere una c</E
+M>cera</E
+M>essere in c</E
+M>stato</E
+M>digestione</E
+M>tosse c</E
+M>essere di c</E
+M>umore</E
+M>farsi c</E
+M>sangue</E
+M>avere c</E
+M>sangue contro qualcuno</E
+M>odore</E
+M>sapore</E
+M>pane c</E
+M>acqua c</E
+M>carne c</E
+M>pesce c.</E
+M>a cena</E
+M> mangiavano le castagne rimaste invendute e bevevano un bicchiere di cattivo barbera</E
+M>avere il vino c</E
+M>fare un c</E
+M>affare</E
+M>una c</E
+M>scelta</E
+M>avere carte c</E
+M>è stata una c</E
+M>idea</E
+M>giungi in un c</E
+M>momento</E
+M>aria c</E
+M>tempo</E
+M>mare c</E
+M>stagione c</E
+M>la c</E
+M>stagione</E
+M>sorte</E
+M>fortuna</E
+M>essere nato sotto una c</E
+M>stella</E
+M>una c</E
+M>notizia</E
+M>un c</E
+M>incontro</E
+M>fare la parte del c</E
+M>in un film d’avventure</E
+M>i buoni e i c</E
+M>la punizione dei cattivi</E
+M>s’è mangiato tutto il buono della mela</E
+M>e il c</E
+M>l’ha dato a me</E
+M>sapere di c</E
+M>Ecuba trista</E
+M>misera e c</E
+M>Cristiane insegne pendean cattive</E
+M>Vero amor più non s’alletta Nella misera c</E
+M>Calandrino tristo e c</E
+M>tutto pelato e tutto graffiato</E
+M>veggendolo assalire</E
+M>come cattivo</E
+M>niuna cosa al suo aiuto adoperò</E
+M>sanza fare colpo si fuggirono</E
+M>abandonando come cattivi le bandiere</E
+M>tennero lo ’nvito</E
+M>e pranzaro assai cattivamente</E
+M>sanza molto rilievo</E
+M>Novellino</E

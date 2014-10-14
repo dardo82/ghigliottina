@@ -1,0 +1,10 @@
+esattezza.txt
+"definire con esattezza"
+"esattezza"
+"indicare con esattezza"
+*[[accuratezza]], [[rigore]]
+M>di una previsione</E
+M>di un calcolo</E
+M>di una definizione</E
+M>hai risposto con molta e</E
+M>ha eseguito gli ordini con molta esattezza</E

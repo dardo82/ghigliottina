@@ -1,0 +1,13 @@
+colle.txt
+"colle"
+"colle"
+"colle"
+"colle"
+"colle palatino"
+#*''un [[monte]] [[ristretto]]''
+#*''una delle cime che costituiscono il [[monte all'italiana]]''
+*[[collina]], [[poggio]], [[montagnola]], [[altura]], [[rilievo]]
+*[[passo]], [[valico]]
+*italiano
+*francese
+M>con</E

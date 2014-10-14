@@ -1,0 +1,65 @@
+compenso.txt
+"a prezzo di costo più compenso forfettario"
+"compenso"
+"compenso"
+"dietro compenso"
+"in compenso"
+*[[paga]], [[retribuzione]], [[risarcimento]]
+M>alcun compenso</E
+M>Dissi lui</E
+M>trova che ’l tempo non passi Perduto</E
+M>in compenso</E
+M>per compenso</E
+M>però</E
+M>sono arrivato tardi in ufficio</E
+M>ma in c</E
+M>ho lavorato più intensamente</E
+M>non è molto intelligente</E
+M>in c</E
+M>però è molto attaccato al lavoro</E
+M>quest’acquaccia</E
+M>è amara</E
+M>in c</E
+M>non giova a nulla</E
+M>per c</E
+M>delle spese sostenute</E
+M>delle perdite subite</E
+M>prendere</E
+M>cercare un c</E
+M>riesce a trovare un c</E
+M>a tutto</E
+M>le cose sono andate male</E
+M>e non c’è compenso</E
+M>scompenso</E
+M>di costruzione</E
+M>di navigazione</E
+M>cassa compenso</E
+M>prezzo di c</E
+M>giorno dei c</E
+M>stabilizzazione</E
+M>dei cambî</E
+M>operazione di c</E
+M>dei cambî</E
+M>Fondi di c. dei cambî</E
+M>cantiere di c</E
+M>allungamento di c</E
+M>per c</E
+M>dem da *</E
+M>sdem</E
+M>un grazie sarà sufficiente c</E
+M>alle mie fatiche</E
+M>un bel c</E
+M>davvero dopo tanti sacrifici!</E
+M>mensile</E
+M>settimanale</E
+M>giornaliero</E
+M>orario</E
+M>per singole prestazioni</E
+M>giusto</E
+M>lauto</E
+M>meschino</E
+M>magro c</E
+M>dare</E
+M>esigere</E
+M>chiedere</E
+M>ricevere come compenso</E

@@ -1,0 +1,22 @@
+carburante.txt
+"capacità di carburante, quantità di carburante"
+"carburante"
+"carburante"
+"carburante diesel"
+"carburante per aviazione"
+"carta carburante"
+"filtro carburante"
+"iniettore di carburante"
+"iniezione di carburante"
+"rifornimento di carburante"
+"rifornire di carburante"
+*[[combustibile]]
+*Enciclopedia [http
+M>carburare</E
+M>per auto</E
+M>auto</E
+M>per aviazione</E
+M>avio</E
+M>per motori Diesel</E
+M>per turbine a gas</E
+M>Carburanti di sostituzione</E

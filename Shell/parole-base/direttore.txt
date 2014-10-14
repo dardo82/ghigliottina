@@ -1,0 +1,94 @@
+direttore.txt
+"direttore"
+"direttore"
+"direttore artistico"
+"direttore commerciale"
+"direttore comune"
+"direttore d'orchestra"
+"direttore dei corsi"
+"direttore dei lavori"
+"direttore del coro"
+"Direttore del csting"
+"direttore del personale"
+"direttore del personale"
+"direttore del traffico aereo"
+"direttore del turno di notte"
+"direttore della biblioteca"
+"direttore della fotografia"
+"direttore della sanità pubblica"
+"direttore di banca"
+"direttore di doppiaggio"
+"direttore di gara"
+"direttore di negozio"
+"direttore di produzione"
+"direttore di progetto"
+"direttore di programma"
+"direttore di scena"
+"direttore di succursale"
+"direttore didattico"
+"direttore editoriale"
+"direttore esecutivo"
+"direttore finanziario"
+"direttore generale"
+"direttore generale"
+"direttore generale"
+"direttore musicale"
+"direttore operativo"
+"direttore responsabile"
+"direttore sanitario"
+"direttore tecnico"
+"direttore vendite"
+"la sedia del direttore"
+"nuovo direttore"
+"nuovo direttore"
+"ufficio del direttore"
+"vice direttore"
+"vice direttore"
+"vice-direttore"
+*[[dirigente]], [[responsabile]]
+*[[condirettore]]
+*[[direttoriale]], [[direttorio]], [[direzione]], [[dirigere]], [[dirigenza]], [[diretto]]
+M>director</E
+M>oris</E
+M>dirig</E
+M>directus</E
+M>trice</E
+M>tóra</E
+M>di un giornale</E
+M>di una rivista</E
+M>di una banca</E
+M>di una scuola elementare</E
+M>d’archivio</E
+M>il d</E
+M> della clinica</E
+M>tecnico di miniera</E
+M>di cava</E
+M>vorrei parlare con il d</E
+M>con la direttrice</E
+M>c’è il d</E
+M>al telefono</E
+M>mi rivolgo a lei</E
+M>per un consiglio</E
+M>l’ufficio</E
+M>la segretaria del direttore</E
+M>d’azienda</E
+M>generale</E
+M>generale</E
+M>d’orchestra</E
+M>dei lavori</E
+M>d’aeroporto</E
+M>di macchina</E
+M>d. marittimo</E
+M>del tiro</E
+M>artistico</E
+M>della fotografia</E
+M>di produzione</E
+M>sportivo</E
+M>tecnico</E
+M>di gara</E
+M>di combattimento</E
+M>di corsa</E
+M>spirituale</E
+M>cono d</E
+M>coseni d</E
+M>numeri d</E

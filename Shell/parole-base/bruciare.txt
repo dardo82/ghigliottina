@@ -1,0 +1,89 @@
+bruciare.txt
+"bruciare"
+"bruciare"
+"bruciare"
+"bruciare completamente"
+"bruciare dalla passione"
+"Bruciare le tappe"
+"bruciare senza fiamma"
+"bruciare sul tempo"
+"bruciare, ustionare"
+"legna da bruciare"
+*[[ardere]], [[incendiare]], [[infiammare]]
+*''(una piaga, una ferita)'' [[cauterizzare]] 
+*''(una pietanza)'' [[carbonizzare]], [[abbrustolire]], [[bruciacchiare]], [[tostare]], [[arrostire]] 
+*''(una parte del corpo)'' [[ustionare]], [[scottare]] 
+*''(di pianta)'' [[seccare]], [[inaridire]] 
+*'' (tempo, energie ecc.)''[[sprecare]], [[consumare]], [[esaurire]], [[dare fondo]] 
+*''(una persona, un'opportunità ecc.)'' [[compromettere]], [[rovinare]], [[distruggere]] 
+*''(un avversario)'' [[sconfiggere]], [[battere]], [[vincere]] 
+*''(per rabbia, per passione ecc.)''[[ardere]], [[avvampare]], [[incendiarsi]], [[accendersi]] 
+*''(di offesa, dolore e simili)'' [[dispiacere]], [[offendere]], [[addolorare]], [[indispettire]], [[rammaricare]]
+* [[spegnere]], [[estinguere]], [[smorzare]] [[rallegrare]], [[allietare]] 
+*[[bruciamento]], [[bruciacchiare]], [[bruciante]], [[bruciapelo]], [[bruciaprofumi]], [[bruciarsi]], [[bruciata]], [[bruciato]], [[bruciatore]], [[bruciatura]], [[bruciore]]
+*[[appiccare]], [[dare fuoco]], [[dare alle fiamme]]
+M>*brusiare</E
+M>io brùcio</E
+M>la legna</E
+M>della carta</E
+M>l’incenso</E
+M>ho bruciato un pacco di vecchie lettere</E
+M>l’arrosto</E
+M>ho bruciato il petto della camicia col ferro</E
+M>da stiro</E
+M>la piaga</E
+M>i porri</E
+M>una morsicatura</E
+M>il fuoco brucia</E
+M>l’acido ha bruciato una parte della tovaglia</E
+M>il sole ha bruciato le erbe del prato</E
+M>senti come brucia oggi il sole</E
+M>il gelo brucia le viti</E
+M>il vento ci ha bruciato tutti i fiori del giardino</E
+M>bruciarsi</E
+M>accendendo un fiammifero mi sono bruciato un dito</E
+M>bruciarsi le ali</E
+M>chi scherza col fuoco finisce per bruciarsi le ali</E
+M>le proprie forze</E
+M>le proprie capacità</E
+M>gli anni migliori</E
+M>la propria carriera</E
+M>qualcuno</E
+M>bruciarsi</E
+M>era un attore promettente</E
+M>ma accettando di fare tanta pubblicità televisiva ha finito col bruciarsi</E
+M>bruciarsi politicamente</E
+M>gli avversarî</E
+M>la palla</E
+M>bruciarsi le cervella</E
+M>il paglione</E
+M>il pagliaccio</E
+M>i ponti</E
+M>la scuola</E
+M>le tappe</E
+M>i chilometri</E
+M>essere</E
+M>la legna è bruciata lentamente</E
+M>lo stoppino bruciava fumando</E
+M>c’è qualcosa che brucia?</E
+M>è un petrolio che brucia bene</E
+M>bruciava un pagliaio vicino all’aia</E
+M>quando brucia la casa</E
+M>tutti si scaldano</E
+M>quando brucia il vicinato</E
+M>porta l’acqua a casa tua</E
+M>come brucia questa minestra!</E
+M>non toccare il tegame</E
+M>brucia</E
+M>la fronte gli bruciava dalla febbre</E
+M>mi brucia la gola</E
+M>mi bruciano gli occhi</E
+M>dalla sete</E
+M>ardere</E
+M>dal desiderio</E
+M>di passione</E
+M>Sappiate però che brucio di gioia</E
+M> di allegria Feroce dentro la mia casa buia</E
+M>le sue parole mi bruciavano</E
+M>mi brucia molto il suo rifiuto</E
+M>si vede che quell’insulto gli brucia ancora</E

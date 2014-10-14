@@ -1,0 +1,15 @@
+diplomazia.txt
+"diplomazia"
+"diplomazia"
+"diplomazia"
+"diplomazia di corvetta"
+M>diplomatie</E
+M>diplôme</E
+M>segreta</E
+M>aperta</E
+M>open diplomacy</E
+M>entrare in diplomazia</E
+M>usare d</E
+M>agire</E
+M>parlare</E
+M>procedere con diplomazia</E

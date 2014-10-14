@@ -1,0 +1,42 @@
+legna.txt
+"forno a legna"
+"legna"
+"legna da bruciare"
+"legna, legna da ardere"
+"stufa a legna"
+#* [[andare]] a far [[legna]]
+*[[legname]], [[rami]], [[frasche]], [[fascina]], [[ceppo]], [[ciocco]]
+*[[taglialegna]]
+*[[legno]], [[camino]], [[accetta]], [[ascia]], [[fuoco]]
+M>gna</E
+M>gnum</E
+M>legna da ardere</E
+M>fresca</E
+M>secca</E
+M>verde</E
+M>stagionata</E
+M>grossa</E
+M>minuta</E
+M>un fascio</E
+M>una catasta</E
+M>un carro di legna</E
+M>vendita di legna e carbone</E
+M>stufa</E
+M>forno</E
+M>cucina a legna</E
+M>far legna</E
+M>segare</E
+M>spaccare la l</E
+M>mettere</E
+M>aggiungere legna al fuoco</E
+M>sul fuoco</E
+M>portar legna al bosco</E
+M>Com’è in proverbio</E
+M>ognun corre a far legna All’arbore che il vento in terra getta</E
+M>legne</E
+M>legne che ardon bene</E
+M>un carro di legne</E
+M>non sarà mai vero che un cappuccino vada via da questa casa</E
+M>senza aver gustato del mio vino</E
+M>né un creditore insolente</E
+M>senza aver assaggiate le legna de’ miei boschi</E

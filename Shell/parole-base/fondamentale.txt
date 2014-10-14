@@ -1,0 +1,61 @@
+fondamentale.txt
+"colore fondamentale"
+"colore fondamentale"
+"costituire la causa fondamentale"
+"di importanza fondamentale"
+"elementare, fondamentale"
+"fondamentale"
+"fondamentale, fondamentali"
+"frequenza fondamentale"
+"idea fondamentale"
+"legge basica; fondamentale"
+"punto fondamentale"
+"stato fondamentale"
+"teorema fondamentale del calcolo"
+"unità fondamentale"
+#*''L'appetito è un meccanismo fondamentale che garantisce la nostra sopravvivenza''
+*[[importantissimo]], [[basilare]], [[sostanziale]], [[indispensabile]], [[vitale]], [[necessario]], [[capitale]], [[nodale]], [[insostituibile]], [[insopprimibile]], [[imprescindibile]], [[irrinunciabile]]; [[principale]], [[essenziale]], [[primario]],[[elementare]]
+*[[secondario]], [[accessorio]], [[extra]], [[complementare]], [[integrativo]], [[superfluo]]
+*[[fondamento]], [[fondamentalismo]], [[fondamentalmente]]
+M>fundamentalis</E
+M>nozioni f</E
+M>i principî f</E
+M>le leggi f</E
+M>della fonetica</E
+M>le norme f</E
+M>del vivere sociale</E
+M>i componenti f</E
+M>di un minerale</E
+M>i dogmi</E
+M>le verità</E
+M>gli articoli f</E
+M>di una fede</E
+M>di una religione</E
+M>articoli f</E
+M>colori f</E
+M>grandezze f</E
+M>una questione f</E
+M>un problema f</E
+M>l’aspetto f</E
+M>di una questione</E
+M>di un problema</E
+M>uno studio</E
+M>una scoperta f</E
+M>di f</E
+M>importanza</E
+M>sostanza f</E
+M>sistema f</E
+M>diritti f</E
+M>nota f</E
+M>la f</E
+M>sol</E
+M>sol</E
+M>i fondamentali</E
+M>i f. della pallacanestro</E
+M>del pugilato</E
+M>del calcio</E
+M>il fondamentale</E
+M>una gioventù fondamentalmente sana</E
+M>un calcolo fondamentalmente sbagliato</E
+M>una regione fondamentalmente agricola</E
+M>due punti di vista fondamentalmente diversi</E

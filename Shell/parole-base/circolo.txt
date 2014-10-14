@@ -1,0 +1,83 @@
+circolo.txt
+"circolo"
+"circolo"
+"circolo"
+"circolo"
+"circolo artico"
+"circolo artistico"
+"circolo chiuso"
+"circolo della caccia"
+"circolo di golf"
+"circolo didattico"
+"circolo famigliare"
+"circolo giovanile"
+"circolo interno"
+"circolo letterario"
+"circolo per anziani"
+"circolo polare"
+"circolo ristretto"
+"circolo vizioso"
+#*''Disporsi in circolo attorno al fuoco''
+#*''L'introduzione di aria nel circolo sanguigno può originale morte per [[embolia]].
+#*''Mise in circolo la [[voce]] che Carlo fosse [[omosessuale]]''
+#*''Da quando era pensionato frequentava assiduamente il circolo delle bocce.''
+#*''Fu eletto presidente del II circolo didattico della sua [[città]].''
+*[[circonferenza]]
+*[[circolante]], [[circolare]], [[circolatorio]], [[circolazione]]
+*italiano
+M>circ</E
+M>lus</E
+M>circus</E
+M>circonferenza</E
+M>cerchio</E
+M>tracciare un c</E
+M>col compasso</E
+M>mettersi</E
+M>disporsi in circolo</E
+M>tombe a circolo</E
+M>lo circulo si può dicere perfetto</E
+M>quando in esso è uno punto lo quale equalmente distante sia da la circunferenza</E
+M>armille</E
+M>azimutale</E
+M>meridiano</E
+M>zenitale</E
+M>massimo</E
+M>minore</E
+M>minimo</E
+M>polare</E
+M>polare artico</E
+M>polare antartico</E
+M> rispettivam. nord e sud</E
+M> e le cui proiezioni sulla sfera celeste costituiscono i due c</E
+M>polari celesti</E
+M>vizioso</E
+M>redditio</E
+M>piccolo c</E
+M>grande c</E
+M>portale</E
+M>tattile</E
+M>dei nobili</E
+M>militare</E
+M>sportivo</E
+M>degli scacchi</E
+M>di lettura</E
+M>della stampa</E
+M>repubblicano</E
+M>andare al c</E
+M>c’è una riunione al circolo</E
+M>nei c</E
+M>politici della capitale</E
+M>in alcuni c</E
+M>diplomatici</E
+M>nei c</E
+M>responsabili</E
+M>i c</E
+M>giornalistici</E
+M>nei cosiddetti c</E
+M>meglio informati</E
+M>oggi si tiene c</E
+M>a corte</E
+M>siamo stati invitati a circolo</E
+M>di Corte d’assise</E
+M>ferroviario</E
+M>didattico</E

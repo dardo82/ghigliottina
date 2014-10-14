@@ -1,0 +1,39 @@
+consultare.txt
+"consultare"
+"consultare"
+"consultare, replace: consultarsi"
+*[[interpellare]], [[sentire]], [[esaminare]],  [[consigliarsi]],  [[chiedere]] [[consiglio]],   [[rivolgersi]],   [[guardare]], [[leggere]]
+*[[consulente]], [[consulta]], [[consultarsi]], [[consultazione]], [[consultivo]], [[consulto]], [[consultore]], [[consultorio]]
+*italiano
+*spagnolo
+M>consultare</E
+M>consul</E
+M>consultus</E
+M>il medico</E
+M>un avvocato</E
+M>un perito</E
+M>l’ufficio legale</E
+M>l’assemblea</E
+M>il popolo</E
+M>l’oracolo</E
+M>una chiromante</E
+M>l’oroscopo</E
+M>il proprio cuore</E
+M>la propria coscienza</E
+M>il tempo</E
+M>lo specchio</E
+M>consultarsi con un legale</E
+M>col proprio confessore</E
+M>non fa nulla senza consultarsi con suo padre</E
+M>un codice</E
+M>un catalogo</E
+M>un dizionario</E
+M>l’orario delle ferrovie</E
+M>l’elenco telefonico</E
+M>eleggesse un numero di gentiluomini</E
+M>coi quali consultasse ogni cosa</E
+M>consultarsi</E
+M>ci siamo consultati sul da farsi</E
+M>a pancia piena si consulta meglio</E
+M>le donne</E
+M>si misero a consultar di nuovo</E

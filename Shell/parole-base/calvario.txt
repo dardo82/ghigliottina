@@ -1,0 +1,13 @@
+calvario.txt
+"Calvario"
+"calvario"
+"calvario"
+"croce del calvario"
+M>Calvariae locus</E
+M>Calvarium</E
+M>Golg</E
+M>tha</E
+M>Gòlgota</E
+M>ognuno ha il suo c</E
+M>la sua vita è stata un c</E
+M>salire il c</E

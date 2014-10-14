@@ -1,0 +1,52 @@
+compiere.txt
+"compiere"
+"compiere"
+"compiere gli anni"
+"compiere l'analisi logica"
+"compiere un'incursione"
+"compiere una spedizione militare"
+"fare un miracolo, compiere un miracolo"
+#* '''''ha compiuto''' un'impresa senza precedenti''
+#* ''mia mamma '''compie''' quarant'anni''
+*[[finire]], [[terminare]], [[concludere]], [[ultimare]], [[completare]], [[percorrere]]
+*[[fare]], [[eseguire]], [[attuare]], [[effettuare]], [[realizzare]], [[svolgere]], [[sbrigare]], [[commettere]], [[adempiere]], [[espletare]]
+*[[compiersi]], [[avviare]], [[interrompere]]
+*[[cominciarsi]], [[compimento]] 
+M>compl</E
+M>io cómpio</E
+M>compiéi</E
+M>compìi</E
+M>compire</E
+M>compire</E
+M>compivo</E
+M>compirò</E
+M>compissi</E
+M>compièndo</E
+M>compiuto</E
+M>compire</E
+M>compiere gli anni</E
+M>compio oggi vent’anni</E
+M>mio figlio compirà domani nove mesi</E
+M>ho compiuto le mie ricerche</E
+M>a lavoro compiuto</E
+M>Quand’elli ebbe ’l suo dir così compiuto</E
+M>E compie’ mia giornata inanzi sera</E
+M>ho compiuto la difficile impresa</E
+M>abbiamo compiuto il pericoloso viaggio</E
+M>un lavoro</E
+M>un misfatto</E
+M>la scalata di un monte</E
+M>fare</E
+M>opera di persuasione</E
+M>hai compiuto un’opera buona</E
+M>il cammino</E
+M>il proprio dovere</E
+M>ho compiuto il tuo desiderio</E
+M>Di che stupor dovea esser compiuto!</E
+M>l’impresa si è compiuta felicemente</E
+M>si compiono oggi esattamente dieci anni da allora</E
+M>or compie un anno</E
+M>il processo si compie lentamente</E
+M>il mio desiderio finalmente si è compiuto</E
+M>si è compiuta la profezia</E
+M>si è compiuto quanto avevo predetto</E

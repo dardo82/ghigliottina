@@ -1,0 +1,23 @@
+contante.txt
+"contante"
+"contante"
+"denaro contante"
+*[[denaro]], [[liquido]]
+M>contare</E
+M>Denaro c</E
+M>moneta c</E
+M>soldi c</E
+M>contanti</E
+M>comprare</E
+M>pagare</E
+M>vendere in contanti</E
+M>per contanti</E
+M>ha tutto il suo patrimonio in contanti</E
+M>questo chiamava un comprarsi gl’impicci a contanti</E
+M>contante</E
+M>avere bisogno di contante</E
+M>dare</E
+M>spacciare</E
+M>prendere una cosa per contante</E
+M>vendita a contanti</E
+M>contanti a giorni</E

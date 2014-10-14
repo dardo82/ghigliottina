@@ -1,0 +1,12 @@
+asciugacapelli.txt
+"asciugacapelli"
+"asciugacapelli, phon"
+"asciugacapelli; fon"
+"asciugato con asciugacapelli"
+"phon, asciugacapelli"
+"phon, asciugacapelli"
+*[[fon]]
+M>asciugare</E
+M>capelli</E
+M>fon</E
+M>Föhn</E

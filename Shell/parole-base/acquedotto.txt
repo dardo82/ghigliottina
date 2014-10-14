@@ -1,0 +1,15 @@
+acquedotto.txt
+"acquedotto"
+#* ''resti di un antico '''acquedotto''' romano''
+*[[acquidotto]]
+M>aquaed</E
+M>ctus</E
+M>aquae ductus</E
+M>servitù d’a</E
+M>la costruzione di un nuovo a</E
+M>i ruderi degli antichi a</E
+M>romani</E
+M>della chiocciola</E
+M>del vestibolo</E
+M>di Falloppio</E
+M>di Silvio</E

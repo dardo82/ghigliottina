@@ -1,0 +1,112 @@
+battaglia.txt
+"bandiera da battaglia"
+"battaglia"
+"battaglia"
+"battaglia campale"
+"battaglia conclusiva"
+"battaglia di cuscini"
+"battaglia navale"
+"battaglia per la vita o la morte"
+"battaglia persa"
+"campo di battaglia"
+"campo di battaglia"
+"campo di battaglia"
+"Cavallo di battaglia"
+"combattere una battaglia persa"
+"Da battaglia"
+"dare battaglia"
+"dare battaglia contro"
+"fronte di battaglia"
+"fronte, fronte di battaglia"
+"gioco di battaglia"
+"grido di battaglia"
+"grido di battaglia"
+"impegnar battaglia"
+"inno di battaglia"
+"la battaglia infuria"
+"linea di battaglia"
+"luogo della battaglia finale tra le forze del bene e quelle del male (Bibbia)"
+"nome di battaglia"
+"ordine di battaglia"
+"postazioni di battaglia"
+"scendere in battaglia"
+"segnato dalla battaglia\/dalla vita"
+"sito della battaglia"
+"una battaglia finta"
+"vincere la battaglia"
+#* '' stasera giochiamo a 
+* [[battagliante]], [[battagliare]], [[battagliatore]], [[battagliere]], [[battaglieresco]], [[battagliero]], [[battaglievole]]
+*[[guerra]]
+M>battalia</E
+M>battualia</E
+M>batt</E
+M>terrestre</E
+M>navale</E
+M>aerea</E
+M>aeronavale</E
+M>nave da b.</E
+M>campale</E
+M>è stata una b. campale</E
+M>difensiva</E
+M>d’incontro</E
+M>generale</E
+M>decisiva</E
+M>aspra</E
+M>accanita</E
+M>sanguinosa</E
+M>campo di b</E
+M>la stanza era tutta in disordine</E
+M>sembrava un campo di b</E
+M>fronte di b</E
+M>ordine di b</E
+M>sfidare</E
+M>provocare a b</E
+M>dare</E
+M>muovere</E
+M>attaccare b</E
+M>impegnare</E
+M>ingaggiare b</E
+M>venire a b</E
+M>entrare in b</E
+M>la b</E
+M>s’accende</E
+M>si riaccende</E
+M>ferve la b</E
+M>sostenere</E
+M>vincere</E
+M>perdere una b</E
+M>morire in b.</E
+M>vincere il nemico in b</E
+M>finta b</E
+M>di partiti</E
+M>si prevede b</E
+M>alla Camera</E
+M>elettorale</E
+M>dare b</E
+M>nome di b</E
+M>d’interessi</E
+M> di affetti</E
+M>di passioni</E
+M>il dì che la battaglia D’amor sentii la prima volta</E
+M>b. contro il fumo</E
+M>la droga</E
+M>la b. degli animalisti contro la caccia alle balene</E
+M>del grano</E
+M>della lira</E
+M>per l’autarchia</E
+M>della palude</E
+M>Cavallo di b</E
+M>Da battaglia</E
+M>da strapazzo</E
+M>un giaccone</E
+M>un soprabito</E
+M>un paio di scarponi da b</E
+M>è una specie di autofurgone</E
+M>che adopero come vettura da b</E
+M>quando andiamo in montagna</E
+M>sfidò a singolar b</E
+M>per pubblici cartelli chiunque l’infamava di tal fatto</E
+M>le fanterie spagnole si affrontorono con le b</E
+M>todesche</E
+M>pittura di battaglie</E
+M>una battaglia</E

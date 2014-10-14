@@ -1,0 +1,31 @@
+calza.txt
+"calza"
+"calza"
+"calza della befana"
+"fare la calza"
+"ferro da calza"
+*[[collant]]
+* [[calzare]], [[calzascarpe]]
+M>calcea</E
+M>calx calcis</E
+M>calze di filo</E
+M>di cotone</E
+M>di lana</E
+M>di nailon</E
+M>calze da donna</E
+M>da uomo</E
+M>corte</E
+M>calzini</E
+M>lunghe</E
+M>mettersi</E
+M>infilarsi</E
+M>tirarsi su le c</E
+M>fermare le c</E
+M>con l’elastico</E
+M>con le giarrettiere</E
+M>fare la c</E
+M>ferri da c.</E
+M>la c</E
+M>della Befana</E
+M>elastiche</E
+M>schermante</E

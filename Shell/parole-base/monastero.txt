@@ -1,0 +1,12 @@
+monastero.txt
+"monastero"
+#*''il giovane monaco ritornò al '''monastero'''''
+* (''comunità di religiosi'') [[convento]], [[chiostro]], [[abbazia]], [[badia]], [[cenobio]], [[eremo]]
+*(''di monaci'') [[comunità]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1298
+M>monasterium</E
+M>abbazia</E
+M>convento</E
+M>indù</E
+M>buddista</E
+M>olivetano</E

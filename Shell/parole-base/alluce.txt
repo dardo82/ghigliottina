@@ -1,0 +1,6 @@
+alluce.txt
+"alluce"
+*[[prealluce]]
+M>allux</E
+M>allus</E
+M>allex</E

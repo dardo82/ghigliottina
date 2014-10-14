@@ -1,0 +1,211 @@
+pensiero.txt
+"basta il pensiero"
+"che pensiero carino!"
+"chi legge nel pensiero"
+"controllo del pensiero"
+"corrente di pensiero"
+"è il pensiero che conta"
+"è solo un pensiero!"
+"grazie del pensiero"
+"il pensiero critico"
+"leggere nel pensiero..."
+"lettore del pensiero"
+"libero pensiero"
+"manifestazione del pensiero"
+"nuovo pensiero"
+"pensiero"
+"pensiero"
+"pensiero"
+"pensiero"
+"pensiero"
+"pensiero"
+"pensiero affettuoso"
+"pensiero astratto"
+"pensiero creativo"
+"pensiero critico"
+"pensiero felice"
+"pensiero fisso"
+"pensiero laterale"
+"pensiero libero"
+"pensiero logico"
+"pensiero profondo"
+"pensiero unico"
+"potenza del pensiero"
+"scuola di pensiero"
+"viola del pensiero"
+#* ''il tuo 
+#* ''tratteremo i fondamenti filosofici del 
+#* ''possiamo leggere nel suo 
+#* ''ecco una raccolta di '''pensieri''' di Proust''
+#* ''il mio primo 
+#* ''scusa, ma ho dei '''pensieri'''''
+#* ''ti ho fatto un 
+#* ''ti ho portato un '''pensierino'''''
+*[[mente]], [[intelletto]], [[intelligenza]], [[immaginazione]], [[spirito]]
+*[[idea]], [[concetto]], [[riflessione]], [[meditazione]], [[osservazione]], [[considerazione]], [[giudizio]]
+*[[ opinione]], [[parere]], [[convincimento]]; [[teoria]], [[concezione]], [[dottrina]]
+*[[intenzione]], [[proposito]], [[proponimento]], [[progetto]], [[disegno]]
+*[[detto]], [[aforisma]], [[motto,]] [[frase]], [[massima]], [[sentenza]]
+*''(attività di pensare)'' [[filosofia]], 
+*[[preoccupazione]], [[ansia]], [[inquietudine]], [[timore]], [[angoscia]], [[assillo]], [[incubo]], [[angoscia]],   [[cura]],  [[problema]]
+*[[azione]], [[atto]], [[gesto]], [[impresa]]
+*[[disinteresse]], [[indifferenza]], [[menefreghismo]]
+*[[impensierire]], [[pensierosità]], [[pensieroso]], [[pensare]], [[pensatoio]], [[pensatore]],[[spensierato]],[[spensieratezza]]
+*[[cervello]],  [[concentrazione]], [[mente]]
+* ''farci un 
+* ''fare qualcosa alla velocità del 
+* ''leggere nel 
+* ''essere nei '''pensieri''' di qualcuno'' 
+* ''dare dei '''pensieri''' a qualcuno'' (anche ''dare da pensare a qualcuno'') 
+* ''libertà di '' 
+* ''uomo di 
+* ''fare cattivi '''pensieri''''' 
+M>pensier</E
+M>pensare</E
+M>lo pensiero è proprio atto de la ragione</E
+M>perché le bestie non pensano</E
+M>che non l&#8217;hanno</E
+M>veloce</E
+M>rapido come il p</E
+M>volare sulle ali del p</E
+M>mente</E
+M>riandare col p</E
+M>a qualcosa</E
+M>volgere</E
+M>rivolgere il p</E
+M>a qualcuno</E
+M>fermare il p</E
+M>su qualcosa</E
+M>leggere nel p</E
+M>di qualcuno</E
+M>intenzione</E
+M>immaginazione</E
+M>non l&#8217;ho tradita nemmeno col p</E
+M>lo rivedo col pensiero</E
+M>razionale</E
+M>intuitivo</E
+M>creativo</E
+M>disturbi del p</E
+M>il p</E
+M>e l&#8217;azione</E
+M>una condizione politica in cui manca</E
+M>che nega</E
+M>che combatte</E
+M>la libertà di pensiero</E
+M>libertà di manifestazione del p</E
+M>un uomo di pensiero</E
+M>un libro denso</E
+M>ricco di pensiero</E
+M>un articolo povero di pensiero</E
+M>senza vigore di pensiero</E
+M>corrente</E
+M>orientamento</E
+M>indirizzo di pensiero</E
+M>il p</E
+M>degli antichi Greci</E
+M>il p</E
+M>filosofico di Platone</E
+M>il p</E
+M>del Vico</E
+M>il p</E
+M>politico di Mazzini</E
+M>il p</E
+M>degli illuministi</E
+M>dei fisiocratici</E
+M>la teoria dell&#8217;accumulazione capitalistica nel p</E
+M>di Marx</E
+M>il p</E
+M>di un partito su determinati problemi</E
+M>il p</E
+M>della Chiesa in merito al divorzio</E
+M>debole</E
+M>idea</E
+M>Ché sempre l&#8217;omo in cui pensier rampolla Sovra pensier</E
+M>da sé dilunga il segno</E
+M>Di pensier in pensier</E
+M>di monte in monte Mi guida Amor</E
+M>rivolgendo in sé quel che far deggia</E
+M>In gran tempesta di pensieri ondeggia</E
+M>era tutto assorto nei suoi p</E
+M>cercai di raccogliere</E
+M>di riordinare i miei p</E
+M>è un amico che conosce i miei p</E
+M>più segreti</E
+M>non riesce ad allontanare da sé quel p</E
+M>lo atterrisce il p</E
+M>della morte</E
+M>è spaventato dal p</E
+M>del futuro</E
+M>il mio p</E
+M>corre sempre a te</E
+M>sei in cima ai miei p</E
+M>rivolgiamo un p</E
+M>alla memoria di nostro padre</E
+M>Salve</E
+M>Zacinto! all&#8217;antenoree prode</E
+M>darò i carmi e l&#8217;ossa E a te il pensier</E
+M>avere un p</E
+M>dei p</E
+M>per qualcuno</E
+M>è sempre pieno di pensieri per tutti</E
+M>non ha mai un p</E
+M>per sua madre</E
+M>è stato un p</E
+M>gentile venire a trovarmi</E
+M>ti ho portato un piccolo p</E
+M>voglia gradire questo modesto p</E
+M>grazie del p</E
+M>è solo un p</E
+M>essere</E
+M>stare in pensiero per qualcuno</E
+M>quando arrivi telefonami</E
+M>altrimenti sto in p</E
+M>darsi</E
+M>prendersi</E
+M>per</E
+M>qualcosa</E
+M>non si dia p</E
+M>per il pagamento</E
+M>ci metteremo d&#8217;accordo</E
+M>quanto alla cattura</E
+M>non è cosa da prendersene gran pensiero</E
+M>non può vivere tranquillo</E
+M>ha troppi p</E
+M>ho altri p</E
+M>per la testa</E
+M>il figlio gli dà molti p</E
+M>beato te che non hai un p</E
+M>al mondo</E
+M>vivere senza pensieri</E
+M>aveva in mente di andare in montagna</E
+M>ma poi ha cambiato p</E
+M>il mio primo p</E
+M>è stato di ricorrere a voi</E
+M>avevo un mezzo p</E
+M>di venirti a trovare dopo cena</E
+M>vorrei conoscere il tuo p</E
+M>sull&#8217;argomento</E
+M>esprimere il proprio pensiero</E
+M>l&#8217;autore ha reso efficacemente il suo p</E
+M>tradurre il p</E
+M>in parole</E
+M>in suoni</E
+M>è un p</E
+M>interessante</E
+M>che merita di essere sviluppato</E
+M>intendere</E
+M>penetrare il p</E
+M>di un artista</E
+M>tradire il proprio p</E
+M>le parole hanno tradito il mio p</E
+M>tradire il p</E
+M>dell&#8217;autore</E
+M>mi ha scritto un p</E
+M>sull&#8217;album</E
+M>pensieri sulla storia</E
+M>sull&#8217;educazione</E
+M>i p</E
+M>di Leopardi</E
+M>di Pascal</E
+M>i &#171;Pensieri e discorsi&#187; del Pascoli</E
+M>Viola del pensiero</E

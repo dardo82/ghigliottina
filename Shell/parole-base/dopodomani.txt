@@ -1,0 +1,9 @@
+dopodomani.txt
+"dopodomani"
+"dopodomani"
+* [[domani]], [[oggi]],  [[ieri]],  [[l'altro ieri]]
+M>dopo</E
+M>domani</E
+M>addio</E
+M>a d</E
+M>ritornerò dopodomani</E

@@ -1,0 +1,35 @@
+intatto.txt
+"conservare intatto"
+"intatto"
+#*''il cibo è intatto''
+*[[integro]], [[inalterato]], [[incolume]], [[indenne]], [[intonso]]
+*''(di opinioni)'' [[immutato]], [[inalterato]], [[fermo]] 
+*''(etica)'' [[puro]], [[incorrotto]], [[integro]], [[inviolato]], [[immacolato]], [[illibato]] 
+*'' (topografia)'' [[inviolato]], [[inesplorato]] 
+*[[manomesso]], [[sciupato]], [[danneggiato]], [[guastato]], [[usato]], [[consunto]], [[consumato]], [[menomato]], [[a pezzi]], [[rotto]], [[rovinato]], [[distrutto]]
+*''(etica)'' [[macchiato]], [[violato]]  
+*[[intero]],  [[illeso]]
+M>intactus</E
+M>tactus</E
+M>tang</E
+M>Vinceano di candor le nievi i</E
+M>terra i</E
+M>dall’aratro</E
+M>bosco i</E
+M>dall’ascia</E
+M>la bottiglia è ancora i</E
+M>il bombardamento non ha lasciato nessun edificio i</E
+M>il cadavere fu trovato i</E
+M>fra le macerie</E
+M>i sigilli del plico sembravano i</E
+M>le forze nemiche erano ancora i</E
+M>il patrimonio deve restare intatto</E
+M>i nostri diritti restano i</E
+M>il principio va mantenuto i</E
+M>lasciare i</E
+M>una questione</E
+M>Per te la zona timide L’intatte spose sciolgono</E
+M>una coscienza i</E
+M>serbare i</E
+M>la fama</E
+M>il suo onore è intatto</E

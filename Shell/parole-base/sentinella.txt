@@ -1,0 +1,17 @@
+sentinella.txt
+"sentinella"
+*''[[essere di sentinella]]''
+M>sentire</E
+M>poco dopo mezzanotte la s. riaprì la porta dello stanzone</E
+M> ma non chiamò nessun nome</E
+M>all&#8217;ingresso delle caserme c&#8217;è sempre una s.</E
+M>dare il cambio alle s.</E
+M>il turno delle s. è normalmente di due ore</E
+M>raddoppiare le s.</E
+M>fare la s.</E
+M>mettere un soldato di s.</E
+M>essere di s. al campo</E
+M>m&#8217;hai lasciato qui sotto più di un&#8217;ora a far la s.!</E
+M>quel tale se ne sta lì di s. da stamattina.</E
+M>Passo della S.</E
+M>S. sottomarina</E

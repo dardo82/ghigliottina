@@ -1,0 +1,42 @@
+individuo.txt
+"individuo"
+"individuo"
+"individuo"
+"individuo arrendevole"
+"individuo che rompe tutto"
+"individuo dedito alle attività all'aperto"
+"individuo del sud degli USA"
+"individuo piccolo e tozzo (dal personaggio di alice nel paese delle meraviglie)"
+"individuo più piccolo di un gruppo"
+"individuo spregevole"
+"l'individuo"
+"spiacevole individuo"
+*[[singolo]], [[uomo]], [[persona]], [[soggetto]], [[figura]], [[creatura]], [[esemplare]], [[unità]]
+* [[sconosciuto]]  
+*[[individuale]],  [[individualismo]],  [[individualità]],  [[individualizzare]],  [[individualmente]],  [[individuare]], [[individuazione]]
+*[[personaggio]]
+*Devoto/Oli, '' il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1029
+M>individuus</E
+M>dividuus</E
+M>questa santa e i</E
+M>Trinità</E
+M>unità individua</E
+M>l’esistenza i</E
+M>le opinioni i</E
+M>i privilegi individui</E
+M>il numero dei nati in un anno su mille i</E
+M>non si può recare offesa all’i</E
+M>senza offendere la società stessa</E
+M>difendere</E
+M>garantire in seno alla società i diritti dell’individuo</E
+M>c’è un i</E
+M>che ti cerca</E
+M>chi è quell’i.?</E
+M>un i. sospetto</E
+M>pericoloso</E
+M>un losco individuo</E
+M>ogni lingua costituisce un i</E
+M>storico</E
+M>cristallino</E
+"name": "Dingus, quello sporco individuo"
+"name": "Individuo"

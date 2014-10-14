@@ -1,0 +1,40 @@
+contatore.txt
+"contatore"
+"contatore"
+"contatore del gas"
+"contatore dell'elettricità"
+"contatore di monete"
+"contatore di particelle"
+"contatore elettrico"
+"contatore elettrico"
+"contatore elettronico"
+"contatore geiger"
+"contatore Geiger"
+"contatore per acqua"
+"contatore proporzionale"
+"lettura del contatore"
+M>trice</E
+M>sei un c</E
+M>poco abile</E
+M>di frottole</E
+M>di favole</E
+M>meccanico</E
+M>elettromeccanico</E
+M>elettronico</E
+M>di particelle</E
+M>a ionizzazione</E
+M>di Geiger a punta</E
+M>a semiconduttori</E
+M>a scintillazione</E
+M>telefonico</E
+M>d’acqua a velocità</E
+M>d’acqua a volume</E
+M>di gas ad acqua</E
+M>di gas a secco</E
+M>di energia elettrica</E
+M>elettrico</E
+M>a pendolo</E
+M>Aron</E
+M>elettrodinamico</E
+M>Thompson</E
+M>a induzione</E

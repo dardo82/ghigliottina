@@ -1,0 +1,72 @@
+maschio.txt
+"animale maschio"
+"cigno maschio"
+"erede (maschio) al trono"
+"gatto maschio"
+"maschio"
+"maschio"
+"maschio"
+"individuo maschio"
+"maschio"
+"pronipote maschio"
+"pronipote maschio (di nonni)"
+#*''Federico ha un unico nipote maschio''
+*[[maschile]]
+*[[bambino]], [[ragazzo]], [[uomo]]
+*''(tecnica)'' [[filettatrice]]
+*''(meccanica)'' [[vite]]
+*[[fortezza]], [[roccaforte]], [[torrione]]
+*[[femminile]]
+*[[bambina]], [[ragazza]], [[donna]]
+* [[femmina]]
+*Giuseppe Pittano, ''Il mio primo dizionario di italiano illustrato'', edizione 1995, p.316, DeAgostini
+M>masc</E
+M>lus</E
+M>mas</E
+M>due fratelli maschi</E
+M>salute e figli maschi!</E
+M>la m</E
+M>progenie</E
+M>ha due figli</E
+M>un m</E
+M>e una femmina</E
+M>aspettare un m</E
+M>festeggiare la nascita del m</E
+M>le è nato un bel m</E
+M>un bel m</E
+M>l’ultimo nato della capra è un m</E
+M>il m</E
+M>della lepre</E
+M>della tigre</E
+M>una pantera maschio</E
+M>aquila maschio e femmina</E
+M>due lepri maschio</E
+M>aspetto m</E
+M>voce m</E
+M>figura</E
+M>colui dal m</E
+M>naso</E
+M>donne con certe facce maschie</E
+M>carattere m</E
+M>decisioni</E
+M>stile</E
+M>eloquenza</E
+M>felce maschio</E
+M>felce femmina</E
+M>canapa maschio</E
+M>sughero m</E
+M>sugherone</E
+M>finocchio m</E
+M>femmina</E
+M>unire due elementi a m</E
+M>e femmina</E
+M>maschiatrice</E
+M>sbozzatore</E
+M>intermedio</E
+M>finitore</E
+M>astragalico</E
+M>dongione</E
+M>il Maschio Angioino</E
+M>il Mastio di Volterra</E
+M>maschiòtta</E
+M>maschióna</E

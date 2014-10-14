@@ -1,0 +1,119 @@
+nastro.txt
+"levigatrice a nastro"
+"metro a nastro"
+"nastro"
+"nastro"
+"nastro adesivo"
+"nastro adesivo"
+"nastro adesivo"
+"nastro adesivo"
+"nastro azzurro"
+"nastro azzurro"
+"Nastro Azzurro"
+"Nastro Azzurro"
+"nastro chirurgico"
+"nastro di carta"
+"nastro di plastica"
+"nastro di telescrivente"
+"nastro isolante"
+"nastro magnetico"
+"nastro magnetico"
+"nastro magnetico"
+"nastro magnetico"
+"nastro originale"
+"nastro per macchina da scrivere"
+"nastro rosso"
+"nastro sigillante"
+"nastro trasportatore"
+"registrazione su nastro"
+"registrazione su nastro"
+"scotch, nastro adesivo"
+"sega a nastro"
+"taglio del nastro"
+*[[fettuccia]]
+M>*nastil</E
+M>un metro</E
+M>un pezzo di n</E
+M>orlare</E
+M>guarnire con un n</E
+M>pacchetto legato con un n</E
+M>il n</E
+M>del cappello</E
+M>bianco</E
+M>rosa</E
+M>celeste</E
+M>di lutto</E
+M>elastico</E
+M>Gioco dei n</E
+M>tiremmolla</E
+M>avere</E
+M>ottenere il n</E
+M>azzurro</E
+M>un n</E
+M>azzurro</E
+M>blue ribbon</E
+M>d’argento</E
+M>di partenza</E
+M>nastro</E
+M>nastri</E
+M>nastri</E
+M>allinearsi ai n</E
+M>non presentarsi ai n</E
+M>cento corridori</E
+M>dieci squadre ai n</E
+M>inaugurale</E
+M>tagliare il n</E
+M>adesivo</E
+M>autoadesivo</E
+M>a doppio adesivo</E
+M>biadesivi</E
+M>caricatore</E
+M>caricatore a n</E
+M>portacartucce</E
+M>centimetrato</E
+M>metrico</E
+M>rotella metrica</E
+M>dattilografico</E
+M>isolante</E
+M>metallico</E
+M>magnetico</E
+M>registratori a nastro</E
+M>a bobina</E
+M>a cassetta</E
+M>magnetico</E
+M>perforato</E
+M>banda perforata</E
+M>di celluloide</E
+M>d’arrivo</E
+M>di partenza</E
+M>coda iniziale</E
+M>coda finale</E
+M>n. di preparazione alla tessitura</E
+M>lemnisco</E
+M>di I. Ch. Reil</E
+M>ràil</E
+M>nastroni</E
+M>nastrini</E
+M>tenia</E
+M>a nastro</E
+M>freno a n</E
+M>microfono a n</E
+M>sega</E
+M>segatrice a n</E
+M>trasportatore a n</E
+M>trasportatore</E
+M>divaricatore a n</E
+M>di L</E
+M>Farabeuf</E
+M>finestre a n.</E
+M>n. di F</E
+M>Parham</E
+M>di Möbius</E
+M>öbius</E
+M>si vedeva nella valle il n</E
+M>argenteo del fiume</E
+M>il n</E
+M>bianco della strada</E
+M>da quassù i tigli del viale sembrano piccoli</E
+M> per la distanza</E
+M> nascondono lo stretto n. d’asfalto: quasi non si vedono le automobili</E

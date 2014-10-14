@@ -1,0 +1,53 @@
+desiderare.txt
+"bramare qcs, desiderare qcs"
+"bramare, desiderare, ambire"
+"desiderare"
+"desiderare"
+"desiderare"
+"desiderare ardentemente"
+"desiderare di"
+"desiderare di"
+"desiderare qualcosa"
+"desiderare, volere moltissimo"
+"lasciare a desiderare"
+"lasciare molto a desiderare"
+"molto a desiderare"
+* [[volere]], [[desiare]]
+* [[desiderabile]],  [[desiderata]],  [[desiderativo]],  [[desiderio]]
+M>desiderare</E
+M>considerare</E
+M>io desìdero</E
+M>una buona bistecca</E
+M>un bicchiere di vino</E
+M>desidero parlarti</E
+M>desidero restare solo</E
+M>desidero di restare solo</E
+M>desidero di non essere disturbato</E
+M>desiderava ardentemente di rivedere la famiglia</E
+M>desiderava che nevicasse</E
+M>un figlio</E
+M>una donna</E
+M>un uomo</E
+M>non d</E
+M>la roba d’altri</E
+M>non d</E
+M>la donna d’altri</E
+M>farsi d</E
+M>quanto ti fai desiderare!</E
+M>lasciare a d</E
+M>la commedia lasciava molto a d</E
+M>il tuo scritto lascia parecchio a d</E
+M>per la forma</E
+M>quanto a puntualità</E
+M>lascia molto a d</E
+M>non lasciar nulla a d</E
+M>è un servizio che non lascia nulla a desiderare</E
+M>desidero da tempo un po’ di pace</E
+M>un po’ di tranquillità</E
+M>non ha più nulla da d</E
+M>la terra è arida e desidera la pioggia</E
+M>chi mi desidera?</E
+M>sei desiderato al telefono</E
+M>desideriamo vostre notizie</E
+M>si desiderano ulteriori chiarimenti in proposito</E
+M>desidera?</E

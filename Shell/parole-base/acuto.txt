@@ -1,0 +1,91 @@
+acuto.txt
+"accento acuto"
+"acuto"
+"acuto"
+"acuto"
+"acuto"
+"acuto"
+"alto, acuto"
+"angolo acuto"
+"arco a sesto acuto"
+"dall'occhio acuto"
+"di tono acuto"
+"di tono acuto"
+"dolore acuto"
+"dolore acuto"
+"dolore acuto"
+"dolore acuto"
+"emettere suono acuto"
+"fare un rumore acuto"
+"occhio acuto, sveglio"
+"sagace, acuto"
+"sguardo attento, acuto"
+"strillo acuto"
+"suono acuto"
+"suono acuto (bip)"
+#*''Lo spigolo era molto '''acuto''' e colpirlo mi ha procurato un grande dolore!'' 
+#*''In ogni triangolo retto, due angoli sono '''acuti'''.''
+#*''Ha fatto delle considerazioni molto '''acute'''.''
+#*''Provavo un''''acuto''' dolore''
+#*''Sentii un suono molto acuto''
+#*''Terminò la canzone con un formidabile '''acuto'''.''
+* [[appuntito]], [[pungente]], [[aguzzo]], [[acuminato]]
+*[[spuntato]], [[arrotondato]], [[smussato]]
+*''fase acuta''
+M>tus</E
+M>acu</E
+M>Con una spada lucida e aguta</E
+M>d’acuti strali Ambe carche le mani</E
+M>l’ombra lunga ed a</E
+M>del campanile</E
+M>monte A</E
+M>angolo a</E
+M>arco a</E
+M>a sesto a</E
+M>vista a</E
+M>occhio a</E
+M>mente a</E
+M>ingegno a</E
+M>persona a</E
+M>discorso a</E
+M>critica a</E
+M>osservazione a</E
+M>odore a</E
+M>freddo a</E
+M>un dolore a</E
+M>un a</E
+M>grido</E
+M>un fischio acutissimo</E
+M>suoni a</E
+M>gravi</E
+M>suoni a</E
+M>note a</E
+M>attaccare</E
+M>intonare</E
+M>fare un a</E
+M>prender bene gli a</E
+M>spesso muta corda</E
+M>e varia suono</E
+M>Ricercando ora il grave</E
+M>ora l’a</E
+M>febbre a</E
+M>Per febbre aguta gittan tanto leppo</E
+M>fase a</E
+M>la tensione tra le due opposte fazioni si faceva di giorno in giorno più acuta</E
+M>desiderio a</E
+M>voglia a</E
+M>Li miei compagni fec’io sì aguti</E
+M>Con questa orazion picciola</E
+M>al cammino</E
+M>Che a pena poscia li avrei ritenuti</E
+M>accento a</E
+M>védovo</E
+M>córrere</E
+M>été</E
+M>balía</E
+M>circúito</E
+M>pungere acutamente</E
+M>gridare acutamente</E
+M>scorgere</E
+M>osservare acutamente</E
+M>soffrire acutamente</E

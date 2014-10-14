@@ -1,0 +1,49 @@
+ignorante.txt
+"essere ignorante"
+"ignorante"
+"ignorante"
+"ignorante"
+"ignorante"
+"ignorante come una capra"
+"ignorante, asino, somaro"
+"in modo ignorante"
+*[[ analfabeta]], [[illetterato]]
+*[[incompetente]], [[profano]]
+*[[maleducato]], [[arrogante]], [[villano]], [[zotico]]
+*[[digiuno]], [[incolto]], [[impreparato]], [[inesperto]], [[incapace]]
+*[[dotto]], [[erudito]]
+*[[competente]], [[esperto]]
+*[[educato]]
+*[[ferrato]]
+M>ignorans</E
+M>antis</E
+M>ignorare</E
+M>essere i</E
+M>di chimica</E
+M>di grammatica</E
+M>in fatto di musica moderna sono completamente ignorante</E
+M>era ancora i</E
+M>dell’accaduto</E
+M>ignaro</E
+M>impiegato</E
+M>maestro</E
+M>medico ignorante</E
+M>gente i</E
+M>popolazioni barbare e i</E
+M>istruire gli i</E
+M>va perdonato perché è un ignorante</E
+M>non fare caso alle sue parole</E
+M>è un povero i</E
+M>la superbia degli ignoranti</E
+M>quanto sei i</E
+M>è un’azione da i</E
+M>sei una i</E
+M>se parli così</E
+M>taci</E
+M>i.!</E
+M>lei è un i</E
+M>un idiota!</E
+M>ignorantelli</E
+M>ha confuso ignorantemente la «sauna» con la «fauna»</E
+M>rispondere</E
+M>comportarsi ignorantemente</E

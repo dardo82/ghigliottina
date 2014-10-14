@@ -1,0 +1,97 @@
+ancora.txt
+"all'ancora"
+"ancora"
+"ancora"
+"ancora"
+"ancora"
+"ancora"
+"ancora a lungo"
+"ancora di salvezza"
+"ancora di salvezza"
+"ancora esistente"
+"ancora per molto tempo."
+"ancora per poco"
+"ancora per un po'"
+"ancora prima"
+"ancora una volta"
+"ancora una volta"
+"ancora una volta"
+"ancora una volta"
+"ancora una volta"
+"ancora una volta"
+"ancora una volta"
+"ancora una volta"
+"ancora uno"
+"ancora, di nuovo"
+"avere ancora la bocca sporca di latte"
+"averne ancora per molto"
+"catena dell'ancora"
+"catena di ancora"
+"essere ancora qui"
+"fagiolo verde (che si mangia quando non è ancora maturo)"
+"gettare l'ancora"
+"grazie ancora"
+"il bello deve ancora venire"
+"il meglio deve ancora arrivare"
+"la corsa è ancora aperta"
+"la strada è ancora lunga"
+"meglio ancora se"
+"mentre ancora"
+"molto altro ancora"
+"non ancora"
+"non ancora"
+"non essere ancora guarito del tutto"
+"non siamo ancora a tanto"
+"più e più volte ancora"
+"un capitolo ancora tutto da scrivere"
+#* ''suonala 
+#* ''qui c'è 
+#* ''non sono 
+* ''(voce verbale)'' 
+* anche allora, fino allora
+*anche ora, [[tuttora]], [[attualmente]], a tutto oggi, per il momento, al momento, [[presentemente]], al presente, anche adesso, per ora, [[finora]]
+*[[nuovamente]], [[continuamente]], [[daccapo]], [[dapprincipio]], di nuovo, un’altra volta
+*[[anche]], [[perfino]]
+* in aggiunta, di più
+*[[inoltre]], [[persino]], [[anche]]
+* ''(avverbio)'' [[ancorché]], [[financo]]
+* ''(sostantivo)'' [[ancorare]], [[ancorato]], [[disancorare]], [[ancoraggio]]
+* ''(avverbio)'' ''Chi di una [[donna]] brutta s'innamora, [[lieto]] con essa invecchia e l'ama 
+* ''(sostantivo)'' ''ancora di salvezza''
+* ''(sostantivo)'' ''gettare l'ancora''
+* ''(sostantivo)'' ''levare l'ancora''
+*[[ancra]]
+*italiano
+*occitano
+M>anc</E
+M>con ceppo</E
+M>marra</E
+M>unghia</E
+M>diamante</E
+M>fuso</E
+M>ceppo</E
+M>senza ceppo</E
+M>gettare</E
+M>dare</E
+M>affondare l’a</E
+M>dare fondo all’a</E
+M>la nave diede fondo a un miglio dalla costa</E
+M>essere</E
+M>stare</E
+M>all’a</E
+M>sull’a</E
+M>sulle a</E
+M>sorgere sull’a</E
+M>distendere un’a</E
+M>far fare la testa all’a</E
+M>girare sull’a</E
+M>levare</E
+M>salpare</E
+M>trarre l’a</E
+M>di salvezza</E
+M>tu sei la mia a</E
+M>di salvezza</E
+M>galleggiante</E
+M>di un magnete</E
+M>di un elettromagnete</E
+M>dardi</E

@@ -1,0 +1,36 @@
+armamento.txt
+"armamento"
+"armamento"
+"armamento"
+"armamento"
+"armamento"
+"elicottero con armamento pesante"
+#*''armamento navale'' 
+*[[armi]]
+*[[attrezzi]], [[strumenti]], [[attrezzatura]], [[corredo]], [[apparato]], [[equipaggio]], [[ciurma]]
+M>armamenta</E
+M>gli a</E
+M>affrettare gli a</E
+M>corsa agli a</E
+M>controllo</E
+M>limitazione degli armamenti</E
+M>di un aereo</E
+M>di un impianto elettrico</E
+M>di una linea di trasmissione</E
+M>ferroviario</E
+M>di metropolitane</E
+M>tranviario</E
+M>principale</E
+M>secondario</E
+M>capitano di a</E
+M>in armamento</E
+M>nave in a</E
+M>nave in a</E
+M>ridotto</E
+M>armo</E
+M>di regata</E
+M>della baleniera</E
+M>italiano</E
+M>di linea</E
+M>da carico</E
+M>società di a</E

@@ -1,0 +1,33 @@
+addomesticare.txt
+"addomesticare"
+"addomesticare"
+"addomesticare"
+#* '''''addomesticare''' un popolo barbaro''
+#* '''''addomesticare''' un incontro'' 
+#* '''''addimesticavano''' le menti all' idea di una sommossa generale'' (Manzoni)
+*[[domesticare]]
+*[[addomesticabile]], [[addomesticabilità]], [[addomesticamento]], [[addomesticato]],[[addomesticatore]], [[addomestichevole]], [[addomesticatura]], [[addomestichevolezza]],[[addomesticarsi]]
+*[[domestico]]
+*[[addomestichire]], [[addimesticare]], [[addimestichire]]
+*''addomesticare una persona''
+M>io addomèstico</E
+M>tu addomèstichi</E
+M>gli animali</E
+M>le piante</E
+M>un terreno</E
+M>un cane</E
+M>un gatto</E
+M>una persona</E
+M>a. un ragazzo ribelle</E
+M>prova ad addomesticarlo allo studio, se ci riesci</E
+M>addomesticarsi con uno</E
+M>con una cosa</E
+M>m’ero presto addomesticato con la gente del paese</E
+M>addomesticarsi con una lingua</E
+M>animali addomesticati</E
+M>un burbero ormai addomesticato</E
+M>un giornale addomesticato</E
+M>elezioni addomesticate</E
+M>un concorso addomesticato</E
+M>incontro addomesticato</E
+M>truccato</E

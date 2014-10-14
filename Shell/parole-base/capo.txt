@@ -1,0 +1,327 @@
+capo.txt
+"alla cui guida, con a capo"
+"alla testa di, al comando di, a capo di"
+"andare a capo"
+"capitare tra capo e collo"
+"capo"
+"capo"
+"capo"
+"capo"
+"capo"
+"capo"
+"capo bibliotecario"
+"capo cantiere"
+"capo classe"
+"capo cuoco"
+"capo dei giurati"
+"capo dei vigili del fuoco"
+"capo del partito"
+"capo delegazione"
+"capo della manutenzione"
+"capo della polizia"
+"capo della polizia"
+"capo di abbigliamento"
+"capo di stato"
+"capo di stato"
+"capo di stato maggiore"
+"capo distrettuale"
+"capo famiglia"
+"capo gruppo"
+"capo guardiano"
+"capo lista"
+"capo nato"
+"capo partita"
+"capo redattore"
+"capo redazione"
+"capo sala"
+"capo scalo"
+"capo scout"
+"capo servizio"
+"capo settore"
+"capo spalla"
+"capo spirituale"
+"capo tecnico"
+"capo turno"
+"capo ufficio"
+"che orna il capo"
+"chinare il capo, andare a testa bassa"
+"comandare, fare il capo, essere il capo"
+"console capo di"
+"cospargersi il capo di cenere"
+"da capo a piedi"
+"da capo a piedi"
+"da capo a tredici"
+"da un capo all'altro"
+"da un capo all'altro della nave"
+"dall'inizio alla fine, da capo a piedi"
+"essere a capo; dirigere"
+"far capo"
+"fare cenno con il capo"
+"fare una lavata di capo"
+"Grande Capo"
+"grande capo"
+"il capo"
+"il Capo"
+"in capo"
+"in capo a"
+"in capo al mondo"
+"ingegnere capo"
+"lavata di capo"
+"maresciallo capo"
+"non avere né capo né coda"
+"punto e a capo"
+"rabbino capo"
+"redattore capo"
+"redattore capo"
+"redattori capo"
+"responsabile capo"
+"senza capo"
+"sgridare qc, dare una lavata di capo a qc, fare una ramanzina a qc, dare una strigliata a qc"
+"sgridare qc, dare una lavata di capo a qc, fare una ramanzina a qc, dare una strigliata a qc"
+"sgridare qc, dare una lavata di capo a qc, fare una ramanzina a qc, dare una strigliata a qc"
+"sgridata, lavata di capo"
+"sgridata, lavata di capo, tirata d'orecchi"
+"ufficiale in capo del servizio postale nazionale"
+"venire a capo"
+"venirne a capo"
+"vice capo"
+*[[testa]]
+*[[dirigente]], [[presidente]], [[responsabile]], [[direttore]], [[superiore]], [[leader]], [[organizzatore]], [[gerente]], [[boss]], [[maestro]], [[principale]]
+*[[estremità]], punto estremo, [[cima]], parte superiore, [[principio]], [[inizio]], [[fine]], [[origine]], [[vertice]]
+*[[capitano]], [[comandante]], [[condottiero]], [[guida]]
+*(di oggetto, indumento) [[articolo]], [[esemplare]], [[unità]], [[oggetto]], [[pezzo]], [[prodotto]]
+*[[subalterno]], [[dipendente]]
+*[[capostipite]], [[capogruppo]], [[capoclasse]], [[capoluogo]], [[capoturno]], [[capotreno]]
+*''da capo a piedi''
+M>caput</E
+M>testa</E
+M>canuto</E
+M>ricciuto</E
+M>pelato</E
+M>mettersi</E
+M>tenere il cappello in c</E
+M>tieni pure in c</E
+M>scoprirsi il c</E
+M>essere</E
+M>andare a c</E
+M>scoperto</E
+M>dolore di c</E
+M>mal di c</E
+M>avere giramenti di c</E
+M>andare</E
+M>stare a c</E
+M>basso</E
+M>a c</E
+M>chino</E
+M>precipitare</E
+M>cadere a c</E
+M>all’ingiù</E
+M>a capo fitto</E
+M>a capofitto</E
+M>rompersi il c</E
+M>restare</E
+M>rimanere col c</E
+M>rotto</E
+M>a chi</E
+M>messosi a sostener le sue ragioni contro un potente rimaneva col c</E
+M>rotto</E
+M>don Abbondio sapeva trovar sempre qualche torto</E
+M>battere il c</E
+M>dar di c</E
+M>dar del c</E
+M>nel muro</E
+M>battere il c</E
+M>dar di c</E
+M>in un luogo</E
+M>in una persona</E
+M>alle ripe omicide A dar venne di c</E
+M>un giovinetto</E
+M>da c</E
+M>a piedi</E
+M>da capo a piè</E
+M>dalla testa ai piedi</E
+M>essere squadrati da c</E
+M>a piedi</E
+M>era fradicio da c</E
+M>a piè</E
+M>alzare</E
+M>rizzare il c</E
+M>chinare</E
+M>abbassare</E
+M>piegare il c</E
+M>andare col c</E
+M>alto</E
+M>tenere</E
+M>portare il c</E
+M>alto</E
+M>andare a testa alta</E
+M>grattarsi il c</E
+M>crollare</E
+M>scuotere</E
+M>tentennare il c</E
+M>non sapere</E
+M>non avere dove posare il c</E
+M>dare al c</E
+M>alla testa</E
+M>le troppe adulazioni gli hanno dato al c</E
+M>venire</E
+M>cadere</E
+M>piombare tra c</E
+M>e collo</E
+M>mangiare la pappa</E
+M>la torta</E
+M>in c</E
+M>a uno</E
+M>è un tipo che non si fa mangiar la pappa in c</E
+M>da nessuno</E
+M>mente</E
+M>cervello</E
+M>mettersi in c</E
+M>una cosa</E
+M>levare</E
+M>togliere dal c</E
+M>una cosa a qualcuno</E
+M>cose che non gli entrano in c</E
+M>saltare</E
+M>frullare</E
+M>passare per il c</E
+M>mettere il c</E
+M>a partito</E
+M>scarico</E
+M>ameno</E
+M>testa</E
+M>non sa dove abbia il c</E
+M>far le cose col c</E
+M>nel sacco</E
+M>giurare sul c</E
+M>di uno</E
+M>condannare alla pena del c</E
+M>capitis damnare</E
+M>un monitorio dell’ambasciatore Lallement spalancava ai rei di Stato quelle porte che non si riaprivano di solito che ai condannati del c</E
+M>o ai cadaveri</E
+M>dello stato</E
+M>del governo</E
+M>presidente del consiglio</E
+M>d’istituto</E
+M>dirigente scolastico</E
+M>di un partito</E
+M>di un ente</E
+M>il c</E
+M>dei briganti</E
+M>capobanda</E
+M>capomastro</E
+M>capo</E
+M>ingegnere c</E
+M>ispettore c</E
+M>redattore c</E
+M>segretario capo</E
+M>grande c.</E
+M>great chief</E
+M>essere a c</E
+M>essere a c</E
+M>di un’azienda</E
+M>di un’impresa</E
+M>di un istituto</E
+M>en chef</E
+M>comandante in c</E
+M>aiutante in c</E
+M>barca</E
+M>padrone</E
+M>stiva</E
+M>coffa</E
+M>gabbiere</E
+M>manovra</E
+M>capo</E
+M>secondo capo</E
+M>fondo</E
+M>in c</E
+M>alla scala</E
+M>in c</E
+M>a c</E
+M>della pagina</E
+M>in c</E
+M>al letto</E
+M>a c</E
+M>del letto</E
+M>piedi del letto</E
+M>sedere in c</E
+M>di tavola</E
+M>a capotavola</E
+M>Come d’un stizzo verde ch’arso sia Da l’un de’ c</E
+M>che da l’altro geme</E
+M>il c</E
+M>d’una fune</E
+M>funicella</E
+M>lana a tre c</E
+M>andare</E
+M>seguire in c</E
+M>al mondo</E
+M>discorso</E
+M>ragionamento senza c</E
+M>né coda</E
+M>di fonte</E
+M>A capo</E
+M>accapo</E
+M>fare un accapo</E
+M>andare a capo</E
+M>da capo</E
+M>scrivere</E
+M>ricominciare da c</E
+M>osseo</E
+M>epifisi</E
+M>osseo articolare</E
+M>sternale della clavicola</E
+M>tendineo</E
+M>sutura capo a capo</E
+M>capi a frutto</E
+M>a legno</E
+M>misti</E
+M>d’anno</E
+M>del digiuno</E
+M>caput ieiunii</E
+M>fare capo</E
+M>è una strada che fa c. alla piazza del Municipio</E
+M>non capivo dove andasse a far c</E
+M>il suo discorso</E
+M>far c</E
+M>a qualcuno</E
+M>venire a c</E
+M>di una cosa</E
+M>si è logorato il cervello senza venire a c</E
+M>di nulla</E
+M>in c</E
+M>a un mese</E
+M>in c</E
+M>a un anno</E
+M>cosa fatta c</E
+M>il c</E
+M>di uno spillo</E
+M>di un chiodo</E
+M>d’aglio</E
+M>di cipolla</E
+M>Miseno</E
+M>delle Penne</E
+M>di S</E
+M>Maria di Leuca</E
+M>Horn</E
+M>il C</E
+M>di Buona Speranza</E
+M>Capo</E
+M>Città del Capo</E
+M>Provincia del Capo</E
+M>dividere per capi e non per famiglie</E
+M>cento c</E
+M>di bestiame</E
+M>un bel c</E
+M>di selvaggina</E
+M>capi di vestiario</E
+M>del corredo</E
+M>un completo a tre c</E
+M>contare gli oggetti capo per capo</E
+M>capitolo</E
+M>intorno a ciascuno di questi c</E
+M>partitamente ragionerò</E
+M>capi d’accusa</E
+M>per sommi c</E
+M>esporre per sommi c</E
+M>narrazione fatta per sommi capi</E

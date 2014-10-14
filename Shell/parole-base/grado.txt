@@ -1,0 +1,95 @@
+grado.txt
+"alla stesso grado, allo stesso livello"
+"allo stesso grado"
+"allo stesso grado"
+"cugino di primo grado"
+"cugino di secondo grado"
+"cugino di secondo grado"
+"di … grado"
+"di alto grado"
+"di buon grado"
+"di grado elevato"
+"di grado superiore"
+"docenza universitaria di grado reader"
+"ennesimo grado"
+"essere di grado maggiore"
+"essere in grado"
+"essere in grado"
+"essere in grado di"
+"essere in grado di"
+"F (grado Fahrenheit)"
+"fino a un certo grado"
+"funzionario di grado inferiore"
+"giudice unico di primo grado"
+"grado"
+"grado"
+"grado"
+"grado accademico"
+"grado avanzato"
+"grado centigrado"
+"grado comparativo"
+"grado della scuola, grado scolastico"
+"grado di dettaglio"
+"grado di difficoltà"
+"grado di diffusione"
+"grado di finitura"
+"grado di giudizio"
+"grado di libertà"
+"grado di parentela"
+"grado di partecipazione"
+"grado di pericolosità"
+"grado più alto"
+"grado zero"
+"il terzo grado"
+"impotente, non essere in grado"
+"in condizione di, in grado di"
+"in condizione per, in grado di"
+"in grado"
+"essere in grado di fare qc"
+"in grado di"
+"in grado di"
+"in grado di"
+"in grado di navigare"
+"in grado di pagare"
+"ipoteca di primo grado"
+"laurea di primo grado"
+"laurea di primo grado"
+"laurea di primo grado in infermieristica"
+"laurea di secondo grado: MA"
+"mettere in grado"
+"non essere in grado di"
+"non essere in grado di muoversi"
+"non essere in grado di muoversi"
+"non essere in grado di muoversi"
+"non essere in grado, non essere capace"
+"non in grado di"
+"nono grado"
+"primo grado"
+"riduzione di grado"
+"Sarei stato in grado"
+"superare nel grado"
+"terzo grado"
+"terzo grado"
+"tribunale di grado inferiore"
+"tribunale di primo grado"
+#* ''fuori ci sono 14 '''gradi''' Celsius''
+#* ''il termometro indica 300 '''gradi''' Fahrenheit''
+#* ''nel reattore rileviamo 298 Kelvin''
+*''(gradimento)''  dal [[latino]] ''[[gratus]]'' cioè "[[gradito]]"
+*''(gradino)''  dal [[latino]] ''[[gradus]]'' cioè "[[passo]], [[scalino]]"
+*[[livello]], [[stadio]], [[fase]], [[tappa]]
+*(nella gerarchia sociale) [[ceto]], [[classe]], [[fascia]], [[strato]]; [[rango]], posizione gerarchica, [[gerarchia]]
+*[[galloni]]
+*(di alcolici) [[gradazione]], [[tasso]]
+*[[temperatura]]
+* [[degrado]] (coll'accezione di progresso negativo)
+* [[gradazione]], [[graduato]], [[graduatoria]]
+* [[gradiente]], [[gradino]] (non diminutivo), [[gradire]], [[gradone]] 
+* ''accettare di buon 
+*''essere in grado'' 
+M>dus</E
+M>gradi</E
+M>retrògrado</E
+M>tardìgrado</E
+M>plantìgrado</E
+M>digitìgrado</E

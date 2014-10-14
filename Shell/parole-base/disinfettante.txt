@@ -1,0 +1,5 @@
+disinfettante.txt
+"disinfettante"
+"disinfettante"
+"sostanza disinfettante"
+M>disinfettare</E

@@ -1,0 +1,42 @@
+scadenza.txt
+"a breve scadenza"
+"a ridosso della scadenza"
+"alla scadenza"
+"cambiale a scadenza"
+"data di scadenza"
+"fattura in scadenza"
+"in scadenza"
+"in scadenza per il pagamento"
+"periodo di scadenza"
+"prestito a scadenza determinata"
+"prossimo alla scadenza"
+"relativo ad una cambiale a breve scadenza"
+"rendimento alla scadenza"
+"rimandare una scadenza"
+"scadenza"
+"scadenza"
+"impegno da soddisfare entro una scadenza"
+"scadenza"
+*[[termine]], [[limite]]
+*[[scadenzare]], [[scadente]], [[scadere]], [[scadenzario]], [[scaduto]]
+M>una tratta autorizzata con s. a tre mesi</E
+M>prorogare</E
+M>rinnovare una cambiale alla s.</E
+M>il contratto va disdetto due mesi prima della s.</E
+M>s. breve</E
+M>media</E
+M>lunga</E
+M>s. a vista</E
+M>s. a tempo vista</E
+M>s. a tempo data</E
+M>a s. fissa</E
+M>deposito</E
+M>anticipazione a s. fissa</E
+M>bisogna prelevare diecimila euro in contanti per la s. di domani</E
+M>le s. di fine mese</E
+M>non possiamo far fronte alle s. della settimana.</E
+M>a breve</E
+M>a lunga s.</E
+M>fissare un incontro a breve s.</E
+M>il consiglio d&#8217;amministrazione ha luogo a s. troppo lunghe</E
+M>data di s.</E

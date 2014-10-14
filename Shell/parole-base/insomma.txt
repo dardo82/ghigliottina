@@ -1,0 +1,92 @@
+insomma.txt
+"insomma"
+"insomma"
+"insomma"
+"ma insomma!"
+M>in summa</E
+M>In somma sappi che tutti fur cherci E litterati grandi e di gran fama</E
+M>in somma</E
+M>figliol caro</E
+M>io non ci ho colpa</E
+M>il libro è scritto male</E
+M>è pieno di contraddizioni</E
+M>povero di pensiero: i</E
+M>non vale proprio la pena di leggerlo</E
+M>per non dilungarci</E
+M>la questione essenziale è questa</E
+M>si può sapere che cosa t’ha detto?</E
+M>io spero che ci siamo capiti</E
+M>è chiaro</E
+M>che non ne vuol sapere</E
+M>qui bisogna risolversi!</E
+M>deciditi i</E
+M>sì o no?</E
+M>la volete smettere?</E
+M>che cos’è tutto questo baccano?</E
+M>insomma!</E
+M> insomma?</E
+M>come va? Insomma ...</E
+M>in somma</E
+M>in somma delle somme</E
+M>insomma</E
+"name": "Insomma vorrei"
+"name": "II.11. Recitativo : \u00ab Insomma, io ho tutti i torti!... \u00bb Bartolo, Figaro, Basilio, Conte, Rosina"
+"name": "Acte II - Non lo sapete insomma [Butterfly, Sharpless, Goro, Yamadori]"
+"name": "II.2. Recitativo : \u00ab Insomma, mio signore \u00bb Bartolo, Conte"
+"name": "Madama Butterfly: Act II. \"Non lo sapete insomma\""
+"name": "Il barbiere di Siviglia: Atto II. Recitativo \"Insomma io ho tutti i torti\" (Bartolo, Figaro, Basilio, Conte, Rosina)"
+"name": "Il barbiere de Siviglia: Atto II, Scena XI. Recitativo \"Insomma io ho tutti i torti!\" (Bartolo, Figaro, Basilio, Conte, Rosina)"
+"name": "Il barbiere di Siviglia: Atto II. Recitativo \"Insomma, io ho tutti i torti\" (Bartolo, Figaro, Basilio, Rosina, Conte)"
+"name": "Il barbiere di Siviglia: Atto II. Recitativo \"Insomma, mio signore\" (Conte, Bartolo)"
+"name": "Il Barbiere Di Siviglia: Act II. Recitativo \"Ma vedi il mio destino\" - No. 10. Duetto \"Pace e gioia sia con voi\" - Recitativo \"Insomma, mio signore\""
+"name": "Non lo sapete insomma"
+"name": "Il barbiere di Siviglia: Atto II. Recitativo \"Insomma, mio signore\" (Bartolo, Conte, Rosina)"
+"name": "Il barbiere de Siviglia: Atto II, Scena II. Recitativo \"Insomma, mio signore\" (Bartolo, Conte, Rosina)"
+"name": "Insomma io ho tutti i torti"
+"name": "Insomma, mio signore, chi e lei?"
+"name": "II.2. Recitativo : \u00ab Insomma, mio signore \u00bb Bartolo, Conte"
+"name": "II.11. Recitativo : \u00ab Insomma, io ho tutti i torti!... \u00bb Bartolo, Figaro, Basilio, Conte, Rosina"
+"name": "Insomma vorrei"
+"name": "Il Barbiere Di Siviglia: Act II. Recitativo \"Ma vedi il mio destino\" - No. 10. Duetto \"Pace e gioia sia con voi\" - Recitativo \"Insomma, mio signore\""
+"name": "Il Barbiere Di Siviglia: Act II. Recitativo \"Ma vedi il mio destino\" - No. 10. Duetto \"Pace e gioia sia con voi\" - Recitativo \"Insomma, mio signore\""
+"name": "Il barbiere de Siviglia: Atto II, Scena XI. Recitativo \"Insomma io ho tutti i torti!\" (Bartolo, Figaro, Basilio, Conte, Rosina)"
+"name": "Il barbiere de Siviglia: Atto II, Scena II. Recitativo \"Insomma, mio signore\" (Bartolo, Conte, Rosina)"
+"name": "Il barbiere di Siviglia: Atto II. Recitativo \"Insomma, mio signore\" (Conte, Bartolo)"
+"name": "Il barbiere di Siviglia: Atto II. Recitativo \"Insomma io ho tutti i torti\" (Bartolo, Figaro, Basilio, Conte, Rosina)"
+"name": "Insomma io ho tutti i torti"
+"name": "Insomma, mio signore, chi e lei?"
+"name": "Madama Butterfly: Atto II. \"Non lo sapete insomma\""
+"name": "Il barbiere di Siviglia: Atto II. Recitativo \"Insomma, io ho tutti i torti\" (Bartolo, Figaro, Basilio, Rosina, Conte)"
+"name": "Il barbiere di Siviglia: Atto II. Recitativo \"Insomma, mio signore\" (Bartolo, Conte, Rosina)"
+"name": "Non lo sapete insomma"
+"name": "Madama Butterfly: Act II. \"Non lo sapete insomma\""
+"name": "Madama Butterfly: Act II. \"Non lo sapete insomma\""
+"name": "Bene, insomma"
+"name": "Act 2 - Insomma io ho tutti"
+"name": "Act 2 - Insomma io ho tutti"
+"name": "Bene, insomma"
+"name": "Madama Butterfly: Atto II. \"Non lo sapete insomma\""
+"name": "Non lo sapete insomma"
+"name": "Madama Butterfly: Atto II. \"Non lo sapete insomma\""
+"name": "Madama Butterfly: Atto II. \"Non lo sapete insomma\""
+"name": "Madama Butterfly: Atto II. \"Non lo sapete insomma\""
+"name": "Insomma, mio signore"
+"name": "L'incoronazione di Poppea: Atto I. \"Son risoluto insomma\" (Nerone, Seneca)"
+"name": "Il barbiere di Siviglia: Atto II. \"Insomma, mio signore\""
+"name": "Insomma, mio signore"
+"name": "L'incoronazione di Poppea: Atto I. \"Son risoluto insomma\" (Nerone, Seneca)"
+"name": "Insomma, mio signore"
+"name": "Il barbiere di Siviglia: Atto II. \"Insomma, mio signore\""
+"name": "Il barbiere di Siviglia: Atto II. Recitativo \"Insomma, mio signore\""
+"name": "Il barbiere di Siviglia: Atto II. Recitativo \"Insomma, mio signore\""
+"name": "Madama Butterfly: Atto II. \"Non lo sapete insomma\" / \"Yamadori, ancor le pene (1. Aufzug, 2. Teil)"
+"name": "Il Barbiere Di Siviglia: Atto secondo: III. Recitativo: \"Insomma, mi signore, chi \u00e8 lei?\""
+"name": "Il Barbiere Di Siviglia: Atto secondo: III. Recitativo: \"Insomma, mi signore, chi \u00e8 lei?\""
+"name": "Il barbiere di Siviglia: Atto II. Recitativo \"Insomma, mio signore\""
+"name": "Madama Butterfly: Atto II. \"Non lo sapete insomma\" / \"Yamadori, ancor le pene (1. Aufzug, 2. Teil)"
+"name": "Il barbiere de Siviglia: Atto II, Scena XI. Recitativo \"Insomma io ho tutti i torti!\" (Bartolo, Figaro, Basilio, Conte, Rosina)"
+"name": "Il barbiere de Siviglia: Atto II, Scena II. Recitativo \"Insomma, mio signore\" (Bartolo, Conte, Rosina)"
+"name": "Acte II - Non lo sapete insomma [Butterfly, Sharpless, Goro, Yamadori]"
+"name": "Il barbiere di Siviglia: Atto II. Recitativo \"Insomma, mio signore\" (Bartolo, Conte, Rosina)"
+"name": "Il barbiere di Siviglia: Atto II. Recitativo \"Insomma, io ho tutti i torti\" (Bartolo, Figaro, Basilio, Rosina, Conte)"
+"name": "Madama Butterfly: Act II. \"Non lo sapete insomma\" (Butterfly)"

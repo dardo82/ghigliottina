@@ -1,0 +1,76 @@
+missile.txt
+"(sistema di ) guida del missile"
+"missile guidance"
+"decollo, partenza (di missile)"
+"missile"
+"missile, rocket, projectile"
+"missile"
+"missile, ballistic"
+"missile antibalistico"
+"antiballistic missile"
+"missile balistico"
+"ballistic missile"
+"missile Cruiser"
+"cruise missile"
+"missile guidato"
+"guided missile"
+"tipo di missile"
+"type of missile"
+*[[razzo]]
+*[[missilistica]], [[missilistico]]
+*Enciclopedia [http
+M>miss</E
+M>lis</E
+M>missus</E
+M>mitt</E
+M>armi m</E
+M>razzo</E
+M>vettore</E
+M>razzo vettore</E
+M>vettore</E
+M>balistici</E
+M>mirvizzato</E
+M>strategici</E
+M>intercontinentali</E
+M>a raggio intermedio</E
+M>tattici</E
+M>di teatro</E
+M>a corto raggio</E
+M>monostadio</E
+M>polistadio</E
+M>non balistici</E
+M>guidati</E
+M>superficie</E
+M>superficie</E
+M>terra</E
+M>terra</E
+M>aria</E
+M>superficie</E
+M>controcarro</E
+M>anticarro</E
+M>antiaerei</E
+M>contraerei</E
+M>superficie</E
+M>aria</E
+M>terra</E
+M>aria</E
+M>aria</E
+M>aria</E
+M>nave</E
+M>aria</E
+M>mare</E
+M>aria</E
+M>antimissile</E
+M>antinave</E
+M>superficie</E
+M>nave</E
+M>terra-mare</E
+M>nave</E
+M>nave</E
+M>mare</E
+M>mare</E
+M>subacqueo</E
+M>Missile da crociera</E
+M>cruise missile</E
+M>booster</E
+M>euromissili</E

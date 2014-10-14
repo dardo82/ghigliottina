@@ -1,0 +1,15 @@
+danneggiare.txt
+"danneggiare"
+"danneggiare"
+*[[sciupare]], [[nuocere]], [[ledere]], [[guastare]]
+M>io dannéggio</E
+M>la grandine ha danneggiato le viti</E
+M>l’abuso degli alcolici danneggia la salute</E
+M>gli interessi</E
+M>il buon nome di qualcuno</E
+M>se agisci così</E
+M> ti danneggi con le tue mani</E
+M>nave danneggiata dalla tempesta</E
+M>far riparare la vettura danneggiata</E
+M>i danneggiati del terremoto</E
+M>dell’alluvione</E

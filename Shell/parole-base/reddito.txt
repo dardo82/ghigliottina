@@ -1,0 +1,89 @@
+reddito.txt
+"a reddito fisso"
+"accertamento delle fonti di reddito"
+"conto del reddito"
+"fascia di reddito"
+"fondo di reddito"
+"imposta federale sul reddito"
+"imposta sul reddito delle società"
+"integrazione del reddito"
+"ottenere un'entrata; un reddito"
+"parte del reddito destinato a spese non strettamente necessarie"
+"reddito"
+"reddito a sei cifre"
+"reddito da capitale"
+"reddito da capitale"
+"reddito da lavoro"
+"reddito del capitale"
+"reddito di capitale"
+"reddito di capitale"
+"reddito elevato"
+"reddito fisso"
+"reddito garantito"
+"reddito interno"
+"reddito lordo"
+"reddito nazionale"
+"reddito netto"
+"reddito netto"
+"reddito privato"
+"scaglione di reddito"
+"tassa progressiva sul reddito"
+"tassa sul reddito"
+*[[ entrate]],[[ introiti]], [[ proventi]]
+*[[patrimonio]]
+M>redd</E
+M>tum</E
+M>redd</E
+M>un lavoro</E
+M>che dà un buon r</E
+M>un r</E
+M>modesto</E
+M>in natura</E
+M>monetario</E
+M>salario</E
+M>stipendio</E
+M>interesse</E
+M>profitto</E
+M>rendita</E
+M>nazionale</E
+M>prodotto nazionale lordo</E
+M>personale</E
+M>delle persone</E
+M>personale disponibile</E
+M>Flusso circolare del r</E
+M>famiglie</E
+M>imprese</E
+M>fondiario</E
+M>immobiliare</E
+M>rendita</E
+M>dominicale</E
+M>agrario</E
+M>dei fabbricati</E
+M>di capitali</E
+M>mobiliare</E
+M>a r</E
+M>fisso</E
+M>di lavoro</E
+M>di lavoro dipendente</E
+M>fisso</E
+M>autonomo</E
+M>d&#8217;impresa</E
+M>formazione</E
+M>sviluppo del r</E
+M>nazionale</E
+M>discriminazione</E
+M>distribuzione</E
+M>ridistribuzione del r</E
+M>politica dei r</E
+M>imposte sul r</E
+M>imposta sul r</E
+M>delle persone fisiche</E
+M>imposta sul r</E
+M>delle persone giuridiche</E
+M>imposta locale sui r</E
+M>imponibile</E
+M>di gestione</E
+M>totale</E
+M>d&#8217;esercizio</E
+M>minimo</E
+M>sistema del r</E

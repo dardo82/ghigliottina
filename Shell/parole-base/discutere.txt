@@ -1,0 +1,66 @@
+discutere.txt
+"discutere"
+"discutere"
+"discutere a fondo"
+"discutere all'infinito"
+"discutere con"
+"discutere con qc, litigare con qc, avere un battibecco con qc"
+"discutere la tesi"
+"discutere per"
+"discutere ulteriormente"
+"discutere, definire nei dettagli"
+"discutere, portare avanti una discussione"
+"divieto ufficiale di discutere pubblicamente di un argomento"
+"litigare con qc, discutere con qc"
+"litigare; discutere"
+"punto da discutere"
+"qualcosa su cui discutere"
+*[[dibattere]]
+*[[ridiscutere]], [[discussione]], [[discutibile]]
+M>discut</E
+M>dis</E
+M>quat</E
+M>discussi</E
+M>discutésti</E
+M>discusso</E
+M>avere</E
+M>una proposta</E
+M>un progetto di legge</E
+M>l’imposizione di una nuova tassa</E
+M>è una questione che va discussa in sede di consiglio</E
+M>sopra</E
+M>intorno a una questione</E
+M>la commissione si è riunita per d</E
+M>del ricorso</E
+M>finché stiamo qui a d</E
+M>non giungeremo a nulla di concreto</E
+M>sul sesso degli angeli</E
+M>su un argomento di letteratura</E
+M>d’arte</E
+M>di politica</E
+M>amichevolmente</E
+M>con calma</E
+M>animatamente</E
+M>vivacemente</E
+M>è un problema delicato</E
+M>ed è bene che ne discutiamo insieme</E
+M>tutti nell’osteria si mettono a d. il caso</E
+M> molto contenti di avere un argomento di conversazione così interessante</E
+M>la tesi</E
+M>va bene</E
+M>hai ragione tu</E
+M>non ho voglia di d</E
+M>chi vuoi che si metta a d</E
+M>con quel prepotente!</E
+M>se sai che ho ragione io</E
+M>perché discuti?</E
+M>non discuto più</E
+M>fa quello che credi</E
+M>ma io resto del mio parere</E
+M>qualche cosa</E
+M>gli ordini non si discutono</E
+M>non discuto il tuo diritto</E
+M> ma qui si tratta di ragionare!</E
+M>il danno l’abbiamo ricevuto</E
+M>ed è inutile d</E
+M>se abbiamo ragione o torto</E

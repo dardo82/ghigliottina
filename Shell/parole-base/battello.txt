@@ -1,0 +1,25 @@
+battello.txt
+"battello"
+"battello"
+"battello a motore"
+"battello a ruote"
+"battello a vapore"
+"gita in battello"
+*italiano
+M>batel</E
+M>bat</E
+M>pneumatici</E
+M>commandos</E
+M>bateau</E
+M>fluviale</E
+M>battello a vapore</E
+M>steam</E
+M>boat</E
+M>bateau à vapeur</E
+M>Battello da ghiaccio</E
+M>Battello-faro</E
+M>battello-fanale</E
+M>Battello-porta</E
+M>barca</E
+M>porta</E
+M>battellino</E

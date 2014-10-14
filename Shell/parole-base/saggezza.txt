@@ -1,0 +1,26 @@
+saggezza.txt
+"antica saggezza"
+"parole di saggezza"
+"perla di saggezza"
+"saggezza"
+"saggezza infinita"
+"saggezza popolare"
+"saggezza pratica"
+"tutta saggezza"
+"uomo di saggezza"
+*[[senno]], [[assennatezza]], [[sapienza]], [[buonsenso]], [[raziocinio]], [[giudizio]], [[criterio]], [[equilibrio]], [[attenzione]], [[prudenza]], [[accortezza]], [[avvedutezza]], [[discernimento]], [[oculatezza]]
+*[[stupidaggine]], [[stupidità]], [[lentezza]], [[ottusità]]
+M>una persona di grande s.</E
+M>parlare</E
+M>agire con s.</E
+M>con molta s.</E
+M>dare prova di s.</E
+M>parole piene di s.</E
+M>la s. delle persone anziane</E
+M>dei contadini</E
+M>la s. condensata nei proverbî</E
+M>la s. di un consiglio</E
+M>di una decisione</E
+M>di un provvedimento legislativo.</E
+M>denti della s.</E
+M>denti del giudizio</E

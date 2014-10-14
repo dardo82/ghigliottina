@@ -1,0 +1,205 @@
+duro.txt
+"a muso duro"
+"aspetto duro"
+"atteggiamento più duro"
+"atterraggio duro"
+"bronzo duro; color piombo"
+"carcere duro"
+"che diventa difficile, duro"
+"cuore duro; insensibile"
+"dal cuore duro, crudele"
+"dal cuore duro, crudele"
+"dallo stinco duro, deciso"
+"durare; tenere duro; resistere; fare resistenza"
+"duro"
+"duro"
+"duro"
+"duro"
+"duro"
+"duro"
+"duro"
+"duro"
+"duro"
+"duro"
+"duro"
+"duro (di lavoro)"
+"duro (di lega)"
+"duro a morire"
+"duro a morire"
+"duro colpo"
+"duro colpo; forte colpo"
+"duro come la roccia"
+"duro come una roccia"
+"duro come una roccia; insensibile"
+"duro d'orecchi"
+"duro d'orecchi"
+"duro e puro"
+"duro risveglio"
+"duro, inflessibile"
+"duro, rigido"
+"essere duro con"
+"essere duro con qualcuno"
+"essere duro di comprendonio"
+"falco dallo stinco duro, deciso"
+"farina di grano duro"
+"grano duro"
+"guscio duro"
+"incallito, reso duro"
+"incallito, reso duro"
+"lavorare duro"
+"lavoro duro"
+"lavoro duro; faticoso"
+"mantenere duro"
+"medio-duro"
+"mordere qualcosa di duro"
+"nocciolo duro"
+"osso duro"
+"osso duro da masticare"
+"palato duro"
+"piuttosto duro"
+"quando il gioco si fa duro, i duri cominciano a giocare!"
+"resistere; tenere duro"
+"resistere; tenere duro; non mollare"
+"semola di grano duro"
+"tener duro contro qcs.; resistere a qcs."
+"tener duro; resistere; persistere"
+"tenere duro, resistere"
+"tenere duro, resistere"
+"terreno duro"
+"tieni duro"
+"un duro"
+"un osso duro"
+"zoccolo duro"
+*[[solido]], [[robusto]], [[massiccio]], [[compatto]], [[denso]], [[rappreso]], [[saldo]], [[consistente]], [[resistente]], [[sodo]], [[ferreo]], [[marmoreo]], [[granitico]], [[calcareo]], [[coriaceo]], [[adamantino]], [[calloso]]
+*(di pane) [[secco]], [[raffermo]]
+*(di frutto) [[acerbo]]
+*(di argomento, materia) [[incomprensibile]], [[ostico]]
+* persona spietata, persona violenta
+*(solo singolare) parte dura, oggetto duro, superficie dura
+* (di clima o stagione)  [[rigido]] 
+*[[morbido]], [[tenero]], [[delicato]], [[soffice]], [[molle]], [[floscio]]
+*(di pane)[[fresco]]
+*(di frutto) [[maturo]]
+*(di argomento, materia) [[comprensibile]]
+* [[elastico]], [[cedevole]] 
+*[[durone]], [[durona]], [[duramente]]
+*'' a muso duro''
+*italiano
+*spagnolo
+M>rus</E
+M>molle</E
+M>tenero</E
+M>morbido</E
+M>soffice</E
+M>cedevole</E
+M>come il sasso</E
+M>come il macigno</E
+M>il diamante è più d</E
+M>dell’acciaio</E
+M>una maniglia</E
+M>una chiave d</E
+M>questi stivali sono d</E
+M>a mettersi</E
+M>che letto d</E
+M>come sono d</E
+M>questi materassi!</E
+M>l’asino</E
+M>l’elefante</E
+M>il coccodrillo hanno la pelle d</E
+M>avere la pelle d</E
+M>Qui</E
+M>se non fuggo</E
+M>abbraccio un caporale</E
+M>Colla su’ brava mazza di nocciuolo</E
+M> Duro e piantato lì come un piolo</E
+M>rimase lì</E
+M>duro stecchito</E
+M>e lui duro!</E
+M>lo chiamavo</E
+M>lo scuotevo per le braccia</E
+M>e lui duro!</E
+M>Carne d</E
+M>pane d</E
+M>uova d</E
+M>sode</E
+M>pezzi d</E
+M>terreno d</E
+M>acciaio semi</E
+M>extra d</E
+M>pietre d</E
+M>carta</E
+M>emulsione</E
+M>pellicola d</E
+M>Legno d</E
+M>legno dolce</E
+M>forte</E
+M>Libro d</E
+M>libro molle</E
+M>seme d</E
+M>grani d</E
+M>Acqua d</E
+M>Vino d</E
+M>madre</E
+M>radiazione d</E
+M>nave d</E
+M>la miseria è d</E
+M>a sopportare</E
+M>gli ha dato una d</E
+M>risposta</E
+M>i patti sono molto d</E
+M>è una d</E
+M>verità</E
+M>il senso lor m’è d</E
+M>lo sa il cielo se m’è stato duro di dover contristar con rimproveri codesta vostra canizie</E
+M>fa una vita assai d</E
+M>sono tempi d</E
+M>per tutti</E
+M>è dura!</E
+M>l’è dura!</E
+M>è molto d</E
+M>con i subalterni</E
+M>è d</E
+M>con i figli</E
+M>linee d</E
+M>contorni d</E
+M>lineamenti d</E
+M>stile d</E
+M>Suono d</E
+M>z dure</E
+M>sala</E
+M>marzo</E
+M>g dure</E
+M>capo</E
+M>gabbia</E
+M>consonanti d</E
+M>a fare una cosa</E
+M>è d</E
+M>a cedere</E
+M>è d</E
+M>a capire</E
+M>Gioco d</E
+M>di cuore</E
+M>di testa</E
+M>di mente</E
+M>avere la testa d</E
+M>essere una testa d</E
+M>d’orecchio</E
+M>d’orecchi</E
+M>a muso d</E
+M>avere il muso d</E
+M>fare il d</E
+M>essere un d</E
+M>fare il d</E
+M>è un osso d</E
+M>tener duro</E
+M>dormire sul d</E
+M>scavarono finché trovarono il d</E
+M>qui sta il d</E
+M>ora viene il d</E
+M>il d</E
+M>sta nel dover soffrire in silenzio</E
+M>duro</E
+M>rimproverare</E
+M>punire duramente qualcuno</E
+M>lo ha percosso duramente con una serie di pugni al volto</E
+M>la triste notizia lo ha colpito duramente</E

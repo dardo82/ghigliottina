@@ -1,0 +1,21 @@
+dialogare.txt
+"dialogare"
+"dialogare"
+*[[discorrere]], [[parlare]]
+M>io dïàlogo</E
+M>tu dïàloghi</E
+M>avere</E
+M>ho dialogato a lungo con lui</E
+M>d. con i vicini di casa</E
+M>dialogano per ore</E
+M> ma senza concludere nulla</E
+M>in casa nostra si dialoga molto</E
+M> su tutto</E
+M>genitori e figli non sempre sanno dialogare; in quella coppia moglie e marito non dialogano più.</E
+M>su questo punto maggioranza e opposizione non riescono a d.</E
+M>il ministro tenterà di d. con i sindacati</E
+M>d. un romanzo</E
+M>una scena</E
+M>le parti dialogate di un dramma</E
+M>le scene sono efficaci</E
+M>ma il dialogato è monotono</E

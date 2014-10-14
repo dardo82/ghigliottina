@@ -1,0 +1,21 @@
+deputato.txt
+"carica di deputato"
+"deputato"
+"deputato in Parlamento che non fa parte del governo"
+"luogo deputato a"
+*[[parlamentare]]
+*italiano
+M>deputare</E
+M>essere deputato a rappresentare il proprio governo</E
+M> l’orecchio è l’organo d. all’udito.</E
+M>luoghi d.</E
+M>mansioni</E
+M> i luoghi d. del romanzo storico</E
+M>i d</E
+M>del Terzo Stato</E
+M>provinciali</E
+M>i d</E
+M>alla correzione del</E
+M>Decameron</E
+M>éssa</E
+M>Camera dei deputati</E

@@ -1,0 +1,23 @@
+candidato.txt
+"candidato"
+"candidato al parlamento"
+"candidato alla vicepresidenza"
+"candidato eleggibile"
+"candidato politico"
+"candidato supportato dal suo stato; figlio prediletto"
+"candidato, concorrente"
+*''(a una carica)'' [[aspirante]]
+* ''(chi deve superare una prova)'' [[concorrente]], [[esaminando]]
+*[[candidatura]]
+* [[candidare]]
+*italiano
+*spagnolo
+M>candidatus</E
+M>alla Camera</E
+M>al Senato</E
+M>la designazione dei c</E
+M>liste di candidati</E
+M>alla cattedra di matematica</E
+M>agli esami di stato</E
+M>notaio c</E
+M>notaio</E

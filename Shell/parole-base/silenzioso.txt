@@ -1,0 +1,26 @@
+silenzioso.txt
+"silenzioso"
+*[[silente]], [[taciturno]], [[zitto]]
+*[[chiassoso]], [[rumoroso]]
+*[[silenziosamente]], [[silenziosità]]
+*[[silenzio]]
+M>silentiosus</E
+M>silentium</E
+M>una casa s.</E
+M>una notte silenziosa</E
+M>procedere a passi cauti e s.</E
+M>un motore s.</E
+M>una gioia s.</E
+M>una protesta silenziosa</E
+M>un ragazzo s.</E
+M>cos&#8217;hai</E
+M> che te ne stai in disparte e s.?</E
+M>Che fai tu</E
+M> luna</E
+M> in ciel? dimmi</E
+M> che fai</E
+M> Silenzïosa luna?</E
+M>Maggioranza s.</E
+M>silent majority</E
+M>uscì silenziosamente dalla stanza</E
+M>tutti rimasero silenziosamente in ascolto</E

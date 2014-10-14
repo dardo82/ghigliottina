@@ -1,0 +1,60 @@
+occhiali.txt
+"clip per occhiali"
+"custodia per occhiali"
+"occhiali"
+"occhiali a lenti colorate"
+"occhiali bifocali"
+"occhiali con montatura di corno"
+"occhiali da aviatore"
+"occhiali da lettura"
+"occhiali da sole"
+"occhiali da sole"
+"occhiali graduati"
+"occhiali rosa"
+"paio di occhiali"
+#* ''
+*[[lenti]]
+*[[lente]], [[lente a contatto]], [[lorgnette]], [[occhiali da sole]], [[montatura]], [[stanghetta]]
+M>occhiale</E
+M>montatura</E
+M>correttivi</E
+M>protettivi</E
+M>da vista</E
+M>da miope</E
+M>da presbite</E
+M>forti</E
+M>usare gli o</E
+M>per leggere</E
+M>per vedere da vicino</E
+M>da lontano</E
+M>da sole</E
+M>da neve</E
+M>per motociclisti</E
+M>subacquei</E
+M>neri</E
+M>affumicati</E
+M>verdi</E
+M>azzurri</E
+M>acustici</E
+M>a stanghetta</E
+M>a stringinaso</E
+M>da naso</E
+M>a giorno</E
+M>d’oro</E
+M>d’argento</E
+M>di tartaruga</E
+M>un paio</E
+M>d’occhiali</E
+M>portare gli o</E
+M>mettersi gli o</E
+M>inforcare gli o</E
+M>levarsi</E
+M>togliersi gli o</E
+M>non c’è bisogno di o</E
+M>per vedere</E
+M>per leggere</E
+M>mettiti gli o</E
+M>dovresti metterti gli o</E
+M>fare gli occhiali</E
+M>Cobra dagli occhiali</E
+M>Naja naja</E

@@ -1,0 +1,10 @@
+rovo.txt
+"rovo"
+"rovo di more"
+* [[mora di rovo]]
+* [[mora]]
+M>bus</E
+M>Rubus</E
+M>mora</E
+M>mora di rovo</E
+M>mora di gelso</E

@@ -1,0 +1,88 @@
+industria.txt
+"capitano d'industria"
+"industria"
+"industria"
+"impianto industriale, fabbrica"
+"industria"
+"industria"
+"industria alimentare"
+"industria automobilistica"
+"industria casearia"
+"industria chiave"
+"industria cinematografica"
+"industria cinematografica"
+"industria dei cavi"
+"industria dei servizi"
+"industria del turismo"
+"industria dell'acciaio, siderurgia"
+"industria dell'intrattenimento, industria dello spettacolo"
+"industria dello spettacolo, dell'intrattenimento"
+"industria di trasformazione"
+"industria dolciaria"
+"industria manifatturiera"
+"industria mineraria"
+"industria petrolchimica"
+"operaio dell'industria"
+"industrial worker"
+*[[fabbrica]], [[stabilimento]], [[manifattura]], [[opificio]], [[azienda]], [[impresa]]
+* [[produzione]], attività produttiva, [[lavorazione]], [[organizzazione]], [[imprenditoria]]
+*[[industriosità]], [[attività]], [[laboriosità]], [[operosità]], [[ingegno]], [[applicazione]], [[intraprendenza]], [[diligenza]], [[zelo]], [[assiduità]], [[solerzia]], [[alacrità]]
+*[[accorgimento]], [[espediente]]
+*[[passività]], [[pigrizia]], [[ozio]], [[svogliatezza]], [[indolenza]]
+*[[industriale]], [[industriarsi]],[[industrioso]]
+M>industria</E
+M>quello imperio maraviglioso</E
+M>ottenuto colla nostra i</E
+M>amplificato con nostre armi latine</E
+M>l’i</E
+M>dell’uomo supera gli ostacoli della natura</E
+M>l’ammirevole i</E
+M>delle api</E
+M>delle formiche</E
+M>dei castori</E
+M>adoperarsi con ogni i</E
+M>usare ogni i</E
+M>poscia che udito ebbe lodare la ’ndustria di Bergamino</E
+M>campare d’i</E
+M>sull’i</E
+M>cavaliere d’i</E
+M>chevalier d’industrie</E
+M>de l’industrie</E
+M>domestica</E
+M>a domicilio</E
+M>capitalistica</E
+M>moderna</E
+M>i prodotti dell’i</E
+M>favorire lo sviluppo dell’i</E
+M>scienze applicate all’industria</E
+M>industrie di occupazione</E
+M>di trasformazione</E
+M>di prestazione</E
+M>grande</E
+M>media</E
+M>piccola i</E
+M>i. pesante</E
+M>ereditare un’i</E
+M>dolciaria</E
+M>è dirigente in una grande i</E
+M>possiede una piccola i</E
+M>di materie plastiche</E
+M>gli interessi dell’i</E
+M>meccanica</E
+M>la crisi dell’i</E
+M>chimica</E
+M>l’i</E
+M>lombarda</E
+M>l’i</E
+M>nazionale</E
+M>lo sviluppo</E
+M>la crisi dell’i</E
+M>italiana</E
+M>I. culturale</E
+M>Kulturindustrie</E
+M>del crimine</E
+M>criminalità organizzata</E
+M>litica</E
+M>ossea</E
+M>musteriana</E
+M>levalloisiana</E

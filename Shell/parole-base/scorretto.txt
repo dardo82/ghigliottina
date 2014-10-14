@@ -1,0 +1,27 @@
+scorretto.txt
+"http://api.wordreference.com/12bee/json/iten/scorretto/"
+#*''Hai scritto una frase grammaticalmente '''scorretta'''''
+#*''Barare è '''scorretto'''''
+*[[maleducato]], [[sleale]]
+M>corretto</E
+M>una traduzione s.</E
+M>un tema vivace ma s.</E
+M>un disegno debole e s.</E
+M>esecuzione s. di un brano musicale</E
+M>essere s. negli affari</E
+M>comportarsi in modo s.</E
+M>fare un&#8217;azione s.</E
+M>avere</E
+M> tenere un contegno s.</E
+M>assumere una posa s.</E
+M>giocatore s.</E
+M>la squadra straniera fa un gioco pesante e s.</E
+M>l&#8217;arbitro ha ripreso due volte il pugile sfidante per il suo modo s. di battersi</E
+M>parlare s.</E
+M>scrivere</E
+M>parlare</E
+M>esprimersi scorrettamente</E
+M>agire</E
+M>comportarsi</E
+M>giocare</E
+M>battersi scorrettamente</E

@@ -1,0 +1,80 @@
+sguardo.txt
+"abbassare lo sguardo, guardare verso il basso"
+"alzare lo sguardo"
+"alzare lo sguardo al cielo"
+"alzare lo sguardo, guardare verso l'alto"
+"cogliere lo sguardo"
+"con lo sguardo offuscato"
+"dallo sguardo vivace"
+"dare un'occhiata a; gettare uno sguardo a"
+"distogliere lo sguardo"
+"fissare con lo sguardo"
+"fissare con lo sguardo"
+"fissare con uno sguardo intontito"
+"fissare lo sguardo"
+"lanciare uno sguardo"
+"linea dello sguardo"
+"posare lo sguardo"
+"primo sguardo"
+"reggere lo sguardo"
+"ricambiare uno sguardo."
+"secondo sguardo"
+"sguardo"
+"sguardo"
+"sguardo"
+"sguardo"
+"sguardo arrabbiato"
+"sguardo attento, acuto"
+"sguardo cattivo"
+"sguardo di disapprovazione"
+"sguardo fisso"
+"sguardo fisso"
+"sguardo fisso"
+"sguardo generale, indagine generale"
+"sguardo limpido"
+"sguardo malizioso"
+"sguardo ostile"
+"sguardo; occhiata ulteriore"
+"sostenere lo sguardo di qualcuno"
+"sotto lo sguardo di"
+"spegnere lo sguardo"
+"squadrare qc, dare un'occhiata a qc, dare uno sguardo complessivo a qc"
+"tenere lo sguardo basso"
+#*''sollevare lo sguardo per ammirare il cielo stellato''
+#*''prima di prendere il treno ho dato uno sguardo al giornale''
+#*''aveva uno sguardo d'ira che faceva paura'' 
+*[[vista]]
+*[[occhiata]], [[letta]], [[scorsa]], [[sfogliata]], [[passata]], [[guardata]]
+*[[espressione]], [[piglio]], [[cipiglio]]
+*[[panorama]], [[veduta]], [[visuale]]
+*[[guardare]]
+M>rivolgere uno s.</E
+M>evitare lo s. di una persona</E
+M>rispondere allo s.</E
+M>non degnare di uno s.</E
+M>uno s. pieno di odio</E
+M>uno s. di odio</E
+M>di compassione</E
+M>dare</E
+M>gettare uno s.</E
+M>dai uno s. a questo mio articolo e dimmi la tua impressione</E
+M>gettò uno s. intorno per vedere se c&#8217;era qualcuno che lo conoscesse</E
+M>al primo s.</E
+M>s&#8217;accorse al primo s. che suo fratello gli nascondeva qualcosa</E
+M>s. benevolo</E
+M>dolce</E
+M>pietoso</E
+M>tenero</E
+M>sprezzante</E
+M>uno s. fiero e leale</E
+M>s. timidi</E
+M>furtivi</E
+M>fissare lo s.</E
+M>Quante volte intendesti lo sguardo Nei deserti del duplice mar!</E
+M>fin dove arrivava lo s. non vedeva che deserto</E
+M>la città è un&#8217;enorme produzione di s. non richiesti</E
+M>alzare</E
+M>sollevare</E
+M>abbassare lo sguardo</E
+M>dalla terrazza si gode un bellissimo s. sulla vallata</E
+M>bellosguardo</E

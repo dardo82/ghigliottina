@@ -1,0 +1,16 @@
+sfratto.txt
+"sfratto"
+*''dar lo sfratto''
+M>s. per finita locazione</E
+M>s. per morosità</E
+M>dare</E
+M>ricevere lo s.</E
+M>l&#8217;intimazione di s.</E
+M>ricorrere contro lo s.</E
+M>eseguire lo sfratto</E
+M>dare lo s. a un domestico</E
+M>a un operaio</E
+M>il governo ha disposto lo s. di tutti gli stranieri indesiderabili</E
+M>gioco dello s.</E
+M>di palla a s.</E
+M>pallasfratto</E

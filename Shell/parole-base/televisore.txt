@@ -1,0 +1,18 @@
+televisore.txt
+"televisore"
+"televisore (scherz.)"
+"televisore a schermo piatto"
+"televisore in bianco e nero"
+*[[televisorista]]
+* [[antenna]], [[schermo]], [[telecomando]]
+* [[televisione]]
+*italiano
+M>televisione</E
+M>televisor</E
+M>t. a 16, 20, 22, ..., 40, 46, 52 pollici</E
+M>t. a tubo catodico</E
+M>cinescopio</E
+M>t. al plasma</E
+M>t. a cristalli liquidi</E
+M>t. a proiezione</E
+M>videoproiettori</E

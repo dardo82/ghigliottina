@@ -1,0 +1,62 @@
+nazione.txt
+"attraverso la nazione"
+"della nazione"
+"devoto alla nazione"
+"devozione alla nazione"
+"fuori dalla nazione"
+"in tutta la nazione"
+"in tutta la nazione"
+"leader della nazione"
+"nazione"
+"nazione"
+"nazione libera"
+"nazione sovrana"
+"stato-nazione"
+"tutta la nazione"
+"uniformarsi alla nazione"
+#*  gli abitanti di lingua tedesca dell'Alto Adige sono di nazionalità austriaca ma sono cittadini dello [[stato]]  italiano 
+*[[stato]], [[popolo]], [[gente]], [[stirpe]], [[razza]]
+*[[nascere]],[[nazionale]], [[nazionalità]]
+M>natio</E
+M>onis</E
+M>nasci</E
+M>natus</E
+M>assai piacevole e costumato</E
+M>come che di gran nazion non fosse</E
+M>io m’andava più sempre per le sue parole confermando ch’egli non fosse d’ignobile n</E
+M>né di picciolo ingegno</E
+M>E sua nazion sarà tra feltro e feltro</E
+M>l’anno 1465 fu eletto al pontificato Paulo II di n</E
+M>viniziano</E
+M>pensando l’utilità salutevole che di questa memoria potrà addivenire alle n</E
+M>che dopo noi seguiranno</E
+M>cominciamo</E
+M>la n</E
+M>italiana</E
+M>francese</E
+M>i costumi</E
+M>le tradizioni di una nazione</E
+M>la bandiera</E
+M>l’esercito</E
+M>i confini</E
+M>il territorio della n</E
+M>le ricchezze della n</E
+M>il governo della nazione</E
+M>Nazioni Unite</E
+M>United Nations</E
+M>Assemblea generale</E
+M>Segretario generale</E
+M>Consiglio di Sicurezza</E
+M>rivolgere un appello alla n</E
+M>provvedere al benessere e alla prosperità della n</E
+M>i rappresentanti della n</E
+M>gente</E
+M>l’apostolo delle nazioni</E
+M>S’aduna insieme ogni nazion di fatto</E
+M>Altri a suon di tamburo</E
+M>altri di tromba</E
+M>ogni n</E
+M>di mercanti forestieri in una città fa il consolo</E
+M>che decide lor differenze</E
+M>procuratori</E
+M>consiglieri</E

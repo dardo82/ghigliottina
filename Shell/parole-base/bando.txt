@@ -1,0 +1,54 @@
+bando.txt
+"bando"
+"bando"
+"bando alle ciance!"
+"bando di concorso"
+"bando di gara"
+"bando di selezione"
+"messa al bando"
+"mettere a bando"
+"mettere al bando"
+"mettere al bando i cattivi pensieri"
+"porre al bando"
+*(di concorso, di leva, d’asta) [[avviso]], [[annuncio]], [[comunicato]], [[comunicazione]], [[notificazione]], [[notifica]], [[decreto]], [[editto]], [[ordinanza]], [[proclama]], [[grida]]
+*[[condanna]], [[allontanamento]], [[esilio]], [[confino]], [[espulsione]], [[ostracismo]], [[proscrizione]]
+*[[cacciata]]
+*'' mettere al bando''
+M>bandw</E
+M>bandum</E
+M>bannum</E
+M>di concorso</E
+M>d’asta</E
+M>d’arruolamento</E
+M>novissimo b</E
+M>militare</E
+M>di vendita</E
+M>leggere il b</E
+M>affiggere un bando</E
+M>porre</E
+M>mettere</E
+M>mandare in b</E
+M>mettere al b</E
+M>andare in b</E
+M>rompere il b</E
+M>dare b</E
+M>di ribelle</E
+M>dare b</E
+M>delle forche</E
+M>mettere al b</E
+M>individui messi al b</E
+M>della società</E
+M>mettere al b. gli stupefacenti</E
+M>i giochi d’azzardo</E
+M>mettere in b</E
+M>gli scrupoli</E
+M>alla tristezza!</E
+M>alle chiacchiere!</E
+M>ai complimenti!</E
+M>a bandon</E
+M>in bando</E
+M>mollare</E
+M>lasciare un cavo in b</E
+M>lasciare</E
+M>mollare in b</E
+M>qualcosa</E

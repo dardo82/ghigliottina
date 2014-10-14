@@ -1,0 +1,25 @@
+scoiattolo.txt
+"scoiattolo"
+"scoiattolo"
+"scoiattolo grigio"
+"scoiattolo grigio"
+"scoiattolo nero"
+"scoiattolo volante"
+"volpe scoiattolo"
+M>àttolo</E
+M>*scurius</E
+M>sciurus</E
+M>Sciurus</E
+M>scoiattolo rosso</E
+M>Sciurus vulgaris</E
+M>s. grigio</E
+M>Sciurus carolinensis</E
+M>s. giganti</E
+M>Ratufa</E
+M>s. volanti</E
+M>patagio</E
+M>agile</E
+M>veloce come uno s.</E
+M>arrampicarsi come uno s.</E
+M>quel ragazzo è proprio uno s.</E
+M>gli Scoiattoli di Cortina</E

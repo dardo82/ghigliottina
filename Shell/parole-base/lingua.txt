@@ -1,0 +1,421 @@
+lingua.txt
+"affetto da malformazione della lingua, da anchiloglossa"
+"affinare la lingua"
+"dalla lingua tagliente"
+"dizionario di lingua straniera"
+"in che lingua te lo devo dire?"
+"La lingua Navajo"
+"lingua"
+"lingua"
+"lingua"
+"cosa a forma di lingua"
+"lingua"
+"lingua"
+"linguaggio, modo di esprimersi"
+"lingua"
+"lingua italiana, non dialetto"
+"lingua"
+"lingua straniera"
+"lingua biforcuta"
+"lingua classica"
+"lingua d'arrivo"
+"lingua del Ciad"
+"lingua di fuoco"
+"lingua di terra"
+"lingua franca"
+"lingua franca"
+"lingua greca"
+"lingua inglese"
+"lingua letteraria"
+"lingua lunga"
+"lingua madre"
+"lingua madre"
+"lingua madre"
+"lingua madre"
+"lingua madre"
+"lingua mandarina"
+"lingua mista"
+"lingua mista"
+"lingua franca"
+"lingua mondiale"
+"lingua morta"
+"lingua morta"
+"lingua parlata"
+"lingua per scopi speciali"
+"lingua romanza"
+"lingua romanza"
+"lingua scritta"
+"lingua spagnola"
+"lingua standard"
+"lingua tedesca"
+"lingua ufficiale"
+"lingua ufficiale"
+"lingua universale"
+"lingua viva"
+"mi prude la lingua"
+"mordersi la lingua"
+"non avere peli sulla lingua, parlare chiaro"
+"non avere peli sulla lingua, parlare chiaro"
+"norvegese antico (lingua)"
+"padroneggiare una lingua"
+"riproduzione della risata nella lingua scritta (ah ah)"
+"senza peli sulla lingua"
+"su una lingua (di terra)"
+"usare la lingua"
+* [[lengua]]
+* [[lashon]]
+* lingua maternal
+* ''ivrit'' [[לינגוה]]
+#* ''
+#* ''
+#* '''lingua madre'''
+#* '''lingua franca'''
+#* '''lingua estinta'''
+#* '''lingua straniera'''
+#* ''
+#* ''
+#* ''la 
+#* ''la 
+* organo del gusto
+*[[linguaggio]], [[idioma]], [[codice]],  
+* [[parlata]], modo d’esprimersi, [[espressione]], [[lessico]], [[vocabolario]], [[terminologia]], [[fraseologia]], [[dialetto]], [[gergo]], [[slang]], [[argot]]
+*[[stile]], [[forma]]
+* ''(idioma parlato da una...)''  [[favella]], [[loquela]],  [[eloquio]], [[uso]]
+* ''(idioma parlato da una...)'' [[linguaggio]], [[linguaiolo]], [[linguista]], [[linguistica]], [[linguacciuto]], [[Pange lingua]], [[lingua-ponte]]
+* ''(idioma parlato da una...)'' [[dialetto]], [[gergo]], [[vernacolo]]
+* ''(organo muscolare del corpo...)'' [[bocca]], [[denti]], [[palato]]
+* ''avere la '''lingua''' biforcuta''
+* ''avere la '''lingua''' lunga''
+* ''avere qualcosa sulla punta della '''lingua'''''
+* ''avere una bella '''lingua'''''
+* ''esprimersi in '''lingua''''', ''parlare in lingua''
+* ''essere una mala'''lingua'''''
+* ''fare la '''lingua'''ccia''
+* ''la '''lingua''' batte dove il dente duole''
+* ''mordersi la '''lingua'''''
+* ''non aver peli sulla '''lingua'''''
+* ''perdere la '''lingua'''''
+* '' ingoiarsi la '''lingua'''''
+* '' chi ha '''lingua''''' va in sardegna
+* '' mettere la '''lingua''''' nel pulito
+*[[linguina]]'' formato di '''pasta '''
+*giudeospagnolo
+*italiano
+*latino
+M>ngua</E
+M>dingua</E
+M>la parte anteriore</E
+M>posteriore</E
+M>superiore</E
+M>inferiore della l</E
+M>la punta</E
+M>l’apice della l</E
+M>sottile</E
+M>grossa</E
+M>appuntita</E
+M>bifida</E
+M>biforcuta</E
+M>avere la l</E
+M>rosea</E
+M>rossa</E
+M>bella</E
+M>pulita</E
+M>bianca</E
+M>patinosa</E
+M>sporca</E
+M>enfiata</E
+M>ingrossata</E
+M>avere la l</E
+M>secca</E
+M>asciutta</E
+M>arida</E
+M>riarsa</E
+M>schioccare la l</E
+M>far vedere la l</E
+M>mostrare</E
+M>tirare fuori la lingua</E
+M>con un palmo di l</E
+M>con tanto di l</E
+M>fuori</E
+M>con la l</E
+M>penzoloni</E
+M>Mordersi la l</E
+M>appena ebbi pronunciata quella frase</E
+M>mi morsi la l</E
+M>mordersi le labbra</E
+M>Tagliare</E
+M>mozzare</E
+M>strappare la l</E
+M>a qualcuno</E
+M>gli si dovrebbe strappare la l</E
+M>se non stai zitto</E
+M>ti taglio la l</E
+M>taglio</E
+M>perforazione della l</E
+M>sciogliere la l</E
+M>gli si è sciolta la l</E
+M>ha sciolto la l</E
+M>avere la l</E
+M>sciolta</E
+M>snodare la l</E
+M> sciogliere la l</E
+M>snodare</E
+M>sciogliere la l</E
+M>a qualcuno</E
+M>avere la l</E
+M>lunga</E
+M>non avere peli sulla l</E
+M>avere la l</E
+M>in bocca</E
+M>non hai la l</E
+M>in bocca?</E
+M>non hai lingua?</E
+M>non hai la lingua?</E
+M>non gli manca certo la l</E
+M>moderare</E
+M>frenare la l</E
+M>tenere la l. a freno</E
+M>tieni la l</E
+M>in bocca!</E
+M>tieni la l</E
+M>a casa!</E
+M>hai perso la l</E
+M>ha perso la l</E
+M>gli manca la l</E
+M>quello che ha nel cuore ha sulla l</E
+M>dice tutto ciò che gli viene sulla l</E
+M>tu parli solo perché hai la l</E
+M>avere sulla punta della l</E
+M>mettere la l</E
+M>mettere l</E
+M>mettere bocca</E
+M>Mi si secchi la l</E
+M>se non è vero</E
+M>ti si secchi</E
+M>ti si possa seccare</E
+M>gli si seccasse la l</E
+M>Avere una l</E
+M>mordace</E
+M>tagliente</E
+M>tagliente come un rasoio</E
+M>velenosa</E
+M>pestifera</E
+M>una l</E
+M>di vipera</E
+M>di demonio</E
+M>una l</E
+M>che taglia e cuce</E
+M>che taglia</E
+M>fende e fora</E
+M>è una l</E
+M>velenosa</E
+M>una l</E
+M>di vipera</E
+M>una l</E
+M>sacrilega</E
+M>bugiarda</E
+M>una mala l</E
+M>malalingua</E
+M>è una l</E
+M>una certa l</E
+M>che l</E
+M>essere una l. biforcuta</E
+M>avere la l. biforcuta</E
+M>Se mo sonasser tutte quelle lingue</E
+M>D’una in un’altra l</E
+M>in un momento Ne trapassa la fama</E
+M>mortal non dice Quel ch’io sentiva in seno</E
+M>la l</E
+M>batte dove il dente duole</E
+M>taglia</E
+M>ne uccide</E
+M>più la l</E
+M>che la spada</E
+M>dare lingua a qualcuno</E
+M>prendere lingua da qualcuno di qualcosa</E
+M>lessa</E
+M>in umido</E
+M>in agrodolce</E
+M>in salsa verde</E
+M>salmistrata</E
+M>salata</E
+M>affumicata</E
+M>calzascarpe</E
+M>calzante</E
+M>di fuoco</E
+M>Lingua di bue</E
+M>cinquedea</E
+M>Lingue di gatto</E
+M>lingue di suocera</E
+M>delle suocere</E
+M>Lingue di passero</E
+M>di passera</E
+M>linguine</E
+M>Lingua di Menelìk</E
+M>di Menelicche</E
+M>Lingua di terra</E
+M>Lingua glaciale</E
+M>di ablazione</E
+M>d’acqua</E
+M>Potamogeton natans</E
+M>di brughiera</E
+M>Polyporus scobinaceus</E
+M>di bue</E
+M>Fistulina hepatica</E
+M>di cane</E
+M>piantaggine</E
+M>cervina</E
+M>scolopendria</E
+M>Phyllitis scolopendrium</E
+M>di manzo</E
+M>di bove</E
+M>bovina</E
+M>buglossa</E
+M>Anchusa officinalis</E
+M>di serpe</E
+M>gigaro</E
+M>pan di serpe</E
+M>fonemi</E
+M>lessemi</E
+M>sintagmi</E
+M>morfemi</E
+M>italiana</E
+M>francese</E
+M>inglese</E
+M>tedesca</E
+M>araba</E
+M>turca</E
+M>cinese</E
+M>le l</E
+M>indoeuropee</E
+M>neolatine</E
+M>germaniche</E
+M>slave</E
+M>creole</E
+M>franca</E
+M>dotte</E
+M>classiche</E
+M>miste</E
+M>nazionale</E
+M>materna</E
+M>madre</E
+M>linguamadre</E
+M>madre lingua</E
+M>madrelingua</E
+M>sorelle</E
+M>del sì</E
+M>d’oc</E
+M>d’oil</E
+M>agglutinanti</E
+M>flessive</E
+M>analitiche</E
+M>sintetiche</E
+M>isolanti</E
+M>monosillabiche</E
+M>internazionale</E
+M>universale</E
+M>diplomatica</E
+M>ufficiale</E
+M>lingue di cultura</E
+M>morta</E
+M>viva</E
+M>vivente</E
+M>la grammatica</E
+M>la sintassi</E
+M>il lessico</E
+M>vocabolario di una l</E
+M>il carattere</E
+M>l’indole</E
+M>il genio</E
+M>di una l</E
+M>la storia</E
+M>l’evoluzione della l</E
+M>errori</E
+M>spropositi di lingua</E
+M>le bellezze</E
+M>i fiori</E
+M>le grazie</E
+M>le gemme</E
+M>di una l</E
+M>la l</E
+M>si arricchisce</E
+M>s’impoverisce</E
+M>si guasta</E
+M>si corrompe</E
+M>s’imbarbarisce</E
+M>ricca</E
+M>povera di vocaboli</E
+M>armoniosa</E
+M>buona l</E
+M>impura</E
+M>purezza</E
+M>studiare</E
+M>imparare una l</E
+M>parlare una l</E
+M>possedere una l</E
+M>essere fluenti in una l.</E
+M>La confusione delle l</E
+M>non capisco</E
+M> che lingua parli</E
+M>che l</E
+M>parlo?</E
+M>in che l</E
+M>debbo parlarti</E
+M>parlarvi</E
+M>non parliamo la stessa l</E
+M>parliamo due lingue diverse</E
+M>studiare lingue</E
+M>imparare le lingue</E
+M>insegnante di lingue</E
+M>facoltà di lingue</E
+M>laurea in lingue</E
+M>l’unità della l</E
+M>la questione della l</E
+M>volgare</E
+M>il volgare</E
+M>esercizî di lingua</E
+M>libro</E
+M>articolo</E
+M>componimento scritto in buona l</E
+M>testi di lingua</E
+M>parlare</E
+M>poetare in lingua</E
+M>in dialetto</E
+M>Così ha tolto l’uno a l’altro Guido La gloria de la l</E
+M>toscana in bocca romana</E
+M>fiorentina in bocca senese</E
+M>letteraria</E
+M>poetica</E
+M>linguaggio letterario</E
+M>poetico</E
+M>linguaggio burocratico</E
+M>giuridico</E
+M>commerciale</E
+M>popolare</E
+M>plebeo</E
+M>lingua burocratica</E
+M>parlata</E
+M>dell’uso parlato</E
+M>scritta</E
+M>viva</E
+M>dell’uso odierno</E
+M>l. trasmessa</E
+M>la l</E
+M>del Duecento</E
+M>del Trecento</E
+M>la l</E
+M>di Dante</E
+M>di Manzoni</E
+M>convenzionale</E
+M>furbesca</E
+M>furfantina</E
+M>in l</E
+M>povera</E
+M>in l</E
+M>povera</E
+M>ti sei comportato da mascalzone</E
+M>nazione</E
+M>vi erano genti di ogni l</E
+M>lingue</E
+M>linguetta</E
+M>linguine</E

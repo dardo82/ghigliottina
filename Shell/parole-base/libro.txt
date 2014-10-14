@@ -1,0 +1,330 @@
+libro.txt
+"albo d'oro, libro d'oro"
+"angolo del libro"
+"apertura a libro"
+"buon libro"
+"chiusura a libro"
+"club del libro"
+"come un libro aperto"
+"copertina del libro"
+"copertina di libro"
+"della grandezza di un libro"
+"divorare un libro"
+"fiera del libro"
+"finire un libro"
+"foglio bianco alla fine di un libro"
+"il Salterio (Libro dei Salmi)"
+"libro"
+"libro a fumetti"
+"libro antico per metà in pelle di vitello"
+"libro aperto"
+"libro cassa"
+"libro contabile"
+"libro contabile"
+"libro d'oro"
+"libro da colorare"
+"libro da colorare"
+"libro dalla copertina rigida; rilegato"
+"libro degli ordini"
+"Libro dei Proverbi"
+"libro dei reclami"
+"Libro dei Salmi"
+"Libro dei Salmi"
+"libro dei sogni"
+"libro del giudizio"
+"libro della natura"
+"libro delle diete"
+"libro delle fiabe"
+"libro delle ordinazioni"
+"libro delle preghiere"
+"libro delle risposte"
+"libro di consultazione"
+"libro di cucina"
+"libro di cucina"
+"libro di fiabe"
+"libro di grammatica"
+"libro di guerra"
+"libro di inni religiosi"
+"libro di lettura"
+"libro di preghiere"
+"libro di preghiere"
+"libro di riferimento"
+"libro di schizzi"
+"libro di testo"
+"libro di testo"
+"libro di testo"
+"libro di testo"
+"libro di testo introduttivo"
+"libro illustrato"
+"libro in brossura"
+"libro in edizione di lusso"
+"libro infortuni"
+"libro mastro"
+"libro mastro degli acquisti"
+"libro medio"
+"libro nero"
+"libro paga"
+"libro parlante"
+"libro per bambini"
+"libro raro"
+"libro rilegato"
+"libro rosso"
+"libro tascabile"
+"libro tascabile"
+"libro tascabile"
+"Libro Verde"
+"parlare come un libro stampato"
+"parte di un libro"
+"parte introduttiva (di libro)"
+"porta a libro"
+"presentare un libro"
+"presentazione di un libro"
+"pubblicazione di un libro"
+"recensione di un libro"
+"volume, libro"
+#* in base al metodo di scrittura
+#* in base al numero delle pagine
+#* in base al formato
+#* in base al metodo di rilegatura
+#* in base alla stampa
+#* in base alle sue condizioni esteriori
+#* in base al periodo di pubblicazione
+#* in base al contenuto
+#* in base allo scopo
+#* ''Orazio compose quattro 
+#* ''
+#* ''
+#* ''il 
+* (sostantivo) dal 
+* (voce verbale) 
+* (oggetto costituito da una pila) [[opera]], [[titolo]], [[pubblicazione]], [[testo]], [[tomo]], [[volume]]
+* (parti nella quale vengono...) [[sezione]], [[parte]], [[canto]]
+* (registro mantenuto dalla...) [[registro]]
+* (significato botanico) [[floema]]
+* (significato zoologico) [[millefoglio]], [[omaso]], [[salterio]]
+*[[audiolibro]],[[librocassetta]],[[libro verde]], [[libro-mosiaco]], [[libro-intervista]], [[libro-confessione]], [[libro-culto]], [[libro parlato]], [[libro-verità]], [[libro-denuncia]], [[libro-game]] [[libro parlante]], [[libro-documenti]], [[reggilibro]], [[sputalibri]]  [[a libro]], [[libri sibillini]], [[libri sociali]], [[libro bianco]], [[libro contabile]], [[libro da messa]], [[libro dei morti]], [[libro dei sogni]], [[libro delle firme]], [[libro del rifugio]], [[libro di biccherna]], [[libro di bordo]], [[libro di carico]], [[libro di cassa]], [[libro di devozione]], [[libro di lettura]], [[libro di navigazione]], [[libro di stato]], [[libro di testo]], [[libro di vetta]], [[libro d'ore]], [[libro d'oro]], [[libro giornale]], [[libro liturgico]], [[libro mastro]], [[libro nero]], [[libro paga]], [[libro parrocchiale]], [[libro pontificale]], [[libro proibito]], [[libro sacro]], [[libro strenna]], [[libro tascabile]], [[libreria]]
+* [[eBook]], [[recensione]], [[almanacco]], [[dorso]], [[editoria]], [[floema]], [[formato]], [[frontespizio]], [[fusto]], [[illustrazione]], [[legatura]], [[manoscritto]], [[pagina]], [[stampato]]
+* (oggetto costituito da una pila...) [[studio]], [[romanzo]], [[trattato]], [[manuale]], [[prontuario]], [[repertorio]], [[saggio]]
+* ''nessun veliero equivale a un '''libro''' per trasportare in terre lontane''
+* italiano
+* spagnolo
+M>liber</E
+M>bri</E
+M>a stampa</E
+M>manoscritto</E
+M>a mano</E
+M>sottile</E
+M>grosso</E
+M>di piccola</E
+M>di grande mole</E
+M>in foglio</E
+M>in-folio</E
+M>in quarto</E
+M>in ottavo</E
+M>in sedicesimo</E
+M>in diamante</E
+M>edizioni diamante</E
+M>tascabile</E
+M>sciolto</E
+M>legato</E
+M>in brochure</E
+M>rilegato in tela</E
+M>in pelle</E
+M>in elzeviro</E
+M>in caratteri latini</E
+M>gotici</E
+M>illustrato</E
+M>nuovo</E
+M>usato</E
+M>in ottimo</E
+M>in cattivo stato</E
+M>intonso</E
+M>antico</E
+M>un vecchio l</E
+M>moderno</E
+M>nuovo</E
+M>recente</E
+M>scientifico</E
+M>letterario</E
+M>di poesie</E
+M>di storia</E
+M>divulgativo</E
+M>istruttivo</E
+M>giallo</E
+M>erotico</E
+M>di preghiere</E
+M>di devozione</E
+M>da messa</E
+M>di lettura</E
+M>di amena lettura</E
+M>buono</E
+M>un buon l</E
+M>un bel l</E
+M>cattivo</E
+M>attraente</E
+M>interessante</E
+M>profondo</E
+M>leggero</E
+M>noioso</E
+M>pesante</E
+M>utile</E
+M>inutile</E
+M>innocente</E
+M>pericoloso</E
+M>proibiti</E
+M>indice dei l</E
+M>proibiti</E
+M>preparare</E
+M>scrivere</E
+M>fare</E
+M>comporre</E
+M>cominciare</E
+M>terminare un l</E
+M>stampare</E
+M>pubblicare</E
+M>vendere</E
+M>smerciare</E
+M>divulgare un l</E
+M>che si vende molto</E
+M>che fa furore</E
+M>che è nelle mani di tutti</E
+M>esaurito</E
+M>permettere</E
+M>proibire un l</E
+M>fiera del l</E
+M>collezione</E
+M>raccolta</E
+M>scaffale</E
+M>negozio di libri</E
+M>aprire</E
+M>chiudere</E
+M>sfogliare un l</E
+M>leggere</E
+M>scorrere</E
+M>divorare un l</E
+M>esaminare</E
+M>giudicare</E
+M>criticare</E
+M>commentare</E
+M>postillare un l</E
+M>riveduto e corretto</E
+M>vivere tra i l</E
+M>è sempre con i suoi l</E
+M>lasciare i l</E
+M>di testo</E
+M>scolastico</E
+M>di stato</E
+M>sacri</E
+M>canonici</E
+M>apocrifi</E
+M>liturgici</E
+M>libri d’ore</E
+M>penitenziali</E
+M>aruspicini</E
+M>augurali</E
+M>fulgurali</E
+M>ostentarî</E
+M>pontificali</E
+M>rituali</E
+M>sibillini</E
+M>tarquiziani</E
+M>dei morti</E
+M>diplomatici</E
+M>azzurri</E
+M>bianchi</E
+M>gialli</E
+M>verdi</E
+M>bianco</E
+M>nel corso della conferenza stampa è stato distribuito un l</E
+M>bianco</E
+M>un l</E
+M>bianco sulla mafia</E
+M>sulla droga</E
+M>dei sogni</E
+M>il l</E
+M>della vita</E
+M>del destino</E
+M>del futuro</E
+M>leggere nel l</E
+M>della vita</E
+M>del futuro</E
+M>leggere nel l</E
+M>della natura</E
+M>nel l</E
+M>dell’universo</E
+M>Parla come un l</E
+M>stampato</E
+M>È un l</E
+M>chiuso</E
+M>è un l</E
+M>aperto</E
+M>A libro</E
+M>l’«Eneide» è divisa in 12 l</E
+M>le «Storie» di Tito Livio comprendevano 142 l</E
+M>Orazio compose 4 l</E
+M>di odi</E
+M>il l</E
+M>di Giobbe</E
+M>d’Isaia</E
+M>dei Salmi</E
+M>libro</E
+M>il l</E
+M>il l</E
+M>II delle «Odi barbare» del Carducci</E
+M>i quattro l</E
+M>delle «Laudi» di G</E
+M>D’Annunzio</E
+M>contabili</E
+M>mastro</E
+M>castelletto</E
+M>di castelletto</E
+M>dei fidi</E
+M>libri di commercio</E
+M>obbligatorî dell’imprenditore</E
+M>giornale</E
+M>degli inventarî</E
+M>sociali</E
+M>dei conti</E
+M>di cassa</E
+M>cassa</E
+M>delle consegne</E
+M>di carico e scarico</E
+M>tenere bene</E
+M>male</E
+M>tenere in regola i l</E
+M>mettere a l</E
+M>una partita</E
+M>parrocchiali</E
+M>delle anime</E
+M>dei morti</E
+M>dei battesimi</E
+M>dei matrimonî</E
+M>Libri di navigazione</E
+M>nautici</E
+M>ruolo d’equipaggio</E
+M>giornale nautico</E
+M>giornale di macchina</E
+M>codice internazionale dei segnali</E
+M>libri di bordo</E
+M>giornale di rotta</E
+M>libro</E
+M>regolamento per la navigazione aerea</E
+M>Gran l</E
+M>del debito pubblico</E
+M>araldici</E
+M>d’oro della nobiltà italiana</E
+M>d’oro</E
+M>libro d’oro</E
+M>genealogico</E
+M>nero</E
+M>essere nel l</E
+M>nero</E
+M>delle firme</E
+M>del rifugio</E
+M>segnare nel l</E
+M>della memoria</E
+M>non essere più nel l</E
+M>dei viventi</E
+M>primario</E
+M>secondario</E
+M>mi condusse ad uno scrittoio ove erano molti librattoli unti e gualciti</E

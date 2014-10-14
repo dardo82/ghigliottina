@@ -1,0 +1,61 @@
+veicolo.txt
+"segnalare a un veicolo di fermarsi"
+"veicolo"
+"veicolo"
+"veicolo a due ruote"
+"veicolo a metano"
+"veicolo a motore"
+"veicolo a tre ruote"
+"veicolo armato"
+"veicolo cingolato anfibio"
+"veicolo commerciale"
+"veicolo da turismo"
+"veicolo di lancio"
+"veicolo elettrico - a metano"
+"veicolo motorizzato"
+* mezzo di trasporto, [[macchina]]
+*[[autoveicolo]], [[motoveicolo]]
+M>vehic</E
+M>lum</E
+M>veh</E
+M>v. stradali</E
+M>v. a braccia</E
+M>v. a trazione animale</E
+M>v. a motore</E
+M>ciclomotori</E
+M>motoveicoli</E
+M>autoveicoli</E
+M>filoveicoli</E
+M>v. su rotaia</E
+M>v. aerei</E
+M>atmosferici</E
+M>v. spaziali</E
+M>cosmici</E
+M>extratmosferici</E
+M>capsule spaziali</E
+M>astronavi</E
+M>la circolazione dei v.</E
+M>disciplina del traffico dei v.</E
+M>divieto di transito ai v. di ogni specie</E
+M>v. ferroviarî</E
+M>v. cingolati</E
+M>gatto delle nevi</E
+M>V. a cuscino d’aria</E
+M>hovercrafts</E
+M>la lingua è il v. della conoscenza</E
+M>i maggiori v. d’in-formazione sono la stampa</E
+M> la radio</E
+M> la televisione e Internet</E
+M>l’acqua è un ottimo v. del suono e</E
+M>della corrente elettrica</E
+M>veicolo</E
+M>v. d’infezione</E
+M>vettori d’infezione</E
+M>eccipiente</E
+M>v. invertitore</E
+M>piccolo v.</E
+M>grande v.</E
+M>Hinay</E
+M>Mah</E
+M>piccolo v.</E
+M>grande v.</E

@@ -1,0 +1,55 @@
+ideale.txt
+"essere l'ideale per"
+"ideale"
+"ideale"
+"ideale"
+"ideale"
+"ideale massimo"
+"ideale principale"
+"lavoro ideale"
+"non certo ideale"
+"punto ideale (geom.)"
+"tipo ideale"
+#*''l'ideale è morire giovani il più tardi possibile''
+* [[astratto]], [[teorico]]
+*[[reale]]
+*[[idea]], [[idealismo]],[[idealista]], [[idealità]], [[idealizzare]], [[idealmente]]
+M>idealis</E
+M>tipi i</E
+M>un modello ideale</E
+M>reale</E
+M>effettivo</E
+M>gas i</E
+M>gas perfetto</E
+M>moneta i</E
+M>ECU</E
+M>personaggi i</E
+M>e personaggi storici di un romanzo</E
+M>l’ippogrifo e la chimera sono esseri ideali</E
+M>i supremi valori i</E
+M>essere spinto da motivi i</E
+M>sognare la pace i</E
+M>la donna ideale</E
+M>conduce una vita i</E
+M>ho trovato una sistemazione i</E
+M>ha un marito ideale</E
+M>linea i</E
+M>svolgimento i</E
+M>la sfera dell’ideale</E
+M>politici</E
+M>religiosi</E
+M>gli i</E
+M>di Dante</E
+M>di Mazzini</E
+M>gli i</E
+M>del Risorgimento</E
+M>lottare</E
+M>morire per i proprî i</E
+M>per un grande ideale</E
+M>gente priva di ideali</E
+M>che pensa solo a far quattrini</E
+M>una casetta propria è stato sempre il suo ideale</E
+M>ideale dell’I0</E
+M>idealmente bello</E
+M>idealmente perfetto</E
+M>si sentiva idealmente trasportato in un mondo diverso</E

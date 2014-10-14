@@ -1,0 +1,37 @@
+chimico.txt
+"bagno chimico"
+"chimico"
+"chimico"
+"chimico"
+"chimico organico"
+"composto chimico"
+"composto chimico"
+"composto chimico"
+"dizionario chimico"
+"elemento chimico"
+"elemento chimico della serie dei lantanidi"
+"elemento chimico niobium"
+"fertilizzante chimico"
+"ingegnere chimico"
+"legame chimico"
+"potenziale chimico"
+"WC chimico"
+M>chimicus</E
+M>chìmia</E
+M>la scienza ch</E
+M>metodi</E
+M>processi</E
+M>procedimenti ch</E
+M>analisi ch</E
+M>concimi ch</E
+M>arma ch</E
+M>guerra ch</E
+M>aggressivi ch</E
+M>un celebre ch</E
+M>i chimici dell’università</E
+M>analisti</E
+M>industriali</E
+M>farmacologi</E
+M>fisici</E
+M>elettrochimici</E
+M>una sostanza ottenuta chimicamente</E

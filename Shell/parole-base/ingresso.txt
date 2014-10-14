@@ -1,0 +1,104 @@
+ingresso.txt
+"biglietto di ingresso"
+"corrente d'ingresso"
+"diritto di ingresso"
+"fade-in, dissolvenza in ingresso, dissolvenza in entrata"
+"ingresso"
+"ingresso"
+"ingresso"
+"ingresso"
+"ingresso"
+"ingresso a pagamento"
+"ingresso artisti"
+"ingresso dedicato"
+"ingresso del palcoscenico"
+"ingresso gratuito"
+"ingresso in società"
+"ingresso monumentale"
+"ingresso nella comunità europea"
+"ingresso non autorizzato"
+"ingresso principale"
+"ingresso riservato"
+"resistenza di ingresso"
+"tensione di ingresso"
+"test di ingresso"
+#*''stare a dieta significa ridurre le calorie di ingresso e aumentarne il consumo con il movimento''
+*''(di un luogo)'' [[entrata]], [[accesso]]; [[porta]], [[portone]], [[soglia]], [[portale]]
+*''(ambiente su cui dà l’entrata)'' [[anticamera]], [[atrio]], [[vestibolo]], [[hall]]
+*''(di qualcuno in un luogo)''[[entrata]]; [[apparizione]], [[comparsa]], [[arrivo]] 
+*''(di un luogo)'' [[uscita]]
+*[[ingressare]], [[ingressivo]], [[subingresso]], [[reingresso]]
+*[[atrio]], [[ammissione]], [[biglietto]]
+M>ingressus</E
+M>ingr</E
+M>entrata</E
+M>gli sposi fecero il loro i</E
+M>nella sala</E
+M>le truppe vittoriose hanno fatto il loro i</E
+M>nella capitale nemica</E
+M>un giovane che fa il suo primo i</E
+M>nel mondo</E
+M>nella società</E
+M>l’i</E
+M>è libero a tutti</E
+M>l’i</E
+M>è vietato alle persone non addette ai lavori</E
+M>permettere</E
+M>concedere</E
+M>proibire l’i</E
+M>libero</E
+M>riservato</E
+M>a pagamento</E
+M>di favore</E
+M>Biglietto d’i</E
+M>acquistare un biglietto d’i</E
+M>bisogna pagare l’i</E
+M>ho preso due ingressi per l’Opera</E
+M>l’i</E
+M>del nuovo vescovo nella diocesi</E
+M>all’i</E
+M>della primavera</E
+M>all’i</E
+M>della valle</E
+M>l’i</E
+M>della città</E
+M>l’i</E
+M>del campo sportivo</E
+M>l’i</E
+M>del castello</E
+M>del palazzo</E
+M>l’i</E
+M>della banca</E
+M>un i</E
+M>ampio</E
+M>spazioso</E
+M>chiudere</E
+M>sbarrare</E
+M>aprire l’i</E
+M>sono arrivato in ritardo e ho trovato l’i</E
+M>chiuso</E
+M>l’i</E
+M>della palazzina</E
+M>della villa</E
+M>porta</E
+M>portone d’i</E
+M>appartamento con due i</E
+M>entrare</E
+M>far entrare dall’i</E
+M>principale</E
+M>dall’i</E
+M>di servizio</E
+M>stanza</E
+M>sala d’i</E
+M>ingresso</E
+M>lo fece attendere nell’i</E
+M>lasciò l’impermeabile e l’ombrello nell’i</E
+M>ed entrò nello studio</E
+M>hall d’i</E
+M>entrata</E
+M>connettere un microfono all’i</E
+M>di un amplificatore</E
+M>resistenza</E
+M>capacità d’ingresso</E
+M>entrata</E
+M>input</E

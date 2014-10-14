@@ -1,0 +1,18 @@
+marionetta.txt
+"marionetta"
+"marionetta"
+*[[burattino]], [[fantoccio]], [[pupazzo]], [[pupo]]
+*persona di carattere, [[volitivo]]
+M>marionnette</E
+M>Marion</E
+M>Marie</E
+M>rappresentazione di marionette</E
+M>andare alle m</E
+M>teatro di marionette</E
+M>essere</E
+M>sembrare una m</E
+M>muoversi come una marionetta.</E
+M>burattino</E
+M>essere una m</E
+M>nelle mani di qualcuno</E
+M>fare la m</E

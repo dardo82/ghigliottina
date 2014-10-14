@@ -1,0 +1,11 @@
+votare.txt
+"età minima per poter votare"
+"votare"
+"votare"
+"votare"
+"votare a favore"
+"votare contro"
+"votare in un'elezione"
+"votare per corrispondenza"
+*[[votazione]]
+*[[voto]]

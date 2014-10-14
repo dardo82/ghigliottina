@@ -1,0 +1,22 @@
+portone.txt
+"portone"
+"portone"
+"portone elevabile"
+M>porta</E
+M>il p</E
+M>di una casa</E
+M>di una palazzina</E
+M>di una scuola</E
+M>di una caserma</E
+M>il p</E
+M>di un palazzo cinquecentesco</E
+M>aprire</E
+M>chiudere il portone</E
+M>il p</E
+M>di bronzo</E
+M>la notizia ha suscitato vivaci commenti di là dal p</E
+M>di bronzo</E
+M>aspettare qualcuno al p</E
+M>giù al p</E
+M>entrò in un p</E
+M>per ripararsi dalla pioggia</E

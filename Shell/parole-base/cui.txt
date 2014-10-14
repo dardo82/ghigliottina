@@ -1,0 +1,108 @@
+cui.txt
+"al tempo in cui"
+"al tempo in cui"
+"alla cui guida, con a capo"
+"arrivare al punto in cui"
+"cerimonia di apertura di un gran ballo a cui prendono parte tutti gli ospiti"
+"città in cui l'ufficio postale è presente per legge"
+"con cui si sta lavorando"
+"corda che apre il paracadute legata al velivolo da cui si lancia"
+"cui"
+"Cui\"
+"), salvo nei casi in cui è usato come compl. di termine"
+"cui"
+"di termine, a cui"
+"cui"
+"da cui, dal quale"
+"da cui, dal quale"
+"di cui"
+"di cui"
+"di cui"
+"durante il tempo in cui"
+"espediente narrativo in cui il lettore ha una conoscenza dei fatti superiore ai personaggi narrati"
+"età in cui è permesso acquistare alcolici"
+"formula con cui ci si rivolge a qcn"
+"gioco da bambini in cui si battono le mani"
+"gioco in cui si disegna uno schema per terra e ci si salta dentro a passi alterni"
+"giorno in cui le università accolgono potenziali studenti per una visita"
+"il modo in cui pensi, come pensi"
+"il modo in cui sei, come sei"
+"il modo in cui sono le cose"
+"il modo in cui ti senti, come ti senti"
+"il modo in cui vanno le cose"
+"il punto fin dove, il punto fino a cui"
+"in base a cui"
+"in cui"
+"la cui mancata osservanza"
+"la cui unica preoccupazione"
+"la ragione per cui"
+"la ragione per cui"
+"maggiore età in cui prendere la patente di guida"
+"metodo di vendita con cui si impone un prodotto a un cliente"
+"modo in cui la si mette"
+"modo in cui vanno le cose"
+"montatura in cui non si vede il metallo"
+"nei cui confronti"
+"nel caso in cui"
+"nel momento in cui"
+"nella misura in cui"
+"nello stesso momento in cui"
+"non c'è niente di cui scrivere a casa, non è niente di sensazionale"
+"per cui"
+"periodo della vita in cui si è studenti"
+"periodo di mercato in cui per gli assicurati è difficile ottenere copertura di rischi e i premi sono"
+"persona a cui è stato dato un certo tipo di potere"
+"persona con cui il pugile si allena nel ring"
+"punto (temperatura) in cui un liquido cola"
+"punto più distante da cui si distinguono oggetti"
+"qualcosa su cui discutere"
+"qualcosa su cui riflettere"
+"Ragion per cui"
+"riferito (a cui si è fatto riferimento)"
+"Setta protestante puritana i cui membri venivano chiamati Darbysti od anche Plymouth Brethren: Frate"
+"sistema in cui le persone rispettano le regole senza supervisione o sorveglianza"
+"smettere di fare quello in cui si è attualmente impegnati; finirla"
+"spalla su cui piangere"
+"strumento di tortura con cui veniva schiacciati i pollici, vite a galletto"
+"struttura in cui è collocato il castelletto di una miniera"
+"struttura su cui arrampicarsi"
+"tra cui"
+"una persona di cui ci si può fidare"
+#*''Quello con '''cui''' sei andato''
+#*''L' acqua è una cosa senza '''cui''' non si può vivere.''
+*italiano
+*siciliano
+m>cui</e
+m>qui</e
+m>che</e
+m> il quale</e
+m> la quale</e
+m> i quali</e
+m> le quali</e
+m>il progetto di cui ti ho parlato</e
+m>la questione a cui accennavi</e
+m>nelle condizioni in cui siamo</e
+m>l&rsquo;aereo con cui parto</e
+m>i motivi per cui son venuto</e
+m>per cui</e
+m>e perciò</e
+m>non m&rsquo;intendo di queste cose</e
+m>per cui preferisco tacere</e
+m>la persona cui mi sono rivolto</e
+m>del quale</e
+m>della quale</e
+m>dei quali</e
+m>delle quali</e
+m>la cui forma</e
+m>il cui merito</e
+m>al cui nome</e
+m>Voi cui fortuna ha posto in mano il freno</e
+m>Al passegger</e
+m>cui semivivo e nudo Lascia in breve tra&rsquo; sassi</e
+m>il cui nome</e
+m>la cui fama</e
+m>ai cui meriti</e
+m>chi</e
+m>Guarda com&rsquo;entri e di cui tu ti fide</e
+m>Porti la guerra e quando vuole</e
+m>e a cui</e

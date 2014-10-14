@@ -1,0 +1,15 @@
+stipendiare.txt
+"Traduzione di stipendiare/ non trovata.\nNo translation was found for stipendiare/."
+M>stipendio</E
+M>stipendiari</E
+M>io stipèndio</E
+M>stipendiò alcuni uomini che gli servissero di scorta</E
+M>non è necessario s. tanti impiegati</E
+M>oltre i sei mesi di aspettativa</E
+M> il dipendente non è più stipendiato</E
+M>collaboratori</E
+M>rappresentanti di commercio stipendiati</E
+M>informatori stipendiati</E
+M>spie stipendiate</E
+M>gli stipendiati dello stato</E
+M>salario</E

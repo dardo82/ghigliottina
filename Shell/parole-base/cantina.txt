@@ -1,0 +1,15 @@
+cantina.txt
+"cantina"
+"cantina"
+"saloon, cantina"
+"cantina"
+"cantina per vini"
+"cantina sociale"
+"porta della cantina"
+*[[osteria]]
+*[[cantinato]]
+*italiano
+M>canto</E
+M>cantone</E
+M>andare in c</E
+M>sociale</E

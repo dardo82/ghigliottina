@@ -1,0 +1,67 @@
+allungare.txt
+"allungare"
+"allungare"
+"allungare"
+"allungare"
+"allungare"
+"allungare, replace: allungarsi"
+"allungare, replace: allungarsi"
+"allungare, replace: allungarsi"
+"allungare il brodo"
+"allungare il passo"
+"allungare le mani"
+"spingere in fuori, allungare di colpo"
+*''(in dimensione o durata)'' [[aumentare]], [[accrescere]], [[prolungare]], [[ingrandire]], [[estendere]], [[dilatare]], [[ampliare]], [[sviluppare]], [[dilungare]], [[protrarre]], [[temporeggiare]], [[dilazionare]], [[procrastinare]]
+*''(le membra)'' [[stendere]], [[distendere]], [[protendere]]
+*''(vino, sostanza)'' [[diluire]], [[annacquare]], [[stemperare]]
+*[[abbreviare]], [[accorciare]]
+*[[allungarsi]], [[riallungare]]
+M>io allungo</E
+M>tu allunghi</E
+M>una corda</E
+M>un vestito</E
+M>un tavolo</E
+M>il viaggio</E
+M>la strada</E
+M>il passo</E
+M>tu vuoi a. il passo</E
+M> ma sei sicuro che quella povera bestia ce la farà ad arrivare fino a Murcia con tutto quel peso sulla groppa?</E
+M>il tiro</E
+M>gli orecchi</E
+M>il collo</E
+M>le gambe sotto il tavolino</E
+M>la mano</E
+M>le mani</E
+M>una pedata</E
+M>un ceffone</E
+M>uno schiaffo</E
+M>per favore</E
+M>mi allunghi il pane</E
+M>il sale</E
+M>la matita</E
+M>una mancia</E
+M>un bigliettone</E
+M>una bustarella</E
+M>hai visto come gli si è allungato il viso!</E
+M>ombre umane che si allungavano fantastiche sulle case di faccia</E
+M>come s’è allungato quel ragazzo!</E
+M>tutte le mani si allungano senza esitare</E
+M>indicando</E
+M>allungarsi sul letto</E
+M>i bagnanti si allungavano al sole</E
+M>allungarsi a terra stecchito</E
+M>Poco allungati c’eravam di lici</E
+M>uno spettacolo</E
+M>la vita</E
+M>le giornate si allungano</E
+M>i tempi</E
+M>l’accento allunga le vocali</E
+M>vocale che si allunga per compenso</E
+M>il vino</E
+M>il brodo</E
+M>vestito allungato</E
+M>un percorso allungato di due miglia</E
+M>vino allungato</E
+M>andatura allungata</E
+M>grande</E
+M>midollo allungato</E

@@ -1,0 +1,128 @@
+cambio.txt
+"agente di cambio"
+"agente di cambio"
+"agente di cambio, broker"
+"cambio"
+"cambio"
+"cambio"
+"cambio"
+"cambio"
+"cambio automatico"
+"cambio base"
+"cambio del dollaro"
+"cambio dell'ora"
+"cambio di mentalità"
+"cambio di programma"
+"cambio di residenza"
+"cambio di scena"
+"cambio esatto"
+"cambio estero"
+"cambio interno"
+"cambio periodico"
+"cambio radicale"
+"cambio turno"
+"cambio, cambio di velocità"
+"dare in cambio"
+"dare qcs in cambio"
+"fare a cambio"
+"fare il cambio di"
+"in cambio"
+"in cambio"
+"in cambio di"
+"leva del cambio"
+"leva del cambio"
+"Linea del cambiamento di data, linea internazionale del cambio di data"
+"rischio di cambio"
+"scatola del cambio"
+"tasso di cambio"
+"tasso di cambio"
+"volere qualcosa in cambio"
+*[[scambio]], [[sostituzione]], [[alternanza]], [[baratto]],[[cambiamento]], [[trasformazione]], [[modifica]],[[ mutamento]] 
+M>fare</E
+M>proporre</E
+M>accettare un c</E
+M>rendere il c</E
+M>dare</E
+M>ricevere in c</E
+M>fare a cambio</E
+M>manuale</E
+M>traiettizio</E
+M>operazione di c</E
+M>mercato dei cambî</E
+M>commerciare in cambî</E
+M>dollaro</E
+M>euro</E
+M>il c</E
+M>dollaro</E
+M>euro aumenta</E
+M>il c</E
+M>dollaro</E
+M>euro diminuisce</E
+M>fisso</E
+M>flessibile</E
+M>fluttuante</E
+M>multipli</E
+M>ufficiale</E
+M>libero</E
+M>arte del c</E
+M>collegio del c</E
+M>cambio</E
+M>agente di c</E
+M>lettera di c</E
+M>seconda di c</E
+M>lettera</E
+M>prima di c</E
+M>sola di c</E
+M>di una lampadina</E
+M>della biancheria</E
+M>aureo</E
+M>dei biglietti</E
+M>della guardia</E
+M>dare il c</E
+M>darsi il c</E
+M>portare con sé il c</E
+M>un solo c</E
+M>almeno un c</E
+M>ho forato una gomma</E
+M>e non ho il c</E
+M>il c</E
+M>arriva alle sei in punto</E
+M>in cambio di</E
+M>verrò io in c</E
+M>di lui</E
+M>in c</E
+M>dei soldi che mi deve</E
+M>mi ha dato belle promesse</E
+M>in c</E
+M>del vino portatemi della birra</E
+M>di vocale</E
+M>di consonante</E
+M>di sillaba</E
+M>penna</E
+M>panna</E
+M>cantone</E
+M>canzone</E
+M>delusione</E
+M>derisione</E
+M>alfabetico</E
+M>di velocità</E
+M>di moltiplica</E
+M>discontinui</E
+M>a salti di velocità</E
+M>a gradini</E
+M>a treni dentati scorrevoli</E
+M>a innesti</E
+M>a gradini</E
+M>continui</E
+M>progressivi</E
+M>a frizione</E
+M>idraulico</E
+M>a cinghia</E
+M>elettrico</E
+M>automatici</E
+M>a cloche</E
+M>al volante</E
+M>di marcia facilitato</E
+M>sincronizzato</E
+M>sincronizzatori</E
+M>sugheroso</E

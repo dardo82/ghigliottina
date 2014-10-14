@@ -1,0 +1,21 @@
+affiancare.txt
+"affiancare"
+"affiancare"
+*[[accostare]], [[abbinare]], [[appaiare]]
+*[[separare]], [[dividere]]
+*[[affiancarsi]], [[affiancato]],.[[fianco]]
+M>io affianco</E
+M>tu affianchi</E
+M>aveva troppo lavoro, e gli è stato affiancato un altro collega</E
+M>affiancare due librerie; a.</E
+M>il letto all’armadio</E
+M>in colonna</E
+M>in linea di fronte</E
+M>la nave</E
+M>affiancarsi</E
+M>lo affiancavano i più ribaldi della città</E
+M>affiancarsi</E
+M>procedere affiancati</E
+M>due edifici affiancati</E
+M>truppe</E
+M>navi affiancate</E

@@ -1,0 +1,26 @@
+ferroviario.txt
+"anello ferroviario"
+"capolinea ferroviario"
+"centro ferroviario"
+"convoglio ferroviario"
+"ferrovia, ferroviario"
+"ferroviario"
+"incrocio ferroviario"
+"personale ferroviario"
+"scalo ferroviario"
+"servizio ferroviario"
+"vagone ferroviario"
+"vagone ferroviario"
+#* ''biglietto ferroviario, orario ferroviario, trasporti ferroviari''
+*[[ferrovia]]
+M>il servizio f</E
+M>biglietto f</E
+M>orario f</E
+M>gli impiegati f</E
+M>linee f</E
+M>rete f</E
+M>veicoli f</E
+M>carrozze</E
+M>vetture f</E
+M>carri ferroviarî</E
+M>polizia f</E

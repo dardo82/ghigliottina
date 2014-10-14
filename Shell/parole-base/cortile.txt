@@ -1,0 +1,25 @@
+cortile.txt
+"animali da cortile"
+"cortile"
+"cortile della fattoria"
+"cortile della scuola"
+"cortile per i cavalli"
+"cortile posteriore"
+"cortile posteriore"
+*[[corte]],
+*''(di casa colonica)''[[aia]]
+*[[cortiletto]]
+M>un palagio con bello e gran c</E
+M>nel mezzo</E
+M>il c</E
+M>di Palazzo Vecchio</E
+M>nel c</E
+M>della scuola</E
+M>le finestre che guardano sul cortile</E
+M>esterno</E
+M>aveva quella casetta un piccolo c</E
+M>dinanzi</E
+M>che la separava dalla strada</E
+M>ed era cinto da un murettino</E
+M>animali da c</E
+M>di bassa corte</E

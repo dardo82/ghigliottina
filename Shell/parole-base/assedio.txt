@@ -1,0 +1,29 @@
+assedio.txt
+"assedio"
+"assedio"
+"prendere d'assedio"
+"sotto assedio"
+* [[embargo]]
+M>porre</E
+M>mettere</E
+M>levare l’a</E
+M>rompere l’a</E
+M>navale</E
+M>economico</E
+M>le forze di polizia cinsero d’a</E
+M>la casa dove si erano asserragliati i rapinatori</E
+M>gli scioperanti hanno cinto d’a</E
+M>la fabbrica</E
+M>l’a. dei fotografi davanti all’albergo</E
+M>al botteghino del teatro c’era un assedio</E
+M>stringere d’a</E
+M>la porta avversaria</E
+M>non ne poteva più di quell’a</E
+M>continuo</E
+M>nonostante il lungo a. cui era stata sottoposta</E
+M> la ragazza scelse un altro</E
+M>assediare</E
+M>Caccia i pensier che t’han già posto assedio</E
+M>E che ti fan dì e notte andar fantastico</E
+M>Stato d’a</E
+M>stato di pericolo pubblico</E

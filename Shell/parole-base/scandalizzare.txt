@@ -1,0 +1,22 @@
+scandalizzare.txt
+"scandalizzare"
+"scandalizzare, replace: scandalizzarsi"
+*[[scandalizzatore]] 
+M>scandalizare</E
+M>scand</E
+M>lum</E
+M>il suo contegno volgare ha scandalizzato tutti i presenti.</E
+M>le dichiarazioni del conferenziere hanno scandalizzato il pubblico presente</E
+M>lo spettacolo teatrale ha scandalizzato parte della critica.</E
+M>scandalizzarsi</E
+M>scandalizzarsi per una cosa da niente</E
+M>per un nonnulla</E
+M>spero che non vi scandalizziate se mi presento a cena senza giacca.</E
+M>uno di quegli frati si scandalizzò con un altro</E
+M>Fior. di s. Franc.</E
+M>scandole</E
+M>ato</E
+M>essere</E
+M>restare</E
+M>rimanere scandalizzato di qualcuno</E
+M>di qualcosa.</E

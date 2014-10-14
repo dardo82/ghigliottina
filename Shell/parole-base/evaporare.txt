@@ -1,0 +1,19 @@
+evaporare.txt
+"evaporare"
+"evaporare"
+"evaporare"
+"far evaporare"
+M>evap</E
+M>rare</E
+M>vapor</E
+M>oris</E
+M>io evapóro</E
+M>evàporo</E
+M>essere</E
+M>l’acqua del mare</E
+M>dei laghi</E
+M>dei fiumi evapora</E
+M>l’alcol è evaporato quasi tutto</E
+M>avere</E
+M>il lago ha evaporato molto</E
+M>svaporare</E

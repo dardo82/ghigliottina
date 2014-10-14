@@ -1,0 +1,40 @@
+sotterraneo.txt
+"canoa; rifugio sotterraneo"
+"cavo sotterraneo"
+"deposito sotterraneo per ortaggi"
+"fiume sotterraneo"
+"sotterraneo"
+"sotterraneo"
+"sotterraneo"
+"sotterraneo"
+*[[cantina]], [[cripta]], [[scantinato]], [[segreta]]
+*[[sotterranea]]
+*[[sotterrare]]
+*[[sotto]]
+*[[terra]]
+M>subterraneus</E
+M>terra</E
+M>sub-</E
+M>passaggio s.</E
+M>un bacino s.</E
+M>un fiume s.</E
+M>una caverna s.</E
+M>ferrovia s.</E
+M>la sotterranea</E
+M>metropolitana</E
+M>fauna</E
+M>flora s.</E
+M>ipogea</E
+M>il mondo s.</E
+M>Rapian gli amici una favilla al Sole A illuminar la s. notte</E
+M>una voce sotterranea</E
+M>sentimenti s.</E
+M>nutriva una s. speranza di ritornare un giorno al suo paese</E
+M>con manovre s. è riuscito a ottenere il suo scopo</E
+M>stanze</E
+M>cantine s.</E
+M>deposito</E
+M>magazzino sotterraneo</E
+M>i s. di un antico castello</E
+M>un tempo il s. di questo palazzo era adibito a prigione</E
+M>le acque del torrente scorrono sotterraneamente</E

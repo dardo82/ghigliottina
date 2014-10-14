@@ -1,0 +1,29 @@
+feriale.txt
+"feriale"
+"giorno feriale"
+"feriale, giorno lavorativo"
+"giorno feriale"
+#*''martedì è un giorno feriale''
+* non festivo
+M>ferialis</E
+M>feria</E
+M>feriae</E
+M>feria</E
+M>feria</E
+M>riti feriali</E
+M>feriale</E
+M>giorni f</E
+M>giorni feriati</E
+M>ferie</E
+M>lettere f</E
+M>lettere domenicali</E
+M>i giorni f</E
+M>della settimana</E
+M>orario</E
+M>tariffa feriale</E
+M>il periodo f</E
+M>lavoro f</E
+M>di f</E
+M>vestimenti vestite</E
+M>ricevere</E
+M>trattare ferialmente</E

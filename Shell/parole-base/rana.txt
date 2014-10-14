@@ -1,0 +1,51 @@
+rana.txt
+"nuoto a rana"
+"rana"
+"rana comune"
+"rana dei prati"
+"rana leopardo"
+"rana pescatrice"
+"rana toro"
+"sommozzatore, uomo rana"
+"stile rana"
+"zampe di rana"
+*[[ranocchia]], [[ranocchiaia]], [[ranocchiesco]], [[ranocchio]]
+*[[ranuncolo]]
+* [[sapo]]
+* italiano
+*croato
+*polacco
+*spagnolo
+M>rana</E
+M>Rana</E
+M>rosse</E
+M>rossa</E
+M>Rana temporaria</E
+M>greca</E
+M>Rana graeca</E
+M>dalmatina</E
+M>agile</E
+M>Rana dalmatina</E
+M>toro</E
+M>Rana catesbeiana</E
+M>verdi</E
+M>comuni</E
+M>dei fossi</E
+M>Rana lessonae</E
+M>verde maggiore</E
+M>ridibunda</E
+M>verde minore</E
+M>Rana esculenta</E
+M>essere verde</E
+M>saltare come una r</E
+M>cantare come una r</E
+M>gonfiarsi come una r</E
+M>uomini r.</E
+M>frogman</E
+M>homme</E
+M>grenouille</E
+M>nuoto a r.</E
+M>pescatrice</E
+M>pesce rana</E
+M>Lophius piscatorius</E
+M>&#171;È però di buona razza&#187; disse il Borlini &#171;e somiglierà presto a suo fratello che non ha di tali rane&#187;</E

@@ -1,0 +1,44 @@
+altare.txt
+"altare"
+"altare"
+"altare"
+"altare di famiglia"
+"l'Altare"
+"tempio o altare costruito su una collina"
+#*'''altare cattolico''' struttura per la [[celebrazione]] della Messa e altri uffici divini
+* ''(per il culto degli dei)'' [[edicola]]
+*tavola liturgica, mensa sacra, [[ara]]
+*[[Altare della Patria]] (monumento al Milite Ignoto)
+*[[Altare]]
+:*''andare all’altare''
+*italiano
+*latino
+M>altare</E
+M>altaria</E
+M>ium</E
+M>fisso</E
+M>immobile</E
+M>mensa</E
+M>mobile</E
+M>portatile</E
+M>l’a</E
+M>maggiore</E
+M>l’a</E
+M>della Madonna</E
+M>di sant’Antonio</E
+M>riservato</E
+M>papali</E
+M>privilegiato</E
+M>ministro dell’a</E
+M>il sacrificio dell’a</E
+M>accostarsi all’a</E
+M>andare all’a</E
+M>condurre</E
+M>menare all’a</E
+M>innalzare agli a</E
+M>levare sugli a</E
+M>nemici dell’a</E
+M>il trono e l’altare</E
+M>della patria</E
+M>autel de la patrie</E
+M>altarino</E

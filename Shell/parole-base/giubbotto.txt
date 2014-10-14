@@ -1,0 +1,14 @@
+giubbotto.txt
+"giubbotto"
+"giubbotto"
+"giubbotto antiproiettile"
+"giubbotto antiproiettile"
+"giubbotto antiproiettile"
+"giubbotto di salvataggio"
+"giubbotto di salvataggio"
+"giubbotto salvagente"
+*[[giacca]], [[giubbetto]], [[bomber]], [[chiodo]], [[eskimo]]
+*[[cappotto]]
+M>giubba</E
+M>di salvataggio</E
+M>antiproiettile</E

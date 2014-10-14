@@ -1,0 +1,34 @@
+liquore.txt
+"bere liquore"
+"bicchierino da liquore"
+"liquore"
+"liquore alla menta"
+"liquore alla pera"
+"liquore di malto"
+"liquore di susine, liquore di prugnole"
+"liquore forte"
+M>liquor</E
+M>oris</E
+M>liquere</E
+M>liqueur</E
+M>Cadea de l’alta roccia un liquor chiaro</E
+M>Stillò dal cor licor pietoso</E
+M>ed unse Le piaghe acerbe</E
+M>fatto Quel salutar licore agro e indigesto</E
+M>un l</E
+M>forte</E
+M>leggero</E
+M>secco</E
+M>amabile</E
+M>una bottiglia</E
+M>un bicchierino di liquore</E
+M>offrire</E
+M>bere</E
+M>centellinare un l</E
+M>vendita di vino e liquori</E
+M>fare abuso di liquori</E
+M>naturali</E
+M>composti</E
+M>artificiali</E
+M>arsenicale di Fowler</E
+M>anisato d’ammonio</E

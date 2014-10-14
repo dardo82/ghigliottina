@@ -1,0 +1,30 @@
+schiaffo.txt
+"dare uno schiaffo"
+"schiaffo"
+"schiaffo"
+"schiaffo in faccia"
+"sotto schiaffo"
+"stare sotto schiaffo di qualcuno"
+*[[sberla]], [[ceffone]], [[manrovescio]], [[scappellotto]], [[scapaccione]], [[scoppola]],   [[scanascione]], [[sganassone]]
+*[[carezza]], [[abbraccio]]
+* [[schiaffeggiare]], [[schiaffare]], [[schiaffata]]
+* ''prendere a '''schiaffi''' qualcuno'' 
+* ''porgere l'altra guancia''
+M>dare</E
+M>tirare</E
+M>ricevere</E
+M>prendersi uno s.</E
+M>prendere a schiaffi</E
+M>misurare uno s.</E
+M>avere una faccia da schiaffi</E
+M>S. del soldato</E
+M>schiaffo</E
+M>la barca sbandava paurosamente sotto gli s. delle onde</E
+M>tirare</E
+M>tiro</E
+M>di schiaffo</E
+M>di striscio</E
+M>a schiaffo</E
+M>ruota a schiaffo</E
+M>ricevere uno s. morale</E
+M>vedersi superato da tali concorrenti è stato per lui un vero schiaffo.</E

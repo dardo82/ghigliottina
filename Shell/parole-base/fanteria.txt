@@ -1,0 +1,26 @@
+fanteria.txt
+"combattimento di fanteria"
+"fanteria"
+"soldato di fanteria"
+M>la f</E
+M>degli eserciti antichi</E
+M>delle truppe mercenarie</E
+M>degli eserciti moderni</E
+M>la f</E
+M>italiana</E
+M>l’avanzata delle f</E
+M>nemiche</E
+M>si è veduto e vedrassi per esperienza</E
+M>li Svizzeri essere rovinati da una f</E
+M>spagnuola</E
+M>motorizzata</E
+M>autotrasportata</E
+M>aviotrasportata</E
+M>di marina</E
+M>di linea</E
+M>granatieri</E
+M>bersaglieri</E
+M>alpini</E
+M>paracadutisti</E
+M>carristi</E
+M>essere arruolato in fanteria</E

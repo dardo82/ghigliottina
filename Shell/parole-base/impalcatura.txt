@@ -1,0 +1,17 @@
+impalcatura.txt
+"impalcatura"
+"impalcatura"
+"impalcatura, ponteggio"
+M>ponteggio</E
+M>antenne</E
+M>candele</E
+M>traversoni</E
+M>correnti</E
+M>travicelli</E
+M>traversi</E
+M>impalcato</E
+M>l’i</E
+M>sociale di un periodo storico</E
+M>di un sistema politico</E
+M>economico</E
+M>di un’opera letteraria</E

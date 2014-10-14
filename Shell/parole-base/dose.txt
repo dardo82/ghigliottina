@@ -1,0 +1,67 @@
+dose.txt
+"dose"
+"dose"
+"dose di droga"
+"drug dose"
+"dose eccessiva"
+"excessive dose"
+"dose mortale"
+"lethal dose"
+"dose supplementare"
+"booster dose"
+"prendere una dose di droga per uscire dall'astinenza (slang)"
+"Rincarare la dose"
+*italiano
+*inglese
+*francese
+M>la d</E
+M>dello zucchero per il caffè</E
+M>del sale per la minestra</E
+M>determinare le d</E
+M>per un dolce</E
+M>per un cocktail</E
+M>sbagliare la d</E
+M>di un profumo</E
+M>aumentare</E
+M>diminuire la d</E
+M>in d</E
+M>giusta</E
+M>in d</E
+M>eccessiva</E
+M>una d</E
+M>doppia</E
+M>tripla</E
+M>a piccole d</E
+M>a d</E
+M>forti</E
+M>dare</E
+M>ricevere una buona d</E
+M>di legnate</E
+M>di calci</E
+M>di ceffoni</E
+M>avere una buona d</E
+M>di sfacciataggine</E
+M>una discreta d</E
+M>di superbia</E
+M>rincarare la d</E
+M>totale</E
+M>singola</E
+M>quotidiana</E
+M>minima</E
+M>massima</E
+M>media</E
+M>terapeutica</E
+M>tossica</E
+M>letale</E
+M>lo hanno fermato mentre comprava una dose</E
+M>fisica</E
+M>biologica</E
+M>terapeutica</E
+M>incidente</E
+M>aggiunta</E
+M>efficace</E
+M>di superficie</E
+M>di focolaio</E
+M>volume</E
+M>di radiazione</E
+M>assorbita</E

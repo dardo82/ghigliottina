@@ -1,0 +1,40 @@
+stirare.txt
+"asciugare senza stirare"
+"stirare"
+"stirare"
+"stirare"
+*italiano
+*inglese
+M>tirare</E
+M>s. un foglio spiegazzato</E
+M>stirando</E
+M> con tutt&#8217;e due le mani</E
+M> la tovaglia sulla tavola</E
+M>s. la biancheria</E
+M>il bucato</E
+M>il vestito sgualcito</E
+M>la cameriera è di là che stira</E
+M>si occupa di tutto</E
+M> tranne che di lavare e s.</E
+M>ferro per s.</E
+M>da stiro</E
+M>stiramento</E
+M>Stirarsi i capelli</E
+M>ti stiravi i riccioli sulla nuca ... così</E
+M>la frase è espressa in forma così ambigua</E
+M> che possiamo stirarla a significare le cose più diverse</E
+M>s. le braccia</E
+M>le gambe</E
+M>stirarsi</E
+M>si stirò le membra; erano due giorni che non si stirava</E
+M>si è stirato un legamento giocando a calcio</E
+M> nell&#8217;ultima partita si è stirato</E
+M>biancheria lavata e stirata</E
+M>lamiere stirate</E
+M>travi stirate</E
+M>stiramento</E
+M>tirato</E
+M>vedete come un cavalier sia di mala grazia</E
+M> quando si sforza d&#8217;andare così stirato in su la sella</E
+M>visi pallidi di contabili chini sul fatturato</E
+M> o stirate ragazzette con le dita sulla tastiera</E

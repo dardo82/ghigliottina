@@ -1,0 +1,62 @@
+castagna.txt
+"castagna"
+"castagna"
+"castagna d'acqua"
+"in castagna"
+"prendere in castagna"
+#* ''ho preso una '''castagna''' durante la zuffa''
+#* ''l'ha mandato KO con una '''castagna''' nel terzo round''
+#* ''ha tirato una '''castagna''' sul palo''
+*[[marrone]] 
+*''(nel pugilato)'' [[pugno]]
+* [[castagnata]],  [[castagnaccio]], [[castagnaio]], [[castagnaro]], [[castagnatura]], [[castagneto]], [[castagnino]],  [[castagno]],  [[castanicolo]],  [[pesce castagna]]
+*[[castano]], [[ippocastano]], [[ballotta]], [[bruciata]], [[caldallessa]], [[caldarrosta]], [[marron]], [[marrone]]
+* ''(petardo)'' [[castagnola]]
+* ''la '''castagna''' di fuori è bella e dentro ha la magagna''
+* ''cavare le '''castagne''' dal fuoco'' e anche ''togliere le '''castagne''' dal fuoco''
+* ''prendere in '''castagna'''''
+M>castanea</E
+M>buccia</E
+M>scorza</E
+M>riccio</E
+M>diricciare</E
+M>sdiricciare le castagne</E
+M>sbucciare</E
+M>sgusciare le c</E
+M>mondare le c</E
+M>castrare le c</E
+M>secche</E
+M>lessate</E
+M>arrostite</E
+M>candite</E
+M>marrons glacés</E
+M>di ricciaia</E
+M>farina di castagne</E
+M>farina dolce</E
+M>meno di una c</E
+M>gli è avanzato meno d’una c</E
+M>a scorza di castagna</E
+M>un destrier baio a scorza di c</E
+M>fare le c</E
+M>prendere in castagna</E
+M>cogliere in marrone</E
+M>marrone</E
+M>marrone</E
+M>cavare la c</E
+M>dal fuoco con la zampa del gatto</E
+M>cavare</E
+M>levare</E
+M>togliere</E
+M>le c</E
+M>dal fuoco per qualcuno</E
+M>tirer les marrons du feu</E
+M>dell’Australia</E
+M>d’acqua</E
+M>Trapa natans</E
+M>di terra</E
+M>bulbocastano</E
+M>castagnette</E
+M>unghielle</E
+M>dell’argano</E
+M>Pesce castagna</E
+M>Brama brama</E

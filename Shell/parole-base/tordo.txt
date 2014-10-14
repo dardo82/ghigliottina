@@ -1,0 +1,24 @@
+tordo.txt
+"tordo"
+"tordo americano"
+"tordo beffeggiatore"
+"tordo dei boschi"
+"tordo eremita"
+*[[tordela]], [[tordo bottaccio]], [[tordo sassello]]
+*[[tordillo]]
+M>rdus</E
+M>t. bottaccio</E
+M>Turdus philomelus</E
+M>t. sassello</E
+M>Turdus iliacus</E
+M>cacciare i t. alla posta</E
+M>al passo</E
+M>con i richiami</E
+M>con le reti</E
+M>una filza di tordi allo spiedo</E
+M>grasso come un t.</E
+M>hai trovato il t.!</E
+M>merlo</E
+M>T. gelsomino</E
+M>re di quaglie</E
+M>pesce tordo.</E

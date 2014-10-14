@@ -1,0 +1,19 @@
+trucco.txt
+"il trucco c'è ma non si vede"
+"non c'è trucco, non c'è inganno"
+"stendere il trucco"
+"stendere il trucco su"
+"togliersi il trucco, struccarsi"
+"trucco"
+"trucco"
+"trucco"
+"trucco magico"
+"trucco magico, magia"
+"trucco teatrale"
+#* ''a carnevale mi 
+*[[espediente]], [[trovata]], [[artificio]], [[invenzione]], [[stratagemma]], [[soluzione]], [[accorgimento]], [[ripiego]], [[scappatoia]], [[sotterfugio]]; [[scusa]], [[pretesto]]
+*[[maquillage]], [[make-up]], [[cosmetico]], [[belletto]]
+*(di attore) [[travestimento]], [[maschera]]
+*(di attore) [[realtà]], [[verità]]
+*''trucco cinematografico'' 
+* su [http

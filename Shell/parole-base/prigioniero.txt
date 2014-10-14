@@ -1,0 +1,69 @@
+prigioniero.txt
+"prendere prigioniero"
+"prigioniero"
+"prigioniero"
+"prigioniero"
+"prigioniero di guerra"
+"prigioniero di guerra"
+"prigioniero politico"
+"prigioniero rilasciato"
+#* è 
+*[[carcerato]], [[detenuto]], [[sequestrato]], [[recluso]],[[internato]] 
+*[[libero]] 
+*[[prigione]], [[prigionia]]
+M>prisonnier</E
+M>prison</E
+M>i p</E
+M>di guerra</E
+M>i p</E
+M>cadere p</E
+M>dei nemici; fare</E
+M>prendere p</E
+M>interrogare i p</E
+M>nel giro di perlustrazione la pattuglia fece p</E
+M>due soldati nemici</E
+M>trasferire</E
+M>liberare i p</E
+M>è stato venti giorni p</E
+M>dei banditi</E
+M>detenuto</E
+M>carcerato</E
+M>politico</E
+M>stanco e sfiduciato</E
+M>ha preferito dire addio al mondo e chiudersi p</E
+M>in un convento</E
+M>la rivoluzione</E
+M>era entrata in Roma ed aveva commesso l&#8217;ultimo sacrilego attentato</E
+M>spodestando il papa e costringendolo a chiudersi p</E
+M>in Vaticano</E
+M>non voglio sentirmi p</E
+M>in casa mia!</E
+M>non sono più i tempi in cui le donne erano p</E
+M>nella casa e le nobildonne nei castelli</E
+M>un uccello</E
+M>il leone p</E
+M>nella gabbia</E
+M>rimanere p</E
+M>era andata via la corrente e lei era rimasta p</E
+M>nell&#8217;ascensore</E
+M>è mancata la luce e sono rimasto p</E
+M>nel garage</E
+M>il topo entrò nella trappola e vi rimase prigioniero</E
+M>essere p</E
+M>dei ricordi</E
+M>del passato</E
+M>di un&#8217;ideologia</E
+M>delle proprie passioni</E
+M>è rimasto p</E
+M>dei suoi pregiudizî</E
+M>non si ammiran le acque p</E
+M>e stagnanti</E
+M>ma le cascate impetuose</E
+M>dietro i cancelli la mimosa p</E
+M>offre al vento le sue ciocche di pallido zolfo</E
+M>Palla p</E
+M>vite p</E
+M>prigioniero</E
+M>radice</E
+M>assai son di quegli che a capital pena son dannati</E
+M>che non sono da&#8217; pregionieri con tanta guardia servati</E

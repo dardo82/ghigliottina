@@ -1,0 +1,12 @@
+dopoguerra.txt
+"dopoguerra"
+"primo dopoguerra"
+*[[anteguerra]]
+*[[guerra]]
+*italiano
+M>dopo</E
+M>guerra</E
+M>primo d</E
+M>secondo d</E
+M>le difficoltà del d</E
+M>la crisi del dopoguerra</E

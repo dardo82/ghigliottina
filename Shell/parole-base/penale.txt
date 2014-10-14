@@ -1,0 +1,53 @@
+penale.txt
+"atto penale"
+"clausola penale"
+"codice penale"
+"colonia penale"
+"corte penale"
+"diritto penale"
+"fedina penale"
+"situazione penale"
+"illecito penale"
+"indagine penale"
+"istituto penale"
+"legge penale"
+"legislazione penale"
+"penale"
+"penale"
+"penale"
+"pubblico ministero (in processo penale)"
+"pulire la fedina penale"
+"tribunale penale"
+M>poenalis</E
+M>poena</E
+M>diritto p</E
+M>sanzione p</E
+M>codice p</E
+M>processo</E
+M>procedimento p</E
+M>codice di procedura p</E
+M>codice p</E
+M>militare</E
+M>codice p</E
+M>militare di pace</E
+M>codice p</E
+M>militare di guerra</E
+M>sezione p</E
+M>azione p</E
+M>certificato p</E
+M>fedina p</E
+M>Diritto p</E
+M>del lavoro</E
+M>stabilimento p</E
+M>bagno p</E
+M>Clausola p</E
+M>penale</E
+M>pagare la p. per mancato adempimento</E
+M>fissare una p</E
+M>per ogni giorno di ritardo nella consegna di un lavoro</E
+M>vorrei sapere se</E
+M>a minacciare un curato</E
+M>perché non faccia un matrimonio</E
+M> c&#8217;è p</E
+M>essere penalmente responsabile di un fatto</E
+M>un&#8217;azione perseguibile penalmente</E

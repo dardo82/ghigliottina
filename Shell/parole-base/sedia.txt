@@ -1,0 +1,93 @@
+sedia.txt
+"cuscino da sedia"
+"la sedia del direttore"
+"sedia"
+"sedia a dondolo"
+"sedia a rotelle"
+"sedia a sdraio"
+"sedia da giardino"
+"sedia da pranzo"
+"sedia del barbiere"
+"sedia del dentista"
+"sedia del salotto"
+"sedia della misericordia"
+"sedia elettrica"
+"sedia elettrica"
+"sedia elettrica (slang)"
+"sedia girevole"
+"sedia in\/di vimini"
+"sedia pieghevole"
+"sedia pieghevole"
+"sedia reclinabile"
+"sedia Windsor"
+"spingere qualcuno (sulla sedia a rotelle, sulla bicicletta, etc.)"
+#*''mi sono seduto su una '''sedia'''''
+*[[seggiola]], [[sedile]],[[sgabello]], [[panca]], [[poltrona]] 
+*''(del re, del papa ecc.)'' [[seggio]], [[trono]], [[scanno]] 
+* [[casa]], [[cuscino]], [[divano]], [[feltrino]], [[gamba]], [[impagliatore]], [[mobile]], [[poltrone]], [[sedere]], [[sedile]], [[stanza]], [[tavolo]]
+*Enciclopedia [http
+M>sedere</E
+M>seggiola</E
+M>sedile</E
+M>una s. di legno</E
+M>di ferro</E
+M>di plastica</E
+M>una s. da cucina</E
+M>da giardino</E
+M>una s. sgangherata</E
+M>sfondata</E
+M>traballante</E
+M>ho fatto il gesto di alzarmi ma era come se fossi inchiodato alla s.</E
+M> non ci sono riuscito</E
+M>porgere</E
+M>offrire una s.</E
+M>le s. sono tutte occupate</E
+M>prenda una s.</E
+M> si accomodi!</E
+M>s. di paglia</E
+M>impagliata</E
+M>s. a braccioli</E
+M>s. pieghevole</E
+M>s. da regista</E
+M>s. impilabile</E
+M>s. imbottita</E
+M>s. a rotelle</E
+M>s. girevole</E
+M>s. a sbalzo</E
+M>s. a dondolo</E
+M>s. da combattimento</E
+M>s. curule</E
+M>sella curulis</E
+M>s. gestatoria</E
+M>Sedia</E
+M>seggiola del papa</E
+M>fare la</E
+M>giocare alla</E
+M>s. del papa</E
+M>S. elettrica</E
+M>electric chair</E
+M>condannare alla s. elettrica</E
+M>finire sulla s. elettrica</E
+M>seggio</E
+M>Potea inanzi lei andarne</E
+M> A veder preparar sua sedia in cielo</E
+M>trono</E
+M>insediare</E
+M>mettere</E
+M>rimettere in sedia</E
+M>levare di sedia</E
+M>s. apostolica</E
+M>s. romana</E
+M>sedia</E
+M>sede</E
+M>la sedia che fu già benigna Più a&#8217; poveri giusti ...</E
+M>essere ben stato concesso alla sedia romana che fosse la prima</E
+M>s. ritta</E
+M>s. pendente</E
+M>appoggio a sedia</E
+M>struttura a sedia</E
+M>Chi potrebbe dire quanti ... lasciarono le proprie sedie e allogaronsi nelle altrui</E
+M>questi</E
+M> dopo alcune zuffe fatte a&#8217; confini dello Imperio</E
+M> per concessione delli imperadori molto tempo tennono la loro sedia sopra il fiume del Danubio</E
+M>seggiolone</E

@@ -1,0 +1,404 @@
+morte.txt
+"a morte!"
+"ad un passo dalla morte"
+"affrontare la morte"
+"alla morte"
+"angelo della morte"
+"angelo della morte"
+"annoiare a morte"
+"annoiato a morte"
+"augurio di morte"
+"avere un desiderio di morte"
+"bacio della morte"
+"battaglia per la vita o la morte"
+"bollito a morte"
+"braccio della morte"
+"braccio della morte"
+"certificato di morte"
+"che avviene dopo la morte"
+"postmortem"
+"che segue la morte"
+"postmortem"
+"condanna a morte"
+"condanna a morte"
+"di fronte alla morte"
+"dolce morte"
+"dopo la morte"
+"dopo la morte"
+"dopo la morte"
+"è la morte sua!"
+"essere annoiato a morte"
+"essere la morte sua"
+"fino a che morte non ci separi"
+"fino alla morte"
+"fino alla morte"
+"giorno della morte"
+"giro della morte"
+"in punto di morte"
+"in punto di morte"
+"la morte"
+"letto di morte"
+"letto di morte"
+"letto di morte"
+"linea della morte"
+"lotta tra la vita e la morte"
+"mano della morte"
+"morire di morte naturale"
+"morte"
+"morte"
+"morte"
+"morte"
+"raffigurazione della morte"
+"morte bianca"
+"morte cerebrale"
+"morte in culla"
+"morte in culla"
+"morte indolore"
+"morte naturale"
+"morte nera"
+"morte prematura"
+"morte prematura"
+"morte prematura"
+"morte serena"
+"morte serena"
+"morte violenta"
+"ogni morte di papa"
+"ogni morte di papa"
+"ogni morte di papa"
+"ombra della morte"
+"peggiore della morte"
+"pena di morte"
+"posteriore alla morte"
+"prima della morte"
+"ante-mortem"
+"questione di vita o di morte"
+"questione di vita o di morte"
+"reato punibile con la pena di morte"
+"ricompensa adeguata; la morte paga doppio"
+"sentenza di morte"
+"sfuggire alla morte"
+"Sicuro come la morte"
+"sottrarre qn alla morte"
+"spaventato a morte"
+"uccello della morte"
+"vicino alla morte"
+"vita dopo la morte"
+"vita, morte e miracoli"
+#* ''
+#* ''
+#* ''
+#* ''
+#*'''''morte''' legale''
+#* ''annuncio di 
+#* ''certificato di 
+#* ''atto di 
+* ''(cessazione della vita...)'' [[decesso]],  [[fine]], [[scomparsa]],[[perdita]]
+* pena capitale, [[supplizio]], [[patibolo]]
+* ''(cessazione della vita...)'' [[nascita]], [[vita]]
+*''A palate i guai, ma la morte mai.''
+*''Chi muore esce d'affanni, ma tutti si vuol viver cent'anni.''
+*''punto morto''
+*''a morte''
+*''questione di vita o  di morte''
+*Enciclopedia [http
+M>rs m</E
+M>rtis</E
+M>è in lutto per la m</E
+M>di un fratello</E
+M>l’afta epizootica ha causato la m</E
+M>di molti bovini</E
+M>la m</E
+M>di una pianta</E
+M>di un ramo</E
+M> delle foglie</E
+M>cellulare</E
+M>dei tessuti</E
+M>biologica</E
+M>clinica</E
+M>apparente</E
+M>accertamento di morte</E
+M>accertamento di m</E
+M>cardiaca</E
+M>accertamento di m</E
+M>cerebrale</E
+M>improvvisa</E
+M>istantanea</E
+M>temere la m</E
+M>desiderare</E
+M>invocare la m</E
+M>il giorno</E
+M>l’ora</E
+M>il momento della m</E
+M>Non è ver che sia la morte Il peggior di tutti i mali</E
+M>due cose belle ha il mondo: Amore e morte</E
+M>Io tempo ormai ne ho poco: per colpa della m. Che viene avanti</E
+M> al tramonto della gioventù</E
+M>annuncio di m</E
+M>certificato di m</E
+M>atto di m</E
+M>Dichiarazione di m</E
+M>presunta</E
+M>naturale</E
+M>violenta</E
+M>accidentale</E
+M>improvvisa</E
+M>istantanea</E
+M>lenta</E
+M>dolorosa</E
+M>tragica</E
+M>ha fatto una brutta m</E
+M>immatura</E
+M>fare la m</E
+M>del conte Ugolino</E
+M>Inf</E
+M>fare la m</E
+M>del topo</E
+M>nera</E
+M>bianca</E
+M>È morto di sua m</E
+M>è la m</E
+M>sua</E
+M>per un guerriero</E
+M>la m</E
+M>sua è sul campo di battaglia</E
+M>la sua m</E
+M>la m</E
+M>sua</E
+M>la m</E
+M>della lepre è in salmì</E
+M>fare una m</E
+M>serena</E
+M>coraggiosa</E
+M>disperata</E
+M>una bella</E
+M>una buona m</E
+M>una m</E
+M>santa</E
+M> cattiva m</E
+M>mala morte</E
+M>fare una m</E
+M>gloriosa</E
+M>onorata</E
+M>vile</E
+M>sino alla m</E
+M>gli rimase fedele sino alla m</E
+M>in caso di m</E
+M>in caso di m</E
+M>ho già disposto per la successione</E
+M>in caso di m</E
+M>dell’imputato il reato si estingue</E
+M>in m</E
+M>In m</E
+M>di Ugo Bassville</E
+M>In m</E
+M>di Carlo Imbonati</E
+M>essere in pericolo di m</E
+M>in pericolo di vita</E
+M>pericolo di m</E
+M>in punto di m</E
+M>essere in punto di m</E
+M>si è pentito in punto di morte</E
+M>in articolo di m</E
+M>essere sul letto di m</E
+M>accorrere al letto di m</E
+M>a ogni m</E
+M>di papa</E
+M>sicuro come la m</E
+M>brutto come la morte</E
+M>cagionare</E
+M>provocare la m</E
+M>di qualcuno</E
+M>accelerare</E
+M>affrettare</E
+M>ritardare</E
+M>allontanare la m</E
+M>salvare</E
+M>liberare dalla m</E
+M>scampare da m</E
+M>alla m</E
+M>risuscitare da m</E
+M>esporsi alla m</E
+M>cercare</E
+M>trovare la m</E
+M>sul campo</E
+M>incontrare la m</E
+M>affrontare</E
+M>sfidare la m</E
+M>scherzare con la m</E
+M>andare a m</E
+M>Parea ch’a danza e non a m</E
+M>andasse Ciascun de’ vostri</E
+M>mandare alla m</E
+M>morire</E
+M>venire a m</E
+M>esser còlto</E
+M>sorpreso</E
+M>rapito dalla morte</E
+M>comminare la pena di m</E
+M>era fatto divieto a chiunque di portare armi</E
+M>pena la m</E
+M>sentenza di m</E
+M>reo di m</E
+M>condannare a m</E
+M>giusta</E
+M>ingiusta</E
+M>immeritata</E
+M>ignominiosa</E
+M>andare alla m</E
+M>par che vada alla m</E
+M>condurre</E
+M>trarre alla m</E
+M>mettere a m</E
+M>espiare con la m</E
+M>i proprî delitti</E
+M>fu accusato a torto della m</E
+M>del suo avversario</E
+M>vendicare la m</E
+M>di un congiunto</E
+M>minaccia di m</E
+M>dare la m</E
+M>darsi la m</E
+M>A morte</E
+M>ammalarsi a m</E
+M>infermare a m</E
+M>quivi non guari di tempo dimorarono</E
+M>che Antioco infermò a m</E
+M>bastonare</E
+M>colpire</E
+M>ferire a morte</E
+M>odiare</E
+M>odiarsi a m</E
+M>farsi una guerra a m</E
+M>averla</E
+M>avercela</E
+M>a m</E
+M>con qualcuno</E
+M>tormentare</E
+M>seccare</E
+M>annoiare a m</E
+M>a morte!</E
+M>alla m</E
+M>a m</E
+M>il tiranno!</E
+M>a m</E
+M>gli affamatori del popolo!</E
+M>nascita</E
+M>vita</E
+M>dalla nascita alla m</E
+M>una vita simile è peggiore della m</E
+M>dalla vita alla m</E
+M>il passo è breve</E
+M>diritto</E
+M>potere</E
+M>di vita e di m</E
+M>sui proprî sudditi</E
+M>amare</E
+M>giurarsi fedeltà per la vita e per la m</E
+M>essere tra la vita e la m</E
+M>passare</E
+M>tornare da m</E
+M>a vita</E
+M>è questione di vita o di m</E
+M>si tratta di vita o di m</E
+M>sapere vita</E
+M>e miracoli di una persona</E
+M>in quella circostanza ci furono molte m</E
+M>ci sono tante morti</E
+M>si meriterebbe cento m</E
+M>soffrirebbe non una ma cento m</E
+M>piuttosto che obbedire</E
+M>sfiderei mille m</E
+M>prima di cedere</E
+M>vivendo</E
+M>ogni ora mille m</E
+M>sento</E
+M>il vizio del bere fu la sua m</E
+M>quella pleurite non curata è stata la sua m</E
+M>tu sarai la mia m</E
+M>il sudore</E
+M>il gelo della m</E
+M>il sonno</E
+M>la quiete solenne della m</E
+M>il pallore della m</E
+M>un pallore di m</E
+M>avea sul volto Il pallor della m</E
+M>e la speranza</E
+M>color di m</E
+M>Dai visi impressi di color di m</E
+M>Morte bella parea nel suo bel viso</E
+M>avere la m</E
+M>negli occhi</E
+M>nel viso</E
+M>silenzio di m</E
+M>squallore</E
+M>desolazione di m</E
+M>Compagnia della m</E
+M> Battaglione della m</E
+M>salto della m</E
+M>salto mortale</E
+M>cerchio della m</E
+M>pozzo della m</E
+M>cerchio</E
+M>giro</E
+M>della m</E
+M>gran volta</E
+M>Albero della m</E
+M>tasso</E
+M>morte secca</E
+M>Laudato si’</E
+M>mi Signore</E
+M> per sora nostra Morte corporale</E
+M>Morte</E
+M>tu mi darai fama e riposo</E
+M>Bella Morte</E
+M>pietosa Tu sola al mondo dei terreni affanni</E
+M>Trionfo della Morte</E
+M>Trionfi</E
+M>Triumphus Mortis</E
+M>lottare</E
+M>combattere con la m</E
+M>vedere la m</E
+M>in viso</E
+M>trovarsi in faccia alla m</E
+M>avere la m</E
+M>all’uscio</E
+M>la m</E
+M>viene quando meno ci si aspetta</E
+M>la m</E
+M>non guarda in faccia a nessuno</E
+M>pare la m</E
+M>il ritratto</E
+M>l’immagine della m</E
+M>La m</E
+M>in vacanza</E
+M>Death takes a holiday</E
+M>avere la m</E
+M>nell’anima</E
+M>con la m</E
+M>nel cuore</E
+M>è una m</E
+M>lenta</E
+M>una m</E
+M>continua</E
+M>soffrire</E
+M>patire mille m</E
+M>dell’anima</E
+M>la m</E
+M>eterna</E
+M>la seconda m</E
+M>Beati quelli ke trovarà ne le tue sanctissime voluntati</E
+M>Ka la m</E
+M>secunda nol farrà male</E
+M>Che la seconda m</E
+M>ciascun grida</E
+M>civile</E
+M>al mare d’inverno è la m. civile</E
+M>la m</E
+M>di una istituzione</E
+M>di una società commerciale</E
+M>di un’impresa</E
+M>Le vostre cose tutte hanno lor morte</E
+M>Sì come voi</E
+M>La m</E
+M>dell’estate era tranquilla In quel mattino chiaro</E
+M>termica</E

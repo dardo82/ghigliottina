@@ -1,0 +1,15 @@
+controllore.txt
+"controllore"
+"controllore"
+"controllore di volo"
+#*''il '''controllore''' mi chiese il biglietto''
+*[[bigliettaio]]
+* [[controllo]], [[controllare]]
+M>contrôleur</E
+M>mandrini</E
+M>calibri</E
+M>forati al laminatoio obliquo</E
+M>della circolazione aerea</E
+M>di volo</E
+M>della difesa aerea</E
+M>aereo avanzato</E

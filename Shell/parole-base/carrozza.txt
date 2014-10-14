@@ -1,0 +1,45 @@
+carrozza.txt
+"andare in carrozza"
+"carrozza"
+"carrozza"
+"carrozza a cavalli"
+"carrozza a due ruote"
+"carrozza a quattro ruote"
+"carrozza da nolo"
+"carrozza dei pionieri"
+"carrozza di seconda classe"
+"carrozza panoramica"
+"carrozza passeggeri"
+"carrozza postale"
+"carrozza senza cavalli; detto spec. delle prime automobili"
+"da carrozza da nolo"
+"mozzarella in carrozza"
+"mozzarella in carrozza"
+*[[ berlina]], [[giardiniera]], [[landò]], [[cocchio]], [[coupé]]
+*italiano
+*siciliano
+M>padronale</E
+M>di gala</E
+M>chiusa</E
+M>scoperta</E
+M>a quattro</E
+M>a sei posti</E
+M>andare in c</E
+M>prendere a nolo una c</E
+M>quella è gente che può andare</E
+M>marciare</E
+M>in c</E
+M>andare in paradiso in c</E
+M>potrebbe andare in paradiso in c</E
+M>e vuol andare a casa del diavolo a piè zoppo</E
+M>viaggiatori</E
+M>di prima</E
+M>di seconda classe</E
+M>ristorante</E
+M>ristoro</E
+M>letto</E
+M>carrozze ristorante</E
+M>carrozze ristoro</E
+M>carrozze letto</E
+M>signori in c.!</E
+M>Mozzarella in c</E

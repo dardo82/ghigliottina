@@ -1,0 +1,41 @@
+consacrare.txt
+"consacrare"
+"consacrare"
+"consacrare"
+"consacrare, replace: consacrarsi"
+"consacrare qc a"
+M>consacrare</E
+M>consecrare</E
+M>con</E
+M>sacer</E
+M>una chiesa</E
+M>un altare</E
+M>l’ostia</E
+M>il pane e il vino</E
+M>quella terra fu consacrata dal sangue dei martiri</E
+M>all’immortalità</E
+M>consacrare</E
+M>il poema di Omero ha consacrato all’immortalità</E
+M>i nomi di</E
+M>Ettore e Achille</E
+M>Forse averrà che ’l bel nome gentile Consecrerò con questa stanca penna</E
+M>una cappella a san Giuseppe</E
+M>i pagani consacravano agli dei le primizie dei campi</E
+M>monumento consacrato alla memoria dei Caduti</E
+M>a Dio la propria verginità</E
+M>la vita a un nobile ideale</E
+M>consacra tutti i suoi pensieri alla famiglia</E
+M>non hai mai un po’ di tempo da c</E
+M>agli amici?</E
+M>consacrarsi a Dio</E
+M>alla patria</E
+M>agli studî</E
+M>all’insegnamento</E
+M>ad opere di pietà</E
+M>sacerdote</E
+M>vescovo</E
+M>imperatore</E
+M>parole</E
+M>locuzioni consacrate dall’uso</E
+M>diritti consacrati dalla tradizione</E
+M>l’ostia consacrata</E

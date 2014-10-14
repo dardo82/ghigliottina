@@ -1,0 +1,63 @@
+conclusione.txt
+"a conclusione di"
+"a molla, conclusione"
+"alla conclusione"
+"arrivare ad una conclusione"
+"arrivato ad una conclusione"
+"conclusione"
+"fino alla conclusione di"
+"giungere ad una conclusione"
+"giungere ad una conclusione"
+"giungere ad una conclusione positiva"
+"in conclusione"
+"in conclusione"
+"in conclusione"
+"infine, in conclusione"
+"la conclusione era inevitabile"
+"trarre una conclusione"
+*[[termine]],[[fine]],  punto d’arrivo, [[compimento]],[[decisione]], decisione finale, [[risoluzione]], [[definizione]], [[risultato]], [[esito]], [[effetto]], [[frutto]]
+*.''(di romanzo, discorso)'' [[finale]], [[chiusura]], [[chiusa]], [[epilogo]]
+*[[ argomentazione]], [[conseguenza]], [[deduzione]], [[illazione]]
+*[[inizio]], [[principio]]
+*''(di romanzo, discorso)'' [[inizio]], [[principio]]
+* [[consiglio]],    [[inferenza]]
+M>conclusio</E
+M>onis</E
+M>conclud</E
+M>di un affare</E
+M>di un accordo</E
+M>del matrimonio</E
+M>la c</E
+M>della pace fu preceduta da una lunga serie di trattative</E
+M>cerchiamo di venire a una c</E
+M>soddisfacente per gli uni e per gli altri</E
+M>la c</E
+M>della rissa fu che finirono entrambi in guardina</E
+M>il film ha avuto una c</E
+M>inaspettata</E
+M>non si può prevedere quale sarà la c</E
+M>della lite intentata</E
+M>in conclusione</E
+M>in c</E
+M>sarà meglio avviarci</E
+M>in c</E
+M>si fa o non si fa quest’acquisto?</E
+M>sottile</E
+M>falsa</E
+M>soggettiva</E
+M>arbitraria</E
+M>le tue c</E
+M>non reggono</E
+M>io ti ho esposto i fatti</E
+M>ora spetta a te trarre le c</E
+M>presentare</E
+M>esporre</E
+M>enunciare le proprie c</E
+M>l’ultima c</E
+M>che si ricava dalla filosofia vera e perfetta</E
+M>si è che non bisogna filosofare</E
+M>del sillogismo</E
+M>teologica</E
+M>conclusioni</E
+M>queste e molte altre infinite simili c</E
+M>si debbono disputare in detto Concilio</E

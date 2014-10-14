@@ -1,0 +1,128 @@
+riconoscere.txt
+"rendere merito a qc, riconoscere\/attribuire qcs a qc"
+"riconoscere"
+"riconoscere"
+"riconoscere"
+"riconoscere"
+"riconoscere, replace: riconoscersi"
+"riconoscere con gratitudine"
+"riconoscere i meriti di qc, complimentarsi con qc"
+"riconoscere il valore"
+"riconoscere qcs. a qcn."
+"riconoscere ufficialmente"
+"rifiutarsi di riconoscere"
+"rifiutarsi di riconoscere"
+* [[ammettere]], [[identificare]]
+* [[disconoscere]]
+*[[riconoscersi]], [[riconoscente]], [[riconoscenza]],[[riconoscibile]], [[riconoscimento]], [[riconosciuto]]
+*[[conoscere]]
+M>recogn</E
+M>cogn</E
+M>conoscere</E
+M>miope com&#8217;era</E
+M>alla prima non lo riconobbe</E
+M>dopo tanti anni stentava a r</E
+M>il proprio fratello</E
+M>la malattia lo ha reso così magro che non si riconosce più</E
+M>si fece crescere la barba per non farsi r</E
+M>dalla polizia</E
+M>la scrittura</E
+M>il carattere</E
+M>la mano di una persona</E
+M>lo stile di uno scrittore</E
+M>un fiore dal profumo</E
+M>una qualità di legno dalle venature</E
+M>un albero dalle foglie</E
+M>un paesaggio noto</E
+M>un quadro già visto</E
+M>una musica già ascoltata</E
+M>non ti riconosco più</E
+M>una persona alla voce</E
+M>al passo</E
+M>all&#8217;andatura</E
+M>al vestire</E
+M>al viso</E
+M>dalla voce</E
+M>ormai non riconosce più</E
+M>ha un viso così caratteristico che si riconoscerebbe fra mille</E
+M>con quel naso che ha</E
+M>si riconosce a un chilometro di distanza</E
+M>si fece r</E
+M>dall&#8217;agente di guardia mostrandogli la sua tessera</E
+M>oggi riconosciamo nel Verga uno dei nostri più grandi prosatori</E
+M>i cassieri riconoscono facilmente i biglietti di banca falsificati</E
+M>si riconosceva perfettamente in certi atteggiamenti del padre</E
+M>quali fanciulli</E
+M>vergognando</E
+M>muti Con li occhi a terra stannosi</E
+M>ascoltando E sé riconoscendo e ripentuti</E
+M>i due gemelli sono così somiglianti che è difficile r</E
+M>l&#8217;uno dall&#8217;altro</E
+M>stette in ascolto cercando di r</E
+M>la provenienza delle voci</E
+M>qualcuno come capo</E
+M>come proprio maestro</E
+M>caposcuola</E
+M>proprio</E
+M>quadro</E
+M>uno scritto</E
+M>la firma</E
+M>una somma in conto</E
+M>l&#8217;autorità del papa</E
+M>di un sovrano</E
+M>uno stato</E
+M>un governo</E
+M>un nuovo assetto territoriale</E
+M>un figlio naturale</E
+M>una obbligazione</E
+M>una sentenza straniera</E
+M>il servizio pre</E
+M>ruolo</E
+M>gli anni di servizio fatti come incaricato</E
+M>in altra categoria</E
+M>un vecchio militante comunista che non si riconosceva più nel nuovo partito</E
+M>riconobbe le ragioni dell&#8217;avversario</E
+M>che l&#8217;avversario aveva ragione</E
+M>non vuol r</E
+M>la propria inferiorità</E
+M>devi r</E
+M>che sei stato trattato gentilmente</E
+M>riconosco il mio torto</E
+M>errore</E
+M>peccato</E
+M>la mia leggerezza</E
+M>di aver mancato</E
+M>di non avere compiuto il proprio dovere</E
+M>riconosco i suoi pregi</E
+M>le sue buone qualità</E
+M>dovrà r</E
+M>che gli deve molto</E
+M>non puoi non r</E
+M>i benefici che hai ricevuto da lui</E
+M>una cosa da uno</E
+M>o lume pregno Di gran virtù</E
+M>dal quale io riconosco Tutto</E
+M>qual che si sia</E
+M>il mio ingegno</E
+M>un aiuto</E
+M>un favore</E
+M>un servigio</E
+M>vedrai che ti riconoscerà</E
+M>non senza grandissima maraviglia da tutti guatato e riconosciuto fu lungamente</E
+M>la mattina fu spesa in giri</E
+M>per r</E
+M>il paese</E
+M>un lavoro</E
+M>una zona di terreno</E
+M>un paese</E
+M>le posizioni nemiche</E
+M>una strada</E
+M>una costa</E
+M>un porto</E
+M>un pericolo</E
+M>una nave</E
+M>facoltà riconosciuta</E
+M>diritto riconosciuto</E
+M>titolo riconosciuto</E
+M>istituto scolastico legalmente riconosciuto</E
+M>feste riconosciute</E

@@ -1,0 +1,89 @@
+battuta.txt
+"alla battuta"
+"avere la battuta facile"
+"battuta"
+"battuta"
+"battuta"
+"battuta"
+"battuta"
+"battuta"
+"battuta"
+"battuta"
+"battuta a due tempi"
+"battuta, battuta finale"
+"campo da tennis in terra battuta"
+"capire la battuta"
+"capire qcs.; spec. una battuta"
+"due quarti di battuta"
+"fare una battuta ironica"
+"in prima battuta"
+"inizio di corsa o battuta di caccia, fermo automatico"
+"media battuta"
+"ordine di battuta"
+"pista battuta"
+"primo turno di battuta"
+"terra battuta"
+"vecchia battuta"
+*[[botta]], [[colpo]], [[percossa]], [[bastonatura]], [[pestaggio]],[[bastonata]], [[legnata]], [[randellata]], [[manganellata]]
+*(di dispositivo, congegno) [[tocco]], [[rintocco]], [[battito]]
+* [[partita]], [[caccia]], partita di caccia
+*(di polizia) [[pattugliamento]], [[perlustrazione]], [[rastrellamento]], [[ricognizione]] 
+*[[spiritosaggine]], [[freddura]], [[barzelletta]], [[storiella]], [[motto]], [[arguzia]], [[facezia]], [[scherzo]], [[lepidezza]],  [[frizzo]], [[lazzo]]
+*''(sulla pelle)'' [[segno]], [[livido]], [[contusione]]
+*''(di colpi, pugni eccetera)'' [[scarica]], [[gragnola]]
+*''(di macchina per scrivere e simili)'' [[carattere]], [[lettera]], [[spazio]]
+* ''(nei dialoghi teatrali)'' [[frase]]
+*[[ribattuta]]
+M>battuto</E
+M>battere</E
+M>ha dato una bella b</E
+M>in terra</E
+M>guarda che b</E
+M>sul ginocchio!</E
+M>cento b</E
+M>al minuto</E
+M> una cartella è costituita di circa duemila battute</E
+M>i marinai vogavano con b</E
+M>sempre più stanche</E
+M>della voga</E
+M>il polso aveva 60 b</E
+M>al minuto</E
+M>fissa</E
+M>controbattuta</E
+M>mobile</E
+M>misura</E
+M>d’aspetto</E
+M>d’arresto</E
+M>essere alle prime b</E
+M>in due o tre b</E
+M>in poche b</E
+M>attacco della b</E
+M>dare la b</E
+M>gettare via la b</E
+M>mangiarsi la b</E
+M>pescare la b</E
+M>soffiare</E
+M>bruciare la b</E
+M> amare</E
+M> odiare le b.</E
+M>pronunciare una b. inopportuna</E
+M>prendeva con una scusa qualsiasi a maltrattarlo</E
+M> di solito prendendolo in fallo sulla discussione politica o perché avevo detto una b. salace sulle donne</E
+M>battute di spirito</E
+M>avere la b</E
+M>pronta</E
+M>uscirsene con una b</E
+M>cavarsela con una b</E
+M>cacciare in battuta</E
+M>prendere parte a una b</E
+M>di caccia</E
+M>di stacco</E
+M>servizio</E
+M>ordinaria</E
+M>liftata</E
+M>tagliata</E
+M>slice</E
+M>vantaggio alla battuta</E
+M>posto di battuta</E
+M>intervento in prima b</E
+M>seconda battuta</E

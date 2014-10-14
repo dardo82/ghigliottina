@@ -1,0 +1,29 @@
+melone.txt
+"melone"
+"melone"
+"frutto del melone"
+"melone"
+"melone d'inverno"
+#* ''
+*[[popone]]
+M>melo</E
+M>onis</E
+M>Cucumis melo</E
+M>popone</E
+M>cantalupo</E
+M>reticolato</E
+M>retato</E
+M>liscio</E
+M>d’inverno</E
+M>di Malta</E
+M>lungo</E
+M>serpentino</E
+M>Cucumis melo</E
+M>flexuosus</E
+M>d’acqua</E
+M>melon d’eau</E
+M>Wassermelone</E
+M>watermelon</E
+M>di pane</E
+M>Albero dei m</E
+M>papaia</E

@@ -1,0 +1,102 @@
+negozio.txt
+"conto di un negozio"
+"del negozio di giocattoli"
+"direttore di negozio"
+"facciata di un negozio"
+"furto in un negozio"
+"metter su un negozio"
+"negozio"
+"negozio"
+"negozio aderente ad una catena"
+"negozio aperto dalle 7 alle 23"
+"negozio aziendale"
+"negozio che vende alcolici da asporto"
+"negozio che vende cibo macrobiotico"
+"negozio con cibi pronti da asportare"
+"negozio da 10 centesimi; negozio economico"
+"negozio del tè"
+"negozio dell'usuraio"
+"negozio di abbigliamento"
+"negozio di abbigliamento"
+"negozio di alimentari"
+"negozio di antiquariato"
+"negozio di arte pop"
+"negozio di articoli da regalo"
+"negozio di articoli e fornitura per navi"
+"negozio di articoli sportivi"
+"negozio di bevande alcoliche"
+"negozio di bevande alcoliche"
+"negozio di caffè"
+"negozio di cappelli"
+"negozio di cappelli"
+"negozio di chincaglierie"
+"negozio di dolci"
+"negozio di dolci"
+"negozio di ferramenta"
+"negozio di fiori"
+"negozio di fish and chips"
+"negozio di generi alimentari"
+"negozio di generi vari"
+"negozio di giocattoli"
+"negozio di informatica"
+"negozio di latticini"
+"negozio di liquori"
+"negozio di mobili; mobilificio"
+"negozio di modellismo; fai-da-te"
+"negozio di ottica"
+"negozio di scarpe"
+"negozio di scarpe"
+"negozio di sigari"
+"negozio di souvenir"
+"negozio di tè"
+"negozio di uccelli"
+"negozio generi alimentari"
+"negozio o fabbrica di piatti o targhe da collezione"
+"negozio specialistico, negozio di prodotti tipici"
+"negozio, magazzino economico"
+"realizzato in negozio (in loco)"
+*[[ bottega]], [[rivendita]], punto vendita, attività commerciale, esercizio, [[esercizio]],  [[spaccio]],[[ emporio]], 
+*''(di artigiano)'' [[laboratorio]] 
+* [[affare]], operazione commerciale, [[traffico]], [[commercio]],[[ compravendita]],[[ contrattazione]],  [[negoziazione]] 
+*[[negoziabile]], [[negozialità]],[[negozialmente]], [[negoziante]],[[negoziare]], [[negoziato]],[[negoziatore]], [[negoziazione]], [[negozioso]]
+*Giuseppe Tesorio, ''Ma la lavagna interattiva fa bene allo studente?'' , in Corriere della Sera, 30 novembre 2012
+M>negotium</E
+M>nec</E
+M>otium</E
+M>Chi dietro a ‘iura’</E
+M>Sen giva</E
+M>e chi seguendo sacerdozio</E
+M>E chi rubare</E
+M>e chi civil n</E
+M>gli uomini si rimuovano dai negozi della vita il più che si possa</E
+M>tu mi torni ancora in campo con quell’infamità del nome</E
+M>cognome e negozio!</E
+M>fare</E
+M>concludere un buon n</E
+M>un cattivo negozio</E
+M>faccenda</E
+M>che n</E
+M>è questo?</E
+M>bel negozio!</E
+M>affare</E
+M>giuridico</E
+M>unilaterali</E
+M>bilaterali</E
+M>plurilaterali</E
+M>Et ad un altro suo diede negozio D’affrettar Rodomonte e Mandricardo</E
+M>bottega</E
+M>un n</E
+M>di calzature</E
+M>di stoffe</E
+M>di dolci</E
+M>ampio</E
+M>ben fornito</E
+M>ben avviato</E
+M>aprire</E
+M>chiudere il n</E
+M>aprire</E
+M>gestire</E
+M>esercire un negozio</E
+M>Negozî a catena</E
+M>chain stores</E
+M>catena di negozî</E

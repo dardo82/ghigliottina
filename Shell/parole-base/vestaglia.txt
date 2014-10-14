@@ -1,0 +1,10 @@
+vestaglia.txt
+"vestaglia"
+"vestaglia da camera"
+"vestaglia, veste da camera"
+* [[veste da camera]]
+M>una vestaglietta di cotone stampato</E
+M> di lino</E
+M>vestaglietta da casa</E
+M>da mare</E
+M>da spiaggia</E

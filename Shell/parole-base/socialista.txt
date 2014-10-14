@@ -1,0 +1,19 @@
+socialista.txt
+"socialista"
+"socialista"
+*[[di sinistra]], [[comunista]], [[collettivista]], [[marxista]], [[riformista]], [[progressista]]
+*[[di destra]], [[conservatore]], [[reazionario]], [[liberale]], [[capitalista]], [[imperialista]], [[individualista]], [[clericale]]
+M>socialismo</E
+M>socialiste</E
+M>socialistico</E
+M>la teoria</E
+M>la prassi s.</E
+M>i principî</E
+M>i metodi s.</E
+M>i partiti s.</E
+M>il Partito S. Italiano</E
+M>paesi</E
+M>stati s.</E
+M>un governo</E
+M>un&#8217;amministrazione s.</E
+M>Internazionale s.</E

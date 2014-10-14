@@ -1,0 +1,14 @@
+maleducazione.txt
+"maleducazione"
+*[[scortesia]], [[sgarbataggine]], [[insolenza]], [[villania]], [[arroganza]], [[sfrontatezza]], [[impertinenza]], [[volgarità]], [[cafonaggine]], [[inciviltà]], [[inurbanità]]
+*''(qualità)''    [[malgarbo]], 
+*buona educazione, [[educazione]], [[cortesia]], [[garbo]], buone maniere.
+*[[maleducato]], [[maleducatamente]]
+M>mala</E
+M>malo</E
+M>educazione</E
+M>maleducato</E
+M>non sopporto la m</E
+M>di quel ragazzo</E
+M>è m</E
+M>fare aspettare una signora!</E

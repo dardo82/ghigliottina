@@ -1,0 +1,50 @@
+impedire.txt
+"impedire"
+"impedire"
+"impedire"
+"impedire a qc di + verbo"
+"impedire a qualcuno di"
+"impedire a qualcuno di fare qualcosa"
+"impedire i movimenti"
+"impedire i movimenti"
+"impedire il riscatto di un'ipoteca"
+"impedire l'entrata"
+"impedire l'entrata"
+"impedire la vittoria"
+"impedire qualcosa"
+"impedire, intralciare"
+"impedire, ostacolare"
+"ostacolare, impedire, intralciare"
+*[[impedimento]]
+M>impedire</E
+M>pes pedis</E
+M>io impedisco</E
+M>tu impedisci</E
+M>l’ingresso</E
+M>l’uscita</E
+M>il passaggio</E
+M>Non impedir lo suo fatale andare</E
+M>una prepotenza</E
+M>un sopruso</E
+M>la libera manifestazione della volontà</E
+M>a qualcuno un luogo</E
+M>Guerreggiante a impedir l’Elba ai nemici</E
+M>che</E
+M>di entrare</E
+M>di uscire</E
+M>la tempesta c’impedì di partire</E
+M>un’improvvisa indisposizione gl’impedì di prendere parte alla cerimonia</E
+M>che si compia un misfatto</E
+M>un’ingiustizia</E
+M>la ragione m’impedisce di prestar fede alle sue parole</E
+M>che cosa t’impedisce di farlo?</E
+M>il buon senso m’impedì di rispondergli come si meritava</E
+M>un grosso macigno impediva la strada</E
+M>c’e un muro che impedisce la vista</E
+M>essere impedito dal vestito</E
+M>dalla gonna</E
+M>mi scusi</E
+M>ma non è capace che d’i</E
+M>una apoplessia che gli torse la bocca e l’impedì quasi tutto da un lato</E
+M>causa impediente</E
+M>impedimento impediente</E

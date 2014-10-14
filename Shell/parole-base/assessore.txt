@@ -1,0 +1,13 @@
+assessore.txt
+"assessore"
+M>assessor</E
+M>oris</E
+M>assid</E
+M>assessum</E
+M>alla cultura</E
+M>alla sanità</E
+M>anziano</E
+M>giudici popolari</E
+M>savio</E
+M>consigliere</E
+M>io credo ottima legge quella che stabilisce assessori al giudizio principale presi dalla sorte</E

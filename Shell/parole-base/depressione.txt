@@ -1,0 +1,35 @@
+depressione.txt
+"depressione"
+"depressione"
+"depressione"
+"depressione"
+"depressione post parto"
+"depresso, in depressione, giù di morale"
+"in crisi, in depressione, di cattivo umore"
+"la Depressione"
+"la Grande Depressione"
+"malinconia; depressione"
+"stato di depressione"
+"zona delle calme territoriali, depressione"
+*[[psicosi]]
+M>depressio</E
+M>onis</E
+M>deprim</E
+M>depressus</E
+M>a perpetuale infamia e d</E
+M>de li malvagi uomini</E
+M>continentali</E
+M>vallive</E
+M>dell’orizzonte</E
+M>atmosferica</E
+M>barometrica</E
+M>vuoto</E
+M>slump</E
+M>recessione</E
+M>Grande d</E
+M>delle forze</E
+M>di umore</E
+M>essere in uno stato di d</E
+M>avere momenti di grave d</E
+M>endogena</E
+M>reattiva</E

@@ -1,0 +1,12 @@
+contagocce.txt
+"col contagocce"
+"contagocce"
+M>contare</E
+M>goccia</E
+M>compte</E
+M>gouttes</E
+M>Bottiglia</E
+M>bottiglietta a c</E
+M>dare qualcosa col c</E
+M>i soldi me li dà col c</E
+M>la notizia ci è stata data col contagocce</E

@@ -1,0 +1,463 @@
+idea.txt
+"avere l'idea"
+"have the idea"
+"avere la malaugurata idea"
+"have the unfortunate idea"
+"avere un'idea"
+"have an idea"
+"avere un'idea di qcs."
+"have an idea of"
+"boh; non ho idea"
+"I have no idea"
+"buona idea"
+"good idea"
+"cambia idea"
+"cambiare idea"
+"cambiare idea"
+"cambiare idea"
+"cambiare idea; atteggiamento; posizione"
+"coltivare l'idea di"
+"entertain the idea of"
+"dare l'idea di"
+"give an idea of"
+"della stessa opinione, della stessa idea"
+"farsi un'idea su qcs, comprendere qcs"
+"grande idea"
+"big idea"
+"idea"
+"thought, conception, idea"
+"idea"
+"form, idea"
+"idea"
+"idea"
+"idea"
+"idea"
+"idea"
+"idea"
+"idea"
+"idea"
+"idea"
+"ideale"
+"ideal"
+"idea approssimativa"
+"rough idea"
+"idea astratta"
+"abstract idea"
+"idea brillante"
+"bright idea"
+"idea brillante"
+"brilliant idea"
+"idea concreta"
+"concrete idea"
+"idea di fondo"
+"basic idea, general idea"
+"idea divertente"
+"fun idea"
+"idea fissa"
+"fixed idea"
+"idea fissa"
+"idea fondamentale"
+"fundamental idea"
+"idea generale"
+"general idea"
+"idea originale"
+"novel idea"
+"idea precedente"
+"previous idea"
+"idea principale"
+"main idea"
+"idea regalo"
+"gift idea"
+"idea sventata"
+"hare-brained idea"
+"idea; l'"
+"idea; the"
+"l'idea"
+"the idea"
+"l'idea centrale"
+"main idea (politics) US"
+"la grande idea"
+"the big idea"
+"mettersi in testa (un'idea)"
+"mi piace molto l'idea"
+"I relish the idea"
+"nell'idea"
+"in idea"
+"non avere idea"
+"have no idea"
+"non avere idea di"
+"have no idea"
+"non avere la più pallida idea"
+"not have the slightest idea"
+"non averne la minima idea"
+"not have the faintest idea, not have the slightest idea"
+"non averne la più pallida idea"
+"not have the faintest idea, not have the slightest idea"
+"non è una cattiva idea"
+"It's not a bad idea."
+"non una cattiva idea"
+"not a bad idea"
+"pazza idea"
+"crazy idea"
+"questa è l'idea"
+"that's the idea"
+"ribaltare una situazione, o un'idea"
+"trastullarsi con l'idea"
+"flirt with the idea"
+"un'idea di"
+"an idea of"
+"vaga idea"
+"vague idea"
+#*''non farti strane '''idee'''''
+#*''hai avuto un<nowiki>'</nowiki>'''idea''' strabiliante!''
+#*''la mia '''idea''' era quella di arrivare primo''
+#*''non mi sono ancora fatto un<nowiki>'</nowiki>'''idea''' su quella persona''
+*[[ideale]], [[modello]], [[archetipo]], [[utopia]], [[visione]]
+*''(della natura, della realtà, eccetera)'' [[concetto]], [[pensiero]], [[nozione]]; [[preconcetto]], [[pregiudizio]]
+*''(di politica, economia, eccetera)'' [[opinione]], [[parere]], punto di vista, [[giudizio]], [[teoria]], [[credenza]], [[supposizione]], [[congettura]], [[illazione]]; [[ideale]], [[principio]], [[ideologia]], [[convinzione]], [[credo]], [[fede]], [[dottrina]]
+*''di libro, scritto, eccetera)'' [[spunto]], [[ispirazione]]
+*''(in un processo creativo, inventivo)'' [[intuizione]], [[invenzione]], [[creazione]]
+*[[prospettiva]]
+* ''(di fare, di andare, eccetera)'' [[intenzione]], [[progetto]], [[proposito]], [[piano]], [[obiettivo]], [[proponimento]], [[disegno]]
+*[[fantasia]], [[sogno]], [[illusione]], [[fantasticheria]], [[fissazione]], [[fisima]]
+*[[apparenza]], [[impressione]], [[somiglianza]], [[analogia]]
+* [[giudizio]], [[avviso]] 
+*[[scopo]], [[aspirazione]], [[desiderio]], [[sogno]]
+*[[progetto]], [[proponimento]], [[intenzione]], [[intendimento]]
+*''(di una dottrina, di un movimento ecc.)'' [[sostanza]], [[contenuto]], [[fondamento]], [[nocciolo]], [[nucleo]]; 
+*''(di un libro, di un film ecc.)'' [[filo]] [[conduttore]] 
+*[[realtà]], [[azione]], [[fenomeno]]
+*[[schizzo]], [[abbozzo]]
+*italiano
+*catalano
+*inglese
+*papiamento
+*polacco
+*spagnolo
+M>l’i</E
+M>di Dio</E
+M>dell’universo</E
+M>del tempo</E
+M>dello spazio</E
+M>della bontà</E
+M>della bellezza</E
+M>dei colori</E
+M>l’i</E
+M>del bene e del male può variare da uomo a uomo</E
+M>avere un’i</E
+M>chiara</E
+M>netta</E
+M>esatta</E
+M>precisa</E
+M>adeguata</E
+M>oscura</E
+M>incerta</E
+M>confusa</E
+M>inesatta</E
+M>vaga</E
+M>approssimativa</E
+M>inadeguata</E
+M>di una realtà</E
+M>espressa in parole</E
+M>tradotta in immagine</E
+M>vocabolo</E
+M>segno che esprime un’i</E
+M>richiama un’i</E
+M>nella parola</E
+M>fuoco</E
+M> sono implicite le i</E
+M>della fiamma</E
+M>della luce e del calore</E
+M>innate</E
+M>chiare e distinte</E
+M>idee della ragione</E
+M>assoluta</E
+M>idea</E
+M>idee-forze</E
+M>idées-forces</E
+M>non so con precisione che cosa sia la psicolinguistica</E
+M>ne ho appena un’i</E
+M>non ha neppure l’i</E
+M>di ciò che significhi lavorare sul serio</E
+M>Farsi</E
+M>formarsi un’i</E
+M>di qualche cosa</E
+M>ho scorso alcune pagine per formarmi un’i</E
+M>sull’argomento del libro</E
+M>se non hai visto con i tuoi occhi quello spettacolo</E
+M>non puoi fartene un’idea</E
+M>Dare un’i</E
+M>di qualcosa</E
+M>il meccanismo è semplice e te ne darò un’i</E
+M>in poche parole</E
+M>è un ipocrita</E
+M>e basta questo fatto a dartene l’idea</E
+M>un dolore</E
+M>una forza</E
+M>un’impudenza da non averne i</E
+M>ha detto tali sciocchezze</E
+M>da non averne idea</E
+M>avere idea</E
+M>hai i</E
+M>di ciò che ti aspetta?</E
+M>non avere i</E
+M>di qualcosa</E
+M>non avere la minima i</E
+M>non ho i</E
+M>non ho nessuna i</E
+M>di come funzioni questo congegno</E
+M>non avevo la minima i</E
+M>del luogo dove mi trovavo</E
+M>non ho ancora i.</E
+M>l’i</E
+M>di ciò che farò domani</E
+M>alla sola i</E
+M>di un pericolo simile mi sento rizzare i capelli</E
+M>basta l’i</E
+M>che uno lo possa contraddire per farlo andare in bestia</E
+M>anche soltanto l’i</E
+M>di rivederla lo manda in estasi</E
+M>prospettiva</E
+M>è un’i</E
+M>che fa rabbrividire</E
+M>non mi rallegra certo l’i</E
+M>di dover ricominciare tutto da capo</E
+M>mi sorride l’i</E
+M>di avere qualche giorno di vacanza</E
+M>l’i</E
+M>che un giorno o l’altro questo possa succedere mi spaventa</E
+M>ho l’i</E
+M>mi dà l’i</E
+M>ho l’i</E
+M>che non otterremo nulla</E
+M>mi dà l’i</E
+M>che stavolta va a finire male!</E
+M>concetto</E
+M>l’associazione</E
+M>la concatenazione delle i</E
+M>seguire l’ordine</E
+M>il filo</E
+M>la logica delle i</E
+M>manca il legame tra le i</E
+M>fissa</E
+M>coatta</E
+M>fuga delle i</E
+M>sconnesse</E
+M>mi si confondono le i</E
+M>manifestare</E
+M>esporre le proprie i</E
+M>libro ricco</E
+M>denso d’idee</E
+M>un componimento povero d’idee</E
+M>scrive correttamente ma non ha idee</E
+M>il lavoro è modesto ma ha qualche i</E
+M>originale</E
+M>l’i</E
+M>del bello</E
+M>del sublime</E
+M>del perfetto</E
+M>In qual parte del ciel</E
+M>in quale idea Era l’exempio</E
+M>onde natura tolse Quel bel viso leggiadro</E
+M>mondo delle i</E
+M>è ancora nel mondo delle i</E
+M>era ancora</E
+M>tu eri ancora nel mondo delle i</E
+M>l’i</E
+M>dominante di un carme</E
+M>questa è l’i</E
+M>centrale dell’articolo</E
+M>ho letto attentamente il suo saggio</E
+M>ma non ne ho afferrata l’i</E
+M>le parole le ho udite ma non credo di averne colto l’idea</E
+M>fondamentale</E
+M>secondaria</E
+M>tema</E
+M>nel comandamento</E
+M>ama il prossimo tuo come te stesso</E
+M> è gran parte dell’i</E
+M>cristiana</E
+M>l’i</E
+M>liberale</E
+M>l’i</E
+M>marxista</E
+M>esporre</E
+M>commentare l’i</E
+M>guida di un’azione</E
+M>l’i</E
+M>monarchica</E
+M>l’i</E
+M>repubblicana</E
+M>l’i</E
+M>non muore mai</E
+M>anzi ha vita e forza dalle persecuzioni</E
+M>l’i</E
+M>nazionale</E
+M>combattere</E
+M>lottare</E
+M>morire per un’i</E
+M>l’i</E
+M>è buona</E
+M>vedremo se saprai darle forma d’arte</E
+M>l’i</E
+M>del dramma m’è venuta da un fatto realmente accaduto</E
+M>il lavoro l’ha fatto lui</E
+M>l’i</E
+M>però è stata mia</E
+M>dare</E
+M>suggerire un’i</E
+M>da sviluppare</E
+M>non ha idee</E
+M>un’i</E
+M>audace</E
+M>grandiosa</E
+M>abbiamo avuto la stessa i</E
+M>è stata un’ottima i</E
+M>quella di rivolgersi a lui</E
+M>mi pare una saggia i</E
+M>quella di andarcene tutti a dormire</E
+M>mi viene un’i</E
+M>hai avuto un’i</E
+M>veramente geniale</E
+M>luminosa</E
+M>gli balenò un’i</E
+M>felice</E
+M>non è stata certo un’i</E
+M>brillante la tua</E
+M>che i</E
+M>uscire con questo tempaccio!</E
+M>bell’i</E
+M>venire a seccar la gente a quest’ora!</E
+M>non ti far venire certe i</E
+M>Mi piace l’i</E
+M>lui vuole stare in poltrona mentre io sgobbo? mi piace l’i</E
+M>e dovrei pagare tutto io? mi piace l’i</E
+M>ha troppe i</E
+M>per la testa</E
+M>con queste tue i</E
+M>finirai col rovinarti</E
+M>ha delle i</E
+M>che mi piacciono poco</E
+M>sono idee</E
+M>sono tutte i</E
+M>tu pensi che sia così</E
+M>ma è solo una tua i</E
+M>speri che lui t’aiuti? lèvati quest’i</E
+M>dalla testa</E
+M>è un’i</E
+M>ridicola</E
+M>credimi</E
+M>le sue sono i</E
+M>di un cervello esaltato</E
+M>di una mente malata</E
+M>si è fissato in quest’i</E
+M>e non è possibile convincerlo del contrario</E
+M>sostiene che la frutta fa male:</E
+M>è un’idea!</E
+M>nell’i</E
+M>tutto è facile</E
+M>non così in pratica</E
+M>disegnare</E
+M>dipingere a idea</E
+M>è un bozzetto che ho fatto di i</E
+M>mia</E
+M>neppure</E
+M>nemmeno</E
+M>neanche</E
+M>per i</E
+M>non lo voglio nemmeno per i</E
+M>neppure per i</E
+M>ho intenzione di cedere</E
+M>Allora accetti?</E
+M>Neanche per idea!</E
+M>neanche per sogno</E
+M>non so se sbaglio ma questa è la mia i</E
+M>è un’i</E
+M>giusta</E
+M>un’i</E
+M>storta</E
+M>ognuno ha le</E
+M>sue idee</E
+M>hai delle i</E
+M>tutte tue personali</E
+M>un uomo d’i</E
+M>strane</E
+M>sono i</E
+M>sbagliate</E
+M>avere i</E
+M>bislacche</E
+M>stravaganti</E
+M>assurde</E
+M>strampalate</E
+M>paradossali</E
+M>gente d’i</E
+M>anguste</E
+M>grette</E
+M>meschine</E
+M>vanno d’accordo perché hanno le stesse i</E
+M>l’i</E
+M>socialista della società</E
+M>ordine d’idee</E
+M>vorrei conoscere la tua i</E
+M>su questa proposta</E
+M>ho anch’io la mia i</E
+M>in proposito</E
+M>secondo la mia i</E
+M>confutare un’i</E
+M>errata</E
+M>cambiare spesso d’idea</E
+M>è un uomo d’i</E
+M>laiche</E
+M> d’i</E
+M>non ortodosse</E
+M>avere i</E
+M>liberali</E
+M>comuniste</E
+M>anarchiche</E
+M>affermare</E
+M>proclamare</E
+M>difendere le proprie i</E
+M>contrasto d’idee</E
+M>tollerare le i</E
+M>altrui</E
+M>vagheggiare</E
+M>carezzare</E
+M>abbandonare un’i</E
+M>ero venuto qui con l’i</E
+M>di divertirmi</E
+M>avevo l’i</E
+M>di scambiare quattro chiacchiere con te</E
+M>avrei una mezza i</E
+M>di andare a teatro stasera</E
+M>volevo scriverti ma poi ho cambiato i</E
+M>sei tornato con i</E
+M>buone o cattive?; credo che abbia brutte i</E
+M>per la testa</E
+M>fu questa l’i</E
+M>di tutta la sua vita</E
+M>ostinarsi in un’i</E
+M>idea</E
+M>basta solo un’i</E
+M>di sale</E
+M>il liquore mi fa male</E
+M>versamene appena un</E
+M>per essere perfettamente in centro</E
+M>il quadro andrebbe spostato un’i</E
+M>a destra</E
+M>non ce n’è in casa nemmeno l’i</E
+M>ho un amico che ha un’i</E
+M>di tuo fratello</E
+M>è una costruzione che ha qualche i</E
+M>degli edifici orientali</E
+M>in questi versi c’è un’i</E
+M>dei Canti del Leopardi</E
+M>mi piacerebbe una villa sull’i</E
+M>di questa</E
+M>Dare l’i</E
+M>a sentirlo</E
+M>non dà l’i</E
+M>di persona normale</E
+M>vista dall’esterno</E
+M>questa scuola dà l’i</E
+M>di una caserma</E
+M>ideàcce</E

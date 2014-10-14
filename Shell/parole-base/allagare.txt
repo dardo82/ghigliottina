@@ -1,0 +1,15 @@
+allagare.txt
+"allagare"
+*[[inondare]]
+*[[allagarsi]]
+M>io allago</E
+M>tu allaghi</E
+M>il fiume</E
+M>straripando</E
+M>allagò la pianura</E
+M>tutta la regione fu allagata</E
+M>dopo la pioggia i campi s’allagarono</E
+M>il vino versatosi quasi allagava il pavimento</E
+M>uno strato bigio di nebbia allaga la pianura</E
+M>il malcostume allagava la società d’allora</E
+M>la pianura era tutta allagata per lo straripamento dei torrenti</E

@@ -1,0 +1,317 @@
+principale.txt
+"accento principale"
+"argomento principale"
+"articolo principale"
+"camera da letto principale"
+"caratteristica principale"
+"ceppo principale"
+"cilindro principale"
+"coefficiente principale"
+"conduttura principale dell'acqua"
+"contatto principale"
+"corpo principale"
+"corrente principale"
+"corso principale"
+"della stanza principale di villa o casa di campagna"
+"diagonale principale"
+"discorso principale"
+"dispositivo di comando principale"
+"essere l'attore principale"
+"filone principale"
+"fonte principale"
+"forza principale"
+"forza principale"
+"fuoco principale"
+"galleria principale"
+"idea principale"
+"ideale principale"
+"il concetto principale"
+"il settore di studio principale"
+"indirizzo principale"
+"ingresso principale"
+"interesse principale"
+"interpretare la parte principale"
+"la portata principale"
+"linea principale"
+"linea principale"
+"linea principale (di ferrovia)"
+"magazzino principale"
+"notevole esperto, esperto principale"
+"obiettivo principale"
+"orologio principale"
+"parte principale"
+"partito principale"
+"pasto principale"
+"pezzo principale"
+"piatto principale"
+"piatto principale"
+"ponte principale"
+"porta (principale)"
+"portata principale"
+"premessa principale"
+"primo, principale"
+"principale"
+"principale"
+"principale prerogativa"
+"proposizione principale"
+"punto principale"
+"punto principale"
+"radice principale"
+"ragione principale"
+"regolatore principale"
+"schermata principale"
+"sede principale"
+"sequenza principale"
+"somma principale"
+"stanza principale di villa o casa di campagna"
+"stella della sequenza principale"
+"strada principale"
+"strada principale"
+"strada principale"
+"strada principale, strada maestra, via principale"
+"taglia principale"
+"telaio principale"
+"termine principale"
+"utilizzo principale"
+"via principale"
+"via principale"
+#*''il [[w
+*[[primo]], [[maggiore]], [[massimo]], [[fondamentale]], [[basilare]], [[cardinale]], [[essenziale]], [[capitale]], [[primario]], [[prioritario]], [[dominante]], [[preminente]], [[cospicuo]], [[precipuo]]
+* [[capo]], [[direttore]], [[dirigente]], [[titolare]], [[capufficio]], [[padrone]], [[proprietario]], [[responsabile]], datore di lavoro, [[boss]]
+*''(nella scenografia teatrale)'' [[fondale]]
+*[[secondario]], [[marginale]], [[accessorio]], [[superfluo]]
+*[[dipendente]], [[subordinato]], [[sottoposto]]
+*[[principalmente]]
+M>principalis</E
+M>princeps</E
+M>pis</E
+M>esaminiamo i punti p</E
+M>della questione</E
+M>esporre i fatti p</E
+M> sorvolando su quelli secondarî</E
+M>sostenere la parte p</E
+M>in quella galleria d&#8217;arte il pezzo p</E
+M>è il quadro di Rubens</E
+M>le p</E
+M>famiglie della città</E
+M>al congresso erano presenti i p</E
+M>esponenti del settore</E
+M>i p</E
+M>scrittori italiani</E
+M>è uno dei p</E
+M>imputati in questo processo</E
+M>la porta p</E
+M>del palazzo</E
+M>le strade p</E
+M>della città</E
+M>l&#8217;albergo si trova nella piazza p</E
+M>del paese</E
+M>la chiesa p</E
+M>è la p</E
+M>città dell&#8217;isola</E
+M>il p</E
+M>porto del Mediterraneo</E
+M>stella p</E
+M>piani p</E
+M>sistema ottico centrato</E
+M>primo piano p</E
+M>secondo piano p</E
+M>punti p</E
+M>proposizione p</E
+M>accento p</E
+M>men</E
+M>vàlidaménte</E
+M>zió</E
+M>càpostazióne</E
+M>bene p</E
+M>accessorî</E
+M>punto p</E
+M>distanza p</E
+M>registro p</E
+M>principale</E
+M>devi tener conto del p</E
+M>e scartare tutto ciò che è accessorio</E
+M>qui andavan tutti d&#8217;accordo</E
+M> almeno nel p</E
+M>estimo che di necessità sia convenire esser tra noi alcuno p</E
+M>il quale noi e onoriamo e ubidiamo come maggiore</E
+M> quando volle mischiarsi coi p</E
+M>della sua città</E
+M> trovò un fare ben diverso</E
+M>molte volte</E
+M> o per sua mala fortuna o</E
+M> come altri dicevano</E
+M> per essere di consiglio precipitoso</E
+M> fu superato dagli inimici: anzi</E
+M> forse</E
+M> dove fu p. degli eserciti non ottenne mai vittoria alcuna</E
+M>per il pagamento deve rivolgersi al p</E
+M>il p</E
+M>l&#8217;ha rimproverato per il ritardo</E
+M>Chi sa che in fondo all&#8217;anima po&#8217; poi Non mandi a quel paese il principale!</E
+M>proposizione</E
+M>principale</E
+M>non dovresti contraddirlo</E
+M> principalmente quando vedi che è di cattivo umore</E
+M>è un genere di pésca che si pratica principalmente di notte</E
+M>quasi tutte le antiche tirannidi</E
+M> e principalmente la romana imperiale</E
+M> nacquero e si corroborarono per via della forza militare</E
+"accento principale"
+"argomento principale"
+"articolo principale"
+"camera da letto principale"
+"caratteristica principale"
+"ceppo principale"
+"cilindro principale"
+"coefficiente principale"
+"conduttura principale dell'acqua"
+"contatto principale"
+"corpo principale"
+"corrente principale"
+"corso principale"
+"della stanza principale di villa o casa di campagna"
+"diagonale principale"
+"discorso principale"
+"dispositivo di comando principale"
+"essere l'attore principale"
+"filone principale"
+"fonte principale"
+"forza principale"
+"forza principale"
+"fuoco principale"
+"galleria principale"
+"idea principale"
+"ideale principale"
+"il concetto principale"
+"il settore di studio principale"
+"indirizzo principale"
+"ingresso principale"
+"interesse principale"
+"interpretare la parte principale"
+"la portata principale"
+"linea principale"
+"linea principale"
+"linea principale (di ferrovia)"
+"magazzino principale"
+"notevole esperto, esperto principale"
+"obiettivo principale"
+"orologio principale"
+"parte principale"
+"partito principale"
+"pasto principale"
+"pezzo principale"
+"piatto principale"
+"piatto principale"
+"ponte principale"
+"porta (principale)"
+"portata principale"
+"premessa principale"
+"primo, principale"
+"principale"
+"principale"
+"principale prerogativa"
+"proposizione principale"
+"punto principale"
+"punto principale"
+"radice principale"
+"ragione principale"
+"regolatore principale"
+"schermata principale"
+"sede principale"
+"sequenza principale"
+"somma principale"
+"stanza principale di villa o casa di campagna"
+"stella della sequenza principale"
+"strada principale"
+"strada principale"
+"strada principale"
+"strada principale, strada maestra, via principale"
+"taglia principale"
+"telaio principale"
+"termine principale"
+"utilizzo principale"
+"via principale"
+"via principale"
+#*''il [[w
+*[[primo]], [[maggiore]], [[massimo]], [[fondamentale]], [[basilare]], [[cardinale]], [[essenziale]], [[capitale]], [[primario]], [[prioritario]], [[dominante]], [[preminente]], [[cospicuo]], [[precipuo]]
+* [[capo]], [[direttore]], [[dirigente]], [[titolare]], [[capufficio]], [[padrone]], [[proprietario]], [[responsabile]], datore di lavoro, [[boss]]
+*''(nella scenografia teatrale)'' [[fondale]]
+*[[secondario]], [[marginale]], [[accessorio]], [[superfluo]]
+*[[dipendente]], [[subordinato]], [[sottoposto]]
+*[[principalmente]]
+M>principalis</E
+M>princeps</E
+M>pis</E
+M>esaminiamo i punti p</E
+M>della questione</E
+M>esporre i fatti p</E
+M> sorvolando su quelli secondarî</E
+M>sostenere la parte p</E
+M>in quella galleria d&#8217;arte il pezzo p</E
+M>è il quadro di Rubens</E
+M>le p</E
+M>famiglie della città</E
+M>al congresso erano presenti i p</E
+M>esponenti del settore</E
+M>i p</E
+M>scrittori italiani</E
+M>è uno dei p</E
+M>imputati in questo processo</E
+M>la porta p</E
+M>del palazzo</E
+M>le strade p</E
+M>della città</E
+M>l&#8217;albergo si trova nella piazza p</E
+M>del paese</E
+M>la chiesa p</E
+M>è la p</E
+M>città dell&#8217;isola</E
+M>il p</E
+M>porto del Mediterraneo</E
+M>stella p</E
+M>piani p</E
+M>sistema ottico centrato</E
+M>primo piano p</E
+M>secondo piano p</E
+M>punti p</E
+M>proposizione p</E
+M>accento p</E
+M>men</E
+M>vàlidaménte</E
+M>zió</E
+M>càpostazióne</E
+M>bene p</E
+M>accessorî</E
+M>punto p</E
+M>distanza p</E
+M>registro p</E
+M>principale</E
+M>devi tener conto del p</E
+M>e scartare tutto ciò che è accessorio</E
+M>qui andavan tutti d&#8217;accordo</E
+M> almeno nel p</E
+M>estimo che di necessità sia convenire esser tra noi alcuno p</E
+M>il quale noi e onoriamo e ubidiamo come maggiore</E
+M> quando volle mischiarsi coi p</E
+M>della sua città</E
+M> trovò un fare ben diverso</E
+M>molte volte</E
+M> o per sua mala fortuna o</E
+M> come altri dicevano</E
+M> per essere di consiglio precipitoso</E
+M> fu superato dagli inimici: anzi</E
+M> forse</E
+M> dove fu p. degli eserciti non ottenne mai vittoria alcuna</E
+M>per il pagamento deve rivolgersi al p</E
+M>il p</E
+M>l&#8217;ha rimproverato per il ritardo</E
+M>Chi sa che in fondo all&#8217;anima po&#8217; poi Non mandi a quel paese il principale!</E
+M>proposizione</E
+M>principale</E
+M>non dovresti contraddirlo</E
+M> principalmente quando vedi che è di cattivo umore</E
+M>è un genere di pésca che si pratica principalmente di notte</E
+M>quasi tutte le antiche tirannidi</E
+M> e principalmente la romana imperiale</E
+M> nacquero e si corroborarono per via della forza militare</E

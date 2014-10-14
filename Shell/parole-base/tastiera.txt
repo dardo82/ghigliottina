@@ -1,0 +1,15 @@
+tastiera.txt
+"coperchio della tastiera (pianoforte)"
+"operatore tastiera"
+"premere la barra spazio sulla tastiera"
+"scrivere a macchina usando solo l'indice e guardando la tastiera"
+"tastiera"
+"tastiera"
+"tastiera a pedali"
+M>tastiere</E
+M>t. standard</E
+M>t. italiana</E
+M>t. ergonomiche</E
+M>la t. di un televisore</E
+M>di una lavatrice</E
+M>del telefono</E

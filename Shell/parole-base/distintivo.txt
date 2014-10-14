@@ -1,0 +1,35 @@
+distintivo.txt
+"caratteristico, distintivo, particolare, peculiare"
+"distintivo"
+"distintivo"
+"distintivo di identificazione"
+"distintivo di polizia"
+"distintivo ufficiale"
+"mattone rosso distintivo dell'Università di Liverpool, da qui tutte le Università britanniche altre"
+"portare il distintivo"
+"segno distintivo"
+"tratto distintivo"
+#* ''il nostro distintivo è l'[[efficienza]]''
+*[[insegna]]
+M>distinguere</E
+M>distinto</E
+M>segno d</E
+M>caratteri distintivi</E
+M>carattere d</E
+M>tratto pertinente</E
+M>basso</E
+M>passo</E
+M>ballo</E
+M>gallo</E
+M>il d</E
+M>del reggimento</E
+M>il d</E
+M>della Juventus</E
+M>il d</E
+M>del partito</E
+M>del codice</E
+M>di squadra</E
+M>nominativo</E
+M>di classe</E
+M>dell’aeromobile</E
+M>marca dell’aeromobile</E

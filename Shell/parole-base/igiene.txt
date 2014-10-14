@@ -1,0 +1,34 @@
+igiene.txt
+"igiene"
+"igiene"
+"igiene mentale"
+"igiene mentale"
+"igiene orale"
+"igiene sul lavoro"
+"tecnico dell'igiene orale"
+*''(medicina)'' [[sanità]], [[salute]] 
+*''(spec. di persona, ambiente)'' [[pulizia]], [[nettezza]]
+*[[igienismo]]
+M>epidemiologia</E
+M>individuale</E
+M>privata</E
+M>pubblica</E
+M>Ufficio d’i</E
+M>materna</E
+M>dell’infanzia</E
+M>mentale</E
+M>centri d’i</E
+M>mentale</E
+M>del lavoro</E
+M>l’i</E
+M>del corpo</E
+M>della bocca</E
+M>delle parti intime</E
+M>intima</E
+M>l’i</E
+M>della casa</E
+M>dei collegi</E
+M>delle caserme</E
+M>rispettare</E
+M>curare l’i</E
+M>trascurare le più elementari regole d’igiene</E

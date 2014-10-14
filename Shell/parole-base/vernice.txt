@@ -1,0 +1,54 @@
+vernice.txt
+"mano di vernice"
+"mano di vernice"
+"mano di vernice"
+"vernice"
+"vernice"
+"vernice"
+"vernice a olio"
+"vernice a spirito a base di gommalacca"
+"vernice a spray"
+"vernice metallizzata"
+"vernice opaca"
+*[[verniciare]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, le Monnier, p. 2266
+M>veron</E
+M>vernica</E
+M>vernicium</E
+M>Berenice</E
+M>v. pigmentate</E
+M>pitture</E
+M>v. propriamente dette</E
+M>v. grasse</E
+M>v. cellulosiche</E
+M>sintetiche</E
+M>bituminose</E
+M>v. all’acqua</E
+M>all’alcol</E
+M>allo spirito</E
+M>alla trementina</E
+M>v. antiruggine</E
+M>antivegetative</E
+M>ignifughe</E
+M>v. grasse</E
+M>v. magre</E
+M>v. miste</E
+M>v. per mobili</E
+M>da ebanisteria</E
+M>v. sottomarine</E
+M>v. per pelli</E
+M>per carte</E
+M>V. molle</E
+M>scarpe</E
+M>stivali</E
+M>borsa di vernice</E
+M>credi di essere più bella con tutta quella v. sul viso?</E
+M>v. del deserto</E
+M>v. caseosa</E
+M>ha qualche v. di educazione ma in fondo è un villano</E
+M>ha modi signorili</E
+M> talvolta</E
+M> ma è solo una vernice</E
+M>una scatola di vernicetta</E
+M>da scarpe</E
+M>nera</E

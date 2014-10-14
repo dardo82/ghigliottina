@@ -1,0 +1,47 @@
+sorpresa.txt
+"a sorpresa"
+"attacco di sorpresa"
+"brutta sorpresa"
+"cogliere di sorpresa"
+"con somma sorpresa"
+"di sorpresa"
+"di sorpresa"
+"elemento di sorpresa"
+"essere colto di sorpresa"
+"festa a sorpresa"
+"interrogazione a sorpresa"
+"non cogliere di sorpresa"
+"pacco sorpresa"
+"pesca a sorpresa"
+"sorpresa"
+"sorpresa"
+"sorpresa"
+"viaggio a sorpresa"
+*''(ad amici)'' [[improvvisata]]
+*[[gesummaria]]
+*italiano
+*spagnolo
+M>sorprendere</E
+M>sorpreso</E
+M>surprise</E
+M>la polizia ha fatto una s. in una casa da gioco clandestina</E
+M>non vi abbiamo avvisato del nostro arrivo perché volevamo farvi una s.</E
+M>che s.!</E
+M>che bella s.!</E
+M>è stata proprio una s.!</E
+M>di sorpresa</E
+M>agire di s.</E
+M>prendere</E
+M>cogliere di s. qualcuno</E
+M>occupare di s. una posizione</E
+M>una bella</E
+M>una brutta s.</E
+M>la sua improvvisa partenza è stata una s. per tutti</E
+M>non vi dico la s. di vedermelo davanti sano e salvo</E
+M>rientrando in casa ho avuto la sgradita</E
+M>la bella</E
+M>la gradita</E
+M>s. di trovare la porta scassinata</E
+M>avere</E
+M>fare un gesto di s.</E
+M>ho letto con viva s. che l&#8217;inaugurazione è stata rinviata</E

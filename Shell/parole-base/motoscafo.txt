@@ -1,0 +1,12 @@
+motoscafo.txt
+"motoscafo"
+M>moto</E
+M>scafo</E
+M>ordinarî</E
+M>da servitù</E
+M>da diporto</E
+M>da crociera</E
+M>d’altura</E
+M>da corsa</E
+M>da guerra</E
+M>armati</E

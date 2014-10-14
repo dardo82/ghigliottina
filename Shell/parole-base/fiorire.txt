@@ -1,0 +1,52 @@
+fiorire.txt
+"esplodere, fiorire"
+"fiorire"
+"fiorire"
+"sbocciare, fiorire"
+*[[sbocciare]], [[crescere]], [[prosperare]]
+*[[rifiorire]], [[fiorente]], [[fiorito]], [[fioritura]]
+*[[fiore]]
+M>florire</E
+M>flor</E
+M>flos floris</E
+M>io fiorisco</E
+M>tu fiorisci</E
+M>essere</E
+M>sono fioriti i primi mandorli</E
+M>le violette fioriscono prestissimo</E
+M>se son rose fioriranno</E
+M>E cantar augelletti</E
+M>e fiorir piagge</E
+M>Giunse ad un rivo che parea cristallo Ne le cui sponde un bel pratel fioria</E
+M>poggi che fioriscono d’ulivi</E
+M>di vigneti</E
+M>un’accademia che fioriva di eletti ingegni</E
+M>quel sale che suol f</E
+M>su’ vasi di cristallo</E
+M>paese in cui fiorisce la cultura</E
+M>l’industria</E
+M>il commercio</E
+M>la libertà</E
+M>La bellezza e l’età ch’in lui fioriva</E
+M>Da che più lieti mi fioriano gli anni</E
+M>essere nel f</E
+M>degli anni</E
+M>della gioventù</E
+M>Ch’amor fiorisca in quella nobil alma</E
+M>fiorivano allora le mie speranze</E
+M>le fiorì spontaneo sul labbro il sorriso</E
+M>gli fiorisce nel volto la salute</E
+M>fiorì per dottrina</E
+M>per santità</E
+M>fiorì a Venezia nel Cinquecento</E
+M>poeta fiorito nella Pistoia del sec. 13°</E
+M>il sole fiorisce i mandorli</E
+M>la primavera fioriva i colli</E
+M>di rose una strada</E
+M>un viale</E
+M>un balcone</E
+M>un altare</E
+M>una parete</E
+M>una stoffa</E
+M>di belle immagini uno scritto</E
+M>una melodia</E

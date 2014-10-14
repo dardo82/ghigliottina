@@ -1,0 +1,83 @@
+veste.txt
+"in veste adamitica"
+"in veste di"
+"vestaglia, veste da camera"
+"veste"
+"veste"
+"veste"
+"veste da camera"
+*[[vestaglia]],  [[abito]],  [[vestito]]
+*[[sottoveste]]
+M>stis</E
+M>abito</E
+M>vestito</E
+M>vesti maschili</E
+M>femminili</E
+M>in ricche v.</E
+M>in v. preziose</E
+M>in misere v.</E
+M>sciogliersi</E
+M>cingersi le v.</E
+M>strapparsi le v. di dosso</E
+M>stracciarsi le v.</E
+M>Matteo</E
+M>Marco</E
+M>avere le v. discinte</E
+M>in disordine</E
+M>vesti di lana</E
+M>di seta</E
+M>di broccato</E
+M>di cotone</E
+M>di pelle</E
+M>vesti di foglie</E
+M>di erbe</E
+M>di paglia</E
+M>di corteccia d’albero</E
+M>indossare</E
+M>levarsi la v.</E
+M>sollevò la v. per camminare più spedita</E
+M>il lembo della v.</E
+M>l’ondeggiare della v.</E
+M>una v. povera</E
+M>dimessa</E
+M>una v. ricamata</E
+M>ornata di gemme</E
+M>veste da camera</E
+M>vestaglia</E
+M>provare in v. da camera</E
+M>gonna</E
+M>sottana</E
+M>portava una camicetta verde con una v. nera</E
+M>v. ecclesiastiche</E
+M>abito talare</E
+M>v. liturgiche</E
+M>la v. di una damigiana</E
+M>dei fiaschi</E
+M>la verde v. dei colli</E
+M>degli alberi</E
+M>non ti fu per lei amara In Utica la morte</E
+M> ove lasciasti La vesta ch’al gran dì sarà sì chiara</E
+M>A pie’ de’ colli ove la bella vesta Prese de le terrene membra pria La donna</E
+M>Né sì leggiadra né sì bella veste Unque ebbe altr’alma in quel terrestre regno</E
+M>non già</E
+M> come credi</E
+M> – Dicea – son cinto di terrena veste: Semplice forma e nudo spirito vedi</E
+M>In vesta di pastor lupi rapaci Si veggion di qua sù per tutti i paschi</E
+M>un imbroglione in veste di persona onesta</E
+M>presentarsi in veste d’amico</E
+M>v. tipografica</E
+M>editoriale</E
+M>veste</E
+M>presentarsi in v. di plenipotenziario</E
+M>recarsi a una cerimonia in v. ufficiale</E
+M>nelle v. di ministro</E
+M>avere</E
+M>non avere veste</E
+M>v. ufficiale</E
+M>per fare qualche cosa</E
+M>per prendere una decisione</E
+M>dare nobile v.</E
+M>dare v. poetica ai proprî pensieri</E
+M>trasferire un brano dialettale in v. italiana</E
+M>una v. dimessa</E
+M>poco adatta alla manifestazione di concetti elevati.</E

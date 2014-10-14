@@ -1,0 +1,34 @@
+microfono.txt
+"microfono"
+"microfono a cancellazione rumore"
+"microfono a condensatore"
+"microfono con filtro antirumore"
+"microfono da bavero"
+"microfono dinamico"
+"microfono omnidirezionale"
+*[[telefono cellulare]], [[canto]]
+*Enciclopedia [http
+M>micro</E
+M>fono</E
+M>a pressione</E
+M>a gradiente di pressione</E
+M>a velocità</E
+M>a variazione di resistenza</E
+M>a carbone</E
+M>elettromagnetici</E
+M>a bobina mobile</E
+M>a nastro</E
+M>elettrostatici</E
+M>piezoelettrici</E
+M>omnidirezionali</E
+M>panoramici</E
+M>bidirezionali</E
+M>unidirezionali</E
+M>a fucile</E
+M>a cannone</E
+M>è al m</E
+M>il professor X</E
+M>il cantante Y</E
+M>cedere</E
+M> dare il m</E
+M>a qualcuno</E

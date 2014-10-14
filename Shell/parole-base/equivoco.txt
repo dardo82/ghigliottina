@@ -1,0 +1,54 @@
+equivoco.txt
+"equivoco"
+"equivoco"
+*(di frase, espressione, ecc.) [[dubbio]], [[incerto]], [[ambiguo]], [[oscuro]], [[ambivalente]], [[enigmatico]]
+*(di comportamento) [[sospetto]], [[doppio]], [[sfuggente]], [[losco]], [[subdolo]]
+*[[sbaglio]], [[errore]], [[svista]], [[ambiguità]]; [[fraintendimento]], [[malinteso]], [[granchio]], qui pro quo
+* (di frase, espressione, eccetera) [[indubbio]], [[inequivocabile]], [[chiaro]]
+*(di comportamento) [[onesto]], [[impeccabile]], [[sincero]]
+*[[chiarezza]], [[precisione]], [[esattezza]]
+M>aequiv</E
+M>cus</E
+M>aequus</E
+M>vocare</E
+M>parole e</E
+M>una scritta e</E
+M>si riconosce da segni non e</E
+M>parlare in modo e</E
+M>dare una risposta equivoca</E
+M>equivoco</E
+M>cane</E
+M>rima e</E
+M>La faccia de la donna che qui regge</E
+M>E se tu mai nel dolce mondo regge</E
+M>Inf</E
+M>Myricae</E
+M>Rivedo i luoghi dove un giorno ho pianto</E
+M>Un sorriso mi sembra ora quel pianto</E
+M>Rivedo i luoghi dove ho già sorriso</E
+M>Oh come lacrimoso quel sorriso!</E
+M>divisa e</E
+M>Henris</E
+M>en ris</E
+M>uomo e</E
+M>donna e</E
+M>ha una faccia e</E
+M>fama e</E
+M>comportamento e</E
+M>ambienti e</E
+M>casa e</E
+M>parole chiare che non ammettono equivoci</E
+M>spiegare l’e</E
+M>ci dev’essere un e</E
+M>a scanso d’equivoci</E
+M>rivelano a noi</E
+M>senza tema di equivoco</E
+M>la presenza di assidue e attive ricamatrici</E
+M>si diletta di e</E
+M>osceni</E
+M>è bene mettere le carte in tavola</E
+M>non mi piace restare nell’e</E
+M>per uscire dall’e</E
+M>ha deciso di confessare apertamente le sue responsabilità</E
+M>parlare</E
+M>vivere equivocamente</E

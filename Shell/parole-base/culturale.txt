@@ -1,0 +1,51 @@
+culturale.txt
+"animazione culturale"
+"antropologia culturale"
+"antropologo culturale"
+"associazione culturale"
+"bagaglio culturale"
+"centro culturale"
+"comunità culturale"
+"contesto socio-culturale"
+"cross-culturale"
+"culturale"
+"culturale"
+"itinerario culturale"
+"manifestazione culturale"
+"offerta culturale"
+"operazione culturale"
+"promozione culturale"
+"scambio culturale"
+"shock culturale"
+"sistema culturale"
+M>la formazione c</E
+M>di un individuo</E
+M>lo sviluppo c</E
+M>di un popolo</E
+M>avere una buona preparazione c</E
+M>attività</E
+M>manifestazioni</E
+M>iniziative c</E
+M>un’associazione c</E
+M>che ha fini essenzialmente c</E
+M>centro</E
+M>ente c</E
+M>popolazioni</E
+M>gruppi etnici che si trovano a un basso livello culturale</E
+M>le tradizioni c</E
+M>di un paese</E
+M>di una regione</E
+M>di una città</E
+M>il patrimonio c</E
+M>i beni c</E
+M>di una nazione</E
+M>beni c</E
+M>biens culturels</E
+M>beni di valore c</E
+M>d’interesse culturale</E
+M>cultura</E
+M>antropologia c</E
+M>rivoluzione c</E
+M>una persona</E
+M>una categoria sociale culturalmente molto evoluta</E
+M>arretrata</E

@@ -1,0 +1,24 @@
+indigestione.txt
+"indigestione"
+"indigestione"
+*[[dispepsia]]
+*[[digestione]], [[indigeribile]], [[indigesto]]
+M>indigestio</E
+M>onis</E
+M>digestio</E
+M>onis</E
+M>prendere un’i</E
+M>fare un’i</E
+M>fare i.</E
+M>di qualche cosa</E
+M>ho fatto un’i</E
+M>di fichi</E
+M>fare un’i</E
+M>di romanzi</E
+M>di novelle</E
+M>di libri gialli</E
+M>fare un’i</E
+M>di conferenze</E
+M>di film</E
+M>in prossimità degli esami ho fatto un’i</E
+M>di matematica</E

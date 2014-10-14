@@ -1,0 +1,56 @@
+creatura.txt
+"creatura"
+"creatura"
+"creatura"
+"creatura marina"
+"povera creatura"
+*[[individuo]], [[essere]], [[uomo]], [[persona]], [[animale]], [[bambino]], [[bimbo]], [[fanciullo]], [[figlio]]
+*[[creatività]], [[creativo]], [[creato]], [[creatore]], [[creaturale]], [[creaturina]], [[creazione]], [[creazionismo]], [[creazionista]], [[crerazionistico]]
+*italiano
+M>creatura</E
+M>creare</E
+M>animate e inanimate</E
+M>il Cantico delle C</E
+M>Iddio ama le sue c</E
+M>sono gli uccelli naturalmente le più liete c</E
+M>del mondo</E
+M>ragionevoli</E
+M>intelligenti</E
+M>umane c</E
+M>extraterrestri</E
+M>angeliche</E
+M>non c’era c</E
+M>vivente</E
+M>siamo tutti creature di Dio</E
+M>Vergine madre</E
+M>figlia del tuo figlio</E
+M>Umile e alta più che creatura</E
+M>che bella c</E
+M>povera c</E
+M>rimasta senza mamma!</E
+M>chi non ama le proprie c</E
+M>ha tre c</E
+M>a cui provvedere</E
+M>una c</E
+M>infelice</E
+M>una debole c</E
+M>quanto patisce quella c</E
+M>che strana c</E
+M>è una santa c</E
+M>quella donna</E
+M>una c</E
+M>bellissima</E
+M>che meravigliosa c</E
+M>che c</E
+M>stupenda!</E
+M>è una c</E
+M>d’eccezione</E
+M>era del paese del papa</E
+M>e sua c</E
+M>una c</E
+M>del ministro</E
+M>povere creaturine!</E
+M>non ha latte per la sua creaturina</E
+M> era una creaturina rosea</E
+M> dall’aspetto morbido</E
+M> con delle braccine giallastre come quelle dei polli spennati</E

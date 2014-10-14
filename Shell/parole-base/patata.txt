@@ -1,0 +1,60 @@
+patata.txt
+"a patata"
+"avere fra le mani una patata bollente"
+"patata"
+"patata"
+"tubero frutto della patata"
+"patata americana, patata dolce"
+"patata bollente"
+"scaricare la patata bollente"
+"spirito di patata"
+#*''una patata è costituita per lo più da carboidrati ma contiene anche alcuni grassi e proteine''  
+*[[patataio]], [[pataticoltore]], [[pataticoltura]], [[pataticultore]], [[pataticultura]], [[patatina]], [[patatone]]
+* '''''patata''' bollente''
+* ''spirito di '''patata'''''
+*italiano
+*spagnolo
+M>patata</E
+M>papa</E
+M>batata</E
+M>Solanum tuberosum</E
+M>patate</E
+M>la buccia</E
+M>scorza</E
+M>la polpa della p</E
+M>farina</E
+M>fecola</E
+M>di patate</E
+M>spirito di patate</E
+M>di patata</E
+M>un sacco di patate</E
+M>sembrare un sacco di p</E
+M>essere un sacco di p</E
+M>essere</E
+M>sembrare una p</E
+M>pulire</E
+M>sbucciare le p</E
+M>cuocere</E
+M>bollire le p</E
+M>schiacciare le p</E
+M>passato</E
+M>passata</E
+M>purè</E
+M>di patate</E
+M>lesse</E
+M>fritte</E
+M>arrosto</E
+M>in umido</E
+M>in insalata</E
+M>naso a patata</E
+M>a patatina</E
+M>bollente</E
+M>passare ad altri la p</E
+M>bollente</E
+M>dolce</E
+M>americana</E
+M>batata</E
+M>del Canada</E
+M>topinambur</E
+M>patatine novelle</E
+M>patatine arrosto</E

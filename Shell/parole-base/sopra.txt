@@ -1,0 +1,316 @@
+sopra.txt
+"accovacciarsi sopra"
+"al di sopra"
+"al di sopra di ogni sospetto"
+"anche, pure, vedi sopra"
+"averne fin sopra i capelli"
+"averne fin sopra i capelli di"
+"collinetta sopra una sepoltura"
+"come sopra"
+"con il braccio sopra la spalla"
+"cumulo di terra sopra una tana di talpa"
+"di sopra"
+"dormirci su, dormirci sopra"
+"dormire sopra"
+"elevarsi al si sopra"
+"essere al di sopra"
+"estendersi sopra"
+"idem come sopra"
+"in un'ottava sopra la chiave di sol"
+"letto di sopra"
+"marciarci sopra"
+"metri sopra il livello del mare"
+"metterci una pietra sopra"
+"molto al di sopra"
+"passare una spugna sopra qualcosa"
+"più di, al di sopra"
+"proiettare al di sopra"
+"rifletterci sopra"
+"situata al di sopra"
+"sopra"
+"sopra"
+"sopra"
+"sopra"
+"sopra"
+"sopra"
+"sopra"
+"sopra alla testa"
+"sopra citato, sopracitato, sopraccitato"
+"sopra di tutto"
+"sopra la pari"
+"sopra la testa"
+"sopra la testa"
+"sopra le righe"
+"sopra menzionato"
+"stare sopra"
+"su, sopra"
+"tetto sopra la testa"
+"una persona sopra le righe"
+"viaggiare su (sopra un posto)"
+"vivere al di sopra delle proprie possibilità"
+M>pra</E
+M>parte</E
+M>sup</E
+M>rus</E
+M>sotto</E
+M>sotto</E
+M>guardare sopra e sotto la tavola</E
+M>l&#8217;ho esaminato sopra e sotto</E
+M>sopr&#8217;il tetto</E
+M>sopr&#8217;ogni cosa</E
+M>la villa sorge s. un colle</E
+M>fabbricare s. la roccia</E
+M>s. la rena</E
+M>la statua poggia s. un piedistallo</E
+M>dammi la bottiglia che è s. la tavola</E
+M>c&#8217;era un vaso di fiori s. la mensola</E
+M>Ell&#8217;era assisa sovra la verdura</E
+M>dormiva s. un misero giaciglio</E
+M>aveva la testa abbandonata s. il guanciale</E
+M>portava un sacco s. le spalle</E
+M>scrivi l&#8217;indirizzo s. la busta</E
+M>gli posò una mano s. il capo</E
+M>montò s. un panchetto</E
+M>il ferito fu adagiato s. la barella</E
+M>fu con un salto s. il carro</E
+M>salì s. un rialzo del terreno</E
+M>passammo s. un ponte</E
+M>or volge l&#8217;anno</E
+M> sovra questo colle Io venia pien d&#8217;angoscia a rimirarti</E
+M>ciò che vive</E
+M>ciò che avviene s. la Terra</E
+M>sulla faccia della Terra</E
+M>essere</E
+M>andare s. coperta</E
+M>s. qui</E
+M>s. lì</E
+M>qui s.</E
+M>lì s.</E
+M>chi ha preso la mia cartella ch&#8217;era qui sopra?</E
+M>fondarsi s. buone ragioni</E
+M>s. buoni indizî</E
+M>s. semplici congetture</E
+M>la sua teoria è fondata s. validi argomenti</E
+M>stese una tovaglia s. il tavolino</E
+M>si buttò il cappotto s. le spalle</E
+M>non aveva che la sola camicia s. la carne</E
+M>Sovra candido vel cinta d&#8217;uliva Donna m&#8217;apparve</E
+M>i piani dell&#8217;autosilo sono disposti uno s. l&#8217;altro</E
+M>ha l&#8217;abitazione proprio s. la bottega</E
+M>la terrazza s. il tetto</E
+M>la famiglia sopra di noi</E
+M>sento qualcuno camminare sopra di me</E
+M>si costruì la casa mattone s. mattone</E
+M>la città fu distrutta così che non rimase pietra s. pietra</E
+M>voleva i danari l&#8217;uno sopra l&#8217;altro</E
+M> per poterli impiegare subito in consumazioni improduttive</E
+M>avanzavano riportando vittoria s. vittoria</E
+M>per quei poveri diavoli non c&#8217;è altro che dolore s. dolore</E
+M>disgrazia s. disgrazia</E
+M>debiti s. debiti</E
+M>gli faceva domande s. domande</E
+M>bugia s. bugia</E
+M>sproposito s. sproposito</E
+M>s. il tavolo centrale pende un bel lampadario</E
+M>il rosone che si vede s. il portale della chiesa</E
+M>costruiscono un nuovo ponte s. il fiume</E
+M>una rupe a picco s. l&#8217;abisso</E
+M>nuvole dense si ammassavano s. la vallata</E
+M>E queta sovra i tetti e in mezzo agli orti Posa la luna</E
+M>l&#8217;aereo volava s. le nuvole</E
+M>le rondini intrecciavano i loro voli s. il giardino</E
+M>il muricciolo si alza fino a sei metri s. il suolo</E
+M>eravamo a sei o settecento metri s. il mare</E
+M>gli stava s. con la spada</E
+M>era tutto ripiegato s. sé stesso</E
+M>una grave minaccia pende s. il suo capo</E
+M>ho passato la mia vita s. i libri</E
+M>la pioggia batteva monotona s. i tetti</E
+M>due bombe caddero s. il ponte della nave</E
+M>il falco piombò s. i pulcini</E
+M>le ombre calavano s. la città</E
+M>la finestra guarda s. il</E
+M>sul</E
+M>lago</E
+M>si gettarono in quattro s. l&#8217;energumeno riuscendo a legarlo</E
+M>i nemici</E
+M> aggirando l&#8217;altura</E
+M> giunsero improvvisi s. il nostro reparto</E
+M>contro</E
+M>sopra il re di Tunisi se ne venne per cacciarlo del regno</E
+M>la benedizione di Dio scenda s. voi e le vostre famiglie</E
+M>la responsabilità ricade s. noi tutti</E
+M>deve sempre scaricare la colpa s. gli altri!</E
+M>D&#8217;Agramante lor re</E
+M> che si diè vanto Di vendicar la morte di Troiano Sopra re Carlo imperator romano</E
+M>bere un po&#8217; di vino s. le castagne</E
+M>un bicchierino di marsala s. il dolce</E
+M>latte s. vino è veleno</E
+M>Marsilia</E
+M> sì come voi sapete</E
+M> è in Provenza sopra la marina posta</E
+M>navigando Di Cuma in vèr l&#8217;euboica riviera Si spinse a tutto corso</E
+M> onde ben tosto Vi furon sopra</E
+M> e v&#8217;approdaro alfine</E
+M>il bosco è proprio s. la ferrovia</E
+M>aveva una bella villa s. il</E
+M>sul</E
+M>mare</E
+M>Prato si trova s. Firenze</E
+M> sulla linea per Bologna</E
+M>le montagne s. la pianura padana</E
+M>ben cento miglia sopra Tunisi a una spiaggia vicina a una città chiamata Susa ne la portò</E
+M>vegliare s. il gregge</E
+M>s. i figli</E
+M>piangere s. qualcuno</E
+M>qualche cosa</E
+M>adunque piangete sopra voi e la vosta città</E
+M>piangere s. una persona scomparsa</E
+M>s. un bene perduto</E
+M>accampare diritti s. qualche cosa</E
+M>fare assegnamento s. una persona</E
+M>s. una cosa</E
+M>avevo fatto molto assegnamento s. il suo aiuto</E
+M>s. le sue promesse</E
+M>s. quei pochi soldi</E
+M>avere delle idee s. qualcuno</E
+M>giocare s. un numero</E
+M>s. una carta</E
+M>prestito s. pegno</E
+M>lo giuro s. il mio capo</E
+M>s. la mia vita</E
+M>s. i miei figli</E
+M>essere</E
+M>stare s. pensiero</E
+M>averne (fin) s. i capelli</E
+M>ha parlato a lungo s. i recenti sviluppi della situazione politica</E
+M>Discorsi sopra la prima deca di Tito Livio</E
+M>desidero conoscere anche il tuo parere s. questa questione</E
+M>tornare s. una decisione</E
+M>il suo dominio si estendeva s. gran parte dell&#8217;isola</E
+M>la sua autorità si esercita s. tutto il personale</E
+M>aveva il controllo diretto s. l&#8217;attività amministrativa dell&#8217;azienda</E
+M>Parrà forse ad alcun che &#8217;n lodar quella ...</E
+M> errante sia &#8217;l mio stile</E
+M> Faccendo lei sovr&#8217;ogni altra gentile</E
+M>mi preme s. ogni altra cosa</E
+M>lo merita s. tutti gli altri</E
+M>s. ogni interesse privato deve importare il bene della collettività</E
+M>quel segnor de l&#8217;altissimo canto Che sovra li altri com&#8217;aquila vola</E
+M>con le spese si andrà s. i cinquemila euro</E
+M>corse ippiche per soggetti s. i due anni</E
+M>ormai</E
+M> dovrebbe essere s. la sessantina</E
+M>sopra la pari</E
+M>voleva essere e fante e famiglio e ogni cosa</E
+M> e senza alcun salario sopra le spese</E
+M>s. nolo</E
+M>extra-nolo</E
+M>s. premio</E
+M>i dotti uomini sopra noi stati</E
+M>la notte s. il giovedì</E
+M>essere s. una cosa</E
+M>s. a fare una cosa</E
+M>essere s. parto</E
+M>s. a partorire</E
+M>morire s. parto</E
+M>quelli della congiura fatta contro a Giano</E
+M> essendo sopra rinnovare le leggi nella chiesa d&#8217;Ognissanti ...</E
+M>essere s. qualche ufficio</E
+M>fu da molte immondizie purgata la città da oficiali sopra ciò ordinati</E
+M>andare s. sé</E
+M>stare s. sé</E
+M>la donna</E
+M> udendo questo</E
+M> alquanto sopra sé stette</E
+M>essere</E
+M>lavorare s. sé</E
+M>gli convenìa esercitare l&#8217;arte altramente quando era sopra sé che quando era sotto altrui come discepolo</E
+M>Sopra di</E
+M>s. di me</E
+M>s. di te</E
+M>s. di noi</E
+M>la famiglia che abita s. di noi</E
+M>la colpa ricade tutta s. di me</E
+M>la vendetta di Dio scese s. di loro</E
+M>prendere una cosa s. di sé</E
+M>Sopra a</E
+M>sopra</E
+M>s. al letto</E
+M>s. al tavolino</E
+M>s. a ogni altra considerazione</E
+M>essere s. a fare una cosa</E
+M>passare s. a una cosa</E
+M>passare s. a una mancanza</E
+M> a una colpa</E
+M> alle norme del regolamento</E
+M>tornare s. a quanto già detto</E
+M> a una decisione</E
+M>s. a me</E
+M>s. a voi</E
+M>mi si gettò s.</E
+M>quasi ci cadeva s.</E
+M>non dimenticare di scriverci s. l&#8217;indirizzo</E
+M>ci metti s. anche un po&#8217; di burro?</E
+M>trovò una pietra e vi si sedette s.</E
+M>bada a non montarci s.</E
+M>800 euro sono pochi</E
+M> ce ne metta s.</E
+M>altri 200 e l&#8217;affare è fatto</E
+M>se vuoi rifletterci s.</E
+M> sei ancora in tempo</E
+M>ho già deciso e non voglio più tornarci s.</E
+M>mettiamoci una pietra s. e non ne parliamo più</E
+M>mettere una pietra s. il</E
+M>sul</E
+M>passato</E
+M>berci s.</E
+M>dormirci s.</E
+M>bere s. a</E
+M>dormire s. a</E
+M>beviamoci s. e non pensiamoci più</E
+M>la situazione è grave ma per ora sarà meglio dormirci sopra.</E
+M>la mamma dev&#8217;essere s.</E
+M>vado s. a vedere</E
+M>posa il giornale lì s.</E
+M>un comodino con s. una lampada</E
+M>è di ferro</E
+M> ma s. è smaltato</E
+M>una torta con s. la panna</E
+M>in Mugnone si truova una pietra</E
+M> la qual chi la porta sopra non è veduto da niuna altra persona</E
+M>come abbiamo detto</E
+M>scritto</E
+M> s.</E
+M>con riguardo a quanto s.</E
+M>vedi s.</E
+M>come sopra</E
+M>vado un momento di s.</E
+M>c&#8217;è qualcuno di s.?</E
+M>In anima in Cocito già si bagna</E
+M> E in corpo par vivo ancor di sopra</E
+M>i due nominati di s.</E
+M>passiamo per di sopra</E
+M>il piano di s.</E
+M>il palchetto di s. di uno scaffale</E
+M>A tutti altri sapori esto è di sopra</E
+M>suvvi</E
+M>sópravi</E
+M>un tavolo con sopravi un grande vaso di fiori</E
+M>sopra sopra</E
+M>pareggiare il pelo sopra sopra</E
+M>ho messo la camicia nell&#8217;armadio sopra sopra</E
+M> per non sgualcirla</E
+M>il s.</E
+M>il di s.</E
+M>si è mangiato tutto il di s. del dolce</E
+M>sul di s. è bianco</E
+M>al di s.</E
+M>sopra</E
+M>di sopra</E
+M>guardare al di s.</E
+M>stare al di s.</E
+M>al di s. di noi</E
+M>al di s. del fiume</E
+M>si crede al di s. di tutti</E
+M>è persona al di s. di ogni sospetto</E

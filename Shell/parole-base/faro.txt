@@ -1,0 +1,29 @@
+faro.txt
+"faro"
+"faro"
+"guardiano del faro"
+"torre del faro"
+*[[riflettore]] 
+*''(di automobile ecc.)'' [[fanale]], [[proiettore]]
+*''(uso corrente)''  [[luce]] 
+M>pharus</E
+M>caratteristica di un f</E
+M>battello</E
+M>faro</E
+M>nave</E
+M>faro</E
+M>faro</E
+M>le due Sicilie</E
+M>di qua e di là dal F</E
+M>di aerodromo</E
+M>di atterramento</E
+M>d’identificazione</E
+M>f. di pericolo</E
+M>accendere</E
+M>spegnere i f</E
+M>abbaglianti</E
+M>anabbaglianti</E
+M>essere accecato dai f</E
+M>di un veicolo viaggiante in senso contrario</E
+M>la Grecia fu f</E
+M>di civiltà alle genti</E

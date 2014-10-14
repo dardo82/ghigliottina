@@ -1,0 +1,56 @@
+vettura.txt
+"lettera di vettura"
+"vettura"
+"vettura"
+"vettura da città"
+"vettura familiare"
+"vettura per trasporto di cani"
+"vettura ristorante, carrozza ristorante"
+*(1) [[automobile]], [[autovettura]], [[auto#Italian|auto]], [[macchina]]
+*(2,3) [[carrozza]]
+*[[vetturino]]
+M>vect</E
+M>veh</E
+M>vectus</E
+M>voiture</E
+M>fare una v.</E
+M>andare a v.</E
+M>bestie</E
+M>cavalli da v.</E
+M>stabilire il prezzo della v.</E
+M>prendere</E
+M>dare a v.</E
+M>tolti una sera al tardi due ronzini a vettura e postevi sù due valigie</E
+M> ... di Firenze uscirono</E
+M>pagare</E
+M>anticipare la v.</E
+M>Non che il destrier</E
+M> ma la v. darli Converrammi</E
+M>lettera di v.</E
+M>le v. di posta</E
+M>le v. della diligenza</E
+M>provvedere</E
+M>provvedersi di buone vetture</E
+M>v. di piazza</E
+M>v. pubblica</E
+M>v. ferroviaria</E
+M>v. tranviaria</E
+M>v. filoviaria</E
+M>vetture letto</E
+M>vettura ristorante</E
+M>aggiungere</E
+M>attaccare una v.</E
+M>le v. di 1</E
+M>di 2</E
+M>classe</E
+M>v. di testa</E
+M> di coda</E
+M> signori</E
+M> in vettura!</E
+M>una v. di serie</E
+M>fuoriserie</E
+M>sportiva</E
+M>una v. di lusso</E
+M>comprare una v. usata</E
+M>numero di vetture-km</E
+M>vetture-km</E

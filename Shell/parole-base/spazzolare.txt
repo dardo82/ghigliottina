@@ -1,0 +1,17 @@
+spazzolare.txt
+"spazzolare"
+"spazzolare"
+"spazzolare all'indietro"
+"spazzolare via"
+M>io spàzzolo</E
+M>s. un abito</E
+M>un cappotto</E
+M>s. il divano</E
+M>le poltrone</E
+M>s. le scarpe</E
+M>s. il pelo a un animale</E
+M>spazzolarsi i capelli</E
+M>mi spazzolerò per eliminare questa brutta piega</E
+M>i ragazzi hanno spazzolato</E
+M> si sono spazzolati</E
+M>tutti i dolci avanzati dalla cena</E

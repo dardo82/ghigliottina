@@ -1,0 +1,10 @@
+ascesso.txt
+"ascesso"
+*[[ascessuale]]
+M>abscessus</E
+M>abscend</E
+M>acuto</E
+M>caldo</E
+M>cronico</E
+M>freddo</E
+M>gassoso</E

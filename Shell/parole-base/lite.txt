@@ -1,0 +1,41 @@
+lite.txt
+"in contestazione, in lite"
+"lite"
+"lite violenta"
+"promuovere una lite"
+*[[-lite]]
+*italiano
+*inglese
+M>lis litis</E
+M>litigio</E
+M>attaccare lite</E
+M>è un tipo che attacca l</E
+M>con tutti</E
+M>non</E
+M>il caso di fare una l</E
+M>per così poco</E
+M>la l</E
+M>è nata</E
+M>sorta</E
+M>scoppiata</E
+M>per un malinteso</E
+M>spesso le l</E
+M>finiscono a botte</E
+M>E sta sospeso in aspettando quale Avrà la fera l</E
+M>avvenimento</E
+M>causa</E
+M>muovere</E
+M>intentare l</E
+M>a qualcuno</E
+M>essere in l</E
+M>con uno per motivi d’interesse</E
+M>implicarsi</E
+M>immergersi</E
+M>affogare nelle l</E
+M>vincere</E
+M>perdere la l</E
+M>giudicare</E
+M>decidere una l</E
+M>comporre</E
+M>conciliare una lite</E
+M>temeraria</E

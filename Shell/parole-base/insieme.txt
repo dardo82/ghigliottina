@@ -1,0 +1,649 @@
+insieme.txt
+"andare a letto insieme"
+"andare insieme"
+"della totalità, di tutto l'insieme"
+"della totalità, di tutto l'insieme"
+"di un viaggio insieme a qualcuno"
+"ensemble, esecuzione d'insieme"
+"essere in confidenza con qcn., bere insieme"
+"far tornare insieme, riconciliare"
+"formare un insieme"
+"gestire come insieme"
+"grazie per i bei momenti passati insieme"
+"il viaggiare insieme a qualcuno per lo stesso tragitto"
+"in blocco, tutti insieme"
+"indice di insieme"
+"insieme"
+"insieme"
+"insieme"
+"insieme"
+"insieme, replace: insieme a"
+"insieme"
+"insieme"
+"insieme"
+"insieme a"
+"insieme a"
+"insieme binario"
+"insieme con"
+"insieme d'amore"
+"insieme delle leggi"
+"insieme di"
+"insieme di appartenenza"
+"insieme di colori"
+"insieme di condizioni"
+"insieme di conoscenze"
+"insieme di contrasti"
+"insieme di farmaci"
+"insieme di fatti"
+"insieme di fattori"
+"insieme di suoni"
+"insieme disparato di cose"
+"insieme disparato di cose"
+"insieme istruzioni macchina"
+"insieme matematico"
+"insieme parzialmente ordinato"
+"l'insieme"
+"lavorare insieme"
+"legare insieme"
+"legare insieme"
+"legare insieme"
+"lo stare insieme; il rimanere uniti"
+"messo insieme disordinatamente"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme disordinatamente"
+"mettere insieme gli sforzi"
+"mettere insieme i soldi per"
+"mettersi insieme"
+"miscuglio, insieme, intrico"
+"nel suo insieme"
+"passare una serata insieme"
+"raccogliere; riunire; mettere insieme"
+"raffazzonare, mettere insieme alla meglio"
+"raffazzonare, mettere insieme alla meglio"
+"rimettere insieme"
+"sempre insieme a qualcuno"
+"stare bene insieme"
+"stare male insieme"
+"ti amerò per sempre e voglio restare insieme a te per tutta la vita"
+"tintinnare insieme"
+"tutti insieme"
+"tutto l'insieme"
+"tutto l'insieme"
+"tutto l'insieme, tutto il complesso"
+"tutto messo insieme"
+"un insieme di"
+"un insieme di leggi"
+"visione d'insieme"
+"vivere insieme"
+*[[unitamente]], [[congiuntamente]], d’accordo, all’unanimità, [[complessivamente]]
+* nello stesso tempo, nello stesso momento, [[contemporaneamente]], [[simultaneamente]]
+*[[con]], in compagnia di
+*[[complesso]], il tutto, [[totalità]], [[globalità]], [[generalità]]
+*[[mucchio]], [[gruppo]], [[folla]], [[moltitudine]], [[fascio]], [[agglomerato]], [[somma]], [[categoria]], [[collezione]]
+*( nel senso di ''con'') [[assieme]], in [[compagnia]], [[concordemente]], [[fianco ]] a fianco,
+*( riferito al tempo)[[contemporaneamente]],[[simultaneamente]],[[assieme]], nello stesso [[tempo]] 
+*( inteso come vicinanza) [[vicino]] , a fianco dï
+* ''(di elementi)'' [[serie]], [[aggregato]],[[gruppo]],[[assieme]]  
+* (disordinato)[[cumulo]],[[ammasso]],[[congerie]]  
+*[[separatamente]], [[senza]], da solo, [[distintamente]],  [[disgiuntamente]] 
+*[[parte]], [[porzione]], [[frazione]]
+*''mettere insieme''
+M>mul</E
+M>*ins</E
+M>mel</E
+M>semel</E
+M>simul</E
+M>siamo usciti i</E
+M>io e lui</E
+M>abbiamo cenato i</E
+M>sono stati visti spesso i</E
+M>essere sempre i</E
+M>stare</E
+M>abitare</E
+M>vivere i</E
+M>dormire i</E
+M>compiere i</E
+M>un lavoro</E
+M>fondare i</E
+M>una società</E
+M>mettersi i</E
+M>il divano e le poltrone si vendono i</E
+M>oggetti</E
+M>idee</E
+M>colori che stanno bene i</E
+M>che non possono stare i</E
+M>tutti</E
+M>tutti quanti</E
+M>tutto</E
+M>tutto quanto</E
+M>riunirsi</E
+M>radunarsi tutti i</E
+M>faremo una gita tutti i</E
+M>vendere</E
+M>comprare tutto i</E
+M>con</E
+M>rimasi mezz’ora i</E
+M>con lui</E
+M>era i</E
+M>a un amico</E
+M>in su una sua nave con lui insieme n’andò in Cipri</E
+M>con</E
+M>si rauna A cantar le sue laude insieme quelle</E
+M>tenere i</E
+M>le pecore</E
+M>un gruppo di ragazzi</E
+M>lanciarsi i</E
+M>all’attacco</E
+M>bisogna agire tutti i</E
+M>i pezzi non stanno</E
+M>non si tengono più i</E
+M>un discorso</E
+M>un ragionamento che non sta i</E
+M>mettere i</E
+M>mettere i</E
+M>i proprî sforzi</E
+M>mettere i</E
+M>un reparto di volontarî</E
+M>un esercito</E
+M>diecimila fanti</E
+M>mettere i</E
+M>un bel gruzzolo</E
+M>una discreta sommetta</E
+M>una immensa fortuna</E
+M>mettere i</E
+M>i varî pezzi di un meccanismo</E
+M>di un congegno</E
+M>non essere capace di mettere i</E
+M>due idee</E
+M>un periodo</E
+M>poche frasi</E
+M>una lettera</E
+M>mettere i</E
+M>uno spettacolo</E
+M>una mostra</E
+M>mettere i</E
+M>una bella famiglia</E
+M>andare i</E
+M>Parlare e lagrimar vedrai insieme</E
+M>gridavano</E
+M>protestavano tutti i</E
+M>se parlate tutti i</E
+M>come faccio a capirvi?</E
+M>cominciare</E
+M>terminare</E
+M>partire</E
+M>arrivare i</E
+M>i due corridori hanno tagliato i</E
+M>il traguardo</E
+M>non si possono fare troppe cose i</E
+M>voleva e i</E
+M>non voleva</E
+M>sperava e temeva i</E
+M>Dicea</E
+M>ridendo et sospirando inseme</E
+M>era contento e i</E
+M>preoccupato</E
+M>un film piacevole e i</E
+M>istruttivo</E
+M>Insieme!</E
+M>insieme a</E
+M>insieme con</E
+M>per quanto mi fossi messo in cammino più tardi</E
+M>arrivai alla stazione proprio i</E
+M>a lui</E
+M>il campanello della porta squillò i</E
+M>a quello del telefono</E
+M>accordarsi i</E
+M>obbligarsi i</E
+M>a rispettare un patto</E
+M>si promisero i</E
+M>di mantenere il segreto</E
+M>erano legati i. da profondo affetto</E
+M>molte parole villane insieme si diceano</E
+M>teme Popoli avversi affratellati insieme</E
+M>un i</E
+M>di oggetti</E
+M>di arnesi</E
+M>l’i</E
+M>degli studenti</E
+M>degli operai</E
+M>dei collaboratori</E
+M>l’i</E
+M>dell’edificio</E
+M>dall’i</E
+M>degli indizî emerge la prova della sua colpevolezza</E
+M>giudicare dall’i</E
+M>dei fatti</E
+M>i fatti nel loro i</E
+M>alcune parti del dramma sono deboli</E
+M>ma nell’i</E
+M>si può dire riuscito</E
+M>un’opera lirica felice</E
+M>infelice</E
+M>nell’i</E
+M>prove</E
+M>esercizî d’i</E
+M>avere</E
+M>dare una visione d’insieme</E
+M>assieme</E
+M>formare un bell’i</E
+M>mancare d’i</E
+M>tutto</E
+M>da tutto l’i</E
+M>spirava un senso di buon gusto e di raffinatezza</E
+M>è tutto l’i</E
+M>che non va</E
+M>insiemi</E
+M>aggregato</E
+M>classe</E
+M>totalità</E
+M>collezione</E
+M>elemento</E
+M>individuo</E
+M>oggetto</E
+M>termine</E
+M>teoria degli i</E
+M>teoria ingenua degli i</E
+M>finito</E
+M>infinito</E
+M>vuoto</E
+M>nullo</E
+M>Operazioni sugli i</E
+M>intersezione</E
+M>prodotto logico</E
+M>di due i</E
+M>unione</E
+M>somma logica</E
+M>di due i</E
+M>complementare</E
+M>prodotto cartesiano tra due i</E
+M>delle parti</E
+M>potenza</E
+M>di un i</E
+M>un i</E
+M>grigio</E
+M>un bell’i</E
+M>da pomeriggio</E
+"andare a letto insieme"
+"andare insieme"
+"della totalità, di tutto l'insieme"
+"della totalità, di tutto l'insieme"
+"di un viaggio insieme a qualcuno"
+"ensemble, esecuzione d'insieme"
+"essere in confidenza con qcn., bere insieme"
+"far tornare insieme, riconciliare"
+"formare un insieme"
+"gestire come insieme"
+"grazie per i bei momenti passati insieme"
+"il viaggiare insieme a qualcuno per lo stesso tragitto"
+"in blocco, tutti insieme"
+"indice di insieme"
+"insieme"
+"insieme"
+"insieme"
+"insieme"
+"insieme, replace: insieme a"
+"insieme"
+"insieme"
+"insieme"
+"insieme a"
+"insieme a"
+"insieme binario"
+"insieme con"
+"insieme d'amore"
+"insieme delle leggi"
+"insieme di"
+"insieme di appartenenza"
+"insieme di colori"
+"insieme di condizioni"
+"insieme di conoscenze"
+"insieme di contrasti"
+"insieme di farmaci"
+"insieme di fatti"
+"insieme di fattori"
+"insieme di suoni"
+"insieme disparato di cose"
+"insieme disparato di cose"
+"insieme istruzioni macchina"
+"insieme matematico"
+"insieme parzialmente ordinato"
+"l'insieme"
+"lavorare insieme"
+"legare insieme"
+"legare insieme"
+"legare insieme"
+"lo stare insieme; il rimanere uniti"
+"messo insieme disordinatamente"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme"
+"mettere insieme disordinatamente"
+"mettere insieme gli sforzi"
+"mettere insieme i soldi per"
+"mettersi insieme"
+"miscuglio, insieme, intrico"
+"nel suo insieme"
+"passare una serata insieme"
+"raccogliere; riunire; mettere insieme"
+"raffazzonare, mettere insieme alla meglio"
+"raffazzonare, mettere insieme alla meglio"
+"rimettere insieme"
+"sempre insieme a qualcuno"
+"stare bene insieme"
+"stare male insieme"
+"ti amerò per sempre e voglio restare insieme a te per tutta la vita"
+"tintinnare insieme"
+"tutti insieme"
+"tutto l'insieme"
+"tutto l'insieme"
+"tutto l'insieme, tutto il complesso"
+"tutto messo insieme"
+"un insieme di"
+"un insieme di leggi"
+"visione d'insieme"
+"vivere insieme"
+*[[unitamente]], [[congiuntamente]], d’accordo, all’unanimità, [[complessivamente]]
+* nello stesso tempo, nello stesso momento, [[contemporaneamente]], [[simultaneamente]]
+*[[con]], in compagnia di
+*[[complesso]], il tutto, [[totalità]], [[globalità]], [[generalità]]
+*[[mucchio]], [[gruppo]], [[folla]], [[moltitudine]], [[fascio]], [[agglomerato]], [[somma]], [[categoria]], [[collezione]]
+*( nel senso di ''con'') [[assieme]], in [[compagnia]], [[concordemente]], [[fianco ]] a fianco,
+*( riferito al tempo)[[contemporaneamente]],[[simultaneamente]],[[assieme]], nello stesso [[tempo]] 
+*( inteso come vicinanza) [[vicino]] , a fianco dï
+* ''(di elementi)'' [[serie]], [[aggregato]],[[gruppo]],[[assieme]]  
+* (disordinato)[[cumulo]],[[ammasso]],[[congerie]]  
+*[[separatamente]], [[senza]], da solo, [[distintamente]],  [[disgiuntamente]] 
+*[[parte]], [[porzione]], [[frazione]]
+*''mettere insieme''
+M>mul</E
+M>*ins</E
+M>mel</E
+M>semel</E
+M>simul</E
+M>siamo usciti i</E
+M>io e lui</E
+M>abbiamo cenato i</E
+M>sono stati visti spesso i</E
+M>essere sempre i</E
+M>stare</E
+M>abitare</E
+M>vivere i</E
+M>dormire i</E
+M>compiere i</E
+M>un lavoro</E
+M>fondare i</E
+M>una società</E
+M>mettersi i</E
+M>il divano e le poltrone si vendono i</E
+M>oggetti</E
+M>idee</E
+M>colori che stanno bene i</E
+M>che non possono stare i</E
+M>tutti</E
+M>tutti quanti</E
+M>tutto</E
+M>tutto quanto</E
+M>riunirsi</E
+M>radunarsi tutti i</E
+M>faremo una gita tutti i</E
+M>vendere</E
+M>comprare tutto i</E
+M>con</E
+M>rimasi mezz’ora i</E
+M>con lui</E
+M>era i</E
+M>a un amico</E
+M>in su una sua nave con lui insieme n’andò in Cipri</E
+M>con</E
+M>si rauna A cantar le sue laude insieme quelle</E
+M>tenere i</E
+M>le pecore</E
+M>un gruppo di ragazzi</E
+M>lanciarsi i</E
+M>all’attacco</E
+M>bisogna agire tutti i</E
+M>i pezzi non stanno</E
+M>non si tengono più i</E
+M>un discorso</E
+M>un ragionamento che non sta i</E
+M>mettere i</E
+M>mettere i</E
+M>i proprî sforzi</E
+M>mettere i</E
+M>un reparto di volontarî</E
+M>un esercito</E
+M>diecimila fanti</E
+M>mettere i</E
+M>un bel gruzzolo</E
+M>una discreta sommetta</E
+M>una immensa fortuna</E
+M>mettere i</E
+M>i varî pezzi di un meccanismo</E
+M>di un congegno</E
+M>non essere capace di mettere i</E
+M>due idee</E
+M>un periodo</E
+M>poche frasi</E
+M>una lettera</E
+M>mettere i</E
+M>uno spettacolo</E
+M>una mostra</E
+M>mettere i</E
+M>una bella famiglia</E
+M>andare i</E
+M>Parlare e lagrimar vedrai insieme</E
+M>gridavano</E
+M>protestavano tutti i</E
+M>se parlate tutti i</E
+M>come faccio a capirvi?</E
+M>cominciare</E
+M>terminare</E
+M>partire</E
+M>arrivare i</E
+M>i due corridori hanno tagliato i</E
+M>il traguardo</E
+M>non si possono fare troppe cose i</E
+M>voleva e i</E
+M>non voleva</E
+M>sperava e temeva i</E
+M>Dicea</E
+M>ridendo et sospirando inseme</E
+M>era contento e i</E
+M>preoccupato</E
+M>un film piacevole e i</E
+M>istruttivo</E
+M>Insieme!</E
+M>insieme a</E
+M>insieme con</E
+M>per quanto mi fossi messo in cammino più tardi</E
+M>arrivai alla stazione proprio i</E
+M>a lui</E
+M>il campanello della porta squillò i</E
+M>a quello del telefono</E
+M>accordarsi i</E
+M>obbligarsi i</E
+M>a rispettare un patto</E
+M>si promisero i</E
+M>di mantenere il segreto</E
+M>erano legati i. da profondo affetto</E
+M>molte parole villane insieme si diceano</E
+M>teme Popoli avversi affratellati insieme</E
+M>un i</E
+M>di oggetti</E
+M>di arnesi</E
+M>l’i</E
+M>degli studenti</E
+M>degli operai</E
+M>dei collaboratori</E
+M>l’i</E
+M>dell’edificio</E
+M>dall’i</E
+M>degli indizî emerge la prova della sua colpevolezza</E
+M>giudicare dall’i</E
+M>dei fatti</E
+M>i fatti nel loro i</E
+M>alcune parti del dramma sono deboli</E
+M>ma nell’i</E
+M>si può dire riuscito</E
+M>un’opera lirica felice</E
+M>infelice</E
+M>nell’i</E
+M>prove</E
+M>esercizî d’i</E
+M>avere</E
+M>dare una visione d’insieme</E
+M>assieme</E
+M>formare un bell’i</E
+M>mancare d’i</E
+M>tutto</E
+M>da tutto l’i</E
+M>spirava un senso di buon gusto e di raffinatezza</E
+M>è tutto l’i</E
+M>che non va</E
+M>insiemi</E
+M>aggregato</E
+M>classe</E
+M>totalità</E
+M>collezione</E
+M>elemento</E
+M>individuo</E
+M>oggetto</E
+M>termine</E
+M>teoria degli i</E
+M>teoria ingenua degli i</E
+M>finito</E
+M>infinito</E
+M>vuoto</E
+M>nullo</E
+M>Operazioni sugli i</E
+M>intersezione</E
+M>prodotto logico</E
+M>di due i</E
+M>unione</E
+M>somma logica</E
+M>di due i</E
+M>complementare</E
+M>prodotto cartesiano tra due i</E
+M>delle parti</E
+M>potenza</E
+M>di un i</E
+M>un i</E
+M>grigio</E
+M>un bell’i</E
+M>da pomeriggio</E
+"name": "Insieme numerabile"
+"name": "Insieme di Cantor"
+"name": "Insieme convesso"
+"name": "Insieme diretto"
+"name": "Insieme vuoto"
+"name": "Insieme finito"
+"name": "Insieme di Mandelbrot"
+"name": "Insieme nullo"
+"name": "Insieme delle parti"
+"name": "Insieme"
+"name": "Tutti insieme appassionatamente"
+"name": "Insieme non numerabile"
+"name": "Insieme aperto"
+"name": "Insieme chiuso"
+"name": "Insieme mai denso"
+"name": "Assioma dell'insieme vuoto"
+"name": "Assioma dell'insieme potenza"
+"name": "Insieme complemento"
+"name": "Insieme di Julia"
+"name": "Insieme denso"
+"name": "Insieme di generatori"
+"name": "Insieme trascurabile"
+"name": "Insieme chiuso-aperto"
+"name": "Insieme ricorsivamente enumerabile"
+"name": "Insieme ricorsivo"
+"name": "Insieme di Vitali"
+"name": "Insieme di livello"
+"name": "Insieme non misurabile"
+"name": "Pericolosamente insieme"
+"name": "Tutti insieme appassionatamente"
+"name": "Insieme a te sto bene"
+"name": "...e poi mi parli di una vita insieme"
+"name": "Un giorno insieme"
+"name": "Litfiba tornate insieme"
+"name": "Un giorno insieme"
+"name": "Insieme io e lei"
+"name": "Un autunno insieme e poi"
+"name": "Musica insieme"
+"name": "Ancora insieme (live)"
+"name": "Insieme"
+"name": "Un giorno insieme"
+"name": "Un autunno insieme e poi..."
+"name": "Un giorno insieme"
+"name": "Insieme"
+"name": "Insieme"
+"name": "Mi piacerebbe diventar vecchio insieme a te"
+"name": "Insieme"
+"name": "Un giorno insieme"
+"name": "Insieme a te non ci sto pi\u00f9"
+"name": "Insieme a te non ci sto pi\u00f9"
+"name": "Insieme mai"
+"name": "Tutti insieme lo denunciam"
+"name": "Ancora insieme a te"
+"name": "Un giorno insieme"
+"name": "La nostra estate insieme"
+"name": "Insieme a te sto bene"
+"name": "Insieme senza parole"
+"name": "Insieme senza parole"
+"name": "Insieme a te"
+"name": "Per vivere insieme"
+"name": "Il mondo insieme a te"
+"name": "Insieme io e lei"
+"name": "...e poi mi parli di una vita insieme"
+"name": "Un giorno insieme"
+"name": "Insieme lo denunciam"
+"name": "Noi guardiamo insieme al futuro"
+"name": "Insieme a te non ci sto pi\u00f9"
+"name": "Cantiamo insieme"
+"name": "Cantiamo insieme"
+"name": "Una serata insieme a te"
+"name": "Un giorno in pi\u00f9 (insieme a te)"
+"name": "Quei Giorni Insieme a Te"
+"name": "Insieme a te"
+"name": "Insieme a lei"
+"name": "Insieme a te sto bene"
+"name": "Pi\u00f9 insieme"
+"name": "Tutti insieme (everybody)"
+"name": "Insieme a te sto bene"
+"name": "Insieme 1992"
+"name": "Litfiba tornate insieme (live in Roma 17/09/2005)"
+"name": "Eppure stiamo insieme (versione originale)"
+"name": "Viaggia insieme a me (Roberto Molinaro remix)"
+"name": "Noi due insieme"
+"name": "Noi due insieme"
+"name": "Se stiamo insieme"
+"name": "Insieme"
+"name": "Se stiamo insieme"
+"name": "Insieme"
+"name": "Insieme al concerto"
+"name": "Insieme"
+"name": "Una notte insieme a te"
+"name": "Ancora insieme"
+"name": "Un giorno insieme"
+"name": "Il mondo insieme a te"
+"name": "Insieme"
+"name": "Insieme limitato"
+"name": "Insieme sfocato"
+"name": "Insieme infinito"
+"name": "Insieme gran canonico"
+"name": "Insieme canonico"

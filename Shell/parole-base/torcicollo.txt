@@ -1,0 +1,13 @@
+torcicollo.txt
+"avere il torcicollo"
+"torcicollo"
+"torcicollo"
+M>torcere</E
+M>collo</E
+M>t. congenito</E
+M>t. acquisito</E
+M>t. riflesso</E
+M>t. spastico</E
+M>t. mentale</E
+M>psicogeno</E
+M>Jynx torquilla</E

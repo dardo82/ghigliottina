@@ -1,0 +1,56 @@
+conversazione.txt
+"argomento di conversazione"
+"brano di conversazione"
+"conversazione"
+"conversazione"
+"Dar vita ad una conversazione"
+"fare conversazione"
+"fare una conversazione"
+"intervenire (in una conversazione)"
+"intrattenere una conversazione"
+"perdere il filo di una conversazione"
+"portare avanti una conversazione"
+*[[conversativo]]
+M>conversatio</E
+M>onis</E
+M>conversari</E
+M>di artisti</E
+M>di intellettuali</E
+M>mondane</E
+M>frequentare le c</E
+M>essere ricercato nelle c</E
+M>tenere conversazione</E
+M>saper stare in conversazione</E
+M>fare un po’ di c</E
+M>partecipare alla c</E
+M>una c</E
+M>piacevole</E
+M>animata</E
+M>briosa</E
+M>frivola</E
+M>noiosa</E
+M>la c</E
+M>languiva</E
+M>ho avuto una lunga c</E
+M>con il segretario dell’ente</E
+M>telefonica</E
+M>conversazioni</E
+M>pourparlers</E
+M>persona di c</E
+M>arguta</E
+M>spigliata</E
+M>lingua di c</E
+M>lingua</E
+M>linguaggio colloquiale</E
+M>manuale di c</E
+M>quadri di c</E
+M>conversation pieces</E
+M>sacra c</E
+M>tenere una c</E
+M>alla radio</E
+M>al circolo di cultura</E
+M>Conversazioni critiche</E
+M>di Benedetto Croce</E
+M>la c</E
+M>umana</E
+M>due buoni e giusti uomini e di santa vita e c</E

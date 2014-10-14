@@ -1,0 +1,58 @@
+istruire.txt
+"istruire"
+"istruire"
+"istruire"
+"istruire"
+"istruire"
+"istruire, replace: istruirsi"
+"istruire un processo"
+"istruire una pratica"
+#* ''oggi le scuole non '''istruiscono''' bene i ragazzi''
+#* ''il magistrato ha '''istruito''' un processo contro i malviventi''
+*[[insegnare]], [[educare]], [[formare]], [[preparare]], [[erudire]], [[avviare]]
+*[[informare]], [[ragguagliare]]
+*[[consigliare]], [[suggerire]]
+*[[imparare]], [[apprendere]]
+*[[corrompere]], [[guastare]]
+*[[sconsigliare]]
+* [[istruzione]]
+* [[istruttore]]
+M>instru</E
+M>stru</E
+M>io istrüisco</E
+M>tu istrüisci</E
+M>nella grammatica</E
+M>nell’aritmetica</E
+M>nella musica</E
+M>nel canto</E
+M>nel disegno</E
+M>nella dottrina cristiana</E
+M>i soldati nell’uso delle armi</E
+M>le reclute</E
+M>il popolo</E
+M>gli ignoranti</E
+M>gli analfabeti</E
+M>un libro</E
+M>uno spettacolo che istruisce</E
+M>istruttivo</E
+M>i cani poliziotto</E
+M>un cavallo</E
+M>sentire il desiderio d’istruirsi</E
+M>leggere</E
+M>frequentare le scuole serali per istruirsi</E
+M>si è istruito da sé</E
+M>dare istruzioni</E
+M>qualcuno sul contegno da tenere</E
+M>sul modo di comportarsi in una determinata occasione</E
+M>sulle risposte da dare</E
+M>l’hanno istruito bene!</E
+M>vedrò di istruirmi in proposito</E
+M>un processo</E
+M>una causa</E
+M>istruzione</E
+M>una pratica</E
+M>instrüito</E
+M>ignorante</E
+M>è un uomo istruito</E
+M>a parlare con lui</E
+M>si sente subito che è una persona istruita</E

@@ -1,0 +1,45 @@
+intorno.txt
+"avere luce intorno"
+"cercare intorno"
+"cercare intorno"
+"circa, intorno a, all'incirca"
+"circa, intorno a, all'incirca"
+"essere intorno"
+"fare un cerchio intorno a"
+"girare intorno"
+"girare intorno"
+"girare intorno alla questione"
+"gravitare intorno a"
+"guardarsi intorno"
+"il continuare a girare intorno"
+"intorno"
+"intorno"
+"intorno, replace: intorno a"
+"intorno, replace: intorno a"
+"intorno"
+"intorno, replace: intorno a"
+"intorno al mondo"
+"mela che matura intorno al giorno di San Giovanni"
+"mettersi intorno"
+"orbitare intorno alla Terra"
+"radunarsi intorno a qcs, radunarsi attorno a qcs, raccogliersi attorno a qcs"
+"radunarsi intorno a, stringersi attorno a"
+"riunirsi; raggrupparsi intorno a qcn; radunarsi"
+"ruotare intorno"
+"ruotare intorno"
+"saltare intorno"
+"tutt'intorno"
+"tutto intorno"
+"viaggiatore intorno al mondo"
+"viaggio intorno al mondo"
+#* ''il parco si estende intorno alla casa''
+#* ''la terra gira intorno al sole'' 
+#* ''Un libro intorno alla figura di Napoleone''
+#* ''Si videro intorno a Natale''
+#* ''Un limite di x<sub>0</sub> è sempre definito in un suo intorno''
+#* ''intorno sferico di un punto''
+* ''(posizione di qualcosa che circonda qualcos'altro)''
+* ''(approssimazione di un numero o una data)''
+* ''(a proposito di)''
+* ''(posizione di qualcosa che circonda qualcos'altro)''
+* ''(approssimazione di un numero o una data)''

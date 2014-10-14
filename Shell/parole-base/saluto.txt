@@ -1,0 +1,84 @@
+saluto.txt
+"cenno di saluto"
+"ricambiare il saluto"
+"saluto"
+"saluto"
+"saluto"
+"saluto"
+"saluto alla bandiera"
+"saluto con la mano"
+"saluto di benvenuto"
+*[[omaggio]], [[addio]], [[inchino]], [[stretta di mano]]
+*[[salutare]]
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1826 
+*[http
+M>ricevere</E
+M>rivolgere un s.</E
+M>ricambiare</E
+M>rendere il s.</E
+M>rispondere al s.</E
+M>fare un cenno di s.</E
+M>fare un s. con la mano</E
+M>con un cenno del capo</E
+M>inchinarsi</E
+M>levarsi il cappello</E
+M>stringere la mano in segno di s.</E
+M>levare</E
+M>togliere il s. a qualcuno</E
+M>l&#8217;oratore ha rivolto un s. a tutti i presenti</E
+M>il ministro ha portato il s. del governo ai partecipanti al congresso</E
+M>il s. del pubblico fu un lungo applauso</E
+M>è stato accolto da un s. di fischi</E
+M>fare il s. alla chiesa</E
+M>nel passare davanti a una chiesa</E
+M>il s. alla bandiera</E
+M>a un feretro</E
+M>a un funerale</E
+M>le porgo i miei s.</E
+M>con i migliori s.</E
+M>i più cordiali</E
+M>i più affettuosi s.</E
+M>distinti s.</E
+M>è arrivata una cartolina con i suoi s.</E
+M>aggiungi nella lettera anche i miei s.</E
+M>tanti s.</E
+M>tanti cari s.</E
+M>tanti s.</E
+M>trasmetterò i tuoi s.</E
+M>portagli i miei saluti.</E
+M>un s. rispettoso</E
+M>ossequioso</E
+M>cordiale</E
+M>amichevole</E
+M>affettuoso</E
+M>caloroso</E
+M>freddo</E
+M>glaciale</E
+M>formale</E
+M>s. romano</E
+M>s. fascista</E
+M>s. militare</E
+M>fare il s. al capitano</E
+M>alla sentinella</E
+M>alla bandiera</E
+M>s. individuale</E
+M>s. di reparto</E
+M>il s. con l&#8217;arma</E
+M>s. con le sirene</E
+M>s. con la bandiera</E
+M>s. con le artiglierie</E
+M>s. alla voce</E
+M>s. con il fischio</E
+M>con i segnali di fischietto</E
+M>due alla banda!</E
+M>quattro alla banda!</E
+M>sei alla banda!</E
+M>otto alla banda!</E
+M>s. d&#8217;amore</E
+M>salutatio</E
+M>s. d&#8217;argento</E
+M>carlino</E
+M>Inclinazione laterale</E
+M>sbandamento di saluto</E
+M>passo a dare un salutino a mia madre</E
+M>salutìssimi</E

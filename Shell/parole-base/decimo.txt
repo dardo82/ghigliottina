@@ -1,0 +1,38 @@
+decimo.txt
+"decimo"
+"al decimo posto"
+"decimo"
+"che occupa il decimo posto"
+"decimo"
+"decimo"
+*[[decimoprimo]],[[decennio]], [[decimare]], [[decimetro]], [[decimale]]
+*[[primo]], [[secondo]], [[terzo]], [[quarto]], [[quinto]], [[sesto]], [[settimo]], [[ottavo]], [[nono]], [[undicesimo]]
+M>dec</E
+M>mus</E
+M>decem</E
+M>il d</E
+M>giorno del mese</E
+M>nel d</E
+M>anno della sua vita</E
+M>arrivare d</E
+M>in una gara</E
+M>essere al d</E
+M>posto nella graduatoria</E
+M>musa</E
+M>Luigi X</E
+M>Pio X</E
+M>rima</E
+M>parte</E
+M>due d</E
+M>tre d</E
+M>nove d</E
+M>i nove d</E
+M>non saprebbero rispondere</E
+M>la sua fama è per nove d</E
+M>usurpata</E
+M>Decimo di guerra</E
+M>all’occhio destro ho tre d</E
+M>meno che al sinistro</E
+M>ha pochi d</E
+M>di febbre</E
+M>linea</E

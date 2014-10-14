@@ -1,0 +1,47 @@
+bottone.txt
+"attaccare bottone"
+"bottone"
+"bottone"
+"oggetto a forma di bottone"
+"bottone"
+"bottone"
+"bottone"
+"bottone a pressione"
+"chiusura con bottone"
+"orecchino a bottone"
+*[[pulsante]], [[tasto]]
+*[[bottoniere]]
+* (accessorio) [[asola]], [[occhiello]], [[zip]]
+*  ''attaccare bottone''
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 275
+M>bouton</E
+M>bouter</E
+M>bottoni per giacca</E
+M>per calzoni</E
+M>per cappotto</E
+M>per camicia</E
+M>automatici</E
+M>gemelli</E
+M>attaccare</E
+M>cucire un b</E
+M>attaccare un b</E
+M>a qualcuno</E
+M>attaccare bottone con qualcuno</E
+M>del campanello</E
+M>stanza dei b</E
+M>di sintonia</E
+M>del violino</E
+M>fiorale</E
+M>di rosa</E
+M>embrionale</E
+M>di senso</E
+M>boccioli</E
+M>gustativi</E
+M>d’Oriente</E
+M>di Aleppo</E
+M>leishmaniosi cutanea</E
+M>d’argento</E
+M>erba ptarmica</E
+M>tarmica</E
+M>Botton d’oro</E
+M>i bottoncini della camicetta</E

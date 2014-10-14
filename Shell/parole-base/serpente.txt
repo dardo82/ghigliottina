@@ -1,0 +1,81 @@
+serpente.txt
+"costellazione del serpente"
+"il Serpente"
+"morso di serpente"
+"pelle di serpente"
+"serpente"
+"serpente"
+"serpente a sonagli"
+"serpente corallo"
+"serpente d'acqua"
+"serpente del latte"
+"serpente di mare"
+"serpente giarrettiera"
+"serpente gopher"
+"serpente nero"
+"serpente reale"
+"serpente verde"
+"tipo di serpente"
+*[[inserpentarsi]],[[serpentaria]],[[serpentario]],[[serpentesco]], [[serpentifero]], [[serpentiforme]], [[serpentina]], [[serpentino]]  
+* [[serpente monetario]], [[carta serpente]], [[legno serpente]], [[fossa dei serpenti]], [[serpente arlecchino]], [[serpente boa]], [[serpente bruno]], [[serpente corallo]], [[serpente marino]], [[serpente dagli occhiali]], [[serpente a sonagli]], [[serpente pilota]], [[serpente tigre]], [[serpente del latte]], 
+* [[biscia]]
+*[[rettile]]
+*''essere viscido come un '''serpente'''''
+*''allevare una '''serpe''' in seno''
+*''essere un '''serpente''' di mare''
+*''se il '''serpente''' non mangiasse del '''serpente''', non si farebbe drago''
+*italiano
+M>serpens -entis</E
+M>serp</E
+M>s. arlecchino</E
+M>s. boa</E
+M>s. bruno</E
+M>Demansia texilis</E
+M>s. corallo</E
+M>s. di mare</E
+M>marini</E
+M>serpenti di mare</E
+M>s. nero d&#8217;Australia</E
+M>Pseudechis porphyriacus</E
+M>s. dagli occhiali</E
+M>Naja naja</E
+M>cobra dagli occhiali</E
+M>dal cappello</E
+M>s. a sonagli</E
+M>Crotalus</E
+M>s. pilota</E
+M>Elaphe obsoleta</E
+M>s. tigre</E
+M>Notechis scutatus</E
+M>fossa dei s.</E
+M>una borsetta</E
+M>una cintura</E
+M>un paio di scarpe di s.</E
+M>effetto serpente</E
+M>effetto rettile</E
+M>rivestimento in plastica nera effetto serpente</E
+M>borsa di pelle stampata effetto rettile</E
+M>Genesi</E
+M>Sapienza</E
+M>Atti</E
+M>essere maligno</E
+M>velenoso</E
+M>pericoloso come un s.</E
+M>non fidarti di quella ragazza</E
+M> è un serpente!</E
+M>s. di mare</E
+M>Carta serpente</E
+M>carta seta</E
+M>Legno serpente</E
+M>Piratinera guaianensis</E
+M>Brosimum guaianensis</E
+M>Marmaroxylon racemosum</E
+M>Pithecolobium racemosum</E
+M>s. di Faraone</E
+M>S. monetario</E
+M>s. valutario</E
+M>europeo</E
+M>serpente</E
+M>tunnel</E
+M>tunnel</E
+M>Sistema monetario europeo</E

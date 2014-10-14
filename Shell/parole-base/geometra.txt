@@ -1,0 +1,10 @@
+geometra.txt
+"diploma di geometra"
+"geometra"
+#* ''il '''geometra''' Fausto Gabrielli''
+m>geom</e
+m>tres</e
+m>geom</e
+m>tra</e
+m>Euclide geomètra</e
+m>Geometra</e

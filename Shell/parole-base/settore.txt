@@ -1,0 +1,78 @@
+settore.txt
+"capo settore"
+"esperto del settore"
+"il settore dei servizi finanziari"
+"il settore del trasporto aereo"
+"il settore di studio principale"
+"lavorare nel settore"
+"operatore del settore"
+"professionista del settore"
+"rivista di settore"
+"settore"
+"settore"
+"settore"
+"settore"
+"settore"
+"settore agricolo"
+"settore dei servizi"
+"settore delle comunicazioni"
+"Settore di competenza"
+"settore giovanile"
+"settore immobiliare"
+"settore merceologico"
+"settore privato"
+"settore turistico"
+"studio di settore"
+*[[sezione]], [[parte]], [[porzione]], [[fetta]], [[spicchio]]
+*[[divisione]], [[compartimento]], [[distretto]], [[reparto]]
+*sezionatore di cadaveri, settore anatomico
+*''(medicina)'' [[anatomista]] 
+* [[area]], [[zona]] 
+*[[settorista]]
+M>sector -oris</E
+M>secare</E
+M>sectus</E
+M>trice</E
+M>S. anatomico</E
+M>perito s.</E
+M>s. circolare</E
+M>s. sferico</E
+M>settore di lancio</E
+M>s. di massima offesa</E
+M>s. di traversia</E
+M>s. di elevazione</E
+M>S. di tiro</E
+M>s. di sicurezza</E
+M>S. morto</E
+M>i s. del Senato</E
+M>della Camera dei deputati</E
+M>s. d&#8217;azione</E
+M>s. caldo</E
+M>il s. economico</E
+M>i tre s. fondamentali dell&#8217;economia</E
+M>s. primario</E
+M>s. secondario</E
+M>industriale</E
+M>s. siderurgico</E
+M>metallurgico</E
+M>metalmeccanico</E
+M>elettrico</E
+M>chimico</E
+M>s. terziario</E
+M>dei servizî</E
+M>s. commerciale</E
+M>dei trasporti</E
+M>del credito</E
+M>delle assicurazioni</E
+M>i varî s. della medicina</E
+M>della fisica</E
+M>dell&#8217;elettronica</E
+M>il s. commerciale</E
+M>tecnico</E
+M>delle pubbliche relazioni</E
+M>di un&#8217;azienda.</E
+M>s. dentato</E
+M>agghiaccio del timone</E
+M>s. magnetico</E
+M>s. rotante</E
+M>Bna</E

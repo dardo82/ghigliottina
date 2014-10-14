@@ -1,0 +1,4 @@
+arrangiarsi.txt
+"arrangiarsi"
+"arrangiarsi con quello che c'è"
+*[[arrabattarsi]]

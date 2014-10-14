@@ -1,0 +1,15 @@
+congiura.txt
+"congiura"
+*[[complotto]], [[cospirazione]]
+M>fare</E
+M>ordire</E
+M>tramare una c</E
+M>scoprire</E
+M>sventare una c</E
+M>la c</E
+M>di Catilina</E
+M>la c</E
+M>dei Pazzi</E
+M>di palazzo</E
+M>mi volete trattenere qui per forza? ma questa è una congiura!</E
+M>del silenzio</E

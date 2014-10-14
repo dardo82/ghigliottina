@@ -1,0 +1,7 @@
+accoltellare.txt
+"accoltellare"
+*[[pugnalare]], ferire con un coltello
+*[[accoltellamento]]
+M>io accoltèllo</E
+M>rischiò di morire</E
+M>accoltellato da un suo rivale</E

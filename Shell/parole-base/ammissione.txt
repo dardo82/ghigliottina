@@ -1,0 +1,24 @@
+ammissione.txt
+"ammissione"
+"ammissione"
+"ammissione"
+"ammissione, accettazione"
+"esame d'ammissione"
+"quota d'ammissione"
+"test di ammissione al college"
+M>admissio</E
+M>onis</E
+M>admitt</E
+M>chiedere l’a</E
+M>a una società</E
+M>a una scuola</E
+M>a un circolo sportivo</E
+M>conseguire l’a</E
+M>in un’accademia</E
+M>concorso d’a</E
+M>esami d’a</E
+M>tassa d’a</E
+M>di una verità</E
+M>della fondatezza di una tesi</E
+M>dei proprî errori</E
+M>Valvola d’a</E

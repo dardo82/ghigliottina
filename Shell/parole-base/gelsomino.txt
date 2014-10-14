@@ -1,0 +1,12 @@
+gelsomino.txt
+"gelsomino"
+"tè al gelsomino"
+M>sam</E
+M>gesmino</E
+M>Jasminum</E
+M>Jasminum officinale</E
+M>J. grandiflorum</E
+M>J. odoratissimum</E
+M>J. sambac</E
+M>gelsomino mugherino</E
+M>g. doppio</E

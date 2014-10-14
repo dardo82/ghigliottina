@@ -1,0 +1,47 @@
+riservare.txt
+"riservare"
+"riservare"
+*[[accantonare]], [[serbare]], [[prenotare]],  [[ripromettersi]]
+*[[riserva]], [[riservato]], [[riserbo]]
+M>reservare</E
+M>servare</E
+M>io risèrvo</E
+M>ho riservato questa bottiglia di brunello per mio padre</E
+M>è un cognac di 50 anni</E
+M>e va riservato per una grande festa</E
+M>riserva le tue facezie per un&#8217;occasione migliore</E
+M>riservarsi un diritto</E
+M>una facoltà</E
+M>riservarsi il diritto di decidere in un secondo momento</E
+M>la facoltà di recedere da un impegno</E
+M>di riesaminare il caso</E
+M>riservarsi di decidere</E
+M>di recedere</E
+M>di riesaminare</E
+M>riservarsi la decisione</E
+M>la recessione</E
+M>il riesame</E
+M>riservarsi per un&#8217;altra occasione</E
+M>per una migliore opportunità</E
+M>riservarsi la prognosi</E
+M>i sanitari si sono riservata la prognosi</E
+M>è il più anziano</E
+M>in ufficio</E
+M>e i lavori più facili e di soddisfazione se li riserva per sé</E
+M>tutte le attenzioni</E
+M>la madre</E
+M>le riserva al figlio maggiore</E
+M>farsi r</E
+M>prenotare</E
+M>farsi r</E
+M>un tavolo al ristorante</E
+M>una stanza in albergo</E
+M>due poltrone a teatro</E
+M>un posto in aereo</E
+M>tutti i lavori difficili sono riservati a me</E
+M>non credevo che tu mi riservassi tante delusioni</E
+M>una persona ad un incarico</E
+M>ad una missione</E
+M>Ringraziando Natura e &#8217;l dì ch&#8217;io nacqui</E
+M>Che reservato m&#8217;ànno a tanto bene</E
+M>a gran pena si temperò in riservarsi di richiederlo</E

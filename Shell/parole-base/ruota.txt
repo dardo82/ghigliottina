@@ -1,0 +1,192 @@
+ruota.txt
+"a ruota libera"
+"andare a ruota libera"
+"fare la ruota"
+"parlare a ruota libera"
+"parti della ruota"
+"raggio (di ruota)"
+"ruota"
+"ruota"
+"ruota a disco"
+"ruota a pale"
+"ruota anteriore"
+"ruota davanti dell'aereo"
+"ruota della fortuna"
+"ruota della preghiera"
+"ruota dentata"
+"ruota dentata"
+"ruota di scorta"
+"ruota idraulica"
+"ruota idraulica"
+"ruota libera"
+"ruota motrice"
+"ruota panoramica"
+"seguire a ruota"
+"subito dopo, a ruota di"
+"sulla scia di, alla ruota di"
+#* ''la 
+#* ''fammi vedere come sai fare la 
+*[[cerchio]], [[disco]], [[volano]], [[cilindro]], [[rotella]],[[pneumatico]], [[gomma]], [[puleggia]], [[carrucola]], [[girella]], [[corona]], [[pignone]], [[rocchetto]]
+*[[ruotare]], [[ruotino]],  
+* [[ruota cleviana]], [[ruota da molino]], [[ruota di Santa Caterina]]
+*[[pneumatico]]
+*''succhiare la ruota''
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione 2000-2001, Le Monnier, p. !812
+M>rôta</E
+M>la r</E
+M>gira</E
+M>un giro di ruota</E
+M>con raggi</E
+M>razze</E
+M>piena</E
+M>r. lenticolare</E
+M>Ungere le r</E
+M>carro</E
+M>carrozza a cavalli a due</E
+M>a quattro r</E
+M>le r</E
+M>del treno</E
+M>del tram</E
+M>le r</E
+M>di una bicicletta</E
+M>di un&#8217;automobile</E
+M>le r</E
+M>davanti</E
+M>anteriori</E
+M>le r</E
+M>di dietro</E
+M>posteriori</E
+M>avere una r</E
+M>a terra</E
+M>di scorta</E
+M>carenata</E
+M>ruote di alaggio</E
+M>ruota</E
+M>sci</E
+M>comandabile</E
+M>tenere la r</E
+M>di un compagno di squadra</E
+M>di un avversario</E
+M>stare</E
+M>tenersi</E
+M>mettersi alla r</E
+M>di un altro corridore</E
+M>seguire a ruota</E
+M>arrivare a ruota di qualcuno</E
+M>mettere i bastoni fra le r</E
+M>a qualcuno</E
+M>essere l&#8217;ultima</E
+M>la quinta</E
+M>del carro</E
+M>la peggio</E
+M>peggior</E
+M>del carro è quella che stride</E
+M>dentate</E
+M>rapporto di trasmissione</E
+M>cilindriche</E
+M>coniche</E
+M>per la trasmissione del moto tra assi sghembi</E
+M>elicoidale</E
+M>vite senza fine</E
+M>coppia ipoidale</E
+M>rocchetti</E
+M>pignoni</E
+M>circonferenze primitive</E
+M>costa</E
+M>fianco</E
+M>addendum</E
+M>dedendum</E
+M>passo della r</E
+M>dentata</E
+M>oziosa</E
+M>di frizione</E
+M>a lanterna</E
+M>ingranaggio a lanterna</E
+M>libera</E
+M>libera ad arpionismo</E
+M>il ciclista si buttò giù per la discesa a r</E
+M>libera</E
+M>parlare a r</E
+M>libera</E
+M>idrauliche</E
+M>del mulino</E
+M>a vento</E
+M>aeromotore</E
+M>propulsatrice</E
+M>piroscafo</E
+M>bastimento a ruote</E
+M>mola</E
+M>dell&#8217;arrotino</E
+M>dare la r</E
+M>a un coltello</E
+M>di Brunswick</E
+M>acciarino a ruota</E
+M>archibugio</E
+M>fucile</E
+M>pistola a ruota</E
+M>del timone</E
+M>polare</E
+M>vivente</E
+M>della vita</E
+M>zootropio</E
+M>cilindro</E
+M>da preghiere</E
+M>mulino da preghiere</E
+M>panoramica</E
+M>del diavolo</E
+M>a specchi</E
+M>degli esposti</E
+M>sua madre</E
+M>lo aveva messo al mondo senza che avesse un marito</E
+M>e lo aveva abbandonato</E
+M>lo aveva lasciato &#171;alla ruota&#187;</E
+M>del lotto</E
+M>giocare un terno su tutte le r</E
+M>sulla r</E
+M>di Venezia</E
+M>della fortuna</E
+M>della Fortuna</E
+M>essere nel sommo</E
+M> nel colmo della r</E
+M>quando messer Mastino era nel colmo della rota nella città di Verona</E
+M>Supplizio della r</E
+M>ruota</E
+M>la r</E
+M>del sole</E
+M>della luna piena</E
+M>nocchier de la livida palude</E
+M>Che &#8217;ntorno a li occhi avea di fiamme rote</E
+M>fare la r</E
+M>sì che</E
+M>mondi e lievi</E
+M>Possano uscire a le stellate ruote</E
+M>fare la r</E
+M>una r</E
+M>fare la r</E
+M>a una ragazza</E
+M>attorno a una ragazza</E
+M>a ruota</E
+M>mantello a r</E
+M>a mezza r</E
+M>gonna a r</E
+M>gonna a campana</E
+M>Ormeggio a r</E
+M>ruota di prua</E
+M>slancio di prua</E
+M>piè di ruota</E
+M>ruota</E
+M>a sperone</E
+M>a bulbo</E
+M>a tulipano</E
+M>di poppa</E
+M>dritto di poppa</E
+M>filo di ruota</E
+M>navigare</E
+M>correre il fil di r</E
+M>la vita è una r</E
+M>è stata una r</E
+M>di imprevisti</E
+M>rotazione</E
+M>d&#8217;acqua</E
+M>rotella</E
+M>ruotina</E

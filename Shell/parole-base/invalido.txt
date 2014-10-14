@@ -1,0 +1,42 @@
+invalido.txt
+"che rende invalido"
+"invalido"
+"invalido"
+"invalido"
+"invalido civile"
+"reso invalido"
+*[[infermo]], [[menomato]], [[handicappato]], [[minorato]], [[mutilato]], [[paralizzato]], [[paralitico]], [[inabile]]
+* [[disabile]],  [[diversamente abile]]
+*[[sano]], [[normale]], [[integro]]
+*[[invalidare]], [[invalidità]], [[invalidamente]], [[convalidare]]
+*[[infondato]]
+M>inval</E
+M>dus</E
+M>val</E
+M>dus</E
+M>è rimasto i</E
+M>in seguito a un infortunio sul lavoro</E
+M>l’incidente lo ha reso i</E
+M>ha il padre i</E
+M>e deve provvedere lui al sostentamento della famiglia</E
+M>essere i</E
+M>al lavoro</E
+M>è i</E
+M>per l’età alle fatiche pesanti</E
+M>inabile</E
+M>gli i</E
+M>della prima guerra mondiale</E
+M>civile</E
+M>di guerra</E
+M>i grandi i</E
+M>ospizio per invalidi</E
+M>è ricoverato agl’Invalidi</E
+M>Associazione mutilati e invalidi di guerra</E
+M>un documento i</E
+M>negozio i</E
+M>per vizio di consenso</E
+M>si può statuire la fortuna essere i</E
+M>e debolissima a rapirci qualunque nostra minima virtù</E
+M>nome i</E
+M>nomen invalidum</E
+M>attentare invalidamente il matrimonio.</E

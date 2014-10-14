@@ -1,0 +1,31 @@
+svolta.txt
+"dare una svolta"
+"dare una svolta, cambiare direzione"
+"la svolta a, la traversa a"
+"punto di svolta inferiore"
+"svolta"
+"svolta"
+#*''la sua vita era ad una svolta''
+* cambiamento di direzione, [[voltata]], [[sterzata]]
+* (di strada) [[curva]], [[angolo]]
+M>svoltare</E
+M>divieto di s. a destra</E
+M>a sinistra</E
+M>la stazione è qui vicina</E
+M> dopo la prima s. a destra</E
+M>l&#8217;auto è uscita di strada a una s.</E
+M> per il fondo ghiacciato</E
+M>ormeggiarono la barca a una s. del fiume</E
+M>punto di svolta.</E
+M>sono a una s. decisiva della mia vita</E
+M>siamo a una s.</E
+M>a un punto di s.</E
+M>della situazione internazionale</E
+M>il governo ha fatto una s. improvvisa nella politica economica</E
+M>la s.</E
+M>a destra</E
+M>a sinistra</E
+M>conservatrice</E
+M>progressista</E
+M>di un partito</E
+M>di un governo</E

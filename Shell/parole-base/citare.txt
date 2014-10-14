@@ -1,0 +1,32 @@
+citare.txt
+"citare"
+"citare"
+"citare in giudizio"
+"citare in giudizio"
+"non si può non citare"
+*(parole, passi di altri in un discorso o in uno scritto) [[riferire]], [[riportare]], [[ripetere]]
+M>citare</E
+M>ciere</E
+M>qualcuno</E
+M>dinanzi al tribunale</E
+M>essere citato come debitore moroso</E
+M>i parenti e gli amici di Renzo vengono citati a deporre ciò che posson sapere</E
+M>fu citato dal pubblico ministero</E
+M>citava l’autorità di Aristotele</E
+M>esempî di antichi scrittori</E
+M>si compiace di c</E
+M>spesso versi di Dante</E
+M>mi citava cento altri casi analoghi</E
+M>bisogna c</E
+M>con esattezza il titolo dell’opera</E
+M>un autore</E
+M>citarsi addosso</E
+M>i testimoni citati</E
+M>alcuni dei passi citati</E
+M>le parole sopra citate</E
+M>sopraccitate</E
+M>autori citati dalla Crusca</E
+M>autori citati</E
+M>i citati</E
+M>tavola dei citati</E
+M>indice degli autori citati</E

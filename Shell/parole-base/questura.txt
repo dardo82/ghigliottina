@@ -1,0 +1,35 @@
+questura.txt
+"questura"
+"questura"
+#* ''la questura di Bari'', ''la questura di Milano''
+#* ''Cicerone fu ricoprì la questura di Roma per un anno prima di divenire console''
+#* ''Durante la questura di Caio Tizio Roma godette di un'insolita tranquillità''
+* ''(palazzo della questura)''
+*italiano
+*latino
+M>quaestura</E
+M>quaestor</E
+M>oris</E
+M>aspirare alla q</E
+M>Publio Oppio</E
+M>dopo la q</E
+M>del 74</E
+M>fu accusato di estorsione</E
+M>la q</E
+M>di Gaio Mario</E
+M>di Marco Antonio</E
+M>la q</E
+M>di Milano</E
+M>di Roma</E
+M>agenti di q</E
+M>funzionario di q</E
+M>i registri della q</E
+M>chiamare la q</E
+M>rivolgersi alla q</E
+M>essere chiamato</E
+M>interrogato dalla q</E
+M>una perquisizione operata dalla q</E
+M>; irruzione della q</E
+M>in una casa equivoca</E
+M>condurre un ricercato in q</E
+M>; essere invitato a presentarsi in questura</E

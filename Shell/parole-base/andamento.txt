@@ -1,0 +1,64 @@
+andamento.txt
+"analisi dell'andamento"
+"andamento"
+"andamento"
+"andamento"
+"andamento altimetrico"
+"andamento climatico"
+"andamento del lavoro"
+"andamento di una curva"
+"andamento meteorologico"
+"andamento narrativo"
+"andamento sinuoso"
+"andamento stagionale"
+"andamento temporale"
+"andamento, accadimento"
+"l'andamento"
+"l'andamento delle cose"
+#*''Aveva un '''andamento''' lento e solenne.''
+#*''L''''andamento''' del mercato dei fagioli quest'anno è stato disastroso''
+*italiano
+*portoghese
+M>avanzava con a</E
+M>maestoso</E
+M>spero che tu non continui in questo andamento</E
+M>fu pertanto concluso</E
+M>che si lasciassero entrare i nuovi signori</E
+M>e che si vigilassero i loro a</E
+M>attendere all’a</E
+M>della casa</E
+M>sorvegliare il buon a</E
+M>di un negozio</E
+M>essere soddisfatto dell’a</E
+M>degli affari</E
+M>l’a</E
+M>del mercato</E
+M>della borsa</E
+M>l’a</E
+M>di una malattia</E
+M>regolarsi secondo l’a</E
+M>della stagione</E
+M>di una grandezza</E
+M>costante</E
+M>crescente</E
+M>decrescente</E
+M>periodico</E
+M>alternato</E
+M>sinusoidale</E
+M>di un orologio</E
+M>diurno</E
+M>annuo</E
+M>progressione</E
+M>divertimento</E
+M>episodio</E
+M>movimento</E
+M>una musica di a</E
+M>tranquillo</E
+M>sostenuto</E
+M>nobile</E
+M>verso che riproduce l’a</E
+M>dell’esametro latino</E
+M>in terza rima</E
+M>nell’a</E
+M>cioè del sirventese</E
+M>un testo dall’a. discorsivo, oratorio, solenne</E

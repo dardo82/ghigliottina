@@ -1,0 +1,49 @@
+asciugare.txt
+"asciugare"
+"asciugare (una macchia)"
+"asciugare con il phon"
+"asciugare qualcosa"
+"asciugare senza stirare"
+"lasciare asciugare vestiti al sole"
+#* ''
+*[[detergere]]
+*[[prosciugare]], [[seccare]], [[disseccare]], [[essiccare]]
+* ''(transitivo)'' [[disidratare]],   [[inaridire]], [[tergere]]
+*[[bagnare]], [[inumidire]], [[innaffiare]], [[inzuppare]], [[irrorare]]
+* ''(transitivo)'' [[ammollare]], [[annaffiare]], [[bagnare]], [[impregnare]], [[infradiciare]],   [[rimpinguare]],  [[umettare]]
+M>exs</E
+M>care</E
+M>sucus</E
+M>io asciugo</E
+M>tu asciughi</E
+M>il pavimento</E
+M>le posate</E
+M>asciugarsi le mani</E
+M>asciùgati bene</E
+M>se no ti raffreddi</E
+M>asciugarsi il sudore</E
+M>il pianto</E
+M>le lacrime</E
+M>asciugarsi l’abito stando accanto al fuoco</E
+M>i capelli col casco</E
+M>col fon</E
+M>s’è alzato un vento gelido che ha asciugato rapidamente le strade</E
+M>il sole asciuga la campagna</E
+M>un fiasco</E
+M>un bicchiere</E
+M>l’imagine lor vie più m’asciuga Che ’l male ond’io nel volto mi discarno</E
+M>qualcuno</E
+M>le tasche a qualcuno</E
+M>stendersi al sole ad asciugarsi</E
+M>con questo vento</E
+M>i panni s’asciugano presto</E
+M>è un inchiostro che s’asciuga subito</E
+M>fare</E
+M>lasciare</E
+M>far asciugare la biancheria</E
+M>lasciar asciugare l’inchiostro</E
+M>stendere i panni ad asciugare</E
+M>carta asciugante</E
+M>carta assorbente</E
+M>essiccatoio</E
+M>asciugatoio</E

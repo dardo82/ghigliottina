@@ -1,0 +1,18 @@
+pneumatico.txt
+"cuscino pneumatico"
+"intelaiatura del pneumatico"
+"martello pneumatico"
+"pneumatico"
+"pneumatico"
+"pneumatico"
+"pneumatico forato"
+"pneumatico radiale"
+"pneumatico sgonfio"
+"valvola del pneumatico"
+"vuoto pneumatico"
+*[[gonfiabile]]
+*(di dispositivo) ad aria
+*(di martello, fucile ecc.)[[ad aria compressa]]
+*(di copertura) a pallone
+*[[ruota]], [[gomma]], camera d’aria, [[copertone]]
+*[[ruota]]

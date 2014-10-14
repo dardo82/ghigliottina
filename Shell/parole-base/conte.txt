@@ -1,0 +1,17 @@
+conte.txt
+"conte"
+*italiano
+M>conte</E
+M>comes</E
+M>tis</E
+M>com</E
+M>cum</E
+M>con</E
+M>ire</E
+M>Corona di c</E
+M>corona comitale</E
+M>comes</E
+M>comes</E
+M>comes</E
+M>conte</E
+M>palatino</E

@@ -1,0 +1,16 @@
+applauso.txt
+"applauso"
+*[[battimano]], [[ovazione]]
+*[[applausometro]]
+M>applausus</E
+M>applaud</E
+M>sincero</E
+M>cordiale</E
+M>contrastato</E
+M>un coro</E
+M>un uragano di applausi accolse le sue parole</E
+M>l’atto della premiazione fu accompagnato da uno scoppio di applausi</E
+M>applausi a fine d’atto</E
+M>applausi a scena aperta</E
+M>a. di sortita</E
+M>plauso</E

@@ -1,0 +1,187 @@
+pena.txt
+"Ambasciator non porta pena"
+"anima in pena"
+"che vale la pena"
+"che vale la pena"
+"cuore in pena"
+"darsi la pena di fare qualcosa"
+"darsi pena con"
+"darsi pena;prendersi il disturbo di"
+"entrare a pena"
+"esserne valsa la pena"
+"fare tanta pena"
+"fine pena mai"
+"il minimo della pena"
+"the minimum penalty"
+"istituto di pena"
+"penal institute, state prison, correction centre"
+"ne vale la pena"
+"non c'è pane senza pena"
+"non vale la pena di"
+"non vale la pena di avere"
+"non vale la pena di nominare"
+"non valerne la pena"
+"pena"
+"penalty"
+"pena capitale"
+"pena comminata"
+"penalty applied, punishment imposed, sentence imposed"
+"pena corporale"
+"pena di morte"
+"death penalty"
+"pena esemplare"
+"pena la non validità"
+"preoccuparsi di, darsi pena con, disturbarsi con"
+"reato punibile con la pena di morte"
+"scontare la pena"
+"Sicuro che ne valesse la pena?"
+"sotto pena di"
+"stare in pena per qualcuno"
+"valere la pena"
+"valerne la pena"
+#*''gli è stata inflitta una '''pena''' esemplare''
+#*''mi fa '''pena'''''
+*[[dolore]]; [[preoccupazione]], [[cruccio]], [[angoscia]], [[supplizio]] 
+*[[compassione]], [[commiserazione]]
+*[[penace]], [[penale]], [[penalista]], [[penalistico]], [[penalità]], [[penalizzante]], [[penalizzazione]], [[penalty]], [[penare]], [[malapena]]
+M>poena</E
+M>Dei delitti e delle pene</E
+M>teorie sulla natura</E
+M>punitiva</E
+M> vendicativa</E
+M>preventiva</E
+M>utilitaria</E
+M>emendativa</E
+M>della p</E
+M>detentiva</E
+M>restrittiva della libertà personale</E
+M>corporale</E
+M>di morte</E
+M>capitale</E
+M>giudicare meritevole di p</E
+M>infliggere</E
+M>dare</E
+M> applicare</E
+M>comminare una p</E
+M>commutare</E
+M>aggravare</E
+M>accrescere</E
+M>inasprire la p</E
+M>condannare alla p</E
+M>dell&#8217;ergastolo</E
+M>dell&#8217;esilio</E
+M>pena</E
+M>condannare all&#8217;ergastolo</E
+M>all&#8217;esilio</E
+M>incorrere nelle p</E
+M>previste dalla legge</E
+M>il pubblico ministero ha proposto il massimo della p</E
+M>scontare</E
+M>pagare</E
+M>espiare</E
+M>la p</E
+M>di un reato</E
+M>portare</E
+M>pena</E
+M>il giusto porta la p</E
+M>per il peccatore</E
+M>ambasciator non porta p</E
+M>delitti che portano p</E
+M>detentiva</E
+M>sospensione condizionale della p</E
+M>estinzione della pena</E
+M>Casa di pena</E
+M>prigione</E
+M> reclusorio</E
+M>principali</E
+M>detentive</E
+M>pecuniarie</E
+M>accessorie</E
+M>criminali</E
+M>private</E
+M>disciplinari</E
+M>canoniche</E
+M>medicinali</E
+M>censure</E
+M>a divinis</E
+M>espiatorie</E
+M>sotto pena di</E
+M>pena</E
+M>sotto p</E
+M>della vita</E
+M>della scomunica</E
+M>sotto p. di multa</E
+M>gli proibì di tornare in patria</E
+M>la morte</E
+M>la vita</E
+M>Nulla speranza li conforta mai</E
+M>Non che di posa</E
+M>ma di minor pena</E
+M>temporale</E
+M>eterna</E
+M>le p</E
+M>dell&#8217;inferno</E
+M>le p</E
+M>del purgatorio</E
+M>patire le p</E
+M>dell&#8217;inferno</E
+M>del purgatorio</E
+M>anime in pena</E
+M>essere un&#8217;anima in p</E
+M>complemento di p</E
+M>damnare capitis</E
+M>damnare capite</E
+M>mi raccontò tutte le sue p</E
+M>Non avere da scrivere nulla Dà quella p. infantile</E
+M> infinita</E
+M> Di chi non trova alloggio In un paese straniero</E
+M>espresse in versi appassionati le sue p</E
+M>d&#8217;amore</E
+M>cadde per la p</E
+M>tramortito</E
+M>Ma più che morto par tanto è stordito</E
+M>compassione</E
+M>faceva p</E
+M>a vederlo</E
+M>era una p</E
+M>sentirlo parlare così</E
+M>s&#8217;è ridotto che fa p</E
+M>compassione</E
+M>taci</E
+M>che mi fai p</E
+M>ha scritto un articolo che fa p</E
+M>era una p</E
+M>sentirlo strimpellare in quel modo</E
+M>stare in p</E
+M>per qualcuno</E
+M>prendersi p</E
+M>per qualcuno</E
+M>quanto mi hai fatto stare in p</E
+M>col tuo ritardo!</E
+M>darsi</E
+M>prendersi</E
+M>la p</E
+M>di fare qualche cosa</E
+M>se donner la peine</E
+M>se si fosse dato la p</E
+M>di avvertirmi</E
+M>avrei provveduto in tempo</E
+M>si dia la p</E
+M>di controllare che la cifra sia esatta</E
+M>meritare</E
+M>valere la p</E
+M>valoir la peine de</E
+M>non valere la p</E
+M>varrebbe la p</E
+M>di andarci di persona</E
+M>vale la pena che vengano tutti alla riunione?</E
+M>non vale la p</E
+M>di scomodarsi per così poco</E
+M>a pena</E
+M>a mala p</E
+M>a gran p</E
+M>ho molto da lavorare</E
+M>a mala p</E
+M>avrò tempo di mangiare un boccone</E
+M>I0 mi rivolgo indietro a ciascun passo Col corpo stanco ch&#8217;a gran p</E
+M>porto</E

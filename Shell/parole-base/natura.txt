@@ -1,0 +1,233 @@
+natura.txt
+"amante della natura"
+"naturalist"
+"amore per la natura"
+"naturalism"
+"Associazione per la difesa della natura e  salvaguardia di posti di interesse artistico e storico"
+"commedia di natura macabra"
+"compensi in natura"
+"contro natura"
+"della stessa natura"
+"della stessa natura, dello stesso tipo"
+"di natura psicologica"
+"di natura, per natura"
+"dipinto con natura morta"
+"dono della natura"
+"natural gift"
+"forze della natura"
+"in natura"
+"la natura della bestia"
+"la natura delle cose"
+"legge della natura"
+"legge della natura"
+"natural law"
+"libro della natura"
+"natura"
+"natura"
+"natura animale"
+"natura contro educazione"
+"natura decaduta"
+"natura esemplare"
+"natura essenziale, identità dell'ego"
+"natura interiore"
+"natura malvagia"
+"natura morta"
+"natura organica"
+"natura quotidiana"
+"natura selvaggia"
+"natura tecnica"
+"natura umana"
+"natura umana; essere umano"
+"natura vendicativa"
+"natura viva"
+"natura, verde"
+"ordine della natura"
+"pagamento in natura"
+"passione per la natura"
+"naturalism"
+"per sua natura"
+"persona vicina alla natura"
+"scherzo della natura"
+"scherzo della natura"
+"Sfidare le leggi della natura"
+"stato di natura, stato naturale"
+"studio della natura"
+"uniformato alla natura"
+"naturalized"
+*[[creato]], [[creazione]], [[universo]],[[mondo]], [[cosmo]], [[vita]]; [[ambiente]], [[paesaggio]]
+*''(di persona)'' [[carattere]], [[indole]], [[temperamento]], [[inclinazione]], [[istinto]], [[tendenza]], [[costituzione]], [[personalità]], [[disposizione]], modo di essere
+* ''(di cosa)'' [[sostanza]], [[struttura]], [[essere]], [[essenza]], [[qualità]], [[specie]], [[tipo]], [[genere]]
+* [[naturale]], [[naturalità]], [[naturare]], [[naturismo]]
+*[[creato]] il lemma ha un'accezione religiosa, mentre [[natura]] ha un'accezione pagana 
+*italiano
+*esperanto
+*latino
+*polacco
+M>nat</E
+M>natus</E
+M>nasci</E
+M>niuna cosa dà la natura</E
+M>madre di tutte le cose e operatrice</E
+M>che egli</E
+M>con lo stile e con la penna o col pennello non dipignesse</E
+M>Una diva scorrea lungo il creato A fecondarlo</E
+M>e di Natura avea L’austero nome</E
+M>O natura</E
+M>o natura</E
+M>Perché non rendi poi Quel che prometti allor?</E
+M>naturante</E
+M>naturata</E
+M>naturante</E
+M>naturata</E
+M>i capricci della n</E
+M>l’intelligenza è un dono di n</E
+M>madre n</E
+M>nudo come madre n</E
+M>l’ha fatto</E
+M>scherzo di n</E
+M>i tre regni della n</E
+M>i fenomeni</E
+M>le forze</E
+M>le leggi</E
+M>le meraviglie</E
+M>i segreti della n</E
+M>studio della n</E
+M>scienze della n</E
+M>scienze naturali</E
+M>Filosofia della n</E
+M>concezione idealistica</E
+M>spiritualistica</E
+M>panteistica</E
+M>meccanicistica</E
+M>materialistica</E
+M>organicistica</E
+M>teleologica della natura</E
+M>filosofia naturale</E
+M>assecondare la n</E
+M>fare violenza alla n</E
+M>vivere secondo n</E
+M>natura</E
+M>contro n</E
+M>peccare</E
+M>peccati contro n</E
+M>diritto di n</E
+M>naturale</E
+M>spirito</E
+M>libertà</E
+M>personalità</E
+M>la lotta dell’uomo contro la n</E
+M>contro le forze</E
+M>contro le forze avverse</E
+M>della natura</E
+M>allo stato di n</E
+M>stato di n</E
+M>natura</E
+M>cultura</E
+M>lasciar fare alla n</E
+M>dove manca n</E
+M>arte procura</E
+M>la protezione</E
+M>la difesa</E
+M>la conservazione della n</E
+M>Ritorno alla n</E
+M>l’arte fu definita dagli antichi imitazione della natura</E
+M>morta</E
+M>nature morte</E
+M>esposizione di n</E
+M>morte fiamminghe</E
+M>possedere una n</E
+M>morta di Morandi</E
+M>viva</E
+M>vivere in mezzo alla n</E
+M>ricrearsi a contatto della n</E
+M>senso della n</E
+M>la n</E
+M>selvaggia</E
+M>orrida</E
+M>dolce</E
+M>intatta</E
+M>incontaminata di un luogo</E
+M>è nella n</E
+M>dell’uomo</E
+M>la n</E
+M>umana è fatta così</E
+M>integra</E
+M>decaduta</E
+M>riparata</E
+M>un uomo di n</E
+M>mite</E
+M>pacifica</E
+M>socievole</E
+M>esuberante</E
+M>violenta</E
+M>maligna</E
+M>indolente</E
+M>ciò è contrario</E
+M>estraneo alla sua n</E
+M>non è nella mia n</E
+M>serbare rancore</E
+M>seguire la propria n</E
+M>il rispetto per l’ordine</E
+M>il disordine</E
+M>l’indolenza</E
+M>è per lui una seconda n</E
+M>Uso e n</E
+M>sì la privilegia</E
+M>Che</E
+M>Sola va dritta e ’l mal cammin dispregia</E
+M>una n</E
+M>nobile</E
+M>generosa</E
+M>fiera</E
+M>ardente</E
+M>macchinazione ordita da una n</E
+M>diabolica</E
+M>sono versi che rivelano una n</E
+M>profondamente malinconica</E
+M>Ne l’ordine ch’io dico sono accline Tutte nature</E
+M>la n</E
+M>aggressiva delle bestie feroci</E
+M>le volpi hanno notoriamente una n</E
+M>guardinga e astuta</E
+M>è un purosangue difficile da montare</E
+M>perché ha una n</E
+M>focosa e bizzarra</E
+M>la n</E
+M>del ferro</E
+M>dell’argento</E
+M>l’oro è duttile per sua n</E
+M>una situazione assurda per sua stessa n</E
+M>esempî di varia n</E
+M>è nella n</E
+M>della filosofia la ricerca della verità</E
+M>è nella n</E
+M>delle cose che</E
+M>sono argomenti</E
+M>questi</E
+M>di tutt’altra natura</E
+M>per natura</E
+M>di natura</E
+M>buono</E
+M>cortese per n</E
+M>è di n</E
+M>ambizioso</E
+M>lunghe per n</E
+M>lunghe per posizione</E
+M>da natura</E
+M>Una petra è sì ardita Là per l’indico mar</E
+M>che da natura Tragge a sé il ferro</E
+M>In natura</E
+M>in denaro</E
+M>risparmio in n</E
+M>salario in n</E
+M>scambio in n</E
+M>in natura</E
+M>il minerale di mercurio più abbondante in n</E
+M>è il cinabro</E
+M>non si trova in n</E
+M>un animale più mansueto</E
+M>non c’è in n</E
+M>cosa migliore di questa</E
+M>la n</E
+M>con quella sua naturaccia</E
+M>non potrà certo accogliermi bene</E

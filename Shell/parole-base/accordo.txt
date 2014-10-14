@@ -1,0 +1,182 @@
+accordo.txt
+"(essere) d'accordo"
+"(essere) d'accordo su"
+"accordo"
+"accordo"
+"accordo"
+"accordo"
+"accordo collaterale"
+"accordo commerciale"
+"accordo commerciale"
+"accordo di divorzio"
+"accordo di pagamento"
+"accordo di programma"
+"accordo di sicurezza"
+"accordo di vendita"
+"accordo fiduciario"
+"accordo formale"
+"accordo generale"
+"accordo generale"
+"accordo generale"
+"accordo in forma semplificata"
+"accordo informale"
+"accordo internazionale"
+"accordo leale"
+"accordo legale"
+"accordo legale"
+"accordo maggiore"
+"accordo minore"
+"accordo privato"
+"accordo quadro"
+"accordo totale"
+"accordo universale"
+"accordo verbale"
+"accordo vincolante"
+"andare d'accordo"
+"andare d'accordo"
+"andare d'accordo"
+"andare d'accordo con"
+"andare d'accordo con qcn."
+"andare d'accordo con qcn."
+"andare d'accordo con qcn."
+"andare d'accordo con qcn.; lavorare bene con qcn."
+"appoggiare a parole qcs, essere d'accordo a parole con qcs"
+"arrivare ad un accordo"
+"arrivare ad un accordo"
+"arrivare ad un accordo con"
+"che disapprova, che non è d'accordo"
+"come d'accordo"
+"con l'accordo che"
+"conseguire un accordo"
+"convenire di non essere d'accordo"
+"d'accordo"
+"d'accordo"
+"d'accordo"
+"d'accordo"
+"d'accordo!"
+"di comune accordo"
+"di concerto, di comune accordo"
+"essere amico di; andare d'accordo con qcn."
+"essere d'accordo"
+"essere d'accordo"
+"essere d'accordo"
+"essere d'accordo"
+"essere d'accordo"
+"essere d'accordo"
+"essere d'accordo con"
+"essere d'accordo con"
+"essere d'accordo con qcn."
+"essere d'accordo con qn"
+"essere d'accordo in linea generale"
+"essere d'accordo su tutto"
+"essere d'accordo sul fatto che, concordare che"
+"essere perfettamente d'accordo con"
+"fare un accordo"
+"giungere ad un accordo"
+"imposta cedolare d'accordo"
+"in accordo"
+"in accordo"
+"in accordo"
+"l'andare d'accordo con qcn."
+"mancanza di accordo"
+"mettere d'accordo"
+"mettere d'accordo"
+"mettere in accordo"
+"mettersi d'accordo"
+"mettersi d'accordo"
+"mettersi d'accordo per"
+"mutuo accordo"
+"non andare d'accordo"
+"non essere d'accordo"
+"non essere d'accordo"
+"non essere d'accordo con"
+"non essere d'accordo con"
+"non essere d'accordo con, non andare d'accordo con"
+"non essere in accordo con qualcosa"
+"patteggiare, contrattare un accordo in una causa legale"
+"permettersi di non essere d'accordo"
+"previo accordo"
+"principi di un accordo"
+"raggiungere un accordo"
+"restare fermo sul prezzo, restare fermo su un accordo"
+#* ''in perfetto 
+#* '''''accordi''' dissonanti''
+#* ''
+*[[concordia]], [[consenso]], [[consonanza]], [[intesa]], [[sintonia]], [[comprensione]], [[affiatamento]], [[collaborazione]], [[corrispondenza]], [[assonanza]], [[compromesso]], [[armonizzazione]], [[conformità]], [[complicità]], [[favoreggiamento]], [[coesione]],  [[accomodamento]], [[conciliazione]], [[soluzione]], [[armonia]] 
+*[[intesa]], [[patto]], [[concordato]], [[alleanza]], [[coalizione]]
+*''(di colori)'' [[armonia]], [[armonizzazione]]
+*[[discordia]], [[disaccordo]], [[dissenso]], [[contrasto]]
+M>c’è stato sempre fra loro un buon a</E
+M>essere in buon a</E
+M>buon a</E
+M>fra marito e moglie</E
+M>fra suocera e nuora</E
+M>andare</E
+M>essere d’a</E
+M>siamo d’a</E
+M>in tutto e per tutto</E
+M>andare d’amore e d’a</E
+M>andare d’a</E
+M>come cani e gatti</E
+M>fare un a</E
+M>mettersi</E
+M>restare</E
+M>rimanere</E
+M>trovarsi d’a</E
+M>venire addivenire a un a</E
+M>prendere una decisione di comune a</E
+M>di pieno a</E
+M>è già un a</E
+M>tra noi</E
+M>non c</E
+M>è stato tra loro nessun a</E
+M>preventivo</E
+M>ne sono certo</E
+M>allora</E
+M>siamo d’a</E
+M>restiamo dunque d’a</E
+M>così</E
+M>d’accordo</E
+M>Allora</E
+M>ci vediamo domattina alle nove</E
+M>accordo!</E
+M>d’accordissimo</E
+M>d’accordo</E
+M>d’accordissimo!</E
+M>criminoso</E
+M>delle parti</E
+M>fra le parti</E
+M>trattare</E
+M>concludere</E
+M>ratificare</E
+M>perfezionare un a</E
+M>rispettare gli a</E
+M>politico</E
+M>sindacale</E
+M>contrattuale</E
+M>programmatico</E
+M>fare un a</E
+M>monetario</E
+M>interbancario</E
+M>interconfederale</E
+M>italo</E
+M>svizzero</E
+M>un a</E
+M>culturale italo</E
+M>austriaco</E
+M>concordanza</E
+M>quando i soggetti sono più d’uno e di genere diverso</E
+M>l’a</E
+M>del predicato si fa di solito al maschile plurale</E
+M>do maggiore</E
+M>sol</E
+M>sol</E
+M>maggiori</E
+M>minori</E
+M>aumentati</E
+M>diminuiti</E
+M>sintonia</E
+M>allineamento</E
+M>di fase</E
+M>lira da gamba</E
+M>lirone</E

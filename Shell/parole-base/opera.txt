@@ -1,0 +1,336 @@
+opera.txt
+"ad opera di"
+"all'opera"
+"apertura dell'opera"
+"starting of an opera"
+"avviso di opera protetta da diritto d'autore"
+"bolla di lavorazione di mano d'opera"
+"festival dell'opera"
+"opera festival"
+"grande opera"
+"installazione  e posa in opera"
+"l'opera, le opere"
+"messa in opera"
+"mettere in opera"
+"mettere qualcuno all'opera"
+"mettersi al lavoro, mettersi all'opera"
+"opera"
+"opera"
+"opera"
+"opera"
+"opera"
+"opera buffa"
+"comic opera"
+"opera buona"
+"opera d'arte"
+"opera d'arte"
+"opera d'arte"
+"opera d'arte"
+"opera d'arte"
+"opera d'arte"
+"opera da camera"
+"chamber opera"
+"opera di sensibilizzazione"
+"opera incompiuta"
+"opera infrastrutturale"
+"opera leggera"
+"light opera"
+"opera lirica"
+"grand opera"
+"opera narrativa"
+"opera omnia"
+"opera omnia"
+"opera omnia"
+"opera poetica"
+"opera prima"
+"per opera di"
+"posa in opera"
+"posa in opera di doppi vetri"
+"ruolo del personaggio che dà il titolo all'opera"
+* [[attività]], [[prestazione]]; [[lavoro]], attività lavorativa; [[azione]], [[iniziativa]], [[impresa]], [[impegno]], [[fatica]]; [[operato]], [[risultato]], [[prodotto]], [[frutto]]
+*[[costruzione]], [[realizzazione]]
+* prodotto artistico, [[capolavoro]], [[componimento]], [[composizione]]; [[scritto]], [[libro]]; [[quadro]], [[tela]]; [[monumento]], [[statua]], [[scultura]]
+* ente assistenziale, [[fondazione]]
+* (di tessuto) [[motivo]], motivo decorativo
+* ''(risultato di un'attività)'' [[mezzo]], [[aiuto]], [[servigi]]
+* ''(istituti proposti a beneficenza)'' [[fabbriceria]] ,[[istituzione]], [[istituto]], [[ente]]
+* ''(opera lirica)'' [[grand opera]], [[opera buffa]], [[opera house]], [[opera seria]], [[operatic]], [[operetta]], [[opéra comique]], [[aria]], [[balletto]], [[masque]], [[melodramma]], [[commedia musicale]], [[recitativo]], [[singspiel]]
+* ''(lavoro o prodotto di attività svolte dall'uomo)'' [[manodopera]], [[operaio]], [[operare]], [[operetta]], [[operista]], [[operoso]]
+* [[operowy]], [[operetka]]
+* italiano
+* latino
+*polacco
+M>opus op</E
+M>ris</E
+M>azione</E
+M>lavoro</E
+M>l’o</E
+M>dell’uomo</E
+M>l’o</E
+M>creatrice di Dio</E
+M>non basterebbe l’o</E
+M>di cento operai</E
+M>ci vorrebbe l’o</E
+M>d’un chirurgo</E
+M>d’un meccanico</E
+M>bisogna lasciare che il tempo compia l’o</E
+M>sua</E
+M>l’o</E
+M>degli agenti atmosferici</E
+M>dei venti</E
+M> delle acque</E
+M>l’o</E
+M>delle macchine</E
+M>opere di mano</E
+M>manuali</E
+M>intellettuali</E
+M>d’ingegno</E
+M>di scalpello</E
+M>di bulino</E
+M>di cesello</E
+M>d’intarsio</E
+M>è un’o</E
+M>di pazienza</E
+M>tentare d’insegnargli qualcosa è o</E
+M>perduta</E
+M>fare o</E
+M>diligente</E
+M>assidua</E
+M>benefica</E
+M>utile</E
+M>preziosa</E
+M>efficace</E
+M>inutile</E
+M>vana</E
+M>accingersi</E
+M>mettersi all’o</E
+M>via</E
+M>mettiamoci all’o</E
+M>all’o</E
+M>mettere uno all’o</E
+M>essere all’o</E
+M>alle sei di mattina io sono di solito già all’o</E
+M>prestare gratuitamente la propria o</E
+M>a favore dei sinistrati</E
+M>valersi dell’o</E
+M>di un assistente</E
+M>di un collaboratore</E
+M>dare o</E
+M>a qualche cosa</E
+M>continuare l’o</E
+M>intrapresa</E
+M>compire</E
+M>coronare l’o</E
+M>compimento</E
+M>coronamento dell’o</E
+M>opera</E
+M>chi ben comincia è alla metà dell’opera</E
+M>Così piena e compita Avrò l’opra che vuol da me natura</E
+M>opera</E
+M>l’o</E
+M>di civilizzazione</E
+M>l’o</E
+M>di prosciugamento delle paludi</E
+M>l’o</E
+M>di demolizione dei quartieri vecchi</E
+M>grande o</E
+M>grande arte</E
+M>Sospira e suda a l’opera Vulcano</E
+M>Per rinfrescar l’aspre saette a Giove</E
+M>Allor che all’opre femminili intenta Sedevi</E
+M>servili</E
+M>venuta l’ora della cena e costoro</E
+M>avendo lasciata opera e giù nella corte discesi</E
+M>Allora sorge il fabbro</E
+M>e la sonante Officina riapre</E
+M>e all’opre torna L’altro dì non perfette</E
+M>s’affretta</E
+M>e s’adopra Di fornir l’opra anzi il chiarir dell’alba</E
+M>l’o</E
+M>e il capitale</E
+M>locazione</E
+M>prestazione d’o</E
+M>mano d’o</E
+M>andare</E
+M>essere</E
+M>stare a opera</E
+M>prendere lavoratori a opera</E
+M>in questa settimana ho fatto solo due opere</E
+M>opra</E
+M>assumere nuove o</E
+M>per la trebbiatura</E
+M>pagare le o</E
+M>la quercia</E
+M>assai vissuta</E
+M>Fu scalzata da molte opre</E
+M>e fu svelta</E
+M>chi ha quattrini</E
+M>danar</E
+M>da buttar via</E
+M>metta l’opre e non ci stia</E
+M>Renzo</E
+M>aiutava il suo ospite</E
+M>per il quale era una gran fortuna l’aver in tal tempo spesso al suo comando un’opera</E
+M>e un’opera di quell’abilità</E
+M>Dall’alma origin sono Han le lodevol’opre</E
+M>fare o</E
+M>di persuasione</E
+M>buone</E
+M>meritorie</E
+M>opere di beneficenza</E
+M>santa</E
+M>faresti un’o</E
+M>santa ad aiutarmi</E
+M>se mi lasciaste un po’ in pace</E
+M>fareste o</E
+M>santa</E
+M>opere di misericordia</E
+M>di carità</E
+M>peccare in pensieri</E
+M>parole</E
+M>opere e omissioni</E
+M>in teoria tutto è facile</E
+M>ma vorrei vederti all’opera</E
+M>aiutare</E
+M>giovare col consiglio e con l’opera</E
+M>l’o</E
+M>sta pur così</E
+M>comunque vada l’opera</E
+M>per opera di</E
+M>ha ottenuto il posto per o</E
+M>di amici influenti</E
+M>per o</E
+M>mia</E
+M>sua</E
+M>loro</E
+M>Gesù Cristo fu concepito per o</E
+M>dello Spirito Santo</E
+M>a opera di</E
+M>con opera di</E
+M>Mettere in opera</E
+M>mettere in o</E
+M>un disegno</E
+M>un proposito</E
+M>mettere in o</E
+M>il cervello</E
+M>l’immaginazione</E
+M>mettere in o</E
+M>lusinghe</E
+M>cavilli</E
+M>mise in o</E
+M>tutta la sua eloquenza</E
+M>la sua astuzia</E
+M>mettere in o</E
+M>la messa in o</E
+M>un motore</E
+M>una pompa</E
+M>uno scaldabagno</E
+M>legname da opera</E
+M>tutte le meraviglie del creato sono opera di Dio</E
+M>le grandi invenzioni sono opera del genio dell’uomo</E
+M>la buona riuscita è per lo più o</E
+M>del caso</E
+M>della fortuna</E
+M>capì che la burla era o</E
+M>dei suoi compagni</E
+M>è o</E
+M>tua se mi trovo nei pasticci</E
+M>verrebbe da pensare che questo contrattempo sia proprio o</E
+M>del demonio</E
+M>è o</E
+M>dei topi</E
+M>delle piogge</E
+M>dell’umidità</E
+M>di bonifica</E
+M>idraulica</E
+M>di irrigazione</E
+M>di consolidamento</E
+M>portuali</E
+M>opere d’arte</E
+M>pubbliche</E
+M>militari</E
+M>di fortificazione</E
+M>fortificate</E
+M>opere</E
+M>difensive</E
+M>un’o</E
+M>in muratura</E
+M>in cemento armato</E
+M>fervore di o</E
+M>nuove</E
+M>imponenti</E
+M>superbe</E
+M>Capo d’opera</E
+M>capolavoro</E
+M>opera</E
+M>opus</E
+M>laterizia</E
+M>incerta</E
+M>quadrata</E
+M>ciclopica</E
+M>mura ciclopiche</E
+M>opere dell’ingegno</E
+M>letterarie</E
+M>storica</E
+M>critica</E
+M>filosofica</E
+M>scientifica</E
+M>opere d’arte</E
+M>musicali</E
+M>Quel ch’io vi debbo</E
+M>posso di parole Pagare in parte e d’opera d’inchiostro</E
+M>le o</E
+M>di Dante</E
+M>di Michelangelo</E
+M>l’opera di Beethoven</E
+M>è un’o</E
+M>attribuita al Giorgione</E
+M>l’ultima o</E
+M>del Bernini</E
+M>è un’o</E
+M>perfetta</E
+M>mediocre</E
+M>di scarso valore</E
+M>libro</E
+M>un’o</E
+M>in due</E
+M>in tre volumi</E
+M>edite e inedite del Leopardi</E
+M>complete</E
+M>scelte di un autore</E
+M>postuma</E
+M>in musica</E
+M>opera</E
+M>melodramma</E
+M>libretto</E
+M>seria</E
+M>buffa</E
+M>semiseria</E
+M>grand opéra</E
+M>Gli Ugonotti</E
+M>Don Carlos</E
+M>da camera</E
+M>scrivere</E
+M>comporre un’o</E
+M>libretto d’o</E
+M>Teatro dell’O</E
+M>abbonamento all’o</E
+M>andare all’O</E
+M>il programma dell’O</E
+M>l’inaugurazione della stagione dell’O</E
+M>l’orchestra stabile dell’O</E
+M>il corpo di ballo dell’Opera</E
+M>viva</E
+M>morta</E
+M>stoffa</E
+M>tessuto a opera</E
+M>con o</E
+M>senza o</E
+M>tessuto operato</E
+M>Universitaria</E
+M>Pie</E
+M>istituzioni pubbliche di assistenza e beneficenza</E
+M>Opere pontificie</E
+M>nazionale per gli invalidi di guerra</E
+M>l’O</E
+M>del duomo</E

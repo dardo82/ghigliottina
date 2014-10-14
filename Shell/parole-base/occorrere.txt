@@ -1,0 +1,38 @@
+occorrere.txt
+"occorrere"
+"occorrere"
+*[[servire]], [[accadere]], [[necessitare]], [[abbisognare]], [[bisognare]], [[essere necessario]], [[aver bisogno di]]
+*[[occorrente]], [[occorrenza]]
+M>occurr</E
+M>curr</E
+M>correre</E
+M>essere</E
+M>Nel lucente vestibolo di quella Felice casa un vecchio al duca occorre</E
+M>occorsagli una nuova malizia</E
+M>Oh come grato occorre</E
+M>Il rimembrar delle passate cose Ancor che triste</E
+M>nella terza apritura del messale occorse quella parola che Cristo disse</E
+M>Fior</E
+M>di s</E
+M>Franc</E
+M>speriamo che non gli occorra qualche incidente</E
+M>m’è occorso più volte di doverne parlare</E
+M>mi narrò un fatto occorsogli mentre era in viaggio</E
+M>la ragione la vedo adesso dopo tutto quello che m’è occorso</E
+M>per arrivare occorsero più di due ore di cammino</E
+M>è un’impresa per cui occorrerebbero grandi capitali</E
+M>ti occorre nulla?</E
+M>ho capito</E
+M>non occorre altro</E
+M>occorre sbrigarsi</E
+M>non occorre che vi incomodiate</E
+M>occorre agire con molta prudenza</E
+M>se occorre</E
+M>bisogna tentare ogni mezzo</E
+M>occorrendo</E
+M>ricòrdati che sono qua io</E
+M>grazie</E
+M>non occorre!</E
+M>occorrendo</E
+M>al bisogno</E
+M>Cronica delle cose occorrenti ne’ tempi suoi</E

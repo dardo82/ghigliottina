@@ -1,0 +1,33 @@
+spigolo.txt
+"spigolo"
+"spigolo vivo"
+"tetto a spigolo"
+*[[angolo]]
+*[[smussatura]], [[curva]]
+* [[spigoloso]], [[spigolosità]]
+* [[cantone]]
+M>spic</E
+M>lum</E
+M>spica</E
+M>s. del poliedro</E
+M>s. dell&#8217;angoloide</E
+M>s. del diedro</E
+M>lati</E
+M>s. di un tavolo</E
+M>di una cassa</E
+M>di un mobile</E
+M>s. di una parete</E
+M>di un palazzo</E
+M>urtare</E
+M>battere in</E
+M>contro</E
+M>uno s.</E
+M>smussare gli s.</E
+M>s. vivo</E
+M>un volto tutto spigoli</E
+M>morso</E
+M>carena a s.</E
+M>carena slittante</E
+M>smussare gli s. del proprio carattere</E
+M>un uomo tutto spigoli</E
+M>smussare gli s. tra due persone</E

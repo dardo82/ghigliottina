@@ -1,0 +1,50 @@
+matematico.txt
+"equivalente matematico"
+"insieme matematico"
+"limite matematico"
+"matematico"
+"matematico"
+"matematico"
+"prodotto matematico"
+"punto matematico"
+"titolo di studio classico e matematico"
+*[[indiscutibile]]
+*[[fisico-matematico]]
+*[[matematica]], [[matematicamente]]
+M>mathemat</E
+M>cus</E
+M>ragionamenti</E
+M>calcoli m</E
+M>dimostrazione</E
+M>prova m</E
+M>astrazioni m</E
+M>simboli m</E
+M>teorie</E
+M>discipline</E
+M>arti</E
+M>scienze m</E
+M>speculazione m</E
+M>pensiero m</E
+M>analisi matematica</E
+M>linguistica m</E
+M>linguistica quantitativa</E
+M>statistica</E
+M>computazionale</E
+M>fisica m</E
+M>economia matematica</E
+M>ragionamento m</E
+M>dimostrazione m</E
+M>parlare con rigore m</E
+M>calcolare con esattezza</E
+M>con precisione matematica</E
+M>avere la certezza m</E
+M>di qualche cosa</E
+M>questo è m</E
+M>è matematico che</E
+M>un celebre m</E
+M>i matematici greci</E
+M>dimostrare</E
+M> risultare matematicamente</E
+M>un calcolo matematicamente preciso</E
+M>essere matematicamente certo</E
+M>sicuro</E

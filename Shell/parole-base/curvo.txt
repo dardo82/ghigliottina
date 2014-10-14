@@ -1,0 +1,16 @@
+curvo.txt
+"curvo"
+"curvo"
+"curvo"
+* araldica
+* araldica
+M>curvus</E
+M>linee c</E
+M>superficie c</E
+M>a profilo c</E
+M>avere le spalle c</E
+M>camminare curvo</E
+M>stare c</E
+M>sui libri</E
+M>stare c</E
+M>ad ascoltare</E

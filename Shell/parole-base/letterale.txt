@@ -1,0 +1,32 @@
+letterale.txt
+"letterale"
+"letterale"
+"significato letterale"
+"traduzione letterale"
+*[[testuale]]
+*[[preciso]], [[esatto]], parola per parola, [[fedele]], [[proprio]], [[formale]]
+*[[figurato]], [[metaforico]], [[allegorico]]
+*[[approssimativo]], [[approssimato]]
+*[[lettera]], [[letteralmente]], [[letteralità]]
+M>litteralis</E
+M>spirito</E
+M>senso</E
+M>interpretazione l</E
+M>di una frase</E
+M>di un’espressione</E
+M>questa è la litterale esposizione de la prima parte</E
+M>parla sotto due sensi: l’uno letterale</E
+M> l’altro allegorico</E
+M>interpretazione l</E
+M>della legge</E
+M>traduzione l</E
+M>scarto l</E
+M>scarto sillabico</E
+M>dislalìa l</E
+M>dislalìa sillabica</E
+M>calcolo l</E
+M>espressione l</E
+M>interpretare</E
+M>tradurre letteralmente</E
+M>sono letteralmente sfinito</E
+M>la sala era letteralmente gremita di gente</E

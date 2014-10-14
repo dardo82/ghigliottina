@@ -1,0 +1,36 @@
+battito.txt
+"battito"
+"battito"
+"battito"
+"motori: battito in testa"
+"battito cardiaco"
+"battito cardiaco"
+"battito cardiaco"
+"battito di cuore"
+"battito sordo"
+"da battito cardiaco"
+"un battito di ciglia"
+*[[colpo]], [[tocco]], [[rintocco]], [[ticchettio]]
+*[[pulsazione]], [[palpitazione]], [[palpito]], [[batticuore]], [[fremito]], [[polso]]
+*''(di direttore d’orchestra)'' [[bacchetta]]
+M>battere</E
+M>gemito</E
+M>tremito</E
+M>il b</E
+M>del polso diventava sempre più frequente</E
+M>non riuscivo a reprimere i violenti b</E
+M>del cuore</E
+M> uno a uno sentì quasi tutti i sintomi descritti dal dottore ... : il b. vagante della carne</E
+M> improvvisi formicolii sotto la pelle</E
+M> un groviglio di rospi e serpenti nello stomaco</E
+M>un b</E
+M>di ali</E
+M>il b</E
+M>delle palpebre</E
+M>delle ciglia</E
+M>il b</E
+M>dell’orologio</E
+M>il b</E
+M>della morte</E
+M>bacchetta</E
+M>beat</E

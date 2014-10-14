@@ -1,0 +1,47 @@
+crudele.txt
+"crudele"
+"crudele"
+"crudele"
+"dal cuore duro, crudele"
+"dal cuore duro, crudele"
+"punizione crudele e fuori dal comune"
+"uomo crudele"
+*(di animo, azione, delitto) [[duro]], [[spietato]], [[disumano]], [[insensibile]], [[malvagio]], [[feroce]], [[brutale]], [[atroce]], [[barbaro]], [[empio]], [[efferato]]
+*(di destino, caso) [[doloroso]], [[penoso]], [[tormentoso]], [[amaro]], [[acerbo]], [[inesorabile]], [[terribile]], [[avverso]], [[calamitoso]], [[infausto]]
+*(di animo, azione, delitto) [[buono]], [[dolce]], [[umano]], [[comprensivo]], [[sensibile]]
+* (di destino, caso) [[felice]], [[generoso]], [[favorevole]], [[propizio]]
+*[[crudelmente]], [[crudeltà]]
+*[[crudezza]], [[crudo]]
+M>crudelis</E
+M>crudus</E
+M>uomo c</E
+M>il c</E
+M>tiranno</E
+M>essere c</E
+M>nel punire</E
+M>nel vendicarsi</E
+M>sei stato c</E
+M>a parlargli così</E
+M>animo c</E
+M>cuore c</E
+M>la tigre c</E
+M>che le aveva sbranato il figlio</E
+M>Cerbero</E
+M>fiera c</E
+M>e diversa</E
+M>destino c</E
+M>il caso c</E
+M>vendetta c</E
+M>una c</E
+M>strage</E
+M>supplizio c</E
+M>morire tra c</E
+M>tormenti</E
+M>rivolgere c</E
+M>parole</E
+M> quando scrive</E
+M> detesta la c. precisione</E
+M> che fissa i gesti e i profili</E
+M>torturare crudelmente</E
+M>vendicarsi crudelmente di qualcuno</E
+M>picchiare crudelmente un bambino</E

@@ -1,0 +1,23 @@
+traghetto.txt
+"biglietto per il traghetto"
+"prendere il traghetto"
+"traghetto"
+"traghetto per auto"
+M>una chiatta addetta al t. di veicoli e persone attraverso il canale</E
+M>durante il t. si può fare una rapida colazione a bordo</E
+M>il t. è un po&#8217; più a valle</E
+M>imbarcarsi</E
+M> salire sul t.</E
+M>t. a fune</E
+M>nave traghetto</E
+M>navi traghetto</E
+M>traghetto</E
+M>traghetti</E
+M>ferry-boat</E
+M>imbarcarsi sul t. per la Sardegna</E
+M>nave biprora</E
+M>a scafo anfidromo</E
+M>astronave traghetto</E
+M>navetta</E
+M>shuttle</E
+M>T. passa-pesce</E

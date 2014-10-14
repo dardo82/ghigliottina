@@ -1,0 +1,104 @@
+spingere.txt
+"forzare per fare approvare, spingere"
+"pestare, spingere il piede su"
+"spingere"
+"spingere"
+"spingere"
+"spingere"
+"spingere"
+"spingere a sé"
+"spingere all'azione"
+"spingere all'estremo"
+"spingere da parte"
+"spingere dentro"
+"spingere dentro"
+"spingere fuori"
+"spingere fuori"
+"spingere giù"
+"spingere in alto"
+"spingere in fuori, allungare di colpo"
+"spingere in su"
+"spingere indietro"
+"spingere leggermente"
+"spingere lievemente"
+"spingere qn a"
+"spingere qualcuno (sulla sedia a rotelle, sulla bicicletta, etc.)"
+"spingere sul gas"
+"spingere una barca al largo"
+"spingere, urtare"
+#* '''''ho spinto''' il carretto fino alla rimessa''
+#* '''''spingere''' la porta per aprire''
+#* ''mi '''hanno spinto''' e son caduto''
+#* ''non voleva partecipare ma l''''hanno spinta''' a giocare lo stesso''
+#* ''Ieri sera abbiamo '''spinto''' ! ''
+#* ''Stasera '''spingiamo''' ? ''
+#* ''Domani andiamo a '''spingere''' a Las Vegas ! ''
+#* ''il capoufficio '''sta spingendo''' per farmi ottenere il trasferimento''
+*[[muovere]], [[spostare]], [[pressare]], [[premere]], [[calcare]], [[schiacciare]], [[pigiare]], [[urtare]], [[accelerare]], [[affrettare]], [[allontanare]]
+*fare ressa, dare spinte, [[spintonare]]
+*[[consigliare]], [[persuadere]], [[incoraggiare]], [[stimolare]], [[spronare]], [[esortare]], [[incalzare]], dare impulso, [[indurre]], [[sollecitare]], [[incitare]], [[istigare]], [[aizzare]], [[sobillare]], [[eccitare]], [[pungolare]]
+*[[sospingere]] 
+*fare pressione
+*[[respingere]],[[fermare]], [[bloccare]], [[arrestare]]
+*[[sconsigliare]], [[scoraggiare]], [[frenare]], [[trattenere]], [[dissuadere]]
+*[[spingersi]], [[respingere]], [[spinto]], [[spingimento]]
+* [[spignere]]
+M>*exping</E
+M>ex-</E
+M>pang</E
+M>io spingo</E
+M>tu spingi</E
+M>spinsi</E
+M>spingésti</E
+M>s. il carretto</E
+M>la macchina non parte</E
+M> bisogna spingerla fino alla discesa</E
+M>s. il tavolo verso la parete</E
+M>la tempesta spinse la nave sugli scogli</E
+M>la folla mi spingeva avanti</E
+M>indietro</E
+M>se il mio amico non mi avesse spinto prontamente da una parte</E
+M> l&#8217;autobus mi avrebbe investito</E
+M>si fece largo tra la folla spingendo</E
+M>smettila di s.!</E
+M>non c&#8217;è nessun bisogno di s.</E
+M>chi è che spinge?</E
+M>se la chiave non gira</E
+M> prova a spingerla più in fondo nella toppa</E
+M>altri spingevan la vanga come a stento</E
+M> e rovesciavano svogliatamente la zolla</E
+M>s. il pulsante</E
+M>il bottone di comando</E
+M>il grilletto</E
+M>premere</E
+M>s. a fondo l&#8217;acceleratore</E
+M>il freno</E
+M>s. le braccia in avanti</E
+M>il petto in fuori</E
+M>avere</E
+M>quando il fiume è in piena l&#8217;acqua spinge sugli argini</E
+M>la terra franata continuava a s. sui muri delle case minacciando di farle crollare</E
+M>spinge per fare assumere suo figlio</E
+M>s. lo sguardo lontano</E
+M>ha spinto le sue pretese fino a chiedere parecchie migliaia di euro di indennizzo</E
+M>mi sembra che spinga troppo oltre la sua audacia</E
+M>s. la macchina a folle velocità</E
+M>s. una persona alla disperazione</E
+M>il forte dissesto finanziario lo ha spinto al suicidio</E
+M>la necessità mi spinge a chiedergli aiuto</E
+M>è il bisogno che lo ha spinto a rubare</E
+M>è stato spinto a questi eccessi dall&#8217;ira</E
+M>se non fossi io a spingerlo</E
+M> lui non farebbe mai niente</E
+M>le sue aderenze politiche lo hanno spinto molto nella carriera.</E
+M>la spedizione si è spinta fin nell&#8217;interno della foresta</E
+M>si è spinto troppo nel bosco e si è sperduto</E
+M>si è spinto fino a chiedermi un ennesimo prestito</E
+M>la sua sfacciataggine si spinse fino a farmi delle proposte disoneste</E
+M>propulsivo</E
+M>traente</E
+M>trattiva</E
+M>un carretto spinto da due uomini</E
+M>rubò perché spinto dalla fame</E
+M>Me spinto ne la iniqua Stagione</E
+M>Tra il fango e tra l&#8217;obliqua Furia de&#8217; carri la città gir vede</E

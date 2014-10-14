@@ -1,0 +1,39 @@
+commozione.txt
+"commozione"
+"commozione"
+*[[intenerimento]], [[pietà]], [[turbamento]], [[emozione]], [[trasporto]], [[partecipazione]], [[coinvolgimento]]
+*[[freddezza]], [[distacco]], [[indifferenza]], [[impassibilità]]
+M>commotio</E
+M>onis</E
+M>commov</E
+M>commotus</E
+M>viva</E
+M>profonda</E
+M>sincera</E
+M>finta</E
+M>muovere</E
+M>destare</E
+M>suscitare</E
+M>provare</E
+M>sentire c</E
+M>esser facile alla c</E
+M>farsi prendere</E
+M>farsi sorprendere dalla c</E
+M>nascondere la propria c</E
+M>parlò fra la c</E
+M>generale</E
+M>infestato dalle c</E
+M>degli elementi in ogni dove</E
+M>si formavan nel mezzo del fiume</E
+M>a valle</E
+M>strane c</E
+M>dell’acqua</E
+M>che ribolliva e saltava</E
+M>come se volesse levarsi</E
+M>le procelle rivoluzionarie e le c</E
+M>popolari</E
+M>cerebrale</E
+M>encefalica</E
+M>spinale</E
+M>testicolare</E
+M>renale</E

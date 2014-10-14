@@ -1,0 +1,103 @@
+peggio.txt
+"al peggio non c'è mai fine"
+"al peggio non c'è mai fine!"
+"alla peggio"
+"andare di male in peggio"
+"continuare a peggiorare"
+"aver superato il peggio"
+"avere la peggio"
+"C'è di peggio"
+"di male in peggio"
+"fallire; avere la peggio"
+"il peggio"
+"la toppa è peggio del buco"
+"peggio"
+"in maniera peggiore"
+"peggio"
+"peggiore"
+"peggio"
+"la cosa peggiore"
+"peggiorare, andare sempre peggio"
+"prepararsi al peggio"
+"sempre peggio"
+"si stava meglio quando si stava peggio."
+"tanto meglio\/peggio!"
+"tanto peggio"
+#*'' mi è capitato  qualcosa di 
+* in modo peggiore, meno chiaramente, meno distintamente
+*[[peggiore]], meno opportuno, meno preferibile, cosa peggiore, parte peggiore
+*[[meglio]], [[più]], [[migliore]], [[preferibile]]
+*''alla meno peggio''
+M>ius</E
+M>peior</E
+M>ioris</E
+M>male</E
+M>mi sento p</E
+M>non poteva finire p</E
+M>di così</E
+M>lo tratta p</E
+M>di una bestia</E
+M>se lo rimproveri lui fa p</E
+M>mutarsi in peggio</E
+M>m&#8217;è sembrato p</E
+M>disposto</E
+M>dell&#8217;altra volta</E
+M>le opere p</E
+M>riuscite</E
+M>stare p</E
+M>sembrava sul punto di guarire</E
+M>ma oggi sta p</E
+M>è gente che sta p</E
+M>di noi</E
+M>Andare p</E
+M>quest&#8217;anno a scuola va peggio</E
+M>il raccolto va peggio dell&#8217;anno scorso</E
+M>andare di male in p</E
+M>tanto p</E
+M>per lui!</E
+M>peggio che andar di notte</E
+M>peggiore</E
+M>peggiori</E
+M>essere</E
+M>parere</E
+M>sembrare</E
+M>oggi il tempo è p</E
+M>di ieri</E
+M>questa qualità mi sembra p</E
+M>dell&#8217;altra</E
+M>contraddirlo è peggio</E
+M>avvenne qualche cosa di p</E
+M>c&#8217;è di p</E
+M>non c&#8217;è di p</E
+M>che sentirsi tradito</E
+M>ho cavato altri da p</E
+M>imbrogli</E
+M>è uscito con le p</E
+M>scarpe che aveva</E
+M>è la p</E
+M>decisione che tu possa prendere</E
+M>il peggio</E
+M>il p</E
+M>è che son rimasto senza un soldo</E
+M>questo è il p</E
+M>che mi potesse capitare</E
+M>temo che le cose si mettano per il p</E
+M>il tempo si mette al p</E
+M>non bisogna pensare al p</E
+M>il p</E
+M>non è mai morto</E
+M>il meno p</E
+M>seguire una politica del meno p</E
+M>la peggio</E
+M>avere la p</E
+M>sorte</E
+M>sono venuti alle mani e i nostri hanno avuto la peggio</E
+M>alla peggio</E
+M>alla p</E
+M>mi adatterò a dormire su una brandina</E
+M>voglio tentare la sorte</E
+M>alla p</E
+M>ci rimetterò poche decine di euro</E
+M>lavoro fatto alla p</E
+M>alla meno p</E
+M>lavoro fatto alla meglio</E

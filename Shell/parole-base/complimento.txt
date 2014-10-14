@@ -1,0 +1,5 @@
+complimento.txt
+"complimento"
+"complimento, replace: complimenti"
+"grazie del complimento"
+*[[congratulazione]], [[rallegramento]], [[elogio]], [[encomio]], [[lode]] 

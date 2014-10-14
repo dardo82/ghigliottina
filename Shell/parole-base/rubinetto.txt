@@ -1,0 +1,19 @@
+rubinetto.txt
+"acqua di rubinetto"
+"rubinetto"
+"rubinetto a galleggiante"
+*[[robinetto]]
+M>robinet</E
+M>Robin</E
+M>valvola</E
+M>il r</E
+M>dell&#8217;acqua</E
+M>del gas</E
+M>aprire</E
+M>chiudere</E
+M>regolare il rubinetto</E
+M>a valvola</E
+M>a spillo</E
+M>a richiusura automatica</E
+M>miscelatore</E
+M>a comando elettromagnetico</E

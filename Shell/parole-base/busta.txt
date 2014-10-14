@@ -1,0 +1,28 @@
+busta.txt
+"busta"
+"busta"
+"busta \"
+"busta da lettera"
+"busta dell'immondizia"
+"busta della spesa"
+"busta di allevamento"
+"busta paga"
+"fuori busta"
+"netto in busta"
+*''(per documenti)'' [[borsa]], [[cartella]], [[custodia]], [[guaina]] 
+*''(per occhiali)'' [[astuccio]], [[contenitore]]
+M>boiste</E
+M>boîte</E
+M>buxis</E
+M>dis</E
+M>buste per lettera</E
+M>la b</E
+M>dello stipendio</E
+M>paga</E
+M>a sacco</E
+M>pochette</E
+M>la b</E
+M>degli occhiali</E
+M>la b</E
+M>del violino</E
+M>Berretto a b</E

@@ -1,0 +1,19 @@
+spinacio.txt
+"Traduzione di spinacio/ non trovata.\nNo translation was found for spinacio/."
+M>aspan</E
+M>spina</E
+M>Spinacia oleracea</E
+M>spinaci all&#8217;agro</E
+M>al burro</E
+M>pollo lesso con contorno di spinaci</E
+M>s. selvatico</E
+M>di monte</E
+M>Chenopodium bonus-henricus</E
+M>s. fragola</E
+M>Chenopodium foliosum</E
+M>Ch. virgatum</E
+M>Blitum virgatum</E
+M>S. della Nuova Zelanda</E
+M>Tetragonia tetragonides</E
+M>T. expansa</E
+M>s. tirolese</E

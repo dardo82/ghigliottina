@@ -1,0 +1,14 @@
+frattanto.txt
+"frattanto"
+"frattanto, replace: frattanto che"
+"frattanto, nel frattempo, nel mentre"
+"frattanto, nel frattempo, nel mentre"
+*[[intanto]], nel [[frattempo]], nel [[contempo]], nel [[mentre]], [[contemporaneamente]]
+M>fra</E
+M>tanto</E
+M>finisci pure il tuo lavoro</E
+M>io scriverò questa lettera</E
+M>erano avvenute gravi cose</E
+M>e intanto</E
+M>e f</E
+M>noi siamo rovinati</E

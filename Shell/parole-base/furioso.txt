@@ -1,0 +1,45 @@
+furioso.txt
+"furioso"
+"furioso"
+"incendio furioso"
+"incendio furioso"
+#*'' un matto furioso''
+*[[furibondo]], [[violento]], [[impetuoso]]
+*[[furiosamente]]
+*italiano
+*spagnolo
+M>furiosus</E
+M>furia</E
+M>essere</E
+M>diventare furioso</E
+M>un uomo f</E
+M>pazzo f</E
+M>reparto furiosi</E
+M>un disperato che tiene corrispondenza co’ disperati più f</E
+M>Orlando F</E
+M>il Furioso</E
+M>un cavallo f</E
+M>un toro f</E
+M>gesti</E
+M>movimenti f</E
+M>un f</E
+M>discorso</E
+M>una corsa furiosa</E
+M>amore f</E
+M>smania f</E
+M>gelosia</E
+M>disperazione</E
+M>un vento f</E
+M>una f</E
+M>tempesta</E
+M>assalto</E
+M>combattimento furioso</E
+M>furia</E
+M>uomo f</E
+M>donna f</E
+M>temperamento furioso</E
+M>agitarsi</E
+M>gridare</E
+M>colpire</E
+M>combattere furiosamente</E
+M>il vento scuoteva furiosamente gli alberi</E

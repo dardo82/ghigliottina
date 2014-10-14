@@ -1,0 +1,39 @@
+figlia.txt
+"chiedere la mano della figlia"
+"figlia"
+"figlia"
+"figlia"
+"figlia"
+"figlia"
+"figlia adottiva"
+*[[figlio]]
+M>lia</E
+M>figlio</E
+M>mia f</E
+M>le tue f</E
+M>mio cugino aveva tre f</E
+M>e un figlio</E
+M>tre figlie femmine e un maschio</E
+M>ha una f</E
+M>di pochi mesi</E
+M>da marito</E
+M>povera f</E
+M>quanto deve aver sofferto!</E
+M>ascolta</E
+M>mia!</E
+M>bellissima e famosissima f</E
+M>di Roma</E
+M>Fiorenza</E
+M>la superbia è f</E
+M>dell’ignoranza</E
+M>bollettario</E
+M>a madre e figlia</E
+M>Figlie della Carità</E
+M>Figlie del Cuore di Maria</E
+M>Figlie del Divin Redentore</E
+M>Figlie di Maria Ausiliatrice</E
+M>Figlie di Maria</E
+M>di camera</E
+M>d’onore</E
+M>fille de chambre</E
+M>fille d’honneur</E

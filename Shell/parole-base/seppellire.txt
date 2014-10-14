@@ -1,0 +1,49 @@
+seppellire.txt
+"seppellire"
+"seppellire"
+"seppellire qualcuno"
+"seppellire vecchi rancori"
+*[[sotterrare]], [[interrare]], [[infossare]], [[inumare]], [[tumulare]]
+*(con terra, neve) [[coprire]]; [[nascondere]], tenere nascosto, [[imboscare]], [[insabbiare]], [[imbucare]], [[celare]], [[occultare]], [[riporre]]
+*''(di frane,valanghe e simili)'' [[travolgere]],  [[investire]]; [[sommergere]] 
+*''(i morti)''[[disseppellire]], [[esumare]], [[dissotterrare]]
+*''(odio, rancore)'' [[alimentare]]
+*[[seppellimento]], [[seppellito]]
+M>sepelire</E
+M>io seppellisco</E
+M>tu seppellisci</E
+M>seppellito</E
+M>sepólto</E
+M>è un pietoso dovere s. i morti</E
+M>chi è deceduto per morte improvvisa non può essere sepolto prima di 48 ore</E
+M>le salme dei caduti sono state riesumate e le ossa saranno sepolte nel sacrario</E
+M>ha disposto che il suo cadavere venga cremato e le ceneri sepolte in una piccola urna</E
+M>ha voluto s. il cane nel proprio giardino</E
+M>lui</E
+M>con tutte le sue malattie</E
+M>ci seppellirà tutti</E
+M>è una donna eccezionale</E
+M> ha già seppellito due mariti e seppellirà anche il terzo!</E
+M>s. un ricordo</E
+M>s. i vecchi rancori</E
+M>è andato a seppellirsi in un paesetto sperduto tra i monti</E
+M>seppellirsi tra i libri</E
+M> nello studio</E
+M>s. la refurtiva</E
+M>all&#8217;arrivo delle truppe nemiche</E
+M> molti seppellirono le armi nei campi e nei boschi</E
+M>s. l&#8217;ascia di guerra</E
+M>disseppellire</E
+M>dissotterrare l&#8217;ascia di guerra</E
+M>la frana ha sepolto l&#8217;intero paese</E
+M>un gruppo di alpinisti è stato sepolto da una valanga</E
+M>il mare ha sepolto molte terre un tempo emerse</E
+M>in ufficio mi seppelliscono ogni giorno sotto una montagna di pratiche</E
+M>s. qualcuno sotto una valanga d&#8217;improperî</E
+M>s. una pratica</E
+M>s. un&#8217;istituzione</E
+M>s. la monarchia</E
+M>s. la repubblica</E
+M>s. un partito</E
+M>s. le memorie di gioventù</E
+M>il ricordo di una persona</E

@@ -1,0 +1,15 @@
+lino.txt
+"di lino bianco"
+"lino"
+"lino"
+"lino fino"
+"misto lino"
+"olio di lino"
+"olio di semi di lino"
+"olio di semi di lino"
+"seme di lino"
+"seme di lino"
+"seme di lino"
+#* ''panni '''lini'''''
+*''(aggettivo)'' dal 
+*''(sostantivo)'' dal 

@@ -1,0 +1,89 @@
+selvatico.txt
+"animale selvatico"
+"asino selvatico"
+"asino selvatico"
+"cane selvatico"
+"cardo selvatico"
+"cervo selvatico"
+"fiore selvatico"
+"gatto selvatico"
+"orzo selvatico"
+"profumo del mosto selvatico"
+"riso selvatico"
+"selvatico"
+"selvatico"
+"selvatico"
+"selvatico"
+"tipo selvatico"
+*[[spontaneo]]
+*[[selvaggio]], [[barbaro]], [[primitivo]], [[arretrato]]
+*''(di furia, urlo)'' [[scatenato]], [[violento]], [[impetuoso]]
+*''(per mancanza di regole, limiti)'' [[incontrollato]], [[indisciplinato]]
+*''(di luogo)'' [[selvaggio]], [[incolto]], [[deserto]], [[abbandonato]], [[disabitato]], [[inospitale]], [[desolato]], [[inesplorato]], [[impervio]] 
+*''(di animale)'' [[domestico]]
+*''(di pianta)'' [[coltivato]]
+*''(di luogo)'' [[abitato]], [[popolato]]
+*''(di persona)'' [[affabile]], [[socievole]], [[educato]], [[gentile]], [[cortese]], [[bonario]]
+*[[selvaticume]], [[selvatichezza]], [[selva]],[[selvaticamente]], [[selvaggina]]
+*[[timido]]
+:*[[timid]], [[unsociable]]
+M>silvat</E
+M>cus</E
+M>salvat</E
+M>cus</E
+M>silva</E
+M>chi</E
+M>fico</E
+M>pesco</E
+M>olivo s.</E
+M>erbe s.</E
+M>fiori s.</E
+M>rose s.</E
+M>vite s.</E
+M>innestare sul s.</E
+M>gentile</E
+M>un luogo s.</E
+M>un s.</E
+M>è nel mezzo di questo giardino un salvatico d&#8217;altissimi e folti cipressi</E
+M>s&#8217;avenne in un luogo molto salvatico della città: dove veduta una gran grotta</E
+M> in quella per istarvi quella notte si mise</E
+M>domestico</E
+M>il cervo è un animale s.</E
+M>che vive allo stato selvatico</E
+M>coniglio s.</E
+M>gatto s.</E
+M>capra s.</E
+M>asino s.</E
+M>porco s.</E
+M>rabbia selvatica</E
+M>il cinghiale non mi piace</E
+M> sa troppo di s.</E
+M>per far perdere il s. alla lepre bisogna lasciarla macerare in acqua e aceto</E
+M>i gatti siamesi sono estrosi e s.</E
+M> non bisogna molestarli</E
+M>una ragazzetta ancora un po&#8217; s.</E
+M>è un uomo burbero e s.</E
+M> ma non cattivo</E
+M>non essere così s.!</E
+M>Dizionario dell&#8217;omo salvatico</E
+M>A-B</E
+M>è un s.</E
+M> che non sa vivere con gli altri</E
+M>ritroso</E
+M>tanto cruda e dura e salvatica gli si mostrava la giovinetta amata</E
+M>Non altrimenti stupido si turba Lo montanaro</E
+M> e rimirando ammuta</E
+M> Quando rozzo e salvatico s&#8217;inurba</E
+M>Pigliate uomin ch&#8217;abbin senno ... E non sien punto salvatichi</E
+M>nome che in toscano viene a dire il forno delle grucce</E
+M> e in milanese è composto di parole così eteroclite</E
+M> così bisbetiche</E
+M> così salvatiche</E
+M> che l&#8217;alfabeto della lingua non ha i segni per indicarne il suono</E
+M>salvatichétto</E
+M>è un ragazzo un po&#8217; selvatichetto</E
+M>parendole il suo onore avere ormai perduto</E
+M> per la guardia del quale ella gli era alquanto nel passato stata salvatichetta</E
+M>salvaticaménte</E
+M>è un tipo che vive selvaticamente appartato</E
+M>piante che crescono selvaticamente</E

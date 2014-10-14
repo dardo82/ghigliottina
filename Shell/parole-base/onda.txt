@@ -1,0 +1,267 @@
+onda.txt
+"andare in onda"
+"come un'onda"
+"cresta d'onda"
+"cresta d'onda"
+"dell'onda ad acqua"
+"essere sulla stessa lunghezza d'onda"
+"forma d'onda"
+"forma dell'onda"
+"funzione d'onda"
+"fuori onda"
+"grossa onda"
+"guida d'onda"
+"in onda"
+"in onda"
+"lunghezza d'onda"
+"mandare, andare in onda"
+"messa in onda"
+"misura per lunghezza d'onda"
+"onda"
+"onda"
+"onda"
+"onda"
+"onda"
+"onda acustica"
+"onda anomala"
+"onda che sbatte sul bordo della nave"
+"onda corta"
+"onda d'acqua"
+"onda d'urto"
+"onda d'urto"
+"onda d'urto curva"
+"onda di gravità"
+"onda di marea"
+"onda di marea"
+"onda di marea"
+"onda elastica"
+"onda elettromagnetica"
+"onda gravitazionale"
+"onda guidata"
+"onda lunga"
+"onda lunga"
+"onda media"
+"onda piana"
+"onda portante"
+"onda portante"
+"onda radio"
+"onda sinusoidale"
+"onda sismica"
+"onda sonora"
+"onda verde"
+"onda viaggiante"
+"sistema d'onda"
+*[[flutto]]; [[cavallone]], [[frangente]], [[maroso]], [[ondata]]
+*''(dei capelli, di un ricamo ecc.)'' [[ondulazione]], [[arricciatura]]
+*[[microonda]]
+*italiano
+M>nda</E
+M>onda</E
+M>alte</E
+M>basse</E
+M>corte</E
+M>lunghe</E
+M>grandi</E
+M>grosse</E
+M>l’impeto</E
+M>la forza delle o</E
+M>l’o</E
+M>si alza</E
+M>si abbassa</E
+M>le o</E
+M>increspano</E
+M>agitano</E
+M> sconvolgono la superficie del mare</E
+M>Sì come l’o</E
+M>che fugge e s’appressa</E
+M>le o</E
+M>s’infrangono sugli scogli</E
+M>le o</E
+M>sbattevano violente contro i fianchi della nave</E
+M>la barca era in balìa delle o</E
+M>lido flagellato dalle o</E
+M>cresta</E
+M>cima</E
+M>dell’o</E
+M>essere sulla cresta dell’o</E
+M>valle</E
+M>cavo</E
+M>gola</E
+M>solco</E
+M>dell’o</E
+M>nodo dell’o</E
+M>fronte d’onda</E
+M>linea di cresta dell’o</E
+M>lunghezza d’o</E
+M>altezza d’o</E
+M>periodo di un’o</E
+M>capillari</E
+M>di gravità</E
+M>significative</E
+M>marosi</E
+M>vive</E
+M>morte</E
+M>riflessa</E
+M>di interferenza</E
+M>stazionarie</E
+M>distruttiva</E
+M>Ond’el piegò come nave in fortuna</E
+M>Vinta da l’onda</E
+M>or da poggia</E
+M>or da orza</E
+M>la prua solcava l’o</E
+M>Così sen vanno su per l’o</E
+M>bruna</E
+M>Zacinto mia</E
+M>che te specchi nell’onde Del greco mar</E
+M>l’o</E
+M>egea</E
+M>l’o</E
+M>ionia</E
+M>L’o</E
+M>tirrena del suo sangue crebbe</E
+M>Ma il vento sibila</E
+M> Ma l’o</E
+M>è scura</E
+M>Ma tutta in tenebre È la natura</E
+M>dal lito vermiglio all’onde caspe</E
+M>il re dell’onde</E
+M>perire fra le o</E
+M>essere inghiottito dalle onde</E
+M>Bagna talor ne la chiara o</E
+M>e fresca</E
+M>L’asciutte labbra</E
+M>Del felice Giordan le nobil o</E
+M>Le chiome</E
+M>dell’azzurra o</E
+M>stillanti</E
+M>Come all’aura si turba o</E
+M>di lago</E
+M>acqua</E
+M>Come da inverso fiasco onda che goccia</E
+M>il lampo de’ manipoli</E
+M>E l’onda dei cavalli</E
+M>le o</E
+M>di un panneggio</E
+M>andare a onde</E
+M>il bevitore</E
+M>andava a onde</E
+M>come se fosse in fortuna</E
+M>i portatori</E
+M>urtati</E
+M>scompigliati</E
+M>divisi dalla calca</E
+M>andavano a onde</E
+M>a onde</E
+M>legno</E
+M>marmo con venature a onde</E
+M>stoffa con disegno a onde</E
+M>un fregio a onde</E
+M>capelli a onde</E
+M>a onda</E
+M>la testa bionda</E
+M>Che</E
+M>poi che fredda giacque sul guanciale</E
+M>Ti pettinò co’ bei capelli a onda Tua madre</E
+M>dare l’o</E
+M>ai capelli</E
+M>farsi le o</E
+M>gola</E
+M>cancorrente</E
+M>un’o</E
+M>di popolo tumultuante irruppe nella piazza</E
+M>un’o</E
+M>di luce entrò nella stanza</E
+M>l’o</E
+M>dell’affetto</E
+M>del sentimento</E
+M>delle passioni</E
+M>abbandonarsi all’o</E
+M>dei ricordi</E
+M>si sentì l’animo invaso da un’o</E
+M>di piacere</E
+M>di felicità</E
+M>Non tanto il forte immaginar ti leva E l’impeto di larga o</E
+M>vocale</E
+M>lo investì con un’o</E
+M>di parole</E
+M>di insulti</E
+M>un’o</E
+M>di lacrime</E
+M>seguire l’onda</E
+M>oscillazione</E
+M>superficie d’o</E
+M>fronte d’o</E
+M>lunghezza d’o</E
+M>periodo dell’o</E
+M>frequenza dell’o</E
+M>ampiezza dell’o</E
+M>essere sulla stessa lunghezza d’o</E
+M>sferiche</E
+M>piane</E
+M>longitudinali</E
+M>trasversali</E
+M>progressive</E
+M>retrograde</E
+M>permanenti</E
+M>smorzate</E
+M>stazionarie</E
+M>rifratta</E
+M>riflessa</E
+M>Equazione delle o</E
+M>di propagazione delle o</E
+M>elastiche</E
+M>elettromagnetiche</E
+M>o. di linea</E
+M>o di superficie</E
+M>superficiali</E
+M>o. di volume</E
+M>spaziali</E
+M>sismiche</E
+M>superficiali</E
+M>acustiche</E
+M>spettro delle o</E
+M>elettromagnetiche</E
+M>radio</E
+M>hertziane</E
+M>radioonde</E
+M>infrarosse</E
+M>luminose</E
+M>ultraviolette</E
+M>a bassa</E
+M>media</E
+M>alta frequenza</E
+M>miriametriche</E
+M>metriche</E
+M>centimetriche</E
+M>lunghe</E
+M>medie</E
+M>corte</E
+M>O. atmosferiche</E
+M>Onda d’urto</E
+M>onda di probabilità</E
+M>funzione d’onda</E
+M>gravitazionali</E
+M>di spin</E
+M>mettere</E
+M>mandare in onda</E
+M>andare in onda</E
+M>essere in onda</E
+M>sfigmica</E
+M>peristaltiche</E
+M>onde P</E
+M>onda dicrota</E
+M>onde alfa</E
+M>beta</E
+M>delta</E
+M>teoria delle o</E
+M>lunga</E
+M>corta</E
+M>breve</E
+M>lunga</E
+M>breve</E
+M>lunga</E
+M>secolare</E
+M>ciclo secolare</E
+M>sezioni d’onda</E
+M>verde</E

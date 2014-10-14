@@ -1,0 +1,53 @@
+sia.txt
+"accada quel che accada, sia quel che sia"
+"che sia"
+"che sia"
+"che vuoi che sia"
+"comunque sia"
+"è bene che sia così"
+"e così sia"
+"il meglio che ci sia"
+"la pace sia con te"
+"lascia che sia"
+"lascia che sia"
+"lasciare che sia"
+"ovunque sia"
+"pensare che sia il caso di"
+"pensare che sia opportuno fare qualcosa"
+"si dà il caso che sia"
+"sia"
+"sia"
+"sia ... che"
+"sia ... sia"
+"sia \/ che"
+"Sia ben chiaro"
+"sia benedetto il Signore"
+"sia che ... o"
+"sia che piova o tiri vento"
+"sia chiaro!"
+"sia detto per inciso"
+"sia gloria"
+"sia gloria a"
+"sia gloria a Dio"
+"sia gloria!, gloria!"
+"sia lodato il Signore"
+"sia pure a malincuore"
+"sia qc sia qc"
+"sia quel che sia"
+"sia santificato il Tuo nome"
+"spero che nessuno si sia fatto male"
+"Tu sei la cosa più bella che mi sia mai capitata"
+"volere che sia fatta giustizia"
+M>essere</E
+M>è una casa confortevole</E
+M> sia d&#8217;inverno sia d&#8217;estate</E
+M>sia lui</E
+M> sia un altro</E
+M> per me è lo stesso</E
+M>che</E
+M>sia lui o un altro</E
+M>sia d&#8217;inverno che d&#8217;estate</E
+M>Sia</E
+M>sia!</E
+M>così sia!</E
+M>sia pure!</E

@@ -1,0 +1,21 @@
+nuziale.txt
+"fede nuziale"
+"marcia nuziale"
+"marcia nuziale"
+"nuziale"
+"rinfresco nuziale"
+"torta nuziale"
+"velo nuziale"
+M>nuptialis</E
+M>nuptiae</E
+M>cerimonia n</E
+M>marcia n</E
+M>velo n</E
+M>dono n</E
+M>banchetto n</E
+M>anello nuziale</E
+M>nettario n</E
+M>volo n</E
+M>abito n</E
+M>livrea</E
+M>nuziale</E

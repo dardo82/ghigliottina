@@ -1,0 +1,16 @@
+targa.txt
+"affiggere una targa"
+"numero di targa"
+"targa"
+"targa prova"
+M>targa</E
+M>mettere sulla porta di casa una t. d&#8217;ottone con il proprio cognome</E
+M>sul portone</E
+M>nell&#8217;ingresso del palazzo</E
+M> ci sono varie t. di uffici e studî professionali.</E
+M>t. anteriore</E
+M>posteriore</E
+M>T. provvisoria</E
+M>t. in prova</E
+M>dati di targa</E
+M>vincere la Targa Florio.</E

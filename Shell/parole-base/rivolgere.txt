@@ -1,0 +1,65 @@
+rivolgere.txt
+"rivolgere"
+"rivolgere"
+"rivolgere, replace: rivolgersi"
+"rivolgere i propri desideri a"
+"rivolgere la parola"
+"rivolgere la propria attenzione a"
+"rivolgere nella direzione opposta"
+"rivolgere un'attenzione speciale a"
+* ''(un discorso, una parola, eccetera)'' [[dirigere]], [[indirizzare]], [[dedicare]], [[concentrare]], [[volgere]]
+* ''(verso una direzione)'' [[dirigere]], [[orientare]], [[girare]]
+*[[rivolgersi]], [[rivolgimento]], [[rivolto]]
+*[[volgere]],[[distogliere]]
+M>revolv</E
+M>volv</E
+M>volgere</E
+M>sentendosi chiamare di nuovo</E
+M>rivolse gli occhi verso di lui</E
+M>rivolgeva la scatola tra le mani senza riuscire ad aprirla</E
+M>varie cose fra sé rivolgendo intorno a questo fatto</E
+M>nella mente</E
+M>nell&#8217;animo</E
+M>nel cuore un pensiero</E
+M>un&#8217;idea</E
+M>un piano</E
+M>il sole si rivolge con tutti i suoi pianeti</E
+M>si sono rivolti più anni</E
+M>da quando</E
+M>rivolto l&#8217;anno</E
+M>rivolse il passo verso casa</E
+M>lo sguardo</E
+M>gli occhi verso il cielo</E
+M>verso l&#8217;interlocutore</E
+M>il viso</E
+M>le spalle</E
+M>la parola</E
+M>il saluto</E
+M>una preghiera</E
+M>una supplica</E
+M>una raccomandazione</E
+M>una lode</E
+M>un&#8217;osservazione</E
+M>una critica a qualcuno</E
+M>ha rivolto i suoi ultimi pensieri a Dio</E
+M>dopo la morte del padre rivolse tutto il suo affetto alla madre</E
+M>rivolgerò la mia attenzione al problema che mi hai proposto</E
+M>si rivolse verso l&#8217;interrogante con espressione affabile</E
+M>non mi rivolgo a te</E
+M>ma a tuo fratello</E
+M>si è rivolto a tutti i suoi amici</E
+M>ma nessuno ha voluto aiutarlo</E
+M>non so proprio a chi rivolgermi</E
+M>a che santo rivolgermi</E
+M>si rivolse a un passante per chiedere l&#8217;ora</E
+M>voltare</E
+M>rivoltare</E
+M>rivolse gli occhi da quell&#8217;atroce vista</E
+M>si è rivolto per non salutarmi</E
+M>un colpo di vento rivolse l&#8217;imbarcazione</E
+M>rivolger le sorti</E
+M>D&#8217;un volgo straniero por fine al dolor</E
+M>un paese</E
+M>un popolo contro il tiranno</E
+M>non si rivolgerebbe così di leggiero</E
+M>Beatrice in sul sinistro fianco Vidi rivolta</E

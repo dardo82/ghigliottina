@@ -1,0 +1,33 @@
+pianura.txt
+"in pianura"
+"la fertile pianura padana"
+"la Pianura"
+"la pianura scozzese"
+"linea di pianura"
+"pianura"
+"pianura alluvionale"
+"pianura costiera"
+"pianura dell'Argentina"
+"pianura erbosa"
+"pianura fangosa"
+M>percorrere</E
+M>attraversare la p</E
+M>scendere in</E
+M>alla</E
+M>una regione tutta in p</E
+M>terreni</E
+M>poderi</E
+M>campi in p</E
+M>di collina</E
+M>di montagna</E
+M>le città</E
+M>i paesi di pianura</E
+M>ondulate</E
+M>a pendio</E
+M>concave</E
+M>a bacino</E
+M>interne</E
+M>periferiche</E
+M>di accumulo alluvionale</E
+M>Pianura Padana</E
+M>litorali</E

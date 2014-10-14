@@ -1,0 +1,40 @@
+ricevimento.txt
+"festa; ricevimento in casa privata"
+"garden party; ricevimento all'aperto"
+"responsabile del ricevimento"
+"ricevimento"
+"ricevimento"
+"ricevimento"
+"ricevimento"
+"ricevimento di matrimonio"
+"ricevimento pomeridiano"
+"ricevimento pomeridiano"
+"ricevimento serale"
+"sala ricevimento"
+"stanza di ricevimento"
+"stanza di ricevimento"
+*[[ricevuta]]
+M>confermare il r</E
+M>di un plico raccomandato</E
+M>di un vaglia</E
+M>il pagamento deve essere effettuato in contanti</E
+M>al r</E
+M>della merce</E
+M>accoglienza</E
+M>all&#8217;illustre concittadino è stato preparato un solenne r</E
+M>vogliono fargli grandi r</E
+M>al suo ritorno</E
+M>il r</E
+M>dei nuovi soci è fissato per il 1&#176; marzo</E
+M>dare</E
+M>offrire un r</E
+M>invitare</E
+M>essere invitato a un r</E
+M>partecipare a un r</E
+M>passare il tempo in feste e ricevimenti</E
+M>sala per banchetti e ricevimenti</E
+M>ufficiale</E
+M>diplomatico</E
+M>a corte</E
+M>il presidente della Repubblica ha offerto un r</E
+M>in onore dei capi di governo stranieri</E

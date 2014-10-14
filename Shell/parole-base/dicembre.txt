@@ -1,0 +1,10 @@
+dicembre.txt
+"dicembre"
+"periodo natalizio: 24 dicembre - 6 gennaio"
+#*''il 26 dicembre 1883 la [[w
+* [[anno]], [[giorno]], [[gennaio]], [[febbraio]], [[marzo]], [[aprile]], [[maggio]], [[giugno]], [[luglio]], [[agosto]], [[settembre]], [[ottobre]], [[novembre]], [[settimana]]
+*italiano
+M>december</E
+M>bris</E
+M>mensis</E
+M>decem</E

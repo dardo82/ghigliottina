@@ -1,0 +1,52 @@
+diffusione.txt
+"con preghiera di diffusione"
+"diffusione"
+"diffusione"
+"diffusione capillare"
+"diffusione termica"
+"grado di diffusione"
+"processo di diffusione"
+*[[filodiffusione]]
+*[[diffondere]] 
+M>diffusio</E
+M>onis</E
+M>diffund</E
+M>diffusus</E
+M>di notizie</E
+M>di un avviso</E
+M>di un appello</E
+M>per mezzo della stampa</E
+M>a mezzo stampa</E
+M>via radio</E
+M>attraverso la televisione</E
+M>dare d</E
+M>a una dottrina</E
+M>alle idee di un partito</E
+M>di stampe clandestine</E
+M>la d</E
+M>del cristianesimo</E
+M>la d</E
+M>della lingua italiana all’estero</E
+M>giornale</E
+M>rivista che ha molta</E
+M>larga</E
+M>scarsa d</E
+M>area di d</E
+M>teoria della d</E
+M>diffusionismo</E
+M>concentrazione</E
+M>dell’imposta</E
+M>impianto di d</E
+M>sonora</E
+M>diffusori</E
+M>materiale</E
+M>molecolare</E
+M>di radiazioni</E
+M>elastica</E
+M>anelastica</E
+M>della luce</E
+M>per riflessione</E
+M>per trasparenza</E
+M>di volume</E
+M>atmosferica</E
+M>di un fluido</E

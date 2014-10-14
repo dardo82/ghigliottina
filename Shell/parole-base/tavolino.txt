@@ -1,0 +1,36 @@
+tavolino.txt
+"tavolino"
+"tavolino"
+"tavolino"
+"tavolino da bar"
+"tavolino da salotto"
+"tavolino"
+"tavolino da tè"
+"tavolino da tè"
+"tavolino del telefono"
+"tavolino del telefono"
+"vittoria a tavolino"
+*[[tavolo]]
+*[[vittoria a tavolino]]
+M>tavola</E
+M>tavolo</E
+M>i t. all&#8217;aperto di un caffè</E
+M>t. da tè</E
+M>t. da lavoro</E
+M>t. da gioco</E
+M>a tavolino si conosce il galantuomo</E
+M>t. da notte</E
+M>comodino</E
+M>t. parlante</E
+M>medium</E
+M>stare a t.</E
+M>passare la notte</E
+M> ore e ore a t.</E
+M>lavoro di t.</E
+M>da tavolino</E
+M>a tavolino</E
+M>uno stratega</E
+M>un politico da t.</E
+M>fare la guerra a t.</E
+M>questo non è un problema da risolvere a tavolino!</E
+M>vittoria a t.</E

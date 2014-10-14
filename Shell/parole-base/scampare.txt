@@ -1,0 +1,44 @@
+scampare.txt
+"scampare"
+"scampare"
+"scampare"
+#*'' è riuscito a scampare a quel gravissimo incidente automibilistico''
+#* ''l'abbiamo '''scampata''' grossa!''
+*uscire salvo, uscire illeso, uscire indenne, [[salvarsi]], [[sfuggire]], [[sottrarsi]], trovare scampo, [[cavarsela]]
+*trovare rifugio, [[rifugiarsi]], [[scappare]], andare a nascondersi
+*[[evitare]], [[scansare]], [[schivare]]
+*(da calamità) [[salvare]], [[liberare]], [[difendere]], [[proteggere]], [[tutelare]], [[preservare]]
+*[[cadere]], [[morire]]
+* [[presentarsi]], [[consegnarsi]]
+*[[imbattersi]], [[incappare]], [[incorrere]]
+*(da calamità)[[esporre]], [[gettare]]
+*Giusppe Pittano, ''Il mio primo dizionario di italiano illustrato'', edizione 1995, DeAgostini , p. 496
+M>campo</E
+M>essere</E
+M>s. dalla morte</E
+M>s. da una malattia</E
+M>Siamo scampati dalla febbre gialla E dal grippe e dal tifo e dalla guerra</E
+M>s. a un naufragio</E
+M>a una strage</E
+M>al terremoto</E
+M>Con un legnetto sol misera scampa</E
+M>i medici sono riusciti a scamparlo dalla morte</E
+M>Altro schermo non trovo che mi scampi Dal manifesto accorger de le genti</E
+M>E morte lo scampò dal veder peggio</E
+M>Dio ci scampi</E
+M>Dio ci scampi e liberi</E
+M>il Cielo ce ne scampi</E
+M>Dio ci scampi da certi amici!</E
+M>s. la morte</E
+M>il sequestro</E
+M>la prigione</E
+M>colla fuga scampò le mani degli inimici</E
+M>scamparla bella</E
+M>l&#8217;ho scampata per miracolo</E
+M>sarò contento anche per quella povera Lucia: anche lei deve averla scampata grossa</E
+M>un pericolo scampato</E
+M>rallegrarsi con qualcuno per lo scampato pericolo</E
+M>Reduce dalla pugna</E
+M> e dalle fiere Mani scampato de&#8217; robusti Achei</E
+M>si rifugiò sui monti con i pochi soldati scampati dall&#8217;imboscata</E
+M>gli scampati al naufragio furono raccolti dai mezzi di soccorso.</E

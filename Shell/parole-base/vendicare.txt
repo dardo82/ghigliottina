@@ -1,0 +1,45 @@
+vendicare.txt
+"vendicare"
+*[[punire]], [[castigare]], [[ribattere]]
+*[[vendicativo]], [[rivendicare]]
+M>care</E
+M>vindex -d</E
+M>cis</E
+M>io véndico</E
+M>tu véndichi</E
+M>v. un’offesa</E
+M>un insulto</E
+M>un torto</E
+M>un’ingiustizia</E
+M>l’oltraggio patito</E
+M>vendicarsi di un’offesa</E
+M>di un torto</E
+M>v. l’onore offeso</E
+M>v. il proprio onore</E
+M>si diè vanto Di vendicar la morte di Troiano Sopra re Carlo imperator romano</E
+M>v. la morte del padre</E
+M>l’uccisione del fratello</E
+M>v. il padre</E
+M>il fratello ucciso</E
+M>v. il fratello</E
+M>v. la sorella</E
+M>prometti di vendicarmi</E
+M>è stato offeso e vuole vendicarsi</E
+M>giurai di vendicarmi</E
+M>la gente si vendica se sei troppo buono</E
+M>vendicarsi dell’uccisore</E
+M>del traditore</E
+M>come in noi è la pietà commendata</E
+M> così ancora in noi è dalla divina giustizia rigidamente la crudeltà vendicata</E
+M>quel che a noi vendicò la nostra virtù</E
+M> confesseremo noi esserne alla fortuna obligati?</E
+M>il popolo pisano</E
+M> pigliate l’armi e gittate per terra de’ luoghi publici le insegne de’ fiorentini</E
+M> si vendicò cupidissimamente in libertà</E
+M>un oltraggio</E
+M>un omicidio vendicato</E
+M>ora sei vendicato!</E
+M>la patria è vendicata</E
+M>l’onore è vendicato</E
+M>Rinieri</E
+M> ben ti se’ oltre misura vendico</E

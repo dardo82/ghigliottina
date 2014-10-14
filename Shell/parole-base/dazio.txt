@@ -1,0 +1,34 @@
+dazio.txt
+"dazio"
+"dazio"
+"ufficio che riscuote il dazio"
+"dazio doganale"
+"esente da dazio"
+*''(in usi generici)'' [[imposta]], [[tassa]], [[tributo]]
+*[[daziare]]
+M>datio</E
+M>onis</E
+M>datium</E
+M>esterno</E
+M>doganale</E
+M>interno</E
+M>d’importazione</E
+M>d’esportazione</E
+M>d’entrata</E
+M>d’uscita</E
+M>di transito</E
+M>consumo</E
+M>imporre un d</E
+M>gravare una merce di d</E
+M>pagare</E
+M>frodare il d</E
+M>fare lo scemo per non pagare il d</E
+M>fiscali</E
+M>economici</E
+M>protettivi</E
+M>industriali</E
+M>specifici</E
+M>dazî ad valorem</E
+M>fermarsi al dazio</E
+M>gabella del d</E
+M>delle bollette</E

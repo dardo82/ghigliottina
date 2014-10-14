@@ -1,0 +1,89 @@
+riscaldamento.txt
+"a riscaldamento interno (di pressa)"
+"apparecchio per riscaldamento a gas"
+"con apparecchio per riscaldamento a gas"
+"con riscaldamento centralizzato"
+"di riscaldamento ad aria"
+"impianto di riscaldamento a caldaia"
+"impianto per riscaldamento ad aria calda"
+"pressa a riscaldamento interno"
+"riscaldamento"
+"riscaldamento"
+"riscaldamento"
+"riscaldamento a gas"
+"riscaldamento a gas"
+"riscaldamento a gas naturale"
+"riscaldamento a irradiamento"
+"riscaldamento a petrolio"
+"riscaldamento a vapore"
+"riscaldamento ad energia solare"
+"riscaldamento ad induzione"
+"riscaldamento centralizzato"
+"riscaldamento da termosifone"
+"riscaldamento elettrico"
+"riscaldamento elettronico"
+"serpentina di riscaldamento"
+"sistema di riscaldamento"
+*[[teleriscaldamento]]
+*[[riscaldare]]
+M>forno per il r</E
+M>dell&#8217;acciaio</E
+M>della ghisa</E
+M>caldaia</E
+M>impianto per il r</E
+M>dell&#8217;acqua</E
+M>degli ambienti</E
+M>dei veicoli</E
+M>dei mezzi di trasporto</E
+M>impianti</E
+M>sistemi di r</E
+M>a gas</E
+M>a carbone</E
+M>a gasolio</E
+M>elettrico</E
+M>a pannelli solari</E
+M>per conduzione</E
+M>per convezione</E
+M>per irraggiamento</E
+M>dielettrico</E
+M>elettronico</E
+M>a microonde</E
+M>appartamento con</E
+M>senza r</E
+M>centralizzato</E
+M>centrale</E
+M>locale</E
+M>autonomo</E
+M>hai il r</E
+M>in casa tua?</E
+M>quest&#8217;anno abbiamo messo il r</E
+M>spese di r</E
+M>pagare il riscaldamento</E
+M>a termosifone</E
+M>a vapore</E
+M>ad aria calda</E
+M>dell&#8217;aria</E
+M>dell&#8217;atmosfera</E
+M>il r</E
+M>della parete era tale che a toccarla scottava</E
+M>bisogna evitare il r</E
+M>del motore</E
+M>in questa sala il r</E
+M>è sufficiente</E
+M>insufficiente</E
+M>eccessivo</E
+M>il r</E
+M>è al massimo</E
+M>al minimo</E
+M>cinetico</E
+M>incalorimento</E
+M>riscaldo</E
+M>ha un po&#8217; di r</E
+M>intestinale</E
+M>non è nulla</E
+M>parendogli avere assai dolore</E
+M>non volendo anche il r</E
+M>della moglie</E
+M>prima di qualunque attività aerobica</E
+M> è consigliabile fare un po&#8217; di r</E
+M>gli atleti stanno completando il r. prima della gara</E

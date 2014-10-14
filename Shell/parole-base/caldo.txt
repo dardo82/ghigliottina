@@ -1,0 +1,192 @@
+caldo.txt
+"a caldo"
+"a freddo\/a caldo"
+"a sangue caldo"
+"acciaio zincato a caldo"
+"avere caldo"
+"avere caldo"
+"bagno caldo"
+"Battere il ferro finché è caldo"
+"caldo"
+"caldo"
+"caldo"
+"caldo"
+"che mantiene caldo"
+"caldo"
+"caldo"
+"caldo"
+"caldo"
+"caldo"
+"caldo"
+"caldo"
+"caldo benvenuto"
+"caldo come il fuoco"
+"caldo e confortevole"
+"caldo estivo"
+"caldo estremo"
+"caldo intenso"
+"caldo pazzesco"
+"caldo tropicale"
+"caldo umido"
+"caldo-freddo (terapia)"
+"caldo-secco"
+"caldo-umido"
+"caldo-umido"
+"cavallo di sangue caldo"
+"cereale servito caldo"
+"colla a caldo"
+"colore caldo"
+"colore caldo"
+"commento a caldo"
+"confezionamento a caldo"
+"dal sangue caldo, impulsivo"
+"di cuore caldo"
+"di punto caldo, zona calda"
+"e' scoppiato il caldo"
+"essere caldo"
+"fare caldo"
+"ferro caldo"
+"fragile quando è caldo"
+"gran caldo"
+"impacco caldo per ridurre gonfiore"
+"jazz caldo (mus.)"
+"laminato a caldo"
+"laminato a caldo"
+"molto caldo"
+"non caldo"
+"ondata di caldo"
+"periodo caldo"
+"pistola a caldo"
+"punto caldo; zona calda"
+"rendere caldo"
+"rum caldo del bucaniere"
+"saggio a caldo"
+"sangue caldo"
+"sto morendo di caldo"
+"tempo caldo"
+"vento caldo"
+#* ''Il caldo può far male alla salute""
+*[[rovente]], [[ardente]], [[bollente]] 
+*[[freddo]]
+*[[caldamente]]
+*[[#Italiano|caldo]]
+*italiano
+*spagnolo
+M>caldus</E
+M>cal</E
+M>dus</E
+M>cal</E
+M>freddo</E
+M>entrare nel letto c</E
+M>scottarsi col ferro c</E
+M>lavarsi con l’acqua c</E
+M>l’acqua è c</E
+M>clima c</E
+M>regioni c</E
+M>nella stagione c</E
+M>un’estate caldissima</E
+M>nelle ore più c</E
+M>della giornata</E
+M>c’è un’aria c</E
+M>e afosa</E
+M>terra c</E
+M>terreno c</E
+M>una minestra ben c</E
+M>caffè poco c</E
+M>pane c</E
+M>tavola c</E
+M>dare una notizia calda calda</E
+M>m’ha letto il suo articolo caldo caldo</E
+M>trovandolo poi nuovo affatto del paese</E
+M>aveva tentato il colpo maestro di condurlo caldo caldo alle carceri</E
+M>avere le mani c</E
+M>il bimbo ha la fronte c.</E
+M> deve avere la febbre</E
+M>animali a sangue c</E
+M>essere c</E
+M>d’amore</E
+M>il suo c</E
+M>affetto</E
+M>una c</E
+M>amicizia</E
+M>con la più c</E
+M>simpatia</E
+M>un c</E
+M>discorso</E
+M>una c</E
+M>preghiera</E
+M>un’esecuzione musicale c</E
+M>e appassionata</E
+M>la c</E
+M>fantasia</E
+M>Dal petto mio che fu sì c</E
+M>un giorno</E
+M>Anzi rovente</E
+M>cuore c</E
+M>testa c</E
+M>avere il sangue c</E
+M>a sangue c</E
+M>donna c</E
+M>zona c</E
+M>giorni c</E
+M>autunno c.</E
+M>piangere a c. lacrime</E
+M>prendersela calda per una cosa</E
+M>come se la piglia calda per uno scherzo così innocente!</E
+M>darne</E
+M>averne</E
+M>ricevere</E
+M>una c</E
+M>e una fredda</E
+M>chi la vuol calda e chi la vuol fredda</E
+M>Tinte c</E
+M>Di vino</E
+M>il sole è alto</E
+M>e il c</E
+M>è grande</E
+M>oggi fa c</E
+M>fa un gran c</E
+M>qui dentro</E
+M>fa c</E
+M>c’è un c</E
+M>soffocante</E
+M>si scoppia dal c</E
+M>essere</E
+M>stare al c</E
+M>i gatti amano stare al caldo</E
+M>sentire</E
+M>avere c</E
+M>sentire</E
+M>avere</E
+M>tenere c</E
+M>preferisco il c</E
+M>al freddo</E
+M>non vedo l’ora che torni il caldo</E
+M>tenere in c</E
+M>una vivanda</E
+M>mettere il brodo in c</E
+M>lavorare un oggetto a c</E
+M>operare a c</E
+M>Prendere qualcosa di c</E
+M>audace e baldo Il fea degli anni e dell’amore il c</E
+M>nel c</E
+M>della discussione</E
+M>della perorazione</E
+M>d’una lite</E
+M>a caldo</E
+M>rispondere a c</E
+M>reagire</E
+M>avere una reazione a c</E
+M>sono riflessioni a c</E
+M>e possono essere erronee</E
+M>non fare né c</E
+M>né freddo</E
+M>le sue osservazioni non mi fanno né c</E
+M>né freddo</E
+M>fa c</E
+M>e freddo come gli pare</E
+M>essere</E
+M>andare</E
+M>entrare in c</E
+M>in calore</E
+M>stare al calduccio</E

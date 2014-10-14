@@ -1,0 +1,21 @@
+scioglimento.txt
+"scioglimento"
+"scioglimento"
+"scioglimento, dissoluzione del matrimonio"
+M>sciogliere</E
+M>lo sc. di un voto</E
+M>da un voto</E
+M>lo sc. di un contratto</E
+M>mutuo dissenso</E
+M>sc. del matrimonio</E
+M>sc. di una società</E
+M>lo sc. di un partito politico</E
+M>lo sc. dei Consigli comunali</E
+M>provinciali</E
+M>regionali</E
+M>lo sc. del Parlamento</E
+M>delle Camere</E
+M>in primavera avviene lo sc. delle nevi</E
+M>è un dramma molto debole</E
+M> con uno sc. artificioso.</E
+M>sc. delle singolarità</E

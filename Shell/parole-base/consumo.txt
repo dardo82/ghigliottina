@@ -1,0 +1,92 @@
+consumo.txt
+"a uso e consumo"
+"al consumo"
+"articoli di consumo"
+"beni di consumo"
+"beni di consumo"
+"consumo"
+"consumo"
+"consumo annuo"
+"consumo di alcolici"
+"consumo di alcool"
+"consumo di energia"
+"consumo di energia"
+"consumo ostentatorio"
+"controllo del consumo energetico"
+"credito al consumo"
+"indice dei prezzi al consumo"
+"materiale di consumo"
+"non destinato al consumo umano"
+"prodotti di largo consumo"
+"ridurre il consumo di"
+"tassa sul consumo"
+#*''stare a dieta significa ridurre le calorie di ingresso e aumentarne il consumo con il movimento''
+*''(logoramento)'' derivazione di [[consumare]] (dal [[latino]] ''[[consumĕre]]'' )
+*''(conduzione a termine)''  dal latino ''[[consummare]]'' cioè "[[sommare]], [[compiere]]", formato da [[con-]] e ''[[summa]]'' ovvero "[[somma]]"
+*[[logoramento]], [[logorio]], [[usura]], [[esaurimento]], [[degrado]]
+*''(di acqua, energia eccetera)'' [[uso]], [[impiego]], [[utilizzazione]], [[fruizione]]
+M>immettere un prodotto</E
+M>un manufatto al c</E
+M>fare</E
+M>non fare consumo di carne</E
+M>di grassi alimentari</E
+M>il c</E
+M>giornaliero di latte</E
+M>di proteine</E
+M>il c</E
+M>annuale di scarpe e vestiti</E
+M>di godimento</E
+M>produttivo</E
+M>riproduttivo</E
+M>improduttivi</E
+M>letteratura</E
+M>teatro</E
+M>produzione cinematografica</E
+M>romanzi</E
+M>commedie</E
+M>film di consumo</E
+M>generi di consumo</E
+M>beni di consumo</E
+M>beni d’investimento</E
+M>per mio</E
+M>per tuo c</E
+M>per mio</E
+M>tuo uso e consumo</E
+M>pagare a consumo</E
+M>fare troppo c</E
+M>di carta</E
+M>in casa nostra</E
+M>il c</E
+M>giornaliero di pane è di circa 2 chilogrammi</E
+M>aumentare</E
+M>limitare il c</E
+M>di generi voluttuarî</E
+M>porre un freno all’eccessivo c</E
+M>di alcolici</E
+M>il governo ha annunciato ulteriori restrizioni al c</E
+M>di carburanti</E
+M>di un apparecchio</E
+M>di un impianto</E
+M>di un motore</E
+M>la stufa ha un c</E
+M>di 20 kg di legna al giorno</E
+M>il c</E
+M>giornaliero dello scaldabagno è di 15 chilowattora</E
+M>la mia automobile ha un c</E
+M>di 9 litri ogni 100 chilometri</E
+M>gara di consumo</E
+M>televisore che ha un c</E
+M>di 200 watt.</E
+M>questi soldi serviranno per i c</E
+M>di casa</E
+M>necessarî</E
+M>non necessarî</E
+M>di lusso</E
+M>promuovere</E
+M>ridurre</E
+M>restringere i c</E
+M>imposte sui c</E
+M>Civiltà</E
+M>società</E
+M>dei c</E
+M>consumi</E

@@ -1,0 +1,22 @@
+cimitero.txt
+"cimitero"
+"cimitero"
+"cimitero con lapidi"
+"cimitero con tombe per terra"
+"cimitero di una chiesa"
+"cimitero nazionale"
+*[[camposanto]], [[catacomba]], [[necropoli]] 
+*[[cimiteriale]]
+M>coemeterium</E
+M>camposanto</E
+M>i viali</E
+M>le tombe</E
+M>la cappella del c</E
+M>monumentale</E
+M>di guerra</E
+M>degli elefanti</E
+M>il c</E
+M>delle automobili</E
+M>essere sulla soglia del c</E
+M>fare un c</E
+M>durante lo sfollamento la città era un cimitero</E

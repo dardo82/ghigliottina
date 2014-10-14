@@ -1,0 +1,16 @@
+romanzo.txt
+"giallo, romanzo o film poliziesco"
+"romanzo"
+"romanzo"
+"romanzo d'appendice"
+"romanzo di fantascienza"
+"romanzo erotico"
+"romanzo poliziesco"
+"romanzo rosa"
+"romanzo storico"
+"romanzo, racconto"
+*''(aggettivo)'' [[neolatino]]
+*componimento narrativo, opera narrativa, [[narrazione]],  
+*[[fotoromanzo]], [[romanziere]], [[romanzamento]]
+*[[avventura]], [[frottola]] 
+*Enciclopedia [http

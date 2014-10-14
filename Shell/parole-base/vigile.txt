@@ -1,0 +1,42 @@
+vigile.txt
+"essere vigile"
+"pompiere, vigile del fuoco"
+"stare vigile"
+"vigile"
+"vigile"
+"vigile addetto al traffico"
+"vigile del fuoco"
+"vigile urbano"
+"vigile, all'erta"
+#*''quel vigile mi ha multato''
+*[[attento]], [[sveglio]], [[prudente]], [[accorto]], [[avveduto]], [[cauto]], [[circospetto]], [[guardingo]], [[solerte]], [[oculato]]
+*[[vigilante]]
+*guardia municipale, poliziotto urbano, guardia cittadina.
+*[[disattento]], [[sventato]], [[avventato]], [[incauto]], [[imprudente]]
+*[[vigile di quartiere]]
+M>vigil -</E
+M>lis</E
+M>vig</E
+M>bisogna essere vigili nel pericolo</E
+M>guardare con occhio v.</E
+M>sotto il v. sguardo della madre</E
+M>sotto la v. guida del maestro.</E
+M>stato v.</E
+M>stato di veglia</E
+M>coma v.</E
+M>v. del fuoco</E
+M>pompiere</E
+M>Corpo nazionale dei v. del fuoco</E
+M>chiamare i v. del fuoco</E
+M>reparti</E
+M>colonne mobili di soccorso dei v. del fuoco</E
+M>v. del fuoco in servizio permanente</E
+M>volontarî. V. urbano</E
+M>vigile</E
+M>chiamare un v.</E
+M>i v.</E
+M>il v. mi ha fatto la contravvenzione per sosta vietata.</E
+M>vigile</E
+M>la vigile che sorveglia l’uscita dalla scuola</E
+M>una vigile inflessibile</E
+M> vigilessa!</E

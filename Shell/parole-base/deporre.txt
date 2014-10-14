@@ -1,0 +1,52 @@
+deporre.txt
+"deporre"
+"deporre"
+"deporre"
+"deporre"
+"deporre"
+"deporre a favore di"
+"deporre le armi"
+"deporre le uova"
+"sovvertire, deporre, rovesciare"
+M>dep</E
+M>porre</E
+M>d. un carico</E
+M>un peso</E
+M>depose il sacco che aveva sulle spalle</E
+M>gli abiti</E
+M>posare</E
+M>posare</E
+M>deporre</E
+M>Cristo fu deposto dalla croce</E
+M>la salma fu deposta nella tomba di famiglia</E
+M>il fiume depone i detriti</E
+M>il caffè depone i fondi</E
+M>aspetta che il caffè deponga</E
+M>i fondi</E
+M>non si sono ancora deposti</E
+M>l’abito talare</E
+M>le armi</E
+M>un ufficio</E
+M>una carica</E
+M>una dignità</E
+M>la corona</E
+M>un pensiero</E
+M>un’idea</E
+M>l’odio</E
+M>l’ira</E
+M>il solito orgoglio</E
+M>da un ufficio</E
+M>da un grado</E
+M>il re fu deposto</E
+M>la verità</E
+M>il falso</E
+M>avere</E
+M>essere chiamato a d</E
+M>contro</E
+M>a favore dell’imputato</E
+M>tutte le circostanze depongono a favore del mio cliente</E
+M>contro l’imputato</E
+M>è un particolare che depone</E
+M>non depone</E
+M>a tuo favore</E
+M>deposizione</E

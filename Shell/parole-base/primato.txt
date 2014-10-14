@@ -1,0 +1,35 @@
+primato.txt
+"primato"
+"primato"
+M>primatus</E
+M>primus</E
+M>avere</E
+M>tenere</E
+M>conquistare</E
+M>raggiungere il p</E
+M>in un&#8217;arte</E
+M>una disciplina</E
+M>togliere il p</E
+M>perdere il p</E
+M>nel medioevo Bologna teneva il p</E
+M>nel campo dell&#8217;insegnamento giuridico</E
+M>a Cicerone fu riconosciuto il p</E
+M>nell&#8217;eloquenza</E
+M>filosofico</E
+M>letterario</E
+M>scientifico</E
+M>di s</E
+M>Pietro e del Romano Pontefice</E
+M>conquistare</E
+M>detenere il p</E
+M>del salto in alto</E
+M>dei 400 metri a ostacoli</E
+M>dei 100 metri stile libero</E
+M>migliorare</E
+M>abbassare</E
+M>battere un p</E
+M>p. regionale</E
+M>nazionale</E
+M>europeo</E
+M>mondiale</E
+M>olimpico</E

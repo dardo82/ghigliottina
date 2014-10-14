@@ -1,0 +1,57 @@
+blocco.txt
+"bi-blocco, doppio blocco"
+"blocco"
+"blocco"
+"blocco"
+"blocco"
+"blocco"
+"blocco"
+"blocco"
+"blocco (politico)"
+"blocco atrioventricolare"
+"blocco cilindri"
+"blocco dei trasporti"
+"blocco del traffico"
+"blocco dello scrittore"
+"blocco di calcestruzzo"
+"blocco di calcestruzzo di scorie"
+"blocco di fogli"
+"blocco di ghiaccio galleggiante"
+"blocco di legno"
+"blocco di vetro"
+"blocco fusibile"
+"blocco mentale"
+"blocco mentale"
+"blocco nervoso"
+"blocco per appunti, block notes"
+"blocco per scrivere"
+"blocco salariale"
+"blocco stradale"
+"cabina di blocco"
+"chi forza un blocco"
+"del blocco di legno"
+"di blocco di ghiaccio galleggiante"
+"dispositivo di blocco"
+"fare incetta, rastrellare, comprare in blocco"
+"in blocco, a ranghi compatti, simultaneamente"
+"in blocco, tutti insieme"
+"in massa, in blocco"
+"posto di blocco"
+"sistema di blocco"
+#*'' 
+*''(di funzionamento, di congegno)'' [[arresto]], [[ bloccaggio]]; [[fermata]]
+*''(di attività'') [[interruzione]], [[sospensione]]
+*''(per arrestare o impedire un movimento)'' [[fermo]], [[freno]]
+*''(di assunzione, aumento)'' [[impossibilità]], [[divieto]], [[vincolo]], [[difficoltà]], [[impedimento]], [[intoppo]], [[ostacolo]], [[scoglio]], [[stallo]], [[impasse]]
+*''(di pietra, di marmo, di ghiaccio)'' [[pezzo]], [[massa]], [[ammasso]], [[masso]], [[macigno]]
+*'' (di materiale vario)''[[agglomerato]],[[aggregato]] 
+*[[bloc-notes]], [[notes]], [[quaderno]], [[blocchetto]], [[taccuino]]
+*'' (di una iniziativa, di uno sviluppo e sim.)'' [[divieto]], [[ proibizione]], [[limite]], [[sospensione]]; [[arresto]], [[stallo]], [[impasse]] 
+* ''(di funzionamento, di congegno)'' [[sblocco]]
+*''(di attività)'' [[ripresa]]
+*[[estroversione]]
+*''(di pietra, di marmo, di ghiaccio)''[[granello]], [[chicco]]
+* [[accensione]]; [[avviamento]], [[avvio]], [[partenza]],[[apertura]], [[transitabilità]], [[agibilità]], [[sblocco]],[[ passaggio]], 
+*[[guardablocco]] 
+*''posto di blocco''
+*''blocco di partenza''

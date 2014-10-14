@@ -1,0 +1,8 @@
+maltempo.txt
+"maltempo"
+"tempo burrascoso, maltempo"
+* mal tempo
+M>infuria il m</E
+M>il m</E
+M>ha gravemente danneggiato il raccolto</E
+M>la gita è stata rimandata per il maltempo</E

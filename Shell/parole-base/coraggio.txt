@@ -1,0 +1,72 @@
+coraggio.txt
+"avere il coraggio di"
+"bel coraggio"
+"coraggio"
+"coraggio"
+"coraggio"
+"coraggio"
+"coraggio morale"
+"coraggio olandese"
+"coraggio!"
+"dare coraggio"
+"di coraggio"
+"il coraggio delle idee"
+"prendere coraggio"
+"prendere coraggio"
+"prendere coraggio"
+"raccogliere (coraggio, pazienza)"
+"senza coraggio"
+"sopportare con coraggio"
+"uomo di coraggio"
+#*''ha dimostrato il suo '''coraggio''' nel restare fermo a manifestare per la pace mentre arrivavano i carri armati.''
+#*''che '''coraggio'''
+*[[valore]], [[audacia]], [[ardimento]], [[ardire]], [[temerarietà]], [[eroismo]], [[forza]], [[decisione]], [[fermezza]], [[risolutezza]], [[prodezza]]
+*[[sfacciataggine]], [[sfrontatezza]], [[spudoratezza]], [[spavalderia]], [[arroganza]], [[impudenza]], [[presunzione]]
+* [[animo]],  [[fegato]], [[sangue freddo]]
+*[[paura]], [[vigliaccheria]], [[viltà]], [[codardia]], [[timore]], [[pusillanimità]]
+*[[coraggioso]]
+*''prendere il coraggio a due mani''
+M>coratge</E
+M>corage</E
+M>*corat</E
+M>cum</E
+M>cor</E
+M>sopportare con c</E
+M>una malattia</E
+M>le avversità</E
+M>andare con c</E
+M>incontro al nemico</E
+M>incontro alla morte</E
+M>avere il c</E
+M>di dire la verità</E
+M>di troncare una relazione</E
+M>avere il c</E
+M>delle proprie opinioni</E
+M>delle proprie azioni</E
+M>civile</E
+M>avere il c</E
+M>civile di assumersi le proprie responsabilità</E
+M>di riconoscere i proprî errori</E
+M>mostrare c</E
+M>dare prova di c</E
+M>dare</E
+M>infondere c</E
+M>farsi c</E
+M>perdersi di c</E
+M>sentirsi mancare il c</E
+M>richiamare tutto il proprio c</E
+M>il c</E
+M>uno non se lo può dare</E
+M>far c</E
+M>a qualcuno</E
+M>coraggio!</E
+M>parla!</E
+M>bel c</E
+M>a prendersela coi più deboli!</E
+M>ha avuto il c</E
+M>di negare</E
+M>dopo ciò che ha fatto</E
+M>ha ancora il c</E
+M>di dichiararsi nostro amico</E
+M>ci vuol proprio un bel c</E
+M>non dé dar om fé Che gentilezza sia fòr di coraggio</E

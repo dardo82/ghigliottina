@@ -1,0 +1,23 @@
+affettuoso.txt
+"affettuoso"
+"gesto affettuoso"
+"pensiero affettuoso"
+"premuroso, affettuoso"
+#* ''andante '''affettuoso'''''
+*[[affetto]], [[affettuosamente]], [[affettuosità]]
+M>affectuosus</E
+M>affectus</E
+M>animo a</E
+M>un amico molto a</E
+M>parole a</E
+M>sguardi a</E
+M>un’a</E
+M>stretta di mano</E
+M>saluti</E
+M>andante a</E
+M>allegro a</E
+M>accogliere</E
+M>trattare</E
+M>abbracciare affettuosamente</E
+M>rimproverare</E
+M>consigliare affettuosamente</E

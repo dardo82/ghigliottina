@@ -1,0 +1,8 @@
+ruga.txt
+"nuova ruga"
+"ruga"
+"ruga"
+*[[grinza]]
+* [[vanedda]]
+*italiano
+*siciliano

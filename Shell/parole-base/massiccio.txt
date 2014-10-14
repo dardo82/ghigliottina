@@ -1,0 +1,54 @@
+massiccio.txt
+"corpulento, massiccio"
+"di legno massiccio"
+"legno massiccio"
+"legno massiccio"
+"massiccio"
+"massiccio"
+"massiccio"
+"massiccio"
+"massiccio, enorme"
+*[[compatto]], [[pieno]], [[solido]], [[sodo]], [[robusto]]
+*[[pesante]], [[grave]]
+*[[forte]], [[intenso]]
+*  gruppo montuoso, [[acrocoro]]
+*[[vuoto]], [[cavo]], [[fragile]]
+*[[trascurabile]], [[insignificante]]
+*[[debole]], [[minimo]]
+*[[massicciamente]]
+M>sbarra d’oro massiccio</E
+M>tavolo di noce</E
+M>di ciliegio massiccio</E
+M>un edificio m</E
+M>si alzava sulle mura la m</E
+M>sagoma della torre</E
+M>un mobile dalle linee m</E
+M>il tutto era coronato da una cornice m</E
+M>una persona m</E
+M>dalle spalle robuste e m</E
+M>una donna grande</E
+M>dal viso m</E
+M>sproposito</E
+M>errore m</E
+M>son uomo</E
+M>da dargli ragione in tutto</E
+M>anche quando ne dirà di quelle così massicce</E
+M>un libro</E
+M>un trattato m</E
+M>un bombardamento m</E
+M>un m</E
+M>intervento della polizia</E
+M>una m</E
+M>campagna pubblicitaria</E
+M>di prua</E
+M>di poppa</E
+M>dritto di prua</E
+M>dritto di poppa</E
+M>facciale</E
+M>il m</E
+M>montuoso</E
+M>del Gran Paradiso</E
+M>continentali</E
+M>armoricano</E
+M>centrale</E
+M>il governo è stato massicciamente attaccato dall’opposizione</E

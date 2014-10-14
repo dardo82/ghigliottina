@@ -1,0 +1,84 @@
+dominio.txt
+"dominio"
+"dominio"
+"property, domain, dominion"
+"dominio"
+"dominio"
+"dominio pubblico"
+"il Dominio, l'Impero"
+"the Dominion"
+"pubblico dominio"
+"pubblico dominio"
+"sotto il dominio"
+"sotto il dominio di"
+"teoria del dominio"
+*[[autorità]], [[egemonia]],  [[dominazione]], [[comando]], [[sovranità]], [[possesso]] 
+*''(di sé)'' [[controllo]], [[autocontrollo]], [[self-control]]  
+*''(storia)'' [[possedimento]], [[colonia]]
+*''(dell'arte, della scienza ecc.)''[[sfera]], [[branca]]  
+*[[dipendenza]], [[soggezione]], [[sottomissione]], [[subordinazione]]
+*''(di sé)'' [[impulsività]] 
+*[[dominion]],[[predominio]], [[condomino]], [[ arma di dominio]]
+M>dominium</E
+M>dom</E
+M>nus</E
+M>ambizione</E
+M>sete di dominio</E
+M>insofferente di dominio</E
+M>il d</E
+M>della legge</E
+M>il d</E
+M>di sé stessi</E
+M>dei proprî nervi</E
+M>avere</E
+M>esercitare il d</E
+M>sopra un popolo</E
+M>un territorio</E
+M>sottomettere al proprio d</E
+M>tenere in d</E
+M>cadere in d</E
+M>liberarsi dal d</E
+M>di un tiranno</E
+M>di un oppressore</E
+M>proprietà</E
+M>ho io il d</E
+M>di questi terreni</E
+M>è un d</E
+M>che nessuno mi può contrastare</E
+M>utile</E
+M>diretto</E
+M>vendita con patto di riservato d</E
+M>con riserva della proprietà</E
+M>di d</E
+M>pubblico</E
+M>i beni demaniali sono di d</E
+M>pubblico</E
+M>fatto</E
+M>di d</E
+M>pubblico</E
+M>di pubblico d</E
+M>collettivo</E
+M>armi di d</E
+M>controllo</E
+M>del mare</E
+M>dell’aria</E
+M>acquistare un d</E
+M>il Brasile era un d</E
+M>del Portogallo</E
+M>regno</E
+M>campo</E
+M>àmbito</E
+M>sfera</E
+M>nel d</E
+M>dell’arte</E
+M>delle scienze sociali</E
+M>faunistico</E
+M>mediterraneo</E
+M>floristico</E
+M>inform.</E
+M>ferromagnetico</E
+M>d. magnetico</E
+M>rettangolare</E
+M>circolare</E
+M>di una funzione</E
+M>di una applicazione</E

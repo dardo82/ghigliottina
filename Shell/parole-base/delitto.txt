@@ -1,0 +1,54 @@
+delitto.txt
+"commettere un delitto"
+"delitto"
+"delitto"
+"delitto"
+"delitto capitale"
+"delitto passionale"
+"luogo del delitto"
+*[[reato]], [[crimine]]
+*[[omicidio]], [[assassinio]], [[uccisione]]
+*[[colpa]], [[errore]], [[mancanza]], [[vergogna]], [[peccato]]
+*[[delittuoso]]   
+*Devoto/Oli,''Il dizionario della linga italiana'', edizione cartacea 2000-2001, Le monnier, p. 594  
+M>delictum</E
+M>delinqu</E
+M>delictus</E
+M>contravvenzione</E
+M>contro la persona</E
+M>contro la famiglia</E
+M>contro il patrimonio</E
+M>contro la personalità dello stato</E
+M>contro l’amministrazione della giustizia</E
+M>contro il sentimento religioso</E
+M>contro l’ordine pubblico</E
+M>contro l’incolumità pubblica</E
+M>contro la moralità pubblica e il buon costume</E
+M>doloso</E
+M>colposo</E
+M>premeditato</E
+M>preterintenzionale</E
+M>comune</E
+M>politico</E
+M>omicidio</E
+M>assassinio</E
+M>fare</E
+M>commettere</E
+M>perpetrare un d</E
+M>essere</E
+M>trovarsi coinvolto in un d</E
+M>un efferato</E
+M>un orribile d</E
+M>d’onore</E
+M>passionale</E
+M>perfetto</E
+M>è un d</E
+M>contro la società</E
+M>contro l’umanità</E
+M>ho commesso il d</E
+M>di non dargli la precedenza</E
+M>non sarà un d</E
+M>se arrivo con qualche minuto di ritardo!</E
+M>Quasi delitto</E
+M>obligatio</E
+M>quasi ex delicto</E

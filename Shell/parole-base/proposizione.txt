@@ -1,0 +1,84 @@
+proposizione.txt
+"proposizione"
+"proposizione"
+"proposizione"
+"proposizione"
+"proposizione avverbiale"
+"proposizione principale"
+"proposizione relativa"
+"proposizione subordinata"
+"proposizione subordinata"
+*[[affermazione]], [[enunciazione]], [[asserzione]], [[giudizio]]
+M>propositio</E
+M>onis</E
+M>propon</E
+M>semplice</E
+M>complessa</E
+M>composta</E
+M>elittica</E
+M>affermativa</E
+M>negativa</E
+M>interrogativa</E
+M>principale</E
+M>secondaria</E
+M>oggettiva</E
+M>finale</E
+M>una p</E
+M>filosofica</E
+M>che dice che quando due cose si truovano convenire in una</E
+M>difendere</E
+M>combattere una p</E
+M>condannata come eretica</E
+M>con quelle sue p</E
+M>sciocche</E
+M>io l&#8217;ho per un dirittone e per un impiccione</E
+M>vera</E
+M>falsa</E
+M>semplice</E
+M>atomica</E
+M>composta</E
+M>Calcolo delle p</E
+M>calcolo degli enunciati</E
+M>calcolo dei predicati</E
+M>della legge</E
+M>di una domanda giudiziale</E
+M>la qual p</E
+M>a tutti piacque</E
+M>proposta</E
+M>fare</E
+M>avanzare una p</E
+M>una p</E
+M>strana</E
+M>inaccettabile</E
+M>d&#8217;acquisto</E
+M>p. di pace</E
+M>d&#8217;amore</E
+M>pani della p</E
+M>esplicite</E
+M>implicite</E
+M>p. indipendenti</E
+M>principali</E
+M>dipendenti</E
+M>secondarie</E
+M>coordinate</E
+M>subordinate</E
+M>tanto ... che</E
+M>tanto ... da</E
+M>benché</E
+M>sebbene ...</E
+M>per</E
+M>perché</E
+M>quando</E
+M>non appena</E
+M>dopo che</E
+M>poiché</E
+M>perché</E
+M>qualora</E
+M>tanto ... quanto</E
+M>più ... di</E
+M>meno ... di</E
+M>piove</E
+M>nevica</E
+M>vieni!</E
+M>guardate!</E
+M>andiamo!</E

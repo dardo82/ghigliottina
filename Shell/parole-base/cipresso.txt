@@ -1,0 +1,24 @@
+cipresso.txt
+"cipresso"
+"cipresso calvo"
+M>cupressus</E
+M>cypressus</E
+M>cyparissus</E
+M>Cupressus</E
+M>Cupressus sempervirens</E
+M>maschio</E
+M>femmina</E
+M>Cupressus macrocarpa</E
+M>C. arizonica</E
+M>Olio di c</E
+M>Cupressus sempervirens</E
+M>della California</E
+M>Chamaecyparis lawsoniana</E
+M>giapponese</E
+M>cedro giapponese</E
+M>Cryptomeria japonica</E
+M>della Virginia</E
+M>gaggia</E
+M>Taxodium distichum</E
+M>Bei cipressetti</E
+M>cipressetti miei</E

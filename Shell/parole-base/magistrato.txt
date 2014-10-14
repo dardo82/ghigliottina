@@ -1,0 +1,38 @@
+magistrato.txt
+"magistrato"
+"magistrato"
+"magistrato delle acque"
+"magistrato militare"
+"Primo Magistrato"
+#*''Il magistrato ha condannato in via definitiva l'imputato''
+*[[giudice]], [[pretore]], funzionario di riguardo
+*ufficio amministrativo, carica amministrativa
+*[[lavoro]], [[giudice]], [[imputato]], [[processo]]
+m>magistratus</e
+m>magister</e
+m>pubblico funzionario</e
+m>maggiori</e
+m>minori</e
+m>assumere il m</e
+m>deporre il m</e
+m>che i grandi di avere la parte negli altri uffici si contentassino</e
+m>e al popolo il m</e
+m>de&rsquo; Signori</e
+m>lasciassero</e
+m>molti Romani dall&rsquo;aratro eran chiamati a&rsquo; m</e
+m>deposta la porpora</e
+m>ritornavano all&rsquo;aratro</e
+m>alle acque</e
+m>delle acque</e
+m>per il Po</e
+m>ordinario</e
+m>amministrativo</e
+m>inquirente</e
+m>giudicante</e
+m>di prima istanza</e
+m>d&rsquo;appello</e
+m>giudice</e
+m>rivolgersi al m</e
+m>portare una questione davanti al m</e
+m>il supremo</e
+m>il piu alto</e

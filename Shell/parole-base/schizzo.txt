@@ -1,0 +1,32 @@
+schizzo.txt
+"fare uno schizzo"
+"primo schizzo"
+"schizzo"
+"schizzo"
+"schizzo"
+"schizzo"
+"schizzo"
+"schizzo di una mappa"
+"schizzo in miniatura"
+"schizzo preliminare"
+*[[spruzzo]], [[fiotto]], [[getto]], [[zampillo]] 
+M>uno s. di fango</E
+M>di vernice</E
+M>d&#8217;inchiostro</E
+M>non riesco a smacchiare questo s. di sugo sulla tovaglia</E
+M>un caffè con lo s.</E
+M>con uno s. di rum</E
+M>di grappa</E
+M>vuole uno s. di selz nell&#8217;aperitivo?</E
+M>fare</E
+M>buttare giù uno s.</E
+M>lo s. di un quadro</E
+M>di una facciata</E
+M>uno s. di Morandi</E
+M>lo s. di un mobile</E
+M>di un modello di vestito</E
+M>di un progetto d&#8217;arredamento</E
+M>mi ha fatto uno s. della situazione</E
+M>non si curava d&#8217;entrare in una tal vigna; e forse non istette tanto a guardarla</E
+M> quanto noi a farne questo po&#8217; di schizzo</E
+M>ho già preparato uno s. della relazione</E

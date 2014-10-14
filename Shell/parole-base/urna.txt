@@ -1,0 +1,54 @@
+urna.txt
+"urna"
+"urna"
+* ''(specialmente per le ceneri dei defunti)'' [[vaso]], [[recipiente]], [[contenitore]]; [[reliquiario]], [[arca]]
+*cassetta elettorale
+*''(specialmente plurale)'' [[votazione]], consultazione elettorale, elezione.
+M>urna</E
+M>urceus</E
+M>u. da acqua</E
+M> da vino</E
+M>u. per unguenti</E
+M>u. granarie.</E
+M>u. cineraria</E
+M>funebre</E
+M>urna</E
+M>un’u. etrusca</E
+M> italica</E
+M> romana</E
+M>u. a doppio tronco di cono</E
+M> a capanna</E
+M> a cassetta</E
+M>u. di terracotta</E
+M> di tufo</E
+M> di marmo</E
+M> di alabastro</E
+M> di vetro</E
+M> di metallo</E
+M>u. semplici</E
+M> scolpite</E
+M> dipinte</E
+M>campi d’urne</E
+M>l’u. con il cuore di Francesco I</E
+M>sotto l’altare maggiore sono conservate in un’u. di vetro le reliquie del santo patrono</E
+M>urna</E
+M>O letticciuol ...</E
+M> di che dogliose urne Ti bagna Amor</E
+M>del vin</E
+M> ... Molt’urne dispensò per ricrearli</E
+M>All’ombra de’ cipressi e dentro l’urne Confortate di pianto</E
+M> ... in rustic’urna immerso</E
+M>mettere la scheda</E
+M> la pallina nell’u.</E
+M>estrarre dall’u. i numeri della tombola</E
+M> del lotto</E
+M>chiamare gli elettori alle u.</E
+M>andare alle u.</E
+M>ricorrere alle u.</E
+M>il responso delle u.</E
+M>Congiunti tu non hai</E
+M> Non amiche</E
+M> non ville Che te far possan mai Nell’u. del favor preporre a mille</E
+M>sporogonio</E
+M>ascidio</E
+M>congii</E

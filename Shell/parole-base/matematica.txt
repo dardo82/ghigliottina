@@ -1,0 +1,64 @@
+matematica.txt
+"abilità matematica"
+"costante matematica"
+"enunciazione matematica"
+"fisica matematica"
+"induzione matematica"
+"logica matematica"
+"matematica"
+"matematica"
+"matematica applicata"
+"matematica astratta"
+"matematica combinatoria"
+"matematica elementare"
+"matematica pura"
+"matematica superiore"
+"media matematica"
+"notazione matematica"
+"nuova matematica"
+"precisione matematica"
+"prova matematica"
+#*'''matematica applicata'''
+#*'''matematica finanziaria'''
+#*'''matematica attuariale'''
+#*'''ingegneria matematica'''
+*[[aritmetica]], [[algebra]], [[geometria]]
+*[[fisica]], [[matematico]]
+*[[logica matematica]], [[algebra]], [[teoria dei numeri]], [[combinatoria]], [[geometria]], [[trigonometria]], [[analisi matematica]], [[fisica matematica]], [[teoria delle probabilità]], [[analisi numerica]], [[computazione]], [[teoria dei giochi]], [[matematica finanziaria]]
+*[[scienza]]
+M>mathemat</E
+M>ars</E
+M>aritmetica</E
+M>geometria</E
+M>la m</E
+M>non è un’opinione</E
+M>algebra</E
+M>geometria analitica</E
+M>calcolo infinitesimale</E
+M>meccanica razionale</E
+M>analisi matematica</E
+M>geometria algebrica</E
+M>teoria dei gruppi</E
+M>algebra delle matrici</E
+M>calcolo vettoriale</E
+M>algebra astratta</E
+M>geometrie non euclidee</E
+M>topologia</E
+M>teoria degli insiemi</E
+M>fondamenti della m</E
+M>logicismo</E
+M>logica matematica</E
+M>formalismo</E
+M>intuizionismo</E
+M>matematica</E
+M>le matematiche</E
+M>pura</E
+M>applicata</E
+M>cattedra di m</E
+M>e fisica nei licei</E
+M>un’ora</E
+M>una lezione di m</E
+M>insegnare</E
+M>studiare m</E
+M>un testo di m</E
+M>per le scuole medie</E

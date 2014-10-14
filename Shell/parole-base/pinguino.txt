@@ -1,0 +1,15 @@
+pinguino.txt
+"pinguino"
+"pinguino"
+"pinguino imperatore"
+"pinguino reale"
+#* ''
+*italiano
+*inglese
+M>pingouin</E
+M>pinguin</E
+M>p. imperatore</E
+M>Aptenodytes forsteri</E
+M>p. reale</E
+M>maggiore</E
+M> patagonica</E

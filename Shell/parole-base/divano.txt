@@ -1,0 +1,17 @@
+divano.txt
+"copri-divano"
+"divano"
+"divano a esse"
+"divano letto"
+"divano letto"
+"divano letto"
+"il divano"
+"lasciarsi cadere sul divano"
+*[[sofà]], [[canapè]], [[ottomana]], [[dormeuse]]
+*Devoto/Oli, '' Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 669 
+M>dogana</E
+M>consiglio</E
+M>canapè</E
+M>sofà</E
+M>divano</E
+M>letto</E

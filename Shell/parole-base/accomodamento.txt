@@ -1,0 +1,10 @@
+accomodamento.txt
+"accomodamento"
+"accomodamento"
+M>fare un a</E
+M>venire a un accomodamento</E
+M>accomodazione</E
+M>per estensione</E
+M>per allusione</E
+M>elastico</E
+M>accomodazione</E

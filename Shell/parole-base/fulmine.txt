@@ -1,0 +1,55 @@
+fulmine.txt
+"colpo di fulmine"
+"come un fulmine"
+"come un fulmine"
+"essere un fulmine a ciel sereno."
+"fulmine"
+"fulmine"
+"fulmine a ciel sereno"
+"fulmine a ciel sereno"
+"fulmine di guerra"
+"fulmine globulare"
+"veloce come un fulmine, veloce come una saetta"
+#*''un fulmine ha colpito un albero''
+*[[folgore]], [[saetta]], [[lampo]]
+*[[parafulmine]], [[fulminazione]]
+*''un '''fulmine''' a ciel sereno''
+*italiano
+M>fulmen</E
+M>nis</E
+M>lampo</E
+M>tuono</E
+M>lo scoppio</E
+M>la caduta di un f</E
+M>albero colpito</E
+M>carbonizzato da un fulmine</E
+M>a scintilla</E
+M>lineari</E
+M>diffusi</E
+M>superficiali</E
+M>globulari</E
+M>globulari multipli</E
+M>a rosario</E
+M>a collana di perle</E
+M>lampo</E
+M>un f</E
+M>illuminò improvvisamente la piazza</E
+M>corse via</E
+M>scappò</E
+M>si precipitò nella stanza come un f</E
+M>corre come un f</E
+M>è un f</E
+M>pare un f</E
+M>la notizia fu per noi un f</E
+M>a ciel sereno</E
+M>di guerra</E
+M>i f</E
+M>dell’eloquenza</E
+M>colpo di f</E
+M>coup de foudre</E
+M>lanciava fulmini con lo sguardo</E
+M>i suoi occhi mandavano fuoco e fulmini</E
+M>i f</E
+M>papali</E
+M>della Chiesa</E
+M>del Vaticano</E

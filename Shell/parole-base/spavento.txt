@@ -1,0 +1,36 @@
+spavento.txt
+"spavento"
+"spavento"
+"timore, spavento"
+*[[ paura]], [[timore]], [[terrore]], [[panico]], [[orrore]], [[sgomento]], [[sbigottimento]], [[raccapriccio]], [[allarme]], [[batticuore]], [[tremarella]], [[apprensione]], [[impressione]], [[rimescolamento]], [[sconvolgimento]], [[turbamento]], [[shock]]
+*[[coraggio]], [[audacia]]
+*[[spaventoso]]
+*[[spaventare]], [[spaventarsi]]
+M>fare</E
+M>mettere</E
+M>incutere s.</E
+M>provare</E
+M>sentire un grande s.</E
+M>essere preso</E
+M>assalito dallo s.</E
+M>tremare</E
+M>svenire</E
+M>morire di s.</E
+M>dallo s.</E
+M>rimanere agghiacciato</E
+M>pietrificato dallo s.</E
+M>non sapevate che l&#8217;iniquità non si fonda soltanto sulle sue forze</E
+M> ma anche sulla credulità e sullo s. altrui?</E
+M>quanti s. nel periodo dei bombardamenti!</E
+M>i figli la fanno vivere tra continui s.</E
+M>le femminette cianciavano sulla porta dei sofferti s.</E
+M>con s. vedeva avvicinarsi l&#8217;ora dell&#8217;incontro</E
+M>fare spavento</E
+M>ha una moglie brutta da far s.</E
+M>è così magra da fare s.</E
+M>è di una presunzione da fare spavento</E
+M>Quante volte diss&#8217;io Allor pien di spavento: Costei per fermo nacque in paradiso</E
+M>quella donna così vestita è uno s.</E
+M> un vero s.</E
+M>i muratori mi hanno ridotto la casa uno spavento.</E
+M>m&#8217;hai messo uno spaventaccio!</E

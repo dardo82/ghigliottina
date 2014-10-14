@@ -1,0 +1,4 @@
+paralizzato.txt
+"bloccato da, paralizzato da"
+"paralizzato"
+"paralizzato su un lato"

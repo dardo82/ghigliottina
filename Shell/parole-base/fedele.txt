@@ -1,0 +1,90 @@
+fedele.txt
+"amico fedele"
+"amico fedele"
+"essere fedele a"
+"fedele"
+"fedele"
+"fedele"
+"fedele"
+"fedele al partito"
+"fedele allo spirito"
+"fedele praticante"
+"fedele, leale"
+"fedele, leale"
+"il fedele"
+"restare fedele a, restare con"
+"rimanere fedele a"
+"sempre fedele"
+"servitore fedele"
+*[[credente]], [[devoto]], [[osservante]], [[praticante]], [[pio]], [[seguace]]
+*[[fidato]], [[fido]], [[affezionato]], [[leale]]
+*[[assiduo]], [[costante]]
+*[[autentico]]; [[esatto]], [[preciso]], [[puntuale]], [[conforme]]
+*[[onesto]],   [[accurato]]
+* [[adepto]], [[proselito]], [[tifoso]], [[sostenitore]], [[fan]]  
+*[[frequentatore]], [[cliente]]
+*[[infedele]], [[irreligioso]], [[miscredente]], [[empio]]
+*[[infido]], [[sleale]]
+*[[falso]], [[inesatto]], [[impreciso]]
+*[[fedelmente]]
+*[[fede]], [[fedeltà]] 
+M>lis</E
+M>fides</E
+M>sposa f</E
+M>marito f</E
+M>amico f</E
+M>impiegato</E
+M>amministratore</E
+M>servitore f</E
+M>un cane f</E
+M>al marito</E
+M>alla moglie</E
+M>all’amico</E
+M>essere f</E
+M>alla promessa</E
+M>al dovere</E
+M>ai proprî ideali</E
+M>racconto</E
+M>relazione</E
+M>esposizione f</E
+M>copia</E
+M>versione f</E
+M>ritratto</E
+M>biografia f</E
+M>apparecchio f</E
+M>storico</E
+M>traduttore</E
+M>interprete fedele</E
+M>i f</E
+M>e gl’infedeli</E
+M>invito</E
+M>avviso ai f</E
+M>la campana che chiama i f</E
+M>alla messa</E
+M>il muezzin chiama i f</E
+M>alla preghiera</E
+M>i f</E
+M>della monarchia</E
+M>chiamo e sollecito i f</E
+M>d’Amore a piangere</E
+M>La f</E
+M>di Roma</E
+M>Trieste</E
+M>uno f</E
+M>d’un signore</E
+M>che tenea sua terra</E
+M>Novellino</E
+M>fedeli</E
+M>gasindi</E
+M>fedelissimo</E
+M>la fedelissima</E
+M>fedelmente devoto</E
+M>amare</E
+M>servire fedelmente</E
+M>ripetere</E
+M>tradurre fedelmente</E
+M>riferire fedelmente i fatti</E
+M>eseguire fedelmente gli ordini</E
+M>Metti in versi la vita</E
+M> trascrivi Fedelmente</E
+M> senza tacere particolare alcuno L’evidenza dei vivi</E

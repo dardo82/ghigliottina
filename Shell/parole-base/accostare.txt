@@ -1,0 +1,34 @@
+accostare.txt
+"accostare"
+"accostare"
+"accostare"
+"accostare"
+#* avvicinare il [[battente]] di una [[porta]] o di una [[finestra]] 
+* [[scostare]], [[scostarsi]]
+*[[accostarsi]]
+*[[accostabile]],  [[accostamento]],  [[accostata]],  [[accostevole]]
+M>accostare</E
+M>costa</E
+M>io accòsto</E
+M>il bicchiere alla bocca</E
+M>il cibo alle labbra</E
+M>una scala al muro</E
+M>qualcuno</E
+M>una porta</E
+M>una finestra</E
+M>nessuno gli si accostava</E
+M>accostarsi al muro</E
+M>a un albero</E
+M>accostarsi ai classici</E
+M>a un’arte</E
+M>accostarsi ai sacramenti</E
+M>accostarsi a un filosofo</E
+M>accostarsi a</E
+M>con</E
+M>qualcuno</E
+M>un colore che si accosta al</E
+M> con il</E
+M> giallo</E
+M>avere</E
+M>è una persona accostante</E
+M>vino morbido e accostante</E

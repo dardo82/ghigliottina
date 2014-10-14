@@ -1,0 +1,59 @@
+adesso.txt
+"adesso"
+"adesso"
+"adesso"
+"adesso - ora - mo'"
+"adesso come adesso"
+"adesso non esageriamo!"
+"adesso o mai più, ora o mai più"
+"Adesso sì che ci siamo!"
+"adesso vi faccio vedere io"
+"anche adesso"
+"fino adesso"
+"non per come sono le cose adesso"
+"per adesso"
+"prima di adesso"
+"proprio adesso"
+"proprio adesso"
+*[[ora]], [[attualmente]], [[subito]], al presente, al momento, all’istante
+* or ora, poco fa, un momento fa
+* tra poco, a momenti.
+*[[allora]], una volta, [[prima]], un tempo, nel passato
+*italiano
+*veneto
+M>ora</E
+M>non posso riceverlo</E
+M>sono occupato</E
+M>da a</E
+M>in poi</E
+M>fin d’a</E
+M>fino a</E
+M>per a</E
+M>per a</E
+M>è meglio soprassedere</E
+M>e adesso?</E
+M>sì che</E
+M>sì che l’hai combinata bella!</E
+M>sì che stiamo freschi!</E
+M>che</E
+M>che abbiamo finito il lavoro</E
+M>possiamo riposarci</E
+M>che i soldi son terminati</E
+M>cosa facciamo?</E
+M>di adesso</E
+M>la moda</E
+M>la morale</E
+M>la gioventù di adesso</E
+M>sono stato a</E
+M>da lui</E
+M>m’ha telefonato proprio a</E
+M>adesso adesso</E
+M>dovrebbe venir qui a</E
+M>te lo dico</E
+M>lo fa in gioia ritornare</E
+M>come</E
+M>a. che</E
+M>Ch’a</E
+M>con’ fu ’l sole Sì tosto lo splendore fu lucente</E
+M>così ho fatto la risposta a</E
+M>che siamo tornati da Palazzo</E

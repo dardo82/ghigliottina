@@ -1,0 +1,101 @@
+tessuto.txt
+"decorato a mano (di tessuto)"
+"denim (tessuto)"
+"tessuto"
+"tessuto"
+"tessuto"
+"tessuto a rombi"
+"tessuto adiposo"
+"tessuto adiposo"
+"tessuto antico"
+"tessuto antimacchia"
+"tessuto cellulare"
+"tessuto connettivo"
+"tessuto di granulazione"
+"tessuto di lana"
+"tessuto di lana"
+"tessuto di vetro filato"
+"tessuto facciale"
+"tessuto fine"
+"tessuto in spugna"
+"tessuto lavorato a maglia"
+"tessuto leggero"
+"tessuto mimetico"
+"tessuto morbido"
+"tessuto muscolare"
+"tessuto necrotico"
+"tessuto nutritivo"
+"tessuto organico"
+"tessuto originario"
+"tessuto pied-de-poule"
+"tessuto rigato"
+"tessuto rigato"
+"tessuto ruvido"
+"tessuto ruvido"
+"tessuto sintetico"
+"Tessuto sociale"
+"tessuto spigato"
+"tessuto stampato"
+"tessuto urbano"
+"tessuto vascolare"
+"tessuto, stoffa"
+*[[intrecciato]]
+*(di inganni, tradimenti) [[architettato]], [[macchinato]], [[tramato]], [[ordito]]
+*[[stoffa]]
+*[[sciolto]], [[disfatto]], [[sfilato]]
+*(di inganni, tradimenti)[[fallito]], [[sventato]]
+*[[tessere]], [[tessile]]
+M>tessere</E
+M>t. a intreccio di maglia</E
+M>t. a intreccio semplice</E
+M>treccia</E
+M>t. a intreccio per nodi</E
+M>ordito</E
+M>catena</E
+M>trama</E
+M>armatura</E
+M>lisci</E
+M>uniti</E
+M>operati</E
+M>Tessuti a pelo</E
+M>t. di cotone</E
+M>di lino</E
+M>di seta</E
+M>di lana</E
+M>t. cardato</E
+M>pettinato</E
+M>t. misto</E
+M>t. in fibre artificiali</E
+M>sintetiche</E
+M>t. artificiale</E
+M>sintetico</E
+M>t. di vetro</E
+M>t. metallici</E
+M>non tessuto</E
+M>fondo</E
+M>t. epiteliali</E
+M>t. connettivi</E
+M>t. muscolari</E
+M>t. nervosi</E
+M>t. di reazione</E
+M>di granulazione</E
+M>t. meristematici</E
+M>t. definitivi</E
+M>adulti</E
+M>sistema tegumentale</E
+M> parenchimatico</E
+M> conduttore</E
+M> meccanico</E
+M> secretore</E
+M>escretore</E
+M>trama</E
+M>queste accuse sono tutte un t. di menzogne</E
+M>la sua vita è stata un t. di avventure incredibili</E
+M>il t. di un romanzo</E
+M>di un racconto</E
+M>di un&#8217;opera drammatica.</E
+M>t. urbano</E
+M>t. viario</E
+M>t. edilizio</E
+M>rispettare il t. medievale di un quartiere del centro storico</E
+M>alterare il t. ottocentesco di un quartiere.</E

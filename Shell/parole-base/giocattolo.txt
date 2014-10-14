@@ -1,0 +1,16 @@
+giocattolo.txt
+"casa-giocattolo"
+"fucile giocattolo con schioppo"
+"giocattolo"
+"giocattolo"
+"giocattolo"
+"giocattolo rotto"
+*[[balocco]]
+* [[giocattolaio]]
+M>fabbrica</E
+M>negozio</E
+M>esposizione di giocattoli</E
+M>fiera del g</E
+M>l’industria dei giocattoli</E
+M>essere un g</E
+M>nelle mani di qualcuno</E

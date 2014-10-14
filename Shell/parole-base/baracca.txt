@@ -1,0 +1,33 @@
+baracca.txt
+"baracca"
+"baracca"
+"baracca"
+"baracca"
+"baracca e burattini"
+"Terms used in diomatic expressions referring to home (baracca) and family (burattini). “Piantare baracca e burratini” is an idiomatic expression for saying “To give it all up”."
+"raddrizzare la baracca"
+"Salvare la baracca"
+#* ''alloggiare in una 
+#* ''mettere gli arnesi in una 
+#* ''quell'azienda è una 
+#* ''mandare avanti la 
+* [[baraccopoli]]
+* ''andare in 
+* ''piantare 
+* ''fare 
+M>barraca</E
+M>la b</E
+M>di un cantiere edile</E
+M>povera gente che abita in baracche alla periferia della città</E
+M>guardò la debole luce che filtrava dalle fessure della b. e si alzò cercando di non fare rumore</E
+M>stentare a mandare avanti la b</E
+M>reggere</E
+M>tener su</E
+M>aiutare la baracca</E
+M>piantare b</E
+M>e burattini</E
+M>mettere su b</E
+M>andare</E
+M>mandare in b</E
+M>andare in b</E
+M>Fare baracca</E

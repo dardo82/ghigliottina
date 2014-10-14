@@ -1,0 +1,29 @@
+genuino.txt
+"genuino"
+"genuino"
+"genuino"
+"genuino; autentico"
+"non genuino"
+"sano; genuino"
+"sincero, genuino, autentico"
+*''(di cibo, prodotto) [[semplice]], [[naturale]]
+*''(di documento)'' [[originale]], [[autentico]], [[vero]]
+*[[aperto]]
+*''(di cibo, prodotto)'' [[sofisticato]], [[adulterato]]
+*''(di documento)'' [[contraffatto]], [[falso]]
+* [[falsificato]],  [[artificioso]],  [[doppio]]
+M>genuinus</E
+M>genu</E
+M>gign</E
+M>genus</E
+M>vino g</E
+M>prodotti g</E
+M>di fattoria</E
+M>documento g</E
+M>sentimenti g</E
+M>notizia g</E
+M>un riso g</E
+M>una frase</E
+M>un’espressione g</E
+M>ha un carattere aperto e g</E
+M>è una ragazza veramente genuina</E

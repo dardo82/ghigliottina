@@ -1,0 +1,12 @@
+millimetro.txt
+"a un millimetro"
+"al millimetro"
+"millimetro"
+"millimetro quadrato"
+"millimetro quadro, millimetro quadrato"
+*[[millimetrare]]
+M>milli</E
+M>metro</E
+M>millimètre</E
+M>millimetro di mercurio</E
+M>torr</E

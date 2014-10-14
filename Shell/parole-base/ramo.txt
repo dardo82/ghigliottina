@@ -1,0 +1,134 @@
+ramo.txt
+"ramo"
+"ramo"
+"ramo"
+"ramo"
+"ramo assicurativo"
+"ramo d'attività"
+"ramo d'attività"
+"ramo d'olivo"
+"ramo d'ulivo"
+"ramo della medicina"
+"ramo esecutivo"
+#* ''Portò alla madre un '''ramo''' di vischio come regalo''
+*[[fronda]], [[frasca]], [[tralcio]]
+*[[albero]]
+*'''''ramo''' secco''
+*italiano
+*portoghese
+M>ramus</E
+M>primarî</E
+M>maestri</E
+M>branche</E
+M>di secondo ordine</E
+M>rametti</E
+M>ramoscelli</E
+M>ramicelli</E
+M>vermene</E
+M>getti</E
+M>germogli</E
+M>a frutto</E
+M>fruttanti</E
+M>misti</E
+M>ramo</E
+M>un pino dai r</E
+M>contorti</E
+M>una pianta che comincia a mettere i r</E
+M>un pesco con r</E
+M>carichi di frutti</E
+M>una rosa dai r</E
+M>spinosi</E
+M>diritti</E
+M>storti</E
+M>lisci</E
+M>nodosi</E
+M>verdi</E
+M>secchi</E
+M>secco</E
+M>un r. secco delle ferrovie</E
+M>di una linea di trasporti automobilistici</E
+M>di un&#8217;industria</E
+M>di un&#8217;impresa commerciale</E
+M>di una famiglia</E
+M>i r</E
+M>palchi</E
+M>delle corna dei cervi</E
+M>un r</E
+M>di corallo</E
+M>i r</E
+M>delle arterie</E
+M>delle vene</E
+M>dei bronchi</E
+M>i r</E
+M>principali</E
+M>secondarî</E
+M>di una galleria</E
+M>di una rete ferroviaria</E
+M>stradale</E
+M>di un circuito elettrico</E
+M>rami di un fiume</E
+M>i r</E
+M>del Po presso la foce</E
+M>i r</E
+M>del Danubio</E
+M>sorgentiferi</E
+M>rami di un lago</E
+M>quel r</E
+M>del lago di Como</E
+M>che volge a mezzogiorno</E
+M>lato</E
+M> ramo</E
+M>di origine P</E
+M>di una curva piana</E
+M>i r</E
+M>di una grande famiglia</E
+M>di un&#8217;antica casata</E
+M>un r</E
+M>secondario</E
+M>un r</E
+M>cadetto</E
+M>i varî r</E
+M>dei Borboni</E
+M>un r</E
+M>dei Doria ormai estinto</E
+M>Rade volte risurge per li rami L&#8217;umana probitate</E
+M>i varî r</E
+M>un r</E
+M>di una scienza</E
+M>di una disciplina</E
+M>di una tecnica</E
+M>di un&#8217;attività economica</E
+M>commerciale</E
+M>l&#8217;ittiologia è un r</E
+M>della zoologia</E
+M>un r</E
+M>applicativo dell&#8217;elettronica</E
+M>il r</E
+M>metalmeccanico</E
+M>tessile</E
+M>dolciario dell&#8217;industria</E
+M>bancario</E
+M>assicurativo</E
+M>vita</E
+M>infortunî</E
+M>incendî</E
+M>i due r</E
+M>del parlamento</E
+M>r. della specie umana</E
+M>il r</E
+M>europoide</E
+M>australoide</E
+M>negroide</E
+M>mongoloide</E
+M>un r</E
+M>di pazzia</E
+M>in quella famiglia</E
+M>in quella casa c&#8217;è sempre stato un r</E
+M>di pazzia</E
+M>ha anche lui un r</E
+M>di pazzia</E
+M>rami</E
+M>ràmora</E
+M>pràtora</E
+M>s&#8217;innovò la pianta</E
+M>Che prima avea le ramora sì sole</E

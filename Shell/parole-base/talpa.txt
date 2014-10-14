@@ -1,0 +1,45 @@
+talpa.txt
+"cumulo di terra sopra una tana di talpa"
+"talpa"
+"talpa"
+"talpa"
+M>talpa</E
+M>Talpa</E
+M>Talpa romana</E
+M>Talpa europaea</E
+M>Talpa caeca</E
+M>essere cieco come una t.</E
+M>essere una t.</E
+M>un mantello</E
+M>una giacca di t.</E
+M>un cappotto foderato di t. nera.</E
+M>Colore t.</E
+M>talpa</E
+M>un tessuto</E
+M>una gonna</E
+M>guanti talpa</E
+M>color t.</E
+M>grigio talpa</E
+M>tingere un vecchio mantello in talpa.</E
+M>è una t.</E
+M>è una vecchia t.</E
+M>che talpa!</E
+M>La taupe</E
+M>La talpa</E
+M>Tinker</E
+M>tailor</E
+M>soldier</E
+M>spy</E
+M>la t. del Palazzo di Giustizia</E
+M>si pensa che la fuga di notizie sia dovuta alla presenza di una t. nel ministero della Difesa.</E
+M>topo delle chiaviche</E
+M>talpone</E
+M>T. dorata</E
+M>Chrysochloridae</E
+M>T. marsupiale</E
+M>Notoryctes typhlops</E
+M>Ratti talpa</E
+M>mucchio di talpe</E
+M>Aratro t.</E
+M>aratro fognatore</E
+M>aratro di drenaggio</E

@@ -1,0 +1,95 @@
+modulo.txt
+"completato (modulo)"
+"dentatrice, fresa a modulo"
+"modulo"
+"modulo"
+"modulo"
+"modulo"
+"modulo"
+"modulo"
+"modulo"
+"modulo"
+"modulo applicativo"
+"modulo d'ordine"
+"modulo d'ordine"
+"modulo dell'orario"
+"modulo di adesione"
+"modulo di autorizzazione"
+"modulo di comando"
+"modulo di domanda"
+"modulo di elasticità"
+"modulo di elasticità"
+"modulo di gara"
+"modulo di iscrizione"
+"modulo di rientro"
+"modulo di rifiuto"
+"modulo di servizio"
+"modulo di taglio"
+"modulo didattico"
+"modulo lunare"
+#*''2 è congruente a 5 
+*[[valore assoluto]], [[modello]], [[stampato]], [[foglio]] 
+*'' (fig.)'' [[modello]], [[canone]]
+*[[modularità]], [[modulabile]], [[modulante]], [[modulare]], [[modulario]], [[modularità]], [[modulato]], [[modulatore]], [[modulazione]], [[modulistica]], [[modulometro]]
+*Devoto/Oli, '' Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1293
+M>mod</E
+M>lus</E
+M>modus</E
+M>modulare</E
+M>m. vitruviano</E
+M>il m</E
+M>di un salotto</E
+M>di una cucina</E
+M>di una libreria</E
+M>il m</E
+M>di un impianto ad alta fedeltà</E
+M>canone</E
+M>il m</E
+M>dei certificati</E
+M>di contratto</E
+M>redigere una domanda secondo il m</E
+M>prescritto</E
+M>riempire un m</E
+M>per telegrammi</E
+M>per la spedizione di merci</E
+M>per note informative</E
+M>per versamenti in conto corrente</E
+M>vaglia</E
+M>contabile</E
+M>modello</E
+M>di rilevazione</E
+M>continui</E
+M>a carta continua</E
+M>a striscia continua</E
+M>M. monetario</E
+M>unità monetaria</E
+M>forma</E
+M>modellatore</E
+M>di resistenza</E
+M>di elasticità longitudinale</E
+M>di elasticità trasversale</E
+M>di dentatura</E
+M>calcareo</E
+M>dei fondenti</E
+M>silicico</E
+M>di alimentazione</E
+M>di comando</E
+M>di soccorso</E
+M>estraibile</E
+M>intercambiabile</E
+M>lunare</E
+M>Modulo di memoria</E
+M>di un numero reale</E
+M>di un numero complesso</E
+M>di un vettore</E
+M>Operazione modulo n</E
+M>ampiezza</E
+M>di distanza</E
+M>etogramma</E
+M>m. di lettura</E
+M>reading frame</E
+M>m. organizzativo</E
+M>modulo</E
+M>m. orizzontale</E
+M>m. verticale</E
+M>la squadra vinse il campionato applicando il m. 4-3-3</E

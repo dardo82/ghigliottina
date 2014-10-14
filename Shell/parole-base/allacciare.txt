@@ -1,0 +1,36 @@
+allacciare.txt
+"allacciare"
+"allacciare"
+"allacciare"
+"allacciare le scarpe"
+"annodare, allacciare"
+*''(il cappotto, la cinghia, le cinture di sicurezza)'' [[legare]], [[chiudere]], [[stringere]], [[annodare]], [[agganciare]], [[abbottonare]]
+*''(un impianto, un apparecchio)'' [[unire]], [[attaccare]], [[congiungere]], [[collegare]], [[connettere]], [[raccordare]]
+*''(il cappotto, la cinghia, le cinture di sicurezza)'' [[slanciare]], [[aprire]], [[sciogliere]]
+*''(un impianto, un apparecchio)'' [[staccare]], [[separare]], [[disunire]], [[disgiungere]]
+*[[allacciarsi]]
+M>io allàccio</E
+M>le scarpe</E
+M>il busto</E
+M>il mantello</E
+M>allacciarsi la cintura</E
+M>le scarpe</E
+M>il reggiseno</E
+M>Dal suo scudier l’elmo allacciar si fece</E
+M>una fune</E
+M>le viti</E
+M>un’arteria</E
+M>una vena</E
+M>le acque</E
+M>il telefono</E
+M>il gas</E
+M>due tronchi di ferrovia</E
+M>due centri</E
+M>due località</E
+M>un’amicizia</E
+M>nuove relazioni</E
+M>tenere la cintura di sicurezza allacciata</E
+M>portava un bel busto di broccato a fiori</E
+M>con le maniche separate e allacciate da bei nastri</E
+M>i due corpi allacciati vacillano accennando di cadere</E
+M>allacciato in giro</E

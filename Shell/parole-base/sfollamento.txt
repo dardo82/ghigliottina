@@ -1,0 +1,11 @@
+sfollamento.txt
+"Traduzione di sfollamento/ non trovata.\nNo translation was found for sfollamento/."
+M>disporre</E
+M>ordinare lo s. di un teatro</E
+M>di uno stadio</E
+M>lo s. della città</E
+M>delle zone costiere</E
+M>lo s. della popolazione dai grandi centri</E
+M>il periodo dello s. nell&#8217;ultima guerra</E
+M>lo s. dei quadri delle forze armate</E
+M>s. della pubblica amministrazione</E

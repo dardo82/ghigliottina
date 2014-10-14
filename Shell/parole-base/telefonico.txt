@@ -1,0 +1,52 @@
+telefonico.txt
+"apparecchio telefonico"
+"centralino telefonico"
+"centralino telefonico"
+"collegamento telefonico"
+"collegamento telefonico"
+"combinatore telefonico"
+"commutatore telefonico"
+"elenco telefonico"
+"elenco telefonico"
+"elenco telefonico"
+"elenco telefonico"
+"numero telefonico"
+"polo telefonico"
+"prefisso telefonico"
+"ricevitore telefonico"
+"tabulato telefonico"
+"telefonico"
+"terminale telefonico"
+"traffico telefonico"
+"ufficio telefonico"
+*[[punto telefonico]]
+*[[telefono]]
+M>-ci</E
+M>impianto t.</E
+M>cavo t.</E
+M>rete</E
+M>linea t.</E
+M>centrale t.</E
+M>centralino t.</E
+M>commutazione t. manuale</E
+M>automatica</E
+M>traffico t.</E
+M>cabina t.</E
+M>apparecchio t.</E
+M>numero t.</E
+M>società t.</E
+M>servizio t.</E
+M>elenco t.</E
+M>Pagine gialle</E
+M>elenco t. stradale</E
+M>carta t.</E
+M>carta di credito telefonica</E
+M>banca t.</E
+M>phone banking</E
+M>segreteria t.</E
+M>boa t.</E
+M>contatto</E
+M>collegamento t.</E
+M>comunicazione</E
+M>conversazione telefonica.</E
+M>mettersi telefonicamente in contatto con qualcuno.</E

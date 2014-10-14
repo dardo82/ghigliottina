@@ -1,0 +1,12 @@
+aeroplano.txt
+"aeroplano"
+"aeroplano a reazione"
+"aeroplano a reazione"
+"aeroplano nemico"
+"costruire un modellino di aeroplano"
+"motore di aeroplano"
+*[[ aereo]], [[aeromobile]], [[velivolo]]
+*Enciclopedia [http
+m>aéroplane</e
+m>velivolo</e
+m>aereo</e

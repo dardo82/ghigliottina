@@ -1,0 +1,77 @@
+confortare.txt
+"aiutare e confortare"
+"confortare"
+"confortare"
+"confortare"
+"confortare, replace: confortarsi"
+"confortare, replace: confortarsi"
+M>confortare</E
+M>fortis</E
+M>io confòrto</E
+M>ho fatto di tutto per confortarlo</E
+M>qualcuno nelle sue pene</E
+M>nelle sue afflizioni</E
+M>nel suo dolore</E
+M>le pene</E
+M>le afflizioni</E
+M>di qualcuno</E
+M>Nulla speranza li conforta mai</E
+M>mi conforta il pensiero dei miei cari</E
+M>era confortato dall’affetto degli amici</E
+M>un condannato a morte</E
+M>All’ombra de’ cipressi e dentro l’urne Confortate di pianto</E
+M>Confortarsi</E
+M>mi conforto pensando che presto tutto sarà finito</E
+M>mi confortava a persistere nella ricerca</E
+M>Lo bel pianeto</E
+M>che d’amar conforta</E
+M>l’animo</E
+M>la mente</E
+M>è una lettura che conforta lo spirito</E
+M>vino</E
+M>liquore</E
+M>caffè che c</E
+M>lo stomaco</E
+M>confortava la sua teoria di numerose citazioni</E
+M>confortò l’uso della parola con esempî tratti dai classici</E
+M>è un pensiero confortante</E
+M>una confortante notizia</E
+M>bevanda confortante</E
+"aiutare e confortare"
+"confortare"
+"confortare"
+"confortare"
+"confortare, replace: confortarsi"
+"confortare, replace: confortarsi"
+M>confortare</E
+M>fortis</E
+M>io confòrto</E
+M>ho fatto di tutto per confortarlo</E
+M>qualcuno nelle sue pene</E
+M>nelle sue afflizioni</E
+M>nel suo dolore</E
+M>le pene</E
+M>le afflizioni</E
+M>di qualcuno</E
+M>Nulla speranza li conforta mai</E
+M>mi conforta il pensiero dei miei cari</E
+M>era confortato dall’affetto degli amici</E
+M>un condannato a morte</E
+M>All’ombra de’ cipressi e dentro l’urne Confortate di pianto</E
+M>Confortarsi</E
+M>mi conforto pensando che presto tutto sarà finito</E
+M>mi confortava a persistere nella ricerca</E
+M>Lo bel pianeto</E
+M>che d’amar conforta</E
+M>l’animo</E
+M>la mente</E
+M>è una lettura che conforta lo spirito</E
+M>vino</E
+M>liquore</E
+M>caffè che c</E
+M>lo stomaco</E
+M>confortava la sua teoria di numerose citazioni</E
+M>confortò l’uso della parola con esempî tratti dai classici</E
+M>è un pensiero confortante</E
+M>una confortante notizia</E
+M>bevanda confortante</E

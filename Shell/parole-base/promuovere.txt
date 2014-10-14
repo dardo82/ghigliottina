@@ -1,0 +1,60 @@
+promuovere.txt
+"avanzamento, promuovere"
+"promuovere"
+"promuovere"
+"promuovere (qualcuno, qualcosa)"
+"promuovere la crescita"
+"promuovere una lite"
+#* ''Mario è stato '''promosso''' a quadro''
+#* ''all'esame hanno '''promosso''' solo Carla''
+#* ''l'avvocato vuole 
+#* ''molti ormai '''promuovono''' la causa ecologista''
+#* ''la scelta di non abortire è '''promossa''' da molte onlus''
+#* ''questa molecola promuove la formazione di anticorpi''
+* dare impulso, [[incoraggiare]], [[favorire]], [[sostenere]], [[appoggiare]], [[caldeggiare]]
+*[[iniziare]], dare inizio, [[avviare]], [[proporre]], [[fondare]], [[istituire]]
+*(di dipendente) elevare di grado
+*(nella scuola) [[passare]], [[ammettere]]
+*[[impedire]], [[ostacolare]], [[contrastare]]
+*[[degradare]], [[arretrare]], [[retrocedere]]
+*(nella scuola) [[bocciare]], [[respingere]], [[rimandare]]
+M>promov</E
+M>pro</E
+M>mov</E
+M>muovere</E
+M>gli studî</E
+M>le arti</E
+M>le scienze</E
+M>la cultura</E
+M>la civiltà</E
+M>il progresso</E
+M>le vendite</E
+M>una campagna d&#8217;opinione</E
+M>una sottoscrizione</E
+M>un&#8217;indagine</E
+M>una ricerca</E
+M>una dimostrazione di protesta</E
+M>il giudizio</E
+M>una causa di beatificazione</E
+M>un&#8217;azione legale</E
+M>dovendone in Toscana venire con messer Carlo Senzaterra</E
+M>da papa Bonifazio addomandato e al venir promosso</E
+M>la traspirazione</E
+M>la sudorazione</E
+M>un farmaco che promuove il vomito</E
+M>da capitano a maggiore</E
+M>è stato promosso maresciallo</E
+M>a maresciallo</E
+M>il direttore gli ha promesso di promuoverlo caporeparto</E
+M>per rimuovere</E
+M>promoveatur ut amoveatur</E
+M>alla seconda classe</E
+M>dalla prima in seconda</E
+M>non era stato promosso e dovette ripetere l&#8217;anno</E
+M>promuovere</E
+M>essere promosso a un esame</E
+M>agli esami</E
+M>promosso con ottimi voti</E
+M>promosso per merito speciale</E
+M>gli alunni promossi sono 23</E
+M>i promossi e i bocciati</E

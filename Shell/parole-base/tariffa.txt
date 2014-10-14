@@ -1,0 +1,45 @@
+tariffa.txt
+"paga base, tariffa base"
+"pagare una tariffa superiore, maggiorata"
+"tariffa"
+"tariffa al pubblico"
+"tariffa di gruppo"
+"tariffa di nolo"
+"tariffa diretta"
+"tariffa per una classe"
+"tariffa telefonica"
+"trovare un volo ad una tariffa speciale"
+*[[prezzo]], [[costo]], [[spesa]], [[quota]], [[imposta]], [[compenso]], [[onorario]]
+*[[tariffale]], [[tariffare]], [[tariffario]]
+M>t. ferroviarie</E
+M>postali</E
+M>dell&#8217;energia elettrica</E
+M>del gas</E
+M>dell&#8217;acqua potabile</E
+M>t. d&#8217;incasso</E
+M>t. di riporto</E
+M>t. di noli</E
+M>t. salariali</E
+M>t. di cottimo</E
+M>t. professionali</E
+M>t. proporzionali</E
+M>differenziali</E
+M>t. unica</E
+M>discriminata</E
+M>t. ferroviarie</E
+M>t. speciali</E
+M>ridotte.</E
+M>elenco</E
+M>dei prezzi unitarî</E
+M>t. dei dazî doganali</E
+M>t. delle imposte di registro</E
+M>di bollo</E
+M>ipotecarie</E
+M>t. giudiziaria</E
+M>t. consolare</E
+M>t. delle tasse consolari</E
+M>t. delle pene</E
+M>farsi dare</E
+M>consultare la tariffa.</E
+M>emanare la t.</E
+M>t. monetaria</E

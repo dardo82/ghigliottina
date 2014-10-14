@@ -1,0 +1,33 @@
+presso.txt
+"atto o bene depositato presso terzi"
+"avere il conto presso la"
+"cadere in disgrazia presso qualcuno"
+"che scorre presso"
+"conto presso"
+"imbottigliato presso lo stabilimento di"
+"in cura presso"
+"intercedere presso"
+"intercedere presso qualcuno per qualcosa"
+"laurea conseguita presso"
+"prenotare presso"
+"prenotare presso"
+"presso"
+"presso"
+"presso la corte"
+"presso la vostra sede"
+"presso le autorità"
+"reclamare presso"
+"trasferimento di una causa presso un altro tribunale"
+"visitare presso"
+*[[vicino]]
+*[[appresso]]
+*[[pressappoco]] / [[pressapoco]] / [[press'a poco]]
+*[[pressoché]] / [[presso che]]
+*[[appo]]
+*[[vicino]] a (1)
+*[[accanto]] a (2)
+*a [[fianco]] di (2)
+*a [[casa]] di (3) (with)
+*[[da]] (3)
+*[[tra]] / [[fra]] (4)
+*[[pressi]]

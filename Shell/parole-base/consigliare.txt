@@ -1,0 +1,12 @@
+consigliare.txt
+"consigliare"
+"consigliare"
+"consigliare, replace: consigliarsi"
+"consigliare a qualcuno di fare qualcosa"
+"consigliare,addestrare"
+"consigliare,addestrare"
+"raccomandare vivamente, consigliare caldamente"
+"suggerire qualcosa a qualcuno, consigliare qualcosa a qualcuno"
+*[[raccomandare]], [[suggerire]]
+*[[consigliarsi]]
+*[[consigliabile]], [[consigliato]], [[consiglio]]

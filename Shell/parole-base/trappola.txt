@@ -1,0 +1,57 @@
+trappola.txt
+"con trappola esplosiva"
+"lampada trappola"
+"prendere nella trappola"
+"tendere una trappola a qualcuno"
+"trappola"
+"trappola"
+"trappola"
+"trappola cromoattiva"
+"trappola cromotropica"
+"trappola esplosiva"
+"trappola per lepri"
+"trappola per orsi"
+"trappola per topi"
+"trappola per topi"
+*''(per catturare animali)'' [[tagliola]], [[laccio]], [[rete]], [[calappio]], [[botola]], [[esca]], [[gabbia]]
+*[[scappatoia]]
+*Enciclopedia [http
+M>*trappa</E
+M>trappe</E
+M>t. a cassetta</E
+M>t. a laccio</E
+M>t. a scatto</E
+M>tagliole</E
+M>t. a caduta</E
+M>nassa.</E
+M>stai attento</E
+M> è una t.</E
+M>predisporre</E
+M>ordire una t.</E
+M>tendere una t. a qualcuno</E
+M>cadere</E
+M>restare in t.</E
+M>nella t.</E
+M>essere in t.</E
+M>il ladro è caduto in t.</E
+M>t. meccaniche</E
+M>t. esplosive</E
+M>t. discendenti</E
+M>t. a leva</E
+M>mine antiuomo</E
+M>non raccontare trappole</E
+M>sarà una t. come tante altre che ci ha voluto dar da bere.</E
+M>questo accendigas è una t.</E
+M>con quella t. di auto rimarrai per la strada</E
+M>sono delle t.</E
+M> questi vecchi bastimenti.</E
+M>fiori</E
+M>trappola</E
+M>nido trappola</E
+M>t. petrolifera</E
+M>t. tettonica</E
+M>strutturale.</E
+M>t. ionica</E
+M>t. di luce</E
+M>t. di vapore</E
+M>scaricatore di condensa</E

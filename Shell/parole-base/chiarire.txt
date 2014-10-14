@@ -1,0 +1,44 @@
+chiarire.txt
+"chiarire"
+"schiarire, purificare"
+"chiarire"
+#*''Cercherò di '''chiarirvi''' il concetto che ha espresso''
+M>io chiarisco</E
+M>tu chiarisci</E
+M>un disegno</E
+M>le tinte</E
+M>lo sfondo</E
+M>il vino</E
+M>l’olio</E
+M>un verso oscuro</E
+M>un dubbio</E
+M>un enigma</E
+M>un sospetto</E
+M>una situazione imbarazzante</E
+M>bisognerà ch</E
+M>meglio la sua posizione</E
+M>ho chiarito al commissario come stavano le cose</E
+M>chiarisco subito di essere contrario</E
+M>che sono contrario</E
+M>poi che Carlo tuo</E
+M>bella Clemenza</E
+M>M’ebbe chiarito</E
+M>mi narrò li ’nganni</E
+M>bastava passarvi</E
+M>per esser chiarito della condizione e de’ costumi del paese</E
+M>desidero chiarirmi bene sulle sue intenzioni</E
+M>prima di sfogare la collera</E
+M>lo consigliava a tacere e a chiarirsi</E
+M>per non correrla fuori di proposito</E
+M>essere</E
+M>aspetta che il caffè chiarisca</E
+M>l’olio</E
+M>vicino al fuoco</E
+M>chiariva</E
+M>l’acqua non s’è ancora chiarita</E
+M>la situazione si è chiarita</E
+M>e ’l suo voler piacermi Significava nel chiarir di fori</E
+M>Né ben ancora era chiarito il giorno</E
+M>E s’affretta</E
+M>e s’adopra Di fornir l’opra anzi il chiarir dell’alba</E
+M>intorbidato</E

@@ -1,0 +1,77 @@
+progetto.txt
+"avere un interesse (in un progetto)"
+"collaboratore a progetto"
+"cominciare bene; decollare (di progetto)"
+"cominciare; avviare un progetto con qcn."
+"contratto a progetto"
+"direttore di progetto"
+"fallimento di un progetto"
+"fare un progetto"
+"fare un progetto"
+"ideatore del progetto"
+"lavoratore a progetto"
+"piano, progetto tecnico"
+"progetto"
+"progetto"
+"progetto abitativo"
+"progetto di massima"
+"progetto di ricerca"
+"progetto di vita"
+"progetto editoriale"
+"progetto formativo"
+"progetto grafico"
+"progetto legge di stanziamento"
+"progetto pilota"
+"progetto scientifico"
+"progetto terminato"
+"progetto; pianta della casa"
+"responsabile del progetto"
+"riepilogo del progetto"
+#*il 
+*(di un'azione, di un'attività ecc.)  [[programma]], [[piano]], [[programmazione]], [[idea]], [[ideazione]], [[concezione]]; [[intento]], [[proposito]], [[intenzione]], [[proponimento]]  
+*(di una macchina, di un edificio ecc.) [[disegno]], [[progettazione]] 
+*Enciclopedia [http
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1621
+*AA.VV. ''Dizionario lingua italiana'' Modern languages, p. 754 
+M>projet</E
+M>projeter</E
+M>p. di bonifica</E
+M>p. di nuove costruzioni</E
+M>di nuovi impianti</E
+M>il p. dell&#8217;ampliamento dell&#8217;autostrada</E
+M>essere in p</E
+M>è in p. la costruzione di una galleria sotto la collina</E
+M>era in p. di abbattere la vecchia cinta di mura</E
+M>il p. di un viaggio all&#8217;estero</E
+M>fare progetti di matrimonio</E
+M>il p. è andato a monte</E
+M>è fallito</E
+M>è naufragato</E
+M>che progetti hai per quest&#8217;estate?</E
+M>hai qualche p. per stasera?</E
+M>fare progetti</E
+M>comunicare a qualcuno i proprî p</E
+M>mettere qualcuno a parte di un p</E
+M>lasciar mutare un p</E
+M>realizzare</E
+M>abbandonare un p</E
+M>contrariare</E
+M>ostacolare i p. altrui</E
+M>avere in progetto</E
+M>di fare</E
+M>qualcosa</E
+M>averne l&#8217;intenzione</E
+M>è un p. campato in aria</E
+M>sono bei p.</E
+M> ma soltanto progetti</E
+M>fa molti p. per il futuro</E
+M>ho mille p. per l&#8217;avvenire</E
+M>ha sempre tanti p. per la testa</E
+M>P. di legge</E
+M>disegno di legge</E
+M>proposta di legge</E
+M>di fattibilità</E
+M>di massima</E
+M>definitivo</E
+M>esecutivo</E
+M>di processo</E

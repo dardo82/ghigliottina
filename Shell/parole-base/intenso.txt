@@ -1,0 +1,81 @@
+intenso.txt
+"alzarsi (di sole); diventare intenso"
+"bacio intenso"
+"caldo intenso"
+"desiderio intenso"
+"dolore intenso"
+"freddo intenso"
+"intenso"
+"molto intenso"
+"molto intenso"
+"nero intenso"
+"periodo di freddo intenso"
+"piacere intenso"
+"rosso intenso"
+"terremoto intenso, forte terremoto"
+"verde intenso"
+*(di suono, luce, eccetera) [[forte]], [[energico]], [[vigoroso]], [[violento]], [[acuto]], [[lancinante]]
+*(di colore) [[carico]], [[deciso]], [[vivace]], [[sgargiante]], [[cupo]]
+*[[concentrato]], [[denso]]
+*(di sentimento) [[vivo]], [[profondo]], [[radicato]], [[saldo]], [[sicuro]], [[solido]], [[incrollabile]], [[ardente]], [[esasperato]], [[insaziabile]], [[insopprimibile]], [[irrefrenabile]], [[smodato]], [[penetrante]]
+*(di caldo) [[afoso]], [[infuocato]], [[soffocante]], [[torrido]], [[canicolare]]
+*(di freddo) [[gelido]], [[rigido]], [[tagliente]], [[inclemente]]
+*(di attività, sforzo, eccetera) [[impegnativo]], [[impegnato]], [[serio]], [[duro]], [[faticoso]], [[pesante]], [[prolungato]]
+*(di stile, discorso) [[ricco]], [[espressivo]], [[incisivo]]
+* [[continuo]], [[indaffarato]]
+* (di suono, luce, eccetera) [[debole]], [[scarso]], [[leggero]], [[lieve]]
+*(di colore)[[spento]], [[leggero]], [[smorto]], [[tenue]]
+*(di freddo)[[ temperato]], [[mite]]
+*(di attività, sforzo, eccetera) [[semplice]], [[facile]]
+*[[intensificare]], [[intensimetro]], [[intensità]], [[intensivo]]
+M>intensus</E
+M>intend</E
+M>intentus</E
+M>faceva un freddo i</E
+M>la luce troppo i</E
+M>dei riflettori lo abbagliava</E
+M>un profumo i</E
+M>colore i</E
+M>attenzione</E
+M>meditazione</E
+M>contemplazione i</E
+M>dedicarsi a uno studio i</E
+M>con i</E
+M>opera di persuasione</E
+M>di propaganda</E
+M>dolore</E
+M>bruciore i</E
+M>gioia i</E
+M>amore</E
+M>odio</E
+M>desiderio</E
+M>affetto i</E
+M>con i</E
+M>fervore</E
+M>con i</E
+M>zelo</E
+M>sguardo i</E
+M>articolazione i</E
+M>forte</E
+M>consonanti i</E
+M>leni</E
+M>deboli</E
+M>rato</E
+M>rado</E
+M>doppie</E
+M>rafforzate</E
+M>semplici</E
+M>ratto</E
+M>rato</E
+M>sentimento provato intensamente</E
+M> io penso ora al verde dei campi che sono al di là di queste oscure mura</E
+M> penso come è bello esistere al mondo in primavera</E
+M> ed amare così intensamente tutto</E
+M>odiare</E
+M>desiderare intensamente</E
+M>studiare</E
+M>lavorare intensamente</E
+M>pensare</E
+M>pregare</E
+M>guardare intensamente</E
+M>raccogliersi intensamente nella meditazione</E

@@ -1,0 +1,12 @@
+trampolino.txt
+"fare da trampolino (di lancio)"
+"trampolino"
+"trampolino elastico"
+M>fare</E
+M>servire</E
+M>da t.</E
+M>da t. di lancio</E
+M>a qualcuno</E
+M>t. di lancio</E
+M>STOL</E
+M>STOVL.</E

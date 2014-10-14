@@ -1,0 +1,7 @@
+lega.txt
+"http://api.wordreference.com/12bee/json/iten/lega/"
+*''(di stati, città, enti, eccetera)'' [[unione]], [[associazione]], [[società]], [[coalizione]], [[alleanza]], [[confederazione]], [[cooperativa]], [[holding]], [[trust]], [[setta]]
+*''(di organismi politici, enti, eccetera)'' [[partito]], [[sindacato]]
+* federazione sportiva
+*'' (metallurgia)'' [[amalgama]] 
+*individuo solo, [[singolo]]

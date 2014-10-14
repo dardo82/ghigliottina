@@ -1,0 +1,124 @@
+spiegare.txt
+"che serve a spiegare"
+"non saperselo spiegare"
+"senza dover spiegare le cose nel dettaglio"
+"spiegare"
+"spiegare"
+"svolgere, dispiegare"
+"spiegare"
+"forze, risorse: dispiegare"
+"spiegare, replace: spiegarsi"
+"spiegare, replace: spiegarsi"
+"spiegare, replace: spiegarsi"
+"spiegare, replace: spiegarsi"
+"spiegare a parole"
+"spiegare chiaramente"
+"vagli a spiegare"
+#*''ho '''spiegato''' le vele al vento''
+#*''mi '''spiegò''' meglio quello che aveva in mente''
+*[[chiarire]], rendere comprensibile, [[illustrare]], [[esporre]], [[risolvere]], [[appianare]], [[decifrare]], [[interpretare]], [[commentare]], [[delucidare]], [[parafrasare]], [[chiosare]], [[volgarizzare]]
+*(una bandiera, un lenzuolo, eccetera) [[stendere]], [[distendere]], [[aprire]], [[allargare]], [[svolgere]], [[sciorinare]]
+*(le truppe, gli eserciti) [[disporre]], [[schierare]], [[dispiegare]]
+*[[complicare]]
+* (una bandiera, un lenzuolo, eccetera) [[piegare]], [[ripiegare]], [[arrotolare]], [[avvolgere]]
+*(le truppe, gli eserciti)[[ritirare]]
+*[[spiegarsi]]
+*[[spiegato]]
+*''spiegare le vele al vento''
+M>expl</E
+M>care</E
+M>io spiègo</E
+M>tu spièghi</E
+M>s. la tovaglia</E
+M>il tovagliolo</E
+M>il lenzuolo</E
+M>s. una pezza di stoffa per misurarne l&#8217;altezza</E
+M>s. una planimetria</E
+M>una carta geografica</E
+M>s. un rotolo</E
+M>s. la bandiera</E
+M>le bandiere al vento</E
+M>s. le vele</E
+M>s. le vele al vento</E
+M>ai venti</E
+M>io scoppio Dentro ad un dubbio</E
+M> s&#8217;io non me ne spiego</E
+M>s. le ali</E
+M>s. il volo</E
+M>Ma il mio signor</E
+M> com&#8217;aquila sublime</E
+M> Dietro ai sofi novelli il volo spieghi</E
+M>Spiega il pavon la sua gemmata coda</E
+M>s. le truppe per l&#8217;attacco</E
+M>s. una squadra navale</E
+M>s. le forze dell&#8217;ordine</E
+M>s. la voce</E
+M>tutta la voce</E
+M>s. il canto</E
+M>s. gli artigli</E
+M>le unghie</E
+M> raccogli ove arato non hai; Spiega l&#8217;ugne; l&#8217;Italia ti dò</E
+M>la cavalleria andava spiegandosi sui fianchi della fanteria</E
+M>diradatasi la nebbia</E
+M> si spiegò alla nostra vista un&#8217;ampia vallata</E
+M>vede spuntar l&#8217;angolo del lazzeretto</E
+M> passa il cancello</E
+M> e gli si spiega davanti la scena esteriore di quel recinto</E
+M>s. un concetto filosofico</E
+M>s. un passo difficile di Tacito</E
+M>una terzina oscura di Dante</E
+M>s. un&#8217;antica epigrafe latina</E
+M>s. il significato di una parola</E
+M>di un termine</E
+M>s. una parola antiquata</E
+M>un termine tecnico</E
+M>s. le cause di un fenomeno</E
+M>s. un indovinello</E
+M>un enigma</E
+M>un rebus</E
+M>una sciarada</E
+M> un vero giornalista spiega benissimo quello che non sa</E
+M>la tua deduzione non spiega nulla</E
+M>i principî spiegano i fatti</E
+M>ora comincia a spiegarmisi tutta la faccenda</E
+M>s. un teorema</E
+M>una regola grammaticale</E
+M>il pensiero di un filosofo</E
+M>un capitolo di storia</E
+M>s. il Vangelo</E
+M>la Divina Commedia</E
+M>s. Virgilio</E
+M>il Petrarca</E
+M>è un professore che spiega molto bene.</E
+M>mi spiegò come azionare il congegno</E
+M>gli spiegai la strada che doveva prendere</E
+M>mi spiegò tutte le sue disavventure</E
+M>quello che le sante leggi della amicizia vogliono che l&#8217;uno amico per l&#8217;altro faccia</E
+M> non è mia intenzione di s. al presente</E
+M>spiegarsi</E
+M>ora mi spiego perché non ci ha invitati</E
+M>non so spiegarmi come sia accaduto</E
+M>non riesce a spiegarsi che cosa sia successo</E
+M>come ti spieghi il suo silenzio?</E
+M>non riusciva a spiegarsi il perché di tanta fretta</E
+M>spiegarsi</E
+M>non ti sei spiegato bene</E
+M>spiègati meglio!</E
+M>in inglese mi spiego con qualche difficoltà</E
+M>benché sia muto</E
+M> riesce a spiegarsi abbastanza bene per mezzo dei gesti</E
+M>dopo essersi trattati con freddezza per varî giorni</E
+M> alla fine si spiegarono</E
+M>mi spiego?</E
+M>mi sono spiegato?</E
+M>non so se mi spiego</E
+M>è una vera prepotenza</E
+M> non so se mi spiego</E
+M>è un fatto che si spiega da sé</E
+M> senza bisogno di aggiungere altro</E
+M>s. zelo</E
+M>coraggio</E
+M>sollecitudine</E
+M>spiegò un&#8217;arte sopraffina per allettarla</E
+M> per attirarla senza destarle il minimo sospetto</E
+M>s. una notevole attività.</E

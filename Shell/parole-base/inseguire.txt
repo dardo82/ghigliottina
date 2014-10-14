@@ -1,0 +1,32 @@
+inseguire.txt
+"andare dietro; inseguire"
+"dare la caccia; inseguire"
+"inseguire"
+"inseguire"
+"inseguire"
+"inseguire un orso (rifugiato su di un albero)"
+"inseguire, cacciare, braccare"
+"inseguire; seguito di"
+*[[rincorrere]]
+M>ins</E
+M>qui</E
+M>sequi</E
+M>io inséguo</E
+M>un ladro</E
+M>un fuggitivo</E
+M>i nemici in rotta</E
+M>la flotta nemica</E
+M>come uno che insegue</E
+M> una macchina di cui ha le chiavi ma non sa in che tasca</E
+M> e si affanna a correre e gesticolare e frugarsi addosso e fare tentativi di ogni genere</E
+M>la lepre era inseguita dai cani</E
+M>il gruppo inseguì i due corridori che avevano tentato una fuga</E
+M>un sogno</E
+M>vane speranze</E
+M>la gloria</E
+M>dovunque andava</E
+M>lo inseguivano i ricordi</E
+M>era inseguito dal rimorso</E
+M>sfuggire ai nemici inseguenti</E
+"name": "Inseguire nel vento"
+"name": "Inseguire nel vento"

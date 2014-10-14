@@ -1,0 +1,65 @@
+cellula.txt
+"cellula"
+"cellula adiposa"
+"cellula cerebrale"
+"cellula ciliata dell'organo di Corti"
+"cellula del sistema nervoso"
+"cellula di lievito"
+"cellula fotoelettrica"
+"cellula fotoelettrica"
+"cellula fotovoltaica"
+"cellula gamete femminile"
+"cellula germinale"
+"cellula gliale"
+"cellula granulare"
+"cellula madre"
+"cellula muscolare"
+"cellula nervosa"
+"cellula organica"
+"cellula ossea"
+"cellula simile ad organo"
+"cellula somatica"
+"cellula specializzata"
+"cellula staminale"
+"cellula unitaria"
+"cellula uovo"
+"cellula vegetale"
+"parte della cellula"
+#*''negli organismi più semplici costituiti da una sola cellula e detti perciò unicellulari, la cellula rappresenta tutto
+#* ''cellula fotoelettrica''
+#* ''(trasporti)'' cellula di sopravvivenza''
+*Enciclopedia [http
+* Paravia, ''[http
+M>cell</E
+M>cella</E
+M>la spugna nelle sue cavità e cellule contiene aria e acqua</E
+M>vacuolo</E
+M>poro</E
+M>a c</E
+M>aperte</E
+M>a c</E
+M>chiuse</E
+M>nucleo</E
+M>citoplasma</E
+M>citosoma</E
+M>madre</E
+M>cellule alfa</E
+M>beta</E
+M>giganti</E
+M>alari</E
+M>aziendale</E
+M>di strada</E
+M>di villaggio</E
+M>cellula</E
+M>servizî</E
+M>sanitaria</E
+M>fotoelettrica</E
+M>fotoconduttrice</E
+M>fotoemissiva</E
+M>fotoelettronica</E
+M>fotoionica</E
+M>fotovoltaica</E
+M>fotogeneratrice</E
+M>radifere</E
+M>temporalesche</E
+M>cellule di alte pressioni in movimento dall’anticiclone delle Azzorre</E

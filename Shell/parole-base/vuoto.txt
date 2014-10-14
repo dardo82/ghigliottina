@@ -1,0 +1,180 @@
+vuoto.txt
+"assegno a vuoto"
+"condotto del vuoto"
+"girare a vuoto"
+"guscio vuoto"
+"il vuoto"
+"peso a vuoto di un'auto"
+"pompa da vuoto"
+"riempire il vuoto"
+"spazio vuoto"
+"stomaco vuoto"
+"tubo a vuoto"
+"uomo vuoto; vacuo"
+"vuoto"
+"vuoto"
+"vuoto"
+"vuoto"
+"vuoto"
+"vuoto"
+"contenitore vuoto"
+"vuoto"
+"vuoto, replace: a vuoto"
+"vuoto, replace: a vuoto"
+"vuoto d'aria"
+"vuoto d'aria"
+"vuoto di"
+"vuoto di memoria"
+"vuoto di potere"
+"vuoto legislativo"
+"vuoto parziale"
+"vuoto pneumatico"
+*[[svuotato]], [[sgombrato]], [[evacuato]], [[ripulito]], [[svaligiato]]
+*[[spazio]], [[cavità]], [[incavo]]
+*[[pieno]], [[colmato]]
+*[[massa]], [[ammasso]], [[mucchio]]
+*[[vuotacessi]], [[vuotaggine]], [[vuotamente]], [[vuotamento]], [[vuotapozzi]], [[vuotare]], [[vuotata]], [[vuotezza]], [[vuotometro]],[[vuotaggine]],  [[vuotazucchine]]
+*''(oggetto)'' [[recipiente]], [[contenitore]], [[bottiglia]] 
+*''posto, sedia '''vuota'''''
+*''a mani '''vuote'''''
+*''parole '''vuote''' di senso''
+*''mente, testa '''vuota'''''
+*''fare il '''vuoto'''''
+*''girare a '''vuoto'''''
+*''teatro, città '''vuota'''''
+*''stomaco '''vuoto'''''
+*[[vuota]], [[vuotaja]]
+*[[italiano]]
+M>*voc</E
+M>tus</E
+M>vac</E
+M>tus</E
+M>*vac</E
+M>vacuus</E
+M>pieno</E
+M>un vaso v.</E
+M>un bicchiere</E
+M>un fiasco v.</E
+M>una bottiglia</E
+M>una botte v.</E
+M>una scatola v.</E
+M>una stanza v.</E
+M>sacco v. non si regge diritto</E
+M>in piedi</E
+M>un carro v.</E
+M>queste mandorle sono quasi tutte v.</E
+M>una spiga v.</E
+M>i granai erano v.</E
+M>le casse sono v.</E
+M>è rimasto con le tasche v.</E
+M>la città rimase vuota di abitanti</E
+M>il teatro era v.</E
+M>mezzo v.</E
+M>quasi v.</E
+M>lo scompartimento è v.</E
+M>senza i figli</E
+M> la casa sembra vuota</E
+M>ci sono ancora due poltroncine di galleria vuote</E
+M>gli appartamenti del secondo piano sono tutti vuoti</E
+M>a stomaco v.</E
+M>a corpo v.</E
+M>a stomaco v. si soffre più facilmente il mal d’auto</E
+M>Arroge a tanto mal</E
+M> ch’a corpo vòto Et essi e i lor cavalli eran rimasi</E
+M>presentarsi</E
+M>andare</E
+M>venire a mani v.</E
+M>restare</E
+M>rimanere</E
+M>tornare a mani v.</E
+M>scena v.</E
+M>sentirsi la testa v.</E
+M>un cervello v.</E
+M>stile v.</E
+M>discorso v.</E
+M>privo</E
+M>parole vuote di senso</E
+M>Vòto d’ogni valor</E
+M> pien d’ogni orgoglio</E
+M>vota d’affanno Visse l’umana stirpe</E
+M>vano</E
+M>perché fuor negleti Li nostri vóti</E
+M> e vòti in alcun canto</E
+M>Ahi vota speme!</E
+M>insieme v.</E
+M>nullo</E
+M>polso v.</E
+M>v. assoluto</E
+M>horror vacui</E
+M>azione a distanza</E
+M>etere</E
+M>campo</E
+M>polarizzazione del v.</E
+M>vuoto</E
+M>ampolla</E
+M>tubo a v.</E
+M>conservazione</E
+M>confezione sotto v.</E
+M>fare il v. in un recipiente</E
+M>tecnica del v.</E
+M>camera a vuoto</E
+M>grado di vuoto</E
+M>basso v.</E
+M>medio v.</E
+M>alto v.</E
+M>ultravuoto</E
+M>ultra-alto v.</E
+M>pompe da vuoto</E
+M>pompe pneumatiche</E
+M>pompe da v. meccaniche</E
+M>pompe da v. a diffusione</E
+M>pompe da v. ioniche</E
+M>pompe getter</E
+M>pompe criogeniche</E
+M>v. d’aria</E
+M>l’alpinista perse l’equilibrio e cadde nel v.</E
+M>seduto sulla spalletta del ponte teneva le gambe penzolanti nel vuoto</E
+M>battendo sul muro</E
+M> sentì che sotto c’era un v.</E
+M>i v. degli internodî delle canne</E
+M>avere paura</E
+M>avere terrore del v.</E
+M>si prega di restituire il v.</E
+M>venticinque centesimi di deposito per il v.</E
+M>vuoto a perdere</E
+M>vuoto a rendere</E
+M>vuoto per pieno</E
+M>vuoto per pieno</E
+M>nolo morto</E
+M>dead freight</E
+M>misurazione</E
+M>valutazione vuoto per pieno</E
+M>il costo</E
+M> v. per pieno</E
+M> è di venti euro a metro quadro</E
+M>frazione di v.</E
+M>porosità</E
+M>vuoto di potere</E
+M>vuoto legislativo</E
+M>vuoto di cassa</E
+M>ammanco di cassa</E
+M>fare il v. intorno a sé</E
+M>ha lasciato un gran v. tra noi</E
+M>colmare un v.</E
+M>a vuoto</E
+M>ritorno a v.</E
+M>assegno a v.</E
+M>Flegïàs</E
+M> Flegïàs</E
+M> tu gridi a vòto</E
+M>Lasciànlo stare e non parliamo a vòto</E
+M>girare a v.</E
+M>polemizzare</E
+M>battersi</E
+M>combattere a v.</E
+M>andare</E
+M>mandare a v.</E
+M>ogni tentativo andò a v.</E
+M>fare un viaggio a v.</E
+M>votaménte</E
+M>scrive vuotamente</E

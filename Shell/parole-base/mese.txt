@@ -1,0 +1,112 @@
+mese.txt
+"mese"
+"mese"
+"mese"
+"mese corrente"
+"mese di nascita"
+"mese dopo mese"
+"mese in corso"
+"mese lunare"
+"mese solare"
+"primo del mese"
+*''(di retribuzione)'' [[mensile]], [[mensilità]],
+*[[stipendio]], [[salario]]
+M>nsis</E
+M>gennaio</E
+M>febbraio</E
+M>marzo</E
+M>sinodico</E
+M>siderale</E
+M>draconico</E
+M>anomalistico</E
+M>commerciale</E
+M>il m</E
+M>di giugno</E
+M>nel m</E
+M>di novembre</E
+M>il primo</E
+M>l’ultimo m</E
+M>dell’anno</E
+M>il m</E
+M>corrente</E
+M>il corrente m</E
+M>il m</E
+M>scorso</E
+M>passato</E
+M>il m</E
+M>prossimo</E
+M>venturo</E
+M>entrante</E
+M>all’inizio</E
+M>ai primi</E
+M>giorni</E
+M>del m</E
+M>alla metà</E
+M>alla fine</E
+M>agli ultimi del m</E
+M>agli 8</E
+M>ai 12 del m</E
+M>quanti ne abbiamo oggi del m</E
+M>pagare m</E
+M>per m</E
+M>ogni m</E
+M>un tanto al m</E
+M>il m</E
+M>rinviare di m</E
+M>in mese</E
+M>non arrivare alla fine del m</E
+M>tutti i m</E
+M>non son di trentuno</E
+M>il m</E
+M>della semina</E
+M>della vendemmia</E
+M>della mietitura</E
+M>il m</E
+M>dei fichi</E
+M>delle ciliegie</E
+M>delle castagne</E
+M>il m</E
+M>dei fiori</E
+M>il m</E
+M>degli asini</E
+M>il m</E
+M>di Maria</E
+M>mariano</E
+M>staremo via un m</E
+M>intero</E
+M>si è preso due m</E
+M>di vacanza</E
+M>la preparazione dell’esame mi ha richiesto due m</E
+M>di tempo</E
+M>il corso dura quattro m</E
+M>fare un contratto di</E
+M>per</E
+M> sei m</E
+M>è stato assunto in prova per tre m</E
+M>chiedere un m</E
+M>di aspettativa</E
+M>di congedo</E
+M>un m</E
+M>di bel tempo</E
+M>di piogge continue</E
+M>non abbiamo sue notizie da varî m</E
+M>mio figlio ha compiuto ieri sei mesi</E
+M>per mesi e mesi</E
+M>per mesi e anni</E
+M>lo attese per mesi e mesi</E
+M>essere al quarto</E
+M>al quinto m</E
+M>è già entrata nel nono m</E
+M>è al sesto m</E
+M>di gravidanza</E
+M>è incinta di sei m</E
+M>è nato di sette m</E
+M>riscuotere il m</E
+M>ha tre m</E
+M>doppî all’anno</E
+M>il padrone di casa vuole tre m</E
+M>anticipati</E
+M>ha cominciato ad avere i m</E
+M>non ha più i mesi</E
+M>starò via solo un mesetto</E
+M>mi voglio fare un bel mesone di vacanza</E

@@ -1,0 +1,16 @@
+affresco.txt
+"affresco"
+"affresco"
+"dipinto in affresco"
+"affresco"
+* [[affrescare]]
+M>dipingere</E
+M>a fresco</E
+M>chi</E
+M>la tecnica dell’a</E
+M>dipingere a fresco</E
+M>pittura a fresco</E
+M>pareti coperte di affreschi</E
+M>gli a</E
+M>di Raffaello in Vaticano</E
+M>Tomasi di Lampedusa ci ha lasciato un a. della Sicilia ottocentesca</E

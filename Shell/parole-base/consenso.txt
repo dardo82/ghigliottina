@@ -1,0 +1,73 @@
+consenso.txt
+"che spende denaro in un area per ottenere il consenso popolare in vista delle votazioni"
+"comune consenso"
+"consenso"
+"consenso"
+"consenso"
+"consenso al trattamento dati"
+"consenso di opinioni"
+"consenso generale"
+"consenso informato"
+"consenso reale"
+"consenso totale"
+"dare il consenso; acconsentire"
+"per consenso"
+"prestare il proprio consenso"
+"rifiutare il consenso"
+#* ''[[chiedere]] il '''consenso''''', ''[[dare]] il '''consenso''''', ''[[ottenere]] il '''consenso'''''
+#* ''persero il '''consenso''' poiché i risultati non si vedevano''
+#* ''il suo discorso ebbe un ampio '''consenso'''''
+#* ''in Wikipedia e nel Wikizionario il '''consenso''' si costruisce insieme''
+#* '''''consenso''' [[telefonico]]''
+#* ''dobbiamo ottenere il '''consenso''' della base''
+#* '''''consenso''' a [[maggioranza]]'', '''''consenso''' all'[[unanimità]]''
+#* '''''consenso''' per la risoluzione del contratto''
+*[[accordo]], [[intesa]], [[concordia]], [[conformità]]
+*[[autorizzazione]], [[permesso]], [[benestare]], [[beneplacito]]
+*[[seguito]], [[favore]], [[successo]]
+*[[permesso]], [[autorizzazione]],  [[placet]], [[assenso]], [[consentimento]]
+*[[disaccordo]]
+*[[divieto]], [[rifiuto]], [[negazione]], [[veto]]
+*[[proibizione]] 
+*[[dissenso]], [[contrasto]], [[scontro]]
+*[[consensivo]], [[consensuale]],[[consensualità]], [[consentire]], [[consenziente]]
+*[[unanimità]]
+*italiano
+*interlingua
+*portoghese
+*spagnolo
+M>consensus</E
+M>consentire</E
+M>agire di consenso</E
+M>accordo</E
+M>vizio di consenso</E
+M>matrimoniale</E
+M>dell’avente diritto</E
+M>per comune consenso</E
+M>delle genti</E
+M>universale</E
+M>dare</E
+M>negare il c</E
+M>chiedere</E
+M>ottenere il c</E
+M>esprimere</E
+M>manifestare il proprio c</E
+M>scritto</E
+M>tacito c</E
+M>ho agito col suo c</E
+M>per l’adozione</E
+M>all’aborto</E
+M>c. informato</E
+M>l’iniziativa ha incontrato l’unanime c</E
+M>della popolazione</E
+M>la commedia è stata accolta con larghi c</E
+M>di pubblico e di critica</E
+M>il c</E
+M>dei ceti medi al programma di riforme</E
+M>partito che ha ottenuto un largo c</E
+M>di voti</E
+M>un ampio c</E
+M>elettorale</E
+M>organizzazione del c</E
+M>telegrafico</E
+M>telefonico</E

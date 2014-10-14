@@ -1,0 +1,23 @@
+felino.txt
+"felino"
+"felino"
+"felino"
+"scatto felino"
+#* ''si mosse con passo 
+#* ''ho portato del salame 
+M>felinus</E
+M>feles</E
+M>felis</E
+M>Felinae</E
+M>le specie</E
+M>le razze f</E
+M>un magnifico esemplare di felino</E
+M>passo</E
+M>balzo f</E
+M>mosse f</E
+M>scaltrezza felina</E
+M>mostra</E
+M>felina</E
+M>muoversi</E
+M>avanzare felinamente</E
+M>stare felinamente in agguato</E

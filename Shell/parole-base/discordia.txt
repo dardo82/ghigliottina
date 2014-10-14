@@ -1,0 +1,39 @@
+discordia.txt
+"discordia"
+"pomo della discordia"
+#*'''Discordia'''  tra familiari.
+#*Tra loro regna la '''discordia'''. 
+#*'''Discordia''' di pareri.
+*[[disaccordo]], [[inimicizia]], [[contrasto]], [[dissidio]], [[dissenso]]
+*[[differenza]], [[diversità]], [[difformità]], [[discrepanza]], [[divergenza]]
+*[[concordia]], [[consenso]]
+*[[uguaglianza]], [[conformità]]
+M>discordia</E
+M>discors</E
+M>ordis</E
+M>fra i cittadini</E
+M>fra parenti</E
+M>in quella casa regna la d</E
+M>essere</E
+M>vivere</E
+M>entrare</E
+M>venire in d</E
+M>far nascere</E
+M>provocare</E
+M>fomentare</E
+M>suscitare</E
+M>seminare la d</E
+M>sedare le d</E
+M>civili</E
+M>c’è d</E
+M>fra i critici</E
+M>fra i commentatori</E
+M>fra i tecnici</E
+M>d’intenti</E
+M>di pareri</E
+M>di giudizî</E
+M>di sentimenti</E
+M>Il pomo della d</E
+M>La dea della d</E
+M>la Discordia</E
+M>orchis</E

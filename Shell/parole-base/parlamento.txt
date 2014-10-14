@@ -1,0 +1,66 @@
+parlamento.txt
+"candidato al parlamento"
+"deputato in Parlamento che non fa parte del governo"
+"detto del governo: dissolvere il parlamento e andare alle elezioni"
+"Membro del Parlamento"
+"membro del Parlamento"
+"parlamento"
+"parlamento"
+"parlamento europeo"
+"parlamento provinciale"
+"sede del parlamento"
+M>stare in p</E
+M>tener p</E
+M>vani</E
+M>inutili p</E
+M>dopo breve</E
+M>lungo p</E
+M>Lo Patre onnipotente</E
+M>Al so figliol fa dolce p</E
+M>in questo prato</E
+M>andiamo</E
+M>e quivi con varii p</E
+M>la calda parte di questo giorno passiamo</E
+M>venire a p</E
+M>egli vi trasporta ad un tratto tra quelle rovine</E
+M>e vi evoca le ombre degli antichi romani con cui viene a p</E
+M>Quel traditor che vede pur con l&#8217;uno</E
+M>Farà venirli a p</E
+M>seco</E
+M>disse</E
+M>che egli era stato a p</E
+M>co&#8217; protestanti e non gl&#8217;aveva trovati tanto differenti che non si potessero accommodare</E
+M>chiamare</E
+M>convocare il popolo a p</E
+M>a parlamento Nel decimo</E
+M>chiamò le turbe Achille</E
+M>Le donne a p</E
+M>Ed allora per tutto il parlamento Trascorse quasi un fremito di belve</E
+M>generale</E
+M>provinciale</E
+M>Parliament</E
+M>Parlement</E
+M>unicamerale</E
+M>bicamerale</E
+M>il P</E
+M>italiano</E
+M>francese</E
+M>inglese</E
+M>i due rami del P</E
+M>italiano</E
+M>convocare</E
+M>chiudere</E
+M>riaprire</E
+M>sciogliere</E
+M>rinnovare il P</E
+M>elezioni per il nuovo P.</E
+M>riunione</E
+M>seduta del P</E
+M>le deliberazioni del P</E
+M>aspirare</E
+M>essere eletto al P</E
+M>sedere in P</E
+M>europeo</E
+M>il P</E
+M>ha votato la fiducia al governo</E
+M>andare al Parlamento</E

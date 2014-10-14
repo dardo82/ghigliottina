@@ -1,0 +1,22 @@
+proletario.txt
+"proletario"
+*[[operaio]], [[lavoratore]], [[salariato]], [[sfruttato]], [[povero]], [[nullatenente]], [[diseredato]], [[indigente]]
+*[[borghese]], [[industriale]], [[capitalista]], [[proprietario]], [[padrone]]
+*[[ricco]]
+* [[proletariato]],  [[proletarizzare]],  [[proletarizzazione]]
+* [[capitalismo]],  [[comunismo]],  [[lotta di classe]],  [[socialismo]]
+M>proletarius</E
+M>proles</E
+M>proletarii</E
+M>la massa dei p</E
+M>le lotte dei p</E
+M>proletarî di tutto il mondo</E
+M>unitevi!</E
+M>classe p</E
+M>coscienza p</E
+M>lotta p</E
+M>contro il capitalismo</E
+M>un quartiere p</E
+M>Esproprio p</E
+M>spesa proletaria</E
+M>La grande Proletaria si è mossa</E

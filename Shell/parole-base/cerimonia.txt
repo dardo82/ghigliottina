@@ -1,0 +1,58 @@
+cerimonia.txt
+"abito da cerimonia"
+"cerimonia"
+"cerimonia"
+"cerimonia civile"
+"cerimonia del tè"
+"cerimonia di apertura di un gran ballo a cui prendono parte tutti gli ospiti"
+"cerimonia di consegna diplomi"
+"cerimonia di inaugurazione"
+"cerimonia di laurea o diploma"
+"cerimonia di premiazione"
+"cerimonia religiosa"
+"cerimonia spettacolare"
+"da cerimonia"
+"di abito da cerimonia"
+"fazzoletto da cerimonia"
+"in abito da cerimonia"
+*[[funzione]], [[rito]], [[liturgia]]
+*[[celebrazione]], [[commemorazione]], [[festa]], [[solennità]], [[manifestazione]]
+*[[complimenti]], [[convenevoli]], [[formalità]], [[ossequi]], [[etichetta]], [[smancerie]]
+*[[cerimoniale]], [[cerimonialismo]], [[cerimoniere]], [[cerimonioso]]
+M>caerimonia</E
+M>caeremonia</E
+M>ceremonia</E
+M>la c</E
+M>della messa</E
+M>celebrare la c</E
+M>nuziale</E
+M>assistere a una c</E
+M>funebre</E
+M>militari</E
+M>scolastiche</E
+M>accademiche</E
+M>la c</E
+M>dell’inaugurazione dell’anno giudiziario</E
+M>la c</E
+M>del giuramento delle reclute</E
+M>la c</E
+M>della consegna delle medaglie al valore</E
+M> maestro di</E
+M>delle</E
+M>cerimonie</E
+M> abito di</E
+M>cerimonia</E
+M>quante c</E
+M>lasciamo da parte le c</E
+M>senza c.</E
+M>senza fare c.</E
+M>senza tante c</E
+M>fare c.</E
+M>avanti</E
+M> non fate c.</E
+M>stare sulle c</E
+M>dire</E
+M>fare</E
+M>invitare per c.</E
+M>un lusingare senza promettere</E
+M>un minacciare in cerimonia</E

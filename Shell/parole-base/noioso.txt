@@ -1,0 +1,42 @@
+noioso.txt
+"http://api.wordreference.com/12bee/json/iten/noioso/"
+* [[annoiante]],  [[assillante]],  [[barboso]],  [[fastidioso]], [[importuno]],  [[increscioso]],  [[indiscreto]], [[insopportabile]],  [[irritante]],  [[molesto]],  [[monotono]],  [[palloso]],  [[pesante]],  [[rompiballe]],  [[rompipalle]],  [[rompiscatole]],  [[scocciante]],  [[scocciatore]],  [[seccante]], [[seccatore]],  [[sgradevole]],  [[soporifero]],  [[spiacevole]],  [[tedioso]],  [[uggioso]]
+* [[appassionante]], [[brillante]],  [[divertente]],  [[gradevole]],  [[interessante]],  [[piacevole]],  [[stimolante]]
+* [[annoiare]],  [[noia]],  [[noiosità]]
+M>enojos</E
+M>inodiosus</E
+M>odium</E
+M>lezione</E
+M>conferenza</E
+M>conversazione n</E
+M>essere</E
+M>diventare n</E
+M>persona n</E
+M>un n</E
+M>una noiosa</E
+M>non fare il n</E
+M>sei sempre la solita n</E
+M>è stato n</E
+M>aspettare tanto tempo</E
+M>la pioggia</E
+M>benché grossa</E
+M>si metteva al noioso più che al furioso</E
+M>è questo il lato n</E
+M>della faccenda</E
+M>le racconto in compendio il n</E
+M>accidente</E
+M>da mille n</E
+M>pensieri angosciata e stimolata e trafitta</E
+M>Di qua di lá va le n</E
+M>piume</E
+M>Tutte premendo</E
+M>e mai non si riposa</E
+M>questa gentilissima</E
+M>non degnò salutare la tua persona</E
+M>temendo non fosse noiosa</E
+M>una festa</E
+M>una serata noiosetta</E
+M>un tipo noiosetto</E
+M>un discorso noiosamente prolisso</E
+M>la riunione si è noiosamente protratta fino a tarda notte</E
+M>non fa che insistere noiosamente sugli stessi argomenti</E

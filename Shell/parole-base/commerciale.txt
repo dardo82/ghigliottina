@@ -1,0 +1,120 @@
+commerciale.txt
+"accordo commerciale"
+"accordo commerciale"
+"agente commerciale"
+"agenzia commerciale"
+"albo commerciale"
+"associazione commerciale"
+"attività commerciale"
+"attività commerciale"
+"attività commerciale"
+"aviazione commerciale"
+"avviamento commerciale"
+"avvocato in diritto commerciale"
+"banca commerciale"
+"bilancia commerciale"
+"bilancia commerciale"
+"carta commerciale"
+"centro commerciale"
+"centro commerciale"
+"centro commerciale"
+"centro commerciale"
+"centro commerciale"
+"centro commerciale"
+"centro di attività commerciale"
+"chiusura anticipata (di esercizio commerciale)"
+"ciclo commerciale"
+"codice commerciale"
+"commerciale"
+"commerciale"
+"commerciale"
+"complesso commerciale"
+"consiglio commerciale"
+"corrispondenza commerciale"
+"credito commerciale"
+"directory commerciale"
+"direttore commerciale"
+"direzione commerciale"
+"diritto commerciale"
+"diritto commerciale"
+"diritto commerciale"
+"disavanzo commerciale"
+"divisione commerciale"
+"documento commerciale"
+"edizione commerciale"
+"edizione commerciale"
+"formazione commerciale"
+"funzionario tecnico commerciale"
+"gergo commerciale"
+"impiegato commerciale"
+"impresa commerciale"
+"impresa commerciale"
+"impresa commerciale"
+"indice commerciale"
+"inglese commerciale"
+"intermediazione commerciale"
+"istituto statale commerciale e turistico"
+"istituto tecnico commerciale statale"
+"lavoro commerciale"
+"lettera commerciale"
+"licenza commerciale"
+"marca di un prodotto commerciale"
+"missione commerciale"
+"nodo viario e commerciale"
+"nome commerciale"
+"offerta commerciale"
+"pilota commerciale"
+"prezzo commerciale"
+"prezzo commerciale"
+"punto da dove si effettua un ordine commerciale"
+"rapporto commerciale"
+"rendere commerciale"
+"rendere commerciale"
+"responsabile commerciale"
+"rotta commerciale"
+"scuola commerciale"
+"segreto commerciale"
+"strada commerciale"
+"superficie commerciale"
+"transazione commerciale"
+"transazione commerciale"
+"ufficio commerciale"
+"veicolo commerciale"
+"video commerciale"
+"zona commerciale"
+*[[mercantile]]
+*(di prodotto, film) [[comune]], [[ordinario]], di cassetta
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 462
+M>commercialis</E
+M>commercial</E
+M>attività c</E
+M>il settore c</E
+M>impresa</E
+M>azienda</E
+M>società c</E
+M>imprenditore c</E
+M>diritto c</E
+M>pubblicità c.</E
+M>contabilità</E
+M>corrispondenza c</E
+M>lettere c</E
+M>istituto tecnico a indirizzo c</E
+M>perito commerciale</E
+M>direzione c</E
+M>ufficio c</E
+M>valore c</E
+M>di un oggetto</E
+M>busta c</E
+M>carta c</E
+M>carta finanziaria</E
+M>banche c</E
+M>velocità c</E
+M>mobili c</E
+M>vini c</E
+M>confezioni c</E
+M>di tipo commerciale</E
+M>un libro</E
+M>un dipinto</E
+M>un film c</E
+M>un’enciclopedia molto commerciale</E
+M>un affare commercialmente sbagliato</E

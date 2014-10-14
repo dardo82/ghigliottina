@@ -1,0 +1,31 @@
+azzardo.txt
+"azzardo"
+"azzardo"
+"azzardo, rischio nascosto"
+"giocare d'azzardo"
+"giocare d'azzardo"
+"giocare su (d'azzardo)"
+"giocatore d'azzardo"
+"gioco d'azzardo"
+"gioco d'azzardo"
+"gioco d'azzardo coi dadi"
+*[[rischio]], [[pericolo]]
+*[[avventatezza]], [[sventatezza]]
+*[[sicurezza]], [[tranquillità]]
+M>hasard</E
+M>zahr</E
+M>zara</E
+M>esporre all’a</E
+M>la vita</E
+M>la propria fortuna</E
+M>mettersi all’a</E
+M>di perdere ogni cosa</E
+M>fu un bell’a</E
+M>il suo</E
+M>di entrare disarmato in quel covo di malviventi</E
+M> giochi d’a.</E
+M>giocare d’a</E
+M>giocatore d’a</E
+M>alcuni</E
+M>a’ quali l’a</E
+M>diede per contemporanei gli grandi uomini</E

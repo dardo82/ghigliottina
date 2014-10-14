@@ -1,0 +1,40 @@
+pasticcio.txt
+"(trovarsi, mettersi) in un pasticcio"
+"bel pasticcio"
+"essere in un pasticcio"
+"pasticcio"
+"pasticcio"
+"pasticcio"
+"pasticcio di carne"
+"pasticcio di carne"
+"pasticcio di carne"
+"pasticcio di carne e rognone"
+"pasticcio di carne e verdure o di spezzatino e pasta"
+"pasticcio di carne lessa"
+"pasticcio di carne ricoperto di purè"
+"pasticcio di maiale"
+M>*past</E
+M>cium</E
+M>pasta</E
+M>di maccheroni</E
+M>di cacciagione</E
+M>di cavolfiore</E
+M>pâté</E
+M>di fegato d&#8217;oca</E
+M>pâté de foie</E
+M>pâté de foie</E
+M>gras</E
+M>dolce</E
+M>che p</E
+M>hai fatto?</E
+M>il tuo componimento è un vero p</E
+M>il suo discorso è stato un p</E
+M>di cui nessuno ha capito niente</E
+M>ci troviamo in un bel p</E
+M>come si fa a risolvere questo p</E
+M>fare</E
+M>combinare pasticci</E
+M>trovarsi</E
+M>mettersi</E
+M>cacciarsi nei p</E
+M>Quer pasticciaccio brutto de via Merulana</E

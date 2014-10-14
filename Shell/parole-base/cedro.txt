@@ -1,0 +1,19 @@
+cedro.txt
+"aceto al cedro"
+"cedro"
+"cedro"
+"frutto del cedro"
+"cedro aromatico"
+"cedro bianco"
+"cedro giallo"
+"cedro rosso"
+"cedro rosso del Pacifico"
+"legno di cedro"
+#*''stamattina mi son messa una gonnellina 
+#* ''ho piantato un 
+#*''il 
+*[[acqua di cedro]], [[cedrare]], [[cedrata]], [[cedrato]], [[citrato]], [[citraurina]], [[citrico]], [[citrina]], [[citrino]], [[citrografia]]
+* italiano
+* galiziano
+* ido
+* portoghese

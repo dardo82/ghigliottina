@@ -1,0 +1,24 @@
+giapponese.txt
+"arte giapponese"
+"di discendenza giapponese"
+"giapponese"
+"giapponese"
+"scarabeo giapponese"
+"valuta giapponese"
+*[[nipponico]]
+*[[giapponeseria]]
+*''lotta giapponese''
+M>l’arte</E
+M>il teatro g</E
+M>l’industria g</E
+M>carta g</E
+M>lotta g</E
+M>jutsu</E
+M>febbre g</E
+M>febbre dei sette giorni</E
+M>Leptospira hebdomadis</E
+M>un g</E
+M>una g</E
+M>i Giapponesi</E
+M>il giapponese</E
+M>la giapponese</E

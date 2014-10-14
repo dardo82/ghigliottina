@@ -1,0 +1,212 @@
+politica.txt
+"atteggiamento nei confronti della politica"
+"political behaviour"
+"campagna politica"
+"political campaign"
+"cartina politica"
+"political map"
+"Comitato di Azione Politica"
+"Political Action Committee"
+"convention politica"
+"political convention"
+"corrente politica"
+"political trend"
+"corruzione nella politica"
+"political corruption"
+"cricca politica"
+"dare una linea politica"
+"give a political line"
+"di centro (politica)"
+"economia politica"
+"political economy"
+"essere in politica"
+"fare politica per interesse personale"
+"filosofia politica"
+"political philosophy"
+"geografia politica"
+"political geography"
+"gestione politica"
+"political control"
+"i principi della politica"
+"political principles"
+"indugiare superficialmente nella politica senza prendere decisioni"
+"influenza politica"
+"political influence"
+"la macchina della politica"
+"political machine"
+"la politica"
+"leadership politica"
+"political leadership"
+"libertà politica"
+"political liberty"
+"militanza politica"
+"political militancy"
+"political activism"
+"organizzazione politica"
+"political organization"
+"piattaforma politica"
+"political platform"
+"politica"
+"politica"
+"politica"
+"political affairs, politics"
+"politica"
+"politica"
+"politica del containment"
+"politica della forza"
+"politica di bilancio"
+"politica di contenimento delle nascite"
+"politica di parte"
+"politica di partito"
+"politica di sinistra"
+"politica estera"
+"politica inflessibile"
+"politica liberistica"
+"politica mondiale"
+"politica passiva"
+"politica pratica"
+"politica sbagliata"
+"politica sporca"
+"polizia politica"
+"political police"
+"protezione politica"
+"political patronage"
+"questione politica"
+"political question"
+"scienza politica"
+"seguire una politica di"
+"teoria politica"
+"political theory"
+"trattare di politica"
+"tribuna politica"
+"political programming"
+#*''si occupa di 
+#*''ha suggerito una nuova 
+*''(di un gruppo, di un partito e simili)'' [[strategia]] 
+*[[metodo]], [[sistema]], [[approccio]], [[procedimento]]
+*[[antipolitica]]
+*[[geopolitica]], [[malapolitica]]
+*Enciclopedia [http
+M>politico</E
+M>arte</E
+M>le norme</E
+M>i principî</E
+M>le regole della p</E
+M>scrivere</E
+M>trattare</E
+M>discutere di politica</E
+M>p. interna</E
+M>p. estera</E
+M>p. internazionale</E
+M>p. economica</E
+M>p. economica mercantilistica</E
+M>p. economica liberista</E
+M>p. economica bellica</E
+M>p. economica pianificatrice</E
+M>la p. economica italiana fra le due guerre</E
+M>la p. economica del new deal</E
+M>p. commerciale</E
+M>p. doganale</E
+M>liberista</E
+M>mercantilista</E
+M>protezionista</E
+M>p. della congiuntura</E
+M>congiunturale</E
+M>anticiclica</E
+M>creditizia</E
+M>quantitativa</E
+M>qualitativa</E
+M>bancaria</E
+M>finanziaria</E
+M>di bilancio</E
+M>fiscale</E
+M>tributaria</E
+M>monetaria</E
+M>dei redditi</E
+M>demografica</E
+M>sociale</E
+M>industriale</E
+M>agraria</E
+M>sanitaria</E
+M>scolastica</E
+M>la p</E
+M>italiana</E
+M>francese</E
+M>la p</E
+M>espansionistica degli Asburgo</E
+M>la p</E
+M>di Metternich</E
+M>di Cavour</E
+M>di De Gasperi</E
+M>fare una p</E
+M>forte</E
+M>energica</E
+M>saggia</E
+M>accorta</E
+M>lungimirante</E
+M>una p</E
+M>debole</E
+M>imbelle</E
+M>stolta</E
+M>cieca</E
+M>una p</E
+M>onesta</E
+M>machiavellica</E
+M>diabolica</E
+M>una buona</E
+M>una cattiva p</E
+M>una p</E
+M>sbagliata</E
+M>una p</E
+M>rinunciataria</E
+M>una p</E
+M>progressista</E
+M>rivoluzionaria</E
+M>conservatrice</E
+M>reazionaria</E
+M>di accerchiamento</E
+M>la p</E
+M>delle mani nette</E
+M>dello struzzo</E
+M>della foglia di carciofo</E
+M>del carciofo</E
+M>militante</E
+M>attiva</E
+M>darsi alla p</E
+M>entrare in p</E
+M>ritirarsi dalla politica</E
+M>fare p</E
+M>fare della politica</E
+M>questo non è spiegare la storia</E
+M> è fare politica!</E
+M>intendersi</E
+M>non intendersi</E
+M>discutere di p</E
+M>occuparsi di p</E
+M>non parliamo di p</E
+M>per favore</E
+M>lasciamo stare la p</E
+M>da caffè</E
+M>da farmacia</E
+M>p. spettacolo</E
+M>la p</E
+M>dell&#8217;azienda</E
+M>letteraria</E
+M>culturale</E
+M>con lui hai sbagliato p</E
+M>congedare un cappuccino</E
+M> senza avergli dato udienza</E
+M> non era secondo le regole della sua p</E
+M>perseguì una certa sua p</E
+M>con la quale tendeva a farsi aumentare il salario</E
+M>bisogna agire con un po&#8217; di p</E
+M>ci vuole p</E
+M>è un uomo che ha molta p</E
+M>conosco la sua p</E
+M>con un po&#8217; di p</E
+M>si ottiene tutto</E
+M>era venuto anche lui</E
+M>per politica</E
+M>e stava zitto</E
+M>in un cantuccio</E
+M>sporca</E

@@ -1,0 +1,67 @@
+patrimonio.txt
+"imposta sul patrimonio"
+"luogo dichiarato patrimonio mondiale"
+"patrimonio"
+"patrimonio"
+"patrimonio"
+"patrimonio ambientale"
+"patrimonio edilizio"
+"patrimonio netto"
+"patrimonio netto"
+"patrimonio personale"
+"patrimonio professionale"
+#* ''il patrimonio personale; il patrimonio dello stato''
+#*''la cultura è un patrimonio''
+* [[capitale]], [[fortuna]], somma ingente
+*[[patrimoniale]]
+*[[nullatenenza]]
+*Enciclopedia [http
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier p. 1370
+M>patrimonium</E
+M>pater</E
+M>tris</E
+M>amministrare il proprio p</E
+M>accrescere</E
+M>sperperare</E
+M>consumare il p</E
+M>è l&#8217;erede di un p</E
+M>immenso</E
+M>ha lasciato</E
+M>morendo</E
+M>un bel p</E
+M>familiare</E
+M>mobiliare</E
+M>immobiliare</E
+M>delitti contro il p</E
+M>delitti patrimoniali</E
+M>mangiarsi un p</E
+M>spendere</E
+M>costare un p</E
+M>netto</E
+M>in monte</E
+M>permanente</E
+M>di consumo</E
+M>di uso</E
+M>finanziario</E
+M>pubblico</E
+M>ecclesiastico</E
+M>di San Pietro</E
+M>il p</E
+M>forestale</E
+M>zootecnico</E
+M>faunistico di uno stato</E
+M>il p</E
+M>morale</E
+M>spirituale</E
+M>artistico</E
+M>musicale</E
+M>letterario</E
+M>di una nazione</E
+M>di un popolo</E
+M>il p</E
+M>culturale di una persona</E
+M>il p</E
+M>lessicale di una lingua</E
+M>cromosomico</E
+M>corredo cromosomico</E
+M>ereditario</E

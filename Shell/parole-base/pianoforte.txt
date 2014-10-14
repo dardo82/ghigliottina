@@ -1,0 +1,35 @@
+pianoforte.txt
+"coperchio della tastiera (pianoforte)"
+"pianoforte"
+"pianoforte a coda"
+"pianoforte a mezza coda"
+"pianoforte a mezza coda"
+"pianoforte a muro"
+"quartetto per pianoforte"
+"quintetto per pianoforte"
+"spartito per pianoforte"
+"tasti del pianoforte"
+*[[pianista]]
+*Enciclopedia [http
+M>piano</E
+M>forte</E
+M>gravicembalo col piano e col forte</E
+M>forte</E
+M>piano</E
+M>p. a coda</E
+M>p. a mezza coda</E
+M>p. verticale</E
+M>maestro</E
+M>professore di p</E
+M>andare a lezione di p</E
+M>accordare il p</E
+M>suonare</E
+M> strimpellare il p</E
+M>sedere al p</E
+M>concerto per p. e orchestra</E
+M>cantare con l&#8217;accompagnamento del pianoforte</E
+M>P. meccanico</E
+M>automatico</E
+M>pianola</E
+M>P. preparato</E
+M>sonata per p. preparato</E

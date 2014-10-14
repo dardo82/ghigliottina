@@ -1,0 +1,37 @@
+abile.txt
+"abile"
+"abile"
+"abile"
+"abile a\/in"
+"abile in"
+"abile, competente"
+"diventare abile"
+"diversamente abile"
+"il più abile a"
+"lasciar fare a (qcn più abile; esperto)"
+"mano abile"
+"non abile"
+"persona abile"
+"rendere abile"
+*[[disabile]]
+*[[abilità]], [[abilitare]], [[inabile]], [[disabile]], [[diversamente abile]]
+M>hab</E
+M>lis</E
+M>habere</E
+M>essere a</E
+M>al servizio militare</E
+M>a esercitare una professione</E
+M>un a</E
+M>macchinista</E
+M>è un uomo assai a</E
+M>uno scassinatore abilissimo</E
+M>abili nel lavorare Schegge di selce rimaniamo In fondo da soli</E
+M>un’a</E
+M>difesa</E
+M>un a</E
+M>stratagemma</E
+M>un a</E
+M>inganno</E
+M>è stata una mossa assai a</E
+M>la sua</E
+M>schivare abilmente un pericolo</E

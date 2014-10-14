@@ -1,0 +1,67 @@
+fango.txt
+"bagno di fango"
+"fango"
+"fango"
+"fango di perforazione"
+"gettare fango su qualcuno"
+"pozzanghera di fango"
+"ricoprire di fango"
+"torta di fango"
+#*'' Gettare ''fango'' su qualcuno.''
+#*''Fare i ''fanghi''.
+*[[melma]], [[fanghiglia]], [[pantano]], [[poltiglia]], [[mota]], [[limo]]
+*[[parafango]], [[fangoso]]
+*italiano
+M>fani</E
+M>ghi</E
+M>camminare nel f</E
+M>imbrattarsi di f</E
+M>strade coperte di f</E
+M>veste cotidiana</E
+M>piena di f</E
+M>e di loto</E
+M>terrigeni</E
+M>vulcanici</E
+M>torbosi</E
+M>rossi</E
+M>blu</E
+M>calcarei</E
+M>fanghi a diatomee</E
+M>a globigerine</E
+M>a pteropodi</E
+M>a radiolarî</E
+M>abissali</E
+M>termali</E
+M>bagni di fango</E
+M>fangature</E
+M>fare i f</E
+M>andare ai fanghi</E
+M>rossi</E
+M>fango di perforazione</E
+M>attivati</E
+M>il f</E
+M>dei vizî</E
+M>cadere</E
+M>gettare nel f</E
+M>stare</E
+M>vivere nel f</E
+M>coprire di fango una persona</E
+M>gettare fango su</E
+M>addosso a</E
+M>qualcuno</E
+M>qualcosa</E
+M>nel f</E
+M>de la vostra stoltezza</E
+M>Sopra il f</E
+M>che sale or non mi resta Che gittare il mio sdegno in vane carte</E
+M>tanto che in fine Questo secol di f</E
+M>o vita agogni E sorga ad atti illustri</E
+M>o si vergogni</E
+M>fare fango dell’onore</E
+M>della coscienza</E
+M>della parola data</E
+M>chi casca nel f</E
+M>più ci si dimena e più s’imbratta</E
+M>anche il sole passa sopra il f</E
+M>e non s’imbratta</E
+M>non siete che fango!</E

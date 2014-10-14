@@ -1,0 +1,48 @@
+gustare.txt
+"gustare"
+"gustare"
+"gustare, assaporare"
+"gustare, godere, gradire"
+*[[assaggiare]], [[assaporare]], [[godere]]
+*[[pregustare]]
+*[[gustativo]], [[gusto]]
+M>gustare</E
+M>gustus</E
+M>sono così raffreddato che non riesco a g</E
+M>nulla</E
+M>gustiamo questo vino</E
+M>prenderò solo un pezzetto di torta</E
+M>tanto per gustarla</E
+M>a fior di labbra</E
+M>di non gustar d’alcuna sorte Mai più vivanda</E
+M>fermo era e disposto</E
+M>Qual si fé Glauco nel gustar de l’erba Che ’l fé consorte in mar de li altri dèi</E
+M>ti farò gustare del mio vino</E
+M>mangiava lentamente per meglio g</E
+M>quella bella bistecca</E
+M>se vuoi g</E
+M>veramente questo vino</E
+M>ti consiglio di berlo freddo</E
+M>un bicchierino di liquore</E
+M>una sigaretta</E
+M>un sigaro</E
+M>finalmente posso gustarmi un buon caffè!</E
+M>metteva il cibo in bocca distrattamente</E
+M>senza gustarlo</E
+M>a mangiare da solo</E
+M>non si riesce a g</E
+M>le pietanze</E
+M>la dolcezza di una giornata primaverile</E
+M>il silenzio</E
+M>la quiete della campagna</E
+M>la musica</E
+M>la pittura</E
+M>la poesia</E
+M>gustarsi una scenetta divertente</E
+M>uno spettacolo</E
+M>un disco di musica leggera</E
+M>è possibile che non mi sia concesso di gustarmi in pace una mezz’ora di siesta?</E
+M>avere</E
+M>ti gusterebbe un bicchierino di porto?</E
+M>certe litigate mi gustano poco</E
+M>il tuo comportamento non mi gusta affatto</E

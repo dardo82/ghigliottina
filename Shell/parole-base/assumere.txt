@@ -1,0 +1,79 @@
+assumere.txt
+"arruolare, assumere"
+"assumere"
+"assumere"
+"assumere"
+"assumere"
+"assumere"
+"assumere"
+"assumere del cibo"
+"assumere il comando"
+"assumere il comando, controllo"
+"assumere il controllo"
+"assumere il posto di"
+"assumere l'atteggiamento"
+"assumere l'incarico"
+"assumere la responsabilità di"
+"assumere liquidi"
+"assumere stupefacenti"
+#*''assumere il comando''
+#*''assumere un impiegato''
+*(impegno, responsabilità) [[incaricarsi]], [[impegnarsi]], [[gravarsi]], [[attribuirsi]], [[accettare]], prendere su di sé, prendere in carico
+*(medicinali) [[prendere]], [[ingerire]]
+*(personale) [[impiegare]], dare lavoro, [[ingaggiare]], [[pagare]], [[salariare]], [[assoldare]], prendere alle dipendenze
+*(ipotesi) [[ammettere]]
+*[[licenziare]], [[congedare]], [[deporre]]
+*(ipotesi) [[verificare]]
+*[[assumersi]]
+M>assum</E
+M>sum</E
+M>assunsi</E
+M>assumésti</E
+M>assunto</E
+M>un incarico</E
+M>un impegno</E
+M>un obbligo</E
+M>una fornitura</E
+M>un servizio pubblico</E
+M>il comando di un reparto</E
+M>il comando</E
+M>il comando di una gara</E
+M>il comando della classifica</E
+M>una carica</E
+M>la difesa dell’imputato</E
+M>non posso assumermi questa responsabilità</E
+M>mi assumo io tutte le spese</E
+M>s’è assunto lui di</E
+M>il compito di</E
+M>l’incarico di</E
+M>portare avanti e terminare il lavoro</E
+M>la guardia</E
+M>servizio</E
+M>il servizio</E
+M>un tono</E
+M>un contegno</E
+M>una posa</E
+M>un atteggiamento di superiorità</E
+M>deporre gli abiti assunti per la circostanza</E
+M>E Tu degnasti assumere Questa creata argilla?</E
+M>prendere</E
+M>il suo volto aveva assunto un colore violaceo</E
+M>con i nuovi mobili</E
+M>la casa assumerà un aspetto diverso</E
+M>dette da lui</E
+M>quelle parole assumevano un significato nuovo</E
+M>come esempio</E
+M>informazioni</E
+M>a. un farmaco</E
+M>a. droghe</E
+M>a. stupefacenti</E
+M>la formazione</E
+M>un dato segmento come unità di misura</E
+M>si assume che il fluido sia omogeneo</E
+M>una collaboratrice domestica</E
+M>la ditta assume nuovi impiegati</E
+M>essere assunto al cardinalato</E
+M>al pontificato</E
+M>ai più alti onori</E
+M>la Vergine fu assunta al cielo</E
+M>fu assunta in cielo</E

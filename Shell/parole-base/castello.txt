@@ -1,0 +1,57 @@
+castello.txt
+"castello"
+"castello"
+"costruzione, impalcatura che ricorda un castello"
+"castello di carte"
+"castello di sabbia"
+"castello di sabbia"
+"castello in aria"
+"fare un castello per aria"
+"letto a castello"
+"nave a due ponti; biplano; autobus a due piani; letto a castello"
+"re del castello"
+#* ''il '''castello''' in pianura era anche circondato da un fossato''
+#* ''ho fatto il giro dei '''castelli''' della Loira'';
+#* '''''castello''' di carte'', '''''castello''' di sabbia'';
+*[[rocca]], [[maniero]], [[fortificazione]],  [[forte]]
+*''(edificio signorile)'' [[palazzo]]
+* [[castellana]], [[castellano]],  [[castellare]], [[castellatura]], [[castelletto]], [[castelliere]],  [[castellina]], [[castello di carte]],  [[castellologia]],  [[incastellare]]
+* [[accastellare]]
+*italiano
+*portoghese
+M>cast</E
+M>llum</E
+M>castrum</E
+M>le castèlla</E
+M>Santa Fiore</E
+M>di cento case</E
+M>Castello</E
+M>Castelli Romani</E
+M>Castelfiorentino</E
+M>Castelfranco Veneto</E
+M>Castelli in aria</E
+M>sono tutti c</E
+M>in aria</E
+M>non facciamo c</E
+M>in aria</E
+M>castelli di Spagna</E
+M>un c</E
+M>di menzogne</E
+M>Mettere in castello</E
+M>qualcosa alla buona da mettere in castello mi basta</E
+M>dei burattini</E
+M>da burattini</E
+M>pare un c</E
+M>di burattini</E
+M>aereo</E
+M>letti a castello</E
+M>per sabbiera</E
+M>dell’orologio</E
+M>motore</E
+M>di carte</E
+M>le tue supposizioni non sono che un c</E
+M>di carte</E
+M>tutti i nostri progetti sono crollati come un c</E
+M>di carte</E
+M>elepoli</E
+M>torre</E

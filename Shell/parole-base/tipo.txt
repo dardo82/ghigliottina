@@ -1,0 +1,195 @@
+tipo.txt
+"atmosfera tipo"
+"batterie tipo B"
+"borsa di tela (tipo militare)"
+"della stessa natura, dello stesso tipo"
+"di altro tipo"
+"di ogni tipo"
+"di tipo femminile"
+"di tipo francese"
+"di tipo p"
+"galletto (tipo di dado)"
+"giornata tipo"
+"il tipo migliore"
+"impresa di tipo artigiano"
+"località tipo"
+"miglior tipo"
+"mugnaiaccio (tipo di gabbiano)"
+"non essere il proprio tipo"
+"oggetto tipo"
+"ordine tipo"
+"persona a cui è stato dato un certo tipo di potere"
+"persona tipo"
+"personaggio eccentrico, tipo stravagante"
+"prove di tipo"
+"riferito a un tipo di misurazione"
+"sangue di tipo A"
+"schema delle rime, tipo di rima"
+"tipo"
+"tipo"
+"tipo"
+"tipo"
+"tipo"
+"teatro, letteratura: stereotipo, simbolo"
+"tipo"
+"tipo"
+"tipo"
+"tipo"
+"tipo A"
+"tipo AB"
+"tipo B"
+"tipo bizzarro"
+"tipo da spiaggia"
+"tipo di"
+"tipo di arenaria"
+"tipo di birra"
+"tipo di carattere"
+"tipo di cartone"
+"tipo di danza"
+"tipo di danza con passi pesanti"
+"tipo di danza folk"
+"tipo di lavoro"
+"tipo di missile"
+"tipo di personalità"
+"tipo di pianta"
+"tipo di prova"
+"tipo di serpente"
+"tipo di tabacco da masticare"
+"tipo di titolo"
+"tipo ideale"
+"tipo in gamba"
+"tipo O"
+"tipo originale, tipo stravagante"
+"tipo più alto"
+"tipo redingote"
+"tipo robusto, uomo gagliardo"
+"tipo selvatico"
+"tipo simpatico, tipo a posto"
+"tipo strambo"
+"tipo strano"
+"tipo strano"
+"tipo strano"
+"tipo\/categoria"
+"un tipo di uccello"
+"una cosa di un certo tipo"
+*''(di prodotto)'' [[forma]], [[modello]], [[esempio]], [[campione]], [[esemplare]], [[originale]], [[prototipo]], [[archetipo]]
+*[[signore]], [[individuo]], [[tale]], [[tizio]]; [[figuro]], persona losca
+*[[persona]], [[personaggio]], persona originale, [[eccentrico]], [[soggetto]], [[sagoma]], [[numero]], [[macchietta]], [[tomo]]
+*''(nell’esegesi biblica)'' [[figura]], [[simbolo]]
+* ''(in numismatica)'' [[stampo]]
+*''(tipografia)''  carattere mobile
+*[[prototipo]], [[tipaccio]], [[tipico]], [[tipizzare]], [[tipo-]]
+*''tipo da spiaggia''
+*[[clase]] ''m'' (1)
+*[[mae]] 
+*[[tío]] 
+M>typus</E
+M>impronta.</E
+M>un&#8217;opera stampata con i t. bodoniani</E
+M>per i t. di Aldo Manuzio</E
+M>t. tondi</E
+M>romani</E
+M>gotici</E
+M>i t. sono un po&#8217; logori.</E
+M>i corsivi del tipo Bembo.</E
+M>un impianto t. di termosifone</E
+M>di altoforno</E
+M>un appartamento t.</E
+M>essere</E
+M>considerare</E
+M>rappresentare</E
+M>il t. di ...</E
+M>quella greca è stata a lungo ritenuta il t. della bellezza ideale</E
+M>il sillogismo può essere considerato il t.</E
+M>per eccellenza</E
+M>del ragionamento astratto.</E
+M>il reddito</E
+M>le spese mensili di una famiglia tipo.</E
+M>t. costituzionale</E
+M>t. psicologico</E
+M>t. longilineo</E
+M>longitipo</E
+M>t. brachilineo</E
+M>brachitipo</E
+M>t. estroverso</E
+M>introverso</E
+M>tipo ideale</E
+M>idealtipo</E
+M>Idealtypus</E
+M>t. ideale di capitalismo</E
+M>t. ideali di autoritarismo</E
+M>genere</E
+M>qualità</E
+M>specie</E
+M>abiti da uomo d&#8217;ogni t. e misura</E
+M>scarpe di t. sportivo</E
+M>mobili di tutti i t.</E
+M>un t. di fotocopiatrice molto diffuso</E
+M>case d&#8217;abitazione di t. economico</E
+M>signorile</E
+M>lavorazioni di t. artigianale</E
+M>industriale</E
+M>lanciare sul mercato un nuovo t. di autovettura</E
+M>produrre un t. unico</E
+M>prodotti di t. unico.</E
+M>sul t. di ...</E
+M>del t. di ...</E
+M>mi piacerebbe una villetta del t. di questa</E
+M>vorrei una giacca sul t. di quella che è esposta in vetrina</E
+M>tendo a perdere la pazienza</E
+M> tipo quando qualcuno arriva in ritardo</E
+M>alle volte non sono stato abbastanza paziente con mio fratello</E
+M> t. quando mi chiedeva di aiutarlo per i compiti</E
+M>un portafoglio t. pelle</E
+M>una carta da parati t. stoffa.</E
+M>frase tipo</E
+M>il t. &#171;vota socialista&#187;</E
+M>il t. &#171;quel mattacchione di Giorgio&#187;</E
+M>il t. &#171;donna è bello&#187;</E
+M>t. selvatico</E
+M>t. longilineo</E
+M>dolicomorfo</E
+M>t. brevilineo</E
+M>brachimorfo</E
+M>t. mediolineo</E
+M>mesomorfo.</E
+M>teoria dei t.</E
+M>teoria dei t. logici</E
+M>teoria dei t. ramificati</E
+M>teoria semplificata dei t.</E
+M>teoria dei t. semplici</E
+M>definizioni predicative</E
+M>tipo 0</E
+M>tipo 1</E
+M>tipo 2</E
+M>t. contrattuale</E
+M>legale</E
+M>sociale</E
+M>nel personaggio di Tartuffe</E
+M>Molière ha incarnato il t. dell&#8217;ipocrita</E
+M>il t. alfieriano dell&#8217;eroe</E
+M>del tiranno</E
+M>nella scultura greca</E
+M>Venere e Apollo idealizzano il t. della bellezza femminile e maschile</E
+M>quel tuo amico mi sembra il t. del perfetto imbecille</E
+M>un t. allegro</E
+M>curioso</E
+M>divertente</E
+M>un t. strano</E
+M>un t. da spiaggia</E
+M>ma sai che sei un bel t.!</E
+M>è proprio un t.!</E
+M>ma guarda che t.!</E
+M>è un t.</E
+M>è il mio t.</E
+M>non è il mio t</E
+M>fare t</E
+M>è venuto un t. a cercarti</E
+M>è un t. che non mi piace</E
+M>mi pare un t. poco raccomandabile.</E
+M>Adamo è il t. di Cristo</E
+M>è un tipetto</E
+M>che tipino</E
+M> quella ragazza</E
+M>è un tipaccio</E
+M> quello: cerca di starne alla larga.</E

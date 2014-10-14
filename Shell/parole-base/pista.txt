@@ -1,0 +1,118 @@
+pista.txt
+"corsa su pista"
+"falsa pista"
+"fuori pista"
+"gara su pista (per auto)"
+"la pista del terrorismo"
+"pista"
+"pista"
+"pista"
+"pista"
+"pista"
+"pista"
+"pista aerea"
+"pista battuta"
+"pista ciclabile"
+"pista d'atterraggio"
+"pista d'atterraggio"
+"pista d'atterraggio"
+"pista da ballo"
+"pista da ballo"
+"pista da corsa"
+"pista da corsa"
+"pista da ghiaccio; pattinatoio"
+"pista da pattinaggio"
+"pista da sci"
+"pista di ghiaccio"
+"pista per gare motociclistiche"
+"pista riservata viacard"
+"rimettersi in pista"
+"Scendere in pista"
+#*'''''pista''' di Formula uno'', '''''pista''' da sci''
+#*''il poliziotto seguiva la '''pista''''' dei complici del sospettato
+*[[orma]], [[traccia]],[[impronta]], 
+*'' (di essere umano)'' [[pedata]] 
+* ''(per gare sportive)'' [[circuito]], [[tracciato]]  
+* ''(del circo)'' [[arena]]  
+* ''(magnetica, sonora e simili)'' [[banda]] , [[traccia]], [[colonna]] 
+*AA.VV.''Dizionario etimologico'', edizione 2004, ristampa 2008, RusconiLibri, p. 758
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 1545
+M>pesta</E
+M>piste</E
+M>la p. del cinghiale</E
+M>i cani seguivano la p</E
+M>della lepre</E
+M>la polizia è sulla p</E
+M>dei rapinatori</E
+M>seguire una falsa p</E
+M>una p</E
+M>sbagliata</E
+M>non tralasciare nessuna p</E
+M>battere tutte le p</E
+M>essere su una buona p</E
+M>nera</E
+M>rossa</E
+M>una p</E
+M>carovaniera</E
+M>le p</E
+M>sahariane</E
+M>aprirsi una p</E
+M>nella giungla</E
+M>gli scalatori seguivano una p</E
+M>sulla neve</E
+M>erbosa</E
+M>asfaltata</E
+M>in cemento</E
+M>di legno</E
+M>di plastica</E
+M>all&#8217;aperto</E
+M>coperta</E
+M>corsa su pista</E
+M>fare un giro di p</E
+M>in pista</E
+M>di allenamento</E
+M>dare una p.</E
+M>nei giochi enigmistici mio padre dà una p. a tutti</E
+M>su pista</E
+M>di pattinaggio</E
+M>p. di discesa</E
+M>di fondo</E
+M>da snowboard</E
+M>sciare fuori p.</E
+M>fare un fuori p. col maestro di sci</E
+M>p. facile</E
+M>difficile</E
+M>per sciatori esperti</E
+M>baby</E
+M>verde</E
+M>blu</E
+M>rossa</E
+M>nera</E
+M>pista!</E
+M>pista</E
+M>pista!</E
+M>di atterraggio</E
+M>di lancio</E
+M>di partenza</E
+M>di salto</E
+M>per aeromodelli</E
+M>del circo</E
+M>da ballo</E
+M>Teatro a</E
+M>pista</E
+M>aeroportuale</E
+M>di rullaggio</E
+M>di volo</E
+M>pista 34</E
+M>ciclabile</E
+M>ciclopista</E
+M>per prova pneumatici</E
+M>rettilinea</E
+M>pista a percorso misto</E
+M>sonora</E
+M>colonna sonora</E
+M>magnetica</E
+M>registratori a due</E
+M>a quattro</E
+M>a otto piste</E
+M>farsi una pista</E

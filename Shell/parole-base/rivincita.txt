@@ -1,0 +1,21 @@
+rivincita.txt
+"prendersi la rivincita"
+"rivincita"
+"rivincita"
+"rivincita"
+*[[rivincere]]
+*[[prendersi la rivincita]] 
+*italiano
+*inglese
+M>dare</E
+M>concedere</E
+M>negare la r</E
+M>prendersi</E
+M>pigliarsi la r</E
+M>solenne</E
+M>meritata</E
+M>clamorosa</E
+M>non è riuscito alle elezioni</E
+M>ma la prossima volta si prenderà la r</E
+M>per ora lo lascio fare</E
+M>alla prima occasione mi prenderò la rivincita</E

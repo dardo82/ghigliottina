@@ -1,0 +1,113 @@
+visione.txt
+"di una visione generale"
+"firma per presa visione"
+"interrompere la visione"
+"la visione è raccomandata a discrezione dello spettatore"
+"linea di visione"
+"mancanza di visione"
+"merce in visione"
+"prendere visione"
+"presa visione del documento"
+"presa visione di un documento"
+"prima visione"
+"seconda visione (film)"
+"visione"
+"visione"
+"visione"
+"visione"
+"visione"
+"visione a colori"
+"visione a colori"
+"visione a tunnel, visione limitata"
+"visione d'insieme"
+"visione dall'alto"
+"visione del mondo"
+"visione di gioco"
+"visione di oggetti"
+"visione di oggetti attraverso lenti"
+"visione distorta"
+"visione doppia"
+"visione generale"
+"visione mentale"
+"visione notturna"
+"visione offuscata"
+"visione periferica"
+"visione preliminare"
+#* '''visioni''' di san Paolo
+*[[osservazione]], [[esame]], [[controllo]]
+*(di film e spettacoli) [[proiezione]], [[trasmissione]], [[presentazione]]
+*[[percezione]], [[allucinazione]]; [[apparizione]], [[estasi]]
+*[[scena]], [[spettacolo]]
+*[[veduta]]
+*[[realtà]]
+*italiano
+M>visio -onis</E
+M>videre</E
+M>visus</E
+M>v. vicina</E
+M>lontana</E
+M>chiara</E
+M>distinta</E
+M>v. diretta</E
+M>indiretta</E
+M>v. binoculare</E
+M>v. crepuscolare</E
+M>scotopica</E
+M>v. diurna</E
+M>fotopica</E
+M>v. nera</E
+M>v. rossa</E
+M>mandare in v. un libro</E
+M>una rivista</E
+M>ricevere un campione</E
+M>un esemplare in v.</E
+M>prendere</E
+M>dare v. di un atto</E
+M>di un documento</E
+M>firmare</E
+M>siglare per presa v. una circolare</E
+M>film in prima</E
+M>in seconda v.</E
+M>cinema di prima v.</E
+M>v. privata</E
+M>v. riservata ai critici</E
+M>alla stampa</E
+M>v. preventiva</E
+M>v. contemporanea</E
+M>una ragazza che dice di avere avuto la v. della Madonna</E
+M>le v. degli asceti</E
+M>dei profeti</E
+M>soffrire di visioni</E
+M>avere delle v.</E
+M>in sonno gli apparve una v.</E
+M>appresso questo sonetto apparve a me una mirabile v.</E
+M>sogno</E
+M>disse quel che Talano veduto aveva dormendo non essere stato sogno ma visione</E
+M>v. spontanea</E
+M>la v. di s. Paolo</E
+M>v. indotta</E
+M>v. beatifica</E
+M>v. intuitiva</E
+M>le v. medievali</E
+M>la v. di Carlo Magno</E
+M>la v. dantesca</E
+M>Divina Commedia</E
+M>L’amorosa v.</E
+M>Visioni</E
+M>ma queste sono v.!</E
+M>il suo non è un progetto di riforma sociale</E
+M> è una visione</E
+M>questo panorama</E
+M>quella scena</E
+M>è una v. indimenticabile</E
+M>meravigliosa</E
+M>aperta la porta</E
+M> si presentò ai nostri occhi una v. raccapricciante</E
+M>avere una v. esatta</E
+M>inesatta</E
+M>errata</E
+M>di un fatto</E
+M>di una situazione</E
+M>tu hai una v. distorta della realtà</E
+M>mi sono fatto una v. chiara del problema</E
+M> ha una v. tutta sua della vita</E

@@ -1,0 +1,43 @@
+prolungare.txt
+"prolungare"
+"prolungare, replace: prolungarsi"
+"prolungare, replace: prolungarsi"
+"prolungare troppo una visita"
+"prolungare, tirare per le lunghe"
+M>prolongare</E
+M>longus</E
+M>pro</E
+M>io prolungo</E
+M>tu prolunghi</E
+M>una strada</E
+M>un segmento</E
+M>un lato di un triangolo</E
+M>il lavoro fino a tardi</E
+M>l&#8217;orario di apertura dei negozî</E
+M>l&#8217;attesa</E
+M>la fermata</E
+M>il discorso</E
+M>la conversazione</E
+M>è stata una cura miracolosa</E
+M>che gli ha prolungato la vita</E
+M>una nota</E
+M>il suono d&#8217;una nota</E
+M>hanno prolungato il termine per la consegna dei documenti</E
+M>il medico</E
+M>prolungata nella seguente mattina la cura della gamba</E
+M>salito in su una barchetta n&#8217;andò a Amalfi</E
+M>la strada si prolunga in un sentiero</E
+M>il suo ritardo si prolungava</E
+M>il prolungarsi di una vibrazione</E
+M> non godo di questo artificioso prolungarsi dell&#8217;infanzia</E
+M>si è prolungato a spiegarmi</E
+M>l&#8217;oratore si è prolungato oltre il tempo concesso</E
+M>ma che più mi prolungo io in raccontar quello</E
+M>che a ciascuno può essere manifesto?</E
+M>non mi prolungo</E
+M>suono prolungato</E
+M>fece una pausa prolungata</E
+M>sosta prolungata</E
+M>prolungati applausi</E
+M>gridare</E
+M>applaudire prolungatamente</E

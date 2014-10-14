@@ -1,0 +1,70 @@
+recitare.txt
+"rappresentare, interpretare, recitare"
+"recitare"
+"recitare"
+"recitare"
+"recitare"
+"recitare calorosamente"
+"recitare con i gesti"
+"recitare con i gesti"
+"recitare in modo esagerato"
+"recitare in modo monotono"
+"recitare la parte dell'istrione"
+"recitare la propria parte"
+"recitare un ruolo"
+"recitare un ruolo in"
+"recitare una parte"
+"recitare una parte"
+"recitare una parte in"
+M>recitare</E
+M>citare</E
+M>io rècito</E
+M>invitato dal pubblico</E
+M>il celebre attore recitò il canto di Ugolino</E
+M>fra la noia generale cominciò a r</E
+M>con enfasi i suoi sonetti</E
+M>una poesia</E
+M>un discorsetto d&#8217;occasione</E
+M>pare che reciti</E
+M>la lezione</E
+M>la sua attenzione fu attirata</E
+M>da non so quali signori che</E
+M>fatta fermar la carrozza</E
+M>recitarono non so qual complimento</E
+M>le orazioni</E
+M>le preghiere</E
+M>le orazioni dei morti</E
+M>l&#8217;Avemaria</E
+M>per penitenza dovrà r</E
+M>tre Pater</E
+M>Ave</E
+M>Gloria</E
+M>recitò bisbigliando le preghiere apprese da bambino</E
+M>una compagnia specializzata nel r</E
+M>le commedie di Goldoni</E
+M>di Shakespeare</E
+M>ha recitato una piccola parte in un film neorealista</E
+M>a soggetto</E
+M>a braccia</E
+M>a braccio</E
+M>con impegno</E
+M>non sa r</E
+M>insegnare</E
+M>imparare a r</E
+M>arte del r</E
+M>Questa sera si recita a soggetto</E
+M>per le sedie</E
+M>sa r</E
+M>molto bene la parte dell&#8217;ingenua</E
+M>mi hai ingannato recitando una indegna commedia</E
+M>è inutile che reciti la parte della gran signora</E
+M>tanto si vede che è rimasta una popolana</E
+M>smettila di r</E
+M>guarda come recita!</E
+M>de&#8217; varii casi recitati</E
+M>rinnovando le risa</E
+M>l&#8217;articolo 664 del codice penale così recita: &#171;Chiunque stacca</E
+M>lacera</E
+M>scritti o disegni fatti affiggere ...&#187;</E
+M>recitar cantando</E
+M>voce recitante</E

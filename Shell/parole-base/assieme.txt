@@ -1,0 +1,27 @@
+assieme.txt
+"assieme"
+"assieme, replace: assieme a"
+"assieme a"
+"dormire assieme al proprio promesso senza svestirsi"
+"mettere assieme"
+"mettere assieme"
+"pezzi di stoffa cuciti assieme"
+"rattoppi cuciti assieme"
+"unire assieme"
+"venire assieme"
+M>insieme</E
+M>stare a</E
+M>mettere</E
+M>riunire a</E
+M>usciremo a</E
+M>assieme a</E
+M>assieme con</E
+M>verrò a. a te</E
+M>ho cenato a. a lui</E
+M>quell’a</E
+M>di case che si chiama Santa Maria a Coverciano</E
+M>insieme</E
+M>un a</E
+M>travolgente</E
+M>il mirabile a</E
+M>degli strumenti dell’orchestra</E

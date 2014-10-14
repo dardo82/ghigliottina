@@ -1,0 +1,69 @@
+preghiera.txt
+"casa di Dio; casa di preghiera"
+"casa di preghiera"
+"con preghiera di diffusione"
+"guarigione tramite preghiera"
+"guaritore tramite preghiera"
+"incontro di preghiera"
+"incontro di preghiera"
+"preghiera"
+"preghiera"
+"preghiera"
+"preghiera"
+"preghiera collettiva"
+"preghiera del mattino"
+"preghiera serale"
+"ruota della preghiera"
+"scialle da preghiera"
+"tappetino da preghiera"
+#* ''Padre nostro che sei nei cieli...''
+*''(a una persona)''[[richiesta]], [[supplica]], [[domanda]], [[istanza]], [[implorazione]], [[invito]], [[raccomandazione]] 
+* (a una divinità) [[orazione]], [[invocazione]], [[supplica]]
+*[[pregare]]
+*italiano
+M>preguiera</E
+M>*precaria</E
+M>precarius</E
+M>rivolgere</E
+M>fare una p</E
+M>ascoltare</E
+M>esaudire le p</E
+M>di qualcuno</E
+M>calda</E
+M>ardente</E
+M>fervida</E
+M>umile p</E
+M>a p</E
+M>su p</E
+M>dietro p</E
+M>se permette</E
+M>vorrei rivolgerle una p</E
+M>posso rivolgervi una p</E
+M>con p</E
+M>di rispondere sollecitamente</E
+M>con p</E
+M>di restituzione</E
+M>di pubblicazione</E
+M>dire</E
+M>recitare la p</E
+M>le p</E
+M>le p</E
+M>del mattino</E
+M>della sera</E
+M>le p</E
+M>dei defunti</E
+M>per i defunti</E
+M>eucaristica</E
+M>universale</E
+M>dei fedeli</E
+M>domenicale</E
+M>liturgica</E
+M>raccogliersi in preghiera</E
+M>l&#8217;ora</E
+M>il momento della p</E
+M>stare in ginocchio</E
+M>in atteggiamento di preghiera</E
+M>Tappeto da preghiera</E
+M>preghiera</E
+M>namasè</E
+M>mihrab</E

@@ -1,0 +1,30 @@
+dado.txt
+"dado"
+"dado"
+"dado"
+"dado di sicurezza"
+"galletto (tipo di dado)"
+"il dado è tratto!"
+"tirare il dado"
+"vite senza dado"
+#*''quando vai al supermercato ricordati di acquistare dei dadi per il [[brodo]]''
+*[[cubetto]], [[cubo]] 
+*Enciclopedia [http
+M>datum</E
+M>gioco dei d</E
+M>giocare ai d</E
+M>a dadi</E
+M>fare ai d</E
+M>tirare i d</E
+M>il d</E
+M>è tratto</E
+M>lasciar correre il d</E
+M>dadi per brodo</E
+M>fare il brodo di</E
+M>con i</E
+M>dadi</E
+M>minestra di dadi</E
+M>vite a dado</E
+M>stringere</E
+M>avvitare il dado</E
+M>della stanghetta</E

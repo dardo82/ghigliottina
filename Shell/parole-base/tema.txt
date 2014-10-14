@@ -1,0 +1,51 @@
+tema.txt
+"a tema"
+"battere su (un tema)"
+"fuori tema"
+"fuori tema; fuori strada"
+"giornata a tema"
+"incontro a tema"
+"motivo ricorrente \/ tema di una canzone"
+"parco a tema"
+"per rimanere in tema"
+"serata a tema"
+"tanto per rimanere in tema"
+"tema"
+"tema"
+"tema"
+"tema"
+"tema"
+"tema di"
+"tema e varianti"
+"tema musicale"
+"variazione sul tema"
+#* ''il principale 
+#* ''scrivere un 
+#* ''il 
+#* ''il 
+#* ''nelle sue [[opere]] Foscolo affronta spesso il 
+#* ''la [[lotta]] dell'[[uomo]] con la [[natura]] è un 
+#* ''il 
+#* ''si piegò al [[ricatto]] per 
+*''(timore)''  ''' té | ma '''  
+*''(riassunto)''  ''' tè | ma '''
+* ''(timore)'' derivazione di [[temere]]
+* ''(argomento, soggetto)'' dal [[latino]] ''[[thema]]'' ossia "[[argomento]]", ''posizione degli astri'', e nel latino tardo anche ''tema d’una parola''), che è dal [[greco]] ''[[ϑέμα]]'', ovvero "ciò che si pone", derivazione di ''[[τίϑημι]]'' ossia "[[porre]], [[collocare]]"
+* ''(voce verbale)'' vedi [[temere]]
+*(di discorso, scritto) [[argomento]], [[soggetto]], [[contenuto]], [[materia]], [[questione]], [[tesi]], [[concetto]], [[assunto]]
+*(scolastico) elaborazione scritta, [[compito]], [[componimento]], [[composizione]], [[elaborato]], [[esercitazione]], [[svolgimento]], [[trattazione]]
+*Devoto/Oli, '' Il dizionario della lingua italiana'' edizione cartacea 2000-2001, Le Monnier, p. 2121
+M>Da questa t. a ciò che tu ti solve</E
+M> Dirotti perch&#8217;io venni</E
+M>con passo vagante</E
+M> Fra tema e desire</E
+M> s&#8217;avanza e ristà</E
+M>per t. di ...</E
+M> senza t. di ...</E
+M>senza tema</E
+M>per t. delle riprensioni del padre e che la donna rubata non gli fosse tolta</E
+M>Sanza t. d&#8217;infamia ti rispondo</E
+M>non voleva confidarsi con nessuno per t. d&#8217;essere tradito</E
+M>avrei potuto tornare subito a San Celso</E
+M> senza t. di rivederlo</E
+M> di ricadere in quelle fantasticherie di cui mi vergognavo</E

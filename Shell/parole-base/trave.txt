@@ -1,0 +1,58 @@
+trave.txt
+"trave"
+"trave"
+"trave a scatola"
+"trave a scatola"
+"trave ad I"
+"trave d'equilibrio"
+"trave del tetto"
+"trave di legno"
+"trave di supporto"
+"trave incrociata"
+"trave traversa"
+*[[tavola]], [[asse]]
+M>trabs trabis</E
+M>le t. del tetto</E
+M>le t. di un&#8217;impalcatura</E
+M>soffitto con travi a vista</E
+M>t. di equilibrio</E
+M>la t. dell&#8217;ariete</E
+M>Urtò la t. immensa</E
+M> e così dure Ne la torre addoppiò le sue percosse Che le ben teste in lei salde giunture Lentando aperse</E
+M> e la respinse e scosse</E
+M>incontro a loro I Teucri i sassi</E
+M> i travi ed ogni tèlo Avventaron dal muro</E
+M>Sì come neve tra le vive travi Per lo dosso d&#8217;Italia si congela</E
+M>fa d&#8217;un fuscello una t.</E
+M>ogni bruscolo gli pare una t.</E
+M>vedere la pagliuzza</E
+M>il fuscello</E
+M>la festuca</E
+M>nell&#8217;occhio altrui e non vedere la t. nel proprio</E
+M>Matteo</E
+M>Luca</E
+M>t. piena</E
+M>t. a cassone</E
+M>a tubo</E
+M>t. a T</E
+M>a U</E
+M>a I</E
+M>t. armata</E
+M>t. di colmo</E
+M>colmareccio</E
+M>t. composta</E
+M>t. di gronda</E
+M>t. maestra</E
+M>t. parete</E
+M>t. reticolare</E
+M>travatura reticolare</E
+M>t. rinforzata</E
+M>t. a sbalzo</E
+M>t. stirata</E
+M>trave</E
+M>t. di chiglia</E
+M>t. articolata</E
+M>snodata</E
+M>t. di coda</E
+M>bure</E
+M>corpo calloso</E

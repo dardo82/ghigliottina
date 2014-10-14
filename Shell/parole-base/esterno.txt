@@ -1,0 +1,148 @@
+esterno.txt
+"all'esterno"
+"all'esterno"
+"attuatore esterno"
+"campo esterno"
+"diametro esterno"
+"emettere all'esterno"
+"esterno"
+"esterno"
+"esterno"
+"esterno"
+"esterno alla base (mil.)"
+"esterno alla base (mil.)"
+"esterno, esteriore"
+"fornirsi dall'esterno"
+"il mondo esterno"
+"lato esterno"
+"orecchio esterno"
+"orecchio esterno"
+"prodotto esterno"
+"punto esterno"
+"rivolto verso l'esterno"
+"stanza che dà all'esterno"
+"strato esterno"
+"strato esterno"
+"verso l'esterno"
+*[[esteriore]], di fuori, [[estrinseco]], [[estero]], [[estraneo]], [[straniero]], [[forestiero]]
+*[[superficiale]], [[apparente]], [[accidentale]], [[epidermico]]
+*[[separato]], [[diviso]], [[staccato]], [[disgiunto]]
+*fuori, di fuori, [[strada]]
+*(di edificio) [[facciata]]
+*[[interno]], [[interiore]], [[intimo]], [[intrinseco]]
+*[[sostanziale]], [[essenziale]]
+*[[unito]], [[attaccato]], [[collegato]], [[congiunto]]
+*luogo chiuso, [[casa]]
+*[[esternalizzare]], [[esteriore]], [[esternalità]], [[esternamente]], [[esternare]]
+*[[estrinseco]], [[estero]], [[extra-]]
+M>externus</E
+M>exter</E
+M>ext</E
+M>rus</E
+M>le parti e</E
+M>della carrozzeria</E
+M>parete</E
+M>facciata e</E
+M>si accede al piano superiore per una scala e</E
+M>impressioni e</E
+M>per uso e</E
+M>pericoli e</E
+M>nemici e</E
+M>alunno e</E
+M>gli esterni</E
+M>le esterne</E
+M>candidato e</E
+M>privatista</E
+M>esterno</E
+M>l’angolo e</E
+M>dell’occhio</E
+M>la parte e</E
+M>del piede</E
+M>del ginocchio</E
+M>curva e</E
+M>di una strada</E
+M>di un fiume</E
+M>interno</E
+M>interiore</E
+M>mondo e</E
+M>pianeti e</E
+M>Foro e</E
+M>foro interno</E
+M>esterno</E
+M>esterna</E
+M>Angolo e</E
+M>angoli alterni e</E
+M>angoli coniugati e</E
+M>interno</E
+M>in casa</E
+M>partita e</E
+M>vittorie</E
+M>sconfitte esterne</E
+M>sdegnoso ch’un guerriero esterno Debba portar di quella giostra il pregio</E
+M>l’e</E
+M>di un palazzo</E
+M>l’e</E
+M>della chiesa</E
+M>esterni</E
+M>girare gli esterni di un film</E
+M>girare in esterni</E
+M>all’esterno</E
+M>esternamente non lo diresti un locale di lusso</E
+M>la porta esternamente non presenta segni di effrazione</E
+M>esternamente ha un aspetto florido</E
+"name": "Canton Appenzello Esterno"
+"name": "Esterno notte (Casa di Giovanna)"
+"name": "Su un ciliegio esterno"
+"name": "Esterno"
+"name": "Automorfismo esterno"
+"name": "Serbatoio esterno dello Space Shuttle"
+"name": "Muscolo pterigoideo esterno"
+"name": "Disco rigido esterno"
+"name": "Esterno"
+"name": "Muscolo obliquo esterno"
+"name": "Campo esterno"
+"name": "Muscolo sfintere anale esterno"
+"name": "Orecchio esterno"
+"name": "Muscolo otturatore esterno"
+"name": "Partito Esterno"
+"name": "Nucleo esterno"
+"name": "Orifizio esterno dell'utero"
+"name": "Cavalleria Rusticana: \"Inneggiamo,\" (Santuzza, Lucia e Colo Esterno)"
+"name": "Esterno notte"
+"name": "Dall'esterno"
+"name": "Verso l'esterno"
+"name": "Dio esterno"
+"name": "Strutture da esterno"
+"name": "Accessori stufe a fungo da esterno"
+"name": "Fontane da esterno"
+"name": "Copertura stufe a fungo da esterno"
+"name": "Tavoli da esterno"
+"name": "Scarpe da esterno"
+"name": "Lettini, chaise longue da esterno"
+"name": "Sedie da esterno"
+"name": "Piante da esterno"
+"name": "Arredi per esterno"
+"name": "Su un ciliegio esterno"
+"name": "Su un ciliegio esterno"
+"name": "Esterno"
+"name": "Dall'esterno"
+"name": "Cavalleria Rusticana: \"Inneggiamo,\" (Santuzza, Lucia e Colo Esterno)"
+"name": "Esterno notte"
+"name": "Dio esterno"
+"name": "Verso l'esterno"
+"name": "Esterno notte (Casa di Giovanna)"
+"name": "Un segno esterno"
+"name": "Un segno esterno"
+"name": "Su un ciliegio esterno"
+"name": "Disco rigido esterno"
+"name": "Condotto uditivo esterno"
+"name": "Pianeta esterno"
+"name": "esterno"
+"name": "esterno"
+"name": "esterno"
+"name": "Esterno sinistro"
+"name": "Cavalleria Rusticana: \"Inneggiamo,\" (Santuzza, Lucia e Colo Esterno)"
+"name": "Pericondrite dell'orecchio esterno"
+"name": "L'opera abbandonata tace e volge la sua cavit\u00e0 verso l'esterno"
+"name": "L'opera abbandonata tace e volge la sua cavit\u00e0 verso l'esterno"
+"name": "Colonizzazione del sistema solare esterno"

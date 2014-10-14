@@ -1,0 +1,19 @@
+spicciolo.txt
+"per qualche spicciolo"
+"spicciolo"
+"spicciolo"
+"spicciolo"
+M>moneta s.</E
+M>mi servono cinque euro s.</E
+M>cambiare in spiccioli</E
+M>non ho più spiccioli</E
+M>sono rimasto senza spiccioli</E
+M>ci vogliono gli s.!</E
+M>e gli s.</E
+M> chi me li dà?</E
+M>aveva dell&#8217;ingegno</E
+M> ma non nel senso s. della parola</E
+M>egli era pratico e padrone della vita s.</E
+M> sapeva che tutti gli uomini sono corrompibili</E
+M> che nessuno fa per onore o dovere</E
+M>fare della filosofia spicciola</E

@@ -1,0 +1,21 @@
+stupendo.txt
+"stupendo"
+"wonderful, stupendous, splendid"
+#*''un mare stupendo''
+*[[bellissimo]], [[meraviglioso]], [[splendido]], [[magnifico]], [[favoloso]], [[incantevole]], [[sbalorditivo]], [[straordinario]], [[eccezionale]], [[fantastico]],  [[stupefacente]]
+*[[brutto]], [[bruttissimo]], [[orribile]], [[orrendo]], [[mostruoso]]
+M>stupendus</E
+M>stupēre</E
+M>uno spettacolo s.</E
+M>uno s. spettacolo</E
+M>un quadro s.</E
+M>ho letto un libro s.</E
+M>ha fatto un discorso s.</E
+M>vieni ad ammirare questo s. panorama!</E
+M>quella donna ha degli occhi s.</E
+M>abbiamo passato una giornata stupenda</E
+M>&#171;Vuoi venire in vacanza con noi?&#187; &#171;Stupendo!&#187;</E
+M>è s. che si sia finalmente deciso a rimettersi a studiare.</E
+M>un film stupendamente interpretato</E
+M>risuonavano intorno a me diverse lingue</E
+M> pronunciate da bocche ... stupendamente disegnate</E

@@ -1,0 +1,17 @@
+scrivania.txt
+"calendario da scrivania"
+"dello scrittoio, della scrivania"
+"scrittoio, scrivania"
+"scrivania"
+"scrivania di biblioteca"
+"scrivania per computer"
+* [[banco]], [[cattedra]], [[tavolo]]
+M>una bella s. antica</E
+M>una s. moderna in metallo cromato</E
+M>una s. di noce massiccio</E
+M>di ciliegio</E
+M>una s. in stile Luigi XIV</E
+M>un tavolino che chiamano scrivania</E
+M> ... e in mezzo era un grosso calamaio di bronzo</E
+M>stare alla s.</E
+M>passare le notti alla s.</E

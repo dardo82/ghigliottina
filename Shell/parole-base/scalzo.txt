@@ -1,0 +1,3 @@
+scalzo.txt
+"scalzo"
+*[[calzato]]

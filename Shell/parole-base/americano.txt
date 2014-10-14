@@ -1,0 +1,66 @@
+americano.txt
+"afro-americano"
+"americano"
+"americano"
+"americano del nord"
+"attaccante (football americano)"
+"becco a cesoie americano"
+"caffè americano"
+"codice standard americano per scambio di informazioni"
+"compagno americano"
+"Congresso americano, Campidoglio"
+"continente americano"
+"cuculo americano"
+"di gattopardo americano"
+"dolcetto americano"
+"dolcetto americano"
+"formaggio americano"
+"gambecchio americano"
+"gelato sundae (gelato americano)"
+"ginseng americano"
+"giocatore di football americano"
+"inglese americano"
+"Inno Nazionale Americano"
+"italo-americano, italoamericano"
+"americano di origine italiana"
+"italo-americano, italoamericano"
+"americano di origine italiana"
+"macchina per il caffè americano"
+"martin pescatore americano"
+"messico-americano"
+"nord americano"
+"piccolo roditore americano"
+"pro americano"
+"regolo americano"
+"salice americano"
+"tipicamente Americano"
+"tipicamente Americano (persona)"
+"tordo americano"
+#* ''la base 
+#* ''Un 
+*[[statunitense]]
+* [[America]], [[amerikaans]] 
+*italiano
+*spagnolo
+M>il continente a</E
+M>i popoli a</E
+M>indigeni</E
+M>lingue a</E
+M>gli A</E
+M>la flotta a</E
+M>le truppe a</E
+M>inglese a</E
+M>inglese d’America</E
+M>angloamericano</E
+M>sigarette a</E
+M>un pacchetto di americane</E
+M>fumo soltanto americane</E
+M>cucine a</E
+M>all’americana</E
+M>truffa all’a</E
+M>confronto all’a</E
+M>partenza all’a</E
+M>partenza su quattro</E
+M>salto all’a</E
+M>cocktail</E
+M>trottatore</E

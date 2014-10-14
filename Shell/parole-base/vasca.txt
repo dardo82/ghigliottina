@@ -1,0 +1,47 @@
+vasca.txt
+"fare una vasca"
+"farsi una vasca"
+"maniglia della doccia o della vasca da bagno"
+"tappo della vasca"
+"vasca"
+"vasca"
+"vasca"
+"vasca con idromassaggio"
+"vasca da bagno"
+"vasca dei pesci"
+"vasca di acqua"
+"vasca di evaporazione"
+"vasca di sedimentazione"
+"vasca idromassaggio"
+*(da bagno) [[tinozza]], [[lavatoio]]
+*[[piscina]]
+*(di fontana) [[tazza]], [[bacino]]
+M>vasc</E
+M>lum</E
+M>vas</E
+M>v. da bagno</E
+M>v. da bucato</E
+M>v. di depurazione</E
+M>di decantazione</E
+M>di alimentazione</E
+M>v. di calma</E
+M>di scarico</E
+M>di deposito</E
+M>vasca</E
+M>bacino</E
+M>v. di sedimentazione</E
+M>v. di digestione dei fanghi</E
+M>v. Imhoff</E
+M>v. di decadimento</E
+M>v. navale</E
+M>v. di Froude</E
+M>v. elettrolitica</E
+M>v. di oscillazione</E
+M>pozzo piezometrico</E
+M>v. olandese</E
+M>olandese</E
+M>tino mescolatore</E
+M>piscina</E
+M>fare una v.</E
+M>cinque v.</E
+M>dieci v.</E

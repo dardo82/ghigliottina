@@ -1,0 +1,23 @@
+inefficace.txt
+"essere inefficace"
+"inefficace"
+*[[inane]], [[vano]]
+*[[efficace]]
+*[[inefficacia]]
+*[[efficace#French|efficace]]
+M>ineff</E
+M>cax</E
+M>acis</E
+M>eff</E
+M>cax</E
+M>consigli</E
+M>preghiere</E
+M>argomenti i</E
+M>rimedio i</E
+M>aiuti</E
+M>soccorsi i</E
+M>il provvedimento è riuscito i</E
+M>stile i</E
+M>intervenire inefficacemente</E
+"name": "Preponderante ma del tutto inefficace"
+"name": "Preponderante ma del tutto inefficace"

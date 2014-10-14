@@ -1,0 +1,70 @@
+vocabolario.txt
+"prova di vocabolario"
+"vocabolario"
+#*''vocabolario giuridico'', il linguaggio dei giuristi
+*[[dizionario]], [[lessico]], [[calepino]] (spec. di latino), [[ glossario]], [[terminologia]], [[linguaggio]],[[gergo]] 
+*[[vocabolo]]
+* ''non fa parte del suo '''vocabolario'''''
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 2293
+m>vocabularius</e
+m>vocabularium</e
+m>vocab</e
+m>lum</e
+m>nessuna lingua viva ha</e
+m> né può avere un vocabolario che la contenga tutta</e
+m> massime quanto ai modi</e
+m> che son sempre</e
+m>finch&rsquo;ella vive</e
+m>all&rsquo;arbitrio dello scrittore</e
+m>v. monolingui</e
+m>v. della lingua italiana</e
+m>francese</e
+m>spagnola</e
+m>russa</e
+m>v. dei dialetti liguri</e
+m>v. milanese</e
+m>v. siciliano</e
+m>v. dell&rsquo;italiano del Duecento</e
+m>v. dei neologismi</e
+m>v. del linguaggio sportivo</e
+m>v. della</e
+m>Divina Commedia</e
+m>v. dantesco</e
+m>v. bilingui</e
+m>v. italiano-latino e latino-italiano</e
+m>v. inglese-russo e russo-inglese</e
+m>v. siciliano-italiano</e
+m>v. genovese-italiano</e
+m>vocabolario</e
+m>dizionario</e
+m>dizionario</e
+m>dizionario enciclopedico</e
+m>dizionario biografico</e
+m>la lingua italiana</e
+m>il napoletano</e
+m> ha un v. molto ricco</e
+m>di sì fatti caratteri</e
+m>si truova essere il vocabolario di tutte le prime nazioni gentili</e
+m>lessico</e
+m>vocabolario</e
+m>lessico</e
+m>arricchire il proprio v.</e
+m>il v. del Pascoli è pieno di dialettalismi</e
+m>scrittore che ha un ricco v.</e
+m>un v. prezioso</e
+m>aulico</e
+m>un v. molto scelto</e
+m>il v. dei poeti</e
+m>dei critici ermetici</e
+m> avere un v. povero</e
+m> limitato</e
+m> ha un v. troppo volgare</e
+m> per i miei gusti</e
+m>è una parola che non esiste nel mio v.</e
+m>l&rsquo;impossibile non esiste nel mio v.</e
+m>nel suo v.</e
+m> la parola</e
+m>lealtà</e
+m>non esiste</e
+m>comprare un vocabolarietto tascabile</e
+m>pubblicare una collana di vocabolarietti bilingui</e

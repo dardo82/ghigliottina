@@ -1,0 +1,12 @@
+selezionare.txt
+"scegliere qualcuno, selezionare"
+"selezionare"
+"stabilire, scegliere, selezionare"
+*[[scegliere]], [[preferire]], [[separare]], [[dividere]], [[distinguere]], [[isolare]], [[valutare]], [[vagliare]], [[discriminare]]
+*[[mescolare]], [[confondere]]
+*[[selezionamento]], [[selezionato]], [[selezionatore]], [[selezione]]
+M>io selezióno</E
+M>s. il personale</E
+M>i nuovi atleti</E
+M>s. i capi di bestiame destinati alla riproduzione</E
+M>s. le razze</E

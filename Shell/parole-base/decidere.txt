@@ -1,0 +1,55 @@
+decidere.txt
+"aiutare a decidere"
+"decidere"
+"decidere"
+"decidere"
+"decidere"
+"decidere, replace: decidersi"
+"decidere contro"
+"decidere di"
+"decidere di"
+"decidere di"
+"decidere prematuramente"
+"decidere su"
+"decidere tra"
+"optare, decidere"
+#* ''Dobbiamo 
+#* ''alla fine  si decise ad iscriversi alla facoltà di architettura''
+*[[condizionare]]
+*[[decidersi]]
+*[[esitare]]
+M>dec</E
+M>caed</E
+M>deci</E
+M>decidésti</E
+M>deci</E
+M>una lite</E
+M>una controversia</E
+M>una causa</E
+M>è una questione che dovete d</E
+M>tra voi</E
+M>non ho ancora deciso il colore della stoffa</E
+M>d. di partire</E
+M>abbiamo deciso di rinviare l’incontro ad altra data</E
+M>ho deciso che faremo così</E
+M>dobbiamo d. sul da farsi</E
+M>per l’ora dell’incontro</E
+M>lascio d</E
+M>a te</E
+M>che aspetti a d</E
+M>la partenza</E
+M>la data delle nozze non è stata ancora decisa</E
+M>avere</E
+M>è lui che decide della nostra sorte</E
+M>questo non decide di nulla</E
+M>un tentativo che può d</E
+M>del nostro avvenire</E
+M>da cui può dipendere</E
+M>qualcuno a parlare</E
+M>decidersi</E
+M>ci siamo decisi a vendere l’appartamento</E
+M>non riesco ancora a decidermi a cominciare il lavoro</E
+M>non sa mai decidersi</E
+M>indeciso</E
+M>la questione è ormai decisa</E
+M>finora non c’è nulla di deciso</E

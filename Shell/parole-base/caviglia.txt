@@ -1,0 +1,22 @@
+caviglia.txt
+"caviglia"
+"caviglia"
+"caviglia"
+"cinturino alla caviglia"
+"prendere una storta alla caviglia"
+#* ''
+#* ''[[slogarsi]] una 
+#* ''legare l' asino ad una 
+*[[cavicchio]], [[bischero]], [[cavigliatoio]]
+M>cavilla</E
+M>cavicchia</E
+M>legare l’asino a buona c</E
+M>cavigliere</E
+M>impiombature</E
+M>incavigliatrice</E
+M>cavicchio</E
+M>bischero</E
+M>affusolate</E
+M>sottili</E
+M>grosse</E
+M>gonna lunga fino alla caviglia</E

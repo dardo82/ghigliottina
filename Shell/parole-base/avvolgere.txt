@@ -1,0 +1,45 @@
+avvolgere.txt
+"avvolgere"
+"avvolgere"
+"avvolgere (su bobina, rocchetto, mulinello)"
+"avvolgere in spire"
+"avvolgere in un lenzuolo"
+"avvolgere nella nebbia"
+"avvolgere qualcosa con qualcosa"
+"incartare, avvolgere in carta da regalo"
+*''(un filo)'' [[arrotolare]], [[attorcigliare]], [[aggomitolare]] 
+*''(un pacco nella carta e sim.)'' [[involgere]], [[incartare]], [[imballare]], [[impacchettare]]
+*[[ricoprire]], [[circondare]], [[ammantare]] 
+*''(un filo)'' [[svolgere]], [[dipanare]]
+*''(un pacco nella carta e sim.)'' [[aprire]], [[scartare]], [[spacchettare]], [[scartocciare]]
+*[[avvolgibile]]
+M>advolv</E
+M>volgere</E
+M>volgere</E
+M>il filo sul rocchetto</E
+M>un nastro intorno al cappello</E
+M>si avvolse la sciarpa al collo</E
+M>Erano i capei d’oro a l’aura sparsi Che ’n mille dolci nodi gli avolgea</E
+M>avvolgersi il capo con un turbante</E
+M>una scatola in carta velina</E
+M>in una rete d’inganni</E
+M>uno</E
+M>tolse la stagnola che avvolgeva la cioccolata</E
+M>una benda gli avvolgeva il braccio ferito</E
+M>le tenebre ci avvolgevano da ogni parte</E
+M>si sentiva avvolto da una calda ondata di simpatia</E
+M>la fune s’avvolge alla campana dell’argano</E
+M>Come sul capo al naufrago L’onda s’avvolve e pesa</E
+M>s’avvolse in un ampio mantello</E
+M>Carlo Magno s’avvolgea tremando Nel lenzuol d’Aquisgrana</E
+M>Pel bosco Ferraù molto s’avvolse</E
+M>manovra avvolgente</E
+M>suono avvolgente</E
+M>essere</E
+M>presentarsi avvolto in un mantello</E
+M>in un lenzuolo</E
+M>casa avvolta nel silenzio</E
+M>faccenda avvolta nel mistero</E
+M>origini avvolte nella leggenda</E
+M> la brezza atlantica cessò</E
+M> dall’oceano arrivò una spessa cortina di nebbia e la città si trovò avvolta in un sudario di calura</E

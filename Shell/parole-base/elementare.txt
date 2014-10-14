@@ -1,0 +1,85 @@
+elementare.txt
+"algebra elementare"
+"carica elettrica elementare"
+"educazione elementare (scuola)"
+"elementare"
+"elementare"
+"elementare, replace: elementari"
+"elementare, fondamentale"
+"istruzione elementare"
+"licenza elementare"
+"matematica elementare"
+"particella elementare"
+"particella elementare"
+"quarta elementare"
+"scuola elementare"
+"scuola elementare"
+"scuola elementare"
+"scuola elementare (Amer.)"
+"scuola elementare (Amer.)"
+"scuola primaria\/elementare"
+*(di arte, scienza, ecc.) [[basilare]], [[essenziale]], [[fondamentale]]
+*[[primitivo]], [[sobrio]]
+* (di bisogno, regola, eccetera) [[primario]]
+*''(fisica, chimica)'' [[semplice]], [[minimo]], [[atomico]]
+*[[fondamentale]], [[primario]]
+*(di arte, scienza, eccetera) [[secondario]], [[accessorio]], [[superfluo]]
+*[[raffinato]]
+*[[elementarità]], [[elementarizzare]]
+*[[facile]], [[essenziale]],  [[elemento]]
+*''particella elementare''
+M>elementaris</E
+M>elementarius</E
+M>sostanze</E
+M>corpi e</E
+M>particelle e</E
+M>analisi e</E
+M>qualitativa</E
+M>quantitativa</E
+M>qualità e</E
+M>di una sostanza</E
+M>di un oggetto</E
+M>idee</E
+M>concetti</E
+M> giudizî e</E
+M>i principî e</E
+M>di una costruzione teorica</E
+M>nozioni e</E
+M>di musica</E
+M>di disegno</E
+M>di geografia</E
+M>d’informatica</E
+M>insegnare</E
+M>apprendere le regole e</E
+M>del gioco</E
+M>insegnamento e</E
+M>istruzione e</E
+M>scuola e</E
+M>primaria</E
+M>le elementari</E
+M>frequentare le e</E
+M>aver fatto le elementari</E
+M>maestro</E
+M>maestra e</E
+M>licenza e</E
+M>problemi</E
+M>esercizî e</E
+M>sono cognizioni molto e</E
+M>che chiunque può apprendere con grande facilità</E
+M>elementare!</E
+M>non ha le più e</E
+M>nozioni di grammatica</E
+M>ignora le più e</E
+M>regole della buona educazione</E
+M>secondo le più e</E
+M>norme della prudenza</E
+M>secondo le norme della più e</E
+M>prudenza</E
+M>forze e</E
+M>sentimenti</E
+M>impulsi</E
+M>passioni e</E
+M>dare sfogo ai più e</E
+M>istinti</E
+M>spiegare</E
+M>illustrare elementarmente i fondamenti dell’algebra</E

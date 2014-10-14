@@ -1,0 +1,23 @@
+abituare.txt
+"abituare"
+"abituare"
+"abituare bene qualcuno"
+"abituare qualcuno a qualcosa"
+*italiano
+M>habituare</E
+M>hab</E
+M>tus</E
+M>io abìtuo</E
+M> i figli allo</E
+M>studio</E
+M> al dialogo</E
+M> al lavoro</E
+M>a sopportare il dolore</E
+M>abituarsi a mangiare ogni cosa</E
+M>abituarsi a un genere di vita</E
+M>non riesco ad abituarmi all’idea di dover restare solo</E
+M>essere abituato a un regime di vitto</E
+M>a dormire con le finestre aperte</E
+M>a sopportare i rimproveri</E
+M>un ragazzo male abituato</E
+M>questi sette col primaio stuolo Erano abituati</E

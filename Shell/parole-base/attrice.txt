@@ -1,0 +1,15 @@
+attrice.txt
+"attrice"
+"prima attrice"
+*italiano
+M>actrix</E
+M>icis</E
+M>un’a</E
+M>del teatro</E
+M>della televisione</E
+M>le a</E
+M>del cinema muto</E
+M>le a</E
+M>del varietà</E
+M>attore</E
+M>attrice</E

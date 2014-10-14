@@ -1,0 +1,126 @@
+organo.txt
+"cactus a canne d'organo"
+"canna d'organo"
+"canne d'organo"
+"cellula ciliata dell'organo di Corti"
+"cellula simile ad organo"
+"grand'organo"
+"organo"
+"organo"
+"organo"
+"organo amministrativo"
+"organo avente giurisdizione sulla convalida di un testamento e il conferimento del diritto all'ammin"
+"organo consultivo"
+"organo contrattile"
+"organo della chiesa"
+"organo di Corti"
+"organo di informazione"
+"organo elettrico"
+"organo elettronico"
+"organo maschile"
+"organo periferico"
+"organo sessuale"
+"piano organo"
+"trapianto d'organo"
+"trapianto d'organo"
+"trascinare (in tribunale; di fronte organo costituzionale)"
+*parte del corpo
+*[[ente]], [[corpo]]; [[portavoce]], [[rappresentante]]
+*[[pubblicazione]], [[quotidiano]], [[periodico]]
+*[[armonium]]
+*[[organare]], [[organo-]], [[organico]], [[organigramma]], [[organismo]], , [[organistico]], [[organizzare]], [[organizzazione]],  [[organogenesi]],  [[organogeno]],  [[organografia]],  [[organolettico]],  [[organologia]],  [[organometallo]],  [[organopatia]],  [[organoscopia]],  [[organoterapia]],  [[organulo]]
+*''(musica)''  [[organista]]
+*''organo di stampa''
+M>num</E
+M>organi di senso</E
+M>l’o</E
+M>della vista</E
+M>dell’udito</E
+M>dell’olfatto</E
+M>l’o</E
+M>della fonazione</E
+M>gli o</E
+M>della respirazione</E
+M>della digestione</E
+M>della riproduzione</E
+M>della locomozione</E
+M>gli o</E
+M>genitali maschili</E
+M>femminili</E
+M>l’organo</E
+M>gli o</E
+M>della traspirazione</E
+M> di secrezione</E
+M>di moltiplicazione</E
+M>riproduttori</E
+M>della cellula</E
+M>rudimentali</E
+M>parietale</E
+M>pineale</E
+M>occhio parietale</E
+M>occhio pineale</E
+M>elettrici</E
+M>liriforme</E
+M>organo di Corti</E
+M>del Corti</E
+M>cellule acustiche</E
+M>la funzione crea</E
+M>sviluppa</E
+M>l’organo</E
+M>o. artificiali</E
+M>gli o</E
+M>di un motore</E
+M>di una locomotiva</E
+M>di comando</E
+M>mobili</E
+M>di presa</E
+M>O. elastico</E
+M>logico elementare</E
+M>suonare l’o</E
+M>musica per o</E
+M>canto con accompagnamento d’o</E
+M>elettrico</E
+M>elettronico</E
+M>idraulico</E
+M>Mostra d’organo</E
+M>ribadocchini</E
+M>maneschi</E
+M>a zampa d’oca</E
+M>Organo di Stalin</E
+M>Questi o</E
+M>del mondo così vanno</E
+M>Come tu vedi omai</E
+M>di grado in grado</E
+M>gli o</E
+M>del potere</E
+M>della legge</E
+M>della giustizia</E
+M>gli o</E
+M>di un partito politico</E
+M>deliberativi</E
+M>consultivi</E
+M>organi di vigilanza</E
+M>di controllo</E
+M>costituzionali</E
+M>ordinarî</E
+M>legislativi</E
+M>esecutivi</E
+M>giudiziarî</E
+M>individuali</E
+M>collegiali</E
+M>collegiali</E
+M>l’o</E
+M>del partito al governo</E
+M>l’o</E
+M>dell’Azione cattolica</E
+M>Organo</E
+M>Categorie</E
+M>Interpretazione</E
+M>Analitici primi</E
+M>Analitici posteriori</E
+M>Topici</E
+M>Elenchi sofistici</E
+M>organo</E
+M>Novum organum</E
+M>Organum vetus et novum</E
+M>Neues Organum</E

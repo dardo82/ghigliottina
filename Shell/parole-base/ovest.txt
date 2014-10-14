@@ -1,0 +1,47 @@
+ovest.txt
+"a nord ovest"
+"a nord ovest"
+"a ovest"
+"a ovest"
+"a ovest"
+"che si affaccia ad Ovest"
+"di nord ovest"
+"di nord ovest"
+"di nord ovest"
+"diretto a nord ovest"
+"in o verso ovest"
+"nel lontano ovest"
+"nord ovest"
+"Nord Ovest"
+"nord ovest"
+"nord-nord ovest"
+"nord-nord ovest"
+"Nord-Ovest"
+"ovest"
+"Ovest-Nord-Ovest"
+"Ovest-Nordovest"
+"Ovest-Sud-Ovest"
+"Ovest-Sudovest"
+"stato (USA) del nord ovest"
+"sud ovest"
+"sud ovest"
+"vento da ovest"
+"vento occidentale, vento da Ovest"
+"verso nord ovest"
+"verso ovest"
+"verso ovest"
+"verso ovest"
+"volgersi ad ovest"
+*[[occidente]], [[ponente]] 
+*italiano
+M>ouest</E
+M>west</E
+M>ponente</E
+M>occidente</E
+M>l’o</E
+M>d’Europa</E
+M>europeo</E
+M>l’o</E
+M>della Francia</E
+M>della penisola iberica</E
+M>West</E

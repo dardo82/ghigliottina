@@ -1,0 +1,9 @@
+cacciavite.txt
+"cacciavite"
+*[[giravite]]
+M>cacciare</E
+M>vite</E
+M>cacciaviti</E
+M>giravite</E
+M>a lama</E
+M>a stella</E

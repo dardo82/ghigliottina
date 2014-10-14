@@ -1,0 +1,187 @@
+sentimento.txt
+"con sentimento"
+"sentimento"
+"sentimento"
+"sentimento"
+"sentimento"
+* sfera affettiva, [[cuore]], [[animo]], [[impulso]], [[emozione]]
+*[[affetto]], [[passione]], [[amore]], [[ardore]], [[attrazione]]
+*[[senso]], [[sensazione]], [[consapevolezza]], [[percezione]]
+*(di pietà, d'amore ecc.)  [[stato]] d'[[animo]], [[moto]],  
+*(del dovere e simili) [[coscienza]], [[consapevolezza]] 
+*[[razionalità]], [[ragione]], [[ragionamento]]
+*[[freddezza]], [[distacco]], [[indifferenza]], [[disinteresse]]
+*[[inconsapevolezza]], [[torpore]]
+* [[sentimentale]], [[sentimentalismo]], [[risentimento]]
+*[[emozione]], [[sentire]] 
+M>senso</E
+M>senso</E
+M>i cinque sentimenti</E
+M>non è più in sentimento</E
+M>perdere i s.</E
+M>tornare in sentimenti</E
+M>vento</E
+M> Che balenò una luce vermiglia La qual mi vinse ciascun sentimento</E
+M>E caddi come l’uom cui sonno piglia</E
+M>la fante</E
+M>senza sentimento vedendolo</E
+M>quel disse che la donna dicea</E
+M>cioè veramente lui esser morto</E
+M>uscire di sentimento</E
+M>di sentimenti</E
+M>esser fuori del s.</E
+M>dei s.</E
+M>Fu allora per uscir del sentimento</E
+M>Sì tutto in preda del dolor si lassa</E
+M>trarre</E
+M>levare di sentimento</E
+M>il grande dolore l’aveva levato di sentimento</E
+M>mi levate di s. con le vostre grida</E
+M>con pienezza di sentimenti</E
+M>con tutti i s.</E
+M>il testamento fu steso dal malato con pienezza di sentimenti</E
+M>cosa fatta con tutti i s.</E
+M>avere sentimento di sé</E
+M>perdere</E
+M>riacquistare il s. di sé</E
+M>la pura vita</E
+M> cioè a dire il semplice s. dell’esser proprio</E
+M>avere il s. della propria forza</E
+M>della propria debolezza</E
+M>la qual cosa importa maggior sentimento dell’infelicità propria</E
+M>ai mali s’aggiunge il s. de’ mali</E
+M>il s. di Dio è presente in tutti gli uomini</E
+M>il s. della patria.</E
+M>il s. della fede</E
+M>della vita sociale</E
+M>avere sentimento di qualche cosa</E
+M>avere il s. della dignità umana</E
+M>avere un alto s. del dovere</E
+M>agire per il s. dell’onore</E
+M>devo farlo per un s. di giustizia</E
+M>smarrire</E
+M>perdere il s. del pudore</E
+M>il s. del bene e del male</E
+M>avere</E
+M>non avere</E
+M>esser privo di s. morale</E
+M>il s. del bello</E
+M>avere un s. estetico molto sviluppato</E
+M>senso</E
+M>avere un alto</E
+M>avere un grande s. di sé</E
+M>per un giusto s. di noi medesimi</E
+M> dobbiamo supporre che quest’opera non possa esser letta se non da ignoranti</E
+M>s. fondamentale</E
+M>si sentì invaso da un s. di gioia ineffabile</E
+M>un s. nuovo si faceva strada nell’animo suo</E
+M>s. paterno</E
+M>materno</E
+M>di padre</E
+M>di madre</E
+M>volle ferirlo nel suo s. patriottico</E
+M>di patriota</E
+M>s. religioso</E
+M>s. d’orgoglio</E
+M>di superbia</E
+M>d’umiltà</E
+M>di avvilimento</E
+M>erano legati da un s.</E
+M>da sentimenti</E
+M>di vera e profonda amicizia</E
+M>s. d’amore</E
+M>di simpatia</E
+M>di gratitudine</E
+M>s. d’odio</E
+M>d’invidia</E
+M>d’antipatia</E
+M>d’avversione</E
+M>alimentare sentimenti di vendetta</E
+M>vivere</E
+M>provare</E
+M>nutrire un s. di</E
+M>ispirare un s. di</E
+M>devi credere alla sincerità dei miei s.</E
+M>verso di te</E
+M>i suoi s. verso di me non sono i più favorevoli</E
+M>provare un s. di schifo</E
+M>di ribrezzo</E
+M>di nausea</E
+M>di disgusto</E
+M>senso</E
+M>s. naturali</E
+M>s. innati</E
+M>inveterati nell’uomo</E
+M>un bruto incapace di s. umani</E
+M>farsi interprete dei s. del popolo</E
+M>del s. di tutti</E
+M>nascondere</E
+M>esprimere</E
+M>manifestare</E
+M>esagerare i proprî s.</E
+M>lotta</E
+M>tumulto di s. opposti</E
+M>agire</E
+M>far leva sui s. di qualcuno</E
+M>offendere nei s. intimi</E
+M>nei s. più delicati</E
+M>il cuore è comunemente inteso come la sede dei sentimenti</E
+M>un giovane di s. retti</E
+M>sani</E
+M>di buoni</E
+M>ottimi</E
+M>onesti s.</E
+M>una signora di s. squisiti</E
+M>una persona di s. generosi</E
+M>dare prova di s. nobili</E
+M>gente di s. cattivi</E
+M>volgari</E
+M>ignobili</E
+M>vili</E
+M>indole</E
+M>natura</E
+M>alcuni erano di più crudel sentimento</E
+M>ho piacere che ognuno dica il suo s.</E
+M>sono anch’io di questo s.</E
+M>del tuo s.</E
+M>dei tuoi stessi s.</E
+M>io resto sempre del medesimo s.</E
+M>seguire</E
+M>andare contro il s. pubblico</E
+M>avere</E
+M>non avere sentimento</E
+M>il s. e la fantasia</E
+M>spesso bisogna dare ascolto alla ragione piuttosto che al sentimento</E
+M>farsi guidare dal s. più che dall’interesse</E
+M>negli affari il s. non deve esistere</E
+M>parlare</E
+M>rivolgersi al s. di qualcuno</E
+M>toccare la corda del s.</E
+M>l’educazione del s.</E
+M>un ragazzo ricco di sentimento</E
+M>novella</E
+M>poesia</E
+M>composizione musicale</E
+M>lettera piena di sentimento</E
+M>leggere</E
+M>scrivere</E
+M>comporre</E
+M>cantare</E
+M>suonare con sentimento</E
+M>recita senza sentimento e senz’anima</E
+M>versi difettosi nella forma ma ricchi di sentimento</E
+M>ha abbastanza sentimento per la sua età</E
+M>una ragazza</E
+M>con poco s.</E
+M>senza sentimento</E
+M>uscire</E
+M>essere fuori di s.</E
+M>fare qualcosa con tutti i s.</E
+M>fu di tanto s. nelle leggi</E
+M>che da molti valenti uomini uno armario di ragione civile</E
+M>fu reputato</E
+M>il s. della legge</E
+M>spirito</E
+M>lettera</E
+M>ha una condizione la Scrittura</E
+M> che ella ha di molti s.</E

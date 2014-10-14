@@ -1,0 +1,120 @@
+direzione.txt
+"assistente di direzione"
+"cambiare direzione"
+"che trova la direzione"
+"comitato di direzione"
+"dare una svolta, cambiare direzione"
+"direzione"
+"direzione"
+"direzione"
+"direzione"
+"direzione"
+"direzione artistica"
+"direzione artistica"
+"direzione artistica"
+"direzione commerciale"
+"direzione comune, gestione congiunta"
+"direzione contraria"
+"direzione d'azienda"
+"direzione del vento"
+"direzione di marcia"
+"direzione didattica"
+"direzione generale"
+"direzione opposta"
+"direzione opposta"
+"direzione sbagliata"
+"direzione tecnica"
+"girare il timone il più possibile verso una direzione"
+"in direzione di"
+"in ogni direzione"
+"in ogni direzione"
+"in qualsiasi direzione"
+"in questa direzione"
+"in una diversa direzione"
+"indicare la direzione"
+"indicatore di direzione"
+"la direzione si riserva il diritto di"
+"nella direzione desiderata"
+"nella stessa direzione"
+"rivolgere nella direzione opposta"
+"rivolgersi nella direzione opposta"
+"rivolto nella direzione opposta"
+"solo una direzione"
+"verso est, in direzione est"
+"verso est, in direzione est"
+"verso est, in direzione est"
+#*''cambiare '''direzione'''''
+#*''la direzione del partito ha scelto la linea politica''
+* [[senso]], [[verso]], [[lato]], [[parte]], [[rotta]], [[via]]
+*(di progetti, lavori, eccetera) [[gestione]], [[guida]], [[comando]]
+*(di organizzazione, comitato, eccetera) [[dirigenza]], gruppo direttivo, [[dirigenti]], organo direttivo, [[capi]], [[direttivo]], [[governo]], [[vertice]]
+*(del direttore) [[sede]], [[ufficio]]
+* (punto verso cui...) [[senso]], [[verso]]
+* (supervisione) [[amministrazione]], [[controllo]], [[sovrintendenza]], [[supervisione]]
+* (supervisione) [[direzionale]]
+* (punto verso cui...) [[punti cardinali]], [[rosa dei venti]]
+* (supervisione) [[direttore]], [[dirigente]], [[dirigere]]
+* (punto verso cui...) [[alto]], [[basso]], [[destra]], [[sinistra]], [[davanti]], [[dietro]], [[sopra]], [[sotto]]
+M>directio</E
+M>onis</E
+M>dirig</E
+M>directus</E
+M>assumere la d</E
+M>politica dello stato</E
+M>di un partito</E
+M>avere la</E
+M>essere alla</E
+M>di un’azienda</E
+M>affidare la d</E
+M>di un istituto</E
+M>amministrativa</E
+M>scientifica</E
+M>incaricare della d</E
+M>di una collana editoriale</E
+M>di un’enciclopedia</E
+M>i lavori sono stati fatti sotto la d</E
+M>dell’ingegnere</E
+M>lavorano male</E
+M>perché non hanno una buona direzione</E
+M>spirituale</E
+M>delle Poste</E
+M>delle Ferrovie</E
+M>generale</E
+M>generale degli ospedali</E
+M>del servizio farmaceutico</E
+M>dei servizî veterinarî</E
+M>marittima</E
+M>zona marittima</E
+M>d’artiglieria</E
+M>di macchina</E
+M>del tiro</E
+M>convocare gli scolari in d</E
+M>recarsi alla d</E
+M>generale</E
+M>senso</E
+M>verso</E
+M>andare</E
+M>muoversi in una d</E
+M>mantenere sempre la stessa d</E
+M>cambiare direzione</E
+M>prendere la d</E
+M>giusta</E
+M>una d</E
+M>sbagliata</E
+M>indicatori di d</E
+M>frecce di d</E
+M>frecce</E
+M>vietata</E
+M>senso vietato</E
+M>la d</E
+M>del vento</E
+M>della corrente</E
+M>volgere la prua in d</E
+M>del porto</E
+M>puntare il binocolo in d</E
+M>del campanile</E
+M>di una retta</E
+M>di uno strato</E
+M>di un filone</E
+M>angolo di d</E
+M>significatore</E

@@ -1,0 +1,81 @@
+richiesta.txt
+"a grande richiesta"
+"accogliere la richiesta"
+"fare richiesta di"
+"fare una richiesta"
+"fare una richiesta"
+"fare una richiesta"
+"fare una richiesta"
+"fare una richiesta"
+"inviare richiesta"
+"lettera di richiesta"
+"previa richiesta"
+"produzione non richiesta"
+"richiesta"
+"richiesta"
+"richiesta di"
+"richiesta di connessione"
+"richiesta di pagamento"
+"richiesta insistente di pagamento di un debito"
+"richiesta scritta"
+"richiesta ufficiale"
+"segnale di richiesta di aiuto"
+"segnale di richiesta di aiuto"
+"stazione con fermata a richiesta"
+"su richiesta"
+"su richiesta"
+"su richiesta"
+"su richiesta"
+"su richiesta di"
+*[[appello]], [[pretesa]]
+*''(di matrimonio)'' [[proposta]], [[appello]],  [[petizione]]
+*''(burocrazia)'' [[instanza]] .
+*[[richiesta d'informazioni]], [[richiedere]]
+*italiano
+M>richiesto</E
+M>richiedere</E
+M>fare</E
+M>accettare</E
+M>accogliere</E
+M>soddisfare</E
+M>rifiutare</E
+M>eludere una r</E
+M>la sua r</E
+M>mi ha colto di sorpresa</E
+M>è seccato da continue r</E
+M>di mano d&#8217;opera</E
+M>di denaro</E
+M>la r</E
+M>mi pare eccessiva</E
+M>sproporzionata</E
+M>onesta</E
+M>mite</E
+M>giusta</E
+M>moderata</E
+M>di matrimonio</E
+M>ragazza che ha avuto molte r</E
+M>in questi giorni di gelo c&#8217;è gran r</E
+M>di combustibile</E
+M>il governo ha risposto negativamente alle r</E
+M>d&#8217;aumento degli impiegati statali</E
+M>di mercato</E
+M>aumento della r</E
+M>domanda</E
+M>a richiesta</E
+M>dietro r</E
+M>fu trasferito a sua r</E
+M>si rilascia la presente dichiarazione a r</E
+M>dell&#8217;interessato</E
+M>fermata a r</E
+M>le tessere d&#8217;abbonamento devono essere esibite a r</E
+M>del personale</E
+M>la commedia si replica a r</E
+M>del pubblico</E
+M>a r</E
+M>generale</E
+M>di procedimento</E
+M>stendere</E
+M>scrivere una r</E
+M>in carta bollata</E
+M>presentare la r</E
+M>per il biglietto di viaggio a prezzo ridotto</E

@@ -1,0 +1,6 @@
+camice.txt
+"camice"
+"camice"
+"camice bianco"
+M>camicia</E
+M>c. bianchi</E

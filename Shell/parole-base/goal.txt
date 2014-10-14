@@ -1,0 +1,26 @@
+goal.txt
+"goal"
+"goal"
+"goal"
+"goal"
+"goal!"
+"goal della bandiera"
+"consolation goal"
+"goal effettuato durante il gioco"
+"field goal"
+"goal fantasma"
+"ghost goal, phantom goal"
+"goal incassato"
+"lost goal"
+"goal su rigore"
+"penalty goal"
+"mangiarsi un goal"
+*[[rete]]
+*[[gol]]
+*italiano
+M>goal</E
+M>óul</E
+M>goals</E
+M>óul</E
+M>gòl</E
+M>rete</E

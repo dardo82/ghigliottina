@@ -1,0 +1,10 @@
+pallacanestro.txt
+"campionato di pallacanestro"
+"campo da pallacanestro"
+"giocare a pallacanestro"
+"pallacanestro"
+M>palla</E
+M>canestro</E
+M>basket</E
+M>ball</E
+M>basket</E

@@ -1,0 +1,21 @@
+dieta.txt
+"cominciare una dieta"
+"della dieta"
+"dietary"
+"dieta"
+"dieta"
+"dieta ad alto contenuto proteico"
+"dieta bilanciata"
+"dieta ipocalorica"
+"dieta leggera"
+"dieta macrobiotica"
+"dieta per diabetici"
+"dieta povera di carboidrati"
+"dieta povera di sale"
+"dieta povera di sodio"
+#*''stare a dieta significa ridurre le calorie di ingresso e aumentarne il consumo con il movimento''
+*(''medicina'') dal [[latino]] ''[[diaeta]]'', che deriva dal [[greco]] ''[[δίαιτα]]'', ovvero "[[modo]] di [[vivere]]", "[[abitudine]]"
+* (''storia e diritto'') dal [[latino]]  medievale 
+*[[alimentazione]], [[nutrizione]], cura dimagrante
+*(''nel medioevo'') [[assemblea]], [[adunanza]], [[consulta]]
+*Enciclopedia [http

@@ -1,0 +1,79 @@
+precedente.txt
+"anno precedente"
+"conoscenza precedente"
+"consultazione precedente, anteriore, prioritaria"
+"creare un precedente"
+"decisione precedente"
+"domanda precedente"
+"esperienza precedente"
+"essere precedente"
+"idea precedente"
+"il giorno precedente"
+"la presente annulla e sostituisce la precedente"
+"la volta precedente"
+"obbligo precedente"
+"pagina precedente"
+"precedente"
+"precedente"
+"precedente"
+"precedente a"
+"precedente la causa"
+"precedente le nozze"
+"precedente legale"
+"riportare allo stato precedente"
+"storia precedente"
+"tornare (ad uno stadio precedente)"
+*[[antecedente]], [[anteriore]]
+*[[seguente]], [[successivo]]
+*[[precedentemente]], [[precedenza]], [[precedere]]
+:* [[precedent]], [[preceding]], [[previous]], [[foregoing]] [[former]]
+M>precedere</E
+M>precedent</E
+M>précédent</E
+M>il giorno</E
+M>il mese</E
+M>l&#8217;anno p</E
+M>la mattina</E
+M>la sera</E
+M>la notte p</E
+M>la settimana p</E
+M>alla partenza</E
+M>la partenza</E
+M>l&#8217;anno scorso abbiamo avuto un inverno molto mite</E
+M>mentre l&#8217;inverno p</E
+M>era stato freddissimo</E
+M>le sue p</E
+M>dichiarazioni erano di tono molto diverso</E
+M>sono d&#8217;accordo con quanto ha sostenuto il p</E
+M>oratore</E
+M>l&#8217;ufficio che lei cerca è nel palazzo p</E
+M>doveva scendere alla stazione p</E
+M>l&#8217;illustrazione è nella pagina p</E
+M>una frase collegata alla p</E
+M>per mezzo di un pronome relativo</E
+M>nella definizione c&#8217;è un rinvio alla voce precedente</E
+M>ci sono stati dei p</E
+M>un p</E
+M>che desta qualche sospetto</E
+M>creare</E
+M>stabilire un p</E
+M>la domanda è stata respinta</E
+M>per non creare un p</E
+M>un episodio che non ha precedenti</E
+M>senza precedenti</E
+M>un fatto</E
+M>un successo</E
+M>una catastrofe senza precedenti</E
+M>di giurisprudenza</E
+M>giurisprudenziale</E
+M>penali</E
+M>giudiziarî</E
+M>avere buoni</E
+M>cattivi p</E
+M>dati i suoi p</E
+M>sarà difficile che riesca a trovare un lavoro</E
+M>cercare i p</E
+M>di una pratica</E
+M>di un ricorso</E
+M>la cerimonia si svolse come era stato precedentemente stabilito</E
+M>devi essere coerente con quello che hai affermato precedentemente</E

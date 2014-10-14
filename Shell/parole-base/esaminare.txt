@@ -1,0 +1,44 @@
+esaminare.txt
+"dare una seconda occhiata, esaminare di nuovo"
+"dare una seconda occhiata, esaminare di nuovo"
+"esaminare"
+"esaminare"
+"esaminare a fondo; seguire accuratamente"
+"esaminare attentamente"
+"esaminare attentamente"
+"esaminare attentamente"
+"esaminare con raggi x"
+"esaminare rapidamente"
+"esaminare, valutare"
+"esaminare; sopportare"
+"guardare con occhio critico, esaminare attentamente"
+"l'esaminare; il sopportare"
+"rileggere attentamente un contratto, esaminare un contratto"
+*[[analizzare]],[[controllare]], [[disaminare]], [[scrutare]],[[spulciare]], [[sviscerare]], [[verificare]] 
+*[[disaminare]], [[esaminabile]], [[esaminando]], [[esaminatore]], [[riesaminare]] 
+*[[esame]], [[riesame]]
+M>examinare</E
+M>examen</E
+M>io e</E
+M>àmino</E
+M>una questione</E
+M>uno scritto</E
+M>un documento</E
+M>una stoffa</E
+M>l’incartamento di un processo</E
+M>i testimoni</E
+M>le qualità di un oggetto</E
+M>un libro</E
+M>un’opera</E
+M>un autore</E
+M>gli alunni</E
+M>i candidati</E
+M>in matematica</E
+M>in storia</E
+M>in scienze</E
+M>sé stesso</E
+M>i proprî pensieri e sentimenti</E
+M>la propria coscienza</E
+M>i professori esaminanti</E
+M>il giudice esaminante</E
+M>gli esaminanti sono più degli esaminandi</E

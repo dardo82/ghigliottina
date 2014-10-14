@@ -1,0 +1,7 @@
+probabilità.txt
+*[[possibilità]], [[verosimiglianza]], [[verisimiglianza]], [[attendibilità]], [[eventualità]]
+*[[improbabilità]], [[impossibilità]], [[inverosimiglianza]]
+*[[probabile]], [[probabilismo]], [[probabilista]], [[probabilistico]], [[probabilmente]], [[equiprobabilità]], [[possibilità]]
+*''vocabolario della lingua latina Castiglioni Mariotti'', Loescher
+*''Probabilità e statistica per ingegneria e scienze'', Richard A. Johnson, Pearson Prentice Hall
+*''Incertezza e probabilità'', Romano Scozzafava, Zanichelli

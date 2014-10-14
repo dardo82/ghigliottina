@@ -1,0 +1,74 @@
+signora.txt
+"cortese signora"
+"da signora"
+"fermaglio; molletta per fermare il cappello di una signora"
+"gentile signora"
+"gran signora"
+"grazie signora"
+"la Signora del Lago"
+"no signora"
+"Nostra Signora"
+"si, signora"
+"signora"
+"signora"
+"signora"
+"signora"
+"signora"
+"signora della notte"
+"signora macchina"
+"una signora casa"
+M>signore</E
+M>le presento la s. Marchi</E
+M>ha telefonato la s. Rossi</E
+M>vorrei parlare con la s. Clara</E
+M>come sta</E
+M> s. Claudia?</E
+M>sig.ra</E
+M>Alla sig.ra Luisa Rossi</E
+M>buon giorno</E
+M> signora</E
+M>la s. desidera?</E
+M>mi dispiace averla fatta attendere</E
+M> signora</E
+M>sì s.</E
+M>no s.</E
+M>sissignora</E
+M>nossignora</E
+M>Gentile signora</E
+M> rispondo alla Sua ...</E
+M>Cara signora</E
+M>Signore e signori</E
+M>Gentili signore</E
+M>il prof. Aldo Rossi e signora</E
+M>mi scusi</E
+M> s. maestra</E
+M>la s. direttrice la riceverà subito</E
+M>ho conosciuto la sua s. zia</E
+M>la s. sua zia</E
+M>che</E
+M> in tutte le cose di casa</E
+M> la s. moglie fosse la padrona</E
+M> alla buon&#8217;ora; ma lui servo</E
+M> no</E
+M>come sta la s.?</E
+M>tanti saluti alla sua s.</E
+M>le presento la mia signora</E
+M>la s. è uscita</E
+M>ho fatto come ha detto la signora</E
+M>Venezia è stata per molti secoli la signora dell&#8217;Adriatico</E
+M>la s. della canzone</E
+M>la s. del palcoscenico</E
+M>Nostra S.</E
+M>Nuestra Señora</E
+M>uomo</E
+M>signore</E
+M>toilette per signore</E
+M>una sala piena di s. eleganti</E
+M>le s. non pagano l&#8217;ingresso</E
+M>un circolo in cui non sono ammesse le signore</E
+M>è una s.</E
+M>una vera s.</E
+M>una s. non si comporterebbe così</E
+M>non aveva un soldo e ora è diventata una s.</E
+M>ha fatto un buon matrimonio e ora vive da signora</E
+M>piacerebbe anche a me fare la signora</E

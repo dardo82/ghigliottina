@@ -1,0 +1,39 @@
+libreria.txt
+"libreria"
+"libreria"
+"libreria"
+"libreria ad angolo"
+"libreria di immagini"
+*''(raccolta, deposito di libri)'' 
+*[[libraria]]
+M>di San Marco</E
+M>biblioteca</E
+M>una l</E
+M>di legno</E
+M>di metallo</E
+M>una l</E
+M>antica</E
+M>moderna</E
+M>a muro</E
+M>aprire una l</E
+M>il romanzo non è ancora apparso nelle l</E
+M>giuridica</E
+M>medica</E
+M>religiosa</E
+M>teatrale</E
+M>scolastica</E
+M>antiquaria</E
+M>d’occasione</E
+M>della Fenice</E
+M>editrice fiorentina</E
+M>dello Stato</E
+M>medica</E
+M>legale</E
+M>biblioteca medica</E
+M>legale</E
+M>library</E
+M>di programmi</E
+M>di sottoprogrammi</E
+M>programmi di libreria</E
+M>routine di libreria</E
+M>biblioteca</E

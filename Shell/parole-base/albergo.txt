@@ -1,0 +1,64 @@
+albergo.txt
+"albergo"
+"albergo a ore"
+"albergo d'autostrada"
+"albergo d'autostrada"
+"albergo diffuso"
+"albergo privato"
+"camera d'albergo, stanza d'albergo"
+"cameriera d'albergo"
+"fattorino d'albergo"
+"fattorino d'albergo"
+"fissare un albergo"
+"pensione; albergo"
+"proprietario di albergo"
+"questa casa non è un albergo"
+"registro clienti albergo"
+*''(edificio dove si trova alloggio)'' [[hotel]], [[pensione]], [[motel]], [[ostello]], [[locanda]]
+*[[pensione]], [[pernottamento]]
+*italiano
+M>*haribergo</E
+M>haribergum</E
+M>harbergum</E
+M>albergum</E
+M>ghi</E
+M>ci fermammo a pernottare al primo a</E
+M>un a. di lusso</E
+M>scegliere un a. a cinque stelle</E
+M>dormire all’a</E
+M>della luna</E
+M>delle stelle</E
+M>ostello</E
+M>per la gioventù</E
+M>diurno</E
+M>casa albergo</E
+M>lo invitò la sera</E
+M>a cena e albergo</E
+M>Fior</E
+M>di s</E
+M>Franc</E
+M>chiedere</E
+M>prendere</E
+M>dare a.</E
+M>da sì lieta vita Son fatto a</E
+M>d’infinita doglia</E
+M>dare a</E
+M>dare a</E
+M>a dolorosi pensieri</E
+M>e guarda quelli A</E
+M>solitari de’ pastori</E
+M>allor che l’ampie Scale salì del maritale a</E
+M>dalle finestre Di questo a</E
+M>ove abitai fanciullo</E
+M>Dove altro a</E
+M>era di questo meno Conveniente a i sacri studi</E
+M>a noi Morte apparecchi riposato a</E
+M>D’un popol di formiche i dolci a</E
+M>Cavati in molle gleba Con gran lavoro</E
+M>a l’a</E
+M>amico</E
+M>La rondinella torna ed a l’amore</E
+M>caccia all’a</E
+M>andare all’a</E
+M>diritto d’a</E
+M>A. dei nobili</E

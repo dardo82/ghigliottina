@@ -1,0 +1,24 @@
+schierare.txt
+"schierare"
+"schierare"
+"schierare, replace: schierarsi"
+M>io schièro</E
+M>s. l&#8217;esercito</E
+M>s. le fanterie</E
+M>le artiglierie pesanti</E
+M>la flotta</E
+M>s. in campo la squadra</E
+M>la formazione dei giocatori</E
+M>s. i libri sui ripiani</E
+M>s. i dischi nello scaffale</E
+M>s. le bottiglie di vino dividendole per annata</E
+M>schierarsi in campo</E
+M>le navi di scorta si sono schierate davanti alle grandi unità</E
+M>le squadre si sono già schierate nello stadio.</E
+M>schierarsi dalla parte delle minoranze</E
+M>la giuria si è schierata dalla sua parte</E
+M>a suo favore</E
+M>nonostante l&#8217;amicizia che ci lega</E
+M> dovrò schierarmi contro di lui.</E
+M>passare in rassegna le compagnie schierate</E
+M>la flotta era schierata al largo del porto.</E

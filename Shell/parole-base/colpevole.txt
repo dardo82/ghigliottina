@@ -1,0 +1,48 @@
+colpevole.txt
+"colpevole"
+"colpevole"
+"colpevole di un reato"
+"colpevole di un reato"
+"colpevole di un'offesa"
+"dichiarare non colpevole"
+"dichiararsi colpevole, innocente"
+"dichiarato non colpevole"
+"essere colpevole"
+"essere dichiarato colpevole"
+"far sentire qualcuno colpevole"
+"giudicare colpevole"
+"non colpevole"
+"trovare colpevole"
+*[[criminale]], [[responsabile]], [[reo]]
+*[[illegale]], [[illecito]]
+*[[peccatore]]
+*[[innocente]]
+*[[legale]], [[lecito]], [[incolpevole]] 
+*[[colpevolmente]], [[colpevolista]]
+M>essere c</E
+M>di furto</E
+M>di tradimento</E
+M>è c</E
+M>della rovina della sua famiglia</E
+M>dichiarare</E
+M>riconoscere c</E
+M>confessarsi</E
+M>sentirsi colpevole</E
+M>sei c</E
+M>colpevolissimo</E
+M>scoprire</E
+M>arrestare il c</E
+M>i c</E
+M>la punizione della c</E
+M>l’innocente paga spesso per il c</E
+M>chi è il c</E
+M>di tutto questo disastro</E
+M>di queste macchie sul tappeto?</E
+M>andiamo alla ricerca del colpevole</E
+M>pensiero</E
+M>parola</E
+M>atto c</E
+M>è stata una c</E
+M>negligenza</E
+M>comportarsi colpevolmente</E
+M>si è colpevolmente rifiutato di aiutarlo</E

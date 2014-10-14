@@ -1,0 +1,208 @@
+ufficio.txt
+"abuso di autorità, abuso d'ufficio"
+"addetto ufficio marketing"
+"addetto ufficio stampa"
+"addetto ufficio tecnico"
+"capo ufficio"
+"centro informazioni, ufficio informazioni, punto informativo"
+"città in cui l'ufficio postale è presente per legge"
+"d'ufficio"
+"d'ufficio, di diritto"
+"dell'ufficio postale"
+"fuori ufficio"
+"fuori ufficio"
+"gestore ufficio"
+"gestore ufficio"
+"lavoro d'ufficio"
+"lavoro d'ufficio"
+"membro d'ufficio"
+"mobili per ufficio"
+"orario d'ufficio"
+"passare in ufficio"
+"piccolo ufficio postale"
+"responsabile ufficio acquisti"
+"responsabile ufficio stampa"
+"ufficio"
+"ufficio"
+"ufficio"
+"ufficio"
+"ufficio acquisti"
+"ufficio amministrativo"
+"ufficio assistenza clienti"
+"ufficio brevetti"
+"Ufficio Brevetti"
+"ufficio centrale"
+"ufficio centrale"
+"ufficio commerciale"
+"ufficio comunale"
+"ufficio dei revisori dei conti"
+"ufficio dei servizi segreti"
+"ufficio del direttore"
+"ufficio del fisco"
+"ufficio del prelato"
+"ufficio del presidente"
+"ufficio del registro"
+"ufficio del registro"
+"ufficio del saggio dei metalli preziosi"
+"ufficio di collocamento"
+"ufficio di collocamento"
+"ufficio di collocamento"
+"ufficio di polizia"
+"ufficio di registro"
+"ufficio divino"
+"ufficio elettorale"
+"ufficio esecutivo"
+"ufficio immigrazione"
+"ufficio meteorologico"
+"ufficio operativo"
+"ufficio piccolo"
+"ufficio piloti"
+"ufficio postale"
+"ufficio postale"
+"ufficio prestiti"
+"ufficio prestiti"
+"ufficio pubblico"
+"ufficio spedizioni"
+"ufficio spionaggio"
+"ufficio stampa"
+"ufficio stipendi"
+"ufficio tecnico"
+"ufficio telefonico"
+"ufficio tributi"
+"ufficio turistico"
+"ufficio; posizione dell'arciprete"
+#* i suoi buoni '''uffici''' presso il presidente
+#* accettare, rifiutare l'
+*[[uffizio]]
+*''provvedimento preso di 
+M>officium</E
+M>opus -</E
+M>ris</E
+M>-ficium</E
+M>officina</E
+M>è u. di buon padre</E
+M> di un vero cittadino ...</E
+M>Ma ciò non basti ad acquetarti</E
+M> e mai Non obliar sì giusti ufici</E
+M>occasioni di prestar lo stesso ufizio</E
+M> per buon cuore</E
+M> a molti con cui non era obbligata a niente</E
+M>buoni uffici</E
+M>ho interposto i miei buoni u. presso il direttore perché il posto sia riservato a te</E
+M>devi ai suoi buoni u. se tutto si è appianato</E
+M>buoni u.</E
+M>è u. del giudice</E
+M> di un amministratore pubblico</E
+M> del comandante della nave</E
+M>provvedere a ...</E
+M> impedire che ...</E
+M>non è mio u.</E
+M>è u. della scienza</E
+M> della storia</E
+M>è u. delle leggi prevenire oltre che punire i reati.</E
+M>che u. hai nella direzione?</E
+M>con quale u. è stato assunto?</E
+M>esercitare l’u. di revisore dei conti</E
+M>affidare</E
+M>accettare un u. di responsabilità</E
+M>rinunciare a un u. lucroso</E
+M>adempiere gli obblighi del proprio u.</E
+M>abuso di u.</E
+M>pubblici u.</E
+M>essere sospeso a tempo indeterminato dai pubblici u.</E
+M>Fede portai al glorïoso offizio</E
+M>l’ho fatto per dovere d’u.</E
+M>ci devo andare per ragioni d’u.</E
+M>interesse privato in atti d’u.</E
+M>compito</E
+M> funzione</E
+M>particella pronominale che</E
+M> in questa frase</E
+M> svolge l’u. di complemento oggetto</E
+M>quella stessa paura era sempre lì a far l’ufizio di difensore</E
+M>d’ufficio</E
+M>sarà informato d’u.</E
+M>scrivere</E
+M> convocare</E
+M> provvedere</E
+M> procedere d’u.</E
+M>accertamenti avviati d’ufficio.</E
+M>difensore d’ufficio</E
+M>u. ecclesiastico</E
+M>u. beneficiali</E
+M>u. non beneficiali</E
+M>u. maggiori</E
+M>u. minori</E
+M>u. curati</E
+M>u. non curati</E
+M>u. secolari</E
+M>u. religiosi</E
+M>regolari</E
+M>u. pubblici</E
+M>privati</E
+M>u. centrali</E
+M> regionali</E
+M> provinciali</E
+M> locali</E
+M>u. centrale dei cambî</E
+M>u. distrettuali delle imposte dirette</E
+M> u. provinciali del Tesoro</E
+M> u. del registro</E
+M> u. tecnici del catasto</E
+M>u. tecnico erariale</E
+M>U. marittimo</E
+M>U. idrografico</E
+M>U. storico</E
+M>del</E
+M>personale</E
+M> u. ragioneria</E
+M> u. amministrativo</E
+M> u. stipendî</E
+M> u. commerciale</E
+M> u. pubbliche relazioni</E
+M> u. pubblicità</E
+M> u. legale</E
+M> u. studî</E
+M> u. di segreteria</E
+M>u. politico</E
+M> u. legislativo</E
+M>ufficio stampa</E
+M>aprire un nuovo u. di rappresentanza</E
+M>una grande azienda che ha uffici di vendita in tutte le maggiori città</E
+M>far parte di un u.</E
+M> cambiare ufficio</E
+M>d’ufficio</E
+M> essere trasferito a un altro u.</E
+M>il personale dell’u. tecnico</E
+M>gli impiegati</E
+M> i funzionarî</E
+M> il direttore di un u.</E
+M>il capo dell’u.</E
+M>capo ufficio</E
+M>studio</E
+M>l’u. del direttore</E
+M> del segretario</E
+M> del presidente</E
+M> dell’amministratore delegato</E
+M> del ragioniere capo</E
+M>andare in u.</E
+M> uscire dall’u.</E
+M>palazzo</E
+M> appartamenti per uffici</E
+M>u. pubblici</E
+M>u. internazionali</E
+M>bureaux internationaux</E
+M>uffizio</E
+M>U. divino</E
+M>ufficio</E
+M>breviario</E
+M>liturgia delle ore</E
+M>dire</E
+M> recitare l’u.</E
+M>i salmi dell’u.</E
+M>u. delle ore</E
+M>mattutino</E
+M>mattutino.</E
+M>U. dei morti</E
+M>u. funebre</E
+M>ufficétto</E

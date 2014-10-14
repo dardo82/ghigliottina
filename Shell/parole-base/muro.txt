@@ -1,0 +1,180 @@
+muro.txt
+"attaccapanni a muro"
+"come un muro"
+"con le spalle al muro"
+"con le spalle al muro"
+"costruire l'intelaiatura del muro"
+"di muro sottile"
+"di muro spesso"
+"dipinto sul muro"
+"fare muro"
+"il Muro del Pianto"
+"inchiodare qc, mettere qc con le spalle al muro"
+"installazione a muro"
+"lampada da muro"
+"muro"
+"muro"
+"muro"
+"muro"
+"muro a secco"
+"muro contro muro"
+"Muro del Pianto"
+"Muro di Berlino"
+"muro di contenimento"
+"muro di faglia"
+"muro di giardino"
+"muro di pietra"
+"muro di pietra"
+"muro di tamponamento"
+"muro divisorio"
+"muro divisorio"
+"muro in mattoni"
+"muro interno"
+"muro non portante"
+"muro portante"
+"muro portante"
+"orologio da muro"
+"parte del muro"
+"pianoforte a muro"
+"presa a muro"
+"scritta sul muro (allude al brano biblico; Daniele 5:5):"
+"spalle al muro"
+"telefono a muro"
+#*''ho visitato i resti del [[w
+* (sostantivo) dal 
+* (voce verbale) 
+*[[barriera]]
+*[[murare]]
+*parlare al muro
+M>rus</E
+M>i muri</E
+M>le mura</E
+M>maestro</E
+M>portante</E
+M>di fondazione</E
+M>interno</E
+M>esterno</E
+M>divisorio</E
+M>di cinta</E
+M>alzare</E
+M>rafforzare</E
+M>puntellare</E
+M>abbattere un m</E
+M>intonacare</E
+M>imbiancare un m</E
+M>camminare lungo il m</E
+M>rasente al m</E
+M>andare muro muro</E
+M>il m</E
+M>dell’orto</E
+M>abitare</E
+M>stare muro a muro con qualcuno</E
+M>attaccare un quadro al m</E
+M>alla parete</E
+M>a muro</E
+M>armadio</E
+M>libreria a m</E
+M>cassaforte a m</E
+M>da muro</E
+M>orologio</E
+M>lampada da m</E
+M>da parete</E
+M>di recinzione</E
+M>a scarpa</E
+M>perimetrale</E
+M>di spina</E
+M>trasversale</E
+M>di collegamento</E
+M>di controripa</E
+M>di controscarpa</E
+M>di sostegno</E
+M>di sponda</E
+M>d’ala</E
+M>andatore</E
+M>di risvolto</E
+M>di testa</E
+M>frontale</E
+M>di caduta</E
+M>del pianto</E
+M>delle lamentazioni</E
+M>muro di Berlino</E
+M>le mura</E
+M>le mura domestiche</E
+M>le mura di casa</E
+M>le mura del convento</E
+M>della prigione</E
+M>Le mura che solìeno esser badia Fatte sono spelonche</E
+M>fra quattro mura</E
+M>chiudersi fra quattro mura</E
+M>languire</E
+M> invecchiare</E
+M>appassire</E
+M>marcire fra quattro mura</E
+M>cingere di mura</E
+M>abbattere le mura della città vinta</E
+M>le mura di cinta</E
+M>tra le mura cittadine</E
+M>un viale che corre lungo le mura</E
+M>fuori delle mura</E
+M>fuori le mura</E
+M>fuor le mura</E
+M>la chiesa di S</E
+M>Lorenzo fuori le Mura</E
+M>mura pelasgiche</E
+M>ciclopiche</E
+M>etrusche</E
+M>romane</E
+M>medievali</E
+M>mura Aureliane</E
+M>le lunghe mura</E
+M>L’antiche mura ch’ancor teme e ama E trema ’l mondo</E
+M>O patria mia</E
+M>vedo le mura e gli archi</E
+M>d’appoggio</E
+M>muro di Sormano</E
+M>muro della morte</E
+M>pozzo della morte</E
+M>giro</E
+M>cerchio della morte</E
+M>di potenziale</E
+M>barriera di potenziale</E
+M>del suono</E
+M>sonoro</E
+M>barriera sonica</E
+M>Tra Bëatrice e te è questo muro</E
+M>un m</E
+M>d’incomprensione li divide</E
+M>contro questo m</E
+M>di indifferenza si rompeva l’onda dei sogni</E
+M>di gomma</E
+M>alle nostre richieste oppone un m</E
+M>di gomma</E
+M>le braccia dei prigionieri si ergevano come un m</E
+M>a propria difesa</E
+M>opporre ai nemici il m</E
+M>dei proprî petti</E
+M>fare il m</E
+M>fare muro</E
+M>fare barriera</E
+M>fare muro</E
+M>i sindacati hanno fatto muro contro le proposte di riduzione dei salarî</E
+M>mettere</E
+M>puntare</E
+M>i piedi al m</E
+M>mettere qualcuno al m</E
+M>mettere uno con le spalle al m</E
+M>battere il capo</E
+M>dar del capo</E
+M>battere la testa</E
+M>nel</E
+M> al</E
+M>trovarsi fra l’uscio e il m</E
+M>parlare al m</E
+M>predicare ai m</E
+M>essere scritto anche sui m</E
+M>i m</E
+M>parlano</E
+M>i m</E
+M>hanno orecchi</E
+M>gradinato</E
+M>murèllo</E

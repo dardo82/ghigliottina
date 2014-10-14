@@ -1,0 +1,11 @@
+motociclismo.txt
+"motociclismo"
+M>gare di velocità</E
+M>Grand Prix</E
+M>gare di regolarità</E
+M>gare di motocross</E
+M>gare di trial</E
+M>gare di speedway</E
+M>gare di formula Daytona</E
+M>gare di enduro</E
+M>endurance</E

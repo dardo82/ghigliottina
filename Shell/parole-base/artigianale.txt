@@ -1,0 +1,18 @@
+artigianale.txt
+"artigianale"
+"artigianale"
+"artigianale"
+"fatto a mano, artigianale"
+"fatto a mano, artigianale"
+*[[industriale]]
+*[[artigianalmente]]
+M>il lavoro a</E
+M>industriale</E
+M>tecnica a</E
+M>prodotti a</E
+M>la produzione a</E
+M>dei mobili di stile</E
+M>prosa</E
+M>versi di fattura artigianale</E
+M>mobili fabbricati artigianalmente</E
+M>tappeti tessuti artigianalmente</E

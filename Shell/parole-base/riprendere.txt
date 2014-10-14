@@ -1,0 +1,159 @@
+riprendere.txt
+"riprendere"
+"riprendere"
+"riprendere"
+"riprendere"
+"riprendere"
+"riprendere"
+"riprendere"
+"riprendere"
+"riprendere"
+"riprendere"
+"riprendere animo"
+"riprendere conoscenza"
+"riprendere fiato"
+"riprendere il lavoro"
+"riprendere le forze"
+*[[ripigliare]], [[riafferrare]], [[riacchiappare]]
+*[[ritirare]], [[recuperare]]
+*(posizione, territorio, ecc.) [[riconquistare]], [[rioccupare]], [[riacquistare]], [[riguadagnare]], [[riacquisire]]
+*(di sensazione, stato fisico, ecc.) tornare a colpire, assalire di nuovo, [[sorprendere]]
+*(un’attività, ecc.) [[ricominciare]], [[continuare]], [[rifare]], [[riattaccare]]
+*[[criticare]], [[biasimare]], [[sgridare]], [[ammonire]], [[rimproverare]], [[correggere]]
+*(un abito) [[ridurre]], [[rimpicciolire]], [[restringere]], [[stringere]]
+*[[ritrarre]], [[inquadrare]], [[filmare]], [[fotografare]]
+*(un discorso) [[soggiungere]], [[continuare]]
+*(di decorazione, pittura, ecc.) [[richiamare]]
+*(1) [[prendere]] [[di nuovo]]
+*(2) prendere [[indietro]], [[riavere]]
+*(3) [[proseguire]], [[aggiungere]]
+*[[cedere]], [[rinunciare]]
+*[[lasciare]], [[perdere]]
+*(un’attività, eccetera) [[finire]], [[cessare]], [[terminare]]
+*(un abito) [[allargare]], [[allungare]]
+*[[riprendersi]]
+*[[riprendersi]], [[ripresa]], [[prendere]]
+M>repre</E
+M>pre</E
+M>prendere</E
+M>prendere</E
+M>il bambino in braccio</E
+M>a nolo un&#8217;automobile</E
+M>in affitto un appartamento</E
+M>un bicchiere d&#8217;acqua</E
+M>riprende un po&#8217; di vino?</E
+M>di pastasciutta?</E
+M>l&#8217;hanno ripreso sul fatto</E
+M>l&#8217;ho ripreso in castagna</E
+M>freddo</E
+M>un raffreddore</E
+M>paura</E
+M>mi ha ripreso il freddo</E
+M>il sonno</E
+M>la febbre</E
+M>lo scoraggiamento</E
+M>in esame</E
+M>in considerazione</E
+M>le armi</E
+M>il comando</E
+M>moglie</E
+M>prendere</E
+M>il cappello</E
+M>l&#8217;ombrello</E
+M>tirava il berretto per aria e lo riprendeva prima che cadesse per terra</E
+M>i libri</E
+M>i pennelli in mano</E
+M>il proprio posto</E
+M>la propria posizione</E
+M>i nostri ripresero la piazzaforte ai nemici</E
+M>una maglia</E
+M>dopo un inseguimento di mezz&#8217;ora il gruppo è riuscito a r</E
+M>i fuggitivi</E
+M>è stato ripreso proprio a cento metri dal traguardo</E
+M>l&#8217;aspetto primitivo</E
+M>le proprie abitudini</E
+M>le vecchie consuetudini</E
+M>coscienza</E
+M>i sensi</E
+M>fiato</E
+M>lena</E
+M>animo</E
+M>coraggio</E
+M>vigore</E
+M>forza</E
+M>ardire</E
+M>campo</E
+M>quota</E
+M>avere</E
+M>il geranio dopo che l&#8217;ho annaffiato pare che riprenda</E
+M>riprendersi</E
+M>ebbe uno svenimento</E
+M>ma si riprese subito</E
+M>la malattia l&#8217;aveva indebolito molto</E
+M>ma ora s&#8217;è ripreso</E
+M>dopo la morte del figlio non s&#8217;è più ripresa</E
+M>dalla crisi dell&#8217;anno scorso l&#8217;azienda s&#8217;è ripresa abbastanza bene</E
+M>se il regalo non ti piace</E
+M>me lo riprendo</E
+M>se l&#8217;apparecchio non dovesse soddisfarti il rivenditore ha detto che può riprenderlo</E
+M>andare a r</E
+M>i figli a scuola</E
+M>a casa dei nonni</E
+M>andare a r</E
+M>il nipotino all&#8217;uscita dal cinema</E
+M>al proprio servizio</E
+M>alle proprie dipendenze un lavorante dopo averlo licenziato</E
+M>il marito la riprenderebbe in casa</E
+M>ma lei non vuole tornare</E
+M>I&#8217; son quel da le frutta del mal orto</E
+M>Che qui riprendo dattero per figo</E
+M>sonno</E
+M>il lavoro</E
+M>il cammino</E
+M>i negoziati</E
+M>le trattative</E
+M>la vita consueta</E
+M>il discorso</E
+M>la conversazione</E
+M>il filo del racconto</E
+M>la decorazione dei soffitto riprende quella delle pareti</E
+M>essere</E
+M>avere</E
+M>lo spettacolo riprenderà fra mezz&#8217;ora</E
+M>la conversazione riprese più animata di prima</E
+M>riprendere a</E
+M>a leggere</E
+M>a scrivere</E
+M>a lavorare</E
+M>a camminare</E
+M>a correre</E
+M>a parlare</E
+M>dopo un tratto pianeggiante la strada riprende a salire</E
+M>&#171;E chi&#187; riprende Cruccioso il giovenetto &#171;a me il contende?&#187;</E
+M>&#171;Quel che vorrei sapere&#187;</E
+M>riprese il primo</E
+M>&#171;è se que&#8217; signori di Milano penseranno anche alla povera gente di campagna</E
+M>&#187;</E
+M>ti tiro la palla ma stai attento a riprenderla</E
+M>riprendersi</E
+M>mi son ripreso a una ringhiera</E
+M>a una pianta</E
+M>se non fossi riuscito a riprendermi sarei caduto nel fosso</E
+M>la lingua italiana ha ripreso molte parole dal francese</E
+M>Virgilio ha ripreso diversi episodî dell&#8217;&#171;Eneide&#187; da Omero</E
+M>il fotografo riprese gli sposi all&#8217;uscita dalla chiesa</E
+M>essere ripreso bene</E
+M>male</E
+M>questo vestito va un po&#8217; ripreso sulle spalle</E
+M>Riprendersela</E
+M>prendersela</E
+M>con uno</E
+M>per la sua mancata promozione se l&#8217;è ripresa col capufficio</E
+M>che invece gli era stato sempre favorevole</E
+M>e vieni a riprendertela proprio con me?</E
+M>se ti riprendo lo faccio per il tuo bene</E
+M>fu ripreso aspramente della sua negligenza</E
+M>per il suo modo di trattare sgarbato e offensivo</E
+M>aveva cominciato male la dimostrazione del teorema</E
+M>stava per commettere una gaffe</E
+M>ma si riprese subito</E

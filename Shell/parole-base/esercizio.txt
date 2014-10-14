@@ -1,0 +1,132 @@
+esercizio.txt
+"capitale d'esercizio"
+"chiusura anticipata (di esercizio commerciale)"
+"costi d'esercizio"
+"costo d'esercizio"
+"esercizio"
+"esercizio"
+"esercizio"
+"esercizio"
+"esercizio"
+"esercizio (fisico)"
+"esercizio di autoaffermazione"
+"esercizio di scrittura"
+"esercizio di stile"
+"esercizio finanziario"
+"esercizio fiscale"
+"esercizio fisico"
+"esercizio intellettuale"
+"esercizio mentale"
+"esercizio preliminare"
+"esercizio provvisorio"
+"far fare esercizio"
+"fare esercizio"
+"fare esercizio"
+"fare molto esercizio fisico"
+"fuori esercizio"
+"in esercizio"
+"mantenere in esercizio"
+"numero, esercizio"
+"risultato di esercizio"
+"utile di esercizio"
+*[[prova]], [[esercitazione]], [[ripetizione]], [[compito]]
+*attività commerciale, [[commercio]], [[conduzione]], [[gestione]], [[bottega]], [[negozio]], [[rivendita]]
+*[[tirocinio]], [[pratica]]
+*[[fatica]], [[moto]], [[movimento]], [[attività]], [[azione]], [[lavoro]], [[esperienza]], [[opera]]
+*[[uso]], [[funzione]]
+* [[esibizione]] 
+*[[rivendita]], [[spaccio]]; [[ditta]]
+* [[immobilità]], [[ozio]], [[inerzia]]
+*[[compito]]
+M>exercitium</E
+M>exercere</E
+M>della memoria</E
+M>della mente</E
+M>della virtù</E
+M>della carità</E
+M>della pazienza</E
+M>di una professione</E
+M>di un’arte</E
+M>di una carica</E
+M>della sovranità</E
+M>del potere</E
+M>nell’e</E
+M>delle proprie funzioni</E
+M>del culto</E
+M>della religione</E
+M>di un diritto</E
+M>dei proprî diritti</E
+M>libero e</E
+M>delle proprie facoltà</E
+M>arbitrario delle proprie ragioni</E
+M>l’e</E
+M>del nuoto</E
+M>della corsa</E
+M>del tradurre</E
+M>del comporre</E
+M>fisici</E
+M>ginnastici</E
+M>fare esercizî di scherma</E
+M>militari</E
+M>l’equitazione</E
+M>il nuoto</E
+M>il canottaggio sono ottimi e</E
+M>esercizî di memoria</E
+M>di traduzione</E
+M>congiungere lo studio con l’e</E
+M>conosce le regole ma è privo di esercizio</E
+M>di attrezzistica</E
+M>di palla a spinta</E
+M>obbligatorî di scuola</E
+M>a corpo libero</E
+M>esercizî di pietà</E
+M>spirituali</E
+M>Ejercicios espirituales</E
+M>fare esercizio</E
+M>tenersi in esercizio</E
+M>fare dell’e</E
+M>un po’ d’e</E
+M>tenere qualcuno in e</E
+M>tenere in e</E
+M>la memoria</E
+M>tenere in e</E
+M>i denti</E
+M>essere in e</E
+M>tenersi in e</E
+M>essere fuori d’e</E
+M>essere fuori e</E
+M>è molto tempo che non suono il violino e sono fuori e</E
+M>l’inglese lo conosco bene</E
+M>ma sono fuori d’e</E
+M>tornare</E
+M>rimettersi in e</E
+M>esercizî di pronuncia</E
+M>di grammatica</E
+M>di versione</E
+M>facili</E
+M>difficili</E
+M>graduali</E
+M>fare</E
+M>eseguire</E
+M>correggere un esercizio</E
+M>studio</E
+M>spese</E
+M>costo</E
+M>credito di esercizio</E
+M>di una fabbrica</E
+M>di uno stabilimento</E
+M>di una linea aerea</E
+M>di una linea automobilistica</E
+M>Licenza di e</E
+M>provvisorio</E
+M>aprire un e</E
+M>di generi alimentari</E
+M>è stato chiuso l’e</E
+M>per infrazione delle norme igieniche</E
+M>pubblici e</E
+M>amministrativo</E
+M> esercizio</E
+M>finanziario</E
+M>patrimoniale</E
+M>finanziario dello stato</E
+M>provvisorio dello stato</E

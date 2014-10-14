@@ -1,0 +1,33 @@
+domare.txt
+"domare"
+"domare"
+"domare"
+*''(un animale)''[[addomesticare]], [[ammaestrare]], [[ammansire]]
+*''(una popolazione, una rivolta ecc.)'' [[soggiogare]], [[debellare]], [[stroncare]]
+* ''(un incendio)'' [[spegnere]]
+*''(impulsi, passioni ecc.)'' [[contenere]],[[soffocare]], [[controllare]] 
+*[[eccitare]], [[fomentare]], [[aizzare]]
+*''(impulsi, passioni ecc.)'' [[sfrenare]], [[scatenare]]
+*[[domatore]], [[domatura]], [[domita]], [[doma]], [[domo]]
+*[[frenare]]
+M>mare</E
+M>io dómo</E
+M>dòmo</E
+M>un leone</E
+M>una tigre</E
+M>un cavallo</E
+M>un mulo</E
+M>la moglie lo ha domato</E
+M> un ragazzo caparbio</E
+M> che non si lascia domare</E
+M>La bisbetica domata</E
+M>The Taming of the Shrew</E
+M>i Parti non furono mai domati da Roma</E
+M>un incendio</E
+M>una ribellione</E
+M>una sommossa</E
+M>una rivolta</E
+M>gli istinti</E
+M>le passioni</E
+M>l’ira</E
+M>la superbia</E

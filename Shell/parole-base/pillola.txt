@@ -1,0 +1,48 @@
+pillola.txt
+"indorare la pillola"
+"la pillola"
+"pillola"
+"pillola"
+"pillola"
+"pillola anticoncezionale"
+"pillola anticoncezionale"
+"pillola antidolorifica"
+"pillola per il dolore"
+"pillola ricoperta di zucchero"
+"pillola stimolante"
+*''(di medicinale)'' [[compressa]], [[pastiglia]], [[pasticca]], [[capsula]], [[confetto]], [[cialda]], [[cachet]], [[bolo]], [[anticoncezionale]]
+*[[pillola del giorno dopo]]
+*[[pasticca]]
+*''indorare la pillola''
+*'' in pillole''
+M>pil</E
+M>pill</E
+M>pila</E
+M>digestive</E
+M>lassative</E
+M>diuretiche</E
+M>prendere vitamine in pillole</E
+M>in pillole</E
+M>un farmaco</E
+M>un ricostituente in pillole</E
+M>dare</E
+M>ottenere informazioni in pillole</E
+M>aiuti concessi in pillole</E
+M>cultura in pillole</E
+M>prendere la p</E
+M>fare uso</E
+M>interrompere l’uso</E
+M>della pillola</E
+M>p. abortiva</E
+M>p. del giorno dopo</E
+M>una p</E
+M>molto amara</E
+M>è una p</E
+M>che non riesco a mandar giù</E
+M>ha dovuto ingoiare la p</E
+M>inzuccherare</E
+M>indorare la p</E
+M>p. avvelenata</E
+M>poison pill</E
+M>la pavimentazione è fondata su un vespaio di pillole di fiume</E
+M>lanciavano certe pillole!</E

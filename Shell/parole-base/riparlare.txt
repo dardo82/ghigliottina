@@ -1,0 +1,17 @@
+riparlare.txt
+"Traduzione di riparlare/ non trovata.\nNo translation was found for riparlare/."
+M>parlare</E
+M>avere</E
+M>vedrò di riparlarne col ministro</E
+M>nella prossima lezione riparlerò di Dante</E
+M>mi parlava e riparlava dei suoi progetti</E
+M>ne riparleremo</E
+M>ora devo partire</E
+M>ne riparleremo lunedì prossimo</E
+M>tu credi proprio che i prezzi ribasseranno? ne riparleremo fra un mese</E
+M>per ora basta</E
+M>qui c&#8217;è troppa gente</E
+M>ne riparleremo stasera!</E
+M>riparlarsi</E
+M>dopo tanto tempo</E
+M>ieri si sono riparlati</E

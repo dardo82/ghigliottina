@@ -1,0 +1,83 @@
+indirizzo.txt
+"a indirizzo bilingue"
+"indirizzo"
+"indirizzo"
+"indirizzo"
+"indirizzo"
+"indirizzo"
+"indirizzo di casa"
+"indirizzo di fatturazione"
+"indirizzo di spedizione"
+"indirizzo principale"
+"indirizzo strategico"
+"laurea in ingegneria informatica con indirizzo automazione"
+"nome e indirizzo"
+"scuola secondaria a indirizzo umanistico (U.K.)"
+#* ''scuola con indirizzo storico'', ''laurea in design con indirizzo di articoli per la casa''
+*italiano
+m>attraverso la foresta andò trasognato e senza indirizzo</e
+m>seguire un sicuro i</e
+m>un i</e
+m>sbagliato</e
+m>dare un i</e
+m>alla propria vita</e
+m>alla vita dei figli</e
+m>sarebbe riuscito meglio nella professione se avesse avuto fin da principio un buon i</e
+m>mutare indirizzo</e
+m>dare un i</e
+m>umanistico alla propria istruzione</e
+m>scuola a i</e
+m>scientifico</e
+m>professionale</e
+m>i varî i</e
+m>della filosofia moderna</e
+m>l&rsquo;i</e
+m>della politica estera italiana</e
+m>l&rsquo;unità</e
+m>la continuità di i</e
+m>politico e amministrativo</e
+m>farsi dare l&rsquo;i</e
+m>perdere l&rsquo;i</e
+m>scrivere l&rsquo;i</e
+m>sulla busta</e
+m>del mittente</e
+m>chiaro</e
+m>illeggibile</e
+m>firma</e
+m>e data</e
+m>scrivetemi a questo i</e
+m>è a Roma</e
+m>ma non conosco il suo i</e
+m>preciso</e
+m>lettera respinta per errore di i</e
+m>datemi l&rsquo;i</e
+m>di un buon sarto</e
+m>i. di posta elettronica</e
+m>ha sbagliato i</e
+m>all&rsquo;i</e
+m>grida di protesta all&rsquo;i</e
+m>dell&rsquo;oratore</e
+m>di saluto al capo dello stato</e
+m>di fedeltà al sovrano</e
+m>di risposta al discorso della Corona</e
+"name": "Indirizzo MAC"
+"name": "Indirizzo IP privato"
+"name": "Indirizzo portoghese"
+"name": "Indirizzo portoghese"
+"name": "Indirizzo IP"
+"name": "Indirizzo di memoria"
+"name": "Indirizzo di memoria"
+"name": "Indirizzo portoghese"
+"name": "...E mi lasci\u00f2 senza indirizzo"
+"name": "Indirizzo dei 221"
+"name": "Nome, cognome, indirizzo e cellulare"
+"name": "Targhe indirizzo"
+"name": "Etichette indirizzo"
+"name": "Indirizzo portoghese"
+"name": "Nome, cognome, indirizzo e cellulare"
+"name": "Indirizzo"
+"name": "Indirizzo permanente"
+"name": "Indirizzo sconosciuto"
+"name": "Sistema di indirizzo giapponese"
+"name": "L'amore ha sbagliato indirizzo"
+"name": "Indirizzo di base"

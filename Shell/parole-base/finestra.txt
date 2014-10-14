@@ -1,0 +1,109 @@
+finestra.txt
+"aprire una finestra su"
+"finestra"
+"finestra"
+"finestra"
+"finestra a battenti"
+"finestra di lancio"
+"finestra di proiezione"
+"finestra ovale"
+"finestra panoramica"
+"finestra senza panorama"
+"finestra sul davanti"
+"finestra temporale"
+"finestra tonda"
+"fuori dalla finestra"
+"guardare fuori dalla finestra"
+"lanciarsi dalla finestra"
+"porta a vetri, porta-finestra"
+"pulire la finestra"
+"stare alla finestra"
+"tenda per finestra"
+"vetro per finestra"
+*[[porta-finestra]]
+*''Quando la fame entra dalla porta, l'amore esce dalla 
+M>fen</E
+M>stra</E
+M>davanzale</E
+M>stipiti</E
+M>arco</E
+M>architrave</E
+M>esterna</E
+M>interna</E
+M>a tetto</E
+M>sopra tetto</E
+M>alta</E
+M>bassa</E
+M>bifora</E
+M>col terrazzino</E
+M>con l’inferriata</E
+M>inginocchiata</E
+M>a edicola</E
+M>a ghigliottina</E
+M>panoramica</E
+M>porta f</E
+M>porte-finestre</E
+M>a bandiera</E
+M>la soglia</E
+M>della f</E
+M>il telaio</E
+M>l’infisso della f</E
+M>i vetri</E
+M>gli scuretti</E
+M>le persiane della f</E
+M>doppia</E
+M>la f</E
+M>guarda</E
+M>risponde sulla piazza</E
+M>sul lago</E
+M>a tramoggia</E
+M>bocca di lupo</E
+M>finta</E
+M>finta f</E
+M>aprire</E
+M>chiudere la f</E
+M>aprire</E
+M>chiudere una f</E
+M>fermare la f</E
+M>stare</E
+M>affacciarsi alla f</E
+M>battere</E
+M>picchiare alla f</E
+M>fattore finestra</E
+M>cacciato dalla porta</E
+M>rientra</E
+M>è rientrato</E
+M>dalla f</E
+M>stare alla f</E
+M>mettersi in f</E
+M>mettersi alla f</E
+M>o mangiar questa minestra o saltar questa f</E
+M>buttare i soldi dalla f.</E
+M>aria di f</E
+M>colpo di balestra</E
+M>chi non l’ha all’uscio l’ha alla f</E
+M>Dio serra un uscio e apre una f</E
+M>a cannonate aprirono una f</E
+M>nelle mura</E
+M>gli fa ne la maglia ampla f</E
+M>vedessi che f</E
+M>nel petto!</E
+M>finestrella</E
+M>chiudi le f</E
+M>gli occhi sono la f</E
+M>dell’anima</E
+M>O belle et alte e lucide fenestre Onde colei</E
+M>che molta gente attrista Trovò la via d’entrare in sì bel corpo!</E
+M>ovale</E
+M>rotonda</E
+M>acetabolare</E
+M>tettoniche</E
+M>pupilla</E
+M>schermata</E
+M>windows</E
+M>f. di dialogo</E
+M>filtro ottico con una f</E
+M>centrata sul giallo</E
+M>periodo f</E
+M>rischio f.</E
+M>finestrella</E

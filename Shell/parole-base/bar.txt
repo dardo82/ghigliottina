@@ -1,0 +1,37 @@
+bar.txt
+"bar"
+"coffee bar"
+"bar"
+"bar"
+"bar (dell'hotel)"
+"lounge bar"
+"bar all'aperto"
+"bar che vende succhi di frutta freschi"
+"juice bar"
+"bar clandestino"
+"bar mitzvah"
+"bar mitzvah"
+"bar ristorante"
+"bar-and-grill"
+"bar squallido"
+"sleazy bar"
+"bar-tabacchi"
+"negozio di tabacchi e bar"
+"coffee bar – smoke shop"
+"oyster bar"
+"oyster bar"
+"piano bar"
+"piano bar"
+"snack bar"
+"snack bar"
+"tavolino da bar"
+"high bar table, high pub table"
+"wine bar"
+"wine bar"
+*[[caffè]],[[ buffet]](in stazioni, teatri ecc.),[[snack-bar]],[[ mescita]], [[pub]]
+* [[fess]], [[closet]], [[barrulet]]
+*italiano
+*inglese
+*francese
+*polacco
+*svedese

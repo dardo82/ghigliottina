@@ -1,0 +1,23 @@
+cioccolata.txt
+"barretta di cioccolata"
+"cioccolata"
+"cioccolata"
+"colore marrone cioccolata"
+"cioccolata"
+"di color cioccolata"
+"cioccolata bianca"
+"cioccolata calda"
+"mousse di cioccolata"
+* [[cioccolato]]
+*cioccolato
+M>cioccolato</E
+M>una tavoletta di cioccolata</E
+M>di cioccolato</E
+M>color cioccolata</E
+M>color cioccolato</E
+M>fare la c</E
+M>una tazza di cioccolata</E
+M>una c</E
+M>con la panna</E
+M>fu fatta sedere sur una sedia</E
+M>e le fu portata una chicchera di cioccolata</E

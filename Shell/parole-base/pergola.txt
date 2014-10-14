@@ -1,0 +1,11 @@
+pergola.txt
+"pergola"
+"pergola, arbor, latticework"
+"pergola"
+#* ''ci siamo riposati sotto la '''pergola''', all'[[ombra]]''
+* (''struttura di pali'') dal [[latino]] ''[[pergula|pergŭla]]'' cioè [[ballatoio]], [[loggetta]]
+* (''pezza onorevole'') di etimologia incerta, affine alla parola [[francese]] ''[[pairle]]''
+* (''struttura di pali'') [[pergolato]]
+* (''struttura di pali, specificatamente a forma di cupola'') [[bersò]], [[berceau]]
+* [[pergola rovesciata]]
+* [[pergolato]]

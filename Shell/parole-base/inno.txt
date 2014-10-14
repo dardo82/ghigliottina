@@ -1,0 +1,140 @@
+inno.txt
+"da inno"
+"inno"
+"inno"
+"inno"
+"inno di battaglia"
+"inno di lode"
+"inno nazionale"
+"Inno Nazionale Americano"
+#*''[[w
+#*''[[w
+* (liturgia)  [[cantico]],[[lauda]],[[lode]],[[salmo]] , [[celebrazione]] 
+* (nelle letterature moderne) [[carme]] ,[[lode]],[[carme]] [[celebrazione]]   
+*[[innologia]], [[innografo]]
+*[[inneggiare]]
+M>hymnus</E
+M>Carmen saeculare</E
+M>gli I. omerici</E
+M>I. a Demetra</E
+M>di Apollo</E
+M>gli I</E
+M>di Callimaco</E
+M>intonare</E
+M>levare</E
+M>alzare</E
+M>sciogliere un i</E
+M>I. di Garibaldi</E
+M>dei lavoratori</E
+M>nazionale</E
+M>la banda eseguì l’i</E
+M>nazionale</E
+M>l’i</E
+M>nazionale italiano</E
+M>I. alle Grazie</E
+M>I. ai patriarchi</E
+M>I. sacri</E
+M>I Promessi Sposi sono un i</E
+M>alla fede e alla carità</E
+M>il suo intervento alla cerimonia di chiusura del convegno è stato tutto un i</E
+M>all’operato degli organizzatori</E
+"name": "Inno Nazionale del Cile"
+"name": "Inno nazionale"
+"name": "Inno e Marcia Pontificale"
+"name": "Inno nazionale della Colombia"
+"name": "Inno della Federazione Russa"
+"name": "Inno dell'Unione Sovietica"
+"name": "Inno monegasco"
+"name": "Inno olimpico"
+"name": "Macedonia (Grecia)#Inno della Macedonia Greca"
+"name": "Inno Nazionale della Repubblica"
+"name": "Amico \u00e8 (Inno dell'amicizia)"
+"name": "Amico \u00e8 (Inno dell'amicizia) (feat. Caterina Caselli)"
+"name": "Inno di Mameli"
+"name": "Inno amaranto"
+"name": "L'inno del corpo sciolto"
+"name": "Inno"
+"name": "Inno all'impero"
+"name": "Inno Verdano"
+"name": "Inno all'Amore (Hymne a l'amour)"
+"name": "Inno"
+"name": "Inno"
+"name": "Inno al Trentino"
+"name": "Amico \u00e8 (Inno dell'amicizia)"
+"name": "Inno al Trentino"
+"name": "Inno europeo"
+"name": "Inno"
+"name": "Inno della Repubblica socialista sovietica estone"
+"name": "Inno della Repubblica socialista sovietica armena"
+"name": "Inno nazionale della Repubblica dell'Azerbaigian"
+"name": "Inno della Repubblica socialista sovietica lettone"
+"name": "Inno della Repubblica socialista sovietica azera"
+"name": "Inno della Repubblica socialista sovietica bielorussa"
+"name": "Inno della Repubblica socialista sovietica lituana"
+"name": "Inno della Repubblica socialista sovietica turkmena"
+"name": "Inno della Repubblica socialista sovietica moldava"
+"name": "Inno della Repubblica socialista sovietica kazaka"
+"name": "Inno della Repubblica socialista sovietica kirghiza"
+"name": "Inno della Repubblica socialista sovietica georgiana"
+"name": "Inno della Repubblica socialista sovietica tagika"
+"name": "Amico \u00e8 (Inno dell'amicizia)"
+"name": "Inno al Trentino"
+"name": "Vinci Veroli: L'inno ufficiale del Basket Veroli"
+"name": "Vinci Veroli: L'inno ufficiale del Basket Veroli"
+"name": "Inno FIFA"
+"name": "Inno della UEFA Champions League"
+"name": "Inno dei Marines"
+"name": "Inno alla carit\u00e0"
+"name": "Inno al Sole"
+"name": "Inno Nazionale dell'Isola di Man"
+"name": "Inno del popolo sami"
+"name": "Inno"
+"name": "Inno nazionale"
+"name": "Inno di Puodarsia"
+"name": "L'inno del corpo sciolto"
+"name": "MacBeth: Act IV, Inno di vittoria - Finale. \"Vittoria!\" (Coro, Malcom, Macduff)"
+"name": "Inno a Oberdan"
+"name": "Inno"
+"name": "No.9 Finale - Inno tedesco 'or che regna fra le genti'"
+"name": "No.9 Finale - Inno Russo 'Onore, gloria ed alto omaggio'"
+"name": "Atto Quarto, Scena 3: Terzettino ed Inno \"Per la salvata Italia\""
+"name": "Inno di Brozzo"
+"name": "Inno abissino"
+"name": "Inno dei lavoratori del mare"
+"name": "Inno in re bemolle"
+"name": "Inno"
+"name": "Inno della repubblica"
+"name": "Inno a Oberdan"
+"name": "Inno alla vita"
+"name": "Inno all'odio"
+"name": "Inno dell'opificio"
+"name": "Sinfonia No. 9: Inno alla gioia"
+"name": "Inno del Primo Maggio"
+"name": "Da me a te: inno"
+"name": "Inno"
+"name": "Inno"
+"name": "Inno"
+"name": "Un Ballo in Maschera: Act I, Scena ed Inno - Finale I. \"Finisci il vaticinio\" (Riccardo, Ulrica, Renato, Tom, Samuel, Coro, Silvano, Oscar)"
+"name": "No.9 Finale - Inno Inglese 'Dell'aurea pianta'"
+"name": "Inno dei lavoratori"
+"name": "Amico \u00e8 (Inno dell'amicizia)"
+"name": "Frosinone al\u00e8!: L'inno ufficiale del Frosinone Calcio"
+"name": "Frosinone al\u00e8!: L'inno ufficiale del Frosinone Calcio"
+"name": "Inno"
+"name": "Inno"
+"name": "Inno della giovent\u00f9 della pace"
+"name": "Inno di Mameli (remix)"
+"name": "Sottosopra (Inno darmico del cavatore)"
+"name": "Pornokrator - Inno della giovent\u00f9 malnetta"
+"name": "Inno di Garibaldi"
+"name": "Inno di Mameli"
+"name": "Inno"
+"name": "Inno di Puodarsia"
+"name": "Inno"
+"name": "Inno"
+"name": "Inno al Trentino"
+"name": "Inno all'impero"
+"name": "Amico \u00e8 (Inno dell'amicizia)"
+"name": "Inno amaranto"
+"name": "Inno in re bemolle"
+"name": "Amico \u00e8 (Inno dell'amicizia) (feat. Caterina Caselli)"

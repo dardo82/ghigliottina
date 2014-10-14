@@ -1,0 +1,12 @@
+rimodernare.txt
+"rimodernare"
+M>moderno</E
+M>io rimodèrno</E
+M>ha rimodernato con gusto il suo vecchio appartamento</E
+M>la facciata di un palazzo</E
+M>un vestito</E
+M>una pelliccia</E
+M>le ferrovie</E
+M>una nave</E
+M>da quando ha cominciato a vivere in città si è rimodernato</E
+M>il collegio si è notevolmente rimodernato negli ultimi anni</E

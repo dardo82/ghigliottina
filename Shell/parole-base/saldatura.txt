@@ -1,0 +1,62 @@
+saldatura.txt
+"saldatura"
+"saldatura"
+"saldatura"
+"saldatura"
+"saldatura"
+"saldatura a gas"
+"saldatura ad arco"
+"saldatura ossiacetilenica"
+"saldatura testa a testa"
+#* ''la '''saldatura''' è stata compiuta da uno [[stagnino]]''
+* (''oggetto'') [[congiunzione]], [[giunta]] 
+* (''processo del saldare'') [[saldamento]], [[impiombatura]], [[piombatura]], [[brasatura]], [[stagnatura]] 
+* (''unione'') [[collegamento]], [[congiunzione]], [[connessione]], [[coordinazione]], [[fusione]]
+* (''processo del saldare'') [[dissaldatura]] 
+* (''unione'') [[divisione]], [[contrasto]], [[distacco]], [[frattura]], [[separazione]], [[scollatura]]
+* [[stagnino]], [[saldatore]], [[saldatura ad arco]], [[saldatura a fuoco]]
+M>s. dell&#8217;acciaio</E
+M>del bronzo</E
+M>s. a stagno</E
+M>s. di due tubi</E
+M>di due tratti di rotaia</E
+M>di una lamiera rotta.</E
+M>mascherare con vernice una saldatura</E
+M>s. autogena</E
+M>s. eterogena</E
+M>brasatura</E
+M>saldobrasatura</E
+M>s. per fusione</E
+M>a gas</E
+M>s. ossiacetilenica</E
+M>s. ossidrica</E
+M>elettrica ad arco</E
+M>a fascio elettronico</E
+M>a laser</E
+M>con alluminotermia</E
+M>s. per pressione</E
+M>a fuoco</E
+M>bollitura</E
+M>elettrica a resistenza</E
+M>elettrica a scintillio</E
+M>a ultrasuoni</E
+M>per diffusione</E
+M>per esplosione</E
+M>s. di due pezzi di porcellana</E
+M>la s. delle varie parti del telaio è stata ottenuta con una colla tenace.</E
+M>una s. ben fatta</E
+M>ben riuscita.</E
+M>la s. dei lembi della ferita non è ancora perfetta</E
+M>sinfisi.</E
+M>il tubo si è rotto alla s.</E
+M>il punto più debole dell&#8217;osso è quello dov&#8217;è avvenuta la s.</E
+M>ormai la s. non si vede più.</E
+M>non c&#8217;è s. tra i varî episodî del film</E
+M>la s. tra le diverse parti del romanzo appare forzata.</E
+M>la s. fra le tre divisioni dell&#8217;armata era imminente</E
+M>si era operata la s. dei due fronti</E
+M>punto di s.</E
+M>s. del raccolto</E
+M>del bilancio</E
+M>un periodo storico che rappresenta la s. tra due epoche</E
+M>talvolta manca la s. tra la cultura di una generazione e quella della generazione precedente</E

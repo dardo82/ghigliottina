@@ -1,0 +1,12 @@
+ambulanza.txt
+"ambulanza"
+* [[autolettiga]]
+*''(uso corrente)'' [[croce]] rossa
+*[[mbulanza]]
+*[[màchina]]
+*[[mèdicu]]
+M>ambulare</E
+M>ambulance</E
+M>carro d’a.</E
+M>chiamare l’a.</E
+M>telefonare per un’ambulanza</E

@@ -1,0 +1,59 @@
+modellare.txt
+"argilla per modellare"
+"attrezzo per modellare"
+"creta per modellare"
+"modellare"
+"modellare"
+"modellare"
+"modellare a mano"
+"modellare a mano"
+"modellare a mano"
+"modellare ad aria"
+"modellare ad aria"
+"modellare antecedentemente"
+"modellare in uno stampo, plasmare in uno stampo"
+"modellare l'argilla"
+"modellare qualcosa rifacendosi a"
+"modellare su"
+"plasmare, modellare"
+* dare forma, [[plasmare]], [[foggiare]], [[forgiare]], [[configurare]]
+* ''(in riferimento a oggetti d’artigianato)'' [[sagomare]], [[creare]], [[intagliare]], [[scolpire]]
+*[[modellabile]], [[modellamento]], [[modellarsi]], [[modellato]], [[modellatore]], [[modellatura]]
+*[[modello]]
+M>io modèllo</E
+M>la creta</E
+M>l’argilla</E
+M>la cera</E
+M>lo stucco</E
+M>una testa in gesso</E
+M>un vaso</E
+M>un cavallo</E
+M>un gruppo</E
+M>dal vero</E
+M>un busto nel marmo</E
+M>il marmo</E
+M>un profilo</E
+M>un nudo</E
+M>un cappello</E
+M>un abito da sera</E
+M>una barca</E
+M>un mobile</E
+M>gli agenti atmosferici hanno modellato queste rocce</E
+M>un vestito che modella il corpo</E
+M>la persona</E
+M>l’abito da sera le modellava il seno e i fianchi</E
+M>questi vasi furono modellati secondo il tipo attico</E
+M>modella il suo stile su quello dei più recenti autori americani</E
+M>modellate la vostra condotta su quella degli esempî migliori</E
+M>modellarsi sui grandi maestri del passato</E
+M>per libertario che sia un giovane</E
+M>cerca sempre di modellarsi su uno schema astratto</E
+M>un busto</E
+M>un vaso</E
+M>un mobile</E
+M>un cappellino ben modellato</E
+M>statua modellata grossolanamente</E
+M>corpo stupendamente modellato</E
+M>figura modellata</E
+M>ornato modellato</E
+M>disegnati</E

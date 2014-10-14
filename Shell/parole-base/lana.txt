@@ -1,0 +1,100 @@
+lana.txt
+"di lana"
+"di lana"
+"di lana"
+"di lana grezza"
+"essere una questione di lana caprina"
+"filo di lana"
+"in pura lana"
+"lana"
+"lana"
+"lana"
+"prodotto simile alla lana"
+"lana"
+"lana cotta"
+"lana d'acciaio"
+"lana delle Shetland"
+"lana di legno"
+"lana di roccia"
+"lana di vetro"
+"lana particolare"
+"lana vergine"
+"maglia di lana"
+"maglia di lana"
+"misto lana"
+"tessuto di lana"
+"tessuto di lana"
+"una questione di lana caprina"
+#* ''
+#* ''
+*[[pelo]] 
+*(di pecora) [[vello]]
+* [[lanificio]], [[lanoso]], [[lanugine]]
+* [[caldo]], [[cardare]], [[flanella]], [[golf]], [[gomitolo]], [[maglione]], [[pecora]], [[pavimento]], [[sporco]], [[uncinetto]]
+* ''discutere questioni di 
+M>lana</E
+M>caprina</E
+M>vigogna</E
+M>di cammello</E
+M>cammello</E
+M>di lama</E
+M>alpaca</E
+M>d’Àngora</E
+M>tosata</E
+M>di tosa</E
+M>pelata</E
+M>di concia</E
+M>sucida</E
+M>saltata</E
+M>lavata addosso</E
+M>meccanica</E
+M>rigenerata</E
+M>ovini che danno una l</E
+M>pregiata</E
+M>filare</E
+M>lavare</E
+M>torcere</E
+M>cardare la l</E
+M>greggia</E
+M>per materassi</E
+M>bianca</E
+M>nera</E
+M>in bioccoli</E
+M>un fiocco di l</E
+M>matassa</E
+M>gomitolo di l</E
+M>calze di l</E
+M>maglie di l</E
+M>cardata</E
+M>pettinata</E
+M>inglese</E
+M>mezza l</E
+M>mezzalana</E
+M>vestito</E
+M>cappotto di l</E
+M>Arte della l</E
+M>Essere della stessa l</E
+M>disputare</E
+M>far questioni</E
+M>di l</E
+M>caprina</E
+M>buona l</E
+M>buonalana</E
+M>quella buona l</E
+M>di mio nipote!</E
+M>ai tempi che corrono bisogna tenersi amici quelle buone lane</E
+M>che l</E
+M>quel ragazzo!</E
+M>son certe lane!</E
+M>vegetale</E
+M>di scoria</E
+M>di loppa</E
+M>di roccia</E
+M>di vetro</E
+M>laniccio</E
+M>d’acciaio</E
+M>di legno</E
+M>filosofica</E
+M>seta</E
+M>di felce</E
+M>cibozio</E

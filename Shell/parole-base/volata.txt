@@ -1,0 +1,36 @@
+volata.txt
+"tirare la volata"
+"volata"
+"volata, replace: di volata, in volata"
+"volata"
+M>la beccaccia</E
+M> dopo una breve v.</E
+M> si posò nuovamente</E
+M>le anatre facevano ogni tanto una v. dallo stagno alla riva</E
+M>ho visto una v. di starne</E
+M>abbiamo sparato a una v. di pernici e ne abbiamo prese tre</E
+M>se fai una v. arriverai ancora in tempo</E
+M>andare in un luogo di v.</E
+M>far tutta una v.</E
+M>fare una cosa di v.</E
+M> fece gli ultimi metri prima del loggiato di v. e si buttò sotto il primo arco</E
+M>la v. finale</E
+M>battere in v. un concorrente</E
+M>tirare la v.</E
+M>ha tirato la v. al banditore dell’asta facendo offerte molto alte</E
+M>palla volata</E
+M>volée</E
+M>v. di dritto</E
+M>v. di rovescio</E
+M>mezza v.</E
+M>demi-volée</E
+M>volata</E
+M>semina alla v.</E
+M>semina a spaglio</E
+M>pariglie di volata</E
+M>lanciata</E
+M>tromba</E
+M>tirare di v.</E
+M>taglio di v.</E
+M>gioie di v.</E
+M>volatina semplice</E

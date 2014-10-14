@@ -1,0 +1,48 @@
+mediterraneo.txt
+"bacino del mediterraneo"
+"mar mediterraneo"
+"mare mediterraneo"
+"mediterraneo"
+"mediterraneo"
+"relativo al Mar Mediterraneo"
+*[[dieta mediterranea]], [[mar Mediterraneo]]
+M>mediterraneus</E
+M>medius</E
+M>terra</E
+M>continentale</E
+M>marittimo</E
+M>dalla Mesopotamia</E
+M>che è la terra più m</E
+M>di tutto l’universo abitabile</E
+M>mare m</E
+M>Mediterraneo</E
+M>mare m</E
+M>romano</E
+M>il Mediterraneo</E
+M>Mare nostrum</E
+M>americano</E
+M>australasiatico</E
+M>vegetazione</E
+M>fauna</E
+M>flora m</E
+M>macchia m</E
+M>popoli m</E
+M>razza m</E
+M>occidentale</E
+M>clima m</E
+M>Sottoregione m</E
+M>Regione m</E
+M>Ecosistema m</E
+M>serie m</E
+M>potassica</E
+M>anemia m</E
+M>talassemia</E
+M>febbre m</E
+M>febbre melitense</E
+M>civiltà m</E
+M>lingue m</E
+M>parole</E
+M>vocaboli</E
+M>voci m</E
+M>Dieta m</E
+M>mediterranean food style</E

@@ -1,0 +1,99 @@
+vapore.txt
+"a tutto vapore"
+"a vapore"
+"bagno di vapore"
+"battello a vapore"
+"cuocere al vapore"
+"da cuocere a vapore"
+"densità del vapore"
+"densità di vapore"
+"di cavallo a vapore"
+"emettere vapore"
+"fare le pulizie con la macchina a vapore"
+"la barca a vapore"
+"locomotiva a vapore"
+"macchina a vapore per pulizie"
+"motore a vapore"
+"nave a vapore"
+"padrone del vapore"
+"pentola a vapore"
+"pentola per cottura a vapore"
+"pressione del vapore"
+"pressione di vapore"
+"pulire al vapore"
+"riscaldamento a vapore"
+"rullo compressore a vapore"
+"rullo compressore a vapore"
+"stanza per il bagno di vapore"
+"treno a vapore"
+"turbina a vapore"
+"vapore"
+"vapore"
+"vapore acqueo"
+"vapore"
+"vapore acqueo"
+"vapore acqueo"
+"vapore secco"
+"vapore vivo"
+*vapore acqueo
+*[[locomotiva]], battello a vapore, [[vaporetto]], [[piroscafo]]
+* [[evaporare]],  [[svaporare]],  [[vaporoso]], [[cavallo-vapore]]
+M>vapor -</E
+M>ris</E
+M>vapore</E
+M>gas</E
+M>v. d’etere</E
+M>di mercurio</E
+M>di zolfo</E
+M>evaporazione</E
+M>sublimazione</E
+M>v. saturo</E
+M>pressione del v. saturo</E
+M>tensione di v.</E
+M>v. insaturo</E
+M>non saturo</E
+M>v. surriscaldato</E
+M>v. soprassaturo</E
+M>v. acqueo</E
+M>cuocere al v.</E
+M>bagno di v.</E
+M>caldaia a v.</E
+M>generatore di v.</E
+M>macchina a v.</E
+M>locomotiva a v.</E
+M>piroscafo a v.</E
+M>vapore</E
+M>arrivare</E
+M>partire con il v.</E
+M>si vedeva in lontananza il fumo di un v.</E
+M>il fischio del v.</E
+M>a tutto v.</E
+M>sopra il lago</E
+M> si vedeva una cortina di v. spessi</E
+M>qual</E
+M> sorpreso dal mattino</E
+M> Per li grossi vapor Marte rosseggia</E
+M>un po’ di vapori</E
+M> di nebbia ogni mattina</E
+M> poi un sole dorato</E
+M>fumo</E
+M>il v. dell’incenso</E
+M>v. mefitici</E
+M>miasmatici</E
+M>i v. che si sprigionano dalle paludi</E
+M>vapori del vino</E
+M>dell’alcol</E
+M>fumi</E
+M>vapori</E
+M>Vapori accesi non vid’io sì tosto Di prima notte mai fender sereno</E
+M>Così e</E
+M>vapor pel bel seren giù scendono</E
+M> Che paion stelle mentre l’aer fendono</E
+M>ei provide a scalpitar lo suolo Con le sue schiere</E
+M> acciò che lo vapore Mei si stingeva</E
+M> mentre ch’era solo</E
+M>v. trionfanti</E
+M>In sù vid’io così l’etera addorno Farsi e fioccar di vapor trïunfanti</E
+M>Laudato sia ’l tuo nome e ’l tuo valore Da ogne creatura</E
+M> com’è degno Di render grazie al tuo dolce vapore</E
+M>Punto vapore</E

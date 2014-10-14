@@ -1,0 +1,43 @@
+numerazione.txt
+"numerazione"
+"numerazione"
+"numerazione delle pagine"
+"numerazione pagine"
+*[[w
+* De Agostini, '' [http
+* Garzanti, ''[http
+* Treccani, ''[http
+M>numeratio</E
+M>onis</E
+M>numerare</E
+M>numerazione</E
+M>sistema di n</E
+M>strumentale</E
+M>digitazione</E
+M>quinaria</E
+M>cinquina</E
+M>quaternaria</E
+M>duodecimale</E
+M>sessagesimale</E
+M>primitiva</E
+M>romana</E
+M>posizionale</E
+M>decimale</E
+M>cifre arabiche</E
+M>sistema di n</E
+M>binario</E
+M>ternario</E
+M>quinario</E
+M>pentadico</E
+M>ottale</E
+M>duodecimale</E
+M>esadecimale</E
+M>procedere alla n</E
+M>delle pagine</E
+M>la n</E
+M>delle pagine è errata</E
+M>la n</E
+M>prosegue nel vicolo</E
+M>telefonica</E
+M>dei filati</E
+M>titolo</E

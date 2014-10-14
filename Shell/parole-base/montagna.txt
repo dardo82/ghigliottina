@@ -1,0 +1,88 @@
+montagna.txt
+"alloro di montagna"
+"cima della montagna"
+"della montagna"
+"di montagna di ghiaccio"
+"gorilla di montagna"
+"Il discorso della montagna"
+"la Montagna"
+"la montagna ha partorito un topolino"
+"leone di montagna"
+"leone di montagna"
+"luogo di cura o soggiorno in montagna"
+"mal di montagna"
+"montagna"
+"montagna"
+"montagna"
+"montagna di"
+"montagna di"
+"monte, montagna"
+"passo montano, passo di montagna"
+"re della montagna"
+"scalare una montagna"
+"scarponi, scarponi da trekking, scarponi da montagna"
+"sentiero di montagna"
+"una montagna"
+"uomo di montagna"
+"vetta della montagna"
+#* ''una catena di '''montagne''''';
+#* ''essere grande come una '''montagna''''';
+#* ''una '''montagna''' di carta'';
+#* ''paese di '''montagna''''';
+#* ''lago di '''montagna''''';
+*[[monte]], [[massiccio]], [[altura]]
+*[[passamontagna]]
+* ''Se la 
+*italiano
+M>*montania</E
+M>mons montis</E
+M>bassa</E
+M>media</E
+M>alta m</E
+M>Le m</E
+M>stanno ferme</E
+M>gli uomini camminano</E
+M>il discorso</E
+M>sermone</E
+M>della m</E
+M>beatitudini</E
+M>Matteo</E
+M>in montem</E
+M>la m</E
+M>del Purgatorio</E
+M>monte</E
+M>grande come una m</E
+M>gli sembrava d’avere una m</E
+M>addosso</E
+M>Ars poet</E
+M>il parto della m</E
+M>la m</E
+M>partorisce un topo</E
+M>la m</E
+M>pistoiese</E
+M>senese</E
+M>lasciare la pianura per la m</E
+M>clima di m</E
+M>clima alpino</E
+M>aria di m</E
+M>flora</E
+M>fauna d’alta m</E
+M>gente di m</E
+M>mal di m</E
+M>sport di m</E
+M>andare in m</E
+M>fare un po’ di m</E
+M>l’amore</E
+M>la passione per la montagna</E
+M>artiglieria da m</E
+M>truppe da m</E
+M>gran premio della m</E
+M>effetto m</E
+M>casera</E
+M>malga</E
+M>alpe</E
+M>Montagne russe</E
+M>una m. di panni da stirare</E
+M>in strada c’erano montagne di rifiuti; ho una m. di lavoro arretrato</E
+M>ruspe</E
+M> reticolati di plastica e montagnole di sanpietrini fumano sotto l’acqua spingendo i passanti contro le vetrine</E

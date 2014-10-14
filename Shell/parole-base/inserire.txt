@@ -1,0 +1,64 @@
+inserire.txt
+"aggiungere, inserire"
+"inserire"
+"inserire"
+"inserire, replace: inserirsi"
+"inserire, replace: inserirsi"
+"inserire"
+"inserire a fasi"
+"inserire il jack"
+"inserire in"
+"inserire la marcia"
+"inserire, cambiare"
+"inserire, fissare"
+M>inser</E
+M>ser</E
+M>io inserisco</E
+M>tu inserisci</E
+M>l’innesco in una mina</E
+M>un tubo nell’altro</E
+M>la lettera nella busta</E
+M>una lama in una fessura per allargarla</E
+M>introdurre</E
+M>alcune pagine bianche in un libro</E
+M>una scheda nello schedario</E
+M>inserto</E
+M>una dichiarazione fra gli atti di un processo</E
+M>questa ricevuta va inserita nella cartella delle spese varie</E
+M>un condensatore in un circuito</E
+M>la spina nella presa di corrente</E
+M>la corrente</E
+M>potrei io</E
+M>aver un rametto de quel fico</E
+M>per inserire in qualche albero dell’orto mio?</E
+M>avevo imparato a innestare</E
+M>e l’albicocco che c’è ancora nel giardino l’ho inserito io sulle prugne</E
+M>l’architetto volle i</E
+M>nella facciata un motivo decorativo</E
+M>un episodio autobiografico in un racconto</E
+M>una citazione</E
+M>alcune note nel testo</E
+M>dei versi nella prosa</E
+M>nuovi brani nella seconda edizione di un’antologia</E
+M>una clausola nel contratto</E
+M>una vocale in un gruppo consonantico di difficile pronuncia</E
+M>nel programma del concerto sarà inserita anche una composizione di autore contemporaneo</E
+M>una diffida</E
+M>una domanda d’impiego fra gli annunci economici</E
+M>nella piccola pubblicità</E
+M>nel catalogo le ultime pubblicazioni</E
+M>gli acquisti recenti</E
+M>un argomento nell’ordine del giorno</E
+M>nella lista degli invitati è stato inserito anche il tuo nome</E
+M>sei stato inserito anche tu</E
+M>un fatto nuovo viene a inserirsi nella storia di questo periodo</E
+M>riuscire</E
+M>non riuscire a inserirsi</E
+M>cercare di inserirsi</E
+M>avere difficoltà a inserirsi</E
+M>essere già inserito</E
+M>non essere ancora ben inserito</E
+M>inserirsi in una conversazione</E
+M>si è inserito anche lui fra i candidati al premio</E
+M>è riuscito a inserirsi nell’alta finanza</E
+M>il decreto sarà inserto nella raccolta ufficiale</E

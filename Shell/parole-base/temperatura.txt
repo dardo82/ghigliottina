@@ -1,0 +1,102 @@
+temperatura.txt
+"a bassa temperatura"
+"a temperatura ambiente"
+"a temperatura costante"
+"a temperatura del corpo"
+"abbassamento della temperatura"
+"abbassamento di temperatura"
+"alta temperatura"
+"alzare la temperatura"
+"aumentare la temperatura"
+"bassa temperatura"
+"che bolle a temperatura elevata"
+"coefficiente di temperatura"
+"controllo della temperatura"
+"diminuzione della temperatura"
+"far salire la temperatura"
+"limitatore di temperatura"
+"misurarsi la temperatura"
+"punto (temperatura) in cui un liquido cola"
+"ridurre la temperatura"
+"sbalzo di temperatura"
+"temperatura"
+"temperatura"
+"temperatura"
+"temperatura"
+"temperatura ambiente"
+"temperatura ambiente"
+"temperatura assoluta"
+"temperatura bassa"
+"temperatura corporea"
+"temperatura critica"
+"temperatura del colore"
+"temperatura del corpo nero"
+"temperatura del punto di condensazione"
+"temperatura di ignizione"
+"temperatura di transizione"
+"temperatura elevata"
+"temperatura minima"
+*(di corpo, liquido, eccetera) grado di calore, condizione termica
+*[[termo-]],[[-termia]],[[febbre]],[[caldo]],[[freddo]],[[fresco]],[[grado]]
+*italiano
+*piemontese
+*spagnolo
+M>temperatura</E
+M>temperare</E
+M>temperare</E
+M>contatto termico</E
+M>equilibrio termico</E
+M>equilibrio termodinamico</E
+M>termometri</E
+M>t. empirica</E
+M>scala di t.</E
+M>scala termometrica</E
+M>t. di ebollizione</E
+M>t. di fusione</E
+M>t. assoluta</E
+M>t. termodinamica assoluta</E
+M>ciclo ideale di Carnot</E
+M>kelvin</E
+M>punto triplo</E
+M>t. ambiente</E
+M>t. critica</E
+M>t. di Curie</E
+M>kürì</E
+M>fisica delle basse t.</E
+M>t. di colore</E
+M>radiazione termica</E
+M>clima a t. costante</E
+M>incostante</E
+M>aumento</E
+M>abbassamento della t.</E
+M>sbalzi di t.</E
+M>t. alta</E
+M>bassa</E
+M>media</E
+M>sopra</E
+M>sotto zero</E
+M>t. minime e massime registrate nelle 24 ore</E
+M>t. media giornaliera</E
+M>mensile</E
+M>annua</E
+M>escursione diurna</E
+M>mensile</E
+M>annua della temperatura.</E
+M>t. al suolo</E
+M>t. in quota</E
+M>della libera atmosfera</E
+M>Inversione della t.</E
+M>inversione del gradiente termico</E
+M>t. corporea</E
+M>t. normale</E
+M> febbrile</E
+M>alta</E
+M> bassa t.</E
+M>prendere</E
+M> misurare la t. a</E
+M>di una persona</E
+M>t. basale</E
+M>ha un po&#8217; di t.</E
+M> qualche linea di temperatura.</E
+M>t. permissiva</E
+M>t. restrittiva</E

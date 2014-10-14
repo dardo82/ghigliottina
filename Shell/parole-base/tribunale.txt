@@ -1,0 +1,85 @@
+tribunale.txt
+"avvocato nominato dal tribunale"
+"decisione del tribunale"
+"impiegato del tribunale"
+"in tribunale"
+"innanzi al tribunale"
+"trascinare (in tribunale; di fronte organo costituzionale)"
+"trascinare in tribunale"
+"trasferimento di una causa presso un altro tribunale"
+"tribunale"
+"tribunale"
+"tribunale circoscrizionale"
+"tribunale cittadino"
+"tribunale civile"
+"tribunale civile"
+"tribunale clandestino, tribunale illegale"
+"tribunale degli orfani"
+"tribunale di grado inferiore"
+"tribunale di polizia"
+"tribunale di prima istanza"
+"tribunale di primo grado"
+"tribunale di ultima istanza"
+"tribunale distrettuale"
+"tribunale federale di prima istanza"
+"tribunale fittizio"
+"tribunale militare"
+"tribunale minorile"
+"tribunale notturno"
+"tribunale ordinario"
+"tribunale penale"
+"tribunale per cause di minimo valore"
+"tribunale per i minorenni"
+"tribunale per le cause civili"
+"tribunale provinciale"
+M>tribunal -alis</E
+M>tribunale</E
+M>tribunalis</E
+M>stare</E
+M> sedere in t.</E
+M>sedere in t.</E
+M>andare in t.</E
+M>al palazzo del t.</E
+M>le sale</E
+M> i corridoi del t.</E
+M>gli uscieri del t.</E
+M>ci siamo incontrati in t.</E
+M>sono stato tutta la mattinata in tribunale</E
+M>portare avanti al t.</E
+M>t. civile</E
+M>sezioni civili del t.</E
+M>t. penale</E
+M>sezioni penali del t.</E
+M>t. per i minorenni</E
+M>t. amministrativo regionale</E
+M>t. della libertà</E
+M>t. fallimentare</E
+M> t. delle acque pubbliche</E
+M>t. militari</E
+M>t. militare</E
+M>Corte militare</E
+M>t. delle prede</E
+M>T. speciale per la sicurezza dello stato</E
+M>t. speciali popolari</E
+M>t. rivoluzionarî</E
+M>t. del popolo</E
+M>il t. dell&#8217;Aia</E
+M>t. Russell</E
+M>t. ecclesiastici</E
+M>ordinarî</E
+M>straordinarî</E
+M>t. vescovili</E
+M>diocesani</E
+M>t. interdiocesani</E
+M>regionali</E
+M>t. metropolitani</E
+M>tribunali della Santa Sede</E
+M>t. della Sacra Romana Rota</E
+M>Supremo t. della Segnatura Apostolica</E
+M>il t. di Dio</E
+M>presentarsi al t. di Dio</E
+M>essere chiamati a rispondere davanti al t. di Dio</E
+M>il t. della coscienza</E
+M>t. di penitenza</E
+M>il t. delle nazioni</E
+M>il t. dell&#8217;opinione pubblica</E

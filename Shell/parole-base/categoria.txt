@@ -1,0 +1,44 @@
+categoria.txt
+"associazione di categoria"
+"categoria"
+"categoria dei redditi"
+"categoria più alta; massima"
+"categoria protetta"
+"nella stessa categoria"
+"prima categoria"
+"seconda categoria"
+"terza categoria"
+"tipo\/categoria"
+*[[classe]], [[serie]], [[genere]], [[specie]], [[ordine]], [[divisione]], [[tipologia]], [[grado]], [[parte]], [[gruppo]], [[famiglia]], [[qualità]]
+*''( classe sociale)'' [[casta]], [[rango]]
+*''( livello qualitativo)  [[fascia]]
+*[[categorizzazione]]
+*italiano
+*spagnolo
+M>categor</E
+M>Sofista</E
+M>categorie dell’essere</E
+M>a priori</E
+M>sintattica</E
+M>appartenere a una c</E
+M>rientrare in una determinata c</E
+M>distinguere in categorie</E
+M>una c</E
+M>di fenomeni</E
+M>alberghi</E
+M>ristoranti</E
+M>di 1</E
+M>di 2</E
+M>categoria</E
+M>le c</E
+M>meno abbienti</E
+M>appartieni anche tu alla c</E
+M>dei fortunati</E
+M>professionale</E
+M>sindacale</E
+M>prima</E
+M>seconda</E
+M>terza c</E
+M>allievi</E
+M>dilettanti</E
+M>taxon</E

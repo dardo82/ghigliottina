@@ -1,0 +1,165 @@
+relativo.txt
+"del luna park, relativo al luna park"
+"di punto in bianco (relativo ad abitudini quali droga, fumo, alcohol, etc.)"
+"edile, relativo all'edilizia"
+"in modo relativo"
+"movimento relativo"
+"pronome relativo"
+"relativo"
+"relativo"
+"relativo"
+"relativo"
+"relativo"
+"relativo"
+"pronome relativo"
+"relativo a"
+"relativo a"
+"relativo a"
+"relativo a casa estiva, da casa estiva"
+"relativo a commercio, scambio di cavalli"
+"relativo a discipline incrociate"
+"relativo a doratura elettrolitica o vasellame in oro"
+"relativo a genitori"
+"relativo a giacimenti auriferi"
+"relativo a giacimento aurifero"
+"relativo a miniera d'oro"
+"relativo a padella"
+"relativo a romanzi"
+"relativo a sorella gemella"
+"relativo a tassa di due scellini che si pagava per ogni stufa o camino posseduti"
+"relativo a una variante del poker"
+"relativo ad investigazione"
+"relativo ad una cambiale a breve scadenza"
+"relativo ad una lista ristretta"
+"relativo al capro espiatorio"
+"relativo al corto circuito"
+"relativo al diritto comune"
+"relativo al disordine"
+"relativo al documento che stabilisce il titolo di proprietà"
+"relativo al dosare"
+"relativo al mantenimento della pace"
+"relativo al prendere nota"
+"relativo al procione"
+"relativo al servizio nido"
+"relativo al terreno, suolo, alla terra"
+"relativo al topo di campagna"
+"relativo al trotto del tacchino"
+"relativo al, per ritrovarsi, riunirsi"
+"relativo all'accordarsi (di orchestra)"
+"relativo all'affitto di un terreno"
+"relativo all'aggiungere"
+"relativo all'annuncio, all'inaugurazione"
+"relativo all'approssimazione"
+"relativo all'azione di eliminare lavando"
+"relativo all'azione di fare da balia a"
+"relativo all'azione di rimboccare"
+"relativo all'azione di riscaldare"
+"relativo all'essere in rovina"
+"relativo all'hand-off"
+"relativo all'olio di legno"
+"relativo all'ulula"
+"relativo alla caccia alle streghe"
+"relativo alla considerazione di fallimento"
+"relativo alla corsa dell'oro"
+"relativo alla discriminazione razziale"
+"relativo alla frase pronunciata dai bambini che si presentano alla porta dei vicini nel giorno di Ha"
+"relativo alla lettera maiuscola"
+"relativo alla margherita gialla"
+"relativo alla protezione della pace"
+"relativo alla salvaguardia della pace"
+"relativo alla scorciatoia"
+"relativo alla sicurezza della pace"
+"relativo alla taumaturgia"
+"relativo alla vetrina"
+"relativo allo studio dell'esistenza"
+"relativo allo svegliarsi"
+"relativo allo sviluppo"
+"relativo allo trascrivere"
+*[[attinente]], [[pertinente]], [[riguardante]], [[concernente]], [[connesso]], [[corrispondente]]
+*[[proporzionale]], [[proporzionato]]
+*[[parziale]], [[limitato]], [[circoscritto]], [[condizionato]], [[soggettivo]], [[individuale]], [[personale]]
+*[[incompleto]], [[approssimato]]
+*[[adeguato]], [[percentuale]],  [[discreto]], [[sufficiente]],   [[inerente]],    
+*[[indipendente]], [[autonomo]]
+*[[oggettivo]], [[totale]], [[assoluto]]
+*[[correlativo]], [[relativa]], [[relativamente]], [[relativismo]], [[relatività]], [[relativizzare]]
+*[[ridotto]], [[pieno]], [[scarso]] 
+M>relativus</E
+M>relatus</E
+M>referre</E
+M>ho avuto alcune notizie r</E
+M>all&#8217;esito del concorso</E
+M>presenterò la domanda con i documenti r</E
+M>tutti i dati della tabella sono r</E
+M>all&#8217;anno 1990.</E
+M>assoluto</E
+M>qui in campagna godo di una r</E
+M>tranquillità</E
+M>vive in condizioni di r</E
+M>benessere</E
+M>fa caldo rispetto alla settimana scorsa</E
+M>ma è un caldo r</E
+M>le tue affermazioni hanno un valore relativo</E
+M>assoluto</E
+M>affermare la natura r</E
+M>di ogni conoscenza</E
+M>ogni giudizio estetico è r</E
+M>ciò che è certo non può essere relativo</E
+M>assolute</E
+M>velocità r</E
+M>accelerazione r</E
+M>quiete r</E
+M>la velocità r</E
+M>della Luna rispetto alla Terra è diversa dalla velocità r</E
+M>della Luna rispetto al Sole</E
+M>moto r</E
+M>peso specifico r</E
+M>indice di rifrazione r</E
+M>umidità r</E
+M>numero r</E
+M>Massimo</E
+M>minimo</E
+M>maggioranza r</E
+M>maggioranza semplice</E
+M>maggioranza assoluta</E
+M>maggioranza qualificata</E
+M>una delibera per la cui approvazione basta la maggioranza relativa</E
+M>proposizione</E
+M>frase r</E
+M>la persona di cui ti parlavo è arrivata</E
+M>la prima dote di un amministratore è l&#8217;onestà</E
+M>ed è quella che più apprezzo nel nuovo sindaco</E
+M>pronomi</E
+M>aggettivi pronominali r</E
+M>avverbî r</E
+M>congiunzioni r</E
+M>il quale</E
+M>che</E
+M>quando</E
+M>dove</E
+M>come</E
+M>chi?</E
+M>quale?</E
+M>quanto?</E
+M>dove?</E
+M>pronomi</E
+M>aggettivi pronominali</E
+M>avverbî relativi indefiniti</E
+M>chiunque</E
+M>qualunque</E
+M>dovunque</E
+M>apprezzo chiunque amministri con onestà</E
+M>chiunque</E
+M>superlativo r</E
+M>assoluto</E
+M>il più giovane dei due fratelli</E
+M>dei figli</E
+M>tono</E
+M>tonalità r</E
+M>do maggiore</E
+M>la minore</E
+M>relativamente alla vostra domanda</E
+M>posso dirvi</E
+M>il prezzo è buono relativamente alle condizioni del mercato</E
+M>il problema è relativamente facile</E
+M>sono relativamente contento dell&#8217;esito degli esami</E

@@ -1,0 +1,27 @@
+aperitivo.txt
+"aperitivo"
+"gioco aperitivo"
+"happy hour; ora dell'aperitivo"
+#* ''erbe '''[[aperitive]]'''''
+#* ''un decottino dolcificante e '''aperitivo''' gioverebbe molto'' (Vallisneri
+*[[apertivo]],[[apritivo]]
+*italiano
+*portoghese
+*spagnolo
+M>aperitivus</E
+M>aperire</E
+M>apéritif</E
+M>erbe a</E
+M>radici a</E
+M>un decottino dolcificante e a</E
+M>gioverebbe molto</E
+M>apertivo</E
+M>apritivo</E
+M>prendere l’a</E
+M>un a</E
+M>offrire un a</E
+M>l’ora dell’a</E
+M>un a</E
+M>al selz</E
+M>amari</E
+M>bitter</E

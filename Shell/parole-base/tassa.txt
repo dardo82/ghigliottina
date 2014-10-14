@@ -1,0 +1,71 @@
+tassa.txt
+"deducibile di tassa"
+"imposta o tassa per il sostentamento dei poveri"
+"la tassa che si paga per usare un campo da golf"
+"relativo a tassa di due scellini che si pagava per ogni stufa o camino posseduti"
+"tassa"
+"tassa"
+"tassa ad valorem"
+"tassa che si paga per giocare in un campo da golf"
+"tassa d'importazione"
+"tassa d'iscrizione"
+"tassa del valore aggiunto"
+"tassa di ancoraggio"
+"tassa di attivazione"
+"tassa di bollo"
+"tassa di bollo"
+"tassa di concessione"
+"tassa di due scellini che si pagava per ogni stufa o camino posseduti"
+"tassa di imbarco"
+"tassa di liquidazione"
+"tassa di proprietà"
+"tassa di registrazione, tassa di iscrizione"
+"tassa di soggiorno"
+"tassa di successione"
+"tassa doganale"
+"tassa federale"
+"tassa governativa"
+"tassa governativa, tassa statale"
+"tassa locale"
+"tassa locale sulla proprietà"
+"tassa o imposta provinciale"
+"tassa pro-capite"
+"tassa progressiva sul reddito"
+"tassa scolastica"
+"tassa sui beni mobili"
+"tassa sul consumo"
+"tassa sul reddito"
+"tassa sulla benzina"
+"tassa sulla casa"
+"tassa sulle vendite"
+"una tassa, imposta"
+*[[imposizione]], [[contribuzione]], [[contributo]], trattenuta, [[tributo]], [[imposta]]
+*imposta sul reddito.
+* [[pedaggio]], [[dazio]], [[balzello]]
+*[[esenzione]], [[esonero]], [[condono]], [[sgravio]]
+*[[soprattassa]]
+*[[tributo]]
+M>taxa</E
+M>taxare</E
+M>imposta</E
+M>t. fisse</E
+M>t. variabili</E
+M>t. proporzionali</E
+M>progressive</E
+M>scalari</E
+M>t. giudiziarie</E
+M>t. sugli atti della giustizia civile</E
+M>t. scolastiche</E
+M>t. sulle concessioni</E
+M>governative</E
+M> regionali</E
+M> comunali</E
+M>t. sui certificati</E
+M>imposta</E
+M>pagare le t.</E
+M>sono uno che paga le t.</E
+M> io!</E
+M>le t. sono aumentate</E
+M>metà del reddito se ne va in tasse</E
+M>tariffa</E
+M>t. aeroportuali</E

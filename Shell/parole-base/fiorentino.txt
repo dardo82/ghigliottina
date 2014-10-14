@@ -1,0 +1,26 @@
+fiorentino.txt
+"fiorentino"
+"fiorentino"
+M>Florent</E
+M>nus</E
+M>Florentia</E
+M>Fiorenza</E
+M>i colli f</E
+M>parlata</E
+M>pronuncia fiorentina</E
+M>vernacolo f</E
+M>dialetto f</E
+M>lingua f</E
+M>volgar fiorentino</E
+M>lingua toscana</E
+M>volgar toscano</E
+M>stile f</E
+M>alla fiorentina</E
+M>bistecca alla f</E
+M>fiorentina</E
+M>legature alla f</E
+M>l’arguzia tipica dei f</E
+M>la grazia gentile delle fiorentine</E
+M>il Fiorentino</E
+M>fiorentini</E
+M>toppa</E

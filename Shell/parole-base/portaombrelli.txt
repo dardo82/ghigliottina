@@ -1,0 +1,5 @@
+portaombrelli.txt
+"portaombrelli"
+M>portare</E
+M>ombrello</E
+M>vaso portaombrelli</E

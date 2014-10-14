@@ -1,0 +1,38 @@
+cuoco.txt
+"aiuto cuoco"
+"capo cuoco"
+"cuoco"
+"cuoco a domicilio"
+"prova del cuoco"
+*[[cuciniere]]
+*''I troppi cuochi guastano la cucina''
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 567
+M>quus</E
+M>cus</E
+M>coqu</E
+M>chi</E
+M>il c</E
+M>i c</E
+M>dell’albergo</E
+M>del ristorante</E
+M>della nave</E
+M>del collegio</E
+M>del convento</E
+M>fare il c.</E
+M> la c</E
+M>assumere un c</E
+M>cinese</E
+M>dare disposizioni alla c</E
+M>per il pranzo</E
+M>oggi faccio io il c</E
+M>si lamenta di dover fare sempre la c</E
+M>e la bambinaia</E
+M>mentre le sue amiche hanno un impiego</E
+M>troppi c</E
+M>guastano la cucina</E
+M>sei una brava c</E
+M>un’ottima c</E
+M>una pessima c</E
+M>si vanta di essere un c. raffinato</E
+M>Gran c</E
+M>gran cuciniere</E

@@ -1,0 +1,5 @@
+rima.txt
+"rima"
+"rima"
+"rima, replace: rime"
+"schema delle rime, tipo di rima"

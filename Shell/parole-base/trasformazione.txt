@@ -1,0 +1,60 @@
+trasformazione.txt
+"industria di trasformazione"
+"profonda trasformazione"
+"trasformazione"
+"trasformazione"
+"trasformazione affine"
+"trasformazione in"
+"trasformazione in fiction"
+"trasformazione lineare"
+*[[ cambiamento]], [[modifica]], [[modificazione]], [[variazione]], [[alterazione]], [[metamorfosi]], [[mutamento]], [[conversione]], [[trasmutazione]], [[trasfigurazione]]
+*[[miglioramento]], [[ottimizzazione]], [[potenziamento]], [[rinnovamento]], [[riforma]], [[correzione]]; [[peggioramento]], [[rovina]], [[danno]], [[deterioramento]], [[snaturamento]]
+*[[mantenimento]], [[conservazione]], [[immobilità]], [[immobilismo]]
+M>transformatio -onis</E
+M>transformare</E
+M>operare</E
+M> attuare una t.</E
+M>la t. di una città</E
+M>di una regione</E
+M>t. fondiaria</E
+M>un disegno di legge</E
+M>un progetto</E
+M>un piano regolatore che ha già subìto notevoli t.</E
+M>le successive t. di un tipo di autovettura</E
+M>la t. di una vecchia caserma in museo</E
+M>le rapide t. della società</E
+M>dei costumi</E
+M>t. di un ente culturale in società per azioni</E
+M>la t. del carattere</E
+M>del modo di pensare</E
+M>t. irreversibile</E
+M>t. reversibili</E
+M>t. adiabatica</E
+M>isoterma</E
+M>isoentropica</E
+M>isocora</E
+M>isobara</E
+M>t. razionali</E
+M> t. conformi</E
+M>isometrie</E
+M>omotetie</E
+M>proiettività. Gruppi di trasformazioni</E
+M>Geometria delle t.</E
+M>t. galileiane</E
+M>r + vt</E
+M>t. di Lorentz</E
+M>t. di calibratura</E
+M>gauge</E
+M>t. della società</E
+M>t. di un bene in un altro</E
+M>saggio marginale di t.</E
+M>test di trasformazione dei linfociti in vitro</E
+M>t. semplici</E
+M>t. di modo</E
+M>di intenzione</E
+M>d&#8217;aspetto</E
+M>t. complesse</E
+M>t. di descrizione</E
+M>di supposizione</E
+M>calcio di t.</E
+M>trasformazione</E

@@ -1,0 +1,48 @@
+provinciale.txt
+"campagnolo, provinciale"
+"comando provinciale"
+"legislatura provinciale"
+"mentalità provinciale"
+"parlamento provinciale"
+"provinciale"
+"provinciale"
+"provinciale"
+"provinciale"
+"provinciale"
+"strada provinciale"
+"provinciale; rustico"
+"strada provinciale"
+"strada secondaria, strada provinciale, strada locale"
+"tassa o imposta provinciale"
+"tribunale provinciale"
+#*''mettersi il [[tovagliolo]] al collo è da '''provinciale'''''
+*[[provincia]]
+*[[provincialismo]]
+*[[provincialità]]
+*[[provincializzare]]
+*[[w
+*[[w
+M>provincialis</E
+M>circoscrizione p</E
+M>giunta</E
+M>consiglio p</E
+M>strade p</E
+M>legge comunale e p</E
+M>medico</E
+M>veterinario p</E
+M>mentalità p</E
+M>modi</E
+M>abitudini</E
+M>gusti provinciali</E
+M>sono dei p</E
+M>nel suo modo di vestire si riconosce il p</E
+M>un p</E
+M>ingenuo</E
+M>una p</E
+M>riguardosa delle apparenze</E
+M>ossessionata dal timore dello scandalo</E
+M>ritardo p</E
+M>concilio p</E
+M>padre p</E
+M>organizzare provincialmente una serie di incontri sportivi</E
+M>una situazione culturale provincialmente arretrata</E

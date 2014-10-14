@@ -1,0 +1,20 @@
+gambero.txt
+"coda di gambero"
+"gambero"
+M>camm</E
+M>rus</E
+M>camb</E
+M>rus</E
+M>gambero di fiume</E
+M>Astacus astacus</E
+M>gambero di mare</E
+M>lupicante</E
+M>astice</E
+M>Homarus vulgaris</E
+M>imperiale</E
+M>spannocchio</E
+M>gamberetto</E
+M>essere</E
+M>diventare rosso come un g</E
+M>fare come i g</E
+M>lasciatura</E

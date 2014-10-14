@@ -1,0 +1,31 @@
+diploma.txt
+"cerimonia di laurea o diploma"
+"di specializzazione (post diploma o post laurea)"
+"diploma"
+"diploma, degree"
+"diploma"
+"high school diploma"
+"diploma"
+"diploma di geometra"
+"diploma in surveying"
+"diploma di laurea"
+"diploma di livello avanzato, diploma di eccellenza"
+"diploma di master"
+"diploma di maturità"
+"diploma di ragioneria"
+"diploma magistrale"
+"ottenere un diploma"
+#*'' ha conseguito il 
+*''Aria d'importanza 
+*italiano
+*inglese
+M>diploma</E
+M>tis</E
+M>privilegi</E
+M>di nobiltà</E
+M>di onorificenza</E
+M>di benemerenza</E
+M>di laurea</E
+M>di maturità classica</E
+M>conseguire il d</E
+M>di ragioniere</E

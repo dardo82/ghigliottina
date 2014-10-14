@@ -1,0 +1,180 @@
+raccogliere.txt
+"per raccogliere a mano"
+"raccogliere"
+"raccogliere"
+"raccogliere"
+"raccogliere"
+"raccogliere"
+"raccogliere"
+"raccogliere, replace: raccogliersi"
+"raccogliere, replace: raccogliersi"
+"raccogliere, replace: raccogliersi"
+"raccogliere, replace: raccogliersi"
+"raccogliere (coraggio, pazienza)"
+"raccogliere (i pensieri)"
+"raccogliere (le proprie forze)"
+"raccogliere accuse"
+"raccogliere con uno straccio"
+"raccogliere denaro"
+"raccogliere e portare via"
+"raccogliere e riordinare"
+"raccogliere i frutti del proprio lavoro."
+"raccogliere i vantaggi di"
+"raccogliere il testimone"
+"raccogliere informazioni"
+"raccogliere l'uva"
+"raccogliere noci"
+"raccogliere prove"
+"raccogliere tariffe"
+"raccogliere; riunire; mettere insieme"
+"spazzare, raccogliere"
+#*''Lo studente '''raccolse''' la penna che gli era caduta.''
+#*''Bambini, '''raccogliete''' tante ciligie, ché vi faccio la marmellata''
+#*''Decisero di '''raccogliere''' del denaro per finanziare la loro impresa''
+#*''Il centro '''raccoglieva''' e sfamava un gran numero di senzatetto''
+*[[raccoglimento]], [[raccogliticcio]], [[raccoglitore]], [[raccoglitrice]], [[raccogliersi]] 
+M>cogliere</E
+M>cogliere</E
+M>il cappel lordo e il vano Baston dispersi ne la via raccoglie</E
+M>un sasso</E
+M>una moneta</E
+M>una lettera</E
+M>il fazzoletto</E
+M>uno ubriaco</E
+M>svenuto</E
+M>moribondo</E
+M>i morti</E
+M>i feriti</E
+M>sul campo di battaglia</E
+M>lo raccogliemmo in fin di vita</E
+M>la palla</E
+M>il pallone</E
+M>un passaggio</E
+M>il centravanti raccoglie e avanza</E
+M>r. il guanto</E
+M>non r</E
+M>una provocazione</E
+M>lei lo provoca</E
+M>ma lui non raccoglie</E
+M>cogliere</E
+M>il grano</E
+M>le patate</E
+M>le fave</E
+M>i fagioli</E
+M>i piselli</E
+M>il fieno</E
+M>il trifoglio</E
+M>raccolsero una grande quantità di frumento</E
+M>quest’anno i contadini temono di r</E
+M>poco</E
+M>chi parla semina</E
+M>chi tace raccoglie</E
+M>chi mal semina</E
+M>mal raccoglie</E
+M>chi semina vento</E
+M>raccoglie tempesta</E
+M>il frutto delle proprie fatiche</E
+M>di un lungo lavoro</E
+M>dei proprî sudori</E
+M>questo è il frutto che ho raccolto dalle mie esperienze</E
+M>lodi</E
+M>onori</E
+M>successo</E
+M>la proposta raccolse scarsa approvazione</E
+M>è un’iniziativa che ha raccolto molti consensi</E
+M>ha riscosso</E
+M>che non raccoglie molto favore</E
+M>incontra</E
+M>denaro</E
+M>oboli</E
+M>documenti</E
+M>citazioni</E
+M>esempî</E
+M>argomenti</E
+M>notizie</E
+M>indizî</E
+M>uomini</E
+M>soldati</E
+M>compagni</E
+M>intorno a sé gli amici</E
+M>la famiglia</E
+M>i mille intorno Dispersi arnesi alfin raccolse in uno</E
+M>il Po raccoglie le acque di molti affluenti</E
+M>in quel volume sono raccolte le poesie giovanili del Carducci</E
+M>è uno studioso che raccoglie canti popolari</E
+M>monete antiche</E
+M>francobolli</E
+M>ceramiche</E
+M>vasi cinesi</E
+M>quadri</E
+M>libri rari</E
+M>le schede dei votanti</E
+M>i voti</E
+M>il segretario raccolse i nomi dei presenti</E
+M>in sé</E
+M>in te raccogli Quanto di bello e di glorioso e grande Sparse in cento di loro arte o natura</E
+M>una donna eccezionale</E
+M>che raccoglie in sé bellezza</E
+M>intelligenza e cultura</E
+M>nel figlio sono raccolte le migliori caratteristiche di tutti e due i genitori</E
+M>i fedeli si raccolgono in chiesa</E
+M>le foglie</E
+M>cadute per il vento</E
+M>si erano raccolte sul bordo della strada</E
+M>i soldati superstiti si raccolsero intorno al comandante</E
+M>alla bandiera</E
+M>apparecchi per r</E
+M>raggi luminosi</E
+M>onde sonore</E
+M>tutti gli occhi si raccolsero su di lei</E
+M>molti concetti in poche frasi</E
+M>i fanciulli abbandonati</E
+M>gli orfani</E
+M>è un istituto che raccoglie i senza tetto</E
+M>Tu per lei prega</E
+M>sì che fida ancella Possa in ogni fortuna a te raccorsi</E
+M>ciascuno alla sua camera si raccolse</E
+M>al ciel</E
+M>che</E
+M>ha in sé raccolto Lo spirto da le belle membra sciolto</E
+M>Rinaldo poi si volse a Sansonetto</E
+M>E lo raccolse col debito onore</E
+M>la terra Che lo raccolse infante e lo nutriva</E
+M>il parto</E
+M>un’eredità</E
+M>l’amistà raccolga Non di tesori eredità</E
+M>ma caldi Sensi e di liberal carme l’esempio</E
+M>aveva il pellegrino le sue parole finite</E
+M>quando la donna</E
+M>che attentissimamente le raccoglieva</E
+M>il re</E
+M>udite queste parole</E
+M>raccolse bene la cagione del convito</E
+M>Poi ch’ebbe la parola a sé raccolta</E
+M>la contessa queste parole intendendo raccolse bene</E
+M>le ali</E
+M>le gambe</E
+M>il corpo</E
+M>le vele</E
+M>le sartie</E
+M>le reti</E
+M>le forze</E
+M>i pensieri</E
+M>la mente</E
+M>lo spirito</E
+M>faticato dal peso delle pietre e dalla rabbia</E
+M>non poteva raccoglier lo spirito a formare intera la parola alla risposta</E
+M>i passi</E
+M>il volo</E
+M>Quantunque debil freno a mezzo il corso Animoso destrier spesso raccolga</E
+M>il gatto si raccolse per spiccare il salto</E
+M>Ma si raccoglie e si ristringe in guardia</E
+M>Nel suo onorato seggio si raccolse</E
+M>raccogliersi in</E
+M>nella</E
+M>preghiera</E
+M>nella</E
+M> contemplazione</E
+M>prima di parlare</E
+M>si raccolse per qualche tempo</E
+M>si raccolse in silenzio davanti alla tomba</E

@@ -1,0 +1,43 @@
+forzare.txt
+"costringere, forzare, imporre"
+"forzare"
+"forzare"
+"forzare"
+"forzare la mano"
+"forzare la serratura"
+"forzare le dimissioni"
+"forzare per fare approvare, spingere"
+#*'' ho smarrito  in giardino le chiavi della porta, per questo ho dovuto forzare la finestra per rientrare in  casa '' 
+*[[obbligare]], [[costringere]], [[sforzare]], [[imporre]], [[indurre]], [[coartare]]
+*[[scassinare]], [[manomettere]], [[scardinare]], [[rompere]], [[spezzare]]
+*[[forza]], [[forzamento]], [[forzarsi]], [[forzato]], [[forzatura]]
+M>rtiare</E
+M>fortia</E
+M>io fòrzo</E
+M>il tappo nel collo del fiasco</E
+M>hai forzato troppo la vite e la filettatura s’è spanata</E
+M>la scarpa è stretta e bisogna f</E
+M>il piede per farlo entrare</E
+M>una serratura</E
+M>una cassaforte</E
+M>la linea difensiva avversaria</E
+M>il blocco</E
+M>uno sbarramento nemico</E
+M>un assedio</E
+M>la consegna</E
+M>forzi troppo con quel remo</E
+M>ho una scarpa che mi forza sul tallone</E
+M>questo cassetto forza un po’</E
+M>il motore</E
+M>la voce</E
+M>il passo</E
+M>la marcia</E
+M>il senso di una parola</E
+M>l’interpretazione di un passo</E
+M>i tempi</E
+M>una persona</E
+M>la mano a una persona</E
+M>l’hanno forzato a firmare</E
+M>fui forzato a dir di sì</E
+M>se non si sente di mangiare</E
+M>non forzarla!</E

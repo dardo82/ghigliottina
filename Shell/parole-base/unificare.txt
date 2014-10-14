@@ -1,0 +1,22 @@
+unificare.txt
+"unificare"
+"unificare, replace: unificarsi"
+"unificare una quantità"
+*[[unificabile]]
+*[[unificazione]]
+M>unificare</E
+M>unus</E
+M>-ficare</E
+M>io unìfico</E
+M> tu unìfichi</E
+M>i patrioti del Risorgimento miravano a u. l’Italia</E
+M>u. le varie correnti di un partito</E
+M>correnti politiche che tendono a unificarsi</E
+M>u. i codici</E
+M> le leggi</E
+M>partito socialista unificato</E
+M>industrie unificate</E
+M> produzione unificata</E
+M>contributi unificati</E
+M>teorie unificate</E
+M>teoria unificata elettrodebole</E

@@ -1,0 +1,54 @@
+dorso.txt
+"con il dorso bianco"
+"dal dorso nero"
+"dal dorso verde"
+"dorso"
+"dorso"
+"dorso"
+"dorso"
+"dorso"
+"dorso (nuoto)"
+"il battere le gambe come nel dorso e nel crawl"
+"ponte a schiena d'asino, ponte a dorso d'asino"
+#*''stendersi a terra sul dorso''
+#*''nella prima guerra mondiale gli alpini trasportarono  in montagna i loro armamenti a dorso di mulo''
+#*''quel pugile, prima della gara,mostrò al suo avversario, il dorso della mano in segno di sfida''
+#*''sulla scaffale della libreria intravide il dorso di un  rarissimo  libro''
+* (di persona) [[schiena]], [[spalle]]
+*(di animali) [[groppa]]
+*(di libro) [[costa]], [[costola]]
+*(di monte) [[crinale]], [[cresta]], [[sommità]]
+* (di persona) [[petto]], [[torace]], [[sterno]]
+*''mostrare il dorso''
+M>rsum</E
+M>schiena</E
+M>l’artrosi non mi consente di piegare il d</E
+M>dormire sul d</E
+M>galleggiare sul dorso</E
+M>spianare il d</E
+M>di qualcuno</E
+M>a qualcuno</E
+M>piegare il d</E
+M>mostrare il d</E
+M>andare</E
+M>trasportare a d</E
+M>di mulo</E
+M>nuoto</E
+M> crawl</E
+M> dorsale</E
+M>fare il dorso</E
+M>200 metri dorso.</E
+M>della mano</E
+M>di un libro</E
+M>costola</E
+M>falso d</E
+M>anima</E
+M>dorsetto</E
+M>faccia dorsale</E
+M>ventre</E
+M>faccia ventrale</E
+M>fotocamera a d</E
+M>intercambiabile</E
+M>Borea allor che scote il dorso De l’Apennino</E
+M>l’isole che col selvoso dorso Rompono agli Euri e al grande Ionio il corso</E
+M>roccioso</E

@@ -1,0 +1,43 @@
+distruzione.txt
+"armi di distruzione di massa"
+"devastazione, distruzione"
+"distruzione"
+"distruzione"
+"distruzione"
+"distruzione completa"
+"distruzione della vita"
+"distruzione di massa"
+"distruzione totale"
+"soggetto alla distruzione dei microbi"
+*[[demolizione]], [[devastazione]], [[abbattimento]], [[smantellamento]], [[devastazione]], [[saccheggio]], [[scempio]]
+*[[costruzione]], [[edificazione]], [[rifacimento]], [[riassetto]] 
+*[[autodistruzione]]
+M>destructio</E
+M>onis</E
+M>destru</E
+M>la d</E
+M>di Cartagine e di Corinto</E
+M>la d</E
+M>di Pompei e di Ercolano</E
+M>di insetti nocivi</E
+M>la d</E
+M>del patrimonio zoologico</E
+M>portare</E
+M>seminare ovunque d</E
+M>e morte</E
+M>le d</E
+M>causate dalla guerra</E
+M>dai terremoti</E
+M>dalle alluvioni</E
+M>tiri di distruzione</E
+M>di opere militari</E
+M>d’atto pubblico</E
+M>di scrittura privata</E
+M>delle prove</E
+M>di corrispondenza</E
+M>di cadavere</E
+M>istinti di d</E
+M>le discordie sono la d</E
+M>dei popoli</E
+M>ragazzi troppo vivaci che sono la d</E
+M>della casa</E

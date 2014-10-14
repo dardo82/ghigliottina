@@ -1,0 +1,29 @@
+ricominciare.txt
+"ricominciare"
+*[[riprendere]]
+*[[cominciare]]
+M>cominciare</E
+M>io ricomìncio</E
+M>il gioco</E
+M>un lavoro</E
+M>una lettera</E
+M>una ricerca</E
+M>ricominciò più volte il suo discorso</E
+M>senza riuscire a concludere</E
+M>Dolce color d&#8217;orïental zaffiro</E
+M>A li occhi miei ricominciò diletto</E
+M>a parlare</E
+M>a scrivere</E
+M>ho ricominciato a fumare</E
+M>il malato ricominciò a lamentarsi</E
+M>tacque un momento</E
+M>e poi ricominciò</E
+M>ricominciamo daccapo</E
+M>si ricomincia!</E
+M> non r. con le tue fisime!</E
+M>non ricominciamo con le solite polemiche!</E
+M>essere</E
+M>il gioco ricominciò più accanito di prima</E
+M>il freddo ricomincia</E
+M>ricomincia a piovere</E
+M>già ricominciato a far caldo</E

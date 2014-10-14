@@ -1,0 +1,75 @@
+cogliere.txt
+"cogliere"
+"cogliere"
+"cogliere"
+"cogliere"
+"cogliere al volo"
+"cogliere al volo"
+"cogliere al volo"
+"cogliere con le mani nel sacco"
+"cogliere di sorpresa"
+"cogliere il punto"
+"cogliere in flagranza"
+"Cogliere l'attimo"
+"cogliere l'occasione"
+"cogliere l'occasione"
+"cogliere l'occasione"
+"cogliere l'opportunità"
+"cogliere lo sguardo"
+"Cogliere nel segno"
+"cogliere nel segno"
+"fare centro; cogliere nel segno; raggiungere lo scopo"
+"non cogliere di sorpresa"
+#*''stamane ho '''colto''' due rose, ho '''colto''' tutti gli agrumi del giardino''
+#*'''''hai ''colto''' il bersaglio giusto nel centro, la pallottola lo '''colse''' in pieno petto''
+#*'''cogliere''' la palla al balzo''
+#*'''''cogliere''' il senso di una frase, di una allusione''
+* [[coltura]], [[raccogliere]]
+M>coll</E
+M>io còlgo</E
+M>tu cògli</E
+M>còlsi</E
+M>cogliésti</E
+M>coglierò</E
+M>corrò</E
+M>còlto</E
+M>un fiore</E
+M>una rosa</E
+M>un frutto</E
+M>l’uva</E
+M>l’uva</E
+M>coglier fichi</E
+M>colsi un ramicel da un gran pruno</E
+M>cogli la rosa e lascia star la spina</E
+M>il più bel fiore</E
+M>Il più bel fior ne coglie</E
+M>Canz</E
+M>e ’l più bel fior ne colse</E
+M>i frutti del proprio lavoro</E
+M>delle proprie fatiche</E
+M>allori</E
+M>Vien fuor la femminetta a còr dell’acqua Della novella piova</E
+M>coglievano pedaggio</E
+M>essere</E
+M>nel segno</E
+M>in pieno</E
+M>alla prima</E
+M>a caso</E
+M>la palla</E
+M>la palla al balzo</E
+M>l’occasione</E
+M>il momento</E
+M>il senso della frase</E
+M> Nascosto dentro il letto Colgo i profili dei ragionamenti Che scorrono sul silenzio delle membra</E
+M>in fallo</E
+M>in flagrante</E
+M>alla sprovvista</E
+M>la notte ci colse in aperta campagna</E
+M>è stato colto mentre rubava una mela</E
+M>Ricorditi</E
+M>lettor</E
+M>se mai ne l’alpe Ti colse nebbia</E
+M>incogliere</E
+M>mal te ne colga</E
+M>mal gliene colse</E
+M>addugliare</E

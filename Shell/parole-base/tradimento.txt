@@ -1,0 +1,26 @@
+tradimento.txt
+"a tradimento"
+"alto tradimento"
+"mangiapane a tradimento"
+"tradimento"
+*[[inganno]]
+M>tradire</E
+M>tradimentum</E
+M>commettere un t.</E
+M>macchiarsi di un t. infamante</E
+M>t. di un&#8217;idea</E
+M>di una causa</E
+M>dei compagni di lotta</E
+M>di un amico</E
+M>il loro matrimonio è fallito</E
+M> pare per i continui t. del marito</E
+M>tradimento</E
+M>condannare alla fucilazione per t.</E
+M>alto t.</E
+M>high treason</E
+M>a tradimento</E
+M>la città fu presa a t.</E
+M>lo uccisero a t.</E
+M>gli si avvicinò furtivamente e lo colpì a t.</E
+M>mangiare il pane a t.</E
+M>fare una domanda a t.</E

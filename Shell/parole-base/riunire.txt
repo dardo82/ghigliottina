@@ -1,0 +1,40 @@
+riunire.txt
+"raccogliere; riunire; mettere insieme"
+"riunire"
+"riunire"
+"riunire le informazioni"
+*[[riunione]]
+*[[riunirsi]]
+*[[riunito]]
+M>unire</E
+M>io riunisco</E
+M>tu riunisci</E
+M>il capitano cercò di r</E
+M>i soldati dispersi</E
+M>il pastore gridava e correva qua e là sforzandosi di r</E
+M>le pecore sparse</E
+M>con grande fatica poté r</E
+M>i pezzi della lettera stracciata</E
+M>si erano separati</E
+M>ma ora la disgrazia li ha riuniti</E
+M>dopo due anni di lontananza</E
+M>ha potuto riunirsi alla famiglia</E
+M>si riunirono al resto della compagnia</E
+M>i fratelli hanno preso ciascuno la sua strada e non si sono più riuniti</E
+M>riunì le monete che gli rimanevano nel palmo della mano</E
+M>raccogliere</E
+M>il colonnello riunì gli ufficiali nel cortile della caserma</E
+M>il preside decise di r</E
+M>il consiglio dei professori</E
+M>i dissidenti si riunirono in un&#8217;altra sala</E
+M>il consiglio comunale si è riunito in seduta straordinaria</E
+M>il consiglio dei ministri si riunirà la prossima settimana</E
+M>i condòmini si sono riuniti in assemblea giovedì scorso</E
+M>i soci hanno deciso di riunirsi almeno una volta al mese</E
+M>riunirsi tra parenti</E
+M>tra amici</E
+M>il padre guardava commosso la sua famiglia riunita</E
+M>eccoci finalmente tutti riuniti</E
+M>portava i capelli riuniti dietro la nuca</E
+M>società riunite</E
+M>ospedali riuniti</E

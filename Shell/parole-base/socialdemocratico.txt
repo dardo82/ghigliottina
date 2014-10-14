@@ -1,0 +1,11 @@
+socialdemocratico.txt
+"Traduzione di socialdemocratico/ non trovata.\nNo translation was found for socialdemocratico/."
+M>sociale</E
+M>democratico</E
+M>sozialdemokratisch</E
+M>-ci</E
+M>partito s.</E
+M>i deputati s.</E
+M>un s.</E
+M>una s.</E
+M>i socialdemocratici</E

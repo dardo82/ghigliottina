@@ -1,0 +1,25 @@
+eleganza.txt
+"eleganza"
+"vestirsi con eleganza"
+"vestito con eleganza, elegante"
+#*''il cigno aggraziato è un simbolo di 
+*[[elegante]]
+M>elegantia</E
+M>l’e</E
+M>del vestito</E
+M>della persona</E
+M>del portamento</E
+M>del dire</E
+M>dello scrivere</E
+M>di stile</E
+M>d’immagini</E
+M>di concetti</E
+M>minuziosa</E
+M>eccessiva</E
+M>studiata</E
+M>ricercata e</E
+M>d’una dimostrazione</E
+M>di una formula</E
+M>di una soluzione</E
+M>le e</E
+M>stilistiche dei classici</E

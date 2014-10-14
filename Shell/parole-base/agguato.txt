@@ -1,0 +1,13 @@
+agguato.txt
+"agguato"
+"agguato"
+"aspettare in agguato"
+"in agguato"
+M>cadere</E
+M>farsi prendere in un a</E
+M>tendere un a</E
+M>stare</E
+M>porsi in agguato</E
+M>zona d’a</E
+M>tenere l’a</E
+M>lasciare l’agguato</E

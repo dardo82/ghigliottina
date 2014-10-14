@@ -1,0 +1,63 @@
+azienda.txt
+"amministratore d'azienda"
+"assicurazione di gruppo (di solito; lavoratori di una stessa azienda)"
+"azienda"
+"azienda"
+"azienda a gestione familiare"
+"azienda agricola"
+"azienda arboricola da legno"
+"azienda che assume solo iscritti al sindacato"
+"azienda con impiegati non iscritti al sindacato"
+"azienda con policultura"
+"azienda conduzione familiare"
+"azienda dei trasporti"
+"azienda dei trasporti pubblici"
+"azienda di pubblico servizio"
+"azienda di pubblico servizio"
+"azienda di servizi"
+"azienda municipale"
+"azienda ospedaliera"
+"azienda produttrice di motori"
+"azienda pubblica"
+"azienda pubblica"
+"azienda traballante"
+"azienda vinicola"
+"città aziendale, città abitata maggiormente dai dipendenti di una stessa azienda"
+"con l'azienda"
+"direzione d'azienda"
+"dirigente d'azienda"
+"liquidazione di una azienda"
+"piccola azienda"
+"studio su un'azienda"
+"test di prova nel mercato fatto da un azienda"
+#* '''''azienda''' agricola'', ''azienda ospedaliera''
+#*'''azienda pubblica''', controllata dallo [[stato]]
+*[[ditta]], [[società]], [[impresa]], [[ente]], [[amministrazione]]
+*[[azienda autonoma]], [[azienda di credito]], [[azienda di erogazione]], [[azienda familiare]], [[aziendale]], [[aziendalismo]], [[aziendalista]]
+*[[gruppo]]
+M>hazienda</E
+M>hacienda</E
+M>faccenda</E
+M>facienda</E
+M>agraria</E
+M>agricola</E
+M>commerciale</E
+M>industriale</E
+M>pubblica</E
+M>privata</E
+M>familiare</E
+M>ingrandire l’a</E
+M>paterna</E
+M>gestire un’a</E
+M>di produzione</E
+M>municipalizzata</E
+M>autonoma</E
+M>statale</E
+M>regionale</E
+M>provinciale</E
+M>comunale</E
+M>a. provinciale</E
+M> o regionale</E
+M> del turismo</E
+M>a. sanitaria locale</E
+M>di credito</E

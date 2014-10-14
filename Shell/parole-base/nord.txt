@@ -1,0 +1,152 @@
+nord.txt
+"a nord"
+"a nord"
+"a nord"
+"a nord"
+"a nord ovest"
+"a nord ovest"
+"abitante del nord"
+"americano del nord"
+"ascendente dell'Irlanda del Nord"
+"catena di negozi di elettronica nell'America del Nord"
+"confine tra gli stati del Nord e quelli del Sud"
+"costa nord"
+"curva nord"
+"da nord"
+"da nord"
+"dal nord"
+"del polo nord"
+"di nord ovest"
+"di nord ovest"
+"di nord ovest"
+"diretto a nord"
+"diretto a nord"
+"diretto a nord"
+"diretto a nord est"
+"diretto a nord ovest"
+"diretto a nord- est"
+"diretto a nord- est"
+"dritto verso nord"
+"est nord-est"
+"estremo nord"
+"i due stati della Carolina (Carolina del Nord e Carolina del Sud)"
+"il lato che dà a nord"
+"il più a nord"
+"Irlanda del nord"
+"lato a nord"
+"Lega Nord"
+"Mare del Nord"
+"marmotta nord americana"
+"nel lontano nord"
+"nord"
+"nord"
+"nord"
+"nord africano"
+"nord americano"
+"Nord Dakota"
+"Nord Dakota"
+"nord geografico"
+"nord magnetico"
+"nord ovest"
+"Nord Ovest"
+"nord ovest"
+"nord-est"
+"nord-est"
+"nord-est"
+"nord-est"
+"nord-est"
+"Nord-Est"
+"nord-nord est"
+"nord-nord est"
+"nord-nord ovest"
+"nord-nord ovest"
+"Nord-Ovest"
+"Organizzazione del Trattato Nord Atlantico"
+"Ovest-Nord-Ovest"
+"polo nord"
+"Polo Nord"
+"stato (USA) del nord ovest"
+"tedesco del nord antico"
+"venderebbe il ghiaccio al polo nord"
+"vento del nord"
+"verso nord"
+"verso nord"
+"verso nord"
+"verso nord ovest"
+"verso nord- est"
+"verso nord- est"
+#*''Berlino è più a nord di Londra''  
+*[[settentrione]], [[mezzanotte]]
+*[[sud]]
+*[[nord-est]], [[nordico]], [[nordista]], [[nord-ovest]]
+M>norte</E
+M>nord</E
+M>nord</E
+M>north</E
+M>settentrione</E
+M>tramontana</E
+M>mezzanotte</E
+M>sud</E
+M>mezzogiorno</E
+M>dirigersi a nord</E
+M>marciare verso il n</E
+M>l’ago della bussola indica la direzione del n</E
+M>un appartamento rivolto</E
+M>una camera esposta a n</E
+M>la finestra guarda a n</E
+M>il vento del n</E
+M>essere</E
+M>trovarsi a n</E
+M>a n</E
+M>di Milano</E
+M>più a n</E
+M>di Roma</E
+M>a n</E
+M>del 33° parallelo</E
+M>polo n</E
+M>celeste</E
+M>polo n</E
+M>terrestre</E
+M>la latitudine n</E
+M>la zona n</E
+M>della città</E
+M>la tangenziale n</E
+M>l’uscita n</E
+M>dell’autostrada</E
+M>il n</E
+M>dell’Africa</E
+M>dell’Europa</E
+M>l’Italia</E
+M>la Francia del n</E
+M>Palermo è nel n</E
+M>della Sicilia</E
+M>spingersi fino all’estremo n</E
+M>della Groenlandia</E
+M>i ghiacciai del Nord</E
+M>emigrare al nord</E
+M>il divario Nord-Sud</E
+M>le industrie del Nord</E
+M>il Nord Africa</E
+M>il Nord America</E
+M>nordamericano</E
+M>nord</E
+M>atlantico</E
+M>nord</E
+M>coreano</E
+M>nord</E
+M>est</E
+M>nord</E
+M>ovest</E
+M>nord</E
+M>orientale</E
+M>nord</E
+M>occidentale</E
+M>nordorientale</E
+M>nordoccidentale</E
+M>il N</E
+M>della bussola</E
+M>l’estremità polare n</E
+M>polo n</E
+M>dell’ago</E
+M>magnetismo n</E
+M>massa magnetica n</E

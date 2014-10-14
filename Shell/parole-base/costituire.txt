@@ -1,0 +1,50 @@
+costituire.txt
+"costituire"
+"costituire"
+"costituire"
+"costituire"
+"costituire la causa fondamentale"
+"costituire un fondo di denaro"
+"costituire una minaccia"
+"costituire una parte di"
+"costituire, comporre"
+"costituire, comporre"
+"costituire, registrare"
+*''(una società, un’associazione eccetera)'' [[istituire]],[[formare]], [[fondare]], [[organizzare]], [[realizzare]]
+*[[preparare]], [[approntare]], [[comporre]], [[formare]], [[mettere insieme]], [[rappresentare]], [[essere]]
+*''(come erede, come rappresentante )''[[nominare]], [[dichiarare]]
+*''(una società, un’associazione eccetera)'' [[sciogliere]]
+*''(come erede, come rappresentante )'' [[destituire]]
+*[[costituirsi]]
+M>constitu</E
+M>con-</E
+M>statu</E
+M>io costitüisco</E
+M>tu costitüisci</E
+M>una società</E
+M>una compagnia</E
+M>uno stato</E
+M>vorrebbero c</E
+M>un’orchestrina</E
+M>una dote</E
+M>costituirsi un ingente patrimonio</E
+M>lo zio le ha costituito una rendita fissa</E
+M>magnati e schiavi non costituiscono uno Stato maturo</E
+M>ma uno Stato barbaro</E
+M>essere costituito</E
+M>l’atto costituisce reato</E
+M>la certezza costituisce la base di ogni ragionamento</E
+M>questo fatto costituisce una vera eccezione alla regola</E
+M>lo costituì suo erede universale</E
+M>ti costituisco mio procuratore legale</E
+M>in mora</E
+M>si erano costituite varie bande di predoni</E
+M>costituirsi in</E
+M>le tribù sparse si costituirono in nazione</E
+M>si costituì giudice fra i due contendenti</E
+M>quelli che s’eran costituiti guardia del corpo di Ferrer</E
+M>lavoravano di spalle</E
+M>s’è costituito ai carabinieri</E
+M>al commissariato di Pubblica Sicurezza</E
+M>costituirsi in giudizio</E
+M>costituirsi parte civile</E

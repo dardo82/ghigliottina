@@ -1,0 +1,50 @@
+procedura.txt
+"come da procedura standard"
+"corrompere una procedura"
+"della procedura"
+"procedural"
+"procedura"
+"procedura"
+"procedura esecutiva"
+"procedura guidata"
+"procedura legislativa"
+"procedura medica"
+"procedura operativa standard"
+"seguire una procedura"
+M>procédure</E
+M>procéder</E
+M>procedure</E
+M>procedimento</E
+M>prassi</E
+M>seguire la p</E
+M>migliore per raggiungere lo scopo</E
+M>una p</E
+M>sbagliata</E
+M>seguire la p</E
+M>normale</E
+M>l&#8217;ordinaria p</E
+M>d&#8217;ufficio</E
+M>adottare una p</E
+M>straordinaria</E
+M>eccezionale</E
+M>d&#8217;urgenza</E
+M>parlamentari</E
+M>la lentezza delle p</E
+M>burocratiche</E
+M>per farsi ricevere dal direttore c&#8217;è tutta una complicatissima procedura</E
+M>norme di p</E
+M>errore</E
+M>vizio di p</E
+M>civile</E
+M>penale</E
+M>codice di p</E
+M>civile</E
+M>codice di p</E
+M>penale</E
+M>spogli di testi condotti con p</E
+M>automatica</E
+M>procedure di calcolo</E
+M>procedure di elaborazione e di trasmissione dei dati</E
+M>di volo</E
+M>di attesa</E
+M>di avvicinamento</E

@@ -1,0 +1,69 @@
+dipingere.txt
+"dipingere"
+"dipingere"
+"dipingere"
+"dipingere un quadro"
+#* dipingere ''un [[quadro]], ''dipingere'' una tela
+*Vocabolario della lingua italiana, di Nicola Zingarelli, Zanichelli Editore)
+M>deping</E
+M>ping</E
+M>io dipingo</E
+M>tu dipingi</E
+M>dipigni</E
+M>dipinsi</E
+M>dipingésti</E
+M>dipignésti</E
+M>dipinto</E
+M>un paesaggio</E
+M>una battaglia</E
+M>dei fiori</E
+M>un animale</E
+M>una natura morta</E
+M>ritrarre</E
+M>dal vero</E
+M>al vivo</E
+M>al naturale</E
+M>è da d</E
+M>l’arte</E
+M>la tecnica del d</E
+M>imparare a d</E
+M>bene</E
+M>male</E
+M>a olio</E
+M>a tempera</E
+M>a fresco</E
+M>a guazzo</E
+M>su tela</E
+M>su tavola</E
+M>su una parete</E
+M>una tela</E
+M>una tavola</E
+M>un quadro</E
+M>una sala</E
+M>una volta</E
+M>un soffitto</E
+M>una cappella</E
+M>un vaso</E
+M>Non avea pur natura ivi dipinto</E
+M>marzo tinge</E
+M>april dipinge</E
+M>la facciata</E
+M>le finestre</E
+M>lo zoccolo delle pareti</E
+M>Dipingersi il volto</E
+M>dipingersi le labbra</E
+M>si dipinge per parere più giovane</E
+M>ti sei dipinta troppo</E
+M>lo ha dipinto con una sola frase</E
+M>qualcuno per galantuomo</E
+M>con poche parole ha dipinto al vivo quell’ambiente</E
+M>non saprei dipingervi la bellezza</E
+M>l’orrore di quello spettacolo</E
+M>dipingersi nella fantasia</E
+M>il diavolo non è tanto brutto come si dipinge</E
+M>l’angoscia de le genti Che son qua giù</E
+M>nel viso mi dipigne Quella pietà che tu per tema senti</E
+M>avere dipinta nel viso la gioia</E
+M>la meraviglia</E
+M>lo stupore</E
+M>E di trista vergogna si dipinse</E

@@ -1,0 +1,167 @@
+era.txt
+"c'era"
+"c'era da aspettarselo!"
+"c'era una volta"
+"come c'era da aspettarsi"
+"dell'era volgare"
+"è rimasto se stesso, è sempre se stesso, è rimasto com'era una volta"
+"era"
+"era, time"
+"era"
+"era"
+"era apostolica"
+"era atomica"
+"era cristiana"
+"Christian Era"
+"era del volo"
+"era dell'Acquario"
+"era glaciale"
+"era mesozoica"
+"Mesozoic era"
+"era ora!"
+"era presente"
+"fare qcs. di spiacevole che si era promesso"
+"fare qcs. di spiacevole che si era promesso"
+"il rigore c'era"
+"il rigore non c'era"
+"la conclusione era inevitabile"
+"nell'era di"
+"in the era of"
+"non era il caso"
+"non era meglio se"
+"non era mia intenzione"
+"non era necessario"
+"non era niente, non è stato niente"
+#* '' 
+*italiano
+*inglese
+*lombardo
+*svedese
+m>aera</e
+m>aes aeris</e
+m>volgare</e
+m>cristiana</e
+m>musulmana</e
+m>olimpica</e
+m>repubblicana</e
+m>fascista</e
+m>epoca</e
+m>l&rsquo;e</e
+m>gloriosa del Rinascimento</e
+m>del Risorgimento</e
+m>la scoperta dell&rsquo;America segna l&rsquo;inizio di una nuova e</e
+m>nella storia della civiltà</e
+m>di libertà</e
+m>di schiavitù</e
+m>l&rsquo;e</e
+m>atomica</e
+m>periodi</e
+m>epoche</e
+m>piani</e
+m>archeozoica</e
+m>primaria</e
+m>paleozoica</e
+m>secondaria</e
+m>mesozoica</e
+m>terziaria</e
+m>cenozoica</e
+"name": "Era"
+"name": "Era"
+"name": "Era glaciale"
+"name": "Piccola era glaciale"
+"name": "L'era del diamante"
+"name": "Terza Era"
+"name": "Seconda Era"
+"name": "Prima Era"
+"name": "Quarta Era"
+"name": "L'uomo che non c'era"
+"name": "C'era una volta il West"
+"name": "Era mio padre"
+"name": "C'era una volta in America"
+"name": "Minas Tirith (Prima Era)"
+"name": "Era spaziale"
+"name": "Cosmic Era"
+"name": "Era di D'ni"
+"name": "Live Era 87-93"
+"name": "Miglioramenti umani nella Cosmic Era"
+"name": "L'era glaciale 2 - Il disgelo"
+"name": "Carestia dell'era Tenpo"
+"name": "C'era una volta..."
+"name": "Com'era verde la mia valle"
+"name": "C'era una volta un piccolo naviglio"
+"name": "C'era una volta un piccolo naviglio"
+"name": "Nuova era atto secondo"
+"name": "Fortuna che non era niente"
+"name": "Uomo di un'altra era"
+"name": "C'era un tempo"
+"name": "Era un casino che non ti si vedeva"
+"name": "Non era cos\u00ec"
+"name": "Era un anno fa"
+"name": "Una storia che non c'era (feat. Giuliano Palma) ('95 remix)"
+"name": "Era inverno"
+"name": "Com'era bello"
+"name": "La vita nell'era spaziale"
+"name": "Era na vota"
+"name": "Nell'era della confusione semiotica"
+"name": "C'era un ragazzo che come me..."
+"name": "Preludio a Era inverno"
+"name": "Era inverno"
+"name": "Era casa mia"
+"name": "Era magico"
+"name": "C'era una volta il west"
+"name": "...era piena..."
+"name": "Era bellissimo"
+"name": "Era"
+"name": "C'era e non c'\u00e8"
+"name": "Era bellissimo"
+"name": "C'era un ragazzo"
+"name": "Nuova era"
+"name": "Era una festa"
+"name": "Era Casa Mia"
+"name": "Era"
+"name": "Era un anno fa"
+"name": "Era gi\u00e0 tutto previsto"
+"name": "C'era un ragazzo che come me amava i Beatles e i Rolling Stones"
+"name": "C'era una volta"
+"name": "C'era un tempo"
+"name": "Qualcuno era comunista (live)"
+"name": "Qualcuno era comunista"
+"name": "Era maggio"
+"name": "Non era previsto"
+"name": "C'era una volta"
+"name": "Act Three: Era pi\u00f9 calmo?"
+"name": "Act Two: Era la notte"
+"name": "Al citofono era Anthony Hopkins"
+"name": "Non era lui"
+"name": "Nell'era delle automobili"
+"name": "Era una notte che pioveva"
+"name": "C'era una volta il west"
+"name": "C'era un giovane che disse"
+"name": "Era"
+"name": "C'era una volta il west: Titoli"
+"name": "C'era una volta il west: Addio a Cheyenne"
+"name": "C'era una volta il west: Come una sentenza"
+"name": "Fortuna che non era niente"
+"name": "Era il momento"
+"name": "Era"
+"name": "Era"
+"name": "C'era una volta un re"
+"name": "L'era del cinghiale bianco"
+"name": "Non era presto per chiamarti amore"
+"name": "C'era un ragazzo che come me amava i Beatles e i Rolling Stones"
+"name": "Non era previsto"
+"name": "C'era una volta il Negus"
+"name": "C'era una volta: Finale"
+"name": "A l'era sabet sera"
+"name": "Qualcuno era comunista"
+"name": "La notte era alta"
+"name": "Qui c'era qualcuno"
+"name": "C'era una volta il post"
+"name": "Otello: Atto II. \"Era la notte, Cassio dormia\" (Jago)"
+"name": "C'era una volta il trenino"
+"name": "Era bella davvero"
+"name": "C'era una volta"
+"name": "C'era e non c'\u00e8"
+"name": "C'era una volta il trenino"
+"name": "C'era un angelo"
+"name": "C'era un tempo"

@@ -1,0 +1,23 @@
+campanile.txt
+"campanile"
+"bell tower, steeple, belfry, campanile"
+"campanile"
+"campanile"
+"guerra di campanile"
+* torre campanaria
+*[[guglia]] di una montagna
+*''un [[prete]] per '''  campanile '''e una donna per [[camino]]''
+*italiano
+M>torre campanaria</E
+M>a vela</E
+M>alto</E
+M>lungo come un c</E
+M>pare un c</E
+M>desiderava morire all’ombra del suo c.; non vede più in là del suo c</E
+M>amor di c</E
+M>idee</E
+M>questioni</E
+M>rivalità di campanile</E
+M>tiro a c</E
+M>mandare il pallone a campanile</E
+M>pinnacolo</E

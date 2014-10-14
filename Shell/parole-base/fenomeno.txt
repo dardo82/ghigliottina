@@ -1,0 +1,40 @@
+fenomeno.txt
+"del fenomeno"
+"fenomeno"
+"fenomeno"
+"fenomeno"
+"fenomeno"
+"fenomeno da baraccone"
+"fenomeno di cultura"
+"fenomeno lunare"
+"fenomeno psichico"
+"guardare a un fenomeno nella sua interezza"
+"inquadramento del fenomeno"
+"un fenomeno imprevedibile"
+#*''[[w
+*[[manifestazione]], [[fatto]], [[caso]], [[evento]], [[avvenimento]], [[cosa]], [[elemento]], [[segno]], [[sintomo]],[[apparenza]], [[esteriorità]],  [[processo]]
+*[[baby-fenomeno]], [[fenomenismo]], [[fenomenico]], [[fenomenista]]
+*''Fenomeno da baraccone''
+M>evento</E
+M>fisici</E
+M>biochimici</E
+M>psichici</E
+M>tellurici</E
+M>atmosferici</E
+M> meteorologici</E
+M>f. critico</E
+M>di stato</E
+M>di movimento</E
+M>storici</E
+M>sociali</E
+M>un f</E
+M>fonetico</E
+M>il f</E
+M>dell’emigrazione</E
+M>dell’urbanesimo</E
+M>la tua faccia tosta è un f</E
+M>nella matematica è veramente un f</E
+M>ha un cavallo da corsa che è un f</E
+M>sai che sei un f</E
+M>che fenomeno!</E
+M>vivente</E

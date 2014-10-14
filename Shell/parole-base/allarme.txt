@@ -1,0 +1,49 @@
+allarme.txt
+"allarme"
+"allarme"
+"allarme"
+"allarme"
+"allarme (sistema di allarme)"
+"allarme antifurto"
+"allarme antincendio"
+"allarme auto"
+"allarme giallo"
+"allarme rientrato"
+"allarme rosso"
+"campanello d'allarme"
+"dare l'allarme"
+"falso allarme"
+"in allarme per"
+"motivo di allarme"
+"segnale d'allarme"
+"sistema d'allarme"
+"sistema di allarme"
+"suonare l'allarme, dare l'allarme"
+M>all’arme</E
+M>dare</E
+M>suonare</E
+M>ordinare l’a</E
+M>al primo</E
+M>al secondo a</E
+M>grida di a</E
+M>segnale d’a</E
+M>aereo</E
+M>durante l’a</E
+M>tutte le luci dovevano essere spente</E
+M>dare il segnale di cessato a</E
+M>cessato a.</E
+M> mia suocera non viene più</E
+M>falso a</E
+M>campanello d’a</E
+M>montare l’a. sull’automobile</E
+M>si è rotto l’allarme</E
+M>segnalazione di allarme</E
+M>mettere</E
+M>stare</E
+M>tenere in a</E
+M>sono stato in a</E
+M>per te</E
+M>la malattia del padre li tenne in allarme</E
+M>procurato a</E
+M>presso l’autorità</E
+M>sentimento di a</E

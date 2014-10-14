@@ -1,0 +1,97 @@
+speciale.txt
+"agente speciale"
+"agente speciale del tesoro"
+"area speciale, zona speciale"
+"assegnare un compito speciale"
+"caso speciale"
+"circostanza speciale"
+"commissione speciale, comitato speciale"
+"consegna speciale"
+"contratto speciale"
+"edizione speciale"
+"edizione speciale, edizione straordinaria"
+"effetto speciale"
+"favore speciale"
+"interesse speciale"
+"inviato speciale"
+"niente di speciale"
+"niente di speciale"
+"offerta speciale"
+"ordine speciale"
+"Organizzazione militare Navale Speciale"
+"permesso speciale"
+"polizia speciale"
+"privilegio speciale"
+"procura speciale"
+"provare un piacere speciale nel fare qcs."
+"qualcosa di speciale"
+"regola speciale"
+"rendere speciale"
+"rivolgere un'attenzione speciale a"
+"servizio speciale"
+"speciale"
+"speciale"
+"speciale"
+"su consegna speciale"
+"trattamento speciale"
+"trovare un volo ad una tariffa speciale"
+"una cosa speciale"
+*[[particolare]], [[caratteristico]], [[tipico]], [[singolare]], [[proprio]], [[individuale]], [[privato]], [[personale]], [[esclusivo]], [[peculiare]]
+*[[scelto]], di buona qualità, [[ottimo]], [[eccellente]], [[straordinario]], [[eccezionale]], [[impareggiabile]]
+*[[special]]
+*[[generale]], [[generico]], [[totale]]
+*[[normale]], [[comune]], [[ordinario]], [[scadente]]
+*[[specialista]], [[specialità]], [[specializzare]], [[specie]]
+*italiano
+M>specialis</E
+M>species</E
+M>generale</E
+M>generico</E
+M>per questo tipo di stampa è necessario un inchiostro s.</E
+M>sono operazioni che richiedono s. attenzione</E
+M>lo tratta con s. riguardi</E
+M>istituire un treno s.</E
+M>concessioni s.</E
+M>legge s.</E
+M>legge generale</E
+M>lingue</E
+M>linguaggi</E
+M>Sondersprachen</E
+M>Languages for Special Purposes</E
+M>lessico speciale</E
+M>lingue tecniche</E
+M>specialistiche</E
+M>linguaggi settoriali</E
+M>gode di privilegi s.</E
+M>ha avuto un incarico s.</E
+M>agente s.</E
+M>inviato s.</E
+M>offerta s.</E
+M>detersivi in offerta s.</E
+M>ordinario</E
+M>esami s.</E
+M>tribunale speciale</E
+M>sorveglianza</E
+M>vigilanza s.</E
+M>sorvegliato</E
+M>vigilato s.</E
+M>le manderò un vino s.</E
+M>queste tagliatelle sono veramente s.</E
+M>meritare una menzione speciale</E
+M>è un tipo un po&#8217; s.</E
+M>in famiglia siete tutti speciali</E
+M>in modo s.</E
+M>in special modo</E
+M>sono grato a tutti</E
+M> ma in modo s. a te</E
+M>special</E
+M>soprattutto</E
+M>massimamente</E
+M>in particolar modo</E
+M>i medici mi hanno proibito il vino</E
+M> specialmente fuori pasto</E
+M>dopo mangiato faccio sempre il mio pisolino</E
+M> specialmente d&#8217;estate</E
+M>della commedia mi è piaciuto specialmente il secondo atto</E
+M>sono tornato per rivedere tutti gli amici</E
+M> non specialmente per lui</E

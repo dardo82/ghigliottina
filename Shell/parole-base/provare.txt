@@ -1,0 +1,182 @@
+provare.txt
+"continuare a provare"
+"non ci provare!"
+"provare"
+"provare"
+"provare"
+"provare"
+"provare"
+"provare"
+"provare, replace: provarsi"
+"provare, replace: provarsi"
+"provare a contattare qualcuno"
+"provare a fare qcs"
+"provare a fare qcs, fare un tentativo con qcs"
+"provare amore fervido per"
+"provare compassione per"
+"provare di nuovo"
+"provare di tutto"
+"provare diverse strade"
+"provare dolore"
+"provare dolore"
+"provare e"
+"provare e riprovare"
+"provare e riprovare"
+"provare e riprovare"
+"provare gioia"
+"provare gioia nel fare qualcosa"
+"provare la propria abilità"
+"provare orgoglio in, essere orgoglioso di"
+"provare per credere"
+"provare piacere in"
+"provare piacere in qualcosa"
+"provare pietà per"
+"provare qcs."
+"provare qualcosa per"
+"provare sollievo"
+"provare sulla propria pelle"
+"provare un fremito d'emozione"
+"provare un locale"
+"provare un piacere speciale nel fare qcs."
+"provare vergogna"
+"provare; fare un tentativo"
+"provare; fare un tentativo"
+"rischiare tutto; provare a fare qcs. con tutte le forze"
+"tentare di fare qcs, provare a fare qcs"
+* (un motore, un dispositivo) [[misurare]], [[esaminare]], [[verificare]], [[analizzare]], [[controllare]], [[collaudare]], [[saggiare]]
+* (per raggiungere uno scopo) fare la prova, [[tentare]], [[osare]], [[ardire]], [[azzardare]]
+* mettere alla prova, [[cimentare]], [[indebolire]], [[fiaccare]], [[sfibrare]], [[logorare]]
+* (sentimenti, sensazioni) [[sentire]], [[avvertire]], [[nutrire]], [[sperimentare]]
+*(la realtà, la verità di un fatto) [[dimostrare]], [[testimoniare]], [[attestare]], [[documentare]], [[confermare]], [[comprovare]]
+*[[tentare]],  [[sperimentare]],[[testare]], [[documentare]], [[attestare]], [[dimostrare]]
+*[[rafforzare]], [[rinforzare]], [[rinvigorire]]
+*[[riprovare]], [[provarsi]]
+* Devoto,'' Avviamento all'etimologia italiana'', Le Monnier
+M>bare</E
+M>probus</E
+M>io pròvo</E
+M>pruòvo</E
+M>un motore</E
+M>un apparecchio</E
+M>un congegno</E
+M>una lega metallica</E
+M>un nuovo materiale da costruzione</E
+M>un’automobile sportiva</E
+M>un aereo</E
+M>un motoscafo</E
+M>una nuova pietanza</E
+M>una medicina</E
+M>una cura dimagrante</E
+M>un nuovo metodo per smettere di fumare</E
+M>un diverso sistema d’allenamento</E
+M>per credere</E
+M>un abito</E
+M>una giacca</E
+M>un cappotto</E
+M>provarsi un vestito</E
+M>un paio di scarpe</E
+M>un paio di orecchini</E
+M>una nuova canzone</E
+M>sul violino il primo tempo di una sonata</E
+M>Le amiche provano al piano un fascio di musiche antiche</E
+M>una commedia</E
+M>un concerto</E
+M>un coro</E
+M>un balletto</E
+M>una sfilata di moda</E
+M>un cameriere</E
+M>una domestica</E
+M>una segretaria</E
+M>una ragazza alla pari</E
+M>un amico</E
+M>le intenzioni</E
+M>la fedeltà di un amico</E
+M>se vuoi</E
+M>prova pure</E
+M>prima di decidere dovrei provare</E
+M>Provando e riprovando</E
+M>Divina Commedia</E
+M>Par</E
+M>proviamo a entrare</E
+M>prova a chiederlo a lui</E
+M>provate a trattarlo meglio</E
+M>provi a prendere questa medicina</E
+M>vedrà che le farà bene</E
+M>provai a suonare il campanello</E
+M>ma nessuno rispose</E
+M>provai ad alzarmi</E
+M>ma non ci riuscii</E
+M>provò a raggiungere l’uscita</E
+M>ma fu fermato da un custode</E
+M>voglio provarmi anch’io</E
+M>pròvati almeno a chiederglielo</E
+M>se non ti ci provi neppure</E
+M>non potrai mai riuscire</E
+M>non ti ci provare nemmeno!</E
+M>guarda di non provartici!</E
+M>provati a darmi fastidio e vedrai!</E
+M>se vi provate a toccarlo</E
+M>guai a voi!</E
+M>pròvaci</E
+M>e vedrai quello che ti succede!</E
+M>chi non ha provato la guerra non può capirne gli orrori</E
+M>è gente che ha provato la miseria</E
+M>ho provato anch’io queste delusioni</E
+M>la fame</E
+M>la sete</E
+M>sono pochi quelli che hanno provato il vero amore</E
+M>Tu proverai sì come sa di sale Lo pane altrui</E
+M>dolore</E
+M>piacere</E
+M>dispiacere</E
+M>sdegno</E
+M>compassione</E
+M>una grande gioia</E
+M>un’immensa soddisfazione</E
+M>un senso di ribrezzo</E
+M>una grande pena</E
+M>le avversità provano l’uomo</E
+M>la terribile esperienza l’ha molto provata</E
+M>il lungo digiuno</E
+M>il periodo di prigionia</E
+M>lo ha duramente provato</E
+M>il lavoro in miniera prova anche i fisici più robusti</E
+M>vuoi provarti con me in una partita a scacchi?</E
+M>provarsi in campo</E
+M>in duello</E
+M>provarsi con un avversario più forte</E
+M>san Tommaso provò l’esistenza di Dio con cinque argomenti diversi</E
+M>ora ti proverò la verità delle mie affermazioni</E
+M>è un enunciato che si può p</E
+M>procedendo nel modo seguente</E
+M>la colpevolezza</E
+M>l’innocenza dell’imputato</E
+M>proverò a tutti di essere innocente</E
+M>l’avvocato difensore è riuscito a p</E
+M>che l’azione commessa dal suo cliente non costituisce reato</E
+M>il pubblico ministero provò che il delitto era stato premeditato</E
+M>io sono estraneo al fatto</E
+M>e te lo posso provare</E
+M>i documenti provano che la sua famiglia ha origini nobiliari</E
+M>è un fatto che prova chiaramente la buona fede di quell’uomo</E
+M>questa constatazione prova l’esattezza della nostra congettura</E
+M>avere</E
+M>tra i calcinacci e rovine</E
+M>purché vi sia alquanto di terra</E
+M>pruovano le viti bene</E
+M>probante</E
+M>ciascheduna delle parti aveva addotti degli argomenti probabili</E
+M>nessuna un argomento provante</E
+M>persona provata dalle avversità</E
+M>dalle disgrazie</E
+M>essere</E
+M>apparire provato dalla stanchezza</E
+M>dalla fatica</E
+M>dalla malattia</E
+M>l’accusa non è provata</E
+M>quello che dici non è affatto provato</E
+M>un metodo provato</E
+M>uomo di provata lealtà</E
+M>Mal si conosce non provato amico</E
+M>alla fine del viaggio eravamo tutti molto provati</E
+M>i genitori apparivano provatissimi per le malefatte del figlio</E

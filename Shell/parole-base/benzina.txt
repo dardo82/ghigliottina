@@ -1,0 +1,39 @@
+benzina.txt
+"benzina"
+"benzina normale"
+"benzina premium"
+"distributore di benzina"
+"distributore di benzina"
+"distributore di benzina"
+"elettrico a benzina"
+"fare benzina, fare rifornimento"
+"fare il pieno (di benzina)"
+"gettare benzina sul fuoco, versare benzina sul fuoco"
+"mangia-benzina, divora-benzina, ciuccia-benzina"
+"mettere benzina"
+"motore a benzina"
+"motore a benzina"
+"rifornire di gas; di benzina"
+"tassa sulla benzina"
+*[[carburante]], [[gasolio]], [[metano]] 
+* [[benzinaio]]
+*[[idrocarburo]], [[gas]], [[petrolio]]
+*Enciclopedia [http
+*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 237
+M>benzoino</E
+M>Benzin</E
+M>primaria</E
+M>auto</E
+M>super</E
+M>avio</E
+M>naturale</E
+M>gasolina</E
+M>solventi</E
+M>b. verde</E
+M>fare b</E
+M>fermarsi a fare b</E
+M>fermarsi al distributore a fare rifornimento di b</E
+M>restare senza b</E
+M>fare b.</E
+M>ha bisogno di fare spesso b</E
+M>ogni tanto si ferma in qualche osteria per fare benzina</E

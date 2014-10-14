@@ -1,0 +1,29 @@
+cucchiaio.txt
+"a forma di cucchiaio"
+"cucchiaio"
+"cucchiaio"
+"contenuto di un cucchiaio"
+"cucchiaio"
+"cucchiaio d'argento"
+"cucchiaio da minestra"
+"cucchiaio da tavola"
+"cucchiaio da tavola"
+"cucchiaio da tavola (quantità)"
+"cucchiaio da tè"
+"cucchiaio da tè (quantità)"
+"cucchiaio di legno"
+#* ''un 
+*[[cucchiaia]], [[cucchiaiata]]
+* [[coltello]], [[forchetta]], [[minestra]], [[piatto]], [[scodella]]
+*Enciclopedia [http
+M>cochlearium</E
+M>cochlea</E
+M>essere da raccogliere</E
+M>da raccattare col c</E
+M>col cucchiaino</E
+M>un c</E
+M>di brodo</E
+M>di farina</E
+M>di sciroppo</E
+M>di zucchero</E
+M>chirurgico</E

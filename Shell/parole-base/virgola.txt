@@ -1,0 +1,36 @@
+virgola.txt
+"punto e virgola"
+"rappresentazione in virgola mobile"
+"virgola"
+"virgola decimale"
+"virgola mobile"
+#* comunicare, giocare e leggere
+#* 3,5
+*[[virgolare]], [[virgolatura]], [[virgoleggiare]],  [[virgolettare]], [[virgolettato]], [[virgolettatura]]
+* [[comma]], [[punto e virgola]] 
+*''punto e 
+*''non cambiare di una 
+* Devoto/Oli, ''Il dizionario della lingua italiana'' edizione cartacea 2000-2001, Le Monnier, p. 2284
+M>virg</E
+M>verga</E
+M>sapere</E
+M>non sapere usare la v.</E
+M>mettere</E
+M>disporre bene le v.</E
+M>qui ci vuole una v.</E
+M>mettere i punti e le v.</E
+M>ho trascritto il brano con tutte le v.</E
+M>del tuo scritto non ho mutato una v.</E
+M>non si è discostato di una v.</E
+M>di mezza v.</E
+M>dalla sua fonte. Punto e v.</E
+M>Due v.</E
+M>doppie v.</E
+M>virgolette.</E
+M>v. mobile</E
+M>floating point</E
+M>mantissa</E
+M>esponente</E
+M>notazione esponenziale</E
+M>bacillo virgola</E
+M>vergola</E

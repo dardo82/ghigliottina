@@ -1,0 +1,9 @@
+salume.txt
+"salume"
+M>sale</E
+M>-ume</E
+M>s. insaccati</E
+M>un grande assortimento di salumi</E
+M>fabbrica</E
+M>negozio</E
+M>vendita di salumi.</E

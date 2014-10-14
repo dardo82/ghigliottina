@@ -1,0 +1,234 @@
+gruppo.txt
+"agire in gruppo"
+"analisi di gruppo"
+"assicurazione di gruppo (di solito; lavoratori di una stessa azienda)"
+"assicurazione di gruppo sulla vita"
+"attività di gruppo"
+"capo gruppo"
+"car sharing, car pooling, auto di gruppo"
+"codice di valori valido più per un gruppo di individui che per un altro"
+"comandante di gruppo"
+"criteri di gruppo"
+"determinazione del gruppo sanguigno"
+"di gruppo d'età"
+"di gruppo sanguigno"
+"dinamica di gruppo"
+"essere in coda ad un gruppo"
+"foto di gruppo"
+"gas: gruppo di acquisto solidale"
+"gioco di gruppo con pallone"
+"gioco di gruppo e individuale"
+"gruppo"
+"gruppo"
+"gruppo abeliano"
+"gruppo acetilico"
+"gruppo alberghiero"
+"gruppo alcalino"
+"gruppo amminico"
+"gruppo armato"
+"gruppo bancario"
+"gruppo campione"
+"gruppo carbonile"
+"gruppo carbossile"
+"gruppo che suona dixieland (jazz)"
+"gruppo consiliare"
+"gruppo corale"
+"gruppo d ricerca"
+"gruppo d'armata"
+"gruppo di addestramento"
+"gruppo di allenamento, gruppo di allenatori"
+"gruppo di amici"
+"gruppo di birilli"
+"gruppo di collegamento"
+"gruppo di continuità"
+"gruppo di contrattazione"
+"gruppo di criminali"
+"gruppo di detenuti con le catene"
+"gruppo di discussione (anche in internet)"
+"gruppo di due"
+"gruppo di eremiti cristiani"
+"gruppo di esperti"
+"gruppo di esperti"
+"gruppo di esperti"
+"gruppo di esperti"
+"gruppo di fuoco"
+"gruppo di gioco"
+"gruppo di gioco"
+"gruppo di interesse"
+"gruppo di interesse"
+"gruppo di isole"
+"gruppo di lavoro"
+"gruppo di lavoro agricolo"
+"gruppo di minoranza"
+"gruppo di nobili"
+"gruppo di parole"
+"gruppo di persone"
+"gruppo di persone con interessi comuni"
+"gruppo di persone poco influenti"
+"gruppo di pressione"
+"gruppo di pressione"
+"gruppo di ricerca"
+"gruppo di ricettività"
+"gruppo alberghiero"
+"gruppo di riferimento"
+"gruppo di rinvio"
+"gruppo di scissione"
+"gruppo di sorveglianza"
+"gruppo di studenti"
+"gruppo di studio"
+"gruppo di tre"
+"gruppo di tre"
+"gruppo editoriale"
+"gruppo elettrogeno"
+"gruppo elitario"
+"gruppo emergente"
+"gruppo etnico"
+"gruppo familiare"
+"gruppo funzionale"
+"gruppo giovanile"
+"gruppo idrossile"
+"gruppo lineare"
+"gruppo linguistico"
+"gruppo marmoreo"
+"gruppo merceologico"
+"gruppo metile"
+"gruppo metilenico"
+"gruppo moltiplicativo"
+"gruppo motivato"
+"gruppo musicale"
+"gruppo musicale amatoriale"
+"gruppo musicale che usa attrezzi da cucina"
+"gruppo musicale formato da una sola persona"
+"gruppo ottico"
+#* un 
+#*un 
+*''(di cose)'' [[insieme]], [[ammasso]], [[raggruppamento]],  [[serie]],[[quantità]]
+*''(di persone)'' [[compagnia]], [[comitiva]], [[compagine]], [[frotta]], [[capannello]]
+*[[associazione]], [[classe]], [[categoria]], [[fazione]],[[unione]], [[club]]
+*''(di tecnici, studiosi)'' [[équipe]], [[team]], [[staff]]
+*[[classificazione]], [[suddivisione]], [[ordine]], [[strato]], [[ripartizione]]
+* ''(di amici)'' [[ambiente]], [[giro]], [[entourage]]
+* ''(musicale)''[[complesso]], [[band]]
+*[[folla]], [[branco]]
+*[[singolo]], [[individuo]]
+*[[capogruppo]], [[gruppuscolo]], [[quasigruppo]], [[gruppale]],[[gruppoanalista]],[[monogruppo]]
+M>kruppa</E
+M>un g</E
+M>di case</E
+M> di persone</E
+M>un g</E
+M>di stelle</E
+M>un g</E
+M>d’aziende</E
+M>familiare</E
+M>un g</E
+M>d’amici</E
+M>di soldati</E
+M>di visitatori</E
+M>andare</E
+M>camminare in gruppo</E
+M>entrare a piccoli g</E
+M>dividersi in più g</E
+M>attaccare in g</E
+M>serrato</E
+M>fare parte di un g</E
+M>formare</E
+M>costituire</E
+M>sciogliere un g</E
+M>letterario</E
+M>artistico</E
+M>politico</E
+M>finanziario</E
+M>economico</E
+M> musicale</E
+M>il g</E
+M>dirigente</E
+M>di lavoro</E
+M>di ricerca</E
+M>lavoro di gruppo</E
+M> lavoro di gruppo</E
+M>parlamentare</E
+M>misto</E
+M>di potere</E
+M>di pressione</E
+M>pressure group</E
+M>g. di interesse</E
+M> g. di acquisto</E
+M>g. di discussione</E
+M>newsgroup</E
+M>sociale</E
+M> g. primario</E
+M>g. secondario</E
+M>di riferimento</E
+M>di appartenenza</E
+M>dinamica di gruppo</E
+M>group dynamics</E
+M>analisi</E
+M>terapia</E
+M>psicoterapia</E
+M>di gruppo</E
+M>d’incontro</E
+M>encounter group</E
+M>fuga dal g</E
+M>il g</E
+M>segue a 45 secondi</E
+M>tattico</E
+M>dragamine</E
+M>sommergibili</E
+M>unità da trasporto e operazioni anfibie</E
+M>stormo</E
+M>trusts</E
+M>famiglia</E
+M>montuoso</E
+M>elettrogeno</E
+M>di continuità</E
+M>motopropulsore</E
+M>frigorifero</E
+M>gruppi familiari</E
+M>gruppo di specie</E
+M>gruppo di generi</E
+M>sanguigni</E
+M>della galena</E
+M>dell’argentite</E
+M>degli elementi alcalini</E
+M>delle terre rare</E
+M>radicale</E
+M>acetilico</E
+M>ossidrilico</E
+M>funzionale</E
+M>alcolico</E
+M>carbossilico</E
+M>legge gruppale</E
+M>moltiplicazione</E
+M>prodotto</E
+M>elemento neutro</E
+M>elemento identico</E
+M>unità</E
+M>elemento inverso</E
+M>semigruppo</E
+M>monoide</E
+M>abeliano</E
+M>commutativo</E
+M>il g</E
+M>del Laocoonte</E
+M>del Ratto delle Sabine</E
+M>un g</E
+M>fotografico</E
+M>una fotografia di gruppo</E
+M>un bel g</E
+M>un g</E
+M>ben riuscito</E
+M>le donne ripresero a filare</E
+M>Sfacendo i g</E
+M>a or a or coi denti</E
+M>il nonno</E
+M>da uomo</E
+M>non diceva nulla</E
+M>ma si sentiva un g</E
+M>nella gola anch’esso</E
+M>di vento</E
+M>groppo di vento</E
+M>Cominciano apparir baleni e gruppi E par che l’aria e ’l ciel si ravviluppi</E
+M>gli presentò un g</E
+M>e una lettera di quel signore</E
+M>la quale lo pregava di far accettare alla madre di Lucia cento scudi d’oro ch’eran nel g</E

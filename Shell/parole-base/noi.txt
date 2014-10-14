@@ -1,0 +1,68 @@
+noi.txt
+"a noi"
+"Ce la vediamo noi"
+"con noi"
+"con noi"
+"detto fra noi"
+"detto tra noi (o fra noi)"
+"giunti fino a noi"
+"gli altri siamo noi"
+"La storia siamo noi"
+"le cose non vanno sempre come noi vorremmo"
+"noi"
+"noi due"
+"noi stessi"
+"noi stessi"
+"noi tutti"
+"non più con noi"
+"poveri noi"
+"solo tra noi due"
+"torniamo a noi."
+"tra di noi"
+"tra noi"
+"tra noi"
+"tra noi"
+"tutti noi"
+"una cosa tra noi"
+"uno di noi"
+"veniamo a noi"
+#*''tutti gli animali invecchiano, e noi con essi.''
+*italiano
+m>noi crediamo</e
+m>chiamò proprio noi</e
+m>venite con noi</e
+m>ditelo a noi</e
+m>hanno chiesto di noi</e
+m>lavorano per noi</e
+m>venite a cena da noi</e
+m>da noi l&rsquo;aria è buona</e
+m>veniamo a noi</e
+m>torniamo a noi</e
+m>a noi!</e
+m>ci chiamò</e
+m>ci disse</e
+m>noi</e
+m>Di grazia fa noi grazia</e
+m>voler bene a chi noi vuol male</e
+m>verremo senz&rsquo;altro</e
+m>noi</e
+m>noi stessi</e
+m>anche noi</e
+m>proprio noi lo abbiamo detto</e
+m>ci penseremo noi</e
+m>siamo noi che dobbiamo ringraziare</e
+m>avendo noi accettato</e
+m>altri</e
+m>altre</e
+m>noi altri</e
+m>noi altre</e
+m>noi altri giovani la pensiamo così</e
+m>noi</e
+m>povera gente</e
+m>noi si mangia alle otto</e
+m>allora</e
+m>noi s&rsquo;andava tutti gli anni al mare</e
+m>noi</e
+m>plurale maiestatico</e
+m>plurale di modestia</e
+m>gli autori da noi citati</e

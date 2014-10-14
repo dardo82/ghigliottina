@@ -1,0 +1,64 @@
+scrittore.txt
+"blocco dello scrittore"
+"scrittore"
+"scrittore creativo"
+"scrittore d'articoli"
+"scrittore di inni"
+"scrittore di lettere"
+"scrittore di racconti brevi"
+"scrittore di racconti brevi"
+"scrittore di viaggio"
+"scrittore fantasma (chi scrive libri a nome di un altro)"
+"scrittore fantasma, ghost writer"
+"scrittore fine"
+"scrittore freelance, scrittore indipendente"
+"scrittore in prosa"
+"scrittore mediocre che lavora a salario"
+"scrittore pubblicitario"
+"scrittore religioso"
+*[[ romanziere]], [[novelliere]]; [[commediografo]], [[tragediografo]]; [[memorialista]]; [[trattatista]]; [[poligrafo]], [[saggista]]; [[poeta]] 
+m>-trice</e
+m>scriptor -</e
+m>ris</e
+m>scriptus</e
+m>scrib</e
+m>Ma questo vero &egrave; scritto in molti lati Da li scrittor de lo Spirito Santo</e
+m>scriptor</e
+m>S. apostolico</e
+m>il primo libro di uno s.</e
+m>uno s. famoso</e
+m>noto</e
+m>sconosciuto</e
+m> uno s. scrive un libro attorno ad uno s. che scrive due libri</e
+m> attorno a due s.</e
+m> uno dei quali scrive perch&eacute; ama la verit&agrave; ed un altro perch&eacute; ad essa &egrave; indifferente</e
+m>uno s. molto tradotto all&rsquo;estero</e
+m>i grandi s. dell&rsquo;Ottocento russo</e
+m>gli s. moderni</e
+m>contemporanei</e
+m>uno s. classico</e
+m>romantico</e
+m>verista</e
+m>simbolista</e
+m>intimista</e
+m>uno s. impegnato</e
+m>superficiale</e
+m>innovatore</e
+m>tradizionale</e
+m>uno s. ironico</e
+m>piacevole</e
+m>monotono</e
+m>leggero</e
+m>pesante</e
+m>quello s&igrave; che &egrave; uno s.!</e
+m>in questa frase si sente il tocco dello s.!</e
+m>scrittori si nasce</e
+m> non si diventa</e
+m>lo s. del libello &egrave; sempre rimasto ignoto</e
+m>lo s. della relazione non sembra sufficientemente informato</e
+m>S. fantasma</e
+m>s.-fantasma</e
+m>ghost-writer</e
+m>il ghost-writer</e
+m> lo s. fantasma ...: l&rsquo;anonimo redattore che d&agrave; forma di libro a ci&ograve; che hanno da raccontare altre persone</e
+m>non si stupiscano i lettori del titolo di eccellenza prodigato ad uno scrittoruzzo par mio</e

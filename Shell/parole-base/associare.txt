@@ -1,0 +1,34 @@
+associare.txt
+"accoppiare a, associare con"
+"associare"
+"associare"
+"associare"
+"associare, replace: associarsi"
+"associare, replace: associarsi"
+M>associare</E
+M>socius</E
+M>io assòcio</E
+M>a un’impresa</E
+M>a una società</E
+M>a un’organizzazione</E
+M>a. un nuovo membro nel circolo</E
+M>un partito alle responsabilità di governo</E
+M>associarsi a</E
+M>con</E
+M>qualcuno</E
+M>associarsi a un circolo</E
+M>associarsi a un giornale</E
+M>a una pubblicazione</E
+M>associarsi al dolore</E
+M>al lutto</E
+M>alla gioia di qualcuno</E
+M>il bisogno associa gli uomini</E
+M>a. le forze</E
+M>i capitali</E
+M>un’idea a</E
+M>con</E
+M>un’altra</E
+M>due fatti apparentemente indipendenti</E
+M>un nome alla fisionomia di una persona</E
+M>qualcuno alle carceri</E
+M>il cadavere alla chiesa funerante</E

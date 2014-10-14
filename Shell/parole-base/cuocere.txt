@@ -1,0 +1,66 @@
+cuocere.txt
+"cuocere"
+"cuocere"
+"cuocere"
+"cuocere"
+"cuocere"
+"cuocere"
+"cuocere"
+"cuocere, replace: cuocersi"
+"cuocere, replace: cuocersi"
+"cuocere, replace: cuocersi"
+"cuocere al forno"
+"cuocere al forno"
+"cuocere al vapore"
+"cuocere alla griglia"
+"cuocere allo spiedo"
+"cuocere come uno stufato"
+"cuocere in forno"
+"cuocere o riscaldare nel forno a microonde"
+"cuocere troppo"
+"da cuocere a vapore"
+*[[cuocersi]], [[cocitore]], [[cocitrice]]
+*[[cucina]], [[cuoco]]
+M>cuòcio</E
+M>cuòci</E
+M>cuòce</E
+M>cuociamo</E
+M>cociamo</E
+M>cuocéte</E
+M>cocéte</E
+M>cuòciono</E
+M>cuòcia</E
+M>cuociamo</E
+M>cociamo</E
+M>cuociate</E
+M>cociate</E
+M>cuòciano</E
+M>còssi</E
+M>cuocésti</E
+M>cocésti</E
+M>còtto</E
+M>cociuto</E
+M>la minestra</E
+M>la carne</E
+M>i legumi</E
+M>la torta</E
+M>in padella</E
+M>nella teglia</E
+M>nel forno</E
+M>a fuoco vivo</E
+M>a fuoco lento</E
+M>il fuoco troppo forte non cuoce la carne</E
+M>la brucia</E
+M>il sole d’agosto cuoce la pelle</E
+M>come cuoce il sole</E
+M>oggi!</E
+M>l’ha cotto proprio bene quella ragazza</E
+M>cotto</E
+M>essere</E
+M>la torta cuoce nel forno</E
+M>la bistecca si sta cuocendo</E
+M>le piace stare a cuocersi al sole</E
+M>lasciar cuocere qualcuno nel suo brodo</E
+M>un’accusa che cuoce</E
+M>cuocersi</E
+M>si coceva di non poterci andar per la più corta</E

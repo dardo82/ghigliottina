@@ -1,0 +1,10 @@
+gatta.txt
+"avere una bella gatta da pelare"
+"gatta"
+"gatta morta"
+"la gatta frettolosa fa i gattini ciechi"
+"prendersi una bella gatta da pelare"
+"qui gatta ci cova"
+"tanto va la gatta al lardo che ci lascia lo zampino"
+*''avere una brutta '''gatta''' da pelare''
+*'''''gatta''' ci cova''

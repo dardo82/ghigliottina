@@ -1,0 +1,31 @@
+isolare.txt
+"isolare"
+"isolare"
+"isolare, chiudere"
+*(persona) [[separare]], [[staccare]], [[distaccare]], [[dividere]], lasciare in disparte, [[allontanare]], tener lontano, [[emarginare]], [[escludere]], tagliar fuori, [[estromettere]]
+*[[chiudere]], [[rinchiudere]], [[imprigionare]], [[segregare]]
+* (concetto, fenomeno) separare dal resto, mettere in evidenza, [[evidenziare]], [[focalizzare]]; [[ottenere]], [[ricavare]], [[estrarre]]
+*(un ambiente) [[climatizzare]], [[insonorizzare]]
+*(virus, agente patogeno) [[identificare]], [[individuare]]
+*(persona) [[unire]], [[congiungere]]
+*[[isolarsi]]
+M>io ìsolo</E
+M>una casa per impedire che le fiamme la raggiungano</E
+M>un monumento</E
+M>una zona archeologica</E
+M>acusticamente una stanza</E
+M>un alcaloide da una pianta</E
+M>un fenomeno</E
+M>una parola dal contesto</E
+M>un concetto per analizzarlo</E
+M>il virus dell’influenza</E
+M>un ammalato affetto da malattia contagiosa</E
+M>un detenuto</E
+M>un reparto di combattenti</E
+M>uno stato</E
+M>un popolo</E
+M>una nazione</E
+M>isolarsi</E
+M>gli piaceva isolarsi camminando in mezzo ai boschi</E
+M>troppe delusioni lo hanno spinto a isolarsi da tutto e da tutti</E
+M>come si fa a isolarsi con tutta questa confusione intorno?</E

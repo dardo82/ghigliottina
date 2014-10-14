@@ -1,0 +1,52 @@
+mattone.txt
+"avere un mattone sullo stomaco"
+"il ballo del mattone"
+"il ballo del mattone"
+"investire nel mattone"
+"mattone"
+"mattone"
+"mattone"
+"mattone"
+"color rosso mattone"
+"mattone dopo mattone"
+"mattone forato"
+"mattone rosso"
+"mattone rosso distintivo dell'Università di Liverpool, da qui tutte le Università britanniche altre"
+"rosso mattone"
+"rosso mattone"
+*[[laterizio]], [[cotto]]
+* rosso cupo
+*'' (cosa o persona noiosa, pesante)''  [[barba]],[[ pizza]], [[seccatura]]
+* ''(materiale laterizio)'' [[mattonata]],  [[mattonare]]
+*[[colore]]
+*[[vinaccia]]
+M>maltha</E
+M>pieni</E
+M>forati</E
+M>alleggeriti</E
+M>m. crudi</E
+M>cotti</E
+M>m. messi per piano</E
+M>m. messi per ritto</E
+M>per coltello</E
+M>per taglio</E
+M>muro di mezzo m</E
+M>di una testa</E
+M>muro di un m</E
+M>di due teste</E
+M>fabbrica di mattoni</E
+M>cottura dei mattoni</E
+M>fa tre passi su un m</E
+M>il ballo del m</E
+M>tre m</E
+M>isolanti</E
+M>refrattarî</E
+M>avere un m</E
+M>sullo stomaco</E
+M>quel tuo amico è un vero m</E
+M>non ti consiglio di leggere questo libro</E
+M>di vedere questo film</E
+M>: è un mattone</E
+M>investire nel mattone.</E
+M>un vestito color m</E
+M>color rosso mattone</E

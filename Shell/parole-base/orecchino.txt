@@ -1,0 +1,20 @@
+orecchino.txt
+"orecchino"
+"orecchino a bottone"
+#* ''gli '''orecchini''' che mi hai regalato erano d'[[oro]]''
+*[[buccola]], [[pendente]]
+*[[piercing]]
+*Enciclopedia [http
+M>orecchini a cerchio</E
+M>a goccia</E
+M>a pendaglio</E
+M>orecchini d’oro</E
+M>d’argento</E
+M>di brillanti</E
+M>di perle</E
+M>di corallo</E
+M>di plastica</E
+M>portare</E
+M>avere gli o</E
+M>l’anello</E
+M>al naso</E

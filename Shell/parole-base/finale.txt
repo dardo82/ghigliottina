@@ -1,0 +1,119 @@
+finale.txt
+"a finale chiuso"
+"battuta, battuta finale"
+"bozza finale"
+"causa finale"
+"corsa finale"
+"esame finale"
+"esame finale"
+"esame finale per la laurea (gergo degli studenti)"
+"fase finale"
+"finale"
+"finale"
+"finale"
+"finale"
+"finale, ultimo"
+"fischio finale"
+"gara finale"
+"garanzia per il consumatore finale"
+"gioco finale"
+"gioco finale"
+"gran finale"
+"gran finale"
+"grand finale"
+"luogo della battaglia finale tra le forze del bene e quelle del male (Bibbia)"
+"ottavi di finale"
+"parte finale"
+"parte finale e risolutiva di una storiella"
+"parte finale, coda"
+"prodotto finale"
+"profitto finale"
+"proposta finale"
+"prova finale"
+"punto finale"
+"punto finale"
+"punto finale, estremo"
+"quarto di finale"
+"risultato finale"
+"risultato finale"
+"risultato finale"
+"risultato finale"
+"risultato finale"
+"risultato finale"
+"rush finale"
+"saldo finale"
+"scopo finale"
+"scopo finale"
+"soluzione finale"
+"stretta finale"
+"termine; punto finale"
+"tocco finale"
+"tocco finale"
+"tocco finale"
+"uso finale"
+#* ''la gara fu finita grazie al tocco finale del campione''
+* [[conclusivo]], [[ultimo]]
+* [[inizio]], [[principio]], [[iniziale]]
+*[[utliizzatore finale]]
+* [[finalissima]], [[finalista]], [[finalizzare]], [[finalmente]], [[fine]], [[finire]]
+:*[[volapük]]
+*italiano
+*inglese
+M>finalis</E
+M>finis</E
+M>pezzo</E
+M>scena f</E
+M>esito f</E
+M>prova</E
+M>esame f</E
+M>la decisione f</E
+M>atto f</E
+M>atto f</E
+M>del congresso di Vienna</E
+M>sillaba</E
+M>lettera f</E
+M>giudizio f</E
+M>impenitenza f</E
+M>perseveranza f</E
+M>stadio f</E
+M>tubi</E
+M>transistori f</E
+M>nota f</E
+M>intenzione f</E
+M>causa finale</E
+M>proposizioni f</E
+M>finali</E
+M>che</E
+M>affinché</E
+M> acciocché</E
+M>perché</E
+M>onde</E
+M>congiunzioni finali</E
+M>per</E
+M>al fine di</E
+M>allo scopo di</E
+M>il f</E
+M>di un dramma</E
+M>di un romanzo</E
+M>di un film</E
+M>commedia con f</E
+M>a effetto</E
+M>a sorpresa</E
+M>il f</E
+M>del primo atto</E
+M>finali di torre</E
+M>di cavallo</E
+M>finalissimo</E
+M>finalino</E
+M>finaletto</E
+M>la f</E
+M>della sillaba</E
+M>della parola</E
+M>della frase</E
+M>lettera</E
+M>sillaba</E
+M>parola</E
+M>entrare in finale</E
+M>finalissima</E
+M>finale</E
+M>le dieci canzoni che entreranno in finale</E

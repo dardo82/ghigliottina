@@ -1,0 +1,69 @@
+birra.txt
+"a più non posso, a tutta birra"
+"a più non posso; a tutto spiano; a tutta birra"
+"a tutta birra"
+"barile di birra"
+"bevanda ottenuta mescolando birra chiara e birra scura"
+"bevitore di birra"
+"bicchiere per birra"
+"birra"
+"birra"
+"birra alla spina"
+"birra allo zenzero"
+"birra chiara"
+"birra chiara"
+"birra di malto"
+"birra fatta in casa"
+"birra fatta in casa"
+"birra scura"
+"birra scura"
+"boccale di birra"
+"bottiglia di birra"
+"con birra allo zenzero"
+"fatta in casa (di birra)"
+"fatta in casa (di birra)"
+"fusto di birra"
+"giro di (birra, vino, ecc.)"
+"lasciar andare a tutta birra"
+"lievito di birra"
+"preparare la birra"
+"preparare la birra"
+"tipo di birra"
+"un bicchiere di birra"
+"vada per la birra"
+*[[birraio]], [[birrario]], [[birreria]], [[birrificio]]
+*[[birracchio]]
+*italiano
+* napoletano
+M>Bier</E
+M>bier</E
+M>bière</E
+M>beer</E
+M>cer</E
+M>visia</E
+M>Saccharomyces cerevisiae</E
+M>b. di malto</E
+M>di frumento</E
+M>b. forte</E
+M>b. doppia</E
+M>in bottiglie</E
+M>alla spina</E
+M>un bicchiere di birra</E
+M>bere una b</E
+M>due b</E
+M>una b</E
+M>grande</E
+M>media</E
+M>piccola</E
+M>lievito di b</E
+M>cuore da birra</E
+M>Birre medicinali</E
+M>amara</E
+M>chinata</E
+M>avere ancora molta b</E
+M>correre</E
+M>scappare a tutta b</E
+M>fuga a tutta b</E
+M>farci la b</E
+M>che ci sta a fare lui qui</E
+M> la birra?</E

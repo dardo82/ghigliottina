@@ -1,0 +1,18 @@
+francobollo.txt
+"francobollo"
+"francobollo"
+"mettere un francobollo"
+*[[bollo]], [[affrancatura]]
+M>franco</E
+M>bollo</E
+M>di posta ordinaria</E
+M>prioritaria</E
+M>di posta aerea</E
+M>espresso</E
+M>per pacchi</E
+M>commemorativi</E
+M>francobolli per collezionisti</E
+M>per filatelici</E
+M>emissione di una nuova serie di francobolli</E
+M>sovrastampati</E
+M>frattura a f</E

@@ -1,0 +1,44 @@
+calma.txt
+"aspettare con calma"
+"aspettare qualcosa con calma"
+"calma"
+"calma"
+"calma"
+"Calma e sangue freddo"
+"con calma"
+"la calma è la virtù dei forti"
+"mantenere la calma"
+"persona calma e riflessiva"
+"prendersela con calma"
+*[[calmare]]
+M>il mare è in c</E
+M>assoluta</E
+M>perfetta</E
+M>piatta</E
+M>vasca di c</E
+M>bacino di c</E
+M>zona delle c</E
+M>equatoriali</E
+M>zone delle c</E
+M>tropicali</E
+M>zone delle c</E
+M>polari</E
+M>la c</E
+M>di un pomeriggio estivo</E
+M>nella c</E
+M>della sua casa di campagna</E
+M>lavoro febbrile</E
+M>senza un momento di c</E
+M>ai momenti di tensione era subentrata la c.</E
+M>nelle linee nemiche regnava una c</E
+M>sospetta</E
+M>lo spasimo le lasciava brevi attimi di calma</E
+M>agire con c</E
+M>occorre c</E
+M>e sangue freddo</E
+M>perdere la c</E
+M>parlare</E
+M>ragionare</E
+M>discutere</E
+M>procedere nel lavoro con c</E
+M>prendersela con c</E

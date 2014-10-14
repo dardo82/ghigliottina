@@ -1,0 +1,72 @@
+combattere.txt
+"attaccare, combattere"
+"capace di combattere con entrambe mani"
+"combattere"
+"combattere"
+"combattere"
+"combattere"
+"combattere"
+"combattere con"
+"combattere con le unghie e con i denti"
+"combattere contro"
+"combattere contro i mulini a vento"
+"combattere per cause perse in partenza"
+"combattere corpo a corpo"
+"combattere una battaglia persa"
+"combattere una guerra"
+*[[lottare]] , [[guerreggiare]], [[scontrarsi]]
+*[[affrontare]], [[aggredire]], [[assalire]], [[attaccare]]
+*[[sfuggire]], [[evitare]]
+*[[combattersi]]
+M>*combatt</E
+M>con</E
+M>batt</E
+M>avere</E
+M>col nemico</E
+M>per la patria</E
+M>per la libertà</E
+M>in campo aperto</E
+M>da leone</E
+M>da prode</E
+M>vegna innanzi il più forte</E
+M>e combattasi meco a corpo a corpo</E
+M>Novellino</E
+M>il leone combatte con l’elefante</E
+M>la tramontana combatte con lo scirocco</E
+M>per un ideale</E
+M>per il trionfo di un’idea</E
+M>lottare</E
+M>con le avversità</E
+M>con la miseria</E
+M>con le difficoltà della vita</E
+M>contro la fame</E
+M>contro le malattie</E
+M>con le scartoffie</E
+M>con una scolaresca indisciplinata</E
+M>il nemico</E
+M>i delinquenti</E
+M>i profittatori</E
+M>l’imperialismo</E
+M>le dittature</E
+M>una dura battaglia</E
+M>l’ignoranza</E
+M>l’errore</E
+M>i pregiudizî</E
+M>la superstizione</E
+M>la barbarie</E
+M>il malcostume</E
+M>un’opinione</E
+M>un principio</E
+M>come fa mar per tempesta</E
+M>Se da contrari venti è combattuto</E
+M>Da chiuso morbo combattuta e vinta</E
+M>Perivi</E
+M>o tenerella</E
+M>essere combattuto da diversi pensieri</E
+M>da dubbî</E
+M>i due eserciti si combatterono a lungo</E
+M>molto</E
+M>una vittoria molto combattuta</E
+M>una vita</E
+M>una giornata molto combattuta</E
+M>essere molto combattuto</E

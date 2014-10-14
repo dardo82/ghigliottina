@@ -1,0 +1,10 @@
+beneficare.txt
+"Traduzione di beneficare/ non trovata.\nNo translation was found for beneficare/."
+M>beneficare</E
+M>bene</E
+M>fac</E
+M>io benèfico</E
+M>tu benèfichi</E
+M>i poveri</E
+M>senza ostentazione</E
+M>il beneficato dovrebbe essere riconoscente al suo benefattore</E

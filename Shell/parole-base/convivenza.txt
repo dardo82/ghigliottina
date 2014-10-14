@@ -1,0 +1,23 @@
+convivenza.txt
+"convivenza"
+"convivenza"
+"convivenza"
+"convivenza more uxorio"
+"unione di fatto, coppia di fatto, convivenza"
+*[[coesistenza]]
+M>familiare</E
+M>domestica</E
+M>religiosa</E
+M>la c</E
+M>in un collegio</E
+M>in una pensione</E
+M>hanno preferito la c. al matrimonio</E
+M>sociale</E
+M>umana</E
+M>la libera c</E
+M>dei cittadini di uno stato</E
+M>auspicare una pacifica c</E
+M>umana</E
+M>una c</E
+M>civile di tutti gli uomini</E
+M>Foglio di c</E

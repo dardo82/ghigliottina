@@ -1,0 +1,88 @@
+istituto.txt
+"consiglio d'istituto"
+"istituto"
+"istituto"
+"istituto alberghiero"
+"istituto artistico"
+"istituto bancario"
+"istituto d'arte"
+"istituto di bellezza"
+"istituto di credito"
+"istituto di credito fondiario"
+"istituto di cura"
+"istituto di design"
+"istituto di detenzione"
+"istituto di pedagogia"
+"istituto di pena"
+"Istituto di tecnologia"
+"istituto didattico"
+"istituto giuridico"
+"istituto navale"
+"Istituto Nazionale Sanitario"
+"istituto parificato"
+"istituto penale"
+"istituto per formazione professionale para universitario"
+"istituto per il commercio"
+"istituto politecnico"
+"istituto professionale"
+"istituto psichiatrico"
+"istituto scolastico"
+"istituto statale commerciale e turistico"
+"istituto superiore di sanità"
+"istituto tecnico"
+"istituto tecnico aeronautico"
+"istituto tecnico commerciale statale"
+"istituto tecnico per il turismo"
+"istituto tecnico superiore"
+"istituto tecnologico"
+"medico di servizio in un hotel o simile istituto"
+#* ''istituto di credito, banca; collegio, scuola pubblica o privata''
+#*''gli istituti della democrazia''
+#* ''l'istituto della famiglia''
+*[[istituzione]]; [[organizzazione]], [[ organismo]]
+*''(specif.)'' [[scuola]], ''istituto di istruzione''
+*[[istituire]], [[istitutivo]], [[istitutore]], [[istituzione]]
+M>institutum</E
+M>institu</E
+M>di mendicità</E
+M>ospedaliero</E
+M>previdenziale</E
+M>italiano per la storia antica</E
+M>italiano di cultura di Bruxelles</E
+M>nazionale per il commercio estero</E
+M>centrale di statistica</E
+M>editoriale italiano</E
+M> centrale di patologia del libro</E
+M>di bellezza</E
+M>Istituti d’istruzione</E
+M>istituto</E
+M>magistrale</E
+M>tecnico</E
+M>il capo</E
+M>il preside dell’i</E
+M>gli alunni che frequentano l’istituto</E
+M>di fisica</E
+M>di filologia italiana</E
+M>di storia del diritto italiano</E
+M>Istituti di educazione</E
+M>di credito</E
+M>di emissione</E
+M>Istituti di prevenzione e di pena</E
+M>religioso</E
+M>abbracciare l’i</E
+M>monastico</E
+M>allontanarsi dal proprio i</E
+M>non appartiene al mio i</E
+M>far questo</E
+M>è cosa contraria al nostro i</E
+M>ché se poi anche Roma piegò alle leggi universali</E
+M>ed ebbe il suo fine come il suo principio</E
+M>non è mio instituto il riferirne le ragioni</E
+M>per costume e per instituto</E
+M>sei carnefice della tua propria famiglia</E
+M>giuridico</E
+M>l’i</E
+M>giuridico</E
+M>della famiglia</E
+M>della proprietà</E
+M>della rappresentanza politica</E

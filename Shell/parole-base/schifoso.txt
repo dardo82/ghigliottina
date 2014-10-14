@@ -1,0 +1,36 @@
+schifoso.txt
+"schifoso"
+"schifoso"
+*''(di cibo, odore, eccetera)'' [[disgustoso]], [[ripugnante]], [[nauseante]], [[nauseabondo]], [[stomachevole]], [[repellente]], [[ributtante]]
+*''(in senso materiale o morale)'' [[sporco]], [[lercio]], [[sozzo]], [[sudicio]], [[lurido]], [[immondo]], [[laido]]
+*''(in senso etico)'' [[vergognoso]], [[disonesto]], [[immorale]], [[indegno]], [[indecente]], [[scandaloso]], [[sconcio]], [[turpe]], [[osceno]], [[riprovevole]], [[infame]], [[spregevole]], [[abominevole]]
+*[[eccessivo]], [[esagerato]], [[smisurato]], [[incredibile]]
+*''(di cibo, odore, eccetera)'' [[ buono]], [[gustoso]], [[saporito]]
+*''(in senso materiale o morale)'' [[pulito]], [[immacolato]]
+*''(in senso etico)'' [[onesto]], [[morale]]
+M>un insetto s.</E
+M>un odore s.</E
+M>un individuo</E
+M>un ambiente s.</E
+M>una scena s.</E
+M>questo vino è s.</E
+M>un libro s.</E
+M>un film s.</E
+M>la squadra ha giocato in modo s.</E
+M>che tempo s.!</E
+M>si è comportato in modo s.</E
+M>non ci aspettavamo da lui un&#8217;azione così schifosa</E
+M>vince sempre</E
+M> ha una fortuna s.</E
+M>è di un&#8217;avarizia schifosa.</E
+M>un vecchio s.</E
+M>un esibizionista schifoso.</E
+M>è uno s.</E
+M>una schifosa</E
+M>l&#8217;inganno di quelle due schifose</E
+M> madre e figlia</E
+M> per rovinare quella povera donna!</E
+M>un luogo schifosamente sporco</E
+M>un uomo schifosamente egoista</E
+M>comportarsi</E
+M>esprimersi schifosamente.</E

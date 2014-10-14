@@ -1,0 +1,209 @@
+limite.txt
+"al limite"
+"al limite"
+"andare oltre il limite di velocità"
+"angolo limite"
+"bordo, ciglio, limite"
+"c'è un limite a tutto"
+"caso limite"
+"condizione limite"
+"controllo limite"
+"data limite"
+"del limite della vegetazione arborea"
+"di limite di tempo"
+"fino al limite"
+"giungere al limite"
+"il limite"
+"il limite"
+"limite"
+"limite"
+"limite"
+"limite"
+"che rappresenta un limite"
+"limite acque interdette alla navigazione non segnalato"
+"limite acque sicure non segnalato"
+"limite d'età"
+"limite del credito"
+"limite della vegetazione"
+"limite di competenza"
+"limite di elasticità"
+"limite di fornitura"
+"limite di indebitamento"
+"limite di parola"
+"limite di responsabilità"
+"limite di tempo"
+"limite di velocità"
+"limite estremo"
+"limite fisico"
+"limite inferiore"
+"limite inferiore"
+"limite matematico"
+"limite notevole"
+"limite superiore"
+"limite temporale"
+"limite, confine"
+"minimo limite superiore"
+"oltre il limite"
+"oltre limite"
+"passare ogni limite, essere il colmo"
+"pietra limite"
+"porre un limite"
+"portare al limite"
+"punto limite"
+"punto limite"
+"punto limite"
+"raggiungere il limite"
+"senza limite"
+"senza limite"
+"stabilire un limite"
+"stabilire un limite"
+"strato limite"
+"strato limite atmosferico"
+"tempo limite per scommettere"
+"teorema del limite centrale"
+"vivere al limite"
+*[[confine]], [[barriera]], [[estremità]], [[demarcazione]]
+* linea estrema, ultimo grado, valore massimo, [[termine]], [[margine]], [[bordo]]
+*[[soglia]]
+*(di carattere, comportamento) [[manchevolezza]], [[insufficienza]]
+*[[data-limite]]
+*[[al limite]], [[limitare]], [[limitarsi]], [[limitato]], [[limitazione]], [[limitrofo]], [[senza limiti]]
+*''essere al limite''
+* [[à la limite]]
+* [[limite de temps]]
+* [[limiter]]
+* [[point limite]]
+M>limes</E
+M>tis</E
+M>il l</E
+M>fra due stati</E
+M>fra due territorî</E
+M>i l</E
+M>d’un terreno</E
+M>d’un podere</E
+M>sino al l</E
+M>del campo</E
+M>oltre il l</E
+M>del bosco</E
+M>punizione dal l</E
+M>fallo sul l</E
+M>Fuori limite</E
+M>out of bounds</E
+M>un sasso antico e grande</E
+M>Ch’ivi a sorte per limite era posto A spartir campi e tôr lite a’ vicini</E
+M>altimetrico</E
+M>delle nevi permanenti</E
+M>limiti della vegetazione</E
+M>del bosco</E
+M>di carico</E
+M>limiti di Atterberg</E
+M>di fluidità</E
+M>di plasticità</E
+M>di ritiro</E
+M>di udibilità</E
+M>di tolleranza</E
+M>elastico</E
+M>di elasticità</E
+M>carico al l</E
+M>di elasticità</E
+M>di snervamento</E
+M>di rottura</E
+M>carico l</E
+M>velocità l</E
+M>punto l</E
+M>posizione l</E
+M>caso l</E
+M>limiti d’età</E
+M>andare in pensione per raggiunti l</E
+M>d’età</E
+M>porre un l</E
+M>alle spese</E
+M>la discussione non può essere esaurita nei l</E
+M>di una seduta</E
+M>non può essere riassunta nei l</E
+M>di un articolo</E
+M>vittoria prima del l</E
+M>abbassare</E
+M>superare un l</E
+M>la mente umana ha i suoi l</E
+M>tenersi entro i l</E
+M>della legge</E
+M>della legalità</E
+M>della prudenza</E
+M>tenersi nei l</E
+M>stare</E
+M>rimanere nei l</E
+M>passare</E
+M>oltrepassare</E
+M>varcare i l</E
+M>ogni l</E
+M>prescrivere</E
+M>assegnare</E
+M>fissare</E
+M>stabilire i l</E
+M>un l</E
+M>a qualche cosa</E
+M>fissare i l</E
+M>d’una questione</E
+M>mettere un l</E
+M>la faccenda rientra nei l</E
+M>esce dai l</E
+M>della mia competenza</E
+M>andare</E
+M>giungere</E
+M>spingersi all’ultimo l</E
+M>all’estremo l</E
+M>di qualche cosa</E
+M>obbedire nei l</E
+M>del dovere</E
+M>lo aiuterò nei l</E
+M>delle mie possibilità</E
+M>ogni cosa ha un l</E
+M>anche la bontà</E
+M>anche la pazienza ha un l</E
+M>entro certi l</E
+M>oltre certi l</E
+M>oltre certi l</E
+M>la libertà degenera in anarchia</E
+M>senza limite</E
+M>la sua ambizione è senza l</E
+M>pianure che si estendono senza l</E
+M>non ha limite</E
+M>limiti</E
+M>la misericordia di Dio non ha limite</E
+M>la sua bontà</E
+M>la sua prepotenza</E
+M>la sua sfacciataggine</E
+M>non ha limiti</E
+M>non conosce limiti</E
+M>la sua ingordigia</E
+M>la sua avidità non conosce limiti</E
+M>Al l</E
+M>spingere il motore</E
+M>far funzionare una macchina</E
+M>al l</E
+M>delle sue possibilità</E
+M>al limite</E
+M>al l</E
+M>si provvederà con una sostituzione</E
+M>dovrei fare in tempo ad arrivare col treno; al l</E
+M>prenderò l’aereo</E
+M>di una funzione di una variabile reale</E
+M>y = f</E
+M>x − x</E
+M>destro</E
+M>sinistro</E
+M>infinito</E
+M>tendono all’infinito</E
+M>di una successione</E
+M>vale al l</E
+M>proprietà al l</E
+M>passaggio al limite</E
+M>valore l</E
+M>retta l</E
+M>punto l</E
+M>punti l</E
+M>punto l</E
+M>punto di accumulazione</E
+M>superiore</E
+M>inferiore</E
