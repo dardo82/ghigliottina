@@ -1,138 +1,16 @@
-signore.txt
-"con il Signore"
-"da gran signore"
-"egregio signore"
-"giorno del Signore"
-"gloria a te, o signore"
-"il giorno del signore"
-"l'Unto del Signore, il Messia"
-"l’unto del Signore"
-"le vie del signore sono infinite"
-"lodare il Signore"
-"mio signore"
-"nell'anno del Signore"
-"preghiamo il Signore"
-"Regno del Signore"
-"rendere gloria al Signore"
-"scuola per signore"
-"sì, signore"
-"sia benedetto il Signore"
-"sia lodato il Signore"
-"signore"
-"signore"
-"signore"
-"signore"
-"signore"
-"signore del feudo"
-"signore del maniero"
-"signore della guerra"
-"signore e padrone"
-"signore feudale"
-"signore feudale"
-"signori e signore"
-"tavola del signore"
-"toilette per signore"
-#* ''mi scusi, '''signore''', può dirmi che ore sono?''
-#*[[persona]] [[ricco|ricca]], [[facoltoso|facoltosa]]
-#* [[padrone]] di [[casa]], in relazione con il [[personale]] di [[servizio]]
-*[[signorile]]
-*[[signor]]
-*italiano
-M>senior -</E
-M>ris</E
-M>senex</E
-M>dominus</E
-M>il s. di quelle terre</E
-M>della città</E
-M>del castello</E
-M>A&#8217; signori d&#8217;Italia</E
-M>Piazza dei Signori</E
-M>Gran S.</E
-M>Come &#8217;l segnor ch&#8217;ascolta quel che i piace</E
-M> Da indi abbraccia il servo</E
-M>la quale</E
-M>per ciò che pure allora smontati n&#8217;erano i s. di quella</E
-M> ...</E
-M>il s. non vuole essere disturbato</E
-M>il s. ha ancora bisogno di me?</E
-M>Carissimo e dolce amico e signor mio</E
-M>Di&#8217;</E
-M> signor</E
-M> con che lacci da te presa Fu l&#8217;alta mente del baron toscano</E
-M>dominus</E
-M>pregare</E
-M>ringraziare il S.</E
-M>sia fatta la volontà del S.</E
-M>che il S. lo assista</E
-M>addormentarsi nel bacio del S.</E
-M>Nostro S.</E
-M>Nostro Signor</E
-M>Gesù Cristo</E
-M>stile del S.</E
-M>stile della circoncisione</E
-M>barone</E
-M>patrizio</E
-M>il signor Rossi</E
-M>il signor Mario</E
-M>il signor Mario Rossi</E
-M>sig.</E
-M>al sig. Mario Rossi</E
-M>il signor avvocato la riceverà tra pochi minuti</E
-M>il signor presidente</E
-M>il signor ministro</E
-M>mi saluti il suo signor padre</E
-M>il signore suo padre</E
-M>signor sì</E
-M>signor no</E
-M>signor</E
-M>i signori dirigenti farebbero bene a migliorare il servizio</E
-M>Signori della Corte</E
-M>Signore e Signori</E
-M>Ill.mo Signore</E
-M>signore</E
-M> può dirmi l&#8217;ora?</E
-M>sì signore</E
-M>no signore</E
-M>signor sì</E
-M>signor no</E
-M>sissignore</E
-M>nossignore</E
-M>signorsì</E
-M>signornò</E
-M>il s. desidera?</E
-M>il s. è servito</E
-M>se i signori vogliono accomodarsi</E
-M>come desiderano lor signori</E
-M>signori</E
-M>è venuto un s. a cercarti</E
-M>dì a quel s. che la smetta di seccarmi</E
-M>donna</E
-M>un circolo per soli s.</E
-M>toilette per signori</E
-M>ci sono dei s. che vorrebbero visitare il museo</E
-M>è un s.</E
-M>un vero s.</E
-M>un s. non si comporterebbe così</E
-M>è diventato un s.</E
-M>fare il s.</E
-M>vivere da s.</E
-M>fare la vita del s.</E
-M>trovandosi assai fornito di beni</E
-M> ... aveva rinunziato al traffico</E
-M> e s&#8217;era dato a viver da signore</E
-M>poveri</E
-M>la povera gente e i s.</E
-M>il popolo e i signori</E
-M>padrone</E
-M>i grandi s. del petrolio</E
-M>delle banche</E
-M>della produzione automobilistica</E
-M>delle armi atomiche</E
-M>i s. della guerra</E
-M>La ciurma diversa Plebea e signora</E
-M>questo non è un vestito</E
-M> è un signor vestito</E
-M>ho comprato una signora penna</E
-M>ma questa è una signora torta!</E
-M>una casa di cavalieri</E
-M> di gran signoroni</E
+chiedere
+donna
+giovane
+guardare
+lasciare
+mio
+molto
+occhio
+quello
+ragione
+ricordare
+signore
+tanto
+uomo
+vita
+vivere

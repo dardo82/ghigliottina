@@ -1,88 +1,41 @@
-loro.txt
-"a loro"
-"a loro piacimento"
-"a loro spese"
-"a loro volta"
-"Dal canto loro\/suo"
-"di loro"
-"essere uno di loro"
-"il loro"
-"il tuo, il vostro, il loro"
-"il tuo, il vostro, il loro"
-"la loro"
-"lasciati alla loro immaginazione"
-"loro"
-"loro"
-"loro"
-"loro"
-"loro stessi"
-"persone che stanno nel loro paese durante una guerra all'estero"
-"piacciono loro"
-"piace loro"
-#*''Da' ai ragazzi gli oggetti del '''loro''' desiderio.'' 
-#*''Tutte le ragazze hanno i '''loro''' profumi''
-#*''Verranno con i '''loro''' genitori''
-#*''"Hai incontrato gli insegnanti?" "No, ho incontrato '''loro''', i bidelli!"''
-#*''Da' '''loro''' quello che vogliono e mandali via!''
-#*''Noi abbiamo lavorato finora e '''loro''' hanno riposato, è ora di cambiare, non pensate?''
-#*''Non avevo fogli ma mi hanno prestato alcuni dei '''loro'''''
-*di essi, di esse
-*''(come soggetto) [[essi]], [[esse]], [[quelli]], [[quelle]]
-*''(complemento oggetto)'' [[li]], [[le]]
-*''(complemento di termine)'' [[gli]]
-:*[[loro#Italiano|loro]]
-M>ill</E
-M>rum</E
-M>ille</E
-M>uno</E
-M>una di loro</E
-M>di essi</E
-M>di esse</E
-M>tocca a loro</E
-M>dipende da loro</E
-M>rispondo io per loro</E
-M>si consolano fra loro</E
-M>fra di loro</E
-M>se li vedete</E
-M>dite loro</E
-M>ditegli</E
-M>chi glielo dice a loro?</E
-M>ho chiamato loro non voi</E
-M>beati loro!</E
-M>lui</E
-M>lei</E
-M>facciano loro</E
-M>sono stati loro a dirmelo</E
-M>si sbracciava a difender don Michele davanti alla gente</E
-M>perché si sapesse che</E
-M>loro come loro</E
-M>non gli volevano male</E
-M>anche loro</E
-M>neppure loro</E
-M>persino loro</E
-M>loro due</E
-M>loro tre</E
-M>voi siete scusati</E
-M> loro no</E
-M>lei</E
-M>Non ragioniam di lor</E
-M>ma guarda e passa</E
-M>suo</E
-M>il loro padre</E
-M>i loro desiderî</E
-M>le loro lagnanze</E
-M>a casa loro</E
-M>le loro signorie</E
-M>le loro Altezze</E
-M>le loro Maestà</E
-M>il di loro padre</E
-M>il loro padre</E
-M>la mia casa è più ampia della loro</E
-M>è uno dei loro</E
-M>io sto dalla loro</E
-M>s’è messo dalla loro</E
-M>parte</E
-M>ne hanno pensata un’altra delle loro</E
-M>il loro</E
-M>càmpano del loro</E
-M>hanno speso tutto il loro per far studiare il figlio</E
+acqua
+amico
+bello
+caso
+cosa
+giorno
+loro
+mettere
+modo
+molto
+morire
+nome
+occhio
+ora
+padre
+paese
+parola
+passare
+poco
+portare
+povero
+primo
+proprio
+quale
+questo
+rimanere
+rispondere
+stare
+suo
+tale
+tempo
+tenere
+tornare
+tuo
+ultimo
+uscire
+vero
+vita
+vivere
+volta
+vostro

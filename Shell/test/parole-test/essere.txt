@@ -1,243 +1,96 @@
-essere.txt
-"(essere fuori) mano"
-"(essere fuori) mano"
-"(essere) addolorato"
-"(essere) agitato"
-"(essere) agitato, confuso"
-"(essere) alla ribalta"
-"(essere) allarmato, spaventato"
-"(essere) amico con"
-"(essere) arrabbiato, agitato"
-"(essere) bloccato nella routine, nel trantran quotidiano"
-"(essere) confuso, perplesso"
-"(essere) d'accordo"
-"(essere) d'accordo su"
-"(essere) di cattivo umore"
-"(essere) disperato"
-"(essere) disponibile"
-"(essere) in collera"
-"(essere) in collera"
-"(essere) in declino, in ombra"
-"(essere) in difficoltà"
-"(essere) in difficoltà"
-"(essere) in dubbio"
-"(essere) in imbarazzo"
-"(essere) in trance"
-"(essere) in un bagno di sudore"
-"(essere) in una situazione spinosa"
-"(essere) in uno stato di torpore, di apatia"
-"(essere) in uno stato febbrile"
-"(essere) in vendita"
-"(essere) indeciso"
-"(essere) informato"
-"(essere) infuriato"
-"(essere) nei guai, nei pasticci"
-"(essere) nel giusto"
-"(essere) nell'aria"
-"(essere) nell'ombra"
-"(essere) occupato"
-"(essere) parte in causa"
-"(essere) richiesto"
-"(essere) sconcertati"
-"(essere) sotto i riflettori"
-"(essere) sovraeccitato"
-"(essere) sui carboni ardenti"
-"(essere) sulle spine, in grande agitazione"
-"(essere) tenuto, obbligato"
-"(essere) tra l'incudine e il martello"
-"andarci piano (con qcn.); essere gentili"
-"appoggiare a parole qcs, essere d'accordo a parole con qcs"
-"avere la capacità di, essere capace di"
-"avere per le mani; essere occupato"
-"avere priorità, essere la priorità"
-"avere prove che possono essere usate contro qcn."
-"avere prove che possono essere usate contro qcn."
-"avere talento per, avere stoffa per, essere portato per"
-"avere un buon trattamento, avere un trattamento onesto, essere trattato bene"
-"averne abbastanza di qc, essere stufo di qc, non poterne più di qc"
-"averne abbastanza di, essere stufo di, non poterne più di"
-"averne abbastanza, essere stufo, non poterne più"
-"bianco fino ad essere incandescente (di metallo)"
-"cadere; scendere; pendere da; essere appeso a"
-"cedere; essere esausto"
-"cessare di essere arrabbiato"
-"che deve essere\/accadere"
-"comandare, fare il capo, essere il capo"
-"come dovrebbe essere"
-"come dovrebbe essere"
-"come potrebbe essere"
-"come potrebbe essere"
-"come potrebbe essere il caso"
-"continuare ad essere"
-"convenire di non essere d'accordo"
-"cose che devono essere fatte"
-"dell'essere"
-"deve essere"
-"deve essere così"
-"dichiarare di essere"
-"dimostrare di essere"
-"domandarsi, essere curioso"
-"entrando, subito dopo essere entrato"
-"entrare senza essere invitato; intromettersi; ficcare il naso"
-"essere"
-"essere"
-"Essere è anche ausiliare nei tempi composti di tutti i verbi riflessivi (Mi sono lavato prima di vestirmi), di alcuni verbi intransitivi (Sono andato a casa prima oggi) e nel passivo dei verbi transitivi (Il ponte è stato costruito in epoca romana)"
-"essere"
-"essere presenti, apparire"
-"essere"
-"essere"
-"essere"
-"essere"
-"essere"
-"essere"
-"essere"
-"essere"
-"essere"
-"il modo di essere"
-"essere"
-"essere"
-"essere a capo; dirigere"
-"essere a carico dell'assistenza pubblica"
-"essere a casa"
-"essere a cavallo"
-"essere a conoscenza di (qc di riservato)"
-"essere a corto di"
-#* ''gli '''esseri''' viventi''
-#* ''io '''sono''' arrivato'', ''tu '''eri''' giunto'', ecc.
-#* ''il quadro '''è''' appeso'', ''il libro '''sarà''' letto'', ecc.
-#* ''mi '''sono''' pentito'', ''se non ti '''fossi''' sbagliato'', ecc.
-#* (caratteristica) ''Quel cane è pericoloso.''
-#* (caratteristica) ''Gli uomini sono di Marte.''
-#* (stato) ''La bicicletta è rotta.''
-#* ''Il nome è Bond, James Bond.''
-#* ''Diego Maradona era un genio.''
-#*''quel quadro '''è''' bruttissimo!''
-#*''mia mamma '''è''' un'operaia''
-#*''Penso dunque '''sono'''.''
-#*''Ehi, '''sono''' anni che non ci vediamo!!''
-#*''Speriamo che oggi '''sia''' bello''
-#*'''''Sono''' subito da lei.''
-:* [[venire]] (tempi semplici)
-*[[non essere]], [[benessere]]
-*[[ci sono!]], [[come sarebbe a dire?]], [[come se niente fosse]], [[così sia]], [[esserci]], [[essere lì lì per]], [[fosse pure]], [[fu]] (nel senso p.es. "il fu Mattia Pascal"), [[or sono]], [[sarà]] ("il cielo è arancione!" "sarà, ma io..."), [[sia pure]]
-"(essere fuori) mano"
-"(essere fuori) mano"
-"(essere) addolorato"
-"(essere) agitato"
-"(essere) agitato, confuso"
-"(essere) alla ribalta"
-"(essere) allarmato, spaventato"
-"(essere) amico con"
-"(essere) arrabbiato, agitato"
-"(essere) bloccato nella routine, nel trantran quotidiano"
-"(essere) confuso, perplesso"
-"(essere) d'accordo"
-"(essere) d'accordo su"
-"(essere) di cattivo umore"
-"(essere) disperato"
-"(essere) disponibile"
-"(essere) in collera"
-"(essere) in collera"
-"(essere) in declino, in ombra"
-"(essere) in difficoltà"
-"(essere) in difficoltà"
-"(essere) in dubbio"
-"(essere) in imbarazzo"
-"(essere) in trance"
-"(essere) in un bagno di sudore"
-"(essere) in una situazione spinosa"
-"(essere) in uno stato di torpore, di apatia"
-"(essere) in uno stato febbrile"
-"(essere) in vendita"
-"(essere) indeciso"
-"(essere) informato"
-"(essere) infuriato"
-"(essere) nei guai, nei pasticci"
-"(essere) nel giusto"
-"(essere) nell'aria"
-"(essere) nell'ombra"
-"(essere) occupato"
-"(essere) parte in causa"
-"(essere) richiesto"
-"(essere) sconcertati"
-"(essere) sotto i riflettori"
-"(essere) sovraeccitato"
-"(essere) sui carboni ardenti"
-"(essere) sulle spine, in grande agitazione"
-"(essere) tenuto, obbligato"
-"(essere) tra l'incudine e il martello"
-"andarci piano (con qcn.); essere gentili"
-"appoggiare a parole qcs, essere d'accordo a parole con qcs"
-"avere la capacità di, essere capace di"
-"avere per le mani; essere occupato"
-"avere priorità, essere la priorità"
-"avere prove che possono essere usate contro qcn."
-"avere prove che possono essere usate contro qcn."
-"avere talento per, avere stoffa per, essere portato per"
-"avere un buon trattamento, avere un trattamento onesto, essere trattato bene"
-"averne abbastanza di qc, essere stufo di qc, non poterne più di qc"
-"averne abbastanza di, essere stufo di, non poterne più di"
-"averne abbastanza, essere stufo, non poterne più"
-"bianco fino ad essere incandescente (di metallo)"
-"cadere; scendere; pendere da; essere appeso a"
-"cedere; essere esausto"
-"cessare di essere arrabbiato"
-"che deve essere\/accadere"
-"comandare, fare il capo, essere il capo"
-"come dovrebbe essere"
-"come dovrebbe essere"
-"come potrebbe essere"
-"come potrebbe essere"
-"come potrebbe essere il caso"
-"continuare ad essere"
-"convenire di non essere d'accordo"
-"cose che devono essere fatte"
-"dell'essere"
-"deve essere"
-"deve essere così"
-"dichiarare di essere"
-"dimostrare di essere"
-"domandarsi, essere curioso"
-"entrando, subito dopo essere entrato"
-"entrare senza essere invitato; intromettersi; ficcare il naso"
-"essere"
-"essere"
-"Essere è anche ausiliare nei tempi composti di tutti i verbi riflessivi (Mi sono lavato prima di vestirmi), di alcuni verbi intransitivi (Sono andato a casa prima oggi) e nel passivo dei verbi transitivi (Il ponte è stato costruito in epoca romana)"
-"essere"
-"essere presenti, apparire"
-"essere"
-"essere"
-"essere"
-"essere"
-"essere"
-"essere"
-"essere"
-"essere"
-"essere"
-"il modo di essere"
-"essere"
-"essere"
-"essere a capo; dirigere"
-"essere a carico dell'assistenza pubblica"
-"essere a casa"
-"essere a cavallo"
-"essere a conoscenza di (qc di riservato)"
-"essere a corto di"
-#* ''gli '''esseri''' viventi''
-#* ''io '''sono''' arrivato'', ''tu '''eri''' giunto'', ecc.
-#* ''il quadro '''è''' appeso'', ''il libro '''sarà''' letto'', ecc.
-#* ''mi '''sono''' pentito'', ''se non ti '''fossi''' sbagliato'', ecc.
-#* (caratteristica) ''Quel cane è pericoloso.''
-#* (caratteristica) ''Gli uomini sono di Marte.''
-#* (stato) ''La bicicletta è rotta.''
-#* ''Il nome è Bond, James Bond.''
-#* ''Diego Maradona era un genio.''
-#*''quel quadro '''è''' bruttissimo!''
-#*''mia mamma '''è''' un'operaia''
-#*''Penso dunque '''sono'''.''
-#*''Ehi, '''sono''' anni che non ci vediamo!!''
-#*''Speriamo che oggi '''sia''' bello''
-#*'''''Sono''' subito da lei.''
-:* [[venire]] (tempi semplici)
-*[[non essere]], [[benessere]]
-*[[ci sono!]], [[come sarebbe a dire?]], [[come se niente fosse]], [[così sia]], [[esserci]], [[essere lì lì per]], [[fosse pure]], [[fu]] (nel senso p.es. "il fu Mattia Pascal"), [[or sono]], [[sarà]] ("il cielo è arancione!" "sarà, ma io..."), [[sia pure]]
+acqua
+alto
+altro
+amico
+amore
+andare
+anno
+aria
+bello
+bisognare
+buono
+casa
+caso
+certo
+chiamare
+cominciare
+cosa
+credere
+diverso
+dovere
+entrare
+essere
+fatto
+forza
+giorno
+giovane
+grande
+guardare
+guerra
+lasciare
+lavoro
+loro
+lungo
+mano
+meglio
+mettere
+modo
+molto
+momento
+mondo
+morire
+nome
+nostro
+notte
+nuovo
+occhio
+ogni
+padre
+parola
+parte
+passare
+pensare
+poco
+potere
+povero
+prendere
+primo
+proprio
+punto
+qualche
+quello
+questo
+ragione
+ricordare
+rimanere
+rispondere
+sembrare
+sentire
+signore
+solo
+stare
+stato
+stesso
+storia
+strada
+tale
+tanto
+tempo
+tenere
+testa
+tornare
+troppo
+trovare
+tutto
+ultimo
+uomo
+uscire
+vecchio
+vedere
+venire
+vero
+vita
+vivere
+voce
+volere
+volta

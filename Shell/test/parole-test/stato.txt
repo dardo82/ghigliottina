@@ -1,138 +1,61 @@
-stato.txt
-"(essere) in uno stato di torpore, di apatia"
-"(essere) in uno stato febbrile"
-"aiuto di stato"
-"allo stato attuale"
-"Allo stato brado"
-"allo stato dei fatti"
-"allo stato grezzo"
-"allo stato naturale"
-"archivi di stato"
-"biglietto di stato britannico"
-"candidato supportato dal suo stato; figlio prediletto"
-"capo di stato"
-"capo di stato"
-"capo di stato maggiore"
-"caso di stato"
-"This last is a translation of “Non farne un caso di stato!”"
-"chi è stato?"
-"ciò che è stato perduto"
-"città-stato"
-"colpo di stato"
-"comunità per i poveri finanziata dallo stato"
-"consiglio di stato"
-"contabilità dello stato"
-"di basso stato sociale"
-"diritti del cittadino di ogni stato degli USA"
-"diritto dello stato di espropriare per pubblica utilità"
-"è stato tranquillo"
-"è stato tutto inutile"
-"e' stato un parto!"
-"equazione di stato"
-"equipaggiamento fornito dallo Stato"
-"esame di stato"
-"essere in buono stato"
-"essere mai stato"
-"essere stato"
-"essere\/appena stato"
-"ferrovie dello stato"
-"fienarola, stato del Kentucky, genere di musica country americana"
-"fisica dello stato solido"
-"foresta di proprietà dello stato"
-"grazie per essere stato nostro ospite"
-"guardia di Stato"
-"guida dello stato"
-"in buono stato"
-"in perfetto stato"
-"in stato confusionale"
-"in stato d'ebbrezza"
-"in stato di agitazione"
-"in stato di confusione dopo una sbornia"
-"in stato di ebbrezza, in stato di ubriachezza"
-"in uno stato confusione mentale"
-"in uno stato di stordimento"
-"la più alta carica dello stato"
-"legge prescritta dalla Corte Suprema di uno stato"
-"legislatura dello Stato"
-"lo stato degli affari"
-"lo stato delle cose"
-"minori in stato di abbandono"
-"nello Stato della Luisiana, gruppo di ufficiali con potere giurisdizionale congiunto su certi casi d"
-"non deve essere stato facile"
-"non era niente, non è stato niente"
-"partita di consolazione, gioco riservato a chi è stato eliminato"
-"pericolo per la sicurezza dello Stato"
-"persona a cui è stato dato un certo tipo di potere"
-"pessimo stato"
-"procuratore dello stato"
-"proprietà dello Stato"
-"quel che stato, è stato"
-"riportare allo stato precedente"
-"sarebbe stato"
-"Sarei stato in grado"
-"segretario di stato"
-"segreto di stato"
-"senso dello stato"
-"sono stato chiaro?"
-"Sono stato frainteso"
-"sotto la tutela dello stato"
-"spero di essere stato utile"
-"spero di esserti stato di aiuto"
-"stato"
-"stato"
-"stato"
-"stato"
-"stato"
-"stato"
-"stato"
-"stato"
-"stato (USA) del nord ovest"
-"stato antischiavista"
-"stato associato"
-"stato civile"
-"stato critico"
-"stato cuscinetto"
-"stato cuscinetto"
-"stato d'animo"
-"stato dei lavori"
-"stato del volo"
-"stato dell'assistenza sociale"
-"stato delle cose"
-"stato di allucinazione"
-"stato di aspettativa"
-#* '''''stato''' [[civile]]'', '''''stato''' di [[detenzione]]'';
-#* ''[[basso]] '''stato''''', ''[[alto]] '''stato''''';
-#* ''[[farsi]] uno '''stato''''';
-#* ''i tre '''stati''' della [[Francia]] [[prerivoluzionaria]]'';
-#* '''''stato''' di [[colpa]]'', '''''stato''' d'[[innocenza]]'';
-#* '''''stato''' [[solido]]'', '''''stato''' [[liquido]]'', '''''stato''' [[gassoso]]'';
-#* ''primo '''stato''''', ''secondo '''stato''''', ecc.
-#* ''[[accrescere]] il proprio '''stato''''';
-#* ''[[legge]] dello '''stato''''', ''lo '''stato''' [[italiano]]'';
-#* ''[[entrare]] in uno '''stato''''', ''[[attraversare]] lo '''stato''''';
-#* ''[[dipendente]] dello '''stato''''';
-*''(situazione o condizione sociale)'' [[status]]
-*''(entità politica, territorio)'' [[nazione]], [[paese]]
-* [[statale]], [[statista]], [[statistica]], [[statistico]]
-*''(entità politica, territorio)'' 
-*''Per la ragion di Stato e di confini son rovinati i ricchi e i poverini.''
-*italiano
-*latino
-*inglese
-*esperanto
-*ido
-*veneto
-M>-statico</E
-M>aerostato</E
-M>eliostato</E
-M>siderostato</E
-M>barostato</E
-M>girostato</E
-M>reostato</E
-M>igrostato</E
-M>termostato</E
-M>angiostato</E
-M>enterostato</E
-M>blefarostato</E
-M>craniostato</E
-M>aerostato.</E
+alto
+anno
+aria
+bello
+buono
+casa
+caso
+certo
+chiamare
+chiedere
+cosa
+credere
+diverso
+essere
+figlio
+gente
+giorno
+guerra
+italiano
+lavoro
+loro
+meglio
+molto
+momento
+nome
+nostro
+occhio
+ogni
+padre
+paese
+parola
+passare
+poco
+potere
+povero
+prendere
+primo
+proprio
+quale
+quello
+ragione
+ricordare
+rispondere
+sentire
+solo
+stare
+stato
+suo
+tale
+tempo
+tenere
+tornare
+troppo
+trovare
+tuo
+tutto
+ultimo
+uscire
+vecchio
+venire
+vero

@@ -1,107 +1,90 @@
-dare.txt
-"ai nervi, sui nervi (dare)"
-"aprire la porta a, dare il via"
-"cedere a qcn.; dare la precedenza a qcn.; lasciare il passo a qcn.; arrendersi a qcn."
-"cedere; dare la precedenza; lasciare il passo a"
-"chiamare, dare un nome"
-"dare"
-"dare"
-"dare"
-"dare"
-"affidare"
-"dare"
-"dare"
-"dare"
-"dare"
-"dare"
-"dare"
-"dare"
-"dare, replace: darsi"
-"dare, replace: darsi"
-"dare, replace: darsi"
-"dare"
-"dare a"
-"dare a Cesare (quel che è di Cesare)"
-"dare a qc il permesso di fare qcs"
-"dare accesso"
-"dare addosso; attaccare"
-"dare adito"
-"dare adito a"
-"dare adito"
-"dare aiuti a, dare sussidi a"
-"dare aiuto"
-"dare aiuto"
-"dare aiuto a qc, aiutare qc"
-"dare alla luce"
-"dare alla luce"
-"Dare alla testa"
-"dare alloggio"
-"dare aria alla bocca"
-"dare ascolto a"
-"dare ascolto a"
-"dare ascolto a"
-"dare assistenza"
-"dare assistenza"
-"dare assistenza"
-"dare attenzione"
-"dare atto"
-"dare attuazione"
-"dare attuazione"
-"dare attuazione a"
-"dare avviso di licenziamento"
-"dare battaglia"
-"dare battaglia contro"
-"dare buca a qualcuno"
-"dare carta bianca"
-"dare cibo con le mani"
-"dare cibo con le mani"
-"dare come pretesto"
-"dare completa totale soddisfazione (di cibo o bevande)"
-"dare conforto"
-"dare considerazione"
-"dare consiglio"
-"dare conto"
-"dare coraggio"
-"dare corda"
-"Dare corso a"
-"dare credito"
-"dare credito a"
-"dare cure mediche"
-"dare cure veterinarie"
-"dare dei frutti"
-"dare dei punti"
-"dare del filo da torcere"
-"dare del filo da torcere a qc, rendere la vita difficile a qc, creare dei problemi a qc"
-"dare del nutrimento"
-"dare del tu"
-"dare di matto"
-"dare di stomaco"
-"Dare di volta il cervello"
-"dare discendenza"
-"dare effetto"
-"dare enfasi a"
-"dare espressione"
-"dare espressione"
-"dare espressione a"
-"dare fastidio a qc, irritare qc"
-"dare forfait"
-"dare forma"
-"dare forza"
-"dare fuoco"
-"dare fuoco"
-"dare fuori"
-"Dare fuori di matto"
-"dare gas"
-"dare gioia"
-"dare i natali"
-"dare i numeri"
-"dare i ritocchi finali a"
-"dare i sacramenti"
-"dare i suoi frutti"
-"dare il"
-"dare il benestare"
-"dare il benestare a qc, dare il nullaosta a qc, dare il permesso a qc, dare il via libera a qc"
-#*''bisogna '''dare''' una mano di bianco a questi muri''
-* [[dare alla luce]], [[dare gas]],  [[dare il la]],  [[dare per scontato]],  [[dare rifugio]],  [[dare spettacolo]],  [[dare un'occhiata]],  [[dare un passaggio]],  [[dare un pugno]],
-*italiano
-*inglese
+acqua
+alto
+amico
+amore
+andare
+anno
+aprire
+aria
+buono
+casa
+caso
+cercare
+chiamare
+chiedere
+cominciare
+cosa
+credere
+dare
+dire
+donna
+entrare
+essere
+fatto
+forza
+giorno
+grande
+guardare
+guerra
+lasciare
+lavoro
+lungo
+mano
+meglio
+mettere
+modo
+molto
+momento
+nessuno
+nome
+notte
+nuovo
+occhio
+ora
+padre
+paese
+parlare
+parola
+parte
+passare
+pensare
+poco
+portare
+potere
+prendere
+primo
+proprio
+punto
+quello
+ragione
+ricordare
+rimanere
+rispondere
+sapere
+sentire
+sera
+signore
+solo
+stare
+stesso
+storia
+strada
+tale
+tanto
+tempo
+tenere
+testa
+tornare
+troppo
+trovare
+tuo
+tutto
+ultimo
+uomo
+uscire
+vedere
+venire
+vita
+vivere
+voce
+volere

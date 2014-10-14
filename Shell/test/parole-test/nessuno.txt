@@ -1,83 +1,37 @@
-nessuno.txt
-"casa di nessuno"
-"nessuno"
-"nessuno"
-"nessuno"
-"nessuno"
-"nessuno"
-"nessuno dei due"
-"nessuno è profeta in patria"
-"nessuno escluso"
-"nessuno regala niente"
-"nessuno si muova"
-"nessuno ti dà niente per niente"
-"nessuno ti si fila"
-"non ce li toglie nessuno"
-"non è nessuno"
-"non essercene più per nessuno"
-"non esserci per nessuno"
-"non guardare in faccia a nessuno"
-"per nessuno scopo"
-"quasi nessuno"
-"quasi nessuno"
-"secondo a nessuno"
-"spero che nessuno si sia fatto male"
-"terra di nessuno"
-"terra di nessuno"
-"tutti parlano e nessuno fa niente"
-"un po' per uno non fa male a nessuno"
-"una volta per uno non fa male a nessuno"
-#* ''non conosco '''nessuna''' donna''
-#* '''''nessun''' amico ti tradirà''
-#* ''oggi non si è fatto vivo 
-#* ''non ho trovato 
-* [[alcuno]], [[niuno]] 
-* [[tutti]] 
-M>ne ipse </E
-M>nus</E
-M>uno</E
-M>nessun cane</E
-M> nessun uomo</E
-M>nessun’anima</E
-M>nessuno scopo</E
-M>Che vi sia</E
-M> ciascun lo dice</E
-M> Dove sia</E
-M> nessun lo sa</E
-M>dato che nessun ci va</E
-M>ci vo io</E
-M>non</E
-M>senza</E
-M>non ho avuto ancora n</E
-M>notizia</E
-M>nessun uomo di buonsenso ti approverebbe</E
-M>non c’è nessuna fretta</E
-M>non gode di nessuna stima</E
-M>non ho notato nessun miglioramento</E
-M>il nessun interesse dell’argomento</E
-M>il nessun vantaggio che ne avresti</E
-M>non c’era quasi n</E
-M>ha potuto vedermi</E
-M>non mi ha visto n</E
-M>di voi ne sarebbe capace</E
-M>non trovai nessun altro</E
-M>«non c’è proprio n</E
-M>?» «nessunissimo»</E
-M>Ma nell’aldilà N. n. ci separerà</E
-M>roba di n</E
-M>figli di n</E
-M>terra di n</E
-M>no man’s land</E
-M>qualche</E
-M>qualcuno</E
-M>alcuno</E
-M>hai visto n</E
-M>c’è n</E
-M>in casa?</E
-M>cerca se c’è nessun indizio</E
-M>si dà delle arie</E
-M>ma non è n</E
-M>e io chi sono? n</E
-M>qualcuno</E
-M>è diventato qualcuno</E
-M>crede d’esser qualcuno</E
+bello
+capire
+casa
+cercare
+conoscere
+figlio
+guardare
+lasciare
+meglio
+mio
+modo
+momento
+nessuno
+ogni
+parola
+parte
+passare
+poco
+portare
+proprio
+punto
+questo
+ragione
+sentire
+stare
+tale
+tanto
+tempo
+tornare
+trovare
+tuo
+tutto
+vedere
+venire
+vita
+voce
+volta

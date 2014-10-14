@@ -1,109 +1,26 @@
-buono.txt
-"abbastanza buono"
-"abbastanza buono"
-"abbastanza buono"
-"angelo buono"
-"buono"
-"buono"
-"buono"
-"buono"
-"buono"
-"buono"
-"buono"
-"buono"
-"buono"
-"buono"
-"buono (che sta dalla tua parte)"
-"buono a"
-"buono a niente, buono a nulla"
-"buono a nulla"
-"buono acquisto"
-"buono d'ordine"
-"buono da mangiare"
-"buono del Tesoro a lungo termine"
-"buono omaggio"
-"buono ordinario del Tesoro"
-"buono per i merli"
-"buono regalo, buono omaggio"
-"Negozi ecc.: buono di valore predeterminato valido per l'acquisto di merce presso un negozio, solitamente usato come dono."
-"buono sconto"
-"buono, ben fatto"
-"che cosa c’è di buono?"
-"così bene, così buono"
-"dare un buon; un buono; una buona"
-"di buon, in buon, buono"
-"disonesta poco di buono"
-"disonesto poco di buono"
-"essere buono"
-"essere buono"
-"essere buono con"
-"essere buono con"
-"essere buono per"
-"essere buono per\/andare bene per"
-"essere in buono stato"
-"folletto buono"
-"gigante buono"
-"il lato buono di"
-"il servizio buono"
-"in buono stato"
-"lato buono"
-"mettersi di buzzo buono su qcs, lavorare sodo a qcs"
-"morale buono"
-"nella botte piccola c'è il vino buono"
-"piuttosto bene (adv), piuttosto buono (adj)"
-"poco buono"
-"poco di buono"
-"prendere come buono"
-"prendere per buono"
-"qualcosa di buono"
-"salotto buono"
-"semplice ma buono; tradizionale"
-"separare il buono dal cattivo"
-"separare il buono dal cattivo"
-"sufficientemente buono"
-"tenere buono"
-"troppo buono"
-"troppo buono"
-"un poco di buono"
-"vestito buono, vestito migliore"
-"voucher, buono"
-*''(da un punto di vista morale)'' di cuore, [[morale]], [[onesto]], [[retto]],[[virtuoso]], [[serio]], [[perbene]], [[dabbene]]
-*''(di persona, comportamento, animo)''persona buona [[amabile]], [[affabile]], [[gentile]], [[delicato]], [[cortese]], [[cordiale]], [[condiscendente]], [[paziente]], [[amorevole]], [[affettuoso]], [[benevolo]], [[caro]], [[dolce]], [[comprensivo]], [[disponibile]], [[tollerante]], [[indulgente]], [[clemente]], [[umano]], [[sensibile]], [[pietoso]], [[caritatevole]], [[filantropo]], [[altruista]], [[generoso]], [[magnanimo]],[[docile]], [[mite]], [[pacifico]], [[mansueto]], [[bonario]], [[obbediente]], [[disciplinato]], [[diligente]], [[rispettoso]], [[pio]], [[osservante]],   [[garbato]], [[educato]]  
-*''(specialmente. riferito a bambino)'' [[calmo]], [[sereno]], [[tranquillo]], [[silenzioso]], [[composto]], [[disciplinato]], [[obbediente]], [[dolce]]
-*''(di persona, specialmente da un punto di vista professionale, attitudinale)'' [[abile]], [[bravo]], [[capace]], [[affidabile]], [[atto]], [[adatto]], [[idoneo]], [[ferrato]], [[valente]], [[esperto]], [[competente]], [[perito]], [[versato]], [[sicuro]]
-*''(di tecnica, medicina)'' [[opportuno]], [[appropriato]], [[efficace]], [[energico]], [[interessante]], [[approfondito]], [[profondo]], [[esatto]]
-*''(di parti del corpo, di memoria)'' [[valido]], [[efficiente]]
-*''(di film, opera)'' [[bello]], di pregio, di valore, [[pregevole]], [[pregiato]], [[raro]], [[eccezionale]], [[notevole]], [[considerevole]], [[eccellente]]
-*''(di nome, reputazione, famiglia)'' [[onesto]], [[nobile]]
-*''(di affare, occasione)'' [[utile]], [[vantaggioso]], [[redditizio]], [[conveniente]]
-*''(di periodo, momento)'' [[propizio]], [[favorevole]], [[felice]], [[fortunato]]
-*''(di odore, sapore)'' [[gradevole]], [[piacevole]]
-*''(di alimento)'' [[delizioso]], [[saporito]], [[appetitoso]], [[ghiotto]], [[gustoso]], [[squisito]], [[stuzzicante]], [[succulento]], [[aromatico]], [[fragrante]], [[profumato]]
-*''(di aria, luogo)'' [[sano]], [[salubre]], [[salutare]], [[balsamico]], [[genuino]], [[schietto]], [[naturale]], [[puro]], [[autentico]], [[vero]], [[reale]]
-*''(di clima, stagione)'' [[temperato]], [[fresco]]
-*''(di notizie)'' [[positivo]], [[soddisfacente]]
-*''(di argomento, ragionamento)'' [[giusto]], [[valido]], [[accettabile]], [[plausibile]]
-*[[grande]], [[abbondante]], [[ricco]], [[copioso]]
-*''(di indumento)'' [[utilizzabile]], [[riutilizzabile]], [[mettibile]], [[portabile]], [[pulito]], in ordine, della festa, [[pregiato]], [[raffinato]], [[fine]], [[di valore]], [[pregevole]]
-*''(di terreno)'' [[produttivo]], [[fertile]]
-*[[bontà]]
-*''(di lavoro e simili)'' [[esatto]], [[accurato]], [[approfondito]], [[preciso]], [[rigoroso]], [[pregevole]]
-*[[biglietto]], [[contromarca]], [[marca]], [[abbonamento]], [[tessera]], [[tesserino]], [[card]], [[scontrino]], [[ricevuta]], [[cedola]], [[tagliando]], [[coupon]], [[talloncino]], [[polizza]], [[bolletta]], [[bollino]]
-*(da un punto di vista morale)[[cattivo]], [[malvagio]], [[immorale]], [[disonesto]]
-*''(di persona, comportamento, animo)'' [[sgarbato]], [[scortese]], [[impaziente]], [[ostile]], [[intollerante]], [[disumano]], [[aggressivo]], [[prepotente]], [[violento]], [[spietato]], [[disubbidiente]], [[indisciplinato]], [[crudele]], [[disumano]], [[cattivo]], [[egoista]], [[perfido]]
-*''(di persona, specialmente da un punto di vista professionale, attitudinale)''[[incapace]], [[inaffidabile]], [[inadatto]], [[inesperto]], [[incompetente]]
-*''(di tecnica, medicina)'' [[inefficace]], [[dannoso]], [[sfavorevole]]
-*''(di film, opera)'' [[brutto]], [[sgradevole]], [[malfatto]], [[scadente]]
-*''(di affare, occasione)'' [[inutile]], [[svantaggioso]], [[inopportuno]]
-*''(di odore, sapore)'' [[nauseante]], [[disgustoso]]
-*''(di alimento)''
-*''(di argomento, ragionamento)'' [[inaccettabile]], [[infondato]]
-*''(di terreno)''[[arido]], [[improduttivo]]
-*''(di bambino, scolaro e simili)''[[agitato]], [[nervoso]], [[scalmanato]], [[indisciplinato]], [[disobbediente]], [[cattivo]]
-*''(di modi, di accoglienza eccetera)'' [[duro]], [[scortese]], [[sgarbato]], [[rozzo]]
-*''(di lavoro e simili)'' [[inesatto]], [[malfatto]], [[brutto]] 
-*''(di stoffa, di abito e simili)'' [[scadente]], [[dozzinale]], [[di scarto]] 
-*[[cattiveria]], [[male]]
-*[[buono-anziani]], [[buono-scuola]], [[buono casa]], [[buono alloggio]], [[buono pratica]], [[buon Enrico]]
-*''alla buona''
-*''buono a nulla''
+bello
+buono
+conoscere
+cosa
+dire
+fatto
+grande
+lasciare
+lungo
+mettere
+molto
+parola
+parte
+poco
+prendere
+quale
+quello
+sentire
+stare
+stato
+strada
+tempo
+tenere
+troppo
+trovare
+tutto

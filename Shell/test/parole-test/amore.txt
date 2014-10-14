@@ -1,291 +1,34 @@
-amore.txt
-"amore"
-"amore"
-"amore"
-"amore"
-"amore"
-"amore"
-"amore, amori"
-"amore"
-"amore coniugale"
-"amore cortese"
-"amore dei genitori"
-"amore eterno"
-"amore fisico"
-"amore fraterno"
-"amore infinito"
-"amore malato"
-"amore materno"
-"amore materno"
-"amore mio"
-"amore paterno"
-"amore per Dio"
-"amore per la natura"
-"amore per la patria"
-"amore senza età"
-"amore vietato"
-"amore, tesoro"
-"atto d'amore"
-"canzone d'amore"
-"colpito dall'amore"
-"con affetto, con amore"
-"con amore"
-"amorevolmente"
-"dare il tuo amore"
-"dea dell'amore"
-"dea dell'amore"
-"Dio dell'amore"
-"erba dell'amore"
-"fare l'amore"
-"fare l'amore"
-"fare l'amore"
-"fare l'amore"
-"fate l'amore non la guerra"
-"gioco d'amore"
-"giurarsi eterno amore"
-"il fare l'amore"
-"il mio amore"
-"in amore vince chi fugge"
-"insieme d'amore"
-"l'amore"
-"l'amore è cieco"
-"lettera d'amore"
-"libero amore"
-"luce dell'amore"
-"malato d'amore"
-"matrimonio d'amore"
-"nido d'amore"
-"nodo d'amore"
-"non c'è sesso senza amore"
-"per amore"
-"per amore di"
-"per amore di patria"
-"pozione d'amore"
-"praticante del libero amore"
-"provare amore fervido per"
-"Questo piccolo grande amore"
-"senza amore"
-"sfortunato al gioco fortunato in amore"
-"storia d'amore"
-"storia d'amore"
-"storia d'amore"
-"tunnel dell'amore"
-"vero amore"
-#*''andrò in vacanza con il mio amore''
-#*''quella mansarda è un amore'' 
-*''(per i figli, i genitori, gli amici)'' [[affetto]], [[bene]], [[affettuosità]], [[attaccamento]], [[amicizia]], [[tenerezza]], [[calore]], [[dolcezza]], [[attenzione]], [[cura]], [[amorevolezza]], [[presenza]], [[vicinanza]], [[affezione]], 
-*''(per il partner)'' [[attrazione]], attrazione sessuale, [[desiderio]], [[passione]], [[innamoramento]]
-*''(negli animali)''[[estro]]
-*''(per l’arte, la musica, la patria)'' [[predilezione]], [[aspirazione]], [[interesse]], forte desiderio, [[devozione]], [[ardore]], [[fuoco]], [[fiamma]], [[trasporto]], [[adorazione]]
-*''(per il denaro, il successo)'' [[brama]], [[cupidigia]]
-*''(teologia)'' [[carità]], [[generosità]], [[solidarietà]], [[benevolenza]]
-*[[odio]], [[avversione]], [[astio]], [[animosità]], [[disprezzo]],  [[disinteresse]], [[indifferenza]] 
-*[[amoroso]], [[amorevole]], [[amoreggiare]], [[amorazzo]], [[amoreggiamento]], [[amorevolezza]], [[amorino]], [[amorosamente]], 
-*''La giustizia è la forza dei re, la furbizia è la forza della donna, l'orgoglio è la forza dei pazzi, la spada è la forza del bandito, l'umiltà è la forza dei saggi, le lacrime sono la forza del bambino, l''''amore''' di un uomo e una donna è la forza del mondo''
-*''
-*''quando la fame entra dalla porta l'
-*'' amore di sé''
-*'' amor proprio''
-*'' d’amore e d’accordo''
-*''per amore o per forza'' 
-*Enciclopedia [http
-*Devoto/Oli,''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 85
-M>amor</E
-M>ris</E
-M>amare</E
-M>amore</E
-M>non è altro che unimento spirituale de l’anima e de la cosa amata</E
-M>materno</E
-M>filiale</E
-M>fraterno</E
-M>alla famiglia</E
-M>agli amici</E
-M>l’a</E
-M>del padre</E
-M>coniugale</E
-M>Era tra questi due solo un a. Ed un volere</E
-M>vivere</E
-M>procedere d’a</E
-M>e d’accordo</E
-M>l’a</E
-M>di sé</E
-M>avere un esagerato a</E
-M>di sé</E
-M>amor proprio</E
-M>avere</E
-M>non avere</E
-M>essere privo di amor proprio</E
-M>non hai un briciolo di amor proprio</E
-M>sentire</E
-M>provare a</E
-M>per qualcuno</E
-M>avere</E
-M>portare a</E
-M>a uno</E
-M>porre il proprio a</E
-M>in qualcuno</E
-M>levare l’a</E
-M>a uno</E
-M>conciliarsi</E
-M>meritarsi l’a</E
-M>di una persona</E
-M>per a</E
-M>ci andrò per amor tuo</E
-M>accettalo per amore mio</E
-M>è per a</E
-M>di lei che mi tocca fare questa bella sfaticata</E
-M>per a</E
-M>di verità</E
-M>per amor di giustizia</E
-M>di brevità</E
-M>per a</E
-M>o per forza</E
-M>Per lei assai di lieve si comprende Quanto in femmina foco d’amor dura</E
-M>Se l’occhio o ’l tatto spesso non l’accende</E
-M>assolutizzato e slegato</E
-M> come mai prima</E
-M> da ogni referente sociale</E
-M> giuridico</E
-M> religioso</E
-M> l’a. si annuncia come assoluta promessa di felicità o come guerra senza frontiere</E
-M>ardente</E
-M>appassionato</E
-M>sviscerato</E
-M>morboso</E
-M>disperato</E
-M>corrisposto</E
-M>non corrisposto</E
-M>pene</E
-M>turbamenti</E
-M>sofferenze</E
-M>tormenti</E
-M>febbre d’a</E
-M>giurare eterno a</E
-M>cedere</E
-M>abbandonarsi</E
-M>resistere all’a</E
-M>dare la prova dell’a</E
-M>una prova d’a</E
-M>pretendere</E
-M>esigere una prova d’a</E
-M>puro</E
-M>sensuale</E
-M>dei sensi</E
-M>romantico</E
-M>platonico</E
-M>libero</E
-M>eterosessuale</E
-M>omosessuale</E
-M>versi</E
-M>prose</E
-M>romanzi</E
-M>canzoni d’a</E
-M>le lettere d’a</E
-M>del Foscolo</E
-M>accendersi</E
-M>ardere</E
-M>bruciare d’a</E
-M>languir d’a</E
-M>filare il perfetto a</E
-M>patire di mal d’a</E
-M>figlio dell’a</E
-M>Fare all’a</E
-M>fare l’a</E
-M>fare l’amore</E
-M>fare all’a</E
-M>con una cosa</E
-M>è tanto tempo che faccio all’a</E
-M>con quell’appartamento</E
-M> qualche furbo</E
-M>che forse sarà già un pezzo che fa all’a</E
-M>a quelle quattro braccia di terra</E
-M>chi ha fortuna in amor non giochi a carte</E
-M>chi è sfortunato al gioco è fortunato in a</E
-M>e tosse non si possono celare</E
-M>igiene</E
-M>fisiologia dell’a</E
-M>ancillari</E
-M>unirsi</E
-M>congiungersi</E
-M>mescolarsi</E
-M>confondersi in a</E
-M>egli nacque da un antico dio della patria mescolatosi in a</E
-M>con una fata del settentrione</E
-M>andare</E
-M>entrare</E
-M>essere in a</E
-M>Van le tigri in a.</E
-M>Ama il leon superbo</E
-M>il primo a</E
-M>non si scorda mai</E
-M>ha avuto molti a</E
-M>nella sua vita</E
-M>gli a</E
-M>di G</E
-M>Casanova</E
-M>gli a</E
-M>di Enea e Didone</E
-M>Amore</E
-M>è bello come un a</E
-M>Allegro mi sembrava Amor tenendo Meo core in mano</E
-M>Volan scherzando i pargoletti Amori</E
-M>l’eterno</E
-M>il sommo</E
-M>il supremo</E
-M>il divino a</E
-M>il primo a</E
-M>Fecemi la divina podestate</E
-M> La somma sapïenza e ’l primo a</E
-M>per amor di Dio</E
-M>per l’amor di Dio</E
-M>mi dia un pezzo di pane per amor di Dio</E
-M>non s’è fatto pagare</E
-M>l’ha fatto per amor di Dio</E
-M>taci una buona volta</E
-M>per l’amor di Dio!</E
-M>per l’amor di Dio</E
-M>non ti esporre a questi rischi!</E
-M>per l’amor di Dio</E
-M>non ne parliamo neppure!</E
-M>l’a</E
-M>che dobbiamo ai nostri simili</E
-M>l’a</E
-M>per gli umili</E
-M>del denaro</E
-M>dell’oro</E
-M>del guadagno</E
-M>del lusso</E
-M>del potere</E
-M>della conquista</E
-M>di gloria</E
-M>di sapienza</E
-M>prendere</E
-M>avere a</E
-M>allo studio</E
-M>al lavoro</E
-M>all’arte</E
-M>al gioco</E
-M>alla caccia</E
-M>amor patrio</E
-M>di patria</E
-M>con a</E
-M>lavorare</E
-M>studiare</E
-M>coltivare la terra con a</E
-M>Quando con tanto a. L’uomo a’ suoi studi intende?</E
-M>ha ricevuto una lettera dal suo a</E
-M>la musica è stata il suo unico e più vero a</E
-M>Amor di Febo e de’ Celesti è Delo</E
-M>amor mio!</E
-M>rispuose quello amor paterno</E
-M>che a</E
-M>di ragazza!</E
-M>un a</E
-M>di cagnolino</E
-M>un villino che è un vero amore</E
-M>perfetto a</E
-M>amor perfetto</E
-M>amor nascosto</E
-M>Aquilegia vulgaris</E
-M>questi amorazzi sporchi e infami</E
-M>Con novelli amorazzi ognor s’impegola</E
+amore
+buono
+conoscere
+donna
+entrare
+figlio
+forza
+guardare
+guerra
+lasciare
+mio
+molto
+mondo
+notte
+nuovo
+padre
+parola
+piccolo
+portare
+povero
+prendere
+questo
+sentire
+storia
+tempo
+testa
+tornare
+trovare
+tuo
+uomo
+vecchio
+vero
+vivere
+vostro

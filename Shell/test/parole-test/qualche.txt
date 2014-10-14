@@ -1,93 +1,45 @@
-qualche.txt
-"avere qualche santo in paradiso"
-"da qualche parte"
-"da qualche parte"
-"da qualche parte"
-"da qualche parte"
-"da qualche tempo"
-"dalle parti di, nei dintorni di, da qualche parte vicino a"
-"dopo un po’, dopo qualche tempo"
-"essere da qualche altra parte"
-"in qualche altra occasione"
-"in qualche maniera"
-"in qualche misura"
-"in qualche modo"
-"in qualche posto"
-"in qualche posto"
-"in qualche posto"
-"in una qualche misura"
-"mettere su qualche chilo"
-"per qualche motivo"
-"per qualche ragione"
-"per qualche spicciolo"
-"perdere qualche anno di vita"
-"prendere qualche cosa"
-"prendere qualche cosa"
-"qualche"
-"qualche"
-"qualche"
-"qualche altro"
-"qualche anno fa"
-"qualche cosa"
-"qualche cosa"
-"qualche tempo fa"
-"qualche volta"
-"qualche volta, di tanto in tanto"
-"strappare qualche sorriso"
-"uscirne in qualche modo"
-M>quale</E
-M>che</E
-M>qualcuno</E
-M>Non si pareggi a lei qual più s’aprezza In qual ch’etade</E
-M>in quai che strani lidi</E
-M>Com’a l’annunzio di dogliosi danni Si turba il viso di colui ch’ascolta</E
-M>Da qual che parte il periglio l’assanni</E
-M>un q</E
-M>rimedio si dovrà pur trovare</E
-M>una q</E
-M>spiegazione ci sarà pure</E
-M>bisogna trovare un q</E
-M>sistema per farlo stare zitto</E
-M>dev’esserci sotto una q</E
-M>diavoleria</E
-M>per q</E
-M>ora</E
-M>per q</E
-M>giorno</E
-M>per far restaurare questa madia ci vorrà q</E
-M>centinaio di euro</E
-M>soldo ce l’hanno</E
-M>e se ti dirà che tu aspetti q</E
-M>poco</E
-M>lì vicino al convento</E
-M>non ti sviare</E
-M>hai q</E
-M>bel libro da farmi leggere?</E
-M>se capita in negozio q</E
-M>avventore</E
-M>chiamami</E
-M>nutro ancora q</E
-M>speranza di riuscire</E
-M>giorno verrò a trovarti</E
-M>volta la fortuna capiterà anche a noi</E
-M>vedrai</E
-M>con un seguito così</E
-M>dev’essere q</E
-M>pezzo grosso</E
-M>personaggio di q</E
-M>rilievo</E
-M>argomento di q</E
-M>consistenza</E
-M>mi sento d’affermarlo con q</E
-M>certezza</E
-M>si è espresso non senza q</E
-M>ambiguità</E
-M>sento il bisogno di riposarmi per q</E
-M>giorno</E
-M>persona non priva di un q</E
-M>fascino</E
-M>qualche cosa</E
-M>qualchecosa</E
-M>qualchecosina</E
-M>circa</E
-M>Eran qualche otto leghe cavalcate</E
+alcuno
+altro
+amore
+anno
+bisognare
+capire
+casa
+cosa
+credere
+dire
+entrare
+forza
+guerra
+lasciare
+mano
+meglio
+mettere
+mio
+modo
+molto
+momento
+nessuno
+occhio
+parola
+parte
+passare
+poco
+portare
+prendere
+proprio
+qualche
+ragione
+sentire
+stare
+tanto
+tempo
+tenere
+tornare
+troppo
+trovare
+vedere
+venire
+vero
+vita
+volta

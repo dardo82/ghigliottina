@@ -1,62 +1,47 @@
-italiano.txt
-" come in Italiano o Francese"
-"italiano"
-"italiano"
-"italiano"
-"italiano vero"
-"migliorare il proprio italiano"
-"stato italiano"
-"un italiano sui generis"
-#* ''popolo 
-*italiano
-*spagnolo
-M>il popolo i</E
-M>lingua</E
-M>storia</E
-M>letteratura i</E
-M>la civiltà</E
-M>la cultura i</E
-M>le coste</E
-M>le regioni</E
-M>le città, le province i</E
-M>la Repubblica I</E
-M>all’italiana</E
-M>mangiare all’i</E
-M>giardino all’i</E
-M>western all’i</E
-M>cosa fatta all’i</E
-M>un i</E
-M>gli Italiani</E
-M>le Italiane</E
-M>o Italiani</E
-M>io vi esorto alle storie</E
-M>gli Italiani all’estero</E
-M>studiare</E
-M>imparare l’i</E
-M>parlare bene</E
-M>male correttamente l’i</E
-M>scrivere in buon i</E
-M>tradurre dal latino in i</E
-M>versione dall’i</E
-M>in latino</E
-M>è un errore d’i</E
-M>in i</E
-M>si dice così</E
-M>parlare italiano</E
-M>questo si chiama parlare italiano</E
-M>un poema tedesco con l’i</E
-M>con la traduzione i</E
-M>a fronte</E
-M>professore d’i</E
-M>e storia</E
-M>tema d’i</E
-M>esame d’i</E
-M>l’alunno è carente in i</E
-M>e matematica</E
-M>italianìssimo</E
-M>la consuetudine italianissima di mangiare il primo e il secondo</E
-M>un eroe italianissimo</E
-M>città italianissima</E
-M>pensare</E
-M>sentire</E
-M>agire italianamente</E
+acqua
+alto
+avere
+bello
+casa
+caso
+città
+cosa
+dare
+dire
+donna
+giorno
+grande
+guerra
+italiano
+mano
+mio
+modo
+momento
+nome
+nostro
+occhio
+ora
+padre
+parte
+primo
+proprio
+punto
+quello
+questo
+sera
+signore
+solo
+stare
+stato
+storia
+suo
+tenere
+testa
+ultimo
+uscire
+venire
+vero
+vita
+vivere
+voce
+volta

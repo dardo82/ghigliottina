@@ -1,83 +1,12 @@
-dovere.txt
-"a dovere"
-"adempimento del dovere"
-"chi di dovere"
-"dedizione al dovere"
-"dovere"
-"dovere"
-"dovere"
-"dovere"
-"dovere"
-"dovere"
-"dovere"
-"dovere (qualcosa a qualcuno)"
-"dovere alzarsi"
-"dovere e piacere"
-"dovere qc a qn"
-"dovere qualcosa a"
-"fai il tuo dovere"
-"fare il proprio dovere"
-"fare il proprio dovere nei confronti di"
-"gita di dovere"
-"in dovere"
-"ligio al dovere"
-"ligio al dovere"
-"portare a termine (un dovere)"
-"senso del dovere"
-"sentirsi in dovere di"
-"sentirsi obbligato a fare qcs. per dovere vs. qcn."
-"svolgimento del proprio dovere"
-#* ''Mi sono sentito in '''dovere''' di aiutarlo''
-#* '''''devo''' essere lì per le 4''
-#* ''se non vuoi essere bocciato, '''devi''' studiare!'' 
-#* '''''dovevo''' andarmene, ma poi ho deciso di restare!''
-#* '''''deve''' essere già uscito..'' 
-#* ''mi '''deve''' un milione di dollari''
-*''(avere dei debiti)'' [[spettare]], [[ toccare]], [[incombere]] 
-*[[sembrare]], [[parere]] 
-*''(la denominazione, l'origine ecc.)'' [[prendere]] (p.e.
-*''(comportamento)'' [[ obbligo]], [[ compito]], [[ onere]], [[ incombenza]], [[ responsabilità]], [[impegno]]
-*[[ diritto]] 
-*  (obbligo morale) [[a dovere]], [[chi di dovere]]
-*[[come si deve]]
-"a dovere"
-"adempimento del dovere"
-"chi di dovere"
-"dedizione al dovere"
-"dovere"
-"dovere"
-"dovere"
-"dovere"
-"dovere"
-"dovere"
-"dovere"
-"dovere (qualcosa a qualcuno)"
-"dovere alzarsi"
-"dovere e piacere"
-"dovere qc a qn"
-"dovere qualcosa a"
-"fai il tuo dovere"
-"fare il proprio dovere"
-"fare il proprio dovere nei confronti di"
-"gita di dovere"
-"in dovere"
-"ligio al dovere"
-"ligio al dovere"
-"portare a termine (un dovere)"
-"senso del dovere"
-"sentirsi in dovere di"
-"sentirsi obbligato a fare qcs. per dovere vs. qcn."
-"svolgimento del proprio dovere"
-#* ''Mi sono sentito in '''dovere''' di aiutarlo''
-#* '''''devo''' essere lì per le 4''
-#* ''se non vuoi essere bocciato, '''devi''' studiare!'' 
-#* '''''dovevo''' andarmene, ma poi ho deciso di restare!''
-#* '''''deve''' essere già uscito..'' 
-#* ''mi '''deve''' un milione di dollari''
-*''(avere dei debiti)'' [[spettare]], [[ toccare]], [[incombere]] 
-*[[sembrare]], [[parere]] 
-*''(la denominazione, l'origine ecc.)'' [[prendere]] (p.e.
-*''(comportamento)'' [[ obbligo]], [[ compito]], [[ onere]], [[ incombenza]], [[ responsabilità]], [[impegno]]
-*[[ diritto]] 
-*  (obbligo morale) [[a dovere]], [[chi di dovere]]
-*[[come si deve]]
+chiamare
+dire
+dovere
+mano
+modo
+portare
+primo
+proprio
+sentire
+stare
+tuo
+voce

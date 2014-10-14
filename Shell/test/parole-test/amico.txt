@@ -1,145 +1,24 @@
-amico.txt
-"(essere) amico con"
-"amico"
-"amico"
-"amico"
-"amico del cuore"
-"amico del cuore"
-"amico del cuore"
-"amico di"
-"amico di penna"
-"amico di penna"
-"amico di vecchia data"
-"amico fedele"
-"amico fedele"
-"amico fidato"
-"amico immaginario"
-"amico in comune"
-"amico intimo"
-"amico intimo"
-"amico intimo"
-"amico intimo"
-"amico intimo di, in confidenza con"
-"amico mio"
-"amico nel momento del bisogno"
-"amico per corrispondenza"
-"amico ritrovato"
-"amico vero"
-"amico, sostenitore"
-"buon amico"
-"caro amico"
-"caro amico"
-"chi trova un amico trova un tesoro"
-"come amico"
-"essere amico di"
-"essere amico di; andare d'accordo con qcn."
-"falso amico"
-"amico su cui non si può contare"
-"grande amico"
-"miglior amico dell'uomo"
-"migliore amico"
-"si, amico"
-"un mio amico"
-#*un volto 
-#* ''
-*[[amichevole]], [[affezionato]], [[caro]], [[favorevole]], [[benevolo]], [[propizio]]
-*[[compagno]], [[alleato]], [[confidente]], [[conoscente]]
-*[[contrario]], [[ostile]], [[rivale]]
-*[[nemico]]
-*[[amichevole]], [[agente-amico]] 
-*[[amicizia]]
-*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 79
-M>amicus</E
-M>amare</E
-M>avere</E
-M>trovare</E
-M>perdere</E
-M>farsi un a</E
-M>intimo</E
-M>d’infanzia</E
-M>l’a</E
-M>del cuore</E
-M>un vecchio a</E
-M>di casa</E
-M>di cappello</E
-M>di saluto</E
-M>di tavola</E
-M>di gioco</E
-M>consiglio da a</E
-M>trattare da a</E
-M>fare l’a</E
-M>costui fa l’a</E
-M>del convento</E
-M>si spaccia per partigiano de’ cappuccini</E
-M>l’a</E
-M>dell’uomo</E
-M>patti chiari</E
-M>cari</E
-M>cari e borsa del pari</E
-M>chi trova un a</E
-M>trova un tesoro</E
-M>dagli a</E
-M>mi guardi Iddio</E
-M>ché dai nemici mi guardo io</E
-M>e amici come prima</E
-M>più di prima!</E
-M>amici di Dio</E
-M>società degli amici</E
-M>the religious society of friends</E
-M>amici sinceri</E
-M>avere l’amico</E
-M>l’amica</E
-M>fare un viaggio con l’amica</E
-M>farsi accompagnare a casa dall’amico</E
-M>amante</E
-M>farsi l’amico</E
-M>l’amica</E
-M>ha lasciato la moglie per vivere con l’amica</E
-M>hai visto l’appartamento che le ha regalato l’amico!</E
-M>aver sì bella donna e sì pudica Debbe nome di moglie e non d’amica</E
-M>l’amica</E
-M>La morta a</E
-M>almen guarda dal cielo Onde d’Elettra tua resti la fama</E
-M>è un a</E
-M>dell’arte</E
-M>gli a</E
-M>del paesaggio</E
-M>gli a</E
-M>della musica</E
-M>gli a</E
-M>dell’arte sacra</E
-M>gli amici di</E
-M>l’a</E
-M>degli amici</E
-M>amico!</E
-M>quell’a</E
-M>amici!</E
-M>Chi è?</E
-M>Amici!</E
-M>e l’a</E
-M>che ha risposto?</E
-M>voleva fartela</E
-M>l’amico!</E
-M>viso a</E
-M>parola amica</E
-M>essere</E
-M>tu sai che io ti sono a</E
-M>il cane è a</E
-M>dell’uomo</E
-M>del giaguaro</E
-M>sono molto amici</E
-M>sono amicissimi fra loro</E
-M>Se fosse a</E
-M>il re de l’universo</E
-M>la notte è a</E
-M>dei ladri</E
-M>essere a</E
-M>dell’arte</E
-M>della libertà</E
-M>della pace</E
-M>della quiete</E
-M>numeri a</E
-M>numeri amicabili</E
-M>avere un’amichetta</E
-M>farsi l’amichetta</E
-M>amichevolmente</E
+amico
+buono
+casa
+chiedere
+entrare
+essere
+grande
+mio
+momento
+morire
+nessuno
+parola
+ricordare
+signore
+solo
+stare
+suo
+tenere
+trovare
+uomo
+vedere
+vero
+vivere
+vostro

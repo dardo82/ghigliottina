@@ -1,314 +1,58 @@
-proprio.txt
-"a proprio agio"
-"a proprio agio"
-"a proprio agio"
-"a proprio agio"
-"a proprio agio con"
-"a proprio agio con"
-"a proprio agio con"
-"accrescere il proprio livello, accrescere la propria condizione"
-"accusare falsamente qualcuno di razzismo a proprio vantaggio"
-"al proprio interno"
-"al proprio posto"
-"Amor proprio"
-"andare a proprio vantaggio"
-"andare per conto proprio"
-"aprire il proprio cuore"
-"aver proprio voglia di"
-"avere frecce al proprio arco"
-"basare il proprio ragionamento"
-"chiamare le cose col proprio nome"
-"dormire assieme al proprio promesso senza svestirsi"
-"dotato di motore proprio"
-"è proprio una capa tosta! (slang\/colloquial)"
-"e' proprio il caso di dirlo"
-"editoria elettronica, editoria tramite un proprio supporto informatico"
-"esprimere il proprio punto di vista"
-"essere a proprio agio"
-"essere proprio come te"
-"essere proprio giusto"
-"essere proprio la cosa giusta"
-"essere proprio quel che ci vuole"
-"fare del proprio meglio"
-"fare del proprio meglio"
-"fare del proprio meglio"
-"fare del proprio meglio"
-"fare del proprio meglio"
-"fare del proprio meglio per"
-"fare del proprio meglio per"
-"fare il proprio dovere"
-"fare il proprio dovere nei confronti di"
-"fare il proprio tempo"
-"fare qualcosa per conto proprio"
-"fare tutto quanto in proprio potere"
-"illudere qn (per proprio interesse)"
-"immagine mentale del proprio corpo"
-"in caso di necessità, all'occorrenza, se proprio è necessario"
-"in piccolo, nel proprio piccolo"
-"in proprio"
-"lavorare in proprio"
-"ma non se ne parla proprio!"
-"mangiare a proprio piacimento"
-"mettersi a proprio agio"
-"migliorare il proprio italiano"
-"moto proprio"
-"nome proprio"
-"nome proprio"
-"non essere farina del proprio sacco"
-"non essere il proprio forte"
-"non essere il proprio tipo"
-"non proprio giusto"
-"non se ne parla proprio"
-"offrire il proprio aiuto"
-"prendersi il proprio tempo"
-"presentare il proprio caso"
-"prestare il proprio consenso"
-"proprio"
-"proprio"
-"proprio"
-"proprio"
-"proprio"
-"proprio"
-"proprio adesso"
-"proprio adesso"
-"proprio allora"
-"proprio bene"
-"proprio come"
-"proprio come"
-"proprio conto"
-"proprio così"
-"proprio così"
-"proprio così"
-"proprio dall'altro lato della strada"
-"proprio davanti ai tuoi occhi"
-"proprio del"
-"proprio di"
-"proprio di fronte"
-"proprio di fronte"
-"proprio il contrario"
-"proprio in procinto di"
-"proprio in questo istante"
-"proprio interessato a"
-"proprio lo stesso"
-"proprio malgrado"
-"proprio mentre"
-"proprio modo"
-"proprio ora"
-"proprio ora"
-"proprio quello che ci vuole"
-"proprio quello che ha ordinato il medico"
-"proprio qui"
-"proprio qui"
-#*''Anna è 
-#*''a ciascuno il 
-*(di una persona) [[appartenente]], [[attinente]], [[pertinente]], [[inerente]]
-*(di qualcosa o di qualcuno) [[caratteristico]], [[tipico]], [[particolare]], [[specifico]], [[individuale]], [[peculiare]], [[singolo]], [[privato]], [[esclusivo]]
-*[[adatto]], [[appropriato]], [[opportuno]], [[conveniente]], [[confacente]], [[congruente]]
-*(di significato) [[letterale]], [[testuale]]
-*( di una persona) [[altrui]]
-*( di qualcosa o di qualcuno) [[generico]], [[comune]]
-*[[improprio]], [[inadatto]], [[inappropriato]]
-*[[suo]]
-*''in proprio''
-M>proprius</E
-M>pro privo</E
-M>cosa p</E
-M>dominio p</E
-M>dominio improprio</E
-M>il sentimento della p</E
-M>dignità</E
-M>lettera scritta di p</E
-M>pugno</E
-M>amor p</E
-M>agisce per motivi suoi p</E
-M>fanno il loro p</E
-M>interesse</E
-M>l&#8217;ho udito con le mie p</E
-M>orecchie</E
-M>suo</E
-M>loro</E
-M>avrà le p</E
-M>ragioni per comportarsi così</E
-M>ha intestato il libretto a nome p</E
-M>sono riusciti con le p</E
-M>forze</E
-M>l&#8217;ha fatto con le p</E
-M>mani</E
-M>ogni casa ha il p</E
-M>giardino</E
-M>i modelli sono contrassegnati ciascuno con un p</E
-M>numero</E
-M>stelle che splendono di luce propria</E
-M>andavano ciascuno per conto p</E
-M>nessuno è buon giudice in causa p</E
-M>riassumere con p</E
-M>parole</E
-M>attendere ai p</E
-M>affari</E
-M>dar retta alla p</E
-M>coscienza</E
-M>abbandonare qualcuno al p</E
-M>destino</E
-M>tuo</E
-M>vostro</E
-M>altrui</E
-M>d&#8217;altri</E
-M>in casa p</E
-M>puoi fare ciò che vuoi</E
-M>qui no!</E
-M>i p</E
-M>i suoi</E
-M>ognuno desidera far Natale con i p</E
-M>per i p</E
-M>farebbe qualsiasi sacrificio</E
-M>la ragione è p</E
-M>soltanto dell&#8217;uomo</E
-M>la calma è p</E
-M>dei forti</E
-M>con l&#8217;ostinazione p</E
-M>dei muli</E
-M>quel bel colore azzurro che è p</E
-M>dei fiordalisi</E
-M>l&#8217;armonia che è p</E
-M>della poesia vera</E
-M>non sono malattie p</E
-M>della vecchiaia ma di tutte le età</E
-M>le qualità p</E
-M>degli acidi</E
-M>ha un sapore</E
-M>un colore</E
-M>un odore suo proprio</E
-M>aveva il naso rosso p</E
-M>degli ubriaconi</E
-M>quegli improvvisi rossori che sono p</E
-M>delle persone timide</E
-M>con la baldanza p</E
-M>dei giovani</E
-M>con l&#8217;innocenza p</E
-M>della sua età</E
-M>presentava tutti i sintomi p</E
-M>della setticemia</E
-M>ordinario</E
-M>comune</E
-M>con una grazia tutta sua p</E
-M>ha sempre avuto idee sue p</E
-M>ha un metodo tutto p</E
-M>per riuscire</E
-M>avere di proprio</E
-M>ha questo di p</E
-M>che non perde mai la pazienza</E
-M>reato p</E
-M>reato comune</E
-M>il p</E
-M>di una messa</E
-M>il p</E
-M>dei santi</E
-M>di una diocesi</E
-M>di un ordine religioso</E
-M>non è questo il luogo più p</E
-M>per simili discorsi</E
-M>mercé del loco Fatto per proprio de l&#8217;umana spece</E
-M>è p</E
-M>del giudice</E
-M>è p</E
-M>d&#8217;un buon padre</E
-M>nome p</E
-M>ci dev&#8217;essere un termine p</E
-M>per indicarlo</E
-M>non è questa l&#8217;espressione più p</E
-M>ma spero che tu mi capisca ugualmente</E
-M>non riesco a trovare una parola più p</E
-M>il suo p</E
-M>nome è questo</E
-M>nome proprio</E
-M>ci sono cose che</E
-M>per decenza</E
-M>non si possono chiamare col loro p</E
-M>nome</E
-M>se vogliamo chiamare le cose col loro p</E
-M>nome</E
-M>questa è una vera mascalzonata</E
-M>uso p</E
-M>dei vocaboli</E
-M>vero</E
-M>hai commesso una scorrettezza vera e p</E
-M>la sua è vera e p</E
-M>sfacciataggine</E
-M>questa è vera e p</E
-M>iella!</E
-M>senso p</E
-M>senso</E
-M>nel p</E
-M>e nel figurato</E
-M>linguaggio p</E
-M>proprio</E
-M>improprio</E
-M>in senso lato</E
-M>divisore p</E
-M>frazione p</E
-M>disuguaglianza in senso p</E
-M>sottoinsieme p</E
-M>punto p</E
-M>punto improprio</E
-M>all&#8217;infinito</E
-M>retta p</E
-M>piano p</E
-M>oscillazioni p.</E
-M>frequenza p.</E
-M>periodo p</E
-M>tempo p</E
-M>moto p</E
-M>ognuno cercava di salvare il p</E
-M>spendere</E
-M>pagare</E
-M>rimetterci del p</E
-M>non chiede altro che il p</E
-M>In proprio</E
-M>possiede qualche ettaro di terreno in p</E
-M>aveva una casetta in p</E
-M>ha una industria</E
-M>un negozio in p</E
-M>rispondere in p</E
-M>il p</E
-M>di un&#8217;arte</E
-M>il p</E
-M>di una situazione</E
-M>propre</E
-M>un vestito p</E
-M>una casa propria</E
-M>questo non è ragionare da fanciulla propria e civile</E
-M>adesso</E
-M>è andata p</E
-M>così</E
-M>e p</E
-M>oggi ne avevi bisogno!</E
-M>qui dovevi metterti?</E
-M>sei p</E
-M>tu?</E
-M>questo vestito ti sta p</E
-M>bene</E
-M>ti assicuro</E
-M>vuoi p</E
-M>farmi perdere la pazienza!</E
-M>non è p</E
-M>il caso di fare complimenti</E
-M>è p</E
-M>squisito</E
-M>l&#8217;hai detta p</E
-M>grossa!</E
-M>è p</E
-M>interessante</E
-M>ne sei p</E
-M>sicuro?</E
-M>sei p</E
-M>deciso?</E
-M>&#171;Non ha un briciolo di coscienza&#187; &#171;Proprio!&#187;</E
-M>te l&#8217;ha dato lui? proprio?</E
-M>&#171;Non ne voglio più&#187; &#171;Proprio?&#187;</E
-M>&#171;Ti prometto che ritorno subito&#187; &#171;Proprio?&#187;</E
-M>&#171;Non ci guadagno neanche un centesimo&#187; &#171;Proprio?&#187;</E
-M>Però chi d&#8217;esso loco fa parole</E
-M>Non dica Ascesi</E
-M>ché direbbe corto</E
-M>Ma Orïente</E
-M>se proprio dir vuole</E
+acqua
+altro
+amore
+andare
+aprire
+bello
+capire
+caso
+cercare
+chiamare
+cosa
+dire
+dovere
+forza
+grande
+italiano
+lasciare
+lavoro
+meglio
+mettere
+modo
+momento
+morire
+nessuno
+nome
+occhio
+paese
+parola
+passare
+piccolo
+portare
+potere
+povero
+proprio
+punto
+quale
+quanto
+quello
+questo
+rispondere
+sapere
+sentire
+stare
+stato
+stesso
+strada
+suo
+tale
+tanto
+tempo
+tornare
+trovare
+tutto
+uscire
+vedere
+venire
+vero
+vivere

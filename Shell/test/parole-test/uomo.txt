@@ -1,346 +1,67 @@
-uomo.txt
-"a misura d'uomo"
-"abominevole uomo delle nevi"
-"ad altezza d'uomo"
-"andare a passo d'uomo"
-"barista (uomo)"
-"buon uomo"
-"caccia all'uomo"
-"caduta dell'uomo"
-"come un sol uomo"
-"come un uomo"
-"da uomo"
-"diritti umani; diritti dell'uomo"
-"donna, uomo di colore"
-"ecco l'uomo"
-"essere un uomo"
-"fallo da ultimo uomo"
-"grand'uomo"
-"grande uomo"
-"hot corner (posizione del terzo uomo-base; baseball)"
-"i diritti dell'uomo"
-"il fardello dell'uomo bianco"
-"l'ultimo uomo di una fila"
-"l'Uomo"
-"l'uomo della strada"
-"l'uomo della strada"
-"l'uomo di casa"
-"l'uomo retto"
-"marcare a uomo"
-"mezzo uomo"
-"miglior amico dell'uomo"
-"passo d'uomo"
-"piccolo uomo"
-"prostituto, uomo che si prostituisce"
-"ragazzo, giovane uomo"
-"sant'uomo"
-"secondo uomo"
-"sommozzatore, uomo rana"
-"terzo uomo"
-"tipo robusto, uomo gagliardo"
-"un solo uomo"
-"uno straccio di uomo"
-"uomo"
-"uomo"
-"uomo"
-"uomo"
-"uomo"
-"uomo"
-"uomo al comando"
-"uomo all'antica"
-"uomo alla moda"
-"uomo avvisato mezzo salvato"
-"uomo bianco"
-"uomo bianco impoverito"
-"uomo casa e famiglia; padre di famiglia"
-"uomo cattivo"
-"uomo che non deve chiedere mai"
-"uomo chiave"
-"uomo colto"
-"uomo colto"
-"uomo comune"
-"uomo crudele"
-"uomo d'acciaio"
-"uomo d'affari"
-"uomo d'affari (della City)"
-"uomo d'affari truffaldino"
-"uomo d'azione"
-"uomo d'onore"
-"uomo d'onore"
-"uomo dalla pelle nera"
-"uomo dei miracoli"
-"uomo del clero"
-"uomo del partito"
-"uomo del popolo"
-"uomo del suo tempo"
-"uomo delle caverne"
-"uomo delle caverne"
-"uomo delle caverne"
-"uomo di buona volontà"
-"uomo di chiesa"
-"uomo di chiesa"
-"uomo di colore"
-"uomo di copertura"
-"uomo di coraggio"
-"uomo di cultura"
-"uomo di Dio"
-"uomo di ferro"
-"uomo di fiducia"
-"uomo di lettere"
-"uomo di lettere"
-"uomo di mezzi"
-"uomo di mondo"
-"uomo di mondo"
-"uomo di mondo"
-"uomo di mondo"
-"uomo di montagna"
-"uomo di Neanderthal"
-"uomo di Neanderthal"
-"uomo di parola"
-"uomo di Pechino"
-"uomo di Pechino"
-"uomo di piccola statura"
-#*''c'era un 
-#*''l'
-* [[ominide]], [[ominino]]
-*[[animale]]
-*''La giustizia è la forza dei re, la furbizia è la forza della donna, l'orgoglio è la forza dei pazzi, la spada è la forza del bandito, l'umiltà è la forza dei saggi, le lacrime sono la forza del bambino, l'amore di un '''uomo''' e una donna è la forza del mondo''
-*''
-* Enciclopedia [http
-M>mo h</E
-M>nis</E
-M>uòmini</E
-M>nes</E
-M>uomo</E
-M>Homo</E
-M>Homo sapiens</E
-M>trasmissione culturale</E
-M>u. di Neanderthal</E
-M>Homo sapiens neanderthalensis</E
-M>u. di Pechino</E
-M>u. di Giava</E
-M>Homo erectus</E
-M>sinantropo</E
-M>pitecantropo</E
-M>l’origine dell’u.</E
-M>il primo u.</E
-M>la nascita</E
-M> la vita</E
-M> l’esistenza dell’u.</E
-M>il destino dell’u.</E
-M>la struttura dell’u.</E
-M>lo scheletro</E
-M> la muscolatura</E
-M> il sistema nervoso</E
-M> la fisiologia dell’u.</E
-M>Nasce l’u. a fatica</E
-M> Ed è rischio di morte il nascimento</E
-M>uomini di colore</E
-M>uomini pallidi</E
-M>a memoria d’uomo non si ricorda un fatto simile</E
-M>andare a passo d’u.</E
-M>l’u. si distingue dalle bestie perché dotato di ragione</E
-M>la lotta dell’u. contro gli elementi</E
-M>l’u. aspira al dominio della natura</E
-M> le responsabilità dell’u. nei cambiamenti climatici.</E
-M>l’anima dell’u.</E
-M>il destino sovrannaturale dell’u.</E
-M>l’u. pneumatico</E
-M>l’u. psichico</E
-M>Rispuosemi: «Non omo</E
-M> omo già fui ...»</E
-M>l’u. primitivo</E
-M> l’u. preistorico</E
-M> l’u. del medioevo</E
-M> l’u. del Rinascimento</E
-M>dice lo Filosofo che l’u. naturalmente è compagnevole animale</E
-M>i diritti dell’u.</E
-M>l’u. economico</E
-M>homo oeconomicus</E
-M>l’opera</E
-M> le opere dell’u.</E
-M>gli uomini che popolano la terra sono più di cinque miliardi</E
-M>gli uomini sono ingrati</E
-M>uomo avvisato è mezzo salvato</E
-M>i monti stanno fermi e gli uomini camminano</E
-M>il peccare è da uomini</E
-M> l’ostinarsi è da bestie</E
-M>l’u. propone e Dio dispone</E
-M>uomo in mare!</E
-M>donna</E
-M>il principio della parità giuridica tra uomo e donna</E
-M>abito da u.</E
-M> sarto da u.</E
-M>cappello da u.</E
-M>un u. solo tra molte donne</E
-M>Dio creò la donna da una costola dell’u.</E
-M>non so chi fosse al telefono</E
-M> ma era una voce d’uomo</E
-M>un u. alto</E
-M> basso</E
-M> grasso</E
-M> magro</E
-M> robusto</E
-M> gracile</E
-M>un bell’u.</E
-M>un pezzo d’u.</E
-M>un bel pezzo d’u.</E
-M>un u. di media statura</E
-M>un mezz’uomo</E
-M>un u. onesto</E
-M> disonesto</E
-M> dotto</E
-M> ignorante</E
-M> volgare</E
-M> educato</E
-M>un u. d’ingegno</E
-M>un u. di cuore</E
-M>un u. di poche parole</E
-M>un u. di parola</E
-M>un u. d’onore</E
-M>u. d’onore</E
-M>di rispetto</E
-M>un u. d’oro</E
-M> una perla d’u.</E
-M>un tesoro d’u.</E
-M>un u. alla buona</E
-M> alla mano</E
-M>un u. di paglia</E
-M>uomo di paglia</E
-M>un u. di mondo</E
-M>un u. navigato</E
-M>un sant’uomo</E
-M>un santo</E
-M>un brav’uomo</E
-M>un buon uomo</E
-M>buonuomo</E
-M>bonomo</E
-M>un benedetto u.</E
-M> un grand’u.</E
-M> un pover’u.</E
-M>è un u. onesto</E
-M>un onest’uomo</E
-M>è un u. coraggioso</E
-M>senza sua moglie è un u. perso</E
-M>è un u. rotto a ogni astuzia</E
-M>non è u. da lasciarsi cogliere in fallo</E
-M>è l’u. che fa per noi</E
-M>non è l’u. che immaginavo.</E
-M>conosco l’u.</E
-M>il mio u.</E
-M>e saprò convincerlo</E
-M>l’u. si vide perduto: il terror della morte l’invase</E
-M>furbo l’uomo!</E
-M>l’u. Dante</E
-M>l’u. Carducci</E
-M>sii u. e ribellati a queste sopraffazioni</E
-M>comportati da u. e non da pagliaccio!</E
-M>quello sì che è un u.!</E
-M>fai l’u. e mantieni ciò che hai promesso</E
-M>Se mala cupidigia altro vi grida</E
-M> Uomini siate</E
-M> e non pecore matte</E
-M>si è fatto già u.</E
-M>è un u. fatto</E
-M>è un u. adulto</E
-M> maturo</E
-M>si comporta da u.</E
-M> benché sia ancora un ragazzo.</E
-M>vidi due uomini dileguarsi nell’oscurità</E
-M>un u. veniva verso di noi</E
-M>un u. ci stava pedinando</E
-M>signore</E
-M>è venuto un u. a cercarti</E
-M>c’è un u. che vuole parlarti</E
-M>passava giù nella strada l’u. degli stracci</E
-M>l’u. che fa le pulizie</E
-M>l’u. delle pulizie</E
-M>c’è l’u. del gas</E
-M> della luce.</E
-M>l’u. della strada</E
-M>the man in the street</E
-M>u. qualunque</E
-M>L’U. qualunque</E
-M>Movimento dell’U. qualunque</E
-M>u. massa</E
-M>c’è qui l’u. del conte</E
-M> del direttore</E
-M>oggi ho da pagare i miei uomini</E
-M>u. nero</E
-M>Donna</E
-M> audite como Mi tegno vostro omo E non d’altro segnore</E
-M>gli uomini del 3° gruppo corazzato si sono distinti per capacità e coraggio</E
-M>un equipaggio composto di trenta uomini</E
-M>nelle squadre di calcio l’attacco è formato da cinque uomini</E
-M>nella piazza della manifestazione c’era un grande spiegamento di uomini e di mezzi.</E
-M>il mio u.</E
-M> il suo u.</E
-M>io trovai l’uom tuo che andava a città</E
-M>La villanella all’uom suo el desco ingombra</E
-M>gli uomini della mia vita</E
-M>i miei uomini</E
-M>gli uomini di casa</E
-M>uomo</E
-M>u. d’affari</E
-M>u. politico</E
-M>u. di chiesa</E
-M>u. di lettere</E
-M>u. di scienza</E
-M>u. di legge</E
-M>u. di corte</E
-M>il Gonnella</E
-M> piacevole buffone</E
-M> o u. di corte che vogliamo dire</E
-M>u. di mare</E
-M>u. di fatica</E
-M>u. d’àncora</E
-M>u. di giro</E
-M>pivot</E
-M>u. di coscienza</E
-M>u. a masso</E
-M>u. delle caverne</E
-M>u. d’arme</E
-M>u. di fiducia di qualcuno</E
-M>l’u. della situazione</E
-M>l’u. del giorno</E
-M>del momento</E
-M>uomo-ragno</E
-M>uomo-rana</E
-M>uomo-siluro</E
-M>siluro umano</E
-M>uomo-torpedine</E
-M>uomo-radar</E
-M>uomo-sandwich</E
-M>uomo chiave</E
-M>quando un u. nasce disgraziato ...!</E
-M>se si può levare un u. dalle pene</E
-M> dobbiamo farlo</E
-M>uomo</E
-M>potrebbe già l’uomo opporre contra me e dicere ...</E
-M>uom</E
-M> om</E
-M>l’on</E
-M>veramente è questi così magnifico come uom dice</E
-M>Ahi</E
-M> come poco a sé creder uom degge!</E
-M>ogni uomo</E
-M>Pampinea</E
-M> fatta reina</E
-M> comandò che ogn’uom tacesse</E
-M>u. meccanico</E
-M>u. di pietra</E
-M>u. morto</E
-M>a tutt’uomo</E
-M>si mise a dar mazzate a tutt’u.</E
-M>come un sol uomo</E
-M>gridavano come un sol u.</E
-M>si precipitarono su di lui come un sol uomo.</E
-M>marcamento</E
-M>marcatura a uomo</E
-M>figliuolo</E
-M> legnaiuolo</E
-M> luogo</E
-M>uomo</E
-M>Dec.</E
-M>che è uno umo a star con femine?</E
-M>uo-</E
+amico
+amore
+andare
+aprire
+aria
+bello
+chiedere
+conoscere
+credere
+donna
+entrare
+figlio
+forza
+giorno
+giovane
+grande
+guerra
+lavoro
+mano
+mettere
+mio
+modo
+molto
+momento
+mondo
+morire
+nessuno
+nome
+nostro
+nuovo
+occhio
+ogni
+padre
+parola
+parte
+passare
+pensare
+piccolo
+poco
+portare
+povero
+prendere
+primo
+proprio
+quello
+questo
+ragione
+ricordare
+rispondere
+sentire
+solo
+stare
+stesso
+strada
+suo
+tanto
+tempo
+tenere
+tutto
+ultimo
+uomo
+uscire
+vecchio
+vero
+vita
+vivere
+voce

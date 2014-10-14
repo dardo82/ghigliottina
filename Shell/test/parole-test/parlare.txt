@@ -1,119 +1,30 @@
-parlare.txt
-"alzare la voce, parlare ad alta voce"
-"borbottare, parlare in modo confuso"
-"con chi ho il piacere di parlare?"
-"con chi posso parlare?"
-"continuare a parlare"
-"continuare a parlare"
-"fare cenno di tacere senza parlare"
-"fare un discorso con; parlare un momento con"
-"modo di parlare"
-"non avere peli sulla lingua, parlare chiaro"
-"non avere peli sulla lingua, parlare chiaro"
-"non posso parlare"
-"parlare"
-"parlare"
-"parlare"
-"parlare"
-"parlare"
-"parlare"
-"modo di parlare"
-"parlare"
-"parlare, replace: parlarsi"
-"parlare, replace: parlarsi"
-"parlare"
-"parlare"
-"parlare"
-"parlare a"
-"parlare a"
-"parlare a"
-"parlare a braccio"
-"parlare a gesti"
-"parlare a lungo"
-"parlare a qualcuno"
-"parlare a qualcuno di qualcosa, menzionare a qualcuno"
-"parlare a qualcuno tentando di capire le sue opinioni"
-"parlare a raffica"
-"parlare a ruota libera"
-"parlare a vanvera"
-"parlare a vanvera"
-"parlare a voce bassa"
-"parlare a voce bassa"
-"parlare al telefono"
-"parlare all'unisono"
-"parlare animatamente"
-"parlare bene di"
-"parlare bene di"
-"parlare chiaramente"
-"parlare chiaro"
-"parlare chiaro"
-"parlare chiaro"
-"parlare chiaro con qualcuno"
-"parlare come un libro stampato"
-"parlare con"
-"parlare con"
-"parlare con arroganza"
-"parlare con arroganza"
-"parlare con gli sconosciuti"
-"parlare con qualcuno"
-"parlare con sé stessi"
-"parlare continuamente"
-"parlare correntemente"
-"parlare correntemente"
-"parlare da solo"
-"parlare da solo"
-"parlare del più e del meno"
-"parlare di"
-"parlare di"
-"parlare di"
-"parlare di"
-"parlare di"
-"parlare di cose futili"
-"parlare difficile"
-"parlare duramente"
-"parlare fitto fitto"
-"parlare fuori dai denti"
-"parlare impudentemente"
-"parlare in continuazione"
-"parlare in modo figurato"
-"parlare in nome di"
-"parlare in pubblico"
-"parlare in pubblico; pontificare"
-"parlare incomprensibile"
-"parlare male"
-"parlare male di"
-"parlare male, dire parolacce, insultare"
-"parlare molto"
-"parlare molto bene di"
-"parlare molto bene di qlc."
-"parlare molto bene di qualcuno"
-"parlare nel sonno"
-"parlare ora o tacere per sempre"
-"parlare ostentatamente"
-"parlare senza dire"
-"parlare sporco"
-"parlare troppo"
-"per non parlare di"
-"per non parlare di"
-"questo sì che è parlare!"
-"rifiutarsi di parlare"
-"sentire parlare di qcs.; scoprire qcs."
-"smettere di parlare"
-"venire a sapere di, sentire parlare di, sentire di"
-#*'' è un bel parlare, ma dobbiamo fare i conti con la realtà''
-*[[parlata]], [[lingua]], [[linguaggio]], [[dialetto]], [[idioma]]
-*[[cadenza]], [[accento]]
-*[[discorso]]
-*[[vernacolo]], [[gergo]] 
-* articolare parole, [[esprimersi]], [[comunicare]], [[pronunciare]], [[proferire]], [[dire]], [[asserire]], [[fiatare]], [[diffondere]], aprir bocca
-*[[conversare]], [[chiacchierare]], [[discorrere]], [[confabulare]], [[parlottare]], [[intrattenersi]], [[ciarlare]]
-*''(in pubblico)'' prendere la parola, [[predicare]], [[arringare]], [[conferire]], [[argomentare]], [[intervenire]], [[interloquire]]
-*[[rivelare]], [[svelare]], [[riferire]], [[confessare]], [[confidare]], lasciarsi sfuggire, vuotare il sacco
-*[[pensare]], [[trattare]], [[ragionare]], [[ipotizzare]]
-*''(di notizia, giornale, eccetera)'' [[riferirsi]], [[alludere]], [[divulgare]], [[vociferare]]
-*  [[discutere]]
-*[[tacere]], stare zitto, [[ammutolire]]
-*''(verbo)''[[parlarsi]], [[sparlare]]
-* ''parlare al muro ''
-* ''parlare come un libro stampato''
-* ''parla come mangi!''
+aria
+capire
+casa
+caso
+dire
+entrare
+grande
+italiano
+lungo
+modo
+momento
+nome
+notte
+occhio
+parlare
+parola
+parte
+poco
+questo
+ragione
+sapere
+sentire
+solo
+stesso
+tempo
+troppo
+ultimo
+vedere
+venire
+voce

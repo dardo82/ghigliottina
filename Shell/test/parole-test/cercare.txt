@@ -1,120 +1,19 @@
-cercare.txt
-"Andarsela a cercare"
-"bastone per cercare l'acqua"
-"cercare"
-"cercare"
-"cercare"
-"cercare è seguito da \"
-" (cercare di qn)"
-"cercare, replace: cercarsela"
-"cercare a tentoni"
-"cercare a tentoni"
-"cercare assistenza"
-"cercare colpe ed errori"
-"cercare compagnia"
-"cercare di"
-"cercare di"
-"cercare di"
-"cercare di capire"
-"cercare di colpire"
-"cercare di colpire qualcuno"
-"cercare di indovinare"
-"cercare di indovinare"
-"cercare di ottenere"
-"Cercare di pararsi il culo"
-"cercare di porre rimedio a"
-"cercare di raggiungere"
-"cercare di richiamare"
-"cercare di riparare"
-"cercare di trovare"
-"cercare giustizia"
-"Cercare grane"
-"cercare il brivido"
-"cercare il pelo nell'uovo"
-"cercare in"
-"cercare intorno"
-"cercare intorno"
-"cercare l'oro"
-"cercare la pace"
-"cercare le informazioni"
-"Cercare per mare e per terra"
-"cercare per mari e monti"
-"cercare rifugio"
-"cercare scuse"
-"cercare tra i rifiuti"
-"Cercare un ago in un pagliaio"
-"cercare, setacciare, passare al setaccio"
-"il cercare l'oro"
-"non cercare"
-"perlustrare, cercare in lungo e in largo"
-*[[ricercare]], [[studiare]], [[indagare]], [[investigare]], [[ desiderare]], [[agognare]], [[tendere]], [[ambire]], [[aspirare]] 
-*''(lett.)'' [[frugare]], [[rovistare]], [[scandagliare]], [[setacciare]] 
-*''(di fare qualcosa)'' [[tentare]], [[provare]], [[adoperarsi]],[[ sforzarsi]] 
-*''(di qualcuno, qualcosa.)'' [[chiedere]], [[domandare]], [[informarsi]]
-*[[cercamento]]
-M>rcare</E
-M>circa</E
-M>io cérco</E
-M>tu cérchi</E
-M>la penna</E
-M>la chiave di casa</E
-M>gli occhiali</E
-M>cercò in tutte le tasche ma non trovò un soldo</E
-M>un sentiero nel bosco</E
-M>casa</E
-M>una farmacia aperta</E
-M>un dottore</E
-M>un meccanico</E
-M>marito</E
-M>moglie</E
-M>con la lanterna</E
-M>col lumicino</E
-M>qualcuno per mare e per terra</E
-M>il pelo nell’uovo</E
-M>Maria per Roma</E
-M>per Ravenna</E
-M>Maria</E
-M>l’ispirazione</E
-M>il soggetto per una novella</E
-M>per un film</E
-M>un po’ di pace</E
-M>lo cercavo tra la folla</E
-M>gli occhi dell’uom cercan morendo Il Sole</E
-M>nel dizionario</E
-M>chi cerca trova</E
-M>la gloria</E
-M>gli onori</E
-M>vantaggi materiali</E
-M>avventure</E
-M>disgrazie</E
-M>briga</E
-M>le cerca proprio!</E
-M>il bene</E
-M>il male di qualcuno</E
-M>qualcuno</E
-M>cercano di te</E
-M>chi cercate?</E
-M>cercavi me?</E
-M>che i più faccendoni mi devan proprio venire a cercar me</E
-M>che non cerco nessuno</E
-M>non cerco nulla da te</E
-M>denari a qualcuno</E
-M>con una mano cerca la carità</E
-M>con l’altra fa un gran gesto</E
-M>un filosofo venne a visitarmi per c</E
-M>il mio parere su un libro</E
-M>la verità</E
-M>non bisogna stare a c</E
-M>perché il Signore ci castiga</E
-M>poi che tutto il Ponente</E
-M>ebbe cercato</E
-M>un luogo</E
-M>per un luogo</E
-M>ho cercato tutta la casa senza trovare il libro</E
-M>avere</E
-M>di far presto</E
-M>di scappare</E
-M>di dormire</E
-M>cercavo di salire in cima alla scala</E
-M>frati cercanti</E
-M>i cercanti</E
+acqua
+capire
+casa
+cercare
+chiedere
+lasciare
+lavoro
+lungo
+meglio
+molto
+occhio
+parola
+passare
+primo
+strada
+tanto
+tempo
+trovare
+volere

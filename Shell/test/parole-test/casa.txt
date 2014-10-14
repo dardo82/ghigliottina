@@ -1,356 +1,65 @@
-casa.txt
-"a casa"
-"a casa con"
-"a casa in"
-"allevato in casa"
-"andare di casa in casa"
-"andare via di casa"
-"animale allevato in casa"
-"antipasto della casa"
-"aria di casa"
-"articoli per la casa"
-"bandiera della casa (cioè di una società)"
-"benvenuto a casa"
-"birra fatta in casa"
-"birra fatta in casa"
-"cambiare casa"
-"cambiare casa"
-"cane di casa"
-"capitare in casa di qualcuno"
-"casa"
-"casa"
-"casa"
-"casa"
-"casa"
-"casa"
-"casa"
-"casa"
-"casa a piani sfalsati"
-"casa al mare"
-"casa automobilistica"
-"casa avita"
-"casa base (baseball)"
-"casa bassa"
-"Casa Bianca"
-"casa bifamiliare"
-"casa con mattoni rossi a vista"
-"casa costruttrice"
-"casa d'aste"
-"casa da gioco; bisca"
-"casa da sogno"
-"casa da tè"
-"casa dei divertimenti"
-"casa dei genitori"
-"casa del pastore"
-"casa del ranch"
-"casa delle bambole"
-"casa dello studente"
-"casa di adobe"
-"casa di bambola"
-"casa di bambola"
-"casa di campagna"
-"casa di campagna"
-"casa di città"
-"casa di correzione; riformatorio"
-"casa di culto, luogo di culto, casa di Dio"
-"casa di cura"
-"casa di Dio"
-"casa di Dio; casa di preghiera"
-"casa di legno"
-"casa di matti"
-"casa di moda"
-"casa di nessuno"
-"casa di preghiera"
-"casa di riposo"
-"casa discografica"
-"casa divisa  da lotte intestine"
-"casa dolce casa"
-"casa dolce casa"
-"casa e affetti"
-"casa e terreno circostante"
-"casa e terreno circostante"
-"casa editrice"
-"casa editrice"
-"casa estiva"
-"casa estiva, casa per le vacanze"
-"casa eterna"
-"casa famiglia"
-"casa madre"
-"casa madre"
-"casa malmessa"
-"casa mobile"
-"casa o luogo dove si trova"
-"casa parrocchiale"
-"casa parrocchiale"
-"casa per affitto"
-"casa per i poveri"
-"casa pilota"
-"casa popolare"
-"casa produttrice"
-"casa sul ponte"
-"casa sull'albero"
-"casa tua"
-"casa vacanze"
-"casa vinicola"
-"casa-barca"
-"casa-giocattolo"
-"centro di reinserimento sociale; casa di riabilitazione"
-"che ha nostalgia di casa"
-"che possiede una casa"
-"compiti a casa"
-"compiti a casa"
-#*''un mio amico ha acquistato una bella casa in montagna'' 
-#*''Ti avviso che stasera torno a casa tardi dal lavoro, non prepararmi la cena perché mi arrangio da solo''
-#*''ha dovuto ricoverare sua zia in una casa di riposo''
-#*''ho portato il mio scooter dal meccanico per una riparazione, ma ho dovuto aspettare qualche giorno perché  il pezzo di ricambio era reperibile solo presso la casa costruttrice''
-#* ''alla tua nascita Saturno si trovava nella settima 
-#* ''la Luna entrerà nella venticinquesima 
-* ''(italiano standard, fiorentino, centrale e meridionale)'' 
-* ''(italiano settentrionale)'' 
-* (riferito alla costruzione) [[edificio]], [[stabile]], [[costruzione]], [[fabbricato]]
-*(riferito al luogo in cui si abita) [[abitazione]], [[alloggio]], [[appartamento]]
-*(per più famiglie) [[condominio]], [[palazzo]], [[casamento]], [[palazzina]]
-*(elegante, signorile) [[villa]], [[villino]], [[villetta]]
-*( specialmente con valore iperbolico) [[reggia]]
-*(in campagna) [[casale]], [[casolare]], [[casupola]]
-*(in montagna) [[chalet]], [[cottage]], [[baita]]
-* (misera, povera) [[catapecchia]], [[tugurio]], [[stamberga]]
-*(di animali) [[tana]], [[covo]], [[nido]]
-*[[fabbrica]], [[ditta]], [[azienda]], [[impresa]]
-*''(nel gioco degli scacchi)'' [[casella]]
-*[[casa base]], [[casale]], [[casalina]], [[casalinga]], [[casalinghità]], [[casalinghitudine]], [[casalingo]], [[casalino]], [[casamatta]], [[casamento]], [[casamobile]], [[casata]], [[casatico]], [[casato]], [[casatorre]], 
-* '''''casa''' dolce '''casa'''''
-* '''''casa''' mia, '''casa''' mia, per piccina che tu sia, tu mi sembri una badia''
-* ''essere '''casa''' e chiesa''
-* ''essere di '''casa'''''
-* ''mettere su '''casa'''''
-* ''giocare in '''casa'''''
-* ''tornare a '''casa'''''
-* ''donne per '''casa''', una in figura, l'altra in pittura''
-* ''grosso come una '''casa'''''
-*''Due noci in un sacco e due donne in 
-*italiano
-*catalano
-*latino
-*portoghese
-*spagnolo
-M>casa</E
-M>abitazione</E
-M>palazzo</E
-M>palazzina</E
-M>villa</E
-M>villino</E
-M>di città</E
-M>di campagna</E
-M>rustica</E
-M>colonica</E
-M>soleggiata</E
-M> ariosa</E
-M>buia</E
-M>esposta a mezzogiorno</E
-M>a ponente</E
-M>una zona di c</E
-M>signorili</E
-M>prefabbricate</E
-M>popolari</E
-M>cantoniera</E
-M>forte</E
-M>torre</E
-M>mobile</E
-M>Casa Bianca</E
-M>White House</E
-M>di cura</E
-M>di salute</E
-M>maison de santé</E
-M>di riposo</E
-M>di ricovero</E
-M>ricovero</E
-M>di riposo</E
-M>di pena</E
-M>di correzione</E
-M>di cura e di custodia</E
-M>di lavoro</E
-M>di rieducazione</E
-M>dello studente</E
-M>del soldato</E
-M>dei bambini</E
-M>del popolo</E
-M>del fascio</E
-M>mia</E
-M>tua</E
-M>la c</E
-M>di mio zio</E
-M>la c</E
-M>paterna</E
-M>in c</E
-M>di c</E
-M>a c</E
-M>per c</E
-M>avere</E
-M>non avere una c</E
-M>propria</E
-M>avere</E
-M>non avere casa</E
-M>seconda c</E
-M>ognuno è padrone a c</E
-M>sua</E
-M>non ci si comporta così in c</E
-M>d’altri!</E
-M>hanno suonato alla porta di c</E
-M>fermarsi a chiacchierare davanti a c</E
-M>andare al bar sotto c</E
-M>rovistare per tutta c</E
-M>essere in c</E
-M>stare</E
-M>restare in c</E
-M>a c</E
-M>andare a c</E
-M>tornare a c</E
-M>rientrare in c</E
-M>avere qualcuno per c</E
-M>non volere gente per c</E
-M>mettersi il diavolo in c</E
-M>stare di c</E
-M>in un posto</E
-M>sta di c</E
-M>in via Crispi</E
-M>sta di c</E
-M>a Milano</E
-M>non sa dove stia di c</E
-M>l’educazione</E
-M>cercare c</E
-M>cambiare c</E
-M>mettere su c</E
-M>mandare via di c</E
-M>donna di c</E
-M>maestro di c</E
-M>tagliatelle</E
-M>dolci fatti in c</E
-M>riportare la pelle a c</E
-M>tenere le mani a c</E
-M>tenere la lingua a c</E
-M>avere il cervello a c</E
-M>essere a c</E
-M>propria</E
-M>in fatto di motori io sono a c</E
-M>mia</E
-M>a c</E
-M>mia</E
-M>questa</E
-M>a c</E
-M>mia</E
-M>si chiama maleducazione</E
-M>casa mia</E
-M>casa mia</E
-M>per piccina che tu sia</E
-M>bella o brutta che tu sia</E
-M>tu mi sembri una badìa</E
-M>ne sa più un pazzo in c</E
-M>sua che un savio in c</E
-M>d’altri</E
-M>è meglio essere il primo in c</E
-M>sua che il secondo in c</E
-M>altrui</E
-M> parlare di corda in c. dell’impiccato</E
-M>conoscere la storia di c</E
-M>nostra</E
-M>d’altri</E
-M>gioca in c</E
-M>fuori c</E
-M>i padroni di c</E
-M>casa</E
-M>casa</E
-M>casina</E
-M>casetta</E
-M>c. religiosa</E
-M>c. madre</E
-M>c. professa</E
-M>C. delle libertà</E
-M>Polo per le libertà</E
-M>tanti saluti a c</E
-M>tua</E
-M>pensare a c</E
-M>scrivere a c</E
-M>è lui che tira avanti la c</E
-M>telefona a c</E
-M>Rossetti</E
-M>Scusi</E
-M>parlo con c</E
-M>Bianchi?</E
-M>è molto ricco di c</E
-M>sua</E
-M>appartiene a una c</E
-M>rispettabile</E
-M>ricòrdati che sei in una c</E
-M>per bene</E
-M>possiamo parlare con libertà</E
-M>Giorgio è di c</E
-M>prendere in c</E
-M>qualcuno</E
-M>è tutto c</E
-M>è tutto di c</E
-M>è tutto c</E
-M>e famiglia</E
-M>essere c</E
-M>e chiesa</E
-M>fare c</E
-M>con qualcuno</E
-M>fare c</E
-M>comune</E
-M>fare gli onori di c</E
-M>La fama che la vostra c</E
-M>onora</E
-M>disse</E
-M>che non si faceva così</E
-M>e ch’era una c</E
-M>grande</E
-M>e che ai signori non si dice di no</E
-M>è l’ultimo discendente di una nobile c</E
-M>Reale</E
-M>fornitori della Real Casa</E
-M>la C</E
-M>d’Asburgo</E
-M>la C</E
-M>di Francia</E
-M>la casa civile e militare del capo dello stato</E
-M>la casa pontificia</E
-M>editrice</E
-M>di commercio</E
-M>di pegno</E
-M>di spedizioni</E
-M>è una c</E
-M>di antica tradizione</E
-M>specialità della c.</E
-M>vino della c</E
-M>del caffè</E
-M>del prosciutto</E
-M>dell’arredamento</E
-M>del giocattolo</E
-M>dell’automobile</E
-M>di moda</E
-M>di confezioni</E
-M>lunare</E
-M>di Dio</E
-M>del Signore</E
-M>del diavolo</E
-M>mandare a c</E
-M>del diavolo</E
-M>abitare a c</E
-M>del diavolo</E
-M>fare una c</E
-M>del diavolo</E
-M>fare un casa del diavolo</E
-M>succedere una</E
-M>del diavolo</E
-M>nel villaggio successe una c</E
-M>del diavolo quando volevano mettere il dazio sulla pece</E
-M>di bambola</E
-M>viveva in una c. di bambola</E
-M>gioco</E
-M>da tè</E
-M>di tolleranza</E
-M>equivoca</E
-M>chiusa</E
-M>di comodo</E
-M>squillo</E
-M>di appuntamenti</E
+amico
+aprire
+aria
+bello
+buono
+casa
+caso
+cercare
+chiamare
+cosa
+dire
+donna
+entrare
+essere
+fatto
+forza
+grande
+guardare
+lasciare
+loro
+mano
+meglio
+mettere
+mio
+molto
+nessuno
+nostro
+nuovo
+ogni
+padre
+parola
+parte
+passare
+pensare
+poco
+portare
+povero
+prendere
+proprio
+quale
+questo
+ricordare
+rimanere
+rispondere
+sapere
+sentire
+signore
+solo
+stare
+suo
+tanto
+tempo
+tenere
+tornare
+trovare
+tuo
+tutto
+ultimo
+uomo
+uscire
+vecchio
+vedere
+venire
+vivere
+voce

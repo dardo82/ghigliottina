@@ -1,25 +1,63 @@
-alcuno.txt
-"alcuno, alcun"
-M>*alicunum</E
-M>aliqu</E
-M>unum</E
-M>qualche</E
-M>qualcuno</E
-M>certi</E
-M>viaggiò per alcun tempo</E
-M>amici</E
-M>case</E
-M>poche</E
-M>rimaste</E
-M>eran poi partite stracariche di gente</E
-M>uno</E
-M>secondo che si legge in alcun libro della Bibbia</E
-M>ne conosco alcuni anch’io</E
-M>ci sono alcune che l’hanno veduto</E
-M>non v’è a</E
-M>fretta</E
-M>senza alcun riguardo</E
-M>non vi fu a</E
-M>che protestasse</E
-M>non v’è pericolo alcuno</E
-M>Alcuno Non l’amerà quant’io l’amai</E
+alcuno
+amore
+aprire
+aria
+avere
+capire
+casa
+cercare
+chiamare
+chiedere
+conoscere
+cosa
+credere
+dare
+dire
+dovere
+entrare
+forza
+guardare
+guerra
+lasciare
+lavoro
+mano
+meglio
+mettere
+morire
+nessuno
+nome
+occhio
+parlare
+parola
+parte
+passare
+pensare
+portare
+prendere
+proprio
+punto
+qualche
+ragione
+ricordare
+rispondere
+sembrare
+sentire
+solo
+stare
+stesso
+storia
+strada
+suo
+tempo
+tenere
+testa
+tornare
+trovare
+uomo
+uscire
+vedere
+venire
+vita
+vivere
+voce
+volere

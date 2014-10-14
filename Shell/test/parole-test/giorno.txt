@@ -1,379 +1,42 @@
-giorno.txt
-"a quest'ora del giorno"
-"al giorno d'oggi"
-"al giorno d'oggi"
-"al giorno d'oggi"
-"al giorno d'oggi"
-"all'ordine del giorno"
-"alla luce del giorno"
-"argomento del giorno"
-"buon giorno"
-"buon giorno"
-"buon giorno"
-"buon giorno, buongiorno"
-"primo giorno\"
-"che dura tutto il giorno"
-"che dura tutto il giorno"
-"chiaro come il giorno"
-"chiaro come il giorno"
-"da giorno della marmotta"
-"del dodicesimo giorno"
-"del giorno"
-"di giorno"
-"di giorno in giorno"
-"di giorno in giorno"
-"di tutto il giorno"
-"dormire tutto il giorno"
-"escursione di un giorno"
-"forse un giorno"
-"giorno"
-"giorno"
-"giorno"
-"giorno commemorativo dell'adozione della bandiera americana"
-"giorno d'estate"
-"giorno dei caduti"
-"giorno dei risultati"
-"giorno dei veterani"
-"giorno del giudizio"
-"giorno del giudizio"
-"giorno del male"
-"giorno del ringraziamento"
-"Giorno del Ringraziamento"
-"giorno del salario"
-"giorno del Signore"
-"giorno dell'armistizio"
-"giorno dell'ascensione"
-"giorno dell'Indipendenza"
-"giorno dell'indipendenza"
-"giorno dell'insediamento del Presidente"
-"giorno dell'ira"
-"giorno della marmotta"
-"giorno della memoria"
-"giorno della morte"
-"Giorno della Redenzione"
-"giorno della redenzione"
-"giorno della resa dei conti"
-"giorno della vittoria"
-"giorno delle elezioni"
-"giorno delle elezioni"
-"giorno delle nozze"
-"giorno di addestramento"
-"giorno di calendario"
-"giorno di digiuno"
-"giorno di ferie"
-"giorno di festa"
-"giorno di festa"
-"giorno di Guy Fawkes; il 5 novembre"
-"giorno di inaugurazione"
-"giorno di mezza estate"
-"giorno di paga"
-"giorno di paga"
-"giorno di Pasqua"
-"giorno di permesso"
-"giorno di pioggia"
-"giorno di posta"
-"giorno di riposo"
-"giorno di riposo"
-"giorno di san valentino"
-"giorno di scuola"
-"giorno di scuola"
-"giorno di vacanza"
-"giorno di visita"
-"giorno dopo"
-"giorno dopo giorno"
-"giorno dopo giorno"
-"giorno e notte"
-"giorno feriale"
-"feriale, giorno lavorativo"
-"giorno feriale"
-"giorno festivo"
-"giorno festivo; vacanza"
-"giorno fisso di riposo"
-"giorno in cui le università accolgono potenziali studenti per una visita"
-"giorno intercalare"
-"giorno lavorativo"
-"giorno lavorativo"
-"giorno libero"
-"giorno per giorno"
-"giorno per giorno"
-"giorno per inizio attacco militare"
-"giorno più, giorno meno"
-"giorno sacro ebraico"
-"giorno seguente, successivo"
-#*'' essere a 3 '''giorni''' di viaggio dalla destinazione'' (la distanza può variare a seconda del tipo di viaggio o del mezzo modo di trasporto usato
-#*''Il '''giorno''' della memoria''
-#*'' Da tutte le parti saettava il '''giorno''''' Dante Purg.II, 55,56
-#*'' (domanda) Ti è chiaro il concetto? (risposta) come il '''giorno'''
-#*'' cerchiamo di finire questo lavoro "di '''giorno'''"'' (cioè in fretta, entro  breve tempo)
-*[[ventiquattrore]]
-*[[giornata]], [[dì]]
-*[[festa]], [[ricorrenza]], [[celebrazione]], [[anniversario]], [[festività]], [[solennità]]
-*[[periodo]], [[tempo]], [[epoca]]
-*[[notte]]
-*[[giornaliero]], [[giornale]], [[giornata]], [[aggiornare]], [[soggiornare]], [[perdigiorno]]
-*[[oggi]], [[alba]], [[mattina]], [[pomeriggio]], [[tramonto]], [[crepuscolo]], [[sera]]
-*''A far la barba  si sta bene un 
-*''Roma non fu fata in un 
-* ''Ad ogni giorno la sua [[pena]]''
-* ''Dal [[mattino]] si conosce il giorno/Il buon giorno si vede dal [[mattino]]''
-* ''Di giorno tingi e di [[notte]] fingi''
-* ''Il giorno che si fa [[debito]] non si va in [[prigione]]''
-* ''Si disfa di giorno quel che è [[fatto]] di [[notte]]''
-* ''Di notte leoni, di giorno coglioni''
-*''con la pioggia e con il sereno anche oggi un  '''  giorno ''' in meno''
-*italiano
-M>rnum</E
-M>tempus</E
-M>diurnus</E
-M>dies</E
-M>sidereo</E
-M>siderale</E
-M>giorno solare vero</E
-M>solare medio</E
-M>medio</E
-M>civile</E
-M>lunare</E
-M>lunare</E
-M>notte lunare</E
-M>mese di ventotto</E
-M>di trenta</E
-M>di trentuno g</E
-M>il primo</E
-M>l’ultimo g</E
-M>del mese</E
-M>che g</E
-M>è oggi</E
-M>il g</E
-M>prima</E
-M>il g</E
-M>precedente</E
-M>il g</E
-M>avanti</E
-M>il g</E
-M>dopo</E
-M>il g</E
-M>seguente</E
-M>il g</E
-M>successivo</E
-M>l’altro g</E
-M>fra quindici</E
-M>fra venti g</E
-M>dieci g</E
-M>or sono</E
-M>dieci g</E
-M>il g</E
-M>di lunedì</E
-M>di martedì</E
-M>il g</E
-M>del Signore</E
-M>festivo</E
-M>feriale</E
-M>il g</E
-M>di Natale</E
-M>di Pasqua</E
-M>il g</E
-M>delle Ceneri</E
-M>il primo g</E
-M>di Quaresima</E
-M>liturgico</E
-M>mezzo g</E
-M>la traversata si compie in un g</E
-M>esatto</E
-M>insetti che vivono un solo g</E
-M>ti do due g</E
-M>di tempo</E
-M>allo scadere del settimo g</E
-M>rimandare da un g</E
-M>all’altro</E
-M>pare un g</E
-M>un g</E
-M>di sole</E
-M>di pioggia</E
-M>di gelo</E
-M>di nebbia</E
-M>di vento</E
-M>di udienza</E
-M>di lavoro</E
-M>di riposo</E
-M>utile</E
-M>di pagamento</E
-M>di scadenza</E
-M>di valuta</E
-M>giorni di grazia</E
-M>il mio</E
-M>il tuo g</E
-M>fu quello un gran g</E
-M>per me</E
-M>è arrivato il gran g</E
-M>finalmente arrivò il gran g</E
-M>il gran g</E
-M>il g</E
-M>dell’ira</E
-M>dies irae</E
-M>il g</E
-M>estremo</E
-M>lavora tutto il g</E
-M>tutto il santo giorno</E
-M>ogni g</E
-M>tutti i g</E
-M>tutti i g</E
-M>è la stessa musica!</E
-M>tutto g</E
-M>toujours</E
-M>tutto g</E
-M>dicesti e dici sinceramente</E
-M>al g</E
-M>il g</E
-M>la diaria è di 40 euro al g</E
-M>la stanza mi costa 60 euro al g</E
-M>giorno per giorno</E
-M>il programma viene stabilito g</E
-M>per g</E
-M>di giorno in giorno</E
-M>la situazione migliora di g</E
-M>in g</E
-M>potrebbe succedere di g</E
-M>in g</E
-M>da un g</E
-M>all’altro</E
-M>rischiamo di restare senza lavoro da un g</E
-M>all’altro</E
-M>di tutti i g</E
-M>non è di tutti i g</E
-M>avere una fortuna simile</E
-M>l’abito di tutti i g</E
-M>un g</E
-M>o l’altro</E
-M>un g</E
-M>o l’altro te ne accorgerai</E
-M>un g</E
-M>un certo g</E
-M>un bel g</E
-M>un bel g</E
-M>si venne a sapere tutta la verità</E
-M>verrà un g</E
-M>in cui ti ricorderai di quanto ti dico</E
-M>giorno verrà</E
-M>in questi g</E
-M>in uno di questi g</E
-M>la mostra sarà inaugurata in uno di questi g</E
-M>cosa</E
-M>affare di giorni</E
-M>a giorni</E
-M>a giorni sarà da voi il nostro rappresentante</E
-M>a giorni mi sento meglio</E
-M>a giorni</E
-M>del</E
-M>il santo del g</E
-M>le lezioni del g</E
-M>moda</E
-M>gusti del g</E
-M>l’uomo</E
-M>l’avvenimento del g</E
-M>il libro del g</E
-M>fatti del g</E
-M>ordine del g</E
-M>piatto del g</E
-M>essere a giorno</E
-M>stare</E
-M>tenersi</E
-M>mettersi</E
-M>rimettersi a giorno</E
-M>tenere in g</E
-M>a g</E
-M>un registro</E
-M>aggiornare</E
-M>aggiornarsi</E
-M>notte</E
-M>i g</E
-M>si accorciano</E
-M>si allungano</E
-M>d’estate il g</E
-M>è più lungo della notte</E
-M>e notte</E
-M>lavora g</E
-M>e notte</E
-M>ci penso g</E
-M>e notte</E
-M>fare di notte giorno</E
-M>fare di g</E
-M>notte</E
-M>buon g</E
-M>di giorno</E
-M>fra giorno</E
-M>avanti g</E
-M>le strade erano di nuovo sparse di crocchi</E
-M>sul far del g</E
-M>sul nascere del g</E
-M>fa g</E
-M>mi alzai ch’era g</E
-M>è g</E
-M>chiaro</E
-M>fatto</E
-M>di pieno g</E
-M>in pieno g</E
-M>è ancora g</E
-M>pare g</E
-M>pare di g</E
-M>illuminare a g</E
-M>andare</E
-M>morire</E
-M>Lo g</E
-M>se n’andava</E
-M>e l’aere bruno Toglieva li animai che sono in terra Da le fatiche loro</E
-M>Cantando vai finché non more il g</E
-M>vedere la luce del g</E
-M>uscire alla luce del g</E
-M>è chiaro come</E
-M>è più chiaro che</E
-M>la luce del g</E
-M>ci corre quanto dal g</E
-M>alla notte</E
-M>sorge</E
-M>spunta</E
-M>tramonta</E
-M>cala</E
-M>declina il g</E
-M>Ma vedi già come dichina il g</E
-M>Dagli occhi de’ mortali un negro velo Rapisce il g</E
-M>e il sole</E
-M>Non vive ei forse anche sotterra</E
-M>quando Gli sarà muta l’armonia del giorno</E
-M>è stato un successo d’un g</E
-M>felicità che è durata un g</E
-M>in un g</E
-M>al g</E
-M>d’oggi</E
-M>oggigiorno</E
-M> oggidì</E
-M>in quei tristi g</E
-M>trascorremmo allora g</E
-M>terribili</E
-M>furono g</E
-M>di penosa attesa</E
-M> non dimenticherò mai i g. felici dell’adolescenza</E
-M>ha vissuto anche lui g. sereni</E
-M>ai miei g</E
-M>ai suoi g</E
-M>ai g</E
-M>nostri</E
-M>questi pochi g</E
-M>che mi rimangono</E
-M>al termine</E
-M>alla fine dei suoi g</E
-M>chiudere</E
-M>finire i proprî g</E
-M>ha i g</E
-M>contati</E
-M>Orlo a giorno</E
-M>à jour</E
-M>jour</E
-M>punto a giorno</E
-M>legare</E
-M>montare a g</E
-M>strutture a g</E
-M>scala a g</E
-M>libreria a g.</E
-M>cornice a g.</E
-M>venire a g</E
-M>mettere a g</E
+altro
+anno
+bello
+casa
+cominciare
+forza
+giorno
+grande
+guardare
+lavoro
+meglio
+modo
+morire
+notte
+nuovo
+ogni
+ora
+parte
+passare
+poco
+portare
+primo
+punto
+qualche
+quale
+ricordare
+sera
+signore
+stare
+strada
+tale
+tanto
+tempo
+tenere
+troppo
+tutto
+ultimo
+uomo
+vedere
+venire
+vita
+vivere

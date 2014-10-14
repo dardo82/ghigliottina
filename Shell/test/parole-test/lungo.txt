@@ -1,229 +1,28 @@
-lungo.txt
-"a lungo"
-"a lungo andare"
-"a lungo termine"
-"abito lungo"
-"abito lungo"
-"ancora a lungo"
-"aspettare a lungo"
-"aspettare per un lungo periodo"
-"bollire a lungo"
-"buono del Tesoro a lungo termine"
-"cambiale a lungo termine"
-"camminare a lungo"
-"campo lungo"
-"capitano di lungo corso"
-"cappotto lungo"
-"che tira a lungo"
-"continuare all'infinito con, tirarla in lungo con"
-"correre lungo"
-"di lungo corso"
-"dormire troppo a lungo"
-"durare a lungo"
-"effetti a lungo termine"
-"essere disposti lungo"
-"essere lungo"
-"essere lungo come la quaresima"
-"extra lungo"
-"far rotolare lungo"
-"fare il passo più lungo della gamba"
-"ferro lungo"
-"finanziamento, prestito a lungo\/medio perido"
-"franco lungo bordo"
-"fucile lungo"
-"giù lungo"
-"il più lungo"
-"in lungo e in largo"
-"interesse a lungo termine"
-"intraprendere un lungo percorso"
-"investimento di lungo periodo"
-"lancio lungo"
-"lato lungo"
-"lungo"
-"lungo"
-"lungo"
-"lungo"
-"lungo"
-"lungo"
-"lungo"
-"lungo"
-"lungo"
-"lungo"
-"compare solo nella locuzione per il lungo"
-"lungo"
-"lungo"
-"lungo braccio della legge"
-"lungo cammino"
-"lungo disteso"
-"lungo il lato di"
-"lungo la strada"
-"lungo la via"
-"lungo linea"
-"lungo suono"
-"lungo tormento"
-"lungo tracciato"
-"lungo tutta la strada per"
-"lungo un miglio"
-"lungo una settimana"
-"lungo una vita"
-"memoria a lungo termine"
-"menare in lungo"
-"muso lungo"
-"non lungo"
-"obbligazione a lungo termine"
-"obbligazioni a lungo termine"
-"parlare a lungo"
-"passo lungo"
-"passo lungo e deciso"
-"per un lungo periodo"
-"perlustrare, cercare in lungo e in largo"
-"peso lungo"
-"più lungo"
-"più lungo"
-"prestito a lungo termine"
-"progettazione a lungo termine"
-"programma a lungo termine"
-"quello ci vede lungo"
-"salto in lungo"
-"scorrere lungo"
-"scrivere a lungo"
-"sedativo a lungo effetto"
-"spostamento lungo"
-"stare troppo a lungo"
-"suono lungo e persistente"
-"tagliare lungo"
-"tempo molto lungo"
-"teoria sul fatto di fornire un servizio lungo una coda d'attesa"
-"tirare a lungo"
-"tiro lungo"
-"titoli a lungo termine"
-"tra il lungo e il corto"
-"trattenersi più a lungo"
-"trattino lungo"
-#*l'Italia è uno dei Paesi in cui si vive più a lungo''
-*[[allungato]], [[bislungo]], [[oblungo]], [[prolungato]]
-*(di tempo) [[durevole]], [[duraturo]], [[permanente]], [[interminabile]]
-*[[lento]], [[flemmatico]], [[tardo]], [[pigro]]
-*(di cibo, bevanda) [[acquoso]], [[annacquato]], [[allungato]], [[diluito]], [[brodoso]], [[corretto]]
-*(di discorso, scritto) [[prolisso]], [[verboso]]
-*[[rasente]]
-*[[su]], [[in]], [[per]]
-*[[corto]]
-*(di tempo) [[breve]]
-*[[veloce]], [[svelto]], [[rapido]], [[scattante]], [[fulmineo]]
-* (di discorso, scritto) [[conciso]], [[sintetico]], [[stringato]]
-*[[lungamente]]
-"a lungo"
-"a lungo andare"
-"a lungo termine"
-"abito lungo"
-"abito lungo"
-"ancora a lungo"
-"aspettare a lungo"
-"aspettare per un lungo periodo"
-"bollire a lungo"
-"buono del Tesoro a lungo termine"
-"cambiale a lungo termine"
-"camminare a lungo"
-"campo lungo"
-"capitano di lungo corso"
-"cappotto lungo"
-"che tira a lungo"
-"continuare all'infinito con, tirarla in lungo con"
-"correre lungo"
-"di lungo corso"
-"dormire troppo a lungo"
-"durare a lungo"
-"effetti a lungo termine"
-"essere disposti lungo"
-"essere lungo"
-"essere lungo come la quaresima"
-"extra lungo"
-"far rotolare lungo"
-"fare il passo più lungo della gamba"
-"ferro lungo"
-"finanziamento, prestito a lungo\/medio perido"
-"franco lungo bordo"
-"fucile lungo"
-"giù lungo"
-"il più lungo"
-"in lungo e in largo"
-"interesse a lungo termine"
-"intraprendere un lungo percorso"
-"investimento di lungo periodo"
-"lancio lungo"
-"lato lungo"
-"lungo"
-"lungo"
-"lungo"
-"lungo"
-"lungo"
-"lungo"
-"lungo"
-"lungo"
-"lungo"
-"lungo"
-"compare solo nella locuzione per il lungo"
-"lungo"
-"lungo"
-"lungo braccio della legge"
-"lungo cammino"
-"lungo disteso"
-"lungo il lato di"
-"lungo la strada"
-"lungo la via"
-"lungo linea"
-"lungo suono"
-"lungo tormento"
-"lungo tracciato"
-"lungo tutta la strada per"
-"lungo un miglio"
-"lungo una settimana"
-"lungo una vita"
-"memoria a lungo termine"
-"menare in lungo"
-"muso lungo"
-"non lungo"
-"obbligazione a lungo termine"
-"obbligazioni a lungo termine"
-"parlare a lungo"
-"passo lungo"
-"passo lungo e deciso"
-"per un lungo periodo"
-"perlustrare, cercare in lungo e in largo"
-"peso lungo"
-"più lungo"
-"più lungo"
-"prestito a lungo termine"
-"progettazione a lungo termine"
-"programma a lungo termine"
-"quello ci vede lungo"
-"salto in lungo"
-"scorrere lungo"
-"scrivere a lungo"
-"sedativo a lungo effetto"
-"spostamento lungo"
-"stare troppo a lungo"
-"suono lungo e persistente"
-"tagliare lungo"
-"tempo molto lungo"
-"teoria sul fatto di fornire un servizio lungo una coda d'attesa"
-"tirare a lungo"
-"tiro lungo"
-"titoli a lungo termine"
-"tra il lungo e il corto"
-"trattenersi più a lungo"
-"trattino lungo"
-#*l'Italia è uno dei Paesi in cui si vive più a lungo''
-*[[allungato]], [[bislungo]], [[oblungo]], [[prolungato]]
-*(di tempo) [[durevole]], [[duraturo]], [[permanente]], [[interminabile]]
-*[[lento]], [[flemmatico]], [[tardo]], [[pigro]]
-*(di cibo, bevanda) [[acquoso]], [[annacquato]], [[allungato]], [[diluito]], [[brodoso]], [[corretto]]
-*(di discorso, scritto) [[prolisso]], [[verboso]]
-*[[rasente]]
-*[[su]], [[in]], [[per]]
-*[[corto]]
-*(di tempo) [[breve]]
-*[[veloce]], [[svelto]], [[rapido]], [[scattante]], [[fulmineo]]
-* (di discorso, scritto) [[conciso]], [[sintetico]], [[stringato]]
-*[[lungamente]]
+alto
+andare
+bisognare
+buono
+cercare
+fatto
+giorno
+grande
+guardare
+lungo
+molto
+momento
+parlare
+piccolo
+poco
+portare
+povero
+quello
+solo
+stare
+strada
+tanto
+tempo
+tornare
+troppo
+uscire
+vita
+vivere

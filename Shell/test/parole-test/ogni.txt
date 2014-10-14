@@ -1,196 +1,58 @@
-ogni.txt
-"a carnevale ogni scherzo vale"
-"a ogni buon conto"
-"a ogni buon conto"
-"a ogni costo"
-"a ogni modo"
-"A ogni piè sospinto"
-"ad ogni costo"
-"ad ogni età"
-"ad ogni modo"
-"ad ogni modo"
-"ad ogni modo"
-"ad ogni modo..."
-"al di là di ogni comprensione"
-"al di sopra di ogni sospetto"
-"allontanare ogni dubbio"
-"che accade ogni mezz'ora"
-"che toglie ogni energia"
-"con ogni evidenza"
-"con ogni mezzo"
-"congedo concesso agli accademici ogni sette anni"
-"da ogni dove"
-"da ogni parte"
-"da ogni parte"
-"da ogni parte"
-"da ogni parte"
-"di ogni genere"
-"di ogni tipo"
-"diritti del cittadino di ogni stato degli USA"
-"essere al di là di ogni comprensione"
-"fare ogni sforzo per"
-"fuori da ogni misura"
-"gente di ogni condizione; ricchi e poveri"
-"in ogni caso"
-"in ogni direzione"
-"in ogni direzione"
-"in ogni epoca"
-"in ogni luogo"
-"in ogni modo"
-"in ogni modo"
-"in ogni modo"
-"in ogni parte del mondo"
-"in ogni posto"
-"in ogni regione"
-"in ogni senso pratico"
-"in ogni sua parte"
-"in ogni suo aspetto"
-"ogni"
-"ogni"
-"ogni"
-"ogni"
-"ogni altra cosa"
-"ogni altro"
-"ogni anno"
-"ogni consiglio è ben accetto."
-"ogni cosa"
-"ogni cosa a suo tempo"
-"ogni due tre"
-"ogni genere"
-"ogni giorno"
-"ogni giorno"
-"ogni giorno che passa"
-"ogni istante"
-"ogni lasciata è persa"
-"ogni momento"
-"ogni morte di papa"
-"ogni morte di papa"
-"ogni morte di papa"
-"ogni notte"
-"ogni occasione è buona"
-"ogni ora"
-"ogni ora"
-"ogni pezzo"
-"ogni popolo ha i governanti che si merita"
-"ogni promessa è debito"
-"ogni qual volta, ogniqualvolta"
-"ogni quindici giorni"
-"ogni santo giorno"
-"ogni scarafaggio sembra bello a sua madre"
-"Ogni scarrafon'è bello a mammà soja"
-"ogni scusa è buona"
-"ogni tanto"
-"ogni tanto"
-"ogni tanto"
-"ogni tanto"
-"ogni tanto"
-"ogni trimestre"
-"ogni tuo desiderio è un ordine"
-"ogni volta"
-"ogni volta"
-"oltre ogni aspettativa"
-"oltre ogni immaginazione"
-"oltre ogni sospetto"
-"passare ogni limite, essere il colmo"
-"per ogni dove"
-"per ogni esigenza"
-"per ogni tasca"
-"prima di ogni cosa"
-"privo di ogni fondamento"
-"provarne di ogni"
-"relativo a tassa di due scellini che si pagava per ogni stufa o camino posseduti"
-*[[ciascuno]]
-*[[qualsiasi]], [[qualunque]], [[qualsivoglia]]
-*[[tutti]], [[tutte]]
-*[[nessuno]] 
-*[[omni-]]
-*''
-M>mnis</E
-M>studente</E
-M>donna</E
-M>libro</E
-M>calzature di o</E
-M>tipo</E
-M>come desinato ebbero ogni uomo</E
-M>uomo nasce libero</E
-M>Dio è in o</E
-M>luogo</E
-M>gli perdonò o</E
-M>sua colpa</E
-M>ha la casa piena di o</E
-M>ben di Dio</E
-M>Ogne lingua deven tremando muta</E
-M>tutti gli uomini</E
-M>in tutti i luoghi</E
-M>cosa</E
-M>portarono via o</E
-M>cosa</E
-M>hai guastato o</E
-M>cosa</E
-M>gente d’o</E
-M>età e categoria sociale</E
-M>impresa ha le sue difficoltà</E
-M>ha tentato con o</E
-M>mezzo</E
-M>legno ha il suo tarlo</E
-M>ogni rosa ha le sue spine</E
-M>medaglia</E
-M>diritto</E
-M>ha il suo rovescio</E
-M>esaminare in o</E
-M>particolare</E
-M>lo vado a trovare o</E
-M>mese</E
-M>cresce o</E
-M>giorno di più</E
-M>ne deve prendere un cucchiaio o. ora</E
-M>minuto mi pareva un’eternità</E
-M>si fermava a o</E
-M>scalino per riprendere fiato</E
-M>ti auguro o</E
-M>bene</E
-M>felicità</E
-M>con o</E
-M>cura</E
-M>con o</E
-M>attenzione</E
-M>fuor d’o</E
-M>dubbio</E
-M>oltre o</E
-M>dire</E
-M>oltre o</E
-M>credere</E
-M>in o</E
-M>caso</E
-M>in o</E
-M>modo</E
-M>a o</E
-M>modo</E
-M>Per vendicar lei dunque debbo e voglio Ogni modo morir</E
-M>in o</E
-M>dove</E
-M>per o</E
-M>dove</E
-M>d’o</E
-M>intorno</E
-M>qual volta</E
-M>per o</E
-M>buon conto</E
-M>c’è un distributore o</E
-M>30 km</E
-M>appena uno o</E
-M>cento può riuscire</E
-M>le rate si versano o</E
-M>due mesi</E
-M>lo incontro o</E
-M>tanto</E
-M>poco</E
-M>rimaneva come estatica</E
-M>dicendo solo</E
-M>ogni</E
-M>poco:</E
-M>«oh misericordia!»</E
-M>c’è un filoncino di pane o</E
-M>tre persone</E
-M>ci sono dieci concorrenti per o</E
-M>posto</E
+acqua
+altro
+amore
+andare
+anno
+bello
+bisognare
+caso
+cosa
+credere
+donna
+entrare
+forza
+gente
+giorno
+lasciare
+lavoro
+meglio
+mettere
+modo
+momento
+mondo
+morire
+nome
+nostro
+notte
+ogni
+ora
+parola
+parte
+passare
+pensare
+poco
+portare
+prendere
+proprio
+quale
+ragione
+sembrare
+stare
+stato
+strada
+suo
+tanto
+tempo
+tenere
+tornare
+trovare
+tuo
+tutto
+uomo
+uscire
+vecchio
+vedere
+venire
+vero
+vita
+volta

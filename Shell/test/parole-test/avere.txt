@@ -1,113 +1,73 @@
-avere.txt
-"(avere) in pugno"
-"(avere) un chiodo fisso in testa"
-"(avere) una fifa blu, una paura del diavolo"
-"avercela con qc, avere il dente avvelenato con qc"
-"avere"
-"Avere è anche ausiliare nei tempi composti di tutti i verbi transitivi attivi (Ho fatto un arrosto per pranzo) e nella maggior parte di quelli intransitivi (Ho parlato con i tuoi insegnanti oggi)"
-"avere"
-"avere"
-"avere"
-"avere"
-"avere, replace: averi"
-"avere"
-"avere a che fare"
-"avere a che fare"
-"avere a che fare con"
-"avere a cuore"
-"avere a disposizione"
-"avere abbastanza"
-"avere addosso"
-"avere altro da fare"
-"avere altro da fare, avere cose più importanti da fare"
-"avere ancora la bocca sporca di latte"
-"avere antipatia"
-"avere antipatia"
-"avere appena compiuto gli anni"
-"avere attitudine per"
-"avere beneficio"
-"avere bisogno"
-"avere bisogno di"
-"avere bisogno di"
-"avere bisogno di"
-"avere bisogno di"
-"avere bisogno di"
-"avere bisogno di"
-"avere bisogno di"
-"avere bisogno di assistenza"
-"avere buone intenzioni"
-"avere caldo"
-"avere caldo"
-"avere carattere"
-"avere carattere"
-"avere caro"
-"avere carta bianca"
-"avere libertò d'azione"
-"avere ciò che ci si merita"
-"avere come obiettivo, mirare a"
-"avere come risultato"
-"avere compassione"
-"avere compassione"
-"avere compassione di qualcuno"
-"avere compassione per"
-"avere completo successo"
-"avere conoscenza di qcs."
-"avere considerazione per"
-"avere controllo di qc\/qcs"
-"avere controllo di qcs. (anche ufficialmente)"
-"avere cose migliori da fare"
-"avere cuccioli"
-"Avere culo"
-"avere cura"
-"avere cura di qualcuno"
-"avere da accendere"
-"avere da ridire, lamentarsi"
-"avere debiti"
-"avere debiti"
-"avere dei dubbi"
-"Avere del pelo sullo stomaco"
-"avere del riguardo"
-"avere delle aspettative"
-"avere delle cose in comune"
-"avere delle riserve"
-"avere denaro"
-"avere denaro da spendere"
-"avere denaro; liquidità"
-"avere denaro; soldi"
-"avere dentro"
-"avere difficoltà"
-"avere diritto a"
-"avere disprezzo per qc"
-"avere dubbi"
-"avere dubbi su, nutrire dubbi su"
-"avere e tenere"
-"avere effetti su"
-"avere effetto"
-"avere energia"
-"avere esperienza"
-"avere esperienza"
-"avere faccia tosta, di bronzo"
-"avere facilità di fare qcs. a mente"
-"avere fame"
-"avere familiarità con"
-"avere familiarità con"
-"avere fede"
-"avere fede"
-"avere fede"
-"avere fede"
-"avere fede"
-"avere fede in"
-"avere fiducia"
-"avere fiducia"
-"avere fiducia"
-"avere fiducia"
-#* '''''ho''' tutti gli album dei Metallica''
-#* '''''ho''' fame!''
-#* '''''hai''' da finire i compiti per domani''
-#* '''''ho''' idea che sia impegnato''
-#* '''''ho''' mangiato un panino''
-#* '''''ho''' sonnecchiato per un'oretta''
-*[[possedere]]
-*italiano
-*latino
-*inglese
+altro
+amico
+amore
+andare
+aria
+avere
+bello
+capire
+casa
+cercare
+chiedere
+conoscere
+cosa
+credere
+dire
+diverso
+dovere
+essere
+forza
+giorno
+giovane
+grande
+guardare
+lasciare
+lavoro
+mano
+meglio
+mettere
+mio
+modo
+molto
+momento
+morire
+nome
+notte
+occhio
+parlare
+parola
+parte
+pensare
+poco
+portare
+potere
+prendere
+proprio
+qualche
+quello
+ragione
+ricordare
+rimanere
+rispondere
+sapere
+sembrare
+sentire
+solo
+stare
+storia
+suo
+tempo
+tenere
+testa
+troppo
+trovare
+tuo
+tutto
+ultimo
+venire
+vero
+vita
+vivere
+voce
+volere
+volta

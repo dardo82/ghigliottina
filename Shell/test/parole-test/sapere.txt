@@ -1,72 +1,24 @@
-sapere.txt
-"arrivare a sapere"
-"arrivare a sapere"
-"come faccio a sapere...?"
-"fammi sapere"
-"fammi sapere come va"
-"far finta di non sapere"
-"far sapere"
-"i campi del sapere"
-"la vuoi sapere una cosa?"
-"le faremo sapere"
-"mente avida di sapere"
-"non ci è dato sapere"
-"non sapere"
-"non sapere che pesci pigliare"
-"non sapere come"
-"non sapere cosa"
-"non sapere cosa si farà da grande"
-"non sapere cosa si pagherebbe per"
-"non sapere dove andare a sbattere la testa"
-"non sapere manco dove sta di casa"
-"non sapere nulla di"
-"non sapere se ci si è spiegati"
-"non volerne più sapere di qcs"
-"non volerne sapere"
-"odorare di, sapere di"
-"odorare di, sapere di"
-"preferire non sapere"
-"sapere"
-"sapere"
-"sapere"
-"sapere"
-"sapere"
-"sapere"
-"sapere"
-"sapere"
-"sapere a memoria"
-"sapere bene"
-"sapere come stanno le cose"
-"sapere comune"
-"sapere d'istinto"
-"sapere di sicuro"
-"Sapere di tappo"
-"sapere il fatto proprio"
-"sapere il risultato"
-"sapere in anticipo"
-"sapere molto bene"
-"sapere per esperienza"
-"sapere poco"
-"sapere qualcosa a menadito"
-"sapere qualcosa da, avere notizie da"
-"sapere tutto"
-"senza sapere"
-"sete di sapere"
-"si viene a sapere"
-"vallo a sapere"
-"venire a sapere"
-"venire a sapere"
-"venire a sapere"
-"venire a sapere che"
-"venire a sapere di"
-"venire a sapere di, sentire parlare di, sentire di"
-"voler sapere"
-#* '' io so di non 
-#* '' vorrei 
-#* ''questa minestra sa di sale''
-#*'' l'aria sa di zolfo''
-*''(sostantivo)'' [[sapienza]], [[conoscenza]], [[cultura]], [[dottrina]], [[erudizione]], [[scienza]], [[scibile]]
-*''(sostantivo)''[[ignoranza]], [[incultura]]
-*''sapere il fatto suo''
-* [http
-* [http
+chiedere
+conoscere
+giorno
+lasciare
+modo
+momento
+morire
+parlare
+parte
+pensare
+poco
+quale
+questo
+rispondere
+sapere
+sentire
+stare
+strada
+tale
+tenere
+testa
+tornare
+ultimo
+venire

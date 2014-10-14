@@ -1,138 +1,27 @@
-paese.txt
-"banca di paese"
-"è un paese libero"
-"emporio di paese"
-"il paese dell'abbondanza"
-"il paese è piccolo, la gente mormora"
-"individuo piccolo e tozzo (dal personaggio di alice nel paese delle meraviglie)"
-"lasciare il paese"
-"mandare a quel paese"
-"paese"
-"paese"
-"paese"
-"paese dei balocchi"
-"paese dell'est"
-"paese della cuccagna"
-"paese immaginario"
-"paese incantato, paese delle fate"
-"paese natale"
-"paese natale, città natale"
-"paese occidentale"
-"paese rurale"
-"per il suo paese"
-"per l'intero paese"
-"persone che stanno nel loro paese durante una guerra all'estero"
-"piccolo e tozzo (dal personaggio di alice nel paese delle meraviglie)"
-"tutto il mondo è paese"
-"va' a quel paese!"
-* [[territorio]], [[terra]], [[regione]], [[area]], [[zona]];
-*[[ stato]],[[popolo]], [[patria]], [[madrepatria]] 
-*[[ villaggio]], [[borgo]]
-M>*pagensis</E
-M>pagus</E
-M>freddi</E
-M>temperati</E
-M>caldi</E
-M>equatoriali</E
-M>tropicali</E
-M>i p</E
-M>asiatici</E
-M>danubiani</E
-M>i p</E
-M>del Nord</E
-M>dell&#8217;Europa Centrale</E
-M>i Paesi Bassi</E
-M>un p</E
-M>fertile</E
-M>popoloso</E
-M>disabitato</E
-M>un p</E
-M>povero</E
-M>ricco</E
-M>il bel p</E
-M>quasi tutto il mondo ho cercato</E
-M>e fatta esperienza di quasi tutti i p</E
-M>scoprir paese</E
-M>per venire in chiaro delle sue congetture</E
-M>e scoprir paese</E
-M>mandare a quel p</E
-M>che vai usanza che trovi</E
-M>tutto il mondo è p</E
-M>nazione</E
-M>stato</E
-M>i p</E
-M>europei</E
-M>i p</E
-M>asiatici</E
-M>i p</E
-M>dell&#8217;Est</E
-M>orientali</E
-M>i p</E
-M>dell&#8217;Ovest</E
-M>occidentali</E
-M>i p</E
-M>del Sud</E
-M>meridionali</E
-M>paesi in via di sviluppo</E
-M>emergenti</E
-M>le ricchezze</E
-M>le risorse del p</E
-M>minacciare</E
-M>invadere il p</E
-M>avversario</E
-M>lasciare</E
-M>sgomberare il p</E
-M>liberare il proprio p</E
-M>dagli invasori</E
-M>un p</E
-M>democratico</E
-M>un p</E
-M>a regime dittatoriale</E
-M>il p</E
-M>non vuole la guerra</E
-M>lanciare</E
-M>rivolgere un appello al p</E
-M>consultare il p</E
-M>Povera gente! lontana da&#8217; suoi</E
-M>In un p</E
-M>qui che le vuol male</E
-M>patria</E
-M>amare</E
-M>servire il proprio p</E
-M>morire</E
-M>sacrificarsi per il p</E
-M>per la salvezza</E
-M>per la libertà del paese</E
-M>Paese legale</E
-M>paese reale</E
-M>oltre i termini troppo angusti e circoscritti e non poco incerti del p</E
-M>legale esiste</E
-M>il p</E
-M>reale che non vuole dimenticati gl&#8217;interessi suoi per gli interessi dei partiti e delle persone</E
-M>un p</E
-M>di pianura</E
-M>di montagna</E
-M>le strade</E
-M>la piazza del p</E
-M>il sindaco del p</E
-M>un p</E
-M>di contadini</E
-M>di pescatori</E
-M>la festa</E
-M>la sagra del p</E
-M>usi</E
-M>costumi di p</E
-M>vita</E
-M>abitudini di p</E
-M>un p</E
-M>povero</E
-M>ricco</E
-M>un p</E
-M>disabitato</E
-M>abbandonato</E
-M>il parroco era benvoluto da tutto il p</E
-M>alla fiera c&#8217;era il p</E
-M>al completo</E
-M>pittore di paesi</E
-M>tornare al paesello</E
-M>paesaccio</E
+bello
+entrare
+gente
+giovane
+lasciare
+loro
+meglio
+mettere
+mio
+morire
+nuovo
+paese
+parte
+piccolo
+portare
+povero
+primo
+quello
+solo
+stato
+strada
+suo
+tenere
+tornare
+trovare
+ultimo
+vivere

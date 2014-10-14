@@ -1,128 +1,64 @@
-andare.txt
-"(andare) su tutte le furie"
-"a lungo andare"
-"al momento di andare in stampa"
-"andare"
-"andare"
-"andare"
-"andare"
-"funzionare, andare bene"
-"andare"
-"andare\"
-"andare"
-"andare"
-"andare"
-"andare"
-"andare"
-"l'andare, il trascorrere"
-"andare"
-"andare a"
-"andare a"
-"andare a buon fine"
-"andare a caccia"
-"andare a caccia"
-"andare a caccia"
-"andare a cagare"
-"andare a Canossa"
-"andare a capo"
-"andare a cavallo, fare equitazione"
-"andare a cavallo; praticare l'equitazione"
-"andare a correre"
-"Andare a discapito"
-"andare a discapito di"
-"andare a divertirsi"
-"andare a donne"
-"andare a dormire"
-"andare a dormire"
-"andare a dormire; a letto"
-"andare a dormire; linguaggio infantile"
-"andare a far la spesa"
-"andare a fare"
-"Andare a fare in culo"
-"andare a fare qcs"
-"andare a fare spese"
-"andare a fare un giro in bicicletta o in moto"
-"andare a fare un giro in macchina"
-"andare a fare una passeggiata"
-"andare a fare una scappata"
-"andare a fuoco"
-"andare a galoppo"
-"andare a genio"
-"andare a granchi"
-"andare a letto"
-"andare a letto"
-"andare a letto"
-"andare a letto"
-"andare a letto con"
-"andare a letto con"
-"andare a letto con"
-"andare a letto con (sessualmente)"
-"Andare a letto con le galline"
-"andare a letto con qcn"
-"andare a letto con tutti"
-"andare a letto insieme"
-"andare a male"
-"andare a male"
-"andare a male"
-"andare a memoria"
-"andare a Messa"
-"andare a messa"
-"andare a nanna"
-"andare a parare"
-"andare a passo ambio"
-"andare a passo d'uomo"
-"andare a pesca"
-"andare a pesca"
-"andare a pesca di (anche fig)"
-"andare a pezzi"
-"Andare a picco"
-"andare a piedi"
-"andare a piedi; camminare"
-"andare a pranzo, andare a mangiare, uscire per pranzo"
-"andare a prendere"
-"andare a prendere"
-"andare a prendere"
-"andare a prendere"
-"andare a prendere"
-"andare a prendere qcs"
-"andare a prendere; a fare"
-"andare a proprio vantaggio"
-"Andare a puttane"
-"andare a puttane"
-"andare a regime"
-"andare a rimorchio di qn"
-"andare a rischio"
-"Andare a rotoli"
-"andare a rotoli, andare in rovina, andare a monte"
-"andare a ruba"
-"andare a ruota libera"
-"andare a sbattere"
-"andare a scopare il mare"
-"andare a scuola"
-"andare a spron battuto"
-"andare a tagliarsi i capelli"
-"andare a tavoletta"
-#* ''ogni mattina devo '''andare''' a scuola''
-#* ''coraggio, '''vai'''!''
-#* ''quell'elettrodomestico '''va''' in cucina''
-#* ''quel documento '''va''' portato dall'avvocato''
-#* ''quei furfanti '''andrebbero''' acciuffati''
-#* ''il suo '''andare''' con alterigia''
-#* ''con l''''andare''' del tempo''
-*[[muoversi]], [[spostarsi]], [[camminare]], [[incamminarsi]], [[recarsi]], [[dirigersi]], [[avviarsi]], [[avanzare]], [[portarsi]], [[condursi]], [[procedere]], [[marciare]], [[peregrinare]], [[inoltrarsi]], [[penetrare]]
-*[[allontanarsi]], [[partire]], [[uscire]], [[fuggire]], [[emigrare]], [[espatriare]], [[trasferirsi]], [[traslocare]]
-*(in un luogo) [[aggirarsi]], [[circolare]], [[passeggiare]], [[errare]], [[gironzolare]], [[vagabondare]], [[vagare]]
-*(di strada, fiume) [[portare]], [[condurre]], [[sboccare]], [[sfociare]], [[confluire]]
-* (di meccanismo) [[funzionare]]
-*(di merce, articolo) essere venduto, avere successo, essere di moda
-*(di tempo) [[trascorrere]], [[passare]], [[volare]]
-* essere necessario, [[occorrere]]
-*(di oggetto, lettera) essere destinato
-*(di attività, lavoro) [[progredire]], [[continuare]], [[proseguire]]
-*''(essere messo)'' [[essere collocato]]
-*[[andata]], [[viaggio]], [[andatura]], [[portamento]], [[camminata]]
-*[[venire]], [[tornare]], [[ritornare]], [[arrivare]], [[stare]], [[fermarsi]], [[rimanere]], [[restare]],  [[ire]], [[gire]]
-* [[andarsene]], [[andato|andàto]] <small>''(aggettivo)''</small>, [[riandare]], [[andarne]]
-* [[andare a bottega]], [[andare a catafascio]], [[andare addosso]], [[andare a fondo]]
-*''a lungo andare''
-*Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 92
+acqua
+alto
+amico
+amore
+andare
+anno
+aria
+buono
+casa
+caso
+cercare
+chiamare
+chiedere
+dire
+donna
+entrare
+essere
+forza
+giorno
+grande
+guerra
+lasciare
+lavoro
+lungo
+mano
+meglio
+mettere
+momento
+nome
+occhio
+ora
+padre
+paese
+parte
+passare
+portare
+prendere
+proprio
+quello
+ragione
+ricordare
+rimanere
+rispondere
+sapere
+sentire
+solo
+stare
+storia
+strada
+tale
+tanto
+tempo
+testa
+tornare
+troppo
+trovare
+tutto
+uomo
+uscire
+venire
+vita
+vivere
+voce
+volere

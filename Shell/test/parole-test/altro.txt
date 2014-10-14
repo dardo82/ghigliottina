@@ -1,115 +1,60 @@
-altro.txt
-"affatto, tutt'altro"
-"allora che altro c'è di nuovo"
-"altro"
-"altro"
-"altro che storie"
-"altro che!"
-"altro interprete"
-"altro mondo"
-"altro?"
-"anno dopo anno, un anno dopo l'altro"
-"anno dopo anno, un anno dopo l'altro"
-"anno dopo anno, un anno dopo l'altro"
-"attraverso l'altro"
-"avanti un altro"
-"avere altro da fare"
-"avere altro da fare, avere cose più importanti da fare"
-"ben altro per la testa"
-"capirsi l'uno con l'altro"
-"codice di valori valido più per un gruppo di individui che per un altro"
-"come nessun altro"
-"come nient'altro"
-"confrontarsi l'un l'altro"
-"Cos'altro c'è di nuovo?"
-"cos'altro c'è di nuovo?"
-"d'altro canto"
-"d'altro canto, d'altra parte"
-"da un capo all'altro"
-"da un capo all'altro della nave"
-"da un lato… dall'altro…"
-"da un polo all'altro"
-"da un posto all'altro"
-"dall'altro canto"
-"dall'altro lato"
-"dall'altro lato"
-"dell'altro"
-"dell'altro mondo"
-"dell'altro mondo"
-"di altro tipo"
-"di chi scrive libri per conto di un altro"
-"di un altro mondo"
-"e nient'altro che la verità"
-"e quant'altro"
-"e quant'altro, eccetera"
-"essere diverso l'uno dall'altro"
-"fare un altro tentativo"
-"fare una cosa al posto di qualcun altro"
-"finire il lavoro di un altro"
-"il cieco che guida un altro cieco"
-"il lato opposto di, sull'altro lato di"
-"il passaggio da un flirt ad un altro"
-"in quale altro posto"
-"in un altro modo"
-"in un altro modo"
-"in un altro momento"
-"in un modo o nell'altro"
-"in un modo o nell'altro"
-"in un modo o nell'altro"
-"l'altro"
-"l'altro estremo"
-"l'altro giorno"
-"l'altro ieri, l'altroieri"
-"l'altro lato"
-"l'altro lato della medaglia"
-"l'altro sesso"
-"l'un l'altro"
-"l'un l'altro"
-"l'uno con l'altro"
-"l'uno dall'altro"
-"l'uno o l'altro"
-"l'uno o l'altro"
-"lontani uno dall'altro"
-"mettere uno accanto all'altro"
-"mettere uno contro l'altro"
-"molto altro ancora"
-"morire uno dopo l'altro"
-"morire uno dopo l'altro"
-"morto un papa se ne fa un altro"
-"nessun altro"
-"nessun altro"
-"nient'altro"
-"nient'altro che"
-"nient'altro che"
-"non avere più di; non avere altro"
-"non è altro che"
-"non per altro"
-"non poter fare altro che"
-"o l'uno o l'altro"
-"ogni altro"
-"passare da un piede all'altro"
-"pesce ripieno di altro pesce macinato con spezie (ricetta ebraica)"
-"più che altro"
-"prendere il posto di (qualcun altro)"
-"prendere per qualcun altro"
-"proprio dall'altro lato della strada"
-"qualche altro"
-"qualcos'altro"
-"qualcosa d'altro"
-"qualcosa d'altro"
-"qualcun altro"
-"scrittore fantasma (chi scrive libri a nome di un altro)"
-#*''Anche se hanno '''altre''' tradizioni, rispettali allo stesso modo''
-#*''Ehi,in questa spiaggia siamo rimasti solo in tre
-#*''Prese ancora un '''altro''' piatto.''
-#*''L''''altro''' giorno ti ho vista ridere.''
-#*''Sarà per un''''altra''' volta.''
-#*'''''L'una e l'altra''' cosa sono pericolose'' o '''''L'una o l'altra cosa''' è pericolosa''
-#*''Visto che tu non vuoi, troverò un '''altro'''.''
-#*''La stampa non ha riportato la ragione per cui l'assassino ha ucciso cinquanta persone delle sessanta presenti ma ha risparmiato gli '''altri'''.''
-#*''Posso prenderne un''''altra'''?''
-#*''Ho visto Riccardo e Samantha, uno lo conosci, l''''altra''' no.''
-#*''Vuole '''altro'''?''
-#*''Cosa volete da me, '''voialtri''' barbari?'' 
-*[[diverso]]
-*[[dell'altro mondo]], [[d'altra parte]],[[l'altro mondo]],[[se non altro]], [[senz'altro]], [[tra l'altro]], [[tutt'altro]]
+altro
+amore
+anno
+avere
+chiedere
+conoscere
+cosa
+dire
+diverso
+figlio
+forza
+giorno
+guardare
+lasciare
+lavoro
+mano
+meglio
+mettere
+mio
+modo
+molto
+momento
+mondo
+morire
+nessuno
+nome
+notte
+nuovo
+occhio
+ogni
+parola
+parte
+passare
+pensare
+poco
+portare
+prendere
+proprio
+qualche
+quale
+quello
+questo
+ragione
+rimanere
+sembrare
+sentire
+sera
+solo
+storia
+strada
+tale
+tempo
+tenere
+testa
+trovare
+tutto
+uomo
+vedere
+venire
+vita

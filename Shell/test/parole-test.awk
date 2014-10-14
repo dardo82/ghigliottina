@@ -13,8 +13,8 @@ END {
         for (j=1; j<=NR; j++) \
             a[(i-1)*n+j]=m[i,j]
     asort (a)
-    for (e in a) \
-        if (length (a[e]) >1) \
-            print a[e]
+    for (i in a) \
+        if (length (a[i]) >1) \
+            print a[i]
 }
 

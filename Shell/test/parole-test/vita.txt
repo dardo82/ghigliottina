@@ -1,455 +1,51 @@
-vita.txt
-"a miglior vita"
-"a vita"
-"a vita, sottoveste"
-"acqua della vita"
-"affacciarsi alla vita"
-"affacciarsi alla vita"
-"albero della vita"
-"arborvitae"
-"albero della vita"
-"Alito di vita"
-"aspettativa di vita"
-"assicurazione di gruppo sulla vita"
-"assicurazione sulla vita"
-"assicurazione sulla vita"
-"assicurazione sulla vita"
-"assicurazione sulla vita"
-"attesa di vita"
-"auto a vita"
-"aver vita"
-"avere tutta una vita davanti"
-"avere vita facile"
-"bacio della vita"
-"battaglia per la vita o la morte"
-"bella vita"
-"botta di vita, boccata di ossigeno"
-"certificato di esistenza in vita"
-"che fa una vita dura"
-"che vita!"
-"che vita!"
-"ciambella di grasso alla vita"
-"ciambella di grasso alla vita"
-"cominciare una nuova vita"
-"compagno di vita"
-"condizione di vita accettabile"
-"condurre una vita dura"
-"condurre una vita protetta"
-"costo della vita"
-"creazione della vita"
-"dal tenore di vita lussuoso"
-"Dar vita ad una conversazione"
-"dare del filo da torcere a qc, rendere la vita difficile a qc, creare dei problemi a qc"
-"dare vita"
-"dare vita a"
-"Darsi una botta di vita"
-"dati di una vita"
-"declinare della vita"
-"dedicare la propria vita"
-"della vita di città"
-"della vita odierna"
-"distruzione della vita"
-"dolce vita"
-"dolce vita"
-"dolce vita"
-"durata della vita"
-"elisir della vita"
-"esistente, in vita"
-"essenza della vita"
-"essenza della vita"
-"essere in fin di vita"
-"essere in vita"
-"faceva una vita da cani"
-"fare la bella vita"
-"fatti della vita"
-"fatto di vita"
-"fine della vita"
-"fiore della vita"
-"forma di vita"
-"gioie della vita"
-"giro vita"
-"giro vita"
-"godersi la vita fino in fondo"
-"gusto della vita"
-"il Pane della Vita"
-"in fin di vita"
-"in pericolo di vita"
-"indice del costo della vita"
-"infondere vita in"
-"iniezione di vita"
-"intervista in profondità; storie di vita"
-"la bella vita"
-"la bella vita"
-"la corona della vita"
-"La dolce vita"
-"La Dolce Vita"
-"la Vita"
-"la vita dà, la vita toglie"
-"la vita di Riley"
-"la vita di tutti i giorni"
-"la vita è fatta di"
-"la vita è meravigliosa, la vita è bella"
-"la vita selvaggia"
-"lavoro di una vita"
-"linea della vita"
-"linea della vita"
-"lotta tra la vita e la morte"
-"lunga vita a"
-"lunga vita da vivere"
-"lungo una vita"
-"maestro di vita"
-"mai in vita mia"
-"mantenere in vita"
-"mantenere qualcosa in vita"
-"mantenere qualcuno in vita"
-#*''La '''vita''' è lunga''
-#*''Questa è una '''vita''' da schifo!''
-#*''Disegnare è tutta la sua '''vita'''''
-#*''L'abito le stava stretto in vita.''
-* Dal 
-*[[esistenza]]
-*[[morte]]
-*italiano
-*interlingua
-*swahili
-*ungherese
-M>viv</E
-M>sistemi viventi</E
-M>cellula</E
-M>organi</E
-M>individuo</E
-M>organismo</E
-M>mondo organico</E
-M>gameti</E
-M>evoluzione per selezione naturale</E
-M>origine della v.</E
-M>virus</E
-M>termodinamica dei processi irreversibili</E
-M>sistema aperto</E
-M>isolato</E
-M>vita</E
-M>venire alla v.</E
-M>dare la v. a qualcuno</E
-M>dare alla v. qualcuno</E
-M>avere v.</E
-M>essere in v.</E
-M>tenere</E
-M>mantenere in v.</E
-M>finché mi resta vita</E
-M>un fil di vita</E
-M> non cesserò di essergli grato</E
-M>essere in fin di v.</E
-M>Pace volli con Dio in su lo stremo De la mia v.</E
-M>restare</E
-M>rimanere in v.</E
-M>di tanti figli solo tre sono rimasti in vita</E
-M>finire</E
-M>spezzare</E
-M>troncare la v.</E
-M>il poveretto non dava più segno di vita</E
-M>uscire di v.</E
-M>privare della v.</E
-M>togliersi la v.</E
-M>rendere</E
-M>restituire alla v.</E
-M>morte</E
-M>essere tra la v. e la morte</E
-M>è questione di v. o di morte</E
-M>uniti per la v. e per la morte</E
-M>passare da morte a v.</E
-M>vita</E
-M>mettere a rischio</E
-M>a repentaglio</E
-M>la propria v.</E
-M>la v. di un’altra persona</E
-M>di altri</E
-M>ben folle è quegli Che a rischio de la v. onor si merca</E
-M>dare la v.</E
-M>porre la v.</E
-M>per la patria</E
-M>chi dirà de li Deci e de li Drusi</E
-M> che puosero la loro v. per la patria?</E
-M>salvare la v. a qualcuno</E
-M>gli deve la v.</E
-M>gli costò la v.</E
-M>ci rimise la v.</E
-M>vendere cara la v.</E
-M>ottenere qualche cosa a prezzo della v.</E
-M>ne va della v.</E
-M>la v.</E
-M>per amor del cielo! non fate pettegolezzi</E
-M> non fate schiamazzi: ne va</E
-M>ne va la vita!</E
-M>se vi è cara la v.</E
-M>se vi è cara la v.</E
-M> non fate parola a nessuno di quanto è successo qui</E
-M>o la borsa o la v.!</E
-M>pena la v.</E
-M>sotto pena di morte</E
-M>fare grazia della v.</E
-M>pericolo di v.</E
-M>pericolo di morte.</E
-M>Nel mezzo del cammin di nostra vita</E
-M>avere lunga v.</E
-M>la v. è breve</E
-M>non basterebbe la v. di un uomo per</E
-M>a vita</E
-M>essere nominato presidente</E
-M>senatore a v.</E
-M>v. natural durante</E
-M>in vita mia</E
-M>sua</E
-M>non ho mai visto una cosa simile in v. mia</E
-M>non credo che abbia mai preso l’aereo in v. sua</E
-M>in tutta la sua vita</E
-M>l’alba</E
-M>il mattino della v.</E
-M>la primavera della v.</E
-M>l’inverno della v.</E
-M>il tramonto della v.</E
-M>la v. nuova</E
-M>Questi fu tal ne la sua v. nova Virtualmente</E
-M> ch’ogne abito destro Fatto averebbe in lui mirabil prova</E
-M>Vita nuova</E
-M>v. di relazione</E
-M>v. intellettiva</E
-M>v. sensitiva</E
-M>v. vegetativa</E
-M>v. civile</E
-M>v. pubblica</E
-M>v. politica</E
-M>v. sociale</E
-M>v. privata</E
-M>v. pubblica</E
-M>v. sociale</E
-M>ritirarsi a v. privata</E
-M>come ministro è freddo e scostante</E
-M> ma nella v. privata è cordiale e simpatico</E
-M>fare v. mondana</E
-M>una v. molto ritirata</E
-M>v. individuale</E
-M>v. lavorativa</E
-M>v. produttiva</E
-M>la v. militare</E
-M>la v. del soldato</E
-M>la dura v. del marinaio</E
-M>la monotona v. dell’impiegato</E
-M>una v. di studioso</E
-M>da certosino</E
-M>fare la v. del poltrone</E
-M>del beato porco</E
-M>di Michelaccio</E
-M>fare una v. sana</E
-M>poco sana</E
-M>una v. sedentaria</E
-M>dinamica</E
-M>sportiva</E
-M>avere una v. sessuale normale</E
-M>intensa</E
-M>ridotta</E
-M>v. intellettiva</E
-M>psichica</E
-M>interiore</E
-M>una v. intima</E
-M>affettiva</E
-M>sentimentale molto ricca</E
-M>condurre una v. onesta</E
-M>corretta</E
-M>integerrima</E
-M>disonesta</E
-M>riprovevole</E
-M>viziosa</E
-M>Vita bestial mi piacque e non umana</E
-M>di nazion nobile ma di cattiva v.</E
-M>darsi alla mala v.</E
-M>avere una doppia v.</E
-M>mutare</E
-M>cambiare vita</E
-M>se non cambi v.</E
-M> vai a finire male</E
-M>anno nuovo vita nuova!</E
-M>fare la v.</E
-M>ragazza</E
-M>donna di vita</E
-M>ragazzi di v.</E
-M>Ragazzi di vita</E
-M>una v. agitata</E
-M>precaria</E
-M>sicura</E
-M>tranquilla</E
-M>poca brigata</E
-M> v. beata</E
-M>fare vita di spiaggia</E
-M>gran v.</E
-M>v. comoda</E
-M>v. da prìncipi</E
-M>v. da signore</E
-M>amare gli agi</E
-M>i comodi della v.</E
-M>passare la v. negli stenti</E
-M>trascinare la vita</E
-M>faticare tutto il giorno per campare la v.</E
-M>v. povera</E
-M>grama</E
-M>una v. da cani</E
-M>che vita!</E
-M>ha fatto una v.!</E
-M>fare una bella v.</E
-M>cominciò a fare la più bella v. e la più magnifica che mai si facesse</E
-M>fare la bella v.</E
-M>la bellavita</E
-M>darsi alla bella v.</E
-M>alla bellavita</E
-M>viveur</E
-M>vitaiolo</E
-M>fare la dolce v.</E
-M>dolce vita</E
-M>dolcevita</E
-M>collo alla dolce vita</E
-M>la ditta</E
-M>l’azienda festeggia il suo 50° anno di vita</E
-M>un governo che avrà v. breve</E
-M>che ha avuto una v. difficile e travagliata</E
-M>giornali</E
-M>circoli culturali</E
-M>centri artistici destinati ad avere v. effimera</E
-M>una v. breve</E
-M>dare vita a un’istituzione</E
-M>a un’iniziativa</E
-M>dare</E
-M>infondere vita a qualcosa</E
-M>v. latente</E
-M>v. media</E
-M>v. media alla nascita</E
-M>speranza media di v.</E
-M>v. media residua</E
-M>v. mediana</E
-M>v. probabile</E
-M>v. media</E
-M>v. media</E
-M>la v. media di un motore</E
-M>di un frigorifero</E
-M>di un televisore</E
-M>di un telefonino</E
-M>linea della v.</E
-M>vita!</E
-M>v. di sotto!</E
-M>costo della v.</E
-M>indici del costo della v.</E
-M>aumento</E
-M> diminuzione del costo della v.</E
-M>v. attiva</E
-M>v. contemplativa</E
-M>Filosofia della v.</E
-M>v. comune</E
-M>nonostante i suoi ottant’anni è ancora piena di vita</E
-M>ne ha di vita</E
-M> quella donna</E
-M>bambini</E
-M>ragazzi pieni di vita</E
-M>l’aria e il sole sono fonti di v.</E
-M>Te beata</E
-M> gridai</E
-M> per le felici Aure pregne di vita</E
-M>è una città piena di v.</E
-M>sono intervenuti alcuni giovani a dare un po’ di v. alla riunione</E
-M>è una città di provincia</E
-M> non ha v. notturna</E
-M>c’è un po’ di v. studentesca e null’altro</E
-M> «movida» è una parola spagnola che è oggi di moda per indicare la v. notturna</E
-M>una commedia</E
-M>una descrizione piena di v.</E
-M>un racconto</E
-M>un film monotono</E
-M>senza v.</E
-M>nella recitazione</E
-M>nell’esecuzione</E
-M>di quel pezzo dovrebbe mettere un po’ più di v.</E
-M>un dipinto</E
-M>un monumento ricco di una sua v.</E
-M>privo di v. e inerte</E
-M>la luce è la v. delle piante</E
-M>l’aria è v.</E
-M>lo sport</E
-M>il lavoro è vita per lui</E
-M>la poesia</E
-M>la musica</E
-M>lo studio</E
-M>è la sua v.</E
-M>quella donna è tutta la sua v.</E
-M>vita mia!</E
-M>la fede è v. dell’anima</E
-M>il credito è la v. del commercio</E
-M>gli abbonati sono la v. del giornale</E
-M>senza perdita di v. umane</E
-M>anima</E
-M>E già la v. di quel lume santo Rivolta s’era al Sol</E
-M>avere</E
-M>non avere ancora esperienza della v.</E
-M>sei troppo giovane per conoscere la vita</E
-M>lavora tutto il giorno per guadagnarsi la v.</E
-M>E se ’l mondo sapesse il cor ch’elli ebbe Mendicando sua v. a frusto a frusto</E
-M> Assai lo loda</E
-M> e più lo loderebbe</E
-M>la v. si fa ogni giorno più cara</E
-M>passare ad altra v.</E
-M>a miglior v.</E
-M>la seconda v.</E
-M>la v. futura</E
-M>la v. eterna</E
-M>questa v.</E
-M>la v. terrena</E
-M>la nostra v.</E
-M>v. eterna</E
-M>il libro della v.</E
-M>E tu ne’ carmi avrai perenne vita Sponda che Arno saluta in suo cammino</E
-M>Vita</E
-M> morte e miracoli di s. Antonio</E
-M>Le vite parallele</E
-M>Le v. dei Padri</E
-M>Vitae Patrum</E
-M>La v. scritta da esso</E
-M>scrivere una v. di G. Leopardi</E
-M> di papa Giovanni XXIII</E
-M>mentre i monaci mangiano</E
-M> uno di loro legge le v. dei Santi</E
-M>una v. romanzata</E
-M>afferrare qualcuno per la v.</E
-M>portare una fascia intorno alla v.</E
-M>punto di v.</E
-M>punto vita</E
-M>avere il punto di v. alto</E
-M>basso</E
-M>vitino</E
-M>vita</E
-M>vitino</E
-M>di vespa</E
-M>le spalle vanno bene</E
-M> ma vorrei la v. più stretta</E
-M>la giacca è un po’ larga di v.</E
-M>alzare</E
-M>abbassare il punto v</E
-M>di v.</E
-M>v. alta</E
-M>v. bassa</E
-M>quest’anno va di moda la vita alta</E
-M>bassa</E
-M>su colla vita!</E
-M>stare sulla v.</E
-M>anche don Abbondio prese una faccia più naturale</E
-M> sprigionò alquanto la testa di tra le spalle</E
-M> si mise a stare un po’ più sulla vita</E
-M>avere la v. corta</E
-M>essere corto di v.</E
-M>andare</E
-M>uscire</E
-M>stare in v.</E
-M>in bella v.</E
-M>in bellavita</E
-M>essendo egli bianco e biondo e leggiadro molto</E
-M> e standogli ben la v.</E
-M>copribusto</E
-M>ha fatto una vitaccia</E
-M> quella poveretta!</E
-M>è una vitaccia da cani</E
-M> la mia</E
+acqua
+amore
+anno
+bello
+casa
+caso
+chiedere
+cominciare
+credere
+dare
+donna
+entrare
+essere
+fatto
+forza
+giovane
+grande
+lasciare
+lungo
+mettere
+mondo
+morire
+nuovo
+occhio
+paese
+parola
+parte
+passare
+pensare
+portare
+povero
+prendere
+primo
+qualche
+quale
+questo
+signore
+solo
+stare
+storia
+strada
+tempo
+tenere
+tornare
+ultimo
+uomo
+vedere
+vita
+vivere
+voce
+volta

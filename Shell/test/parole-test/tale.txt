@@ -1,203 +1,47 @@
-tale.txt
-"a tale scopo"
-"in quanto tale"
-"in tale maniera"
-"tale"
-"tale"
-"tale"
-"tale"
-"tale"
-"tale"
-"tale e quale"
-"tale e quale al genitore"
-"tale padre tale figlio, tale madre tale figlia"
-M>talis</E
-M>non si debbono pensare t. cose</E
-M>lo credi capace di una t. azione?</E
-M>tali purtroppo erano i costumi di allora</E
-M>non m&#8217;immischio con gente di tal fatta</E
-M>di tal genere</E
-M> se non tali appunto</E
-M> erano i pensieri di Lucia</E
-M>allora era un bel ragazzo</E
-M> adesso non è più t.</E
-M>chi è sazio e ben pasciuto</E
-M> non può capire coloro che non sono t.</E
-M>Uno spirto celeste</E
-M> un vivo sole Fu quel ch&#8217;i&#8217; vidi: e se non fosse or tale</E
-M> Piaga per allentar d&#8217;arco non sana</E
-M>io mi contento per lo più delle barbe</E
-M> dei capelli</E
-M> degli abiti</E
-M> delle masserizie</E
-M> dei palazzi e di cose tali</E
-M>che</E
-M>il suo comportamento è t.</E
-M> che non so proprio che cosa pensare</E
-M>non è t. da lasciarsi impietosire</E
-M>Vidi fra mille donne una già tale</E
-M> Ch&#8217;amorosa paura il cor m&#8217;assale</E
-M>provò un&#8217;invidia</E
-M> una mesta tenerezza</E
-M> un accoramento tale</E
-M> che durò fatica a tener le lacrime</E
-M>donna mi chiamò beata e bella</E
-M> Tal che di comandare io la richiesi</E
-M>talché</E
-M>non si deve tollerare una t. insolenza</E
-M>chi avrebbe pensato alla possibilità di t. lutti</E
-M> di una distruzione t.?</E
-M>siamo già a tal punto?</E
-M>mi è costato una t. fatica</E
-M> che ne risento ancora</E
-M>c&#8217;era t. una confusione che non riuscivamo a sentirci l&#8217;un l&#8217;altro</E
-M>è ridotto in uno stato t. da far pietà</E
-M>si è avvilito a tal segno da non voler più vedere nessuno</E
-M>Seguitando il mio canto con quel suono Di cui le Piche misere sentiro Lo colpo tal</E
-M> che disperar perdono</E
-M>hanno una t. miseria anche loro! ...</E
-M>ho preso uno spavento t.</E
-M>un t. spavento</E
-M>t. uno spavento ...!</E
-M>giungere a t.</E
-M> condursi</E
-M>esser condotto a t.</E
-M>or siam giunte a tale Che costei batte l&#8217;ale Per tornar a l&#8217;antico suo ricetto</E
-M>sono io</E
-M> per quello che infino a qui ho fatto</E
-M> a tal venuto che io non posso fare né poco né molto</E
-M>a t. dunque siam giunti</E
-M> a t. siamo condotti!</E
-M>quale</E
-M>mi sono sempre sforzato di essere t. quale tu desideravi</E
-M>qual io fui vivo</E
-M> tal son morto</E
-M>Per ch&#8217;io divenni tal</E
-M> quando lo &#8217;ntesi</E
-M> Qual è colui che ne la fossa è messo</E
-M>come</E
-M>Come</E
-M> quando su&#8217; campi arsi la pia Luna ... Tale il tuo verso a me</E
-M> divin poeta</E
-M>quale ... tale</E
-M>tale ... tale</E
-M>tale il padre</E
-M> tale il figlio</E
-M>tale padre</E
-M> tale figlio</E
-M>tale abate tali monaci</E
-M>tal guaina tal coltello</E
-M>a tal proposta</E
-M> tal risposta</E
-M>tale</E
-M>quale</E
-M>tale e quale</E
-M>tal quale</E
-M>tale quale</E
-M>il ritratto è tale quale l&#8217;originale</E
-M>gli ho risposto proprio così</E
-M> tale e quale</E
-M>tale quale</E
-M>c. i. f.</E
-M>quello</E
-M>pronunciate t. parole</E
-M> si sedette</E
-M>Per tai difetti</E
-M> non per altro rio</E
-M> Semo perduti</E
-M>tai</E
-M>Poscia che tai tre donne benedette Curan di te ne la corte del cielo</E
-M>quando t. ribellione seguì</E
-M> i Sanniti erano in lega con Roma</E
-M>a tal ora che</E
-M>sì la bambagia del farsetto tratta gli avea</E
-M> che egli a tal ora sentiva freddo che un altro sarebbe sudato</E
-M>andò adunque questo Pietro sventurato tutto il giorno per questa selva gridando e chiamando</E
-M> a tal ora tornando indietro che egli si credeva innanzi andare</E
-M>il vocabolario serve a farti sapere come si chiama il t. oggetto</E
-M> o che cosa significhi la t. parola</E
-M>che cosa importa a te se la tal signora è sposata o no?</E
-M>quello</E
-M>questo</E
-M>hai più rivisto quel t. Giovanni di cui mi avevi parlato?</E
-M>per condursi al presente stato di civiltà</E
-M> quanto tempo hanno dovuto penare questi t. popoli?</E
-M>ti presenti a lui e gli dici &#171;io sono il t.&#187;</E
-M>Tizio</E
-M> Caio</E
-M>si volse alla compagna e disse:</E
-M>O madonna tale</E
-M> guardate quanto è bello questo grano</E
-M>il tal dei tali</E
-M> la tal dei tali</E
-M>il tal di tale</E
-M>Lorenzo dei Medici</E
-M> Cola di Rienzo</E
-M>diceva d&#8217;averlo saputo dal tal dei tali</E
-M>un certo</E
-M>avevo conosciuto un t. Enrico</E
-M>si frequentava con una t. commessa</E
-M>era in rapporti d&#8217;affari con un t. di Milano</E
-M>c&#8217;è una t. di là che vorrebbe parlarti</E
-M>un certo t.</E
-M> una certa t.</E
-M>vide Lodovico spuntar da lontano un signor t.</E
-M> arrogante e soverchiatore di professione</E
-M>quello</E
-M>ha telefonato di nuovo quel t. per sapere se ...</E
-M>è il cugino di quella tal Maria di cui t&#8217;avevo parlato.</E
-M>un tal quale</E
-M> una tal quale</E
-M>la sua famiglia gode di un tal quale benessere</E
-M>mi ha risposto con una tal quale arroganza</E
-M>ti dirò francamente che avevo una tal quale paura.</E
-M>uno</E
-M> taluno</E
-M>una</E
-M> taluna</E
-M>taluni</E
-M> alcuni</E
-M>E tale ha già l&#8217;un piè dentro la fossa</E
-M> Che tosto piangerà quel monastero</E
-M>Vergine</E
-M> tale è terra</E
-M> e posto ha in doglia Lo mio cor</E
-M>ancora</E
-M> credo</E
-M> sarà tal che dirà che ce ne son di troppo lunghe</E
-M>E disïar vedeste sanza frutto Tai che sarebbe loro disio quetato</E
-M>tal ... che</E
-M>tal piglia leoni in assenza</E
-M> che teme un topo in presenza</E
-M>tal ti ride in bocca</E
-M> che dietro te l&#8217;accocca</E
-M>tal ti guarda la coppa</E
-M> che non ti vede la borsa</E
-M>tal che gli duole il capo</E
-M> si medica il calcagno.</E
-M>se io gli fossi presso ...</E
-M> io gli darei tale di questo ciotto nelle calcagna</E
-M> che egli si ricorderebbe forse un mese di questa beffa</E
-M>Giusto giudicio da le stelle caggia Sovra &#8217;l tuo sangue</E
-M> e sia novo e aperto</E
-M> Tal che &#8217;l tuo successor temenza n&#8217;aggia!</E
-M>talché</E
-M>quale</E
-M>come</E
-M>Qual Progne si lamenta o Filomena ... Tal Bradamante si dolea</E
-M>Come sul capo al naufrago L&#8217;onda s&#8217;avvolve e pesa ... Tal su quell&#8217;alma il cumulo Delle memorie scese!</E
-M>tal sia di voi</E
-M>di lui</E
-M>tal</E
-M>in tal modo</E
-M> con tal forza</E
-M>in un tal impiccio</E
-M>in un tale impiccio</E
-M>tal altro</E
-M>talaltro</E
-M>tali</E
-M>tai.</E
-M>talora</E
-M> taluno</E
-M> talvolta</E
-M>tale</E
+alto
+caso
+cosa
+dare
+donna
+essere
+figlio
+forza
+gente
+giorno
+giovane
+grande
+guerra
+lavoro
+mano
+mettere
+molto
+momento
+morire
+nome
+notte
+occhio
+padre
+paese
+parola
+parte
+passare
+piccolo
+primo
+proprio
+quale
+quanto
+quello
+questo
+ragione
+stare
+stato
+storia
+tale
+tanto
+tornare
+trovare
+tutto
+uscire
+venire
+vero
+vita

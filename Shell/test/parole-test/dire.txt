@@ -1,377 +1,60 @@
-dire.txt
-"a dire la verità"
-"avere molto da dire su"
-"avere poco da dire"
-"c'è poco da dire"
-"che posso dire?"
-"come per dire"
-"come si suol dire"
-"come te lo devo dire?"
-"confessare tutto, dire la verità"
-"così come dire"
-"dire"
-"dire"
-"dire"
-"dire"
-"dire"
-"dire \"
-"dire a mezze parole"
-"dire a qualcuno un segreto"
-"dire a se stessi"
-"dire addio"
-"dire addio"
-"dire addio"
-"dire addio a"
-"dire bugie"
-"dire come, dire in quale modo"
-"dire di andar via"
-"dire di no"
-"dire di nuovo"
-"dire di sì"
-"dire in tutte le salse"
-"dire inaspettatamente"
-"dire la propria"
-"dire la tua"
-"dire la verità"
-"dire la verità"
-"dire la verità, confessare"
-"dire le cose come stanno"
-"dire no a"
-"dire pane al pane"
-"dire pane al pane (e vino al vino)"
-"dire pane al pane e vino al vino"
-"dire parolacce"
-"dire parolacce a"
-"dire scemenze"
-"dire sciocchezze"
-"dire sciocchezze"
-"dire sciocchezze"
-"dire sì a"
-"dire sì a"
-"dire stupidaggini"
-"dire stupidaggini; sciocchezze"
-"dire tanto per dire"
-"dire tutto"
-"dire una bugia"
-"faccio per dire"
-"hai visto cosa mi tocca sentirmi dire"
-"il che è tutto dire!"
-"in che lingua te lo devo dire?"
-"lasciare dire"
-"ma non mi dire!"
-"mai dire mai"
-"mandare a dire"
-"mandare a dire"
-"modo di dire"
-"modo di dire"
-"modo di dire"
-"molto da dire"
-"molto da dire a proposito"
-"niente da dire riguardo a"
-"non c'è che dire"
-"non dire"
-"non dire il vero"
-"non dire niente"
-"non dire niente di"
-"non dire una parola"
-"non mandarle a dire"
-"non mi dire"
-"non posso dire altrettanto"
-"non posso dire lo stesso di me"
-"osare dire"
-"parlare male, dire parolacce, insultare"
-"parlare senza dire"
-"per così dire"
-"per così dire, per modo di dire"
-"per meglio dire"
-"per modo di dire"
-"per non dire"
-"per sentito dire"
-"qualcosa vorrà pur dire"
-"quello che voglio dire"
-"senza bisogno di dire"
-"senza dire né ai né bai"
-"si fa per dire"
-"tra il dire e il fare c'è di mezzo il mare"
-"vale a dire"
-"vale a dire"
-"voler ben dire"
-"voler dire"
-"voler dire"
-"voler dire"
-#*''Non '''ha''' forse '''detto''' che è tuo padre?''
-*[[pronunciare]], [[proferire]], [[enunciare]]
-*[[dichiarare]], [[ribadire]], [[affermare]], [[esclamare]]
-*(un’opinione, un’idea, eccetera) [[sostenere]], [[ripetere]], [[annunciare]], [[proclamare]], [[manifestare]], [[palesare]], rendere manifesto
-*(una notizia, un’informazione) [[comunicare]], [[informare]], [[precisare]], [[definire]], [[spiegare]], [[asserire]]; [[divulgare]]
-*[[recitare]], [[esporre]]
-*[[significare]], [[indicare]], [[simboleggiare]]
-*[[considerare]], [[chiamare]], [[presentare]]
-* (la verità, un fatto) [[raccontare]], [[narrare]], [[esprimere]]
-*(una dichiarazione, un’affermazione) [[confermare]], [[assentire]]
-*[[riferire]], [[riportare]], [[rivelare]], [[confidare]]
-*(in giudizi, in stime di valore) [[considerare]], [[ritenere]], [[giudicare]]
-*[[parlare]], [[conversare]], [[discorrere]], [[interloquire]], prender la parola, [[interrompere]], saltar su, [[rispondere]], [[ribattere]], [[replicare]]
-*[[chiedere]], [[domandare]]
-*[[ordinare]], [[comandare]], [[imporre]], [[ingiungere]]
-*[[suggerire]], [[consigliare]], [[proporre]], [[avvisare]], [[avvertire]], [[esortare]], [[ammonire]]
-*[[ascoltare]], [[udire]]
-*[[nascondere]], tenere segreto, [[occultare]]
-*(la verità, un fatto) [[tacere]]
-*(una dichiarazione, un’affermazione)[[rifiutare]], [[ricusare]], [[negare]]
-*[[ridire]], [[ribadire]], [[dirsi]], [[contraddire]] 
-*[[e dire che]], [[voler dire]], [[tutto dire]], [[non c'è che dire]]
-#*''Qu'est-ce qu'il t''''a dit''' ?''
-*italiano
-*inglese
-*francese
-M>dico</E
-M>dici</E
-M>di’</E
-M>dice</E
-M>diciamo</E
-M>dite</E
-M>dìcono</E
-M>dicévo</E
-M>dissi</E
-M>dicésti</E
-M>dirò</E
-M>dirèi</E
-M>dica</E
-M>diciamo</E
-M>dìcano</E
-M>dicéssi</E
-M>di’</E
-M>dite</E
-M>dicènte</E
-M>détto</E
-M>dicèndo</E
-M>mi disse queste precise parole</E
-M>ascolta</E
-M>mi disse</E
-M>non ha detto una parola</E
-M>una corbelleria</E
-M>una parolaccia</E
-M>una frase incomprensbile</E
-M>non seppe più che dire</E
-M>diciamoci addio</E
-M>addio a una cosa</E
-M>glielo disse fra i denti</E
-M>a mezza bocca</E
-M>dico che non ci credo</E
-M>diceva che non era vero</E
-M>gliene disse un sacco e una sporta</E
-M>quante gliene ho dette!</E
-M>una poesia</E
-M>la lezione</E
-M>una preghiera</E
-M>le devozioni</E
-M>la messa</E
-M>dir messa</E
-M>il proprio pensiero</E
-M>la propria opinione</E
-M>io dico ciò che penso</E
-M>di’ pure quello che senti</E
-M>ciascuno voleva d</E
-M>la sua</E
-M>ti dirò tutto a voce</E
-M>me l’ha detto nell’ultima lettera</E
-M>le cose con naturalezza</E
-M>con semplicità</E
-M>con franchezza</E
-M>io le cose le dico in faccia</E
-M>te lo voglio d</E
-M>in un orecchio</E
-M>le vuole bene e non ha il coraggio di dirglielo</E
-M>per meglio d</E
-M>guarda cosa dice il libro</E
-M>il giornale</E
-M>la lettera</E
-M>non ricordo più come dice la canzone</E
-M>soggiungere</E
-M>continuare</E
-M>rispondere</E
-M>mi disse che potevo entrare</E
-M>E poi</E
-M>disse</E
-M>questa non è cosa che ti riguarda</E
-M>sfinito</E
-M>dice più che</E
-M>stanco</E
-M>anche il suo silenzio dice qualche cosa</E
-M>non dire nulla</E
-M>ha una faccia che non dice nulla</E
-M>questi versi non mi dicono nulla</E
-M>è un quadro che non dice niente</E
-M>al sacerdote e al medico bisogna dire tutto</E
-M>egli si dice incapace di frenare i proprî impulsi</E
-M>d. la verità</E
-M>una bugia</E
-M>dimmi quello che hai visto</E
-M>ditemi come stanno le cose</E
-M>te lo saprò d</E
-M>entro domani</E
-M>cosa mi dici mai!</E
-M>non me lo dire!</E
-M>ma che mi vieni a d</E
-M>ne dici delle belle!</E
-M>in poche parole</E
-M>non dico che sia tuo dovere aiutarlo</E
-M>ma sarebbe un atto di umanità</E
-M>dice sempre il contrario di ciò che dico io</E
-M>non si può d</E
-M>che sia bello</E
-M>questo ti dice quanto egli sia sciocco e vanesio</E
-M>tutto mi dice che ci sarà da lottare</E
-M>queste nuvole non dicono nulla di buono</E
-M>certo il cuore</E
-M>chi gli dà retta</E
-M>ha sempre qualche cosa da d</E
-M>su quello che sarà</E
-M>farò come tu dici</E
-M>scrivi ciò che l’animo ti dice</E
-M>digli di venire qui subito</E
-M>mi disse di rallentare</E
-M>ti dico per l’ultima volta di lasciarmi in pace</E
-M>non si direbbe che sia così furbo</E
-M>che intendi d.?</E
-M>che vuol d</E
-M>che non ci scrive più?</E
-M>che volevi d</E
-M>con quel gesto?</E
-M>certe figure lunghe</E
-M>serpeggianti</E
-M>che finivano in punta</E
-M>e che</E
-M>nell’intenzione dell’artista</E
-M>e agli occhi degli abitanti del vicinato</E
-M>volevan dir fiamme</E
-M>in latino</E
-M>casa</E
-M>si diceva</E
-M>domus</E
-M>come si dice</E
-M>tavolo</E
-M>in francese</E
-M>dire pane al pane</E
-M>tutti lo dicono un imbroglione</E
-M>si dice un grande artista</E
-M>parlare</E
-M>Dirò come colui che piange e dice</E
-M>badava a d</E
-M>seguitava a d</E
-M>lascialo d</E
-M>dire bene</E
-M>dire male di qualcuno</E
-M>davvero</E
-M>si fa presto a d</E
-M>si fa tanto per d</E
-M>si fa così per d</E
-M>non faccio</E
-M>non fo</E
-M>per d</E
-M>non faccio per d</E
-M>ma sarei capace di far meglio io</E
-M>via</E
-M>non fo per dire</E
-M>Ma oggi sono una celebrità</E
-M>dico a te</E
-M>sai!</E
-M>di’ pure</E
-M>dica pure</E
-M>fare</E
-M>altro è d</E
-M>altro è fare</E
-M>tanto disse e tanto fece</E
-M>che riuscì a persuaderlo</E
-M>dal d</E
-M>al fare</E
-M>fra il d. e il fare</E
-M>c’è di mezzo il mare</E
-M>in chiesa</E
-M>domenica vi dico in chiesa</E
-M>dire di sì</E
-M>dire di no</E
-M>si dice</E
-M>i soliti si dice</E
-M>dice</E
-M>dice che aumenterà il prezzo del pane</E
-M>corna di qualcuno</E
-M>vuol d</E
-M>che</E
-M>vuol d</E
-M>che un’altra volta agirò diversamente</E
-M>volevo ben d</E
-M>volevo ben d</E
-M>che avrebbe ceduto</E
-M>volevo ben d</E
-M>che avrebbe saputo mantenere il segreto!</E
-M>e d</E
-M>che</E
-M>e d</E
-M>che l’ho allevato io!</E
-M>vuol dire assai</E
-M>non vuol dire nulla</E
-M>che sia bianco o rosso non vuol dire</E
-M>purché sia buono</E
-M>c’era una confusione da non dirsi</E
-M>che ne diresti di</E
-M>che ne diresti</E
-M>che ne direste</E
-M>di andare a vederci un bel film?</E
-M>aver da d</E
-M>trovarci a d</E
-M>che ha da d</E
-M>di noi due?</E
-M>aver</E
-M> che d</E
-M>con qualcuno</E
-M>a dirla a te</E
-M>a dirla in confidenza</E
-M>a dirla schietta</E
-M>l’hai detta grossa</E
-M>dirsela con qualcuno</E
-M>se la dice col vino</E
-M>l’aceto non se la dice con la ricotta</E
-M>il colore arancione non dice bene col rosso</E
-M>direi quasi</E
-M>per così d</E
-M>per dir così</E
-M>sto per d</E
-M>dirò così</E
-M>non dico di no</E
-M>è un compenso irrisorio</E
-M>non dico di no</E
-M>tuttavia è qualche cosa</E
-M>che dico?</E
-M>ci vorrà un anno</E
-M>che dico?</E
-M>ci vorranno due o tre anni per lo meno</E
-M>non c’è che dire</E
-M>è stata una festa organizzata benissimo</E
-M>non c’è che dire</E
-M>a dir poco</E
-M>per terminare il lavoro</E
-M>ci vorranno ancora sei mesi</E
-M>a dir poco</E
-M>e dico poco</E
-M>ci ha rimesso un milione</E
-M>e dico poco</E
-M>è un farabutto e dico poco</E
-M>è tutto d</E
-M>è più pigro di suo fratello</E
-M>che è tutto dire</E
-M>stando al suo d</E
-M>secondo il d</E
-M>della gente</E
-M>degli antichi</E
-M>avere un bel d</E
-M>hai un bel d</E
-M>che deve lavorare</E
-M>lui continua a fare il comodo suo</E
-M>è un gran d</E
-M>è un gran d</E
-M>che tanto i santi come i birboni gli abbiano a aver l’argento vivo addosso</E
-M>l’arte del d</E
-M>il d</E
-M>in rima</E
+andare
+aprire
+avere
+bello
+cominciare
+conoscere
+cosa
+dire
+entrare
+essere
+forza
+grande
+guardare
+guerra
+lasciare
+lavoro
+mano
+meglio
+mettere
+mio
+modo
+molto
+nome
+notte
+nuovo
+ogni
+parlare
+parola
+parte
+passare
+poco
+portare
+prendere
+primo
+proprio
+punto
+quale
+quello
+ragione
+rimanere
+rispondere
+sentire
+solo
+stare
+stesso
+strada
+suo
+tanto
+tempo
+tenere
+tornare
+trovare
+tuo
+tutto
+uomo
+vedere
+venire
+vero
+volere
+volta

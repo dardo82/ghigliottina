@@ -1,112 +1,42 @@
-testa.txt
-"(avere) un chiodo fisso in testa"
-"a doppia testa"
-"a doppia testa"
-"a testa"
-"a testa"
-"a testa alta"
-"a testa bassa"
-"abbassare la testa"
-"al comando, in testa"
-"alla testa"
-"alla testa di, al comando di, a capo di"
-"andare di testa"
-"aver battuto la testa da piccolo"
-"avere grilli per la testa"
-"avere la testa a posto"
-"avere la testa fra le nuvole"
-"avere la testa sulle spalle"
-"avere la testa sulle spalle"
-"avere una gran confusione in testa"
-"ben altro per la testa"
-"cerchio alla testa"
-"che ha giramenti di testa"
-"che testa le batterie"
-"chinare il capo, andare a testa bassa"
-"ci puoi scommettere la testa"
-"colpire alla testa"
-"colpire con la testa del martello"
-"colpo di testa"
-"comando a una formazione in marcia di allinearsi e seguire una guida in testa alla formazione stessa"
-"con la testa che gira"
-"con la testa girata"
-"con la testa sulle spalle"
-"con la testa tra le nuvole"
-"da far girare la testa"
-"da testa calda"
-"dalla testa bianca"
-"dalla testa blu"
-"dalla testa blu"
-"dalla testa gialla"
-"dalla testa nera"
-"dalla testa nera"
-"dalla testa rossa"
-"dalla testa scura"
-"Dare alla testa"
-"di protezione per la testa"
-"di testa di un muscolo"
-"di tutta la testa e delle spalle"
-"essere in testa"
-"far andare fuori di testa qualcuno"
-"far girare la testa"
-"fare testa o croce"
-"fare testa o croce"
-"fare testa o croce (con una moneta)"
-"ficcare in testa a qualcuno"
-"ficcare qualcosa in testa a qualcuno"
-"finire in testa, finire al comando, vincere"
-"finta di testa"
-"frantumare la testa"
-"fuori di testa"
-"fuori di testa"
-"fuori di testa"
-"fuori testa"
-"giramento di testa"
-"girare la testa"
-"girare la testa, allontanare"
-"impazzire, andare fuori di testa"
-"in testa"
-"in testa"
-"in tutto e per tutto; dalla testa ai piedi"
-"incavolarsi; imbufalirsi; uscire di testa"
-"intellettuale, testa d'uovo"
-"lasciare che qualcosa ti dia alla testa"
-"levarsi qcs dalla testa"
-"mal di testa"
-"dolore alla testa"
-"mal di testa"
-"mal di testa"
-"mal di testa lancinante"
-"mandare con la testa (palla in rete; ad es.)"
-"mandare fuori di testa qualcuno"
-"matto per; aver perso la testa per"
-"mettere la testa a posto"
-"mettere la testa sotto la sabbia"
-"mettere la testa sotto la sabbia, nascondere la testa sotto la sabbia"
-"metterselo bene in testa"
-"mettersi in testa (un'idea)"
-"mettersi in testa di"
-"montare il sangue alla testa"
-"montarsi la testa"
-"movimento della testa"
-"nella testa, in testa"
-"con la testa vuota\"
-"non esserci con la testa"
-"non fare di testa tua"
-"non farsi mettere i piedi in testa"
-"non farsi venire strane idee in testa."
-"non perdere la testa"
-"non riuscire a togliersi dalla testa"
-"non riuscire a togliersi dalla testa"
-"non sapere dove andare a sbattere la testa"
-"pagare qualcosa un occhio della testa"
-"pagare un occhio della testa"
-*[[riflessione]], [[senno]], [[giudizio]], [[criterio]], [[accortezza]], [[avvedutezza]], [[discernimento]]
-* ''(di motore a combustione interna)'' [[testata]]
-*''(di ruota)''[[mozzo]] 
-*''lavata di testa''
-*''per [[amore]] [[anche]] una [[donna]] onesta, può [[perdere]] la 
-*[[cabeza]], [[crisma]], [[marote]] ([[Argentina]]/[[Uruguay]]), [[sabiola]] ([[Uruguay]]), [[maceta]] ([[Guatemala]]/[[Nicaragua]])
-*italiano
-*latino
-*spagnolo
+alcuno
+altro
+aprire
+aria
+avere
+caso
+certo
+chiedere
+cosa
+dare
+entrare
+giovane
+grande
+lasciare
+lavoro
+meglio
+mettere
+momento
+occhio
+parola
+parte
+passare
+piccolo
+poco
+portare
+prendere
+proprio
+rispondere
+sapere
+sentire
+solo
+strada
+tanto
+tenere
+testa
+tornare
+troppo
+tutto
+uscire
+venire
+vita
+voce

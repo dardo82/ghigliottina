@@ -1,94 +1,25 @@
-sera.txt
-"abito da sera"
-"abito da sera"
-"abito da sera"
-"abito da sera"
-"barba della sera"
-"ricrescita serale della barba rasata la mattina"
-"borsa da sera"
-"buona sera"
-"completo da sera"
-"da sera"
-"di sera"
-"ieri notte, ieri sera"
-"la sera leoni, la mattina coglioni"
-"Metti una sera a cena"
-"Metti una sera a cena"
-"pasto servito di sera"
-"questa sera"
-"sera"
-"sera"
-"smoking; abito da sera"
-"vestito da sera"
-"vestito da sera"
-"vestito da sera"
-#*''oggi ho lavorato dalla mattina alla '''sera'''''
-*[[serale]]
-*''rosso di '''sera''' bel tempo si spera''
-*''la neve marzolina dura dalla '''sera''' alla mattina''
-#* ''il 
-* italiano
-* francese
-M>sera dies</E
-M>serus</E
-M>scende</E
-M>viene la s.</E
-M>si fa s.</E
-M>siamo partiti che era quasi s.</E
-M>fare s.</E
-M>a forza di discutere abbiamo fatto s. senza concluder nulla</E
-M>buona s.</E
-M>le quattro di s.</E
-M>da s.</E
-M>del pomeriggio</E
-M>giornali della s.</E
-M>Corriere della sera</E
-M>Paese sera</E
-M>mattina</E
-M>ci ho lavorato venti giorni</E
-M>mattina e s.</E
-M>verrete di mattina o di sera?</E
-M>verso s.</E
-M>sul far della s.</E
-M>a s.</E
-M>di s.</E
-M>da s.</E
-M>la s.</E
-M>rosso di s.</E
-M>bel tempo si spera</E
-M>ciascuna Ci riguardava come suol da sera Guardare uno altro sotto nuova luna</E
-M>Nel giorno</E
-M> che lampi</E
-M> che scoppi! Che pace</E
-M> la s.!</E
-M>da mattina a s.</E
-M>dalla mattina alla s.</E
-M>dalla mattina alla s. e dalla s. alla mattina</E
-M>mi assilla dalla mattina alla s.</E
-M>non fa che ripetere dalla mattina alla s. le stesse cose. Questa s.</E
-M>domani s.</E
-M>ieri s.</E
-M>giovedì s.</E
-M>una s.</E
-M>una di queste s.</E
-M>di s.</E
-M>al buio</E
-M>tutti i gatti sono bigi</E
-M>La s. desïare</E
-M>odiar l&#8217;aurora Soglion questi tranquilli e lieti amanti</E
-M>Non cessa cavalcar sera e dimane</E
-M>pomeriggio</E
-M>che fate questa s.? Venite a prendere il caffé da noi?</E
-M>meglio vederci di s.</E
-M>così c&#8217;è anche mio fratello</E
-M>la s.</E
-M>non esco quasi mai</E
-M>abito da s.</E
-M>I&#8217; so&#8217; colei che ti die&#8217; tanta guerra</E
-M>E compie&#8217; mia giornata inanzi sera</E
-M> solingo augellin</E
-M> venuto a sera Del viver che daranno a te le stelle</E
-M>...</E
-M>nella s. dell&#8217;umane cose</E
-M>Ultima s.</E
-M>Questi non vide mai l&#8217;ultima s.</E
+aria
+buono
+casa
+entrare
+giorno
+giovane
+lasciare
+meglio
+mettere
+notte
+padre
+parola
+parte
+passare
+questo
+rispondere
+sentire
+sera
+stare
+suo
+vedere
+venire
+vero
+vivere
+volta

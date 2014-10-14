@@ -1,142 +1,25 @@
-figlio.txt
-"aspettare un figlio"
-"candidato supportato dal suo stato; figlio prediletto"
-"fare un figlio"
-"figlio"
-"figlio"
-"figlio adottivo"
-"figlio adottivo"
-"figlio dei fiori"
-"figlio di Dio"
-"figlio di guerra"
-"figlio di papà (familiare)"
-"figlio di puttana"
-"figlio di puttana"
-"figlio di puttana"
-"figlio di un militare"
-"figlio di una ballerina"
-"figlio illegittimo"
-"figlio illegittimo"
-"figlio illegittimo"
-"figlio illegittimo"
-"figlio naturale"
-"figlio unico"
-"Figlio unigenito del Padre"
-"il Figlio"
-"il Figlio di Cristo"
-"il figlio di Maria"
-"il Figlio Unigenito"
-"nato dalla disperazione, figlio della disperazione"
-"padre, figlio e spirito santo"
-"papà e figlio"
-"tale padre tale figlio, tale madre tale figlia"
-* [[rampollo]], [[bambino]], [[ragazzo]], [[giovane]], [[figliolo]] 
-* (di animali) [[cucciolo]]
-* (al pl.) [[prole]], [[figliolanza]], [[discendenza]],
-* [[genitore]], [[padre]], [[madre]]
-*[[figliolo]]
-* [[famiglia]]
-* Enciclopedia [http
-* Devoto/Oli,'' Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p.813
-M>lius</E
-M>fecundus</E
-M>fem</E
-M>mio</E
-M>tuo</E
-M>suo f</E
-M>padre</E
-M>madre e figli</E
-M>maggiore</E
-M>minore</E
-M>unico di madre vedova</E
-M>Molte fïate già pianser li figli Per la colpa del padre</E
-M>i f</E
-M>dei f</E
-M>i figli d’Adamo</E
-M>i f</E
-M>d’Eva</E
-M>il Signor</E
-M>a tutti i f</E
-M>d’Eva</E
-M>Nel suo dolor pensò</E
-M>siamo tutti figli d’Adamo</E
-M>si sposa il f</E
-M>del nostro capomastro</E
-M>il f</E
-M>di Laerte</E
-M>il f</E
-M>di Latona e di Giove</E
-M>i f</E
-M>sono una gran consolazione</E
-M>hanno sette f</E
-M>da sfamare</E
-M>naturale</E
-M>legittimo</E
-M>illegittimo</E
-M>riconosciuto</E
-M>legittimato</E
-M>adottivo</E
-M>postumo</E
-M>un f</E
-M>e una figlia</E
-M>augurî e f</E
-M>maschi!</E
-M>salute e f</E
-M>maschi!</E
-M>primogenito</E
-M>secondogenito</E
-M>il primo</E
-M>il secondo f</E
-M>il Padre</E
-M>il Figlio</E
-M>lo Spirito Santo</E
-M>il F</E
-M>di Dio</E
-M>il F</E
-M>dell’uomo</E
-M>di famiglia</E
-M>di papà</E
-M>di mamma</E
-M>dell’amore</E
-M>di nessuno</E
-M>allevare</E
-M>tenere come un f</E
-M>d’un cane!</E
-M>di puttana!</E
-M>f. di troia</E
-M>f. di mignotta</E
-M>di buona donna</E
-M>gran f</E
-M>di puttana</E
-M>prole</E
-M>piccoli</E
-M>nati</E
-M>figliolo</E
-M>Lo buon maestro disse</E
-M>«Figlio</E
-M>or vedi L’anime di color cui vinse l’ira»</E
-M>dilettissimi</E
-M>Dove sono i tuoi f</E
-M>Tu non altro che il canto avrai del figlio</E
-M>o materna mia terra</E
-M>è un f</E
-M>del popolo</E
-M>fu vero f</E
-M>del suo tempo</E
-M>del suo secolo</E
-M>d’arte</E
-M>figli di Dio</E
-M>figli del peccato</E
-M>del secolo</E
-M>del mondo</E
-M>figli del dolore</E
-M>dell’esilio</E
-M>figli della fortuna</E
-M>figli della Terra</E
-M>figlio del Cielo</E
-M>ognuno è f</E
-M>delle proprie azioni</E
-M>Figli della Carità</E
-M>Figli della Sacra Famiglia</E
-M>Figli della lupa</E
-M>padre</E
+amore
+bello
+chiamare
+donna
+figlio
+guerra
+loro
+mano
+mettere
+mio
+morire
+nome
+padre
+passare
+prendere
+quello
+questo
+rimanere
+rispondere
+solo
+stato
+suo
+tale
+tenere
+ultimo

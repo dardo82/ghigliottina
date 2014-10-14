@@ -1,117 +1,73 @@
-fatto.txt
-"a fatto compiuto"
-"a parte il fatto che"
-"a riprova del fatto che, replace: a riprova"
-"a vie di fatto"
-"ad eccezione del fatto che"
-"affare fatto"
-"alla luce del fatto che"
-"appena fatto"
-"appena fatto"
-"aver fatto"
-"aver fatto il giro completo"
-"aver fatto il sessantotto"
-"aver fatto meglio a fare qcs."
-"aver fatto meglio a fare qcs."
-"avvenimento, fatto"
-"ben fatto"
-"ben fatto"
-"ben fatto"
-"ben fatto, bel lavoro"
-"ben fatto, ben costruito"
-"ben fatto, con un bel corpo"
-"ben fatto!"
-"ben fatto!"
-"buono, ben fatto"
-"che faccia (hai fatto)!"
-"che ha fatto da baby sitter"
-"che ho fatto di male?"
-"cio che è fatto"
-"come mamma l'ha fatto"
-"complice il fatto che"
-"confezionato, fatto su misura"
-"consideralo fatto!"
-"coppia di fatto"
-"Dato di fatto"
-"davanti al fatto"
-"di fatto"
-"di fatto; de facto"
-"dopo il fatto"
-"dopo il fatto"
-"è fatto divieto"
-"è un dato di fatto"
-"essere d'accordo sul fatto che, concordare che"
-"essere fatto"
-"famiglia di fatto"
-"fatto"
-"fatto"
-"fatto"
-"fatto"
-"fatto"
-"fatto"
-"fatto"
-"fatto (di droga o alcool)"
-"fatto a fin di bene"
-"fatto a mano"
-"fatto a mano (pullover etc.)"
-"fatto a mano (pullover etc.)"
-"fatto a mano, artigianale"
-"fatto a mano, artigianale"
-"fatto a metà, incompleto"
-"fatto a pezzi"
-"fatto all'estero"
-"fatto cadere, gettato"
-"fatto cadere, gettato"
-"fatto certo"
-"fatto certo"
-"fatto circolare, distribuito"
-"fatto compiuto"
-"fatto compiuto"
-"fatto con i piedi"
-"fatto con l'ascia"
-"rozzo, malfatto"
-"fatto da"
-"fatto da sé"
-"fatto di"
-"fatto di carne"
-"fatto di ferro"
-"fatto di fretta"
-"fatto di vita"
-"fatto empirico"
-"fatto in campagna"
-"fatto incontrovertibile"
-"fatto indiscutibile"
-"fatto ineludibile, fatto inesorabile, fatto inevitabile"
-"fatto innegabile"
-"fatto noto, famoso"
-"fatto per"
-"fatto per metà"
-"fatto salvo il diritto"
-"fatto significativo"
-"fatto specifico, fatto pertinente"
-"fatto su misura"
-"fatto su misura"
-"fatto su misura"
-"made according to specifications Also: fatto apposta per somebody"
-"fatto su misura"
-"made according to specifications Also: fatto apposta per somebody"
-"fatto, costruito in casa"
-"formulato dopo un fatto"
-"già fatto"
-"giocando sul fatto"
-"ho fatto un casino!"
-"il fatto che"
-"il fatto è che"
-#*''è un fatto che  oggi viviamo tutti più a lungo''
-*''(sostantivo) dal [[latino]] ''[[factum]]''
-*''(forma verbale)'' dal verbo latino [[facio]] più specificamente dal participio perfetto [[factus]]
-*[[costruito]], [[eseguito]], [[fabbricato]], [[formato]], [[composto]], [[creato]], [[prodotto]]
-*''(di cibo)'' [[cucinato]], [[preparato]], [[adatto]]
-*''(di persona)'' [[incline]], [[portato]]
-*[[compiuto]], [[avvenuto]], [[finito]], [[terminato]], [[completato]], [[ultimato]]
-*[[maturo]]
-*[[avvenimento]], [[circostanza]], [[vicenda]], [[evento]], [[caso]], [[accaduto]], [[episodio]], [[fenomeno]], [[azione]], [[atto]], [[impresa]]
-*[[realtà]], [[sostanza]]
-*[[fare]], [[farsi]]
-*''detto fatto''
-*'' così fatto''
+altro
+amore
+anno
+avere
+bello
+buono
+capire
+casa
+caso
+certo
+chiamare
+chiedere
+conoscere
+cosa
+credere
+dire
+donna
+entrare
+fatto
+giorno
+giovane
+grande
+guerra
+lavoro
+lungo
+mano
+meglio
+mettere
+mio
+molto
+morire
+nessuno
+nome
+notte
+nuovo
+occhio
+padre
+parola
+parte
+passare
+pensare
+poco
+portare
+povero
+primo
+proprio
+quello
+questo
+ragione
+ricordare
+rimanere
+sapere
+sembrare
+sentire
+sera
+solo
+stare
+stesso
+strada
+suo
+tale
+tanto
+tempo
+tenere
+tornare
+trovare
+tutto
+uomo
+vedere
+venire
+vero
+vita
+vivere

@@ -1,199 +1,39 @@
-quello.txt
-"a causa di quello"
-"a quello"
-"arrangiarsi con quello che c'è"
-"avere quello che ci vuole"
-"dal becco simile a quello dell'ornitorinco"
-"è quello che ci vuole"
-"è quello che fa per te"
-"è quello che serve"
-"e tutto quel che, e tutto quello che"
-"e tutto quello che comporta"
-"fai quello che devi fare"
-"fai quello che puoi"
-"fai quello che vuoi"
-"fai tutto quello che puoi"
-"fai tutto quello che puoi"
-"fare con quello che si ha"
-"fare quello che bisogna fare"
-"fare quello che c'è da fare"
-"fare quello che piace"
-"per quello"
-"per quello che"
-"per quello che ne sai"
-"più di quello che sembra"
-"proprio quello che ci vuole"
-"proprio quello che ha ordinato il medico"
-"quello"
-"quello"
-"quello"
-"quello"
-"quello"
-"quello che"
-"quello che"
-"quello che passa il convento"
-"quello che si dice"
-"quello che si guadagna facilmente si perde facilmente"
-"quello che si intende"
-"quello che ti è caro"
-"quello che voglio dire"
-"quello ci vede lungo"
-"quello veloce"
-"quello via"
-"questo e quello"
-"smettere di fare quello in cui si è attualmente impegnati; finirla"
-"spero di poterti ripagare per tutto quello che stai facendo per me"
-"tutto quello che è"
-*[[colui]]
-*italiano
-M>eccu</E
-M>lle</E
-M>eccu</E
-M>llum</E
-M>questo</E
-M>codesto</E
-M>quello</E
-M>quel</E
-M>quegli</E
-M>quelli</E
-M>quei</E
-M>que</E
-M>quel</E
-M>quello</E
-M>quei</E
-M>que’</E
-M>quegli</E
-M>gli</E
-M>quel treno</E
-M>quello spaccone</E
-M>quello zingaro</E
-M>quell’uomo</E
-M>quei bicchieri</E
-M>quegli uscieri</E
-M>quello</E
-M>quelli</E
-M>quegli</E
-M>quello corpo</E
-M>quelli denari</E
-M>quegli frati</E
-M>quella</E
-M>quelle</E
-M>quella famiglia</E
-M>quell’opera</E
-M>quelle strade</E
-M>quelle entrate</E
-M>quell’entrate</E
-M>quello</E
-M>quegli</E
-M>quei</E
-M>quello</E
-M>che</E
-M>faccio quel che mi pare</E
-M>dammi quel martello</E
-M>mi piacerebbe provare una di quelle automobili</E
-M>in quell’istante entrò suo padre</E
-M>a quel tempo non c’era ancora la luce elettrica</E
-M>quel palazzo lì</E
-M>quel campo là dietro</E
-M>quell’albero lassù</E
-M>vorrei una di quelle sciarpe che sono esposte in vetrina</E
-M>è quel giovane che ti dissi</E
-M>di cui ti parlai</E
-M>Ahimè</E
-M>quanto era mutato da quello Amor che mo’ tornò tutto gioioso</E
-M>quel Dante che può considerarsi il più grande poeta medievale</E
-M>ho avuto una di quelle paure!</E
-M>cominciò a menare di quegli schiaffoni!</E
-M>quel somaro di Pierino</E
-M>quel galantuomo di tuo padre</E
-M>quel matto birbone di Don Rodrigo!</E
-M>quell’uomo cominciò ad avanzare verso di me</E
-M>quel tale continuava a fissarmi</E
-M>non potevo presentarmi a lui in quello stato</E
-M>in anticamera c’è sempre quel signore che aspetta</E
-M>mandare a quel paese</E
-M>o quell’uomo!</E
-M>ehi</E
-M>quella donna!</E
-M>«Quella signora! quella signora! una parola</E
-M>per carità!»</E
-M>quello è suo figlio</E
-M>domandalo a quello là</E
-M>buono quello!</E
-M>conosci quello davanti a te?</E
-M>eccola là quella di cui t’ho parlato</E
-M>quello del piano di sotto</E
-M>quella di Montepulciano</E
-M>bisognerà telefonare a quello dei tappeti</E
-M>è tornato quello di ieri</E
-M>dirò come quello: «ognun per sé e Dio per tutti»</E
-M>vorrei quello</E
-M>quello e quello</E
-M>quella sì che era un’invenzione utile!</E
-M>quello è il tuo posto</E
-M>questo</E
-M>vuoi questo o quello?</E
-M>questa o quella per me pari sono</E
-M>Rigoletto</E
-M>va sparlando di me con questo e con quello</E
-M>quello</E
-M>questo</E
-M>ha due figlie</E
-M>Laura e Francesca</E
-M>quella già sposata</E
-M>questa ancora nubile</E
-M>quel</E
-M>in quel di Milano</E
-M>in quel di Genova</E
-M>un bicchiere</E
-M>un litro di quello buono</E
-M>che meco avea di quel d’Adamo</E
-M>vinto dal sonno</E
-M>in su l’erba inchinai</E
-M>una di quelle</E
-M>non sono più quello</E
-M>ne abbiamo viste di quelle!</E
-M>se ne sentono di quelle!</E
-M>quello</E
-M>ha fatto quello e altro</E
-M>per quello puoi star sicuro</E
-M>ho ascoltato con attenzione quello che mi hai detto</E
-M>ha promesso che mi darà quello che mi spetta</E
-M>non lo gridi</E
-M>perché già quel che e stato è stato</E
-M>quel che è peggio</E
-M>quel che è più difficile</E
-M>una ragazza bruttina e</E
-M>quel che è peggio</E
-M>antipatica</E
-M>dovremo trovare modo di parlargli e</E
-M>quel ch’è più difficile</E
-M>convincerlo</E
-M>per quel che ne so io</E
-M>a quello che ho sentito dire</E
-M>per quel che ne so io</E
-M>non si è ancora laureato</E
-M>tra le due cravatte</E
-M>quella a pallini mi pareva la migliore</E
-M>se la tua auto è rotta</E
-M>prendi quella di mio figlio</E
-M>io piuttosto credo che dorma</E
-M>e che questo sonno sia della qualità di quello di Epicuro</E
-M>è un uomo diverso da quel che tu credi</E
-M>quello che</E
-M>quel che</E
-M>quanto</E
-M>come</E
-M>è meno sciupato di quel che m’avevano detto</E
-M>è finita meglio di quel che s’aspettavano</E
-M>è proprio quello il libro che cercavo</E
-M>quando ordino una cosa dev’essere quella</E
-M>in quella</E
-M>in quello</E
-M>io vidi una nave piccioletta Venir per l’acqua verso noi in quella</E
-M>Sicurano</E
-M>quasi essecutore del soldano</E
-M>in quello rivolto a Bernabò disse</E
-M>in quella che</E
-M>in quello che</E
-M>Grifon gagliardo duo ne piglia in quella Che ’l ponte si levò per lor sciagura</E
+amore
+capire
+caso
+chiedere
+credere
+dire
+giorno
+loro
+lungo
+mano
+meglio
+molto
+momento
+morire
+parola
+pensare
+poco
+povero
+prendere
+proprio
+quello
+questo
+ricordare
+rispondere
+sentire
+solo
+stare
+stesso
+storia
+tale
+tempo
+tenere
+troppo
+tuo
+tutto
+ultimo
+uomo
+uscire
+vedere

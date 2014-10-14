@@ -1,126 +1,34 @@
-punto.txt
-"a questo punto"
-"a questo punto"
-"a tal punto che, tanto che, talmente che"
-"a un certo punto..."
-"abbassarsi al punto di"
-"ad un punto morto"
-"Al punto giusto"
-"al punto più alto"
-"Andare al punto"
-"arriva al punto!"
-"arrivare al punto"
-"arrivare al punto in cui"
-"buon punto, buon momento"
-"centro informazioni, ufficio informazioni, punto informativo"
-"chi fa un punto"
-"cogliere il punto"
-"con lo stesso punto di vista"
-"da punto a punto"
-"da questo punto"
-"da questo punto di vista"
-"da un punto di vista professionale"
-"da un punto di vista sociale"
-"dal punto di vista di"
-"di punto caldo, zona calda"
-"di punto in bianco (relativo ad abitudini quali droga, fumo, alcohol, etc.)"
-"direttamente al punto"
-"efficace dal punto di vista dei costi"
-"energia di punto zero"
-"esprimere il proprio punto di vista"
-"essere punto sul vivo"
-"fare centro, centrare il punto, essere azzeccato"
-"fino a che punto"
-"fino a un certo punto"
-"fino a un punto"
-"fino al punto"
-"fino al punto che"
-"fino al punto di esaurimento"
-"giungere ad un punto"
-"giungere ad un punto morto"
-"ground zero; punto zero"
-"il punto"
-"il punto della questione"
-"il punto fin dove, il punto fino a cui"
-"il punto in questione"
-"in parte, fino a un certo punto"
-"in procinto di diventare, sul punto di diventare"
-"in punto"
-"in punto di"
-"in punto di morte"
-"in punto di morte"
-"in quel punto"
-"l'una (in punto)"
-"le otto in punto"
-"le quattro in punto"
-"le sei in punto"
-"le undici in punto"
-"mancare il punto"
-"messa a punto"
-"mettere a punto"
-"mettere un punto"
-"mezzogiorno in punto"
-"modesto punto di vista"
-"nel punto"
-"nel punto di"
-"nocciolo di qcs, punto centrale di qcs"
-"olecrano; la suocera (punto del gomito)"
-"piccolo punto"
-"protocollo punto a punto"
-"punto"
-"punto"
-"punto"
-"punto"
-"punto"
-"punto"
-"punto"
-"punto"
-"punto"
-"punto"
-"punto"
-"punto"
-"punto"
-"punto è preceduto da negazione"
-"punto"
-"punto è preceduto da negazione"
-"punto (punteggiatura)"
-"punto (temperatura) in cui un liquido cola"
-"punto a sfavore"
-"punto al cricket ottenuto dalla palla che ha colpito il battitore"
-"punto all'ordine del giorno"
-"punto aureo"
-"punto barca"
-"punto base"
-"punto caldo; zona calda"
-"punto cardinale"
-"punto cieco"
-"punto critico"
-"punto croce"
-"punto cruciale"
-"punto cruciale"
-"punto cruciale"
-"punto d'appoggio"
-"punto d'arresto, punto morto"
-*''(perlopiù in frasi negative)'' [[alcuno]], [[nessuno]]
-*''(perlopiù preceduto da negazione)'' per niente, per nulla,
-* ''(in frasi affermative)'' un poco, per poco, appena appena
-* oggetto molto piccolo,[[segno]], segno molto piccolo, [[macchia]]
-*(di estensione limitata) [[luogo]], [[posto]], [[base]],[[posizione]],[[ sito]], [[ ubicazione]] ; luogo preciso, luogo determinato
-*''(di scritto, discorso)'' [[argomento]], [[passo]], [[brano]] 
-*''nel tempo)''[[istante]], [[minuto]], [[attimo]], [[momento]], [[situazione]], [[occasione]], [[circostanza]]
-* (nel linguaggio scientifico e tecnico) [[posizione]]
-* [[voto]], [[votazione]], [[punteggio]], [[valutazione]]; [[stadio]], [[fase]], [[grado]], [[termine]]
-*[[cucitura]], [[rammendo]]
-*''(livello)'' [[grado]], [[limite]], [[segno]] 
-*'' (di un colore)'' [[gradazione]], [[tonalità]],[[ sfumatura]] 
-*'' (al pl.)''[[ punteggio]]
-*[[molto]], [[tanto]], [[assai]]
-*[[due punti]],[[di punto in bianco]],[[punto e virgola]], [[punto vendita]]
-* ''per un '''punto''' Martin perse la cappa'' 
-* ''di '''punto''' in bianco'' 
-*''fare il punto''
-#*''Tienes cinco '''puntos'''.''
-#*''Ese artículo cuesta tres puntos.''
-*[[punto y coma]],[[dos puntos]]
-*italiano
-*spagnolo
+alto
+buono
+certo
+cominciare
+entrare
+giorno
+guerra
+lavoro
+mettere
+momento
+parte
+passare
+piccolo
+poco
+prendere
+primo
+proprio
+punto
+questo
+stare
+stesso
+tale
+tanto
+tempo
+tenere
+tornare
+trovare
+tutto
+ultimo
+vedere
+venire
+vita
+voce
+volere
