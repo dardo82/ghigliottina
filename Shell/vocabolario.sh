@@ -10,22 +10,22 @@ rm -fr $P $PB $VT; mkdir $P $PB
 curl $VB | textutil -stdin -stdout -convert txt > $VBT
 cat $VBT | egrep -v '\\|’|\.$' | tr " " \\n | egrep '^[A-Z]' | tr [A-Z] [a-z] > $PT
 for p in $(cat $PT); do
-    PPT="$P/$p.txt"; q=`urlenc -nt "[{ \"name\": null, \"name~=\": \"$p\" }]"`
-    curl -L $WA/$WR/$p/ | egrep -io '"[^"]*'"(( ?$p)|($p ?))"'[^"]*"' >> $PPT
-    curl $WZ$p | egrep -io '^(#|:)?\*[^\*{:]+[^{:]+' >> $PPT
-    curl $TC$p/ | egrep -io 'm>[^<>]{3,}</e' >> $PPT
-    curl $FB$q | egrep -io '.*name.*' >> $PPT
+    PBT="$PB/$p.txt"; q=`urlenc -nt "[{ \"name\": null, \"name~=\": \"$p\" }]"`
+    curl -L $WA/$WR/$p/ | egrep -io '"[^"]*'"(( ?$p)|($p ?))"'[^"]*"' >> $PBT
+    curl $WZ$p | egrep -io '^(#|:)?\*[^\*{:]+[^{:]+' >> $PBT
+    curl $TC$p/ | egrep -io 'm>[^<>]{3,}</e' >> $PBT
+    curl $FB$q | egrep -io '.*name.*' >> $PBT
 done
-for f in $P/*; do
+for f in $PB/*; do
     echo ${f##*/} >> $VT
     cat $f >> $VT
     echo >> $VT
 done
-gawk -v wf="$PT" -v wd="$PB" 'BEGIN {while((getline l<wf)>0)s=(s RS l); split(s,wa); RS=""; FS="."}\
+gawk -v wf="$PT" -v wd="$P" 'BEGIN{while((getline l<wf)>0)s=(s RS l); split(s,wa); RS=""; FS="."}\
 {for(i in wa)if($0~wa[i])print $1>>(wd"/"wa[i]".txt")}' $VT
-rm $VT; cd $P
+rm $VT; cd $PB
 for f in *; do
-    cat ../$PB/$f >> $f
+    cat ../$P/$f >> $f
     echo $f >> ../$VT
     cat $f >> ../$VT
     echo >> ../$VT
