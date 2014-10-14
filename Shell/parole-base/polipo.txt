@@ -20,3 +20,5 @@ M>infiammatorio</E
 M>adenomatoso</E
 M>neoplasia polipoide</E
 M>moscardini</E
+polipo
+polpo

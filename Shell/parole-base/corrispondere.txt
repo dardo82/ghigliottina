@@ -51,3 +51,7 @@ m>un compenso</e
 m>uno stipendio</e
 m>un assegno mensile</e
 m>un&rsquo;indennit&agrave;</e
+assegno
+corrispondere
+pagare
+valere

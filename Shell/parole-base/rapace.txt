@@ -24,3 +24,8 @@ M>rapaci</E
 M>Raptatores</E
 M>diurni</E
 M>notturni</E
+aquila
+rapace
+scudo
+sedano
+uccello

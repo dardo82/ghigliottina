@@ -90,3 +90,42 @@ M>rosso</E
 M>alcune bollicine infocate tra nere e rosse</E
 M>con certi razzetti lividi</E
 M>che si chiamavano c.</E
+a
+arco
+attivo
+brace
+buca
+carbone
+caricare
+carta
+cenere
+centrale
+copia
+cucina
+deposito
+fornello
+fumo
+fuoco
+gas
+grasso
+grigio
+imbarcare
+legna
+microfono
+miniera
+misura
+nero
+polvere
+ricavare
+ricco
+riscaldamento
+risposta
+sacco
+sbarco
+scaricare
+sudicio
+tonnellata
+trasporto
+vagone
+vegetale
+vendita

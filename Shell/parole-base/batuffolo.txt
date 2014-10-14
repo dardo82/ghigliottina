@@ -6,3 +6,7 @@ batuffolo.txt
 M>è un b</E
 M>pare un b</E
 M>batuffoli</E
+batuffolo
+cipria
+fiocco
+tamponare

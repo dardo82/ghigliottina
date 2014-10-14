@@ -39,3 +39,6 @@ M>in rete</E
 M>qualcuno dalla via del bene</E
 M>il discorso</E
 M>sviare</E
+deviare
+linea
+spostare

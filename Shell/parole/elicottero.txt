@@ -1,0 +1,8 @@
+aereo
+armamento
+atterrare
+elica
+elicottero
+medico
+metalmeccanico
+o

@@ -15,3 +15,11 @@ M>elettronico</E
 M>corsa a c</E
 M>contro il c</E
 M>tappa a c</E
+corsa
+cronometro
+elettronico
+fermare
+metro
+misura
+orologio
+tappa

@@ -16,3 +16,10 @@ M>prosa</E
 M>versi di fattura artigianale</E
 M>mobili fabbricati artigianalmente</E
 M>tappeti tessuti artigianalmente</E
+artigianale
+artigiano
+fatto
+mano
+oggetto
+rozzo
+tipo

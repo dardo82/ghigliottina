@@ -28,3 +28,6 @@ M>parole</E
 M>scritti disonoranti</E
 M>un uomo ormai disonorato</E
 M>un nome disonorato</E
+disonorare
+onorare
+se

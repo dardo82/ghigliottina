@@ -18,3 +18,9 @@ M> è andato tutto bene</E
 M>ricevere informazioni tranquillizzanti</E
 M>rivolgere parole tranquillizzanti</E
 M>tranquillante.</E
+adattare
+agitare
+calmare
+eccitare
+tranquillizzare
+tranquillo

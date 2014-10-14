@@ -30,3 +30,40 @@ M>sta’ a</E
 M>a me</E
 M>stammi accanto</E
 M>gli è sempre accanto</E
+accanto
+altro
+asciugare
+atterrare
+camion
+carriera
+da
+dormire
+esca
+esercito
+freccia
+li
+luogo
+mettere
+pagina
+parare
+passare
+piano
+porre
+porta
+prato
+presso
+questo
+qui
+ragazza
+rimanere
+riserva
+riservare
+risparmiare
+rivedere
+rubrica
+scavalcare
+spinta
+tabella
+uno
+via
+vicino

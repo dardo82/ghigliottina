@@ -15,3 +15,7 @@ M>sala di proiezione</E
 M>era un c</E
 M>vedere come i tre si azzuffavano</E
 M>ufficio che è un vero cinematografo</E
+apertura
+cinema
+cinematografo
+ordine

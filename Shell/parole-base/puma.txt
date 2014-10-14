@@ -26,3 +26,12 @@ puma.txt
 M>Felis concolor</E
 M>coguaro</E
 M> leone d’America</E
+bottiglia
+leone
+puma
+schiuma
+schizzare
+secco
+spuma
+spumante
+vino

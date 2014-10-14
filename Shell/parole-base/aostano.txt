@@ -1,2 +1,3 @@
 aostano.txt
 "Traduzione di aostano/ non trovata.\nNo translation was found for aostano/."
+aostano

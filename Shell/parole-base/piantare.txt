@@ -121,3 +121,38 @@ M>p. un chiodo</E
 M>p. chiodi</E
 M>p. grane</E
 M>p. una grana</E
+affondare
+asso
+bandiera
+baracca
+burattino
+campo
+carota
+chiodo
+conficcare
+estrarre
+fidanzato
+finire
+fiore
+fissare
+formare
+impianto
+insegna
+introdurre
+largo
+lasciare
+mettere
+mezzogiorno
+occhio
+olivo
+operazione
+ortaggio
+pianta
+piantare
+pollo
+porre
+radice
+siepe
+strappare
+tenda
+vaso

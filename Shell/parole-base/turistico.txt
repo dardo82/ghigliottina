@@ -35,3 +35,19 @@ M>Assegno t.</E
 M>traveller’s cheque</E
 M>località</E
 M>centri turisticamente importanti</E
+assegno
+biglietto
+campo
+centro
+commerciale
+giro
+istituto
+polo
+porto
+settore
+statale
+sviluppare
+turistico
+ufficio
+viaggiatore
+viaggio

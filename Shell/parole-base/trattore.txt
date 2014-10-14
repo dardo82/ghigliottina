@@ -9,3 +9,13 @@ trattore.txt
 "trattore a cingoli"
 * [[trattrice]], veicolo agricolo
 *[[ristoratore]], [[oste]], [[locandiere]], [[taverniere]]
+aratro
+attrazione
+avversario
+contadino
+moderno
+paracadute
+rimorchio
+smuovere
+tratto
+trattore

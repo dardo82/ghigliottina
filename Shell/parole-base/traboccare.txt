@@ -3,3 +3,6 @@ traboccare.txt
 "traboccare"
 "traboccare spumeggiando"
 "traboccare, debordare"
+goccia
+traboccare
+vaso

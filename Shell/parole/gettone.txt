@@ -1,0 +1,6 @@
+gettone
+lavanderia
+lavatrice
+marca
+medaglia
+presenza

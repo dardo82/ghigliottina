@@ -18,3 +18,30 @@ arresto.txt
 *[[blocco]], [[fermata]], [[interruzione]], [[sospensione]], [[cattura]], [[carcerazione]], [[imprigionamento]],  [[arrestamento]],  [[indugio]], [[ritardo]]
 *[[liberazione]], [[rilascio]], [[scarcerazione]]
 * [[avvio]], [[continuazione]], [[proseguimento]] 
+arresto
+automatico
+battuta
+blocco
+canale
+circolazione
+dichiarare
+evasione
+gancio
+inseguimento
+morto
+omicida
+pausa
+procedere
+punto
+rifugiarsi
+sbloccare
+scorrere
+segno
+sfuggire
+sotto
+spinta
+suicidarsi
+sviluppo
+traffico
+ultimo
+verbale

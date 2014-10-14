@@ -27,3 +27,20 @@ M>di prima c</E
 M>essere di prima c</E
 M>angolo cottura</E
 M>sobbollitura</E
+acqua
+angolo
+biscotto
+cottura
+cucina
+ferro
+mancare
+mattone
+passare
+passato
+pentola
+piano
+rapido
+restringere
+tempo
+termometro
+vapore

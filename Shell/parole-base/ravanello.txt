@@ -3,3 +3,5 @@ ravanello.txt
 M>ravano</E
 M>rafano</E
 M>Raphanus sativus</E
+radice
+ravanello

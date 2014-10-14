@@ -5,3 +5,4 @@ figliare.txt
 M>io fìglio</E
 M>la cavalla ha figliato stanotte</E
 M>concepe e figlia Di diverse virtù diverse legna</E
+figliare

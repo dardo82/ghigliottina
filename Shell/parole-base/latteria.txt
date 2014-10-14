@@ -3,3 +3,5 @@ latteria.txt
 "latteria"
 *[[lattaio]]
 M>sociali</E
+latte
+latteria

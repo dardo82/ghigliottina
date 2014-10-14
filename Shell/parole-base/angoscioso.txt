@@ -18,3 +18,8 @@ M>pianto</E
 M>rivolgere uno sguardo angoscioso</E
 M>implorare angosciosamente</E
 M>pensare angosciosamente all’incerto domani</E
+angoscioso
+grave
+guaio
+penoso
+sogno

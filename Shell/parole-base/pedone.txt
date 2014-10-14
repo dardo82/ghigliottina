@@ -7,3 +7,13 @@ pedone.txt
 *''(scacchi)'' [[cavallo]], [[alfiere]], [[torre]], [[regina]], [[re]]
 *''(camminatore)'' [[ciclista]], [[motociciclista]], [[scooterista]], [[camionista]], [[autista]]
 *italiano
+autobus
+disattento
+inchiodare
+passante
+pedone
+posizione
+sacrificio
+turistico
+urtare
+vantaggio

@@ -6,3 +6,13 @@ scagliare.txt
 "scagliare, replace: scagliarsi"
 "scagliare insulti"
 "scagliare la prima pietra"
+forza
+impeto
+insulto
+maledizione
+pietra
+ritirare
+sasso
+scagliare
+sprofondare
+vibrare

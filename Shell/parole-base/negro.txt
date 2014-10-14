@@ -53,3 +53,12 @@ M>nero</E
 M>black</E
 M>noir</E
 M>gobb0</E
+arte
+giorno
+lavorare
+magia
+mago
+misero
+negro
+ramo
+volo

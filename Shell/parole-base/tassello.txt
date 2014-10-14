@@ -6,3 +6,7 @@ tassello.txt
 "tassello"
 "tassello a espansione"
 "tassello a espansione"
+espansione
+incastrare
+ingessare
+tassello

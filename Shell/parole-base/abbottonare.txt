@@ -8,3 +8,7 @@ M>la giacca</E
 M>i calzoni</E
 M>la camicia</E
 M>abbottónati!</E
+abbottonare
+agganciare
+allacciare
+sbottonare

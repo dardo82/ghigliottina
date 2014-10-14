@@ -1,0 +1,10 @@
+arancia
+bianco
+cedro
+cipresso
+coda
+gallo
+giallo
+legno
+pacifico
+rosso

@@ -1,0 +1,17 @@
+base
+camicia
+cappello
+cilindro
+di
+forma
+fucile
+lebbra
+principale
+rigore
+ruota
+serratura
+sigaretta
+superficie
+tra
+tubo
+volume

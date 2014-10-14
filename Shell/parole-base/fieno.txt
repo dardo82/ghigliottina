@@ -31,3 +31,28 @@ M>d’Ungheria</E
 M>erba medica</E
 M>Febbre da fieno</E
 M>raffreddore da fieno</E
+bagno
+campo
+carro
+cavallo
+erba
+febbre
+fieno
+greco
+magazzino
+mettere
+paglia
+profumo
+raccogliere
+raccolta
+raffreddore
+riporre
+rivoltare
+seccare
+seccatura
+secco
+stalla
+strada
+tagliare
+taglio
+vanga

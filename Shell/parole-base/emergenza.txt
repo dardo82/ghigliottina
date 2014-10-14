@@ -32,3 +32,20 @@ M>E. umanitaria</E
 M>e. droga</E
 M>e. mafia</E
 M>e. occupazione</E
+comando
+corsia
+emergenza
+emergere
+freno
+interruttore
+luce
+nazionale
+operazione
+pericolo
+scoppio
+segnale
+sorgente
+sospeso
+sosta
+tamponare
+trasporto

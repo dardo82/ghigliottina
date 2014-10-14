@@ -1,0 +1,5 @@
+acquisto
+consegna
+pagamento
+rateale
+sistema

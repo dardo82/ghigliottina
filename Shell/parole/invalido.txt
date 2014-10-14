@@ -1,0 +1,6 @@
+civile
+illegittimo
+infermo
+invalido
+mutilato
+valido

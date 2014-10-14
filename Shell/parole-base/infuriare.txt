@@ -32,3 +32,5 @@ M>il campo di battaglia</E
 M>affrontare il mare infuriato</E
 M>il vento infuriato</E
 M>le onde sbattevano infuriate contro gli scogli</E
+infuriare
+vento

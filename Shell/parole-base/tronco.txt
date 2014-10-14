@@ -13,3 +13,31 @@ tronco.txt
 *''quando il '''tronco''' ha fatto il [[nodo]], non s'addrizza in alcun modo''
 * italiano
 *spagnolo
+albero
+corpo
+cubo
+fermare
+forma
+galleggiare
+impresa
+lasciare
+lavorare
+licenziamento
+licenziare
+mo'
+moltiplicare
+mutilato
+robusto
+rotondo
+ruotare
+scavare
+schiantare
+scure
+sorreggere
+sputare
+stecca
+stradale
+tronco
+umore
+urna
+vivo

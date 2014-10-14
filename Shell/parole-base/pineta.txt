@@ -11,3 +11,6 @@ M>di San Vitale</E
 M>la p</E
 M>di Classe</E
 M>Per la pineta in su &#8217;l lito di Chiassi</E
+bosco
+pineta
+pino

@@ -7,3 +7,6 @@ M>il b</E
 M>di un’autovettura</E
 M>di un’autocorriera</E
 M>deposito bagagli</E
+bagagliaio
+capace
+portabagagli

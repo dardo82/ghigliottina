@@ -6,3 +6,4 @@ asfaltare.txt
 M>una strada</E
 M>una piazza</E
 M>strada asfaltata</E
+asfaltare

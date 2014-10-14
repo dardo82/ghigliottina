@@ -2,3 +2,5 @@ acquarello.txt
 "acquarello"
 "acquarello"
 *[[acquerello]]
+acqua
+acquarello

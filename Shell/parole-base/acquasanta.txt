@@ -5,3 +5,6 @@ acquasanta.txt
 *[[ battesimale]]
 M>acqua benedetta</E
 M>acqua battesimale</E
+acqua
+acquasanta
+diavolo

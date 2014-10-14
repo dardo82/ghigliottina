@@ -19,3 +19,11 @@ M>a qualche cosa</E
 M>mangiare troppo è n</E
 M>alla salute</E
 M>letture che possono influenzare nocivamente lo sviluppo psichico del ragazzo</E
+cattivo
+innocuo
+mortale
+nocivo
+pericoloso
+salute
+sano
+utile

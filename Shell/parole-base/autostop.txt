@@ -16,3 +16,6 @@ M>fare l’a</E
 M>viaggiare con l’autostop</E
 M>fare l’a</E
 M>chiedere l’a</E
+autostop
+stop
+viaggiare

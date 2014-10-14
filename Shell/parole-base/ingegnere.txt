@@ -47,3 +47,30 @@ m>del suono</e
 m>rivolgersi a un i</e
 m>senta prima l&rsquo;i</e
 m>buongiorno ingegnere</e
+capo
+chiamare
+chimico
+civile
+comandare
+direzione
+elettronico
+esame
+esercito
+fratello
+genio
+industriale
+ingegnere
+ingegno
+meccanico
+militare
+mungere
+navale
+nucleare
+prodotto
+professione
+sistema
+studiare
+studio
+telefono
+titolo
+uno

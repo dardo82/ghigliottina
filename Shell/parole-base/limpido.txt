@@ -35,3 +35,21 @@ M>esprimere limpidamente il proprio pensiero</E
 M>guardare limpidamente negli occhi</E
 M>fare le cose</E
 M>agire limpidamente</E
+acqua
+bello
+buio
+chiaro
+cupo
+incerto
+limpido
+lucido
+mondo
+nebbia
+netto
+occhio
+olio
+orizzonte
+piovoso
+sereno
+sguardo
+trasparente

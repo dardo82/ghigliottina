@@ -10,3 +10,7 @@ M>semplici</E
 M>composti</E
 M>integrati</E
 M>bilanciati</E
+bestiame
+canarino
+cibo
+mangime

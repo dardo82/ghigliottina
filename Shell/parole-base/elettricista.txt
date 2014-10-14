@@ -5,3 +5,6 @@ elettricista.txt
 m>di cantiere</e
 m>di bordo</e
 m>di scena</e
+chiamare
+elettricista
+elettrico

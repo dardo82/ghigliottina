@@ -1,3 +1,11 @@
 scartare.txt
 "scartare"
 "scartare"
+adottare
+aprire
+avvolgere
+escludere
+preferire
+principale
+respingere
+scartare

@@ -51,3 +51,27 @@ M>per Napoli</E
 M>il treno proseguirà verso Roma</E
 M>i disordini proseguono</E
 M>le indagini proseguono senza sosta</E
+andare
+arrestare
+avanti
+cessare
+continuare
+durare
+insistere
+interrompere
+intraprendere
+motel
+oltre
+orientare
+procedere
+proseguire
+rinuncia
+riprendere
+ritorno
+sacrificare
+seguire
+senza
+sospensione
+stringere
+trattativa
+viaggio

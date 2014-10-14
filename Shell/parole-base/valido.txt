@@ -71,3 +71,45 @@ M>del nostro tempo</E
 M>la rocca era validamente difesa dai cittadini</E
 M>sostenere validamente la propria tesi</E
 M>contribuire validamente alla realizzazione di un’impresa</E
+altro
+argine
+argomento
+artistico
+bersaglio
+bravo
+buono
+civile
+codice
+colpo
+contratto
+dichiarare
+effetto
+efficace
+forte
+generale
+gruppo
+illegittimo
+impotente
+infermo
+invalido
+invito
+legale
+legittimo
+matrimonio
+mutilato
+passaporto
+potente
+ragione
+rappresentazione
+restare
+scientifico
+scusa
+segnalare
+semestre
+stesso
+stretto
+testimone
+utile
+valere
+valido
+vero

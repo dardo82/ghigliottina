@@ -3,3 +3,5 @@ petalo.txt
 "petalo del fiore"
 M>pet</E
 M>lum</E
+fiore
+petalo

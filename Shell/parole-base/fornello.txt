@@ -19,3 +19,18 @@ M>di mina</E
 M>foro di mina</E
 M>Fornello chimico</E
 M>Fornax</E
+accendino
+buca
+camera
+campeggio
+caricare
+cucina
+elettrico
+fornello
+gas
+petrolio
+piastra
+spegnere
+spirito
+togliere
+tromba

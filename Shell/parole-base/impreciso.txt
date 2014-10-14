@@ -13,3 +13,14 @@ M>formulazione i</E
 M>d’un concetto</E
 M>tradurre imprecisamente un termine</E
 M>formulare imprecisamente una domanda</E
+confuso
+fedele
+fine
+giusto
+impreciso
+infedele
+netto
+paziente
+preciso
+vago
+vero

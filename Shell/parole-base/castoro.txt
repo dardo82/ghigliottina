@@ -16,3 +16,5 @@ M>argentato</E
 M>cappello</E
 M>berretto di castoro</E
 M>castoreo</E
+cappello
+castoro

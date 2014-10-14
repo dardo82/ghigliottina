@@ -25,3 +25,12 @@ M>Dio vi ripagherà del bene che mi fate</E
 M>mi ha ripagato calunniandomi</E
 M>con la stessa moneta</E
 M>di pari moneta</E
+atto
+intero
+moneta
+pagare
+pareggiare
+quello
+restituire
+ripagare
+uscire

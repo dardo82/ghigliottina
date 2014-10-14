@@ -21,3 +21,8 @@ M>un vestitino n</E
 M>una camicetta n</E
 M>un paio di guanti nocciola</E
 M>stoffa di un bel nocciola chiaro</E
+chiaro
+colore
+nocciola
+oliva
+prugna

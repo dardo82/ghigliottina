@@ -12,3 +12,5 @@ giubbotto.txt
 M>giubba</E
 M>di salvataggio</E
 M>antiproiettile</E
+giubbotto
+salvagente

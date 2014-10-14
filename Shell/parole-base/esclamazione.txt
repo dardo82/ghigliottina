@@ -20,3 +20,10 @@ M>ahi!</E
 M>oh!</E
 M>per bacco!</E
 M>accidenti!</E
+centro
+esclamazione
+meraviglia
+rifiuto
+ripetere
+salute
+uscire

@@ -13,3 +13,26 @@ M>dei Pazzi</E
 M>di palazzo</E
 M>mi volete trattenere qui per forza? ma questa è una congiura!</E
 M>del silenzio</E
+anima
+capitano
+complotto
+congiura
+covo
+entrare
+invocare
+laccio
+mano
+maschera
+palazzo
+pericolo
+pregare
+preparare
+reprimere
+ritrovo
+rivelare
+scongiurare
+scoperta
+silenzio
+sopra
+stringere
+tacere

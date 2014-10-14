@@ -54,3 +54,37 @@ M>di rugby</E
 M>di disco sul ghiaccio</E
 M>di pallacanestro</E
 M>entrano in campo i giocatori</E
+ala
+americano
+audace
+azzardo
+base
+calciatore
+calcio
+classe
+giocatore
+gioco
+grande
+immergere
+incorreggibile
+lanciare
+mano
+marcare
+mediocre
+orecchio
+ostinato
+passaggio
+pezzo
+prudente
+rimettere
+sbaglio
+scorretto
+sinistra
+sostituire
+speranza
+tavolo
+tennis
+uscita
+vendere
+vendita
+vincere

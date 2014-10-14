@@ -1,0 +1,7 @@
+angolo
+largo
+reparto
+scompartimento
+singolo
+viaggiatore
+vuoto

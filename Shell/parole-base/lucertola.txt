@@ -29,3 +29,5 @@ M>pesce tarantola</E
 M>canaletto</E
 M>Lucertola</E
 M>Lacerta</E
+lucertola
+pelle

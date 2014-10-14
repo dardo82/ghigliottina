@@ -2,3 +2,7 @@ sfasciare.txt
 "sfasciare"
 "sfasciare"
 "sfasciare, replace: sfasciarsi"
+ferita
+rompere
+rovinare
+sfasciare

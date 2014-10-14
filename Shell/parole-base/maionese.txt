@@ -7,3 +7,7 @@ maionese.txt
 M>mayonnaise</E
 M>Salsa m</E
 M>maionese</E
+aglio
+cavolo
+insalata
+maionese

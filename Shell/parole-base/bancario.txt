@@ -33,3 +33,24 @@ m>sconto</e
 m>credito b</e
 m>consorzio bancario</e
 m>lo sciopero dei bancarî</e
+accordo
+apertura
+assegno
+bancario
+bloccare
+codice
+conto
+corrente
+deposito
+gruppo
+interesse
+istituto
+mutuo
+promessa
+ramo
+resoconto
+ritorno
+sconto
+sicuro
+sistema
+sportello

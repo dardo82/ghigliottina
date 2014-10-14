@@ -93,3 +93,28 @@ M>uno starnuto rientrato</E
 M>frase rientrata</E
 M>ambizioni rientrate</E
 M>una crisi di governo rientrata</E
+base
+casa
+caserma
+categoria
+concedere
+corpo
+forzare
+giustificazione
+licenza
+norma
+ordine
+patria
+possesso
+quando
+rango
+remo
+rientrare
+riuscire
+se
+sotto
+sporgere
+stare
+tagliare
+tempo
+venire

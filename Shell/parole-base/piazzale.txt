@@ -12,3 +12,9 @@ M>Flaminio</E
 M>di stazione</E
 M>interno</E
 M>esterno</E
+estendere
+largo
+piazza
+piazzale
+stazione
+veduta

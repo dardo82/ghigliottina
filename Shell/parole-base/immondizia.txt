@@ -21,3 +21,12 @@ M>delle i</E
 M>il camion</E
 M>l’autocarro delle i</E
 M>gettare tra le immondizie</E
+bidone
+busta
+gettare
+immondizia
+pattumiera
+ridurre
+rifiuto
+secchio
+spazzatura

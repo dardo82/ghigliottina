@@ -10,3 +10,8 @@ M>enne</E
 M>essere</E
 M>diventare m</E
 M>votano solo i maggiorenni</E
+diventare
+maggiore
+maggiorenne
+minore
+minorenne

@@ -99,3 +99,47 @@ M>a levante luna calante</E
 M>gobba a ponente luna crescente</E
 M>moneta calante</E
 M>nota calante</E
+abbassare
+affondare
+aggiungere
+alzare
+apparire
+arrampicarsi
+cadere
+calare
+campo
+carta
+cicala
+crescere
+diminuire
+discendere
+fallire
+frequente
+giorno
+grandezza
+imbarcare
+ingrandire
+levare
+livello
+marcia
+momento
+montagna
+palpebra
+parete
+perdere
+pesce
+prezzo
+prodotto
+rete
+ridurre
+scadere
+scendere
+scontare
+seguire
+sempre
+sorgente
+tono
+tramonto
+vedere
+vela
+volare

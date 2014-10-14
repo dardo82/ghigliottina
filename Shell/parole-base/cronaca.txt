@@ -44,3 +44,26 @@ M>a dire il vero</E
 M>per la c</E
 M>io sono stato tutto il giorno in ufficio</E
 M>mentre qualche collega se la spassava al mare!</E
+articolo
+cronaca
+cronista
+diario
+eco
+filastrocca
+fotografia
+giornalista
+informazione
+morboso
+notizia
+nudo
+partita
+pezzo
+poesia
+racconto
+redazione
+registrare
+rosa
+rubrica
+spazio
+storia
+telecronaca

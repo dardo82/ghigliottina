@@ -23,3 +23,7 @@ M>fare un</E
 M>colpo m</E
 M>giocare un</E
 M>tiro mancino</E
+acquistare
+mancino
+servizio
+tiro

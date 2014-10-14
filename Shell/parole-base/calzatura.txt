@@ -3,3 +3,7 @@ calzatura.txt
 * [[calzaturiere]], [[calzaturificio]]
 *Enciclopedia [http
 M>negozio di calzature</E
+calzatura
+misurare
+scarpa
+stivale

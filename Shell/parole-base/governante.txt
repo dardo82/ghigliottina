@@ -4,3 +4,9 @@ governante.txt
 M>governare</E
 M>gouvernante</E
 M>le responsabilità dei governanti</E
+addestrare
+cameriere
+governante
+serva
+sorveglianza
+tesoro

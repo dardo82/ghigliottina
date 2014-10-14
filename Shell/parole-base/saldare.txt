@@ -42,3 +42,18 @@ M>filo saldante</E
 M>testa saldante</E
 M>tubi metallici saldati</E
 M>segmenti ossei mal saldati</E
+calore
+chiudere
+confermare
+conto
+fuoco
+incrinare
+pagare
+partita
+preparare
+regolare
+rottura
+saldare
+saldatura
+saldo
+soddisfare

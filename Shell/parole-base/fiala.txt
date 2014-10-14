@@ -4,3 +4,6 @@ M>phi</E
 M>Qual ti negasse il vin de la sua fiala Per la tua sete</E
 M>un fialone di 500 cm</E
 M> di soluzione fisiologica</E
+fiala
+profumo
+vetro

@@ -44,3 +44,47 @@ M>passato prossimo</E
 M>Cesare sconfisse Pompeo</E
 M>gli scrissi una volta l&#8217;anno passato</E
 M>trapassato r</E
+antico
+apertura
+ballare
+catastrofe
+colletta
+controllo
+da
+danneggiare
+danno
+disastro
+distante
+distruggere
+domani
+ecco
+forte
+genere
+grave
+intenso
+lasciare
+lato
+leggero
+lontano
+luogo
+mare
+passato
+polo
+privo
+prossimo
+remoto
+resistere
+risentire
+risparmiare
+rovina
+salvare
+scampare
+scossa
+scuotere
+secondario
+strage
+terremoto
+ultimo
+violento
+violenza
+vittima

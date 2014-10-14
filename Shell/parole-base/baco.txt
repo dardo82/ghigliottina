@@ -6,3 +6,14 @@ baco.txt
 "baco"
 "baco"
 "baco del grano"
+baco
+grano
+introduzione
+lattuga
+panino
+passato
+pomodoro
+seta
+stazione
+tabaccaio
+tabacco

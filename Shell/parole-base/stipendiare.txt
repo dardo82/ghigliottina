@@ -13,3 +13,6 @@ M>informatori stipendiati</E
 M>spie stipendiate</E
 M>gli stipendiati dello stato</E
 M>salario</E
+pagare
+stipendiare
+stipendio

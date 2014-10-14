@@ -9,3 +9,4 @@ M>paracadutisti</E
 M>soldati p</E
 M>truppe p</E
 M>reparti p</E
+paracadutista

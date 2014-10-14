@@ -1,2 +1,4 @@
 rilegare.txt
 "rilegare"
+legare
+rilegare

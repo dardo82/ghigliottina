@@ -50,3 +50,6 @@ M>Bevilacqua</E
 M>Leoni</E
 M>Passerini</E
 M>Meloni</E
+applicare
+imporre
+soprannome

@@ -14,3 +14,11 @@ M>di pane</E
 M>di generi alimentari</E
 M>rivendite dei generi di monopolio</E
 M>di sali e tabacchi</E
+dettaglio
+edicola
+esercizio
+magazzino
+negozio
+onore
+rivendita
+vendita

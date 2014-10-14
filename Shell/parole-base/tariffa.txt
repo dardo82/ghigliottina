@@ -43,3 +43,20 @@ M>farsi dare</E
 M>consultare la tariffa.</E
 M>emanare la t.</E
 M>t. monetaria</E
+barriera
+base
+classe
+fascia
+feriale
+ordinario
+pagare
+piano
+pubblico
+speciale
+superiore
+tabella
+tariffa
+tassa
+trovare
+voce
+volo

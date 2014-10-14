@@ -1,0 +1,14 @@
+alto
+basso
+dolce
+dolere
+fagotto
+fiato
+flauto
+musica
+musicale
+parte
+strumento
+suono
+taglio
+traverso

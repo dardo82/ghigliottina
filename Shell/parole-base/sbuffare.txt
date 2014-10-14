@@ -20,3 +20,6 @@ M>non sbuffarmi il fumo negli occhi!</E
 M>la locomotiva sbuffava un fumo denso e scuro.</E
 M>si fermò sbuffante per lo sforzo</E
 M>il treno arrivò sbuffante in stazione.</E
+locomotiva
+sbuffare
+soffiare

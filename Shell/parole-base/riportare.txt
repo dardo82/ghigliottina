@@ -74,3 +74,39 @@ M>copertine riportate</E
 M>tasche riportate</E
 M>tasche applicate</E
 M>tasche a toppa</E
+alloro
+buccia
+casa
+caso
+citare
+corona
+cranio
+dimensione
+dire
+discreto
+esporre
+espressione
+frattura
+media
+netto
+nuovo
+operazione
+pelle
+portare
+precedente
+premio
+qualifica
+registrare
+rimettere
+riportare
+rivelare
+sconfitta
+spina
+stato
+su
+trasmettere
+trionfo
+trovare
+vanto
+vincere
+vittoria

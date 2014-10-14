@@ -33,3 +33,6 @@ M>una fila d’impiccati</E
 M>stare</E
 M>sentirsi impiccato</E
 M>forca</E
+corda
+impiccare
+uccidere

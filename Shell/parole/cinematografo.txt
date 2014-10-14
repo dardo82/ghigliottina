@@ -1,0 +1,4 @@
+apertura
+cinema
+cinematografo
+ordine

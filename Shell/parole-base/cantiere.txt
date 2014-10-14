@@ -30,3 +30,19 @@ M>stabilimenti di costruzioni aeronautiche</E
 M>Cantieri</E
 M>scuola</E
 M>di abbattimento</E
+baracca
+cantiere
+capo
+compenso
+elettricista
+fabbrica
+fermo
+franco
+impianto
+lavoro
+meccanica
+mettere
+navale
+officina
+scavo
+visitare

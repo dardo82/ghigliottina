@@ -32,3 +32,16 @@ M>Punto</E
 M>retta</E
 M>piano i</E
 M>complessi</E
+amico
+asse
+collettivo
+concreto
+ente
+fantastico
+favoloso
+immaginario
+numero
+oggetto
+paese
+serpeggiare
+vero

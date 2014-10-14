@@ -22,3 +22,41 @@ contenuto.txt
 * (di spesa, consumo) [[controllato]], [[limitato]], [[ridotto]]
 *[[smisurato]], [[smodato]], [[sproporzionato]], [[sregolato]], [[sfrenato]], [[esagerato]], [[eccessivo]], [[eccedente]]
 * [[forma]]
+alto
+analisi
+botte
+cartella
+contenere
+contenuto
+cosa
+cucchiaio
+damigiana
+dentro
+dieta
+economico
+esporre
+forma
+idea
+insignificante
+libro
+materia
+moderato
+oggetto
+pagina
+parco
+pentola
+prezzo
+privo
+rivelazione
+sacchetto
+sacco
+scatola
+scodella
+secchio
+senza
+spirito
+tema
+terra
+vagone
+vassoio
+volume

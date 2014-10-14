@@ -24,3 +24,18 @@ M>ora decidiamo le questioni più urgenti</E
 M> successivamente penseremo alle altre</E
 M>le difficoltà vanno affrontate successivamente</E
 M> per ordine d&#8217;importanza</E
+anteriore
+contemporaneo
+controllo
+domani
+fucile
+giorno
+nuovo
+periodo
+posteriore
+precedente
+prossimo
+rinviare
+seguito
+succedere
+successivo

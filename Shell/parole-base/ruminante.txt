@@ -1,2 +1,4 @@
 ruminante.txt
 #*''la mucca è un animale '''ruminante'''''
+mammifero
+ruminante

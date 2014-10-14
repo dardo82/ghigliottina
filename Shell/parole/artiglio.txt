@@ -1,0 +1,6 @@
+aquila
+artiglio
+diavolo
+drago
+mano
+unghia

@@ -5,3 +5,8 @@ aspirapolvere.txt
 "usare l'aspirapolvere"
 M>aspirare</E
 M>polvere</E
+aspirapolvere
+maneggiare
+pratico
+pulire
+usare

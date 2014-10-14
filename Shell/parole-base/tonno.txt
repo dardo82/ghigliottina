@@ -16,3 +16,10 @@ M> di t. arrosto sulla griglia</E
 M>t. sott&#8217;olio</E
 M>t. in scatola</E
 M>ventresca di tonno</E
+blu
+cagna
+olio
+pinna
+scatola
+spuma
+tonno

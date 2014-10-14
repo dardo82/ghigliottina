@@ -1,0 +1,12 @@
+apertura
+base
+chiusura
+disponibilità
+fattore
+fondo
+liquido
+offrire
+responsabile
+superare
+tagliare
+totale

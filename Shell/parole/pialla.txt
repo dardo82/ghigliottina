@@ -1,0 +1,8 @@
+legno
+macchina
+maneggiare
+martello
+pialla
+piallare
+quercia
+tavola

@@ -28,3 +28,14 @@ M>dare</E
 M>fare una sola a uno</E
 M>prendere una sola</E
 M>questo vestito è una sola</E
+acciaio
+bisogno
+doppio
+gomma
+pialla
+piede
+rotaia
+scarpa
+spalmare
+suola
+suolo

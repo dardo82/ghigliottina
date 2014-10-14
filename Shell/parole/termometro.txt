@@ -1,0 +1,10 @@
+cottura
+forno
+grado
+meno
+metro
+prontezza
+salire
+termometro
+vero
+zero

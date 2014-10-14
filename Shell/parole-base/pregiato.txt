@@ -13,3 +13,11 @@ M>pregiatissimo</E
 M>preg</E
 M>Pregiatissimo Signore</E
 M>Pregiatissima Ditta</E
+buono
+fine
+importante
+inferiore
+ordinario
+pregiato
+prezioso
+tenerezza

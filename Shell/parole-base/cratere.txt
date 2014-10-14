@@ -17,3 +17,6 @@ M>circhi</E
 M>anfiteatri</E
 M>Cratere</E
 M>Coppa</E
+bicchiere
+cratere
+vomitare

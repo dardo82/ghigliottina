@@ -4,3 +4,5 @@ telecronista.txt
 M>tele-</E
 M>cronista</E
 M>t. sportivo</E
+cronista
+telecronista

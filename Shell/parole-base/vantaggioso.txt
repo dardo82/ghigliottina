@@ -12,3 +12,17 @@ M>è un contratto assai v. per lui</E
 M>l’offerta mi pare v.</E
 M>voi vi trovate in una situazione più v. della nostra</E
 M>l’accordo si è concluso vantaggiosamente per noi</E
+acquisto
+buono
+cattivo
+comodo
+economico
+favorevole
+inutile
+meno
+offrire
+patto
+presentare
+senso
+utile
+vantaggioso

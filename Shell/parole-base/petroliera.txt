@@ -2,3 +2,5 @@ petroliera.txt
 "petroliera"
 M>petroliero</E
 M>nave petroliera</E
+nave
+petroliera

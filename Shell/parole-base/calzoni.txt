@@ -4,3 +4,38 @@ calzoni.txt
 "calzoni corti"
 "calzoni da cavallerizzo"
 "cavallo dei calzoni"
+abbottonare
+agiato
+allentare
+applicare
+arnese
+bottone
+calzoni
+cavallo
+conciare
+corto
+coscia
+dietro
+entrare
+infilare
+levare
+lunghezza
+manica
+massa
+mettere
+paio
+pezza
+piega
+pirata
+portare
+rammendare
+ridurre
+ripassare
+sette
+sfortunato
+spogliare
+staffa
+strappo
+tasca
+toppa
+trarre

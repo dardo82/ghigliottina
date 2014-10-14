@@ -1,0 +1,14 @@
+area
+biglietto
+gravidanza
+lasciare
+pagamento
+parcheggio
+parco
+pesce
+pettine
+posizione
+posteggio
+scambio
+spina
+strillare

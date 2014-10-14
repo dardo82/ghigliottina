@@ -7,3 +7,8 @@ macchinista.txt
 *''(di teatro, tv, cinema)'' [[tecnico]], operatore cinematografico, operatore televisivo, operatore teatrale
 *[[locomotorista]], [[manovratore]], [[conduttore]], [[conducente]], [[guidatore]]
 m>capo macchinista</e
+abile
+aiuto
+macchinista
+teatrale
+treno

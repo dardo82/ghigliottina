@@ -26,3 +26,12 @@ M>a cranio</E
 M>a testa</E
 M>dividendo la spesa fra tutti</E
 M> la cena ci verrà a costare trenta euro a cranio</E
+base
+cranio
+frattura
+norma
+osso
+stato
+teschio
+torre
+uovo

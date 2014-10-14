@@ -84,3 +84,16 @@ M>collettivo</E
 M>globale</E
 M>i miei risparmiucci sono poca cosa</E
 M>il bambino vuol fare alla mamma un regalo coi suoi risparmiucci</E
+azione
+banca
+capitale
+cassa
+deposito
+famiglia
+lampadina
+natura
+risparmiare
+risparmio
+spinta
+spreco
+tempo

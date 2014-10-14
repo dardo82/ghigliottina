@@ -23,3 +23,6 @@ M>carotaggio</E
 M>un bambino dai capelli c.</E
 M>color carota</E
 M>Pel di carota</E
+bastone
+carota
+pelo

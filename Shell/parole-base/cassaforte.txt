@@ -9,3 +9,20 @@ M>fort</E
 M>cassefòrti</E
 M>camere corazzate</E
 M>di sicurezza</E
+aprire
+cassa
+cassaforte
+chiudere
+custodire
+forzare
+minaccia
+muro
+prova
+resistere
+richiudere
+rinchiudere
+sicuro
+tecnica
+trovare
+valore
+vuotare

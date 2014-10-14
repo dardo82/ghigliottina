@@ -44,3 +44,20 @@ M>la fede</E
 M>chiesa confessante</E
 M>peccato confessato</E
 M>mezzo perdonato</E
+animo
+aperto
+battezzare
+candido
+colpa
+confessare
+dire
+equivoco
+finire
+indurre
+ingenuo
+miseria
+parlare
+ritirare
+smentire
+tormentare
+tutto

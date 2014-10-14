@@ -11,3 +11,18 @@ taxi.txt
 "taxi stand"
 "taxi"
 "taxi"
+alga
+caso
+cenno
+chiamare
+corsa
+fare
+libero
+manovra
+occupato
+posteggio
+prezzo
+risparmiare
+stazione
+taxi
+venire

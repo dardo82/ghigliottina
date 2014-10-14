@@ -67,3 +67,23 @@ M>per</E
 M>passeggeri</E
 M>nave da carico</E
 M>è guardiano E passeggiero a questa riva imposto Caròn demonio</E
+chilometro
+chilometro
+clandestino
+clandestino
+ostinato
+ostinato
+passeggero
+passeggero
+provvisorio
+provvisorio
+ringraziare
+ringraziare
+terreno
+terreno
+terrestre
+terrestre
+treno
+treno
+viaggiatore
+viaggiatore

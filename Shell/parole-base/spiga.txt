@@ -28,3 +28,11 @@ M>pavimento a s.</E
 M>remolino</E
 M>ritrosa</E
 M>spada romana</E
+credere
+grano
+seme
+spiga
+spina
+terminare
+tessuto
+vuoto

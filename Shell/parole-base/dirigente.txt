@@ -31,3 +31,26 @@ M>generale</E
 M>superiore</E
 M>primo d</E
 M>D. scolastico</E
+appartenere
+azienda
+banca
+capo
+classe
+coprire
+corpo
+direttore
+direzione
+dirigente
+finanziario
+funzionario
+gruppo
+industria
+inferiore
+principale
+quadro
+scavalcare
+scolastico
+segretario
+servizio
+severo
+tagliare

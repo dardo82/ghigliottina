@@ -63,3 +63,47 @@ M>diritto comune</E
 M>ius singulare</E
 M>s. maschile</E
 M>s. femminile</E
+atleta
+banale
+bello
+bizzarro
+cancello
+caso
+comico
+comune
+cosa
+curioso
+dolcezza
+doppio
+duro
+eccezionale
+forma
+generico
+giusto
+immagine
+lavoro
+massimo
+misterioso
+numero
+nuovo
+opaco
+personale
+plurale
+poco
+poeta
+principio
+sale
+singolare
+singolo
+solito
+speciale
+strano
+straordinario
+stravagante
+tecnica
+tempo
+tennis
+terzo
+tragico
+unico
+vivo

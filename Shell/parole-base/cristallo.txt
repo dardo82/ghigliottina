@@ -60,3 +60,37 @@ M>quarzo ialino</E
 M>Cristallo liquido</E
 M>display</E
 M>Cristallo plastico</E
+alzare
+articolo
+bicchiere
+chiaro
+cristallo
+fiorire
+formula
+ghiaccio
+indice
+lastra
+lente
+limpido
+liquido
+maneggiare
+misto
+netto
+originale
+palla
+posteriore
+precauzione
+purezza
+riguardo
+rocca
+roccioso
+saliera
+sano
+serie
+servizio
+sfera
+simbolo
+soprammobile
+tergicristallo
+vaso
+vetro

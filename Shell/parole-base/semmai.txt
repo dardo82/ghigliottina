@@ -2,3 +2,4 @@ semmai.txt
 "semmai"
 "semmai"
 M>se mai</E
+semmai

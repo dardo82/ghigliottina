@@ -15,3 +15,23 @@ M>m. del mondo cattolico</E
 M>Parigi è la m. del mondo artistico</E
 M>le m. statunitensi</E
 M>la tumultuosa vita della metropoli</E
+area
+armamento
+capitale
+ferrovia
+metro
+metropoli
+metropolitana
+moscovita
+provvedere
+rete
+scavare
+scavo
+scendere
+sciame
+servire
+sotterraneo
+trasporto
+tribunale
+urbano
+vescovo

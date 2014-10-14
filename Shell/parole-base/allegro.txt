@@ -92,3 +92,42 @@ M>vivere</E
 M>cantare allegramente</E
 M>lavorare allegramente</E
 M>prendersela allegramente</E
+affettuoso
+agitazione
+allegria
+allegro
+ambiente
+ammiccare
+attaccare
+attacco
+bisogno
+canaglia
+cupo
+domenicale
+drammatico
+effetto
+felice
+festoso
+fuoco
+infelice
+lieto
+luna
+ma
+matto
+moderato
+naturale
+non
+patetico
+penoso
+promettere
+promozione
+rallegrare
+serio
+spiritoso
+tanto
+tipo
+triste
+troppo
+tutto
+umore
+vivace

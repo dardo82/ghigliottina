@@ -43,3 +43,43 @@ M>fiscale</E
 M>di deposito</E
 M>di carico</E
 M>di ritorno</E
+accusare
+annullare
+biglietto
+bolla
+bollettino
+buono
+cacciare
+carta
+contro
+correre
+deposito
+favorevole
+firma
+foglio
+grazia
+includere
+inserire
+litigare
+luogo
+mano
+masticare
+pagamento
+poi
+rappresentanza
+ricevere
+ricevimento
+ricevuta
+rilasciare
+rispetto
+rispondere
+ritirare
+ritorno
+scusa
+staccare
+tanto
+terra
+umiliazione
+valido
+valore
+volontario

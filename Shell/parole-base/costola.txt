@@ -34,3 +34,11 @@ M>Hypochoeris radicata</E
 M>spigolo</E
 M>costa</E
 M>ordinata</E
+corda
+costa
+costola
+dorso
+grazia
+margine
+rottura
+uomo

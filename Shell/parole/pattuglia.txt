@@ -1,0 +1,8 @@
+abbastanza
+battuta
+cavallo
+guardia
+pattuglia
+polizia
+prigioniero
+uno

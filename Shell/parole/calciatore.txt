@@ -1,0 +1,10 @@
+artista
+calciatore
+dilettante
+formidabile
+professionista
+ruolo
+secondo
+soprattutto
+tenuta
+zolla

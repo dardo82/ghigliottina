@@ -6,3 +6,5 @@ M>il brodo</E
 M>un sugo di carne</E
 M>una superficie</E
 M>brodo sgrassato</E
+ingrassare
+sgrassare

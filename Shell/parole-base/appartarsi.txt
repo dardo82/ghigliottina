@@ -1,2 +1,3 @@
 appartarsi.txt
 "Traduzione di appartarsi/ non trovata.\nNo translation was found for appartarsi/."
+appartarsi

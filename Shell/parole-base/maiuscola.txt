@@ -3,3 +3,8 @@ maiuscola.txt
 "lettera maiuscola"
 "maiuscola"
 "relativo alla lettera maiuscola"
+bambino
+lettera
+maiuscola
+relativo
+scrittura

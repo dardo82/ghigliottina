@@ -114,3 +114,29 @@ M>ad ogni staio Che mando</E
 M>dice:</E
 M>Mandami: fo cesto; Mandami: imboccio</E
 M>Mandami: impongo; mandami: rassodo</E
+chiedere
+condizione
+costringere
+dazio
+dire
+disciplina
+disturbare
+esigere
+forza
+forzare
+imponente
+imporre
+imposta
+mettere
+obbligare
+opinione
+ordinare
+ostaggio
+pagamento
+porre
+presenza
+rispetto
+sotto
+ubbidienza
+umiliare
+volere

@@ -16,3 +16,5 @@ M>risciacqua bene i fiaschi</E
 M>risciacquarsi i denti</E
 M>la bocca</E
 M>il viso</E
+risciacquare
+sciacquare

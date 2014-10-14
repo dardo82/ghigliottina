@@ -10,3 +10,6 @@ M>ministro</E
 "name": "Inserviente"
 "name": "Inserviente"
 "name": "Inserviente Lavand"
+assistente
+inserviente
+servo

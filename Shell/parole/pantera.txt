@@ -1,0 +1,6 @@
+corpo
+leopardo
+maschio
+pantera
+ruggire
+ruggito

@@ -33,3 +33,6 @@ M>attraversare sulle z.</E
 M>fuori delle zebre</E
 M>Legno zebra</E
 M>Centrolobium robustum</E
+leone
+puledro
+zebra

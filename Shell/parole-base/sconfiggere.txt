@@ -11,3 +11,14 @@ sconfiggere.txt
 #*''Cesare riuscì a  
 *''(in battaglia)''[[vincere]], [[battere]], [[sopraffare]], [[sgominare]],  [[sbaragliare]], [[sterminare]], [[annientare]] 
 *[[sconficcare]]
+battere
+bruciare
+manovra
+nemico
+no
+poco
+sconfiggere
+sconfitta
+superare
+vigilanza
+vincere

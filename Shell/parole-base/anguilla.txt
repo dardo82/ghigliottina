@@ -28,3 +28,6 @@ M>serpente</E
 M>Ophisurus serpens</E
 M>Nodo d’anguilla</E
 M>gassa a serraglio</E
+anguilla
+elettrico
+spiedo

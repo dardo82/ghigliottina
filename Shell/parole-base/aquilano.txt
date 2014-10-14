@@ -3,3 +3,4 @@ aquilano.txt
 M>Dialetto a</E
 M>l’aquilano</E
 M>l’Aquilano</E
+aquilano

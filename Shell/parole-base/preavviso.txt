@@ -33,3 +33,8 @@ M>per ogni falciata</E
 M>la vibrazione che le erbe cadendo trasmettevano alle vicine</E
 M>come un p</E
 M>di morte</E
+avviso
+breve
+preavviso
+segnale
+termine

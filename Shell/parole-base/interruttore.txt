@@ -49,3 +49,16 @@ M>in olio</E
 M>in aria</E
 M>automatico</E
 M>differenziale</E
+automatico
+corsa
+elettrico
+elettronico
+emergenza
+fine
+generale
+incasso
+interrompere
+interruttore
+porta
+sicurezza
+soffiare

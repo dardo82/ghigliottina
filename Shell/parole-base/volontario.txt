@@ -58,3 +58,18 @@ M>volontarî</E
 M>arruolarsi volontariamente</E
 M>rinunciò volontariamente a ogni suo privilegio</E
 M>andare volontariamente in esilio</E
+carcere
+domicilio
+incendio
+inconsapevole
+muscolo
+omicidio
+pompiere
+rappresentante
+ripieno
+ritardo
+servizio
+spontaneo
+suicidio
+volentieri
+volontario

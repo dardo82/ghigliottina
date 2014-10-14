@@ -8,3 +8,5 @@ M>porre</E
 M>i cadaveri si decompongono</E
 M>sostanze chimiche decomposte</E
 M>carogne di animali già decomposte</E
+decomporre
+sciogliere

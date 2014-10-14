@@ -10,3 +10,8 @@ M>alla romana</E
 M>persianina</E
 M>p. scorrevoli</E
 M>avvolgibile</E
+filtrare
+imposta
+persiana
+scoperta
+scuro

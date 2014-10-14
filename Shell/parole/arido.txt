@@ -1,0 +1,10 @@
+arido
+asciutto
+buono
+grasso
+inventario
+magro
+nudo
+secco
+suolo
+tetro

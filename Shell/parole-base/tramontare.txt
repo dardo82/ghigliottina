@@ -20,3 +20,11 @@ M>una gloria già tramontante</E
 M>un astro</E
 M>già tramontato</E
 M>una speranza ormai tramontata</E
+apparire
+calare
+levare
+mancare
+prossimo
+sole
+spuntare
+tramontare

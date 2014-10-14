@@ -1,0 +1,4 @@
+abbreviare
+allungare
+parola
+tempo

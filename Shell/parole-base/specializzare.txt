@@ -13,3 +13,5 @@ M>specificare</E
 M>s. la terna di riferimento</E
 M>specializzarsi</E
 M>nel nostro caso l&#8217;espressione si specializza in questo modo ...</E
+speciale
+specializzare

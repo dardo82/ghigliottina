@@ -16,3 +16,15 @@ M>dare una risposta scortese</E
 M>rispondere scortesemente a una domanda</E
 M>a un interlocutore</E
 M>impiegati che trattano scortesemente il pubblico</E
+buono
+cattivo
+cortese
+delicato
+fianco
+gentile
+infedele
+maleducato
+rifiuto
+scortese
+sgarbato
+troppo

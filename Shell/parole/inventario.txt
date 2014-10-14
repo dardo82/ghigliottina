@@ -1,0 +1,6 @@
+beneficio
+elenco
+inventario
+numero
+registrazione
+venire

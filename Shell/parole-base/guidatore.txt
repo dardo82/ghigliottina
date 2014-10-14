@@ -12,3 +12,13 @@ M>del gregge</E
 M>Mortale guidatrice D’oceanine vergini</E
 M>conducente</E
 M>pilota</E
+autista
+difendere
+guidatore
+incosciente
+macchinista
+manovrare
+pericoloso
+pirata
+strada
+ubbidire

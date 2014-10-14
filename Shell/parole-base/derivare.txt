@@ -9,3 +9,11 @@ derivare.txt
 "derivare da"
 "derivare da"
 "nascere; derivare da"
+conseguire
+derivare
+discendere
+ereditare
+nascere
+procedere
+seguire
+venire

@@ -5,3 +5,13 @@ rocchetto.txt
 "rocchetto"
 "nome di vari attrezzi a forma di rocchetto"
 "rocchetto e cremagliera"
+avvolgere
+gabbia
+pappagallo
+rocchetto
+ruota
+scherzare
+serratura
+seta
+sigaretta
+su

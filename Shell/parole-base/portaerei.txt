@@ -13,3 +13,4 @@ M>da combattimento</E
 M>Aereo p</E
 M>portaerei</E
 M>velivolo parassita</E
+portaerei

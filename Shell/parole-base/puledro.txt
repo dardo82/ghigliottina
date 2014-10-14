@@ -15,3 +15,5 @@ M>quel ragazzo corre come un p</E
 M>salta che pare un puledro</E
 M>eculeo</E
 M>cavalletto</E
+cavallo
+puledro

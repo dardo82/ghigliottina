@@ -45,3 +45,32 @@ M> che fissa i gesti e i profili</E
 M>torturare crudelmente</E
 M>vendicarsi crudelmente di qualcuno</E
 M>picchiare crudelmente un bambino</E
+animo
+buono
+canino
+criminale
+crudele
+cuore
+diverso
+duro
+ferita
+feroce
+fiero
+guerra
+ingiusto
+insulto
+inumano
+ironia
+mite
+punizione
+ridurre
+rubare
+scarso
+spietato
+stupido
+terribile
+tingere
+tiranno
+uomo
+vela
+vendetta

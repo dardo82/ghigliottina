@@ -53,3 +53,30 @@ M>negozio</E
 M>studio</E
 M>commercio bene avviato</E
 M>fuoco avviato</E
+aprire
+arrestare
+avviamento
+avviare
+avvicinare
+bottega
+causa
+chiudere
+cominciare
+compiere
+finire
+fuoco
+indagine
+iniziare
+introdurre
+istruire
+mettere
+moto
+partire
+professione
+progetto
+promuovere
+recluta
+sbloccare
+scala
+stampa
+verso

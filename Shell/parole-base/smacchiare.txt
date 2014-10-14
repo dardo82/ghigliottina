@@ -1,2 +1,9 @@
 smacchiare.txt
 "smacchiare"
+macchia
+macchiare
+pulire
+schizzo
+smacchiare
+sporcare
+tingere

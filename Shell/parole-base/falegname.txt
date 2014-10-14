@@ -11,3 +11,22 @@ M>bottega</E
 M>laboratorio di f</E
 M>arnesi da falegname</E
 M>carpentiere</E
+accomodare
+arnese
+artista
+attrezzo
+banco
+cane
+chiamare
+compasso
+falegname
+lavorare
+martello
+mestiere
+officina
+piallare
+professionista
+scalpello
+sega
+squadra
+tenaglia

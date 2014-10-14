@@ -10,3 +10,11 @@ cancro.txt
 "tropico del cancro"
 #* ''i '''cancri''' oggi sono favoriti''
 #* ''mia sorella è un 
+cancro
+cura
+giornata
+guarire
+incurabile
+morire
+sperimentale
+tumore

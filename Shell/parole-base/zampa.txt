@@ -9,3 +9,13 @@ zampa.txt
 #* calzone a zampa d'[[elefante]]
 #* camminare a quattro zampe, carponi, come gli animali
 #* ''figurato'', ''scherzoso'', giù le zampe! qua la zampa!
+cane
+castagna
+cavare
+elefante
+organo
+pollo
+posteriore
+superbo
+traccia
+zampa

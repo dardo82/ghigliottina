@@ -2,3 +2,6 @@ pallottoliere.txt
 "Traduzione di pallottoliere/ non trovata.\nNo translation was found for pallottoliere/."
 #* ''Giuseppina utilizzò il '''pallottoliere''' per svolgere i suoi compiti di [[aritmetica]]''.
 M>segnapunti</E
+contare
+pallottola
+pallottoliere

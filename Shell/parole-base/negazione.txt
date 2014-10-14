@@ -45,3 +45,10 @@ M>le tue parole sono la n</E
 M>del buon senso</E
 M>La n</E
 M>di Dio eretta a sistema di governo</E
+affermazione
+consenso
+dimostrazione
+negazione
+punto
+riconoscimento
+rifiuto

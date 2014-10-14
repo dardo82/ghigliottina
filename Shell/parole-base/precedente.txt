@@ -77,3 +77,47 @@ M>di una pratica</E
 M>di un ricorso</E
 M>la cerimonia si svolse come era stato precedentemente stabilito</E
 M>devi essere coerente con quello che hai affermato precedentemente</E
+anno
+anteriore
+causa
+conoscenza
+contemporaneo
+creare
+decisione
+domanda
+dopo
+epoca
+esperienza
+futuro
+giorno
+idea
+impegno
+legale
+mattina
+modifica
+mostrare
+nozze
+obbligo
+pagina
+passato
+posteriore
+precedente
+precedenza
+precedere
+presente
+prima
+primo
+richiamare
+riflettere
+rinviare
+rinvio
+riportare
+saldatura
+simile
+stadio
+stato
+storia
+successivo
+tornare
+uno
+volta

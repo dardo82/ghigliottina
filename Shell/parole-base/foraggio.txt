@@ -3,3 +3,12 @@ foraggio.txt
 "nutrito con foraggio"
 M>fourrage</E
 M>feurre</E
+barbabietola
+coltivare
+fava
+fieno
+foraggio
+radice
+seminare
+tritare
+zucca

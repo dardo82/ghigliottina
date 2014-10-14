@@ -39,3 +39,29 @@ M>attenuanti</E
 M>le attenuanti</E
 M>aggravanti</E
 M>le aggravanti</E
+accordare
+adattare
+adatto
+assumere
+caso
+circostanza
+comune
+convenire
+episodio
+fatto
+frase
+mentire
+momento
+morte
+occasione
+possibilità
+punto
+qualsiasi
+sede
+speciale
+stonatura
+tacere
+tempo
+triste
+vario
+volta

@@ -3,3 +3,4 @@ palermitano.txt
 M>il dialetto p</E
 M>il palermitano</E
 M>il Palermitano</E
+palermitano

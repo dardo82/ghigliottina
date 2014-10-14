@@ -17,3 +17,4 @@ M>risultati</E
 M>soluzioni</E
 M>figure</E
 M>punti coincidenti</E
+coincidere

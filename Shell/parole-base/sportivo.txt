@@ -62,3 +62,35 @@ M>giocare sportivamente</E
 M>poco sportivamente</E
 M>non ha vinto il concorso</E
 M> ma l&#8217;ha presa sportivamente.</E
+abbigliamento
+allenamento
+ammissione
+associazione
+berretto
+calendario
+campo
+cappotto
+circolo
+commissario
+complesso
+cronista
+direttore
+droga
+giornale
+giornalista
+impianto
+ingresso
+leale
+mantello
+sport
+sportivo
+squadra
+stadio
+taglio
+telecronista
+tipo
+torneo
+universitario
+uscita
+vocabolario
+vomitare

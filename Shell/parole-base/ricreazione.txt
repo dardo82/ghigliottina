@@ -22,3 +22,12 @@ M>fare</E
 M>in aula</E
 M>nel cortile</E
 M>in palestra</E
+creazione
+gioco
+luogo
+posto
+ricreazione
+sala
+spasso
+svago
+tempo

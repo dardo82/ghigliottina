@@ -8,3 +8,16 @@ M>canestro</E
 M>basket</E
 M>ball</E
 M>basket</E
+acquisto
+campionato
+campo
+fondamentale
+giocare
+giocatore
+pallacanestro
+pallone
+professionista
+recluta
+specchio
+squadra
+vittoria

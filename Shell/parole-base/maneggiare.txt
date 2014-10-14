@@ -53,3 +53,8 @@ M>maneggiarsi</E
 M>è un furbone</E
 M>e sa maneggiarsi bene</E
 M>destreggiarsi</E
+imprudente
+inesperto
+maneggiare
+manovrare
+trattare

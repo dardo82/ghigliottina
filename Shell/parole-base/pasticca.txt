@@ -14,3 +14,6 @@ M>boules</E
 M>pois</E
 M>seta bianca a pasticche blu</E
 M>pastiglia</E
+calare
+pasticca
+pillola

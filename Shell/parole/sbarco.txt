@@ -1,0 +1,8 @@
+compagnia
+mezzo
+mille
+passeggero
+reparto
+rete
+sbarco
+secolo

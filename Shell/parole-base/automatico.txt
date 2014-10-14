@@ -52,3 +52,42 @@ M>riflessa</E
 M>Scrittura a</E
 M>il numero scatta automaticamente</E
 M>si tolse automaticamente il cappello</E
+arresto
+asciugamano
+automatico
+avviamento
+battuta
+caccia
+cambio
+campo
+centralino
+controllo
+corsa
+distributore
+e
+fermo
+freno
+fucile
+gancio
+guadagno
+inizio
+interruttore
+introduzione
+meccanico
+messaggio
+modo
+o
+orologio
+penna
+pianoforte
+pilota
+seguire
+sistema
+sportello
+stop
+telaio
+telefono
+timoniere
+vedovo
+volo
+volontario

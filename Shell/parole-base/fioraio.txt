@@ -2,3 +2,5 @@ fioraio.txt
 "fioraio"
 "fioraio"
 *[[fiorista]]
+fioraio
+fiore

@@ -1,0 +1,12 @@
+antenna
+cornice
+finestra
+lastra
+meccanismo
+membro
+ponte
+principale
+saldatura
+struttura
+stupidaggine
+telaio

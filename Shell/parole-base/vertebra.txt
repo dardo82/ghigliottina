@@ -25,3 +25,18 @@ M>caudali</E
 M>coccigee</E
 M>vertebre a blocco</E
 M>vertebra a cuneo</E
+assenza
+canale
+colonna
+deformare
+disco
+dorsale
+estensione
+mammifero
+membro
+promontorio
+rottura
+scheletro
+spina
+uccello
+vertebra

@@ -40,3 +40,40 @@ M>l’industria dell’a</E
 M>negozio di a</E
 M>carta dell’a</E
 M>tessera del vestiario</E
+abbigliamento
+abito
+articolo
+capo
+comico
+creazione
+da
+elegante
+estivo
+femminile
+frequenza
+giovane
+il
+lavoro
+libero
+linea
+mano
+maschile
+massa
+moda
+negozio
+neve
+notte
+oggetto
+osservare
+per
+protezione
+ridicolo
+scavo
+sportivo
+tempo
+tendenza
+tenuta
+umile
+verde
+vestire
+vestito

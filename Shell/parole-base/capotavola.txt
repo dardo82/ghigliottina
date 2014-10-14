@@ -6,3 +6,5 @@ M>i capitàvola</E
 M>le capotàvola</E
 M>sedere</E
 M>stare a capotavola</E
+capo
+capotavola

@@ -5,3 +5,6 @@ sagrestano.txt
 :*(ing)
 M>sacristanus</E
 M>sacrista</E
+elemosina
+maggiore
+sagrestano

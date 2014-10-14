@@ -20,3 +20,8 @@ m>servizio v.</e
 m>medico v.</e
 m>veterinario</e
 m>veterinaria</e
+ambulatorio
+chirurgo
+provinciale
+veterinario
+zoppicare

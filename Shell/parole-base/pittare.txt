@@ -1,2 +1,3 @@
 pittare.txt
 "Traduzione di pittare/ non trovata.\nNo translation was found for pittare/."
+pittare

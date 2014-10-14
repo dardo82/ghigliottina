@@ -14,3 +14,5 @@ M>un piccolo partito che fa da stampella a un governo pencolante.</E
 M>gruccia</E
 M>mettere la giacca sulla stampella.</E
 M>capitello a stampella</E
+stampare
+stampella

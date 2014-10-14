@@ -10,3 +10,7 @@ M>d’artiglieria</E
 M>a cofano</E
 M>delle caldaie e delle macchine</E
 M>Pesce cofano</E
+baule
+cofano
+proteggere
+schiacciata

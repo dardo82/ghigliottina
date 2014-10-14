@@ -1,0 +1,9 @@
+base
+cranio
+frattura
+norma
+osso
+stato
+teschio
+torre
+uovo

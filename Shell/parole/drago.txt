@@ -1,0 +1,10 @@
+artiglio
+drago
+erba
+leggero
+lucertola
+pallone
+polvere
+sangue
+serpente
+volante

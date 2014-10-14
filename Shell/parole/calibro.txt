@@ -1,0 +1,7 @@
+alto
+calibro
+compasso
+grosso
+misurare
+pesce
+pistola

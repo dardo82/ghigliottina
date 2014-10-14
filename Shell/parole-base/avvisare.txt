@@ -7,3 +7,18 @@ avvisare.txt
 "informare, avvisare tempestivamente"
 "l'atto di arrivare in un posto senza avvisare"
 *[[avvertire]], [[ammonire]], [[mettere al corrente]], [[annunciare]], [[comunicare]], [[segnalare]], [[consigliare]], [[mettere in guardia]]
+ammonire
+arrivare
+atto
+avvertire
+avvisare
+dire
+informare
+lettera
+posto
+preoccupare
+qualcosa
+qualcuno
+scambiare
+segnalare
+senza

@@ -29,3 +29,4 @@ M>poltrona imbottita</E
 M>panino imbottito</E
 M>avere il portafoglio sempre bene imbottito</E
 M> essere imbottito</E
+imbottire

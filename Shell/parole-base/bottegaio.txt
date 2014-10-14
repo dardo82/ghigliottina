@@ -8,3 +8,7 @@ M>Ma tiran via</E
 M>mentalità b</E
 M>onesta ipocrisia b</E
 M>scienza b</E
+bottega
+bottegaio
+cliente
+negoziante

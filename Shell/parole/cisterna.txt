@@ -1,0 +1,12 @@
+aereo
+bacino
+carico
+carro
+cisterna
+lago
+moto
+nave
+serbatoio
+tenere
+vagone
+vuotare

@@ -1,0 +1,16 @@
+argento
+carta
+copertura
+disco
+ferro
+fornello
+griglia
+latte
+piastra
+registrazione
+serratura
+spessore
+teglia
+territorio
+trafila
+uovo

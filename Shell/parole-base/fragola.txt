@@ -26,3 +26,11 @@ M>smorto</E
 M>Uva fragola</E
 M>Vitis labrusca</E
 M>isabella</E
+colore
+fragola
+frutto
+gelato
+netto
+spinacio
+uva
+voglia

@@ -6,3 +6,33 @@ bollo.txt
 "marca da bollo"
 "tassa di bollo"
 "tassa di bollo"
+annullare
+appiccicare
+applicare
+applicazione
+assolvere
+attaccare
+bollire
+bollo
+carta
+composizione
+documento
+dogana
+francobollo
+imposta
+intero
+leccare
+levare
+marca
+mettere
+nuotare
+operazione
+opposizione
+pagare
+plurale
+ricordo
+spiccare
+staccare
+tariffa
+tassa
+umido

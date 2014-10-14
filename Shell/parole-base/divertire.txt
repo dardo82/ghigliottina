@@ -48,3 +48,6 @@ M>una divertente storiella</E
 M>lo ascoltava divertito</E
 M>con aria divertita</E
 M>leggere con divertita attenzione</E
+annoiare
+divertire
+poco

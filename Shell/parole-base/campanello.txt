@@ -21,3 +21,21 @@ M>pesce</E
 M>muscolo</E
 M>muscolo posteriore</E
 M>piccione</E
+allarme
+attaccare
+bottone
+campanello
+elettrico
+insieme
+pesce
+piccione
+provare
+rispondere
+risuonare
+ritirare
+schiacciare
+sentire
+squillo
+strappo
+suonare
+suono

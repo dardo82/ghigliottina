@@ -48,3 +48,29 @@ m>un edificio</e
 m>condannarsi alla sconfitta</e
 m>all&rsquo;insuccesso</e
 m>alla miseria</e
+assolvere
+bagno
+capo
+carcere
+condannare
+croce
+dannare
+detestare
+ergastolo
+esilio
+ferro
+forca
+grave
+innocente
+moderno
+morte
+omicidio
+pena
+processare
+remo
+rivolta
+sedia
+severo
+spesa
+taglio
+tradimento

@@ -17,3 +17,23 @@ camion.txt
 M>camion</E
 M>kam</E
 M> i c. sfrecciavano accanto alla macchina scuri e minacciosi come balene</E
+autocarro
+camion
+caricare
+imbarcare
+immondizia
+incastrare
+motore
+pedone
+portare
+processione
+rimorchio
+scala
+scaricare
+schiantare
+schieramento
+smuovere
+sponda
+strada
+sventolare
+trasportare

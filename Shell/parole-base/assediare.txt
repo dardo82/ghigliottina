@@ -30,3 +30,6 @@ M>le truppe assedianti</E
 M>gli assedianti furono respinti</E
 M>soccorrere la città assediata</E
 M>gli assediati aspettavano rinforzi</E
+assediare
+assedio
+circondare

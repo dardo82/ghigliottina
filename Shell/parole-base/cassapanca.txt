@@ -4,3 +4,8 @@ M>cassa</E
 M>panca</E
 M>cassapanche</E
 M>cassepanche</E
+banco
+cassa
+cassapanca
+olivo
+sotto

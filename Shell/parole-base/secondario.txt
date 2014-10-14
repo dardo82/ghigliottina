@@ -87,3 +87,35 @@ M>innanzitutto il progetto mi sembra difficilmente realizzabile</E
 M> e secondariamente poco conveniente</E
 M>sono tessuti che non provengono direttamente dall&#8217;embrione</E
 M> ma compaiono secondariamente</E
+armamento
+cardinale
+contatto
+dettaglio
+elementare
+essenziale
+fondamentale
+fronte
+generico
+gruppo
+guadagno
+indispensabile
+inferiore
+legno
+libro
+maestro
+minore
+necessario
+orientamento
+originario
+primo
+principale
+principe
+processo
+ramo
+rispetto
+ruolo
+sacrificare
+secondario
+secondo
+settore
+utilizzazione

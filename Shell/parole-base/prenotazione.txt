@@ -21,3 +21,7 @@ M>per telefono</E
 M>esibire la prenotazione</E
 M>a debito</E
 M>campione</E
+cancellare
+prenotare
+prenotazione
+ristorante

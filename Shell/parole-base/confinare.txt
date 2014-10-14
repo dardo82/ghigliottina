@@ -27,3 +27,5 @@ M>da un luogo</E
 M>la carestia è bandita e confinata in perpetuo da questo palazzo</E
 M>un luogo</E
 M>i paesi confinanti con la Germania</E
+confinare
+confine

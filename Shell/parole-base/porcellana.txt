@@ -12,3 +12,17 @@ porcellana.txt
 "smalto da porcellana"
 "vetro da porcellana"
 #*''prendimi il servizio da tè, quello di '''porcellana'''''"
+biscotto
+insignificante
+porcellana
+saldatura
+salsiera
+scodella
+servizio
+smalto
+soprammobile
+suono
+tazza
+vaso
+vassoio
+vetro

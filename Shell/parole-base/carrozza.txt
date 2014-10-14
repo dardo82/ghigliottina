@@ -43,3 +43,45 @@ M>carrozze ristoro</E
 M>carrozze letto</E
 M>signori in c.!</E
 M>Mozzarella in c</E
+affittare
+avanti
+botte
+carro
+carrozza
+cassa
+cielo
+classe
+conficcare
+diligenza
+due
+fermare
+freno
+guidare
+magico
+montare
+musica
+padronato
+porta
+posare
+postale
+premere
+primo
+quattro
+recitare
+ristorante
+rumore
+ruota
+salire
+scendere
+senza
+smontare
+sportello
+strada
+tetto
+tirare
+traballare
+venire
+vettura
+viaggiare
+viaggio
+zoppo

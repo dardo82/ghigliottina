@@ -37,3 +37,9 @@ M> e il sole ci entrava dentro</E
 M> non visto</E
 M> senza difesa</E
 M>scudo sbarrato</E
+chiudere
+ingresso
+occhio
+ritirata
+sbarrare
+tappare

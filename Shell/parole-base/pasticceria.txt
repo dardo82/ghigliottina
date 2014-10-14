@@ -8,3 +8,5 @@ pasticceria.txt
 M>pâtisserie</E
 M>pastiserie</E
 M>pasticceria da tè</E
+pasticceria
+secco

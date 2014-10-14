@@ -1,0 +1,4 @@
+pagare
+restituire
+rimborsare
+soddisfare

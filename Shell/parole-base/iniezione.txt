@@ -50,3 +50,16 @@ M>iniezione</E
 "name": "Iniezione"
 "name": "Iniezione indiretta"
 "name": "Motore ad iniezione d'acqua"
+aria
+carburante
+dolere
+droga
+fiducia
+iniezione
+parte
+praticare
+pressione
+profondo
+puntura
+richiamo
+vita

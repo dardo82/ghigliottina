@@ -11,3 +11,5 @@ M>negozio di mercerie</E
 M>c’è una m</E
 M>qui all’angolo</E
 M>Merceria</E
+merceria
+padrona

@@ -26,3 +26,12 @@ M>al cinema</E
 M>una m</E
 M>danzante al circolo</E
 M>matinée</E
+libero
+mattina
+mattinata
+mattino
+perdere
+rimanere
+spendere
+spezzare
+tribunale

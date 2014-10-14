@@ -111,3 +111,37 @@ M>diventare bianco come un cencio</E
 M>un panno</E
 M>lavato</E
 M>mantello lavato</E
+acqua
+asino
+bagnare
+biancheria
+cervello
+colpa
+conca
+dopo
+faticoso
+folla
+insalata
+lana
+lavare
+lavatoio
+lavatrice
+macchiare
+mettere
+offesa
+panno
+pasto
+pavimento
+pulire
+roba
+sangue
+sapone
+secco
+shampoo
+sporcare
+spugna
+stirare
+strofinaccio
+tavola
+tingere
+via

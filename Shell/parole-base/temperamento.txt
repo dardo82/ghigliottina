@@ -46,3 +46,33 @@ M>t. del Toro</E
 M>della Vergine</E
 M>temperamento della bocca</E
 M>t. di una miniera</E
+allegro
+amoroso
+anarchico
+artistico
+carattere
+correggere
+cupo
+docile
+elettrico
+erotico
+esplosivo
+felice
+freddezza
+freddo
+furioso
+inerte
+infelice
+irregolare
+istinto
+lieto
+malinconico
+natura
+naturale
+nervoso
+passivo
+ribelle
+sanguigno
+sensibile
+temperamento
+violenza

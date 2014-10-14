@@ -1,0 +1,4 @@
+campagnolo
+contadino
+passero
+provinciale

@@ -74,3 +74,40 @@ M>fiore delicatamente profumato</E
 M>colori delicatamente sfumati</E
 M>posare delicatamente un oggetto fragile</E
 M>si è comportato poco delicatamente nei suoi confronti</E
+aereo
+animo
+argomento
+attraversare
+buono
+carico
+colore
+delicato
+difficile
+discutere
+duro
+esile
+facile
+forte
+fragile
+gentile
+gusto
+imprudente
+incarico
+intervento
+invadente
+lieve
+passaggio
+profilo
+profumo
+ricamo
+rivestire
+salute
+sapore
+sbiadire
+sentire
+soffrire
+solido
+squisito
+stomaco
+svolgere
+tenero

@@ -1,2 +1,4 @@
 tendaggio.txt
 "tendaggio"
+tenda
+tendaggio

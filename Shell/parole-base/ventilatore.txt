@@ -12,3 +12,7 @@ M>soffianti</E
 M>compressore</E
 M>V. polmonare</E
 M>ventilatore</E
+mettere
+soffitto
+ventilatore
+vento

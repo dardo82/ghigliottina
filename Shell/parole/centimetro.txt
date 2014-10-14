@@ -1,0 +1,6 @@
+centimetro
+cubo
+doppio
+metro
+quadrato
+quadro

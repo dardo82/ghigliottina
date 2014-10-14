@@ -1,0 +1,8 @@
+casa
+clinica
+contagiare
+corsia
+manicomio
+ospedale
+ricoverare
+ricovero

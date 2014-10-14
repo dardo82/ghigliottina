@@ -10,3 +10,8 @@ M>ambulance</E
 M>carro d’a.</E
 M>chiamare l’a.</E
 M>telefonare per un’ambulanza</E
+ambulanza
+autoambulanza
+chiamare
+stretta
+vivo

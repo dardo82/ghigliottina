@@ -50,3 +50,18 @@ M>Cyphomandra betacea</E
 M>albero del pomodoro</E
 M>di mare</E
 M>Actinia equina</E
+bacca
+insalata
+lattuga
+maccherone
+naso
+panino
+pappa
+pasta
+pomodoro
+rosso
+salsa
+succo
+sugo
+uovo
+zuppa

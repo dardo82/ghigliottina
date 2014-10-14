@@ -4,3 +4,8 @@ sfogliare.txt
 "sfogliare, replace: sfogliarsi"
 "sfogliare, replace: sfogliarsi"
 "sfogliare le pagine"
+foglio
+libro
+margherita
+pagina
+sfogliare

@@ -2,3 +2,29 @@ profondità.txt
 #* '' il corpo esanime fu recuperato dalla 
 *[[altezza]], [[abisso]], [[profondo]], [[recesso]], [[voragine]], [[intensità]]
 *[[profondimetro]]
+altezza
+calibro
+carica
+corda
+corteccia
+dimensione
+fondo
+illusione
+intervista
+larghezza
+mancanza
+mare
+misurare
+misurazione
+passaggio
+penetrare
+profondo
+risuonare
+scrutare
+spazio
+spessore
+timone
+totale
+vanità
+vita
+vivere

@@ -22,3 +22,6 @@ M>lo slavo</E
 M>s. orientale</E
 M>s. occidentale</E
 M>s. meridionale</E
+articolo
+iugoslavo
+slavo

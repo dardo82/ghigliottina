@@ -7,3 +7,6 @@ M>t. di una partita di calcio</E
 M> di una seduta parlamentare</E
 M>t. diretta</E
 M>t. differita</E
+cronaca
+partita
+telecronaca

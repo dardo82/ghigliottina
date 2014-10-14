@@ -1,0 +1,8 @@
+allegro
+cosciente
+imprudente
+incosciente
+irresponsabile
+quadrato
+responsabile
+serio

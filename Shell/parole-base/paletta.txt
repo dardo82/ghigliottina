@@ -8,3 +8,6 @@ paletta.txt
 "paletta per dolci"
 "paletta per gelato"
 *Enciclopedia [http
+fuoco
+gelato
+paletta

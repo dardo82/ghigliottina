@@ -1,0 +1,7 @@
+affermazione
+consenso
+dimostrazione
+negazione
+punto
+riconoscimento
+rifiuto

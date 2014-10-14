@@ -2,3 +2,5 @@ autoambulanza.txt
 "Traduzione di autoambulanza/ non trovata.\nNo translation was found for autoambulanza/."
 M>auto-</E
 M>ambulanza</E
+autoambulanza
+chiamare

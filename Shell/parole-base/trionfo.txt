@@ -62,3 +62,22 @@ m>gioco dei tarocchi</e
 m>dei trionfi.</e
 m>Trionfo da tavola</e
 m>dopo ... aver raccomandato ... di far togliere subito dalla tavola il trionfino delle frutta</e
+affermazione
+arco
+battere
+bestia
+combattere
+completo
+democrazia
+errore
+fede
+fiasco
+naufragio
+portare
+ripetere
+riportare
+riuscita
+successo
+tavola
+trionfo
+vero

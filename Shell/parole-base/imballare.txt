@@ -2,3 +2,8 @@ imballare.txt
 "imballare"
 "imballare"
 "imballare in scatole"
+aprire
+avvolgere
+imballare
+merce
+vetro

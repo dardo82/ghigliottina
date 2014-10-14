@@ -2,3 +2,5 @@ stornello.txt
 "Traduzione di stornello/ non trovata.\nNo translation was found for stornello/."
 * ''(poesia )''forse dal provenzale ''[[estorn]]'' ossia [[tenzone]] [[poetica]] 
 *''(uccello)'' diminutivo  di [[storno]]
+fiore
+stornello

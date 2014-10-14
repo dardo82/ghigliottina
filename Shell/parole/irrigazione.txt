@@ -1,0 +1,6 @@
+canale
+fosso
+irrigazione
+opera
+pioggia
+sistema

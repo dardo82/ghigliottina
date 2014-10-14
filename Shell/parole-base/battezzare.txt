@@ -32,3 +32,5 @@ M>popolo battezzato</E
 M>gente battezzata</E
 M>vino battezzato</E
 M>vessillo Che contra battezzati combattesse</E
+battezzare
+nominare

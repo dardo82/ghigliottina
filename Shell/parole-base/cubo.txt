@@ -22,3 +22,25 @@ M>centimetro c</E
 M>cubico</E
 M>figura cuba</E
 M>radice cuba</E
+atmosfera
+bordo
+centimetro
+cubo
+dado
+di
+elevare
+forma
+incubo
+metro
+ossessione
+palmo
+penoso
+pensiero
+piede
+pollice
+potenza
+problema
+schiacciare
+sogno
+sotto
+volume

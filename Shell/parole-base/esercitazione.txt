@@ -29,3 +29,13 @@ M>con i posti di comando</E
 M>con le truppe</E
 M>aeronautiche</E
 M>navali</E
+allenamento
+campo
+esercitare
+esercitazione
+esercizio
+flauto
+militare
+pratica
+tema
+tiro

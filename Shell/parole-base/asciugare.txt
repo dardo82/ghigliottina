@@ -47,3 +47,26 @@ M>carta asciugante</E
 M>carta assorbente</E
 M>essiccatoio</E
 M>asciugatoio</E
+asciugacapelli
+asciugamano
+asciugare
+bagnare
+con
+distendere
+distesa
+fiasco
+il
+lacrima
+lasciare
+lavare
+macchia
+mettere
+molle
+prosciugare
+qualcosa
+ritirare
+senza
+sole
+stendere
+stirare
+tamponare

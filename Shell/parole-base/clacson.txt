@@ -7,3 +7,9 @@ clacson.txt
 "suonata di clacson"
 M>klaxon</E
 M>si era creato un ingorgo nel traffico e tutti gli automobilisti suonavano il clacson</E
+aria
+clacson
+colpo
+suonare
+suono
+tromba

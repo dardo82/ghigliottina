@@ -125,3 +125,25 @@ M>dovremmo avviarci all’alba per poter arrivare prima di sera</E
 M>di una vocale</E
 M>di una sillaba</E
 M>false maglie</E
+crepare
+crescere
+dimensione
+larghezza
+lunghezza
+misura
+misurare
+nave
+onda
+piede
+precisione
+prendere
+riguardo
+rimorchio
+rottura
+scirocco
+senso
+simbolo
+superare
+totale
+tutto
+vantaggio

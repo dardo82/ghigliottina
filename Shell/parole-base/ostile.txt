@@ -36,3 +36,20 @@ M>parlare</E
 M>guardare</E
 M>comportarsi ostilmente</E
 M>trattare ostilmente una persona</E
+amico
+amoroso
+avversario
+buono
+cattivo
+comprensivo
+critica
+facile
+negativo
+nemico
+no
+odiare
+ostile
+sguardo
+suono
+vedere
+verso

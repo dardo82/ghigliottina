@@ -8,3 +8,7 @@ coccio.txt
 *[[frammento]]
 *''(di crostaceo, lumaca)'' [[guscio]]
 *italiano
+coccio
+frammento
+pezzo
+recipiente

@@ -1,0 +1,6 @@
+casa
+ingresso
+inquilino
+palazzina
+palazzo
+portone

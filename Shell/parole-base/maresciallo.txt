@@ -31,3 +31,13 @@ M>classe</E
 M>1° maresciallo</E
 M>1° maresciallo luogotenente</E
 M>1° maresciallo</E
+aria
+arma
+bastone
+capo
+finanza
+generale
+maggiore
+maresciallo
+promuovere
+superiore

@@ -1,0 +1,3 @@
+autostop
+stop
+viaggiare

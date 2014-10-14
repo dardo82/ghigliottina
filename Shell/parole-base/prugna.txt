@@ -17,3 +17,5 @@ M>color</E
 M>prugna</E
 M>un cappotto color p</E
 M>quest&#8217;anno va molto il prugna</E
+prugna
+susina

@@ -57,3 +57,6 @@ M>ha la faccia scottata dal sole</E
 M>una fetta di carne appena scottata</E
 M>rimanere scottato da qualcuno</E
 M>da qualcosa</E
+biscotto
+bruciare
+scottare

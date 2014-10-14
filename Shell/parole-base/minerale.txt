@@ -19,3 +19,35 @@ minerale.txt
 "trasformare in minerale"
 "trasformato in minerale"
 #*''passami, per favore dell'acqua minerale'' 
+acqua
+argilla
+asfalto
+burro
+casuale
+catrame
+deposito
+descrivere
+essenziale
+ferro
+fluido
+fondamentale
+giallo
+imbottigliare
+minerale
+natura
+naturale
+olio
+organico
+petrolio
+purezza
+regno
+ricchezza
+ricco
+sale
+scavare
+sorgente
+tasca
+tenore
+trasformare
+vegetale
+veleno

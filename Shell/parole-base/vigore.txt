@@ -61,3 +61,34 @@ M>una legge che non è più in v</E
 M>il regolamento in v. non consente</E
 M>le norme in v. vietano</E
 M>la disposizione andrà in v. con l’inizio dell’anno venturo</E
+acquistare
+benessere
+corrente
+data
+entrare
+espressione
+fatica
+fiore
+fisico
+forza
+giovinezza
+immediato
+ingegno
+intellettuale
+legale
+messa
+mite
+ora
+partire
+pensiero
+pieno
+prendere
+produrre
+registro
+remare
+rimanere
+riprendere
+salute
+scadere
+vigilia
+vigore

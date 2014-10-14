@@ -29,3 +29,9 @@ M>è un grande avvocato</E
 M> e non si è smentito neppure in questa causa</E
 M>quell&#8217;opportunista non si è smentito neppure in questa occasione</E
 M>tu non ti smentisci mai</E
+accusa
+confermare
+confessare
+escludere
+mentire
+smentire

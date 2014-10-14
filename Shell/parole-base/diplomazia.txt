@@ -13,3 +13,6 @@ M>usare d</E
 M>agire</E
 M>parlare</E
 M>procedere con diplomazia</E
+consolare
+diplomazia
+venire

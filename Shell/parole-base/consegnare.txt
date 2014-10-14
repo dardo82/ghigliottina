@@ -36,3 +36,33 @@ M>gli consegnò una pedata negli stinchi</E
 M>la truppa</E
 M>i soldati consegnati</E
 M>fare l’appello dei consegnati</E
+affidare
+boia
+brutto
+cedere
+consegna
+consegnare
+cucito
+favorire
+giustizia
+incarico
+lasciare
+lavoro
+memoria
+messaggio
+ostaggio
+portare
+premio
+raccomandare
+rata
+rendere
+riconsegnare
+rimettere
+ritenere
+ritirare
+spiacere
+telegramma
+trasmettere
+usare
+vendetta
+violenza

@@ -3,3 +3,7 @@ murare.txt
 "murare"
 "murare"
 "murare"
+chiudere
+murare
+muro
+secco

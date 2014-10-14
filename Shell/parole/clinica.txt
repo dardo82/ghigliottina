@@ -1,0 +1,15 @@
+cartella
+chimica
+clinica
+curare
+direttore
+medicina
+morte
+muto
+ospedale
+prova
+psicologia
+ricoverare
+ricovero
+uscire
+visitatore

@@ -27,3 +27,34 @@ volpe.txt
 * ''furbo come una '''volpe''''' 
 * ''avere bevuto latte di '''volpe''''', o ''mangiare pane e '''volpe''''' 
 *Enciclopedia [http
+abbaiare
+accennare
+astuto
+caccia
+cattura
+cervo
+ciliegio
+coniglio
+conoscere
+favola
+femmina
+furbo
+ladro
+lettera
+madama
+mangiare
+pane
+pavone
+pelliccia
+rintracciare
+rosso
+scemo
+scoiattolo
+simbolo
+stanare
+stretta
+sveglio
+tagliola
+uva
+vecchio
+volpe

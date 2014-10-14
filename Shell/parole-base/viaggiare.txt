@@ -72,3 +72,37 @@ M>i suoi pensieri viaggiavano veloci perdendosi nelle fantasie più strane.</E
 M>personale viaggiante</E
 M>personale non viaggiante</E
 M>merce viaggiante</E
+aereo
+attraverso
+autobus
+automobile
+autostop
+autostrada
+baule
+cavallo
+classe
+costringere
+denaro
+discrezione
+eccessivo
+economico
+estero
+fantasia
+ferrovia
+filare
+insieme
+luogo
+massimo
+nave
+ordinario
+passaporto
+per
+problema
+sopra
+spazio
+spesa
+stanco
+stesso
+viaggiare
+viaggio
+visitare

@@ -52,3 +52,35 @@ M>intercambiabile</E
 M>Borea allor che scote il dorso De l’Apennino</E
 M>l’isole che col selvoso dorso Rompono agli Euri e al grande Ionio il corso</E
 M>roccioso</E
+ala
+asino
+battere
+bianco
+costa
+dorsale
+dorso
+dosso
+guanto
+libro
+mano
+margine
+mulo
+naso
+nero
+nuotare
+nuoto
+palma
+peloso
+penoso
+petto
+ponte
+rosso
+schiena
+seno
+spalla
+specialista
+tempo
+trasportare
+trasporto
+ventre
+verde

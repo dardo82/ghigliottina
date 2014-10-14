@@ -1,0 +1,9 @@
+cotone
+pollice
+quadrato
+ramo
+stabilimento
+telaio
+tessile
+tessuto
+vetro

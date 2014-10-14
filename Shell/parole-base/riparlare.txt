@@ -15,3 +15,5 @@ M>ne riparleremo stasera!</E
 M>riparlarsi</E
 M>dopo tanto tempo</E
 M>ieri si sono riparlati</E
+boccia
+riparlare

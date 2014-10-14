@@ -125,3 +125,30 @@ M>pneumotorace ipertensivo</E
 M>stenosi bronchiali a valvola</E
 M>v. a senso unico</E
 M>valvola di prua</E
+ago
+aspirazione
+chiusura
+comando
+coperchio
+corpo
+espansione
+farfalla
+fuga
+fungo
+leva
+molla
+per
+pneumatico
+pressione
+ritorno
+rubinetto
+saltare
+scarico
+sfera
+sfogo
+sicurezza
+solare
+spillo
+tenere
+valvola
+vizio

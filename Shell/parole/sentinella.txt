@@ -1,0 +1,13 @@
+grido
+guardia
+montare
+pattuglia
+piantare
+porre
+rilevare
+saluto
+scattare
+sentinella
+servizio
+smontare
+stare

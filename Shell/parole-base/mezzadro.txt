@@ -1,3 +1,5 @@
 mezzadro.txt
 "mezzadro"
 m>mediator</e
+contadino
+mezzadro

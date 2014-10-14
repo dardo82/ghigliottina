@@ -3,3 +3,15 @@ sfoglia.txt
 "pasta sfoglia"
 "paste danesi (di pasta sfoglia)"
 "sfoglia"
+foglio
+libro
+margherita
+pagina
+pasta
+riguardo
+sfoglia
+sfogliare
+sguardo
+strato
+striscia
+tirare

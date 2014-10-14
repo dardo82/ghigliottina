@@ -1,3 +1,9 @@
 palazzina.txt
 "palazzina"
 M>palazzo</E
+casa
+ingresso
+inquilino
+palazzina
+palazzo
+portone

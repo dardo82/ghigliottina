@@ -10,3 +10,9 @@ sirena.txt
 *[[strega]], [[mefgera]] 
 * [[melusina]]
 * [[serena]]
+nebbia
+pompiere
+segnalare
+sirena
+suono
+urlo

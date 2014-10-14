@@ -1,3 +1,6 @@
 mattiniero.txt
 "mattiniero"
 M>come mai oggi sei così mattiniero?</E
+mattina
+mattiniero
+mattino

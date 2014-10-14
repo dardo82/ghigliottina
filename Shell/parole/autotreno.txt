@@ -1,0 +1,7 @@
+autotreno
+manovrare
+rimorchio
+scaricare
+sfondare
+sorpassare
+tamponare

@@ -19,3 +19,8 @@ M>t. a torretta</E
 M>t. spogliatore</E
 M>ruota</E
 M>da vasaio</E
+automatico
+banco
+lavorare
+spogliare
+tornio

@@ -2,3 +2,10 @@ sterzo.txt
 "piantone dello sterzo"
 "sterzo"
 *[[cremagliera]], [[volante]], [[manubrio]]
+bloccare
+frenare
+rispondere
+rottura
+scatola
+sterzo
+ubbidienza

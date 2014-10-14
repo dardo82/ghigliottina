@@ -4,3 +4,9 @@ lavoratrice.txt
 "lavoratrice"
 "lavoratrice"
 "membro della classe lavoratrice"
+classe
+lavoratore
+lavoratrice
+lavoro
+membro
+serva

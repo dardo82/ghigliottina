@@ -34,3 +34,13 @@ M>t. a rovesciamento.</E
 M>la borsa è il t. della situazione economica</E
 M>l&#8217;aumento della delinquenza è spesso il t. di una crisi sociale.</E
 M>t. geologici</E
+cottura
+forno
+grado
+meno
+metro
+prontezza
+salire
+termometro
+vero
+zero

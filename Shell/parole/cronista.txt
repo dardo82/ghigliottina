@@ -1,0 +1,4 @@
+cronista
+giornalista
+radio
+telecronista

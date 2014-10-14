@@ -4,3 +4,5 @@ birillo.txt
 "il birillo in cima a tutti gli altri (bowling)"
 *''(nel biliardo)'' [[ometto]]
 M>prillare</E
+birillo
+cima

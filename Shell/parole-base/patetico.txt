@@ -42,3 +42,5 @@ M>trocleare</E
 M>recitare</E
 M>declamare pateticamente</E
 M>atteggiarsi pateticamente a vittima</E
+patetico
+penoso

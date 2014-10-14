@@ -35,3 +35,17 @@ M>Chelone mydas</E
 M>brodo</E
 M>zuppa di tartaruga.</E
 M>colore t.</E
+argomento
+dolce
+finta
+gigante
+guscio
+lampo
+lento
+marina
+occhiali
+pigrizia
+spilla
+tartaruga
+verde
+zuppa

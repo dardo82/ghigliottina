@@ -46,3 +46,20 @@ M>elettrica</E
 M>di trasformazione</E
 M>di sezionamento</E
 M>di smistamento</E
+armadio
+blocco
+cabina
+capanna
+classe
+doccia
+elettorale
+lancio
+manovra
+parete
+piazza
+posto
+primo
+registrazione
+singolo
+telefonico
+vomito

@@ -35,3 +35,9 @@ M>tovaglia</E
 M>tenda</E
 M>sciarpa ricamata</E
 M>velo ricamato in argento</E
+cifra
+croce
+cucire
+mano
+ricamare
+ricamo

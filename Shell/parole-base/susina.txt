@@ -5,3 +5,6 @@ susina.txt
 *[[ciliegia-susina]], [[slivoviz]], [[susino]]
 M>prugna</E
 M>slivoviz</E
+osso
+prugna
+susina

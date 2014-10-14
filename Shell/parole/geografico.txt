@@ -1,0 +1,9 @@
+dizionario
+geografico
+isolamento
+meridiano
+nord
+paesaggio
+piazza
+posto
+vento

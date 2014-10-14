@@ -5,3 +5,10 @@ M>un armadio a tre s.</E
 M>a tre scomparti</E
 M>s. di prima</E
 M>di seconda classe</E
+angolo
+largo
+reparto
+scompartimento
+singolo
+viaggiatore
+vuoto

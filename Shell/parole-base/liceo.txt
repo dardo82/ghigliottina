@@ -9,3 +9,27 @@ liceo.txt
 "liceo paritario"
 "liceo scientifico"
 *[[liceale]]
+ammettere
+anno
+artistico
+cemento
+classico
+da
+greco
+insegnare
+liceo
+musicale
+o
+passaggio
+preside
+professore
+programma
+promozione
+quarto
+quinto
+scientifico
+scuola
+sede
+studente
+studiare
+trasferire

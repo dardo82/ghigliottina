@@ -46,3 +46,27 @@ M>erede istituito</E
 M>l’istituito</E
 M>erede sostituito</E
 M>fedecommissario</E
+abolire
+aprire
+cattedra
+costituire
+erede
+fascia
+festa
+fondare
+formare
+imporre
+istituire
+istituto
+legale
+numero
+nuovo
+ordine
+organizzare
+parallelo
+premio
+procedimento
+promuovere
+religione
+speciale
+stabilire

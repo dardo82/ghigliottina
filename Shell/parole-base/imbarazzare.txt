@@ -28,3 +28,7 @@ M>sentirsi</E
 M>mostrarsi imbarazzato</E
 M>avere lo stomaco imbarazzato</E
 M>essere imbarazzato di stomaco</E
+disturbare
+imbarazzare
+imbarazzo
+interrompere

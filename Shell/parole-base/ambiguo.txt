@@ -34,3 +34,16 @@ M>nucleo a</E
 M>rispondere ambiguamente</E
 M>comportarsi</E
 M>agire ambiguamente</E
+ambiguo
+confuso
+dubbio
+elastico
+equivoco
+esplicito
+linguaggio
+misterioso
+preciso
+scivolare
+senso
+sospetto
+strano

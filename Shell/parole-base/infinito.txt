@@ -92,3 +92,37 @@ M>descrittivo</E
 M>Accusativo con l’i</E
 M>modi i</E
 M>indefiniti</E
+amore
+azzurro
+campione
+concludere
+confine
+continuare
+costruire
+difesa
+discutere
+ente
+futuro
+immenso
+infinito
+insieme
+interminabile
+limite
+lungo
+moltiplicare
+passato
+passivo
+pensare
+potere
+pregare
+probabile
+procedere
+proprio
+reggere
+seguito
+spazio
+storico
+tendere
+trascinare
+universo
+uscita

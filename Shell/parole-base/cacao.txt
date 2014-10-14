@@ -27,3 +27,12 @@ M>in polvere</E
 M>cioccolata</E
 M>Burro di c</E
 M>Rosso di c</E
+amaro
+burro
+cacao
+cioccolato
+crema
+marrone
+pianta
+polvere
+seme

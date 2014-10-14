@@ -8,3 +8,12 @@ granturco.txt
 M>grano</E
 M>turco</E
 M>mais</E
+campo
+farina
+grano
+granturco
+pannocchia
+prendere
+produzione
+seminare
+spiga

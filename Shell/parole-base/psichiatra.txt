@@ -5,3 +5,4 @@ psichiatra.txt
 *[[psichiatria]]
 M>psico</E
 M>iatra</E
+psichiatra

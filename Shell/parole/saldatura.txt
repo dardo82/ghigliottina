@@ -1,0 +1,6 @@
+arco
+gas
+presa
+riserva
+saldare
+saldatura

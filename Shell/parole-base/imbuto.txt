@@ -16,3 +16,6 @@ M>restringersi a imbuto</E
 M>eruttivo</E
 M>diamantifero</E
 M>camino diamantifero</E
+forma
+imbuto
+ragnatela

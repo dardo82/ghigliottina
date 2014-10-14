@@ -1,3 +1,4 @@
 potentino.txt
 "Traduzione di potentino/ non trovata.\nNo translation was found for potentino/."
 M>il Potentino</E
+potentino

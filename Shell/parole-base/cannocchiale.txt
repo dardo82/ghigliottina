@@ -18,3 +18,12 @@ M>a quel tempo io un biglietto da cento euro non lo avevo mai visto</E
 M>neanche col c</E
 M>non c’era un albergo in quella zona</E
 M>neppure a cercarlo col cannocchiale</E
+campo
+cannocchiale
+fucile
+fuoco
+ingrandire
+osservare
+portata
+potente
+servire

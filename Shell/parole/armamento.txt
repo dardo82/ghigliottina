@@ -1,0 +1,8 @@
+arma
+armamento
+capitano
+corsa
+elicottero
+passare
+posizione
+tabella

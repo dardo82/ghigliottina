@@ -5,3 +5,11 @@ M>nave</E
 M>corazzata</E
 M>nave da battaglia</E
 M>tascabile</E
+camera
+cintura
+corazza
+corazzata
+fianco
+nave
+tesoro
+zattera

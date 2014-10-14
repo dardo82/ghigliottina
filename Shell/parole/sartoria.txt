@@ -1,0 +1,6 @@
+banco
+cucito
+laboratorio
+sartoria
+scavo
+vestire

@@ -4,3 +4,8 @@ prestigiatore.txt
 M>-trice</E
 M>praestigiator -oris</E
 M>praestigia</E
+apparire
+diavolo
+mago
+prestigiatore
+prestigio

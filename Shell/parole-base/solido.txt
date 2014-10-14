@@ -10,3 +10,39 @@ solido.txt
 *(di rapporto) [[superficiale]], [[vuoto]]
 *[[semisolido]], [[in solido]], [[solidare]],[[solidità]],[[solidamente]], [[solidismo]], [[solidale]], 
 * [[liquido]], [[gassoso]],  [[gas]]
+aereo
+angolo
+centro
+colore
+concreto
+corpo
+cubo
+determinare
+duro
+fisso
+fluido
+forte
+frazione
+gas
+gelato
+gelo
+generazione
+intenso
+liquido
+massiccio
+obbligare
+passare
+poco
+profumo
+quadrato
+ragazzo
+risolvere
+rivoluzione
+robusto
+rotondo
+saldo
+solido
+stato
+stufa
+terreno
+verde

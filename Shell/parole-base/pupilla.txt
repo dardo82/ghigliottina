@@ -2,3 +2,8 @@ pupilla.txt
 "pupilla"
 "pupilla di uscita"
 *''Essere la pupilla degli occhi di qualcuno''
+finestra
+occhio
+pupilla
+restringere
+uscita

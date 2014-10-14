@@ -24,3 +24,23 @@ M>fare accoglienza</E
 M>fare buona a</E
 M>a una tratta</E
 M>centro di a.</E
+accoglienza
+asilo
+aspettare
+brutto
+buono
+centro
+cortese
+cultura
+entusiasta
+familiare
+freddo
+gola
+impicciare
+incoraggiare
+ospitalità
+pessimo
+rassicurare
+ricevimento
+scortese
+tiepido

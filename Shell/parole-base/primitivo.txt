@@ -4,3 +4,16 @@ primitivo.txt
 "primitivo"
 "primitivo"
 "primitivo"
+antico
+barbaro
+civile
+elementare
+labbro
+originario
+primitivo
+primo
+prurito
+riprendere
+selvaggio
+selvatico
+uomo

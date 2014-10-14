@@ -9,3 +9,5 @@ M>jaguar</E
 M>Panthera onca</E
 M>amico del g</E
 M>ma sei amico mio o del giaguaro?</E
+amico
+giaguaro

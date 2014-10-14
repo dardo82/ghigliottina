@@ -3,3 +3,7 @@ austriaco.txt
 "austriaco"
 M>territorî</E
 M>villaggi a</E
+accordo
+austriaco
+martello
+pino

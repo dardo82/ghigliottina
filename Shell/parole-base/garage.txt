@@ -12,3 +12,9 @@ garage.txt
 M>garage</E
 M>aràa</E
 M>garer</E
+garage
+pavimento
+prigioniero
+pullman
+solito
+vendita

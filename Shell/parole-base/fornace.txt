@@ -16,3 +16,8 @@ M>forno</E
 M>sembrava d’essere in una f</E
 M>d’estate</E
 M>queste stanze diventano una fornace</E
+attivo
+fornace
+gas
+gola
+olio

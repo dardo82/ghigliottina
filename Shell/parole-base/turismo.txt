@@ -62,3 +62,26 @@ M>turismo</E
 M>t. di serie</E
 M>t. speciale</E
 M>gran t.</E
+aereo
+azienda
+bicicletta
+centro
+condizione
+cultura
+da
+economia
+geografia
+industria
+istituto
+massa
+motocicletta
+natura
+ripresa
+sovversivo
+sviluppare
+sviluppo
+tecnico
+turismo
+turistico
+veicolo
+viaggiare

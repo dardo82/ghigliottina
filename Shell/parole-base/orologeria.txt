@@ -9,3 +9,8 @@ M>svizzera</E
 M>congegno a o</E
 M>mina</E
 M> bomba a orologeria</E
+bomba
+laboratorio
+meccanismo
+orologeria
+orologio

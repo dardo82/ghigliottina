@@ -1,0 +1,10 @@
+divisa
+fermare
+palo
+portiere
+richiudere
+rimettere
+salvare
+servizio
+sorveglianza
+uscita

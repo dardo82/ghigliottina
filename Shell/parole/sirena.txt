@@ -1,0 +1,6 @@
+nebbia
+pompiere
+segnalare
+sirena
+suono
+urlo

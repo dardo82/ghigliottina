@@ -4,3 +4,36 @@ camice.txt
 "camice bianco"
 M>camicia</E
 M>c. bianchi</E
+adagiare
+alba
+albicocca
+aragosta
+bianco
+bottone
+camice
+camicia
+carne
+fragola
+giallo
+macchiare
+nocciola
+nudo
+pavone
+petrolio
+pisello
+pistacchio
+plurale
+profumare
+quale
+ricamare
+rivestire
+rosa
+sbiadire
+smarrire
+sotto
+spalla
+tagliare
+taglio
+uscire
+veste
+zucchero

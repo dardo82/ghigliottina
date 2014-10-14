@@ -12,3 +12,6 @@ M>essere in c</E
 M>andare in cesta</E
 M>cesta</E
 M>cesto</E
+cesta
+cesto
+frutta

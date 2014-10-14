@@ -21,3 +21,9 @@ M>spacciare</E
 M>prendere una cosa per contante</E
 M>vendita a contanti</E
 M>contanti a giorni</E
+contante
+denaro
+liquido
+moneta
+scontare
+sconto

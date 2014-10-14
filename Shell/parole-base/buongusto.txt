@@ -5,3 +5,4 @@ buongusto.txt
 M>avere</E
 M>mostrare b.</E
 M>casa arredata con molto buon gusto</E
+buongusto

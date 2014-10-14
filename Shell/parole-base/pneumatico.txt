@@ -16,3 +16,20 @@ pneumatico.txt
 *(di copertura) a pallone
 *[[ruota]], [[gomma]], camera d’aria, [[copertone]]
 *[[ruota]]
+articolo
+cuscino
+fucile
+gomma
+martello
+materasso
+piccone
+pneumatico
+polmone
+riparazione
+ruota
+scalpello
+scoppio
+trasporto
+uomo
+valvola
+vuoto

@@ -56,3 +56,33 @@ M>la vettura</E
 M>libertà controllata</E
 M>società controllate</E
 M>persona controllata</E
+bilancio
+catena
+controllare
+controllo
+controllore
+dirigere
+domare
+dominare
+due
+esaminare
+frenare
+guardare
+guidare
+ipotesi
+meccanica
+nervo
+occhio
+pena
+piombo
+pressione
+provare
+reggere
+regolare
+risparmiare
+tenere
+tornare
+valore
+verificare
+violenza
+visitare

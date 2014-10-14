@@ -20,3 +20,16 @@ M>costiero</E
 M>di confluenza</E
 M>valli sospese</E
 M>di selezione</E
+alto
+attenzione
+gradino
+grado
+primo
+rotolare
+scalino
+segnale
+tacca
+tempo
+ultimo
+valle
+valvola

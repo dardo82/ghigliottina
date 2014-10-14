@@ -64,3 +64,33 @@ M>la legge non considera quest’eventualità</E
 M>il codice considera anche il caso che</E
 M>considerato che</E
 M>tutto considerato</E
+affetto
+agitare
+analisi
+animo
+burattino
+calcolare
+carne
+considerare
+considerazione
+desiderare
+dire
+distacco
+escludere
+fallimento
+guardare
+importante
+irresponsabile
+legale
+obbligatorio
+opportuno
+particolare
+prevedere
+razionale
+ritenere
+sopravvenire
+sottile
+stimare
+tipo
+togliere
+trattare

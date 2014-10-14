@@ -3,3 +3,13 @@ catturare.txt
 "catturare"
 "catturare (persona)"
 M>quell’attore ha un tono di voce che cattura l’attenzione degli spettatori</E
+acchiappare
+arrestare
+cacciare
+catturare
+disarmare
+evadere
+mangiare
+persona
+trappola
+vivo

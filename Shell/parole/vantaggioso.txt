@@ -1,0 +1,14 @@
+acquisto
+buono
+cattivo
+comodo
+economico
+favorevole
+inutile
+meno
+offrire
+patto
+presentare
+senso
+utile
+vantaggioso

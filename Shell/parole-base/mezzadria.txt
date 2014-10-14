@@ -3,3 +3,5 @@ mezzadria.txt
 M>condurre</E
 M>dare</E
 M>avere un podere a mezzadria</E
+mezzadria
+tenere

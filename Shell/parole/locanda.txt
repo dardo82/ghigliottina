@@ -1,0 +1,10 @@
+albergo
+dove
+insegna
+locale
+locanda
+osteria
+qualunque
+ristorante
+scadere
+servizio

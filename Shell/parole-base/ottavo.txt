@@ -35,3 +35,13 @@ M>giustina</E
 M>ottavi di finale</E
 M>gli ottavi</E
 M>ottavo</E
+decimo
+libro
+litro
+nota
+ottavo
+otto
+pausa
+quarto
+settimo
+volume

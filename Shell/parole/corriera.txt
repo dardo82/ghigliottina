@@ -1,0 +1,10 @@
+autobus
+bagagliaio
+corriera
+diligenza
+partenza
+postale
+pullman
+ritardare
+ritardo
+stazione

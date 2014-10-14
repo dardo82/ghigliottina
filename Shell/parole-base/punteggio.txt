@@ -13,3 +13,13 @@ punteggio.txt
 * ''(in una gara)''
 * ''(in un esame)''
 * [[punto]]
+assegnare
+attribuire
+pareggiare
+per
+punteggio
+punto
+sistema
+superiore
+votazione
+voto

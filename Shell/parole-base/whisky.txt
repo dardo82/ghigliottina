@@ -13,3 +13,7 @@ whisky.txt
 "Scotch whisky"
 *[http
 *[http
+doppio
+scozzese
+spugna
+whisky

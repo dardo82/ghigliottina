@@ -8,3 +8,11 @@ M>le rimanenze</E
 M>di cassa</E
 M>di magazzino</E
 M>d&#8217;esercizio</E
+avanzo
+differenza
+fondo
+magazzino
+residuo
+rimanenza
+rimanere
+saldo

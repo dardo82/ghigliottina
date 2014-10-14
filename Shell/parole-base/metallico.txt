@@ -76,3 +76,26 @@ M>grigio</E
 M>azzurro metallico</E
 M>lo strumento vibrò metallicamente</E
 M>la luce sul mare si rifletteva metallicamente e s’irrigidiva</E
+assorbente
+blu
+colore
+elemento
+filo
+legno
+metallico
+metallo
+mosca
+nastro
+oggetto
+oro
+ponte
+quasi
+rigirare
+rumore
+sistema
+spilla
+suono
+timbro
+tirare
+verde
+vetro

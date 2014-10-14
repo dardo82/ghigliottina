@@ -10,3 +10,8 @@ impaziente.txt
 *[[calmo]], [[sereno]], [[tranquillo]], [[equilibrato]]
 *[[paziente]], [[tollerante]]
 *[[freddo]], [[distaccato]]
+buono
+impaziente
+impazienza
+paziente
+troppo

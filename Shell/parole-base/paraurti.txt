@@ -4,3 +4,7 @@ paraurti.txt
 "paraurti"
 M>para</E
 M>urto</E
+il
+paraurti
+per
+posteriore

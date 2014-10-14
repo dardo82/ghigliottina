@@ -2,3 +2,19 @@ località.txt
 *[http
 *[http
 * La Rizzoli Larousse, ''[http
+allacciare
+area
+cintura
+cura
+determinare
+inventare
+luogo
+pensione
+piazza
+posto
+segnale
+soggiorno
+stazione
+tipo
+turistico
+villeggiatura

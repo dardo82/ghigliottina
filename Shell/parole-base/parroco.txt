@@ -11,3 +11,9 @@ M>chi</E
 M>Quasi</E
 M>parroco</E
 M>quasi-parrocchia</E
+battesimo
+confessare
+paese
+parrocchia
+parroco
+sposare

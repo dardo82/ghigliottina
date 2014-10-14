@@ -1,0 +1,9 @@
+buono
+cafone
+cattivo
+cortese
+delicato
+gentile
+maleducato
+riprendere
+sgarbato

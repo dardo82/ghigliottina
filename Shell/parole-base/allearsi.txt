@@ -3,3 +3,8 @@ allearsi.txt
 "allearsi con"
 "far comunella; allearsi"
 "far comunella; allearsi contro qcn."
+allearsi
+alleato
+con
+contro
+straniero

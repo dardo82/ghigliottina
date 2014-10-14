@@ -1,3 +1,6 @@
 coccinella.txt
 "coccinella"
 "coccinella, guida, scolta"
+coccinella
+cocco
+guida

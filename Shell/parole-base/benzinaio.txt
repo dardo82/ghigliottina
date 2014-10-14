@@ -3,3 +3,5 @@ benzinaio.txt
 *italiano
 M>fare benzina</E
 M>benzinaro</E
+benzina
+benzinaio

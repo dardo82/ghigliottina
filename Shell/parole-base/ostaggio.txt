@@ -20,3 +20,5 @@ M>tenere qualcuno in ostaggio</E
 M>come ostaggio</E
 M>rilasciare un o</E
 M>gli ostaggi</E
+ostaggio
+tenere

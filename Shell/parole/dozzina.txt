@@ -1,0 +1,17 @@
+banale
+barbaro
+buono
+comune
+corrente
+dozzina
+eccellente
+mediocre
+meno
+ordinario
+pensione
+pregiato
+prendere
+profumo
+scherzo
+tanto
+tenere

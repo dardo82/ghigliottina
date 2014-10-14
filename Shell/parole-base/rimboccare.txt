@@ -13,3 +13,7 @@ M>rimboccarsi le maniche</E
 M>rimbocco</E
 M>rabboccare</E
 M>avere le maniche rimboccate</E
+azione
+lenzuolo
+relativo
+rimboccare

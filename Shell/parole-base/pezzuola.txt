@@ -2,3 +2,5 @@ pezzuola.txt
 "Traduzione di pezzuola/ non trovata.\nNo translation was found for pezzuola/."
 M>pezza</E
 M>fazzoletto</E
+pezza
+pezzuola

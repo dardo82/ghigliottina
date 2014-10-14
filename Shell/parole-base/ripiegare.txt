@@ -39,3 +39,18 @@ M>gambe ripiegate</E
 M>cammina tutto ripiegato</E
 M>reclinato</E
 M>prefogliazione ripiegata</E
+angolo
+avanzare
+bandiera
+chiudere
+indietreggiare
+insegna
+margine
+piegare
+posizione
+ripiegare
+spezzare
+spiegare
+stendere
+svolgere
+triangolo

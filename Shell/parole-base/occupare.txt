@@ -89,3 +89,35 @@ M>mi sono occupato io di trovare i mezzi adatti</E
 M>nessuno ti ha detto di occupartene</E
 M>òccupati dei fatti tuoi!</E
 M>io non me ne occupo</E
+abitare
+abitazione
+affliggere
+agitare
+allarmare
+appartenere
+camminare
+carica
+conquistare
+coprire
+impiegare
+luogo
+mettere
+occupare
+occupato
+occupazione
+opposizione
+pensare
+posizione
+prenotare
+preoccupare
+preoccupazione
+primo
+rimediare
+riprendere
+sciame
+scottare
+sorpassare
+sorpresa
+tanto
+trattare
+turbare

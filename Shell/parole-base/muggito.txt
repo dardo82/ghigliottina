@@ -16,3 +16,7 @@ M>del vento</E
 M>del tuono</E
 M>il m</E
 M>del mare in tempesta</E
+mare
+muggito
+ozio
+ruggito

@@ -94,3 +94,34 @@ M>dissuasione n</E
 M>esperimenti n</E
 M>Medicina n</E
 M>il nucleare</E
+atomico
+bomba
+centrale
+chimica
+difesa
+energia
+esplosione
+esplosivo
+famiglia
+fisico
+forno
+forza
+frammento
+guerra
+ingegnere
+lastra
+meccanismo
+medicina
+non
+nucleare
+padre
+pane
+pila
+radiazione
+reazione
+rischio
+sottomarino
+studio
+succo
+vigilare
+voce

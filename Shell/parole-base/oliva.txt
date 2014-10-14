@@ -44,3 +44,19 @@ M>superiore</E
 M>un panno verde o</E
 M>un golfino o</E
 M>un bel tono di oliva</E
+colore
+generico
+grigio
+indebolire
+inferiore
+lattina
+lettore
+logica
+mescolare
+olio
+oliva
+pelle
+uccello
+verde
+vergine
+vivace

@@ -28,3 +28,23 @@ M>il bilancio è stato approvato</E
 M>la commissione d’esame lo approvò in tutte le materie</E
 M>i candidati approvati sono 24</E
 M> i respinti 5</E
+applaudire
+approvare
+bilancio
+condividere
+contrastare
+coscienza
+criticare
+detestare
+forzare
+giudizio
+legge
+ordine
+procedimento
+proposta
+protestare
+reclamare
+respingere
+smentire
+spingere
+stare

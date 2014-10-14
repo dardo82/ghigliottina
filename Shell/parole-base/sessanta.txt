@@ -25,3 +25,7 @@ M>sessantadue</E
 M>sessantamila</E
 M>centosessanta</E
 M>duecentosessanta</E
+altro
+cento
+sessanta
+settanta

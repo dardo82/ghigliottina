@@ -44,3 +44,6 @@ M>una serpe velenosa</E
 M>mi è parsa velenosetta la sua risposta</E
 M>una frase</E
 M>una critica velenosamente denigratoria</E
+serpente
+veleno
+velenoso

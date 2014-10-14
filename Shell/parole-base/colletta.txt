@@ -18,3 +18,7 @@ M>di mare</E
 M>di terra</E
 M>caricare a colletta</E
 M>noleggio a colletta</E
+colletta
+colletto
+per
+raccolta

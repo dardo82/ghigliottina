@@ -3,3 +3,4 @@ panetteria.txt
 *[[panificio]]
 *italiano
 *inglese
+panetteria

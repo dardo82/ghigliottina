@@ -12,3 +12,7 @@ M>a un imputato</E
 M>a un condannato</E
 M>a un reato</E
 M>a una categoria di reati</E
+amnistia
+occasione
+scarcerare
+scontare

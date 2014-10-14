@@ -3,3 +3,8 @@ garza.txt
 "garza di cotone"
 *italiano
 *spagnolo
+cotone
+fascia
+garza
+pezza
+premere

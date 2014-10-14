@@ -44,3 +44,20 @@ M>tessuti di protezione</E
 M>tegumentali</E
 M>epitelî di r</E
 M> mezzo r</E
+diamante
+extra
+gomma
+guscio
+legno
+materiale
+morbido
+opaco
+pavimento
+peloso
+per
+pietra
+rame
+rivestimento
+scudo
+serpente
+uguale

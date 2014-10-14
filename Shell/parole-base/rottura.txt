@@ -82,3 +82,22 @@ M>uno spettacolo di rottura</E
 M>delle relazioni diplomatiche</E
 M>del tempo</E
 M>dei tempi</E
+acqua
+carico
+danno
+fatica
+fessura
+freno
+limite
+materiale
+pellicola
+promessa
+resistenza
+rotta
+rottura
+separazione
+sfociare
+sintomo
+tamponare
+tradizione
+zuppa

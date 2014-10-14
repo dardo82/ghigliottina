@@ -5,3 +5,7 @@ bracciante.txt
 "bracciante agricolo"
 "bracciante agricolo"
 M>agricolo</E
+agricolo
+bracciante
+contadino
+giornaliero

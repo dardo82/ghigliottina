@@ -1,0 +1,9 @@
+angolo
+costruire
+estensione
+minore
+parallelepipedo
+rettangolo
+trapezio
+triangolo
+trovare

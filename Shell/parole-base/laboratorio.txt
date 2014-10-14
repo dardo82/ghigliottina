@@ -45,3 +45,25 @@ m>fotografico</e
 m>di sartoria</e
 m>artigiano</e
 m>di ebanisteria</e
+analisi
+assistente
+attrezzare
+attrezzatura
+corso
+esame
+esperienza
+esperimento
+fabbrica
+falegname
+laboratorio
+negozio
+processo
+prova
+regno
+ricerca
+stabilimento
+strumento
+studio
+tecnico
+traslocare
+trasloco

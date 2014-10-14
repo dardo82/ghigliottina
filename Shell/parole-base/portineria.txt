@@ -3,3 +3,5 @@ portineria.txt
 "portineria"
 "servizio di portineria"
 M>chiedere informazioni in portineria</E
+portineria
+servizio

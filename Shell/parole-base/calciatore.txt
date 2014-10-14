@@ -3,3 +3,13 @@ calciatore.txt
 "calciatore"
 *giocatore di calcio
 M>-trice</E
+artista
+calciatore
+dilettante
+formidabile
+professionista
+ruolo
+secondo
+soprattutto
+tenuta
+zolla

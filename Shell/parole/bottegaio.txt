@@ -1,0 +1,4 @@
+bottega
+bottegaio
+cliente
+negoziante

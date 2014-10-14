@@ -85,3 +85,45 @@ M>il porto</E
 M>la cima d’un monte</E
 M>il vento</E
 M>il sopravvento</E
+accorciare
+acquistare
+assai
+capire
+cento
+concludere
+conseguire
+cuore
+denaro
+distanza
+fiducia
+fiore
+fortuna
+gioco
+grasso
+grazia
+guadagnare
+guadagno
+lancio
+magro
+massimo
+meritare
+mestiere
+perdere
+prendere
+quale
+qualità
+quattrino
+quattro
+riprendere
+ripulire
+ritardo
+sacco
+sopravvivere
+strano
+tempo
+terreno
+tirare
+troppo
+vento
+vincere
+volenteroso

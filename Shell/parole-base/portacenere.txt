@@ -4,3 +4,6 @@ portacenere.txt
 M>portare</E
 M>cenere</E
 M>posacenere</E
+cenere
+portacenere
+posacenere

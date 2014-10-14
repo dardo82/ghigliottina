@@ -15,3 +15,35 @@ M>Valigia delle Indie</E
 M>Indian Mail</E
 M>valigette quarantott’ore</E
 M>ventiquattr’ore</E
+assalire
+bulgaro
+chinare
+collo
+diplomatico
+disfare
+frugare
+ladro
+manico
+occhio
+pelle
+pesare
+piombo
+portare
+posare
+prendere
+ricevere
+richiamare
+ricordo
+riempire
+riposare
+ritorno
+rovesciare
+rubare
+sbagliare
+sfondare
+spedizione
+urtare
+valigia
+viaggio
+vuotare
+vuoto

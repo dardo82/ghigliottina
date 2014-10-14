@@ -11,3 +11,6 @@ M> pompelmoose</E
 M>Citrus paradisi</E
 M>Citrus aurantium</E
 M>decumana</E
+pompelmo
+succo
+sugo

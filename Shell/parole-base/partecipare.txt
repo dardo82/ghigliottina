@@ -65,3 +65,42 @@ M>un segreto</E
 M>la nascita di un figlio</E
 M>la morte di un congiunto</E
 M>le nozze della propria figlia</E
+ascoltare
+attivo
+avanti
+azzurro
+causa
+comizio
+concorso
+condividere
+contribuire
+convegno
+conversazione
+elezione
+entrare
+esposizione
+festa
+forma
+gara
+giro
+impresa
+incontro
+intervenire
+lotteria
+lutto
+movimento
+partecipare
+passivo
+per
+portare
+ricevimento
+risposta
+riunione
+ruolo
+sciopero
+spingere
+sprofondare
+stare
+tesoro
+tuttavia
+volere

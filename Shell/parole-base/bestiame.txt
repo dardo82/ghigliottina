@@ -20,3 +20,31 @@ m>grosso</e
 m>minuto</e
 m>l&rsquo;allevamento del b</e
 m>governare il bestiame</e
+alimentazione
+allevamento
+bestiame
+capo
+carro
+cibo
+coda
+contadino
+cura
+fattoria
+furto
+libero
+mandria
+mangime
+mercato
+nutrire
+paglia
+pascolare
+pascolo
+recinto
+rubare
+salvare
+selezionare
+soffrire
+sopprimere
+tritare
+tutto
+vagone

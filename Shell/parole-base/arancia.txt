@@ -8,3 +8,16 @@ arancia.txt
 *''L'arancia la mattina è oro, a pranzo è argento, la sera è piombo'' 
 M>arancio</E
 M>arancio</E
+arancia
+aranciata
+buccia
+frutto
+lattina
+mela
+rinfrescare
+scorza
+seme
+spremere
+spremuta
+succo
+sugo

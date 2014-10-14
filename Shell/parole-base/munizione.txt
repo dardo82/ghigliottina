@@ -21,3 +21,5 @@ M>da bocca</E
 M>pane di munizione</E
 M>avere</E
 M>tenere in munizione</E
+cartuccia
+munizione

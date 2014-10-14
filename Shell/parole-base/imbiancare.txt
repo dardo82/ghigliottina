@@ -34,3 +34,6 @@ M>una persona</E
 M>sbiancante</E
 M>pareti imbiancate</E
 M>sepolcri imbiancati</E
+imbiancare
+muro
+parete

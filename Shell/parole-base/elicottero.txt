@@ -10,3 +10,11 @@ M>hélico</E
 M>ptère</E
 M>e. da attacco</E
 M>e. cannoniere</E
+aereo
+armamento
+atterrare
+elica
+elicottero
+medico
+metalmeccanico
+o

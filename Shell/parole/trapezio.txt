@@ -1,0 +1,4 @@
+acrobata
+esecuzione
+rettangolo
+trapezio

@@ -21,3 +21,6 @@ M>nominare</E
 M>mandare i p</E
 M>fare da p</E
 M>in un duello</E
+padre
+padrino
+secondo

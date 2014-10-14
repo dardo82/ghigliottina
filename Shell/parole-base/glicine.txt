@@ -1,2 +1,4 @@
 glicine.txt
 "glicine"
+consonante
+glicine

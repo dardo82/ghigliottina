@@ -4,3 +4,8 @@ M>capo</E
 M>squadra</E
 M>i capisquadra</E
 M>le caposquadra</E
+capitano
+caposquadra
+seguire
+sorvegliare
+tirare

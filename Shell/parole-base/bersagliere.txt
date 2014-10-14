@@ -15,3 +15,5 @@ M>alla bersagliera</E
 M>cappello alla bersagliera</E
 M>corsa alla bersagliera</E
 M>caccia alla bersagliera</E
+bersagliere
+bersaglio

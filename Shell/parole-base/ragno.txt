@@ -40,3 +40,15 @@ M>rosso</E
 M>Pesce ragno</E
 M>spigola</E
 M>rete</E
+battuta
+buco
+cavare
+doccia
+fiore
+gamba
+grandine
+pappagallo
+ragnatela
+ragno
+scimmia
+uomo

@@ -21,3 +21,12 @@ M>stile i</E
 M>intervenire inefficacemente</E
 "name": "Preponderante ma del tutto inefficace"
 "name": "Preponderante ma del tutto inefficace"
+buono
+efficace
+espressione
+inefficace
+inutile
+invano
+potente
+pratico
+vano

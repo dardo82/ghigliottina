@@ -12,3 +12,8 @@ M>a spade</E
 M>a bastoni</E
 M>a quattrini</E
 M>a denari</E
+bussare
+colpire
+insegnare
+martello
+su

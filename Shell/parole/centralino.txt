@@ -1,0 +1,5 @@
+automatico
+centralino
+interno
+passante
+telefonico

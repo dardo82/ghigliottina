@@ -17,3 +17,6 @@ M>attrezzato per affrontare i rigori dell’inverno</E
 M>per affrontare un pericolo</E
 M>verde attrezzato</E
 M>asse attrezzato</E
+attrezzare
+attrezzatura
+fornire

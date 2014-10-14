@@ -11,3 +11,4 @@ M>dialetti l</E
 M>il l</E
 M>basilicatese</E
 M>basilisco</E
+lucano

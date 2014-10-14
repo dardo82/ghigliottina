@@ -14,3 +14,5 @@ M>accettore</E
 M>donatore</E
 M>datore</E
 M>t. di sangue</E
+sangue
+trasfusione

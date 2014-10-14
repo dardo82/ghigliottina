@@ -25,3 +25,11 @@ M>di mare</E
 M>Hydrurga leptonyx</E
 M>legno leopardo</E
 M>legno serpente</E
+giaguaro
+leone
+leopardo
+macchia
+mantello
+pantera
+rana
+ruggire

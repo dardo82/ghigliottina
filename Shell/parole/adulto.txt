@@ -1,0 +1,7 @@
+adulto
+bambino
+maturo
+minorenne
+perfetto
+piccolo
+uomo

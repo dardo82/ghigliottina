@@ -15,3 +15,14 @@ M>giornalistica</E
 M>radiofonica</E
 M>televisiva</E
 M>individuale</E
+inchiesta
+indagine
+informazione
+interrogazione
+intervista
+lampo
+libro
+nome
+registrare
+terremoto
+vita

@@ -2,3 +2,6 @@ sterzare.txt
 "sterzare"
 "sterzare"
 "sterzare di colpo"
+colpo
+spirito
+sterzare

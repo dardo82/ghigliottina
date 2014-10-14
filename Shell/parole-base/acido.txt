@@ -107,3 +107,44 @@ acido.txt
 *[[dolce]], [[dolciastro]]
 * [[acidezza]], [[acidificare]], [[acidificazione]], [[acidimetria]], [[acidità]], [[acidosi]], [[acidulo]], [[acidume]]
 *Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p.&nbsp;24
+accumulatore
+acido
+ambiente
+aspro
+attaccare
+bagno
+batteria
+bruciare
+colorare
+composizione
+contatto
+debole
+essenziale
+fiore
+forte
+forza
+grasso
+idrogeno
+immergere
+impetuoso
+latte
+mite
+mordere
+negativo
+odorare
+orto
+osare
+pianta
+piombo
+presenza
+quieto
+risentire
+rodere
+sale
+sapore
+sentire
+sputare
+tendere
+vedovo
+vino
+vitamina

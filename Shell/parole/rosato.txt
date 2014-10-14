@@ -1,0 +1,7 @@
+classico
+legno
+miele
+raccolta
+riconoscere
+rosato
+vino

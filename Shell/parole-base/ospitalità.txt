@@ -3,3 +3,9 @@ ospitalità.txt
 #* offrire ospitalità a [[qualcuno]].
 *[[accoglienza]]
 * [[ospedale]],[[ospitale]], [[ospite]], [[ospitare]], [[ospitato]]
+accoglienza
+offrire
+ospitalità
+ospitare
+violare
+viziare

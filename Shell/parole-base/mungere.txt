@@ -22,3 +22,6 @@ M>la borsa di qualcuno</E
 M>denaro</E
 M>Se un real ingegnere</E
 M>Ci munge fino all’ultimo sacchetto</E
+latte
+mungere
+pecora

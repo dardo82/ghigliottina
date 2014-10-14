@@ -8,3 +8,13 @@ corallo.txt
 "corallo blu"
 "serpente corallo"
 *[[corallino]]
+albero
+banco
+blu
+corallo
+croce
+labbro
+orecchino
+ramo
+serpente
+spilla

@@ -17,3 +17,17 @@ radiazione.txt
 *''(fisica )'' dal latino ''[[radiatio]]''
 *''( espulsione)'' dal francese ''[[radiation]]''
 *''(fisica)'' [[radioemissione]], [[irradiamento]], [[irraggiamento]]; 
+campo
+dose
+duro
+energia
+fascia
+fondo
+iscrizione
+nucleare
+pressione
+radiazione
+raggio
+secondario
+temperatura
+visibile

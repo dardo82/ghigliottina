@@ -14,3 +14,33 @@ binario.txt
 "numero binario"
 "sistema binario"
 *[[binario doppio]], [[binario unico]], [[binario morto]], [[sistema binario]]
+albero
+apparecchio
+arrivo
+binario
+carico
+codice
+e
+incrocio
+insieme
+lancio
+linea
+morto
+numerazione
+numero
+operazione
+ottone
+partenza
+partire
+per
+periodo
+precedenza
+ritmo
+scarico
+sella
+servizio
+sistema
+solo
+tempo
+transito
+treno

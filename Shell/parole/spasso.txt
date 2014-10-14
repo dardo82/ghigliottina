@@ -1,0 +1,15 @@
+allegro
+arte
+fidanzato
+gioco
+medio
+mestiere
+piacere
+piacevole
+portare
+primo
+spasso
+spiritoso
+strazio
+svago
+triste

@@ -1,0 +1,11 @@
+campo
+freccia
+gente
+maligno
+pozzo
+risparmiare
+scimmia
+serpente
+tenere
+tumore
+vivo

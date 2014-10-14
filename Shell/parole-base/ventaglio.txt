@@ -40,3 +40,10 @@ M>di ipotesi</E
 M>il v. dei provvedimenti economici adottati dal Governo</E
 M>ventaglio dei prezzi</E
 M>Pecten jacobaeus</E
+aprire
+chiudere
+coda
+forma
+pettine
+stecca
+ventaglio

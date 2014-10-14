@@ -5,3 +5,11 @@ lavatrice.txt
 M>lavabiancheria</E
 M>a gettone</E
 M>a secco</E
+lavare
+lavatrice
+memoria
+mettere
+panno
+riuscita
+spia
+tastiera

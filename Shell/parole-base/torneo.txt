@@ -15,3 +15,14 @@ M>t. di tennis</E
 M> di scherma</E
 M>t. di scacchi</E
 M>t. scacchistico</E
+campionato
+elmo
+femminile
+giostra
+maschile
+risultato
+scudo
+sportivo
+torneo
+vincitore
+vittoria

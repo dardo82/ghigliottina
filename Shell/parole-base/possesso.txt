@@ -23,3 +23,40 @@ possesso.txt
 "venire in possesso di"
 *[[possedimento]], [[proprietà]], [[padronanza]] 
 *[[possessione]], [[possessivo]], [[possessore]], [[possessorio]],[[possedere]]
+bene
+carica
+circolazione
+conoscenza
+desiderio
+dimostrare
+diritto
+dominio
+entrare
+estendere
+furia
+il
+illegale
+ira
+legittimo
+levare
+mente
+merce
+occupazione
+possesso
+prendere
+presa
+proprietario
+proprietà
+prova
+quasi
+ragione
+rientrare
+rivendicare
+sano
+scelta
+stabilimento
+tornare
+trasferire
+turbare
+venire
+vostro

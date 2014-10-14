@@ -1,0 +1,7 @@
+esile
+grasso
+magro
+nervoso
+persona
+snello
+sottile

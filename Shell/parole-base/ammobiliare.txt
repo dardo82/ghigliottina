@@ -9,3 +9,4 @@ M>una casa</E
 M>villa ammobiliata</E
 M>appartamento sontuosamente ammobiliato</E
 M>camera ammobiliata</E
+ammobiliare

@@ -16,3 +16,6 @@ M>dare il ganascino</E
 M>stese la mano al viso dell’oste</E
 M> per prendergli il ganascino</E
 M>in segno di amicizia e di riconoscenza</E
+freno
+ganascia
+stecca

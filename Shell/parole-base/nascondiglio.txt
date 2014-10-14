@@ -10,3 +10,9 @@ M>acquattarsi</E
 M>rifugiarsi</E
 M>mettersi in un n</E
 M>uscire dai nascondigli</E
+balzare
+luogo
+nascondere
+nascondiglio
+rifugio
+rivelare

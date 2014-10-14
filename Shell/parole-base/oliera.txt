@@ -2,3 +2,12 @@ oliera.txt
 "oliera"
 m>acetiera</e
 m>acetoliera</e
+carrozzeria
+fiasco
+gabbia
+nave
+oliera
+olio
+petroliera
+struttura
+uccello

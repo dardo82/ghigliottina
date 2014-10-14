@@ -58,3 +58,37 @@ M>segnali di s.</E
 M>Apparecchi di s.</E
 M>s. lontana</E
 M>s. vicina</E
+anniversario
+carrozza
+epoca
+era
+faccia
+famoso
+fondamentale
+geniale
+importante
+invenzione
+meditare
+memoria
+notizia
+oggetto
+ostacolo
+pancia
+parte
+piscina
+portata
+prossimo
+recente
+rivendicare
+rivoluzionario
+rivoluzione
+rumore
+scienza
+scoperta
+scoprire
+secolo
+sopravvalutare
+spia
+storia
+strada
+valore

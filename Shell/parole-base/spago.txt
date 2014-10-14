@@ -3,3 +3,17 @@ spago.txt
 "Dare spago"
 "spago"
 "spago, corda"
+annodare
+corda
+cucitura
+gavetta
+gomitolo
+intendere
+precipitare
+salsiccia
+si
+sottile
+spago
+stendere
+strappare
+tagliare

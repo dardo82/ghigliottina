@@ -9,3 +9,14 @@ M>piccolo</E
 M>grosso n</E
 M>all’ingrosso</E
 M>al dettaglio</E
+avaro
+cliente
+disonesto
+imbrogliare
+negoziante
+negozio
+pittura
+praticare
+proteggere
+risparmiare
+trattare

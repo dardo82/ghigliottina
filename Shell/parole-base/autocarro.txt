@@ -10,3 +10,18 @@ M>carro</E
 M>autocar</E
 M>a pianale</E
 M>schermografico</E
+autocarro
+automobile
+camion
+caricare
+carico
+con
+frigorifero
+immondizia
+portata
+ritrarre
+roba
+scala
+sportello
+tenere
+travolgere

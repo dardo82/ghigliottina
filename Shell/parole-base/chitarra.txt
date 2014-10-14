@@ -16,3 +16,13 @@ M>contrabbasso elettrico</E
 M>spaghetti alla chitarra</E
 M>Pesce chitarra</E
 M>pesce violino</E
+accompagnare
+cassa
+chitarra
+elettrico
+miagolare
+pesce
+studio
+suonare
+suono
+violino

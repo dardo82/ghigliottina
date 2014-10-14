@@ -47,3 +47,19 @@ M>s. uterino</E
 M>rumore di fondo</E
 M>s. di un amplificatore</E
 M>s. di un tubo termoelettronico</E
+anima
+canna
+capello
+corrente
+costume
+cuore
+dente
+fiato
+organico
+pelo
+respiro
+rumore
+sfuggire
+soffiare
+soffio
+vento

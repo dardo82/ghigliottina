@@ -30,3 +30,11 @@ M>un vigilato</E
 M>i vigilati</E
 M>sorvegliato</E
 M>speciale</E
+curare
+custodire
+governare
+guardare
+svegliare
+vegliare
+vigilanza
+vigilare

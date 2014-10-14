@@ -14,3 +14,20 @@ pianeta.txt
 #* ''ecco la sua 
 #* ''il 
 *Enciclopedia [http
+blu
+crosta
+esposizione
+gigante
+maniera
+mondo
+nostro
+nuovo
+oro
+passaggio
+pianeta
+rosso
+scrivere
+spalla
+terra
+trascorrere
+universo

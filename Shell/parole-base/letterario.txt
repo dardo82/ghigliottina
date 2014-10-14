@@ -77,3 +77,39 @@ M>il greco l</E
 M>l’arabo letterario</E
 M>un romanzo letterariamente ben costruito</E
 M>uno stile letterariamente prezioso</E
+agente
+caso
+chiacchierare
+circolo
+concorso
+contestare
+credo
+critico
+drammatico
+frequentare
+furto
+gruppo
+lavanda
+letterario
+libro
+lingua
+linguaggio
+movimento
+o
+ovvero
+patrimonio
+poesia
+primato
+produrre
+realizzare
+ricostruire
+rosa
+rumore
+scegliere
+schiacciare
+scientifico
+segnalare
+settimanale
+stile
+talento
+vivo

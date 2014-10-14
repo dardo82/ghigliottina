@@ -2,3 +2,7 @@ acciuga.txt
 "acciuga"
 "acciuga"
 *[[alice]], [[rissino]], [[stecchino]]
+acciuga
+balena
+magro
+secco

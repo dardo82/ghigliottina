@@ -47,3 +47,5 @@ M>gira e rigira</E
 M>ritornava sempre sullo stesso argomento</E
 M>gira e rigira</E
 M>siamo ancora al punto di partenza</E
+girare
+rigirare

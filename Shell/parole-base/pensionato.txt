@@ -3,3 +3,8 @@ pensionato.txt
 "pensionato"
 "pensionato"
 "pensionato universitario"
+circolo
+ospizio
+pensionato
+pensione
+universitario

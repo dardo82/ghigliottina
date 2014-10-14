@@ -3,3 +3,12 @@ fibbia.txt
 *[[fermaglio]], [[spilla]]
 M>fig</E
 M>staffa</E
+agganciare
+cintura
+crosta
+fibbia
+osso
+palmo
+polpa
+pugno
+scarpa

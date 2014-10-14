@@ -11,3 +11,7 @@ M>chef</E
 M>lieu</E
 M>capoluòghi</E
 M>capiluòghi</E
+capo
+capoluogo
+provincia
+trasferire

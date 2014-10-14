@@ -4,3 +4,9 @@ garofano.txt
 "olio di garofano"
 "pepe con aroma di garofano"
 * araldica
+chiodo
+garofano
+odorare
+olio
+pepe
+speranza

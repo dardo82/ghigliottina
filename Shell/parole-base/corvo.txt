@@ -4,3 +4,9 @@ corvo.txt
 "il Corvo"
 *[[uccello]]
 *Devoto/Oli, '' Il dizionario della lingua italiana'', edizione cartacea  2000-2001, Le Monnier, p. 536
+corvo
+malaugurio
+martello
+piede
+toccare
+ultimo

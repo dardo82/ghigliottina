@@ -63,3 +63,41 @@ M>un paese</E
 M>un popolo contro il tiranno</E
 M>non si rivolgerebbe così di leggiero</E
 M>Beatrice in sul sinistro fianco Vidi rivolta</E
+accusa
+angoscioso
+appello
+applicare
+assente
+attenzione
+cattivo
+coperta
+crudele
+direzione
+dirigere
+domanda
+faccia
+fisso
+grave
+guardare
+indirizzare
+interrogazione
+intervenire
+mantello
+mente
+nazione
+paese
+parola
+patetico
+pensiero
+porre
+preghiera
+rimprovero
+rivolgere
+saluto
+scusa
+sguardo
+speciale
+sprezzante
+supplica
+tranquillizzare
+volgere

@@ -6,3 +6,6 @@ scrofa.txt
 M>scr</E
 M>la s. aveva i maialini attaccati alle poppe</E
 M>troia</E
+cinghiale
+maiale
+scrofa

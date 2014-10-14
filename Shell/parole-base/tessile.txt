@@ -25,3 +25,12 @@ M>la categoria dei t.</E
 M>i t. in agitazione.</E
 M>negozio di tessili</E
 M>mostra del tessile.</E
+cotone
+pollice
+quadrato
+ramo
+stabilimento
+telaio
+tessile
+tessuto
+vetro

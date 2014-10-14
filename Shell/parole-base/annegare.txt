@@ -2,3 +2,7 @@ annegare.txt
 "annegare"
 "annegare"
 "annegare"
+affondare
+annegare
+paragonare
+salvare

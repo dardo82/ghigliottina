@@ -10,3 +10,20 @@ pipa.txt
 "pipa da tabacco"
 "pipa in terracotta"
 "scovolino per pipa"
+accendere
+cannuccia
+caricare
+ciliegio
+clinica
+fornello
+fumare
+gesso
+noioso
+pipa
+premere
+sbuffare
+sigaretta
+soffiare
+spegnere
+tabacco
+tirare

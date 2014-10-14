@@ -37,3 +37,35 @@ M>Fin qui ci sono</E
 M>e mi ci firmo anch’io</E
 M>firmato: il ministro degli Esteri</E
 M>firmato: l’amministratore delegato</E
+affermare
+annullare
+appello
+atto
+confermare
+contratto
+corrispondenza
+delegare
+dichiarazione
+documento
+entrata
+esteso
+firma
+firmare
+foglio
+forzare
+garantire
+giustificazione
+imporre
+intero
+lettera
+linea
+marcare
+pace
+programma
+pugno
+ricevuta
+rinuncia
+sigla
+traverso
+uscita
+visione

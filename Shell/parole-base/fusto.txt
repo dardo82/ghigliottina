@@ -50,3 +50,22 @@ M>vino in fusti</E
 M>un f</E
 M>di benzina</E
 M>di nafta</E
+albero
+alto
+bidone
+birra
+bosco
+botte
+coda
+corpo
+coscia
+fucile
+fusto
+libro
+pianta
+timone
+trasformare
+tronco
+vento
+vivere
+vivo

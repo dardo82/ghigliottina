@@ -6,3 +6,5 @@ M>pietrina</E
 M>a gas</E
 M>accendino</E
 M>piezoelettrico</E
+accendino
+accendisigaro

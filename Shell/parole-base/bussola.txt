@@ -10,3 +10,16 @@ bussola.txt
 *(per elemosine, per schede elettorali) [[cassetta]]
 *[[bussola azimutale]], [[bussolotto]], [[girobussola]]
 * [[nord]], [[sud]], [[est]], [[ovest]], [[girobussola]], [[girodirezionale]], [[orientamento]], [[chiave]], [[officina]]
+ago
+alfabeto
+bussola
+chiave
+giro
+invenzione
+nord
+perdere
+rosa
+rovescio
+tabella
+variazione
+vento

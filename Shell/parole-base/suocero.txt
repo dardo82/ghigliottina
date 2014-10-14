@@ -6,3 +6,7 @@ M>cer</E
 M>rus</E
 M>suoceri</E
 M>abita in casa dei suoceri</E
+genero
+padre
+smentire
+suocero

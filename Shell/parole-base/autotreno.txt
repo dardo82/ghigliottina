@@ -2,3 +2,10 @@ autotreno.txt
 "autotreno"
 M>auto</E
 M>treno</E
+autotreno
+manovrare
+rimorchio
+scaricare
+sfondare
+sorpassare
+tamponare

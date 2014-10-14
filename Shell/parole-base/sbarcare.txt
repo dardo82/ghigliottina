@@ -6,3 +6,8 @@ sbarcare.txt
 "sbarcare il lunario"
 "scendere a terra; sbarcare"
 "scendere; sbarcare"
+discendere
+sbarcare
+scendere
+terra
+viaggiatore

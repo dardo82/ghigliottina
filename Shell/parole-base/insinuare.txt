@@ -45,3 +45,7 @@ M>I. una domanda</E
 M>una supplica</E
 M>eintragen</E
 M>insinuarsi</E
+accennare
+dubbio
+insinuare
+maligno

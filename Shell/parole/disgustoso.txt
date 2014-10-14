@@ -1,0 +1,15 @@
+buono
+cattivo
+disgustoso
+dolce
+incantevole
+indegno
+miscuglio
+modo
+odore
+piacevole
+sapore
+schifoso
+specie
+spettacolo
+squisito

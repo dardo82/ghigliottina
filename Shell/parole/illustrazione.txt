@@ -1,0 +1,11 @@
+cronaca
+esposizione
+figura
+illustrazione
+libro
+precedente
+quadro
+riproduzione
+spiegazione
+stampa
+trattato

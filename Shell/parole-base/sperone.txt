@@ -7,3 +7,9 @@ sperone.txt
 #* ''il [[cowboy]] spronò il cavallo con gli '''speroni'''''
 *[[sprone]]
 *[[speronare]]
+cornetto
+pennello
+rotella
+ruota
+sostegno
+sperone

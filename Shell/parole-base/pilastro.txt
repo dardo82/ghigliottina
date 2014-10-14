@@ -38,3 +38,10 @@ M>p. anteriori</E
 M>posteriori del fornice</E
 M>trigono</E
 M>cerebrale</E
+base
+colonna
+foderare
+pilastro
+schiantare
+sostegno
+uscire

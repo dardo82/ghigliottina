@@ -11,3 +11,8 @@ M>una ferita</E
 M>disinfettarsi un graffio</E
 M>disinfèttati subito</E
 M>un ambiente</E
+disinfettante
+disinfettare
+luogo
+spirito
+taglio

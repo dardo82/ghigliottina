@@ -5,3 +5,27 @@ lira.txt
 "lira"
 "lira"
 "non avere una lira"
+accordo
+battaglia
+correre
+delirare
+delirio
+lira
+oro
+pettine
+pizzicare
+promettere
+quarto
+radere
+ragione
+ristabilire
+senza
+suonare
+tasca
+tentare
+togliere
+uccello
+ultimo
+verde
+violenza
+vizio

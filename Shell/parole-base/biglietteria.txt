@@ -1,3 +1,7 @@
 biglietteria.txt
 "biglietteria"
 *[[biglietto]]
+biglietteria
+biglietto
+coda
+sportello

@@ -56,3 +56,23 @@ M>S. pubblico</E
 M>établissement public</E
 M>stabilimento del porto</E
 M>établissement du port</E
+apertura
+bagno
+cabina
+carcere
+esercizio
+fabbrica
+guardiano
+impianto
+industria
+industriale
+occupare
+officina
+ordine
+passivo
+penale
+presso
+proprietario
+reggere
+stabilimento
+stabilire

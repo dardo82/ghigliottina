@@ -56,3 +56,39 @@ M>accendere</E
 M>spegnere la t.</E
 M>comprare una t. nuova</E
 M>mio figlio passa pomeriggi interi davanti alla televisione.</E
+abbassare
+artista
+attore
+attrice
+cantante
+cavo
+cinema
+colore
+comunicare
+cronista
+diffusione
+dimensione
+guardare
+libero
+mondiale
+nuovo
+oggetto
+passare
+passatempo
+penitenza
+privato
+protagonista
+radio
+ridurre
+rilasciare
+scaricare
+seguito
+sonno
+spazzatura
+stupidaggine
+telefilm
+televisione
+televisore
+trasmettere
+tubo
+veicolo

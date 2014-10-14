@@ -1,0 +1,5 @@
+ambulanza
+autoambulanza
+chiamare
+stretta
+vivo

@@ -3,3 +3,10 @@ pinza.txt
 "pinza"
 "pinza a coccodrillo"
 "pinza tagliafili"
+coccodrillo
+molla
+pinza
+pinzetta
+pizzicare
+sazio
+tenaglia

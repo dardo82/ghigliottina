@@ -1,0 +1,8 @@
+armadio
+forno
+freddo
+frigorifero
+gruppo
+magazzino
+tunnel
+vita

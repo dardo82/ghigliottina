@@ -2,3 +2,4 @@ carbonaio.txt
 "Traduzione di carbonaio/ non trovata.\nNo translation was found for carbonaio/."
 M>carbonarius</E
 M>carbonaia</E
+carbonaio

@@ -4,3 +4,7 @@ portiera.txt
 * (di autoveicolo) [[sportello]], [[porta]]
 *[[portinaia]]
 *(di chiese) [[tenda]], [[drappeggio]]
+pizzicare
+porta
+portiera
+sportello

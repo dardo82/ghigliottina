@@ -1,0 +1,15 @@
+corpo
+costituzione
+esile
+forte
+gracile
+grasso
+magro
+minuto
+petto
+quadrato
+robusto
+sano
+secco
+sottile
+uomo

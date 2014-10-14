@@ -2,3 +2,4 @@ parlatorio.txt
 "http://api.wordreference.com/12bee/json/iten/parlatorio/"
 M>parlare</E
 M>parlatorium</E
+parlatorio

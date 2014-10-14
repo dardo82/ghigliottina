@@ -45,3 +45,35 @@ M>meringhe</E
 M>ch. di suora</E
 M>cenci fritti</E
 M>frappe</E
+bottega
+breve
+casa
+chiacchiera
+chiacchierare
+continuare
+dialogo
+discorso
+durare
+fastidio
+finire
+importanza
+ingannare
+panno
+parlare
+pettegolezzo
+poi
+quattro
+rimanere
+scambiare
+senza
+silenzio
+sosta
+sottovoce
+spendere
+stare
+succo
+tardi
+tra
+trattenere
+vicino
+voce

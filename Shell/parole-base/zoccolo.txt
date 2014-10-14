@@ -10,3 +10,14 @@ zoccolo.txt
 "zoccolo Goliath"
 * [[zoccola]]
 * Palazzi - Folena,  dizionario della lingua italiana Loescher editore
+articolo
+bianco
+cavallo
+dipingere
+duro
+legno
+parete
+segno
+unghia
+uno
+zoccolo

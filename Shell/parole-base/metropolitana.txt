@@ -24,3 +24,17 @@ M>subway</E
 M>underground</E
 M>Untergrundbahn</E
 M>elevated</E
+area
+ferrovia
+metro
+metropolitana
+moscovita
+provvedere
+rete
+scavare
+scavo
+scendere
+sciame
+servire
+sotterraneo
+trasporto

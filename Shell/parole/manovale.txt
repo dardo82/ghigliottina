@@ -1,0 +1,4 @@
+generico
+lavoratore
+manovale
+qualifica

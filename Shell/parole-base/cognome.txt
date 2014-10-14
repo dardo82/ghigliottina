@@ -31,3 +31,22 @@ M>Maria Bianchi</E
 M>Monaldo conte Leopardi</E
 M>Elia cardinale Dalla Costa</E
 M>Rossi dottor Tommaso</E
+chiamare
+cognome
+dato
+esteso
+famiglia
+fanciulla
+firma
+firmare
+indirizzo
+marito
+mettere
+negozio
+nome
+originario
+patria
+ragazza
+riassumere
+soprannome
+targa

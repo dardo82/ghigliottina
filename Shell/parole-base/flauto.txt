@@ -7,3 +7,17 @@ flauto.txt
 #* ''ho suonato il '''flauto''' come [[esercitazione]] per il compito di educazione musicale''
 *[[flautato]]
 * [[flagioletto]], [[flauto d'amore]], [[flauto dolce]], [[flauto basso]], [[flauto contrabbasso]], [[flauto contralto]], [[flauto iperbasso]], [[flauto indiano]], [[flauto di Pan]], [[flauto traverso]], [[ottavino]], [[ocarina]], [[pennywhistle]]
+alto
+basso
+dolce
+dolere
+fagotto
+fiato
+flauto
+musica
+musicale
+parte
+strumento
+suono
+taglio
+traverso

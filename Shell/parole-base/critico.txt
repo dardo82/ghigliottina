@@ -30,3 +30,45 @@ critico.txt
 "spirito critico"
 "stato critico"
 "testo critico"
+analisi
+arte
+base
+commento
+contraddizione
+critico
+drammatico
+errore
+esame
+esaminare
+fenomeno
+guardare
+ingegno
+intelligente
+letterario
+malato
+momento
+musicale
+numero
+nutrire
+occhio
+pensiero
+pericoloso
+periodo
+polso
+presentazione
+punto
+resoconto
+saggio
+scheletro
+schietto
+scorza
+senso
+severo
+sollecitare
+spirito
+stato
+sviluppo
+teatrale
+terribile
+testo
+titolo

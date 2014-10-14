@@ -1,3 +1,8 @@
 scarlattina.txt
 "scarlattina"
 M>febbre scarlattina</E
+attaccare
+contagiare
+scarlattina
+scossa
+venire

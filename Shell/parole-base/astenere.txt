@@ -16,3 +16,4 @@ M>astenersi</E
 M>i parlamentari astenuti sono una minoranza</E
 M>votanti 20</E
 M>astenuti 8</E
+astenere

@@ -7,3 +7,5 @@ trentino.txt
 "trentino"
 "persona: del Trentino"
 "person from Trentino"
+trentino
+veneto

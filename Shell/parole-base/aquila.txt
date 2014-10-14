@@ -45,3 +45,34 @@ M>d’argento</E
 M>pierreale d’oro</E
 M>pierreale d’argento</E
 M>Aquila</E
+ala
+altezza
+apertura
+aquila
+aquilano
+artiglio
+bianco
+collo
+contro
+falco
+femmina
+grido
+maschio
+moneta
+nido
+occhio
+oro
+penna
+preda
+prendere
+rapace
+reale
+rodere
+salire
+selvaggio
+sopra
+spiegare
+valore
+venti
+vescovo
+vista

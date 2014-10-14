@@ -22,3 +22,24 @@ M>scudo</E
 M>piastrone</E
 M>porta corazzata</E
 M>blindata</E
+camera
+cassaforte
+cintura
+coccodrillo
+combattimento
+corazza
+corazzata
+corazziere
+eroe
+fianco
+nave
+pila
+reggere
+resistere
+rifugio
+schieramento
+sfondare
+tesoro
+uomo
+vestire
+zattera

@@ -12,3 +12,11 @@ spuntare.txt
 * fare la punta, [[appuntare]], [[appuntire]], [[aguzzare]]
 *''(di pianta)'' [[appassire]], [[sfiorire]], [[avvizzire]]
 *''(di sole, luna)'' [[tramontare]], [[scomparire]], [[sparire]]
+aguzzare
+apparire
+calare
+foglia
+fungo
+levare
+sole
+spuntare

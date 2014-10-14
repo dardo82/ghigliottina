@@ -1,2 +1,7 @@
 burrone.txt
 "burrone"
+burrone
+ciglio
+rischiare
+riuscire
+tendere

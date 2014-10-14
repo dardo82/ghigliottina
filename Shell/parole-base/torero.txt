@@ -4,3 +4,4 @@ torero.txt
 * Paravia, ''[http
 M>toro</E
 M>ero</E
+torero

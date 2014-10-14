@@ -3,3 +3,6 @@ citofono.txt
 M>citus</E
 M>fono</E
 M>telefono</E
+citofono
+era
+rispondere

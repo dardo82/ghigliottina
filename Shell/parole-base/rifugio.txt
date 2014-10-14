@@ -68,3 +68,26 @@ M>corazzato</E
 M>trincea antischegge</E
 M>scendere al r</E
 M>nel rifugio</E
+asilo
+bene
+caccia
+capanna
+cercare
+dare
+innocente
+libro
+nascondiglio
+pioggia
+porto
+protezione
+ricovero
+rifugio
+rovinare
+salvare
+salvezza
+scampare
+scampo
+sentiero
+sicuro
+sotterraneo
+trovare

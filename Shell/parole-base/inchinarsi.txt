@@ -2,3 +2,9 @@ inchinarsi.txt
 "inchinarsi a"
 "inchinarsi davanti a"
 "inchinarsi ossequiosamente"
+davanti
+grande
+grazioso
+inchinarsi
+potente
+saluto

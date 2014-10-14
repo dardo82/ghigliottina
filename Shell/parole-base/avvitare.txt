@@ -2,3 +2,7 @@ avvitare.txt
 "avvitare"
 "avvitare"
 "avvitare su"
+avvitare
+dado
+su
+vite

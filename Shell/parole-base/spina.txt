@@ -142,3 +142,40 @@ M>punto a spina</E
 M>punto spina</E
 M>cucitura a s. di pesce</E
 M>passo a s. di pesce</E
+animo
+attacco
+birra
+botte
+cavare
+cogliere
+colonna
+commozione
+contorno
+cordone
+corrente
+cuore
+deviazione
+dorsale
+fianco
+filo
+foglia
+frittata
+inserire
+liquido
+muro
+nervo
+parcheggio
+passato
+pesce
+presa
+pungere
+recinto
+riccio
+spiga
+spilla
+spillo
+spina
+spinacio
+staccare
+uva
+valvola

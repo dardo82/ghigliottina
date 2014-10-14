@@ -2,3 +2,6 @@ inquinato.txt
 "inquinato"
 "inquinato"
 *[[inquinare]] 
+inquinato
+sano
+schietto

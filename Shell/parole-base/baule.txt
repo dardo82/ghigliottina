@@ -18,3 +18,18 @@ M>viaggiare come un b</E
 M>come i b</E
 M>baule</E
 M>bauletto</E
+aprire
+baule
+botte
+chiudere
+collo
+dentro
+doppio
+ingombrare
+levare
+niente
+parete
+reggere
+serratura
+volume
+vuotare

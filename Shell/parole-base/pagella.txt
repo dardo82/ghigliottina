@@ -18,3 +18,7 @@ M>la p</E
 M>delle automobili da corsa</E
 M>di deposito</E
 M>bollettino di entrata</E
+padre
+pagella
+votazione
+voto

@@ -16,3 +16,10 @@ pacifico.txt
 "Pacifico (Oceano Pacifico)"
 *[[calmo]], [[tranquillo]], [[sereno]]
 * [[Oceano Pacifico]]
+buono
+guerriero
+innocuo
+pacifico
+quieto
+sogno
+tranquillo

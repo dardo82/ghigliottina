@@ -12,3 +12,7 @@ M>frase</E
 M>segno di m</E
 M>uccello</E
 M>corvo del m</E
+augurio
+cornacchia
+malaugurio
+uccello

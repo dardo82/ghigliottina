@@ -6,3 +6,10 @@ rivoltella.txt
 M>rivoltare</E
 M>revolver</E
 M>revolver</E
+ferire
+rivoltella
+scappare
+sparo
+spianare
+tirare
+uccidere

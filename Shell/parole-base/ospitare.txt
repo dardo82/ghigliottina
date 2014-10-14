@@ -29,3 +29,11 @@ M>la famiglia ospitante</E
 M>la città ospitante</E
 M>la squadra ospitante</E
 M>l’ospitante</E
+accogliere
+alloggiare
+in
+ospitalità
+ospitare
+predisporre
+ricevere
+trattare

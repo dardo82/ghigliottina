@@ -41,3 +41,10 @@ M>giudice l</E
 M>chierico</E
 M>avvenne che gli uomini di lettere fossero stati poi chiamati cherici</E
 M>siccome gl’illetterati si nomavano laici</E
+frate
+laico
+religioso
+sacerdote
+schieramento
+terreno
+vocazione

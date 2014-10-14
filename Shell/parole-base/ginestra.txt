@@ -11,3 +11,7 @@ M>Cytisus scoparius</E
 M>spinosa</E
 M>Calycotome spinosa</E
 M>spinosa</E
+avaro
+ginestra
+lento
+luce

@@ -37,3 +37,8 @@ M>una carica</E
 M>le parti contendenti sono venute a un accordo</E
 M>separare due contendenti</E
 M>mettere pace fra i contendenti</E
+contendere
+contrastare
+litigare
+lottare
+oggetto

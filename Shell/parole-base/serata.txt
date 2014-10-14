@@ -45,3 +45,44 @@ M>s. col guanto</E
 M>s. d&#8217;addio</E
 M>è stata una seratina piacevole</E
 M>un po&#8217; noiosa</E
+addio
+allegro
+anzi
+ballo
+beneficenza
+beneficio
+corte
+delizioso
+eroe
+favoloso
+giovane
+gradevole
+gusto
+impegnativo
+indimenticabile
+insieme
+leggero
+letterario
+lieto
+magnifico
+malinconico
+no
+noioso
+notte
+onore
+passare
+piacevole
+presenza
+prevedibile
+programma
+protagonista
+sciupare
+serata
+spedizione
+spesa
+splendido
+suonare
+svanire
+tema
+venti
+zitto

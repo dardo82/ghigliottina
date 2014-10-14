@@ -2,3 +2,13 @@ cassiere.txt
 "cassiere"
 "cassiere"
 M>sarai tu il nostro cassiere</E
+buonanotte
+cassiere
+ladro
+responsabile
+riconsegnare
+rubare
+ruolo
+stare
+uccidere
+volo

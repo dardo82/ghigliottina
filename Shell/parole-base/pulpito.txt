@@ -22,3 +22,8 @@ M>viene la predica!</E
 M>di comando</E
 M>di controllo</E
 M>battagliola</E
+predica
+pulpito
+salire
+scendere
+venire

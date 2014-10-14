@@ -8,3 +8,13 @@ pinna.txt
 "pinna dorsale"
 "pinna pettorale"
 "tonno pinna blu"
+blu
+campanile
+dorsale
+lacrima
+nuoto
+pallone
+pidocchio
+pinna
+punta
+tonno

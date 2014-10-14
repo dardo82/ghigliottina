@@ -126,3 +126,33 @@ M>diritto riconosciuto</E
 M>titolo riconosciuto</E
 M>istituto scolastico legalmente riconosciuto</E
 M>feste riconosciute</E
+attribuire
+colpevole
+concedere
+confessare
+conoscere
+coraggio
+distinguere
+fiuto
+forza
+giudizio
+giustificazione
+innocente
+luogo
+merito
+miseria
+niente
+onesto
+ostinato
+rendere
+riconoscere
+ripulire
+santo
+sapore
+scambiare
+scoprire
+solito
+suono
+tasto
+tatto
+valore

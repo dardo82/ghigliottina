@@ -4,3 +4,7 @@ abruzzese.txt
 "abruzzese"
 M>Dialetto a</E
 M>l’abruzzese</E
+abruzzese
+molisano
+rame
+tarantella

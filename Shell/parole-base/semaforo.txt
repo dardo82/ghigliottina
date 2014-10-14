@@ -19,3 +19,8 @@ M>s. verde</E
 M>s. rosso</E
 M>politica del s.</E
 M>stop and go</E
+rosso
+segno
+semaforo
+tamponare
+verde

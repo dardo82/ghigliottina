@@ -8,3 +8,6 @@ M>una stanza</E
 M>un appartamento</E
 M>un villino</E
 M>una casa completamente arredata</E
+arredare
+con
+letto

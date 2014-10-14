@@ -36,3 +36,29 @@ M>un impiegato</E
 M>s. un alunno dalle lezioni</E
 M>dalla scuola</E
 M>s. un sacerdote</E
+annullare
+appendere
+arma
+chiudere
+congelare
+continuare
+domandare
+energia
+freddo
+gara
+giudizio
+il
+interrompere
+lavorazione
+lavoro
+lezione
+pagamento
+per
+proseguire
+provvisorio
+sciopero
+seduta
+smettere
+sospendere
+sospeso
+togliere

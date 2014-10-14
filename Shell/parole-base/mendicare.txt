@@ -40,3 +40,7 @@ M>una parola gentile</E
 M>un pretesto</E
 M>magre scuse</E
 M>giustificazioni</E
+chiedere
+mendicante
+mendicare
+pretesto

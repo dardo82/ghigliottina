@@ -1,3 +1,6 @@
 buonasera.txt
 "buonasera"
 M>dare la buonasera</E
+buonasera
+salute
+signorina

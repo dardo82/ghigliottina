@@ -11,3 +11,7 @@ M>seghetta da traforo</E
 M>legno da traforo</E
 M>a traforo</E
 M>gli ho regalato un traforo</E
+galleria
+sega
+traforo
+tunnel

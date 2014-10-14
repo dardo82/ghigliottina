@@ -74,3 +74,40 @@ M>smorto</E
 M>un abito a colori vivaci</E
 M>gestire vivacemente</E
 M>discutere vivacemente</E
+allegro
+aspetto
+ballo
+colore
+discussione
+discutere
+entusiasta
+fantasia
+festoso
+fontana
+fresco
+fuoco
+gesto
+goffo
+immediato
+ingegno
+intelligente
+intelligenza
+intenso
+memoria
+mente
+occhio
+pallido
+parola
+peste
+piena
+ragazzo
+resistenza
+ritmo
+scorretto
+seguire
+sguardo
+spiritoso
+tamponare
+vino
+vivace
+vivo

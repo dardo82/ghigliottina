@@ -1,0 +1,15 @@
+agricolo
+bracciante
+calendario
+centro
+contadino
+giornaliero
+gruppo
+lavoratore
+lavoro
+livello
+petrolio
+settore
+trattore
+vecchio
+zona

@@ -35,3 +35,7 @@ M>subacqueo</E
 M>gli impiegati del t.</E
 M>andare</E
 M>correre al telegrafo.</E
+campo
+telegrafo
+trasmettere
+trasmissione

@@ -2,3 +2,5 @@ cognata.txt
 "cognata"
 "cognata"
 M>cognato</E
+cognata
+vipera

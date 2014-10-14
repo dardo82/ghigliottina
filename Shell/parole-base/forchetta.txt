@@ -25,3 +25,11 @@ M>osso a forchetta</E
 M>forcella</E
 M>fettone</E
 M>forcella</E
+calibro
+colazione
+cucchiaio
+forchetta
+forcina
+insalata
+oro
+spaghetto

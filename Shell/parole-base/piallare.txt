@@ -7,3 +7,6 @@ M>il falegname era occupato a piallare</E
 M>due assi già piallate</E
 M>bei pezzi di donne</E
 M>tutt&#8217;altro che piallate</E
+legno
+piallare
+tavola

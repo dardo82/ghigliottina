@@ -27,3 +27,15 @@ M>tutor</E
 M>docente tutore</E
 M>sostegno</E
 M>t. ortopedico</E
+insegnante
+istituire
+istituto
+istruttore
+maestro
+parrucca
+prefetto
+processo
+protettore
+restituire
+sostegno
+tutore

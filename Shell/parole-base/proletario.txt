@@ -20,3 +20,6 @@ M>un quartiere p</E
 M>Esproprio p</E
 M>spesa proletaria</E
 M>La grande Proletaria si è mossa</E
+operaio
+proletario
+spesa

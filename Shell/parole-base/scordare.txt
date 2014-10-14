@@ -3,3 +3,11 @@ scordare.txt
 "scordare"
 "scordare"
 *[[dimenticare]]
+adeguarsi
+cancellare
+condividere
+contrastare
+escludere
+lasciare
+ricordare
+scordare

@@ -1,0 +1,11 @@
+autista
+autobus
+garage
+partenza
+partire
+pellegrino
+pullman
+turismo
+viaggiare
+viaggiatore
+viaggio

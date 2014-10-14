@@ -10,3 +10,6 @@ M>la barca si capovolse</E
 M>una situazione</E
 M>la situazione si è improvvisamente capovolta</E
 M>un vaso capovolto</E
+capovolgere
+rovesciare
+volgere

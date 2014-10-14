@@ -33,3 +33,19 @@ M>carro scorta</E
 M>macchina locomotiva</E
 M>sbuffare</E
 M>ansimare come una locomotiva</E
+carbone
+elemento
+fumo
+locomotiva
+manovrare
+muovere
+organo
+potenza
+sbuffare
+segnale
+selvaggio
+sganciare
+sputare
+trainare
+treno
+vapore

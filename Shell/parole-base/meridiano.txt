@@ -56,3 +56,24 @@ M>cerchio m</E
 M>telescopio m</E
 M>osservazione m</E
 M>degli astri</E
+cerchio
+circolo
+indietro
+meridiano
+meridionale
+mezzogiorno
+numero
+ozio
+passaggio
+pisolino
+pomeriggio
+ricevimento
+riposo
+rispetto
+sacrificio
+secondo
+sole
+superficie
+turno
+vero
+zero

@@ -18,3 +18,15 @@ M>aerocisterna</E
 M>aracnoidali</E
 M>cisterna di Pecquet</E
 M>chilifera</E
+aereo
+bacino
+carico
+carro
+cisterna
+lago
+moto
+nave
+serbatoio
+tenere
+vagone
+vuotare

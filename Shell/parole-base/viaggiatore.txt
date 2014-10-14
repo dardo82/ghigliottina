@@ -40,3 +40,9 @@ M>viaggiatore</E
 M>v. di commercio</E
 M>Colombi</E
 M>piccioni v.</E
+intorno
+passeggero
+piccione
+treno
+viaggiare
+viaggiatore

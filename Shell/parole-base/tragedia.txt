@@ -52,3 +52,25 @@ M>non è il caso di fare</E
 M>tante</E
 M>tragedie</E
 M>se trova la stanza in disordine è capace di fare una tragedia</E
+accorrere
+anima
+autore
+commedia
+condotta
+dividere
+dramma
+macchina
+misto
+moderno
+nodo
+padre
+persona
+personaggio
+rifare
+risolvere
+sfiorare
+spettacolo
+squarcio
+teatro
+tragedia
+tragico

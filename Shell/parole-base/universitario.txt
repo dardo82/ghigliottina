@@ -32,3 +32,22 @@ M> un collegio per universitarie</E
 M>sedi u.</E
 M>edilizia u.</E
 M>mensa universitaria.</E
+anno
+assistente
+centro
+chiaro
+consiglio
+esame
+formazione
+giornale
+istituto
+laurea
+ordinamento
+orientale
+pensionato
+polo
+professore
+riconoscimento
+studente
+tranne
+universitario

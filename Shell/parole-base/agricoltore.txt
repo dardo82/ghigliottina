@@ -5,3 +5,6 @@ m>agricultor</e
 m>oris</e
 m>ager agri</e
 m>cultor</e
+agricolo
+agricoltore
+contadino

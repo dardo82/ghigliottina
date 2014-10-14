@@ -50,3 +50,36 @@ M>domandare</E
 M>rispondere</E
 M>trattare cortesemente</E
 M>lo pregò cortesemente di andarsene</E
+amore
+attenzione
+buono
+cattivo
+contadino
+conto
+cortese
+cortesia
+delicato
+durare
+fianco
+fine
+generoso
+gentile
+infedele
+inviare
+lettore
+maleducato
+molle
+natura
+porgere
+pungere
+rifiuto
+scortese
+selvatico
+sgarbato
+signora
+simpatico
+solitario
+trattare
+troppo
+ubbidire
+uguale

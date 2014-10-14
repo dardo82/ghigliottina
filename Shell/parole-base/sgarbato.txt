@@ -29,3 +29,12 @@ M>sei uno sgarbatone</E
 M>uno sgarbataccio</E
 M>rispondere</E
 M>reagire sgarbatamente</E
+buono
+cafone
+cattivo
+cortese
+delicato
+gentile
+maleducato
+riprendere
+sgarbato

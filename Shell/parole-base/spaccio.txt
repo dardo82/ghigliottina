@@ -30,3 +30,18 @@ M>fare la spesa allo spaccio</E
 M>s. di monete false</E
 M>è stato arrestato per s. di droga</E
 M>moneta di s.</E
+caserma
+chiave
+droga
+esercizio
+espresso
+lettura
+magazzino
+messaggio
+militare
+negozio
+professionista
+spaccio
+spedire
+telegrafico
+vendita

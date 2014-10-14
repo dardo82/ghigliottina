@@ -6,3 +6,7 @@ pattumiera.txt
 M>passava in quel momento davanti a una p</E
 M>municipale verniciata di verde e fissata ad un palo</E
 M>in questo modo non si salva Napoli ... la si trasforma in p.</E
+bidone
+immondizia
+pattumiera
+secchio

@@ -1,0 +1,17 @@
+bravo
+buono
+capace
+esperto
+giovane
+ignorante
+inesperienza
+inesperto
+ingenuo
+insufficiente
+maestro
+manovrare
+nuovo
+pratico
+sapiente
+sicuro
+vecchio

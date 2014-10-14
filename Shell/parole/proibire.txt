@@ -1,0 +1,6 @@
+ingresso
+lasciare
+libro
+permettere
+proibire
+vietare

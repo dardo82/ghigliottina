@@ -5,3 +5,6 @@ gengiva.txt
 M>gingiva</E
 M>superiore</E
 M>inferiore</E
+dentista
+gengiva
+tasca

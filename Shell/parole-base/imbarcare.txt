@@ -41,3 +41,5 @@ M>contare i passeggeri imbarcati</E
 M>calare nella stiva le merci imbarcate</E
 M>è imbarcato su un transatlantico come primo cameriere</E
 M>è rimasto imbarcato poco più d’un anno</E
+imbarcare
+viaggiatore

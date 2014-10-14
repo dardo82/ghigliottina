@@ -4,3 +4,6 @@ alluce.txt
 M>allux</E
 M>allus</E
 M>allex</E
+alluce
+dito
+pollice

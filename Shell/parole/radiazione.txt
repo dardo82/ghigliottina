@@ -1,0 +1,14 @@
+campo
+dose
+duro
+energia
+fascia
+fondo
+iscrizione
+nucleare
+pressione
+radiazione
+raggio
+secondario
+temperatura
+visibile

@@ -5,3 +5,6 @@ M>lus</E
 M>locus</E
 M>uni</E
 M>pluriloculare</E
+funerale
+loculo
+tomba

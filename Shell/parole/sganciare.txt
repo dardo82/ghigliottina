@@ -1,0 +1,4 @@
+agganciare
+appendere
+aprire
+sganciare

@@ -46,3 +46,26 @@ M>sguscio</E
 M>diritto</E
 M>rovescio</E
 M>g. elettronico</E
+buccia
+coccio
+corazza
+di
+duro
+forma
+frutta
+guscio
+lumaca
+netto
+nocciola
+noce
+olio
+palma
+rompere
+seme
+simile
+struttura
+tartaruga
+tuo
+uovo
+vano
+vuoto

@@ -6,3 +6,5 @@ M>s. a resistenza</E
 M>s. a punti</E
 M>s. a ultrasuoni</E
 M>sonotrodo</E
+saldare
+saldatrice

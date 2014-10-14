@@ -31,3 +31,35 @@ M>civiltà</E
 M>società del b</E
 M>economia del b</E
 M>condizioni di b</E
+acquistare
+agio
+angoscia
+aspirazione
+bene
+benessere
+centro
+crisi
+discreto
+dolore
+economia
+essere
+felicità
+fisico
+guidare
+infantile
+materiale
+miseria
+nazione
+necessità
+noia
+piacere
+procurare
+relativo
+restituire
+ricchezza
+salute
+sensazione
+senso
+soddisfazione
+tale
+zona

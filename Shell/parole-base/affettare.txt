@@ -9,3 +9,6 @@ affettare.txt
 *[http
 *[http
 * Paravia, ''[http
+affettare
+coltello
+salame

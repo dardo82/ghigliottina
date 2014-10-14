@@ -34,3 +34,9 @@ M>giornata</E
 M>vita l</E
 M>le sue giornate trascorrono laboriosamente</E
 M>la conciliazione tra i due soci è stata laboriosamente raggiunta</E
+attivo
+difficile
+inerte
+laborioso
+lavoratore
+studioso

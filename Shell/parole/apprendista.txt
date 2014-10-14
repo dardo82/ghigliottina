@@ -1,0 +1,8 @@
+allievo
+apprendista
+giovane
+lavorare
+lavoratore
+maestra
+maestro
+ragazzo

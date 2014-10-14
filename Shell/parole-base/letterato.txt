@@ -3,3 +3,12 @@ letterato.txt
 "letterato"
 "letterato"
 *[[illetterato]]
+ignorante
+intellettuale
+lettera
+letterario
+letterato
+pratica
+produzione
+rispettare
+soprannome

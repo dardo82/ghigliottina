@@ -3,3 +3,5 @@ centroamericano.txt
 M>paesi</E
 M>stati c</E
 M>popolazioni indigene centroamericane</E
+centro
+centroamericano

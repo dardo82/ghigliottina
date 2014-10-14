@@ -32,3 +32,24 @@ M>compressore</E
 M>inchiostratore</E
 M>ferro di calcinelli</E
 M>rollo</E
+asciugamano
+bravo
+calvo
+cetriolo
+coprire
+cretino
+finto
+imbecille
+merlo
+mestiere
+nudo
+rullo
+rumore
+scemo
+sciocco
+stampa
+tacco
+tamburo
+tenda
+tirare
+vapore

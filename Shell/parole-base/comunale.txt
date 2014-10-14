@@ -16,3 +16,37 @@ comunale.txt
 *[[comunanza]], [[comunardo]]
 *[[provinciale]], [[regionale]], [[nazionale]], [[internazionale]], [[continentale]], [[universale]]
 *Devoto/Oli, ''Il dizionario della lingua italiana'', edizione cartacea 2000-2001, Le Monnier, p. 474
+amministratore
+amministrazione
+azienda
+banco
+biblioteca
+caduta
+cittadino
+comunale
+comune
+consigliere
+consiglio
+delegazione
+farmacia
+foro
+mensa
+palazzo
+pareggiare
+piscina
+potenza
+privato
+provinciale
+rappresentante
+rinnovare
+riunire
+ruolo
+scuola
+seduta
+segretario
+suolo
+tamburo
+torre
+ufficio
+urbano
+villa

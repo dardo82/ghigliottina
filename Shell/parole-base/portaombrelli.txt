@@ -3,3 +3,4 @@ portaombrelli.txt
 M>portare</E
 M>ombrello</E
 M>vaso portaombrelli</E
+portaombrelli

@@ -7,3 +7,10 @@ campeggio.txt
 "fornellino da campeggio"
 "fornello da campeggio"
 "tenda da campeggio"
+accampamento
+campeggio
+estivo
+fornello
+materasso
+roulotte
+tenda

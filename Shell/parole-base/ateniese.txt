@@ -4,3 +4,6 @@ ateniese.txt
 M>Atheniensis</E
 M>arte</E
 M>civiltà a</E
+ateniese
+comandare
+spirito

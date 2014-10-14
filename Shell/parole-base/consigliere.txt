@@ -24,3 +24,16 @@ M>consigliere</E
 M>delegato</E
 M>amministratore delegato</E
 M>di amministrazione</E
+appello
+assessore
+comunale
+consigliere
+fiducia
+guida
+ministro
+personale
+regina
+sconsigliare
+secondo
+seduta
+senso

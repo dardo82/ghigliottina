@@ -19,3 +19,18 @@ M>pensieri g</E
 M>la trama di questo romanzo è davvero molto gracile</E
 M>muscolo g</E
 M>muscolo retto interno</E
+corpo
+costituzione
+esile
+forte
+gracile
+grasso
+magro
+minuto
+petto
+quadrato
+robusto
+sano
+secco
+sottile
+uomo

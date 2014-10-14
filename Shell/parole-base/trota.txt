@@ -31,3 +31,11 @@ M>Salmo trutta marmoratus</E
 M>t. iridata</E
 M>Salmo gairdneri</E
 M>T. salmonata</E
+centro
+fiume
+lago
+mare
+saltare
+spina
+trota
+turbare

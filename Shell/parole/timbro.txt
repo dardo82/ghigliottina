@@ -1,0 +1,13 @@
+data
+gomma
+impressione
+marca
+metallico
+musica
+musicale
+postale
+strumento
+suono
+timbro
+uno
+voce

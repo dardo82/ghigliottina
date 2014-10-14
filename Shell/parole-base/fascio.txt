@@ -80,3 +80,23 @@ M>iscriversi</E
 M>essere iscritto al F</E
 M>andare al F</E
 M>essere convocati al Fascio</E
+alterno
+andare
+casa
+erba
+fagotto
+fascio
+fascismo
+fascista
+fiore
+insieme
+legna
+luce
+mazzo
+pilastro
+portare
+proiettare
+provare
+raggio
+saldatura
+schiera

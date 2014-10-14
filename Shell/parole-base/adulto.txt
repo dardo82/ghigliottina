@@ -24,3 +24,10 @@ M>mostra uno stile già adulto</E
 M>è adulto</E
 M>Par</E
 M>A li occhi di ciascuno il cui ingegno Ne la fiamma d’amor non è adulto</E
+adulto
+bambino
+maturo
+minorenne
+perfetto
+piccolo
+uomo

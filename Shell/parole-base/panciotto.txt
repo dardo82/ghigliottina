@@ -2,3 +2,4 @@ panciotto.txt
 "gilè, panciotto"
 "panciotto"
 M>gilè</E
+panciotto

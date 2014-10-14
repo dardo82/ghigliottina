@@ -7,3 +7,27 @@ flotta.txt
 "flotta mercantile"
 "la Flotta"
 #*''la flotta inglese dominava i mari''
+acqua
+aereo
+alleato
+americano
+assicurazione
+canale
+entrare
+flotta
+incendiare
+inglese
+inseguimento
+inseguire
+marina
+merce
+militare
+navale
+nave
+opporre
+pirata
+prefetto
+richiamare
+sacco
+schierare
+scontrare

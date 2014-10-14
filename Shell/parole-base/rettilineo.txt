@@ -22,3 +22,9 @@ M>un modo di comportarsi rettilineo</E
 M>avanzare</E
 M>procedere rettilineamente</E
 M>polarizzato rettilineamente</E
+curva
+diretto
+diritto
+rettilineo
+scavalcare
+tortuoso

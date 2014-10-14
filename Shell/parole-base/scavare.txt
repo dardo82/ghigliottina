@@ -45,3 +45,20 @@ M>un camminamento scavato nella roccia</E
 M>essere scavato in volto</E
 M>avere il volto scavato</E
 M>occhi scavati</E
+aprire
+buca
+conficcare
+estrarre
+incidere
+mangiare
+muso
+pala
+pozzo
+roccia
+scavare
+solco
+sotto
+terra
+terreno
+tra
+trincea

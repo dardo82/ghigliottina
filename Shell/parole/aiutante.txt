@@ -1,0 +1,14 @@
+aiutante
+aiuto
+assistente
+bandiera
+campo
+capo
+garzone
+giovane
+lavoratore
+maggiore
+ragazzo
+secondo
+segretario
+su

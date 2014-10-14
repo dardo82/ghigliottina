@@ -7,3 +7,10 @@ M>dire una cosa s.</E
 M>chiacchieravano tra loro s.</E
 M>cantare</E
 M>canticchiare sottovoce</E
+a
+piano
+ricordo
+salute
+silenzio
+sottovoce
+voce

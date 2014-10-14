@@ -3,3 +3,8 @@ macedonia.txt
 "macedonia"
 *[[caos]]
 :* en
+insalata
+macedonia
+ricetta
+servizio
+zuppa

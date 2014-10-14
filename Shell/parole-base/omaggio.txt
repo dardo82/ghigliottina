@@ -77,3 +77,25 @@ M>omaggio della ditta</E
 M>confezione omaggio</E
 M>buono omaggio</E
 M>prodotto omaggio</E
+biglietto
+buono
+copia
+donare
+inno
+intervenire
+mandare
+omaggio
+onore
+ossequio
+ottenere
+portare
+premio
+presente
+prestare
+regalo
+rendere
+ricevere
+saluto
+scelta
+solo
+vero

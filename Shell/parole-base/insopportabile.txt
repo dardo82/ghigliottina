@@ -48,3 +48,25 @@ M>è un uomo insopportabilmente presuntuoso</E
 "name": "Insopportabile"
 "name": "Questa donna insopportabile"
 "name": "Questa donna insopportabile"
+calore
+delizioso
+dolore
+gettare
+insopportabile
+mai
+miagolare
+momento
+mortale
+noioso
+odioso
+prepotenza
+prurito
+puzzo
+segno
+sete
+spiacevole
+straziare
+stupido
+tanto
+terribile
+vampata

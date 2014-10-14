@@ -37,3 +37,5 @@ M>di molte r</E
 M>di infinite r</E
 M>è privo di risorse</E
 M>senza risorse</E
+risorsa
+segreto

@@ -32,3 +32,12 @@ M>di carburante</E
 M>distributore</E
 M>ci fermeremo al prossimo distributore</E
 M>tipografico</E
+automatico
+benzina
+distribuire
+distributore
+fermare
+introduzione
+ogni
+pompa
+rifornimento

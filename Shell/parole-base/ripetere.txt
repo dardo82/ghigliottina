@@ -109,3 +109,43 @@ M>allievi ripetenti</E
 M>è un ripetente</E
 M>una ripetente</E
 M>una classe piena di ripetenti</E
+anno
+anonimo
+bocciare
+citare
+classe
+continuare
+dire
+disco
+fedele
+formula
+forza
+furia
+giovare
+infinito
+inutile
+levare
+lezione
+mai
+memoria
+mente
+noia
+nuovo
+orecchio
+pappagallo
+parola
+presenza
+presumere
+primo
+promuovere
+purga
+quarto
+rinnovare
+ripetere
+ripetizione
+rivelare
+salvare
+senso
+sera
+stanco
+stesso

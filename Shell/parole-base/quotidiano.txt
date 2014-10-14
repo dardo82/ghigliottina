@@ -141,3 +141,47 @@ M>la noia</E
 M>le miserie del quotidiano</E
 M>viene a trovarmi quotidianamente nel mio ufficio</E
 M>fatti di violenza che si ripetono quasi quotidianamente</E
+colonna
+colonna
+corrente
+corrente
+essere
+essere
+giornale
+giornale
+giornaliero
+giornaliero
+indipendente
+indipendente
+letterario
+letterario
+linguaggio
+linguaggio
+modesto
+modesto
+nazionale
+nazionale
+noia
+noia
+organo
+organo
+pane
+pane
+parentesi
+parentesi
+poesia
+poesia
+quotidiano
+quotidiano
+redazione
+redazione
+rubrica
+rubrica
+solito
+solito
+stampare
+stampare
+uso
+uso
+voce
+voce

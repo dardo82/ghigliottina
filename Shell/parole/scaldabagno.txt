@@ -1,0 +1,9 @@
+bagno
+consumo
+gas
+guastare
+mettere
+opera
+scaldabagno
+spegnere
+stufa

@@ -94,3 +94,35 @@ M>scudi d&#8217;oro</E
 M>S. europeo</E
 M>European Currency Unit</E
 M>écu</E
+adattare
+arnese
+bandiera
+benda
+campo
+canadese
+contro
+corazza
+francese
+incassare
+inglese
+parare
+posto
+proteggere
+protezione
+punta
+quarto
+quinto
+raggruppare
+rovesciare
+sbarrare
+schermo
+scudetto
+scudo
+sinistra
+spagnolo
+specchio
+tartaruga
+umano
+uscio
+vestito
+volto

@@ -7,3 +7,9 @@ M>negozio di maglierie</E
 M>macchine</E
 M>telai per maglieria</E
 M>piombi</E
+ago
+lavorazione
+macchina
+maglia
+maglieria
+telaio

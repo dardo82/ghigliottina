@@ -1,0 +1,9 @@
+carbone
+fascio
+filtro
+ingresso
+microfono
+nastro
+prontezza
+risposta
+rumore

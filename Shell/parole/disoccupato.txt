@@ -1,0 +1,7 @@
+attuale
+disoccupato
+disoccupazione
+disponibile
+lavoratore
+occupato
+povero

@@ -1,3 +1,9 @@
 flanella.txt
 "flanella"
 "flanella di cotone"
+cotone
+flanella
+lana
+mutande
+pezza
+pigiama

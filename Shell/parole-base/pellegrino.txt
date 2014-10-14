@@ -59,3 +59,9 @@ M>falco p</E
 M>Falco peregrinus</E
 M>con due occhi in testa che parevan d&#8217;un falcon p</E
 M>laminatoio a passo di pellegrino</E
+falco
+pellegrino
+raccogliere
+risentire
+squalo
+viaggiatore

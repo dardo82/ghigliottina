@@ -21,3 +21,13 @@ M>giudice i</E
 M>istruttore</E
 M>degli atti</E
 M>uditore</E
+batteria
+giudice
+guida
+insegnante
+istruire
+istruttore
+maestro
+pilota
+sergente
+sospettare

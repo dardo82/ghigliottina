@@ -47,3 +47,28 @@ M>di fagioli</E
 M>di fuoco</E
 M>pentola</E
 M>di Papin</E
+asino
+bollire
+coperchio
+coprire
+cottura
+dietro
+fumo
+fuoco
+gas
+lenzuolo
+mettere
+oro
+padella
+pentola
+pesce
+pressione
+rimettere
+riportare
+sciocchezza
+scoprire
+su
+tegame
+togliere
+uscire
+vapore

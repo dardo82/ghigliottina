@@ -14,3 +14,6 @@ M>assordarsi</E
 M>assordirsi</E
 M>un rumore assordante</E
 M>le rondini garrivano assordanti</E
+assordare
+orecchio
+sordo

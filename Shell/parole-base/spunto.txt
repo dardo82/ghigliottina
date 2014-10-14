@@ -7,3 +7,10 @@ spunto.txt
 "spunto"
 "spunto di riflessione"
 "trarre lo spunto da"
+giro
+idea
+punta
+ricavare
+riflessione
+spunto
+trarre

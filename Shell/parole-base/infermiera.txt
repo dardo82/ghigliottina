@@ -5,3 +5,8 @@ infermiera.txt
 "infermiera diplomata"
 "infermiera diplomata"
 "infermiera diplomata"
+aiuto
+infermiera
+infermiere
+infermo
+turno

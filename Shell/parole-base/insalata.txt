@@ -87,3 +87,34 @@ M>quel locale offre un ricco menu di insalatone</E
 "name": "Insalata 'e mare"
 "name": "La gonna e l'insalata"
 "name": "La gonna e l'insalata"
+campo
+carota
+cavolo
+conciare
+condire
+dinanzi
+fagiolo
+forchetta
+frutta
+insalata
+lavare
+maionese
+mare
+mescolare
+misto
+pasta
+patata
+piatto
+piede
+pollo
+pomodoro
+pulire
+rivoltare
+russo
+salare
+sale
+salsa
+sapore
+servizio
+verde
+zuppa

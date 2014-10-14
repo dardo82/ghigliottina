@@ -19,3 +19,6 @@ M>procedere affiancati</E
 M>due edifici affiancati</E
 M>truppe</E
 M>navi affiancate</E
+accoppiare
+affiancare
+proteggere

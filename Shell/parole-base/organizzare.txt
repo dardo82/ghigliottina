@@ -54,3 +54,39 @@ M>un lavoro male organizzato</E
 M>ha un cervello poco organizzato</E
 M>trombo organizzato</E
 M>il partito ha diramato istruzioni a tutti i proprî organizzati</E
+adattare
+anticipo
+comizio
+complotto
+concerto
+convegno
+costituire
+difesa
+dimostrazione
+esposizione
+fare
+finanziario
+formare
+giro
+gita
+industriale
+meglio
+mostra
+ordinare
+organizzare
+organo
+piano
+pranzo
+pratico
+preparare
+propaganda
+protestare
+provinciale
+rapina
+ribellione
+sistemare
+soccorso
+splendido
+tavola
+tempo
+tesoro

@@ -1,2 +1,4 @@
 ergastolano.txt
 "Traduzione di ergastolano/ non trovata.\nNo translation was found for ergastolano/."
+ergastolano
+ergastolo

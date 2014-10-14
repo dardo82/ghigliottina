@@ -27,3 +27,9 @@ M>è proibito parlare al conducente</E
 M>è severamente proibito fumare</E
 M>è proibito dalla legge</E
 M>dai regolamenti</E
+ingresso
+lasciare
+libro
+permettere
+proibire
+vietare

@@ -10,3 +10,5 @@ M>bottiglietta a c</E
 M>dare qualcosa col c</E
 M>i soldi me li dà col c</E
 M>la notizia ci è stata data col contagocce</E
+contagocce
+goccia

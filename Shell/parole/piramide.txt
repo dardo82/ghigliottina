@@ -1,0 +1,6 @@
+altezza
+base
+cadavere
+figura
+piramide
+popolazione

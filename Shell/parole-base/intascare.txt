@@ -17,3 +17,5 @@ M>imborsare</E
 M>una branda</E
 M>una tenda</E
 M>le bandiere da segnalazione</E
+intascare
+tasca

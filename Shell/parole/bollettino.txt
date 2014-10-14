@@ -1,0 +1,7 @@
+applicazione
+bollettino
+giornale
+neve
+pagella
+quotidiano
+sanitario

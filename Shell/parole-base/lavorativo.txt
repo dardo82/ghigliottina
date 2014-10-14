@@ -14,3 +14,9 @@ M>giorno l</E
 M>giornata l</E
 M>ore l</E
 M>terreno l</E
+ambiente
+costanza
+feriale
+festa
+giorno
+lavorativo

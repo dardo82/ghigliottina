@@ -139,3 +139,37 @@ M>una persona</E
 M>un segreto</E
 M>mandarono alle lor terre maestri</E
 M>che la gioventù sopra ciò instruissero ed insegnassero</E
+arrampicarsi
+arte
+bufalo
+chimica
+composizione
+concerto
+dimostrare
+disegno
+educare
+elementare
+elemento
+francese
+geografia
+inglese
+insegnante
+insegnare
+istruire
+latino
+leggere
+lezione
+macchina
+malizia
+matematica
+mestiere
+nuotare
+padrone
+privato
+recitare
+regola
+religione
+scrivere
+spagnolo
+strada
+venire

@@ -26,3 +26,10 @@ M>trovavano più tosto il mettevano</E
 M>ho quattro stanze d</E
 M>vedo che c’è una sedia disoccupata</E
 M>e mi ci siedo io</E
+attuale
+disoccupato
+disoccupazione
+disponibile
+lavoratore
+occupato
+povero

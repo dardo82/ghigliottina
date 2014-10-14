@@ -4,3 +4,10 @@ M>astro</E
 M>nave</E
 M>veicolo spaziale</E
 M>navicella spaziale</E
+astronave
+nave
+rientrare
+rivestire
+struttura
+traghetto
+volo

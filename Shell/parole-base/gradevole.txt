@@ -17,3 +17,38 @@ M>soggiorno</E
 M>compagnia gradevole</E
 M>la casa è arredata gradevolmente</E
 M>restare gradevolmente sorpreso</E
+amaro
+antipatico
+aspetto
+aspro
+bello
+brutto
+buono
+calore
+cortese
+disgustoso
+fastidioso
+gradevole
+grato
+gusto
+impressione
+ingrato
+insopportabile
+maledetto
+morbido
+noioso
+odioso
+odore
+palato
+penoso
+piacevole
+produrre
+sapore
+scarabocchio
+sentire
+spiacevole
+squisito
+suono
+tepore
+terribile
+timbro

@@ -14,3 +14,9 @@ M>si sono fatti troppi p. su di lui</E
 M>sul conto loro</E
 M>un rotocalco specializzato in pettegolezzi</E
 M>il gusto del pettegolezzo.</E
+autore
+discorso
+invenzione
+oggetto
+pettegolezzo
+sapore

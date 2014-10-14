@@ -27,3 +27,23 @@ M>pentole</E
 M>secchi r</E
 M>molto r</E
 M>poco recipienti</E
+altezza
+bacino
+botte
+brocca
+fondo
+grandezza
+larghezza
+metallico
+perdere
+pieno
+recipiente
+rivestire
+scatola
+serbatoio
+superficie
+tenuta
+uno
+urna
+vuotare
+vuoto

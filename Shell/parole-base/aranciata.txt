@@ -3,3 +3,7 @@ aranciata.txt
 "aranciata amara"
 *[[spremuta d'arancia]]
 M>spremuta d’arancia</E
+arancia
+aranciata
+lattina
+rinfrescare

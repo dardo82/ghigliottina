@@ -7,3 +7,5 @@ obbiettivo.txt
 "obbiettivo, obiettivo"
 "obbiettivo, obiettivo"
 *[http
+obbiettivo
+obbiettivo

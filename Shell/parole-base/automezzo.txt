@@ -3,3 +3,7 @@ automezzo.txt
 *[[autoveicolo]]
 M>auto</E
 M>mezzo</E
+automezzo
+registrare
+registrazione
+trasportare

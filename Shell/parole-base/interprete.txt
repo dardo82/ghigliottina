@@ -65,3 +65,14 @@ M>della canzone</E
 M>programma interprete</E
 M>compilatore</E
 M>macchina interpretatrice</E
+altro
+fedele
+infedele
+interpretazione
+interprete
+lettore
+maledizione
+sentimento
+servire
+superare
+tradurre

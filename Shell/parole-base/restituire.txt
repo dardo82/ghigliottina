@@ -73,3 +73,28 @@ M>registrare la somma restituita</E
 M>materiali restituiti</E
 M>cuoio restituito</E
 M>fibre restituite</E
+atto
+deposito
+furto
+intero
+luce
+morto
+obbligare
+originario
+parola
+particolare
+petto
+promessa
+quale
+rendere
+respingere
+restituire
+rimandare
+ripagare
+riportare
+ritardo
+ritenere
+strappare
+visita
+vita
+vuoto

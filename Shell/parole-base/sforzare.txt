@@ -4,3 +4,6 @@ sforzare.txt
 "sforzare"
 "sforzare, replace: sforzarsi"
 *[[sforzarsi]]
+costringere
+forzare
+sforzare

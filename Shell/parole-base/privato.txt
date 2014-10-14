@@ -153,3 +153,46 @@ M>ha chiesto di essere ricevuto privatamente dal ministro</E
 M>la cerimonia si è svolta privatamente</E
 M>l’ho saputo</E
 M>me l’ha confidato privatamente</E
+accordo
+aereo
+albergo
+ambulatorio
+avvocato
+cambiare
+capitale
+collettivo
+complesso
+comune
+credito
+diritto
+e
+entrata
+generale
+impiegato
+impiego
+indirizzo
+insegnante
+interesse
+internazionale
+personale
+pilota
+politico
+poliziotto
+prevalenza
+privato
+proprio
+pubblico
+rango
+reddito
+segretario
+senza
+settore
+sopra
+speciale
+statale
+studio
+trasporto
+ufficio
+verde
+violare
+zona

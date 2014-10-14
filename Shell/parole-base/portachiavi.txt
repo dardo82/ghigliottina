@@ -6,3 +6,6 @@ portachiavi.txt
 *inglese
 M>portare</E
 M>chiave</E
+anello
+porta
+portachiavi

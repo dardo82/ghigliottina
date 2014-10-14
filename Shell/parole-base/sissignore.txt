@@ -14,3 +14,5 @@ M>sissignore</E
 M> sarai servito senz&#8217;altro!</E
 M>sissignora</E
 M> questo è un compito che spetta proprio a lei!</E
+signore
+sissignore

@@ -2,3 +2,6 @@ orologiaio.txt
 "orologiaio"
 "orologiaio"
 "orologiaio"
+martello
+orologiaio
+orologio

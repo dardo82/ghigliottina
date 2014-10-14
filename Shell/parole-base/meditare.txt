@@ -51,3 +51,8 @@ M>discorso</E
 M>piano ben meditato</E
 M>una decisione ben meditata</E
 M>prendere meditatamente una decisione</E
+meditare
+riflettere
+ritirare
+speculare
+vendetta

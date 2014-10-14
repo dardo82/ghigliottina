@@ -9,3 +9,7 @@ M>picconatrice</E
 M>dare il primo colpo di p</E
 M>demolire a colpi di piccone</E
 M>p. demolitore</E
+colpo
+occhio
+piccone
+primo

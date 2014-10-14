@@ -58,3 +58,26 @@ M>promosso con ottimi voti</E
 M>promosso per merito speciale</E
 M>gli alunni promossi sono 23</E
 M>i promossi e i bocciati</E
+agitare
+approvare
+colletta
+consumo
+crescita
+favorire
+giudizio
+incoraggiare
+indagine
+investire
+istituzione
+legale
+licenziamento
+lite
+pace
+procedimento
+progresso
+promosso
+promozione
+promuovere
+respingere
+sicurezza
+sviluppo

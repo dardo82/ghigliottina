@@ -15,3 +15,10 @@ M>Cerniera lampo</E
 M>chiusura lampo</E
 M>anticlinale</E
 M>sinclinale</E
+cerniera
+chiudere
+chiusura
+lampo
+lavorare
+persiana
+piega

@@ -54,3 +54,30 @@ M>un tentativo che dà poche</E
 M>scarse g</E
 M>non dà nessuna g</E
 M>di successo</E
+affidamento
+anno
+assicurazione
+avviso
+chiamata
+estensione
+finale
+firma
+fondo
+garanzia
+giuramento
+informazione
+lavoro
+legge
+lettera
+margine
+norma
+offerta
+offrire
+parola
+posto
+procedimento
+prodotto
+promessa
+raccomandare
+sicurezza
+su

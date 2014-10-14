@@ -9,3 +9,19 @@ indiretto.txt
 "di tasse pagate in modo indiretto"
 "indiretto"
 "lavoro indiretto"
+assassinio
+costo
+diretto
+immediato
+indiretto
+lavoro
+libero
+oggetto
+orientamento
+punizione
+regola
+rischio
+sistema
+stile
+sviluppo
+voto

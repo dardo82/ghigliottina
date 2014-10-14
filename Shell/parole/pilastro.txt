@@ -1,0 +1,7 @@
+base
+colonna
+foderare
+pilastro
+schiantare
+sostegno
+uscire

@@ -8,3 +8,36 @@ cambiale.txt
 "girare una cambiale"
 "protestare una cambiale"
 "relativo ad una cambiale a breve scadenza"
+accettare
+arma
+breve
+cambiale
+carta
+chiodo
+coda
+cordone
+effetto
+favore
+girare
+giro
+gola
+incubo
+lettera
+lungo
+noia
+onorare
+onore
+ossessione
+prestare
+protestare
+relativo
+richiamare
+rinnovare
+rinnovo
+ritardare
+scadenza
+scadere
+scontare
+sconto
+termine
+trarre

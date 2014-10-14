@@ -23,3 +23,6 @@ M>boiseries.</E
 M>decorazione a trofeo</E
 M>Trofei di caccia</E
 M>trofei</E
+caccia
+coppa
+trofeo

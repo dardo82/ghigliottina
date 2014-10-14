@@ -1,0 +1,4 @@
+cancellare
+prenotare
+prenotazione
+ristorante

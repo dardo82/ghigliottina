@@ -5,3 +5,5 @@ dopotutto.txt
 *[[dopo tutto]]
 M>après tout</E
 M>chi ci rimette sei tu</E
+dopo
+dopotutto

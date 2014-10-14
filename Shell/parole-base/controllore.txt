@@ -13,3 +13,10 @@ M>della circolazione aerea</E
 M>di volo</E
 M>della difesa aerea</E
 M>aereo avanzato</E
+controllo
+controllore
+ispettore
+presentare
+riscuotere
+treno
+volo

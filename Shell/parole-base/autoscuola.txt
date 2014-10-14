@@ -3,3 +3,4 @@ autoscuola.txt
 *[[scuolaguida]]
 M>auto</E
 M>scuola</E
+autoscuola

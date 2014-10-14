@@ -10,3 +10,8 @@ M>metro</E
 M>millimètre</E
 M>millimetro di mercurio</E
 M>torr</E
+centimetro
+metro
+millimetro
+quadrato
+quadro

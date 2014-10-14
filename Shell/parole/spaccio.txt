@@ -1,0 +1,15 @@
+caserma
+chiave
+droga
+esercizio
+espresso
+lettura
+magazzino
+messaggio
+militare
+negozio
+professionista
+spaccio
+spedire
+telegrafico
+vendita

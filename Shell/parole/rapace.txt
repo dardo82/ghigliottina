@@ -1,0 +1,5 @@
+aquila
+rapace
+scudo
+sedano
+uccello

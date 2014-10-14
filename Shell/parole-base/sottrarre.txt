@@ -30,3 +30,11 @@ M> e sottrarlo ai suoi colleghi</E
 M>s. un numero da un altro</E
 M>s. un vettore da un altro</E
 M>una funzione da un&#8217;altra</E
+aggiungere
+aumentare
+moltiplicare
+morte
+privare
+sommare
+sottrarre
+strappare

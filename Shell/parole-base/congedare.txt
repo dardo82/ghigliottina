@@ -19,3 +19,9 @@ M>una classe</E
 M>sarò congedato in aprile</E
 M>i militari congedati</E
 M>i congedati e le reclute</E
+allontanare
+assumere
+congedare
+licenziamento
+ospite
+politica

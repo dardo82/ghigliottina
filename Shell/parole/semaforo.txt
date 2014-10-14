@@ -1,0 +1,5 @@
+rosso
+segno
+semaforo
+tamponare
+verde

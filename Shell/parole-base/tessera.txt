@@ -50,3 +50,19 @@ M> Lidia</E
 M> la tessera Al secco taglio dài de la guardia</E
 M>mostrare il tesserino di abbonato</E
 M>di socio</E
+abbigliamento
+biblioteca
+buono
+carta
+elettorale
+fotografia
+membro
+produrre
+riconoscere
+riconoscimento
+ritratto
+scheda
+segno
+sindacale
+socio
+tessera

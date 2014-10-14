@@ -5,3 +5,8 @@ ergastolo.txt
 M>ergast</E
 M>lum</E
 M>condannare all’e</E
+a
+condanna
+ergastolo
+pena
+punire

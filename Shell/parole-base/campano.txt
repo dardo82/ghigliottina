@@ -1,1 +1,4 @@
 campano.txt
+campana
+campano
+nascondere

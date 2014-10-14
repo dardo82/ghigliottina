@@ -144,3 +144,43 @@ M>allo s.</E
 M>notaio dello s.</E
 M>viglietto dello s.</E
 M>S. di vera penitenza</E
+acciaio
+acqua
+anima
+armadio
+articolo
+bello
+consultare
+correre
+corrispondenza
+doppio
+dove
+lago
+larghezza
+largo
+leccare
+luce
+lucente
+lucido
+luminoso
+magico
+malaugurio
+mare
+mirare
+netto
+occhio
+pregiudizio
+raddrizzare
+rammendare
+riflettere
+riguardare
+scafo
+specchiare
+specchio
+tabella
+tavola
+tic-tac
+vanitoso
+vedere
+vetro
+zolla

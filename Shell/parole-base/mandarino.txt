@@ -9,3 +9,7 @@ mandarino.txt
 *''(frutto)'' [[clementina]]
 * dal [[portoghese]] ''[[mandarim]]''
 *[[mandarinismo]]
+arancia
+diamante
+frutto
+mandarino

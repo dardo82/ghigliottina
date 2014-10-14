@@ -34,3 +34,5 @@ M>parlare alla folla radunata</E
 M>una gran parte de&#8217; radunati</E
 M>sospeso ogni altro discorso</E
 M>s&#8217;eran rivoltati a lui</E
+radunare
+ridurre

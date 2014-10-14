@@ -1,0 +1,10 @@
+base
+consultare
+fermare
+indice
+legale
+paese
+pianta
+programma
+radunare
+tariffa

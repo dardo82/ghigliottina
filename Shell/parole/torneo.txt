@@ -1,0 +1,11 @@
+campionato
+elmo
+femminile
+giostra
+maschile
+risultato
+scudo
+sportivo
+torneo
+vincitore
+vittoria

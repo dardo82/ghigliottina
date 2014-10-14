@@ -1,0 +1,10 @@
+batteria
+giudice
+guida
+insegnante
+istruire
+istruttore
+maestro
+pilota
+sergente
+sospettare

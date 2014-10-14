@@ -11,3 +11,8 @@ M>scadenza r</E
 M>vendere</E
 M>acquistare</E
 M>pagare ratealmente</E
+acquisto
+consegna
+pagamento
+rateale
+sistema

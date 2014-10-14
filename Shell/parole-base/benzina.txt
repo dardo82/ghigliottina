@@ -37,3 +37,39 @@ M>restare senza b</E
 M>fare b.</E
 M>ha bisogno di fare spesso b</E
 M>ogni tanto si ferma in qualche osteria per fare benzina</E
+bello
+benzina
+benzinaio
+bidone
+distributore
+elettrico
+esplosione
+fuoco
+fusto
+gas
+gasolio
+gettare
+goccia
+lampada
+levare
+mettere
+motore
+normale
+perdere
+perdita
+petrolio
+pieno
+pompa
+rifornimento
+salire
+scendere
+segnalare
+senza
+serbatoio
+stare
+tassa
+uno
+verde
+versare
+voce
+zero

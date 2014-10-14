@@ -6,3 +6,5 @@ accattone.txt
 M>fare l’a</E
 M>sembrare un a</E
 M>vivere come un accattone</E
+accattone
+mendicante

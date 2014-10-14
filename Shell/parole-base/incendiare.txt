@@ -16,3 +16,6 @@ M>incendiarsi</E
 M>talvolta i boschi s’incendiano per autocombustione</E
 M>precipitando nella scarpata</E
 M>l’automobile s’incendiò</E
+bruciare
+incendiare
+incendio

@@ -30,3 +30,7 @@ M>cancellare dall’a</E
 M>una visita</E
 M>un incontro</E
 M>una riunione</E
+agenda
+diario
+rubrica
+scarabocchiare

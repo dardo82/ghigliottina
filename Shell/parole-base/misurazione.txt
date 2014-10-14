@@ -31,3 +31,23 @@ M>per compensazione</E
 M>misurazione</E
 M>della durezza</E
 M>del quoziente d’intelligenza</E
+altezza
+angolo
+apparecchio
+campo
+colore
+correggere
+errore
+indice
+marea
+metodo
+misura
+misurare
+misurazione
+saggio
+sistema
+strumento
+tamburo
+tipo
+verificare
+vuoto

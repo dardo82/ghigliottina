@@ -7,3 +7,9 @@ carcerato.txt
 M>carcerare</E
 M>visitare i c</E
 M>fare una vita da c</E
+assolvere
+carcerato
+carcere
+detenuto
+prigioniero
+scarcerare

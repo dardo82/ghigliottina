@@ -56,3 +56,9 @@ M>delle sue avventure e disavventure</E
 M>in questo romanzo</E
 M>la descrizione dei luoghi è spesso soltanto un arido i</E
 M>privo di rilievo e di colore</E
+beneficio
+elenco
+inventario
+numero
+registrazione
+venire

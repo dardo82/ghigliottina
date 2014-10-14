@@ -12,3 +12,7 @@ M>ma ha promesso di rimborsarmi al più presto</E
 M>dimmi quanto hai speso e ti rimborserò</E
 M>non essendosi effettuata la rappresentazione</E
 M>agli spettatori fu rimborsato il prezzo del biglietto</E
+pagare
+restituire
+rimborsare
+soddisfare

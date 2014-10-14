@@ -1,3 +1,4 @@
 sbronzo.txt
 "sbronzo"
 M>tutte le sere torna a casa sbronzo.</E
+sbronzo

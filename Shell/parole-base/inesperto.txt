@@ -38,3 +38,20 @@ M>Teco il prode guerreggia</E
 M>Di cedere inesperto</E
 M>maneggiare inespertamente un’arma</E
 M>uno strumento</E
+bravo
+buono
+capace
+esperto
+giovane
+ignorante
+inesperienza
+inesperto
+ingenuo
+insufficiente
+maestro
+manovrare
+nuovo
+pratico
+sapiente
+sicuro
+vecchio

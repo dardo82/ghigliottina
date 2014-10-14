@@ -22,3 +22,18 @@ M>non è nulla</E
 M>acciai calmati</E
 M>acciai non calmati</E
 M>semicalmati</E
+agitare
+calma
+calmare
+dolore
+eccitare
+impazienza
+ira
+irritare
+nervo
+nervosismo
+parola
+serpeggiare
+situazione
+spirito
+violenza

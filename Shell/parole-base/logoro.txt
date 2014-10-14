@@ -3,3 +3,6 @@ logoro.txt
 "logoro"
 "logoro"
 "logoro, esaurito, consumato"
+logoro
+nuovo
+vecchio

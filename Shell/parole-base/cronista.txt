@@ -15,3 +15,7 @@ M>della radio</E
 M>della televisione</E
 M>radiocronista</E
 M>telecronista</E
+cronista
+giornalista
+radio
+telecronista

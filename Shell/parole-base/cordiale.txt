@@ -8,3 +8,23 @@ cordiale.txt
 "Intesa cordiale"
 "entente cordiale"
 "persona cordiale"
+accoglienza
+addio
+applauso
+augurio
+buono
+cordiale
+cortese
+difficile
+gentile
+insopportabile
+intesa
+irriconoscibile
+oppressione
+persona
+riflettere
+saluto
+simpatico
+spontaneo
+stretta
+vita

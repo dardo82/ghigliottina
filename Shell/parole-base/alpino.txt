@@ -31,3 +31,16 @@ M>canzoni a</E
 M>cappello a</E
 M>all’alpina</E
 M>Punto a</E
+alpino
+bastone
+finocchio
+francese
+fringuello
+giardino
+montagna
+rifugio
+sacco
+sci
+sistema
+soccorso
+stile

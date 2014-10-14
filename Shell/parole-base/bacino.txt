@@ -67,3 +67,29 @@ M>b. d’utenza</E
 M>il b. d’utenza di una scuola</E
 M>di un ospedale</E
 M>di una rete radiofonica.</E
+acqua
+attrazione
+bacinella
+bacino
+calma
+cantiere
+circo
+elettorale
+fianco
+interessare
+lago
+marea
+mediterraneo
+mulino
+osso
+pianura
+poco
+popolazione
+raccolta
+rovinare
+soglia
+sorgente
+sotterraneo
+stagno
+valle
+vasca

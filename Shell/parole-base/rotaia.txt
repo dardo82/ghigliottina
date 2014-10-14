@@ -23,3 +23,15 @@ M>concorrenza tra la r</E
 M>e la strada</E
 M>linea di contatto a terza r</E
 M>terza r</E
+centrale
+fungo
+guida
+locomotiva
+metropolitana
+rotaia
+saldatura
+selvaggio
+strada
+tram
+trasporto
+veicolo

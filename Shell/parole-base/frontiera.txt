@@ -36,3 +36,15 @@ M>frequenza frontiera</E
 M>punto di frontiera</E
 M>frontiera</E
 M>contorno</E
+contorno
+frontiera
+nuovo
+piazza
+posto
+principio
+ripassare
+servizio
+sgombrare
+stazione
+trasmettere
+zona

@@ -10,3 +10,6 @@ M>le ferrovie</E
 M>una nave</E
 M>da quando ha cominciato a vivere in città si è rimodernato</E
 M>il collegio si è notevolmente rimodernato negli ultimi anni</E
+moderno
+rimodernare
+tornare

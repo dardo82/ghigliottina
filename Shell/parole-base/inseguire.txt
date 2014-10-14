@@ -30,3 +30,19 @@ M>era inseguito dal rimorso</E
 M>sfuggire ai nemici inseguenti</E
 "name": "Inseguire nel vento"
 "name": "Inseguire nel vento"
+albero
+caccia
+cacciare
+dietro
+fantasia
+fuga
+incalzare
+inseguimento
+inseguire
+orso
+rincorrere
+seguire
+seguito
+vagabondo
+viziare
+vizio

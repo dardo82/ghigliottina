@@ -61,3 +61,31 @@ M>di manovale</E
 M>diritto alla q</E
 M>funzionale</E
 M>di precedenza</E
+area
+assegnare
+batteria
+corso
+esame
+essenziale
+evidenza
+furto
+irregolare
+maestra
+maestro
+maggioranza
+manodopera
+manovale
+nota
+operaio
+personale
+presenza
+prova
+qualifica
+qualità
+relativo
+riconoscimento
+servizio
+sospensione
+stabilire
+superiore
+titolo

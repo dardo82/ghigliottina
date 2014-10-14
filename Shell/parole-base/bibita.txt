@@ -8,3 +8,13 @@ bibita.txt
 "bicchiere da bibita"
 M>bib</E
 M>bib</E
+bevanda
+bibita
+bicchiere
+comporre
+composizione
+menta
+non
+pescare
+rinfrescare
+succhiare

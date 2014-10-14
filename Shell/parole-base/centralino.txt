@@ -5,3 +5,8 @@ centralino.txt
 "centralino telefonico"
 "centralino telefonico"
 M>centrale</E
+automatico
+centralino
+interno
+passante
+telefonico

@@ -40,3 +40,29 @@ M>si manifestò un principio d’incendio</E
 M>al primo manifestarsi del male</E
 M>gli studenti hanno manifestato per la pace</E
 M>m. contro la guerra</E
+animo
+carica
+certo
+comportamento
+consenso
+contro
+coraggio
+desiderio
+dimostrare
+dire
+dissenso
+esplicito
+esporre
+idea
+indignazione
+intenzione
+manifestare
+manifesto
+mente
+nascondere
+ruggire
+rumoroso
+scoprire
+segno
+sentimento
+suicidio

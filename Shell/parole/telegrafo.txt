@@ -1,0 +1,4 @@
+campo
+telegrafo
+trasmettere
+trasmissione

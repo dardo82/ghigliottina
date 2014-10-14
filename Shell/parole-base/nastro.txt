@@ -117,3 +117,43 @@ M>bianco della strada</E
 M>da quassù i tigli del viale sembrano piccoli</E
 M> per la distanza</E
 M> nascondono lo stretto n. d’asfalto: quasi non si vedono le automobili</E
+annodare
+avvolgere
+azzurro
+cuffia
+elastico
+fascia
+fiocco
+freno
+fune
+giallo
+giovane
+incidere
+intrecciare
+largo
+lista
+lunghezza
+macchina
+metro
+microfono
+nastro
+nodo
+originale
+pino
+plastica
+registrare
+registrazione
+rosa
+rosso
+scrivere
+sega
+sottile
+sporco
+striscia
+suonare
+superficie
+svolgere
+tagliare
+taglio
+tavola
+vergine

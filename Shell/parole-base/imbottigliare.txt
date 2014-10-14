@@ -17,3 +17,5 @@ M>dal traffico caotico</E
 M>vino imbottigliato</E
 M>trovarsi</E
 M>rimanere imbottigliato nel traffico</E
+imbottigliare
+vino

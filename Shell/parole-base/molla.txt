@@ -56,3 +56,40 @@ M>un argomento</E
 M>una questione da prendere con le m</E
 M>è un tipo da pigliare con le m</E
 M>ha un carattere da prendere con le molle</E
+agire
+allentare
+asciugare
+bando
+colpo
+conclusione
+durata
+duro
+elastico
+immergere
+invisibile
+lasciare
+mai
+molla
+mollare
+muovere
+nastro
+orologio
+pappa
+posare
+prendere
+presa
+reggere
+resistere
+saltare
+schizzare
+sciogliere
+serratura
+sveglia
+tagliola
+tenere
+tensione
+tirare
+tiro
+valvola
+vela
+viziare

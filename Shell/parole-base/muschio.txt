@@ -7,3 +7,8 @@ muschio.txt
 "verde muschio"
 "verde muschio"
 *[[musco]]
+muschio
+pietra
+profumo
+richiamare
+verde

@@ -12,3 +12,5 @@ M>longitudinali</E
 M>trasversali</E
 M>concentrici circolari</E
 M>lunari</E
+crepaccio
+precipitare

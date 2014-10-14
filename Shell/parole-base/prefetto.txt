@@ -26,3 +26,10 @@ m>marittimo</e
 m>di disciplina</e
 m>prefetto</e
 m>istitutore</e
+carica
+elevare
+intervenire
+ordinare
+prefetto
+residenza
+sede

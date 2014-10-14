@@ -60,3 +60,9 @@ M>s. del raccolto</E
 M>del bilancio</E
 M>un periodo storico che rappresenta la s. tra due epoche</E
 M>talvolta manca la s. tra la cultura di una generazione e quella della generazione precedente</E
+arco
+gas
+presa
+riserva
+saldare
+saldatura

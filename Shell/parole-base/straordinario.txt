@@ -64,3 +64,37 @@ M>una ragazza straordinariamente bella</E
 M>una situazione straordinariamente pericolosa</E
 M>straordinariamente difficile</E
 M>oltremodo difficile</E
+banale
+bisognare
+commissario
+comune
+diverso
+eccellente
+eccezionale
+esigere
+fantastico
+freddo
+gioiello
+impiego
+incredibile
+indescrivibile
+lavoro
+magnifico
+meraviglioso
+nuovo
+ordinario
+premio
+professore
+qualcosa
+ruolo
+scontare
+singolare
+solo
+spaventoso
+speciale
+straordinario
+stravagante
+stupendo
+terribile
+trovare
+umano

@@ -54,3 +54,31 @@ M>E in spalla un scoppio o un arcobugio prendi</E
 M>si sentivano</E
 M> nel silenzio della classe</E
 M> gli scoppietti smorzati delle risa degli alunni</E
+altezza
+applauso
+aria
+camera
+carica
+crisi
+fulmine
+gomma
+guerra
+improvviso
+incendio
+ira
+meccanica
+meccanismo
+motore
+orribile
+passione
+produrre
+reazione
+riscuotere
+rumore
+scoppio
+sfogo
+simpatia
+spazzola
+spiegare
+stipendio
+violenza

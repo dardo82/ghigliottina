@@ -11,3 +11,13 @@ autista.txt
 #*''su ogni autobus c'è cartello che avverte di non disturbare l''''autista'''''
 *[[guidatore]], [[conducente]]
 *[[autistico]]
+accelerare
+aspettare
+autista
+autobus
+guidatore
+inesperto
+macchina
+pedone
+pullman
+tamponare

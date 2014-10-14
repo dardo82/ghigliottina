@@ -36,3 +36,11 @@ M>i poveri ricoverati</E
 M>un malato grave</E
 M>un ferito ricoverato</E
 M>l&#8217;orario di visita ai ricoverati</E
+casa
+clinica
+contagiare
+corsia
+manicomio
+ospedale
+ricoverare
+ricovero

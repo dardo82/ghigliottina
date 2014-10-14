@@ -3,3 +3,6 @@ sudamericano.txt
 M>gli stati s.</E
 M>un s.</E
 M>una sudamericana</E
+ballo
+sud
+sudamericano

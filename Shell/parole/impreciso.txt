@@ -1,0 +1,11 @@
+confuso
+fedele
+fine
+giusto
+impreciso
+infedele
+netto
+paziente
+preciso
+vago
+vero

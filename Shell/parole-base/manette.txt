@@ -5,3 +5,7 @@ manette.txt
 "manette"
 "manette"
 *[http
+manette
+mano
+mettere
+polso

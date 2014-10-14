@@ -11,3 +11,9 @@ vaccino.txt
 #* ''
 * [[vaccinare]],  [[vaccinazione]]
 *Enciclopedia [http
+formaggio
+latte
+richiamo
+vacca
+vaccino
+veleno

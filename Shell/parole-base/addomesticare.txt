@@ -31,3 +31,5 @@ M>elezioni addomesticate</E
 M>un concorso addomesticato</E
 M>incontro addomesticato</E
 M>truccato</E
+addomesticare
+domare

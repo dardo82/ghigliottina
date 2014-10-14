@@ -1,3 +1,8 @@
 panettiere.txt
 "panettiere"
 M>fornaio</E
+fornaio
+pane
+panettiere
+piazza
+ragazzo

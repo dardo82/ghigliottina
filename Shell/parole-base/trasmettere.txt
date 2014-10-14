@@ -84,3 +84,32 @@ M>il quartier generale</E
 M>la radio</E
 M>non trasmette più</E
 M>ha cessato di trasmettere</E
+affidare
+carica
+chiaro
+cifra
+composizione
+comunicare
+conoscenza
+contagiare
+diffondere
+entusiasmo
+generazione
+inviare
+messaggio
+mettere
+nome
+notizia
+ordine
+posizione
+programma
+radio
+ricevere
+rimettere
+segnalare
+spedire
+telegramma
+televisione
+trasferire
+trasmettere
+trasmissione

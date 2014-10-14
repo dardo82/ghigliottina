@@ -23,3 +23,21 @@ M>idraulico</E
 M>padre g</E
 M>Àncora guardiana</E
 M>Molo guardiano</E
+amoroso
+capo
+convento
+faro
+guardia
+guardiano
+linea
+montare
+notturno
+padre
+parare
+passeggero
+secco
+smontare
+sorveglianza
+spirito
+torre
+turno

@@ -11,3 +11,11 @@ brillare.txt
 "continuare a brillare"
 "scintillare, brillare"
 "splendere, brillare su"
+argento
+bene
+brillare
+continuare
+luccicare
+luce
+riuscire
+splendere

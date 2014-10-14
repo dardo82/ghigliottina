@@ -1,0 +1,7 @@
+controllo
+controllore
+ispettore
+presentare
+riscuotere
+treno
+volo

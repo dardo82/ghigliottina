@@ -1,0 +1,13 @@
+barba
+cena
+chiusura
+corso
+notturno
+pasto
+preghiera
+rappresentazione
+ricevimento
+ritrovo
+scuola
+sera
+serale

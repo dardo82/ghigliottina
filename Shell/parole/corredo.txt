@@ -1,0 +1,10 @@
+armamento
+capo
+cassa
+corredo
+cucire
+ingombrare
+patrimonio
+pranzo
+servizio
+sposa

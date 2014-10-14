@@ -15,3 +15,4 @@ M>color m</E
 M>un vestito</E
 M>un cappotto color melanzana</E
 M>una seta di un bel melanzana scuro</E
+melanzana

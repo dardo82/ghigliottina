@@ -10,3 +10,26 @@ M>ghi</E
 M>medico ch</E
 M>pesce ch</E
 M>pesci chirurgo</E
+aiuto
+artista
+assistere
+chirurgo
+classe
+ferro
+fisico
+forbice
+grido
+guanto
+inesperto
+mago
+miracoloso
+morire
+necessario
+opera
+operare
+orecchio
+pronto
+sapiente
+uguale
+valoroso
+veterinario

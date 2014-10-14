@@ -109,3 +109,35 @@ M> una splendida vista sul mare</E
 M>gaudente</E
 M>Frati godenti fummo</E
 M>e bolognesi</E
+agio
+autonomia
+beneficio
+cattivo
+considerazione
+discreto
+fama
+favore
+fiducia
+fisso
+frutto
+godere
+gradire
+grande
+grazia
+gustare
+impiegare
+nome
+pace
+piangere
+posizione
+prestigio
+primizia
+privilegio
+protezione
+rispetto
+salute
+simpatia
+stima
+tutto
+uso
+vivere

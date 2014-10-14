@@ -1,3 +1,4 @@
 cagliaritano.txt
 "Traduzione di cagliaritano/ non trovata.\nNo translation was found for cagliaritano/."
 M>il C</E
+cagliaritano

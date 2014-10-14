@@ -1,0 +1,12 @@
+buono
+cattivo
+cortese
+delicato
+fianco
+gentile
+infedele
+maleducato
+rifiuto
+scortese
+sgarbato
+troppo

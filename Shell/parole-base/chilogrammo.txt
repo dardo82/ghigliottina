@@ -15,3 +15,6 @@ M>Chilogrammo</E
 M>massa</E
 M>Chilogrammo</E
 M>peso</E
+chilo
+chilogrammo
+grammo

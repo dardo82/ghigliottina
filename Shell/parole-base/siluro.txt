@@ -3,3 +3,10 @@ siluro.txt
 "siluro"
 "siluro"
 *[[torpedine]]
+lanciare
+maiale
+pesce
+sacco
+saltare
+siluro
+uomo

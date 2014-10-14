@@ -42,3 +42,33 @@ M> quella ragazza è una m. d’idee</E
 M>acque povere</E
 M>ricche</E
 M>di miniera</E
+argento
+camino
+carbone
+cava
+ciminiera
+coltivare
+cui
+direttore
+discendere
+entrata
+estrarre
+fumo
+gas
+impiegare
+magro
+miniera
+o
+oro
+piombo
+pozzo
+provare
+rame
+relativo
+sale
+sfruttamento
+stanza
+struttura
+temperamento
+tesoro
+tunnel

@@ -2,3 +2,25 @@ riferire.txt
 "http://api.wordreference.com/12bee/json/iten/riferire/"
 * [[raccontare]], [[dire]],  [[ascrivere]], [[attribuire]]
 *[[riferibile]], [[riferimento]]
+calunnia
+citare
+confessare
+denunciare
+descrivere
+dire
+esagerare
+esporre
+fedele
+giuramento
+grande
+infedele
+informare
+lettera
+parlare
+parola
+perdere
+portare
+raccontare
+riferire
+rivelare
+trasmettere

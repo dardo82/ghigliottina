@@ -22,3 +22,17 @@ M>aiutante</E
 M>di camera</E
 M>addetto di anticamera</E
 M>di studio</E
+aiutante
+aiuto
+assistente
+bandiera
+campo
+capo
+garzone
+giovane
+lavoratore
+maggiore
+ragazzo
+secondo
+segretario
+su

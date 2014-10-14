@@ -1,0 +1,9 @@
+carrozzeria
+fiasco
+gabbia
+nave
+oliera
+olio
+petroliera
+struttura
+uccello

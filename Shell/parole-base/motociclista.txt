@@ -2,3 +2,6 @@ motociclista.txt
 "motociclista"
 #*''è un corridore motociclista''
 * [[automobilista]], [[pilota]], [[motociclismo]]
+motociclista
+scansare
+stringere

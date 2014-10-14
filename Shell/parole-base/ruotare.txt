@@ -48,3 +48,8 @@ M>gli organi rotanti di una macchina</E
 M>campo</E
 M>magnetico</E
 M>rotante</E
+interno
+intorno
+ruota
+ruotare
+verso

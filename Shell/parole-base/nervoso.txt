@@ -141,3 +141,29 @@ M>con</E
 M>le dita sul tavolo</E
 M>con</E
 M>il piede sul pavimento</E
+autonomo
+blocco
+buono
+cellula
+centrale
+centro
+contratto
+cordone
+disturbo
+impaziente
+impulso
+malattia
+nervo
+nervoso
+paziente
+primo
+quieto
+ruolo
+scaricare
+sciocchezza
+secco
+simpatico
+sistema
+tensione
+tic
+uomo

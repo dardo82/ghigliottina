@@ -45,3 +45,6 @@ M>essere sfondato</E
 M>sei uno sfondato</E
 M> non fai altro che mangiare!</E
 M>sfondato</E
+aprire
+schiacciare
+sfondare

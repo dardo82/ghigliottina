@@ -10,3 +10,6 @@ M>asciugare</E
 M>capelli</E
 M>fon</E
 M>Föhn</E
+asciugacapelli
+casco
+con

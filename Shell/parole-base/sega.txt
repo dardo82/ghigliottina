@@ -60,3 +60,35 @@ M>a giocare a pallone</E
 M> sei proprio una sega.</E
 M>fare sega</E
 M>a scuola</E
+addetto
+chiodo
+circolare
+dente
+erba
+farina
+foglia
+grano
+invernale
+lama
+legna
+legno
+limare
+lunghezza
+maneggiare
+meccanica
+mentale
+mordere
+nastro
+pane
+pesce
+profilo
+scuola
+secchio
+sega
+segnale
+striscia
+taglio
+tavola
+termine
+traforo
+volgare

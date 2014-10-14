@@ -34,3 +34,11 @@ M>italiano</E
 M>di linea</E
 M>da carico</E
 M>società di a</E
+arma
+armamento
+capitano
+corsa
+elicottero
+passare
+posizione
+tabella

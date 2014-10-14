@@ -25,3 +25,5 @@ M>falsa</E
 M>farsi una c</E
 M>prendere</E
 M>bere la camomilla</E
+camomilla
+mela

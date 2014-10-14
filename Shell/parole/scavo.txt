@@ -1,0 +1,10 @@
+cantiere
+cava
+fossa
+fosso
+poco
+presenza
+roccia
+scarpa
+scavo
+trincea

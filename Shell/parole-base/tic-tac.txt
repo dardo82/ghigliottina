@@ -3,3 +3,5 @@ tic-tac.txt
 M>il tic tac della sveglia</E
 M>quel silenzio di specchio che c&#8217;era prima in casa mia</E
 M> misurato dal tic-tac della pendola nel salotto da pranzo</E
+tic-tac
+tic

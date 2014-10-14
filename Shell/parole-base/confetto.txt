@@ -2,3 +2,7 @@ confetto.txt
 "confetto"
 "confetto"
 "rosa confetto"
+confetto
+motto
+pillola
+rosa

@@ -27,3 +27,18 @@ M>Caccia i pensier che t’han già posto assedio</E
 M>E che ti fan dì e notte andar fantastico</E
 M>Stato d’a</E
 M>stato di pericolo pubblico</E
+assedio
+barbaro
+divertire
+forzare
+gancio
+guerra
+levare
+porre
+prendere
+produrre
+rompere
+sotto
+spargere
+stringere
+vincere

@@ -2,3 +2,5 @@ apriscatole.txt
 "apriscatole"
 M>aprire</E
 M>scatola</E
+apriscatole
+scatola

@@ -6,3 +6,13 @@ M>correre</E
 M>autocorriera</E
 M>Nave c</E
 M>barca c</E
+autobus
+bagagliaio
+corriera
+diligenza
+partenza
+postale
+pullman
+ritardare
+ritardo
+stazione

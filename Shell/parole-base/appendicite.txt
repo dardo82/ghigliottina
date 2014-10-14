@@ -6,3 +6,7 @@ M>acuta</E
 M>cronica</E
 M>operarsi</E
 M>essere operato d’appendicite</E
+appendicite
+operare
+operazione
+paziente

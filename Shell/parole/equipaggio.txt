@@ -1,0 +1,9 @@
+armamento
+elenco
+equipaggio
+libro
+membro
+qualcuno
+rivoltare
+ruolo
+uomo

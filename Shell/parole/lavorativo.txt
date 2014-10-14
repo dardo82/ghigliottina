@@ -1,0 +1,6 @@
+ambiente
+costanza
+feriale
+festa
+giorno
+lavorativo

@@ -1,0 +1,11 @@
+accennare
+asso
+bastone
+diminuire
+insinuare
+leggero
+no
+occhio
+oscuro
+si
+sorriso

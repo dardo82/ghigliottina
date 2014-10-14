@@ -15,3 +15,6 @@ M>eletto s.</E
 M>s. per elezione</E
 M>per diritto</E
 M>s. a vita</E
+senato
+senatore
+vita

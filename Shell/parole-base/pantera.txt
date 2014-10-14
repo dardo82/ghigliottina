@@ -5,3 +5,9 @@ pantera.txt
 *[[leopardo]] nero 
 *italiano
 *spagnolo
+corpo
+leopardo
+maschio
+pantera
+ruggire
+ruggito

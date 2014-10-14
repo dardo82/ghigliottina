@@ -23,3 +23,13 @@ M>veloce come uno s.</E
 M>arrampicarsi come uno s.</E
 M>quel ragazzo è proprio uno s.</E
 M>gli Scoiattoli di Cortina</E
+arrampicarsi
+atto
+gabbia
+grigio
+nero
+saltare
+scimmia
+scoiattolo
+volante
+volpe

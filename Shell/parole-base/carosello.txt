@@ -11,3 +11,6 @@ M>Carosello</E
 M>d’idee</E
 M>d’immagini</E
 M>tranviario</E
+carosello
+giostra
+serie

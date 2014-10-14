@@ -13,3 +13,4 @@ M>fagiolo cornetto</E
 M>sperone</E
 M>potare</E
 M>potatura a cornetti</E
+cornetto

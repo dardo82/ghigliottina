@@ -8,3 +8,5 @@ delfino.txt
 "il Delfino"
 #* ''
 *(nella Francia monarchica) [[erede]]
+delfino
+insegna

@@ -30,3 +30,29 @@ M>la vostra intelligenza mi affida</E
 M>s’ella mi spaventa</E
 M>Amor m’affida</E
 M>chi mi affida da questa razza di uomini tanto da me diversa?</E
+affidare
+amministrazione
+carta
+commissariato
+consegnare
+contratto
+cura
+dare
+deposito
+direzione
+disciplina
+governo
+in
+incarico
+istruttore
+memoria
+messaggio
+papero
+parte
+portafoglio
+raccomandare
+rimettere
+scrittura
+tecnico
+traduzione
+ufficio

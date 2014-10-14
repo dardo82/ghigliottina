@@ -9,3 +9,5 @@ M>rosso</E
 M>rufus</E
 M>robusto</E
 M>robustus</E
+canguro
+saltare

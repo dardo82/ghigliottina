@@ -5,3 +5,6 @@ accoltellare.txt
 M>io accoltèllo</E
 M>rischiò di morire</E
 M>accoltellato da un suo rivale</E
+accoltellare
+coltello
+uccidere

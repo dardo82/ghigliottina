@@ -29,3 +29,8 @@ M>una gara da infarto</E
 "name": "L'infarto \"originale\""
 "name": "L'infarto \"originale\""
 "name": "Infarto cerebrale"
+colpo
+fattore
+infarto
+massaggio
+stroncare

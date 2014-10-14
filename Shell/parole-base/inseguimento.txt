@@ -35,3 +35,13 @@ M>curva di fuga</E
 M>curva di caccia</E
 M>curva del cane</E
 M>dispositivi ad i</E
+abbandonare
+caccia
+fuga
+inseguimento
+inutile
+lanciare
+ricerca
+riprendere
+slanciare
+stazione

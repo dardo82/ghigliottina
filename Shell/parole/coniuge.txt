@@ -1,0 +1,8 @@
+compagno
+coniuge
+consorte
+genero
+infedele
+suocera
+suocero
+tradire

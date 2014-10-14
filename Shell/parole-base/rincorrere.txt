@@ -17,3 +17,8 @@ M>r. un sogno</E
 M> un desiderio</E
 M>r. il successo</E
 M> la fama</E
+correre
+fuggire
+inseguire
+rincorrere
+seguire

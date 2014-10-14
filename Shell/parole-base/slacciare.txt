@@ -26,3 +26,10 @@ M>le stringhe delle scarpe</E
 M>Qual è quel toro che si slaccia in quella C&#8217;ha ricevuto già &#8217;l colpo mortale</E
 M>stare col colletto slacciato</E
 M>avere le scarpe slacciate</E
+agganciare
+allentare
+aprire
+cintura
+legare
+sciogliere
+slacciare

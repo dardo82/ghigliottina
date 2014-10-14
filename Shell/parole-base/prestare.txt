@@ -89,3 +89,41 @@ M>il suo contegno si presta a molte critiche</E
 M>con grand&#8217;usura ridomandereste ora il prestato</E
 M>per supplire alla legge comune che non dava loro</E
 M>alcun mezzo di ricuperare il prestato</E
+aiuto
+alimento
+animo
+ascoltare
+assistenza
+attenzione
+badare
+barbiere
+buttare
+collaborazione
+consenso
+credere
+fede
+fianco
+frutto
+garanzia
+giuramento
+ignorare
+imprestare
+legale
+mano
+nome
+omaggio
+onesto
+opera
+orecchio
+ossequio
+particolare
+preparare
+prestare
+presto
+proprio
+rendere
+rispondere
+roba
+servizio
+soccorso
+sotto

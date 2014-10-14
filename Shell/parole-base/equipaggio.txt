@@ -12,3 +12,12 @@ M>gli e</E
 M>di corte</E
 M>un ricco equipaggio</E
 M>di uno strumento</E
+armamento
+elenco
+equipaggio
+libro
+membro
+qualcuno
+rivoltare
+ruolo
+uomo

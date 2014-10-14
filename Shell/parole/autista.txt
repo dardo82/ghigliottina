@@ -1,0 +1,10 @@
+accelerare
+aspettare
+autista
+autobus
+guidatore
+inesperto
+macchina
+pedone
+pullman
+tamponare

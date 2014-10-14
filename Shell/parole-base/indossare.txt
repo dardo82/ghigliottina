@@ -26,3 +26,28 @@ M>indorsare</E
 M>indossàggio</E
 "name": "Un sorriso da indossare"
 "name": "Un sorriso da indossare"
+collant
+disinvoltura
+divisa
+giacca
+indossare
+leggero
+maschera
+mettere
+migliore
+misurare
+nuovo
+panno
+pelliccia
+portare
+prima
+pronto
+rimettere
+sciarpa
+smettere
+tonaca
+tuta
+uniforme
+veste
+vestire
+volta

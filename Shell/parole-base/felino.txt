@@ -21,3 +21,9 @@ M>felina</E
 M>muoversi</E
 M>avanzare felinamente</E
 M>stare felinamente in agguato</E
+esempio
+felino
+gatto
+orso
+ruggito
+scatto

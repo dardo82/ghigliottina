@@ -10,3 +10,6 @@ M>stampatore</E
 M>tipografo</E
 M>editore</E
 M>legatore</E
+libraio
+per
+pirata

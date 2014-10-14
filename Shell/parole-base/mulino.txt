@@ -14,3 +14,22 @@ mulino.txt
 * ''ognuno tira l'acqua al proprio '''mulino'''''
 * ''combattere contro i '''mulini''' a vento''
 *[[macinatoio]]
+acqua
+bacino
+banale
+canale
+cilindro
+contratto
+diga
+ferro
+mandare
+mulino
+muovere
+pala
+polvere
+portare
+puledro
+ruota
+tamburo
+tirare
+vento

@@ -1,0 +1,13 @@
+addetto
+bestiame
+catena
+erba
+magro
+mandria
+naturale
+pascolo
+pastore
+pecora
+portare
+scacciare
+stradale

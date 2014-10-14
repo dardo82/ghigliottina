@@ -49,3 +49,45 @@ M>rostrata</E
 M>corona murale</E
 M>corona n</E
 M>turrita e rostrata</E
+addetto
+appoggio
+architettura
+armamento
+assedio
+aviazione
+base
+battaglia
+cantiere
+combattimento
+contrasto
+dimostrazione
+divisione
+forza
+gioco
+guerra
+ingegnere
+istituto
+linea
+lista
+motore
+navale
+operazione
+ottone
+passeggero
+potenza
+rastrello
+riserva
+rivista
+sbarramento
+scorta
+sottomarino
+spiegare
+spostare
+squadra
+stazione
+terrestre
+trofeo
+vacanza
+vasca
+violare
+vittoria

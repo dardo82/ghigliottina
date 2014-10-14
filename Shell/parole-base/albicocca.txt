@@ -8,3 +8,5 @@ albicocca.txt
 M>una camicetta</E
 M>un golfino albicocca</E
 M>color albicocca</E
+albicocca
+seme

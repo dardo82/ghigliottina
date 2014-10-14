@@ -66,3 +66,30 @@ M>fare la z. nel brodo</E
 M>nel latte</E
 M>nel vino</E
 M>nel marsala</E
+asciugare
+assorbire
+bagnare
+carne
+casalingo
+cipolla
+cozza
+fava
+immergere
+inglese
+inzuppare
+latte
+mestiere
+molle
+pane
+paniere
+panna
+pesce
+pezzo
+pollo
+pomodoro
+ricetta
+sangue
+secco
+tartaruga
+umido
+zuppa

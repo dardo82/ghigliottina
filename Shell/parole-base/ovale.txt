@@ -6,3 +6,21 @@ ovale.txt
 "ovale"
 "ovale"
 "qc di forma ovale"
+annuale
+calabrese
+centro
+finestra
+forma
+generico
+lavoratore
+legame
+mano
+manovale
+ovale
+qualifica
+scudo
+sottolineare
+specchio
+tavola
+tenero
+uovo

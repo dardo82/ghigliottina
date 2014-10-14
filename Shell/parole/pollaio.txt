@@ -1,0 +1,5 @@
+gabbia
+gallina
+gallo
+pollaio
+pollo

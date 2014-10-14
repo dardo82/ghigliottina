@@ -23,3 +23,18 @@ M>accennolle che venisse a proda</E
 M> Vicino al fin d&#8217;i passeggiati marmi</E
 M>il cane</E
 M>il cavallo</E
+andare
+camminare
+centro
+galleria
+lido
+lume
+passeggiare
+passeggiata
+per
+portico
+solitario
+sotto
+su
+uno
+viale

@@ -30,3 +30,8 @@ M>pediculosi</E
 M>fare il v.</E
 M>fare il mestiere del vagabondo</E
 M>vita v.</E
+furfante
+pellegrino
+randagio
+vagabondo
+viaggiatore

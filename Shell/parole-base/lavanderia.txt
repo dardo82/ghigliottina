@@ -11,3 +11,8 @@ M>a vapore</E
 M>a secco</E
 M>automatica</E
 M>a gettone</E
+chi
+gettone
+lavanderia
+portare
+secco

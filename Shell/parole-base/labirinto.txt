@@ -35,3 +35,8 @@ M>cinetico</E
 M>renale</E
 M>l. acustico</E
 M>Classificatore a labirinto</E
+cieco
+labirinto
+sfondare
+tenuta
+vedere

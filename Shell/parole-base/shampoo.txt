@@ -18,3 +18,6 @@ M>Sh. liquido</E
 M> in gel</E
 M> sh. in polvere</E
 M>sh. secco</E
+doccia
+offerta
+shampoo

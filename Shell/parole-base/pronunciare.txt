@@ -67,3 +67,29 @@ M>pronunziante</E
 M>il magistrato</E
 M>il giudice pronunciante</E
 M>pronunziato</E
+astenere
+battuta
+brindisi
+chiaro
+condanna
+definitivo
+difesa
+dire
+distinto
+emettere
+giudizio
+giuramento
+latino
+messaggio
+modo
+parlare
+parola
+privilegio
+pronuncia
+pronunciare
+risposta
+senato
+si
+solenne
+tradizionale
+voto

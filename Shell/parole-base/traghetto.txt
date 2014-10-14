@@ -21,3 +21,9 @@ M>astronave traghetto</E
 M>navetta</E
 M>shuttle</E
 M>T. passa-pesce</E
+biglietto
+nave
+pregiudizio
+settimanale
+traghetto
+trasportare

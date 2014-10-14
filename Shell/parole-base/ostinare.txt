@@ -1,2 +1,3 @@
 ostinare.txt
 "ostinare, replace: ostinarsi"
+ostinare

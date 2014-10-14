@@ -1,0 +1,4 @@
+padre
+pagella
+votazione
+voto

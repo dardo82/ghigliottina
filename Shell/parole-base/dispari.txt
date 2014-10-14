@@ -25,3 +25,13 @@ M>al suo ufficio</E
 M>al cómpito affidatole</E
 M>cori a voci d</E
 M>a voci ineguali</E
+differenza
+dispari
+misto
+numero
+ordine
+pari
+parità
+plurale
+serie
+tempo

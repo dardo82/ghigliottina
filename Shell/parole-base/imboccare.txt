@@ -33,3 +33,10 @@ M>sboccare</E
 M>alla fine il viale imbocca nella piazza</E
 M>dove l’Adda imbocca nel Po</E
 M>il tubo imbocca poi nella conduttura principale</E
+azione
+imboccare
+lenzuolo
+relativo
+rimboccare
+strada
+tunnel

@@ -19,3 +19,5 @@ M>una scena</E
 M>le parti dialogate di un dramma</E
 M>le scene sono efficaci</E
 M>ma il dialogato è monotono</E
+dialogare
+interprete

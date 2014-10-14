@@ -1,0 +1,4 @@
+calzatura
+misurare
+scarpa
+stivale

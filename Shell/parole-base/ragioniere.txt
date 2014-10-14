@@ -16,3 +16,10 @@ M>il r</E
 M>della ditta</E
 M>il r</E
 M>capo del comune</E
+diploma
+generale
+professione
+ragione
+ragioniere
+titolo
+ufficio

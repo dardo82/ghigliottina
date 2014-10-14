@@ -6,3 +6,6 @@ M>vice</E
 M>brigadiere</E
 M>generale</E
 M>Colonnello b</E
+brigadiere
+reggere
+sergente

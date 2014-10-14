@@ -16,3 +16,39 @@ vocale.txt
 "vocale lunga"
 "voto vocale, a voce"
 * [[consonante]],  [[sillaba]]
+abbreviare
+allungare
+aperto
+appoggio
+banda
+cambio
+consonante
+corda
+finire
+genere
+inserire
+largo
+libero
+lunghezza
+minoranza
+musica
+ne
+onda
+organico
+parte
+pausa
+piega
+pronuncia
+pronunciare
+riconoscimento
+segretaria
+serenata
+sillaba
+spostare
+stretta
+terminare
+uscire
+uscita
+vocale
+voce
+voto

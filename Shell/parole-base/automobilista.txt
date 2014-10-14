@@ -4,3 +4,5 @@ automobilista.txt
 *[[automobilistico]]
 M>automobile</E
 M>automobiliste</E
+automobilista
+motociclista

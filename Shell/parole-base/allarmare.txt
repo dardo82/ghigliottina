@@ -10,3 +10,5 @@ M>alarmer</E
 M>la notizia lo allarmò</E
 M>allarmarsi</E
 M>si allarma per un nonnulla</E
+allarmare
+impaurire

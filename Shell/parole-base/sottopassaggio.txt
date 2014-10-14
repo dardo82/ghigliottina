@@ -5,3 +5,6 @@ M>sotto-</E
 M>passaggio</E
 M>sottovia</E
 M>s. pedonali</E
+galleria
+passaggio
+sottopassaggio

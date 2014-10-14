@@ -1,0 +1,6 @@
+biglietto
+nave
+pregiudizio
+settimanale
+traghetto
+trasportare

@@ -16,3 +16,6 @@ M>carne</E
 M>verdura</E
 M>paglia tritata</E
 M>un tritato di cipolle</E
+macinare
+tritare
+zolla

@@ -6,3 +6,10 @@ racchetta.txt
 "racchetta da squash"
 "racchetta da squash"
 "racchetta da tennis"
+chiodo
+neve
+racchetta
+rotella
+sci
+tenere
+tennis

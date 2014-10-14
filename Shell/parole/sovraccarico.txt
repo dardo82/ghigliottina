@@ -1,0 +1,8 @@
+calo
+carico
+lavoro
+lieve
+pieno
+pressione
+sovraccarico
+tensione

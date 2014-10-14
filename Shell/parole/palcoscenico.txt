@@ -1,0 +1,14 @@
+centrale
+eroe
+ingresso
+lasciare
+palco
+palcoscenico
+paura
+riflettore
+salire
+scena
+signora
+tavola
+teatro
+trionfo

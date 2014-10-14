@@ -12,3 +12,28 @@ pantaloni.txt
 "pantaloni scampanati"
 "risvolto dei pantaloni"
 "stretti e bassi in vita (di pantaloni)"
+bello
+calare
+cavallo
+cinta
+cintura
+paio
+pantaloni
+pelle
+perdere
+piombo
+pirata
+portare
+posteriore
+prendere
+rinforzo
+sbottonare
+schizzare
+sci
+staffa
+strappare
+tasca
+tirare
+tuta
+uno
+zucchero

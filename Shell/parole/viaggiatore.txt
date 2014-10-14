@@ -1,0 +1,6 @@
+intorno
+passeggero
+piccione
+treno
+viaggiare
+viaggiatore

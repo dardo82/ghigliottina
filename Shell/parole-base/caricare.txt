@@ -88,3 +88,34 @@ M>la carta</E
 M>la seta</E
 M>la cavalleria caricò all’improvviso</E
 M>la polizia stava caricando la folla dei dimostranti</E
+affidare
+alleggerire
+arma
+batteria
+braccio
+caricare
+colletta
+direzione
+eccitare
+folla
+fucile
+groppa
+incaricare
+incarico
+levare
+nervoso
+orologio
+passaggio
+patata
+pila
+sacco
+salire
+scaricare
+sollevare
+sopra
+sparare
+sveglia
+tensione
+trasporto
+troppo
+ventre

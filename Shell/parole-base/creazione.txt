@@ -60,3 +60,26 @@ M>di un famoso stilista italiano</E
 M>la c</E
 M>di nuovi cardinali</E
 M>di coppie</E
+costituzione
+creatura
+creazione
+formazione
+generazione
+gioco
+idea
+impeto
+invenzione
+luogo
+natura
+occupare
+organizzazione
+poetico
+posto
+produzione
+ricreazione
+sala
+scoperta
+spasso
+svago
+tempo
+vita

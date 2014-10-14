@@ -45,3 +45,31 @@ M>dalla Regione</E
 M>uffici amministrativamente autonomi</E
 M>un ente amministrativamente in attivo</E
 M>in dissesto</E
+amministrativo
+anno
+atto
+centro
+codice
+comune
+controllo
+diritto
+esercizio
+funzionario
+giudice
+impiegato
+inchiodare
+indirizzo
+magistrato
+ordinamento
+ordine
+organo
+procedimento
+processo
+sospensione
+specialista
+tecnico
+tribunale
+ufficio
+valido
+vizio
+voce

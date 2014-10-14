@@ -39,3 +39,25 @@ M>una raffinata</E
 M>veste raffinatamente</E
 M>domande raffinatamente insidiose</E
 M>torturavano raffinatamente i prigionieri</E
+barbaro
+buono
+contadino
+cuoco
+disinvoltura
+elegante
+elementare
+fine
+fino
+gusto
+linguaggio
+lusso
+ordinario
+poco
+raffinato
+sale
+soddisfare
+squisito
+tappeto
+usare
+vergine
+zucchero

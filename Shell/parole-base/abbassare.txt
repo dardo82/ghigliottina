@@ -70,3 +70,37 @@ M>a un piano</E
 M>tenere le tende abbassate</E
 M>armi abbassate</E
 M>diffamate</E
+abbassare
+ala
+alzare
+arma
+avvilire
+basso
+calare
+capo
+coperchio
+diminuire
+finestrino
+fronte
+guardare
+guardia
+il
+levare
+limite
+normale
+occhio
+orgoglio
+palpebra
+primato
+ridurre
+scadere
+sguardo
+sollevare
+sponda
+tenda
+testa
+umiliare
+verso
+vita
+voce
+volume

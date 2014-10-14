@@ -4,3 +4,15 @@ scontento.txt
 "scontento"
 "scontento"
 "scontento, depresso"
+contento
+felice
+infelice
+insoddisfatto
+lamento
+orgoglioso
+provocare
+rimanere
+scontento
+soddisfazione
+soffiare
+triste

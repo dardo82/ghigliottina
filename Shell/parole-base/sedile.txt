@@ -44,3 +44,18 @@ M>teatri</E
 M>piazze</E
 M>Fuori sedile</E
 M>fuori seggio</E
+banco
+bicicletta
+forma
+occupare
+pelle
+piazza
+pietra
+posteriore
+posto
+sedia
+sedile
+seduta
+sella
+trono
+vaso

@@ -91,3 +91,26 @@ M>15 giorni di s.</E
 M>una s. di 15 giorni.</E
 M>s. a divinis</E
 M>s. di classe</E
+accordare
+arresto
+attesa
+bilancia
+blocco
+centro
+corda
+fune
+gancio
+omaggio
+pausa
+pena
+perdono
+ponte
+rete
+riposo
+rottura
+servizio
+sospendere
+sospensione
+tiro
+tregua
+vacanza

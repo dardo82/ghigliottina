@@ -76,3 +76,13 @@ M>un negozio</E
 M>un colore smontato</E
 M>mobili</E
 M>apparecchi smontati</E
+cavallo
+discendere
+impianto
+insegnare
+montare
+palco
+pezzo
+scendere
+smontare
+spogliare

@@ -3,3 +3,13 @@ contadina.txt
 "classe contadina"
 "contadina"
 "rivolta contadina"
+classe
+contadina
+contadino
+cultura
+famiglia
+insalata
+liberazione
+rispetto
+rivolta
+zuppa

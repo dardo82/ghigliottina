@@ -16,3 +16,8 @@ M>condurre il cane al guinzaglio</E
 M>tenere qualcuno al g</E
 M>stare al g</E
 M>farsi condurre al g</E
+guinzaglio
+legare
+liberare
+mettere
+partire

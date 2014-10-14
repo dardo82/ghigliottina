@@ -48,3 +48,20 @@ M> comportamento u.</E
 M>trattare</E
 M> rispondere urbanamente</E
 M>non potresti comportarti più urbanamente?</E
+centro
+cittadino
+complesso
+contadino
+divisa
+edilizia
+espansione
+foro
+maleducato
+rinnovo
+sviluppo
+tacere
+tessuto
+traffico
+turbare
+urbano
+vigile

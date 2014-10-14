@@ -1,2 +1,4 @@
 bossolo.txt
 "Traduzione di bossolo/ non trovata.\nNo translation was found for bossolo/."
+bossolo
+camera

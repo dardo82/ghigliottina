@@ -24,3 +24,7 @@ M>color pistacchio</E
 M>verde pistacchio</E
 M>un raso color p</E
 M>una camicetta verde pistacchio</E
+albero
+gusto
+pistacchio
+verde

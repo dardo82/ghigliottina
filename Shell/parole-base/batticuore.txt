@@ -4,3 +4,9 @@ M>battere</E
 M>cuore</E
 M>stare col b</E
 M>far venire il batticuore</E
+battere
+batticuore
+battito
+cuore
+spavento
+timore

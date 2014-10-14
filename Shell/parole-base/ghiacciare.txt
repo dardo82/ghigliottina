@@ -33,3 +33,6 @@ M>ghiacce</E
 M>gelate</E
 M>vetro ghiacciato</E
 M>è rimasto là ghiacciato</E
+gelare
+ghiacciare
+sangue

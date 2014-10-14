@@ -13,3 +13,13 @@ M>albergo</E
 M>casa l</E
 M>camera l</E
 M>est locanda</E
+albergo
+dove
+insegna
+locale
+locanda
+osteria
+qualunque
+ristorante
+scadere
+servizio

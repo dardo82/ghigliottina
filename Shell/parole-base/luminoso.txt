@@ -36,3 +36,27 @@ M>esempio</E
 M>un’idea l</E
 M>dimostrare</E
 M>provare luminosamente</E
+bello
+bruno
+buio
+candido
+chiaro
+collegio
+cupo
+fascio
+grigio
+illustrare
+lume
+luminoso
+pacco
+potenza
+raggio
+sbarramento
+scuro
+sentiero
+sereno
+tavolo
+trasparente
+triste
+ventre
+volume

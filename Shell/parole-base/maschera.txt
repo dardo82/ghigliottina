@@ -113,3 +113,36 @@ M>di input</E
 M>corallina</E
 M>gabbiano corallino</E
 M>di Parigi</E
+assalire
+ballo
+cadavere
+cinema
+coprire
+democrazia
+esporre
+espressione
+grande
+grottesco
+indossare
+ipocrisia
+irriconoscibile
+levare
+maschera
+mettere
+noleggiare
+occhio
+orientale
+orma
+ossigeno
+rilevare
+rivelare
+saldatura
+scoprire
+smascherare
+smentire
+tacere
+tradire
+traditore
+truccare
+trucco
+vestire

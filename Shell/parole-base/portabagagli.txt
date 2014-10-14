@@ -8,3 +8,11 @@ M>portare</E
 M>bagaglio</E
 M>carrello p</E
 M>vano portabagagli</E
+bagagliaio
+bagaglio
+facchino
+libero
+porta
+portabagagli
+rimorchio
+vano

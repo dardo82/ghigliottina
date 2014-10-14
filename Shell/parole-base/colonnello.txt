@@ -2,3 +2,11 @@ colonnello.txt
 "colonnello"
 "tenente colonnello"
 *italiano
+aria
+colonnello
+comandante
+passare
+posare
+riunire
+tenente
+tosare

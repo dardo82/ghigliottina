@@ -1,2 +1,5 @@
 parteggiare.txt
 "parteggiare"
+parteggiare
+stare
+tenere

@@ -101,3 +101,46 @@ M>in o. di mafia</E
 M>in o. di truffa</E
 M>buono questo odorino che viene dalla cucina!</E
 M>alcuni odoruzzi semplici di acque stillate</E
+acuto
+alzare
+amaro
+annusare
+aspirare
+aspro
+avvertire
+buono
+caratteristico
+cattivo
+cerotto
+disgustoso
+fare
+fiato
+fiore
+forte
+gradevole
+grave
+ingrato
+ispirazione
+lontano
+mandare
+muffa
+naso
+odore
+penetrare
+piccante
+polvere
+potente
+prendere
+profumo
+proprio
+pungere
+rendere
+rivoltare
+salire
+sapore
+schifoso
+sentire
+stalla
+sudore
+svanire
+venire

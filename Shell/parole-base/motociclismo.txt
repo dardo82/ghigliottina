@@ -9,3 +9,6 @@ M>gare di speedway</E
 M>gare di formula Daytona</E
 M>gare di enduro</E
 M>endurance</E
+circuito
+motociclismo
+motociclista

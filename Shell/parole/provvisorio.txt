@@ -1,0 +1,12 @@
+conto
+esercizio
+fisso
+governo
+impiego
+incarico
+mortale
+ponte
+provvisorio
+sospeso
+spostamento
+temporaneo

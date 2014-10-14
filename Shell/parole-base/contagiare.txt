@@ -13,3 +13,5 @@ M>io contàgio</E
 M>s’è ammalato di scarlattina e ha contagiato anche il fratello</E
 M>è stato contagiato dalle idee stravaganti dei suoi amici</E
 M>ricoverare le persone contagiate</E
+contagiare
+trasmettere

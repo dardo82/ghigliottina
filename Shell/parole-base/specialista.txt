@@ -35,3 +35,13 @@ M>specializzato</E
 M>reparti specialisti d&#8217;artiglieria</E
 M>ruolo sottufficiali s.</E
 M>specialisti del servizio amministrativo e logistico</E
+competente
+discesa
+economia
+esperto
+medico
+sapiente
+speciale
+specialista
+tecnico
+visitare

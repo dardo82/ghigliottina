@@ -5,3 +5,8 @@ M>la s. del castello</E
 M>s. di accesso</E
 M>di uscita.</E
 M>una caotica s. di creste</E
+interrompere
+scala
+scalinata
+statua
+torre

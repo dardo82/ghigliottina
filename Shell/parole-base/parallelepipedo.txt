@@ -7,3 +7,6 @@ M>rettangolo</E
 M>retto</E
 M>corpi</E
 M>cristalli parallelepipedi</E
+altezza
+parallelepipedo
+rettangolo

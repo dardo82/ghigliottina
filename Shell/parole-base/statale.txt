@@ -51,3 +51,33 @@ M>uno s.</E
 M>una s.</E
 M>la categoria degli statali</E
 M>partecipazioni s.</E
+agente
+applicare
+autostrada
+azienda
+burocrazia
+commerciale
+commercio
+concorso
+controllo
+funzionario
+il
+impiegato
+intervento
+istituto
+nazionale
+organismo
+ospedale
+partecipazione
+polizia
+prigione
+privato
+pubblico
+scuola
+spreco
+statale
+stato
+suolo
+tassa
+tecnico
+turistico

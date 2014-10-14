@@ -6,3 +6,5 @@ galeotto.txt
 "galeotto fu"
 * ''da '''galeotto''' a marinaio''
 * C.A. Sambugar. ''Armonia e stile'', La Nuova Italia, Firenze, 1966, p. 482
+detenuto
+galeotto

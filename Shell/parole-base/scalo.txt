@@ -35,3 +35,21 @@ M>idroscalo</E
 M>Chiusi Scalo</E
 M>Orte Scalo</E
 M>Latina Scalo.</E
+aereo
+aeroporto
+bacino
+cantiere
+capo
+ferroviario
+merce
+porto
+primavera
+remo
+scala
+scalo
+sciagurato
+stazione
+tecnico
+transito
+vitello
+volo

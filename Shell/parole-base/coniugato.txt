@@ -26,3 +26,7 @@ M>impedenze c</E
 M>particelle c</E
 M>punti c</E
 M>raggi c</E
+complesso
+coniugato
+giovane
+potere

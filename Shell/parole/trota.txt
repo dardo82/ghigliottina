@@ -1,0 +1,8 @@
+centro
+fiume
+lago
+mare
+saltare
+spina
+trota
+turbare

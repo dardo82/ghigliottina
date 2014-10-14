@@ -3,3 +3,10 @@ cameriera.txt
 "cameriera d'albergo"
 M>cameriere</E
 M>al piano</E
+albergo
+cameriera
+offrire
+prendere
+sospettare
+sparecchiare
+stirare

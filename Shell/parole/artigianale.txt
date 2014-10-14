@@ -1,0 +1,7 @@
+artigianale
+artigiano
+fatto
+mano
+oggetto
+rozzo
+tipo

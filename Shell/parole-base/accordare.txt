@@ -41,3 +41,24 @@ M>la non iscrizione nel casellario giudiziario</E
 M>un aggettivo col sostantivo</E
 M>il predicato s’accorda col soggetto</E
 M>gli strumenti erano male accordati tra loro</E
+accompagnare
+accordare
+allacciare
+concedere
+concerto
+congedo
+consentire
+domandare
+eccezionale
+grazia
+licenza
+parola
+permettere
+pianoforte
+preferenza
+privato
+privilegio
+sotto
+strumento
+tregua
+vantaggio

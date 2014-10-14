@@ -1,0 +1,9 @@
+atto
+intero
+moneta
+pagare
+pareggiare
+quello
+restituire
+ripagare
+uscire

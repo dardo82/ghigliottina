@@ -16,3 +16,8 @@ M>la partita dello s.</E
 M>squadra da s.</E
 M>scutello</E
 M>scutello</E
+media
+pezza
+scudetto
+scudo
+vincere

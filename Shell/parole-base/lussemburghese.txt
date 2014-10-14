@@ -4,3 +4,4 @@ lussemburghese.txt
 M>dialetto l.</E
 M>il l.</E
 M>franco l</E
+lussemburghese

@@ -13,3 +13,8 @@ M>le r</E
 M>in ferro battuto</E
 M>Case di ringhiera</E
 M>battagliola</E
+appoggiare
+ferro
+ringhiera
+riprendere
+sbarra

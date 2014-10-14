@@ -4,3 +4,11 @@ sovraccarico.txt
 "sovraccarico"
 "sovraccarico"
 "sovraccarico"
+calo
+carico
+lavoro
+lieve
+pieno
+pressione
+sovraccarico
+tensione

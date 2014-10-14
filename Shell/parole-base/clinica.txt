@@ -42,3 +42,18 @@ M>dei cani</E
 M>delle bambole</E
 M>dell’accendino e della pipa</E
 M>della scarpa</E
+cartella
+chimica
+clinica
+curare
+direttore
+medicina
+morte
+muto
+ospedale
+prova
+psicologia
+ricoverare
+ricovero
+uscire
+visitatore

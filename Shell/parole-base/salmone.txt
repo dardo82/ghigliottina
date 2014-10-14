@@ -13,3 +13,12 @@ salmone.txt
 "salmone reale"
 "salmone rosa"
 "salmone rosso"
+affumicare
+bianco
+olio
+reale
+rosa
+rosso
+salmone
+sostenere
+spuma

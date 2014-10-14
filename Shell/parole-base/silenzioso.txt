@@ -24,3 +24,11 @@ M>Maggioranza s.</E
 M>silent majority</E
 M>uscì silenziosamente dalla stanza</E
 M>tutti rimasero silenziosamente in ascolto</E
+buono
+muto
+procedere
+quieto
+rumoroso
+silenzio
+silenzioso
+triste

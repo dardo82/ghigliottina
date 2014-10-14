@@ -1,0 +1,17 @@
+aprire
+cassa
+cassaforte
+chiudere
+custodire
+forzare
+minaccia
+muro
+prova
+resistere
+richiudere
+rinchiudere
+sicuro
+tecnica
+trovare
+valore
+vuotare

@@ -35,3 +35,6 @@ M>totale</E
 M>resistente</E
 M>manometrica</E
 M>motrice</E
+maggioranza
+pompa
+prevalenza

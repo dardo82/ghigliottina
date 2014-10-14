@@ -17,3 +17,6 @@ M>ospedale degli incurabili</E
 M>inguaribile</E
 M>incorreggibile</E
 M>un ragazzo incurabilmente pigro</E
+incurabile
+malattia
+maligno

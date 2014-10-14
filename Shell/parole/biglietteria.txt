@@ -1,0 +1,4 @@
+biglietteria
+biglietto
+coda
+sportello

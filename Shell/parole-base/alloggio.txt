@@ -20,3 +20,29 @@ M>alloggi di prima</E
 M>seconda</E
 M>terza classe</E
 M>a classe unica</E
+abitazione
+albergo
+alloggio
+anche
+appartamento
+asilo
+biglietto
+buono
+casa
+comprendere
+dare
+famiglia
+fornire
+in
+miseria
+modesto
+oltre
+pena
+pensione
+posto
+prendere
+quartiere
+schizzare
+servizio
+sistemazione
+spesa

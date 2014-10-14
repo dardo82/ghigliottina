@@ -1,0 +1,5 @@
+avviso
+breve
+preavviso
+segnale
+termine

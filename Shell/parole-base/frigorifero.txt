@@ -32,3 +32,11 @@ M>frigobàr</E
 M>mettere in f</E
 M>qualcosa</E
 M>frigorifero</E
+armadio
+forno
+freddo
+frigorifero
+gruppo
+magazzino
+tunnel
+vita

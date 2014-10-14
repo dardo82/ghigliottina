@@ -43,3 +43,19 @@ M>Forca Caruso</E
 M>Forca Canapine</E
 M>Pesce forca</E
 M>Peristedion cataphractum</E
+appendere
+arnese
+carrello
+cavallo
+croce
+forca
+forchetta
+forcina
+impiccare
+ladro
+naso
+occhiali
+poi
+spina
+teoria
+villa

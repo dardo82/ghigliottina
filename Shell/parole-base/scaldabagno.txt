@@ -4,3 +4,12 @@ scaldabagno.txt
 "stufa; scaldabagno a gas"
 M>scaldare</E
 M>bagno</E
+bagno
+consumo
+gas
+guastare
+mettere
+opera
+scaldabagno
+spegnere
+stufa

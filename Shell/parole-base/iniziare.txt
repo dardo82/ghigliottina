@@ -56,3 +56,37 @@ M>ai piaceri della buona cucina</E
 M>il Gravina iniziò il Metastasio agli studî classici</E
 M>giunse a cerimonia iniziata</E
 M>non era ancora iniziato a quel rito</E
+apprezzare
+aprire
+assalto
+assicurare
+attacco
+avviare
+avvicinare
+chiudere
+cominciare
+composizione
+diplomatico
+discussione
+finire
+frequentare
+giudizio
+impegnare
+impressione
+iniziare
+iniziativa
+introdurre
+lancio
+lavorazione
+nuovo
+operazione
+piacere
+pratica
+procedere
+promuovere
+provocare
+stampa
+studio
+suscitare
+terminare
+verso

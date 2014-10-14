@@ -9,3 +9,9 @@ M>jeter</E
 M>fiche</E
 M>a gettone</E
 M>G. di presenza</E
+gettone
+lavanderia
+lavatrice
+marca
+medaglia
+presenza

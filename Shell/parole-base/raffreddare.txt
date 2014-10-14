@@ -34,3 +34,7 @@ M>per essere uscito senza cappotto</E
 M>mi sono raffreddato</E
 M>essere raffreddato</E
 M>sono un po&#8217; raffreddato</E
+bagno
+freddo
+raffreddare
+raffreddore

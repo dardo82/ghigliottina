@@ -45,3 +45,6 @@ M>ingombrante</E
 M>un ospite</E
 M>un amico ingombrante</E
 M>un personaggio ingombrante</E
+imbrogliare
+ingombrare
+sgombrare

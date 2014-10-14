@@ -1,0 +1,4 @@
+intero
+meccanica
+particolare
+ricostruire

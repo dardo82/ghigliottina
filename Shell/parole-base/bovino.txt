@@ -3,3 +3,6 @@ bovino.txt
 "bovino"
 "bovino"
 "carne di bovino"
+bovino
+carne
+mercato

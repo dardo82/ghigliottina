@@ -2,3 +2,4 @@ oculista.txt
 "oculista"
 *[[oftalmologo]]
 M>lus</E
+oculista

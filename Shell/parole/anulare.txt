@@ -1,0 +1,10 @@
+anulare
+cartuccia
+cellula
+dito
+fede
+grana
+mano
+misto
+ponte
+struttura

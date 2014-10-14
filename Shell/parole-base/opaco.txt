@@ -48,3 +48,12 @@ M>resta lì</E
 M>di nuovo assorto</E
 M>opacamente</E
 M>in quella sua singolare attesa</E
+buio
+chiaro
+colore
+lucido
+matto
+opaco
+rendere
+rosso
+trasparente

@@ -1,0 +1,7 @@
+attacco
+numero
+ordinamento
+ordine
+periferia
+progressivo
+sviluppo

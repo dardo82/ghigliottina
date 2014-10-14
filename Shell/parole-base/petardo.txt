@@ -10,3 +10,6 @@ M>petardetti di innescamento</E
 M>offensivo</E
 M>incendiario</E
 M>mettipetardo</E
+bomba
+castagna
+petardo

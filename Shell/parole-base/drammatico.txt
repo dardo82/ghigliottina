@@ -47,3 +47,21 @@ M>per tutti noi</E
 M>abbiamo vissuto ore drammatiche</E
 M>l’azione del racconto si svolgeva drammaticamente</E
 M>abbiamo vissuto drammaticamente quelle ore di attesa</E
+attore
+comico
+dialogo
+dramma
+drammatico
+film
+filo
+genere
+musicale
+poeta
+segnalare
+spettacolo
+teatro
+telefilm
+tenore
+terribile
+testo
+tragico

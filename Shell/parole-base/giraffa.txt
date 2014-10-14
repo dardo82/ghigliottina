@@ -11,3 +11,5 @@ M>sembrare</E
 M>essere una g</E
 M>camminare a passi di g</E
 M>Giraffa</E
+giraffa
+uguale

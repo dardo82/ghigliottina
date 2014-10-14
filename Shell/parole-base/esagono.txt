@@ -7,3 +7,5 @@ M>regolare</E
 M>esagonale</E
 M>costruzione a pianta esagona</E
 M>anello benzenico</E
+angolo
+esagono

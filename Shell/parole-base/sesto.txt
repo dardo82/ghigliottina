@@ -13,3 +13,26 @@ sesto.txt
 #*'' ... non è in sesto''
 #* ''rimettersi in sesto''
 *[[primo]], [[secondo]], [[terzo]], [[quarto]], [[quinto]]
+acuto
+amministrativo
+arco
+codice
+conseguenza
+decimo
+fallimento
+mese
+mettere
+oggi
+oltrepassare
+ottavo
+pezzo
+quinto
+rimettere
+sei
+senso
+sesto
+settimo
+spingere
+strato
+su
+volgere

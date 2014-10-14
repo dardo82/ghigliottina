@@ -22,3 +22,12 @@ M>politico</E
 M>medico</E
 M>scienziato</E
 M>da barzelletta</E
+audace
+barzelletta
+battuta
+innocuo
+piccante
+rallegrare
+risata
+sugo
+vecchio

@@ -2,3 +2,4 @@ autobotte.txt
 "autobotte"
 M>auto</E
 M>botte</E
+autobotte

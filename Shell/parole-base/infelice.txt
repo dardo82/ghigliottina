@@ -106,3 +106,31 @@ M>vivere infelicemente</E
 M>il tentativo si concluse infelicemente</E
 M>intervenendo infelicemente</E
 M>ha complicato le cose</E
+creatura
+creazione
+disgraziato
+felice
+gelare
+impresa
+infelice
+insieme
+male
+malinconico
+meschino
+miserabile
+misero
+pietà
+piuttosto
+posizione
+rendere
+restare
+ritenere
+scena
+sciagurato
+sfortunato
+spirito
+supplica
+trarre
+triste
+vento
+ventre

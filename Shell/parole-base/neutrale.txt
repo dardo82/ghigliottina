@@ -40,3 +40,11 @@ M>comportarsi</E
 M>giudicare neutralmente</E
 M>paesi che vivono neutralmente</E
 M>verbo usato neutralmente</E
+fascia
+neutrale
+parziale
+posizione
+restare
+territorio
+violare
+zona

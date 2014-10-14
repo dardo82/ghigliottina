@@ -54,3 +54,9 @@ M>trofica</E
 M>p. delle energie</E
 M>p. degli organismi</E
 M>p. delle biomasse</E
+altezza
+base
+cadavere
+figura
+piramide
+popolazione

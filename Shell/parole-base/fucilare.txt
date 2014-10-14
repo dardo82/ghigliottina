@@ -3,3 +3,5 @@ fucilare.txt
 M>un traditore</E
 M>per rappresaglia</E
 M>furono fucilati alcuni ostaggi</E
+fucilare
+uccidere

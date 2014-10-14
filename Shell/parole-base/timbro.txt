@@ -40,3 +40,16 @@ M>il t. montaliano</E
 M>il t. caratteristico dei pittori fauves.</E
 M>tono</E
 M>affettivo</E
+data
+gomma
+impressione
+marca
+metallico
+musica
+musicale
+postale
+strumento
+suono
+timbro
+uno
+voce

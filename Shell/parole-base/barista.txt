@@ -3,3 +3,6 @@ barista.txt
 "barista (donna)"
 "barista (uomo)"
 *[[barman]], [[cameriere]]
+barista
+donna
+uomo

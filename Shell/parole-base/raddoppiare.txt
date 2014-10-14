@@ -46,3 +46,8 @@ M>non tutti i cavalli imparano a raddoppiare</E
 M>con raddoppiata lena</E
 M>foglio</E
 M>tovagliolo raddoppiato</E
+cura
+distanza
+gioco
+raddoppiare
+sentinella

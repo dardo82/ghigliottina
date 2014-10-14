@@ -8,3 +8,8 @@ marmotta.txt
 "marmotta americana"
 "marmotta nord americana"
 "sciuride (marmotta)"
+dormire
+giorno
+marmotta
+nord
+pelliccia

@@ -52,3 +52,37 @@ M>kenarè</E
 M>kenareh</E
 M>di Corti</E
 M>Foresta a galleria</E
+aperto
+arte
+attacco
+cielo
+custode
+esporre
+galleria
+guida
+inizio
+lavoro
+lunghezza
+museo
+nano
+nazionale
+notte
+passare
+piede
+principale
+profondo
+progetto
+ramo
+ritratto
+roccia
+saltare
+salvare
+scavo
+sezione
+specchio
+tomba
+tunnel
+vento
+visita
+visitare
+vuoto

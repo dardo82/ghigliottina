@@ -1,2 +1,10 @@
 baccalà.txt
 *italiano
+merluzzo
+molle
+pesce
+polenta
+rimanere
+secco
+senza
+umido

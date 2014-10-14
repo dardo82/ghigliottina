@@ -35,3 +35,33 @@ M>Riscontro del p.</E
 M>Ufficio p.</E
 M>p. dello stato</E
 M>contabile del p.</E
+alleggerire
+cavare
+cliente
+coccodrillo
+correre
+derubare
+fuori
+imbottire
+ministero
+ministro
+perdere
+porta
+portafoglio
+prendere
+pulire
+rilievo
+rimettere
+risalire
+ritrovare
+rubare
+scomparire
+senza
+smarrire
+somma
+sparire
+tasca
+tipo
+tirare
+trarre
+trovare

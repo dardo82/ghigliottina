@@ -4,3 +4,7 @@ grondaia.txt
 M>ripararsi dalla pioggia sotto la grondaia</E
 M>a grondaia</E
 M>a gronda</E
+canale
+cicogna
+doccia
+grondaia

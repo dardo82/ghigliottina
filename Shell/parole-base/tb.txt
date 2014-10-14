@@ -1,2 +1,12 @@
 tb.txt
 "http://api.wordreference.com/12bee/json/iten/tb/"
+americano
+fifa
+giocatore
+ma
+occupazione
+palla
+partita
+simile
+sport
+tb

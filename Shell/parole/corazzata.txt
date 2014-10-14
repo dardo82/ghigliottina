@@ -1,0 +1,8 @@
+camera
+cintura
+corazza
+corazzata
+fianco
+nave
+tesoro
+zattera

@@ -20,3 +20,5 @@ M>i figli dai nonni</E
 M>ho parcheggiato la pratica in un cassetto</E
 M>lasciare l&#8217;auto parcheggiata in zona vietata</E
 M>generazione coccolata dal boom e parcheggiata nella crisi</E
+fila
+parcheggiare

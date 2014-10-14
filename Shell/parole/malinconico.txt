@@ -1,0 +1,11 @@
+allegro
+crisi
+delirio
+domenicale
+felice
+infelice
+malinconia
+malinconico
+patetico
+triste
+zampogna

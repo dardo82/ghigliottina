@@ -8,3 +8,7 @@ pareggio.txt
 "punto del pareggio"
 "punto di pareggio"
 *[[debito]], [[utile]], [[profitto]], [[attivo]], [[passivo]], [[bilancio]]
+casalingo
+chiudere
+pareggio
+partita

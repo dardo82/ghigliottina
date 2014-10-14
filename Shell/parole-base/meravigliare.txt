@@ -49,3 +49,6 @@ M>restare</E
 M>rimanere</E
 M>mostrarsi</E
 M>sembrare meravigliato</E
+meravigliare
+sorprendere
+stupire

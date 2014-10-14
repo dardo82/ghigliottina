@@ -15,3 +15,4 @@ M>americano</E
 M>Platanus occidentalis</E
 M>orientale</E
 M>Platanus orientalis</E
+platano

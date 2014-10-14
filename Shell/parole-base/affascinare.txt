@@ -2,3 +2,6 @@ affascinare.txt
 "affascinare"
 "affascinare"
 "affascinare"
+affascinare
+dominare
+sedurre

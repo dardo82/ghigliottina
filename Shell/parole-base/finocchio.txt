@@ -52,3 +52,6 @@ M>bacicci</E
 M>baciglia</E
 M>porcino</E
 M>Peucedanum officinale</E
+finocchio
+maschio
+seme

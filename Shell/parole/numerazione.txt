@@ -1,0 +1,8 @@
+base
+inventario
+lista
+numerazione
+numero
+progressivo
+scrittura
+sistema

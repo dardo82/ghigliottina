@@ -41,3 +41,10 @@ M>schermo di r.</E
 M>sbianca</E
 M>positivi</E
 M>negativi</E
+aiuto
+ginocchio
+negativo
+positivo
+rinforzo
+riserva
+truppa

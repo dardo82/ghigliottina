@@ -83,3 +83,35 @@ M>cavo</E
 M>nel v. della terra</E
 M>il v. di uno strumento musicale</E
 M>v. di piena</E
+ala
+basso
+bianco
+cacciare
+capace
+capanna
+corpo
+danza
+dorso
+frutto
+grande
+grattare
+largo
+nero
+occhiello
+pancia
+pascolo
+picchio
+pieno
+restringere
+scaricare
+sciogliere
+seno
+squarcio
+stringere
+tamburo
+tiranno
+tirare
+tonno
+vacca
+valle
+ventre

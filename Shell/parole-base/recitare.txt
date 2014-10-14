@@ -68,3 +68,37 @@ M>lacera</E
 M>scritti o disegni fatti affiggere ...&#187;</E
 M>recitar cantando</E
 M>voce recitante</E
+anima
+appartenenza
+braccio
+cantare
+chiaro
+commedia
+corona
+credo
+dire
+fuoco
+gesto
+giuramento
+grazia
+interpretare
+lezione
+memoria
+mente
+meraviglioso
+monotono
+occhio
+parte
+passione
+patetico
+pezzo
+poesia
+preghiera
+rappresentare
+recitare
+rosario
+ruolo
+sostenere
+supplica
+tragedia
+ufficio

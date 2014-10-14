@@ -39,3 +39,26 @@ M>una s. che rende poco</E
 M>un&#8217;azienda agricola che ha una s. ben selezionata.</E
 M>Dare stalla</E
 M>io credo che sia ben fatto che noi diamo stalla a queste bestie</E
+bestiame
+bue
+cavallo
+garzone
+impianto
+mettere
+muggire
+muggito
+muro
+nascere
+opera
+ovile
+pastore
+pecora
+porta
+rete
+sabotare
+scappare
+sedere
+segnale
+sicurezza
+sporgere
+stalla

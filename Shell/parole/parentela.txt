@@ -1,0 +1,14 @@
+alleanza
+famiglia
+gente
+grado
+legame
+linea
+nodo
+parentela
+quarto
+rapporto
+relazione
+sangue
+stretta
+struttura

@@ -1,0 +1,17 @@
+diamante
+extra
+gomma
+guscio
+legno
+materiale
+morbido
+opaco
+pavimento
+peloso
+per
+pietra
+rame
+rivestimento
+scudo
+serpente
+uguale

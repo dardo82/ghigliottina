@@ -1,0 +1,6 @@
+allevamento
+carne
+libero
+malattia
+pollame
+pollo

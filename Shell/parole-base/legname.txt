@@ -15,3 +15,35 @@ M>da opera</E
 M>da ardere</E
 M>maestro di legname</E
 M>mandò per un maestro di legname</E
+accomodare
+arnese
+artista
+attrezzo
+banco
+cane
+chiamare
+commercio
+compasso
+costruzione
+crepare
+deposito
+falegname
+lavorare
+lavorazione
+lavoro
+legna
+legname
+legno
+martello
+mestiere
+officina
+opera
+piallare
+praticare
+professionista
+scalpello
+schiena
+sega
+sodo
+squadra
+tenaglia

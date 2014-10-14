@@ -34,3 +34,4 @@ M>con doppia corda a corde parallele</E
 M>assicurazione a forbice</E
 M>forbice dei prezzi</E
 M>andamento a forbice</E
+forbice

@@ -17,3 +17,6 @@ nylon.txt
 M>nylon</E
 M>nàilon</E
 M>nailon</E
+collant
+filo
+nylon

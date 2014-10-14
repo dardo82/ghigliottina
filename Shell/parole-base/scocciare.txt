@@ -4,3 +4,5 @@ scocciare.txt
 *[[seccare]],[[infastidire]], [[importunare]], [[molestare]], [[annoiare]]
 *[[scocciatura]], [[scocciatore]]
 *[[scocciarsi]]
+annoiare
+scocciare

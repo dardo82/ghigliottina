@@ -51,3 +51,13 @@ M>x-y</E
 M>plotter</E
 M>registro</E
 M>classificatore</E
+accendere
+apparecchio
+cassa
+meccanismo
+modello
+pila
+predisporre
+registrare
+registratore
+volo

@@ -33,3 +33,36 @@ M>s. luminoso</E
 M>s. di discesa</E
 M>s. radio</E
 M>canaletto</E
+battere
+cavallo
+cercare
+discesa
+entrare
+finire
+foresta
+illustrare
+labirinto
+mettere
+montagna
+montare
+morire
+passaggio
+passare
+pericolo
+portare
+praticare
+prendere
+prolungare
+rinnovare
+ripido
+risalire
+riuscire
+rotaia
+salire
+scavalcare
+seguire
+sentiero
+stanco
+strada
+termine
+traverso

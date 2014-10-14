@@ -5,3 +5,9 @@ potare.txt
 "potare"
 "potare la cima delle piante"
 *[[potatoio]], [[potatore]], [[potatura]]
+cima
+coltello
+cornetto
+corona
+olivo
+potare

@@ -105,3 +105,15 @@ M>olio di curcas</E
 "name": "L'infernale"
 "name": "Duello infernale"
 "name": "Trio infernale"
+abisso
+demonio
+esercito
+fuoco
+globo
+immaginare
+infernale
+inferno
+macchina
+pietra
+tempo
+vela

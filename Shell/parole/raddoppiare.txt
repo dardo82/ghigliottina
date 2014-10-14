@@ -1,0 +1,5 @@
+cura
+distanza
+gioco
+raddoppiare
+sentinella

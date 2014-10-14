@@ -14,3 +14,7 @@ M>collant da 20</E
 M> 30 denari</E
 M>den</E
 M>collant lavorato</E
+calza
+colla
+collant
+nylon

@@ -38,3 +38,7 @@ M>si sparsero a truppe per i campi</E
 M>s&#8217;avviarono in truppa</E
 M>troupe</E
 M>qualche truppa comica italiana</E
+consegnare
+distribuire
+truppa
+volontario

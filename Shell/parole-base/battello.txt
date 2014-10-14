@@ -23,3 +23,17 @@ M>Battello-porta</E
 M>barca</E
 M>porta</E
 M>battellino</E
+barca
+battello
+faro
+gita
+lontano
+motore
+noleggiare
+partire
+perdere
+pilota
+reggere
+riva
+sportello
+vapore

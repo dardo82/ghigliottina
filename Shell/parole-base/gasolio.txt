@@ -8,3 +8,14 @@ M>gasoil</E
 M>gas</E
 M>oil</E
 M>nafta</E
+benzina
+gas
+gasolio
+petrolio
+provvista
+recipiente
+riscaldamento
+scorta
+serbatoio
+tenore
+tenuta

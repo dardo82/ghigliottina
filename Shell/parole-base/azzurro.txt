@@ -95,3 +95,44 @@ M>partenopei</E
 M>partecipare a una convention degli azzurri</E
 M> Telefono azzurro</E
 M>Oro ed azzurro e ricche gioie</E
+acciaio
+arco
+azzurro
+blu
+buio
+carbone
+celeste
+cielo
+colore
+cordone
+dorsale
+grigio
+maggiore
+mare
+metallico
+minore
+nastro
+netto
+nuotare
+oro
+pallido
+pavone
+pesce
+pezzo
+principe
+profondo
+proprio
+quindici
+sbiadire
+sbiancare
+sereno
+sporco
+squalo
+telefono
+tendere
+tornare
+trasparente
+verde
+vestire
+vetro
+zitella

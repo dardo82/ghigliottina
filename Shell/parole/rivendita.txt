@@ -1,0 +1,8 @@
+dettaglio
+edicola
+esercizio
+magazzino
+negozio
+onore
+rivendita
+vendita

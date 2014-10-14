@@ -1,0 +1,11 @@
+atterraggio
+carrello
+carretto
+effetto
+forca
+gamba
+giraffa
+mano
+motore
+portabagagli
+servizio

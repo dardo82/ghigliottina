@@ -1,0 +1,12 @@
+bello
+buio
+cattivo
+cielo
+grigio
+nuvoloso
+orizzonte
+oscuro
+piovoso
+sereno
+squarcio
+tempo

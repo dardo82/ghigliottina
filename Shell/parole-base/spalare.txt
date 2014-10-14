@@ -7,3 +7,6 @@ M>s. la terra</E
 M>la sabbia</E
 M>s. la neve</E
 M>s. i remi</E
+neve
+remo
+spalare

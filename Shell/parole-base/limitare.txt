@@ -10,3 +10,21 @@ limitare.txt
 "limitare la quantità"
 "limitare la ricerca a"
 *[[limitarsi]]
+bisogno
+chiudere
+circondare
+consumo
+danno
+famiglia
+incidere
+limitare
+limite
+maledizione
+misurare
+regolare
+ricerca
+ridurre
+soglia
+spazio
+spesa
+traffico

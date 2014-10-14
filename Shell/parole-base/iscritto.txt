@@ -9,3 +9,26 @@ iscritto.txt
 "mettere per iscritto"
 "per iscritto"
 "votante iscritto"
+bilancio
+cedere
+codice
+confermare
+fascio
+giornalista
+ingegnere
+iscritto
+iscrivere
+lupo
+membro
+mentale
+mettere
+pregio
+pronto
+riserva
+risposta
+ruolo
+sano
+scritto
+socio
+stendere
+tradurre

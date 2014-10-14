@@ -17,3 +17,6 @@ M>l’alcol è evaporato quasi tutto</E
 M>avere</E
 M>il lago ha evaporato molto</E
 M>svaporare</E
+evaporare
+svanire
+vapore

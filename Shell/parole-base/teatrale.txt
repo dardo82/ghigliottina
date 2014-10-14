@@ -34,3 +34,43 @@ M> già allora mi trovava ridicola</E
 M> vedeva nel mio aspetto appassionato qualcosa di t.</E
 M>pose teatralmente enfatiche</E
 M>un dramma teatralmente debole</E
+agente
+agenzia
+architetto
+arredamento
+arte
+compagnia
+critica
+critico
+cronaca
+cronista
+dramma
+drammatico
+figura
+formare
+genere
+gesto
+grandioso
+illuminazione
+impianto
+libreria
+macchinista
+officina
+orchestra
+principale
+programma
+rappresentazione
+redazione
+regista
+registrare
+ritorno
+rubrica
+ruolo
+sartoria
+scandalizzare
+scrittura
+spettacolo
+stagione
+teatrale
+tempo
+trucco

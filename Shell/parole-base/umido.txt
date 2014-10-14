@@ -72,3 +72,41 @@ M>è umidetta</E
 M> questa stanza</E
 M>c’è un umidaccio</E
 M> con questo vento di scirocco.</E
+agnello
+anguilla
+asciutto
+caldo
+carne
+carota
+coda
+coniglio
+fagiolo
+freddo
+frequenza
+lavare
+lenticchia
+lingua
+melanzana
+muffa
+patata
+penetrare
+pila
+pisello
+processo
+radicale
+rifare
+rifiuto
+riproduzione
+secco
+sentire
+soffocare
+sugo
+superficiale
+tempo
+umidità
+umido
+uscio
+vento
+vitello
+zolla
+zuppa

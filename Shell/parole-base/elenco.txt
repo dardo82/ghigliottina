@@ -41,3 +41,32 @@ M>registrare</E
 M>segnare nell’elenco</E
 M>e. dei poveri</E
 M>redarguizione</E
+cancellare
+chiudere
+classe
+classifica
+completo
+consultare
+contrabbando
+elenco
+equipaggio
+escludere
+figurare
+inventario
+lista
+nome
+numero
+onore
+ordine
+plurale
+povero
+rilevare
+rubrica
+saltare
+sbloccare
+sede
+seguire
+spogliare
+tabella
+tariffa
+telefonico

@@ -78,3 +78,35 @@ M>montante</E
 M>quando ci dissero che se n&#8217;era andato</E
 M>tutti facemmo un respirone di sollievo</E
 M>metteva certi respironi larghi e pieni</E
+affannato
+alito
+ampio
+corto
+difficile
+estremo
+fiato
+frequente
+lasciare
+oppressione
+oppresso
+opprimere
+polso
+profondo
+ragazzo
+respirare
+respiro
+riposo
+ritenere
+rumore
+senza
+soffio
+sollievo
+sospiro
+tirare
+togliere
+trattenere
+ultimo
+uscire
+vasto
+vento
+vivere

@@ -4,3 +4,6 @@ m>trice</e
 m>cant</e
 m>ante</e
 m>autore</e
+autore
+cantante
+cantautore

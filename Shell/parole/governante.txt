@@ -1,0 +1,6 @@
+addestrare
+cameriere
+governante
+serva
+sorveglianza
+tesoro

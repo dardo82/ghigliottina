@@ -5,3 +5,10 @@ ambulatorio.txt
 "ambulatorio privato"
 #*''ambulatorio veterinario''
 *[[deambulatorio]], [[poliambulatorio]]
+ambulatorio
+avviamento
+privato
+rivoluzione
+studio
+su
+visitare

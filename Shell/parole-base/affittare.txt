@@ -19,3 +19,10 @@ M>una camera</E
 M>un appartamento</E
 M>acquistare</E
 M>vendere un appartamento già affittato</E
+affittare
+affitto
+camera
+cucina
+da
+libero
+noleggiare

@@ -30,3 +30,17 @@ M>un s.</E
 M>due s.</E
 M>s. Clemente</E
 M>s. clementino</E
+anno
+cielo
+crisi
+decimo
+domenica
+giorno
+ottavo
+quinto
+riposo
+sabato
+sette
+settimana
+settimo
+valore

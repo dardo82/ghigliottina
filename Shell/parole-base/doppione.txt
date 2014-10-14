@@ -15,3 +15,5 @@ M>gran</E
 M>grande</E
 M>doppio</E
 M>forno a doppioni</E
+doppio
+doppione

@@ -11,3 +11,10 @@ M>industrie metalmeccaniche</E
 M>Operai m</E
 M>i metalmeccanici</E
 M>la categoria dei metalmeccanici</E
+acciaio
+meccanica
+meccanico
+metalmeccanico
+operaio
+ramo
+settore

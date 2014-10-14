@@ -3,3 +3,5 @@ difatti.txt
 M>fatti</E
 M>fatto</E
 M>infatti</E
+difatti
+infatti

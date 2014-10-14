@@ -55,3 +55,37 @@ M>petroliere</E
 M>nolo a scafo</E
 M>nolo a s. nudo</E
 M>a scafo</E
+altezza
+barca
+caricare
+centrale
+condurre
+foderare
+imbarcare
+immergere
+legno
+linea
+manovrare
+mare
+motoscafo
+nudo
+ondeggiare
+padrone
+postale
+prendere
+proseguire
+provare
+provenire
+ruota
+scafo
+scia
+scuotere
+sedile
+spalmare
+squarcio
+struttura
+superficie
+terra
+traghetto
+uscita
+vapore

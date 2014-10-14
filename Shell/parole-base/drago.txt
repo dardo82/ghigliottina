@@ -39,3 +39,13 @@ M>pallone cervo volante</E
 M>Draco</E
 M>Denti del d</E
 M>Sangue di drago</E
+artiglio
+drago
+erba
+leggero
+lucertola
+pallone
+polvere
+sangue
+serpente
+volante

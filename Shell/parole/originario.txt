@@ -1,0 +1,11 @@
+acquisto
+ambiente
+antico
+cognome
+fantasma
+locale
+natale
+originario
+primo
+tessuto
+titolo

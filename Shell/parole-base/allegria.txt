@@ -36,3 +36,27 @@ M>un’a</E
 M>di luci</E
 M>di colori</E
 M>di suoni</E
+allegria
+allegro
+bruciare
+cosa
+crescere
+dolore
+felicità
+gioia
+iniezione
+insolito
+lutto
+malinconia
+moderato
+noia
+piacere
+rallegrare
+riso
+rumoroso
+saltare
+spasso
+spensierato
+svanire
+tristezza
+viva

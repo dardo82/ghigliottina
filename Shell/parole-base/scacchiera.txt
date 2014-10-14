@@ -12,3 +12,7 @@ M>damiera</E
 M>a scacchiera</E
 M>piastrelle disposte a s.</E
 M>sciopero a s.</E
+centro
+pianta
+scacchiera
+sciopero

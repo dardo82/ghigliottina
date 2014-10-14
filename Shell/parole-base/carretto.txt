@@ -6,3 +6,15 @@ carretto.txt
 M>carro</E
 M>a vino</E
 M>siciliano</E
+carrello
+carretto
+carro
+graffiare
+mano
+nonno
+siciliano
+sorpassare
+spingere
+tirare
+vendita
+zoppicare

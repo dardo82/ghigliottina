@@ -34,3 +34,5 @@ M>moneta manovrata</E
 M>regolata</E
 M>economia manovrata</E
 M>gioco manovrato</E
+governare
+manovrare

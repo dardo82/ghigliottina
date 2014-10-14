@@ -1,0 +1,6 @@
+atleta
+dilettante
+pittore
+professionista
+pugile
+radio

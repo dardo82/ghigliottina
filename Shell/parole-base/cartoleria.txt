@@ -1,2 +1,4 @@
 cartoleria.txt
 "cartoleria"
+carta
+cartoleria

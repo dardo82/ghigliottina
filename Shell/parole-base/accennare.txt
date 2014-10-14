@@ -60,3 +60,14 @@ M>una melodia</E
 M>un tema musicale</E
 M>accennò al piano una vecchia canzone</E
 M>le note di un minuetto</E
+accennare
+asso
+bastone
+diminuire
+insinuare
+leggero
+no
+occhio
+oscuro
+si
+sorriso

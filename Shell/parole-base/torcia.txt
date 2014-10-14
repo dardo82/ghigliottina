@@ -27,3 +27,11 @@ M>torcia</E
 M>fiaccola</E
 M>T. elettrica</E
 M>flash</E
+candela
+cero
+lampadina
+pila
+proiettare
+torcere
+torcia
+vento

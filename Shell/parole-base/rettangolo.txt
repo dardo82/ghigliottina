@@ -21,3 +21,12 @@ M>dressage</E
 M>rettangolo</E
 M>di gioco</E
 M>di dispersione</E
+angolo
+costruire
+estensione
+minore
+parallelepipedo
+rettangolo
+trapezio
+triangolo
+trovare

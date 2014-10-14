@@ -7,3 +7,6 @@ sandalo.txt
 "sandalo"
 "sandalo"
 *italiano
+legno
+olio
+sandalo

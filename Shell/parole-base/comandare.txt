@@ -58,3 +58,34 @@ M>l’apertura delle porte è comandata da un pulsante</E
 M>l’occhio comanda molto paese</E
 M>una piccola sommità</E
 M>che comanda strada e guado</E
+abbandono
+affidare
+anima
+bacchetta
+campanello
+capo
+comandante
+comandare
+consigliare
+dire
+dirigere
+dominare
+energia
+esigere
+essere
+fare
+guidare
+imporre
+indicare
+intervenire
+occasione
+ordinare
+pregare
+raccomandare
+reggere
+reparto
+riposo
+segnalare
+stabilire
+tale
+terrore

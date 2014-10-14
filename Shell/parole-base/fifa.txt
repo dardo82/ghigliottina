@@ -12,3 +12,8 @@ fifa.txt
 *  ''<small>(variante [[w
 *italiano
 *lombardo
+avere
+blu
+diavolo
+fifa
+paura

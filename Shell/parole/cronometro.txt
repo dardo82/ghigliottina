@@ -1,0 +1,8 @@
+corsa
+cronometro
+elettronico
+fermare
+metro
+misura
+orologio
+tappa

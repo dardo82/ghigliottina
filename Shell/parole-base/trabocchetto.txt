@@ -16,3 +16,6 @@ M> tendere un t.</E
 M>fare una domanda a trabocchetto</E
 M>domanda t.</E
 M>botole</E
+domanda
+inganno
+trabocchetto

@@ -28,3 +28,7 @@ M> fece s. il fazzoletto in atto di saluto</E
 M>la nostra bandiera sventola sul campo</E
 M>marciare in corteo con i vessilli sventolanti</E
 M>passavano camion sventolanti di bandiere rosse</E
+agitare
+bandiera
+sventolare
+vento

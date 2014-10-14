@@ -73,3 +73,22 @@ M>i doganieri ci hanno visitato il bagaglio</E
 M>merce visitata e accettata</E
 M>visitata e gradita</E
 M>pesata e visitata</E
+carcerato
+francese
+frequentare
+infermo
+interesse
+invitare
+paziente
+pianta
+presso
+rovina
+scavo
+seccatura
+signore
+specialista
+stancare
+uccello
+vedere
+viaggiare
+visitare

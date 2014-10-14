@@ -1,0 +1,17 @@
+articolo
+cuscino
+fucile
+gomma
+martello
+materasso
+piccone
+pneumatico
+polmone
+riparazione
+ruota
+scalpello
+scoppio
+trasporto
+uomo
+valvola
+vuoto

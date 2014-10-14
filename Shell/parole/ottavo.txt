@@ -1,0 +1,10 @@
+decimo
+libro
+litro
+nota
+ottavo
+otto
+pausa
+quarto
+settimo
+volume

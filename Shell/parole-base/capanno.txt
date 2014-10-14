@@ -5,3 +5,7 @@ capanno.txt
 "capanno del giardiniere"
 M>caccia al c</E
 M>cacciatore di capanno</E
+cabina
+capanna
+capanno
+invadere

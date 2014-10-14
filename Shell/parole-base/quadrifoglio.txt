@@ -12,3 +12,5 @@ M>multifoglio</E
 M>Interscambio a q</E
 M>quadrifoglio</E
 M>mezzo q</E
+quadrifoglio
+trifoglio

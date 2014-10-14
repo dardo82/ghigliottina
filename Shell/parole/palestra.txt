@@ -1,0 +1,8 @@
+attrezzatura
+in
+palestra
+piazza
+ricreazione
+spogliatoio
+squadra
+tenuta

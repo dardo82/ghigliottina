@@ -13,3 +13,5 @@ M>u. da vuoto</E
 M>u. lontano</E
 M>u. estremo</E
 M>ultravioletto X</E
+lontano
+ultravioletto

@@ -27,3 +27,6 @@ M>di lacrime</E
 M>stile luccicante</E
 M>prosa luccicante</E
 M>immagini luccicanti</E
+brillare
+luccicare
+splendere

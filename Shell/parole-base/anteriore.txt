@@ -43,3 +43,42 @@ M>al Rinascimento</E
 M>notizie tratte da storici a</E
 M>futuro a</E
 M>anteriormente a quella data</E
+anteriore
+antico
+camera
+coda
+conoscenza
+contemporaneo
+cordone
+diritto
+discesa
+faccia
+facciata
+fanale
+freno
+futuro
+infantile
+labirinto
+lingua
+mento
+paralisi
+passato
+petto
+ponte
+posizione
+posteriore
+precedente
+primo
+produzione
+quarto
+ruota
+sedile
+solco
+sospensione
+sotto
+spina
+successivo
+taglio
+targa
+tempo
+vano

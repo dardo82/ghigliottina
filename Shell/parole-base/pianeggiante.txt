@@ -6,3 +6,10 @@ pianeggiante.txt
 M>pianeggiare</E
 M>un appezzamento di terreno p</E
 M>da qui fino a casa la strada è pianeggiante</E
+pianeggiante
+piano
+piatto
+riprendere
+strada
+terreno
+territorio

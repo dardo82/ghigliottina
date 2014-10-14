@@ -7,3 +7,5 @@ M>un grande assortimento di salumi</E
 M>fabbrica</E
 M>negozio</E
 M>vendita di salumi.</E
+salame
+salume

@@ -15,3 +15,8 @@ M>un corridore</E
 M>un cavallo da corsa</E
 M>i giovani con utopie politiche</E
 M>drogarsi</E
+atleta
+cavallo
+droga
+drogare
+eccitare

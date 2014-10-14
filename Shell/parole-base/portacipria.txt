@@ -2,3 +2,5 @@ portacipria.txt
 "Traduzione di portacipria/ non trovata.\nNo translation was found for portacipria/."
 M>portare</E
 M>cipria</E
+portacipria
+specchio

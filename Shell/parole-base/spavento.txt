@@ -34,3 +34,44 @@ M>quella donna così vestita è uno s.</E
 M> un vero s.</E
 M>i muratori mi hanno ridotto la casa uno spavento.</E
 M>m&#8217;hai messo uno spaventaccio!</E
+acqua
+arrivare
+balbettare
+bello
+bottega
+consigliere
+disordine
+fifa
+fondare
+grande
+grido
+guastare
+impressione
+mamma
+minaccia
+misericordia
+misterioso
+morto
+orribile
+orrore
+paura
+pelo
+piegare
+riavere
+rimettere
+ritto
+sbiancare
+sentire
+sotto
+spaventare
+spavento
+spaventoso
+tale
+terribile
+terrore
+timore
+tremare
+tremendo
+urlare
+urlo
+volume

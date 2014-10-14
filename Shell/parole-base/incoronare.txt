@@ -33,3 +33,4 @@ M>poeta incoronato</E
 M>la Madonna</E
 M>la Vergine incoronata</E
 M>le teste incoronate</E
+incoronare

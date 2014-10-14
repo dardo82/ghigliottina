@@ -5,3 +5,23 @@ M>trice</E
 M>sc. alpinista</E
 M>sci-alpinista</E
 M>sc. nautico</E
+ambasciata
+ambasciatore
+capo
+carica
+consolare
+incidente
+introduzione
+inviare
+mandare
+messaggero
+nome
+persona
+rango
+rappresentante
+richiamo
+ritirare
+sci
+sciare
+sciatore
+spedire

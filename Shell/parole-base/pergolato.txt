@@ -1,3 +1,6 @@
 pergolato.txt
 "pergolato"
 "pergolato"
+osteria
+pergola
+pergolato

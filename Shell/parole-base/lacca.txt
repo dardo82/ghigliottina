@@ -2,3 +2,24 @@ lacca.txt
 "lacca"
 "lacca"
 "lacca per capelli"
+acciaio
+alluminio
+argento
+ballo
+dentista
+dorato
+fissare
+gomma
+lacca
+legno
+martire
+mente
+metallo
+oro
+povero
+resistenza
+ricoprire
+spirito
+spruzzare
+uva
+vernice

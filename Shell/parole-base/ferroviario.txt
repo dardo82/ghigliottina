@@ -24,3 +24,39 @@ M>carrozze</E
 M>vetture f</E
 M>carri ferroviarî</E
 M>polizia f</E
+anello
+armamento
+assegno
+biglietto
+carrello
+carro
+centro
+circolo
+credito
+disastro
+edificio
+ferrovia
+ferroviario
+ferroviere
+fungo
+incrocio
+materiale
+nodo
+paralisi
+passante
+personale
+ponte
+portata
+sabotaggio
+scalo
+scontro
+semaforo
+servizio
+sinistro
+sponda
+traffico
+tremendo
+treno
+tronco
+vagone
+vittima

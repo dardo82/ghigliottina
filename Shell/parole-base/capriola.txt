@@ -3,3 +3,6 @@ capriola.txt
 "capriola"
 "capriola"
 "capriola"
+capriola
+intrecciare
+salto

@@ -80,3 +80,34 @@ M>a r</E
 M>a stretto r</E
 M>a rigor di logica</E
 M>a rigor di termini</E
+area
+battere
+calcio
+camera
+chiarezza
+crescere
+disco
+eccessivo
+era
+esattezza
+freddo
+goal
+inverno
+mancare
+marcare
+matematico
+opprimere
+paralisi
+parare
+perdono
+precisione
+punire
+realizzare
+ricevere
+rigore
+ripetere
+salvare
+scientifico
+sereno
+temperamento
+trasformare

@@ -1,0 +1,7 @@
+affittare
+affitto
+camera
+cucina
+da
+libero
+noleggiare

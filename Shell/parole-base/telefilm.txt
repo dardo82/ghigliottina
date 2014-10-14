@@ -5,3 +5,11 @@ telefilm.txt
 M>tele-</E
 M>film</E
 M>film per la televisione.</E
+comico
+commedia
+drammatico
+rappresentare
+rosa
+seguire
+seguito
+telefilm

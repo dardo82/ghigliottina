@@ -1,2 +1,3 @@
 catanzarese.txt
 "Traduzione di catanzarese/ non trovata.\nNo translation was found for catanzarese/."
+catanzarese

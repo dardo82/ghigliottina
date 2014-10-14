@@ -14,3 +14,24 @@ prospettiva.txt
 "prospettiva lineare"
 "punto di fuga in una prospettiva"
 "triste prospettiva"
+aspetto
+attesa
+davanti
+errore
+fuga
+idea
+illusione
+legge
+nuova
+orizzontale
+panorama
+piano
+possibilità
+problema
+prospettiva
+sorridere
+speranza
+triste
+uccello
+vista
+volo

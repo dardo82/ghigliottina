@@ -3,3 +3,13 @@ stucco.txt
 "stucco"
 "plaster, stucco"
 "stucco"
+coltello
+correre
+diventare
+gesso
+modellare
+restare
+rimanere
+sale
+stucco
+tappare

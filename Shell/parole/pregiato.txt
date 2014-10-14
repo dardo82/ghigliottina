@@ -1,0 +1,8 @@
+buono
+fine
+importante
+inferiore
+ordinario
+pregiato
+prezioso
+tenerezza

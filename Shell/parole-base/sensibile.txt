@@ -118,3 +118,35 @@ M>è sensibilmente più piccolo</E
 M>più grande</E
 M>più forte</E
 M>il vitto è sensibilmente migliorato</E
+anima
+apparenza
+buono
+chiamare
+cinico
+crudele
+cuore
+disponibile
+duro
+fisico
+fissare
+freddo
+generoso
+indifferente
+innamorare
+lode
+materia
+molto
+nervoso
+nota
+oggetto
+pressione
+roccia
+rumore
+scala
+sensibile
+senso
+sentire
+senza
+specie
+spirito
+zona

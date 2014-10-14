@@ -1,3 +1,6 @@
 purè.txt
 *puré di patate, purea di patate
 * [[purea]]
+carne
+pasticcio
+patata

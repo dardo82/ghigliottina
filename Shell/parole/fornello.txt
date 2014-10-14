@@ -1,0 +1,15 @@
+accendino
+buca
+camera
+campeggio
+caricare
+cucina
+elettrico
+fornello
+gas
+petrolio
+piastra
+spegnere
+spirito
+togliere
+tromba

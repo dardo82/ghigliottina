@@ -1,0 +1,5 @@
+predica
+pulpito
+salire
+scendere
+venire

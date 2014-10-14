@@ -40,3 +40,20 @@ M>prendere a d</E
 M>ha due stanze libere che dà a d</E
 M>pagare</E
 M>riscuotere la dozzina</E
+banale
+barbaro
+buono
+comune
+corrente
+dozzina
+eccellente
+mediocre
+meno
+ordinario
+pensione
+pregiato
+prendere
+profumo
+scherzo
+tanto
+tenere

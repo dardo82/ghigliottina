@@ -9,3 +9,6 @@ pergola.txt
 * (''struttura di pali, specificatamente a forma di cupola'') [[bersò]], [[berceau]]
 * [[pergola rovesciata]]
 * [[pergolato]]
+osteria
+pergola
+pergolato

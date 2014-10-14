@@ -1,0 +1,16 @@
+assegno
+biglietto
+campo
+centro
+commerciale
+giro
+istituto
+polo
+porto
+settore
+statale
+sviluppare
+turistico
+ufficio
+viaggiatore
+viaggio

@@ -51,3 +51,22 @@ M>centro s. di cinematografia</E
 M>confermare</E
 M>verificare sperimentalmente un&#8217;ipotesi</E
 M>per ora il farmaco è usato solo sperimentalmente</E
+campo
+centro
+dimostrazione
+film
+impianto
+ipotesi
+meccanica
+medicina
+metodo
+pratico
+prova
+psicologia
+registro
+scienza
+scuola
+sperimentale
+stazione
+teatro
+tecnica

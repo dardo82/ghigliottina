@@ -146,3 +146,47 @@ M>esternamente ha un aspetto florido</E
 "name": "L'opera abbandonata tace e volge la sua cavit\u00e0 verso l'esterno"
 "name": "L'opera abbandonata tace e volge la sua cavit\u00e0 verso l'esterno"
 "name": "Colonizzazione del sistema solare esterno"
+ambiente
+angolo
+appoggio
+aspetto
+base
+campo
+copertina
+corrispondenza
+cortile
+crosta
+cupo
+dazio
+emettere
+esterno
+estero
+estraneo
+foro
+fuori
+idea
+interno
+lato
+locale
+margine
+massaggio
+mondo
+muro
+oggetto
+opporre
+orecchio
+orientamento
+palude
+piazzale
+pozzo
+prodotto
+profondo
+rivestimento
+senso
+sfogo
+spazio
+stanza
+strato
+telefono
+terra
+verso

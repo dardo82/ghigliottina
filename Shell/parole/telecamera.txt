@@ -1,0 +1,5 @@
+camera
+film
+precisione
+telecamera
+televisione

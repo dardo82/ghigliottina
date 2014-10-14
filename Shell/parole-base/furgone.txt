@@ -2,3 +2,7 @@ furgone.txt
 "cellulare (furgone)"
 "furgone"
 M>fourgon</E
+assalire
+battaglia
+furgone
+postale

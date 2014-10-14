@@ -10,3 +10,11 @@ M>L’apprendista stregone</E
 M>Der Zauberlehrling</E
 M>L’apprenti sorcier</E
 M>stregone</E
+allievo
+apprendista
+giovane
+lavorare
+lavoratore
+maestra
+maestro
+ragazzo

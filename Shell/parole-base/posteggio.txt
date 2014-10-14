@@ -18,3 +18,9 @@ M>custodito</E
 M>incustodito</E
 M>notturno</E
 M>di taxi</E
+impegnare
+parcheggio
+posteggio
+spina
+uscire
+uscita

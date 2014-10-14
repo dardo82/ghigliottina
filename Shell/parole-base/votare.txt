@@ -9,3 +9,19 @@ votare.txt
 "votare per corrispondenza"
 *[[votazione]]
 *[[voto]]
+bilancio
+contro
+corrispondenza
+elezione
+favore
+giovane
+legge
+offrire
+ordine
+per
+scelta
+seduta
+votare
+votazione
+voto
+vuotare

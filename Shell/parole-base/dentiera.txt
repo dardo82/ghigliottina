@@ -3,3 +3,7 @@ dentiera.txt
 M>asta dentata</E
 M>cremagliera</E
 M>ferrovia a dentiera</E
+asta
+dentiera
+dentista
+ferrovia

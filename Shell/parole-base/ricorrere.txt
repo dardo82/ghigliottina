@@ -87,3 +87,32 @@ M>un motivo ornamentale che ricorre spesso sui portali di antiche chiese</E
 M>una poesia in cui &#171;morte&#187; ricorre ben sette volte</E
 M>il motivo che più ricorre in un brano musicale</E
 M>in un dramma</E
+ambasciata
+appello
+arma
+arte
+chiusura
+competente
+consiglio
+correre
+determinare
+diplomatico
+giudice
+giustizia
+illegale
+inganno
+interesse
+malizia
+misura
+necessario
+pensiero
+polemica
+ricorrere
+ridicolo
+sbaglio
+sfratto
+termine
+urna
+venire
+violento
+violenza

@@ -17,3 +17,13 @@ cedro.txt
 * galiziano
 * ido
 * portoghese
+arancia
+bianco
+cedro
+cipresso
+coda
+gallo
+giallo
+legno
+pacifico
+rosso

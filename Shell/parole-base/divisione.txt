@@ -87,3 +87,40 @@ M>navale</E
 M>Generale di d</E
 M>ammiraglio di d</E
 M>massima d</E
+addizione
+amministrativo
+beneficio
+categoria
+classe
+commerciale
+condividere
+divisione
+frazione
+gruppo
+impegnare
+lavoro
+marciare
+musicale
+nucleare
+parola
+parte
+passivo
+provvisorio
+quartiere
+reparto
+resto
+richiamo
+riga
+ripiegare
+saldatura
+sede
+selezione
+separazione
+serie
+settore
+sezione
+sillaba
+spostare
+storia
+venire
+votazione

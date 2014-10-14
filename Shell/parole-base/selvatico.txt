@@ -87,3 +87,33 @@ M> per la guardia del quale ella gli era alquanto nel passato stata salvatichett
 M>salvaticaménte</E
 M>è un tipo che vive selvaticamente appartato</E
 M>piante che crescono selvaticamente</E
+animale
+asino
+asparago
+bravo
+cane
+carciofo
+cervo
+cigno
+ciliegio
+coriandolo
+finocchio
+fiore
+gatto
+mite
+olivo
+orzo
+piccione
+pino
+pisello
+platano
+porco
+prezzemolo
+riso
+sedano
+selvaggio
+selvatico
+spinacio
+susino
+tagliola
+tipo

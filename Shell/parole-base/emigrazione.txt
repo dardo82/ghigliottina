@@ -30,3 +30,8 @@ M>esportazioni di capitali</E
 "name": "Nuova emigrazione"
 "name": "Emigrazione cinese"
 "name": "Ufficio centrale per l'emigrazione ebraica"
+avviare
+emigrare
+emigrazione
+fenomeno
+meridionale

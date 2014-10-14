@@ -14,3 +14,9 @@ M>matite medicamentose</E
 M>pietre medicamentose</E
 M>lapis emostatici</E
 M>matite fermasangue</E
+automatico
+lapide
+lapis
+matita
+plurale
+scandalo

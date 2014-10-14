@@ -1,2 +1,7 @@
 mercoledì.txt
 * [[anno]], [[giorno]], [[mese]], [[notte]], [[settimana]], [[lunedì]], [[martedì]], [[giovedì]], [[venerdì]], [[sabato]], [[domenica]]
+ci
+domenica
+giovedì
+ponte
+sabato

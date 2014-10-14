@@ -32,3 +32,6 @@ M>mi sono tutto congelato</E
 M>carne congelata</E
 M>arto congelato</E
 M>pozzo congelato</E
+congelare
+gelare
+scongelare

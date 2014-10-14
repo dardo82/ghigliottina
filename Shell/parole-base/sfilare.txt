@@ -2,3 +2,7 @@ sfilare.txt
 "sfilare"
 "sfilare"
 "sfilare"
+corona
+corteo
+introdurre
+sfilare

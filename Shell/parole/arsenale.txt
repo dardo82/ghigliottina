@@ -1,0 +1,4 @@
+arsenale
+cantiere
+magazzino
+operaio

@@ -19,3 +19,9 @@ M>per infiltrazione</E
 M>per sommersione</E
 M>per aspersione</E
 M>vaginali</E
+canale
+fosso
+irrigazione
+opera
+pioggia
+sistema

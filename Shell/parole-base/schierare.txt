@@ -22,3 +22,6 @@ M>nonostante l&#8217;amicizia che ci lega</E
 M> dovrò schierarmi contro di lui.</E
 M>passare in rassegna le compagnie schierate</E
 M>la flotta era schierata al largo del porto.</E
+fila
+schierare
+spiegare

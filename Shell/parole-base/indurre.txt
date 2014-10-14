@@ -61,3 +61,16 @@ M>indutto</E
 M>indotto in errore</E
 M>indotto da false speranze</E
 M>indotto con minacce</E
+convincere
+errore
+forzare
+indurre
+inganno
+minaccia
+pensare
+portare
+ricevere
+sconsigliare
+spingere
+tentare
+tentazione

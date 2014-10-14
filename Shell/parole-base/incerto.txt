@@ -93,3 +93,36 @@ M>certo</E
 M>dare</E
 M>quotare il certo per incerto</E
 M>reggersi incertamente sulle gambe</E
+angoscioso
+avvenimento
+buio
+confuso
+decisivo
+difficile
+domani
+dubbio
+equivoco
+esitare
+goffo
+incertezza
+incerto
+indeciso
+indifferente
+lasciare
+misterioso
+netto
+nuovo
+ottimista
+passo
+periodo
+preciso
+provvisorio
+rapido
+rendere
+rispondere
+sicuro
+spargere
+stare
+strada
+tendenza
+vago

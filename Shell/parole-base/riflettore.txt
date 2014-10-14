@@ -16,3 +16,6 @@ M>telescopio catottrico</E
 M>a r</E
 M>riflettore</E
 M>schermo riflettore</E
+faro
+riflettere
+riflettore

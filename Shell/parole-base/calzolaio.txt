@@ -4,3 +4,12 @@ calzolaio.txt
 M>calceolarius</E
 M>calceus</E
 M>torace da calzolaio</E
+arte
+calzolaio
+martello
+mestiere
+petto
+professionista
+servire
+soddisfare
+sollecitare

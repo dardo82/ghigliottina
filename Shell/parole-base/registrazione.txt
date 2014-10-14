@@ -59,3 +59,21 @@ M>magnetica</E
 M>di un orologio a pendolo</E
 M>delle punterie del motore</E
 M>dei freni di un automezzo</E
+autore
+corso
+cronaca
+inizio
+iscrizione
+nastro
+nuovo
+parola
+partita
+piastra
+registrare
+registrazione
+ripresa
+studio
+tassa
+traccia
+trattato
+vecchio

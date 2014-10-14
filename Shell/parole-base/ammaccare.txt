@@ -12,3 +12,6 @@ M>a farsi ammaccar l’ossa</E
 M>come s’è ammaccata questa frutta!</E
 M>frutta ammaccata</E
 M>ho le ossa ammaccate per la caduta</E
+ammaccare
+schiacciare
+sciupare

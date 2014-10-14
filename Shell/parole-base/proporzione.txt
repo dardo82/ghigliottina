@@ -108,3 +108,13 @@ M>continua</E
 M>geometrica</E
 M>aritmetica</E
 M>armonica</E
+compasso
+eccesso
+economia
+estremo
+proporzione
+ragione
+rapporto
+saltare
+salto
+termine

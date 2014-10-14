@@ -48,3 +48,19 @@ M>quel ragazzo</E
 M>quella ragazza!</E
 M>l’ho rivista dopo tre anni</E
 M>ma da non riconoscerla: una vera frana!</E
+bloccare
+continuare
+crollare
+frana
+massa
+roccia
+rovinare
+rumoroso
+sbarra
+sbarrare
+segnalare
+segnale
+seppellire
+spingere
+sprofondare
+travolgere

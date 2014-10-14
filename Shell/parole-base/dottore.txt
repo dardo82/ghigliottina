@@ -56,3 +56,47 @@ M>è venuta la dottoressa</E
 M>a visitarlo</E
 M>il dottor Graziano</E
 M>il dottor Balanzon</E
+abbreviare
+asciutto
+asino
+attribuire
+battito
+cercare
+chiamata
+confuso
+dichiarare
+disturbare
+divertire
+dottore
+eccetera
+erba
+fusto
+giocare
+legge
+lettera
+medicina
+medico
+meglio
+morto
+occupato
+ordinare
+paziente
+per
+pomeriggio
+prendere
+qualifica
+ricerca
+ricevere
+rientrare
+ripassare
+sbrigare
+spostare
+telefono
+testamento
+trovare
+umano
+undici
+valere
+vedere
+veterinario
+visitare

@@ -23,3 +23,10 @@ M>uno scrittore</E
 M>un poeta</E
 M>un oratore numeroso</E
 M>la folla si adunò numerosamente nella piazza</E
+assistenza
+innumerevole
+molto
+numeroso
+poco
+scarso
+unico

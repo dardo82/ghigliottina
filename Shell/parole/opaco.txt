@@ -1,0 +1,9 @@
+buio
+chiaro
+colore
+lucido
+matto
+opaco
+rendere
+rosso
+trasparente

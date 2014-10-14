@@ -20,3 +20,8 @@ M>ci sono troppi galli a cantare nel p</E
 M>che p. in questa stanza!</E
 M>i bambini stanno facendo p.</E
 M> un gran pollaio</E
+gabbia
+gallina
+gallo
+pollaio
+pollo

@@ -4,3 +4,4 @@ salsiera.txt
 "salsiera"
 M>una s. di porcellana</E
 M>una preziosa s. d&#8217;argento.</E
+salsiera

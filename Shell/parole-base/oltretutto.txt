@@ -2,3 +2,7 @@ oltretutto.txt
 "oltretutto"
 "oltretutto, per di più"
 "per giunta, per di più, oltretutto, inoltre"
+giunta
+inoltre
+oltretutto
+tutto

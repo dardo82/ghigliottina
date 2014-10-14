@@ -40,3 +40,9 @@ M>e debolissima a rapirci qualunque nostra minima virtù</E
 M>nome i</E
 M>nomen invalidum</E
 M>attentare invalidamente il matrimonio.</E
+civile
+illegittimo
+infermo
+invalido
+mutilato
+valido

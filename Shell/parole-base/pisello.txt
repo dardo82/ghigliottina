@@ -40,3 +40,8 @@ M>verde</E
 M>una camicetta color p</E
 M>color verde p</E
 M>una camicetta verde pisello</E
+colore
+pisello
+rabbia
+secco
+verde

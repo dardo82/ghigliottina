@@ -15,3 +15,12 @@ M>un abito i</E
 M>molto i</E
 M>poco i</E
 M>non i</E
+facile
+impegnativo
+importante
+intenso
+lieve
+scritto
+serio
+tempo
+verde

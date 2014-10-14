@@ -34,3 +34,24 @@ M>g. di soppressione</E
 M>di partenza</E
 M>studiare una g</E
 M>che permetta la conversione e riconversione tra codici di linguaggio diversi</E
+batteria
+carne
+cuocere
+formaggio
+forno
+griglia
+iniezione
+manzo
+mettere
+panino
+partenza
+pesce
+piastra
+ricerca
+ristorante
+salsiccia
+schermo
+superficie
+teglia
+tensione
+tonno

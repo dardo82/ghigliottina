@@ -2,3 +2,4 @@ paralume.txt
 "paralume"
 M>para</E
 M>lume</E
+paralume

@@ -1,0 +1,4 @@
+cobra
+pianta
+reale
+serpente

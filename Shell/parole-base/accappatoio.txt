@@ -2,3 +2,6 @@ accappatoio.txt
 "accappatoio"
 *italiano
 M>cappa</E
+accappatoio
+invidiare
+spugna

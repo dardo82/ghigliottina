@@ -23,3 +23,23 @@ M>a caldo</E
 M>a freddo</E
 M>plastificate</E
 M>zincate</E
+acciaio
+banda
+bucare
+ferro
+foglio
+lamiera
+lastra
+latta
+latte
+misurare
+orlo
+ottone
+piegare
+protezione
+raddrizzare
+saldatura
+sottile
+spessore
+tagliare
+tondo

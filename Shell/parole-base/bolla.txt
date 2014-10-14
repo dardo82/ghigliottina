@@ -24,3 +24,26 @@ bolla.txt
 *lettera papale, lettera episcopale, lettera vescovile
 *(per consegna o pagamento di merci) [[ricevuta]], [[fattura]], [[contromarca]], [[bolletta]], [[polizza]]
 :*old english
+aria
+boccia
+bolla
+bollettino
+breve
+carta
+come
+domanda
+fuoco
+lavorazione
+lebbra
+mano
+marcare
+misura
+opera
+oro
+quinto
+richiesta
+sapone
+spedire
+spedizione
+tocco
+valore

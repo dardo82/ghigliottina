@@ -37,3 +37,9 @@ M>punto m</E
 M>torta</E
 M>pasta m</E
 M>pizza m</E
+fiore
+margherita
+nodo
+pizza
+relativo
+scrivere

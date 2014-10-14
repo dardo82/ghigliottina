@@ -55,3 +55,28 @@ M>gettone di presenza</E
 M>di Giuda</E
 M>di Pindo</E
 M>Lunaria annua</E
+altro
+appendere
+argento
+bronzo
+civile
+decorare
+faccia
+guadagnare
+lato
+medaglia
+memoria
+meritare
+merito
+militare
+ogni
+onore
+oro
+premiare
+ritto
+rovescio
+stella
+suo
+valore
+vincere
+vincitore

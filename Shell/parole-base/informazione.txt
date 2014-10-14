@@ -178,3 +178,41 @@ M>Teoria dell’i</E
 "name": "Daytime Emmy Award al miglior speciale di informazione o educativo per bambini \u2013 Forma breve"
 "name": "Daytime Emmy Award al miglior speciale di informazione o educativo per bambini"
 "name": "Daytime Emmy Award alla miglior serie di informazione o educativa per bambini"
+agenzia
+avvicinare
+avviso
+chiedere
+cifra
+conoscenza
+contro
+dire
+doccia
+generale
+giusto
+grigio
+informare
+informazione
+istruzione
+macchina
+mancanza
+mano
+media
+messaggio
+nota
+organo
+per
+pezzo
+procedimento
+quotidiano
+racconto
+rapporto
+ricevere
+scienza
+scusare
+servizio
+sicurezza
+simbolo
+stampa
+tempo
+teoria
+trattamento

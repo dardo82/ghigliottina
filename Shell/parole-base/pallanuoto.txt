@@ -4,3 +4,5 @@ M>palla</E
 M>nuoto</E
 M>water</E
 M>polo</E
+nuoto
+pallanuoto

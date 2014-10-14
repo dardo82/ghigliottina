@@ -42,3 +42,14 @@ M>laterale</E
 M>verticale</E
 M>aereo</E
 M>a seguire</E
+atterraggio
+carrello
+carretto
+effetto
+forca
+gamba
+giraffa
+mano
+motore
+portabagagli
+servizio

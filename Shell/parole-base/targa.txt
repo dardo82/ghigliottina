@@ -14,3 +14,8 @@ M>T. provvisoria</E
 M>t. in prova</E
 M>dati di targa</E
 M>vincere la Targa Florio.</E
+bersaglio
+inaugurare
+numero
+scudo
+targa

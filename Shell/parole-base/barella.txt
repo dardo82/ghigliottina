@@ -6,3 +6,6 @@ barella.txt
 * ''(lettino portatile...)'' [[lettiga]], [[lettuccio]], [[portantina]]
 *''(per materiali)'' [[carriola]]
 M>bara</E
+barella
+coricare
+sopra

@@ -39,3 +39,27 @@ M>combattere</E
 M>giocare lealmente</E
 M>servire lealmente una causa</E
 M>agire lealmente</E
+accordo
+bravo
+compiangere
+concorrenza
+faccia
+fedele
+franco
+infedele
+leale
+maniera
+onore
+opposizione
+pieno
+pratica
+procedimento
+rispecchiare
+schietto
+scorretto
+sguardo
+sicuro
+sincero
+sportivo
+traditore
+vero

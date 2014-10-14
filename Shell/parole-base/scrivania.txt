@@ -15,3 +15,23 @@ M>un tavolino che chiamano scrivania</E
 M> ... e in mezzo era un grosso calamaio di bronzo</E
 M>stare alla s.</E
 M>passare le notti alla s.</E
+agenda
+aperto
+biblioteca
+calendario
+carta
+disordine
+giacere
+ingombrare
+li
+occupare
+piano
+pila
+posare
+pratica
+pulire
+ritratto
+rovesciare
+scrivania
+sotto
+ventata

@@ -10,3 +10,9 @@ alcool.txt
 "fatto (di droga o alcool)"
 "intossicazione da alcool"
 M>alcole</E
+alcool
+analcolico
+consumo
+droga
+fatto
+o

@@ -3,3 +3,6 @@ viennese.txt
 "Viennese"
 "viennese"
 "Viennese"
+paglia
+scuola
+viennese

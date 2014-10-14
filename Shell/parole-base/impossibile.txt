@@ -82,3 +82,32 @@ M>una minestra</E
 M>un vino i</E
 M>sigarette i</E
 M>una strada i</E
+apertura
+assurdo
+bello
+carattere
+concorrere
+contendere
+e
+facile
+impossibile
+impossibilità
+impresa
+incubo
+intendere
+libero
+materiale
+missione
+osare
+possibile
+quasi
+ragionevole
+reato
+rendere
+sforzo
+sperare
+supporre
+traffico
+umore
+vano
+vocabolario

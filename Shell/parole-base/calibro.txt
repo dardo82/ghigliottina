@@ -43,3 +43,10 @@ M>palmer</E
 M>micrometro</E
 M>tipometro</E
 M>sticometro</E
+alto
+calibro
+compasso
+grosso
+misurare
+pesce
+pistola

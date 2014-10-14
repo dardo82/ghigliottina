@@ -28,3 +28,37 @@ becco.txt
 * Le petit Robert
 * Badellino ''Dizionario italiano-latino'' Rosenberg&Sellier
 * Calonghi ''Dizionario latino-italiano'' Rosenberg&Sellier
+ago
+americano
+azzurro
+bagnare
+battere
+becco
+chiave
+discussione
+discutere
+ficcare
+gabbiano
+gas
+giallo
+litigare
+litigio
+martello
+mettere
+molle
+naso
+oro
+pappagallo
+pepe
+pesce
+possedere
+prendere
+quattrino
+quello
+restare
+senza
+simile
+staffa
+taglio
+tartaruga
+uccello

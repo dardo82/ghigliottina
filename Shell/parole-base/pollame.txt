@@ -7,3 +7,9 @@ pollame.txt
 M>l&#8217;allevamento</E
 M>la vendita</E
 M>il commercio del pollame</E
+allevamento
+carne
+libero
+malattia
+pollame
+pollo

@@ -1,0 +1,8 @@
+candela
+cero
+lampadina
+pila
+proiettare
+torcere
+torcia
+vento

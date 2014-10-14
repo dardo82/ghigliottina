@@ -21,3 +21,6 @@ M>sentirsi appesantito</E
 M>sapevo d’esser ingrassata</E
 M>appesantita</E
 M>brutta</E
+alleggerire
+appesantire
+caricare

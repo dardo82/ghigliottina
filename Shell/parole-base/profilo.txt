@@ -118,3 +118,34 @@ M>orizzonti</E
 M>orizzonte A</E
 M>orizzonte B</E
 M>orizzonte C</E
+ala
+animare
+basso
+classico
+contorno
+contro
+corda
+curvo
+dente
+documento
+fisico
+forma
+goccia
+greco
+lato
+modellare
+naso
+netto
+ondeggiare
+orlo
+perla
+profilo
+psicologico
+rappresentare
+ritrarre
+ritratto
+sega
+sezione
+studio
+suolo
+volto

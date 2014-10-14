@@ -43,3 +43,19 @@ M>verticali</E
 M>collocare</E
 M>disporre orizzontalmente un oggetto</E
 M>linee tracciate orizzontalmente su un foglio</E
+asse
+carrello
+diritto
+linea
+modulo
+orizzontale
+orizzonte
+otto
+piano
+posizione
+prospettiva
+ritto
+scala
+segnale
+trasmissione
+traverso

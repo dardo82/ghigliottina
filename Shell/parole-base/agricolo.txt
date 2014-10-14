@@ -23,3 +23,18 @@ M>attrezzi a</E
 M>azienda a</E
 M>popolazioni a</E
 M>agrario</E
+agricolo
+bracciante
+calendario
+centro
+contadino
+giornaliero
+gruppo
+lavoratore
+lavoro
+livello
+petrolio
+settore
+trattore
+vecchio
+zona

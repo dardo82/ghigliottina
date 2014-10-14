@@ -15,3 +15,23 @@ pennello.txt
 * ''a '''pennello'''''
 * ''tuffo a '''pennello'''''
 *italiano
+asciutto
+bandiera
+barba
+calzare
+candela
+colpo
+docile
+magico
+maneggiare
+natura
+operaio
+pennello
+secolo
+spazzola
+stare
+stendere
+stile
+tinta
+venire
+vestire

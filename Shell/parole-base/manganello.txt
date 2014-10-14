@@ -4,3 +4,6 @@ manganello.txt
 "manganello del poliziotto"
 *[[bastone]], [[randello]], [[sfollagente]]
 M>mangano</E
+bastone
+manganello
+poliziotto

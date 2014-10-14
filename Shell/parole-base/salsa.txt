@@ -38,3 +38,27 @@ salsa.txt
 *[[bachata]], [[merengue]]
 *[[salsero]]
 *italiano
+burro
+cipolla
+condire
+edera
+frutta
+inglese
+insalata
+limone
+lingua
+menta
+origine
+panna
+pepe
+piccante
+pomodoro
+premere
+pungere
+ridurre
+rosa
+salsa
+sentire
+spezie
+sugo
+verde

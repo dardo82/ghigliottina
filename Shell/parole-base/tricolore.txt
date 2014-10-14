@@ -16,3 +16,6 @@ M>Quei che ... in Alessandria Diè a l&#8217;aure primo il tricolor</E
 M> Santorre Di Santarosa</E
 M>maglia t.</E
 M>governo t.</E
+fascia
+sciarpa
+tricolore

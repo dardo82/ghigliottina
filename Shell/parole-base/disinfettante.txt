@@ -3,3 +3,6 @@ disinfettante.txt
 "disinfettante"
 "sostanza disinfettante"
 M>disinfettare</E
+disinfettante
+pizzicare
+pungere

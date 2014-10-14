@@ -16,3 +16,20 @@ m>lavoro a</e
 m>industrie a</e
 m>mostra</e
 m>fiera artigiana</e
+amico
+artigiano
+avviamento
+coscienza
+giovane
+impresa
+laboratorio
+lavoratore
+negozio
+onesto
+operaio
+operazione
+scrupolo
+sicuro
+strumento
+tipo
+uscio

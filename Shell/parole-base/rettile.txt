@@ -1,3 +1,6 @@
 rettile.txt
 "rettile"
 *[[rettilario]]
+rettile
+scheletro
+serpente

@@ -51,3 +51,12 @@ M>la conversazione comincia a riscaldarsi</E
 M>Di che contra me stesso or mi riscaldo</E
 M>ma non si riscaldi tanto</E
 M>non è proprio il caso di riscaldarsi così!</E
+azione
+cuocere
+forno
+irritare
+o
+relativo
+riscaldamento
+riscaldare
+scaldare

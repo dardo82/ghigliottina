@@ -1,0 +1,13 @@
+agente
+borghese
+cane
+istinto
+istruire
+manganello
+militare
+pista
+polizia
+poliziotto
+privato
+scena
+vigile

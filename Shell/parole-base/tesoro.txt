@@ -132,3 +132,27 @@ M>Trésor</E
 M>sei il mio tesoretto</E
 M>non piangere</E
 M> tesoruccio di mamma</E
+agente
+amico
+amore
+caccia
+camera
+cassa
+finanza
+miniera
+ministero
+mio
+parola
+perla
+pubblico
+sasso
+scavare
+scottare
+segretario
+speciale
+stanza
+tesoro
+tortura
+trovare
+uomo
+valere

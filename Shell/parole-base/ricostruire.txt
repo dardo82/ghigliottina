@@ -23,3 +23,7 @@ M>una fase protostorica</E
 M>una forma comune non documentata</E
 M>lingua ricostruita</E
 M>forme ricostruite</E
+intero
+meccanica
+particolare
+ricostruire

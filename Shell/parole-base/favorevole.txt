@@ -29,3 +29,43 @@ M>lettere f</E
 M>ricevuta ser Ciappelletto la procura e le lettere f</E
 M>del re</E
 M>accogliere favorevolmente una richiesta</E
+amico
+avversario
+buono
+cattivo
+condizione
+contrario
+critica
+crudele
+disposizione
+emettere
+favore
+favorevole
+favorire
+felice
+fortuna
+giudizio
+infelice
+interessare
+interesse
+maledetto
+modo
+momento
+negativo
+nemico
+no
+omaggio
+parere
+partecipazione
+posizione
+presentare
+riprendere
+senso
+sfortunato
+situazione
+stagione
+tempo
+utile
+vantaggioso
+votazione
+voto

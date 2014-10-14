@@ -47,3 +47,32 @@ M>S. all&#8217;altro mondo</E
 M>al diavolo</E
 M>all&#8217;inferno</E
 M>l&#8217;hanno spedito all&#8217;altro mondo con una scarica di mitra</E
+assegno
+bagaglio
+dirigere
+espresso
+fascia
+ferrovia
+lettera
+mandare
+mare
+merce
+messaggio
+mittente
+mobilio
+ordinario
+ordine
+pacco
+per
+posta
+respingere
+restituire
+ricetta
+rimandare
+rinuncia
+sotto
+spedire
+spedizione
+telegramma
+trasmettere
+urgente

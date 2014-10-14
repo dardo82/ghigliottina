@@ -1,0 +1,6 @@
+carne
+maiale
+piccante
+sagra
+salame
+salsiccia

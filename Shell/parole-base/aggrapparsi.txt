@@ -2,3 +2,7 @@ aggrapparsi.txt
 "aggrapparsi a qcs"
 "aggrapparsi a; tenersi stretto a"
 "attaccarsi a qcs, aggrapparsi a qcs, afferrare qcs"
+afferrare
+aggrapparsi
+roccia
+stretto

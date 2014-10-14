@@ -1,0 +1,17 @@
+barriera
+base
+classe
+fascia
+feriale
+ordinario
+pagare
+piano
+pubblico
+speciale
+superiore
+tabella
+tariffa
+tassa
+trovare
+voce
+volo

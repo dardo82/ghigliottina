@@ -14,3 +14,5 @@ M> è sottinteso</E
 M>il s. non è sfuggito a nessuno</E
 M>parlare a sottintesi</E
 M>di&#8217; apertamente quello che pensi senza sottintesi</E
+esplicito
+sottinteso

@@ -86,3 +86,31 @@ M>stare mediocremente</E
 M>più che mediocremente</E
 M>conosce due lingue straniere più che mediocremente</E
 M>mediocremente difficile</E
+banale
+comportamento
+discreto
+dozzina
+eccellente
+fotografo
+geniale
+ingegno
+intelligenza
+lavoro
+mantenere
+mediocre
+meraviglioso
+meschino
+modesto
+opera
+oratore
+ordinario
+poesia
+pregiato
+pregiudizio
+rappresentazione
+salario
+scrittore
+sfondare
+singolare
+statura
+trattamento

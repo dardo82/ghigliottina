@@ -1,0 +1,7 @@
+aprire
+chiudere
+coda
+forma
+pettine
+stecca
+ventaglio

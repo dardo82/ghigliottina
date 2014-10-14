@@ -1,0 +1,11 @@
+benzina
+gas
+gasolio
+petrolio
+provvista
+recipiente
+riscaldamento
+scorta
+serbatoio
+tenore
+tenuta

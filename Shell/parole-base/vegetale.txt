@@ -21,3 +21,28 @@ vegetale.txt
 *[[pianta]]
 * [[vegetariano]]
 * [[animale]]; [[minerale]] 
+alimentazione
+allevamento
+animale
+brodo
+burro
+carbone
+catrame
+cellula
+corda
+formazione
+geografia
+lana
+materasso
+maturo
+minestra
+organismo
+origine
+regno
+seta
+spugna
+tappeto
+vegetale
+vegetazione
+veleno
+vino

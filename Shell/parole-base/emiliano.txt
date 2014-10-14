@@ -4,3 +4,8 @@ emiliano.txt
 M>Aemilianus</E
 M>le città e</E
 M>parlare con accento e</E
+colore
+emiliano
+fratello
+lavoro
+ultimo

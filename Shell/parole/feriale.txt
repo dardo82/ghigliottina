@@ -1,0 +1,5 @@
+feriale
+festa
+giorno
+lavorativo
+lettera

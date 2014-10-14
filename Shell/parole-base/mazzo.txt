@@ -9,3 +9,32 @@ mazzo.txt
 "mazzo di fiori"
 "mazzo di fiori"
 *[[quantità]], [[insieme]]
+ammazzare
+bocca
+botte
+cavalcare
+cavaliere
+confondere
+confusione
+erba
+fascio
+fiore
+foresta
+grido
+mandare
+mazzo
+nave
+ornare
+pane
+pescare
+polmone
+precedere
+quaranta
+ricompensare
+rosa
+ruggine
+rumore
+scavalcare
+sostenere
+tenere
+valere

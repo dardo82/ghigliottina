@@ -11,3 +11,5 @@ M>l’uomo è un m</E
 M>la balena è un animale mammifero</E
 M>mammiferi</E
 M>Mammalia</E
+mammifero
+marino

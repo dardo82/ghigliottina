@@ -1,0 +1,12 @@
+centrale
+fungo
+guida
+locomotiva
+metropolitana
+rotaia
+saldatura
+selvaggio
+strada
+tram
+trasporto
+veicolo

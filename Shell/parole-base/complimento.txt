@@ -3,3 +3,15 @@ complimento.txt
 "complimento, replace: complimenti"
 "grazie del complimento"
 *[[congratulazione]], [[rallegramento]], [[elogio]], [[encomio]], [[lode]] 
+apprezzare
+banale
+complimento
+condoglianza
+grazie
+offesa
+recitare
+ricambiare
+rinnovare
+traverso
+valere
+velenoso

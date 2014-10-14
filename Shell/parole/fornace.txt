@@ -1,0 +1,5 @@
+attivo
+fornace
+gas
+gola
+olio

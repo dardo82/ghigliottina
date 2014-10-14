@@ -3,3 +3,7 @@ studentessa.txt
 "studentessa di college"
 "studentessa di primo anno"
 "studentessa di scuola\/università mista"
+anno
+studente
+studentessa
+universitario

@@ -35,3 +35,21 @@ M>il malinteso è nato da una frase</E
 M>che</E
 M>in sé</E
 M>era insignificante</E
+banale
+considerevole
+contenuto
+cosa
+dettaglio
+discussione
+geniale
+imponente
+importante
+insignificante
+magnifico
+massiccio
+mediocre
+meraviglioso
+minimo
+senza
+stupido
+ultimo

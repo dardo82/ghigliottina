@@ -24,3 +24,12 @@ M>goals</E
 M>óul</E
 M>gòl</E
 M>rete</E
+area
+bandiera
+durante
+fantasma
+goal
+marcare
+rigore
+rubare
+valere

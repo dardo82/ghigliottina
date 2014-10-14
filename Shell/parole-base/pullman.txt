@@ -9,3 +9,14 @@ M>autopullman</E
 M>autobus</E
 M>autocorriera</E
 M>una vettura pullman</E
+autista
+autobus
+garage
+partenza
+partire
+pellegrino
+pullman
+turismo
+viaggiare
+viaggiatore
+viaggio

@@ -4,3 +4,7 @@ torchio.txt
 "torchio"
 "torchio per olio"
 "torchio tipografico manuale"
+sotto
+stampa
+stampare
+torchio

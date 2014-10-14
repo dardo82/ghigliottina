@@ -1,0 +1,3 @@
+autore
+cantante
+cantautore

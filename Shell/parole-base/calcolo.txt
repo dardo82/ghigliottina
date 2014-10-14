@@ -24,3 +24,45 @@ calcolo.txt
 "punto di calcolo"
 "teorema fondamentale del calcolo"
 *[[operazione]], [[conto]], [[conteggio]], [[computo]]
+analisi
+calcolare
+calcolatrice
+calcolo
+comprendere
+concreto
+conto
+correzione
+creare
+disinteresse
+disporre
+elemento
+elettronico
+errore
+esattezza
+foglio
+fondamentale
+ginnastica
+immaginare
+immergere
+integrale
+letterale
+logica
+macchina
+matematica
+matematico
+mentale
+possibile
+potenza
+preventivo
+procedimento
+procedura
+proposizione
+risultato
+sede
+sistema
+sposare
+trascurare
+ultimo
+variazione
+venire
+viziare

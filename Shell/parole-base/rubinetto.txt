@@ -17,3 +17,12 @@ M>a spillo</E
 M>a richiusura automatica</E
 M>miscelatore</E
 M>a comando elettromagnetico</E
+acqua
+aprire
+doccia
+guaio
+guastare
+ottone
+riaprire
+rubinetto
+scorrere

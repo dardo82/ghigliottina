@@ -20,3 +20,17 @@ M>d’antenna</E
 M>impianto</E
 M>dispositivo a</E
 M>del suono</E
+accendere
+accordare
+adattare
+amplificatore
+applicare
+frequenza
+ingresso
+potenza
+rispondere
+soffio
+stadio
+tubo
+uscita
+valvola

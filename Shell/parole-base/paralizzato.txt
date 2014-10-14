@@ -2,3 +2,9 @@ paralizzato.txt
 "bloccato da, paralizzato da"
 "paralizzato"
 "paralizzato su un lato"
+invalido
+lato
+paralizzato
+parte
+rigido
+sensibile

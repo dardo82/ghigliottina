@@ -44,3 +44,34 @@ M>ha un nipotino che è un terremoto.</E
 M>c&#8217;è stato un t. nelle alte cariche del partito</E
 M>la nomina del nuovo direttore ha prodotto un t. al ministero</E
 M>i risultati elettorali hanno avuto l&#8217;effetto di un t. nella vita politica del paese.</E
+apertura
+ballare
+catastrofe
+colletta
+da
+danneggiare
+danno
+disastro
+distruggere
+ecco
+forte
+grave
+intenso
+lasciare
+leggero
+polo
+privo
+resistere
+risentire
+risparmiare
+rovina
+salvare
+scampare
+scossa
+scuotere
+secondario
+strage
+terremoto
+violento
+violenza
+vittima

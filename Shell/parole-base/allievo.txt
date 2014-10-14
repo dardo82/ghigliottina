@@ -6,3 +6,18 @@ allievo.txt
 #* ''L''''allievo''' attendeva ansioso l'inizio della lezione.''
 *[[studente]], [[alunno]], [[scolaro]], [[discepolo]], [[ seguace]], [[ apprendista]], [[ praticante]], [[ tirocinante]], [[ principiante]], [[novizio]], [[discente]]
 *[[veterano]], [[ maestro]], [[esperto]] 
+allievo
+alunno
+discreto
+docile
+insegnante
+istruttore
+maestro
+orgoglioso
+posizione
+provvedimento
+seguire
+studente
+studioso
+superare
+volenteroso

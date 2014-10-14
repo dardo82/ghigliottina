@@ -35,3 +35,11 @@ M>nastro di Möbius generalizzato</E
 M>far cuffia</E
 M>fare scuffia</E
 M> scuffiare</E
+chiave
+cuffia
+laccio
+passare
+protezione
+radice
+salvare
+uscire

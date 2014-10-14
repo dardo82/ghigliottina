@@ -30,3 +30,41 @@ M>epìstola</E
 M>Biancofiore piegò la scritta pistola</E
 M>l&#8217;antico volgarizzamento delle p</E
 M>d&#8217;Ovidio citato dalla Crusca</E
+arma
+armare
+battere
+calcio
+caldo
+calibro
+cane
+colpo
+commercio
+contro
+corrispondenza
+duello
+esplodere
+estrarre
+finire
+forma
+fucile
+grosso
+lettera
+litigare
+minaccia
+paura
+pistola
+proiettile
+puntare
+rapporto
+ritto
+ruota
+salve
+secco
+stendere
+stile
+strappare
+tamburo
+tempia
+tenere
+tirare
+violare

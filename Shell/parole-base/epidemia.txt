@@ -3,3 +3,24 @@ epidemia.txt
 "epidemia"
 "epidemia diffusa"
 *[[contagio]], [[infezione]], [[pandemia]], [[pestilenza]], [[endemia]]
+campo
+contagiare
+dilagare
+distruggere
+epidemia
+guarire
+invasione
+mietere
+migliaio
+miserabile
+pericolo
+peste
+provvedere
+ritorno
+salvare
+scoppio
+spargere
+sviluppare
+sviluppo
+violenza
+vittima

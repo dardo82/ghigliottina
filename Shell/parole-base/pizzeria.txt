@@ -5,3 +5,5 @@ pizzeria.txt
 "pizzeria"
 *[[pizzaiolo]]
 M>ristorante pizzeria</E
+pizzeria
+ristorante

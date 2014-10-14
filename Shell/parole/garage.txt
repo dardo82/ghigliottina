@@ -1,0 +1,6 @@
+garage
+pavimento
+prigioniero
+pullman
+solito
+vendita

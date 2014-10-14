@@ -31,3 +31,16 @@ M>in una lite</E
 M>in una discussione</E
 M>in una gara di domanda e risposta</E
 M>giudice arbitro</E
+arbitro
+entrata
+fischio
+giudice
+gridare
+ingiusto
+intervento
+parziale
+scorretto
+sfera
+super
+urlare
+valere

@@ -3,3 +3,17 @@ pendolo.txt
 "orologio a pendolo"
 "pendolo"
 "pendolo"
+bilancia
+contatore
+frequenza
+meccanica
+orologio
+oscillare
+pendolo
+quarto
+registrazione
+ritmo
+scoprire
+sistema
+sospensione
+trascurare

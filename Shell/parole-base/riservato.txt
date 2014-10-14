@@ -57,3 +57,33 @@ M>risparmiato</E
 M>incisione a taglio r</E
 M>risparmiato</E
 M>incisione in rilievo</E
+adulto
+altare
+artista
+avvicinare
+carattere
+caso
+colloquio
+conoscenza
+consolazione
+coraggioso
+curioso
+discreto
+dominio
+esclusivo
+essere
+gravidanza
+ingresso
+modesto
+musica
+parcheggio
+partita
+personale
+riserva
+riservare
+riservato
+risparmiare
+segreto
+spazio
+stato
+ufficio

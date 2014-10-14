@@ -31,3 +31,45 @@ M>di stipulare un contratto</E
 M>d’intendere e di volere</E
 M>la tutela degli incapaci</E
 M>circonvenzione di incapace</E
+applicazione
+arrossire
+bestia
+bravo
+buono
+capace
+cattivo
+comunicare
+comunicazione
+decisione
+dire
+esperto
+giudicare
+goffo
+ignorante
+impotente
+incapace
+incapacità
+insegnare
+insufficiente
+intendere
+lasciare
+maestra
+maestro
+nobile
+povero
+pratico
+psicologico
+richiamare
+ricordare
+riflessione
+riuscire
+sapiente
+sentimento
+sicuro
+sprofondare
+talento
+uccello
+vecchio
+violenza
+volare
+volere

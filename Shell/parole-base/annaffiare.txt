@@ -14,3 +14,10 @@ M>l’orto</E
 M>le strade</E
 M>una pioggerella che ha annaffiato i seminati</E
 M>il vino</E
+annaffiare
+asciugare
+bagnare
+fiore
+giardino
+pompa
+prato

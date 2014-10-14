@@ -9,3 +9,8 @@ M>carta</E
 M>penna e c</E
 M>tascabile</E
 M>calamaro</E
+calamaio
+penna
+rovesciare
+scrivania
+tuffare

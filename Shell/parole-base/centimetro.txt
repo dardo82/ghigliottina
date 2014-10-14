@@ -11,3 +11,9 @@ M>metro</E
 M>centimètre</E
 M>d’induttanza</E
 M>metro da sarti</E
+centimetro
+cubo
+doppio
+metro
+quadrato
+quadro

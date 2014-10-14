@@ -28,3 +28,11 @@ M>guida i</E
 M>agire</E
 M>comportarsi irresponsabilmente</E
 M>fare irresponsabilmente un sorpasso in curva</E
+allegro
+cosciente
+imprudente
+incosciente
+irresponsabile
+quadrato
+responsabile
+serio

@@ -42,3 +42,9 @@ M>interessi debitori</E
 M>interessi passivi</E
 M>saldo d</E
 M>bobina debitrice</E
+citare
+debitore
+delegare
+garantire
+restare
+riscuotere

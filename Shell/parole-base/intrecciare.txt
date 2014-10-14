@@ -50,3 +50,5 @@ M>capriola intrecciata</E
 M>intrecciata</E
 M>punto intrecciato</E
 M>semplice</E
+imbrogliare
+intrecciare

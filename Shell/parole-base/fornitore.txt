@@ -13,3 +13,6 @@ M>dell’albergo</E
 M>dell’istituto</E
 M>fornitori della Real Casa</E
 M>dei Sacri Palazzi</E
+cliente
+fornire
+fornitore

@@ -1,0 +1,8 @@
+chiave
+cuffia
+laccio
+passare
+protezione
+radice
+salvare
+uscire

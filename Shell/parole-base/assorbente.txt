@@ -19,3 +19,9 @@ M>acustico</E
 M>isolante acustico</E
 M>metallico</E
 M>getter</E
+asciugare
+assorbente
+assorbire
+carta
+foglio
+premere

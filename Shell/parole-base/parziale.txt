@@ -51,3 +51,39 @@ M>una critica p</E
 M>e malevola</E
 M>lavoro eseguito solo parzialmente</E
 M>giudicare parzialmente</E
+atteggiamento
+complessivo
+disinteressato
+disoccupazione
+generale
+giudizio
+giusto
+indipendente
+informazione
+integrale
+intero
+inventario
+lavoro
+licenziare
+media
+modifica
+neutrale
+occupazione
+oggetto
+ordinamento
+paralisi
+parziale
+perfetto
+pressione
+processo
+relativo
+riforma
+risultato
+sciopero
+sereno
+somma
+tempo
+totale
+tutto
+vizio
+vuoto
