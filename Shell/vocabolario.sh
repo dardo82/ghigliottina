@@ -17,7 +17,7 @@ for p in $(cat $PT); do
     curl $FB$q | egrep -io '.*name.*' >> $PBT
 done
 for f in $PB/*; do
-    echo ${f##*/} >> $VT
+    echo ${f:t} >> $VT
     cat $f >> $VT
     echo >> $VT
 done
@@ -30,4 +30,4 @@ for f in *; do
     cat $f >> ../$VT
     echo >> ../$VT
 done
-rm -fr $P $PB $PT $VBT
+cd ..; rm -fr $P $PB $PT $VBT
